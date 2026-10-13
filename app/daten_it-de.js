@@ -347,6 +347,38 @@ window.SPRACHEN["it-de"] = {
     "ga_23",
     "ga_24"
    ]
+  },
+  {
+   "id": "musica",
+   "name": "Musica e lingua",
+   "de": "Musik und Sprache",
+   "symbol": "🎵",
+   "wendungen": [
+    "mu_01",
+    "mu_02",
+    "mu_03",
+    "mu_04",
+    "mu_05",
+    "mu_06",
+    "mu_07",
+    "mu_08",
+    "mu_09",
+    "mu_10",
+    "mu_11",
+    "mu_12",
+    "mu_13",
+    "mu_14",
+    "mu_15",
+    "mu_16",
+    "mu_17",
+    "mu_18",
+    "mu_19",
+    "mu_20",
+    "mu_21",
+    "mu_22",
+    "mu_23",
+    "mu_24"
+   ]
   }
  ],
  "wendungen": [
@@ -1949,6 +1981,504 @@ window.SPRACHEN["it-de"] = {
     "de": "Entschuldigung, Signora, haben Sie eine Katze? Da ist eine auf Ihrem Dach.",
     "luecke": "ha un gatto, Lei",
     "audio": "audio/it-de/saetze/ga_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_01",
+   "thema": "musica",
+   "fr": "cantare intonato",
+   "de": "richtig (sauber) singen",
+   "register": "tu",
+   "anker": "cantare",
+   "notiz": "intonato = richtig gestimmt, sauber (il tono = Ton); Gegenteil: stonato. mio fratello ohne Artikel (Familie im Singular!), aber il mio gatto.",
+   "audio": null,
+   "satz": {
+    "fr": "Mio fratello canta intonato, io canto con il cuore.",
+    "de": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
+    "luecke": "canta intonato",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ieri ha cantato intonato.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Domani canterà intonato. Lui.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_02",
+   "thema": "musica",
+   "fr": "stonare",
+   "de": "schief singen",
+   "register": "tu",
+   "anker": "stonare",
+   "notiz": "stonare = falsch singen, aus dem Ton fallen (auch: nicht dazupassen – questo colore stona); una stonatura = ein Missklang. forte = laut und stark.",
+   "audio": null,
+   "satz": {
+    "fr": "Stono, ma forte. Compensa.",
+    "de": "Ich singe schief, aber laut. Das gleicht es aus.",
+    "luecke": "Stono",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho stonato tutta la sera.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Stonerò, ma con passione.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_03",
+   "thema": "musica",
+   "fr": "il ritornello",
+   "de": "der Refrain",
+   "register": "tu",
+   "anker": "conoscere",
+   "notiz": "il ritornello = Refrain (ritornare = zurückkehren – er kehrt immer wieder); la strofa = Strophe. conoscere = kennen, sapere = wissen/können.",
+   "audio": null,
+   "satz": {
+    "fr": "Non conosco le parole, ma il ritornello sì.",
+    "de": "Ich kenne den Text nicht, aber den Refrain.",
+    "luecke": "ritornello",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_04",
+   "thema": "musica",
+   "fr": "il testo",
+   "de": "der Liedtext",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "il testo = Text (auch Schulbuch: il libro di testo); le parole di una canzone geht auch. la canzone = das Lied (Betonung can-ZO-ne).",
+   "audio": null,
+   "satz": {
+    "fr": "Il testo di questa canzone mi fa venire la pelle d'oca.",
+    "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
+    "luecke": "testo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_05",
+   "thema": "musica",
+   "fr": "suona bene",
+   "de": "das klingt gut",
+   "register": "tu",
+   "anker": "suonare",
+   "notiz": "suonare = klingen, läuten, und ein Instrument spielen; suona bene/male. in italiano = auf Italienisch (ohne Artikel).",
+   "audio": null,
+   "satz": {
+    "fr": "In italiano questa frase suona bene. In tedesco, meno.",
+    "de": "Auf Italienisch klingt dieser Satz gut. Auf Deutsch weniger.",
+    "luecke": "suona bene",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_06",
+   "thema": "musica",
+   "fr": "avere orecchio",
+   "de": "ein gutes Gehör haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "wörtlich „Ohr haben“ (ohne Artikel) = musikalisches Gehör; l'orecchio, Plural le orecchie (weiblich!). subito = sofort.",
+   "audio": null,
+   "satz": {
+    "fr": "Giovanni ha orecchio: sente subito il mio accento tedesco.",
+    "de": "Giovanni hat ein gutes Gehör: Er hört sofort meinen deutschen Akzent.",
+    "luecke": "ha orecchio",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_07",
+   "thema": "musica",
+   "fr": "l'accento",
+   "de": "der Akzent",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "l'accento = Akzent (Aussprache und Schriftzeichen: è, perché); un misto di = eine Mischung aus; la buona volontà = der gute Wille.",
+   "audio": null,
+   "satz": {
+    "fr": "Il mio accento è un misto di Saarland e buona volontà.",
+    "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
+    "luecke": "accento",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_08",
+   "thema": "musica",
+   "fr": "la musica della lingua",
+   "de": "die Musik der Sprache",
+   "register": "tu",
+   "anker": "amare",
+   "notiz": "quello che … è … = was …, ist … (Hervorhebung); la lingua = Sprache und Zunge. di + l' = dell'.",
+   "audio": null,
+   "satz": {
+    "fr": "Quello che amo dell'italiano è la musica della lingua.",
+    "de": "Was ich am Italienischen liebe, ist die Musik der Sprache.",
+    "luecke": "la musica della lingua",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_09",
+   "thema": "musica",
+   "fr": "suonare uno strumento",
+   "de": "ein Instrument spielen",
+   "register": "tu",
+   "anker": "suonare",
+   "notiz": "suonare + Instrument mit Artikel (suonare la chitarra, il piano); giocare = spielen (Spiel, Sport: giocare a calcio). uno strumento (uno vor s + Konsonant).",
+   "audio": null,
+   "satz": {
+    "fr": "Suoni uno strumento? – Sì, la chitarra, male.",
+    "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
+    "luecke": "Suoni uno strumento",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hai suonato uno strumento da piccolo?",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Suonerai uno strumento? Spero di no.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_10",
+   "thema": "musica",
+   "fr": "ascoltare in loop",
+   "de": "in Dauerschleife hören",
+   "register": "tu",
+   "anker": "ascoltare",
+   "notiz": "in loop = Anglizismus, ganz normal; auch: a ripetizione. da tre giorni = seit drei Tagen, mit Präsens (ascolto … da).",
+   "audio": null,
+   "satz": {
+    "fr": "Ascolto questa canzone in loop da tre giorni.",
+    "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
+    "luecke": "in loop",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho ascoltato questa canzone in loop.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ascolterò questa canzone in loop.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_11",
+   "thema": "musica",
+   "fr": "avere una canzone in testa",
+   "de": "einen Ohrwurm haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "wörtlich „ein Lied im Kopf haben“ (in testa, ohne Artikel); auch: un tormentone = der Ohrwurm, der Sommerhit. « Volare » = Modugnos Nel blu dipinto di blu (1958).",
+   "audio": null,
+   "satz": {
+    "fr": "Ho « Volare » in testa da stamattina. Grazie, Giovanni.",
+    "de": "Ich habe seit heute Morgen „Volare“ im Kopf. Danke, Giovanni.",
+    "luecke": "in testa",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho avuto « Volare » in testa tutto il giorno.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Avrò « Volare » in testa per giorni.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_12",
+   "thema": "musica",
+   "fr": "canticchiare",
+   "de": "summen, vor sich hin singen",
+   "register": "tu",
+   "anker": "canticchiare",
+   "notiz": "cantare + -icchiare (verniedlichend, beiläufig) = vor sich hin singen; mentre = während. lo sanno = sie wissen es (lo = es).",
+   "audio": null,
+   "satz": {
+    "fr": "Canticchio mentre correggo i compiti. Gli alunni non lo sanno.",
+    "de": "Ich summe beim Korrigieren. Die Schüler wissen es nicht.",
+    "luecke": "Canticchio",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho canticchiato tutta la mattina.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Canticchierò, sicuro.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_13",
+   "thema": "musica",
+   "fr": "il ritmo",
+   "de": "der Rhythmus",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "il ritmo (ohne y und h!); cadere = fallen. Meist Betonung auf der vorletzten Silbe (ca-SA, a-MI-co), Ausnahmen mit Akzent (cit-TÀ) oder sdrucciole (TA-vo-lo).",
+   "audio": null,
+   "satz": {
+    "fr": "L'italiano ha un ritmo: l'accento cade sulla penultima sillaba.",
+    "de": "Das Italienische hat einen Rhythmus: Der Akzent fällt auf die vorletzte Silbe.",
+    "luecke": "ritmo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_14",
+   "thema": "musica",
+   "fr": "le doppie",
+   "de": "die Doppelkonsonanten",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "le doppie (consonanti) = Doppelkonsonanten, für Deutsche die Hauptfalle: wirklich länger sprechen! pala (Schaufel) / palla (Ball), nono (neunter) / nonno (Opa).",
+   "audio": null,
+   "satz": {
+    "fr": "Pala e palla, nono e nonno: le doppie sono la musica tra le lettere.",
+    "de": "Pala und palla, nono und nonno: Die Doppelkonsonanten sind die Musik zwischen den Buchstaben.",
+    "luecke": "le doppie",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_15",
+   "thema": "musica",
+   "fr": "pronunciare",
+   "de": "aussprechen",
+   "register": "tu",
+   "anker": "riuscire",
+   "notiz": "pronunciare (mit c, anders als im Deutschen); non riesco a + Infinitiv = ich schaffe es nicht zu (riuscire mit essere: sono riuscito). gli = [ʎi], wie „lj“ in Familie.",
+   "audio": null,
+   "satz": {
+    "fr": "Non riesco a pronunciare « gli ». Dico « li ». Giovanni sorride.",
+    "de": "Ich schaffe es nicht, „gli“ auszusprechen. Ich sage „li“. Giovanni lächelt.",
+    "luecke": "pronunciare",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Non sono riuscito a pronunciare « gli ».",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Riuscirò a pronunciare « gli ». Un giorno.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_16",
+   "thema": "musica",
+   "fr": "un brano",
+   "de": "ein Musikstück",
+   "register": "tu",
+   "anker": "rendere",
+   "notiz": "un brano = Stück (Musik, Text: un brano di un libro); un pezzo geht auch. allo stesso tempo = gleichzeitig.",
+   "audio": null,
+   "satz": {
+    "fr": "Questo brano per pianoforte mi rende felice e triste allo stesso tempo.",
+    "de": "Dieses Klavierstück macht mich gleichzeitig glücklich und traurig.",
+    "luecke": "brano",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_17",
+   "thema": "musica",
+   "fr": "a squarciagola",
+   "de": "aus voller Kehle",
+   "register": "tu",
+   "anker": "cantare",
+   "notiz": "wörtlich „kehlenzerreißend“ (squarciare = zerreißen, la gola = Kehle); cantare/urlare a squarciagola. in macchina = im Auto.",
+   "audio": null,
+   "satz": {
+    "fr": "In macchina canto a squarciagola. Da solo. Sempre da solo.",
+    "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
+    "luecke": "a squarciagola",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_18",
+   "thema": "musica",
+   "fr": "una voce bassa / acuta",
+   "de": "eine tiefe / hohe Stimme",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "bassa = tief (Stimme; auch: niedrig, leise – a voce bassa = leise); acuta = hoch, spitz. una voce da prof = eine Lehrerstimme (da = typisch für).",
+   "audio": null,
+   "satz": {
+    "fr": "Lui ha una voce bassa, lei una voce acuta, e io ho una voce da prof.",
+    "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
+    "luecke": "voce bassa",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_19",
+   "thema": "musica",
+   "fr": "mi parla",
+   "de": "das spricht mich an",
+   "register": "tu",
+   "anker": "parlare",
+   "notiz": "wörtlich „es spricht mir“; mi parla = das sagt mir etwas. non mi dice niente = sagt mir nichts. capire = verstehen (capisco, -isc-).",
+   "audio": null,
+   "satz": {
+    "fr": "Questa canzone mi parla. Non capisco tutto, ma mi parla.",
+    "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
+    "luecke": "mi parla",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_20",
+   "thema": "musica",
+   "fr": "imparare a memoria",
+   "de": "auswendig lernen",
+   "register": "tu",
+   "anker": "imparare",
+   "notiz": "wörtlich „nach Gedächtnis lernen“ (a memoria); imparare = lernen (studiare = lernen für die Schule). il vocabolario = Wortschatz und Wörterbuch.",
+   "audio": null,
+   "satz": {
+    "fr": "Imparo i testi a memoria, è il mio vocabolario preferito.",
+    "de": "Ich lerne die Liedtexte auswendig, das ist mein Lieblingswortschatz.",
+    "luecke": "Imparo i testi a memoria",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho imparato il testo a memoria.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Imparerò il testo a memoria.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_21",
+   "thema": "musica",
+   "fr": "sbagliare parola",
+   "de": "das falsche Wort erwischen",
+   "register": "tu",
+   "anker": "sbagliare",
+   "notiz": "sbagliare + Nomen ohne Artikel = das Falsche erwischen: sbagliare strada, porta, numero. sbagliare = sich irren; uno sbaglio = ein Fehler. sbagliando s'impara.",
+   "audio": null,
+   "satz": {
+    "fr": "Sbaglio spesso parola, ma la melodia è giusta.",
+    "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
+    "luecke": "Sbaglio spesso parola",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho sbagliato parola. Di nuovo.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sbaglierò parola, lo so.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_22",
+   "thema": "musica",
+   "fr": "mi fa bene",
+   "de": "das tut mir gut",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "fare bene a qualcuno = guttun; Gegenteil: fare male = wehtun (mi fa male la testa). Infinitiv als Subjekt: cantare … mi fa bene.",
+   "audio": null,
+   "satz": {
+    "fr": "Cantare la sera mi fa bene.",
+    "de": "Abends singen tut mir gut.",
+    "luecke": "mi fa bene",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Cantare mi ha fatto bene.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Cantare mi farà bene.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "mu_23",
+   "thema": "musica",
+   "fr": "una lingua cantata",
+   "de": "eine gesungene (melodische) Sprache",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "cantata = gesungen (Partizip als Adjektiv); auch: una lingua musicale, cantilenante. lamentarsi = sich beklagen; ci si lamenta = man beklagt sich (si + si → ci si).",
+   "audio": null,
+   "satz": {
+    "fr": "L'italiano è una lingua cantata. Anche quando ci si lamenta.",
+    "de": "Italienisch ist eine gesungene Sprache. Auch beim Jammern.",
+    "luecke": "lingua cantata",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_24",
+   "thema": "musica",
+   "fr": "Potrebbe ripetere più lentamente?",
+   "de": "Könnten Sie das langsamer wiederholen? (höflich)",
+   "register": "vous",
+   "anker": "potere",
+   "notiz": "potrebbe = Konditional, Lei-Form; più lentamente = langsamer (Komparativ mit più); auch: più piano. scusi = Lei-Form von scusare.",
+   "audio": null,
+   "satz": {
+    "fr": "Scusi, potrebbe ripetere più lentamente? Ascolto la musica, non le parole.",
+    "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
+    "luecke": "potrebbe ripetere più lentamente",
+    "audio": null
    },
    "zeit": null
   }

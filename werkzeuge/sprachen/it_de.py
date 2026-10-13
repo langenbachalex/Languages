@@ -17,6 +17,7 @@ THEMEN = [
     {"id": "colleghi", "name": "Tra colleghi", "de": "Unter Lehrern – mit Giovanni", "symbol": "🧑‍🏫", "datei": "tra_colleghi.tsv"},
     {"id": "sentimenti", "name": "Sentimenti e atmosfere", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "sentimenti.tsv"},
     {"id": "gatti", "name": "I gatti", "de": "Die Katzen", "symbol": "🐈", "datei": "gatti.tsv"},
+    {"id": "musica", "name": "Musica e lingua", "de": "Musik und Sprache", "symbol": "🎵", "datei": "musica.tsv"},
 ]
 
 # Titel – Leiter der Leckereien
