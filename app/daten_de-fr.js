@@ -860,21 +860,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "nahegehen",
    "notiz": "littéralement « ça me va près » – nahegehen = toucher, émouvoir (particule séparable, participe nahegegangen avec sein) ; mir = datif. Aussi : das berührt mich.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_01.mp3",
    "satz": {
     "fr": "Dieses Lied geht mir jedes Mal nahe.",
     "de": "Cette chanson me touche à chaque fois.",
     "luecke": "geht mir jedes Mal nahe",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dieses Lied ist mir nahegegangen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_01_pc.mp3"
     },
     "fp": {
      "fr": "Dieses Lied wird mir nahegehen, das weiß ich.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_01_fp.mp3"
     }
    }
   },
@@ -886,21 +886,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Hänger = « celui qui pend » (hängen) – un coup de mou, un passage à vide ; familier. Aussi : niedergeschlagen sein, ein Tief haben. sonntagabends = le dimanche soir (habitude, minuscule, -s).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_02.mp3",
    "satz": {
     "fr": "Sonntagabends habe ich oft einen Hänger.",
     "de": "Le dimanche soir, j'ai souvent le cafard.",
     "luecke": "habe ich oft einen Hänger",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern hatte ich einen Hänger.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_02_pc.mp3"
     },
     "fp": {
      "fr": "Sonntag werde ich einen Hänger haben, wie immer.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_02_fp.mp3"
     }
    }
   },
@@ -912,12 +912,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "mögen",
    "notiz": "düster = sombre (ambiance, histoire) ; dunkel = sombre (lumière). Adjectif décliné devant le nom : düstere Geschichten (pluriel sans article). das Geheimnis = le secret.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_03.mp3",
    "satz": {
     "fr": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "de": "J'aime les histoires sombres, avec une forêt et un secret.",
     "luecke": "düstere",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_03.mp3"
    },
    "zeit": null
   },
@@ -929,12 +929,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "comme en français ; die Melancholie. Attention au ch prononcé [k] ici : melan-KO-lisch. das Klavierstück = Klavier + Stück (le morceau de piano).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_04.mp3",
    "satz": {
     "fr": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "de": "Ce morceau de piano est mélancolique, mais tellement beau.",
     "luecke": "melancholisch",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_04.mp3"
    },
    "zeit": null
   },
@@ -946,21 +946,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "brechen",
    "notiz": "brechen = casser, briser (bricht, participe gebrochen) ; mir = datif (« à moi ») ; das Herz = le cœur. Infinitive avec zu en fin de groupe : weinen zu sehen.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_05.mp3",
    "satz": {
     "fr": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "de": "Voir un enfant pleurer tout seul, ça me fend le cœur.",
     "luecke": "bricht mir das Herz",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Das hat mir das Herz gebrochen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_05_pc.mp3"
     },
     "fp": {
      "fr": "Das wird mir das Herz brechen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_05_fp.mp3"
     }
    }
   },
@@ -972,12 +972,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "gerührt = participe de rühren (remuer, émouvoir) ; zu Tränen gerührt = ému aux larmes. Pas « aufgeregt » (= excité, nerveux). die Träne = la larme.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_06.mp3",
    "satz": {
     "fr": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "de": "À la fin du concert, j'étais ému aux larmes.",
     "luecke": "gerührt",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_06.mp3"
    },
    "zeit": null
   },
@@ -989,12 +989,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "unheimlich = inquiétant, sinistre (un- + heimlich, « pas comme à la maison ») ; familièrement aussi « énormément » : unheimlich gut. still = silencieux, calme.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_07.mp3",
    "satz": {
     "fr": "Das Haus war still. Es war unheimlich.",
     "de": "La maison était silencieuse, c'était inquiétant.",
     "luecke": "unheimlich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_07.mp3"
    },
    "zeit": null
   },
@@ -1006,12 +1006,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "de beruhigen = calmer, apaiser (ruhig = calme) ; beruhig dich ! = calme-toi. das Schnurren = le ronronnement (infinitif substantivé, neutre). meiner Katze = génitif.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_08.mp3",
    "satz": {
     "fr": "Das Schnurren meiner Katze ist beruhigend.",
     "de": "Le ronronnement de mon chat est apaisant.",
     "luecke": "beruhigend",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_08.mp3"
    },
    "zeit": null
   },
@@ -1023,21 +1023,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "comme en français ; in den Augen = datif pluriel (das Auge, die Augen). Subordonnée avec wenn : verbe à la fin (höre), puis inversion dans la principale (habe ich).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_09.mp3",
    "satz": {
     "fr": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "de": "Quand j'écoute cette voix, j'ai les larmes aux yeux.",
     "luecke": "habe ich Tränen in den Augen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_09.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte Tränen in den Augen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_09_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde Tränen in den Augen haben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_09_fp.mp3"
     }
    }
   },
@@ -1049,21 +1049,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "bekommen",
    "notiz": "die Gänsehaut = « la peau d'oie » = la chair de poule ; bekommen = recevoir, avoir (jamais « devenir » – faux ami avec l'anglais become !). beim = bei dem (au moment de).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_10.mp3",
    "satz": {
     "fr": "Beim Refrain bekomme ich Gänsehaut.",
     "de": "Le refrain me donne des frissons.",
     "luecke": "bekomme ich Gänsehaut",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Beim Refrain habe ich Gänsehaut bekommen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_10_pc.mp3"
     },
     "fp": {
      "fr": "Beim Refrain werde ich Gänsehaut bekommen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_10_fp.mp3"
     }
    }
   },
@@ -1075,21 +1075,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "Angst haben vor + datif (vor der Dunkelheit) ; kein = négation d'un nom (keine Angst) ; nicht … sondern = non pas … mais (après une négation). die Stille = le silence.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_11.mp3",
    "satz": {
     "fr": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "de": "Je n'ai pas peur du noir, mais du silence.",
     "luecke": "habe keine Angst vor",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte keine Angst vor der Dunkelheit.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_11_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde keine Angst vor der Dunkelheit haben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_11_fp.mp3"
     }
    }
   },
@@ -1101,21 +1101,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "gelaunt = luné (die Laune = l'humeur) ; gut / schlecht gelaunt. die Sonne scheint = le soleil brille (scheinen = briller, et aussi sembler). Deux points : majuscule après.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_12.mp3",
    "satz": {
     "fr": "Heute Morgen bin ich gut gelaunt: Die Sonne scheint.",
     "de": "Ce matin, je suis de bonne humeur, le soleil est là.",
     "luecke": "gut gelaunt",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Heute Morgen war ich gut gelaunt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_12_pc.mp3"
     },
     "fp": {
      "fr": "Morgen werde ich gut gelaunt sein.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_12_fp.mp3"
     }
    }
   },
@@ -1127,12 +1127,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "ansprechen = adresser la parole (particule séparable : sprich … an) ; impératif négatif : sprich … nicht an. Aussi : schlechte Laune haben, mies drauf sein (familier).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_13.mp3",
    "satz": {
     "fr": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "de": "Ne lui parle pas, il est de mauvaise humeur.",
     "luecke": "schlecht gelaunt",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_13.mp3"
    },
    "zeit": null
   },
@@ -1144,21 +1144,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "vermissen",
    "notiz": "plus simple qu'en français : la personne qui ressent le manque est le sujet – ich vermisse dich = tu me manques. Aussi : du fehlst mir (comme en français). unterwegs = en déplacement.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_14.mp3",
    "satz": {
     "fr": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
     "de": "Mes chats me manquent quand je suis en voyage.",
     "luecke": "vermisse",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe meine Katzen vermisst.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_14_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde meine Katzen vermissen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_14_fp.mp3"
     }
    }
   },
@@ -1170,21 +1170,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "littéralement « c'est lourd autour du cœur à moi » (ums = um das) ; tournure impersonnelle avec datif : mir ist schwer ums Herz. Un peu littéraire, très expressif.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_15.mp3",
    "satz": {
     "fr": "Nach diesem Tag ist mir schwer ums Herz.",
     "de": "Après cette journée, j'en ai gros sur le cœur.",
     "luecke": "ist mir schwer ums Herz",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mir war schwer ums Herz.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_15_pc.mp3"
     },
     "fp": {
      "fr": "Mir wird schwer ums Herz sein.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_15_fp.mp3"
     }
    }
   },
@@ -1196,12 +1196,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "de ergreifen = saisir, empoigner (greifen = saisir) ; ergreifend = bouleversant, poignant ; ergriffen = bouleversé. des Films = génitif (der Film).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_16.mp3",
    "satz": {
     "fr": "Das Ende des Films ist ergreifend.",
     "de": "La fin du film est bouleversante.",
     "luecke": "ergreifend",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_16.mp3"
    },
    "zeit": null
   },
@@ -1213,21 +1213,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "fühlen",
    "notiz": "sich fühlen + adverbe : ich fühle mich wohl, unwohl, müde. wohl = bien (état) ; gut geht aussi : ich fühle mich gut. nach + datif : nach dem Kung-Fu.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_17.mp3",
    "satz": {
     "fr": "Nach dem Kung-Fu fühle ich mich wohl, leicht.",
     "de": "Après le kung-fu, je me sens bien, léger.",
     "luecke": "fühle ich mich wohl",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Nach dem Kung-Fu habe ich mich wohl gefühlt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_17_pc.mp3"
     },
     "fp": {
      "fr": "Nach dem Kung-Fu werde ich mich wohl fühlen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_17_fp.mp3"
     }
    }
   },
@@ -1239,21 +1239,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Kloß = la boulette, la quenelle (plat !) – « avoir une boulette dans la gorge » = avoir la gorge serrée. im Hals = in dem Hals. sie ist gegangen = parfait avec sein (gehen).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_18.mp3",
    "satz": {
     "fr": "Sie ist gegangen, und ich habe einen Kloß im Hals.",
     "de": "Elle est partie, et j'ai le cœur lourd.",
     "luecke": "habe einen Kloß im Hals",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte einen Kloß im Hals.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_18_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde einen Kloß im Hals haben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_18_fp.mp3"
     }
    }
   },
@@ -1265,21 +1265,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "machen + adjectif = rendre : das macht mich traurig, froh, nervös (mich = accusatif). Pas de « rendre » en allemand ici ! ein bisschen = un peu.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_19.mp3",
    "satz": {
     "fr": "Der Regen über Saarbrücken macht mich ein bisschen traurig.",
     "de": "La pluie sur Sarrebruck me rend un peu triste.",
     "luecke": "macht mich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Der Regen hat mich ein bisschen traurig gemacht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_19_pc.mp3"
     },
     "fp": {
      "fr": "Der Regen wird mich ein bisschen traurig machen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_19_fp.mp3"
     }
    }
   },
@@ -1291,12 +1291,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lieben",
    "notiz": "hell (clair) + dunkel (sombre) ; les Allemands disent aussi das Chiaroscuro. das Gemälde = le tableau, la peinture (pluriel die Gemälde). von + datif = de (possession).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_20.mp3",
    "satz": {
     "fr": "Ich liebe das Hell-Dunkel in den Gemälden von Rembrandt.",
     "de": "J'adore le clair-obscur dans les tableaux de Rembrandt.",
     "luecke": "Hell-Dunkel",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_20.mp3"
    },
    "zeit": null
   },
@@ -1308,12 +1308,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "friedlich = paisible (der Frieden = la paix) ; aussi ruhig = calme. abends = le soir (habitude, adverbe en -s). Inversion après l'adverbe : Abends ist der Garten …",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_21.mp3",
    "satz": {
     "fr": "Abends ist der Garten friedlich.",
     "de": "Le soir, le jardin est paisible.",
     "luecke": "friedlich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_21.mp3"
    },
    "zeit": null
   },
@@ -1325,12 +1325,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "de beklemmen = oppresser (klemmen = coincer) ; beklemmend = oppressant, angoissant ; die Beklemmung = l'angoisse. der Gang = le couloir ; leer = vide.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_22.mp3",
    "satz": {
     "fr": "Der leere Gang im Museum war beklemmend.",
     "de": "Le couloir vide du musée était angoissant.",
     "luecke": "beklemmend",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_22.mp3"
    },
    "zeit": null
   },
@@ -1342,21 +1342,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Kummer = le chagrin, les soucis (sans article : Kummer haben) ; Liebeskummer = chagrin d'amour. seit + subordonnée : verbe à la fin (gestorben ist = parfait de sterben avec sein).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_23.mp3",
    "satz": {
     "fr": "Er hat Kummer, seit seine Katze gestorben ist.",
     "de": "Il a du chagrin depuis la mort de son chat.",
     "luecke": "hat Kummer",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Er hatte großen Kummer.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_23_pc.mp3"
     },
     "fp": {
      "fr": "Er wird Kummer haben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ge_23_fp.mp3"
     }
    }
   },
@@ -1368,12 +1368,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "tun",
    "notiz": "littéralement « ça me fait de la peine » (leid = pénible ; tun = faire) – l'excuse standard, pour tout le monde. Sie = vous de politesse (accusatif Sie). stören = déranger ; wollte = prétérit de wollen.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ge_24.mp3",
    "satz": {
     "fr": "Es tut mir leid, ich wollte Sie nicht stören.",
     "de": "Je suis désolé, madame, je ne voulais pas vous déranger.",
     "luecke": "Es tut mir leid",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ge_24.mp3"
    },
    "zeit": null
   }
@@ -2237,6 +2237,56 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/lob/stark_stolz.mp3",
   "audio/de-fr/lob/stark_weiter.mp3",
   "audio/de-fr/lob/voll_fehlerfrei.mp3",
+  "audio/de-fr/saetze/ge_01.mp3",
+  "audio/de-fr/saetze/ge_01_fp.mp3",
+  "audio/de-fr/saetze/ge_01_pc.mp3",
+  "audio/de-fr/saetze/ge_02.mp3",
+  "audio/de-fr/saetze/ge_02_fp.mp3",
+  "audio/de-fr/saetze/ge_02_pc.mp3",
+  "audio/de-fr/saetze/ge_03.mp3",
+  "audio/de-fr/saetze/ge_04.mp3",
+  "audio/de-fr/saetze/ge_05.mp3",
+  "audio/de-fr/saetze/ge_05_fp.mp3",
+  "audio/de-fr/saetze/ge_05_pc.mp3",
+  "audio/de-fr/saetze/ge_06.mp3",
+  "audio/de-fr/saetze/ge_07.mp3",
+  "audio/de-fr/saetze/ge_08.mp3",
+  "audio/de-fr/saetze/ge_09.mp3",
+  "audio/de-fr/saetze/ge_09_fp.mp3",
+  "audio/de-fr/saetze/ge_09_pc.mp3",
+  "audio/de-fr/saetze/ge_10.mp3",
+  "audio/de-fr/saetze/ge_10_fp.mp3",
+  "audio/de-fr/saetze/ge_10_pc.mp3",
+  "audio/de-fr/saetze/ge_11.mp3",
+  "audio/de-fr/saetze/ge_11_fp.mp3",
+  "audio/de-fr/saetze/ge_11_pc.mp3",
+  "audio/de-fr/saetze/ge_12.mp3",
+  "audio/de-fr/saetze/ge_12_fp.mp3",
+  "audio/de-fr/saetze/ge_12_pc.mp3",
+  "audio/de-fr/saetze/ge_13.mp3",
+  "audio/de-fr/saetze/ge_14.mp3",
+  "audio/de-fr/saetze/ge_14_fp.mp3",
+  "audio/de-fr/saetze/ge_14_pc.mp3",
+  "audio/de-fr/saetze/ge_15.mp3",
+  "audio/de-fr/saetze/ge_15_fp.mp3",
+  "audio/de-fr/saetze/ge_15_pc.mp3",
+  "audio/de-fr/saetze/ge_16.mp3",
+  "audio/de-fr/saetze/ge_17.mp3",
+  "audio/de-fr/saetze/ge_17_fp.mp3",
+  "audio/de-fr/saetze/ge_17_pc.mp3",
+  "audio/de-fr/saetze/ge_18.mp3",
+  "audio/de-fr/saetze/ge_18_fp.mp3",
+  "audio/de-fr/saetze/ge_18_pc.mp3",
+  "audio/de-fr/saetze/ge_19.mp3",
+  "audio/de-fr/saetze/ge_19_fp.mp3",
+  "audio/de-fr/saetze/ge_19_pc.mp3",
+  "audio/de-fr/saetze/ge_20.mp3",
+  "audio/de-fr/saetze/ge_21.mp3",
+  "audio/de-fr/saetze/ge_22.mp3",
+  "audio/de-fr/saetze/ge_23.mp3",
+  "audio/de-fr/saetze/ge_23_fp.mp3",
+  "audio/de-fr/saetze/ge_23_pc.mp3",
+  "audio/de-fr/saetze/ge_24.mp3",
   "audio/de-fr/saetze/ul_01.mp3",
   "audio/de-fr/saetze/ul_01_fp.mp3",
   "audio/de-fr/saetze/ul_01_pc.mp3",
@@ -2299,6 +2349,30 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/spiel/titel_5.mp3",
   "audio/de-fr/spiel/titel_6.mp3",
   "audio/de-fr/spiel/woche.mp3",
+  "audio/de-fr/wendungen/ge_01.mp3",
+  "audio/de-fr/wendungen/ge_02.mp3",
+  "audio/de-fr/wendungen/ge_03.mp3",
+  "audio/de-fr/wendungen/ge_04.mp3",
+  "audio/de-fr/wendungen/ge_05.mp3",
+  "audio/de-fr/wendungen/ge_06.mp3",
+  "audio/de-fr/wendungen/ge_07.mp3",
+  "audio/de-fr/wendungen/ge_08.mp3",
+  "audio/de-fr/wendungen/ge_09.mp3",
+  "audio/de-fr/wendungen/ge_10.mp3",
+  "audio/de-fr/wendungen/ge_11.mp3",
+  "audio/de-fr/wendungen/ge_12.mp3",
+  "audio/de-fr/wendungen/ge_13.mp3",
+  "audio/de-fr/wendungen/ge_14.mp3",
+  "audio/de-fr/wendungen/ge_15.mp3",
+  "audio/de-fr/wendungen/ge_16.mp3",
+  "audio/de-fr/wendungen/ge_17.mp3",
+  "audio/de-fr/wendungen/ge_18.mp3",
+  "audio/de-fr/wendungen/ge_19.mp3",
+  "audio/de-fr/wendungen/ge_20.mp3",
+  "audio/de-fr/wendungen/ge_21.mp3",
+  "audio/de-fr/wendungen/ge_22.mp3",
+  "audio/de-fr/wendungen/ge_23.mp3",
+  "audio/de-fr/wendungen/ge_24.mp3",
   "audio/de-fr/wendungen/ul_01.mp3",
   "audio/de-fr/wendungen/ul_02.mp3",
   "audio/de-fr/wendungen/ul_03.mp3",
