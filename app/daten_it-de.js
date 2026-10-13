@@ -315,6 +315,38 @@ window.SPRACHEN["it-de"] = {
     "se_23",
     "se_24"
    ]
+  },
+  {
+   "id": "gatti",
+   "name": "I gatti",
+   "de": "Die Katzen",
+   "symbol": "🐈",
+   "wendungen": [
+    "ga_01",
+    "ga_02",
+    "ga_03",
+    "ga_04",
+    "ga_05",
+    "ga_06",
+    "ga_07",
+    "ga_08",
+    "ga_09",
+    "ga_10",
+    "ga_11",
+    "ga_12",
+    "ga_13",
+    "ga_14",
+    "ga_15",
+    "ga_16",
+    "ga_17",
+    "ga_18",
+    "ga_19",
+    "ga_20",
+    "ga_21",
+    "ga_22",
+    "ga_23",
+    "ga_24"
+   ]
   }
  ],
  "wendungen": [
@@ -1374,6 +1406,549 @@ window.SPRACHEN["it-de"] = {
     "de": "Es tut mir leid, Signora, ich wollte Sie nicht stören.",
     "luecke": "Mi dispiace",
     "audio": "audio/it-de/saetze/se_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_01",
+   "thema": "gatti",
+   "fr": "fare le fusa",
+   "de": "schnurren",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "le fusa = das Schnurren, nur im Plural (von fuso = Spindel: das Surren der Spindel); fare le fusa = schnurren. appena = sobald.",
+   "audio": null,
+   "satz": {
+    "fr": "Il mio gatto fa le fusa appena mi siedo.",
+    "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
+    "luecke": "fa le fusa",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ha fatto le fusa tutta la sera.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Farà le fusa appena mi siedo.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_02",
+   "thema": "gatti",
+   "fr": "fare le coccole",
+   "de": "kuscheln, schmusen",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "le coccole = Streicheleinheiten, Schmusen (coccolare = verhätscheln); fare le coccole a qualcuno; coccolone = Schmusekatze. farmi = fare + mi.",
+   "audio": null,
+   "satz": {
+    "fr": "La sera viene a farmi le coccole sul divano.",
+    "de": "Abends kommt sie, um mit mir auf dem Sofa zu schmusen.",
+    "luecke": "farmi le coccole",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ieri sera mi ha fatto le coccole.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Stasera verrà a farmi le coccole.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_03",
+   "thema": "gatti",
+   "fr": "graffiare",
+   "de": "kratzen (mit Krallen)",
+   "register": "tu",
+   "anker": "graffiare",
+   "notiz": "graffiare = kratzen mit Krallen (il graffio = der Kratzer); grattare = kratzen (Juckreiz), grattugiare = reiben (Käse). attento! = Vorsicht (attenta an eine Frau).",
+   "audio": null,
+   "satz": {
+    "fr": "Attento, graffia se lo accarezzi troppo a lungo.",
+    "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
+    "luecke": "graffia",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mi ha graffiato.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ti graffierà, vedrai.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_04",
+   "thema": "gatti",
+   "fr": "lavarsi",
+   "de": "sich putzen",
+   "register": "tu",
+   "anker": "lavarsi",
+   "notiz": "lavarsi = sich waschen – bei Katzen: sich putzen (auch: farsi la toilette, pulirsi). il pasto = die Mahlzeit (nicht la pasta!).",
+   "audio": null,
+   "satz": {
+    "fr": "Dopo il pasto si lava per dieci minuti.",
+    "de": "Nach dem Fressen putzt er sich zehn Minuten lang.",
+    "luecke": "si lava",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dopo il pasto si è lavato.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Dopo il pasto si laverà.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_05",
+   "thema": "gatti",
+   "fr": "miagolare",
+   "de": "miauen",
+   "register": "tu",
+   "anker": "miagolare",
+   "notiz": "miao = miau; miagolare, Betonung mia-GO-la. alle sei di mattina = um sechs Uhr morgens (di mattina / di sera).",
+   "audio": null,
+   "satz": {
+    "fr": "Miagola davanti alla porta della cucina alle sei di mattina.",
+    "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
+    "luecke": "Miagola",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ha miagolato tutta la notte.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Miagolerà alle sei, come sempre.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_06",
+   "thema": "gatti",
+   "fr": "avere fame",
+   "de": "Hunger haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "avere fame/sete/freddo/sonno – immer mit avere (haben). secondo lui = ihm zufolge, seiner Meinung nach.",
+   "audio": null,
+   "satz": {
+    "fr": "Secondo lui, ha sempre fame.",
+    "de": "Ihm zufolge hat er immer Hunger.",
+    "luecke": "ha sempre fame",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Aveva fame, dice lui.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Avrà fame tra cinque minuti.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_07",
+   "thema": "gatti",
+   "fr": "accarezzare",
+   "de": "streicheln",
+   "register": "tu",
+   "anker": "accarezzare",
+   "notiz": "accarezzare = streicheln (la carezza = die Streicheleinheit); Vorsicht beim Schreiben: doppeltes z. la gatta = die Katze (weiblich), il gatto = Kater/Katze allgemein.",
+   "audio": null,
+   "satz": {
+    "fr": "Accarezzo la mia gatta dietro le orecchie, lo adora.",
+    "de": "Ich streichle meine Katze hinter den Ohren, sie liebt das.",
+    "luecke": "Accarezzo",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "L'ho accarezzata dietro le orecchie.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "La accarezzerò dietro le orecchie.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_08",
+   "thema": "gatti",
+   "fr": "farsi le unghie",
+   "de": "sich die Krallen wetzen",
+   "register": "tu",
+   "anker": "farsi",
+   "notiz": "wörtlich „sich die Nägel machen“ (l'unghia = Nagel, Kralle; bei Frauen = Maniküre!); il tiragraffi = Kratzbaum (tira + graffi). la poltrona = Sessel.",
+   "audio": null,
+   "satz": {
+    "fr": "Si fa le unghie sulla poltrona, mai sul tiragraffi.",
+    "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
+    "luecke": "Si fa le unghie",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Si è fatto le unghie sulla poltrona.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Si farà le unghie sulla poltrona.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_09",
+   "thema": "gatti",
+   "fr": "un felino",
+   "de": "eine Raubkatze, ein Katzentier",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "il felino = Katzentier (lat. felis); i felini = Raubkatzen. ha deciso = decidere, Partizip deciso.",
+   "audio": null,
+   "satz": {
+    "fr": "Un gatto è un piccolo felino che ha deciso di vivere con noi.",
+    "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
+    "luecke": "felino",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_10",
+   "thema": "gatti",
+   "fr": "fare un pisolino",
+   "de": "ein Nickerchen machen",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "il pisolino = Nickerchen (pisolare = dösen); -ino = klein; auch: schiacciare un pisolino (ein Nickerchen „drücken“). che vita = was für ein Leben.",
+   "audio": null,
+   "satz": {
+    "fr": "Il mio gatto fa un pisolino sedici ore al giorno. Che vita.",
+    "de": "Meine Katze macht sechzehn Stunden am Tag ein Nickerchen. Was für ein Leben.",
+    "luecke": "fa un pisolino",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ha fatto un pisolino di sedici ore.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Farà un pisolino. Lungo.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_11",
+   "thema": "gatti",
+   "fr": "strusciarsi contro",
+   "de": "sich reiben an",
+   "register": "tu",
+   "anker": "strusciarsi",
+   "notiz": "strusciare = reiben, scheuern; strusciarsi contro = sich reiben an. tornare a casa = nach Hause kommen. sci vor a = [ʃa].",
+   "audio": null,
+   "satz": {
+    "fr": "Si struscia contro le mie gambe quando torno a casa.",
+    "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
+    "luecke": "Si struscia contro",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Si è strusciata contro le mie gambe.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Si struscerà contro le mie gambe.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_12",
+   "thema": "gatti",
+   "fr": "le crocchette",
+   "de": "das Trockenfutter",
+   "register": "tu",
+   "anker": "preferire",
+   "notiz": "le crocchette = Trockenfutter (auch: Kroketten!); preferire A a B = A lieber mögen als B; preferire mit -isc-: preferisco, preferisce. le sue = seine.",
+   "audio": null,
+   "satz": {
+    "fr": "Preferisce le crocchette del vicino alle sue.",
+    "de": "Er mag das Trockenfutter des Nachbarn lieber als seines.",
+    "luecke": "crocchette",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_13",
+   "thema": "gatti",
+   "fr": "l'umido",
+   "de": "das Nassfutter",
+   "register": "tu",
+   "anker": "esserci",
+   "notiz": "l'umido = das Nassfutter (umido = feucht; il cibo umido); lo sa = er weiß es (lo = es). a mezzogiorno = mittags.",
+   "audio": null,
+   "satz": {
+    "fr": "A mezzogiorno c'è l'umido, e lui lo sa.",
+    "de": "Mittags gibt es Nassfutter, und er weiß es.",
+    "luecke": "umido",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_14",
+   "thema": "gatti",
+   "fr": "avere uno sguardo",
+   "de": "einen Blick haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "lo sguardo = der Blick (guardare = anschauen); uno sguardo vor s + Konsonant (uno sguardo, uno studente). essere in ritardo = zu spät sein.",
+   "audio": null,
+   "satz": {
+    "fr": "Ha uno sguardo che dice: « Sei in ritardo. »",
+    "de": "Sie hat einen Blick, der sagt: „Du bist zu spät.“",
+    "luecke": "uno sguardo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_15",
+   "thema": "gatti",
+   "fr": "saltare su",
+   "de": "springen auf",
+   "register": "tu",
+   "anker": "saltare",
+   "notiz": "saltare = springen; su + la = sulla. la scrivania = Schreibtisch (scrivere = schreiben); mentre = während (zeitlich). Passato prossimo hier mit essere (Bewegung).",
+   "audio": null,
+   "satz": {
+    "fr": "Salta sulla scrivania mentre correggo i compiti.",
+    "de": "Er springt auf den Schreibtisch, während ich Arbeiten korrigiere.",
+    "luecke": "Salta sulla scrivania",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "È saltato sulla scrivania.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Salterà sulla scrivania.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_16",
+   "thema": "gatti",
+   "fr": "nascondersi",
+   "de": "sich verstecken",
+   "register": "tu",
+   "anker": "nascondersi",
+   "notiz": "nascondere = verstecken, Partizip nascosto; nascondino = Versteckspiel. l'aspirapolvere = Staubsauger (aspira + polvere = saugt Staub).",
+   "audio": null,
+   "satz": {
+    "fr": "Quando esce l'aspirapolvere, si nasconde sotto il letto.",
+    "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unter dem Bett.",
+    "luecke": "si nasconde",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Si è nascosta sotto il letto.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Si nasconderà sotto il letto.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_17",
+   "thema": "gatti",
+   "fr": "fare compagnia",
+   "de": "Gesellschaft leisten",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "fare compagnia a qualcuno = jemandem Gesellschaft leisten; la compagnia = Gesellschaft (auch: Firma, Theatertruppe). preparare le lezioni = Unterricht vorbereiten.",
+   "audio": null,
+   "satz": {
+    "fr": "I miei gatti mi fanno compagnia quando preparo le lezioni.",
+    "de": "Meine Katzen leisten mir Gesellschaft, wenn ich den Unterricht vorbereite.",
+    "luecke": "mi fanno compagnia",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mi hanno fatto compagnia.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mi faranno compagnia.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_18",
+   "thema": "gatti",
+   "fr": "un gatto randagio",
+   "de": "eine streunende Katze",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "randagio = streunend (anche: un cane randagio); un gatto di razza = Rassekatze; auch: un gatto europeo (Hauskatze ohne Stammbaum). ed vor Vokal = e.",
+   "audio": null,
+   "satz": {
+    "fr": "Non è un gatto di razza, è un gatto randagio, ed è perfetto.",
+    "de": "Er ist keine Rassekatze, er ist eine Straßenkatze, und er ist perfekt.",
+    "luecke": "gatto randagio",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_19",
+   "thema": "gatti",
+   "fr": "combinare guai",
+   "de": "Unsinn anstellen",
+   "register": "tu",
+   "anker": "combinare",
+   "notiz": "wörtlich „Ärger zusammenstellen“ (il guaio = Ärger, Schlamassel; guai a te! = wehe dir!); auch: combinare un casino, fare danni. non ci sono = ich bin nicht da (ci = da).",
+   "audio": null,
+   "satz": {
+    "fr": "Quando non ci sono, combinano guai.",
+    "de": "Wenn ich nicht da bin, stellen sie Unsinn an.",
+    "luecke": "combinano guai",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hanno combinato guai.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Combineranno guai, sicuro.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_20",
+   "thema": "gatti",
+   "fr": "il veterinario",
+   "de": "der Tierarzt",
+   "register": "tu",
+   "anker": "diventare",
+   "notiz": "dal veterinario = beim Tierarzt (da + il = dal; da + Person = bei); diventare = werden. Betonung: veteri-NA-rio.",
+   "audio": null,
+   "satz": {
+    "fr": "Dal veterinario, il mio gatto diventa molto, molto calmo.",
+    "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
+    "luecke": "veterinario",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_21",
+   "thema": "gatti",
+   "fr": "non gli dà fastidio",
+   "de": "das stört ihn nicht",
+   "register": "tu",
+   "anker": "dare",
+   "notiz": "dare fastidio a qualcuno = jemanden stören (il fastidio = Belästigung); gli = ihm, le = ihr. dà mit Akzent (von dare), da ohne = von. stonato = schief (Gesang).",
+   "audio": null,
+   "satz": {
+    "fr": "Canto stonato, ma non gli dà fastidio. Credo.",
+    "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich.",
+    "luecke": "non gli dà fastidio",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_22",
+   "thema": "gatti",
+   "fr": "essere indipendente",
+   "de": "unabhängig sein",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "indipendente – mit i nach ind (anders als im Deutschen); l'indipendenza. tornare = zurückkommen.",
+   "audio": null,
+   "satz": {
+    "fr": "Un gatto è indipendente. Torna quando ha fame.",
+    "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
+    "luecke": "indipendente",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_23",
+   "thema": "gatti",
+   "fr": "fare le fusa di piacere",
+   "de": "vor Wohlbehagen schnurren",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "di + Gefühl = vor: piangere di gioia, morire di fame. con gli occhi chiusi = mit geschlossenen Augen (gli vor Vokal im Plural).",
+   "audio": null,
+   "satz": {
+    "fr": "Al sole fa le fusa di piacere, con gli occhi chiusi.",
+    "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
+    "luecke": "fa le fusa di piacere",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ha fatto le fusa di piacere.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Farà le fusa di piacere.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_24",
+   "thema": "gatti",
+   "fr": "Ha un gatto, Lei?",
+   "de": "Haben Sie eine Katze? (höflich)",
+   "register": "vous",
+   "anker": "avere",
+   "notiz": "Lei-Form = 3. Person: ha = Sie haben; Lei nachgestellt zur Klarheit. ce n'è uno = es gibt eine davon (ne = davon); il tetto = das Dach.",
+   "audio": null,
+   "satz": {
+    "fr": "Mi scusi, signora, ha un gatto, Lei? Ce n'è uno sul suo tetto.",
+    "de": "Entschuldigung, Signora, haben Sie eine Katze? Da ist eine auf Ihrem Dach.",
+    "luecke": "ha un gatto, Lei",
+    "audio": null
    },
    "zeit": null
   }

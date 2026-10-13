@@ -16,6 +16,7 @@ THEME = {"blau": "#1e6b3a", "rot": "#c8102e"}   # Grün und Rot
 THEMEN = [
     {"id": "colleghi", "name": "Tra colleghi", "de": "Unter Lehrern – mit Giovanni", "symbol": "🧑‍🏫", "datei": "tra_colleghi.tsv"},
     {"id": "sentimenti", "name": "Sentimenti e atmosfere", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "sentimenti.tsv"},
+    {"id": "gatti", "name": "I gatti", "de": "Die Katzen", "symbol": "🐈", "datei": "gatti.tsv"},
 ]
 
 # Titel – Leiter der Leckereien
