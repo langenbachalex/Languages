@@ -21,6 +21,7 @@ THEMEN = [
     {"id": "historias", "name": "Historias y fantasía", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "historias.tsv"},
     {"id": "deporte", "name": "Deporte y kung-fu", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "deporte.tsv"},
     {"id": "comer", "name": "Comer y vivir bien", "de": "Essen und gut leben", "symbol": "🥘", "datei": "comer.tsv"},
+    {"id": "ninos", "name": "Niños y bebés", "de": "Kinder und Babys", "symbol": "👶", "datei": "ninos.tsv"},
 ]
 
 # Titel – Tapas-Leiter

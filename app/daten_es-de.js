@@ -475,6 +475,38 @@ window.SPRACHEN["es-de"] = {
     "co_23",
     "co_24"
    ]
+  },
+  {
+   "id": "ninos",
+   "name": "Niños y bebés",
+   "de": "Kinder und Babys",
+   "symbol": "👶",
+   "wendungen": [
+    "ni_01",
+    "ni_02",
+    "ni_03",
+    "ni_04",
+    "ni_05",
+    "ni_06",
+    "ni_07",
+    "ni_08",
+    "ni_09",
+    "ni_10",
+    "ni_11",
+    "ni_12",
+    "ni_13",
+    "ni_14",
+    "ni_15",
+    "ni_16",
+    "ni_17",
+    "ni_18",
+    "ni_19",
+    "ni_20",
+    "ni_21",
+    "ni_22",
+    "ni_23",
+    "ni_24"
+   ]
   }
  ],
  "wendungen": [
@@ -4078,6 +4110,531 @@ window.SPRACHEN["es-de"] = {
     "de": "Guten Tag, ich hätte gern ein Baguette, bitte. Nicht zu dunkel.",
     "luecke": "quisiera",
     "audio": "audio/es-de/saetze/co_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_01",
+   "thema": "ninos",
+   "fr": "dormir del tirón",
+   "de": "durchschlafen",
+   "register": "tu",
+   "anker": "dormir",
+   "notiz": "wörtlich „vom Zug (in einem Zug) schlafen“ – de un tirón = in einem Rutsch; auch: leer un libro del tirón.",
+   "audio": null,
+   "satz": {
+    "fr": "El bebé de mi compañera duerme del tirón. Ella, todavía no.",
+    "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
+    "luecke": "duerme del tirón",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "El bebé durmió del tirón esta semana.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "El bebé va a dormir del tirón. Algún día.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_02",
+   "thema": "ninos",
+   "fr": "un peluche",
+   "de": "ein Kuscheltier",
+   "register": "tu",
+   "anker": "dormir",
+   "notiz": "aus dem Französischen (peluche = Plüsch); sobre todo = vor allem.",
+   "audio": null,
+   "satz": {
+    "fr": "Sin su peluche, imposible dormir. Hablo del bebé. Bueno, sobre todo.",
+    "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
+    "luecke": "peluche",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_03",
+   "thema": "ninos",
+   "fr": "hacer travesuras",
+   "de": "Unsinn anstellen",
+   "register": "tu",
+   "anker": "hacer",
+   "notiz": "travesura = Streich (travieso = frech); el mío = meiner (Possessivpronomen mit Artikel).",
+   "audio": null,
+   "satz": {
+    "fr": "Los niños hacen travesuras. Es su trabajo. El mío es sonreír.",
+    "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
+    "luecke": "hacen travesuras",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hicieron travesuras toda la mañana.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Van a hacer travesuras, seguro.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_04",
+   "thema": "ninos",
+   "fr": "coger en brazos",
+   "de": "in den Arm nehmen",
+   "register": "tu",
+   "anker": "coger",
+   "notiz": "wörtlich „in die Arme nehmen“; coger in Spanien normal (Lateinamerika: tomar/alzar). se le coge = man nimmt es.",
+   "audio": null,
+   "satz": {
+    "fr": "Cuando un niño llora, se le coge en brazos. Es la única regla.",
+    "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
+    "luecke": "coge en brazos",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Lo cogí en brazos.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Lo voy a coger en brazos.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_05",
+   "thema": "ninos",
+   "fr": "un bebé",
+   "de": "ein Baby",
+   "register": "tu",
+   "anker": "decir",
+   "notiz": "el bebé, auch für Mädchen (la bebé in Lateinamerika). lo dice todo: lo + todo gehört zusammen.",
+   "audio": null,
+   "satz": {
+    "fr": "Un bebé no habla, pero lo dice todo.",
+    "de": "Ein Baby spricht nicht, aber es sagt alles.",
+    "luecke": "bebé",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_06",
+   "thema": "ninos",
+   "fr": "sonreír",
+   "de": "lächeln",
+   "register": "tu",
+   "anker": "sonreír",
+   "notiz": "son- + reír (lachen) = lächeln; e → i: sonrío, sonríe; la sonrisa = das Lächeln.",
+   "audio": null,
+   "satz": {
+    "fr": "El bebé me ha sonreído. El día ya estaba ganado.",
+    "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
+    "luecke": "me ha sonreído",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "El bebé me sonrió.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "El bebé me va a sonreír. Estoy esperando.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_07",
+   "thema": "ninos",
+   "fr": "crecer",
+   "de": "wachsen, groß werden",
+   "register": "tu",
+   "anker": "crecer",
+   "notiz": "c → zc: crezco; en cambio = dagegen, hingegen; quedarse = bleiben.",
+   "audio": null,
+   "satz": {
+    "fr": "Los niños crecen demasiado rápido. Los exámenes, en cambio, se quedan.",
+    "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
+    "luecke": "crecen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Crecieron durante las vacaciones.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Van a crecer, y yo voy a envejecer.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_08",
+   "thema": "ninos",
+   "fr": "costarle dormirse",
+   "de": "schlecht einschlafen",
+   "register": "tu",
+   "anker": "costar",
+   "notiz": "costar wie gustar: le cuesta (ihm fällt es schwer); dormirse = einschlafen (dormir = schlafen).",
+   "audio": null,
+   "satz": {
+    "fr": "Al pequeño le cuesta dormirse. Entonces canto. Funciona. Llora más bajo.",
+    "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
+    "luecke": "le cuesta dormirse",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Le costó dormirse.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Le va a costar dormirse.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_09",
+   "thema": "ninos",
+   "fr": "un pañal",
+   "de": "eine Windel",
+   "register": "tu",
+   "anker": "cambiar",
+   "notiz": "von paño = Tuch; cambiar el pañal = wickeln. eso sí = das ja / das schon (Verstärkung).",
+   "audio": null,
+   "satz": {
+    "fr": "Cambiar un pañal en tres minutos: eso sí es una secuencia de kung-fu.",
+    "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
+    "luecke": "pañal",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_10",
+   "thema": "ninos",
+   "fr": "portarse bien",
+   "de": "brav sein",
+   "register": "tu",
+   "anker": "portarse",
+   "notiz": "wörtlich „sich gut tragen“ = sich benehmen; portarse mal = unartig sein; ¡pórtate bien! an Kinder.",
+   "audio": null,
+   "satz": {
+    "fr": "« ¡Pórtate bien! » – « Me porto bien. » – « ¿Y por qué está el gato en la lavadora? »",
+    "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
+    "luecke": "Pórtate bien",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_11",
+   "thema": "ninos",
+   "fr": "jugar al escondite",
+   "de": "Verstecken spielen",
+   "register": "tu",
+   "anker": "jugar",
+   "notiz": "jugar a + Spiel (jugar al fútbol, a las cartas); u → ue: juego; el escondite = Versteck(spiel).",
+   "audio": null,
+   "satz": {
+    "fr": "Jugamos al escondite. Siempre se esconde detrás de la cortina. Con los pies fuera.",
+    "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
+    "luecke": "Jugamos al escondite",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Jugamos al escondite toda la tarde.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Vamos a jugar al escondite después de la merienda.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_12",
+   "thema": "ninos",
+   "fr": "contar un cuento",
+   "de": "eine Gute-Nacht-Geschichte erzählen",
+   "register": "tu",
+   "anker": "contar",
+   "notiz": "el cuento = Märchen, Geschichte (für Kinder); la historia = Geschichte allgemein. el que duerme soy yo = derjenige, der schläft, bin ich.",
+   "audio": null,
+   "satz": {
+    "fr": "Cuento un cuento para dormir. A las tres páginas, el que duerme soy yo.",
+    "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
+    "luecke": "Cuento un cuento",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Conté un cuento para dormir.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a contar un cuento para dormir.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_13",
+   "thema": "ninos",
+   "fr": "llorar",
+   "de": "weinen",
+   "register": "tu",
+   "anker": "llorar",
+   "notiz": "ll wie weiches j: [ʝorar]; reír = lachen (ríe). Nicht verwechseln: llorar (weinen) – llover (regnen).",
+   "audio": null,
+   "satz": {
+    "fr": "El bebé llora. Luego ríe. Luego llora. Es un concierto.",
+    "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
+    "luecke": "llora",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "El bebé lloró toda la noche.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "El bebé va a llorar, y yo voy a cantar.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_14",
+   "thema": "ninos",
+   "fr": "un abrazo",
+   "de": "eine Umarmung",
+   "register": "tu",
+   "anker": "empezar",
+   "notiz": "brazo = Arm → abrazo = Umarmung; „un abrazo“ auch als Briefschluss (= liebe Grüße). el cole = Kurzform von colegio (Grundschule).",
+   "audio": null,
+   "satz": {
+    "fr": "Un abrazo antes del cole, y el día empieza bien. Para los dos.",
+    "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
+    "luecke": "abrazo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_15",
+   "thema": "ninos",
+   "fr": "aprender a andar",
+   "de": "laufen lernen",
+   "register": "tu",
+   "anker": "aprender",
+   "notiz": "aprender a + Infinitiv; andar = gehen, laufen (zu Fuß); correr = rennen.",
+   "audio": null,
+   "satz": {
+    "fr": "Aprende a andar. Tres pasos, una caída, una risa. La vida en miniatura.",
+    "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
+    "luecke": "Aprende a andar",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Aprendió a andar este verano.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Va a aprender a andar pronto.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_16",
+   "thema": "ninos",
+   "fr": "estar orgulloso de",
+   "de": "stolz sein auf",
+   "register": "tu",
+   "anker": "estar",
+   "notiz": "el orgullo = der Stolz; mit estar + de (nicht „auf“!).",
+   "audio": null,
+   "satz": {
+    "fr": "Estoy orgulloso de mis alumnos. Sobre todo cuando no lo saben.",
+    "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
+    "luecke": "orgulloso de",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_17",
+   "thema": "ninos",
+   "fr": "las primeras palabras",
+   "de": "die ersten Wörter",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "la palabra = das Wort; primero verkürzt vor männlichem Nomen: el primer día, aber la primera palabra.",
+   "audio": null,
+   "satz": {
+    "fr": "Sus primeras palabras: « papá », « gato », « no ». En ese orden.",
+    "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
+    "luecke": "primeras palabras",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_18",
+   "thema": "ninos",
+   "fr": "tener paciencia",
+   "de": "Geduld haben",
+   "register": "tu",
+   "anker": "tener",
+   "notiz": "hay que + Infinitiv = man muss; se me acaba = sie geht mir aus (acabarse = zu Ende gehen).",
+   "audio": null,
+   "satz": {
+    "fr": "Con los niños hay que tener paciencia. Yo tengo. Se me acaba a las cinco.",
+    "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
+    "luecke": "tener paciencia",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Tuve paciencia todo el día.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a tener paciencia. Hasta mediodía.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_19",
+   "thema": "ninos",
+   "fr": "la merienda",
+   "de": "der Nachmittagssnack",
+   "register": "tu",
+   "anker": "tocar",
+   "notiz": "die merienda (16–18 Uhr) ist in Spanien eine feste Mahlzeit, weil man erst um 21 Uhr zu Abend isst; merendar = Nachmittagssnack essen.",
+   "audio": null,
+   "satz": {
+    "fr": "A las cinco toca la merienda. Para los niños. Y para mí, por solidaridad.",
+    "de": "Um fünf gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
+    "luecke": "merienda",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_20",
+   "thema": "ninos",
+   "fr": "reírse a carcajadas",
+   "de": "schallend lachen",
+   "register": "tu",
+   "anker": "reírse",
+   "notiz": "la carcajada = schallendes Gelächter; reírse de = lachen über; la verdad = ehrlich gesagt.",
+   "audio": null,
+   "satz": {
+    "fr": "El bebé se ríe a carcajadas cuando el gato estornuda. Yo también, la verdad.",
+    "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
+    "luecke": "se ríe a carcajadas",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "El bebé se rio a carcajadas.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "El bebé se va a reír a carcajadas.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_21",
+   "thema": "ninos",
+   "fr": "echar la siesta",
+   "de": "Mittagsschlaf halten",
+   "register": "tu",
+   "anker": "echar",
+   "notiz": "siehe Los gatos; los mayores = die Erwachsenen (mayor = älter, größer).",
+   "audio": null,
+   "satz": {
+    "fr": "Los pequeños echan la siesta. Los mayores también, en secreto.",
+    "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
+    "luecke": "echan la siesta",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Los pequeños echaron la siesta.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Los pequeños van a echar la siesta.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ni_22",
+   "thema": "ninos",
+   "fr": "tener miedo a la oscuridad",
+   "de": "Angst im Dunkeln haben",
+   "register": "tu",
+   "anker": "tener",
+   "notiz": "tener miedo a oder de; así que = also, deshalb; de guardia = im Dienst, auf Wache (auch Ärzte: estar de guardia).",
+   "audio": null,
+   "satz": {
+    "fr": "Tiene miedo a la oscuridad. Así que dejamos la puerta abierta. Y al gato de guardia.",
+    "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
+    "luecke": "Tiene miedo a la oscuridad",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_23",
+   "thema": "ninos",
+   "fr": "es la hora del baño",
+   "de": "es ist Badezeit",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "el baño = Bad und Badezimmer; bañarse = baden; todo el mundo = alle (wörtlich: die ganze Welt).",
+   "audio": null,
+   "satz": {
+    "fr": "¡Es la hora del baño! Todo el mundo mojado. Incluso los que no se bañan.",
+    "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
+    "luecke": "la hora del baño",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ni_24",
+   "thema": "ninos",
+   "fr": "¿Qué edad tiene su hijo?",
+   "de": "Wie alt ist Ihr Kind? (höflich)",
+   "register": "vous",
+   "anker": "tener",
+   "notiz": "Alter mit tener: tiene dos años; ¿qué edad tiene? / ¿cuántos años tiene? su = Ihr (usted).",
+   "audio": null,
+   "satz": {
+    "fr": "Es adorable. ¿Qué edad tiene su hijo? – Catorce meses. Y cuatro dientes.",
+    "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
+    "luecke": "Qué edad tiene su hijo",
+    "audio": null
    },
    "zeit": null
   }
