@@ -18,6 +18,7 @@ THEMEN = [
     {"id": "sentimenti", "name": "Sentimenti e atmosfere", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "sentimenti.tsv"},
     {"id": "gatti", "name": "I gatti", "de": "Die Katzen", "symbol": "🐈", "datei": "gatti.tsv"},
     {"id": "musica", "name": "Musica e lingua", "de": "Musik und Sprache", "symbol": "🎵", "datei": "musica.tsv"},
+    {"id": "storie", "name": "Storie e fantasia", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "storie.tsv"},
 ]
 
 # Titel – Leiter der Leckereien

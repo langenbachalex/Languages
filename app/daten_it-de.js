@@ -379,6 +379,38 @@ window.SPRACHEN["it-de"] = {
     "mu_23",
     "mu_24"
    ]
+  },
+  {
+   "id": "storie",
+   "name": "Storie e fantasia",
+   "de": "Geschichten und Fantasy",
+   "symbol": "🐉",
+   "wendungen": [
+    "st_01",
+    "st_02",
+    "st_03",
+    "st_04",
+    "st_05",
+    "st_06",
+    "st_07",
+    "st_08",
+    "st_09",
+    "st_10",
+    "st_11",
+    "st_12",
+    "st_13",
+    "st_14",
+    "st_15",
+    "st_16",
+    "st_17",
+    "st_18",
+    "st_19",
+    "st_20",
+    "st_21",
+    "st_22",
+    "st_23",
+    "st_24"
+   ]
   }
  ],
  "wendungen": [
@@ -2479,6 +2511,450 @@ window.SPRACHEN["it-de"] = {
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "potrebbe ripetere più lentamente",
     "audio": "audio/it-de/saetze/mu_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_01",
+   "thema": "storie",
+   "fr": "c'era una volta",
+   "de": "es war einmal",
+   "register": "tu",
+   "anker": "esserci",
+   "notiz": "wörtlich „es gab ein Mal“ (c'era = imperfetto von c'è) – der Märchenanfang. la favola = Fabel, Märchen; la fiaba = Märchen (Grimm, Andersen).",
+   "audio": null,
+   "satz": {
+    "fr": "C'era una volta un professore che non correggeva mai i compiti. È una favola.",
+    "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
+    "luecke": "C'era una volta",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_02",
+   "thema": "storie",
+   "fr": "raccontare una storia",
+   "de": "eine Geschichte erzählen",
+   "register": "tu",
+   "anker": "raccontare",
+   "notiz": "raccontare qualcosa a qualcuno; il racconto = Erzählung, Kurzgeschichte. addormentarsi = einschlafen (dormire = schlafen). prima di = vor.",
+   "audio": null,
+   "satz": {
+    "fr": "La sera racconto una storia al mio gatto. Si addormenta prima della fine.",
+    "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
+    "luecke": "racconto una storia",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho raccontato una storia al mio gatto.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Racconterò una storia al mio gatto.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "st_03",
+   "thema": "storie",
+   "fr": "la ricerca",
+   "de": "die Suche, die Queste",
+   "register": "tu",
+   "anker": "cominciare",
+   "notiz": "la ricerca = Suche, Forschung (cercare = suchen); la ricerca del Graal. il romanzo = der Roman (nicht „Romanze“!). anche se = auch wenn.",
+   "audio": null,
+   "satz": {
+    "fr": "Ogni buon romanzo comincia con una ricerca. Anche se è solo cercare le chiavi.",
+    "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur die Schlüsselsuche ist.",
+    "luecke": "ricerca",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_04",
+   "thema": "storie",
+   "fr": "nel folto del bosco",
+   "de": "tief im Wald",
+   "register": "tu",
+   "anker": "esserci",
+   "notiz": "il folto = das Dickicht (folto = dicht); nel folto del bosco = im tiefsten Wald. il bosco = Wald, la foresta = großer Wald. in + il = nel, in + la = nella.",
+   "audio": null,
+   "satz": {
+    "fr": "Nel folto del bosco c'era una casa. E nella casa, una luce.",
+    "de": "Tief im Wald stand ein Haus. Und in dem Haus ein Licht.",
+    "luecke": "Nel folto del bosco",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_05",
+   "thema": "storie",
+   "fr": "un drago",
+   "de": "ein Drache",
+   "register": "tu",
+   "anker": "sputare",
+   "notiz": "il drago, Plural i draghi (gh für harten Laut); sputare fuoco = Feuer speien (sputare = spucken). Imperfetto sputava = Beschreibung.",
+   "audio": null,
+   "satz": {
+    "fr": "Il drago non sputava fuoco. Sputava compiti.",
+    "de": "Der Drache spie kein Feuer. Er spie Hausaufgaben.",
+    "luecke": "drago",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_06",
+   "thema": "storie",
+   "fr": "una spada",
+   "de": "ein Schwert",
+   "register": "tu",
+   "anker": "prendere",
+   "notiz": "la spada = Schwert; pesante = schwer (Gewicht; schwierig = difficile). ha preso = prendere, Partizip preso.",
+   "audio": null,
+   "satz": {
+    "fr": "L'eroe ha preso la sua spada. Era pesante, come un lunedì.",
+    "de": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
+    "luecke": "spada",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_07",
+   "thema": "storie",
+   "fr": "un incantesimo",
+   "de": "ein Zauber",
+   "register": "tu",
+   "anker": "trasformare",
+   "notiz": "l'incantesimo = Zauber, Bann (incantare = verzaubern; incantevole = bezaubernd); fare un incantesimo. durare = dauern (mit essere: è durato).",
+   "audio": null,
+   "satz": {
+    "fr": "Un incantesimo ha trasformato la classe in silenzio. È durato solo tre minuti.",
+    "de": "Ein Zauber verwandelte die Klasse in Stille. Es dauerte nur drei Minuten.",
+    "luecke": "incantesimo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_08",
+   "thema": "storie",
+   "fr": "all'improvviso",
+   "de": "plötzlich, mit einem Schlag",
+   "register": "tu",
+   "anker": "aprirsi",
+   "notiz": "wörtlich „ins Unvorhergesehene“ (improvviso = unerwartet); synonym: d'un tratto, di colpo. si è aperta = aprirsi, Partizip aperto.",
+   "audio": null,
+   "satz": {
+    "fr": "All'improvviso la porta si è aperta. Nessuno. Solo il vento. Spero.",
+    "de": "Plötzlich öffnete sich die Tür. Niemand. Nur der Wind. Hoffe ich.",
+    "luecke": "All'improvviso",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_09",
+   "thema": "storie",
+   "fr": "avere un segreto",
+   "de": "ein Geheimnis haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "il segreto = Geheimnis; segreto auch Adjektiv (un passaggio segreto). tutti = alle (Plural-Verb: tutti hanno). anche = auch, sogar.",
+   "audio": null,
+   "satz": {
+    "fr": "In questa storia tutti hanno un segreto. Anche il gatto.",
+    "de": "In dieser Geschichte hat jeder ein Geheimnis. Sogar die Katze.",
+    "luecke": "hanno un segreto",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_10",
+   "thema": "storie",
+   "fr": "un regno",
+   "de": "ein Königreich",
+   "register": "tu",
+   "anker": "parlare",
+   "notiz": "il regno = Königreich (il re = König, la regina = Königin; regnare = herrschen); il Regno Unito. la gente = die Leute (Singular!): la gente ascoltava.",
+   "audio": null,
+   "satz": {
+    "fr": "In quel regno i libri parlavano e la gente ascoltava.",
+    "de": "In jenem Königreich sprachen die Bücher, und die Leute hörten zu.",
+    "luecke": "regno",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_11",
+   "thema": "storie",
+   "fr": "un mago / una strega",
+   "de": "ein Zauberer / eine Hexe",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "il mago = Zauberer (la maga = Zauberin), la strega = Hexe (lo stregone = Hexenmeister); stregare = verhexen. la capisco = ich verstehe sie (la vor dem Verb).",
+   "audio": null,
+   "satz": {
+    "fr": "La strega non era cattiva. Era stanca. La capisco.",
+    "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
+    "luecke": "strega",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_12",
+   "thema": "storie",
+   "fr": "trasformarsi in",
+   "de": "sich verwandeln in",
+   "register": "tu",
+   "anker": "trasformarsi",
+   "notiz": "trasformarsi in + Nomen ohne Artikel: in lettore, in rana. a mezzanotte = um Mitternacht; fino a = bis; le due del mattino = zwei Uhr nachts.",
+   "audio": null,
+   "satz": {
+    "fr": "A mezzanotte il prof si trasforma in lettore. Fino alle due del mattino.",
+    "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
+    "luecke": "si trasforma in",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Si è trasformato in lettore.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Si trasformerà in lettore.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "st_13",
+   "thema": "storie",
+   "fr": "a un tratto",
+   "de": "auf einmal",
+   "register": "tu",
+   "anker": "–",
+   "notiz": "wörtlich „auf einen Zug“ (il tratto = Strich, Strecke); a un tratto / d'un tratto = auf einmal. prof = Anrede für Lehrer (statt „Herr X“). quand'è = quando è.",
+   "audio": null,
+   "satz": {
+    "fr": "A un tratto, silenzio. Poi una voce: « Prof, quand'è la pausa? »",
+    "de": "Auf einmal Stille. Dann eine Stimme: „Herr Lehrer, wann ist Pause?“",
+    "luecke": "A un tratto",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_14",
+   "thema": "storie",
+   "fr": "un eroe / un'eroina",
+   "de": "ein Held / eine Heldin",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "l'eroe (männlich, Plural gli eroi), l'eroina (weiblich – auch das Rauschgift!). per questo = deshalb; coraggioso = mutig (il coraggio).",
+   "audio": null,
+   "satz": {
+    "fr": "L'eroe del mio romanzo preferito ha paura di tutto. Per questo è coraggioso.",
+    "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
+    "luecke": "eroe",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_15",
+   "thema": "storie",
+   "fr": "il cattivo",
+   "de": "der Bösewicht",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "il cattivo = der Böse (Adjektiv cattivo = schlecht, böse); il buono = der Gute. la sveglia = Wecker (svegliarsi = aufwachen). ogni giorno = jeden Tag.",
+   "audio": null,
+   "satz": {
+    "fr": "Il cattivo della storia è la sveglia. Le sei. Ogni giorno.",
+    "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
+    "luecke": "cattivo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_16",
+   "thema": "storie",
+   "fr": "una mappa del tesoro",
+   "de": "eine Schatzkarte",
+   "register": "tu",
+   "anker": "trovare",
+   "notiz": "la mappa = Landkarte, il tesoro = Schatz; la piantina = Lageplan, Grundriss (la pianta = Pflanze und Plan). il quaderno = Heft; la mensa = Schulmensa.",
+   "audio": null,
+   "satz": {
+    "fr": "Ho trovato una mappa del tesoro in un quaderno. Era la piantina della mensa.",
+    "de": "Ich habe in einem Heft eine Schatzkarte gefunden. Es war der Plan der Mensa.",
+    "luecke": "mappa del tesoro",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_17",
+   "thema": "storie",
+   "fr": "pare che",
+   "de": "es heißt, dass",
+   "register": "tu",
+   "anker": "parere",
+   "notiz": "pare che + congiuntivo (esista, dorma) = angeblich, es scheint (parere = scheinen); auch: si dice che, sembra che. l'aula = Klassenraum (nicht „Aula“ = l'aula magna). ci = dort.",
+   "audio": null,
+   "satz": {
+    "fr": "Pare che l'aula 13 esista. Pare anche che il gatto ci dorma.",
+    "de": "Es heißt, Raum 13 existiere. Es heißt auch, die Katze schlafe dort.",
+    "luecke": "Pare che",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_18",
+   "thema": "storie",
+   "fr": "sparire",
+   "de": "verschwinden",
+   "register": "tu",
+   "anker": "sparire",
+   "notiz": "sparire mit -isc- (sparisco, sparisce), Partizip sparito, mit essere; auch: scomparire. la penna = Kugelschreiber (und Feder); la gente sparisce = Singular!",
+   "audio": null,
+   "satz": {
+    "fr": "In questo romanzo la gente sparisce. Nella mia classe, le penne.",
+    "de": "In diesem Roman verschwinden die Leute. In meiner Klasse die Stifte.",
+    "luecke": "sparisce",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Le penne sono sparite.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Le penne spariranno.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "st_19",
+   "thema": "storie",
+   "fr": "il seguito",
+   "de": "die Fortsetzung",
+   "register": "tu",
+   "anker": "leggere",
+   "notiz": "il seguito = Fortsetzung (seguire = folgen); « continua » = Fortsetzung folgt; in seguito = anschließend, später. subito = sofort.",
+   "audio": null,
+   "satz": {
+    "fr": "Voglio leggere il seguito subito. Ma è mezzanotte. Leggo il seguito.",
+    "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
+    "luecke": "seguito",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_20",
+   "thema": "storie",
+   "fr": "con il fiato sospeso",
+   "de": "in Atem, gespannt",
+   "register": "tu",
+   "anker": "tenere",
+   "notiz": "wörtlich „mit angehaltenem Atem“ (il fiato = Atem, sospeso = angehalten, schwebend); tenere con il fiato sospeso = in Spannung halten. da tre notti = seit drei Nächten.",
+   "audio": null,
+   "satz": {
+    "fr": "Questo libro mi tiene con il fiato sospeso da tre notti.",
+    "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
+    "luecke": "con il fiato sospeso",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_21",
+   "thema": "storie",
+   "fr": "rabbrividire",
+   "de": "schaudern, erschauern",
+   "register": "tu",
+   "anker": "rabbrividire",
+   "notiz": "rabbrividire = schaudern (il brivido = Schauer; brividi = Gänsehaut-Gefühl), mit -isc-: rabbrividisco. il fantasy = das Genre (männlich im Italienischen).",
+   "audio": null,
+   "satz": {
+    "fr": "Rabbrividisco a ogni capitolo. E continuo. È questo, il fantasy.",
+    "de": "Ich schaudere bei jedem Kapitel. Und mache weiter. Das ist Fantasy.",
+    "luecke": "Rabbrividisco",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho rabbrividito a ogni capitolo.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Rabbrividirò, lo so già.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "st_22",
+   "thema": "storie",
+   "fr": "un colpo di scena",
+   "de": "eine Wendung (in der Handlung)",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "wörtlich „Bühnenschlag“ (il colpo = Schlag, la scena = Bühne, Szene) = Überraschungswendung, Theaterbegriff. fin dall'inizio = von Anfang an.",
+   "audio": null,
+   "satz": {
+    "fr": "Un colpo di scena a pagina 200: il gatto era il re fin dall'inizio.",
+    "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
+    "luecke": "colpo di scena",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_23",
+   "thema": "storie",
+   "fr": "la fine",
+   "de": "das Ende",
+   "register": "tu",
+   "anker": "raccontare",
+   "notiz": "la fine = das Ende (weiblich); il fine = der Zweck, das Ziel (männlich!). non la racconto (la = die fine). leggi = Imperativ von leggere.",
+   "audio": null,
+   "satz": {
+    "fr": "La fine di questa storia? Non la racconto. Leggi il libro.",
+    "de": "Das Ende dieser Geschichte? Ich erzähle es nicht. Lies das Buch.",
+    "luecke": "fine",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "st_24",
+   "thema": "storie",
+   "fr": "Mi potrebbe consigliare un libro?",
+   "de": "Könnten Sie mir ein Buch empfehlen? (höflich)",
+   "register": "vous",
+   "anker": "consigliare",
+   "notiz": "consigliare = raten, empfehlen (il consiglio = Rat); mi potrebbe = Pronomen vor dem konjugierten Verb (oder potrebbe consigliarmi). un po' = un poco.",
+   "audio": null,
+   "satz": {
+    "fr": "Buongiorno, mi potrebbe consigliare un libro? Un po' cupo, un po' magico.",
+    "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
+    "luecke": "mi potrebbe consigliare un libro",
+    "audio": null
    },
    "zeit": null
   }
