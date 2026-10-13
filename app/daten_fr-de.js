@@ -545,7 +545,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Klassenarbeiten korrigieren",
    "register": "tu",
    "anker": "corriger",
-   "notiz": null,
+   "notiz": "une copie = die (Klassen-)Arbeit, nicht „Kopie“; corriger = korrigieren. la sixième = 6. Klasse (Frankreich zählt rückwärts: sixième → terminale).",
    "audio": "audio/fr-de/wendungen/ep_01.mp3",
    "satz": {
     "fr": "Ce soir, je corrige des copies de sixième.",
@@ -571,7 +571,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "fix und fertig sein",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "crevé = wörtlich „geplatzt“ (crever = platzen, verrecken); umgangssprachlich = fix und fertig. Auch: un pneu crevé = ein Platten.",
    "audio": "audio/fr-de/wendungen/ep_02.mp3",
    "satz": {
     "fr": "Après six heures de cours, je suis crevé.",
@@ -597,7 +597,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ist es gut gelaufen?",
    "register": "tu",
    "anker": "se passer",
-   "notiz": null,
+   "notiz": "se passer = ablaufen, geschehen; ça s'est bien passé = es ist gut gelaufen (passé composé mit être, weil reflexiv). Frage nur durch Tonfall.",
    "audio": "audio/fr-de/wendungen/ep_03.mp3",
    "satz": {
     "fr": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
@@ -614,7 +614,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Unterricht halten",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "faire cours ohne Artikel = Unterricht halten (wie faire classe); un cours = eine Stunde, ein Kurs. le cours de maths.",
    "audio": "audio/fr-de/wendungen/ep_04.mp3",
    "satz": {
     "fr": "Je fais cours en anglais toute la matinée.",
@@ -640,7 +640,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Pause",
    "register": "tu",
    "anker": "retrouver",
-   "notiz": null,
+   "notiz": "la récré = Kurzform von la récréation (Schulpause); Kürzungen sind typisch: le prof, la fac, le resto. la salle des profs = Lehrerzimmer.",
    "audio": "audio/fr-de/wendungen/ep_05.mp3",
    "satz": {
     "fr": "On se retrouve en salle des profs à la récré ?",
@@ -657,7 +657,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es kaum erwarten können",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „Eile haben zu“ (la hâte = Hast); avoir hâte de + Infinitiv, avoir hâte que + Subjonctif. Vokal: j'ai hâte d'être.",
    "audio": "audio/fr-de/wendungen/ep_06.mp3",
    "satz": {
     "fr": "J'ai hâte d'être en vacances.",
@@ -683,7 +683,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Nase voll haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „davon genug haben“; en avoir marre de + Nomen/Infinitiv. Umgangssprachlich; neutraler: en avoir assez. j'en ai marre !",
    "audio": "audio/fr-de/wendungen/ep_07.mp3",
    "satz": {
     "fr": "J'en ai marre des réunions qui n'en finissent pas.",
@@ -700,7 +700,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Schwierigkeiten haben zu",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „Mühe haben zu“ (le mal = Übel, Mühe); avoir du mal à + Infinitiv. faire taire = zum Schweigen bringen (faire + Infinitiv).",
    "audio": "audio/fr-de/wendungen/ep_08.mp3",
    "satz": {
     "fr": "J'ai du mal à les faire taire le vendredi après-midi.",
@@ -726,7 +726,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das ist lange her",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „das macht lange“ – ça fait + Zeit = seit/schon: ça fait trois ans que j'apprends. Auch: ça fait un bail (ewig).",
    "audio": "audio/fr-de/wendungen/ep_09.mp3",
    "satz": {
     "fr": "Salut Aurélien ! Ça fait longtemps !",
@@ -743,7 +743,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "also, deshalb (umgangssprachlich)",
    "register": "tu",
    "anker": "prendre",
-   "notiz": null,
+   "notiz": "wörtlich „vom Schlag“; sehr häufiges Füllwort = also, deshalb, infolgedessen. Gilt als umgangssprachlich, in jedem Gespräch zu hören.",
    "audio": "audio/fr-de/wendungen/ep_10.mp3",
    "satz": {
     "fr": "Le prof de sport est malade, du coup je prends sa classe.",
@@ -769,7 +769,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eigentlich, genau genommen",
    "register": "tu",
    "anker": "aimer",
-   "notiz": null,
+   "notiz": "wörtlich „in Tatsache“ = eigentlich, genau genommen; leitet eine Korrektur oder Präzisierung ein. Nicht mit engl. in fact gleichsetzen (zu stark).",
    "audio": "audio/fr-de/wendungen/ep_11.mp3",
    "satz": {
     "fr": "En fait, j'aime bien mes élèves de neuvième.",
@@ -786,7 +786,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "trotzdem, immerhin",
    "register": "tu",
    "anker": "adorer",
-   "notiz": null,
+   "notiz": "wörtlich „wenn auch gleich“; am Satzende = trotzdem, immerhin; auch Verstärkung: c'est quand même bizarre. Ausgesprochen [kãmɛm].",
    "audio": "audio/fr-de/wendungen/ep_12.mp3",
    "satz": {
     "fr": "C'est fatigant, mais j'adore ce métier quand même.",
@@ -803,7 +803,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das lohnt sich",
    "register": "tu",
    "anker": "valoir",
-   "notiz": null,
+   "notiz": "wörtlich „das ist den Schlag wert“; ça vaut le coup de + Infinitiv (valoir = wert sein). ça ne vaut pas le coup = lohnt sich nicht.",
    "audio": "audio/fr-de/wendungen/ep_13.mp3",
    "satz": {
     "fr": "Préparer un bon cours, ça prend du temps, mais ça vaut le coup.",
@@ -829,7 +829,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "zurechtkommen",
    "register": "tu",
    "anker": "se débrouiller",
-   "notiz": null,
+   "notiz": "wörtlich „sich entwirren“ (brouiller = verwirren); = zurechtkommen, sich durchschlagen. débrouillard = findig. tout seul = ganz allein.",
    "audio": "audio/fr-de/wendungen/ep_14.mp3",
    "satz": {
     "fr": "Les élèves se débrouillent bien tout seuls.",
@@ -855,7 +855,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "voll dabei sein",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "wörtlich „am Grund sein“ (le fond = Grund, Boden) = voll dabei, auf Hochtouren; à fond = mit Vollgas: j'ai travaillé à fond.",
    "audio": "audio/fr-de/wendungen/ep_15.mp3",
    "satz": {
     "fr": "Aujourd'hui, les sixièmes étaient à fond.",
@@ -872,7 +872,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Arbeiten zurückgeben",
    "register": "tu",
    "anker": "rendre",
-   "notiz": null,
+   "notiz": "rendre = zurückgeben (und: machen – rendre triste); les copies = Arbeiten. rendre un devoir = eine Arbeit abgeben (aus Schülersicht!).",
    "audio": "audio/fr-de/wendungen/ep_16.mp3",
    "satz": {
     "fr": "Je rends les copies lundi.",
@@ -898,7 +898,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Besprechung, Konferenz",
    "register": "tu",
    "anker": "venir",
-   "notiz": null,
+   "notiz": "la réunion = Besprechung, Sitzung (réunir = zusammenbringen); tu viens ? = Frage nur durch Tonfall – im Gespräch die häufigste Frageform.",
    "audio": "audio/fr-de/wendungen/ep_17.mp3",
    "satz": {
     "fr": "On a une réunion à seize heures, tu viens ?",
@@ -915,7 +915,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das macht nichts",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „das macht nichts“ – wie im Deutschen. Verneinung ne … rien. Auch: ce n'est pas grave, pas de souci.",
    "audio": "audio/fr-de/wendungen/ep_18.mp3",
    "satz": {
     "fr": "Tu as oublié mon livre ? Ça ne fait rien.",
@@ -932,7 +932,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich Zeit lassen",
    "register": "tu",
    "anker": "prendre",
-   "notiz": null,
+   "notiz": "prendre son temps = sich Zeit lassen; Imperativ prends + Possessiv ton. Gegenteil: se dépêcher. on a = wir haben (on statt nous).",
    "audio": "audio/fr-de/wendungen/ep_19.mp3",
    "satz": {
     "fr": "Prends ton temps, on a toute la soirée.",
@@ -949,7 +949,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "könnten Sie … ? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
-   "notiz": null,
+   "notiz": "pourriez-vous = Konditional von pouvoir, die höfliche Bitte („könnten Sie“); indiquer = zeigen, sagen (wo etwas ist). Einfache Inversion: Verb-vous.",
    "audio": "audio/fr-de/wendungen/ep_20.mp3",
    "satz": {
     "fr": "Excusez-moi, pourriez-vous m'indiquer la salle des profs ?",
@@ -966,7 +966,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das berührt mich",
    "register": "tu",
    "anker": "toucher",
-   "notiz": null,
+   "notiz": "toucher = berühren, auch gefühlsmäßig; ça me touche = das rührt mich. Subjekt ça + me/te/le (Objekt). à chaque fois = jedes Mal.",
    "audio": "audio/fr-de/wendungen/se_01.mp3",
    "satz": {
     "fr": "Cette chanson me touche à chaque fois.",
@@ -992,7 +992,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Trübsal blasen, niedergeschlagen sein",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „die Kakerlake haben“ (le cafard) – seit Baudelaire das Bild für Trübsinn. avoir le cafard = down sein. Umgangssprachlich.",
    "audio": "audio/fr-de/wendungen/se_02.mp3",
    "satz": {
     "fr": "Le dimanche soir, j'ai souvent le cafard.",
@@ -1018,7 +1018,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "düster, dunkel",
    "register": "tu",
    "anker": "aimer",
-   "notiz": null,
+   "notiz": "sombre = dunkel und düster (Adjektiv, unveränderlich im Femininum: une forêt sombre); le noir = die Dunkelheit. Gegenteil: clair.",
    "audio": "audio/fr-de/wendungen/se_03.mp3",
    "satz": {
     "fr": "J'aime les histoires sombres, avec une forêt et un secret.",
@@ -1035,7 +1035,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "melancholisch",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "wie im Deutschen; la mélancolie. tellement = so sehr (Verstärkung): tellement beau. un morceau = Musikstück.",
    "audio": "audio/fr-de/wendungen/se_04.mp3",
    "satz": {
     "fr": "Ce morceau de piano est mélancolique, mais tellement beau.",
@@ -1052,7 +1052,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das bricht mir das Herz",
    "register": "tu",
    "anker": "fendre",
-   "notiz": null,
+   "notiz": "wörtlich „das spaltet mir das Herz“ (fendre = spalten); auch ça me brise le cœur. voir + Infinitiv: voir un enfant pleurer.",
    "audio": "audio/fr-de/wendungen/se_05.mp3",
    "satz": {
     "fr": "Voir un enfant pleurer tout seul, ça me fend le cœur.",
@@ -1078,7 +1078,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "gerührt, bewegt sein",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "ému = Partizip von émouvoir (rühren); être ému aux larmes = zu Tränen gerührt. Nicht „aufgeregt“ – das wäre excité oder nerveux.",
    "audio": "audio/fr-de/wendungen/se_06.mp3",
    "satz": {
     "fr": "À la fin du concert, j'étais ému aux larmes.",
@@ -1095,7 +1095,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "beunruhigend, unheimlich",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "von inquiéter = beunruhigen (quiet = ruhig); inquiet/inquiète = besorgt. s'inquiéter pour = sich Sorgen machen um.",
    "audio": "audio/fr-de/wendungen/se_07.mp3",
    "satz": {
     "fr": "La maison était silencieuse, c'était inquiétant.",
@@ -1112,7 +1112,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "beruhigend, wohltuend",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "von apaiser = beruhigen, besänftigen (la paix = Frieden); apaisant = beruhigend, wohltuend. le ronronnement = das Schnurren.",
    "audio": "audio/fr-de/wendungen/se_08.mp3",
    "satz": {
     "fr": "Le ronronnement de mon chat est apaisant.",
@@ -1129,7 +1129,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Tränen in den Augen haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „die Tränen an den Augen haben“; avoir + Körperzustand ohne Possessiv: avoir les larmes aux yeux, avoir mal au dos.",
    "audio": "audio/fr-de/wendungen/se_09.mp3",
    "satz": {
     "fr": "Quand j'écoute cette voix, j'ai les larmes aux yeux.",
@@ -1155,7 +1155,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das gibt mir Gänsehaut",
    "register": "tu",
    "anker": "donner",
-   "notiz": null,
+   "notiz": "wörtlich „das gibt mir Schauer“ (un frisson = Schauer); donner = geben – im Deutschen „Gänsehaut“ (la chair de poule). frissonner = schaudern.",
    "audio": "audio/fr-de/wendungen/se_10.mp3",
    "satz": {
     "fr": "Le refrain me donne des frissons.",
@@ -1181,7 +1181,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Angst haben vor",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "avoir peur de + Nomen/Infinitiv; de + le = du: peur du noir. ne … pas … mais = nicht … sondern. le noir = die Dunkelheit.",
    "audio": "audio/fr-de/wendungen/se_11.mp3",
    "satz": {
     "fr": "Je n'ai pas peur du noir, mais du silence.",
@@ -1207,7 +1207,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "gut gelaunt sein",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "wörtlich „von guter Laune sein“ (l'humeur, weiblich – nicht l'humour!); être de bonne/mauvaise humeur, immer mit de.",
    "audio": "audio/fr-de/wendungen/se_12.mp3",
    "satz": {
     "fr": "Ce matin, je suis de bonne humeur, le soleil est là.",
@@ -1233,7 +1233,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schlecht gelaunt sein",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "ne lui parle pas = verneinter Imperativ, Pronomen lui (ihm/ihr) vor dem Verb. l'humeur = die Laune (weiblich).",
    "audio": "audio/fr-de/wendungen/se_13.mp3",
    "satz": {
     "fr": "Ne lui parle pas, il est de mauvaise humeur.",
@@ -1250,7 +1250,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das fehlt mir",
    "register": "tu",
    "anker": "manquer",
-   "notiz": null,
+   "notiz": "umgekehrt zum Deutschen: die Sache ist Subjekt, ich bin Objekt – mes chats me manquent = meine Katzen fehlen mir (manquer à qn). tu me manques = ich vermisse dich.",
    "audio": "audio/fr-de/wendungen/se_14.mp3",
    "satz": {
     "fr": "Mes chats me manquent quand je suis en voyage.",
@@ -1276,7 +1276,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schwer ums Herz sein, viel auf dem Herzen haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „davon dick auf dem Herzen haben“ – en avoir gros sur le cœur = schwer ums Herz sein, viel Kummer haben. Umgangssprachlich, herzlich.",
    "audio": "audio/fr-de/wendungen/se_15.mp3",
    "satz": {
     "fr": "Après cette journée, j'en ai gros sur le cœur.",
@@ -1302,7 +1302,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "erschütternd, zutiefst bewegend",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "von bouleverser = umwerfen, erschüttern; bouleversant = zutiefst bewegend; bouleversé = erschüttert. Femininum: bouleversante.",
    "audio": "audio/fr-de/wendungen/se_16.mp3",
    "satz": {
     "fr": "La fin du film est bouleversante.",
@@ -1319,7 +1319,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich gut / schlecht fühlen",
    "register": "tu",
    "anker": "se sentir",
-   "notiz": null,
+   "notiz": "se sentir + Adjektiv/Adverb: je me sens bien, mal, léger, fatigué. Nicht sentir (riechen, spüren) ohne se: je sens le café.",
    "audio": "audio/fr-de/wendungen/se_17.mp3",
    "satz": {
     "fr": "Après le kung-fu, je me sens bien, léger.",
@@ -1345,7 +1345,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein schweres Herz haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „das Herz schwer haben“ – wie im Deutschen; avoir le cœur lourd/léger. elle est partie = passé composé mit être (partir).",
    "audio": "audio/fr-de/wendungen/se_18.mp3",
    "satz": {
     "fr": "Elle est partie, et j'ai le cœur lourd.",
@@ -1371,7 +1371,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das macht mich traurig / glücklich",
    "register": "tu",
    "anker": "rendre",
-   "notiz": null,
+   "notiz": "rendre + Adjektiv = jemanden zu etwas machen: ça me rend triste, heureux, fou. Nie faire: „ça me fait triste“ ist falsch.",
    "audio": "audio/fr-de/wendungen/se_19.mp3",
    "satz": {
     "fr": "La pluie sur Paris me rend un peu triste.",
@@ -1397,7 +1397,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Halbdunkel, Hell-Dunkel",
    "register": "tu",
    "anker": "adorer",
-   "notiz": null,
+   "notiz": "le clair-obscur = Hell-Dunkel (Malerei, Caravaggio, Georges de La Tour); un tableau = das Gemälde. le Louvre = Schauplatz der Geschichte.",
    "audio": "audio/fr-de/wendungen/se_20.mp3",
    "satz": {
     "fr": "J'adore le clair-obscur dans les tableaux du Louvre.",
@@ -1414,7 +1414,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "friedlich",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "paisible = friedlich (la paix = Frieden), für Orte und Menschen; auch: une vie paisible, un chat paisible. Gegenteil: agité.",
    "audio": "audio/fr-de/wendungen/se_21.mp3",
    "satz": {
     "fr": "Le soir, le jardin est paisible.",
@@ -1431,7 +1431,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "beklemmend, angsteinflößend",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "von angoisser = beklemmen (l'angoisse = Beklemmung, Angst); angoissant = beklemmend; angoissé = beklommen. le couloir = Gang, Flur.",
    "audio": "audio/fr-de/wendungen/se_22.mp3",
    "satz": {
     "fr": "Le couloir vide du musée était angoissant.",
@@ -1448,7 +1448,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Kummer haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "le chagrin = Kummer, Gram; avoir du chagrin (Teilungsartikel du). un chagrin d'amour = Liebeskummer. depuis = seit.",
    "audio": "audio/fr-de/wendungen/se_23.mp3",
    "satz": {
     "fr": "Il a du chagrin depuis la mort de son chat.",
@@ -1474,7 +1474,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es tut mir leid (höflich)",
    "register": "vous",
    "anker": "être",
-   "notiz": null,
+   "notiz": "désolé = wörtlich „untröstlich“ (vom lat. desolare) – die normale Entschuldigung: je suis désolé / désolée (Frau). déranger = stören.",
    "audio": "audio/fr-de/wendungen/se_24.mp3",
    "satz": {
     "fr": "Je suis désolé, madame, je ne voulais pas vous déranger.",
@@ -1491,7 +1491,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schnurren",
    "register": "tu",
    "anker": "ronronner",
-   "notiz": null,
+   "notiz": "ronronner = lautmalerisch (ron-ron); dès que = sobald. je m'assieds = s'asseoir (sich setzen), unregelmäßig: je m'assieds, tu t'assieds.",
    "audio": "audio/fr-de/wendungen/ch_01.mp3",
    "satz": {
     "fr": "Mon chat ronronne dès que je m'assieds.",
@@ -1517,7 +1517,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "kuscheln, schmusen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „einen Schmuser machen“ (un câlin = Kuscheln, Umarmung); faire un câlin à qn = jemanden knuddeln. le canapé = das Sofa.",
    "audio": "audio/fr-de/wendungen/ch_02.mp3",
    "satz": {
     "fr": "Le soir, elle vient me faire un câlin sur le canapé.",
@@ -1543,7 +1543,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "kratzen (mit Krallen)",
    "register": "tu",
    "anker": "griffer",
-   "notiz": null,
+   "notiz": "von la griffe = Kralle; griffer = kratzen mit Krallen (gratter = kratzen allgemein). on = man; caresser = streicheln.",
    "audio": "audio/fr-de/wendungen/ch_03.mp3",
    "satz": {
     "fr": "Attention, il griffe quand on le caresse trop longtemps.",
@@ -1569,7 +1569,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich putzen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „seine Toilette machen“ = sich putzen, waschen (la toilette = Körperpflege); auch bei Menschen: faire sa toilette le matin.",
    "audio": "audio/fr-de/wendungen/ch_04.mp3",
    "satz": {
     "fr": "Après le repas, il fait sa toilette pendant dix minutes.",
@@ -1595,7 +1595,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "miauen",
    "register": "tu",
    "anker": "miauler",
-   "notiz": null,
+   "notiz": "miauler = miauen (miaou = miau); devant la porte = vor der Tür. à six heures du matin = um sechs Uhr morgens (du matin / du soir).",
    "audio": "audio/fr-de/wendungen/ch_05.mp3",
    "satz": {
     "fr": "Elle miaule devant la porte de la cuisine à six heures du matin.",
@@ -1621,7 +1621,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Hunger haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "avoir faim = Hunger haben (wie avoir soif, avoir froid – immer mit avoir); d'après lui = ihm zufolge, seiner Meinung nach.",
    "audio": "audio/fr-de/wendungen/ch_06.mp3",
    "satz": {
     "fr": "D'après lui, il a toujours faim.",
@@ -1647,7 +1647,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "streicheln",
    "register": "tu",
    "anker": "caresser",
-   "notiz": null,
+   "notiz": "caresser = streicheln; une caresse = eine Streicheleinheit. derrière les oreilles = hinter den Ohren. elle adore ça = sie liebt das.",
    "audio": "audio/fr-de/wendungen/ch_07.mp3",
    "satz": {
     "fr": "Je caresse ma chatte derrière les oreilles, elle adore ça.",
@@ -1673,7 +1673,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "seine Krallen wetzen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „seine Krallen machen“ = Krallen wetzen; le griffoir = der Kratzbaum/das Kratzbrett; le fauteuil = der Sessel.",
    "audio": "audio/fr-de/wendungen/ch_08.mp3",
    "satz": {
     "fr": "Il fait ses griffes sur le fauteuil, jamais sur le griffoir.",
@@ -1699,7 +1699,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Raubkatze, ein Katzentier",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "un félin = Katzentier (vom lat. felis); les félins = Raubkatzen. c'est + Nomen mit Artikel: un chat, c'est un félin.",
    "audio": "audio/fr-de/wendungen/ch_09.mp3",
    "satz": {
     "fr": "Un chat, c'est un petit félin qui a décidé de vivre avec nous.",
@@ -1716,7 +1716,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Nickerchen machen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "faire la sieste = Mittagsschlaf halten (aus dem Spanischen); seize heures par jour = 16 Stunden am Tag. Quelle vie = Was für ein Leben.",
    "audio": "audio/fr-de/wendungen/ch_10.mp3",
    "satz": {
     "fr": "Mon chat fait la sieste seize heures par jour. Quelle vie.",
@@ -1742,7 +1742,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich reiben an",
    "register": "tu",
    "anker": "se frotter",
-   "notiz": null,
+   "notiz": "se frotter contre = sich reiben an (frotter = reiben); rentrer = nach Hause kommen (nicht nur „hineingehen“).",
    "audio": "audio/fr-de/wendungen/ch_11.mp3",
    "satz": {
     "fr": "Elle se frotte contre mes jambes quand je rentre.",
@@ -1768,7 +1768,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Trockenfutter",
    "register": "tu",
    "anker": "préférer",
-   "notiz": null,
+   "notiz": "les croquettes = Trockenfutter (croquer = knabbern, knacken); préférer A à B = A lieber mögen als B; les siennes = seine (Possessivpronomen).",
    "audio": "audio/fr-de/wendungen/ch_12.mp3",
    "satz": {
     "fr": "Il préfère les croquettes du voisin aux siennes.",
@@ -1785,7 +1785,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Nassfutter",
    "register": "tu",
    "anker": "savoir",
-   "notiz": null,
+   "notiz": "la pâtée = Nassfutter (von la pâte = Teig, Masse); c'est la pâtée = es gibt Nassfutter. il le sait = er weiß es (le = es).",
    "audio": "audio/fr-de/wendungen/ch_13.mp3",
    "satz": {
     "fr": "À midi, c'est la pâtée, et il le sait.",
@@ -1802,7 +1802,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "einen Blick haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "le regard = der Blick (regarder = anschauen); avoir un regard qui dit … = einen Blick haben, der sagt … être en retard = zu spät sein.",
    "audio": "audio/fr-de/wendungen/ch_14.mp3",
    "satz": {
     "fr": "Elle a un regard qui dit : « Tu es en retard. »",
@@ -1819,7 +1819,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "springen auf",
    "register": "tu",
    "anker": "sauter",
-   "notiz": null,
+   "notiz": "sauter = springen; sauter sur = springen auf; pendant que = während (zeitlich). le bureau = Schreibtisch und Büro.",
    "audio": "audio/fr-de/wendungen/ch_15.mp3",
    "satz": {
     "fr": "Il saute sur le bureau pendant que je corrige des copies.",
@@ -1845,7 +1845,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich verstecken",
    "register": "tu",
    "anker": "se cacher",
-   "notiz": null,
+   "notiz": "se cacher = sich verstecken (cacher = verstecken); l'aspirateur = der Staubsauger (aspirer = einsaugen); sous le lit = unter dem Bett.",
    "audio": "audio/fr-de/wendungen/ch_16.mp3",
    "satz": {
     "fr": "Quand l'aspirateur sort, elle se cache sous le lit.",
@@ -1871,7 +1871,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Gesellschaft leisten",
    "register": "tu",
    "anker": "tenir",
-   "notiz": null,
+   "notiz": "wörtlich „Gesellschaft halten“; tenir compagnie à qn = jemandem Gesellschaft leisten. préparer mes cours = Unterricht vorbereiten.",
    "audio": "audio/fr-de/wendungen/ch_17.mp3",
    "satz": {
     "fr": "Mes chats me tiennent compagnie quand je prépare mes cours.",
@@ -1897,7 +1897,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Hauskatze (ohne Rasse)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "wörtlich „Dachrinnenkatze“ (la gouttière = Dachrinne) = Hauskatze ohne Stammbaum; un chat de race = Rassekatze. Liebevoll, nicht abwertend.",
    "audio": "audio/fr-de/wendungen/ch_18.mp3",
    "satz": {
     "fr": "Ce n'est pas un chat de race, c'est un chat de gouttière, et il est parfait.",
@@ -1914,7 +1914,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Unsinn machen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „Dummheiten machen“ (une bêtise = Dummheit, von bête = dumm, Tier); faire des bêtises = Unsinn anstellen, auch bei Kindern.",
    "audio": "audio/fr-de/wendungen/ch_19.mp3",
    "satz": {
     "fr": "Quand je ne suis pas là, ils font des bêtises.",
@@ -1940,7 +1940,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Tierarzt",
    "register": "tu",
    "anker": "devenir",
-   "notiz": null,
+   "notiz": "le vétérinaire, umgangssprachlich le véto; chez le vétérinaire = beim Tierarzt (chez + Person). devenir = werden.",
    "audio": "audio/fr-de/wendungen/ch_20.mp3",
    "satz": {
     "fr": "Chez le vétérinaire, mon chat devient très, très calme.",
@@ -1957,7 +1957,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das stört ihn nicht",
    "register": "tu",
    "anker": "déranger",
-   "notiz": null,
+   "notiz": "déranger = stören; ça ne le dérange pas = das stört ihn nicht (le = ihn). chanter faux = schief singen. enfin, je crois = na ja, glaube ich.",
    "audio": "audio/fr-de/wendungen/ch_21.mp3",
    "satz": {
     "fr": "Je chante faux, mais ça ne le dérange pas. Enfin, je crois.",
@@ -1974,7 +1974,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "unabhängig sein",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "indépendant = unabhängig (femininum: indépendante); l'indépendance. revenir = zurückkommen; quand il a faim = wenn er Hunger hat.",
    "audio": "audio/fr-de/wendungen/ch_22.mp3",
    "satz": {
     "fr": "Un chat est indépendant. Il revient quand il a faim.",
@@ -1991,7 +1991,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "vor Wohlbehagen schnurren",
    "register": "tu",
    "anker": "ronronner",
-   "notiz": null,
+   "notiz": "ronronner de plaisir = vor Vergnügen schnurren (de + Gefühl = vor: pleurer de joie, mourir de faim). les yeux fermés = mit geschlossenen Augen.",
    "audio": "audio/fr-de/wendungen/ch_23.mp3",
    "satz": {
     "fr": "Au soleil, elle ronronne de plaisir, les yeux fermés.",
@@ -2017,7 +2017,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Haben Sie eine Katze? (höflich)",
    "register": "vous",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "est-ce que = Frageeinleitung, danach normaler Satz; madame ohne Artikel in der Anrede. il y en a un = es gibt eine davon (en = davon). le toit = das Dach.",
    "audio": "audio/fr-de/wendungen/ch_24.mp3",
    "satz": {
     "fr": "Excusez-moi, madame, est-ce que vous avez un chat ? Il y en a un sur votre toit.",
@@ -2034,7 +2034,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "richtig (sauber) singen",
    "register": "tu",
    "anker": "chanter",
-   "notiz": null,
+   "notiz": "juste = richtig, genau (auch: gerecht); chanter juste = sauber singen. Gegenteil: chanter faux. mit dem Herzen: avec le cœur.",
    "audio": "audio/fr-de/wendungen/mu_01.mp3",
    "satz": {
     "fr": "Mon frère chante juste, moi je chante avec le cœur.",
@@ -2060,7 +2060,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schief singen",
    "register": "tu",
    "anker": "chanter",
-   "notiz": null,
+   "notiz": "faux = falsch (femininum fausse); chanter faux, jouer faux. fort = laut (und stark); compenser = ausgleichen.",
    "audio": "audio/fr-de/wendungen/mu_02.mp3",
    "satz": {
     "fr": "Je chante faux, mais fort. Ça compense.",
@@ -2086,7 +2086,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Refrain",
    "register": "tu",
    "anker": "connaître",
-   "notiz": null,
+   "notiz": "le refrain = Refrain (wie im Deutschen, Betonung hinten); le couplet = die Strophe. connaître = kennen (Personen, Dinge), savoir = wissen.",
    "audio": "audio/fr-de/wendungen/mu_03.mp3",
    "satz": {
     "fr": "Je ne connais pas les paroles, mais le refrain, oui.",
@@ -2103,7 +2103,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Liedtext",
    "register": "tu",
    "anker": "donner",
-   "notiz": null,
+   "notiz": "les paroles (Plural!) = Liedtext (la parole = das Wort, die Sprache); les paroles d'une chanson. un frisson = Schauer.",
    "audio": "audio/fr-de/wendungen/mu_04.mp3",
    "satz": {
     "fr": "Les paroles de cette chanson me donnent des frissons.",
@@ -2120,7 +2120,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das klingt gut",
    "register": "tu",
    "anker": "sonner",
-   "notiz": null,
+   "notiz": "sonner = klingen, läuten; ça sonne bien/faux = das klingt gut/falsch. en français = auf Französisch (ohne Artikel).",
    "audio": "audio/fr-de/wendungen/mu_05.mp3",
    "satz": {
     "fr": "En français, cette phrase sonne bien. En allemand, moins.",
@@ -2146,7 +2146,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein gutes Gehör haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „das Ohr haben“ = musikalisches Gehör haben; l'oreille (weiblich); tout de suite = sofort. entendre = hören.",
    "audio": "audio/fr-de/wendungen/mu_06.mp3",
    "satz": {
     "fr": "Aurélien a l'oreille : il entend mon accent allemand tout de suite.",
@@ -2163,7 +2163,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Akzent",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "l'accent (männlich) = Akzent (Aussprache und Schriftzeichen); un mélange = Mischung; la bonne volonté = der gute Wille.",
    "audio": "audio/fr-de/wendungen/mu_07.mp3",
    "satz": {
     "fr": "Mon accent, c'est un mélange de Sarre et de bonne volonté.",
@@ -2180,7 +2180,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Musik der Sprache",
    "register": "tu",
    "anker": "aimer",
-   "notiz": null,
+   "notiz": "ce que j'aime …, c'est … = was ich mag, ist … (Hervorhebung mit ce que … c'est); la langue = Sprache und Zunge.",
    "audio": "audio/fr-de/wendungen/mu_08.mp3",
    "satz": {
     "fr": "Ce que j'aime en français, c'est la musique de la langue.",
@@ -2197,7 +2197,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Instrument spielen",
    "register": "tu",
    "anker": "jouer",
-   "notiz": null,
+   "notiz": "jouer de + Instrument (jouer de la guitare, du piano), aber jouer à + Spiel/Sport (jouer au foot). mal = schlecht (Adverb).",
    "audio": "audio/fr-de/wendungen/mu_09.mp3",
    "satz": {
     "fr": "Tu joues d'un instrument ? – Oui, de la guitare, mal.",
@@ -2223,7 +2223,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "in Dauerschleife hören",
    "register": "tu",
    "anker": "écouter",
-   "notiz": null,
+   "notiz": "wörtlich „in Schleife hören“ (une boucle = Schleife, Locke); en boucle = in Dauerschleife. depuis trois jours = seit drei Tagen (Präsens!).",
    "audio": "audio/fr-de/wendungen/mu_10.mp3",
    "satz": {
     "fr": "J'écoute cette chanson en boucle depuis trois jours.",
@@ -2249,7 +2249,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "einen Ohrwurm haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „ein Lied im Kopf haben“ = Ohrwurm; « Ne me quitte pas » = Jacques Brels berühmtestes Chanson (1959), Aurélien liebt Brel.",
    "audio": "audio/fr-de/wendungen/mu_11.mp3",
    "satz": {
     "fr": "J'ai « Ne me quitte pas » dans la tête depuis ce matin. Merci, Aurélien.",
@@ -2266,7 +2266,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "summen",
    "register": "tu",
    "anker": "fredonner",
-   "notiz": null,
+   "notiz": "fredonner = summen, vor sich hin singen (nicht brummen wie ein Motor: ronronner); en corrigeant = Gérondif (en + -ant) = beim Korrigieren.",
    "audio": "audio/fr-de/wendungen/mu_12.mp3",
    "satz": {
     "fr": "Je fredonne en corrigeant des copies. Les élèves ne le savent pas.",
@@ -2292,7 +2292,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Rhythmus",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "le rythme (Schreibung: y, th!); accentuer = betonen. Im Französischen liegt der Akzent immer auf der letzten Silbe der Wortgruppe.",
    "audio": "audio/fr-de/wendungen/mu_13.mp3",
    "satz": {
     "fr": "Le français a un rythme : on accentue la fin des mots.",
@@ -2309,7 +2309,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Liaison (Bindung)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "la liaison = Bindung: stummer Endkonsonant wird vor Vokal gesprochen – les‿amis [lezami]. Pflicht nach Artikel/Pronomen, verboten vor h aspiré (les / héros).",
    "audio": "audio/fr-de/wendungen/mu_14.mp3",
    "satz": {
     "fr": "Les‿enfants, les‿amis : la liaison, c'est la musique entre les mots.",
@@ -2326,7 +2326,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "aussprechen",
    "register": "tu",
    "anker": "prononcer",
-   "notiz": null,
+   "notiz": "prononcer = aussprechen; la prononciation. je n'arrive pas à + Infinitiv = ich schaffe es nicht zu. grenouille = Frosch [gʀənuj], grenade = Granate/Granatapfel.",
    "audio": "audio/fr-de/wendungen/mu_15.mp3",
    "satz": {
     "fr": "Je n'arrive pas à prononcer « grenouille ». Je dis « grenade ».",
@@ -2352,7 +2352,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Musikstück",
    "register": "tu",
    "anker": "rendre",
-   "notiz": null,
+   "notiz": "un morceau = Stück (Musik, Brot, Kuchen: un morceau de pain); en même temps = gleichzeitig. rendre heureux = glücklich machen.",
    "audio": "audio/fr-de/wendungen/mu_16.mp3",
    "satz": {
     "fr": "Ce morceau de piano me rend heureux et triste en même temps.",
@@ -2369,7 +2369,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "aus voller Kehle",
    "register": "tu",
    "anker": "chanter",
-   "notiz": null,
+   "notiz": "wörtlich „zum Kopf-Töten“ (tuer = töten, la tête = Kopf); chanter/crier à tue-tête = aus voller Kehle. seul = allein.",
    "audio": "audio/fr-de/wendungen/mu_17.mp3",
    "satz": {
     "fr": "Dans la voiture, je chante à tue-tête. Seul. Toujours seul.",
@@ -2386,7 +2386,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine tiefe / hohe Stimme",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "grave = tief (Stimme, Ton) und ernst; aigu/aiguë = hoch, spitz. une voix de prof = eine Lehrerstimme (de ohne Artikel = Art, Typ).",
    "audio": "audio/fr-de/wendungen/mu_18.mp3",
    "satz": {
     "fr": "Il a une voix grave, elle a une voix aiguë, et moi j'ai une voix de prof.",
@@ -2403,7 +2403,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das spricht mich an",
    "register": "tu",
    "anker": "parler",
-   "notiz": null,
+   "notiz": "wörtlich „das spricht mir“ – ça me parle = das sagt mir etwas, das spricht mich an. ça ne me parle pas = sagt mir nichts.",
    "audio": "audio/fr-de/wendungen/mu_19.mp3",
    "satz": {
     "fr": "Cette chanson me parle. Je ne comprends pas tout, mais elle me parle.",
@@ -2429,7 +2429,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "auswendig lernen",
    "register": "tu",
    "anker": "apprendre",
-   "notiz": null,
+   "notiz": "wörtlich „durchs Herz lernen“ (par cœur) – wie engl. by heart; apprendre/savoir par cœur. le vocabulaire = der Wortschatz.",
    "audio": "audio/fr-de/wendungen/mu_20.mp3",
    "satz": {
     "fr": "J'apprends les paroles par cœur, c'est mon vocabulaire préféré.",
@@ -2455,7 +2455,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das falsche Wort erwischen",
    "register": "tu",
    "anker": "se tromper",
-   "notiz": null,
+   "notiz": "se tromper de + Nomen ohne Artikel = das Falsche erwischen: se tromper de mot, de porte, de jour. se tromper = sich irren.",
    "audio": "audio/fr-de/wendungen/mu_21.mp3",
    "satz": {
     "fr": "Je me trompe souvent de mot, mais la mélodie est juste.",
@@ -2481,7 +2481,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das tut mir gut",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „das macht mir Gutes“; faire du bien à qn = guttun; Gegenteil: faire du mal = wehtun. chanter le soir = abends singen.",
    "audio": "audio/fr-de/wendungen/mu_22.mp3",
    "satz": {
     "fr": "Chanter le soir, ça me fait du bien.",
@@ -2507,7 +2507,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine singende (melodische) Sprache",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "chantant = singend, melodisch (Partizip von chanter als Adjektiv); une langue chantante. râler = meckern, motzen – Nationalsport.",
    "audio": "audio/fr-de/wendungen/mu_23.mp3",
    "satz": {
     "fr": "Le français est une langue chantante. Même quand on râle.",
@@ -2524,7 +2524,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Könnten Sie das langsamer wiederholen? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
-   "notiz": null,
+   "notiz": "pourriez-vous = Konditional (höflich); répéter = wiederholen; plus lentement = langsamer (Komparativ mit plus + Adverb). pardon = Entschuldigung, Verzeihung.",
    "audio": "audio/fr-de/wendungen/mu_24.mp3",
    "satz": {
     "fr": "Pardon, pourriez-vous répéter plus lentement ? J'écoute la musique, pas les mots.",
@@ -2541,7 +2541,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es war einmal",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "wörtlich „er war ein Mal“ – il y avait verkürzt; der Märchenanfang. un conte = Märchen (conter = erzählen); un conte de fées = Feenmärchen.",
    "audio": "audio/fr-de/wendungen/hi_01.mp3",
    "satz": {
     "fr": "Il était une fois un professeur qui ne corrigeait jamais ses copies. C'est un conte.",
@@ -2558,7 +2558,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Geschichte erzählen",
    "register": "tu",
    "anker": "raconter",
-   "notiz": null,
+   "notiz": "raconter = erzählen (nicht conter); raconter qc à qn: je raconte une histoire à mon chat. s'endormir = einschlafen. avant la fin = vor dem Ende.",
    "audio": "audio/fr-de/wendungen/hi_02.mp3",
    "satz": {
     "fr": "Le soir, je raconte une histoire à mon chat. Il s'endort avant la fin.",
@@ -2584,7 +2584,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Suche, die Queste",
    "register": "tu",
    "anker": "commencer",
-   "notiz": null,
+   "notiz": "la quête = Suche, Queste (vom alten quérir = suchen; Gralssuche = la quête du Graal); en quête de = auf der Suche nach. ses clés = seine Schlüssel.",
    "audio": "audio/fr-de/wendungen/hi_03.mp3",
    "satz": {
     "fr": "Chaque bon roman commence par une quête. Même si c'est juste chercher ses clés.",
@@ -2601,7 +2601,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "tief im Wald",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "au fond de = tief in, hinten in (le fond = Grund, Hintergrund); au fond de la forêt, au fond de la classe. il y avait = es gab (Imparfait).",
    "audio": "audio/fr-de/wendungen/hi_04.mp3",
    "satz": {
     "fr": "Au fond de la forêt, il y avait une maison. Et dans la maison, une lumière.",
@@ -2618,7 +2618,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Drache",
    "register": "tu",
    "anker": "cracher",
-   "notiz": null,
+   "notiz": "le dragon; cracher du feu = Feuer speien (cracher = spucken); cracher des devoirs = Hausaufgaben speien. Imparfait = Beschreibung in der Vergangenheit.",
    "audio": "audio/fr-de/wendungen/hi_05.mp3",
    "satz": {
     "fr": "Le dragon ne crachait pas de feu. Il crachait des devoirs.",
@@ -2635,7 +2635,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Schwert",
    "register": "tu",
    "anker": "prendre",
-   "notiz": null,
+   "notiz": "une épée = Schwert (weiblich); lourd/lourde = schwer (Gewicht; schwierig = difficile). comme un lundi = wie ein Montag.",
    "audio": "audio/fr-de/wendungen/hi_06.mp3",
    "satz": {
     "fr": "Le héros a pris son épée. Elle était lourde, comme un lundi.",
@@ -2652,7 +2652,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Zauber",
    "register": "tu",
    "anker": "transformer",
-   "notiz": null,
+   "notiz": "un sortilège = Zauber, Bann (vom lat. sors = Los, Schicksal); auch un sort: jeter un sort = verhexen. ne … que = nur: ça n'a duré que trois minutes.",
    "audio": "audio/fr-de/wendungen/hi_07.mp3",
    "satz": {
     "fr": "Un sortilège a transformé la classe en silence. Ça n'a duré que trois minutes.",
@@ -2678,7 +2678,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "plötzlich, mit einem Schlag",
    "register": "tu",
    "anker": "ouvrir",
-   "notiz": null,
+   "notiz": "wörtlich „mit einem Schlag“ = plötzlich (umgangssprachlich; synonym tout à coup, soudain); nicht verwechseln mit du coup (= also).",
    "audio": "audio/fr-de/wendungen/hi_08.mp3",
    "satz": {
     "fr": "D'un coup, la porte s'est ouverte. Personne. Juste le vent. Enfin, j'espère.",
@@ -2695,7 +2695,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Geheimnis haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "avoir un secret = ein Geheimnis haben; tout le monde = alle (Singular-Verb: tout le monde a). même = sogar.",
    "audio": "audio/fr-de/wendungen/hi_09.mp3",
    "satz": {
     "fr": "Tout le monde a un secret dans cette histoire. Même le chat.",
@@ -2712,7 +2712,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Königreich",
    "register": "tu",
    "anker": "parler",
-   "notiz": null,
+   "notiz": "un royaume = Königreich (le roi = König, la reine = Königin); le Royaume-Uni = Vereinigtes Königreich. parlaient/écoutaient = Imparfait.",
    "audio": "audio/fr-de/wendungen/hi_10.mp3",
    "satz": {
     "fr": "Dans ce royaume, les livres parlaient et les gens écoutaient.",
@@ -2729,7 +2729,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Zauberer / eine Hexe",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "un sorcier / une sorcière = Zauberer / Hexe (le sort = Zauber); méchant = böse, gemein. je la comprends = ich verstehe sie (la = sie, vor dem Verb).",
    "audio": "audio/fr-de/wendungen/hi_11.mp3",
    "satz": {
     "fr": "La sorcière n'était pas méchante. Elle était fatiguée. Je la comprends.",
@@ -2746,7 +2746,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich verwandeln in",
    "register": "tu",
    "anker": "se transformer",
-   "notiz": null,
+   "notiz": "se transformer en + Nomen ohne Artikel: se transformer en lecteur, en grenouille. à minuit = um Mitternacht; jusqu'à = bis.",
    "audio": "audio/fr-de/wendungen/hi_12.mp3",
    "satz": {
     "fr": "À minuit, le prof se transforme en lecteur. Jusqu'à deux heures du matin.",
@@ -2772,7 +2772,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "auf einmal",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "wörtlich „alles mit einem Schlag“ = auf einmal, plötzlich (schriftsprachlicher als d'un coup). c'est quand … ? = wann ist … ? (umgangssprachlich).",
    "audio": "audio/fr-de/wendungen/hi_13.mp3",
    "satz": {
     "fr": "Tout à coup, le silence. Puis une voix : « Monsieur, c'est quand la pause ? »",
@@ -2789,7 +2789,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Held / eine Heldin",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "le héros (h aspiré: le héros, kein Apostroph, keine Liaison) / l'héroïne (h muet!). c'est pour ça que = deshalb. courageux = mutig.",
    "audio": "audio/fr-de/wendungen/hi_14.mp3",
    "satz": {
     "fr": "Le héros de mon roman préféré a peur de tout. C'est pour ça qu'il est courageux.",
@@ -2806,7 +2806,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Bösewicht",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "le méchant = der Böse, Bösewicht (Adjektiv méchant = böse, gemein); le gentil = der Gute. le réveil = Wecker und Aufwachen.",
    "audio": "audio/fr-de/wendungen/hi_15.mp3",
    "satz": {
     "fr": "Le méchant de l'histoire, c'est le réveil. Six heures. Chaque jour.",
@@ -2823,7 +2823,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Schatzkarte",
    "register": "tu",
    "anker": "trouver",
-   "notiz": null,
+   "notiz": "une carte = Karte (Landkarte, Spielkarte, Speisekarte); le trésor = Schatz; un cahier = Heft; un plan = Stadtplan, Grundriss; la cantine = Schulmensa.",
    "audio": "audio/fr-de/wendungen/hi_16.mp3",
    "satz": {
     "fr": "J'ai trouvé une carte au trésor dans un cahier. C'était un plan de la cantine.",
@@ -2849,7 +2849,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es heißt, dass",
    "register": "tu",
    "anker": "paraître",
-   "notiz": null,
+   "notiz": "wörtlich „es erscheint, dass“ (paraître = scheinen) = es heißt, angeblich; il paraît que + Indikativ. Gerüchte-Formel schlechthin.",
    "audio": "audio/fr-de/wendungen/hi_17.mp3",
    "satz": {
     "fr": "Il paraît que la salle 13 existe. Il paraît aussi que le chat y dort.",
@@ -2866,7 +2866,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "verschwinden",
    "register": "tu",
    "anker": "disparaître",
-   "notiz": null,
+   "notiz": "disparaître = verschwinden (paraître → apparaître = erscheinen, disparaître); passé composé: il a disparu. les stylos = Kugelschreiber.",
    "audio": "audio/fr-de/wendungen/hi_18.mp3",
    "satz": {
     "fr": "Dans ce roman, les gens disparaissent. Dans ma classe, ce sont les stylos.",
@@ -2892,7 +2892,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Fortsetzung",
    "register": "tu",
    "anker": "lire",
-   "notiz": null,
+   "notiz": "la suite = Fortsetzung, das Folgende (suivre = folgen); « à suivre » = Fortsetzung folgt; tout de suite = sofort – die beiden nicht verwechseln!",
    "audio": "audio/fr-de/wendungen/hi_19.mp3",
    "satz": {
     "fr": "Je veux lire la suite tout de suite. Mais il est minuit. Je lis la suite.",
@@ -2909,7 +2909,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "in Atem (gespannt)",
    "register": "tu",
    "anker": "tenir",
-   "notiz": null,
+   "notiz": "wörtlich „in Atem halten“ (l'haleine = Atem, Hauch) – tenir en haleine = in Spannung halten; une mauvaise haleine = Mundgeruch.",
    "audio": "audio/fr-de/wendungen/hi_20.mp3",
    "satz": {
     "fr": "Ce livre me tient en haleine depuis trois nuits.",
@@ -2935,7 +2935,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schaudern, zittern",
    "register": "tu",
    "anker": "frissonner",
-   "notiz": null,
+   "notiz": "frissonner = schaudern, zittern (un frisson = Schauer); à chaque chapitre = bei jedem Kapitel. la fantasy = das Genre (engl. Wort, weiblich).",
    "audio": "audio/fr-de/wendungen/hi_21.mp3",
    "satz": {
     "fr": "Je frissonne à chaque chapitre. Et je continue. C'est ça, la fantasy.",
@@ -2961,7 +2961,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Wendung (in der Handlung)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "un rebondissement = Wendung, überraschende Entwicklung (rebondir = abprallen, wieder hochspringen); depuis le début = von Anfang an.",
    "audio": "audio/fr-de/wendungen/hi_22.mp3",
    "satz": {
     "fr": "Un rebondissement à la page 200 : le chat était le roi depuis le début.",
@@ -2978,7 +2978,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Ende",
    "register": "tu",
    "anker": "raconter",
-   "notiz": null,
+   "notiz": "la fin = Ende (weiblich: la fin du film); le fin = das Feine. je ne la raconte pas = ich erzähle es nicht (la = die fin). lis = Imperativ von lire.",
    "audio": "audio/fr-de/wendungen/hi_23.mp3",
    "satz": {
     "fr": "La fin de cette histoire ? Je ne la raconte pas. Lis le livre.",
@@ -2995,7 +2995,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Könnten Sie mir ein Buch empfehlen? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
-   "notiz": null,
+   "notiz": "conseiller = raten, empfehlen (le conseil = Rat); conseiller qc à qn: me conseiller un livre. un peu sombre, un peu magique = ein bisschen düster, ein bisschen magisch.",
    "audio": "audio/fr-de/wendungen/hi_24.mp3",
    "satz": {
     "fr": "Bonjour, pourriez-vous me conseiller un livre ? Un peu sombre, un peu magique.",
@@ -3012,7 +3012,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "trainieren",
    "register": "tu",
    "anker": "s'entraîner",
-   "notiz": null,
+   "notiz": "s'entraîner = trainieren (reflexiv!; entraîner = mitreißen, trainieren als Trainer); l'entraînement = das Training; l'entraîneur = Trainer.",
    "audio": "audio/fr-de/wendungen/sp_01.mp3",
    "satz": {
     "fr": "Je m'entraîne trois fois par semaine. Deux, si je suis honnête.",
@@ -3038,7 +3038,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Tritt",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "un coup de pied = Tritt (wörtlich „Schlag des Fußes“); un coup de + Körperteil/Werkzeug: coup de poing, coup de tête, coup de main (Hilfe).",
    "audio": "audio/fr-de/wendungen/sp_02.mp3",
    "satz": {
     "fr": "Un bon coup de pied, c'est d'abord une bonne position.",
@@ -3055,7 +3055,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Fausthieb",
    "register": "tu",
    "anker": "partir",
-   "notiz": null,
+   "notiz": "le poing = Faust (nicht le point = Punkt, gleiche Aussprache!); la hanche = Hüfte; partir de = ausgehen von. le bras = Arm.",
    "audio": "audio/fr-de/wendungen/sp_03.mp3",
    "satz": {
     "fr": "En kung-fu, le coup de poing part de la hanche, pas du bras.",
@@ -3072,7 +3072,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Beweglichkeit",
    "register": "tu",
    "anker": "travailler",
-   "notiz": null,
+   "notiz": "la souplesse = Beweglichkeit, Geschmeidigkeit (souple = biegsam, geschmeidig); se travailler = sich trainieren lassen. sinon = sonst.",
    "audio": "audio/fr-de/wendungen/sp_04.mp3",
    "satz": {
     "fr": "À quarante ans, la souplesse se travaille tous les jours. Sinon, elle part.",
@@ -3089,7 +3089,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ruhig bleiben",
    "register": "tu",
    "anker": "garder",
-   "notiz": null,
+   "notiz": "garder = behalten, bewahren; garder son calme = die Ruhe bewahren. en combat comme en classe = im Kampf wie in der Klasse. respirer = atmen.",
    "audio": "audio/fr-de/wendungen/sp_05.mp3",
    "satz": {
     "fr": "En combat comme en classe : garder son calme, respirer, attendre.",
@@ -3115,7 +3115,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich aufwärmen",
    "register": "tu",
    "anker": "s'échauffer",
-   "notiz": null,
+   "notiz": "s'échauffer = sich aufwärmen (chaud = warm; échauffer = erwärmen); l'échauffement = das Aufwärmen. mon dos = mein Rücken.",
    "audio": "audio/fr-de/wendungen/sp_06.mp3",
    "satz": {
     "fr": "Avant de m'entraîner, je m'échauffe dix minutes. Mon dos me dit merci.",
@@ -3141,7 +3141,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Muskelkater haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "une courbature = Muskelkater (von courber = krümmen); immer Plural: avoir des courbatures; courbaturé = steif, verspannt. le lendemain = der nächste Tag.",
    "audio": "audio/fr-de/wendungen/sp_07.mp3",
    "satz": {
     "fr": "Le lendemain, j'ai des courbatures partout. Même dans les oreilles.",
@@ -3167,7 +3167,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "fit sein",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "wörtlich „in Form sein“ = fit sein; être en pleine forme = topfit; Gegenteil: ne pas être en forme. Nicht „schlank“ – das wäre mince.",
    "audio": "audio/fr-de/wendungen/sp_08.mp3",
    "satz": {
     "fr": "Je suis en forme le matin. L'après-midi, je suis prof.",
@@ -3193,7 +3193,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Stellung halten",
    "register": "tu",
    "anker": "tenir",
-   "notiz": null,
+   "notiz": "tenir = halten; la position du cavalier = Reiterstellung (ma bu); simple ≠ facile: einfach (unkompliziert) ≠ leicht (mühelos).",
    "audio": "audio/fr-de/wendungen/sp_09.mp3",
    "satz": {
     "fr": "Tenir la position du cavalier pendant deux minutes : simple. Pas facile.",
@@ -3210,7 +3210,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Atmung",
    "register": "tu",
    "anker": "commencer",
-   "notiz": null,
+   "notiz": "la respiration = Atmung (respirer = atmen); tout commence par = alles beginnt mit (commencer par, nicht avec). en classe = im Unterricht.",
    "audio": "audio/fr-de/wendungen/sp_10.mp3",
    "satz": {
     "fr": "En kung-fu, tout commence par la respiration. En classe aussi.",
@@ -3227,7 +3227,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Meister",
    "register": "tu",
    "anker": "dire",
-   "notiz": null,
+   "notiz": "le maître = Meister, Lehrmeister (auch Grundschullehrer: le maître, la maîtresse); vite = schnell (Adverb), lentement = langsam.",
    "audio": "audio/fr-de/wendungen/sp_11.mp3",
    "satz": {
     "fr": "Mon maître dit : « Lentement, c'est vite. » Je n'ai pas encore compris.",
@@ -3244,7 +3244,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Abfolge (Form, Kombination)",
    "register": "tu",
    "anker": "apprendre",
-   "notiz": null,
+   "notiz": "un enchaînement = Abfolge, Verkettung (une chaîne = Kette; enchaîner = verketten) – im Kung-Fu die Form. j'en connais quatre = ich kenne vier davon (en).",
    "audio": "audio/fr-de/wendungen/sp_12.mp3",
    "satz": {
     "fr": "J'apprends un nouvel enchaînement. Douze mouvements. J'en connais quatre.",
@@ -3270,7 +3270,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ausweichen",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "esquiver = ausweichen (eine esquive = Ausweichbewegung); bloquer = blocken; ça marche = das funktioniert, klappt. en réunion = in der Sitzung.",
    "audio": "audio/fr-de/wendungen/sp_13.mp3",
    "satz": {
     "fr": "Esquiver, c'est mieux que bloquer. Ça marche aussi en réunion.",
@@ -3287,7 +3287,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schwitzen",
    "register": "tu",
    "anker": "transpirer",
-   "notiz": null,
+   "notiz": "transpirer = schwitzen (la transpiration); auch suer (la sueur = Schweiß), umgangssprachlicher. comme une fontaine = wie ein Brunnen.",
    "audio": "audio/fr-de/wendungen/sp_14.mp3",
    "satz": {
     "fr": "Après l'entraînement, je transpire comme une fontaine. Une fontaine heureuse.",
@@ -3313,7 +3313,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich verletzen",
    "register": "tu",
    "anker": "se blesser",
-   "notiz": null,
+   "notiz": "se blesser = sich verletzen (une blessure = Verletzung, Wunde); blessé = verletzt. sauf = außer; en ouvrant = Gérondif (beim Öffnen).",
    "audio": "audio/fr-de/wendungen/sp_15.mp3",
    "satz": {
     "fr": "Je ne me blesse jamais. Sauf en ouvrant une boîte de pâtée.",
@@ -3339,7 +3339,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich dehnen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "un étirement = Dehnung (étirer = dehnen, strecken; s'étirer = sich strecken); faire des étirements = Dehnübungen machen. perplexe = ratlos.",
    "audio": "audio/fr-de/wendungen/sp_16.mp3",
    "satz": {
     "fr": "Je fais des étirements le soir, devant la télé. Le chat me regarde, perplexe.",
@@ -3365,7 +3365,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "wieder zu Atem kommen",
    "register": "tu",
    "anker": "reprendre",
-   "notiz": null,
+   "notiz": "le souffle = Atem, Hauch (souffler = blasen, atmen); reprendre son souffle = wieder zu Atem kommen; être à bout de souffle = außer Atem.",
    "audio": "audio/fr-de/wendungen/sp_17.mp3",
    "satz": {
     "fr": "Entre deux séries, je reprends mon souffle. Longtemps.",
@@ -3391,7 +3391,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Gleichgewicht haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "l'équilibre (männlich) = Gleichgewicht; avoir de l'équilibre (Teilungsartikel); perdre l'équilibre. ça dépend du jour = das hängt vom Tag ab.",
    "audio": "audio/fr-de/wendungen/sp_18.mp3",
    "satz": {
     "fr": "Sur une jambe, j'ai de l'équilibre. Sur deux, ça dépend du jour.",
@@ -3408,7 +3408,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "laufen gehen",
    "register": "tu",
    "anker": "aller",
-   "notiz": null,
+   "notiz": "aller + Infinitiv = gehen, um zu: aller courir, aller nager, aller manger. regretter = bereuen, bedauern. le dimanche matin = sonntagmorgens.",
    "audio": "audio/fr-de/wendungen/sp_19.mp3",
    "satz": {
     "fr": "Le dimanche matin, je vais courir. Le dimanche soir, je regrette.",
@@ -3434,7 +3434,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Gürtel",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "la ceinture = Gürtel (auch Sicherheitsgurt); Sprichwort-Umbau von « l'habit ne fait pas le moine » (die Kutte macht nicht den Mönch). tenir = halten.",
    "audio": "audio/fr-de/wendungen/sp_20.mp3",
    "satz": {
     "fr": "La ceinture ne fait pas le maître. Mais elle tient le pantalon.",
@@ -3451,7 +3451,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Fortschritte machen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „Fortschritte machen“ (le progrès, Plural des progrès); faire des progrès en français. comme dit mon maître = wie mein Meister sagt.",
    "audio": "audio/fr-de/wendungen/sp_21.mp3",
    "satz": {
     "fr": "Je fais des progrès. Lentement. Comme dit mon maître, c'est vite.",
@@ -3477,7 +3477,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "über sich hinauswachsen",
    "register": "tu",
    "anker": "se dépasser",
-   "notiz": null,
+   "notiz": "wörtlich „sich überholen“ (dépasser = überholen, überschreiten) = über sich hinauswachsen; passé composé reflexiv: je me suis dépassé. une pompe = Liegestütz.",
    "audio": "audio/fr-de/wendungen/sp_22.mp3",
    "satz": {
     "fr": "Aujourd'hui, je me suis dépassé : trente pompes. Hier, vingt-neuf.",
@@ -3494,7 +3494,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Körper und Geist",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "le corps = Körper (stummes -ps: [kɔʀ]); l'esprit = Geist, Verstand; le mien = meiner (Possessivpronomen). discuter avec = diskutieren mit.",
    "audio": "audio/fr-de/wendungen/sp_23.mp3",
    "satz": {
     "fr": "Le kung-fu, c'est le corps et l'esprit. Le mien discute souvent avec mon corps.",
@@ -3511,7 +3511,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Kann ich mich anmelden? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
-   "notiz": null,
+   "notiz": "s'inscrire à = sich anmelden für, einschreiben (une inscription); est-ce que je peux = kann ich (Frage mit est-ce que). le mardi soir = dienstagabends.",
    "audio": "audio/fr-de/wendungen/sp_24.mp3",
    "satz": {
     "fr": "Bonjour, est-ce que je peux m'inscrire au cours du mardi soir ?",
@@ -3528,7 +3528,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ausgewogen essen",
    "register": "tu",
    "anker": "manger",
-   "notiz": null,
+   "notiz": "équilibré = ausgewogen (l'équilibre = Gleichgewicht); manger équilibré (Adjektiv als Adverb). ne compte pas = zählt nicht (compter).",
    "audio": "audio/fr-de/wendungen/ma_01.mp3",
    "satz": {
     "fr": "J'essaie de manger équilibré. Le croissant du matin ne compte pas.",
@@ -3554,7 +3554,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "früh ins Bett gehen",
    "register": "tu",
    "anker": "se coucher",
-   "notiz": null,
+   "notiz": "se coucher = sich hinlegen, ins Bett gehen (coucher = legen); tôt = früh, tard = spät. le reste de la semaine = den Rest der Woche. j'essaie = essayer.",
    "audio": "audio/fr-de/wendungen/ma_02.mp3",
    "satz": {
     "fr": "Je me couche tôt le dimanche. Le reste de la semaine, j'essaie.",
@@ -3580,7 +3580,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "auf sich achten",
    "register": "tu",
    "anker": "prendre",
-   "notiz": null,
+   "notiz": "prendre soin de = sich kümmern um, pflegen (le soin = Sorgfalt, Pflege); prendre soin de soi/de toi: prends soin de toi = pass auf dich auf.",
    "audio": "audio/fr-de/wendungen/ma_03.mp3",
    "satz": {
     "fr": "Prendre soin de soi, c'est aussi dire non. Même à un éclair.",
@@ -3597,7 +3597,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "einkaufen gehen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "faire les courses = Lebensmittel einkaufen (une course = Besorgung, auch Rennen); faire du shopping / des achats = Kleidung einkaufen. une liste = Liste.",
    "audio": "audio/fr-de/wendungen/ma_04.mp3",
    "satz": {
     "fr": "Je fais les courses le samedi, avec une liste. Je rentre avec autre chose.",
@@ -3623,7 +3623,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "kochen",
    "register": "tu",
    "anker": "cuisiner",
-   "notiz": null,
+   "notiz": "cuisiner = kochen (Essen zubereiten); la cuisine = Küche und Kochkunst; cuire = garen, backen. en écoutant = beim Hören (Gérondif). superviser = überwachen.",
    "audio": "audio/fr-de/wendungen/ma_05.mp3",
    "satz": {
     "fr": "Le soir, je cuisine en écoutant de la musique. Le chat supervise.",
@@ -3649,7 +3649,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Gericht",
    "register": "tu",
    "anker": "préparer",
-   "notiz": null,
+   "notiz": "un plat = Gericht und Platte, Schüssel; le plat du jour = Tagesgericht; le plat principal = Hauptgericht. celui que = derjenige, den. quelqu'un d'autre = jemand anderes.",
    "audio": "audio/fr-de/wendungen/ma_06.mp3",
    "satz": {
     "fr": "Mon plat préféré ? Celui que quelqu'un d'autre a préparé.",
@@ -3666,7 +3666,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein bisschen Hunger haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „ein kleines Loch haben“ (un creux = Hohlraum, Vertiefung; creux = hohl) – der kleine Hunger. Auch: avoir une petite faim.",
    "audio": "audio/fr-de/wendungen/ma_07.mp3",
    "satz": {
     "fr": "À seize heures, j'ai un petit creux. À seize heures cinq aussi.",
@@ -3692,7 +3692,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es sich schmecken lassen",
    "register": "tu",
    "anker": "se régaler",
-   "notiz": null,
+   "notiz": "se régaler = schlemmen, es sich schmecken lassen (un régal = Hochgenuss); je me régale ! = köstlich! chez Aurélien = bei Aurélien. envoyer = schicken.",
    "audio": "audio/fr-de/wendungen/ma_08.mp3",
    "satz": {
     "fr": "Chez Aurélien, on se régale. Sa mère lui envoie des recettes.",
@@ -3718,7 +3718,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "guten Appetit!",
    "register": "tu",
    "anker": "manger",
-   "notiz": null,
+   "notiz": "l'appétit (männlich) = Appetit; bon appétit ! vor dem Essen – in Frankreich üblich, in vornehmen Kreisen verpönt. toi aussi = du auch (betontes Pronomen).",
    "audio": "audio/fr-de/wendungen/ma_09.mp3",
    "satz": {
     "fr": "« Bon appétit ! » – « Merci, toi aussi. » – « Moi, je ne mange pas. » – « Ah. »",
@@ -3735,7 +3735,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Bäckerei",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "une boulangerie = Bäckerei (le boulanger = Bäcker); la pâtisserie = Konditorei; à côté de = neben. un bon problème = ein gutes Problem.",
    "audio": "audio/fr-de/wendungen/ma_10.mp3",
    "satz": {
     "fr": "Il y a une boulangerie à côté de l'école. C'est un problème. Un bon problème.",
@@ -3752,7 +3752,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Wasser trinken",
    "register": "tu",
    "anker": "boire",
-   "notiz": null,
+   "notiz": "boire = trinken (unregelmäßig: je bois, nous buvons, j'ai bu); de l'eau = Wasser (Teilungsartikel, l'eau weiblich). toute la journée = den ganzen Tag.",
    "audio": "audio/fr-de/wendungen/ma_11.mp3",
    "satz": {
     "fr": "Je bois de l'eau toute la journée. Et un café. Ou deux. L'eau, c'est entre.",
@@ -3778,7 +3778,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "naschen, knabbern",
    "register": "tu",
    "anker": "grignoter",
-   "notiz": null,
+   "notiz": "grignoter = knabbern, naschen (lautmalerisch, kleine Bissen); devant les copies = vor den Arbeiten. un carré de chocolat = ein Stückchen Schokolade.",
    "audio": "audio/fr-de/wendungen/ma_12.mp3",
    "satz": {
     "fr": "Je grignote devant les copies. Chaque faute, un carré de chocolat.",
@@ -3804,7 +3804,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich wohl in seiner Haut fühlen",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "wörtlich „gut in seiner Haut sein“ – sich wohlfühlen, mit sich im Reinen sein; Gegenteil: être mal dans sa peau. Possessiv passt sich an: dans ma peau.",
    "audio": "audio/fr-de/wendungen/ma_13.mp3",
    "satz": {
     "fr": "Après le sport, je suis bien dans ma peau. Avant, aussi, mais moins.",
@@ -3821,7 +3821,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Pause machen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "faire une pause = Pause machen; toutes les heures = jede Stunde (tous/toutes les + Plural); durer = dauern (nicht „dürfen“); parfois = manchmal.",
    "audio": "audio/fr-de/wendungen/ma_14.mp3",
    "satz": {
     "fr": "Je fais une pause toutes les heures. Parfois, la pause dure une heure.",
@@ -3847,7 +3847,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "wie ein Baby schlafen",
    "register": "tu",
    "anker": "dormir",
-   "notiz": null,
+   "notiz": "wörtlich „schlafen wie ein Baby“; auch: dormir comme une marmotte (Murmeltier), comme un loir (Siebenschläfer). ronfler = schnarchen.",
    "audio": "audio/fr-de/wendungen/ma_15.mp3",
    "satz": {
     "fr": "Après le kung-fu, je dors comme un bébé. Un bébé qui ronfle.",
@@ -3873,7 +3873,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "fit und munter sein",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "wörtlich „den Pfirsich haben“ (la pêche = Pfirsich und Angeln) = fit und munter sein, gute Laune haben. Auch: avoir la patate (die Kartoffel haben).",
    "audio": "audio/fr-de/wendungen/ma_16.mp3",
    "satz": {
     "fr": "Ce matin, j'ai la pêche ! C'est suspect. Il est six heures.",
@@ -3890,7 +3890,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "frische Luft schnappen",
    "register": "tu",
    "anker": "prendre",
-   "notiz": null,
+   "notiz": "wörtlich „die Luft nehmen“ = frische Luft schnappen; prendre l'air. sans + Nomen ohne Artikel: sans téléphone. enfin, presque = na ja, fast.",
    "audio": "audio/fr-de/wendungen/ma_17.mp3",
    "satz": {
     "fr": "À midi, je prends l'air dix minutes. Sans téléphone. Enfin, presque.",
@@ -3916,7 +3916,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Rezept",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "une recette = Rezept (Koch-) und Einnahme; Arztrezept = une ordonnance! tenir qc de qn = etwas von jemandem haben. une quiche = Lothringer Spezialität.",
    "audio": "audio/fr-de/wendungen/ma_18.mp3",
    "satz": {
     "fr": "J'ai une recette de quiche. Elle vient d'Aurélien, qui la tient de sa mère.",
@@ -3933,7 +3933,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "probieren, kosten",
    "register": "tu",
    "anker": "goûter",
-   "notiz": null,
+   "notiz": "goûter = kosten, probieren (le goût = Geschmack); auch das Nomen le goûter = Nachmittagssnack. Imperativ goûte; vraiment = wirklich; ensuite = danach.",
    "audio": "audio/fr-de/wendungen/ma_19.mp3",
    "satz": {
     "fr": "Goûte ça. Non, vraiment, goûte. Ensuite, tu peux dire que tu n'aimes pas.",
@@ -3959,7 +3959,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das ist köstlich",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "délicieux / délicieuse = köstlich; c'est délicieux (Essen immer mit c'est, nicht il est). il vaut mieux + Infinitiv = es ist besser zu.",
    "audio": "audio/fr-de/wendungen/ma_20.mp3",
    "satz": {
     "fr": "C'est délicieux ! Qu'est-ce que c'est ? – Il vaut mieux ne pas savoir.",
@@ -3976,7 +3976,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Durst haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "avoir soif = Durst haben (la soif, wie avoir faim); avoir soif de = dürsten nach (bildlich). le cours de sport = Sportunterricht.",
    "audio": "audio/fr-de/wendungen/ma_21.mp3",
    "satz": {
     "fr": "Après le cours de sport, les élèves ont soif. Moi, j'ai soif de silence.",
@@ -4002,7 +4002,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "mit dem richtigen Fuß aufstehen",
    "register": "tu",
    "anker": "se lever",
-   "notiz": null,
+   "notiz": "wörtlich „mit dem guten Fuß aufstehen“ = gut gelaunt aufstehen; Gegenteil: se lever du pied gauche (mit dem linken Fuß). comme d'habitude = wie immer.",
    "audio": "audio/fr-de/wendungen/ma_22.mp3",
    "satz": {
     "fr": "Aujourd'hui, je me suis levé du bon pied. Le gauche. Comme d'habitude.",
@@ -4019,7 +4019,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein kleines Vergnügen",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "un plaisir = Vergnügen, Freude (plaire = gefallen); avec plaisir = gerne; se faire plaisir = sich etwas gönnen. une tarte = Kuchen (flach, mit Obst).",
    "audio": "audio/fr-de/wendungen/ma_23.mp3",
    "satz": {
     "fr": "Un petit plaisir par jour. Aujourd'hui : une tarte. Demain : une autre tarte.",
@@ -4036,7 +4036,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Ich hätte gern ein Baguette, bitte. (höflich)",
    "register": "vous",
    "anker": "vouloir",
-   "notiz": null,
+   "notiz": "je voudrais = Konditional von vouloir, die höfliche Bestellform („ich hätte gern“); je veux wäre unhöflich. pas trop cuite = nicht zu dunkel gebacken (cuit = gegart).",
    "audio": "audio/fr-de/wendungen/ma_24.mp3",
    "satz": {
     "fr": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
@@ -4053,7 +4053,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "durchschlafen (Baby)",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „seine Nächte machen“ = durchschlafen (nur bei Babys); faire ses nuits. elle, pas encore = sie noch nicht (betontes Pronomen elle).",
    "audio": "audio/fr-de/wendungen/en_01.mp3",
    "satz": {
     "fr": "Le bébé de ma collègue fait ses nuits. Elle, pas encore.",
@@ -4079,7 +4079,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Kuscheltier, Schmusetuch",
    "register": "tu",
    "anker": "dormir",
-   "notiz": null,
+   "notiz": "un doudou = Schmusetuch, Kuscheltier (Kindersprache, von doux = weich, sanft; Verdopplung wie dodo = Heia). surtout = vor allem.",
    "audio": "audio/fr-de/wendungen/en_02.mp3",
    "satz": {
     "fr": "Sans son doudou, impossible de dormir. Je parle du bébé. Enfin, surtout.",
@@ -4096,7 +4096,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Unsinn anstellen",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "siehe Les chats: une bêtise = Dummheit; c'est leur métier = das ist ihr Beruf; le mien = meiner. sourire = lächeln (und das Lächeln).",
    "audio": "audio/fr-de/wendungen/en_03.mp3",
    "satz": {
     "fr": "Les enfants font des bêtises. C'est leur métier. Le mien, c'est de sourire.",
@@ -4122,7 +4122,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "in den Arm nehmen",
    "register": "tu",
    "anker": "prendre",
-   "notiz": null,
+   "notiz": "wörtlich „in seine Arme nehmen“ = in den Arm nehmen; prendre qn dans ses bras. on le prend = man nimmt es (le vor dem Verb). la règle = die Regel.",
    "audio": "audio/fr-de/wendungen/en_04.mp3",
    "satz": {
     "fr": "Quand un enfant pleure, on le prend dans ses bras. C'est la seule règle.",
@@ -4148,7 +4148,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Baby",
    "register": "tu",
    "anker": "dire",
-   "notiz": null,
+   "notiz": "un bébé, auch für Mädchen; ça ne parle pas = Umgangssprache: ça statt il für etwas Allgemeines (un bébé, ça pleure). tout = alles.",
    "audio": "audio/fr-de/wendungen/en_05.mp3",
    "satz": {
     "fr": "Un bébé, ça ne parle pas, mais ça dit tout.",
@@ -4165,7 +4165,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "lächeln (jemanden anlächeln)",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "wörtlich „ein Lächeln machen“; faire un sourire à qn = jemanden anlächeln; sourire = lächeln. gagné = gewonnen (gagner); ma journée = mein Tag.",
    "audio": "audio/fr-de/wendungen/en_06.mp3",
    "satz": {
     "fr": "Le bébé m'a fait un sourire. Ma journée était gagnée.",
@@ -4191,7 +4191,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "wachsen, groß werden",
    "register": "tu",
    "anker": "grandir",
-   "notiz": null,
+   "notiz": "grandir = wachsen, groß werden (grand = groß); trop vite = zu schnell. elles, restent = betontes Pronomen zur Hervorhebung (les copies, elles …).",
    "audio": "audio/fr-de/wendungen/en_07.mp3",
    "satz": {
     "fr": "Les enfants grandissent trop vite. Les copies, elles, restent.",
@@ -4217,7 +4217,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schlecht einschlafen",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "avoir du mal à + Infinitiv (siehe Entre profs); s'endormir = einschlafen (dormir = schlafen). ça marche = es klappt; moins fort = weniger laut.",
    "audio": "audio/fr-de/wendungen/en_08.mp3",
    "satz": {
     "fr": "Le petit a du mal à s'endormir. Alors je chante. Ça marche. Il pleure moins fort.",
@@ -4243,7 +4243,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Windel",
    "register": "tu",
    "anker": "changer",
-   "notiz": null,
+   "notiz": "une couche = Windel (und Schicht); changer une couche = wickeln; un enchaînement = Form, Abfolge (siehe Sport). un vrai = ein echter.",
    "audio": "audio/fr-de/wendungen/en_09.mp3",
    "satz": {
     "fr": "Changer une couche en trois minutes : ça, c'est un vrai enchaînement de kung-fu.",
@@ -4260,7 +4260,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "brav sein",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "sage = brav, artig (Kinder) und weise (Erwachsene); sois sage ! = sei brav (Imperativ von être). le lave-linge = Waschmaschine. pourquoi … est-il = Inversion.",
    "audio": "audio/fr-de/wendungen/en_10.mp3",
    "satz": {
     "fr": "« Sois sage ! » – « Je suis sage. » – « Alors pourquoi le chat est-il dans le lave-linge ? »",
@@ -4277,7 +4277,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Verstecken spielen",
    "register": "tu",
    "anker": "jouer",
-   "notiz": null,
+   "notiz": "jouer à cache-cache = Verstecken spielen (cacher = verstecken; jouer à + Spiel); le rideau = Vorhang; dehors = draußen.",
    "audio": "audio/fr-de/wendungen/en_11.mp3",
    "satz": {
     "fr": "On joue à cache-cache. Il se cache toujours derrière le rideau. Avec ses pieds dehors.",
@@ -4303,7 +4303,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Gute-Nacht-Geschichte erzählen",
    "register": "tu",
    "anker": "raconter",
-   "notiz": null,
+   "notiz": "pour s'endormir = zum Einschlafen; au bout de = nach (Zeit): au bout de trois pages. Pointe: je dors = ich schlafe (nicht das Kind).",
    "audio": "audio/fr-de/wendungen/en_12.mp3",
    "satz": {
     "fr": "Je raconte une histoire pour s'endormir. Au bout de trois pages, je dors.",
@@ -4329,7 +4329,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "weinen",
    "register": "tu",
    "anker": "pleurer",
-   "notiz": null,
+   "notiz": "pleurer = weinen (nicht „plärren“); rire = lachen (unregelmäßig: il rit, nous rions); puis = dann; un concert = Konzert.",
    "audio": "audio/fr-de/wendungen/en_13.mp3",
    "satz": {
     "fr": "Le bébé pleure. Puis il rit. Puis il pleure. C'est un concert.",
@@ -4355,7 +4355,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Umarmung, ein Kuscheln",
    "register": "tu",
    "anker": "commencer",
-   "notiz": null,
+   "notiz": "un câlin = Kuscheln, Umarmung (siehe Les chats); faire un câlin. avant l'école = vor der Schule; pour les deux = für beide.",
    "audio": "audio/fr-de/wendungen/en_14.mp3",
    "satz": {
     "fr": "Un câlin avant l'école, et la journée commence bien. Pour les deux.",
@@ -4372,7 +4372,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "laufen lernen",
    "register": "tu",
    "anker": "apprendre",
-   "notiz": null,
+   "notiz": "apprendre à + Infinitiv = lernen zu; marcher = gehen, laufen (zu Fuß) – courir = rennen. un pas = Schritt; une chute = Sturz; un rire = ein Lachen.",
    "audio": "audio/fr-de/wendungen/en_15.mp3",
    "satz": {
     "fr": "Elle apprend à marcher. Trois pas, une chute, un rire. C'est la vie en miniature.",
@@ -4398,7 +4398,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "stolz sein auf",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "fier / fière = stolz; être fier de + Nomen/Infinitiv (nicht „auf“!); la fierté = der Stolz. surtout quand = vor allem wenn.",
    "audio": "audio/fr-de/wendungen/en_16.mp3",
    "satz": {
     "fr": "Je suis fier de mes élèves. Surtout quand ils ne le savent pas.",
@@ -4415,7 +4415,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die ersten Wörter",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "les premiers mots = die ersten Wörter (un mot = Wort; le premier mot); dans cet ordre = in dieser Reihenfolge (cet vor Vokal).",
    "audio": "audio/fr-de/wendungen/en_17.mp3",
    "satz": {
     "fr": "Ses premiers mots : « papa », « chat », « non ». Dans cet ordre.",
@@ -4432,7 +4432,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Geduld haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "avoir de la patience (Teilungsartikel); il faut = man muss; j'en ai = ich habe welche (en = davon). finir = enden, aufhören.",
    "audio": "audio/fr-de/wendungen/en_18.mp3",
    "satz": {
     "fr": "Avec les enfants, il faut avoir de la patience. J'en ai. Elle finit à dix-sept heures.",
@@ -4458,7 +4458,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Nachmittagssnack",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "le goûter = Nachmittagssnack (16 Uhr, nach der Schule; von goûter = kosten); feste Einrichtung in Frankreich. par solidarité = aus Solidarität.",
    "audio": "audio/fr-de/wendungen/en_19.mp3",
    "satz": {
     "fr": "À seize heures, c'est le goûter. Pour les enfants. Et pour moi, par solidarité.",
@@ -4475,7 +4475,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schallend lachen",
    "register": "tu",
    "anker": "rire",
-   "notiz": null,
+   "notiz": "wörtlich „in Splittern lachen“ (un éclat = Splitter, Blitz; un éclat de rire = Lachanfall) = schallend lachen. éternuer = niesen. d'ailleurs = übrigens.",
    "audio": "audio/fr-de/wendungen/en_20.mp3",
    "satz": {
     "fr": "Le bébé rit aux éclats quand le chat éternue. Moi aussi, d'ailleurs.",
@@ -4501,7 +4501,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Mittagsschlaf halten",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "faire la sieste (siehe Les chats); les petits / les grands = die Kleinen / die Großen (Adjektiv als Nomen). en secret = heimlich.",
    "audio": "audio/fr-de/wendungen/en_21.mp3",
    "satz": {
     "fr": "Les petits font la sieste. Les grands aussi, en secret.",
@@ -4527,7 +4527,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Angst im Dunkeln haben",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "avoir peur de + le noir → du noir (de + le = du); le noir = die Dunkelheit. alors = also; laisser ouvert = offen lassen; de garde = im Dienst, auf Wache.",
    "audio": "audio/fr-de/wendungen/en_22.mp3",
    "satz": {
     "fr": "Il a peur du noir. Alors on laisse la porte ouverte. Et le chat de garde.",
@@ -4544,7 +4544,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es ist Badezeit",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "c'est l'heure de + Nomen = es ist Zeit für: c'est l'heure du bain, du goûter, de dormir. mouillé = nass; se baigner = baden; même ceux qui = sogar die, die.",
    "audio": "audio/fr-de/wendungen/en_23.mp3",
    "satz": {
     "fr": "C'est l'heure du bain ! Tout le monde est mouillé. Même ceux qui ne se baignent pas.",
@@ -4561,7 +4561,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Wie alt ist Ihr Kind? (höflich)",
    "register": "vous",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "Alter mit avoir: il a deux ans; quel âge a … ? = Inversion. votre enfant = Ihr Kind (höflich). quatorze mois = 14 Monate; une dent = Zahn.",
    "audio": "audio/fr-de/wendungen/en_24.mp3",
    "satz": {
     "fr": "Il est adorable. Quel âge a votre enfant ? – Quatorze mois. Et quatre dents.",
@@ -4578,7 +4578,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "zurzeit, derzeit (≠ actually = en fait)",
    "register": "tu",
    "anker": "corriger",
-   "notiz": null,
+   "notiz": "actuellement = zurzeit (actuel = gegenwärtig); engl. actually = en fait. Spanisch dasselbe: actualmente.",
    "audio": "audio/fr-de/wendungen/fa_01.mp3",
    "satz": {
     "fr": "Actuellement, je corrige des copies. En fait, je regarde le chat.",
@@ -4595,7 +4595,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Buchhandlung (≠ library = une bibliothèque)",
    "register": "tu",
    "anker": "acheter",
-   "notiz": null,
+   "notiz": "une librairie = Buchhandlung (le libraire = Buchhändler); engl. library = la bibliothèque. emprunter = ausleihen; rendre = zurückgeben.",
    "audio": "audio/fr-de/wendungen/fa_02.mp3",
    "satz": {
     "fr": "À la librairie, on achète. À la bibliothèque, on emprunte. Et on rend. En théorie.",
@@ -4612,7 +4612,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "beiwohnen, teilnehmen an (≠ to assist = aider)",
    "register": "tu",
    "anker": "assister",
-   "notiz": null,
+   "notiz": "assister à = beiwohnen, teilnehmen an (immer mit à); engl. to assist = aider. Spanisch gleich: asistir a. je suis juste là = ich bin nur da.",
    "audio": "audio/fr-de/wendungen/fa_03.mp3",
    "satz": {
     "fr": "J'assiste à une réunion. Je n'aide personne. Je suis juste là.",
@@ -4638,7 +4638,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "warten (≠ to attend = assister à)",
    "register": "tu",
    "anker": "attendre",
-   "notiz": null,
+   "notiz": "attendre = warten (auf) – ohne Präposition: j'attends le bus; engl. to attend = assister à. injuste = ungerecht.",
    "audio": "audio/fr-de/wendungen/fa_04.mp3",
    "satz": {
     "fr": "J'attends le bus. Le bus ne m'attend pas. C'est injuste.",
@@ -4664,7 +4664,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "verletzen (≠ to bless = bénir)",
    "register": "tu",
    "anker": "blesser",
-   "notiz": null,
+   "notiz": "blesser = verletzen (une blessure = Wunde); engl. to bless = bénir. gentil = nett, lieb. le sait bien = weiß es gut.",
    "audio": "audio/fr-de/wendungen/fa_05.mp3",
    "satz": {
     "fr": "Attention : « blesser » n'est pas gentil. Mon chat le sait bien.",
@@ -4690,7 +4690,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "fragen, bitten (≠ to demand = exiger)",
    "register": "tu",
    "anker": "demander",
-   "notiz": null,
+   "notiz": "demander = fragen, bitten um (demander qc à qn); engl. to demand = exiger (fordern). la nuance = feiner Unterschied.",
    "audio": "audio/fr-de/wendungen/fa_06.mp3",
    "satz": {
     "fr": "Je demande le silence. Je ne l'exige pas. Nuance de prof.",
@@ -4716,7 +4716,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "bleiben (≠ to rest = se reposer)",
    "register": "tu",
    "anker": "rester",
-   "notiz": null,
+   "notiz": "rester = bleiben; engl. to rest = se reposer (sich ausruhen). à la maison = zu Hause; des copies = Arbeiten (zu korrigieren).",
    "audio": "audio/fr-de/wendungen/fa_07.mp3",
    "satz": {
     "fr": "Je reste à la maison. Je ne me repose pas : j'ai des copies.",
@@ -4742,7 +4742,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "empfindlich, sensibel (≠ sensible = raisonnable)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "sensible = empfindlich, empfindsam; engl. sensible = raisonnable (vernünftig). Spanisch gleich: sensible/sensato.",
    "audio": "audio/fr-de/wendungen/fa_08.mp3",
    "satz": {
     "fr": "Mon chat est sensible. Pas raisonnable. Sensible.",
@@ -4759,7 +4759,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "möglicherweise (≠ eventually = finalement)",
    "register": "tu",
    "anker": "venir",
-   "notiz": null,
+   "notiz": "éventuellement = möglicherweise, gegebenenfalls; engl. eventually = finalement, à la fin. je viendrai = Futur von venir. pareil = gleich.",
    "audio": "audio/fr-de/wendungen/fa_09.mp3",
    "satz": {
     "fr": "Éventuellement, je viendrai. Finalement, je suis venu. Ce n'est pas pareil.",
@@ -4776,7 +4776,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Ecke (≠ coin = une pièce de monnaie)",
    "register": "tu",
    "anker": "dormir",
-   "notiz": null,
+   "notiz": "un coin = Ecke, Winkel (au coin de la rue = an der Straßenecke); engl. coin = une pièce (de monnaie). dans un coin = in einer Ecke.",
    "audio": "audio/fr-de/wendungen/fa_10.mp3",
    "satz": {
     "fr": "Le chat dort dans un coin. Pas sur une pièce. Dans un coin.",
@@ -4793,7 +4793,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Tag (Verlauf) (≠ journey = un voyage)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "une journée = Tag als Verlauf (bonne journée ! = schönen Tag!), un jour = Tag als Datum; engl. journey = un voyage. Ebenso soirée/soir, matinée/matin.",
    "audio": "audio/fr-de/wendungen/fa_11.mp3",
    "satz": {
     "fr": "Bonne journée ! Ce n'est pas un voyage. Juste un jour. Mais un bon.",
@@ -4810,7 +4810,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Kondom (≠ preservative = un conservateur)",
    "register": "tu",
    "anker": "dire",
-   "notiz": null,
+   "notiz": "un préservatif = Kondom; engl. preservative = un conservateur (Konservierungsstoff). Dieselbe Falle wie auf Spanisch (preservativo). la confiture = Marmelade.",
    "audio": "audio/fr-de/wendungen/fa_12.mp3",
    "satz": {
     "fr": "« Sans préservatifs » sur une confiture ? Non. On dit « sans conservateurs ».",
@@ -4827,7 +4827,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Arm (≠ bra = un soutien-gorge)",
    "register": "tu",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "un bras = Arm (stummes s: [bʀa]); engl. bra = un soutien-gorge. cassé = gebrochen (casser = brechen). faites attention à = achten Sie auf.",
    "audio": "audio/fr-de/wendungen/fa_13.mp3",
    "satz": {
     "fr": "Il a un bras cassé. Un bras. Faites attention au mot anglais.",
@@ -4844,7 +4844,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Wechselgeld, Kleingeld (≠ money = l'argent)",
    "register": "vous",
    "anker": "avoir",
-   "notiz": null,
+   "notiz": "la monnaie = Wechselgeld, Kleingeld, Währung (vous avez la monnaie ? = haben Sie es passend?); engl. money = l'argent (auch Silber).",
    "audio": "audio/fr-de/wendungen/fa_14.mp3",
    "satz": {
     "fr": "Vous avez la monnaie ? – Non, j'ai de l'argent, mais pas de monnaie.",
@@ -4861,7 +4861,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Enttäuschung (≠ deception = une tromperie)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "une déception = Enttäuschung (décevoir = enttäuschen, déçu = enttäuscht); engl. deception = une tromperie (tromper = täuschen). la note = Note.",
    "audio": "audio/fr-de/wendungen/fa_15.mp3",
    "satz": {
     "fr": "La note ? Une déception. Pas une tromperie. Juste une déception.",
@@ -4878,7 +4878,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Kleidungsstück (≠ habit = une habitude)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "un habit = Kleidungsstück (meist Plural: les habits = Kleider); engl. habit = une habitude. un jogging = Jogginganzug. Sprichwort: l'habit ne fait pas le moine.",
    "audio": "audio/fr-de/wendungen/fa_16.mp3",
    "satz": {
     "fr": "Mes habits du dimanche : un jogging. C'est aussi une habitude.",
@@ -4895,7 +4895,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "nicht wissen (≠ to ignore = ne pas tenir compte de)",
    "register": "tu",
    "anker": "ignorer",
-   "notiz": null,
+   "notiz": "ignorer = nicht wissen (j'ignore la réponse = ich kenne die Antwort nicht); engl. to ignore = ne pas tenir compte de, ignorer (neuer, umgangssprachlich).",
    "audio": "audio/fr-de/wendungen/fa_17.mp3",
    "satz": {
     "fr": "J'ignore la réponse. Je ne l'ignore pas : je ne la connais pas.",
@@ -4921,7 +4921,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Praktikum (≠ stage = une scène)",
    "register": "tu",
    "anker": "faire",
-   "notiz": null,
+   "notiz": "un stage = Praktikum, Lehrgang (un stagiaire = Praktikant); engl. stage = une scène (Bühne). faire un stage = ein Praktikum machen.",
    "audio": "audio/fr-de/wendungen/fa_18.mp3",
    "satz": {
     "fr": "Mon élève fait un stage. Pas sur une scène. Dans une boulangerie.",
@@ -4947,7 +4947,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Lesen, Lektüre (≠ lecture = un cours, une conférence)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "la lecture = das Lesen, Lektüre (lire = lesen; le lecteur = Leser); engl. lecture = un cours, une conférence. Spanisch gleich: lectura.",
    "audio": "audio/fr-de/wendungen/fa_19.mp3",
    "satz": {
     "fr": "Ma lecture du soir : un roman. Pas un cours. Un roman.",
@@ -4964,7 +4964,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Arzt (≠ medicine = un médicament)",
    "register": "tu",
    "anker": "donner",
-   "notiz": null,
+   "notiz": "un médecin = Arzt (auch für Ärztinnen: une femme médecin / la médecin); engl. medicine = un médicament; la médecine = die Medizin (Fach).",
    "audio": "audio/fr-de/wendungen/fa_20.mp3",
    "satz": {
     "fr": "Le médecin donne un médicament. Le médicament n'est pas le médecin.",
@@ -4981,7 +4981,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "behaupten (≠ to pretend = faire semblant)",
    "register": "tu",
    "anker": "prétendre",
-   "notiz": null,
+   "notiz": "prétendre = behaupten (prétendre + Infinitiv / que); engl. to pretend = faire semblant (de). Spanisch: pretender = vorhaben – dreimal anders!",
    "audio": "audio/fr-de/wendungen/fa_21.mp3",
    "satz": {
     "fr": "Il prétend avoir fait ses devoirs. Il fait semblant de chercher son cahier.",
@@ -5007,7 +5007,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Vermietung, Miete (≠ location = un lieu, un endroit)",
    "register": "tu",
    "anker": "louer",
-   "notiz": null,
+   "notiz": "la location = Vermietung, Miete (louer = mieten/vermieten; le loyer = Miete monatlich); engl. location = un lieu, un endroit. à louer = zu vermieten.",
    "audio": "audio/fr-de/wendungen/fa_22.mp3",
    "satz": {
     "fr": "Location de vélos. Ce n'est pas un lieu. C'est un vélo qu'on loue.",
@@ -5024,7 +5024,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Weintraube (≠ raisin = un raisin sec)",
    "register": "tu",
    "anker": "être",
-   "notiz": null,
+   "notiz": "un raisin = Weintraube (un grain de raisin = eine Beere); engl. raisin = un raisin sec (sec = trocken). frais / fraîche = frisch.",
    "audio": "audio/fr-de/wendungen/fa_23.mp3",
    "satz": {
     "fr": "Un raisin, c'est frais. Un raisin sec, c'est sec. Logique française.",
@@ -5041,7 +5041,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Entschuldigung, ich suche die Bibliothek. (höflich)",
    "register": "vous",
    "anker": "chercher",
-   "notiz": null,
+   "notiz": "excusez-moi = Entschuldigung (Anrede, Imperativ von excuser); chercher = suchen (ohne Präposition: je cherche la bibliothèque); gratuit = kostenlos.",
    "audio": "audio/fr-de/wendungen/fa_24.mp3",
    "satz": {
     "fr": "Excusez-moi, je cherche la bibliothèque. – La librairie ? – Non, la bibliothèque. Avec les livres gratuits.",
