@@ -5344,6 +5344,18 @@ window.SPRACHEN["es-de"] = {
     "ñ",
     "como « gn » en francés",
     "wie gn im Französischen (niño, España)"
+   ],
+   "s": [
+    "[s]",
+    "s",
+    "una s sorda, como « ss » alemán",
+    "stimmloses s wie deutsches ss (casa)"
+   ],
+   "l": [
+    "[l]",
+    "l",
+    "una l normal",
+    "ein normales l (polo)"
    ]
   },
   "reihe": [
@@ -5366,7 +5378,7 @@ window.SPRACHEN["es-de"] = {
    ],
    [
     "p3",
-    "¿ll o y?"
+    "¿l o ll?"
    ]
   ],
   "beide_name": "👑 Los dos",
@@ -5392,9 +5404,924 @@ window.SPRACHEN["es-de"] = {
     "Noch einfacher: beide hören"
    ]
   },
-  "klaenge": {},
-  "paare": [],
-  "beide": []
+  "klaenge": {
+   "rr": [
+    {
+     "id": "rr_01",
+     "wort": "perro",
+     "de": "Hund",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_02",
+     "wort": "carro",
+     "de": "Karren, Wagen",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_03",
+     "wort": "arroz",
+     "de": "Reis",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_04",
+     "wort": "rojo",
+     "de": "rot",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_05",
+     "wort": "rico",
+     "de": "lecker, reich",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_06",
+     "wort": "correr",
+     "de": "rennen",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_07",
+     "wort": "guitarra",
+     "de": "Gitarre",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_08",
+     "wort": "pizarra",
+     "de": "Tafel",
+     "klang": "rr",
+     "audio": null
+    }
+   ],
+   "r": [
+    {
+     "id": "r_01",
+     "wort": "pero",
+     "de": "aber",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_02",
+     "wort": "caro",
+     "de": "teuer",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_03",
+     "wort": "hora",
+     "de": "Stunde",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_04",
+     "wort": "cara",
+     "de": "Gesicht",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_05",
+     "wort": "mirar",
+     "de": "anschauen",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_06",
+     "wort": "primero",
+     "de": "erster",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_07",
+     "wort": "tarde",
+     "de": "Nachmittag, spät",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_08",
+     "wort": "ahora",
+     "de": "jetzt",
+     "klang": "r",
+     "audio": null
+    }
+   ],
+   "b": [
+    {
+     "id": "b_01",
+     "wort": "vaca",
+     "de": "Kuh",
+     "klang": "b",
+     "audio": null
+    },
+    {
+     "id": "b_02",
+     "wort": "beber",
+     "de": "trinken",
+     "klang": "b",
+     "audio": null
+    },
+    {
+     "id": "b_03",
+     "wort": "vivir",
+     "de": "leben",
+     "klang": "b",
+     "audio": null
+    },
+    {
+     "id": "b_04",
+     "wort": "bueno",
+     "de": "gut",
+     "klang": "b",
+     "audio": null
+    },
+    {
+     "id": "b_05",
+     "wort": "viernes",
+     "de": "Freitag",
+     "klang": "b",
+     "audio": null
+    },
+    {
+     "id": "b_06",
+     "wort": "abrazo",
+     "de": "Umarmung",
+     "klang": "b",
+     "audio": null
+    },
+    {
+     "id": "b_07",
+     "wort": "bebé",
+     "de": "Baby",
+     "klang": "b",
+     "audio": null
+    },
+    {
+     "id": "b_08",
+     "wort": "volver",
+     "de": "zurückkommen",
+     "klang": "b",
+     "audio": null
+    }
+   ],
+   "j": [
+    {
+     "id": "j_01",
+     "wort": "jamón",
+     "de": "Schinken",
+     "klang": "j",
+     "audio": null
+    },
+    {
+     "id": "j_02",
+     "wort": "gente",
+     "de": "Leute",
+     "klang": "j",
+     "audio": null
+    },
+    {
+     "id": "j_03",
+     "wort": "hijo",
+     "de": "Sohn",
+     "klang": "j",
+     "audio": null
+    },
+    {
+     "id": "j_04",
+     "wort": "rojo",
+     "de": "rot",
+     "klang": "j",
+     "audio": null
+    },
+    {
+     "id": "j_05",
+     "wort": "jugar",
+     "de": "spielen",
+     "klang": "j",
+     "audio": null
+    },
+    {
+     "id": "j_06",
+     "wort": "girasol",
+     "de": "Sonnenblume",
+     "klang": "j",
+     "audio": null
+    },
+    {
+     "id": "j_07",
+     "wort": "ejemplo",
+     "de": "Beispiel",
+     "klang": "j",
+     "audio": null
+    },
+    {
+     "id": "j_08",
+     "wort": "ojalá",
+     "de": "hoffentlich",
+     "klang": "j",
+     "audio": null
+    }
+   ],
+   "ll": [
+    {
+     "id": "ll_01",
+     "wort": "llave",
+     "de": "Schlüssel",
+     "klang": "ll",
+     "audio": null
+    },
+    {
+     "id": "ll_02",
+     "wort": "calle",
+     "de": "Straße",
+     "klang": "ll",
+     "audio": null
+    },
+    {
+     "id": "ll_03",
+     "wort": "yo",
+     "de": "ich",
+     "klang": "ll",
+     "audio": null
+    },
+    {
+     "id": "ll_04",
+     "wort": "llorar",
+     "de": "weinen",
+     "klang": "ll",
+     "audio": null
+    },
+    {
+     "id": "ll_05",
+     "wort": "ayer",
+     "de": "gestern",
+     "klang": "ll",
+     "audio": null
+    },
+    {
+     "id": "ll_06",
+     "wort": "lluvia",
+     "de": "Regen",
+     "klang": "ll",
+     "audio": null
+    },
+    {
+     "id": "ll_07",
+     "wort": "mayo",
+     "de": "Mai",
+     "klang": "ll",
+     "audio": null
+    },
+    {
+     "id": "ll_08",
+     "wort": "sevillano",
+     "de": "aus Sevilla",
+     "klang": "ll",
+     "audio": null
+    }
+   ],
+   "z": [
+    {
+     "id": "z_01",
+     "wort": "zapato",
+     "de": "Schuh",
+     "klang": "z",
+     "audio": null
+    },
+    {
+     "id": "z_02",
+     "wort": "cena",
+     "de": "Abendessen",
+     "klang": "z",
+     "audio": null
+    },
+    {
+     "id": "z_03",
+     "wort": "gracias",
+     "de": "danke",
+     "klang": "z",
+     "audio": null
+    },
+    {
+     "id": "z_04",
+     "wort": "cerveza",
+     "de": "Bier",
+     "klang": "z",
+     "audio": null
+    },
+    {
+     "id": "z_05",
+     "wort": "corazón",
+     "de": "Herz",
+     "klang": "z",
+     "audio": null
+    },
+    {
+     "id": "z_06",
+     "wort": "cocina",
+     "de": "Küche",
+     "klang": "z",
+     "audio": null
+    },
+    {
+     "id": "z_07",
+     "wort": "feliz",
+     "de": "glücklich",
+     "klang": "z",
+     "audio": null
+    },
+    {
+     "id": "z_08",
+     "wort": "Zaragoza",
+     "de": "Zaragoza",
+     "klang": "z",
+     "audio": null
+    }
+   ],
+   "ñ": [
+    {
+     "id": "ñ_01",
+     "wort": "niño",
+     "de": "Kind",
+     "klang": "ñ",
+     "audio": null
+    },
+    {
+     "id": "ñ_02",
+     "wort": "España",
+     "de": "Spanien",
+     "klang": "ñ",
+     "audio": null
+    },
+    {
+     "id": "ñ_03",
+     "wort": "mañana",
+     "de": "morgen, Morgen",
+     "klang": "ñ",
+     "audio": null
+    },
+    {
+     "id": "ñ_04",
+     "wort": "año",
+     "de": "Jahr",
+     "klang": "ñ",
+     "audio": null
+    },
+    {
+     "id": "ñ_05",
+     "wort": "señor",
+     "de": "Herr",
+     "klang": "ñ",
+     "audio": null
+    },
+    {
+     "id": "ñ_06",
+     "wort": "sueño",
+     "de": "Traum, Schlaf",
+     "klang": "ñ",
+     "audio": null
+    },
+    {
+     "id": "ñ_07",
+     "wort": "enseñar",
+     "de": "unterrichten, zeigen",
+     "klang": "ñ",
+     "audio": null
+    },
+    {
+     "id": "ñ_08",
+     "wort": "pequeño",
+     "de": "klein",
+     "klang": "ñ",
+     "audio": null
+    }
+   ]
+  },
+  "paare": [
+   {
+    "id": "p1_01a",
+    "wort": "pero",
+    "de": "aber",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_01b",
+     "wort": "perro",
+     "de": "Hund",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_02a",
+    "wort": "caro",
+    "de": "teuer",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_02b",
+     "wort": "carro",
+     "de": "Karren, Wagen",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_03a",
+    "wort": "coro",
+    "de": "Chor",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_03b",
+     "wort": "corro",
+     "de": "ich renne",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_04a",
+    "wort": "cero",
+    "de": "null",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_04b",
+     "wort": "cerro",
+     "de": "Hügel",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_05a",
+    "wort": "para",
+    "de": "für",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_05b",
+     "wort": "parra",
+     "de": "Weinrebe",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_06a",
+    "wort": "moro",
+    "de": "Maure",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_06b",
+     "wort": "morro",
+     "de": "Schnauze",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_07a",
+    "wort": "ahora",
+    "de": "jetzt",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_07b",
+     "wort": "ahorra",
+     "de": "er spart",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_08a",
+    "wort": "foro",
+    "de": "Forum",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_08b",
+     "wort": "forro",
+     "de": "Futter (Stoff)",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_01a",
+    "wort": "casa",
+    "de": "Haus",
+    "klang": "s",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_01b",
+     "wort": "caza",
+     "de": "Jagd",
+     "klang": "z",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_02a",
+    "wort": "coser",
+    "de": "nähen",
+    "klang": "s",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_02b",
+     "wort": "cocer",
+     "de": "kochen (garen)",
+     "klang": "z",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_03a",
+    "wort": "sumo",
+    "de": "Sumo, höchst",
+    "klang": "s",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_03b",
+     "wort": "zumo",
+     "de": "Saft",
+     "klang": "z",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_04a",
+    "wort": "siento",
+    "de": "ich fühle",
+    "klang": "s",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_04b",
+     "wort": "ciento",
+     "de": "hundert",
+     "klang": "z",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_05a",
+    "wort": "masa",
+    "de": "Teig, Masse",
+    "klang": "s",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_05b",
+     "wort": "maza",
+     "de": "Keule",
+     "klang": "z",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_06a",
+    "wort": "sima",
+    "de": "Abgrund",
+    "klang": "s",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_06b",
+     "wort": "cima",
+     "de": "Gipfel",
+     "klang": "z",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_07a",
+    "wort": "rosa",
+    "de": "Rose, rosa",
+    "klang": "s",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_07b",
+     "wort": "roza",
+     "de": "er streift",
+     "klang": "z",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_08a",
+    "wort": "abrasar",
+    "de": "verbrennen",
+    "klang": "s",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_08b",
+     "wort": "abrazar",
+     "de": "umarmen",
+     "klang": "z",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_01a",
+    "wort": "polo",
+    "de": "Pol, Eis am Stiel",
+    "klang": "l",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_01b",
+     "wort": "pollo",
+     "de": "Hähnchen",
+     "klang": "ll",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_02a",
+    "wort": "calo",
+    "de": "ich durchnässe",
+    "klang": "l",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_02b",
+     "wort": "callo",
+     "de": "ich schweige",
+     "klang": "ll",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_03a",
+    "wort": "vale",
+    "de": "okay",
+    "klang": "l",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_03b",
+     "wort": "valle",
+     "de": "Tal",
+     "klang": "ll",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_04a",
+    "wort": "malo",
+    "de": "schlecht",
+    "klang": "l",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_04b",
+     "wort": "mallo",
+     "de": "Schlägel",
+     "klang": "ll",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_05a",
+    "wort": "pelo",
+    "de": "Haar",
+    "klang": "l",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_05b",
+     "wort": "pello",
+     "de": "ich rupfe",
+     "klang": "ll",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_06a",
+    "wort": "bola",
+    "de": "Kugel",
+    "klang": "l",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_06b",
+     "wort": "bolla",
+     "de": "Brötchen",
+     "klang": "ll",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_07a",
+    "wort": "olas",
+    "de": "Wellen",
+    "klang": "l",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_07b",
+     "wort": "ollas",
+     "de": "Töpfe",
+     "klang": "ll",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_08a",
+    "wort": "cola",
+    "de": "Schwanz, Schlange",
+    "klang": "l",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_08b",
+     "wort": "colla",
+     "de": "(Bergarbeiter-)Trupp",
+     "klang": "ll",
+     "audio": null
+    }
+   }
+  ],
+  "beide": [
+   {
+    "id": "b_01",
+    "wort": "arroyo",
+    "de": "Bach",
+    "klang": "rr,ll",
+    "audio": null,
+    "markup": "a{rr|rr}o{ll|y}o",
+    "klaenge": [
+     "rr",
+     "ll"
+    ]
+   },
+   {
+    "id": "b_02",
+    "wort": "arroz",
+    "de": "Reis",
+    "klang": "rr,z",
+    "audio": null,
+    "markup": "a{rr|rr}o{z|z}",
+    "klaenge": [
+     "rr",
+     "z"
+    ]
+   },
+   {
+    "id": "b_03",
+    "wort": "zorro",
+    "de": "Fuchs",
+    "klang": "z,rr",
+    "audio": null,
+    "markup": "{z|z}o{rr|rr}o",
+    "klaenge": [
+     "z",
+     "rr"
+    ]
+   },
+   {
+    "id": "b_04",
+    "wort": "rodilla",
+    "de": "Knie",
+    "klang": "rr,ll",
+    "audio": null,
+    "markup": "{rr|r}odi{ll|ll}a",
+    "klaenge": [
+     "rr",
+     "ll"
+    ]
+   },
+   {
+    "id": "b_05",
+    "wort": "riñón",
+    "de": "Niere",
+    "klang": "rr,ñ",
+    "audio": null,
+    "markup": "{rr|r}i{ñ|ñ}ón",
+    "klaenge": [
+     "rr",
+     "ñ"
+    ]
+   },
+   {
+    "id": "b_06",
+    "wort": "ceja",
+    "de": "Augenbraue",
+    "klang": "z,j",
+    "audio": null,
+    "markup": "{z|c}e{j|j}a",
+    "klaenge": [
+     "z",
+     "j"
+    ]
+   },
+   {
+    "id": "b_07",
+    "wort": "juez",
+    "de": "Richter",
+    "klang": "j,z",
+    "audio": null,
+    "markup": "{j|j}ue{z|z}",
+    "klaenge": [
+     "j",
+     "z"
+    ]
+   },
+   {
+    "id": "b_08",
+    "wort": "cariño",
+    "de": "Zuneigung, Liebling",
+    "klang": "z,ñ",
+    "audio": null,
+    "markup": "{z|c}ari{ñ|ñ}o",
+    "klaenge": [
+     "z",
+     "ñ"
+    ]
+   },
+   {
+    "id": "b_09",
+    "wort": "llave",
+    "de": "Schlüssel",
+    "klang": "ll,b",
+    "audio": null,
+    "markup": "{ll|ll}a{b|v}e",
+    "klaenge": [
+     "ll",
+     "b"
+    ]
+   },
+   {
+    "id": "b_10",
+    "wort": "barbilla",
+    "de": "Kinn",
+    "klang": "b,ll",
+    "audio": null,
+    "markup": "{b|b}ar{b|b}i{ll|ll}a",
+    "klaenge": [
+     "b",
+     "ll"
+    ]
+   },
+   {
+    "id": "b_11",
+    "wort": "cerrojo",
+    "de": "Riegel",
+    "klang": "z,rr,j",
+    "audio": null,
+    "markup": "{z|c}e{rr|rr}o{j|j}o",
+    "klaenge": [
+     "z",
+     "rr",
+     "j"
+    ]
+   },
+   {
+    "id": "b_12",
+    "wort": "zarzaparrilla",
+    "de": "Sarsaparille (Zungenbrecher)",
+    "klang": "z,rr,ll",
+    "audio": null,
+    "markup": "{z|z}ar{z|z}apa{rr|rr}i{ll|ll}a",
+    "klaenge": [
+     "z",
+     "rr",
+     "ll"
+    ]
+   }
+  ]
  },
  "geschichte": [],
  "geschichte_info": {

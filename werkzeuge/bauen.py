@@ -29,7 +29,7 @@ def tsv(inhalte, name):
 
 def rein(markup):
     """comm{an|en}ç{on|on}s → commençons"""
-    return re.sub(r"\{[a-z]+\|([^}]*)\}", r"\1", markup)
+    return re.sub(r"\{[^|{}]+\|([^}]*)\}", r"\1", markup)
 
 
 def audio_pruefer(paar):

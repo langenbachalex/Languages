@@ -1,1 +1,117 @@
 id	teil	klang	wort	de	partner
+rr_01	klang	rr	perro	Hund	
+rr_02	klang	rr	carro	Karren, Wagen	
+rr_03	klang	rr	arroz	Reis	
+rr_04	klang	rr	rojo	rot	
+rr_05	klang	rr	rico	lecker, reich	
+rr_06	klang	rr	correr	rennen	
+rr_07	klang	rr	guitarra	Gitarre	
+rr_08	klang	rr	pizarra	Tafel	
+r_01	klang	r	pero	aber	
+r_02	klang	r	caro	teuer	
+r_03	klang	r	hora	Stunde	
+r_04	klang	r	cara	Gesicht	
+r_05	klang	r	mirar	anschauen	
+r_06	klang	r	primero	erster	
+r_07	klang	r	tarde	Nachmittag, spät	
+r_08	klang	r	ahora	jetzt	
+b_01	klang	b	vaca	Kuh	
+b_02	klang	b	beber	trinken	
+b_03	klang	b	vivir	leben	
+b_04	klang	b	bueno	gut	
+b_05	klang	b	viernes	Freitag	
+b_06	klang	b	abrazo	Umarmung	
+b_07	klang	b	bebé	Baby	
+b_08	klang	b	volver	zurückkommen	
+j_01	klang	j	jamón	Schinken	
+j_02	klang	j	gente	Leute	
+j_03	klang	j	hijo	Sohn	
+j_04	klang	j	rojo	rot	
+j_05	klang	j	jugar	spielen	
+j_06	klang	j	girasol	Sonnenblume	
+j_07	klang	j	ejemplo	Beispiel	
+j_08	klang	j	ojalá	hoffentlich	
+ll_01	klang	ll	llave	Schlüssel	
+ll_02	klang	ll	calle	Straße	
+ll_03	klang	ll	yo	ich	
+ll_04	klang	ll	llorar	weinen	
+ll_05	klang	ll	ayer	gestern	
+ll_06	klang	ll	lluvia	Regen	
+ll_07	klang	ll	mayo	Mai	
+ll_08	klang	ll	sevillano	aus Sevilla	
+z_01	klang	z	zapato	Schuh	
+z_02	klang	z	cena	Abendessen	
+z_03	klang	z	gracias	danke	
+z_04	klang	z	cerveza	Bier	
+z_05	klang	z	corazón	Herz	
+z_06	klang	z	cocina	Küche	
+z_07	klang	z	feliz	glücklich	
+z_08	klang	z	Zaragoza	Zaragoza	
+ñ_01	klang	ñ	niño	Kind	
+ñ_02	klang	ñ	España	Spanien	
+ñ_03	klang	ñ	mañana	morgen, Morgen	
+ñ_04	klang	ñ	año	Jahr	
+ñ_05	klang	ñ	señor	Herr	
+ñ_06	klang	ñ	sueño	Traum, Schlaf	
+ñ_07	klang	ñ	enseñar	unterrichten, zeigen	
+ñ_08	klang	ñ	pequeño	klein	
+p1_01a	paar	r	pero	aber	p1_01b
+p1_01b	paar	rr	perro	Hund	p1_01a
+p1_02a	paar	r	caro	teuer	p1_02b
+p1_02b	paar	rr	carro	Karren, Wagen	p1_02a
+p1_03a	paar	r	coro	Chor	p1_03b
+p1_03b	paar	rr	corro	ich renne	p1_03a
+p1_04a	paar	r	cero	null	p1_04b
+p1_04b	paar	rr	cerro	Hügel	p1_04a
+p1_05a	paar	r	para	für	p1_05b
+p1_05b	paar	rr	parra	Weinrebe	p1_05a
+p1_06a	paar	r	moro	Maure	p1_06b
+p1_06b	paar	rr	morro	Schnauze	p1_06a
+p1_07a	paar	r	ahora	jetzt	p1_07b
+p1_07b	paar	rr	ahorra	er spart	p1_07a
+p1_08a	paar	r	foro	Forum	p1_08b
+p1_08b	paar	rr	forro	Futter (Stoff)	p1_08a
+p2_01a	paar	s	casa	Haus	p2_01b
+p2_01b	paar	z	caza	Jagd	p2_01a
+p2_02a	paar	s	coser	nähen	p2_02b
+p2_02b	paar	z	cocer	kochen (garen)	p2_02a
+p2_03a	paar	s	sumo	Sumo, höchst	p2_03b
+p2_03b	paar	z	zumo	Saft	p2_03a
+p2_04a	paar	s	siento	ich fühle	p2_04b
+p2_04b	paar	z	ciento	hundert	p2_04a
+p2_05a	paar	s	masa	Teig, Masse	p2_05b
+p2_05b	paar	z	maza	Keule	p2_05a
+p2_06a	paar	s	sima	Abgrund	p2_06b
+p2_06b	paar	z	cima	Gipfel	p2_06a
+p2_07a	paar	s	rosa	Rose, rosa	p2_07b
+p2_07b	paar	z	roza	er streift	p2_07a
+p2_08a	paar	s	abrasar	verbrennen	p2_08b
+p2_08b	paar	z	abrazar	umarmen	p2_08a
+p3_01a	paar	l	polo	Pol, Eis am Stiel	p3_01b
+p3_01b	paar	ll	pollo	Hähnchen	p3_01a
+p3_02a	paar	l	calo	ich durchnässe	p3_02b
+p3_02b	paar	ll	callo	ich schweige	p3_02a
+p3_03a	paar	l	vale	okay	p3_03b
+p3_03b	paar	ll	valle	Tal	p3_03a
+p3_04a	paar	l	malo	schlecht	p3_04b
+p3_04b	paar	ll	mallo	Schlägel	p3_04a
+p3_05a	paar	l	pelo	Haar	p3_05b
+p3_05b	paar	ll	pello	ich rupfe	p3_05a
+p3_06a	paar	l	bola	Kugel	p3_06b
+p3_06b	paar	ll	bolla	Brötchen	p3_06a
+p3_07a	paar	l	olas	Wellen	p3_07b
+p3_07b	paar	ll	ollas	Töpfe	p3_07a
+p3_08a	paar	l	cola	Schwanz, Schlange	p3_08b
+p3_08b	paar	ll	colla	(Bergarbeiter-)Trupp	p3_08a
+b_01	beide	rr,ll	a{rr|rr}o{ll|y}o	Bach
+b_02	beide	rr,z	a{rr|rr}o{z|z}	Reis
+b_03	beide	z,rr	{z|z}o{rr|rr}o	Fuchs
+b_04	beide	rr,ll	{rr|r}odi{ll|ll}a	Knie
+b_05	beide	rr,ñ	{rr|r}i{ñ|ñ}ón	Niere
+b_06	beide	z,j	{z|c}e{j|j}a	Augenbraue
+b_07	beide	j,z	{j|j}ue{z|z}	Richter
+b_08	beide	z,ñ	{z|c}ari{ñ|ñ}o	Zuneigung, Liebling
+b_09	beide	ll,b	{ll|ll}a{b|v}e	Schlüssel
+b_10	beide	b,ll	{b|b}ar{b|b}i{ll|ll}a	Kinn
+b_11	beide	z,rr,j	{z|c}e{rr|rr}o{j|j}o	Riegel
+b_12	beide	z,rr,ll	{z|z}ar{z|z}apa{rr|rr}i{ll|ll}a	Sarsaparille (Zungenbrecher)
