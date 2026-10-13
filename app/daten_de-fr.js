@@ -294,21 +294,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "korrigieren",
    "notiz": "die Klassenarbeit = la copie, le contrôle (Klasse + Arbeit) ; korrigieren, participe korrigiert (pas de ge- pour les verbes en -ieren). Le verbe se place en deuxième position : Heute Abend korrigiere ich.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_01.mp3",
    "satz": {
     "fr": "Heute Abend korrigiere ich die Klassenarbeiten der Sechsten.",
     "de": "Ce soir, je corrige les copies de sixième.",
     "luecke": "korrigiere ich die Klassenarbeiten",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern habe ich die Klassenarbeiten der Sechsten korrigiert.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_01_pc.mp3"
     },
     "fp": {
      "fr": "Morgen werde ich die Klassenarbeiten der Sechsten korrigieren.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_01_fp.mp3"
     }
    }
   },
@@ -320,21 +320,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "littéralement « fixe et fini » – expression figée, familière ; aussi : kaputt sein, erledigt sein, platt sein. der Unterricht = les cours (toujours singulier).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_02.mp3",
    "satz": {
     "fr": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "de": "Après six heures de cours, je suis crevé.",
     "luecke": "fix und fertig",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern war ich fix und fertig.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_02_pc.mp3"
     },
     "fp": {
      "fr": "Morgen werde ich fix und fertig sein. Wie immer.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_02_fp.mp3"
     }
    }
   },
@@ -346,21 +346,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "laufen",
    "notiz": "littéralement « comment ça a couru ? » – laufen = courir, marcher, et aussi « se passer » ; participe gelaufen avec sein. die Neunte = la troisième (en Allemagne on compte à partir du CP : 9. Klasse).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_03.mp3",
    "satz": {
     "fr": "Und, deine Stunde mit der Neunten, wie ist es gelaufen?",
     "de": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
     "luecke": "wie ist es gelaufen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_03.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Wie ist es gestern gelaufen?",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_03_pc.mp3"
     },
     "fp": {
      "fr": "Du wirst sehen, wie es laufen wird.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_03_fp.mp3"
     }
    }
   },
@@ -372,21 +372,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "halten = tenir ; Unterricht halten = faire cours (aussi : unterrichten). Englischunterricht = un seul mot composé, comme souvent en allemand. der Vormittag = la matinée.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_04.mp3",
    "satz": {
     "fr": "Ich halte den ganzen Vormittag Englischunterricht.",
     "de": "Je fais cours en anglais toute la matinée.",
     "luecke": "halte",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den ganzen Vormittag Englischunterricht gehalten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_04_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde den ganzen Vormittag Englischunterricht halten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_04_fp.mp3"
     }
    }
   },
@@ -398,12 +398,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sehen",
    "notiz": "die große Pause = la récréation (20 minutes), die kleine Pause = l'intercours (5 minutes). das Lehrerzimmer = la salle des profs (Lehrer + Zimmer). Question sans mot interrogatif : le verbe en tête.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_05.mp3",
    "satz": {
     "fr": "Sehen wir uns in der großen Pause im Lehrerzimmer?",
     "de": "On se retrouve en salle des profs à la récré ?",
     "luecke": "großen Pause",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_05.mp3"
    },
    "zeit": null
   },
@@ -415,21 +415,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "erwarten",
    "notiz": "littéralement « je peux à peine l'attendre » ; erwarten = attendre (quelque chose qui doit venir), warten auf = attendre (patienter). Infinitif avec zu en fin de phrase : Ferien zu haben.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_06.mp3",
    "satz": {
     "fr": "Ich kann es kaum erwarten, Ferien zu haben.",
     "de": "J'ai hâte d'être en vacances.",
     "luecke": "kann es kaum erwarten",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich konnte es kaum erwarten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_06_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde es kaum erwarten können.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_06_fp.mp3"
     }
    }
   },
@@ -441,21 +441,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "littéralement « avoir le nez plein » – die Nase voll haben von + datif ; familier mais très courant. Aussi : es reicht ! (ça suffit), ich habe es satt.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_07.mp3",
    "satz": {
     "fr": "Ich habe die Nase voll von Besprechungen, die nie enden.",
     "de": "J'en ai marre des réunions qui n'en finissent pas.",
     "luecke": "habe die Nase voll",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte die Nase voll.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_07_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde die Nase voll haben, das weiß ich jetzt schon.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_07_fp.mp3"
     }
    }
   },
@@ -467,21 +467,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "die Schwierigkeit = la difficulté ; plus simple et plus courant : es fällt mir schwer. kriegen = familier pour bekommen (obtenir) ; jemanden ruhig kriegen = arriver à calmer quelqu'un.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_08.mp3",
    "satz": {
     "fr": "Ich habe Schwierigkeiten, sie am Freitagnachmittag ruhig zu kriegen.",
     "de": "J'ai du mal à les faire taire le vendredi après-midi.",
     "luecke": "habe Schwierigkeiten",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte Schwierigkeiten, sie ruhig zu kriegen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_08_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde Schwierigkeiten haben, sie ruhig zu kriegen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_08_fp.mp3"
     }
    }
   },
@@ -493,12 +493,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sehen",
    "notiz": "littéralement « longtemps pas vu » – phrase elliptique, très courante ; forme complète : Wir haben uns lange nicht gesehen. Aussi : Das ist ja ewig her ! (ça fait une éternité).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_09.mp3",
    "satz": {
     "fr": "Hallo Aurélien! Lange nicht gesehen!",
     "de": "Salut Aurélien ! Ça fait longtemps !",
     "luecke": "Lange nicht gesehen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_09.mp3"
    },
    "zeit": null
   },
@@ -510,12 +510,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "übernehmen",
    "notiz": "also = donc, du coup (attention : jamais « aussi » !) ; après also, le verbe vient tout de suite : also übernehme ich. übernehmen = reprendre, prendre en charge.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_10.mp3",
    "satz": {
     "fr": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "de": "Le prof de sport est malade, du coup je prends sa classe.",
     "luecke": "also",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_10.mp3"
    },
    "zeit": null
   },
@@ -527,12 +527,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "mögen",
    "notiz": "eigentlich = en fait, à vrai dire (eigen = propre) ; introduit une nuance ou une correction. mögen = aimer bien : ich mag, du magst.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_11.mp3",
    "satz": {
     "fr": "Eigentlich mag ich meine Schüler aus der Neunten.",
     "de": "En fait, j'aime bien mes élèves de troisième.",
     "luecke": "Eigentlich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_11.mp3"
    },
    "zeit": null
   },
@@ -544,12 +544,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lieben",
    "notiz": "trotzdem = quand même, malgré tout (trotz = malgré) ; en tête de phrase, le verbe suit : Trotzdem liebe ich … anstrengend = fatigant ; der Beruf = le métier.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_12.mp3",
    "satz": {
     "fr": "Es ist anstrengend, aber ich liebe diesen Beruf trotzdem.",
     "de": "C'est fatigant, mais j'adore ce métier quand même.",
     "luecke": "trotzdem",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_12.mp3"
    },
    "zeit": null
   },
@@ -561,21 +561,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lohnen",
    "notiz": "sich lohnen = valoir la peine (der Lohn = le salaire) ; es lohnt sich = ça vaut le coup, es lohnt sich nicht = ça ne vaut pas le coup. dauern = durer, prendre du temps.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_13.mp3",
    "satz": {
     "fr": "Eine gute Stunde vorzubereiten dauert, aber es lohnt sich.",
     "de": "Préparer un bon cours, ça prend du temps, mais ça vaut le coup.",
     "luecke": "lohnt sich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_13.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Es hat sich gelohnt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_13_pc.mp3"
     },
     "fp": {
      "fr": "Es wird sich lohnen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_13_fp.mp3"
     }
    }
   },
@@ -587,21 +587,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "zurechtkommen",
    "notiz": "verbe à particule séparable : ich komme zurecht, participe zurechtgekommen (avec sein). Aussi : klarkommen (familier) ; sich durchschlagen = se débrouiller tant bien que mal.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_14.mp3",
    "satz": {
     "fr": "Die Schüler kommen allein gut zurecht.",
     "de": "Les élèves se débrouillent bien tout seuls.",
     "luecke": "kommen allein gut zurecht",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Die Schüler sind allein gut zurechtgekommen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_14_pc.mp3"
     },
     "fp": {
      "fr": "Die Schüler werden allein gut zurechtkommen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_14_fp.mp3"
     }
    }
   },
@@ -613,21 +613,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "littéralement « être pleinement là-dedans » (dabei = avec, présent) ; voll = plein, et familièrement « complètement » : voll gut, voll müde. der Sechstklässler = l'élève de sixième.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_15.mp3",
    "satz": {
     "fr": "Heute waren die Sechstklässler voll dabei.",
     "de": "Aujourd'hui, les sixièmes étaient à fond.",
     "luecke": "voll dabei",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern waren sie voll dabei.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_15_pc.mp3"
     },
     "fp": {
      "fr": "Morgen werden sie voll dabei sein. Hoffentlich.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_15_fp.mp3"
     }
    }
   },
@@ -639,21 +639,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "zurückgeben",
    "notiz": "particule séparable zurück- : ich gebe … zurück, participe zurückgegeben. Attention : abgeben = rendre un devoir (côté élève). am Montag = lundi (an + dem).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_16.mp3",
    "satz": {
     "fr": "Ich gebe die Arbeiten am Montag zurück.",
     "de": "Je rends les copies lundi.",
     "luecke": "gebe die Arbeiten am Montag zurück",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe die Arbeiten am Montag zurückgegeben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_16_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde die Arbeiten am Montag zurückgeben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_16_fp.mp3"
     }
    }
   },
@@ -665,12 +665,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "die Besprechung = la réunion de travail (besprechen = discuter de) ; die Konferenz = la conférence pédagogique officielle ; die Sitzung = la séance. kommst du ? = question par inversion.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_17.mp3",
    "satz": {
     "fr": "Wir haben um sechzehn Uhr eine Besprechung, kommst du?",
     "de": "On a une réunion à seize heures, tu viens ?",
     "luecke": "Besprechung",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_17.mp3"
    },
    "zeit": null
   },
@@ -682,12 +682,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "mot à mot comme en français ; aussi : kein Problem, nicht schlimm, schon gut. vergessen = oublier, participe vergessen (identique à l'infinitif).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_18.mp3",
    "satz": {
     "fr": "Du hast mein Buch vergessen? Das macht nichts.",
     "de": "Tu as oublié mon livre ? Ça ne fait rien.",
     "luecke": "Das macht nichts",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_18.mp3"
    },
    "zeit": null
   },
@@ -699,12 +699,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lassen",
    "notiz": "littéralement « laisse-toi du temps » (lassen = laisser) ; impératif lass + datif dir. Le contraire : beeil dich ! (dépêche-toi). den ganzen Abend = accusatif de durée.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_19.mp3",
    "satz": {
     "fr": "Lass dir Zeit, wir haben den ganzen Abend.",
     "de": "Prends ton temps, on a toute la soirée.",
     "luecke": "Lass dir Zeit",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_19.mp3"
    },
    "zeit": null
   },
@@ -716,12 +716,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "korrigieren",
    "notiz": "Lehrer + Zimmer ; im = in dem (datif, lieu où l'on est). jemand = quelqu'un ; niemand = personne. Le verbe toujours en deuxième position : Im Lehrerzimmer korrigiert …",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_20.mp3",
    "satz": {
     "fr": "Im Lehrerzimmer korrigiert immer jemand. Und jemand schläft.",
     "de": "En salle des profs, il y a toujours quelqu'un qui corrige. Et quelqu'un qui dort.",
     "luecke": "Lehrerzimmer",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_20.mp3"
    },
    "zeit": null
   },
@@ -733,21 +733,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "greifen",
    "notiz": "littéralement « saisir quelqu'un sous les bras » (pour le soutenir) ; plus simple : jemandem helfen. beim Kopieren = en faisant les photocopies (beim + infinitif substantivé). der Kopierer = la photocopieuse.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_21.mp3",
    "satz": {
     "fr": "Kannst du mir beim Kopieren unter die Arme greifen? Der Kopierer hasst mich.",
     "de": "Tu peux me donner un coup de main pour les photocopies ? La photocopieuse me déteste.",
     "luecke": "unter die Arme greifen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Du hast mir unter die Arme gegriffen. Danke.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_21_pc.mp3"
     },
     "fp": {
      "fr": "Du wirst mir unter die Arme greifen, oder?",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_21_fp.mp3"
     }
    }
   },
@@ -759,21 +759,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "prüfen",
    "notiz": "die Anwesenheit = la présence (anwesend = présent, abwesend = absent) ; prüfen = vérifier, et aussi examiner (die Prüfung = l'examen). Hier ! = Présent ! Müller et Schmidt = les noms de famille les plus fréquents.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_22.mp3",
    "satz": {
     "fr": "Ich prüfe die Anwesenheit. « Müller? » – « Hier! » – « Schmidt? » – Stille. Schmidt schläft.",
     "de": "Je fais l'appel. « Müller ? » – « Présent ! » – « Schmidt ? » – Silence. Schmidt dort.",
     "luecke": "prüfe die Anwesenheit",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_22.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe die Anwesenheit geprüft.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_22_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde die Anwesenheit prüfen. Dann sehen wir weiter.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_22_fp.mp3"
     }
    }
   },
@@ -785,21 +785,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "durcheinanderkommen",
    "notiz": "durcheinander = pêle-mêle, en désordre (durch + einander = à travers l'un l'autre) ; durcheinanderkommen = s'embrouiller (participe durcheinandergekommen, avec sein) ; das Durcheinander = le bazar.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_23.mp3",
    "satz": {
     "fr": "Mit zwei Klassen zusammen komme ich bei den Namen immer durcheinander.",
     "de": "Avec deux classes ensemble, je m'emmêle toujours dans les noms.",
     "luecke": "komme ich bei den Namen immer durcheinander",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich bin bei den Namen durcheinandergekommen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_23_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde bei den Namen durcheinanderkommen. Garantiert.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ul_23_fp.mp3"
     }
    }
   },
@@ -811,12 +811,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "können",
    "notiz": "könnten = Konjunktiv II de können, la demande polie (« pourriez-vous ») ; Sie = vous de politesse, toujours avec majuscule, verbe à la 3e personne du pluriel. zeigen = montrer, indiquer. Entschuldigung = excusez-moi.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ul_24.mp3",
    "satz": {
     "fr": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "de": "Excusez-moi, pourriez-vous m'indiquer la salle des profs ?",
     "luecke": "könnten Sie mir das Lehrerzimmer zeigen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ul_24.mp3"
    },
    "zeit": null
   }
@@ -857,378 +857,378 @@ window.SPRACHEN["de-fr"] = {
   "lob": [
    {
     "text": "Super!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_super.mp3",
     "gruppe": [
      "super"
     ]
    },
    {
     "text": "Genau!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_genau.mp3",
     "gruppe": [
      "genau"
     ]
    },
    {
     "text": "Prima!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_prima.mp3",
     "gruppe": [
      "prima"
     ]
    },
    {
     "text": "Klasse!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_klasse.mp3",
     "gruppe": [
      "klasse"
     ]
    },
    {
     "text": "Perfekt!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_perfekt.mp3",
     "gruppe": [
      "perfekt"
     ]
    },
    {
     "text": "Richtig!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_richtig.mp3",
     "gruppe": [
      "richtig"
     ]
    },
    {
     "text": "Sehr gut!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_sehr_gut.mp3",
     "gruppe": [
      "gut"
     ]
    },
    {
     "text": "Toll!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_toll.mp3",
     "gruppe": [
      "toll"
     ]
    },
    {
     "text": "Bravo!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_bravo.mp3",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Spitze!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_spitze.mp3",
     "gruppe": [
      "spitze"
     ]
    },
    {
     "text": "Wunderbar!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_wunderbar.mp3",
     "gruppe": [
      "wunderbar"
     ]
    },
    {
     "text": "Stimmt!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_stimmt.mp3",
     "gruppe": [
      "stimmt"
     ]
    },
    {
     "text": "So ist es!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_so_ist_es.mp3",
     "gruppe": [
      "so"
     ]
    },
    {
     "text": "Gut gemacht!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_gut_gemacht.mp3",
     "gruppe": [
      "gemacht"
     ]
    },
    {
     "text": "Ja!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_ja.mp3",
     "gruppe": [
      "ja"
     ]
    },
    {
     "text": "Exakt!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_exakt.mp3",
     "gruppe": [
      "exakt"
     ]
    },
    {
     "text": "Volltreffer!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_volltreffer.mp3",
     "gruppe": [
      "treffer"
     ]
    },
    {
     "text": "Sauber!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_sauber.mp3",
     "gruppe": [
      "sauber"
     ]
    },
    {
     "text": "Tadellos!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_tadellos.mp3",
     "gruppe": [
      "tadellos"
     ]
    },
    {
     "text": "Hervorragend!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_hervorragend.mp3",
     "gruppe": [
      "hervorragend"
     ]
    },
    {
     "text": "Ausgezeichnet!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_ausgezeichnet.mp3",
     "gruppe": [
      "ausgezeichnet"
     ]
    },
    {
     "text": "Das sitzt!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_das_sitzt.mp3",
     "gruppe": [
      "sitzt"
     ]
    },
    {
     "text": "Gut gesagt!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_gut_gesagt.mp3",
     "gruppe": [
      "gesagt"
     ]
    },
    {
     "text": "Fehlerfrei!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_fehlerfrei.mp3",
     "gruppe": [
      "fehlerfrei"
     ]
    },
    {
     "text": "Was für ein Akzent!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_was_fuer_ein_akzent.mp3",
     "gruppe": [
      "akzent"
     ]
    },
    {
     "text": "Das ist Deutsch!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_das_ist_deutsch.mp3",
     "gruppe": [
      "deutsch"
     ]
    },
    {
     "text": "Wie ein Saarländer!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_wie_ein_saarlaender.mp3",
     "gruppe": [
      "saarland"
     ]
    },
    {
     "text": "Du hast ein gutes Ohr!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_du_hast_ein_ohr.mp3",
     "gruppe": [
      "ohr"
     ]
    },
    {
     "text": "Das klingt gut!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_klingt_gut.mp3",
     "gruppe": [
      "klingt"
     ]
    },
    {
     "text": "Ich liebe es!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_ich_liebs.mp3",
     "gruppe": [
      "liebe"
     ]
    },
    {
     "text": "Du wirst immer besser!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_du_wirst_besser.mp3",
     "gruppe": [
      "besser"
     ]
    },
    {
     "text": "Noch ein Punkt!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_noch_ein_punkt.mp3",
     "gruppe": [
      "punkt"
     ]
    },
    {
     "text": "Auf den Punkt!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_auf_den_punkt.mp3",
     "gruppe": [
      "punkt"
     ]
    },
    {
     "text": "Beim ersten Mal!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_beim_ersten_mal.mp3",
     "gruppe": [
      "erste"
     ]
    },
    {
     "text": "Nichts zu sagen!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_nichts_zu_sagen.mp3",
     "gruppe": [
      "nichts"
     ]
    },
    {
     "text": "So geht's!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_so_gehts.mp3",
     "gruppe": [
      "so"
     ]
    },
    {
     "text": "Weiter so!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_weiter_so.mp3",
     "gruppe": [
      "weiter"
     ]
    },
    {
     "text": "Du kannst es!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_du_kannst_es.mp3",
     "gruppe": [
      "kannst"
     ]
    },
    {
     "text": "Glückwunsch!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_glueckwunsch.mp3",
     "gruppe": [
      "glueckwunsch"
     ]
    },
    {
     "text": "Top!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_top.mp3",
     "gruppe": [
      "top"
     ]
    },
    {
     "text": "Meisterhaft!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_meisterhaft.mp3",
     "gruppe": [
      "meister"
     ]
    },
    {
     "text": "Wie ein Profi!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_wie_ein_profi.mp3",
     "gruppe": [
      "profi"
     ]
    },
    {
     "text": "Sehr gut, Herr Lehrer!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_herr_lehrer.mp3",
     "gruppe": [
      "lehrer"
     ]
    },
    {
     "text": "Jawohl!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_jawohl.mp3",
     "gruppe": [
      "ja"
     ]
    },
    {
     "text": "Einwandfrei!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_einwandfrei.mp3",
     "gruppe": [
      "einwandfrei"
     ]
    },
    {
     "text": "Zack, richtig!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_zack.mp3",
     "gruppe": [
      "zack"
     ]
    },
    {
     "text": "Das war's!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_das_wars.mp3",
     "gruppe": [
      "wars"
     ]
    },
    {
     "text": "Genau so!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_genau_so.mp3",
     "gruppe": [
      "genau"
     ]
    },
    {
     "text": "Gut getroffen!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_gut_getroffen.mp3",
     "gruppe": [
      "treffer"
     ]
    },
    {
     "text": "Hut ab!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_hut_ab.mp3",
     "gruppe": [
      "hut"
     ]
    },
    {
     "text": "Bestens!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_bestens.mp3",
     "gruppe": [
      "bestens"
     ]
    },
    {
     "text": "Passt!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_passt.mp3",
     "gruppe": [
      "passt"
     ]
    },
    {
     "text": "Schön!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_schoen.mp3",
     "gruppe": [
      "schoen"
     ]
    },
    {
     "text": "Glatt durch!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/lob_glatt.mp3",
     "gruppe": [
      "glatt"
     ]
@@ -1237,98 +1237,98 @@ window.SPRACHEN["de-fr"] = {
   "stark": [
    {
     "text": "Bravo, Champion!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_champion.mp3",
     "gruppe": [
      "champion"
     ]
    },
    {
     "text": "Unglaublich! Du bist in Serie!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_serie.mp3",
     "gruppe": [
      "serie"
     ]
    },
    {
     "text": "Ich bin stolz auf dich!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_stolz.mp3",
     "gruppe": [
      "stolz"
     ]
    },
    {
     "text": "Großartig! Weiter so!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_weiter.mp3",
     "gruppe": [
      "weiter"
     ]
    },
    {
     "text": "Was für eine Maschine!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_maschine.mp3",
     "gruppe": [
      "maschine"
     ]
    },
    {
     "text": "Du bist ein Star!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_star.mp3",
     "gruppe": [
      "star"
     ]
    },
    {
     "text": "Beeindruckend!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_beeindruckend.mp3",
     "gruppe": [
      "beeindruckend"
     ]
    },
    {
     "text": "Du lässt es leicht aussehen!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_leicht.mp3",
     "gruppe": [
      "leicht"
     ]
    },
    {
     "text": "Genau das wollte ich hören!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_hoeren.mp3",
     "gruppe": [
      "hoeren"
     ]
    },
    {
     "text": "Heute fliegst du!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_fliegst.mp3",
     "gruppe": [
      "fliegst"
     ]
    },
    {
     "text": "Ins Schwarze!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_schwarze.mp3",
     "gruppe": [
      "schwarze"
     ]
    },
    {
     "text": "Was für eine Leistung!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_leistung.mp3",
     "gruppe": [
      "leistung"
     ]
    },
    {
     "text": "Du rockst das!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_rockst.mp3",
     "gruppe": [
      "rockst"
     ]
    },
    {
     "text": "Was für ein Niveau!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/stark_niveau.mp3",
     "gruppe": [
      "niveau"
     ]
@@ -1337,70 +1337,70 @@ window.SPRACHEN["de-fr"] = {
   "fehler": [
    {
     "text": "Fast!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_fast.mp3",
     "gruppe": [
      "fast"
     ]
    },
    {
     "text": "Nicht ganz.",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_nicht_ganz.mp3",
     "gruppe": [
      "ganz"
     ]
    },
    {
     "text": "Noch ein Versuch!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_noch_mal.mp3",
     "gruppe": [
      "versuch"
     ]
    },
    {
     "text": "Macht nichts!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_macht_nichts.mp3",
     "gruppe": [
      "nichts"
     ]
    },
    {
     "text": "Oh je!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_oh.mp3",
     "gruppe": [
      "oh"
     ]
    },
    {
     "text": "Hmm…",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_hmm.mp3",
     "gruppe": [
      "hmm"
     ]
    },
    {
     "text": "Knapp daneben!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_knapp.mp3",
     "gruppe": [
      "knapp"
     ]
    },
    {
     "text": "Fast, fast!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_fast_fast.mp3",
     "gruppe": [
      "fast"
     ]
    },
    {
     "text": "Diesmal nicht!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_diesmal_nicht.mp3",
     "gruppe": [
      "diesmal"
     ]
    },
    {
     "text": "Macht nichts, noch mal von vorn!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/fehler_von_vorn.mp3",
     "gruppe": [
      "nichts"
     ]
@@ -1409,21 +1409,21 @@ window.SPRACHEN["de-fr"] = {
   "geschafft": [
    {
     "text": "Schluss für heute! Hut ab!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/geschafft_schluss.mp3",
     "gruppe": [
      "schluss"
     ]
    },
    {
     "text": "Bravo, du hast alles geschafft! Bis morgen!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/geschafft_alles.mp3",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Du kannst stolz auf dich sein. Bis morgen!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/geschafft_stolz.mp3",
     "gruppe": [
      "stolz"
     ]
@@ -1432,7 +1432,7 @@ window.SPRACHEN["de-fr"] = {
   "voll": [
    {
     "text": "Fehlerfrei! Wunderbar!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/voll_fehlerfrei.mp3",
     "gruppe": [
      "fehlerfrei"
     ]
@@ -1441,7 +1441,7 @@ window.SPRACHEN["de-fr"] = {
   "doch": [
    {
     "text": "Siehst du? Du kannst es!",
-    "audio": null,
+    "audio": "audio/de-fr/lob/doch_siehst_du.mp3",
     "gruppe": [
      "siehst"
     ]
@@ -1487,55 +1487,55 @@ window.SPRACHEN["de-fr"] = {
     "ab": 300,
     "name": "Bratwurst",
     "symbol": "🌭",
-    "audio": null
+    "audio": "audio/de-fr/spiel/titel_1.mp3"
    },
    {
     "ab": 900,
     "name": "Kartoffelsalat",
     "symbol": "🥔",
-    "audio": null
+    "audio": "audio/de-fr/spiel/titel_2.mp3"
    },
    {
     "ab": 1800,
     "name": "Schnitzel",
     "symbol": "🍽️",
-    "audio": null
+    "audio": "audio/de-fr/spiel/titel_3.mp3"
    },
    {
     "ab": 3000,
     "name": "Sauerbraten",
     "symbol": "🍖",
-    "audio": null
+    "audio": "audio/de-fr/spiel/titel_4.mp3"
    },
    {
     "ab": 4500,
     "name": "Schwarzwälder Kirschtorte",
     "symbol": "🍰",
-    "audio": null
+    "audio": "audio/de-fr/spiel/titel_5.mp3"
    },
    {
     "ab": 6500,
     "name": "Chefkoch",
     "symbol": "✨",
-    "audio": null
+    "audio": "audio/de-fr/spiel/titel_6.mp3"
    }
   ],
   "texte": {
    "feuer": {
     "text": "Du bist in Serie! Drei Tage am Stück!",
-    "audio": null
+    "audio": "audio/de-fr/spiel/feuer.mp3"
    },
    "woche": {
     "text": "Perfekte Woche! Du hast an jedem Schultag gearbeitet. Bravo!",
-    "audio": null
+    "audio": "audio/de-fr/spiel/woche.mp3"
    },
    "monat": {
     "text": "Vier perfekte Wochen am Stück! Was für ein Champion!",
-    "audio": null
+    "audio": "audio/de-fr/spiel/monat.mp3"
    },
    "fini": {
     "text": "Schluss für heute. Bis morgen!",
-    "audio": null
+    "audio": "audio/de-fr/spiel/fini.mp3"
    }
   },
   "frei": [
@@ -1596,5 +1596,175 @@ window.SPRACHEN["de-fr"] = {
    }
   ]
  },
- "audio_liste": []
+ "audio_liste": [
+  "audio/de-fr/lob/doch_siehst_du.mp3",
+  "audio/de-fr/lob/fehler_diesmal_nicht.mp3",
+  "audio/de-fr/lob/fehler_fast.mp3",
+  "audio/de-fr/lob/fehler_fast_fast.mp3",
+  "audio/de-fr/lob/fehler_hmm.mp3",
+  "audio/de-fr/lob/fehler_knapp.mp3",
+  "audio/de-fr/lob/fehler_macht_nichts.mp3",
+  "audio/de-fr/lob/fehler_nicht_ganz.mp3",
+  "audio/de-fr/lob/fehler_noch_mal.mp3",
+  "audio/de-fr/lob/fehler_oh.mp3",
+  "audio/de-fr/lob/fehler_von_vorn.mp3",
+  "audio/de-fr/lob/geschafft_alles.mp3",
+  "audio/de-fr/lob/geschafft_schluss.mp3",
+  "audio/de-fr/lob/geschafft_stolz.mp3",
+  "audio/de-fr/lob/lob_auf_den_punkt.mp3",
+  "audio/de-fr/lob/lob_ausgezeichnet.mp3",
+  "audio/de-fr/lob/lob_beim_ersten_mal.mp3",
+  "audio/de-fr/lob/lob_bestens.mp3",
+  "audio/de-fr/lob/lob_bravo.mp3",
+  "audio/de-fr/lob/lob_das_ist_deutsch.mp3",
+  "audio/de-fr/lob/lob_das_sitzt.mp3",
+  "audio/de-fr/lob/lob_das_wars.mp3",
+  "audio/de-fr/lob/lob_du_hast_ein_ohr.mp3",
+  "audio/de-fr/lob/lob_du_kannst_es.mp3",
+  "audio/de-fr/lob/lob_du_wirst_besser.mp3",
+  "audio/de-fr/lob/lob_einwandfrei.mp3",
+  "audio/de-fr/lob/lob_exakt.mp3",
+  "audio/de-fr/lob/lob_fehlerfrei.mp3",
+  "audio/de-fr/lob/lob_genau.mp3",
+  "audio/de-fr/lob/lob_genau_so.mp3",
+  "audio/de-fr/lob/lob_glatt.mp3",
+  "audio/de-fr/lob/lob_glueckwunsch.mp3",
+  "audio/de-fr/lob/lob_gut_gemacht.mp3",
+  "audio/de-fr/lob/lob_gut_gesagt.mp3",
+  "audio/de-fr/lob/lob_gut_getroffen.mp3",
+  "audio/de-fr/lob/lob_herr_lehrer.mp3",
+  "audio/de-fr/lob/lob_hervorragend.mp3",
+  "audio/de-fr/lob/lob_hut_ab.mp3",
+  "audio/de-fr/lob/lob_ich_liebs.mp3",
+  "audio/de-fr/lob/lob_ja.mp3",
+  "audio/de-fr/lob/lob_jawohl.mp3",
+  "audio/de-fr/lob/lob_klasse.mp3",
+  "audio/de-fr/lob/lob_klingt_gut.mp3",
+  "audio/de-fr/lob/lob_meisterhaft.mp3",
+  "audio/de-fr/lob/lob_nichts_zu_sagen.mp3",
+  "audio/de-fr/lob/lob_noch_ein_punkt.mp3",
+  "audio/de-fr/lob/lob_passt.mp3",
+  "audio/de-fr/lob/lob_perfekt.mp3",
+  "audio/de-fr/lob/lob_prima.mp3",
+  "audio/de-fr/lob/lob_richtig.mp3",
+  "audio/de-fr/lob/lob_sauber.mp3",
+  "audio/de-fr/lob/lob_schoen.mp3",
+  "audio/de-fr/lob/lob_sehr_gut.mp3",
+  "audio/de-fr/lob/lob_so_gehts.mp3",
+  "audio/de-fr/lob/lob_so_ist_es.mp3",
+  "audio/de-fr/lob/lob_spitze.mp3",
+  "audio/de-fr/lob/lob_stimmt.mp3",
+  "audio/de-fr/lob/lob_super.mp3",
+  "audio/de-fr/lob/lob_tadellos.mp3",
+  "audio/de-fr/lob/lob_toll.mp3",
+  "audio/de-fr/lob/lob_top.mp3",
+  "audio/de-fr/lob/lob_volltreffer.mp3",
+  "audio/de-fr/lob/lob_was_fuer_ein_akzent.mp3",
+  "audio/de-fr/lob/lob_weiter_so.mp3",
+  "audio/de-fr/lob/lob_wie_ein_profi.mp3",
+  "audio/de-fr/lob/lob_wie_ein_saarlaender.mp3",
+  "audio/de-fr/lob/lob_wunderbar.mp3",
+  "audio/de-fr/lob/lob_zack.mp3",
+  "audio/de-fr/lob/stark_beeindruckend.mp3",
+  "audio/de-fr/lob/stark_champion.mp3",
+  "audio/de-fr/lob/stark_fliegst.mp3",
+  "audio/de-fr/lob/stark_hoeren.mp3",
+  "audio/de-fr/lob/stark_leicht.mp3",
+  "audio/de-fr/lob/stark_leistung.mp3",
+  "audio/de-fr/lob/stark_maschine.mp3",
+  "audio/de-fr/lob/stark_niveau.mp3",
+  "audio/de-fr/lob/stark_rockst.mp3",
+  "audio/de-fr/lob/stark_schwarze.mp3",
+  "audio/de-fr/lob/stark_serie.mp3",
+  "audio/de-fr/lob/stark_star.mp3",
+  "audio/de-fr/lob/stark_stolz.mp3",
+  "audio/de-fr/lob/stark_weiter.mp3",
+  "audio/de-fr/lob/voll_fehlerfrei.mp3",
+  "audio/de-fr/saetze/ul_01.mp3",
+  "audio/de-fr/saetze/ul_01_fp.mp3",
+  "audio/de-fr/saetze/ul_01_pc.mp3",
+  "audio/de-fr/saetze/ul_02.mp3",
+  "audio/de-fr/saetze/ul_02_fp.mp3",
+  "audio/de-fr/saetze/ul_02_pc.mp3",
+  "audio/de-fr/saetze/ul_03.mp3",
+  "audio/de-fr/saetze/ul_03_fp.mp3",
+  "audio/de-fr/saetze/ul_03_pc.mp3",
+  "audio/de-fr/saetze/ul_04.mp3",
+  "audio/de-fr/saetze/ul_04_fp.mp3",
+  "audio/de-fr/saetze/ul_04_pc.mp3",
+  "audio/de-fr/saetze/ul_05.mp3",
+  "audio/de-fr/saetze/ul_06.mp3",
+  "audio/de-fr/saetze/ul_06_fp.mp3",
+  "audio/de-fr/saetze/ul_06_pc.mp3",
+  "audio/de-fr/saetze/ul_07.mp3",
+  "audio/de-fr/saetze/ul_07_fp.mp3",
+  "audio/de-fr/saetze/ul_07_pc.mp3",
+  "audio/de-fr/saetze/ul_08.mp3",
+  "audio/de-fr/saetze/ul_08_fp.mp3",
+  "audio/de-fr/saetze/ul_08_pc.mp3",
+  "audio/de-fr/saetze/ul_09.mp3",
+  "audio/de-fr/saetze/ul_10.mp3",
+  "audio/de-fr/saetze/ul_11.mp3",
+  "audio/de-fr/saetze/ul_12.mp3",
+  "audio/de-fr/saetze/ul_13.mp3",
+  "audio/de-fr/saetze/ul_13_fp.mp3",
+  "audio/de-fr/saetze/ul_13_pc.mp3",
+  "audio/de-fr/saetze/ul_14.mp3",
+  "audio/de-fr/saetze/ul_14_fp.mp3",
+  "audio/de-fr/saetze/ul_14_pc.mp3",
+  "audio/de-fr/saetze/ul_15.mp3",
+  "audio/de-fr/saetze/ul_15_fp.mp3",
+  "audio/de-fr/saetze/ul_15_pc.mp3",
+  "audio/de-fr/saetze/ul_16.mp3",
+  "audio/de-fr/saetze/ul_16_fp.mp3",
+  "audio/de-fr/saetze/ul_16_pc.mp3",
+  "audio/de-fr/saetze/ul_17.mp3",
+  "audio/de-fr/saetze/ul_18.mp3",
+  "audio/de-fr/saetze/ul_19.mp3",
+  "audio/de-fr/saetze/ul_20.mp3",
+  "audio/de-fr/saetze/ul_21.mp3",
+  "audio/de-fr/saetze/ul_21_fp.mp3",
+  "audio/de-fr/saetze/ul_21_pc.mp3",
+  "audio/de-fr/saetze/ul_22.mp3",
+  "audio/de-fr/saetze/ul_22_fp.mp3",
+  "audio/de-fr/saetze/ul_22_pc.mp3",
+  "audio/de-fr/saetze/ul_23.mp3",
+  "audio/de-fr/saetze/ul_23_fp.mp3",
+  "audio/de-fr/saetze/ul_23_pc.mp3",
+  "audio/de-fr/saetze/ul_24.mp3",
+  "audio/de-fr/spiel/feuer.mp3",
+  "audio/de-fr/spiel/fini.mp3",
+  "audio/de-fr/spiel/monat.mp3",
+  "audio/de-fr/spiel/titel_1.mp3",
+  "audio/de-fr/spiel/titel_2.mp3",
+  "audio/de-fr/spiel/titel_3.mp3",
+  "audio/de-fr/spiel/titel_4.mp3",
+  "audio/de-fr/spiel/titel_5.mp3",
+  "audio/de-fr/spiel/titel_6.mp3",
+  "audio/de-fr/spiel/woche.mp3",
+  "audio/de-fr/wendungen/ul_01.mp3",
+  "audio/de-fr/wendungen/ul_02.mp3",
+  "audio/de-fr/wendungen/ul_03.mp3",
+  "audio/de-fr/wendungen/ul_04.mp3",
+  "audio/de-fr/wendungen/ul_05.mp3",
+  "audio/de-fr/wendungen/ul_06.mp3",
+  "audio/de-fr/wendungen/ul_07.mp3",
+  "audio/de-fr/wendungen/ul_08.mp3",
+  "audio/de-fr/wendungen/ul_09.mp3",
+  "audio/de-fr/wendungen/ul_10.mp3",
+  "audio/de-fr/wendungen/ul_11.mp3",
+  "audio/de-fr/wendungen/ul_12.mp3",
+  "audio/de-fr/wendungen/ul_13.mp3",
+  "audio/de-fr/wendungen/ul_14.mp3",
+  "audio/de-fr/wendungen/ul_15.mp3",
+  "audio/de-fr/wendungen/ul_16.mp3",
+  "audio/de-fr/wendungen/ul_17.mp3",
+  "audio/de-fr/wendungen/ul_18.mp3",
+  "audio/de-fr/wendungen/ul_19.mp3",
+  "audio/de-fr/wendungen/ul_20.mp3",
+  "audio/de-fr/wendungen/ul_21.mp3",
+  "audio/de-fr/wendungen/ul_22.mp3",
+  "audio/de-fr/wendungen/ul_23.mp3",
+  "audio/de-fr/wendungen/ul_24.mp3"
+ ]
 };
