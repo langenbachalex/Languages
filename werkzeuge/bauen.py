@@ -11,7 +11,7 @@ BASIS = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 APP = os.path.join(BASIS, "app")
 SCHRIFT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
-PAKETE = ["fr_de", "es_de", "it_de"]   # Reihenfolge = Reihenfolge im Umschalter
+PAKETE = ["fr_de", "es_de", "it_de", "de_fr"]   # Reihenfolge = Reihenfolge im Umschalter
 # Tagespensum (Mr. Alex, 13.10.): 3 neue Wendungen, höchstens 8 Wiederholungen – pro Sprache
 PENSUM = {"neu": 3, "wiederholung": 8}
 # Leitner-Stufen: nach so vielen Tagen kommt eine Wendung wieder (Stufe 0 = neu / vergessen)
