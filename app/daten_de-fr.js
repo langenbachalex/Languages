@@ -443,6 +443,38 @@ window.SPRACHEN["de-fr"] = {
     "sp_23",
     "sp_24"
    ]
+  },
+  {
+   "id": "essen",
+   "name": "Essen und gut leben",
+   "de": "Manger et bien vivre",
+   "symbol": "🥨",
+   "wendungen": [
+    "es_01",
+    "es_02",
+    "es_03",
+    "es_04",
+    "es_05",
+    "es_06",
+    "es_07",
+    "es_08",
+    "es_09",
+    "es_10",
+    "es_11",
+    "es_12",
+    "es_13",
+    "es_14",
+    "es_15",
+    "es_16",
+    "es_17",
+    "es_18",
+    "es_19",
+    "es_20",
+    "es_21",
+    "es_22",
+    "es_23",
+    "es_24"
+   ]
   }
  ],
  "wendungen": [
@@ -3521,6 +3553,531 @@ window.SPRACHEN["de-fr"] = {
     "de": "Bonjour, est-ce que je peux m'inscrire au cours du mardi soir ?",
     "luecke": "kann ich mich für den Kurs am Dienstagabend anmelden",
     "audio": "audio/de-fr/saetze/sp_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_01",
+   "thema": "essen",
+   "fr": "ausgewogen essen",
+   "de": "manger équilibré",
+   "register": "tu",
+   "anker": "essen",
+   "notiz": "ausgewogen = équilibré (wiegen = peser) ; versuchen + zu + infinitif. essen, participe gegessen (double ge- !). zählen = compter. ab Montag = à partir de lundi.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
+    "de": "J'essaie de manger équilibré. Le croissant du matin ne compte pas.",
+    "luecke": "ausgewogen zu essen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Diese Woche habe ich ausgewogen gegessen. Außer freitags.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde ausgewogen essen. Ab Montag.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_02",
+   "thema": "essen",
+   "fr": "früh ins Bett gehen",
+   "de": "se coucher tôt",
+   "register": "tu",
+   "anker": "gehen",
+   "notiz": "ins Bett gehen = aller au lit (ins = in das, accusatif, direction) ; früh = tôt, spät = tard. sonntags = le dimanche (habitude). den Rest der Woche = accusatif de durée + génitif.",
+   "audio": null,
+   "satz": {
+    "fr": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
+    "de": "Je me couche tôt le dimanche. Le reste de la semaine, j'essaie.",
+    "luecke": "gehe ich früh ins Bett",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Gestern bin ich früh ins Bett gegangen. Na ja, vor Mitternacht.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Heute Abend werde ich früh ins Bett gehen. Wirklich.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_03",
+   "thema": "essen",
+   "fr": "auf sich achten",
+   "de": "prendre soin de soi",
+   "register": "tu",
+   "anker": "achten",
+   "notiz": "achten auf + accusatif = faire attention à, veiller sur ; auf sich achten = prendre soin de soi (aussi : sich um sich kümmern). heißen = signifier. sogar = même ; das Stück Kuchen = la part de gâteau.",
+   "audio": null,
+   "satz": {
+    "fr": "Auf sich achten heißt auch, Nein zu sagen. Sogar zu einem Stück Kuchen.",
+    "de": "Prendre soin de soi, c'est aussi dire non. Même à un éclair.",
+    "luecke": "Auf sich achten",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_04",
+   "thema": "essen",
+   "fr": "einkaufen gehen",
+   "de": "faire les courses",
+   "register": "tu",
+   "anker": "einkaufen",
+   "notiz": "einkaufen = faire les courses (particule séparable : kaufe … ein ; der Einkauf = les courses) ; gehen + infinitif. shoppen gehen = faire du shopping. die Sachen = les choses, les affaires.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich gehe samstags einkaufen, mit einer Liste. Ich komme mit anderen Sachen zurück.",
+    "de": "Je fais les courses le samedi, avec une liste. Je rentre avec autre chose.",
+    "luecke": "gehe samstags einkaufen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich bin heute Morgen einkaufen gegangen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde morgen einkaufen gehen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_05",
+   "thema": "essen",
+   "fr": "kochen",
+   "de": "cuisiner",
+   "register": "tu",
+   "anker": "kochen",
+   "notiz": "kochen = cuisiner, et aussi bouillir (das Wasser kocht) ; der Koch / die Köchin = le cuisinier. überwachen = surveiller (particule inséparable). etwas Einfaches = quelque chose de simple.",
+   "audio": null,
+   "satz": {
+    "fr": "Abends koche ich mit Musik. Die Katze überwacht alles.",
+    "de": "Le soir, je cuisine en écoutant de la musique. Le chat supervise.",
+    "luecke": "koche",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe eine Quiche für Aurélien gekocht.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde etwas Einfaches kochen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_06",
+   "thema": "essen",
+   "fr": "ein Gericht",
+   "de": "un plat",
+   "register": "tu",
+   "anker": "kochen",
+   "notiz": "das Gericht = le plat (et le tribunal !) ; das Lieblingsgericht = le plat préféré (Lieblings- + nom). das, das … = celui que (relative, verbe à la fin : gekocht hat). jemand anderes = quelqu'un d'autre.",
+   "audio": null,
+   "satz": {
+    "fr": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
+    "de": "Mon plat préféré ? Celui que quelqu'un d'autre a préparé.",
+    "luecke": "Lieblingsgericht",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_07",
+   "thema": "essen",
+   "fr": "ein bisschen Hunger haben",
+   "de": "avoir un petit creux",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "ein bisschen = un peu ; Hunger haben = avoir faim ; plus imagé : Appetit auf etwas haben, ein Hüngerchen haben (diminutif, familier). um vier = à quatre heures ; fünf nach vier = quatre heures cinq.",
+   "audio": null,
+   "satz": {
+    "fr": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
+    "de": "À seize heures, j'ai un petit creux. À seize heures cinq aussi.",
+    "luecke": "habe ich ein bisschen Hunger",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Um vier hatte ich ein bisschen Hunger.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Um vier werde ich ein bisschen Hunger haben. Wie immer.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_08",
+   "thema": "essen",
+   "fr": "sich den Bauch vollschlagen",
+   "de": "se régaler",
+   "register": "tu",
+   "anker": "vollschlagen",
+   "notiz": "littéralement « se frapper le ventre plein » = s'empiffrer, se régaler (familier ; der Bauch = le ventre) ; plus poli : es sich schmecken lassen. bei + datif = chez. schicken = envoyer.",
+   "audio": null,
+   "satz": {
+    "fr": "Bei Aurélien schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
+    "de": "Chez Aurélien, on se régale. Sa mère lui envoie des recettes.",
+    "luecke": "schlagen wir uns den Bauch voll",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Bei Aurélien haben wir uns den Bauch vollgeschlagen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Bei Aurélien werden wir uns den Bauch vollschlagen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_09",
+   "thema": "essen",
+   "fr": "Guten Appetit!",
+   "de": "bon appétit !",
+   "register": "tu",
+   "anker": "–",
+   "notiz": "Guten Appetit ! = bon appétit (accusatif : guten) – en Allemagne, on le dit toujours, même en famille (aussi : Mahlzeit ! au travail, vers midi). gleichfalls = pareillement, toi aussi.",
+   "audio": null,
+   "satz": {
+    "fr": "« Guten Appetit! » – « Danke, gleichfalls. » – « Ich esse nichts. » – « Ah. »",
+    "de": "« Bon appétit ! » – « Merci, toi aussi. » – « Moi, je ne mange pas. » – « Ah. »",
+    "luecke": "Guten Appetit",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_10",
+   "thema": "essen",
+   "fr": "eine Bäckerei",
+   "de": "une boulangerie",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "die Bäckerei = la boulangerie (der Bäcker = le boulanger ; -ei = le lieu) ; die Konditorei = la pâtisserie. neben + datif = à côté de. ein gutes Problem (neutre, nominatif : -es).",
+   "audio": null,
+   "satz": {
+    "fr": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein gutes Problem.",
+    "de": "Il y a une boulangerie à côté de l'école. C'est un problème. Un bon problème.",
+    "luecke": "Bäckerei",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_11",
+   "thema": "essen",
+   "fr": "Wasser trinken",
+   "de": "boire de l'eau",
+   "register": "tu",
+   "anker": "trinken",
+   "notiz": "trinken, participe getrunken ; Wasser sans article (partitif). den ganzen Tag = toute la journée (accusatif de durée). dazwischen = entre les deux. Attention : einen Kaffee = accusatif masculin.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser kommt dazwischen.",
+    "de": "Je bois de l'eau toute la journée. Et un café. Ou deux. L'eau, c'est entre.",
+    "luecke": "trinke den ganzen Tag Wasser",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe den ganzen Tag Wasser getrunken.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde Wasser trinken. Mehr.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_12",
+   "thema": "essen",
+   "fr": "naschen",
+   "de": "grignoter",
+   "register": "tu",
+   "anker": "naschen",
+   "notiz": "naschen = grignoter des sucreries (die Naschkatze = le gourmand de sucré !) ; knabbern = grignoter (salé). für jeden Fehler = pour chaque faute (accusatif). ein Stück Schokolade = un morceau de chocolat.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich nasche beim Korrigieren. Für jeden Fehler ein Stück Schokolade.",
+    "de": "Je grignote devant les copies. Chaque faute, un carré de chocolat.",
+    "luecke": "nasche",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe den ganzen Nachmittag genascht.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde heute Abend nicht naschen. Mal sehen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_13",
+   "thema": "essen",
+   "fr": "sich wohl in seiner Haut fühlen",
+   "de": "être bien dans sa peau",
+   "register": "tu",
+   "anker": "fühlen",
+   "notiz": "identique au français : die Haut = la peau ; in meiner Haut = datif ; sich wohlfühlen. vorher = avant (adverbe) ; weniger = moins. Le contraire : sich unwohl fühlen, nicht in seiner Haut stecken.",
+   "audio": null,
+   "satz": {
+    "fr": "Nach dem Sport fühle ich mich wohl in meiner Haut. Vorher auch, aber weniger.",
+    "de": "Après le sport, je suis bien dans ma peau. Avant, aussi, mais moins.",
+    "luecke": "fühle ich mich wohl in meiner Haut",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_14",
+   "thema": "essen",
+   "fr": "eine Pause machen",
+   "de": "faire une pause",
+   "register": "tu",
+   "anker": "machen",
+   "notiz": "eine Pause machen = faire une pause (die Pause = la pause, la récré) ; jede Stunde = chaque heure (accusatif) ; dauern = durer ; manchmal = parfois. jetzt = maintenant.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
+    "de": "Je fais une pause toutes les heures. Parfois, la pause dure une heure.",
+    "luecke": "mache jede Stunde eine Pause",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe zehn Minuten Pause gemacht.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde eine Pause machen. Jetzt.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_15",
+   "thema": "essen",
+   "fr": "wie ein Murmeltier schlafen",
+   "de": "dormir comme un bébé",
+   "register": "tu",
+   "anker": "schlafen",
+   "notiz": "das Murmeltier = la marmotte (l'expression française existe aussi !) ; aussi : wie ein Stein schlafen, wie ein Baby schlafen. schnarchen = ronfler. Relative neutre : das schnarcht.",
+   "audio": null,
+   "satz": {
+    "fr": "Nach dem Kung-Fu schlafe ich wie ein Murmeltier. Ein Murmeltier, das schnarcht.",
+    "de": "Après le kung-fu, je dors comme un bébé. Un bébé qui ronfle.",
+    "luecke": "schlafe ich wie ein Murmeltier",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe wie ein Murmeltier geschlafen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde wie ein Murmeltier schlafen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_16",
+   "thema": "essen",
+   "fr": "fit und munter sein",
+   "de": "avoir la pêche",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "munter = éveillé, gaillard (munter werden = se réveiller) ; fit und munter = en pleine forme (expression figée). verdächtig = suspect. es ist sechs Uhr = il est six heures.",
+   "audio": null,
+   "satz": {
+    "fr": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
+    "de": "Ce matin, j'ai la pêche ! C'est suspect. Il est six heures.",
+    "luecke": "fit und munter",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_17",
+   "thema": "essen",
+   "fr": "frische Luft schnappen",
+   "de": "prendre l'air",
+   "register": "tu",
+   "anker": "schnappen",
+   "notiz": "frische Luft schnappen = « attraper de l'air frais » (schnappen = happer) ; aussi : an die frische Luft gehen. das Handy = le portable (faux anglicisme !). na ja = enfin, bon.",
+   "audio": null,
+   "satz": {
+    "fr": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
+    "de": "À midi, je prends l'air dix minutes. Sans téléphone. Enfin, presque.",
+    "luecke": "schnappe ich zehn Minuten frische Luft",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mittags habe ich frische Luft geschnappt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mittags werde ich frische Luft schnappen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_18",
+   "thema": "essen",
+   "fr": "ein Rezept",
+   "de": "une recette",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "das Rezept = la recette, et l'ordonnance du médecin (comme en français… mais sans ordonnance : rezeptfrei = en vente libre). die Quiche Lorraine, bien connue en Sarre. von seiner Mutter = datif.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich habe ein Rezept für Quiche. Es kommt von Aurélien, der es von seiner Mutter hat.",
+    "de": "J'ai une recette de quiche. Elle vient d'Aurélien, qui la tient de sa mère.",
+    "luecke": "Rezept",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_19",
+   "thema": "essen",
+   "fr": "probieren",
+   "de": "goûter",
+   "register": "tu",
+   "anker": "probieren",
+   "notiz": "probieren = goûter, essayer (sans ge- au participe : probiert) ; impératif probier ! ; aussi : kosten (goûter). dürfen = avoir le droit (du darfst) ; mögen = aimer (ich mag es nicht).",
+   "audio": null,
+   "satz": {
+    "fr": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
+    "de": "Goûte ça. Non, vraiment, goûte. Ensuite, tu peux dire que tu n'aimes pas.",
+    "luecke": "Probier",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe probiert. Ich mag es nicht.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde probieren. Ein kleines bisschen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_20",
+   "thema": "essen",
+   "fr": "das ist köstlich",
+   "de": "c'est délicieux",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "köstlich = délicieux (die Köstlichkeit = le délice) ; plus courant : lecker ! (familier, très allemand). das willst du lieber nicht wissen = tu préfères ne pas le savoir (lieber = plutôt).",
+   "audio": null,
+   "satz": {
+    "fr": "Das ist köstlich! Was ist das? – Das willst du lieber nicht wissen.",
+    "de": "C'est délicieux ! Qu'est-ce que c'est ? – Il vaut mieux ne pas savoir.",
+    "luecke": "köstlich",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_21",
+   "thema": "essen",
+   "fr": "Durst haben",
+   "de": "avoir soif",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "Durst haben = avoir soif (durstig = assoiffé) ; Durst nach + datif = soif de (figuré). der Sportunterricht = le cours de sport. die Schüler = les élèves (der Schüler, die Schülerin).",
+   "audio": null,
+   "satz": {
+    "fr": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
+    "de": "Après le cours de sport, les élèves ont soif. Moi, j'ai soif de silence.",
+    "luecke": "haben die Schüler Durst",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Nach dem Sport hatten die Schüler Durst.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Nach dem Sport werden die Schüler Durst haben.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "es_22",
+   "thema": "essen",
+   "fr": "mit dem richtigen Fuß aufstehen",
+   "de": "se lever du bon pied",
+   "register": "tu",
+   "anker": "aufstehen",
+   "notiz": "aufstehen = se lever (particule séparable, participe aufgestanden avec sein) ; mit dem falschen Fuß aufstehen = se lever du pied gauche. der Fuß = le pied ; links / rechts = gauche / droite.",
+   "audio": null,
+   "satz": {
+    "fr": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
+    "de": "Aujourd'hui, je me suis levé du bon pied. Le gauche. Comme d'habitude.",
+    "luecke": "bin ich mit dem richtigen Fuß aufgestanden",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_23",
+   "thema": "essen",
+   "fr": "ein kleines Vergnügen",
+   "de": "un petit plaisir",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "das Vergnügen = le plaisir (mit Vergnügen = avec plaisir) ; sich etwas gönnen = se faire plaisir, s'accorder quelque chose. am Tag = par jour. noch ein = encore un.",
+   "audio": null,
+   "satz": {
+    "fr": "Ein kleines Vergnügen am Tag. Heute: ein Stück Kuchen. Morgen: noch ein Stück Kuchen.",
+    "de": "Un petit plaisir par jour. Aujourd'hui : une tarte. Demain : une autre tarte.",
+    "luecke": "kleines Vergnügen",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "es_24",
+   "thema": "essen",
+   "fr": "Ich hätte gern ein Brötchen, bitte.",
+   "de": "je voudrais une baguette, s'il vous plaît",
+   "register": "vous",
+   "anker": "haben",
+   "notiz": "ich hätte gern = je voudrais (Konjunktiv II de haben + gern) – la formule pour commander ; ich will serait impoli. das Brötchen = le petit pain (le pain allemand par excellence ; en Sarre on dit aussi Weck). bitte = s'il vous plaît.",
+   "audio": null,
+   "satz": {
+    "fr": "Guten Tag, ich hätte gern ein Brötchen, bitte. Nicht zu dunkel.",
+    "de": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
+    "luecke": "hätte gern",
+    "audio": null
    },
    "zeit": null
   }
