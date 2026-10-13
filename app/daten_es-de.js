@@ -5133,7 +5133,162 @@ window.SPRACHEN["es-de"] = {
    "zeit": null
   }
  ],
- "dialoge": [],
+ "dialoge": [
+  {
+   "id": "d1",
+   "titel": "El viernes por la tarde",
+   "ort": "Sala de profes",
+   "zeilen": [
+    {
+     "id": "d1_01",
+     "rolle": "A",
+     "fr": "¡Hola, Diego! ¡Cuánto tiempo!",
+     "de": "Hallo Diego! Lange nicht gesehen!",
+     "audio": null
+    },
+    {
+     "id": "d1_02",
+     "rolle": "B",
+     "fr": "Hola, Alex. Tres días. Pero sí, una eternidad.",
+     "de": "Hallo Alex. Drei Tage. Aber ja, eine Ewigkeit.",
+     "audio": null
+    },
+    {
+     "id": "d1_03",
+     "rolle": "A",
+     "fr": "¿Qué tal ha ido la clase con los de tercero?",
+     "de": "Wie ist die Stunde mit den Neunern gelaufen?",
+     "audio": null
+    },
+    {
+     "id": "d1_04",
+     "rolle": "B",
+     "fr": "Muy bien. Se han dormido. Yo también, casi.",
+     "de": "Sehr gut. Sie sind eingeschlafen. Ich fast auch.",
+     "audio": null
+    },
+    {
+     "id": "d1_05",
+     "rolle": "A",
+     "fr": "A mí me cuesta que se callen los viernes.",
+     "de": "Ich kriege sie freitags kaum ruhig.",
+     "audio": null
+    },
+    {
+     "id": "d1_06",
+     "rolle": "B",
+     "fr": "Fácil. Hablas de gramática. Silencio total.",
+     "de": "Ganz einfach. Du redest über Grammatik. Totenstille.",
+     "audio": null
+    },
+    {
+     "id": "d1_07",
+     "rolle": "A",
+     "fr": "¿Y tú? ¿No estás hecho polvo?",
+     "de": "Und du? Bist du nicht fix und fertig?",
+     "audio": null
+    },
+    {
+     "id": "d1_08",
+     "rolle": "B",
+     "fr": "Sí. O sea, esta noche corrijo exámenes… delante de una película.",
+     "de": "Doch. Also korrigiere ich heute Abend Arbeiten … vor einem Film.",
+     "audio": null
+    },
+    {
+     "id": "d1_09",
+     "rolle": "A",
+     "fr": "¿Una buena película?",
+     "de": "Ein guter Film?",
+     "audio": null
+    },
+    {
+     "id": "d1_10",
+     "rolle": "B",
+     "fr": "Ni idea. Miro los exámenes.",
+     "de": "Keine Ahnung. Ich schaue die Arbeiten an.",
+     "audio": null
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "titel": "El gato melancólico",
+   "ort": "Delante de la máquina de café",
+   "zeilen": [
+    {
+     "id": "d2_01",
+     "rolle": "B",
+     "fr": "¿Qué pasa, Alex? Tienes cara de bajón.",
+     "de": "Was ist los, Alex? Du siehst niedergeschlagen aus.",
+     "audio": null
+    },
+    {
+     "id": "d2_02",
+     "rolle": "A",
+     "fr": "Estoy de bajón. Mi gato ya no me mira.",
+     "de": "Ich bin niedergeschlagen. Meine Katze schaut mich nicht mehr an.",
+     "audio": null
+    },
+    {
+     "id": "d2_03",
+     "rolle": "B",
+     "fr": "¿Desde cuándo?",
+     "de": "Seit wann?",
+     "audio": null
+    },
+    {
+     "id": "d2_04",
+     "rolle": "A",
+     "fr": "Desde que canté en español.",
+     "de": "Seit ich auf Spanisch gesungen habe.",
+     "audio": null
+    },
+    {
+     "id": "d2_05",
+     "rolle": "B",
+     "fr": "Ah. ¿Y qué cantaste?",
+     "de": "Ah. Und was hast du gesungen?",
+     "audio": null
+    },
+    {
+     "id": "d2_06",
+     "rolle": "A",
+     "fr": "« Volver ». A grito pelado. Dos veces.",
+     "de": "„Volver“. Aus voller Kehle. Zweimal.",
+     "audio": null
+    },
+    {
+     "id": "d2_07",
+     "rolle": "B",
+     "fr": "Alex… me parte el alma, pero tu gato tiene razón.",
+     "de": "Alex … das bricht mir das Herz, aber deine Katze hat recht.",
+     "audio": null
+    },
+    {
+     "id": "d2_08",
+     "rolle": "A",
+     "fr": "¿Te parece inquietante?",
+     "de": "Findest du das beunruhigend?",
+     "audio": null
+    },
+    {
+     "id": "d2_09",
+     "rolle": "B",
+     "fr": "No. Me parece relajante. Para el gato se ha acabado.",
+     "de": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
+     "audio": null
+    },
+    {
+     "id": "d2_10",
+     "rolle": "A",
+     "fr": "Gracias, Diego. Me llega. Creo.",
+     "de": "Danke, Diego. Das berührt mich. Glaube ich.",
+     "audio": null
+    }
+   ]
+  }
+ ],
  "rollen": {
   "A": "Alex",
   "B": "Diego"
