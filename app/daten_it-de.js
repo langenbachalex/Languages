@@ -4112,21 +4112,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dormire",
    "notiz": "wörtlich „die ganze Nacht schlafen“ – kein eigenes Wort für durchschlafen (auch: fare le notti intere, dormire di filato). lei, non ancora = betontes Pronomen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_01.mp3",
    "satz": {
     "fr": "Il bambino della mia collega dorme tutta la notte. Lei, non ancora.",
     "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
     "luecke": "dorme tutta la notte",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha dormito tutta la notte.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_01_pc.mp3"
     },
     "fp": {
      "fr": "Il bambino dormirà tutta la notte. Un giorno.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_01_fp.mp3"
     }
    }
   },
@@ -4138,12 +4138,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dormire",
    "notiz": "il peluche = Kuscheltier (aus dem Französischen, unveränderlich: i peluche); auch: il pupazzo. soprattutto = vor allem (doppeltes t!).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_02.mp3",
    "satz": {
     "fr": "Senza il suo peluche, impossibile dormire. Parlo del bambino. Beh, soprattutto.",
     "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
     "luecke": "peluche",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_02.mp3"
    },
    "zeit": null
   },
@@ -4155,21 +4155,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "combinare",
    "notiz": "siehe I gatti: il guaio = Ärger; auch: fare marachelle (Streiche). il mestiere = Beruf, Handwerk; il mio = meiner (Possessivpronomen mit Artikel).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_03.mp3",
    "satz": {
     "fr": "I bambini combinano guai. È il loro mestiere. Il mio è sorridere.",
     "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "luecke": "combinano guai",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_03.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hanno combinato guai tutta la mattina.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_03_pc.mp3"
     },
     "fp": {
      "fr": "Combineranno guai, sicuro.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_03_fp.mp3"
     }
    }
   },
@@ -4181,21 +4181,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendere",
    "notiz": "wörtlich „in Arm nehmen“ (Singular! in braccio, ohne Artikel); tenere in braccio = auf dem Arm halten. lo si prende = man nimmt es (lo + si).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_04.mp3",
    "satz": {
     "fr": "Quando un bambino piange, lo si prende in braccio. È l'unica regola.",
     "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "luecke": "prende in braccio",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "L'ho preso in braccio.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_04_pc.mp3"
     },
     "fp": {
      "fr": "Lo prenderò in braccio.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_04_fp.mp3"
     }
    }
   },
@@ -4207,12 +4207,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dire",
    "notiz": "il neonato = Neugeborenes (neo + nato = neu geboren); il bambino = Kind, Baby; il bebè geht auch. dice tutto = sagt alles.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_05.mp3",
    "satz": {
     "fr": "Un neonato non parla, ma dice tutto.",
     "de": "Ein Baby spricht nicht, aber es sagt alles.",
     "luecke": "neonato",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_05.mp3"
    },
    "zeit": null
   },
@@ -4224,21 +4224,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare un sorriso a qualcuno = jemanden anlächeln; sorridere = lächeln; il sorriso = das Lächeln. salvo = gerettet, sicher. la giornata = der Tag (Verlauf).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_06.mp3",
    "satz": {
     "fr": "Il bambino mi ha fatto un sorriso. La giornata era salva.",
     "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "luecke": "mi ha fatto un sorriso",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino mi ha fatto un sorriso.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_06_pc.mp3"
     },
     "fp": {
      "fr": "Il bambino mi farà un sorriso. Sto aspettando.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_06_fp.mp3"
     }
    }
   },
@@ -4250,21 +4250,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "crescere",
    "notiz": "crescere = wachsen, Partizip cresciuto, mit essere; in fretta = schnell, eilig (la fretta = Eile); invece = dagegen, hingegen; restare = bleiben.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_07.mp3",
    "satz": {
     "fr": "I bambini crescono troppo in fretta. I compiti, invece, restano.",
     "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
     "luecke": "crescono",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Sono cresciuti durante le vacanze.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_07_pc.mp3"
     },
     "fp": {
      "fr": "Cresceranno, e io invecchierò.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_07_fp.mp3"
     }
    }
   },
@@ -4276,21 +4276,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare fatica a → ad vor Vokal (ad addormentarsi); addormentarsi = einschlafen (dormire = schlafen). più piano = leiser (piano = leise, langsam).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_08.mp3",
    "satz": {
     "fr": "Il piccolo fa fatica ad addormentarsi. Allora canto. Funziona. Piange più piano.",
     "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "luecke": "fa fatica ad addormentarsi",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto fatica ad addormentarsi.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_08_pc.mp3"
     },
     "fp": {
      "fr": "Farà fatica ad addormentarsi.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_08_fp.mp3"
     }
    }
   },
@@ -4302,12 +4302,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cambiare",
    "notiz": "il pannolino = Windel (il panno = Tuch + -lino = klein); cambiare il pannolino = wickeln. questa sì che è = das ist wirklich (Verstärkung).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_09.mp3",
    "satz": {
     "fr": "Cambiare un pannolino in tre minuti: questa sì che è una vera sequenza di kung fu.",
     "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "luecke": "pannolino",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_09.mp3"
    },
    "zeit": null
   },
@@ -4319,12 +4319,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "wörtlich „den Braven machen“; fai il bravo / fai la brava (an ein Mädchen); bravo = brav und tüchtig, gut (bravo! = gut gemacht). la lavatrice = Waschmaschine.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_10.mp3",
    "satz": {
     "fr": "« Fai il bravo! » – « Faccio il bravo. » – « E perché il gatto è nella lavatrice? »",
     "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
     "luecke": "Fai il bravo",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_10.mp3"
    },
    "zeit": null
   },
@@ -4336,21 +4336,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "giocare",
    "notiz": "giocare a + Spiel (giocare a calcio, a carte); il nascondino = Versteckspiel (nascondersi); la tenda = Vorhang und Zelt. fuori = draußen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_11.mp3",
    "satz": {
     "fr": "Giochiamo a nascondino. Si nasconde sempre dietro la tenda. Con i piedi fuori.",
     "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "luecke": "Giochiamo a nascondino",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Abbiamo giocato a nascondino tutto il pomeriggio.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_11_pc.mp3"
     },
     "fp": {
      "fr": "Giocheremo a nascondino dopo la merenda.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_11_fp.mp3"
     }
    }
   },
@@ -4362,21 +4362,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "raccontare",
    "notiz": "la favola della buonanotte = Gute-Nacht-Geschichte; per farlo addormentare = damit er einschläft (fare + Infinitiv). dormo io = ich bin der, der schläft (io nachgestellt).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_12.mp3",
    "satz": {
     "fr": "Racconto una favola per farlo addormentare. Dopo tre pagine, dormo io.",
     "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "luecke": "Racconto una favola",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho raccontato una favola.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_12_pc.mp3"
     },
     "fp": {
      "fr": "Racconterò una favola.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_12_fp.mp3"
     }
    }
   },
@@ -4388,21 +4388,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "piangere",
    "notiz": "piangere = weinen, Partizip pianto; ridere = lachen, Partizip riso. Nicht verwechseln: piangere (weinen) – piovere (regnen).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_13.mp3",
    "satz": {
     "fr": "Il bambino piange. Poi ride. Poi piange. È un concerto.",
     "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "luecke": "piange",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_13.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha pianto tutta la notte.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_13_pc.mp3"
     },
     "fp": {
      "fr": "Il bambino piangerà, e io canterò.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_13_fp.mp3"
     }
    }
   },
@@ -4414,12 +4414,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cominciare",
    "notiz": "il braccio = Arm → l'abbraccio = Umarmung (abbracciare = umarmen); „un abbraccio“ auch als Briefschluss. tutti e due = beide.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_14.mp3",
    "satz": {
     "fr": "Un abbraccio prima della scuola, e la giornata comincia bene. Per tutti e due.",
     "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "luecke": "abbraccio",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_14.mp3"
    },
    "zeit": null
   },
@@ -4431,21 +4431,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "imparare",
    "notiz": "imparare a + Infinitiv; camminare = gehen, laufen (zu Fuß), correre = rennen. il passo = Schritt; la caduta = Sturz; la risata = das Lachen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_15.mp3",
    "satz": {
     "fr": "Impara a camminare. Tre passi, una caduta, una risata. La vita in miniatura.",
     "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "luecke": "Impara a camminare",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ha imparato a camminare quest'estate.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_15_pc.mp3"
     },
     "fp": {
      "fr": "Imparerà a camminare presto.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_15_fp.mp3"
     }
    }
   },
@@ -4457,12 +4457,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "fiero / fiera = stolz; essere fiero di (nicht „auf“!) – di + i = dei; auch: orgoglioso di. la fierezza, l'orgoglio = der Stolz.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_16.mp3",
    "satz": {
     "fr": "Sono fiero dei miei alunni. Soprattutto quando non lo sanno.",
     "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "luecke": "fiero dei",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_16.mp3"
    },
    "zeit": null
   },
@@ -4474,12 +4474,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "la parola = Wort; le prime parole (weiblich Plural: prime). in quest'ordine = in dieser Reihenfolge (questo verkürzt vor Vokal). papà mit Akzent (ohne = der Papst!).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_17.mp3",
    "satz": {
     "fr": "Le sue prime parole: « papà », « gatto », « no ». In quest'ordine.",
     "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
     "luecke": "prime parole",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_17.mp3"
    },
    "zeit": null
   },
@@ -4491,21 +4491,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "bisogna + Infinitiv = man muss; ne ho = ich habe welche (ne = davon); pazienza! = was soll's (sehr häufig). finire = enden, mit -isc-: finisce.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_18.mp3",
    "satz": {
     "fr": "Con i bambini bisogna avere pazienza. Ne ho. Finisce alle cinque.",
     "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
     "luecke": "avere pazienza",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho avuto pazienza tutto il giorno.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_18_pc.mp3"
     },
     "fp": {
      "fr": "Avrò pazienza. Fino a mezzogiorno.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_18_fp.mp3"
     }
    }
   },
@@ -4517,12 +4517,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "la merenda = Nachmittagssnack (fare merenda), feste Einrichtung für Kinder in Italien (pane e Nutella, pane e pomodoro). per solidarietà = aus Solidarität.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_19.mp3",
    "satz": {
     "fr": "Alle quattro c'è la merenda. Per i bambini. E per me, per solidarietà.",
     "de": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "luecke": "merenda",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_19.mp3"
    },
    "zeit": null
   },
@@ -4534,21 +4534,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "ridere",
    "notiz": "wörtlich „lachen, bis die Haut platzt“ (crepare = platzen, la pelle = Haut); auch: ridere a più non posso. starnutire = niesen; in effetti = tatsächlich, übrigens.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_20.mp3",
    "satz": {
     "fr": "Il bambino ride a crepapelle quando il gatto starnutisce. Anch'io, in effetti.",
     "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "luecke": "ride a crepapelle",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha riso a crepapelle.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_20_pc.mp3"
     },
     "fp": {
      "fr": "Il bambino riderà a crepapelle.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_20_fp.mp3"
     }
    }
   },
@@ -4560,21 +4560,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "il riposino = kleines Ausruhen (il riposo = Ruhe + -ino); auch: fare un pisolino, la pennichella (römisch). i piccoli / i grandi = die Kleinen / die Großen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_21.mp3",
    "satz": {
     "fr": "I piccoli fanno il riposino. I grandi anche, in segreto.",
     "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "luecke": "fanno il riposino",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "I piccoli hanno fatto il riposino.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_21_pc.mp3"
     },
     "fp": {
      "fr": "I piccoli faranno il riposino.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ba_21_fp.mp3"
     }
    }
   },
@@ -4586,12 +4586,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il buio = die Dunkelheit (buio = dunkel); avere paura di + il = del. lasciare aperto = offen lassen; di guardia = auf Wache (essere di guardia = Bereitschaft haben).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_22.mp3",
    "satz": {
     "fr": "Ha paura del buio. Allora lasciamo la porta aperta. E il gatto di guardia.",
     "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
     "luecke": "Ha paura del buio",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_22.mp3"
    },
    "zeit": null
   },
@@ -4603,12 +4603,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il bagnetto = Babybad (il bagno = Bad, Badezimmer + -etto); fare il bagno = baden; bagnato = nass (bagnare = nass machen). anche quelli che = auch die, die.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_23.mp3",
    "satz": {
     "fr": "È l'ora del bagnetto! Sono tutti bagnati. Anche quelli che non fanno il bagno.",
     "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "luecke": "l'ora del bagnetto",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_23.mp3"
    },
    "zeit": null
   },
@@ -4620,12 +4620,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "avere",
    "notiz": "Alter mit avere: ha due anni; quanti anni ha? = wie alt ist er / sind Sie (Lei). suo figlio = Ihr Sohn (Lei-Form, oft Suo groß). il dente, Plural i denti.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ba_24.mp3",
    "satz": {
     "fr": "È adorabile. Quanti anni ha suo figlio? – Quattordici mesi. E quattro denti.",
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Quanti anni ha suo figlio",
-    "audio": null
+    "audio": "audio/it-de/saetze/ba_24.mp3"
    },
    "zeit": null
   }
@@ -5497,6 +5497,56 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/lob/stark_volevo.mp3",
   "audio/it-de/lob/stark_voli.mp3",
   "audio/it-de/lob/voll_senza_errori.mp3",
+  "audio/it-de/saetze/ba_01.mp3",
+  "audio/it-de/saetze/ba_01_fp.mp3",
+  "audio/it-de/saetze/ba_01_pc.mp3",
+  "audio/it-de/saetze/ba_02.mp3",
+  "audio/it-de/saetze/ba_03.mp3",
+  "audio/it-de/saetze/ba_03_fp.mp3",
+  "audio/it-de/saetze/ba_03_pc.mp3",
+  "audio/it-de/saetze/ba_04.mp3",
+  "audio/it-de/saetze/ba_04_fp.mp3",
+  "audio/it-de/saetze/ba_04_pc.mp3",
+  "audio/it-de/saetze/ba_05.mp3",
+  "audio/it-de/saetze/ba_06.mp3",
+  "audio/it-de/saetze/ba_06_fp.mp3",
+  "audio/it-de/saetze/ba_06_pc.mp3",
+  "audio/it-de/saetze/ba_07.mp3",
+  "audio/it-de/saetze/ba_07_fp.mp3",
+  "audio/it-de/saetze/ba_07_pc.mp3",
+  "audio/it-de/saetze/ba_08.mp3",
+  "audio/it-de/saetze/ba_08_fp.mp3",
+  "audio/it-de/saetze/ba_08_pc.mp3",
+  "audio/it-de/saetze/ba_09.mp3",
+  "audio/it-de/saetze/ba_10.mp3",
+  "audio/it-de/saetze/ba_11.mp3",
+  "audio/it-de/saetze/ba_11_fp.mp3",
+  "audio/it-de/saetze/ba_11_pc.mp3",
+  "audio/it-de/saetze/ba_12.mp3",
+  "audio/it-de/saetze/ba_12_fp.mp3",
+  "audio/it-de/saetze/ba_12_pc.mp3",
+  "audio/it-de/saetze/ba_13.mp3",
+  "audio/it-de/saetze/ba_13_fp.mp3",
+  "audio/it-de/saetze/ba_13_pc.mp3",
+  "audio/it-de/saetze/ba_14.mp3",
+  "audio/it-de/saetze/ba_15.mp3",
+  "audio/it-de/saetze/ba_15_fp.mp3",
+  "audio/it-de/saetze/ba_15_pc.mp3",
+  "audio/it-de/saetze/ba_16.mp3",
+  "audio/it-de/saetze/ba_17.mp3",
+  "audio/it-de/saetze/ba_18.mp3",
+  "audio/it-de/saetze/ba_18_fp.mp3",
+  "audio/it-de/saetze/ba_18_pc.mp3",
+  "audio/it-de/saetze/ba_19.mp3",
+  "audio/it-de/saetze/ba_20.mp3",
+  "audio/it-de/saetze/ba_20_fp.mp3",
+  "audio/it-de/saetze/ba_20_pc.mp3",
+  "audio/it-de/saetze/ba_21.mp3",
+  "audio/it-de/saetze/ba_21_fp.mp3",
+  "audio/it-de/saetze/ba_21_pc.mp3",
+  "audio/it-de/saetze/ba_22.mp3",
+  "audio/it-de/saetze/ba_23.mp3",
+  "audio/it-de/saetze/ba_24.mp3",
   "audio/it-de/saetze/ga_01.mp3",
   "audio/it-de/saetze/ga_01_fp.mp3",
   "audio/it-de/saetze/ga_01_pc.mp3",
@@ -5839,6 +5889,30 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/spiel/titel_5.mp3",
   "audio/it-de/spiel/titel_6.mp3",
   "audio/it-de/spiel/woche.mp3",
+  "audio/it-de/wendungen/ba_01.mp3",
+  "audio/it-de/wendungen/ba_02.mp3",
+  "audio/it-de/wendungen/ba_03.mp3",
+  "audio/it-de/wendungen/ba_04.mp3",
+  "audio/it-de/wendungen/ba_05.mp3",
+  "audio/it-de/wendungen/ba_06.mp3",
+  "audio/it-de/wendungen/ba_07.mp3",
+  "audio/it-de/wendungen/ba_08.mp3",
+  "audio/it-de/wendungen/ba_09.mp3",
+  "audio/it-de/wendungen/ba_10.mp3",
+  "audio/it-de/wendungen/ba_11.mp3",
+  "audio/it-de/wendungen/ba_12.mp3",
+  "audio/it-de/wendungen/ba_13.mp3",
+  "audio/it-de/wendungen/ba_14.mp3",
+  "audio/it-de/wendungen/ba_15.mp3",
+  "audio/it-de/wendungen/ba_16.mp3",
+  "audio/it-de/wendungen/ba_17.mp3",
+  "audio/it-de/wendungen/ba_18.mp3",
+  "audio/it-de/wendungen/ba_19.mp3",
+  "audio/it-de/wendungen/ba_20.mp3",
+  "audio/it-de/wendungen/ba_21.mp3",
+  "audio/it-de/wendungen/ba_22.mp3",
+  "audio/it-de/wendungen/ba_23.mp3",
+  "audio/it-de/wendungen/ba_24.mp3",
   "audio/it-de/wendungen/ga_01.mp3",
   "audio/it-de/wendungen/ga_02.mp3",
   "audio/it-de/wendungen/ga_03.mp3",
