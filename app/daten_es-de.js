@@ -283,6 +283,38 @@ window.SPRACHEN["es-de"] = {
     "pr_23",
     "pr_24"
    ]
+  },
+  {
+   "id": "sentimientos",
+   "name": "Sentimientos y ambientes",
+   "de": "Gefühle und Stimmungen",
+   "symbol": "🎭",
+   "wendungen": [
+    "se_01",
+    "se_02",
+    "se_03",
+    "se_04",
+    "se_05",
+    "se_06",
+    "se_07",
+    "se_08",
+    "se_09",
+    "se_10",
+    "se_11",
+    "se_12",
+    "se_13",
+    "se_14",
+    "se_15",
+    "se_16",
+    "se_17",
+    "se_18",
+    "se_19",
+    "se_20",
+    "se_21",
+    "se_22",
+    "se_23",
+    "se_24"
+   ]
   }
  ],
  "wendungen": [
@@ -775,6 +807,507 @@ window.SPRACHEN["es-de"] = {
     "de": "Entschuldigung, könnten Sie mir zeigen, wo das Lehrerzimmer ist?",
     "luecke": "podría usted indicarme",
     "audio": "audio/es-de/saetze/pr_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_01",
+   "thema": "sentimientos",
+   "fr": "me llega",
+   "de": "das berührt mich, das geht mir nahe",
+   "register": "tu",
+   "anker": "llegar",
+   "audio": null,
+   "satz": {
+    "fr": "Esta canción me llega cada vez que la oigo.",
+    "de": "Dieses Lied geht mir jedes Mal nahe, wenn ich es höre.",
+    "luecke": "me llega",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Esta canción me llegó al alma.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Esta canción me va a llegar, seguro.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_02",
+   "thema": "sentimientos",
+   "fr": "estar de bajón",
+   "de": "niedergeschlagen sein",
+   "register": "tu",
+   "anker": "estar",
+   "audio": null,
+   "satz": {
+    "fr": "Los domingos por la tarde suelo estar de bajón.",
+    "de": "Sonntagnachmittags bin ich oft niedergeschlagen.",
+    "luecke": "de bajón",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "El domingo estuve de bajón.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "El domingo voy a estar de bajón, como siempre.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_03",
+   "thema": "sentimientos",
+   "fr": "oscuro",
+   "de": "düster, dunkel",
+   "register": "tu",
+   "anker": "gustar",
+   "audio": null,
+   "satz": {
+    "fr": "Me gustan las historias oscuras, con un bosque y un secreto.",
+    "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
+    "luecke": "oscuras",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_04",
+   "thema": "sentimientos",
+   "fr": "melancólico",
+   "de": "melancholisch",
+   "register": "tu",
+   "anker": "ser",
+   "audio": null,
+   "satz": {
+    "fr": "Esta pieza de piano es melancólica, pero tan bonita.",
+    "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
+    "luecke": "melancólica",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_05",
+   "thema": "sentimientos",
+   "fr": "me parte el alma",
+   "de": "das bricht mir das Herz",
+   "register": "tu",
+   "anker": "partir",
+   "audio": null,
+   "satz": {
+    "fr": "Ver a un niño llorar solo me parte el alma.",
+    "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
+    "luecke": "me parte el alma",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Me partió el alma.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Me va a partir el alma.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_06",
+   "thema": "sentimientos",
+   "fr": "estar emocionado",
+   "de": "gerührt, bewegt sein",
+   "register": "tu",
+   "anker": "estar",
+   "audio": null,
+   "satz": {
+    "fr": "Al final del concierto estaba emocionado hasta las lágrimas.",
+    "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
+    "luecke": "emocionado",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_07",
+   "thema": "sentimientos",
+   "fr": "inquietante",
+   "de": "beunruhigend, unheimlich",
+   "register": "tu",
+   "anker": "ser",
+   "audio": null,
+   "satz": {
+    "fr": "La casa estaba en silencio. Era inquietante.",
+    "de": "Das Haus war still. Es war unheimlich.",
+    "luecke": "inquietante",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_08",
+   "thema": "sentimientos",
+   "fr": "relajante",
+   "de": "beruhigend, entspannend",
+   "register": "tu",
+   "anker": "ser",
+   "audio": null,
+   "satz": {
+    "fr": "El ronroneo de mi gato es relajante.",
+    "de": "Das Schnurren meiner Katze ist beruhigend.",
+    "luecke": "relajante",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_09",
+   "thema": "sentimientos",
+   "fr": "se me saltan las lágrimas",
+   "de": "mir kommen die Tränen",
+   "register": "tu",
+   "anker": "saltar",
+   "audio": null,
+   "satz": {
+    "fr": "Cuando oigo esa voz, se me saltan las lágrimas.",
+    "de": "Wenn ich diese Stimme höre, kommen mir die Tränen.",
+    "luecke": "se me saltan las lágrimas",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Se me saltaron las lágrimas.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Se me van a saltar las lágrimas.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_10",
+   "thema": "sentimientos",
+   "fr": "me pone la piel de gallina",
+   "de": "das gibt mir Gänsehaut",
+   "register": "tu",
+   "anker": "poner",
+   "audio": null,
+   "satz": {
+    "fr": "El estribillo me pone la piel de gallina.",
+    "de": "Der Refrain gibt mir Gänsehaut.",
+    "luecke": "me pone la piel de gallina",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "El estribillo me puso la piel de gallina.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "El estribillo me va a poner la piel de gallina.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_11",
+   "thema": "sentimientos",
+   "fr": "tener miedo de",
+   "de": "Angst haben vor",
+   "register": "tu",
+   "anker": "tener",
+   "audio": null,
+   "satz": {
+    "fr": "No tengo miedo de la oscuridad, sino del silencio.",
+    "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
+    "luecke": "tengo miedo",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "No tuve miedo de la oscuridad.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "No voy a tener miedo de la oscuridad.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_12",
+   "thema": "sentimientos",
+   "fr": "estar de buen humor",
+   "de": "gut gelaunt sein",
+   "register": "tu",
+   "anker": "estar",
+   "audio": null,
+   "satz": {
+    "fr": "Esta mañana estoy de buen humor: ha salido el sol.",
+    "de": "Heute Morgen bin ich gut gelaunt: Die Sonne ist da.",
+    "luecke": "de buen humor",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Esta mañana estaba de buen humor.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mañana voy a estar de buen humor.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_13",
+   "thema": "sentimientos",
+   "fr": "estar de mal humor",
+   "de": "schlecht gelaunt sein",
+   "register": "tu",
+   "anker": "estar",
+   "audio": null,
+   "satz": {
+    "fr": "No le hables, está de mal humor.",
+    "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
+    "luecke": "de mal humor",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_14",
+   "thema": "sentimientos",
+   "fr": "echar de menos",
+   "de": "vermissen",
+   "register": "tu",
+   "anker": "echar",
+   "audio": null,
+   "satz": {
+    "fr": "Echo de menos a mis gatos cuando estoy de viaje.",
+    "de": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
+    "luecke": "Echo de menos",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Eché de menos a mis gatos.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a echar de menos a mis gatos.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_15",
+   "thema": "sentimientos",
+   "fr": "tener un nudo en la garganta",
+   "de": "einen Kloß im Hals haben",
+   "register": "tu",
+   "anker": "tener",
+   "audio": null,
+   "satz": {
+    "fr": "Después de ese día, tengo un nudo en la garganta.",
+    "de": "Nach diesem Tag habe ich einen Kloß im Hals.",
+    "luecke": "tengo un nudo en la garganta",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Tuve un nudo en la garganta toda la tarde.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a tener un nudo en la garganta.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_16",
+   "thema": "sentimientos",
+   "fr": "conmovedor",
+   "de": "bewegend, erschütternd",
+   "register": "tu",
+   "anker": "ser",
+   "audio": null,
+   "satz": {
+    "fr": "El final de la película es conmovedor.",
+    "de": "Das Ende des Films ist zutiefst bewegend.",
+    "luecke": "conmovedor",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_17",
+   "thema": "sentimientos",
+   "fr": "sentirse bien / mal",
+   "de": "sich gut / schlecht fühlen",
+   "register": "tu",
+   "anker": "sentirse",
+   "audio": null,
+   "satz": {
+    "fr": "Después del kung-fu me siento bien, ligero.",
+    "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
+    "luecke": "me siento bien",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Después del kung-fu me sentí bien.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Después del kung-fu me voy a sentir bien.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_18",
+   "thema": "sentimientos",
+   "fr": "tener el corazón encogido",
+   "de": "ein schweres Herz haben, beklommen sein",
+   "register": "tu",
+   "anker": "tener",
+   "audio": null,
+   "satz": {
+    "fr": "Se ha ido, y tengo el corazón encogido.",
+    "de": "Sie ist gegangen, und mir ist schwer ums Herz.",
+    "luecke": "tengo el corazón encogido",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Tuve el corazón encogido.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a tener el corazón encogido.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_19",
+   "thema": "sentimientos",
+   "fr": "me pone triste / contento",
+   "de": "das macht mich traurig / froh",
+   "register": "tu",
+   "anker": "poner",
+   "audio": null,
+   "satz": {
+    "fr": "La lluvia sobre Sevilla me pone un poco triste.",
+    "de": "Der Regen über Sevilla macht mich ein bisschen traurig.",
+    "luecke": "me pone",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "La lluvia me puso un poco triste.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "La lluvia me va a poner un poco triste.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_20",
+   "thema": "sentimientos",
+   "fr": "el claroscuro",
+   "de": "das Hell-Dunkel",
+   "register": "tu",
+   "anker": "encantar",
+   "audio": null,
+   "satz": {
+    "fr": "Me encanta el claroscuro en los cuadros del Prado.",
+    "de": "Ich liebe das Hell-Dunkel in den Gemälden im Prado.",
+    "luecke": "claroscuro",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_21",
+   "thema": "sentimientos",
+   "fr": "tranquilo",
+   "de": "ruhig, friedlich",
+   "register": "tu",
+   "anker": "estar",
+   "audio": null,
+   "satz": {
+    "fr": "Por la tarde, el patio está tranquilo.",
+    "de": "Am Nachmittag ist der Innenhof ruhig.",
+    "luecke": "tranquilo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_22",
+   "thema": "sentimientos",
+   "fr": "angustioso",
+   "de": "beklemmend, angsteinflößend",
+   "register": "tu",
+   "anker": "ser",
+   "audio": null,
+   "satz": {
+    "fr": "El pasillo vacío del museo era angustioso.",
+    "de": "Der leere Gang im Museum war beklemmend.",
+    "luecke": "angustioso",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_23",
+   "thema": "sentimientos",
+   "fr": "tener pena",
+   "de": "traurig sein, Kummer haben",
+   "register": "tu",
+   "anker": "tener",
+   "audio": null,
+   "satz": {
+    "fr": "Tiene mucha pena desde que murió su gato.",
+    "de": "Er ist sehr traurig, seit seine Katze gestorben ist.",
+    "luecke": "Tiene mucha pena",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Tuvo mucha pena.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Va a tener mucha pena.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_24",
+   "thema": "sentimientos",
+   "fr": "lo siento mucho",
+   "de": "es tut mir sehr leid",
+   "register": "vous",
+   "anker": "sentir",
+   "audio": null,
+   "satz": {
+    "fr": "Lo siento mucho, señora, no quería molestarla.",
+    "de": "Es tut mir sehr leid, Señora, ich wollte Sie nicht stören.",
+    "luecke": "Lo siento mucho",
+    "audio": null
    },
    "zeit": null
   }
