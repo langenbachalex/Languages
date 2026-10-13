@@ -17,6 +17,7 @@ THEMEN = [
     {"id": "profes", "name": "Entre profes", "de": "Unter Lehrern – mit Diego", "symbol": "🧑‍🏫", "datei": "entre_profes.tsv"},
     {"id": "sentimientos", "name": "Sentimientos y ambientes", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "sentimientos.tsv"},
     {"id": "gatos", "name": "Los gatos", "de": "Die Katzen", "symbol": "🐈", "datei": "gatos.tsv"},
+    {"id": "musica", "name": "Música y lengua", "de": "Musik und Sprache", "symbol": "🎵", "datei": "musica.tsv"},
 ]
 
 # Titel – Tapas-Leiter
