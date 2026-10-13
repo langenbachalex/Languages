@@ -5257,13 +5257,296 @@ window.SPRACHEN["de-fr"] = {
   "paare": [],
   "beide": []
  },
- "geschichte": [],
+ "geschichte": [
+  {
+   "nr": 1,
+   "titel": "Die Eintrittskarte",
+   "absaetze": [
+    {
+     "id": "k01_01",
+     "fr": "Lena Becker war Lehrerin in Saarbrücken. Eine normale Lehrerin. Na ja, fast.",
+     "de": "Lena Becker était professeure à Sarrebruck. Une prof normale. Enfin, presque.",
+     "audio": "audio/de-fr/geschichte/k01_01.mp3"
+    },
+    {
+     "id": "k01_02",
+     "fr": "An diesem Freitagnachmittag **korrigierte sie Klassenarbeiten**, wie jeden Freitag. Sie **war fix und fertig**. Draußen regnete es. Drinnen **machte ihre Katze ein Nickerchen** auf den schon korrigierten Arbeiten.",
+     "de": "Ce vendredi après-midi, elle corrigeait des copies, comme tous les vendredis. Elle était crevée. Dehors, il pleuvait. Dedans, son chat faisait la sieste sur les copies déjà corrigées.",
+     "audio": "audio/de-fr/geschichte/k01_02.mp3"
+    },
+    {
+     "id": "k01_03",
+     "fr": "Die siebzehnte Arbeit war die von Jonas, einem Schüler der Neunten, der wenig schrieb, aber gut.",
+     "de": "La dix-septième copie était celle de Jonas, un élève de troisième qui écrivait peu, mais bien.",
+     "audio": "audio/de-fr/geschichte/k01_03.mp3"
+    },
+    {
+     "id": "k01_04",
+     "fr": "Zwischen Seite zwei und Seite drei lag etwas. Eine Karte. Eine Eintrittskarte für die Völklinger Hütte.",
+     "de": "Entre la page deux et la page trois, il y avait quelque chose. Un billet. Un billet d'entrée pour l'usine de Völklingen.",
+     "audio": "audio/de-fr/geschichte/k01_04.mp3"
+    },
+    {
+     "id": "k01_05",
+     "fr": "Lena sah auf das Datum. Morgen. Samstag. Zehn Uhr.",
+     "de": "Lena a regardé la date. Demain. Samedi. Dix heures.",
+     "audio": "audio/de-fr/geschichte/k01_05.mp3"
+    },
+    {
+     "id": "k01_06",
+     "fr": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: « Gebläsehalle. Kommen Sie allein. Und haben Sie keine Angst. »",
+     "de": "Au dos, quelqu'un avait écrit en lettres bleues : « Halle des soufflantes. Venez seule. Et n'ayez pas peur. »",
+     "audio": "audio/de-fr/geschichte/k01_06.mp3"
+    },
+    {
+     "id": "k01_07",
+     "fr": "Lena **hatte keine Angst**. Noch nicht. Sie **hatte Schwierigkeiten**, das zu verstehen, das war alles.",
+     "de": "Lena n'avait pas peur. Pas encore. Elle avait du mal à comprendre, c'est tout.",
+     "audio": "audio/de-fr/geschichte/k01_07.mp3"
+    },
+    {
+     "id": "k01_08",
+     "fr": "Jonas war kein geheimnisvoller Schüler. Er war ein Schüler, der Katzen an den Rand malte.",
+     "de": "Jonas n'était pas un élève mystérieux. C'était un élève qui dessinait des chats dans la marge.",
+     "audio": "audio/de-fr/geschichte/k01_08.mp3"
+    },
+    {
+     "id": "k01_09",
+     "fr": "Lena sah ihre Katze an. Die Katze sah sie an. Sie **hatte einen Blick**, der sagte: « Geh. »",
+     "de": "Lena a regardé son chat. Le chat l'a regardée. Il avait un regard qui disait : « Vas-y. »",
+     "audio": "audio/de-fr/geschichte/k01_09.mp3"
+    },
+    {
+     "id": "k01_10",
+     "fr": "« Das ist ein Scherz », sagte Lena laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
+     "de": "« C'est une blague », a dit Lena à voix haute. Le chat n'a rien dit. Les chats ne disent jamais rien. C'est leur force.",
+     "audio": "audio/de-fr/geschichte/k01_10.mp3"
+    },
+    {
+     "id": "k01_11",
+     "fr": "In dieser Nacht **schlief Lena nicht durch**. Sie träumte von einer Halle voller Maschinen und von einer Tür, die auf keinem Plan war.",
+     "de": "Cette nuit-là, Lena n'a pas fait sa nuit. Elle a rêvé d'une halle pleine de machines et d'une porte qui n'était sur aucun plan.",
+     "audio": "audio/de-fr/geschichte/k01_11.mp3"
+    },
+    {
+     "id": "k01_12",
+     "fr": "Um sieben stand sie auf. **Mit dem richtigen Fuß**. Dem linken. Wie immer.",
+     "de": "À sept heures, elle s'est levée. Du bon pied. Le gauche. Comme d'habitude.",
+     "audio": "audio/de-fr/geschichte/k01_12.mp3"
+    },
+    {
+     "id": "k01_13",
+     "fr": "Sie **ging einkaufen**, wie jeden Samstag. Dann sah sie auf die Uhr. Viertel nach neun. Die Hütte war zwanzig Minuten mit der Saarbahn entfernt.",
+     "de": "Elle est allée faire les courses, comme tous les samedis. Puis elle a regardé l'heure. Neuf heures et quart. L'usine était à vingt minutes en tram.",
+     "audio": "audio/de-fr/geschichte/k01_13.mp3"
+    },
+    {
+     "id": "k01_14",
+     "fr": "« Ich schau nur », sagte sie zur Katze. Die Katze schloss die Augen. Sie wusste, dass das nicht stimmte.",
+     "de": "« Je vais juste regarder », a-t-elle dit au chat. Le chat a fermé les yeux. Il savait que ce n'était pas vrai.",
+     "audio": "audio/de-fr/geschichte/k01_14.mp3"
+    }
+   ]
+  },
+  {
+   "nr": 2,
+   "titel": "Die Gebläsehalle",
+   "absaetze": [
+    {
+     "id": "k02_01",
+     "fr": "Um fünf vor zehn stand Lena vor dem Eingang der Hütte. Es war das erste Mal, dass sie ohne dreißig Schüler hinter sich hineinging.",
+     "de": "À dix heures moins cinq, Lena était devant l'entrée de l'usine. C'était la première fois qu'elle y entrait sans trente élèves derrière elle.",
+     "audio": "audio/de-fr/geschichte/k02_01.mp3"
+    },
+    {
+     "id": "k02_02",
+     "fr": "Die Karte war echt. Der Mann an der Kasse sah sie an, sah die Karte an und sagte: « Gebläsehalle. Immer geradeaus. » Ohne dass sie gefragt hätte.",
+     "de": "Le billet était vrai. L'homme à la caisse l'a regardée, a regardé le billet et a dit : « Halle des soufflantes. Tout droit. » Sans qu'elle demande.",
+     "audio": "audio/de-fr/geschichte/k02_02.mp3"
+    },
+    {
+     "id": "k02_03",
+     "fr": "**Es war unheimlich**. Ein bisschen. Lena beschloss, dass es freundlich war.",
+     "de": "C'était inquiétant. Un peu. Lena a décidé que c'était gentil.",
+     "audio": "audio/de-fr/geschichte/k02_03.mp3"
+    },
+    {
+     "id": "k02_04",
+     "fr": "Die Halle **war friedlich**. Zu friedlich. Keine Besucher, keine Führungen, keine Kinder. Nur das Tropfen des Regens auf dem Blechdach und der Geruch von altem Eisen.",
+     "de": "La halle était paisible. Trop paisible. Pas de visiteurs, pas de visites guidées, pas d'enfants. Seulement le goutte-à-goutte de la pluie sur le toit de tôle et l'odeur du vieux fer.",
+     "audio": "audio/de-fr/geschichte/k02_04.mp3"
+    },
+    {
+     "id": "k02_05",
+     "fr": "Und eine Katze. Eine graue **Hauskatze**, die auf der größten Maschine saß, als gehörte sie ihr.",
+     "de": "Et un chat. Un chat de gouttière gris, assis sur la plus grande machine comme si elle était à lui.",
+     "audio": "audio/de-fr/geschichte/k02_05.mp3"
+    },
+    {
+     "id": "k02_06",
+     "fr": "Die Katze sah sie an. Lena kannte diesen Blick. Es war der Blick ihrer eigenen Katze. Genau derselbe.",
+     "de": "Le chat l'a regardée. Lena connaissait ce regard. C'était le regard de son propre chat. Exactement le même.",
+     "audio": "audio/de-fr/geschichte/k02_06.mp3"
+    },
+    {
+     "id": "k02_07",
+     "fr": "« Das ist unmöglich », dachte sie. « Meine Katze liegt zu Hause und schläft auf einer Arbeit der Neunten. »",
+     "de": "« C'est impossible », a-t-elle pensé. « Mon chat est à la maison, en train de dormir sur une copie de troisième. »",
+     "audio": "audio/de-fr/geschichte/k02_07.mp3"
+    },
+    {
+     "id": "k02_08",
+     "fr": "Die graue Katze stand auf, **rieb sich an** einem Rohr und ging langsam zur Treppe am Ende der Halle. Dann drehte sie sich um. Sie wartete.",
+     "de": "Le chat gris s'est levé, s'est frotté contre un tuyau et est parti lentement vers l'escalier au fond de la halle. Puis il s'est retourné. Il attendait.",
+     "audio": "audio/de-fr/geschichte/k02_08.mp3"
+    },
+    {
+     "id": "k02_09",
+     "fr": "Lena **hatte einen Kloß im Hals**. Aber sie war auch neugierig. Die Neugier gewinnt bei einer Lehrerin immer.",
+     "de": "Lena avait la gorge serrée. Mais elle était aussi curieuse. La curiosité, chez une prof, gagne toujours.",
+     "audio": "audio/de-fr/geschichte/k02_09.mp3"
+    },
+    {
+     "id": "k02_10",
+     "fr": "Sie folgte der Katze. Die Treppe führte nach oben, immer weiter, über die Rohre, über die Öfen, bis zur Aussichtsplattform. Fünfundvierzig Meter hoch.",
+     "de": "Elle a suivi le chat. L'escalier montait, encore et encore, au-dessus des tuyaux, au-dessus des fours, jusqu'à la plate-forme panoramique. Quarante-cinq mètres de haut.",
+     "audio": "audio/de-fr/geschichte/k02_10.mp3"
+    },
+    {
+     "id": "k02_11",
+     "fr": "Lena war zwanzigmal hier oben gewesen, mit Schülern. Man sah die Saar, die Stadt, bei gutem Wetter bis nach Frankreich.",
+     "de": "Lena était montée ici vingt fois, avec des élèves. On voyait la Sarre, la ville, par beau temps jusqu'en France.",
+     "audio": "audio/de-fr/geschichte/k02_11.mp3"
+    },
+    {
+     "id": "k02_12",
+     "fr": "Aber dort, wo immer nur ein Geländer gewesen war, war heute eine Tür.",
+     "de": "Mais là, où il n'y avait toujours eu qu'une rambarde, il y avait aujourd'hui une porte.",
+     "audio": "audio/de-fr/geschichte/k02_12.mp3"
+    },
+    {
+     "id": "k02_13",
+     "fr": "Klein, aus rostigem Eisen, ohne Klinke. Lena war zwanzigmal daran vorbeigegangen, ohne sie zu sehen. Weil sie nicht da gewesen war.",
+     "de": "Petite, en fer rouillé, sans poignée. Lena était passée vingt fois devant sans la voir. Parce qu'elle n'avait pas été là.",
+     "audio": "audio/de-fr/geschichte/k02_13.mp3"
+    },
+    {
+     "id": "k02_14",
+     "fr": "Die Katze setzte sich vor die Tür. Und **miaute**, zum ersten Mal.",
+     "de": "Le chat s'est assis devant la porte. Et a miaulé, pour la première fois.",
+     "audio": "audio/de-fr/geschichte/k02_14.mp3"
+    },
+    {
+     "id": "k02_15",
+     "fr": "Lena sah auf die Uhr. Viertel nach zehn. « **Lass dir Zeit** », sagte sie sich. Sie ließ sich keine.",
+     "de": "Lena a regardé l'heure. Dix heures et quart. « Prends ton temps », s'est-elle dit. Elle ne l'a pas pris.",
+     "audio": "audio/de-fr/geschichte/k02_15.mp3"
+    }
+   ]
+  },
+  {
+   "nr": 3,
+   "titel": "Die Tür, die es nicht gibt",
+   "absaetze": [
+    {
+     "id": "k03_01",
+     "fr": "Die Tür war aus dunklem Eisen, mit einer kleinen Emaille-Kachel in der Mitte: eine blaue Katze auf weißem Grund.",
+     "de": "La porte était en fer sombre, avec une petite plaque émaillée au centre : un chat bleu sur fond blanc.",
+     "audio": "audio/de-fr/geschichte/k03_01.mp3"
+    },
+    {
+     "id": "k03_02",
+     "fr": "Kein Schild. Keine Nummer. In einer Fabrik mit hundertfünfzig Jahren Schildern war das schon seltsam.",
+     "de": "Pas de panneau. Pas de numéro. Dans une usine avec cent cinquante ans de panneaux, c'était déjà bizarre.",
+     "audio": "audio/de-fr/geschichte/k03_02.mp3"
+    },
+    {
+     "id": "k03_03",
+     "fr": "Lena drückte. Die Tür öffnete sich lautlos. **Plötzlich** hörte der Regen auf dem Dach auf zu trommeln.",
+     "de": "Lena a poussé. La porte s'est ouverte sans bruit. D'un coup, la pluie a cessé de tambouriner sur le toit.",
+     "audio": "audio/de-fr/geschichte/k03_03.mp3"
+    },
+    {
+     "id": "k03_04",
+     "fr": "Dahinter lag ein kleiner, runder Raum, die Wände voller Kacheln. Hunderte Kacheln. Und auf jeder eine Katze.",
+     "de": "Derrière, il y avait une petite pièce ronde, aux murs couverts de carreaux. Des centaines de carreaux. Et sur chacun, un chat.",
+     "audio": "audio/de-fr/geschichte/k03_04.mp3"
+    },
+    {
+     "id": "k03_05",
+     "fr": "Sitzende Katzen, schlafende Katzen, Katzen, die schauten. Katzen aus der Zeit der ersten Hochöfen mit demselben Gesicht wie Lenas Katze.",
+     "de": "Des chats assis, des chats endormis, des chats qui regardaient. Des chats du temps des premiers hauts-fourneaux avec le même visage que le chat de Lena.",
+     "audio": "audio/de-fr/geschichte/k03_05.mp3"
+    },
+    {
+     "id": "k03_06",
+     "fr": "In der Mitte des Raums ein alter Schmelzofen. Kalt. Und über dem Ofen eine andere Kachel: größer, älter, mit einer Katze, die niemanden ansah. Sie sah zur Tür.",
+     "de": "Au milieu de la pièce, un vieux four de fusion. Froid. Et au-dessus du four, un carreau différent : plus grand, plus ancien, avec un chat qui ne regardait personne. Il regardait vers la porte.",
+     "audio": "audio/de-fr/geschichte/k03_06.mp3"
+    },
+    {
+     "id": "k03_07",
+     "fr": "Lena trat näher. Die Kacheln waren kalt. Alle bis auf eine.",
+     "de": "Lena s'est approchée. Les carreaux étaient froids. Tous sauf un.",
+     "audio": "audio/de-fr/geschichte/k03_07.mp3"
+    },
+    {
+     "id": "k03_08",
+     "fr": "Die große Kachel war lauwarm. Wie eine Katze in der Sonne.",
+     "de": "Le grand carreau était tiède. Comme un chat au soleil.",
+     "audio": "audio/de-fr/geschichte/k03_08.mp3"
+    },
+    {
+     "id": "k03_09",
+     "fr": "Und dann hörte sie es. Leise. Gleichmäßig. Ein **Schnurren**.",
+     "de": "Et alors elle l'a entendu. Doucement. Régulièrement. Un ronronnement.",
+     "audio": "audio/de-fr/geschichte/k03_09.mp3"
+    },
+    {
+     "id": "k03_10",
+     "fr": "Lena blieb stehen. Die graue Katze neben ihr auch. Beide lauschten derselben Kachel.",
+     "de": "Lena est restée immobile. Le chat gris, à côté d'elle, aussi. Tous les deux écoutaient le même carreau.",
+     "audio": "audio/de-fr/geschichte/k03_10.mp3"
+    },
+    {
+     "id": "k03_11",
+     "fr": "« Das steht nicht auf dem Plan », sagte Lena. Es war das Vernünftigste, was ihr einfiel.",
+     "de": "« Ça n'est pas sur le plan », a dit Lena. C'était la chose la plus sensée qui lui venait à l'esprit.",
+     "audio": "audio/de-fr/geschichte/k03_11.mp3"
+    },
+    {
+     "id": "k03_12",
+     "fr": "Hinter ihr eine Stimme. Ruhig, alt, ein bisschen heiser. « Nein, Frau Becker. Dieser Raum steht auf keinem Plan. Deshalb ist er noch da. »",
+     "de": "Derrière elle, une voix. Calme, âgée, un peu rauque. « Non, madame Becker. Cette pièce n'est sur aucun plan. C'est pour ça qu'elle est encore là. »",
+     "audio": "audio/de-fr/geschichte/k03_12.mp3"
+    },
+    {
+     "id": "k03_13",
+     "fr": "Lena fuhr herum. In der Tür stand ein Mann mit einem Helm und einem Schlüsselbund so groß wie ein Teller.",
+     "de": "Lena s'est retournée d'un coup. Dans la porte, il y avait un homme avec un casque et un trousseau de clés gros comme une assiette.",
+     "audio": "audio/de-fr/geschichte/k03_13.mp3"
+    },
+    {
+     "id": "k03_14",
+     "fr": "« Ich bin der Hüttenarbeiter », sagte er. « Ich arbeite hier seit 1986. Und Sie sind zu spät. Zwanzig Minuten. »",
+     "de": "« Je suis l'ouvrier de l'usine », a-t-il dit. « Je travaille ici depuis 1986. Et vous êtes en retard. Vingt minutes. »",
+     "audio": "audio/de-fr/geschichte/k03_14.mp3"
+    },
+    {
+     "id": "k03_15",
+     "fr": "Lena rechnete nach. 1986. Da war die Hütte stillgelegt worden. Seitdem arbeitete hier niemand mehr. **Das ergab keinen Sinn**. Und trotzdem sagte Lena: « Es tut mir leid. » Das sagen Lehrer eben.",
+     "de": "Lena a fait le calcul. 1986. C'est l'année où l'usine avait été fermée. Depuis, plus personne n'y travaillait. Ça n'avait aucun sens. Et pourtant Lena a dit : « Je suis désolée. » C'est ce que disent les profs.",
+     "audio": "audio/de-fr/geschichte/k03_15.mp3"
+    }
+   ]
+  }
+ ],
  "geschichte_info": {
-  "titel": "",
-  "unter": "",
+  "titel": "Das Geheimnis der Völklinger Hütte",
+  "unter": "Lena Becker, Lehrerin in Saarbrücken – eine Eintrittskarte, eine Tür, die es nicht gibt, eine Katze, die Bescheid weiß.",
   "sammlung": [
-   "",
-   ""
+   "Chaque semaine parfaite débloque un chapitre : Lena Becker, professeure à Sarrebruck, et le mystère de l'usine de Völklingen.",
+   "Jede perfekte Woche schaltet ein Kapitel frei: Lena Becker, Lehrerin in Saarbrücken, und das Geheimnis der Völklinger Hütte."
   ]
  },
  "lob": {
@@ -8802,6 +9085,50 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/dialoge/d2_08.mp3",
   "audio/de-fr/dialoge/d2_09.mp3",
   "audio/de-fr/dialoge/d2_10.mp3",
+  "audio/de-fr/geschichte/k01_01.mp3",
+  "audio/de-fr/geschichte/k01_02.mp3",
+  "audio/de-fr/geschichte/k01_03.mp3",
+  "audio/de-fr/geschichte/k01_04.mp3",
+  "audio/de-fr/geschichte/k01_05.mp3",
+  "audio/de-fr/geschichte/k01_06.mp3",
+  "audio/de-fr/geschichte/k01_07.mp3",
+  "audio/de-fr/geschichte/k01_08.mp3",
+  "audio/de-fr/geschichte/k01_09.mp3",
+  "audio/de-fr/geschichte/k01_10.mp3",
+  "audio/de-fr/geschichte/k01_11.mp3",
+  "audio/de-fr/geschichte/k01_12.mp3",
+  "audio/de-fr/geschichte/k01_13.mp3",
+  "audio/de-fr/geschichte/k01_14.mp3",
+  "audio/de-fr/geschichte/k02_01.mp3",
+  "audio/de-fr/geschichte/k02_02.mp3",
+  "audio/de-fr/geschichte/k02_03.mp3",
+  "audio/de-fr/geschichte/k02_04.mp3",
+  "audio/de-fr/geschichte/k02_05.mp3",
+  "audio/de-fr/geschichte/k02_06.mp3",
+  "audio/de-fr/geschichte/k02_07.mp3",
+  "audio/de-fr/geschichte/k02_08.mp3",
+  "audio/de-fr/geschichte/k02_09.mp3",
+  "audio/de-fr/geschichte/k02_10.mp3",
+  "audio/de-fr/geschichte/k02_11.mp3",
+  "audio/de-fr/geschichte/k02_12.mp3",
+  "audio/de-fr/geschichte/k02_13.mp3",
+  "audio/de-fr/geschichte/k02_14.mp3",
+  "audio/de-fr/geschichte/k02_15.mp3",
+  "audio/de-fr/geschichte/k03_01.mp3",
+  "audio/de-fr/geschichte/k03_02.mp3",
+  "audio/de-fr/geschichte/k03_03.mp3",
+  "audio/de-fr/geschichte/k03_04.mp3",
+  "audio/de-fr/geschichte/k03_05.mp3",
+  "audio/de-fr/geschichte/k03_06.mp3",
+  "audio/de-fr/geschichte/k03_07.mp3",
+  "audio/de-fr/geschichte/k03_08.mp3",
+  "audio/de-fr/geschichte/k03_09.mp3",
+  "audio/de-fr/geschichte/k03_10.mp3",
+  "audio/de-fr/geschichte/k03_11.mp3",
+  "audio/de-fr/geschichte/k03_12.mp3",
+  "audio/de-fr/geschichte/k03_13.mp3",
+  "audio/de-fr/geschichte/k03_14.mp3",
+  "audio/de-fr/geschichte/k03_15.mp3",
   "audio/de-fr/lob/doch_siehst_du.mp3",
   "audio/de-fr/lob/fehler_diesmal_nicht.mp3",
   "audio/de-fr/lob/fehler_fast.mp3",

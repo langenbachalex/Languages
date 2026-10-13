@@ -33,4 +33,4 @@ Noch offen; Kandidat: **ch** (ich-Laut und ach-Laut) oder **ü / ö**. Entfällt
 - **Titel – deutsche Leckereien:** 🥨 Brezel → 🌭 Bratwurst → 🥔 Kartoffelsalat → 🍽️ Schnitzel → 🍖 Sauerbraten → 🍰 Schwarzwälder Kirschtorte → ✨ **Chefkoch**
 - **Karte:** Deutschland mit **434 Landkreisen und kreisfreien Städten** (deutschlandGeoJSON / DIVA-GIS, nicht-kommerziell, Stand etwa 2010; `inhalte/de-fr/karte/kreise.geojson`, Lader `werkzeuge/deutschland_karte.py`), Start **Saarbrücken**, 50 Orte mit Fakten (`orte.tsv`, Französisch als Hilfe). Entscheidung Mr. Alex (13.10.): Kreise statt Bundesländer.
 - **Lob:** Super! · Genau! · Prima! · Klasse! · Perfekt! · Spitze! · Volltreffer! · Hut ab! · Wie ein Saarländer! … (84 Einträge in `lob.tsv`)
-- **Geschichte:** später, z. B. « Das Geheimnis der Völklinger Hütte ».
+- **Geschichte:** « Das Geheimnis der Völklinger Hütte » – Lena Becker, Lehrerin in Saarbrücken; Entwurf und Bogen in `docs/de-fr/geschichte-entwurf.md`, Kapitel 1–3 eingetragen (13.10.2026).

@@ -42,7 +42,10 @@ SPIEL_TEXTE = {
 ROLLEN = {"A": "Alex", "B": "Aurélien"}
 DIALOGE_TITEL = ["Dialogues avec Alex", "Dialoge mit Alex"]
 
-GESCHICHTE = {"titel": "", "unter": "", "sammlung": ["", ""]}   # später
+GESCHICHTE = {"titel": "Das Geheimnis der Völklinger Hütte",
+              "unter": "Lena Becker, Lehrerin in Saarbrücken – eine Eintrittskarte, eine Tür, die es nicht gibt, eine Katze, die Bescheid weiß.",
+              "sammlung": ["Chaque semaine parfaite débloque un chapitre : Lena Becker, professeure à Sarrebruck, et le mystère de l'usine de Völklingen.",
+                           "Jede perfekte Woche schaltet ein Kapitel frei: Lena Becker, Lehrerin in Saarbrücken, und das Geheimnis der Völklinger Hütte."]}
 
 AUSSPRACHE = None   # später, optional (ch · ü · ö)
 

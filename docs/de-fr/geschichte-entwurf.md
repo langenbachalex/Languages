@@ -1,4 +1,4 @@
-# Die Geschichte – « Das Geheimnis der Völklinger Hütte » – Entwurf zum Lesen (noch nicht gebaut)
+# Die Geschichte – « Das Geheimnis der Völklinger Hütte » – Entwurf zum Lesen (Kapitel 1–3 eingetragen und vertont, 13.10.2026)
 
 Stand: 13.10.2026. Heldin: **Lena Becker**, Lehrerin in Saarbrücken (Vorschlag). Genre wie in den anderen Sprachen: Mystery mit etwas Fantastischem, Assimil-Ton. Jede **perfekte Woche** schaltet ein Kapitel frei. Erzählt in Mr. Alex' Stimme, Präteritum und Perfekt, mit Wendungen aus den Themen (fett), französische Übersetzung zum Antippen. Jedes Kapitel: etwa 250 Wörter, 2–3 Minuten Hören. Aurélien taucht in Kapitel 9 auf.
 
