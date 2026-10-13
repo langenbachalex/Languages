@@ -220,8 +220,9 @@
     const menge = lage ? lage.frei : seanceFrei, schluessel = freiSchluessel();
     setTimeout(() => { k.disabled = false; k.classList.remove("wartet", "laeuft"); if (merken && menge) menge.add(schluessel); }, sek * 1000);
   }
-  const sprechDauer = (d, min = 3) => Math.max(min, d * 1.4 + 1);
-  const denkzeit = (text) => Math.min(8, Math.max(3, 2 + String(text).split(/\s+/).length * 0.35));
+  // Sprechzeit 60 % und Denkzeit 50 % der ersten Fassung (Mr. Alex, 13.10.: die Sperren waren zu lang)
+  const sprechDauer = (d, min = 1.8) => Math.max(min, d * 0.85 + 0.6);
+  const denkzeit = (text) => Math.min(4, Math.max(1.5, 1 + String(text).split(/\s+/).length * 0.175));
   const wennFrei = (k, fn) => () => { if (!k.disabled) fn(); };
   const tipp = (key, fn) => el("button", { class: "knopf leise tipp", title: U[key][1], onclick: (e) => { if (lage) lage.hilfe = true; fn(e); } }, "💡 " + U[key][0]);
   function jetztDu(text) {
@@ -847,7 +848,7 @@
       tasten(() => nachsprechen(balken, [ton(w), ton(w.satz)]), naechstes);
       nachsprechen(balken, [ton(w), ton(w.satz)]);
     }, "haupt"));
-    gibFrei(loesung, 3, false);
+    gibFrei(loesung, 1.5, false);
     tasten(null, wennFrei(loesung, () => loesung.click()));
     zeige(kopf(),
       ansageU("wie_sagt_man"),
