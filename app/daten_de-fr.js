@@ -283,6 +283,38 @@ window.SPRACHEN["de-fr"] = {
     "ul_23",
     "ul_24"
    ]
+  },
+  {
+   "id": "gefuehle",
+   "name": "Gefühle und Stimmungen",
+   "de": "Sentiments et ambiances",
+   "symbol": "🎭",
+   "wendungen": [
+    "ge_01",
+    "ge_02",
+    "ge_03",
+    "ge_04",
+    "ge_05",
+    "ge_06",
+    "ge_07",
+    "ge_08",
+    "ge_09",
+    "ge_10",
+    "ge_11",
+    "ge_12",
+    "ge_13",
+    "ge_14",
+    "ge_15",
+    "ge_16",
+    "ge_17",
+    "ge_18",
+    "ge_19",
+    "ge_20",
+    "ge_21",
+    "ge_22",
+    "ge_23",
+    "ge_24"
+   ]
   }
  ],
  "wendungen": [
@@ -817,6 +849,531 @@ window.SPRACHEN["de-fr"] = {
     "de": "Excusez-moi, pourriez-vous m'indiquer la salle des profs ?",
     "luecke": "könnten Sie mir das Lehrerzimmer zeigen",
     "audio": "audio/de-fr/saetze/ul_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_01",
+   "thema": "gefuehle",
+   "fr": "das geht mir nahe",
+   "de": "ça me touche",
+   "register": "tu",
+   "anker": "nahegehen",
+   "notiz": "littéralement « ça me va près » – nahegehen = toucher, émouvoir (particule séparable, participe nahegegangen avec sein) ; mir = datif. Aussi : das berührt mich.",
+   "audio": null,
+   "satz": {
+    "fr": "Dieses Lied geht mir jedes Mal nahe.",
+    "de": "Cette chanson me touche à chaque fois.",
+    "luecke": "geht mir jedes Mal nahe",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dieses Lied ist mir nahegegangen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Dieses Lied wird mir nahegehen, das weiß ich.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_02",
+   "thema": "gefuehle",
+   "fr": "einen Hänger haben",
+   "de": "avoir le cafard",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "der Hänger = « celui qui pend » (hängen) – un coup de mou, un passage à vide ; familier. Aussi : niedergeschlagen sein, ein Tief haben. sonntagabends = le dimanche soir (habitude, minuscule, -s).",
+   "audio": null,
+   "satz": {
+    "fr": "Sonntagabends habe ich oft einen Hänger.",
+    "de": "Le dimanche soir, j'ai souvent le cafard.",
+    "luecke": "habe ich oft einen Hänger",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Gestern hatte ich einen Hänger.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sonntag werde ich einen Hänger haben, wie immer.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_03",
+   "thema": "gefuehle",
+   "fr": "düster",
+   "de": "sombre",
+   "register": "tu",
+   "anker": "mögen",
+   "notiz": "düster = sombre (ambiance, histoire) ; dunkel = sombre (lumière). Adjectif décliné devant le nom : düstere Geschichten (pluriel sans article). das Geheimnis = le secret.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
+    "de": "J'aime les histoires sombres, avec une forêt et un secret.",
+    "luecke": "düstere",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_04",
+   "thema": "gefuehle",
+   "fr": "melancholisch",
+   "de": "mélancolique",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "comme en français ; die Melancholie. Attention au ch prononcé [k] ici : melan-KO-lisch. das Klavierstück = Klavier + Stück (le morceau de piano).",
+   "audio": null,
+   "satz": {
+    "fr": "Dieses Klavierstück ist melancholisch, aber so schön.",
+    "de": "Ce morceau de piano est mélancolique, mais tellement beau.",
+    "luecke": "melancholisch",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_05",
+   "thema": "gefuehle",
+   "fr": "das bricht mir das Herz",
+   "de": "ça me fend le cœur",
+   "register": "tu",
+   "anker": "brechen",
+   "notiz": "brechen = casser, briser (bricht, participe gebrochen) ; mir = datif (« à moi ») ; das Herz = le cœur. Infinitive avec zu en fin de groupe : weinen zu sehen.",
+   "audio": null,
+   "satz": {
+    "fr": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
+    "de": "Voir un enfant pleurer tout seul, ça me fend le cœur.",
+    "luecke": "bricht mir das Herz",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Das hat mir das Herz gebrochen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Das wird mir das Herz brechen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_06",
+   "thema": "gefuehle",
+   "fr": "gerührt sein",
+   "de": "être ému",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "gerührt = participe de rühren (remuer, émouvoir) ; zu Tränen gerührt = ému aux larmes. Pas « aufgeregt » (= excité, nerveux). die Träne = la larme.",
+   "audio": null,
+   "satz": {
+    "fr": "Am Ende des Konzerts war ich zu Tränen gerührt.",
+    "de": "À la fin du concert, j'étais ému aux larmes.",
+    "luecke": "gerührt",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_07",
+   "thema": "gefuehle",
+   "fr": "unheimlich",
+   "de": "inquiétant",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "unheimlich = inquiétant, sinistre (un- + heimlich, « pas comme à la maison ») ; familièrement aussi « énormément » : unheimlich gut. still = silencieux, calme.",
+   "audio": null,
+   "satz": {
+    "fr": "Das Haus war still. Es war unheimlich.",
+    "de": "La maison était silencieuse, c'était inquiétant.",
+    "luecke": "unheimlich",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_08",
+   "thema": "gefuehle",
+   "fr": "beruhigend",
+   "de": "apaisant",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "de beruhigen = calmer, apaiser (ruhig = calme) ; beruhig dich ! = calme-toi. das Schnurren = le ronronnement (infinitif substantivé, neutre). meiner Katze = génitif.",
+   "audio": null,
+   "satz": {
+    "fr": "Das Schnurren meiner Katze ist beruhigend.",
+    "de": "Le ronronnement de mon chat est apaisant.",
+    "luecke": "beruhigend",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_09",
+   "thema": "gefuehle",
+   "fr": "Tränen in den Augen haben",
+   "de": "avoir les larmes aux yeux",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "comme en français ; in den Augen = datif pluriel (das Auge, die Augen). Subordonnée avec wenn : verbe à la fin (höre), puis inversion dans la principale (habe ich).",
+   "audio": null,
+   "satz": {
+    "fr": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
+    "de": "Quand j'écoute cette voix, j'ai les larmes aux yeux.",
+    "luecke": "habe ich Tränen in den Augen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich hatte Tränen in den Augen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde Tränen in den Augen haben.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_10",
+   "thema": "gefuehle",
+   "fr": "Gänsehaut bekommen",
+   "de": "avoir des frissons",
+   "register": "tu",
+   "anker": "bekommen",
+   "notiz": "die Gänsehaut = « la peau d'oie » = la chair de poule ; bekommen = recevoir, avoir (jamais « devenir » – faux ami avec l'anglais become !). beim = bei dem (au moment de).",
+   "audio": null,
+   "satz": {
+    "fr": "Beim Refrain bekomme ich Gänsehaut.",
+    "de": "Le refrain me donne des frissons.",
+    "luecke": "bekomme ich Gänsehaut",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Beim Refrain habe ich Gänsehaut bekommen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Beim Refrain werde ich Gänsehaut bekommen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_11",
+   "thema": "gefuehle",
+   "fr": "Angst haben vor",
+   "de": "avoir peur de",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "Angst haben vor + datif (vor der Dunkelheit) ; kein = négation d'un nom (keine Angst) ; nicht … sondern = non pas … mais (après une négation). die Stille = le silence.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
+    "de": "Je n'ai pas peur du noir, mais du silence.",
+    "luecke": "habe keine Angst vor",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich hatte keine Angst vor der Dunkelheit.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde keine Angst vor der Dunkelheit haben.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_12",
+   "thema": "gefuehle",
+   "fr": "gut gelaunt sein",
+   "de": "être de bonne humeur",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "gelaunt = luné (die Laune = l'humeur) ; gut / schlecht gelaunt. die Sonne scheint = le soleil brille (scheinen = briller, et aussi sembler). Deux points : majuscule après.",
+   "audio": null,
+   "satz": {
+    "fr": "Heute Morgen bin ich gut gelaunt: Die Sonne scheint.",
+    "de": "Ce matin, je suis de bonne humeur, le soleil est là.",
+    "luecke": "gut gelaunt",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Heute Morgen war ich gut gelaunt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Morgen werde ich gut gelaunt sein.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_13",
+   "thema": "gefuehle",
+   "fr": "schlecht gelaunt sein",
+   "de": "être de mauvaise humeur",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "ansprechen = adresser la parole (particule séparable : sprich … an) ; impératif négatif : sprich … nicht an. Aussi : schlechte Laune haben, mies drauf sein (familier).",
+   "audio": null,
+   "satz": {
+    "fr": "Sprich ihn nicht an, er ist schlecht gelaunt.",
+    "de": "Ne lui parle pas, il est de mauvaise humeur.",
+    "luecke": "schlecht gelaunt",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_14",
+   "thema": "gefuehle",
+   "fr": "vermissen",
+   "de": "ça me manque",
+   "register": "tu",
+   "anker": "vermissen",
+   "notiz": "plus simple qu'en français : la personne qui ressent le manque est le sujet – ich vermisse dich = tu me manques. Aussi : du fehlst mir (comme en français). unterwegs = en déplacement.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
+    "de": "Mes chats me manquent quand je suis en voyage.",
+    "luecke": "vermisse",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe meine Katzen vermisst.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde meine Katzen vermissen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_15",
+   "thema": "gefuehle",
+   "fr": "schwer ums Herz sein",
+   "de": "en avoir gros sur le cœur",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "littéralement « c'est lourd autour du cœur à moi » (ums = um das) ; tournure impersonnelle avec datif : mir ist schwer ums Herz. Un peu littéraire, très expressif.",
+   "audio": null,
+   "satz": {
+    "fr": "Nach diesem Tag ist mir schwer ums Herz.",
+    "de": "Après cette journée, j'en ai gros sur le cœur.",
+    "luecke": "ist mir schwer ums Herz",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mir war schwer ums Herz.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mir wird schwer ums Herz sein.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_16",
+   "thema": "gefuehle",
+   "fr": "ergreifend",
+   "de": "bouleversant",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "de ergreifen = saisir, empoigner (greifen = saisir) ; ergreifend = bouleversant, poignant ; ergriffen = bouleversé. des Films = génitif (der Film).",
+   "audio": null,
+   "satz": {
+    "fr": "Das Ende des Films ist ergreifend.",
+    "de": "La fin du film est bouleversante.",
+    "luecke": "ergreifend",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_17",
+   "thema": "gefuehle",
+   "fr": "sich wohl / unwohl fühlen",
+   "de": "se sentir bien / mal",
+   "register": "tu",
+   "anker": "fühlen",
+   "notiz": "sich fühlen + adverbe : ich fühle mich wohl, unwohl, müde. wohl = bien (état) ; gut geht aussi : ich fühle mich gut. nach + datif : nach dem Kung-Fu.",
+   "audio": null,
+   "satz": {
+    "fr": "Nach dem Kung-Fu fühle ich mich wohl, leicht.",
+    "de": "Après le kung-fu, je me sens bien, léger.",
+    "luecke": "fühle ich mich wohl",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Nach dem Kung-Fu habe ich mich wohl gefühlt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Nach dem Kung-Fu werde ich mich wohl fühlen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_18",
+   "thema": "gefuehle",
+   "fr": "einen Kloß im Hals haben",
+   "de": "avoir le cœur lourd, la gorge serrée",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "der Kloß = la boulette, la quenelle (plat !) – « avoir une boulette dans la gorge » = avoir la gorge serrée. im Hals = in dem Hals. sie ist gegangen = parfait avec sein (gehen).",
+   "audio": null,
+   "satz": {
+    "fr": "Sie ist gegangen, und ich habe einen Kloß im Hals.",
+    "de": "Elle est partie, et j'ai le cœur lourd.",
+    "luecke": "habe einen Kloß im Hals",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich hatte einen Kloß im Hals.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde einen Kloß im Hals haben.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_19",
+   "thema": "gefuehle",
+   "fr": "das macht mich traurig / froh",
+   "de": "ça me rend triste / heureux",
+   "register": "tu",
+   "anker": "machen",
+   "notiz": "machen + adjectif = rendre : das macht mich traurig, froh, nervös (mich = accusatif). Pas de « rendre » en allemand ici ! ein bisschen = un peu.",
+   "audio": null,
+   "satz": {
+    "fr": "Der Regen über Saarbrücken macht mich ein bisschen traurig.",
+    "de": "La pluie sur Sarrebruck me rend un peu triste.",
+    "luecke": "macht mich",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Der Regen hat mich ein bisschen traurig gemacht.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Der Regen wird mich ein bisschen traurig machen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_20",
+   "thema": "gefuehle",
+   "fr": "das Hell-Dunkel",
+   "de": "le clair-obscur",
+   "register": "tu",
+   "anker": "lieben",
+   "notiz": "hell (clair) + dunkel (sombre) ; les Allemands disent aussi das Chiaroscuro. das Gemälde = le tableau, la peinture (pluriel die Gemälde). von + datif = de (possession).",
+   "audio": null,
+   "satz": {
+    "fr": "Ich liebe das Hell-Dunkel in den Gemälden von Rembrandt.",
+    "de": "J'adore le clair-obscur dans les tableaux de Rembrandt.",
+    "luecke": "Hell-Dunkel",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_21",
+   "thema": "gefuehle",
+   "fr": "friedlich",
+   "de": "paisible",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "friedlich = paisible (der Frieden = la paix) ; aussi ruhig = calme. abends = le soir (habitude, adverbe en -s). Inversion après l'adverbe : Abends ist der Garten …",
+   "audio": null,
+   "satz": {
+    "fr": "Abends ist der Garten friedlich.",
+    "de": "Le soir, le jardin est paisible.",
+    "luecke": "friedlich",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_22",
+   "thema": "gefuehle",
+   "fr": "beklemmend",
+   "de": "angoissant",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "de beklemmen = oppresser (klemmen = coincer) ; beklemmend = oppressant, angoissant ; die Beklemmung = l'angoisse. der Gang = le couloir ; leer = vide.",
+   "audio": null,
+   "satz": {
+    "fr": "Der leere Gang im Museum war beklemmend.",
+    "de": "Le couloir vide du musée était angoissant.",
+    "luecke": "beklemmend",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ge_23",
+   "thema": "gefuehle",
+   "fr": "Kummer haben",
+   "de": "avoir du chagrin",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "der Kummer = le chagrin, les soucis (sans article : Kummer haben) ; Liebeskummer = chagrin d'amour. seit + subordonnée : verbe à la fin (gestorben ist = parfait de sterben avec sein).",
+   "audio": null,
+   "satz": {
+    "fr": "Er hat Kummer, seit seine Katze gestorben ist.",
+    "de": "Il a du chagrin depuis la mort de son chat.",
+    "luecke": "hat Kummer",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Er hatte großen Kummer.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Er wird Kummer haben.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ge_24",
+   "thema": "gefuehle",
+   "fr": "Es tut mir leid.",
+   "de": "je suis désolé(e)",
+   "register": "vous",
+   "anker": "tun",
+   "notiz": "littéralement « ça me fait de la peine » (leid = pénible ; tun = faire) – l'excuse standard, pour tout le monde. Sie = vous de politesse (accusatif Sie). stören = déranger ; wollte = prétérit de wollen.",
+   "audio": null,
+   "satz": {
+    "fr": "Es tut mir leid, ich wollte Sie nicht stören.",
+    "de": "Je suis désolé, madame, je ne voulais pas vous déranger.",
+    "luecke": "Es tut mir leid",
+    "audio": null
    },
    "zeit": null
   }
