@@ -1417,21 +1417,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "le fusa = das Schnurren, nur im Plural (von fuso = Spindel: das Surren der Spindel); fare le fusa = schnurren. appena = sobald.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_01.mp3",
    "satz": {
     "fr": "Il mio gatto fa le fusa appena mi siedo.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "fa le fusa",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto le fusa tutta la sera.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_01_pc.mp3"
     },
     "fp": {
      "fr": "Farà le fusa appena mi siedo.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_01_fp.mp3"
     }
    }
   },
@@ -1443,21 +1443,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "le coccole = Streicheleinheiten, Schmusen (coccolare = verhätscheln); fare le coccole a qualcuno; coccolone = Schmusekatze. farmi = fare + mi.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_02.mp3",
    "satz": {
     "fr": "La sera viene a farmi le coccole sul divano.",
     "de": "Abends kommt sie, um mit mir auf dem Sofa zu schmusen.",
     "luecke": "farmi le coccole",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri sera mi ha fatto le coccole.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_02_pc.mp3"
     },
     "fp": {
      "fr": "Stasera verrà a farmi le coccole.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_02_fp.mp3"
     }
    }
   },
@@ -1469,21 +1469,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "graffiare",
    "notiz": "graffiare = kratzen mit Krallen (il graffio = der Kratzer); grattare = kratzen (Juckreiz), grattugiare = reiben (Käse). attento! = Vorsicht (attenta an eine Frau).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_03.mp3",
    "satz": {
     "fr": "Attento, graffia se lo accarezzi troppo a lungo.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "graffia",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_03.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mi ha graffiato.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_03_pc.mp3"
     },
     "fp": {
      "fr": "Ti graffierà, vedrai.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_03_fp.mp3"
     }
    }
   },
@@ -1495,21 +1495,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "lavarsi",
    "notiz": "lavarsi = sich waschen – bei Katzen: sich putzen (auch: farsi la toilette, pulirsi). il pasto = die Mahlzeit (nicht la pasta!).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_04.mp3",
    "satz": {
     "fr": "Dopo il pasto si lava per dieci minuti.",
     "de": "Nach dem Fressen putzt er sich zehn Minuten lang.",
     "luecke": "si lava",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo il pasto si è lavato.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_04_pc.mp3"
     },
     "fp": {
      "fr": "Dopo il pasto si laverà.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_04_fp.mp3"
     }
    }
   },
@@ -1521,21 +1521,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "miagolare",
    "notiz": "miao = miau; miagolare, Betonung mia-GO-la. alle sei di mattina = um sechs Uhr morgens (di mattina / di sera).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_05.mp3",
    "satz": {
     "fr": "Miagola davanti alla porta della cucina alle sei di mattina.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "Miagola",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ha miagolato tutta la notte.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_05_pc.mp3"
     },
     "fp": {
      "fr": "Miagolerà alle sei, come sempre.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_05_fp.mp3"
     }
    }
   },
@@ -1547,21 +1547,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "avere fame/sete/freddo/sonno – immer mit avere (haben). secondo lui = ihm zufolge, seiner Meinung nach.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_06.mp3",
    "satz": {
     "fr": "Secondo lui, ha sempre fame.",
     "de": "Ihm zufolge hat er immer Hunger.",
     "luecke": "ha sempre fame",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Aveva fame, dice lui.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_06_pc.mp3"
     },
     "fp": {
      "fr": "Avrà fame tra cinque minuti.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_06_fp.mp3"
     }
    }
   },
@@ -1573,21 +1573,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "accarezzare",
    "notiz": "accarezzare = streicheln (la carezza = die Streicheleinheit); Vorsicht beim Schreiben: doppeltes z. la gatta = die Katze (weiblich), il gatto = Kater/Katze allgemein.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_07.mp3",
    "satz": {
     "fr": "Accarezzo la mia gatta dietro le orecchie, lo adora.",
     "de": "Ich streichle meine Katze hinter den Ohren, sie liebt das.",
     "luecke": "Accarezzo",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "L'ho accarezzata dietro le orecchie.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_07_pc.mp3"
     },
     "fp": {
      "fr": "La accarezzerò dietro le orecchie.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_07_fp.mp3"
     }
    }
   },
@@ -1599,21 +1599,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "farsi",
    "notiz": "wörtlich „sich die Nägel machen“ (l'unghia = Nagel, Kralle; bei Frauen = Maniküre!); il tiragraffi = Kratzbaum (tira + graffi). la poltrona = Sessel.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_08.mp3",
    "satz": {
     "fr": "Si fa le unghie sulla poltrona, mai sul tiragraffi.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "Si fa le unghie",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Si è fatto le unghie sulla poltrona.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_08_pc.mp3"
     },
     "fp": {
      "fr": "Si farà le unghie sulla poltrona.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_08_fp.mp3"
     }
    }
   },
@@ -1625,12 +1625,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il felino = Katzentier (lat. felis); i felini = Raubkatzen. ha deciso = decidere, Partizip deciso.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_09.mp3",
    "satz": {
     "fr": "Un gatto è un piccolo felino che ha deciso di vivere con noi.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "felino",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_09.mp3"
    },
    "zeit": null
   },
@@ -1642,21 +1642,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "il pisolino = Nickerchen (pisolare = dösen); -ino = klein; auch: schiacciare un pisolino (ein Nickerchen „drücken“). che vita = was für ein Leben.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_10.mp3",
    "satz": {
     "fr": "Il mio gatto fa un pisolino sedici ore al giorno. Che vita.",
     "de": "Meine Katze macht sechzehn Stunden am Tag ein Nickerchen. Was für ein Leben.",
     "luecke": "fa un pisolino",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto un pisolino di sedici ore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_10_pc.mp3"
     },
     "fp": {
      "fr": "Farà un pisolino. Lungo.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_10_fp.mp3"
     }
    }
   },
@@ -1668,21 +1668,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "strusciarsi",
    "notiz": "strusciare = reiben, scheuern; strusciarsi contro = sich reiben an. tornare a casa = nach Hause kommen. sci vor a = [ʃa].",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_11.mp3",
    "satz": {
     "fr": "Si struscia contro le mie gambe quando torno a casa.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "Si struscia contro",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Si è strusciata contro le mie gambe.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_11_pc.mp3"
     },
     "fp": {
      "fr": "Si struscerà contro le mie gambe.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_11_fp.mp3"
     }
    }
   },
@@ -1694,12 +1694,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "preferire",
    "notiz": "le crocchette = Trockenfutter (auch: Kroketten!); preferire A a B = A lieber mögen als B; preferire mit -isc-: preferisco, preferisce. le sue = seine.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_12.mp3",
    "satz": {
     "fr": "Preferisce le crocchette del vicino alle sue.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seines.",
     "luecke": "crocchette",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_12.mp3"
    },
    "zeit": null
   },
@@ -1711,12 +1711,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "l'umido = das Nassfutter (umido = feucht; il cibo umido); lo sa = er weiß es (lo = es). a mezzogiorno = mittags.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_13.mp3",
    "satz": {
     "fr": "A mezzogiorno c'è l'umido, e lui lo sa.",
     "de": "Mittags gibt es Nassfutter, und er weiß es.",
     "luecke": "umido",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_13.mp3"
    },
    "zeit": null
   },
@@ -1728,12 +1728,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "lo sguardo = der Blick (guardare = anschauen); uno sguardo vor s + Konsonant (uno sguardo, uno studente). essere in ritardo = zu spät sein.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_14.mp3",
    "satz": {
     "fr": "Ha uno sguardo che dice: « Sei in ritardo. »",
     "de": "Sie hat einen Blick, der sagt: „Du bist zu spät.“",
     "luecke": "uno sguardo",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_14.mp3"
    },
    "zeit": null
   },
@@ -1745,21 +1745,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "saltare",
    "notiz": "saltare = springen; su + la = sulla. la scrivania = Schreibtisch (scrivere = schreiben); mentre = während (zeitlich). Passato prossimo hier mit essere (Bewegung).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_15.mp3",
    "satz": {
     "fr": "Salta sulla scrivania mentre correggo i compiti.",
     "de": "Er springt auf den Schreibtisch, während ich Arbeiten korrigiere.",
     "luecke": "Salta sulla scrivania",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "È saltato sulla scrivania.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_15_pc.mp3"
     },
     "fp": {
      "fr": "Salterà sulla scrivania.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_15_fp.mp3"
     }
    }
   },
@@ -1771,21 +1771,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "nascondersi",
    "notiz": "nascondere = verstecken, Partizip nascosto; nascondino = Versteckspiel. l'aspirapolvere = Staubsauger (aspira + polvere = saugt Staub).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_16.mp3",
    "satz": {
     "fr": "Quando esce l'aspirapolvere, si nasconde sotto il letto.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unter dem Bett.",
     "luecke": "si nasconde",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Si è nascosta sotto il letto.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_16_pc.mp3"
     },
     "fp": {
      "fr": "Si nasconderà sotto il letto.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_16_fp.mp3"
     }
    }
   },
@@ -1797,21 +1797,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare compagnia a qualcuno = jemandem Gesellschaft leisten; la compagnia = Gesellschaft (auch: Firma, Theatertruppe). preparare le lezioni = Unterricht vorbereiten.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_17.mp3",
    "satz": {
     "fr": "I miei gatti mi fanno compagnia quando preparo le lezioni.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich den Unterricht vorbereite.",
     "luecke": "mi fanno compagnia",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mi hanno fatto compagnia.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_17_pc.mp3"
     },
     "fp": {
      "fr": "Mi faranno compagnia.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_17_fp.mp3"
     }
    }
   },
@@ -1823,12 +1823,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "randagio = streunend (anche: un cane randagio); un gatto di razza = Rassekatze; auch: un gatto europeo (Hauskatze ohne Stammbaum). ed vor Vokal = e.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_18.mp3",
    "satz": {
     "fr": "Non è un gatto di razza, è un gatto randagio, ed è perfetto.",
     "de": "Er ist keine Rassekatze, er ist eine Straßenkatze, und er ist perfekt.",
     "luecke": "gatto randagio",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_18.mp3"
    },
    "zeit": null
   },
@@ -1840,21 +1840,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "combinare",
    "notiz": "wörtlich „Ärger zusammenstellen“ (il guaio = Ärger, Schlamassel; guai a te! = wehe dir!); auch: combinare un casino, fare danni. non ci sono = ich bin nicht da (ci = da).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_19.mp3",
    "satz": {
     "fr": "Quando non ci sono, combinano guai.",
     "de": "Wenn ich nicht da bin, stellen sie Unsinn an.",
     "luecke": "combinano guai",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hanno combinato guai.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_19_pc.mp3"
     },
     "fp": {
      "fr": "Combineranno guai, sicuro.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_19_fp.mp3"
     }
    }
   },
@@ -1866,12 +1866,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "diventare",
    "notiz": "dal veterinario = beim Tierarzt (da + il = dal; da + Person = bei); diventare = werden. Betonung: veteri-NA-rio.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_20.mp3",
    "satz": {
     "fr": "Dal veterinario, il mio gatto diventa molto, molto calmo.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "veterinario",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_20.mp3"
    },
    "zeit": null
   },
@@ -1883,12 +1883,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dare",
    "notiz": "dare fastidio a qualcuno = jemanden stören (il fastidio = Belästigung); gli = ihm, le = ihr. dà mit Akzent (von dare), da ohne = von. stonato = schief (Gesang).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_21.mp3",
    "satz": {
     "fr": "Canto stonato, ma non gli dà fastidio. Credo.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich.",
     "luecke": "non gli dà fastidio",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_21.mp3"
    },
    "zeit": null
   },
@@ -1900,12 +1900,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "indipendente – mit i nach ind (anders als im Deutschen); l'indipendenza. tornare = zurückkommen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_22.mp3",
    "satz": {
     "fr": "Un gatto è indipendente. Torna quando ha fame.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "indipendente",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_22.mp3"
    },
    "zeit": null
   },
@@ -1917,21 +1917,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "di + Gefühl = vor: piangere di gioia, morire di fame. con gli occhi chiusi = mit geschlossenen Augen (gli vor Vokal im Plural).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_23.mp3",
    "satz": {
     "fr": "Al sole fa le fusa di piacere, con gli occhi chiusi.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "fa le fusa di piacere",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto le fusa di piacere.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_23_pc.mp3"
     },
     "fp": {
      "fr": "Farà le fusa di piacere.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ga_23_fp.mp3"
     }
    }
   },
@@ -1943,12 +1943,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "avere",
    "notiz": "Lei-Form = 3. Person: ha = Sie haben; Lei nachgestellt zur Klarheit. ce n'è uno = es gibt eine davon (ne = davon); il tetto = das Dach.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ga_24.mp3",
    "satz": {
     "fr": "Mi scusi, signora, ha un gatto, Lei? Ce n'è uno sul suo tetto.",
     "de": "Entschuldigung, Signora, haben Sie eine Katze? Da ist eine auf Ihrem Dach.",
     "luecke": "ha un gatto, Lei",
-    "audio": null
+    "audio": "audio/it-de/saetze/ga_24.mp3"
    },
    "zeit": null
   }
@@ -2820,6 +2820,60 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/lob/stark_volevo.mp3",
   "audio/it-de/lob/stark_voli.mp3",
   "audio/it-de/lob/voll_senza_errori.mp3",
+  "audio/it-de/saetze/ga_01.mp3",
+  "audio/it-de/saetze/ga_01_fp.mp3",
+  "audio/it-de/saetze/ga_01_pc.mp3",
+  "audio/it-de/saetze/ga_02.mp3",
+  "audio/it-de/saetze/ga_02_fp.mp3",
+  "audio/it-de/saetze/ga_02_pc.mp3",
+  "audio/it-de/saetze/ga_03.mp3",
+  "audio/it-de/saetze/ga_03_fp.mp3",
+  "audio/it-de/saetze/ga_03_pc.mp3",
+  "audio/it-de/saetze/ga_04.mp3",
+  "audio/it-de/saetze/ga_04_fp.mp3",
+  "audio/it-de/saetze/ga_04_pc.mp3",
+  "audio/it-de/saetze/ga_05.mp3",
+  "audio/it-de/saetze/ga_05_fp.mp3",
+  "audio/it-de/saetze/ga_05_pc.mp3",
+  "audio/it-de/saetze/ga_06.mp3",
+  "audio/it-de/saetze/ga_06_fp.mp3",
+  "audio/it-de/saetze/ga_06_pc.mp3",
+  "audio/it-de/saetze/ga_07.mp3",
+  "audio/it-de/saetze/ga_07_fp.mp3",
+  "audio/it-de/saetze/ga_07_pc.mp3",
+  "audio/it-de/saetze/ga_08.mp3",
+  "audio/it-de/saetze/ga_08_fp.mp3",
+  "audio/it-de/saetze/ga_08_pc.mp3",
+  "audio/it-de/saetze/ga_09.mp3",
+  "audio/it-de/saetze/ga_10.mp3",
+  "audio/it-de/saetze/ga_10_fp.mp3",
+  "audio/it-de/saetze/ga_10_pc.mp3",
+  "audio/it-de/saetze/ga_11.mp3",
+  "audio/it-de/saetze/ga_11_fp.mp3",
+  "audio/it-de/saetze/ga_11_pc.mp3",
+  "audio/it-de/saetze/ga_12.mp3",
+  "audio/it-de/saetze/ga_13.mp3",
+  "audio/it-de/saetze/ga_14.mp3",
+  "audio/it-de/saetze/ga_15.mp3",
+  "audio/it-de/saetze/ga_15_fp.mp3",
+  "audio/it-de/saetze/ga_15_pc.mp3",
+  "audio/it-de/saetze/ga_16.mp3",
+  "audio/it-de/saetze/ga_16_fp.mp3",
+  "audio/it-de/saetze/ga_16_pc.mp3",
+  "audio/it-de/saetze/ga_17.mp3",
+  "audio/it-de/saetze/ga_17_fp.mp3",
+  "audio/it-de/saetze/ga_17_pc.mp3",
+  "audio/it-de/saetze/ga_18.mp3",
+  "audio/it-de/saetze/ga_19.mp3",
+  "audio/it-de/saetze/ga_19_fp.mp3",
+  "audio/it-de/saetze/ga_19_pc.mp3",
+  "audio/it-de/saetze/ga_20.mp3",
+  "audio/it-de/saetze/ga_21.mp3",
+  "audio/it-de/saetze/ga_22.mp3",
+  "audio/it-de/saetze/ga_23.mp3",
+  "audio/it-de/saetze/ga_23_fp.mp3",
+  "audio/it-de/saetze/ga_23_pc.mp3",
+  "audio/it-de/saetze/ga_24.mp3",
   "audio/it-de/saetze/se_01.mp3",
   "audio/it-de/saetze/se_01_fp.mp3",
   "audio/it-de/saetze/se_01_pc.mp3",
@@ -2932,6 +2986,30 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/spiel/titel_5.mp3",
   "audio/it-de/spiel/titel_6.mp3",
   "audio/it-de/spiel/woche.mp3",
+  "audio/it-de/wendungen/ga_01.mp3",
+  "audio/it-de/wendungen/ga_02.mp3",
+  "audio/it-de/wendungen/ga_03.mp3",
+  "audio/it-de/wendungen/ga_04.mp3",
+  "audio/it-de/wendungen/ga_05.mp3",
+  "audio/it-de/wendungen/ga_06.mp3",
+  "audio/it-de/wendungen/ga_07.mp3",
+  "audio/it-de/wendungen/ga_08.mp3",
+  "audio/it-de/wendungen/ga_09.mp3",
+  "audio/it-de/wendungen/ga_10.mp3",
+  "audio/it-de/wendungen/ga_11.mp3",
+  "audio/it-de/wendungen/ga_12.mp3",
+  "audio/it-de/wendungen/ga_13.mp3",
+  "audio/it-de/wendungen/ga_14.mp3",
+  "audio/it-de/wendungen/ga_15.mp3",
+  "audio/it-de/wendungen/ga_16.mp3",
+  "audio/it-de/wendungen/ga_17.mp3",
+  "audio/it-de/wendungen/ga_18.mp3",
+  "audio/it-de/wendungen/ga_19.mp3",
+  "audio/it-de/wendungen/ga_20.mp3",
+  "audio/it-de/wendungen/ga_21.mp3",
+  "audio/it-de/wendungen/ga_22.mp3",
+  "audio/it-de/wendungen/ga_23.mp3",
+  "audio/it-de/wendungen/ga_24.mp3",
   "audio/it-de/wendungen/se_01.mp3",
   "audio/it-de/wendungen/se_02.mp3",
   "audio/it-de/wendungen/se_03.mp3",
