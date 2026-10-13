@@ -19,6 +19,7 @@ THEMEN = [
     {"id": "lehrer", "name": "Unter Lehrern", "de": "Entre profs – avec Alex", "symbol": "🧑‍🏫", "datei": "unter_lehrern.tsv"},
     {"id": "gefuehle", "name": "Gefühle und Stimmungen", "de": "Sentiments et ambiances", "symbol": "🎭", "datei": "gefuehle.tsv"},
     {"id": "katzen", "name": "Die Katzen", "de": "Les chats", "symbol": "🐈", "datei": "katzen.tsv"},
+    {"id": "musik", "name": "Musik und Sprache", "de": "Musique et langue", "symbol": "🎵", "datei": "musik.tsv"},
 ]
 
 # Titel – deutsche Leckereien
