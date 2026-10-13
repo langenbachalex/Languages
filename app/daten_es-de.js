@@ -3016,21 +3016,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "entrenar",
    "notiz": "auch entrenarse (reflexiv) ist üblich; el entrenador = Trainer, el entrenamiento = Training.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_01.mp3",
    "satz": {
     "fr": "Entreno tres veces por semana. Dos, si soy sincero.",
     "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "luecke": "Entreno",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Esta semana entrené tres veces.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_01_pc.mp3"
     },
     "fp": {
      "fr": "Esta semana voy a entrenar tres veces. Dos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_01_fp.mp3"
     }
    }
   },
@@ -3042,12 +3042,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "von pata (Tierbein, umgangssprachlich auch Bein); -ada = Schlag mit etwas: patada, puñalada (Messerstich).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_02.mp3",
    "satz": {
     "fr": "Una buena patada es, ante todo, una buena posición.",
     "de": "Ein guter Tritt ist zuerst ein guter Stand.",
     "luecke": "patada",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_02.mp3"
    },
    "zeit": null
   },
@@ -3059,12 +3059,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "salir",
    "notiz": "puño = Faust; -azo = Schlag mit: puñetazo, cabezazo (Kopfstoß), portazo (Türknallen).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_03.mp3",
    "satz": {
     "fr": "En kung-fu, el puñetazo sale de la cadera, no del brazo.",
     "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
     "luecke": "puñetazo",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_03.mp3"
    },
    "zeit": null
   },
@@ -3076,12 +3076,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "trabajar",
    "notiz": "se trabaja = „man arbeitet (an ihr)“ – se + Verb ist das spanische „man“.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_04.mp3",
    "satz": {
     "fr": "A los cuarenta, la flexibilidad se trabaja cada día. Si no, se va.",
     "de": "Mit vierzig muss man die Beweglichkeit täglich üben. Sonst geht sie.",
     "luecke": "flexibilidad",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_04.mp3"
    },
    "zeit": null
   },
@@ -3093,21 +3093,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "mantener",
    "notiz": "wörtlich „die Ruhe halten“; mantener geht wie tener: mantengo, mantuve.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_05.mp3",
    "satz": {
     "fr": "En el combate como en clase: mantener la calma, respirar, esperar.",
     "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, abwarten.",
     "luecke": "mantener la calma",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mantuve la calma. Casi.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_05_pc.mp3"
     },
     "fp": {
      "fr": "Voy a mantener la calma. Prometido.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_05_fp.mp3"
     }
    }
   },
@@ -3119,21 +3119,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "calentar",
    "notiz": "wörtlich „erwärmen“ – ohne Reflexiv im Sport; e → ie: caliento. caliente = heiß.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_06.mp3",
    "satz": {
     "fr": "Antes de entrenar, caliento diez minutos. Mi espalda me lo agradece.",
     "de": "Vor dem Training wärme ich mich zehn Minuten auf. Mein Rücken dankt es mir.",
     "luecke": "caliento",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Calenté diez minutos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_06_pc.mp3"
     },
     "fp": {
      "fr": "Voy a calentar diez minutos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_06_fp.mp3"
     }
    }
   },
@@ -3145,21 +3145,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "agujetas = wörtlich „kleine Nadeln“ (aguja = Nadel) – der Muskelkater sticht. Nur in Spanien; Lateinamerika: dolor muscular.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_07.mp3",
    "satz": {
     "fr": "Al día siguiente tengo agujetas por todas partes. Hasta en las orejas.",
     "de": "Am nächsten Tag habe ich überall Muskelkater. Sogar in den Ohren.",
     "luecke": "tengo agujetas",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Al día siguiente tuve agujetas por todas partes.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_07_pc.mp3"
     },
     "fp": {
      "fr": "Mañana voy a tener agujetas por todas partes.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_07_fp.mp3"
     }
    }
   },
@@ -3171,21 +3171,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estar",
    "notiz": "estar (Zustand) en forma; ponerse en forma = fit werden.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_08.mp3",
    "satz": {
     "fr": "Por la mañana estoy en forma. Por la tarde soy profe.",
     "de": "Morgens bin ich fit. Nachmittags bin ich Lehrer.",
     "luecke": "en forma",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Estuve en forma toda la semana.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_08_pc.mp3"
     },
     "fp": {
      "fr": "Voy a estar en forma para el curso.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_08_fp.mp3"
     }
    }
   },
@@ -3197,12 +3197,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "aguantar",
    "notiz": "aguantar = aushalten, ertragen – auch bei Menschen: no lo aguanto (ich ertrage ihn nicht).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_09.mp3",
    "satz": {
     "fr": "Aguantar la postura del jinete dos minutos: sencillo. No fácil.",
     "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
     "luecke": "Aguantar la postura",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_09.mp3"
    },
    "zeit": null
   },
@@ -3214,12 +3214,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "empezar",
    "notiz": "empezar por = „beginnen mit“ (wörtlich „durch“); e → ie: empiezo.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_10.mp3",
    "satz": {
     "fr": "En kung-fu, todo empieza por la respiración. En clase también.",
     "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
     "luecke": "respiración",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_10.mp3"
    },
    "zeit": null
   },
@@ -3231,12 +3231,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "decir",
    "notiz": "maestro = Meister und Grundschullehrer; profesor = Lehrer ab der Sekundarstufe.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_11.mp3",
    "satz": {
     "fr": "Mi maestro dice: « Despacio es rápido ». Todavía no lo he entendido.",
     "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
     "luecke": "maestro",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_11.mp3"
    },
    "zeit": null
   },
@@ -3248,21 +3248,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "aprender",
    "notiz": "me sé cuatro: saberse (reflexiv) = auswendig können; me sé la letra = ich kann den Text.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_12.mp3",
    "satz": {
     "fr": "Aprendo una secuencia nueva. Doce movimientos. Me sé cuatro.",
     "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kann ich.",
     "luecke": "secuencia",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Aprendí una secuencia nueva.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_12_pc.mp3"
     },
     "fp": {
      "fr": "Voy a aprender una secuencia nueva.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_12_fp.mp3"
     }
    }
   },
@@ -3274,12 +3274,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "Infinitiv als Subjekt: „Esquivar es mejor“ – wie das deutsche „Ausweichen ist besser“.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_13.mp3",
    "satz": {
     "fr": "Esquivar es mejor que bloquear. También funciona en las reuniones.",
     "de": "Ausweichen ist besser als blocken. Das funktioniert auch in Konferenzen.",
     "luecke": "Esquivar",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_13.mp3"
    },
    "zeit": null
   },
@@ -3291,21 +3291,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "sudar",
    "notiz": "sudar la camiseta = „sich den Hintern aufreißen“ (wörtlich: das Trikot durchschwitzen).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_14.mp3",
    "satz": {
     "fr": "Después de entrenar, sudo como una fuente. Una fuente feliz.",
     "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "luecke": "sudo",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Sudé como una fuente.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_14_pc.mp3"
     },
     "fp": {
      "fr": "Voy a sudar, de eso se trata.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_14_fp.mp3"
     }
    }
   },
@@ -3317,21 +3317,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "lesionarse",
    "notiz": "una lesión = Verletzung (Sport, Medizin); herirse = sich verwunden (Waffe, Unfall).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_15.mp3",
    "satz": {
     "fr": "Nunca me lesiono. Salvo abriendo una lata de comida para gatos.",
     "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Katzenfutter.",
     "luecke": "me lesiono",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me lesioné abriendo una lata.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_15_pc.mp3"
     },
     "fp": {
      "fr": "No me voy a lesionar. En principio.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_15_fp.mp3"
     }
    }
   },
@@ -3343,21 +3343,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estirar",
    "notiz": "wörtlich „ziehen, strecken“; los estiramientos = die Dehnübungen; estirar la pata = „den Löffel abgeben“ (umgangssprachlich).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_16.mp3",
    "satz": {
     "fr": "Estiro por la noche, delante de la tele. El gato me mira, perplejo.",
     "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut ratlos zu.",
     "luecke": "Estiro",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Estiré después del kung-fu.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_16_pc.mp3"
     },
     "fp": {
      "fr": "Voy a estirar esta noche.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_16_fp.mp3"
     }
    }
   },
@@ -3369,21 +3369,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "recuperar",
    "notiz": "el aliento = Atem (auch: Mut); sin aliento = atemlos; un buen rato = eine ganze Weile.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_17.mp3",
    "satz": {
     "fr": "Entre dos series, recupero el aliento. Durante un buen rato.",
     "de": "Zwischen zwei Sätzen komme ich wieder zu Atem. Lange.",
     "luecke": "recupero el aliento",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Recuperé el aliento en el banco.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_17_pc.mp3"
     },
     "fp": {
      "fr": "Voy a recuperar el aliento, un minuto.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_17_fp.mp3"
     }
    }
   },
@@ -3395,12 +3395,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "a la pata coja = „auf einem Bein“ (wörtlich: mit dem hinkenden Bein).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_18.mp3",
    "satz": {
     "fr": "A la pata coja tengo equilibrio. Con dos pies, depende del día.",
     "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
     "luecke": "tengo equilibrio",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_18.mp3"
    },
    "zeit": null
   },
@@ -3412,21 +3412,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "salir",
    "notiz": "salir a + Infinitiv = losgehen, um …; arrepentirse = bereuen (e → ie: me arrepiento).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_19.mp3",
    "satz": {
     "fr": "El domingo por la mañana salgo a correr. El domingo por la tarde me arrepiento.",
     "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "luecke": "salgo a correr",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "El domingo salí a correr.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_19_pc.mp3"
     },
     "fp": {
      "fr": "El domingo voy a salir a correr.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_19_fp.mp3"
     }
    }
   },
@@ -3438,12 +3438,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "hacer",
    "notiz": "el cinturón negro = der schwarze Gürtel; el pantalón meist Einzahl (anders als engl. trousers).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_20.mp3",
    "satz": {
     "fr": "El cinturón no hace al maestro. Pero sujeta el pantalón.",
     "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "luecke": "cinturón",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_20.mp3"
    },
    "zeit": null
   },
@@ -3455,21 +3455,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "hacer",
    "notiz": "auch: progresar (Verb) und avanzar; hacer = machen in vielen festen Wendungen (hacer deporte, hacer una pausa).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_21.mp3",
    "satz": {
     "fr": "Hago progresos. Despacio. Como dice mi maestro, eso es rápido.",
     "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt: Das ist schnell.",
     "luecke": "Hago progresos",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hice progresos este año.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_21_pc.mp3"
     },
     "fp": {
      "fr": "Voy a hacer progresos, estoy seguro.",
-     "audio": null
+     "audio": "audio/es-de/saetze/de_21_fp.mp3"
     }
    }
   },
@@ -3481,12 +3481,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "superarse",
    "notiz": "wörtlich „sich übertreffen“; hoy + pretérito perfecto (me he superado) – in Spanien typisch für „heute“.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_22.mp3",
    "satz": {
     "fr": "Hoy me he superado: treinta flexiones. Ayer, veintinueve.",
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "me he superado",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_22.mp3"
    },
    "zeit": null
   },
@@ -3498,12 +3498,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "la mente ist weiblich – „la mía“ (meiner) bezieht sich darauf.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_23.mp3",
    "satz": {
     "fr": "El kung-fu es cuerpo y mente. La mía discute a menudo con mi cuerpo.",
     "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "luecke": "cuerpo y mente",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_23.mp3"
    },
    "zeit": null
   },
@@ -3515,12 +3515,12 @@ window.SPRACHEN["es-de"] = {
    "register": "vous",
    "anker": "poder",
    "notiz": "apuntarse a = sich anmelden/eintragen für (wörtlich: sich aufschreiben); apuntar = notieren.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/de_24.mp3",
    "satz": {
     "fr": "Buenos días, ¿puedo apuntarme al curso del martes por la noche?",
     "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "luecke": "puedo apuntarme",
-    "audio": null
+    "audio": "audio/es-de/saetze/de_24.mp3"
    },
    "zeit": null
   }
@@ -4469,6 +4469,54 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/lob/stark_sigue.mp3",
   "audio/es-de/lob/stark_vuelas.mp3",
   "audio/es-de/lob/voll_sin_fallos.mp3",
+  "audio/es-de/saetze/de_01.mp3",
+  "audio/es-de/saetze/de_01_fp.mp3",
+  "audio/es-de/saetze/de_01_pc.mp3",
+  "audio/es-de/saetze/de_02.mp3",
+  "audio/es-de/saetze/de_03.mp3",
+  "audio/es-de/saetze/de_04.mp3",
+  "audio/es-de/saetze/de_05.mp3",
+  "audio/es-de/saetze/de_05_fp.mp3",
+  "audio/es-de/saetze/de_05_pc.mp3",
+  "audio/es-de/saetze/de_06.mp3",
+  "audio/es-de/saetze/de_06_fp.mp3",
+  "audio/es-de/saetze/de_06_pc.mp3",
+  "audio/es-de/saetze/de_07.mp3",
+  "audio/es-de/saetze/de_07_fp.mp3",
+  "audio/es-de/saetze/de_07_pc.mp3",
+  "audio/es-de/saetze/de_08.mp3",
+  "audio/es-de/saetze/de_08_fp.mp3",
+  "audio/es-de/saetze/de_08_pc.mp3",
+  "audio/es-de/saetze/de_09.mp3",
+  "audio/es-de/saetze/de_10.mp3",
+  "audio/es-de/saetze/de_11.mp3",
+  "audio/es-de/saetze/de_12.mp3",
+  "audio/es-de/saetze/de_12_fp.mp3",
+  "audio/es-de/saetze/de_12_pc.mp3",
+  "audio/es-de/saetze/de_13.mp3",
+  "audio/es-de/saetze/de_14.mp3",
+  "audio/es-de/saetze/de_14_fp.mp3",
+  "audio/es-de/saetze/de_14_pc.mp3",
+  "audio/es-de/saetze/de_15.mp3",
+  "audio/es-de/saetze/de_15_fp.mp3",
+  "audio/es-de/saetze/de_15_pc.mp3",
+  "audio/es-de/saetze/de_16.mp3",
+  "audio/es-de/saetze/de_16_fp.mp3",
+  "audio/es-de/saetze/de_16_pc.mp3",
+  "audio/es-de/saetze/de_17.mp3",
+  "audio/es-de/saetze/de_17_fp.mp3",
+  "audio/es-de/saetze/de_17_pc.mp3",
+  "audio/es-de/saetze/de_18.mp3",
+  "audio/es-de/saetze/de_19.mp3",
+  "audio/es-de/saetze/de_19_fp.mp3",
+  "audio/es-de/saetze/de_19_pc.mp3",
+  "audio/es-de/saetze/de_20.mp3",
+  "audio/es-de/saetze/de_21.mp3",
+  "audio/es-de/saetze/de_21_fp.mp3",
+  "audio/es-de/saetze/de_21_pc.mp3",
+  "audio/es-de/saetze/de_22.mp3",
+  "audio/es-de/saetze/de_23.mp3",
+  "audio/es-de/saetze/de_24.mp3",
   "audio/es-de/saetze/ga_01.mp3",
   "audio/es-de/saetze/ga_01_fp.mp3",
   "audio/es-de/saetze/ga_01_pc.mp3",
@@ -4715,6 +4763,30 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/spiel/titel_5.mp3",
   "audio/es-de/spiel/titel_6.mp3",
   "audio/es-de/spiel/woche.mp3",
+  "audio/es-de/wendungen/de_01.mp3",
+  "audio/es-de/wendungen/de_02.mp3",
+  "audio/es-de/wendungen/de_03.mp3",
+  "audio/es-de/wendungen/de_04.mp3",
+  "audio/es-de/wendungen/de_05.mp3",
+  "audio/es-de/wendungen/de_06.mp3",
+  "audio/es-de/wendungen/de_07.mp3",
+  "audio/es-de/wendungen/de_08.mp3",
+  "audio/es-de/wendungen/de_09.mp3",
+  "audio/es-de/wendungen/de_10.mp3",
+  "audio/es-de/wendungen/de_11.mp3",
+  "audio/es-de/wendungen/de_12.mp3",
+  "audio/es-de/wendungen/de_13.mp3",
+  "audio/es-de/wendungen/de_14.mp3",
+  "audio/es-de/wendungen/de_15.mp3",
+  "audio/es-de/wendungen/de_16.mp3",
+  "audio/es-de/wendungen/de_17.mp3",
+  "audio/es-de/wendungen/de_18.mp3",
+  "audio/es-de/wendungen/de_19.mp3",
+  "audio/es-de/wendungen/de_20.mp3",
+  "audio/es-de/wendungen/de_21.mp3",
+  "audio/es-de/wendungen/de_22.mp3",
+  "audio/es-de/wendungen/de_23.mp3",
+  "audio/es-de/wendungen/de_24.mp3",
   "audio/es-de/wendungen/ga_01.mp3",
   "audio/es-de/wendungen/ga_02.mp3",
   "audio/es-de/wendungen/ga_03.mp3",
