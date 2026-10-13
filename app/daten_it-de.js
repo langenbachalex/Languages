@@ -5097,7 +5097,162 @@ window.SPRACHEN["it-de"] = {
    "zeit": null
   }
  ],
- "dialoge": [],
+ "dialoge": [
+  {
+   "id": "d1",
+   "titel": "Il venerdì pomeriggio",
+   "ort": "Sala professori",
+   "zeilen": [
+    {
+     "id": "d1_01",
+     "rolle": "A",
+     "fr": "Ciao Giovanni! Quanto tempo!",
+     "de": "Hallo Giovanni! Lange nicht gesehen!",
+     "audio": null
+    },
+    {
+     "id": "d1_02",
+     "rolle": "B",
+     "fr": "Ciao Alex. Tre giorni. Ma sì, un'eternità.",
+     "de": "Hallo Alex. Drei Tage. Aber ja, eine Ewigkeit.",
+     "audio": null
+    },
+    {
+     "id": "d1_03",
+     "rolle": "A",
+     "fr": "Allora, la lezione con la terza, com'è andata?",
+     "de": "Und, die Stunde mit der Dritten, wie ist es gelaufen?",
+     "audio": null
+    },
+    {
+     "id": "d1_04",
+     "rolle": "B",
+     "fr": "Benissimo. Si sono addormentati. Anch'io, quasi.",
+     "de": "Sehr gut. Sie sind eingeschlafen. Ich fast auch.",
+     "audio": null
+    },
+    {
+     "id": "d1_05",
+     "rolle": "A",
+     "fr": "Io faccio fatica a farli stare zitti il venerdì.",
+     "de": "Ich kriege sie freitags kaum ruhig.",
+     "audio": null
+    },
+    {
+     "id": "d1_06",
+     "rolle": "B",
+     "fr": "Facile. Parli di grammatica. Silenzio totale.",
+     "de": "Ganz einfach. Du redest über Grammatik. Totenstille.",
+     "audio": null
+    },
+    {
+     "id": "d1_07",
+     "rolle": "A",
+     "fr": "E tu? Non sei distrutto?",
+     "de": "Und du? Bist du nicht fix und fertig?",
+     "audio": null
+    },
+    {
+     "id": "d1_08",
+     "rolle": "B",
+     "fr": "Sì. Quindi stasera correggo i compiti… davanti a un film.",
+     "de": "Doch. Also korrigiere ich heute Abend Arbeiten … vor einem Film.",
+     "audio": null
+    },
+    {
+     "id": "d1_09",
+     "rolle": "A",
+     "fr": "Un bel film?",
+     "de": "Ein guter Film?",
+     "audio": null
+    },
+    {
+     "id": "d1_10",
+     "rolle": "B",
+     "fr": "Non lo so. Guardo i compiti.",
+     "de": "Keine Ahnung. Ich schaue die Arbeiten an.",
+     "audio": null
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "titel": "Il gatto malinconico",
+   "ort": "Davanti alla macchina del caffè",
+   "zeilen": [
+    {
+     "id": "d2_01",
+     "rolle": "B",
+     "fr": "Tutto bene, Alex? Hai una faccia cupa.",
+     "de": "Alles klar, Alex? Du siehst düster aus.",
+     "audio": null
+    },
+    {
+     "id": "d2_02",
+     "rolle": "A",
+     "fr": "Sono giù di morale. Il mio gatto non mi guarda più.",
+     "de": "Ich bin niedergeschlagen. Meine Katze schaut mich nicht mehr an.",
+     "audio": null
+    },
+    {
+     "id": "d2_03",
+     "rolle": "B",
+     "fr": "Da quando?",
+     "de": "Seit wann?",
+     "audio": null
+    },
+    {
+     "id": "d2_04",
+     "rolle": "A",
+     "fr": "Da quando ho cantato in italiano.",
+     "de": "Seit ich auf Italienisch gesungen habe.",
+     "audio": null
+    },
+    {
+     "id": "d2_05",
+     "rolle": "B",
+     "fr": "Ah. E cosa hai cantato?",
+     "de": "Ah. Und was hast du gesungen?",
+     "audio": null
+    },
+    {
+     "id": "d2_06",
+     "rolle": "A",
+     "fr": "« Volare ». A squarciagola. Due volte.",
+     "de": "„Volare“. Aus voller Kehle. Zweimal.",
+     "audio": null
+    },
+    {
+     "id": "d2_07",
+     "rolle": "B",
+     "fr": "Alex… mi spezza il cuore, ma il tuo gatto ha ragione.",
+     "de": "Alex … das bricht mir das Herz, aber deine Katze hat recht.",
+     "audio": null
+    },
+    {
+     "id": "d2_08",
+     "rolle": "A",
+     "fr": "Lo trovi inquietante?",
+     "de": "Findest du das beunruhigend?",
+     "audio": null
+    },
+    {
+     "id": "d2_09",
+     "rolle": "B",
+     "fr": "No. Lo trovo rilassante. Per il gatto è finita.",
+     "de": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
+     "audio": null
+    },
+    {
+     "id": "d2_10",
+     "rolle": "A",
+     "fr": "Grazie, Giovanni. Mi tocca. Credo.",
+     "de": "Danke, Giovanni. Das berührt mich. Glaube ich.",
+     "audio": null
+    }
+   ]
+  }
+ ],
  "rollen": {
   "A": "Alex",
   "B": "Giovanni"
