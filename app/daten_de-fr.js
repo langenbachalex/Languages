@@ -1992,21 +1992,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "singen",
    "notiz": "sauber = propre, et « juste » en musique (aussi : richtig singen, den Ton treffen) ; singen, participe gesungen. mit dem Herzen = avec le cœur (datif).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_01.mp3",
    "satz": {
     "fr": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
     "de": "Mon frère chante juste, moi je chante avec le cœur.",
     "luecke": "singt sauber",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern hat er sauber gesungen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_01_pc.mp3"
     },
     "fp": {
      "fr": "Morgen wird er sauber singen. Er.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_01_fp.mp3"
     }
    }
   },
@@ -2018,21 +2018,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "singen",
    "notiz": "schief = de travers, et « faux » en musique (chanter faux = falsch singen ou schief singen) ; laut = fort (volume) ; ausgleichen = compenser (particule séparable : gleicht … aus).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_02.mp3",
    "satz": {
     "fr": "Ich singe schief, aber laut. Das gleicht es aus.",
     "de": "Je chante faux, mais fort. Ça compense.",
     "luecke": "singe schief",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den ganzen Abend schief gesungen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_02_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde schief singen, aber mit Gefühl.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_02_fp.mp3"
     }
    }
   },
@@ -2044,12 +2044,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kennen",
    "notiz": "der Refrain (prononcé à la française, accent sur -frain) ; die Strophe = le couplet. kennen = connaître, wissen = savoir. schon = ici « si », pour contredire une négation.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_03.mp3",
    "satz": {
     "fr": "Ich kenne den Text nicht, aber den Refrain schon.",
     "de": "Je ne connais pas les paroles, mais le refrain, oui.",
     "luecke": "Refrain",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_03.mp3"
    },
    "zeit": null
   },
@@ -2061,12 +2061,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verursachen",
    "notiz": "der Liedtext = Lied + Text (les paroles, singulier !) ; das Lied, génitif dieses Liedes. verursachen = provoquer. die Gänsehaut = la chair de poule.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_04.mp3",
    "satz": {
     "fr": "Der Text dieses Liedes verursacht bei mir Gänsehaut.",
     "de": "Les paroles de cette chanson me donnent des frissons.",
     "luecke": "Text",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_04.mp3"
    },
    "zeit": null
   },
@@ -2078,12 +2078,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "klingen",
    "notiz": "klingen = sonner, résonner (die Klingel = la sonnette) ; das klingt gut / schlecht / komisch. auf Deutsch = en allemand (auf + langue). weniger = moins.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_05.mp3",
    "satz": {
     "fr": "Auf Deutsch klingt dieser Satz gut. Auf Französisch weniger.",
     "de": "En allemand, cette phrase sonne bien. En français, moins.",
     "luecke": "klingt dieser Satz gut",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_05.mp3"
    },
    "zeit": null
   },
@@ -2095,12 +2095,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Gehör = l'ouïe, l'oreille musicale (hören = entendre) ; das Ohr = l'oreille (organe). sofort = tout de suite.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_06.mp3",
    "satz": {
     "fr": "Aurélien hat ein gutes Gehör: Er hört meinen deutschen Akzent sofort.",
     "de": "Aurélien a l'oreille : il entend mon accent allemand tout de suite.",
     "luecke": "hat ein gutes Gehör",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_06.mp3"
    },
    "zeit": null
   },
@@ -2112,12 +2112,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Akzent = l'accent (prononciation) ; die Mischung aus = le mélange de (aus + datif) ; der gute Wille = la bonne volonté (datif : gutem Willen, déclinaison faible !).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_07.mp3",
    "satz": {
     "fr": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "de": "Mon accent, c'est un mélange de Sarre et de bonne volonté.",
     "luecke": "Akzent",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_07.mp3"
    },
    "zeit": null
   },
@@ -2129,12 +2129,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lieben",
    "notiz": "was ich … liebe, ist … = ce que j'aime, c'est (mise en relief) ; am Deutschen = an dem Deutschen (adjectif substantivé, datif). der Sprache = génitif (die Sprache).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_08.mp3",
    "satz": {
     "fr": "Was ich am Deutschen liebe, ist die Musik der Sprache.",
     "de": "Ce que j'aime en allemand, c'est la musique de la langue.",
     "luecke": "die Musik der Sprache",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_08.mp3"
    },
    "zeit": null
   },
@@ -2146,21 +2146,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "spielen",
    "notiz": "spielen + instrument sans préposition ni article : Gitarre spielen, Klavier spielen (comme pour les sports : Fußball spielen). schlecht = mal (adverbe).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_09.mp3",
    "satz": {
     "fr": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "de": "Tu joues d'un instrument ? – Oui, de la guitare, mal.",
     "luecke": "Spielst du ein Instrument",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_09.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hast du als Kind ein Instrument gespielt?",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_09_pc.mp3"
     },
     "fp": {
      "fr": "Wirst du ein Instrument spielen? Hoffentlich nicht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_09_fp.mp3"
     }
    }
   },
@@ -2172,21 +2172,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "hören",
    "notiz": "die Dauerschleife = la boucle permanente (Dauer = durée, Schleife = boucle, nœud) ; familier : auf Repeat. seit drei Tagen = depuis trois jours (seit + datif, verbe au présent !).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_10.mp3",
    "satz": {
     "fr": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "de": "J'écoute cette chanson en boucle depuis trois jours.",
     "luecke": "in Dauerschleife",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe dieses Lied in Dauerschleife gehört.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_10_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde dieses Lied in Dauerschleife hören.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_10_fp.mp3"
     }
    }
   },
@@ -2198,21 +2198,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Ohrwurm = « le ver d'oreille » = la chanson qu'on a dans la tête (le mot est passé en anglais : earworm). Aurélien et Brel, c'est une longue histoire. seit heute Morgen = depuis ce matin.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_11.mp3",
    "satz": {
     "fr": "Ich habe seit heute Morgen « Ne me quitte pas » als Ohrwurm. Danke, Aurélien.",
     "de": "J'ai « Ne me quitte pas » dans la tête depuis ce matin. Merci, Aurélien.",
     "luecke": "als Ohrwurm",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte den ganzen Tag einen Ohrwurm.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_11_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde tagelang einen Ohrwurm haben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_11_fp.mp3"
     }
    }
   },
@@ -2224,21 +2224,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "summen",
    "notiz": "summen = fredonner, bourdonner (die Biene summt) ; vor sich hin = pour soi, distraitement (vor mich hin, vor dich hin …). beim Korrigieren = en corrigeant (bei + infinitif substantivé).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_12.mp3",
    "satz": {
     "fr": "Ich summe beim Korrigieren vor mich hin. Die Schüler wissen das nicht.",
     "de": "Je fredonne en corrigeant des copies. Les élèves ne le savent pas.",
     "luecke": "summe beim Korrigieren vor mich hin",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe beim Korrigieren vor mich hin gesummt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_12_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde beim Korrigieren vor mich hin summen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_12_fp.mp3"
     }
    }
   },
@@ -2250,12 +2250,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "liegen",
    "notiz": "der Rhythmus (orthographe : rh, y, th !) ; der Akzent liegt auf = l'accent tombe sur. En allemand, l'accent est en général sur la première syllabe du radical (ARbeit, LEHrer) – l'inverse du français.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_13.mp3",
    "satz": {
     "fr": "Das Deutsche hat einen Rhythmus: Der Akzent liegt meist auf der ersten Silbe.",
     "de": "L'allemand a un rythme : l'accent tombe le plus souvent sur la première syllabe.",
     "luecke": "Rhythmus",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_13.mp3"
    },
    "zeit": null
   },
@@ -2267,12 +2267,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Umlaut = la voyelle avec tréma (ä, ö, ü) ; ü = u avec les lèvres de « u » français… c'est justement le son français « u » ! ö = « eu » français. Pour un Français, les Umlaute sont faciles ; pour les Allemands, c'est le « on » qui est dur.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_14.mp3",
    "satz": {
     "fr": "Ä, ö, ü: Die Umlaute sind die Musik zwischen den Buchstaben.",
     "de": "Ä, ö, ü : les Umlaute, c'est la musique entre les lettres.",
     "luecke": "Umlaute",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_14.mp3"
    },
    "zeit": null
   },
@@ -2284,21 +2284,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "aussprechen",
    "notiz": "aussprechen = prononcer (particule séparable : spreche … aus, participe ausgesprochen) ; die Aussprache = la prononciation. das Eichhörnchen = l'écureuil – le mot-test pour les étrangers (ch + ö + rn + ch !).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_15.mp3",
    "satz": {
     "fr": "Ich kann « Eichhörnchen » nicht aussprechen. Ich sage « Eichhorn ».",
     "de": "Je n'arrive pas à prononcer « Eichhörnchen ». Je dis « Eichhorn ».",
     "luecke": "aussprechen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe es nicht ausgesprochen. Lieber nicht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_15_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde es aussprechen. Eines Tages.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_15_fp.mp3"
     }
    }
   },
@@ -2310,12 +2310,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "das Stück = le morceau (musique, gâteau, pièce de théâtre : das Theaterstück) ; das Klavierstück = le morceau de piano. zugleich = en même temps (aussi : gleichzeitig).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_16.mp3",
    "satz": {
     "fr": "Dieses Klavierstück macht mich glücklich und traurig zugleich.",
     "de": "Ce morceau de piano me rend heureux et triste en même temps.",
     "luecke": "Klavierstück",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_16.mp3"
    },
    "zeit": null
   },
@@ -2327,12 +2327,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "singen",
    "notiz": "die Kehle = la gorge ; aus voller Kehle = « à pleine gorge » (datif sans article : voller Kehle) ; aussi : aus vollem Hals, lauthals. im Auto = in dem Auto.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_17.mp3",
    "satz": {
     "fr": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "de": "Dans la voiture, je chante à tue-tête. Seul. Toujours seul.",
     "luecke": "aus voller Kehle",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_17.mp3"
    },
    "zeit": null
   },
@@ -2344,12 +2344,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "tief = profond, grave (voix) ; hoch (hohe devant un nom !) = haut, aigu. die Lehrerstimme = la voix de prof (mot composé, sans « de »). die Stimme = la voix ; die Stimmung = l'ambiance.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_18.mp3",
    "satz": {
     "fr": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "de": "Il a une voix grave, elle a une voix aiguë, et moi j'ai une voix de prof.",
     "luecke": "tiefe Stimme",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_18.mp3"
    },
    "zeit": null
   },
@@ -2361,12 +2361,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "ansprechen",
    "notiz": "ansprechen = adresser la parole, et « parler à quelqu'un » au sens de plaire (particule séparable : spricht … an) ; mich = accusatif. das sagt mir nichts = ça ne me dit rien.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_19.mp3",
    "satz": {
     "fr": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "de": "Cette chanson me parle. Je ne comprends pas tout, mais elle me parle.",
     "luecke": "spricht mich an",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_19.mp3"
    },
    "zeit": null
   },
@@ -2378,21 +2378,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lernen",
    "notiz": "auswendig = par cœur (« de l'extérieur », sans regarder) ; auswendig lernen / können. der Lieblingswortschatz = Lieblings- (préféré) + Wortschatz (vocabulaire, « trésor de mots »).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_20.mp3",
    "satz": {
     "fr": "Ich lerne die Liedtexte auswendig, das ist mein Lieblingswortschatz.",
     "de": "J'apprends les paroles par cœur, c'est mon vocabulaire préféré.",
     "luecke": "lerne die Liedtexte auswendig",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den Text auswendig gelernt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_20_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde den Text auswendig lernen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_20_fp.mp3"
     }
    }
   },
@@ -2404,21 +2404,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "versprechen",
    "notiz": "sich versprechen = faire un lapsus, se tromper en parlant (attention : versprechen sans sich = promettre !) ; der Versprecher = le lapsus. stimmen = être juste, exact (das stimmt = c'est vrai).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_21.mp3",
    "satz": {
     "fr": "Ich verspreche mich oft, aber die Melodie stimmt.",
     "de": "Je me trompe souvent de mot, mais la mélodie est juste.",
     "luecke": "verspreche mich oft",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe mich versprochen. Schon wieder.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_21_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde mich versprechen, das weiß ich.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_21_fp.mp3"
     }
    }
   },
@@ -2430,21 +2430,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "tun",
    "notiz": "jemandem guttun = faire du bien à quelqu'un (tun = faire ; mir = datif) ; participe gutgetan. Le contraire : wehtun = faire mal (das tut weh = ça fait mal).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_22.mp3",
    "satz": {
     "fr": "Abends singen tut mir gut.",
     "de": "Chanter le soir, ça me fait du bien.",
     "luecke": "tut mir gut",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_22.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Singen hat mir gutgetan.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_22_pc.mp3"
     },
     "fp": {
      "fr": "Singen wird mir guttun.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/mu_22_fp.mp3"
     }
    }
   },
@@ -2456,12 +2456,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "singend = chantant (participe présent : singen + -d, décliné devant le nom) ; man = on. Les Allemands eux-mêmes disent que le français est la langue chantante – ici Alex contre-attaque.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_23.mp3",
    "satz": {
     "fr": "Deutsch ist eine singende Sprache. Man hört es nur nicht sofort.",
     "de": "L'allemand est une langue chantante. On ne l'entend juste pas tout de suite.",
     "luecke": "singende Sprache",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_23.mp3"
    },
    "zeit": null
   },
@@ -2473,12 +2473,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "können",
    "notiz": "könnten Sie = pourriez-vous (Konjunktiv II) ; wiederholen = répéter (particule inséparable : ich wiederhole) ; langsamer = plus lentement (comparatif en -er). das Wort, pluriel die Wörter (mots isolés) / die Worte (paroles).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/mu_24.mp3",
    "satz": {
     "fr": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "de": "Pardon, pourriez-vous répéter plus lentement ? J'écoute la musique, pas les mots.",
     "luecke": "könnten Sie das langsamer wiederholen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/mu_24.mp3"
    },
    "zeit": null
   }
@@ -3446,6 +3446,50 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/saetze/ka_23_fp.mp3",
   "audio/de-fr/saetze/ka_23_pc.mp3",
   "audio/de-fr/saetze/ka_24.mp3",
+  "audio/de-fr/saetze/mu_01.mp3",
+  "audio/de-fr/saetze/mu_01_fp.mp3",
+  "audio/de-fr/saetze/mu_01_pc.mp3",
+  "audio/de-fr/saetze/mu_02.mp3",
+  "audio/de-fr/saetze/mu_02_fp.mp3",
+  "audio/de-fr/saetze/mu_02_pc.mp3",
+  "audio/de-fr/saetze/mu_03.mp3",
+  "audio/de-fr/saetze/mu_04.mp3",
+  "audio/de-fr/saetze/mu_05.mp3",
+  "audio/de-fr/saetze/mu_06.mp3",
+  "audio/de-fr/saetze/mu_07.mp3",
+  "audio/de-fr/saetze/mu_08.mp3",
+  "audio/de-fr/saetze/mu_09.mp3",
+  "audio/de-fr/saetze/mu_09_fp.mp3",
+  "audio/de-fr/saetze/mu_09_pc.mp3",
+  "audio/de-fr/saetze/mu_10.mp3",
+  "audio/de-fr/saetze/mu_10_fp.mp3",
+  "audio/de-fr/saetze/mu_10_pc.mp3",
+  "audio/de-fr/saetze/mu_11.mp3",
+  "audio/de-fr/saetze/mu_11_fp.mp3",
+  "audio/de-fr/saetze/mu_11_pc.mp3",
+  "audio/de-fr/saetze/mu_12.mp3",
+  "audio/de-fr/saetze/mu_12_fp.mp3",
+  "audio/de-fr/saetze/mu_12_pc.mp3",
+  "audio/de-fr/saetze/mu_13.mp3",
+  "audio/de-fr/saetze/mu_14.mp3",
+  "audio/de-fr/saetze/mu_15.mp3",
+  "audio/de-fr/saetze/mu_15_fp.mp3",
+  "audio/de-fr/saetze/mu_15_pc.mp3",
+  "audio/de-fr/saetze/mu_16.mp3",
+  "audio/de-fr/saetze/mu_17.mp3",
+  "audio/de-fr/saetze/mu_18.mp3",
+  "audio/de-fr/saetze/mu_19.mp3",
+  "audio/de-fr/saetze/mu_20.mp3",
+  "audio/de-fr/saetze/mu_20_fp.mp3",
+  "audio/de-fr/saetze/mu_20_pc.mp3",
+  "audio/de-fr/saetze/mu_21.mp3",
+  "audio/de-fr/saetze/mu_21_fp.mp3",
+  "audio/de-fr/saetze/mu_21_pc.mp3",
+  "audio/de-fr/saetze/mu_22.mp3",
+  "audio/de-fr/saetze/mu_22_fp.mp3",
+  "audio/de-fr/saetze/mu_22_pc.mp3",
+  "audio/de-fr/saetze/mu_23.mp3",
+  "audio/de-fr/saetze/mu_24.mp3",
   "audio/de-fr/saetze/ul_01.mp3",
   "audio/de-fr/saetze/ul_01_fp.mp3",
   "audio/de-fr/saetze/ul_01_pc.mp3",
@@ -3556,6 +3600,30 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/wendungen/ka_22.mp3",
   "audio/de-fr/wendungen/ka_23.mp3",
   "audio/de-fr/wendungen/ka_24.mp3",
+  "audio/de-fr/wendungen/mu_01.mp3",
+  "audio/de-fr/wendungen/mu_02.mp3",
+  "audio/de-fr/wendungen/mu_03.mp3",
+  "audio/de-fr/wendungen/mu_04.mp3",
+  "audio/de-fr/wendungen/mu_05.mp3",
+  "audio/de-fr/wendungen/mu_06.mp3",
+  "audio/de-fr/wendungen/mu_07.mp3",
+  "audio/de-fr/wendungen/mu_08.mp3",
+  "audio/de-fr/wendungen/mu_09.mp3",
+  "audio/de-fr/wendungen/mu_10.mp3",
+  "audio/de-fr/wendungen/mu_11.mp3",
+  "audio/de-fr/wendungen/mu_12.mp3",
+  "audio/de-fr/wendungen/mu_13.mp3",
+  "audio/de-fr/wendungen/mu_14.mp3",
+  "audio/de-fr/wendungen/mu_15.mp3",
+  "audio/de-fr/wendungen/mu_16.mp3",
+  "audio/de-fr/wendungen/mu_17.mp3",
+  "audio/de-fr/wendungen/mu_18.mp3",
+  "audio/de-fr/wendungen/mu_19.mp3",
+  "audio/de-fr/wendungen/mu_20.mp3",
+  "audio/de-fr/wendungen/mu_21.mp3",
+  "audio/de-fr/wendungen/mu_22.mp3",
+  "audio/de-fr/wendungen/mu_23.mp3",
+  "audio/de-fr/wendungen/mu_24.mp3",
   "audio/de-fr/wendungen/ul_01.mp3",
   "audio/de-fr/wendungen/ul_02.mp3",
   "audio/de-fr/wendungen/ul_03.mp3",
