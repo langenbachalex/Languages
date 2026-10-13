@@ -2522,12 +2522,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "wörtlich „es gab ein Mal“ (c'era = imperfetto von c'è) – der Märchenanfang. la favola = Fabel, Märchen; la fiaba = Märchen (Grimm, Andersen).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_01.mp3",
    "satz": {
     "fr": "C'era una volta un professore che non correggeva mai i compiti. È una favola.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "C'era una volta",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_01.mp3"
    },
    "zeit": null
   },
@@ -2539,21 +2539,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "raccontare",
    "notiz": "raccontare qualcosa a qualcuno; il racconto = Erzählung, Kurzgeschichte. addormentarsi = einschlafen (dormire = schlafen). prima di = vor.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_02.mp3",
    "satz": {
     "fr": "La sera racconto una storia al mio gatto. Si addormenta prima della fine.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "racconto una storia",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho raccontato una storia al mio gatto.",
-     "audio": null
+     "audio": "audio/it-de/saetze/st_02_pc.mp3"
     },
     "fp": {
      "fr": "Racconterò una storia al mio gatto.",
-     "audio": null
+     "audio": "audio/it-de/saetze/st_02_fp.mp3"
     }
    }
   },
@@ -2565,12 +2565,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cominciare",
    "notiz": "la ricerca = Suche, Forschung (cercare = suchen); la ricerca del Graal. il romanzo = der Roman (nicht „Romanze“!). anche se = auch wenn.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_03.mp3",
    "satz": {
     "fr": "Ogni buon romanzo comincia con una ricerca. Anche se è solo cercare le chiavi.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur die Schlüsselsuche ist.",
     "luecke": "ricerca",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_03.mp3"
    },
    "zeit": null
   },
@@ -2582,12 +2582,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "il folto = das Dickicht (folto = dicht); nel folto del bosco = im tiefsten Wald. il bosco = Wald, la foresta = großer Wald. in + il = nel, in + la = nella.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_04.mp3",
    "satz": {
     "fr": "Nel folto del bosco c'era una casa. E nella casa, una luce.",
     "de": "Tief im Wald stand ein Haus. Und in dem Haus ein Licht.",
     "luecke": "Nel folto del bosco",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_04.mp3"
    },
    "zeit": null
   },
@@ -2599,12 +2599,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sputare",
    "notiz": "il drago, Plural i draghi (gh für harten Laut); sputare fuoco = Feuer speien (sputare = spucken). Imperfetto sputava = Beschreibung.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_05.mp3",
    "satz": {
     "fr": "Il drago non sputava fuoco. Sputava compiti.",
     "de": "Der Drache spie kein Feuer. Er spie Hausaufgaben.",
     "luecke": "drago",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_05.mp3"
    },
    "zeit": null
   },
@@ -2616,12 +2616,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendere",
    "notiz": "la spada = Schwert; pesante = schwer (Gewicht; schwierig = difficile). ha preso = prendere, Partizip preso.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_06.mp3",
    "satz": {
     "fr": "L'eroe ha preso la sua spada. Era pesante, come un lunedì.",
     "de": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "luecke": "spada",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_06.mp3"
    },
    "zeit": null
   },
@@ -2633,12 +2633,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "trasformare",
    "notiz": "l'incantesimo = Zauber, Bann (incantare = verzaubern; incantevole = bezaubernd); fare un incantesimo. durare = dauern (mit essere: è durato).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_07.mp3",
    "satz": {
     "fr": "Un incantesimo ha trasformato la classe in silenzio. È durato solo tre minuti.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es dauerte nur drei Minuten.",
     "luecke": "incantesimo",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_07.mp3"
    },
    "zeit": null
   },
@@ -2650,12 +2650,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "aprirsi",
    "notiz": "wörtlich „ins Unvorhergesehene“ (improvviso = unerwartet); synonym: d'un tratto, di colpo. si è aperta = aprirsi, Partizip aperto.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_08.mp3",
    "satz": {
     "fr": "All'improvviso la porta si è aperta. Nessuno. Solo il vento. Spero.",
     "de": "Plötzlich öffnete sich die Tür. Niemand. Nur der Wind. Hoffe ich.",
     "luecke": "All'improvviso",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_08.mp3"
    },
    "zeit": null
   },
@@ -2667,12 +2667,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il segreto = Geheimnis; segreto auch Adjektiv (un passaggio segreto). tutti = alle (Plural-Verb: tutti hanno). anche = auch, sogar.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_09.mp3",
    "satz": {
     "fr": "In questa storia tutti hanno un segreto. Anche il gatto.",
     "de": "In dieser Geschichte hat jeder ein Geheimnis. Sogar die Katze.",
     "luecke": "hanno un segreto",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_09.mp3"
    },
    "zeit": null
   },
@@ -2684,12 +2684,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "parlare",
    "notiz": "il regno = Königreich (il re = König, la regina = Königin; regnare = herrschen); il Regno Unito. la gente = die Leute (Singular!): la gente ascoltava.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_10.mp3",
    "satz": {
     "fr": "In quel regno i libri parlavano e la gente ascoltava.",
     "de": "In jenem Königreich sprachen die Bücher, und die Leute hörten zu.",
     "luecke": "regno",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_10.mp3"
    },
    "zeit": null
   },
@@ -2701,12 +2701,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il mago = Zauberer (la maga = Zauberin), la strega = Hexe (lo stregone = Hexenmeister); stregare = verhexen. la capisco = ich verstehe sie (la vor dem Verb).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_11.mp3",
    "satz": {
     "fr": "La strega non era cattiva. Era stanca. La capisco.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "strega",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_11.mp3"
    },
    "zeit": null
   },
@@ -2718,21 +2718,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "trasformarsi",
    "notiz": "trasformarsi in + Nomen ohne Artikel: in lettore, in rana. a mezzanotte = um Mitternacht; fino a = bis; le due del mattino = zwei Uhr nachts.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_12.mp3",
    "satz": {
     "fr": "A mezzanotte il prof si trasforma in lettore. Fino alle due del mattino.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "si trasforma in",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Si è trasformato in lettore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/st_12_pc.mp3"
     },
     "fp": {
      "fr": "Si trasformerà in lettore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/st_12_fp.mp3"
     }
    }
   },
@@ -2744,12 +2744,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "wörtlich „auf einen Zug“ (il tratto = Strich, Strecke); a un tratto / d'un tratto = auf einmal. prof = Anrede für Lehrer (statt „Herr X“). quand'è = quando è.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_13.mp3",
    "satz": {
     "fr": "A un tratto, silenzio. Poi una voce: « Prof, quand'è la pausa? »",
     "de": "Auf einmal Stille. Dann eine Stimme: „Herr Lehrer, wann ist Pause?“",
     "luecke": "A un tratto",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_13.mp3"
    },
    "zeit": null
   },
@@ -2761,12 +2761,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "l'eroe (männlich, Plural gli eroi), l'eroina (weiblich – auch das Rauschgift!). per questo = deshalb; coraggioso = mutig (il coraggio).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_14.mp3",
    "satz": {
     "fr": "L'eroe del mio romanzo preferito ha paura di tutto. Per questo è coraggioso.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "eroe",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_14.mp3"
    },
    "zeit": null
   },
@@ -2778,12 +2778,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il cattivo = der Böse (Adjektiv cattivo = schlecht, böse); il buono = der Gute. la sveglia = Wecker (svegliarsi = aufwachen). ogni giorno = jeden Tag.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_15.mp3",
    "satz": {
     "fr": "Il cattivo della storia è la sveglia. Le sei. Ogni giorno.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "cattivo",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_15.mp3"
    },
    "zeit": null
   },
@@ -2795,12 +2795,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "trovare",
    "notiz": "la mappa = Landkarte, il tesoro = Schatz; la piantina = Lageplan, Grundriss (la pianta = Pflanze und Plan). il quaderno = Heft; la mensa = Schulmensa.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_16.mp3",
    "satz": {
     "fr": "Ho trovato una mappa del tesoro in un quaderno. Era la piantina della mensa.",
     "de": "Ich habe in einem Heft eine Schatzkarte gefunden. Es war der Plan der Mensa.",
     "luecke": "mappa del tesoro",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_16.mp3"
    },
    "zeit": null
   },
@@ -2812,12 +2812,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "parere",
    "notiz": "pare che + congiuntivo (esista, dorma) = angeblich, es scheint (parere = scheinen); auch: si dice che, sembra che. l'aula = Klassenraum (nicht „Aula“ = l'aula magna). ci = dort.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_17.mp3",
    "satz": {
     "fr": "Pare che l'aula 13 esista. Pare anche che il gatto ci dorma.",
     "de": "Es heißt, Raum 13 existiere. Es heißt auch, die Katze schlafe dort.",
     "luecke": "Pare che",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_17.mp3"
    },
    "zeit": null
   },
@@ -2829,21 +2829,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sparire",
    "notiz": "sparire mit -isc- (sparisco, sparisce), Partizip sparito, mit essere; auch: scomparire. la penna = Kugelschreiber (und Feder); la gente sparisce = Singular!",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_18.mp3",
    "satz": {
     "fr": "In questo romanzo la gente sparisce. Nella mia classe, le penne.",
     "de": "In diesem Roman verschwinden die Leute. In meiner Klasse die Stifte.",
     "luecke": "sparisce",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Le penne sono sparite.",
-     "audio": null
+     "audio": "audio/it-de/saetze/st_18_pc.mp3"
     },
     "fp": {
      "fr": "Le penne spariranno.",
-     "audio": null
+     "audio": "audio/it-de/saetze/st_18_fp.mp3"
     }
    }
   },
@@ -2855,12 +2855,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "leggere",
    "notiz": "il seguito = Fortsetzung (seguire = folgen); « continua » = Fortsetzung folgt; in seguito = anschließend, später. subito = sofort.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_19.mp3",
    "satz": {
     "fr": "Voglio leggere il seguito subito. Ma è mezzanotte. Leggo il seguito.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "seguito",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_19.mp3"
    },
    "zeit": null
   },
@@ -2872,12 +2872,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "tenere",
    "notiz": "wörtlich „mit angehaltenem Atem“ (il fiato = Atem, sospeso = angehalten, schwebend); tenere con il fiato sospeso = in Spannung halten. da tre notti = seit drei Nächten.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_20.mp3",
    "satz": {
     "fr": "Questo libro mi tiene con il fiato sospeso da tre notti.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "con il fiato sospeso",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_20.mp3"
    },
    "zeit": null
   },
@@ -2889,21 +2889,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "rabbrividire",
    "notiz": "rabbrividire = schaudern (il brivido = Schauer; brividi = Gänsehaut-Gefühl), mit -isc-: rabbrividisco. il fantasy = das Genre (männlich im Italienischen).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_21.mp3",
    "satz": {
     "fr": "Rabbrividisco a ogni capitolo. E continuo. È questo, il fantasy.",
     "de": "Ich schaudere bei jedem Kapitel. Und mache weiter. Das ist Fantasy.",
     "luecke": "Rabbrividisco",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho rabbrividito a ogni capitolo.",
-     "audio": null
+     "audio": "audio/it-de/saetze/st_21_pc.mp3"
     },
     "fp": {
      "fr": "Rabbrividirò, lo so già.",
-     "audio": null
+     "audio": "audio/it-de/saetze/st_21_fp.mp3"
     }
    }
   },
@@ -2915,12 +2915,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "wörtlich „Bühnenschlag“ (il colpo = Schlag, la scena = Bühne, Szene) = Überraschungswendung, Theaterbegriff. fin dall'inizio = von Anfang an.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_22.mp3",
    "satz": {
     "fr": "Un colpo di scena a pagina 200: il gatto era il re fin dall'inizio.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "colpo di scena",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_22.mp3"
    },
    "zeit": null
   },
@@ -2932,12 +2932,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "raccontare",
    "notiz": "la fine = das Ende (weiblich); il fine = der Zweck, das Ziel (männlich!). non la racconto (la = die fine). leggi = Imperativ von leggere.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_23.mp3",
    "satz": {
     "fr": "La fine di questa storia? Non la racconto. Leggi il libro.",
     "de": "Das Ende dieser Geschichte? Ich erzähle es nicht. Lies das Buch.",
     "luecke": "fine",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_23.mp3"
    },
    "zeit": null
   },
@@ -2949,12 +2949,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "consigliare",
    "notiz": "consigliare = raten, empfehlen (il consiglio = Rat); mi potrebbe = Pronomen vor dem konjugierten Verb (oder potrebbe consigliarmi). un po' = un poco.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/st_24.mp3",
    "satz": {
     "fr": "Buongiorno, mi potrebbe consigliare un libro? Un po' cupo, un po' magico.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "mi potrebbe consigliare un libro",
-    "audio": null
+    "audio": "audio/it-de/saetze/st_24.mp3"
    },
    "zeit": null
   }
@@ -3974,6 +3974,38 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/saetze/se_23_fp.mp3",
   "audio/it-de/saetze/se_23_pc.mp3",
   "audio/it-de/saetze/se_24.mp3",
+  "audio/it-de/saetze/st_01.mp3",
+  "audio/it-de/saetze/st_02.mp3",
+  "audio/it-de/saetze/st_02_fp.mp3",
+  "audio/it-de/saetze/st_02_pc.mp3",
+  "audio/it-de/saetze/st_03.mp3",
+  "audio/it-de/saetze/st_04.mp3",
+  "audio/it-de/saetze/st_05.mp3",
+  "audio/it-de/saetze/st_06.mp3",
+  "audio/it-de/saetze/st_07.mp3",
+  "audio/it-de/saetze/st_08.mp3",
+  "audio/it-de/saetze/st_09.mp3",
+  "audio/it-de/saetze/st_10.mp3",
+  "audio/it-de/saetze/st_11.mp3",
+  "audio/it-de/saetze/st_12.mp3",
+  "audio/it-de/saetze/st_12_fp.mp3",
+  "audio/it-de/saetze/st_12_pc.mp3",
+  "audio/it-de/saetze/st_13.mp3",
+  "audio/it-de/saetze/st_14.mp3",
+  "audio/it-de/saetze/st_15.mp3",
+  "audio/it-de/saetze/st_16.mp3",
+  "audio/it-de/saetze/st_17.mp3",
+  "audio/it-de/saetze/st_18.mp3",
+  "audio/it-de/saetze/st_18_fp.mp3",
+  "audio/it-de/saetze/st_18_pc.mp3",
+  "audio/it-de/saetze/st_19.mp3",
+  "audio/it-de/saetze/st_20.mp3",
+  "audio/it-de/saetze/st_21.mp3",
+  "audio/it-de/saetze/st_21_fp.mp3",
+  "audio/it-de/saetze/st_21_pc.mp3",
+  "audio/it-de/saetze/st_22.mp3",
+  "audio/it-de/saetze/st_23.mp3",
+  "audio/it-de/saetze/st_24.mp3",
   "audio/it-de/saetze/tc_01.mp3",
   "audio/it-de/saetze/tc_01_fp.mp3",
   "audio/it-de/saetze/tc_01_pc.mp3",
@@ -4108,6 +4140,30 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/wendungen/se_22.mp3",
   "audio/it-de/wendungen/se_23.mp3",
   "audio/it-de/wendungen/se_24.mp3",
+  "audio/it-de/wendungen/st_01.mp3",
+  "audio/it-de/wendungen/st_02.mp3",
+  "audio/it-de/wendungen/st_03.mp3",
+  "audio/it-de/wendungen/st_04.mp3",
+  "audio/it-de/wendungen/st_05.mp3",
+  "audio/it-de/wendungen/st_06.mp3",
+  "audio/it-de/wendungen/st_07.mp3",
+  "audio/it-de/wendungen/st_08.mp3",
+  "audio/it-de/wendungen/st_09.mp3",
+  "audio/it-de/wendungen/st_10.mp3",
+  "audio/it-de/wendungen/st_11.mp3",
+  "audio/it-de/wendungen/st_12.mp3",
+  "audio/it-de/wendungen/st_13.mp3",
+  "audio/it-de/wendungen/st_14.mp3",
+  "audio/it-de/wendungen/st_15.mp3",
+  "audio/it-de/wendungen/st_16.mp3",
+  "audio/it-de/wendungen/st_17.mp3",
+  "audio/it-de/wendungen/st_18.mp3",
+  "audio/it-de/wendungen/st_19.mp3",
+  "audio/it-de/wendungen/st_20.mp3",
+  "audio/it-de/wendungen/st_21.mp3",
+  "audio/it-de/wendungen/st_22.mp3",
+  "audio/it-de/wendungen/st_23.mp3",
+  "audio/it-de/wendungen/st_24.mp3",
   "audio/it-de/wendungen/tc_01.mp3",
   "audio/it-de/wendungen/tc_02.mp3",
   "audio/it-de/wendungen/tc_03.mp3",
