@@ -43,30 +43,7 @@ DIALOGE_TITEL = ["Diálogos con Diego", "Dialoge mit Diego"]
 GESCHICHTE = {"titel": "", "unter": "", "sammlung": ["", ""]}   # später, optional
 
 # Aussprache « Los sonidos difíciles » – Daten kommen später (sonidos.tsv vorerst leer)
-AUSSPRACHE = {
-    "id": "sonidos", "symbol": "👄", "titel": "Los sonidos difíciles",
-    "unter": "rr/r · b/v · j/g · ll/y · z/c · ñ – escuchar, distinguir, los dos en una palabra",
-    "datei": "sonidos.tsv",
-    "klaenge": {"rr": ["[r]", "rr · r inicial", "lengua vibrando varias veces", "Zunge vibriert mehrfach (perro)"],
-                "r": ["[ɾ]", "r entre vocales", "un solo toque de la lengua", "ein einziger Zungenschlag (pero)"],
-                "b": ["[b/β]", "b · v", "¡el mismo sonido!", "b und v klingen gleich (vaca, beber)"],
-                "j": ["[x]", "j · ge · gi", "como en « Bach » alemán", "wie das deutsche ach-Laut (jamón, gente)"],
-                "ll": ["[ʝ]", "ll · y", "como un « j » alemán suave", "wie ein weiches deutsches j (llave, yo)"],
-                "z": ["[θ]", "z · ce · ci", "lengua entre los dientes", "Zunge zwischen den Zähnen (zapato, cena)"],
-                "ñ": ["[ɲ]", "ñ", "como « gn » en francés", "wie gn im Französischen (niño, España)"],
-                "s": ["[s]", "s", "una s sorda, como « ss » alemán", "stimmloses s wie deutsches ss (casa)"]},
-    "reihe": ["rr", "r", "b", "j", "ll", "z", "ñ"],
-    "paare": [["p1", "¿r o rr?"], ["p2", "¿s o z?"]],
-    "beide_name": "👑 Los dos",
-    "texte": {
-        "beide": ["Varios sonidos difíciles en una palabra. Escucha despacio, luego a velocidad normal – y repite cuidando cada sonido.",
-                  "Mehrere schwierige Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."],
-        "klang": ["{laut} – {tipp}. Escucha despacio, luego normal. ¡Repite!", "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"],
-        "paar": ["Escucha la palabra. ¿Cuál es? Toca la correcta.", "Hör das Wort. Welches ist es? Tipp auf das richtige."],
-        "hilfe": ["Te ayudo: {a}. ¡Escucha otra vez!", "Ich helfe dir: {a}. Hör noch mal!"],
-        "beide_hoeren": ["Más fácil: escuchar las dos", "Noch einfacher: beide hören"],
-    },
-}
+AUSSPRACHE = None  # kein Aussprachemodul im Spanischen (Mr. Alex, 13.10.2026)
 
 # Karte: Spanien mit Provinzen – kommt später (vorerst keine Orte)
 KARTE = {"name": "España", "einheit": "provincias", "lieux": "lugares", "start": "Sevilla",

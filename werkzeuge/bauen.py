@@ -66,10 +66,10 @@ def daten_fuer(P):
             dialoge.append({"id": z["dialog"], "titel": z["titel"], "ort": z["ort"], "zeilen": []})
         dialoge[-1]["zeilen"].append({"id": z["id"], "rolle": z["rolle"], "fr": z["fr"], "de": z["de"], "audio": audio(f"dialoge/{z['id']}.mp3")})
     # Aussprache: Laute, Minimalpaare, beide Laute in einem Wort (Markup {laut|buchstaben})
-    A = P.AUSSPRACHE
+    A = P.AUSSPRACHE or {"id": "", "symbol": "", "titel": "", "unter": "", "klaenge": {}, "reihe": [], "paare": [], "beide_name": "", "texte": {}}
     aussprache = {"id": A["id"], "symbol": A["symbol"], "titel": A["titel"], "unter": A["unter"], "info": A["klaenge"], "reihe": A["reihe"],
                   "paare_gruppen": A["paare"], "beide_name": A["beide_name"], "texte": A["texte"], "klaenge": {}, "paare": [], "beide": []}
-    zeilen = tsv(inhalte, A["datei"])
+    zeilen = tsv(inhalte, A["datei"]) if P.AUSSPRACHE else []
     for z in zeilen:
         eintrag = {"id": z["id"], "wort": rein(z["wort"]), "de": z["de"], "klang": z["klang"], "audio": audio(f"{A['id']}/{z['id']}.mp3")}
         if z["teil"] == "klang":

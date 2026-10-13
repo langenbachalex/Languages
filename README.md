@@ -10,7 +10,7 @@ Eine App, mehrere Sprachpaare (Zielsprache + Hilfssprache), Umschalter oben. Pri
 | `it-de` | Italienisch (geplant, Partner: Giovanni) | | | | |
 | `de-fr` | Deutsch, Hilfe Französisch (geplant, eigene deutsche Redewendungen) | | | | |
 
-**Neue Sprache:** Sprachpaket `werkzeuge/sprachen/<paar>.py` (Themen, Oberflächentexte, Titel, Aussprache-Teil, Rollen, Karte, Stimmen), Ordner `inhalte/<paar>/` mit denselben TSV-Dateien wie `fr-de`, Eintrag in `PAKETE` in `werkzeuge/bauen.py`.
+**Neue Sprache:** Sprachpaket `werkzeuge/sprachen/<paar>.py` (Themen, Oberflächentexte, Titel, optionaler Aussprache-Teil (`AUSSPRACHE = None` zum Weglassen), Rollen, Karte, Stimmen), Ordner `inhalte/<paar>/` mit denselben TSV-Dateien wie `fr-de`, Eintrag in `PAKETE` in `werkzeuge/bauen.py`.
 **Bauen:** `python3 werkzeuge/bauen.py` (je Paar `app/daten_<paar>.js`, dazu `index.html`, Manifest, Icons, `sw.js`).
 **Audio:** `python3 werkzeuge/audio.py --zaehlen` zählt, `python3 werkzeuge/audio.py [paar]` erzeugt fehlende Dateien (ElevenLabs, nur nach Absprache).
 **Veröffentlichen:** Jeder Push auf `main`, der `app/` ändert, veröffentlicht über `.github/workflows/pages.yml`.

@@ -29,7 +29,7 @@ def auftraege(P):
                 liste.append((f"audio/{paar}/saetze/{wid}_fp.mp3", s(z["futur_proche"]), "a"))
     for z in bauen.tsv(inhalte, "dialoge.tsv"):
         liste.append((f"audio/{paar}/dialoge/{z['id']}.mp3", s(z["fr"]), "a" if z["rolle"] == "A" else "b"))
-    for z in bauen.tsv(inhalte, P.AUSSPRACHE["datei"]):
+    for z in (bauen.tsv(inhalte, P.AUSSPRACHE["datei"]) if P.AUSSPRACHE else []):
         liste.append((f"audio/{paar}/{P.AUSSPRACHE['id']}/{z['id']}.mp3", bauen.rein(z["wort"]), "a"))
     for z in bauen.tsv(inhalte, "geschichte.tsv"):
         liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), "a"))

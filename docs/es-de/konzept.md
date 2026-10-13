@@ -24,12 +24,9 @@ Stand: 13.10.2026. Zum Absegnen, **noch nichts gebaut.** Rahmen: `docs/konzept-m
 | 8 | **Niños y bebés** | *dormir del tirón, un peluche, hacer travesuras, coger en brazos, un bebé, sonreír, crecer, costarle dormirse, un pañal, portarse bien, jugar al escondite, contar un cuento, llorar, un abrazo, aprender a andar, estar orgulloso de, las primeras palabras, tener paciencia, la merienda, reírse a carcajadas, echar la siesta, tener miedo a la oscuridad, es la hora del baño, ¿qué edad tiene su hijo?* |
 | ⚡ | **Falsos amigos** – gegen Englisch **und** Französisch | *constipado (≠ constipated), embarazada (≠ embarrassed), actualmente (≠ actually), la librería, asistir a, atender (≠ attend), pretender, sensible, eventualmente, la carpeta (≠ carpet), el éxito (≠ exit), la ropa (≠ rope), largo (≠ large), el pie (≠ pie), la sopa (≠ soap), el campo (≠ camp), realizar, la decepción, la lectura, molestar (≠ molest), el preservativo, la arena (≠ arena), salir (≠ fr. salir = schmutzig machen), el burro (≠ it. burro = Butter)* |
 
-## 3. Aussprache-Teil: « Los sonidos difíciles »
+## 3. Aussprache-Teil
 
-Nach dem Muster der Nasale (hören · unterscheiden · beide in einem Wort):
-- **Laute:** *rr* [r] (*perro, carro, arroz*) · *r* [ɾ] (*pero, caro, aro*) · *b/v* (*vaca, beber, vivir* – gleicher Laut!) · *j/g* [x] (*jamón, gente, reír*) · *ll/y* [ʝ] (*llave, calle, yo*) · *z/c* [θ] (*zapato, cena, gracias*) · *ñ* (*niño, España, mañana*)
-- **Minimalpaare:** *pero – perro · caro – carro · coro – corro · cero – cerro · casa – caza · coser – cocer · poyo – pollo · jota – gota*
-- **Königsstufe:** *ferrocarril, desarrollo, cigüeña, zarzaparrilla, el perro de San Roque, tres tristes tigres*
+Entfällt im Spanischen (Entscheidung Mr. Alex, 13.10.2026): keine Laute, keine Minimalpaare. `AUSSPRACHE = None` im Sprachpaket, der Build lässt die Kachel weg.
 
 ## 4. Spiel
 
