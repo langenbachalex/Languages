@@ -4121,21 +4121,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "durchschlafen",
    "notiz": "durchschlafen = dormir d'une traite, faire ses nuits (particule séparable : schläft … durch, participe durchgeschlafen) ; durch- = à travers, jusqu'au bout. meiner Kollegin = génitif féminin. sie selbst = elle-même.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_01.mp3",
    "satz": {
     "fr": "Das Baby meiner Kollegin schläft durch. Sie selbst noch nicht.",
     "de": "Le bébé de ma collègue fait ses nuits. Elle, pas encore.",
     "luecke": "schläft durch",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Das Baby hat diese Woche durchgeschlafen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_01_pc.mp3"
     },
     "fp": {
      "fr": "Das Baby wird durchschlafen. Irgendwann.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_01_fp.mp3"
     }
    }
   },
@@ -4147,12 +4147,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schlafen",
    "notiz": "das Kuscheltier = la peluche, le doudou (kuscheln = faire des câlins + Tier = animal) ; das Schmusetuch = le doudou en tissu. ohne + accusatif. reden von + datif = parler de (vom = von dem). vor allem = surtout.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_02.mp3",
    "satz": {
     "fr": "Ohne sein Kuscheltier kann es nicht schlafen. Ich rede vom Baby. Na ja, vor allem.",
     "de": "Sans son doudou, impossible de dormir. Je parle du bébé. Enfin, surtout.",
     "luecke": "Kuscheltier",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_02.mp3"
    },
    "zeit": null
   },
@@ -4164,21 +4164,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "anstellen",
    "notiz": "etwas anstellen = faire une bêtise (particule séparable : stellen … an) ; der Unsinn, der Blödsinn, der Quatsch = les bêtises. meiner = le mien ; lächeln = sourire (infinitif avec zu).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_03.mp3",
    "satz": {
     "fr": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "de": "Les enfants font des bêtises. C'est leur métier. Le mien, c'est de sourire.",
     "luecke": "stellen Unsinn an",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_03.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Sie haben den ganzen Morgen Unsinn angestellt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_03_pc.mp3"
     },
     "fp": {
      "fr": "Sie werden Unsinn anstellen, ganz sicher.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_03_fp.mp3"
     }
    }
   },
@@ -4190,21 +4190,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "nehmen",
    "notiz": "in den Arm nehmen = prendre dans ses bras (singulier : den Arm, accusatif) ; aussi : umarmen = embrasser (étreindre), drücken = serrer. man = on ; es = le (das Kind, neutre). einzig = seul, unique.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_04.mp3",
    "satz": {
     "fr": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "de": "Quand un enfant pleure, on le prend dans ses bras. C'est la seule règle.",
     "luecke": "nimmt man es in den Arm",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe es in den Arm genommen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_04_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde es in den Arm nehmen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_04_fp.mp3"
     }
    }
   },
@@ -4216,12 +4216,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sagen",
    "notiz": "das Baby (mot anglais, neutre, pluriel die Babys) ; aussi : der Säugling (le nourrisson, langue soignée), das Kleinkind = le petit enfant. es = pronom neutre pour das Baby.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_05.mp3",
    "satz": {
     "fr": "Ein Baby spricht nicht, aber es sagt alles.",
     "de": "Un bébé, ça ne parle pas, mais ça dit tout.",
     "luecke": "Baby",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_05.mp3"
    },
    "zeit": null
   },
@@ -4233,21 +4233,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "anlächeln",
    "notiz": "jemanden anlächeln = sourire à quelqu'un (an- = en direction de ; particule séparable : lächelt … an) ; lächeln = sourire, lachen = rire. gerettet = sauvé (retten).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_06.mp3",
    "satz": {
     "fr": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "de": "Le bébé m'a fait un sourire. Ma journée était gagnée.",
     "luecke": "hat mich angelächelt",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Das Baby hat mich angelächelt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_06_pc.mp3"
     },
     "fp": {
      "fr": "Das Baby wird mich anlächeln. Ich warte.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_06_fp.mp3"
     }
    }
   },
@@ -4259,21 +4259,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "werden",
    "notiz": "groß werden = grandir (werden = devenir, participe geworden avec sein) ; aussi : wachsen = pousser, croître. zu schnell = trop vite. bleiben = rester.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_07.mp3",
    "satz": {
     "fr": "Kinder werden zu schnell groß. Die Klassenarbeiten bleiben.",
     "de": "Les enfants grandissent trop vite. Les copies, elles, restent.",
     "luecke": "werden zu schnell groß",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Sie sind in den Ferien groß geworden.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_07_pc.mp3"
     },
     "fp": {
      "fr": "Sie werden groß werden, und ich werde alt werden.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_07_fp.mp3"
     }
    }
   },
@@ -4285,21 +4285,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "einschlafen",
    "notiz": "einschlafen = s'endormir (particule séparable, participe eingeschlafen avec sein) ; schlafen = dormir. der Kleine = le petit (adjectif substantivé). leiser = plus bas, moins fort (leise = bas, doucement).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_08.mp3",
    "satz": {
     "fr": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "de": "Le petit a du mal à s'endormir. Alors je chante. Ça marche. Il pleure moins fort.",
     "luecke": "schläft schlecht ein",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Er ist schlecht eingeschlafen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_08_pc.mp3"
     },
     "fp": {
      "fr": "Er wird schlecht einschlafen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_08_fp.mp3"
     }
    }
   },
@@ -4311,12 +4311,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "wechseln",
    "notiz": "die Windel = la couche (wickeln = emmailloter, langer) ; Windeln wechseln = changer les couches. echt = vrai, authentique (et familièrement « vraiment » : echt gut). Majuscule après les deux points quand une phrase complète suit.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_09.mp3",
    "satz": {
     "fr": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "de": "Changer une couche en trois minutes : ça, c'est un vrai enchaînement de kung-fu.",
     "luecke": "Windel",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_09.mp3"
    },
    "zeit": null
   },
@@ -4328,12 +4328,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "brav = sage, obéissant (faux ami : pas « courageux » = mutig !) ; sei ! = impératif de sein. die Waschmaschine = le lave-linge. in der Waschmaschine = datif (lieu).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_10.mp3",
    "satz": {
     "fr": "« Sei brav! » – « Ich bin brav. » – « Und warum ist die Katze in der Waschmaschine? »",
     "de": "« Sois sage ! » – « Je suis sage. » – « Alors pourquoi le chat est-il dans le lave-linge ? »",
     "luecke": "Sei brav",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_10.mp3"
    },
    "zeit": null
   },
@@ -4345,21 +4345,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "spielen",
    "notiz": "Verstecken spielen = jouer à cache-cache (infinitif substantivé, sans article) ; sich verstecken = se cacher. hinter dem Vorhang = datif ; der Vorhang = le rideau. die Füße = les pieds (der Fuß) ; draußen = dehors.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_11.mp3",
    "satz": {
     "fr": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "de": "On joue à cache-cache. Il se cache toujours derrière le rideau. Avec ses pieds dehors.",
     "luecke": "spielen Verstecken",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Wir haben den ganzen Nachmittag Verstecken gespielt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_11_pc.mp3"
     },
     "fp": {
      "fr": "Wir werden nach dem Nachmittagssnack Verstecken spielen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_11_fp.mp3"
     }
    }
   },
@@ -4371,21 +4371,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "erzählen",
    "notiz": "die Gute-Nacht-Geschichte = l'histoire du soir (mot composé avec traits d'union) ; Gute Nacht ! = bonne nuit. nach drei Seiten = au bout de trois pages (datif pluriel). La chute : c'est moi qui dors.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_12.mp3",
    "satz": {
     "fr": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "de": "Je raconte une histoire pour s'endormir. Au bout de trois pages, je dors.",
     "luecke": "erzähle eine Gute-Nacht-Geschichte",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe eine Gute-Nacht-Geschichte erzählt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_12_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde eine Gute-Nacht-Geschichte erzählen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_12_fp.mp3"
     }
    }
   },
@@ -4397,21 +4397,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "weinen",
    "notiz": "weinen = pleurer ; lachen = rire ; heulen = pleurer bruyamment (familier). Attention : weinen (pleurer) – der Wein (le vin) – weinen n'a rien à voir avec le vin ! dann = puis.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_13.mp3",
    "satz": {
     "fr": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "de": "Le bébé pleure. Puis il rit. Puis il pleure. C'est un concert.",
     "luecke": "weint",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_13.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Das Baby hat die ganze Nacht geweint.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_13_pc.mp3"
     },
     "fp": {
      "fr": "Das Baby wird weinen, und ich werde singen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_13_fp.mp3"
     }
    }
   },
@@ -4423,12 +4423,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "beginnen",
    "notiz": "die Umarmung = l'étreinte, le câlin (umarmen = prendre dans les bras ; der Arm) ; familier : eine Umarmung = ein Drücker. vor der Schule = avant l'école (datif, temps). für beide = pour tous les deux.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_14.mp3",
    "satz": {
     "fr": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "de": "Un câlin avant l'école, et la journée commence bien. Pour les deux.",
     "luecke": "Umarmung",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_14.mp3"
    },
    "zeit": null
   },
@@ -4440,21 +4440,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lernen",
    "notiz": "laufen lernen = apprendre à marcher (lernen + infinitif, sans zu) ; laufen = marcher, et aussi courir (rennen = courir vite). der Schritt = le pas ; der Sturz = la chute ; das Lachen = le rire. im Kleinen = en miniature.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_15.mp3",
    "satz": {
     "fr": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "de": "Elle apprend à marcher. Trois pas, une chute, un rire. C'est la vie en miniature.",
     "luecke": "lernt laufen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Sie hat diesen Sommer laufen gelernt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_15_pc.mp3"
     },
     "fp": {
      "fr": "Sie wird bald laufen lernen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_15_fp.mp3"
     }
    }
   },
@@ -4466,12 +4466,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "stolz sein auf + accusatif (auf meine Schüler) – pas « de » ! der Stolz = la fierté. vor allem = surtout ; wenn sie es nicht wissen = subordonnée, verbe à la fin.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_16.mp3",
    "satz": {
     "fr": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "de": "Je suis fier de mes élèves. Surtout quand ils ne le savent pas.",
     "luecke": "stolz auf",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_16.mp3"
    },
    "zeit": null
   },
@@ -4483,12 +4483,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "das Wort, pluriel die Wörter (mots isolés) ; die ersten Wörter = adjectif décliné au pluriel (seine ersten). die Reihenfolge = l'ordre (die Reihe = la rangée + die Folge = la suite). in dieser Reihenfolge = datif.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_17.mp3",
    "satz": {
     "fr": "Seine ersten Wörter: « Papa », « Katze », « Nein ». In dieser Reihenfolge.",
     "de": "Ses premiers mots : « papa », « chat », « non ». Dans cet ordre.",
     "luecke": "ersten Wörter",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_17.mp3"
    },
    "zeit": null
   },
@@ -4500,21 +4500,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "die Geduld = la patience (geduldig = patient ; nur Geduld ! = patience !) ; man muss = il faut (müssen). ich habe welche = j'en ai (welche = pronom indéfini). mit Kindern = datif pluriel.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_18.mp3",
    "satz": {
     "fr": "Mit Kindern muss man Geduld haben. Ich habe welche. Sie endet um fünf.",
     "de": "Avec les enfants, il faut avoir de la patience. J'en ai. Elle finit à dix-sept heures.",
     "luecke": "muss man Geduld haben",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte den ganzen Tag Geduld.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_18_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde Geduld haben. Bis mittags.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_18_fp.mp3"
     }
    }
   },
@@ -4526,12 +4526,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "geben",
    "notiz": "der Nachmittagssnack = le goûter (Nachmittag + Snack, anglicisme) ; plus traditionnel : die Vesper (sud), das Kaffeetrinken (le café-gâteau de 16 h, institution allemande !). aus Solidarität = par solidarité (aus + datif).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_19.mp3",
    "satz": {
     "fr": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "de": "À seize heures, c'est le goûter. Pour les enfants. Et pour moi, par solidarité.",
     "luecke": "Nachmittagssnack",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_19.mp3"
    },
    "zeit": null
   },
@@ -4543,21 +4543,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lachen",
    "notiz": "schallend = retentissant (der Schall = le son) ; schallend lachen = rire aux éclats ; aussi : sich kaputtlachen (familier). niesen = éternuer. übrigens = d'ailleurs, au fait.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_20.mp3",
    "satz": {
     "fr": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "de": "Le bébé rit aux éclats quand le chat éternue. Moi aussi, d'ailleurs.",
     "luecke": "lacht schallend",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Das Baby hat schallend gelacht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_20_pc.mp3"
     },
     "fp": {
      "fr": "Das Baby wird schallend lachen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_20_fp.mp3"
     }
    }
   },
@@ -4569,21 +4569,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "der Mittagsschlaf = la sieste (Mittag + Schlaf) ; Mittagsschlaf halten ou machen ; aussi : ein Nickerchen machen. die Kleinen / die Großen = adjectifs substantivés. heimlich = en cachette.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_21.mp3",
    "satz": {
     "fr": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "de": "Les petits font la sieste. Les grands aussi, en secret.",
     "luecke": "halten Mittagsschlaf",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Die Kleinen haben Mittagsschlaf gehalten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_21_pc.mp3"
     },
     "fp": {
      "fr": "Die Kleinen werden Mittagsschlaf halten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/ki_21_fp.mp3"
     }
    }
   },
@@ -4595,12 +4595,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "im Dunkeln = dans le noir (adjectif substantivé : das Dunkel) ; aussi : Angst vor der Dunkelheit haben. offen lassen = laisser ouvert. Wache halten = monter la garde (die Wache = la garde).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_22.mp3",
    "satz": {
     "fr": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze hält Wache.",
     "de": "Il a peur du noir. Alors on laisse la porte ouverte. Et le chat de garde.",
     "luecke": "hat Angst im Dunkeln",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_22.mp3"
    },
    "zeit": null
   },
@@ -4612,12 +4612,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Badezeit = l'heure du bain (baden = se baigner + Zeit) ; auch : Zeit fürs Bad. nass = mouillé. die, die … = ceux qui (relative : verbe à la fin, baden).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_23.mp3",
    "satz": {
     "fr": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "de": "C'est l'heure du bain ! Tout le monde est mouillé. Même ceux qui ne se baignent pas.",
     "luecke": "Badezeit",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_23.mp3"
    },
    "zeit": null
   },
@@ -4629,12 +4629,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "sein",
    "notiz": "l'âge avec sein : wie alt ist … ? ; er ist zwei Jahre alt = il a deux ans (pas « haben » !). Ihr Kind = votre enfant (majuscule, vouvoiement). bezaubernd = adorable, charmant. der Zahn, die Zähne = la dent, les dents.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ki_24.mp3",
    "satz": {
     "fr": "Es ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "de": "Il est adorable. Quel âge a votre enfant ? – Quatorze mois. Et quatre dents.",
     "luecke": "Wie alt ist Ihr Kind",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ki_24.mp3"
    },
    "zeit": null
   }
@@ -5686,6 +5686,56 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/saetze/ka_23_fp.mp3",
   "audio/de-fr/saetze/ka_23_pc.mp3",
   "audio/de-fr/saetze/ka_24.mp3",
+  "audio/de-fr/saetze/ki_01.mp3",
+  "audio/de-fr/saetze/ki_01_fp.mp3",
+  "audio/de-fr/saetze/ki_01_pc.mp3",
+  "audio/de-fr/saetze/ki_02.mp3",
+  "audio/de-fr/saetze/ki_03.mp3",
+  "audio/de-fr/saetze/ki_03_fp.mp3",
+  "audio/de-fr/saetze/ki_03_pc.mp3",
+  "audio/de-fr/saetze/ki_04.mp3",
+  "audio/de-fr/saetze/ki_04_fp.mp3",
+  "audio/de-fr/saetze/ki_04_pc.mp3",
+  "audio/de-fr/saetze/ki_05.mp3",
+  "audio/de-fr/saetze/ki_06.mp3",
+  "audio/de-fr/saetze/ki_06_fp.mp3",
+  "audio/de-fr/saetze/ki_06_pc.mp3",
+  "audio/de-fr/saetze/ki_07.mp3",
+  "audio/de-fr/saetze/ki_07_fp.mp3",
+  "audio/de-fr/saetze/ki_07_pc.mp3",
+  "audio/de-fr/saetze/ki_08.mp3",
+  "audio/de-fr/saetze/ki_08_fp.mp3",
+  "audio/de-fr/saetze/ki_08_pc.mp3",
+  "audio/de-fr/saetze/ki_09.mp3",
+  "audio/de-fr/saetze/ki_10.mp3",
+  "audio/de-fr/saetze/ki_11.mp3",
+  "audio/de-fr/saetze/ki_11_fp.mp3",
+  "audio/de-fr/saetze/ki_11_pc.mp3",
+  "audio/de-fr/saetze/ki_12.mp3",
+  "audio/de-fr/saetze/ki_12_fp.mp3",
+  "audio/de-fr/saetze/ki_12_pc.mp3",
+  "audio/de-fr/saetze/ki_13.mp3",
+  "audio/de-fr/saetze/ki_13_fp.mp3",
+  "audio/de-fr/saetze/ki_13_pc.mp3",
+  "audio/de-fr/saetze/ki_14.mp3",
+  "audio/de-fr/saetze/ki_15.mp3",
+  "audio/de-fr/saetze/ki_15_fp.mp3",
+  "audio/de-fr/saetze/ki_15_pc.mp3",
+  "audio/de-fr/saetze/ki_16.mp3",
+  "audio/de-fr/saetze/ki_17.mp3",
+  "audio/de-fr/saetze/ki_18.mp3",
+  "audio/de-fr/saetze/ki_18_fp.mp3",
+  "audio/de-fr/saetze/ki_18_pc.mp3",
+  "audio/de-fr/saetze/ki_19.mp3",
+  "audio/de-fr/saetze/ki_20.mp3",
+  "audio/de-fr/saetze/ki_20_fp.mp3",
+  "audio/de-fr/saetze/ki_20_pc.mp3",
+  "audio/de-fr/saetze/ki_21.mp3",
+  "audio/de-fr/saetze/ki_21_fp.mp3",
+  "audio/de-fr/saetze/ki_21_pc.mp3",
+  "audio/de-fr/saetze/ki_22.mp3",
+  "audio/de-fr/saetze/ki_23.mp3",
+  "audio/de-fr/saetze/ki_24.mp3",
   "audio/de-fr/saetze/mu_01.mp3",
   "audio/de-fr/saetze/mu_01_fp.mp3",
   "audio/de-fr/saetze/mu_01_pc.mp3",
@@ -5938,6 +5988,30 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/wendungen/ka_22.mp3",
   "audio/de-fr/wendungen/ka_23.mp3",
   "audio/de-fr/wendungen/ka_24.mp3",
+  "audio/de-fr/wendungen/ki_01.mp3",
+  "audio/de-fr/wendungen/ki_02.mp3",
+  "audio/de-fr/wendungen/ki_03.mp3",
+  "audio/de-fr/wendungen/ki_04.mp3",
+  "audio/de-fr/wendungen/ki_05.mp3",
+  "audio/de-fr/wendungen/ki_06.mp3",
+  "audio/de-fr/wendungen/ki_07.mp3",
+  "audio/de-fr/wendungen/ki_08.mp3",
+  "audio/de-fr/wendungen/ki_09.mp3",
+  "audio/de-fr/wendungen/ki_10.mp3",
+  "audio/de-fr/wendungen/ki_11.mp3",
+  "audio/de-fr/wendungen/ki_12.mp3",
+  "audio/de-fr/wendungen/ki_13.mp3",
+  "audio/de-fr/wendungen/ki_14.mp3",
+  "audio/de-fr/wendungen/ki_15.mp3",
+  "audio/de-fr/wendungen/ki_16.mp3",
+  "audio/de-fr/wendungen/ki_17.mp3",
+  "audio/de-fr/wendungen/ki_18.mp3",
+  "audio/de-fr/wendungen/ki_19.mp3",
+  "audio/de-fr/wendungen/ki_20.mp3",
+  "audio/de-fr/wendungen/ki_21.mp3",
+  "audio/de-fr/wendungen/ki_22.mp3",
+  "audio/de-fr/wendungen/ki_23.mp3",
+  "audio/de-fr/wendungen/ki_24.mp3",
   "audio/de-fr/wendungen/mu_01.mp3",
   "audio/de-fr/wendungen/mu_02.mp3",
   "audio/de-fr/wendungen/mu_03.mp3",
