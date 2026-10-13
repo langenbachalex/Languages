@@ -46,15 +46,16 @@ GESCHICHTE = {"titel": "", "unter": "", "sammlung": ["", ""]}   # später
 
 AUSSPRACHE = None   # später, optional (ch · ü · ö)
 
-# Karte: Deutschland – kommt später (vorerst keine Orte)
+# Karte: Deutschland mit Landkreisen (deutschlandGeoJSON / DIVA-GIS, nicht-kommerziell, Stand etwa 2010)
 KARTE = {"name": "L'Allemagne", "einheit": "Landkreise", "lieux": "lieux", "start": "Saarbrücken",
-         "quelle": "", "badge": "Deutschlandtour",
+         "quelle": "Carte : Landkreise d'Allemagne via deutschlandGeoJSON (données DIVA-GIS, usage non commercial).", "badge": "Deutschlandtour",
          "hinweis": ["Chaque séance terminée et chaque partie terminée débloquent un lieu, en partant de Sarrebruck. Touche un lieu !",
                      "Jede fertige Séance und jeder fertige Teil schalten einen Ort frei, Start in Saarbrücken. Tipp auf einen Ort!"]}
 
 
 def karte_laden(inhalte):
-    return {}, (lambda lon, lat: None), (lambda lon, lat: (0, 0))
+    import deutschland_karte
+    return deutschland_karte.laden(os.path.join(inhalte, "karte"))
 
 
 # Stimmen: Mr. Alex' Klon auf Deutsch, Aurélien = Julien (multilingual, Deutsch)

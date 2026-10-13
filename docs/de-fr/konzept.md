@@ -31,6 +31,6 @@ Noch offen; Kandidat: **ch** (ich-Laut und ach-Laut) oder **ü / ö**. Entfällt
 ## 4. Spiel
 
 - **Titel – deutsche Leckereien:** 🥨 Brezel → 🌭 Bratwurst → 🥔 Kartoffelsalat → 🍽️ Schnitzel → 🍖 Sauerbraten → 🍰 Schwarzwälder Kirschtorte → ✨ **Chefkoch**
-- **Karte:** Deutschland mit Landkreisen (freie Daten prüfen), Start **Saarbrücken**, 50 Orte mit Fakten (Französisch als Hilfe).
+- **Karte:** Deutschland mit **434 Landkreisen und kreisfreien Städten** (deutschlandGeoJSON / DIVA-GIS, nicht-kommerziell, Stand etwa 2010; `inhalte/de-fr/karte/kreise.geojson`, Lader `werkzeuge/deutschland_karte.py`), Start **Saarbrücken**, 50 Orte mit Fakten (`orte.tsv`, Französisch als Hilfe). Entscheidung Mr. Alex (13.10.): Kreise statt Bundesländer.
 - **Lob:** Super! · Genau! · Prima! · Klasse! · Perfekt! · Spitze! · Volltreffer! · Hut ab! · Wie ein Saarländer! … (84 Einträge in `lob.tsv`)
 - **Geschichte:** später, z. B. « Das Geheimnis der Völklinger Hütte ».
