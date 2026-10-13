@@ -17,6 +17,7 @@ THEME = {"blau": "#2b2b2b", "rot": "#dd0000"}   # Schwarz und Rot (Gold im Icon)
 # Themen in Lernreihenfolge – werden Thema für Thema ergänzt (jeweils nach Absegnung)
 THEMEN = [
     {"id": "lehrer", "name": "Unter Lehrern", "de": "Entre profs – avec Alex", "symbol": "🧑‍🏫", "datei": "unter_lehrern.tsv"},
+    {"id": "gefuehle", "name": "Gefühle und Stimmungen", "de": "Sentiments et ambiances", "symbol": "🎭", "datei": "gefuehle.tsv"},
 ]
 
 # Titel – deutsche Leckereien
