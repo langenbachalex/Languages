@@ -4678,12 +4678,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estar",
    "notiz": "engl. constipated = estreñido (verstopft). Der berühmteste Fehler englischsprachiger Lernender in der Apotheke.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_01.mp3",
    "satz": {
     "fr": "Estoy constipado. Resfriado, no lo otro. Lo otro se dice « estreñido ».",
     "de": "Ich bin erkältet. Schnupfen, nicht das andere. Das andere heißt „estreñido“.",
     "luecke": "constipado",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_01.mp3"
    },
    "zeit": null
   },
@@ -4695,12 +4695,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estar",
    "notiz": "engl. embarrassed = avergonzado; me da vergüenza = es ist mir peinlich. Mit estar (Zustand).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_02.mp3",
    "satz": {
     "fr": "Mi compañera está embarazada. Y no, no le da vergüenza.",
     "de": "Meine Kollegin ist schwanger. Und nein, es ist ihr nicht peinlich.",
     "luecke": "embarazada",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_02.mp3"
    },
    "zeit": null
   },
@@ -4712,12 +4712,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "corregir",
    "notiz": "engl. actually = en realidad. Französisch hat denselben falschen Freund: actuellement = zurzeit.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_03.mp3",
    "satz": {
     "fr": "Actualmente corrijo exámenes. En realidad, miro al gato.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Actualmente",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_03.mp3"
    },
    "zeit": null
   },
@@ -4729,12 +4729,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "comprar",
    "notiz": "engl. library = la biblioteca. Französisch gleich: librairie = Buchhandlung. tomar prestado = ausleihen.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_04.mp3",
    "satz": {
     "fr": "En la librería se compra. En la biblioteca se toma prestado. Y se devuelve. En teoría.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "librería",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_04.mp3"
    },
    "zeit": null
   },
@@ -4746,21 +4746,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "asistir",
    "notiz": "engl. to assist = ayudar. Wie frz. assister à. Immer mit a.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_05.mp3",
    "satz": {
     "fr": "Asisto a una reunión. No ayudo a nadie. Solo estoy.",
     "de": "Ich nehme an einer Konferenz teil. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "Asisto a",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Asistí a una reunión de tres horas.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_05_pc.mp3"
     },
     "fp": {
      "fr": "Voy a asistir a una reunión. Otra vez.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_05_fp.mp3"
     }
    }
   },
@@ -4772,21 +4772,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "atender",
    "notiz": "engl. to attend = asistir a. atender al cliente = den Kunden bedienen; atender en clase = aufpassen; e → ie: atiendo.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_06.mp3",
    "satz": {
     "fr": "En la tienda me atienden bien. No asisten a nada, me atienden.",
     "de": "Im Laden bedient man mich gut. Sie nehmen an nichts teil, sie bedienen mich.",
     "luecke": "me atienden",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me atendieron bien en la tienda.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_06_pc.mp3"
     },
     "fp": {
      "fr": "Me van a atender bien, seguro.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_06_fp.mp3"
     }
    }
   },
@@ -4798,21 +4798,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "pretender",
    "notiz": "engl. to pretend = fingir (so tun als ob). Wie frz. prétendre (behaupten). aprobar = (eine Prüfung) bestehen.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_07.mp3",
    "satz": {
     "fr": "Pretende aprobar sin estudiar. Y finge que estudia.",
     "de": "Er hat vor, ohne Lernen zu bestehen. Und tut so, als lerne er.",
     "luecke": "Pretende",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Pretendió aprobar sin estudiar.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_07_pc.mp3"
     },
     "fp": {
      "fr": "Va a pretender aprobar sin estudiar.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_07_fp.mp3"
     }
    }
   },
@@ -4824,12 +4824,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "engl. sensible = sensato (vernünftig). Wie frz. sensible. Betonung: sen-SI-ble.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_08.mp3",
    "satz": {
     "fr": "Mi gato es muy sensible. No sensato. Sensible.",
     "de": "Meine Katze ist sehr empfindsam. Nicht vernünftig. Empfindsam.",
     "luecke": "sensible",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_08.mp3"
    },
    "zeit": null
   },
@@ -4841,12 +4841,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ir",
    "notiz": "engl. eventually = finalmente, al final. Wie frz. éventuellement.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_09.mp3",
    "satz": {
     "fr": "Eventualmente iré. Finalmente fui. No es lo mismo.",
     "de": "Möglicherweise gehe ich hin. Schließlich bin ich hingegangen. Das ist nicht dasselbe.",
     "luecke": "Eventualmente",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_09.mp3"
    },
    "zeit": null
   },
@@ -4858,12 +4858,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "engl. carpet = la alfombra. Auch der Computer-Ordner heißt carpeta.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_10.mp3",
    "satz": {
     "fr": "Tengo una carpeta por clase. En el suelo, una alfombra.",
     "de": "Ich habe eine Mappe pro Klasse. Auf dem Boden einen Teppich.",
     "luecke": "carpeta",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_10.mp3"
    },
    "zeit": null
   },
@@ -4875,12 +4875,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "engl. exit = la salida. tener éxito = Erfolg haben; exitoso = erfolgreich.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_11.mp3",
    "satz": {
     "fr": "El examen fue un éxito. La salida está al fondo, a la derecha.",
     "de": "Die Arbeit war ein Erfolg. Der Ausgang ist hinten rechts.",
     "luecke": "éxito",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_11.mp3"
    },
    "zeit": null
   },
@@ -4892,12 +4892,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "dejar",
    "notiz": "engl. rope = la cuerda. la ropa ist Einzahl (Kleidung); el chándal = Trainingsanzug (Spanien).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_12.mp3",
    "satz": {
     "fr": "Mi ropa de domingo: un chándal. La cuerda la dejo para el kung-fu.",
     "de": "Meine Sonntagskleidung: eine Jogginghose. Das Seil lasse ich für Kung-Fu.",
     "luecke": "ropa",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_12.mp3"
    },
    "zeit": null
   },
@@ -4909,12 +4909,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "engl. large = grande; frz. large = ancho (breit). Dreifache Falle: largo = lang, ancho = breit, grande = groß.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_13.mp3",
    "satz": {
     "fr": "Un día largo. No ancho. Largo.",
     "de": "Ein langer Tag. Nicht breit. Lang.",
     "luecke": "largo",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_13.mp3"
    },
    "zeit": null
   },
@@ -4926,12 +4926,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "doler",
    "notiz": "engl. pie = la tarta, el pastel. me duele = mir tut weh (doler wie gustar). a pie = zu Fuß.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_14.mp3",
    "satz": {
     "fr": "Me duele el pie. No, no quiero tarta. Bueno, un poco.",
     "de": "Mein Fuß tut weh. Nein, ich will keinen Kuchen. Na ja, ein bisschen.",
     "luecke": "pie",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_14.mp3"
    },
    "zeit": null
   },
@@ -4943,12 +4943,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estar",
    "notiz": "engl. soap = el jabón. de primero = als erster Gang.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_15.mp3",
    "satz": {
     "fr": "De primero, sopa. El jabón está en el baño. Mejor no confundirlos.",
     "de": "Als Vorspeise Suppe. Die Seife ist im Bad. Besser, man verwechselt sie nicht.",
     "luecke": "sopa",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_15.mp3"
    },
    "zeit": null
   },
@@ -4960,12 +4960,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "salir",
    "notiz": "engl. camp = el campamento; acampar = zelten. el campo = auch Spielfeld (campo de fútbol).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_16.mp3",
    "satz": {
     "fr": "Los domingos salimos al campo. No acampamos. Paseamos.",
     "de": "Sonntags fahren wir aufs Land. Wir zelten nicht. Wir spazieren.",
     "luecke": "campo",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_16.mp3"
    },
    "zeit": null
   },
@@ -4977,21 +4977,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "realizar",
    "notiz": "engl. to realize (merken) = darse cuenta de. Wie frz. réaliser. z → c vor é: realicé.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_17.mp3",
    "satz": {
     "fr": "Realicé el examen. Luego me di cuenta de que era el equivocado.",
     "de": "Ich führte die Prüfung durch. Dann merkte ich, dass es die falsche war.",
     "luecke": "Realicé",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Realicé el examen el lunes.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_17_pc.mp3"
     },
     "fp": {
      "fr": "Voy a realizar el examen el lunes.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_17_fp.mp3"
     }
    }
   },
@@ -5003,12 +5003,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "engl. deception = el engaño; decepcionar = enttäuschen. Wie frz. déception.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_18.mp3",
    "satz": {
     "fr": "¿La nota? Una decepción. No un engaño. Solo una decepción.",
     "de": "Die Note? Eine Enttäuschung. Keine Täuschung. Nur eine Enttäuschung.",
     "luecke": "decepción",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_18.mp3"
    },
    "zeit": null
   },
@@ -5020,12 +5020,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "engl. lecture = la conferencia, la clase. Wie frz. lecture.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_19.mp3",
    "satz": {
     "fr": "Mi lectura de la noche: una novela. No una conferencia. Una novela.",
     "de": "Meine Abendlektüre: ein Roman. Keine Vorlesung. Ein Roman.",
     "luecke": "lectura",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_19.mp3"
    },
    "zeit": null
   },
@@ -5037,21 +5037,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "molestar",
    "notiz": "engl. to molest ist sexuell konnotiert – molestar nicht: „no molestar“ = bitte nicht stören. ¿te molesta? = stört es dich?",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_20.mp3",
    "satz": {
     "fr": "Perdón por molestar. Molestar, nada más. Es un verbo inocente.",
     "de": "Entschuldigung fürs Stören. Stören, mehr nicht. Ein harmloses Verb.",
     "luecke": "molestar",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Perdón, te molesté.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_20_pc.mp3"
     },
     "fp": {
      "fr": "Perdón, te voy a molestar un momento.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_20_fp.mp3"
     }
    }
   },
@@ -5063,12 +5063,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "decir",
    "notiz": "engl. preservative = el conservante. Dieselbe Falle wie im Französischen (préservatif).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_21.mp3",
    "satz": {
     "fr": "¿« Sin preservativos » en una mermelada? No. Se dice « sin conservantes ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "preservativo",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_21.mp3"
    },
    "zeit": null
   },
@@ -5080,21 +5080,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "salir",
    "notiz": "frz. salir = ensuciar (schmutzig machen). salir con alguien = mit jemandem ausgehen / zusammen sein. salgo (unregelmäßig).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_22.mp3",
    "satz": {
     "fr": "Salgo con Diego esta noche. En francés, « salir » es ensuciar. Cuidado con las citas.",
     "de": "Ich gehe heute Abend mit Diego aus. Auf Französisch heißt „salir“ beschmutzen. Vorsicht bei Verabredungen.",
     "luecke": "Salgo",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_22.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Salí con Diego anoche.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_22_pc.mp3"
     },
     "fp": {
      "fr": "Voy a salir con Diego esta noche.",
-     "audio": null
+     "audio": "audio/es-de/saetze/fa_22_fp.mp3"
     }
    }
   },
@@ -5106,12 +5106,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "pedir",
    "notiz": "it. burro = Butter = span. mantequilla. burro auch „Dummkopf“: ¡qué burro! pedir = bestellen (e → i: pido).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_23.mp3",
    "satz": {
     "fr": "Pido burro en Italia y me traen mantequilla. Pido mantequilla en España y me miran raro.",
     "de": "Ich bestelle „burro“ in Italien und bekomme Butter. Ich bestelle „mantequilla“ in Spanien, und man schaut mich komisch an.",
     "luecke": "burro",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_23.mp3"
    },
    "zeit": null
   },
@@ -5123,12 +5123,12 @@ window.SPRACHEN["es-de"] = {
    "register": "vous",
    "anker": "buscar",
    "notiz": "disculpe = usted-Imperativ von disculpar (entschuldigen); buscar = suchen (ohne Präposition: busco la biblioteca).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/fa_24.mp3",
    "satz": {
     "fr": "Disculpe, busco la biblioteca. – ¿La librería? – No, la biblioteca. La de los libros gratis.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
     "luecke": "busco la biblioteca",
-    "audio": null
+    "audio": "audio/es-de/saetze/fa_24.mp3"
    },
    "zeit": null
   }
@@ -6175,6 +6175,42 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/saetze/de_22.mp3",
   "audio/es-de/saetze/de_23.mp3",
   "audio/es-de/saetze/de_24.mp3",
+  "audio/es-de/saetze/fa_01.mp3",
+  "audio/es-de/saetze/fa_02.mp3",
+  "audio/es-de/saetze/fa_03.mp3",
+  "audio/es-de/saetze/fa_04.mp3",
+  "audio/es-de/saetze/fa_05.mp3",
+  "audio/es-de/saetze/fa_05_fp.mp3",
+  "audio/es-de/saetze/fa_05_pc.mp3",
+  "audio/es-de/saetze/fa_06.mp3",
+  "audio/es-de/saetze/fa_06_fp.mp3",
+  "audio/es-de/saetze/fa_06_pc.mp3",
+  "audio/es-de/saetze/fa_07.mp3",
+  "audio/es-de/saetze/fa_07_fp.mp3",
+  "audio/es-de/saetze/fa_07_pc.mp3",
+  "audio/es-de/saetze/fa_08.mp3",
+  "audio/es-de/saetze/fa_09.mp3",
+  "audio/es-de/saetze/fa_10.mp3",
+  "audio/es-de/saetze/fa_11.mp3",
+  "audio/es-de/saetze/fa_12.mp3",
+  "audio/es-de/saetze/fa_13.mp3",
+  "audio/es-de/saetze/fa_14.mp3",
+  "audio/es-de/saetze/fa_15.mp3",
+  "audio/es-de/saetze/fa_16.mp3",
+  "audio/es-de/saetze/fa_17.mp3",
+  "audio/es-de/saetze/fa_17_fp.mp3",
+  "audio/es-de/saetze/fa_17_pc.mp3",
+  "audio/es-de/saetze/fa_18.mp3",
+  "audio/es-de/saetze/fa_19.mp3",
+  "audio/es-de/saetze/fa_20.mp3",
+  "audio/es-de/saetze/fa_20_fp.mp3",
+  "audio/es-de/saetze/fa_20_pc.mp3",
+  "audio/es-de/saetze/fa_21.mp3",
+  "audio/es-de/saetze/fa_22.mp3",
+  "audio/es-de/saetze/fa_22_fp.mp3",
+  "audio/es-de/saetze/fa_22_pc.mp3",
+  "audio/es-de/saetze/fa_23.mp3",
+  "audio/es-de/saetze/fa_24.mp3",
   "audio/es-de/saetze/ga_01.mp3",
   "audio/es-de/saetze/ga_01_fp.mp3",
   "audio/es-de/saetze/ga_01_pc.mp3",
@@ -6519,6 +6555,30 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/wendungen/de_22.mp3",
   "audio/es-de/wendungen/de_23.mp3",
   "audio/es-de/wendungen/de_24.mp3",
+  "audio/es-de/wendungen/fa_01.mp3",
+  "audio/es-de/wendungen/fa_02.mp3",
+  "audio/es-de/wendungen/fa_03.mp3",
+  "audio/es-de/wendungen/fa_04.mp3",
+  "audio/es-de/wendungen/fa_05.mp3",
+  "audio/es-de/wendungen/fa_06.mp3",
+  "audio/es-de/wendungen/fa_07.mp3",
+  "audio/es-de/wendungen/fa_08.mp3",
+  "audio/es-de/wendungen/fa_09.mp3",
+  "audio/es-de/wendungen/fa_10.mp3",
+  "audio/es-de/wendungen/fa_11.mp3",
+  "audio/es-de/wendungen/fa_12.mp3",
+  "audio/es-de/wendungen/fa_13.mp3",
+  "audio/es-de/wendungen/fa_14.mp3",
+  "audio/es-de/wendungen/fa_15.mp3",
+  "audio/es-de/wendungen/fa_16.mp3",
+  "audio/es-de/wendungen/fa_17.mp3",
+  "audio/es-de/wendungen/fa_18.mp3",
+  "audio/es-de/wendungen/fa_19.mp3",
+  "audio/es-de/wendungen/fa_20.mp3",
+  "audio/es-de/wendungen/fa_21.mp3",
+  "audio/es-de/wendungen/fa_22.mp3",
+  "audio/es-de/wendungen/fa_23.mp3",
+  "audio/es-de/wendungen/fa_24.mp3",
   "audio/es-de/wendungen/ga_01.mp3",
   "audio/es-de/wendungen/ga_02.mp3",
   "audio/es-de/wendungen/ga_03.mp3",
