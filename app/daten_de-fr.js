@@ -5090,70 +5090,70 @@ window.SPRACHEN["de-fr"] = {
      "rolle": "B",
      "fr": "Hallo Alex! Lange nicht gesehen!",
      "de": "Salut Alex ! Ça fait longtemps !",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_01.mp3"
     },
     {
      "id": "d1_02",
      "rolle": "A",
      "fr": "Hallo Aurélien. Drei Tage. Aber ja, eine Ewigkeit.",
      "de": "Salut Aurélien. Trois jours. Mais oui, une éternité.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_02.mp3"
     },
     {
      "id": "d1_03",
      "rolle": "B",
      "fr": "Und, deine Stunde mit der Neunten, wie ist es gelaufen?",
      "de": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_03.mp3"
     },
     {
      "id": "d1_04",
      "rolle": "A",
      "fr": "Sehr gut. Sie haben geschlafen. Ich fast auch.",
      "de": "Très bien. Ils ont dormi. Moi aussi, presque.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_04.mp3"
     },
     {
      "id": "d1_05",
      "rolle": "B",
      "fr": "Ich kriege sie freitags kaum ruhig.",
      "de": "Moi, j'ai du mal à les faire taire le vendredi.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_05.mp3"
     },
     {
      "id": "d1_06",
      "rolle": "A",
      "fr": "Ganz einfach. Du redest über Grammatik. Totenstille.",
      "de": "Facile. Tu parles de grammaire. Silence total.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_06.mp3"
     },
     {
      "id": "d1_07",
      "rolle": "B",
      "fr": "Und du? Bist du nicht fix und fertig?",
      "de": "Et toi, tu n'es pas crevé ?",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_07.mp3"
     },
     {
      "id": "d1_08",
      "rolle": "A",
      "fr": "Doch. Also korrigiere ich heute Abend Klassenarbeiten… vor einem Film.",
      "de": "Si. Du coup, ce soir, je corrige des copies… devant un film.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_08.mp3"
     },
     {
      "id": "d1_09",
      "rolle": "B",
      "fr": "Ein guter Film?",
      "de": "Un bon film ?",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_09.mp3"
     },
     {
      "id": "d1_10",
      "rolle": "A",
      "fr": "Keine Ahnung. Ich schaue die Klassenarbeiten an.",
      "de": "Je ne sais pas. Je regarde les copies.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d1_10.mp3"
     }
    ]
   },
@@ -5167,70 +5167,70 @@ window.SPRACHEN["de-fr"] = {
      "rolle": "A",
      "fr": "Alles klar, Aurélien? Du siehst düster aus.",
      "de": "Ça va, Aurélien ? Tu as l'air sombre.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_01.mp3"
     },
     {
      "id": "d2_02",
      "rolle": "B",
      "fr": "Ich habe einen Hänger. Meine Katze schaut mich nicht mehr an.",
      "de": "J'ai le cafard. Mon chat ne me regarde plus.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_02.mp3"
     },
     {
      "id": "d2_03",
      "rolle": "A",
      "fr": "Seit wann?",
      "de": "Depuis quand ?",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_03.mp3"
     },
     {
      "id": "d2_04",
      "rolle": "B",
      "fr": "Seit ich auf Deutsch gesungen habe.",
      "de": "Depuis que j'ai chanté en allemand.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_04.mp3"
     },
     {
      "id": "d2_05",
      "rolle": "A",
      "fr": "Ah. Und welches Lied war es?",
      "de": "Ah. Et c'était quelle chanson ?",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_05.mp3"
     },
     {
      "id": "d2_06",
      "rolle": "B",
      "fr": "« Ein bisschen Frieden ». Zweimal.",
      "de": "« Ein bisschen Frieden ». Deux fois.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_06.mp3"
     },
     {
      "id": "d2_07",
      "rolle": "A",
      "fr": "Aurélien… das bricht mir das Herz, aber deine Katze hat recht.",
      "de": "Aurélien… ça me fend le cœur, mais ton chat a raison.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_07.mp3"
     },
     {
      "id": "d2_08",
      "rolle": "B",
      "fr": "Findest du das unheimlich?",
      "de": "Tu trouves ça inquiétant ?",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_08.mp3"
     },
     {
      "id": "d2_09",
      "rolle": "A",
      "fr": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
      "de": "Non. Je trouve ça apaisant. Pour le chat, c'est fini.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_09.mp3"
     },
     {
      "id": "d2_10",
      "rolle": "B",
      "fr": "Danke, Alex. Das geht mir nahe. Glaube ich.",
      "de": "Merci, Alex. Ça me touche. Je crois.",
-     "audio": null
+     "audio": "audio/de-fr/dialoge/d2_10.mp3"
     }
    ]
   }
@@ -6010,6 +6010,26 @@ window.SPRACHEN["de-fr"] = {
   ]
  },
  "audio_liste": [
+  "audio/de-fr/dialoge/d1_01.mp3",
+  "audio/de-fr/dialoge/d1_02.mp3",
+  "audio/de-fr/dialoge/d1_03.mp3",
+  "audio/de-fr/dialoge/d1_04.mp3",
+  "audio/de-fr/dialoge/d1_05.mp3",
+  "audio/de-fr/dialoge/d1_06.mp3",
+  "audio/de-fr/dialoge/d1_07.mp3",
+  "audio/de-fr/dialoge/d1_08.mp3",
+  "audio/de-fr/dialoge/d1_09.mp3",
+  "audio/de-fr/dialoge/d1_10.mp3",
+  "audio/de-fr/dialoge/d2_01.mp3",
+  "audio/de-fr/dialoge/d2_02.mp3",
+  "audio/de-fr/dialoge/d2_03.mp3",
+  "audio/de-fr/dialoge/d2_04.mp3",
+  "audio/de-fr/dialoge/d2_05.mp3",
+  "audio/de-fr/dialoge/d2_06.mp3",
+  "audio/de-fr/dialoge/d2_07.mp3",
+  "audio/de-fr/dialoge/d2_08.mp3",
+  "audio/de-fr/dialoge/d2_09.mp3",
+  "audio/de-fr/dialoge/d2_10.mp3",
   "audio/de-fr/lob/doch_siehst_du.mp3",
   "audio/de-fr/lob/fehler_diesmal_nicht.mp3",
   "audio/de-fr/lob/fehler_fast.mp3",
