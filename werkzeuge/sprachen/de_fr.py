@@ -18,6 +18,7 @@ THEME = {"blau": "#2b2b2b", "rot": "#dd0000"}   # Schwarz und Rot (Gold im Icon)
 THEMEN = [
     {"id": "lehrer", "name": "Unter Lehrern", "de": "Entre profs – avec Alex", "symbol": "🧑‍🏫", "datei": "unter_lehrern.tsv"},
     {"id": "gefuehle", "name": "Gefühle und Stimmungen", "de": "Sentiments et ambiances", "symbol": "🎭", "datei": "gefuehle.tsv"},
+    {"id": "katzen", "name": "Die Katzen", "de": "Les chats", "symbol": "🐈", "datei": "katzen.tsv"},
 ]
 
 # Titel – deutsche Leckereien

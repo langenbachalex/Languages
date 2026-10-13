@@ -315,6 +315,38 @@ window.SPRACHEN["de-fr"] = {
     "ge_23",
     "ge_24"
    ]
+  },
+  {
+   "id": "katzen",
+   "name": "Die Katzen",
+   "de": "Les chats",
+   "symbol": "🐈",
+   "wendungen": [
+    "ka_01",
+    "ka_02",
+    "ka_03",
+    "ka_04",
+    "ka_05",
+    "ka_06",
+    "ka_07",
+    "ka_08",
+    "ka_09",
+    "ka_10",
+    "ka_11",
+    "ka_12",
+    "ka_13",
+    "ka_14",
+    "ka_15",
+    "ka_16",
+    "ka_17",
+    "ka_18",
+    "ka_19",
+    "ka_20",
+    "ka_21",
+    "ka_22",
+    "ka_23",
+    "ka_24"
+   ]
   }
  ],
  "wendungen": [
@@ -1374,6 +1406,549 @@ window.SPRACHEN["de-fr"] = {
     "de": "Je suis désolé, madame, je ne voulais pas vous déranger.",
     "luecke": "Es tut mir leid",
     "audio": "audio/de-fr/saetze/ge_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_01",
+   "thema": "katzen",
+   "fr": "schnurren",
+   "de": "ronronner",
+   "register": "tu",
+   "anker": "schnurren",
+   "notiz": "schnurren = ronronner (onomatopée, comme « schnurr ») ; sobald = dès que (subordonnée, verbe à la fin : hinsetze). sich hinsetzen = s'asseoir (particule hin-).",
+   "audio": null,
+   "satz": {
+    "fr": "Meine Katze schnurrt, sobald ich mich hinsetze.",
+    "de": "Mon chat ronronne dès que je m'assieds.",
+    "luecke": "schnurrt",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie hat den ganzen Abend geschnurrt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie wird schnurren, sobald ich mich hinsetze.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_02",
+   "thema": "katzen",
+   "fr": "schmusen",
+   "de": "faire un câlin",
+   "register": "tu",
+   "anker": "schmusen",
+   "notiz": "schmusen = faire des câlins (mit jemandem schmusen) ; zum Schmusen = infinitif substantivé (zu dem Schmusen) ; die Schmusekatze = le chat câlin. aufs = auf das.",
+   "audio": null,
+   "satz": {
+    "fr": "Abends kommt sie zum Schmusen aufs Sofa.",
+    "de": "Le soir, elle vient me faire un câlin sur le canapé.",
+    "luecke": "zum Schmusen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Gestern Abend hat sie mit mir geschmust.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Heute Abend wird sie zum Schmusen kommen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_03",
+   "thema": "katzen",
+   "fr": "kratzen",
+   "de": "griffer",
+   "register": "tu",
+   "anker": "kratzen",
+   "notiz": "kratzen = griffer, gratter (les deux !) ; die Kralle = la griffe, der Kratzer = la griffure. man = on. Vorsicht ! = attention !",
+   "audio": null,
+   "satz": {
+    "fr": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
+    "de": "Attention, il griffe quand on le caresse trop longtemps.",
+    "luecke": "kratzt",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Er hat mich gekratzt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Er wird dich kratzen, du wirst sehen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_04",
+   "thema": "katzen",
+   "fr": "sich putzen",
+   "de": "faire sa toilette",
+   "register": "tu",
+   "anker": "putzen",
+   "notiz": "sich putzen = faire sa toilette (chat) ; putzen = nettoyer (la maison), sich die Zähne putzen = se brosser les dents. fressen = manger (pour les animaux ; essen pour les humains !). zehn Minuten lang = pendant dix minutes.",
+   "audio": null,
+   "satz": {
+    "fr": "Nach dem Fressen putzt er sich zehn Minuten lang.",
+    "de": "Après le repas, il fait sa toilette pendant dix minutes.",
+    "luecke": "putzt er sich",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Nach dem Fressen hat er sich geputzt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Nach dem Fressen wird er sich putzen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_05",
+   "thema": "katzen",
+   "fr": "miauen",
+   "de": "miauler",
+   "register": "tu",
+   "anker": "miauen",
+   "notiz": "miau = miaou ; miauen (participe miaut, sans ge- : le verbe est accentué sur -au). vor der Küchentür = devant la porte de la cuisine (vor + datif, lieu). um sechs Uhr morgens = à six heures du matin.",
+   "audio": null,
+   "satz": {
+    "fr": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
+    "de": "Elle miaule devant la porte de la cuisine à six heures du matin.",
+    "luecke": "miaut",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie hat die ganze Nacht miaut.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie wird um sechs miauen, wie immer.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_06",
+   "thema": "katzen",
+   "fr": "Hunger haben",
+   "de": "avoir faim",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "Hunger haben, Durst haben = avoir faim, soif (comme en français, avec « avoir »). wenn es nach ihm geht = si ça ne tenait qu'à lui (expression très courante).",
+   "audio": null,
+   "satz": {
+    "fr": "Wenn es nach ihm geht, hat er immer Hunger.",
+    "de": "D'après lui, il a toujours faim.",
+    "luecke": "hat er immer Hunger",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Er hatte Hunger, sagt er.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Er wird in fünf Minuten Hunger haben.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_07",
+   "thema": "katzen",
+   "fr": "streicheln",
+   "de": "caresser",
+   "register": "tu",
+   "anker": "streicheln",
+   "notiz": "streicheln = caresser (streichen = passer la main, peindre) ; ich streichle (le e tombe). hinter den Ohren = datif pluriel (das Ohr, die Ohren). Attention : die Katze = la chatte et le chat en général, der Kater = le matou.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich streichle meine Katze hinter den Ohren, das liebt sie.",
+    "de": "Je caresse ma chatte derrière les oreilles, elle adore ça.",
+    "luecke": "streichle",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe sie hinter den Ohren gestreichelt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde sie hinter den Ohren streicheln.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_08",
+   "thema": "katzen",
+   "fr": "die Krallen wetzen",
+   "de": "faire ses griffes",
+   "register": "tu",
+   "anker": "wetzen",
+   "notiz": "wetzen = aiguiser ; die Kralle = la griffe ; der Kratzbaum = l'arbre à chat (« arbre à gratter ») ; der Sessel = le fauteuil. am = an dem.",
+   "audio": null,
+   "satz": {
+    "fr": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
+    "de": "Il fait ses griffes sur le fauteuil, jamais sur le griffoir.",
+    "luecke": "wetzt seine Krallen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Er hat seine Krallen am Sessel gewetzt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Er wird seine Krallen am Sessel wetzen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_09",
+   "thema": "katzen",
+   "fr": "eine Raubkatze",
+   "de": "un félin",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "die Raubkatze = « chat de proie » = le félin, le fauve (der Raub = le rapt, le butin) ; relative avec die … hat (verbe à la fin). beschließen = décider, participe beschlossen.",
+   "audio": null,
+   "satz": {
+    "fr": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
+    "de": "Un chat, c'est un petit félin qui a décidé de vivre avec nous.",
+    "luecke": "Raubkatze",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_10",
+   "thema": "katzen",
+   "fr": "ein Nickerchen machen",
+   "de": "faire la sieste",
+   "register": "tu",
+   "anker": "machen",
+   "notiz": "das Nickerchen = le petit somme (nicken = hocher la tête, piquer du nez ; -chen = diminutif, toujours neutre) ; aussi : ein Schläfchen halten. was für ein … = quel … !",
+   "audio": null,
+   "satz": {
+    "fr": "Meine Katze macht sechzehn Stunden am Tag ein Nickerchen. Was für ein Leben.",
+    "de": "Mon chat fait la sieste seize heures par jour. Quelle vie.",
+    "luecke": "macht sechzehn Stunden am Tag ein Nickerchen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie hat ein Nickerchen gemacht. Sechzehn Stunden.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie wird ein Nickerchen machen. Ein langes.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_11",
+   "thema": "katzen",
+   "fr": "sich reiben an",
+   "de": "se frotter contre",
+   "register": "tu",
+   "anker": "reiben",
+   "notiz": "sich reiben an + datif (an meinen Beinen) ; reiben, participe gerieben. nach Hause kommen = rentrer à la maison (nach Hause = direction ; zu Hause = à la maison, où l'on est).",
+   "audio": null,
+   "satz": {
+    "fr": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
+    "de": "Elle se frotte contre mes jambes quand je rentre.",
+    "luecke": "reibt sich an",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie hat sich an meinen Beinen gerieben.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie wird sich an meinen Beinen reiben.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_12",
+   "thema": "katzen",
+   "fr": "das Trockenfutter",
+   "de": "les croquettes",
+   "register": "tu",
+   "anker": "mögen",
+   "notiz": "trocken + Futter (nourriture pour animaux) ; les croquettes se disent aussi die Kroketten (frites !). lieber mögen als = préférer à ; des Nachbarn = génitif (der Nachbar, déclinaison faible).",
+   "audio": null,
+   "satz": {
+    "fr": "Er mag das Trockenfutter des Nachbarn lieber als seines.",
+    "de": "Il préfère les croquettes du voisin aux siennes.",
+    "luecke": "Trockenfutter",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_13",
+   "thema": "katzen",
+   "fr": "das Nassfutter",
+   "de": "la pâtée",
+   "register": "tu",
+   "anker": "geben",
+   "notiz": "nass (humide) + Futter ; es gibt = il y a (+ accusatif). mittags = à midi (adverbe en -s). das weiß er = il le sait (wissen, inversion après das).",
+   "audio": null,
+   "satz": {
+    "fr": "Mittags gibt es Nassfutter, und das weiß er.",
+    "de": "À midi, c'est la pâtée, et il le sait.",
+    "luecke": "Nassfutter",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_14",
+   "thema": "katzen",
+   "fr": "einen Blick haben",
+   "de": "avoir un regard",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "der Blick = le regard (blicken = regarder) ; relative : der sagt (verbe à la fin de la relative). spät dran sein = être en retard (familier) ; aussi : zu spät sein, sich verspäten.",
+   "audio": null,
+   "satz": {
+    "fr": "Sie hat einen Blick, der sagt: « Du bist spät dran. »",
+    "de": "Elle a un regard qui dit : « Tu es en retard. »",
+    "luecke": "einen Blick",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_15",
+   "thema": "katzen",
+   "fr": "springen auf",
+   "de": "sauter sur",
+   "register": "tu",
+   "anker": "springen",
+   "notiz": "springen = sauter (participe gesprungen, avec sein) ; auf + accusatif (direction) : auf den Schreibtisch. der Schreibtisch = le bureau (meuble ; das Büro = la pièce). während = pendant que (verbe à la fin).",
+   "audio": null,
+   "satz": {
+    "fr": "Er springt auf den Schreibtisch, während ich Klassenarbeiten korrigiere.",
+    "de": "Il saute sur le bureau pendant que je corrige des copies.",
+    "luecke": "springt auf den Schreibtisch",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Er ist auf den Schreibtisch gesprungen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Er wird auf den Schreibtisch springen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_16",
+   "thema": "katzen",
+   "fr": "sich verstecken",
+   "de": "se cacher",
+   "register": "tu",
+   "anker": "verstecken",
+   "notiz": "sich verstecken = se cacher ; das Versteck = la cachette ; Verstecken spielen = jouer à cache-cache. der Staubsauger = l'aspirateur (Staub = poussière, saugen = aspirer). unter dem Bett = datif (lieu).",
+   "audio": null,
+   "satz": {
+    "fr": "Wenn der Staubsauger kommt, versteckt sie sich unter dem Bett.",
+    "de": "Quand l'aspirateur sort, elle se cache sous le lit.",
+    "luecke": "versteckt sie sich",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie hat sich unter dem Bett versteckt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie wird sich unter dem Bett verstecken.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_17",
+   "thema": "katzen",
+   "fr": "Gesellschaft leisten",
+   "de": "tenir compagnie",
+   "register": "tu",
+   "anker": "leisten",
+   "notiz": "jemandem Gesellschaft leisten = tenir compagnie à quelqu'un (leisten = fournir, accomplir ; die Gesellschaft = la société, la compagnie) ; mir = datif. vorbereiten = préparer (particule séparable : bereite … vor).",
+   "audio": null,
+   "satz": {
+    "fr": "Meine Katzen leisten mir Gesellschaft, wenn ich den Unterricht vorbereite.",
+    "de": "Mes chats me tiennent compagnie quand je prépare mes cours.",
+    "luecke": "leisten mir Gesellschaft",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie haben mir Gesellschaft geleistet.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie werden mir Gesellschaft leisten.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_18",
+   "thema": "katzen",
+   "fr": "eine Hauskatze",
+   "de": "un chat de gouttière",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "die Hauskatze = le chat domestique (sans pedigree : die Europäisch Kurzhaar) ; die Rassekatze = le chat de race ; die Streunerkatze = le chat errant. keine = négation du nom.",
+   "audio": null,
+   "satz": {
+    "fr": "Das ist keine Rassekatze, das ist eine ganz normale Hauskatze, und sie ist perfekt.",
+    "de": "Ce n'est pas un chat de race, c'est un chat de gouttière, et il est parfait.",
+    "luecke": "Hauskatze",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_19",
+   "thema": "katzen",
+   "fr": "Unsinn machen",
+   "de": "faire des bêtises",
+   "register": "tu",
+   "anker": "machen",
+   "notiz": "der Unsinn = le non-sens, les bêtises (Un- + Sinn) ; aussi : Blödsinn machen, Quatsch machen (familier). da sein = être là. Inversion après la subordonnée : machen sie.",
+   "audio": null,
+   "satz": {
+    "fr": "Wenn ich nicht da bin, machen sie Unsinn.",
+    "de": "Quand je ne suis pas là, ils font des bêtises.",
+    "luecke": "machen sie Unsinn",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie haben Unsinn gemacht.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie werden Unsinn machen, garantiert.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_20",
+   "thema": "katzen",
+   "fr": "der Tierarzt",
+   "de": "le vétérinaire",
+   "register": "tu",
+   "anker": "werden",
+   "notiz": "Tier + Arzt = « médecin des animaux » ; die Tierärztin au féminin. beim = bei dem (chez, au datif). werden = devenir (ici, pas le futur !).",
+   "audio": null,
+   "satz": {
+    "fr": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
+    "de": "Chez le vétérinaire, mon chat devient très, très calme.",
+    "luecke": "Tierarzt",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_21",
+   "thema": "katzen",
+   "fr": "das stört ihn nicht",
+   "de": "ça ne le dérange pas",
+   "register": "tu",
+   "anker": "stören",
+   "notiz": "stören = déranger ; ihn = accusatif (le) ; nicht en fin de phrase. schief singen = chanter faux (schief = de travers). glaube ich = je crois (inversion, en incise).",
+   "audio": null,
+   "satz": {
+    "fr": "Ich singe schief, aber das stört ihn nicht. Glaube ich.",
+    "de": "Je chante faux, mais ça ne le dérange pas. Enfin, je crois.",
+    "luecke": "stört ihn nicht",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_22",
+   "thema": "katzen",
+   "fr": "unabhängig sein",
+   "de": "être indépendant",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "unabhängig = indépendant (un- + abhängig, « dépendant » ; abhängen von = dépendre de) ; die Unabhängigkeit. zurückkommen = revenir (particule séparable).",
+   "audio": null,
+   "satz": {
+    "fr": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
+    "de": "Un chat est indépendant. Il revient quand il a faim.",
+    "luecke": "unabhängig",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ka_23",
+   "thema": "katzen",
+   "fr": "vor Wohlbehagen schnurren",
+   "de": "ronronner de plaisir",
+   "register": "tu",
+   "anker": "schnurren",
+   "notiz": "vor + datif = de (cause d'une émotion) : vor Freude weinen, vor Angst zittern ; das Wohlbehagen = le bien-être. mit geschlossenen Augen = les yeux fermés (datif pluriel).",
+   "audio": null,
+   "satz": {
+    "fr": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
+    "de": "Au soleil, elle ronronne de plaisir, les yeux fermés.",
+    "luecke": "schnurrt sie vor Wohlbehagen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie hat vor Wohlbehagen geschnurrt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie wird vor Wohlbehagen schnurren.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ka_24",
+   "thema": "katzen",
+   "fr": "Haben Sie eine Katze?",
+   "de": "est-ce que vous avez un chat ?",
+   "register": "vous",
+   "anker": "haben",
+   "notiz": "question par inversion : haben Sie … ? ; Sie / Ihrem avec majuscule (vouvoiement). Entschuldigen Sie = excusez-moi (forme polie). da sitzt eine = il y en a un(e) assis(e) là ; das Dach = le toit.",
+   "audio": null,
+   "satz": {
+    "fr": "Entschuldigen Sie, haben Sie eine Katze? Da sitzt eine auf Ihrem Dach.",
+    "de": "Excusez-moi, madame, est-ce que vous avez un chat ? Il y en a un sur votre toit.",
+    "luecke": "haben Sie eine Katze",
+    "audio": null
    },
    "zeit": null
   }
