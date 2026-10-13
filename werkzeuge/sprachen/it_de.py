@@ -22,6 +22,7 @@ THEMEN = [
     {"id": "sport", "name": "Sport e kung fu", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "sport.tsv"},
     {"id": "mangiare", "name": "Mangiare e vivere bene", "de": "Essen und gut leben", "symbol": "🍝", "datei": "mangiare.tsv"},
     {"id": "bambini", "name": "Bambini e neonati", "de": "Kinder und Babys", "symbol": "👶", "datei": "bambini.tsv"},
+    {"id": "falsi_amici", "name": "Falsi amici", "de": "Falsche Freunde Deutsch/Englisch/Französisch/Spanisch–Italienisch (Bonus)", "symbol": "⚡", "datei": "falsi_amici.tsv"},
 ]
 
 # Titel – Leiter der Leckereien
