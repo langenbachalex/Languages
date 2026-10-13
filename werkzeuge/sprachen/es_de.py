@@ -18,6 +18,7 @@ THEMEN = [
     {"id": "sentimientos", "name": "Sentimientos y ambientes", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "sentimientos.tsv"},
     {"id": "gatos", "name": "Los gatos", "de": "Die Katzen", "symbol": "🐈", "datei": "gatos.tsv"},
     {"id": "musica", "name": "Música y lengua", "de": "Musik und Sprache", "symbol": "🎵", "datei": "musica.tsv"},
+    {"id": "historias", "name": "Historias y fantasía", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "historias.tsv"},
 ]
 
 # Titel – Tapas-Leiter

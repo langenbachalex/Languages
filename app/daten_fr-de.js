@@ -545,6 +545,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Klassenarbeiten korrigieren",
    "register": "tu",
    "anker": "corriger",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_01.mp3",
    "satz": {
     "fr": "Ce soir, je corrige des copies de sixième.",
@@ -570,6 +571,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "fix und fertig sein",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_02.mp3",
    "satz": {
     "fr": "Après six heures de cours, je suis crevé.",
@@ -595,6 +597,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ist es gut gelaufen?",
    "register": "tu",
    "anker": "se passer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_03.mp3",
    "satz": {
     "fr": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
@@ -611,6 +614,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Unterricht halten",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_04.mp3",
    "satz": {
     "fr": "Je fais cours en anglais toute la matinée.",
@@ -636,6 +640,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Pause",
    "register": "tu",
    "anker": "retrouver",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_05.mp3",
    "satz": {
     "fr": "On se retrouve en salle des profs à la récré ?",
@@ -652,6 +657,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es kaum erwarten können",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_06.mp3",
    "satz": {
     "fr": "J'ai hâte d'être en vacances.",
@@ -677,6 +683,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Nase voll haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_07.mp3",
    "satz": {
     "fr": "J'en ai marre des réunions qui n'en finissent pas.",
@@ -693,6 +700,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Schwierigkeiten haben zu",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_08.mp3",
    "satz": {
     "fr": "J'ai du mal à les faire taire le vendredi après-midi.",
@@ -718,6 +726,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das ist lange her",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_09.mp3",
    "satz": {
     "fr": "Salut Aurélien ! Ça fait longtemps !",
@@ -734,6 +743,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "also, deshalb (umgangssprachlich)",
    "register": "tu",
    "anker": "prendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_10.mp3",
    "satz": {
     "fr": "Le prof de sport est malade, du coup je prends sa classe.",
@@ -759,6 +769,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eigentlich, genau genommen",
    "register": "tu",
    "anker": "aimer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_11.mp3",
    "satz": {
     "fr": "En fait, j'aime bien mes élèves de neuvième.",
@@ -775,6 +786,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "trotzdem, immerhin",
    "register": "tu",
    "anker": "adorer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_12.mp3",
    "satz": {
     "fr": "C'est fatigant, mais j'adore ce métier quand même.",
@@ -791,6 +803,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das lohnt sich",
    "register": "tu",
    "anker": "valoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_13.mp3",
    "satz": {
     "fr": "Préparer un bon cours, ça prend du temps, mais ça vaut le coup.",
@@ -816,6 +829,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "zurechtkommen",
    "register": "tu",
    "anker": "se débrouiller",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_14.mp3",
    "satz": {
     "fr": "Les élèves se débrouillent bien tout seuls.",
@@ -841,6 +855,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "voll dabei sein",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_15.mp3",
    "satz": {
     "fr": "Aujourd'hui, les sixièmes étaient à fond.",
@@ -857,6 +872,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Arbeiten zurückgeben",
    "register": "tu",
    "anker": "rendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_16.mp3",
    "satz": {
     "fr": "Je rends les copies lundi.",
@@ -882,6 +898,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Besprechung, Konferenz",
    "register": "tu",
    "anker": "venir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_17.mp3",
    "satz": {
     "fr": "On a une réunion à seize heures, tu viens ?",
@@ -898,6 +915,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das macht nichts",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_18.mp3",
    "satz": {
     "fr": "Tu as oublié mon livre ? Ça ne fait rien.",
@@ -914,6 +932,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich Zeit lassen",
    "register": "tu",
    "anker": "prendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_19.mp3",
    "satz": {
     "fr": "Prends ton temps, on a toute la soirée.",
@@ -930,6 +949,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "könnten Sie … ? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ep_20.mp3",
    "satz": {
     "fr": "Excusez-moi, pourriez-vous m'indiquer la salle des profs ?",
@@ -946,6 +966,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das berührt mich",
    "register": "tu",
    "anker": "toucher",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_01.mp3",
    "satz": {
     "fr": "Cette chanson me touche à chaque fois.",
@@ -971,6 +992,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Trübsal blasen, niedergeschlagen sein",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_02.mp3",
    "satz": {
     "fr": "Le dimanche soir, j'ai souvent le cafard.",
@@ -996,6 +1018,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "düster, dunkel",
    "register": "tu",
    "anker": "aimer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_03.mp3",
    "satz": {
     "fr": "J'aime les histoires sombres, avec une forêt et un secret.",
@@ -1012,6 +1035,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "melancholisch",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_04.mp3",
    "satz": {
     "fr": "Ce morceau de piano est mélancolique, mais tellement beau.",
@@ -1028,6 +1052,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das bricht mir das Herz",
    "register": "tu",
    "anker": "fendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_05.mp3",
    "satz": {
     "fr": "Voir un enfant pleurer tout seul, ça me fend le cœur.",
@@ -1053,6 +1078,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "gerührt, bewegt sein",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_06.mp3",
    "satz": {
     "fr": "À la fin du concert, j'étais ému aux larmes.",
@@ -1069,6 +1095,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "beunruhigend, unheimlich",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_07.mp3",
    "satz": {
     "fr": "La maison était silencieuse, c'était inquiétant.",
@@ -1085,6 +1112,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "beruhigend, wohltuend",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_08.mp3",
    "satz": {
     "fr": "Le ronronnement de mon chat est apaisant.",
@@ -1101,6 +1129,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Tränen in den Augen haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_09.mp3",
    "satz": {
     "fr": "Quand j'écoute cette voix, j'ai les larmes aux yeux.",
@@ -1126,6 +1155,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das gibt mir Gänsehaut",
    "register": "tu",
    "anker": "donner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_10.mp3",
    "satz": {
     "fr": "Le refrain me donne des frissons.",
@@ -1151,6 +1181,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Angst haben vor",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_11.mp3",
    "satz": {
     "fr": "Je n'ai pas peur du noir, mais du silence.",
@@ -1176,6 +1207,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "gut gelaunt sein",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_12.mp3",
    "satz": {
     "fr": "Ce matin, je suis de bonne humeur, le soleil est là.",
@@ -1201,6 +1233,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schlecht gelaunt sein",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_13.mp3",
    "satz": {
     "fr": "Ne lui parle pas, il est de mauvaise humeur.",
@@ -1217,6 +1250,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das fehlt mir",
    "register": "tu",
    "anker": "manquer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_14.mp3",
    "satz": {
     "fr": "Mes chats me manquent quand je suis en voyage.",
@@ -1242,6 +1276,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schwer ums Herz sein, viel auf dem Herzen haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_15.mp3",
    "satz": {
     "fr": "Après cette journée, j'en ai gros sur le cœur.",
@@ -1267,6 +1302,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "erschütternd, zutiefst bewegend",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_16.mp3",
    "satz": {
     "fr": "La fin du film est bouleversante.",
@@ -1283,6 +1319,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich gut / schlecht fühlen",
    "register": "tu",
    "anker": "se sentir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_17.mp3",
    "satz": {
     "fr": "Après le kung-fu, je me sens bien, léger.",
@@ -1308,6 +1345,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein schweres Herz haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_18.mp3",
    "satz": {
     "fr": "Elle est partie, et j'ai le cœur lourd.",
@@ -1333,6 +1371,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das macht mich traurig / glücklich",
    "register": "tu",
    "anker": "rendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_19.mp3",
    "satz": {
     "fr": "La pluie sur Paris me rend un peu triste.",
@@ -1358,6 +1397,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Halbdunkel, Hell-Dunkel",
    "register": "tu",
    "anker": "adorer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_20.mp3",
    "satz": {
     "fr": "J'adore le clair-obscur dans les tableaux du Louvre.",
@@ -1374,6 +1414,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "friedlich",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_21.mp3",
    "satz": {
     "fr": "Le soir, le jardin est paisible.",
@@ -1390,6 +1431,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "beklemmend, angsteinflößend",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_22.mp3",
    "satz": {
     "fr": "Le couloir vide du musée était angoissant.",
@@ -1406,6 +1448,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Kummer haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_23.mp3",
    "satz": {
     "fr": "Il a du chagrin depuis la mort de son chat.",
@@ -1431,6 +1474,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es tut mir leid (höflich)",
    "register": "vous",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/se_24.mp3",
    "satz": {
     "fr": "Je suis désolé, madame, je ne voulais pas vous déranger.",
@@ -1447,6 +1491,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schnurren",
    "register": "tu",
    "anker": "ronronner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_01.mp3",
    "satz": {
     "fr": "Mon chat ronronne dès que je m'assieds.",
@@ -1472,6 +1517,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "kuscheln, schmusen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_02.mp3",
    "satz": {
     "fr": "Le soir, elle vient me faire un câlin sur le canapé.",
@@ -1497,6 +1543,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "kratzen (mit Krallen)",
    "register": "tu",
    "anker": "griffer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_03.mp3",
    "satz": {
     "fr": "Attention, il griffe quand on le caresse trop longtemps.",
@@ -1522,6 +1569,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich putzen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_04.mp3",
    "satz": {
     "fr": "Après le repas, il fait sa toilette pendant dix minutes.",
@@ -1547,6 +1595,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "miauen",
    "register": "tu",
    "anker": "miauler",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_05.mp3",
    "satz": {
     "fr": "Elle miaule devant la porte de la cuisine à six heures du matin.",
@@ -1572,6 +1621,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Hunger haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_06.mp3",
    "satz": {
     "fr": "D'après lui, il a toujours faim.",
@@ -1597,6 +1647,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "streicheln",
    "register": "tu",
    "anker": "caresser",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_07.mp3",
    "satz": {
     "fr": "Je caresse ma chatte derrière les oreilles, elle adore ça.",
@@ -1622,6 +1673,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "seine Krallen wetzen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_08.mp3",
    "satz": {
     "fr": "Il fait ses griffes sur le fauteuil, jamais sur le griffoir.",
@@ -1647,6 +1699,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Raubkatze, ein Katzentier",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_09.mp3",
    "satz": {
     "fr": "Un chat, c'est un petit félin qui a décidé de vivre avec nous.",
@@ -1663,6 +1716,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Nickerchen machen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_10.mp3",
    "satz": {
     "fr": "Mon chat fait la sieste seize heures par jour. Quelle vie.",
@@ -1688,6 +1742,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich reiben an",
    "register": "tu",
    "anker": "se frotter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_11.mp3",
    "satz": {
     "fr": "Elle se frotte contre mes jambes quand je rentre.",
@@ -1713,6 +1768,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Trockenfutter",
    "register": "tu",
    "anker": "préférer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_12.mp3",
    "satz": {
     "fr": "Il préfère les croquettes du voisin aux siennes.",
@@ -1729,6 +1785,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Nassfutter",
    "register": "tu",
    "anker": "savoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_13.mp3",
    "satz": {
     "fr": "À midi, c'est la pâtée, et il le sait.",
@@ -1745,6 +1802,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "einen Blick haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_14.mp3",
    "satz": {
     "fr": "Elle a un regard qui dit : « Tu es en retard. »",
@@ -1761,6 +1819,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "springen auf",
    "register": "tu",
    "anker": "sauter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_15.mp3",
    "satz": {
     "fr": "Il saute sur le bureau pendant que je corrige des copies.",
@@ -1786,6 +1845,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich verstecken",
    "register": "tu",
    "anker": "se cacher",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_16.mp3",
    "satz": {
     "fr": "Quand l'aspirateur sort, elle se cache sous le lit.",
@@ -1811,6 +1871,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Gesellschaft leisten",
    "register": "tu",
    "anker": "tenir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_17.mp3",
    "satz": {
     "fr": "Mes chats me tiennent compagnie quand je prépare mes cours.",
@@ -1836,6 +1897,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Hauskatze (ohne Rasse)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_18.mp3",
    "satz": {
     "fr": "Ce n'est pas un chat de race, c'est un chat de gouttière, et il est parfait.",
@@ -1852,6 +1914,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Unsinn machen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_19.mp3",
    "satz": {
     "fr": "Quand je ne suis pas là, ils font des bêtises.",
@@ -1877,6 +1940,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Tierarzt",
    "register": "tu",
    "anker": "devenir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_20.mp3",
    "satz": {
     "fr": "Chez le vétérinaire, mon chat devient très, très calme.",
@@ -1893,6 +1957,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das stört ihn nicht",
    "register": "tu",
    "anker": "déranger",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_21.mp3",
    "satz": {
     "fr": "Je chante faux, mais ça ne le dérange pas. Enfin, je crois.",
@@ -1909,6 +1974,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "unabhängig sein",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_22.mp3",
    "satz": {
     "fr": "Un chat est indépendant. Il revient quand il a faim.",
@@ -1925,6 +1991,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "vor Wohlbehagen schnurren",
    "register": "tu",
    "anker": "ronronner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_23.mp3",
    "satz": {
     "fr": "Au soleil, elle ronronne de plaisir, les yeux fermés.",
@@ -1950,6 +2017,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Haben Sie eine Katze? (höflich)",
    "register": "vous",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ch_24.mp3",
    "satz": {
     "fr": "Excusez-moi, madame, est-ce que vous avez un chat ? Il y en a un sur votre toit.",
@@ -1966,6 +2034,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "richtig (sauber) singen",
    "register": "tu",
    "anker": "chanter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_01.mp3",
    "satz": {
     "fr": "Mon frère chante juste, moi je chante avec le cœur.",
@@ -1991,6 +2060,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schief singen",
    "register": "tu",
    "anker": "chanter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_02.mp3",
    "satz": {
     "fr": "Je chante faux, mais fort. Ça compense.",
@@ -2016,6 +2086,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Refrain",
    "register": "tu",
    "anker": "connaître",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_03.mp3",
    "satz": {
     "fr": "Je ne connais pas les paroles, mais le refrain, oui.",
@@ -2032,6 +2103,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Liedtext",
    "register": "tu",
    "anker": "donner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_04.mp3",
    "satz": {
     "fr": "Les paroles de cette chanson me donnent des frissons.",
@@ -2048,6 +2120,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das klingt gut",
    "register": "tu",
    "anker": "sonner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_05.mp3",
    "satz": {
     "fr": "En français, cette phrase sonne bien. En allemand, moins.",
@@ -2073,6 +2146,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein gutes Gehör haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_06.mp3",
    "satz": {
     "fr": "Aurélien a l'oreille : il entend mon accent allemand tout de suite.",
@@ -2089,6 +2163,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Akzent",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_07.mp3",
    "satz": {
     "fr": "Mon accent, c'est un mélange de Sarre et de bonne volonté.",
@@ -2105,6 +2180,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Musik der Sprache",
    "register": "tu",
    "anker": "aimer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_08.mp3",
    "satz": {
     "fr": "Ce que j'aime en français, c'est la musique de la langue.",
@@ -2121,6 +2197,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Instrument spielen",
    "register": "tu",
    "anker": "jouer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_09.mp3",
    "satz": {
     "fr": "Tu joues d'un instrument ? – Oui, de la guitare, mal.",
@@ -2146,6 +2223,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "in Dauerschleife hören",
    "register": "tu",
    "anker": "écouter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_10.mp3",
    "satz": {
     "fr": "J'écoute cette chanson en boucle depuis trois jours.",
@@ -2171,6 +2249,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "einen Ohrwurm haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_11.mp3",
    "satz": {
     "fr": "J'ai « Ne me quitte pas » dans la tête depuis ce matin. Merci, Aurélien.",
@@ -2187,6 +2266,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "summen",
    "register": "tu",
    "anker": "fredonner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_12.mp3",
    "satz": {
     "fr": "Je fredonne en corrigeant des copies. Les élèves ne le savent pas.",
@@ -2212,6 +2292,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Rhythmus",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_13.mp3",
    "satz": {
     "fr": "Le français a un rythme : on accentue la fin des mots.",
@@ -2228,6 +2309,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Liaison (Bindung)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_14.mp3",
    "satz": {
     "fr": "Les‿enfants, les‿amis : la liaison, c'est la musique entre les mots.",
@@ -2244,6 +2326,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "aussprechen",
    "register": "tu",
    "anker": "prononcer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_15.mp3",
    "satz": {
     "fr": "Je n'arrive pas à prononcer « grenouille ». Je dis « grenade ».",
@@ -2269,6 +2352,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Musikstück",
    "register": "tu",
    "anker": "rendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_16.mp3",
    "satz": {
     "fr": "Ce morceau de piano me rend heureux et triste en même temps.",
@@ -2285,6 +2369,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "aus voller Kehle",
    "register": "tu",
    "anker": "chanter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_17.mp3",
    "satz": {
     "fr": "Dans la voiture, je chante à tue-tête. Seul. Toujours seul.",
@@ -2301,6 +2386,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine tiefe / hohe Stimme",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_18.mp3",
    "satz": {
     "fr": "Il a une voix grave, elle a une voix aiguë, et moi j'ai une voix de prof.",
@@ -2317,6 +2403,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das spricht mich an",
    "register": "tu",
    "anker": "parler",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_19.mp3",
    "satz": {
     "fr": "Cette chanson me parle. Je ne comprends pas tout, mais elle me parle.",
@@ -2342,6 +2429,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "auswendig lernen",
    "register": "tu",
    "anker": "apprendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_20.mp3",
    "satz": {
     "fr": "J'apprends les paroles par cœur, c'est mon vocabulaire préféré.",
@@ -2367,6 +2455,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das falsche Wort erwischen",
    "register": "tu",
    "anker": "se tromper",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_21.mp3",
    "satz": {
     "fr": "Je me trompe souvent de mot, mais la mélodie est juste.",
@@ -2392,6 +2481,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das tut mir gut",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_22.mp3",
    "satz": {
     "fr": "Chanter le soir, ça me fait du bien.",
@@ -2417,6 +2507,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine singende (melodische) Sprache",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_23.mp3",
    "satz": {
     "fr": "Le français est une langue chantante. Même quand on râle.",
@@ -2433,6 +2524,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Könnten Sie das langsamer wiederholen? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/mu_24.mp3",
    "satz": {
     "fr": "Pardon, pourriez-vous répéter plus lentement ? J'écoute la musique, pas les mots.",
@@ -2449,6 +2541,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es war einmal",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_01.mp3",
    "satz": {
     "fr": "Il était une fois un professeur qui ne corrigeait jamais ses copies. C'est un conte.",
@@ -2465,6 +2558,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Geschichte erzählen",
    "register": "tu",
    "anker": "raconter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_02.mp3",
    "satz": {
     "fr": "Le soir, je raconte une histoire à mon chat. Il s'endort avant la fin.",
@@ -2490,6 +2584,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Suche, die Queste",
    "register": "tu",
    "anker": "commencer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_03.mp3",
    "satz": {
     "fr": "Chaque bon roman commence par une quête. Même si c'est juste chercher ses clés.",
@@ -2506,6 +2601,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "tief im Wald",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_04.mp3",
    "satz": {
     "fr": "Au fond de la forêt, il y avait une maison. Et dans la maison, une lumière.",
@@ -2522,6 +2618,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Drache",
    "register": "tu",
    "anker": "cracher",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_05.mp3",
    "satz": {
     "fr": "Le dragon ne crachait pas de feu. Il crachait des devoirs.",
@@ -2538,6 +2635,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Schwert",
    "register": "tu",
    "anker": "prendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_06.mp3",
    "satz": {
     "fr": "Le héros a pris son épée. Elle était lourde, comme un lundi.",
@@ -2554,6 +2652,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Zauber",
    "register": "tu",
    "anker": "transformer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_07.mp3",
    "satz": {
     "fr": "Un sortilège a transformé la classe en silence. Ça n'a duré que trois minutes.",
@@ -2579,6 +2678,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "plötzlich, mit einem Schlag",
    "register": "tu",
    "anker": "ouvrir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_08.mp3",
    "satz": {
     "fr": "D'un coup, la porte s'est ouverte. Personne. Juste le vent. Enfin, j'espère.",
@@ -2595,6 +2695,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Geheimnis haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_09.mp3",
    "satz": {
     "fr": "Tout le monde a un secret dans cette histoire. Même le chat.",
@@ -2611,6 +2712,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Königreich",
    "register": "tu",
    "anker": "parler",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_10.mp3",
    "satz": {
     "fr": "Dans ce royaume, les livres parlaient et les gens écoutaient.",
@@ -2627,6 +2729,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Zauberer / eine Hexe",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_11.mp3",
    "satz": {
     "fr": "La sorcière n'était pas méchante. Elle était fatiguée. Je la comprends.",
@@ -2643,6 +2746,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich verwandeln in",
    "register": "tu",
    "anker": "se transformer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_12.mp3",
    "satz": {
     "fr": "À minuit, le prof se transforme en lecteur. Jusqu'à deux heures du matin.",
@@ -2668,6 +2772,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "auf einmal",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_13.mp3",
    "satz": {
     "fr": "Tout à coup, le silence. Puis une voix : « Monsieur, c'est quand la pause ? »",
@@ -2684,6 +2789,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Held / eine Heldin",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_14.mp3",
    "satz": {
     "fr": "Le héros de mon roman préféré a peur de tout. C'est pour ça qu'il est courageux.",
@@ -2700,6 +2806,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Bösewicht",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_15.mp3",
    "satz": {
     "fr": "Le méchant de l'histoire, c'est le réveil. Six heures. Chaque jour.",
@@ -2716,6 +2823,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Schatzkarte",
    "register": "tu",
    "anker": "trouver",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_16.mp3",
    "satz": {
     "fr": "J'ai trouvé une carte au trésor dans un cahier. C'était un plan de la cantine.",
@@ -2741,6 +2849,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es heißt, dass",
    "register": "tu",
    "anker": "paraître",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_17.mp3",
    "satz": {
     "fr": "Il paraît que la salle 13 existe. Il paraît aussi que le chat y dort.",
@@ -2757,6 +2866,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "verschwinden",
    "register": "tu",
    "anker": "disparaître",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_18.mp3",
    "satz": {
     "fr": "Dans ce roman, les gens disparaissent. Dans ma classe, ce sont les stylos.",
@@ -2782,6 +2892,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Fortsetzung",
    "register": "tu",
    "anker": "lire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_19.mp3",
    "satz": {
     "fr": "Je veux lire la suite tout de suite. Mais il est minuit. Je lis la suite.",
@@ -2798,6 +2909,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "in Atem (gespannt)",
    "register": "tu",
    "anker": "tenir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_20.mp3",
    "satz": {
     "fr": "Ce livre me tient en haleine depuis trois nuits.",
@@ -2823,6 +2935,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schaudern, zittern",
    "register": "tu",
    "anker": "frissonner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_21.mp3",
    "satz": {
     "fr": "Je frissonne à chaque chapitre. Et je continue. C'est ça, la fantasy.",
@@ -2848,6 +2961,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Wendung (in der Handlung)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_22.mp3",
    "satz": {
     "fr": "Un rebondissement à la page 200 : le chat était le roi depuis le début.",
@@ -2864,6 +2978,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Ende",
    "register": "tu",
    "anker": "raconter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_23.mp3",
    "satz": {
     "fr": "La fin de cette histoire ? Je ne la raconte pas. Lis le livre.",
@@ -2880,6 +2995,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Könnten Sie mir ein Buch empfehlen? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/hi_24.mp3",
    "satz": {
     "fr": "Bonjour, pourriez-vous me conseiller un livre ? Un peu sombre, un peu magique.",
@@ -2896,6 +3012,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "trainieren",
    "register": "tu",
    "anker": "s'entraîner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_01.mp3",
    "satz": {
     "fr": "Je m'entraîne trois fois par semaine. Deux, si je suis honnête.",
@@ -2921,6 +3038,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Tritt",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_02.mp3",
    "satz": {
     "fr": "Un bon coup de pied, c'est d'abord une bonne position.",
@@ -2937,6 +3055,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Fausthieb",
    "register": "tu",
    "anker": "partir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_03.mp3",
    "satz": {
     "fr": "En kung-fu, le coup de poing part de la hanche, pas du bras.",
@@ -2953,6 +3072,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Beweglichkeit",
    "register": "tu",
    "anker": "travailler",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_04.mp3",
    "satz": {
     "fr": "À quarante ans, la souplesse se travaille tous les jours. Sinon, elle part.",
@@ -2969,6 +3089,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ruhig bleiben",
    "register": "tu",
    "anker": "garder",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_05.mp3",
    "satz": {
     "fr": "En combat comme en classe : garder son calme, respirer, attendre.",
@@ -2994,6 +3115,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich aufwärmen",
    "register": "tu",
    "anker": "s'échauffer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_06.mp3",
    "satz": {
     "fr": "Avant de m'entraîner, je m'échauffe dix minutes. Mon dos me dit merci.",
@@ -3019,6 +3141,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Muskelkater haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_07.mp3",
    "satz": {
     "fr": "Le lendemain, j'ai des courbatures partout. Même dans les oreilles.",
@@ -3044,6 +3167,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "fit sein",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_08.mp3",
    "satz": {
     "fr": "Je suis en forme le matin. L'après-midi, je suis prof.",
@@ -3069,6 +3193,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Stellung halten",
    "register": "tu",
    "anker": "tenir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_09.mp3",
    "satz": {
     "fr": "Tenir la position du cavalier pendant deux minutes : simple. Pas facile.",
@@ -3085,6 +3210,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Atmung",
    "register": "tu",
    "anker": "commencer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_10.mp3",
    "satz": {
     "fr": "En kung-fu, tout commence par la respiration. En classe aussi.",
@@ -3101,6 +3227,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Meister",
    "register": "tu",
    "anker": "dire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_11.mp3",
    "satz": {
     "fr": "Mon maître dit : « Lentement, c'est vite. » Je n'ai pas encore compris.",
@@ -3117,6 +3244,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Abfolge (Form, Kombination)",
    "register": "tu",
    "anker": "apprendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_12.mp3",
    "satz": {
     "fr": "J'apprends un nouvel enchaînement. Douze mouvements. J'en connais quatre.",
@@ -3142,6 +3270,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ausweichen",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_13.mp3",
    "satz": {
     "fr": "Esquiver, c'est mieux que bloquer. Ça marche aussi en réunion.",
@@ -3158,6 +3287,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schwitzen",
    "register": "tu",
    "anker": "transpirer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_14.mp3",
    "satz": {
     "fr": "Après l'entraînement, je transpire comme une fontaine. Une fontaine heureuse.",
@@ -3183,6 +3313,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich verletzen",
    "register": "tu",
    "anker": "se blesser",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_15.mp3",
    "satz": {
     "fr": "Je ne me blesse jamais. Sauf en ouvrant une boîte de pâtée.",
@@ -3208,6 +3339,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich dehnen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_16.mp3",
    "satz": {
     "fr": "Je fais des étirements le soir, devant la télé. Le chat me regarde, perplexe.",
@@ -3233,6 +3365,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "wieder zu Atem kommen",
    "register": "tu",
    "anker": "reprendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_17.mp3",
    "satz": {
     "fr": "Entre deux séries, je reprends mon souffle. Longtemps.",
@@ -3258,6 +3391,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Gleichgewicht haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_18.mp3",
    "satz": {
     "fr": "Sur une jambe, j'ai de l'équilibre. Sur deux, ça dépend du jour.",
@@ -3274,6 +3408,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "laufen gehen",
    "register": "tu",
    "anker": "aller",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_19.mp3",
    "satz": {
     "fr": "Le dimanche matin, je vais courir. Le dimanche soir, je regrette.",
@@ -3299,6 +3434,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Gürtel",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_20.mp3",
    "satz": {
     "fr": "La ceinture ne fait pas le maître. Mais elle tient le pantalon.",
@@ -3315,6 +3451,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Fortschritte machen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_21.mp3",
    "satz": {
     "fr": "Je fais des progrès. Lentement. Comme dit mon maître, c'est vite.",
@@ -3340,6 +3477,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "über sich hinauswachsen",
    "register": "tu",
    "anker": "se dépasser",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_22.mp3",
    "satz": {
     "fr": "Aujourd'hui, je me suis dépassé : trente pompes. Hier, vingt-neuf.",
@@ -3356,6 +3494,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Körper und Geist",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_23.mp3",
    "satz": {
     "fr": "Le kung-fu, c'est le corps et l'esprit. Le mien discute souvent avec mon corps.",
@@ -3372,6 +3511,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Kann ich mich anmelden? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/sp_24.mp3",
    "satz": {
     "fr": "Bonjour, est-ce que je peux m'inscrire au cours du mardi soir ?",
@@ -3388,6 +3528,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ausgewogen essen",
    "register": "tu",
    "anker": "manger",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_01.mp3",
    "satz": {
     "fr": "J'essaie de manger équilibré. Le croissant du matin ne compte pas.",
@@ -3413,6 +3554,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "früh ins Bett gehen",
    "register": "tu",
    "anker": "se coucher",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_02.mp3",
    "satz": {
     "fr": "Je me couche tôt le dimanche. Le reste de la semaine, j'essaie.",
@@ -3438,6 +3580,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "auf sich achten",
    "register": "tu",
    "anker": "prendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_03.mp3",
    "satz": {
     "fr": "Prendre soin de soi, c'est aussi dire non. Même à un éclair.",
@@ -3454,6 +3597,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "einkaufen gehen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_04.mp3",
    "satz": {
     "fr": "Je fais les courses le samedi, avec une liste. Je rentre avec autre chose.",
@@ -3479,6 +3623,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "kochen",
    "register": "tu",
    "anker": "cuisiner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_05.mp3",
    "satz": {
     "fr": "Le soir, je cuisine en écoutant de la musique. Le chat supervise.",
@@ -3504,6 +3649,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Gericht",
    "register": "tu",
    "anker": "préparer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_06.mp3",
    "satz": {
     "fr": "Mon plat préféré ? Celui que quelqu'un d'autre a préparé.",
@@ -3520,6 +3666,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein bisschen Hunger haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_07.mp3",
    "satz": {
     "fr": "À seize heures, j'ai un petit creux. À seize heures cinq aussi.",
@@ -3545,6 +3692,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es sich schmecken lassen",
    "register": "tu",
    "anker": "se régaler",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_08.mp3",
    "satz": {
     "fr": "Chez Aurélien, on se régale. Sa mère lui envoie des recettes.",
@@ -3570,6 +3718,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "guten Appetit!",
    "register": "tu",
    "anker": "manger",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_09.mp3",
    "satz": {
     "fr": "« Bon appétit ! » – « Merci, toi aussi. » – « Moi, je ne mange pas. » – « Ah. »",
@@ -3586,6 +3735,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Bäckerei",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_10.mp3",
    "satz": {
     "fr": "Il y a une boulangerie à côté de l'école. C'est un problème. Un bon problème.",
@@ -3602,6 +3752,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Wasser trinken",
    "register": "tu",
    "anker": "boire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_11.mp3",
    "satz": {
     "fr": "Je bois de l'eau toute la journée. Et un café. Ou deux. L'eau, c'est entre.",
@@ -3627,6 +3778,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "naschen, knabbern",
    "register": "tu",
    "anker": "grignoter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_12.mp3",
    "satz": {
     "fr": "Je grignote devant les copies. Chaque faute, un carré de chocolat.",
@@ -3652,6 +3804,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "sich wohl in seiner Haut fühlen",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_13.mp3",
    "satz": {
     "fr": "Après le sport, je suis bien dans ma peau. Avant, aussi, mais moins.",
@@ -3668,6 +3821,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Pause machen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_14.mp3",
    "satz": {
     "fr": "Je fais une pause toutes les heures. Parfois, la pause dure une heure.",
@@ -3693,6 +3847,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "wie ein Baby schlafen",
    "register": "tu",
    "anker": "dormir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_15.mp3",
    "satz": {
     "fr": "Après le kung-fu, je dors comme un bébé. Un bébé qui ronfle.",
@@ -3718,6 +3873,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "fit und munter sein",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_16.mp3",
    "satz": {
     "fr": "Ce matin, j'ai la pêche ! C'est suspect. Il est six heures.",
@@ -3734,6 +3890,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "frische Luft schnappen",
    "register": "tu",
    "anker": "prendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_17.mp3",
    "satz": {
     "fr": "À midi, je prends l'air dix minutes. Sans téléphone. Enfin, presque.",
@@ -3759,6 +3916,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Rezept",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_18.mp3",
    "satz": {
     "fr": "J'ai une recette de quiche. Elle vient d'Aurélien, qui la tient de sa mère.",
@@ -3775,6 +3933,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "probieren, kosten",
    "register": "tu",
    "anker": "goûter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_19.mp3",
    "satz": {
     "fr": "Goûte ça. Non, vraiment, goûte. Ensuite, tu peux dire que tu n'aimes pas.",
@@ -3800,6 +3959,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das ist köstlich",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_20.mp3",
    "satz": {
     "fr": "C'est délicieux ! Qu'est-ce que c'est ? – Il vaut mieux ne pas savoir.",
@@ -3816,6 +3976,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Durst haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_21.mp3",
    "satz": {
     "fr": "Après le cours de sport, les élèves ont soif. Moi, j'ai soif de silence.",
@@ -3841,6 +4002,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "mit dem richtigen Fuß aufstehen",
    "register": "tu",
    "anker": "se lever",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_22.mp3",
    "satz": {
     "fr": "Aujourd'hui, je me suis levé du bon pied. Le gauche. Comme d'habitude.",
@@ -3857,6 +4019,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein kleines Vergnügen",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_23.mp3",
    "satz": {
     "fr": "Un petit plaisir par jour. Aujourd'hui : une tarte. Demain : une autre tarte.",
@@ -3873,6 +4036,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Ich hätte gern ein Baguette, bitte. (höflich)",
    "register": "vous",
    "anker": "vouloir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/ma_24.mp3",
    "satz": {
     "fr": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
@@ -3889,6 +4053,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "durchschlafen (Baby)",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_01.mp3",
    "satz": {
     "fr": "Le bébé de ma collègue fait ses nuits. Elle, pas encore.",
@@ -3914,6 +4079,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Kuscheltier, Schmusetuch",
    "register": "tu",
    "anker": "dormir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_02.mp3",
    "satz": {
     "fr": "Sans son doudou, impossible de dormir. Je parle du bébé. Enfin, surtout.",
@@ -3930,6 +4096,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Unsinn anstellen",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_03.mp3",
    "satz": {
     "fr": "Les enfants font des bêtises. C'est leur métier. Le mien, c'est de sourire.",
@@ -3955,6 +4122,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "in den Arm nehmen",
    "register": "tu",
    "anker": "prendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_04.mp3",
    "satz": {
     "fr": "Quand un enfant pleure, on le prend dans ses bras. C'est la seule règle.",
@@ -3980,6 +4148,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Baby",
    "register": "tu",
    "anker": "dire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_05.mp3",
    "satz": {
     "fr": "Un bébé, ça ne parle pas, mais ça dit tout.",
@@ -3996,6 +4165,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "lächeln (jemanden anlächeln)",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_06.mp3",
    "satz": {
     "fr": "Le bébé m'a fait un sourire. Ma journée était gagnée.",
@@ -4021,6 +4191,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "wachsen, groß werden",
    "register": "tu",
    "anker": "grandir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_07.mp3",
    "satz": {
     "fr": "Les enfants grandissent trop vite. Les copies, elles, restent.",
@@ -4046,6 +4217,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schlecht einschlafen",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_08.mp3",
    "satz": {
     "fr": "Le petit a du mal à s'endormir. Alors je chante. Ça marche. Il pleure moins fort.",
@@ -4071,6 +4243,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Windel",
    "register": "tu",
    "anker": "changer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_09.mp3",
    "satz": {
     "fr": "Changer une couche en trois minutes : ça, c'est un vrai enchaînement de kung-fu.",
@@ -4087,6 +4260,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "brav sein",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_10.mp3",
    "satz": {
     "fr": "« Sois sage ! » – « Je suis sage. » – « Alors pourquoi le chat est-il dans le lave-linge ? »",
@@ -4103,6 +4277,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Verstecken spielen",
    "register": "tu",
    "anker": "jouer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_11.mp3",
    "satz": {
     "fr": "On joue à cache-cache. Il se cache toujours derrière le rideau. Avec ses pieds dehors.",
@@ -4128,6 +4303,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Gute-Nacht-Geschichte erzählen",
    "register": "tu",
    "anker": "raconter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_12.mp3",
    "satz": {
     "fr": "Je raconte une histoire pour s'endormir. Au bout de trois pages, je dors.",
@@ -4153,6 +4329,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "weinen",
    "register": "tu",
    "anker": "pleurer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_13.mp3",
    "satz": {
     "fr": "Le bébé pleure. Puis il rit. Puis il pleure. C'est un concert.",
@@ -4178,6 +4355,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Umarmung, ein Kuscheln",
    "register": "tu",
    "anker": "commencer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_14.mp3",
    "satz": {
     "fr": "Un câlin avant l'école, et la journée commence bien. Pour les deux.",
@@ -4194,6 +4372,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "laufen lernen",
    "register": "tu",
    "anker": "apprendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_15.mp3",
    "satz": {
     "fr": "Elle apprend à marcher. Trois pas, une chute, un rire. C'est la vie en miniature.",
@@ -4219,6 +4398,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "stolz sein auf",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_16.mp3",
    "satz": {
     "fr": "Je suis fier de mes élèves. Surtout quand ils ne le savent pas.",
@@ -4235,6 +4415,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die ersten Wörter",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_17.mp3",
    "satz": {
     "fr": "Ses premiers mots : « papa », « chat », « non ». Dans cet ordre.",
@@ -4251,6 +4432,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Geduld haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_18.mp3",
    "satz": {
     "fr": "Avec les enfants, il faut avoir de la patience. J'en ai. Elle finit à dix-sept heures.",
@@ -4276,6 +4458,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "der Nachmittagssnack",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_19.mp3",
    "satz": {
     "fr": "À seize heures, c'est le goûter. Pour les enfants. Et pour moi, par solidarité.",
@@ -4292,6 +4475,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "schallend lachen",
    "register": "tu",
    "anker": "rire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_20.mp3",
    "satz": {
     "fr": "Le bébé rit aux éclats quand le chat éternue. Moi aussi, d'ailleurs.",
@@ -4317,6 +4501,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Mittagsschlaf halten",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_21.mp3",
    "satz": {
     "fr": "Les petits font la sieste. Les grands aussi, en secret.",
@@ -4342,6 +4527,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Angst im Dunkeln haben",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_22.mp3",
    "satz": {
     "fr": "Il a peur du noir. Alors on laisse la porte ouverte. Et le chat de garde.",
@@ -4358,6 +4544,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "es ist Badezeit",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_23.mp3",
    "satz": {
     "fr": "C'est l'heure du bain ! Tout le monde est mouillé. Même ceux qui ne se baignent pas.",
@@ -4374,6 +4561,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Wie alt ist Ihr Kind? (höflich)",
    "register": "vous",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/en_24.mp3",
    "satz": {
     "fr": "Il est adorable. Quel âge a votre enfant ? – Quatorze mois. Et quatre dents.",
@@ -4390,6 +4578,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "zurzeit, derzeit (≠ actually = en fait)",
    "register": "tu",
    "anker": "corriger",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_01.mp3",
    "satz": {
     "fr": "Actuellement, je corrige des copies. En fait, je regarde le chat.",
@@ -4406,6 +4595,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Buchhandlung (≠ library = une bibliothèque)",
    "register": "tu",
    "anker": "acheter",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_02.mp3",
    "satz": {
     "fr": "À la librairie, on achète. À la bibliothèque, on emprunte. Et on rend. En théorie.",
@@ -4422,6 +4612,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "beiwohnen, teilnehmen an (≠ to assist = aider)",
    "register": "tu",
    "anker": "assister",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_03.mp3",
    "satz": {
     "fr": "J'assiste à une réunion. Je n'aide personne. Je suis juste là.",
@@ -4447,6 +4638,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "warten (≠ to attend = assister à)",
    "register": "tu",
    "anker": "attendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_04.mp3",
    "satz": {
     "fr": "J'attends le bus. Le bus ne m'attend pas. C'est injuste.",
@@ -4472,6 +4664,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "verletzen (≠ to bless = bénir)",
    "register": "tu",
    "anker": "blesser",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_05.mp3",
    "satz": {
     "fr": "Attention : « blesser » n'est pas gentil. Mon chat le sait bien.",
@@ -4497,6 +4690,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "fragen, bitten (≠ to demand = exiger)",
    "register": "tu",
    "anker": "demander",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_06.mp3",
    "satz": {
     "fr": "Je demande le silence. Je ne l'exige pas. Nuance de prof.",
@@ -4522,6 +4716,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "bleiben (≠ to rest = se reposer)",
    "register": "tu",
    "anker": "rester",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_07.mp3",
    "satz": {
     "fr": "Je reste à la maison. Je ne me repose pas : j'ai des copies.",
@@ -4547,6 +4742,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "empfindlich, sensibel (≠ sensible = raisonnable)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_08.mp3",
    "satz": {
     "fr": "Mon chat est sensible. Pas raisonnable. Sensible.",
@@ -4563,6 +4759,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "möglicherweise (≠ eventually = finalement)",
    "register": "tu",
    "anker": "venir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_09.mp3",
    "satz": {
     "fr": "Éventuellement, je viendrai. Finalement, je suis venu. Ce n'est pas pareil.",
@@ -4579,6 +4776,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Ecke (≠ coin = une pièce de monnaie)",
    "register": "tu",
    "anker": "dormir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_10.mp3",
    "satz": {
     "fr": "Le chat dort dans un coin. Pas sur une pièce. Dans un coin.",
@@ -4595,6 +4793,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Tag (Verlauf) (≠ journey = un voyage)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_11.mp3",
    "satz": {
     "fr": "Bonne journée ! Ce n'est pas un voyage. Juste un jour. Mais un bon.",
@@ -4611,6 +4810,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Kondom (≠ preservative = un conservateur)",
    "register": "tu",
    "anker": "dire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_12.mp3",
    "satz": {
     "fr": "« Sans préservatifs » sur une confiture ? Non. On dit « sans conservateurs ».",
@@ -4627,6 +4827,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Arm (≠ bra = un soutien-gorge)",
    "register": "tu",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_13.mp3",
    "satz": {
     "fr": "Il a un bras cassé. Un bras. Faites attention au mot anglais.",
@@ -4643,6 +4844,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Wechselgeld, Kleingeld (≠ money = l'argent)",
    "register": "vous",
    "anker": "avoir",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_14.mp3",
    "satz": {
     "fr": "Vous avez la monnaie ? – Non, j'ai de l'argent, mais pas de monnaie.",
@@ -4659,6 +4861,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Enttäuschung (≠ deception = une tromperie)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_15.mp3",
    "satz": {
     "fr": "La note ? Une déception. Pas une tromperie. Juste une déception.",
@@ -4675,6 +4878,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Kleidungsstück (≠ habit = une habitude)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_16.mp3",
    "satz": {
     "fr": "Mes habits du dimanche : un jogging. C'est aussi une habitude.",
@@ -4691,6 +4895,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "nicht wissen (≠ to ignore = ne pas tenir compte de)",
    "register": "tu",
    "anker": "ignorer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_17.mp3",
    "satz": {
     "fr": "J'ignore la réponse. Je ne l'ignore pas : je ne la connais pas.",
@@ -4716,6 +4921,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Praktikum (≠ stage = une scène)",
    "register": "tu",
    "anker": "faire",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_18.mp3",
    "satz": {
     "fr": "Mon élève fait un stage. Pas sur une scène. Dans une boulangerie.",
@@ -4741,6 +4947,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "das Lesen, Lektüre (≠ lecture = un cours, une conférence)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_19.mp3",
    "satz": {
     "fr": "Ma lecture du soir : un roman. Pas un cours. Un roman.",
@@ -4757,6 +4964,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "ein Arzt (≠ medicine = un médicament)",
    "register": "tu",
    "anker": "donner",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_20.mp3",
    "satz": {
     "fr": "Le médecin donne un médicament. Le médicament n'est pas le médecin.",
@@ -4773,6 +4981,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "behaupten (≠ to pretend = faire semblant)",
    "register": "tu",
    "anker": "prétendre",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_21.mp3",
    "satz": {
     "fr": "Il prétend avoir fait ses devoirs. Il fait semblant de chercher son cahier.",
@@ -4798,6 +5007,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "die Vermietung, Miete (≠ location = un lieu, un endroit)",
    "register": "tu",
    "anker": "louer",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_22.mp3",
    "satz": {
     "fr": "Location de vélos. Ce n'est pas un lieu. C'est un vélo qu'on loue.",
@@ -4814,6 +5024,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "eine Weintraube (≠ raisin = un raisin sec)",
    "register": "tu",
    "anker": "être",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_23.mp3",
    "satz": {
     "fr": "Un raisin, c'est frais. Un raisin sec, c'est sec. Logique française.",
@@ -4830,6 +5041,7 @@ window.SPRACHEN["fr-de"] = {
    "de": "Entschuldigung, ich suche die Bibliothek. (höflich)",
    "register": "vous",
    "anker": "chercher",
+   "notiz": null,
    "audio": "audio/fr-de/wendungen/fa_24.mp3",
    "satz": {
     "fr": "Excusez-moi, je cherche la bibliothèque. – La librairie ? – Non, la bibliothèque. Avec les livres gratuits.",

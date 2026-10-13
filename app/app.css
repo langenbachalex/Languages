@@ -140,3 +140,6 @@
 .sprachen button:focus-visible { outline: 3px solid var(--gelb); outline-offset: -3px; }
 .offline-box { display: grid; gap: 10px; }
 .offline-stand { font-weight: 700; }
+
+/* Assimil-Notiz: wörtlich, Mini-Grammatik, Gebrauch – klein, in der Hilfssprache, erst mit der Lösung */
+.notiz { font: 400 .95rem/1.45 var(--body); color: var(--creme-text); background: var(--creme); border-radius: 10px; padding: 6px 10px; margin-top: 6px; }

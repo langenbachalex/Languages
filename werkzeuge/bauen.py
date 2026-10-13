@@ -51,7 +51,7 @@ def daten_fuer(P):
             assert z["luecke"] in z["satz_fr"], f"{paar} {wid}: Lücke „{z['luecke']}“ steht nicht im Satz"
             assert bool(z["passe_compose"]) == bool(z["futur_proche"]), f"{paar} {wid}: Zeitmaschine braucht beide Zeiten"
             w = {"id": wid, "thema": t["id"], "fr": z["wendung"], "de": z["deutsch"], "register": z["register"] or "tu",
-                 "anker": z["anker"], "audio": audio(f"wendungen/{wid}.mp3"),
+                 "anker": z["anker"], "notiz": (z.get("notiz") or "").strip() or None, "audio": audio(f"wendungen/{wid}.mp3"),
                  "satz": {"fr": z["satz_fr"], "de": z["satz_de"], "luecke": z["luecke"], "audio": audio(f"saetze/{wid}.mp3")},
                  "zeit": None}
             if z["passe_compose"]:

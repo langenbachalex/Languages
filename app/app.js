@@ -194,6 +194,7 @@
   const karte = (zaehlerText, ...inhalt) =>
     el("section", { class: "satzkarte" }, zaehlerText && el("p", { class: "zaehler" }, zaehlerText), ...inhalt);
   const registerSchild = (w) => w.register === "vous" && el("span", { class: "register", title: U.poli_titel }, U.poli);
+  const notiz = (w) => w.notiz && el("p", { class: "notiz", lang: D.lang_hilfe }, "💡 ", w.notiz);
   // Lücke im Satz: art "voll" | "luecke" | "buchstabe"
   function lueckenSatz(s, art) {
     const w = s.luecke, i = w ? s.fr.indexOf(w) : -1;
@@ -359,7 +360,7 @@
       karte(`${zaehler} · ${U.nouvelle}`,
         el("div", { class: "vok" }, el("div", {},
           el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)),
-          el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de))),
+          el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), notiz(w))),
         el("div", { class: "spalten" },
           el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.exemple), el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll"))),
           el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.hilfe_sprache), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de))),
@@ -374,7 +375,7 @@
     const frage = el("div", {}, el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de));
     const antwort = el("div", { hidden: true },
       el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)),
-      el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")));
+      el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), notiz(w));
     const bewerten = el("div", { class: "bewerten", hidden: true },
       knopf(U.je_savais, () => bewerteKarte(w, true), "haupt"),
       knopf(U.encore, () => bewerteKarte(w, false), "encore"));
@@ -433,7 +434,7 @@
     for (let i = 0; i < t.wendungen.length; i += GRUPPE) g.push(t.wendungen.slice(i, i + GRUPPE));
     return g;
   }
-  const satzVon = (id) => Object.assign({ titel: WENDUNG[id].fr }, WENDUNG[id].satz);
+  const satzVon = (id) => Object.assign({ titel: WENDUNG[id].fr, notiz: WENDUNG[id].notiz }, WENDUNG[id].satz);
   function teileVon(ids) {
     const saetze = ids.map(satzVon);
     const t = [1, 2, 3].map((stufe) => ({ art: "lr", stufe, saetze, name: f(U.etape, { n: stufe }) }));
@@ -776,7 +777,8 @@
     const fr = el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(s, stufe === 1 ? "voll" : "luecke"));
     if (stufe === 3) fr.replaceChildren(el("span", { class: "profi" }, U.dis_phrase));
     const frSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.ziel_sprache), fr);
-    const deSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.hilfe_sprache), el("p", { class: "satz de", lang: D.lang_hilfe }, s.de));
+    const deSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.hilfe_sprache), el("p", { class: "satz de", lang: D.lang_hilfe }, s.de),
+      stufe === 1 && notiz(s));
     const loesung = stufe > 1 ? sperre(knopf(U.solution, loesen)) : null;
     const weiter = sperre(weiterKnopf());
     if (loesung) gibFrei(loesung, denkzeit(s.fr), false);
@@ -839,7 +841,7 @@
     const balken = jetztDu();
     const frage = el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de);
     const antwort = el("div", { hidden: true }, el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)),
-      el("p", { class: "klein", lang: D.lang }, w.satz.fr));
+      el("p", { class: "klein", lang: D.lang }, w.satz.fr), notiz(w));
     const bewerten = el("div", { class: "bewerten", hidden: true },
       knopf(U.je_savais, naechstes, "haupt weiter"),
       knopf(U.encore, () => { lage.reihe.push(w.id); naechstes(); }, "encore"));
