@@ -411,6 +411,38 @@ window.SPRACHEN["es-de"] = {
     "hi_23",
     "hi_24"
    ]
+  },
+  {
+   "id": "deporte",
+   "name": "Deporte y kung-fu",
+   "de": "Sport und Kung-Fu",
+   "symbol": "🥋",
+   "wendungen": [
+    "de_01",
+    "de_02",
+    "de_03",
+    "de_04",
+    "de_05",
+    "de_06",
+    "de_07",
+    "de_08",
+    "de_09",
+    "de_10",
+    "de_11",
+    "de_12",
+    "de_13",
+    "de_14",
+    "de_15",
+    "de_16",
+    "de_17",
+    "de_18",
+    "de_19",
+    "de_20",
+    "de_21",
+    "de_22",
+    "de_23",
+    "de_24"
+   ]
   }
  ],
  "wendungen": [
@@ -421,7 +453,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Klassenarbeiten korrigieren",
    "register": "tu",
    "anker": "corregir",
-   "notiz": null,
+   "notiz": "corregir = korrigieren; o → ue? Nein: corrijo, corriges (g → j vor o/a). el examen (Plural: exámenes) = Klassenarbeit.",
    "audio": "audio/es-de/wendungen/pr_01.mp3",
    "satz": {
     "fr": "Esta tarde corrijo exámenes de primero.",
@@ -447,7 +479,7 @@ window.SPRACHEN["es-de"] = {
    "de": "fix und fertig sein",
    "register": "tu",
    "anker": "estar",
-   "notiz": null,
+   "notiz": "wörtlich „zu Staub gemacht sein“ (polvo = Staub). Nur mit estar (Zustand); weiblich: hecha polvo.",
    "audio": "audio/es-de/wendungen/pr_02.mp3",
    "satz": {
     "fr": "Después de seis horas de clase, estoy hecho polvo.",
@@ -473,7 +505,7 @@ window.SPRACHEN["es-de"] = {
    "de": "wie ist es gelaufen?",
    "register": "tu",
    "anker": "ir",
-   "notiz": null,
+   "notiz": "ir = gehen, auch „laufen“ im Sinn von verlaufen: ¿cómo ha ido? = wie ist es gelaufen? ha ido = pretérito perfecto (heute).",
    "audio": "audio/es-de/wendungen/pr_03.mp3",
    "satz": {
     "fr": "Bueno, ¿qué tal ha ido la clase con los de cuarto?",
@@ -490,7 +522,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Unterricht halten",
    "register": "tu",
    "anker": "dar",
-   "notiz": null,
+   "notiz": "wörtlich „Unterricht geben“ – dar clase (ohne Artikel) = unterrichten; dar una clase = eine Stunde halten.",
    "audio": "audio/es-de/wendungen/pr_04.mp3",
    "satz": {
     "fr": "Doy clase de inglés toda la mañana.",
@@ -516,7 +548,7 @@ window.SPRACHEN["es-de"] = {
    "de": "die Pause",
    "register": "tu",
    "anker": "ver",
-   "notiz": null,
+   "notiz": "el recreo = die Pause in der Schule (auch: Erholung); la pausa = jede andere Pause.",
    "audio": "audio/es-de/wendungen/pr_05.mp3",
    "satz": {
     "fr": "¿Nos vemos en la sala de profes en el recreo?",
@@ -533,7 +565,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Lust haben auf, kaum erwarten können",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "wörtlich „Lust haben auf“; tener ganas de + Infinitiv oder de que + Konjunktiv (de que lleguen).",
    "audio": "audio/es-de/wendungen/pr_06.mp3",
    "satz": {
     "fr": "Tengo muchas ganas de que lleguen las vacaciones.",
@@ -559,7 +591,7 @@ window.SPRACHEN["es-de"] = {
    "de": "die Nase voll haben von",
    "register": "tu",
    "anker": "estar",
-   "notiz": null,
+   "notiz": "wörtlich „satt sein von“ (harto = satt, voll); estoy harto = auch „ich bin satt“ beim Essen. Mit estar.",
    "audio": "audio/es-de/wendungen/pr_07.mp3",
    "satz": {
     "fr": "Estoy harto de reuniones que no terminan nunca.",
@@ -576,7 +608,7 @@ window.SPRACHEN["es-de"] = {
    "de": "es fällt mir schwer",
    "register": "tu",
    "anker": "costar",
-   "notiz": null,
+   "notiz": "wörtlich „es kostet mich“ – wie gustar: me cuesta, te cuesta, nos cuesta; o → ue: cuesta. Mit Infinitiv: me cuesta levantarme.",
    "audio": "audio/es-de/wendungen/pr_08.mp3",
    "satz": {
     "fr": "Me cuesta hacerlos callar los viernes por la tarde.",
@@ -602,7 +634,7 @@ window.SPRACHEN["es-de"] = {
    "de": "lange nicht gesehen",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "wörtlich „wie viel Zeit“ – gemeint: „… ist vergangen“. ¡Cuánto tiempo sin verte! = lange nicht gesehen.",
    "audio": "audio/es-de/wendungen/pr_09.mp3",
    "satz": {
     "fr": "¡Hola Diego! ¡Cuánto tiempo!",
@@ -619,7 +651,7 @@ window.SPRACHEN["es-de"] = {
    "de": "also, das heißt (umgangssprachlich)",
    "register": "tu",
    "anker": "tocar",
-   "notiz": null,
+   "notiz": "wörtlich „das heißt“ (sea = Konjunktiv von ser). Füllwort, so häufig wie „also“ – Spanier sagen es alle drei Sätze.",
    "audio": "audio/es-de/wendungen/pr_10.mp3",
    "satz": {
     "fr": "El profe de gimnasia está malo, o sea, me toca su clase a mí.",
@@ -645,7 +677,7 @@ window.SPRACHEN["es-de"] = {
    "de": "eigentlich, in Wirklichkeit",
    "register": "tu",
    "anker": "caer",
-   "notiz": null,
+   "notiz": "en realidad = in Wirklichkeit, eigentlich. Vorsicht: actualmente heißt „zurzeit“, nicht „eigentlich“ (falscher Freund zu engl. actually).",
    "audio": "audio/es-de/wendungen/pr_11.mp3",
    "satz": {
     "fr": "En realidad, mis alumnos de cuarto me caen muy bien.",
@@ -662,7 +694,7 @@ window.SPRACHEN["es-de"] = {
    "de": "trotzdem, jedenfalls",
    "register": "tu",
    "anker": "encantar",
-   "notiz": null,
+   "notiz": "wörtlich „von allen Formen“ = sowieso, jedenfalls; Synonyme: de todos modos, de todas maneras.",
    "audio": "audio/es-de/wendungen/pr_12.mp3",
    "satz": {
     "fr": "Es agotador, pero de todas formas me encanta este trabajo.",
@@ -679,7 +711,7 @@ window.SPRACHEN["es-de"] = {
    "de": "sich lohnen",
    "register": "tu",
    "anker": "merecer",
-   "notiz": null,
+   "notiz": "wörtlich „die Mühe verdienen“ (pena = Mühe, Leid). In Spanien merece la pena, in Lateinamerika vale la pena.",
    "audio": "audio/es-de/wendungen/pr_13.mp3",
    "satz": {
     "fr": "Preparar una buena clase lleva tiempo, pero merece la pena.",
@@ -705,7 +737,7 @@ window.SPRACHEN["es-de"] = {
    "de": "zurechtkommen, sich zu helfen wissen",
    "register": "tu",
    "anker": "apañarse",
-   "notiz": null,
+   "notiz": "apañarse = sich zu helfen wissen, zurechtkommen (umgangssprachlich, typisch Spanien); ya me apaño = ich komm schon klar.",
    "audio": "audio/es-de/wendungen/pr_14.mp3",
    "satz": {
     "fr": "Los alumnos se apañan bien solos.",
@@ -731,7 +763,7 @@ window.SPRACHEN["es-de"] = {
    "de": "voll dabei sein, Vollgas geben",
    "register": "tu",
    "anker": "ir",
-   "notiz": null,
+   "notiz": "wörtlich „oben anstoßen“ (tope = Anschlag, Maximum): a tope = voll, Vollgas; estar a tope = voll dabei / rappelvoll.",
    "audio": "audio/es-de/wendungen/pr_15.mp3",
    "satz": {
     "fr": "Hoy los de primero iban a tope.",
@@ -748,7 +780,7 @@ window.SPRACHEN["es-de"] = {
    "de": "die Arbeiten zurückgeben",
    "register": "tu",
    "anker": "entregar",
-   "notiz": null,
+   "notiz": "entregar = abgeben, übergeben (auch: die Hausaufgaben abgeben). Nicht devolver (zurückgeben eines geliehenen Dings).",
    "audio": "audio/es-de/wendungen/pr_16.mp3",
    "satz": {
     "fr": "Entrego los exámenes el lunes.",
@@ -774,7 +806,7 @@ window.SPRACHEN["es-de"] = {
    "de": "eine Besprechung, Konferenz",
    "register": "tu",
    "anker": "venir",
-   "notiz": null,
+   "notiz": "la reunión = Besprechung, Konferenz; reunirse = sich treffen. Uhrzeit: a las cuatro (Plural, weil horas).",
    "audio": "audio/es-de/wendungen/pr_17.mp3",
    "satz": {
     "fr": "Tenemos una reunión a las cuatro, ¿vienes?",
@@ -791,7 +823,7 @@ window.SPRACHEN["es-de"] = {
    "de": "macht nichts",
    "register": "tu",
    "anker": "pasar",
-   "notiz": null,
+   "notiz": "wörtlich „nichts passiert“ – das spanische „macht nichts / kein Problem“, universell einsetzbar.",
    "audio": "audio/es-de/wendungen/pr_18.mp3",
    "satz": {
     "fr": "¿Se te ha olvidado mi libro? No pasa nada.",
@@ -808,7 +840,7 @@ window.SPRACHEN["es-de"] = {
    "de": "lass dir Zeit",
    "register": "tu",
    "anker": "tomar",
-   "notiz": null,
+   "notiz": "wörtlich „nimm dir deine Zeit“; Imperativ + Pronomen angehängt: tómate, tómatelo con calma (nimm's gelassen).",
    "audio": "audio/es-de/wendungen/pr_19.mp3",
    "satz": {
     "fr": "Tómate tu tiempo, tenemos toda la tarde.",
@@ -825,7 +857,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das Lehrerzimmer",
    "register": "tu",
    "anker": "haber",
-   "notiz": null,
+   "notiz": "profe = Kurzform von profesor/profesora, unter Schülern und Lehrern üblich. hay = es gibt (von haber).",
    "audio": "audio/es-de/wendungen/pr_20.mp3",
    "satz": {
     "fr": "En la sala de profes siempre hay café. Y siempre está frío.",
@@ -842,7 +874,7 @@ window.SPRACHEN["es-de"] = {
    "de": "helfen, mit anpacken",
    "register": "tu",
    "anker": "echar",
-   "notiz": null,
+   "notiz": "wörtlich „eine Hand werfen“ = mit anpacken, helfen; echar ist das Verb für tausend Wendungen (echar la siesta, echar de menos).",
    "audio": "audio/es-de/wendungen/pr_21.mp3",
    "satz": {
     "fr": "¿Me echas una mano con las fotocopias?",
@@ -868,7 +900,7 @@ window.SPRACHEN["es-de"] = {
    "de": "die Anwesenheit prüfen",
    "register": "tu",
    "anker": "pasar",
-   "notiz": null,
+   "notiz": "wörtlich „Liste durchgehen“ = die Anwesenheit kontrollieren; faltar = fehlen: faltan tres (drei fehlen).",
    "audio": "audio/es-de/wendungen/pr_22.mp3",
    "satz": {
     "fr": "Paso lista y faltan tres. Los tres de siempre.",
@@ -894,7 +926,7 @@ window.SPRACHEN["es-de"] = {
    "de": "durcheinanderkommen, sich verheddern",
    "register": "tu",
    "anker": "liarse",
-   "notiz": null,
+   "notiz": "liarse = sich verheddern (lío = Durcheinander, Knäuel); ¡qué lío! = was für ein Chaos. Auch: liarse con alguien = mit jemandem anbandeln.",
    "audio": "audio/es-de/wendungen/pr_23.mp3",
    "satz": {
     "fr": "Me lío con los nombres de los de primero. Son treinta.",
@@ -920,7 +952,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Könnten Sie mir … zeigen? (höflich)",
    "register": "vous",
    "anker": "poder",
-   "notiz": null,
+   "notiz": "podría = Konditional von poder; usted + 3. Person; indicarme: Pronomen hängt am Infinitiv. perdone = Imperativ der usted-Form.",
    "audio": "audio/es-de/wendungen/pr_24.mp3",
    "satz": {
     "fr": "Perdone, ¿podría usted indicarme dónde está la sala de profes?",
@@ -937,7 +969,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das berührt mich, das geht mir nahe",
    "register": "tu",
    "anker": "llegar",
-   "notiz": null,
+   "notiz": "wörtlich „es kommt bei mir an“ (llegar = ankommen) – von Musik, Worten, Menschen. Mit Indirektpronomen: me/te/le llega.",
    "audio": "audio/es-de/wendungen/se_01.mp3",
    "satz": {
     "fr": "Esta canción me llega cada vez que la oigo.",
@@ -963,7 +995,7 @@ window.SPRACHEN["es-de"] = {
    "de": "niedergeschlagen sein",
    "register": "tu",
    "anker": "estar",
-   "notiz": null,
+   "notiz": "bajón = „der Absturz nach unten“ (bajar = sinken); estar de bajón = down sein, einen Hänger haben. Umgangssprachlich, Spanien.",
    "audio": "audio/es-de/wendungen/se_02.mp3",
    "satz": {
     "fr": "Los domingos por la tarde suelo estar de bajón.",
@@ -989,7 +1021,7 @@ window.SPRACHEN["es-de"] = {
    "de": "düster, dunkel",
    "register": "tu",
    "anker": "gustar",
-   "notiz": null,
+   "notiz": "oscuro = dunkel und düster; la oscuridad = die Dunkelheit. Gegenteil: claro.",
    "audio": "audio/es-de/wendungen/se_03.mp3",
    "satz": {
     "fr": "Me gustan las historias oscuras, con un bosque y un secreto.",
@@ -1006,7 +1038,7 @@ window.SPRACHEN["es-de"] = {
    "de": "melancholisch",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "wie im Deutschen; Betonung auf der drittletzten Silbe (Akzent!): me-lan-CÓ-li-co.",
    "audio": "audio/es-de/wendungen/se_04.mp3",
    "satz": {
     "fr": "Esta pieza de piano es melancólica, pero tan bonita.",
@@ -1023,7 +1055,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das bricht mir das Herz",
    "register": "tu",
    "anker": "partir",
-   "notiz": null,
+   "notiz": "wörtlich „es spaltet mir die Seele“ (partir = teilen/spalten); auch me parte el corazón, me rompe el alma.",
    "audio": "audio/es-de/wendungen/se_05.mp3",
    "satz": {
     "fr": "Ver a un niño llorar solo me parte el alma.",
@@ -1049,7 +1081,7 @@ window.SPRACHEN["es-de"] = {
    "de": "gerührt, bewegt sein",
    "register": "tu",
    "anker": "estar",
-   "notiz": null,
+   "notiz": "emocionado = gerührt, bewegt (nicht „aufgeregt“ wie engl. excited – das wäre nervioso oder ilusionado). Mit estar.",
    "audio": "audio/es-de/wendungen/se_06.mp3",
    "satz": {
     "fr": "Al final del concierto estaba emocionado hasta las lágrimas.",
@@ -1066,7 +1098,7 @@ window.SPRACHEN["es-de"] = {
    "de": "beunruhigend, unheimlich",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "von inquietar = beunruhigen (quieto = still, ruhig; in- = un-). la inquietud = die Unruhe, Sorge.",
    "audio": "audio/es-de/wendungen/se_07.mp3",
    "satz": {
     "fr": "La casa estaba en silencio. Era inquietante.",
@@ -1083,7 +1115,7 @@ window.SPRACHEN["es-de"] = {
    "de": "beruhigend, entspannend",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "von relajar = entspannen; relajarse = sich entspannen; ¡relájate! = entspann dich.",
    "audio": "audio/es-de/wendungen/se_08.mp3",
    "satz": {
     "fr": "El ronroneo de mi gato es relajante.",
@@ -1100,7 +1132,7 @@ window.SPRACHEN["es-de"] = {
    "de": "mir kommen die Tränen",
    "register": "tu",
    "anker": "saltar",
-   "notiz": null,
+   "notiz": "wörtlich „die Tränen springen mir heraus“ – se me + Verb: unwillkürliches Geschehen (se me cae = es fällt mir runter).",
    "audio": "audio/es-de/wendungen/se_09.mp3",
    "satz": {
     "fr": "Cuando oigo esa voz, se me saltan las lágrimas.",
@@ -1126,7 +1158,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das gibt mir Gänsehaut",
    "register": "tu",
    "anker": "poner",
-   "notiz": null,
+   "notiz": "wörtlich „es stellt mir die Hühnerhaut“ (gallina = Henne). poner = setzen/stellen, auch bei Gefühlen: me pone nervioso.",
    "audio": "audio/es-de/wendungen/se_10.mp3",
    "satz": {
     "fr": "El estribillo me pone la piel de gallina.",
@@ -1152,7 +1184,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Angst haben vor",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "tener miedo de/a + Nomen oder Infinitiv. no … sino … = nicht … sondern … (nach Verneinung sino, nicht pero).",
    "audio": "audio/es-de/wendungen/se_11.mp3",
    "satz": {
     "fr": "No tengo miedo de la oscuridad, sino del silencio.",
@@ -1178,7 +1210,7 @@ window.SPRACHEN["es-de"] = {
    "de": "gut gelaunt sein",
    "register": "tu",
    "anker": "estar",
-   "notiz": null,
+   "notiz": "estar de + Zustand: de buen humor, de mal humor, de vacaciones, de viaje. ha salido el sol = pretérito perfecto (heute).",
    "audio": "audio/es-de/wendungen/se_12.mp3",
    "satz": {
     "fr": "Esta mañana estoy de buen humor: ha salido el sol.",
@@ -1204,7 +1236,7 @@ window.SPRACHEN["es-de"] = {
    "de": "schlecht gelaunt sein",
    "register": "tu",
    "anker": "estar",
-   "notiz": null,
+   "notiz": "no le hables = verneinter Imperativ = Konjunktiv (hables); das Pronomen steht dann vor dem Verb.",
    "audio": "audio/es-de/wendungen/se_13.mp3",
    "satz": {
     "fr": "No le hables, está de mal humor.",
@@ -1221,7 +1253,7 @@ window.SPRACHEN["es-de"] = {
    "de": "vermissen",
    "register": "tu",
    "anker": "echar",
-   "notiz": null,
+   "notiz": "wörtlich „weniger werfen“ – echar de menos = vermissen (Spanien); Lateinamerika: extrañar. Personen mit a: echo de menos a mis gatos.",
    "audio": "audio/es-de/wendungen/se_14.mp3",
    "satz": {
     "fr": "Echo de menos a mis gatos cuando estoy de viaje.",
@@ -1247,7 +1279,7 @@ window.SPRACHEN["es-de"] = {
    "de": "einen Kloß im Hals haben",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "wörtlich „einen Knoten in der Kehle haben“ – im Deutschen der Kloß im Hals.",
    "audio": "audio/es-de/wendungen/se_15.mp3",
    "satz": {
     "fr": "Después de ese día, tengo un nudo en la garganta.",
@@ -1273,7 +1305,7 @@ window.SPRACHEN["es-de"] = {
    "de": "bewegend, erschütternd",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "von conmover = bewegen, rühren (mover = bewegen); conmovido = gerührt.",
    "audio": "audio/es-de/wendungen/se_16.mp3",
    "satz": {
     "fr": "El final de la película es conmovedor.",
@@ -1290,7 +1322,7 @@ window.SPRACHEN["es-de"] = {
    "de": "sich gut / schlecht fühlen",
    "register": "tu",
    "anker": "sentirse",
-   "notiz": null,
+   "notiz": "sentirse + Adjektiv/Adverb: me siento bien/mal/cansado. e → ie: me siento (auch: ich setze mich! sentarse – aus dem Zusammenhang).",
    "audio": "audio/es-de/wendungen/se_17.mp3",
    "satz": {
     "fr": "Después del kung-fu me siento bien, ligero.",
@@ -1316,7 +1348,7 @@ window.SPRACHEN["es-de"] = {
    "de": "ein schweres Herz haben, beklommen sein",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "wörtlich „das Herz geschrumpft haben“ (encoger = schrumpfen, einziehen) = beklommen sein; encogerse de hombros = die Schultern zucken.",
    "audio": "audio/es-de/wendungen/se_18.mp3",
    "satz": {
     "fr": "Se ha ido, y tengo el corazón encogido.",
@@ -1342,7 +1374,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das macht mich traurig / froh",
    "register": "tu",
    "anker": "poner",
-   "notiz": null,
+   "notiz": "wörtlich „es stellt mich traurig“; poner + Adjektiv = jemanden in einen Zustand versetzen: me pone triste/nervioso/contento.",
    "audio": "audio/es-de/wendungen/se_19.mp3",
    "satz": {
     "fr": "La lluvia sobre Sevilla me pone un poco triste.",
@@ -1368,7 +1400,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das Hell-Dunkel",
    "register": "tu",
    "anker": "encantar",
-   "notiz": null,
+   "notiz": "wie im Deutschen: claro (hell) + oscuro (dunkel). el cuadro = das Gemälde; el Prado = Madrids großes Museum.",
    "audio": "audio/es-de/wendungen/se_20.mp3",
    "satz": {
     "fr": "Me encanta el claroscuro en los cuadros del Prado.",
@@ -1385,7 +1417,7 @@ window.SPRACHEN["es-de"] = {
    "de": "ruhig, friedlich",
    "register": "tu",
    "anker": "estar",
-   "notiz": null,
+   "notiz": "tranquilo = ruhig (Ort, Mensch); ¡tranquilo! = immer mit der Ruhe. el patio = Innenhof, auch der Schulhof.",
    "audio": "audio/es-de/wendungen/se_21.mp3",
    "satz": {
     "fr": "Por la tarde, el patio está tranquilo.",
@@ -1402,7 +1434,7 @@ window.SPRACHEN["es-de"] = {
    "de": "beklemmend, angsteinflößend",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "von angustia = Beklemmung, Angst; angustioso = beklemmend. ser (Eigenschaft) angustioso.",
    "audio": "audio/es-de/wendungen/se_22.mp3",
    "satz": {
     "fr": "El pasillo vacío del museo era angustioso.",
@@ -1419,7 +1451,7 @@ window.SPRACHEN["es-de"] = {
    "de": "traurig sein, Kummer haben",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "pena = Kummer, Leid, auch Mitleid: ¡qué pena! = wie schade. tener pena = traurig sein.",
    "audio": "audio/es-de/wendungen/se_23.mp3",
    "satz": {
     "fr": "Tiene mucha pena desde que murió su gato.",
@@ -1445,7 +1477,7 @@ window.SPRACHEN["es-de"] = {
    "de": "es tut mir sehr leid",
    "register": "vous",
    "anker": "sentir",
-   "notiz": null,
+   "notiz": "wörtlich „ich fühle es sehr“ (sentir = fühlen) – die normale Entschuldigung; molestar = stören (nicht „belästigen“ wie engl. molest).",
    "audio": "audio/es-de/wendungen/se_24.mp3",
    "satz": {
     "fr": "Lo siento mucho, señora, no quería molestarla.",
@@ -1462,7 +1494,7 @@ window.SPRACHEN["es-de"] = {
    "de": "schnurren",
    "register": "tu",
    "anker": "ronronear",
-   "notiz": null,
+   "notiz": "lautmalerisch: ronronear, el ronroneo (das Schnurren). en cuanto = sobald (+ Indikativ bei Gewohnheit).",
    "audio": "audio/es-de/wendungen/ga_01.mp3",
    "satz": {
     "fr": "Mi gato ronronea en cuanto me siento.",
@@ -1488,7 +1520,7 @@ window.SPRACHEN["es-de"] = {
    "de": "schmusen, kuscheln",
    "register": "tu",
    "anker": "hacer",
-   "notiz": null,
+   "notiz": "mimo = Zärtlichkeit, Verwöhnen; hacer mimos = schmusen; mimar = verwöhnen; un niño mimado = ein verwöhntes Kind.",
    "audio": "audio/es-de/wendungen/ga_02.mp3",
    "satz": {
     "fr": "Por la noche viene a hacerme mimos en el sofá.",
@@ -1514,7 +1546,7 @@ window.SPRACHEN["es-de"] = {
    "de": "kratzen (mit Krallen)",
    "register": "tu",
    "anker": "arañar",
-   "notiz": null,
+   "notiz": "von araña = Spinne! arañar = kratzen (mit Krallen), el arañazo = der Kratzer.",
    "audio": "audio/es-de/wendungen/ga_03.mp3",
    "satz": {
     "fr": "Cuidado, araña si lo acaricias demasiado tiempo.",
@@ -1540,7 +1572,7 @@ window.SPRACHEN["es-de"] = {
    "de": "sich putzen",
    "register": "tu",
    "anker": "asearse",
-   "notiz": null,
+   "notiz": "aseo = Hygiene, auch „Toilette“ (el aseo = das WC); asearse = sich sauber machen; auch lavarse.",
    "audio": "audio/es-de/wendungen/ga_04.mp3",
    "satz": {
     "fr": "Después de comer, se asea durante diez minutos.",
@@ -1566,7 +1598,7 @@ window.SPRACHEN["es-de"] = {
    "de": "miauen",
    "register": "tu",
    "anker": "maullar",
-   "notiz": null,
+   "notiz": "lautmalerisch: maullar, el maullido. Uhrzeit: a las seis de la mañana (morgens).",
    "audio": "audio/es-de/wendungen/ga_05.mp3",
    "satz": {
     "fr": "Maúlla delante de la puerta de la cocina a las seis de la mañana.",
@@ -1592,7 +1624,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Hunger haben",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "wörtlich „Hunger haben“ – wie im Deutschen; según él = ihm zufolge, wenn es nach ihm geht.",
    "audio": "audio/es-de/wendungen/ga_06.mp3",
    "satz": {
     "fr": "Según él, siempre tiene hambre.",
@@ -1618,7 +1650,7 @@ window.SPRACHEN["es-de"] = {
    "de": "streicheln",
    "register": "tu",
    "anker": "acariciar",
-   "notiz": null,
+   "notiz": "von caricia = Zärtlichkeit, Streicheleinheit. la gata = die Katze (weiblich), el gato = allgemein.",
    "audio": "audio/es-de/wendungen/ga_07.mp3",
    "satz": {
     "fr": "Acaricio a mi gata detrás de las orejas; le encanta.",
@@ -1644,7 +1676,7 @@ window.SPRACHEN["es-de"] = {
    "de": "seine Krallen wetzen",
    "register": "tu",
    "anker": "afilarse",
-   "notiz": null,
+   "notiz": "wörtlich „sich die Nägel schärfen“ (uña = Nagel, Kralle); el rascador = Kratzbaum (rascar = kratzen).",
    "audio": "audio/es-de/wendungen/ga_08.mp3",
    "satz": {
     "fr": "Se afila las uñas en el sillón, nunca en el rascador.",
@@ -1670,7 +1702,7 @@ window.SPRACHEN["es-de"] = {
    "de": "ein Katzentier, eine Raubkatze",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "wie im Französischen; el felino = Katzentier. que decidió = Relativsatz mit pretérito indefinido.",
    "audio": "audio/es-de/wendungen/ga_09.mp3",
    "satz": {
     "fr": "Un gato es un pequeño felino que decidió vivir con nosotros.",
@@ -1687,7 +1719,7 @@ window.SPRACHEN["es-de"] = {
    "de": "ein Nickerchen machen",
    "register": "tu",
    "anker": "echar",
-   "notiz": null,
+   "notiz": "wörtlich „die Siesta werfen“ – echar ist das Allzweckverb; auch dormir la siesta. ¡Qué vida! = was für ein Leben.",
    "audio": "audio/es-de/wendungen/ga_10.mp3",
    "satz": {
     "fr": "Mi gato echa la siesta dieciséis horas al día. Qué vida.",
@@ -1713,7 +1745,7 @@ window.SPRACHEN["es-de"] = {
    "de": "sich reiben an",
    "register": "tu",
    "anker": "restregarse",
-   "notiz": null,
+   "notiz": "restregar = reiben, scheuern; reflexiv + contra = sich reiben an. e → ie: se restriega.",
    "audio": "audio/es-de/wendungen/ga_11.mp3",
    "satz": {
     "fr": "Se restriega contra mis piernas cuando llego a casa.",
@@ -1739,7 +1771,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das Trockenfutter",
    "register": "tu",
    "anker": "preferir",
-   "notiz": null,
+   "notiz": "el pienso = Trockenfutter (wörtlich: Futter, von „pensar“ nur zufällig gleich). Nur Spanien; Lateinamerika: croquetas.",
    "audio": "audio/es-de/wendungen/ga_12.mp3",
    "satz": {
     "fr": "Prefiere el pienso del vecino al suyo.",
@@ -1756,7 +1788,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das Nassfutter",
    "register": "tu",
    "anker": "saber",
-   "notiz": null,
+   "notiz": "wörtlich „feuchtes Essen“; tocar = dran sein: toca comida húmeda = es gibt (ist dran) Nassfutter.",
    "audio": "audio/es-de/wendungen/ga_13.mp3",
    "satz": {
     "fr": "A mediodía toca comida húmeda, y él lo sabe.",
@@ -1773,7 +1805,7 @@ window.SPRACHEN["es-de"] = {
    "de": "einen Blick haben",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "wörtlich „einen Blick haben“; la mirada = der Blick (mirar = schauen). llegar tarde = zu spät kommen.",
    "audio": "audio/es-de/wendungen/ga_14.mp3",
    "satz": {
     "fr": "Tiene una mirada que dice: « Llegas tarde ».",
@@ -1790,7 +1822,7 @@ window.SPRACHEN["es-de"] = {
    "de": "springen auf",
    "register": "tu",
    "anker": "saltar",
-   "notiz": null,
+   "notiz": "saltar a = springen auf; mientras + Indikativ = während. corrijo exámenes = Entre profes!",
    "audio": "audio/es-de/wendungen/ga_15.mp3",
    "satz": {
     "fr": "Salta a la mesa mientras corrijo exámenes.",
@@ -1816,7 +1848,7 @@ window.SPRACHEN["es-de"] = {
    "de": "sich verstecken",
    "register": "tu",
    "anker": "esconderse",
-   "notiz": null,
+   "notiz": "esconder = verstecken, esconderse = sich verstecken; el escondite = das Versteck / Versteckspiel. debajo de = unter.",
    "audio": "audio/es-de/wendungen/ga_16.mp3",
    "satz": {
     "fr": "Cuando sale la aspiradora, se esconde debajo de la cama.",
@@ -1842,7 +1874,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Gesellschaft leisten",
    "register": "tu",
    "anker": "hacer",
-   "notiz": null,
+   "notiz": "wörtlich „Gesellschaft machen“; hacer compañía a alguien. preparar las clases = Unterricht vorbereiten.",
    "audio": "audio/es-de/wendungen/ga_17.mp3",
    "satz": {
     "fr": "Mis gatos me hacen compañía cuando preparo las clases.",
@@ -1868,7 +1900,7 @@ window.SPRACHEN["es-de"] = {
    "de": "eine Straßenkatze, Hauskatze ohne Rasse",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "wörtlich „Straßenkatze“ (calle = Straße); gato de raza = Rassekatze. Französisch: chat de gouttière (Dachrinnenkatze).",
    "audio": "audio/es-de/wendungen/ga_18.mp3",
    "satz": {
     "fr": "No es un gato de raza, es un gato callejero, y es perfecto.",
@@ -1885,7 +1917,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Unsinn anstellen",
    "register": "tu",
    "anker": "hacer",
-   "notiz": null,
+   "notiz": "travesura = Streich, Unfug; travieso = frech, ungezogen. cuando no esté (Konjunktiv) = wenn ich nicht da sein werde.",
    "audio": "audio/es-de/wendungen/ga_19.mp3",
    "satz": {
     "fr": "Cuando no estoy, hacen travesuras.",
@@ -1911,7 +1943,7 @@ window.SPRACHEN["es-de"] = {
    "de": "der Tierarzt",
    "register": "tu",
    "anker": "volverse",
-   "notiz": null,
+   "notiz": "en el veterinario = beim Tierarzt (Ort); volverse + Adjektiv = werden (Veränderung): se vuelve tranquilo.",
    "audio": "audio/es-de/wendungen/ga_20.mp3",
    "satz": {
     "fr": "En el veterinario, mi gato se vuelve muy, muy tranquilo.",
@@ -1928,7 +1960,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das stört ihn nicht",
    "register": "tu",
    "anker": "importar",
-   "notiz": null,
+   "notiz": "wörtlich „es importiert ihm nicht“ – importar = wichtig sein, wie gustar: no me importa = es macht mir nichts aus.",
    "audio": "audio/es-de/wendungen/ga_21.mp3",
    "satz": {
     "fr": "Desafino, pero a él no le importa. Bueno, creo.",
@@ -1945,7 +1977,7 @@ window.SPRACHEN["es-de"] = {
    "de": "unabhängig sein",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "ser independiente (Eigenschaft). volver = zurückkommen; o → ue: vuelve.",
    "audio": "audio/es-de/wendungen/ga_22.mp3",
    "satz": {
     "fr": "Un gato es independiente. Vuelve cuando tiene hambre.",
@@ -1962,7 +1994,7 @@ window.SPRACHEN["es-de"] = {
    "de": "vor Wohlbehagen schnurren",
    "register": "tu",
    "anker": "ronronear",
-   "notiz": null,
+   "notiz": "de gusto = vor Vergnügen (gusto = Geschmack, Freude); a gusto = wohl, behaglich: estar a gusto.",
    "audio": "audio/es-de/wendungen/ga_23.mp3",
    "satz": {
     "fr": "Al sol, ronronea de gusto con los ojos cerrados.",
@@ -1988,7 +2020,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Haben Sie eine Katze? (höflich)",
    "register": "vous",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "usted-Frage: ¿tiene usted …? (3. Person). hay uno = da ist eine (einer); el tejado = das Dach.",
    "audio": "audio/es-de/wendungen/ga_24.mp3",
    "satz": {
     "fr": "Perdone, señora, ¿tiene usted gato? Hay uno en su tejado.",
@@ -2005,7 +2037,7 @@ window.SPRACHEN["es-de"] = {
    "de": "richtig (sauber) singen",
    "register": "tu",
    "anker": "cantar",
-   "notiz": null,
+   "notiz": "afinado = gestimmt, rein (afinar = stimmen, ein Instrument); desafinar = falsch singen.",
    "audio": "audio/es-de/wendungen/mu_01.mp3",
    "satz": {
     "fr": "Mi hermano canta afinado; yo canto con el corazón.",
@@ -2031,7 +2063,7 @@ window.SPRACHEN["es-de"] = {
    "de": "schief singen",
    "register": "tu",
    "anker": "desafinar",
-   "notiz": null,
+   "notiz": "des- + afinar = verstimmen; desafino = ich singe schief. compensa = es gleicht aus (compensar).",
    "audio": "audio/es-de/wendungen/mu_02.mp3",
    "satz": {
     "fr": "Desafino, pero canto fuerte. Compensa.",
@@ -2057,7 +2089,7 @@ window.SPRACHEN["es-de"] = {
    "de": "der Refrain",
    "register": "tu",
    "anker": "saber",
-   "notiz": null,
+   "notiz": "el estribillo = Refrain (wörtlich: kleiner Steigbügel – estribo). no me sé la letra: saberse = auswendig können.",
    "audio": "audio/es-de/wendungen/mu_03.mp3",
    "satz": {
     "fr": "No me sé la letra, pero el estribillo sí.",
@@ -2074,7 +2106,7 @@ window.SPRACHEN["es-de"] = {
    "de": "der Liedtext",
    "register": "tu",
    "anker": "poner",
-   "notiz": null,
+   "notiz": "la letra = Buchstabe und Liedtext! las letras = auch die Geisteswissenschaften.",
    "audio": "audio/es-de/wendungen/mu_04.mp3",
    "satz": {
     "fr": "La letra de esta canción me pone la piel de gallina.",
@@ -2091,7 +2123,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das klingt gut",
    "register": "tu",
    "anker": "sonar",
-   "notiz": null,
+   "notiz": "sonar = klingen (o → ue: suena); me suena = das kommt mir bekannt vor. Nicht sonar = träumen (soñar, mit ñ!).",
    "audio": "audio/es-de/wendungen/mu_05.mp3",
    "satz": {
     "fr": "En español, esta frase suena bien. En alemán, menos.",
@@ -2117,7 +2149,7 @@ window.SPRACHEN["es-de"] = {
    "de": "ein gutes Gehör haben",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "wörtlich „Ohr haben“ = musikalisches Gehör; el oído = Gehör/Innenohr, la oreja = die (äußere) Ohrmuschel.",
    "audio": "audio/es-de/wendungen/mu_06.mp3",
    "satz": {
     "fr": "Diego tiene oído: nota mi acento alemán enseguida.",
@@ -2134,7 +2166,7 @@ window.SPRACHEN["es-de"] = {
    "de": "der Akzent",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "el acento = Akzent (Aussprache) und Akzentzeichen (á, é). Sarre = das Saarland.",
    "audio": "audio/es-de/wendungen/mu_07.mp3",
    "satz": {
     "fr": "Mi acento es una mezcla de Sarre y buena voluntad.",
@@ -2151,7 +2183,7 @@ window.SPRACHEN["es-de"] = {
    "de": "die Musik der Sprache",
    "register": "tu",
    "anker": "gustar",
-   "notiz": null,
+   "notiz": "idioma und lengua = Sprache (beide männlich/weiblich: el idioma, la lengua – lengua auch Zunge).",
    "audio": "audio/es-de/wendungen/mu_08.mp3",
    "satz": {
     "fr": "Lo que me gusta del español es la música del idioma.",
@@ -2168,7 +2200,7 @@ window.SPRACHEN["es-de"] = {
    "de": "ein Instrument spielen",
    "register": "tu",
    "anker": "tocar",
-   "notiz": null,
+   "notiz": "tocar = berühren und (ein Instrument) spielen; jugar = spielen (Spiel, Sport). ¿tocas algún instrumento?",
    "audio": "audio/es-de/wendungen/mu_09.mp3",
    "satz": {
     "fr": "¿Tocas algún instrumento? – Sí, la guitarra, mal.",
@@ -2194,7 +2226,7 @@ window.SPRACHEN["es-de"] = {
    "de": "in Dauerschleife hören",
    "register": "tu",
    "anker": "escuchar",
-   "notiz": null,
+   "notiz": "bucle = Schleife (auch Locke); llevar + Zeitraum + gerundio = seit … tun: llevo tres días escuchando.",
    "audio": "audio/es-de/wendungen/mu_10.mp3",
    "satz": {
     "fr": "Llevo tres días escuchando esta canción en bucle.",
@@ -2220,7 +2252,7 @@ window.SPRACHEN["es-de"] = {
    "de": "einen Ohrwurm haben",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "wörtlich „ein Lied im Kopf haben“ – der Ohrwurm; auch: se me ha pegado una canción (ein Lied ist an mir hängen geblieben).",
    "audio": "audio/es-de/wendungen/mu_11.mp3",
    "satz": {
     "fr": "Tengo « Ne me quitte pas » en la cabeza desde esta mañana. Gracias, Aurélien.",
@@ -2237,7 +2269,7 @@ window.SPRACHEN["es-de"] = {
    "de": "summen",
    "register": "tu",
    "anker": "tararear",
-   "notiz": null,
+   "notiz": "tararear = summen, trällern (lautmalerisch „tara-ra“). mientras + Verb = während.",
    "audio": "audio/es-de/wendungen/mu_12.mp3",
    "satz": {
     "fr": "Tarareo mientras corrijo exámenes. Los alumnos no lo saben.",
@@ -2263,7 +2295,7 @@ window.SPRACHEN["es-de"] = {
    "de": "der Rhythmus",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "Spanisch ist eine silbenzählende Sprache: alle Silben etwa gleich lang – anders als Deutsch oder Englisch (betonte Silben länger).",
    "audio": "audio/es-de/wendungen/mu_13.mp3",
    "satz": {
     "fr": "El español tiene ritmo: todas las sílabas duran lo mismo.",
@@ -2280,7 +2312,7 @@ window.SPRACHEN["es-de"] = {
    "de": "die Satzmelodie",
    "register": "tu",
    "anker": "decir",
-   "notiz": null,
+   "notiz": "la entonación = Satzmelodie; auf Spanisch unterscheidet oft nur die Melodie Frage und Aussage: ¿Vienes? / Vienes.",
    "audio": "audio/es-de/wendungen/mu_14.mp3",
    "satz": {
     "fr": "¿Lo ves? La pregunta sube. La entonación lo dice todo.",
@@ -2297,7 +2329,7 @@ window.SPRACHEN["es-de"] = {
    "de": "aussprechen",
    "register": "tu",
    "anker": "pronunciar",
-   "notiz": null,
+   "notiz": "conseguir + Infinitiv = schaffen, hinbekommen (e → i: consigo); ferrocarril = Eisenbahn, mit zwei Mal rr.",
    "audio": "audio/es-de/wendungen/mu_15.mp3",
    "satz": {
     "fr": "No consigo pronunciar « ferrocarril ». Digo « ferocaril ».",
@@ -2323,7 +2355,7 @@ window.SPRACHEN["es-de"] = {
    "de": "ein Musikstück",
    "register": "tu",
    "anker": "poner",
-   "notiz": null,
+   "notiz": "una pieza = Stück (Musik, Theater, Ersatzteil); a la vez = gleichzeitig.",
    "audio": "audio/es-de/wendungen/mu_16.mp3",
    "satz": {
     "fr": "Esta pieza de piano me pone contento y triste a la vez.",
@@ -2340,7 +2372,7 @@ window.SPRACHEN["es-de"] = {
    "de": "aus voller Kehle",
    "register": "tu",
    "anker": "cantar",
-   "notiz": null,
+   "notiz": "wörtlich „mit geschältem Schrei“ (pelado = geschält, nackt) = aus voller Kehle, gröhlend.",
    "audio": "audio/es-de/wendungen/mu_17.mp3",
    "satz": {
     "fr": "En el coche canto a grito pelado. Solo. Siempre solo.",
@@ -2357,7 +2389,7 @@ window.SPRACHEN["es-de"] = {
    "de": "eine tiefe / hohe Stimme",
    "register": "tu",
    "anker": "tener",
-   "notiz": null,
+   "notiz": "grave = tief (Stimme), auch „ernst“; aguda = hoch, auch „scharfsinnig“. una voz de profe = Lehrerstimme.",
    "audio": "audio/es-de/wendungen/mu_18.mp3",
    "satz": {
     "fr": "Él tiene una voz grave, ella una voz aguda, y yo una voz de profe.",
@@ -2374,7 +2406,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das spricht mich an",
    "register": "tu",
    "anker": "llegar",
-   "notiz": null,
+   "notiz": "wörtlich „es kommt bei mir an“ – siehe Sentimientos: me llega.",
    "audio": "audio/es-de/wendungen/mu_19.mp3",
    "satz": {
     "fr": "Esta canción me llega. No lo entiendo todo, pero me llega.",
@@ -2400,7 +2432,7 @@ window.SPRACHEN["es-de"] = {
    "de": "auswendig lernen",
    "register": "tu",
    "anker": "aprender",
-   "notiz": null,
+   "notiz": "wörtlich „aus dem Gedächtnis lernen“; de memoria = auswendig; saberse de memoria = auswendig können.",
    "audio": "audio/es-de/wendungen/mu_20.mp3",
    "satz": {
     "fr": "Aprendo las letras de memoria; es mi vocabulario preferido.",
@@ -2426,7 +2458,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das falsche Wort erwischen",
    "register": "tu",
    "anker": "equivocarse",
-   "notiz": null,
+   "notiz": "equivocarse de = sich vertun bei (de palabra, de puerta, de número); c → qu vor e: me equivoqué.",
    "audio": "audio/es-de/wendungen/mu_21.mp3",
    "satz": {
     "fr": "Me equivoco de palabra a menudo, pero la melodía es correcta.",
@@ -2452,7 +2484,7 @@ window.SPRACHEN["es-de"] = {
    "de": "das tut mir gut",
    "register": "tu",
    "anker": "sentar",
-   "notiz": null,
+   "notiz": "sentar bien/mal = gut/schlecht bekommen (Essen, Tun): la cena me sentó mal. Nicht sentarse (sich setzen).",
    "audio": "audio/es-de/wendungen/mu_22.mp3",
    "satz": {
     "fr": "Cantar por la noche me sienta bien.",
@@ -2478,7 +2510,7 @@ window.SPRACHEN["es-de"] = {
    "de": "eine singende (melodische) Sprache",
    "register": "tu",
    "anker": "ser",
-   "notiz": null,
+   "notiz": "cantarín = singend, sangesfreudig (von cantar); el andaluz = das Andalusische, Diegos Dialekt. quejarse = sich beschweren.",
    "audio": "audio/es-de/wendungen/mu_23.mp3",
    "satz": {
     "fr": "El andaluz es un idioma cantarín. Incluso cuando se quejan.",
@@ -2495,7 +2527,7 @@ window.SPRACHEN["es-de"] = {
    "de": "Könnten Sie das langsamer wiederholen? (höflich)",
    "register": "vous",
    "anker": "poder",
-   "notiz": null,
+   "notiz": "podría = Konditional (höflich); despacio = langsam (Adverb); oír = hören (oigo), escuchar = zuhören.",
    "audio": "audio/es-de/wendungen/mu_24.mp3",
    "satz": {
     "fr": "Perdone, ¿podría repetir más despacio? Oigo la música, no las palabras.",
@@ -2973,6 +3005,522 @@ window.SPRACHEN["es-de"] = {
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "me podría recomendar",
     "audio": "audio/es-de/saetze/hi_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_01",
+   "thema": "deporte",
+   "fr": "entrenar",
+   "de": "trainieren",
+   "register": "tu",
+   "anker": "entrenar",
+   "notiz": "auch entrenarse (reflexiv) ist üblich; el entrenador = Trainer, el entrenamiento = Training.",
+   "audio": null,
+   "satz": {
+    "fr": "Entreno tres veces por semana. Dos, si soy sincero.",
+    "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
+    "luecke": "Entreno",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Esta semana entrené tres veces.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Esta semana voy a entrenar tres veces. Dos.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_02",
+   "thema": "deporte",
+   "fr": "una patada",
+   "de": "ein Tritt",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "von pata (Tierbein, umgangssprachlich auch Bein); -ada = Schlag mit etwas: patada, puñalada (Messerstich).",
+   "audio": null,
+   "satz": {
+    "fr": "Una buena patada es, ante todo, una buena posición.",
+    "de": "Ein guter Tritt ist zuerst ein guter Stand.",
+    "luecke": "patada",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_03",
+   "thema": "deporte",
+   "fr": "un puñetazo",
+   "de": "ein Fausthieb",
+   "register": "tu",
+   "anker": "salir",
+   "notiz": "puño = Faust; -azo = Schlag mit: puñetazo, cabezazo (Kopfstoß), portazo (Türknallen).",
+   "audio": null,
+   "satz": {
+    "fr": "En kung-fu, el puñetazo sale de la cadera, no del brazo.",
+    "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
+    "luecke": "puñetazo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_04",
+   "thema": "deporte",
+   "fr": "la flexibilidad",
+   "de": "die Beweglichkeit",
+   "register": "tu",
+   "anker": "trabajar",
+   "notiz": "se trabaja = „man arbeitet (an ihr)“ – se + Verb ist das spanische „man“.",
+   "audio": null,
+   "satz": {
+    "fr": "A los cuarenta, la flexibilidad se trabaja cada día. Si no, se va.",
+    "de": "Mit vierzig muss man die Beweglichkeit täglich üben. Sonst geht sie.",
+    "luecke": "flexibilidad",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_05",
+   "thema": "deporte",
+   "fr": "mantener la calma",
+   "de": "ruhig bleiben",
+   "register": "tu",
+   "anker": "mantener",
+   "notiz": "wörtlich „die Ruhe halten“; mantener geht wie tener: mantengo, mantuve.",
+   "audio": null,
+   "satz": {
+    "fr": "En el combate como en clase: mantener la calma, respirar, esperar.",
+    "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, abwarten.",
+    "luecke": "mantener la calma",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mantuve la calma. Casi.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a mantener la calma. Prometido.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_06",
+   "thema": "deporte",
+   "fr": "calentar",
+   "de": "sich aufwärmen",
+   "register": "tu",
+   "anker": "calentar",
+   "notiz": "wörtlich „erwärmen“ – ohne Reflexiv im Sport; e → ie: caliento. caliente = heiß.",
+   "audio": null,
+   "satz": {
+    "fr": "Antes de entrenar, caliento diez minutos. Mi espalda me lo agradece.",
+    "de": "Vor dem Training wärme ich mich zehn Minuten auf. Mein Rücken dankt es mir.",
+    "luecke": "caliento",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Calenté diez minutos.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a calentar diez minutos.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_07",
+   "thema": "deporte",
+   "fr": "tener agujetas",
+   "de": "Muskelkater haben",
+   "register": "tu",
+   "anker": "tener",
+   "notiz": "agujetas = wörtlich „kleine Nadeln“ (aguja = Nadel) – der Muskelkater sticht. Nur in Spanien; Lateinamerika: dolor muscular.",
+   "audio": null,
+   "satz": {
+    "fr": "Al día siguiente tengo agujetas por todas partes. Hasta en las orejas.",
+    "de": "Am nächsten Tag habe ich überall Muskelkater. Sogar in den Ohren.",
+    "luecke": "tengo agujetas",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Al día siguiente tuve agujetas por todas partes.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mañana voy a tener agujetas por todas partes.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_08",
+   "thema": "deporte",
+   "fr": "estar en forma",
+   "de": "fit sein",
+   "register": "tu",
+   "anker": "estar",
+   "notiz": "estar (Zustand) en forma; ponerse en forma = fit werden.",
+   "audio": null,
+   "satz": {
+    "fr": "Por la mañana estoy en forma. Por la tarde soy profe.",
+    "de": "Morgens bin ich fit. Nachmittags bin ich Lehrer.",
+    "luecke": "en forma",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Estuve en forma toda la semana.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a estar en forma para el curso.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_09",
+   "thema": "deporte",
+   "fr": "aguantar una postura",
+   "de": "eine Stellung halten",
+   "register": "tu",
+   "anker": "aguantar",
+   "notiz": "aguantar = aushalten, ertragen – auch bei Menschen: no lo aguanto (ich ertrage ihn nicht).",
+   "audio": null,
+   "satz": {
+    "fr": "Aguantar la postura del jinete dos minutos: sencillo. No fácil.",
+    "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
+    "luecke": "Aguantar la postura",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_10",
+   "thema": "deporte",
+   "fr": "la respiración",
+   "de": "die Atmung",
+   "register": "tu",
+   "anker": "empezar",
+   "notiz": "empezar por = „beginnen mit“ (wörtlich „durch“); e → ie: empiezo.",
+   "audio": null,
+   "satz": {
+    "fr": "En kung-fu, todo empieza por la respiración. En clase también.",
+    "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
+    "luecke": "respiración",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_11",
+   "thema": "deporte",
+   "fr": "el maestro",
+   "de": "der Meister",
+   "register": "tu",
+   "anker": "decir",
+   "notiz": "maestro = Meister und Grundschullehrer; profesor = Lehrer ab der Sekundarstufe.",
+   "audio": null,
+   "satz": {
+    "fr": "Mi maestro dice: « Despacio es rápido ». Todavía no lo he entendido.",
+    "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
+    "luecke": "maestro",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_12",
+   "thema": "deporte",
+   "fr": "una secuencia",
+   "de": "eine Abfolge (Form, Kombination)",
+   "register": "tu",
+   "anker": "aprender",
+   "notiz": "me sé cuatro: saberse (reflexiv) = auswendig können; me sé la letra = ich kann den Text.",
+   "audio": null,
+   "satz": {
+    "fr": "Aprendo una secuencia nueva. Doce movimientos. Me sé cuatro.",
+    "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kann ich.",
+    "luecke": "secuencia",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Aprendí una secuencia nueva.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a aprender una secuencia nueva.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_13",
+   "thema": "deporte",
+   "fr": "esquivar",
+   "de": "ausweichen",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "Infinitiv als Subjekt: „Esquivar es mejor“ – wie das deutsche „Ausweichen ist besser“.",
+   "audio": null,
+   "satz": {
+    "fr": "Esquivar es mejor que bloquear. También funciona en las reuniones.",
+    "de": "Ausweichen ist besser als blocken. Das funktioniert auch in Konferenzen.",
+    "luecke": "Esquivar",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_14",
+   "thema": "deporte",
+   "fr": "sudar",
+   "de": "schwitzen",
+   "register": "tu",
+   "anker": "sudar",
+   "notiz": "sudar la camiseta = „sich den Hintern aufreißen“ (wörtlich: das Trikot durchschwitzen).",
+   "audio": null,
+   "satz": {
+    "fr": "Después de entrenar, sudo como una fuente. Una fuente feliz.",
+    "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
+    "luecke": "sudo",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sudé como una fuente.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a sudar, de eso se trata.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_15",
+   "thema": "deporte",
+   "fr": "lesionarse",
+   "de": "sich verletzen",
+   "register": "tu",
+   "anker": "lesionarse",
+   "notiz": "una lesión = Verletzung (Sport, Medizin); herirse = sich verwunden (Waffe, Unfall).",
+   "audio": null,
+   "satz": {
+    "fr": "Nunca me lesiono. Salvo abriendo una lata de comida para gatos.",
+    "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Katzenfutter.",
+    "luecke": "me lesiono",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Me lesioné abriendo una lata.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "No me voy a lesionar. En principio.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_16",
+   "thema": "deporte",
+   "fr": "estirar",
+   "de": "sich dehnen",
+   "register": "tu",
+   "anker": "estirar",
+   "notiz": "wörtlich „ziehen, strecken“; los estiramientos = die Dehnübungen; estirar la pata = „den Löffel abgeben“ (umgangssprachlich).",
+   "audio": null,
+   "satz": {
+    "fr": "Estiro por la noche, delante de la tele. El gato me mira, perplejo.",
+    "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut ratlos zu.",
+    "luecke": "Estiro",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Estiré después del kung-fu.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a estirar esta noche.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_17",
+   "thema": "deporte",
+   "fr": "recuperar el aliento",
+   "de": "wieder zu Atem kommen",
+   "register": "tu",
+   "anker": "recuperar",
+   "notiz": "el aliento = Atem (auch: Mut); sin aliento = atemlos; un buen rato = eine ganze Weile.",
+   "audio": null,
+   "satz": {
+    "fr": "Entre dos series, recupero el aliento. Durante un buen rato.",
+    "de": "Zwischen zwei Sätzen komme ich wieder zu Atem. Lange.",
+    "luecke": "recupero el aliento",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Recuperé el aliento en el banco.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a recuperar el aliento, un minuto.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_18",
+   "thema": "deporte",
+   "fr": "tener equilibrio",
+   "de": "Gleichgewicht haben",
+   "register": "tu",
+   "anker": "tener",
+   "notiz": "a la pata coja = „auf einem Bein“ (wörtlich: mit dem hinkenden Bein).",
+   "audio": null,
+   "satz": {
+    "fr": "A la pata coja tengo equilibrio. Con dos pies, depende del día.",
+    "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
+    "luecke": "tengo equilibrio",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_19",
+   "thema": "deporte",
+   "fr": "salir a correr",
+   "de": "laufen gehen",
+   "register": "tu",
+   "anker": "salir",
+   "notiz": "salir a + Infinitiv = losgehen, um …; arrepentirse = bereuen (e → ie: me arrepiento).",
+   "audio": null,
+   "satz": {
+    "fr": "El domingo por la mañana salgo a correr. El domingo por la tarde me arrepiento.",
+    "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
+    "luecke": "salgo a correr",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "El domingo salí a correr.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "El domingo voy a salir a correr.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_20",
+   "thema": "deporte",
+   "fr": "el cinturón",
+   "de": "der Gürtel",
+   "register": "tu",
+   "anker": "hacer",
+   "notiz": "el cinturón negro = der schwarze Gürtel; el pantalón meist Einzahl (anders als engl. trousers).",
+   "audio": null,
+   "satz": {
+    "fr": "El cinturón no hace al maestro. Pero sujeta el pantalón.",
+    "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
+    "luecke": "cinturón",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_21",
+   "thema": "deporte",
+   "fr": "hacer progresos",
+   "de": "Fortschritte machen",
+   "register": "tu",
+   "anker": "hacer",
+   "notiz": "auch: progresar (Verb) und avanzar; hacer = machen in vielen festen Wendungen (hacer deporte, hacer una pausa).",
+   "audio": null,
+   "satz": {
+    "fr": "Hago progresos. Despacio. Como dice mi maestro, eso es rápido.",
+    "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt: Das ist schnell.",
+    "luecke": "Hago progresos",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hice progresos este año.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a hacer progresos, estoy seguro.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "de_22",
+   "thema": "deporte",
+   "fr": "superarse",
+   "de": "über sich hinauswachsen",
+   "register": "tu",
+   "anker": "superarse",
+   "notiz": "wörtlich „sich übertreffen“; hoy + pretérito perfecto (me he superado) – in Spanien typisch für „heute“.",
+   "audio": null,
+   "satz": {
+    "fr": "Hoy me he superado: treinta flexiones. Ayer, veintinueve.",
+    "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
+    "luecke": "me he superado",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_23",
+   "thema": "deporte",
+   "fr": "cuerpo y mente",
+   "de": "Körper und Geist",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "la mente ist weiblich – „la mía“ (meiner) bezieht sich darauf.",
+   "audio": null,
+   "satz": {
+    "fr": "El kung-fu es cuerpo y mente. La mía discute a menudo con mi cuerpo.",
+    "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
+    "luecke": "cuerpo y mente",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "de_24",
+   "thema": "deporte",
+   "fr": "¿Puedo apuntarme?",
+   "de": "Kann ich mich anmelden? (höflich)",
+   "register": "vous",
+   "anker": "poder",
+   "notiz": "apuntarse a = sich anmelden/eintragen für (wörtlich: sich aufschreiben); apuntar = notieren.",
+   "audio": null,
+   "satz": {
+    "fr": "Buenos días, ¿puedo apuntarme al curso del martes por la noche?",
+    "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
+    "luecke": "puedo apuntarme",
+    "audio": null
    },
    "zeit": null
   }

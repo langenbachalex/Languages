@@ -19,6 +19,7 @@ THEMEN = [
     {"id": "gatos", "name": "Los gatos", "de": "Die Katzen", "symbol": "🐈", "datei": "gatos.tsv"},
     {"id": "musica", "name": "Música y lengua", "de": "Musik und Sprache", "symbol": "🎵", "datei": "musica.tsv"},
     {"id": "historias", "name": "Historias y fantasía", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "historias.tsv"},
+    {"id": "deporte", "name": "Deporte y kung-fu", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "deporte.tsv"},
 ]
 
 # Titel – Tapas-Leiter
