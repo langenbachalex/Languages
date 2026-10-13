@@ -3564,21 +3564,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "essen",
    "notiz": "ausgewogen = équilibré (wiegen = peser) ; versuchen + zu + infinitif. essen, participe gegessen (double ge- !). zählen = compter. ab Montag = à partir de lundi.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_01.mp3",
    "satz": {
     "fr": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "de": "J'essaie de manger équilibré. Le croissant du matin ne compte pas.",
     "luecke": "ausgewogen zu essen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Diese Woche habe ich ausgewogen gegessen. Außer freitags.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_01_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde ausgewogen essen. Ab Montag.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_01_fp.mp3"
     }
    }
   },
@@ -3590,21 +3590,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "ins Bett gehen = aller au lit (ins = in das, accusatif, direction) ; früh = tôt, spät = tard. sonntags = le dimanche (habitude). den Rest der Woche = accusatif de durée + génitif.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_02.mp3",
    "satz": {
     "fr": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "de": "Je me couche tôt le dimanche. Le reste de la semaine, j'essaie.",
     "luecke": "gehe ich früh ins Bett",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern bin ich früh ins Bett gegangen. Na ja, vor Mitternacht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_02_pc.mp3"
     },
     "fp": {
      "fr": "Heute Abend werde ich früh ins Bett gehen. Wirklich.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_02_fp.mp3"
     }
    }
   },
@@ -3616,12 +3616,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "achten",
    "notiz": "achten auf + accusatif = faire attention à, veiller sur ; auf sich achten = prendre soin de soi (aussi : sich um sich kümmern). heißen = signifier. sogar = même ; das Stück Kuchen = la part de gâteau.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_03.mp3",
    "satz": {
     "fr": "Auf sich achten heißt auch, Nein zu sagen. Sogar zu einem Stück Kuchen.",
     "de": "Prendre soin de soi, c'est aussi dire non. Même à un éclair.",
     "luecke": "Auf sich achten",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_03.mp3"
    },
    "zeit": null
   },
@@ -3633,21 +3633,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "einkaufen",
    "notiz": "einkaufen = faire les courses (particule séparable : kaufe … ein ; der Einkauf = les courses) ; gehen + infinitif. shoppen gehen = faire du shopping. die Sachen = les choses, les affaires.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_04.mp3",
    "satz": {
     "fr": "Ich gehe samstags einkaufen, mit einer Liste. Ich komme mit anderen Sachen zurück.",
     "de": "Je fais les courses le samedi, avec une liste. Je rentre avec autre chose.",
     "luecke": "gehe samstags einkaufen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich bin heute Morgen einkaufen gegangen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_04_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde morgen einkaufen gehen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_04_fp.mp3"
     }
    }
   },
@@ -3659,21 +3659,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kochen",
    "notiz": "kochen = cuisiner, et aussi bouillir (das Wasser kocht) ; der Koch / die Köchin = le cuisinier. überwachen = surveiller (particule inséparable). etwas Einfaches = quelque chose de simple.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_05.mp3",
    "satz": {
     "fr": "Abends koche ich mit Musik. Die Katze überwacht alles.",
     "de": "Le soir, je cuisine en écoutant de la musique. Le chat supervise.",
     "luecke": "koche",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe eine Quiche für Aurélien gekocht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_05_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde etwas Einfaches kochen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_05_fp.mp3"
     }
    }
   },
@@ -3685,12 +3685,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kochen",
    "notiz": "das Gericht = le plat (et le tribunal !) ; das Lieblingsgericht = le plat préféré (Lieblings- + nom). das, das … = celui que (relative, verbe à la fin : gekocht hat). jemand anderes = quelqu'un d'autre.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_06.mp3",
    "satz": {
     "fr": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "de": "Mon plat préféré ? Celui que quelqu'un d'autre a préparé.",
     "luecke": "Lieblingsgericht",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_06.mp3"
    },
    "zeit": null
   },
@@ -3702,21 +3702,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "ein bisschen = un peu ; Hunger haben = avoir faim ; plus imagé : Appetit auf etwas haben, ein Hüngerchen haben (diminutif, familier). um vier = à quatre heures ; fünf nach vier = quatre heures cinq.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_07.mp3",
    "satz": {
     "fr": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "de": "À seize heures, j'ai un petit creux. À seize heures cinq aussi.",
     "luecke": "habe ich ein bisschen Hunger",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Um vier hatte ich ein bisschen Hunger.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_07_pc.mp3"
     },
     "fp": {
      "fr": "Um vier werde ich ein bisschen Hunger haben. Wie immer.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_07_fp.mp3"
     }
    }
   },
@@ -3728,21 +3728,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "vollschlagen",
    "notiz": "littéralement « se frapper le ventre plein » = s'empiffrer, se régaler (familier ; der Bauch = le ventre) ; plus poli : es sich schmecken lassen. bei + datif = chez. schicken = envoyer.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_08.mp3",
    "satz": {
     "fr": "Bei Aurélien schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
     "de": "Chez Aurélien, on se régale. Sa mère lui envoie des recettes.",
     "luecke": "schlagen wir uns den Bauch voll",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Bei Aurélien haben wir uns den Bauch vollgeschlagen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_08_pc.mp3"
     },
     "fp": {
      "fr": "Bei Aurélien werden wir uns den Bauch vollschlagen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_08_fp.mp3"
     }
    }
   },
@@ -3754,12 +3754,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "Guten Appetit ! = bon appétit (accusatif : guten) – en Allemagne, on le dit toujours, même en famille (aussi : Mahlzeit ! au travail, vers midi). gleichfalls = pareillement, toi aussi.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_09.mp3",
    "satz": {
     "fr": "« Guten Appetit! » – « Danke, gleichfalls. » – « Ich esse nichts. » – « Ah. »",
     "de": "« Bon appétit ! » – « Merci, toi aussi. » – « Moi, je ne mange pas. » – « Ah. »",
     "luecke": "Guten Appetit",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_09.mp3"
    },
    "zeit": null
   },
@@ -3771,12 +3771,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Bäckerei = la boulangerie (der Bäcker = le boulanger ; -ei = le lieu) ; die Konditorei = la pâtisserie. neben + datif = à côté de. ein gutes Problem (neutre, nominatif : -es).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_10.mp3",
    "satz": {
     "fr": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein gutes Problem.",
     "de": "Il y a une boulangerie à côté de l'école. C'est un problème. Un bon problème.",
     "luecke": "Bäckerei",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_10.mp3"
    },
    "zeit": null
   },
@@ -3788,21 +3788,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "trinken",
    "notiz": "trinken, participe getrunken ; Wasser sans article (partitif). den ganzen Tag = toute la journée (accusatif de durée). dazwischen = entre les deux. Attention : einen Kaffee = accusatif masculin.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_11.mp3",
    "satz": {
     "fr": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser kommt dazwischen.",
     "de": "Je bois de l'eau toute la journée. Et un café. Ou deux. L'eau, c'est entre.",
     "luecke": "trinke den ganzen Tag Wasser",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den ganzen Tag Wasser getrunken.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_11_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde Wasser trinken. Mehr.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_11_fp.mp3"
     }
    }
   },
@@ -3814,21 +3814,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "naschen",
    "notiz": "naschen = grignoter des sucreries (die Naschkatze = le gourmand de sucré !) ; knabbern = grignoter (salé). für jeden Fehler = pour chaque faute (accusatif). ein Stück Schokolade = un morceau de chocolat.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_12.mp3",
    "satz": {
     "fr": "Ich nasche beim Korrigieren. Für jeden Fehler ein Stück Schokolade.",
     "de": "Je grignote devant les copies. Chaque faute, un carré de chocolat.",
     "luecke": "nasche",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den ganzen Nachmittag genascht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_12_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde heute Abend nicht naschen. Mal sehen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_12_fp.mp3"
     }
    }
   },
@@ -3840,12 +3840,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "fühlen",
    "notiz": "identique au français : die Haut = la peau ; in meiner Haut = datif ; sich wohlfühlen. vorher = avant (adverbe) ; weniger = moins. Le contraire : sich unwohl fühlen, nicht in seiner Haut stecken.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_13.mp3",
    "satz": {
     "fr": "Nach dem Sport fühle ich mich wohl in meiner Haut. Vorher auch, aber weniger.",
     "de": "Après le sport, je suis bien dans ma peau. Avant, aussi, mais moins.",
     "luecke": "fühle ich mich wohl in meiner Haut",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_13.mp3"
    },
    "zeit": null
   },
@@ -3857,21 +3857,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "eine Pause machen = faire une pause (die Pause = la pause, la récré) ; jede Stunde = chaque heure (accusatif) ; dauern = durer ; manchmal = parfois. jetzt = maintenant.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_14.mp3",
    "satz": {
     "fr": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "de": "Je fais une pause toutes les heures. Parfois, la pause dure une heure.",
     "luecke": "mache jede Stunde eine Pause",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe zehn Minuten Pause gemacht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_14_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde eine Pause machen. Jetzt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_14_fp.mp3"
     }
    }
   },
@@ -3883,21 +3883,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schlafen",
    "notiz": "das Murmeltier = la marmotte (l'expression française existe aussi !) ; aussi : wie ein Stein schlafen, wie ein Baby schlafen. schnarchen = ronfler. Relative neutre : das schnarcht.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_15.mp3",
    "satz": {
     "fr": "Nach dem Kung-Fu schlafe ich wie ein Murmeltier. Ein Murmeltier, das schnarcht.",
     "de": "Après le kung-fu, je dors comme un bébé. Un bébé qui ronfle.",
     "luecke": "schlafe ich wie ein Murmeltier",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe wie ein Murmeltier geschlafen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_15_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde wie ein Murmeltier schlafen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_15_fp.mp3"
     }
    }
   },
@@ -3909,12 +3909,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "munter = éveillé, gaillard (munter werden = se réveiller) ; fit und munter = en pleine forme (expression figée). verdächtig = suspect. es ist sechs Uhr = il est six heures.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_16.mp3",
    "satz": {
     "fr": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
     "de": "Ce matin, j'ai la pêche ! C'est suspect. Il est six heures.",
     "luecke": "fit und munter",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_16.mp3"
    },
    "zeit": null
   },
@@ -3926,21 +3926,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schnappen",
    "notiz": "frische Luft schnappen = « attraper de l'air frais » (schnappen = happer) ; aussi : an die frische Luft gehen. das Handy = le portable (faux anglicisme !). na ja = enfin, bon.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_17.mp3",
    "satz": {
     "fr": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "de": "À midi, je prends l'air dix minutes. Sans téléphone. Enfin, presque.",
     "luecke": "schnappe ich zehn Minuten frische Luft",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mittags habe ich frische Luft geschnappt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_17_pc.mp3"
     },
     "fp": {
      "fr": "Mittags werde ich frische Luft schnappen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_17_fp.mp3"
     }
    }
   },
@@ -3952,12 +3952,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Rezept = la recette, et l'ordonnance du médecin (comme en français… mais sans ordonnance : rezeptfrei = en vente libre). die Quiche Lorraine, bien connue en Sarre. von seiner Mutter = datif.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_18.mp3",
    "satz": {
     "fr": "Ich habe ein Rezept für Quiche. Es kommt von Aurélien, der es von seiner Mutter hat.",
     "de": "J'ai une recette de quiche. Elle vient d'Aurélien, qui la tient de sa mère.",
     "luecke": "Rezept",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_18.mp3"
    },
    "zeit": null
   },
@@ -3969,21 +3969,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "probieren",
    "notiz": "probieren = goûter, essayer (sans ge- au participe : probiert) ; impératif probier ! ; aussi : kosten (goûter). dürfen = avoir le droit (du darfst) ; mögen = aimer (ich mag es nicht).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_19.mp3",
    "satz": {
     "fr": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "de": "Goûte ça. Non, vraiment, goûte. Ensuite, tu peux dire que tu n'aimes pas.",
     "luecke": "Probier",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe probiert. Ich mag es nicht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_19_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde probieren. Ein kleines bisschen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_19_fp.mp3"
     }
    }
   },
@@ -3995,12 +3995,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "köstlich = délicieux (die Köstlichkeit = le délice) ; plus courant : lecker ! (familier, très allemand). das willst du lieber nicht wissen = tu préfères ne pas le savoir (lieber = plutôt).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_20.mp3",
    "satz": {
     "fr": "Das ist köstlich! Was ist das? – Das willst du lieber nicht wissen.",
     "de": "C'est délicieux ! Qu'est-ce que c'est ? – Il vaut mieux ne pas savoir.",
     "luecke": "köstlich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_20.mp3"
    },
    "zeit": null
   },
@@ -4012,21 +4012,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "Durst haben = avoir soif (durstig = assoiffé) ; Durst nach + datif = soif de (figuré). der Sportunterricht = le cours de sport. die Schüler = les élèves (der Schüler, die Schülerin).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_21.mp3",
    "satz": {
     "fr": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "de": "Après le cours de sport, les élèves ont soif. Moi, j'ai soif de silence.",
     "luecke": "haben die Schüler Durst",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Nach dem Sport hatten die Schüler Durst.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_21_pc.mp3"
     },
     "fp": {
      "fr": "Nach dem Sport werden die Schüler Durst haben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/es_21_fp.mp3"
     }
    }
   },
@@ -4038,12 +4038,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "aufstehen",
    "notiz": "aufstehen = se lever (particule séparable, participe aufgestanden avec sein) ; mit dem falschen Fuß aufstehen = se lever du pied gauche. der Fuß = le pied ; links / rechts = gauche / droite.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_22.mp3",
    "satz": {
     "fr": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "de": "Aujourd'hui, je me suis levé du bon pied. Le gauche. Comme d'habitude.",
     "luecke": "bin ich mit dem richtigen Fuß aufgestanden",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_22.mp3"
    },
    "zeit": null
   },
@@ -4055,12 +4055,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Vergnügen = le plaisir (mit Vergnügen = avec plaisir) ; sich etwas gönnen = se faire plaisir, s'accorder quelque chose. am Tag = par jour. noch ein = encore un.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_23.mp3",
    "satz": {
     "fr": "Ein kleines Vergnügen am Tag. Heute: ein Stück Kuchen. Morgen: noch ein Stück Kuchen.",
     "de": "Un petit plaisir par jour. Aujourd'hui : une tarte. Demain : une autre tarte.",
     "luecke": "kleines Vergnügen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_23.mp3"
    },
    "zeit": null
   },
@@ -4072,12 +4072,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "haben",
    "notiz": "ich hätte gern = je voudrais (Konjunktiv II de haben + gern) – la formule pour commander ; ich will serait impoli. das Brötchen = le petit pain (le pain allemand par excellence ; en Sarre on dit aussi Weck). bitte = s'il vous plaît.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/es_24.mp3",
    "satz": {
     "fr": "Guten Tag, ich hätte gern ein Brötchen, bitte. Nicht zu dunkel.",
     "de": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
     "luecke": "hätte gern",
-    "audio": null
+    "audio": "audio/de-fr/saetze/es_24.mp3"
    },
    "zeit": null
   }
@@ -4941,6 +4941,56 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/lob/stark_stolz.mp3",
   "audio/de-fr/lob/stark_weiter.mp3",
   "audio/de-fr/lob/voll_fehlerfrei.mp3",
+  "audio/de-fr/saetze/es_01.mp3",
+  "audio/de-fr/saetze/es_01_fp.mp3",
+  "audio/de-fr/saetze/es_01_pc.mp3",
+  "audio/de-fr/saetze/es_02.mp3",
+  "audio/de-fr/saetze/es_02_fp.mp3",
+  "audio/de-fr/saetze/es_02_pc.mp3",
+  "audio/de-fr/saetze/es_03.mp3",
+  "audio/de-fr/saetze/es_04.mp3",
+  "audio/de-fr/saetze/es_04_fp.mp3",
+  "audio/de-fr/saetze/es_04_pc.mp3",
+  "audio/de-fr/saetze/es_05.mp3",
+  "audio/de-fr/saetze/es_05_fp.mp3",
+  "audio/de-fr/saetze/es_05_pc.mp3",
+  "audio/de-fr/saetze/es_06.mp3",
+  "audio/de-fr/saetze/es_07.mp3",
+  "audio/de-fr/saetze/es_07_fp.mp3",
+  "audio/de-fr/saetze/es_07_pc.mp3",
+  "audio/de-fr/saetze/es_08.mp3",
+  "audio/de-fr/saetze/es_08_fp.mp3",
+  "audio/de-fr/saetze/es_08_pc.mp3",
+  "audio/de-fr/saetze/es_09.mp3",
+  "audio/de-fr/saetze/es_10.mp3",
+  "audio/de-fr/saetze/es_11.mp3",
+  "audio/de-fr/saetze/es_11_fp.mp3",
+  "audio/de-fr/saetze/es_11_pc.mp3",
+  "audio/de-fr/saetze/es_12.mp3",
+  "audio/de-fr/saetze/es_12_fp.mp3",
+  "audio/de-fr/saetze/es_12_pc.mp3",
+  "audio/de-fr/saetze/es_13.mp3",
+  "audio/de-fr/saetze/es_14.mp3",
+  "audio/de-fr/saetze/es_14_fp.mp3",
+  "audio/de-fr/saetze/es_14_pc.mp3",
+  "audio/de-fr/saetze/es_15.mp3",
+  "audio/de-fr/saetze/es_15_fp.mp3",
+  "audio/de-fr/saetze/es_15_pc.mp3",
+  "audio/de-fr/saetze/es_16.mp3",
+  "audio/de-fr/saetze/es_17.mp3",
+  "audio/de-fr/saetze/es_17_fp.mp3",
+  "audio/de-fr/saetze/es_17_pc.mp3",
+  "audio/de-fr/saetze/es_18.mp3",
+  "audio/de-fr/saetze/es_19.mp3",
+  "audio/de-fr/saetze/es_19_fp.mp3",
+  "audio/de-fr/saetze/es_19_pc.mp3",
+  "audio/de-fr/saetze/es_20.mp3",
+  "audio/de-fr/saetze/es_21.mp3",
+  "audio/de-fr/saetze/es_21_fp.mp3",
+  "audio/de-fr/saetze/es_21_pc.mp3",
+  "audio/de-fr/saetze/es_22.mp3",
+  "audio/de-fr/saetze/es_23.mp3",
+  "audio/de-fr/saetze/es_24.mp3",
   "audio/de-fr/saetze/ge_01.mp3",
   "audio/de-fr/saetze/ge_01_fp.mp3",
   "audio/de-fr/saetze/ge_01_pc.mp3",
@@ -5235,6 +5285,30 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/spiel/titel_5.mp3",
   "audio/de-fr/spiel/titel_6.mp3",
   "audio/de-fr/spiel/woche.mp3",
+  "audio/de-fr/wendungen/es_01.mp3",
+  "audio/de-fr/wendungen/es_02.mp3",
+  "audio/de-fr/wendungen/es_03.mp3",
+  "audio/de-fr/wendungen/es_04.mp3",
+  "audio/de-fr/wendungen/es_05.mp3",
+  "audio/de-fr/wendungen/es_06.mp3",
+  "audio/de-fr/wendungen/es_07.mp3",
+  "audio/de-fr/wendungen/es_08.mp3",
+  "audio/de-fr/wendungen/es_09.mp3",
+  "audio/de-fr/wendungen/es_10.mp3",
+  "audio/de-fr/wendungen/es_11.mp3",
+  "audio/de-fr/wendungen/es_12.mp3",
+  "audio/de-fr/wendungen/es_13.mp3",
+  "audio/de-fr/wendungen/es_14.mp3",
+  "audio/de-fr/wendungen/es_15.mp3",
+  "audio/de-fr/wendungen/es_16.mp3",
+  "audio/de-fr/wendungen/es_17.mp3",
+  "audio/de-fr/wendungen/es_18.mp3",
+  "audio/de-fr/wendungen/es_19.mp3",
+  "audio/de-fr/wendungen/es_20.mp3",
+  "audio/de-fr/wendungen/es_21.mp3",
+  "audio/de-fr/wendungen/es_22.mp3",
+  "audio/de-fr/wendungen/es_23.mp3",
+  "audio/de-fr/wendungen/es_24.mp3",
   "audio/de-fr/wendungen/ge_01.mp3",
   "audio/de-fr/wendungen/ge_02.mp3",
   "audio/de-fr/wendungen/ge_03.mp3",
