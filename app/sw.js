@@ -1,6 +1,6 @@
 // Automatisch erzeugt von werkzeuge/bauen.py – Offline-Speicher von Language Learning.
 // Kern (Code, Daten, Icons) wird bei jeder Version neu geladen; Audio bleibt im eigenen Speicher (ll-audio), gefüllt beim Abspielen oder über „Hors-ligne“.
-const VERSION = "ll-kern-c7645f3760fa";
+const VERSION = "ll-kern-d653dee3322e";
 const AUDIO = "ll-audio";
 const DATEIEN = ["./", "LIESMICH.md", "app.css", "app.js", "basis.css", "daten_es-de.js", "daten_fr-de.js", "index.html", "manifest.webmanifest", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", (e) => {

@@ -293,21 +293,21 @@ window.SPRACHEN["es-de"] = {
    "de": "Klassenarbeiten korrigieren",
    "register": "tu",
    "anker": "corregir",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_01.mp3",
    "satz": {
     "fr": "Esta tarde corrijo exámenes de primero.",
     "de": "Heute Nachmittag korrigiere ich Arbeiten der Ersten.",
     "luecke": "corrijo exámenes",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ayer corregí exámenes de primero.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_01_pc.mp3"
     },
     "fp": {
      "fr": "Esta tarde voy a corregir exámenes de primero.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_01_fp.mp3"
     }
    }
   },
@@ -318,21 +318,21 @@ window.SPRACHEN["es-de"] = {
    "de": "fix und fertig sein",
    "register": "tu",
    "anker": "estar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_02.mp3",
    "satz": {
     "fr": "Después de seis horas de clase, estoy hecho polvo.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "hecho polvo",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ayer estaba hecho polvo después de seis horas.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_02_pc.mp3"
     },
     "fp": {
      "fr": "Después de seis horas, voy a estar hecho polvo.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_02_fp.mp3"
     }
    }
   },
@@ -343,12 +343,12 @@ window.SPRACHEN["es-de"] = {
    "de": "wie ist es gelaufen?",
    "register": "tu",
    "anker": "ir",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_03.mp3",
    "satz": {
     "fr": "Bueno, ¿qué tal ha ido la clase con los de cuarto?",
     "de": "Und, wie ist die Stunde mit den Viertklässlern gelaufen?",
     "luecke": "qué tal ha ido",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_03.mp3"
    },
    "zeit": null
   },
@@ -359,21 +359,21 @@ window.SPRACHEN["es-de"] = {
    "de": "Unterricht halten",
    "register": "tu",
    "anker": "dar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_04.mp3",
    "satz": {
     "fr": "Doy clase de inglés toda la mañana.",
     "de": "Ich unterrichte den ganzen Vormittag Englisch.",
     "luecke": "Doy clase",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ayer di clase de inglés toda la mañana.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_04_pc.mp3"
     },
     "fp": {
      "fr": "Mañana voy a dar clase de inglés toda la mañana.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_04_fp.mp3"
     }
    }
   },
@@ -384,12 +384,12 @@ window.SPRACHEN["es-de"] = {
    "de": "die Pause",
    "register": "tu",
    "anker": "ver",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_05.mp3",
    "satz": {
     "fr": "¿Nos vemos en la sala de profes en el recreo?",
     "de": "Sehen wir uns in der Pause im Lehrerzimmer?",
     "luecke": "el recreo",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_05.mp3"
    },
    "zeit": null
   },
@@ -400,21 +400,21 @@ window.SPRACHEN["es-de"] = {
    "de": "Lust haben auf, kaum erwarten können",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_06.mp3",
    "satz": {
     "fr": "Tengo muchas ganas de que lleguen las vacaciones.",
     "de": "Ich kann die Ferien kaum erwarten.",
     "luecke": "Tengo muchas ganas",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Tenía muchas ganas de que llegaran las vacaciones.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_06_pc.mp3"
     },
     "fp": {
      "fr": "Voy a tener muchas ganas de vacaciones. Ya lo sé.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_06_fp.mp3"
     }
    }
   },
@@ -425,12 +425,12 @@ window.SPRACHEN["es-de"] = {
    "de": "die Nase voll haben von",
    "register": "tu",
    "anker": "estar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_07.mp3",
    "satz": {
     "fr": "Estoy harto de reuniones que no terminan nunca.",
     "de": "Ich habe die Nase voll von Besprechungen, die nie enden.",
     "luecke": "Estoy harto",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_07.mp3"
    },
    "zeit": null
   },
@@ -441,21 +441,21 @@ window.SPRACHEN["es-de"] = {
    "de": "es fällt mir schwer",
    "register": "tu",
    "anker": "costar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_08.mp3",
    "satz": {
     "fr": "Me cuesta hacerlos callar los viernes por la tarde.",
     "de": "Freitagnachmittags fällt es mir schwer, sie ruhig zu kriegen.",
     "luecke": "Me cuesta",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ayer me costó hacerlos callar.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_08_pc.mp3"
     },
     "fp": {
      "fr": "Mañana me va a costar hacerlos callar.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_08_fp.mp3"
     }
    }
   },
@@ -466,12 +466,12 @@ window.SPRACHEN["es-de"] = {
    "de": "lange nicht gesehen",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_09.mp3",
    "satz": {
     "fr": "¡Hola Diego! ¡Cuánto tiempo!",
     "de": "Hallo Diego! Lange nicht gesehen!",
     "luecke": "Cuánto tiempo",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_09.mp3"
    },
    "zeit": null
   },
@@ -482,21 +482,21 @@ window.SPRACHEN["es-de"] = {
    "de": "also, das heißt (umgangssprachlich)",
    "register": "tu",
    "anker": "tocar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_10.mp3",
    "satz": {
     "fr": "El profe de gimnasia está malo, o sea, me toca su clase a mí.",
     "de": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "luecke": "o sea",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "El profe estaba malo, o sea, me tocó su clase.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_10_pc.mp3"
     },
     "fp": {
      "fr": "El profe está malo, o sea, me va a tocar su clase.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_10_fp.mp3"
     }
    }
   },
@@ -507,12 +507,12 @@ window.SPRACHEN["es-de"] = {
    "de": "eigentlich, in Wirklichkeit",
    "register": "tu",
    "anker": "caer",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_11.mp3",
    "satz": {
     "fr": "En realidad, mis alumnos de cuarto me caen muy bien.",
     "de": "Eigentlich mag ich meine Viertklässler sehr.",
     "luecke": "En realidad",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_11.mp3"
    },
    "zeit": null
   },
@@ -523,12 +523,12 @@ window.SPRACHEN["es-de"] = {
    "de": "trotzdem, jedenfalls",
    "register": "tu",
    "anker": "encantar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_12.mp3",
    "satz": {
     "fr": "Es agotador, pero de todas formas me encanta este trabajo.",
     "de": "Es ist anstrengend, aber trotzdem liebe ich diesen Beruf.",
     "luecke": "de todas formas",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_12.mp3"
    },
    "zeit": null
   },
@@ -539,21 +539,21 @@ window.SPRACHEN["es-de"] = {
    "de": "sich lohnen",
    "register": "tu",
    "anker": "merecer",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_13.mp3",
    "satz": {
     "fr": "Preparar una buena clase lleva tiempo, pero merece la pena.",
     "de": "Eine gute Stunde vorzubereiten dauert, aber es lohnt sich.",
     "luecke": "merece la pena",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_13.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Llevó tiempo, pero mereció la pena.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_13_pc.mp3"
     },
     "fp": {
      "fr": "Va a llevar tiempo, pero va a merecer la pena.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_13_fp.mp3"
     }
    }
   },
@@ -564,21 +564,21 @@ window.SPRACHEN["es-de"] = {
    "de": "zurechtkommen, sich zu helfen wissen",
    "register": "tu",
    "anker": "apañarse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_14.mp3",
    "satz": {
     "fr": "Los alumnos se apañan bien solos.",
     "de": "Die Schüler kommen allein gut zurecht.",
     "luecke": "se apañan",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Los alumnos se apañaron bien solos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_14_pc.mp3"
     },
     "fp": {
      "fr": "Los alumnos se van a apañar bien solos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_14_fp.mp3"
     }
    }
   },
@@ -589,12 +589,12 @@ window.SPRACHEN["es-de"] = {
    "de": "voll dabei sein, Vollgas geben",
    "register": "tu",
    "anker": "ir",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_15.mp3",
    "satz": {
     "fr": "Hoy los de primero iban a tope.",
     "de": "Heute waren die Erstklässler voll dabei.",
     "luecke": "a tope",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_15.mp3"
    },
    "zeit": null
   },
@@ -605,21 +605,21 @@ window.SPRACHEN["es-de"] = {
    "de": "die Arbeiten zurückgeben",
    "register": "tu",
    "anker": "entregar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_16.mp3",
    "satz": {
     "fr": "Entrego los exámenes el lunes.",
     "de": "Ich gebe die Arbeiten am Montag zurück.",
     "luecke": "Entrego los exámenes",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Entregué los exámenes el lunes.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_16_pc.mp3"
     },
     "fp": {
      "fr": "Voy a entregar los exámenes el lunes.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_16_fp.mp3"
     }
    }
   },
@@ -630,12 +630,12 @@ window.SPRACHEN["es-de"] = {
    "de": "eine Besprechung, Konferenz",
    "register": "tu",
    "anker": "venir",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_17.mp3",
    "satz": {
     "fr": "Tenemos una reunión a las cuatro, ¿vienes?",
     "de": "Wir haben um vier eine Konferenz, kommst du?",
     "luecke": "una reunión",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_17.mp3"
    },
    "zeit": null
   },
@@ -646,12 +646,12 @@ window.SPRACHEN["es-de"] = {
    "de": "macht nichts",
    "register": "tu",
    "anker": "pasar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_18.mp3",
    "satz": {
     "fr": "¿Se te ha olvidado mi libro? No pasa nada.",
     "de": "Du hast mein Buch vergessen? Macht nichts.",
     "luecke": "No pasa nada",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_18.mp3"
    },
    "zeit": null
   },
@@ -662,12 +662,12 @@ window.SPRACHEN["es-de"] = {
    "de": "lass dir Zeit",
    "register": "tu",
    "anker": "tomar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_19.mp3",
    "satz": {
     "fr": "Tómate tu tiempo, tenemos toda la tarde.",
     "de": "Lass dir Zeit, wir haben den ganzen Nachmittag.",
     "luecke": "Tómate tu tiempo",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_19.mp3"
    },
    "zeit": null
   },
@@ -678,12 +678,12 @@ window.SPRACHEN["es-de"] = {
    "de": "das Lehrerzimmer",
    "register": "tu",
    "anker": "haber",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_20.mp3",
    "satz": {
     "fr": "En la sala de profes siempre hay café. Y siempre está frío.",
     "de": "Im Lehrerzimmer gibt es immer Kaffee. Und er ist immer kalt.",
     "luecke": "sala de profes",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_20.mp3"
    },
    "zeit": null
   },
@@ -694,21 +694,21 @@ window.SPRACHEN["es-de"] = {
    "de": "helfen, mit anpacken",
    "register": "tu",
    "anker": "echar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_21.mp3",
    "satz": {
     "fr": "¿Me echas una mano con las fotocopias?",
     "de": "Hilfst du mir mit den Kopien?",
     "luecke": "echas una mano",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me echaste una mano con las fotocopias.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_21_pc.mp3"
     },
     "fp": {
      "fr": "¿Me vas a echar una mano con las fotocopias?",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_21_fp.mp3"
     }
    }
   },
@@ -719,21 +719,21 @@ window.SPRACHEN["es-de"] = {
    "de": "die Anwesenheit prüfen",
    "register": "tu",
    "anker": "pasar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_22.mp3",
    "satz": {
     "fr": "Paso lista y faltan tres. Los tres de siempre.",
     "de": "Ich prüfe die Anwesenheit, und drei fehlen. Die üblichen drei.",
     "luecke": "Paso lista",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_22.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Pasé lista y faltaban tres.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_22_pc.mp3"
     },
     "fp": {
      "fr": "Voy a pasar lista y van a faltar tres.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_22_fp.mp3"
     }
    }
   },
@@ -744,21 +744,21 @@ window.SPRACHEN["es-de"] = {
    "de": "durcheinanderkommen, sich verheddern",
    "register": "tu",
    "anker": "liarse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_23.mp3",
    "satz": {
     "fr": "Me lío con los nombres de los de primero. Son treinta.",
     "de": "Ich komme mit den Namen der Erstklässler durcheinander. Es sind dreißig.",
     "luecke": "Me lío",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me lié con los nombres.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_23_pc.mp3"
     },
     "fp": {
      "fr": "Me voy a liar con los nombres, seguro.",
-     "audio": null
+     "audio": "audio/es-de/saetze/pr_23_fp.mp3"
     }
    }
   },
@@ -769,12 +769,12 @@ window.SPRACHEN["es-de"] = {
    "de": "Könnten Sie mir … zeigen? (höflich)",
    "register": "vous",
    "anker": "poder",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/pr_24.mp3",
    "satz": {
     "fr": "Perdone, ¿podría usted indicarme dónde está la sala de profes?",
     "de": "Entschuldigung, könnten Sie mir zeigen, wo das Lehrerzimmer ist?",
     "luecke": "podría usted indicarme",
-    "audio": null
+    "audio": "audio/es-de/saetze/pr_24.mp3"
    },
    "zeit": null
   }
@@ -900,378 +900,378 @@ window.SPRACHEN["es-de"] = {
   "lob": [
    {
     "text": "¡Genial!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_genial.mp3",
     "gruppe": [
      "genial"
     ]
    },
    {
     "text": "¡Olé!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_ole.mp3",
     "gruppe": [
      "ole"
     ]
    },
    {
     "text": "¡Qué crack!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_crack.mp3",
     "gruppe": [
      "crack"
     ]
    },
    {
     "text": "¡Perfecto!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_perfecto.mp3",
     "gruppe": [
      "perfecto"
     ]
    },
    {
     "text": "¡Así se hace!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_asi_se_hace.mp3",
     "gruppe": [
      "asi"
     ]
    },
    {
     "text": "¡Eres un fenómeno!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_fenomeno.mp3",
     "gruppe": [
      "fenomeno"
     ]
    },
    {
     "text": "¡Vamos!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_vamos.mp3",
     "gruppe": [
      "vamos"
     ]
    },
    {
     "text": "¡De lujo!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_de_lujo.mp3",
     "gruppe": [
      "lujo"
     ]
    },
    {
     "text": "¡Chapó!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_chapo.mp3",
     "gruppe": [
      "chapo"
     ]
    },
    {
     "text": "¡Muy bien!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_muy_bien.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "¡Exacto!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_exacto.mp3",
     "gruppe": [
      "exacto"
     ]
    },
    {
     "text": "¡Eso es!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_eso_es.mp3",
     "gruppe": [
      "eso"
     ]
    },
    {
     "text": "¡Estupendo!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_estupendo.mp3",
     "gruppe": [
      "estupendo"
     ]
    },
    {
     "text": "¡Fantástico!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_fantastico.mp3",
     "gruppe": [
      "fantastico"
     ]
    },
    {
     "text": "¡Bravo!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_bravo.mp3",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "¡Genial, tío!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_genial_tio.mp3",
     "gruppe": [
      "genial"
     ]
    },
    {
     "text": "¡Qué bien!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_que_bien.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "¡Clavado!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_clavado.mp3",
     "gruppe": [
      "clavado"
     ]
    },
    {
     "text": "¡A la primera!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_a_la_primera.mp3",
     "gruppe": [
      "primera"
     ]
    },
    {
     "text": "¡Impecable!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_impecable.mp3",
     "gruppe": [
      "impecable"
     ]
    },
    {
     "text": "¡Redondo!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_redondo.mp3",
     "gruppe": [
      "redondo"
     ]
    },
    {
     "text": "¡De diez!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_de_diez.mp3",
     "gruppe": [
      "diez"
     ]
    },
    {
     "text": "¡Qué nivel!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_que_nivel.mp3",
     "gruppe": [
      "nivel"
     ]
    },
    {
     "text": "¡Bien dicho!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_bien_dicho.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "¡Sin fallos!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_sin_fallos.mp3",
     "gruppe": [
      "fallos"
     ]
    },
    {
     "text": "¡Qué acento!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_que_acento.mp3",
     "gruppe": [
      "acento"
     ]
    },
    {
     "text": "¡Eso sí es español!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_eso_es_espanol.mp3",
     "gruppe": [
      "espanol"
     ]
    },
    {
     "text": "¡Como un sevillano!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_como_un_sevillano.mp3",
     "gruppe": [
      "sevillano"
     ]
    },
    {
     "text": "¡Tienes oído!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_tienes_oido.mp3",
     "gruppe": [
      "oido"
     ]
    },
    {
     "text": "¡Suena de maravilla!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_suena_bien.mp3",
     "gruppe": [
      "suena"
     ]
    },
    {
     "text": "¡Me encanta!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_me_encanta.mp3",
     "gruppe": [
      "encanta"
     ]
    },
    {
     "text": "¡Vas mejorando!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_vas_mejorando.mp3",
     "gruppe": [
      "mejorando"
     ]
    },
    {
     "text": "¡Otro punto!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_otro_punto.mp3",
     "gruppe": [
      "punto"
     ]
    },
    {
     "text": "¡Lo bordas!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_lo_bordas.mp3",
     "gruppe": [
      "bordas"
     ]
    },
    {
     "text": "¡Qué máquina!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_que_maquina.mp3",
     "gruppe": [
      "maquina"
     ]
    },
    {
     "text": "¡Toma ya!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_toma_ya.mp3",
     "gruppe": [
      "toma"
     ]
    },
    {
     "text": "¡Ahí está!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_ahi_esta.mp3",
     "gruppe": [
      "ahi"
     ]
    },
    {
     "text": "¡Sin duda!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_sin_duda.mp3",
     "gruppe": [
      "duda"
     ]
    },
    {
     "text": "¡Correcto!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_correcto.mp3",
     "gruppe": [
      "correcto"
     ]
    },
    {
     "text": "¡Justo!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_justo.mp3",
     "gruppe": [
      "justo"
     ]
    },
    {
     "text": "¡De libro!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_de_libro.mp3",
     "gruppe": [
      "libro"
     ]
    },
    {
     "text": "¡Muy bien, señor profesor!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_profesor.mp3",
     "gruppe": [
      "profesor"
     ]
    },
    {
     "text": "¡Qué bueno!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_que_bueno.mp3",
     "gruppe": [
      "bueno"
     ]
    },
    {
     "text": "¡Pues sí!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_pues_si.mp3",
     "gruppe": [
      "si"
     ]
    },
    {
     "text": "¡Brutal!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_brutal.mp3",
     "gruppe": [
      "brutal"
     ]
    },
    {
     "text": "¡Qué guay!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_guay.mp3",
     "gruppe": [
      "guay"
     ]
    },
    {
     "text": "¡Cómo mola!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_mola.mp3",
     "gruppe": [
      "mola"
     ]
    },
    {
     "text": "¡Enhorabuena!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_enhorabuena.mp3",
     "gruppe": [
      "enhorabuena"
     ]
    },
    {
     "text": "¡Bien hecho!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_bien_hecho.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "¡Vaya!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_vaya.mp3",
     "gruppe": [
      "vaya"
     ]
    },
    {
     "text": "¡Sigue así!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_sigue_asi.mp3",
     "gruppe": [
      "sigue"
     ]
    },
    {
     "text": "¡Lo tienes!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_lo_tienes.mp3",
     "gruppe": [
      "tienes"
     ]
    },
    {
     "text": "¡De cine!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_de_cine.mp3",
     "gruppe": [
      "cine"
     ]
    },
    {
     "text": "¡Qué pasada!",
-    "audio": null,
+    "audio": "audio/es-de/lob/lob_que_pasada.mp3",
     "gruppe": [
      "pasada"
     ]
@@ -1280,98 +1280,98 @@ window.SPRACHEN["es-de"] = {
   "stark": [
    {
     "text": "¡Bravo, campeón!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_campeon.mp3",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "¡Increíble! ¡Estás en racha!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_racha.mp3",
     "gruppe": [
      "racha"
     ]
    },
    {
     "text": "¡Estoy orgulloso de ti!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_orgulloso.mp3",
     "gruppe": [
      "orgulloso"
     ]
    },
    {
     "text": "¡Estupendo! ¡Sigue así!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_sigue.mp3",
     "gruppe": [
      "sigue"
     ]
    },
    {
     "text": "¡Qué máquina eres!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_maquina.mp3",
     "gruppe": [
      "maquina"
     ]
    },
    {
     "text": "¡Eres una estrella!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_estrella.mp3",
     "gruppe": [
      "estrella"
     ]
    },
    {
     "text": "¡Impresionante!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_impresionante.mp3",
     "gruppe": [
      "impresionante"
     ]
    },
    {
     "text": "¡Lo haces parecer fácil!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_facil.mp3",
     "gruppe": [
      "facil"
     ]
    },
    {
     "text": "¡Justo lo que quería oír!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_queria_oir.mp3",
     "gruppe": [
      "oir"
     ]
    },
    {
     "text": "¡Hoy vuelas!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_vuelas.mp3",
     "gruppe": [
      "vuelas"
     ]
    },
    {
     "text": "¡En plena diana!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_diana.mp3",
     "gruppe": [
      "diana"
     ]
    },
    {
     "text": "¡Qué actuación!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_actuacion.mp3",
     "gruppe": [
      "actuacion"
     ]
    },
    {
     "text": "¡Arrasas!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_arrasas.mp3",
     "gruppe": [
      "arrasas"
     ]
    },
    {
     "text": "¡Qué nivelazo!",
-    "audio": null,
+    "audio": "audio/es-de/lob/stark_nivelazo.mp3",
     "gruppe": [
      "nivel"
     ]
@@ -1380,70 +1380,70 @@ window.SPRACHEN["es-de"] = {
   "fehler": [
    {
     "text": "¡Casi!",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_casi.mp3",
     "gruppe": [
      "casi"
     ]
    },
    {
     "text": "No del todo.",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_no_del_todo.mp3",
     "gruppe": [
      "todo"
     ]
    },
    {
     "text": "¡Otro intento!",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_otro_intento.mp3",
     "gruppe": [
      "intento"
     ]
    },
    {
     "text": "¡No pasa nada!",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_no_pasa_nada.mp3",
     "gruppe": [
      "pasa"
     ]
    },
    {
     "text": "¡Uy!",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_uy.mp3",
     "gruppe": [
      "uy"
     ]
    },
    {
     "text": "Hmm…",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_hmm.mp3",
     "gruppe": [
      "hmm"
     ]
    },
    {
     "text": "¡Cerca!",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_cerca.mp3",
     "gruppe": [
      "cerca"
     ]
    },
    {
     "text": "¡Casi, casi!",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_casi_casi.mp3",
     "gruppe": [
      "casi"
     ]
    },
    {
     "text": "¡Esta vez no!",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_esta_vez_no.mp3",
     "gruppe": [
      "vez"
     ]
    },
    {
     "text": "No pasa nada, ¡empezamos de nuevo!",
-    "audio": null,
+    "audio": "audio/es-de/lob/fehler_empezamos.mp3",
     "gruppe": [
      "pasa"
     ]
@@ -1452,21 +1452,21 @@ window.SPRACHEN["es-de"] = {
   "geschafft": [
    {
     "text": "¡Se acabó por hoy! ¡Chapó!",
-    "audio": null,
+    "audio": "audio/es-de/lob/geschafft_acabo.mp3",
     "gruppe": [
      "acabo"
     ]
    },
    {
     "text": "¡Bravo, lo has hecho todo! ¡Hasta mañana!",
-    "audio": null,
+    "audio": "audio/es-de/lob/geschafft_todo.mp3",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Puedes estar orgulloso. ¡Hasta mañana!",
-    "audio": null,
+    "audio": "audio/es-de/lob/geschafft_orgulloso.mp3",
     "gruppe": [
      "orgulloso"
     ]
@@ -1475,7 +1475,7 @@ window.SPRACHEN["es-de"] = {
   "voll": [
    {
     "text": "¡Sin fallos! ¡Qué maravilla!",
-    "audio": null,
+    "audio": "audio/es-de/lob/voll_sin_fallos.mp3",
     "gruppe": [
      "fallos"
     ]
@@ -1484,7 +1484,7 @@ window.SPRACHEN["es-de"] = {
   "doch": [
    {
     "text": "¿Lo ves? ¡Puedes!",
-    "audio": null,
+    "audio": "audio/es-de/lob/doch_lo_ves.mp3",
     "gruppe": [
      "ves"
     ]
@@ -1530,55 +1530,55 @@ window.SPRACHEN["es-de"] = {
     "ab": 300,
     "name": "Tortilla",
     "symbol": "🥔",
-    "audio": null
+    "audio": "audio/es-de/spiel/titel_1.mp3"
    },
    {
     "ab": 900,
     "name": "Gambas",
     "symbol": "🍤",
-    "audio": null
+    "audio": "audio/es-de/spiel/titel_2.mp3"
    },
    {
     "ab": 1800,
     "name": "Paella",
     "symbol": "🥘",
-    "audio": null
+    "audio": "audio/es-de/spiel/titel_3.mp3"
    },
    {
     "ab": 3000,
     "name": "Jamón",
     "symbol": "🍖",
-    "audio": null
+    "audio": "audio/es-de/spiel/titel_4.mp3"
    },
    {
     "ab": 4500,
     "name": "Manchego",
     "symbol": "🧀",
-    "audio": null
+    "audio": "audio/es-de/spiel/titel_5.mp3"
    },
    {
     "ab": 6500,
     "name": "Gran chef",
     "symbol": "✨",
-    "audio": null
+    "audio": "audio/es-de/spiel/titel_6.mp3"
    }
   ],
   "texte": {
    "feuer": {
     "text": "¡Estás en racha! ¡Tres días seguidos!",
-    "audio": null
+    "audio": "audio/es-de/spiel/feuer.mp3"
    },
    "woche": {
     "text": "¡Semana perfecta! Has trabajado todos los días de clase. ¡Olé!",
-    "audio": null
+    "audio": "audio/es-de/spiel/woche.mp3"
    },
    "monat": {
     "text": "¡Cuatro semanas perfectas seguidas! ¡Qué campeón!",
-    "audio": null
+    "audio": "audio/es-de/spiel/monat.mp3"
    },
    "fini": {
     "text": "Se acabó por hoy. ¡Hasta mañana!",
-    "audio": null
+    "audio": "audio/es-de/spiel/fini.mp3"
    }
   },
   "frei": [
@@ -1639,5 +1639,171 @@ window.SPRACHEN["es-de"] = {
    }
   ]
  },
- "audio_liste": []
+ "audio_liste": [
+  "audio/es-de/lob/doch_lo_ves.mp3",
+  "audio/es-de/lob/fehler_casi.mp3",
+  "audio/es-de/lob/fehler_casi_casi.mp3",
+  "audio/es-de/lob/fehler_cerca.mp3",
+  "audio/es-de/lob/fehler_empezamos.mp3",
+  "audio/es-de/lob/fehler_esta_vez_no.mp3",
+  "audio/es-de/lob/fehler_hmm.mp3",
+  "audio/es-de/lob/fehler_no_del_todo.mp3",
+  "audio/es-de/lob/fehler_no_pasa_nada.mp3",
+  "audio/es-de/lob/fehler_otro_intento.mp3",
+  "audio/es-de/lob/fehler_uy.mp3",
+  "audio/es-de/lob/geschafft_acabo.mp3",
+  "audio/es-de/lob/geschafft_orgulloso.mp3",
+  "audio/es-de/lob/geschafft_todo.mp3",
+  "audio/es-de/lob/lob_a_la_primera.mp3",
+  "audio/es-de/lob/lob_ahi_esta.mp3",
+  "audio/es-de/lob/lob_asi_se_hace.mp3",
+  "audio/es-de/lob/lob_bien_dicho.mp3",
+  "audio/es-de/lob/lob_bien_hecho.mp3",
+  "audio/es-de/lob/lob_bravo.mp3",
+  "audio/es-de/lob/lob_brutal.mp3",
+  "audio/es-de/lob/lob_chapo.mp3",
+  "audio/es-de/lob/lob_clavado.mp3",
+  "audio/es-de/lob/lob_como_un_sevillano.mp3",
+  "audio/es-de/lob/lob_correcto.mp3",
+  "audio/es-de/lob/lob_crack.mp3",
+  "audio/es-de/lob/lob_de_cine.mp3",
+  "audio/es-de/lob/lob_de_diez.mp3",
+  "audio/es-de/lob/lob_de_libro.mp3",
+  "audio/es-de/lob/lob_de_lujo.mp3",
+  "audio/es-de/lob/lob_enhorabuena.mp3",
+  "audio/es-de/lob/lob_eso_es.mp3",
+  "audio/es-de/lob/lob_eso_es_espanol.mp3",
+  "audio/es-de/lob/lob_estupendo.mp3",
+  "audio/es-de/lob/lob_exacto.mp3",
+  "audio/es-de/lob/lob_fantastico.mp3",
+  "audio/es-de/lob/lob_fenomeno.mp3",
+  "audio/es-de/lob/lob_genial.mp3",
+  "audio/es-de/lob/lob_genial_tio.mp3",
+  "audio/es-de/lob/lob_guay.mp3",
+  "audio/es-de/lob/lob_impecable.mp3",
+  "audio/es-de/lob/lob_justo.mp3",
+  "audio/es-de/lob/lob_lo_bordas.mp3",
+  "audio/es-de/lob/lob_lo_tienes.mp3",
+  "audio/es-de/lob/lob_me_encanta.mp3",
+  "audio/es-de/lob/lob_mola.mp3",
+  "audio/es-de/lob/lob_muy_bien.mp3",
+  "audio/es-de/lob/lob_ole.mp3",
+  "audio/es-de/lob/lob_otro_punto.mp3",
+  "audio/es-de/lob/lob_perfecto.mp3",
+  "audio/es-de/lob/lob_profesor.mp3",
+  "audio/es-de/lob/lob_pues_si.mp3",
+  "audio/es-de/lob/lob_que_acento.mp3",
+  "audio/es-de/lob/lob_que_bien.mp3",
+  "audio/es-de/lob/lob_que_bueno.mp3",
+  "audio/es-de/lob/lob_que_maquina.mp3",
+  "audio/es-de/lob/lob_que_nivel.mp3",
+  "audio/es-de/lob/lob_que_pasada.mp3",
+  "audio/es-de/lob/lob_redondo.mp3",
+  "audio/es-de/lob/lob_sigue_asi.mp3",
+  "audio/es-de/lob/lob_sin_duda.mp3",
+  "audio/es-de/lob/lob_sin_fallos.mp3",
+  "audio/es-de/lob/lob_suena_bien.mp3",
+  "audio/es-de/lob/lob_tienes_oido.mp3",
+  "audio/es-de/lob/lob_toma_ya.mp3",
+  "audio/es-de/lob/lob_vamos.mp3",
+  "audio/es-de/lob/lob_vas_mejorando.mp3",
+  "audio/es-de/lob/lob_vaya.mp3",
+  "audio/es-de/lob/stark_actuacion.mp3",
+  "audio/es-de/lob/stark_arrasas.mp3",
+  "audio/es-de/lob/stark_campeon.mp3",
+  "audio/es-de/lob/stark_diana.mp3",
+  "audio/es-de/lob/stark_estrella.mp3",
+  "audio/es-de/lob/stark_facil.mp3",
+  "audio/es-de/lob/stark_impresionante.mp3",
+  "audio/es-de/lob/stark_maquina.mp3",
+  "audio/es-de/lob/stark_nivelazo.mp3",
+  "audio/es-de/lob/stark_orgulloso.mp3",
+  "audio/es-de/lob/stark_queria_oir.mp3",
+  "audio/es-de/lob/stark_racha.mp3",
+  "audio/es-de/lob/stark_sigue.mp3",
+  "audio/es-de/lob/stark_vuelas.mp3",
+  "audio/es-de/lob/voll_sin_fallos.mp3",
+  "audio/es-de/saetze/pr_01.mp3",
+  "audio/es-de/saetze/pr_01_fp.mp3",
+  "audio/es-de/saetze/pr_01_pc.mp3",
+  "audio/es-de/saetze/pr_02.mp3",
+  "audio/es-de/saetze/pr_02_fp.mp3",
+  "audio/es-de/saetze/pr_02_pc.mp3",
+  "audio/es-de/saetze/pr_03.mp3",
+  "audio/es-de/saetze/pr_04.mp3",
+  "audio/es-de/saetze/pr_04_fp.mp3",
+  "audio/es-de/saetze/pr_04_pc.mp3",
+  "audio/es-de/saetze/pr_05.mp3",
+  "audio/es-de/saetze/pr_06.mp3",
+  "audio/es-de/saetze/pr_06_fp.mp3",
+  "audio/es-de/saetze/pr_06_pc.mp3",
+  "audio/es-de/saetze/pr_07.mp3",
+  "audio/es-de/saetze/pr_08.mp3",
+  "audio/es-de/saetze/pr_08_fp.mp3",
+  "audio/es-de/saetze/pr_08_pc.mp3",
+  "audio/es-de/saetze/pr_09.mp3",
+  "audio/es-de/saetze/pr_10.mp3",
+  "audio/es-de/saetze/pr_10_fp.mp3",
+  "audio/es-de/saetze/pr_10_pc.mp3",
+  "audio/es-de/saetze/pr_11.mp3",
+  "audio/es-de/saetze/pr_12.mp3",
+  "audio/es-de/saetze/pr_13.mp3",
+  "audio/es-de/saetze/pr_13_fp.mp3",
+  "audio/es-de/saetze/pr_13_pc.mp3",
+  "audio/es-de/saetze/pr_14.mp3",
+  "audio/es-de/saetze/pr_14_fp.mp3",
+  "audio/es-de/saetze/pr_14_pc.mp3",
+  "audio/es-de/saetze/pr_15.mp3",
+  "audio/es-de/saetze/pr_16.mp3",
+  "audio/es-de/saetze/pr_16_fp.mp3",
+  "audio/es-de/saetze/pr_16_pc.mp3",
+  "audio/es-de/saetze/pr_17.mp3",
+  "audio/es-de/saetze/pr_18.mp3",
+  "audio/es-de/saetze/pr_19.mp3",
+  "audio/es-de/saetze/pr_20.mp3",
+  "audio/es-de/saetze/pr_21.mp3",
+  "audio/es-de/saetze/pr_21_fp.mp3",
+  "audio/es-de/saetze/pr_21_pc.mp3",
+  "audio/es-de/saetze/pr_22.mp3",
+  "audio/es-de/saetze/pr_22_fp.mp3",
+  "audio/es-de/saetze/pr_22_pc.mp3",
+  "audio/es-de/saetze/pr_23.mp3",
+  "audio/es-de/saetze/pr_23_fp.mp3",
+  "audio/es-de/saetze/pr_23_pc.mp3",
+  "audio/es-de/saetze/pr_24.mp3",
+  "audio/es-de/spiel/feuer.mp3",
+  "audio/es-de/spiel/fini.mp3",
+  "audio/es-de/spiel/monat.mp3",
+  "audio/es-de/spiel/titel_1.mp3",
+  "audio/es-de/spiel/titel_2.mp3",
+  "audio/es-de/spiel/titel_3.mp3",
+  "audio/es-de/spiel/titel_4.mp3",
+  "audio/es-de/spiel/titel_5.mp3",
+  "audio/es-de/spiel/titel_6.mp3",
+  "audio/es-de/spiel/woche.mp3",
+  "audio/es-de/wendungen/pr_01.mp3",
+  "audio/es-de/wendungen/pr_02.mp3",
+  "audio/es-de/wendungen/pr_03.mp3",
+  "audio/es-de/wendungen/pr_04.mp3",
+  "audio/es-de/wendungen/pr_05.mp3",
+  "audio/es-de/wendungen/pr_06.mp3",
+  "audio/es-de/wendungen/pr_07.mp3",
+  "audio/es-de/wendungen/pr_08.mp3",
+  "audio/es-de/wendungen/pr_09.mp3",
+  "audio/es-de/wendungen/pr_10.mp3",
+  "audio/es-de/wendungen/pr_11.mp3",
+  "audio/es-de/wendungen/pr_12.mp3",
+  "audio/es-de/wendungen/pr_13.mp3",
+  "audio/es-de/wendungen/pr_14.mp3",
+  "audio/es-de/wendungen/pr_15.mp3",
+  "audio/es-de/wendungen/pr_16.mp3",
+  "audio/es-de/wendungen/pr_17.mp3",
+  "audio/es-de/wendungen/pr_18.mp3",
+  "audio/es-de/wendungen/pr_19.mp3",
+  "audio/es-de/wendungen/pr_20.mp3",
+  "audio/es-de/wendungen/pr_21.mp3",
+  "audio/es-de/wendungen/pr_22.mp3",
+  "audio/es-de/wendungen/pr_23.mp3",
+  "audio/es-de/wendungen/pr_24.mp3"
+ ]
 };
