@@ -1,6 +1,6 @@
 # Französisch-App (persönlich) – Startnotiz
 
-Stand: 13.10.2026 abends. **Gebaut und veröffentlicht:** https://langenbachalex.github.io/Languages/francais/ (Konzept und Stand: `docs/francais/konzept.md`).
+Stand: 13.10.2026 abends. **Gebaut und veröffentlicht:** https://langenbachalex.github.io/Languages/ (seit dem Umbau auf Sprachpaare, 13.10.; Französisch = Paar fr-de) (Konzept und Stand: `docs/francais/konzept.md`).
 Mr. Alex probiert die App jetzt **eine Woche** aus und meldet, was im Alltag stört (Pensum, Sprechzeiten, Reihenfolge, Lob-Häufigkeit). Danach: Dialog 3 mit Aurélien (Brel-Running-Gag), Kapitel 4 und 5 der Geschichte (`docs/francais/geschichte-entwurf.md`).
 Grundsatz bleibt: vor jedem Bauschritt fragen. Veröffentlichen = Französisch-Branch in `claude/awesome-dijkstra-dy57ir` mergen (Option A, 13.10.).
 
@@ -22,7 +22,7 @@ Eine persönliche App für Mr. Alex im Stil der Schul-Apps (Klasse 6 in `app/`, 
 5. **Übungsformen:** Was aus den Schul-Apps passt? (Listen and Repeat in Stufen, Vokabel-Abfrage, Lückensätze, Dialoge mit Rollen, Find the word …) Was ist neu nötig (z. B. Konjugationstrainer)?
 6. **Stimme:** Französische ElevenLabs-Stimmen (Hörprobe vorab), evtl. Mr. Alex' eigene Stimme für Deutsch.
 7. **Gamification:** Wie bei den Schul-Apps (Punkte, Serien, Sammlung)? Welches Sammelthema (z. B. Frankreich-Karte mit Regionen, Pariser Orte)? Serien ohne Schulferien-Logik?
-8. **Name und Adresse:** z. B. `app/francais/` → `https://langenbachalex.github.io/Languages/francais/`
+8. **Name und Adresse:** z. B. `app/francais/` → `https://langenbachalex.github.io/Languages/ (seit dem Umbau auf Sprachpaare, 13.10.; Französisch = Paar fr-de)`
 
 ## Bauplan (bewährt aus den Schul-Apps)
 - Inhalte als TSV in `inhalte/francais/` → Bauskript in `werkzeuge/` → `app/francais/daten.js`

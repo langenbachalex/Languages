@@ -2,10 +2,28 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Languages</title>
-<meta http-equiv="refresh" content="0; url=francais/">
-<style>body{font:18px/1.5 system-ui,sans-serif;margin:0;min-height:100vh;display:grid;place-items:center;background:#f4f6fb;color:#17213a}a{color:#0a2a6b;font-weight:700}</style>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Language Learning</title>
+<meta name="theme-color" content="#0a2a6b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Languages">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<link rel="stylesheet" href="basis.css">
+<link rel="stylesheet" href="app.css">
 </head>
-<body><p>Languages · <a href="francais/">Mon français ➜</a></p></body>
+<body>
+<div class="niveau-leiste">
+  <div class="sprachen" role="group" aria-label="Langue"></div>
+  <div class="niveau" role="group" aria-label="Aide">
+    <button type="button" data-de="0" aria-pressed="true">FR</button>
+    <button type="button" data-de="1" aria-pressed="false">FR + DE</button>
+  </div>
+</div>
+<main id="app" aria-live="polite"></main>
+<script src="daten_fr-de.js"></script>
+<script src="app.js"></script>
+</body>
 </html>

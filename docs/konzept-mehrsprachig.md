@@ -1,13 +1,13 @@
 # Konzept: „Language Learning“ – eine App, mehrere Sprachen
 
-Stand: 13.10.2026. Entwurf zum Absegnen, **noch nichts gebaut.** Grundlage: Brainstorming mit Mr. Alex (13.10.).
+Stand: 13.10.2026. **Schritt 1 (Umbau) gebaut und veröffentlicht am 13.10.:** Sprachpakete, Umschalter, Pensum 3 + 8, Offline pro Sprache, App an der Wurzel, Name „Language Learning“, alter Stand wird automatisch übernommen. Figuren: Diego (Spanisch), Giovanni (Italienisch), Aurélien lernt Deutsch (Vorschlag). Grundlage: Brainstorming mit Mr. Alex (13.10.).
 Grundsatz wie bisher: vor jedem Bauschritt fragen.
 
 ## 1. Festgelegt (Mr. Alex, 13.10.)
 
 - **Eine App, ein Umschalter** für die Sprachen; keine App pro Sprache. Neue Sprachen sollen sich bequem ergänzen lassen.
 - **Sprachen:** zuerst Umbau mit Französisch, dann **Spanisch**, dann **Italienisch**, außerdem **Deutsch umgedreht** (Ziel Deutsch, Hilfe Französisch) mit **eigenen deutschen Redewendungen**, nicht aus den französischen Daten gespiegelt.
-- **Pensum:** **3 neue + 8 alte pro Tag, pro Sprache** [bestätigen: „+8“].
+- **Pensum:** **3 neue + 8 alte pro Tag, pro Sprache** (bestätigt 13.10.).
 - **Inhalte pro Sprache neu finden, nicht übersetzen:** gleiche Themen (Lebenswelt), aber in jeder Sprache die dort wirklich gebräuchlichen Redewendungen. Alles andere (Übungen, Séance, Leitner, Spiel) bleibt gleich.
 - **Name:** App „Language Learning“. Repository bleibt `Languages` → Adresse bleibt `https://langenbachalex.github.io/Languages/`.
 
@@ -45,6 +45,5 @@ Jedes Thema wie bisher: Vorschlag → Mr. Alex liest → OK → Audio → veröf
 
 ## 5. Offen
 
-- Pensum „+8“ bestätigen (3 neue + 8 alte).
-- Partnerfiguren für Spanisch, Italienisch, Deutsch.
-- Ob Serien/Punkte wirklich gemeinsam (Vorschlag) oder pro Sprache.
+- Punkte und Titel pro Sprache, Serie gemeinsam (so gebaut, 13.10.).
+- Für Deutsch: Aurélien als Lernender – noch zu bestätigen.

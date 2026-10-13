@@ -1,6 +1,6 @@
 {
- "name": "Mon français",
- "short_name": "Français",
+ "name": "Language Learning",
+ "short_name": "Languages",
  "lang": "fr",
  "start_url": "./",
  "scope": "./",

@@ -1,5 +1,5 @@
 /* Französisch (persönlich) – ergänzt basis.css (Kopie der Klasse-6-Gestaltung). Farben: Trikolore, ruhig. */
-:root { --blau: #0a2a6b; --rot: #c8102e; --bg: #f4f6fb; --creme: #fff7e6; --creme-text: #4a3a10; }
+:root { --blau: #0a2a6b; --rot: #c8102e; /* werden je Sprache von app.js überschrieben */ --bg: #f4f6fb; --creme: #fff7e6; --creme-text: #4a3a10; }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) { --blau: #8fb0ff; --rot: #ff6b7a; --creme: #3a3020; --creme-text: #ffe9b8; }
 }
@@ -131,3 +131,12 @@
 .kapitel-karte { display: grid; gap: 4px; aspect-ratio: 3 / 4; padding: 12px; border-radius: 12px; border: 2px solid var(--blau); background: var(--karte); color: var(--text); cursor: pointer; font: inherit; text-align: left; align-content: end; }
 .kapitel-nr { font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--leise); }
 .sprung.zu { opacity: .5; }
+
+/* Sprachumschalter (Language Learning): Flaggen links in der Leiste; bei nur einer Sprache als Name */
+.sprachen { display: inline-flex; gap: 6px; }
+.sprachen button { font: 700 .95rem var(--body); min-height: 40px; padding: 0 12px; border-radius: 999px; border: 2px solid transparent; cursor: pointer; background: transparent; color: var(--blau-text); white-space: nowrap; }
+.sprachen button[aria-pressed="true"] { border-color: var(--blau-text); }
+.sprachen.eine button { border: 0; cursor: default; font-family: var(--display); font-weight: 600; letter-spacing: .02em; }
+.sprachen button:focus-visible { outline: 3px solid var(--gelb); outline-offset: -3px; }
+.offline-box { display: grid; gap: 10px; }
+.offline-stand { font-weight: 700; }

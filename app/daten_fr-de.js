@@ -1,5 +1,255 @@
-// Automatisch erzeugt von werkzeuge/francais_bauen.py – bitte nicht von Hand ändern.
-window.DATEN = {
+// Automatisch erzeugt von werkzeuge/bauen.py aus werkzeuge/sprachen/fr_de.py – bitte nicht von Hand ändern.
+window.SPRACHEN = window.SPRACHEN || {};
+window.SPRACHEN["fr-de"] = {
+ "paar": "fr-de",
+ "name": "Mon français",
+ "kurz": "FR",
+ "hilfe_kurz": "DE",
+ "flagge": "🇫🇷",
+ "lang": "fr",
+ "lang_hilfe": "de",
+ "sprachausgabe": "fr-FR",
+ "theme": {
+  "blau": "#0a2a6b",
+  "rot": "#c8102e"
+ },
+ "ui": {
+  "app": "Language Learning",
+  "gruss": [
+   "Bonjour ! On y va ?",
+   "Salut ! On s'y met ?",
+   "Bonsoir ! Une petite séance ?"
+  ],
+  "motto": [
+   "Dix minutes par jour : la séance, puis ce que tu veux.",
+   "Zehn Minuten am Tag: die Séance, danach was du willst."
+  ],
+  "seance": "▶ Ma séance du jour",
+  "seance_fertig": "✓ Séance du jour terminée",
+  "seance_stand": "{neu} nouvelles · {wdh} à réviser · {fertig} / {gesamt} faites",
+  "seance_leer": "Rien à réviser aujourd'hui – explore les thèmes !",
+  "themen": [
+   "Les thèmes",
+   "Die Themen"
+  ],
+  "expressions": "expressions",
+  "parties": "parties",
+  "bonus": [
+   "Prononciation et histoire",
+   "Aussprache und Geschichte"
+  ],
+  "kapitel_zahl": "{frei} / {alle} chapitres · un nouveau par semaine parfaite",
+  "stand": [
+   "{n} expressions dans ta boîte · {fest} bien ancrées · {orte} / {alle} lieux visités",
+   "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"
+  ],
+  "accueil": "Accueil",
+  "zurueck_accueil": "← Accueil",
+  "zurueck_thema": "← Thème",
+  "suivant": "Suivant ➜",
+  "retour": "◀ Retour",
+  "encore_hoeren": "🔊 Encore",
+  "solution": "Solution",
+  "hoeren": "🔊 Écouter",
+  "stop": "■ Stop",
+  "jetzt_du": "À toi ! Répète.",
+  "jetzt_du_dialog": "À toi ! Dis ta réplique.",
+  "poli": "vous · poli",
+  "poli_titel": "Höflichkeitsform",
+  "trou": "trou",
+  "hilfe_zeigen": "Deutsch anzeigen",
+  "seance_titel": "Ma séance du jour",
+  "nouvelle": "nouvelle",
+  "revision": "révision · niveau {s}",
+  "neu_ansage": [
+   "Nouvelle expression ! Écoute et répète.",
+   "Neue Wendung! Hör zu und sprich nach."
+  ],
+  "exemple": "Exemple",
+  "ziel_sprache": "Français",
+  "hilfe_sprache": "Deutsch",
+  "wie_sagt_man": [
+   "Comment dit-on en français ? Dis-le à voix haute, puis « Solution ».",
+   "Wie sagt man das auf Französisch? Sag es laut, dann „Solution“."
+  ],
+  "je_savais": "😊 Je savais",
+  "encore": "🔁 Encore",
+  "pas_grave": "Pas grave ! Elle revient tout à l'heure.",
+  "fini": "C'est fini pour aujourd'hui !",
+  "pause": "Pause !",
+  "fini_text": [
+   "Ta boîte est à jour. Demain, les expressions reviennent au bon moment. Si tu veux continuer, explore les thèmes – sans pression.",
+   "Dein Kasten ist auf dem neuesten Stand. Morgen kommen die Wendungen zum richtigen Zeitpunkt zurück. Wenn du weitermachen willst: die Themen, ohne Druck."
+  ],
+  "pause_text": [
+   "Tu peux reprendre la séance quand tu veux – ce qui est fait reste fait.",
+   "Du kannst die Séance jederzeit fortsetzen – was gemacht ist, bleibt gemacht."
+  ],
+  "sammlung": "🏆 Ma collection",
+  "etape": "Étape {n}",
+  "zeitmaschine": "⏳ Machine à remonter le temps",
+  "trouve": "🔎 Trouve l'expression",
+  "thema_ansage": [
+   "Choisis une partie. Chaque partie : écouter et répéter en trois étapes, la machine à remonter le temps, puis retrouver les expressions.",
+   "Wähl einen Teil. Jeder Teil: hören und nachsprechen in drei Stufen, Zeitmaschine, dann die Wendungen wiederfinden."
+  ],
+  "partie": "Partie {n}",
+  "dialog_hoeren": "👂 Écouter",
+  "repeter": "Répéter",
+  "tu_es": "🎭 Tu es {rolle}",
+  "role": "Rôle",
+  "repliques": "répliques",
+  "dialog_start": "▶ Commencer le dialogue",
+  "dialog_hoeren_knopf": "▶ Écouter le dialogue",
+  "dialog_ok_rolle": "Change de rôle – ou encore une fois !",
+  "dialog_ok": "Maintenant, à toi de parler !",
+  "dialog_ansage_rolle": [
+   "Tu es {ich}. Dis tes répliques quand c'est ton tour – l'appli parle pour {andere}.",
+   "Du bist {ich}. Sprich deine Zeilen, wenn du dran bist – die App spricht {andere}."
+  ],
+  "dialog_ansage": [
+   "« {titel} » – {ort}. Écoute le dialogue.",
+   "„{titel}“ – {ort}. Hör dir den Dialog an."
+  ],
+  "dialog_tipp": [
+   "Plus facile : montrer mes répliques",
+   "Noch einfacher: meine Zeilen zeigen"
+  ],
+  "chapitre": "Chapitre {n}",
+  "kapitel_ansage": [
+   "Écoute le chapitre, ou lis-le à voix haute. Touche un paragraphe pour l'allemand.",
+   "Hör das Kapitel, oder lies es laut. Tipp auf einen Absatz für Deutsch."
+  ],
+  "kapitel_alles": "▶ Écouter tout le chapitre",
+  "kapitel_weiter": "Chapitre suivant ➜",
+  "kapitel_naechste": [
+   "Le chapitre suivant se débloque avec ta prochaine semaine parfaite.",
+   "Das nächste Kapitel kommt mit deiner nächsten perfekten Woche."
+  ],
+  "kapitel_ende": [
+   "La suite est en cours d'écriture.",
+   "Die Fortsetzung wird gerade geschrieben."
+  ],
+  "pas_debloque": "Pas encore débloqué",
+  "semaine_parfaite": "Semaine parfaite",
+  "mot": "Mot {n} / {alle}",
+  "paire": "Paire {n} / {alle}",
+  "lentement": "🐢 Lentement",
+  "normal": "🔊 Normal",
+  "lr_label": "Écouter et répéter",
+  "parties_label": "Parties – accès direct",
+  "trop_vite": "⏱️ Trop vite !",
+  "trop_vite_text": [
+   "Dis vraiment les phrases à voix haute. Ensuite, il y a des points. Encore une fois !",
+   "Sprich die Sätze wirklich laut. Dann gibt es auch Punkte. Noch mal!"
+  ],
+  "encore_fois": "Encore une fois ➜",
+  "termine": "{name} : terminé !",
+  "presque": [
+   "Presque ! Il manque encore :",
+   "Fast! Es fehlt noch:"
+  ],
+  "thema_fertig": "Tout le thème « {name} » est terminé. Chapeau !",
+  "autres_parties": "Autres parties",
+  "stufen": [
+   [
+    "Écoute et répète ! La phrase allemande t'aide.",
+    "Hör zu und sprich nach! Der deutsche Satz hilft dir."
+   ],
+   [
+    "Quel mot manque ? Dis toute la phrase, puis « Solution ».",
+    "Welches Wort fehlt? Sag den ganzen Satz, dann „Solution“."
+   ],
+   [
+    "Dis la phrase en français, puis « Solution ».",
+    "Sag den Satz auf Französisch, dann „Solution“."
+   ]
+  ],
+  "dis_phrase": "Dis toute la phrase en français !",
+  "phrase": "Phrase {n} / {alle}",
+  "tipp_buchstabe": [
+   "Plus facile : la première lettre",
+   "Noch einfacher: erster Buchstabe"
+  ],
+  "tipp_luecke": [
+   "Plus facile : la phrase à trou",
+   "Noch einfacher: Satz mit Lücke"
+  ],
+  "zeiten": {
+   "jetzt": [
+    "Aujourd'hui",
+    "présent"
+   ],
+   "pc": [
+    "Hier",
+    "passé composé",
+    "Et hier ?"
+   ],
+   "fp": [
+    "Demain",
+    "futur proche",
+    "Et demain ?"
+   ]
+  },
+  "solution_zeit": "Solution : {zeit}",
+  "zeit_ansage": [
+   "Écoute la phrase d'aujourd'hui. Puis dis-la au passé, et au futur – à voix haute. Ensuite « Solution ».",
+   "Hör den Satz von heute. Dann sag ihn in der Vergangenheit und in der Zukunft – laut. Danach „Solution“."
+  ],
+  "expression": "Expression {n} / {alle}",
+  "bonus_weekend": "🏖️ Bonus week-end +{p}",
+  "en_feu": "Tu es en feu ! {n} jours de suite",
+  "en_feu_text": "{n} jours d'école de suite – +{p} points !",
+  "semaine_parfaite_titel": "Semaine parfaite !",
+  "semaine_parfaite_text": "Tu as travaillé chaque jour d'école – +{p} points.",
+  "nouveau_chapitre": " Nouveau chapitre : « {titel} » !",
+  "suite_bientot": " La suite de l'histoire arrive bientôt.",
+  "mois_parfait": "Mois parfait !",
+  "mois_parfait_text": "{n} semaines parfaites de suite – +{p} points et un cadre doré !",
+  "nouveau_titre": "Nouveau titre : {name} !",
+  "points": "points",
+  "jours_suite": "Jours d'école de suite",
+  "visite": "visité ✓",
+  "ton_titre": "Ton titre",
+  "encore_points": "Encore {n} points jusqu'à « {name} » {symbol}",
+  "cette_semaine": "Cette semaine",
+  "tage": [
+   "Lun",
+   "Mar",
+   "Mer",
+   "Jeu",
+   "Ven"
+  ],
+  "serie_text": [
+   "🔥 {n} jours d'école de suite · ⭐ {w} semaines parfaites. Vacances et jours fériés ne comptent pas – ta série reste.",
+   "🔥 {n} Schultage am Stück · ⭐ {w} perfekte Wochen. Ferien und Feiertage zählen nicht – deine Serie bleibt."
+  ],
+  "boite": "📦 Ma boîte ({n} expressions)",
+  "boite_text": [
+   "Niveau 0 = nouvelle ou oubliée · à partir du niveau 3, l'expression est bien ancrée.",
+   "Stufe 0 = neu oder vergessen · ab Stufe 3 sitzt die Wendung."
+  ],
+  "jours": "j",
+  "badges": "Badges",
+  "badge_liste": [
+   "En feu",
+   "Semaine parfaite",
+   "5 × parfaite",
+   "Mois parfait",
+   "Héros du week-end",
+   "100 expressions",
+   "50 bien ancrées"
+  ],
+  "offline": "📥 Hors-ligne",
+  "offline_text": [
+   "Télécharge les audios de cette langue pour travailler sans connexion.",
+   "Lade die Audios dieser Sprache, um ohne Verbindung zu üben."
+  ],
+  "offline_stand": "{n} / {alle} fichiers audio hors-ligne",
+  "offline_laden": "📥 Télécharger pour hors-ligne",
+  "offline_fertig": "✓ Disponible hors-ligne",
+  "offline_laeuft": "Téléchargement… {n} / {alle}"
+ },
  "themen": [
   {
    "id": "profs",
@@ -294,21 +544,21 @@ window.DATEN = {
    "de": "Klassenarbeiten korrigieren",
    "register": "tu",
    "anker": "corriger",
-   "audio": "audio/wendungen/ep_01.mp3",
+   "audio": "audio/fr-de/wendungen/ep_01.mp3",
    "satz": {
     "fr": "Ce soir, je corrige des copies de sixième.",
     "de": "Heute Abend korrigiere ich Arbeiten der Sechsten.",
     "luecke": "corrige des copies",
-    "audio": "audio/saetze/ep_01.mp3"
+    "audio": "audio/fr-de/saetze/ep_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hier soir, j'ai corrigé des copies de sixième.",
-     "audio": "audio/saetze/ep_01_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_01_pc.mp3"
     },
     "fp": {
      "fr": "Ce soir, je vais corriger des copies de sixième.",
-     "audio": "audio/saetze/ep_01_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_01_fp.mp3"
     }
    }
   },
@@ -319,21 +569,21 @@ window.DATEN = {
    "de": "fix und fertig sein",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/ep_02.mp3",
+   "audio": "audio/fr-de/wendungen/ep_02.mp3",
    "satz": {
     "fr": "Après six heures de cours, je suis crevé.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "crevé",
-    "audio": "audio/saetze/ep_02.mp3"
+    "audio": "audio/fr-de/saetze/ep_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Après six heures de cours, j'étais crevé.",
-     "audio": "audio/saetze/ep_02_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_02_pc.mp3"
     },
     "fp": {
      "fr": "Après six heures de cours, je vais être crevé.",
-     "audio": "audio/saetze/ep_02_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_02_fp.mp3"
     }
    }
   },
@@ -344,12 +594,12 @@ window.DATEN = {
    "de": "ist es gut gelaufen?",
    "register": "tu",
    "anker": "se passer",
-   "audio": "audio/wendungen/ep_03.mp3",
+   "audio": "audio/fr-de/wendungen/ep_03.mp3",
    "satz": {
     "fr": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
     "de": "Und, deine Stunde mit den Neunern, ist sie gut gelaufen?",
     "luecke": "ça s'est bien passé",
-    "audio": "audio/saetze/ep_03.mp3"
+    "audio": "audio/fr-de/saetze/ep_03.mp3"
    },
    "zeit": null
   },
@@ -360,21 +610,21 @@ window.DATEN = {
    "de": "Unterricht halten",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ep_04.mp3",
+   "audio": "audio/fr-de/wendungen/ep_04.mp3",
    "satz": {
     "fr": "Je fais cours en anglais toute la matinée.",
     "de": "Ich unterrichte den ganzen Vormittag Englisch.",
     "luecke": "fais cours",
-    "audio": "audio/saetze/ep_04.mp3"
+    "audio": "audio/fr-de/saetze/ep_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait cours en anglais toute la matinée.",
-     "audio": "audio/saetze/ep_04_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_04_pc.mp3"
     },
     "fp": {
      "fr": "Je vais faire cours en anglais toute la matinée.",
-     "audio": "audio/saetze/ep_04_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_04_fp.mp3"
     }
    }
   },
@@ -385,12 +635,12 @@ window.DATEN = {
    "de": "die Pause",
    "register": "tu",
    "anker": "retrouver",
-   "audio": "audio/wendungen/ep_05.mp3",
+   "audio": "audio/fr-de/wendungen/ep_05.mp3",
    "satz": {
     "fr": "On se retrouve en salle des profs à la récré ?",
     "de": "Treffen wir uns in der Pause im Lehrerzimmer?",
     "luecke": "à la récré",
-    "audio": "audio/saetze/ep_05.mp3"
+    "audio": "audio/fr-de/saetze/ep_05.mp3"
    },
    "zeit": null
   },
@@ -401,21 +651,21 @@ window.DATEN = {
    "de": "es kaum erwarten können",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ep_06.mp3",
+   "audio": "audio/fr-de/wendungen/ep_06.mp3",
    "satz": {
     "fr": "J'ai hâte d'être en vacances.",
     "de": "Ich kann die Ferien kaum erwarten.",
     "luecke": "ai hâte d'",
-    "audio": "audio/saetze/ep_06.mp3"
+    "audio": "audio/fr-de/saetze/ep_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'avais hâte d'être en vacances.",
-     "audio": "audio/saetze/ep_06_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_06_pc.mp3"
     },
     "fp": {
      "fr": "Je vais avoir hâte d'être en vacances.",
-     "audio": "audio/saetze/ep_06_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_06_fp.mp3"
     }
    }
   },
@@ -426,12 +676,12 @@ window.DATEN = {
    "de": "die Nase voll haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ep_07.mp3",
+   "audio": "audio/fr-de/wendungen/ep_07.mp3",
    "satz": {
     "fr": "J'en ai marre des réunions qui n'en finissent pas.",
     "de": "Ich habe die Nase voll von Besprechungen, die kein Ende nehmen.",
     "luecke": "en ai marre",
-    "audio": "audio/saetze/ep_07.mp3"
+    "audio": "audio/fr-de/saetze/ep_07.mp3"
    },
    "zeit": null
   },
@@ -442,21 +692,21 @@ window.DATEN = {
    "de": "Schwierigkeiten haben zu",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ep_08.mp3",
+   "audio": "audio/fr-de/wendungen/ep_08.mp3",
    "satz": {
     "fr": "J'ai du mal à les faire taire le vendredi après-midi.",
     "de": "Freitagnachmittags fällt es mir schwer, sie ruhig zu kriegen.",
     "luecke": "ai du mal à",
-    "audio": "audio/saetze/ep_08.mp3"
+    "audio": "audio/fr-de/saetze/ep_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai eu du mal à les faire taire vendredi après-midi.",
-     "audio": "audio/saetze/ep_08_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_08_pc.mp3"
     },
     "fp": {
      "fr": "Je vais avoir du mal à les faire taire vendredi après-midi.",
-     "audio": "audio/saetze/ep_08_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_08_fp.mp3"
     }
    }
   },
@@ -467,12 +717,12 @@ window.DATEN = {
    "de": "das ist lange her",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ep_09.mp3",
+   "audio": "audio/fr-de/wendungen/ep_09.mp3",
    "satz": {
     "fr": "Salut Aurélien ! Ça fait longtemps !",
     "de": "Hallo Aurélien! Lange nicht gesehen!",
     "luecke": "Ça fait longtemps",
-    "audio": "audio/saetze/ep_09.mp3"
+    "audio": "audio/fr-de/saetze/ep_09.mp3"
    },
    "zeit": null
   },
@@ -483,21 +733,21 @@ window.DATEN = {
    "de": "also, deshalb (umgangssprachlich)",
    "register": "tu",
    "anker": "prendre",
-   "audio": "audio/wendungen/ep_10.mp3",
+   "audio": "audio/fr-de/wendungen/ep_10.mp3",
    "satz": {
     "fr": "Le prof de sport est malade, du coup je prends sa classe.",
     "de": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "luecke": "du coup",
-    "audio": "audio/saetze/ep_10.mp3"
+    "audio": "audio/fr-de/saetze/ep_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Le prof de sport était malade, du coup j'ai pris sa classe.",
-     "audio": "audio/saetze/ep_10_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_10_pc.mp3"
     },
     "fp": {
      "fr": "Le prof de sport est malade, du coup je vais prendre sa classe.",
-     "audio": "audio/saetze/ep_10_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_10_fp.mp3"
     }
    }
   },
@@ -508,12 +758,12 @@ window.DATEN = {
    "de": "eigentlich, genau genommen",
    "register": "tu",
    "anker": "aimer",
-   "audio": "audio/wendungen/ep_11.mp3",
+   "audio": "audio/fr-de/wendungen/ep_11.mp3",
    "satz": {
     "fr": "En fait, j'aime bien mes élèves de neuvième.",
     "de": "Eigentlich mag ich meine Neuner sehr gern.",
     "luecke": "En fait",
-    "audio": "audio/saetze/ep_11.mp3"
+    "audio": "audio/fr-de/saetze/ep_11.mp3"
    },
    "zeit": null
   },
@@ -524,12 +774,12 @@ window.DATEN = {
    "de": "trotzdem, immerhin",
    "register": "tu",
    "anker": "adorer",
-   "audio": "audio/wendungen/ep_12.mp3",
+   "audio": "audio/fr-de/wendungen/ep_12.mp3",
    "satz": {
     "fr": "C'est fatigant, mais j'adore ce métier quand même.",
     "de": "Es ist anstrengend, aber ich liebe diesen Beruf trotzdem.",
     "luecke": "quand même",
-    "audio": "audio/saetze/ep_12.mp3"
+    "audio": "audio/fr-de/saetze/ep_12.mp3"
    },
    "zeit": null
   },
@@ -540,21 +790,21 @@ window.DATEN = {
    "de": "das lohnt sich",
    "register": "tu",
    "anker": "valoir",
-   "audio": "audio/wendungen/ep_13.mp3",
+   "audio": "audio/fr-de/wendungen/ep_13.mp3",
    "satz": {
     "fr": "Préparer un bon cours, ça prend du temps, mais ça vaut le coup.",
     "de": "Eine gute Stunde vorzubereiten dauert, aber es lohnt sich.",
     "luecke": "ça vaut le coup",
-    "audio": "audio/saetze/ep_13.mp3"
+    "audio": "audio/fr-de/saetze/ep_13.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ça a pris du temps, mais ça valait le coup.",
-     "audio": "audio/saetze/ep_13_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_13_pc.mp3"
     },
     "fp": {
      "fr": "Ça va prendre du temps, mais ça va valoir le coup.",
-     "audio": "audio/saetze/ep_13_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_13_fp.mp3"
     }
    }
   },
@@ -565,21 +815,21 @@ window.DATEN = {
    "de": "zurechtkommen",
    "register": "tu",
    "anker": "se débrouiller",
-   "audio": "audio/wendungen/ep_14.mp3",
+   "audio": "audio/fr-de/wendungen/ep_14.mp3",
    "satz": {
     "fr": "Les élèves se débrouillent bien tout seuls.",
     "de": "Die Schüler kommen allein gut zurecht.",
     "luecke": "se débrouillent",
-    "audio": "audio/saetze/ep_14.mp3"
+    "audio": "audio/fr-de/saetze/ep_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Les élèves se sont bien débrouillés tout seuls.",
-     "audio": "audio/saetze/ep_14_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_14_pc.mp3"
     },
     "fp": {
      "fr": "Les élèves vont bien se débrouiller tout seuls.",
-     "audio": "audio/saetze/ep_14_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_14_fp.mp3"
     }
    }
   },
@@ -590,12 +840,12 @@ window.DATEN = {
    "de": "voll dabei sein",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/ep_15.mp3",
+   "audio": "audio/fr-de/wendungen/ep_15.mp3",
    "satz": {
     "fr": "Aujourd'hui, les sixièmes étaient à fond.",
     "de": "Heute waren die Sechser voll dabei.",
     "luecke": "à fond",
-    "audio": "audio/saetze/ep_15.mp3"
+    "audio": "audio/fr-de/saetze/ep_15.mp3"
    },
    "zeit": null
   },
@@ -606,21 +856,21 @@ window.DATEN = {
    "de": "Arbeiten zurückgeben",
    "register": "tu",
    "anker": "rendre",
-   "audio": "audio/wendungen/ep_16.mp3",
+   "audio": "audio/fr-de/wendungen/ep_16.mp3",
    "satz": {
     "fr": "Je rends les copies lundi.",
     "de": "Ich gebe die Arbeiten am Montag zurück.",
     "luecke": "rends les copies",
-    "audio": "audio/saetze/ep_16.mp3"
+    "audio": "audio/fr-de/saetze/ep_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai rendu les copies lundi.",
-     "audio": "audio/saetze/ep_16_pc.mp3"
+     "audio": "audio/fr-de/saetze/ep_16_pc.mp3"
     },
     "fp": {
      "fr": "Je vais rendre les copies lundi.",
-     "audio": "audio/saetze/ep_16_fp.mp3"
+     "audio": "audio/fr-de/saetze/ep_16_fp.mp3"
     }
    }
   },
@@ -631,12 +881,12 @@ window.DATEN = {
    "de": "eine Besprechung, Konferenz",
    "register": "tu",
    "anker": "venir",
-   "audio": "audio/wendungen/ep_17.mp3",
+   "audio": "audio/fr-de/wendungen/ep_17.mp3",
    "satz": {
     "fr": "On a une réunion à seize heures, tu viens ?",
     "de": "Wir haben um 16 Uhr eine Konferenz, kommst du?",
     "luecke": "une réunion",
-    "audio": "audio/saetze/ep_17.mp3"
+    "audio": "audio/fr-de/saetze/ep_17.mp3"
    },
    "zeit": null
   },
@@ -647,12 +897,12 @@ window.DATEN = {
    "de": "das macht nichts",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ep_18.mp3",
+   "audio": "audio/fr-de/wendungen/ep_18.mp3",
    "satz": {
     "fr": "Tu as oublié mon livre ? Ça ne fait rien.",
     "de": "Du hast mein Buch vergessen? Macht nichts.",
     "luecke": "Ça ne fait rien",
-    "audio": "audio/saetze/ep_18.mp3"
+    "audio": "audio/fr-de/saetze/ep_18.mp3"
    },
    "zeit": null
   },
@@ -663,12 +913,12 @@ window.DATEN = {
    "de": "sich Zeit lassen",
    "register": "tu",
    "anker": "prendre",
-   "audio": "audio/wendungen/ep_19.mp3",
+   "audio": "audio/fr-de/wendungen/ep_19.mp3",
    "satz": {
     "fr": "Prends ton temps, on a toute la soirée.",
     "de": "Lass dir Zeit, wir haben den ganzen Abend.",
     "luecke": "Prends ton temps",
-    "audio": "audio/saetze/ep_19.mp3"
+    "audio": "audio/fr-de/saetze/ep_19.mp3"
    },
    "zeit": null
   },
@@ -679,12 +929,12 @@ window.DATEN = {
    "de": "könnten Sie … ? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
-   "audio": "audio/wendungen/ep_20.mp3",
+   "audio": "audio/fr-de/wendungen/ep_20.mp3",
    "satz": {
     "fr": "Excusez-moi, pourriez-vous m'indiquer la salle des profs ?",
     "de": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "luecke": "pourriez-vous",
-    "audio": "audio/saetze/ep_20.mp3"
+    "audio": "audio/fr-de/saetze/ep_20.mp3"
    },
    "zeit": null
   },
@@ -695,21 +945,21 @@ window.DATEN = {
    "de": "das berührt mich",
    "register": "tu",
    "anker": "toucher",
-   "audio": "audio/wendungen/se_01.mp3",
+   "audio": "audio/fr-de/wendungen/se_01.mp3",
    "satz": {
     "fr": "Cette chanson me touche à chaque fois.",
     "de": "Dieses Lied berührt mich jedes Mal.",
     "luecke": "me touche",
-    "audio": "audio/saetze/se_01.mp3"
+    "audio": "audio/fr-de/saetze/se_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Cette chanson m'a touché.",
-     "audio": "audio/saetze/se_01_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_01_pc.mp3"
     },
     "fp": {
      "fr": "Cette chanson va me toucher.",
-     "audio": "audio/saetze/se_01_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_01_fp.mp3"
     }
    }
   },
@@ -720,21 +970,21 @@ window.DATEN = {
    "de": "Trübsal blasen, niedergeschlagen sein",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/se_02.mp3",
+   "audio": "audio/fr-de/wendungen/se_02.mp3",
    "satz": {
     "fr": "Le dimanche soir, j'ai souvent le cafard.",
     "de": "Sonntagabends bin ich oft niedergeschlagen.",
     "luecke": "le cafard",
-    "audio": "audio/saetze/se_02.mp3"
+    "audio": "audio/fr-de/saetze/se_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dimanche soir, j'ai eu le cafard.",
-     "audio": "audio/saetze/se_02_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_02_pc.mp3"
     },
     "fp": {
      "fr": "Dimanche soir, je vais avoir le cafard.",
-     "audio": "audio/saetze/se_02_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_02_fp.mp3"
     }
    }
   },
@@ -745,12 +995,12 @@ window.DATEN = {
    "de": "düster, dunkel",
    "register": "tu",
    "anker": "aimer",
-   "audio": "audio/wendungen/se_03.mp3",
+   "audio": "audio/fr-de/wendungen/se_03.mp3",
    "satz": {
     "fr": "J'aime les histoires sombres, avec une forêt et un secret.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "sombres",
-    "audio": "audio/saetze/se_03.mp3"
+    "audio": "audio/fr-de/saetze/se_03.mp3"
    },
    "zeit": null
   },
@@ -761,12 +1011,12 @@ window.DATEN = {
    "de": "melancholisch",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_04.mp3",
+   "audio": "audio/fr-de/wendungen/se_04.mp3",
    "satz": {
     "fr": "Ce morceau de piano est mélancolique, mais tellement beau.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "mélancolique",
-    "audio": "audio/saetze/se_04.mp3"
+    "audio": "audio/fr-de/saetze/se_04.mp3"
    },
    "zeit": null
   },
@@ -777,21 +1027,21 @@ window.DATEN = {
    "de": "das bricht mir das Herz",
    "register": "tu",
    "anker": "fendre",
-   "audio": "audio/wendungen/se_05.mp3",
+   "audio": "audio/fr-de/wendungen/se_05.mp3",
    "satz": {
     "fr": "Voir un enfant pleurer tout seul, ça me fend le cœur.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "me fend le cœur",
-    "audio": "audio/saetze/se_05.mp3"
+    "audio": "audio/fr-de/saetze/se_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ça m'a fendu le cœur.",
-     "audio": "audio/saetze/se_05_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_05_pc.mp3"
     },
     "fp": {
      "fr": "Ça va me fendre le cœur.",
-     "audio": "audio/saetze/se_05_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_05_fp.mp3"
     }
    }
   },
@@ -802,12 +1052,12 @@ window.DATEN = {
    "de": "gerührt, bewegt sein",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_06.mp3",
+   "audio": "audio/fr-de/wendungen/se_06.mp3",
    "satz": {
     "fr": "À la fin du concert, j'étais ému aux larmes.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "ému",
-    "audio": "audio/saetze/se_06.mp3"
+    "audio": "audio/fr-de/saetze/se_06.mp3"
    },
    "zeit": null
   },
@@ -818,12 +1068,12 @@ window.DATEN = {
    "de": "beunruhigend, unheimlich",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_07.mp3",
+   "audio": "audio/fr-de/wendungen/se_07.mp3",
    "satz": {
     "fr": "La maison était silencieuse, c'était inquiétant.",
     "de": "Das Haus war still, das war unheimlich.",
     "luecke": "inquiétant",
-    "audio": "audio/saetze/se_07.mp3"
+    "audio": "audio/fr-de/saetze/se_07.mp3"
    },
    "zeit": null
   },
@@ -834,12 +1084,12 @@ window.DATEN = {
    "de": "beruhigend, wohltuend",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_08.mp3",
+   "audio": "audio/fr-de/wendungen/se_08.mp3",
    "satz": {
     "fr": "Le ronronnement de mon chat est apaisant.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "apaisant",
-    "audio": "audio/saetze/se_08.mp3"
+    "audio": "audio/fr-de/saetze/se_08.mp3"
    },
    "zeit": null
   },
@@ -850,21 +1100,21 @@ window.DATEN = {
    "de": "Tränen in den Augen haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/se_09.mp3",
+   "audio": "audio/fr-de/wendungen/se_09.mp3",
    "satz": {
     "fr": "Quand j'écoute cette voix, j'ai les larmes aux yeux.",
     "de": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "luecke": "ai les larmes aux yeux",
-    "audio": "audio/saetze/se_09.mp3"
+    "audio": "audio/fr-de/saetze/se_09.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai eu les larmes aux yeux.",
-     "audio": "audio/saetze/se_09_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_09_pc.mp3"
     },
     "fp": {
      "fr": "Je vais avoir les larmes aux yeux.",
-     "audio": "audio/saetze/se_09_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_09_fp.mp3"
     }
    }
   },
@@ -875,21 +1125,21 @@ window.DATEN = {
    "de": "das gibt mir Gänsehaut",
    "register": "tu",
    "anker": "donner",
-   "audio": "audio/wendungen/se_10.mp3",
+   "audio": "audio/fr-de/wendungen/se_10.mp3",
    "satz": {
     "fr": "Le refrain me donne des frissons.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "me donne des frissons",
-    "audio": "audio/saetze/se_10.mp3"
+    "audio": "audio/fr-de/saetze/se_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Le refrain m'a donné des frissons.",
-     "audio": "audio/saetze/se_10_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_10_pc.mp3"
     },
     "fp": {
      "fr": "Le refrain va me donner des frissons.",
-     "audio": "audio/saetze/se_10_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_10_fp.mp3"
     }
    }
   },
@@ -900,21 +1150,21 @@ window.DATEN = {
    "de": "Angst haben vor",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/se_11.mp3",
+   "audio": "audio/fr-de/wendungen/se_11.mp3",
    "satz": {
     "fr": "Je n'ai pas peur du noir, mais du silence.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "ai pas peur",
-    "audio": "audio/saetze/se_11.mp3"
+    "audio": "audio/fr-de/saetze/se_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Je n'ai pas eu peur du noir.",
-     "audio": "audio/saetze/se_11_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_11_pc.mp3"
     },
     "fp": {
      "fr": "Je ne vais pas avoir peur du noir.",
-     "audio": "audio/saetze/se_11_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_11_fp.mp3"
     }
    }
   },
@@ -925,21 +1175,21 @@ window.DATEN = {
    "de": "gut gelaunt sein",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_12.mp3",
+   "audio": "audio/fr-de/wendungen/se_12.mp3",
    "satz": {
     "fr": "Ce matin, je suis de bonne humeur, le soleil est là.",
     "de": "Heute Morgen bin ich gut gelaunt, die Sonne ist da.",
     "luecke": "de bonne humeur",
-    "audio": "audio/saetze/se_12.mp3"
+    "audio": "audio/fr-de/saetze/se_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ce matin, j'étais de bonne humeur.",
-     "audio": "audio/saetze/se_12_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_12_pc.mp3"
     },
     "fp": {
      "fr": "Demain, je vais être de bonne humeur.",
-     "audio": "audio/saetze/se_12_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_12_fp.mp3"
     }
    }
   },
@@ -950,12 +1200,12 @@ window.DATEN = {
    "de": "schlecht gelaunt sein",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_13.mp3",
+   "audio": "audio/fr-de/wendungen/se_13.mp3",
    "satz": {
     "fr": "Ne lui parle pas, il est de mauvaise humeur.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "de mauvaise humeur",
-    "audio": "audio/saetze/se_13.mp3"
+    "audio": "audio/fr-de/saetze/se_13.mp3"
    },
    "zeit": null
   },
@@ -966,21 +1216,21 @@ window.DATEN = {
    "de": "das fehlt mir",
    "register": "tu",
    "anker": "manquer",
-   "audio": "audio/wendungen/se_14.mp3",
+   "audio": "audio/fr-de/wendungen/se_14.mp3",
    "satz": {
     "fr": "Mes chats me manquent quand je suis en voyage.",
     "de": "Meine Katzen fehlen mir, wenn ich unterwegs bin.",
     "luecke": "me manquent",
-    "audio": "audio/saetze/se_14.mp3"
+    "audio": "audio/fr-de/saetze/se_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mes chats m'ont manqué.",
-     "audio": "audio/saetze/se_14_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_14_pc.mp3"
     },
     "fp": {
      "fr": "Mes chats vont me manquer.",
-     "audio": "audio/saetze/se_14_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_14_fp.mp3"
     }
    }
   },
@@ -991,21 +1241,21 @@ window.DATEN = {
    "de": "schwer ums Herz sein, viel auf dem Herzen haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/se_15.mp3",
+   "audio": "audio/fr-de/wendungen/se_15.mp3",
    "satz": {
     "fr": "Après cette journée, j'en ai gros sur le cœur.",
     "de": "Nach diesem Tag ist mir schwer ums Herz.",
     "luecke": "en ai gros sur le cœur",
-    "audio": "audio/saetze/se_15.mp3"
+    "audio": "audio/fr-de/saetze/se_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'en ai eu gros sur le cœur.",
-     "audio": "audio/saetze/se_15_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_15_pc.mp3"
     },
     "fp": {
      "fr": "Je vais en avoir gros sur le cœur.",
-     "audio": "audio/saetze/se_15_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_15_fp.mp3"
     }
    }
   },
@@ -1016,12 +1266,12 @@ window.DATEN = {
    "de": "erschütternd, zutiefst bewegend",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_16.mp3",
+   "audio": "audio/fr-de/wendungen/se_16.mp3",
    "satz": {
     "fr": "La fin du film est bouleversante.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "bouleversante",
-    "audio": "audio/saetze/se_16.mp3"
+    "audio": "audio/fr-de/saetze/se_16.mp3"
    },
    "zeit": null
   },
@@ -1032,21 +1282,21 @@ window.DATEN = {
    "de": "sich gut / schlecht fühlen",
    "register": "tu",
    "anker": "se sentir",
-   "audio": "audio/wendungen/se_17.mp3",
+   "audio": "audio/fr-de/wendungen/se_17.mp3",
    "satz": {
     "fr": "Après le kung-fu, je me sens bien, léger.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "me sens bien",
-    "audio": "audio/saetze/se_17.mp3"
+    "audio": "audio/fr-de/saetze/se_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Après le kung-fu, je me suis senti bien.",
-     "audio": "audio/saetze/se_17_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_17_pc.mp3"
     },
     "fp": {
      "fr": "Après le kung-fu, je vais me sentir bien.",
-     "audio": "audio/saetze/se_17_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_17_fp.mp3"
     }
    }
   },
@@ -1057,21 +1307,21 @@ window.DATEN = {
    "de": "ein schweres Herz haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/se_18.mp3",
+   "audio": "audio/fr-de/wendungen/se_18.mp3",
    "satz": {
     "fr": "Elle est partie, et j'ai le cœur lourd.",
     "de": "Sie ist gegangen, und mir ist schwer ums Herz.",
     "luecke": "ai le cœur lourd",
-    "audio": "audio/saetze/se_18.mp3"
+    "audio": "audio/fr-de/saetze/se_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai eu le cœur lourd.",
-     "audio": "audio/saetze/se_18_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_18_pc.mp3"
     },
     "fp": {
      "fr": "Je vais avoir le cœur lourd.",
-     "audio": "audio/saetze/se_18_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_18_fp.mp3"
     }
    }
   },
@@ -1082,21 +1332,21 @@ window.DATEN = {
    "de": "das macht mich traurig / glücklich",
    "register": "tu",
    "anker": "rendre",
-   "audio": "audio/wendungen/se_19.mp3",
+   "audio": "audio/fr-de/wendungen/se_19.mp3",
    "satz": {
     "fr": "La pluie sur Paris me rend un peu triste.",
     "de": "Der Regen über Paris macht mich ein bisschen traurig.",
     "luecke": "me rend",
-    "audio": "audio/saetze/se_19.mp3"
+    "audio": "audio/fr-de/saetze/se_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "La pluie m'a rendu un peu triste.",
-     "audio": "audio/saetze/se_19_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_19_pc.mp3"
     },
     "fp": {
      "fr": "La pluie va me rendre un peu triste.",
-     "audio": "audio/saetze/se_19_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_19_fp.mp3"
     }
    }
   },
@@ -1107,12 +1357,12 @@ window.DATEN = {
    "de": "das Halbdunkel, Hell-Dunkel",
    "register": "tu",
    "anker": "adorer",
-   "audio": "audio/wendungen/se_20.mp3",
+   "audio": "audio/fr-de/wendungen/se_20.mp3",
    "satz": {
     "fr": "J'adore le clair-obscur dans les tableaux du Louvre.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden im Louvre.",
     "luecke": "clair-obscur",
-    "audio": "audio/saetze/se_20.mp3"
+    "audio": "audio/fr-de/saetze/se_20.mp3"
    },
    "zeit": null
   },
@@ -1123,12 +1373,12 @@ window.DATEN = {
    "de": "friedlich",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_21.mp3",
+   "audio": "audio/fr-de/wendungen/se_21.mp3",
    "satz": {
     "fr": "Le soir, le jardin est paisible.",
     "de": "Abends ist der Garten friedlich.",
     "luecke": "paisible",
-    "audio": "audio/saetze/se_21.mp3"
+    "audio": "audio/fr-de/saetze/se_21.mp3"
    },
    "zeit": null
   },
@@ -1139,12 +1389,12 @@ window.DATEN = {
    "de": "beklemmend, angsteinflößend",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/se_22.mp3",
+   "audio": "audio/fr-de/wendungen/se_22.mp3",
    "satz": {
     "fr": "Le couloir vide du musée était angoissant.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angoissant",
-    "audio": "audio/saetze/se_22.mp3"
+    "audio": "audio/fr-de/saetze/se_22.mp3"
    },
    "zeit": null
   },
@@ -1155,21 +1405,21 @@ window.DATEN = {
    "de": "Kummer haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/se_23.mp3",
+   "audio": "audio/fr-de/wendungen/se_23.mp3",
    "satz": {
     "fr": "Il a du chagrin depuis la mort de son chat.",
     "de": "Er hat Kummer, seit seine Katze gestorben ist.",
     "luecke": "a du chagrin",
-    "audio": "audio/saetze/se_23.mp3"
+    "audio": "audio/fr-de/saetze/se_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il a eu du chagrin.",
-     "audio": "audio/saetze/se_23_pc.mp3"
+     "audio": "audio/fr-de/saetze/se_23_pc.mp3"
     },
     "fp": {
      "fr": "Il va avoir du chagrin.",
-     "audio": "audio/saetze/se_23_fp.mp3"
+     "audio": "audio/fr-de/saetze/se_23_fp.mp3"
     }
    }
   },
@@ -1180,12 +1430,12 @@ window.DATEN = {
    "de": "es tut mir leid (höflich)",
    "register": "vous",
    "anker": "être",
-   "audio": "audio/wendungen/se_24.mp3",
+   "audio": "audio/fr-de/wendungen/se_24.mp3",
    "satz": {
     "fr": "Je suis désolé, madame, je ne voulais pas vous déranger.",
     "de": "Es tut mir leid, Madame, ich wollte Sie nicht stören.",
     "luecke": "suis désolé",
-    "audio": "audio/saetze/se_24.mp3"
+    "audio": "audio/fr-de/saetze/se_24.mp3"
    },
    "zeit": null
   },
@@ -1196,21 +1446,21 @@ window.DATEN = {
    "de": "schnurren",
    "register": "tu",
    "anker": "ronronner",
-   "audio": "audio/wendungen/ch_01.mp3",
+   "audio": "audio/fr-de/wendungen/ch_01.mp3",
    "satz": {
     "fr": "Mon chat ronronne dès que je m'assieds.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "ronronne",
-    "audio": "audio/saetze/ch_01.mp3"
+    "audio": "audio/fr-de/saetze/ch_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mon chat a ronronné dès que je me suis assis.",
-     "audio": "audio/saetze/ch_01_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_01_pc.mp3"
     },
     "fp": {
      "fr": "Mon chat va ronronner dès que je vais m'asseoir.",
-     "audio": "audio/saetze/ch_01_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_01_fp.mp3"
     }
    }
   },
@@ -1221,21 +1471,21 @@ window.DATEN = {
    "de": "kuscheln, schmusen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ch_02.mp3",
+   "audio": "audio/fr-de/wendungen/ch_02.mp3",
    "satz": {
     "fr": "Le soir, elle vient me faire un câlin sur le canapé.",
     "de": "Abends kommt sie auf dem Sofa zu mir zum Schmusen.",
     "luecke": "faire un câlin",
-    "audio": "audio/saetze/ch_02.mp3"
+    "audio": "audio/fr-de/saetze/ch_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hier soir, elle est venue me faire un câlin.",
-     "audio": "audio/saetze/ch_02_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_02_pc.mp3"
     },
     "fp": {
      "fr": "Ce soir, elle va venir me faire un câlin.",
-     "audio": "audio/saetze/ch_02_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_02_fp.mp3"
     }
    }
   },
@@ -1246,21 +1496,21 @@ window.DATEN = {
    "de": "kratzen (mit Krallen)",
    "register": "tu",
    "anker": "griffer",
-   "audio": "audio/wendungen/ch_03.mp3",
+   "audio": "audio/fr-de/wendungen/ch_03.mp3",
    "satz": {
     "fr": "Attention, il griffe quand on le caresse trop longtemps.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "griffe",
-    "audio": "audio/saetze/ch_03.mp3"
+    "audio": "audio/fr-de/saetze/ch_03.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il m'a griffé quand je l'ai caressé trop longtemps.",
-     "audio": "audio/saetze/ch_03_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_03_pc.mp3"
     },
     "fp": {
      "fr": "Il va te griffer si tu le caresses trop longtemps.",
-     "audio": "audio/saetze/ch_03_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_03_fp.mp3"
     }
    }
   },
@@ -1271,21 +1521,21 @@ window.DATEN = {
    "de": "sich putzen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ch_04.mp3",
+   "audio": "audio/fr-de/wendungen/ch_04.mp3",
    "satz": {
     "fr": "Après le repas, il fait sa toilette pendant dix minutes.",
     "de": "Nach dem Essen putzt er sich zehn Minuten lang.",
     "luecke": "fait sa toilette",
-    "audio": "audio/saetze/ch_04.mp3"
+    "audio": "audio/fr-de/saetze/ch_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Après le repas, il a fait sa toilette pendant dix minutes.",
-     "audio": "audio/saetze/ch_04_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_04_pc.mp3"
     },
     "fp": {
      "fr": "Après le repas, il va faire sa toilette.",
-     "audio": "audio/saetze/ch_04_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_04_fp.mp3"
     }
    }
   },
@@ -1296,21 +1546,21 @@ window.DATEN = {
    "de": "miauen",
    "register": "tu",
    "anker": "miauler",
-   "audio": "audio/wendungen/ch_05.mp3",
+   "audio": "audio/fr-de/wendungen/ch_05.mp3",
    "satz": {
     "fr": "Elle miaule devant la porte de la cuisine à six heures du matin.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "miaule",
-    "audio": "audio/saetze/ch_05.mp3"
+    "audio": "audio/fr-de/saetze/ch_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Elle a miaulé devant la porte à six heures du matin.",
-     "audio": "audio/saetze/ch_05_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_05_pc.mp3"
     },
     "fp": {
      "fr": "Elle va miauler devant la porte à six heures du matin.",
-     "audio": "audio/saetze/ch_05_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_05_fp.mp3"
     }
    }
   },
@@ -1321,21 +1571,21 @@ window.DATEN = {
    "de": "Hunger haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ch_06.mp3",
+   "audio": "audio/fr-de/wendungen/ch_06.mp3",
    "satz": {
     "fr": "D'après lui, il a toujours faim.",
     "de": "Wenn es nach ihm geht, hat er immer Hunger.",
     "luecke": "a toujours faim",
-    "audio": "audio/saetze/ch_06.mp3"
+    "audio": "audio/fr-de/saetze/ch_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "D'après lui, il a eu faim toute la journée.",
-     "audio": "audio/saetze/ch_06_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_06_pc.mp3"
     },
     "fp": {
      "fr": "D'après lui, il va avoir faim dans cinq minutes.",
-     "audio": "audio/saetze/ch_06_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_06_fp.mp3"
     }
    }
   },
@@ -1346,21 +1596,21 @@ window.DATEN = {
    "de": "streicheln",
    "register": "tu",
    "anker": "caresser",
-   "audio": "audio/wendungen/ch_07.mp3",
+   "audio": "audio/fr-de/wendungen/ch_07.mp3",
    "satz": {
     "fr": "Je caresse ma chatte derrière les oreilles, elle adore ça.",
     "de": "Ich streichle meine Katze hinter den Ohren, das liebt sie.",
     "luecke": "caresse",
-    "audio": "audio/saetze/ch_07.mp3"
+    "audio": "audio/fr-de/saetze/ch_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Je l'ai caressée derrière les oreilles.",
-     "audio": "audio/saetze/ch_07_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_07_pc.mp3"
     },
     "fp": {
      "fr": "Je vais la caresser derrière les oreilles.",
-     "audio": "audio/saetze/ch_07_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_07_fp.mp3"
     }
    }
   },
@@ -1371,21 +1621,21 @@ window.DATEN = {
    "de": "seine Krallen wetzen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ch_08.mp3",
+   "audio": "audio/fr-de/wendungen/ch_08.mp3",
    "satz": {
     "fr": "Il fait ses griffes sur le fauteuil, jamais sur le griffoir.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "fait ses griffes",
-    "audio": "audio/saetze/ch_08.mp3"
+    "audio": "audio/fr-de/saetze/ch_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il a fait ses griffes sur le fauteuil.",
-     "audio": "audio/saetze/ch_08_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_08_pc.mp3"
     },
     "fp": {
      "fr": "Il va faire ses griffes sur le fauteuil, c'est sûr.",
-     "audio": "audio/saetze/ch_08_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_08_fp.mp3"
     }
    }
   },
@@ -1396,12 +1646,12 @@ window.DATEN = {
    "de": "eine Raubkatze, ein Katzentier",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/ch_09.mp3",
+   "audio": "audio/fr-de/wendungen/ch_09.mp3",
    "satz": {
     "fr": "Un chat, c'est un petit félin qui a décidé de vivre avec nous.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "félin",
-    "audio": "audio/saetze/ch_09.mp3"
+    "audio": "audio/fr-de/saetze/ch_09.mp3"
    },
    "zeit": null
   },
@@ -1412,21 +1662,21 @@ window.DATEN = {
    "de": "ein Nickerchen machen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ch_10.mp3",
+   "audio": "audio/fr-de/wendungen/ch_10.mp3",
    "satz": {
     "fr": "Mon chat fait la sieste seize heures par jour. Quelle vie.",
     "de": "Meine Katze macht sechzehn Stunden am Tag Nickerchen. Was für ein Leben.",
     "luecke": "fait la sieste",
-    "audio": "audio/saetze/ch_10.mp3"
+    "audio": "audio/fr-de/saetze/ch_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mon chat a fait la sieste toute la journée.",
-     "audio": "audio/saetze/ch_10_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_10_pc.mp3"
     },
     "fp": {
      "fr": "Mon chat va faire la sieste toute la journée.",
-     "audio": "audio/saetze/ch_10_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_10_fp.mp3"
     }
    }
   },
@@ -1437,21 +1687,21 @@ window.DATEN = {
    "de": "sich reiben an",
    "register": "tu",
    "anker": "se frotter",
-   "audio": "audio/wendungen/ch_11.mp3",
+   "audio": "audio/fr-de/wendungen/ch_11.mp3",
    "satz": {
     "fr": "Elle se frotte contre mes jambes quand je rentre.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "se frotte contre",
-    "audio": "audio/saetze/ch_11.mp3"
+    "audio": "audio/fr-de/saetze/ch_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Elle s'est frottée contre mes jambes quand je suis rentré.",
-     "audio": "audio/saetze/ch_11_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_11_pc.mp3"
     },
     "fp": {
      "fr": "Elle va se frotter contre mes jambes quand je vais rentrer.",
-     "audio": "audio/saetze/ch_11_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_11_fp.mp3"
     }
    }
   },
@@ -1462,12 +1712,12 @@ window.DATEN = {
    "de": "das Trockenfutter",
    "register": "tu",
    "anker": "préférer",
-   "audio": "audio/wendungen/ch_12.mp3",
+   "audio": "audio/fr-de/wendungen/ch_12.mp3",
    "satz": {
     "fr": "Il préfère les croquettes du voisin aux siennes.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seins.",
     "luecke": "croquettes",
-    "audio": "audio/saetze/ch_12.mp3"
+    "audio": "audio/fr-de/saetze/ch_12.mp3"
    },
    "zeit": null
   },
@@ -1478,12 +1728,12 @@ window.DATEN = {
    "de": "das Nassfutter",
    "register": "tu",
    "anker": "savoir",
-   "audio": "audio/wendungen/ch_13.mp3",
+   "audio": "audio/fr-de/wendungen/ch_13.mp3",
    "satz": {
     "fr": "À midi, c'est la pâtée, et il le sait.",
     "de": "Mittags gibt es Nassfutter, und das weiß er.",
     "luecke": "pâtée",
-    "audio": "audio/saetze/ch_13.mp3"
+    "audio": "audio/fr-de/saetze/ch_13.mp3"
    },
    "zeit": null
   },
@@ -1494,12 +1744,12 @@ window.DATEN = {
    "de": "einen Blick haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ch_14.mp3",
+   "audio": "audio/fr-de/wendungen/ch_14.mp3",
    "satz": {
     "fr": "Elle a un regard qui dit : « Tu es en retard. »",
     "de": "Sie hat einen Blick, der sagt: „Du bist spät dran.“",
     "luecke": "a un regard",
-    "audio": "audio/saetze/ch_14.mp3"
+    "audio": "audio/fr-de/saetze/ch_14.mp3"
    },
    "zeit": null
   },
@@ -1510,21 +1760,21 @@ window.DATEN = {
    "de": "springen auf",
    "register": "tu",
    "anker": "sauter",
-   "audio": "audio/wendungen/ch_15.mp3",
+   "audio": "audio/fr-de/wendungen/ch_15.mp3",
    "satz": {
     "fr": "Il saute sur le bureau pendant que je corrige des copies.",
     "de": "Er springt auf den Schreibtisch, während ich Arbeiten korrigiere.",
     "luecke": "saute sur",
-    "audio": "audio/saetze/ch_15.mp3"
+    "audio": "audio/fr-de/saetze/ch_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il a sauté sur le bureau pendant que je corrigeais.",
-     "audio": "audio/saetze/ch_15_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_15_pc.mp3"
     },
     "fp": {
      "fr": "Il va sauter sur le bureau, comme d'habitude.",
-     "audio": "audio/saetze/ch_15_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_15_fp.mp3"
     }
    }
   },
@@ -1535,21 +1785,21 @@ window.DATEN = {
    "de": "sich verstecken",
    "register": "tu",
    "anker": "se cacher",
-   "audio": "audio/wendungen/ch_16.mp3",
+   "audio": "audio/fr-de/wendungen/ch_16.mp3",
    "satz": {
     "fr": "Quand l'aspirateur sort, elle se cache sous le lit.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unterm Bett.",
     "luecke": "se cache",
-    "audio": "audio/saetze/ch_16.mp3"
+    "audio": "audio/fr-de/saetze/ch_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Quand l'aspirateur est sorti, elle s'est cachée sous le lit.",
-     "audio": "audio/saetze/ch_16_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_16_pc.mp3"
     },
     "fp": {
      "fr": "Quand l'aspirateur va sortir, elle va se cacher sous le lit.",
-     "audio": "audio/saetze/ch_16_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_16_fp.mp3"
     }
    }
   },
@@ -1560,21 +1810,21 @@ window.DATEN = {
    "de": "Gesellschaft leisten",
    "register": "tu",
    "anker": "tenir",
-   "audio": "audio/wendungen/ch_17.mp3",
+   "audio": "audio/fr-de/wendungen/ch_17.mp3",
    "satz": {
     "fr": "Mes chats me tiennent compagnie quand je prépare mes cours.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich Unterricht vorbereite.",
     "luecke": "tiennent compagnie",
-    "audio": "audio/saetze/ch_17.mp3"
+    "audio": "audio/fr-de/saetze/ch_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mes chats m'ont tenu compagnie toute la soirée.",
-     "audio": "audio/saetze/ch_17_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_17_pc.mp3"
     },
     "fp": {
      "fr": "Mes chats vont me tenir compagnie ce soir.",
-     "audio": "audio/saetze/ch_17_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_17_fp.mp3"
     }
    }
   },
@@ -1585,12 +1835,12 @@ window.DATEN = {
    "de": "eine Hauskatze (ohne Rasse)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/ch_18.mp3",
+   "audio": "audio/fr-de/wendungen/ch_18.mp3",
    "satz": {
     "fr": "Ce n'est pas un chat de race, c'est un chat de gouttière, et il est parfait.",
     "de": "Es ist keine Rassekatze, es ist eine ganz normale Hauskatze, und er ist perfekt.",
     "luecke": "chat de gouttière",
-    "audio": "audio/saetze/ch_18.mp3"
+    "audio": "audio/fr-de/saetze/ch_18.mp3"
    },
    "zeit": null
   },
@@ -1601,21 +1851,21 @@ window.DATEN = {
    "de": "Unsinn machen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ch_19.mp3",
+   "audio": "audio/fr-de/wendungen/ch_19.mp3",
    "satz": {
     "fr": "Quand je ne suis pas là, ils font des bêtises.",
     "de": "Wenn ich nicht da bin, machen sie Unsinn.",
     "luecke": "font des bêtises",
-    "audio": "audio/saetze/ch_19.mp3"
+    "audio": "audio/fr-de/saetze/ch_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Quand je n'étais pas là, ils ont fait des bêtises.",
-     "audio": "audio/saetze/ch_19_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_19_pc.mp3"
     },
     "fp": {
      "fr": "Quand je ne vais pas être là, ils vont faire des bêtises.",
-     "audio": "audio/saetze/ch_19_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_19_fp.mp3"
     }
    }
   },
@@ -1626,12 +1876,12 @@ window.DATEN = {
    "de": "der Tierarzt",
    "register": "tu",
    "anker": "devenir",
-   "audio": "audio/wendungen/ch_20.mp3",
+   "audio": "audio/fr-de/wendungen/ch_20.mp3",
    "satz": {
     "fr": "Chez le vétérinaire, mon chat devient très, très calme.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "vétérinaire",
-    "audio": "audio/saetze/ch_20.mp3"
+    "audio": "audio/fr-de/saetze/ch_20.mp3"
    },
    "zeit": null
   },
@@ -1642,12 +1892,12 @@ window.DATEN = {
    "de": "das stört ihn nicht",
    "register": "tu",
    "anker": "déranger",
-   "audio": "audio/wendungen/ch_21.mp3",
+   "audio": "audio/fr-de/wendungen/ch_21.mp3",
    "satz": {
     "fr": "Je chante faux, mais ça ne le dérange pas. Enfin, je crois.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich zumindest.",
     "luecke": "ça ne le dérange pas",
-    "audio": "audio/saetze/ch_21.mp3"
+    "audio": "audio/fr-de/saetze/ch_21.mp3"
    },
    "zeit": null
   },
@@ -1658,12 +1908,12 @@ window.DATEN = {
    "de": "unabhängig sein",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/ch_22.mp3",
+   "audio": "audio/fr-de/wendungen/ch_22.mp3",
    "satz": {
     "fr": "Un chat est indépendant. Il revient quand il a faim.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "indépendant",
-    "audio": "audio/saetze/ch_22.mp3"
+    "audio": "audio/fr-de/saetze/ch_22.mp3"
    },
    "zeit": null
   },
@@ -1674,21 +1924,21 @@ window.DATEN = {
    "de": "vor Wohlbehagen schnurren",
    "register": "tu",
    "anker": "ronronner",
-   "audio": "audio/wendungen/ch_23.mp3",
+   "audio": "audio/fr-de/wendungen/ch_23.mp3",
    "satz": {
     "fr": "Au soleil, elle ronronne de plaisir, les yeux fermés.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "ronronne de plaisir",
-    "audio": "audio/saetze/ch_23.mp3"
+    "audio": "audio/fr-de/saetze/ch_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Au soleil, elle a ronronné de plaisir.",
-     "audio": "audio/saetze/ch_23_pc.mp3"
+     "audio": "audio/fr-de/saetze/ch_23_pc.mp3"
     },
     "fp": {
      "fr": "Au soleil, elle va ronronner de plaisir.",
-     "audio": "audio/saetze/ch_23_fp.mp3"
+     "audio": "audio/fr-de/saetze/ch_23_fp.mp3"
     }
    }
   },
@@ -1699,12 +1949,12 @@ window.DATEN = {
    "de": "Haben Sie eine Katze? (höflich)",
    "register": "vous",
    "anker": "avoir",
-   "audio": "audio/wendungen/ch_24.mp3",
+   "audio": "audio/fr-de/wendungen/ch_24.mp3",
    "satz": {
     "fr": "Excusez-moi, madame, est-ce que vous avez un chat ? Il y en a un sur votre toit.",
     "de": "Entschuldigung, Madame, haben Sie eine Katze? Da sitzt eine auf Ihrem Dach.",
     "luecke": "est-ce que vous avez",
-    "audio": "audio/saetze/ch_24.mp3"
+    "audio": "audio/fr-de/saetze/ch_24.mp3"
    },
    "zeit": null
   },
@@ -1715,21 +1965,21 @@ window.DATEN = {
    "de": "richtig (sauber) singen",
    "register": "tu",
    "anker": "chanter",
-   "audio": "audio/wendungen/mu_01.mp3",
+   "audio": "audio/fr-de/wendungen/mu_01.mp3",
    "satz": {
     "fr": "Mon frère chante juste, moi je chante avec le cœur.",
     "de": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
     "luecke": "chante juste",
-    "audio": "audio/saetze/mu_01.mp3"
+    "audio": "audio/fr-de/saetze/mu_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hier, j'ai chanté juste. Une fois.",
-     "audio": "audio/saetze/mu_01_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_01_pc.mp3"
     },
     "fp": {
      "fr": "Demain, je vais chanter juste. Promis.",
-     "audio": "audio/saetze/mu_01_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_01_fp.mp3"
     }
    }
   },
@@ -1740,21 +1990,21 @@ window.DATEN = {
    "de": "schief singen",
    "register": "tu",
    "anker": "chanter",
-   "audio": "audio/wendungen/mu_02.mp3",
+   "audio": "audio/fr-de/wendungen/mu_02.mp3",
    "satz": {
     "fr": "Je chante faux, mais fort. Ça compense.",
     "de": "Ich singe schief, aber laut. Das gleicht es aus.",
     "luecke": "chante faux",
-    "audio": "audio/saetze/mu_02.mp3"
+    "audio": "audio/fr-de/saetze/mu_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai chanté faux pendant tout le concert.",
-     "audio": "audio/saetze/mu_02_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_02_pc.mp3"
     },
     "fp": {
      "fr": "Je vais chanter faux, et alors ?",
-     "audio": "audio/saetze/mu_02_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_02_fp.mp3"
     }
    }
   },
@@ -1765,12 +2015,12 @@ window.DATEN = {
    "de": "der Refrain",
    "register": "tu",
    "anker": "connaître",
-   "audio": "audio/wendungen/mu_03.mp3",
+   "audio": "audio/fr-de/wendungen/mu_03.mp3",
    "satz": {
     "fr": "Je ne connais pas les paroles, mais le refrain, oui.",
     "de": "Ich kenne den Text nicht, aber den Refrain schon.",
     "luecke": "refrain",
-    "audio": "audio/saetze/mu_03.mp3"
+    "audio": "audio/fr-de/saetze/mu_03.mp3"
    },
    "zeit": null
   },
@@ -1781,12 +2031,12 @@ window.DATEN = {
    "de": "der Liedtext",
    "register": "tu",
    "anker": "donner",
-   "audio": "audio/wendungen/mu_04.mp3",
+   "audio": "audio/fr-de/wendungen/mu_04.mp3",
    "satz": {
     "fr": "Les paroles de cette chanson me donnent des frissons.",
     "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
     "luecke": "paroles",
-    "audio": "audio/saetze/mu_04.mp3"
+    "audio": "audio/fr-de/saetze/mu_04.mp3"
    },
    "zeit": null
   },
@@ -1797,21 +2047,21 @@ window.DATEN = {
    "de": "das klingt gut",
    "register": "tu",
    "anker": "sonner",
-   "audio": "audio/wendungen/mu_05.mp3",
+   "audio": "audio/fr-de/wendungen/mu_05.mp3",
    "satz": {
     "fr": "En français, cette phrase sonne bien. En allemand, moins.",
     "de": "Auf Französisch klingt dieser Satz gut. Auf Deutsch weniger.",
     "luecke": "sonne bien",
-    "audio": "audio/saetze/mu_05.mp3"
+    "audio": "audio/fr-de/saetze/mu_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ça a sonné bien du premier coup.",
-     "audio": "audio/saetze/mu_05_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_05_pc.mp3"
     },
     "fp": {
      "fr": "Ça va sonner bien, tu vas voir.",
-     "audio": "audio/saetze/mu_05_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_05_fp.mp3"
     }
    }
   },
@@ -1822,12 +2072,12 @@ window.DATEN = {
    "de": "ein gutes Gehör haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/mu_06.mp3",
+   "audio": "audio/fr-de/wendungen/mu_06.mp3",
    "satz": {
     "fr": "Aurélien a l'oreille : il entend mon accent allemand tout de suite.",
     "de": "Aurélien hat ein gutes Gehör: Er hört meinen deutschen Akzent sofort.",
     "luecke": "a l'oreille",
-    "audio": "audio/saetze/mu_06.mp3"
+    "audio": "audio/fr-de/saetze/mu_06.mp3"
    },
    "zeit": null
   },
@@ -1838,12 +2088,12 @@ window.DATEN = {
    "de": "der Akzent",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/mu_07.mp3",
+   "audio": "audio/fr-de/wendungen/mu_07.mp3",
    "satz": {
     "fr": "Mon accent, c'est un mélange de Sarre et de bonne volonté.",
     "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "luecke": "accent",
-    "audio": "audio/saetze/mu_07.mp3"
+    "audio": "audio/fr-de/saetze/mu_07.mp3"
    },
    "zeit": null
   },
@@ -1854,12 +2104,12 @@ window.DATEN = {
    "de": "die Musik der Sprache",
    "register": "tu",
    "anker": "aimer",
-   "audio": "audio/wendungen/mu_08.mp3",
+   "audio": "audio/fr-de/wendungen/mu_08.mp3",
    "satz": {
     "fr": "Ce que j'aime en français, c'est la musique de la langue.",
     "de": "Was ich am Französischen liebe, ist die Musik der Sprache.",
     "luecke": "musique de la langue",
-    "audio": "audio/saetze/mu_08.mp3"
+    "audio": "audio/fr-de/saetze/mu_08.mp3"
    },
    "zeit": null
   },
@@ -1870,21 +2120,21 @@ window.DATEN = {
    "de": "ein Instrument spielen",
    "register": "tu",
    "anker": "jouer",
-   "audio": "audio/wendungen/mu_09.mp3",
+   "audio": "audio/fr-de/wendungen/mu_09.mp3",
    "satz": {
     "fr": "Tu joues d'un instrument ? – Oui, de la guitare, mal.",
     "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "luecke": "joues d'un instrument",
-    "audio": "audio/saetze/mu_09.mp3"
+    "audio": "audio/fr-de/saetze/mu_09.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai joué de la guitare toute la soirée.",
-     "audio": "audio/saetze/mu_09_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_09_pc.mp3"
     },
     "fp": {
      "fr": "Je vais jouer de la guitare ce soir.",
-     "audio": "audio/saetze/mu_09_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_09_fp.mp3"
     }
    }
   },
@@ -1895,21 +2145,21 @@ window.DATEN = {
    "de": "in Dauerschleife hören",
    "register": "tu",
    "anker": "écouter",
-   "audio": "audio/wendungen/mu_10.mp3",
+   "audio": "audio/fr-de/wendungen/mu_10.mp3",
    "satz": {
     "fr": "J'écoute cette chanson en boucle depuis trois jours.",
     "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "luecke": "en boucle",
-    "audio": "audio/saetze/mu_10.mp3"
+    "audio": "audio/fr-de/saetze/mu_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai écouté cette chanson en boucle tout le week-end.",
-     "audio": "audio/saetze/mu_10_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_10_pc.mp3"
     },
     "fp": {
      "fr": "Je vais l'écouter en boucle, je le sens.",
-     "audio": "audio/saetze/mu_10_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_10_fp.mp3"
     }
    }
   },
@@ -1920,12 +2170,12 @@ window.DATEN = {
    "de": "einen Ohrwurm haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/mu_11.mp3",
+   "audio": "audio/fr-de/wendungen/mu_11.mp3",
    "satz": {
     "fr": "J'ai « Ne me quitte pas » dans la tête depuis ce matin. Merci, Aurélien.",
     "de": "Ich habe seit heute Morgen „Ne me quitte pas“ als Ohrwurm. Danke, Aurélien.",
     "luecke": "dans la tête",
-    "audio": "audio/saetze/mu_11.mp3"
+    "audio": "audio/fr-de/saetze/mu_11.mp3"
    },
    "zeit": null
   },
@@ -1936,21 +2186,21 @@ window.DATEN = {
    "de": "summen",
    "register": "tu",
    "anker": "fredonner",
-   "audio": "audio/wendungen/mu_12.mp3",
+   "audio": "audio/fr-de/wendungen/mu_12.mp3",
    "satz": {
     "fr": "Je fredonne en corrigeant des copies. Les élèves ne le savent pas.",
     "de": "Ich summe beim Korrigieren. Die Schüler wissen das nicht.",
     "luecke": "fredonne",
-    "audio": "audio/saetze/mu_12.mp3"
+    "audio": "audio/fr-de/saetze/mu_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fredonné toute la matinée.",
-     "audio": "audio/saetze/mu_12_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_12_pc.mp3"
     },
     "fp": {
      "fr": "Je vais fredonner toute la journée.",
-     "audio": "audio/saetze/mu_12_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_12_fp.mp3"
     }
    }
   },
@@ -1961,12 +2211,12 @@ window.DATEN = {
    "de": "der Rhythmus",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/mu_13.mp3",
+   "audio": "audio/fr-de/wendungen/mu_13.mp3",
    "satz": {
     "fr": "Le français a un rythme : on accentue la fin des mots.",
     "de": "Das Französische hat einen Rhythmus: Man betont das Wortende.",
     "luecke": "rythme",
-    "audio": "audio/saetze/mu_13.mp3"
+    "audio": "audio/fr-de/saetze/mu_13.mp3"
    },
    "zeit": null
   },
@@ -1977,12 +2227,12 @@ window.DATEN = {
    "de": "die Liaison (Bindung)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/mu_14.mp3",
+   "audio": "audio/fr-de/wendungen/mu_14.mp3",
    "satz": {
     "fr": "Les‿enfants, les‿amis : la liaison, c'est la musique entre les mots.",
     "de": "Les‿enfants, les‿amis: Die Liaison ist die Musik zwischen den Wörtern.",
     "luecke": "liaison",
-    "audio": "audio/saetze/mu_14.mp3"
+    "audio": "audio/fr-de/saetze/mu_14.mp3"
    },
    "zeit": null
   },
@@ -1993,21 +2243,21 @@ window.DATEN = {
    "de": "aussprechen",
    "register": "tu",
    "anker": "prononcer",
-   "audio": "audio/wendungen/mu_15.mp3",
+   "audio": "audio/fr-de/wendungen/mu_15.mp3",
    "satz": {
     "fr": "Je n'arrive pas à prononcer « grenouille ». Je dis « grenade ».",
     "de": "Ich kann „grenouille“ nicht aussprechen. Ich sage „grenade“.",
     "luecke": "prononcer",
-    "audio": "audio/saetze/mu_15.mp3"
+    "audio": "audio/fr-de/saetze/mu_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai prononcé « grenouille » correctement. Une fois.",
-     "audio": "audio/saetze/mu_15_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_15_pc.mp3"
     },
     "fp": {
      "fr": "Je vais prononcer ce mot cent fois.",
-     "audio": "audio/saetze/mu_15_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_15_fp.mp3"
     }
    }
   },
@@ -2018,12 +2268,12 @@ window.DATEN = {
    "de": "ein Musikstück",
    "register": "tu",
    "anker": "rendre",
-   "audio": "audio/wendungen/mu_16.mp3",
+   "audio": "audio/fr-de/wendungen/mu_16.mp3",
    "satz": {
     "fr": "Ce morceau de piano me rend heureux et triste en même temps.",
     "de": "Dieses Klavierstück macht mich gleichzeitig glücklich und traurig.",
     "luecke": "morceau",
-    "audio": "audio/saetze/mu_16.mp3"
+    "audio": "audio/fr-de/saetze/mu_16.mp3"
    },
    "zeit": null
   },
@@ -2034,12 +2284,12 @@ window.DATEN = {
    "de": "aus voller Kehle",
    "register": "tu",
    "anker": "chanter",
-   "audio": "audio/wendungen/mu_17.mp3",
+   "audio": "audio/fr-de/wendungen/mu_17.mp3",
    "satz": {
     "fr": "Dans la voiture, je chante à tue-tête. Seul. Toujours seul.",
     "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "luecke": "à tue-tête",
-    "audio": "audio/saetze/mu_17.mp3"
+    "audio": "audio/fr-de/saetze/mu_17.mp3"
    },
    "zeit": null
   },
@@ -2050,12 +2300,12 @@ window.DATEN = {
    "de": "eine tiefe / hohe Stimme",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/mu_18.mp3",
+   "audio": "audio/fr-de/wendungen/mu_18.mp3",
    "satz": {
     "fr": "Il a une voix grave, elle a une voix aiguë, et moi j'ai une voix de prof.",
     "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "luecke": "voix grave",
-    "audio": "audio/saetze/mu_18.mp3"
+    "audio": "audio/fr-de/saetze/mu_18.mp3"
    },
    "zeit": null
   },
@@ -2066,21 +2316,21 @@ window.DATEN = {
    "de": "das spricht mich an",
    "register": "tu",
    "anker": "parler",
-   "audio": "audio/wendungen/mu_19.mp3",
+   "audio": "audio/fr-de/wendungen/mu_19.mp3",
    "satz": {
     "fr": "Cette chanson me parle. Je ne comprends pas tout, mais elle me parle.",
     "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "luecke": "me parle",
-    "audio": "audio/saetze/mu_19.mp3"
+    "audio": "audio/fr-de/saetze/mu_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Cette chanson m'a parlé tout de suite.",
-     "audio": "audio/saetze/mu_19_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_19_pc.mp3"
     },
     "fp": {
      "fr": "Cette chanson va te parler, j'en suis sûr.",
-     "audio": "audio/saetze/mu_19_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_19_fp.mp3"
     }
    }
   },
@@ -2091,21 +2341,21 @@ window.DATEN = {
    "de": "auswendig lernen",
    "register": "tu",
    "anker": "apprendre",
-   "audio": "audio/wendungen/mu_20.mp3",
+   "audio": "audio/fr-de/wendungen/mu_20.mp3",
    "satz": {
     "fr": "J'apprends les paroles par cœur, c'est mon vocabulaire préféré.",
     "de": "Ich lerne die Liedtexte auswendig, das ist mein liebstes Vokabular.",
     "luecke": "par cœur",
-    "audio": "audio/saetze/mu_20.mp3"
+    "audio": "audio/fr-de/saetze/mu_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai appris le refrain par cœur.",
-     "audio": "audio/saetze/mu_20_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_20_pc.mp3"
     },
     "fp": {
      "fr": "Je vais apprendre toute la chanson par cœur.",
-     "audio": "audio/saetze/mu_20_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_20_fp.mp3"
     }
    }
   },
@@ -2116,21 +2366,21 @@ window.DATEN = {
    "de": "das falsche Wort erwischen",
    "register": "tu",
    "anker": "se tromper",
-   "audio": "audio/wendungen/mu_21.mp3",
+   "audio": "audio/fr-de/wendungen/mu_21.mp3",
    "satz": {
     "fr": "Je me trompe souvent de mot, mais la mélodie est juste.",
     "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
     "luecke": "me trompe",
-    "audio": "audio/saetze/mu_21.mp3"
+    "audio": "audio/fr-de/saetze/mu_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Je me suis trompé de mot. Encore.",
-     "audio": "audio/saetze/mu_21_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_21_pc.mp3"
     },
     "fp": {
      "fr": "Je vais me tromper de mot, c'est sûr.",
-     "audio": "audio/saetze/mu_21_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_21_fp.mp3"
     }
    }
   },
@@ -2141,21 +2391,21 @@ window.DATEN = {
    "de": "das tut mir gut",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/mu_22.mp3",
+   "audio": "audio/fr-de/wendungen/mu_22.mp3",
    "satz": {
     "fr": "Chanter le soir, ça me fait du bien.",
     "de": "Abends singen tut mir gut.",
     "luecke": "me fait du bien",
-    "audio": "audio/saetze/mu_22.mp3"
+    "audio": "audio/fr-de/saetze/mu_22.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ça m'a fait du bien.",
-     "audio": "audio/saetze/mu_22_pc.mp3"
+     "audio": "audio/fr-de/saetze/mu_22_pc.mp3"
     },
     "fp": {
      "fr": "Ça va me faire du bien.",
-     "audio": "audio/saetze/mu_22_fp.mp3"
+     "audio": "audio/fr-de/saetze/mu_22_fp.mp3"
     }
    }
   },
@@ -2166,12 +2416,12 @@ window.DATEN = {
    "de": "eine singende (melodische) Sprache",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/mu_23.mp3",
+   "audio": "audio/fr-de/wendungen/mu_23.mp3",
    "satz": {
     "fr": "Le français est une langue chantante. Même quand on râle.",
     "de": "Französisch ist eine singende Sprache. Sogar wenn man meckert.",
     "luecke": "chantante",
-    "audio": "audio/saetze/mu_23.mp3"
+    "audio": "audio/fr-de/saetze/mu_23.mp3"
    },
    "zeit": null
   },
@@ -2182,12 +2432,12 @@ window.DATEN = {
    "de": "Könnten Sie das langsamer wiederholen? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
-   "audio": "audio/wendungen/mu_24.mp3",
+   "audio": "audio/fr-de/wendungen/mu_24.mp3",
    "satz": {
     "fr": "Pardon, pourriez-vous répéter plus lentement ? J'écoute la musique, pas les mots.",
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "pourriez-vous répéter",
-    "audio": "audio/saetze/mu_24.mp3"
+    "audio": "audio/fr-de/saetze/mu_24.mp3"
    },
    "zeit": null
   },
@@ -2198,12 +2448,12 @@ window.DATEN = {
    "de": "es war einmal",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/hi_01.mp3",
+   "audio": "audio/fr-de/wendungen/hi_01.mp3",
    "satz": {
     "fr": "Il était une fois un professeur qui ne corrigeait jamais ses copies. C'est un conte.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "Il était une fois",
-    "audio": "audio/saetze/hi_01.mp3"
+    "audio": "audio/fr-de/saetze/hi_01.mp3"
    },
    "zeit": null
   },
@@ -2214,21 +2464,21 @@ window.DATEN = {
    "de": "eine Geschichte erzählen",
    "register": "tu",
    "anker": "raconter",
-   "audio": "audio/wendungen/hi_02.mp3",
+   "audio": "audio/fr-de/wendungen/hi_02.mp3",
    "satz": {
     "fr": "Le soir, je raconte une histoire à mon chat. Il s'endort avant la fin.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "raconte une histoire",
-    "audio": "audio/saetze/hi_02.mp3"
+    "audio": "audio/fr-de/saetze/hi_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hier soir, j'ai raconté une histoire à mon chat.",
-     "audio": "audio/saetze/hi_02_pc.mp3"
+     "audio": "audio/fr-de/saetze/hi_02_pc.mp3"
     },
     "fp": {
      "fr": "Ce soir, je vais raconter une histoire à mon chat.",
-     "audio": "audio/saetze/hi_02_fp.mp3"
+     "audio": "audio/fr-de/saetze/hi_02_fp.mp3"
     }
    }
   },
@@ -2239,12 +2489,12 @@ window.DATEN = {
    "de": "die Suche, die Queste",
    "register": "tu",
    "anker": "commencer",
-   "audio": "audio/wendungen/hi_03.mp3",
+   "audio": "audio/fr-de/wendungen/hi_03.mp3",
    "satz": {
     "fr": "Chaque bon roman commence par une quête. Même si c'est juste chercher ses clés.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur um die Schlüssel geht.",
     "luecke": "quête",
-    "audio": "audio/saetze/hi_03.mp3"
+    "audio": "audio/fr-de/saetze/hi_03.mp3"
    },
    "zeit": null
   },
@@ -2255,12 +2505,12 @@ window.DATEN = {
    "de": "tief im Wald",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/hi_04.mp3",
+   "audio": "audio/fr-de/wendungen/hi_04.mp3",
    "satz": {
     "fr": "Au fond de la forêt, il y avait une maison. Et dans la maison, une lumière.",
     "de": "Tief im Wald stand ein Haus. Und im Haus brannte ein Licht.",
     "luecke": "Au fond de la forêt",
-    "audio": "audio/saetze/hi_04.mp3"
+    "audio": "audio/fr-de/saetze/hi_04.mp3"
    },
    "zeit": null
   },
@@ -2271,12 +2521,12 @@ window.DATEN = {
    "de": "ein Drache",
    "register": "tu",
    "anker": "cracher",
-   "audio": "audio/wendungen/hi_05.mp3",
+   "audio": "audio/fr-de/wendungen/hi_05.mp3",
    "satz": {
     "fr": "Le dragon ne crachait pas de feu. Il crachait des devoirs.",
     "de": "Der Drache spuckte kein Feuer. Er spuckte Hausaufgaben.",
     "luecke": "dragon",
-    "audio": "audio/saetze/hi_05.mp3"
+    "audio": "audio/fr-de/saetze/hi_05.mp3"
    },
    "zeit": null
   },
@@ -2287,12 +2537,12 @@ window.DATEN = {
    "de": "ein Schwert",
    "register": "tu",
    "anker": "prendre",
-   "audio": "audio/wendungen/hi_06.mp3",
+   "audio": "audio/fr-de/wendungen/hi_06.mp3",
    "satz": {
     "fr": "Le héros a pris son épée. Elle était lourde, comme un lundi.",
     "de": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "luecke": "épée",
-    "audio": "audio/saetze/hi_06.mp3"
+    "audio": "audio/fr-de/saetze/hi_06.mp3"
    },
    "zeit": null
   },
@@ -2303,21 +2553,21 @@ window.DATEN = {
    "de": "ein Zauber",
    "register": "tu",
    "anker": "transformer",
-   "audio": "audio/wendungen/hi_07.mp3",
+   "audio": "audio/fr-de/wendungen/hi_07.mp3",
    "satz": {
     "fr": "Un sortilège a transformé la classe en silence. Ça n'a duré que trois minutes.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es hielt nur drei Minuten.",
     "luecke": "sortilège",
-    "audio": "audio/saetze/hi_07.mp3"
+    "audio": "audio/fr-de/saetze/hi_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Un sortilège a transformé la classe.",
-     "audio": "audio/saetze/hi_07_pc.mp3"
+     "audio": "audio/fr-de/saetze/hi_07_pc.mp3"
     },
     "fp": {
      "fr": "Un sortilège va transformer la classe.",
-     "audio": "audio/saetze/hi_07_fp.mp3"
+     "audio": "audio/fr-de/saetze/hi_07_fp.mp3"
     }
    }
   },
@@ -2328,12 +2578,12 @@ window.DATEN = {
    "de": "plötzlich, mit einem Schlag",
    "register": "tu",
    "anker": "ouvrir",
-   "audio": "audio/wendungen/hi_08.mp3",
+   "audio": "audio/fr-de/wendungen/hi_08.mp3",
    "satz": {
     "fr": "D'un coup, la porte s'est ouverte. Personne. Juste le vent. Enfin, j'espère.",
     "de": "Plötzlich ging die Tür auf. Niemand. Nur der Wind. Hoffe ich zumindest.",
     "luecke": "D'un coup",
-    "audio": "audio/saetze/hi_08.mp3"
+    "audio": "audio/fr-de/saetze/hi_08.mp3"
    },
    "zeit": null
   },
@@ -2344,12 +2594,12 @@ window.DATEN = {
    "de": "ein Geheimnis haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/hi_09.mp3",
+   "audio": "audio/fr-de/wendungen/hi_09.mp3",
    "satz": {
     "fr": "Tout le monde a un secret dans cette histoire. Même le chat.",
     "de": "Jeder in dieser Geschichte hat ein Geheimnis. Sogar die Katze.",
     "luecke": "a un secret",
-    "audio": "audio/saetze/hi_09.mp3"
+    "audio": "audio/fr-de/saetze/hi_09.mp3"
    },
    "zeit": null
   },
@@ -2360,12 +2610,12 @@ window.DATEN = {
    "de": "ein Königreich",
    "register": "tu",
    "anker": "parler",
-   "audio": "audio/wendungen/hi_10.mp3",
+   "audio": "audio/fr-de/wendungen/hi_10.mp3",
    "satz": {
     "fr": "Dans ce royaume, les livres parlaient et les gens écoutaient.",
     "de": "In diesem Königreich sprachen die Bücher, und die Menschen hörten zu.",
     "luecke": "royaume",
-    "audio": "audio/saetze/hi_10.mp3"
+    "audio": "audio/fr-de/saetze/hi_10.mp3"
    },
    "zeit": null
   },
@@ -2376,12 +2626,12 @@ window.DATEN = {
    "de": "ein Zauberer / eine Hexe",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/hi_11.mp3",
+   "audio": "audio/fr-de/wendungen/hi_11.mp3",
    "satz": {
     "fr": "La sorcière n'était pas méchante. Elle était fatiguée. Je la comprends.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "sorcière",
-    "audio": "audio/saetze/hi_11.mp3"
+    "audio": "audio/fr-de/saetze/hi_11.mp3"
    },
    "zeit": null
   },
@@ -2392,21 +2642,21 @@ window.DATEN = {
    "de": "sich verwandeln in",
    "register": "tu",
    "anker": "se transformer",
-   "audio": "audio/wendungen/hi_12.mp3",
+   "audio": "audio/fr-de/wendungen/hi_12.mp3",
    "satz": {
     "fr": "À minuit, le prof se transforme en lecteur. Jusqu'à deux heures du matin.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "se transforme en",
-    "audio": "audio/saetze/hi_12.mp3"
+    "audio": "audio/fr-de/saetze/hi_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "À minuit, le prof s'est transformé en lecteur.",
-     "audio": "audio/saetze/hi_12_pc.mp3"
+     "audio": "audio/fr-de/saetze/hi_12_pc.mp3"
     },
     "fp": {
      "fr": "À minuit, le prof va se transformer en lecteur.",
-     "audio": "audio/saetze/hi_12_fp.mp3"
+     "audio": "audio/fr-de/saetze/hi_12_fp.mp3"
     }
    }
   },
@@ -2417,12 +2667,12 @@ window.DATEN = {
    "de": "auf einmal",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/hi_13.mp3",
+   "audio": "audio/fr-de/wendungen/hi_13.mp3",
    "satz": {
     "fr": "Tout à coup, le silence. Puis une voix : « Monsieur, c'est quand la pause ? »",
     "de": "Auf einmal Stille. Dann eine Stimme: „Monsieur, wann ist Pause?“",
     "luecke": "Tout à coup",
-    "audio": "audio/saetze/hi_13.mp3"
+    "audio": "audio/fr-de/saetze/hi_13.mp3"
    },
    "zeit": null
   },
@@ -2433,12 +2683,12 @@ window.DATEN = {
    "de": "ein Held / eine Heldin",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/hi_14.mp3",
+   "audio": "audio/fr-de/wendungen/hi_14.mp3",
    "satz": {
     "fr": "Le héros de mon roman préféré a peur de tout. C'est pour ça qu'il est courageux.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "héros",
-    "audio": "audio/saetze/hi_14.mp3"
+    "audio": "audio/fr-de/saetze/hi_14.mp3"
    },
    "zeit": null
   },
@@ -2449,12 +2699,12 @@ window.DATEN = {
    "de": "der Bösewicht",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/hi_15.mp3",
+   "audio": "audio/fr-de/wendungen/hi_15.mp3",
    "satz": {
     "fr": "Le méchant de l'histoire, c'est le réveil. Six heures. Chaque jour.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "méchant",
-    "audio": "audio/saetze/hi_15.mp3"
+    "audio": "audio/fr-de/saetze/hi_15.mp3"
    },
    "zeit": null
   },
@@ -2465,21 +2715,21 @@ window.DATEN = {
    "de": "eine Schatzkarte",
    "register": "tu",
    "anker": "trouver",
-   "audio": "audio/wendungen/hi_16.mp3",
+   "audio": "audio/fr-de/wendungen/hi_16.mp3",
    "satz": {
     "fr": "J'ai trouvé une carte au trésor dans un cahier. C'était un plan de la cantine.",
     "de": "Ich habe eine Schatzkarte in einem Heft gefunden. Es war ein Plan der Mensa.",
     "luecke": "carte au trésor",
-    "audio": "audio/saetze/hi_16.mp3"
+    "audio": "audio/fr-de/saetze/hi_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai trouvé une carte au trésor.",
-     "audio": "audio/saetze/hi_16_pc.mp3"
+     "audio": "audio/fr-de/saetze/hi_16_pc.mp3"
     },
     "fp": {
      "fr": "Je vais trouver une carte au trésor, un jour.",
-     "audio": "audio/saetze/hi_16_fp.mp3"
+     "audio": "audio/fr-de/saetze/hi_16_fp.mp3"
     }
    }
   },
@@ -2490,12 +2740,12 @@ window.DATEN = {
    "de": "es heißt, dass",
    "register": "tu",
    "anker": "paraître",
-   "audio": "audio/wendungen/hi_17.mp3",
+   "audio": "audio/fr-de/wendungen/hi_17.mp3",
    "satz": {
     "fr": "Il paraît que la salle 13 existe. Il paraît aussi que le chat y dort.",
     "de": "Es heißt, Saal 13 gibt es. Es heißt auch, die Katze schläft dort.",
     "luecke": "Il paraît que",
-    "audio": "audio/saetze/hi_17.mp3"
+    "audio": "audio/fr-de/saetze/hi_17.mp3"
    },
    "zeit": null
   },
@@ -2506,21 +2756,21 @@ window.DATEN = {
    "de": "verschwinden",
    "register": "tu",
    "anker": "disparaître",
-   "audio": "audio/wendungen/hi_18.mp3",
+   "audio": "audio/fr-de/wendungen/hi_18.mp3",
    "satz": {
     "fr": "Dans ce roman, les gens disparaissent. Dans ma classe, ce sont les stylos.",
     "de": "In diesem Roman verschwinden Menschen. In meiner Klasse sind es die Stifte.",
     "luecke": "disparaissent",
-    "audio": "audio/saetze/hi_18.mp3"
+    "audio": "audio/fr-de/saetze/hi_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dans ce roman, trois personnes ont disparu.",
-     "audio": "audio/saetze/hi_18_pc.mp3"
+     "audio": "audio/fr-de/saetze/hi_18_pc.mp3"
     },
     "fp": {
      "fr": "Dans ce roman, tout le monde va disparaître.",
-     "audio": "audio/saetze/hi_18_fp.mp3"
+     "audio": "audio/fr-de/saetze/hi_18_fp.mp3"
     }
    }
   },
@@ -2531,12 +2781,12 @@ window.DATEN = {
    "de": "die Fortsetzung",
    "register": "tu",
    "anker": "lire",
-   "audio": "audio/wendungen/hi_19.mp3",
+   "audio": "audio/fr-de/wendungen/hi_19.mp3",
    "satz": {
     "fr": "Je veux lire la suite tout de suite. Mais il est minuit. Je lis la suite.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "suite",
-    "audio": "audio/saetze/hi_19.mp3"
+    "audio": "audio/fr-de/saetze/hi_19.mp3"
    },
    "zeit": null
   },
@@ -2547,21 +2797,21 @@ window.DATEN = {
    "de": "in Atem (gespannt)",
    "register": "tu",
    "anker": "tenir",
-   "audio": "audio/wendungen/hi_20.mp3",
+   "audio": "audio/fr-de/wendungen/hi_20.mp3",
    "satz": {
     "fr": "Ce livre me tient en haleine depuis trois nuits.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "en haleine",
-    "audio": "audio/saetze/hi_20.mp3"
+    "audio": "audio/fr-de/saetze/hi_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ce livre m'a tenu en haleine toute la nuit.",
-     "audio": "audio/saetze/hi_20_pc.mp3"
+     "audio": "audio/fr-de/saetze/hi_20_pc.mp3"
     },
     "fp": {
      "fr": "Ce livre va me tenir en haleine, je le sais.",
-     "audio": "audio/saetze/hi_20_fp.mp3"
+     "audio": "audio/fr-de/saetze/hi_20_fp.mp3"
     }
    }
   },
@@ -2572,21 +2822,21 @@ window.DATEN = {
    "de": "schaudern, zittern",
    "register": "tu",
    "anker": "frissonner",
-   "audio": "audio/wendungen/hi_21.mp3",
+   "audio": "audio/fr-de/wendungen/hi_21.mp3",
    "satz": {
     "fr": "Je frissonne à chaque chapitre. Et je continue. C'est ça, la fantasy.",
     "de": "Ich schaudere bei jedem Kapitel. Und lese weiter. Das ist Fantasy.",
     "luecke": "frissonne",
-    "audio": "audio/saetze/hi_21.mp3"
+    "audio": "audio/fr-de/saetze/hi_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai frissonné à la fin du chapitre.",
-     "audio": "audio/saetze/hi_21_pc.mp3"
+     "audio": "audio/fr-de/saetze/hi_21_pc.mp3"
     },
     "fp": {
      "fr": "Tu vas frissonner, c'est promis.",
-     "audio": "audio/saetze/hi_21_fp.mp3"
+     "audio": "audio/fr-de/saetze/hi_21_fp.mp3"
     }
    }
   },
@@ -2597,12 +2847,12 @@ window.DATEN = {
    "de": "eine Wendung (in der Handlung)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/hi_22.mp3",
+   "audio": "audio/fr-de/wendungen/hi_22.mp3",
    "satz": {
     "fr": "Un rebondissement à la page 200 : le chat était le roi depuis le début.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "rebondissement",
-    "audio": "audio/saetze/hi_22.mp3"
+    "audio": "audio/fr-de/saetze/hi_22.mp3"
    },
    "zeit": null
   },
@@ -2613,12 +2863,12 @@ window.DATEN = {
    "de": "das Ende",
    "register": "tu",
    "anker": "raconter",
-   "audio": "audio/wendungen/hi_23.mp3",
+   "audio": "audio/fr-de/wendungen/hi_23.mp3",
    "satz": {
     "fr": "La fin de cette histoire ? Je ne la raconte pas. Lis le livre.",
     "de": "Das Ende dieser Geschichte? Ich verrate es nicht. Lies das Buch.",
     "luecke": "fin",
-    "audio": "audio/saetze/hi_23.mp3"
+    "audio": "audio/fr-de/saetze/hi_23.mp3"
    },
    "zeit": null
   },
@@ -2629,12 +2879,12 @@ window.DATEN = {
    "de": "Könnten Sie mir ein Buch empfehlen? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
-   "audio": "audio/wendungen/hi_24.mp3",
+   "audio": "audio/fr-de/wendungen/hi_24.mp3",
    "satz": {
     "fr": "Bonjour, pourriez-vous me conseiller un livre ? Un peu sombre, un peu magique.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "pourriez-vous me conseiller",
-    "audio": "audio/saetze/hi_24.mp3"
+    "audio": "audio/fr-de/saetze/hi_24.mp3"
    },
    "zeit": null
   },
@@ -2645,21 +2895,21 @@ window.DATEN = {
    "de": "trainieren",
    "register": "tu",
    "anker": "s'entraîner",
-   "audio": "audio/wendungen/sp_01.mp3",
+   "audio": "audio/fr-de/wendungen/sp_01.mp3",
    "satz": {
     "fr": "Je m'entraîne trois fois par semaine. Deux, si je suis honnête.",
     "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "luecke": "m'entraîne",
-    "audio": "audio/saetze/sp_01.mp3"
+    "audio": "audio/fr-de/saetze/sp_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Je me suis entraîné trois fois cette semaine.",
-     "audio": "audio/saetze/sp_01_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_01_pc.mp3"
     },
     "fp": {
      "fr": "Je vais m'entraîner trois fois cette semaine. Deux.",
-     "audio": "audio/saetze/sp_01_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_01_fp.mp3"
     }
    }
   },
@@ -2670,12 +2920,12 @@ window.DATEN = {
    "de": "ein Tritt",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/sp_02.mp3",
+   "audio": "audio/fr-de/wendungen/sp_02.mp3",
    "satz": {
     "fr": "Un bon coup de pied, c'est d'abord une bonne position.",
     "de": "Ein guter Tritt ist zuerst ein guter Stand.",
     "luecke": "coup de pied",
-    "audio": "audio/saetze/sp_02.mp3"
+    "audio": "audio/fr-de/saetze/sp_02.mp3"
    },
    "zeit": null
   },
@@ -2686,12 +2936,12 @@ window.DATEN = {
    "de": "ein Fausthieb",
    "register": "tu",
    "anker": "partir",
-   "audio": "audio/wendungen/sp_03.mp3",
+   "audio": "audio/fr-de/wendungen/sp_03.mp3",
    "satz": {
     "fr": "En kung-fu, le coup de poing part de la hanche, pas du bras.",
     "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
     "luecke": "coup de poing",
-    "audio": "audio/saetze/sp_03.mp3"
+    "audio": "audio/fr-de/saetze/sp_03.mp3"
    },
    "zeit": null
   },
@@ -2702,12 +2952,12 @@ window.DATEN = {
    "de": "die Beweglichkeit",
    "register": "tu",
    "anker": "travailler",
-   "audio": "audio/wendungen/sp_04.mp3",
+   "audio": "audio/fr-de/wendungen/sp_04.mp3",
    "satz": {
     "fr": "À quarante ans, la souplesse se travaille tous les jours. Sinon, elle part.",
     "de": "Mit vierzig muss man die Beweglichkeit täglich üben. Sonst geht sie.",
     "luecke": "souplesse",
-    "audio": "audio/saetze/sp_04.mp3"
+    "audio": "audio/fr-de/saetze/sp_04.mp3"
    },
    "zeit": null
   },
@@ -2718,21 +2968,21 @@ window.DATEN = {
    "de": "ruhig bleiben",
    "register": "tu",
    "anker": "garder",
-   "audio": "audio/wendungen/sp_05.mp3",
+   "audio": "audio/fr-de/wendungen/sp_05.mp3",
    "satz": {
     "fr": "En combat comme en classe : garder son calme, respirer, attendre.",
     "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, abwarten.",
     "luecke": "garder son calme",
-    "audio": "audio/saetze/sp_05.mp3"
+    "audio": "audio/fr-de/saetze/sp_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai gardé mon calme. Presque.",
-     "audio": "audio/saetze/sp_05_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_05_pc.mp3"
     },
     "fp": {
      "fr": "Je vais garder mon calme. Promis.",
-     "audio": "audio/saetze/sp_05_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_05_fp.mp3"
     }
    }
   },
@@ -2743,21 +2993,21 @@ window.DATEN = {
    "de": "sich aufwärmen",
    "register": "tu",
    "anker": "s'échauffer",
-   "audio": "audio/wendungen/sp_06.mp3",
+   "audio": "audio/fr-de/wendungen/sp_06.mp3",
    "satz": {
     "fr": "Avant de m'entraîner, je m'échauffe dix minutes. Mon dos me dit merci.",
     "de": "Vor dem Training wärme ich mich zehn Minuten auf. Mein Rücken dankt es mir.",
     "luecke": "m'échauffe",
-    "audio": "audio/saetze/sp_06.mp3"
+    "audio": "audio/fr-de/saetze/sp_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Je me suis échauffé dix minutes.",
-     "audio": "audio/saetze/sp_06_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_06_pc.mp3"
     },
     "fp": {
      "fr": "Je vais m'échauffer dix minutes.",
-     "audio": "audio/saetze/sp_06_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_06_fp.mp3"
     }
    }
   },
@@ -2768,21 +3018,21 @@ window.DATEN = {
    "de": "Muskelkater haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/sp_07.mp3",
+   "audio": "audio/fr-de/wendungen/sp_07.mp3",
    "satz": {
     "fr": "Le lendemain, j'ai des courbatures partout. Même dans les oreilles.",
     "de": "Am nächsten Tag habe ich überall Muskelkater. Sogar in den Ohren.",
     "luecke": "ai des courbatures",
-    "audio": "audio/saetze/sp_07.mp3"
+    "audio": "audio/fr-de/saetze/sp_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Le lendemain, j'ai eu des courbatures partout.",
-     "audio": "audio/saetze/sp_07_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_07_pc.mp3"
     },
     "fp": {
      "fr": "Demain, je vais avoir des courbatures partout.",
-     "audio": "audio/saetze/sp_07_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_07_fp.mp3"
     }
    }
   },
@@ -2793,21 +3043,21 @@ window.DATEN = {
    "de": "fit sein",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/sp_08.mp3",
+   "audio": "audio/fr-de/wendungen/sp_08.mp3",
    "satz": {
     "fr": "Je suis en forme le matin. L'après-midi, je suis prof.",
     "de": "Morgens bin ich fit. Nachmittags bin ich Lehrer.",
     "luecke": "en forme",
-    "audio": "audio/saetze/sp_08.mp3"
+    "audio": "audio/fr-de/saetze/sp_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai été en forme toute la semaine.",
-     "audio": "audio/saetze/sp_08_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_08_pc.mp3"
     },
     "fp": {
      "fr": "Je vais être en forme pour le stage.",
-     "audio": "audio/saetze/sp_08_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_08_fp.mp3"
     }
    }
   },
@@ -2818,12 +3068,12 @@ window.DATEN = {
    "de": "eine Stellung halten",
    "register": "tu",
    "anker": "tenir",
-   "audio": "audio/wendungen/sp_09.mp3",
+   "audio": "audio/fr-de/wendungen/sp_09.mp3",
    "satz": {
     "fr": "Tenir la position du cavalier pendant deux minutes : simple. Pas facile.",
     "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
     "luecke": "Tenir la position",
-    "audio": "audio/saetze/sp_09.mp3"
+    "audio": "audio/fr-de/saetze/sp_09.mp3"
    },
    "zeit": null
   },
@@ -2834,12 +3084,12 @@ window.DATEN = {
    "de": "die Atmung",
    "register": "tu",
    "anker": "commencer",
-   "audio": "audio/wendungen/sp_10.mp3",
+   "audio": "audio/fr-de/wendungen/sp_10.mp3",
    "satz": {
     "fr": "En kung-fu, tout commence par la respiration. En classe aussi.",
     "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
     "luecke": "respiration",
-    "audio": "audio/saetze/sp_10.mp3"
+    "audio": "audio/fr-de/saetze/sp_10.mp3"
    },
    "zeit": null
   },
@@ -2850,12 +3100,12 @@ window.DATEN = {
    "de": "der Meister",
    "register": "tu",
    "anker": "dire",
-   "audio": "audio/wendungen/sp_11.mp3",
+   "audio": "audio/fr-de/wendungen/sp_11.mp3",
    "satz": {
     "fr": "Mon maître dit : « Lentement, c'est vite. » Je n'ai pas encore compris.",
     "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
     "luecke": "maître",
-    "audio": "audio/saetze/sp_11.mp3"
+    "audio": "audio/fr-de/saetze/sp_11.mp3"
    },
    "zeit": null
   },
@@ -2866,21 +3116,21 @@ window.DATEN = {
    "de": "eine Abfolge (Form, Kombination)",
    "register": "tu",
    "anker": "apprendre",
-   "audio": "audio/wendungen/sp_12.mp3",
+   "audio": "audio/fr-de/wendungen/sp_12.mp3",
    "satz": {
     "fr": "J'apprends un nouvel enchaînement. Douze mouvements. J'en connais quatre.",
     "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kann ich.",
     "luecke": "enchaînement",
-    "audio": "audio/saetze/sp_12.mp3"
+    "audio": "audio/fr-de/saetze/sp_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai appris un nouvel enchaînement.",
-     "audio": "audio/saetze/sp_12_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_12_pc.mp3"
     },
     "fp": {
      "fr": "Je vais apprendre un nouvel enchaînement.",
-     "audio": "audio/saetze/sp_12_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_12_fp.mp3"
     }
    }
   },
@@ -2891,12 +3141,12 @@ window.DATEN = {
    "de": "ausweichen",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/sp_13.mp3",
+   "audio": "audio/fr-de/wendungen/sp_13.mp3",
    "satz": {
     "fr": "Esquiver, c'est mieux que bloquer. Ça marche aussi en réunion.",
     "de": "Ausweichen ist besser als blocken. Das funktioniert auch in Konferenzen.",
     "luecke": "Esquiver",
-    "audio": "audio/saetze/sp_13.mp3"
+    "audio": "audio/fr-de/saetze/sp_13.mp3"
    },
    "zeit": null
   },
@@ -2907,21 +3157,21 @@ window.DATEN = {
    "de": "schwitzen",
    "register": "tu",
    "anker": "transpirer",
-   "audio": "audio/wendungen/sp_14.mp3",
+   "audio": "audio/fr-de/wendungen/sp_14.mp3",
    "satz": {
     "fr": "Après l'entraînement, je transpire comme une fontaine. Une fontaine heureuse.",
     "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "luecke": "transpire",
-    "audio": "audio/saetze/sp_14.mp3"
+    "audio": "audio/fr-de/saetze/sp_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai transpiré comme une fontaine.",
-     "audio": "audio/saetze/sp_14_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_14_pc.mp3"
     },
     "fp": {
      "fr": "Je vais transpirer, c'est le but.",
-     "audio": "audio/saetze/sp_14_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_14_fp.mp3"
     }
    }
   },
@@ -2932,21 +3182,21 @@ window.DATEN = {
    "de": "sich verletzen",
    "register": "tu",
    "anker": "se blesser",
-   "audio": "audio/wendungen/sp_15.mp3",
+   "audio": "audio/fr-de/wendungen/sp_15.mp3",
    "satz": {
     "fr": "Je ne me blesse jamais. Sauf en ouvrant une boîte de pâtée.",
     "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Katzenfutter.",
     "luecke": "me blesse",
-    "audio": "audio/saetze/sp_15.mp3"
+    "audio": "audio/fr-de/saetze/sp_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Je me suis blessé en ouvrant une boîte.",
-     "audio": "audio/saetze/sp_15_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_15_pc.mp3"
     },
     "fp": {
      "fr": "Je ne vais pas me blesser. Normalement.",
-     "audio": "audio/saetze/sp_15_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_15_fp.mp3"
     }
    }
   },
@@ -2957,21 +3207,21 @@ window.DATEN = {
    "de": "sich dehnen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/sp_16.mp3",
+   "audio": "audio/fr-de/wendungen/sp_16.mp3",
    "satz": {
     "fr": "Je fais des étirements le soir, devant la télé. Le chat me regarde, perplexe.",
     "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut ratlos zu.",
     "luecke": "fais des étirements",
-    "audio": "audio/saetze/sp_16.mp3"
+    "audio": "audio/fr-de/saetze/sp_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait des étirements après le kung-fu.",
-     "audio": "audio/saetze/sp_16_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_16_pc.mp3"
     },
     "fp": {
      "fr": "Je vais faire des étirements ce soir.",
-     "audio": "audio/saetze/sp_16_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_16_fp.mp3"
     }
    }
   },
@@ -2982,21 +3232,21 @@ window.DATEN = {
    "de": "wieder zu Atem kommen",
    "register": "tu",
    "anker": "reprendre",
-   "audio": "audio/wendungen/sp_17.mp3",
+   "audio": "audio/fr-de/wendungen/sp_17.mp3",
    "satz": {
     "fr": "Entre deux séries, je reprends mon souffle. Longtemps.",
     "de": "Zwischen zwei Sätzen komme ich wieder zu Atem. Lange.",
     "luecke": "reprends mon souffle",
-    "audio": "audio/saetze/sp_17.mp3"
+    "audio": "audio/fr-de/saetze/sp_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai repris mon souffle sur le banc.",
-     "audio": "audio/saetze/sp_17_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_17_pc.mp3"
     },
     "fp": {
      "fr": "Je vais reprendre mon souffle, une minute.",
-     "audio": "audio/saetze/sp_17_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_17_fp.mp3"
     }
    }
   },
@@ -3007,12 +3257,12 @@ window.DATEN = {
    "de": "Gleichgewicht haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/sp_18.mp3",
+   "audio": "audio/fr-de/wendungen/sp_18.mp3",
    "satz": {
     "fr": "Sur une jambe, j'ai de l'équilibre. Sur deux, ça dépend du jour.",
     "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
     "luecke": "ai de l'équilibre",
-    "audio": "audio/saetze/sp_18.mp3"
+    "audio": "audio/fr-de/saetze/sp_18.mp3"
    },
    "zeit": null
   },
@@ -3023,21 +3273,21 @@ window.DATEN = {
    "de": "laufen gehen",
    "register": "tu",
    "anker": "aller",
-   "audio": "audio/wendungen/sp_19.mp3",
+   "audio": "audio/fr-de/wendungen/sp_19.mp3",
    "satz": {
     "fr": "Le dimanche matin, je vais courir. Le dimanche soir, je regrette.",
     "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "luecke": "vais courir",
-    "audio": "audio/saetze/sp_19.mp3"
+    "audio": "audio/fr-de/saetze/sp_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dimanche, je suis allé courir.",
-     "audio": "audio/saetze/sp_19_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_19_pc.mp3"
     },
     "fp": {
      "fr": "Dimanche, je vais aller courir.",
-     "audio": "audio/saetze/sp_19_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_19_fp.mp3"
     }
    }
   },
@@ -3048,12 +3298,12 @@ window.DATEN = {
    "de": "der Gürtel",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/sp_20.mp3",
+   "audio": "audio/fr-de/wendungen/sp_20.mp3",
    "satz": {
     "fr": "La ceinture ne fait pas le maître. Mais elle tient le pantalon.",
     "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "luecke": "ceinture",
-    "audio": "audio/saetze/sp_20.mp3"
+    "audio": "audio/fr-de/saetze/sp_20.mp3"
    },
    "zeit": null
   },
@@ -3064,21 +3314,21 @@ window.DATEN = {
    "de": "Fortschritte machen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/sp_21.mp3",
+   "audio": "audio/fr-de/wendungen/sp_21.mp3",
    "satz": {
     "fr": "Je fais des progrès. Lentement. Comme dit mon maître, c'est vite.",
     "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt: Das ist schnell.",
     "luecke": "fais des progrès",
-    "audio": "audio/saetze/sp_21.mp3"
+    "audio": "audio/fr-de/saetze/sp_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait des progrès cette année.",
-     "audio": "audio/saetze/sp_21_pc.mp3"
+     "audio": "audio/fr-de/saetze/sp_21_pc.mp3"
     },
     "fp": {
      "fr": "Je vais faire des progrès, j'en suis sûr.",
-     "audio": "audio/saetze/sp_21_fp.mp3"
+     "audio": "audio/fr-de/saetze/sp_21_fp.mp3"
     }
    }
   },
@@ -3089,12 +3339,12 @@ window.DATEN = {
    "de": "über sich hinauswachsen",
    "register": "tu",
    "anker": "se dépasser",
-   "audio": "audio/wendungen/sp_22.mp3",
+   "audio": "audio/fr-de/wendungen/sp_22.mp3",
    "satz": {
     "fr": "Aujourd'hui, je me suis dépassé : trente pompes. Hier, vingt-neuf.",
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "me suis dépassé",
-    "audio": "audio/saetze/sp_22.mp3"
+    "audio": "audio/fr-de/saetze/sp_22.mp3"
    },
    "zeit": null
   },
@@ -3105,12 +3355,12 @@ window.DATEN = {
    "de": "Körper und Geist",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/sp_23.mp3",
+   "audio": "audio/fr-de/wendungen/sp_23.mp3",
    "satz": {
     "fr": "Le kung-fu, c'est le corps et l'esprit. Le mien discute souvent avec mon corps.",
     "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "luecke": "le corps et l'esprit",
-    "audio": "audio/saetze/sp_23.mp3"
+    "audio": "audio/fr-de/saetze/sp_23.mp3"
    },
    "zeit": null
   },
@@ -3121,12 +3371,12 @@ window.DATEN = {
    "de": "Kann ich mich anmelden? (höflich)",
    "register": "vous",
    "anker": "pouvoir",
-   "audio": "audio/wendungen/sp_24.mp3",
+   "audio": "audio/fr-de/wendungen/sp_24.mp3",
    "satz": {
     "fr": "Bonjour, est-ce que je peux m'inscrire au cours du mardi soir ?",
     "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "luecke": "est-ce que je peux m'inscrire",
-    "audio": "audio/saetze/sp_24.mp3"
+    "audio": "audio/fr-de/saetze/sp_24.mp3"
    },
    "zeit": null
   },
@@ -3137,21 +3387,21 @@ window.DATEN = {
    "de": "ausgewogen essen",
    "register": "tu",
    "anker": "manger",
-   "audio": "audio/wendungen/ma_01.mp3",
+   "audio": "audio/fr-de/wendungen/ma_01.mp3",
    "satz": {
     "fr": "J'essaie de manger équilibré. Le croissant du matin ne compte pas.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "manger équilibré",
-    "audio": "audio/saetze/ma_01.mp3"
+    "audio": "audio/fr-de/saetze/ma_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Cette semaine, j'ai mangé équilibré. Sauf vendredi.",
-     "audio": "audio/saetze/ma_01_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_01_pc.mp3"
     },
     "fp": {
      "fr": "Je vais manger équilibré. À partir de lundi.",
-     "audio": "audio/saetze/ma_01_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_01_fp.mp3"
     }
    }
   },
@@ -3162,21 +3412,21 @@ window.DATEN = {
    "de": "früh ins Bett gehen",
    "register": "tu",
    "anker": "se coucher",
-   "audio": "audio/wendungen/ma_02.mp3",
+   "audio": "audio/fr-de/wendungen/ma_02.mp3",
    "satz": {
     "fr": "Je me couche tôt le dimanche. Le reste de la semaine, j'essaie.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "me couche tôt",
-    "audio": "audio/saetze/ma_02.mp3"
+    "audio": "audio/fr-de/saetze/ma_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hier, je me suis couché tôt. Enfin, avant minuit.",
-     "audio": "audio/saetze/ma_02_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_02_pc.mp3"
     },
     "fp": {
      "fr": "Ce soir, je vais me coucher tôt. Vraiment.",
-     "audio": "audio/saetze/ma_02_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_02_fp.mp3"
     }
    }
   },
@@ -3187,12 +3437,12 @@ window.DATEN = {
    "de": "auf sich achten",
    "register": "tu",
    "anker": "prendre",
-   "audio": "audio/wendungen/ma_03.mp3",
+   "audio": "audio/fr-de/wendungen/ma_03.mp3",
    "satz": {
     "fr": "Prendre soin de soi, c'est aussi dire non. Même à un éclair.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Éclair.",
     "luecke": "Prendre soin de soi",
-    "audio": "audio/saetze/ma_03.mp3"
+    "audio": "audio/fr-de/saetze/ma_03.mp3"
    },
    "zeit": null
   },
@@ -3203,21 +3453,21 @@ window.DATEN = {
    "de": "einkaufen gehen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ma_04.mp3",
+   "audio": "audio/fr-de/wendungen/ma_04.mp3",
    "satz": {
     "fr": "Je fais les courses le samedi, avec une liste. Je rentre avec autre chose.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "fais les courses",
-    "audio": "audio/saetze/ma_04.mp3"
+    "audio": "audio/fr-de/saetze/ma_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait les courses ce matin.",
-     "audio": "audio/saetze/ma_04_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_04_pc.mp3"
     },
     "fp": {
      "fr": "Je vais faire les courses demain.",
-     "audio": "audio/saetze/ma_04_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_04_fp.mp3"
     }
    }
   },
@@ -3228,21 +3478,21 @@ window.DATEN = {
    "de": "kochen",
    "register": "tu",
    "anker": "cuisiner",
-   "audio": "audio/wendungen/ma_05.mp3",
+   "audio": "audio/fr-de/wendungen/ma_05.mp3",
    "satz": {
     "fr": "Le soir, je cuisine en écoutant de la musique. Le chat supervise.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cuisine",
-    "audio": "audio/saetze/ma_05.mp3"
+    "audio": "audio/fr-de/saetze/ma_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai cuisiné un gratin pour Aurélien.",
-     "audio": "audio/saetze/ma_05_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_05_pc.mp3"
     },
     "fp": {
      "fr": "Je vais cuisiner quelque chose de simple.",
-     "audio": "audio/saetze/ma_05_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_05_fp.mp3"
     }
    }
   },
@@ -3253,12 +3503,12 @@ window.DATEN = {
    "de": "ein Gericht",
    "register": "tu",
    "anker": "préparer",
-   "audio": "audio/wendungen/ma_06.mp3",
+   "audio": "audio/fr-de/wendungen/ma_06.mp3",
    "satz": {
     "fr": "Mon plat préféré ? Celui que quelqu'un d'autre a préparé.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "plat",
-    "audio": "audio/saetze/ma_06.mp3"
+    "audio": "audio/fr-de/saetze/ma_06.mp3"
    },
    "zeit": null
   },
@@ -3269,21 +3519,21 @@ window.DATEN = {
    "de": "ein bisschen Hunger haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ma_07.mp3",
+   "audio": "audio/fr-de/wendungen/ma_07.mp3",
    "satz": {
     "fr": "À seize heures, j'ai un petit creux. À seize heures cinq aussi.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "ai un petit creux",
-    "audio": "audio/saetze/ma_07.mp3"
+    "audio": "audio/fr-de/saetze/ma_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "À seize heures, j'ai eu un petit creux.",
-     "audio": "audio/saetze/ma_07_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_07_pc.mp3"
     },
     "fp": {
      "fr": "À seize heures, je vais avoir un petit creux. Comme toujours.",
-     "audio": "audio/saetze/ma_07_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_07_fp.mp3"
     }
    }
   },
@@ -3294,21 +3544,21 @@ window.DATEN = {
    "de": "es sich schmecken lassen",
    "register": "tu",
    "anker": "se régaler",
-   "audio": "audio/wendungen/ma_08.mp3",
+   "audio": "audio/fr-de/wendungen/ma_08.mp3",
    "satz": {
     "fr": "Chez Aurélien, on se régale. Sa mère lui envoie des recettes.",
     "de": "Bei Aurélien lässt man es sich schmecken. Seine Mutter schickt ihm Rezepte.",
     "luecke": "se régale",
-    "audio": "audio/saetze/ma_08.mp3"
+    "audio": "audio/fr-de/saetze/ma_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Chez Aurélien, on s'est régalés.",
-     "audio": "audio/saetze/ma_08_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_08_pc.mp3"
     },
     "fp": {
      "fr": "Chez Aurélien, on va se régaler.",
-     "audio": "audio/saetze/ma_08_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_08_fp.mp3"
     }
    }
   },
@@ -3319,12 +3569,12 @@ window.DATEN = {
    "de": "guten Appetit!",
    "register": "tu",
    "anker": "manger",
-   "audio": "audio/wendungen/ma_09.mp3",
+   "audio": "audio/fr-de/wendungen/ma_09.mp3",
    "satz": {
     "fr": "« Bon appétit ! » – « Merci, toi aussi. » – « Moi, je ne mange pas. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, dir auch.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Bon appétit",
-    "audio": "audio/saetze/ma_09.mp3"
+    "audio": "audio/fr-de/saetze/ma_09.mp3"
    },
    "zeit": null
   },
@@ -3335,12 +3585,12 @@ window.DATEN = {
    "de": "eine Bäckerei",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ma_10.mp3",
+   "audio": "audio/fr-de/wendungen/ma_10.mp3",
    "satz": {
     "fr": "Il y a une boulangerie à côté de l'école. C'est un problème. Un bon problème.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein gutes Problem.",
     "luecke": "boulangerie",
-    "audio": "audio/saetze/ma_10.mp3"
+    "audio": "audio/fr-de/saetze/ma_10.mp3"
    },
    "zeit": null
   },
@@ -3351,21 +3601,21 @@ window.DATEN = {
    "de": "Wasser trinken",
    "register": "tu",
    "anker": "boire",
-   "audio": "audio/wendungen/ma_11.mp3",
+   "audio": "audio/fr-de/wendungen/ma_11.mp3",
    "satz": {
     "fr": "Je bois de l'eau toute la journée. Et un café. Ou deux. L'eau, c'est entre.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "bois de l'eau",
-    "audio": "audio/saetze/ma_11.mp3"
+    "audio": "audio/fr-de/saetze/ma_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai bu de l'eau toute la journée.",
-     "audio": "audio/saetze/ma_11_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_11_pc.mp3"
     },
     "fp": {
      "fr": "Je vais boire de l'eau. Plus.",
-     "audio": "audio/saetze/ma_11_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_11_fp.mp3"
     }
    }
   },
@@ -3376,21 +3626,21 @@ window.DATEN = {
    "de": "naschen, knabbern",
    "register": "tu",
    "anker": "grignoter",
-   "audio": "audio/wendungen/ma_12.mp3",
+   "audio": "audio/fr-de/wendungen/ma_12.mp3",
    "satz": {
     "fr": "Je grignote devant les copies. Chaque faute, un carré de chocolat.",
     "de": "Ich nasche beim Korrigieren. Jeder Fehler, ein Stück Schokolade.",
     "luecke": "grignote",
-    "audio": "audio/saetze/ma_12.mp3"
+    "audio": "audio/fr-de/saetze/ma_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai grignoté toute la soirée.",
-     "audio": "audio/saetze/ma_12_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_12_pc.mp3"
     },
     "fp": {
      "fr": "Je ne vais pas grignoter ce soir. On verra.",
-     "audio": "audio/saetze/ma_12_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_12_fp.mp3"
     }
    }
   },
@@ -3401,12 +3651,12 @@ window.DATEN = {
    "de": "sich wohl in seiner Haut fühlen",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/ma_13.mp3",
+   "audio": "audio/fr-de/wendungen/ma_13.mp3",
    "satz": {
     "fr": "Après le sport, je suis bien dans ma peau. Avant, aussi, mais moins.",
     "de": "Nach dem Sport fühle ich mich wohl in meiner Haut. Davor auch, aber weniger.",
     "luecke": "bien dans ma peau",
-    "audio": "audio/saetze/ma_13.mp3"
+    "audio": "audio/fr-de/saetze/ma_13.mp3"
    },
    "zeit": null
   },
@@ -3417,21 +3667,21 @@ window.DATEN = {
    "de": "eine Pause machen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/ma_14.mp3",
+   "audio": "audio/fr-de/wendungen/ma_14.mp3",
    "satz": {
     "fr": "Je fais une pause toutes les heures. Parfois, la pause dure une heure.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "fais une pause",
-    "audio": "audio/saetze/ma_14.mp3"
+    "audio": "audio/fr-de/saetze/ma_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait une pause de dix minutes.",
-     "audio": "audio/saetze/ma_14_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_14_pc.mp3"
     },
     "fp": {
      "fr": "Je vais faire une pause. Maintenant.",
-     "audio": "audio/saetze/ma_14_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_14_fp.mp3"
     }
    }
   },
@@ -3442,21 +3692,21 @@ window.DATEN = {
    "de": "wie ein Baby schlafen",
    "register": "tu",
    "anker": "dormir",
-   "audio": "audio/wendungen/ma_15.mp3",
+   "audio": "audio/fr-de/wendungen/ma_15.mp3",
    "satz": {
     "fr": "Après le kung-fu, je dors comme un bébé. Un bébé qui ronfle.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Baby. Ein Baby, das schnarcht.",
     "luecke": "dors comme un bébé",
-    "audio": "audio/saetze/ma_15.mp3"
+    "audio": "audio/fr-de/saetze/ma_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai dormi comme un bébé.",
-     "audio": "audio/saetze/ma_15_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_15_pc.mp3"
     },
     "fp": {
      "fr": "Je vais dormir comme un bébé.",
-     "audio": "audio/saetze/ma_15_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_15_fp.mp3"
     }
    }
   },
@@ -3467,12 +3717,12 @@ window.DATEN = {
    "de": "fit und munter sein",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ma_16.mp3",
+   "audio": "audio/fr-de/wendungen/ma_16.mp3",
    "satz": {
     "fr": "Ce matin, j'ai la pêche ! C'est suspect. Il est six heures.",
     "de": "Heute Morgen bin ich fit und munter! Verdächtig. Es ist sechs Uhr.",
     "luecke": "ai la pêche",
-    "audio": "audio/saetze/ma_16.mp3"
+    "audio": "audio/fr-de/saetze/ma_16.mp3"
    },
    "zeit": null
   },
@@ -3483,21 +3733,21 @@ window.DATEN = {
    "de": "frische Luft schnappen",
    "register": "tu",
    "anker": "prendre",
-   "audio": "audio/wendungen/ma_17.mp3",
+   "audio": "audio/fr-de/wendungen/ma_17.mp3",
    "satz": {
     "fr": "À midi, je prends l'air dix minutes. Sans téléphone. Enfin, presque.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "prends l'air",
-    "audio": "audio/saetze/ma_17.mp3"
+    "audio": "audio/fr-de/saetze/ma_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "À midi, j'ai pris l'air.",
-     "audio": "audio/saetze/ma_17_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_17_pc.mp3"
     },
     "fp": {
      "fr": "À midi, je vais prendre l'air.",
-     "audio": "audio/saetze/ma_17_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_17_fp.mp3"
     }
    }
   },
@@ -3508,12 +3758,12 @@ window.DATEN = {
    "de": "ein Rezept",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ma_18.mp3",
+   "audio": "audio/fr-de/wendungen/ma_18.mp3",
    "satz": {
     "fr": "J'ai une recette de quiche. Elle vient d'Aurélien, qui la tient de sa mère.",
     "de": "Ich habe ein Rezept für Quiche. Es kommt von Aurélien, der es von seiner Mutter hat.",
     "luecke": "recette",
-    "audio": "audio/saetze/ma_18.mp3"
+    "audio": "audio/fr-de/saetze/ma_18.mp3"
    },
    "zeit": null
   },
@@ -3524,21 +3774,21 @@ window.DATEN = {
    "de": "probieren, kosten",
    "register": "tu",
    "anker": "goûter",
-   "audio": "audio/wendungen/ma_19.mp3",
+   "audio": "audio/fr-de/wendungen/ma_19.mp3",
    "satz": {
     "fr": "Goûte ça. Non, vraiment, goûte. Ensuite, tu peux dire que tu n'aimes pas.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Goûte",
-    "audio": "audio/saetze/ma_19.mp3"
+    "audio": "audio/fr-de/saetze/ma_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai goûté. Je n'aime pas.",
-     "audio": "audio/saetze/ma_19_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_19_pc.mp3"
     },
     "fp": {
      "fr": "Je vais goûter. Un petit bout.",
-     "audio": "audio/saetze/ma_19_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_19_fp.mp3"
     }
    }
   },
@@ -3549,12 +3799,12 @@ window.DATEN = {
    "de": "das ist köstlich",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/ma_20.mp3",
+   "audio": "audio/fr-de/wendungen/ma_20.mp3",
    "satz": {
     "fr": "C'est délicieux ! Qu'est-ce que c'est ? – Il vaut mieux ne pas savoir.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "délicieux",
-    "audio": "audio/saetze/ma_20.mp3"
+    "audio": "audio/fr-de/saetze/ma_20.mp3"
    },
    "zeit": null
   },
@@ -3565,21 +3815,21 @@ window.DATEN = {
    "de": "Durst haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ma_21.mp3",
+   "audio": "audio/fr-de/wendungen/ma_21.mp3",
    "satz": {
     "fr": "Après le cours de sport, les élèves ont soif. Moi, j'ai soif de silence.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "ont soif",
-    "audio": "audio/saetze/ma_21.mp3"
+    "audio": "audio/fr-de/saetze/ma_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Après le sport, les élèves ont eu soif.",
-     "audio": "audio/saetze/ma_21_pc.mp3"
+     "audio": "audio/fr-de/saetze/ma_21_pc.mp3"
     },
     "fp": {
      "fr": "Après le sport, les élèves vont avoir soif.",
-     "audio": "audio/saetze/ma_21_fp.mp3"
+     "audio": "audio/fr-de/saetze/ma_21_fp.mp3"
     }
    }
   },
@@ -3590,12 +3840,12 @@ window.DATEN = {
    "de": "mit dem richtigen Fuß aufstehen",
    "register": "tu",
    "anker": "se lever",
-   "audio": "audio/wendungen/ma_22.mp3",
+   "audio": "audio/fr-de/wendungen/ma_22.mp3",
    "satz": {
     "fr": "Aujourd'hui, je me suis levé du bon pied. Le gauche. Comme d'habitude.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "me suis levé du bon pied",
-    "audio": "audio/saetze/ma_22.mp3"
+    "audio": "audio/fr-de/saetze/ma_22.mp3"
    },
    "zeit": null
   },
@@ -3606,12 +3856,12 @@ window.DATEN = {
    "de": "ein kleines Vergnügen",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/ma_23.mp3",
+   "audio": "audio/fr-de/wendungen/ma_23.mp3",
    "satz": {
     "fr": "Un petit plaisir par jour. Aujourd'hui : une tarte. Demain : une autre tarte.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Tarte. Morgen: eine andere Tarte.",
     "luecke": "petit plaisir",
-    "audio": "audio/saetze/ma_23.mp3"
+    "audio": "audio/fr-de/saetze/ma_23.mp3"
    },
    "zeit": null
   },
@@ -3622,12 +3872,12 @@ window.DATEN = {
    "de": "Ich hätte gern ein Baguette, bitte. (höflich)",
    "register": "vous",
    "anker": "vouloir",
-   "audio": "audio/wendungen/ma_24.mp3",
+   "audio": "audio/fr-de/wendungen/ma_24.mp3",
    "satz": {
     "fr": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
     "de": "Guten Tag, ich hätte gern ein Baguette, bitte. Nicht zu dunkel.",
     "luecke": "je voudrais",
-    "audio": "audio/saetze/ma_24.mp3"
+    "audio": "audio/fr-de/saetze/ma_24.mp3"
    },
    "zeit": null
   },
@@ -3638,21 +3888,21 @@ window.DATEN = {
    "de": "durchschlafen (Baby)",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/en_01.mp3",
+   "audio": "audio/fr-de/wendungen/en_01.mp3",
    "satz": {
     "fr": "Le bébé de ma collègue fait ses nuits. Elle, pas encore.",
     "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
     "luecke": "fait ses nuits",
-    "audio": "audio/saetze/en_01.mp3"
+    "audio": "audio/fr-de/saetze/en_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Le bébé a fait ses nuits cette semaine.",
-     "audio": "audio/saetze/en_01_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_01_pc.mp3"
     },
     "fp": {
      "fr": "Le bébé va faire ses nuits. Un jour.",
-     "audio": "audio/saetze/en_01_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_01_fp.mp3"
     }
    }
   },
@@ -3663,12 +3913,12 @@ window.DATEN = {
    "de": "ein Kuscheltier, Schmusetuch",
    "register": "tu",
    "anker": "dormir",
-   "audio": "audio/wendungen/en_02.mp3",
+   "audio": "audio/fr-de/wendungen/en_02.mp3",
    "satz": {
     "fr": "Sans son doudou, impossible de dormir. Je parle du bébé. Enfin, surtout.",
     "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
     "luecke": "doudou",
-    "audio": "audio/saetze/en_02.mp3"
+    "audio": "audio/fr-de/saetze/en_02.mp3"
    },
    "zeit": null
   },
@@ -3679,21 +3929,21 @@ window.DATEN = {
    "de": "Unsinn anstellen",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/en_03.mp3",
+   "audio": "audio/fr-de/wendungen/en_03.mp3",
    "satz": {
     "fr": "Les enfants font des bêtises. C'est leur métier. Le mien, c'est de sourire.",
     "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "luecke": "font des bêtises",
-    "audio": "audio/saetze/en_03.mp3"
+    "audio": "audio/fr-de/saetze/en_03.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ils ont fait des bêtises toute la matinée.",
-     "audio": "audio/saetze/en_03_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_03_pc.mp3"
     },
     "fp": {
      "fr": "Ils vont faire des bêtises, c'est sûr.",
-     "audio": "audio/saetze/en_03_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_03_fp.mp3"
     }
    }
   },
@@ -3704,21 +3954,21 @@ window.DATEN = {
    "de": "in den Arm nehmen",
    "register": "tu",
    "anker": "prendre",
-   "audio": "audio/wendungen/en_04.mp3",
+   "audio": "audio/fr-de/wendungen/en_04.mp3",
    "satz": {
     "fr": "Quand un enfant pleure, on le prend dans ses bras. C'est la seule règle.",
     "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "luecke": "prend dans ses bras",
-    "audio": "audio/saetze/en_04.mp3"
+    "audio": "audio/fr-de/saetze/en_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Je l'ai pris dans mes bras.",
-     "audio": "audio/saetze/en_04_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_04_pc.mp3"
     },
     "fp": {
      "fr": "Je vais le prendre dans mes bras.",
-     "audio": "audio/saetze/en_04_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_04_fp.mp3"
     }
    }
   },
@@ -3729,12 +3979,12 @@ window.DATEN = {
    "de": "ein Baby",
    "register": "tu",
    "anker": "dire",
-   "audio": "audio/wendungen/en_05.mp3",
+   "audio": "audio/fr-de/wendungen/en_05.mp3",
    "satz": {
     "fr": "Un bébé, ça ne parle pas, mais ça dit tout.",
     "de": "Ein Baby spricht nicht, aber es sagt alles.",
     "luecke": "bébé",
-    "audio": "audio/saetze/en_05.mp3"
+    "audio": "audio/fr-de/saetze/en_05.mp3"
    },
    "zeit": null
   },
@@ -3745,21 +3995,21 @@ window.DATEN = {
    "de": "lächeln (jemanden anlächeln)",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/en_06.mp3",
+   "audio": "audio/fr-de/wendungen/en_06.mp3",
    "satz": {
     "fr": "Le bébé m'a fait un sourire. Ma journée était gagnée.",
     "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "luecke": "a fait un sourire",
-    "audio": "audio/saetze/en_06.mp3"
+    "audio": "audio/fr-de/saetze/en_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Le bébé m'a fait un sourire.",
-     "audio": "audio/saetze/en_06_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_06_pc.mp3"
     },
     "fp": {
      "fr": "Le bébé va me faire un sourire. J'attends.",
-     "audio": "audio/saetze/en_06_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_06_fp.mp3"
     }
    }
   },
@@ -3770,21 +4020,21 @@ window.DATEN = {
    "de": "wachsen, groß werden",
    "register": "tu",
    "anker": "grandir",
-   "audio": "audio/wendungen/en_07.mp3",
+   "audio": "audio/fr-de/wendungen/en_07.mp3",
    "satz": {
     "fr": "Les enfants grandissent trop vite. Les copies, elles, restent.",
     "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
     "luecke": "grandissent",
-    "audio": "audio/saetze/en_07.mp3"
+    "audio": "audio/fr-de/saetze/en_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ils ont grandi pendant les vacances.",
-     "audio": "audio/saetze/en_07_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_07_pc.mp3"
     },
     "fp": {
      "fr": "Ils vont grandir, et moi je vais vieillir.",
-     "audio": "audio/saetze/en_07_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_07_fp.mp3"
     }
    }
   },
@@ -3795,21 +4045,21 @@ window.DATEN = {
    "de": "schlecht einschlafen",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/en_08.mp3",
+   "audio": "audio/fr-de/wendungen/en_08.mp3",
    "satz": {
     "fr": "Le petit a du mal à s'endormir. Alors je chante. Ça marche. Il pleure moins fort.",
     "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "luecke": "a du mal à s'endormir",
-    "audio": "audio/saetze/en_08.mp3"
+    "audio": "audio/fr-de/saetze/en_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il a eu du mal à s'endormir.",
-     "audio": "audio/saetze/en_08_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_08_pc.mp3"
     },
     "fp": {
      "fr": "Il va avoir du mal à s'endormir.",
-     "audio": "audio/saetze/en_08_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_08_fp.mp3"
     }
    }
   },
@@ -3820,12 +4070,12 @@ window.DATEN = {
    "de": "eine Windel",
    "register": "tu",
    "anker": "changer",
-   "audio": "audio/wendungen/en_09.mp3",
+   "audio": "audio/fr-de/wendungen/en_09.mp3",
    "satz": {
     "fr": "Changer une couche en trois minutes : ça, c'est un vrai enchaînement de kung-fu.",
     "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "luecke": "couche",
-    "audio": "audio/saetze/en_09.mp3"
+    "audio": "audio/fr-de/saetze/en_09.mp3"
    },
    "zeit": null
   },
@@ -3836,12 +4086,12 @@ window.DATEN = {
    "de": "brav sein",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/en_10.mp3",
+   "audio": "audio/fr-de/wendungen/en_10.mp3",
    "satz": {
     "fr": "« Sois sage ! » – « Je suis sage. » – « Alors pourquoi le chat est-il dans le lave-linge ? »",
     "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
     "luecke": "sage",
-    "audio": "audio/saetze/en_10.mp3"
+    "audio": "audio/fr-de/saetze/en_10.mp3"
    },
    "zeit": null
   },
@@ -3852,21 +4102,21 @@ window.DATEN = {
    "de": "Verstecken spielen",
    "register": "tu",
    "anker": "jouer",
-   "audio": "audio/wendungen/en_11.mp3",
+   "audio": "audio/fr-de/wendungen/en_11.mp3",
    "satz": {
     "fr": "On joue à cache-cache. Il se cache toujours derrière le rideau. Avec ses pieds dehors.",
     "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "luecke": "joue à cache-cache",
-    "audio": "audio/saetze/en_11.mp3"
+    "audio": "audio/fr-de/saetze/en_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "On a joué à cache-cache tout l'après-midi.",
-     "audio": "audio/saetze/en_11_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_11_pc.mp3"
     },
     "fp": {
      "fr": "On va jouer à cache-cache après le goûter.",
-     "audio": "audio/saetze/en_11_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_11_fp.mp3"
     }
    }
   },
@@ -3877,21 +4127,21 @@ window.DATEN = {
    "de": "eine Gute-Nacht-Geschichte erzählen",
    "register": "tu",
    "anker": "raconter",
-   "audio": "audio/wendungen/en_12.mp3",
+   "audio": "audio/fr-de/wendungen/en_12.mp3",
    "satz": {
     "fr": "Je raconte une histoire pour s'endormir. Au bout de trois pages, je dors.",
     "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "luecke": "raconte une histoire",
-    "audio": "audio/saetze/en_12.mp3"
+    "audio": "audio/fr-de/saetze/en_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai raconté une histoire pour s'endormir.",
-     "audio": "audio/saetze/en_12_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_12_pc.mp3"
     },
     "fp": {
      "fr": "Je vais raconter une histoire pour s'endormir.",
-     "audio": "audio/saetze/en_12_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_12_fp.mp3"
     }
    }
   },
@@ -3902,21 +4152,21 @@ window.DATEN = {
    "de": "weinen",
    "register": "tu",
    "anker": "pleurer",
-   "audio": "audio/wendungen/en_13.mp3",
+   "audio": "audio/fr-de/wendungen/en_13.mp3",
    "satz": {
     "fr": "Le bébé pleure. Puis il rit. Puis il pleure. C'est un concert.",
     "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "luecke": "pleure",
-    "audio": "audio/saetze/en_13.mp3"
+    "audio": "audio/fr-de/saetze/en_13.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Le bébé a pleuré toute la nuit.",
-     "audio": "audio/saetze/en_13_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_13_pc.mp3"
     },
     "fp": {
      "fr": "Le bébé va pleurer, et je vais chanter.",
-     "audio": "audio/saetze/en_13_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_13_fp.mp3"
     }
    }
   },
@@ -3927,12 +4177,12 @@ window.DATEN = {
    "de": "eine Umarmung, ein Kuscheln",
    "register": "tu",
    "anker": "commencer",
-   "audio": "audio/wendungen/en_14.mp3",
+   "audio": "audio/fr-de/wendungen/en_14.mp3",
    "satz": {
     "fr": "Un câlin avant l'école, et la journée commence bien. Pour les deux.",
     "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "luecke": "câlin",
-    "audio": "audio/saetze/en_14.mp3"
+    "audio": "audio/fr-de/saetze/en_14.mp3"
    },
    "zeit": null
   },
@@ -3943,21 +4193,21 @@ window.DATEN = {
    "de": "laufen lernen",
    "register": "tu",
    "anker": "apprendre",
-   "audio": "audio/wendungen/en_15.mp3",
+   "audio": "audio/fr-de/wendungen/en_15.mp3",
    "satz": {
     "fr": "Elle apprend à marcher. Trois pas, une chute, un rire. C'est la vie en miniature.",
     "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "luecke": "apprend à marcher",
-    "audio": "audio/saetze/en_15.mp3"
+    "audio": "audio/fr-de/saetze/en_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Elle a appris à marcher cet été.",
-     "audio": "audio/saetze/en_15_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_15_pc.mp3"
     },
     "fp": {
      "fr": "Elle va apprendre à marcher bientôt.",
-     "audio": "audio/saetze/en_15_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_15_fp.mp3"
     }
    }
   },
@@ -3968,12 +4218,12 @@ window.DATEN = {
    "de": "stolz sein auf",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/en_16.mp3",
+   "audio": "audio/fr-de/wendungen/en_16.mp3",
    "satz": {
     "fr": "Je suis fier de mes élèves. Surtout quand ils ne le savent pas.",
     "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "luecke": "fier de",
-    "audio": "audio/saetze/en_16.mp3"
+    "audio": "audio/fr-de/saetze/en_16.mp3"
    },
    "zeit": null
   },
@@ -3984,12 +4234,12 @@ window.DATEN = {
    "de": "die ersten Wörter",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/en_17.mp3",
+   "audio": "audio/fr-de/wendungen/en_17.mp3",
    "satz": {
     "fr": "Ses premiers mots : « papa », « chat », « non ». Dans cet ordre.",
     "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
     "luecke": "premiers mots",
-    "audio": "audio/saetze/en_17.mp3"
+    "audio": "audio/fr-de/saetze/en_17.mp3"
    },
    "zeit": null
   },
@@ -4000,21 +4250,21 @@ window.DATEN = {
    "de": "Geduld haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/en_18.mp3",
+   "audio": "audio/fr-de/wendungen/en_18.mp3",
    "satz": {
     "fr": "Avec les enfants, il faut avoir de la patience. J'en ai. Elle finit à dix-sept heures.",
     "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
     "luecke": "avoir de la patience",
-    "audio": "audio/saetze/en_18.mp3"
+    "audio": "audio/fr-de/saetze/en_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai eu de la patience toute la journée.",
-     "audio": "audio/saetze/en_18_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_18_pc.mp3"
     },
     "fp": {
      "fr": "Je vais avoir de la patience. Jusqu'à midi.",
-     "audio": "audio/saetze/en_18_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_18_fp.mp3"
     }
    }
   },
@@ -4025,12 +4275,12 @@ window.DATEN = {
    "de": "der Nachmittagssnack",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/en_19.mp3",
+   "audio": "audio/fr-de/wendungen/en_19.mp3",
    "satz": {
     "fr": "À seize heures, c'est le goûter. Pour les enfants. Et pour moi, par solidarité.",
     "de": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "luecke": "goûter",
-    "audio": "audio/saetze/en_19.mp3"
+    "audio": "audio/fr-de/saetze/en_19.mp3"
    },
    "zeit": null
   },
@@ -4041,21 +4291,21 @@ window.DATEN = {
    "de": "schallend lachen",
    "register": "tu",
    "anker": "rire",
-   "audio": "audio/wendungen/en_20.mp3",
+   "audio": "audio/fr-de/wendungen/en_20.mp3",
    "satz": {
     "fr": "Le bébé rit aux éclats quand le chat éternue. Moi aussi, d'ailleurs.",
     "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "luecke": "rit aux éclats",
-    "audio": "audio/saetze/en_20.mp3"
+    "audio": "audio/fr-de/saetze/en_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Le bébé a ri aux éclats.",
-     "audio": "audio/saetze/en_20_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_20_pc.mp3"
     },
     "fp": {
      "fr": "Le bébé va rire aux éclats.",
-     "audio": "audio/saetze/en_20_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_20_fp.mp3"
     }
    }
   },
@@ -4066,21 +4316,21 @@ window.DATEN = {
    "de": "Mittagsschlaf halten",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/en_21.mp3",
+   "audio": "audio/fr-de/wendungen/en_21.mp3",
    "satz": {
     "fr": "Les petits font la sieste. Les grands aussi, en secret.",
     "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "luecke": "font la sieste",
-    "audio": "audio/saetze/en_21.mp3"
+    "audio": "audio/fr-de/saetze/en_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Les petits ont fait la sieste.",
-     "audio": "audio/saetze/en_21_pc.mp3"
+     "audio": "audio/fr-de/saetze/en_21_pc.mp3"
     },
     "fp": {
      "fr": "Les petits vont faire la sieste.",
-     "audio": "audio/saetze/en_21_fp.mp3"
+     "audio": "audio/fr-de/saetze/en_21_fp.mp3"
     }
    }
   },
@@ -4091,12 +4341,12 @@ window.DATEN = {
    "de": "Angst im Dunkeln haben",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/en_22.mp3",
+   "audio": "audio/fr-de/wendungen/en_22.mp3",
    "satz": {
     "fr": "Il a peur du noir. Alors on laisse la porte ouverte. Et le chat de garde.",
     "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
     "luecke": "a peur du noir",
-    "audio": "audio/saetze/en_22.mp3"
+    "audio": "audio/fr-de/saetze/en_22.mp3"
    },
    "zeit": null
   },
@@ -4107,12 +4357,12 @@ window.DATEN = {
    "de": "es ist Badezeit",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/en_23.mp3",
+   "audio": "audio/fr-de/wendungen/en_23.mp3",
    "satz": {
     "fr": "C'est l'heure du bain ! Tout le monde est mouillé. Même ceux qui ne se baignent pas.",
     "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "luecke": "l'heure du bain",
-    "audio": "audio/saetze/en_23.mp3"
+    "audio": "audio/fr-de/saetze/en_23.mp3"
    },
    "zeit": null
   },
@@ -4123,12 +4373,12 @@ window.DATEN = {
    "de": "Wie alt ist Ihr Kind? (höflich)",
    "register": "vous",
    "anker": "avoir",
-   "audio": "audio/wendungen/en_24.mp3",
+   "audio": "audio/fr-de/wendungen/en_24.mp3",
    "satz": {
     "fr": "Il est adorable. Quel âge a votre enfant ? – Quatorze mois. Et quatre dents.",
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Quel âge a votre enfant",
-    "audio": "audio/saetze/en_24.mp3"
+    "audio": "audio/fr-de/saetze/en_24.mp3"
    },
    "zeit": null
   },
@@ -4139,12 +4389,12 @@ window.DATEN = {
    "de": "zurzeit, derzeit (≠ actually = en fait)",
    "register": "tu",
    "anker": "corriger",
-   "audio": "audio/wendungen/fa_01.mp3",
+   "audio": "audio/fr-de/wendungen/fa_01.mp3",
    "satz": {
     "fr": "Actuellement, je corrige des copies. En fait, je regarde le chat.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Actuellement",
-    "audio": "audio/saetze/fa_01.mp3"
+    "audio": "audio/fr-de/saetze/fa_01.mp3"
    },
    "zeit": null
   },
@@ -4155,12 +4405,12 @@ window.DATEN = {
    "de": "eine Buchhandlung (≠ library = une bibliothèque)",
    "register": "tu",
    "anker": "acheter",
-   "audio": "audio/wendungen/fa_02.mp3",
+   "audio": "audio/fr-de/wendungen/fa_02.mp3",
    "satz": {
     "fr": "À la librairie, on achète. À la bibliothèque, on emprunte. Et on rend. En théorie.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "librairie",
-    "audio": "audio/saetze/fa_02.mp3"
+    "audio": "audio/fr-de/saetze/fa_02.mp3"
    },
    "zeit": null
   },
@@ -4171,21 +4421,21 @@ window.DATEN = {
    "de": "beiwohnen, teilnehmen an (≠ to assist = aider)",
    "register": "tu",
    "anker": "assister",
-   "audio": "audio/wendungen/fa_03.mp3",
+   "audio": "audio/fr-de/wendungen/fa_03.mp3",
    "satz": {
     "fr": "J'assiste à une réunion. Je n'aide personne. Je suis juste là.",
     "de": "Ich nehme an einer Konferenz teil. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "assiste à",
-    "audio": "audio/saetze/fa_03.mp3"
+    "audio": "audio/fr-de/saetze/fa_03.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai assisté à une réunion de trois heures.",
-     "audio": "audio/saetze/fa_03_pc.mp3"
+     "audio": "audio/fr-de/saetze/fa_03_pc.mp3"
     },
     "fp": {
      "fr": "Je vais assister à une réunion. Encore.",
-     "audio": "audio/saetze/fa_03_fp.mp3"
+     "audio": "audio/fr-de/saetze/fa_03_fp.mp3"
     }
    }
   },
@@ -4196,21 +4446,21 @@ window.DATEN = {
    "de": "warten (≠ to attend = assister à)",
    "register": "tu",
    "anker": "attendre",
-   "audio": "audio/wendungen/fa_04.mp3",
+   "audio": "audio/fr-de/wendungen/fa_04.mp3",
    "satz": {
     "fr": "J'attends le bus. Le bus ne m'attend pas. C'est injuste.",
     "de": "Ich warte auf den Bus. Der Bus wartet nicht auf mich. Das ist ungerecht.",
     "luecke": "attends",
-    "audio": "audio/saetze/fa_04.mp3"
+    "audio": "audio/fr-de/saetze/fa_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai attendu le bus vingt minutes.",
-     "audio": "audio/saetze/fa_04_pc.mp3"
+     "audio": "audio/fr-de/saetze/fa_04_pc.mp3"
     },
     "fp": {
      "fr": "Je vais attendre le bus sous la pluie.",
-     "audio": "audio/saetze/fa_04_fp.mp3"
+     "audio": "audio/fr-de/saetze/fa_04_fp.mp3"
     }
    }
   },
@@ -4221,21 +4471,21 @@ window.DATEN = {
    "de": "verletzen (≠ to bless = bénir)",
    "register": "tu",
    "anker": "blesser",
-   "audio": "audio/wendungen/fa_05.mp3",
+   "audio": "audio/fr-de/wendungen/fa_05.mp3",
    "satz": {
     "fr": "Attention : « blesser » n'est pas gentil. Mon chat le sait bien.",
     "de": "Vorsicht: „blesser“ ist nicht nett. Meine Katze weiß das genau.",
     "luecke": "blesser",
-    "audio": "audio/saetze/fa_05.mp3"
+    "audio": "audio/fr-de/saetze/fa_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il m'a blessé. Avec ses griffes, pas avec des mots.",
-     "audio": "audio/saetze/fa_05_pc.mp3"
+     "audio": "audio/fr-de/saetze/fa_05_pc.mp3"
     },
     "fp": {
      "fr": "Il va me blesser si je continue.",
-     "audio": "audio/saetze/fa_05_fp.mp3"
+     "audio": "audio/fr-de/saetze/fa_05_fp.mp3"
     }
    }
   },
@@ -4246,21 +4496,21 @@ window.DATEN = {
    "de": "fragen, bitten (≠ to demand = exiger)",
    "register": "tu",
    "anker": "demander",
-   "audio": "audio/wendungen/fa_06.mp3",
+   "audio": "audio/fr-de/wendungen/fa_06.mp3",
    "satz": {
     "fr": "Je demande le silence. Je ne l'exige pas. Nuance de prof.",
     "de": "Ich bitte um Ruhe. Ich fordere sie nicht. Lehrer-Nuance.",
     "luecke": "demande",
-    "audio": "audio/saetze/fa_06.mp3"
+    "audio": "audio/fr-de/saetze/fa_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai demandé le silence. Poliment.",
-     "audio": "audio/saetze/fa_06_pc.mp3"
+     "audio": "audio/fr-de/saetze/fa_06_pc.mp3"
     },
     "fp": {
      "fr": "Je vais demander le silence. Encore une fois.",
-     "audio": "audio/saetze/fa_06_fp.mp3"
+     "audio": "audio/fr-de/saetze/fa_06_fp.mp3"
     }
    }
   },
@@ -4271,21 +4521,21 @@ window.DATEN = {
    "de": "bleiben (≠ to rest = se reposer)",
    "register": "tu",
    "anker": "rester",
-   "audio": "audio/wendungen/fa_07.mp3",
+   "audio": "audio/fr-de/wendungen/fa_07.mp3",
    "satz": {
     "fr": "Je reste à la maison. Je ne me repose pas : j'ai des copies.",
     "de": "Ich bleibe zu Hause. Ich ruhe mich nicht aus: Ich habe Arbeiten.",
     "luecke": "reste",
-    "audio": "audio/saetze/fa_07.mp3"
+    "audio": "audio/fr-de/saetze/fa_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Je suis resté à la maison tout le week-end.",
-     "audio": "audio/saetze/fa_07_pc.mp3"
+     "audio": "audio/fr-de/saetze/fa_07_pc.mp3"
     },
     "fp": {
      "fr": "Je vais rester à la maison ce soir.",
-     "audio": "audio/saetze/fa_07_fp.mp3"
+     "audio": "audio/fr-de/saetze/fa_07_fp.mp3"
     }
    }
   },
@@ -4296,12 +4546,12 @@ window.DATEN = {
    "de": "empfindlich, sensibel (≠ sensible = raisonnable)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/fa_08.mp3",
+   "audio": "audio/fr-de/wendungen/fa_08.mp3",
    "satz": {
     "fr": "Mon chat est sensible. Pas raisonnable. Sensible.",
     "de": "Meine Katze ist empfindlich. Nicht vernünftig. Empfindlich.",
     "luecke": "sensible",
-    "audio": "audio/saetze/fa_08.mp3"
+    "audio": "audio/fr-de/saetze/fa_08.mp3"
    },
    "zeit": null
   },
@@ -4312,12 +4562,12 @@ window.DATEN = {
    "de": "möglicherweise (≠ eventually = finalement)",
    "register": "tu",
    "anker": "venir",
-   "audio": "audio/wendungen/fa_09.mp3",
+   "audio": "audio/fr-de/wendungen/fa_09.mp3",
    "satz": {
     "fr": "Éventuellement, je viendrai. Finalement, je suis venu. Ce n'est pas pareil.",
     "de": "Möglicherweise komme ich. Schließlich bin ich gekommen. Das ist nicht dasselbe.",
     "luecke": "Éventuellement",
-    "audio": "audio/saetze/fa_09.mp3"
+    "audio": "audio/fr-de/saetze/fa_09.mp3"
    },
    "zeit": null
   },
@@ -4328,12 +4578,12 @@ window.DATEN = {
    "de": "eine Ecke (≠ coin = une pièce de monnaie)",
    "register": "tu",
    "anker": "dormir",
-   "audio": "audio/wendungen/fa_10.mp3",
+   "audio": "audio/fr-de/wendungen/fa_10.mp3",
    "satz": {
     "fr": "Le chat dort dans un coin. Pas sur une pièce. Dans un coin.",
     "de": "Die Katze schläft in einer Ecke. Nicht auf einer Münze. In einer Ecke.",
     "luecke": "coin",
-    "audio": "audio/saetze/fa_10.mp3"
+    "audio": "audio/fr-de/saetze/fa_10.mp3"
    },
    "zeit": null
   },
@@ -4344,12 +4594,12 @@ window.DATEN = {
    "de": "ein Tag (Verlauf) (≠ journey = un voyage)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/fa_11.mp3",
+   "audio": "audio/fr-de/wendungen/fa_11.mp3",
    "satz": {
     "fr": "Bonne journée ! Ce n'est pas un voyage. Juste un jour. Mais un bon.",
     "de": "Schönen Tag! Das ist keine Reise. Nur ein Tag. Aber ein guter.",
     "luecke": "journée",
-    "audio": "audio/saetze/fa_11.mp3"
+    "audio": "audio/fr-de/saetze/fa_11.mp3"
    },
    "zeit": null
   },
@@ -4360,12 +4610,12 @@ window.DATEN = {
    "de": "ein Kondom (≠ preservative = un conservateur)",
    "register": "tu",
    "anker": "dire",
-   "audio": "audio/wendungen/fa_12.mp3",
+   "audio": "audio/fr-de/wendungen/fa_12.mp3",
    "satz": {
     "fr": "« Sans préservatifs » sur une confiture ? Non. On dit « sans conservateurs ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "préservatif",
-    "audio": "audio/saetze/fa_12.mp3"
+    "audio": "audio/fr-de/saetze/fa_12.mp3"
    },
    "zeit": null
   },
@@ -4376,12 +4626,12 @@ window.DATEN = {
    "de": "ein Arm (≠ bra = un soutien-gorge)",
    "register": "tu",
    "anker": "avoir",
-   "audio": "audio/wendungen/fa_13.mp3",
+   "audio": "audio/fr-de/wendungen/fa_13.mp3",
    "satz": {
     "fr": "Il a un bras cassé. Un bras. Faites attention au mot anglais.",
     "de": "Er hat einen gebrochenen Arm. Einen Arm. Vorsicht mit dem englischen Wort.",
     "luecke": "bras",
-    "audio": "audio/saetze/fa_13.mp3"
+    "audio": "audio/fr-de/saetze/fa_13.mp3"
    },
    "zeit": null
   },
@@ -4392,12 +4642,12 @@ window.DATEN = {
    "de": "das Wechselgeld, Kleingeld (≠ money = l'argent)",
    "register": "vous",
    "anker": "avoir",
-   "audio": "audio/wendungen/fa_14.mp3",
+   "audio": "audio/fr-de/wendungen/fa_14.mp3",
    "satz": {
     "fr": "Vous avez la monnaie ? – Non, j'ai de l'argent, mais pas de monnaie.",
     "de": "Haben Sie Kleingeld? – Nein, ich habe Geld, aber kein Kleingeld.",
     "luecke": "monnaie",
-    "audio": "audio/saetze/fa_14.mp3"
+    "audio": "audio/fr-de/saetze/fa_14.mp3"
    },
    "zeit": null
   },
@@ -4408,12 +4658,12 @@ window.DATEN = {
    "de": "eine Enttäuschung (≠ deception = une tromperie)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/fa_15.mp3",
+   "audio": "audio/fr-de/wendungen/fa_15.mp3",
    "satz": {
     "fr": "La note ? Une déception. Pas une tromperie. Juste une déception.",
     "de": "Die Note? Eine Enttäuschung. Keine Täuschung. Nur eine Enttäuschung.",
     "luecke": "déception",
-    "audio": "audio/saetze/fa_15.mp3"
+    "audio": "audio/fr-de/saetze/fa_15.mp3"
    },
    "zeit": null
   },
@@ -4424,12 +4674,12 @@ window.DATEN = {
    "de": "ein Kleidungsstück (≠ habit = une habitude)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/fa_16.mp3",
+   "audio": "audio/fr-de/wendungen/fa_16.mp3",
    "satz": {
     "fr": "Mes habits du dimanche : un jogging. C'est aussi une habitude.",
     "de": "Meine Sonntagskleidung: eine Jogginghose. Das ist auch eine Gewohnheit.",
     "luecke": "habits",
-    "audio": "audio/saetze/fa_16.mp3"
+    "audio": "audio/fr-de/saetze/fa_16.mp3"
    },
    "zeit": null
   },
@@ -4440,21 +4690,21 @@ window.DATEN = {
    "de": "nicht wissen (≠ to ignore = ne pas tenir compte de)",
    "register": "tu",
    "anker": "ignorer",
-   "audio": "audio/wendungen/fa_17.mp3",
+   "audio": "audio/fr-de/wendungen/fa_17.mp3",
    "satz": {
     "fr": "J'ignore la réponse. Je ne l'ignore pas : je ne la connais pas.",
     "de": "Ich weiß die Antwort nicht. Ich ignoriere sie nicht: Ich kenne sie nicht.",
     "luecke": "ignore",
-    "audio": "audio/saetze/fa_17.mp3"
+    "audio": "audio/fr-de/saetze/fa_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai ignoré la réponse pendant tout le cours.",
-     "audio": "audio/saetze/fa_17_pc.mp3"
+     "audio": "audio/fr-de/saetze/fa_17_pc.mp3"
     },
     "fp": {
      "fr": "Je vais ignorer la réponse jusqu'à demain.",
-     "audio": "audio/saetze/fa_17_fp.mp3"
+     "audio": "audio/fr-de/saetze/fa_17_fp.mp3"
     }
    }
   },
@@ -4465,21 +4715,21 @@ window.DATEN = {
    "de": "ein Praktikum (≠ stage = une scène)",
    "register": "tu",
    "anker": "faire",
-   "audio": "audio/wendungen/fa_18.mp3",
+   "audio": "audio/fr-de/wendungen/fa_18.mp3",
    "satz": {
     "fr": "Mon élève fait un stage. Pas sur une scène. Dans une boulangerie.",
     "de": "Mein Schüler macht ein Praktikum. Nicht auf einer Bühne. In einer Bäckerei.",
     "luecke": "stage",
-    "audio": "audio/saetze/fa_18.mp3"
+    "audio": "audio/fr-de/saetze/fa_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il a fait un stage de deux semaines.",
-     "audio": "audio/saetze/fa_18_pc.mp3"
+     "audio": "audio/fr-de/saetze/fa_18_pc.mp3"
     },
     "fp": {
      "fr": "Il va faire un stage en juin.",
-     "audio": "audio/saetze/fa_18_fp.mp3"
+     "audio": "audio/fr-de/saetze/fa_18_fp.mp3"
     }
    }
   },
@@ -4490,12 +4740,12 @@ window.DATEN = {
    "de": "das Lesen, Lektüre (≠ lecture = un cours, une conférence)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/fa_19.mp3",
+   "audio": "audio/fr-de/wendungen/fa_19.mp3",
    "satz": {
     "fr": "Ma lecture du soir : un roman. Pas un cours. Un roman.",
     "de": "Meine Abendlektüre: ein Roman. Keine Vorlesung. Ein Roman.",
     "luecke": "lecture",
-    "audio": "audio/saetze/fa_19.mp3"
+    "audio": "audio/fr-de/saetze/fa_19.mp3"
    },
    "zeit": null
   },
@@ -4506,12 +4756,12 @@ window.DATEN = {
    "de": "ein Arzt (≠ medicine = un médicament)",
    "register": "tu",
    "anker": "donner",
-   "audio": "audio/wendungen/fa_20.mp3",
+   "audio": "audio/fr-de/wendungen/fa_20.mp3",
    "satz": {
     "fr": "Le médecin donne un médicament. Le médicament n'est pas le médecin.",
     "de": "Der Arzt gibt ein Medikament. Das Medikament ist nicht der Arzt.",
     "luecke": "médecin",
-    "audio": "audio/saetze/fa_20.mp3"
+    "audio": "audio/fr-de/saetze/fa_20.mp3"
    },
    "zeit": null
   },
@@ -4522,21 +4772,21 @@ window.DATEN = {
    "de": "behaupten (≠ to pretend = faire semblant)",
    "register": "tu",
    "anker": "prétendre",
-   "audio": "audio/wendungen/fa_21.mp3",
+   "audio": "audio/fr-de/wendungen/fa_21.mp3",
    "satz": {
     "fr": "Il prétend avoir fait ses devoirs. Il fait semblant de chercher son cahier.",
     "de": "Er behauptet, seine Hausaufgaben gemacht zu haben. Er tut so, als suche er sein Heft.",
     "luecke": "prétend",
-    "audio": "audio/saetze/fa_21.mp3"
+    "audio": "audio/fr-de/saetze/fa_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il a prétendu avoir fait ses devoirs.",
-     "audio": "audio/saetze/fa_21_pc.mp3"
+     "audio": "audio/fr-de/saetze/fa_21_pc.mp3"
     },
     "fp": {
      "fr": "Il va prétendre avoir fait ses devoirs.",
-     "audio": "audio/saetze/fa_21_fp.mp3"
+     "audio": "audio/fr-de/saetze/fa_21_fp.mp3"
     }
    }
   },
@@ -4547,12 +4797,12 @@ window.DATEN = {
    "de": "die Vermietung, Miete (≠ location = un lieu, un endroit)",
    "register": "tu",
    "anker": "louer",
-   "audio": "audio/wendungen/fa_22.mp3",
+   "audio": "audio/fr-de/wendungen/fa_22.mp3",
    "satz": {
     "fr": "Location de vélos. Ce n'est pas un lieu. C'est un vélo qu'on loue.",
     "de": "Fahrradverleih. Das ist kein Ort. Das ist ein Fahrrad, das man mietet.",
     "luecke": "Location",
-    "audio": "audio/saetze/fa_22.mp3"
+    "audio": "audio/fr-de/saetze/fa_22.mp3"
    },
    "zeit": null
   },
@@ -4563,12 +4813,12 @@ window.DATEN = {
    "de": "eine Weintraube (≠ raisin = un raisin sec)",
    "register": "tu",
    "anker": "être",
-   "audio": "audio/wendungen/fa_23.mp3",
+   "audio": "audio/fr-de/wendungen/fa_23.mp3",
    "satz": {
     "fr": "Un raisin, c'est frais. Un raisin sec, c'est sec. Logique française.",
     "de": "Eine Traube ist frisch. Eine Rosine ist trocken. Französische Logik.",
     "luecke": "raisin",
-    "audio": "audio/saetze/fa_23.mp3"
+    "audio": "audio/fr-de/saetze/fa_23.mp3"
    },
    "zeit": null
   },
@@ -4579,12 +4829,12 @@ window.DATEN = {
    "de": "Entschuldigung, ich suche die Bibliothek. (höflich)",
    "register": "vous",
    "anker": "chercher",
-   "audio": "audio/wendungen/fa_24.mp3",
+   "audio": "audio/fr-de/wendungen/fa_24.mp3",
    "satz": {
     "fr": "Excusez-moi, je cherche la bibliothèque. – La librairie ? – Non, la bibliothèque. Avec les livres gratuits.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Mit den kostenlosen Büchern.",
     "luecke": "je cherche la bibliothèque",
-    "audio": "audio/saetze/fa_24.mp3"
+    "audio": "audio/fr-de/saetze/fa_24.mp3"
    },
    "zeit": null
   }
@@ -4600,70 +4850,70 @@ window.DATEN = {
      "rolle": "A",
      "fr": "Salut Aurélien ! Ça fait longtemps !",
      "de": "Hallo Aurélien! Lange nicht gesehen!",
-     "audio": "audio/dialoge/d1_01.mp3"
+     "audio": "audio/fr-de/dialoge/d1_01.mp3"
     },
     {
      "id": "d1_02",
      "rolle": "B",
      "fr": "Salut Alex. Trois jours. Mais oui, ça fait longtemps.",
      "de": "Hallo Alex. Drei Tage. Aber ja, eine Ewigkeit.",
-     "audio": "audio/dialoge/d1_02.mp3"
+     "audio": "audio/fr-de/dialoge/d1_02.mp3"
     },
     {
      "id": "d1_03",
      "rolle": "A",
      "fr": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
      "de": "Und, deine Stunde mit den Neunern, gut gelaufen?",
-     "audio": "audio/dialoge/d1_03.mp3"
+     "audio": "audio/fr-de/dialoge/d1_03.mp3"
     },
     {
      "id": "d1_04",
      "rolle": "B",
      "fr": "Très bien. Ils ont dormi. Moi aussi, presque.",
      "de": "Sehr gut. Sie haben geschlafen. Ich fast auch.",
-     "audio": "audio/dialoge/d1_04.mp3"
+     "audio": "audio/fr-de/dialoge/d1_04.mp3"
     },
     {
      "id": "d1_05",
      "rolle": "A",
      "fr": "Moi, j'ai du mal à les faire taire le vendredi.",
      "de": "Ich kriege sie freitags kaum ruhig.",
-     "audio": "audio/dialoge/d1_05.mp3"
+     "audio": "audio/fr-de/dialoge/d1_05.mp3"
     },
     {
      "id": "d1_06",
      "rolle": "B",
      "fr": "Facile. Tu parles de grammaire. Silence total.",
      "de": "Ganz einfach. Du redest über Grammatik. Totenstille.",
-     "audio": "audio/dialoge/d1_06.mp3"
+     "audio": "audio/fr-de/dialoge/d1_06.mp3"
     },
     {
      "id": "d1_07",
      "rolle": "A",
      "fr": "Et toi, tu n'es pas crevé ?",
      "de": "Und du, bist du nicht fix und fertig?",
-     "audio": "audio/dialoge/d1_07.mp3"
+     "audio": "audio/fr-de/dialoge/d1_07.mp3"
     },
     {
      "id": "d1_08",
      "rolle": "B",
      "fr": "Si. Du coup, ce soir, je corrige des copies… devant un film.",
      "de": "Doch. Deshalb korrigiere ich heute Abend Arbeiten … vor einem Film.",
-     "audio": "audio/dialoge/d1_08.mp3"
+     "audio": "audio/fr-de/dialoge/d1_08.mp3"
     },
     {
      "id": "d1_09",
      "rolle": "A",
      "fr": "Un bon film ?",
      "de": "Ein guter Film?",
-     "audio": "audio/dialoge/d1_09.mp3"
+     "audio": "audio/fr-de/dialoge/d1_09.mp3"
     },
     {
      "id": "d1_10",
      "rolle": "B",
      "fr": "Je ne sais pas. Je regarde les copies.",
      "de": "Keine Ahnung. Ich schaue die Arbeiten an.",
-     "audio": "audio/dialoge/d1_10.mp3"
+     "audio": "audio/fr-de/dialoge/d1_10.mp3"
     }
    ]
   },
@@ -4677,75 +4927,156 @@ window.DATEN = {
      "rolle": "B",
      "fr": "Ça va, Alex ? Tu as l'air sombre.",
      "de": "Alles klar, Alex? Du siehst düster aus.",
-     "audio": "audio/dialoge/d2_01.mp3"
+     "audio": "audio/fr-de/dialoge/d2_01.mp3"
     },
     {
      "id": "d2_02",
      "rolle": "A",
      "fr": "J'ai le cafard. Mon chat ne me regarde plus.",
      "de": "Ich bin niedergeschlagen. Meine Katze schaut mich nicht mehr an.",
-     "audio": "audio/dialoge/d2_02.mp3"
+     "audio": "audio/fr-de/dialoge/d2_02.mp3"
     },
     {
      "id": "d2_03",
      "rolle": "B",
      "fr": "Depuis quand ?",
      "de": "Seit wann?",
-     "audio": "audio/dialoge/d2_03.mp3"
+     "audio": "audio/fr-de/dialoge/d2_03.mp3"
     },
     {
      "id": "d2_04",
      "rolle": "A",
      "fr": "Depuis que j'ai chanté en français.",
      "de": "Seit ich auf Französisch gesungen habe.",
-     "audio": "audio/dialoge/d2_04.mp3"
+     "audio": "audio/fr-de/dialoge/d2_04.mp3"
     },
     {
      "id": "d2_05",
      "rolle": "B",
      "fr": "Ah. Et c'était quelle chanson ?",
      "de": "Ah. Und welches Lied war es?",
-     "audio": "audio/dialoge/d2_05.mp3"
+     "audio": "audio/fr-de/dialoge/d2_05.mp3"
     },
     {
      "id": "d2_06",
      "rolle": "A",
      "fr": "« Ne me quitte pas ». Deux fois.",
      "de": "„Ne me quitte pas“. Zweimal.",
-     "audio": "audio/dialoge/d2_06.mp3"
+     "audio": "audio/fr-de/dialoge/d2_06.mp3"
     },
     {
      "id": "d2_07",
      "rolle": "B",
      "fr": "Alex… ça me fend le cœur, mais ton chat a raison.",
      "de": "Alex … das bricht mir das Herz, aber deine Katze hat recht.",
-     "audio": "audio/dialoge/d2_07.mp3"
+     "audio": "audio/fr-de/dialoge/d2_07.mp3"
     },
     {
      "id": "d2_08",
      "rolle": "A",
      "fr": "Tu trouves ça inquiétant ?",
      "de": "Findest du das beunruhigend?",
-     "audio": "audio/dialoge/d2_08.mp3"
+     "audio": "audio/fr-de/dialoge/d2_08.mp3"
     },
     {
      "id": "d2_09",
      "rolle": "B",
      "fr": "Non. Je trouve ça apaisant. Pour le chat, c'est fini.",
      "de": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
-     "audio": "audio/dialoge/d2_09.mp3"
+     "audio": "audio/fr-de/dialoge/d2_09.mp3"
     },
     {
      "id": "d2_10",
      "rolle": "A",
      "fr": "Merci, Aurélien. Ça me touche. Je crois.",
      "de": "Danke, Aurélien. Das berührt mich. Glaube ich.",
-     "audio": "audio/dialoge/d2_10.mp3"
+     "audio": "audio/fr-de/dialoge/d2_10.mp3"
     }
    ]
   }
  ],
- "nasale": {
+ "rollen": {
+  "A": "Alex",
+  "B": "Aurélien"
+ },
+ "dialoge_titel": [
+  "Dialogues avec Aurélien",
+  "Dialoge mit Aurélien"
+ ],
+ "aussprache": {
+  "id": "nasale",
+  "symbol": "👃",
+  "titel": "Les nasales",
+  "unter": "[ɑ̃] en · [ɔ̃] on · [ɛ̃] in · [œ̃] un – écouter, distinguer, les deux dans un mot",
+  "info": {
+   "an": [
+    "[ɑ̃]",
+    "en · an · em · am",
+    "bouche ouverte, langue en bas",
+    "Mund offen, Zunge unten (wie in « enfant »)"
+   ],
+   "on": [
+    "[ɔ̃]",
+    "on · om",
+    "lèvres arrondies, bouche presque fermée",
+    "Lippen rund, Mund fast zu (wie in « bon »)"
+   ],
+   "in": [
+    "[ɛ̃]",
+    "in · ain · ein · aim",
+    "bouche étirée, comme un « ä » nasal",
+    "Mund breit, wie ein nasales „ä“ (wie in « vin »)"
+   ],
+   "un": [
+    "[œ̃]",
+    "un · um",
+    "comme [ɛ̃], mais lèvres légèrement arrondies",
+    "wie [ɛ̃], aber Lippen leicht gerundet (wie in « brun »)"
+   ]
+  },
+  "reihe": [
+   "an",
+   "on",
+   "in",
+   "un"
+  ],
+  "paare_gruppen": [
+   [
+    "p1",
+    "en ou on ?"
+   ],
+   [
+    "p2",
+    "in ou en ?"
+   ],
+   [
+    "p3",
+    "in ou on ?"
+   ]
+  ],
+  "beide_name": "👑 Les deux",
+  "texte": {
+   "beide": [
+    "Deux nasales dans un mot. Écoute lentement, puis à vitesse normale – et répète en soignant chaque voyelle.",
+    "Zwei Nasale in einem Wort. Hör langsam, dann normal – und sprich nach, jede Nasale sauber."
+   ],
+   "klang": [
+    "{laut} – {tipp}. Écoute lentement, puis normalement. Répète !",
+    "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"
+   ],
+   "paar": [
+    "Écoute le mot. Lequel est-ce ? Touche le bon.",
+    "Hör das Wort. Welches ist es? Tipp auf das richtige."
+   ],
+   "hilfe": [
+    "Je t'aide : {a}. Écoute encore !",
+    "Ich helfe dir: {a}. Hör noch mal!"
+   ],
+   "beide_hoeren": [
+    "Plus facile : écouter les deux",
+    "Noch einfacher: beide hören"
+   ]
+  },
   "klaenge": {
    "an": [
     {
@@ -4753,56 +5084,56 @@ window.DATEN = {
      "wort": "enfant",
      "de": "Kind",
      "klang": "an",
-     "audio": "audio/nasale/an_01.mp3"
+     "audio": "audio/fr-de/nasale/an_01.mp3"
     },
     {
      "id": "an_02",
      "wort": "temps",
      "de": "Zeit, Wetter",
      "klang": "an",
-     "audio": "audio/nasale/an_02.mp3"
+     "audio": "audio/fr-de/nasale/an_02.mp3"
     },
     {
      "id": "an_03",
      "wort": "vent",
      "de": "Wind",
      "klang": "an",
-     "audio": "audio/nasale/an_03.mp3"
+     "audio": "audio/fr-de/nasale/an_03.mp3"
     },
     {
      "id": "an_04",
      "wort": "chanter",
      "de": "singen",
      "klang": "an",
-     "audio": "audio/nasale/an_04.mp3"
+     "audio": "audio/fr-de/nasale/an_04.mp3"
     },
     {
      "id": "an_05",
      "wort": "lentement",
      "de": "langsam",
      "klang": "an",
-     "audio": "audio/nasale/an_05.mp3"
+     "audio": "audio/fr-de/nasale/an_05.mp3"
     },
     {
      "id": "an_06",
      "wort": "dans",
      "de": "in",
      "klang": "an",
-     "audio": "audio/nasale/an_06.mp3"
+     "audio": "audio/fr-de/nasale/an_06.mp3"
     },
     {
      "id": "an_07",
      "wort": "grand",
      "de": "groß",
      "klang": "an",
-     "audio": "audio/nasale/an_07.mp3"
+     "audio": "audio/fr-de/nasale/an_07.mp3"
     },
     {
      "id": "an_08",
      "wort": "blanc",
      "de": "weiß",
      "klang": "an",
-     "audio": "audio/nasale/an_08.mp3"
+     "audio": "audio/fr-de/nasale/an_08.mp3"
     }
    ],
    "on": [
@@ -4811,56 +5142,56 @@ window.DATEN = {
      "wort": "bon",
      "de": "gut",
      "klang": "on",
-     "audio": "audio/nasale/on_01.mp3"
+     "audio": "audio/fr-de/nasale/on_01.mp3"
     },
     {
      "id": "on_02",
      "wort": "pont",
      "de": "Brücke",
      "klang": "on",
-     "audio": "audio/nasale/on_02.mp3"
+     "audio": "audio/fr-de/nasale/on_02.mp3"
     },
     {
      "id": "on_03",
      "wort": "mon",
      "de": "mein",
      "klang": "on",
-     "audio": "audio/nasale/on_03.mp3"
+     "audio": "audio/fr-de/nasale/on_03.mp3"
     },
     {
      "id": "on_04",
      "wort": "chanson",
      "de": "Lied",
      "klang": "on",
-     "audio": "audio/nasale/on_04.mp3"
+     "audio": "audio/fr-de/nasale/on_04.mp3"
     },
     {
      "id": "on_05",
      "wort": "maison",
      "de": "Haus",
      "klang": "on",
-     "audio": "audio/nasale/on_05.mp3"
+     "audio": "audio/fr-de/nasale/on_05.mp3"
     },
     {
      "id": "on_06",
      "wort": "long",
      "de": "lang",
      "klang": "on",
-     "audio": "audio/nasale/on_06.mp3"
+     "audio": "audio/fr-de/nasale/on_06.mp3"
     },
     {
      "id": "on_07",
      "wort": "nom",
      "de": "Name",
      "klang": "on",
-     "audio": "audio/nasale/on_07.mp3"
+     "audio": "audio/fr-de/nasale/on_07.mp3"
     },
     {
      "id": "on_08",
      "wort": "ronron",
      "de": "Schnurren",
      "klang": "on",
-     "audio": "audio/nasale/on_08.mp3"
+     "audio": "audio/fr-de/nasale/on_08.mp3"
     }
    ],
    "in": [
@@ -4869,56 +5200,56 @@ window.DATEN = {
      "wort": "vin",
      "de": "Wein",
      "klang": "in",
-     "audio": "audio/nasale/in_01.mp3"
+     "audio": "audio/fr-de/nasale/in_01.mp3"
     },
     {
      "id": "in_02",
      "wort": "pain",
      "de": "Brot",
      "klang": "in",
-     "audio": "audio/nasale/in_02.mp3"
+     "audio": "audio/fr-de/nasale/in_02.mp3"
     },
     {
      "id": "in_03",
      "wort": "main",
      "de": "Hand",
      "klang": "in",
-     "audio": "audio/nasale/in_03.mp3"
+     "audio": "audio/fr-de/nasale/in_03.mp3"
     },
     {
      "id": "in_04",
      "wort": "matin",
      "de": "Morgen",
      "klang": "in",
-     "audio": "audio/nasale/in_04.mp3"
+     "audio": "audio/fr-de/nasale/in_04.mp3"
     },
     {
      "id": "in_05",
      "wort": "chemin",
      "de": "Weg",
      "klang": "in",
-     "audio": "audio/nasale/in_05.mp3"
+     "audio": "audio/fr-de/nasale/in_05.mp3"
     },
     {
      "id": "in_06",
      "wort": "bien",
      "de": "gut",
      "klang": "in",
-     "audio": "audio/nasale/in_06.mp3"
+     "audio": "audio/fr-de/nasale/in_06.mp3"
     },
     {
      "id": "in_07",
      "wort": "plein",
      "de": "voll",
      "klang": "in",
-     "audio": "audio/nasale/in_07.mp3"
+     "audio": "audio/fr-de/nasale/in_07.mp3"
     },
     {
      "id": "in_08",
      "wort": "train",
      "de": "Zug",
      "klang": "in",
-     "audio": "audio/nasale/in_08.mp3"
+     "audio": "audio/fr-de/nasale/in_08.mp3"
     }
    ],
    "un": [
@@ -4927,42 +5258,42 @@ window.DATEN = {
      "wort": "un",
      "de": "ein",
      "klang": "un",
-     "audio": "audio/nasale/un_01.mp3"
+     "audio": "audio/fr-de/nasale/un_01.mp3"
     },
     {
      "id": "un_02",
      "wort": "brun",
      "de": "braun",
      "klang": "un",
-     "audio": "audio/nasale/un_02.mp3"
+     "audio": "audio/fr-de/nasale/un_02.mp3"
     },
     {
      "id": "un_03",
      "wort": "lundi",
      "de": "Montag",
      "klang": "un",
-     "audio": "audio/nasale/un_03.mp3"
+     "audio": "audio/fr-de/nasale/un_03.mp3"
     },
     {
      "id": "un_04",
      "wort": "parfum",
      "de": "Parfüm, Duft",
      "klang": "un",
-     "audio": "audio/nasale/un_04.mp3"
+     "audio": "audio/fr-de/nasale/un_04.mp3"
     },
     {
      "id": "un_05",
      "wort": "chacun",
      "de": "jeder",
      "klang": "un",
-     "audio": "audio/nasale/un_05.mp3"
+     "audio": "audio/fr-de/nasale/un_05.mp3"
     },
     {
      "id": "un_06",
      "wort": "quelqu'un",
      "de": "jemand",
      "klang": "un",
-     "audio": "audio/nasale/un_06.mp3"
+     "audio": "audio/fr-de/nasale/un_06.mp3"
     }
    ]
   },
@@ -4972,14 +5303,14 @@ window.DATEN = {
     "wort": "vent",
     "de": "Wind",
     "klang": "an",
-    "audio": "audio/nasale/p1_01a.mp3",
+    "audio": "audio/fr-de/nasale/p1_01a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_01b",
      "wort": "vont",
      "de": "(sie) gehen",
      "klang": "on",
-     "audio": "audio/nasale/p1_01b.mp3"
+     "audio": "audio/fr-de/nasale/p1_01b.mp3"
     }
    },
    {
@@ -4987,14 +5318,14 @@ window.DATEN = {
     "wort": "lent",
     "de": "langsam",
     "klang": "an",
-    "audio": "audio/nasale/p1_02a.mp3",
+    "audio": "audio/fr-de/nasale/p1_02a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_02b",
      "wort": "long",
      "de": "lang",
      "klang": "on",
-     "audio": "audio/nasale/p1_02b.mp3"
+     "audio": "audio/fr-de/nasale/p1_02b.mp3"
     }
    },
    {
@@ -5002,14 +5333,14 @@ window.DATEN = {
     "wort": "banc",
     "de": "Bank (zum Sitzen)",
     "klang": "an",
-    "audio": "audio/nasale/p1_03a.mp3",
+    "audio": "audio/fr-de/nasale/p1_03a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_03b",
      "wort": "bon",
      "de": "gut",
      "klang": "on",
-     "audio": "audio/nasale/p1_03b.mp3"
+     "audio": "audio/fr-de/nasale/p1_03b.mp3"
     }
    },
    {
@@ -5017,14 +5348,14 @@ window.DATEN = {
     "wort": "sans",
     "de": "ohne",
     "klang": "an",
-    "audio": "audio/nasale/p1_04a.mp3",
+    "audio": "audio/fr-de/nasale/p1_04a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_04b",
      "wort": "son",
      "de": "sein, ihr",
      "klang": "on",
-     "audio": "audio/nasale/p1_04b.mp3"
+     "audio": "audio/fr-de/nasale/p1_04b.mp3"
     }
    },
    {
@@ -5032,14 +5363,14 @@ window.DATEN = {
     "wort": "tant",
     "de": "so viel",
     "klang": "an",
-    "audio": "audio/nasale/p1_05a.mp3",
+    "audio": "audio/fr-de/nasale/p1_05a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_05b",
      "wort": "ton",
      "de": "dein",
      "klang": "on",
-     "audio": "audio/nasale/p1_05b.mp3"
+     "audio": "audio/fr-de/nasale/p1_05b.mp3"
     }
    },
    {
@@ -5047,14 +5378,14 @@ window.DATEN = {
     "wort": "dent",
     "de": "Zahn",
     "klang": "an",
-    "audio": "audio/nasale/p1_06a.mp3",
+    "audio": "audio/fr-de/nasale/p1_06a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_06b",
      "wort": "don",
      "de": "Gabe, Spende",
      "klang": "on",
-     "audio": "audio/nasale/p1_06b.mp3"
+     "audio": "audio/fr-de/nasale/p1_06b.mp3"
     }
    },
    {
@@ -5062,14 +5393,14 @@ window.DATEN = {
     "wort": "rang",
     "de": "Reihe, Rang",
     "klang": "an",
-    "audio": "audio/nasale/p1_07a.mp3",
+    "audio": "audio/fr-de/nasale/p1_07a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_07b",
      "wort": "rond",
      "de": "rund",
      "klang": "on",
-     "audio": "audio/nasale/p1_07b.mp3"
+     "audio": "audio/fr-de/nasale/p1_07b.mp3"
     }
    },
    {
@@ -5077,14 +5408,14 @@ window.DATEN = {
     "wort": "blanc",
     "de": "weiß",
     "klang": "an",
-    "audio": "audio/nasale/p1_08a.mp3",
+    "audio": "audio/fr-de/nasale/p1_08a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_08b",
      "wort": "blond",
      "de": "blond",
      "klang": "on",
-     "audio": "audio/nasale/p1_08b.mp3"
+     "audio": "audio/fr-de/nasale/p1_08b.mp3"
     }
    },
    {
@@ -5092,14 +5423,14 @@ window.DATEN = {
     "wort": "pain",
     "de": "Brot",
     "klang": "in",
-    "audio": "audio/nasale/p2_01a.mp3",
+    "audio": "audio/fr-de/nasale/p2_01a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_01b",
      "wort": "pan",
      "de": "Seite, Zipfel",
      "klang": "an",
-     "audio": "audio/nasale/p2_01b.mp3"
+     "audio": "audio/fr-de/nasale/p2_01b.mp3"
     }
    },
    {
@@ -5107,14 +5438,14 @@ window.DATEN = {
     "wort": "vin",
     "de": "Wein",
     "klang": "in",
-    "audio": "audio/nasale/p2_02a.mp3",
+    "audio": "audio/fr-de/nasale/p2_02a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_02b",
      "wort": "vent",
      "de": "Wind",
      "klang": "an",
-     "audio": "audio/nasale/p2_02b.mp3"
+     "audio": "audio/fr-de/nasale/p2_02b.mp3"
     }
    },
    {
@@ -5122,14 +5453,14 @@ window.DATEN = {
     "wort": "bain",
     "de": "Bad",
     "klang": "in",
-    "audio": "audio/nasale/p2_03a.mp3",
+    "audio": "audio/fr-de/nasale/p2_03a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_03b",
      "wort": "banc",
      "de": "Bank",
      "klang": "an",
-     "audio": "audio/nasale/p2_03b.mp3"
+     "audio": "audio/fr-de/nasale/p2_03b.mp3"
     }
    },
    {
@@ -5137,14 +5468,14 @@ window.DATEN = {
     "wort": "main",
     "de": "Hand",
     "klang": "in",
-    "audio": "audio/nasale/p2_04a.mp3",
+    "audio": "audio/fr-de/nasale/p2_04a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_04b",
      "wort": "ment",
      "de": "(er) lügt",
      "klang": "an",
-     "audio": "audio/nasale/p2_04b.mp3"
+     "audio": "audio/fr-de/nasale/p2_04b.mp3"
     }
    },
    {
@@ -5152,14 +5483,14 @@ window.DATEN = {
     "wort": "fin",
     "de": "Ende",
     "klang": "in",
-    "audio": "audio/nasale/p2_05a.mp3",
+    "audio": "audio/fr-de/nasale/p2_05a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_05b",
      "wort": "fend",
      "de": "(er) spaltet",
      "klang": "an",
-     "audio": "audio/nasale/p2_05b.mp3"
+     "audio": "audio/fr-de/nasale/p2_05b.mp3"
     }
    },
    {
@@ -5167,14 +5498,14 @@ window.DATEN = {
     "wort": "teint",
     "de": "Teint, Hautfarbe",
     "klang": "in",
-    "audio": "audio/nasale/p2_06a.mp3",
+    "audio": "audio/fr-de/nasale/p2_06a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_06b",
      "wort": "temps",
      "de": "Zeit",
      "klang": "an",
-     "audio": "audio/nasale/p2_06b.mp3"
+     "audio": "audio/fr-de/nasale/p2_06b.mp3"
     }
    },
    {
@@ -5182,14 +5513,14 @@ window.DATEN = {
     "wort": "lin",
     "de": "Leinen",
     "klang": "in",
-    "audio": "audio/nasale/p2_07a.mp3",
+    "audio": "audio/fr-de/nasale/p2_07a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_07b",
      "wort": "lent",
      "de": "langsam",
      "klang": "an",
-     "audio": "audio/nasale/p2_07b.mp3"
+     "audio": "audio/fr-de/nasale/p2_07b.mp3"
     }
    },
    {
@@ -5197,14 +5528,14 @@ window.DATEN = {
     "wort": "sain",
     "de": "gesund",
     "klang": "in",
-    "audio": "audio/nasale/p2_08a.mp3",
+    "audio": "audio/fr-de/nasale/p2_08a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_08b",
      "wort": "sans",
      "de": "ohne",
      "klang": "an",
-     "audio": "audio/nasale/p2_08b.mp3"
+     "audio": "audio/fr-de/nasale/p2_08b.mp3"
     }
    },
    {
@@ -5212,14 +5543,14 @@ window.DATEN = {
     "wort": "bain",
     "de": "Bad",
     "klang": "in",
-    "audio": "audio/nasale/p3_01a.mp3",
+    "audio": "audio/fr-de/nasale/p3_01a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_01b",
      "wort": "bon",
      "de": "gut",
      "klang": "on",
-     "audio": "audio/nasale/p3_01b.mp3"
+     "audio": "audio/fr-de/nasale/p3_01b.mp3"
     }
    },
    {
@@ -5227,14 +5558,14 @@ window.DATEN = {
     "wort": "sain",
     "de": "gesund",
     "klang": "in",
-    "audio": "audio/nasale/p3_02a.mp3",
+    "audio": "audio/fr-de/nasale/p3_02a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_02b",
      "wort": "son",
      "de": "sein, ihr",
      "klang": "on",
-     "audio": "audio/nasale/p3_02b.mp3"
+     "audio": "audio/fr-de/nasale/p3_02b.mp3"
     }
    },
    {
@@ -5242,14 +5573,14 @@ window.DATEN = {
     "wort": "lin",
     "de": "Leinen",
     "klang": "in",
-    "audio": "audio/nasale/p3_03a.mp3",
+    "audio": "audio/fr-de/nasale/p3_03a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_03b",
      "wort": "long",
      "de": "lang",
      "klang": "on",
-     "audio": "audio/nasale/p3_03b.mp3"
+     "audio": "audio/fr-de/nasale/p3_03b.mp3"
     }
    },
    {
@@ -5257,14 +5588,14 @@ window.DATEN = {
     "wort": "daim",
     "de": "Damhirsch, Wildleder",
     "klang": "in",
-    "audio": "audio/nasale/p3_04a.mp3",
+    "audio": "audio/fr-de/nasale/p3_04a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_04b",
      "wort": "don",
      "de": "Gabe",
      "klang": "on",
-     "audio": "audio/nasale/p3_04b.mp3"
+     "audio": "audio/fr-de/nasale/p3_04b.mp3"
     }
    },
    {
@@ -5272,14 +5603,14 @@ window.DATEN = {
     "wort": "brin",
     "de": "Halm",
     "klang": "in",
-    "audio": "audio/nasale/p3_05a.mp3",
+    "audio": "audio/fr-de/nasale/p3_05a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_05b",
      "wort": "brun",
      "de": "braun",
      "klang": "un",
-     "audio": "audio/nasale/p3_05b.mp3"
+     "audio": "audio/fr-de/nasale/p3_05b.mp3"
     }
    },
    {
@@ -5287,14 +5618,14 @@ window.DATEN = {
     "wort": "pin",
     "de": "Kiefer",
     "klang": "in",
-    "audio": "audio/nasale/p3_06a.mp3",
+    "audio": "audio/fr-de/nasale/p3_06a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_06b",
      "wort": "pont",
      "de": "Brücke",
      "klang": "on",
-     "audio": "audio/nasale/p3_06b.mp3"
+     "audio": "audio/fr-de/nasale/p3_06b.mp3"
     }
    }
   ],
@@ -5304,7 +5635,7 @@ window.DATEN = {
     "wort": "commençons",
     "de": "wir fangen an",
     "klang": "an,on",
-    "audio": "audio/nasale/b_01.mp3",
+    "audio": "audio/fr-de/nasale/b_01.mp3",
     "markup": "comm{an|en}ç{on|on}s",
     "klaenge": [
      "an",
@@ -5316,7 +5647,7 @@ window.DATEN = {
     "wort": "montant",
     "de": "Betrag",
     "klang": "on,an",
-    "audio": "audio/nasale/b_02.mp3",
+    "audio": "audio/fr-de/nasale/b_02.mp3",
     "markup": "m{on|on}t{an|an}t",
     "klaenge": [
      "on",
@@ -5328,7 +5659,7 @@ window.DATEN = {
     "wort": "maintenant",
     "de": "jetzt",
     "klang": "in,an",
-    "audio": "audio/nasale/b_03.mp3",
+    "audio": "audio/fr-de/nasale/b_03.mp3",
     "markup": "m{in|ain}t{an|en}{an|an}t",
     "klaenge": [
      "in",
@@ -5340,7 +5671,7 @@ window.DATEN = {
     "wort": "pension",
     "de": "Pension, Rente",
     "klang": "an,on",
-    "audio": "audio/nasale/b_04.mp3",
+    "audio": "audio/fr-de/nasale/b_04.mp3",
     "markup": "p{an|en}si{on|on}",
     "klaenge": [
      "an",
@@ -5352,7 +5683,7 @@ window.DATEN = {
     "wort": "bonbon",
     "de": "Bonbon",
     "klang": "on,on",
-    "audio": "audio/nasale/b_05.mp3",
+    "audio": "audio/fr-de/nasale/b_05.mp3",
     "markup": "b{on|on}b{on|on}",
     "klaenge": [
      "on",
@@ -5364,7 +5695,7 @@ window.DATEN = {
     "wort": "mon enfant",
     "de": "mein Kind",
     "klang": "on,an",
-    "audio": "audio/nasale/b_06.mp3",
+    "audio": "audio/fr-de/nasale/b_06.mp3",
     "markup": "m{on|on} {an|en}f{an|an}t",
     "klaenge": [
      "on",
@@ -5376,7 +5707,7 @@ window.DATEN = {
     "wort": "en avion",
     "de": "im Flugzeug",
     "klang": "an,on",
-    "audio": "audio/nasale/b_07.mp3",
+    "audio": "audio/fr-de/nasale/b_07.mp3",
     "markup": "{an|en} avi{on|on}",
     "klaenge": [
      "an",
@@ -5388,7 +5719,7 @@ window.DATEN = {
     "wort": "un bon vin blanc",
     "de": "ein guter Weißwein",
     "klang": "un,on,in,an",
-    "audio": "audio/nasale/b_08.mp3",
+    "audio": "audio/fr-de/nasale/b_08.mp3",
     "markup": "{un|un} b{on|on} v{in|in} bl{an|an}c",
     "klaenge": [
      "un",
@@ -5402,7 +5733,7 @@ window.DATEN = {
     "wort": "attention",
     "de": "Achtung",
     "klang": "an,on",
-    "audio": "audio/nasale/b_09.mp3",
+    "audio": "audio/fr-de/nasale/b_09.mp3",
     "markup": "att{an|en}ti{on|on}",
     "klaenge": [
      "an",
@@ -5414,7 +5745,7 @@ window.DATEN = {
     "wort": "tant mieux",
     "de": "umso besser",
     "klang": "an",
-    "audio": "audio/nasale/b_10.mp3",
+    "audio": "audio/fr-de/nasale/b_10.mp3",
     "markup": "t{an|an}t mieux",
     "klaenge": [
      "an"
@@ -5425,7 +5756,7 @@ window.DATEN = {
     "wort": "lentement",
     "de": "langsam",
     "klang": "an,an",
-    "audio": "audio/nasale/b_11.mp3",
+    "audio": "audio/fr-de/nasale/b_11.mp3",
     "markup": "l{an|en}tem{an|en}t",
     "klaenge": [
      "an",
@@ -5437,7 +5768,7 @@ window.DATEN = {
     "wort": "invitation",
     "de": "Einladung",
     "klang": "in,on",
-    "audio": "audio/nasale/b_12.mp3",
+    "audio": "audio/fr-de/nasale/b_12.mp3",
     "markup": "{in|in}vitati{on|on}",
     "klaenge": [
      "in",
@@ -5455,85 +5786,85 @@ window.DATEN = {
      "id": "k01_01",
      "fr": "Julien Lefèvre était professeur à Metz. Un professeur normal. Enfin, presque.",
      "de": "Julien Lefèvre war Lehrer in Metz. Ein normaler Lehrer. Na ja, fast.",
-     "audio": "audio/geschichte/k01_01.mp3"
+     "audio": "audio/fr-de/geschichte/k01_01.mp3"
     },
     {
      "id": "k01_02",
      "fr": "Ce vendredi soir, il **corrigeait des copies**, comme tous les vendredis. Il **était crevé**. Dehors, il pleuvait. Dedans, son chat **faisait la sieste** sur les copies déjà corrigées.",
      "de": "An diesem Freitagabend korrigierte er Arbeiten, wie jeden Freitag. Er war fix und fertig. Draußen regnete es. Drinnen machte seine Katze ein Nickerchen auf den schon korrigierten Arbeiten.",
-     "audio": "audio/geschichte/k01_02.mp3"
+     "audio": "audio/fr-de/geschichte/k01_02.mp3"
     },
     {
      "id": "k01_03",
      "fr": "La dix-septième copie était celle de Mehdi, un élève de troisième qui écrivait peu, mais bien.",
      "de": "Die siebzehnte Arbeit war die von Mehdi, einem Neuntklässler, der wenig schrieb, aber gut.",
-     "audio": "audio/geschichte/k01_03.mp3"
+     "audio": "audio/fr-de/geschichte/k01_03.mp3"
     },
     {
      "id": "k01_04",
      "fr": "Entre la page deux et la page trois, il y avait quelque chose. Un billet. Un billet d'entrée pour le musée du Louvre.",
      "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Karte. Eine Eintrittskarte für den Louvre.",
-     "audio": "audio/geschichte/k01_04.mp3"
+     "audio": "audio/fr-de/geschichte/k01_04.mp3"
     },
     {
      "id": "k01_05",
      "fr": "Julien a regardé la date. Demain. Samedi. Dix heures.",
      "de": "Julien sah auf das Datum. Morgen. Samstag. Zehn Uhr.",
-     "audio": "audio/geschichte/k01_05.mp3"
+     "audio": "audio/fr-de/geschichte/k01_05.mp3"
     },
     {
      "id": "k01_06",
      "fr": "Au dos du billet, quelqu'un avait écrit, en lettres bleues : « Salle 13. Venez seul. Et n'ayez pas peur. »",
      "de": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: „Saal 13. Kommen Sie allein. Und haben Sie keine Angst.“",
-     "audio": "audio/geschichte/k01_06.mp3"
+     "audio": "audio/fr-de/geschichte/k01_06.mp3"
     },
     {
      "id": "k01_07",
      "fr": "Julien n'**avait pas peur**. Pas encore. Il **avait du mal à** comprendre, c'est tout.",
      "de": "Julien hatte keine Angst. Noch nicht. Er hatte nur Schwierigkeiten, das zu verstehen, das war alles.",
-     "audio": "audio/geschichte/k01_07.mp3"
+     "audio": "audio/fr-de/geschichte/k01_07.mp3"
     },
     {
      "id": "k01_08",
      "fr": "Il a relu la copie de Mehdi. Un bon devoir. Treize sur vingt. Mais à la fin, une phrase ne faisait pas partie de la rédaction : « Monsieur, il faut y aller. Le chat le sait. »",
      "de": "Er las Mehdis Arbeit noch einmal. Eine gute Arbeit. Dreizehn von zwanzig. Aber am Ende stand ein Satz, der nicht zum Aufsatz gehörte: „Monsieur, Sie müssen hingehen. Die Katze weiß es.“",
-     "audio": "audio/geschichte/k01_08.mp3"
+     "audio": "audio/fr-de/geschichte/k01_08.mp3"
     },
     {
      "id": "k01_09",
      "fr": "Julien a regardé son chat. Le chat a ouvert un œil. Puis il **a ronronné**. Une seule fois. Comme un oui.",
      "de": "Julien sah seine Katze an. Die Katze öffnete ein Auge. Dann schnurrte sie. Ein einziges Mal. Wie ein Ja.",
-     "audio": "audio/geschichte/k01_09.mp3"
+     "audio": "audio/fr-de/geschichte/k01_09.mp3"
     },
     {
      "id": "k01_10",
      "fr": "« **Ça ne fait rien** », a dit Julien à voix haute. « Je n'irai pas. »",
      "de": "„Macht nichts“, sagte Julien laut. „Ich gehe nicht hin.“",
-     "audio": "audio/geschichte/k01_10.mp3"
+     "audio": "audio/fr-de/geschichte/k01_10.mp3"
     },
     {
      "id": "k01_11",
      "fr": "Il a mis le billet dans sa poche. **Du coup**, à six heures du matin, il était dans le train pour Paris.",
      "de": "Er steckte die Karte in seine Tasche. Und so saß er um sechs Uhr morgens im Zug nach Paris.",
-     "audio": "audio/geschichte/k01_11.mp3"
+     "audio": "audio/fr-de/geschichte/k01_11.mp3"
     },
     {
      "id": "k01_12",
      "fr": "**Ça fait longtemps** qu'il n'avait pas vu le Louvre. Il **avait hâte**. Et, pour être honnête, un petit peu **le cafard**.",
      "de": "Es war lange her, dass er den Louvre gesehen hatte. Er konnte es kaum erwarten. Und, ehrlich gesagt, war ihm ein bisschen schwer ums Herz.",
-     "audio": "audio/geschichte/k01_12.mp3"
+     "audio": "audio/fr-de/geschichte/k01_12.mp3"
     },
     {
      "id": "k01_13",
      "fr": "Dans le wagon, en face de lui, un homme lisait le journal. Sur ses genoux, un chat gris le regardait. Le chat, pas l'homme.",
      "de": "Im Waggon, ihm gegenüber, las ein Mann Zeitung. Auf seinem Schoß sah ihn eine graue Katze an. Die Katze, nicht der Mann.",
-     "audio": "audio/geschichte/k01_13.mp3"
+     "audio": "audio/fr-de/geschichte/k01_13.mp3"
     },
     {
      "id": "k01_14",
      "fr": "À suivre.",
      "de": "Fortsetzung folgt.",
-     "audio": "audio/geschichte/k01_14.mp3"
+     "audio": "audio/fr-de/geschichte/k01_14.mp3"
     }
    ]
   },
@@ -5545,91 +5876,91 @@ window.DATEN = {
      "id": "k02_01",
      "fr": "Le train pour Paris mettait une heure et demie. Julien avait un livre, un café et une question.",
      "de": "Der Zug nach Paris brauchte anderthalb Stunden. Julien hatte ein Buch, einen Kaffee und eine Frage.",
-     "audio": "audio/geschichte/k02_01.mp3"
+     "audio": "audio/fr-de/geschichte/k02_01.mp3"
     },
     {
      "id": "k02_02",
      "fr": "L'homme en face de lui lisait toujours le journal. Le chat gris, lui, ne lisait pas. Il regardait Julien. **Ça ne le dérangeait pas**, apparemment.",
      "de": "Der Mann ihm gegenüber las immer noch Zeitung. Die graue Katze las nicht. Sie sah Julien an. Das störte sie offenbar nicht.",
-     "audio": "audio/geschichte/k02_02.mp3"
+     "audio": "audio/fr-de/geschichte/k02_02.mp3"
     },
     {
      "id": "k02_03",
      "fr": "« Il est **indépendant** », a dit l'homme sans lever les yeux. « Il choisit les gens. »",
      "de": "„Er ist unabhängig“, sagte der Mann, ohne aufzusehen. „Er sucht sich die Leute aus.“",
-     "audio": "audio/geschichte/k02_03.mp3"
+     "audio": "audio/fr-de/geschichte/k02_03.mp3"
     },
     {
      "id": "k02_04",
      "fr": "« Et il m'a choisi ? » a demandé Julien.",
      "de": "„Und er hat mich ausgesucht?“, fragte Julien.",
-     "audio": "audio/geschichte/k02_04.mp3"
+     "audio": "audio/fr-de/geschichte/k02_04.mp3"
     },
     {
      "id": "k02_05",
      "fr": "« Non. Il vous a reconnu. Ce n'est pas la même chose. »",
      "de": "„Nein. Er hat Sie erkannt. Das ist nicht dasselbe.“",
-     "audio": "audio/geschichte/k02_05.mp3"
+     "audio": "audio/fr-de/geschichte/k02_05.mp3"
     },
     {
      "id": "k02_06",
      "fr": "Julien a souri poliment. Il avait l'habitude des gens bizarres. Il était professeur.",
      "de": "Julien lächelte höflich. Er war seltsame Leute gewohnt. Er war Lehrer.",
-     "audio": "audio/geschichte/k02_06.mp3"
+     "audio": "audio/fr-de/geschichte/k02_06.mp3"
     },
     {
      "id": "k02_07",
      "fr": "Entre Châlons et Paris, l'homme a plié son journal. Il a posé sur la table une petite clé en laiton, très vieille, avec un numéro : 13.",
      "de": "Zwischen Châlons und Paris faltete der Mann seine Zeitung zusammen. Er legte einen kleinen, sehr alten Messingschlüssel auf den Tisch, mit einer Nummer: 13.",
-     "audio": "audio/geschichte/k02_07.mp3"
+     "audio": "audio/fr-de/geschichte/k02_07.mp3"
     },
     {
      "id": "k02_08",
      "fr": "« Vous allez chercher la salle 13 », a-t-il dit. « Elle n'est pas sur le plan. Elle n'est pas sur Internet. Elle est entre la salle 12 et la salle 14. Évidemment. »",
      "de": "„Sie werden Saal 13 suchen“, sagte er. „Er steht nicht auf dem Plan. Er steht nicht im Internet. Er liegt zwischen Saal 12 und Saal 14. Natürlich.“",
-     "audio": "audio/geschichte/k02_08.mp3"
+     "audio": "audio/fr-de/geschichte/k02_08.mp3"
     },
     {
      "id": "k02_09",
      "fr": "« Évidemment », a répété Julien. Il **avait du mal à** garder son sérieux. Et en même temps, il **avait le cœur lourd**, sans savoir pourquoi.",
      "de": "„Natürlich“, wiederholte Julien. Er hatte Mühe, ernst zu bleiben. Und gleichzeitig war ihm schwer ums Herz, ohne zu wissen, warum.",
-     "audio": "audio/geschichte/k02_09.mp3"
+     "audio": "audio/fr-de/geschichte/k02_09.mp3"
     },
     {
      "id": "k02_10",
      "fr": "« Une dernière chose, monsieur Lefèvre. » L'homme connaissait son nom. « Dans la salle 13, ne chantez pas. »",
      "de": "„Noch etwas, Monsieur Lefèvre.“ Der Mann kannte seinen Namen. „In Saal 13: Singen Sie nicht.“",
-     "audio": "audio/geschichte/k02_10.mp3"
+     "audio": "audio/fr-de/geschichte/k02_10.mp3"
     },
     {
      "id": "k02_11",
      "fr": "Le train est entré en gare de l'Est. Quand Julien s'est retourné, l'homme n'était plus là. Le chat non plus.",
      "de": "Der Zug fuhr in den Gare de l'Est ein. Als Julien sich umdrehte, war der Mann nicht mehr da. Die Katze auch nicht.",
-     "audio": "audio/geschichte/k02_11.mp3"
+     "audio": "audio/fr-de/geschichte/k02_11.mp3"
     },
     {
      "id": "k02_12",
      "fr": "Sur la table, il y avait la clé. Et un poil gris.",
      "de": "Auf dem Tisch lagen der Schlüssel. Und ein graues Haar.",
-     "audio": "audio/geschichte/k02_12.mp3"
+     "audio": "audio/fr-de/geschichte/k02_12.mp3"
     },
     {
      "id": "k02_13",
      "fr": "Julien a pris les deux. **Du coup**, il était maintenant un professeur de Metz avec une clé, un poil de chat et un rendez-vous dans une salle qui n'existait pas.",
      "de": "Julien nahm beides. Und so war er jetzt ein Lehrer aus Metz mit einem Schlüssel, einem Katzenhaar und einer Verabredung in einem Saal, den es nicht gab.",
-     "audio": "audio/geschichte/k02_13.mp3"
+     "audio": "audio/fr-de/geschichte/k02_13.mp3"
     },
     {
      "id": "k02_14",
      "fr": "Un samedi normal, en somme.",
      "de": "Ein normaler Samstag, alles in allem.",
-     "audio": "audio/geschichte/k02_14.mp3"
+     "audio": "audio/fr-de/geschichte/k02_14.mp3"
     },
     {
      "id": "k02_15",
      "fr": "À suivre.",
      "de": "Fortsetzung folgt.",
-     "audio": "audio/geschichte/k02_15.mp3"
+     "audio": "audio/fr-de/geschichte/k02_15.mp3"
     }
    ]
   },
@@ -5641,471 +5972,479 @@ window.DATEN = {
      "id": "k03_01",
      "fr": "Dix heures. Sous la pyramide, il y avait du monde, des valises, des enfants et un guide qui criait « Mona Lisa, par ici ! » en quatre langues.",
      "de": "Zehn Uhr. Unter der Pyramide waren Menschen, Koffer, Kinder und ein Führer, der „Mona Lisa, hier entlang!“ in vier Sprachen rief.",
-     "audio": "audio/geschichte/k03_01.mp3"
+     "audio": "audio/fr-de/geschichte/k03_01.mp3"
     },
     {
      "id": "k03_02",
      "fr": "Julien a montré son billet. La machine a dit *bip*. Un bip normal. Il était presque déçu.",
      "de": "Julien zeigte seine Karte. Die Maschine machte *piep*. Ein normales Piep. Er war fast enttäuscht.",
-     "audio": "audio/geschichte/k03_02.mp3"
+     "audio": "audio/fr-de/geschichte/k03_02.mp3"
     },
     {
      "id": "k03_03",
      "fr": "L'aile Denon, premier étage. Salle 12 : des peintures italiennes. Salle 14 : des peintures italiennes. Entre les deux : un mur.",
      "de": "Flügel Denon, erster Stock. Saal 12: italienische Malerei. Saal 14: italienische Malerei. Dazwischen: eine Wand.",
-     "audio": "audio/geschichte/k03_03.mp3"
+     "audio": "audio/fr-de/geschichte/k03_03.mp3"
     },
     {
      "id": "k03_04",
      "fr": "Julien a regardé le mur pendant cinq minutes. Un gardien a regardé Julien pendant cinq minutes. Puis le gardien est parti. **Ça fait longtemps** qu'il travaillait ici ; il avait vu des choses plus étranges.",
      "de": "Julien sah die Wand fünf Minuten lang an. Ein Wärter sah Julien fünf Minuten lang an. Dann ging der Wärter. Er arbeitete schon lange hier; er hatte seltsamere Dinge gesehen.",
-     "audio": "audio/geschichte/k03_04.mp3"
+     "audio": "audio/fr-de/geschichte/k03_04.mp3"
     },
     {
      "id": "k03_05",
      "fr": "Dans le mur, à hauteur de main, il y avait une petite plaque en laiton. Et dans la plaque, un trou de serrure.",
      "de": "In der Wand, auf Handhöhe, war ein kleines Messingschild. Und im Schild ein Schlüsselloch.",
-     "audio": "audio/geschichte/k03_05.mp3"
+     "audio": "audio/fr-de/geschichte/k03_05.mp3"
     },
     {
      "id": "k03_06",
      "fr": "Julien a sorti la clé. Il a hésité. Il **avait un peu peur**, maintenant. Pas de la porte. De lui-même : il allait vraiment le faire.",
      "de": "Julien holte den Schlüssel heraus. Er zögerte. Jetzt hatte er ein bisschen Angst. Nicht vor der Tür. Vor sich selbst: Er würde es wirklich tun.",
-     "audio": "audio/geschichte/k03_06.mp3"
+     "audio": "audio/fr-de/geschichte/k03_06.mp3"
     },
     {
      "id": "k03_07",
      "fr": "La clé est entrée. Le mur s'est ouvert, sans bruit, comme une porte qui a l'habitude.",
      "de": "Der Schlüssel passte. Die Wand öffnete sich, lautlos, wie eine Tür, die das gewohnt ist.",
-     "audio": "audio/geschichte/k03_07.mp3"
+     "audio": "audio/fr-de/geschichte/k03_07.mp3"
     },
     {
      "id": "k03_08",
      "fr": "La salle 13 était petite, **sombre** et **paisible**. Pas de visiteurs. Pas de guide. Un seul tableau, au fond, éclairé par une lampe.",
      "de": "Saal 13 war klein, düster und friedlich. Keine Besucher. Kein Führer. Ein einziges Gemälde, hinten, von einer Lampe beleuchtet.",
-     "audio": "audio/geschichte/k03_08.mp3"
+     "audio": "audio/fr-de/geschichte/k03_08.mp3"
     },
     {
      "id": "k03_09",
      "fr": "Sur le tableau, un chat gris dormait sur une pile de papiers. Des copies, aurait dit Julien. Le tableau datait de 1911.",
      "de": "Auf dem Gemälde schlief eine graue Katze auf einem Stapel Papiere. Arbeiten, hätte Julien gesagt. Das Bild stammte von 1911.",
-     "audio": "audio/geschichte/k03_09.mp3"
+     "audio": "audio/fr-de/geschichte/k03_09.mp3"
     },
     {
      "id": "k03_10",
      "fr": "Julien s'est approché. Il a entendu quelque chose. Un bruit doux, régulier, impossible.",
      "de": "Julien trat näher. Er hörte etwas. Ein leises, gleichmäßiges, unmögliches Geräusch.",
-     "audio": "audio/geschichte/k03_10.mp3"
+     "audio": "audio/fr-de/geschichte/k03_10.mp3"
     },
     {
      "id": "k03_11",
      "fr": "Le tableau **ronronnait**.",
      "de": "Das Gemälde schnurrte.",
-     "audio": "audio/geschichte/k03_11.mp3"
+     "audio": "audio/fr-de/geschichte/k03_11.mp3"
     },
     {
      "id": "k03_12",
      "fr": "« **Ça, c'est inquiétant** », a dit Julien à voix haute. Puis, parce qu'il était nerveux, il a fait ce qu'il faisait toujours quand il était nerveux. Il a fredonné.",
      "de": "„Das ist beunruhigend“, sagte Julien laut. Dann tat er, weil er nervös war, was er immer tat, wenn er nervös war. Er summte.",
-     "audio": "audio/geschichte/k03_12.mp3"
+     "audio": "audio/fr-de/geschichte/k03_12.mp3"
     },
     {
      "id": "k03_13",
      "fr": "Trois notes. « Ne me quitte pas ».",
      "de": "Drei Töne. „Ne me quitte pas“.",
-     "audio": "audio/geschichte/k03_13.mp3"
+     "audio": "audio/fr-de/geschichte/k03_13.mp3"
     },
     {
      "id": "k03_14",
      "fr": "Le ronronnement s'est arrêté.",
      "de": "Das Schnurren hörte auf.",
-     "audio": "audio/geschichte/k03_14.mp3"
+     "audio": "audio/fr-de/geschichte/k03_14.mp3"
     },
     {
      "id": "k03_15",
      "fr": "À suivre.",
      "de": "Fortsetzung folgt.",
-     "audio": "audio/geschichte/k03_15.mp3"
+     "audio": "audio/fr-de/geschichte/k03_15.mp3"
     }
    ]
   }
  ],
+ "geschichte_info": {
+  "titel": "Le secret du Louvre",
+  "unter": "Julien Lefèvre, professeur à Metz – un billet, une salle qui n'existe pas, un chat qui sait.",
+  "sammlung": [
+   "Chaque semaine parfaite débloque un chapitre : Julien Lefèvre, professeur à Metz, et le mystère du Louvre.",
+   "Jede perfekte Woche schaltet ein Kapitel frei: Julien Lefèvre, Lehrer aus Metz, und das Geheimnis des Louvre."
+  ]
+ },
  "lob": {
   "lob": [
    {
     "text": "Génial !",
-    "audio": "audio/lob/lob_genial.mp3",
+    "audio": "audio/fr-de/lob/lob_genial.mp3",
     "gruppe": [
      "genial"
     ]
    },
    {
     "text": "Chapeau !",
-    "audio": "audio/lob/lob_chapeau.mp3",
+    "audio": "audio/fr-de/lob/lob_chapeau.mp3",
     "gruppe": [
      "chapeau"
     ]
    },
    {
     "text": "Trop fort !",
-    "audio": "audio/lob/lob_trop_fort.mp3",
+    "audio": "audio/fr-de/lob/lob_trop_fort.mp3",
     "gruppe": [
      "fort"
     ]
    },
    {
     "text": "Magnifique !",
-    "audio": "audio/lob/lob_magnifique.mp3",
+    "audio": "audio/fr-de/lob/lob_magnifique.mp3",
     "gruppe": [
      "magnifique"
     ]
    },
    {
     "text": "Bravo !",
-    "audio": "audio/lob/lob_bravo.mp3",
+    "audio": "audio/fr-de/lob/lob_bravo.mp3",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Parfait !",
-    "audio": "audio/lob/lob_parfait.mp3",
+    "audio": "audio/fr-de/lob/lob_parfait.mp3",
     "gruppe": [
      "parfait"
     ]
    },
    {
     "text": "Excellent !",
-    "audio": "audio/lob/lob_excellent.mp3",
+    "audio": "audio/fr-de/lob/lob_excellent.mp3",
     "gruppe": [
      "excellent"
     ]
    },
    {
     "text": "Super !",
-    "audio": "audio/lob/lob_super.mp3",
+    "audio": "audio/fr-de/lob/lob_super.mp3",
     "gruppe": [
      "super"
     ]
    },
    {
     "text": "Nickel !",
-    "audio": "audio/lob/lob_nickel.mp3",
+    "audio": "audio/fr-de/lob/lob_nickel.mp3",
     "gruppe": [
      "nickel"
     ]
    },
    {
     "text": "Impeccable !",
-    "audio": "audio/lob/lob_impeccable.mp3",
+    "audio": "audio/fr-de/lob/lob_impeccable.mp3",
     "gruppe": [
      "impeccable"
     ]
    },
    {
     "text": "Exactement !",
-    "audio": "audio/lob/lob_exactement.mp3",
+    "audio": "audio/fr-de/lob/lob_exactement.mp3",
     "gruppe": [
      "exact"
     ]
    },
    {
     "text": "Voilà !",
-    "audio": "audio/lob/lob_voila.mp3",
+    "audio": "audio/fr-de/lob/lob_voila.mp3",
     "gruppe": [
      "voila"
     ]
    },
    {
     "text": "C'est ça !",
-    "audio": "audio/lob/lob_cest_ca.mp3",
+    "audio": "audio/fr-de/lob/lob_cest_ca.mp3",
     "gruppe": [
      "ca"
     ]
    },
    {
     "text": "Bien joué !",
-    "audio": "audio/lob/lob_bien_joue.mp3",
+    "audio": "audio/fr-de/lob/lob_bien_joue.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "Tu gères !",
-    "audio": "audio/lob/lob_tu_geres.mp3",
+    "audio": "audio/fr-de/lob/lob_tu_geres.mp3",
     "gruppe": [
      "gere"
     ]
    },
    {
     "text": "La classe !",
-    "audio": "audio/lob/lob_la_classe.mp3",
+    "audio": "audio/fr-de/lob/lob_la_classe.mp3",
     "gruppe": [
      "classe"
     ]
    },
    {
     "text": "Formidable !",
-    "audio": "audio/lob/lob_formidable.mp3",
+    "audio": "audio/fr-de/lob/lob_formidable.mp3",
     "gruppe": [
      "formidable"
     ]
    },
    {
     "text": "Top !",
-    "audio": "audio/lob/lob_top.mp3",
+    "audio": "audio/fr-de/lob/lob_top.mp3",
     "gruppe": [
      "top"
     ]
    },
    {
     "text": "Oui !",
-    "audio": "audio/lob/lob_oui.mp3",
+    "audio": "audio/fr-de/lob/lob_oui.mp3",
     "gruppe": [
      "oui"
     ]
    },
    {
     "text": "Tout à fait !",
-    "audio": "audio/lob/lob_tout_a_fait.mp3",
+    "audio": "audio/fr-de/lob/lob_tout_a_fait.mp3",
     "gruppe": [
      "fait"
     ]
    },
    {
     "text": "Exact !",
-    "audio": "audio/lob/lob_exact.mp3",
+    "audio": "audio/fr-de/lob/lob_exact.mp3",
     "gruppe": [
      "exact"
     ]
    },
    {
     "text": "C'est tout bon !",
-    "audio": "audio/lob/lob_tout_bon.mp3",
+    "audio": "audio/fr-de/lob/lob_tout_bon.mp3",
     "gruppe": [
      "bon"
     ]
    },
    {
     "text": "Bien vu !",
-    "audio": "audio/lob/lob_bien_vu.mp3",
+    "audio": "audio/fr-de/lob/lob_bien_vu.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "Joli !",
-    "audio": "audio/lob/lob_joli.mp3",
+    "audio": "audio/fr-de/lob/lob_joli.mp3",
     "gruppe": [
      "joli"
     ]
    },
    {
     "text": "Pile-poil !",
-    "audio": "audio/lob/lob_pile_poil.mp3",
+    "audio": "audio/fr-de/lob/lob_pile_poil.mp3",
     "gruppe": [
      "poil"
     ]
    },
    {
     "text": "Très bien !",
-    "audio": "audio/lob/lob_tres_bien.mp3",
+    "audio": "audio/fr-de/lob/lob_tres_bien.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "Et voilà !",
-    "audio": "audio/lob/lob_et_voila.mp3",
+    "audio": "audio/fr-de/lob/lob_et_voila.mp3",
     "gruppe": [
      "voila"
     ]
    },
    {
     "text": "Ça, c'est bien !",
-    "audio": "audio/lob/lob_ca_cest_bien.mp3",
+    "audio": "audio/fr-de/lob/lob_ca_cest_bien.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "Bien dit !",
-    "audio": "audio/lob/lob_bien_dit.mp3",
+    "audio": "audio/fr-de/lob/lob_bien_dit.mp3",
     "gruppe": [
      "bien"
     ]
    },
    {
     "text": "Juste !",
-    "audio": "audio/lob/lob_juste.mp3",
+    "audio": "audio/fr-de/lob/lob_juste.mp3",
     "gruppe": [
      "juste"
     ]
    },
    {
     "text": "Au poil !",
-    "audio": "audio/lob/lob_au_poil.mp3",
+    "audio": "audio/fr-de/lob/lob_au_poil.mp3",
     "gruppe": [
      "poil"
     ]
    },
    {
     "text": "Sans faute !",
-    "audio": "audio/lob/lob_sans_faute.mp3",
+    "audio": "audio/fr-de/lob/lob_sans_faute.mp3",
     "gruppe": [
      "faute"
     ]
    },
    {
     "text": "Tu assures !",
-    "audio": "audio/lob/lob_tu_assures.mp3",
+    "audio": "audio/fr-de/lob/lob_tu_assures.mp3",
     "gruppe": [
      "assure"
     ]
    },
    {
     "text": "Comme un chef !",
-    "audio": "audio/lob/lob_comme_un_chef.mp3",
+    "audio": "audio/fr-de/lob/lob_comme_un_chef.mp3",
     "gruppe": [
      "chef"
     ]
    },
    {
     "text": "Dans le mille !",
-    "audio": "audio/lob/lob_dans_le_mille.mp3",
+    "audio": "audio/fr-de/lob/lob_dans_le_mille.mp3",
     "gruppe": [
      "mille"
     ]
    },
    {
     "text": "Bingo !",
-    "audio": "audio/lob/lob_bingo.mp3",
+    "audio": "audio/fr-de/lob/lob_bingo.mp3",
     "gruppe": [
      "bingo"
     ]
    },
    {
     "text": "Ça roule !",
-    "audio": "audio/lob/lob_ca_roule.mp3",
+    "audio": "audio/fr-de/lob/lob_ca_roule.mp3",
     "gruppe": [
      "roule"
     ]
    },
    {
     "text": "Extra !",
-    "audio": "audio/lob/lob_extra.mp3",
+    "audio": "audio/fr-de/lob/lob_extra.mp3",
     "gruppe": [
      "extra"
     ]
    },
    {
     "text": "Terrible !",
-    "audio": "audio/lob/lob_terrible.mp3",
+    "audio": "audio/fr-de/lob/lob_terrible.mp3",
     "gruppe": [
      "terrible"
     ]
    },
    {
     "text": "Canon !",
-    "audio": "audio/lob/lob_canon.mp3",
+    "audio": "audio/fr-de/lob/lob_canon.mp3",
     "gruppe": [
      "canon"
     ]
    },
    {
     "text": "Ça, c'est du français !",
-    "audio": "audio/lob/lob_du_francais.mp3",
+    "audio": "audio/fr-de/lob/lob_du_francais.mp3",
     "gruppe": [
      "francais"
     ]
    },
    {
     "text": "Quel accent !",
-    "audio": "audio/lob/lob_quel_accent.mp3",
+    "audio": "audio/fr-de/lob/lob_quel_accent.mp3",
     "gruppe": [
      "accent"
     ]
    },
    {
     "text": "Du premier coup !",
-    "audio": "audio/lob/lob_premier_coup.mp3",
+    "audio": "audio/fr-de/lob/lob_premier_coup.mp3",
     "gruppe": [
      "coup"
     ]
    },
    {
     "text": "Rien à dire !",
-    "audio": "audio/lob/lob_rien_a_dire.mp3",
+    "audio": "audio/fr-de/lob/lob_rien_a_dire.mp3",
     "gruppe": [
      "dire"
     ]
    },
    {
     "text": "C'est exactement ça !",
-    "audio": "audio/lob/lob_exactement_ca.mp3",
+    "audio": "audio/fr-de/lob/lob_exactement_ca.mp3",
     "gruppe": [
      "exact"
     ]
    },
    {
     "text": "Bien, Monsieur le professeur !",
-    "audio": "audio/lob/lob_monsieur_prof.mp3",
+    "audio": "audio/fr-de/lob/lob_monsieur_prof.mp3",
     "gruppe": [
      "prof"
     ]
    },
    {
     "text": "Un vrai Français !",
-    "audio": "audio/lob/lob_vrai_francais.mp3",
+    "audio": "audio/fr-de/lob/lob_vrai_francais.mp3",
     "gruppe": [
      "francais"
     ]
    },
    {
     "text": "Parfaitement !",
-    "audio": "audio/lob/lob_parfaitement.mp3",
+    "audio": "audio/fr-de/lob/lob_parfaitement.mp3",
     "gruppe": [
      "parfait"
     ]
    },
    {
     "text": "Tu as l'oreille !",
-    "audio": "audio/lob/lob_oreille.mp3",
+    "audio": "audio/fr-de/lob/lob_oreille.mp3",
     "gruppe": [
      "oreille"
     ]
    },
    {
     "text": "Ça sonne bien !",
-    "audio": "audio/lob/lob_ca_sonne.mp3",
+    "audio": "audio/fr-de/lob/lob_ca_sonne.mp3",
     "gruppe": [
      "sonne"
     ]
    },
    {
     "text": "Quelle musique !",
-    "audio": "audio/lob/lob_musique.mp3",
+    "audio": "audio/fr-de/lob/lob_musique.mp3",
     "gruppe": [
      "musique"
     ]
    },
    {
     "text": "J'adore !",
-    "audio": "audio/lob/lob_jadore.mp3",
+    "audio": "audio/fr-de/lob/lob_jadore.mp3",
     "gruppe": [
      "adore"
     ]
    },
    {
     "text": "Tu progresses !",
-    "audio": "audio/lob/lob_progresses.mp3",
+    "audio": "audio/fr-de/lob/lob_progresses.mp3",
     "gruppe": [
      "progresse"
     ]
    },
    {
     "text": "Encore un point !",
-    "audio": "audio/lob/lob_encore_un_point.mp3",
+    "audio": "audio/fr-de/lob/lob_encore_un_point.mp3",
     "gruppe": [
      "point"
     ]
@@ -6114,98 +6453,98 @@ window.DATEN = {
   "stark": [
    {
     "text": "Bravo, champion !",
-    "audio": "audio/lob/stark_champion.mp3",
+    "audio": "audio/fr-de/lob/stark_champion.mp3",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Incroyable ! Tu es en feu !",
-    "audio": "audio/lob/stark_incroyable.mp3",
+    "audio": "audio/fr-de/lob/stark_incroyable.mp3",
     "gruppe": [
      "feu"
     ]
    },
    {
     "text": "Je suis fier de toi !",
-    "audio": "audio/lob/stark_fier.mp3",
+    "audio": "audio/fr-de/lob/stark_fier.mp3",
     "gruppe": [
      "fier"
     ]
    },
    {
     "text": "Superbe ! Continue comme ça !",
-    "audio": "audio/lob/stark_superbe.mp3",
+    "audio": "audio/fr-de/lob/stark_superbe.mp3",
     "gruppe": [
      "superbe"
     ]
    },
    {
     "text": "Quelle machine !",
-    "audio": "audio/lob/stark_machine.mp3",
+    "audio": "audio/fr-de/lob/stark_machine.mp3",
     "gruppe": [
      "machine"
     ]
    },
    {
     "text": "Tu es une star !",
-    "audio": "audio/lob/stark_star.mp3",
+    "audio": "audio/fr-de/lob/stark_star.mp3",
     "gruppe": [
      "star"
     ]
    },
    {
     "text": "Ça, c'est remarquable !",
-    "audio": "audio/lob/stark_remarquable.mp3",
+    "audio": "audio/fr-de/lob/stark_remarquable.mp3",
     "gruppe": [
      "remarquable"
     ]
    },
    {
     "text": "Impressionnant !",
-    "audio": "audio/lob/stark_impressionnant.mp3",
+    "audio": "audio/fr-de/lob/stark_impressionnant.mp3",
     "gruppe": [
      "impressionnant"
     ]
    },
    {
     "text": "Tu rends ça facile !",
-    "audio": "audio/lob/stark_facile.mp3",
+    "audio": "audio/fr-de/lob/stark_facile.mp3",
     "gruppe": [
      "facile"
     ]
    },
    {
     "text": "C'est exactement ce que je voulais entendre !",
-    "audio": "audio/lob/stark_entendre.mp3",
+    "audio": "audio/fr-de/lob/stark_entendre.mp3",
     "gruppe": [
      "exact"
     ]
    },
    {
     "text": "Tu voles aujourd'hui !",
-    "audio": "audio/lob/stark_voles.mp3",
+    "audio": "audio/fr-de/lob/stark_voles.mp3",
     "gruppe": [
      "vole"
     ]
    },
    {
     "text": "En plein dans le mille !",
-    "audio": "audio/lob/stark_plein_mille.mp3",
+    "audio": "audio/fr-de/lob/stark_plein_mille.mp3",
     "gruppe": [
      "mille"
     ]
    },
    {
     "text": "Quelle performance !",
-    "audio": "audio/lob/stark_performance.mp3",
+    "audio": "audio/fr-de/lob/stark_performance.mp3",
     "gruppe": [
      "performance"
     ]
    },
    {
     "text": "Tu l'as écrasé !",
-    "audio": "audio/lob/stark_ecrase.mp3",
+    "audio": "audio/fr-de/lob/stark_ecrase.mp3",
     "gruppe": [
      "ecrase"
     ]
@@ -6214,70 +6553,70 @@ window.DATEN = {
   "fehler": [
    {
     "text": "Presque !",
-    "audio": "audio/lob/fehler_presque.mp3",
+    "audio": "audio/fr-de/lob/fehler_presque.mp3",
     "gruppe": [
      "presque"
     ]
    },
    {
     "text": "Pas tout à fait.",
-    "audio": "audio/lob/fehler_pas_tout_a_fait.mp3",
+    "audio": "audio/fr-de/lob/fehler_pas_tout_a_fait.mp3",
     "gruppe": [
      "pas"
     ]
    },
    {
     "text": "Encore un essai !",
-    "audio": "audio/lob/fehler_encore.mp3",
+    "audio": "audio/fr-de/lob/fehler_encore.mp3",
     "gruppe": [
      "encore"
     ]
    },
    {
     "text": "Pas grave !",
-    "audio": "audio/lob/fehler_pas_grave.mp3",
+    "audio": "audio/fr-de/lob/fehler_pas_grave.mp3",
     "gruppe": [
      "grave"
     ]
    },
    {
     "text": "Oh là là !",
-    "audio": "audio/lob/fehler_oh_la_la.mp3",
+    "audio": "audio/fr-de/lob/fehler_oh_la_la.mp3",
     "gruppe": [
      "oh"
     ]
    },
    {
     "text": "Hmm…",
-    "audio": "audio/lob/fehler_hmm.mp3",
+    "audio": "audio/fr-de/lob/fehler_hmm.mp3",
     "gruppe": [
      "hmm"
     ]
    },
    {
     "text": "Pas loin !",
-    "audio": "audio/lob/fehler_pas_loin.mp3",
+    "audio": "audio/fr-de/lob/fehler_pas_loin.mp3",
     "gruppe": [
      "loin"
     ]
    },
    {
     "text": "Presque, presque !",
-    "audio": "audio/lob/fehler_presque_presque.mp3",
+    "audio": "audio/fr-de/lob/fehler_presque_presque.mp3",
     "gruppe": [
      "presque"
     ]
    },
    {
     "text": "Pas cette fois !",
-    "audio": "audio/lob/fehler_pas_cette_fois.mp3",
+    "audio": "audio/fr-de/lob/fehler_pas_cette_fois.mp3",
     "gruppe": [
      "fois"
     ]
    },
    {
     "text": "Ce n'est pas grave, on recommence !",
-    "audio": "audio/lob/fehler_on_recommence.mp3",
+    "audio": "audio/fr-de/lob/fehler_on_recommence.mp3",
     "gruppe": [
      "grave"
     ]
@@ -6286,21 +6625,21 @@ window.DATEN = {
   "geschafft": [
    {
     "text": "C'est fini pour aujourd'hui ! Chapeau !",
-    "audio": "audio/lob/geschafft_fini.mp3",
+    "audio": "audio/fr-de/lob/geschafft_fini.mp3",
     "gruppe": [
      "fini"
     ]
    },
    {
     "text": "Bravo, tu as tout fait ! À demain !",
-    "audio": "audio/lob/geschafft_bravo.mp3",
+    "audio": "audio/fr-de/lob/geschafft_bravo.mp3",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Tu peux être fier de toi. À demain !",
-    "audio": "audio/lob/geschafft_fier.mp3",
+    "audio": "audio/fr-de/lob/geschafft_fier.mp3",
     "gruppe": [
      "fier"
     ]
@@ -6309,7 +6648,7 @@ window.DATEN = {
   "voll": [
    {
     "text": "Sans faute ! Magnifique !",
-    "audio": "audio/lob/voll_sans_faute.mp3",
+    "audio": "audio/fr-de/lob/voll_sans_faute.mp3",
     "gruppe": [
      "faute"
     ]
@@ -6318,7 +6657,7 @@ window.DATEN = {
   "doch": [
    {
     "text": "Tu vois ? Tu y arrives !",
-    "audio": "audio/lob/doch_tu_vois.mp3",
+    "audio": "audio/fr-de/lob/doch_tu_vois.mp3",
     "gruppe": [
      "vois"
     ]
@@ -6326,8 +6665,8 @@ window.DATEN = {
   ]
  },
  "pensum": {
-  "neu": 5,
-  "wiederholung": 15
+  "neu": 3,
+  "wiederholung": 8
  },
  "intervalle": [
   1,
@@ -6350,7 +6689,7 @@ window.DATEN = {
     "y": 131.3,
     "fakt": "La cathédrale Saint-Étienne a près de 6 500 m² de vitraux – on l'appelle « la lanterne du Bon Dieu ».",
     "fakt_de": "Die Kathedrale Saint-Étienne hat fast 6.500 m² Glasfenster – man nennt sie „die Laterne des lieben Gottes“.",
-    "audio": "audio/orte/metz.mp3"
+    "audio": "audio/fr-de/orte/metz.mp3"
    },
    {
     "id": "sarreguemines",
@@ -6362,7 +6701,7 @@ window.DATEN = {
     "y": 131.8,
     "fakt": "Sarreguemines, à deux pas de la Sarre, est célèbre pour sa faïence. Le tram de Sarrebruck y arrive directement.",
     "fakt_de": "Saargemünd, einen Katzensprung von der Saar, ist für seine Fayence berühmt. Die Saarbahn fährt direkt hierher.",
-    "audio": "audio/orte/sarreguemines.mp3"
+    "audio": "audio/fr-de/orte/sarreguemines.mp3"
    },
    {
     "id": "forbach",
@@ -6374,7 +6713,7 @@ window.DATEN = {
     "y": 127.3,
     "fakt": "Forbach est la première ville française derrière la frontière sarroise. Beaucoup d'habitants parlent le platt, un dialecte proche de l'allemand.",
     "fakt_de": "Forbach ist die erste französische Stadt hinter der saarländischen Grenze. Viele Einwohner sprechen Platt, einen dem Deutschen nahen Dialekt.",
-    "audio": "audio/orte/forbach.mp3"
+    "audio": "audio/fr-de/orte/forbach.mp3"
    },
    {
     "id": "nancy",
@@ -6386,7 +6725,7 @@ window.DATEN = {
     "y": 156.0,
     "fakt": "La place Stanislas, du XVIIIe siècle, est l'une des plus belles places d'Europe, avec ses grilles dorées.",
     "fakt_de": "Der Place Stanislas aus dem 18. Jahrhundert ist einer der schönsten Plätze Europas, mit seinen vergoldeten Gittern.",
-    "audio": "audio/orte/nancy.mp3"
+    "audio": "audio/fr-de/orte/nancy.mp3"
    },
    {
     "id": "verdun",
@@ -6398,7 +6737,7 @@ window.DATEN = {
     "y": 129.0,
     "fakt": "En 1916, la bataille de Verdun a duré 300 jours. Aujourd'hui, c'est un lieu de mémoire et de paix franco-allemande.",
     "fakt_de": "1916 dauerte die Schlacht um Verdun 300 Tage. Heute ist es ein Ort der Erinnerung und der deutsch-französischen Freundschaft.",
-    "audio": "audio/orte/verdun.mp3"
+    "audio": "audio/fr-de/orte/verdun.mp3"
    },
    {
     "id": "strasbourg",
@@ -6410,7 +6749,7 @@ window.DATEN = {
     "y": 162.8,
     "fakt": "Strasbourg est le siège du Parlement européen. Sa cathédrale a été le plus haut bâtiment du monde pendant plus de 200 ans.",
     "fakt_de": "Straßburg ist Sitz des Europäischen Parlaments. Sein Münster war über 200 Jahre lang das höchste Gebäude der Welt.",
-    "audio": "audio/orte/strasbourg.mp3"
+    "audio": "audio/fr-de/orte/strasbourg.mp3"
    },
    {
     "id": "colmar",
@@ -6422,7 +6761,7 @@ window.DATEN = {
     "y": 191.4,
     "fakt": "Colmar, avec ses canaux et ses maisons à colombages, est surnommée « la petite Venise ».",
     "fakt_de": "Colmar mit seinen Kanälen und Fachwerkhäusern wird „Klein-Venedig“ genannt.",
-    "audio": "audio/orte/colmar.mp3"
+    "audio": "audio/fr-de/orte/colmar.mp3"
    },
    {
     "id": "reims",
@@ -6434,7 +6773,7 @@ window.DATEN = {
     "y": 123.3,
     "fakt": "Presque tous les rois de France ont été sacrés dans la cathédrale de Reims. Et c'est la capitale du champagne.",
     "fakt_de": "Fast alle Könige Frankreichs wurden in der Kathedrale von Reims gekrönt. Und es ist die Hauptstadt des Champagners.",
-    "audio": "audio/orte/reims.mp3"
+    "audio": "audio/fr-de/orte/reims.mp3"
    },
    {
     "id": "lille",
@@ -6446,7 +6785,7 @@ window.DATEN = {
     "y": 44.0,
     "fakt": "Chaque septembre, la Grande Braderie de Lille attire deux millions de visiteurs – et on y mange des tonnes de moules-frites.",
     "fakt_de": "Jeden September lockt der große Flohmarkt von Lille zwei Millionen Besucher an – und man isst tonnenweise Muscheln mit Pommes.",
-    "audio": "audio/orte/lille.mp3"
+    "audio": "audio/fr-de/orte/lille.mp3"
    },
    {
     "id": "amiens",
@@ -6458,7 +6797,7 @@ window.DATEN = {
     "y": 86.5,
     "fakt": "La cathédrale d'Amiens est la plus grande de France : Notre-Dame de Paris y tiendrait deux fois.",
     "fakt_de": "Die Kathedrale von Amiens ist die größte Frankreichs: Notre-Dame de Paris würde zweimal hineinpassen.",
-    "audio": "audio/orte/amiens.mp3"
+    "audio": "audio/fr-de/orte/amiens.mp3"
    },
    {
     "id": "paris",
@@ -6470,7 +6809,7 @@ window.DATEN = {
     "y": 146.5,
     "fakt": "La tour Eiffel devait être démontée après vingt ans. Elle a été sauvée parce qu'elle servait d'antenne radio.",
     "fakt_de": "Der Eiffelturm sollte nach zwanzig Jahren abgebaut werden. Er wurde gerettet, weil er als Funkantenne diente.",
-    "audio": "audio/orte/paris.mp3"
+    "audio": "audio/fr-de/orte/paris.mp3"
    },
    {
     "id": "louvre",
@@ -6482,7 +6821,7 @@ window.DATEN = {
     "y": 146.2,
     "fakt": "Le Louvre est le musée le plus visité du monde. Pour voir chaque œuvre trente secondes, il faudrait plus de trois mois.",
     "fakt_de": "Der Louvre ist das meistbesuchte Museum der Welt. Jedes Werk 30 Sekunden anzusehen, würde über drei Monate dauern.",
-    "audio": "audio/orte/louvre.mp3"
+    "audio": "audio/fr-de/orte/louvre.mp3"
    },
    {
     "id": "versailles",
@@ -6494,7 +6833,7 @@ window.DATEN = {
     "y": 149.5,
     "fakt": "Le château de Versailles compte 2 300 pièces. Louis XIV y a vécu avec plusieurs milliers de courtisans.",
     "fakt_de": "Das Schloss Versailles hat 2.300 Räume. Ludwig XIV. lebte dort mit mehreren tausend Höflingen.",
-    "audio": "audio/orte/versailles.mp3"
+    "audio": "audio/fr-de/orte/versailles.mp3"
    },
    {
     "id": "giverny",
@@ -6506,7 +6845,7 @@ window.DATEN = {
     "y": 133.8,
     "fakt": "À Giverny, Claude Monet a peint ses Nymphéas dans son jardin, pendant plus de trente ans.",
     "fakt_de": "In Giverny malte Claude Monet über dreißig Jahre lang seine Seerosen in seinem Garten.",
-    "audio": "audio/orte/giverny.mp3"
+    "audio": "audio/fr-de/orte/giverny.mp3"
    },
    {
     "id": "rouen",
@@ -6518,7 +6857,7 @@ window.DATEN = {
     "y": 112.6,
     "fakt": "Jeanne d'Arc a été brûlée à Rouen en 1431. Le Gros-Horloge, une horloge du XIVe siècle, marche encore.",
     "fakt_de": "Jeanne d'Arc wurde 1431 in Rouen verbrannt. Die Gros-Horloge, eine Uhr aus dem 14. Jahrhundert, läuft noch.",
-    "audio": "audio/orte/rouen.mp3"
+    "audio": "audio/fr-de/orte/rouen.mp3"
    },
    {
     "id": "honfleur",
@@ -6530,7 +6869,7 @@ window.DATEN = {
     "y": 113.9,
     "fakt": "Le vieux port d'Honfleur a inspiré les peintres impressionnistes. Monet y a appris à peindre la lumière.",
     "fakt_de": "Der alte Hafen von Honfleur inspirierte die Impressionisten. Monet lernte hier, das Licht zu malen.",
-    "audio": "audio/orte/honfleur.mp3"
+    "audio": "audio/fr-de/orte/honfleur.mp3"
    },
    {
     "id": "plages_debarquement",
@@ -6542,7 +6881,7 @@ window.DATEN = {
     "y": 117.4,
     "fakt": "Le 6 juin 1944, 150 000 soldats ont débarqué sur ces plages. Omaha Beach est la plus connue.",
     "fakt_de": "Am 6. Juni 1944 landeten 150.000 Soldaten an diesen Stränden. Omaha Beach ist der bekannteste.",
-    "audio": "audio/orte/plages_debarquement.mp3"
+    "audio": "audio/fr-de/orte/plages_debarquement.mp3"
    },
    {
     "id": "mont_saint_michel",
@@ -6554,7 +6893,7 @@ window.DATEN = {
     "y": 159.2,
     "fakt": "Au Mont-Saint-Michel, la marée monte « à la vitesse d'un cheval au galop ». Une abbaye sur un rocher dans la mer.",
     "fakt_de": "Am Mont-Saint-Michel steigt die Flut „so schnell wie ein galoppierendes Pferd“. Eine Abtei auf einem Felsen im Meer.",
-    "audio": "audio/orte/mont_saint_michel.mp3"
+    "audio": "audio/fr-de/orte/mont_saint_michel.mp3"
    },
    {
     "id": "saint_malo",
@@ -6566,7 +6905,7 @@ window.DATEN = {
     "y": 158.5,
     "fakt": "Saint-Malo était la ville des corsaires. Ses remparts font le tour de la vieille ville, face à la mer.",
     "fakt_de": "Saint-Malo war die Stadt der Korsaren. Seine Stadtmauern umschließen die Altstadt, direkt am Meer.",
-    "audio": "audio/orte/saint_malo.mp3"
+    "audio": "audio/fr-de/orte/saint_malo.mp3"
    },
    {
     "id": "carnac",
@@ -6578,7 +6917,7 @@ window.DATEN = {
     "y": 220.0,
     "fakt": "À Carnac, 3 000 menhirs sont alignés depuis plus de 6 000 ans. Personne ne sait vraiment pourquoi.",
     "fakt_de": "In Carnac stehen seit über 6.000 Jahren 3.000 Menhire in Reihen. Niemand weiß wirklich, warum.",
-    "audio": "audio/orte/carnac.mp3"
+    "audio": "audio/fr-de/orte/carnac.mp3"
    },
    {
     "id": "brest",
@@ -6590,7 +6929,7 @@ window.DATEN = {
     "y": 173.4,
     "fakt": "À Brest, Océanopolis montre les océans du monde. La ville a été presque entièrement reconstruite après 1945.",
     "fakt_de": "In Brest zeigt Océanopolis die Ozeane der Welt. Die Stadt wurde nach 1945 fast vollständig wieder aufgebaut.",
-    "audio": "audio/orte/brest.mp3"
+    "audio": "audio/fr-de/orte/brest.mp3"
    },
    {
     "id": "nantes",
@@ -6602,7 +6941,7 @@ window.DATEN = {
     "y": 241.1,
     "fakt": "À Nantes, un éléphant mécanique de douze mètres promène les visiteurs. Jules Verne est né ici.",
     "fakt_de": "In Nantes trägt ein zwölf Meter hoher mechanischer Elefant Besucher spazieren. Jules Verne wurde hier geboren.",
-    "audio": "audio/orte/nantes.mp3"
+    "audio": "audio/fr-de/orte/nantes.mp3"
    },
    {
     "id": "le_mans",
@@ -6614,7 +6953,7 @@ window.DATEN = {
     "y": 195.6,
     "fakt": "Les 24 Heures du Mans : la course automobile la plus célèbre du monde, depuis 1923.",
     "fakt_de": "Die 24 Stunden von Le Mans: das berühmteste Autorennen der Welt, seit 1923.",
-    "audio": "audio/orte/le_mans.mp3"
+    "audio": "audio/fr-de/orte/le_mans.mp3"
    },
    {
     "id": "chambord",
@@ -6626,7 +6965,7 @@ window.DATEN = {
     "y": 218.2,
     "fakt": "Le château de Chambord a 426 pièces et 282 cheminées. Son escalier à double hélice serait une idée de Léonard de Vinci.",
     "fakt_de": "Schloss Chambord hat 426 Räume und 282 Kamine. Seine doppelte Wendeltreppe soll eine Idee von Leonardo da Vinci sein.",
-    "audio": "audio/orte/chambord.mp3"
+    "audio": "audio/fr-de/orte/chambord.mp3"
    },
    {
     "id": "tours",
@@ -6638,7 +6977,7 @@ window.DATEN = {
     "y": 231.0,
     "fakt": "On dit qu'à Tours, on parle le français « le plus pur ». C'est la porte des châteaux de la Loire.",
     "fakt_de": "Man sagt, in Tours spreche man das „reinste“ Französisch. Es ist das Tor zu den Loire-Schlössern.",
-    "audio": "audio/orte/tours.mp3"
+    "audio": "audio/fr-de/orte/tours.mp3"
    },
    {
     "id": "bourges",
@@ -6650,7 +6989,7 @@ window.DATEN = {
     "y": 249.1,
     "fakt": "Le Printemps de Bourges est l'un des plus grands festivals de musique de France – chaque avril depuis 1977.",
     "fakt_de": "Der Printemps de Bourges ist eines der größten Musikfestivals Frankreichs – jeden April seit 1977.",
-    "audio": "audio/orte/bourges.mp3"
+    "audio": "audio/fr-de/orte/bourges.mp3"
    },
    {
     "id": "dijon",
@@ -6662,7 +7001,7 @@ window.DATEN = {
     "y": 235.2,
     "fakt": "Dijon, c'est la moutarde – mais aussi la chouette : on touche la petite chouette sculptée sur l'église pour avoir de la chance.",
     "fakt_de": "Dijon, das ist der Senf – aber auch die Eule: Man berührt die kleine gemeißelte Eule an der Kirche, um Glück zu haben.",
-    "audio": "audio/orte/dijon.mp3"
+    "audio": "audio/fr-de/orte/dijon.mp3"
    },
    {
     "id": "besancon",
@@ -6674,7 +7013,7 @@ window.DATEN = {
     "y": 240.0,
     "fakt": "Besançon est la capitale française de l'horlogerie. Victor Hugo est né ici.",
     "fakt_de": "Besançon ist Frankreichs Hauptstadt der Uhrmacherkunst. Victor Hugo wurde hier geboren.",
-    "audio": "audio/orte/besancon.mp3"
+    "audio": "audio/fr-de/orte/besancon.mp3"
    },
    {
     "id": "lyon",
@@ -6686,7 +7025,7 @@ window.DATEN = {
     "y": 325.2,
     "fakt": "Lyon est la capitale de la gastronomie. Chaque décembre, la Fête des Lumières illumine toute la ville.",
     "fakt_de": "Lyon ist die Hauptstadt der Gastronomie. Jeden Dezember erleuchtet das Lichterfest die ganze Stadt.",
-    "audio": "audio/orte/lyon.mp3"
+    "audio": "audio/fr-de/orte/lyon.mp3"
    },
    {
     "id": "annecy",
@@ -6698,7 +7037,7 @@ window.DATEN = {
     "y": 317.4,
     "fakt": "Le lac d'Annecy est l'un des plus purs d'Europe. La vieille ville, avec ses canaux, est surnommée « la Venise des Alpes ».",
     "fakt_de": "Der See von Annecy ist einer der saubersten Europas. Die Altstadt mit ihren Kanälen heißt „Venedig der Alpen“.",
-    "audio": "audio/orte/annecy.mp3"
+    "audio": "audio/fr-de/orte/annecy.mp3"
    },
    {
     "id": "chamonix",
@@ -6710,7 +7049,7 @@ window.DATEN = {
     "y": 316.0,
     "fakt": "À Chamonix, le téléphérique de l'Aiguille du Midi monte à 3 842 mètres, face au mont Blanc, le toit de l'Europe.",
     "fakt_de": "In Chamonix fährt die Seilbahn zur Aiguille du Midi auf 3.842 Meter, gegenüber dem Mont Blanc, dem Dach Europas.",
-    "audio": "audio/orte/chamonix.mp3"
+    "audio": "audio/fr-de/orte/chamonix.mp3"
    },
    {
     "id": "grenoble",
@@ -6722,7 +7061,7 @@ window.DATEN = {
     "y": 358.5,
     "fakt": "À Grenoble, des « bulles » de téléphérique montent à la Bastille depuis 1934. Au bout de chaque rue, une montagne.",
     "fakt_de": "In Grenoble fahren seit 1934 Seilbahn-„Blasen“ zur Bastille hinauf. Am Ende jeder Straße ein Berg.",
-    "audio": "audio/orte/grenoble.mp3"
+    "audio": "audio/fr-de/orte/grenoble.mp3"
    },
    {
     "id": "clermont_ferrand",
@@ -6734,7 +7073,7 @@ window.DATEN = {
     "y": 324.4,
     "fakt": "Clermont-Ferrand est entourée de 80 volcans endormis. Le puy de Dôme est le plus célèbre. Et Michelin est né ici.",
     "fakt_de": "Clermont-Ferrand ist von 80 schlafenden Vulkanen umgeben. Der Puy de Dôme ist der bekannteste. Und Michelin wurde hier geboren.",
-    "audio": "audio/orte/clermont_ferrand.mp3"
+    "audio": "audio/fr-de/orte/clermont_ferrand.mp3"
    },
    {
     "id": "bordeaux",
@@ -6746,7 +7085,7 @@ window.DATEN = {
     "y": 378.7,
     "fakt": "Bordeaux, c'est le vin – et le miroir d'eau, la plus grande « flaque » du monde, où la ville se reflète.",
     "fakt_de": "Bordeaux, das ist der Wein – und der Wasserspiegel, die größte „Pfütze“ der Welt, in der sich die Stadt spiegelt.",
-    "audio": "audio/orte/bordeaux.mp3"
+    "audio": "audio/fr-de/orte/bordeaux.mp3"
    },
    {
     "id": "la_rochelle",
@@ -6758,7 +7097,7 @@ window.DATEN = {
     "y": 302.3,
     "fakt": "Les deux tours du vieux port de La Rochelle gardent l'entrée depuis le Moyen Âge. Et il y a le grand aquarium.",
     "fakt_de": "Die zwei Türme am alten Hafen von La Rochelle bewachen die Einfahrt seit dem Mittelalter. Und es gibt das große Aquarium.",
-    "audio": "audio/orte/la_rochelle.mp3"
+    "audio": "audio/fr-de/orte/la_rochelle.mp3"
    },
    {
     "id": "dune_du_pilat",
@@ -6770,7 +7109,7 @@ window.DATEN = {
     "y": 393.1,
     "fakt": "La dune du Pilat est la plus haute d'Europe : plus de 100 mètres de sable, entre la forêt et l'océan.",
     "fakt_de": "Die Dune du Pilat ist die höchste Düne Europas: über 100 Meter Sand zwischen Wald und Ozean.",
-    "audio": "audio/orte/dune_du_pilat.mp3"
+    "audio": "audio/fr-de/orte/dune_du_pilat.mp3"
    },
    {
     "id": "biarritz",
@@ -6782,7 +7121,7 @@ window.DATEN = {
     "y": 457.0,
     "fakt": "Biarritz est la capitale européenne du surf. L'impératrice Eugénie y a lancé la mode des bains de mer.",
     "fakt_de": "Biarritz ist Europas Surf-Hauptstadt. Kaiserin Eugénie machte hier das Baden im Meer zur Mode.",
-    "audio": "audio/orte/biarritz.mp3"
+    "audio": "audio/fr-de/orte/biarritz.mp3"
    },
    {
     "id": "lascaux",
@@ -6794,7 +7133,7 @@ window.DATEN = {
     "y": 366.3,
     "fakt": "La grotte de Lascaux, « la chapelle Sixtine de la préhistoire », a été découverte en 1940 par quatre adolescents et un chien.",
     "fakt_de": "Die Höhle von Lascaux, „die Sixtinische Kapelle der Vorgeschichte“, wurde 1940 von vier Jugendlichen und einem Hund entdeckt.",
-    "audio": "audio/orte/lascaux.mp3"
+    "audio": "audio/fr-de/orte/lascaux.mp3"
    },
    {
     "id": "lourdes",
@@ -6806,7 +7145,7 @@ window.DATEN = {
     "y": 479.5,
     "fakt": "Lourdes, dans les Pyrénées, accueille des millions de pèlerins. C'est la deuxième ville hôtelière de France après Paris.",
     "fakt_de": "Lourdes in den Pyrenäen empfängt Millionen Pilger. Es hat nach Paris die meisten Hotels in Frankreich.",
-    "audio": "audio/orte/lourdes.mp3"
+    "audio": "audio/fr-de/orte/lourdes.mp3"
    },
    {
     "id": "toulouse",
@@ -6818,7 +7157,7 @@ window.DATEN = {
     "y": 450.0,
     "fakt": "Toulouse, « la ville rose », est la capitale de l'aéronautique. Les Airbus sont assemblés ici.",
     "fakt_de": "Toulouse, „die rosa Stadt“, ist die Hauptstadt der Luftfahrt. Die Airbus-Flugzeuge werden hier montiert.",
-    "audio": "audio/orte/toulouse.mp3"
+    "audio": "audio/fr-de/orte/toulouse.mp3"
    },
    {
     "id": "carcassonne",
@@ -6830,7 +7169,7 @@ window.DATEN = {
     "y": 472.6,
     "fakt": "La Cité de Carcassonne a 52 tours et trois kilomètres de remparts – la plus grande ville fortifiée d'Europe.",
     "fakt_de": "Die Cité von Carcassonne hat 52 Türme und drei Kilometer Stadtmauer – die größte Festungsstadt Europas.",
-    "audio": "audio/orte/carcassonne.mp3"
+    "audio": "audio/fr-de/orte/carcassonne.mp3"
    },
    {
     "id": "pont_du_gard",
@@ -6842,7 +7181,7 @@ window.DATEN = {
     "y": 430.2,
     "fakt": "Le pont du Gard, un aqueduc romain de 50 mètres de haut, a presque 2 000 ans. Il tient sans mortier.",
     "fakt_de": "Der Pont du Gard, ein 50 Meter hohes römisches Aquädukt, ist fast 2.000 Jahre alt. Er hält ohne Mörtel.",
-    "audio": "audio/orte/pont_du_gard.mp3"
+    "audio": "audio/fr-de/orte/pont_du_gard.mp3"
    },
    {
     "id": "montpellier",
@@ -6854,7 +7193,7 @@ window.DATEN = {
     "y": 449.6,
     "fakt": "Montpellier a la plus vieille faculté de médecine encore en activité du monde. Et 300 jours de soleil par an.",
     "fakt_de": "Montpellier hat die älteste noch aktive medizinische Fakultät der Welt. Und 300 Sonnentage im Jahr.",
-    "audio": "audio/orte/montpellier.mp3"
+    "audio": "audio/fr-de/orte/montpellier.mp3"
    },
    {
     "id": "avignon",
@@ -6866,7 +7205,7 @@ window.DATEN = {
     "y": 430.1,
     "fakt": "« Sur le pont d'Avignon, on y danse… » – le pont n'a plus que quatre arches. Les papes ont vécu ici au XIVe siècle.",
     "fakt_de": "„Sur le pont d'Avignon, on y danse …“ – die Brücke hat nur noch vier Bögen. Die Päpste lebten hier im 14. Jahrhundert.",
-    "audio": "audio/orte/avignon.mp3"
+    "audio": "audio/fr-de/orte/avignon.mp3"
    },
    {
     "id": "marseille",
@@ -6878,7 +7217,7 @@ window.DATEN = {
     "y": 467.8,
     "fakt": "Marseille est la plus vieille ville de France, fondée par des Grecs il y a 2 600 ans. La bouillabaisse est née ici.",
     "fakt_de": "Marseille ist die älteste Stadt Frankreichs, vor 2.600 Jahren von Griechen gegründet. Die Bouillabaisse stammt von hier.",
-    "audio": "audio/orte/marseille.mp3"
+    "audio": "audio/fr-de/orte/marseille.mp3"
    },
    {
     "id": "gorges_du_verdon",
@@ -6890,7 +7229,7 @@ window.DATEN = {
     "y": 441.6,
     "fakt": "Les gorges du Verdon : un canyon de 700 mètres de profondeur, avec une eau turquoise. Le « Grand Canyon » de la France.",
     "fakt_de": "Die Verdon-Schlucht: ein 700 Meter tiefer Canyon mit türkisfarbenem Wasser. Der „Grand Canyon“ Frankreichs.",
-    "audio": "audio/orte/gorges_du_verdon.mp3"
+    "audio": "audio/fr-de/orte/gorges_du_verdon.mp3"
    },
    {
     "id": "cannes",
@@ -6902,7 +7241,7 @@ window.DATEN = {
     "y": 453.0,
     "fakt": "Chaque mai, le Festival de Cannes déroule son tapis rouge. La Palme d'or est le prix de cinéma le plus convoité après l'Oscar.",
     "fakt_de": "Jeden Mai rollt das Festival von Cannes seinen roten Teppich aus. Die Goldene Palme ist nach dem Oscar der begehrteste Filmpreis.",
-    "audio": "audio/orte/cannes.mp3"
+    "audio": "audio/fr-de/orte/cannes.mp3"
    },
    {
     "id": "nice",
@@ -6914,7 +7253,7 @@ window.DATEN = {
     "y": 443.9,
     "fakt": "La promenade des Anglais à Nice fait sept kilomètres le long de la mer. Les Anglais l'ont payée au XIXe siècle.",
     "fakt_de": "Die Promenade des Anglais in Nizza ist sieben Kilometer lang am Meer. Engländer bezahlten sie im 19. Jahrhundert.",
-    "audio": "audio/orte/nice.mp3"
+    "audio": "audio/fr-de/orte/nice.mp3"
    },
    {
     "id": "ajaccio",
@@ -6926,7 +7265,7 @@ window.DATEN = {
     "y": 547.4,
     "fakt": "Napoléon est né à Ajaccio en 1769. La Corse est « l'île de Beauté » – montagnes, maquis et mer.",
     "fakt_de": "Napoleon wurde 1769 in Ajaccio geboren. Korsika ist „die Insel der Schönheit“ – Berge, Macchia und Meer.",
-    "audio": "audio/orte/ajaccio.mp3"
+    "audio": "audio/fr-de/orte/ajaccio.mp3"
    },
    {
     "id": "bonifacio",
@@ -6938,7 +7277,7 @@ window.DATEN = {
     "y": 578.1,
     "fakt": "Bonifacio est posée sur des falaises blanches, à 70 mètres au-dessus de la mer. En face, la Sardaigne.",
     "fakt_de": "Bonifacio liegt auf weißen Kalkfelsen, 70 Meter über dem Meer. Gegenüber: Sardinien.",
-    "audio": "audio/orte/bonifacio.mp3"
+    "audio": "audio/fr-de/orte/bonifacio.mp3"
    }
   ],
   "karte": {
@@ -7423,6 +7762,18 @@ window.DATEN = {
     "region": "Île-de-France"
    }
   },
+  "karte_info": {
+   "name": "La France",
+   "einheit": "départements",
+   "lieux": "lieux",
+   "start": "Metz",
+   "quelle": "Carte : IGN Admin Express via france-geojson (Licence ouverte).",
+   "badge": "Tour de France",
+   "hinweis": [
+    "Chaque séance terminée et chaque partie terminée débloquent un lieu, en partant de Metz. Touche un lieu !",
+    "Jede fertige Séance und jeder fertige Teil schalten einen Ort frei, Start in Metz. Tipp auf einen Ort!"
+   ]
+  },
   "titel": [
    {
     "ab": 0,
@@ -7434,55 +7785,55 @@ window.DATEN = {
     "ab": 300,
     "name": "Croissant",
     "symbol": "🥐",
-    "audio": "audio/spiel/titel_1.mp3"
+    "audio": "audio/fr-de/spiel/titel_1.mp3"
    },
    {
     "ab": 900,
     "name": "Baguette",
     "symbol": "🥖",
-    "audio": "audio/spiel/titel_2.mp3"
+    "audio": "audio/fr-de/spiel/titel_2.mp3"
    },
    {
     "ab": 1800,
     "name": "Crêpe",
     "symbol": "🥞",
-    "audio": "audio/spiel/titel_3.mp3"
+    "audio": "audio/fr-de/spiel/titel_3.mp3"
    },
    {
     "ab": 3000,
     "name": "Fromage",
     "symbol": "🧀",
-    "audio": "audio/spiel/titel_4.mp3"
+    "audio": "audio/fr-de/spiel/titel_4.mp3"
    },
    {
     "ab": 4500,
     "name": "Huîtres",
     "symbol": "🦪",
-    "audio": "audio/spiel/titel_5.mp3"
+    "audio": "audio/fr-de/spiel/titel_5.mp3"
    },
    {
     "ab": 6500,
     "name": "Caviar",
     "symbol": "✨",
-    "audio": "audio/spiel/titel_6.mp3"
+    "audio": "audio/fr-de/spiel/titel_6.mp3"
    }
   ],
   "texte": {
    "feuer": {
     "text": "Tu es en feu ! Trois jours de suite !",
-    "audio": "audio/spiel/feuer.mp3"
+    "audio": "audio/fr-de/spiel/feuer.mp3"
    },
    "woche": {
     "text": "Semaine parfaite ! Tu as travaillé chaque jour d'école. Bravo !",
-    "audio": "audio/spiel/woche.mp3"
+    "audio": "audio/fr-de/spiel/woche.mp3"
    },
    "monat": {
     "text": "Quatre semaines parfaites de suite ! Quel champion !",
-    "audio": "audio/spiel/monat.mp3"
+    "audio": "audio/fr-de/spiel/monat.mp3"
    },
    "fini": {
     "text": "C'est fini pour aujourd'hui. À demain !",
-    "audio": "audio/spiel/fini.mp3"
+    "audio": "audio/fr-de/spiel/fini.mp3"
    }
   },
   "frei": [
@@ -7542,5 +7893,926 @@ window.DATEN = {
     "name": "Weihnachtsferien"
    }
   ]
- }
+ },
+ "audio_liste": [
+  "audio/fr-de/dialoge/d1_01.mp3",
+  "audio/fr-de/dialoge/d1_02.mp3",
+  "audio/fr-de/dialoge/d1_03.mp3",
+  "audio/fr-de/dialoge/d1_04.mp3",
+  "audio/fr-de/dialoge/d1_05.mp3",
+  "audio/fr-de/dialoge/d1_06.mp3",
+  "audio/fr-de/dialoge/d1_07.mp3",
+  "audio/fr-de/dialoge/d1_08.mp3",
+  "audio/fr-de/dialoge/d1_09.mp3",
+  "audio/fr-de/dialoge/d1_10.mp3",
+  "audio/fr-de/dialoge/d2_01.mp3",
+  "audio/fr-de/dialoge/d2_02.mp3",
+  "audio/fr-de/dialoge/d2_03.mp3",
+  "audio/fr-de/dialoge/d2_04.mp3",
+  "audio/fr-de/dialoge/d2_05.mp3",
+  "audio/fr-de/dialoge/d2_06.mp3",
+  "audio/fr-de/dialoge/d2_07.mp3",
+  "audio/fr-de/dialoge/d2_08.mp3",
+  "audio/fr-de/dialoge/d2_09.mp3",
+  "audio/fr-de/dialoge/d2_10.mp3",
+  "audio/fr-de/geschichte/k01_01.mp3",
+  "audio/fr-de/geschichte/k01_02.mp3",
+  "audio/fr-de/geschichte/k01_03.mp3",
+  "audio/fr-de/geschichte/k01_04.mp3",
+  "audio/fr-de/geschichte/k01_05.mp3",
+  "audio/fr-de/geschichte/k01_06.mp3",
+  "audio/fr-de/geschichte/k01_07.mp3",
+  "audio/fr-de/geschichte/k01_08.mp3",
+  "audio/fr-de/geschichte/k01_09.mp3",
+  "audio/fr-de/geschichte/k01_10.mp3",
+  "audio/fr-de/geschichte/k01_11.mp3",
+  "audio/fr-de/geschichte/k01_12.mp3",
+  "audio/fr-de/geschichte/k01_13.mp3",
+  "audio/fr-de/geschichte/k01_14.mp3",
+  "audio/fr-de/geschichte/k02_01.mp3",
+  "audio/fr-de/geschichte/k02_02.mp3",
+  "audio/fr-de/geschichte/k02_03.mp3",
+  "audio/fr-de/geschichte/k02_04.mp3",
+  "audio/fr-de/geschichte/k02_05.mp3",
+  "audio/fr-de/geschichte/k02_06.mp3",
+  "audio/fr-de/geschichte/k02_07.mp3",
+  "audio/fr-de/geschichte/k02_08.mp3",
+  "audio/fr-de/geschichte/k02_09.mp3",
+  "audio/fr-de/geschichte/k02_10.mp3",
+  "audio/fr-de/geschichte/k02_11.mp3",
+  "audio/fr-de/geschichte/k02_12.mp3",
+  "audio/fr-de/geschichte/k02_13.mp3",
+  "audio/fr-de/geschichte/k02_14.mp3",
+  "audio/fr-de/geschichte/k02_15.mp3",
+  "audio/fr-de/geschichte/k03_01.mp3",
+  "audio/fr-de/geschichte/k03_02.mp3",
+  "audio/fr-de/geschichte/k03_03.mp3",
+  "audio/fr-de/geschichte/k03_04.mp3",
+  "audio/fr-de/geschichte/k03_05.mp3",
+  "audio/fr-de/geschichte/k03_06.mp3",
+  "audio/fr-de/geschichte/k03_07.mp3",
+  "audio/fr-de/geschichte/k03_08.mp3",
+  "audio/fr-de/geschichte/k03_09.mp3",
+  "audio/fr-de/geschichte/k03_10.mp3",
+  "audio/fr-de/geschichte/k03_11.mp3",
+  "audio/fr-de/geschichte/k03_12.mp3",
+  "audio/fr-de/geschichte/k03_13.mp3",
+  "audio/fr-de/geschichte/k03_14.mp3",
+  "audio/fr-de/geschichte/k03_15.mp3",
+  "audio/fr-de/lob/doch_tu_vois.mp3",
+  "audio/fr-de/lob/fehler_encore.mp3",
+  "audio/fr-de/lob/fehler_hmm.mp3",
+  "audio/fr-de/lob/fehler_oh_la_la.mp3",
+  "audio/fr-de/lob/fehler_on_recommence.mp3",
+  "audio/fr-de/lob/fehler_pas_cette_fois.mp3",
+  "audio/fr-de/lob/fehler_pas_grave.mp3",
+  "audio/fr-de/lob/fehler_pas_loin.mp3",
+  "audio/fr-de/lob/fehler_pas_tout_a_fait.mp3",
+  "audio/fr-de/lob/fehler_presque.mp3",
+  "audio/fr-de/lob/fehler_presque_presque.mp3",
+  "audio/fr-de/lob/geschafft_bravo.mp3",
+  "audio/fr-de/lob/geschafft_fier.mp3",
+  "audio/fr-de/lob/geschafft_fini.mp3",
+  "audio/fr-de/lob/lob_au_poil.mp3",
+  "audio/fr-de/lob/lob_bien_dit.mp3",
+  "audio/fr-de/lob/lob_bien_joue.mp3",
+  "audio/fr-de/lob/lob_bien_vu.mp3",
+  "audio/fr-de/lob/lob_bingo.mp3",
+  "audio/fr-de/lob/lob_bravo.mp3",
+  "audio/fr-de/lob/lob_ca_cest_bien.mp3",
+  "audio/fr-de/lob/lob_ca_roule.mp3",
+  "audio/fr-de/lob/lob_ca_sonne.mp3",
+  "audio/fr-de/lob/lob_canon.mp3",
+  "audio/fr-de/lob/lob_cest_ca.mp3",
+  "audio/fr-de/lob/lob_chapeau.mp3",
+  "audio/fr-de/lob/lob_comme_un_chef.mp3",
+  "audio/fr-de/lob/lob_dans_le_mille.mp3",
+  "audio/fr-de/lob/lob_du_francais.mp3",
+  "audio/fr-de/lob/lob_encore_un_point.mp3",
+  "audio/fr-de/lob/lob_et_voila.mp3",
+  "audio/fr-de/lob/lob_exact.mp3",
+  "audio/fr-de/lob/lob_exactement.mp3",
+  "audio/fr-de/lob/lob_exactement_ca.mp3",
+  "audio/fr-de/lob/lob_excellent.mp3",
+  "audio/fr-de/lob/lob_extra.mp3",
+  "audio/fr-de/lob/lob_formidable.mp3",
+  "audio/fr-de/lob/lob_genial.mp3",
+  "audio/fr-de/lob/lob_impeccable.mp3",
+  "audio/fr-de/lob/lob_jadore.mp3",
+  "audio/fr-de/lob/lob_joli.mp3",
+  "audio/fr-de/lob/lob_juste.mp3",
+  "audio/fr-de/lob/lob_la_classe.mp3",
+  "audio/fr-de/lob/lob_magnifique.mp3",
+  "audio/fr-de/lob/lob_monsieur_prof.mp3",
+  "audio/fr-de/lob/lob_musique.mp3",
+  "audio/fr-de/lob/lob_nickel.mp3",
+  "audio/fr-de/lob/lob_oreille.mp3",
+  "audio/fr-de/lob/lob_oui.mp3",
+  "audio/fr-de/lob/lob_parfait.mp3",
+  "audio/fr-de/lob/lob_parfaitement.mp3",
+  "audio/fr-de/lob/lob_pile_poil.mp3",
+  "audio/fr-de/lob/lob_premier_coup.mp3",
+  "audio/fr-de/lob/lob_progresses.mp3",
+  "audio/fr-de/lob/lob_quel_accent.mp3",
+  "audio/fr-de/lob/lob_rien_a_dire.mp3",
+  "audio/fr-de/lob/lob_sans_faute.mp3",
+  "audio/fr-de/lob/lob_super.mp3",
+  "audio/fr-de/lob/lob_terrible.mp3",
+  "audio/fr-de/lob/lob_top.mp3",
+  "audio/fr-de/lob/lob_tout_a_fait.mp3",
+  "audio/fr-de/lob/lob_tout_bon.mp3",
+  "audio/fr-de/lob/lob_tres_bien.mp3",
+  "audio/fr-de/lob/lob_trop_fort.mp3",
+  "audio/fr-de/lob/lob_tu_assures.mp3",
+  "audio/fr-de/lob/lob_tu_geres.mp3",
+  "audio/fr-de/lob/lob_voila.mp3",
+  "audio/fr-de/lob/lob_vrai_francais.mp3",
+  "audio/fr-de/lob/stark_champion.mp3",
+  "audio/fr-de/lob/stark_ecrase.mp3",
+  "audio/fr-de/lob/stark_entendre.mp3",
+  "audio/fr-de/lob/stark_facile.mp3",
+  "audio/fr-de/lob/stark_fier.mp3",
+  "audio/fr-de/lob/stark_impressionnant.mp3",
+  "audio/fr-de/lob/stark_incroyable.mp3",
+  "audio/fr-de/lob/stark_machine.mp3",
+  "audio/fr-de/lob/stark_performance.mp3",
+  "audio/fr-de/lob/stark_plein_mille.mp3",
+  "audio/fr-de/lob/stark_remarquable.mp3",
+  "audio/fr-de/lob/stark_star.mp3",
+  "audio/fr-de/lob/stark_superbe.mp3",
+  "audio/fr-de/lob/stark_voles.mp3",
+  "audio/fr-de/lob/voll_sans_faute.mp3",
+  "audio/fr-de/nasale/an_01.mp3",
+  "audio/fr-de/nasale/an_02.mp3",
+  "audio/fr-de/nasale/an_03.mp3",
+  "audio/fr-de/nasale/an_04.mp3",
+  "audio/fr-de/nasale/an_05.mp3",
+  "audio/fr-de/nasale/an_06.mp3",
+  "audio/fr-de/nasale/an_07.mp3",
+  "audio/fr-de/nasale/an_08.mp3",
+  "audio/fr-de/nasale/b_01.mp3",
+  "audio/fr-de/nasale/b_02.mp3",
+  "audio/fr-de/nasale/b_03.mp3",
+  "audio/fr-de/nasale/b_04.mp3",
+  "audio/fr-de/nasale/b_05.mp3",
+  "audio/fr-de/nasale/b_06.mp3",
+  "audio/fr-de/nasale/b_07.mp3",
+  "audio/fr-de/nasale/b_08.mp3",
+  "audio/fr-de/nasale/b_09.mp3",
+  "audio/fr-de/nasale/b_10.mp3",
+  "audio/fr-de/nasale/b_11.mp3",
+  "audio/fr-de/nasale/b_12.mp3",
+  "audio/fr-de/nasale/in_01.mp3",
+  "audio/fr-de/nasale/in_02.mp3",
+  "audio/fr-de/nasale/in_03.mp3",
+  "audio/fr-de/nasale/in_04.mp3",
+  "audio/fr-de/nasale/in_05.mp3",
+  "audio/fr-de/nasale/in_06.mp3",
+  "audio/fr-de/nasale/in_07.mp3",
+  "audio/fr-de/nasale/in_08.mp3",
+  "audio/fr-de/nasale/on_01.mp3",
+  "audio/fr-de/nasale/on_02.mp3",
+  "audio/fr-de/nasale/on_03.mp3",
+  "audio/fr-de/nasale/on_04.mp3",
+  "audio/fr-de/nasale/on_05.mp3",
+  "audio/fr-de/nasale/on_06.mp3",
+  "audio/fr-de/nasale/on_07.mp3",
+  "audio/fr-de/nasale/on_08.mp3",
+  "audio/fr-de/nasale/p1_01a.mp3",
+  "audio/fr-de/nasale/p1_01b.mp3",
+  "audio/fr-de/nasale/p1_02a.mp3",
+  "audio/fr-de/nasale/p1_02b.mp3",
+  "audio/fr-de/nasale/p1_03a.mp3",
+  "audio/fr-de/nasale/p1_03b.mp3",
+  "audio/fr-de/nasale/p1_04a.mp3",
+  "audio/fr-de/nasale/p1_04b.mp3",
+  "audio/fr-de/nasale/p1_05a.mp3",
+  "audio/fr-de/nasale/p1_05b.mp3",
+  "audio/fr-de/nasale/p1_06a.mp3",
+  "audio/fr-de/nasale/p1_06b.mp3",
+  "audio/fr-de/nasale/p1_07a.mp3",
+  "audio/fr-de/nasale/p1_07b.mp3",
+  "audio/fr-de/nasale/p1_08a.mp3",
+  "audio/fr-de/nasale/p1_08b.mp3",
+  "audio/fr-de/nasale/p2_01a.mp3",
+  "audio/fr-de/nasale/p2_01b.mp3",
+  "audio/fr-de/nasale/p2_02a.mp3",
+  "audio/fr-de/nasale/p2_02b.mp3",
+  "audio/fr-de/nasale/p2_03a.mp3",
+  "audio/fr-de/nasale/p2_03b.mp3",
+  "audio/fr-de/nasale/p2_04a.mp3",
+  "audio/fr-de/nasale/p2_04b.mp3",
+  "audio/fr-de/nasale/p2_05a.mp3",
+  "audio/fr-de/nasale/p2_05b.mp3",
+  "audio/fr-de/nasale/p2_06a.mp3",
+  "audio/fr-de/nasale/p2_06b.mp3",
+  "audio/fr-de/nasale/p2_07a.mp3",
+  "audio/fr-de/nasale/p2_07b.mp3",
+  "audio/fr-de/nasale/p2_08a.mp3",
+  "audio/fr-de/nasale/p2_08b.mp3",
+  "audio/fr-de/nasale/p3_01a.mp3",
+  "audio/fr-de/nasale/p3_01b.mp3",
+  "audio/fr-de/nasale/p3_02a.mp3",
+  "audio/fr-de/nasale/p3_02b.mp3",
+  "audio/fr-de/nasale/p3_03a.mp3",
+  "audio/fr-de/nasale/p3_03b.mp3",
+  "audio/fr-de/nasale/p3_04a.mp3",
+  "audio/fr-de/nasale/p3_04b.mp3",
+  "audio/fr-de/nasale/p3_05a.mp3",
+  "audio/fr-de/nasale/p3_05b.mp3",
+  "audio/fr-de/nasale/p3_06a.mp3",
+  "audio/fr-de/nasale/p3_06b.mp3",
+  "audio/fr-de/nasale/un_01.mp3",
+  "audio/fr-de/nasale/un_02.mp3",
+  "audio/fr-de/nasale/un_03.mp3",
+  "audio/fr-de/nasale/un_04.mp3",
+  "audio/fr-de/nasale/un_05.mp3",
+  "audio/fr-de/nasale/un_06.mp3",
+  "audio/fr-de/orte/ajaccio.mp3",
+  "audio/fr-de/orte/amiens.mp3",
+  "audio/fr-de/orte/annecy.mp3",
+  "audio/fr-de/orte/avignon.mp3",
+  "audio/fr-de/orte/besancon.mp3",
+  "audio/fr-de/orte/biarritz.mp3",
+  "audio/fr-de/orte/bonifacio.mp3",
+  "audio/fr-de/orte/bordeaux.mp3",
+  "audio/fr-de/orte/bourges.mp3",
+  "audio/fr-de/orte/brest.mp3",
+  "audio/fr-de/orte/cannes.mp3",
+  "audio/fr-de/orte/carcassonne.mp3",
+  "audio/fr-de/orte/carnac.mp3",
+  "audio/fr-de/orte/chambord.mp3",
+  "audio/fr-de/orte/chamonix.mp3",
+  "audio/fr-de/orte/clermont_ferrand.mp3",
+  "audio/fr-de/orte/colmar.mp3",
+  "audio/fr-de/orte/dijon.mp3",
+  "audio/fr-de/orte/dune_du_pilat.mp3",
+  "audio/fr-de/orte/forbach.mp3",
+  "audio/fr-de/orte/giverny.mp3",
+  "audio/fr-de/orte/gorges_du_verdon.mp3",
+  "audio/fr-de/orte/grenoble.mp3",
+  "audio/fr-de/orte/honfleur.mp3",
+  "audio/fr-de/orte/la_rochelle.mp3",
+  "audio/fr-de/orte/lascaux.mp3",
+  "audio/fr-de/orte/le_mans.mp3",
+  "audio/fr-de/orte/lille.mp3",
+  "audio/fr-de/orte/lourdes.mp3",
+  "audio/fr-de/orte/louvre.mp3",
+  "audio/fr-de/orte/lyon.mp3",
+  "audio/fr-de/orte/marseille.mp3",
+  "audio/fr-de/orte/metz.mp3",
+  "audio/fr-de/orte/mont_saint_michel.mp3",
+  "audio/fr-de/orte/montpellier.mp3",
+  "audio/fr-de/orte/nancy.mp3",
+  "audio/fr-de/orte/nantes.mp3",
+  "audio/fr-de/orte/nice.mp3",
+  "audio/fr-de/orte/paris.mp3",
+  "audio/fr-de/orte/plages_debarquement.mp3",
+  "audio/fr-de/orte/pont_du_gard.mp3",
+  "audio/fr-de/orte/reims.mp3",
+  "audio/fr-de/orte/rouen.mp3",
+  "audio/fr-de/orte/saint_malo.mp3",
+  "audio/fr-de/orte/sarreguemines.mp3",
+  "audio/fr-de/orte/strasbourg.mp3",
+  "audio/fr-de/orte/toulouse.mp3",
+  "audio/fr-de/orte/tours.mp3",
+  "audio/fr-de/orte/verdun.mp3",
+  "audio/fr-de/orte/versailles.mp3",
+  "audio/fr-de/saetze/ch_01.mp3",
+  "audio/fr-de/saetze/ch_01_fp.mp3",
+  "audio/fr-de/saetze/ch_01_pc.mp3",
+  "audio/fr-de/saetze/ch_02.mp3",
+  "audio/fr-de/saetze/ch_02_fp.mp3",
+  "audio/fr-de/saetze/ch_02_pc.mp3",
+  "audio/fr-de/saetze/ch_03.mp3",
+  "audio/fr-de/saetze/ch_03_fp.mp3",
+  "audio/fr-de/saetze/ch_03_pc.mp3",
+  "audio/fr-de/saetze/ch_04.mp3",
+  "audio/fr-de/saetze/ch_04_fp.mp3",
+  "audio/fr-de/saetze/ch_04_pc.mp3",
+  "audio/fr-de/saetze/ch_05.mp3",
+  "audio/fr-de/saetze/ch_05_fp.mp3",
+  "audio/fr-de/saetze/ch_05_pc.mp3",
+  "audio/fr-de/saetze/ch_06.mp3",
+  "audio/fr-de/saetze/ch_06_fp.mp3",
+  "audio/fr-de/saetze/ch_06_pc.mp3",
+  "audio/fr-de/saetze/ch_07.mp3",
+  "audio/fr-de/saetze/ch_07_fp.mp3",
+  "audio/fr-de/saetze/ch_07_pc.mp3",
+  "audio/fr-de/saetze/ch_08.mp3",
+  "audio/fr-de/saetze/ch_08_fp.mp3",
+  "audio/fr-de/saetze/ch_08_pc.mp3",
+  "audio/fr-de/saetze/ch_09.mp3",
+  "audio/fr-de/saetze/ch_10.mp3",
+  "audio/fr-de/saetze/ch_10_fp.mp3",
+  "audio/fr-de/saetze/ch_10_pc.mp3",
+  "audio/fr-de/saetze/ch_11.mp3",
+  "audio/fr-de/saetze/ch_11_fp.mp3",
+  "audio/fr-de/saetze/ch_11_pc.mp3",
+  "audio/fr-de/saetze/ch_12.mp3",
+  "audio/fr-de/saetze/ch_13.mp3",
+  "audio/fr-de/saetze/ch_14.mp3",
+  "audio/fr-de/saetze/ch_15.mp3",
+  "audio/fr-de/saetze/ch_15_fp.mp3",
+  "audio/fr-de/saetze/ch_15_pc.mp3",
+  "audio/fr-de/saetze/ch_16.mp3",
+  "audio/fr-de/saetze/ch_16_fp.mp3",
+  "audio/fr-de/saetze/ch_16_pc.mp3",
+  "audio/fr-de/saetze/ch_17.mp3",
+  "audio/fr-de/saetze/ch_17_fp.mp3",
+  "audio/fr-de/saetze/ch_17_pc.mp3",
+  "audio/fr-de/saetze/ch_18.mp3",
+  "audio/fr-de/saetze/ch_19.mp3",
+  "audio/fr-de/saetze/ch_19_fp.mp3",
+  "audio/fr-de/saetze/ch_19_pc.mp3",
+  "audio/fr-de/saetze/ch_20.mp3",
+  "audio/fr-de/saetze/ch_21.mp3",
+  "audio/fr-de/saetze/ch_22.mp3",
+  "audio/fr-de/saetze/ch_23.mp3",
+  "audio/fr-de/saetze/ch_23_fp.mp3",
+  "audio/fr-de/saetze/ch_23_pc.mp3",
+  "audio/fr-de/saetze/ch_24.mp3",
+  "audio/fr-de/saetze/en_01.mp3",
+  "audio/fr-de/saetze/en_01_fp.mp3",
+  "audio/fr-de/saetze/en_01_pc.mp3",
+  "audio/fr-de/saetze/en_02.mp3",
+  "audio/fr-de/saetze/en_03.mp3",
+  "audio/fr-de/saetze/en_03_fp.mp3",
+  "audio/fr-de/saetze/en_03_pc.mp3",
+  "audio/fr-de/saetze/en_04.mp3",
+  "audio/fr-de/saetze/en_04_fp.mp3",
+  "audio/fr-de/saetze/en_04_pc.mp3",
+  "audio/fr-de/saetze/en_05.mp3",
+  "audio/fr-de/saetze/en_06.mp3",
+  "audio/fr-de/saetze/en_06_fp.mp3",
+  "audio/fr-de/saetze/en_06_pc.mp3",
+  "audio/fr-de/saetze/en_07.mp3",
+  "audio/fr-de/saetze/en_07_fp.mp3",
+  "audio/fr-de/saetze/en_07_pc.mp3",
+  "audio/fr-de/saetze/en_08.mp3",
+  "audio/fr-de/saetze/en_08_fp.mp3",
+  "audio/fr-de/saetze/en_08_pc.mp3",
+  "audio/fr-de/saetze/en_09.mp3",
+  "audio/fr-de/saetze/en_10.mp3",
+  "audio/fr-de/saetze/en_11.mp3",
+  "audio/fr-de/saetze/en_11_fp.mp3",
+  "audio/fr-de/saetze/en_11_pc.mp3",
+  "audio/fr-de/saetze/en_12.mp3",
+  "audio/fr-de/saetze/en_12_fp.mp3",
+  "audio/fr-de/saetze/en_12_pc.mp3",
+  "audio/fr-de/saetze/en_13.mp3",
+  "audio/fr-de/saetze/en_13_fp.mp3",
+  "audio/fr-de/saetze/en_13_pc.mp3",
+  "audio/fr-de/saetze/en_14.mp3",
+  "audio/fr-de/saetze/en_15.mp3",
+  "audio/fr-de/saetze/en_15_fp.mp3",
+  "audio/fr-de/saetze/en_15_pc.mp3",
+  "audio/fr-de/saetze/en_16.mp3",
+  "audio/fr-de/saetze/en_17.mp3",
+  "audio/fr-de/saetze/en_18.mp3",
+  "audio/fr-de/saetze/en_18_fp.mp3",
+  "audio/fr-de/saetze/en_18_pc.mp3",
+  "audio/fr-de/saetze/en_19.mp3",
+  "audio/fr-de/saetze/en_20.mp3",
+  "audio/fr-de/saetze/en_20_fp.mp3",
+  "audio/fr-de/saetze/en_20_pc.mp3",
+  "audio/fr-de/saetze/en_21.mp3",
+  "audio/fr-de/saetze/en_21_fp.mp3",
+  "audio/fr-de/saetze/en_21_pc.mp3",
+  "audio/fr-de/saetze/en_22.mp3",
+  "audio/fr-de/saetze/en_23.mp3",
+  "audio/fr-de/saetze/en_24.mp3",
+  "audio/fr-de/saetze/ep_01.mp3",
+  "audio/fr-de/saetze/ep_01_fp.mp3",
+  "audio/fr-de/saetze/ep_01_pc.mp3",
+  "audio/fr-de/saetze/ep_02.mp3",
+  "audio/fr-de/saetze/ep_02_fp.mp3",
+  "audio/fr-de/saetze/ep_02_pc.mp3",
+  "audio/fr-de/saetze/ep_03.mp3",
+  "audio/fr-de/saetze/ep_04.mp3",
+  "audio/fr-de/saetze/ep_04_fp.mp3",
+  "audio/fr-de/saetze/ep_04_pc.mp3",
+  "audio/fr-de/saetze/ep_05.mp3",
+  "audio/fr-de/saetze/ep_06.mp3",
+  "audio/fr-de/saetze/ep_06_fp.mp3",
+  "audio/fr-de/saetze/ep_06_pc.mp3",
+  "audio/fr-de/saetze/ep_07.mp3",
+  "audio/fr-de/saetze/ep_08.mp3",
+  "audio/fr-de/saetze/ep_08_fp.mp3",
+  "audio/fr-de/saetze/ep_08_pc.mp3",
+  "audio/fr-de/saetze/ep_09.mp3",
+  "audio/fr-de/saetze/ep_10.mp3",
+  "audio/fr-de/saetze/ep_10_fp.mp3",
+  "audio/fr-de/saetze/ep_10_pc.mp3",
+  "audio/fr-de/saetze/ep_11.mp3",
+  "audio/fr-de/saetze/ep_12.mp3",
+  "audio/fr-de/saetze/ep_13.mp3",
+  "audio/fr-de/saetze/ep_13_fp.mp3",
+  "audio/fr-de/saetze/ep_13_pc.mp3",
+  "audio/fr-de/saetze/ep_14.mp3",
+  "audio/fr-de/saetze/ep_14_fp.mp3",
+  "audio/fr-de/saetze/ep_14_pc.mp3",
+  "audio/fr-de/saetze/ep_15.mp3",
+  "audio/fr-de/saetze/ep_16.mp3",
+  "audio/fr-de/saetze/ep_16_fp.mp3",
+  "audio/fr-de/saetze/ep_16_pc.mp3",
+  "audio/fr-de/saetze/ep_17.mp3",
+  "audio/fr-de/saetze/ep_18.mp3",
+  "audio/fr-de/saetze/ep_19.mp3",
+  "audio/fr-de/saetze/ep_20.mp3",
+  "audio/fr-de/saetze/fa_01.mp3",
+  "audio/fr-de/saetze/fa_02.mp3",
+  "audio/fr-de/saetze/fa_03.mp3",
+  "audio/fr-de/saetze/fa_03_fp.mp3",
+  "audio/fr-de/saetze/fa_03_pc.mp3",
+  "audio/fr-de/saetze/fa_04.mp3",
+  "audio/fr-de/saetze/fa_04_fp.mp3",
+  "audio/fr-de/saetze/fa_04_pc.mp3",
+  "audio/fr-de/saetze/fa_05.mp3",
+  "audio/fr-de/saetze/fa_05_fp.mp3",
+  "audio/fr-de/saetze/fa_05_pc.mp3",
+  "audio/fr-de/saetze/fa_06.mp3",
+  "audio/fr-de/saetze/fa_06_fp.mp3",
+  "audio/fr-de/saetze/fa_06_pc.mp3",
+  "audio/fr-de/saetze/fa_07.mp3",
+  "audio/fr-de/saetze/fa_07_fp.mp3",
+  "audio/fr-de/saetze/fa_07_pc.mp3",
+  "audio/fr-de/saetze/fa_08.mp3",
+  "audio/fr-de/saetze/fa_09.mp3",
+  "audio/fr-de/saetze/fa_10.mp3",
+  "audio/fr-de/saetze/fa_11.mp3",
+  "audio/fr-de/saetze/fa_12.mp3",
+  "audio/fr-de/saetze/fa_13.mp3",
+  "audio/fr-de/saetze/fa_14.mp3",
+  "audio/fr-de/saetze/fa_15.mp3",
+  "audio/fr-de/saetze/fa_16.mp3",
+  "audio/fr-de/saetze/fa_17.mp3",
+  "audio/fr-de/saetze/fa_17_fp.mp3",
+  "audio/fr-de/saetze/fa_17_pc.mp3",
+  "audio/fr-de/saetze/fa_18.mp3",
+  "audio/fr-de/saetze/fa_18_fp.mp3",
+  "audio/fr-de/saetze/fa_18_pc.mp3",
+  "audio/fr-de/saetze/fa_19.mp3",
+  "audio/fr-de/saetze/fa_20.mp3",
+  "audio/fr-de/saetze/fa_21.mp3",
+  "audio/fr-de/saetze/fa_21_fp.mp3",
+  "audio/fr-de/saetze/fa_21_pc.mp3",
+  "audio/fr-de/saetze/fa_22.mp3",
+  "audio/fr-de/saetze/fa_23.mp3",
+  "audio/fr-de/saetze/fa_24.mp3",
+  "audio/fr-de/saetze/hi_01.mp3",
+  "audio/fr-de/saetze/hi_02.mp3",
+  "audio/fr-de/saetze/hi_02_fp.mp3",
+  "audio/fr-de/saetze/hi_02_pc.mp3",
+  "audio/fr-de/saetze/hi_03.mp3",
+  "audio/fr-de/saetze/hi_04.mp3",
+  "audio/fr-de/saetze/hi_05.mp3",
+  "audio/fr-de/saetze/hi_06.mp3",
+  "audio/fr-de/saetze/hi_07.mp3",
+  "audio/fr-de/saetze/hi_07_fp.mp3",
+  "audio/fr-de/saetze/hi_07_pc.mp3",
+  "audio/fr-de/saetze/hi_08.mp3",
+  "audio/fr-de/saetze/hi_09.mp3",
+  "audio/fr-de/saetze/hi_10.mp3",
+  "audio/fr-de/saetze/hi_11.mp3",
+  "audio/fr-de/saetze/hi_12.mp3",
+  "audio/fr-de/saetze/hi_12_fp.mp3",
+  "audio/fr-de/saetze/hi_12_pc.mp3",
+  "audio/fr-de/saetze/hi_13.mp3",
+  "audio/fr-de/saetze/hi_14.mp3",
+  "audio/fr-de/saetze/hi_15.mp3",
+  "audio/fr-de/saetze/hi_16.mp3",
+  "audio/fr-de/saetze/hi_16_fp.mp3",
+  "audio/fr-de/saetze/hi_16_pc.mp3",
+  "audio/fr-de/saetze/hi_17.mp3",
+  "audio/fr-de/saetze/hi_18.mp3",
+  "audio/fr-de/saetze/hi_18_fp.mp3",
+  "audio/fr-de/saetze/hi_18_pc.mp3",
+  "audio/fr-de/saetze/hi_19.mp3",
+  "audio/fr-de/saetze/hi_20.mp3",
+  "audio/fr-de/saetze/hi_20_fp.mp3",
+  "audio/fr-de/saetze/hi_20_pc.mp3",
+  "audio/fr-de/saetze/hi_21.mp3",
+  "audio/fr-de/saetze/hi_21_fp.mp3",
+  "audio/fr-de/saetze/hi_21_pc.mp3",
+  "audio/fr-de/saetze/hi_22.mp3",
+  "audio/fr-de/saetze/hi_23.mp3",
+  "audio/fr-de/saetze/hi_24.mp3",
+  "audio/fr-de/saetze/ma_01.mp3",
+  "audio/fr-de/saetze/ma_01_fp.mp3",
+  "audio/fr-de/saetze/ma_01_pc.mp3",
+  "audio/fr-de/saetze/ma_02.mp3",
+  "audio/fr-de/saetze/ma_02_fp.mp3",
+  "audio/fr-de/saetze/ma_02_pc.mp3",
+  "audio/fr-de/saetze/ma_03.mp3",
+  "audio/fr-de/saetze/ma_04.mp3",
+  "audio/fr-de/saetze/ma_04_fp.mp3",
+  "audio/fr-de/saetze/ma_04_pc.mp3",
+  "audio/fr-de/saetze/ma_05.mp3",
+  "audio/fr-de/saetze/ma_05_fp.mp3",
+  "audio/fr-de/saetze/ma_05_pc.mp3",
+  "audio/fr-de/saetze/ma_06.mp3",
+  "audio/fr-de/saetze/ma_07.mp3",
+  "audio/fr-de/saetze/ma_07_fp.mp3",
+  "audio/fr-de/saetze/ma_07_pc.mp3",
+  "audio/fr-de/saetze/ma_08.mp3",
+  "audio/fr-de/saetze/ma_08_fp.mp3",
+  "audio/fr-de/saetze/ma_08_pc.mp3",
+  "audio/fr-de/saetze/ma_09.mp3",
+  "audio/fr-de/saetze/ma_10.mp3",
+  "audio/fr-de/saetze/ma_11.mp3",
+  "audio/fr-de/saetze/ma_11_fp.mp3",
+  "audio/fr-de/saetze/ma_11_pc.mp3",
+  "audio/fr-de/saetze/ma_12.mp3",
+  "audio/fr-de/saetze/ma_12_fp.mp3",
+  "audio/fr-de/saetze/ma_12_pc.mp3",
+  "audio/fr-de/saetze/ma_13.mp3",
+  "audio/fr-de/saetze/ma_14.mp3",
+  "audio/fr-de/saetze/ma_14_fp.mp3",
+  "audio/fr-de/saetze/ma_14_pc.mp3",
+  "audio/fr-de/saetze/ma_15.mp3",
+  "audio/fr-de/saetze/ma_15_fp.mp3",
+  "audio/fr-de/saetze/ma_15_pc.mp3",
+  "audio/fr-de/saetze/ma_16.mp3",
+  "audio/fr-de/saetze/ma_17.mp3",
+  "audio/fr-de/saetze/ma_17_fp.mp3",
+  "audio/fr-de/saetze/ma_17_pc.mp3",
+  "audio/fr-de/saetze/ma_18.mp3",
+  "audio/fr-de/saetze/ma_19.mp3",
+  "audio/fr-de/saetze/ma_19_fp.mp3",
+  "audio/fr-de/saetze/ma_19_pc.mp3",
+  "audio/fr-de/saetze/ma_20.mp3",
+  "audio/fr-de/saetze/ma_21.mp3",
+  "audio/fr-de/saetze/ma_21_fp.mp3",
+  "audio/fr-de/saetze/ma_21_pc.mp3",
+  "audio/fr-de/saetze/ma_22.mp3",
+  "audio/fr-de/saetze/ma_23.mp3",
+  "audio/fr-de/saetze/ma_24.mp3",
+  "audio/fr-de/saetze/mu_01.mp3",
+  "audio/fr-de/saetze/mu_01_fp.mp3",
+  "audio/fr-de/saetze/mu_01_pc.mp3",
+  "audio/fr-de/saetze/mu_02.mp3",
+  "audio/fr-de/saetze/mu_02_fp.mp3",
+  "audio/fr-de/saetze/mu_02_pc.mp3",
+  "audio/fr-de/saetze/mu_03.mp3",
+  "audio/fr-de/saetze/mu_04.mp3",
+  "audio/fr-de/saetze/mu_05.mp3",
+  "audio/fr-de/saetze/mu_05_fp.mp3",
+  "audio/fr-de/saetze/mu_05_pc.mp3",
+  "audio/fr-de/saetze/mu_06.mp3",
+  "audio/fr-de/saetze/mu_07.mp3",
+  "audio/fr-de/saetze/mu_08.mp3",
+  "audio/fr-de/saetze/mu_09.mp3",
+  "audio/fr-de/saetze/mu_09_fp.mp3",
+  "audio/fr-de/saetze/mu_09_pc.mp3",
+  "audio/fr-de/saetze/mu_10.mp3",
+  "audio/fr-de/saetze/mu_10_fp.mp3",
+  "audio/fr-de/saetze/mu_10_pc.mp3",
+  "audio/fr-de/saetze/mu_11.mp3",
+  "audio/fr-de/saetze/mu_12.mp3",
+  "audio/fr-de/saetze/mu_12_fp.mp3",
+  "audio/fr-de/saetze/mu_12_pc.mp3",
+  "audio/fr-de/saetze/mu_13.mp3",
+  "audio/fr-de/saetze/mu_14.mp3",
+  "audio/fr-de/saetze/mu_15.mp3",
+  "audio/fr-de/saetze/mu_15_fp.mp3",
+  "audio/fr-de/saetze/mu_15_pc.mp3",
+  "audio/fr-de/saetze/mu_16.mp3",
+  "audio/fr-de/saetze/mu_17.mp3",
+  "audio/fr-de/saetze/mu_18.mp3",
+  "audio/fr-de/saetze/mu_19.mp3",
+  "audio/fr-de/saetze/mu_19_fp.mp3",
+  "audio/fr-de/saetze/mu_19_pc.mp3",
+  "audio/fr-de/saetze/mu_20.mp3",
+  "audio/fr-de/saetze/mu_20_fp.mp3",
+  "audio/fr-de/saetze/mu_20_pc.mp3",
+  "audio/fr-de/saetze/mu_21.mp3",
+  "audio/fr-de/saetze/mu_21_fp.mp3",
+  "audio/fr-de/saetze/mu_21_pc.mp3",
+  "audio/fr-de/saetze/mu_22.mp3",
+  "audio/fr-de/saetze/mu_22_fp.mp3",
+  "audio/fr-de/saetze/mu_22_pc.mp3",
+  "audio/fr-de/saetze/mu_23.mp3",
+  "audio/fr-de/saetze/mu_24.mp3",
+  "audio/fr-de/saetze/se_01.mp3",
+  "audio/fr-de/saetze/se_01_fp.mp3",
+  "audio/fr-de/saetze/se_01_pc.mp3",
+  "audio/fr-de/saetze/se_02.mp3",
+  "audio/fr-de/saetze/se_02_fp.mp3",
+  "audio/fr-de/saetze/se_02_pc.mp3",
+  "audio/fr-de/saetze/se_03.mp3",
+  "audio/fr-de/saetze/se_04.mp3",
+  "audio/fr-de/saetze/se_05.mp3",
+  "audio/fr-de/saetze/se_05_fp.mp3",
+  "audio/fr-de/saetze/se_05_pc.mp3",
+  "audio/fr-de/saetze/se_06.mp3",
+  "audio/fr-de/saetze/se_07.mp3",
+  "audio/fr-de/saetze/se_08.mp3",
+  "audio/fr-de/saetze/se_09.mp3",
+  "audio/fr-de/saetze/se_09_fp.mp3",
+  "audio/fr-de/saetze/se_09_pc.mp3",
+  "audio/fr-de/saetze/se_10.mp3",
+  "audio/fr-de/saetze/se_10_fp.mp3",
+  "audio/fr-de/saetze/se_10_pc.mp3",
+  "audio/fr-de/saetze/se_11.mp3",
+  "audio/fr-de/saetze/se_11_fp.mp3",
+  "audio/fr-de/saetze/se_11_pc.mp3",
+  "audio/fr-de/saetze/se_12.mp3",
+  "audio/fr-de/saetze/se_12_fp.mp3",
+  "audio/fr-de/saetze/se_12_pc.mp3",
+  "audio/fr-de/saetze/se_13.mp3",
+  "audio/fr-de/saetze/se_14.mp3",
+  "audio/fr-de/saetze/se_14_fp.mp3",
+  "audio/fr-de/saetze/se_14_pc.mp3",
+  "audio/fr-de/saetze/se_15.mp3",
+  "audio/fr-de/saetze/se_15_fp.mp3",
+  "audio/fr-de/saetze/se_15_pc.mp3",
+  "audio/fr-de/saetze/se_16.mp3",
+  "audio/fr-de/saetze/se_17.mp3",
+  "audio/fr-de/saetze/se_17_fp.mp3",
+  "audio/fr-de/saetze/se_17_pc.mp3",
+  "audio/fr-de/saetze/se_18.mp3",
+  "audio/fr-de/saetze/se_18_fp.mp3",
+  "audio/fr-de/saetze/se_18_pc.mp3",
+  "audio/fr-de/saetze/se_19.mp3",
+  "audio/fr-de/saetze/se_19_fp.mp3",
+  "audio/fr-de/saetze/se_19_pc.mp3",
+  "audio/fr-de/saetze/se_20.mp3",
+  "audio/fr-de/saetze/se_21.mp3",
+  "audio/fr-de/saetze/se_22.mp3",
+  "audio/fr-de/saetze/se_23.mp3",
+  "audio/fr-de/saetze/se_23_fp.mp3",
+  "audio/fr-de/saetze/se_23_pc.mp3",
+  "audio/fr-de/saetze/se_24.mp3",
+  "audio/fr-de/saetze/sp_01.mp3",
+  "audio/fr-de/saetze/sp_01_fp.mp3",
+  "audio/fr-de/saetze/sp_01_pc.mp3",
+  "audio/fr-de/saetze/sp_02.mp3",
+  "audio/fr-de/saetze/sp_03.mp3",
+  "audio/fr-de/saetze/sp_04.mp3",
+  "audio/fr-de/saetze/sp_05.mp3",
+  "audio/fr-de/saetze/sp_05_fp.mp3",
+  "audio/fr-de/saetze/sp_05_pc.mp3",
+  "audio/fr-de/saetze/sp_06.mp3",
+  "audio/fr-de/saetze/sp_06_fp.mp3",
+  "audio/fr-de/saetze/sp_06_pc.mp3",
+  "audio/fr-de/saetze/sp_07.mp3",
+  "audio/fr-de/saetze/sp_07_fp.mp3",
+  "audio/fr-de/saetze/sp_07_pc.mp3",
+  "audio/fr-de/saetze/sp_08.mp3",
+  "audio/fr-de/saetze/sp_08_fp.mp3",
+  "audio/fr-de/saetze/sp_08_pc.mp3",
+  "audio/fr-de/saetze/sp_09.mp3",
+  "audio/fr-de/saetze/sp_10.mp3",
+  "audio/fr-de/saetze/sp_11.mp3",
+  "audio/fr-de/saetze/sp_12.mp3",
+  "audio/fr-de/saetze/sp_12_fp.mp3",
+  "audio/fr-de/saetze/sp_12_pc.mp3",
+  "audio/fr-de/saetze/sp_13.mp3",
+  "audio/fr-de/saetze/sp_14.mp3",
+  "audio/fr-de/saetze/sp_14_fp.mp3",
+  "audio/fr-de/saetze/sp_14_pc.mp3",
+  "audio/fr-de/saetze/sp_15.mp3",
+  "audio/fr-de/saetze/sp_15_fp.mp3",
+  "audio/fr-de/saetze/sp_15_pc.mp3",
+  "audio/fr-de/saetze/sp_16.mp3",
+  "audio/fr-de/saetze/sp_16_fp.mp3",
+  "audio/fr-de/saetze/sp_16_pc.mp3",
+  "audio/fr-de/saetze/sp_17.mp3",
+  "audio/fr-de/saetze/sp_17_fp.mp3",
+  "audio/fr-de/saetze/sp_17_pc.mp3",
+  "audio/fr-de/saetze/sp_18.mp3",
+  "audio/fr-de/saetze/sp_19.mp3",
+  "audio/fr-de/saetze/sp_19_fp.mp3",
+  "audio/fr-de/saetze/sp_19_pc.mp3",
+  "audio/fr-de/saetze/sp_20.mp3",
+  "audio/fr-de/saetze/sp_21.mp3",
+  "audio/fr-de/saetze/sp_21_fp.mp3",
+  "audio/fr-de/saetze/sp_21_pc.mp3",
+  "audio/fr-de/saetze/sp_22.mp3",
+  "audio/fr-de/saetze/sp_23.mp3",
+  "audio/fr-de/saetze/sp_24.mp3",
+  "audio/fr-de/spiel/feuer.mp3",
+  "audio/fr-de/spiel/fini.mp3",
+  "audio/fr-de/spiel/monat.mp3",
+  "audio/fr-de/spiel/titel_1.mp3",
+  "audio/fr-de/spiel/titel_2.mp3",
+  "audio/fr-de/spiel/titel_3.mp3",
+  "audio/fr-de/spiel/titel_4.mp3",
+  "audio/fr-de/spiel/titel_5.mp3",
+  "audio/fr-de/spiel/titel_6.mp3",
+  "audio/fr-de/spiel/woche.mp3",
+  "audio/fr-de/wendungen/ch_01.mp3",
+  "audio/fr-de/wendungen/ch_02.mp3",
+  "audio/fr-de/wendungen/ch_03.mp3",
+  "audio/fr-de/wendungen/ch_04.mp3",
+  "audio/fr-de/wendungen/ch_05.mp3",
+  "audio/fr-de/wendungen/ch_06.mp3",
+  "audio/fr-de/wendungen/ch_07.mp3",
+  "audio/fr-de/wendungen/ch_08.mp3",
+  "audio/fr-de/wendungen/ch_09.mp3",
+  "audio/fr-de/wendungen/ch_10.mp3",
+  "audio/fr-de/wendungen/ch_11.mp3",
+  "audio/fr-de/wendungen/ch_12.mp3",
+  "audio/fr-de/wendungen/ch_13.mp3",
+  "audio/fr-de/wendungen/ch_14.mp3",
+  "audio/fr-de/wendungen/ch_15.mp3",
+  "audio/fr-de/wendungen/ch_16.mp3",
+  "audio/fr-de/wendungen/ch_17.mp3",
+  "audio/fr-de/wendungen/ch_18.mp3",
+  "audio/fr-de/wendungen/ch_19.mp3",
+  "audio/fr-de/wendungen/ch_20.mp3",
+  "audio/fr-de/wendungen/ch_21.mp3",
+  "audio/fr-de/wendungen/ch_22.mp3",
+  "audio/fr-de/wendungen/ch_23.mp3",
+  "audio/fr-de/wendungen/ch_24.mp3",
+  "audio/fr-de/wendungen/en_01.mp3",
+  "audio/fr-de/wendungen/en_02.mp3",
+  "audio/fr-de/wendungen/en_03.mp3",
+  "audio/fr-de/wendungen/en_04.mp3",
+  "audio/fr-de/wendungen/en_05.mp3",
+  "audio/fr-de/wendungen/en_06.mp3",
+  "audio/fr-de/wendungen/en_07.mp3",
+  "audio/fr-de/wendungen/en_08.mp3",
+  "audio/fr-de/wendungen/en_09.mp3",
+  "audio/fr-de/wendungen/en_10.mp3",
+  "audio/fr-de/wendungen/en_11.mp3",
+  "audio/fr-de/wendungen/en_12.mp3",
+  "audio/fr-de/wendungen/en_13.mp3",
+  "audio/fr-de/wendungen/en_14.mp3",
+  "audio/fr-de/wendungen/en_15.mp3",
+  "audio/fr-de/wendungen/en_16.mp3",
+  "audio/fr-de/wendungen/en_17.mp3",
+  "audio/fr-de/wendungen/en_18.mp3",
+  "audio/fr-de/wendungen/en_19.mp3",
+  "audio/fr-de/wendungen/en_20.mp3",
+  "audio/fr-de/wendungen/en_21.mp3",
+  "audio/fr-de/wendungen/en_22.mp3",
+  "audio/fr-de/wendungen/en_23.mp3",
+  "audio/fr-de/wendungen/en_24.mp3",
+  "audio/fr-de/wendungen/ep_01.mp3",
+  "audio/fr-de/wendungen/ep_02.mp3",
+  "audio/fr-de/wendungen/ep_03.mp3",
+  "audio/fr-de/wendungen/ep_04.mp3",
+  "audio/fr-de/wendungen/ep_05.mp3",
+  "audio/fr-de/wendungen/ep_06.mp3",
+  "audio/fr-de/wendungen/ep_07.mp3",
+  "audio/fr-de/wendungen/ep_08.mp3",
+  "audio/fr-de/wendungen/ep_09.mp3",
+  "audio/fr-de/wendungen/ep_10.mp3",
+  "audio/fr-de/wendungen/ep_11.mp3",
+  "audio/fr-de/wendungen/ep_12.mp3",
+  "audio/fr-de/wendungen/ep_13.mp3",
+  "audio/fr-de/wendungen/ep_14.mp3",
+  "audio/fr-de/wendungen/ep_15.mp3",
+  "audio/fr-de/wendungen/ep_16.mp3",
+  "audio/fr-de/wendungen/ep_17.mp3",
+  "audio/fr-de/wendungen/ep_18.mp3",
+  "audio/fr-de/wendungen/ep_19.mp3",
+  "audio/fr-de/wendungen/ep_20.mp3",
+  "audio/fr-de/wendungen/fa_01.mp3",
+  "audio/fr-de/wendungen/fa_02.mp3",
+  "audio/fr-de/wendungen/fa_03.mp3",
+  "audio/fr-de/wendungen/fa_04.mp3",
+  "audio/fr-de/wendungen/fa_05.mp3",
+  "audio/fr-de/wendungen/fa_06.mp3",
+  "audio/fr-de/wendungen/fa_07.mp3",
+  "audio/fr-de/wendungen/fa_08.mp3",
+  "audio/fr-de/wendungen/fa_09.mp3",
+  "audio/fr-de/wendungen/fa_10.mp3",
+  "audio/fr-de/wendungen/fa_11.mp3",
+  "audio/fr-de/wendungen/fa_12.mp3",
+  "audio/fr-de/wendungen/fa_13.mp3",
+  "audio/fr-de/wendungen/fa_14.mp3",
+  "audio/fr-de/wendungen/fa_15.mp3",
+  "audio/fr-de/wendungen/fa_16.mp3",
+  "audio/fr-de/wendungen/fa_17.mp3",
+  "audio/fr-de/wendungen/fa_18.mp3",
+  "audio/fr-de/wendungen/fa_19.mp3",
+  "audio/fr-de/wendungen/fa_20.mp3",
+  "audio/fr-de/wendungen/fa_21.mp3",
+  "audio/fr-de/wendungen/fa_22.mp3",
+  "audio/fr-de/wendungen/fa_23.mp3",
+  "audio/fr-de/wendungen/fa_24.mp3",
+  "audio/fr-de/wendungen/hi_01.mp3",
+  "audio/fr-de/wendungen/hi_02.mp3",
+  "audio/fr-de/wendungen/hi_03.mp3",
+  "audio/fr-de/wendungen/hi_04.mp3",
+  "audio/fr-de/wendungen/hi_05.mp3",
+  "audio/fr-de/wendungen/hi_06.mp3",
+  "audio/fr-de/wendungen/hi_07.mp3",
+  "audio/fr-de/wendungen/hi_08.mp3",
+  "audio/fr-de/wendungen/hi_09.mp3",
+  "audio/fr-de/wendungen/hi_10.mp3",
+  "audio/fr-de/wendungen/hi_11.mp3",
+  "audio/fr-de/wendungen/hi_12.mp3",
+  "audio/fr-de/wendungen/hi_13.mp3",
+  "audio/fr-de/wendungen/hi_14.mp3",
+  "audio/fr-de/wendungen/hi_15.mp3",
+  "audio/fr-de/wendungen/hi_16.mp3",
+  "audio/fr-de/wendungen/hi_17.mp3",
+  "audio/fr-de/wendungen/hi_18.mp3",
+  "audio/fr-de/wendungen/hi_19.mp3",
+  "audio/fr-de/wendungen/hi_20.mp3",
+  "audio/fr-de/wendungen/hi_21.mp3",
+  "audio/fr-de/wendungen/hi_22.mp3",
+  "audio/fr-de/wendungen/hi_23.mp3",
+  "audio/fr-de/wendungen/hi_24.mp3",
+  "audio/fr-de/wendungen/ma_01.mp3",
+  "audio/fr-de/wendungen/ma_02.mp3",
+  "audio/fr-de/wendungen/ma_03.mp3",
+  "audio/fr-de/wendungen/ma_04.mp3",
+  "audio/fr-de/wendungen/ma_05.mp3",
+  "audio/fr-de/wendungen/ma_06.mp3",
+  "audio/fr-de/wendungen/ma_07.mp3",
+  "audio/fr-de/wendungen/ma_08.mp3",
+  "audio/fr-de/wendungen/ma_09.mp3",
+  "audio/fr-de/wendungen/ma_10.mp3",
+  "audio/fr-de/wendungen/ma_11.mp3",
+  "audio/fr-de/wendungen/ma_12.mp3",
+  "audio/fr-de/wendungen/ma_13.mp3",
+  "audio/fr-de/wendungen/ma_14.mp3",
+  "audio/fr-de/wendungen/ma_15.mp3",
+  "audio/fr-de/wendungen/ma_16.mp3",
+  "audio/fr-de/wendungen/ma_17.mp3",
+  "audio/fr-de/wendungen/ma_18.mp3",
+  "audio/fr-de/wendungen/ma_19.mp3",
+  "audio/fr-de/wendungen/ma_20.mp3",
+  "audio/fr-de/wendungen/ma_21.mp3",
+  "audio/fr-de/wendungen/ma_22.mp3",
+  "audio/fr-de/wendungen/ma_23.mp3",
+  "audio/fr-de/wendungen/ma_24.mp3",
+  "audio/fr-de/wendungen/mu_01.mp3",
+  "audio/fr-de/wendungen/mu_02.mp3",
+  "audio/fr-de/wendungen/mu_03.mp3",
+  "audio/fr-de/wendungen/mu_04.mp3",
+  "audio/fr-de/wendungen/mu_05.mp3",
+  "audio/fr-de/wendungen/mu_06.mp3",
+  "audio/fr-de/wendungen/mu_07.mp3",
+  "audio/fr-de/wendungen/mu_08.mp3",
+  "audio/fr-de/wendungen/mu_09.mp3",
+  "audio/fr-de/wendungen/mu_10.mp3",
+  "audio/fr-de/wendungen/mu_11.mp3",
+  "audio/fr-de/wendungen/mu_12.mp3",
+  "audio/fr-de/wendungen/mu_13.mp3",
+  "audio/fr-de/wendungen/mu_14.mp3",
+  "audio/fr-de/wendungen/mu_15.mp3",
+  "audio/fr-de/wendungen/mu_16.mp3",
+  "audio/fr-de/wendungen/mu_17.mp3",
+  "audio/fr-de/wendungen/mu_18.mp3",
+  "audio/fr-de/wendungen/mu_19.mp3",
+  "audio/fr-de/wendungen/mu_20.mp3",
+  "audio/fr-de/wendungen/mu_21.mp3",
+  "audio/fr-de/wendungen/mu_22.mp3",
+  "audio/fr-de/wendungen/mu_23.mp3",
+  "audio/fr-de/wendungen/mu_24.mp3",
+  "audio/fr-de/wendungen/se_01.mp3",
+  "audio/fr-de/wendungen/se_02.mp3",
+  "audio/fr-de/wendungen/se_03.mp3",
+  "audio/fr-de/wendungen/se_04.mp3",
+  "audio/fr-de/wendungen/se_05.mp3",
+  "audio/fr-de/wendungen/se_06.mp3",
+  "audio/fr-de/wendungen/se_07.mp3",
+  "audio/fr-de/wendungen/se_08.mp3",
+  "audio/fr-de/wendungen/se_09.mp3",
+  "audio/fr-de/wendungen/se_10.mp3",
+  "audio/fr-de/wendungen/se_11.mp3",
+  "audio/fr-de/wendungen/se_12.mp3",
+  "audio/fr-de/wendungen/se_13.mp3",
+  "audio/fr-de/wendungen/se_14.mp3",
+  "audio/fr-de/wendungen/se_15.mp3",
+  "audio/fr-de/wendungen/se_16.mp3",
+  "audio/fr-de/wendungen/se_17.mp3",
+  "audio/fr-de/wendungen/se_18.mp3",
+  "audio/fr-de/wendungen/se_19.mp3",
+  "audio/fr-de/wendungen/se_20.mp3",
+  "audio/fr-de/wendungen/se_21.mp3",
+  "audio/fr-de/wendungen/se_22.mp3",
+  "audio/fr-de/wendungen/se_23.mp3",
+  "audio/fr-de/wendungen/se_24.mp3",
+  "audio/fr-de/wendungen/sp_01.mp3",
+  "audio/fr-de/wendungen/sp_02.mp3",
+  "audio/fr-de/wendungen/sp_03.mp3",
+  "audio/fr-de/wendungen/sp_04.mp3",
+  "audio/fr-de/wendungen/sp_05.mp3",
+  "audio/fr-de/wendungen/sp_06.mp3",
+  "audio/fr-de/wendungen/sp_07.mp3",
+  "audio/fr-de/wendungen/sp_08.mp3",
+  "audio/fr-de/wendungen/sp_09.mp3",
+  "audio/fr-de/wendungen/sp_10.mp3",
+  "audio/fr-de/wendungen/sp_11.mp3",
+  "audio/fr-de/wendungen/sp_12.mp3",
+  "audio/fr-de/wendungen/sp_13.mp3",
+  "audio/fr-de/wendungen/sp_14.mp3",
+  "audio/fr-de/wendungen/sp_15.mp3",
+  "audio/fr-de/wendungen/sp_16.mp3",
+  "audio/fr-de/wendungen/sp_17.mp3",
+  "audio/fr-de/wendungen/sp_18.mp3",
+  "audio/fr-de/wendungen/sp_19.mp3",
+  "audio/fr-de/wendungen/sp_20.mp3",
+  "audio/fr-de/wendungen/sp_21.mp3",
+  "audio/fr-de/wendungen/sp_22.mp3",
+  "audio/fr-de/wendungen/sp_23.mp3",
+  "audio/fr-de/wendungen/sp_24.mp3"
+ ]
 };
