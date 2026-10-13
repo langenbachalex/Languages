@@ -23,6 +23,7 @@ THEMEN = [
     {"id": "geschichten", "name": "Geschichten und Fantasy", "de": "Histoires et fantasy", "symbol": "🐉", "datei": "geschichten.tsv"},
     {"id": "sport", "name": "Sport und Kung-Fu", "de": "Sport et kung-fu", "symbol": "🥋", "datei": "sport.tsv"},
     {"id": "essen", "name": "Essen und gut leben", "de": "Manger et bien vivre", "symbol": "🥨", "datei": "essen.tsv"},
+    {"id": "kinder", "name": "Kinder und Babys", "de": "Enfants et bébés", "symbol": "👶", "datei": "kinder.tsv"},
 ]
 
 # Titel – deutsche Leckereien

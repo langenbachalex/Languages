@@ -475,6 +475,38 @@ window.SPRACHEN["de-fr"] = {
     "es_23",
     "es_24"
    ]
+  },
+  {
+   "id": "kinder",
+   "name": "Kinder und Babys",
+   "de": "Enfants et bébés",
+   "symbol": "👶",
+   "wendungen": [
+    "ki_01",
+    "ki_02",
+    "ki_03",
+    "ki_04",
+    "ki_05",
+    "ki_06",
+    "ki_07",
+    "ki_08",
+    "ki_09",
+    "ki_10",
+    "ki_11",
+    "ki_12",
+    "ki_13",
+    "ki_14",
+    "ki_15",
+    "ki_16",
+    "ki_17",
+    "ki_18",
+    "ki_19",
+    "ki_20",
+    "ki_21",
+    "ki_22",
+    "ki_23",
+    "ki_24"
+   ]
   }
  ],
  "wendungen": [
@@ -4078,6 +4110,531 @@ window.SPRACHEN["de-fr"] = {
     "de": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
     "luecke": "hätte gern",
     "audio": "audio/de-fr/saetze/es_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_01",
+   "thema": "kinder",
+   "fr": "durchschlafen",
+   "de": "faire ses nuits",
+   "register": "tu",
+   "anker": "durchschlafen",
+   "notiz": "durchschlafen = dormir d'une traite, faire ses nuits (particule séparable : schläft … durch, participe durchgeschlafen) ; durch- = à travers, jusqu'au bout. meiner Kollegin = génitif féminin. sie selbst = elle-même.",
+   "audio": null,
+   "satz": {
+    "fr": "Das Baby meiner Kollegin schläft durch. Sie selbst noch nicht.",
+    "de": "Le bébé de ma collègue fait ses nuits. Elle, pas encore.",
+    "luecke": "schläft durch",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Das Baby hat diese Woche durchgeschlafen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Das Baby wird durchschlafen. Irgendwann.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_02",
+   "thema": "kinder",
+   "fr": "ein Kuscheltier",
+   "de": "un doudou",
+   "register": "tu",
+   "anker": "schlafen",
+   "notiz": "das Kuscheltier = la peluche, le doudou (kuscheln = faire des câlins + Tier = animal) ; das Schmusetuch = le doudou en tissu. ohne + accusatif. reden von + datif = parler de (vom = von dem). vor allem = surtout.",
+   "audio": null,
+   "satz": {
+    "fr": "Ohne sein Kuscheltier kann es nicht schlafen. Ich rede vom Baby. Na ja, vor allem.",
+    "de": "Sans son doudou, impossible de dormir. Je parle du bébé. Enfin, surtout.",
+    "luecke": "Kuscheltier",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_03",
+   "thema": "kinder",
+   "fr": "Unsinn anstellen",
+   "de": "faire des bêtises",
+   "register": "tu",
+   "anker": "anstellen",
+   "notiz": "etwas anstellen = faire une bêtise (particule séparable : stellen … an) ; der Unsinn, der Blödsinn, der Quatsch = les bêtises. meiner = le mien ; lächeln = sourire (infinitif avec zu).",
+   "audio": null,
+   "satz": {
+    "fr": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
+    "de": "Les enfants font des bêtises. C'est leur métier. Le mien, c'est de sourire.",
+    "luecke": "stellen Unsinn an",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie haben den ganzen Morgen Unsinn angestellt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie werden Unsinn anstellen, ganz sicher.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_04",
+   "thema": "kinder",
+   "fr": "in den Arm nehmen",
+   "de": "prendre dans ses bras",
+   "register": "tu",
+   "anker": "nehmen",
+   "notiz": "in den Arm nehmen = prendre dans ses bras (singulier : den Arm, accusatif) ; aussi : umarmen = embrasser (étreindre), drücken = serrer. man = on ; es = le (das Kind, neutre). einzig = seul, unique.",
+   "audio": null,
+   "satz": {
+    "fr": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
+    "de": "Quand un enfant pleure, on le prend dans ses bras. C'est la seule règle.",
+    "luecke": "nimmt man es in den Arm",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe es in den Arm genommen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde es in den Arm nehmen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_05",
+   "thema": "kinder",
+   "fr": "ein Baby",
+   "de": "un bébé",
+   "register": "tu",
+   "anker": "sagen",
+   "notiz": "das Baby (mot anglais, neutre, pluriel die Babys) ; aussi : der Säugling (le nourrisson, langue soignée), das Kleinkind = le petit enfant. es = pronom neutre pour das Baby.",
+   "audio": null,
+   "satz": {
+    "fr": "Ein Baby spricht nicht, aber es sagt alles.",
+    "de": "Un bébé, ça ne parle pas, mais ça dit tout.",
+    "luecke": "Baby",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_06",
+   "thema": "kinder",
+   "fr": "anlächeln",
+   "de": "faire un sourire",
+   "register": "tu",
+   "anker": "anlächeln",
+   "notiz": "jemanden anlächeln = sourire à quelqu'un (an- = en direction de ; particule séparable : lächelt … an) ; lächeln = sourire, lachen = rire. gerettet = sauvé (retten).",
+   "audio": null,
+   "satz": {
+    "fr": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
+    "de": "Le bébé m'a fait un sourire. Ma journée était gagnée.",
+    "luecke": "hat mich angelächelt",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Das Baby hat mich angelächelt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Das Baby wird mich anlächeln. Ich warte.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_07",
+   "thema": "kinder",
+   "fr": "groß werden",
+   "de": "grandir",
+   "register": "tu",
+   "anker": "werden",
+   "notiz": "groß werden = grandir (werden = devenir, participe geworden avec sein) ; aussi : wachsen = pousser, croître. zu schnell = trop vite. bleiben = rester.",
+   "audio": null,
+   "satz": {
+    "fr": "Kinder werden zu schnell groß. Die Klassenarbeiten bleiben.",
+    "de": "Les enfants grandissent trop vite. Les copies, elles, restent.",
+    "luecke": "werden zu schnell groß",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie sind in den Ferien groß geworden.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie werden groß werden, und ich werde alt werden.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_08",
+   "thema": "kinder",
+   "fr": "schlecht einschlafen",
+   "de": "avoir du mal à s'endormir",
+   "register": "tu",
+   "anker": "einschlafen",
+   "notiz": "einschlafen = s'endormir (particule séparable, participe eingeschlafen avec sein) ; schlafen = dormir. der Kleine = le petit (adjectif substantivé). leiser = plus bas, moins fort (leise = bas, doucement).",
+   "audio": null,
+   "satz": {
+    "fr": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
+    "de": "Le petit a du mal à s'endormir. Alors je chante. Ça marche. Il pleure moins fort.",
+    "luecke": "schläft schlecht ein",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Er ist schlecht eingeschlafen.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Er wird schlecht einschlafen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_09",
+   "thema": "kinder",
+   "fr": "eine Windel",
+   "de": "une couche",
+   "register": "tu",
+   "anker": "wechseln",
+   "notiz": "die Windel = la couche (wickeln = emmailloter, langer) ; Windeln wechseln = changer les couches. echt = vrai, authentique (et familièrement « vraiment » : echt gut). Majuscule après les deux points quand une phrase complète suit.",
+   "audio": null,
+   "satz": {
+    "fr": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
+    "de": "Changer une couche en trois minutes : ça, c'est un vrai enchaînement de kung-fu.",
+    "luecke": "Windel",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_10",
+   "thema": "kinder",
+   "fr": "brav sein",
+   "de": "être sage",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "brav = sage, obéissant (faux ami : pas « courageux » = mutig !) ; sei ! = impératif de sein. die Waschmaschine = le lave-linge. in der Waschmaschine = datif (lieu).",
+   "audio": null,
+   "satz": {
+    "fr": "« Sei brav! » – « Ich bin brav. » – « Und warum ist die Katze in der Waschmaschine? »",
+    "de": "« Sois sage ! » – « Je suis sage. » – « Alors pourquoi le chat est-il dans le lave-linge ? »",
+    "luecke": "Sei brav",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_11",
+   "thema": "kinder",
+   "fr": "Verstecken spielen",
+   "de": "jouer à cache-cache",
+   "register": "tu",
+   "anker": "spielen",
+   "notiz": "Verstecken spielen = jouer à cache-cache (infinitif substantivé, sans article) ; sich verstecken = se cacher. hinter dem Vorhang = datif ; der Vorhang = le rideau. die Füße = les pieds (der Fuß) ; draußen = dehors.",
+   "audio": null,
+   "satz": {
+    "fr": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
+    "de": "On joue à cache-cache. Il se cache toujours derrière le rideau. Avec ses pieds dehors.",
+    "luecke": "spielen Verstecken",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Wir haben den ganzen Nachmittag Verstecken gespielt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Wir werden nach dem Nachmittagssnack Verstecken spielen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_12",
+   "thema": "kinder",
+   "fr": "eine Gute-Nacht-Geschichte erzählen",
+   "de": "raconter une histoire pour s'endormir",
+   "register": "tu",
+   "anker": "erzählen",
+   "notiz": "die Gute-Nacht-Geschichte = l'histoire du soir (mot composé avec traits d'union) ; Gute Nacht ! = bonne nuit. nach drei Seiten = au bout de trois pages (datif pluriel). La chute : c'est moi qui dors.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
+    "de": "Je raconte une histoire pour s'endormir. Au bout de trois pages, je dors.",
+    "luecke": "erzähle eine Gute-Nacht-Geschichte",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe eine Gute-Nacht-Geschichte erzählt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde eine Gute-Nacht-Geschichte erzählen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_13",
+   "thema": "kinder",
+   "fr": "weinen",
+   "de": "pleurer",
+   "register": "tu",
+   "anker": "weinen",
+   "notiz": "weinen = pleurer ; lachen = rire ; heulen = pleurer bruyamment (familier). Attention : weinen (pleurer) – der Wein (le vin) – weinen n'a rien à voir avec le vin ! dann = puis.",
+   "audio": null,
+   "satz": {
+    "fr": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
+    "de": "Le bébé pleure. Puis il rit. Puis il pleure. C'est un concert.",
+    "luecke": "weint",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Das Baby hat die ganze Nacht geweint.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Das Baby wird weinen, und ich werde singen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_14",
+   "thema": "kinder",
+   "fr": "eine Umarmung",
+   "de": "un câlin",
+   "register": "tu",
+   "anker": "beginnen",
+   "notiz": "die Umarmung = l'étreinte, le câlin (umarmen = prendre dans les bras ; der Arm) ; familier : eine Umarmung = ein Drücker. vor der Schule = avant l'école (datif, temps). für beide = pour tous les deux.",
+   "audio": null,
+   "satz": {
+    "fr": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
+    "de": "Un câlin avant l'école, et la journée commence bien. Pour les deux.",
+    "luecke": "Umarmung",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_15",
+   "thema": "kinder",
+   "fr": "laufen lernen",
+   "de": "apprendre à marcher",
+   "register": "tu",
+   "anker": "lernen",
+   "notiz": "laufen lernen = apprendre à marcher (lernen + infinitif, sans zu) ; laufen = marcher, et aussi courir (rennen = courir vite). der Schritt = le pas ; der Sturz = la chute ; das Lachen = le rire. im Kleinen = en miniature.",
+   "audio": null,
+   "satz": {
+    "fr": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
+    "de": "Elle apprend à marcher. Trois pas, une chute, un rire. C'est la vie en miniature.",
+    "luecke": "lernt laufen",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sie hat diesen Sommer laufen gelernt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Sie wird bald laufen lernen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_16",
+   "thema": "kinder",
+   "fr": "stolz sein auf",
+   "de": "être fier de",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "stolz sein auf + accusatif (auf meine Schüler) – pas « de » ! der Stolz = la fierté. vor allem = surtout ; wenn sie es nicht wissen = subordonnée, verbe à la fin.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
+    "de": "Je suis fier de mes élèves. Surtout quand ils ne le savent pas.",
+    "luecke": "stolz auf",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_17",
+   "thema": "kinder",
+   "fr": "die ersten Wörter",
+   "de": "les premiers mots",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "das Wort, pluriel die Wörter (mots isolés) ; die ersten Wörter = adjectif décliné au pluriel (seine ersten). die Reihenfolge = l'ordre (die Reihe = la rangée + die Folge = la suite). in dieser Reihenfolge = datif.",
+   "audio": null,
+   "satz": {
+    "fr": "Seine ersten Wörter: « Papa », « Katze », « Nein ». In dieser Reihenfolge.",
+    "de": "Ses premiers mots : « papa », « chat », « non ». Dans cet ordre.",
+    "luecke": "ersten Wörter",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_18",
+   "thema": "kinder",
+   "fr": "Geduld haben",
+   "de": "avoir de la patience",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "die Geduld = la patience (geduldig = patient ; nur Geduld ! = patience !) ; man muss = il faut (müssen). ich habe welche = j'en ai (welche = pronom indéfini). mit Kindern = datif pluriel.",
+   "audio": null,
+   "satz": {
+    "fr": "Mit Kindern muss man Geduld haben. Ich habe welche. Sie endet um fünf.",
+    "de": "Avec les enfants, il faut avoir de la patience. J'en ai. Elle finit à dix-sept heures.",
+    "luecke": "muss man Geduld haben",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich hatte den ganzen Tag Geduld.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde Geduld haben. Bis mittags.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_19",
+   "thema": "kinder",
+   "fr": "der Nachmittagssnack",
+   "de": "le goûter",
+   "register": "tu",
+   "anker": "geben",
+   "notiz": "der Nachmittagssnack = le goûter (Nachmittag + Snack, anglicisme) ; plus traditionnel : die Vesper (sud), das Kaffeetrinken (le café-gâteau de 16 h, institution allemande !). aus Solidarität = par solidarité (aus + datif).",
+   "audio": null,
+   "satz": {
+    "fr": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
+    "de": "À seize heures, c'est le goûter. Pour les enfants. Et pour moi, par solidarité.",
+    "luecke": "Nachmittagssnack",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_20",
+   "thema": "kinder",
+   "fr": "schallend lachen",
+   "de": "rire aux éclats",
+   "register": "tu",
+   "anker": "lachen",
+   "notiz": "schallend = retentissant (der Schall = le son) ; schallend lachen = rire aux éclats ; aussi : sich kaputtlachen (familier). niesen = éternuer. übrigens = d'ailleurs, au fait.",
+   "audio": null,
+   "satz": {
+    "fr": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
+    "de": "Le bébé rit aux éclats quand le chat éternue. Moi aussi, d'ailleurs.",
+    "luecke": "lacht schallend",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Das Baby hat schallend gelacht.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Das Baby wird schallend lachen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_21",
+   "thema": "kinder",
+   "fr": "Mittagsschlaf halten",
+   "de": "faire la sieste",
+   "register": "tu",
+   "anker": "halten",
+   "notiz": "der Mittagsschlaf = la sieste (Mittag + Schlaf) ; Mittagsschlaf halten ou machen ; aussi : ein Nickerchen machen. die Kleinen / die Großen = adjectifs substantivés. heimlich = en cachette.",
+   "audio": null,
+   "satz": {
+    "fr": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
+    "de": "Les petits font la sieste. Les grands aussi, en secret.",
+    "luecke": "halten Mittagsschlaf",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Die Kleinen haben Mittagsschlaf gehalten.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Die Kleinen werden Mittagsschlaf halten.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ki_22",
+   "thema": "kinder",
+   "fr": "Angst im Dunkeln haben",
+   "de": "avoir peur du noir",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "im Dunkeln = dans le noir (adjectif substantivé : das Dunkel) ; aussi : Angst vor der Dunkelheit haben. offen lassen = laisser ouvert. Wache halten = monter la garde (die Wache = la garde).",
+   "audio": null,
+   "satz": {
+    "fr": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze hält Wache.",
+    "de": "Il a peur du noir. Alors on laisse la porte ouverte. Et le chat de garde.",
+    "luecke": "hat Angst im Dunkeln",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_23",
+   "thema": "kinder",
+   "fr": "Badezeit",
+   "de": "c'est l'heure du bain",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "die Badezeit = l'heure du bain (baden = se baigner + Zeit) ; auch : Zeit fürs Bad. nass = mouillé. die, die … = ceux qui (relative : verbe à la fin, baden).",
+   "audio": null,
+   "satz": {
+    "fr": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
+    "de": "C'est l'heure du bain ! Tout le monde est mouillé. Même ceux qui ne se baignent pas.",
+    "luecke": "Badezeit",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ki_24",
+   "thema": "kinder",
+   "fr": "Wie alt ist Ihr Kind?",
+   "de": "quel âge a votre enfant ?",
+   "register": "vous",
+   "anker": "sein",
+   "notiz": "l'âge avec sein : wie alt ist … ? ; er ist zwei Jahre alt = il a deux ans (pas « haben » !). Ihr Kind = votre enfant (majuscule, vouvoiement). bezaubernd = adorable, charmant. der Zahn, die Zähne = la dent, les dents.",
+   "audio": null,
+   "satz": {
+    "fr": "Es ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
+    "de": "Il est adorable. Quel âge a votre enfant ? – Quatorze mois. Et quatre dents.",
+    "luecke": "Wie alt ist Ihr Kind",
+    "audio": null
    },
    "zeit": null
   }
