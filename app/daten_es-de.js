@@ -5350,12 +5350,6 @@ window.SPRACHEN["es-de"] = {
     "s",
     "una s sorda, como « ss » alemán",
     "stimmloses s wie deutsches ss (casa)"
-   ],
-   "l": [
-    "[l]",
-    "l",
-    "una l normal",
-    "ein normales l (polo)"
    ]
   },
   "reihe": [
@@ -5375,10 +5369,6 @@ window.SPRACHEN["es-de"] = {
    [
     "p2",
     "¿s o z?"
-   ],
-   [
-    "p3",
-    "¿l o ll?"
    ]
   ],
   "beide_name": "👑 Los dos",
@@ -6050,126 +6040,6 @@ window.SPRACHEN["es-de"] = {
      "wort": "abrazar",
      "de": "umarmen",
      "klang": "z",
-     "audio": null
-    }
-   },
-   {
-    "id": "p3_01a",
-    "wort": "polo",
-    "de": "Pol, Eis am Stiel",
-    "klang": "l",
-    "audio": null,
-    "gruppe": "p3",
-    "b": {
-     "id": "p3_01b",
-     "wort": "pollo",
-     "de": "Hähnchen",
-     "klang": "ll",
-     "audio": null
-    }
-   },
-   {
-    "id": "p3_02a",
-    "wort": "calo",
-    "de": "ich durchnässe",
-    "klang": "l",
-    "audio": null,
-    "gruppe": "p3",
-    "b": {
-     "id": "p3_02b",
-     "wort": "callo",
-     "de": "ich schweige",
-     "klang": "ll",
-     "audio": null
-    }
-   },
-   {
-    "id": "p3_03a",
-    "wort": "vale",
-    "de": "okay",
-    "klang": "l",
-    "audio": null,
-    "gruppe": "p3",
-    "b": {
-     "id": "p3_03b",
-     "wort": "valle",
-     "de": "Tal",
-     "klang": "ll",
-     "audio": null
-    }
-   },
-   {
-    "id": "p3_04a",
-    "wort": "malo",
-    "de": "schlecht",
-    "klang": "l",
-    "audio": null,
-    "gruppe": "p3",
-    "b": {
-     "id": "p3_04b",
-     "wort": "mallo",
-     "de": "Schlägel",
-     "klang": "ll",
-     "audio": null
-    }
-   },
-   {
-    "id": "p3_05a",
-    "wort": "pelo",
-    "de": "Haar",
-    "klang": "l",
-    "audio": null,
-    "gruppe": "p3",
-    "b": {
-     "id": "p3_05b",
-     "wort": "pello",
-     "de": "ich rupfe",
-     "klang": "ll",
-     "audio": null
-    }
-   },
-   {
-    "id": "p3_06a",
-    "wort": "bola",
-    "de": "Kugel",
-    "klang": "l",
-    "audio": null,
-    "gruppe": "p3",
-    "b": {
-     "id": "p3_06b",
-     "wort": "bolla",
-     "de": "Brötchen",
-     "klang": "ll",
-     "audio": null
-    }
-   },
-   {
-    "id": "p3_07a",
-    "wort": "olas",
-    "de": "Wellen",
-    "klang": "l",
-    "audio": null,
-    "gruppe": "p3",
-    "b": {
-     "id": "p3_07b",
-     "wort": "ollas",
-     "de": "Töpfe",
-     "klang": "ll",
-     "audio": null
-    }
-   },
-   {
-    "id": "p3_08a",
-    "wort": "cola",
-    "de": "Schwanz, Schlange",
-    "klang": "l",
-    "audio": null,
-    "gruppe": "p3",
-    "b": {
-     "id": "p3_08b",
-     "wort": "colla",
-     "de": "(Bergarbeiter-)Trupp",
-     "klang": "ll",
      "audio": null
     }
    }

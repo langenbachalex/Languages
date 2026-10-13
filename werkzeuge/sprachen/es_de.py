@@ -54,10 +54,9 @@ AUSSPRACHE = {
                 "ll": ["[ʝ]", "ll · y", "como un « j » alemán suave", "wie ein weiches deutsches j (llave, yo)"],
                 "z": ["[θ]", "z · ce · ci", "lengua entre los dientes", "Zunge zwischen den Zähnen (zapato, cena)"],
                 "ñ": ["[ɲ]", "ñ", "como « gn » en francés", "wie gn im Französischen (niño, España)"],
-                "s": ["[s]", "s", "una s sorda, como « ss » alemán", "stimmloses s wie deutsches ss (casa)"],
-                "l": ["[l]", "l", "una l normal", "ein normales l (polo)"]},
+                "s": ["[s]", "s", "una s sorda, como « ss » alemán", "stimmloses s wie deutsches ss (casa)"]},
     "reihe": ["rr", "r", "b", "j", "ll", "z", "ñ"],
-    "paare": [["p1", "¿r o rr?"], ["p2", "¿s o z?"], ["p3", "¿l o ll?"]],
+    "paare": [["p1", "¿r o rr?"], ["p2", "¿s o z?"]],
     "beide_name": "👑 Los dos",
     "texte": {
         "beide": ["Varios sonidos difíciles en una palabra. Escucha despacio, luego a velocidad normal – y repite cuidando cada sonido.",

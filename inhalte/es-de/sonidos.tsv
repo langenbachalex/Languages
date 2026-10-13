@@ -87,22 +87,6 @@ p2_07a	paar	s	rosa	Rose, rosa	p2_07b
 p2_07b	paar	z	roza	er streift	p2_07a
 p2_08a	paar	s	abrasar	verbrennen	p2_08b
 p2_08b	paar	z	abrazar	umarmen	p2_08a
-p3_01a	paar	l	polo	Pol, Eis am Stiel	p3_01b
-p3_01b	paar	ll	pollo	Hähnchen	p3_01a
-p3_02a	paar	l	calo	ich durchnässe	p3_02b
-p3_02b	paar	ll	callo	ich schweige	p3_02a
-p3_03a	paar	l	vale	okay	p3_03b
-p3_03b	paar	ll	valle	Tal	p3_03a
-p3_04a	paar	l	malo	schlecht	p3_04b
-p3_04b	paar	ll	mallo	Schlägel	p3_04a
-p3_05a	paar	l	pelo	Haar	p3_05b
-p3_05b	paar	ll	pello	ich rupfe	p3_05a
-p3_06a	paar	l	bola	Kugel	p3_06b
-p3_06b	paar	ll	bolla	Brötchen	p3_06a
-p3_07a	paar	l	olas	Wellen	p3_07b
-p3_07b	paar	ll	ollas	Töpfe	p3_07a
-p3_08a	paar	l	cola	Schwanz, Schlange	p3_08b
-p3_08b	paar	ll	colla	(Bergarbeiter-)Trupp	p3_08a
 b_01	beide	rr,ll	a{rr|rr}o{ll|y}o	Bach
 b_02	beide	rr,z	a{rr|rr}o{z|z}	Reis
 b_03	beide	z,rr	{z|z}o{rr|rr}o	Fuchs
