@@ -3007,21 +3007,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "trainieren",
    "notiz": "trainieren = s'entraîner (pas de « sich » en allemand ! participe trainiert, sans ge-) ; das Training = l'entraînement, der Trainer = l'entraîneur. dreimal die Woche = trois fois par semaine. ehrlich = honnête.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_01.mp3",
    "satz": {
     "fr": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "de": "Je m'entraîne trois fois par semaine. Deux, si je suis honnête.",
     "luecke": "trainiere",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe dreimal trainiert.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_01_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde dreimal trainieren. Vielleicht zweimal.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_01_fp.mp3"
     }
    }
   },
@@ -3033,12 +3033,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Tritt = le coup de pied (treten = donner un coup de pied, marcher sur) ; aussi : der Fußtritt. die Haltung = la posture, la tenue (halten = tenir). zuerst = d'abord.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_02.mp3",
    "satz": {
     "fr": "Ein guter Tritt ist zuerst eine gute Haltung.",
     "de": "Un bon coup de pied, c'est d'abord une bonne position.",
     "luecke": "Tritt",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_02.mp3"
    },
    "zeit": null
   },
@@ -3050,12 +3050,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kommen",
    "notiz": "die Faust = le poing + der Schlag = le coup ; die Hüfte = la hanche ; der Arm = le bras. aus + datif = de (provenance) : aus der Hüfte, aus dem Arm.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_03.mp3",
    "satz": {
     "fr": "Im Kung-Fu kommt der Faustschlag aus der Hüfte, nicht aus dem Arm.",
     "de": "En kung-fu, le coup de poing part de la hanche, pas du bras.",
     "luecke": "Faustschlag",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_03.mp3"
    },
    "zeit": null
   },
@@ -3067,12 +3067,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "trainieren",
    "notiz": "die Beweglichkeit = la mobilité, la souplesse (beweglich = mobile, bewegen = bouger) ; aussi : die Gelenkigkeit. mit vierzig = à quarante ans. weg sein = être parti, avoir disparu (familier).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_04.mp3",
    "satz": {
     "fr": "Mit vierzig trainiert man die Beweglichkeit jeden Tag. Sonst ist sie weg.",
     "de": "À quarante ans, la souplesse se travaille tous les jours. Sinon, elle part.",
     "luecke": "Beweglichkeit",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_04.mp3"
    },
    "zeit": null
   },
@@ -3084,21 +3084,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "bewahren",
    "notiz": "die Ruhe = le calme ; bewahren = garder, préserver ; aussi : ruhig bleiben. der Kampf = le combat ; atmen = respirer. Ruhe ! = silence ! (en classe).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_05.mp3",
    "satz": {
     "fr": "Im Kampf wie im Unterricht: die Ruhe bewahren, atmen, warten.",
     "de": "En combat comme en classe : garder son calme, respirer, attendre.",
     "luecke": "die Ruhe bewahren",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe die Ruhe bewahrt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_05_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde die Ruhe bewahren. Hoffentlich.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_05_fp.mp3"
     }
    }
   },
@@ -3110,21 +3110,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "aufwärmen",
    "notiz": "sich aufwärmen = s'échauffer (warm = chaud ; particule séparable : wärme … auf, participe aufgewärmt) ; das Aufwärmen = l'échauffement. der Rücken = le dos. vor dem Training = datif.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_06.mp3",
    "satz": {
     "fr": "Vor dem Training wärme ich mich zehn Minuten auf. Mein Rücken sagt danke.",
     "de": "Avant de m'entraîner, je m'échauffe dix minutes. Mon dos me dit merci.",
     "luecke": "wärme ich mich zehn Minuten auf",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe mich zehn Minuten aufgewärmt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_06_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde mich zehn Minuten aufwärmen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_06_fp.mp3"
     }
    }
   },
@@ -3136,21 +3136,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Muskelkater = les courbatures, littéralement « le matou des muscles » (Kater = matou, et gueule de bois !) – toujours au singulier, sans article. am Tag danach = le lendemain ; überall = partout.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_07.mp3",
    "satz": {
     "fr": "Am Tag danach habe ich überall Muskelkater. Sogar in den Ohren.",
     "de": "Le lendemain, j'ai des courbatures partout. Même dans les oreilles.",
     "luecke": "habe ich überall Muskelkater",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte Muskelkater.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_07_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde Muskelkater haben.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_07_fp.mp3"
     }
    }
   },
@@ -3162,12 +3162,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "fit = en forme (de l'anglais, très courant) ; aussi : in Form sein, topfit. morgens / nachmittags = le matin / l'après-midi (habitude, adverbes en -s, minuscule). Profession sans article : ich bin Lehrer.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_08.mp3",
    "satz": {
     "fr": "Morgens bin ich fit. Nachmittags bin ich Lehrer.",
     "de": "Je suis en forme le matin. L'après-midi, je suis prof.",
     "luecke": "fit",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_08.mp3"
    },
    "zeit": null
   },
@@ -3179,21 +3179,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "die Stellung = la position (aussi militaire) ; der Reiterstand = la position du cavalier (Reiter + Stand) ; halten = tenir (hält, participe gehalten). einfach ≠ leicht : simple ≠ facile – même nuance qu'en français.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_09.mp3",
    "satz": {
     "fr": "Den Reiterstand zwei Minuten halten: einfach. Nicht leicht.",
     "de": "Tenir la position du cavalier pendant deux minutes : simple. Pas facile.",
     "luecke": "halten",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_09.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den Reiterstand zwei Minuten gehalten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_09_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde den Reiterstand zwei Minuten halten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_09_fp.mp3"
     }
    }
   },
@@ -3205,12 +3205,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "beginnen",
    "notiz": "die Atmung = la respiration (atmen = respirer, der Atem = le souffle) ; beginnen mit + datif = commencer par. im Unterricht = en classe (in dem Unterricht).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_10.mp3",
    "satz": {
     "fr": "Im Kung-Fu beginnt alles mit der Atmung. Im Unterricht auch.",
     "de": "En kung-fu, tout commence par la respiration. En classe aussi.",
     "luecke": "Atmung",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_10.mp3"
    },
    "zeit": null
   },
@@ -3222,12 +3222,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sagen",
    "notiz": "der Meister = le maître (arts martiaux, artisanat : der Meisterbrief) – pas le prof d'école (der Lehrer). langsam = lentement, schnell = vite. noch nicht = pas encore ; verstanden = participe de verstehen.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_11.mp3",
    "satz": {
     "fr": "Mein Meister sagt: « Langsam ist schnell. » Ich habe es noch nicht verstanden.",
     "de": "Mon maître dit : « Lentement, c'est vite. » Je n'ai pas encore compris.",
     "luecke": "Meister",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_11.mp3"
    },
    "zeit": null
   },
@@ -3239,12 +3239,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lernen",
    "notiz": "die Form = la forme, l'enchaînement (en kung-fu : die Form, der Ablauf) ; die Bewegung = le mouvement (bewegen = bouger). vier kann ich = j'en sais quatre (können = savoir faire).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_12.mp3",
    "satz": {
     "fr": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kann ich.",
     "de": "J'apprends un nouvel enchaînement. Douze mouvements. J'en connais quatre.",
     "luecke": "Form",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_12.mp3"
    },
    "zeit": null
   },
@@ -3256,21 +3256,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "ausweichen",
    "notiz": "ausweichen = esquiver, éviter (particule séparable, participe ausgewichen avec sein ; + datif : dem Schlag) ; infinitif substantivé : das Ausweichen, das Blocken. funktionieren = marcher, fonctionner.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_13.mp3",
    "satz": {
     "fr": "Ausweichen ist besser als Blocken. Das funktioniert auch in Besprechungen.",
     "de": "Esquiver, c'est mieux que bloquer. Ça marche aussi en réunion.",
     "luecke": "Ausweichen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_13.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich bin dem Schlag ausgewichen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_13_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde dem Schlag ausweichen. Oder nicht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_13_fp.mp3"
     }
    }
   },
@@ -3282,21 +3282,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schwitzen",
    "notiz": "schwitzen = transpirer (der Schweiß = la sueur) ; wie ein Brunnen = comme une fontaine (der Brunnen = le puits, la fontaine). glücklich = heureux. Déclinaison : ein glücklicher Brunnen (masculin nominatif).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_14.mp3",
    "satz": {
     "fr": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "de": "Après l'entraînement, je transpire comme une fontaine. Une fontaine heureuse.",
     "luecke": "schwitze",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe geschwitzt wie ein Brunnen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_14_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde schwitzen wie ein Brunnen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_14_fp.mp3"
     }
    }
   },
@@ -3308,21 +3308,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verletzen",
    "notiz": "sich verletzen = se blesser (die Verletzung = la blessure ; verletzt = blessé) ; nie = jamais. beim Öffnen = en ouvrant (bei + infinitif substantivé) ; die Dose = la boîte de conserve. außer = sauf.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_15.mp3",
    "satz": {
     "fr": "Ich verletze mich nie. Außer beim Öffnen einer Dose Nassfutter.",
     "de": "Je ne me blesse jamais. Sauf en ouvrant une boîte de pâtée.",
     "luecke": "verletze mich nie",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe mich verletzt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_15_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde mich verletzen, ich spüre es.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_15_fp.mp3"
     }
    }
   },
@@ -3334,21 +3334,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "dehnen",
    "notiz": "sich dehnen = s'étirer (dehnen = étirer ; die Dehnung = l'étirement) ; aussi : Dehnübungen machen, Stretching machen. der Fernseher = la télé (appareil) ; zuschauen = regarder (spectateur) ; ratlos = perplexe.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_16.mp3",
    "satz": {
     "fr": "Abends dehne ich mich vor dem Fernseher. Die Katze schaut zu, ratlos.",
     "de": "Je fais des étirements le soir, devant la télé. Le chat me regarde, perplexe.",
     "luecke": "dehne ich mich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe mich gedehnt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_16_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde mich dehnen. Die Katze wird zuschauen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_16_fp.mp3"
     }
    }
   },
@@ -3360,21 +3360,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kommen",
    "notiz": "zu Atem kommen = reprendre son souffle (der Atem = le souffle ; außer Atem = hors d'haleine) ; aussi : verschnaufen. der Satz = la série (sport) – et la phrase ! zwischen + datif : zwischen zwei Sätzen.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_17.mp3",
    "satz": {
     "fr": "Zwischen zwei Sätzen komme ich wieder zu Atem. Lange.",
     "de": "Entre deux séries, je reprends mon souffle. Longtemps.",
     "luecke": "komme ich wieder zu Atem",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich bin wieder zu Atem gekommen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_17_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde wieder zu Atem kommen. Irgendwann.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_17_fp.mp3"
     }
    }
   },
@@ -3386,12 +3386,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Gleichgewicht = l'équilibre (gleich = égal + Gewicht = poids) ; das Gleichgewicht verlieren = perdre l'équilibre. das Bein = la jambe. es kommt auf … an = ça dépend de (ankommen auf + accusatif).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_18.mp3",
    "satz": {
     "fr": "Auf einem Bein habe ich Gleichgewicht. Auf zweien kommt es auf den Tag an.",
     "de": "Sur une jambe, j'ai de l'équilibre. Sur deux, ça dépend du jour.",
     "luecke": "habe ich Gleichgewicht",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_18.mp3"
    },
    "zeit": null
   },
@@ -3403,21 +3403,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "gehen + infinitif = aller faire : laufen gehen, schwimmen gehen, essen gehen (participe : bin … gegangen). laufen = courir (et marcher !) ; joggen est aussi courant. bereuen = regretter.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_19.mp3",
    "satz": {
     "fr": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "de": "Le dimanche matin, je vais courir. Le dimanche soir, je regrette.",
     "luecke": "gehe ich laufen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Sonntag bin ich laufen gegangen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_19_pc.mp3"
     },
     "fp": {
      "fr": "Sonntag werde ich laufen gehen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_19_fp.mp3"
     }
    }
   },
@@ -3429,12 +3429,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "der Gürtel = la ceinture (le ü se prononce comme le « u » français) ; der Sicherheitsgurt = la ceinture de sécurité. Détournement de « Kleider machen Leute » (l'habit fait le moine – à l'envers !). die Hose = le pantalon (singulier).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_20.mp3",
    "satz": {
     "fr": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "de": "La ceinture ne fait pas le maître. Mais elle tient le pantalon.",
     "luecke": "Gürtel",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_20.mp3"
    },
    "zeit": null
   },
@@ -3446,21 +3446,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "der Fortschritt = le progrès (fort + Schritt = pas en avant) ; toujours au pluriel ici : Fortschritte machen. wie mein Meister sagt = comme dit mon maître (verbe à la fin de la subordonnée).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_21.mp3",
    "satz": {
     "fr": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt: Das ist schnell.",
     "de": "Je fais des progrès. Lentement. Comme dit mon maître, c'est vite.",
     "luecke": "mache Fortschritte",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe Fortschritte gemacht.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_21_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde Fortschritte machen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_21_fp.mp3"
     }
    }
   },
@@ -3472,21 +3472,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "hinauswachsen",
    "notiz": "littéralement « grandir au-delà de soi-même » (wachsen = pousser, grandir ; participe hinausgewachsen, avec sein) ; über mich = accusatif. der Liegestütz = la pompe (pluriel die Liegestütze).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_22.mp3",
    "satz": {
     "fr": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "de": "Aujourd'hui, je me suis dépassé : trente pompes. Hier, vingt-neuf.",
     "luecke": "bin ich über mich hinausgewachsen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_22.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern bin ich über mich hinausgewachsen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_22_pc.mp3"
     },
     "fp": {
      "fr": "Morgen werde ich über mich hinauswachsen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/sp_22_fp.mp3"
     }
    }
   },
@@ -3498,12 +3498,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Körper = le corps ; der Geist = l'esprit (et le fantôme !) ; meiner = le mien (pronom possessif, masculin). mit meinem Körper = datif. diskutieren mit = discuter avec.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_23.mp3",
    "satz": {
     "fr": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "de": "Le kung-fu, c'est le corps et l'esprit. Le mien discute souvent avec mon corps.",
     "luecke": "Körper und Geist",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_23.mp3"
    },
    "zeit": null
   },
@@ -3515,12 +3515,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "anmelden",
    "notiz": "sich anmelden für + accusatif = s'inscrire à (particule séparable, à la fin : anmelden ; die Anmeldung = l'inscription) ; question par inversion : kann ich … ? am Dienstagabend = le mardi soir (an dem).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/sp_24.mp3",
    "satz": {
     "fr": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "de": "Bonjour, est-ce que je peux m'inscrire au cours du mardi soir ?",
     "luecke": "kann ich mich für den Kurs am Dienstagabend anmelden",
-    "audio": null
+    "audio": "audio/de-fr/saetze/sp_24.mp3"
    },
    "zeit": null
   }
@@ -4566,6 +4566,56 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/saetze/mu_22_pc.mp3",
   "audio/de-fr/saetze/mu_23.mp3",
   "audio/de-fr/saetze/mu_24.mp3",
+  "audio/de-fr/saetze/sp_01.mp3",
+  "audio/de-fr/saetze/sp_01_fp.mp3",
+  "audio/de-fr/saetze/sp_01_pc.mp3",
+  "audio/de-fr/saetze/sp_02.mp3",
+  "audio/de-fr/saetze/sp_03.mp3",
+  "audio/de-fr/saetze/sp_04.mp3",
+  "audio/de-fr/saetze/sp_05.mp3",
+  "audio/de-fr/saetze/sp_05_fp.mp3",
+  "audio/de-fr/saetze/sp_05_pc.mp3",
+  "audio/de-fr/saetze/sp_06.mp3",
+  "audio/de-fr/saetze/sp_06_fp.mp3",
+  "audio/de-fr/saetze/sp_06_pc.mp3",
+  "audio/de-fr/saetze/sp_07.mp3",
+  "audio/de-fr/saetze/sp_07_fp.mp3",
+  "audio/de-fr/saetze/sp_07_pc.mp3",
+  "audio/de-fr/saetze/sp_08.mp3",
+  "audio/de-fr/saetze/sp_09.mp3",
+  "audio/de-fr/saetze/sp_09_fp.mp3",
+  "audio/de-fr/saetze/sp_09_pc.mp3",
+  "audio/de-fr/saetze/sp_10.mp3",
+  "audio/de-fr/saetze/sp_11.mp3",
+  "audio/de-fr/saetze/sp_12.mp3",
+  "audio/de-fr/saetze/sp_13.mp3",
+  "audio/de-fr/saetze/sp_13_fp.mp3",
+  "audio/de-fr/saetze/sp_13_pc.mp3",
+  "audio/de-fr/saetze/sp_14.mp3",
+  "audio/de-fr/saetze/sp_14_fp.mp3",
+  "audio/de-fr/saetze/sp_14_pc.mp3",
+  "audio/de-fr/saetze/sp_15.mp3",
+  "audio/de-fr/saetze/sp_15_fp.mp3",
+  "audio/de-fr/saetze/sp_15_pc.mp3",
+  "audio/de-fr/saetze/sp_16.mp3",
+  "audio/de-fr/saetze/sp_16_fp.mp3",
+  "audio/de-fr/saetze/sp_16_pc.mp3",
+  "audio/de-fr/saetze/sp_17.mp3",
+  "audio/de-fr/saetze/sp_17_fp.mp3",
+  "audio/de-fr/saetze/sp_17_pc.mp3",
+  "audio/de-fr/saetze/sp_18.mp3",
+  "audio/de-fr/saetze/sp_19.mp3",
+  "audio/de-fr/saetze/sp_19_fp.mp3",
+  "audio/de-fr/saetze/sp_19_pc.mp3",
+  "audio/de-fr/saetze/sp_20.mp3",
+  "audio/de-fr/saetze/sp_21.mp3",
+  "audio/de-fr/saetze/sp_21_fp.mp3",
+  "audio/de-fr/saetze/sp_21_pc.mp3",
+  "audio/de-fr/saetze/sp_22.mp3",
+  "audio/de-fr/saetze/sp_22_fp.mp3",
+  "audio/de-fr/saetze/sp_22_pc.mp3",
+  "audio/de-fr/saetze/sp_23.mp3",
+  "audio/de-fr/saetze/sp_24.mp3",
   "audio/de-fr/saetze/ul_01.mp3",
   "audio/de-fr/saetze/ul_01_fp.mp3",
   "audio/de-fr/saetze/ul_01_pc.mp3",
@@ -4724,6 +4774,30 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/wendungen/mu_22.mp3",
   "audio/de-fr/wendungen/mu_23.mp3",
   "audio/de-fr/wendungen/mu_24.mp3",
+  "audio/de-fr/wendungen/sp_01.mp3",
+  "audio/de-fr/wendungen/sp_02.mp3",
+  "audio/de-fr/wendungen/sp_03.mp3",
+  "audio/de-fr/wendungen/sp_04.mp3",
+  "audio/de-fr/wendungen/sp_05.mp3",
+  "audio/de-fr/wendungen/sp_06.mp3",
+  "audio/de-fr/wendungen/sp_07.mp3",
+  "audio/de-fr/wendungen/sp_08.mp3",
+  "audio/de-fr/wendungen/sp_09.mp3",
+  "audio/de-fr/wendungen/sp_10.mp3",
+  "audio/de-fr/wendungen/sp_11.mp3",
+  "audio/de-fr/wendungen/sp_12.mp3",
+  "audio/de-fr/wendungen/sp_13.mp3",
+  "audio/de-fr/wendungen/sp_14.mp3",
+  "audio/de-fr/wendungen/sp_15.mp3",
+  "audio/de-fr/wendungen/sp_16.mp3",
+  "audio/de-fr/wendungen/sp_17.mp3",
+  "audio/de-fr/wendungen/sp_18.mp3",
+  "audio/de-fr/wendungen/sp_19.mp3",
+  "audio/de-fr/wendungen/sp_20.mp3",
+  "audio/de-fr/wendungen/sp_21.mp3",
+  "audio/de-fr/wendungen/sp_22.mp3",
+  "audio/de-fr/wendungen/sp_23.mp3",
+  "audio/de-fr/wendungen/sp_24.mp3",
   "audio/de-fr/wendungen/ul_01.mp3",
   "audio/de-fr/wendungen/ul_02.mp3",
   "audio/de-fr/wendungen/ul_03.mp3",
