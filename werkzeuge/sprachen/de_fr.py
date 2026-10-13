@@ -24,6 +24,7 @@ THEMEN = [
     {"id": "sport", "name": "Sport und Kung-Fu", "de": "Sport et kung-fu", "symbol": "🥋", "datei": "sport.tsv"},
     {"id": "essen", "name": "Essen und gut leben", "de": "Manger et bien vivre", "symbol": "🥨", "datei": "essen.tsv"},
     {"id": "kinder", "name": "Kinder und Babys", "de": "Enfants et bébés", "symbol": "👶", "datei": "kinder.tsv"},
+    {"id": "falsche_freunde", "name": "Falsche Freunde", "de": "Faux amis français–allemand (bonus)", "symbol": "⚡", "datei": "falsche_freunde.tsv"},
 ]
 
 # Titel – deutsche Leckereien
