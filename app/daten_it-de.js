@@ -411,6 +411,38 @@ window.SPRACHEN["it-de"] = {
     "st_23",
     "st_24"
    ]
+  },
+  {
+   "id": "sport",
+   "name": "Sport e kung fu",
+   "de": "Sport und Kung-Fu",
+   "symbol": "🥋",
+   "wendungen": [
+    "sp_01",
+    "sp_02",
+    "sp_03",
+    "sp_04",
+    "sp_05",
+    "sp_06",
+    "sp_07",
+    "sp_08",
+    "sp_09",
+    "sp_10",
+    "sp_11",
+    "sp_12",
+    "sp_13",
+    "sp_14",
+    "sp_15",
+    "sp_16",
+    "sp_17",
+    "sp_18",
+    "sp_19",
+    "sp_20",
+    "sp_21",
+    "sp_22",
+    "sp_23",
+    "sp_24"
+   ]
   }
  ],
  "wendungen": [
@@ -2955,6 +2987,531 @@ window.SPRACHEN["it-de"] = {
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "mi potrebbe consigliare un libro",
     "audio": "audio/it-de/saetze/st_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_01",
+   "thema": "sport",
+   "fr": "allenarsi",
+   "de": "trainieren",
+   "register": "tu",
+   "anker": "allenarsi",
+   "notiz": "allenarsi = trainieren (reflexiv); allenare = trainieren als Trainer; l'allenamento = Training, l'allenatore = Trainer (auch: il mister beim Fußball). a settimana = pro Woche.",
+   "audio": null,
+   "satz": {
+    "fr": "Mi alleno tre volte a settimana. Due, se sono onesto.",
+    "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
+    "luecke": "Mi alleno",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mi sono allenato tre volte.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mi allenerò tre volte. Forse due.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_02",
+   "thema": "sport",
+   "fr": "un calcio",
+   "de": "ein Tritt",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "il calcio = Tritt und Fußball (und Kalzium!); dare un calcio = treten. prima di tutto = zuallererst.",
+   "audio": null,
+   "satz": {
+    "fr": "Un buon calcio è prima di tutto una buona posizione.",
+    "de": "Ein guter Tritt ist zuerst eine gute Position.",
+    "luecke": "calcio",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_03",
+   "thema": "sport",
+   "fr": "un pugno",
+   "de": "ein Fausthieb",
+   "register": "tu",
+   "anker": "partire",
+   "notiz": "il pugno = Faust und Fausthieb (gn = [ɲ]); il fianco = Hüfte, Seite; il braccio = Arm, Plural le braccia (weiblich!). da + il = dal.",
+   "audio": null,
+   "satz": {
+    "fr": "Nel kung fu il pugno parte dal fianco, non dal braccio.",
+    "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
+    "luecke": "pugno",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_04",
+   "thema": "sport",
+   "fr": "la flessibilità",
+   "de": "die Beweglichkeit",
+   "register": "tu",
+   "anker": "allenarsi",
+   "notiz": "la flessibilità = Beweglichkeit, Flexibilität (flessibile); auch: l'elasticità. se ne va = sie geht weg (andarsene). altrimenti = sonst.",
+   "audio": null,
+   "satz": {
+    "fr": "A quarant'anni la flessibilità si allena ogni giorno. Altrimenti se ne va.",
+    "de": "Mit vierzig trainiert man die Beweglichkeit jeden Tag. Sonst geht sie.",
+    "luecke": "flessibilità",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_05",
+   "thema": "sport",
+   "fr": "mantenere la calma",
+   "de": "ruhig bleiben",
+   "register": "tu",
+   "anker": "mantenere",
+   "notiz": "mantenere = bewahren, aufrechterhalten (tenere = halten); la calma = Ruhe; calma! = ruhig! il combattimento = der Kampf. respirare = atmen.",
+   "audio": null,
+   "satz": {
+    "fr": "In combattimento come in classe: mantenere la calma, respirare, aspettare.",
+    "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, warten.",
+    "luecke": "mantenere la calma",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho mantenuto la calma.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Manterrò la calma. Spero.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_06",
+   "thema": "sport",
+   "fr": "riscaldarsi",
+   "de": "sich aufwärmen",
+   "register": "tu",
+   "anker": "riscaldarsi",
+   "notiz": "riscaldarsi = sich aufwärmen (caldo = warm; il riscaldamento = Aufwärmen und Heizung!). la schiena = Rücken; ringraziare = danken.",
+   "audio": null,
+   "satz": {
+    "fr": "Prima di allenarmi mi riscaldo dieci minuti. La mia schiena ringrazia.",
+    "de": "Bevor ich trainiere, wärme ich mich zehn Minuten auf. Mein Rücken dankt.",
+    "luecke": "mi riscaldo",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mi sono riscaldato dieci minuti.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mi riscalderò dieci minuti.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_07",
+   "thema": "sport",
+   "fr": "avere i muscoli indolenziti",
+   "de": "Muskelkater haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "wörtlich „schmerzende Muskeln haben“ (indolenzito = steif, schmerzend; il dolore = Schmerz); kein eigenes Wort für Muskelkater. dappertutto = überall.",
+   "audio": null,
+   "satz": {
+    "fr": "Il giorno dopo ho i muscoli indolenziti dappertutto. Anche nelle orecchie.",
+    "de": "Am Tag danach habe ich überall Muskelkater. Sogar in den Ohren.",
+    "luecke": "ho i muscoli indolenziti",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Avevo i muscoli indolenziti.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Avrò i muscoli indolenziti.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_08",
+   "thema": "sport",
+   "fr": "essere in forma",
+   "de": "fit sein",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "essere in forma = fit sein; in forma smagliante = topfit; fuori forma = außer Form. la mattina / il pomeriggio = morgens / nachmittags (mit Artikel).",
+   "audio": null,
+   "satz": {
+    "fr": "Sono in forma la mattina. Il pomeriggio sono prof.",
+    "de": "Ich bin morgens fit. Nachmittags bin ich Lehrer.",
+    "luecke": "in forma",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_09",
+   "thema": "sport",
+   "fr": "tenere una posizione",
+   "de": "eine Stellung halten",
+   "register": "tu",
+   "anker": "tenere",
+   "notiz": "tenere = halten (tengo, tieni, Partizip tenuto, Futur terrò); la posizione del cavaliere = Reiterstellung. semplice ≠ facile: einfach ≠ leicht.",
+   "audio": null,
+   "satz": {
+    "fr": "Tenere la posizione del cavaliere per due minuti: semplice. Non facile.",
+    "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
+    "luecke": "Tenere la posizione",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho tenuto la posizione due minuti.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Terrò la posizione due minuti.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_10",
+   "thema": "sport",
+   "fr": "la respirazione",
+   "de": "die Atmung",
+   "register": "tu",
+   "anker": "cominciare",
+   "notiz": "la respirazione (respirare = atmen; il respiro = Atemzug); cominciare con = beginnen mit. anche in classe = auch im Unterricht.",
+   "audio": null,
+   "satz": {
+    "fr": "Nel kung fu tutto comincia con la respirazione. Anche in classe.",
+    "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
+    "luecke": "respirazione",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_11",
+   "thema": "sport",
+   "fr": "il maestro",
+   "de": "der Meister",
+   "register": "tu",
+   "anker": "dire",
+   "notiz": "il maestro = Meister, Lehrmeister, und Grundschullehrer (la maestra); auch Dirigent. non … ancora = noch nicht; capito = Partizip von capire.",
+   "audio": null,
+   "satz": {
+    "fr": "Il mio maestro dice: « Lentamente è veloce. » Non ho ancora capito.",
+    "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
+    "luecke": "maestro",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_12",
+   "thema": "sport",
+   "fr": "una sequenza",
+   "de": "eine Abfolge (Form)",
+   "register": "tu",
+   "anker": "imparare",
+   "notiz": "la sequenza = Abfolge, Sequenz – im Kung-Fu die Form (auch: la forma). ne conosco quattro = ich kenne vier davon (ne = davon). il movimento = Bewegung.",
+   "audio": null,
+   "satz": {
+    "fr": "Imparo una nuova sequenza. Dodici movimenti. Ne conosco quattro.",
+    "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kenne ich.",
+    "luecke": "sequenza",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_13",
+   "thema": "sport",
+   "fr": "schivare",
+   "de": "ausweichen",
+   "register": "tu",
+   "anker": "schivare",
+   "notiz": "schivare = ausweichen (sch vor i = [ski]: [skivare]); una schivata = Ausweichbewegung; bloccare = blocken; funzionare = funktionieren.",
+   "audio": null,
+   "satz": {
+    "fr": "Schivare è meglio che bloccare. Funziona anche in riunione.",
+    "de": "Ausweichen ist besser als blocken. Das klappt auch in der Sitzung.",
+    "luecke": "Schivare",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho schivato il colpo.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Schiverò il colpo. O no.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_14",
+   "thema": "sport",
+   "fr": "sudare",
+   "de": "schwitzen",
+   "register": "tu",
+   "anker": "sudare",
+   "notiz": "sudare = schwitzen (il sudore = Schweiß); sudato = verschwitzt. sudare sette camicie = sich abrackern (sieben Hemden durchschwitzen).",
+   "audio": null,
+   "satz": {
+    "fr": "Dopo l'allenamento sudo come una fontana. Una fontana felice.",
+    "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
+    "luecke": "sudo",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho sudato come una fontana.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Suderò come una fontana.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_15",
+   "thema": "sport",
+   "fr": "farsi male",
+   "de": "sich verletzen",
+   "register": "tu",
+   "anker": "farsi",
+   "notiz": "farsi male = sich wehtun, sich verletzen (auch: ferirsi = ernst); mi sono fatto male al ginocchio. tranne = außer; aprendo = Gerundio (beim Öffnen); la scatoletta = Dose.",
+   "audio": null,
+   "satz": {
+    "fr": "Non mi faccio mai male. Tranne aprendo una scatoletta di umido.",
+    "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Nassfutter.",
+    "luecke": "mi faccio mai male",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mi sono fatto male.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mi farò male, lo sento.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_16",
+   "thema": "sport",
+   "fr": "fare stretching",
+   "de": "sich dehnen",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "fare stretching = Anglizismus, ganz normal; auch: fare allungamento, stirarsi = sich strecken. la tivù = TV (so geschrieben!); perplesso = ratlos.",
+   "audio": null,
+   "satz": {
+    "fr": "Faccio stretching la sera, davanti alla tivù. Il gatto mi guarda, perplesso.",
+    "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut mich an, ratlos.",
+    "luecke": "Faccio stretching",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho fatto stretching.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Farò stretching. Il gatto guarderà.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_17",
+   "thema": "sport",
+   "fr": "riprendere fiato",
+   "de": "wieder zu Atem kommen",
+   "register": "tu",
+   "anker": "riprendere",
+   "notiz": "il fiato = Atem (senza fiato = außer Atem); riprendere fiato ohne Artikel. a lungo = lange. la serie = Serie (unveränderlich im Plural).",
+   "audio": null,
+   "satz": {
+    "fr": "Tra due serie riprendo fiato. A lungo.",
+    "de": "Zwischen zwei Serien komme ich wieder zu Atem. Lange.",
+    "luecke": "riprendo fiato",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho ripreso fiato.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Riprenderò fiato. A lungo.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_18",
+   "thema": "sport",
+   "fr": "avere equilibrio",
+   "de": "Gleichgewicht haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "l'equilibrio = Gleichgewicht; avere equilibrio ohne Artikel; perdere l'equilibrio. la gamba = Bein (nicht „Garnele“ wie sp. gamba!). dipendere da = abhängen von.",
+   "audio": null,
+   "satz": {
+    "fr": "Su una gamba ho equilibrio. Su due, dipende dal giorno.",
+    "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
+    "luecke": "ho equilibrio",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_19",
+   "thema": "sport",
+   "fr": "andare a correre",
+   "de": "laufen gehen",
+   "register": "tu",
+   "anker": "andare",
+   "notiz": "andare a + Infinitiv = gehen, um zu: andare a correre, a nuotare, a mangiare. pentirsi di = bereuen (me ne pento = ich bereue es). la domenica = sonntags.",
+   "audio": null,
+   "satz": {
+    "fr": "La domenica mattina vado a correre. La domenica sera me ne pento.",
+    "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
+    "luecke": "vado a correre",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Domenica sono andato a correre.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Domenica andrò a correre.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_20",
+   "thema": "sport",
+   "fr": "la cintura",
+   "de": "der Gürtel",
+   "register": "tu",
+   "anker": "tenere",
+   "notiz": "la cintura = Gürtel (auch Sicherheitsgurt: la cintura di sicurezza); Umbau von « l'abito non fa il monaco » (die Kutte macht nicht den Mönch). tenere su = hochhalten.",
+   "audio": null,
+   "satz": {
+    "fr": "La cintura non fa il maestro. Ma tiene su i pantaloni.",
+    "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
+    "luecke": "cintura",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_21",
+   "thema": "sport",
+   "fr": "fare progressi",
+   "de": "Fortschritte machen",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "fare progressi (Plural); il progresso = Fortschritt. lentamente = langsam; piano = langsam, leise (piano piano = ganz langsam).",
+   "audio": null,
+   "satz": {
+    "fr": "Faccio progressi. Lentamente. Come dice il mio maestro, è veloce.",
+    "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt, ist das schnell.",
+    "luecke": "Faccio progressi",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho fatto progressi.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Farò progressi.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_22",
+   "thema": "sport",
+   "fr": "superarsi",
+   "de": "über sich hinauswachsen",
+   "register": "tu",
+   "anker": "superarsi",
+   "notiz": "superare = überholen, übertreffen, bestehen (superare un esame); superarsi = sich selbst übertreffen. le flessioni = Liegestütze (auch: i piegamenti).",
+   "audio": null,
+   "satz": {
+    "fr": "Oggi mi sono superato: trenta flessioni. Ieri, ventinove.",
+    "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
+    "luecke": "mi sono superato",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ieri mi sono superato.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Domani mi supererò.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "sp_23",
+   "thema": "sport",
+   "fr": "corpo e mente",
+   "de": "Körper und Geist",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "il corpo = Körper; la mente = Geist, Verstand (weiblich – deshalb la mia); mente sana in corpo sano. discutere con = diskutieren mit.",
+   "audio": null,
+   "satz": {
+    "fr": "Il kung fu è corpo e mente. La mia discute spesso con il mio corpo.",
+    "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
+    "luecke": "corpo e mente",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "sp_24",
+   "thema": "sport",
+   "fr": "Posso iscrivermi?",
+   "de": "Kann ich mich anmelden? (höflich)",
+   "register": "vous",
+   "anker": "iscriversi",
+   "notiz": "iscriversi a = sich anmelden für, einschreiben (l'iscrizione); iscrivermi = iscrivere + mi. il martedì sera = dienstagabends. Höflich durch Kontext (buongiorno), posso = ich kann.",
+   "audio": null,
+   "satz": {
+    "fr": "Buongiorno, posso iscrivermi al corso del martedì sera?",
+    "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
+    "luecke": "posso iscrivermi",
+    "audio": null
    },
    "zeit": null
   }
