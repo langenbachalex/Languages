@@ -4669,12 +4669,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "caldo = warm, heiß (fa caldo = es ist heiß); kalt = freddo. Die bekannteste Falle für Deutsche, am Wasserhahn: C = caldo!",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_01.mp3",
    "satz": {
     "fr": "Il caffè è caldo. Caldo, non freddo. Il tedesco inganna.",
     "de": "Der Kaffee ist heiß. Heiß, nicht kalt. Das Deutsche täuscht.",
     "luecke": "caldo",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_01.mp3"
    },
    "zeit": null
   },
@@ -4686,12 +4686,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "la camera = Zimmer, Schlafzimmer (camera da letto, camera d'albergo); Kamera = la macchina fotografica (Foto) oder la telecamera (Film).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_02.mp3",
    "satz": {
     "fr": "Ho una camera con vista. La macchina fotografica è nella camera.",
     "de": "Ich habe ein Zimmer mit Aussicht. Die Kamera ist im Zimmer.",
     "luecke": "camera",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_02.mp3"
    },
    "zeit": null
   },
@@ -4703,12 +4703,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "servire",
    "notiz": "la firma = Unterschrift (firmare = unterschreiben); Firma = l'azienda, la ditta, l'impresa. mi serve = ich brauche (servire wie piacere).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_03.mp3",
    "satz": {
     "fr": "Mi serve la sua firma. Non la sua azienda. Solo la firma.",
     "de": "Ich brauche Ihre Unterschrift. Nicht Ihre Firma. Nur die Unterschrift.",
     "luecke": "firma",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_03.mp3"
    },
    "zeit": null
   },
@@ -4720,12 +4720,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "i confetti = Zuckermandeln (Hochzeit, Taufe: fünf pro Gast); Konfetti = i coriandoli. il matrimonio = Hochzeit (und Ehe).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_04.mp3",
    "satz": {
     "fr": "Al matrimonio ci sono i confetti. Bianchi, di mandorla. I coriandoli sono di carta.",
     "de": "Bei der Hochzeit gibt es Zuckermandeln. Weiß, mit Mandel. Das Konfetti ist aus Papier.",
     "luecke": "confetti",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_04.mp3"
    },
    "zeit": null
   },
@@ -4737,12 +4737,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "la cantina = Keller, Weinkeller, Weingut; Kantine = la mensa. il piano terra = Erdgeschoss. non confonderle = verwechsle sie nicht (verneinter Imperativ + le).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_05.mp3",
    "satz": {
     "fr": "Il vino è in cantina. La mensa è al piano terra. Non confonderle.",
     "de": "Der Wein ist im Keller. Die Kantine ist im Erdgeschoss. Nicht verwechseln.",
     "luecke": "cantina",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_05.mp3"
    },
    "zeit": null
   },
@@ -4754,12 +4754,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "vivere",
    "notiz": "la fattoria = Bauernhof (il fattore = Verwalter); engl. factory = la fabbrica. la gallina = Henne. Nella vecchia fattoria, ia-ia-o.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_06.mp3",
    "satz": {
     "fr": "Vivo in una fattoria. Con galline. Non in una fabbrica.",
     "de": "Ich lebe auf einem Bauernhof. Mit Hühnern. Nicht in einer Fabrik.",
     "luecke": "fattoria",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_06.mp3"
    },
    "zeit": null
   },
@@ -4771,12 +4771,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "educato = höflich, wohlerzogen (l'educazione = Erziehung, Manieren); engl. educated = istruito, colto. maleducato = unhöflich, ungezogen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_07.mp3",
    "satz": {
     "fr": "Il mio gatto è educato. Non è istruito. Educato.",
     "de": "Meine Katze ist wohlerzogen. Nicht gebildet. Wohlerzogen.",
     "luecke": "educato",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_07.mp3"
    },
    "zeit": null
   },
@@ -4788,12 +4788,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "venire",
    "notiz": "eventualmente = gegebenenfalls, eventuell; engl. eventually = alla fine, infine. Wie frz. éventuellement und sp. eventualmente.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_08.mp3",
    "satz": {
     "fr": "Eventualmente verrò. Alla fine sono venuto. Non è la stessa cosa.",
     "de": "Möglicherweise komme ich. Schließlich bin ich gekommen. Das ist nicht dasselbe.",
     "luecke": "Eventualmente",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_08.mp3"
    },
    "zeit": null
   },
@@ -4805,12 +4805,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "correggere",
    "notiz": "attualmente = zurzeit (attuale = gegenwärtig); engl. actually = in realtà, veramente. Dieselbe Falle wie actuellement / actualmente.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_09.mp3",
    "satz": {
     "fr": "Attualmente correggo compiti. In realtà guardo il gatto.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Attualmente",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_09.mp3"
    },
    "zeit": null
   },
@@ -4822,12 +4822,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "comprare",
    "notiz": "la libreria = Buchhandlung und Bücherregal; engl. library = la biblioteca. prendere in prestito = ausleihen; restituire = zurückgeben.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_10.mp3",
    "satz": {
     "fr": "In libreria si compra. In biblioteca si prende in prestito. E si restituisce. In teoria.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "libreria",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_10.mp3"
    },
    "zeit": null
   },
@@ -4839,21 +4839,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "assistere",
    "notiz": "assistere a = beiwohnen; assistere qualcuno (ohne a) = jemandem beistehen, pflegen; engl. to assist = aiutare. lì = dort.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_11.mp3",
    "satz": {
     "fr": "Assisto a una riunione. Non aiuto nessuno. Sono solo lì.",
     "de": "Ich wohne einer Sitzung bei. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "Assisto a",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho assistito a una riunione di tre ore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/fa_11_pc.mp3"
     },
     "fp": {
      "fr": "Assisterò a una riunione. Di nuovo.",
-     "audio": null
+     "audio": "audio/it-de/saetze/fa_11_fp.mp3"
     }
    }
   },
@@ -4865,21 +4865,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "pretendere",
    "notiz": "pretendere = verlangen, erwarten, beanspruchen (pretende troppo = er verlangt zu viel); engl. to pretend = fare finta (di). Dreifach anders: frz. prétendre = behaupten, sp. pretender = vorhaben.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_12.mp3",
    "satz": {
     "fr": "Pretende di passare senza studiare. E fa finta di studiare.",
     "de": "Er beansprucht, ohne Lernen zu bestehen. Und tut so, als lerne er.",
     "luecke": "Pretende",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Pretendeva di passare senza studiare.",
-     "audio": null
+     "audio": "audio/it-de/saetze/fa_12_pc.mp3"
     },
     "fp": {
      "fr": "Pretenderà di passare senza studiare.",
-     "audio": null
+     "audio": "audio/it-de/saetze/fa_12_fp.mp3"
     }
    }
   },
@@ -4891,12 +4891,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "sensibile = empfindlich, feinfühlig; engl. sensible = ragionevole, sensato. Betonung: sen-SI-bile. Wie frz. sensible, sp. sensible.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_13.mp3",
    "satz": {
     "fr": "Il mio gatto è molto sensibile. Non ragionevole. Sensibile.",
     "de": "Meine Katze ist sehr empfindsam. Nicht vernünftig. Empfindsam.",
     "luecke": "sensibile",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_13.mp3"
    },
    "zeit": null
   },
@@ -4908,12 +4908,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "morbido = weich, zart (von lat. morbidus = krank, weich); engl. morbid = morboso. niente di + Adjektiv = nichts … (niente di nuovo).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_14.mp3",
    "satz": {
     "fr": "Il divano è morbido. Il gatto anche. Niente di morboso.",
     "de": "Das Sofa ist weich. Die Katze auch. Nichts Krankhaftes.",
     "luecke": "morbido",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_14.mp3"
    },
    "zeit": null
   },
@@ -4925,12 +4925,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "venire",
    "notiz": "i parenti = Verwandte (il parente = der Verwandte); engl. parents = i genitori. Wie frz. parents (beides!). a Natale = zu Weihnachten.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_15.mp3",
    "satz": {
     "fr": "A Natale vengono i parenti. Tutti. I genitori sono solo due.",
     "de": "Zu Weihnachten kommen die Verwandten. Alle. Eltern sind nur zwei.",
     "luecke": "parenti",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_15.mp3"
    },
    "zeit": null
   },
@@ -4942,12 +4942,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dire",
    "notiz": "il preservativo = Kondom; engl. preservative = il conservante. Dieselbe Falle wie frz. préservatif, sp. preservativo. la marmellata = Marmelade.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_16.mp3",
    "satz": {
     "fr": "« Senza preservativi » su una marmellata? No. Si dice « senza conservanti ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "preservativi",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_16.mp3"
    },
    "zeit": null
   },
@@ -4959,12 +4959,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "il rumore = Lärm, Geräusch (rumoroso = laut); engl. rumour = la voce, la diceria (voci di corridoio = Flurfunk). e basta = und fertig, mehr nicht.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_17.mp3",
    "satz": {
     "fr": "In classe c'è rumore. Non voci di corridoio. Rumore e basta.",
     "de": "In der Klasse ist Lärm. Keine Gerüchte. Nur Lärm.",
     "luecke": "rumore",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_17.mp3"
    },
    "zeit": null
   },
@@ -4976,12 +4976,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "la stanza = Zimmer, Raum (wie la camera); engl. stanza (Strophe) = la strofa. la parete = Wand (innen), il muro = Mauer. la poesia = Gedicht.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_18.mp3",
    "satz": {
     "fr": "Una stanza tutta per me. Con una poesia alla parete. Di tre strofe.",
     "de": "Ein Zimmer ganz für mich. Mit einem Gedicht an der Wand. Mit drei Strophen.",
     "luecke": "stanza",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_18.mp3"
    },
    "zeit": null
   },
@@ -4993,12 +4993,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "il casino = Durcheinander, Chaos (umgangssprachlich; ursprünglich Bordell – nicht am Schalter sagen!); Spielcasino = il casinò (Betonung hinten!). un casino di = jede Menge.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_19.mp3",
    "satz": {
     "fr": "In sala professori c'è un casino. Non si gioca. È solo disordine.",
     "de": "Im Lehrerzimmer ist ein Chaos. Es wird nicht gespielt. Es ist nur Unordnung.",
     "luecke": "casino",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_19.mp3"
    },
    "zeit": null
   },
@@ -5010,12 +5010,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "chiedere",
    "notiz": "il burro = Butter; sp. burro = Esel (ital. l'asino). pasta al burro = Nudeln mit Butter. chiedere = bitten um, fragen. Diego kennt Giovanni jetzt.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_20.mp3",
    "satz": {
     "fr": "Chiedo il burro a Siviglia e Diego ride. In Spagna « burro » è un asino.",
     "de": "Ich verlange in Sevilla Butter, und Diego lacht. In Spanien ist „burro“ ein Esel.",
     "luecke": "burro",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_20.mp3"
    },
    "zeit": null
   },
@@ -5027,21 +5027,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "salire",
    "notiz": "salire = hinaufgehen, einsteigen (salgo, sali; mit essere); frz. salir = sporcare, sp. salir = uscire (hinausgehen). Dreifachfalle. scendere = aussteigen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_21.mp3",
    "satz": {
     "fr": "Salgo sul treno. Non lo sporco. In francese « salir » è sporcare.",
     "de": "Ich steige in den Zug ein. Ich mache ihn nicht schmutzig. Auf Französisch heißt „salir“ beschmutzen.",
     "luecke": "Salgo",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Sono salito sul treno.",
-     "audio": null
+     "audio": "audio/it-de/saetze/fa_21_pc.mp3"
     },
     "fp": {
      "fr": "Salirò sul treno.",
-     "audio": null
+     "audio": "audio/it-de/saetze/fa_21_fp.mp3"
     }
    }
   },
@@ -5053,12 +5053,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "largo = breit (wie frz. large); lang = lungo; groß = grande. sp. largo = lang! Also: ital. largo = sp. ancho, sp. largo = ital. lungo.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_22.mp3",
    "satz": {
     "fr": "Una strada larga. Non lunga. Larga. Lo spagnolo dice il contrario.",
     "de": "Eine breite Straße. Nicht lang. Breit. Das Spanische sagt das Gegenteil.",
     "luecke": "larga",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_22.mp3"
    },
    "zeit": null
   },
@@ -5070,12 +5070,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "la gamba = Bein; sp. gamba = Garnele = ital. il gambero / il gamberetto. mi fa male = tut mir weh. in gamba = tüchtig, fit (essere in gamba).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_23.mp3",
    "satz": {
     "fr": "Mi fa male la gamba. In Spagna mi porterebbero un gamberetto.",
     "de": "Mein Bein tut weh. In Spanien würde man mir eine Garnele bringen.",
     "luecke": "gamba",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_23.mp3"
    },
    "zeit": null
   },
@@ -5087,12 +5087,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "cercare",
    "notiz": "scusi = Lei-Form von scusare (unter Freunden: scusa); cercare = suchen (ohne Präposition: cerco la biblioteca). gratis = kostenlos (auch: gratuito).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/fa_24.mp3",
    "satz": {
     "fr": "Scusi, cerco la biblioteca. – La libreria? – No, la biblioteca. Quella con i libri gratis.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
     "luecke": "cerco la biblioteca",
-    "audio": null
+    "audio": "audio/it-de/saetze/fa_24.mp3"
    },
    "zeit": null
   }
@@ -6014,6 +6014,36 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/saetze/ba_22.mp3",
   "audio/it-de/saetze/ba_23.mp3",
   "audio/it-de/saetze/ba_24.mp3",
+  "audio/it-de/saetze/fa_01.mp3",
+  "audio/it-de/saetze/fa_02.mp3",
+  "audio/it-de/saetze/fa_03.mp3",
+  "audio/it-de/saetze/fa_04.mp3",
+  "audio/it-de/saetze/fa_05.mp3",
+  "audio/it-de/saetze/fa_06.mp3",
+  "audio/it-de/saetze/fa_07.mp3",
+  "audio/it-de/saetze/fa_08.mp3",
+  "audio/it-de/saetze/fa_09.mp3",
+  "audio/it-de/saetze/fa_10.mp3",
+  "audio/it-de/saetze/fa_11.mp3",
+  "audio/it-de/saetze/fa_11_fp.mp3",
+  "audio/it-de/saetze/fa_11_pc.mp3",
+  "audio/it-de/saetze/fa_12.mp3",
+  "audio/it-de/saetze/fa_12_fp.mp3",
+  "audio/it-de/saetze/fa_12_pc.mp3",
+  "audio/it-de/saetze/fa_13.mp3",
+  "audio/it-de/saetze/fa_14.mp3",
+  "audio/it-de/saetze/fa_15.mp3",
+  "audio/it-de/saetze/fa_16.mp3",
+  "audio/it-de/saetze/fa_17.mp3",
+  "audio/it-de/saetze/fa_18.mp3",
+  "audio/it-de/saetze/fa_19.mp3",
+  "audio/it-de/saetze/fa_20.mp3",
+  "audio/it-de/saetze/fa_21.mp3",
+  "audio/it-de/saetze/fa_21_fp.mp3",
+  "audio/it-de/saetze/fa_21_pc.mp3",
+  "audio/it-de/saetze/fa_22.mp3",
+  "audio/it-de/saetze/fa_23.mp3",
+  "audio/it-de/saetze/fa_24.mp3",
   "audio/it-de/saetze/ga_01.mp3",
   "audio/it-de/saetze/ga_01_fp.mp3",
   "audio/it-de/saetze/ga_01_pc.mp3",
@@ -6380,6 +6410,30 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/wendungen/ba_22.mp3",
   "audio/it-de/wendungen/ba_23.mp3",
   "audio/it-de/wendungen/ba_24.mp3",
+  "audio/it-de/wendungen/fa_01.mp3",
+  "audio/it-de/wendungen/fa_02.mp3",
+  "audio/it-de/wendungen/fa_03.mp3",
+  "audio/it-de/wendungen/fa_04.mp3",
+  "audio/it-de/wendungen/fa_05.mp3",
+  "audio/it-de/wendungen/fa_06.mp3",
+  "audio/it-de/wendungen/fa_07.mp3",
+  "audio/it-de/wendungen/fa_08.mp3",
+  "audio/it-de/wendungen/fa_09.mp3",
+  "audio/it-de/wendungen/fa_10.mp3",
+  "audio/it-de/wendungen/fa_11.mp3",
+  "audio/it-de/wendungen/fa_12.mp3",
+  "audio/it-de/wendungen/fa_13.mp3",
+  "audio/it-de/wendungen/fa_14.mp3",
+  "audio/it-de/wendungen/fa_15.mp3",
+  "audio/it-de/wendungen/fa_16.mp3",
+  "audio/it-de/wendungen/fa_17.mp3",
+  "audio/it-de/wendungen/fa_18.mp3",
+  "audio/it-de/wendungen/fa_19.mp3",
+  "audio/it-de/wendungen/fa_20.mp3",
+  "audio/it-de/wendungen/fa_21.mp3",
+  "audio/it-de/wendungen/fa_22.mp3",
+  "audio/it-de/wendungen/fa_23.mp3",
+  "audio/it-de/wendungen/fa_24.mp3",
   "audio/it-de/wendungen/ga_01.mp3",
   "audio/it-de/wendungen/ga_02.mp3",
   "audio/it-de/wendungen/ga_03.mp3",
