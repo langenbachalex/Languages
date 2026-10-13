@@ -507,6 +507,38 @@ window.SPRACHEN["es-de"] = {
     "ni_23",
     "ni_24"
    ]
+  },
+  {
+   "id": "falsos_amigos",
+   "name": "Falsos amigos",
+   "de": "Falsche Freunde Englisch/Französisch–Spanisch (Bonus)",
+   "symbol": "⚡",
+   "wendungen": [
+    "fa_01",
+    "fa_02",
+    "fa_03",
+    "fa_04",
+    "fa_05",
+    "fa_06",
+    "fa_07",
+    "fa_08",
+    "fa_09",
+    "fa_10",
+    "fa_11",
+    "fa_12",
+    "fa_13",
+    "fa_14",
+    "fa_15",
+    "fa_16",
+    "fa_17",
+    "fa_18",
+    "fa_19",
+    "fa_20",
+    "fa_21",
+    "fa_22",
+    "fa_23",
+    "fa_24"
+   ]
   }
  ],
  "wendungen": [
@@ -4635,6 +4667,468 @@ window.SPRACHEN["es-de"] = {
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Qué edad tiene su hijo",
     "audio": "audio/es-de/saetze/ni_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_01",
+   "thema": "falsos_amigos",
+   "fr": "estar constipado",
+   "de": "erkältet sein (≠ engl. constipated)",
+   "register": "tu",
+   "anker": "estar",
+   "notiz": "engl. constipated = estreñido (verstopft). Der berühmteste Fehler englischsprachiger Lernender in der Apotheke.",
+   "audio": null,
+   "satz": {
+    "fr": "Estoy constipado. Resfriado, no lo otro. Lo otro se dice « estreñido ».",
+    "de": "Ich bin erkältet. Schnupfen, nicht das andere. Das andere heißt „estreñido“.",
+    "luecke": "constipado",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_02",
+   "thema": "falsos_amigos",
+   "fr": "embarazada",
+   "de": "schwanger (≠ engl. embarrassed)",
+   "register": "tu",
+   "anker": "estar",
+   "notiz": "engl. embarrassed = avergonzado; me da vergüenza = es ist mir peinlich. Mit estar (Zustand).",
+   "audio": null,
+   "satz": {
+    "fr": "Mi compañera está embarazada. Y no, no le da vergüenza.",
+    "de": "Meine Kollegin ist schwanger. Und nein, es ist ihr nicht peinlich.",
+    "luecke": "embarazada",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_03",
+   "thema": "falsos_amigos",
+   "fr": "actualmente",
+   "de": "zurzeit (≠ engl. actually, frz. actuellement = gleich)",
+   "register": "tu",
+   "anker": "corregir",
+   "notiz": "engl. actually = en realidad. Französisch hat denselben falschen Freund: actuellement = zurzeit.",
+   "audio": null,
+   "satz": {
+    "fr": "Actualmente corrijo exámenes. En realidad, miro al gato.",
+    "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
+    "luecke": "Actualmente",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_04",
+   "thema": "falsos_amigos",
+   "fr": "la librería",
+   "de": "die Buchhandlung (≠ engl. library)",
+   "register": "tu",
+   "anker": "comprar",
+   "notiz": "engl. library = la biblioteca. Französisch gleich: librairie = Buchhandlung. tomar prestado = ausleihen.",
+   "audio": null,
+   "satz": {
+    "fr": "En la librería se compra. En la biblioteca se toma prestado. Y se devuelve. En teoría.",
+    "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
+    "luecke": "librería",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_05",
+   "thema": "falsos_amigos",
+   "fr": "asistir a",
+   "de": "beiwohnen, teilnehmen an (≠ engl. to assist)",
+   "register": "tu",
+   "anker": "asistir",
+   "notiz": "engl. to assist = ayudar. Wie frz. assister à. Immer mit a.",
+   "audio": null,
+   "satz": {
+    "fr": "Asisto a una reunión. No ayudo a nadie. Solo estoy.",
+    "de": "Ich nehme an einer Konferenz teil. Ich helfe niemandem. Ich bin nur da.",
+    "luecke": "Asisto a",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Asistí a una reunión de tres horas.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a asistir a una reunión. Otra vez.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "fa_06",
+   "thema": "falsos_amigos",
+   "fr": "atender",
+   "de": "sich kümmern um, bedienen (≠ engl. to attend)",
+   "register": "tu",
+   "anker": "atender",
+   "notiz": "engl. to attend = asistir a. atender al cliente = den Kunden bedienen; atender en clase = aufpassen; e → ie: atiendo.",
+   "audio": null,
+   "satz": {
+    "fr": "En la tienda me atienden bien. No asisten a nada, me atienden.",
+    "de": "Im Laden bedient man mich gut. Sie nehmen an nichts teil, sie bedienen mich.",
+    "luecke": "me atienden",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Me atendieron bien en la tienda.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Me van a atender bien, seguro.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "fa_07",
+   "thema": "falsos_amigos",
+   "fr": "pretender",
+   "de": "beabsichtigen, vorhaben (≠ engl. to pretend)",
+   "register": "tu",
+   "anker": "pretender",
+   "notiz": "engl. to pretend = fingir (so tun als ob). Wie frz. prétendre (behaupten). aprobar = (eine Prüfung) bestehen.",
+   "audio": null,
+   "satz": {
+    "fr": "Pretende aprobar sin estudiar. Y finge que estudia.",
+    "de": "Er hat vor, ohne Lernen zu bestehen. Und tut so, als lerne er.",
+    "luecke": "Pretende",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Pretendió aprobar sin estudiar.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Va a pretender aprobar sin estudiar.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "fa_08",
+   "thema": "falsos_amigos",
+   "fr": "sensible",
+   "de": "empfindsam, sensibel (≠ engl. sensible)",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "engl. sensible = sensato (vernünftig). Wie frz. sensible. Betonung: sen-SI-ble.",
+   "audio": null,
+   "satz": {
+    "fr": "Mi gato es muy sensible. No sensato. Sensible.",
+    "de": "Meine Katze ist sehr empfindsam. Nicht vernünftig. Empfindsam.",
+    "luecke": "sensible",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_09",
+   "thema": "falsos_amigos",
+   "fr": "eventualmente",
+   "de": "möglicherweise, gelegentlich (≠ engl. eventually)",
+   "register": "tu",
+   "anker": "ir",
+   "notiz": "engl. eventually = finalmente, al final. Wie frz. éventuellement.",
+   "audio": null,
+   "satz": {
+    "fr": "Eventualmente iré. Finalmente fui. No es lo mismo.",
+    "de": "Möglicherweise gehe ich hin. Schließlich bin ich hingegangen. Das ist nicht dasselbe.",
+    "luecke": "Eventualmente",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_10",
+   "thema": "falsos_amigos",
+   "fr": "la carpeta",
+   "de": "die Mappe, der Ordner (≠ engl. carpet)",
+   "register": "tu",
+   "anker": "tener",
+   "notiz": "engl. carpet = la alfombra. Auch der Computer-Ordner heißt carpeta.",
+   "audio": null,
+   "satz": {
+    "fr": "Tengo una carpeta por clase. En el suelo, una alfombra.",
+    "de": "Ich habe eine Mappe pro Klasse. Auf dem Boden einen Teppich.",
+    "luecke": "carpeta",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_11",
+   "thema": "falsos_amigos",
+   "fr": "el éxito",
+   "de": "der Erfolg (≠ engl. exit)",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "engl. exit = la salida. tener éxito = Erfolg haben; exitoso = erfolgreich.",
+   "audio": null,
+   "satz": {
+    "fr": "El examen fue un éxito. La salida está al fondo, a la derecha.",
+    "de": "Die Arbeit war ein Erfolg. Der Ausgang ist hinten rechts.",
+    "luecke": "éxito",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_12",
+   "thema": "falsos_amigos",
+   "fr": "la ropa",
+   "de": "die Kleidung (≠ engl. rope)",
+   "register": "tu",
+   "anker": "dejar",
+   "notiz": "engl. rope = la cuerda. la ropa ist Einzahl (Kleidung); el chándal = Trainingsanzug (Spanien).",
+   "audio": null,
+   "satz": {
+    "fr": "Mi ropa de domingo: un chándal. La cuerda la dejo para el kung-fu.",
+    "de": "Meine Sonntagskleidung: eine Jogginghose. Das Seil lasse ich für Kung-Fu.",
+    "luecke": "ropa",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_13",
+   "thema": "falsos_amigos",
+   "fr": "largo",
+   "de": "lang (≠ engl. large, frz. large = breit)",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "engl. large = grande; frz. large = ancho (breit). Dreifache Falle: largo = lang, ancho = breit, grande = groß.",
+   "audio": null,
+   "satz": {
+    "fr": "Un día largo. No ancho. Largo.",
+    "de": "Ein langer Tag. Nicht breit. Lang.",
+    "luecke": "largo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_14",
+   "thema": "falsos_amigos",
+   "fr": "el pie",
+   "de": "der Fuß (≠ engl. pie)",
+   "register": "tu",
+   "anker": "doler",
+   "notiz": "engl. pie = la tarta, el pastel. me duele = mir tut weh (doler wie gustar). a pie = zu Fuß.",
+   "audio": null,
+   "satz": {
+    "fr": "Me duele el pie. No, no quiero tarta. Bueno, un poco.",
+    "de": "Mein Fuß tut weh. Nein, ich will keinen Kuchen. Na ja, ein bisschen.",
+    "luecke": "pie",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_15",
+   "thema": "falsos_amigos",
+   "fr": "la sopa",
+   "de": "die Suppe (≠ engl. soap)",
+   "register": "tu",
+   "anker": "estar",
+   "notiz": "engl. soap = el jabón. de primero = als erster Gang.",
+   "audio": null,
+   "satz": {
+    "fr": "De primero, sopa. El jabón está en el baño. Mejor no confundirlos.",
+    "de": "Als Vorspeise Suppe. Die Seife ist im Bad. Besser, man verwechselt sie nicht.",
+    "luecke": "sopa",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_16",
+   "thema": "falsos_amigos",
+   "fr": "el campo",
+   "de": "das Land, das Feld (≠ engl. camp)",
+   "register": "tu",
+   "anker": "salir",
+   "notiz": "engl. camp = el campamento; acampar = zelten. el campo = auch Spielfeld (campo de fútbol).",
+   "audio": null,
+   "satz": {
+    "fr": "Los domingos salimos al campo. No acampamos. Paseamos.",
+    "de": "Sonntags fahren wir aufs Land. Wir zelten nicht. Wir spazieren.",
+    "luecke": "campo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_17",
+   "thema": "falsos_amigos",
+   "fr": "realizar",
+   "de": "durchführen, verwirklichen (≠ engl. to realize)",
+   "register": "tu",
+   "anker": "realizar",
+   "notiz": "engl. to realize (merken) = darse cuenta de. Wie frz. réaliser. z → c vor é: realicé.",
+   "audio": null,
+   "satz": {
+    "fr": "Realicé el examen. Luego me di cuenta de que era el equivocado.",
+    "de": "Ich führte die Prüfung durch. Dann merkte ich, dass es die falsche war.",
+    "luecke": "Realicé",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Realicé el examen el lunes.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a realizar el examen el lunes.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "fa_18",
+   "thema": "falsos_amigos",
+   "fr": "la decepción",
+   "de": "die Enttäuschung (≠ engl. deception)",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "engl. deception = el engaño; decepcionar = enttäuschen. Wie frz. déception.",
+   "audio": null,
+   "satz": {
+    "fr": "¿La nota? Una decepción. No un engaño. Solo una decepción.",
+    "de": "Die Note? Eine Enttäuschung. Keine Täuschung. Nur eine Enttäuschung.",
+    "luecke": "decepción",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_19",
+   "thema": "falsos_amigos",
+   "fr": "la lectura",
+   "de": "das Lesen, die Lektüre (≠ engl. lecture)",
+   "register": "tu",
+   "anker": "ser",
+   "notiz": "engl. lecture = la conferencia, la clase. Wie frz. lecture.",
+   "audio": null,
+   "satz": {
+    "fr": "Mi lectura de la noche: una novela. No una conferencia. Una novela.",
+    "de": "Meine Abendlektüre: ein Roman. Keine Vorlesung. Ein Roman.",
+    "luecke": "lectura",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_20",
+   "thema": "falsos_amigos",
+   "fr": "molestar",
+   "de": "stören (≠ engl. to molest)",
+   "register": "tu",
+   "anker": "molestar",
+   "notiz": "engl. to molest ist sexuell konnotiert – molestar nicht: „no molestar“ = bitte nicht stören. ¿te molesta? = stört es dich?",
+   "audio": null,
+   "satz": {
+    "fr": "Perdón por molestar. Molestar, nada más. Es un verbo inocente.",
+    "de": "Entschuldigung fürs Stören. Stören, mehr nicht. Ein harmloses Verb.",
+    "luecke": "molestar",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Perdón, te molesté.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Perdón, te voy a molestar un momento.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "fa_21",
+   "thema": "falsos_amigos",
+   "fr": "el preservativo",
+   "de": "das Kondom (≠ engl. preservative)",
+   "register": "tu",
+   "anker": "decir",
+   "notiz": "engl. preservative = el conservante. Dieselbe Falle wie im Französischen (préservatif).",
+   "audio": null,
+   "satz": {
+    "fr": "¿« Sin preservativos » en una mermelada? No. Se dice « sin conservantes ».",
+    "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
+    "luecke": "preservativo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_22",
+   "thema": "falsos_amigos",
+   "fr": "salir",
+   "de": "hinausgehen, ausgehen (≠ frz. salir = beschmutzen)",
+   "register": "tu",
+   "anker": "salir",
+   "notiz": "frz. salir = ensuciar (schmutzig machen). salir con alguien = mit jemandem ausgehen / zusammen sein. salgo (unregelmäßig).",
+   "audio": null,
+   "satz": {
+    "fr": "Salgo con Diego esta noche. En francés, « salir » es ensuciar. Cuidado con las citas.",
+    "de": "Ich gehe heute Abend mit Diego aus. Auf Französisch heißt „salir“ beschmutzen. Vorsicht bei Verabredungen.",
+    "luecke": "Salgo",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Salí con Diego anoche.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Voy a salir con Diego esta noche.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "fa_23",
+   "thema": "falsos_amigos",
+   "fr": "el burro",
+   "de": "der Esel (≠ it. burro = Butter)",
+   "register": "tu",
+   "anker": "pedir",
+   "notiz": "it. burro = Butter = span. mantequilla. burro auch „Dummkopf“: ¡qué burro! pedir = bestellen (e → i: pido).",
+   "audio": null,
+   "satz": {
+    "fr": "Pido burro en Italia y me traen mantequilla. Pido mantequilla en España y me miran raro.",
+    "de": "Ich bestelle „burro“ in Italien und bekomme Butter. Ich bestelle „mantequilla“ in Spanien, und man schaut mich komisch an.",
+    "luecke": "burro",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "fa_24",
+   "thema": "falsos_amigos",
+   "fr": "Disculpe, busco la biblioteca.",
+   "de": "Entschuldigung, ich suche die Bibliothek. (höflich)",
+   "register": "vous",
+   "anker": "buscar",
+   "notiz": "disculpe = usted-Imperativ von disculpar (entschuldigen); buscar = suchen (ohne Präposition: busco la biblioteca).",
+   "audio": null,
+   "satz": {
+    "fr": "Disculpe, busco la biblioteca. – ¿La librería? – No, la biblioteca. La de los libros gratis.",
+    "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
+    "luecke": "busco la biblioteca",
+    "audio": null
    },
    "zeit": null
   }

@@ -22,6 +22,7 @@ THEMEN = [
     {"id": "deporte", "name": "Deporte y kung-fu", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "deporte.tsv"},
     {"id": "comer", "name": "Comer y vivir bien", "de": "Essen und gut leben", "symbol": "🥘", "datei": "comer.tsv"},
     {"id": "ninos", "name": "Niños y bebés", "de": "Kinder und Babys", "symbol": "👶", "datei": "ninos.tsv"},
+    {"id": "falsos_amigos", "name": "Falsos amigos", "de": "Falsche Freunde Englisch/Französisch–Spanisch (Bonus)", "symbol": "⚡", "datei": "falsos_amigos.tsv"},
 ]
 
 # Titel – Tapas-Leiter
