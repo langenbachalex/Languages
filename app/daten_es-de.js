@@ -6317,7 +6317,7 @@ window.SPRACHEN["es-de"] = {
     "y": 371.0,
     "fakt": "La Giralda fue el minarete de la mezquita. Se sube por rampas, no por escaleras: el almuédano subía a caballo.",
     "fakt_de": "Die Giralda war das Minarett der Moschee. Man steigt über Rampen hinauf, nicht über Treppen: Der Muezzin ritt hinauf.",
-    "audio": null
+    "audio": "audio/es-de/orte/sevilla.mp3"
    },
    {
     "id": "alcazar",
@@ -6329,7 +6329,7 @@ window.SPRACHEN["es-de"] = {
     "y": 371.3,
     "fakt": "El Alcázar es el palacio real en uso más antiguo de Europa. Aquí se rodó Juego de Tronos: los jardines de Dorne.",
     "fakt_de": "Der Alcázar ist der älteste noch genutzte Königspalast Europas. Hier wurde Game of Thrones gedreht: die Gärten von Dorne.",
-    "audio": null
+    "audio": "audio/es-de/orte/alcazar.mp3"
    },
    {
     "id": "cordoba",
@@ -6341,7 +6341,7 @@ window.SPRACHEN["es-de"] = {
     "y": 344.0,
     "fakt": "Dentro de la Mezquita hay una catedral. Carlos V dijo: « Habéis destruido lo que era único en el mundo. »",
     "fakt_de": "In der Mezquita steht eine Kathedrale. Karl V. sagte: „Ihr habt zerstört, was einzigartig auf der Welt war.“",
-    "audio": null
+    "audio": "audio/es-de/orte/cordoba.mp3"
    },
    {
     "id": "granada",
@@ -6353,7 +6353,7 @@ window.SPRACHEN["es-de"] = {
     "y": 382.4,
     "fakt": "En la Alhambra, la frase « No hay vencedor sino Dios » está escrita más de nueve mil veces en las paredes.",
     "fakt_de": "In der Alhambra steht der Satz „Es gibt keinen Sieger außer Gott“ mehr als neuntausendmal an den Wänden.",
-    "audio": null
+    "audio": "audio/es-de/orte/granada.mp3"
    },
    {
     "id": "cadiz",
@@ -6365,7 +6365,7 @@ window.SPRACHEN["es-de"] = {
     "y": 417.5,
     "fakt": "Cádiz es la ciudad más antigua de Europa occidental: la fundaron los fenicios hace tres mil años.",
     "fakt_de": "Cádiz ist die älteste Stadt Westeuropas: Die Phönizier gründeten sie vor dreitausend Jahren.",
-    "audio": null
+    "audio": "audio/es-de/orte/cadiz.mp3"
    },
    {
     "id": "ronda",
@@ -6377,7 +6377,7 @@ window.SPRACHEN["es-de"] = {
     "y": 406.0,
     "fakt": "El Puente Nuevo cruza un tajo de cien metros. Tardaron cuarenta y dos años en construirlo.",
     "fakt_de": "Die Puente Nuevo überspannt eine hundert Meter tiefe Schlucht. Der Bau dauerte zweiundvierzig Jahre.",
-    "audio": null
+    "audio": "audio/es-de/orte/ronda.mp3"
    },
    {
     "id": "malaga",
@@ -6389,7 +6389,7 @@ window.SPRACHEN["es-de"] = {
     "y": 407.1,
     "fakt": "Picasso nació aquí, pero se fue a los diez años. La ciudad le dedicó un museo cien años después.",
     "fakt_de": "Picasso wurde hier geboren, zog aber mit zehn Jahren weg. Hundert Jahre später widmete ihm die Stadt ein Museum.",
-    "audio": null
+    "audio": "audio/es-de/orte/malaga.mp3"
    },
    {
     "id": "donana",
@@ -6401,7 +6401,7 @@ window.SPRACHEN["es-de"] = {
     "y": 392.0,
     "fakt": "En Doñana viven linces ibéricos y pasan seis millones de aves al año. Es el mayor humedal de Europa.",
     "fakt_de": "In Doñana leben Pardelluchse, und sechs Millionen Vögel ziehen jährlich durch. Es ist das größte Feuchtgebiet Europas.",
-    "audio": null
+    "audio": "audio/es-de/orte/donana.mp3"
    },
    {
     "id": "jerez",
@@ -6413,7 +6413,7 @@ window.SPRACHEN["es-de"] = {
     "y": 409.1,
     "fakt": "Jerez dio nombre al sherry: los ingleses no sabían pronunciar « Jerez ». Aquí bailan los caballos.",
     "fakt_de": "Jerez gab dem Sherry seinen Namen: Die Engländer konnten „Jerez“ nicht aussprechen. Hier tanzen die Pferde.",
-    "audio": null
+    "audio": "audio/es-de/orte/jerez.mp3"
    },
    {
     "id": "almeria",
@@ -6425,7 +6425,7 @@ window.SPRACHEN["es-de"] = {
     "y": 389.3,
     "fakt": "En Tabernas se rodaron los spaghetti westerns. Clint Eastwood fue aquí « el bueno ».",
     "fakt_de": "In Tabernas wurden die Italowestern gedreht. Clint Eastwood war hier „der Gute“.",
-    "audio": null
+    "audio": "audio/es-de/orte/almeria.mp3"
    },
    {
     "id": "merida",
@@ -6437,7 +6437,7 @@ window.SPRACHEN["es-de"] = {
     "y": 288.3,
     "fakt": "El teatro romano de Mérida tiene dos mil años y sigue en uso: cada verano hay festival.",
     "fakt_de": "Das römische Theater von Mérida ist zweitausend Jahre alt und wird noch genutzt: Jeden Sommer gibt es ein Festival.",
-    "audio": null
+    "audio": "audio/es-de/orte/merida.mp3"
    },
    {
     "id": "caceres",
@@ -6449,7 +6449,7 @@ window.SPRACHEN["es-de"] = {
     "y": 258.0,
     "fakt": "La ciudad vieja de Cáceres no tiene ni un cable a la vista. Por eso ruedan allí tantas series.",
     "fakt_de": "In der Altstadt von Cáceres ist kein einziges Kabel zu sehen. Deshalb werden dort so viele Serien gedreht.",
-    "audio": null
+    "audio": "audio/es-de/orte/caceres.mp3"
    },
    {
     "id": "toledo",
@@ -6461,7 +6461,7 @@ window.SPRACHEN["es-de"] = {
     "y": 237.0,
     "fakt": "Toledo fue la ciudad de las tres culturas: judíos, musulmanes y cristianos. El Greco pintó aquí.",
     "fakt_de": "Toledo war die Stadt der drei Kulturen: Juden, Muslime und Christen. El Greco malte hier.",
-    "audio": null
+    "audio": "audio/es-de/orte/toledo.mp3"
    },
    {
     "id": "consuegra",
@@ -6473,7 +6473,7 @@ window.SPRACHEN["es-de"] = {
     "y": 258.9,
     "fakt": "Los molinos de Consuegra son los gigantes de Don Quijote. Tienen nombres: Bolero, Sancho, Rucio.",
     "fakt_de": "Die Windmühlen von Consuegra sind die Riesen des Don Quijote. Sie haben Namen: Bolero, Sancho, Rucio.",
-    "audio": null
+    "audio": "audio/es-de/orte/consuegra.mp3"
    },
    {
     "id": "cuenca",
@@ -6485,7 +6485,7 @@ window.SPRACHEN["es-de"] = {
     "y": 225.8,
     "fakt": "Las Casas Colgadas de Cuenca cuelgan sobre un barranco desde el siglo XV. Dentro hay un museo de arte abstracto.",
     "fakt_de": "Die „Hängenden Häuser“ von Cuenca hängen seit dem 15. Jahrhundert über einer Schlucht. Drinnen ist ein Museum für abstrakte Kunst.",
-    "audio": null
+    "audio": "audio/es-de/orte/cuenca.mp3"
    },
    {
     "id": "madrid",
@@ -6497,7 +6497,7 @@ window.SPRACHEN["es-de"] = {
     "y": 207.1,
     "fakt": "Madrid es la capital más alta de Europa: seiscientos cincuenta metros. El kilómetro cero está en la Puerta del Sol.",
     "fakt_de": "Madrid ist die höchstgelegene Hauptstadt Europas: sechshundertfünfzig Meter. Der Kilometer null liegt an der Puerta del Sol.",
-    "audio": null
+    "audio": "audio/es-de/orte/madrid.mp3"
    },
    {
     "id": "prado",
@@ -6509,7 +6509,7 @@ window.SPRACHEN["es-de"] = {
     "y": 207.2,
     "fakt": "En el Prado está « Las Meninas ». Velázquez se pintó a sí mismo dentro del cuadro, mirándote.",
     "fakt_de": "Im Prado hängt „Las Meninas“. Velázquez malte sich selbst ins Bild, und er schaut dich an.",
-    "audio": null
+    "audio": "audio/es-de/orte/prado.mp3"
    },
    {
     "id": "escorial",
@@ -6521,7 +6521,7 @@ window.SPRACHEN["es-de"] = {
     "y": 197.7,
     "fakt": "Felipe II gobernó medio mundo desde una habitación pequeña del Escorial. Tenía dos mil seiscientas ventanas para mirar.",
     "fakt_de": "Philipp II. regierte die halbe Welt aus einem kleinen Zimmer im Escorial. Er hatte zweitausendsechshundert Fenster zum Hinausschauen.",
-    "audio": null
+    "audio": "audio/es-de/orte/escorial.mp3"
    },
    {
     "id": "segovia",
@@ -6533,7 +6533,7 @@ window.SPRACHEN["es-de"] = {
     "y": 178.6,
     "fakt": "El acueducto de Segovia tiene ciento sesenta y siete arcos y ni una gota de cemento. Lleva dos mil años en pie.",
     "fakt_de": "Das Aquädukt von Segovia hat hundertsiebenundsechzig Bögen und keinen Tropfen Mörtel. Es steht seit zweitausend Jahren.",
-    "audio": null
+    "audio": "audio/es-de/orte/segovia.mp3"
    },
    {
     "id": "avila",
@@ -6545,7 +6545,7 @@ window.SPRACHEN["es-de"] = {
     "y": 194.1,
     "fakt": "Ávila tiene la muralla medieval más completa de Europa: ochenta y ocho torres. Se puede caminar encima.",
     "fakt_de": "Ávila hat die vollständigste mittelalterliche Stadtmauer Europas: achtundachtzig Türme. Man kann oben entlanglaufen.",
-    "audio": null
+    "audio": "audio/es-de/orte/avila.mp3"
    },
    {
     "id": "salamanca",
@@ -6557,7 +6557,7 @@ window.SPRACHEN["es-de"] = {
     "y": 177.1,
     "fakt": "En la fachada de la universidad hay una rana escondida. Quien la encuentra, aprueba. Dicen.",
     "fakt_de": "In der Fassade der Universität versteckt sich ein Frosch. Wer ihn findet, besteht die Prüfung. Sagt man.",
-    "audio": null
+    "audio": "audio/es-de/orte/salamanca.mp3"
    },
    {
     "id": "burgos",
@@ -6569,7 +6569,7 @@ window.SPRACHEN["es-de"] = {
     "y": 102.7,
     "fakt": "En la catedral de Burgos está enterrado el Cid. Y hay un reloj con un muñeco, el Papamoscas, que abre la boca cada hora.",
     "fakt_de": "In der Kathedrale von Burgos liegt der Cid begraben. Und eine Uhr mit einer Figur, dem Papamoscas, der jede Stunde den Mund aufreißt.",
-    "audio": null
+    "audio": "audio/es-de/orte/burgos.mp3"
    },
    {
     "id": "atapuerca",
@@ -6581,7 +6581,7 @@ window.SPRACHEN["es-de"] = {
     "y": 102.4,
     "fakt": "En Atapuerca aparecieron los europeos más antiguos: huesos de hace un millón de años.",
     "fakt_de": "In Atapuerca fand man die ältesten Europäer: Knochen, die eine Million Jahre alt sind.",
-    "audio": null
+    "audio": "audio/es-de/orte/atapuerca.mp3"
    },
    {
     "id": "leon",
@@ -6593,7 +6593,7 @@ window.SPRACHEN["es-de"] = {
     "y": 88.9,
     "fakt": "La catedral de León tiene mil ochocientos metros cuadrados de vidrieras. Por dentro parece que no tiene paredes.",
     "fakt_de": "Die Kathedrale von León hat tausendachthundert Quadratmeter Glasfenster. Von innen scheint sie keine Wände zu haben.",
-    "audio": null
+    "audio": "audio/es-de/orte/leon.mp3"
    },
    {
     "id": "santiago",
@@ -6605,7 +6605,7 @@ window.SPRACHEN["es-de"] = {
     "y": 73.7,
     "fakt": "Al final del Camino, el Botafumeiro vuela por la catedral: ochenta kilos de incienso a setenta kilómetros por hora.",
     "fakt_de": "Am Ende des Jakobswegs fliegt der Botafumeiro durch die Kathedrale: achtzig Kilo Weihrauch mit siebzig Stundenkilometern.",
-    "audio": null
+    "audio": "audio/es-de/orte/santiago.mp3"
    },
    {
     "id": "coruna",
@@ -6617,7 +6617,7 @@ window.SPRACHEN["es-de"] = {
     "y": 47.6,
     "fakt": "La Torre de Hércules es el faro romano más antiguo del mundo que sigue funcionando. Desde el siglo I.",
     "fakt_de": "Der Herkulesturm ist der älteste römische Leuchtturm der Welt, der noch in Betrieb ist. Seit dem ersten Jahrhundert.",
-    "audio": null
+    "audio": "audio/es-de/orte/coruna.mp3"
    },
    {
     "id": "finisterre",
@@ -6629,7 +6629,7 @@ window.SPRACHEN["es-de"] = {
     "y": 73.5,
     "fakt": "Finisterre: « el fin de la tierra ». Los peregrinos queman aquí las botas al acabar el Camino.",
     "fakt_de": "Finisterre: „das Ende der Welt“. Die Pilger verbrennen hier ihre Stiefel am Ende des Jakobswegs.",
-    "audio": null
+    "audio": "audio/es-de/orte/finisterre.mp3"
    },
    {
     "id": "oviedo",
@@ -6641,7 +6641,7 @@ window.SPRACHEN["es-de"] = {
     "y": 47.6,
     "fakt": "En Oviedo la sidra se escancia desde lo alto, con el brazo estirado, para que « rompa » en el vaso.",
     "fakt_de": "In Oviedo wird der Cidre aus großer Höhe mit ausgestrecktem Arm eingeschenkt, damit er im Glas „bricht“.",
-    "audio": null
+    "audio": "audio/es-de/orte/oviedo.mp3"
    },
    {
     "id": "picos",
@@ -6653,7 +6653,7 @@ window.SPRACHEN["es-de"] = {
     "y": 56.9,
     "fakt": "Los marineros veían estos picos desde el mar al volver de América: la primera Europa que aparecía.",
     "fakt_de": "Die Seeleute sahen diese Gipfel vom Meer aus, wenn sie aus Amerika zurückkamen: das erste Europa, das auftauchte.",
-    "audio": null
+    "audio": "audio/es-de/orte/picos.mp3"
    },
    {
     "id": "santander",
@@ -6665,7 +6665,7 @@ window.SPRACHEN["es-de"] = {
     "y": 42.2,
     "fakt": "Cerca de Santander está la cueva de Altamira: bisontes pintados hace catorce mil años. La « Capilla Sixtina » prehistórica.",
     "fakt_de": "Nahe Santander liegt die Höhle von Altamira: Bisons, vor vierzehntausend Jahren gemalt. Die „Sixtinische Kapelle“ der Vorzeit.",
-    "audio": null
+    "audio": "audio/es-de/orte/santander.mp3"
    },
    {
     "id": "bilbao",
@@ -6677,7 +6677,7 @@ window.SPRACHEN["es-de"] = {
     "y": 53.0,
     "fakt": "El Guggenheim de titanio cambió la ciudad. Fuera lo vigila « Puppy », un perro de doce metros hecho de flores.",
     "fakt_de": "Das Titan-Guggenheim veränderte die Stadt. Draußen wacht „Puppy“, ein zwölf Meter hoher Hund aus Blumen.",
-    "audio": null
+    "audio": "audio/es-de/orte/bilbao.mp3"
    },
    {
     "id": "sansebastian",
@@ -6689,7 +6689,7 @@ window.SPRACHEN["es-de"] = {
     "y": 50.0,
     "fakt": "San Sebastián tiene más estrellas Michelin por habitante que casi cualquier ciudad del mundo. Y los pintxos.",
     "fakt_de": "San Sebastián hat mehr Michelin-Sterne pro Einwohner als fast jede andere Stadt der Welt. Und die Pintxos.",
-    "audio": null
+    "audio": "audio/es-de/orte/sansebastian.mp3"
    },
    {
     "id": "pamplona",
@@ -6701,7 +6701,7 @@ window.SPRACHEN["es-de"] = {
     "y": 77.3,
     "fakt": "Cada julio, los toros corren por Pamplona a las ocho de la mañana. Hemingway vino nueve veces.",
     "fakt_de": "Jeden Juli laufen in Pamplona um acht Uhr morgens die Stiere. Hemingway kam neunmal.",
-    "audio": null
+    "audio": "audio/es-de/orte/pamplona.mp3"
    },
    {
     "id": "logrono",
@@ -6713,7 +6713,7 @@ window.SPRACHEN["es-de"] = {
     "y": 96.3,
     "fakt": "En la calle Laurel de Logroño hay más de sesenta bares en doscientos metros. Cada uno con su tapa.",
     "fakt_de": "In der Calle Laurel in Logroño gibt es über sechzig Bars auf zweihundert Metern. Jede mit ihrer eigenen Tapa.",
-    "audio": null
+    "audio": "audio/es-de/orte/logrono.mp3"
    },
    {
     "id": "zaragoza",
@@ -6725,7 +6725,7 @@ window.SPRACHEN["es-de"] = {
     "y": 140.3,
     "fakt": "Goya nació cerca de Zaragoza y pintó las cúpulas del Pilar. En la basílica hay dos bombas que no explotaron.",
     "fakt_de": "Goya wurde nahe Zaragoza geboren und malte die Kuppeln der Pilar-Basilika. In der Basilika hängen zwei Bomben, die nicht explodierten.",
-    "audio": null
+    "audio": "audio/es-de/orte/zaragoza.mp3"
    },
    {
     "id": "teruel",
@@ -6737,7 +6737,7 @@ window.SPRACHEN["es-de"] = {
     "y": 210.9,
     "fakt": "Teruel tiene los Amantes: dos momias del siglo XIII. Él murió de amor; ella, al besarlo. Romeo y Julieta, pero antes.",
     "fakt_de": "Teruel hat die „Liebenden“: zwei Mumien aus dem 13. Jahrhundert. Er starb aus Liebe; sie, als sie ihn küsste. Romeo und Julia, nur früher.",
-    "audio": null
+    "audio": "audio/es-de/orte/teruel.mp3"
    },
    {
     "id": "ordesa",
@@ -6749,7 +6749,7 @@ window.SPRACHEN["es-de"] = {
     "y": 86.1,
     "fakt": "El valle de Ordesa, en los Pirineos, fue el segundo parque nacional de España. En 1918. Por un cuadro.",
     "fakt_de": "Das Ordesa-Tal in den Pyrenäen war Spaniens zweiter Nationalpark. 1918. Wegen eines Gemäldes.",
-    "audio": null
+    "audio": "audio/es-de/orte/ordesa.mp3"
    },
    {
     "id": "barcelona",
@@ -6761,7 +6761,7 @@ window.SPRACHEN["es-de"] = {
     "y": 154.5,
     "fakt": "La Sagrada Familia lleva en obras desde 1882. Gaudí decía: « Mi cliente no tiene prisa. »",
     "fakt_de": "Die Sagrada Família ist seit 1882 im Bau. Gaudí sagte: „Mein Auftraggeber hat es nicht eilig.“",
-    "audio": null
+    "audio": "audio/es-de/orte/barcelona.mp3"
    },
    {
     "id": "montserrat",
@@ -6773,7 +6773,7 @@ window.SPRACHEN["es-de"] = {
     "y": 143.4,
     "fakt": "En Montserrat canta la Escolanía, uno de los coros de niños más antiguos de Europa. Desde el siglo XIII.",
     "fakt_de": "In Montserrat singt die Escolanía, einer der ältesten Knabenchöre Europas. Seit dem 13. Jahrhundert.",
-    "audio": null
+    "audio": "audio/es-de/orte/montserrat.mp3"
    },
    {
     "id": "girona",
@@ -6785,7 +6785,7 @@ window.SPRACHEN["es-de"] = {
     "y": 122.4,
     "fakt": "En Girona se besa el trasero de una leona de piedra para volver a la ciudad. Hay una escalera para llegar.",
     "fakt_de": "In Girona küsst man den Hintern einer steinernen Löwin, um in die Stadt zurückzukehren. Es gibt eine Treppe dafür.",
-    "audio": null
+    "audio": "audio/es-de/orte/girona.mp3"
    },
    {
     "id": "tarragona",
@@ -6797,7 +6797,7 @@ window.SPRACHEN["es-de"] = {
     "y": 169.0,
     "fakt": "Tarragona fue capital romana. El anfiteatro está junto al mar: los gladiadores luchaban con vistas.",
     "fakt_de": "Tarragona war römische Hauptstadt. Das Amphitheater liegt direkt am Meer: Die Gladiatoren kämpften mit Aussicht.",
-    "audio": null
+    "audio": "audio/es-de/orte/tarragona.mp3"
    },
    {
     "id": "valencia",
@@ -6809,7 +6809,7 @@ window.SPRACHEN["es-de"] = {
     "y": 258.3,
     "fakt": "La paella nació en los arrozales de Valencia. Con conejo y pollo. Con chorizo, no: eso es « arroz con cosas ».",
     "fakt_de": "Die Paella entstand in den Reisfeldern von Valencia. Mit Kaninchen und Huhn. Mit Chorizo nicht: Das ist „Reis mit Zeug“.",
-    "audio": null
+    "audio": "audio/es-de/orte/valencia.mp3"
    },
    {
     "id": "alicante",
@@ -6821,7 +6821,7 @@ window.SPRACHEN["es-de"] = {
     "y": 319.2,
     "fakt": "En Alicante se hace el turrón de Jijona desde el siglo XVI. Y cada junio queman esculturas gigantes: las Hogueras.",
     "fakt_de": "In Alicante wird seit dem 16. Jahrhundert der Turrón von Jijona gemacht. Und jeden Juni verbrennt man riesige Skulpturen: die Hogueras.",
-    "audio": null
+    "audio": "audio/es-de/orte/alicante.mp3"
    },
    {
     "id": "murcia",
@@ -6833,7 +6833,7 @@ window.SPRACHEN["es-de"] = {
     "y": 338.3,
     "fakt": "La huerta de Murcia alimenta a media Europa. Y en la catedral, la torre tardó doscientos años: cada siglo, un estilo.",
     "fakt_de": "Die Gärten von Murcia ernähren halb Europa. Und der Turm der Kathedrale brauchte zweihundert Jahre: jedes Jahrhundert ein Stil.",
-    "audio": null
+    "audio": "audio/es-de/orte/murcia.mp3"
    },
    {
     "id": "cartagena",
@@ -6845,7 +6845,7 @@ window.SPRACHEN["es-de"] = {
     "y": 358.2,
     "fakt": "Cartagena tiene un teatro romano que estuvo escondido bajo casas hasta 1988. Lo encontraron por casualidad.",
     "fakt_de": "Cartagena hat ein römisches Theater, das bis 1988 unter Häusern verborgen war. Man fand es zufällig.",
-    "audio": null
+    "audio": "audio/es-de/orte/cartagena.mp3"
    },
    {
     "id": "palma",
@@ -6857,7 +6857,7 @@ window.SPRACHEN["es-de"] = {
     "y": 252.9,
     "fakt": "La catedral de Palma tiene el rosetón gótico más grande del mundo. Dos veces al año, la luz dibuja un ocho.",
     "fakt_de": "Die Kathedrale von Palma hat die größte gotische Fensterrose der Welt. Zweimal im Jahr zeichnet das Licht eine Acht.",
-    "audio": null
+    "audio": "audio/es-de/orte/palma.mp3"
    },
    {
     "id": "menorca",
@@ -6869,7 +6869,7 @@ window.SPRACHEN["es-de"] = {
     "y": 232.3,
     "fakt": "Menorca es Reserva de la Biosfera y la cuna de la mayonesa: « salsa mahonesa », de Mahón.",
     "fakt_de": "Menorca ist Biosphärenreservat und die Wiege der Mayonnaise: „salsa mahonesa“, aus Mahón.",
-    "audio": null
+    "audio": "audio/es-de/orte/menorca.mp3"
    },
    {
     "id": "tenerife",
@@ -6881,7 +6881,7 @@ window.SPRACHEN["es-de"] = {
     "y": 523.5,
     "fakt": "El Teide es la montaña más alta de España: tres mil setecientos dieciocho metros. Y es un volcán.",
     "fakt_de": "Der Teide ist der höchste Berg Spaniens: dreitausendsiebenhundertachtzehn Meter. Und ein Vulkan.",
-    "audio": null
+    "audio": "audio/es-de/orte/tenerife.mp3"
    },
    {
     "id": "laspalmas",
@@ -6893,7 +6893,7 @@ window.SPRACHEN["es-de"] = {
     "y": 531.5,
     "fakt": "Colón paró en Las Palmas antes de cruzar el Atlántico. Para arreglar el timón de la Pinta.",
     "fakt_de": "Kolumbus hielt in Las Palmas, bevor er den Atlantik überquerte. Um das Ruder der Pinta zu reparieren.",
-    "audio": null
+    "audio": "audio/es-de/orte/laspalmas.mp3"
    },
    {
     "id": "ceuta",
@@ -6905,7 +6905,7 @@ window.SPRACHEN["es-de"] = {
     "y": 452.2,
     "fakt": "Ceuta está en África, pero es España. Desde las murallas se ve Gibraltar y, de fondo, Europa.",
     "fakt_de": "Ceuta liegt in Afrika, ist aber Spanien. Von den Mauern sieht man Gibraltar und dahinter Europa.",
-    "audio": null
+    "audio": "audio/es-de/orte/ceuta.mp3"
    }
   ],
   "karte": {
@@ -7406,6 +7406,56 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/lob/stark_sigue.mp3",
   "audio/es-de/lob/stark_vuelas.mp3",
   "audio/es-de/lob/voll_sin_fallos.mp3",
+  "audio/es-de/orte/alcazar.mp3",
+  "audio/es-de/orte/alicante.mp3",
+  "audio/es-de/orte/almeria.mp3",
+  "audio/es-de/orte/atapuerca.mp3",
+  "audio/es-de/orte/avila.mp3",
+  "audio/es-de/orte/barcelona.mp3",
+  "audio/es-de/orte/bilbao.mp3",
+  "audio/es-de/orte/burgos.mp3",
+  "audio/es-de/orte/caceres.mp3",
+  "audio/es-de/orte/cadiz.mp3",
+  "audio/es-de/orte/cartagena.mp3",
+  "audio/es-de/orte/ceuta.mp3",
+  "audio/es-de/orte/consuegra.mp3",
+  "audio/es-de/orte/cordoba.mp3",
+  "audio/es-de/orte/coruna.mp3",
+  "audio/es-de/orte/cuenca.mp3",
+  "audio/es-de/orte/donana.mp3",
+  "audio/es-de/orte/escorial.mp3",
+  "audio/es-de/orte/finisterre.mp3",
+  "audio/es-de/orte/girona.mp3",
+  "audio/es-de/orte/granada.mp3",
+  "audio/es-de/orte/jerez.mp3",
+  "audio/es-de/orte/laspalmas.mp3",
+  "audio/es-de/orte/leon.mp3",
+  "audio/es-de/orte/logrono.mp3",
+  "audio/es-de/orte/madrid.mp3",
+  "audio/es-de/orte/malaga.mp3",
+  "audio/es-de/orte/menorca.mp3",
+  "audio/es-de/orte/merida.mp3",
+  "audio/es-de/orte/montserrat.mp3",
+  "audio/es-de/orte/murcia.mp3",
+  "audio/es-de/orte/ordesa.mp3",
+  "audio/es-de/orte/oviedo.mp3",
+  "audio/es-de/orte/palma.mp3",
+  "audio/es-de/orte/pamplona.mp3",
+  "audio/es-de/orte/picos.mp3",
+  "audio/es-de/orte/prado.mp3",
+  "audio/es-de/orte/ronda.mp3",
+  "audio/es-de/orte/salamanca.mp3",
+  "audio/es-de/orte/sansebastian.mp3",
+  "audio/es-de/orte/santander.mp3",
+  "audio/es-de/orte/santiago.mp3",
+  "audio/es-de/orte/segovia.mp3",
+  "audio/es-de/orte/sevilla.mp3",
+  "audio/es-de/orte/tarragona.mp3",
+  "audio/es-de/orte/tenerife.mp3",
+  "audio/es-de/orte/teruel.mp3",
+  "audio/es-de/orte/toledo.mp3",
+  "audio/es-de/orte/valencia.mp3",
+  "audio/es-de/orte/zaragoza.mp3",
   "audio/es-de/saetze/co_01.mp3",
   "audio/es-de/saetze/co_01_fp.mp3",
   "audio/es-de/saetze/co_01_pc.mp3",
