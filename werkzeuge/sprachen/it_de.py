@@ -19,6 +19,7 @@ THEMEN = [
     {"id": "gatti", "name": "I gatti", "de": "Die Katzen", "symbol": "🐈", "datei": "gatti.tsv"},
     {"id": "musica", "name": "Musica e lingua", "de": "Musik und Sprache", "symbol": "🎵", "datei": "musica.tsv"},
     {"id": "storie", "name": "Storie e fantasia", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "storie.tsv"},
+    {"id": "sport", "name": "Sport e kung fu", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "sport.tsv"},
 ]
 
 # Titel – Leiter der Leckereien
