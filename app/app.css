@@ -113,6 +113,7 @@
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --k-an: #ff6b7a; --k-on: #8fb0ff; --k-in: #5fd394; --k-un: #c3a2ff; } }
 :root[data-theme="dark"] { --k-an: #ff6b7a; --k-on: #8fb0ff; --k-in: #5fd394; --k-un: #c3a2ff; }
 .klang-an { color: var(--k-an); } .klang-on { color: var(--k-on); } .klang-in { color: var(--k-in); } .klang-un { color: var(--k-un); }
+.klang-rr { color: var(--k-an); } .klang-r { color: var(--k-on); }
 .nasal-wort { font: 600 2.6rem/1.15 var(--display); overflow-wrap: anywhere; }
 .nasal-wort .nasal { text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 4px; }
 .klang-zeile { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }

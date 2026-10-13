@@ -1,0 +1,41 @@
+id	teil	klang	wort	de	partner
+rr_01	klang	rr	perro	Hund	
+rr_02	klang	rr	carro	Karren, Wagen	
+rr_03	klang	rr	arroz	Reis	
+rr_04	klang	rr	rojo	rot	
+rr_05	klang	rr	rico	lecker, reich	
+rr_06	klang	rr	correr	rennen	
+rr_07	klang	rr	guitarra	Gitarre	
+rr_08	klang	rr	pizarra	Tafel	
+r_01	klang	r	pero	aber	
+r_02	klang	r	caro	teuer	
+r_03	klang	r	hora	Stunde	
+r_04	klang	r	cara	Gesicht	
+r_05	klang	r	mirar	anschauen	
+r_06	klang	r	primero	erster	
+r_07	klang	r	tarde	Nachmittag, spät	
+r_08	klang	r	ahora	jetzt	
+p1_01a	paar	r	pero	aber	p1_01b
+p1_01b	paar	rr	perro	Hund	p1_01a
+p1_02a	paar	r	caro	teuer	p1_02b
+p1_02b	paar	rr	carro	Karren, Wagen	p1_02a
+p1_03a	paar	r	coro	Chor	p1_03b
+p1_03b	paar	rr	corro	ich renne	p1_03a
+p1_04a	paar	r	cero	null	p1_04b
+p1_04b	paar	rr	cerro	Hügel	p1_04a
+p1_05a	paar	r	para	für	p1_05b
+p1_05b	paar	rr	parra	Weinrebe	p1_05a
+p1_06a	paar	r	moro	Maure	p1_06b
+p1_06b	paar	rr	morro	Schnauze	p1_06a
+p1_07a	paar	r	ahora	jetzt	p1_07b
+p1_07b	paar	rr	ahorra	er spart	p1_07a
+p1_08a	paar	r	foro	Forum	p1_08b
+p1_08b	paar	rr	forro	Futter (Stoff)	p1_08a
+b_01	beide	rr,r	fe{rr|rr}oca{r|r}il	Eisenbahn
+b_02	beide	rr,r	ca{rr|rr}ete{r|r}a	Landstraße
+b_03	beide	rr,r	he{rr|rr}e{r|r}o	Schmied
+b_04	beide	rr,r	gue{rr|rr}e{r|r}o	Krieger
+b_05	beide	rr,r	a{rr|rr}ie{r|r}o	Maultiertreiber
+b_06	beide	rr,r	co{rr|rr}edo{r|r}	Läufer, Flur
+b_07	beide	rr,r	{rr|r}on{r|r}onea{r|r}	schnurren
+b_08	beide	rr,r	{rr|r}ápido y {r|r}a{r|r}o	schnell und selten

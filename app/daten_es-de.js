@@ -5298,18 +5298,395 @@ window.SPRACHEN["es-de"] = {
   "Dialoge mit Diego"
  ],
  "aussprache": {
-  "id": "",
-  "symbol": "",
-  "titel": "",
-  "unter": "",
-  "info": {},
-  "reihe": [],
-  "paare_gruppen": [],
-  "beide_name": "",
-  "texte": {},
-  "klaenge": {},
-  "paare": [],
-  "beide": []
+  "id": "sonidos",
+  "symbol": "👄",
+  "titel": "La erre",
+  "unter": "r [ɾ] o rr [r] – escuchar, distinguir, las dos en una palabra",
+  "info": {
+   "rr": [
+    "[r]",
+    "rr · r inicial",
+    "la lengua vibra varias veces",
+    "Zunge vibriert mehrfach (perro, rojo)"
+   ],
+   "r": [
+    "[ɾ]",
+    "r entre vocales",
+    "un solo toque de la lengua",
+    "ein einziger Zungenschlag (pero, caro)"
+   ]
+  },
+  "reihe": [
+   "rr",
+   "r"
+  ],
+  "paare_gruppen": [
+   [
+    "p1",
+    "¿r o rr?"
+   ]
+  ],
+  "beide_name": "👑 Las dos",
+  "texte": {
+   "beide": [
+    "Las dos erres en una palabra. Escucha despacio, luego a velocidad normal – y repite cuidando cada erre.",
+    "Beide r in einem Wort. Hör langsam, dann normal – und sprich jedes r sauber nach."
+   ],
+   "klang": [
+    "{laut} – {tipp}. Escucha despacio, luego normal. ¡Repite!",
+    "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"
+   ],
+   "paar": [
+    "Escucha la palabra. ¿Cuál es? Toca la correcta.",
+    "Hör das Wort. Welches ist es? Tipp auf das richtige."
+   ],
+   "hilfe": [
+    "Te ayudo: {a}. ¡Escucha otra vez!",
+    "Ich helfe dir: {a}. Hör noch mal!"
+   ],
+   "beide_hoeren": [
+    "Más fácil: escuchar las dos",
+    "Noch einfacher: beide hören"
+   ]
+  },
+  "klaenge": {
+   "rr": [
+    {
+     "id": "rr_01",
+     "wort": "perro",
+     "de": "Hund",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_02",
+     "wort": "carro",
+     "de": "Karren, Wagen",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_03",
+     "wort": "arroz",
+     "de": "Reis",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_04",
+     "wort": "rojo",
+     "de": "rot",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_05",
+     "wort": "rico",
+     "de": "lecker, reich",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_06",
+     "wort": "correr",
+     "de": "rennen",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_07",
+     "wort": "guitarra",
+     "de": "Gitarre",
+     "klang": "rr",
+     "audio": null
+    },
+    {
+     "id": "rr_08",
+     "wort": "pizarra",
+     "de": "Tafel",
+     "klang": "rr",
+     "audio": null
+    }
+   ],
+   "r": [
+    {
+     "id": "r_01",
+     "wort": "pero",
+     "de": "aber",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_02",
+     "wort": "caro",
+     "de": "teuer",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_03",
+     "wort": "hora",
+     "de": "Stunde",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_04",
+     "wort": "cara",
+     "de": "Gesicht",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_05",
+     "wort": "mirar",
+     "de": "anschauen",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_06",
+     "wort": "primero",
+     "de": "erster",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_07",
+     "wort": "tarde",
+     "de": "Nachmittag, spät",
+     "klang": "r",
+     "audio": null
+    },
+    {
+     "id": "r_08",
+     "wort": "ahora",
+     "de": "jetzt",
+     "klang": "r",
+     "audio": null
+    }
+   ]
+  },
+  "paare": [
+   {
+    "id": "p1_01a",
+    "wort": "pero",
+    "de": "aber",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_01b",
+     "wort": "perro",
+     "de": "Hund",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_02a",
+    "wort": "caro",
+    "de": "teuer",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_02b",
+     "wort": "carro",
+     "de": "Karren, Wagen",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_03a",
+    "wort": "coro",
+    "de": "Chor",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_03b",
+     "wort": "corro",
+     "de": "ich renne",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_04a",
+    "wort": "cero",
+    "de": "null",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_04b",
+     "wort": "cerro",
+     "de": "Hügel",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_05a",
+    "wort": "para",
+    "de": "für",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_05b",
+     "wort": "parra",
+     "de": "Weinrebe",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_06a",
+    "wort": "moro",
+    "de": "Maure",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_06b",
+     "wort": "morro",
+     "de": "Schnauze",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_07a",
+    "wort": "ahora",
+    "de": "jetzt",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_07b",
+     "wort": "ahorra",
+     "de": "er spart",
+     "klang": "rr",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_08a",
+    "wort": "foro",
+    "de": "Forum",
+    "klang": "r",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_08b",
+     "wort": "forro",
+     "de": "Futter (Stoff)",
+     "klang": "rr",
+     "audio": null
+    }
+   }
+  ],
+  "beide": [
+   {
+    "id": "b_01",
+    "wort": "ferrocaril",
+    "de": "Eisenbahn",
+    "klang": "rr,r",
+    "audio": null,
+    "markup": "fe{rr|rr}oca{r|r}il",
+    "klaenge": [
+     "rr",
+     "r"
+    ]
+   },
+   {
+    "id": "b_02",
+    "wort": "carretera",
+    "de": "Landstraße",
+    "klang": "rr,r",
+    "audio": null,
+    "markup": "ca{rr|rr}ete{r|r}a",
+    "klaenge": [
+     "rr",
+     "r"
+    ]
+   },
+   {
+    "id": "b_03",
+    "wort": "herrero",
+    "de": "Schmied",
+    "klang": "rr,r",
+    "audio": null,
+    "markup": "he{rr|rr}e{r|r}o",
+    "klaenge": [
+     "rr",
+     "r"
+    ]
+   },
+   {
+    "id": "b_04",
+    "wort": "guerrero",
+    "de": "Krieger",
+    "klang": "rr,r",
+    "audio": null,
+    "markup": "gue{rr|rr}e{r|r}o",
+    "klaenge": [
+     "rr",
+     "r"
+    ]
+   },
+   {
+    "id": "b_05",
+    "wort": "arriero",
+    "de": "Maultiertreiber",
+    "klang": "rr,r",
+    "audio": null,
+    "markup": "a{rr|rr}ie{r|r}o",
+    "klaenge": [
+     "rr",
+     "r"
+    ]
+   },
+   {
+    "id": "b_06",
+    "wort": "corredor",
+    "de": "Läufer, Flur",
+    "klang": "rr,r",
+    "audio": null,
+    "markup": "co{rr|rr}edo{r|r}",
+    "klaenge": [
+     "rr",
+     "r"
+    ]
+   },
+   {
+    "id": "b_07",
+    "wort": "ronronear",
+    "de": "schnurren",
+    "klang": "rr,r",
+    "audio": null,
+    "markup": "{rr|r}on{r|r}onea{r|r}",
+    "klaenge": [
+     "rr",
+     "r"
+    ]
+   },
+   {
+    "id": "b_08",
+    "wort": "rápido y raro",
+    "de": "schnell und selten",
+    "klang": "rr,r",
+    "audio": null,
+    "markup": "{rr|r}ápido y {r|r}a{r|r}o",
+    "klaenge": [
+     "rr",
+     "r"
+    ]
+   }
+  ]
  },
  "geschichte": [],
  "geschichte_info": {

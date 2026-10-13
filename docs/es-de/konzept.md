@@ -24,9 +24,9 @@ Stand: 13.10.2026. Zum Absegnen, **noch nichts gebaut.** Rahmen: `docs/konzept-m
 | 8 | **Niños y bebés** | *dormir del tirón, un peluche, hacer travesuras, coger en brazos, un bebé, sonreír, crecer, costarle dormirse, un pañal, portarse bien, jugar al escondite, contar un cuento, llorar, un abrazo, aprender a andar, estar orgulloso de, las primeras palabras, tener paciencia, la merienda, reírse a carcajadas, echar la siesta, tener miedo a la oscuridad, es la hora del baño, ¿qué edad tiene su hijo?* |
 | ⚡ | **Falsos amigos** – gegen Englisch **und** Französisch | *constipado (≠ constipated), embarazada (≠ embarrassed), actualmente (≠ actually), la librería, asistir a, atender (≠ attend), pretender, sensible, eventualmente, la carpeta (≠ carpet), el éxito (≠ exit), la ropa (≠ rope), largo (≠ large), el pie (≠ pie), la sopa (≠ soap), el campo (≠ camp), realizar, la decepción, la lectura, molestar (≠ molest), el preservativo, la arena (≠ arena), salir (≠ fr. salir = schmutzig machen), el burro (≠ it. burro = Butter)* |
 
-## 3. Aussprache-Teil
+## 3. Aussprache-Teil: « La erre »
 
-Entfällt im Spanischen (Entscheidung Mr. Alex, 13.10.2026): keine Laute, keine Minimalpaare. `AUSSPRACHE = None` im Sprachpaket, der Build lässt die Kachel weg.
+Nur **r gegen rr** (Mr. Alex, 13.10.2026): je 8 Wörter für [ɾ] und [r], 8 Minimalpaare (pero/perro …), 8 Wörter mit beiden (ferrocarril, carretera …). Keine weiteren Laute.
 
 ## 4. Spiel
 

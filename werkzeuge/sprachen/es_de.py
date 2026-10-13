@@ -43,7 +43,23 @@ DIALOGE_TITEL = ["Diálogos con Diego", "Dialoge mit Diego"]
 GESCHICHTE = {"titel": "", "unter": "", "sammlung": ["", ""]}   # später, optional
 
 # Aussprache « Los sonidos difíciles » – Daten kommen später (sonidos.tsv vorerst leer)
-AUSSPRACHE = None  # kein Aussprachemodul im Spanischen (Mr. Alex, 13.10.2026)
+AUSSPRACHE = {
+    "id": "sonidos", "symbol": "👄", "titel": "La erre", "unter": "r [ɾ] o rr [r] – escuchar, distinguir, las dos en una palabra",
+    "datei": "sonidos.tsv",
+    "klaenge": {"rr": ["[r]", "rr · r inicial", "la lengua vibra varias veces", "Zunge vibriert mehrfach (perro, rojo)"],
+                "r": ["[ɾ]", "r entre vocales", "un solo toque de la lengua", "ein einziger Zungenschlag (pero, caro)"]},
+    "reihe": ["rr", "r"],
+    "paare": [["p1", "¿r o rr?"]],
+    "beide_name": "👑 Las dos",
+    "texte": {
+        "beide": ["Las dos erres en una palabra. Escucha despacio, luego a velocidad normal – y repite cuidando cada erre.",
+                  "Beide r in einem Wort. Hör langsam, dann normal – und sprich jedes r sauber nach."],
+        "klang": ["{laut} – {tipp}. Escucha despacio, luego normal. ¡Repite!", "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"],
+        "paar": ["Escucha la palabra. ¿Cuál es? Toca la correcta.", "Hör das Wort. Welches ist es? Tipp auf das richtige."],
+        "hilfe": ["Te ayudo: {a}. ¡Escucha otra vez!", "Ich helfe dir: {a}. Hör noch mal!"],
+        "beide_hoeren": ["Más fácil: escuchar las dos", "Noch einfacher: beide hören"],
+    },
+}
 
 # Karte: Spanien mit Provinzen – kommt später (vorerst keine Orte)
 KARTE = {"name": "España", "einheit": "provincias", "lieux": "lugares", "start": "Sevilla",
