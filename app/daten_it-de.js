@@ -475,6 +475,38 @@ window.SPRACHEN["it-de"] = {
     "ma_23",
     "ma_24"
    ]
+  },
+  {
+   "id": "bambini",
+   "name": "Bambini e neonati",
+   "de": "Kinder und Babys",
+   "symbol": "👶",
+   "wendungen": [
+    "ba_01",
+    "ba_02",
+    "ba_03",
+    "ba_04",
+    "ba_05",
+    "ba_06",
+    "ba_07",
+    "ba_08",
+    "ba_09",
+    "ba_10",
+    "ba_11",
+    "ba_12",
+    "ba_13",
+    "ba_14",
+    "ba_15",
+    "ba_16",
+    "ba_17",
+    "ba_18",
+    "ba_19",
+    "ba_20",
+    "ba_21",
+    "ba_22",
+    "ba_23",
+    "ba_24"
+   ]
   }
  ],
  "wendungen": [
@@ -4069,6 +4101,531 @@ window.SPRACHEN["it-de"] = {
     "de": "Guten Tag, ich hätte gern ein Brötchen, bitte. Nicht zu dunkel.",
     "luecke": "vorrei",
     "audio": "audio/it-de/saetze/ma_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_01",
+   "thema": "bambini",
+   "fr": "dormire tutta la notte",
+   "de": "durchschlafen",
+   "register": "tu",
+   "anker": "dormire",
+   "notiz": "wörtlich „die ganze Nacht schlafen“ – kein eigenes Wort für durchschlafen (auch: fare le notti intere, dormire di filato). lei, non ancora = betontes Pronomen.",
+   "audio": null,
+   "satz": {
+    "fr": "Il bambino della mia collega dorme tutta la notte. Lei, non ancora.",
+    "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
+    "luecke": "dorme tutta la notte",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Il bambino ha dormito tutta la notte.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Il bambino dormirà tutta la notte. Un giorno.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_02",
+   "thema": "bambini",
+   "fr": "un peluche",
+   "de": "ein Kuscheltier",
+   "register": "tu",
+   "anker": "dormire",
+   "notiz": "il peluche = Kuscheltier (aus dem Französischen, unveränderlich: i peluche); auch: il pupazzo. soprattutto = vor allem (doppeltes t!).",
+   "audio": null,
+   "satz": {
+    "fr": "Senza il suo peluche, impossibile dormire. Parlo del bambino. Beh, soprattutto.",
+    "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
+    "luecke": "peluche",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_03",
+   "thema": "bambini",
+   "fr": "combinare guai",
+   "de": "Unsinn anstellen",
+   "register": "tu",
+   "anker": "combinare",
+   "notiz": "siehe I gatti: il guaio = Ärger; auch: fare marachelle (Streiche). il mestiere = Beruf, Handwerk; il mio = meiner (Possessivpronomen mit Artikel).",
+   "audio": null,
+   "satz": {
+    "fr": "I bambini combinano guai. È il loro mestiere. Il mio è sorridere.",
+    "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
+    "luecke": "combinano guai",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hanno combinato guai tutta la mattina.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Combineranno guai, sicuro.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_04",
+   "thema": "bambini",
+   "fr": "prendere in braccio",
+   "de": "in den Arm nehmen",
+   "register": "tu",
+   "anker": "prendere",
+   "notiz": "wörtlich „in Arm nehmen“ (Singular! in braccio, ohne Artikel); tenere in braccio = auf dem Arm halten. lo si prende = man nimmt es (lo + si).",
+   "audio": null,
+   "satz": {
+    "fr": "Quando un bambino piange, lo si prende in braccio. È l'unica regola.",
+    "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
+    "luecke": "prende in braccio",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "L'ho preso in braccio.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Lo prenderò in braccio.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_05",
+   "thema": "bambini",
+   "fr": "un neonato",
+   "de": "ein Neugeborenes, Baby",
+   "register": "tu",
+   "anker": "dire",
+   "notiz": "il neonato = Neugeborenes (neo + nato = neu geboren); il bambino = Kind, Baby; il bebè geht auch. dice tutto = sagt alles.",
+   "audio": null,
+   "satz": {
+    "fr": "Un neonato non parla, ma dice tutto.",
+    "de": "Ein Baby spricht nicht, aber es sagt alles.",
+    "luecke": "neonato",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_06",
+   "thema": "bambini",
+   "fr": "fare un sorriso",
+   "de": "lächeln (jemanden anlächeln)",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "fare un sorriso a qualcuno = jemanden anlächeln; sorridere = lächeln; il sorriso = das Lächeln. salvo = gerettet, sicher. la giornata = der Tag (Verlauf).",
+   "audio": null,
+   "satz": {
+    "fr": "Il bambino mi ha fatto un sorriso. La giornata era salva.",
+    "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
+    "luecke": "mi ha fatto un sorriso",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Il bambino mi ha fatto un sorriso.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Il bambino mi farà un sorriso. Sto aspettando.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_07",
+   "thema": "bambini",
+   "fr": "crescere",
+   "de": "wachsen, groß werden",
+   "register": "tu",
+   "anker": "crescere",
+   "notiz": "crescere = wachsen, Partizip cresciuto, mit essere; in fretta = schnell, eilig (la fretta = Eile); invece = dagegen, hingegen; restare = bleiben.",
+   "audio": null,
+   "satz": {
+    "fr": "I bambini crescono troppo in fretta. I compiti, invece, restano.",
+    "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
+    "luecke": "crescono",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sono cresciuti durante le vacanze.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Cresceranno, e io invecchierò.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_08",
+   "thema": "bambini",
+   "fr": "fare fatica ad addormentarsi",
+   "de": "schlecht einschlafen",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "fare fatica a → ad vor Vokal (ad addormentarsi); addormentarsi = einschlafen (dormire = schlafen). più piano = leiser (piano = leise, langsam).",
+   "audio": null,
+   "satz": {
+    "fr": "Il piccolo fa fatica ad addormentarsi. Allora canto. Funziona. Piange più piano.",
+    "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
+    "luecke": "fa fatica ad addormentarsi",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ha fatto fatica ad addormentarsi.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Farà fatica ad addormentarsi.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_09",
+   "thema": "bambini",
+   "fr": "un pannolino",
+   "de": "eine Windel",
+   "register": "tu",
+   "anker": "cambiare",
+   "notiz": "il pannolino = Windel (il panno = Tuch + -lino = klein); cambiare il pannolino = wickeln. questa sì che è = das ist wirklich (Verstärkung).",
+   "audio": null,
+   "satz": {
+    "fr": "Cambiare un pannolino in tre minuti: questa sì che è una vera sequenza di kung fu.",
+    "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
+    "luecke": "pannolino",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_10",
+   "thema": "bambini",
+   "fr": "fare il bravo",
+   "de": "brav sein",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "wörtlich „den Braven machen“; fai il bravo / fai la brava (an ein Mädchen); bravo = brav und tüchtig, gut (bravo! = gut gemacht). la lavatrice = Waschmaschine.",
+   "audio": null,
+   "satz": {
+    "fr": "« Fai il bravo! » – « Faccio il bravo. » – « E perché il gatto è nella lavatrice? »",
+    "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
+    "luecke": "Fai il bravo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_11",
+   "thema": "bambini",
+   "fr": "giocare a nascondino",
+   "de": "Verstecken spielen",
+   "register": "tu",
+   "anker": "giocare",
+   "notiz": "giocare a + Spiel (giocare a calcio, a carte); il nascondino = Versteckspiel (nascondersi); la tenda = Vorhang und Zelt. fuori = draußen.",
+   "audio": null,
+   "satz": {
+    "fr": "Giochiamo a nascondino. Si nasconde sempre dietro la tenda. Con i piedi fuori.",
+    "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
+    "luecke": "Giochiamo a nascondino",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Abbiamo giocato a nascondino tutto il pomeriggio.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Giocheremo a nascondino dopo la merenda.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_12",
+   "thema": "bambini",
+   "fr": "raccontare una favola",
+   "de": "eine Gute-Nacht-Geschichte erzählen",
+   "register": "tu",
+   "anker": "raccontare",
+   "notiz": "la favola della buonanotte = Gute-Nacht-Geschichte; per farlo addormentare = damit er einschläft (fare + Infinitiv). dormo io = ich bin der, der schläft (io nachgestellt).",
+   "audio": null,
+   "satz": {
+    "fr": "Racconto una favola per farlo addormentare. Dopo tre pagine, dormo io.",
+    "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
+    "luecke": "Racconto una favola",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho raccontato una favola.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Racconterò una favola.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_13",
+   "thema": "bambini",
+   "fr": "piangere",
+   "de": "weinen",
+   "register": "tu",
+   "anker": "piangere",
+   "notiz": "piangere = weinen, Partizip pianto; ridere = lachen, Partizip riso. Nicht verwechseln: piangere (weinen) – piovere (regnen).",
+   "audio": null,
+   "satz": {
+    "fr": "Il bambino piange. Poi ride. Poi piange. È un concerto.",
+    "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
+    "luecke": "piange",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Il bambino ha pianto tutta la notte.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Il bambino piangerà, e io canterò.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_14",
+   "thema": "bambini",
+   "fr": "un abbraccio",
+   "de": "eine Umarmung",
+   "register": "tu",
+   "anker": "cominciare",
+   "notiz": "il braccio = Arm → l'abbraccio = Umarmung (abbracciare = umarmen); „un abbraccio“ auch als Briefschluss. tutti e due = beide.",
+   "audio": null,
+   "satz": {
+    "fr": "Un abbraccio prima della scuola, e la giornata comincia bene. Per tutti e due.",
+    "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
+    "luecke": "abbraccio",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_15",
+   "thema": "bambini",
+   "fr": "imparare a camminare",
+   "de": "laufen lernen",
+   "register": "tu",
+   "anker": "imparare",
+   "notiz": "imparare a + Infinitiv; camminare = gehen, laufen (zu Fuß), correre = rennen. il passo = Schritt; la caduta = Sturz; la risata = das Lachen.",
+   "audio": null,
+   "satz": {
+    "fr": "Impara a camminare. Tre passi, una caduta, una risata. La vita in miniatura.",
+    "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
+    "luecke": "Impara a camminare",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ha imparato a camminare quest'estate.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Imparerà a camminare presto.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_16",
+   "thema": "bambini",
+   "fr": "essere fiero di",
+   "de": "stolz sein auf",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "fiero / fiera = stolz; essere fiero di (nicht „auf“!) – di + i = dei; auch: orgoglioso di. la fierezza, l'orgoglio = der Stolz.",
+   "audio": null,
+   "satz": {
+    "fr": "Sono fiero dei miei alunni. Soprattutto quando non lo sanno.",
+    "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
+    "luecke": "fiero dei",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_17",
+   "thema": "bambini",
+   "fr": "le prime parole",
+   "de": "die ersten Wörter",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "la parola = Wort; le prime parole (weiblich Plural: prime). in quest'ordine = in dieser Reihenfolge (questo verkürzt vor Vokal). papà mit Akzent (ohne = der Papst!).",
+   "audio": null,
+   "satz": {
+    "fr": "Le sue prime parole: « papà », « gatto », « no ». In quest'ordine.",
+    "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
+    "luecke": "prime parole",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_18",
+   "thema": "bambini",
+   "fr": "avere pazienza",
+   "de": "Geduld haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "bisogna + Infinitiv = man muss; ne ho = ich habe welche (ne = davon); pazienza! = was soll's (sehr häufig). finire = enden, mit -isc-: finisce.",
+   "audio": null,
+   "satz": {
+    "fr": "Con i bambini bisogna avere pazienza. Ne ho. Finisce alle cinque.",
+    "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
+    "luecke": "avere pazienza",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ho avuto pazienza tutto il giorno.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Avrò pazienza. Fino a mezzogiorno.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_19",
+   "thema": "bambini",
+   "fr": "la merenda",
+   "de": "der Nachmittagssnack",
+   "register": "tu",
+   "anker": "esserci",
+   "notiz": "la merenda = Nachmittagssnack (fare merenda), feste Einrichtung für Kinder in Italien (pane e Nutella, pane e pomodoro). per solidarietà = aus Solidarität.",
+   "audio": null,
+   "satz": {
+    "fr": "Alle quattro c'è la merenda. Per i bambini. E per me, per solidarietà.",
+    "de": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
+    "luecke": "merenda",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_20",
+   "thema": "bambini",
+   "fr": "ridere a crepapelle",
+   "de": "schallend lachen",
+   "register": "tu",
+   "anker": "ridere",
+   "notiz": "wörtlich „lachen, bis die Haut platzt“ (crepare = platzen, la pelle = Haut); auch: ridere a più non posso. starnutire = niesen; in effetti = tatsächlich, übrigens.",
+   "audio": null,
+   "satz": {
+    "fr": "Il bambino ride a crepapelle quando il gatto starnutisce. Anch'io, in effetti.",
+    "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
+    "luecke": "ride a crepapelle",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Il bambino ha riso a crepapelle.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Il bambino riderà a crepapelle.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_21",
+   "thema": "bambini",
+   "fr": "fare il riposino",
+   "de": "Mittagsschlaf halten",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "il riposino = kleines Ausruhen (il riposo = Ruhe + -ino); auch: fare un pisolino, la pennichella (römisch). i piccoli / i grandi = die Kleinen / die Großen.",
+   "audio": null,
+   "satz": {
+    "fr": "I piccoli fanno il riposino. I grandi anche, in segreto.",
+    "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
+    "luecke": "fanno il riposino",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "I piccoli hanno fatto il riposino.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "I piccoli faranno il riposino.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ba_22",
+   "thema": "bambini",
+   "fr": "avere paura del buio",
+   "de": "Angst im Dunkeln haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "il buio = die Dunkelheit (buio = dunkel); avere paura di + il = del. lasciare aperto = offen lassen; di guardia = auf Wache (essere di guardia = Bereitschaft haben).",
+   "audio": null,
+   "satz": {
+    "fr": "Ha paura del buio. Allora lasciamo la porta aperta. E il gatto di guardia.",
+    "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
+    "luecke": "Ha paura del buio",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_23",
+   "thema": "bambini",
+   "fr": "è l'ora del bagnetto",
+   "de": "es ist Badezeit",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "il bagnetto = Babybad (il bagno = Bad, Badezimmer + -etto); fare il bagno = baden; bagnato = nass (bagnare = nass machen). anche quelli che = auch die, die.",
+   "audio": null,
+   "satz": {
+    "fr": "È l'ora del bagnetto! Sono tutti bagnati. Anche quelli che non fanno il bagno.",
+    "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
+    "luecke": "l'ora del bagnetto",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ba_24",
+   "thema": "bambini",
+   "fr": "Quanti anni ha suo figlio?",
+   "de": "Wie alt ist Ihr Kind? (höflich)",
+   "register": "vous",
+   "anker": "avere",
+   "notiz": "Alter mit avere: ha due anni; quanti anni ha? = wie alt ist er / sind Sie (Lei). suo figlio = Ihr Sohn (Lei-Form, oft Suo groß). il dente, Plural i denti.",
+   "audio": null,
+   "satz": {
+    "fr": "È adorabile. Quanti anni ha suo figlio? – Quattordici mesi. E quattro denti.",
+    "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
+    "luecke": "Quanti anni ha suo figlio",
+    "audio": null
    },
    "zeit": null
   }

@@ -21,6 +21,7 @@ THEMEN = [
     {"id": "storie", "name": "Storie e fantasia", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "storie.tsv"},
     {"id": "sport", "name": "Sport e kung fu", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "sport.tsv"},
     {"id": "mangiare", "name": "Mangiare e vivere bene", "de": "Essen und gut leben", "symbol": "🍝", "datei": "mangiare.tsv"},
+    {"id": "bambini", "name": "Bambini e neonati", "de": "Kinder und Babys", "symbol": "👶", "datei": "bambini.tsv"},
 ]
 
 # Titel – Leiter der Leckereien
