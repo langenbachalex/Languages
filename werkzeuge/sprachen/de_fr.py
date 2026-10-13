@@ -47,7 +47,31 @@ GESCHICHTE = {"titel": "Das Geheimnis der Völklinger Hütte",
               "sammlung": ["Chaque semaine parfaite débloque un chapitre : Lena Becker, professeure à Sarrebruck, et le mystère de l'usine de Völklingen.",
                            "Jede perfekte Woche schaltet ein Kapitel frei: Lena Becker, Lehrerin in Saarbrücken, und das Geheimnis der Völklinger Hütte."]}
 
-AUSSPRACHE = None   # später, optional (ch · ü · ö)
+# Aussprache « Die schweren Laute » – für Französischsprachige: h, ich-Laut, ach-Laut, ei/ie, Vokallänge
+AUSSPRACHE = {
+    "id": "laute", "symbol": "👄", "titel": "Die schweren Laute",
+    "unter": "h · ich · ach · ei · ie – écouter, distinguer, plusieurs dans un mot",
+    "datei": "laute.tsv",
+    "klaenge": {"h": ["[h]", "h", "un souffle, comme pour embuer un miroir – jamais muet", "ein Hauch, nie stumm (Hund, Haus)"],
+                "ich": ["[ç]", "ch après i, e, ä, ö, ü, l, n, r", "comme le « ch » de « ich » : la langue près du palais, un chuchotement", "der ich-Laut: Zunge am Gaumen (ich, Milch)"],
+                "ach": ["[x]", "ch après a, o, u, au", "comme la « jota » espagnole, au fond de la gorge", "der ach-Laut: hinten im Rachen (Nacht, Buch)"],
+                "ei": ["[aɪ]", "ei · ai", "se prononce « aïe » – jamais « è »", "wie „ai“ (Zeit, mein)"],
+                "ie": ["[iː]", "ie", "un « i » long – jamais « ié »", "ein langes i (Liebe, vier)"],
+                "kein": ["[–]", "sans h", "pas de souffle au début", "ohne h (und, aus)"],
+                "kurz": ["[ˑ]", "voyelle brève", "voyelle courte, souvent devant deux consonnes", "kurzer Vokal (Stadt, Mitte)"],
+                "lang": ["[ː]", "voyelle longue", "voyelle longue, souvent devant une consonne ou avec h", "langer Vokal (Staat, Miete)"]},
+    "reihe": ["h", "ich", "ach", "ei", "ie"],
+    "paare": [["p1", "h ou pas h ?"], ["p2", "ie ou ei ?"], ["p3", "brève ou longue ?"]],
+    "beide_name": "👑 Plusieurs à la fois",
+    "texte": {
+        "beide": ["Plusieurs sons difficiles dans un mot. Écoute lentement, puis à vitesse normale – et répète en soignant chaque son.",
+                  "Mehrere schwere Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."],
+        "klang": ["{laut} – {tipp}. Écoute lentement, puis normal. Répète !", "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"],
+        "paar": ["Écoute le mot. Lequel est-ce ? Touche le bon.", "Hör das Wort. Welches ist es? Tipp auf das richtige."],
+        "hilfe": ["Je t'aide : {a}. Écoute encore !", "Ich helfe dir: {a}. Hör noch mal!"],
+        "beide_hoeren": ["Plus facile : écouter les deux", "Noch einfacher: beide hören"],
+    },
+}
 
 # Karte: Deutschland mit Landkreisen (deutschlandGeoJSON / DIVA-GIS, nicht-kommerziell, Stand etwa 2010)
 KARTE = {"name": "L'Allemagne", "einheit": "Landkreise", "lieux": "lieux", "start": "Saarbrücken",

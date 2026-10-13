@@ -24,9 +24,9 @@ Stand: 13.10.2026. Für **Aurélien** (und andere französischsprachige Lerner).
 | 8 | **Kinder und Babys** | *durchschlafen, ein Kuscheltier, Unsinn anstellen, in den Arm nehmen, ein Baby, anlächeln, groß werden, schlecht einschlafen, eine Windel, brav sein, Verstecken spielen, eine Gute-Nacht-Geschichte, weinen, eine Umarmung, laufen lernen, stolz sein auf, die ersten Wörter, Geduld haben, der Nachmittagssnack, schallend lachen, Mittagsschlaf, Angst im Dunkeln, Badezeit, Wie alt ist Ihr Kind?* |
 | ⚡ | **Falsche Freunde** – gegen Französisch | *das Gymnasium (≠ gymnase), die Rente (≠ rente), die Figur (≠ figure), das Baiser (≠ baiser), die Garderobe, der Chef (≠ chef), das Regal (≠ régal), die Gift (≠ gift), das Blatt, brav (≠ brave), der Rat (≠ rat), das Fest (≠ fête), die Tasse (≠ tasse = Becher), der Salon, das Dessert, sensibel (≠ sensible), das Fach, die Note (≠ note), die Konkurrenz, die Direktion, die Mappe, die Promotion, die Prise, der Stock* |
 
-## 3. Aussprache-Teil
+## 3. Aussprache-Teil: « Die schweren Laute »
 
-Noch offen; Kandidat: **ch** (ich-Laut und ach-Laut) oder **ü / ö**. Entfällt sonst wie bei Italienisch.
+Für Französischsprachige (Mr. Alex, 13.10.2026): **h** (nie stumm), **ich-Laut** [ç], **ach-Laut** [x], **ei** [aɪ], **ie** [iː] – je 8 Wörter; Minimalpaare « h ou pas h ? » (Hund/und …), « ie ou ei ? » (Biene/Beine …), « brève ou longue ? » (Stadt/Staat …); 👑 mehrere Laute in einem Wort (Eichhörnchen, heimlich, hoch, einfach, hier, niedlich, herrlich, Freiheit). Daten `laute.tsv`.
 
 ## 4. Spiel
 

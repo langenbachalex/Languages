@@ -5244,18 +5244,860 @@ window.SPRACHEN["de-fr"] = {
   "Dialoge mit Alex"
  ],
  "aussprache": {
-  "id": "",
-  "symbol": "",
-  "titel": "",
-  "unter": "",
-  "info": {},
-  "reihe": [],
-  "paare_gruppen": [],
-  "beide_name": "",
-  "texte": {},
-  "klaenge": {},
-  "paare": [],
-  "beide": []
+  "id": "laute",
+  "symbol": "👄",
+  "titel": "Die schweren Laute",
+  "unter": "h · ich · ach · ei · ie – écouter, distinguer, plusieurs dans un mot",
+  "info": {
+   "h": [
+    "[h]",
+    "h",
+    "un souffle, comme pour embuer un miroir – jamais muet",
+    "ein Hauch, nie stumm (Hund, Haus)"
+   ],
+   "ich": [
+    "[ç]",
+    "ch après i, e, ä, ö, ü, l, n, r",
+    "comme le « ch » de « ich » : la langue près du palais, un chuchotement",
+    "der ich-Laut: Zunge am Gaumen (ich, Milch)"
+   ],
+   "ach": [
+    "[x]",
+    "ch après a, o, u, au",
+    "comme la « jota » espagnole, au fond de la gorge",
+    "der ach-Laut: hinten im Rachen (Nacht, Buch)"
+   ],
+   "ei": [
+    "[aɪ]",
+    "ei · ai",
+    "se prononce « aïe » – jamais « è »",
+    "wie „ai“ (Zeit, mein)"
+   ],
+   "ie": [
+    "[iː]",
+    "ie",
+    "un « i » long – jamais « ié »",
+    "ein langes i (Liebe, vier)"
+   ],
+   "kein": [
+    "[–]",
+    "sans h",
+    "pas de souffle au début",
+    "ohne h (und, aus)"
+   ],
+   "kurz": [
+    "[ˑ]",
+    "voyelle brève",
+    "voyelle courte, souvent devant deux consonnes",
+    "kurzer Vokal (Stadt, Mitte)"
+   ],
+   "lang": [
+    "[ː]",
+    "voyelle longue",
+    "voyelle longue, souvent devant une consonne ou avec h",
+    "langer Vokal (Staat, Miete)"
+   ]
+  },
+  "reihe": [
+   "h",
+   "ich",
+   "ach",
+   "ei",
+   "ie"
+  ],
+  "paare_gruppen": [
+   [
+    "p1",
+    "h ou pas h ?"
+   ],
+   [
+    "p2",
+    "ie ou ei ?"
+   ],
+   [
+    "p3",
+    "brève ou longue ?"
+   ]
+  ],
+  "beide_name": "👑 Plusieurs à la fois",
+  "texte": {
+   "beide": [
+    "Plusieurs sons difficiles dans un mot. Écoute lentement, puis à vitesse normale – et répète en soignant chaque son.",
+    "Mehrere schwere Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."
+   ],
+   "klang": [
+    "{laut} – {tipp}. Écoute lentement, puis normal. Répète !",
+    "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"
+   ],
+   "paar": [
+    "Écoute le mot. Lequel est-ce ? Touche le bon.",
+    "Hör das Wort. Welches ist es? Tipp auf das richtige."
+   ],
+   "hilfe": [
+    "Je t'aide : {a}. Écoute encore !",
+    "Ich helfe dir: {a}. Hör noch mal!"
+   ],
+   "beide_hoeren": [
+    "Plus facile : écouter les deux",
+    "Noch einfacher: beide hören"
+   ]
+  },
+  "klaenge": {
+   "h": [
+    {
+     "id": "h_01",
+     "wort": "Hund",
+     "de": "chien",
+     "klang": "h",
+     "audio": null
+    },
+    {
+     "id": "h_02",
+     "wort": "Haus",
+     "de": "maison",
+     "klang": "h",
+     "audio": null
+    },
+    {
+     "id": "h_03",
+     "wort": "hier",
+     "de": "ici",
+     "klang": "h",
+     "audio": null
+    },
+    {
+     "id": "h_04",
+     "wort": "Hand",
+     "de": "main",
+     "klang": "h",
+     "audio": null
+    },
+    {
+     "id": "h_05",
+     "wort": "haben",
+     "de": "avoir",
+     "klang": "h",
+     "audio": null
+    },
+    {
+     "id": "h_06",
+     "wort": "Hallo",
+     "de": "salut",
+     "klang": "h",
+     "audio": null
+    },
+    {
+     "id": "h_07",
+     "wort": "Herz",
+     "de": "cœur",
+     "klang": "h",
+     "audio": null
+    },
+    {
+     "id": "h_08",
+     "wort": "hoffen",
+     "de": "espérer",
+     "klang": "h",
+     "audio": null
+    }
+   ],
+   "ich": [
+    {
+     "id": "ich_01",
+     "wort": "ich",
+     "de": "je",
+     "klang": "ich",
+     "audio": null
+    },
+    {
+     "id": "ich_02",
+     "wort": "nicht",
+     "de": "ne … pas",
+     "klang": "ich",
+     "audio": null
+    },
+    {
+     "id": "ich_03",
+     "wort": "Milch",
+     "de": "lait",
+     "klang": "ich",
+     "audio": null
+    },
+    {
+     "id": "ich_04",
+     "wort": "Küche",
+     "de": "cuisine",
+     "klang": "ich",
+     "audio": null
+    },
+    {
+     "id": "ich_05",
+     "wort": "richtig",
+     "de": "juste, correct",
+     "klang": "ich",
+     "audio": null
+    },
+    {
+     "id": "ich_06",
+     "wort": "Bücher",
+     "de": "livres",
+     "klang": "ich",
+     "audio": null
+    },
+    {
+     "id": "ich_07",
+     "wort": "Kirche",
+     "de": "église",
+     "klang": "ich",
+     "audio": null
+    },
+    {
+     "id": "ich_08",
+     "wort": "Mädchen",
+     "de": "fille",
+     "klang": "ich",
+     "audio": null
+    }
+   ],
+   "ach": [
+    {
+     "id": "ach_01",
+     "wort": "Nacht",
+     "de": "nuit",
+     "klang": "ach",
+     "audio": null
+    },
+    {
+     "id": "ach_02",
+     "wort": "Buch",
+     "de": "livre",
+     "klang": "ach",
+     "audio": null
+    },
+    {
+     "id": "ach_03",
+     "wort": "Bach",
+     "de": "ruisseau",
+     "klang": "ach",
+     "audio": null
+    },
+    {
+     "id": "ach_04",
+     "wort": "machen",
+     "de": "faire",
+     "klang": "ach",
+     "audio": null
+    },
+    {
+     "id": "ach_05",
+     "wort": "Koch",
+     "de": "cuisinier",
+     "klang": "ach",
+     "audio": null
+    },
+    {
+     "id": "ach_06",
+     "wort": "auch",
+     "de": "aussi",
+     "klang": "ach",
+     "audio": null
+    },
+    {
+     "id": "ach_07",
+     "wort": "Kuchen",
+     "de": "gâteau",
+     "klang": "ach",
+     "audio": null
+    },
+    {
+     "id": "ach_08",
+     "wort": "lachen",
+     "de": "rire",
+     "klang": "ach",
+     "audio": null
+    }
+   ],
+   "ei": [
+    {
+     "id": "ei_01",
+     "wort": "Zeit",
+     "de": "temps",
+     "klang": "ei",
+     "audio": null
+    },
+    {
+     "id": "ei_02",
+     "wort": "mein",
+     "de": "mon",
+     "klang": "ei",
+     "audio": null
+    },
+    {
+     "id": "ei_03",
+     "wort": "Eis",
+     "de": "glace",
+     "klang": "ei",
+     "audio": null
+    },
+    {
+     "id": "ei_04",
+     "wort": "klein",
+     "de": "petit",
+     "klang": "ei",
+     "audio": null
+    },
+    {
+     "id": "ei_05",
+     "wort": "Wein",
+     "de": "vin",
+     "klang": "ei",
+     "audio": null
+    },
+    {
+     "id": "ei_06",
+     "wort": "Arbeit",
+     "de": "travail",
+     "klang": "ei",
+     "audio": null
+    },
+    {
+     "id": "ei_07",
+     "wort": "Freitag",
+     "de": "vendredi",
+     "klang": "ei",
+     "audio": null
+    },
+    {
+     "id": "ei_08",
+     "wort": "drei",
+     "de": "trois",
+     "klang": "ei",
+     "audio": null
+    }
+   ],
+   "ie": [
+    {
+     "id": "ie_01",
+     "wort": "Liebe",
+     "de": "amour",
+     "klang": "ie",
+     "audio": null
+    },
+    {
+     "id": "ie_02",
+     "wort": "vier",
+     "de": "quatre",
+     "klang": "ie",
+     "audio": null
+    },
+    {
+     "id": "ie_03",
+     "wort": "Spiel",
+     "de": "jeu",
+     "klang": "ie",
+     "audio": null
+    },
+    {
+     "id": "ie_04",
+     "wort": "Brief",
+     "de": "lettre",
+     "klang": "ie",
+     "audio": null
+    },
+    {
+     "id": "ie_05",
+     "wort": "Bier",
+     "de": "bière",
+     "klang": "ie",
+     "audio": null
+    },
+    {
+     "id": "ie_06",
+     "wort": "Ziel",
+     "de": "but, objectif",
+     "klang": "ie",
+     "audio": null
+    },
+    {
+     "id": "ie_07",
+     "wort": "Dienstag",
+     "de": "mardi",
+     "klang": "ie",
+     "audio": null
+    },
+    {
+     "id": "ie_08",
+     "wort": "sieben",
+     "de": "sept",
+     "klang": "ie",
+     "audio": null
+    }
+   ]
+  },
+  "paare": [
+   {
+    "id": "p1_01a",
+    "wort": "Hund",
+    "de": "chien",
+    "klang": "h",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_01b",
+     "wort": "und",
+     "de": "et",
+     "klang": "kein",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_02a",
+    "wort": "Haus",
+    "de": "maison",
+    "klang": "h",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_02b",
+     "wort": "aus",
+     "de": "de, hors de",
+     "klang": "kein",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_03a",
+    "wort": "hier",
+    "de": "ici",
+    "klang": "h",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_03b",
+     "wort": "ihr",
+     "de": "vous, son",
+     "klang": "kein",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_04a",
+    "wort": "Hals",
+    "de": "cou",
+    "klang": "h",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_04b",
+     "wort": "als",
+     "de": "que, quand",
+     "klang": "kein",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_05a",
+    "wort": "Hecke",
+    "de": "haie",
+    "klang": "h",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_05b",
+     "wort": "Ecke",
+     "de": "coin",
+     "klang": "kein",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_06a",
+    "wort": "halt",
+    "de": "arrête",
+    "klang": "h",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_06b",
+     "wort": "alt",
+     "de": "vieux",
+     "klang": "kein",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_07a",
+    "wort": "hoffen",
+    "de": "espérer",
+    "klang": "h",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_07b",
+     "wort": "offen",
+     "de": "ouvert",
+     "klang": "kein",
+     "audio": null
+    }
+   },
+   {
+    "id": "p1_08a",
+    "wort": "Herz",
+    "de": "cœur",
+    "klang": "h",
+    "audio": null,
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_08b",
+     "wort": "Erz",
+     "de": "minerai",
+     "klang": "kein",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_01a",
+    "wort": "Biene",
+    "de": "abeille",
+    "klang": "ie",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_01b",
+     "wort": "Beine",
+     "de": "jambes",
+     "klang": "ei",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_02a",
+    "wort": "Wiese",
+    "de": "prairie",
+    "klang": "ie",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_02b",
+     "wort": "Weise",
+     "de": "manière, sage",
+     "klang": "ei",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_03a",
+    "wort": "Lied",
+    "de": "chanson",
+    "klang": "ie",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_03b",
+     "wort": "Leid",
+     "de": "peine",
+     "klang": "ei",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_04a",
+    "wort": "Riese",
+    "de": "géant",
+    "klang": "ie",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_04b",
+     "wort": "Reise",
+     "de": "voyage",
+     "klang": "ei",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_05a",
+    "wort": "Miene",
+    "de": "mine (visage)",
+    "klang": "ie",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_05b",
+     "wort": "meine",
+     "de": "ma, mes",
+     "klang": "ei",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_06a",
+    "wort": "schien",
+    "de": "semblait",
+    "klang": "ie",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_06b",
+     "wort": "Schein",
+     "de": "lueur, billet",
+     "klang": "ei",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_07a",
+    "wort": "Lieder",
+    "de": "chansons",
+    "klang": "ie",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_07b",
+     "wort": "leider",
+     "de": "malheureusement",
+     "klang": "ei",
+     "audio": null
+    }
+   },
+   {
+    "id": "p2_08a",
+    "wort": "Stiel",
+    "de": "manche, tige",
+    "klang": "ie",
+    "audio": null,
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_08b",
+     "wort": "steil",
+     "de": "raide",
+     "klang": "ei",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_01a",
+    "wort": "Stadt",
+    "de": "ville",
+    "klang": "kurz",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_01b",
+     "wort": "Staat",
+     "de": "État",
+     "klang": "lang",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_02a",
+    "wort": "Bann",
+    "de": "bannissement",
+    "klang": "kurz",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_02b",
+     "wort": "Bahn",
+     "de": "train, voie",
+     "klang": "lang",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_03a",
+    "wort": "Hölle",
+    "de": "enfer",
+    "klang": "kurz",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_03b",
+     "wort": "Höhle",
+     "de": "grotte",
+     "klang": "lang",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_04a",
+    "wort": "offen",
+    "de": "ouvert",
+    "klang": "kurz",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_04b",
+     "wort": "Ofen",
+     "de": "four",
+     "klang": "lang",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_05a",
+    "wort": "Mitte",
+    "de": "milieu",
+    "klang": "kurz",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_05b",
+     "wort": "Miete",
+     "de": "loyer",
+     "klang": "lang",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_06a",
+    "wort": "Hütte",
+    "de": "cabane",
+    "klang": "kurz",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_06b",
+     "wort": "Hüte",
+     "de": "chapeaux",
+     "klang": "lang",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_07a",
+    "wort": "Kamm",
+    "de": "peigne",
+    "klang": "kurz",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_07b",
+     "wort": "kam",
+     "de": "venait",
+     "klang": "lang",
+     "audio": null
+    }
+   },
+   {
+    "id": "p3_08a",
+    "wort": "bitten",
+    "de": "demander",
+    "klang": "kurz",
+    "audio": null,
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_08b",
+     "wort": "bieten",
+     "de": "offrir",
+     "klang": "lang",
+     "audio": null
+    }
+   }
+  ],
+  "beide": [
+   {
+    "id": "b_01",
+    "wort": "Eichhörnchen",
+    "de": "écureuil",
+    "klang": "ei,ich,h,ich",
+    "audio": null,
+    "markup": "{ei|Ei}{ich|ch}{h|h}örn{ich|ch}en",
+    "klaenge": [
+     "ei",
+     "ich",
+     "h",
+     "ich"
+    ]
+   },
+   {
+    "id": "b_02",
+    "wort": "heimlich",
+    "de": "en cachette",
+    "klang": "h,ei,ich",
+    "audio": null,
+    "markup": "{h|h}{ei|ei}ml{ich|ich}",
+    "klaenge": [
+     "h",
+     "ei",
+     "ich"
+    ]
+   },
+   {
+    "id": "b_03",
+    "wort": "hoch",
+    "de": "haut",
+    "klang": "h,ach",
+    "audio": null,
+    "markup": "{h|h}o{ach|ch}",
+    "klaenge": [
+     "h",
+     "ach"
+    ]
+   },
+   {
+    "id": "b_04",
+    "wort": "einfach",
+    "de": "simple",
+    "klang": "ei,ach",
+    "audio": null,
+    "markup": "{ei|ei}nfa{ach|ch}",
+    "klaenge": [
+     "ei",
+     "ach"
+    ]
+   },
+   {
+    "id": "b_05",
+    "wort": "hier",
+    "de": "ici",
+    "klang": "h,ie",
+    "audio": null,
+    "markup": "{h|h}{ie|ie}r",
+    "klaenge": [
+     "h",
+     "ie"
+    ]
+   },
+   {
+    "id": "b_06",
+    "wort": "niedlich",
+    "de": "mignon",
+    "klang": "ie,ich",
+    "audio": null,
+    "markup": "n{ie|ie}dl{ich|ich}",
+    "klaenge": [
+     "ie",
+     "ich"
+    ]
+   },
+   {
+    "id": "b_07",
+    "wort": "herrlich",
+    "de": "magnifique",
+    "klang": "h,ich",
+    "audio": null,
+    "markup": "{h|h}errl{ich|ich}",
+    "klaenge": [
+     "h",
+     "ich"
+    ]
+   },
+   {
+    "id": "b_08",
+    "wort": "Freiheit",
+    "de": "liberté",
+    "klang": "ei,h,ei",
+    "audio": null,
+    "markup": "Fr{ei|ei}{h|h}{ei|ei}t",
+    "klaenge": [
+     "ei",
+     "h",
+     "ei"
+    ]
+   }
+  ]
  },
  "geschichte": [
   {

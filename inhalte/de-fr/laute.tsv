@@ -1,0 +1,97 @@
+id	teil	klang	wort	de	partner
+h_01	klang	h	Hund	chien	
+h_02	klang	h	Haus	maison	
+h_03	klang	h	hier	ici	
+h_04	klang	h	Hand	main	
+h_05	klang	h	haben	avoir	
+h_06	klang	h	Hallo	salut	
+h_07	klang	h	Herz	cœur	
+h_08	klang	h	hoffen	espérer	
+ich_01	klang	ich	ich	je	
+ich_02	klang	ich	nicht	ne … pas	
+ich_03	klang	ich	Milch	lait	
+ich_04	klang	ich	Küche	cuisine	
+ich_05	klang	ich	richtig	juste, correct	
+ich_06	klang	ich	Bücher	livres	
+ich_07	klang	ich	Kirche	église	
+ich_08	klang	ich	Mädchen	fille	
+ach_01	klang	ach	Nacht	nuit	
+ach_02	klang	ach	Buch	livre	
+ach_03	klang	ach	Bach	ruisseau	
+ach_04	klang	ach	machen	faire	
+ach_05	klang	ach	Koch	cuisinier	
+ach_06	klang	ach	auch	aussi	
+ach_07	klang	ach	Kuchen	gâteau	
+ach_08	klang	ach	lachen	rire	
+ei_01	klang	ei	Zeit	temps	
+ei_02	klang	ei	mein	mon	
+ei_03	klang	ei	Eis	glace	
+ei_04	klang	ei	klein	petit	
+ei_05	klang	ei	Wein	vin	
+ei_06	klang	ei	Arbeit	travail	
+ei_07	klang	ei	Freitag	vendredi	
+ei_08	klang	ei	drei	trois	
+ie_01	klang	ie	Liebe	amour	
+ie_02	klang	ie	vier	quatre	
+ie_03	klang	ie	Spiel	jeu	
+ie_04	klang	ie	Brief	lettre	
+ie_05	klang	ie	Bier	bière	
+ie_06	klang	ie	Ziel	but, objectif	
+ie_07	klang	ie	Dienstag	mardi	
+ie_08	klang	ie	sieben	sept	
+p1_01a	paar	h	Hund	chien	p1_01b
+p1_01b	paar	kein	und	et	p1_01a
+p1_02a	paar	h	Haus	maison	p1_02b
+p1_02b	paar	kein	aus	de, hors de	p1_02a
+p1_03a	paar	h	hier	ici	p1_03b
+p1_03b	paar	kein	ihr	vous, son	p1_03a
+p1_04a	paar	h	Hals	cou	p1_04b
+p1_04b	paar	kein	als	que, quand	p1_04a
+p1_05a	paar	h	Hecke	haie	p1_05b
+p1_05b	paar	kein	Ecke	coin	p1_05a
+p1_06a	paar	h	halt	arrête	p1_06b
+p1_06b	paar	kein	alt	vieux	p1_06a
+p1_07a	paar	h	hoffen	espérer	p1_07b
+p1_07b	paar	kein	offen	ouvert	p1_07a
+p1_08a	paar	h	Herz	cœur	p1_08b
+p1_08b	paar	kein	Erz	minerai	p1_08a
+p2_01a	paar	ie	Biene	abeille	p2_01b
+p2_01b	paar	ei	Beine	jambes	p2_01a
+p2_02a	paar	ie	Wiese	prairie	p2_02b
+p2_02b	paar	ei	Weise	manière, sage	p2_02a
+p2_03a	paar	ie	Lied	chanson	p2_03b
+p2_03b	paar	ei	Leid	peine	p2_03a
+p2_04a	paar	ie	Riese	géant	p2_04b
+p2_04b	paar	ei	Reise	voyage	p2_04a
+p2_05a	paar	ie	Miene	mine (visage)	p2_05b
+p2_05b	paar	ei	meine	ma, mes	p2_05a
+p2_06a	paar	ie	schien	semblait	p2_06b
+p2_06b	paar	ei	Schein	lueur, billet	p2_06a
+p2_07a	paar	ie	Lieder	chansons	p2_07b
+p2_07b	paar	ei	leider	malheureusement	p2_07a
+p2_08a	paar	ie	Stiel	manche, tige	p2_08b
+p2_08b	paar	ei	steil	raide	p2_08a
+p3_01a	paar	kurz	Stadt	ville	p3_01b
+p3_01b	paar	lang	Staat	État	p3_01a
+p3_02a	paar	kurz	Bann	bannissement	p3_02b
+p3_02b	paar	lang	Bahn	train, voie	p3_02a
+p3_03a	paar	kurz	Hölle	enfer	p3_03b
+p3_03b	paar	lang	Höhle	grotte	p3_03a
+p3_04a	paar	kurz	offen	ouvert	p3_04b
+p3_04b	paar	lang	Ofen	four	p3_04a
+p3_05a	paar	kurz	Mitte	milieu	p3_05b
+p3_05b	paar	lang	Miete	loyer	p3_05a
+p3_06a	paar	kurz	Hütte	cabane	p3_06b
+p3_06b	paar	lang	Hüte	chapeaux	p3_06a
+p3_07a	paar	kurz	Kamm	peigne	p3_07b
+p3_07b	paar	lang	kam	venait	p3_07a
+p3_08a	paar	kurz	bitten	demander	p3_08b
+p3_08b	paar	lang	bieten	offrir	p3_08a
+b_01	beide	ei,ich,h,ich	{ei|Ei}{ich|ch}{h|h}örn{ich|ch}en	écureuil
+b_02	beide	h,ei,ich	{h|h}{ei|ei}ml{ich|ich}	en cachette
+b_03	beide	h,ach	{h|h}o{ach|ch}	haut
+b_04	beide	ei,ach	{ei|ei}nfa{ach|ch}	simple
+b_05	beide	h,ie	{h|h}{ie|ie}r	ici
+b_06	beide	ie,ich	n{ie|ie}dl{ich|ich}	mignon
+b_07	beide	h,ich	{h|h}errl{ich|ich}	magnifique
+b_08	beide	ei,h,ei	Fr{ei|ei}{h|h}{ei|ei}t	liberté
