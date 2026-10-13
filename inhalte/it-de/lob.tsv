@@ -1,0 +1,85 @@
+id	art	text	gruppe
+lob_bravo	lob	Bravo!	bravo
+lob_bravissimo	lob	Bravissimo!	bravo
+lob_perfetto	lob	Perfetto!	perfetto
+lob_grande	lob	Grande!	grande
+lob_cosi	lob	Così si fa!	cosi
+lob_fenomeno	lob	Sei un fenomeno!	fenomeno
+lob_dai	lob	Dai!	dai
+lob_mitico	lob	Mitico!	mitico
+lob_forza	lob	Che forza!	forza
+lob_eccellente	lob	Eccellente!	eccellente
+lob_manuale	lob	Da manuale!	manuale
+lob_chapeau	lob	Chapeau!	chapeau
+lob_benissimo	lob	Benissimo!	bene
+lob_esatto	lob	Esatto!	esatto
+lob_ecco	lob	Ecco!	ecco
+lob_ottimo	lob	Ottimo!	ottimo
+lob_fantastico	lob	Fantastico!	fantastico
+lob_molto_bene	lob	Molto bene!	bene
+lob_che_bello	lob	Che bello!	bello
+lob_centrato	lob	Centrato!	centrato
+lob_al_primo	lob	Al primo colpo!	primo
+lob_impeccabile	lob	Impeccabile!	impeccabile
+lob_perfetto_cosi	lob	Perfetto così!	perfetto
+lob_da_dieci	lob	Da dieci!	dieci
+lob_che_livello	lob	Che livello!	livello
+lob_ben_detto	lob	Ben detto!	detto
+lob_senza_errori	lob	Senza errori!	errori
+lob_che_accento	lob	Che accento!	accento
+lob_italiano_vero	lob	Questo sì che è italiano!	italiano
+lob_bolognese	lob	Come un bolognese!	bolognese
+lob_orecchio	lob	Hai orecchio!	orecchio
+lob_meraviglia	lob	Suona una meraviglia!	meraviglia
+lob_adoro	lob	Lo adoro!	adoro
+lob_migliori	lob	Stai migliorando!	migliori
+lob_altro_punto	lob	Un altro punto!	punto
+lob_spacchi	lob	Spacchi!	spacchi
+lob_macchina	lob	Sei una macchina!	macchina
+lob_prendi	lob	Prendi questo!	prendi
+lob_eccolo	lob	Eccolo!	ecco
+lob_senza_dubbio	lob	Senza dubbio!	dubbio
+lob_corretto	lob	Corretto!	corretto
+lob_giusto	lob	Giusto!	giusto
+lob_da_libro	lob	Da libro!	libro
+lob_professore	lob	Molto bene, signor professore!	professore
+lob_che_buono	lob	Che bravo!	bravo
+lob_eh_si	lob	Eh sì!	si
+lob_pazzesco	lob	Pazzesco!	pazzesco
+lob_che_figo	lob	Che figo!	figo
+lob_complimenti	lob	Complimenti!	complimenti
+lob_ben_fatto	lob	Ben fatto!	fatto
+lob_wow	lob	Wow!	wow
+lob_continua	lob	Continua così!	continua
+lob_ce_lhai	lob	Ce l'hai fatta!	fatta
+lob_da_oscar	lob	Da Oscar!	oscar
+lob_che_spettacolo	lob	Che spettacolo!	spettacolo
+stark_campione	stark	Bravo, campione!	campione
+stark_serie	stark	Incredibile! Sei in serie!	serie
+stark_fiero	stark	Sono fiero di te!	fiero
+stark_continua	stark	Stupendo! Continua così!	continua
+stark_macchina	stark	Sei una macchina da guerra!	macchina
+stark_stella	stark	Sei una stella!	stella
+stark_impressionante	stark	Impressionante!	impressionante
+stark_facile	stark	Lo fai sembrare facile!	facile
+stark_volevo	stark	Proprio quello che volevo sentire!	sentire
+stark_voli	stark	Oggi voli!	voli
+stark_centro	stark	In pieno centro!	centro
+stark_prestazione	stark	Che prestazione!	prestazione
+stark_spacchi	stark	Spacchi tutto!	spacchi
+stark_livello	stark	Che livello, però!	livello
+fehler_quasi	fehler	Quasi!	quasi
+fehler_non_proprio	fehler	Non proprio.	proprio
+fehler_riprova	fehler	Riprova!	riprova
+fehler_non_fa_niente	fehler	Non fa niente!	niente
+fehler_ahi	fehler	Ahi!	ahi
+fehler_hmm	fehler	Hmm…	hmm
+fehler_vicino	fehler	Vicino!	vicino
+fehler_quasi_quasi	fehler	Quasi, quasi!	quasi
+fehler_stavolta_no	fehler	Stavolta no!	stavolta
+fehler_ricominciamo	fehler	Non fa niente, ricominciamo!	niente
+geschafft_finito	geschafft	Finito per oggi! Chapeau!	finito
+geschafft_tutto	geschafft	Bravo, hai fatto tutto! A domani!	bravo
+geschafft_fiero	geschafft	Puoi essere fiero di te. A domani!	fiero
+voll_senza_errori	voll	Senza errori! Che meraviglia!	errori
+doch_vedi	doch	Vedi? Ce la fai!	vedi
