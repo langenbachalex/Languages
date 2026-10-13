@@ -8,7 +8,7 @@ Eine App, mehrere Sprachpaare (Zielsprache + Hilfssprache), Umschalter oben. Pri
 | `fr-de` | Französisch, Hilfe Deutsch – „Mon français“ | `werkzeuge/sprachen/fr_de.py` | `inhalte/fr-de/` | `app/audio/fr-de/` | `docs/fr-de/konzept.md` |
 | `es-de` | Spanisch, Hilfe Deutsch – „Mi español“ (Partner: Diego) | `werkzeuge/sprachen/es_de.py` | `inhalte/es-de/` | `app/audio/es-de/` | `docs/es-de/konzept.md` |
 | `it-de` | Italienisch, Hilfe Deutsch – „Il mio italiano“ (Partner: Giovanni) | `werkzeuge/sprachen/it_de.py` | `inhalte/it-de/` | `app/audio/it-de/` | `docs/it-de/konzept.md` |
-| `de-fr` | Deutsch, Hilfe Französisch (geplant, eigene deutsche Redewendungen) | | | | |
+| `de-fr` | Deutsch, Hilfe Französisch – „Mon allemand“ (für Aurélien; Partner: Alex) | `werkzeuge/sprachen/de_fr.py` | `inhalte/de-fr/` | `app/audio/de-fr/` | `docs/de-fr/konzept.md` |
 
 **Neue Sprache:** Sprachpaket `werkzeuge/sprachen/<paar>.py` (Themen, Oberflächentexte, Titel, optionaler Aussprache-Teil (`AUSSPRACHE = None` zum Weglassen), Rollen, Karte, Stimmen), Ordner `inhalte/<paar>/` mit denselben TSV-Dateien wie `fr-de`, Eintrag in `PAKETE` in `werkzeuge/bauen.py`.
 **Bauen:** `python3 werkzeuge/bauen.py` (je Paar `app/daten_<paar>.js`, dazu `index.html`, Manifest, Icons, `sw.js`).

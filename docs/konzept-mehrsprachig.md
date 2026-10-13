@@ -23,7 +23,7 @@ Grundsatz wie bisher: vor jedem Bauschritt fragen.
 
 ## 3. Inhalte je Sprache
 
-| | Französisch (fertig) | Spanisch (fertig) | Italienisch (fertig) | Deutsch (Hilfe FR) |
+| | Französisch (fertig) | Spanisch (fertig) | Italienisch (fertig) | Deutsch, Hilfe FR (fertig) |
 |---|---|---|---|---|
 | Themen | 9 × 24 Wendungen | gleiche 9 Themen, eigene Wendungen | gleiche 9 Themen, eigene Wendungen | gleiche Themen, **deutsche** Redewendungen (fix und fertig sein, die Nase voll haben …) |
 | Gesprächspartner | Aurélien | [offen: z. B. eine Kollegin aus Sevilla] | [offen: z. B. ein Freund aus Bologna] | [offen: Alex selbst als Lehrer? Aurélien lernt Deutsch?] |
@@ -41,7 +41,7 @@ Jedes Thema wie bisher: Vorschlag → Mr. Alex liest → OK → Audio → veröf
 1. **Umbau** der App auf Sprachpaare mit Französisch als einzigem Paar, Pensum 3 + 8, Umschalter (noch mit einer Sprache), Offline pro Sprache, Adresse an der Wurzel, Name „Language Learning“. Danach Probe durch Mr. Alex.
 2. **Spanisch:** fertig (13.10.): 9 Themen mit Notizen, 2 Dialoge mit Diego, Aussprache nur r/rr, Karte mit 52 Provinzen ab Sevilla, Geschichte « El secreto del Alcázar » Kapitel 1–3. Konzept: `docs/es-de/konzept.md`.
 3. **Italienisch:** fertig (13.10.): 9 Themen mit Notizen, 2 Dialoge mit Giovanni (Andy), kein Aussprache-Teil, Karte mit 110 Provinzen ab Bologna, Geschichte « Il segreto della Torre » Kapitel 1–3. Konzept: `docs/it-de/konzept.md`.
-4. **Deutsch (Hilfe FR):** eigene Wendungen, Oberfläche und Lob auf Deutsch mit französischer Hilfe.
+4. **Deutsch (Hilfe FR):** fertig (13.10.): Oberfläche Französisch (Entscheidung Mr. Alex), 9 Themen mit eigenen deutschen Wendungen und französischen Notizen, Lob auf Deutsch, 2 Dialoge Alex/Aurélien (Julien spricht Deutsch), Karte mit 434 Kreisen ab Saarbrücken, Geschichte « Das Geheimnis der Völklinger Hütte » Kapitel 1–3. Konzept: `docs/de-fr/konzept.md`.
 
 ## 5. Offen
 
