@@ -6306,14 +6306,876 @@ window.SPRACHEN["es-de"] = {
   120
  ],
  "spiel": {
-  "orte": [],
-  "karte": {},
+  "orte": [
+   {
+    "id": "sevilla",
+    "name": "Sevilla",
+    "region": "Andalucía",
+    "dep": "41",
+    "dep_name": "Sevilla",
+    "x": 152.9,
+    "y": 371.0,
+    "fakt": "La Giralda fue el minarete de la mezquita. Se sube por rampas, no por escaleras: el almuédano subía a caballo.",
+    "fakt_de": "Die Giralda war das Minarett der Moschee. Man steigt über Rampen hinauf, nicht über Treppen: Der Muezzin ritt hinauf.",
+    "audio": null
+   },
+   {
+    "id": "alcazar",
+    "name": "Real Alcázar de Sevilla",
+    "region": "Andalucía",
+    "dep": "41",
+    "dep_name": "Sevilla",
+    "x": 152.5,
+    "y": 371.3,
+    "fakt": "El Alcázar es el palacio real en uso más antiguo de Europa. Aquí se rodó Juego de Tronos: los jardines de Dorne.",
+    "fakt_de": "Der Alcázar ist der älteste noch genutzte Königspalast Europas. Hier wurde Game of Thrones gedreht: die Gärten von Dorne.",
+    "audio": null
+   },
+   {
+    "id": "cordoba",
+    "name": "Córdoba",
+    "region": "Andalucía",
+    "dep": "14",
+    "dep_name": "Córdoba",
+    "x": 203.7,
+    "y": 344.0,
+    "fakt": "Dentro de la Mezquita hay una catedral. Carlos V dijo: « Habéis destruido lo que era único en el mundo. »",
+    "fakt_de": "In der Mezquita steht eine Kathedrale. Karl V. sagte: „Ihr habt zerstört, was einzigartig auf der Welt war.“",
+    "audio": null
+   },
+   {
+    "id": "granada",
+    "name": "Granada",
+    "region": "Andalucía",
+    "dep": "18",
+    "dep_name": "Granada",
+    "x": 253.6,
+    "y": 382.4,
+    "fakt": "En la Alhambra, la frase « No hay vencedor sino Dios » está escrita más de nueve mil veces en las paredes.",
+    "fakt_de": "In der Alhambra steht der Satz „Es gibt keinen Sieger außer Gott“ mehr als neuntausendmal an den Wänden.",
+    "audio": null
+   },
+   {
+    "id": "cadiz",
+    "name": "Cádiz",
+    "region": "Andalucía",
+    "dep": "11",
+    "dep_name": "Cádiz",
+    "x": 139.8,
+    "y": 417.5,
+    "fakt": "Cádiz es la ciudad más antigua de Europa occidental: la fundaron los fenicios hace tres mil años.",
+    "fakt_de": "Cádiz ist die älteste Stadt Westeuropas: Die Phönizier gründeten sie vor dreitausend Jahren.",
+    "audio": null
+   },
+   {
+    "id": "ronda",
+    "name": "Ronda",
+    "region": "Andalucía",
+    "dep": "29",
+    "dep_name": "Málaga",
+    "x": 187.4,
+    "y": 406.0,
+    "fakt": "El Puente Nuevo cruza un tajo de cien metros. Tardaron cuarenta y dos años en construirlo.",
+    "fakt_de": "Die Puente Nuevo überspannt eine hundert Meter tiefe Schlucht. Der Bau dauerte zweiundvierzig Jahre.",
+    "audio": null
+   },
+   {
+    "id": "malaga",
+    "name": "Málaga",
+    "region": "Andalucía",
+    "dep": "29",
+    "dep_name": "Málaga",
+    "x": 218.8,
+    "y": 407.1,
+    "fakt": "Picasso nació aquí, pero se fue a los diez años. La ciudad le dedicó un museo cien años después.",
+    "fakt_de": "Picasso wurde hier geboren, zog aber mit zehn Jahren weg. Hundert Jahre später widmete ihm die Stadt ein Museum.",
+    "audio": null
+   },
+   {
+    "id": "donana",
+    "name": "Doñana",
+    "region": "Andalucía",
+    "dep": "21",
+    "dep_name": "Huelva",
+    "x": 133.5,
+    "y": 392.0,
+    "fakt": "En Doñana viven linces ibéricos y pasan seis millones de aves al año. Es el mayor humedal de Europa.",
+    "fakt_de": "In Doñana leben Pardelluchse, und sechs Millionen Vögel ziehen jährlich durch. Es ist das größte Feuchtgebiet Europas.",
+    "audio": null
+   },
+   {
+    "id": "jerez",
+    "name": "Jerez de la Frontera",
+    "region": "Andalucía",
+    "dep": "11",
+    "dep_name": "Cádiz",
+    "x": 146.8,
+    "y": 409.1,
+    "fakt": "Jerez dio nombre al sherry: los ingleses no sabían pronunciar « Jerez ». Aquí bailan los caballos.",
+    "fakt_de": "Jerez gab dem Sherry seinen Namen: Die Engländer konnten „Jerez“ nicht aussprechen. Hier tanzen die Pferde.",
+    "audio": null
+   },
+   {
+    "id": "almeria",
+    "name": "Desierto de Tabernas",
+    "region": "Andalucía",
+    "dep": "04",
+    "dep_name": "Almería",
+    "x": 304.2,
+    "y": 389.3,
+    "fakt": "En Tabernas se rodaron los spaghetti westerns. Clint Eastwood fue aquí « el bueno ».",
+    "fakt_de": "In Tabernas wurden die Italowestern gedreht. Clint Eastwood war hier „der Gute“.",
+    "audio": null
+   },
+   {
+    "id": "merida",
+    "name": "Mérida",
+    "region": "Extremadura",
+    "dep": "06",
+    "dep_name": "Badajoz",
+    "x": 137.6,
+    "y": 288.3,
+    "fakt": "El teatro romano de Mérida tiene dos mil años y sigue en uso: cada verano hay festival.",
+    "fakt_de": "Das römische Theater von Mérida ist zweitausend Jahre alt und wird noch genutzt: Jeden Sommer gibt es ein Festival.",
+    "audio": null
+   },
+   {
+    "id": "caceres",
+    "name": "Cáceres",
+    "region": "Extremadura",
+    "dep": "10",
+    "dep_name": "Cáceres",
+    "x": 136.4,
+    "y": 258.0,
+    "fakt": "La ciudad vieja de Cáceres no tiene ni un cable a la vista. Por eso ruedan allí tantas series.",
+    "fakt_de": "In der Altstadt von Cáceres ist kein einziges Kabel zu sehen. Deshalb werden dort so viele Serien gedreht.",
+    "audio": null
+   },
+   {
+    "id": "toledo",
+    "name": "Toledo",
+    "region": "Castilla-La Mancha",
+    "dep": "45",
+    "dep_name": "Toledo",
+    "x": 235.5,
+    "y": 237.0,
+    "fakt": "Toledo fue la ciudad de las tres culturas: judíos, musulmanes y cristianos. El Greco pintó aquí.",
+    "fakt_de": "Toledo war die Stadt der drei Kulturen: Juden, Muslime und Christen. El Greco malte hier.",
+    "audio": null
+   },
+   {
+    "id": "consuegra",
+    "name": "Molinos de Consuegra",
+    "region": "Castilla-La Mancha",
+    "dep": "45",
+    "dep_name": "Toledo",
+    "x": 253.3,
+    "y": 258.9,
+    "fakt": "Los molinos de Consuegra son los gigantes de Don Quijote. Tienen nombres: Bolero, Sancho, Rucio.",
+    "fakt_de": "Die Windmühlen von Consuegra sind die Riesen des Don Quijote. Sie haben Namen: Bolero, Sancho, Rucio.",
+    "audio": null
+   },
+   {
+    "id": "cuenca",
+    "name": "Cuenca",
+    "region": "Castilla-La Mancha",
+    "dep": "16",
+    "dep_name": "Cuenca",
+    "x": 315.3,
+    "y": 225.8,
+    "fakt": "Las Casas Colgadas de Cuenca cuelgan sobre un barranco desde el siglo XV. Dentro hay un museo de arte abstracto.",
+    "fakt_de": "Die „Hängenden Häuser“ von Cuenca hängen seit dem 15. Jahrhundert über einer Schlucht. Drinnen ist ein Museum für abstrakte Kunst.",
+    "audio": null
+   },
+   {
+    "id": "madrid",
+    "name": "Madrid",
+    "region": "Madrid",
+    "dep": "28",
+    "dep_name": "Madrid",
+    "x": 249.1,
+    "y": 207.1,
+    "fakt": "Madrid es la capital más alta de Europa: seiscientos cincuenta metros. El kilómetro cero está en la Puerta del Sol.",
+    "fakt_de": "Madrid ist die höchstgelegene Hauptstadt Europas: sechshundertfünfzig Meter. Der Kilometer null liegt an der Puerta del Sol.",
+    "audio": null
+   },
+   {
+    "id": "prado",
+    "name": "Museo del Prado",
+    "region": "Madrid",
+    "dep": "28",
+    "dep_name": "Madrid",
+    "x": 249.6,
+    "y": 207.2,
+    "fakt": "En el Prado está « Las Meninas ». Velázquez se pintó a sí mismo dentro del cuadro, mirándote.",
+    "fakt_de": "Im Prado hängt „Las Meninas“. Velázquez malte sich selbst ins Bild, und er schaut dich an.",
+    "audio": null
+   },
+   {
+    "id": "escorial",
+    "name": "El Escorial",
+    "region": "Madrid",
+    "dep": "28",
+    "dep_name": "Madrid",
+    "x": 230.4,
+    "y": 197.7,
+    "fakt": "Felipe II gobernó medio mundo desde una habitación pequeña del Escorial. Tenía dos mil seiscientas ventanas para mirar.",
+    "fakt_de": "Philipp II. regierte die halbe Welt aus einem kleinen Zimmer im Escorial. Er hatte zweitausendsechshundert Fenster zum Hinausschauen.",
+    "audio": null
+   },
+   {
+    "id": "segovia",
+    "name": "Segovia",
+    "region": "Castilla y León",
+    "dep": "40",
+    "dep_name": "Segovia",
+    "x": 232.0,
+    "y": 178.6,
+    "fakt": "El acueducto de Segovia tiene ciento sesenta y siete arcos y ni una gota de cemento. Lleva dos mil años en pie.",
+    "fakt_de": "Das Aquädukt von Segovia hat hundertsiebenundsechzig Bögen und keinen Tropfen Mörtel. Es steht seit zweitausend Jahren.",
+    "audio": null
+   },
+   {
+    "id": "avila",
+    "name": "Ávila",
+    "region": "Castilla y León",
+    "dep": "05",
+    "dep_name": "Ávila",
+    "x": 207.8,
+    "y": 194.1,
+    "fakt": "Ávila tiene la muralla medieval más completa de Europa: ochenta y ocho torres. Se puede caminar encima.",
+    "fakt_de": "Ávila hat die vollständigste mittelalterliche Stadtmauer Europas: achtundachtzig Türme. Man kann oben entlanglaufen.",
+    "audio": null
+   },
+   {
+    "id": "salamanca",
+    "name": "Salamanca",
+    "region": "Castilla y León",
+    "dep": "37",
+    "dep_name": "Salamanca",
+    "x": 166.3,
+    "y": 177.1,
+    "fakt": "En la fachada de la universidad hay una rana escondida. Quien la encuentra, aprueba. Dicen.",
+    "fakt_de": "In der Fassade der Universität versteckt sich ein Frosch. Wer ihn findet, besteht die Prüfung. Sagt man.",
+    "audio": null
+   },
+   {
+    "id": "burgos",
+    "name": "Burgos",
+    "region": "Castilla y León",
+    "dep": "09",
+    "dep_name": "Burgos",
+    "x": 249.4,
+    "y": 102.7,
+    "fakt": "En la catedral de Burgos está enterrado el Cid. Y hay un reloj con un muñeco, el Papamoscas, que abre la boca cada hora.",
+    "fakt_de": "In der Kathedrale von Burgos liegt der Cid begraben. Und eine Uhr mit einer Figur, dem Papamoscas, der jede Stunde den Mund aufreißt.",
+    "audio": null
+   },
+   {
+    "id": "atapuerca",
+    "name": "Atapuerca",
+    "region": "Castilla y León",
+    "dep": "09",
+    "dep_name": "Burgos",
+    "x": 256.9,
+    "y": 102.4,
+    "fakt": "En Atapuerca aparecieron los europeos más antiguos: huesos de hace un millón de años.",
+    "fakt_de": "In Atapuerca fand man die ältesten Europäer: Knochen, die eine Million Jahre alt sind.",
+    "audio": null
+   },
+   {
+    "id": "leon",
+    "name": "León",
+    "region": "Castilla y León",
+    "dep": "24",
+    "dep_name": "León",
+    "x": 170.4,
+    "y": 88.9,
+    "fakt": "La catedral de León tiene mil ochocientos metros cuadrados de vidrieras. Por dentro parece que no tiene paredes.",
+    "fakt_de": "Die Kathedrale von León hat tausendachthundert Quadratmeter Glasfenster. Von innen scheint sie keine Wände zu haben.",
+    "audio": null
+   },
+   {
+    "id": "santiago",
+    "name": "Santiago de Compostela",
+    "region": "Galicia",
+    "dep": "15",
+    "dep_name": "A Coruña",
+    "x": 44.5,
+    "y": 73.7,
+    "fakt": "Al final del Camino, el Botafumeiro vuela por la catedral: ochenta kilos de incienso a setenta kilómetros por hora.",
+    "fakt_de": "Am Ende des Jakobswegs fliegt der Botafumeiro durch die Kathedrale: achtzig Kilo Weihrauch mit siebzig Stundenkilometern.",
+    "audio": null
+   },
+   {
+    "id": "coruna",
+    "name": "A Coruña",
+    "region": "Galicia",
+    "dep": "15",
+    "dep_name": "A Coruña",
+    "x": 50.2,
+    "y": 47.6,
+    "fakt": "La Torre de Hércules es el faro romano más antiguo del mundo que sigue funcionando. Desde el siglo I.",
+    "fakt_de": "Der Herkulesturm ist der älteste römische Leuchtturm der Welt, der noch in Betrieb ist. Seit dem ersten Jahrhundert.",
+    "audio": null
+   },
+   {
+    "id": "finisterre",
+    "name": "Cabo Finisterre",
+    "region": "Galicia",
+    "dep": "15",
+    "dep_name": "A Coruña",
+    "x": 13.9,
+    "y": 73.5,
+    "fakt": "Finisterre: « el fin de la tierra ». Los peregrinos queman aquí las botas al acabar el Camino.",
+    "fakt_de": "Finisterre: „das Ende der Welt“. Die Pilger verbrennen hier ihre Stiefel am Ende des Jakobswegs.",
+    "audio": null
+   },
+   {
+    "id": "oviedo",
+    "name": "Oviedo",
+    "region": "Asturias",
+    "dep": "33",
+    "dep_name": "Asturias",
+    "x": 158.5,
+    "y": 47.6,
+    "fakt": "En Oviedo la sidra se escancia desde lo alto, con el brazo estirado, para que « rompa » en el vaso.",
+    "fakt_de": "In Oviedo wird der Cidre aus großer Höhe mit ausgestrecktem Arm eingeschenkt, damit er im Glas „bricht“.",
+    "audio": null
+   },
+   {
+    "id": "picos",
+    "name": "Picos de Europa",
+    "region": "Asturias",
+    "dep": "24",
+    "dep_name": "León",
+    "x": 200.7,
+    "y": 56.9,
+    "fakt": "Los marineros veían estos picos desde el mar al volver de América: la primera Europa que aparecía.",
+    "fakt_de": "Die Seeleute sahen diese Gipfel vom Meer aus, wenn sie aus Amerika zurückkamen: das erste Europa, das auftauchte.",
+    "audio": null
+   },
+   {
+    "id": "santander",
+    "name": "Santander",
+    "region": "Cantabria",
+    "dep": "39",
+    "dep_name": "Cantabria",
+    "x": 244.7,
+    "y": 42.2,
+    "fakt": "Cerca de Santander está la cueva de Altamira: bisontes pintados hace catorce mil años. La « Capilla Sixtina » prehistórica.",
+    "fakt_de": "Nahe Santander liegt die Höhle von Altamira: Bisons, vor vierzehntausend Jahren gemalt. Die „Sixtinische Kapelle“ der Vorzeit.",
+    "audio": null
+   },
+   {
+    "id": "bilbao",
+    "name": "Bilbao",
+    "region": "País Vasco",
+    "dep": "48",
+    "dep_name": "Vizcaya",
+    "x": 281.6,
+    "y": 53.0,
+    "fakt": "El Guggenheim de titanio cambió la ciudad. Fuera lo vigila « Puppy », un perro de doce metros hecho de flores.",
+    "fakt_de": "Das Titan-Guggenheim veränderte die Stadt. Draußen wacht „Puppy“, ein zwölf Meter hoher Hund aus Blumen.",
+    "audio": null
+   },
+   {
+    "id": "sansebastian",
+    "name": "San Sebastián",
+    "region": "País Vasco",
+    "dep": "20",
+    "dep_name": "Guipúzcoa",
+    "x": 321.9,
+    "y": 50.0,
+    "fakt": "San Sebastián tiene más estrellas Michelin por habitante que casi cualquier ciudad del mundo. Y los pintxos.",
+    "fakt_de": "San Sebastián hat mehr Michelin-Sterne pro Einwohner als fast jede andere Stadt der Welt. Und die Pintxos.",
+    "audio": null
+   },
+   {
+    "id": "pamplona",
+    "name": "Pamplona",
+    "region": "Navarra",
+    "dep": "31",
+    "dep_name": "Navarra",
+    "x": 336.1,
+    "y": 77.3,
+    "fakt": "Cada julio, los toros corren por Pamplona a las ocho de la mañana. Hemingway vino nueve veces.",
+    "fakt_de": "Jeden Juli laufen in Pamplona um acht Uhr morgens die Stiere. Hemingway kam neunmal.",
+    "audio": null
+   },
+   {
+    "id": "logrono",
+    "name": "Logroño",
+    "region": "La Rioja",
+    "dep": "26",
+    "dep_name": "La Rioja",
+    "x": 302.3,
+    "y": 96.3,
+    "fakt": "En la calle Laurel de Logroño hay más de sesenta bares en doscientos metros. Cada uno con su tapa.",
+    "fakt_de": "In der Calle Laurel in Logroño gibt es über sechzig Bars auf zweihundert Metern. Jede mit ihrer eigenen Tapa.",
+    "audio": null
+   },
+   {
+    "id": "zaragoza",
+    "name": "Zaragoza",
+    "region": "Aragón",
+    "dep": "50",
+    "dep_name": "Zaragoza",
+    "x": 368.1,
+    "y": 140.3,
+    "fakt": "Goya nació cerca de Zaragoza y pintó las cúpulas del Pilar. En la basílica hay dos bombas que no explotaron.",
+    "fakt_de": "Goya wurde nahe Zaragoza geboren und malte die Kuppeln der Pilar-Basilika. In der Basilika hängen zwei Bomben, die nicht explodierten.",
+    "audio": null
+   },
+   {
+    "id": "teruel",
+    "name": "Teruel",
+    "region": "Aragón",
+    "dep": "44",
+    "dep_name": "Teruel",
+    "x": 358.9,
+    "y": 210.9,
+    "fakt": "Teruel tiene los Amantes: dos momias del siglo XIII. Él murió de amor; ella, al besarlo. Romeo y Julieta, pero antes.",
+    "fakt_de": "Teruel hat die „Liebenden“: zwei Mumien aus dem 13. Jahrhundert. Er starb aus Liebe; sie, als sie ihn küsste. Romeo und Julia, nur früher.",
+    "audio": null
+   },
+   {
+    "id": "ordesa",
+    "name": "Ordesa",
+    "region": "Aragón",
+    "dep": "22",
+    "dep_name": "Huesca",
+    "x": 403.5,
+    "y": 86.1,
+    "fakt": "El valle de Ordesa, en los Pirineos, fue el segundo parque nacional de España. En 1918. Por un cuadro.",
+    "fakt_de": "Das Ordesa-Tal in den Pyrenäen war Spaniens zweiter Nationalpark. 1918. Wegen eines Gemäldes.",
+    "audio": null
+   },
+   {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "region": "Cataluña",
+    "dep": "08",
+    "dep_name": "Barcelona",
+    "x": 497.3,
+    "y": 154.5,
+    "fakt": "La Sagrada Familia lleva en obras desde 1882. Gaudí decía: « Mi cliente no tiene prisa. »",
+    "fakt_de": "Die Sagrada Família ist seit 1882 im Bau. Gaudí sagte: „Mein Auftraggeber hat es nicht eilig.“",
+    "audio": null
+   },
+   {
+    "id": "montserrat",
+    "name": "Montserrat",
+    "region": "Cataluña",
+    "dep": "08",
+    "dep_name": "Barcelona",
+    "x": 483.3,
+    "y": 143.4,
+    "fakt": "En Montserrat canta la Escolanía, uno de los coros de niños más antiguos de Europa. Desde el siglo XIII.",
+    "fakt_de": "In Montserrat singt die Escolanía, einer der ältesten Knabenchöre Europas. Seit dem 13. Jahrhundert.",
+    "audio": null
+   },
+   {
+    "id": "girona",
+    "name": "Girona",
+    "region": "Cataluña",
+    "dep": "17",
+    "dep_name": "Girona",
+    "x": 524.8,
+    "y": 122.4,
+    "fakt": "En Girona se besa el trasero de una leona de piedra para volver a la ciudad. Hay una escalera para llegar.",
+    "fakt_de": "In Girona küsst man den Hintern einer steinernen Löwin, um in die Stadt zurückzukehren. Es gibt eine Treppe dafür.",
+    "audio": null
+   },
+   {
+    "id": "tarragona",
+    "name": "Tarragona",
+    "region": "Cataluña",
+    "dep": "43",
+    "dep_name": "Tarragona",
+    "x": 458.2,
+    "y": 169.0,
+    "fakt": "Tarragona fue capital romana. El anfiteatro está junto al mar: los gladiadores luchaban con vistas.",
+    "fakt_de": "Tarragona war römische Hauptstadt. Das Amphitheater liegt direkt am Meer: Die Gladiatoren kämpften mit Aussicht.",
+    "audio": null
+   },
+   {
+    "id": "valencia",
+    "name": "Valencia",
+    "region": "Comunidad Valenciana",
+    "dep": "46",
+    "dep_name": "Valencia",
+    "x": 389.7,
+    "y": 258.3,
+    "fakt": "La paella nació en los arrozales de Valencia. Con conejo y pollo. Con chorizo, no: eso es « arroz con cosas ».",
+    "fakt_de": "Die Paella entstand in den Reisfeldern von Valencia. Mit Kaninchen und Huhn. Mit Chorizo nicht: Das ist „Reis mit Zeug“.",
+    "audio": null
+   },
+   {
+    "id": "alicante",
+    "name": "Alicante",
+    "region": "Comunidad Valenciana",
+    "dep": "03",
+    "dep_name": "Alicante",
+    "x": 385.3,
+    "y": 319.2,
+    "fakt": "En Alicante se hace el turrón de Jijona desde el siglo XVI. Y cada junio queman esculturas gigantes: las Hogueras.",
+    "fakt_de": "In Alicante wird seit dem 16. Jahrhundert der Turrón von Jijona gemacht. Und jeden Juni verbrennt man riesige Skulpturen: die Hogueras.",
+    "audio": null
+   },
+   {
+    "id": "murcia",
+    "name": "Murcia",
+    "region": "Murcia",
+    "dep": "30",
+    "dep_name": "Murcia",
+    "x": 357.9,
+    "y": 338.3,
+    "fakt": "La huerta de Murcia alimenta a media Europa. Y en la catedral, la torre tardó doscientos años: cada siglo, un estilo.",
+    "fakt_de": "Die Gärten von Murcia ernähren halb Europa. Und der Turm der Kathedrale brauchte zweihundert Jahre: jedes Jahrhundert ein Stil.",
+    "audio": null
+   },
+   {
+    "id": "cartagena",
+    "name": "Cartagena",
+    "region": "Murcia",
+    "dep": "30",
+    "dep_name": "Murcia",
+    "x": 363.5,
+    "y": 358.2,
+    "fakt": "Cartagena tiene un teatro romano que estuvo escondido bajo casas hasta 1988. Lo encontraron por casualidad.",
+    "fakt_de": "Cartagena hat ein römisches Theater, das bis 1988 unter Häusern verborgen war. Man fand es zufällig.",
+    "audio": null
+   },
+   {
+    "id": "palma",
+    "name": "Palma de Mallorca",
+    "region": "Islas Baleares",
+    "dep": "07",
+    "dep_name": "Islas Baleares",
+    "x": 517.6,
+    "y": 252.9,
+    "fakt": "La catedral de Palma tiene el rosetón gótico más grande del mundo. Dos veces al año, la luz dibuja un ocho.",
+    "fakt_de": "Die Kathedrale von Palma hat die größte gotische Fensterrose der Welt. Zweimal im Jahr zeichnet das Licht eine Acht.",
+    "audio": null
+   },
+   {
+    "id": "menorca",
+    "name": "Menorca",
+    "region": "Islas Baleares",
+    "dep": "07",
+    "dep_name": "Islas Baleares",
+    "x": 579.3,
+    "y": 232.3,
+    "fakt": "Menorca es Reserva de la Biosfera y la cuna de la mayonesa: « salsa mahonesa », de Mahón.",
+    "fakt_de": "Menorca ist Biosphärenreservat und die Wiege der Mayonnaise: „salsa mahonesa“, aus Mahón.",
+    "audio": null
+   },
+   {
+    "id": "tenerife",
+    "name": "Tenerife",
+    "region": "Canarias",
+    "dep": "38",
+    "dep_name": "Santa Cruz de Tenerife",
+    "x": 403.8,
+    "y": 523.5,
+    "fakt": "El Teide es la montaña más alta de España: tres mil setecientos dieciocho metros. Y es un volcán.",
+    "fakt_de": "Der Teide ist der höchste Berg Spaniens: dreitausendsiebenhundertachtzehn Meter. Und ein Vulkan.",
+    "audio": null
+   },
+   {
+    "id": "laspalmas",
+    "name": "Las Palmas de Gran Canaria",
+    "region": "Canarias",
+    "dep": "35",
+    "dep_name": "Las Palmas",
+    "x": 454.8,
+    "y": 531.5,
+    "fakt": "Colón paró en Las Palmas antes de cruzar el Atlántico. Para arreglar el timón de la Pinta.",
+    "fakt_de": "Kolumbus hielt in Las Palmas, bevor er den Atlantik überquerte. Um das Ruder der Pinta zu reparieren.",
+    "audio": null
+   },
+   {
+    "id": "ceuta",
+    "name": "Ceuta",
+    "region": "Ceuta",
+    "dep": "51",
+    "dep_name": "Ceuta",
+    "x": 180.8,
+    "y": 452.2,
+    "fakt": "Ceuta está en África, pero es España. Desde las murallas se ve Gibraltar y, de fondo, Europa.",
+    "fakt_de": "Ceuta liegt in Afrika, ist aber Spanien. Von den Mauern sieht man Gibraltar und dahinter Europa.",
+    "audio": null
+   }
+  ],
+  "karte": {
+   "07": {
+    "d": "M541.4 231.9 538.9 233.8 538.2 233.5 537.1 235.1 535.8 234.9 535.9 236.4 536.9 237.3 540.4 235.4 541.0 235.6 540.3 236.0 540.7 237.1 539.9 238.2 537.5 238.7 538.1 241.4 543.1 244.3 546.3 242.6 547.1 241.0 550.7 243.4 551.9 243.3 551.5 244.6 552.6 245.0 551.7 245.6 551.5 246.8 551.7 248.2 551.0 248.2 550.8 249.4 549.2 249.7 548.7 251.7 549.5 252.4 546.4 254.5 544.7 257.0 544.0 261.2 543.4 260.8 542.7 263.3 541.8 263.6 540.3 264.7 539.6 266.1 538.6 265.9 535.3 269.3 534.5 269.4 533.0 266.9 531.8 266.7 532.0 265.5 530.6 264.1 528.7 264.7 527.4 263.9 523.4 264.1 521.5 261.8 521.7 259.9 520.6 258.0 521.8 256.1 518.4 253.3 516.9 253.0 516.3 254.0 517.2 253.8 515.5 253.9 515.1 254.7 514.5 254.9 513.9 255.0 513.0 255.3 512.2 259.0 510.3 258.5 510.4 257.1 509.4 256.4 510.4 255.7 509.4 254.8 507.9 255.4 507.6 254.6 506.5 255.6 506.6 254.9 505.5 254.9 506.6 254.2 504.8 253.2 505.2 251.0 509.7 248.5 512.4 245.8 514.9 245.0 516.3 242.8 518.2 241.9 518.4 240.9 519.5 240.9 519.7 239.9 522.9 238.3 523.0 237.4 525.8 237.1 530.3 233.9 531.7 234.6 533.6 233.1 535.0 233.3 534.9 234.0 537.5 233.3 539.4 231.8 541.4 231.9ZM578.6 224.9 578.6 226.4 579.0 227.2 580.3 226.2 580.0 228.2 580.6 227.7 580.4 226.0 581.2 225.9 581.9 226.4 581.4 227.8 582.3 228.4 582.9 227.9 582.8 229.1 583.3 230.0 583.4 228.9 584.0 229.8 586.1 229.8 585.4 230.0 585.4 231.6 585.9 232.3 586.5 232.3 586.2 233.2 587.7 236.1 588.5 236.3 587.8 236.7 587.2 235.5 585.5 235.2 587.6 236.9 586.8 239.6 586.0 240.0 583.9 238.9 577.1 234.7 572.9 233.0 570.4 233.8 567.1 233.6 567.7 229.5 566.2 229.7 565.8 228.7 567.1 226.8 570.4 226.4 571.3 227.2 571.9 226.2 573.7 226.8 575.3 226.6 576.0 226.1 576.9 226.8 578.4 225.9 578.1 224.8ZM470.4 277.3 471.4 278.7 473.4 278.8 473.7 279.5 472.7 280.3 474.1 282.3 472.6 282.9 472.3 283.7 472.5 284.3 470.2 284.7 470.2 286.7 469.4 286.6 468.0 288.5 467.1 288.2 467.2 289.0 466.5 288.3 466.4 289.0 465.7 289.0 464.9 290.5 465.1 292.9 464.1 292.3 462.4 290.7 461.4 291.6 461.2 290.9 460.5 291.2 460.4 290.4 459.2 290.4 458.7 291.4 457.4 290.8 456.9 289.1 457.9 287.1 457.0 286.0 457.6 285.1 460.8 285.3 459.9 284.1 460.5 283.2 460.3 282.0 463.0 279.7 463.4 280.3 465.9 278.7 466.5 279.4 467.4 278.2 468.5 277.8 470.4 277.3ZM466.3 296.7 468.9 300.6 470.3 301.5 471.9 300.5 472.6 302.0 470.0 302.5 466.8 300.8 464.2 303.2 464.0 299.0 464.6 298.1 465.6 298.8 466.2 296.1ZM530.3 274.8 531.4 275.2 530.6 275.8 530.6 276.9 529.0 276.8 528.9 275.0 529.5 276.0 529.5 275.3 530.3 275.7 530.3 274.8ZM504.4 251.4 503.6 252.5 503.0 252.7 504.4 251.4ZM531.0 273.4 530.8 274.3 531.0 273.4ZM465.8 294.8 466.2 295.9 465.8 294.8ZM457.0 284.3 456.9 285.1 456.6 284.3Z",
+    "nom": "Islas Baleares",
+    "region": "Islas Baleares"
+   },
+   "33": {
+    "d": "M158.8 31.4 159.3 32.5 161.3 33.0 160.9 33.9 162.4 35.6 164.3 36.4 165.8 36.3 164.7 36.5 165.7 37.9 168.3 36.9 173.5 37.7 176.9 37.2 178.0 38.5 181.9 38.2 185.2 41.5 189.1 41.0 192.8 42.3 195.1 42.6 197.5 42.2 207.1 45.3 207.9 45.0 212.6 46.0 214.7 45.8 215.0 46.6 214.0 47.3 213.8 48.6 214.5 49.0 214.6 52.0 213.5 52.6 213.2 51.6 211.0 50.9 209.9 52.7 205.7 53.3 206.2 54.4 205.1 57.2 201.1 57.4 199.8 54.8 198.1 54.3 195.9 55.7 194.5 57.8 191.2 57.4 190.1 61.7 188.1 61.0 185.2 62.6 182.4 63.0 178.8 62.1 177.9 64.5 174.1 64.2 173.5 66.0 170.3 66.0 165.1 64.1 163.6 64.9 162.1 68.8 160.4 69.2 155.7 67.6 153.9 66.2 153.2 63.7 151.3 64.2 148.7 63.1 148.1 65.5 146.3 66.1 144.6 64.6 143.0 64.6 142.5 66.7 140.1 65.2 138.3 65.5 136.9 64.0 135.3 65.1 135.4 66.3 134.7 66.3 134.9 67.2 134.2 67.8 131.9 67.7 132.1 68.9 133.8 69.1 133.8 70.5 129.2 71.9 125.1 71.2 121.6 71.7 119.5 73.6 119.5 72.7 116.8 71.7 116.8 69.5 115.3 67.8 113.6 67.7 111.7 65.2 111.5 67.7 110.0 66.1 110.6 65.0 111.4 65.3 111.2 64.1 112.4 62.5 113.4 63.2 117.1 60.5 117.4 59.4 116.7 58.2 115.3 57.5 115.4 56.9 114.7 58.7 111.7 59.9 110.7 58.2 111.3 57.0 111.1 56.1 109.8 56.0 109.5 55.1 107.3 54.0 106.8 52.5 107.3 50.7 105.6 50.7 104.3 49.3 104.5 47.0 102.1 45.9 102.7 45.3 102.5 43.9 105.6 44.0 106.1 42.6 107.8 41.4 107.9 39.6 108.9 36.9 109.6 37.1 111.0 37.0 113.0 36.1 113.7 36.5 115.1 36.7 117.1 36.5 117.8 37.2 118.9 37.1 119.7 36.4 121.6 37.1 123.2 36.9 125.6 36.2 126.8 37.2 129.6 37.7 132.1 37.4 132.2 36.3 133.3 36.7 134.0 37.3 137.1 37.4 139.3 36.7 140.1 36.3 140.8 35.8 141.8 35.0 143.5 36.2 144.2 35.8 144.2 36.7 145.6 36.3 147.3 37.1 148.2 37.0 148.8 36.6 151.4 35.3 152.2 36.1 154.0 35.8 155.7 34.3 155.7 33.4 156.9 33.5 157.7 33.0 158.8 31.4Z",
+    "nom": "Asturias",
+    "region": "Asturias"
+   },
+   "15": {
+    "d": "M81.1 24.6 81.9 25.2 80.2 27.3 80.2 30.0 79.5 30.0 80.7 31.8 78.8 33.5 79.5 35.6 78.3 35.7 77.7 37.5 78.4 39.5 75.1 45.4 72.6 45.1 71.9 46.0 72.4 48.9 69.8 51.7 70.9 52.6 69.2 56.9 71.1 62.4 70.0 63.5 71.6 68.0 71.1 70.9 70.0 71.7 70.3 72.4 67.8 75.3 65.7 76.3 64.4 75.1 62.7 75.8 59.9 74.8 58.3 75.6 58.8 76.7 56.8 76.0 55.8 77.4 54.3 75.5 53.9 76.3 53.3 75.8 53.6 78.3 52.6 79.2 51.0 78.6 50.1 79.8 50.4 80.5 47.7 81.1 44.1 80.2 44.2 80.9 42.3 81.1 42.0 82.6 40.1 81.9 37.3 83.1 36.0 86.1 35.1 86.0 34.0 86.9 32.7 86.4 33.3 85.2 31.9 84.1 32.1 85.5 31.2 86.3 32.2 87.1 31.3 87.4 31.4 88.5 30.1 88.3 30.7 87.1 29.6 86.4 28.0 88.5 28.7 89.6 25.8 90.7 25.5 92.7 23.5 93.3 24.1 91.7 23.7 90.7 21.5 90.1 22.0 89.0 22.6 88.8 23.6 86.8 23.9 83.7 25.7 81.2 27.3 80.8 28.5 78.7 29.4 78.6 29.4 77.3 30.4 77.1 29.6 76.5 29.2 78.2 28.3 77.6 26.9 79.2 26.4 78.5 26.1 79.2 24.6 79.1 24.5 78.0 22.7 78.7 23.3 79.7 21.7 81.4 20.5 80.5 19.7 78.5 19.0 78.1 20.6 77.3 20.8 76.1 19.5 75.3 19.2 74.4 20.1 72.3 18.6 72.0 18.1 70.2 17.3 69.8 17.4 71.8 15.5 70.4 15.5 71.2 14.3 71.6 13.8 73.7 13.7 72.0 12.8 71.4 14.5 67.1 12.6 64.5 14.3 64.6 14.8 63.3 14.5 62.3 16.0 62.4 16.0 61.0 17.0 61.6 17.3 62.3 18.3 61.5 18.4 58.9 17.2 60.6 16.3 58.4 17.7 58.1 18.0 56.8 19.0 56.6 20.8 57.2 21.5 57.4 22.8 57.2 24.8 54.6 25.5 55.5 26.2 54.8 27.9 54.9 27.3 52.9 26.3 53.0 25.7 52.3 27.2 51.3 28.4 51.9 29.3 51.3 29.3 50.6 29.1 49.8 30.6 50.3 31.8 49.9 32.1 48.5 34.4 50.7 36.0 51.3 36.9 51.0 37.5 51.5 42.0 49.7 43.6 50.3 45.0 50.1 46.2 49.3 46.8 47.7 48.3 47.7 49.0 46.5 50.3 47.2 50.7 46.1 51.8 47.4 50.5 47.5 51.6 47.8 51.3 48.8 52.6 48.6 53.3 46.8 52.6 46.1 54.6 45.2 58.8 49.4 58.2 46.2 60.3 44.5 57.8 44.0 56.6 44.6 55.8 43.6 54.2 43.1 56.8 42.0 59.1 42.3 60.4 41.2 60.4 40.2 61.2 39.9 61.2 39.2 59.1 41.4 57.1 41.4 57.2 40.5 56.4 41.9 53.2 42.4 54.1 40.2 53.6 39.4 55.1 38.2 54.0 36.6 56.6 37.0 59.5 34.5 59.6 33.6 61.0 33.9 63.7 31.1 64.3 32.3 65.3 32.1 64.4 31.4 64.4 30.2 64.7 29.5 66.2 28.5 67.6 29.0 69.9 26.9 70.9 27.0 71.6 25.5 73.2 25.3 73.6 26.0 73.0 27.4 74.0 28.7 72.8 28.0 73.1 28.9 72.2 30.1 73.0 30.8 71.6 30.8 74.1 31.0 73.2 29.4 74.6 28.7 74.4 29.5 75.4 29.6 74.8 28.7 75.5 27.9 79.2 26.8 81.1 24.6ZM24.8 95.2 25.4 96.0 24.5 95.7Z",
+    "nom": "A Coruña",
+    "region": "Galicia"
+   },
+   "17": {
+    "d": "M479.5 94.5 482.7 95.0 485.6 97.1 487.5 96.7 488.7 100.7 490.8 102.5 493.7 101.7 496.4 98.6 498.9 98.7 501.0 97.6 508.4 100.0 508.5 100.9 510.5 102.9 512.6 103.3 514.3 101.9 518.5 102.9 517.7 100.4 518.5 100.4 518.5 99.5 521.1 98.3 523.9 98.7 525.6 96.5 528.9 96.6 530.2 95.2 531.0 96.1 533.8 95.6 536.0 98.3 539.8 97.8 539.6 98.8 539.0 99.3 538.9 100.1 539.5 100.3 538.9 100.8 539.3 101.8 540.6 103.2 542.1 102.3 542.9 103.5 543.7 102.9 546.0 104.0 544.5 104.9 545.0 105.9 544.1 105.8 544.6 106.9 543.1 107.7 543.6 108.5 542.1 107.7 541.6 108.8 539.3 107.0 537.1 110.2 537.6 114.4 539.9 115.3 541.5 118.0 540.8 118.7 540.7 120.6 542.3 124.0 541.6 124.4 541.7 125.5 541.0 127.2 540.1 127.4 539.9 128.6 538.0 129.9 536.7 129.7 534.8 132.8 533.6 133.3 532.9 133.7 531.4 134.5 529.6 136.5 528.3 137.0 527.6 137.5 526.2 137.6 524.8 138.2 523.5 139.2 523.0 140.3 522.2 138.7 523.0 135.7 517.9 135.0 513.3 136.5 511.9 134.2 510.0 133.4 510.1 132.7 505.1 131.7 503.9 129.1 504.0 127.7 505.8 127.5 506.3 128.3 507.3 127.0 508.8 127.4 510.5 125.9 508.3 123.0 510.2 123.0 510.8 122.2 509.9 121.7 511.2 121.3 511.5 119.6 510.5 118.7 510.9 117.7 509.5 117.0 507.8 117.8 506.8 116.6 507.0 115.8 505.6 114.8 502.6 115.8 502.8 114.1 501.6 113.5 499.2 113.6 498.6 114.6 496.3 114.2 495.5 115.2 494.0 113.5 492.7 114.0 490.3 113.2 489.8 111.4 488.7 111.7 488.7 110.6 490.4 110.8 490.0 112.0 492.7 111.7 492.4 109.4 491.4 109.6 490.8 108.7 493.1 105.5 486.0 103.8 483.5 104.7 483.2 102.1 484.0 101.3 483.0 100.7 481.9 101.3 481.8 98.3 478.8 97.5 478.5 95.0 479.5 94.5ZM490.0 95.0 489.6 95.8 490.7 97.1 488.3 96.6 489.2 94.5 490.0 95.0ZM491.4 114.4 490.9 115.4 490.2 114.5 491.4 114.4Z",
+    "nom": "Girona",
+    "region": "Cataluña"
+   },
+   "35": {
+    "d": "M520.1 497.2 522.4 499.6 522.9 508.3 521.1 512.2 521.8 516.5 519.0 524.6 515.0 527.0 506.3 529.3 501.5 535.8 495.3 534.0 494.1 534.8 494.7 532.2 496.5 532.8 499.7 531.9 506.1 526.6 506.9 520.4 508.6 518.3 509.3 514.5 511.2 512.5 514.1 506.1 513.9 504.9 515.1 501.5 514.6 499.9 516.5 498.4 520.1 497.2ZM455.5 528.5 456.3 529.2 456.0 531.0 456.0 529.6 455.6 531.3 455.6 530.3 455.9 532.8 455.5 535.0 457.5 537.7 457.6 538.4 457.0 540.0 458.1 541.9 457.0 542.2 456.9 545.9 455.6 546.7 455.3 548.6 451.2 550.1 449.4 551.2 449.1 552.4 447.9 552.6 445.4 551.4 444.7 551.8 440.0 547.2 438.0 543.1 438.0 539.8 438.5 537.5 440.0 537.1 443.2 533.7 443.8 530.0 443.3 529.3 445.1 529.7 446.3 528.9 447.9 530.4 451.0 529.8 453.5 531.4 454.1 531.3 454.8 530.8 455.0 530.0 454.6 529.2 455.5 528.5ZM538.0 471.7 539.8 472.8 540.0 474.1 539.6 475.7 538.1 477.1 538.8 479.3 537.2 484.5 530.7 488.4 526.6 489.1 524.5 492.8 523.9 491.7 520.7 491.7 520.5 490.2 522.7 487.9 522.5 484.7 523.3 482.3 525.8 479.9 527.9 479.7 530.2 477.9 531.0 477.8 532.3 476.7 534.6 477.7 535.6 476.4 536.8 472.3 538.0 471.7ZM536.3 468.3 537.8 469.7 536.4 471.9 534.8 472.3 536.3 468.3ZM536.4 461.6 537.1 462.1 535.4 463.2 535.6 461.8 536.4 461.6ZM523.4 496.8 523.3 498.3 522.6 498.2 522.4 497.5 523.4 496.8ZM535.2 467.6 535.3 468.4 534.9 467.7Z",
+    "nom": "Las Palmas",
+    "region": "Canarias"
+   },
+   "36": {
+    "d": "M60.0 74.9 62.7 75.8 64.4 75.1 65.6 76.3 67.0 75.3 68.9 75.3 69.4 75.9 68.4 77.4 68.5 79.2 70.3 81.3 73.3 82.3 73.5 83.1 72.3 84.3 72.1 87.2 70.6 90.0 67.9 90.3 66.8 92.0 63.8 91.1 61.4 91.6 60.3 90.4 54.8 94.8 52.1 94.9 53.2 96.1 54.3 100.7 53.9 102.7 56.5 104.3 56.4 107.6 57.9 108.7 60.7 108.1 60.7 109.3 59.5 110.0 60.8 111.7 58.8 113.7 57.0 113.9 56.7 114.8 54.0 115.8 53.6 116.8 45.5 117.1 44.1 118.6 40.7 118.8 39.6 121.2 36.2 123.2 35.7 124.9 30.8 128.6 30.3 127.8 30.7 126.8 30.1 124.8 30.6 121.2 30.0 119.9 30.3 119.3 30.2 118.6 29.7 117.7 29.9 116.9 29.5 115.3 31.6 114.4 32.7 115.1 33.0 113.7 31.7 112.9 32.9 112.8 33.1 111.2 33.9 110.6 34.7 110.3 34.7 109.4 37.5 108.3 39.7 105.9 41.8 105.8 41.3 104.6 41.8 102.6 40.7 102.5 40.7 103.7 39.6 104.5 40.1 105.2 38.5 106.2 36.7 105.8 34.1 108.0 33.2 107.3 31.5 107.2 30.7 107.8 31.2 106.8 31.4 104.6 32.5 106.3 33.1 106.2 33.0 104.4 32.1 103.0 34.2 103.6 35.7 102.9 36.5 100.9 38.2 100.0 38.7 99.3 39.9 98.4 38.8 98.5 38.2 97.6 37.9 98.2 36.3 98.9 35.6 99.5 34.9 100.3 33.2 99.6 32.2 100.5 30.4 98.9 30.8 97.8 30.3 96.7 28.2 96.8 28.0 95.4 30.0 95.0 30.3 94.3 31.5 95.7 30.7 96.3 30.9 97.1 31.8 96.4 33.0 96.9 32.5 95.1 33.6 94.2 32.7 93.4 33.2 92.7 32.6 93.3 32.7 92.2 32.3 91.1 33.0 91.1 32.3 90.8 34.0 89.9 34.4 88.9 35.0 89.2 34.7 88.1 36.8 85.2 37.3 83.1 40.1 81.9 42.0 82.6 42.3 81.1 44.1 80.9 44.2 80.1 49.4 80.9 50.4 80.5 50.1 79.8 51.0 78.6 52.6 79.2 53.6 78.3 53.3 75.8 53.9 76.3 54.3 75.5 55.8 77.4 56.8 76.0 58.8 76.7 58.3 75.6 60.0 74.9ZM30.6 90.2 31.4 90.7 30.8 93.0 30.8 91.0 29.9 90.6 30.6 90.2ZM28.7 99.7 28.0 102.0 27.7 100.7 28.2 99.8ZM29.0 107.7 29.8 109.0 29.0 109.9 29.4 109.2 28.8 107.9ZM29.3 110.2 30.0 111.0 29.0 110.7ZM32.0 94.2 31.9 95.0 32.0 94.2Z",
+    "nom": "Pontevedra",
+    "region": "Galicia"
+   },
+   "38": {
+    "d": "M424.3 506.4 425.6 507.3 425.9 508.2 425.7 509.4 421.0 511.9 420.6 512.7 420.5 513.6 420.7 512.9 415.8 517.7 415.7 521.7 413.0 527.2 413.0 530.1 407.9 536.9 405.8 536.6 403.8 538.0 401.3 538.0 400.9 535.7 399.8 535.2 399.8 533.5 398.2 531.9 396.9 528.8 395.6 527.0 395.4 523.9 393.1 520.2 391.9 519.7 392.2 518.7 395.8 516.9 396.8 517.9 399.2 518.2 402.5 516.5 405.5 516.9 407.5 515.5 408.5 515.7 409.3 515.5 411.7 513.3 412.9 511.7 413.6 509.7 416.9 508.0 417.1 507.0 421.5 507.6 422.8 507.3 424.3 506.4ZM350.3 491.8 352.5 493.1 354.3 492.8 355.4 492.5 358.1 498.0 356.2 501.6 357.0 504.4 356.6 507.4 353.2 513.7 352.0 512.6 351.5 509.0 349.6 505.9 346.2 497.2 346.2 495.8 347.8 493.4 348.8 492.6 349.6 492.4 350.3 491.8ZM377.7 526.4 378.4 527.3 380.0 527.6 381.0 528.5 383.7 529.9 384.4 531.3 384.6 533.0 381.6 536.3 377.3 536.9 374.0 532.9 374.3 531.1 374.1 530.0 374.6 529.4 375.2 527.2 376.3 527.0 377.0 526.4 377.7 526.4ZM349.6 546.4 350.6 546.8 351.4 548.3 351.4 548.9 349.6 552.7 348.3 553.4 347.4 557.7 346.1 557.2 344.3 554.9 339.7 553.6 340.1 551.2 340.9 550.7 343.0 551.6 344.9 551.1 346.9 549.1 346.8 547.8 349.6 546.4Z",
+    "nom": "Santa Cruz de Tenerife",
+    "region": "Canarias"
+   },
+   "39": {
+    "d": "M253.9 39.4 255.8 39.7 257.8 41.6 260.7 42.2 260.7 43.3 259.2 43.1 258.1 44.2 259.3 43.8 259.2 45.3 259.9 43.6 260.9 44.8 265.2 44.5 265.3 45.4 269.5 45.9 269.9 46.9 272.4 48.1 272.5 50.6 270.0 51.8 269.4 50.5 267.1 51.5 264.8 50.8 264.5 52.1 259.9 54.4 261.2 60.0 253.4 59.1 253.0 58.0 251.4 57.4 249.1 60.9 247.0 61.7 246.6 62.8 243.1 62.6 243.7 63.7 243.0 65.0 241.2 64.9 240.5 66.3 238.6 67.2 237.0 70.9 237.7 72.0 239.6 71.8 239.4 72.6 242.2 69.6 243.8 71.0 242.2 72.6 240.5 71.8 241.1 73.3 239.8 73.2 241.0 73.7 240.2 74.8 241.7 75.2 242.4 73.2 243.6 73.8 244.4 77.4 242.4 78.8 241.1 77.8 240.4 79.7 237.6 80.3 236.6 79.7 236.5 76.3 234.3 80.0 233.2 80.1 232.2 78.4 230.3 78.6 228.8 77.1 229.9 76.0 230.7 76.5 231.3 75.0 230.3 74.2 227.6 75.5 226.5 69.5 221.9 68.7 219.8 65.3 217.7 64.0 216.5 65.1 214.6 64.6 213.0 66.1 211.0 65.3 209.7 66.3 206.1 66.3 205.2 65.7 205.2 64.1 204.2 64.2 204.2 63.2 202.1 62.2 200.6 60.4 201.4 58.7 200.8 57.5 205.6 56.9 206.2 54.4 205.7 53.3 209.9 52.7 211.0 50.9 213.2 51.6 213.5 52.6 214.5 52.1 214.5 49.0 213.9 47.9 215.0 45.9 220.2 46.1 222.2 45.2 222.8 46.0 224.8 46.2 229.2 45.5 233.2 43.5 237.5 43.3 238.4 42.5 238.9 41.7 241.1 41.7 245.7 40.6 246.6 41.9 244.5 42.9 244.4 43.5 244.9 44.1 244.1 44.8 244.4 45.4 246.0 44.4 245.4 43.8 246.1 42.9 247.3 42.7 246.0 42.4 247.8 42.3 253.9 39.4ZM231.9 76.7 232.2 78.2 232.9 78.0 232.9 77.0 231.9 76.7ZM229.2 76.8 229.2 77.4 229.8 77.3 229.2 76.8ZM267.9 52.9 267.5 54.6 267.7 56.1 266.8 56.5 266.0 53.2 267.9 52.9Z",
+    "nom": "Cantabria",
+    "region": "Cantabria"
+   },
+   "29": {
+    "d": "M219.4 377.2 220.6 377.2 220.4 379.2 220.9 380.4 223.0 381.0 222.6 381.7 224.5 385.6 225.1 391.2 226.8 391.1 229.6 394.4 232.4 394.6 234.7 397.3 239.6 398.4 242.2 400.1 243.9 399.9 246.4 402.8 246.0 406.2 243.2 405.4 238.4 406.9 233.8 405.6 232.0 406.9 229.0 407.5 220.0 407.1 219.1 407.9 215.0 414.1 211.1 415.7 209.7 418.7 205.3 420.1 200.2 418.7 197.1 419.1 194.2 421.3 190.9 421.8 186.9 423.8 185.1 425.9 183.9 429.4 182.6 427.9 180.8 428.6 179.7 423.5 176.2 417.3 173.6 417.1 172.2 419.2 168.7 418.4 168.8 416.5 172.3 417.4 174.9 414.3 175.1 412.6 178.3 412.0 180.7 409.7 180.6 407.0 182.1 404.2 180.9 403.6 180.0 401.8 181.6 399.1 183.0 398.3 187.1 401.6 188.7 400.8 189.9 397.6 190.7 397.2 189.7 394.2 190.3 393.8 188.4 391.7 189.3 390.5 192.1 390.4 198.2 385.8 198.5 384.5 196.8 383.5 196.9 382.5 198.4 382.2 198.7 383.6 199.6 383.5 200.5 381.3 201.7 381.2 203.1 383.7 206.7 381.3 205.7 379.8 206.3 379.1 205.5 378.8 206.2 378.0 210.7 378.2 211.2 380.7 212.3 380.7 215.6 379.9 216.4 378.8 217.8 377.0 219.4 377.2Z",
+    "nom": "Málaga",
+    "region": "Andalucía"
+   },
+   "04": {
+    "d": "M313.4 343.4 315.9 343.3 316.9 344.5 320.2 345.0 321.4 344.4 322.2 345.0 321.3 346.5 320.8 350.1 321.3 352.6 320.6 354.1 320.6 355.6 322.1 358.5 327.7 367.4 329.2 368.6 329.1 367.6 332.2 368.1 336.8 371.7 334.8 372.9 334.3 373.7 333.5 375.6 331.3 377.8 330.7 378.7 329.7 379.6 327.5 388.3 325.3 392.7 325.2 395.4 323.6 395.5 322.5 397.5 321.5 397.8 321.1 400.7 318.6 402.3 318.6 404.1 316.6 404.9 315.9 406.5 313.3 407.2 308.8 401.8 305.9 400.6 303.1 402.3 301.1 400.9 301.5 401.5 300.8 400.9 297.4 402.0 294.9 406.8 291.5 409.2 288.5 409.3 286.7 407.9 285.2 408.5 282.0 405.5 279.8 406.2 273.4 405.5 272.9 403.5 277.6 400.5 275.8 396.4 277.6 396.1 277.6 394.9 279.3 394.3 279.9 393.2 278.6 390.8 277.6 385.9 278.9 386.9 281.0 386.8 281.9 383.6 283.9 381.9 284.2 379.5 285.4 376.9 288.2 377.8 289.1 379.8 290.2 379.2 293.2 380.6 293.0 376.6 293.5 373.6 294.2 373.5 294.0 371.0 299.4 366.1 301.8 365.5 301.8 364.5 306.0 363.8 306.1 362.4 305.3 361.9 305.6 360.0 304.6 357.8 305.9 358.4 308.1 357.7 307.5 354.5 309.4 350.0 308.4 348.3 308.9 347.0 308.7 344.6 312.4 342.4 313.4 343.4Z",
+    "nom": "Almería",
+    "region": "Andalucía"
+   },
+   "30": {
+    "d": "M357.0 297.5 358.3 298.0 358.5 299.4 362.3 302.5 363.3 306.9 362.3 309.6 362.8 311.0 359.4 314.2 360.1 314.5 359.8 319.2 363.8 320.5 364.7 323.0 363.9 327.1 361.8 330.4 362.4 333.8 367.6 342.1 370.5 345.2 373.4 346.2 373.9 347.5 373.9 349.4 372.9 347.7 372.0 348.2 371.9 349.6 369.9 351.5 369.4 353.4 371.7 356.4 374.9 357.7 375.2 356.9 374.4 356.3 374.1 353.8 374.1 351.5 373.6 349.8 374.2 351.0 374.9 351.4 375.2 352.0 374.4 352.3 374.7 355.3 375.6 357.3 376.6 357.8 376.0 357.9 374.7 359.5 371.0 360.9 368.6 360.8 366.8 362.0 365.1 361.8 364.8 361.2 365.5 361.3 363.7 359.5 364.1 360.4 362.6 361.0 360.3 360.4 358.8 361.2 358.0 362.1 358.7 363.1 356.3 362.7 356.0 361.6 354.4 360.9 353.0 360.9 352.6 361.9 349.6 361.6 346.4 364.6 344.0 365.7 342.8 369.1 341.5 368.7 336.9 371.8 332.2 368.1 329.1 367.6 329.2 368.6 327.7 367.4 320.6 355.6 321.3 352.6 320.8 350.1 321.3 346.5 322.2 345.0 321.4 344.4 320.2 345.0 316.9 344.5 315.9 343.3 313.9 343.9 310.7 341.4 308.5 337.8 306.7 336.5 307.2 334.4 310.1 331.8 312.1 326.9 316.3 325.0 319.1 321.3 321.9 322.7 325.0 321.8 330.2 318.6 329.8 317.9 330.8 318.1 330.8 317.4 331.9 317.3 334.3 318.1 334.1 319.6 335.1 321.0 338.5 321.1 339.8 320.3 343.2 317.5 343.1 311.9 342.3 309.1 342.8 307.4 344.3 306.4 344.5 302.7 345.6 301.2 347.9 299.8 348.8 301.2 352.8 297.9 355.6 297.0 357.0 297.5ZM373.1 354.0 373.2 354.7 373.1 354.0Z",
+    "nom": "Murcia",
+    "region": "Murcia"
+   },
+   "02": {
+    "d": "M342.9 261.1 342.8 262.1 343.7 262.0 344.3 262.2 343.6 263.0 344.4 263.3 344.2 264.2 345.1 263.3 345.4 264.1 345.9 263.2 349.2 265.7 350.2 265.2 356.4 266.9 355.7 272.3 352.6 278.0 352.1 281.0 353.8 282.4 357.2 287.6 365.1 286.8 365.2 288.1 366.6 289.6 366.1 291.6 366.6 293.3 366.4 295.5 365.0 296.0 366.9 300.2 365.0 302.3 361.9 302.4 358.5 299.4 358.3 298.0 355.6 297.0 352.8 297.9 348.8 301.2 347.9 299.8 347.2 300.0 344.5 302.7 344.3 306.4 342.8 307.4 342.4 308.8 343.1 311.9 343.2 317.5 339.8 320.3 338.5 321.1 335.1 321.0 334.1 319.6 334.3 318.0 330.9 317.4 330.8 318.1 329.8 317.9 330.2 318.6 325.0 321.8 321.9 322.7 320.2 321.6 318.4 321.8 316.3 325.0 312.1 326.9 310.1 331.8 307.2 334.4 306.7 336.5 303.3 336.1 298.0 333.6 302.3 327.9 301.9 326.2 302.7 323.2 300.6 321.6 300.7 316.4 297.0 315.5 297.2 311.3 296.1 310.2 292.4 311.0 288.8 308.9 289.6 308.3 288.8 306.8 289.4 304.6 288.9 303.9 290.4 304.5 292.9 302.7 294.2 298.1 291.7 295.5 290.2 295.6 288.9 290.2 283.8 287.1 286.0 282.5 286.9 282.5 287.1 279.5 285.5 276.5 290.6 269.4 289.7 266.6 294.3 266.1 295.0 265.3 297.9 266.2 299.5 265.2 305.3 271.2 306.3 268.7 307.6 268.4 308.9 271.5 314.0 268.5 319.0 269.3 317.1 264.3 320.3 264.7 319.9 265.5 321.6 267.9 325.9 267.3 330.9 268.6 332.1 266.4 339.9 262.0 342.9 261.1Z",
+    "nom": "Albacete",
+    "region": "Castilla-La Mancha"
+   },
+   "05": {
+    "d": "M193.8 166.6 200.1 170.4 202.2 169.9 202.2 168.5 203.4 167.7 206.1 167.4 206.5 172.1 209.6 173.8 211.0 177.1 212.7 177.8 213.0 181.7 214.2 183.1 213.1 184.3 215.8 184.5 216.6 187.7 218.4 189.4 218.9 195.3 225.8 194.3 225.0 192.8 225.9 192.3 229.8 192.3 229.3 193.1 229.8 195.9 226.2 197.0 225.5 196.9 225.2 195.6 224.3 195.6 224.8 197.0 224.4 199.1 222.8 200.7 223.3 204.5 222.2 206.4 223.1 207.4 218.8 207.6 217.9 208.7 218.1 210.5 217.2 211.1 217.4 212.3 215.4 212.6 214.4 210.9 213.5 211.1 214.3 213.7 212.6 215.7 212.7 217.8 209.0 218.9 207.6 218.1 207.1 214.3 204.4 215.5 202.7 214.7 202.0 215.8 202.5 216.9 197.5 220.4 197.5 222.3 196.2 222.4 196.3 223.1 193.8 223.6 194.1 222.6 193.2 221.0 191.5 221.5 188.4 224.6 185.9 225.2 185.3 223.8 180.2 223.3 178.8 220.7 178.7 217.8 179.8 215.3 176.2 215.9 174.5 218.4 171.9 219.1 168.6 217.9 168.1 216.3 166.9 216.1 165.1 213.8 163.2 213.7 165.9 210.7 165.7 208.7 165.2 206.8 167.6 204.7 170.7 203.8 170.1 205.6 172.1 206.7 172.8 206.5 172.8 204.5 174.7 204.4 176.3 199.1 172.2 200.3 172.6 197.9 173.3 198.1 175.5 198.2 178.2 196.0 178.9 194.5 178.1 193.3 185.3 188.6 185.1 187.8 187.5 185.5 187.4 182.6 189.5 180.7 189.0 178.0 189.9 177.6 190.6 175.7 189.9 173.9 188.2 173.1 188.1 170.5 188.9 169.8 189.1 168.1 190.1 167.5 191.8 168.0 193.8 166.6Z",
+    "nom": "Ávila",
+    "region": "Castilla y León"
+   },
+   "01": {
+    "d": "M277.7 55.5 278.6 56.5 279.7 56.3 281.1 57.9 280.8 58.5 281.6 59.8 279.9 61.8 283.3 64.7 294.4 66.1 294.4 64.8 293.2 63.2 298.0 62.4 298.9 64.7 297.9 66.1 295.9 66.7 295.7 68.2 296.6 69.1 298.2 69.9 298.5 68.6 306.1 69.9 310.9 73.4 311.2 76.1 309.3 78.8 310.0 80.8 307.7 81.3 307.4 82.1 307.7 84.4 308.7 84.6 308.9 85.9 305.0 87.0 305.2 86.1 303.6 85.5 300.7 88.2 300.0 88.0 300.4 89.6 301.6 89.5 302.0 90.6 303.3 88.5 304.4 88.9 304.6 93.3 303.2 93.7 303.4 94.8 299.4 94.8 299.6 93.2 298.4 94.5 298.7 95.2 297.1 94.6 295.9 95.7 295.5 94.1 293.8 95.2 292.6 92.9 291.3 93.3 292.4 89.1 289.8 87.6 288.9 87.6 288.3 89.9 286.3 91.3 285.6 89.9 286.5 89.3 286.5 88.2 285.6 88.4 285.5 87.2 283.3 85.9 283.0 83.8 281.8 83.0 279.7 83.2 278.2 81.2 277.1 81.3 276.8 79.9 272.6 80.4 273.7 78.6 272.1 77.8 274.1 74.7 274.0 73.2 272.0 74.9 270.8 74.3 269.5 75.9 270.2 76.5 266.9 73.9 267.2 72.5 268.4 71.9 269.4 69.9 272.8 70.7 272.6 71.7 275.0 72.7 278.1 72.1 279.7 70.5 277.0 68.6 280.7 67.3 279.5 67.6 279.5 66.5 277.5 66.1 278.1 65.2 276.8 64.6 275.1 67.1 271.4 66.0 272.9 65.6 272.9 63.6 272.2 63.2 273.2 61.9 271.2 60.7 272.0 58.8 273.0 58.4 274.2 59.4 277.7 58.5 278.2 56.2 277.2 55.8ZM285.8 78.2 284.4 81.3 288.0 83.5 288.7 85.3 293.3 84.9 294.3 86.3 299.3 86.3 299.1 84.3 296.7 85.2 295.4 83.7 296.9 82.1 297.5 80.0 296.2 80.7 295.7 79.6 293.9 79.9 290.2 78.3 286.2 78.9 285.8 78.2Z",
+    "nom": "Álava",
+    "region": "País Vasco"
+   },
+   "06": {
+    "d": "M208.0 260.2 208.2 261.4 206.9 264.0 206.8 266.0 204.5 266.4 206.7 272.4 209.2 274.8 202.4 273.0 200.6 275.5 199.7 278.3 201.7 280.3 201.4 281.3 199.4 282.0 196.0 280.6 197.8 286.1 201.4 287.1 200.8 290.1 198.0 289.9 196.8 291.6 194.8 297.8 190.2 299.6 186.6 298.9 187.3 301.1 186.5 301.4 186.6 302.2 185.6 301.7 185.3 302.8 182.0 304.8 181.3 306.6 178.7 306.3 177.8 307.9 178.2 308.6 177.2 308.5 176.7 310.1 174.1 311.7 173.9 312.8 172.4 312.8 170.4 314.4 169.7 316.2 170.7 318.0 170.0 320.1 172.1 323.6 172.4 326.7 171.6 327.0 171.6 329.2 170.0 329.8 169.7 330.8 167.6 330.4 165.1 333.4 163.3 333.2 163.1 330.7 165.0 329.8 164.5 328.7 165.5 329.3 165.3 328.1 163.6 327.2 157.4 329.3 157.2 330.7 155.2 332.2 156.0 334.5 154.9 335.4 154.1 338.2 147.2 338.9 144.5 341.1 143.6 340.0 139.3 339.1 137.2 337.5 136.6 335.3 134.6 334.7 133.0 334.9 132.0 337.5 129.1 336.4 127.5 336.8 127.6 335.0 125.8 332.6 121.1 333.0 119.6 332.5 119.6 331.8 118.0 331.9 118.5 328.2 116.0 328.2 112.5 326.7 112.5 326.0 111.0 326.9 109.4 326.8 108.7 328.0 107.1 327.8 106.2 328.7 103.8 324.9 103.5 323.0 102.7 322.8 98.0 315.1 95.7 314.4 97.4 312.0 96.2 312.0 97.1 308.4 99.5 304.1 98.5 303.3 99.1 298.6 104.4 293.8 106.1 293.6 107.0 291.7 108.2 291.1 108.5 290.3 107.7 288.8 111.9 282.5 110.0 278.4 108.2 277.3 105.4 278.4 103.8 277.8 104.2 274.5 99.7 272.5 99.4 270.0 100.1 268.7 101.2 269.4 103.3 266.7 103.3 265.9 102.3 265.8 103.3 263.9 106.7 263.1 106.5 264.7 105.7 264.3 105.5 265.0 106.6 267.0 108.0 266.1 108.5 263.9 109.5 262.7 107.0 261.3 107.8 260.1 114.8 263.0 118.2 262.7 118.4 265.1 120.6 266.3 120.0 268.8 118.3 270.8 119.7 273.6 123.3 274.2 124.2 273.0 125.4 273.1 127.6 274.0 127.8 275.2 129.3 275.4 129.3 273.9 136.1 274.9 138.4 273.7 138.9 277.7 142.4 278.9 143.5 280.7 145.5 280.8 146.1 282.0 151.3 276.8 151.7 280.9 154.6 277.9 154.7 279.2 155.3 279.3 159.1 277.8 160.1 275.9 162.5 276.6 165.3 279.3 167.1 278.2 168.8 278.3 169.7 277.4 169.0 276.5 170.0 275.6 168.5 273.6 171.1 272.1 172.1 273.4 172.6 272.4 174.9 275.2 176.9 275.3 178.1 274.3 179.6 271.1 180.0 265.7 183.9 267.4 189.1 265.5 189.6 262.8 190.6 262.6 192.1 264.1 195.0 263.6 195.5 262.4 197.1 262.3 199.8 263.8 203.9 262.3 207.5 259.3 208.0 260.2Z",
+    "nom": "Badajoz",
+    "region": "Extremadura"
+   },
+   "03": {
+    "d": "M398.9 290.1 399.4 291.4 402.7 289.9 404.2 291.5 404.6 290.7 404.0 289.9 406.3 291.1 410.9 292.0 414.0 294.4 413.3 294.9 413.7 296.0 415.1 296.5 415.1 297.3 415.5 298.0 413.3 298.9 411.9 301.1 409.8 301.5 408.7 303.0 409.2 303.7 407.8 303.2 406.9 304.0 405.0 304.0 403.0 306.4 403.5 307.5 401.5 309.6 399.2 308.9 389.8 313.9 388.5 316.2 388.6 318.8 386.9 318.2 384.1 320.3 383.9 327.2 380.5 327.7 379.0 329.8 378.3 337.9 377.5 339.2 376.2 339.6 375.2 342.7 374.0 343.3 373.4 346.2 370.5 345.2 366.7 340.9 362.4 333.8 361.8 330.4 363.9 327.1 364.7 323.0 363.8 320.5 359.8 319.2 359.7 318.0 360.1 314.5 359.4 314.2 362.8 311.0 362.3 309.6 363.3 306.9 362.2 302.4 365.0 302.3 366.9 300.2 365.0 296.0 366.4 295.5 367.4 296.4 369.2 296.2 370.4 298.2 374.6 296.8 375.8 298.2 378.4 298.5 378.5 299.8 379.5 300.7 384.2 297.7 383.3 296.4 381.7 297.0 380.6 294.8 386.1 294.2 388.6 292.4 389.5 292.7 392.5 290.2 395.9 291.7 398.9 290.1ZM385.3 328.9 386.0 329.1 385.2 328.9Z",
+    "nom": "Alicante",
+    "region": "Comunidad Valenciana"
+   },
+   "32": {
+    "d": "M71.0 90.7 72.3 92.0 70.8 92.9 71.8 93.1 71.3 93.8 72.9 93.7 76.0 95.3 77.5 94.6 78.2 95.3 76.5 95.7 79.7 96.8 80.4 98.1 83.2 99.3 83.7 100.5 85.5 99.4 87.0 100.5 88.4 100.4 93.0 97.8 94.2 98.5 96.9 98.1 100.6 100.4 100.1 101.9 101.3 103.7 103.6 97.7 105.6 96.5 106.6 93.8 110.8 94.6 111.5 93.3 113.0 93.2 115.8 94.9 117.3 94.8 118.0 96.0 117.3 96.8 117.7 98.2 116.5 99.4 121.1 101.9 121.1 104.1 119.7 107.4 118.2 108.4 118.9 109.7 116.5 109.0 115.0 109.4 114.0 111.1 112.3 111.9 112.2 113.7 110.3 114.8 109.7 116.8 108.4 117.3 109.4 118.5 110.9 118.3 111.5 119.8 109.6 124.0 106.8 124.0 106.2 122.7 103.9 121.8 102.3 122.4 101.8 124.5 102.5 125.7 101.5 127.8 100.0 128.5 96.5 129.8 94.3 129.4 91.8 131.8 91.9 130.5 90.7 128.6 88.6 128.4 87.8 129.9 83.9 130.6 85.1 127.7 82.2 127.8 80.2 126.3 74.2 127.7 74.1 128.7 72.8 129.5 72.5 125.4 71.6 125.3 70.9 127.9 68.4 128.2 67.0 130.6 63.6 131.7 60.6 131.2 60.4 127.9 59.2 128.2 58.4 126.0 60.7 122.3 64.0 120.4 64.0 118.8 62.6 116.9 59.7 117.3 59.2 113.0 60.8 111.6 59.5 110.0 60.7 109.3 60.8 108.1 57.9 108.7 56.4 107.6 56.5 104.3 53.9 102.7 54.3 100.7 53.2 96.1 52.1 94.9 54.8 94.8 60.3 90.4 61.4 91.6 63.8 91.1 66.8 92.0 67.9 90.3 70.6 90.0 71.0 90.7Z",
+    "nom": "Ourense",
+    "region": "Galicia"
+   },
+   "08": {
+    "d": "M486.7 104.1 493.1 105.5 490.8 108.7 491.4 109.6 492.4 109.4 492.7 111.7 490.3 112.6 490.4 110.8 488.7 110.6 488.7 111.7 489.8 111.4 490.3 113.2 492.7 114.0 494.0 113.5 495.5 115.2 496.3 114.2 498.6 114.6 499.2 113.6 501.6 113.5 502.8 114.1 502.6 115.8 505.6 114.8 507.0 115.8 506.8 116.6 507.8 117.8 509.5 117.0 510.9 117.7 510.5 118.7 511.5 119.6 511.2 121.3 509.9 121.7 510.8 122.2 510.2 123.0 508.3 123.0 510.5 125.9 508.8 127.4 507.3 127.0 506.3 128.3 505.8 127.5 504.0 127.7 503.9 129.1 505.0 131.6 510.1 132.7 510.0 133.4 511.9 134.2 513.3 136.5 517.9 135.0 523.0 135.7 522.2 138.7 523.0 140.3 513.6 144.1 505.7 148.9 501.4 150.6 498.5 154.5 497.4 157.3 498.0 155.6 497.9 154.9 495.0 159.7 475.2 165.0 475.0 162.7 474.3 163.4 472.5 162.7 472.0 161.4 474.1 161.7 474.8 159.5 472.7 159.6 473.0 158.8 471.5 156.9 472.3 155.9 470.6 154.6 469.4 154.1 467.9 154.9 468.6 153.7 468.0 152.2 468.8 151.9 467.7 151.4 468.4 149.8 464.6 147.7 465.2 146.5 466.8 146.4 466.1 145.4 467.1 144.7 465.6 143.9 464.5 144.3 465.1 143.0 463.1 142.3 464.4 141.1 466.8 141.0 465.4 139.0 464.0 137.3 465.8 135.8 464.9 135.1 465.5 132.5 467.8 132.1 467.4 133.4 468.3 133.7 468.3 132.6 469.2 132.8 470.3 134.7 472.1 133.1 473.0 133.4 472.8 131.9 473.7 131.2 474.5 129.0 474.0 127.7 471.9 127.8 475.5 125.2 475.4 122.4 476.4 122.3 476.2 123.0 478.3 122.2 477.4 120.5 477.4 122.1 475.3 121.3 475.6 120.2 476.0 121.1 477.4 119.8 477.1 118.8 476.2 118.9 477.1 116.6 478.4 116.4 477.4 114.0 479.1 111.8 479.1 111.1 476.6 110.2 476.6 109.2 477.7 108.4 476.8 107.4 477.0 106.3 476.2 106.1 486.7 104.1ZM491.1 114.4 490.2 114.5 490.5 115.5 491.4 114.8ZM477.9 127.3 478.5 127.1 477.9 126.9ZM475.6 115.1 476.8 115.1 475.1 115.2Z",
+    "nom": "Barcelona",
+    "region": "Cataluña"
+   },
+   "09": {
+    "d": "M268.3 56.6 269.4 58.0 272.2 57.5 272.9 58.2 271.2 60.6 273.2 61.9 272.2 63.2 272.9 63.6 272.9 65.6 271.4 66.0 276.3 67.0 277.1 68.8 279.7 70.5 278.1 72.1 275.0 72.7 272.6 71.7 272.8 70.7 269.4 69.9 268.4 71.9 267.2 72.5 266.9 73.9 270.2 76.5 269.5 75.9 270.8 74.3 272.0 74.9 274.0 73.2 274.1 74.7 272.1 77.8 273.7 78.6 272.6 80.4 276.8 79.9 277.1 81.3 278.2 81.2 279.7 83.2 281.8 83.0 283.0 83.8 283.3 85.9 284.9 86.8 282.4 87.8 281.1 86.7 275.3 86.6 276.3 89.4 273.2 92.0 275.8 92.7 274.9 94.9 276.9 97.2 276.2 98.3 276.5 101.3 275.4 99.8 275.6 98.8 274.6 98.8 274.4 100.4 275.3 100.5 276.2 102.0 274.2 102.3 275.1 108.0 273.4 110.6 277.4 116.7 281.8 116.6 282.5 120.1 281.0 121.7 280.1 125.2 278.5 125.5 278.2 127.5 274.8 127.8 273.1 131.5 271.6 132.5 270.7 130.6 269.0 130.0 268.6 128.7 266.9 127.6 267.2 133.9 263.9 135.6 263.7 137.9 262.3 138.1 259.5 143.6 256.5 142.3 255.6 143.2 256.0 144.2 254.9 144.1 254.7 144.9 252.8 144.2 250.9 144.8 248.1 147.4 248.3 149.5 247.6 151.1 246.3 150.6 246.5 146.4 244.9 147.1 245.6 149.2 244.1 149.4 241.1 145.6 237.4 143.9 236.4 141.9 235.1 141.9 235.5 138.0 233.4 135.8 234.3 135.4 235.0 132.7 232.8 130.5 233.3 129.5 232.9 128.3 235.0 128.2 237.4 126.7 237.4 125.1 239.6 123.5 241.2 123.6 241.3 121.8 240.4 121.5 235.2 123.8 236.0 121.4 237.8 119.5 237.4 118.6 235.0 118.4 233.2 119.3 232.2 118.0 232.3 116.6 233.3 116.9 234.2 115.9 232.2 115.4 231.5 114.4 228.0 114.1 228.6 111.8 226.8 110.0 227.0 107.8 226.3 107.3 225.4 102.2 224.8 101.6 225.1 100.5 223.0 100.8 223.3 99.1 222.5 98.0 223.2 96.5 226.4 96.6 226.2 94.5 224.5 93.6 224.9 91.8 223.8 91.3 223.7 90.4 225.2 89.9 224.2 88.6 225.5 87.9 224.2 83.9 225.4 83.1 225.8 84.1 230.5 80.6 232.0 81.6 233.0 80.0 237.0 79.6 238.1 80.3 240.4 79.7 241.1 77.8 242.4 78.8 244.1 78.1 243.9 74.2 242.4 73.2 241.7 75.2 240.2 74.8 241.0 73.7 239.8 73.2 241.1 73.3 240.4 72.0 242.2 72.7 243.7 71.6 243.4 70.5 241.4 70.0 241.2 71.2 239.4 72.6 239.6 71.8 237.7 71.9 237.2 70.4 238.9 66.9 240.5 66.3 241.2 64.9 242.9 65.1 243.7 63.7 243.1 62.6 246.6 62.8 247.0 61.7 249.1 60.9 251.3 57.4 253.0 58.0 253.4 59.1 260.5 60.1 268.3 56.6ZM232.8 112.6 231.9 112.7 232.0 113.6 234.0 114.2 233.8 112.5 232.8 112.6ZM235.2 115.6 235.5 116.6 235.2 115.6ZM286.2 78.7 290.2 78.3 293.9 79.9 295.7 79.6 296.2 80.7 297.5 80.0 296.9 82.1 295.4 83.7 296.7 85.2 299.1 84.3 299.3 86.3 294.3 86.3 293.3 84.9 288.7 85.3 288.0 83.5 284.4 81.3 285.8 78.2ZM281.6 89.2 281.2 88.6 282.1 88.8Z",
+    "nom": "Burgos",
+    "region": "Castilla y León"
+   },
+   "10": {
+    "d": "M142.4 203.3 145.5 204.9 145.9 206.0 147.2 205.7 146.6 206.8 149.4 208.1 148.5 208.5 148.6 210.0 147.6 210.3 151.4 211.2 151.9 213.1 154.7 214.4 155.6 214.6 157.0 211.9 160.6 210.5 161.3 212.7 160.4 213.5 165.1 213.8 166.9 216.1 168.1 216.3 168.4 217.8 171.2 218.9 174.5 218.4 176.2 215.9 179.9 215.3 178.7 217.8 178.8 220.7 180.2 223.3 178.8 224.2 178.9 230.5 177.2 236.2 180.7 235.5 182.4 237.0 181.2 239.1 181.3 242.6 183.6 243.0 185.6 240.6 187.3 240.5 187.7 242.6 187.0 243.1 188.5 245.0 187.5 249.0 185.6 251.4 196.4 262.4 195.4 262.4 195.0 263.6 192.1 264.1 190.6 262.6 189.6 262.8 189.1 265.5 183.9 267.4 180.0 265.7 179.6 271.1 178.1 274.3 176.9 275.3 174.9 275.2 172.6 272.4 172.1 273.4 171.1 272.1 168.5 273.6 170.0 275.6 169.0 276.5 169.7 277.4 168.8 278.3 167.1 278.2 165.3 279.3 162.5 276.6 160.1 275.9 159.1 277.8 155.3 279.3 154.7 279.2 155.2 278.1 151.7 280.9 151.3 276.8 146.1 282.0 145.5 280.8 143.5 280.7 142.4 278.9 138.9 277.7 138.4 273.7 136.1 274.9 129.3 273.9 129.3 275.4 127.8 275.2 127.6 274.0 125.4 273.1 124.2 273.0 123.3 274.2 119.7 273.6 118.3 270.8 120.0 268.8 120.6 266.3 118.4 265.1 118.1 262.6 114.8 263.0 107.8 260.1 107.0 261.3 109.5 262.7 107.9 266.2 106.5 266.9 105.5 264.6 106.5 264.7 107.2 263.6 104.5 263.1 103.0 264.2 102.3 265.8 103.4 266.4 101.2 269.4 96.8 265.5 96.2 263.1 97.3 258.9 93.7 257.1 93.3 255.1 91.7 254.8 90.4 252.8 88.9 252.0 86.8 247.8 95.8 249.0 99.3 247.6 103.6 248.4 109.2 247.4 110.8 241.9 110.4 239.9 113.9 236.6 113.7 234.0 114.7 232.8 114.7 230.7 115.6 228.9 112.3 223.5 110.1 223.5 109.4 222.7 109.2 220.0 108.6 219.6 109.3 217.4 111.4 216.8 111.9 215.6 115.6 215.0 116.9 216.2 120.2 216.7 121.8 215.0 123.0 216.5 123.7 215.4 127.3 215.0 128.6 213.9 128.4 211.8 129.5 210.8 133.6 209.4 134.4 208.0 136.4 207.9 137.6 205.6 140.5 204.8 142.4 203.3Z",
+    "nom": "Cáceres",
+    "region": "Extremadura"
+   },
+   "11": {
+    "d": "M176.1 389.3 176.6 391.3 174.9 393.4 175.8 395.5 176.9 395.3 177.8 393.5 181.6 390.0 181.7 391.3 184.5 395.2 188.4 391.8 189.5 392.6 190.3 393.8 189.7 394.2 190.7 397.2 189.9 397.6 188.7 400.8 187.2 401.6 185.0 400.6 183.0 398.3 181.6 399.1 180.0 401.8 180.9 403.6 182.1 404.2 180.6 407.0 180.7 409.7 178.3 412.0 175.1 412.6 174.9 414.3 172.3 417.4 168.6 416.7 168.7 418.4 172.2 419.2 173.6 417.1 176.2 417.3 179.7 423.5 180.8 428.6 182.6 427.9 183.7 429.3 181.0 433.8 180.1 437.9 178.9 437.8 177.8 436.4 175.7 437.4 175.5 438.7 175.6 439.3 176.2 438.6 175.7 439.7 176.2 440.5 175.6 441.3 176.2 442.3 168.5 446.2 166.8 443.3 165.2 442.5 163.8 442.9 161.6 441.4 160.7 441.9 155.7 436.2 150.7 436.4 147.8 430.8 145.7 429.6 144.4 426.2 142.9 424.9 139.9 417.8 139.0 417.6 139.8 417.1 140.8 417.4 140.2 417.6 141.3 418.7 141.2 420.6 142.4 421.1 144.8 418.0 143.6 417.6 143.3 418.6 141.7 418.6 141.2 417.5 142.4 417.8 142.3 414.5 141.6 415.2 142.0 414.5 140.9 414.8 139.4 412.7 138.6 413.0 138.2 412.4 138.3 413.1 137.9 412.3 137.2 412.9 135.7 412.1 133.4 406.2 137.6 403.2 137.2 399.9 138.1 397.5 140.4 396.9 141.4 397.8 145.5 398.2 147.7 399.8 156.7 400.6 157.3 397.7 158.6 396.6 164.2 396.4 166.2 393.3 168.2 395.3 169.6 394.9 169.7 396.6 171.8 397.8 171.3 395.8 174.5 392.9 172.8 390.2 176.1 389.3ZM142.8 425.5 142.6 424.7 142.8 425.5Z",
+    "nom": "Cádiz",
+    "region": "Andalucía"
+   },
+   "12": {
+    "d": "M398.7 186.9 399.5 187.1 400.3 188.8 402.9 190.2 406.3 190.2 406.8 192.0 410.4 190.2 411.7 190.7 415.2 189.9 415.6 191.6 416.7 191.4 418.0 192.3 417.0 193.9 417.4 195.5 422.6 197.0 424.4 198.3 424.1 200.0 427.3 201.7 423.3 207.9 422.9 210.3 417.4 216.4 416.8 218.3 413.7 220.4 411.9 225.1 407.7 227.7 405.4 234.2 402.8 237.3 401.9 237.5 397.7 244.7 394.5 243.4 393.9 242.0 391.8 240.4 389.7 240.5 388.9 242.7 386.4 245.1 383.2 240.7 381.3 241.9 380.8 243.6 378.1 242.9 377.9 238.5 376.4 237.6 375.5 239.5 374.8 239.6 372.9 236.7 370.4 234.4 369.9 232.4 370.2 230.9 372.8 229.7 373.8 227.1 376.8 227.2 379.1 225.5 379.1 224.1 381.2 222.2 382.6 216.0 384.7 217.2 387.5 216.4 389.4 215.3 388.7 213.7 389.2 213.0 390.2 213.1 391.2 211.2 393.7 209.8 393.6 208.7 391.0 205.6 394.1 204.0 393.9 202.5 392.9 201.7 393.2 196.5 390.0 196.4 389.5 193.7 391.7 192.8 392.7 193.9 395.7 192.2 396.2 188.8 397.3 187.1 398.7 186.9Z",
+    "nom": "Castellón",
+    "region": "Comunidad Valenciana"
+   },
+   "13": {
+    "d": "M230.7 253.1 234.9 252.6 235.3 255.5 234.1 255.5 233.7 259.0 231.6 259.0 230.4 264.1 231.5 264.1 232.2 265.3 233.5 264.0 237.8 264.7 238.0 267.6 242.6 269.8 245.4 267.9 248.3 269.2 250.1 267.6 256.4 267.3 258.7 265.2 259.0 263.6 261.5 261.9 265.8 262.1 265.5 260.2 266.4 258.3 271.0 258.1 271.1 257.3 272.2 256.9 275.9 259.4 277.9 259.0 278.9 259.8 280.7 259.5 281.9 258.3 281.8 259.2 284.4 262.6 283.2 263.9 283.8 264.8 285.9 264.6 287.6 262.2 288.3 262.4 290.6 269.3 285.5 276.5 287.1 279.5 287.0 282.2 286.0 282.5 283.8 287.1 285.8 288.8 287.6 288.9 288.9 290.3 289.3 293.8 290.2 295.6 291.7 295.5 294.0 297.7 292.9 302.7 290.4 304.5 288.9 303.9 289.4 304.6 288.8 306.8 289.6 308.3 288.2 310.3 283.9 313.4 282.9 312.5 280.4 312.4 279.1 313.5 278.8 315.8 276.1 312.0 273.0 314.2 267.1 313.0 265.1 311.8 263.0 312.2 263.0 314.1 259.8 316.2 256.5 315.8 256.0 313.8 254.2 313.5 253.6 316.3 245.7 314.9 243.8 315.5 243.8 316.6 242.8 317.6 240.2 317.9 230.0 317.3 225.7 316.2 224.9 316.8 225.3 319.1 224.5 319.3 217.5 316.2 215.0 312.8 212.7 311.3 211.5 311.6 210.3 309.5 206.9 307.9 206.7 306.9 200.3 304.7 199.6 300.8 194.2 300.3 194.0 299.2 192.4 298.4 194.8 297.8 196.8 291.6 198.0 289.9 200.8 290.1 201.5 287.2 197.8 286.1 196.0 280.6 199.4 282.0 201.4 281.3 201.7 280.3 199.7 278.3 200.6 275.5 202.4 273.0 209.2 274.7 206.7 272.4 204.5 266.4 206.8 266.0 206.9 264.0 208.3 260.8 207.6 259.4 210.5 259.2 210.5 257.5 212.6 256.8 213.2 256.1 212.9 254.9 213.7 254.3 214.2 255.0 214.4 253.4 216.2 254.6 215.0 255.5 217.1 257.8 217.9 255.4 220.7 256.9 226.4 257.9 228.5 256.9 229.9 252.5 230.7 253.1ZM204.2 255.8 205.2 257.4 205.3 259.1 204.2 260.3 204.7 261.3 204.0 262.2 199.8 263.8 196.9 262.4 198.2 257.0 200.1 253.6 204.2 255.8Z",
+    "nom": "Ciudad Real",
+    "region": "Castilla-La Mancha"
+   },
+   "23": {
+    "d": "M288.7 309.0 291.4 310.8 295.8 310.1 297.0 311.1 297.0 315.5 300.7 316.4 300.6 321.6 302.7 323.2 301.9 326.2 302.3 327.9 298.3 332.9 295.5 334.5 295.6 338.0 292.8 340.0 291.4 339.4 288.0 342.4 284.2 349.2 283.9 350.9 282.9 351.4 283.0 354.7 283.8 355.2 279.8 357.7 279.8 359.4 276.7 358.6 275.1 359.8 271.6 357.2 269.8 357.2 267.8 357.4 266.4 360.2 262.0 361.5 257.5 358.6 256.2 359.7 256.2 360.6 252.4 363.4 246.1 366.2 245.7 365.5 243.3 371.1 238.7 371.6 237.3 371.0 234.6 366.7 232.9 365.7 234.1 364.7 232.5 364.3 231.5 362.0 229.8 360.9 229.3 359.0 227.3 358.5 227.0 357.4 229.7 355.1 228.9 353.8 226.5 353.1 227.8 349.8 224.5 348.9 225.7 341.2 224.7 336.7 225.6 336.7 225.3 335.7 226.5 335.4 226.0 334.5 227.6 333.1 227.4 331.9 229.8 330.0 229.5 328.1 228.1 326.3 228.3 325.0 227.5 324.5 227.7 321.6 226.5 320.8 226.6 319.4 225.2 319.1 224.8 317.5 225.3 316.3 240.2 317.9 242.8 317.6 243.8 316.6 243.8 315.5 245.7 314.9 253.6 316.3 254.2 313.5 254.9 313.4 256.3 314.1 256.5 315.8 259.0 316.4 260.9 315.9 263.0 314.1 263.0 312.2 265.1 311.8 267.1 313.0 273.0 314.2 276.1 312.0 278.8 315.8 279.1 313.5 280.4 312.4 282.9 312.5 283.9 313.4 288.2 310.3 288.7 309.0Z",
+    "nom": "Jaén",
+    "region": "Andalucía"
+   },
+   "14": {
+    "d": "M192.9 298.6 194.2 299.4 194.2 300.3 199.6 300.8 200.3 304.7 206.7 306.9 206.9 307.9 210.3 309.5 211.5 311.6 212.7 311.3 215.0 312.8 217.5 316.2 224.5 319.3 226.6 319.4 226.5 320.8 227.7 321.6 227.5 324.5 228.3 325.0 228.1 326.3 229.5 328.1 229.8 330.0 227.4 331.9 227.6 333.1 226.0 334.5 226.5 335.4 225.3 335.7 225.6 336.7 224.7 336.7 225.7 341.2 224.5 348.9 227.9 349.9 226.5 353.1 228.9 353.8 229.7 355.1 227.0 357.4 227.3 358.5 229.3 359.0 229.8 360.9 231.5 362.0 232.5 364.3 234.1 364.7 232.9 365.7 234.6 366.7 236.6 370.3 233.0 370.2 230.0 373.5 228.0 372.9 226.6 373.9 226.6 375.9 225.5 377.9 225.8 379.6 224.1 381.2 222.8 382.1 223.0 381.0 220.9 380.4 220.5 379.5 220.6 377.1 219.0 376.8 216.1 378.4 215.6 379.9 211.2 380.7 210.7 378.2 209.4 378.7 208.6 376.7 207.8 376.3 208.8 375.6 207.7 375.0 208.4 374.7 208.2 373.9 206.3 372.6 205.8 373.9 203.6 374.3 201.9 372.6 202.2 371.6 200.7 369.8 201.1 368.4 199.2 368.3 199.6 367.7 198.4 366.7 198.4 365.5 196.5 363.8 197.2 362.5 197.3 358.6 195.5 359.5 196.3 356.7 194.4 353.8 192.4 353.2 191.3 353.7 190.5 355.2 191.1 355.8 190.2 355.7 189.8 354.1 188.9 354.2 189.8 356.2 188.0 356.3 186.9 355.2 182.8 358.2 180.7 358.8 179.5 360.4 176.9 357.1 177.7 356.6 176.9 356.0 177.3 354.5 178.0 354.3 178.5 355.4 179.8 353.9 180.5 354.6 181.4 354.2 181.3 350.2 179.6 349.0 179.8 346.6 176.8 345.0 176.8 340.9 174.3 339.2 173.5 338.1 173.4 335.6 171.6 332.8 169.8 331.6 169.6 330.3 171.6 329.2 171.6 327.0 172.4 326.6 172.1 323.6 170.0 320.1 170.7 318.0 169.7 316.2 171.0 313.8 173.9 312.8 174.1 311.7 177.0 309.7 177.2 308.5 178.2 308.7 177.8 307.9 178.7 306.3 181.3 306.6 182.0 304.8 184.9 302.3 185.6 301.7 186.6 302.2 186.5 301.4 187.3 301.1 186.6 298.9 190.2 299.6 192.9 298.6ZM190.9 357.0 192.4 357.8 193.6 360.0 192.3 359.1 192.7 358.1 190.9 357.0Z",
+    "nom": "Córdoba",
+    "region": "Andalucía"
+   },
+   "16": {
+    "d": "M314.7 194.0 317.3 194.6 319.6 197.0 321.7 197.9 322.6 197.6 322.6 196.5 324.4 197.6 325.0 200.3 326.1 201.5 327.3 206.7 328.0 206.5 329.1 208.0 330.5 208.4 333.9 212.2 332.6 213.2 333.0 214.6 334.2 212.9 340.5 219.3 341.8 218.6 343.3 219.6 344.8 218.9 344.1 222.5 346.2 224.1 347.5 228.7 352.8 229.9 356.4 229.1 357.4 231.1 354.6 232.7 354.9 237.3 354.3 240.0 351.7 243.8 352.3 245.9 350.4 247.4 347.8 246.4 345.7 248.3 343.9 252.5 341.4 254.0 342.1 254.2 342.3 256.7 341.7 256.9 341.7 258.9 341.0 259.1 341.4 260.4 342.4 260.5 342.0 261.1 332.1 266.4 330.9 268.6 325.9 267.3 321.6 267.9 319.9 265.5 320.3 264.7 317.1 264.3 319.0 269.3 314.0 268.5 308.9 271.5 307.6 268.4 306.3 268.7 305.3 271.2 299.5 265.2 297.9 266.2 295.0 265.3 294.3 266.1 289.8 266.5 288.3 262.4 287.6 262.2 286.0 264.5 283.8 264.8 283.2 263.9 284.4 262.6 281.7 259.2 282.0 251.2 282.8 249.0 279.0 244.8 275.6 237.4 273.5 236.4 274.8 233.2 274.8 230.3 272.8 230.4 271.9 228.1 272.0 226.1 273.9 226.3 276.3 224.7 276.5 223.5 274.8 221.3 276.2 220.5 278.2 221.3 278.0 219.5 278.7 218.3 282.6 221.1 284.2 220.2 284.7 218.8 286.4 218.5 287.2 215.3 286.6 209.9 288.2 205.5 289.0 205.7 289.0 207.3 290.6 208.1 290.8 206.9 292.2 208.1 291.4 206.6 292.7 205.3 293.1 206.0 296.4 205.2 299.3 206.6 299.8 205.3 298.1 203.9 298.8 202.6 298.0 201.5 298.8 200.1 300.2 202.1 303.1 200.3 303.7 201.2 305.1 200.2 303.5 198.0 304.2 196.4 306.0 197.3 306.6 198.8 308.5 198.6 309.0 197.6 308.7 195.8 309.5 194.7 312.1 196.1 314.0 195.5 314.7 194.0Z",
+    "nom": "Cuenca",
+    "region": "Castilla-La Mancha"
+   },
+   "18": {
+    "d": "M297.9 333.4 303.2 336.1 306.7 336.5 308.5 337.8 310.7 341.4 312.4 342.4 308.7 344.6 308.9 347.0 308.4 348.3 309.4 350.0 307.5 354.5 308.0 357.9 305.9 358.4 304.6 357.8 305.6 360.0 305.3 361.9 306.1 362.4 306.0 363.8 301.8 364.5 301.8 365.5 299.4 366.1 294.0 371.0 294.2 373.5 293.5 373.6 293.0 376.6 293.2 380.6 290.2 379.2 289.1 379.8 288.2 377.8 285.4 376.9 284.2 379.5 283.9 381.9 281.9 383.6 281.0 386.8 278.9 386.9 277.6 385.9 278.6 390.8 279.9 393.2 279.3 394.3 277.6 394.9 277.6 396.1 275.8 396.4 277.6 400.5 272.9 403.5 273.4 405.5 268.3 405.3 264.6 406.2 261.1 408.6 258.5 408.4 256.7 407.0 255.5 407.5 253.4 405.9 251.1 405.8 247.8 407.2 247.2 406.2 246.0 406.2 246.4 402.8 243.9 399.9 242.2 400.1 239.6 398.4 234.7 397.3 232.4 394.6 229.6 394.4 226.8 391.1 225.1 391.2 224.5 385.6 222.8 382.1 225.8 379.6 225.5 377.9 226.6 375.9 226.6 373.9 228.0 372.9 230.0 373.5 233.0 370.2 236.6 370.3 238.7 371.6 243.3 371.2 245.7 365.5 246.1 366.2 252.4 363.4 256.2 360.6 256.2 359.7 257.5 358.6 262.0 361.5 266.4 360.2 267.8 357.4 269.8 357.2 271.6 357.2 275.1 359.8 276.7 358.6 279.8 359.4 279.8 357.7 283.8 355.2 283.0 354.7 282.9 351.4 283.9 350.9 284.2 349.2 288.0 342.4 291.4 339.4 292.8 340.0 295.5 338.0 295.9 335.0 297.9 333.4Z",
+    "nom": "Granada",
+    "region": "Andalucía"
+   },
+   "19": {
+    "d": "M283.1 157.8 284.4 158.3 284.5 160.6 286.4 161.6 288.4 161.9 289.0 160.6 290.8 160.5 291.1 161.8 293.8 162.5 294.5 163.8 296.2 163.3 296.0 164.6 294.8 165.3 296.7 165.8 296.0 167.3 296.8 167.9 298.5 166.7 299.6 169.0 300.7 169.2 301.3 171.2 303.4 172.4 306.1 170.8 307.5 172.4 310.0 171.8 311.3 170.2 313.7 170.9 315.6 169.1 318.7 171.7 318.4 170.3 319.1 167.2 322.9 166.1 324.0 168.0 329.4 170.6 337.3 178.5 337.7 179.4 337.1 182.0 340.4 185.4 340.6 188.4 339.6 189.6 340.7 192.4 339.5 196.3 340.3 197.4 338.1 199.2 334.7 197.6 333.7 200.3 334.1 203.3 331.7 204.6 329.3 208.1 328.0 206.5 327.3 206.7 324.7 198.1 322.7 196.5 322.6 197.6 321.7 197.9 316.5 194.3 314.5 194.0 314.0 195.5 312.1 196.1 309.5 194.7 308.7 195.9 308.8 198.3 307.0 198.9 304.3 196.4 303.5 198.0 304.9 200.3 303.7 201.2 303.1 200.3 300.2 202.1 298.8 200.1 298.0 201.5 298.8 202.6 298.1 203.9 299.8 205.3 299.3 206.6 296.4 205.2 293.1 206.0 292.7 205.3 291.4 206.6 292.2 208.1 290.8 206.9 290.6 208.1 289.0 207.3 289.0 205.7 288.1 205.6 286.6 209.9 287.2 215.3 286.3 218.6 284.7 218.8 284.2 220.2 282.6 221.1 278.7 218.3 278.0 219.5 278.2 221.3 276.2 220.5 275.1 218.8 275.5 217.3 274.2 214.2 272.4 215.3 271.5 216.9 270.7 216.2 271.1 212.9 272.9 210.6 272.4 209.7 273.4 207.7 272.3 205.8 270.5 205.7 270.4 201.8 268.3 200.1 266.3 200.5 266.9 198.8 265.0 197.4 265.3 196.5 264.6 195.7 265.6 194.4 264.3 195.1 262.3 192.1 261.8 193.4 259.1 192.3 260.5 190.2 259.8 189.8 260.1 188.4 259.5 187.3 257.3 186.9 258.7 185.0 258.9 182.8 260.3 182.2 259.4 180.5 260.1 180.5 261.2 176.1 262.2 175.5 260.3 173.2 260.9 171.0 258.2 170.4 257.4 168.1 256.0 167.4 256.1 166.5 259.1 165.6 260.1 163.8 261.9 163.9 262.0 161.7 261.4 161.1 264.7 161.8 266.6 161.5 267.2 160.6 267.3 161.4 268.1 161.5 269.1 159.5 270.4 159.0 276.3 160.7 281.0 159.6 281.4 158.5 283.1 157.8ZM263.1 195.0 263.2 195.7 263.1 195.0Z",
+    "nom": "Guadalajara",
+    "region": "Castilla-La Mancha"
+   },
+   "20": {
+    "d": "M330.0 45.8 329.7 46.5 330.5 47.5 330.0 48.1 332.2 49.3 332.6 51.3 330.3 51.7 329.8 53.8 327.0 55.7 326.7 54.7 326.1 56.0 324.8 55.0 324.5 59.0 325.3 59.8 323.3 61.9 320.2 63.7 320.3 64.7 319.4 65.6 319.9 67.3 319.5 68.2 317.1 68.7 316.7 70.0 315.7 70.5 313.5 70.7 312.2 69.9 311.2 71.2 311.0 72.9 308.9 72.5 308.4 71.2 306.1 69.9 298.5 68.6 298.1 69.9 295.7 68.2 295.9 66.7 297.9 66.1 298.9 64.7 298.0 62.6 300.0 62.0 299.6 58.5 300.7 57.9 300.1 55.3 302.7 54.0 303.5 52.7 302.6 51.2 303.7 49.6 306.2 51.0 312.6 50.3 313.1 51.4 315.6 51.6 319.8 49.8 321.5 50.1 322.7 48.9 324.3 49.2 326.8 47.0 330.0 45.8Z",
+    "nom": "Guipúzcoa",
+    "region": "País Vasco"
+   },
+   "21": {
+    "d": "M112.9 326.8 116.3 328.3 118.5 328.2 117.6 331.4 119.6 331.8 120.1 332.9 125.8 332.6 127.6 335.0 127.5 336.7 129.1 336.4 132.0 337.5 133.3 334.7 136.6 335.3 137.4 337.7 142.0 340.1 143.6 340.0 144.9 342.8 146.0 342.2 146.8 343.1 145.2 345.4 146.1 345.7 147.0 347.8 146.5 349.4 143.6 348.4 142.7 352.0 141.4 351.8 141.5 350.7 139.0 350.6 133.1 353.1 132.0 352.8 130.9 355.9 129.5 356.8 129.8 358.7 133.4 358.3 135.4 358.9 135.5 362.0 136.6 363.0 137.1 365.2 139.2 368.6 138.9 369.4 137.1 369.7 136.8 371.7 137.5 372.2 135.9 373.8 138.0 375.8 136.9 379.1 137.5 380.2 137.3 382.3 136.9 384.5 137.6 385.4 135.8 387.9 137.2 392.7 136.1 395.6 138.1 397.5 137.2 399.8 137.5 402.9 135.3 402.5 133.1 397.0 130.1 393.3 113.4 382.5 113.4 383.2 116.2 385.1 117.0 386.2 113.1 383.1 107.3 380.6 98.4 381.1 94.0 382.8 92.6 382.1 91.5 378.5 92.0 377.2 91.2 375.2 91.3 370.9 90.3 369.9 91.0 369.3 90.3 365.7 88.2 363.6 87.8 362.1 88.4 361.9 88.6 359.3 89.2 359.4 91.1 356.1 90.7 355.3 92.1 350.9 96.2 347.9 97.9 345.0 99.4 340.4 98.7 339.0 101.3 337.7 104.2 337.9 104.4 336.3 105.7 335.5 107.4 337.0 109.8 336.7 110.4 332.3 111.9 329.6 111.2 328.9 112.9 326.8Z",
+    "nom": "Huelva",
+    "region": "Andalucía"
+   },
+   "22": {
+    "d": "M374.1 71.4 375.0 71.5 375.3 73.4 377.0 73.4 380.2 76.3 380.3 77.9 381.6 77.6 381.7 79.1 383.3 78.5 384.3 76.5 387.0 78.3 389.0 78.1 392.4 75.3 397.7 78.7 398.9 78.1 401.1 82.3 402.7 82.5 403.3 83.9 405.6 84.2 406.3 83.3 408.1 83.6 408.9 82.6 410.6 82.8 413.1 81.4 416.6 82.6 416.8 83.8 418.1 84.9 420.9 82.1 423.5 84.0 430.5 83.7 430.9 83.1 433.5 83.9 435.0 85.7 435.5 87.7 438.1 88.2 436.9 91.8 437.3 92.4 436.1 92.9 436.9 94.0 434.8 94.9 437.2 100.5 436.2 101.5 438.2 102.3 436.9 103.1 437.9 103.9 435.3 111.0 435.2 112.0 435.8 112.5 435.0 113.1 435.2 115.5 433.4 119.1 433.7 120.5 432.8 122.3 432.6 121.6 431.7 121.9 431.2 123.5 430.4 123.1 429.4 124.7 431.3 125.7 430.7 127.6 431.3 128.3 430.1 129.4 429.1 129.3 428.6 131.0 427.4 131.0 426.1 132.1 425.4 134.1 422.5 134.4 422.3 135.8 419.5 138.6 419.4 139.6 420.8 141.3 420.4 143.0 423.7 142.9 424.5 146.1 422.4 148.9 420.1 149.3 420.6 151.0 419.8 153.4 415.8 152.3 414.9 153.6 413.4 154.1 412.5 153.5 409.6 156.5 406.0 156.0 404.6 154.0 404.4 155.0 405.3 156.6 403.5 156.0 402.6 155.1 401.2 149.2 399.0 146.5 398.6 144.0 396.9 142.9 395.3 144.4 392.4 141.7 390.4 141.1 389.8 138.2 386.8 137.4 385.0 135.9 383.7 136.0 384.5 134.3 383.8 130.2 382.2 128.3 380.1 127.7 380.5 126.8 379.0 126.0 377.8 123.6 372.8 123.6 368.2 121.1 369.7 119.9 369.4 118.6 371.3 116.3 372.1 118.4 373.4 117.7 373.1 116.6 373.5 114.3 374.1 112.9 373.5 112.1 373.5 107.1 374.8 105.2 374.2 103.0 374.5 101.3 372.8 100.2 373.0 102.6 371.6 106.7 368.6 106.1 368.0 108.3 366.8 107.4 369.5 102.9 370.0 100.5 371.2 99.9 367.4 97.8 367.4 96.8 368.5 96.3 367.7 95.4 367.9 93.7 366.2 93.9 367.8 91.6 366.2 90.3 367.4 88.9 366.4 85.8 367.9 85.5 368.5 84.1 366.7 83.4 367.4 82.8 367.6 80.2 368.7 80.2 369.8 78.8 369.3 78.1 369.4 75.5 371.0 74.3 371.0 72.6 374.1 71.4Z",
+    "nom": "Huesca",
+    "region": "Aragón"
+   },
+   "24": {
+    "d": "M198.9 54.3 201.2 56.9 200.6 57.8 201.4 58.7 200.6 60.4 201.4 61.6 205.6 64.6 205.4 66.2 203.0 67.9 202.4 71.0 200.5 73.1 200.0 74.7 198.7 74.6 198.8 78.8 197.1 80.4 197.9 82.3 199.8 83.0 198.6 85.1 198.8 87.6 197.9 91.3 199.1 92.3 198.6 96.9 197.6 97.7 198.4 98.3 198.0 99.6 198.4 100.5 195.5 101.1 195.0 103.0 196.9 102.8 196.3 105.2 192.7 105.2 192.1 107.4 190.4 104.6 189.6 104.5 186.6 107.0 184.4 106.5 183.6 108.4 184.8 109.1 184.2 109.7 183.1 109.9 182.2 108.9 181.4 110.5 179.1 109.1 178.0 109.3 178.7 114.3 177.9 116.5 178.5 119.1 175.8 119.6 174.0 118.5 172.1 115.7 171.4 116.0 170.7 118.3 170.0 117.8 169.6 118.6 169.5 117.1 167.5 116.9 168.2 115.6 166.2 113.6 165.3 113.9 165.8 114.8 163.0 115.2 162.5 113.9 161.5 114.0 158.7 115.3 156.4 112.9 155.8 113.7 154.3 113.6 154.1 114.6 150.0 112.7 145.3 112.4 143.1 113.3 139.7 111.7 138.9 110.1 134.0 110.4 131.1 111.5 129.9 110.3 121.7 109.8 121.1 108.6 119.0 107.6 120.8 105.2 121.1 101.9 116.5 99.4 117.7 98.2 117.3 96.8 118.0 96.0 117.3 94.7 115.8 94.9 112.7 93.2 111.5 93.3 110.8 94.6 106.6 93.8 107.3 92.7 106.9 91.3 108.4 89.7 107.7 89.0 107.9 87.1 109.7 86.5 107.9 83.7 109.4 82.2 111.0 82.1 111.6 80.5 112.6 81.2 115.5 78.7 116.6 76.8 115.3 74.0 116.9 73.6 117.7 74.2 116.3 71.8 119.3 72.5 119.5 73.6 121.6 71.7 123.0 71.4 131.4 71.5 133.8 70.5 133.8 69.1 132.1 68.9 131.9 67.7 134.2 67.8 134.9 67.2 134.7 66.3 135.4 66.3 135.3 65.1 136.9 64.0 138.3 65.5 140.1 65.2 142.5 66.7 143.0 64.6 144.6 64.6 146.3 66.1 148.0 65.5 148.7 63.1 151.3 64.2 153.2 63.7 153.9 66.2 155.7 67.6 160.4 69.2 162.1 68.8 163.6 64.9 165.1 64.1 170.3 66.0 173.5 66.0 174.1 64.2 177.9 64.5 178.8 62.1 182.4 63.0 185.2 62.6 188.1 61.0 190.1 61.7 191.2 57.4 194.5 57.8 195.9 55.7 198.9 54.3ZM179.9 106.8 180.0 108.8 181.5 107.7 181.4 106.6 179.9 106.8Z",
+    "nom": "León",
+    "region": "Castilla y León"
+   },
+   "25": {
+    "d": "M435.9 74.9 441.8 76.6 444.8 78.6 446.2 77.7 447.2 78.7 451.2 78.7 454.9 83.0 457.6 81.9 458.6 82.7 463.0 82.4 462.7 83.3 464.3 84.1 464.3 85.1 465.4 85.8 466.6 88.7 465.9 89.8 466.7 90.6 465.4 92.3 466.9 92.1 467.7 93.7 465.6 95.1 466.5 95.6 466.7 97.4 471.2 97.9 471.6 96.5 472.4 97.0 473.1 96.1 475.6 96.0 476.2 94.0 477.6 94.8 478.5 94.0 478.8 97.5 481.8 98.3 481.9 101.3 483.0 100.7 484.0 101.3 483.2 102.1 483.5 104.7 476.2 106.1 477.0 106.3 476.8 107.4 477.7 108.4 476.6 109.2 476.6 110.2 479.1 111.1 479.1 111.8 477.4 114.0 478.4 116.4 477.1 116.6 476.2 118.9 477.1 118.8 477.4 119.8 476.0 121.1 475.6 120.2 475.3 121.3 477.4 122.1 477.4 120.5 478.3 122.2 476.7 123.1 476.4 122.3 475.4 122.4 475.5 125.2 471.9 127.8 474.0 127.7 474.5 129.0 473.7 131.2 472.8 131.9 473.0 133.4 472.1 133.1 470.3 134.7 469.2 132.8 468.3 132.6 468.3 133.7 467.4 133.4 467.8 132.1 465.5 132.5 464.9 135.1 465.8 135.8 464.0 137.3 465.8 138.4 466.8 141.0 464.4 141.1 463.1 142.3 465.1 143.0 464.5 144.2 464.9 145.3 457.2 144.6 456.8 145.8 454.8 146.5 455.5 149.0 452.6 150.2 449.6 148.3 449.9 149.1 451.1 150.7 445.6 156.5 442.1 157.2 441.3 155.9 440.3 157.7 437.9 157.4 437.4 158.3 432.2 159.7 430.9 159.6 430.2 158.1 429.1 157.8 427.9 159.7 426.9 159.8 425.1 157.3 424.0 158.1 423.9 160.5 421.9 160.4 420.4 157.7 421.4 156.3 419.2 154.1 420.6 151.0 420.1 149.3 422.4 148.9 424.5 146.1 423.7 142.9 420.4 143.0 420.8 141.3 419.5 138.8 421.9 135.4 422.5 134.4 425.4 134.1 426.1 132.1 427.4 131.0 428.6 131.0 429.1 129.3 430.1 129.4 431.3 128.3 430.7 127.6 430.8 125.8 429.4 124.7 430.4 123.1 431.2 123.5 431.7 121.9 432.6 121.6 432.8 122.3 433.6 120.7 433.2 119.9 435.2 115.5 435.0 113.1 435.8 112.5 435.2 112.0 435.3 111.0 437.9 103.9 436.9 103.1 438.2 102.3 436.2 101.5 437.2 100.5 434.8 94.9 436.9 94.0 436.1 92.9 437.3 92.4 436.9 91.8 438.1 88.2 435.2 87.3 435.0 85.7 433.5 84.0 434.2 83.9 434.4 82.2 432.8 80.5 433.8 79.4 432.9 78.9 433.9 77.9 433.5 75.9 435.9 74.9ZM475.6 115.1 477.1 115.4 475.6 115.1Z",
+    "nom": "Lleida",
+    "region": "Cataluña"
+   },
+   "26": {
+    "d": "M279.0 86.6 281.1 86.7 282.4 87.8 285.1 86.9 285.6 88.4 286.5 88.2 286.5 89.3 285.6 89.9 286.4 91.3 288.3 89.9 288.9 87.6 289.8 87.6 292.4 89.1 291.3 93.3 292.6 92.9 293.8 95.2 295.5 94.1 295.9 95.7 297.1 94.6 298.7 95.2 298.4 94.5 299.6 93.2 299.4 94.8 303.6 94.8 306.5 96.9 307.2 96.0 308.5 96.6 309.5 97.2 313.7 99.3 316.4 98.6 316.2 99.7 317.8 101.4 317.3 102.5 318.2 102.8 320.5 101.3 322.3 102.2 322.6 103.2 324.6 103.6 324.8 105.1 326.6 105.7 326.5 107.7 327.5 107.3 329.5 109.2 332.7 109.7 333.6 110.9 334.6 111.0 333.8 112.0 334.7 113.1 333.0 114.1 332.1 113.2 330.5 113.9 328.2 113.3 325.0 118.1 325.3 119.7 327.6 120.9 327.7 122.0 326.8 122.5 327.2 123.2 322.4 125.7 319.9 123.9 319.6 124.6 316.3 123.4 315.9 121.6 316.6 121.2 314.3 117.7 315.8 117.0 315.5 115.9 311.1 115.8 309.7 116.5 309.2 114.2 307.7 113.5 302.6 113.9 300.7 115.6 299.4 115.1 299.4 117.6 297.9 118.5 296.6 121.5 289.6 120.8 289.1 119.5 291.3 115.7 290.1 114.6 287.7 115.4 287.4 118.8 283.5 120.8 282.5 120.1 281.8 116.6 277.4 116.7 273.4 110.6 275.1 108.0 274.2 102.3 276.2 102.0 275.3 100.5 274.4 100.4 274.6 98.8 275.6 98.8 275.4 99.8 276.5 101.3 276.2 98.3 276.9 97.2 274.9 94.9 275.8 92.7 273.2 92.0 276.3 89.4 275.3 86.6 279.0 86.6ZM281.2 88.6 281.4 89.2 282.1 88.8 281.6 88.1ZM278.9 88.8 279.5 88.5 278.9 88.8Z",
+    "nom": "La Rioja",
+    "region": "La Rioja"
+   },
+   "42": {
+    "d": "M306.6 113.5 309.2 114.2 309.7 116.5 312.3 115.7 315.7 116.1 315.8 117.0 314.3 117.7 316.6 121.2 315.9 121.6 316.5 123.6 319.6 124.6 319.9 123.9 322.4 125.7 327.2 123.2 327.2 126.2 328.8 129.3 328.8 130.6 327.4 132.8 329.3 134.6 329.2 135.6 330.6 136.2 329.1 138.3 329.3 139.5 327.1 139.7 324.4 143.1 321.4 143.0 321.4 144.2 322.5 145.9 321.9 149.1 323.1 150.4 323.1 152.5 323.8 153.4 319.9 154.7 319.3 154.0 319.6 152.4 316.8 151.3 316.2 152.5 316.2 154.8 314.2 156.2 313.8 159.9 314.9 165.5 317.8 166.2 318.9 167.5 318.4 170.3 319.1 171.2 315.6 169.1 313.7 170.9 311.3 170.2 310.0 171.8 307.5 172.4 306.1 170.8 303.4 172.4 301.3 171.2 300.7 169.2 299.6 169.0 298.5 166.7 296.8 167.9 296.0 167.3 296.7 165.8 294.8 165.3 296.0 164.6 296.2 163.3 294.5 163.8 293.8 162.5 291.1 161.8 290.8 160.5 289.0 160.6 288.4 161.9 286.4 161.6 284.5 160.6 284.5 158.5 283.6 157.9 281.4 158.5 281.0 159.6 276.3 160.7 270.1 159.0 264.1 154.1 264.9 150.5 261.4 149.7 261.1 147.7 259.8 146.6 258.6 147.3 256.1 145.6 256.0 142.5 259.5 143.6 262.3 138.1 263.7 137.9 263.9 135.6 267.2 133.9 266.9 127.6 268.6 128.7 269.0 130.0 270.7 130.6 271.6 132.5 273.1 131.5 274.8 127.8 278.2 127.5 278.9 125.0 280.1 125.2 280.3 123.2 281.7 120.4 283.8 120.8 287.4 118.8 287.2 117.0 288.4 114.6 290.1 114.6 291.3 115.7 289.1 119.6 289.6 120.9 296.6 121.5 297.9 118.5 299.4 117.6 299.4 115.1 300.7 115.6 302.5 113.9 306.6 113.5Z",
+    "nom": "Soria",
+    "region": "Castilla y León"
+   },
+   "31": {
+    "d": "M335.8 50.4 337.0 50.6 336.8 51.8 337.7 53.5 339.1 53.7 339.9 52.1 340.8 51.2 344.9 52.7 345.9 52.4 347.1 53.5 347.3 56.9 346.4 57.6 345.9 60.2 343.4 62.5 344.7 64.7 348.4 65.7 349.3 61.4 352.0 60.8 350.3 63.3 352.3 64.8 354.4 64.4 357.2 65.8 357.4 66.8 358.5 65.9 359.9 67.2 362.9 67.6 365.7 69.7 367.2 69.1 371.4 69.8 373.7 68.9 375.0 71.4 372.5 71.4 371.0 72.6 371.0 74.3 369.4 75.5 369.3 78.1 369.8 78.8 369.1 80.0 367.6 80.2 367.6 81.1 366.6 81.1 365.5 82.8 362.2 83.4 361.8 86.1 361.2 86.5 357.0 86.3 356.7 88.3 355.8 88.3 356.7 88.9 354.8 90.0 354.8 91.6 351.9 91.6 351.0 93.7 351.9 95.2 349.0 98.4 348.2 100.9 349.5 102.1 346.5 105.6 346.8 106.6 345.7 109.8 346.8 111.5 346.5 114.5 347.9 115.5 348.5 117.4 350.3 117.4 350.5 119.0 345.7 126.0 343.2 125.4 339.7 126.0 335.7 123.2 333.2 123.7 331.0 121.6 328.2 121.6 325.3 119.7 325.3 117.3 328.2 113.3 330.5 113.9 332.1 113.2 333.0 114.1 334.7 113.1 333.8 112.0 334.7 111.0 333.6 110.9 332.7 109.7 329.5 109.2 327.5 107.3 326.5 107.7 326.6 105.7 324.8 105.1 324.6 103.6 322.6 103.3 321.3 101.6 317.3 102.5 317.8 101.4 316.2 99.7 316.4 98.6 313.7 99.3 309.5 97.2 309.0 96.0 307.2 96.0 306.5 96.9 306.2 96.1 304.2 95.8 303.2 93.7 304.6 93.3 304.4 88.9 303.3 88.5 302.0 90.6 301.6 89.5 300.4 89.6 300.0 88.3 303.6 85.5 305.2 86.1 305.0 87.0 308.9 85.9 308.7 84.6 307.7 84.4 307.4 82.1 307.7 81.3 310.0 80.8 309.3 78.8 311.3 75.8 310.4 73.0 311.1 72.8 311.2 71.2 312.2 69.9 313.5 70.7 316.2 70.3 317.1 68.7 319.5 68.2 319.9 67.3 319.4 65.6 320.3 64.7 320.2 63.7 323.3 61.9 325.3 59.8 324.5 59.0 324.8 55.0 326.1 56.0 326.2 54.8 327.0 55.7 329.8 53.8 330.3 51.7 335.8 50.4ZM359.3 95.0 361.1 97.0 361.0 97.8 357.9 97.1 359.3 95.0ZM357.1 97.5 356.7 99.1 355.4 99.5 355.7 98.3 357.1 97.5Z",
+    "nom": "Navarra",
+    "region": "Navarra"
+   },
+   "51": {
+    "d": "M179.8 453.2 178.6 452.5 178.4 450.7 181.0 452.2 182.6 451.6 179.8 453.2Z",
+    "nom": "Ceuta",
+    "region": "Ceuta"
+   },
+   "27": {
+    "d": "M83.0 26.4 83.3 28.1 84.2 28.3 83.9 30.3 84.6 30.7 84.6 31.3 84.7 30.4 85.5 29.7 85.2 28.7 86.2 28.7 86.3 27.7 87.7 27.3 88.1 28.3 90.1 28.0 89.6 28.8 90.4 28.6 90.9 29.7 94.8 30.9 97.4 35.1 99.5 36.1 98.4 36.7 99.1 37.6 99.9 36.4 108.3 37.3 107.8 41.4 106.1 42.6 105.6 44.0 102.5 43.9 102.7 45.3 102.1 45.9 104.5 47.0 104.3 49.3 105.6 50.7 107.3 50.7 106.8 52.5 107.3 54.0 109.0 55.6 109.8 56.0 111.1 56.1 111.3 57.0 110.7 58.2 111.7 59.9 114.7 58.7 115.4 56.9 117.4 59.4 115.3 62.3 113.4 63.2 112.4 62.5 111.2 64.1 111.4 65.3 110.6 65.0 110.0 66.1 111.5 67.7 111.7 65.2 113.6 67.7 115.6 68.1 116.8 69.5 116.5 71.1 117.3 71.8 116.3 71.8 117.7 74.2 116.9 73.6 115.3 74.0 116.6 76.8 115.5 78.7 112.6 81.2 111.6 80.5 111.0 82.1 109.4 82.2 107.9 83.7 109.7 86.5 107.9 87.1 107.7 89.0 108.4 89.7 106.9 91.3 107.3 92.7 106.6 94.4 105.6 96.5 103.6 97.7 101.3 103.7 100.1 101.9 100.6 100.4 97.0 98.1 94.2 98.5 93.0 97.8 88.4 100.4 87.0 100.5 85.5 99.4 83.8 100.5 83.2 99.3 80.4 98.1 79.7 96.8 76.5 96.1 78.2 95.3 77.5 94.6 75.9 95.3 72.9 93.7 71.3 93.8 71.8 93.1 70.8 92.9 72.3 92.2 70.5 90.0 72.1 87.2 72.3 84.3 73.5 83.1 73.3 82.3 70.3 81.3 68.5 79.2 68.4 77.4 69.4 75.9 67.6 75.4 70.3 72.4 70.0 71.7 71.5 69.8 71.6 68.0 70.0 63.5 71.1 62.4 69.2 56.9 70.9 52.6 69.8 51.7 72.4 48.9 72.5 46.9 71.9 46.1 72.6 45.1 75.1 45.5 75.7 43.5 76.9 42.9 77.8 39.7 78.4 39.5 77.7 37.5 78.2 35.9 79.5 35.6 78.8 33.5 80.7 31.8 79.5 30.0 80.3 29.5 80.3 27.4 83.0 26.4Z",
+    "nom": "Lugo",
+    "region": "Galicia"
+   },
+   "28": {
+    "d": "M256.2 166.8 258.2 170.4 260.9 171.0 260.3 173.2 262.2 175.5 261.2 176.1 260.1 180.5 259.4 180.5 260.3 182.2 258.9 182.8 258.7 185.0 257.3 186.9 259.5 187.3 260.1 188.4 259.8 189.8 260.5 190.2 259.1 192.3 261.8 193.4 262.3 192.1 264.3 195.1 265.5 194.1 264.6 195.7 265.3 196.5 265.0 197.4 266.9 198.8 266.3 200.5 268.3 200.1 270.4 201.8 270.5 205.7 272.3 205.8 273.4 207.7 272.4 209.7 272.9 210.6 271.1 212.9 270.7 216.2 271.5 216.9 272.4 215.3 274.1 214.2 276.0 221.1 275.1 220.8 274.8 221.9 276.5 223.5 276.3 224.7 273.9 226.3 272.0 226.1 271.3 224.6 270.4 226.3 267.2 227.1 264.8 225.3 263.0 225.5 263.0 226.8 261.9 227.8 257.5 227.0 256.9 228.5 253.9 228.9 251.9 230.2 252.1 231.5 247.4 232.8 244.9 235.9 242.2 234.8 241.9 233.5 243.4 232.8 244.7 232.1 245.8 232.6 246.6 231.4 246.3 232.3 247.0 232.3 246.8 231.3 248.1 231.5 247.3 230.6 248.4 230.5 249.3 228.6 252.0 227.4 253.2 223.7 251.2 222.9 250.7 221.9 250.0 222.5 248.4 221.6 247.4 222.5 246.3 222.1 244.9 220.0 243.6 220.9 242.0 219.3 239.5 218.6 238.7 219.3 238.6 218.1 237.0 218.3 235.5 216.9 235.6 216.1 233.5 215.2 232.2 216.5 230.5 216.3 230.5 215.3 228.6 213.5 228.0 215.1 226.1 214.8 225.2 216.9 223.7 217.6 221.9 216.8 221.6 212.9 220.6 212.4 220.4 214.0 218.2 215.6 218.1 216.8 215.1 217.7 214.3 218.8 212.3 218.4 213.0 217.1 212.6 215.6 214.3 213.7 213.5 211.1 214.4 210.9 215.4 212.6 217.4 212.3 217.2 211.1 218.1 210.5 217.9 208.7 218.8 207.6 223.1 207.4 222.2 206.4 223.3 204.5 222.8 200.7 224.4 199.1 224.8 197.0 224.3 195.6 225.2 195.6 225.5 196.9 226.2 197.0 229.8 195.9 229.4 192.8 232.5 189.1 233.4 186.9 237.5 187.1 238.9 182.9 238.6 181.2 240.5 177.9 245.9 175.5 247.6 172.6 250.3 170.8 252.9 167.4 256.2 166.8ZM225.8 194.3 223.1 194.6 224.6 192.7 225.8 194.3Z",
+    "nom": "Madrid",
+    "region": "Madrid"
+   },
+   "34": {
+    "d": "M217.3 64.1 219.8 65.3 221.9 68.7 226.5 69.5 226.6 71.7 227.1 74.9 228.2 75.6 229.0 74.8 230.5 74.3 231.3 75.1 230.7 76.5 229.9 76.0 228.9 76.8 228.9 77.4 230.3 78.6 232.5 78.5 233.2 79.9 232.0 81.6 230.5 80.6 225.8 84.1 225.4 83.1 224.2 83.9 225.5 87.9 224.2 88.6 224.6 89.8 223.7 90.4 223.8 91.3 224.9 91.8 225.1 93.2 226.2 94.5 225.9 96.0 223.2 96.5 222.5 98.6 223.3 99.1 222.7 99.4 223.0 100.8 225.1 100.5 224.8 101.6 225.4 102.2 226.3 107.3 227.0 107.8 226.8 110.0 228.6 111.8 228.0 114.1 231.5 114.4 232.2 115.4 234.2 115.9 233.3 116.9 232.3 116.6 232.2 118.0 233.2 119.3 235.0 118.4 237.4 118.6 237.8 119.5 236.0 121.4 235.2 123.8 241.2 121.5 241.2 123.6 239.6 123.5 237.4 125.1 237.4 126.7 235.0 128.2 232.9 128.3 233.3 129.5 232.8 130.5 235.0 132.7 234.9 133.9 232.4 133.5 231.4 131.8 227.6 132.2 226.6 131.4 223.2 134.1 220.2 132.8 217.4 134.4 215.4 133.7 216.0 131.1 217.1 131.1 216.4 130.6 216.6 129.8 215.0 130.9 213.4 130.5 212.7 131.5 209.9 128.8 209.7 127.4 208.3 126.7 205.8 128.4 204.6 130.8 203.3 131.2 199.9 125.0 197.4 125.9 196.5 124.9 195.1 126.2 194.2 124.7 195.8 121.0 197.1 120.4 196.6 118.4 198.4 117.1 197.4 114.9 197.4 113.2 194.6 113.5 193.2 113.0 193.0 111.9 193.8 111.1 193.3 109.4 194.0 108.8 193.6 107.6 194.3 105.7 196.3 105.2 196.8 103.6 196.8 102.6 195.0 103.0 195.5 101.1 198.4 100.5 198.0 99.6 198.4 98.3 197.6 97.7 198.6 96.9 199.1 92.3 197.9 91.3 198.8 87.6 198.6 85.1 199.8 83.0 197.9 82.3 197.1 81.0 198.8 78.8 198.5 77.5 199.1 75.8 198.6 74.8 200.0 74.7 200.5 73.1 202.4 71.0 203.0 67.9 204.6 66.4 207.1 65.7 209.7 66.3 211.0 65.3 213.0 66.1 214.6 64.6 216.5 65.1 217.3 64.1ZM225.8 81.9 225.6 81.3 225.8 81.9ZM236.6 77.5 236.5 80.0 234.7 79.8 234.5 79.1 236.0 77.7 236.2 76.4 236.6 77.5ZM233.6 112.4 234.0 114.2 232.0 113.6 231.9 112.7 233.6 112.4ZM232.5 76.7 232.9 77.7 231.8 77.1 232.5 76.7ZM235.3 117.1 235.0 115.8 235.6 116.8Z",
+    "nom": "Palencia",
+    "region": "Castilla y León"
+   },
+   "37": {
+    "d": "M132.0 159.9 138.7 160.8 146.4 165.2 147.5 164.0 149.5 163.5 151.7 164.6 151.0 165.8 151.2 167.1 153.0 166.0 154.1 167.9 155.8 165.8 155.4 163.7 156.4 162.6 161.9 163.8 166.6 162.2 167.8 163.9 169.5 164.5 170.5 163.7 173.9 165.8 173.9 167.6 174.5 166.9 174.2 165.8 177.1 165.4 177.5 167.6 179.3 167.9 180.5 169.1 181.8 168.7 182.2 164.9 183.7 164.7 184.7 165.2 185.1 166.8 186.8 166.4 189.1 168.3 187.9 172.1 188.4 173.5 189.9 173.9 190.6 175.7 189.9 177.6 189.0 178.0 189.5 180.7 187.4 182.6 187.7 185.2 185.1 187.8 185.3 188.6 178.4 192.9 178.1 193.7 178.9 194.5 178.2 196.0 175.5 198.2 173.3 198.1 173.2 197.3 172.2 200.3 176.3 199.1 174.6 204.5 172.8 204.5 172.8 206.5 172.1 206.7 170.1 205.6 170.7 203.8 167.6 204.7 165.2 206.8 165.7 208.7 165.4 210.4 162.3 214.3 160.5 213.6 161.3 212.7 160.6 210.5 157.0 212.0 155.6 214.6 152.4 213.4 151.4 212.5 151.4 211.2 147.6 210.3 148.6 210.0 149.1 208.7 146.6 206.8 147.2 205.7 145.9 206.0 143.7 203.5 142.2 203.3 140.5 204.8 137.6 205.6 136.4 207.9 134.4 208.0 133.6 209.4 129.5 210.8 128.4 211.8 128.6 213.9 127.3 215.0 123.7 215.4 123.0 216.5 121.8 215.0 120.2 216.7 116.9 216.2 115.6 215.0 115.7 213.5 118.6 211.8 119.1 209.9 116.8 207.5 116.2 205.1 118.5 201.9 118.3 199.8 116.4 199.0 118.6 193.8 117.0 188.9 117.6 186.2 117.2 184.0 118.3 183.7 117.9 181.9 116.3 180.8 115.8 178.2 113.2 175.3 112.8 173.8 118.0 173.5 120.3 169.9 119.7 168.2 122.5 165.7 122.9 164.2 124.7 162.1 126.8 162.3 127.1 161.6 128.0 162.5 130.1 160.5 131.1 161.1 131.9 160.6 131.4 159.8Z",
+    "nom": "Salamanca",
+    "region": "Castilla y León"
+   },
+   "40": {
+    "d": "M238.1 143.7 242.2 146.6 244.1 149.4 245.6 149.2 244.9 147.1 246.5 146.4 246.3 150.6 247.6 151.1 248.3 149.5 248.1 147.4 250.5 145.1 252.8 144.2 254.7 144.9 255.8 144.1 256.1 145.6 257.7 146.8 258.6 147.3 259.5 146.4 261.0 147.5 261.4 149.7 264.9 150.5 264.1 154.1 270.1 159.0 268.8 159.9 268.1 161.5 267.3 161.4 267.2 160.6 266.6 161.5 264.7 161.8 261.6 161.4 261.3 160.7 261.5 161.4 261.9 163.9 260.1 163.8 259.1 165.6 257.1 166.7 252.9 167.4 250.3 170.8 247.6 172.6 245.9 175.5 241.2 177.2 239.2 179.4 237.5 187.1 233.7 186.6 230.4 192.0 225.9 192.3 223.3 193.5 222.6 195.1 218.9 195.3 218.4 189.4 216.6 187.7 215.8 184.5 213.5 184.9 214.2 183.1 213.0 181.7 212.7 177.8 211.0 177.1 209.6 173.8 206.5 172.1 206.1 167.0 207.9 165.4 210.1 166.2 209.1 163.5 212.4 160.6 211.2 159.1 211.4 158.1 213.0 159.1 214.3 158.1 216.9 159.5 216.7 158.2 215.3 156.7 216.2 155.6 214.9 153.3 216.8 153.1 219.3 151.6 221.2 151.9 221.3 151.1 225.2 150.5 229.9 149.4 230.6 150.0 235.5 147.4 236.6 147.5 237.4 143.9 238.1 143.7Z",
+    "nom": "Segovia",
+    "region": "Castilla y León"
+   },
+   "41": {
+    "d": "M163.7 327.3 165.3 328.1 165.5 329.3 164.5 328.7 165.0 329.8 163.1 330.7 163.3 333.2 165.1 333.4 167.6 330.4 169.7 330.8 173.4 335.6 173.5 338.1 176.8 340.9 176.8 345.0 180.0 346.9 179.6 349.0 181.3 350.1 181.4 354.1 180.5 354.6 179.8 353.9 178.5 355.4 177.9 354.3 176.9 355.5 177.7 356.5 176.9 357.1 179.2 359.3 179.2 360.4 186.9 355.2 188.0 356.3 189.8 356.2 188.9 354.2 189.8 354.1 190.2 355.7 191.4 356.3 190.5 355.2 191.3 353.7 192.4 353.2 194.4 353.8 196.3 356.7 195.5 359.5 197.3 358.6 197.2 362.5 196.5 363.8 198.3 365.0 197.9 365.8 198.4 366.7 199.6 367.7 199.2 368.3 201.1 368.4 200.7 369.8 202.2 371.6 201.9 372.6 203.6 374.3 205.8 373.9 206.3 372.6 207.6 374.2 208.3 373.9 208.4 374.7 207.7 375.0 208.7 376.1 207.8 376.3 208.6 376.7 209.0 378.2 205.8 378.3 206.3 379.1 205.9 380.6 206.7 381.3 203.1 383.7 201.7 381.2 200.5 381.3 199.6 383.5 198.7 383.6 198.4 382.2 196.9 382.5 196.8 383.5 198.5 384.5 198.2 385.8 192.1 390.4 189.2 390.5 187.5 393.0 184.8 395.2 181.7 391.3 181.6 390.0 177.8 393.5 176.9 395.3 175.8 395.5 174.9 393.4 176.6 391.3 176.0 389.2 172.8 390.2 174.5 392.9 171.3 395.8 171.8 397.8 169.7 396.6 169.6 394.9 168.2 395.3 166.2 393.3 164.2 396.4 158.6 396.6 157.3 397.7 156.7 400.6 147.7 399.8 145.5 398.2 141.4 397.8 140.4 396.9 138.1 397.5 136.1 395.6 137.2 392.7 135.8 388.0 137.6 385.4 136.9 384.5 137.9 382.9 137.5 380.2 136.9 379.1 138.0 375.8 135.9 373.8 137.5 372.2 136.8 371.7 137.1 369.7 138.9 369.4 139.2 368.6 137.1 365.2 136.6 363.0 135.5 362.0 135.4 358.9 133.4 358.3 129.8 358.7 129.5 356.8 130.9 355.9 132.0 352.8 133.1 353.1 139.0 350.6 141.5 350.7 141.4 351.8 142.7 352.0 143.6 348.4 146.5 349.4 147.0 347.8 146.1 345.7 145.2 345.4 146.8 343.1 146.0 342.2 144.7 342.5 144.3 341.7 145.0 340.3 149.9 338.1 154.1 338.2 154.9 335.4 156.0 334.5 155.2 332.2 157.2 330.7 157.4 329.3 163.7 327.3ZM193.3 359.6 193.0 357.3 190.8 357.0 192.7 358.1 192.3 359.1 193.1 359.0 193.2 359.8Z",
+    "nom": "Sevilla",
+    "region": "Andalucía"
+   },
+   "45": {
+    "d": "M220.8 212.6 221.6 212.9 221.9 216.8 223.6 217.0 225.2 216.9 226.1 214.8 228.0 215.1 228.6 213.5 230.5 215.3 230.5 216.3 232.2 216.5 233.5 215.2 235.6 216.1 235.5 216.9 237.0 218.3 238.6 218.1 238.7 219.3 239.5 218.6 242.0 219.3 243.6 220.9 244.9 220.0 246.3 222.1 247.4 222.5 248.4 221.6 250.0 222.5 250.7 221.9 251.2 222.9 253.2 223.7 252.0 227.4 249.3 228.6 248.4 230.5 247.3 230.6 248.1 231.5 246.8 231.3 247.0 232.3 246.3 232.3 246.6 231.4 245.8 232.6 244.7 232.1 243.7 233.3 241.9 233.5 242.2 234.7 244.4 235.8 247.4 232.8 252.1 231.5 251.9 230.2 253.9 228.9 256.9 228.5 257.5 227.0 261.9 227.8 263.0 226.8 262.9 225.6 264.7 225.2 267.2 227.1 270.4 226.3 271.8 224.7 271.7 227.0 272.8 230.4 274.8 230.3 274.8 233.2 273.5 236.4 275.6 237.4 279.0 244.8 282.8 249.0 282.0 251.2 281.8 258.3 280.7 259.5 278.9 259.8 277.9 259.0 275.9 259.4 272.8 256.9 271.1 257.3 271.0 258.1 266.4 258.3 265.5 260.2 265.8 262.1 261.5 261.9 259.0 263.6 258.7 265.2 256.4 267.3 250.1 267.6 248.3 269.2 245.4 267.9 242.8 269.8 238.0 267.6 237.8 264.7 233.5 264.0 232.2 265.3 231.5 264.1 230.4 264.1 231.6 259.0 233.7 259.0 234.1 255.5 235.3 255.5 234.9 252.6 231.4 253.2 229.9 252.5 228.5 256.9 226.4 257.9 220.7 256.9 217.9 255.4 217.1 257.8 215.0 255.5 216.2 254.6 214.4 253.4 214.2 255.0 213.7 254.3 212.9 254.9 213.2 256.1 212.6 256.8 210.5 257.5 210.5 259.2 207.5 259.3 204.7 261.3 204.2 260.5 205.3 259.1 204.9 256.6 200.1 253.6 198.5 256.5 196.5 262.5 185.6 251.4 187.5 249.0 188.5 245.0 187.0 243.1 187.7 242.6 187.3 240.5 185.6 240.6 183.6 243.0 181.3 242.6 181.2 239.1 182.4 237.0 180.7 235.5 177.2 236.2 178.9 230.5 178.6 226.4 179.2 223.7 185.2 223.8 185.8 225.1 187.1 225.0 190.7 222.9 191.5 221.4 193.6 221.0 193.8 223.6 196.3 223.1 196.2 222.4 197.5 222.3 197.5 220.4 202.5 216.9 202.0 215.8 202.7 214.7 204.4 215.5 207.1 214.3 207.6 218.1 209.0 218.9 212.2 217.9 214.3 218.8 215.1 217.7 218.1 216.8 218.2 215.6 220.4 214.0 220.8 212.6Z",
+    "nom": "Toledo",
+    "region": "Castilla-La Mancha"
+   },
+   "43": {
+    "d": "M466.4 144.3 467.1 144.7 466.1 145.4 466.8 146.4 465.2 146.5 464.6 147.7 468.4 149.8 467.7 151.4 468.8 151.9 468.0 152.2 468.6 153.7 467.9 154.9 469.4 154.1 470.6 154.6 472.3 155.9 471.5 156.9 473.0 158.8 472.7 159.6 474.8 159.5 474.1 161.7 472.0 161.4 472.5 162.7 474.3 163.4 475.0 162.7 475.1 165.0 469.6 165.8 464.6 168.3 460.5 168.6 457.2 171.0 458.4 169.6 457.0 169.8 455.1 172.5 453.1 171.4 450.0 172.0 446.5 173.9 442.1 178.3 437.0 185.0 435.2 186.1 436.5 188.0 438.6 188.0 436.5 186.9 438.0 186.7 440.6 189.9 442.5 189.8 442.8 190.7 442.1 192.3 437.7 194.9 435.3 198.2 433.6 199.4 431.7 199.6 430.8 198.3 433.1 198.6 433.5 197.6 435.6 197.6 437.1 195.2 431.0 195.9 431.2 196.6 428.4 198.9 427.4 201.3 424.1 200.0 424.4 198.3 422.6 197.0 417.6 195.6 416.9 194.0 418.0 192.3 416.7 191.4 415.6 191.6 415.2 189.9 414.0 190.4 412.6 189.5 413.0 188.7 415.4 188.1 415.5 187.0 417.4 185.2 415.7 181.7 418.0 177.1 416.6 174.7 417.5 174.4 414.8 173.1 414.9 171.0 414.1 170.9 414.1 168.6 416.1 168.4 416.3 167.3 418.5 166.6 419.3 163.3 421.7 162.7 421.9 160.4 423.9 160.5 424.3 157.8 425.5 157.6 426.9 159.8 427.9 159.7 429.1 157.8 430.2 158.1 430.9 159.6 432.2 159.7 437.4 158.3 437.9 157.4 440.3 157.7 441.3 155.9 442.1 157.2 445.6 156.5 451.1 150.7 449.5 149.5 449.6 148.3 452.6 150.2 455.5 149.0 454.8 146.5 456.8 145.8 457.2 144.6 464.4 145.3 464.6 144.2 466.4 144.3Z",
+    "nom": "Tarragona",
+    "region": "Cataluña"
+   },
+   "44": {
+    "d": "M384.4 156.3 385.4 156.7 385.8 158.2 387.9 158.6 387.5 159.6 388.5 160.7 391.4 162.4 392.2 161.5 396.2 165.2 398.0 165.3 405.0 168.8 407.2 173.0 409.0 171.1 411.8 172.1 414.9 171.6 415.4 172.5 417.5 174.4 416.6 174.7 418.0 177.1 415.7 181.7 417.4 185.2 415.5 187.0 415.4 188.1 413.0 188.7 413.0 189.5 412.4 189.0 412.6 190.4 410.4 190.2 407.4 192.2 406.3 190.2 402.9 190.2 400.3 188.8 399.5 187.1 398.7 186.9 397.3 187.1 396.2 188.8 395.7 192.2 392.7 193.9 391.7 192.8 389.7 193.5 390.0 196.4 393.2 196.5 392.9 201.7 393.9 202.5 394.1 204.0 391.0 205.6 393.6 208.7 393.7 209.8 391.2 211.2 390.2 213.1 389.2 213.0 388.7 213.7 389.4 215.3 387.5 216.4 384.7 217.2 382.6 216.0 381.2 222.2 379.1 224.1 379.7 225.8 376.8 227.2 373.8 227.1 372.8 229.7 370.2 230.9 370.1 233.7 371.9 236.1 369.1 237.9 367.1 236.5 367.5 233.3 366.7 231.5 363.8 230.6 358.9 231.0 358.2 231.7 357.4 231.1 356.4 229.1 359.8 227.7 360.3 226.3 357.1 223.4 353.0 223.3 353.1 221.7 351.4 220.3 351.0 218.4 349.7 219.6 349.9 221.7 348.3 222.6 345.1 222.1 344.4 221.7 344.8 218.9 343.3 219.6 341.8 218.6 340.5 219.3 334.2 212.9 332.9 214.5 332.6 213.2 333.9 212.2 330.5 208.4 329.3 208.1 329.6 207.2 332.3 204.1 334.1 203.3 333.7 200.3 334.7 197.6 338.1 199.2 340.3 197.4 339.5 196.3 340.7 192.4 339.6 189.6 340.6 188.4 340.5 185.7 337.1 182.0 337.7 179.4 337.3 178.5 339.6 178.8 342.0 177.4 343.4 178.2 344.5 176.3 343.3 174.7 345.7 173.9 346.3 171.9 348.3 170.7 348.4 172.4 351.2 172.8 352.7 171.3 351.9 169.9 352.6 168.8 354.5 168.0 356.0 168.8 358.2 168.2 358.9 166.4 361.7 168.2 363.3 168.2 364.5 167.2 363.4 170.3 365.4 171.4 367.1 170.4 368.3 167.4 369.3 169.6 370.6 170.3 372.1 169.8 373.5 166.3 376.3 169.4 379.9 165.1 377.4 162.7 379.2 162.0 379.0 158.6 380.3 158.2 382.5 161.0 383.2 163.1 384.1 162.6 384.2 161.6 383.4 159.9 381.2 158.5 381.1 156.6 384.4 156.3Z",
+    "nom": "Teruel",
+    "region": "Aragón"
+   },
+   "46": {
+    "d": "M363.9 230.7 366.8 231.6 367.5 233.3 367.1 236.5 368.1 237.6 369.1 237.9 372.1 236.0 374.8 239.6 375.5 239.5 376.4 237.6 377.9 238.5 378.1 242.9 378.8 243.3 380.8 243.6 381.3 241.9 383.2 240.7 386.4 245.1 388.9 242.7 389.7 240.5 391.8 240.4 393.9 242.0 394.5 243.4 397.7 244.7 396.8 248.9 394.9 250.1 392.3 255.4 392.1 258.7 392.9 259.4 392.9 260.3 391.7 258.8 392.3 259.8 391.5 260.3 392.5 260.6 391.4 260.8 393.9 268.7 396.5 273.7 395.6 274.2 395.5 275.8 397.0 280.2 399.5 284.0 398.8 284.2 404.5 291.3 403.9 291.5 402.7 289.9 399.4 291.4 398.8 289.9 395.9 291.7 392.5 290.2 389.5 292.7 388.6 292.4 386.1 294.2 380.5 294.9 381.7 297.0 383.3 296.4 384.2 297.7 379.1 300.7 378.4 298.5 375.8 298.2 374.6 296.8 370.4 298.2 369.2 296.2 367.0 296.2 366.2 294.9 366.6 289.6 365.2 288.1 365.1 286.8 357.2 287.6 353.8 282.4 352.2 281.3 352.6 278.0 355.7 272.3 356.5 267.2 354.6 266.1 353.9 266.6 350.2 265.2 349.2 265.7 345.9 263.2 345.4 264.1 345.1 263.3 344.2 264.2 344.4 263.3 343.6 263.0 344.3 262.2 343.4 262.6 343.5 261.7 342.7 262.0 343.0 260.9 342.3 261.3 342.4 260.5 341.3 260.3 341.0 259.1 341.7 258.9 341.7 256.9 342.3 256.7 342.1 254.2 341.4 254.0 343.9 252.5 345.7 248.3 347.8 246.4 350.2 247.5 352.1 246.3 351.7 243.8 354.3 240.0 354.9 237.3 354.8 232.4 357.4 231.1 358.2 231.7 358.9 231.0 363.9 230.7ZM351.0 218.4 351.4 220.3 353.1 221.7 353.0 223.3 357.1 223.4 360.3 226.8 357.7 228.8 353.0 229.9 347.5 228.7 345.6 224.6 344.1 222.3 344.4 221.7 348.4 222.6 350.0 221.5 349.7 219.6 351.0 218.4Z",
+    "nom": "Valencia",
+    "region": "Comunidad Valenciana"
+   },
+   "47": {
+    "d": "M189.6 104.5 190.4 104.6 192.1 107.4 192.7 105.2 194.3 105.7 193.6 107.6 193.8 111.1 193.0 111.9 193.2 113.0 197.4 113.2 197.4 114.9 198.4 117.1 196.6 118.4 197.1 120.4 195.8 121.0 194.2 124.2 195.0 126.2 196.5 124.9 197.4 125.9 199.9 125.0 203.3 131.2 204.6 130.8 205.8 128.4 208.5 126.8 212.7 131.5 213.4 130.5 215.0 130.9 216.6 129.8 216.4 130.6 217.1 131.1 216.0 131.1 215.4 133.7 217.6 134.4 220.2 132.8 223.2 134.1 226.6 131.4 227.6 132.2 231.4 131.8 232.4 133.5 234.9 133.9 233.4 136.2 235.5 138.0 235.1 141.9 236.4 141.9 237.3 143.1 236.8 147.3 230.6 150.0 229.9 149.4 225.6 151.1 221.3 151.1 221.2 151.9 219.3 151.6 216.8 153.1 214.9 153.3 216.2 155.6 215.3 156.7 216.7 158.2 216.7 159.7 214.3 158.1 213.0 159.1 211.4 158.1 211.2 159.1 212.4 160.6 209.1 163.5 210.1 166.2 207.9 165.4 206.1 167.4 202.6 168.2 201.6 170.1 200.1 170.4 194.8 166.8 189.1 168.3 186.8 166.4 185.1 166.8 184.7 165.2 183.7 164.7 180.3 165.8 180.0 165.0 182.0 163.2 181.6 161.4 180.2 155.4 181.4 153.1 180.0 152.4 180.6 150.8 179.8 149.5 184.7 146.9 182.0 144.4 182.9 142.9 180.5 142.1 180.5 138.6 179.2 137.6 179.1 136.1 177.9 134.7 178.7 133.4 182.6 131.4 180.4 130.4 181.4 129.0 181.2 127.2 182.0 125.7 180.2 124.7 183.6 122.4 182.5 122.5 180.6 120.2 178.5 119.2 177.9 116.5 178.7 114.3 177.9 109.5 179.1 109.1 181.4 110.5 182.2 108.9 183.1 109.9 184.2 109.7 184.8 109.1 183.6 108.4 184.4 106.5 186.6 107.0 189.6 104.5ZM172.5 116.3 174.0 118.5 176.6 119.7 175.5 120.6 175.8 123.1 173.9 122.1 174.4 120.8 172.5 116.3ZM180.8 106.8 181.6 106.8 181.5 107.7 179.9 108.7 179.8 106.8 180.8 106.8Z",
+    "nom": "Valladolid",
+    "region": "Castilla y León"
+   },
+   "48": {
+    "d": "M289.4 42.5 289.9 43.9 291.7 45.2 293.8 44.7 295.0 46.0 299.6 46.8 299.9 47.5 301.7 49.0 303.7 49.8 302.6 51.2 303.5 52.7 302.7 54.0 300.1 55.3 300.7 57.9 299.6 58.5 300.0 62.0 293.2 63.2 294.4 64.8 294.4 66.1 283.3 64.7 279.9 61.8 281.6 59.8 280.8 58.5 281.1 57.9 279.7 56.3 278.6 56.5 277.7 55.4 278.2 56.2 277.7 58.5 275.7 59.3 274.2 59.4 272.2 57.6 269.4 58.0 268.2 56.4 261.2 60.0 259.9 54.4 264.5 52.1 264.8 50.8 267.1 51.5 269.4 50.5 270.1 51.8 272.5 50.6 272.4 48.1 274.0 48.2 274.3 47.4 275.3 46.7 274.5 47.4 275.4 48.1 276.4 47.6 275.7 48.0 277.5 48.4 278.0 49.6 278.4 48.9 277.7 48.7 278.3 48.4 277.2 47.0 280.1 44.8 281.1 44.9 281.1 43.6 287.0 43.9 289.4 42.5ZM267.3 52.9 266.0 53.5 266.8 56.5 267.7 56.1 267.5 54.6 268.3 53.7 268.3 53.1 267.3 52.9ZM276.8 64.7 278.1 65.2 277.5 66.1 279.5 66.5 279.5 67.6 280.7 67.3 278.7 68.1 277.2 68.2 276.3 67.0 275.1 67.1 276.8 64.7Z",
+    "nom": "Vizcaya",
+    "region": "País Vasco"
+   },
+   "49": {
+    "d": "M120.0 108.3 122.4 110.0 125.1 109.6 126.2 110.3 129.9 110.3 131.1 111.5 134.0 110.4 138.9 110.1 139.7 111.7 143.1 113.3 145.3 112.4 150.0 112.7 154.1 114.6 154.3 113.6 155.8 113.7 156.4 112.9 158.7 115.3 161.5 114.0 162.5 113.9 163.0 115.2 165.8 114.8 165.3 113.9 166.2 113.6 168.2 115.6 167.5 116.9 169.5 117.1 169.6 118.6 170.0 117.8 170.7 118.3 171.4 116.0 172.1 115.7 174.4 120.8 173.8 122.1 174.8 122.7 175.8 123.1 176.1 121.1 178.1 119.1 180.6 120.2 182.5 122.5 183.4 122.2 180.2 124.7 182.0 125.7 181.2 127.2 181.4 129.0 180.4 130.4 182.6 131.4 177.8 134.3 178.5 136.5 179.2 137.6 180.5 138.6 180.5 142.1 182.9 142.9 182.0 144.4 184.7 146.9 179.8 149.5 180.6 150.8 180.0 152.4 181.4 153.1 180.2 155.4 182.0 160.9 182.0 163.2 180.0 165.0 180.4 165.9 182.2 165.6 181.8 168.7 180.5 169.1 179.3 167.9 178.0 168.1 176.7 165.3 174.2 165.8 174.5 166.9 173.9 167.6 173.9 165.8 170.5 163.7 169.5 164.5 167.8 163.9 166.4 162.2 161.9 163.8 156.4 162.6 155.4 163.7 155.8 165.8 154.1 167.9 153.0 166.0 151.2 167.1 151.0 165.8 151.7 164.6 149.5 163.5 147.5 164.0 146.4 165.2 138.7 160.8 131.9 159.9 133.6 158.9 134.5 156.6 136.1 156.1 135.6 154.6 138.7 154.6 138.1 153.2 139.5 152.1 139.2 151.1 140.1 149.6 141.0 149.1 141.3 147.7 144.1 144.3 139.3 139.6 133.3 138.4 131.0 139.9 128.9 138.4 128.9 136.2 128.1 135.2 130.3 128.3 128.0 127.6 129.0 124.8 127.9 123.5 127.2 123.1 125.9 124.6 122.6 124.9 120.4 124.4 119.6 122.2 118.9 121.9 117.8 121.7 117.4 124.2 116.4 124.5 112.3 124.3 111.6 123.0 110.5 122.8 110.2 122.0 111.5 119.8 110.9 118.3 109.4 118.5 108.4 117.3 109.7 116.8 110.3 114.8 112.0 114.0 112.3 111.9 114.0 111.1 114.6 109.7 116.5 109.0 118.4 110.0 118.7 107.7 120.0 108.3Z",
+    "nom": "Zamora",
+    "region": "Castilla y León"
+   },
+   "50": {
+    "d": "M367.2 81.1 366.7 83.4 368.5 84.1 367.9 85.5 366.4 85.8 367.4 88.9 366.2 90.3 367.8 91.6 366.2 93.9 367.9 93.7 367.7 95.4 368.5 96.3 367.4 96.8 367.4 97.8 371.2 99.9 370.0 100.5 369.5 102.9 366.8 107.4 368.0 108.3 368.6 106.1 371.6 106.7 373.0 102.6 372.8 100.2 374.5 101.3 374.2 103.0 374.8 105.3 373.5 107.1 373.5 112.1 374.1 112.9 373.5 114.3 373.7 116.4 373.4 117.7 372.1 118.4 371.3 116.3 369.4 118.6 369.7 119.9 368.2 121.1 372.8 123.6 377.8 123.6 379.0 126.0 380.5 126.8 380.1 127.7 382.2 128.3 383.8 130.2 384.5 134.3 383.7 136.0 385.0 135.9 386.8 137.4 389.8 138.2 390.4 141.1 392.4 141.7 395.3 144.4 396.9 142.9 399.0 143.5 399.0 146.5 401.2 149.2 402.6 155.1 403.5 156.0 405.3 156.6 404.4 155.0 404.6 154.0 406.0 156.0 409.6 156.5 412.5 153.5 413.4 154.1 414.9 153.6 415.8 152.3 419.7 153.3 419.2 154.1 421.4 156.4 420.4 157.7 421.9 160.4 421.7 162.7 419.3 163.3 418.0 167.0 416.3 167.3 416.1 168.4 414.1 168.6 414.1 170.9 414.9 171.6 411.8 172.1 409.0 171.1 407.2 173.0 405.0 168.8 398.0 165.3 396.2 165.2 392.2 161.5 391.4 162.4 388.5 160.7 387.5 159.6 387.9 158.6 385.8 158.2 385.4 156.7 384.4 156.3 381.1 156.6 381.2 158.5 383.4 159.9 384.2 161.6 384.1 162.6 383.2 163.1 382.5 161.0 380.3 158.2 379.0 158.6 379.2 162.0 377.4 162.7 379.9 165.1 376.3 169.4 373.5 166.3 372.1 169.8 370.6 170.3 369.3 169.6 368.3 167.4 367.1 170.4 365.4 171.4 363.4 170.3 364.5 167.2 363.3 168.2 361.7 168.2 358.9 166.4 358.2 168.2 356.0 168.8 354.5 168.0 352.6 168.8 351.9 169.9 352.7 171.3 351.2 172.8 348.4 172.4 348.3 170.7 346.3 171.9 345.7 173.9 343.3 174.7 344.5 176.3 343.4 178.2 342.0 177.4 339.6 178.8 336.7 178.2 329.4 170.6 324.0 168.0 322.9 166.1 318.9 167.5 317.8 166.2 314.9 165.5 313.9 158.2 314.5 157.4 314.2 156.2 316.2 154.8 316.4 152.0 316.8 151.3 319.1 152.0 319.3 154.4 323.8 153.4 323.1 152.5 323.1 150.4 321.9 149.1 322.5 145.9 321.4 144.2 321.4 143.0 324.4 143.1 327.1 139.7 329.3 139.5 329.1 138.3 330.6 136.2 329.2 135.6 329.3 134.6 327.3 132.7 328.8 130.6 328.8 129.3 327.2 126.2 326.8 122.5 327.7 122.0 327.6 120.9 328.2 121.6 331.0 121.6 333.2 123.7 335.7 123.2 339.7 126.0 346.0 125.7 349.0 120.4 350.5 119.0 350.3 117.4 348.5 117.4 347.9 115.5 346.5 114.5 346.8 111.5 345.7 109.8 346.8 106.6 346.5 105.6 349.5 102.1 348.2 100.9 349.0 98.4 351.9 95.2 351.2 93.0 352.2 91.2 353.8 92.0 354.8 91.6 354.8 90.0 356.7 88.9 355.8 88.3 356.7 88.3 357.0 86.3 361.2 86.5 361.8 86.1 362.2 83.4 364.7 83.2 367.2 81.1ZM358.1 96.7 358.8 97.4 361.2 97.4 359.5 95.0 358.1 96.7ZM357.1 97.9 355.7 98.3 355.4 99.5 356.7 99.2 357.1 97.9Z",
+    "nom": "Zaragoza",
+    "region": "Aragón"
+   },
+   "52": {
+    "d": "M281.0 486.0 280.1 484.7 280.9 483.0 282.1 484.6 281.0 486.0Z",
+    "nom": "Melilla",
+    "region": "Melilla"
+   }
+  },
   "karte_info": {
    "name": "España",
    "einheit": "provincias",
    "lieux": "lugares",
    "start": "Sevilla",
-   "quelle": "",
+   "quelle": "Mapa: provincias de España via click_that_hood (Code for America, licencia MIT).",
    "badge": "Vuelta a España",
    "hinweis": [
     "Cada sesión terminada y cada parte terminada desbloquean un lugar, empezando por Sevilla. ¡Toca un lugar!",

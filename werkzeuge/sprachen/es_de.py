@@ -61,16 +61,16 @@ AUSSPRACHE = {
     },
 }
 
-# Karte: Spanien mit Provinzen – kommt später (vorerst keine Orte)
+# Karte: Spanien mit Provinzen (click_that_hood / Code for America, MIT), Kanaren als Einschub
 KARTE = {"name": "España", "einheit": "provincias", "lieux": "lugares", "start": "Sevilla",
-         "quelle": "", "badge": "Vuelta a España",
+         "quelle": "Mapa: provincias de España via click_that_hood (Code for America, licencia MIT).", "badge": "Vuelta a España",
          "hinweis": ["Cada sesión terminada y cada parte terminada desbloquean un lugar, empezando por Sevilla. ¡Toca un lugar!",
                      "Jede fertige Sesión und jeder fertige Teil schalten einen Ort frei, Start in Sevilla. Tipp auf einen Ort!"]}
 
 
 def karte_laden(inhalte):
-    """Noch keine Karte: leere Gebiete; Orte-Datei ist leer."""
-    return {}, (lambda lon, lat: None), (lambda lon, lat: (0, 0))
+    import spanien_karte
+    return spanien_karte.laden(os.path.join(inhalte, "karte"))
 
 
 # Stimmen: Mr. Alex' Klon auf Spanisch (Hörproben 13.10. freigegeben, Dentale geprüft), Diego = „Carmelo – Mature, Mysterious and Clear“

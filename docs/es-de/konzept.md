@@ -31,7 +31,7 @@ Nur **r gegen rr** (Mr. Alex, 13.10.2026): je 8 Wörter für [ɾ] und [r], 8 Min
 ## 4. Spiel
 
 - **Titel – Tapas-Leiter:** 🫒 Aceituna → 🥔 Tortilla → 🍤 Gambas → 🥘 Paella → 🍖 Jamón → 🧀 Manchego → ✨ **Gran chef**
-- **Karte:** Spanien mit **Provinzen** (50, wie Départements; freie Daten: spanische Verwaltungsgrenzen über Natural Earth / OpenStreetMap-Export, Lizenz prüfen), Start in **Sevilla** (Diegos Stadt) oder Barcelona? [offen], 50 Orte mit *datos curiosos*.
+- **Karte:** Spanien mit **52 Provinzen** (click_that_hood / Code for America, MIT-Lizenz; `inhalte/es-de/karte/provincias.geojson`, Lader `werkzeuge/spanien_karte.py`, Kanaren als Einschub), Start in **Sevilla**, 50 Orte mit *datos curiosos* (`orte.tsv`).
 - **Lob:** ¡Genial! · ¡Olé! · ¡Qué crack! · ¡Perfecto! · ¡Así se hace! · ¡Eres un fenómeno! · ¡Vamos! · ¡De lujo! · ¡Chapó! … (vollständige Liste zum Absegnen mit dem ersten Thema)
 - **Geschichte:** später, optional (z. B. Diego und das Geheimnis der Alhambra).
 
