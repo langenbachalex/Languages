@@ -3555,21 +3555,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "mangiare",
    "notiz": "cercare di + Infinitiv = versuchen zu; contare = zählen. il cornetto = das italienische Croissant (auch: la brioche im Norden). tranne = außer.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_01.mp3",
    "satz": {
     "fr": "Cerco di mangiare equilibrato. Il cornetto della mattina non conta.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "mangiare equilibrato",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Questa settimana ho mangiato equilibrato. Tranne venerdì.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_01_pc.mp3"
     },
     "fp": {
      "fr": "Mangerò equilibrato. Da lunedì.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_01_fp.mp3"
     }
    }
   },
@@ -3581,21 +3581,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "andare",
    "notiz": "andare a letto (ohne Artikel) = ins Bett gehen; presto = früh und bald; tardi = spät. ci provo = ich versuche es (provarci). beh = na ja.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_02.mp3",
    "satz": {
     "fr": "La domenica vado a letto presto. Il resto della settimana ci provo.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "vado a letto presto",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri sono andato a letto presto. Beh, prima di mezzanotte.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_02_pc.mp3"
     },
     "fp": {
      "fr": "Stasera andrò a letto presto. Davvero.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_02_fp.mp3"
     }
    }
   },
@@ -3607,12 +3607,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendersi",
    "notiz": "la cura = Pflege, Sorgfalt (und Kur); prendersi cura di = sich kümmern um; prenditi cura di te = pass auf dich auf. perfino = sogar. il cannolo = sizilianische Süßspeise.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_03.mp3",
    "satz": {
     "fr": "Prendersi cura di sé è anche dire di no. Perfino a un cannolo.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Cannolo.",
     "luecke": "Prendersi cura di sé",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_03.mp3"
    },
    "zeit": null
   },
@@ -3624,21 +3624,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare la spesa = Lebensmittel einkaufen (la spesa = Einkauf, Ausgabe); fare spese / fare shopping = Kleidung einkaufen. il sabato = samstags.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_04.mp3",
    "satz": {
     "fr": "Faccio la spesa il sabato, con una lista. Torno con altre cose.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "Faccio la spesa",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto la spesa stamattina.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_04_pc.mp3"
     },
     "fp": {
      "fr": "Farò la spesa domani.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_04_fp.mp3"
     }
    }
   },
@@ -3650,21 +3650,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cucinare",
    "notiz": "cucinare = kochen (Essen zubereiten); cuocere = kochen, garen (Wasser, Nudeln); la cucina = Küche und Kochkunst. ascoltando = Gerundio = beim Hören.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_05.mp3",
    "satz": {
     "fr": "La sera cucino ascoltando musica. Il gatto supervisiona.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cucino",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho cucinato una lasagna per Giovanni.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_05_pc.mp3"
     },
     "fp": {
      "fr": "Cucinerò qualcosa di semplice.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_05_fp.mp3"
     }
    }
   },
@@ -3676,12 +3676,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "preparare",
    "notiz": "il piatto = Teller und Gericht; il primo / il secondo = erster / zweiter Gang (Pasta / Fleisch oder Fisch). quello che = das, das; qualcun altro = jemand anderes.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_06.mp3",
    "satz": {
     "fr": "Il mio piatto preferito? Quello che ha preparato qualcun altro.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "piatto",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_06.mp3"
    },
    "zeit": null
   },
@@ -3693,21 +3693,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il languorino = der kleine Hunger (il languore = Mattigkeit + -ino = klein); auch: avere un po' di fame, avere un buco nello stomaco.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_07.mp3",
    "satz": {
     "fr": "Alle quattro ho un languorino. Alle quattro e cinque anche.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "ho un languorino",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Alle quattro avevo un languorino.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_07_pc.mp3"
     },
     "fp": {
      "fr": "Alle quattro avrò un languorino. Come sempre.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_07_fp.mp3"
     }
    }
   },
@@ -3719,21 +3719,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "la scorpacciata = Fressgelage (von corpo: sich den Körper vollmachen); fare una scorpacciata di + Speise. da Giovanni = bei Giovanni (da + Person). gli manda = schickt ihm.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_08.mp3",
    "satz": {
     "fr": "Da Giovanni facciamo una scorpacciata. Sua madre gli manda le ricette.",
     "de": "Bei Giovanni schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
     "luecke": "facciamo una scorpacciata",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Da Giovanni abbiamo fatto una scorpacciata.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_08_pc.mp3"
     },
     "fp": {
      "fr": "Da Giovanni faremo una scorpacciata.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_08_fp.mp3"
     }
    }
   },
@@ -3745,12 +3745,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "buon appetito = die normale Formel vor dem Essen (in Italien unumstritten, anders als in Frankreich); altrettanto = gleichfalls (wörtlich: ebenso viel).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_09.mp3",
    "satz": {
     "fr": "« Buon appetito! » – « Grazie, altrettanto. » – « Io non mangio. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, gleichfalls.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Buon appetito",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_09.mp3"
    },
    "zeit": null
   },
@@ -3762,12 +3762,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "il pane = Brot → la panetteria (auch: il panificio, il fornaio = Bäcker); la pasticceria = Konditorei. accanto a = neben. un bel problema (bello verkürzt vor Konsonant).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_10.mp3",
    "satz": {
     "fr": "C'è una panetteria accanto alla scuola. È un problema. Un bel problema.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein schönes Problem.",
     "luecke": "panetteria",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_10.mp3"
    },
    "zeit": null
   },
@@ -3779,21 +3779,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "bere",
    "notiz": "bere unregelmäßig: bevo, bevi, Partizip bevuto, Futur berrò. bere acqua ohne Artikel (allgemein), l'acqua = das Wasser. in mezzo = dazwischen, mittendrin.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_11.mp3",
    "satz": {
     "fr": "Bevo acqua tutto il giorno. E un caffè. O due. L'acqua è in mezzo.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "Bevo acqua",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho bevuto acqua tutto il giorno.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_11_pc.mp3"
     },
     "fp": {
      "fr": "Berrò acqua. Di più.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_11_fp.mp3"
     }
    }
   },
@@ -3805,21 +3805,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sgranocchiare",
    "notiz": "sgranocchiare = knabbern (lautmalerisch: cro-cro); auch: spiluccare = naschen, piluccare. un quadretto di cioccolato = ein Stückchen Schokolade (il quadretto = Quadrätchen).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_12.mp3",
    "satz": {
     "fr": "Sgranocchio mentre correggo. Ogni errore, un quadretto di cioccolato.",
     "de": "Ich knabbere beim Korrigieren. Für jeden Fehler ein Stückchen Schokolade.",
     "luecke": "Sgranocchio",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho sgranocchiato tutto il pomeriggio.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_12_pc.mp3"
     },
     "fp": {
      "fr": "Non sgranocchierò stasera. Vedremo.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_12_fp.mp3"
     }
    }
   },
@@ -3831,12 +3831,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "stare",
    "notiz": "wörtlich wie im Deutschen; stare bene = sich wohlfühlen (stare, nicht essere); proprio = eigen, nella mia pelle = in meiner Haut. Gegenteil: stare male nella propria pelle.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_13.mp3",
    "satz": {
     "fr": "Dopo lo sport sto bene nella mia pelle. Anche prima, ma meno.",
     "de": "Nach dem Sport fühle ich mich wohl in meiner Haut. Vorher auch, aber weniger.",
     "luecke": "sto bene nella mia pelle",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_13.mp3"
    },
    "zeit": null
   },
@@ -3848,21 +3848,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare una pausa; ogni ora = jede Stunde; a volte = manchmal; durare = dauern (nicht „dürfen“). un'ora mit Apostroph (weiblich).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_14.mp3",
    "satz": {
     "fr": "Faccio una pausa ogni ora. A volte la pausa dura un'ora.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "Faccio una pausa",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto una pausa di dieci minuti.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_14_pc.mp3"
     },
     "fp": {
      "fr": "Farò una pausa. Adesso.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_14_fp.mp3"
     }
    }
   },
@@ -3874,21 +3874,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dormire",
    "notiz": "il ghiro = der Siebenschläfer (im Deutschen „wie ein Murmeltier“); auch: dormire come un sasso (Stein). russare = schnarchen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_15.mp3",
    "satz": {
     "fr": "Dopo il kung fu dormo come un ghiro. Un ghiro che russa.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Murmeltier. Ein Murmeltier, das schnarcht.",
     "luecke": "dormo come un ghiro",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho dormito come un ghiro.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_15_pc.mp3"
     },
     "fp": {
      "fr": "Dormirò come un ghiro.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_15_fp.mp3"
     }
    }
   },
@@ -3900,12 +3900,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "smagliante = strahlend (un sorriso smagliante = strahlendes Lächeln); in forma smagliante = in Bestform. sospetto = verdächtig. sono le sei = es ist sechs Uhr (Plural!).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_16.mp3",
    "satz": {
     "fr": "Stamattina sono in forma smagliante. Sospetto. Sono le sei.",
     "de": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
     "luecke": "in forma smagliante",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_16.mp3"
    },
    "zeit": null
   },
@@ -3917,21 +3917,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendere",
    "notiz": "wörtlich „einen Mundvoll Luft nehmen“ (la bocca = Mund, la boccata = Mundvoll, Zug); auch: prendere aria. il telefono / il cellulare / il telefonino = Handy.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_17.mp3",
    "satz": {
     "fr": "A mezzogiorno prendo una boccata d'aria dieci minuti. Senza telefono. Beh, quasi.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "prendo una boccata d'aria",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "A mezzogiorno ho preso una boccata d'aria.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_17_pc.mp3"
     },
     "fp": {
      "fr": "A mezzogiorno prenderò una boccata d'aria.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_17_fp.mp3"
     }
    }
   },
@@ -3943,12 +3943,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "la ricetta = Kochrezept und Arztrezept (ricetta medica); le lasagne (Plural!) – Bologna ist die Heimat von Lasagne, Tortellini und Ragù. l'ha avuta = er hat es bekommen (Angleichung: avuta).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_18.mp3",
    "satz": {
     "fr": "Ho una ricetta per le lasagne. Viene da Giovanni, che l'ha avuta da sua madre.",
     "de": "Ich habe ein Rezept für Lasagne. Es kommt von Giovanni, der es von seiner Mutter hat.",
     "luecke": "ricetta",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_18.mp3"
    },
    "zeit": null
   },
@@ -3960,21 +3960,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "assaggiare",
    "notiz": "assaggiare = kosten, probieren (Essen); un assaggio = Kostprobe; provare = ausprobieren (Kleidung, Dinge). un pochino = ein kleines bisschen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_19.mp3",
    "satz": {
     "fr": "Assaggia questo. No, davvero, assaggia. Poi puoi dire che non ti piace.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Assaggia",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ho assaggiato. Non mi piace.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_19_pc.mp3"
     },
     "fp": {
      "fr": "Assaggerò. Un pochino.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_19_fp.mp3"
     }
    }
   },
@@ -3986,12 +3986,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "squisito = köstlich, exquisit; auch: buonissimo, delizioso, una delizia. cos'è = che cos'è = was ist das. meglio non + Infinitiv = besser nicht.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_20.mp3",
    "satz": {
     "fr": "È squisito! Cos'è? – Meglio non saperlo.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "squisito",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_20.mp3"
    },
    "zeit": null
   },
@@ -4003,21 +4003,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "avere sete/fame/sonno/freddo – immer mit avere; avere sete di = dürsten nach. educazione fisica (ed. fisica, ginnastica) = Schulsport.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_21.mp3",
    "satz": {
     "fr": "Dopo educazione fisica gli alunni hanno sete. Io ho sete di silenzio.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "hanno sete",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo lo sport gli alunni avevano sete.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_21_pc.mp3"
     },
     "fp": {
      "fr": "Dopo lo sport gli alunni avranno sete.",
-     "audio": null
+     "audio": "audio/it-de/saetze/ma_21_fp.mp3"
     }
    }
   },
@@ -4029,12 +4029,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "alzarsi",
    "notiz": "alzarsi = aufstehen; col = con + il; giusto = richtig. Gegenteil: alzarsi col piede sbagliato / sinistro. oggi + passato prossimo.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_22.mp3",
    "satz": {
     "fr": "Oggi mi sono alzato col piede giusto. Il sinistro. Come sempre.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "mi sono alzato col piede giusto",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_22.mp3"
    },
    "zeit": null
   },
@@ -4046,12 +4046,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "togliersi",
    "notiz": "lo sfizio = Gelüst, kleine Laune (uno sfizio vor sf-); togliersi uno sfizio = sich etwas gönnen; sfizioso = reizvoll, lecker. la crostata = Mürbeteigkuchen mit Marmelade.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_23.mp3",
    "satz": {
     "fr": "Uno sfizio al giorno. Oggi: una crostata. Domani: un'altra crostata.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Crostata. Morgen: eine andere Crostata.",
     "luecke": "sfizio",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_23.mp3"
    },
    "zeit": null
   },
@@ -4063,12 +4063,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "volere",
    "notiz": "vorrei = Konditional von volere, die höfliche Bestellform („ich hätte gern“); voglio wäre unhöflich. la rosetta = rundes Brötchen (Rom/Norden; auch: la michetta in Mailand). cotto = gebacken, gegart.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/ma_24.mp3",
    "satz": {
     "fr": "Buongiorno, vorrei una rosetta, per favore. Non troppo cotta.",
     "de": "Guten Tag, ich hätte gern ein Brötchen, bitte. Nicht zu dunkel.",
     "luecke": "vorrei",
-    "audio": null
+    "audio": "audio/it-de/saetze/ma_24.mp3"
    },
    "zeit": null
   }
@@ -4994,6 +4994,56 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/saetze/ga_23_fp.mp3",
   "audio/it-de/saetze/ga_23_pc.mp3",
   "audio/it-de/saetze/ga_24.mp3",
+  "audio/it-de/saetze/ma_01.mp3",
+  "audio/it-de/saetze/ma_01_fp.mp3",
+  "audio/it-de/saetze/ma_01_pc.mp3",
+  "audio/it-de/saetze/ma_02.mp3",
+  "audio/it-de/saetze/ma_02_fp.mp3",
+  "audio/it-de/saetze/ma_02_pc.mp3",
+  "audio/it-de/saetze/ma_03.mp3",
+  "audio/it-de/saetze/ma_04.mp3",
+  "audio/it-de/saetze/ma_04_fp.mp3",
+  "audio/it-de/saetze/ma_04_pc.mp3",
+  "audio/it-de/saetze/ma_05.mp3",
+  "audio/it-de/saetze/ma_05_fp.mp3",
+  "audio/it-de/saetze/ma_05_pc.mp3",
+  "audio/it-de/saetze/ma_06.mp3",
+  "audio/it-de/saetze/ma_07.mp3",
+  "audio/it-de/saetze/ma_07_fp.mp3",
+  "audio/it-de/saetze/ma_07_pc.mp3",
+  "audio/it-de/saetze/ma_08.mp3",
+  "audio/it-de/saetze/ma_08_fp.mp3",
+  "audio/it-de/saetze/ma_08_pc.mp3",
+  "audio/it-de/saetze/ma_09.mp3",
+  "audio/it-de/saetze/ma_10.mp3",
+  "audio/it-de/saetze/ma_11.mp3",
+  "audio/it-de/saetze/ma_11_fp.mp3",
+  "audio/it-de/saetze/ma_11_pc.mp3",
+  "audio/it-de/saetze/ma_12.mp3",
+  "audio/it-de/saetze/ma_12_fp.mp3",
+  "audio/it-de/saetze/ma_12_pc.mp3",
+  "audio/it-de/saetze/ma_13.mp3",
+  "audio/it-de/saetze/ma_14.mp3",
+  "audio/it-de/saetze/ma_14_fp.mp3",
+  "audio/it-de/saetze/ma_14_pc.mp3",
+  "audio/it-de/saetze/ma_15.mp3",
+  "audio/it-de/saetze/ma_15_fp.mp3",
+  "audio/it-de/saetze/ma_15_pc.mp3",
+  "audio/it-de/saetze/ma_16.mp3",
+  "audio/it-de/saetze/ma_17.mp3",
+  "audio/it-de/saetze/ma_17_fp.mp3",
+  "audio/it-de/saetze/ma_17_pc.mp3",
+  "audio/it-de/saetze/ma_18.mp3",
+  "audio/it-de/saetze/ma_19.mp3",
+  "audio/it-de/saetze/ma_19_fp.mp3",
+  "audio/it-de/saetze/ma_19_pc.mp3",
+  "audio/it-de/saetze/ma_20.mp3",
+  "audio/it-de/saetze/ma_21.mp3",
+  "audio/it-de/saetze/ma_21_fp.mp3",
+  "audio/it-de/saetze/ma_21_pc.mp3",
+  "audio/it-de/saetze/ma_22.mp3",
+  "audio/it-de/saetze/ma_23.mp3",
+  "audio/it-de/saetze/ma_24.mp3",
   "audio/it-de/saetze/mu_01.mp3",
   "audio/it-de/saetze/mu_01_fp.mp3",
   "audio/it-de/saetze/mu_01_pc.mp3",
@@ -5256,6 +5306,30 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/wendungen/ga_22.mp3",
   "audio/it-de/wendungen/ga_23.mp3",
   "audio/it-de/wendungen/ga_24.mp3",
+  "audio/it-de/wendungen/ma_01.mp3",
+  "audio/it-de/wendungen/ma_02.mp3",
+  "audio/it-de/wendungen/ma_03.mp3",
+  "audio/it-de/wendungen/ma_04.mp3",
+  "audio/it-de/wendungen/ma_05.mp3",
+  "audio/it-de/wendungen/ma_06.mp3",
+  "audio/it-de/wendungen/ma_07.mp3",
+  "audio/it-de/wendungen/ma_08.mp3",
+  "audio/it-de/wendungen/ma_09.mp3",
+  "audio/it-de/wendungen/ma_10.mp3",
+  "audio/it-de/wendungen/ma_11.mp3",
+  "audio/it-de/wendungen/ma_12.mp3",
+  "audio/it-de/wendungen/ma_13.mp3",
+  "audio/it-de/wendungen/ma_14.mp3",
+  "audio/it-de/wendungen/ma_15.mp3",
+  "audio/it-de/wendungen/ma_16.mp3",
+  "audio/it-de/wendungen/ma_17.mp3",
+  "audio/it-de/wendungen/ma_18.mp3",
+  "audio/it-de/wendungen/ma_19.mp3",
+  "audio/it-de/wendungen/ma_20.mp3",
+  "audio/it-de/wendungen/ma_21.mp3",
+  "audio/it-de/wendungen/ma_22.mp3",
+  "audio/it-de/wendungen/ma_23.mp3",
+  "audio/it-de/wendungen/ma_24.mp3",
   "audio/it-de/wendungen/mu_01.mp3",
   "audio/it-de/wendungen/mu_02.mp3",
   "audio/it-de/wendungen/mu_03.mp3",
