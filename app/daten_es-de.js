@@ -817,21 +817,21 @@ window.SPRACHEN["es-de"] = {
    "de": "das berührt mich, das geht mir nahe",
    "register": "tu",
    "anker": "llegar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_01.mp3",
    "satz": {
     "fr": "Esta canción me llega cada vez que la oigo.",
     "de": "Dieses Lied geht mir jedes Mal nahe, wenn ich es höre.",
     "luecke": "me llega",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Esta canción me llegó al alma.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_01_pc.mp3"
     },
     "fp": {
      "fr": "Esta canción me va a llegar, seguro.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_01_fp.mp3"
     }
    }
   },
@@ -842,21 +842,21 @@ window.SPRACHEN["es-de"] = {
    "de": "niedergeschlagen sein",
    "register": "tu",
    "anker": "estar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_02.mp3",
    "satz": {
     "fr": "Los domingos por la tarde suelo estar de bajón.",
     "de": "Sonntagnachmittags bin ich oft niedergeschlagen.",
     "luecke": "de bajón",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "El domingo estuve de bajón.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_02_pc.mp3"
     },
     "fp": {
      "fr": "El domingo voy a estar de bajón, como siempre.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_02_fp.mp3"
     }
    }
   },
@@ -867,12 +867,12 @@ window.SPRACHEN["es-de"] = {
    "de": "düster, dunkel",
    "register": "tu",
    "anker": "gustar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_03.mp3",
    "satz": {
     "fr": "Me gustan las historias oscuras, con un bosque y un secreto.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "oscuras",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_03.mp3"
    },
    "zeit": null
   },
@@ -883,12 +883,12 @@ window.SPRACHEN["es-de"] = {
    "de": "melancholisch",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_04.mp3",
    "satz": {
     "fr": "Esta pieza de piano es melancólica, pero tan bonita.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "melancólica",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_04.mp3"
    },
    "zeit": null
   },
@@ -899,21 +899,21 @@ window.SPRACHEN["es-de"] = {
    "de": "das bricht mir das Herz",
    "register": "tu",
    "anker": "partir",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_05.mp3",
    "satz": {
     "fr": "Ver a un niño llorar solo me parte el alma.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "me parte el alma",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me partió el alma.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_05_pc.mp3"
     },
     "fp": {
      "fr": "Me va a partir el alma.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_05_fp.mp3"
     }
    }
   },
@@ -924,12 +924,12 @@ window.SPRACHEN["es-de"] = {
    "de": "gerührt, bewegt sein",
    "register": "tu",
    "anker": "estar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_06.mp3",
    "satz": {
     "fr": "Al final del concierto estaba emocionado hasta las lágrimas.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "emocionado",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_06.mp3"
    },
    "zeit": null
   },
@@ -940,12 +940,12 @@ window.SPRACHEN["es-de"] = {
    "de": "beunruhigend, unheimlich",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_07.mp3",
    "satz": {
     "fr": "La casa estaba en silencio. Era inquietante.",
     "de": "Das Haus war still. Es war unheimlich.",
     "luecke": "inquietante",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_07.mp3"
    },
    "zeit": null
   },
@@ -956,12 +956,12 @@ window.SPRACHEN["es-de"] = {
    "de": "beruhigend, entspannend",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_08.mp3",
    "satz": {
     "fr": "El ronroneo de mi gato es relajante.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "relajante",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_08.mp3"
    },
    "zeit": null
   },
@@ -972,21 +972,21 @@ window.SPRACHEN["es-de"] = {
    "de": "mir kommen die Tränen",
    "register": "tu",
    "anker": "saltar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_09.mp3",
    "satz": {
     "fr": "Cuando oigo esa voz, se me saltan las lágrimas.",
     "de": "Wenn ich diese Stimme höre, kommen mir die Tränen.",
     "luecke": "se me saltan las lágrimas",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_09.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Se me saltaron las lágrimas.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_09_pc.mp3"
     },
     "fp": {
      "fr": "Se me van a saltar las lágrimas.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_09_fp.mp3"
     }
    }
   },
@@ -997,21 +997,21 @@ window.SPRACHEN["es-de"] = {
    "de": "das gibt mir Gänsehaut",
    "register": "tu",
    "anker": "poner",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_10.mp3",
    "satz": {
     "fr": "El estribillo me pone la piel de gallina.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "me pone la piel de gallina",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "El estribillo me puso la piel de gallina.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_10_pc.mp3"
     },
     "fp": {
      "fr": "El estribillo me va a poner la piel de gallina.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_10_fp.mp3"
     }
    }
   },
@@ -1022,21 +1022,21 @@ window.SPRACHEN["es-de"] = {
    "de": "Angst haben vor",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_11.mp3",
    "satz": {
     "fr": "No tengo miedo de la oscuridad, sino del silencio.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "tengo miedo",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "No tuve miedo de la oscuridad.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_11_pc.mp3"
     },
     "fp": {
      "fr": "No voy a tener miedo de la oscuridad.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_11_fp.mp3"
     }
    }
   },
@@ -1047,21 +1047,21 @@ window.SPRACHEN["es-de"] = {
    "de": "gut gelaunt sein",
    "register": "tu",
    "anker": "estar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_12.mp3",
    "satz": {
     "fr": "Esta mañana estoy de buen humor: ha salido el sol.",
     "de": "Heute Morgen bin ich gut gelaunt: Die Sonne ist da.",
     "luecke": "de buen humor",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Esta mañana estaba de buen humor.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_12_pc.mp3"
     },
     "fp": {
      "fr": "Mañana voy a estar de buen humor.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_12_fp.mp3"
     }
    }
   },
@@ -1072,12 +1072,12 @@ window.SPRACHEN["es-de"] = {
    "de": "schlecht gelaunt sein",
    "register": "tu",
    "anker": "estar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_13.mp3",
    "satz": {
     "fr": "No le hables, está de mal humor.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "de mal humor",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_13.mp3"
    },
    "zeit": null
   },
@@ -1088,21 +1088,21 @@ window.SPRACHEN["es-de"] = {
    "de": "vermissen",
    "register": "tu",
    "anker": "echar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_14.mp3",
    "satz": {
     "fr": "Echo de menos a mis gatos cuando estoy de viaje.",
     "de": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
     "luecke": "Echo de menos",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Eché de menos a mis gatos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_14_pc.mp3"
     },
     "fp": {
      "fr": "Voy a echar de menos a mis gatos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_14_fp.mp3"
     }
    }
   },
@@ -1113,21 +1113,21 @@ window.SPRACHEN["es-de"] = {
    "de": "einen Kloß im Hals haben",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_15.mp3",
    "satz": {
     "fr": "Después de ese día, tengo un nudo en la garganta.",
     "de": "Nach diesem Tag habe ich einen Kloß im Hals.",
     "luecke": "tengo un nudo en la garganta",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Tuve un nudo en la garganta toda la tarde.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_15_pc.mp3"
     },
     "fp": {
      "fr": "Voy a tener un nudo en la garganta.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_15_fp.mp3"
     }
    }
   },
@@ -1138,12 +1138,12 @@ window.SPRACHEN["es-de"] = {
    "de": "bewegend, erschütternd",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_16.mp3",
    "satz": {
     "fr": "El final de la película es conmovedor.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "conmovedor",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_16.mp3"
    },
    "zeit": null
   },
@@ -1154,21 +1154,21 @@ window.SPRACHEN["es-de"] = {
    "de": "sich gut / schlecht fühlen",
    "register": "tu",
    "anker": "sentirse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_17.mp3",
    "satz": {
     "fr": "Después del kung-fu me siento bien, ligero.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "me siento bien",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Después del kung-fu me sentí bien.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_17_pc.mp3"
     },
     "fp": {
      "fr": "Después del kung-fu me voy a sentir bien.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_17_fp.mp3"
     }
    }
   },
@@ -1179,21 +1179,21 @@ window.SPRACHEN["es-de"] = {
    "de": "ein schweres Herz haben, beklommen sein",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_18.mp3",
    "satz": {
     "fr": "Se ha ido, y tengo el corazón encogido.",
     "de": "Sie ist gegangen, und mir ist schwer ums Herz.",
     "luecke": "tengo el corazón encogido",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Tuve el corazón encogido.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_18_pc.mp3"
     },
     "fp": {
      "fr": "Voy a tener el corazón encogido.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_18_fp.mp3"
     }
    }
   },
@@ -1204,21 +1204,21 @@ window.SPRACHEN["es-de"] = {
    "de": "das macht mich traurig / froh",
    "register": "tu",
    "anker": "poner",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_19.mp3",
    "satz": {
     "fr": "La lluvia sobre Sevilla me pone un poco triste.",
     "de": "Der Regen über Sevilla macht mich ein bisschen traurig.",
     "luecke": "me pone",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "La lluvia me puso un poco triste.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_19_pc.mp3"
     },
     "fp": {
      "fr": "La lluvia me va a poner un poco triste.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_19_fp.mp3"
     }
    }
   },
@@ -1229,12 +1229,12 @@ window.SPRACHEN["es-de"] = {
    "de": "das Hell-Dunkel",
    "register": "tu",
    "anker": "encantar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_20.mp3",
    "satz": {
     "fr": "Me encanta el claroscuro en los cuadros del Prado.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden im Prado.",
     "luecke": "claroscuro",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_20.mp3"
    },
    "zeit": null
   },
@@ -1245,12 +1245,12 @@ window.SPRACHEN["es-de"] = {
    "de": "ruhig, friedlich",
    "register": "tu",
    "anker": "estar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_21.mp3",
    "satz": {
     "fr": "Por la tarde, el patio está tranquilo.",
     "de": "Am Nachmittag ist der Innenhof ruhig.",
     "luecke": "tranquilo",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_21.mp3"
    },
    "zeit": null
   },
@@ -1261,12 +1261,12 @@ window.SPRACHEN["es-de"] = {
    "de": "beklemmend, angsteinflößend",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_22.mp3",
    "satz": {
     "fr": "El pasillo vacío del museo era angustioso.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angustioso",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_22.mp3"
    },
    "zeit": null
   },
@@ -1277,21 +1277,21 @@ window.SPRACHEN["es-de"] = {
    "de": "traurig sein, Kummer haben",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_23.mp3",
    "satz": {
     "fr": "Tiene mucha pena desde que murió su gato.",
     "de": "Er ist sehr traurig, seit seine Katze gestorben ist.",
     "luecke": "Tiene mucha pena",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Tuvo mucha pena.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_23_pc.mp3"
     },
     "fp": {
      "fr": "Va a tener mucha pena.",
-     "audio": null
+     "audio": "audio/es-de/saetze/se_23_fp.mp3"
     }
    }
   },
@@ -1302,12 +1302,12 @@ window.SPRACHEN["es-de"] = {
    "de": "es tut mir sehr leid",
    "register": "vous",
    "anker": "sentir",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/se_24.mp3",
    "satz": {
     "fr": "Lo siento mucho, señora, no quería molestarla.",
     "de": "Es tut mir sehr leid, Señora, ich wollte Sie nicht stören.",
     "luecke": "Lo siento mucho",
-    "audio": null
+    "audio": "audio/es-de/saetze/se_24.mp3"
    },
    "zeit": null
   }
@@ -2304,6 +2304,56 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/saetze/pr_23_fp.mp3",
   "audio/es-de/saetze/pr_23_pc.mp3",
   "audio/es-de/saetze/pr_24.mp3",
+  "audio/es-de/saetze/se_01.mp3",
+  "audio/es-de/saetze/se_01_fp.mp3",
+  "audio/es-de/saetze/se_01_pc.mp3",
+  "audio/es-de/saetze/se_02.mp3",
+  "audio/es-de/saetze/se_02_fp.mp3",
+  "audio/es-de/saetze/se_02_pc.mp3",
+  "audio/es-de/saetze/se_03.mp3",
+  "audio/es-de/saetze/se_04.mp3",
+  "audio/es-de/saetze/se_05.mp3",
+  "audio/es-de/saetze/se_05_fp.mp3",
+  "audio/es-de/saetze/se_05_pc.mp3",
+  "audio/es-de/saetze/se_06.mp3",
+  "audio/es-de/saetze/se_07.mp3",
+  "audio/es-de/saetze/se_08.mp3",
+  "audio/es-de/saetze/se_09.mp3",
+  "audio/es-de/saetze/se_09_fp.mp3",
+  "audio/es-de/saetze/se_09_pc.mp3",
+  "audio/es-de/saetze/se_10.mp3",
+  "audio/es-de/saetze/se_10_fp.mp3",
+  "audio/es-de/saetze/se_10_pc.mp3",
+  "audio/es-de/saetze/se_11.mp3",
+  "audio/es-de/saetze/se_11_fp.mp3",
+  "audio/es-de/saetze/se_11_pc.mp3",
+  "audio/es-de/saetze/se_12.mp3",
+  "audio/es-de/saetze/se_12_fp.mp3",
+  "audio/es-de/saetze/se_12_pc.mp3",
+  "audio/es-de/saetze/se_13.mp3",
+  "audio/es-de/saetze/se_14.mp3",
+  "audio/es-de/saetze/se_14_fp.mp3",
+  "audio/es-de/saetze/se_14_pc.mp3",
+  "audio/es-de/saetze/se_15.mp3",
+  "audio/es-de/saetze/se_15_fp.mp3",
+  "audio/es-de/saetze/se_15_pc.mp3",
+  "audio/es-de/saetze/se_16.mp3",
+  "audio/es-de/saetze/se_17.mp3",
+  "audio/es-de/saetze/se_17_fp.mp3",
+  "audio/es-de/saetze/se_17_pc.mp3",
+  "audio/es-de/saetze/se_18.mp3",
+  "audio/es-de/saetze/se_18_fp.mp3",
+  "audio/es-de/saetze/se_18_pc.mp3",
+  "audio/es-de/saetze/se_19.mp3",
+  "audio/es-de/saetze/se_19_fp.mp3",
+  "audio/es-de/saetze/se_19_pc.mp3",
+  "audio/es-de/saetze/se_20.mp3",
+  "audio/es-de/saetze/se_21.mp3",
+  "audio/es-de/saetze/se_22.mp3",
+  "audio/es-de/saetze/se_23.mp3",
+  "audio/es-de/saetze/se_23_fp.mp3",
+  "audio/es-de/saetze/se_23_pc.mp3",
+  "audio/es-de/saetze/se_24.mp3",
   "audio/es-de/spiel/feuer.mp3",
   "audio/es-de/spiel/fini.mp3",
   "audio/es-de/spiel/monat.mp3",
@@ -2337,6 +2387,30 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/wendungen/pr_21.mp3",
   "audio/es-de/wendungen/pr_22.mp3",
   "audio/es-de/wendungen/pr_23.mp3",
-  "audio/es-de/wendungen/pr_24.mp3"
+  "audio/es-de/wendungen/pr_24.mp3",
+  "audio/es-de/wendungen/se_01.mp3",
+  "audio/es-de/wendungen/se_02.mp3",
+  "audio/es-de/wendungen/se_03.mp3",
+  "audio/es-de/wendungen/se_04.mp3",
+  "audio/es-de/wendungen/se_05.mp3",
+  "audio/es-de/wendungen/se_06.mp3",
+  "audio/es-de/wendungen/se_07.mp3",
+  "audio/es-de/wendungen/se_08.mp3",
+  "audio/es-de/wendungen/se_09.mp3",
+  "audio/es-de/wendungen/se_10.mp3",
+  "audio/es-de/wendungen/se_11.mp3",
+  "audio/es-de/wendungen/se_12.mp3",
+  "audio/es-de/wendungen/se_13.mp3",
+  "audio/es-de/wendungen/se_14.mp3",
+  "audio/es-de/wendungen/se_15.mp3",
+  "audio/es-de/wendungen/se_16.mp3",
+  "audio/es-de/wendungen/se_17.mp3",
+  "audio/es-de/wendungen/se_18.mp3",
+  "audio/es-de/wendungen/se_19.mp3",
+  "audio/es-de/wendungen/se_20.mp3",
+  "audio/es-de/wendungen/se_21.mp3",
+  "audio/es-de/wendungen/se_22.mp3",
+  "audio/es-de/wendungen/se_23.mp3",
+  "audio/es-de/wendungen/se_24.mp3"
  ]
 };
