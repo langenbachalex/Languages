@@ -20,6 +20,7 @@ THEMEN = [
     {"id": "gefuehle", "name": "Gefühle und Stimmungen", "de": "Sentiments et ambiances", "symbol": "🎭", "datei": "gefuehle.tsv"},
     {"id": "katzen", "name": "Die Katzen", "de": "Les chats", "symbol": "🐈", "datei": "katzen.tsv"},
     {"id": "musik", "name": "Musik und Sprache", "de": "Musique et langue", "symbol": "🎵", "datei": "musik.tsv"},
+    {"id": "geschichten", "name": "Geschichten und Fantasy", "de": "Histoires et fantasy", "symbol": "🐉", "datei": "geschichten.tsv"},
 ]
 
 # Titel – deutsche Leckereien

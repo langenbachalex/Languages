@@ -379,6 +379,38 @@ window.SPRACHEN["de-fr"] = {
     "mu_23",
     "mu_24"
    ]
+  },
+  {
+   "id": "geschichten",
+   "name": "Geschichten und Fantasy",
+   "de": "Histoires et fantasy",
+   "symbol": "🐉",
+   "wendungen": [
+    "gs_01",
+    "gs_02",
+    "gs_03",
+    "gs_04",
+    "gs_05",
+    "gs_06",
+    "gs_07",
+    "gs_08",
+    "gs_09",
+    "gs_10",
+    "gs_11",
+    "gs_12",
+    "gs_13",
+    "gs_14",
+    "gs_15",
+    "gs_16",
+    "gs_17",
+    "gs_18",
+    "gs_19",
+    "gs_20",
+    "gs_21",
+    "gs_22",
+    "gs_23",
+    "gs_24"
+   ]
   }
  ],
  "wendungen": [
@@ -2479,6 +2511,459 @@ window.SPRACHEN["de-fr"] = {
     "de": "Pardon, pourriez-vous répéter plus lentement ? J'écoute la musique, pas les mots.",
     "luecke": "könnten Sie das langsamer wiederholen",
     "audio": "audio/de-fr/saetze/mu_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_01",
+   "thema": "geschichten",
+   "fr": "es war einmal",
+   "de": "il était une fois",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "la formule des contes de Grimm ; war = prétérit de sein. das Märchen = le conte (de fées) ; die Gebrüder Grimm. Relative : der … korrigierte (verbe à la fin).",
+   "audio": null,
+   "satz": {
+    "fr": "Es war einmal ein Lehrer, der nie seine Klassenarbeiten korrigierte. Das ist ein Märchen.",
+    "de": "Il était une fois un professeur qui ne corrigeait jamais ses copies. C'est un conte.",
+    "luecke": "Es war einmal",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_02",
+   "thema": "geschichten",
+   "fr": "eine Geschichte erzählen",
+   "de": "raconter une histoire",
+   "register": "tu",
+   "anker": "erzählen",
+   "notiz": "erzählen = raconter ; jemandem (datif : meiner Katze) etwas (accusatif : eine Geschichte) erzählen. einschlafen = s'endormir (particule séparable : schläft … ein). vor dem Ende = avant la fin.",
+   "audio": null,
+   "satz": {
+    "fr": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
+    "de": "Le soir, je raconte une histoire à mon chat. Il s'endort avant la fin.",
+    "luecke": "erzähle ich meiner Katze eine Geschichte",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe meiner Katze eine Geschichte erzählt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde meiner Katze eine Geschichte erzählen.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "gs_03",
+   "thema": "geschichten",
+   "fr": "die Suche",
+   "de": "la quête",
+   "register": "tu",
+   "anker": "beginnen",
+   "notiz": "die Suche = la recherche, la quête (suchen = chercher ; die Suche nach + datif) ; der Roman = le roman. mit einer Suche = datif après mit. auch wenn = même si.",
+   "audio": null,
+   "satz": {
+    "fr": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur die Suche nach den Schlüsseln ist.",
+    "de": "Chaque bon roman commence par une quête. Même si c'est juste chercher ses clés.",
+    "luecke": "Suche",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_04",
+   "thema": "geschichten",
+   "fr": "tief im Wald",
+   "de": "au fond de la forêt",
+   "register": "tu",
+   "anker": "stehen",
+   "notiz": "tief = profond ; im Wald = in dem Wald (datif, lieu) ; der Wald = la forêt (pluriel die Wälder). stand = prétérit de stehen (être debout, se trouver) ; brannte = prétérit de brennen. Le prétérit est le temps du récit écrit.",
+   "audio": null,
+   "satz": {
+    "fr": "Tief im Wald stand ein Haus. Und in dem Haus brannte ein Licht.",
+    "de": "Au fond de la forêt, il y avait une maison. Et dans la maison, une lumière.",
+    "luecke": "Tief im Wald",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_05",
+   "thema": "geschichten",
+   "fr": "ein Drache",
+   "de": "un dragon",
+   "register": "tu",
+   "anker": "spucken",
+   "notiz": "der Drache = le dragon (déclinaison faible : den Drachen) ; der Drachen = le cerf-volant ! spucken = cracher ; Feuer spucken = cracher du feu. die Hausaufgaben = les devoirs (toujours pluriel).",
+   "audio": null,
+   "satz": {
+    "fr": "Der Drache spuckte kein Feuer. Er spuckte Hausaufgaben.",
+    "de": "Le dragon ne crachait pas de feu. Il crachait des devoirs.",
+    "luecke": "Drache",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_06",
+   "thema": "geschichten",
+   "fr": "ein Schwert",
+   "de": "une épée",
+   "register": "tu",
+   "anker": "nehmen",
+   "notiz": "das Schwert = l'épée (le w se prononce v : [ʃveːɐt]) ; schwer = lourd, et aussi difficile. nahm = prétérit de nehmen (participe genommen). der Held = le héros.",
+   "audio": null,
+   "satz": {
+    "fr": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
+    "de": "Le héros a pris son épée. Elle était lourde, comme un lundi.",
+    "luecke": "Schwert",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_07",
+   "thema": "geschichten",
+   "fr": "ein Zauber",
+   "de": "un sortilège",
+   "register": "tu",
+   "anker": "verwandeln",
+   "notiz": "der Zauber = le sortilège, le charme (zaubern = faire de la magie ; der Zauberer = le magicien) ; verwandeln in + accusatif = transformer en. hielt = prétérit de halten (ici : durer, tenir).",
+   "audio": null,
+   "satz": {
+    "fr": "Ein Zauber verwandelte die Klasse in Stille. Er hielt nur drei Minuten.",
+    "de": "Un sortilège a transformé la classe en silence. Ça n'a duré que trois minutes.",
+    "luecke": "Zauber",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_08",
+   "thema": "geschichten",
+   "fr": "plötzlich",
+   "de": "d'un coup",
+   "register": "tu",
+   "anker": "aufgehen",
+   "notiz": "plötzlich = soudain, tout à coup (adverbe en tête, puis inversion : ging die Tür auf). aufgehen = s'ouvrir (particule séparable ; aussi : se lever, pour le soleil). niemand = personne. hoffe ich = j'espère (incise).",
+   "audio": null,
+   "satz": {
+    "fr": "Plötzlich ging die Tür auf. Niemand. Nur der Wind. Hoffe ich.",
+    "de": "D'un coup, la porte s'est ouverte. Personne. Juste le vent. Enfin, j'espère.",
+    "luecke": "Plötzlich",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_09",
+   "thema": "geschichten",
+   "fr": "ein Geheimnis haben",
+   "de": "avoir un secret",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "das Geheimnis = le secret (geheim = secret, adjectif ; pluriel die Geheimnisse) ; jeder = chacun, tout le monde (singulier) ; sogar = même, jusqu'à. in dieser Geschichte = datif.",
+   "audio": null,
+   "satz": {
+    "fr": "In dieser Geschichte hat jeder ein Geheimnis. Sogar die Katze.",
+    "de": "Tout le monde a un secret dans cette histoire. Même le chat.",
+    "luecke": "hat jeder ein Geheimnis",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_10",
+   "thema": "geschichten",
+   "fr": "ein Königreich",
+   "de": "un royaume",
+   "register": "tu",
+   "anker": "zuhören",
+   "notiz": "das Königreich = König (roi) + Reich (empire, royaume) ; die Königin = la reine. zuhören = écouter (quelqu'un qui parle ; particule séparable : hörten … zu) ; hören = entendre. die Menschen = les gens.",
+   "audio": null,
+   "satz": {
+    "fr": "In diesem Königreich sprachen die Bücher, und die Menschen hörten zu.",
+    "de": "Dans ce royaume, les livres parlaient et les gens écoutaient.",
+    "luecke": "Königreich",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_11",
+   "thema": "geschichten",
+   "fr": "ein Zauberer / eine Hexe",
+   "de": "un sorcier / une sorcière",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "die Hexe = la sorcière (hexen = ensorceler) ; der Zauberer = le magicien, der Hexenmeister = le sorcier. böse = méchant, en colère ; müde = fatigué. ich verstehe sie = je la comprends (sie = accusatif).",
+   "audio": null,
+   "satz": {
+    "fr": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
+    "de": "La sorcière n'était pas méchante. Elle était fatiguée. Je la comprends.",
+    "luecke": "Hexe",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_12",
+   "thema": "geschichten",
+   "fr": "sich verwandeln in",
+   "de": "se transformer en",
+   "register": "tu",
+   "anker": "verwandeln",
+   "notiz": "sich verwandeln in + accusatif (in einen Leser) ; die Verwandlung = la métamorphose (Kafka !). um Mitternacht = à minuit ; bis = jusqu'à ; zwei Uhr morgens = deux heures du matin.",
+   "audio": null,
+   "satz": {
+    "fr": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
+    "de": "À minuit, le prof se transforme en lecteur. Jusqu'à deux heures du matin.",
+    "luecke": "verwandelt sich der Lehrer in einen Leser",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Der Lehrer hat sich in einen Leser verwandelt.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Der Lehrer wird sich in einen Leser verwandeln.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "gs_13",
+   "thema": "geschichten",
+   "fr": "auf einmal",
+   "de": "tout à coup",
+   "register": "tu",
+   "anker": "–",
+   "notiz": "auf einmal = tout à coup (et aussi : en une seule fois) ; synonyme de plötzlich. Herr Lehrer = l'adresse classique d'un élève à son prof (« Monsieur ») ; die Pause = la récré.",
+   "audio": null,
+   "satz": {
+    "fr": "Auf einmal Stille. Dann eine Stimme: « Herr Lehrer, wann ist Pause? »",
+    "de": "Tout à coup, le silence. Puis une voix : « Monsieur, c'est quand la pause ? »",
+    "luecke": "Auf einmal",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_14",
+   "thema": "geschichten",
+   "fr": "ein Held / eine Heldin",
+   "de": "un héros / une héroïne",
+   "register": "tu",
+   "anker": "haben",
+   "notiz": "der Held (déclinaison faible : den Helden), die Heldin = l'héroïne (pas la drogue : das Heroin !). meines Lieblingsromans = génitif. deshalb = c'est pourquoi (inversion : deshalb ist er …). mutig = courageux (der Mut).",
+   "audio": null,
+   "satz": {
+    "fr": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
+    "de": "Le héros de mon roman préféré a peur de tout. C'est pour ça qu'il est courageux.",
+    "luecke": "Held",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_15",
+   "thema": "geschichten",
+   "fr": "der Bösewicht",
+   "de": "le méchant",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "der Bösewicht = le méchant (böse + Wicht, « petit être malfaisant ») ; aussi : der Böse, der Schurke. der Wecker = le réveil (wecken = réveiller). jeden Tag = chaque jour (accusatif de temps).",
+   "audio": null,
+   "satz": {
+    "fr": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
+    "de": "Le méchant de l'histoire, c'est le réveil. Six heures. Chaque jour.",
+    "luecke": "Bösewicht",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_16",
+   "thema": "geschichten",
+   "fr": "eine Schatzkarte",
+   "de": "une carte au trésor",
+   "register": "tu",
+   "anker": "finden",
+   "notiz": "der Schatz = le trésor (et « chéri(e) » : mein Schatz !) + die Karte = la carte ; das Heft = le cahier ; die Mensa = la cantine (lycée, université). gefunden = participe de finden.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich habe in einem Heft eine Schatzkarte gefunden. Es war der Plan der Mensa.",
+    "de": "J'ai trouvé une carte au trésor dans un cahier. C'était un plan de la cantine.",
+    "luecke": "Schatzkarte",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_17",
+   "thema": "geschichten",
+   "fr": "es heißt, dass",
+   "de": "il paraît que",
+   "register": "tu",
+   "anker": "heißen",
+   "notiz": "es heißt, dass … = on dit que, il paraît que (heißen = s'appeler, signifier, et « être dit ») ; dass = que (subordonnée, verbe à la fin : existiert, schläft). aussi : angeblich = soi-disant. der Raum = la salle.",
+   "audio": null,
+   "satz": {
+    "fr": "Es heißt, dass Raum 13 existiert. Es heißt auch, dass die Katze dort schläft.",
+    "de": "Il paraît que la salle 13 existe. Il paraît aussi que le chat y dort.",
+    "luecke": "Es heißt",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_18",
+   "thema": "geschichten",
+   "fr": "verschwinden",
+   "de": "disparaître",
+   "register": "tu",
+   "anker": "verschwinden",
+   "notiz": "verschwinden = disparaître (participe verschwunden, avec sein) ; verschwinde ! = fiche le camp ! der Stift = le stylo, le crayon (pluriel die Stifte). sind es die Stifte = ce sont les stylos.",
+   "audio": null,
+   "satz": {
+    "fr": "In diesem Roman verschwinden Menschen. In meiner Klasse sind es die Stifte.",
+    "de": "Dans ce roman, les gens disparaissent. Dans ma classe, ce sont les stylos.",
+    "luecke": "verschwinden",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Die Stifte sind verschwunden.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Die Stifte werden verschwinden.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "gs_19",
+   "thema": "geschichten",
+   "fr": "die Fortsetzung",
+   "de": "la suite",
+   "register": "tu",
+   "anker": "lesen",
+   "notiz": "die Fortsetzung = la suite, la continuation (fortsetzen = continuer) ; « Fortsetzung folgt » = à suivre. sofort = tout de suite ; wollen + infinitif à la fin : will … lesen.",
+   "audio": null,
+   "satz": {
+    "fr": "Ich will die Fortsetzung sofort lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
+    "de": "Je veux lire la suite tout de suite. Mais il est minuit. Je lis la suite.",
+    "luecke": "Fortsetzung",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_20",
+   "thema": "geschichten",
+   "fr": "in Atem halten",
+   "de": "tenir en haleine",
+   "register": "tu",
+   "anker": "halten",
+   "notiz": "der Atem = le souffle, l'haleine ; jemanden in Atem halten = tenir en haleine (identique au français !) ; atemlos = hors d'haleine. seit drei Nächten = datif pluriel (die Nacht, die Nächte).",
+   "audio": null,
+   "satz": {
+    "fr": "Dieses Buch hält mich seit drei Nächten in Atem.",
+    "de": "Ce livre me tient en haleine depuis trois nuits.",
+    "luecke": "hält mich seit drei Nächten in Atem",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dieses Buch hat mich in Atem gehalten.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Dieses Buch wird mich in Atem halten.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "gs_21",
+   "thema": "geschichten",
+   "fr": "schaudern",
+   "de": "frissonner",
+   "register": "tu",
+   "anker": "schaudern",
+   "notiz": "schaudern = frissonner (d'effroi) ; der Schauder = le frisson ; aussi : eine Gänsehaut bekommen, erschauern. bei jedem Kapitel = à chaque chapitre (datif). weiterlesen = continuer à lire (particule séparable).",
+   "audio": null,
+   "satz": {
+    "fr": "Ich schaudere bei jedem Kapitel. Und lese weiter. Das ist Fantasy.",
+    "de": "Je frissonne à chaque chapitre. Et je continue. C'est ça, la fantasy.",
+    "luecke": "schaudere",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ich habe bei jedem Kapitel geschaudert.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Ich werde schaudern, das weiß ich schon.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "gs_22",
+   "thema": "geschichten",
+   "fr": "eine Wendung",
+   "de": "un rebondissement",
+   "register": "tu",
+   "anker": "sein",
+   "notiz": "die Wendung = le tournant, le rebondissement (wenden = tourner) – et aussi « l'expression » (die Redewendung, comme dans cette appli !). von Anfang an = depuis le début. der König = le roi.",
+   "audio": null,
+   "satz": {
+    "fr": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
+    "de": "Un rebondissement à la page 200 : le chat était le roi depuis le début.",
+    "luecke": "Wendung",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_23",
+   "thema": "geschichten",
+   "fr": "das Ende",
+   "de": "la fin",
+   "register": "tu",
+   "anker": "erzählen",
+   "notiz": "das Ende = la fin (neutre) ; am Ende = à la fin ; zu Ende = terminé. dieser Geschichte = génitif. lies ! = impératif de lesen (changement de voyelle : du liest → lies).",
+   "audio": null,
+   "satz": {
+    "fr": "Das Ende dieser Geschichte? Das erzähle ich nicht. Lies das Buch.",
+    "de": "La fin de cette histoire ? Je ne la raconte pas. Lis le livre.",
+    "luecke": "Ende",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "gs_24",
+   "thema": "geschichten",
+   "fr": "Könnten Sie mir ein Buch empfehlen?",
+   "de": "pourriez-vous me conseiller un livre ?",
+   "register": "vous",
+   "anker": "empfehlen",
+   "notiz": "empfehlen = recommander, conseiller (participe empfohlen ; die Empfehlung) ; mir = datif. etwas Düsteres, etwas Magisches = quelque chose de sombre, de magique (adjectif substantivé après etwas, majuscule, -es).",
+   "audio": null,
+   "satz": {
+    "fr": "Guten Tag, könnten Sie mir ein Buch empfehlen? Etwas Düsteres, etwas Magisches.",
+    "de": "Bonjour, pourriez-vous me conseiller un livre ? Un peu sombre, un peu magique.",
+    "luecke": "könnten Sie mir ein Buch empfehlen",
+    "audio": null
    },
    "zeit": null
   }
