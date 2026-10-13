@@ -5356,56 +5356,56 @@ window.SPRACHEN["es-de"] = {
      "wort": "perro",
      "de": "Hund",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/rr_01.mp3"
     },
     {
      "id": "rr_02",
      "wort": "carro",
      "de": "Karren, Wagen",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/rr_02.mp3"
     },
     {
      "id": "rr_03",
      "wort": "arroz",
      "de": "Reis",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/rr_03.mp3"
     },
     {
      "id": "rr_04",
      "wort": "rojo",
      "de": "rot",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/rr_04.mp3"
     },
     {
      "id": "rr_05",
      "wort": "rico",
      "de": "lecker, reich",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/rr_05.mp3"
     },
     {
      "id": "rr_06",
      "wort": "correr",
      "de": "rennen",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/rr_06.mp3"
     },
     {
      "id": "rr_07",
      "wort": "guitarra",
      "de": "Gitarre",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/rr_07.mp3"
     },
     {
      "id": "rr_08",
      "wort": "pizarra",
      "de": "Tafel",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/rr_08.mp3"
     }
    ],
    "r": [
@@ -5414,56 +5414,56 @@ window.SPRACHEN["es-de"] = {
      "wort": "pero",
      "de": "aber",
      "klang": "r",
-     "audio": null
+     "audio": "audio/es-de/sonidos/r_01.mp3"
     },
     {
      "id": "r_02",
      "wort": "caro",
      "de": "teuer",
      "klang": "r",
-     "audio": null
+     "audio": "audio/es-de/sonidos/r_02.mp3"
     },
     {
      "id": "r_03",
      "wort": "hora",
      "de": "Stunde",
      "klang": "r",
-     "audio": null
+     "audio": "audio/es-de/sonidos/r_03.mp3"
     },
     {
      "id": "r_04",
      "wort": "cara",
      "de": "Gesicht",
      "klang": "r",
-     "audio": null
+     "audio": "audio/es-de/sonidos/r_04.mp3"
     },
     {
      "id": "r_05",
      "wort": "mirar",
      "de": "anschauen",
      "klang": "r",
-     "audio": null
+     "audio": "audio/es-de/sonidos/r_05.mp3"
     },
     {
      "id": "r_06",
      "wort": "primero",
      "de": "erster",
      "klang": "r",
-     "audio": null
+     "audio": "audio/es-de/sonidos/r_06.mp3"
     },
     {
      "id": "r_07",
      "wort": "tarde",
      "de": "Nachmittag, spät",
      "klang": "r",
-     "audio": null
+     "audio": "audio/es-de/sonidos/r_07.mp3"
     },
     {
      "id": "r_08",
      "wort": "ahora",
      "de": "jetzt",
      "klang": "r",
-     "audio": null
+     "audio": "audio/es-de/sonidos/r_08.mp3"
     }
    ]
   },
@@ -5473,14 +5473,14 @@ window.SPRACHEN["es-de"] = {
     "wort": "pero",
     "de": "aber",
     "klang": "r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/p1_01a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_01b",
      "wort": "perro",
      "de": "Hund",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/p1_01b.mp3"
     }
    },
    {
@@ -5488,14 +5488,14 @@ window.SPRACHEN["es-de"] = {
     "wort": "caro",
     "de": "teuer",
     "klang": "r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/p1_02a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_02b",
      "wort": "carro",
      "de": "Karren, Wagen",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/p1_02b.mp3"
     }
    },
    {
@@ -5503,14 +5503,14 @@ window.SPRACHEN["es-de"] = {
     "wort": "coro",
     "de": "Chor",
     "klang": "r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/p1_03a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_03b",
      "wort": "corro",
      "de": "ich renne",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/p1_03b.mp3"
     }
    },
    {
@@ -5518,14 +5518,14 @@ window.SPRACHEN["es-de"] = {
     "wort": "cero",
     "de": "null",
     "klang": "r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/p1_04a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_04b",
      "wort": "cerro",
      "de": "Hügel",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/p1_04b.mp3"
     }
    },
    {
@@ -5533,14 +5533,14 @@ window.SPRACHEN["es-de"] = {
     "wort": "para",
     "de": "für",
     "klang": "r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/p1_05a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_05b",
      "wort": "parra",
      "de": "Weinrebe",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/p1_05b.mp3"
     }
    },
    {
@@ -5548,14 +5548,14 @@ window.SPRACHEN["es-de"] = {
     "wort": "moro",
     "de": "Maure",
     "klang": "r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/p1_06a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_06b",
      "wort": "morro",
      "de": "Schnauze",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/p1_06b.mp3"
     }
    },
    {
@@ -5563,14 +5563,14 @@ window.SPRACHEN["es-de"] = {
     "wort": "ahora",
     "de": "jetzt",
     "klang": "r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/p1_07a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_07b",
      "wort": "ahorra",
      "de": "er spart",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/p1_07b.mp3"
     }
    },
    {
@@ -5578,14 +5578,14 @@ window.SPRACHEN["es-de"] = {
     "wort": "foro",
     "de": "Forum",
     "klang": "r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/p1_08a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_08b",
      "wort": "forro",
      "de": "Futter (Stoff)",
      "klang": "rr",
-     "audio": null
+     "audio": "audio/es-de/sonidos/p1_08b.mp3"
     }
    }
   ],
@@ -5595,7 +5595,7 @@ window.SPRACHEN["es-de"] = {
     "wort": "ferrocaril",
     "de": "Eisenbahn",
     "klang": "rr,r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/b_01.mp3",
     "markup": "fe{rr|rr}oca{r|r}il",
     "klaenge": [
      "rr",
@@ -5607,7 +5607,7 @@ window.SPRACHEN["es-de"] = {
     "wort": "carretera",
     "de": "Landstraße",
     "klang": "rr,r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/b_02.mp3",
     "markup": "ca{rr|rr}ete{r|r}a",
     "klaenge": [
      "rr",
@@ -5619,7 +5619,7 @@ window.SPRACHEN["es-de"] = {
     "wort": "herrero",
     "de": "Schmied",
     "klang": "rr,r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/b_03.mp3",
     "markup": "he{rr|rr}e{r|r}o",
     "klaenge": [
      "rr",
@@ -5631,7 +5631,7 @@ window.SPRACHEN["es-de"] = {
     "wort": "guerrero",
     "de": "Krieger",
     "klang": "rr,r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/b_04.mp3",
     "markup": "gue{rr|rr}e{r|r}o",
     "klaenge": [
      "rr",
@@ -5643,7 +5643,7 @@ window.SPRACHEN["es-de"] = {
     "wort": "arriero",
     "de": "Maultiertreiber",
     "klang": "rr,r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/b_05.mp3",
     "markup": "a{rr|rr}ie{r|r}o",
     "klaenge": [
      "rr",
@@ -5655,7 +5655,7 @@ window.SPRACHEN["es-de"] = {
     "wort": "corredor",
     "de": "Läufer, Flur",
     "klang": "rr,r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/b_06.mp3",
     "markup": "co{rr|rr}edo{r|r}",
     "klaenge": [
      "rr",
@@ -5667,7 +5667,7 @@ window.SPRACHEN["es-de"] = {
     "wort": "ronronear",
     "de": "schnurren",
     "klang": "rr,r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/b_07.mp3",
     "markup": "{rr|r}on{r|r}onea{r|r}",
     "klaenge": [
      "rr",
@@ -5679,7 +5679,7 @@ window.SPRACHEN["es-de"] = {
     "wort": "rápido y raro",
     "de": "schnell und selten",
     "klang": "rr,r",
-    "audio": null,
+    "audio": "audio/es-de/sonidos/b_08.mp3",
     "markup": "{rr|r}ápido y {r|r}a{r|r}o",
     "klaenge": [
      "rr",
@@ -6964,6 +6964,46 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/saetze/se_23_fp.mp3",
   "audio/es-de/saetze/se_23_pc.mp3",
   "audio/es-de/saetze/se_24.mp3",
+  "audio/es-de/sonidos/b_01.mp3",
+  "audio/es-de/sonidos/b_02.mp3",
+  "audio/es-de/sonidos/b_03.mp3",
+  "audio/es-de/sonidos/b_04.mp3",
+  "audio/es-de/sonidos/b_05.mp3",
+  "audio/es-de/sonidos/b_06.mp3",
+  "audio/es-de/sonidos/b_07.mp3",
+  "audio/es-de/sonidos/b_08.mp3",
+  "audio/es-de/sonidos/p1_01a.mp3",
+  "audio/es-de/sonidos/p1_01b.mp3",
+  "audio/es-de/sonidos/p1_02a.mp3",
+  "audio/es-de/sonidos/p1_02b.mp3",
+  "audio/es-de/sonidos/p1_03a.mp3",
+  "audio/es-de/sonidos/p1_03b.mp3",
+  "audio/es-de/sonidos/p1_04a.mp3",
+  "audio/es-de/sonidos/p1_04b.mp3",
+  "audio/es-de/sonidos/p1_05a.mp3",
+  "audio/es-de/sonidos/p1_05b.mp3",
+  "audio/es-de/sonidos/p1_06a.mp3",
+  "audio/es-de/sonidos/p1_06b.mp3",
+  "audio/es-de/sonidos/p1_07a.mp3",
+  "audio/es-de/sonidos/p1_07b.mp3",
+  "audio/es-de/sonidos/p1_08a.mp3",
+  "audio/es-de/sonidos/p1_08b.mp3",
+  "audio/es-de/sonidos/r_01.mp3",
+  "audio/es-de/sonidos/r_02.mp3",
+  "audio/es-de/sonidos/r_03.mp3",
+  "audio/es-de/sonidos/r_04.mp3",
+  "audio/es-de/sonidos/r_05.mp3",
+  "audio/es-de/sonidos/r_06.mp3",
+  "audio/es-de/sonidos/r_07.mp3",
+  "audio/es-de/sonidos/r_08.mp3",
+  "audio/es-de/sonidos/rr_01.mp3",
+  "audio/es-de/sonidos/rr_02.mp3",
+  "audio/es-de/sonidos/rr_03.mp3",
+  "audio/es-de/sonidos/rr_04.mp3",
+  "audio/es-de/sonidos/rr_05.mp3",
+  "audio/es-de/sonidos/rr_06.mp3",
+  "audio/es-de/sonidos/rr_07.mp3",
+  "audio/es-de/sonidos/rr_08.mp3",
   "audio/es-de/spiel/feuer.mp3",
   "audio/es-de/spiel/fini.mp3",
   "audio/es-de/spiel/monat.mp3",
