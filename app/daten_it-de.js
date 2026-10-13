@@ -283,6 +283,38 @@ window.SPRACHEN["it-de"] = {
     "tc_23",
     "tc_24"
    ]
+  },
+  {
+   "id": "sentimenti",
+   "name": "Sentimenti e atmosfere",
+   "de": "Gefühle und Stimmungen",
+   "symbol": "🎭",
+   "wendungen": [
+    "se_01",
+    "se_02",
+    "se_03",
+    "se_04",
+    "se_05",
+    "se_06",
+    "se_07",
+    "se_08",
+    "se_09",
+    "se_10",
+    "se_11",
+    "se_12",
+    "se_13",
+    "se_14",
+    "se_15",
+    "se_16",
+    "se_17",
+    "se_18",
+    "se_19",
+    "se_20",
+    "se_21",
+    "se_22",
+    "se_23",
+    "se_24"
+   ]
   }
  ],
  "wendungen": [
@@ -817,6 +849,531 @@ window.SPRACHEN["it-de"] = {
     "de": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "luecke": "potrebbe indicarmi",
     "audio": "audio/it-de/saetze/tc_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_01",
+   "thema": "sentimenti",
+   "fr": "mi tocca",
+   "de": "das berührt mich",
+   "register": "tu",
+   "anker": "toccare",
+   "notiz": "toccare = berühren, auch gefühlsmäßig; Vorsicht: mi tocca + Infinitiv = ich muss (mi tocca correggere = ich muss korrigieren). Hier: mi tocca il cuore.",
+   "audio": null,
+   "satz": {
+    "fr": "Questa canzone mi tocca ogni volta che la sento.",
+    "de": "Dieses Lied berührt mich jedes Mal, wenn ich es höre.",
+    "luecke": "mi tocca",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Questa canzone mi ha toccato.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Questa canzone mi toccherà, lo so.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_02",
+   "thema": "sentimenti",
+   "fr": "essere giù di morale",
+   "de": "niedergeschlagen sein",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "wörtlich „unten an Moral sein“ (il morale = die Stimmung, Moral – männlich! la morale = die Moral als Ethik); auch: essere giù, essere a terra.",
+   "audio": null,
+   "satz": {
+    "fr": "La domenica sera sono spesso giù di morale.",
+    "de": "Sonntagabends bin ich oft niedergeschlagen.",
+    "luecke": "giù di morale",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Domenica ero giù di morale.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Domenica sarò giù di morale, come sempre.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_03",
+   "thema": "sentimenti",
+   "fr": "cupo",
+   "de": "düster, dunkel",
+   "register": "tu",
+   "anker": "piacere",
+   "notiz": "cupo = düster, dumpf (Stimmung, Farbe, Klang); scuro = dunkel (Licht). Plural weiblich: cupe. mi piacciono = Plural, weil le storie.",
+   "audio": null,
+   "satz": {
+    "fr": "Mi piacciono le storie cupe, con un bosco e un segreto.",
+    "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
+    "luecke": "cupe",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_04",
+   "thema": "sentimenti",
+   "fr": "malinconico",
+   "de": "melancholisch",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "la malinconia (mit i nach l, anders als im Deutschen); Betonung: malin-CO-nico. così bello = so schön.",
+   "audio": null,
+   "satz": {
+    "fr": "Questo pezzo per pianoforte è malinconico, ma così bello.",
+    "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
+    "luecke": "malinconico",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_05",
+   "thema": "sentimenti",
+   "fr": "mi spezza il cuore",
+   "de": "das bricht mir das Herz",
+   "register": "tu",
+   "anker": "spezzare",
+   "notiz": "spezzare = zerbrechen, brechen (un pezzo = ein Stück); auch mi si stringe il cuore = mir zieht sich das Herz zusammen. vedere + Infinitiv.",
+   "audio": null,
+   "satz": {
+    "fr": "Vedere un bambino piangere da solo mi spezza il cuore.",
+    "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
+    "luecke": "mi spezza il cuore",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mi ha spezzato il cuore.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mi spezzerà il cuore.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_06",
+   "thema": "sentimenti",
+   "fr": "essere commosso",
+   "de": "gerührt, bewegt sein",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "commosso = Partizip von commuovere (rühren); commovente = rührend. Nicht „aufgeregt“ – das wäre agitato oder emozionato (emozionato = aufgeregt und bewegt!).",
+   "audio": null,
+   "satz": {
+    "fr": "Alla fine del concerto ero commosso fino alle lacrime.",
+    "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
+    "luecke": "commosso",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_07",
+   "thema": "sentimenti",
+   "fr": "inquietante",
+   "de": "beunruhigend, unheimlich",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "von inquietare = beunruhigen (quieto = still, ruhig); inquieto = unruhig, besorgt. Imperfetto era = Beschreibung.",
+   "audio": null,
+   "satz": {
+    "fr": "La casa era silenziosa. Era inquietante.",
+    "de": "Das Haus war still. Es war unheimlich.",
+    "luecke": "inquietante",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_08",
+   "thema": "sentimenti",
+   "fr": "rilassante",
+   "de": "beruhigend, entspannend",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "von rilassare = entspannen; rilassarsi = sich entspannen; rilassati! = entspann dich! le fusa = das Schnurren (immer Plural!).",
+   "audio": null,
+   "satz": {
+    "fr": "Le fusa del mio gatto sono rilassanti.",
+    "de": "Das Schnurren meiner Katze ist beruhigend.",
+    "luecke": "rilassanti",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_09",
+   "thema": "sentimenti",
+   "fr": "avere le lacrime agli occhi",
+   "de": "Tränen in den Augen haben",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "wörtlich „die Tränen an den Augen haben“ – avere + Körperzustand ohne Possessiv (wie frz. avoir les larmes aux yeux). sentire = hören und fühlen.",
+   "audio": null,
+   "satz": {
+    "fr": "Quando sento quella voce, ho le lacrime agli occhi.",
+    "de": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
+    "luecke": "ho le lacrime agli occhi",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Avevo le lacrime agli occhi.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Avrò le lacrime agli occhi.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_10",
+   "thema": "sentimenti",
+   "fr": "mi fa venire la pelle d'oca",
+   "de": "das gibt mir Gänsehaut",
+   "register": "tu",
+   "anker": "fare",
+   "notiz": "wörtlich „es lässt mir die Gänsehaut kommen“ (la pelle d'oca = Gänsehaut, wie im Deutschen; l'oca = Gans). fare venire = kommen lassen, auslösen.",
+   "audio": null,
+   "satz": {
+    "fr": "Il ritornello mi fa venire la pelle d'oca.",
+    "de": "Der Refrain gibt mir Gänsehaut.",
+    "luecke": "mi fa venire la pelle d'oca",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Il ritornello mi ha fatto venire la pelle d'oca.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Il ritornello mi farà venire la pelle d'oca.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_11",
+   "thema": "sentimenti",
+   "fr": "avere paura di",
+   "de": "Angst haben vor",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "avere paura di + Nomen/Infinitiv; di + il = del: paura del buio. non … ma = nicht … sondern. il buio = die Dunkelheit.",
+   "audio": null,
+   "satz": {
+    "fr": "Non ho paura del buio, ma del silenzio.",
+    "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
+    "luecke": "ho paura",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Non avevo paura del buio.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Non avrò paura del buio.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_12",
+   "thema": "sentimenti",
+   "fr": "essere di buon umore",
+   "de": "gut gelaunt sein",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "l'umore (männlich) = die Laune – nicht l'umorismo (Humor)! buon vor Vokal/Konsonant verkürzt (buono → buon). stamattina = questa mattina.",
+   "audio": null,
+   "satz": {
+    "fr": "Stamattina sono di buon umore: c'è il sole.",
+    "de": "Heute Morgen bin ich gut gelaunt: Die Sonne ist da.",
+    "luecke": "di buon umore",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Stamattina ero di buon umore.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Domani sarò di buon umore.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_13",
+   "thema": "sentimenti",
+   "fr": "essere di cattivo umore",
+   "de": "schlecht gelaunt sein",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "non parlargli = verneinter Imperativ (non + Infinitiv!) mit angehängtem gli (ihm). cattivo = schlecht, böse; auch: di pessimo umore.",
+   "audio": null,
+   "satz": {
+    "fr": "Non parlargli, è di cattivo umore.",
+    "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
+    "luecke": "di cattivo umore",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_14",
+   "thema": "sentimenti",
+   "fr": "mi manca",
+   "de": "das fehlt mir, ich vermisse",
+   "register": "tu",
+   "anker": "mancare",
+   "notiz": "umgekehrt zum Deutschen: mancare a qualcuno – die Sache ist Subjekt: i gatti mi mancano. mi manchi = ich vermisse dich. Passato prossimo mit essere.",
+   "audio": null,
+   "satz": {
+    "fr": "I miei gatti mi mancano quando sono in viaggio.",
+    "de": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
+    "luecke": "mi mancano",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "I miei gatti mi sono mancati.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "I miei gatti mi mancheranno.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_15",
+   "thema": "sentimenti",
+   "fr": "avere un peso sul cuore",
+   "de": "schwer ums Herz sein",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "wörtlich „ein Gewicht auf dem Herzen haben“; auch avere il cuore pesante. la giornata = der Tag als Verlauf (wie frz. journée).",
+   "audio": null,
+   "satz": {
+    "fr": "Dopo questa giornata ho un peso sul cuore.",
+    "de": "Nach diesem Tag ist mir schwer ums Herz.",
+    "luecke": "ho un peso sul cuore",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Avevo un peso sul cuore.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Avrò un peso sul cuore.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_16",
+   "thema": "sentimenti",
+   "fr": "toccante",
+   "de": "bewegend, ergreifend",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "von toccare = berühren; commovente = rührend, struggente = herzzerreißend. il finale = das Ende (Film, Spiel) – la finale = das Finale (Sport).",
+   "audio": null,
+   "satz": {
+    "fr": "Il finale del film è toccante.",
+    "de": "Das Ende des Films ist zutiefst bewegend.",
+    "luecke": "toccante",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_17",
+   "thema": "sentimenti",
+   "fr": "sentirsi bene / male",
+   "de": "sich gut / schlecht fühlen",
+   "register": "tu",
+   "anker": "sentirsi",
+   "notiz": "sentirsi + Adverb/Adjektiv: mi sento bene, male, stanco. Ohne si: sentire = hören, fühlen, riechen (sento il caffè).",
+   "audio": null,
+   "satz": {
+    "fr": "Dopo il kung fu mi sento bene, leggero.",
+    "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
+    "luecke": "mi sento bene",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dopo il kung fu mi sono sentito bene.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Dopo il kung fu mi sentirò bene.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_18",
+   "thema": "sentimenti",
+   "fr": "avere il magone",
+   "de": "einen Kloß im Hals haben, bedrückt sein",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "il magone = der Kloß im Hals, die Beklemmung (norditalienisch, aus dem Lombardischen: „Magen“!); avere il magone = bedrückt sein. è partita = partire mit essere.",
+   "audio": null,
+   "satz": {
+    "fr": "È partita, e ho il magone.",
+    "de": "Sie ist gegangen, und ich habe einen Kloß im Hals.",
+    "luecke": "ho il magone",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Avevo il magone.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Avrò il magone.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_19",
+   "thema": "sentimenti",
+   "fr": "mi rende triste / felice",
+   "de": "das macht mich traurig / glücklich",
+   "register": "tu",
+   "anker": "rendere",
+   "notiz": "rendere + Adjektiv = zu etwas machen: mi rende triste, felice, nervoso. Nie fare: „mi fa triste“ ist falsch. Partizip reso.",
+   "audio": null,
+   "satz": {
+    "fr": "La pioggia su Bologna mi rende un po' triste.",
+    "de": "Der Regen über Bologna macht mich ein bisschen traurig.",
+    "luecke": "mi rende",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "La pioggia mi ha reso un po' triste.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "La pioggia mi renderà un po' triste.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_20",
+   "thema": "sentimenti",
+   "fr": "il chiaroscuro",
+   "de": "das Hell-Dunkel",
+   "register": "tu",
+   "anker": "adorare",
+   "notiz": "chiaro (hell) + scuro (dunkel) – das Wort kommt aus dem Italienischen und ist in allen Sprachen gleich. il quadro = das Gemälde. Caravaggio = der Meister des chiaroscuro.",
+   "audio": null,
+   "satz": {
+    "fr": "Adoro il chiaroscuro nei quadri di Caravaggio.",
+    "de": "Ich liebe das Hell-Dunkel in den Gemälden Caravaggios.",
+    "luecke": "chiaroscuro",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_21",
+   "thema": "sentimenti",
+   "fr": "tranquillo",
+   "de": "ruhig, friedlich",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "tranquillo = ruhig (Ort, Mensch); tranquillo! = keine Sorge, ganz ruhig (sehr häufig). il cortile = der Innenhof, auch der Schulhof.",
+   "audio": null,
+   "satz": {
+    "fr": "Di sera il cortile è tranquillo.",
+    "de": "Am Abend ist der Hof ruhig.",
+    "luecke": "tranquillo",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_22",
+   "thema": "sentimenti",
+   "fr": "angosciante",
+   "de": "beklemmend, angsteinflößend",
+   "register": "tu",
+   "anker": "essere",
+   "notiz": "von l'angoscia = Beklemmung, Angst; angosciato = beklommen. Vorsicht: sci vor a = [ʃa]: angosciante [angoʃante].",
+   "audio": null,
+   "satz": {
+    "fr": "Il corridoio vuoto del museo era angosciante.",
+    "de": "Der leere Gang im Museum war beklemmend.",
+    "luecke": "angosciante",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "se_23",
+   "thema": "sentimenti",
+   "fr": "avere il cuore a pezzi",
+   "de": "gebrochenen Herzens sein",
+   "register": "tu",
+   "anker": "avere",
+   "notiz": "wörtlich „das Herz in Stücken haben“; a pezzi = in Stücken (auch: essere a pezzi = fix und fertig). da quando = seit (Konjunktion); è morto = morire mit essere.",
+   "audio": null,
+   "satz": {
+    "fr": "Ha il cuore a pezzi da quando è morto il suo gatto.",
+    "de": "Er ist untröstlich, seit seine Katze gestorben ist.",
+    "luecke": "Ha il cuore a pezzi",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Aveva il cuore a pezzi.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Avrà il cuore a pezzi.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "se_24",
+   "thema": "sentimenti",
+   "fr": "mi dispiace",
+   "de": "es tut mir leid",
+   "register": "vous",
+   "anker": "dispiacere",
+   "notiz": "wörtlich „es missfällt mir“ (dispiacere, Gegenteil von piacere) – die normale Entschuldigung; mi dispiace molto = es tut mir sehr leid. disturbarla = disturbare + La (Sie, Lei-Form, angehängt).",
+   "audio": null,
+   "satz": {
+    "fr": "Mi dispiace, signora, non volevo disturbarla.",
+    "de": "Es tut mir leid, Signora, ich wollte Sie nicht stören.",
+    "luecke": "Mi dispiace",
+    "audio": null
    },
    "zeit": null
   }

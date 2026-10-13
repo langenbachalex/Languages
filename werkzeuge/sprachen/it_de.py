@@ -15,6 +15,7 @@ THEME = {"blau": "#1e6b3a", "rot": "#c8102e"}   # Grün und Rot
 # Themen in Lernreihenfolge – werden Thema für Thema ergänzt (jeweils nach Absegnung)
 THEMEN = [
     {"id": "colleghi", "name": "Tra colleghi", "de": "Unter Lehrern – mit Giovanni", "symbol": "🧑‍🏫", "datei": "tra_colleghi.tsv"},
+    {"id": "sentimenti", "name": "Sentimenti e atmosfere", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "sentimenti.tsv"},
 ]
 
 # Titel – Leiter der Leckereien
