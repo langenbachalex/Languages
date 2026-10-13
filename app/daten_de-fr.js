@@ -2522,12 +2522,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "la formule des contes de Grimm ; war = prétérit de sein. das Märchen = le conte (de fées) ; die Gebrüder Grimm. Relative : der … korrigierte (verbe à la fin).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_01.mp3",
    "satz": {
     "fr": "Es war einmal ein Lehrer, der nie seine Klassenarbeiten korrigierte. Das ist ein Märchen.",
     "de": "Il était une fois un professeur qui ne corrigeait jamais ses copies. C'est un conte.",
     "luecke": "Es war einmal",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_01.mp3"
    },
    "zeit": null
   },
@@ -2539,21 +2539,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "erzählen",
    "notiz": "erzählen = raconter ; jemandem (datif : meiner Katze) etwas (accusatif : eine Geschichte) erzählen. einschlafen = s'endormir (particule séparable : schläft … ein). vor dem Ende = avant la fin.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_02.mp3",
    "satz": {
     "fr": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "de": "Le soir, je raconte une histoire à mon chat. Il s'endort avant la fin.",
     "luecke": "erzähle ich meiner Katze eine Geschichte",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe meiner Katze eine Geschichte erzählt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_02_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde meiner Katze eine Geschichte erzählen.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_02_fp.mp3"
     }
    }
   },
@@ -2565,12 +2565,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "beginnen",
    "notiz": "die Suche = la recherche, la quête (suchen = chercher ; die Suche nach + datif) ; der Roman = le roman. mit einer Suche = datif après mit. auch wenn = même si.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_03.mp3",
    "satz": {
     "fr": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur die Suche nach den Schlüsseln ist.",
     "de": "Chaque bon roman commence par une quête. Même si c'est juste chercher ses clés.",
     "luecke": "Suche",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_03.mp3"
    },
    "zeit": null
   },
@@ -2582,12 +2582,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "stehen",
    "notiz": "tief = profond ; im Wald = in dem Wald (datif, lieu) ; der Wald = la forêt (pluriel die Wälder). stand = prétérit de stehen (être debout, se trouver) ; brannte = prétérit de brennen. Le prétérit est le temps du récit écrit.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_04.mp3",
    "satz": {
     "fr": "Tief im Wald stand ein Haus. Und in dem Haus brannte ein Licht.",
     "de": "Au fond de la forêt, il y avait une maison. Et dans la maison, une lumière.",
     "luecke": "Tief im Wald",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_04.mp3"
    },
    "zeit": null
   },
@@ -2599,12 +2599,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "spucken",
    "notiz": "der Drache = le dragon (déclinaison faible : den Drachen) ; der Drachen = le cerf-volant ! spucken = cracher ; Feuer spucken = cracher du feu. die Hausaufgaben = les devoirs (toujours pluriel).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_05.mp3",
    "satz": {
     "fr": "Der Drache spuckte kein Feuer. Er spuckte Hausaufgaben.",
     "de": "Le dragon ne crachait pas de feu. Il crachait des devoirs.",
     "luecke": "Drache",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_05.mp3"
    },
    "zeit": null
   },
@@ -2616,12 +2616,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "nehmen",
    "notiz": "das Schwert = l'épée (le w se prononce v : [ʃveːɐt]) ; schwer = lourd, et aussi difficile. nahm = prétérit de nehmen (participe genommen). der Held = le héros.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_06.mp3",
    "satz": {
     "fr": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "de": "Le héros a pris son épée. Elle était lourde, comme un lundi.",
     "luecke": "Schwert",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_06.mp3"
    },
    "zeit": null
   },
@@ -2633,12 +2633,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verwandeln",
    "notiz": "der Zauber = le sortilège, le charme (zaubern = faire de la magie ; der Zauberer = le magicien) ; verwandeln in + accusatif = transformer en. hielt = prétérit de halten (ici : durer, tenir).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_07.mp3",
    "satz": {
     "fr": "Ein Zauber verwandelte die Klasse in Stille. Er hielt nur drei Minuten.",
     "de": "Un sortilège a transformé la classe en silence. Ça n'a duré que trois minutes.",
     "luecke": "Zauber",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_07.mp3"
    },
    "zeit": null
   },
@@ -2650,12 +2650,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "aufgehen",
    "notiz": "plötzlich = soudain, tout à coup (adverbe en tête, puis inversion : ging die Tür auf). aufgehen = s'ouvrir (particule séparable ; aussi : se lever, pour le soleil). niemand = personne. hoffe ich = j'espère (incise).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_08.mp3",
    "satz": {
     "fr": "Plötzlich ging die Tür auf. Niemand. Nur der Wind. Hoffe ich.",
     "de": "D'un coup, la porte s'est ouverte. Personne. Juste le vent. Enfin, j'espère.",
     "luecke": "Plötzlich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_08.mp3"
    },
    "zeit": null
   },
@@ -2667,12 +2667,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Geheimnis = le secret (geheim = secret, adjectif ; pluriel die Geheimnisse) ; jeder = chacun, tout le monde (singulier) ; sogar = même, jusqu'à. in dieser Geschichte = datif.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_09.mp3",
    "satz": {
     "fr": "In dieser Geschichte hat jeder ein Geheimnis. Sogar die Katze.",
     "de": "Tout le monde a un secret dans cette histoire. Même le chat.",
     "luecke": "hat jeder ein Geheimnis",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_09.mp3"
    },
    "zeit": null
   },
@@ -2684,12 +2684,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "zuhören",
    "notiz": "das Königreich = König (roi) + Reich (empire, royaume) ; die Königin = la reine. zuhören = écouter (quelqu'un qui parle ; particule séparable : hörten … zu) ; hören = entendre. die Menschen = les gens.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_10.mp3",
    "satz": {
     "fr": "In diesem Königreich sprachen die Bücher, und die Menschen hörten zu.",
     "de": "Dans ce royaume, les livres parlaient et les gens écoutaient.",
     "luecke": "Königreich",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_10.mp3"
    },
    "zeit": null
   },
@@ -2701,12 +2701,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Hexe = la sorcière (hexen = ensorceler) ; der Zauberer = le magicien, der Hexenmeister = le sorcier. böse = méchant, en colère ; müde = fatigué. ich verstehe sie = je la comprends (sie = accusatif).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_11.mp3",
    "satz": {
     "fr": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "de": "La sorcière n'était pas méchante. Elle était fatiguée. Je la comprends.",
     "luecke": "Hexe",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_11.mp3"
    },
    "zeit": null
   },
@@ -2718,21 +2718,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verwandeln",
    "notiz": "sich verwandeln in + accusatif (in einen Leser) ; die Verwandlung = la métamorphose (Kafka !). um Mitternacht = à minuit ; bis = jusqu'à ; zwei Uhr morgens = deux heures du matin.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_12.mp3",
    "satz": {
     "fr": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "de": "À minuit, le prof se transforme en lecteur. Jusqu'à deux heures du matin.",
     "luecke": "verwandelt sich der Lehrer in einen Leser",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Der Lehrer hat sich in einen Leser verwandelt.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_12_pc.mp3"
     },
     "fp": {
      "fr": "Der Lehrer wird sich in einen Leser verwandeln.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_12_fp.mp3"
     }
    }
   },
@@ -2744,12 +2744,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "auf einmal = tout à coup (et aussi : en une seule fois) ; synonyme de plötzlich. Herr Lehrer = l'adresse classique d'un élève à son prof (« Monsieur ») ; die Pause = la récré.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_13.mp3",
    "satz": {
     "fr": "Auf einmal Stille. Dann eine Stimme: « Herr Lehrer, wann ist Pause? »",
     "de": "Tout à coup, le silence. Puis une voix : « Monsieur, c'est quand la pause ? »",
     "luecke": "Auf einmal",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_13.mp3"
    },
    "zeit": null
   },
@@ -2761,12 +2761,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Held (déclinaison faible : den Helden), die Heldin = l'héroïne (pas la drogue : das Heroin !). meines Lieblingsromans = génitif. deshalb = c'est pourquoi (inversion : deshalb ist er …). mutig = courageux (der Mut).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_14.mp3",
    "satz": {
     "fr": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "de": "Le héros de mon roman préféré a peur de tout. C'est pour ça qu'il est courageux.",
     "luecke": "Held",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_14.mp3"
    },
    "zeit": null
   },
@@ -2778,12 +2778,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Bösewicht = le méchant (böse + Wicht, « petit être malfaisant ») ; aussi : der Böse, der Schurke. der Wecker = le réveil (wecken = réveiller). jeden Tag = chaque jour (accusatif de temps).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_15.mp3",
    "satz": {
     "fr": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "de": "Le méchant de l'histoire, c'est le réveil. Six heures. Chaque jour.",
     "luecke": "Bösewicht",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_15.mp3"
    },
    "zeit": null
   },
@@ -2795,12 +2795,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "finden",
    "notiz": "der Schatz = le trésor (et « chéri(e) » : mein Schatz !) + die Karte = la carte ; das Heft = le cahier ; die Mensa = la cantine (lycée, université). gefunden = participe de finden.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_16.mp3",
    "satz": {
     "fr": "Ich habe in einem Heft eine Schatzkarte gefunden. Es war der Plan der Mensa.",
     "de": "J'ai trouvé une carte au trésor dans un cahier. C'était un plan de la cantine.",
     "luecke": "Schatzkarte",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_16.mp3"
    },
    "zeit": null
   },
@@ -2812,12 +2812,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "heißen",
    "notiz": "es heißt, dass … = on dit que, il paraît que (heißen = s'appeler, signifier, et « être dit ») ; dass = que (subordonnée, verbe à la fin : existiert, schläft). aussi : angeblich = soi-disant. der Raum = la salle.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_17.mp3",
    "satz": {
     "fr": "Es heißt, dass Raum 13 existiert. Es heißt auch, dass die Katze dort schläft.",
     "de": "Il paraît que la salle 13 existe. Il paraît aussi que le chat y dort.",
     "luecke": "Es heißt",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_17.mp3"
    },
    "zeit": null
   },
@@ -2829,21 +2829,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verschwinden",
    "notiz": "verschwinden = disparaître (participe verschwunden, avec sein) ; verschwinde ! = fiche le camp ! der Stift = le stylo, le crayon (pluriel die Stifte). sind es die Stifte = ce sont les stylos.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_18.mp3",
    "satz": {
     "fr": "In diesem Roman verschwinden Menschen. In meiner Klasse sind es die Stifte.",
     "de": "Dans ce roman, les gens disparaissent. Dans ma classe, ce sont les stylos.",
     "luecke": "verschwinden",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Die Stifte sind verschwunden.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_18_pc.mp3"
     },
     "fp": {
      "fr": "Die Stifte werden verschwinden.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_18_fp.mp3"
     }
    }
   },
@@ -2855,12 +2855,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lesen",
    "notiz": "die Fortsetzung = la suite, la continuation (fortsetzen = continuer) ; « Fortsetzung folgt » = à suivre. sofort = tout de suite ; wollen + infinitif à la fin : will … lesen.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_19.mp3",
    "satz": {
     "fr": "Ich will die Fortsetzung sofort lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "de": "Je veux lire la suite tout de suite. Mais il est minuit. Je lis la suite.",
     "luecke": "Fortsetzung",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_19.mp3"
    },
    "zeit": null
   },
@@ -2872,21 +2872,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "der Atem = le souffle, l'haleine ; jemanden in Atem halten = tenir en haleine (identique au français !) ; atemlos = hors d'haleine. seit drei Nächten = datif pluriel (die Nacht, die Nächte).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_20.mp3",
    "satz": {
     "fr": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "de": "Ce livre me tient en haleine depuis trois nuits.",
     "luecke": "hält mich seit drei Nächten in Atem",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dieses Buch hat mich in Atem gehalten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_20_pc.mp3"
     },
     "fp": {
      "fr": "Dieses Buch wird mich in Atem halten.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_20_fp.mp3"
     }
    }
   },
@@ -2898,21 +2898,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schaudern",
    "notiz": "schaudern = frissonner (d'effroi) ; der Schauder = le frisson ; aussi : eine Gänsehaut bekommen, erschauern. bei jedem Kapitel = à chaque chapitre (datif). weiterlesen = continuer à lire (particule séparable).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_21.mp3",
    "satz": {
     "fr": "Ich schaudere bei jedem Kapitel. Und lese weiter. Das ist Fantasy.",
     "de": "Je frissonne à chaque chapitre. Et je continue. C'est ça, la fantasy.",
     "luecke": "schaudere",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe bei jedem Kapitel geschaudert.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_21_pc.mp3"
     },
     "fp": {
      "fr": "Ich werde schaudern, das weiß ich schon.",
-     "audio": null
+     "audio": "audio/de-fr/saetze/gs_21_fp.mp3"
     }
    }
   },
@@ -2924,12 +2924,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Wendung = le tournant, le rebondissement (wenden = tourner) – et aussi « l'expression » (die Redewendung, comme dans cette appli !). von Anfang an = depuis le début. der König = le roi.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_22.mp3",
    "satz": {
     "fr": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "de": "Un rebondissement à la page 200 : le chat était le roi depuis le début.",
     "luecke": "Wendung",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_22.mp3"
    },
    "zeit": null
   },
@@ -2941,12 +2941,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "erzählen",
    "notiz": "das Ende = la fin (neutre) ; am Ende = à la fin ; zu Ende = terminé. dieser Geschichte = génitif. lies ! = impératif de lesen (changement de voyelle : du liest → lies).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_23.mp3",
    "satz": {
     "fr": "Das Ende dieser Geschichte? Das erzähle ich nicht. Lies das Buch.",
     "de": "La fin de cette histoire ? Je ne la raconte pas. Lis le livre.",
     "luecke": "Ende",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_23.mp3"
    },
    "zeit": null
   },
@@ -2958,12 +2958,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "empfehlen",
    "notiz": "empfehlen = recommander, conseiller (participe empfohlen ; die Empfehlung) ; mir = datif. etwas Düsteres, etwas Magisches = quelque chose de sombre, de magique (adjectif substantivé après etwas, majuscule, -es).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/gs_24.mp3",
    "satz": {
     "fr": "Guten Tag, könnten Sie mir ein Buch empfehlen? Etwas Düsteres, etwas Magisches.",
     "de": "Bonjour, pourriez-vous me conseiller un livre ? Un peu sombre, un peu magique.",
     "luecke": "könnten Sie mir ein Buch empfehlen",
-    "audio": null
+    "audio": "audio/de-fr/saetze/gs_24.mp3"
    },
    "zeit": null
   }
@@ -3877,6 +3877,40 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/saetze/ge_23_fp.mp3",
   "audio/de-fr/saetze/ge_23_pc.mp3",
   "audio/de-fr/saetze/ge_24.mp3",
+  "audio/de-fr/saetze/gs_01.mp3",
+  "audio/de-fr/saetze/gs_02.mp3",
+  "audio/de-fr/saetze/gs_02_fp.mp3",
+  "audio/de-fr/saetze/gs_02_pc.mp3",
+  "audio/de-fr/saetze/gs_03.mp3",
+  "audio/de-fr/saetze/gs_04.mp3",
+  "audio/de-fr/saetze/gs_05.mp3",
+  "audio/de-fr/saetze/gs_06.mp3",
+  "audio/de-fr/saetze/gs_07.mp3",
+  "audio/de-fr/saetze/gs_08.mp3",
+  "audio/de-fr/saetze/gs_09.mp3",
+  "audio/de-fr/saetze/gs_10.mp3",
+  "audio/de-fr/saetze/gs_11.mp3",
+  "audio/de-fr/saetze/gs_12.mp3",
+  "audio/de-fr/saetze/gs_12_fp.mp3",
+  "audio/de-fr/saetze/gs_12_pc.mp3",
+  "audio/de-fr/saetze/gs_13.mp3",
+  "audio/de-fr/saetze/gs_14.mp3",
+  "audio/de-fr/saetze/gs_15.mp3",
+  "audio/de-fr/saetze/gs_16.mp3",
+  "audio/de-fr/saetze/gs_17.mp3",
+  "audio/de-fr/saetze/gs_18.mp3",
+  "audio/de-fr/saetze/gs_18_fp.mp3",
+  "audio/de-fr/saetze/gs_18_pc.mp3",
+  "audio/de-fr/saetze/gs_19.mp3",
+  "audio/de-fr/saetze/gs_20.mp3",
+  "audio/de-fr/saetze/gs_20_fp.mp3",
+  "audio/de-fr/saetze/gs_20_pc.mp3",
+  "audio/de-fr/saetze/gs_21.mp3",
+  "audio/de-fr/saetze/gs_21_fp.mp3",
+  "audio/de-fr/saetze/gs_21_pc.mp3",
+  "audio/de-fr/saetze/gs_22.mp3",
+  "audio/de-fr/saetze/gs_23.mp3",
+  "audio/de-fr/saetze/gs_24.mp3",
   "audio/de-fr/saetze/ka_01.mp3",
   "audio/de-fr/saetze/ka_01_fp.mp3",
   "audio/de-fr/saetze/ka_01_pc.mp3",
@@ -4061,6 +4095,30 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/wendungen/ge_22.mp3",
   "audio/de-fr/wendungen/ge_23.mp3",
   "audio/de-fr/wendungen/ge_24.mp3",
+  "audio/de-fr/wendungen/gs_01.mp3",
+  "audio/de-fr/wendungen/gs_02.mp3",
+  "audio/de-fr/wendungen/gs_03.mp3",
+  "audio/de-fr/wendungen/gs_04.mp3",
+  "audio/de-fr/wendungen/gs_05.mp3",
+  "audio/de-fr/wendungen/gs_06.mp3",
+  "audio/de-fr/wendungen/gs_07.mp3",
+  "audio/de-fr/wendungen/gs_08.mp3",
+  "audio/de-fr/wendungen/gs_09.mp3",
+  "audio/de-fr/wendungen/gs_10.mp3",
+  "audio/de-fr/wendungen/gs_11.mp3",
+  "audio/de-fr/wendungen/gs_12.mp3",
+  "audio/de-fr/wendungen/gs_13.mp3",
+  "audio/de-fr/wendungen/gs_14.mp3",
+  "audio/de-fr/wendungen/gs_15.mp3",
+  "audio/de-fr/wendungen/gs_16.mp3",
+  "audio/de-fr/wendungen/gs_17.mp3",
+  "audio/de-fr/wendungen/gs_18.mp3",
+  "audio/de-fr/wendungen/gs_19.mp3",
+  "audio/de-fr/wendungen/gs_20.mp3",
+  "audio/de-fr/wendungen/gs_21.mp3",
+  "audio/de-fr/wendungen/gs_22.mp3",
+  "audio/de-fr/wendungen/gs_23.mp3",
+  "audio/de-fr/wendungen/gs_24.mp3",
   "audio/de-fr/wendungen/ka_01.mp3",
   "audio/de-fr/wendungen/ka_02.mp3",
   "audio/de-fr/wendungen/ka_03.mp3",
