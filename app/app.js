@@ -283,17 +283,18 @@
       })),
       el("h2", {}, uf("bonus")),
       el("nav", { class: "kacheln themen", "aria-label": U.bonus[0] },
-        D.geschichte.length && el("button", { class: "kachel", onclick: () => zeigeKapitel(kapitelFrei()), "aria-label": D.geschichte_info.titel },
+        D.geschichte.length ? el("button", { class: "kachel", onclick: () => zeigeKapitel(kapitelFrei()), "aria-label": D.geschichte_info.titel },
           el("span", { class: "sym", "aria-hidden": "true" }, "📖"),
           el("span", { class: "titel", lang: D.lang }, D.geschichte_info.titel),
           el("span", { class: "unter", lang: D.lang }, D.geschichte_info.unter),
-          el("span", { class: "zahl" }, f(U.kapitel_zahl, { frei: kapitelFrei(), alle: D.geschichte.length }))),
-        A.beide.length && el("button", { class: "kachel" + (ausspracheFertig() ? " erledigt" : ""), onclick: starteAussprache, "aria-label": A.titel },
+          el("span", { class: "zahl" }, f(U.kapitel_zahl, { frei: kapitelFrei(), alle: D.geschichte.length }))) : null,
+        A.beide.length ? el("button", { class: "kachel" + (ausspracheFertig() ? " erledigt" : ""), onclick: starteAussprache, "aria-label": A.titel },
           el("span", { class: "sym", "aria-hidden": "true" }, A.symbol),
           el("span", { class: "titel", lang: D.lang }, A.titel),
           el("span", { class: "unter", lang: D.lang }, A.unter),
           el("span", { class: "zahl" }, `${ausspracheTeile().filter((_, i) => S.teile[`${A.id}|0|${i}`]).length} / ${ausspracheTeile().length} ${U.parties}`),
-          ausspracheFertig() && el("span", { class: "haken", "aria-hidden": "true" }, "✓"))),
+          ausspracheFertig() && el("span", { class: "haken", "aria-hidden": "true" }, "✓")) : null,
+        !D.geschichte.length && !A.beide.length ? el("div", { class: "kachel bald" }, el("span", { class: "titel", lang: D.lang }, "…"), el("span", { class: "bald-schild" }, U.bald)) : null),
       el("p", { class: "klein" }, uf("stand", { n: karten.length, fest: karten.filter((k) => k.s >= 3).length, orte: orteFrei(), alle: SP.orte.length })));
     app.querySelector(".gruss").append(statusleiste());
   }
@@ -1052,7 +1053,7 @@
     const abz = [
       ["🔥", B[0], sr.feuer.length > 0], ["⭐", B[1], sr.wochen.length > 0], ["🏅", B[2], sr.wochen.length >= 5],
       ["👑", B[3], sr.abzeichen.includes("monat")], ["🏖️", B[4], sr.wochenende.length > 0],
-      ["🗺️", KI.badge, orteFrei() === SP.orte.length], ["📦", B[5], karten.length >= 100], ["🧠", B[6], karten.filter((k) => k.s >= 3).length >= 50],
+      ["🗺️", KI.badge, SP.orte.length > 0 && orteFrei() === SP.orte.length], ["📦", B[5], karten.length >= 100], ["🧠", B[6], karten.filter((k) => k.s >= 3).length >= 50],
     ];
     const offline = el("div", { class: "offline-box" });
     zeige(
@@ -1078,7 +1079,7 @@
         el("div", { class: "heldenraster" }, D.geschichte.map((k) => k.nr <= kapitelFrei()
           ? el("button", { class: "kapitel-karte", onclick: () => zeigeKapitel(k.nr) }, el("span", { class: "kapitel-nr" }, f(U.chapitre, { n: k.nr })), el("strong", { lang: D.lang }, k.titel))
           : el("div", { class: "held-zu", "aria-label": U.pas_debloque }, el("span", {}, "?"), el("small", {}, U.semaine_parfaite))))),
-      el("section", { class: "satzkarte" },
+      SP.orte.length && el("section", { class: "satzkarte" },
         el("h2", {}, `🗺️ ${KI.name} (${frei} / ${SP.orte.length} ${KI.lieux})`),
         el("p", { class: "klein" }, frde(KI.hinweis[0], KI.hinweis[1])),
         karte, fakt),

@@ -1,0 +1,84 @@
+id	art	text	gruppe
+lob_genial	lob	¡Genial!	genial
+lob_ole	lob	¡Olé!	ole
+lob_crack	lob	¡Qué crack!	crack
+lob_perfecto	lob	¡Perfecto!	perfecto
+lob_asi_se_hace	lob	¡Así se hace!	asi
+lob_fenomeno	lob	¡Eres un fenómeno!	fenomeno
+lob_vamos	lob	¡Vamos!	vamos
+lob_de_lujo	lob	¡De lujo!	lujo
+lob_chapo	lob	¡Chapó!	chapo
+lob_muy_bien	lob	¡Muy bien!	bien
+lob_exacto	lob	¡Exacto!	exacto
+lob_eso_es	lob	¡Eso es!	eso
+lob_estupendo	lob	¡Estupendo!	estupendo
+lob_fantastico	lob	¡Fantástico!	fantastico
+lob_bravo	lob	¡Bravo!	bravo
+lob_genial_tio	lob	¡Genial, tío!	genial
+lob_que_bien	lob	¡Qué bien!	bien
+lob_clavado	lob	¡Clavado!	clavado
+lob_a_la_primera	lob	¡A la primera!	primera
+lob_impecable	lob	¡Impecable!	impecable
+lob_redondo	lob	¡Redondo!	redondo
+lob_de_diez	lob	¡De diez!	diez
+lob_que_nivel	lob	¡Qué nivel!	nivel
+lob_bien_dicho	lob	¡Bien dicho!	bien
+lob_sin_fallos	lob	¡Sin fallos!	fallos
+lob_que_acento	lob	¡Qué acento!	acento
+lob_eso_es_espanol	lob	¡Eso sí es español!	espanol
+lob_como_un_sevillano	lob	¡Como un sevillano!	sevillano
+lob_tienes_oido	lob	¡Tienes oído!	oido
+lob_suena_bien	lob	¡Suena de maravilla!	suena
+lob_me_encanta	lob	¡Me encanta!	encanta
+lob_vas_mejorando	lob	¡Vas mejorando!	mejorando
+lob_otro_punto	lob	¡Otro punto!	punto
+lob_lo_bordas	lob	¡Lo bordas!	bordas
+lob_que_maquina	lob	¡Qué máquina!	maquina
+lob_toma_ya	lob	¡Toma ya!	toma
+lob_ahi_esta	lob	¡Ahí está!	ahi
+lob_sin_duda	lob	¡Sin duda!	duda
+lob_correcto	lob	¡Correcto!	correcto
+lob_justo	lob	¡Justo!	justo
+lob_de_libro	lob	¡De libro!	libro
+lob_profesor	lob	¡Muy bien, señor profesor!	profesor
+lob_que_bueno	lob	¡Qué bueno!	bueno
+lob_pues_si	lob	¡Pues sí!	si
+lob_brutal	lob	¡Brutal!	brutal
+lob_guay	lob	¡Qué guay!	guay
+lob_mola	lob	¡Cómo mola!	mola
+lob_enhorabuena	lob	¡Enhorabuena!	enhorabuena
+lob_bien_hecho	lob	¡Bien hecho!	bien
+lob_vaya	lob	¡Vaya!	vaya
+lob_sigue_asi	lob	¡Sigue así!	sigue
+lob_lo_tienes	lob	¡Lo tienes!	tienes
+lob_de_cine	lob	¡De cine!	cine
+lob_que_pasada	lob	¡Qué pasada!	pasada
+stark_campeon	stark	¡Bravo, campeón!	bravo
+stark_racha	stark	¡Increíble! ¡Estás en racha!	racha
+stark_orgulloso	stark	¡Estoy orgulloso de ti!	orgulloso
+stark_sigue	stark	¡Estupendo! ¡Sigue así!	sigue
+stark_maquina	stark	¡Qué máquina eres!	maquina
+stark_estrella	stark	¡Eres una estrella!	estrella
+stark_impresionante	stark	¡Impresionante!	impresionante
+stark_facil	stark	¡Lo haces parecer fácil!	facil
+stark_queria_oir	stark	¡Justo lo que quería oír!	oir
+stark_vuelas	stark	¡Hoy vuelas!	vuelas
+stark_diana	stark	¡En plena diana!	diana
+stark_actuacion	stark	¡Qué actuación!	actuacion
+stark_arrasas	stark	¡Arrasas!	arrasas
+stark_nivelazo	stark	¡Qué nivelazo!	nivel
+fehler_casi	fehler	¡Casi!	casi
+fehler_no_del_todo	fehler	No del todo.	todo
+fehler_otro_intento	fehler	¡Otro intento!	intento
+fehler_no_pasa_nada	fehler	¡No pasa nada!	pasa
+fehler_uy	fehler	¡Uy!	uy
+fehler_hmm	fehler	Hmm…	hmm
+fehler_cerca	fehler	¡Cerca!	cerca
+fehler_casi_casi	fehler	¡Casi, casi!	casi
+fehler_esta_vez_no	fehler	¡Esta vez no!	vez
+fehler_empezamos	fehler	No pasa nada, ¡empezamos de nuevo!	pasa
+geschafft_acabo	geschafft	¡Se acabó por hoy! ¡Chapó!	acabo
+geschafft_todo	geschafft	¡Bravo, lo has hecho todo! ¡Hasta mañana!	bravo
+geschafft_orgulloso	geschafft	Puedes estar orgulloso. ¡Hasta mañana!	orgulloso
+voll_sin_fallos	voll	¡Sin fallos! ¡Qué maravilla!	fallos
+doch_lo_ves	doch	¿Lo ves? ¡Puedes!	ves

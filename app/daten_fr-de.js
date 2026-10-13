@@ -248,6 +248,7 @@ window.SPRACHEN["fr-de"] = {
   "offline_stand": "{n} / {alle} fichiers audio hors-ligne",
   "offline_laden": "📥 Télécharger pour hors-ligne",
   "offline_fertig": "✓ Disponible hors-ligne",
+  "bald": "en préparation",
   "offline_laeuft": "Téléchargement… {n} / {alle}"
  },
  "themen": [

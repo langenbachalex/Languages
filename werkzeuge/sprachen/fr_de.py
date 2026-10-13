@@ -161,5 +161,6 @@ UI = {
     "badge_liste": ["En feu", "Semaine parfaite", "5 × parfaite", "Mois parfait", "Héros du week-end", "100 expressions", "50 bien ancrées"],
     "offline": "📥 Hors-ligne", "offline_text": ["Télécharge les audios de cette langue pour travailler sans connexion.", "Lade die Audios dieser Sprache, um ohne Verbindung zu üben."],
     "offline_stand": "{n} / {alle} fichiers audio hors-ligne", "offline_laden": "📥 Télécharger pour hors-ligne", "offline_fertig": "✓ Disponible hors-ligne",
+    "bald": "en préparation",
     "offline_laeuft": "Téléchargement… {n} / {alle}",
 }
