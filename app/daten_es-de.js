@@ -3564,21 +3564,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "comer",
    "notiz": "intentar + Infinitiv = versuchen zu; contar = zählen (no cuenta = zählt nicht). el cruasán = spanische Schreibung von croissant.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_01.mp3",
    "satz": {
     "fr": "Intento comer equilibrado. El cruasán de la mañana no cuenta.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "comer equilibrado",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Esta semana comí equilibrado. Salvo el viernes.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_01_pc.mp3"
     },
     "fp": {
      "fr": "Voy a comer equilibrado. A partir del lunes.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_01_fp.mp3"
     }
    }
   },
@@ -3590,21 +3590,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "acostarse",
    "notiz": "wörtlich „sich hinlegen“ (de costado = auf die Seite); o → ue: me acuesto. Gegenteil: levantarse.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_02.mp3",
    "satz": {
     "fr": "Los domingos me acuesto temprano. El resto de la semana lo intento.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "me acuesto temprano",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ayer me acosté temprano. Bueno, antes de medianoche.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_02_pc.mp3"
     },
     "fp": {
      "fr": "Esta noche me voy a acostar temprano. De verdad.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_02_fp.mp3"
     }
    }
   },
@@ -3616,12 +3616,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "cuidar",
    "notiz": "cuidar = pflegen, sich kümmern um (cuidar a los niños); ¡cuídate! = pass auf dich auf (Abschiedsformel).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_03.mp3",
    "satz": {
     "fr": "Cuidarse es también decir que no. Incluso a un pastel.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Kuchen.",
     "luecke": "Cuidarse",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_03.mp3"
    },
    "zeit": null
   },
@@ -3633,21 +3633,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "hacer",
    "notiz": "hacer la compra = Lebensmittel einkaufen; ir de compras = shoppen gehen (Kleidung). los sábados = samstags (Plural = jeden).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_04.mp3",
    "satz": {
     "fr": "Hago la compra los sábados, con una lista. Vuelvo con otras cosas.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "Hago la compra",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hice la compra esta mañana.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_04_pc.mp3"
     },
     "fp": {
      "fr": "Voy a hacer la compra mañana.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_04_fp.mp3"
     }
    }
   },
@@ -3659,21 +3659,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "cocinar",
    "notiz": "cocinar = kochen (Essen zubereiten); cocer = kochen (Wasser, Nudeln); la cocina = Küche und Kochkunst.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_05.mp3",
    "satz": {
     "fr": "Por la noche cocino escuchando música. El gato supervisa.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cocino",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Cociné un gratinado para Diego.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_05_pc.mp3"
     },
     "fp": {
      "fr": "Voy a cocinar algo sencillo.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_05_fp.mp3"
     }
    }
   },
@@ -3685,12 +3685,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "preparar",
    "notiz": "el plato = Teller und Gericht; el primer plato / el segundo = Vorspeise / Hauptgericht im menú del día.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_06.mp3",
    "satz": {
     "fr": "¿Mi plato favorito? El que ha preparado otra persona.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "plato",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_06.mp3"
    },
    "zeit": null
   },
@@ -3702,21 +3702,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "wörtlich „das Würmchen haben“ (gusano = Wurm) – der kleine Hunger, der im Bauch kribbelt. Auch: tener un poco de hambre.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_07.mp3",
    "satz": {
     "fr": "A las cuatro tengo el gusanillo. A las cuatro y cinco también.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "tengo el gusanillo",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "A las cuatro tuve el gusanillo.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_07_pc.mp3"
     },
     "fp": {
      "fr": "A las cuatro voy a tener el gusanillo. Como siempre.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_07_fp.mp3"
     }
    }
   },
@@ -3728,21 +3728,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ponerse",
    "notiz": "wörtlich „sich die Stiefel anziehen“ – früher ein Zeichen von Wohlstand; heute: reichlich essen, sich bedienen.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_08.mp3",
    "satz": {
     "fr": "En casa de Diego nos ponemos las botas. Su madre le manda recetas.",
     "de": "Bei Diego schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
     "luecke": "nos ponemos las botas",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "En casa de Diego nos pusimos las botas.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_08_pc.mp3"
     },
     "fp": {
      "fr": "En casa de Diego nos vamos a poner las botas.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_08_fp.mp3"
     }
    }
   },
@@ -3754,12 +3754,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "aprovechar",
    "notiz": "wörtlich „möge es nützen“ (aprovechar = nutzen; Konjunktiv nach que). Auch: buen provecho. igualmente = gleichfalls.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_09.mp3",
    "satz": {
     "fr": "« ¡Que aproveche! » – « Gracias, igualmente. » – « Yo no como. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, gleichfalls.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Que aproveche",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_09.mp3"
    },
    "zeit": null
   },
@@ -3771,12 +3771,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "haber",
    "notiz": "pan = Brot → panadería; el instituto = die weiterführende Schule (nicht „Institut“); al lado de = neben.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_10.mp3",
    "satz": {
     "fr": "Hay una panadería al lado del instituto. Es un problema. Un buen problema.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein gutes Problem.",
     "luecke": "panadería",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_10.mp3"
    },
    "zeit": null
   },
@@ -3788,21 +3788,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "beber",
    "notiz": "el agua ist weiblich, aber mit el (betontes a-): el agua fría, las aguas. entre medias = dazwischen (umgangssprachlich).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_11.mp3",
    "satz": {
     "fr": "Bebo agua todo el día. Y un café. O dos. El agua va entre medias.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "Bebo agua",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Bebí agua todo el día.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_11_pc.mp3"
     },
     "fp": {
      "fr": "Voy a beber agua. Más.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_11_fp.mp3"
     }
    }
   },
@@ -3814,21 +3814,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "picar",
    "notiz": "picar = stechen, hacken, und naschen; picar algo = eine Kleinigkeit essen; una onza = Rippchen Schokolade.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_12.mp3",
    "satz": {
     "fr": "Pico mientras corrijo. Por cada fallo, una onza de chocolate.",
     "de": "Ich nasche beim Korrigieren. Für jeden Fehler ein Stück Schokolade.",
     "luecke": "Pico",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Piqué toda la tarde.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_12_pc.mp3"
     },
     "fp": {
      "fr": "No voy a picar esta noche. Ya veremos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_12_fp.mp3"
     }
    }
   },
@@ -3840,12 +3840,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estar",
    "notiz": "wörtlich „nach Geschmack sein“; estar a gusto con alguien = sich bei jemandem wohlfühlen. Französisch: bien dans sa peau.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_13.mp3",
    "satz": {
     "fr": "Después del deporte estoy a gusto. Antes también, pero menos.",
     "de": "Nach dem Sport fühle ich mich wohl. Davor auch, aber weniger.",
     "luecke": "a gusto",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_13.mp3"
    },
    "zeit": null
   },
@@ -3857,21 +3857,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "hacer",
    "notiz": "auch: hacer un descanso; durar = dauern (nicht „dürfen“).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_14.mp3",
    "satz": {
     "fr": "Hago una pausa cada hora. A veces la pausa dura una hora.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "Hago una pausa",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Hice una pausa de diez minutos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_14_pc.mp3"
     },
     "fp": {
      "fr": "Voy a hacer una pausa. Ahora.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_14_fp.mp3"
     }
    }
   },
@@ -3883,21 +3883,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "dormir",
    "notiz": "wörtlich „wie ein Baumstamm“; o → ue: duermo, u im indefinido: durmió. roncar = schnarchen.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_15.mp3",
    "satz": {
     "fr": "Después del kung-fu duermo como un tronco. Un tronco que ronca.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Stein. Ein Stein, der schnarcht.",
     "luecke": "duermo como un tronco",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dormí como un tronco.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_15_pc.mp3"
     },
     "fp": {
      "fr": "Voy a dormir como un tronco.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_15_fp.mp3"
     }
    }
   },
@@ -3909,12 +3909,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estar",
    "notiz": "wörtlich „wie eine Rose sein“ = blendend aussehen, sich prächtig fühlen. Französisch: avoir la pêche.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_16.mp3",
    "satz": {
     "fr": "Esta mañana estoy como una rosa. Sospechoso. Son las seis.",
     "de": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
     "luecke": "como una rosa",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_16.mp3"
    },
    "zeit": null
   },
@@ -3926,21 +3926,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tomar",
    "notiz": "tomar = nehmen, auch trinken (tomar un café); el móvil = das Handy (Spanien; Lateinamerika: el celular).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_17.mp3",
    "satz": {
     "fr": "A mediodía tomo el aire diez minutos. Sin móvil. Bueno, casi.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "tomo el aire",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "A mediodía tomé el aire.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_17_pc.mp3"
     },
     "fp": {
      "fr": "A mediodía voy a tomar el aire.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_17_fp.mp3"
     }
    }
   },
@@ -3952,12 +3952,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "la receta = Kochrezept und Arztrezept; la tortilla = in Spanien das Kartoffel-Omelett, in Mexiko der Maisfladen.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_18.mp3",
    "satz": {
     "fr": "Tengo una receta de tortilla. Viene de Diego, que la tiene de su madre.",
     "de": "Ich habe ein Rezept für Tortilla. Es kommt von Diego, der es von seiner Mutter hat.",
     "luecke": "receta",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_18.mp3"
    },
    "zeit": null
   },
@@ -3969,21 +3969,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "probar",
    "notiz": "probar = kosten, ausprobieren, anprobieren; o → ue: pruebo. un poquito = ein kleines bisschen (-ito verkleinert).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_19.mp3",
    "satz": {
     "fr": "Prueba esto. No, de verdad, prueba. Luego puedes decir que no te gusta.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Prueba",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Probé. No me gusta.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_19_pc.mp3"
     },
     "fp": {
      "fr": "Voy a probar. Un poquito.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_19_fp.mp3"
     }
    }
   },
@@ -3995,12 +3995,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estar",
    "notiz": "rico = reich und lecker; -ísimo = sehr: riquísimo (c → qu). Essen immer mit estar: está rico.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_20.mp3",
    "satz": {
     "fr": "¡Está riquísimo! ¿Qué es? – Mejor no saberlo.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "riquísimo",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_20.mp3"
    },
    "zeit": null
   },
@@ -4012,21 +4012,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "tener sed/hambre/sueño/frío – alle mit tener (haben), nie mit ser/estar. educación física = Schulsport.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_21.mp3",
    "satz": {
     "fr": "Después de educación física, los alumnos tienen sed. Yo tengo sed de silencio.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "tienen sed",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Después del deporte, los alumnos tuvieron sed.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_21_pc.mp3"
     },
     "fp": {
      "fr": "Después del deporte, los alumnos van a tener sed.",
-     "audio": null
+     "audio": "audio/es-de/saetze/co_21_fp.mp3"
     }
    }
   },
@@ -4038,12 +4038,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "levantarse",
    "notiz": "derecho = rechts und richtig (wie engl. right); con el pie izquierdo = mit dem falschen Fuß. hoy + pretérito perfecto.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_22.mp3",
    "satz": {
     "fr": "Hoy me he levantado con el pie derecho. El izquierdo. Como siempre.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "me he levantado con el pie derecho",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_22.mp3"
    },
    "zeit": null
   },
@@ -4055,12 +4055,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "capricho = Laune, Gelüst; darse un capricho = sich etwas gönnen; caprichoso = launisch.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_23.mp3",
    "satz": {
     "fr": "Un capricho al día. Hoy: una tarta. Mañana: otra tarta.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Torte. Morgen: eine andere Torte.",
     "luecke": "capricho",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_23.mp3"
    },
    "zeit": null
   },
@@ -4072,12 +4072,12 @@ window.SPRACHEN["es-de"] = {
    "register": "vous",
    "anker": "querer",
    "notiz": "quisiera = Konjunktiv Imperfekt von querer, die höfliche Bestellform („ich hätte gern“); una barra = Brotstange; muy hecha = gut durchgebacken.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/co_24.mp3",
    "satz": {
     "fr": "Buenos días, quisiera una barra de pan, por favor. No muy hecha.",
     "de": "Guten Tag, ich hätte gern ein Baguette, bitte. Nicht zu dunkel.",
     "luecke": "quisiera",
-    "audio": null
+    "audio": "audio/es-de/saetze/co_24.mp3"
    },
    "zeit": null
   }
@@ -5026,6 +5026,56 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/lob/stark_sigue.mp3",
   "audio/es-de/lob/stark_vuelas.mp3",
   "audio/es-de/lob/voll_sin_fallos.mp3",
+  "audio/es-de/saetze/co_01.mp3",
+  "audio/es-de/saetze/co_01_fp.mp3",
+  "audio/es-de/saetze/co_01_pc.mp3",
+  "audio/es-de/saetze/co_02.mp3",
+  "audio/es-de/saetze/co_02_fp.mp3",
+  "audio/es-de/saetze/co_02_pc.mp3",
+  "audio/es-de/saetze/co_03.mp3",
+  "audio/es-de/saetze/co_04.mp3",
+  "audio/es-de/saetze/co_04_fp.mp3",
+  "audio/es-de/saetze/co_04_pc.mp3",
+  "audio/es-de/saetze/co_05.mp3",
+  "audio/es-de/saetze/co_05_fp.mp3",
+  "audio/es-de/saetze/co_05_pc.mp3",
+  "audio/es-de/saetze/co_06.mp3",
+  "audio/es-de/saetze/co_07.mp3",
+  "audio/es-de/saetze/co_07_fp.mp3",
+  "audio/es-de/saetze/co_07_pc.mp3",
+  "audio/es-de/saetze/co_08.mp3",
+  "audio/es-de/saetze/co_08_fp.mp3",
+  "audio/es-de/saetze/co_08_pc.mp3",
+  "audio/es-de/saetze/co_09.mp3",
+  "audio/es-de/saetze/co_10.mp3",
+  "audio/es-de/saetze/co_11.mp3",
+  "audio/es-de/saetze/co_11_fp.mp3",
+  "audio/es-de/saetze/co_11_pc.mp3",
+  "audio/es-de/saetze/co_12.mp3",
+  "audio/es-de/saetze/co_12_fp.mp3",
+  "audio/es-de/saetze/co_12_pc.mp3",
+  "audio/es-de/saetze/co_13.mp3",
+  "audio/es-de/saetze/co_14.mp3",
+  "audio/es-de/saetze/co_14_fp.mp3",
+  "audio/es-de/saetze/co_14_pc.mp3",
+  "audio/es-de/saetze/co_15.mp3",
+  "audio/es-de/saetze/co_15_fp.mp3",
+  "audio/es-de/saetze/co_15_pc.mp3",
+  "audio/es-de/saetze/co_16.mp3",
+  "audio/es-de/saetze/co_17.mp3",
+  "audio/es-de/saetze/co_17_fp.mp3",
+  "audio/es-de/saetze/co_17_pc.mp3",
+  "audio/es-de/saetze/co_18.mp3",
+  "audio/es-de/saetze/co_19.mp3",
+  "audio/es-de/saetze/co_19_fp.mp3",
+  "audio/es-de/saetze/co_19_pc.mp3",
+  "audio/es-de/saetze/co_20.mp3",
+  "audio/es-de/saetze/co_21.mp3",
+  "audio/es-de/saetze/co_21_fp.mp3",
+  "audio/es-de/saetze/co_21_pc.mp3",
+  "audio/es-de/saetze/co_22.mp3",
+  "audio/es-de/saetze/co_23.mp3",
+  "audio/es-de/saetze/co_24.mp3",
   "audio/es-de/saetze/de_01.mp3",
   "audio/es-de/saetze/de_01_fp.mp3",
   "audio/es-de/saetze/de_01_pc.mp3",
@@ -5320,6 +5370,30 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/spiel/titel_5.mp3",
   "audio/es-de/spiel/titel_6.mp3",
   "audio/es-de/spiel/woche.mp3",
+  "audio/es-de/wendungen/co_01.mp3",
+  "audio/es-de/wendungen/co_02.mp3",
+  "audio/es-de/wendungen/co_03.mp3",
+  "audio/es-de/wendungen/co_04.mp3",
+  "audio/es-de/wendungen/co_05.mp3",
+  "audio/es-de/wendungen/co_06.mp3",
+  "audio/es-de/wendungen/co_07.mp3",
+  "audio/es-de/wendungen/co_08.mp3",
+  "audio/es-de/wendungen/co_09.mp3",
+  "audio/es-de/wendungen/co_10.mp3",
+  "audio/es-de/wendungen/co_11.mp3",
+  "audio/es-de/wendungen/co_12.mp3",
+  "audio/es-de/wendungen/co_13.mp3",
+  "audio/es-de/wendungen/co_14.mp3",
+  "audio/es-de/wendungen/co_15.mp3",
+  "audio/es-de/wendungen/co_16.mp3",
+  "audio/es-de/wendungen/co_17.mp3",
+  "audio/es-de/wendungen/co_18.mp3",
+  "audio/es-de/wendungen/co_19.mp3",
+  "audio/es-de/wendungen/co_20.mp3",
+  "audio/es-de/wendungen/co_21.mp3",
+  "audio/es-de/wendungen/co_22.mp3",
+  "audio/es-de/wendungen/co_23.mp3",
+  "audio/es-de/wendungen/co_24.mp3",
   "audio/es-de/wendungen/de_01.mp3",
   "audio/es-de/wendungen/de_02.mp3",
   "audio/es-de/wendungen/de_03.mp3",
