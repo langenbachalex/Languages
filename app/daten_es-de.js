@@ -2513,12 +2513,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "wörtlich „es war sich einmal“ (era + se, altes Reflexiv). Feste Märchenformel, auch „había una vez“.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_01.mp3",
    "satz": {
     "fr": "Érase una vez un profesor que nunca corregía exámenes. Es un cuento.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "Érase una vez",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_01.mp3"
    },
    "zeit": null
   },
@@ -2530,21 +2530,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "contar",
    "notiz": "contar heißt „zählen“ und „erzählen“ – wie im Deutschen zählen/erzählen. o → ue: cuento, cuentas.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_02.mp3",
    "satz": {
     "fr": "Por la noche le cuento una historia a mi gato. Se duerme antes del final.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "cuento una historia",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Anoche le conté una historia a mi gato.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_02_pc.mp3"
     },
     "fp": {
      "fr": "Esta noche le voy a contar una historia a mi gato.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_02_fp.mp3"
     }
    }
   },
@@ -2556,12 +2556,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "empezar",
    "notiz": "von buscar (suchen). Tipp: aunque sea = „und sei es nur“.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_03.mp3",
    "satz": {
     "fr": "Toda buena novela empieza con una búsqueda. Aunque sea buscar las llaves.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur um die Schlüssel geht.",
     "luecke": "búsqueda",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_03.mp3"
    },
    "zeit": null
   },
@@ -2573,12 +2573,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "haber",
    "notiz": "wörtlich „im Tiefsten des Waldes“: lo + Adjektiv macht ein Nomen (lo bueno, lo difícil).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_04.mp3",
    "satz": {
     "fr": "En lo más profundo del bosque había una casa. Y en la casa, una luz.",
     "de": "Tief im Wald stand ein Haus. Und im Haus brannte ein Licht.",
     "luecke": "En lo más profundo del bosque",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_04.mp3"
    },
    "zeit": null
   },
@@ -2590,12 +2590,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "escupir",
    "notiz": null,
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_05.mp3",
    "satz": {
     "fr": "El dragón no escupía fuego. Escupía deberes.",
     "de": "Der Drache spuckte kein Feuer. Er spuckte Hausaufgaben.",
     "luecke": "dragón",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_05.mp3"
    },
    "zeit": null
   },
@@ -2607,12 +2607,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "coger",
    "notiz": "coger (nehmen) ist in Spanien völlig normal – in Lateinamerika vulgär. Dort: tomar, agarrar.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_06.mp3",
    "satz": {
     "fr": "El héroe cogió su espada. Pesaba como un lunes.",
     "de": "Der Held nahm sein Schwert. Es war schwer wie ein Montag.",
     "luecke": "espada",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_06.mp3"
    },
    "zeit": null
   },
@@ -2624,21 +2624,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "convertir",
    "notiz": "von hechizar (verzaubern); auch estar hechizado = „verzaubert sein“, z. B. von einer Person.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_07.mp3",
    "satz": {
     "fr": "Un hechizo convirtió la clase en silencio. Duró solo tres minutos.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es hielt nur drei Minuten.",
     "luecke": "hechizo",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Un hechizo convirtió la clase.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_07_pc.mp3"
     },
     "fp": {
      "fr": "Un hechizo va a convertir la clase.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_07_fp.mp3"
     }
    }
   },
@@ -2650,12 +2650,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "abrir",
    "notiz": "wörtlich „aus dem Plötzlichen“; genauso: de golpe (mit einem Schlag), de pronto.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_08.mp3",
    "satz": {
     "fr": "De repente, la puerta se abrió. Nadie. Solo el viento. Bueno, eso espero.",
     "de": "Plötzlich ging die Tür auf. Niemand. Nur der Wind. Hoffe ich zumindest.",
     "luecke": "De repente",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_08.mp3"
    },
    "zeit": null
   },
@@ -2667,12 +2667,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "hasta heißt hier „sogar“, nicht „bis“ – häufige Falle.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_09.mp3",
    "satz": {
     "fr": "Todos tienen un secreto en esta historia. Hasta el gato.",
     "de": "Jeder in dieser Geschichte hat ein Geheimnis. Sogar die Katze.",
     "luecke": "tienen un secreto",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_09.mp3"
    },
    "zeit": null
   },
@@ -2684,12 +2684,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "hablar",
    "notiz": "von rey (König); la gente ist Einzahl: la gente escucha (nicht escuchan).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_10.mp3",
    "satz": {
     "fr": "En aquel reino, los libros hablaban y la gente escuchaba.",
     "de": "In jenem Königreich sprachen die Bücher, und die Menschen hörten zu.",
     "luecke": "reino",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_10.mp3"
    },
    "zeit": null
   },
@@ -2701,12 +2701,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "ser mala = böse sein (Wesen), estar cansada = müde sein (Zustand) – der klassische ser/estar-Unterschied in einem Satz.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_11.mp3",
    "satz": {
     "fr": "La bruja no era mala. Estaba cansada. La entiendo.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "bruja",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_11.mp3"
    },
    "zeit": null
   },
@@ -2718,21 +2718,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "convertirse",
    "notiz": "immer mit en; e → ie: me convierto. Nicht verwechseln mit volverse (werden, Charakter: se volvió loco).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_12.mp3",
    "satz": {
     "fr": "A medianoche, el profe se convierte en lector. Hasta las dos de la mañana.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "se convierte en",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "A medianoche, el profe se convirtió en lector.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_12_pc.mp3"
     },
     "fp": {
      "fr": "A medianoche, el profe se va a convertir en lector.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_12_fp.mp3"
     }
    }
   },
@@ -2744,12 +2744,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "pronto = bald/schnell; de pronto = auf einmal. Synonym zu de repente.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_13.mp3",
    "satz": {
     "fr": "De pronto, silencio. Luego una voz: « Profe, ¿cuándo es el recreo? ».",
     "de": "Auf einmal Stille. Dann eine Stimme: „Lehrer, wann ist Pause?“",
     "luecke": "De pronto",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_13.mp3"
    },
    "zeit": null
   },
@@ -2761,12 +2761,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "tener miedo = wörtlich „Angst haben“, wie im Deutschen; aber: tener hambre/sed/sueño (Hunger/Durst/Schlaf haben) auch mit tener.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_14.mp3",
    "satz": {
     "fr": "El héroe de mi novela favorita tiene miedo de todo. Por eso es valiente.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "héroe",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_14.mp3"
    },
    "zeit": null
   },
@@ -2778,12 +2778,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "el malo = „der Böse“: Adjektiv mit Artikel wird zum Nomen (el bueno, el pequeño).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_15.mp3",
    "satz": {
     "fr": "El malo de la historia es el despertador. Las seis. Cada día.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "malo",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_15.mp3"
    },
    "zeit": null
   },
@@ -2795,21 +2795,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "encontrar",
    "notiz": "el mapa ist männlich trotz -a (wie el día, el problema, el tema).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_16.mp3",
    "satz": {
     "fr": "Encontré un mapa del tesoro en un cuaderno. Era un plano del comedor.",
     "de": "Ich habe eine Schatzkarte in einem Heft gefunden. Es war ein Plan der Mensa.",
     "luecke": "mapa del tesoro",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Encontré un mapa del tesoro.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_16_pc.mp3"
     },
     "fp": {
      "fr": "Voy a encontrar un mapa del tesoro, algún día.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_16_fp.mp3"
     }
    }
   },
@@ -2821,12 +2821,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "decir",
    "notiz": "wörtlich „sie sagen, dass“ – die 3. Person Plural ersetzt das deutsche „man“ (auch: se dice que).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_17.mp3",
    "satz": {
     "fr": "Dicen que la sala 13 existe. Dicen también que el gato duerme allí.",
     "de": "Es heißt, Saal 13 gibt es. Es heißt auch, die Katze schläft dort.",
     "luecke": "Dicen que",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_17.mp3"
    },
    "zeit": null
   },
@@ -2838,21 +2838,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "desaparecer",
    "notiz": "Gegenteil von aparecer (erscheinen); c → zc vor o/a: desaparezco.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_18.mp3",
    "satz": {
     "fr": "En esta novela, la gente desaparece. En mi clase, los bolígrafos.",
     "de": "In diesem Roman verschwinden Menschen. In meiner Klasse sind es die Stifte.",
     "luecke": "desaparece",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "En esta novela, tres personas desaparecieron.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_18_pc.mp3"
     },
     "fp": {
      "fr": "En esta novela, todo el mundo va a desaparecer.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_18_fp.mp3"
     }
    }
   },
@@ -2864,12 +2864,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "leer",
    "notiz": "ahora mismo = „jetzt gleich, sofort“; mismo verstärkt (aquí mismo, hoy mismo).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_19.mp3",
    "satz": {
     "fr": "Quiero leer la continuación ahora mismo. Pero es medianoche. Leo la continuación.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "continuación",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_19.mp3"
    },
    "zeit": null
   },
@@ -2881,21 +2881,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "tener",
    "notiz": "en vilo = „in der Schwebe“ (vilo = Schwebe); desde hace + Zeitraum = „seit“ (Dauer).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_20.mp3",
    "satz": {
     "fr": "Este libro me tiene en vilo desde hace tres noches.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "me tiene en vilo",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Este libro me tuvo en vilo toda la noche.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_20_pc.mp3"
     },
     "fp": {
      "fr": "Este libro me va a tener en vilo, lo sé.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_20_fp.mp3"
     }
    }
   },
@@ -2907,21 +2907,21 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "estremecerse",
    "notiz": "c → zc: me estremezco; seguir = weitermachen (sigo = ich mache weiter).",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_21.mp3",
    "satz": {
     "fr": "Me estremezco en cada capítulo. Y sigo. Eso es la fantasía.",
     "de": "Ich schaudere bei jedem Kapitel. Und lese weiter. Das ist Fantasy.",
     "luecke": "Me estremezco",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me estremecí al final del capítulo.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_21_pc.mp3"
     },
     "fp": {
      "fr": "Te vas a estremecer, te lo prometo.",
-     "audio": null
+     "audio": "audio/es-de/saetze/hi_21_fp.mp3"
     }
    }
   },
@@ -2933,12 +2933,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "ser",
    "notiz": "wörtlich „Drehung“ (girar = drehen); un giro inesperado = eine unerwartete Wendung.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_22.mp3",
    "satz": {
     "fr": "Un giro en la página 200: el gato era el rey desde el principio.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "giro",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_22.mp3"
    },
    "zeit": null
   },
@@ -2950,12 +2950,12 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "contar",
    "notiz": "el final (Ende einer Geschichte) ist männlich; la final = das Finale im Sport.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_23.mp3",
    "satz": {
     "fr": "¿El final de esta historia? No lo cuento. Lee el libro.",
     "de": "Das Ende dieser Geschichte? Ich verrate es nicht. Lies das Buch.",
     "luecke": "final",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_23.mp3"
    },
    "zeit": null
   },
@@ -2967,12 +2967,12 @@ window.SPRACHEN["es-de"] = {
    "register": "vous",
    "anker": "poder",
    "notiz": "podría = Konditional von poder, die höfliche Form („könnten Sie“); das Pronomen me steht vor dem Verb.",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/hi_24.mp3",
    "satz": {
     "fr": "Buenos días, ¿me podría recomendar un libro? Un poco oscuro, un poco mágico.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "me podría recomendar",
-    "audio": null
+    "audio": "audio/es-de/saetze/hi_24.mp3"
    },
    "zeit": null
   }
@@ -3975,6 +3975,44 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/saetze/ga_23_fp.mp3",
   "audio/es-de/saetze/ga_23_pc.mp3",
   "audio/es-de/saetze/ga_24.mp3",
+  "audio/es-de/saetze/hi_01.mp3",
+  "audio/es-de/saetze/hi_02.mp3",
+  "audio/es-de/saetze/hi_02_fp.mp3",
+  "audio/es-de/saetze/hi_02_pc.mp3",
+  "audio/es-de/saetze/hi_03.mp3",
+  "audio/es-de/saetze/hi_04.mp3",
+  "audio/es-de/saetze/hi_05.mp3",
+  "audio/es-de/saetze/hi_06.mp3",
+  "audio/es-de/saetze/hi_07.mp3",
+  "audio/es-de/saetze/hi_07_fp.mp3",
+  "audio/es-de/saetze/hi_07_pc.mp3",
+  "audio/es-de/saetze/hi_08.mp3",
+  "audio/es-de/saetze/hi_09.mp3",
+  "audio/es-de/saetze/hi_10.mp3",
+  "audio/es-de/saetze/hi_11.mp3",
+  "audio/es-de/saetze/hi_12.mp3",
+  "audio/es-de/saetze/hi_12_fp.mp3",
+  "audio/es-de/saetze/hi_12_pc.mp3",
+  "audio/es-de/saetze/hi_13.mp3",
+  "audio/es-de/saetze/hi_14.mp3",
+  "audio/es-de/saetze/hi_15.mp3",
+  "audio/es-de/saetze/hi_16.mp3",
+  "audio/es-de/saetze/hi_16_fp.mp3",
+  "audio/es-de/saetze/hi_16_pc.mp3",
+  "audio/es-de/saetze/hi_17.mp3",
+  "audio/es-de/saetze/hi_18.mp3",
+  "audio/es-de/saetze/hi_18_fp.mp3",
+  "audio/es-de/saetze/hi_18_pc.mp3",
+  "audio/es-de/saetze/hi_19.mp3",
+  "audio/es-de/saetze/hi_20.mp3",
+  "audio/es-de/saetze/hi_20_fp.mp3",
+  "audio/es-de/saetze/hi_20_pc.mp3",
+  "audio/es-de/saetze/hi_21.mp3",
+  "audio/es-de/saetze/hi_21_fp.mp3",
+  "audio/es-de/saetze/hi_21_pc.mp3",
+  "audio/es-de/saetze/hi_22.mp3",
+  "audio/es-de/saetze/hi_23.mp3",
+  "audio/es-de/saetze/hi_24.mp3",
   "audio/es-de/saetze/mu_01.mp3",
   "audio/es-de/saetze/mu_01_fp.mp3",
   "audio/es-de/saetze/mu_01_pc.mp3",
@@ -4153,6 +4191,30 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/wendungen/ga_22.mp3",
   "audio/es-de/wendungen/ga_23.mp3",
   "audio/es-de/wendungen/ga_24.mp3",
+  "audio/es-de/wendungen/hi_01.mp3",
+  "audio/es-de/wendungen/hi_02.mp3",
+  "audio/es-de/wendungen/hi_03.mp3",
+  "audio/es-de/wendungen/hi_04.mp3",
+  "audio/es-de/wendungen/hi_05.mp3",
+  "audio/es-de/wendungen/hi_06.mp3",
+  "audio/es-de/wendungen/hi_07.mp3",
+  "audio/es-de/wendungen/hi_08.mp3",
+  "audio/es-de/wendungen/hi_09.mp3",
+  "audio/es-de/wendungen/hi_10.mp3",
+  "audio/es-de/wendungen/hi_11.mp3",
+  "audio/es-de/wendungen/hi_12.mp3",
+  "audio/es-de/wendungen/hi_13.mp3",
+  "audio/es-de/wendungen/hi_14.mp3",
+  "audio/es-de/wendungen/hi_15.mp3",
+  "audio/es-de/wendungen/hi_16.mp3",
+  "audio/es-de/wendungen/hi_17.mp3",
+  "audio/es-de/wendungen/hi_18.mp3",
+  "audio/es-de/wendungen/hi_19.mp3",
+  "audio/es-de/wendungen/hi_20.mp3",
+  "audio/es-de/wendungen/hi_21.mp3",
+  "audio/es-de/wendungen/hi_22.mp3",
+  "audio/es-de/wendungen/hi_23.mp3",
+  "audio/es-de/wendungen/hi_24.mp3",
   "audio/es-de/wendungen/mu_01.mp3",
   "audio/es-de/wendungen/mu_02.mp3",
   "audio/es-de/wendungen/mu_03.mp3",
