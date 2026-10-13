@@ -5886,7 +5886,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 445.0,
     "fakt": "Saarbrücken liegt an der Saar, zehn Minuten von Frankreich. Hier sagt man « Guten Tag » und « Bonjour » im selben Satz. Und die Saarbahn fährt bis Saargemünd.",
     "fakt_de": "Sarrebruck est sur la Sarre, à dix minutes de la France. Ici, on dit « Guten Tag » et « Bonjour » dans la même phrase. Et le tram va jusqu'à Sarreguemines.",
-    "audio": null
+    "audio": "audio/de-fr/orte/saarbruecken.mp3"
    },
    {
     "id": "voelklingen",
@@ -5898,7 +5898,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 444.4,
     "fakt": "Die Völklinger Hütte war ein Eisenwerk. Seit 1994 ist sie Weltkulturerbe: die erste Fabrik auf der UNESCO-Liste. Heute gibt es dort Konzerte.",
     "fakt_de": "L'usine sidérurgique de Völklingen était une aciérie. Depuis 1994, elle est patrimoine mondial : la première usine sur la liste de l'UNESCO. Aujourd'hui, on y donne des concerts.",
-    "audio": null
+    "audio": "audio/de-fr/orte/voelklingen.mp3"
    },
    {
     "id": "saarschleife",
@@ -5910,7 +5910,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 425.3,
     "fakt": "Die Saar macht bei Mettlach eine Kehre von 180 Grad. Vom Baumwipfelpfad sieht man die ganze Schleife. Und manchmal bis nach Frankreich.",
     "fakt_de": "La Sarre fait un virage à 180 degrés près de Mettlach. Depuis le sentier dans les cimes, on voit toute la boucle. Et parfois jusqu'en France.",
-    "audio": null
+    "audio": "audio/de-fr/orte/saarschleife.mp3"
    },
    {
     "id": "trier",
@@ -5922,7 +5922,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 405.6,
     "fakt": "Trier ist die älteste Stadt Deutschlands: gegründet 16 vor Christus. Die Porta Nigra steht seit 1800 Jahren. Karl Marx wurde hier geboren.",
     "fakt_de": "Trèves est la plus vieille ville d'Allemagne : fondée en 16 avant J.-C. La Porta Nigra tient debout depuis 1800 ans. Karl Marx est né ici.",
-    "audio": null
+    "audio": "audio/de-fr/orte/trier.mp3"
    },
    {
     "id": "mainz",
@@ -5934,7 +5934,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 387.9,
     "fakt": "In Mainz erfand Gutenberg um 1450 den Buchdruck. Die Stadt ist auch die Hauptstadt des Karnevals am Rhein: « Helau! »",
     "fakt_de": "À Mayence, Gutenberg a inventé l'imprimerie vers 1450. La ville est aussi la capitale du carnaval rhénan : « Helau ! »",
-    "audio": null
+    "audio": "audio/de-fr/orte/mainz.mp3"
    },
    {
     "id": "heidelberg",
@@ -5946,7 +5946,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 433.0,
     "fakt": "Heidelberg hat die älteste Universität Deutschlands, von 1386. Das Schloss ist eine Ruine, und genau deshalb lieben es alle.",
     "fakt_de": "Heidelberg a la plus vieille université d'Allemagne, de 1386. Le château est une ruine, et c'est justement pour ça que tout le monde l'adore.",
-    "audio": null
+    "audio": "audio/de-fr/orte/heidelberg.mp3"
    },
    {
     "id": "stuttgart",
@@ -5958,7 +5958,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 480.3,
     "fakt": "Stuttgart hat Mercedes, Porsche und Weinberge mitten in der Stadt. Die Schwaben sagen: « Schaffe, schaffe, Häusle baue. »",
     "fakt_de": "Stuttgart a Mercedes, Porsche et des vignes en pleine ville. Les Souabes disent : « Travailler, travailler, construire une petite maison. »",
-    "audio": null
+    "audio": "audio/de-fr/orte/stuttgart.mp3"
    },
    {
     "id": "schwarzwald",
@@ -5970,7 +5970,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 539.2,
     "fakt": "Im Schwarzwald wurden die Kuckucksuhr und die Kirschtorte erfunden. Und der Bollenhut: rote Bollen für Ledige, schwarze für Verheiratete.",
     "fakt_de": "Dans la Forêt-Noire, on a inventé le coucou et le gâteau à la cerise. Et le Bollenhut : pompons rouges pour les célibataires, noirs pour les mariées.",
-    "audio": null
+    "audio": "audio/de-fr/orte/schwarzwald.mp3"
    },
    {
     "id": "freiburg",
@@ -5982,7 +5982,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 539.3,
     "fakt": "Freiburg ist die sonnigste Stadt Deutschlands. Durch die Altstadt fließen die Bächle: Wer hineintritt, muss eine Freiburgerin heiraten. Sagt man.",
     "fakt_de": "Fribourg est la ville la plus ensoleillée d'Allemagne. Dans la vieille ville coulent les Bächle : qui y met le pied doit épouser une Fribourgeoise. Dit-on.",
-    "audio": null
+    "audio": "audio/de-fr/orte/freiburg.mp3"
    },
    {
     "id": "bodensee",
@@ -5994,7 +5994,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 565.8,
     "fakt": "Der Bodensee gehört drei Ländern: Deutschland, Österreich, Schweiz. Niemand weiß genau, wo die Grenze im Wasser verläuft. Es stört auch niemanden.",
     "fakt_de": "Le lac de Constance appartient à trois pays : l'Allemagne, l'Autriche, la Suisse. Personne ne sait exactement où passe la frontière dans l'eau. Ça ne dérange personne non plus.",
-    "audio": null
+    "audio": "audio/de-fr/orte/bodensee.mp3"
    },
    {
     "id": "neuschwanstein",
@@ -6006,7 +6006,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 572.8,
     "fakt": "Schloss Neuschwanstein ließ König Ludwig II. bauen, 1869. Er wohnte nur 172 Tage darin. Disney hat es für sein Logo kopiert.",
     "fakt_de": "Le château de Neuschwanstein a été construit pour le roi Louis II, en 1869. Il n'y a habité que 172 jours. Disney l'a copié pour son logo.",
-    "audio": null
+    "audio": "audio/de-fr/orte/neuschwanstein.mp3"
    },
    {
     "id": "muenchen",
@@ -6018,7 +6018,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 529.0,
     "fakt": "München hat das Oktoberfest, das im September beginnt. Sechs Millionen Besucher, sieben Millionen Maß Bier. Die Brezeln sind so groß wie ein Teller.",
     "fakt_de": "Munich a l'Oktoberfest, qui commence en septembre. Six millions de visiteurs, sept millions de chopes d'un litre. Les bretzels sont grands comme une assiette.",
-    "audio": null
+    "audio": "audio/de-fr/orte/muenchen.mp3"
    },
    {
     "id": "zugspitze",
@@ -6030,7 +6030,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 583.2,
     "fakt": "Die Zugspitze ist mit 2962 Metern der höchste Berg Deutschlands. Oben gibt es ein Biergarten und eine Grenze: Ein Schritt, und man ist in Österreich.",
     "fakt_de": "La Zugspitze est, avec 2962 mètres, le plus haut sommet d'Allemagne. En haut, il y a une terrasse à bière et une frontière : un pas, et on est en Autriche.",
-    "audio": null
+    "audio": "audio/de-fr/orte/zugspitze.mp3"
    },
    {
     "id": "nuernberg",
@@ -6042,7 +6042,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 429.0,
     "fakt": "Nürnberg hat den berühmtesten Weihnachtsmarkt, den Christkindlesmarkt. Und die Lebkuchen. Und die kleinen Bratwürste: drei im Weck.",
     "fakt_de": "Nuremberg a le plus célèbre marché de Noël, le Christkindlesmarkt. Et les pains d'épices. Et les petites saucisses grillées : trois dans un petit pain.",
-    "audio": null
+    "audio": "audio/de-fr/orte/nuernberg.mp3"
    },
    {
     "id": "regensburg",
@@ -6054,7 +6054,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 462.3,
     "fakt": "Die Steinerne Brücke in Regensburg ist 900 Jahre alt. Daneben steht die Historische Wurstkuchl: Bratwürste seit 1146. Das älteste Fast-Food der Welt.",
     "fakt_de": "Le pont de pierre de Ratisbonne a 900 ans. À côté se trouve la Historische Wurstkuchl : des saucisses grillées depuis 1146. Le plus vieux fast-food du monde.",
-    "audio": null
+    "audio": "audio/de-fr/orte/regensburg.mp3"
    },
    {
     "id": "rothenburg",
@@ -6066,7 +6066,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 434.7,
     "fakt": "Rothenburg sieht aus wie im Mittelalter, weil die Stadt nach 1650 kein Geld mehr hatte, um etwas zu verändern. Heute ist das ihr Glück.",
     "fakt_de": "Rothenburg a l'air médiévale parce qu'après 1650, la ville n'avait plus d'argent pour changer quoi que ce soit. Aujourd'hui, c'est sa chance.",
-    "audio": null
+    "audio": "audio/de-fr/orte/rothenburg.mp3"
    },
    {
     "id": "wuerzburg",
@@ -6078,7 +6078,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 403.2,
     "fakt": "Die Residenz in Würzburg hat das größte Deckenfresko der Welt, von Tiepolo. Und der Frankenwein kommt im Bocksbeutel: eine flache, runde Flasche.",
     "fakt_de": "La Résidence de Wurtzbourg a la plus grande fresque de plafond du monde, de Tiepolo. Et le vin de Franconie vient dans un Bocksbeutel : une bouteille plate et ronde.",
-    "audio": null
+    "audio": "audio/de-fr/orte/wuerzburg.mp3"
    },
    {
     "id": "frankfurt",
@@ -6090,7 +6090,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 378.9,
     "fakt": "Frankfurt hat die Wolkenkratzer und die Europäische Zentralbank. Man nennt es « Mainhattan ». Goethe wurde hier geboren. Er ist trotzdem weggezogen.",
     "fakt_de": "Francfort a les gratte-ciel et la Banque centrale européenne. On l'appelle « Mainhattan ». Goethe est né ici. Il est quand même parti.",
-    "audio": null
+    "audio": "audio/de-fr/orte/frankfurt.mp3"
    },
    {
     "id": "marburg",
@@ -6102,7 +6102,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 325.8,
     "fakt": "In Marburg studierten die Brüder Grimm und sammelten Märchen. Die Altstadt ist so steil, dass die Häuser Aufzüge für Fußgänger haben.",
     "fakt_de": "À Marbourg, les frères Grimm ont étudié et collecté des contes. La vieille ville est si pentue que les maisons ont des ascenseurs pour piétons.",
-    "audio": null
+    "audio": "audio/de-fr/orte/marburg.mp3"
    },
    {
     "id": "koeln",
@@ -6114,7 +6114,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 316.1,
     "fakt": "Der Kölner Dom wurde 632 Jahre lang gebaut. Fertig seit 1880. Die Kölner sagen: « Et hätt noch immer jot jejange. » Es ist immer gut gegangen.",
     "fakt_de": "La cathédrale de Cologne a été construite pendant 632 ans. Terminée en 1880. Les Colonais disent : « Ça s'est toujours bien passé. »",
-    "audio": null
+    "audio": "audio/de-fr/orte/koeln.mp3"
    },
    {
     "id": "duesseldorf",
@@ -6126,7 +6126,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 294.1,
     "fakt": "Düsseldorf und Köln streiten seit Jahrhunderten. Über Bier: Altbier gegen Kölsch. Über Karneval. Über alles. Heine wurde hier geboren und liebte Paris.",
     "fakt_de": "Düsseldorf et Cologne se disputent depuis des siècles. Sur la bière : Altbier contre Kölsch. Sur le carnaval. Sur tout. Heine est né ici et adorait Paris.",
-    "audio": null
+    "audio": "audio/de-fr/orte/duesseldorf.mp3"
    },
    {
     "id": "aachen",
@@ -6138,7 +6138,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 328.5,
     "fakt": "In Aachen regierte Karl der Große. Sein Dom ist 1200 Jahre alt, das erste deutsche Weltkulturerbe. Die Printen schmecken wie Weihnachten.",
     "fakt_de": "À Aix-la-Chapelle régnait Charlemagne. Sa cathédrale a 1200 ans, le premier patrimoine mondial allemand. Les Printen ont le goût de Noël.",
-    "audio": null
+    "audio": "audio/de-fr/orte/aachen.mp3"
    },
    {
     "id": "ruhrgebiet",
@@ -6150,7 +6150,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 274.5,
     "fakt": "Die Zeche Zollverein in Essen war die schönste Kohlezeche der Welt. Heute ist sie ein Museum mit Schwimmbad. Das Ruhrgebiet hat fünf Millionen Einwohner.",
     "fakt_de": "La mine Zollverein à Essen était la plus belle mine de charbon du monde. Aujourd'hui, c'est un musée avec piscine. La Ruhr compte cinq millions d'habitants.",
-    "audio": null
+    "audio": "audio/de-fr/orte/ruhrgebiet.mp3"
    },
    {
     "id": "muenster",
@@ -6162,7 +6162,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 238.4,
     "fakt": "In Münster wurde 1648 der Westfälische Frieden geschlossen. Heute gibt es mehr Fahrräder als Einwohner. Und ein Parkhaus nur für Räder.",
     "fakt_de": "À Münster, la paix de Westphalie a été signée en 1648. Aujourd'hui, il y a plus de vélos que d'habitants. Et un parking rien que pour les vélos.",
-    "audio": null
+    "audio": "audio/de-fr/orte/muenster.mp3"
    },
    {
     "id": "bremen",
@@ -6174,7 +6174,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 153.5,
     "fakt": "Die Bremer Stadtmusikanten sind nie in Bremen angekommen. Trotzdem steht ihre Statue vor dem Rathaus. Wer die Beine des Esels anfasst, hat Glück.",
     "fakt_de": "Les musiciens de Brême ne sont jamais arrivés à Brême. Leur statue se dresse quand même devant l'hôtel de ville. Qui touche les pattes de l'âne a de la chance.",
-    "audio": null
+    "audio": "audio/de-fr/orte/bremen.mp3"
    },
    {
     "id": "hamburg",
@@ -6186,7 +6186,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 117.6,
     "fakt": "Hamburg hat mehr Brücken als Venedig, Amsterdam und London zusammen: über 2500. Der Hafen ist das Tor zur Welt. Und die Elbphilharmonie hat 10 Jahre gedauert.",
     "fakt_de": "Hambourg a plus de ponts que Venise, Amsterdam et Londres réunis : plus de 2500. Le port est la porte du monde. Et l'Elbphilharmonie a pris dix ans.",
-    "audio": null
+    "audio": "audio/de-fr/orte/hamburg.mp3"
    },
    {
     "id": "luebeck",
@@ -6198,7 +6198,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 93.8,
     "fakt": "Lübeck war die Königin der Hanse. Das Holstentor steht schief, aber fest. Thomas Mann wurde hier geboren, und das Marzipan auch.",
     "fakt_de": "Lübeck était la reine de la Hanse. La Holstentor penche, mais tient. Thomas Mann est né ici, et le massepain aussi.",
-    "audio": null
+    "audio": "audio/de-fr/orte/luebeck.mp3"
    },
    {
     "id": "sylt",
@@ -6210,7 +6210,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 15.2,
     "fakt": "Sylt ist die nördlichste Insel Deutschlands. Vierzig Kilometer Strand, Strandkörbe und ein Zug über das Meer. Die Insel wandert jedes Jahr ein Stück.",
     "fakt_de": "Sylt est l'île la plus au nord de l'Allemagne. Quarante kilomètres de plage, des corbeilles de plage et un train sur la mer. L'île se déplace un peu chaque année.",
-    "audio": null
+    "audio": "audio/de-fr/orte/sylt.mp3"
    },
    {
     "id": "kiel",
@@ -6222,7 +6222,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 59.0,
     "fakt": "In Kiel findet jeden Juni die Kieler Woche statt: das größte Segelfest der Welt. Drei Millionen Besucher, fünftausend Segler.",
     "fakt_de": "À Kiel a lieu chaque juin la Kieler Woche : la plus grande fête de la voile au monde. Trois millions de visiteurs, cinq mille marins.",
-    "audio": null
+    "audio": "audio/de-fr/orte/kiel.mp3"
    },
    {
     "id": "hannover",
@@ -6234,7 +6234,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 206.9,
     "fakt": "In Hannover spricht man angeblich das reinste Hochdeutsch. Die Herrenhäuser Gärten sind 300 Jahre alt. Und die Könige von England kamen von hier.",
     "fakt_de": "À Hanovre, on parle paraît-il le haut allemand le plus pur. Les jardins de Herrenhausen ont 300 ans. Et les rois d'Angleterre venaient d'ici.",
-    "audio": null
+    "audio": "audio/de-fr/orte/hannover.mp3"
    },
    {
     "id": "goettingen",
@@ -6246,7 +6246,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 270.3,
     "fakt": "In Göttingen gab es über 40 Nobelpreisträger. Wer promoviert, küsst das Gänseliesel am Brunnen: das meistgeküsste Mädchen der Welt.",
     "fakt_de": "À Göttingen, il y a eu plus de 40 prix Nobel. Qui passe son doctorat embrasse la Gänseliesel sur la fontaine : la fille la plus embrassée du monde.",
-    "audio": null
+    "audio": "audio/de-fr/orte/goettingen.mp3"
    },
    {
     "id": "berlin",
@@ -6258,7 +6258,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 195.9,
     "fakt": "Berlin hat mehr Brücken als Venedig und mehr Museen als Regentage. Die Mauer stand 28 Jahre. Heute kann man an der East Side Gallery entlangfahren.",
     "fakt_de": "Berlin a plus de ponts que Venise et plus de musées que de jours de pluie. Le Mur a tenu 28 ans. Aujourd'hui, on peut longer la East Side Gallery.",
-    "audio": null
+    "audio": "audio/de-fr/orte/berlin.mp3"
    },
    {
     "id": "brandenburger_tor",
@@ -6270,7 +6270,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 196.2,
     "fakt": "Das Brandenburger Tor stand 28 Jahre im Niemandsland zwischen Ost und West. Napoleon nahm die Quadriga nach Paris mit. Sie kam zurück.",
     "fakt_de": "La porte de Brandebourg est restée 28 ans dans le no man's land entre Est et Ouest. Napoléon a emporté le quadrige à Paris. Il est revenu.",
-    "audio": null
+    "audio": "audio/de-fr/orte/brandenburger_tor.mp3"
    },
    {
     "id": "potsdam",
@@ -6282,7 +6282,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 205.0,
     "fakt": "Schloss Sanssouci bedeutet « ohne Sorge ». Friedrich der Große sprach lieber Französisch als Deutsch. Auf seinem Grab liegen Kartoffeln.",
     "fakt_de": "Le château de Sanssouci signifie « sans souci ». Frédéric le Grand préférait parler français plutôt qu'allemand. Sur sa tombe, on dépose des pommes de terre.",
-    "audio": null
+    "audio": "audio/de-fr/orte/potsdam.mp3"
    },
    {
     "id": "spreewald",
@@ -6294,7 +6294,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 245.3,
     "fakt": "Im Spreewald fährt die Post mit dem Kahn. Es gibt 1500 Kilometer Wasserwege, und die Gurken sind berühmt. Hier leben die Sorben, mit eigener Sprache.",
     "fakt_de": "Dans le Spreewald, le courrier circule en barque. Il y a 1500 kilomètres de voies d'eau, et les cornichons sont célèbres. Ici vivent les Sorabes, avec leur propre langue.",
-    "audio": null
+    "audio": "audio/de-fr/orte/spreewald.mp3"
    },
    {
     "id": "dresden",
@@ -6306,7 +6306,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 307.6,
     "fakt": "Dresden heißt « Elbflorenz ». Die Frauenkirche lag 50 Jahre in Trümmern und wurde 2005 wieder aufgebaut, Stein für Stein. Mit alten und neuen Steinen.",
     "fakt_de": "Dresde s'appelle « la Florence de l'Elbe ». La Frauenkirche est restée 50 ans en ruines et a été reconstruite en 2005, pierre par pierre. Avec des pierres anciennes et nouvelles.",
-    "audio": null
+    "audio": "audio/de-fr/orte/dresden.mp3"
    },
    {
     "id": "leipzig",
@@ -6318,7 +6318,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 285.6,
     "fakt": "In Leipzig arbeitete Bach 27 Jahre lang. 1989 begann hier die friedliche Revolution: « Wir sind das Volk. » Montags, in der Nikolaikirche.",
     "fakt_de": "À Leipzig, Bach a travaillé 27 ans. En 1989, la révolution pacifique a commencé ici : « Nous sommes le peuple. » Le lundi, à l'église Saint-Nicolas.",
-    "audio": null
+    "audio": "audio/de-fr/orte/leipzig.mp3"
    },
    {
     "id": "saechsische_schweiz",
@@ -6330,7 +6330,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 317.5,
     "fakt": "Die Bastei ist eine Felsenbrücke 200 Meter über der Elbe. Caspar David Friedrich malte hier. Die Schweiz ist weit weg, der Name blieb trotzdem.",
     "fakt_de": "La Bastei est un pont de rochers à 200 mètres au-dessus de l'Elbe. Caspar David Friedrich a peint ici. La Suisse est loin, le nom est resté quand même.",
-    "audio": null
+    "audio": "audio/de-fr/orte/saechsische_schweiz.mp3"
    },
    {
     "id": "weimar",
@@ -6342,7 +6342,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 312.9,
     "fakt": "In Weimar lebten Goethe und Schiller, Tür an Tür. Später kam das Bauhaus. Die Stadt hat 65.000 Einwohner und mehr Kultur als manche Hauptstadt.",
     "fakt_de": "À Weimar vivaient Goethe et Schiller, porte à porte. Plus tard est venu le Bauhaus. La ville a 65 000 habitants et plus de culture que certaines capitales.",
-    "audio": null
+    "audio": "audio/de-fr/orte/weimar.mp3"
    },
    {
     "id": "wartburg",
@@ -6354,7 +6354,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 314.0,
     "fakt": "Auf der Wartburg übersetzte Luther 1521 die Bibel ins Deutsche, in elf Wochen. Er warf angeblich ein Tintenfass nach dem Teufel. Der Fleck ist weg.",
     "fakt_de": "À la Wartburg, Luther a traduit la Bible en allemand en 1521, en onze semaines. Il aurait jeté un encrier sur le diable. La tache a disparu.",
-    "audio": null
+    "audio": "audio/de-fr/orte/wartburg.mp3"
    },
    {
     "id": "erfurt",
@@ -6366,7 +6366,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 312.5,
     "fakt": "Die Krämerbrücke in Erfurt ist die längste bebaute Brücke Europas: 32 Häuser auf einer Brücke. Man merkt gar nicht, dass man über Wasser geht.",
     "fakt_de": "Le Krämerbrücke à Erfurt est le plus long pont habité d'Europe : 32 maisons sur un pont. On ne remarque même pas qu'on marche au-dessus de l'eau.",
-    "audio": null
+    "audio": "audio/de-fr/orte/erfurt.mp3"
    },
    {
     "id": "harz",
@@ -6378,7 +6378,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 250.6,
     "fakt": "Der Brocken ist der Hexenberg: In der Walpurgisnacht tanzen hier die Hexen, sagt Goethe im Faust. Eine Dampflok fährt bis zum Gipfel.",
     "fakt_de": "Le Brocken est la montagne des sorcières : la nuit de Walpurgis, les sorcières y dansent, dit Goethe dans Faust. Une locomotive à vapeur monte jusqu'au sommet.",
-    "audio": null
+    "audio": "audio/de-fr/orte/harz.mp3"
    },
    {
     "id": "quedlinburg",
@@ -6390,7 +6390,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 251.4,
     "fakt": "Quedlinburg hat 2000 Fachwerkhäuser aus acht Jahrhunderten. Mehr als jede andere Stadt. Hier begann vor 1000 Jahren das deutsche Königreich.",
     "fakt_de": "Quedlinburg a 2000 maisons à colombages de huit siècles. Plus que toute autre ville. Ici a commencé, il y a 1000 ans, le royaume allemand.",
-    "audio": null
+    "audio": "audio/de-fr/orte/quedlinburg.mp3"
    },
    {
     "id": "rostock",
@@ -6402,7 +6402,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 76.5,
     "fakt": "Rostock hat die älteste Universität Nordeuropas, von 1419. In Warnemünde ist der Strand so breit, dass man das Meer kaum sieht. Im Sommer.",
     "fakt_de": "Rostock a la plus vieille université d'Europe du Nord, de 1419. À Warnemünde, la plage est si large qu'on voit à peine la mer. En été.",
-    "audio": null
+    "audio": "audio/de-fr/orte/rostock.mp3"
    },
    {
     "id": "ruegen",
@@ -6414,7 +6414,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 45.6,
     "fakt": "Rügen ist die größte Insel Deutschlands. Die Kreidefelsen sind 118 Meter hoch und leuchten weiß. Caspar David Friedrich hat sie berühmt gemacht.",
     "fakt_de": "Rügen est la plus grande île d'Allemagne. Les falaises de craie font 118 mètres et brillent de blanc. Caspar David Friedrich les a rendues célèbres.",
-    "audio": null
+    "audio": "audio/de-fr/orte/ruegen.mp3"
    },
    {
     "id": "schwerin",
@@ -6426,7 +6426,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 111.2,
     "fakt": "Das Schloss von Schwerin steht auf einer Insel im See und hat 653 Zimmer. Heute tagt darin der Landtag. Ein Schlossgespenst gibt es auch: Petermännchen.",
     "fakt_de": "Le château de Schwerin est sur une île dans le lac et compte 653 pièces. Aujourd'hui, le parlement régional y siège. Il y a aussi un fantôme : Petermännchen.",
-    "audio": null
+    "audio": "audio/de-fr/orte/schwerin.mp3"
    },
    {
     "id": "koblenz",
@@ -6438,7 +6438,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 360.2,
     "fakt": "In Koblenz fließen Rhein und Mosel zusammen: das Deutsche Eck. Flussaufwärts stehen 40 Burgen auf 65 Kilometern. Und die Loreley singt.",
     "fakt_de": "À Coblence, le Rhin et la Moselle se rejoignent : le Deutsches Eck. En amont, 40 châteaux sur 65 kilomètres. Et la Loreley chante.",
-    "audio": null
+    "audio": "audio/de-fr/orte/koblenz.mp3"
    },
    {
     "id": "loreley",
@@ -6450,7 +6450,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 376.8,
     "fakt": "Die Loreley ist ein Felsen am Rhein, 132 Meter hoch. Eine Jungfrau soll dort gesungen und die Schiffer ins Verderben gelockt haben. Heine schrieb das Lied.",
     "fakt_de": "La Loreley est un rocher sur le Rhin, haut de 132 mètres. Une jeune fille y aurait chanté et attiré les bateliers vers leur perte. Heine a écrit le poème.",
-    "audio": null
+    "audio": "audio/de-fr/orte/loreley.mp3"
    },
    {
     "id": "speyer",
@@ -6462,7 +6462,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 439.2,
     "fakt": "Der Dom zu Speyer ist die größte romanische Kirche der Welt. Acht Kaiser liegen darin. Und das Technik-Museum hat eine Boeing 747 auf dem Dach.",
     "fakt_de": "La cathédrale de Spire est la plus grande église romane du monde. Huit empereurs y reposent. Et le musée technique a un Boeing 747 sur le toit.",
-    "audio": null
+    "audio": "audio/de-fr/orte/speyer.mp3"
    },
    {
     "id": "bamberg",
@@ -6474,7 +6474,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 395.0,
     "fakt": "Bamberg steht auf sieben Hügeln wie Rom und hat ein Rathaus mitten im Fluss. Das Rauchbier schmeckt wie Schinken. Beim zweiten Glas gewöhnt man sich daran.",
     "fakt_de": "Bamberg est bâtie sur sept collines comme Rome et a un hôtel de ville au milieu de la rivière. La bière fumée a le goût de jambon. Au deuxième verre, on s'y habitue.",
-    "audio": null
+    "audio": "audio/de-fr/orte/bamberg.mp3"
    }
   ],
   "karte": {
@@ -8885,6 +8885,56 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/lob/stark_stolz.mp3",
   "audio/de-fr/lob/stark_weiter.mp3",
   "audio/de-fr/lob/voll_fehlerfrei.mp3",
+  "audio/de-fr/orte/aachen.mp3",
+  "audio/de-fr/orte/bamberg.mp3",
+  "audio/de-fr/orte/berlin.mp3",
+  "audio/de-fr/orte/bodensee.mp3",
+  "audio/de-fr/orte/brandenburger_tor.mp3",
+  "audio/de-fr/orte/bremen.mp3",
+  "audio/de-fr/orte/dresden.mp3",
+  "audio/de-fr/orte/duesseldorf.mp3",
+  "audio/de-fr/orte/erfurt.mp3",
+  "audio/de-fr/orte/frankfurt.mp3",
+  "audio/de-fr/orte/freiburg.mp3",
+  "audio/de-fr/orte/goettingen.mp3",
+  "audio/de-fr/orte/hamburg.mp3",
+  "audio/de-fr/orte/hannover.mp3",
+  "audio/de-fr/orte/harz.mp3",
+  "audio/de-fr/orte/heidelberg.mp3",
+  "audio/de-fr/orte/kiel.mp3",
+  "audio/de-fr/orte/koblenz.mp3",
+  "audio/de-fr/orte/koeln.mp3",
+  "audio/de-fr/orte/leipzig.mp3",
+  "audio/de-fr/orte/loreley.mp3",
+  "audio/de-fr/orte/luebeck.mp3",
+  "audio/de-fr/orte/mainz.mp3",
+  "audio/de-fr/orte/marburg.mp3",
+  "audio/de-fr/orte/muenchen.mp3",
+  "audio/de-fr/orte/muenster.mp3",
+  "audio/de-fr/orte/neuschwanstein.mp3",
+  "audio/de-fr/orte/nuernberg.mp3",
+  "audio/de-fr/orte/potsdam.mp3",
+  "audio/de-fr/orte/quedlinburg.mp3",
+  "audio/de-fr/orte/regensburg.mp3",
+  "audio/de-fr/orte/rostock.mp3",
+  "audio/de-fr/orte/rothenburg.mp3",
+  "audio/de-fr/orte/ruegen.mp3",
+  "audio/de-fr/orte/ruhrgebiet.mp3",
+  "audio/de-fr/orte/saarbruecken.mp3",
+  "audio/de-fr/orte/saarschleife.mp3",
+  "audio/de-fr/orte/saechsische_schweiz.mp3",
+  "audio/de-fr/orte/schwarzwald.mp3",
+  "audio/de-fr/orte/schwerin.mp3",
+  "audio/de-fr/orte/speyer.mp3",
+  "audio/de-fr/orte/spreewald.mp3",
+  "audio/de-fr/orte/stuttgart.mp3",
+  "audio/de-fr/orte/sylt.mp3",
+  "audio/de-fr/orte/trier.mp3",
+  "audio/de-fr/orte/voelklingen.mp3",
+  "audio/de-fr/orte/wartburg.mp3",
+  "audio/de-fr/orte/weimar.mp3",
+  "audio/de-fr/orte/wuerzburg.mp3",
+  "audio/de-fr/orte/zugspitze.mp3",
   "audio/de-fr/saetze/es_01.mp3",
   "audio/de-fr/saetze/es_01_fp.mp3",
   "audio/de-fr/saetze/es_01_pc.mp3",
