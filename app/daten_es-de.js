@@ -5688,13 +5688,296 @@ window.SPRACHEN["es-de"] = {
    }
   ]
  },
- "geschichte": [],
+ "geschichte": [
+  {
+   "nr": 1,
+   "titel": "La entrada",
+   "absaetze": [
+    {
+     "id": "k01_01",
+     "fr": "Marta Ruiz era profesora en Sevilla. Una profesora normal. Bueno, casi.",
+     "de": "Marta Ruiz war Lehrerin in Sevilla. Eine normale Lehrerin. Na ja, fast.",
+     "audio": "audio/es-de/geschichte/k01_01.mp3"
+    },
+    {
+     "id": "k01_02",
+     "fr": "Aquel viernes por la tarde **corregía exámenes**, como todos los viernes. **Estaba hecha polvo**. Fuera hacía calor. Dentro, su gato **echaba la siesta** sobre los exámenes ya corregidos.",
+     "de": "An jenem Freitagnachmittag korrigierte sie Arbeiten, wie jeden Freitag. Sie war fix und fertig. Draußen war es heiß. Drinnen hielt ihre Katze Siesta auf den schon korrigierten Arbeiten.",
+     "audio": "audio/es-de/geschichte/k01_02.mp3"
+    },
+    {
+     "id": "k01_03",
+     "fr": "El examen número diecisiete era el de Lucía, una alumna de tercero que escribía poco, pero bien.",
+     "de": "Die siebzehnte Arbeit war die von Lucía, einer Neuntklässlerin, die wenig schrieb, aber gut.",
+     "audio": "audio/es-de/geschichte/k01_03.mp3"
+    },
+    {
+     "id": "k01_04",
+     "fr": "Entre la página dos y la página tres había algo. Una entrada. Una entrada para el Real Alcázar.",
+     "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Eintrittskarte. Eine Karte für den Real Alcázar.",
+     "audio": "audio/es-de/geschichte/k01_04.mp3"
+    },
+    {
+     "id": "k01_05",
+     "fr": "Marta miró la fecha. Mañana. Sábado. Diez de la mañana.",
+     "de": "Marta sah auf das Datum. Morgen. Samstag. Zehn Uhr morgens.",
+     "audio": "audio/es-de/geschichte/k01_05.mp3"
+    },
+    {
+     "id": "k01_06",
+     "fr": "Detrás de la entrada, alguien había escrito con letras azules: « Patio de las Doncellas. Venga sola. Y no tenga miedo. »",
+     "de": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: „Patio de las Doncellas. Kommen Sie allein. Und haben Sie keine Angst.“",
+     "audio": "audio/es-de/geschichte/k01_06.mp3"
+    },
+    {
+     "id": "k01_07",
+     "fr": "Marta **no tenía miedo**. Todavía no. **Le costaba** entenderlo, nada más.",
+     "de": "Marta hatte keine Angst. Noch nicht. Es fiel ihr nur schwer, das zu verstehen, mehr nicht.",
+     "audio": "audio/es-de/geschichte/k01_07.mp3"
+    },
+    {
+     "id": "k01_08",
+     "fr": "Lucía no era una alumna misteriosa. Era una alumna que dibujaba gatos en los márgenes.",
+     "de": "Lucía war keine geheimnisvolle Schülerin. Sie war eine Schülerin, die Katzen an den Rand malte.",
+     "audio": "audio/es-de/geschichte/k01_08.mp3"
+    },
+    {
+     "id": "k01_09",
+     "fr": "Marta miró a su gato. El gato la miró a ella. **Tenía una mirada** que decía: « Ve. »",
+     "de": "Marta sah ihre Katze an. Die Katze sah sie an. Sie hatte einen Blick, der sagte: „Geh.“",
+     "audio": "audio/es-de/geschichte/k01_09.mp3"
+    },
+    {
+     "id": "k01_10",
+     "fr": "« Es una broma », dijo Marta en voz alta. El gato no dijo nada. Los gatos nunca dicen nada. Es su fuerza.",
+     "de": "„Das ist ein Scherz“, sagte Marta laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
+     "audio": "audio/es-de/geschichte/k01_10.mp3"
+    },
+    {
+     "id": "k01_11",
+     "fr": "Aquella noche, Marta **no durmió del tirón**. Soñó con un patio lleno de fuentes y con una puerta que no estaba en ningún plano.",
+     "de": "In jener Nacht schlief Marta nicht durch. Sie träumte von einem Hof voller Brunnen und einer Tür, die auf keinem Plan war.",
+     "audio": "audio/es-de/geschichte/k01_11.mp3"
+    },
+    {
+     "id": "k01_12",
+     "fr": "A las siete se levantó. **Con el pie derecho**. El izquierdo. Como siempre.",
+     "de": "Um sieben stand sie auf. Mit dem richtigen Fuß. Dem linken. Wie immer.",
+     "audio": "audio/es-de/geschichte/k01_12.mp3"
+    },
+    {
+     "id": "k01_13",
+     "fr": "**Hizo la compra** de todos los sábados. Luego miró el reloj. Nueve y cuarto. El Alcázar estaba a veinte minutos andando.",
+     "de": "Sie machte den Samstagseinkauf wie immer. Dann sah sie auf die Uhr. Viertel nach neun. Der Alcázar war zwanzig Minuten zu Fuß entfernt.",
+     "audio": "audio/es-de/geschichte/k01_13.mp3"
+    },
+    {
+     "id": "k01_14",
+     "fr": "« Solo voy a mirar », le dijo al gato. El gato cerró los ojos. Sabía que no era verdad.",
+     "de": "„Ich schau nur“, sagte sie zur Katze. Die Katze schloss die Augen. Sie wusste, dass das nicht stimmte.",
+     "audio": "audio/es-de/geschichte/k01_14.mp3"
+    }
+   ]
+  },
+  {
+   "nr": 2,
+   "titel": "El patio",
+   "absaetze": [
+    {
+     "id": "k02_01",
+     "fr": "A las diez menos cinco, Marta estaba delante de la Puerta del León. Era la primera vez que entraba en el Alcázar sin treinta alumnos detrás.",
+     "de": "Um fünf vor zehn stand Marta vor der Puerta del León. Es war das erste Mal, dass sie den Alcázar ohne dreißig Schüler im Schlepptau betrat.",
+     "audio": "audio/es-de/geschichte/k02_01.mp3"
+    },
+    {
+     "id": "k02_02",
+     "fr": "La entrada era de verdad. El hombre de la taquilla la miró, miró la entrada, y dijo: « Patio de las Doncellas. Todo recto. » Sin que ella preguntara.",
+     "de": "Die Karte war echt. Der Mann an der Kasse sah sie an, sah die Karte an und sagte: „Patio de las Doncellas. Immer geradeaus.“ Ohne dass sie gefragt hätte.",
+     "audio": "audio/es-de/geschichte/k02_02.mp3"
+    },
+    {
+     "id": "k02_03",
+     "fr": "**Era inquietante**. Un poco. Marta decidió que era amable.",
+     "de": "Das war unheimlich. Ein bisschen. Marta beschloss, dass es freundlich war.",
+     "audio": "audio/es-de/geschichte/k02_03.mp3"
+    },
+    {
+     "id": "k02_04",
+     "fr": "El patio **estaba tranquilo**. Demasiado. Ni turistas, ni guías, ni niños. Solo el agua de la alberca y el sol en los azulejos.",
+     "de": "Der Hof war ruhig. Zu ruhig. Keine Touristen, keine Führer, keine Kinder. Nur das Wasser des Beckens und die Sonne auf den Kacheln.",
+     "audio": "audio/es-de/geschichte/k02_04.mp3"
+    },
+    {
+     "id": "k02_05",
+     "fr": "Y un gato. Un **gato callejero**, gris, sentado junto a la alberca como si fuera suya.",
+     "de": "Und eine Katze. Eine graue Straßenkatze, die neben dem Becken saß, als gehörte es ihr.",
+     "audio": "audio/es-de/geschichte/k02_05.mp3"
+    },
+    {
+     "id": "k02_06",
+     "fr": "El gato la miró. Marta conocía esa mirada. Era la mirada de su propio gato. Exactamente la misma.",
+     "de": "Die Katze sah sie an. Marta kannte diesen Blick. Es war der Blick ihrer eigenen Katze. Genau derselbe.",
+     "audio": "audio/es-de/geschichte/k02_06.mp3"
+    },
+    {
+     "id": "k02_07",
+     "fr": "« Esto es imposible », pensó. « Mi gato está en casa, durmiendo sobre un examen de tercero. »",
+     "de": "„Das ist unmöglich“, dachte sie. „Meine Katze liegt zu Hause und schläft auf einer Arbeit der Neunten.“",
+     "audio": "audio/es-de/geschichte/k02_07.mp3"
+    },
+    {
+     "id": "k02_08",
+     "fr": "El gato gris se levantó, **se frotó contra** una columna y **se fue** andando despacio hacia el fondo del patio. Luego se volvió. Esperaba.",
+     "de": "Die graue Katze stand auf, rieb sich an einer Säule und ging langsam zum hinteren Ende des Hofs. Dann drehte sie sich um. Sie wartete.",
+     "audio": "audio/es-de/geschichte/k02_08.mp3"
+    },
+    {
+     "id": "k02_09",
+     "fr": "Marta **tenía un nudo en la garganta**. Pero también tenía curiosidad. La curiosidad, en una profesora, siempre gana.",
+     "de": "Marta hatte einen Kloß im Hals. Aber sie war auch neugierig. Die Neugier gewinnt bei einer Lehrerin immer.",
+     "audio": "audio/es-de/geschichte/k02_09.mp3"
+    },
+    {
+     "id": "k02_10",
+     "fr": "Siguió al gato. Pasaron por el Salón de Embajadores, con su cúpula de oro. Marta no miró la cúpula. Miraba al gato.",
+     "de": "Sie folgte der Katze. Sie kamen durch den Salón de Embajadores mit seiner goldenen Kuppel. Marta sah die Kuppel nicht an. Sie sah die Katze an.",
+     "audio": "audio/es-de/geschichte/k02_10.mp3"
+    },
+    {
+     "id": "k02_11",
+     "fr": "Bajaron unas escaleras. Hacía fresco. Olía a agua antigua.",
+     "de": "Sie stiegen eine Treppe hinunter. Es war kühl. Es roch nach altem Wasser.",
+     "audio": "audio/es-de/geschichte/k02_11.mp3"
+    },
+    {
+     "id": "k02_12",
+     "fr": "Era los Baños de Doña María de Padilla: una sala larga, con arcos, bajo los jardines. Marta la conocía. Había estado veinte veces con alumnos.",
+     "de": "Es waren die Bäder der Doña María de Padilla: ein langer Saal mit Bögen, unter den Gärten. Marta kannte ihn. Sie war zwanzigmal mit Schülern dort gewesen.",
+     "audio": "audio/es-de/geschichte/k02_12.mp3"
+    },
+    {
+     "id": "k02_13",
+     "fr": "Pero al fondo, donde siempre había una pared, hoy había una puerta.",
+     "de": "Aber hinten, wo immer eine Wand gewesen war, war heute eine Tür.",
+     "audio": "audio/es-de/geschichte/k02_13.mp3"
+    },
+    {
+     "id": "k02_14",
+     "fr": "El gato se sentó delante de la puerta. Y, por primera vez, **maulló**.",
+     "de": "Die Katze setzte sich vor die Tür. Und miaute, zum ersten Mal.",
+     "audio": "audio/es-de/geschichte/k02_14.mp3"
+    },
+    {
+     "id": "k02_15",
+     "fr": "Marta miró el reloj. Las diez y cuarto. « **Tómate tu tiempo** », se dijo. No se lo tomó.",
+     "de": "Marta sah auf die Uhr. Viertel nach zehn. „Lass dir Zeit“, sagte sie sich. Sie ließ sich keine.",
+     "audio": "audio/es-de/geschichte/k02_15.mp3"
+    }
+   ]
+  },
+  {
+   "nr": 3,
+   "titel": "La puerta que no existe",
+   "absaetze": [
+    {
+     "id": "k03_01",
+     "fr": "La puerta era de madera oscura, con un azulejo pequeño en el centro: un gato azul sobre fondo blanco.",
+     "de": "Die Tür war aus dunklem Holz, mit einer kleinen Kachel in der Mitte: eine blaue Katze auf weißem Grund.",
+     "audio": "audio/es-de/geschichte/k03_01.mp3"
+    },
+    {
+     "id": "k03_02",
+     "fr": "No había cartel. No había número. En un palacio con seiscientos años de carteles, eso ya era raro.",
+     "de": "Kein Schild. Keine Nummer. In einem Palast mit sechshundert Jahren Schildern war das schon seltsam.",
+     "audio": "audio/es-de/geschichte/k03_02.mp3"
+    },
+    {
+     "id": "k03_03",
+     "fr": "Marta empujó. La puerta se abrió sin ruido. **De repente**, el agua de los baños dejó de sonar.",
+     "de": "Marta drückte. Die Tür öffnete sich lautlos. Plötzlich hörte das Wasser der Bäder auf zu rauschen.",
+     "audio": "audio/es-de/geschichte/k03_03.mp3"
+    },
+    {
+     "id": "k03_04",
+     "fr": "Detrás había una sala pequeña, cuadrada, con las paredes cubiertas de azulejos. Cientos de azulejos. Y en cada uno, un gato.",
+     "de": "Dahinter lag ein kleiner, quadratischer Raum, die Wände voller Kacheln. Hunderte Kacheln. Und auf jeder eine Katze.",
+     "audio": "audio/es-de/geschichte/k03_04.mp3"
+    },
+    {
+     "id": "k03_05",
+     "fr": "Gatos sentados, gatos dormidos, gatos que miraban. Gatos del siglo catorce con la misma cara que el gato de Marta.",
+     "de": "Sitzende Katzen, schlafende Katzen, Katzen, die schauten. Katzen aus dem vierzehnten Jahrhundert mit demselben Gesicht wie Martas Katze.",
+     "audio": "audio/es-de/geschichte/k03_05.mp3"
+    },
+    {
+     "id": "k03_06",
+     "fr": "En el centro de la sala, una fuente. Sin agua. Y sobre la fuente, un azulejo distinto: más grande, más antiguo, con un gato que no miraba a nadie. Miraba hacia la puerta.",
+     "de": "In der Mitte des Raums ein Brunnen. Ohne Wasser. Und über dem Brunnen eine andere Kachel: größer, älter, mit einer Katze, die niemanden ansah. Sie sah zur Tür.",
+     "audio": "audio/es-de/geschichte/k03_06.mp3"
+    },
+    {
+     "id": "k03_07",
+     "fr": "Marta se acercó. Los azulejos estaban fríos. Todos menos uno.",
+     "de": "Marta trat näher. Die Kacheln waren kalt. Alle bis auf eine.",
+     "audio": "audio/es-de/geschichte/k03_07.mp3"
+    },
+    {
+     "id": "k03_08",
+     "fr": "El azulejo grande estaba tibio. Como un gato al sol.",
+     "de": "Die große Kachel war lauwarm. Wie eine Katze in der Sonne.",
+     "audio": "audio/es-de/geschichte/k03_08.mp3"
+    },
+    {
+     "id": "k03_09",
+     "fr": "Y entonces lo oyó. Bajito. Regular. Un **ronroneo**.",
+     "de": "Und dann hörte sie es. Leise. Gleichmäßig. Ein Schnurren.",
+     "audio": "audio/es-de/geschichte/k03_09.mp3"
+    },
+    {
+     "id": "k03_10",
+     "fr": "Marta **se quedó** quieta. El gato gris, a su lado, también. Los dos escuchaban el mismo azulejo.",
+     "de": "Marta blieb stehen. Die graue Katze neben ihr auch. Beide lauschten derselben Kachel.",
+     "audio": "audio/es-de/geschichte/k03_10.mp3"
+    },
+    {
+     "id": "k03_11",
+     "fr": "« Esto no está en el plano », dijo Marta. Era lo más sensato que se le ocurrió.",
+     "de": "„Das steht nicht auf dem Plan“, sagte Marta. Es war das Vernünftigste, was ihr einfiel.",
+     "audio": "audio/es-de/geschichte/k03_11.mp3"
+    },
+    {
+     "id": "k03_12",
+     "fr": "Detrás de ella, una voz. Tranquila, mayor, un poco ronca. « No, señora. Esta sala no está en ningún plano. Por eso sigue aquí. »",
+     "de": "Hinter ihr eine Stimme. Ruhig, alt, ein bisschen heiser. „Nein, Señora. Dieser Raum steht auf keinem Plan. Deshalb ist er noch da.“",
+     "audio": "audio/es-de/geschichte/k03_12.mp3"
+    },
+    {
+     "id": "k03_13",
+     "fr": "Marta se dio la vuelta **de un salto**. En la puerta había un hombre con un sombrero de paja y unas tijeras de jardín.",
+     "de": "Marta fuhr herum. In der Tür stand ein Mann mit Strohhut und einer Gartenschere.",
+     "audio": "audio/es-de/geschichte/k03_13.mp3"
+    },
+    {
+     "id": "k03_14",
+     "fr": "« Soy el jardinero », dijo. « Trabajo aquí desde 1929. Y usted llega tarde. Veinte minutos. »",
+     "de": "„Ich bin der Gärtner“, sagte er. „Ich arbeite hier seit 1929. Und Sie sind zu spät. Zwanzig Minuten.“",
+     "audio": "audio/es-de/geschichte/k03_14.mp3"
+    },
+    {
+     "id": "k03_15",
+     "fr": "Marta hizo la cuenta. 1929. El hombre tenía, como mucho, sesenta años. **No tenía sentido**. Y aun así, Marta dijo: « Lo siento. » Es lo que dicen los profesores.",
+     "de": "Marta rechnete nach. 1929. Der Mann war höchstens sechzig. Das ergab keinen Sinn. Und trotzdem sagte Marta: „Es tut mir leid.“ Das sagen Lehrer eben.",
+     "audio": "audio/es-de/geschichte/k03_15.mp3"
+    }
+   ]
+  }
+ ],
  "geschichte_info": {
-  "titel": "",
-  "unter": "",
+  "titel": "El secreto del Alcázar",
+  "unter": "Marta Ruiz, profesora en Sevilla – una entrada, una puerta que no existe, un gato que sabe.",
   "sammlung": [
-   "",
-   ""
+   "Cada semana perfecta desbloquea un capítulo: Marta Ruiz, profesora en Sevilla, y el misterio del Alcázar.",
+   "Jede perfekte Woche schaltet ein Kapitel frei: Marta Ruiz, Lehrerin in Sevilla, und das Geheimnis des Alcázar."
   ]
  },
  "lob": {
@@ -7323,6 +7606,50 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/dialoge/d2_08.mp3",
   "audio/es-de/dialoge/d2_09.mp3",
   "audio/es-de/dialoge/d2_10.mp3",
+  "audio/es-de/geschichte/k01_01.mp3",
+  "audio/es-de/geschichte/k01_02.mp3",
+  "audio/es-de/geschichte/k01_03.mp3",
+  "audio/es-de/geschichte/k01_04.mp3",
+  "audio/es-de/geschichte/k01_05.mp3",
+  "audio/es-de/geschichte/k01_06.mp3",
+  "audio/es-de/geschichte/k01_07.mp3",
+  "audio/es-de/geschichte/k01_08.mp3",
+  "audio/es-de/geschichte/k01_09.mp3",
+  "audio/es-de/geschichte/k01_10.mp3",
+  "audio/es-de/geschichte/k01_11.mp3",
+  "audio/es-de/geschichte/k01_12.mp3",
+  "audio/es-de/geschichte/k01_13.mp3",
+  "audio/es-de/geschichte/k01_14.mp3",
+  "audio/es-de/geschichte/k02_01.mp3",
+  "audio/es-de/geschichte/k02_02.mp3",
+  "audio/es-de/geschichte/k02_03.mp3",
+  "audio/es-de/geschichte/k02_04.mp3",
+  "audio/es-de/geschichte/k02_05.mp3",
+  "audio/es-de/geschichte/k02_06.mp3",
+  "audio/es-de/geschichte/k02_07.mp3",
+  "audio/es-de/geschichte/k02_08.mp3",
+  "audio/es-de/geschichte/k02_09.mp3",
+  "audio/es-de/geschichte/k02_10.mp3",
+  "audio/es-de/geschichte/k02_11.mp3",
+  "audio/es-de/geschichte/k02_12.mp3",
+  "audio/es-de/geschichte/k02_13.mp3",
+  "audio/es-de/geschichte/k02_14.mp3",
+  "audio/es-de/geschichte/k02_15.mp3",
+  "audio/es-de/geschichte/k03_01.mp3",
+  "audio/es-de/geschichte/k03_02.mp3",
+  "audio/es-de/geschichte/k03_03.mp3",
+  "audio/es-de/geschichte/k03_04.mp3",
+  "audio/es-de/geschichte/k03_05.mp3",
+  "audio/es-de/geschichte/k03_06.mp3",
+  "audio/es-de/geschichte/k03_07.mp3",
+  "audio/es-de/geschichte/k03_08.mp3",
+  "audio/es-de/geschichte/k03_09.mp3",
+  "audio/es-de/geschichte/k03_10.mp3",
+  "audio/es-de/geschichte/k03_11.mp3",
+  "audio/es-de/geschichte/k03_12.mp3",
+  "audio/es-de/geschichte/k03_13.mp3",
+  "audio/es-de/geschichte/k03_14.mp3",
+  "audio/es-de/geschichte/k03_15.mp3",
   "audio/es-de/lob/doch_lo_ves.mp3",
   "audio/es-de/lob/fehler_casi.mp3",
   "audio/es-de/lob/fehler_casi_casi.mp3",

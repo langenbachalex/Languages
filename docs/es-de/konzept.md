@@ -33,7 +33,7 @@ Nur **r gegen rr** (Mr. Alex, 13.10.2026): je 8 Wörter für [ɾ] und [r], 8 Min
 - **Titel – Tapas-Leiter:** 🫒 Aceituna → 🥔 Tortilla → 🍤 Gambas → 🥘 Paella → 🍖 Jamón → 🧀 Manchego → ✨ **Gran chef**
 - **Karte:** Spanien mit **52 Provinzen** (click_that_hood / Code for America, MIT-Lizenz; `inhalte/es-de/karte/provincias.geojson`, Lader `werkzeuge/spanien_karte.py`, Kanaren als Einschub), Start in **Sevilla**, 50 Orte mit *datos curiosos* (`orte.tsv`).
 - **Lob:** ¡Genial! · ¡Olé! · ¡Qué crack! · ¡Perfecto! · ¡Así se hace! · ¡Eres un fenómeno! · ¡Vamos! · ¡De lujo! · ¡Chapó! … (vollständige Liste zum Absegnen mit dem ersten Thema)
-- **Geschichte:** später, optional (z. B. Diego und das Geheimnis der Alhambra).
+- **Geschichte:** « El secreto del Alcázar » – Marta Ruiz, Lehrerin in Sevilla; Entwurf und Bogen in `docs/es-de/geschichte-entwurf.md`, Kapitel 1–3 eingetragen (13.10.2026).
 
 ## 5. Bauplan
 

@@ -40,7 +40,10 @@ SPIEL_TEXTE = {
 ROLLEN = {"A": "Alex", "B": "Diego"}
 DIALOGE_TITEL = ["Diálogos con Diego", "Dialoge mit Diego"]
 
-GESCHICHTE = {"titel": "", "unter": "", "sammlung": ["", ""]}   # später, optional
+GESCHICHTE = {"titel": "El secreto del Alcázar",
+              "unter": "Marta Ruiz, profesora en Sevilla – una entrada, una puerta que no existe, un gato que sabe.",
+              "sammlung": ["Cada semana perfecta desbloquea un capítulo: Marta Ruiz, profesora en Sevilla, y el misterio del Alcázar.",
+                           "Jede perfekte Woche schaltet ein Kapitel frei: Marta Ruiz, Lehrerin in Sevilla, und das Geheimnis des Alcázar."]}
 
 # Aussprache « Los sonidos difíciles » – Daten kommen später (sonidos.tsv vorerst leer)
 AUSSPRACHE = {
