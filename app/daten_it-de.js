@@ -5911,7 +5911,7 @@ window.SPRACHEN["it-de"] = {
     "y": 137.5,
     "fakt": "Bologna ha tre nomi: la Dotta per l'università più antica d'Europa, la Grassa per la cucina, la Rossa per i tetti. E per la politica.",
     "fakt_de": "Bologna hat drei Namen: die Gelehrte für die älteste Universität Europas, die Fette für die Küche, die Rote für die Dächer. Und für die Politik.",
-    "audio": null
+    "audio": "audio/it-de/orte/bologna.mp3"
    },
    {
     "id": "torri",
@@ -5923,7 +5923,7 @@ window.SPRACHEN["it-de"] = {
     "y": 137.6,
     "fakt": "La Garisenda pende più della Torre di Pisa. Dante la cita nell'Inferno. Gli studenti non la salgono mai: porta sfortuna alla laurea.",
     "fakt_de": "Die Garisenda neigt sich stärker als der Schiefe Turm von Pisa. Dante erwähnt sie im Inferno. Die Studenten steigen nie hinauf: Das bringt Pech beim Abschluss.",
-    "audio": null
+    "audio": "audio/it-de/orte/torri.mp3"
    },
    {
     "id": "portici",
@@ -5935,7 +5935,7 @@ window.SPRACHEN["it-de"] = {
     "y": 138.3,
     "fakt": "Bologna ha quaranta chilometri di portici. Si può attraversare la città sotto la pioggia senza bagnarsi. Patrimonio UNESCO.",
     "fakt_de": "Bologna hat vierzig Kilometer Arkaden. Man kann die Stadt im Regen durchqueren, ohne nass zu werden. UNESCO-Welterbe.",
-    "audio": null
+    "audio": "audio/it-de/orte/portici.mp3"
    },
    {
     "id": "modena",
@@ -5947,7 +5947,7 @@ window.SPRACHEN["it-de"] = {
     "y": 129.8,
     "fakt": "A Modena l'aceto balsamico invecchia almeno dodici anni. Pavarotti è nato qui. E la Ferrari è a dieci minuti.",
     "fakt_de": "In Modena reift der Balsamico mindestens zwölf Jahre. Pavarotti wurde hier geboren. Und Ferrari ist zehn Minuten entfernt.",
-    "audio": null
+    "audio": "audio/it-de/orte/modena.mp3"
    },
    {
     "id": "parma",
@@ -5959,7 +5959,7 @@ window.SPRACHEN["it-de"] = {
     "y": 122.0,
     "fakt": "Parma: il prosciutto e il parmigiano. Una forma di parmigiano può valere come garanzia in banca. Davvero.",
     "fakt_de": "Parma: der Schinken und der Parmesan. Ein Laib Parmesan kann als Bankpfand dienen. Wirklich.",
-    "audio": null
+    "audio": "audio/it-de/orte/parma.mp3"
    },
    {
     "id": "ravenna",
@@ -5971,7 +5971,7 @@ window.SPRACHEN["it-de"] = {
     "y": 141.4,
     "fakt": "Ravenna ha i mosaici più belli del mondo, del quinto secolo. Dante è sepolto qui, non a Firenze. Firenze lo rivuole ancora.",
     "fakt_de": "Ravenna hat die schönsten Mosaiken der Welt, aus dem fünften Jahrhundert. Dante liegt hier begraben, nicht in Florenz. Florenz will ihn immer noch zurück.",
-    "audio": null
+    "audio": "audio/it-de/orte/ravenna.mp3"
    },
    {
     "id": "venezia",
@@ -5983,7 +5983,7 @@ window.SPRACHEN["it-de"] = {
     "y": 89.5,
     "fakt": "Venezia ha quattrocento ponti e nessuna macchina. I gatti erano i veri padroni: cacciavano i topi dalle navi.",
     "fakt_de": "Venedig hat vierhundert Brücken und kein Auto. Die Katzen waren die wahren Herren: Sie jagten die Ratten von den Schiffen.",
-    "audio": null
+    "audio": "audio/it-de/orte/venezia.mp3"
    },
    {
     "id": "verona",
@@ -5995,7 +5995,7 @@ window.SPRACHEN["it-de"] = {
     "y": 89.6,
     "fakt": "A Verona c'è il balcone di Giulietta. Giulietta non è mai esistita. Il balcone l'hanno aggiunto nel 1936.",
     "fakt_de": "In Verona gibt es Julias Balkon. Julia hat nie existiert. Den Balkon hat man 1936 angebaut.",
-    "audio": null
+    "audio": "audio/it-de/orte/verona.mp3"
    },
    {
     "id": "padova",
@@ -6007,7 +6007,7 @@ window.SPRACHEN["it-de"] = {
     "y": 91.2,
     "fakt": "A Padova Galileo insegnò diciotto anni. Nella cappella degli Scrovegni Giotto dipinse il cielo blu. Con lapislazzuli.",
     "fakt_de": "In Padua lehrte Galileo achtzehn Jahre. In der Scrovegni-Kapelle malte Giotto den Himmel blau. Mit Lapislazuli.",
-    "audio": null
+    "audio": "audio/it-de/orte/padova.mp3"
    },
    {
     "id": "dolomiti",
@@ -6019,7 +6019,7 @@ window.SPRACHEN["it-de"] = {
     "y": 40.2,
     "fakt": "Le Dolomiti al tramonto diventano rosa: si chiama enrosadira. Qui si parla italiano, tedesco e ladino.",
     "fakt_de": "Die Dolomiten werden bei Sonnenuntergang rosa: Das heißt Enrosadira. Hier spricht man Italienisch, Deutsch und Ladinisch.",
-    "audio": null
+    "audio": "audio/it-de/orte/dolomiti.mp3"
    },
    {
     "id": "trieste",
@@ -6031,7 +6031,7 @@ window.SPRACHEN["it-de"] = {
     "y": 78.8,
     "fakt": "A Trieste il caffè si ordina in un codice: « nero », « capo in b », « gocciato ». Joyce visse qui dieci anni.",
     "fakt_de": "In Triest bestellt man Kaffee in einem Code: „nero“, „capo in b“, „gocciato“. Joyce lebte hier zehn Jahre.",
-    "audio": null
+    "audio": "audio/it-de/orte/trieste.mp3"
    },
    {
     "id": "milano",
@@ -6043,7 +6043,7 @@ window.SPRACHEN["it-de"] = {
     "y": 88.3,
     "fakt": "Il Duomo di Milano ha tremilaquattrocento statue. La costruzione è durata sei secoli. I milanesi dicono: « la fabbrica del Duomo » per una cosa infinita.",
     "fakt_de": "Der Mailänder Dom hat dreitausendvierhundert Statuen. Der Bau dauerte sechs Jahrhunderte. Die Mailänder sagen „la fabbrica del Duomo“ für etwas Endloses.",
-    "audio": null
+    "audio": "audio/it-de/orte/milano.mp3"
    },
    {
     "id": "cenacolo",
@@ -6055,7 +6055,7 @@ window.SPRACHEN["it-de"] = {
     "y": 88.2,
     "fakt": "L'Ultima Cena di Leonardo è dipinta su un muro di refettorio. Si vede quindici minuti, a gruppi di trenta. Prenotare mesi prima.",
     "fakt_de": "Leonardos Abendmahl ist auf eine Refektoriumswand gemalt. Man sieht es fünfzehn Minuten, in Gruppen von dreißig. Monate vorher buchen.",
-    "audio": null
+    "audio": "audio/it-de/orte/cenacolo.mp3"
    },
    {
     "id": "como",
@@ -6067,7 +6067,7 @@ window.SPRACHEN["it-de"] = {
     "y": 61.7,
     "fakt": "Il lago di Como ha la forma di una Y rovesciata. Manzoni comincia i Promessi Sposi qui: « Quel ramo del lago di Como… ».",
     "fakt_de": "Der Comer See hat die Form eines umgedrehten Y. Manzoni beginnt die Verlobten hier: „Jener Arm des Comer Sees…“.",
-    "audio": null
+    "audio": "audio/it-de/orte/como.mp3"
    },
    {
     "id": "bergamo",
@@ -6079,7 +6079,7 @@ window.SPRACHEN["it-de"] = {
     "y": 76.4,
     "fakt": "Bergamo è due città: Alta e Bassa, unite da una funicolare. Dalla Città Alta si vede la pianura fino a Milano.",
     "fakt_de": "Bergamo ist zwei Städte: die Ober- und die Unterstadt, verbunden durch eine Standseilbahn. Von der Oberstadt sieht man die Ebene bis Mailand.",
-    "audio": null
+    "audio": "audio/it-de/orte/bergamo.mp3"
    },
    {
     "id": "torino",
@@ -6091,7 +6091,7 @@ window.SPRACHEN["it-de"] = {
     "y": 108.3,
     "fakt": "Torino ha inventato il cioccolato gianduia, il vermut e il cinema italiano. La Mole era una sinagoga. Ora è il Museo del Cinema.",
     "fakt_de": "Turin hat die Gianduja-Schokolade, den Wermut und das italienische Kino erfunden. Die Mole war eine Synagoge. Heute ist sie das Filmmuseum.",
-    "audio": null
+    "audio": "audio/it-de/orte/torino.mp3"
    },
    {
     "id": "langhe",
@@ -6103,7 +6103,7 @@ window.SPRACHEN["it-de"] = {
     "y": 132.2,
     "fakt": "Nelle Langhe crescono il Barolo e il tartufo bianco di Alba. Un tartufo di un chilo vale come una macchina usata.",
     "fakt_de": "In den Langhe wachsen der Barolo und der weiße Trüffel von Alba. Ein Trüffel von einem Kilo ist so viel wert wie ein Gebrauchtwagen.",
-    "audio": null
+    "audio": "audio/it-de/orte/langhe.mp3"
    },
    {
     "id": "aosta",
@@ -6115,7 +6115,7 @@ window.SPRACHEN["it-de"] = {
     "y": 74.4,
     "fakt": "Ad Aosta le strade sono bilingui: italiano e francese. L'arco romano ha duemila anni. Il Monte Bianco è dietro l'angolo.",
     "fakt_de": "In Aosta sind die Straßen zweisprachig: Italienisch und Französisch. Der römische Bogen ist zweitausend Jahre alt. Der Mont Blanc ist um die Ecke.",
-    "audio": null
+    "audio": "audio/it-de/orte/aosta.mp3"
    },
    {
     "id": "genova",
@@ -6127,7 +6127,7 @@ window.SPRACHEN["it-de"] = {
     "y": 142.1,
     "fakt": "Genova ha inventato il pesto, i jeans (« bleu de Gênes ») e Cristoforo Colombo. L'acquario è il più grande d'Italia.",
     "fakt_de": "Genua hat das Pesto, die Jeans („bleu de Gênes“) und Christoph Kolumbus hervorgebracht. Das Aquarium ist das größte Italiens.",
-    "audio": null
+    "audio": "audio/it-de/orte/genova.mp3"
    },
    {
     "id": "cinqueterre",
@@ -6139,7 +6139,7 @@ window.SPRACHEN["it-de"] = {
     "y": 156.6,
     "fakt": "Cinque paesi a picco sul mare, uniti da un sentiero. Le case sono colorate perché i pescatori le riconoscevano dal mare.",
     "fakt_de": "Fünf Dörfer steil über dem Meer, durch einen Wanderweg verbunden. Die Häuser sind bunt, damit die Fischer sie vom Meer aus erkannten.",
-    "audio": null
+    "audio": "audio/it-de/orte/cinqueterre.mp3"
    },
    {
     "id": "firenze",
@@ -6151,7 +6151,7 @@ window.SPRACHEN["it-de"] = {
     "y": 174.4,
     "fakt": "A Firenze è nato il Rinascimento. E l'italiano: Dante, Petrarca e Boccaccio scrivevano in fiorentino. Il David ha cinque metri.",
     "fakt_de": "In Florenz entstand die Renaissance. Und das Italienische: Dante, Petrarca und Boccaccio schrieben auf Florentinisch. Der David ist fünf Meter hoch.",
-    "audio": null
+    "audio": "audio/it-de/orte/firenze.mp3"
    },
    {
     "id": "uffizi",
@@ -6163,7 +6163,7 @@ window.SPRACHEN["it-de"] = {
     "y": 174.5,
     "fakt": "Gli Uffizi erano uffici, davvero: gli uffici dei Medici. La Venere di Botticelli è qui. Alcuni visitatori svengono: sindrome di Stendhal.",
     "fakt_de": "Die Uffizien waren wirklich Büros: die Büros der Medici. Botticellis Venus hängt hier. Manche Besucher fallen in Ohnmacht: Stendhal-Syndrom.",
-    "audio": null
+    "audio": "audio/it-de/orte/uffizi.mp3"
    },
    {
     "id": "pisa",
@@ -6175,7 +6175,7 @@ window.SPRACHEN["it-de"] = {
     "y": 176.8,
     "fakt": "La Torre di Pisa pende da ottocento anni. Nel 1990 l'hanno chiusa e raddrizzata un po'. Non troppo: dritta non la vuole nessuno.",
     "fakt_de": "Der Turm von Pisa neigt sich seit achthundert Jahren. 1990 hat man ihn geschlossen und ein bisschen aufgerichtet. Nicht zu sehr: Gerade will ihn niemand.",
-    "audio": null
+    "audio": "audio/it-de/orte/pisa.mp3"
    },
    {
     "id": "siena",
@@ -6187,7 +6187,7 @@ window.SPRACHEN["it-de"] = {
     "y": 197.3,
     "fakt": "A Siena il Palio si corre due volte l'estate, in piazza, a pelo. Dura novanta secondi. Si prepara tutto l'anno.",
     "fakt_de": "In Siena wird der Palio zweimal im Sommer geritten, auf der Piazza, ohne Sattel. Er dauert neunzig Sekunden. Man bereitet sich das ganze Jahr vor.",
-    "audio": null
+    "audio": "audio/it-de/orte/siena.mp3"
    },
    {
     "id": "sangimignano",
@@ -6199,7 +6199,7 @@ window.SPRACHEN["it-de"] = {
     "y": 189.8,
     "fakt": "San Gimignano aveva settantadue torri: ogni famiglia ricca ne voleva una più alta. Ne restano quattordici. La Manhattan del Medioevo.",
     "fakt_de": "San Gimignano hatte zweiundsiebzig Türme: Jede reiche Familie wollte einen höheren. Vierzehn sind geblieben. Das Manhattan des Mittelalters.",
-    "audio": null
+    "audio": "audio/it-de/orte/sangimignano.mp3"
    },
    {
     "id": "lucca",
@@ -6211,7 +6211,7 @@ window.SPRACHEN["it-de"] = {
     "y": 170.7,
     "fakt": "Lucca ha mura intatte da quattro chilometri. Ci si va in bicicletta. Puccini è nato qui e ha scritto La Bohème.",
     "fakt_de": "Lucca hat vier Kilometer intakte Stadtmauern. Man fährt darauf Fahrrad. Puccini wurde hier geboren und schrieb La Bohème.",
-    "audio": null
+    "audio": "audio/it-de/orte/lucca.mp3"
    },
    {
     "id": "perugia",
@@ -6223,7 +6223,7 @@ window.SPRACHEN["it-de"] = {
     "y": 207.9,
     "fakt": "Perugia ha i Baci: cioccolatini con un bigliettino d'amore dentro. E ogni luglio il festival jazz più antico d'Europa.",
     "fakt_de": "Perugia hat die Baci: Pralinen mit einem Liebesbrief darin. Und jeden Juli das älteste Jazzfestival Europas.",
-    "audio": null
+    "audio": "audio/it-de/orte/perugia.mp3"
    },
    {
     "id": "assisi",
@@ -6235,7 +6235,7 @@ window.SPRACHEN["it-de"] = {
     "y": 210.0,
     "fakt": "Ad Assisi san Francesco parlava agli uccelli. Giotto lo dipinse nella basilica, ventotto scene. Il lupo di Gubbio è a trenta chilometri.",
     "fakt_de": "In Assisi sprach der heilige Franziskus mit den Vögeln. Giotto malte ihn in der Basilika, achtundzwanzig Szenen. Der Wolf von Gubbio ist dreißig Kilometer entfernt.",
-    "audio": null
+    "audio": "audio/it-de/orte/assisi.mp3"
    },
    {
     "id": "urbino",
@@ -6247,7 +6247,7 @@ window.SPRACHEN["it-de"] = {
     "y": 176.6,
     "fakt": "Urbino è la città di Raffaello. Il palazzo ducale ha uno studiolo tutto di legno intarsiato: le finestre sono finte, ma sembrano vere.",
     "fakt_de": "Urbino ist die Stadt Raffaels. Der Herzogspalast hat ein Studierzimmer ganz aus Intarsien: Die Fenster sind unecht, sehen aber echt aus.",
-    "audio": null
+    "audio": "audio/it-de/orte/urbino.mp3"
    },
    {
     "id": "roma",
@@ -6259,7 +6259,7 @@ window.SPRACHEN["it-de"] = {
     "y": 269.3,
     "fakt": "Roma ha duemilasettecento anni e novecento chiese. Nella Fontana di Trevi finiscono un milione di euro all'anno. Vanno alla Caritas.",
     "fakt_de": "Rom ist zweitausendsiebenhundert Jahre alt und hat neunhundert Kirchen. Im Trevi-Brunnen landen jedes Jahr eine Million Euro. Sie gehen an die Caritas.",
-    "audio": null
+    "audio": "audio/it-de/orte/roma.mp3"
    },
    {
     "id": "colosseo",
@@ -6271,7 +6271,7 @@ window.SPRACHEN["it-de"] = {
     "y": 270.0,
     "fakt": "Il Colosseo conteneva cinquantamila spettatori. Aveva un tetto di tela e ascensori per gli animali. I gatti ci vivono ancora oggi.",
     "fakt_de": "Das Kolosseum fasste fünfzigtausend Zuschauer. Es hatte ein Segeltuchdach und Aufzüge für die Tiere. Die Katzen leben noch heute dort.",
-    "audio": null
+    "audio": "audio/it-de/orte/colosseo.mp3"
    },
    {
     "id": "vaticano",
@@ -6283,7 +6283,7 @@ window.SPRACHEN["it-de"] = {
     "y": 269.3,
     "fakt": "Michelangelo dipinse la volta in quattro anni, sdraiato su un'impalcatura. Diceva di essere uno scultore, non un pittore.",
     "fakt_de": "Michelangelo malte das Gewölbe in vier Jahren, liegend auf einem Gerüst. Er sagte, er sei Bildhauer, kein Maler.",
-    "audio": null
+    "audio": "audio/it-de/orte/vaticano.mp3"
    },
    {
     "id": "tivoli",
@@ -6295,7 +6295,7 @@ window.SPRACHEN["it-de"] = {
     "y": 266.3,
     "fakt": "A Tivoli Villa d'Este ha cinquecento fontane senza una pompa: solo la gravità. L'imperatore Adriano aveva la sua villa a due passi.",
     "fakt_de": "In Tivoli hat die Villa d'Este fünfhundert Brunnen ohne eine einzige Pumpe: nur Schwerkraft. Kaiser Hadrian hatte seine Villa gleich nebenan.",
-    "audio": null
+    "audio": "audio/it-de/orte/tivoli.mp3"
    },
    {
     "id": "napoli",
@@ -6307,7 +6307,7 @@ window.SPRACHEN["it-de"] = {
     "y": 322.8,
     "fakt": "A Napoli è nata la pizza: la Margherita, nel 1889, con i colori della bandiera. Si piega in quattro e si mangia per strada.",
     "fakt_de": "In Neapel wurde die Pizza geboren: die Margherita, 1889, in den Farben der Flagge. Man faltet sie viermal und isst sie auf der Straße.",
-    "audio": null
+    "audio": "audio/it-de/orte/napoli.mp3"
    },
    {
     "id": "pompei",
@@ -6319,7 +6319,7 @@ window.SPRACHEN["it-de"] = {
     "y": 327.9,
     "fakt": "Pompei fu sepolta dal Vesuvio nel 79. Si sono trovati pane nel forno e graffiti sui muri: « Qui dormì Marco. »",
     "fakt_de": "Pompeji wurde 79 vom Vesuv begraben. Man fand Brot im Ofen und Graffiti an den Wänden: „Hier schlief Marcus.“",
-    "audio": null
+    "audio": "audio/it-de/orte/pompei.mp3"
    },
    {
     "id": "amalfi",
@@ -6331,7 +6331,7 @@ window.SPRACHEN["it-de"] = {
     "y": 333.9,
     "fakt": "Sulla Costiera i limoni sono grandi come pompelmi. Ne fanno il limoncello. La strada ha mille curve e nessun parcheggio.",
     "fakt_de": "An der Amalfiküste sind die Zitronen so groß wie Grapefruits. Daraus macht man Limoncello. Die Straße hat tausend Kurven und keinen Parkplatz.",
-    "audio": null
+    "audio": "audio/it-de/orte/amalfi.mp3"
    },
    {
     "id": "capri",
@@ -6343,7 +6343,7 @@ window.SPRACHEN["it-de"] = {
     "y": 338.0,
     "fakt": "A Capri la Grotta Azzurra è blu perché la luce entra da sotto l'acqua. L'imperatore Tiberio governò Roma da qui per dieci anni.",
     "fakt_de": "Auf Capri ist die Blaue Grotte blau, weil das Licht von unter Wasser hereinkommt. Kaiser Tiberius regierte Rom zehn Jahre von hier aus.",
-    "audio": null
+    "audio": "audio/it-de/orte/capri.mp3"
    },
    {
     "id": "matera",
@@ -6355,7 +6355,7 @@ window.SPRACHEN["it-de"] = {
     "y": 332.2,
     "fakt": "A Matera si vive nelle grotte da novemila anni: i Sassi. Negli anni cinquanta erano « la vergogna d'Italia ». Ora sono patrimonio UNESCO.",
     "fakt_de": "In Matera lebt man seit neuntausend Jahren in Höhlen: den Sassi. In den fünfziger Jahren waren sie „die Schande Italiens“. Heute sind sie UNESCO-Welterbe.",
-    "audio": null
+    "audio": "audio/it-de/orte/matera.mp3"
    },
    {
     "id": "alberobello",
@@ -6367,7 +6367,7 @@ window.SPRACHEN["it-de"] = {
     "y": 326.3,
     "fakt": "I trulli di Alberobello hanno il tetto a cono, senza malta. Così si smontavano in fretta quando arrivava l'esattore delle tasse.",
     "fakt_de": "Die Trulli von Alberobello haben Kegeldächer ohne Mörtel. So konnte man sie schnell abbauen, wenn der Steuereintreiber kam.",
-    "audio": null
+    "audio": "audio/it-de/orte/alberobello.mp3"
    },
    {
     "id": "lecce",
@@ -6379,7 +6379,7 @@ window.SPRACHEN["it-de"] = {
     "y": 348.2,
     "fakt": "Lecce è la Firenze del Sud: barocco ovunque, in pietra dorata così tenera che si taglia con il coltello.",
     "fakt_de": "Lecce ist das Florenz des Südens: Barock überall, aus goldenem Stein, so weich, dass man ihn mit dem Messer schneidet.",
-    "audio": null
+    "audio": "audio/it-de/orte/lecce.mp3"
    },
    {
     "id": "abruzzo",
@@ -6391,7 +6391,7 @@ window.SPRACHEN["it-de"] = {
     "y": 241.5,
     "fakt": "Sul Gran Sasso vivono orsi, lupi e camosci. E sotto la montagna, a mille e quattrocento metri di profondità, un laboratorio di fisica.",
     "fakt_de": "Am Gran Sasso leben Bären, Wölfe und Gämsen. Und unter dem Berg, in tausendvierhundert Metern Tiefe, ein Physiklabor.",
-    "audio": null
+    "audio": "audio/it-de/orte/abruzzo.mp3"
    },
    {
     "id": "tropea",
@@ -6403,7 +6403,7 @@ window.SPRACHEN["it-de"] = {
     "y": 433.4,
     "fakt": "Tropea ha una spiaggia bianca e una cipolla rossa così dolce che ne fanno il gelato. Il gelato alla cipolla. Provare per credere.",
     "fakt_de": "Tropea hat einen weißen Strand und eine rote Zwiebel, so süß, dass man Eis daraus macht. Zwiebeleis. Probieren, um es zu glauben.",
-    "audio": null
+    "audio": "audio/it-de/orte/tropea.mp3"
    },
    {
     "id": "palermo",
@@ -6415,7 +6415,7 @@ window.SPRACHEN["it-de"] = {
     "y": 461.9,
     "fakt": "A Palermo i mercati gridano in arabo, normanno e siciliano. Si mangia pane con la milza e arancine. O arancini, se sei a Catania.",
     "fakt_de": "In Palermo rufen die Märkte auf Arabisch, Normannisch und Sizilianisch. Man isst Milzbrot und Arancine. Oder Arancini, wenn man in Catania ist.",
-    "audio": null
+    "audio": "audio/it-de/orte/palermo.mp3"
    },
    {
     "id": "etna",
@@ -6427,7 +6427,7 @@ window.SPRACHEN["it-de"] = {
     "y": 480.5,
     "fakt": "L'Etna è il vulcano attivo più alto d'Europa: tremilatrecento metri. Sui suoi fianchi crescono vigne e pistacchi. E si scia.",
     "fakt_de": "Der Ätna ist der höchste aktive Vulkan Europas: dreitausenddreihundert Meter. An seinen Hängen wachsen Reben und Pistazien. Und man fährt Ski.",
-    "audio": null
+    "audio": "audio/it-de/orte/etna.mp3"
    },
    {
     "id": "taormina",
@@ -6439,7 +6439,7 @@ window.SPRACHEN["it-de"] = {
     "y": 475.3,
     "fakt": "Il teatro greco di Taormina ha l'Etna come fondale. Goethe scrisse che nessun pubblico ha mai visto uno spettacolo simile.",
     "fakt_de": "Das griechische Theater von Taormina hat den Ätna als Kulisse. Goethe schrieb, kein Publikum habe je ein solches Schauspiel gesehen.",
-    "audio": null
+    "audio": "audio/it-de/orte/taormina.mp3"
    },
    {
     "id": "siracusa",
@@ -6451,7 +6451,7 @@ window.SPRACHEN["it-de"] = {
     "y": 514.8,
     "fakt": "A Siracusa Archimede gridò « Eureka! » nella vasca. L'Orecchio di Dionisio è una grotta che amplifica i sussurri. Si dice.",
     "fakt_de": "In Syrakus rief Archimedes „Heureka!“ in der Badewanne. Das Ohr des Dionysios ist eine Höhle, die Flüstern verstärkt. Sagt man.",
-    "audio": null
+    "audio": "audio/it-de/orte/siracusa.mp3"
    },
    {
     "id": "agrigento",
@@ -6463,7 +6463,7 @@ window.SPRACHEN["it-de"] = {
     "y": 503.9,
     "fakt": "Ad Agrigento i templi greci sono meglio conservati che in Grecia. Pindaro la chiamò « la più bella città dei mortali ».",
     "fakt_de": "In Agrigent sind die griechischen Tempel besser erhalten als in Griechenland. Pindar nannte sie „die schönste Stadt der Sterblichen“.",
-    "audio": null
+    "audio": "audio/it-de/orte/agrigento.mp3"
    },
    {
     "id": "cagliari",
@@ -6475,7 +6475,7 @@ window.SPRACHEN["it-de"] = {
     "y": 405.6,
     "fakt": "A Cagliari, nello stagno in città, vivono i fenicotteri rosa. Il sardo non è un dialetto: è una lingua, la più vicina al latino.",
     "fakt_de": "In Cagliari leben Flamingos in der Lagune mitten in der Stadt. Sardisch ist kein Dialekt: Es ist eine Sprache, die dem Lateinischen am nächsten steht.",
-    "audio": null
+    "audio": "audio/it-de/orte/cagliari.mp3"
    },
    {
     "id": "costasmeralda",
@@ -6487,7 +6487,7 @@ window.SPRACHEN["it-de"] = {
     "y": 309.2,
     "fakt": "La Costa Smeralda l'ha inventata un principe nel 1962. Prima c'erano solo pastori. Il mare, però, c'era già.",
     "fakt_de": "Die Costa Smeralda hat ein Prinz 1962 erfunden. Vorher gab es nur Hirten. Das Meer war allerdings schon da.",
-    "audio": null
+    "audio": "audio/it-de/orte/costasmeralda.mp3"
    },
    {
     "id": "rimini",
@@ -6499,7 +6499,7 @@ window.SPRACHEN["it-de"] = {
     "y": 159.3,
     "fakt": "Rimini è la spiaggia dei bolognesi: quindici chilometri di ombrelloni. Fellini è nato qui e l'ha filmata in Amarcord.",
     "fakt_de": "Rimini ist der Strand der Bologneser: fünfzehn Kilometer Sonnenschirme. Fellini wurde hier geboren und filmte es in Amarcord.",
-    "audio": null
+    "audio": "audio/it-de/orte/rimini.mp3"
    }
   ],
   "karte": {
@@ -7291,6 +7291,56 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/lob/stark_volevo.mp3",
   "audio/it-de/lob/stark_voli.mp3",
   "audio/it-de/lob/voll_senza_errori.mp3",
+  "audio/it-de/orte/abruzzo.mp3",
+  "audio/it-de/orte/agrigento.mp3",
+  "audio/it-de/orte/alberobello.mp3",
+  "audio/it-de/orte/amalfi.mp3",
+  "audio/it-de/orte/aosta.mp3",
+  "audio/it-de/orte/assisi.mp3",
+  "audio/it-de/orte/bergamo.mp3",
+  "audio/it-de/orte/bologna.mp3",
+  "audio/it-de/orte/cagliari.mp3",
+  "audio/it-de/orte/capri.mp3",
+  "audio/it-de/orte/cenacolo.mp3",
+  "audio/it-de/orte/cinqueterre.mp3",
+  "audio/it-de/orte/colosseo.mp3",
+  "audio/it-de/orte/como.mp3",
+  "audio/it-de/orte/costasmeralda.mp3",
+  "audio/it-de/orte/dolomiti.mp3",
+  "audio/it-de/orte/etna.mp3",
+  "audio/it-de/orte/firenze.mp3",
+  "audio/it-de/orte/genova.mp3",
+  "audio/it-de/orte/langhe.mp3",
+  "audio/it-de/orte/lecce.mp3",
+  "audio/it-de/orte/lucca.mp3",
+  "audio/it-de/orte/matera.mp3",
+  "audio/it-de/orte/milano.mp3",
+  "audio/it-de/orte/modena.mp3",
+  "audio/it-de/orte/napoli.mp3",
+  "audio/it-de/orte/padova.mp3",
+  "audio/it-de/orte/palermo.mp3",
+  "audio/it-de/orte/parma.mp3",
+  "audio/it-de/orte/perugia.mp3",
+  "audio/it-de/orte/pisa.mp3",
+  "audio/it-de/orte/pompei.mp3",
+  "audio/it-de/orte/portici.mp3",
+  "audio/it-de/orte/ravenna.mp3",
+  "audio/it-de/orte/rimini.mp3",
+  "audio/it-de/orte/roma.mp3",
+  "audio/it-de/orte/sangimignano.mp3",
+  "audio/it-de/orte/siena.mp3",
+  "audio/it-de/orte/siracusa.mp3",
+  "audio/it-de/orte/taormina.mp3",
+  "audio/it-de/orte/tivoli.mp3",
+  "audio/it-de/orte/torino.mp3",
+  "audio/it-de/orte/torri.mp3",
+  "audio/it-de/orte/trieste.mp3",
+  "audio/it-de/orte/tropea.mp3",
+  "audio/it-de/orte/uffizi.mp3",
+  "audio/it-de/orte/urbino.mp3",
+  "audio/it-de/orte/vaticano.mp3",
+  "audio/it-de/orte/venezia.mp3",
+  "audio/it-de/orte/verona.mp3",
   "audio/it-de/saetze/ba_01.mp3",
   "audio/it-de/saetze/ba_01_fp.mp3",
   "audio/it-de/saetze/ba_01_pc.mp3",
