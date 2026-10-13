@@ -44,15 +44,16 @@ GESCHICHTE = {"titel": "", "unter": "", "sammlung": ["", ""]}   # später: « Il
 
 AUSSPRACHE = None   # später, optional: « Le doppie »
 
-# Karte: Italien mit Provinzen – kommt später (vorerst keine Orte)
+# Karte: Italien mit Provinzen (ISTAT via openpolis/geojson-italy, CC BY 4.0)
 KARTE = {"name": "Italia", "einheit": "province", "lieux": "luoghi", "start": "Bologna",
-         "quelle": "", "badge": "Giro d'Italia",
+         "quelle": "Mappa: province d'Italia, dati ISTAT via openpolis/geojson-italy (CC BY 4.0).", "badge": "Giro d'Italia",
          "hinweis": ["Ogni sessione finita e ogni parte finita sbloccano un luogo, partendo da Bologna. Tocca un luogo!",
                      "Jede fertige Sessione und jeder fertige Teil schalten einen Ort frei, Start in Bologna. Tipp auf einen Ort!"]}
 
 
 def karte_laden(inhalte):
-    return {}, (lambda lon, lat: None), (lambda lon, lat: (0, 0))
+    import italien_karte
+    return italien_karte.laden(os.path.join(inhalte, "karte"))
 
 
 # Stimmen: Mr. Alex' Klon auf Italienisch (Hörprobe 13.10. freigegeben), Giovanni = „Andy – Warm, Nuanced and Mature“ (Bibliothek)
