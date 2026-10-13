@@ -1901,21 +1901,21 @@ window.SPRACHEN["es-de"] = {
    "de": "richtig (sauber) singen",
    "register": "tu",
    "anker": "cantar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_01.mp3",
    "satz": {
     "fr": "Mi hermano canta afinado; yo canto con el corazón.",
     "de": "Mein Bruder singt sauber; ich singe mit dem Herzen.",
     "luecke": "canta afinado",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Ayer canté afinado. Una vez.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_01_pc.mp3"
     },
     "fp": {
      "fr": "Mañana voy a cantar afinado. Prometido.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_01_fp.mp3"
     }
    }
   },
@@ -1926,21 +1926,21 @@ window.SPRACHEN["es-de"] = {
    "de": "schief singen",
    "register": "tu",
    "anker": "desafinar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_02.mp3",
    "satz": {
     "fr": "Desafino, pero canto fuerte. Compensa.",
     "de": "Ich singe schief, aber laut. Das gleicht es aus.",
     "luecke": "Desafino",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Desafiné durante todo el concierto.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_02_pc.mp3"
     },
     "fp": {
      "fr": "Voy a desafinar, ¿y qué?",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_02_fp.mp3"
     }
    }
   },
@@ -1951,12 +1951,12 @@ window.SPRACHEN["es-de"] = {
    "de": "der Refrain",
    "register": "tu",
    "anker": "saber",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_03.mp3",
    "satz": {
     "fr": "No me sé la letra, pero el estribillo sí.",
     "de": "Ich kenne den Text nicht, aber den Refrain schon.",
     "luecke": "estribillo",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_03.mp3"
    },
    "zeit": null
   },
@@ -1967,12 +1967,12 @@ window.SPRACHEN["es-de"] = {
    "de": "der Liedtext",
    "register": "tu",
    "anker": "poner",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_04.mp3",
    "satz": {
     "fr": "La letra de esta canción me pone la piel de gallina.",
     "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
     "luecke": "letra",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_04.mp3"
    },
    "zeit": null
   },
@@ -1983,21 +1983,21 @@ window.SPRACHEN["es-de"] = {
    "de": "das klingt gut",
    "register": "tu",
    "anker": "sonar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_05.mp3",
    "satz": {
     "fr": "En español, esta frase suena bien. En alemán, menos.",
     "de": "Auf Spanisch klingt dieser Satz gut. Auf Deutsch weniger.",
     "luecke": "suena bien",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Sonó bien a la primera.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_05_pc.mp3"
     },
     "fp": {
      "fr": "Va a sonar bien, ya verás.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_05_fp.mp3"
     }
    }
   },
@@ -2008,12 +2008,12 @@ window.SPRACHEN["es-de"] = {
    "de": "ein gutes Gehör haben",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_06.mp3",
    "satz": {
     "fr": "Diego tiene oído: nota mi acento alemán enseguida.",
     "de": "Diego hat ein gutes Gehör: Er merkt meinen deutschen Akzent sofort.",
     "luecke": "tiene oído",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_06.mp3"
    },
    "zeit": null
   },
@@ -2024,12 +2024,12 @@ window.SPRACHEN["es-de"] = {
    "de": "der Akzent",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_07.mp3",
    "satz": {
     "fr": "Mi acento es una mezcla de Sarre y buena voluntad.",
     "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "luecke": "acento",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_07.mp3"
    },
    "zeit": null
   },
@@ -2040,12 +2040,12 @@ window.SPRACHEN["es-de"] = {
    "de": "die Musik der Sprache",
    "register": "tu",
    "anker": "gustar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_08.mp3",
    "satz": {
     "fr": "Lo que me gusta del español es la música del idioma.",
     "de": "Was ich am Spanischen liebe, ist die Musik der Sprache.",
     "luecke": "música del idioma",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_08.mp3"
    },
    "zeit": null
   },
@@ -2056,21 +2056,21 @@ window.SPRACHEN["es-de"] = {
    "de": "ein Instrument spielen",
    "register": "tu",
    "anker": "tocar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_09.mp3",
    "satz": {
     "fr": "¿Tocas algún instrumento? – Sí, la guitarra, mal.",
     "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "luecke": "Tocas algún instrumento",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_09.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Toqué la guitarra toda la noche.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_09_pc.mp3"
     },
     "fp": {
      "fr": "Voy a tocar la guitarra esta noche.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_09_fp.mp3"
     }
    }
   },
@@ -2081,21 +2081,21 @@ window.SPRACHEN["es-de"] = {
    "de": "in Dauerschleife hören",
    "register": "tu",
    "anker": "escuchar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_10.mp3",
    "satz": {
     "fr": "Llevo tres días escuchando esta canción en bucle.",
     "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "luecke": "en bucle",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Escuché esta canción en bucle todo el fin de semana.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_10_pc.mp3"
     },
     "fp": {
      "fr": "La voy a escuchar en bucle, lo sé.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_10_fp.mp3"
     }
    }
   },
@@ -2106,12 +2106,12 @@ window.SPRACHEN["es-de"] = {
    "de": "einen Ohrwurm haben",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_11.mp3",
    "satz": {
     "fr": "Tengo « Ne me quitte pas » en la cabeza desde esta mañana. Gracias, Aurélien.",
     "de": "Ich habe seit heute Morgen „Ne me quitte pas“ als Ohrwurm. Danke, Aurélien.",
     "luecke": "en la cabeza",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_11.mp3"
    },
    "zeit": null
   },
@@ -2122,21 +2122,21 @@ window.SPRACHEN["es-de"] = {
    "de": "summen",
    "register": "tu",
    "anker": "tararear",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_12.mp3",
    "satz": {
     "fr": "Tarareo mientras corrijo exámenes. Los alumnos no lo saben.",
     "de": "Ich summe beim Korrigieren. Die Schüler wissen das nicht.",
     "luecke": "Tarareo",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Tarareé toda la mañana.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_12_pc.mp3"
     },
     "fp": {
      "fr": "Voy a tararear todo el día.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_12_fp.mp3"
     }
    }
   },
@@ -2147,12 +2147,12 @@ window.SPRACHEN["es-de"] = {
    "de": "der Rhythmus",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_13.mp3",
    "satz": {
     "fr": "El español tiene ritmo: todas las sílabas duran lo mismo.",
     "de": "Das Spanische hat Rhythmus: Alle Silben sind gleich lang.",
     "luecke": "ritmo",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_13.mp3"
    },
    "zeit": null
   },
@@ -2163,12 +2163,12 @@ window.SPRACHEN["es-de"] = {
    "de": "die Satzmelodie",
    "register": "tu",
    "anker": "decir",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_14.mp3",
    "satz": {
     "fr": "¿Lo ves? La pregunta sube. La entonación lo dice todo.",
     "de": "Siehst du? Die Frage steigt. Die Satzmelodie sagt alles.",
     "luecke": "entonación",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_14.mp3"
    },
    "zeit": null
   },
@@ -2179,21 +2179,21 @@ window.SPRACHEN["es-de"] = {
    "de": "aussprechen",
    "register": "tu",
    "anker": "pronunciar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_15.mp3",
    "satz": {
     "fr": "No consigo pronunciar « ferrocarril ». Digo « ferocaril ».",
     "de": "Ich kann „ferrocarril“ nicht aussprechen. Ich sage „ferocaril“.",
     "luecke": "pronunciar",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Pronuncié « ferrocarril » bien. Una vez.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_15_pc.mp3"
     },
     "fp": {
      "fr": "Voy a pronunciar esta palabra cien veces.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_15_fp.mp3"
     }
    }
   },
@@ -2204,12 +2204,12 @@ window.SPRACHEN["es-de"] = {
    "de": "ein Musikstück",
    "register": "tu",
    "anker": "poner",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_16.mp3",
    "satz": {
     "fr": "Esta pieza de piano me pone contento y triste a la vez.",
     "de": "Dieses Klavierstück macht mich gleichzeitig froh und traurig.",
     "luecke": "pieza",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_16.mp3"
    },
    "zeit": null
   },
@@ -2220,12 +2220,12 @@ window.SPRACHEN["es-de"] = {
    "de": "aus voller Kehle",
    "register": "tu",
    "anker": "cantar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_17.mp3",
    "satz": {
     "fr": "En el coche canto a grito pelado. Solo. Siempre solo.",
     "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "luecke": "a grito pelado",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_17.mp3"
    },
    "zeit": null
   },
@@ -2236,12 +2236,12 @@ window.SPRACHEN["es-de"] = {
    "de": "eine tiefe / hohe Stimme",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_18.mp3",
    "satz": {
     "fr": "Él tiene una voz grave, ella una voz aguda, y yo una voz de profe.",
     "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "luecke": "voz grave",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_18.mp3"
    },
    "zeit": null
   },
@@ -2252,21 +2252,21 @@ window.SPRACHEN["es-de"] = {
    "de": "das spricht mich an",
    "register": "tu",
    "anker": "llegar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_19.mp3",
    "satz": {
     "fr": "Esta canción me llega. No lo entiendo todo, pero me llega.",
     "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "luecke": "me llega",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Esta canción me llegó enseguida.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_19_pc.mp3"
     },
     "fp": {
      "fr": "Esta canción te va a llegar, seguro.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_19_fp.mp3"
     }
    }
   },
@@ -2277,21 +2277,21 @@ window.SPRACHEN["es-de"] = {
    "de": "auswendig lernen",
    "register": "tu",
    "anker": "aprender",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_20.mp3",
    "satz": {
     "fr": "Aprendo las letras de memoria; es mi vocabulario preferido.",
     "de": "Ich lerne die Liedtexte auswendig; das ist mein liebstes Vokabular.",
     "luecke": "Aprendo",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_20.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Aprendí el estribillo de memoria.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_20_pc.mp3"
     },
     "fp": {
      "fr": "Voy a aprender toda la canción de memoria.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_20_fp.mp3"
     }
    }
   },
@@ -2302,21 +2302,21 @@ window.SPRACHEN["es-de"] = {
    "de": "das falsche Wort erwischen",
    "register": "tu",
    "anker": "equivocarse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_21.mp3",
    "satz": {
     "fr": "Me equivoco de palabra a menudo, pero la melodía es correcta.",
     "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
     "luecke": "Me equivoco",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_21.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me equivoqué de palabra. Otra vez.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_21_pc.mp3"
     },
     "fp": {
      "fr": "Me voy a equivocar de palabra, seguro.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_21_fp.mp3"
     }
    }
   },
@@ -2327,21 +2327,21 @@ window.SPRACHEN["es-de"] = {
    "de": "das tut mir gut",
    "register": "tu",
    "anker": "sentar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_22.mp3",
    "satz": {
     "fr": "Cantar por la noche me sienta bien.",
     "de": "Abends singen tut mir gut.",
     "luecke": "me sienta bien",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_22.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me sentó bien.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_22_pc.mp3"
     },
     "fp": {
      "fr": "Me va a sentar bien.",
-     "audio": null
+     "audio": "audio/es-de/saetze/mu_22_fp.mp3"
     }
    }
   },
@@ -2352,12 +2352,12 @@ window.SPRACHEN["es-de"] = {
    "de": "eine singende (melodische) Sprache",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_23.mp3",
    "satz": {
     "fr": "El andaluz es un idioma cantarín. Incluso cuando se quejan.",
     "de": "Das Andalusische ist eine singende Sprache. Sogar wenn sie sich beschweren.",
     "luecke": "cantarín",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_23.mp3"
    },
    "zeit": null
   },
@@ -2368,12 +2368,12 @@ window.SPRACHEN["es-de"] = {
    "de": "Könnten Sie das langsamer wiederholen? (höflich)",
    "register": "vous",
    "anker": "poder",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/mu_24.mp3",
    "satz": {
     "fr": "Perdone, ¿podría repetir más despacio? Oigo la música, no las palabras.",
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "podría repetir",
-    "audio": null
+    "audio": "audio/es-de/saetze/mu_24.mp3"
    },
    "zeit": null
   }
@@ -3376,6 +3376,52 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/saetze/ga_23_fp.mp3",
   "audio/es-de/saetze/ga_23_pc.mp3",
   "audio/es-de/saetze/ga_24.mp3",
+  "audio/es-de/saetze/mu_01.mp3",
+  "audio/es-de/saetze/mu_01_fp.mp3",
+  "audio/es-de/saetze/mu_01_pc.mp3",
+  "audio/es-de/saetze/mu_02.mp3",
+  "audio/es-de/saetze/mu_02_fp.mp3",
+  "audio/es-de/saetze/mu_02_pc.mp3",
+  "audio/es-de/saetze/mu_03.mp3",
+  "audio/es-de/saetze/mu_04.mp3",
+  "audio/es-de/saetze/mu_05.mp3",
+  "audio/es-de/saetze/mu_05_fp.mp3",
+  "audio/es-de/saetze/mu_05_pc.mp3",
+  "audio/es-de/saetze/mu_06.mp3",
+  "audio/es-de/saetze/mu_07.mp3",
+  "audio/es-de/saetze/mu_08.mp3",
+  "audio/es-de/saetze/mu_09.mp3",
+  "audio/es-de/saetze/mu_09_fp.mp3",
+  "audio/es-de/saetze/mu_09_pc.mp3",
+  "audio/es-de/saetze/mu_10.mp3",
+  "audio/es-de/saetze/mu_10_fp.mp3",
+  "audio/es-de/saetze/mu_10_pc.mp3",
+  "audio/es-de/saetze/mu_11.mp3",
+  "audio/es-de/saetze/mu_12.mp3",
+  "audio/es-de/saetze/mu_12_fp.mp3",
+  "audio/es-de/saetze/mu_12_pc.mp3",
+  "audio/es-de/saetze/mu_13.mp3",
+  "audio/es-de/saetze/mu_14.mp3",
+  "audio/es-de/saetze/mu_15.mp3",
+  "audio/es-de/saetze/mu_15_fp.mp3",
+  "audio/es-de/saetze/mu_15_pc.mp3",
+  "audio/es-de/saetze/mu_16.mp3",
+  "audio/es-de/saetze/mu_17.mp3",
+  "audio/es-de/saetze/mu_18.mp3",
+  "audio/es-de/saetze/mu_19.mp3",
+  "audio/es-de/saetze/mu_19_fp.mp3",
+  "audio/es-de/saetze/mu_19_pc.mp3",
+  "audio/es-de/saetze/mu_20.mp3",
+  "audio/es-de/saetze/mu_20_fp.mp3",
+  "audio/es-de/saetze/mu_20_pc.mp3",
+  "audio/es-de/saetze/mu_21.mp3",
+  "audio/es-de/saetze/mu_21_fp.mp3",
+  "audio/es-de/saetze/mu_21_pc.mp3",
+  "audio/es-de/saetze/mu_22.mp3",
+  "audio/es-de/saetze/mu_22_fp.mp3",
+  "audio/es-de/saetze/mu_22_pc.mp3",
+  "audio/es-de/saetze/mu_23.mp3",
+  "audio/es-de/saetze/mu_24.mp3",
   "audio/es-de/saetze/pr_01.mp3",
   "audio/es-de/saetze/pr_01_fp.mp3",
   "audio/es-de/saetze/pr_01_pc.mp3",
@@ -3508,6 +3554,30 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/wendungen/ga_22.mp3",
   "audio/es-de/wendungen/ga_23.mp3",
   "audio/es-de/wendungen/ga_24.mp3",
+  "audio/es-de/wendungen/mu_01.mp3",
+  "audio/es-de/wendungen/mu_02.mp3",
+  "audio/es-de/wendungen/mu_03.mp3",
+  "audio/es-de/wendungen/mu_04.mp3",
+  "audio/es-de/wendungen/mu_05.mp3",
+  "audio/es-de/wendungen/mu_06.mp3",
+  "audio/es-de/wendungen/mu_07.mp3",
+  "audio/es-de/wendungen/mu_08.mp3",
+  "audio/es-de/wendungen/mu_09.mp3",
+  "audio/es-de/wendungen/mu_10.mp3",
+  "audio/es-de/wendungen/mu_11.mp3",
+  "audio/es-de/wendungen/mu_12.mp3",
+  "audio/es-de/wendungen/mu_13.mp3",
+  "audio/es-de/wendungen/mu_14.mp3",
+  "audio/es-de/wendungen/mu_15.mp3",
+  "audio/es-de/wendungen/mu_16.mp3",
+  "audio/es-de/wendungen/mu_17.mp3",
+  "audio/es-de/wendungen/mu_18.mp3",
+  "audio/es-de/wendungen/mu_19.mp3",
+  "audio/es-de/wendungen/mu_20.mp3",
+  "audio/es-de/wendungen/mu_21.mp3",
+  "audio/es-de/wendungen/mu_22.mp3",
+  "audio/es-de/wendungen/mu_23.mp3",
+  "audio/es-de/wendungen/mu_24.mp3",
   "audio/es-de/wendungen/pr_01.mp3",
   "audio/es-de/wendungen/pr_02.mp3",
   "audio/es-de/wendungen/pr_03.mp3",
