@@ -5349,56 +5349,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "Hund",
      "de": "chien",
      "klang": "h",
-     "audio": null
+     "audio": "audio/de-fr/laute/h_01.mp3"
     },
     {
      "id": "h_02",
      "wort": "Haus",
      "de": "maison",
      "klang": "h",
-     "audio": null
+     "audio": "audio/de-fr/laute/h_02.mp3"
     },
     {
      "id": "h_03",
      "wort": "hier",
      "de": "ici",
      "klang": "h",
-     "audio": null
+     "audio": "audio/de-fr/laute/h_03.mp3"
     },
     {
      "id": "h_04",
      "wort": "Hand",
      "de": "main",
      "klang": "h",
-     "audio": null
+     "audio": "audio/de-fr/laute/h_04.mp3"
     },
     {
      "id": "h_05",
      "wort": "haben",
      "de": "avoir",
      "klang": "h",
-     "audio": null
+     "audio": "audio/de-fr/laute/h_05.mp3"
     },
     {
      "id": "h_06",
      "wort": "Hallo",
      "de": "salut",
      "klang": "h",
-     "audio": null
+     "audio": "audio/de-fr/laute/h_06.mp3"
     },
     {
      "id": "h_07",
      "wort": "Herz",
      "de": "cœur",
      "klang": "h",
-     "audio": null
+     "audio": "audio/de-fr/laute/h_07.mp3"
     },
     {
      "id": "h_08",
      "wort": "hoffen",
      "de": "espérer",
      "klang": "h",
-     "audio": null
+     "audio": "audio/de-fr/laute/h_08.mp3"
     }
    ],
    "ich": [
@@ -5407,56 +5407,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "ich",
      "de": "je",
      "klang": "ich",
-     "audio": null
+     "audio": "audio/de-fr/laute/ich_01.mp3"
     },
     {
      "id": "ich_02",
      "wort": "nicht",
      "de": "ne … pas",
      "klang": "ich",
-     "audio": null
+     "audio": "audio/de-fr/laute/ich_02.mp3"
     },
     {
      "id": "ich_03",
      "wort": "Milch",
      "de": "lait",
      "klang": "ich",
-     "audio": null
+     "audio": "audio/de-fr/laute/ich_03.mp3"
     },
     {
      "id": "ich_04",
      "wort": "Küche",
      "de": "cuisine",
      "klang": "ich",
-     "audio": null
+     "audio": "audio/de-fr/laute/ich_04.mp3"
     },
     {
      "id": "ich_05",
      "wort": "richtig",
      "de": "juste, correct",
      "klang": "ich",
-     "audio": null
+     "audio": "audio/de-fr/laute/ich_05.mp3"
     },
     {
      "id": "ich_06",
      "wort": "Bücher",
      "de": "livres",
      "klang": "ich",
-     "audio": null
+     "audio": "audio/de-fr/laute/ich_06.mp3"
     },
     {
      "id": "ich_07",
      "wort": "Kirche",
      "de": "église",
      "klang": "ich",
-     "audio": null
+     "audio": "audio/de-fr/laute/ich_07.mp3"
     },
     {
      "id": "ich_08",
      "wort": "Mädchen",
      "de": "fille",
      "klang": "ich",
-     "audio": null
+     "audio": "audio/de-fr/laute/ich_08.mp3"
     }
    ],
    "ach": [
@@ -5465,56 +5465,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "Nacht",
      "de": "nuit",
      "klang": "ach",
-     "audio": null
+     "audio": "audio/de-fr/laute/ach_01.mp3"
     },
     {
      "id": "ach_02",
      "wort": "Buch",
      "de": "livre",
      "klang": "ach",
-     "audio": null
+     "audio": "audio/de-fr/laute/ach_02.mp3"
     },
     {
      "id": "ach_03",
      "wort": "Bach",
      "de": "ruisseau",
      "klang": "ach",
-     "audio": null
+     "audio": "audio/de-fr/laute/ach_03.mp3"
     },
     {
      "id": "ach_04",
      "wort": "machen",
      "de": "faire",
      "klang": "ach",
-     "audio": null
+     "audio": "audio/de-fr/laute/ach_04.mp3"
     },
     {
      "id": "ach_05",
      "wort": "Koch",
      "de": "cuisinier",
      "klang": "ach",
-     "audio": null
+     "audio": "audio/de-fr/laute/ach_05.mp3"
     },
     {
      "id": "ach_06",
      "wort": "auch",
      "de": "aussi",
      "klang": "ach",
-     "audio": null
+     "audio": "audio/de-fr/laute/ach_06.mp3"
     },
     {
      "id": "ach_07",
      "wort": "Kuchen",
      "de": "gâteau",
      "klang": "ach",
-     "audio": null
+     "audio": "audio/de-fr/laute/ach_07.mp3"
     },
     {
      "id": "ach_08",
      "wort": "lachen",
      "de": "rire",
      "klang": "ach",
-     "audio": null
+     "audio": "audio/de-fr/laute/ach_08.mp3"
     }
    ],
    "ei": [
@@ -5523,56 +5523,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "Zeit",
      "de": "temps",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/ei_01.mp3"
     },
     {
      "id": "ei_02",
      "wort": "mein",
      "de": "mon",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/ei_02.mp3"
     },
     {
      "id": "ei_03",
      "wort": "Eis",
      "de": "glace",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/ei_03.mp3"
     },
     {
      "id": "ei_04",
      "wort": "klein",
      "de": "petit",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/ei_04.mp3"
     },
     {
      "id": "ei_05",
      "wort": "Wein",
      "de": "vin",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/ei_05.mp3"
     },
     {
      "id": "ei_06",
      "wort": "Arbeit",
      "de": "travail",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/ei_06.mp3"
     },
     {
      "id": "ei_07",
      "wort": "Freitag",
      "de": "vendredi",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/ei_07.mp3"
     },
     {
      "id": "ei_08",
      "wort": "drei",
      "de": "trois",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/ei_08.mp3"
     }
    ],
    "ie": [
@@ -5581,56 +5581,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "Liebe",
      "de": "amour",
      "klang": "ie",
-     "audio": null
+     "audio": "audio/de-fr/laute/ie_01.mp3"
     },
     {
      "id": "ie_02",
      "wort": "vier",
      "de": "quatre",
      "klang": "ie",
-     "audio": null
+     "audio": "audio/de-fr/laute/ie_02.mp3"
     },
     {
      "id": "ie_03",
      "wort": "Spiel",
      "de": "jeu",
      "klang": "ie",
-     "audio": null
+     "audio": "audio/de-fr/laute/ie_03.mp3"
     },
     {
      "id": "ie_04",
      "wort": "Brief",
      "de": "lettre",
      "klang": "ie",
-     "audio": null
+     "audio": "audio/de-fr/laute/ie_04.mp3"
     },
     {
      "id": "ie_05",
      "wort": "Bier",
      "de": "bière",
      "klang": "ie",
-     "audio": null
+     "audio": "audio/de-fr/laute/ie_05.mp3"
     },
     {
      "id": "ie_06",
      "wort": "Ziel",
      "de": "but, objectif",
      "klang": "ie",
-     "audio": null
+     "audio": "audio/de-fr/laute/ie_06.mp3"
     },
     {
      "id": "ie_07",
      "wort": "Dienstag",
      "de": "mardi",
      "klang": "ie",
-     "audio": null
+     "audio": "audio/de-fr/laute/ie_07.mp3"
     },
     {
      "id": "ie_08",
      "wort": "sieben",
      "de": "sept",
      "klang": "ie",
-     "audio": null
+     "audio": "audio/de-fr/laute/ie_08.mp3"
     }
    ]
   },
@@ -5640,14 +5640,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hund",
     "de": "chien",
     "klang": "h",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p1_01a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_01b",
      "wort": "und",
      "de": "et",
      "klang": "kein",
-     "audio": null
+     "audio": "audio/de-fr/laute/p1_01b.mp3"
     }
    },
    {
@@ -5655,14 +5655,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Haus",
     "de": "maison",
     "klang": "h",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p1_02a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_02b",
      "wort": "aus",
      "de": "de, hors de",
      "klang": "kein",
-     "audio": null
+     "audio": "audio/de-fr/laute/p1_02b.mp3"
     }
    },
    {
@@ -5670,14 +5670,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "hier",
     "de": "ici",
     "klang": "h",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p1_03a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_03b",
      "wort": "ihr",
      "de": "vous, son",
      "klang": "kein",
-     "audio": null
+     "audio": "audio/de-fr/laute/p1_03b.mp3"
     }
    },
    {
@@ -5685,14 +5685,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hals",
     "de": "cou",
     "klang": "h",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p1_04a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_04b",
      "wort": "als",
      "de": "que, quand",
      "klang": "kein",
-     "audio": null
+     "audio": "audio/de-fr/laute/p1_04b.mp3"
     }
    },
    {
@@ -5700,14 +5700,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hecke",
     "de": "haie",
     "klang": "h",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p1_05a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_05b",
      "wort": "Ecke",
      "de": "coin",
      "klang": "kein",
-     "audio": null
+     "audio": "audio/de-fr/laute/p1_05b.mp3"
     }
    },
    {
@@ -5715,14 +5715,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "halt",
     "de": "arrête",
     "klang": "h",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p1_06a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_06b",
      "wort": "alt",
      "de": "vieux",
      "klang": "kein",
-     "audio": null
+     "audio": "audio/de-fr/laute/p1_06b.mp3"
     }
    },
    {
@@ -5730,14 +5730,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "hoffen",
     "de": "espérer",
     "klang": "h",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p1_07a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_07b",
      "wort": "offen",
      "de": "ouvert",
      "klang": "kein",
-     "audio": null
+     "audio": "audio/de-fr/laute/p1_07b.mp3"
     }
    },
    {
@@ -5745,14 +5745,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Herz",
     "de": "cœur",
     "klang": "h",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p1_08a.mp3",
     "gruppe": "p1",
     "b": {
      "id": "p1_08b",
      "wort": "Erz",
      "de": "minerai",
      "klang": "kein",
-     "audio": null
+     "audio": "audio/de-fr/laute/p1_08b.mp3"
     }
    },
    {
@@ -5760,14 +5760,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Biene",
     "de": "abeille",
     "klang": "ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p2_01a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_01b",
      "wort": "Beine",
      "de": "jambes",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/p2_01b.mp3"
     }
    },
    {
@@ -5775,14 +5775,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Wiese",
     "de": "prairie",
     "klang": "ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p2_02a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_02b",
      "wort": "Weise",
      "de": "manière, sage",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/p2_02b.mp3"
     }
    },
    {
@@ -5790,14 +5790,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Lied",
     "de": "chanson",
     "klang": "ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p2_03a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_03b",
      "wort": "Leid",
      "de": "peine",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/p2_03b.mp3"
     }
    },
    {
@@ -5805,14 +5805,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Riese",
     "de": "géant",
     "klang": "ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p2_04a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_04b",
      "wort": "Reise",
      "de": "voyage",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/p2_04b.mp3"
     }
    },
    {
@@ -5820,14 +5820,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Miene",
     "de": "mine (visage)",
     "klang": "ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p2_05a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_05b",
      "wort": "meine",
      "de": "ma, mes",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/p2_05b.mp3"
     }
    },
    {
@@ -5835,14 +5835,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "schien",
     "de": "semblait",
     "klang": "ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p2_06a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_06b",
      "wort": "Schein",
      "de": "lueur, billet",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/p2_06b.mp3"
     }
    },
    {
@@ -5850,14 +5850,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Lieder",
     "de": "chansons",
     "klang": "ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p2_07a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_07b",
      "wort": "leider",
      "de": "malheureusement",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/p2_07b.mp3"
     }
    },
    {
@@ -5865,14 +5865,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Stiel",
     "de": "manche, tige",
     "klang": "ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p2_08a.mp3",
     "gruppe": "p2",
     "b": {
      "id": "p2_08b",
      "wort": "steil",
      "de": "raide",
      "klang": "ei",
-     "audio": null
+     "audio": "audio/de-fr/laute/p2_08b.mp3"
     }
    },
    {
@@ -5880,14 +5880,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Stadt",
     "de": "ville",
     "klang": "kurz",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p3_01a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_01b",
      "wort": "Staat",
      "de": "État",
      "klang": "lang",
-     "audio": null
+     "audio": "audio/de-fr/laute/p3_01b.mp3"
     }
    },
    {
@@ -5895,14 +5895,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Bann",
     "de": "bannissement",
     "klang": "kurz",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p3_02a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_02b",
      "wort": "Bahn",
      "de": "train, voie",
      "klang": "lang",
-     "audio": null
+     "audio": "audio/de-fr/laute/p3_02b.mp3"
     }
    },
    {
@@ -5910,14 +5910,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hölle",
     "de": "enfer",
     "klang": "kurz",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p3_03a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_03b",
      "wort": "Höhle",
      "de": "grotte",
      "klang": "lang",
-     "audio": null
+     "audio": "audio/de-fr/laute/p3_03b.mp3"
     }
    },
    {
@@ -5925,14 +5925,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "offen",
     "de": "ouvert",
     "klang": "kurz",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p3_04a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_04b",
      "wort": "Ofen",
      "de": "four",
      "klang": "lang",
-     "audio": null
+     "audio": "audio/de-fr/laute/p3_04b.mp3"
     }
    },
    {
@@ -5940,14 +5940,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Mitte",
     "de": "milieu",
     "klang": "kurz",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p3_05a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_05b",
      "wort": "Miete",
      "de": "loyer",
      "klang": "lang",
-     "audio": null
+     "audio": "audio/de-fr/laute/p3_05b.mp3"
     }
    },
    {
@@ -5955,14 +5955,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hütte",
     "de": "cabane",
     "klang": "kurz",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p3_06a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_06b",
      "wort": "Hüte",
      "de": "chapeaux",
      "klang": "lang",
-     "audio": null
+     "audio": "audio/de-fr/laute/p3_06b.mp3"
     }
    },
    {
@@ -5970,14 +5970,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Kamm",
     "de": "peigne",
     "klang": "kurz",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p3_07a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_07b",
      "wort": "kam",
      "de": "venait",
      "klang": "lang",
-     "audio": null
+     "audio": "audio/de-fr/laute/p3_07b.mp3"
     }
    },
    {
@@ -5985,14 +5985,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "bitten",
     "de": "demander",
     "klang": "kurz",
-    "audio": null,
+    "audio": "audio/de-fr/laute/p3_08a.mp3",
     "gruppe": "p3",
     "b": {
      "id": "p3_08b",
      "wort": "bieten",
      "de": "offrir",
      "klang": "lang",
-     "audio": null
+     "audio": "audio/de-fr/laute/p3_08b.mp3"
     }
    }
   ],
@@ -6002,7 +6002,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Eichhörnchen",
     "de": "écureuil",
     "klang": "ei,ich,h,ich",
-    "audio": null,
+    "audio": "audio/de-fr/laute/b_01.mp3",
     "markup": "{ei|Ei}{ich|ch}{h|h}örn{ich|ch}en",
     "klaenge": [
      "ei",
@@ -6016,7 +6016,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "heimlich",
     "de": "en cachette",
     "klang": "h,ei,ich",
-    "audio": null,
+    "audio": "audio/de-fr/laute/b_02.mp3",
     "markup": "{h|h}{ei|ei}ml{ich|ich}",
     "klaenge": [
      "h",
@@ -6029,7 +6029,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "hoch",
     "de": "haut",
     "klang": "h,ach",
-    "audio": null,
+    "audio": "audio/de-fr/laute/b_03.mp3",
     "markup": "{h|h}o{ach|ch}",
     "klaenge": [
      "h",
@@ -6041,7 +6041,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "einfach",
     "de": "simple",
     "klang": "ei,ach",
-    "audio": null,
+    "audio": "audio/de-fr/laute/b_04.mp3",
     "markup": "{ei|ei}nfa{ach|ch}",
     "klaenge": [
      "ei",
@@ -6053,7 +6053,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "hier",
     "de": "ici",
     "klang": "h,ie",
-    "audio": null,
+    "audio": "audio/de-fr/laute/b_05.mp3",
     "markup": "{h|h}{ie|ie}r",
     "klaenge": [
      "h",
@@ -6065,7 +6065,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "niedlich",
     "de": "mignon",
     "klang": "ie,ich",
-    "audio": null,
+    "audio": "audio/de-fr/laute/b_06.mp3",
     "markup": "n{ie|ie}dl{ich|ich}",
     "klaenge": [
      "ie",
@@ -6077,7 +6077,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "herrlich",
     "de": "magnifique",
     "klang": "h,ich",
-    "audio": null,
+    "audio": "audio/de-fr/laute/b_07.mp3",
     "markup": "{h|h}errl{ich|ich}",
     "klaenge": [
      "h",
@@ -6089,7 +6089,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Freiheit",
     "de": "liberté",
     "klang": "ei,h,ei",
-    "audio": null,
+    "audio": "audio/de-fr/laute/b_08.mp3",
     "markup": "Fr{ei|ei}{h|h}{ei|ei}t",
     "klaenge": [
      "ei",
@@ -9971,6 +9971,102 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/geschichte/k03_13.mp3",
   "audio/de-fr/geschichte/k03_14.mp3",
   "audio/de-fr/geschichte/k03_15.mp3",
+  "audio/de-fr/laute/ach_01.mp3",
+  "audio/de-fr/laute/ach_02.mp3",
+  "audio/de-fr/laute/ach_03.mp3",
+  "audio/de-fr/laute/ach_04.mp3",
+  "audio/de-fr/laute/ach_05.mp3",
+  "audio/de-fr/laute/ach_06.mp3",
+  "audio/de-fr/laute/ach_07.mp3",
+  "audio/de-fr/laute/ach_08.mp3",
+  "audio/de-fr/laute/b_01.mp3",
+  "audio/de-fr/laute/b_02.mp3",
+  "audio/de-fr/laute/b_03.mp3",
+  "audio/de-fr/laute/b_04.mp3",
+  "audio/de-fr/laute/b_05.mp3",
+  "audio/de-fr/laute/b_06.mp3",
+  "audio/de-fr/laute/b_07.mp3",
+  "audio/de-fr/laute/b_08.mp3",
+  "audio/de-fr/laute/ei_01.mp3",
+  "audio/de-fr/laute/ei_02.mp3",
+  "audio/de-fr/laute/ei_03.mp3",
+  "audio/de-fr/laute/ei_04.mp3",
+  "audio/de-fr/laute/ei_05.mp3",
+  "audio/de-fr/laute/ei_06.mp3",
+  "audio/de-fr/laute/ei_07.mp3",
+  "audio/de-fr/laute/ei_08.mp3",
+  "audio/de-fr/laute/h_01.mp3",
+  "audio/de-fr/laute/h_02.mp3",
+  "audio/de-fr/laute/h_03.mp3",
+  "audio/de-fr/laute/h_04.mp3",
+  "audio/de-fr/laute/h_05.mp3",
+  "audio/de-fr/laute/h_06.mp3",
+  "audio/de-fr/laute/h_07.mp3",
+  "audio/de-fr/laute/h_08.mp3",
+  "audio/de-fr/laute/ich_01.mp3",
+  "audio/de-fr/laute/ich_02.mp3",
+  "audio/de-fr/laute/ich_03.mp3",
+  "audio/de-fr/laute/ich_04.mp3",
+  "audio/de-fr/laute/ich_05.mp3",
+  "audio/de-fr/laute/ich_06.mp3",
+  "audio/de-fr/laute/ich_07.mp3",
+  "audio/de-fr/laute/ich_08.mp3",
+  "audio/de-fr/laute/ie_01.mp3",
+  "audio/de-fr/laute/ie_02.mp3",
+  "audio/de-fr/laute/ie_03.mp3",
+  "audio/de-fr/laute/ie_04.mp3",
+  "audio/de-fr/laute/ie_05.mp3",
+  "audio/de-fr/laute/ie_06.mp3",
+  "audio/de-fr/laute/ie_07.mp3",
+  "audio/de-fr/laute/ie_08.mp3",
+  "audio/de-fr/laute/p1_01a.mp3",
+  "audio/de-fr/laute/p1_01b.mp3",
+  "audio/de-fr/laute/p1_02a.mp3",
+  "audio/de-fr/laute/p1_02b.mp3",
+  "audio/de-fr/laute/p1_03a.mp3",
+  "audio/de-fr/laute/p1_03b.mp3",
+  "audio/de-fr/laute/p1_04a.mp3",
+  "audio/de-fr/laute/p1_04b.mp3",
+  "audio/de-fr/laute/p1_05a.mp3",
+  "audio/de-fr/laute/p1_05b.mp3",
+  "audio/de-fr/laute/p1_06a.mp3",
+  "audio/de-fr/laute/p1_06b.mp3",
+  "audio/de-fr/laute/p1_07a.mp3",
+  "audio/de-fr/laute/p1_07b.mp3",
+  "audio/de-fr/laute/p1_08a.mp3",
+  "audio/de-fr/laute/p1_08b.mp3",
+  "audio/de-fr/laute/p2_01a.mp3",
+  "audio/de-fr/laute/p2_01b.mp3",
+  "audio/de-fr/laute/p2_02a.mp3",
+  "audio/de-fr/laute/p2_02b.mp3",
+  "audio/de-fr/laute/p2_03a.mp3",
+  "audio/de-fr/laute/p2_03b.mp3",
+  "audio/de-fr/laute/p2_04a.mp3",
+  "audio/de-fr/laute/p2_04b.mp3",
+  "audio/de-fr/laute/p2_05a.mp3",
+  "audio/de-fr/laute/p2_05b.mp3",
+  "audio/de-fr/laute/p2_06a.mp3",
+  "audio/de-fr/laute/p2_06b.mp3",
+  "audio/de-fr/laute/p2_07a.mp3",
+  "audio/de-fr/laute/p2_07b.mp3",
+  "audio/de-fr/laute/p2_08a.mp3",
+  "audio/de-fr/laute/p2_08b.mp3",
+  "audio/de-fr/laute/p3_01a.mp3",
+  "audio/de-fr/laute/p3_01b.mp3",
+  "audio/de-fr/laute/p3_02a.mp3",
+  "audio/de-fr/laute/p3_02b.mp3",
+  "audio/de-fr/laute/p3_03a.mp3",
+  "audio/de-fr/laute/p3_03b.mp3",
+  "audio/de-fr/laute/p3_04a.mp3",
+  "audio/de-fr/laute/p3_04b.mp3",
+  "audio/de-fr/laute/p3_05a.mp3",
+  "audio/de-fr/laute/p3_05b.mp3",
+  "audio/de-fr/laute/p3_06a.mp3",
+  "audio/de-fr/laute/p3_06b.mp3",
+  "audio/de-fr/laute/p3_07a.mp3",
+  "audio/de-fr/laute/p3_07b.mp3",
+  "audio/de-fr/laute/p3_08a.mp3",
+  "audio/de-fr/laute/p3_08b.mp3",
   "audio/de-fr/lob/doch_siehst_du.mp3",
   "audio/de-fr/lob/fehler_diesmal_nicht.mp3",
   "audio/de-fr/lob/fehler_fast.mp3",
