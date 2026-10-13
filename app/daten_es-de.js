@@ -315,6 +315,38 @@ window.SPRACHEN["es-de"] = {
     "se_23",
     "se_24"
    ]
+  },
+  {
+   "id": "gatos",
+   "name": "Los gatos",
+   "de": "Die Katzen",
+   "symbol": "🐈",
+   "wendungen": [
+    "ga_01",
+    "ga_02",
+    "ga_03",
+    "ga_04",
+    "ga_05",
+    "ga_06",
+    "ga_07",
+    "ga_08",
+    "ga_09",
+    "ga_10",
+    "ga_11",
+    "ga_12",
+    "ga_13",
+    "ga_14",
+    "ga_15",
+    "ga_16",
+    "ga_17",
+    "ga_18",
+    "ga_19",
+    "ga_20",
+    "ga_21",
+    "ga_22",
+    "ga_23",
+    "ga_24"
+   ]
   }
  ],
  "wendungen": [
@@ -1308,6 +1340,525 @@ window.SPRACHEN["es-de"] = {
     "de": "Es tut mir sehr leid, Señora, ich wollte Sie nicht stören.",
     "luecke": "Lo siento mucho",
     "audio": "audio/es-de/saetze/se_24.mp3"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_01",
+   "thema": "gatos",
+   "fr": "ronronear",
+   "de": "schnurren",
+   "register": "tu",
+   "anker": "ronronear",
+   "audio": null,
+   "satz": {
+    "fr": "Mi gato ronronea en cuanto me siento.",
+    "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
+    "luecke": "ronronea",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mi gato ronroneó en cuanto me senté.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mi gato va a ronronear en cuanto me siente.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_02",
+   "thema": "gatos",
+   "fr": "hacer mimos",
+   "de": "schmusen, kuscheln",
+   "register": "tu",
+   "anker": "hacer",
+   "audio": null,
+   "satz": {
+    "fr": "Por la noche viene a hacerme mimos en el sofá.",
+    "de": "Abends kommt sie auf dem Sofa zu mir zum Schmusen.",
+    "luecke": "hacerme mimos",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Anoche vino a hacerme mimos.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Esta noche va a venir a hacerme mimos.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_03",
+   "thema": "gatos",
+   "fr": "arañar",
+   "de": "kratzen (mit Krallen)",
+   "register": "tu",
+   "anker": "arañar",
+   "audio": null,
+   "satz": {
+    "fr": "Cuidado, araña si lo acaricias demasiado tiempo.",
+    "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
+    "luecke": "araña",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Me arañó cuando lo acaricié demasiado.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Te va a arañar si lo acaricias demasiado.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_04",
+   "thema": "gatos",
+   "fr": "asearse",
+   "de": "sich putzen",
+   "register": "tu",
+   "anker": "asearse",
+   "audio": null,
+   "satz": {
+    "fr": "Después de comer, se asea durante diez minutos.",
+    "de": "Nach dem Essen putzt er sich zehn Minuten lang.",
+    "luecke": "se asea",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Después de comer, se aseó diez minutos.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Después de comer, se va a asear.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_05",
+   "thema": "gatos",
+   "fr": "maullar",
+   "de": "miauen",
+   "register": "tu",
+   "anker": "maullar",
+   "audio": null,
+   "satz": {
+    "fr": "Maúlla delante de la puerta de la cocina a las seis de la mañana.",
+    "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
+    "luecke": "Maúlla",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Maulló delante de la puerta a las seis.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Va a maullar delante de la puerta a las seis.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_06",
+   "thema": "gatos",
+   "fr": "tener hambre",
+   "de": "Hunger haben",
+   "register": "tu",
+   "anker": "tener",
+   "audio": null,
+   "satz": {
+    "fr": "Según él, siempre tiene hambre.",
+    "de": "Wenn es nach ihm geht, hat er immer Hunger.",
+    "luecke": "tiene hambre",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Según él, tuvo hambre todo el día.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Según él, va a tener hambre dentro de cinco minutos.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_07",
+   "thema": "gatos",
+   "fr": "acariciar",
+   "de": "streicheln",
+   "register": "tu",
+   "anker": "acariciar",
+   "audio": null,
+   "satz": {
+    "fr": "Acaricio a mi gata detrás de las orejas; le encanta.",
+    "de": "Ich streichle meine Katze hinter den Ohren; das liebt sie.",
+    "luecke": "Acaricio",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "La acaricié detrás de las orejas.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "La voy a acariciar detrás de las orejas.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_08",
+   "thema": "gatos",
+   "fr": "afilarse las uñas",
+   "de": "seine Krallen wetzen",
+   "register": "tu",
+   "anker": "afilarse",
+   "audio": null,
+   "satz": {
+    "fr": "Se afila las uñas en el sillón, nunca en el rascador.",
+    "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
+    "luecke": "Se afila las uñas",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Se afiló las uñas en el sillón.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Se va a afilar las uñas en el sillón, seguro.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_09",
+   "thema": "gatos",
+   "fr": "un felino",
+   "de": "ein Katzentier, eine Raubkatze",
+   "register": "tu",
+   "anker": "ser",
+   "audio": null,
+   "satz": {
+    "fr": "Un gato es un pequeño felino que decidió vivir con nosotros.",
+    "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
+    "luecke": "felino",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_10",
+   "thema": "gatos",
+   "fr": "echar la siesta",
+   "de": "ein Nickerchen machen",
+   "register": "tu",
+   "anker": "echar",
+   "audio": null,
+   "satz": {
+    "fr": "Mi gato echa la siesta dieciséis horas al día. Qué vida.",
+    "de": "Meine Katze macht sechzehn Stunden am Tag Nickerchen. Was für ein Leben.",
+    "luecke": "echa la siesta",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mi gato echó la siesta todo el día.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mi gato va a echar la siesta todo el día.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_11",
+   "thema": "gatos",
+   "fr": "restregarse contra",
+   "de": "sich reiben an",
+   "register": "tu",
+   "anker": "restregarse",
+   "audio": null,
+   "satz": {
+    "fr": "Se restriega contra mis piernas cuando llego a casa.",
+    "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
+    "luecke": "Se restriega contra",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Se restregó contra mis piernas cuando llegué.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Se va a restregar contra mis piernas cuando llegue.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_12",
+   "thema": "gatos",
+   "fr": "el pienso",
+   "de": "das Trockenfutter",
+   "register": "tu",
+   "anker": "preferir",
+   "audio": null,
+   "satz": {
+    "fr": "Prefiere el pienso del vecino al suyo.",
+    "de": "Er mag das Trockenfutter des Nachbarn lieber als seins.",
+    "luecke": "pienso",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_13",
+   "thema": "gatos",
+   "fr": "la comida húmeda",
+   "de": "das Nassfutter",
+   "register": "tu",
+   "anker": "saber",
+   "audio": null,
+   "satz": {
+    "fr": "A mediodía toca comida húmeda, y él lo sabe.",
+    "de": "Mittags gibt es Nassfutter, und das weiß er.",
+    "luecke": "comida húmeda",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_14",
+   "thema": "gatos",
+   "fr": "tener una mirada",
+   "de": "einen Blick haben",
+   "register": "tu",
+   "anker": "tener",
+   "audio": null,
+   "satz": {
+    "fr": "Tiene una mirada que dice: « Llegas tarde ».",
+    "de": "Sie hat einen Blick, der sagt: „Du bist spät dran.“",
+    "luecke": "Tiene una mirada",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_15",
+   "thema": "gatos",
+   "fr": "saltar a",
+   "de": "springen auf",
+   "register": "tu",
+   "anker": "saltar",
+   "audio": null,
+   "satz": {
+    "fr": "Salta a la mesa mientras corrijo exámenes.",
+    "de": "Er springt auf den Tisch, während ich Arbeiten korrigiere.",
+    "luecke": "Salta a",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Saltó a la mesa mientras corregía.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Va a saltar a la mesa, como siempre.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_16",
+   "thema": "gatos",
+   "fr": "esconderse",
+   "de": "sich verstecken",
+   "register": "tu",
+   "anker": "esconderse",
+   "audio": null,
+   "satz": {
+    "fr": "Cuando sale la aspiradora, se esconde debajo de la cama.",
+    "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unterm Bett.",
+    "luecke": "se esconde",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Cuando salió la aspiradora, se escondió debajo de la cama.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Cuando salga la aspiradora, se va a esconder debajo de la cama.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_17",
+   "thema": "gatos",
+   "fr": "hacer compañía",
+   "de": "Gesellschaft leisten",
+   "register": "tu",
+   "anker": "hacer",
+   "audio": null,
+   "satz": {
+    "fr": "Mis gatos me hacen compañía cuando preparo las clases.",
+    "de": "Meine Katzen leisten mir Gesellschaft, wenn ich Unterricht vorbereite.",
+    "luecke": "me hacen compañía",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mis gatos me hicieron compañía toda la tarde.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Mis gatos me van a hacer compañía esta tarde.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_18",
+   "thema": "gatos",
+   "fr": "un gato callejero",
+   "de": "eine Straßenkatze, Hauskatze ohne Rasse",
+   "register": "tu",
+   "anker": "ser",
+   "audio": null,
+   "satz": {
+    "fr": "No es un gato de raza, es un gato callejero, y es perfecto.",
+    "de": "Es ist keine Rassekatze, es ist eine Straßenkatze, und er ist perfekt.",
+    "luecke": "gato callejero",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_19",
+   "thema": "gatos",
+   "fr": "hacer travesuras",
+   "de": "Unsinn anstellen",
+   "register": "tu",
+   "anker": "hacer",
+   "audio": null,
+   "satz": {
+    "fr": "Cuando no estoy, hacen travesuras.",
+    "de": "Wenn ich nicht da bin, stellen sie Unsinn an.",
+    "luecke": "hacen travesuras",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Cuando no estaba, hicieron travesuras.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Cuando no esté, van a hacer travesuras.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_20",
+   "thema": "gatos",
+   "fr": "el veterinario",
+   "de": "der Tierarzt",
+   "register": "tu",
+   "anker": "volverse",
+   "audio": null,
+   "satz": {
+    "fr": "En el veterinario, mi gato se vuelve muy, muy tranquilo.",
+    "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
+    "luecke": "veterinario",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_21",
+   "thema": "gatos",
+   "fr": "no le importa",
+   "de": "das stört ihn nicht",
+   "register": "tu",
+   "anker": "importar",
+   "audio": null,
+   "satz": {
+    "fr": "Desafino, pero a él no le importa. Bueno, creo.",
+    "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich zumindest.",
+    "luecke": "no le importa",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_22",
+   "thema": "gatos",
+   "fr": "ser independiente",
+   "de": "unabhängig sein",
+   "register": "tu",
+   "anker": "ser",
+   "audio": null,
+   "satz": {
+    "fr": "Un gato es independiente. Vuelve cuando tiene hambre.",
+    "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
+    "luecke": "independiente",
+    "audio": null
+   },
+   "zeit": null
+  },
+  {
+   "id": "ga_23",
+   "thema": "gatos",
+   "fr": "ronronear de gusto",
+   "de": "vor Wohlbehagen schnurren",
+   "register": "tu",
+   "anker": "ronronear",
+   "audio": null,
+   "satz": {
+    "fr": "Al sol, ronronea de gusto con los ojos cerrados.",
+    "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
+    "luecke": "ronronea de gusto",
+    "audio": null
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Al sol, ronroneó de gusto.",
+     "audio": null
+    },
+    "fp": {
+     "fr": "Al sol, va a ronronear de gusto.",
+     "audio": null
+    }
+   }
+  },
+  {
+   "id": "ga_24",
+   "thema": "gatos",
+   "fr": "¿Tiene usted gato?",
+   "de": "Haben Sie eine Katze? (höflich)",
+   "register": "vous",
+   "anker": "tener",
+   "audio": null,
+   "satz": {
+    "fr": "Perdone, señora, ¿tiene usted gato? Hay uno en su tejado.",
+    "de": "Entschuldigung, Señora, haben Sie eine Katze? Da sitzt eine auf Ihrem Dach.",
+    "luecke": "tiene usted gato",
+    "audio": null
    },
    "zeit": null
   }

@@ -16,6 +16,7 @@ THEME = {"blau": "#8a1c1c", "rot": "#e0a800"}   # Rot und Gold
 THEMEN = [
     {"id": "profes", "name": "Entre profes", "de": "Unter Lehrern – mit Diego", "symbol": "🧑‍🏫", "datei": "entre_profes.tsv"},
     {"id": "sentimientos", "name": "Sentimientos y ambientes", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "sentimientos.tsv"},
+    {"id": "gatos", "name": "Los gatos", "de": "Die Katzen", "symbol": "🐈", "datei": "gatos.tsv"},
 ]
 
 # Titel – Tapas-Leiter
