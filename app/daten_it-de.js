@@ -860,21 +860,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "toccare",
    "notiz": "toccare = berühren, auch gefühlsmäßig; Vorsicht: mi tocca + Infinitiv = ich muss (mi tocca correggere = ich muss korrigieren). Hier: mi tocca il cuore.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_01.mp3",
    "satz": {
     "fr": "Questa canzone mi tocca ogni volta che la sento.",
     "de": "Dieses Lied berührt mich jedes Mal, wenn ich es höre.",
     "luecke": "mi tocca",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Questa canzone mi ha toccato.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_01_pc.mp3"
     },
     "fp": {
      "fr": "Questa canzone mi toccherà, lo so.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_01_fp.mp3"
     }
    }
   },
@@ -886,21 +886,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "wörtlich „unten an Moral sein“ (il morale = die Stimmung, Moral – männlich! la morale = die Moral als Ethik); auch: essere giù, essere a terra.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_02.mp3",
    "satz": {
     "fr": "La domenica sera sono spesso giù di morale.",
     "de": "Sonntagabends bin ich oft niedergeschlagen.",
     "luecke": "giù di morale",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Domenica ero giù di morale.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_02_pc.mp3"
     },
     "fp": {
      "fr": "Domenica sarò giù di morale, come sempre.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_02_fp.mp3"
     }
    }
   },
@@ -912,12 +912,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "piacere",
    "notiz": "cupo = düster, dumpf (Stimmung, Farbe, Klang); scuro = dunkel (Licht). Plural weiblich: cupe. mi piacciono = Plural, weil le storie.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_03.mp3",
    "satz": {
     "fr": "Mi piacciono le storie cupe, con un bosco e un segreto.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "cupe",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_03.mp3"
    },
    "zeit": null
   },
@@ -929,12 +929,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "la malinconia (mit i nach l, anders als im Deutschen); Betonung: malin-CO-nico. così bello = so schön.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_04.mp3",
    "satz": {
     "fr": "Questo pezzo per pianoforte è malinconico, ma così bello.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "malinconico",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_04.mp3"
    },
    "zeit": null
   },
@@ -946,21 +946,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "spezzare",
    "notiz": "spezzare = zerbrechen, brechen (un pezzo = ein Stück); auch mi si stringe il cuore = mir zieht sich das Herz zusammen. vedere + Infinitiv.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_05.mp3",
    "satz": {
     "fr": "Vedere un bambino piangere da solo mi spezza il cuore.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "mi spezza il cuore",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mi ha spezzato il cuore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_05_pc.mp3"
     },
     "fp": {
      "fr": "Mi spezzerà il cuore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_05_fp.mp3"
     }
    }
   },
@@ -972,12 +972,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "commosso = Partizip von commuovere (rühren); commovente = rührend. Nicht „aufgeregt“ – das wäre agitato oder emozionato (emozionato = aufgeregt und bewegt!).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_06.mp3",
    "satz": {
     "fr": "Alla fine del concerto ero commosso fino alle lacrime.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "commosso",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_06.mp3"
    },
    "zeit": null
   },
@@ -989,12 +989,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "von inquietare = beunruhigen (quieto = still, ruhig); inquieto = unruhig, besorgt. Imperfetto era = Beschreibung.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_07.mp3",
    "satz": {
     "fr": "La casa era silenziosa. Era inquietante.",
     "de": "Das Haus war still. Es war unheimlich.",
     "luecke": "inquietante",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_07.mp3"
    },
    "zeit": null
   },
@@ -1006,12 +1006,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "von rilassare = entspannen; rilassarsi = sich entspannen; rilassati! = entspann dich! le fusa = das Schnurren (immer Plural!).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_08.mp3",
    "satz": {
     "fr": "Le fusa del mio gatto sono rilassanti.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "rilassanti",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_08.mp3"
    },
    "zeit": null
   },
@@ -1023,21 +1023,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „die Tränen an den Augen haben“ – avere + Körperzustand ohne Possessiv (wie frz. avoir les larmes aux yeux). sentire = hören und fühlen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_09.mp3",
    "satz": {
     "fr": "Quando sento quella voce, ho le lacrime agli occhi.",
     "de": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "luecke": "ho le lacrime agli occhi",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_09.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo le lacrime agli occhi.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_09_pc.mp3"
     },
     "fp": {
      "fr": "Avrò le lacrime agli occhi.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_09_fp.mp3"
     }
    }
   },
@@ -1049,21 +1049,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "wörtlich „es lässt mir die Gänsehaut kommen“ (la pelle d'oca = Gänsehaut, wie im Deutschen; l'oca = Gans). fare venire = kommen lassen, auslösen.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_10.mp3",
    "satz": {
     "fr": "Il ritornello mi fa venire la pelle d'oca.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "mi fa venire la pelle d'oca",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Il ritornello mi ha fatto venire la pelle d'oca.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_10_pc.mp3"
     },
     "fp": {
      "fr": "Il ritornello mi farà venire la pelle d'oca.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_10_fp.mp3"
     }
    }
   },
@@ -1075,21 +1075,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "avere paura di + Nomen/Infinitiv; di + il = del: paura del buio. non … ma = nicht … sondern. il buio = die Dunkelheit.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_11.mp3",
    "satz": {
     "fr": "Non ho paura del buio, ma del silenzio.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "ho paura",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Non avevo paura del buio.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_11_pc.mp3"
     },
     "fp": {
      "fr": "Non avrò paura del buio.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_11_fp.mp3"
     }
    }
   },
@@ -1101,21 +1101,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "l'umore (männlich) = die Laune – nicht l'umorismo (Humor)! buon vor Vokal/Konsonant verkürzt (buono → buon). stamattina = questa mattina.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_12.mp3",
    "satz": {
     "fr": "Stamattina sono di buon umore: c'è il sole.",
     "de": "Heute Morgen bin ich gut gelaunt: Die Sonne ist da.",
     "luecke": "di buon umore",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_12.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Stamattina ero di buon umore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_12_pc.mp3"
     },
     "fp": {
      "fr": "Domani sarò di buon umore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_12_fp.mp3"
     }
    }
   },
@@ -1127,12 +1127,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "non parlargli = verneinter Imperativ (non + Infinitiv!) mit angehängtem gli (ihm). cattivo = schlecht, böse; auch: di pessimo umore.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_13.mp3",
    "satz": {
     "fr": "Non parlargli, è di cattivo umore.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "di cattivo umore",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_13.mp3"
    },
    "zeit": null
   },
@@ -1144,21 +1144,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "mancare",
    "notiz": "umgekehrt zum Deutschen: mancare a qualcuno – die Sache ist Subjekt: i gatti mi mancano. mi manchi = ich vermisse dich. Passato prossimo mit essere.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_14.mp3",
    "satz": {
     "fr": "I miei gatti mi mancano quando sono in viaggio.",
     "de": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
     "luecke": "mi mancano",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_14.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "I miei gatti mi sono mancati.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_14_pc.mp3"
     },
     "fp": {
      "fr": "I miei gatti mi mancheranno.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_14_fp.mp3"
     }
    }
   },
@@ -1170,21 +1170,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „ein Gewicht auf dem Herzen haben“; auch avere il cuore pesante. la giornata = der Tag als Verlauf (wie frz. journée).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_15.mp3",
    "satz": {
     "fr": "Dopo questa giornata ho un peso sul cuore.",
     "de": "Nach diesem Tag ist mir schwer ums Herz.",
     "luecke": "ho un peso sul cuore",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo un peso sul cuore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_15_pc.mp3"
     },
     "fp": {
      "fr": "Avrò un peso sul cuore.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_15_fp.mp3"
     }
    }
   },
@@ -1196,12 +1196,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "von toccare = berühren; commovente = rührend, struggente = herzzerreißend. il finale = das Ende (Film, Spiel) – la finale = das Finale (Sport).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_16.mp3",
    "satz": {
     "fr": "Il finale del film è toccante.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "toccante",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_16.mp3"
    },
    "zeit": null
   },
@@ -1213,21 +1213,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sentirsi",
    "notiz": "sentirsi + Adverb/Adjektiv: mi sento bene, male, stanco. Ohne si: sentire = hören, fühlen, riechen (sento il caffè).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_17.mp3",
    "satz": {
     "fr": "Dopo il kung fu mi sento bene, leggero.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "mi sento bene",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo il kung fu mi sono sentito bene.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_17_pc.mp3"
     },
     "fp": {
      "fr": "Dopo il kung fu mi sentirò bene.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_17_fp.mp3"
     }
    }
   },
@@ -1239,21 +1239,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il magone = der Kloß im Hals, die Beklemmung (norditalienisch, aus dem Lombardischen: „Magen“!); avere il magone = bedrückt sein. è partita = partire mit essere.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_18.mp3",
    "satz": {
     "fr": "È partita, e ho il magone.",
     "de": "Sie ist gegangen, und ich habe einen Kloß im Hals.",
     "luecke": "ho il magone",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_18.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo il magone.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_18_pc.mp3"
     },
     "fp": {
      "fr": "Avrò il magone.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_18_fp.mp3"
     }
    }
   },
@@ -1265,21 +1265,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "rendere",
    "notiz": "rendere + Adjektiv = zu etwas machen: mi rende triste, felice, nervoso. Nie fare: „mi fa triste“ ist falsch. Partizip reso.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_19.mp3",
    "satz": {
     "fr": "La pioggia su Bologna mi rende un po' triste.",
     "de": "Der Regen über Bologna macht mich ein bisschen traurig.",
     "luecke": "mi rende",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "La pioggia mi ha reso un po' triste.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_19_pc.mp3"
     },
     "fp": {
      "fr": "La pioggia mi renderà un po' triste.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_19_fp.mp3"
     }
    }
   },
@@ -1291,12 +1291,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "adorare",
    "notiz": "chiaro (hell) + scuro (dunkel) – das Wort kommt aus dem Italienischen und ist in allen Sprachen gleich. il quadro = das Gemälde. Caravaggio = der Meister des chiaroscuro.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_20.mp3",
    "satz": {
     "fr": "Adoro il chiaroscuro nei quadri di Caravaggio.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden Caravaggios.",
     "luecke": "chiaroscuro",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_20.mp3"
    },
    "zeit": null
   },
@@ -1308,12 +1308,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "tranquillo = ruhig (Ort, Mensch); tranquillo! = keine Sorge, ganz ruhig (sehr häufig). il cortile = der Innenhof, auch der Schulhof.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_21.mp3",
    "satz": {
     "fr": "Di sera il cortile è tranquillo.",
     "de": "Am Abend ist der Hof ruhig.",
     "luecke": "tranquillo",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_21.mp3"
    },
    "zeit": null
   },
@@ -1325,12 +1325,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "von l'angoscia = Beklemmung, Angst; angosciato = beklommen. Vorsicht: sci vor a = [ʃa]: angosciante [angoʃante].",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_22.mp3",
    "satz": {
     "fr": "Il corridoio vuoto del museo era angosciante.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angosciante",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_22.mp3"
    },
    "zeit": null
   },
@@ -1342,21 +1342,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „das Herz in Stücken haben“; a pezzi = in Stücken (auch: essere a pezzi = fix und fertig). da quando = seit (Konjunktion); è morto = morire mit essere.",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_23.mp3",
    "satz": {
     "fr": "Ha il cuore a pezzi da quando è morto il suo gatto.",
     "de": "Er ist untröstlich, seit seine Katze gestorben ist.",
     "luecke": "Ha il cuore a pezzi",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Aveva il cuore a pezzi.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_23_pc.mp3"
     },
     "fp": {
      "fr": "Avrà il cuore a pezzi.",
-     "audio": null
+     "audio": "audio/it-de/saetze/se_23_fp.mp3"
     }
    }
   },
@@ -1368,12 +1368,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "dispiacere",
    "notiz": "wörtlich „es missfällt mir“ (dispiacere, Gegenteil von piacere) – die normale Entschuldigung; mi dispiace molto = es tut mir sehr leid. disturbarla = disturbare + La (Sie, Lei-Form, angehängt).",
-   "audio": null,
+   "audio": "audio/it-de/wendungen/se_24.mp3",
    "satz": {
     "fr": "Mi dispiace, signora, non volevo disturbarla.",
     "de": "Es tut mir leid, Signora, ich wollte Sie nicht stören.",
     "luecke": "Mi dispiace",
-    "audio": null
+    "audio": "audio/it-de/saetze/se_24.mp3"
    },
    "zeit": null
   }
@@ -2245,6 +2245,56 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/lob/stark_volevo.mp3",
   "audio/it-de/lob/stark_voli.mp3",
   "audio/it-de/lob/voll_senza_errori.mp3",
+  "audio/it-de/saetze/se_01.mp3",
+  "audio/it-de/saetze/se_01_fp.mp3",
+  "audio/it-de/saetze/se_01_pc.mp3",
+  "audio/it-de/saetze/se_02.mp3",
+  "audio/it-de/saetze/se_02_fp.mp3",
+  "audio/it-de/saetze/se_02_pc.mp3",
+  "audio/it-de/saetze/se_03.mp3",
+  "audio/it-de/saetze/se_04.mp3",
+  "audio/it-de/saetze/se_05.mp3",
+  "audio/it-de/saetze/se_05_fp.mp3",
+  "audio/it-de/saetze/se_05_pc.mp3",
+  "audio/it-de/saetze/se_06.mp3",
+  "audio/it-de/saetze/se_07.mp3",
+  "audio/it-de/saetze/se_08.mp3",
+  "audio/it-de/saetze/se_09.mp3",
+  "audio/it-de/saetze/se_09_fp.mp3",
+  "audio/it-de/saetze/se_09_pc.mp3",
+  "audio/it-de/saetze/se_10.mp3",
+  "audio/it-de/saetze/se_10_fp.mp3",
+  "audio/it-de/saetze/se_10_pc.mp3",
+  "audio/it-de/saetze/se_11.mp3",
+  "audio/it-de/saetze/se_11_fp.mp3",
+  "audio/it-de/saetze/se_11_pc.mp3",
+  "audio/it-de/saetze/se_12.mp3",
+  "audio/it-de/saetze/se_12_fp.mp3",
+  "audio/it-de/saetze/se_12_pc.mp3",
+  "audio/it-de/saetze/se_13.mp3",
+  "audio/it-de/saetze/se_14.mp3",
+  "audio/it-de/saetze/se_14_fp.mp3",
+  "audio/it-de/saetze/se_14_pc.mp3",
+  "audio/it-de/saetze/se_15.mp3",
+  "audio/it-de/saetze/se_15_fp.mp3",
+  "audio/it-de/saetze/se_15_pc.mp3",
+  "audio/it-de/saetze/se_16.mp3",
+  "audio/it-de/saetze/se_17.mp3",
+  "audio/it-de/saetze/se_17_fp.mp3",
+  "audio/it-de/saetze/se_17_pc.mp3",
+  "audio/it-de/saetze/se_18.mp3",
+  "audio/it-de/saetze/se_18_fp.mp3",
+  "audio/it-de/saetze/se_18_pc.mp3",
+  "audio/it-de/saetze/se_19.mp3",
+  "audio/it-de/saetze/se_19_fp.mp3",
+  "audio/it-de/saetze/se_19_pc.mp3",
+  "audio/it-de/saetze/se_20.mp3",
+  "audio/it-de/saetze/se_21.mp3",
+  "audio/it-de/saetze/se_22.mp3",
+  "audio/it-de/saetze/se_23.mp3",
+  "audio/it-de/saetze/se_23_fp.mp3",
+  "audio/it-de/saetze/se_23_pc.mp3",
+  "audio/it-de/saetze/se_24.mp3",
   "audio/it-de/saetze/tc_01.mp3",
   "audio/it-de/saetze/tc_01_fp.mp3",
   "audio/it-de/saetze/tc_01_pc.mp3",
@@ -2307,6 +2357,30 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/spiel/titel_5.mp3",
   "audio/it-de/spiel/titel_6.mp3",
   "audio/it-de/spiel/woche.mp3",
+  "audio/it-de/wendungen/se_01.mp3",
+  "audio/it-de/wendungen/se_02.mp3",
+  "audio/it-de/wendungen/se_03.mp3",
+  "audio/it-de/wendungen/se_04.mp3",
+  "audio/it-de/wendungen/se_05.mp3",
+  "audio/it-de/wendungen/se_06.mp3",
+  "audio/it-de/wendungen/se_07.mp3",
+  "audio/it-de/wendungen/se_08.mp3",
+  "audio/it-de/wendungen/se_09.mp3",
+  "audio/it-de/wendungen/se_10.mp3",
+  "audio/it-de/wendungen/se_11.mp3",
+  "audio/it-de/wendungen/se_12.mp3",
+  "audio/it-de/wendungen/se_13.mp3",
+  "audio/it-de/wendungen/se_14.mp3",
+  "audio/it-de/wendungen/se_15.mp3",
+  "audio/it-de/wendungen/se_16.mp3",
+  "audio/it-de/wendungen/se_17.mp3",
+  "audio/it-de/wendungen/se_18.mp3",
+  "audio/it-de/wendungen/se_19.mp3",
+  "audio/it-de/wendungen/se_20.mp3",
+  "audio/it-de/wendungen/se_21.mp3",
+  "audio/it-de/wendungen/se_22.mp3",
+  "audio/it-de/wendungen/se_23.mp3",
+  "audio/it-de/wendungen/se_24.mp3",
   "audio/it-de/wendungen/tc_01.mp3",
   "audio/it-de/wendungen/tc_02.mp3",
   "audio/it-de/wendungen/tc_03.mp3",
