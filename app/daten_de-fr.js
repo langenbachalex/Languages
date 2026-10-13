@@ -4678,12 +4678,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "unterrichten",
    "notiz": "das Gymnasium = le lycée (filière générale, de la 5e à la terminale) ; le gymnase = die Turnhalle, die Sporthalle. am Gymnasium = an dem Gymnasium (lieu de travail : an).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_01.mp3",
    "satz": {
     "fr": "Ich unterrichte am Gymnasium. Nicht in der Turnhalle. Im Gymnasium.",
     "de": "J'enseigne au lycée. Pas dans un gymnase. Au Gymnasium.",
     "luecke": "Gymnasium",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_01.mp3"
    },
    "zeit": null
   },
@@ -4695,12 +4695,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "die Rente = la retraite, la pension (der Rentner = le retraité) ; in Rente gehen = partir à la retraite. La rente (revenu du capital) = die Rendite, das Kapitaleinkommen. mit siebenundsechzig = à soixante-sept ans.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_02.mp3",
    "satz": {
     "fr": "Mit siebenundsechzig gehe ich in Rente. Nicht von meinen Renten leben. In Rente gehen.",
     "de": "À soixante-sept ans, je pars à la retraite. Pas vivre de mes rentes. Partir à la retraite.",
     "luecke": "Rente",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_02.mp3"
    },
    "zeit": null
   },
@@ -4712,12 +4712,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Figur = la silhouette, la ligne (eine gute Figur haben = avoir une belle ligne), et le personnage (d'un roman) ; le visage = das Gesicht. gut für + accusatif.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_03.mp3",
    "satz": {
     "fr": "Kung-Fu ist gut für die Figur. Für das Gesicht hilft es weniger.",
     "de": "Le kung-fu, c'est bon pour la silhouette. Pour le visage, ça aide moins.",
     "luecke": "Figur",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_03.mp3"
    },
    "zeit": null
   },
@@ -4729,12 +4729,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "bestellen",
    "notiz": "das Baiser (prononcé à la française, neutre) = la meringue ! Le baiser = der Kuss ; embrasser = küssen. Le faux ami le plus dangereux de la boulangerie. bestellen = commander.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_04.mp3",
    "satz": {
     "fr": "In der Bäckerei bestelle ich ein Baiser. Ein Baiser ist eine Meringue. Keine Verwechslung bitte.",
     "de": "À la boulangerie, je commande un « Baiser ». Un Baiser, c'est une meringue. Pas de confusion, s'il vous plaît.",
     "luecke": "Baiser",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_04.mp3"
    },
    "zeit": null
   },
@@ -4746,12 +4746,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "hängen",
    "notiz": "die Garderobe = le vestiaire (théâtre, restaurant) et le portemanteau (à l'entrée) ; la garde-robe = der Kleiderschrank (armoire) ou die Kleidung. der Flur = le couloir (maison).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_05.mp3",
    "satz": {
     "fr": "Die Jacke hängt an der Garderobe. Im Theater und auch bei mir im Flur.",
     "de": "La veste est accrochée au vestiaire. Au théâtre, et aussi chez moi dans le couloir.",
     "luecke": "Garderobe",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_05.mp3"
    },
    "zeit": null
   },
@@ -4763,12 +4763,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Chef = le patron, le supérieur (die Chefin au féminin) ; le chef de cuisine = der Koch, der Küchenchef ; le chef d'orchestre = der Dirigent. der Schulleiter = le proviseur, le directeur.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_06.mp3",
    "satz": {
     "fr": "Mein Chef ist der Schulleiter. Er kocht nicht. Hoffentlich.",
     "de": "Mon « Chef », c'est le proviseur. Il ne cuisine pas. Espérons.",
     "luecke": "Chef",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_06.mp3"
    },
    "zeit": null
   },
@@ -4780,12 +4780,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "stehen",
    "notiz": "das Regal = l'étagère (das Bücherregal) ; le régal = der Genuss, die Köstlichkeit. stehen = être (debout, posé) : les livres « stehen », l'assiette « steht ». der Unterschied = la différence.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_07.mp3",
    "satz": {
     "fr": "Die Bücher stehen im Regal. Das Essen steht auf dem Tisch. Das ist der Unterschied.",
     "de": "Les livres sont sur l'étagère. Le repas est sur la table. Voilà la différence.",
     "luecke": "Regal",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_07.mp3"
    },
    "zeit": null
   },
@@ -4797,12 +4797,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "das Gift = le poison (giftig = toxique, venimeux) ; le cadeau = das Geschenk (schenken = offrir). Faux ami avec l'anglais gift – et avec le mot allemand ancien « Gift » = don (survit dans die Mitgift, la dot !).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_08.mp3",
    "satz": {
     "fr": "Vorsicht: « Gift » ist Gift. Kein Geschenk. Ein Geschenk ist ein Geschenk.",
     "de": "Attention : « Gift », c'est du poison. Pas un cadeau. Un cadeau, c'est un Geschenk.",
     "luecke": "Gift",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_08.mp3"
    },
    "zeit": null
   },
@@ -4814,12 +4814,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "brav = sage, obéissant (surtout pour enfants et animaux) ; courageux = mutig, tapfer. Même faux ami qu'en italien (bravo) et en espagnol (bravo = féroce). warten = attendre.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_09.mp3",
    "satz": {
     "fr": "Der Hund ist brav. Nicht mutig. Brav. Er sitzt und wartet.",
     "de": "Le chien est sage. Pas courageux. Sage. Il est assis et il attend.",
     "luecke": "brav",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_09.mp3"
    },
    "zeit": null
   },
@@ -4831,12 +4831,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kommen",
    "notiz": "der Rat = le conseil (einen Rat geben = donner un conseil ; der Ratschlag) et le conseil (municipal : der Stadtrat) ; le rat = die Ratte. das Nagetier = le rongeur. lies ! = impératif de lesen.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_10.mp3",
    "satz": {
     "fr": "Mein Rat: Lies das Buch. Der Rat kommt von mir, nicht vom Nagetier.",
     "de": "Mon conseil : lis le livre. Le conseil vient de moi, pas du rongeur.",
     "luecke": "Rat",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_10.mp3"
    },
    "zeit": null
   },
@@ -4848,12 +4848,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "das Fest = la fête (feiern = fêter ; das Volksfest, das Weihnachtsfest) ; fest (adjectif) = ferme, solide, fixe (ein fester Termin = un rendez-vous fixe). obwohl = bien que ; ici « quoique ».",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_11.mp3",
    "satz": {
     "fr": "Am Samstag ist ein Fest. Ein Fest, nicht etwas Festes. Obwohl: Das Essen ist fest.",
     "de": "Samedi, il y a une fête. Une fête, pas quelque chose de ferme. Quoique : la nourriture est solide.",
     "luecke": "Fest",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_11.mp3"
    },
    "zeit": null
   },
@@ -4865,12 +4865,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "trinken",
    "notiz": "die Tasse = la tasse (vrai ami !) mais attention : das Glas = le verre, der Becher = le gobelet, le mug. eine Tasse Kaffee = une tasse de café (sans « de » : apposition). schon gar nicht = encore moins.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_12.mp3",
    "satz": {
     "fr": "Eine Tasse Kaffee, bitte. Eine Tasse, kein Glas. Und schon gar nicht eine Tasse Wein.",
     "de": "Une tasse de café, s'il vous plaît. Une tasse, pas un verre. Et surtout pas une tasse de vin.",
     "luecke": "Tasse",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_12.mp3"
    },
    "zeit": null
   },
@@ -4882,12 +4882,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "geben",
    "notiz": "das Dessert (prononcé à la française, aussi der Nachtisch) = le dessert ; le désert = die Wüste. zum Dessert = en dessert (zu dem). beides = les deux (choses).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_13.mp3",
    "satz": {
     "fr": "Zum Dessert gibt es Kuchen. In der Wüste gibt es Sand. Beides mit einem s, aber anders.",
     "de": "En dessert, il y a du gâteau. Dans le désert, il y a du sable. Les deux avec un s, mais différemment.",
     "luecke": "Dessert",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_13.mp3"
    },
    "zeit": null
   },
@@ -4899,12 +4899,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "sensibel = sensible, délicat (vrai ami avec le français, faux ami avec l'anglais sensible = vernünftig) ; empfindlich = sensible (à la douleur, au froid). vernünftig = raisonnable (die Vernunft = la raison).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_14.mp3",
    "satz": {
     "fr": "Meine Katze ist sensibel. Nicht vernünftig. Sensibel.",
     "de": "Mon chat est sensible. Pas raisonnable. Sensible.",
     "luecke": "sensibel",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_14.mp3"
    },
    "zeit": null
   },
@@ -4916,12 +4916,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "das Fach = la matière (das Schulfach), la discipline (der Fachlehrer = le prof de la matière), et aussi le compartiment, le casier (das Schließfach). bedeuten = signifier. die Schublade = le tiroir.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_15.mp3",
    "satz": {
     "fr": "Mein Fach ist Englisch. Fach bedeutet hier Schulfach, nicht Schublade. Obwohl die auch Fach heißt.",
     "de": "Ma matière, c'est l'anglais. Fach veut dire ici matière scolaire, pas tiroir. Quoique le tiroir s'appelle aussi Fach.",
     "luecke": "Fach",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_15.mp3"
    },
    "zeit": null
   },
@@ -4933,12 +4933,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Note = la note (école, et aussi musique) – mais en Allemagne, les notes vont de 1 (sehr gut) à 6 (ungenügend) : c'est le 1 qu'on veut ! umgekehrt = à l'inverse. die Katastrophe = la catastrophe (prononcé avec « k »).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_16.mp3",
    "satz": {
     "fr": "Die beste Note ist die Eins. Die Sechs ist eine Katastrophe. Umgekehrt zu Frankreich.",
     "de": "La meilleure note est le 1. Le 6, c'est une catastrophe. À l'inverse de la France.",
     "luecke": "Note",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_16.mp3"
    },
    "zeit": null
   },
@@ -4950,12 +4950,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Konkurrenz = la concurrence (der Konkurrent = le concurrent) ; le concours = der Wettbewerb (sport, prix) ou die Aufnahmeprüfung (examen). nebenan = d'à côté.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_17.mp3",
    "satz": {
     "fr": "Die Bäckerei nebenan ist Konkurrenz. Kein Wettbewerb. Konkurrenz.",
     "de": "La boulangerie d'à côté, c'est de la concurrence. Pas un concours. De la concurrence.",
     "luecke": "Konkurrenz",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_17.mp3"
    },
    "zeit": null
   },
@@ -4967,12 +4967,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "die Direktion = la direction (l'organe, les bureaux) ; la direction (le sens) = die Richtung (in Richtung Bahnhof = en direction de la gare). in die Direktion = accusatif (direction !).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_18.mp3",
    "satz": {
     "fr": "Ich gehe in die Direktion. Zum Schulleiter. Nicht in eine Richtung.",
     "de": "Je vais à la direction. Chez le proviseur. Pas dans une direction.",
     "luecke": "Direktion",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_18.mp3"
    },
    "zeit": null
   },
@@ -4984,12 +4984,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "die Mappe = le classeur, la chemise, le cartable (die Schulmappe) ; la carte = die Landkarte, die Karte (faux ami avec l'anglais map). der Teppich = le tapis. pro Klasse = par classe.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_19.mp3",
    "satz": {
     "fr": "Ich habe eine Mappe pro Klasse. Auf dem Boden einen Teppich. An der Wand eine Landkarte.",
     "de": "J'ai une pochette par classe. Sur le sol, un tapis. Au mur, une carte.",
     "luecke": "Mappe",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_19.mp3"
    },
    "zeit": null
   },
@@ -5001,12 +5001,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "die Promotion = le doctorat, la soutenance de thèse (promovieren = passer son doctorat) ; la promotion (commerce) = das Sonderangebot, die Aktion ; la promotion (au travail) = die Beförderung. die Doktorarbeit = la thèse.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_20.mp3",
    "satz": {
     "fr": "Meine Kollegin macht ihre Promotion. Sie schreibt eine Doktorarbeit. Kein Sonderangebot.",
     "de": "Ma collègue fait sa « Promotion ». Elle écrit une thèse. Pas une offre spéciale.",
     "luecke": "Promotion",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_20.mp3"
    },
    "zeit": null
   },
@@ -5018,12 +5018,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "nehmen",
    "notiz": "die Prise = la pincée (eine Prise Salz) ; la prise électrique = die Steckdose (au mur) et der Stecker (la fiche). an der Wand = au mur (datif).",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_21.mp3",
    "satz": {
     "fr": "Eine Prise Salz. Eine Prise, kein Stecker. Die Steckdose ist an der Wand.",
     "de": "Une pincée de sel. Une pincée, pas une prise électrique. La prise est au mur.",
     "luecke": "Prise",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_21.mp3"
    },
    "zeit": null
   },
@@ -5035,12 +5035,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Stock = l'étage (im ersten Stock = au premier ; aussi : das Stockwerk, die Etage) et le bâton ! Le stock = das Lager, der Vorrat. im Erdgeschoss = au rez-de-chaussée.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_22.mp3",
    "satz": {
     "fr": "Das Lehrerzimmer ist im ersten Stock. Nicht im Lager. Im ersten Stock.",
     "de": "La salle des profs est au premier étage. Pas en réserve. Au premier étage.",
     "luecke": "Stock",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_22.mp3"
    },
    "zeit": null
   },
@@ -5052,12 +5052,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "der Salon = le salon de coiffure (der Friseursalon), de beauté, ou le salon (exposition : die Messe, plus courant) ; le salon de la maison = das Wohnzimmer. der Friseur = le coiffeur.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_23.mp3",
    "satz": {
     "fr": "Ich gehe in den Salon. Zum Friseur. Das Wohnzimmer heißt nicht Salon. Meistens.",
     "de": "Je vais au « Salon ». Chez le coiffeur. Le salon (de la maison) ne s'appelle pas Salon. Le plus souvent.",
     "luecke": "Salon",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_23.mp3"
    },
    "zeit": null
   },
@@ -5069,12 +5069,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "suchen",
    "notiz": "die Bibliothek = la bibliothèque (aussi : die Bücherei, municipale) ; die Buchhandlung = la librairie – ici, pas de faux ami, mais la même scène que dans les autres langues. suchen = chercher (sans préposition). kostenlos = gratuit.",
-   "audio": null,
+   "audio": "audio/de-fr/wendungen/ff_24.mp3",
    "satz": {
     "fr": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
     "de": "Excusez-moi, je cherche la bibliothèque. – La librairie ? – Non, la bibliothèque. Avec les livres gratuits.",
     "luecke": "suche die Bibliothek",
-    "audio": null
+    "audio": "audio/de-fr/saetze/ff_24.mp3"
    },
    "zeit": null
   }
@@ -5988,6 +5988,30 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/saetze/es_22.mp3",
   "audio/de-fr/saetze/es_23.mp3",
   "audio/de-fr/saetze/es_24.mp3",
+  "audio/de-fr/saetze/ff_01.mp3",
+  "audio/de-fr/saetze/ff_02.mp3",
+  "audio/de-fr/saetze/ff_03.mp3",
+  "audio/de-fr/saetze/ff_04.mp3",
+  "audio/de-fr/saetze/ff_05.mp3",
+  "audio/de-fr/saetze/ff_06.mp3",
+  "audio/de-fr/saetze/ff_07.mp3",
+  "audio/de-fr/saetze/ff_08.mp3",
+  "audio/de-fr/saetze/ff_09.mp3",
+  "audio/de-fr/saetze/ff_10.mp3",
+  "audio/de-fr/saetze/ff_11.mp3",
+  "audio/de-fr/saetze/ff_12.mp3",
+  "audio/de-fr/saetze/ff_13.mp3",
+  "audio/de-fr/saetze/ff_14.mp3",
+  "audio/de-fr/saetze/ff_15.mp3",
+  "audio/de-fr/saetze/ff_16.mp3",
+  "audio/de-fr/saetze/ff_17.mp3",
+  "audio/de-fr/saetze/ff_18.mp3",
+  "audio/de-fr/saetze/ff_19.mp3",
+  "audio/de-fr/saetze/ff_20.mp3",
+  "audio/de-fr/saetze/ff_21.mp3",
+  "audio/de-fr/saetze/ff_22.mp3",
+  "audio/de-fr/saetze/ff_23.mp3",
+  "audio/de-fr/saetze/ff_24.mp3",
   "audio/de-fr/saetze/ge_01.mp3",
   "audio/de-fr/saetze/ge_01_fp.mp3",
   "audio/de-fr/saetze/ge_01_pc.mp3",
@@ -6356,6 +6380,30 @@ window.SPRACHEN["de-fr"] = {
   "audio/de-fr/wendungen/es_22.mp3",
   "audio/de-fr/wendungen/es_23.mp3",
   "audio/de-fr/wendungen/es_24.mp3",
+  "audio/de-fr/wendungen/ff_01.mp3",
+  "audio/de-fr/wendungen/ff_02.mp3",
+  "audio/de-fr/wendungen/ff_03.mp3",
+  "audio/de-fr/wendungen/ff_04.mp3",
+  "audio/de-fr/wendungen/ff_05.mp3",
+  "audio/de-fr/wendungen/ff_06.mp3",
+  "audio/de-fr/wendungen/ff_07.mp3",
+  "audio/de-fr/wendungen/ff_08.mp3",
+  "audio/de-fr/wendungen/ff_09.mp3",
+  "audio/de-fr/wendungen/ff_10.mp3",
+  "audio/de-fr/wendungen/ff_11.mp3",
+  "audio/de-fr/wendungen/ff_12.mp3",
+  "audio/de-fr/wendungen/ff_13.mp3",
+  "audio/de-fr/wendungen/ff_14.mp3",
+  "audio/de-fr/wendungen/ff_15.mp3",
+  "audio/de-fr/wendungen/ff_16.mp3",
+  "audio/de-fr/wendungen/ff_17.mp3",
+  "audio/de-fr/wendungen/ff_18.mp3",
+  "audio/de-fr/wendungen/ff_19.mp3",
+  "audio/de-fr/wendungen/ff_20.mp3",
+  "audio/de-fr/wendungen/ff_21.mp3",
+  "audio/de-fr/wendungen/ff_22.mp3",
+  "audio/de-fr/wendungen/ff_23.mp3",
+  "audio/de-fr/wendungen/ff_24.mp3",
   "audio/de-fr/wendungen/ge_01.mp3",
   "audio/de-fr/wendungen/ge_02.mp3",
   "audio/de-fr/wendungen/ge_03.mp3",
