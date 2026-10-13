@@ -5275,13 +5275,296 @@ window.SPRACHEN["it-de"] = {
   "paare": [],
   "beide": []
  },
- "geschichte": [],
+ "geschichte": [
+  {
+   "nr": 1,
+   "titel": "Il biglietto",
+   "absaetze": [
+    {
+     "id": "k01_01",
+     "fr": "Chiara Rossi era professoressa a Bologna. Una professoressa normale. Beh, quasi.",
+     "de": "Chiara Rossi war Lehrerin in Bologna. Eine normale Lehrerin. Na ja, fast.",
+     "audio": "audio/it-de/geschichte/k01_01.mp3"
+    },
+    {
+     "id": "k01_02",
+     "fr": "Quel venerdì pomeriggio **correggeva i compiti**, come tutti i venerdì. **Era distrutta**. Fuori pioveva. Dentro, il suo gatto **faceva un pisolino** sui compiti già corretti.",
+     "de": "An jenem Freitagnachmittag korrigierte sie Arbeiten, wie jeden Freitag. Sie war fix und fertig. Draußen regnete es. Drinnen machte ihre Katze ein Nickerchen auf den schon korrigierten Arbeiten.",
+     "audio": "audio/it-de/geschichte/k01_02.mp3"
+    },
+    {
+     "id": "k01_03",
+     "fr": "Il compito numero diciassette era quello di Luca, un alunno di terza che scriveva poco, ma bene.",
+     "de": "Die siebzehnte Arbeit war die von Luca, einem Schüler der Dritten, der wenig schrieb, aber gut.",
+     "audio": "audio/it-de/geschichte/k01_03.mp3"
+    },
+    {
+     "id": "k01_04",
+     "fr": "Tra pagina due e pagina tre c'era qualcosa. Un biglietto. Un biglietto d'ingresso per la Torre degli Asinelli.",
+     "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Karte. Eine Eintrittskarte für die Torre degli Asinelli.",
+     "audio": "audio/it-de/geschichte/k01_04.mp3"
+    },
+    {
+     "id": "k01_05",
+     "fr": "Chiara ha guardato la data. Domani. Sabato. Dieci di mattina.",
+     "de": "Chiara sah auf das Datum. Morgen. Samstag. Zehn Uhr morgens.",
+     "audio": "audio/it-de/geschichte/k01_05.mp3"
+    },
+    {
+     "id": "k01_06",
+     "fr": "Sul retro, qualcuno aveva scritto in lettere blu: « Gradino 249. Venga sola. E non abbia paura. »",
+     "de": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: „Stufe 249. Kommen Sie allein. Und haben Sie keine Angst.“",
+     "audio": "audio/it-de/geschichte/k01_06.mp3"
+    },
+    {
+     "id": "k01_07",
+     "fr": "Chiara **non aveva paura**. Non ancora. **Faceva fatica a** capire, tutto qui.",
+     "de": "Chiara hatte keine Angst. Noch nicht. Es fiel ihr nur schwer, das zu verstehen, das war alles.",
+     "audio": "audio/it-de/geschichte/k01_07.mp3"
+    },
+    {
+     "id": "k01_08",
+     "fr": "Luca non era un alunno misterioso. Era un alunno che disegnava gatti ai margini.",
+     "de": "Luca war kein geheimnisvoller Schüler. Er war ein Schüler, der Katzen an den Rand malte.",
+     "audio": "audio/it-de/geschichte/k01_08.mp3"
+    },
+    {
+     "id": "k01_09",
+     "fr": "Chiara ha guardato il suo gatto. Il gatto ha guardato lei. **Aveva uno sguardo** che diceva: « Vai. »",
+     "de": "Chiara sah ihre Katze an. Die Katze sah sie an. Sie hatte einen Blick, der sagte: „Geh.“",
+     "audio": "audio/it-de/geschichte/k01_09.mp3"
+    },
+    {
+     "id": "k01_10",
+     "fr": "« È uno scherzo », ha detto Chiara ad alta voce. Il gatto non ha detto niente. I gatti non dicono mai niente. È la loro forza.",
+     "de": "„Das ist ein Scherz“, sagte Chiara laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
+     "audio": "audio/it-de/geschichte/k01_10.mp3"
+    },
+    {
+     "id": "k01_11",
+     "fr": "Quella notte Chiara **non ha dormito tutta la notte**. Ha sognato una scala senza fine e una porta che non era su nessuna pianta.",
+     "de": "In jener Nacht schlief Chiara nicht durch. Sie träumte von einer endlosen Treppe und einer Tür, die auf keinem Plan war.",
+     "audio": "audio/it-de/geschichte/k01_11.mp3"
+    },
+    {
+     "id": "k01_12",
+     "fr": "Alle sette si è alzata. **Col piede giusto**. Il sinistro. Come sempre.",
+     "de": "Um sieben stand sie auf. Mit dem richtigen Fuß. Dem linken. Wie immer.",
+     "audio": "audio/it-de/geschichte/k01_12.mp3"
+    },
+    {
+     "id": "k01_13",
+     "fr": "**Ha fatto la spesa** del sabato. Poi ha guardato l'orologio. Nove e un quarto. La Torre era a dieci minuti a piedi, sotto i portici.",
+     "de": "Sie machte den Samstagseinkauf. Dann sah sie auf die Uhr. Viertel nach neun. Der Turm war zehn Minuten zu Fuß entfernt, unter den Arkaden.",
+     "audio": "audio/it-de/geschichte/k01_13.mp3"
+    },
+    {
+     "id": "k01_14",
+     "fr": "« Vado solo a guardare », ha detto al gatto. Il gatto ha chiuso gli occhi. Sapeva che non era vero.",
+     "de": "„Ich schau nur“, sagte sie zur Katze. Die Katze schloss die Augen. Sie wusste, dass das nicht stimmte.",
+     "audio": "audio/it-de/geschichte/k01_14.mp3"
+    }
+   ]
+  },
+  {
+   "nr": 2,
+   "titel": "I portici",
+   "absaetze": [
+    {
+     "id": "k02_01",
+     "fr": "Alle dieci meno cinque Chiara era sotto le Due Torri. Era la prima volta che ci andava senza trenta alunni dietro.",
+     "de": "Um fünf vor zehn stand Chiara unter den Zwei Türmen. Es war das erste Mal, dass sie ohne dreißig Schüler im Schlepptau hinging.",
+     "audio": "audio/it-de/geschichte/k02_01.mp3"
+    },
+    {
+     "id": "k02_02",
+     "fr": "Il biglietto era vero. L'uomo della biglietteria l'ha guardata, ha guardato il biglietto e ha detto: « Gradino 249. Sempre dritto, poi su. » Senza che lei chiedesse.",
+     "de": "Die Karte war echt. Der Mann an der Kasse sah sie an, sah die Karte an und sagte: „Stufe 249. Immer geradeaus, dann hinauf.“ Ohne dass sie gefragt hätte.",
+     "audio": "audio/it-de/geschichte/k02_02.mp3"
+    },
+    {
+     "id": "k02_03",
+     "fr": "**Era inquietante**. Un po'. Chiara ha deciso che era gentile.",
+     "de": "Das war unheimlich. Ein bisschen. Chiara beschloss, dass es freundlich war.",
+     "audio": "audio/it-de/geschichte/k02_03.mp3"
+    },
+    {
+     "id": "k02_04",
+     "fr": "Sotto i portici **era tranquillo**. Troppo. Niente turisti, niente studenti, niente biciclette. Solo la pioggia sulle colonne e l'odore di caffè.",
+     "de": "Unter den Arkaden war es ruhig. Zu ruhig. Keine Touristen, keine Studenten, keine Fahrräder. Nur der Regen auf den Säulen und der Geruch von Kaffee.",
+     "audio": "audio/it-de/geschichte/k02_04.mp3"
+    },
+    {
+     "id": "k02_05",
+     "fr": "E un gatto. Un **gatto randagio**, grigio, seduto ai piedi della Garisenda come se fosse sua.",
+     "de": "Und eine Katze. Eine graue Straßenkatze, die am Fuß der Garisenda saß, als gehörte sie ihr.",
+     "audio": "audio/it-de/geschichte/k02_05.mp3"
+    },
+    {
+     "id": "k02_06",
+     "fr": "Il gatto l'ha guardata. Chiara conosceva quello sguardo. Era lo sguardo del suo gatto. Esattamente lo stesso.",
+     "de": "Die Katze sah sie an. Chiara kannte diesen Blick. Es war der Blick ihrer eigenen Katze. Genau derselbe.",
+     "audio": "audio/it-de/geschichte/k02_06.mp3"
+    },
+    {
+     "id": "k02_07",
+     "fr": "« È impossibile », ha pensato. « Il mio gatto è a casa, a dormire su un compito di terza. »",
+     "de": "„Das ist unmöglich“, dachte sie. „Meine Katze liegt zu Hause und schläft auf einer Arbeit der Dritten.“",
+     "audio": "audio/it-de/geschichte/k02_07.mp3"
+    },
+    {
+     "id": "k02_08",
+     "fr": "Il gatto grigio si è alzato, **si è strusciato contro** una colonna ed è andato piano verso la porta della Torre. Poi si è girato. Aspettava.",
+     "de": "Die graue Katze stand auf, rieb sich an einer Säule und ging langsam zur Tür des Turms. Dann drehte sie sich um. Sie wartete.",
+     "audio": "audio/it-de/geschichte/k02_08.mp3"
+    },
+    {
+     "id": "k02_09",
+     "fr": "Chiara **aveva il magone**. Ma aveva anche curiosità. La curiosità, in una professoressa, vince sempre.",
+     "de": "Chiara hatte einen Kloß im Hals. Aber sie war auch neugierig. Die Neugier gewinnt bei einer Lehrerin immer.",
+     "audio": "audio/it-de/geschichte/k02_09.mp3"
+    },
+    {
+     "id": "k02_10",
+     "fr": "Ha seguito il gatto. Sono entrati nella Torre. Quattrocentonovantotto gradini di legno, stretti, ripidi. Chiara li aveva saliti venti volte con gli alunni.",
+     "de": "Sie folgte der Katze. Sie betraten den Turm. Vierhundertachtundneunzig Holzstufen, eng, steil. Chiara war sie zwanzigmal mit Schülern hinaufgestiegen.",
+     "audio": "audio/it-de/geschichte/k02_10.mp3"
+    },
+    {
+     "id": "k02_11",
+     "fr": "Il gatto saliva davanti. Non si fermava mai. Chiara contava i gradini. Cento. Duecento. Le gambe bruciavano.",
+     "de": "Die Katze stieg voran. Sie blieb nie stehen. Chiara zählte die Stufen. Hundert. Zweihundert. Die Beine brannten.",
+     "audio": "audio/it-de/geschichte/k02_11.mp3"
+    },
+    {
+     "id": "k02_12",
+     "fr": "Duecentoquarantanove. Il gatto si è fermato. Lì, dove c'era sempre stato un muro di mattoni, oggi c'era una porta.",
+     "de": "Zweihundertneunundvierzig. Die Katze blieb stehen. Dort, wo immer eine Backsteinmauer gewesen war, war heute eine Tür.",
+     "audio": "audio/it-de/geschichte/k02_12.mp3"
+    },
+    {
+     "id": "k02_13",
+     "fr": "Piccola, di legno scuro, senza maniglia. Chiara l'aveva superata venti volte senza vederla. Perché non c'era.",
+     "de": "Klein, aus dunklem Holz, ohne Klinke. Chiara war zwanzigmal daran vorbeigegangen, ohne sie zu sehen. Weil sie nicht da gewesen war.",
+     "audio": "audio/it-de/geschichte/k02_13.mp3"
+    },
+    {
+     "id": "k02_14",
+     "fr": "Il gatto si è seduto davanti alla porta. E, per la prima volta, **ha miagolato**.",
+     "de": "Die Katze setzte sich vor die Tür. Und miaute, zum ersten Mal.",
+     "audio": "audio/it-de/geschichte/k02_14.mp3"
+    },
+    {
+     "id": "k02_15",
+     "fr": "Chiara ha guardato l'orologio. Le dieci e un quarto. « **Prenditi il tuo tempo** », si è detta. Non se l'è preso.",
+     "de": "Chiara sah auf die Uhr. Viertel nach zehn. „Lass dir Zeit“, sagte sie sich. Sie ließ sich keine.",
+     "audio": "audio/it-de/geschichte/k02_15.mp3"
+    }
+   ]
+  },
+  {
+   "nr": 3,
+   "titel": "La porta che non esiste",
+   "absaetze": [
+    {
+     "id": "k03_01",
+     "fr": "La porta era di legno scuro, con una piastrella piccola al centro: un gatto blu su fondo bianco.",
+     "de": "Die Tür war aus dunklem Holz, mit einer kleinen Kachel in der Mitte: eine blaue Katze auf weißem Grund.",
+     "audio": "audio/it-de/geschichte/k03_01.mp3"
+    },
+    {
+     "id": "k03_02",
+     "fr": "Nessun cartello. Nessun numero. In una torre con novecento anni di cartelli, era già strano.",
+     "de": "Kein Schild. Keine Nummer. In einem Turm mit neunhundert Jahren Schildern war das schon seltsam.",
+     "audio": "audio/it-de/geschichte/k03_02.mp3"
+    },
+    {
+     "id": "k03_03",
+     "fr": "Chiara ha spinto. La porta si è aperta senza rumore. **All'improvviso**, il vento sulla scala ha smesso di fischiare.",
+     "de": "Chiara drückte. Die Tür öffnete sich lautlos. Plötzlich hörte der Wind auf der Treppe auf zu pfeifen.",
+     "audio": "audio/it-de/geschichte/k03_03.mp3"
+    },
+    {
+     "id": "k03_04",
+     "fr": "Dietro c'era una stanza piccola, rotonda, con le pareti coperte di piastrelle. Centinaia di piastrelle. E su ognuna, un gatto.",
+     "de": "Dahinter lag ein kleiner, runder Raum, die Wände voller Kacheln. Hunderte Kacheln. Und auf jeder eine Katze.",
+     "audio": "audio/it-de/geschichte/k03_04.mp3"
+    },
+    {
+     "id": "k03_05",
+     "fr": "Gatti seduti, gatti addormentati, gatti che guardavano. Gatti del Duecento con la stessa faccia del gatto di Chiara.",
+     "de": "Sitzende Katzen, schlafende Katzen, Katzen, die schauten. Katzen aus dem dreizehnten Jahrhundert mit demselben Gesicht wie Chiaras Katze.",
+     "audio": "audio/it-de/geschichte/k03_05.mp3"
+    },
+    {
+     "id": "k03_06",
+     "fr": "Al centro della stanza, una finestra. Senza vetro. E sopra la finestra, una piastrella diversa: più grande, più antica, con un gatto che non guardava nessuno. Guardava verso la porta.",
+     "de": "In der Mitte des Raums ein Fenster. Ohne Glas. Und über dem Fenster eine andere Kachel: größer, älter, mit einer Katze, die niemanden ansah. Sie sah zur Tür.",
+     "audio": "audio/it-de/geschichte/k03_06.mp3"
+    },
+    {
+     "id": "k03_07",
+     "fr": "Chiara si è avvicinata. Le piastrelle erano fredde. Tutte tranne una.",
+     "de": "Chiara trat näher. Die Kacheln waren kalt. Alle bis auf eine.",
+     "audio": "audio/it-de/geschichte/k03_07.mp3"
+    },
+    {
+     "id": "k03_08",
+     "fr": "La piastrella grande era tiepida. Come un gatto al sole.",
+     "de": "Die große Kachel war lauwarm. Wie eine Katze in der Sonne.",
+     "audio": "audio/it-de/geschichte/k03_08.mp3"
+    },
+    {
+     "id": "k03_09",
+     "fr": "E allora l'ha sentito. Piano. Regolare. **Le fusa**.",
+     "de": "Und dann hörte sie es. Leise. Gleichmäßig. Ein Schnurren.",
+     "audio": "audio/it-de/geschichte/k03_09.mp3"
+    },
+    {
+     "id": "k03_10",
+     "fr": "Chiara è rimasta ferma. Il gatto grigio, accanto a lei, anche. Tutti e due ascoltavano la stessa piastrella.",
+     "de": "Chiara blieb stehen. Die graue Katze neben ihr auch. Beide lauschten derselben Kachel.",
+     "audio": "audio/it-de/geschichte/k03_10.mp3"
+    },
+    {
+     "id": "k03_11",
+     "fr": "« Questo non è sulla pianta », ha detto Chiara. Era la cosa più sensata che le è venuta in mente.",
+     "de": "„Das steht nicht auf dem Plan“, sagte Chiara. Es war das Vernünftigste, was ihr einfiel.",
+     "audio": "audio/it-de/geschichte/k03_11.mp3"
+    },
+    {
+     "id": "k03_12",
+     "fr": "Dietro di lei, una voce. Calma, anziana, un po' roca. « No, signora. Questa stanza non è su nessuna pianta. Per questo è ancora qui. »",
+     "de": "Hinter ihr eine Stimme. Ruhig, alt, ein bisschen heiser. „Nein, Signora. Dieser Raum steht auf keinem Plan. Deshalb ist er noch da.“",
+     "audio": "audio/it-de/geschichte/k03_12.mp3"
+    },
+    {
+     "id": "k03_13",
+     "fr": "Chiara si è girata **di scatto**. Sulla porta c'era un uomo con un berretto di lana e un mazzo di chiavi grande come un piatto.",
+     "de": "Chiara fuhr herum. In der Tür stand ein Mann mit Wollmütze und einem Schlüsselbund so groß wie ein Teller.",
+     "audio": "audio/it-de/geschichte/k03_13.mp3"
+    },
+    {
+     "id": "k03_14",
+     "fr": "« Sono il custode », ha detto. « Lavoro qui dal 1934. E lei è in ritardo. Venti minuti. »",
+     "de": "„Ich bin der Wächter“, sagte er. „Ich arbeite hier seit 1934. Und Sie sind zu spät. Zwanzig Minuten.“",
+     "audio": "audio/it-de/geschichte/k03_14.mp3"
+    },
+    {
+     "id": "k03_15",
+     "fr": "Chiara ha fatto i conti. 1934. L'uomo aveva, al massimo, sessant'anni. **Non aveva senso**. Eppure Chiara ha detto: « Mi dispiace. » È quello che dicono i professori.",
+     "de": "Chiara rechnete nach. 1934. Der Mann war höchstens sechzig. Das ergab keinen Sinn. Und trotzdem sagte Chiara: „Es tut mir leid.“ Das sagen Lehrer eben.",
+     "audio": "audio/it-de/geschichte/k03_15.mp3"
+    }
+   ]
+  }
+ ],
  "geschichte_info": {
-  "titel": "",
-  "unter": "",
+  "titel": "Il segreto della Torre",
+  "unter": "Chiara Rossi, professoressa a Bologna – un biglietto, una porta che non esiste, un gatto che sa.",
   "sammlung": [
-   "",
-   ""
+   "Ogni settimana perfetta sblocca un capitolo: Chiara Rossi, professoressa a Bologna, e il mistero della Torre.",
+   "Jede perfekte Woche schaltet ein Kapitel frei: Chiara Rossi, Lehrerin in Bologna, und das Geheimnis des Turms."
   ]
  },
  "lob": {
@@ -7207,6 +7490,50 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/dialoge/d2_08.mp3",
   "audio/it-de/dialoge/d2_09.mp3",
   "audio/it-de/dialoge/d2_10.mp3",
+  "audio/it-de/geschichte/k01_01.mp3",
+  "audio/it-de/geschichte/k01_02.mp3",
+  "audio/it-de/geschichte/k01_03.mp3",
+  "audio/it-de/geschichte/k01_04.mp3",
+  "audio/it-de/geschichte/k01_05.mp3",
+  "audio/it-de/geschichte/k01_06.mp3",
+  "audio/it-de/geschichte/k01_07.mp3",
+  "audio/it-de/geschichte/k01_08.mp3",
+  "audio/it-de/geschichte/k01_09.mp3",
+  "audio/it-de/geschichte/k01_10.mp3",
+  "audio/it-de/geschichte/k01_11.mp3",
+  "audio/it-de/geschichte/k01_12.mp3",
+  "audio/it-de/geschichte/k01_13.mp3",
+  "audio/it-de/geschichte/k01_14.mp3",
+  "audio/it-de/geschichte/k02_01.mp3",
+  "audio/it-de/geschichte/k02_02.mp3",
+  "audio/it-de/geschichte/k02_03.mp3",
+  "audio/it-de/geschichte/k02_04.mp3",
+  "audio/it-de/geschichte/k02_05.mp3",
+  "audio/it-de/geschichte/k02_06.mp3",
+  "audio/it-de/geschichte/k02_07.mp3",
+  "audio/it-de/geschichte/k02_08.mp3",
+  "audio/it-de/geschichte/k02_09.mp3",
+  "audio/it-de/geschichte/k02_10.mp3",
+  "audio/it-de/geschichte/k02_11.mp3",
+  "audio/it-de/geschichte/k02_12.mp3",
+  "audio/it-de/geschichte/k02_13.mp3",
+  "audio/it-de/geschichte/k02_14.mp3",
+  "audio/it-de/geschichte/k02_15.mp3",
+  "audio/it-de/geschichte/k03_01.mp3",
+  "audio/it-de/geschichte/k03_02.mp3",
+  "audio/it-de/geschichte/k03_03.mp3",
+  "audio/it-de/geschichte/k03_04.mp3",
+  "audio/it-de/geschichte/k03_05.mp3",
+  "audio/it-de/geschichte/k03_06.mp3",
+  "audio/it-de/geschichte/k03_07.mp3",
+  "audio/it-de/geschichte/k03_08.mp3",
+  "audio/it-de/geschichte/k03_09.mp3",
+  "audio/it-de/geschichte/k03_10.mp3",
+  "audio/it-de/geschichte/k03_11.mp3",
+  "audio/it-de/geschichte/k03_12.mp3",
+  "audio/it-de/geschichte/k03_13.mp3",
+  "audio/it-de/geschichte/k03_14.mp3",
+  "audio/it-de/geschichte/k03_15.mp3",
   "audio/it-de/lob/doch_vedi.mp3",
   "audio/it-de/lob/fehler_ahi.mp3",
   "audio/it-de/lob/fehler_hmm.mp3",

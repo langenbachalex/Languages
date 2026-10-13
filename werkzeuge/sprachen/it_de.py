@@ -40,7 +40,10 @@ SPIEL_TEXTE = {
 ROLLEN = {"A": "Alex", "B": "Giovanni"}
 DIALOGE_TITEL = ["Dialoghi con Giovanni", "Dialoge mit Giovanni"]
 
-GESCHICHTE = {"titel": "", "unter": "", "sammlung": ["", ""]}   # später: « Il segreto della Torre »
+GESCHICHTE = {"titel": "Il segreto della Torre",
+              "unter": "Chiara Rossi, professoressa a Bologna – un biglietto, una porta che non esiste, un gatto che sa.",
+              "sammlung": ["Ogni settimana perfetta sblocca un capitolo: Chiara Rossi, professoressa a Bologna, e il mistero della Torre.",
+                           "Jede perfekte Woche schaltet ein Kapitel frei: Chiara Rossi, Lehrerin in Bologna, und das Geheimnis des Turms."]}
 
 AUSSPRACHE = None   # später, optional: « Le doppie »
 

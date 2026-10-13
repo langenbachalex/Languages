@@ -34,7 +34,7 @@ Nach dem Muster von « La erre »: nur eine Sache – die **Doppelkonsonanten** 
 - **Titel – Leiter der Leckereien:** 🫒 Oliva → 🍕 Pizza → 🍝 Pasta al ragù → 🧀 Parmigiano → 🍷 Chianti → 🍨 Gelato → ✨ **Gran chef**
 - **Karte:** Italien mit **110 Provinzen** (ISTAT via openpolis/geojson-italy, CC BY 4.0, vereinfacht; `inhalte/it-de/karte/province.geojson`, Lader `werkzeuge/italien_karte.py`), Start in **Bologna**, 50 Orte mit *curiosità* (`orte.tsv`).
 - **Lob:** Bravo! · Bravissimo! · Perfetto! · Grande! · Così si fa! · Sei un fenomeno! · Dai! · Mitico! · Che forza! · Eccellente! · Da manuale! · Chapeau! … (vollständige Liste mit dem ersten Thema)
-- **Geschichte:** « Il segreto della Torre » – Lehrerin oder Lehrer aus Bologna, die zwei schiefen Türme, eine Tür, die auf keinem Plan steht. Später, nach dem Muster von Sevilla.
+- **Geschichte:** « Il segreto della Torre » – Chiara Rossi, Lehrerin in Bologna; Entwurf und Bogen in `docs/it-de/geschichte-entwurf.md`, Kapitel 1–3 eingetragen (13.10.2026).
 
 ## 5. Reihenfolge
 

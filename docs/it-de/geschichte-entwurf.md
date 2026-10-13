@@ -1,4 +1,4 @@
-# La storia – « Il segreto della Torre » – Entwurf zum Lesen (noch nicht gebaut)
+# La storia – « Il segreto della Torre » – Entwurf zum Lesen (Kapitel 1–3 eingetragen und vertont, 13.10.2026)
 
 Stand: 13.10.2026. Heldin: **Chiara Rossi**, Lehrerin in Bologna (Vorschlag). Genre wie bei Französisch und Spanisch: Mystery mit etwas Fantastischem, Assimil-Ton. Jede **perfekte Woche** schaltet ein Kapitel frei. Erzählt in Mr. Alex' Stimme, passato prossimo und imperfetto, mit Wendungen aus den Themen (fett). Jedes Kapitel: etwa 250 Wörter, 2–3 Minuten Hören. Giovanni taucht in Kapitel 9 auf.
 
