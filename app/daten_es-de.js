@@ -1350,21 +1350,21 @@ window.SPRACHEN["es-de"] = {
    "de": "schnurren",
    "register": "tu",
    "anker": "ronronear",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_01.mp3",
    "satz": {
     "fr": "Mi gato ronronea en cuanto me siento.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "ronronea",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_01.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mi gato ronroneó en cuanto me senté.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_01_pc.mp3"
     },
     "fp": {
      "fr": "Mi gato va a ronronear en cuanto me siente.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_01_fp.mp3"
     }
    }
   },
@@ -1375,21 +1375,21 @@ window.SPRACHEN["es-de"] = {
    "de": "schmusen, kuscheln",
    "register": "tu",
    "anker": "hacer",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_02.mp3",
    "satz": {
     "fr": "Por la noche viene a hacerme mimos en el sofá.",
     "de": "Abends kommt sie auf dem Sofa zu mir zum Schmusen.",
     "luecke": "hacerme mimos",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_02.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Anoche vino a hacerme mimos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_02_pc.mp3"
     },
     "fp": {
      "fr": "Esta noche va a venir a hacerme mimos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_02_fp.mp3"
     }
    }
   },
@@ -1400,21 +1400,21 @@ window.SPRACHEN["es-de"] = {
    "de": "kratzen (mit Krallen)",
    "register": "tu",
    "anker": "arañar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_03.mp3",
    "satz": {
     "fr": "Cuidado, araña si lo acaricias demasiado tiempo.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "araña",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_03.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Me arañó cuando lo acaricié demasiado.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_03_pc.mp3"
     },
     "fp": {
      "fr": "Te va a arañar si lo acaricias demasiado.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_03_fp.mp3"
     }
    }
   },
@@ -1425,21 +1425,21 @@ window.SPRACHEN["es-de"] = {
    "de": "sich putzen",
    "register": "tu",
    "anker": "asearse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_04.mp3",
    "satz": {
     "fr": "Después de comer, se asea durante diez minutos.",
     "de": "Nach dem Essen putzt er sich zehn Minuten lang.",
     "luecke": "se asea",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_04.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Después de comer, se aseó diez minutos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_04_pc.mp3"
     },
     "fp": {
      "fr": "Después de comer, se va a asear.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_04_fp.mp3"
     }
    }
   },
@@ -1450,21 +1450,21 @@ window.SPRACHEN["es-de"] = {
    "de": "miauen",
    "register": "tu",
    "anker": "maullar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_05.mp3",
    "satz": {
     "fr": "Maúlla delante de la puerta de la cocina a las seis de la mañana.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "Maúlla",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_05.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Maulló delante de la puerta a las seis.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_05_pc.mp3"
     },
     "fp": {
      "fr": "Va a maullar delante de la puerta a las seis.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_05_fp.mp3"
     }
    }
   },
@@ -1475,21 +1475,21 @@ window.SPRACHEN["es-de"] = {
    "de": "Hunger haben",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_06.mp3",
    "satz": {
     "fr": "Según él, siempre tiene hambre.",
     "de": "Wenn es nach ihm geht, hat er immer Hunger.",
     "luecke": "tiene hambre",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_06.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Según él, tuvo hambre todo el día.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_06_pc.mp3"
     },
     "fp": {
      "fr": "Según él, va a tener hambre dentro de cinco minutos.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_06_fp.mp3"
     }
    }
   },
@@ -1500,21 +1500,21 @@ window.SPRACHEN["es-de"] = {
    "de": "streicheln",
    "register": "tu",
    "anker": "acariciar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_07.mp3",
    "satz": {
     "fr": "Acaricio a mi gata detrás de las orejas; le encanta.",
     "de": "Ich streichle meine Katze hinter den Ohren; das liebt sie.",
     "luecke": "Acaricio",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_07.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "La acaricié detrás de las orejas.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_07_pc.mp3"
     },
     "fp": {
      "fr": "La voy a acariciar detrás de las orejas.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_07_fp.mp3"
     }
    }
   },
@@ -1525,21 +1525,21 @@ window.SPRACHEN["es-de"] = {
    "de": "seine Krallen wetzen",
    "register": "tu",
    "anker": "afilarse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_08.mp3",
    "satz": {
     "fr": "Se afila las uñas en el sillón, nunca en el rascador.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "Se afila las uñas",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_08.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Se afiló las uñas en el sillón.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_08_pc.mp3"
     },
     "fp": {
      "fr": "Se va a afilar las uñas en el sillón, seguro.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_08_fp.mp3"
     }
    }
   },
@@ -1550,12 +1550,12 @@ window.SPRACHEN["es-de"] = {
    "de": "ein Katzentier, eine Raubkatze",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_09.mp3",
    "satz": {
     "fr": "Un gato es un pequeño felino que decidió vivir con nosotros.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "felino",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_09.mp3"
    },
    "zeit": null
   },
@@ -1566,21 +1566,21 @@ window.SPRACHEN["es-de"] = {
    "de": "ein Nickerchen machen",
    "register": "tu",
    "anker": "echar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_10.mp3",
    "satz": {
     "fr": "Mi gato echa la siesta dieciséis horas al día. Qué vida.",
     "de": "Meine Katze macht sechzehn Stunden am Tag Nickerchen. Was für ein Leben.",
     "luecke": "echa la siesta",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_10.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mi gato echó la siesta todo el día.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_10_pc.mp3"
     },
     "fp": {
      "fr": "Mi gato va a echar la siesta todo el día.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_10_fp.mp3"
     }
    }
   },
@@ -1591,21 +1591,21 @@ window.SPRACHEN["es-de"] = {
    "de": "sich reiben an",
    "register": "tu",
    "anker": "restregarse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_11.mp3",
    "satz": {
     "fr": "Se restriega contra mis piernas cuando llego a casa.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "Se restriega contra",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_11.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Se restregó contra mis piernas cuando llegué.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_11_pc.mp3"
     },
     "fp": {
      "fr": "Se va a restregar contra mis piernas cuando llegue.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_11_fp.mp3"
     }
    }
   },
@@ -1616,12 +1616,12 @@ window.SPRACHEN["es-de"] = {
    "de": "das Trockenfutter",
    "register": "tu",
    "anker": "preferir",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_12.mp3",
    "satz": {
     "fr": "Prefiere el pienso del vecino al suyo.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seins.",
     "luecke": "pienso",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_12.mp3"
    },
    "zeit": null
   },
@@ -1632,12 +1632,12 @@ window.SPRACHEN["es-de"] = {
    "de": "das Nassfutter",
    "register": "tu",
    "anker": "saber",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_13.mp3",
    "satz": {
     "fr": "A mediodía toca comida húmeda, y él lo sabe.",
     "de": "Mittags gibt es Nassfutter, und das weiß er.",
     "luecke": "comida húmeda",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_13.mp3"
    },
    "zeit": null
   },
@@ -1648,12 +1648,12 @@ window.SPRACHEN["es-de"] = {
    "de": "einen Blick haben",
    "register": "tu",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_14.mp3",
    "satz": {
     "fr": "Tiene una mirada que dice: « Llegas tarde ».",
     "de": "Sie hat einen Blick, der sagt: „Du bist spät dran.“",
     "luecke": "Tiene una mirada",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_14.mp3"
    },
    "zeit": null
   },
@@ -1664,21 +1664,21 @@ window.SPRACHEN["es-de"] = {
    "de": "springen auf",
    "register": "tu",
    "anker": "saltar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_15.mp3",
    "satz": {
     "fr": "Salta a la mesa mientras corrijo exámenes.",
     "de": "Er springt auf den Tisch, während ich Arbeiten korrigiere.",
     "luecke": "Salta a",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_15.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Saltó a la mesa mientras corregía.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_15_pc.mp3"
     },
     "fp": {
      "fr": "Va a saltar a la mesa, como siempre.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_15_fp.mp3"
     }
    }
   },
@@ -1689,21 +1689,21 @@ window.SPRACHEN["es-de"] = {
    "de": "sich verstecken",
    "register": "tu",
    "anker": "esconderse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_16.mp3",
    "satz": {
     "fr": "Cuando sale la aspiradora, se esconde debajo de la cama.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unterm Bett.",
     "luecke": "se esconde",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_16.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Cuando salió la aspiradora, se escondió debajo de la cama.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_16_pc.mp3"
     },
     "fp": {
      "fr": "Cuando salga la aspiradora, se va a esconder debajo de la cama.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_16_fp.mp3"
     }
    }
   },
@@ -1714,21 +1714,21 @@ window.SPRACHEN["es-de"] = {
    "de": "Gesellschaft leisten",
    "register": "tu",
    "anker": "hacer",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_17.mp3",
    "satz": {
     "fr": "Mis gatos me hacen compañía cuando preparo las clases.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich Unterricht vorbereite.",
     "luecke": "me hacen compañía",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_17.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Mis gatos me hicieron compañía toda la tarde.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_17_pc.mp3"
     },
     "fp": {
      "fr": "Mis gatos me van a hacer compañía esta tarde.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_17_fp.mp3"
     }
    }
   },
@@ -1739,12 +1739,12 @@ window.SPRACHEN["es-de"] = {
    "de": "eine Straßenkatze, Hauskatze ohne Rasse",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_18.mp3",
    "satz": {
     "fr": "No es un gato de raza, es un gato callejero, y es perfecto.",
     "de": "Es ist keine Rassekatze, es ist eine Straßenkatze, und er ist perfekt.",
     "luecke": "gato callejero",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_18.mp3"
    },
    "zeit": null
   },
@@ -1755,21 +1755,21 @@ window.SPRACHEN["es-de"] = {
    "de": "Unsinn anstellen",
    "register": "tu",
    "anker": "hacer",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_19.mp3",
    "satz": {
     "fr": "Cuando no estoy, hacen travesuras.",
     "de": "Wenn ich nicht da bin, stellen sie Unsinn an.",
     "luecke": "hacen travesuras",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_19.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Cuando no estaba, hicieron travesuras.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_19_pc.mp3"
     },
     "fp": {
      "fr": "Cuando no esté, van a hacer travesuras.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_19_fp.mp3"
     }
    }
   },
@@ -1780,12 +1780,12 @@ window.SPRACHEN["es-de"] = {
    "de": "der Tierarzt",
    "register": "tu",
    "anker": "volverse",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_20.mp3",
    "satz": {
     "fr": "En el veterinario, mi gato se vuelve muy, muy tranquilo.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "veterinario",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_20.mp3"
    },
    "zeit": null
   },
@@ -1796,12 +1796,12 @@ window.SPRACHEN["es-de"] = {
    "de": "das stört ihn nicht",
    "register": "tu",
    "anker": "importar",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_21.mp3",
    "satz": {
     "fr": "Desafino, pero a él no le importa. Bueno, creo.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich zumindest.",
     "luecke": "no le importa",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_21.mp3"
    },
    "zeit": null
   },
@@ -1812,12 +1812,12 @@ window.SPRACHEN["es-de"] = {
    "de": "unabhängig sein",
    "register": "tu",
    "anker": "ser",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_22.mp3",
    "satz": {
     "fr": "Un gato es independiente. Vuelve cuando tiene hambre.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "independiente",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_22.mp3"
    },
    "zeit": null
   },
@@ -1828,21 +1828,21 @@ window.SPRACHEN["es-de"] = {
    "de": "vor Wohlbehagen schnurren",
    "register": "tu",
    "anker": "ronronear",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_23.mp3",
    "satz": {
     "fr": "Al sol, ronronea de gusto con los ojos cerrados.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "ronronea de gusto",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_23.mp3"
    },
    "zeit": {
     "pc": {
      "fr": "Al sol, ronroneó de gusto.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_23_pc.mp3"
     },
     "fp": {
      "fr": "Al sol, va a ronronear de gusto.",
-     "audio": null
+     "audio": "audio/es-de/saetze/ga_23_fp.mp3"
     }
    }
   },
@@ -1853,12 +1853,12 @@ window.SPRACHEN["es-de"] = {
    "de": "Haben Sie eine Katze? (höflich)",
    "register": "vous",
    "anker": "tener",
-   "audio": null,
+   "audio": "audio/es-de/wendungen/ga_24.mp3",
    "satz": {
     "fr": "Perdone, señora, ¿tiene usted gato? Hay uno en su tejado.",
     "de": "Entschuldigung, Señora, haben Sie eine Katze? Da sitzt eine auf Ihrem Dach.",
     "luecke": "tiene usted gato",
-    "audio": null
+    "audio": "audio/es-de/saetze/ga_24.mp3"
    },
    "zeit": null
   }
@@ -2807,6 +2807,60 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/lob/stark_sigue.mp3",
   "audio/es-de/lob/stark_vuelas.mp3",
   "audio/es-de/lob/voll_sin_fallos.mp3",
+  "audio/es-de/saetze/ga_01.mp3",
+  "audio/es-de/saetze/ga_01_fp.mp3",
+  "audio/es-de/saetze/ga_01_pc.mp3",
+  "audio/es-de/saetze/ga_02.mp3",
+  "audio/es-de/saetze/ga_02_fp.mp3",
+  "audio/es-de/saetze/ga_02_pc.mp3",
+  "audio/es-de/saetze/ga_03.mp3",
+  "audio/es-de/saetze/ga_03_fp.mp3",
+  "audio/es-de/saetze/ga_03_pc.mp3",
+  "audio/es-de/saetze/ga_04.mp3",
+  "audio/es-de/saetze/ga_04_fp.mp3",
+  "audio/es-de/saetze/ga_04_pc.mp3",
+  "audio/es-de/saetze/ga_05.mp3",
+  "audio/es-de/saetze/ga_05_fp.mp3",
+  "audio/es-de/saetze/ga_05_pc.mp3",
+  "audio/es-de/saetze/ga_06.mp3",
+  "audio/es-de/saetze/ga_06_fp.mp3",
+  "audio/es-de/saetze/ga_06_pc.mp3",
+  "audio/es-de/saetze/ga_07.mp3",
+  "audio/es-de/saetze/ga_07_fp.mp3",
+  "audio/es-de/saetze/ga_07_pc.mp3",
+  "audio/es-de/saetze/ga_08.mp3",
+  "audio/es-de/saetze/ga_08_fp.mp3",
+  "audio/es-de/saetze/ga_08_pc.mp3",
+  "audio/es-de/saetze/ga_09.mp3",
+  "audio/es-de/saetze/ga_10.mp3",
+  "audio/es-de/saetze/ga_10_fp.mp3",
+  "audio/es-de/saetze/ga_10_pc.mp3",
+  "audio/es-de/saetze/ga_11.mp3",
+  "audio/es-de/saetze/ga_11_fp.mp3",
+  "audio/es-de/saetze/ga_11_pc.mp3",
+  "audio/es-de/saetze/ga_12.mp3",
+  "audio/es-de/saetze/ga_13.mp3",
+  "audio/es-de/saetze/ga_14.mp3",
+  "audio/es-de/saetze/ga_15.mp3",
+  "audio/es-de/saetze/ga_15_fp.mp3",
+  "audio/es-de/saetze/ga_15_pc.mp3",
+  "audio/es-de/saetze/ga_16.mp3",
+  "audio/es-de/saetze/ga_16_fp.mp3",
+  "audio/es-de/saetze/ga_16_pc.mp3",
+  "audio/es-de/saetze/ga_17.mp3",
+  "audio/es-de/saetze/ga_17_fp.mp3",
+  "audio/es-de/saetze/ga_17_pc.mp3",
+  "audio/es-de/saetze/ga_18.mp3",
+  "audio/es-de/saetze/ga_19.mp3",
+  "audio/es-de/saetze/ga_19_fp.mp3",
+  "audio/es-de/saetze/ga_19_pc.mp3",
+  "audio/es-de/saetze/ga_20.mp3",
+  "audio/es-de/saetze/ga_21.mp3",
+  "audio/es-de/saetze/ga_22.mp3",
+  "audio/es-de/saetze/ga_23.mp3",
+  "audio/es-de/saetze/ga_23_fp.mp3",
+  "audio/es-de/saetze/ga_23_pc.mp3",
+  "audio/es-de/saetze/ga_24.mp3",
   "audio/es-de/saetze/pr_01.mp3",
   "audio/es-de/saetze/pr_01_fp.mp3",
   "audio/es-de/saetze/pr_01_pc.mp3",
@@ -2915,6 +2969,30 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/spiel/titel_5.mp3",
   "audio/es-de/spiel/titel_6.mp3",
   "audio/es-de/spiel/woche.mp3",
+  "audio/es-de/wendungen/ga_01.mp3",
+  "audio/es-de/wendungen/ga_02.mp3",
+  "audio/es-de/wendungen/ga_03.mp3",
+  "audio/es-de/wendungen/ga_04.mp3",
+  "audio/es-de/wendungen/ga_05.mp3",
+  "audio/es-de/wendungen/ga_06.mp3",
+  "audio/es-de/wendungen/ga_07.mp3",
+  "audio/es-de/wendungen/ga_08.mp3",
+  "audio/es-de/wendungen/ga_09.mp3",
+  "audio/es-de/wendungen/ga_10.mp3",
+  "audio/es-de/wendungen/ga_11.mp3",
+  "audio/es-de/wendungen/ga_12.mp3",
+  "audio/es-de/wendungen/ga_13.mp3",
+  "audio/es-de/wendungen/ga_14.mp3",
+  "audio/es-de/wendungen/ga_15.mp3",
+  "audio/es-de/wendungen/ga_16.mp3",
+  "audio/es-de/wendungen/ga_17.mp3",
+  "audio/es-de/wendungen/ga_18.mp3",
+  "audio/es-de/wendungen/ga_19.mp3",
+  "audio/es-de/wendungen/ga_20.mp3",
+  "audio/es-de/wendungen/ga_21.mp3",
+  "audio/es-de/wendungen/ga_22.mp3",
+  "audio/es-de/wendungen/ga_23.mp3",
+  "audio/es-de/wendungen/ga_24.mp3",
   "audio/es-de/wendungen/pr_01.mp3",
   "audio/es-de/wendungen/pr_02.mp3",
   "audio/es-de/wendungen/pr_03.mp3",
