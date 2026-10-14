@@ -6313,8 +6313,8 @@ window.SPRACHEN["fr-de"] = {
     ]
    },
    {
-    "text": "Bravo !",
-    "audio": "audio/fr-de/lob/lob_bravo.mp3",
+    "text": "Bravo, très bien !",
+    "audio": "audio/fr-de/lob/lob_bravo_fr.mp3",
     "gruppe": [
      "bravo"
     ]
@@ -6327,29 +6327,29 @@ window.SPRACHEN["fr-de"] = {
     ]
    },
    {
-    "text": "Excellent !",
-    "audio": "audio/fr-de/lob/lob_excellent.mp3",
+    "text": "C'est excellent !",
+    "audio": "audio/fr-de/lob/lob_excellent_fr.mp3",
     "gruppe": [
      "excellent"
     ]
    },
    {
-    "text": "Super !",
-    "audio": "audio/fr-de/lob/lob_super.mp3",
+    "text": "C'est super !",
+    "audio": "audio/fr-de/lob/lob_super_fr.mp3",
     "gruppe": [
      "super"
     ]
    },
    {
-    "text": "Nickel !",
-    "audio": "audio/fr-de/lob/lob_nickel.mp3",
+    "text": "C'est nickel !",
+    "audio": "audio/fr-de/lob/lob_nickel_fr.mp3",
     "gruppe": [
      "nickel"
     ]
    },
    {
-    "text": "Impeccable !",
-    "audio": "audio/fr-de/lob/lob_impeccable.mp3",
+    "text": "C'est impeccable !",
+    "audio": "audio/fr-de/lob/lob_impeccable_fr.mp3",
     "gruppe": [
      "impeccable"
     ]
@@ -6397,15 +6397,15 @@ window.SPRACHEN["fr-de"] = {
     ]
    },
    {
-    "text": "Formidable !",
-    "audio": "audio/fr-de/lob/lob_formidable.mp3",
+    "text": "C'est formidable !",
+    "audio": "audio/fr-de/lob/lob_formidable_fr.mp3",
     "gruppe": [
      "formidable"
     ]
    },
    {
-    "text": "Top !",
-    "audio": "audio/fr-de/lob/lob_top.mp3",
+    "text": "Au top !",
+    "audio": "audio/fr-de/lob/lob_top_fr.mp3",
     "gruppe": [
      "top"
     ]
@@ -6425,8 +6425,8 @@ window.SPRACHEN["fr-de"] = {
     ]
    },
    {
-    "text": "Exact !",
-    "audio": "audio/fr-de/lob/lob_exact.mp3",
+    "text": "C'est exact !",
+    "audio": "audio/fr-de/lob/lob_exact_fr.mp3",
     "gruppe": [
      "exact"
     ]
@@ -6530,8 +6530,8 @@ window.SPRACHEN["fr-de"] = {
     ]
    },
    {
-    "text": "Bingo !",
-    "audio": "audio/fr-de/lob/lob_bingo.mp3",
+    "text": "Bingo, c'est ça !",
+    "audio": "audio/fr-de/lob/lob_bingo_fr.mp3",
     "gruppe": [
      "bingo"
     ]
@@ -6544,22 +6544,22 @@ window.SPRACHEN["fr-de"] = {
     ]
    },
    {
-    "text": "Extra !",
-    "audio": "audio/fr-de/lob/lob_extra.mp3",
+    "text": "C'est extra !",
+    "audio": "audio/fr-de/lob/lob_extra_fr.mp3",
     "gruppe": [
      "extra"
     ]
    },
    {
-    "text": "Terrible !",
-    "audio": "audio/fr-de/lob/lob_terrible.mp3",
+    "text": "Terrible, ça !",
+    "audio": "audio/fr-de/lob/lob_terrible_fr.mp3",
     "gruppe": [
      "terrible"
     ]
    },
    {
-    "text": "Canon !",
-    "audio": "audio/fr-de/lob/lob_canon.mp3",
+    "text": "C'est canon !",
+    "audio": "audio/fr-de/lob/lob_canon_fr.mp3",
     "gruppe": [
      "canon"
     ]
@@ -8190,12 +8190,12 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/lob/lob_bien_dit.mp3",
   "audio/fr-de/lob/lob_bien_joue.mp3",
   "audio/fr-de/lob/lob_bien_vu.mp3",
-  "audio/fr-de/lob/lob_bingo.mp3",
-  "audio/fr-de/lob/lob_bravo.mp3",
+  "audio/fr-de/lob/lob_bingo_fr.mp3",
+  "audio/fr-de/lob/lob_bravo_fr.mp3",
   "audio/fr-de/lob/lob_ca_cest_bien.mp3",
   "audio/fr-de/lob/lob_ca_roule.mp3",
   "audio/fr-de/lob/lob_ca_sonne.mp3",
-  "audio/fr-de/lob/lob_canon.mp3",
+  "audio/fr-de/lob/lob_canon_fr.mp3",
   "audio/fr-de/lob/lob_cest_ca.mp3",
   "audio/fr-de/lob/lob_chapeau.mp3",
   "audio/fr-de/lob/lob_comme_un_chef.mp3",
@@ -8203,14 +8203,14 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/lob/lob_du_francais.mp3",
   "audio/fr-de/lob/lob_encore_un_point.mp3",
   "audio/fr-de/lob/lob_et_voila.mp3",
-  "audio/fr-de/lob/lob_exact.mp3",
+  "audio/fr-de/lob/lob_exact_fr.mp3",
   "audio/fr-de/lob/lob_exactement.mp3",
   "audio/fr-de/lob/lob_exactement_ca.mp3",
-  "audio/fr-de/lob/lob_excellent.mp3",
-  "audio/fr-de/lob/lob_extra.mp3",
-  "audio/fr-de/lob/lob_formidable.mp3",
+  "audio/fr-de/lob/lob_excellent_fr.mp3",
+  "audio/fr-de/lob/lob_extra_fr.mp3",
+  "audio/fr-de/lob/lob_formidable_fr.mp3",
   "audio/fr-de/lob/lob_genial.mp3",
-  "audio/fr-de/lob/lob_impeccable.mp3",
+  "audio/fr-de/lob/lob_impeccable_fr.mp3",
   "audio/fr-de/lob/lob_jadore.mp3",
   "audio/fr-de/lob/lob_joli.mp3",
   "audio/fr-de/lob/lob_juste.mp3",
@@ -8218,7 +8218,7 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/lob/lob_magnifique.mp3",
   "audio/fr-de/lob/lob_monsieur_prof.mp3",
   "audio/fr-de/lob/lob_musique.mp3",
-  "audio/fr-de/lob/lob_nickel.mp3",
+  "audio/fr-de/lob/lob_nickel_fr.mp3",
   "audio/fr-de/lob/lob_oreille.mp3",
   "audio/fr-de/lob/lob_oui.mp3",
   "audio/fr-de/lob/lob_parfait.mp3",
@@ -8229,9 +8229,9 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/lob/lob_quel_accent.mp3",
   "audio/fr-de/lob/lob_rien_a_dire.mp3",
   "audio/fr-de/lob/lob_sans_faute.mp3",
-  "audio/fr-de/lob/lob_super.mp3",
-  "audio/fr-de/lob/lob_terrible.mp3",
-  "audio/fr-de/lob/lob_top.mp3",
+  "audio/fr-de/lob/lob_super_fr.mp3",
+  "audio/fr-de/lob/lob_terrible_fr.mp3",
+  "audio/fr-de/lob/lob_top_fr.mp3",
   "audio/fr-de/lob/lob_tout_a_fait.mp3",
   "audio/fr-de/lob/lob_tout_bon.mp3",
   "audio/fr-de/lob/lob_tres_bien.mp3",

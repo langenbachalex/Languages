@@ -3,23 +3,23 @@ lob_genial	lob	Génial !	genial
 lob_chapeau	lob	Chapeau !	chapeau
 lob_trop_fort	lob	Trop fort !	fort
 lob_magnifique	lob	Magnifique !	magnifique
-lob_bravo	lob	Bravo !	bravo
+lob_bravo_fr	lob	Bravo, très bien !	bravo
 lob_parfait	lob	Parfait !	parfait
-lob_excellent	lob	Excellent !	excellent
-lob_super	lob	Super !	super
-lob_nickel	lob	Nickel !	nickel
-lob_impeccable	lob	Impeccable !	impeccable
+lob_excellent_fr	lob	C'est excellent !	excellent
+lob_super_fr	lob	C'est super !	super
+lob_nickel_fr	lob	C'est nickel !	nickel
+lob_impeccable_fr	lob	C'est impeccable !	impeccable
 lob_exactement	lob	Exactement !	exact
 lob_voila	lob	Voilà !	voila
 lob_cest_ca	lob	C'est ça !	ca
 lob_bien_joue	lob	Bien joué !	bien
 lob_tu_geres	lob	Tu gères !	gere
 lob_la_classe	lob	La classe !	classe
-lob_formidable	lob	Formidable !	formidable
-lob_top	lob	Top !	top
+lob_formidable_fr	lob	C'est formidable !	formidable
+lob_top_fr	lob	Au top !	top
 lob_oui	lob	Oui !	oui
 lob_tout_a_fait	lob	Tout à fait !	fait
-lob_exact	lob	Exact !	exact
+lob_exact_fr	lob	C'est exact !	exact
 lob_tout_bon	lob	C'est tout bon !	bon
 lob_bien_vu	lob	Bien vu !	bien
 lob_joli	lob	Joli !	joli
@@ -34,11 +34,11 @@ lob_sans_faute	lob	Sans faute !	faute
 lob_tu_assures	lob	Tu assures !	assure
 lob_comme_un_chef	lob	Comme un chef !	chef
 lob_dans_le_mille	lob	Dans le mille !	mille
-lob_bingo	lob	Bingo !	bingo
+lob_bingo_fr	lob	Bingo, c'est ça !	bingo
 lob_ca_roule	lob	Ça roule !	roule
-lob_extra	lob	Extra !	extra
-lob_terrible	lob	Terrible !	terrible
-lob_canon	lob	Canon !	canon
+lob_extra_fr	lob	C'est extra !	extra
+lob_terrible_fr	lob	Terrible, ça !	terrible
+lob_canon_fr	lob	C'est canon !	canon
 lob_du_francais	lob	Ça, c'est du français !	francais
 lob_quel_accent	lob	Quel accent !	accent
 lob_premier_coup	lob	Du premier coup !	coup
