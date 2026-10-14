@@ -64,17 +64,23 @@ Alle Achsen passen in das bestehende Format « 24 Einträge pro Thema, 3 Teile �
 
 **Empfehlung:** Mit einem gemeinfreien Buch anfangen, Kapitel 1 als Probe: Markdown einlesen, Vokabelliste automatisch ziehen, du wählst, ich baue das Thema. Wenn das Format sitzt, der Rest.
 
-## 5. Offene Entscheidungen (vor jedem Bauschritt)
+## 5. Festgelegt (Mr. Alex, 14.10.)
+
+- **Bilingual bleibt.** Deutsch ist fester Bestandteil, nicht nur Notfallebene: Die deutsche Entsprechung steht neben jedem englischen Wort und jeder Wendung, weil es ums Denken in beiden Sprachen geht. Die englische Gloss (Definition, Synonymfeld) kommt dazu, ersetzt das Deutsche aber nicht. Praktisch: `deutsch` = deutsche Entsprechung(en), `satz_de` = deutsche Fassung des Satzes, Notiz = Usage note auf Englisch mit deutschem Vergleich, wo er hilft (« das Deutsche hat dafür zwei Wörter / kein Wort »).
+- **Stimme:** der Klon hat britisches Englisch eingesprochen; `language_code: en`, Hörprobe trotzdem, weil der Klon im Test stellenweise ein gerolltes oder rhotisches r gesprochen hat. Falls nötig, wird britische Aussprache über die Schreibung im Audiotext forciert (wie « Mess » für Metz): AUSSPRACHE_KORREKTUR im Sprachpaket.
+- **Noch nichts bauen.** Weitere Entscheidungen folgen.
+
+## 6. Offene Entscheidungen (vor jedem Bauschritt)
 
 1. **Zweite Stimme:** Simon ist noch nicht im Konto. Sobald du ihn eingepflegt hast, brauche ich die Stimmen-ID; dann Hörprobe deiner Stimme auf britischem Englisch und Simon im Vergleich.
 2. **Pensum für Englisch:** 3 + 8 wie bisher oder mehr?
-3. **Hilfsebene:** nur Englisch (Definition), oder Deutsch als dritte Ebene dahinter?
+3. ~~Hilfsebene~~ entschieden: Deutsch bleibt fester Bestandteil, englische Gloss zusätzlich.
 4. **Welche Achsen zuerst?** Mein Vorschlag für den Start: *Precision pairs* (passt in das bestehende Format fast ohne Code), dann *Register ladders* (braucht die umgebaute Zeitmaschine), dann *Literary vocabulary* mit Aussprache.
 5. **Simons Rolle:** Kollege im Lehrerzimmer wie die anderen, oder etwas anderes (Lektor, Buchhändler, Dozent in Oxford), was zum Register passt?
 6. **Literaturbegleitung:** welches Buch als Probe? Gemeinfrei oder eigenes?
 7. **Karte und Geschichte:** Großbritannien mit Counties, Geschichte in London (oder Oxford). Oder beides weglassen, weil die Belohnung bei diesem Niveau eher das Buch ist.
 
-## 6. Aufwand (grob)
+## 7. Aufwand (grob)
 
 | Schritt | Aufwand |
 |---|---|
