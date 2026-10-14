@@ -71,16 +71,18 @@ Alle Achsen passen in das bestehende Format « 24 Einträge pro Thema, 3 Teile �
 - **Simon ist ein Freund** (kein Kollege, kein Dozent).
 - **Karte und Geschichte: ja.** Geschichte **auf dem Buch aufbauend**, das auch die Literaturbegleitung trägt.
 - **Buch:** « The Dragonbone Chair » (Tad Williams, 1988, Memory, Sorrow and Thorn 1), Link auf archive.org (Leihbibliothek, nur mit Konto ausleihbar, DRM). Aus dieser Umgebung nicht lesbar (archive.org ist gesperrt); der Text müsste von Mr. Alex selbst bereitgestellt werden. Urheberrechtlich geschützt: Der Buchtext darf **nicht** ins öffentliche Repository, nur über einen Ladeweg, der ihn auf dem Gerät behält. Die Geschichte in der App muss eine **eigene Erzählung in der Welt und im Ton des Buches** sein, keine Nacherzählung.
+- **Alternativ:** « The Lord of the Rings » und « The Silmarillion » (Tolkien). Urheberrechtlich dieselbe Lage: geschützt (in EU und UK bis 2044), Text nur über den Ladeweg auf dem Gerät, nicht ins Repository; Geschichte in der App als eigene Erzählung in der Welt, keine Nacherzählung.
+- **Pensum bleibt** 3 neue + 8 alte pro Tag.
 - **Noch nichts bauen.** Weitere Entscheidungen folgen.
 
 ## 6. Offene Entscheidungen (vor jedem Bauschritt)
 
 1. **Zweite Stimme:** Simon ist noch nicht im Konto. Sobald du ihn eingepflegt hast, brauche ich die Stimmen-ID; dann Hörprobe deiner Stimme auf britischem Englisch und Simon im Vergleich.
-2. **Pensum für Englisch:** 3 + 8 wie bisher oder mehr?
+2. ~~Pensum~~ entschieden: 3 + 8 wie bisher.
 3. ~~Hilfsebene~~ entschieden: Deutsch bleibt fester Bestandteil, englische Gloss zusätzlich.
 4. **Welche Achsen zuerst?** Mein Vorschlag für den Start: *Precision pairs* (passt in das bestehende Format fast ohne Code), dann *Register ladders* (braucht die umgebaute Zeitmaschine), dann *Literary vocabulary* mit Aussprache.
 5. ~~Simons Rolle~~ entschieden: ein Freund.
-6. ~~Buch~~ entschieden: The Dragonbone Chair; offen: wie der Text in die Arbeit kommt (Datei von Mr. Alex).
+6. ~~Buch~~ entschieden: The Dragonbone Chair, sonst The Lord of the Rings / The Silmarillion; offen: wie der Text in die Arbeit kommt (Datei von Mr. Alex).
 7. ~~Karte und Geschichte~~ entschieden: beides ja, Geschichte in der Welt des Buches (eigene Erzählung).
 
 ## 7. Aufwand (grob)
