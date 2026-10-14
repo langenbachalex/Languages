@@ -68,6 +68,9 @@ Alle Achsen passen in das bestehende Format « 24 Einträge pro Thema, 3 Teile �
 
 - **Bilingual bleibt.** Deutsch ist fester Bestandteil, nicht nur Notfallebene: Die deutsche Entsprechung steht neben jedem englischen Wort und jeder Wendung, weil es ums Denken in beiden Sprachen geht. Die englische Gloss (Definition, Synonymfeld) kommt dazu, ersetzt das Deutsche aber nicht. Praktisch: `deutsch` = deutsche Entsprechung(en), `satz_de` = deutsche Fassung des Satzes, Notiz = Usage note auf Englisch mit deutschem Vergleich, wo er hilft (« das Deutsche hat dafür zwei Wörter / kein Wort »).
 - **Stimme:** der Klon hat britisches Englisch eingesprochen; `language_code: en`, Hörprobe trotzdem, weil der Klon im Test stellenweise ein gerolltes oder rhotisches r gesprochen hat. Falls nötig, wird britische Aussprache über die Schreibung im Audiotext forciert (wie « Mess » für Metz): AUSSPRACHE_KORREKTUR im Sprachpaket.
+- **Simon ist ein Freund** (kein Kollege, kein Dozent).
+- **Karte und Geschichte: ja.** Geschichte **auf dem Buch aufbauend**, das auch die Literaturbegleitung trägt.
+- **Buch:** « The Dragonbone Chair » (Tad Williams, 1988, Memory, Sorrow and Thorn 1), Link auf archive.org (Leihbibliothek, nur mit Konto ausleihbar, DRM). Aus dieser Umgebung nicht lesbar (archive.org ist gesperrt); der Text müsste von Mr. Alex selbst bereitgestellt werden. Urheberrechtlich geschützt: Der Buchtext darf **nicht** ins öffentliche Repository, nur über einen Ladeweg, der ihn auf dem Gerät behält. Die Geschichte in der App muss eine **eigene Erzählung in der Welt und im Ton des Buches** sein, keine Nacherzählung.
 - **Noch nichts bauen.** Weitere Entscheidungen folgen.
 
 ## 6. Offene Entscheidungen (vor jedem Bauschritt)
@@ -76,9 +79,9 @@ Alle Achsen passen in das bestehende Format « 24 Einträge pro Thema, 3 Teile �
 2. **Pensum für Englisch:** 3 + 8 wie bisher oder mehr?
 3. ~~Hilfsebene~~ entschieden: Deutsch bleibt fester Bestandteil, englische Gloss zusätzlich.
 4. **Welche Achsen zuerst?** Mein Vorschlag für den Start: *Precision pairs* (passt in das bestehende Format fast ohne Code), dann *Register ladders* (braucht die umgebaute Zeitmaschine), dann *Literary vocabulary* mit Aussprache.
-5. **Simons Rolle:** Kollege im Lehrerzimmer wie die anderen, oder etwas anderes (Lektor, Buchhändler, Dozent in Oxford), was zum Register passt?
-6. **Literaturbegleitung:** welches Buch als Probe? Gemeinfrei oder eigenes?
-7. **Karte und Geschichte:** Großbritannien mit Counties, Geschichte in London (oder Oxford). Oder beides weglassen, weil die Belohnung bei diesem Niveau eher das Buch ist.
+5. ~~Simons Rolle~~ entschieden: ein Freund.
+6. ~~Buch~~ entschieden: The Dragonbone Chair; offen: wie der Text in die Arbeit kommt (Datei von Mr. Alex).
+7. ~~Karte und Geschichte~~ entschieden: beides ja, Geschichte in der Welt des Buches (eigene Erzählung).
 
 ## 7. Aufwand (grob)
 
