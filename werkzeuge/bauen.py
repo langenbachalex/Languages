@@ -12,6 +12,7 @@ APP = os.path.join(BASIS, "app")
 SCHRIFT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
 PAKETE = ["fr_de", "es_de", "it_de", "de_fr"]   # Reihenfolge = Reihenfolge im Umschalter
+AUDIO_STAND = 2   # erhöhen, wenn vorhandene Audiodateien ersetzt wurden (Browser verwirft dann den Audio-Speicher)
 # Tagespensum (Mr. Alex, 13.10.): 3 neue Wendungen, höchstens 8 Wiederholungen – pro Sprache
 PENSUM = {"neu": 3, "wiederholung": 8}
 # Leitner-Stufen: nach so vielen Tagen kommt eine Wendung wieder (Stufe 0 = neu / vergessen)
@@ -106,7 +107,7 @@ def daten_fuer(P):
              "texte": {k: {"text": t, "audio": audio(f"spiel/{k}.mp3")} for k, t in P.SPIEL_TEXTE.items()},
              "frei": frei_saarland.als_daten()}
     return {"paar": paar, "name": P.NAME, "kurz": P.KURZ, "hilfe_kurz": P.HILFE_KURZ, "flagge": P.FLAGGE, "lang": P.LANG, "lang_hilfe": P.LANG_HILFE,
-            "sprachausgabe": P.SPRACHAUSGABE, "theme": {"blau": P.THEME["blau"], "rot": P.THEME["rot"]},
+            "sprachausgabe": P.SPRACHAUSGABE, "audio_speicher": f"ll-audio-{AUDIO_STAND}", "theme": {"blau": P.THEME["blau"], "rot": P.THEME["rot"]},
             "ui": P.UI, "themen": themen, "wendungen": wendungen, "dialoge": dialoge, "rollen": P.ROLLEN, "dialoge_titel": P.DIALOGE_TITEL,
             "aussprache": aussprache, "geschichte": geschichte, "geschichte_info": P.GESCHICHTE, "lob": lob,
             "pensum": PENSUM, "intervalle": INTERVALLE, "spiel": spiel}
@@ -201,17 +202,19 @@ def webapp(paare):
             with open(pfad, "rb") as f:
                 h.update(rel.encode() + f.read())
     version = h.hexdigest()[:12]
+    audio_version = f"ll-audio-{AUDIO_STAND}"
     with open(os.path.join(APP, "sw.js"), "w", encoding="utf-8") as f:
         f.write(f"""// Automatisch erzeugt von werkzeuge/bauen.py – Offline-Speicher von Language Learning.
-// Kern (Code, Daten, Icons) wird bei jeder Version neu geladen; Audio bleibt im eigenen Speicher (ll-audio), gefüllt beim Abspielen oder über „Hors-ligne“.
+// Kern (Code, Daten, Icons) wird bei jeder Version neu geladen; Audio bleibt im eigenen Speicher ({audio_version}), gefüllt beim Abspielen oder über „Hors-ligne“.
+// Wird AUDIO_STAND in bauen.py erhöht (nach Neuaufnahmen oder Lautstärke-Angleich), verwirft der Browser alle alten Audios.
 const VERSION = "ll-kern-{version}";
-const AUDIO = "ll-audio";
+const AUDIO = "{audio_version}";
 const DATEIEN = {json.dumps(dateien)};
 self.addEventListener("install", (e) => {{
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(DATEIEN)).then(() => self.skipWaiting()));
 }});
 self.addEventListener("activate", (e) => {{
-  e.waitUntil(caches.keys().then((alle) => Promise.all(alle.filter((k) => k.startsWith("ll-kern-") && k !== VERSION).map((k) => caches.delete(k))))
+  e.waitUntil(caches.keys().then((alle) => Promise.all(alle.filter((k) => (k.startsWith("ll-kern-") && k !== VERSION) || (k.startsWith("ll-audio") && k !== AUDIO)).map((k) => caches.delete(k))))
     .then(() => self.clients.claim()));
 }});
 self.addEventListener("fetch", (e) => {{

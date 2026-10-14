@@ -9,6 +9,7 @@ window.SPRACHEN["de-fr"] = {
  "lang": "de",
  "lang_hilfe": "fr",
  "sprachausgabe": "de-DE",
+ "audio_speicher": "ll-audio-2",
  "theme": {
   "blau": "#2b2b2b",
   "rot": "#dd0000"

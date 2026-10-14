@@ -1,13 +1,14 @@
 // Automatisch erzeugt von werkzeuge/bauen.py – Offline-Speicher von Language Learning.
-// Kern (Code, Daten, Icons) wird bei jeder Version neu geladen; Audio bleibt im eigenen Speicher (ll-audio), gefüllt beim Abspielen oder über „Hors-ligne“.
-const VERSION = "ll-kern-6d4baf771ee6";
-const AUDIO = "ll-audio";
+// Kern (Code, Daten, Icons) wird bei jeder Version neu geladen; Audio bleibt im eigenen Speicher (ll-audio-2), gefüllt beim Abspielen oder über „Hors-ligne“.
+// Wird AUDIO_STAND in bauen.py erhöht (nach Neuaufnahmen oder Lautstärke-Angleich), verwirft der Browser alle alten Audios.
+const VERSION = "ll-kern-c9672ab38bb4";
+const AUDIO = "ll-audio-2";
 const DATEIEN = ["./", "LIESMICH.md", "app.css", "app.js", "basis.css", "daten_de-fr.js", "daten_es-de.js", "daten_fr-de.js", "daten_it-de.js", "index.html", "manifest.webmanifest", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(DATEIEN)).then(() => self.skipWaiting()));
 });
 self.addEventListener("activate", (e) => {
-  e.waitUntil(caches.keys().then((alle) => Promise.all(alle.filter((k) => k.startsWith("ll-kern-") && k !== VERSION).map((k) => caches.delete(k))))
+  e.waitUntil(caches.keys().then((alle) => Promise.all(alle.filter((k) => (k.startsWith("ll-kern-") && k !== VERSION) || (k.startsWith("ll-audio") && k !== AUDIO)).map((k) => caches.delete(k))))
     .then(() => self.clients.claim()));
 });
 self.addEventListener("fetch", (e) => {

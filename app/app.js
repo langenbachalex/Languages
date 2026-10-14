@@ -1129,11 +1129,11 @@
   }
 
   /* ---------- Offline pro Sprache: Audio-Dateien in den Audio-Speicher laden (ll-audio, siehe sw.js) ---------- */
-  const AUDIO_CACHE = "ll-audio";
+  const AUDIO_CACHE = () => D.audio_speicher || "ll-audio";
   let offlineLauf = null;
   async function offlineStand() {
     if (!window.caches) return null;
-    const c = await caches.open(AUDIO_CACHE);
+    const c = await caches.open(AUDIO_CACHE());
     const da = new Set((await c.keys()).map((r) => new URL(r.url).pathname.split("/audio/")[1]).filter(Boolean).map((p) => "audio/" + p));
     return D.audio_liste.filter((p) => da.has(p)).length;
   }
@@ -1146,7 +1146,7 @@
     const laden = knopf(U.offline_laden, async () => {
       if (offlineLauf) return;
       laden.disabled = true; offlineLauf = true;
-      const c = await caches.open(AUDIO_CACHE);
+      const c = await caches.open(AUDIO_CACHE());
       const vorhanden = new Set((await c.keys()).map((r) => new URL(r.url).pathname.split("/audio/")[1]).filter(Boolean).map((p) => "audio/" + p));
       const fehlend = D.audio_liste.filter((p) => !vorhanden.has(p));
       let geladen = alle - fehlend.length;

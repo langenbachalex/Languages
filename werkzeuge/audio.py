@@ -60,6 +60,8 @@ def erzeugen(P, pfad, text, stimme):
     os.makedirs(os.path.dirname(ziel), exist_ok=True)
     with open(ziel, "wb") as f:
         f.write(daten)
+    import lautstaerke
+    lautstaerke.angleichen(ziel)   # gleiche Lautheit für alle Stimmen (−18 LUFS)
     return ziel
 
 
