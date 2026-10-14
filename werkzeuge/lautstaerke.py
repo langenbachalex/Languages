@@ -35,7 +35,16 @@ def angleichen(pfad):
     subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", pfad, "-af", filt,
                     "-ar", "44100", "-ac", "1", "-b:a", "128k", tmp], check=True)
     os.replace(tmp, pfad)
-    return i, float(messen(pfad)["input_i"])
+    neu = float(messen(pfad)["input_i"])
+    if neu < ZIEL_I - TOLERANZ:
+        # Linear ging nicht weiter, weil die Spitzen die Grenze erreichen (typisch für Bibliotheksstimmen):
+        # zweiter Durchgang mit Spitzenbegrenzung, danach sanft angehoben.
+        subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", pfad, "-af",
+                        f"alimiter=limit=0.7:level=false,loudnorm=I={ZIEL_I}:TP={ZIEL_TP}:LRA=20",
+                        "-ar", "44100", "-ac", "1", "-b:a", "128k", tmp], check=True)
+        os.replace(tmp, pfad)
+        neu = float(messen(pfad)["input_i"])
+    return i, neu
 
 
 def dateien(paare):
