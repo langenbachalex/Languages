@@ -5992,6 +5992,7 @@ window.SPRACHEN["es-de"] = {
   "lob": [
    {
     "text": "¡Genial!",
+    "de": "Genial!",
     "audio": "audio/es-de/lob/lob_genial.mp3?v=5b2cffc0",
     "gruppe": [
      "genial"
@@ -5999,6 +6000,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Olé!",
+    "de": "Olé!",
     "audio": "audio/es-de/lob/lob_ole.mp3?v=537ab738",
     "gruppe": [
      "ole"
@@ -6006,6 +6008,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué crack!",
+    "de": "Was für ein Ass!",
     "audio": "audio/es-de/lob/lob_crack.mp3?v=f278ba3b",
     "gruppe": [
      "crack"
@@ -6013,6 +6016,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Perfecto!",
+    "de": "Perfekt!",
     "audio": "audio/es-de/lob/lob_perfecto.mp3?v=a8888a7b",
     "gruppe": [
      "perfecto"
@@ -6020,6 +6024,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Así se hace!",
+    "de": "So macht man das!",
     "audio": "audio/es-de/lob/lob_asi_se_hace.mp3?v=9152661d",
     "gruppe": [
      "asi"
@@ -6027,6 +6032,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Eres un fenómeno!",
+    "de": "Du bist ein Phänomen!",
     "audio": "audio/es-de/lob/lob_fenomeno.mp3?v=e0617537",
     "gruppe": [
      "fenomeno"
@@ -6034,6 +6040,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Vamos!",
+    "de": "Los geht’s!",
     "audio": "audio/es-de/lob/lob_vamos.mp3?v=ccc11b7b",
     "gruppe": [
      "vamos"
@@ -6041,6 +6048,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡De lujo!",
+    "de": "Erstklassig!",
     "audio": "audio/es-de/lob/lob_de_lujo.mp3?v=d821449b",
     "gruppe": [
      "lujo"
@@ -6048,6 +6056,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Chapó!",
+    "de": "Hut ab!",
     "audio": "audio/es-de/lob/lob_chapo.mp3?v=7d43bc94",
     "gruppe": [
      "chapo"
@@ -6055,6 +6064,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Muy bien!",
+    "de": "Sehr gut!",
     "audio": "audio/es-de/lob/lob_muy_bien.mp3?v=60c220c7",
     "gruppe": [
      "bien"
@@ -6062,6 +6072,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Exacto!",
+    "de": "Genau!",
     "audio": "audio/es-de/lob/lob_exacto.mp3?v=08bddbef",
     "gruppe": [
      "exacto"
@@ -6069,6 +6080,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Eso es!",
+    "de": "Das ist es!",
     "audio": "audio/es-de/lob/lob_eso_es.mp3?v=a212f461",
     "gruppe": [
      "eso"
@@ -6076,6 +6088,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Estupendo!",
+    "de": "Großartig!",
     "audio": "audio/es-de/lob/lob_estupendo.mp3?v=f78b8827",
     "gruppe": [
      "estupendo"
@@ -6083,6 +6096,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Fantástico!",
+    "de": "Fantastisch!",
     "audio": "audio/es-de/lob/lob_fantastico.mp3?v=3f9a668c",
     "gruppe": [
      "fantastico"
@@ -6090,6 +6104,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Bravo!",
+    "de": "Bravo!",
     "audio": "audio/es-de/lob/lob_bravo.mp3?v=456df0b7",
     "gruppe": [
      "bravo"
@@ -6097,6 +6112,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Genial, tío!",
+    "de": "Genial, Alter!",
     "audio": "audio/es-de/lob/lob_genial_tio.mp3?v=321efdad",
     "gruppe": [
      "genial"
@@ -6104,6 +6120,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué bien!",
+    "de": "Wie schön!",
     "audio": "audio/es-de/lob/lob_que_bien.mp3?v=b59aeb21",
     "gruppe": [
      "bien"
@@ -6111,6 +6128,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Clavado!",
+    "de": "Auf den Punkt!",
     "audio": "audio/es-de/lob/lob_clavado.mp3?v=d5605348",
     "gruppe": [
      "clavado"
@@ -6118,6 +6136,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡A la primera!",
+    "de": "Beim ersten Mal!",
     "audio": "audio/es-de/lob/lob_a_la_primera.mp3?v=3722f449",
     "gruppe": [
      "primera"
@@ -6125,6 +6144,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Impecable!",
+    "de": "Einwandfrei!",
     "audio": "audio/es-de/lob/lob_impecable.mp3?v=ad65f51a",
     "gruppe": [
      "impecable"
@@ -6132,6 +6152,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Redondo!",
+    "de": "Rund (perfekt)!",
     "audio": "audio/es-de/lob/lob_redondo.mp3?v=e42d9c50",
     "gruppe": [
      "redondo"
@@ -6139,6 +6160,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡De diez!",
+    "de": "Eine Zehn!",
     "audio": "audio/es-de/lob/lob_de_diez.mp3?v=cd7064d1",
     "gruppe": [
      "diez"
@@ -6146,6 +6168,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué nivel!",
+    "de": "Was für ein Niveau!",
     "audio": "audio/es-de/lob/lob_que_nivel.mp3?v=33c0f034",
     "gruppe": [
      "nivel"
@@ -6153,6 +6176,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Bien dicho!",
+    "de": "Gut gesagt!",
     "audio": "audio/es-de/lob/lob_bien_dicho.mp3?v=6b016b5d",
     "gruppe": [
      "bien"
@@ -6160,6 +6184,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Sin fallos!",
+    "de": "Fehlerfrei!",
     "audio": "audio/es-de/lob/lob_sin_fallos.mp3?v=4a1856c2",
     "gruppe": [
      "fallos"
@@ -6167,6 +6192,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué acento!",
+    "de": "Was für ein Akzent!",
     "audio": "audio/es-de/lob/lob_que_acento.mp3?v=d591bb74",
     "gruppe": [
      "acento"
@@ -6174,6 +6200,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Eso sí es español!",
+    "de": "Das ist Spanisch!",
     "audio": "audio/es-de/lob/lob_eso_es_espanol.mp3?v=51a08f67",
     "gruppe": [
      "espanol"
@@ -6181,6 +6208,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Como un sevillano!",
+    "de": "Wie ein Sevillaner!",
     "audio": "audio/es-de/lob/lob_como_un_sevillano.mp3?v=d96dd8f6",
     "gruppe": [
      "sevillano"
@@ -6188,6 +6216,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Tienes oído!",
+    "de": "Du hast ein gutes Ohr!",
     "audio": "audio/es-de/lob/lob_tienes_oido.mp3?v=bedcf723",
     "gruppe": [
      "oido"
@@ -6195,6 +6224,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Suena de maravilla!",
+    "de": "Das klingt wunderbar!",
     "audio": "audio/es-de/lob/lob_suena_bien.mp3?v=a626a4e5",
     "gruppe": [
      "suena"
@@ -6202,6 +6232,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Me encanta!",
+    "de": "Ich liebe es!",
     "audio": "audio/es-de/lob/lob_me_encanta.mp3?v=15a150b3",
     "gruppe": [
      "encanta"
@@ -6209,6 +6240,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Vas mejorando!",
+    "de": "Du wirst immer besser!",
     "audio": "audio/es-de/lob/lob_vas_mejorando.mp3?v=83b4a101",
     "gruppe": [
      "mejorando"
@@ -6216,6 +6248,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Otro punto!",
+    "de": "Noch ein Punkt!",
     "audio": "audio/es-de/lob/lob_otro_punto.mp3?v=e3f24346",
     "gruppe": [
      "punto"
@@ -6223,6 +6256,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Lo bordas!",
+    "de": "Du machst das brillant!",
     "audio": "audio/es-de/lob/lob_lo_bordas.mp3?v=97e4050e",
     "gruppe": [
      "bordas"
@@ -6230,6 +6264,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué máquina!",
+    "de": "Was für eine Maschine!",
     "audio": "audio/es-de/lob/lob_que_maquina.mp3?v=8513d962",
     "gruppe": [
      "maquina"
@@ -6237,6 +6272,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Toma ya!",
+    "de": "Da hast du’s!",
     "audio": "audio/es-de/lob/lob_toma_ya.mp3?v=721e394e",
     "gruppe": [
      "toma"
@@ -6244,6 +6280,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Ahí está!",
+    "de": "Da ist es!",
     "audio": "audio/es-de/lob/lob_ahi_esta.mp3?v=ab720328",
     "gruppe": [
      "ahi"
@@ -6251,6 +6288,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Sin duda!",
+    "de": "Ohne Zweifel!",
     "audio": "audio/es-de/lob/lob_sin_duda.mp3?v=bf9f02b3",
     "gruppe": [
      "duda"
@@ -6258,6 +6296,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Correcto!",
+    "de": "Richtig!",
     "audio": "audio/es-de/lob/lob_correcto.mp3?v=a3517c86",
     "gruppe": [
      "correcto"
@@ -6265,6 +6304,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Justo!",
+    "de": "Genau!",
     "audio": "audio/es-de/lob/lob_justo.mp3?v=682b30c0",
     "gruppe": [
      "justo"
@@ -6272,6 +6312,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡De libro!",
+    "de": "Wie aus dem Lehrbuch!",
     "audio": "audio/es-de/lob/lob_de_libro.mp3?v=32c70cc6",
     "gruppe": [
      "libro"
@@ -6279,6 +6320,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Muy bien, señor profesor!",
+    "de": "Sehr gut, Herr Lehrer!",
     "audio": "audio/es-de/lob/lob_profesor.mp3?v=5c008325",
     "gruppe": [
      "profesor"
@@ -6286,6 +6328,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué bueno!",
+    "de": "Wie gut!",
     "audio": "audio/es-de/lob/lob_que_bueno.mp3?v=3c172ed9",
     "gruppe": [
      "bueno"
@@ -6293,6 +6336,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Pues sí!",
+    "de": "Na also!",
     "audio": "audio/es-de/lob/lob_pues_si.mp3?v=b26416f1",
     "gruppe": [
      "si"
@@ -6300,6 +6344,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Brutal!",
+    "de": "Brutal gut!",
     "audio": "audio/es-de/lob/lob_brutal.mp3?v=429c5799",
     "gruppe": [
      "brutal"
@@ -6307,6 +6352,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué guay!",
+    "de": "Wie cool!",
     "audio": "audio/es-de/lob/lob_guay.mp3?v=4f78739c",
     "gruppe": [
      "guay"
@@ -6314,6 +6360,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Cómo mola!",
+    "de": "Wie geil!",
     "audio": "audio/es-de/lob/lob_mola.mp3?v=ef83aa41",
     "gruppe": [
      "mola"
@@ -6321,6 +6368,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Enhorabuena!",
+    "de": "Glückwunsch!",
     "audio": "audio/es-de/lob/lob_enhorabuena.mp3?v=966501f9",
     "gruppe": [
      "enhorabuena"
@@ -6328,6 +6376,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Bien hecho!",
+    "de": "Gut gemacht!",
     "audio": "audio/es-de/lob/lob_bien_hecho.mp3?v=6060dd28",
     "gruppe": [
      "bien"
@@ -6335,6 +6384,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Vaya!",
+    "de": "Wow!",
     "audio": "audio/es-de/lob/lob_vaya.mp3?v=13015601",
     "gruppe": [
      "vaya"
@@ -6342,6 +6392,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Sigue así!",
+    "de": "Weiter so!",
     "audio": "audio/es-de/lob/lob_sigue_asi.mp3?v=79afea3c",
     "gruppe": [
      "sigue"
@@ -6349,6 +6400,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Lo tienes!",
+    "de": "Du hast es drauf!",
     "audio": "audio/es-de/lob/lob_lo_tienes.mp3?v=a4b7b8ed",
     "gruppe": [
      "tienes"
@@ -6356,6 +6408,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡De cine!",
+    "de": "Wie im Kino!",
     "audio": "audio/es-de/lob/lob_de_cine.mp3?v=77fec822",
     "gruppe": [
      "cine"
@@ -6363,6 +6416,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué pasada!",
+    "de": "Der Wahnsinn!",
     "audio": "audio/es-de/lob/lob_que_pasada.mp3?v=ea4a4bfa",
     "gruppe": [
      "pasada"
@@ -6372,6 +6426,7 @@ window.SPRACHEN["es-de"] = {
   "stark": [
    {
     "text": "¡Bravo, campeón!",
+    "de": "Bravo, Champion!",
     "audio": "audio/es-de/lob/stark_campeon.mp3?v=22e7ec12",
     "gruppe": [
      "bravo"
@@ -6379,6 +6434,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Increíble! ¡Estás en racha!",
+    "de": "Unglaublich! Du bist in Serie!",
     "audio": "audio/es-de/lob/stark_racha.mp3?v=11acb166",
     "gruppe": [
      "racha"
@@ -6386,6 +6442,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Estoy orgulloso de ti!",
+    "de": "Ich bin stolz auf dich!",
     "audio": "audio/es-de/lob/stark_orgulloso.mp3?v=23eff9e7",
     "gruppe": [
      "orgulloso"
@@ -6393,6 +6450,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Estupendo! ¡Sigue así!",
+    "de": "Großartig! Weiter so!",
     "audio": "audio/es-de/lob/stark_sigue.mp3?v=7c67ee3f",
     "gruppe": [
      "sigue"
@@ -6400,6 +6458,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué máquina eres!",
+    "de": "Was für eine Maschine du bist!",
     "audio": "audio/es-de/lob/stark_maquina.mp3?v=da6e15ad",
     "gruppe": [
      "maquina"
@@ -6407,6 +6466,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Eres una estrella!",
+    "de": "Du bist ein Star!",
     "audio": "audio/es-de/lob/stark_estrella.mp3?v=24a318cd",
     "gruppe": [
      "estrella"
@@ -6414,6 +6474,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Impresionante!",
+    "de": "Beeindruckend!",
     "audio": "audio/es-de/lob/stark_impresionante.mp3?v=1d651516",
     "gruppe": [
      "impresionante"
@@ -6421,6 +6482,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Lo haces parecer fácil!",
+    "de": "Du lässt es leicht aussehen!",
     "audio": "audio/es-de/lob/stark_facil.mp3?v=22e68a72",
     "gruppe": [
      "facil"
@@ -6428,6 +6490,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Justo lo que quería oír!",
+    "de": "Genau das wollte ich hören!",
     "audio": "audio/es-de/lob/stark_queria_oir.mp3?v=a8aee637",
     "gruppe": [
      "oir"
@@ -6435,6 +6498,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Hoy vuelas!",
+    "de": "Heute fliegst du!",
     "audio": "audio/es-de/lob/stark_vuelas.mp3?v=4662a61c",
     "gruppe": [
      "vuelas"
@@ -6442,6 +6506,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡En plena diana!",
+    "de": "Voll ins Schwarze!",
     "audio": "audio/es-de/lob/stark_diana.mp3?v=ef96c459",
     "gruppe": [
      "diana"
@@ -6449,6 +6514,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué actuación!",
+    "de": "Was für ein Auftritt!",
     "audio": "audio/es-de/lob/stark_actuacion.mp3?v=2a174fb1",
     "gruppe": [
      "actuacion"
@@ -6456,6 +6522,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Arrasas!",
+    "de": "Du räumst ab!",
     "audio": "audio/es-de/lob/stark_arrasas.mp3?v=7a4b659b",
     "gruppe": [
      "arrasas"
@@ -6463,6 +6530,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Qué nivelazo!",
+    "de": "Was für ein Niveau!",
     "audio": "audio/es-de/lob/stark_nivelazo.mp3?v=ff8e0689",
     "gruppe": [
      "nivel"
@@ -6472,6 +6540,7 @@ window.SPRACHEN["es-de"] = {
   "fehler": [
    {
     "text": "¡Casi!",
+    "de": "Fast!",
     "audio": "audio/es-de/lob/fehler_casi.mp3?v=c2747d6f",
     "gruppe": [
      "casi"
@@ -6479,6 +6548,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "No del todo.",
+    "de": "Nicht ganz.",
     "audio": "audio/es-de/lob/fehler_no_del_todo.mp3?v=e6ebb328",
     "gruppe": [
      "todo"
@@ -6486,6 +6556,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Otro intento!",
+    "de": "Noch ein Versuch!",
     "audio": "audio/es-de/lob/fehler_otro_intento.mp3?v=4579c0a9",
     "gruppe": [
      "intento"
@@ -6493,6 +6564,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡No pasa nada!",
+    "de": "Macht nichts!",
     "audio": "audio/es-de/lob/fehler_no_pasa_nada.mp3?v=2695c6b0",
     "gruppe": [
      "pasa"
@@ -6500,6 +6572,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Uy!",
+    "de": "Oh je!",
     "audio": "audio/es-de/lob/fehler_uy.mp3?v=1f829456",
     "gruppe": [
      "uy"
@@ -6507,6 +6580,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "Hmm…",
+    "de": "Hmm…",
     "audio": "audio/es-de/lob/fehler_hmm.mp3?v=9806c090",
     "gruppe": [
      "hmm"
@@ -6514,6 +6588,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Cerca!",
+    "de": "Knapp daneben!",
     "audio": "audio/es-de/lob/fehler_cerca.mp3?v=413efc7f",
     "gruppe": [
      "cerca"
@@ -6521,6 +6596,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Casi, casi!",
+    "de": "Fast, fast!",
     "audio": "audio/es-de/lob/fehler_casi_casi.mp3?v=b9b0093c",
     "gruppe": [
      "casi"
@@ -6528,6 +6604,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Esta vez no!",
+    "de": "Diesmal nicht!",
     "audio": "audio/es-de/lob/fehler_esta_vez_no.mp3?v=de2eed67",
     "gruppe": [
      "vez"
@@ -6535,6 +6612,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "No pasa nada, ¡empezamos de nuevo!",
+    "de": "Macht nichts, wir fangen noch mal an!",
     "audio": "audio/es-de/lob/fehler_empezamos.mp3?v=d6aabc3b",
     "gruppe": [
      "pasa"
@@ -6544,6 +6622,7 @@ window.SPRACHEN["es-de"] = {
   "geschafft": [
    {
     "text": "¡Se acabó por hoy! ¡Chapó!",
+    "de": "Schluss für heute! Hut ab!",
     "audio": "audio/es-de/lob/geschafft_acabo.mp3?v=f96718c8",
     "gruppe": [
      "acabo"
@@ -6551,6 +6630,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "¡Bravo, lo has hecho todo! ¡Hasta mañana!",
+    "de": "Bravo, du hast alles geschafft! Bis morgen!",
     "audio": "audio/es-de/lob/geschafft_todo.mp3?v=9275242d",
     "gruppe": [
      "bravo"
@@ -6558,6 +6638,7 @@ window.SPRACHEN["es-de"] = {
    },
    {
     "text": "Puedes estar orgulloso. ¡Hasta mañana!",
+    "de": "Du kannst stolz sein. Bis morgen!",
     "audio": "audio/es-de/lob/geschafft_orgulloso.mp3?v=21dde5be",
     "gruppe": [
      "orgulloso"
@@ -6567,6 +6648,7 @@ window.SPRACHEN["es-de"] = {
   "voll": [
    {
     "text": "¡Sin fallos! ¡Qué maravilla!",
+    "de": "Fehlerfrei! Wunderbar!",
     "audio": "audio/es-de/lob/voll_sin_fallos.mp3?v=10607f91",
     "gruppe": [
      "fallos"
@@ -6576,6 +6658,7 @@ window.SPRACHEN["es-de"] = {
   "doch": [
    {
     "text": "¿Lo ves? ¡Puedes!",
+    "de": "Siehst du? Du kannst es!",
     "audio": "audio/es-de/lob/doch_lo_ves.mp3?v=a3b83c7d",
     "gruppe": [
      "ves"

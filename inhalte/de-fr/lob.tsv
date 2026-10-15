@@ -1,84 +1,84 @@
-id	art	text	gruppe
-lob_super	lob	Super!	super
-lob_genau	lob	Genau!	genau
-lob_prima	lob	Prima!	prima
-lob_klasse	lob	Klasse!	klasse
-lob_perfekt	lob	Perfekt!	perfekt
-lob_richtig	lob	Richtig!	richtig
-lob_sehr_gut	lob	Sehr gut!	gut
-lob_toll	lob	Toll!	toll
-lob_bravo	lob	Bravo!	bravo
-lob_spitze	lob	Spitze!	spitze
-lob_wunderbar	lob	Wunderbar!	wunderbar
-lob_stimmt	lob	Stimmt!	stimmt
-lob_so_ist_es	lob	So ist es!	so
-lob_gut_gemacht	lob	Gut gemacht!	gemacht
-lob_ja	lob	Ja!	ja
-lob_exakt	lob	Exakt!	exakt
-lob_volltreffer	lob	Volltreffer!	treffer
-lob_sauber	lob	Sauber!	sauber
-lob_tadellos	lob	Tadellos!	tadellos
-lob_hervorragend	lob	Hervorragend!	hervorragend
-lob_ausgezeichnet	lob	Ausgezeichnet!	ausgezeichnet
-lob_das_sitzt	lob	Das sitzt!	sitzt
-lob_gut_gesagt	lob	Gut gesagt!	gesagt
-lob_fehlerfrei	lob	Fehlerfrei!	fehlerfrei
-lob_was_fuer_ein_akzent	lob	Was für ein Akzent!	akzent
-lob_das_ist_deutsch	lob	Das ist Deutsch!	deutsch
-lob_wie_ein_saarlaender	lob	Wie ein Saarländer!	saarland
-lob_du_hast_ein_ohr	lob	Du hast ein gutes Ohr!	ohr
-lob_klingt_gut	lob	Das klingt gut!	klingt
-lob_ich_liebs	lob	Ich liebe es!	liebe
-lob_du_wirst_besser	lob	Du wirst immer besser!	besser
-lob_noch_ein_punkt	lob	Noch ein Punkt!	punkt
-lob_auf_den_punkt	lob	Auf den Punkt!	punkt
-lob_beim_ersten_mal	lob	Beim ersten Mal!	erste
-lob_nichts_zu_sagen	lob	Nichts zu sagen!	nichts
-lob_so_gehts	lob	So geht's!	so
-lob_weiter_so	lob	Weiter so!	weiter
-lob_du_kannst_es	lob	Du kannst es!	kannst
-lob_glueckwunsch	lob	Glückwunsch!	glueckwunsch
-lob_top	lob	Top!	top
-lob_meisterhaft	lob	Meisterhaft!	meister
-lob_wie_ein_profi	lob	Wie ein Profi!	profi
-lob_herr_lehrer	lob	Sehr gut, Herr Lehrer!	lehrer
-lob_jawohl	lob	Jawohl!	ja
-lob_einwandfrei	lob	Einwandfrei!	einwandfrei
-lob_zack	lob	Zack, richtig!	zack
-lob_das_wars	lob	Das war's!	wars
-lob_genau_so	lob	Genau so!	genau
-lob_gut_getroffen	lob	Gut getroffen!	treffer
-lob_hut_ab	lob	Hut ab!	hut
-lob_bestens	lob	Bestens!	bestens
-lob_passt	lob	Passt!	passt
-lob_schoen	lob	Schön!	schoen
-lob_glatt	lob	Glatt durch!	glatt
-stark_champion	stark	Bravo, Champion!	champion
-stark_serie	stark	Unglaublich! Du bist in Serie!	serie
-stark_stolz	stark	Ich bin stolz auf dich!	stolz
-stark_weiter	stark	Großartig! Weiter so!	weiter
-stark_maschine	stark	Was für eine Maschine!	maschine
-stark_star	stark	Du bist ein Star!	star
-stark_beeindruckend	stark	Beeindruckend!	beeindruckend
-stark_leicht	stark	Du lässt es leicht aussehen!	leicht
-stark_hoeren	stark	Genau das wollte ich hören!	hoeren
-stark_fliegst	stark	Heute fliegst du!	fliegst
-stark_schwarze	stark	Ins Schwarze!	schwarze
-stark_leistung	stark	Was für eine Leistung!	leistung
-stark_rockst	stark	Du rockst das!	rockst
-stark_niveau	stark	Was für ein Niveau!	niveau
-fehler_fast	fehler	Fast!	fast
-fehler_nicht_ganz	fehler	Nicht ganz.	ganz
-fehler_noch_mal	fehler	Noch ein Versuch!	versuch
-fehler_macht_nichts	fehler	Macht nichts!	nichts
-fehler_oh	fehler	Oh je!	oh
-fehler_hmm	fehler	Hmm…	hmm
-fehler_knapp	fehler	Knapp daneben!	knapp
-fehler_fast_fast	fehler	Fast, fast!	fast
-fehler_diesmal_nicht	fehler	Diesmal nicht!	diesmal
-fehler_von_vorn	fehler	Macht nichts, noch mal von vorn!	nichts
-geschafft_schluss	geschafft	Schluss für heute! Hut ab!	schluss
-geschafft_alles	geschafft	Bravo, du hast alles geschafft! Bis morgen!	bravo
-geschafft_stolz	geschafft	Du kannst stolz auf dich sein. Bis morgen!	stolz
-voll_fehlerfrei	voll	Fehlerfrei! Wunderbar!	fehlerfrei
-doch_siehst_du	doch	Siehst du? Du kannst es!	siehst
+id	art	text	gruppe	de
+lob_super	lob	Super!	super	Super !
+lob_genau	lob	Genau!	genau	Exactement !
+lob_prima	lob	Prima!	prima	Parfait !
+lob_klasse	lob	Klasse!	klasse	La classe !
+lob_perfekt	lob	Perfekt!	perfekt	Parfait !
+lob_richtig	lob	Richtig!	richtig	Juste !
+lob_sehr_gut	lob	Sehr gut!	gut	Très bien !
+lob_toll	lob	Toll!	toll	Génial !
+lob_bravo	lob	Bravo!	bravo	Bravo !
+lob_spitze	lob	Spitze!	spitze	Au top !
+lob_wunderbar	lob	Wunderbar!	wunderbar	Merveilleux !
+lob_stimmt	lob	Stimmt!	stimmt	C’est ça !
+lob_so_ist_es	lob	So ist es!	so	Voilà, c’est ça !
+lob_gut_gemacht	lob	Gut gemacht!	gemacht	Bien joué !
+lob_ja	lob	Ja!	ja	Oui !
+lob_exakt	lob	Exakt!	exakt	Exact !
+lob_volltreffer	lob	Volltreffer!	treffer	Dans le mille !
+lob_sauber	lob	Sauber!	sauber	Impeccable !
+lob_tadellos	lob	Tadellos!	tadellos	Irréprochable !
+lob_hervorragend	lob	Hervorragend!	hervorragend	Excellent !
+lob_ausgezeichnet	lob	Ausgezeichnet!	ausgezeichnet	Remarquable !
+lob_das_sitzt	lob	Das sitzt!	sitzt	C’est acquis !
+lob_gut_gesagt	lob	Gut gesagt!	gesagt	Bien dit !
+lob_fehlerfrei	lob	Fehlerfrei!	fehlerfrei	Sans faute !
+lob_was_fuer_ein_akzent	lob	Was für ein Akzent!	akzent	Quel accent !
+lob_das_ist_deutsch	lob	Das ist Deutsch!	deutsch	Ça, c’est de l’allemand !
+lob_wie_ein_saarlaender	lob	Wie ein Saarländer!	saarland	Comme un Sarrois !
+lob_du_hast_ein_ohr	lob	Du hast ein gutes Ohr!	ohr	Tu as l’oreille !
+lob_klingt_gut	lob	Das klingt gut!	klingt	Ça sonne bien !
+lob_ich_liebs	lob	Ich liebe es!	liebe	J’adore !
+lob_du_wirst_besser	lob	Du wirst immer besser!	besser	Tu progresses !
+lob_noch_ein_punkt	lob	Noch ein Punkt!	punkt	Encore un point !
+lob_auf_den_punkt	lob	Auf den Punkt!	punkt	Pile-poil !
+lob_beim_ersten_mal	lob	Beim ersten Mal!	erste	Du premier coup !
+lob_nichts_zu_sagen	lob	Nichts zu sagen!	nichts	Rien à dire !
+lob_so_gehts	lob	So geht's!	so	C’est comme ça qu’on fait !
+lob_weiter_so	lob	Weiter so!	weiter	Continue comme ça !
+lob_du_kannst_es	lob	Du kannst es!	kannst	Tu y arrives !
+lob_glueckwunsch	lob	Glückwunsch!	glueckwunsch	Félicitations !
+lob_top	lob	Top!	top	Top !
+lob_meisterhaft	lob	Meisterhaft!	meister	Magistral !
+lob_wie_ein_profi	lob	Wie ein Profi!	profi	Comme un pro !
+lob_herr_lehrer	lob	Sehr gut, Herr Lehrer!	lehrer	Très bien, Monsieur le professeur !
+lob_jawohl	lob	Jawohl!	ja	Oui, parfaitement !
+lob_einwandfrei	lob	Einwandfrei!	einwandfrei	Impeccable !
+lob_zack	lob	Zack, richtig!	zack	Et hop, juste !
+lob_das_wars	lob	Das war's!	wars	C’est tout bon !
+lob_genau_so	lob	Genau so!	genau	Exactement comme ça !
+lob_gut_getroffen	lob	Gut getroffen!	treffer	Bien vu !
+lob_hut_ab	lob	Hut ab!	hut	Chapeau !
+lob_bestens	lob	Bestens!	bestens	Au mieux !
+lob_passt	lob	Passt!	passt	Ça colle !
+lob_schoen	lob	Schön!	schoen	Joli !
+lob_glatt	lob	Glatt durch!	glatt	Sans accroc !
+stark_champion	stark	Bravo, Champion!	champion	Bravo, champion !
+stark_serie	stark	Unglaublich! Du bist in Serie!	serie	Incroyable ! Tu es en feu !
+stark_stolz	stark	Ich bin stolz auf dich!	stolz	Je suis fier de toi !
+stark_weiter	stark	Großartig! Weiter so!	weiter	Superbe ! Continue comme ça !
+stark_maschine	stark	Was für eine Maschine!	maschine	Quelle machine !
+stark_star	stark	Du bist ein Star!	star	Tu es une star !
+stark_beeindruckend	stark	Beeindruckend!	beeindruckend	Impressionnant !
+stark_leicht	stark	Du lässt es leicht aussehen!	leicht	Tu rends ça facile !
+stark_hoeren	stark	Genau das wollte ich hören!	hoeren	C’est exactement ce que je voulais entendre !
+stark_fliegst	stark	Heute fliegst du!	fliegst	Tu voles aujourd’hui !
+stark_schwarze	stark	Ins Schwarze!	schwarze	En plein dans le mille !
+stark_leistung	stark	Was für eine Leistung!	leistung	Quelle performance !
+stark_rockst	stark	Du rockst das!	rockst	Tu assures !
+stark_niveau	stark	Was für ein Niveau!	niveau	Quel niveau !
+fehler_fast	fehler	Fast!	fast	Presque !
+fehler_nicht_ganz	fehler	Nicht ganz.	ganz	Pas tout à fait.
+fehler_noch_mal	fehler	Noch ein Versuch!	versuch	Encore un essai !
+fehler_macht_nichts	fehler	Macht nichts!	nichts	Pas grave !
+fehler_oh	fehler	Oh je!	oh	Oh là là !
+fehler_hmm	fehler	Hmm…	hmm	Hmm…
+fehler_knapp	fehler	Knapp daneben!	knapp	Pas loin !
+fehler_fast_fast	fehler	Fast, fast!	fast	Presque, presque !
+fehler_diesmal_nicht	fehler	Diesmal nicht!	diesmal	Pas cette fois !
+fehler_von_vorn	fehler	Macht nichts, noch mal von vorn!	nichts	Pas grave, on recommence !
+geschafft_schluss	geschafft	Schluss für heute! Hut ab!	schluss	C’est fini pour aujourd’hui ! Chapeau !
+geschafft_alles	geschafft	Bravo, du hast alles geschafft! Bis morgen!	bravo	Bravo, tu as tout fait ! À demain !
+geschafft_stolz	geschafft	Du kannst stolz auf dich sein. Bis morgen!	stolz	Tu peux être fier de toi. À demain !
+voll_fehlerfrei	voll	Fehlerfrei! Wunderbar!	fehlerfrei	Sans faute ! Magnifique !
+doch_siehst_du	doch	Siehst du? Du kannst es!	siehst	Tu vois ? Tu y arrives !

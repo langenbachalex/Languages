@@ -6403,6 +6403,7 @@ window.SPRACHEN["de-fr"] = {
   "lob": [
    {
     "text": "Super!",
+    "de": "Super !",
     "audio": "audio/de-fr/lob/lob_super.mp3?v=e750b0e6",
     "gruppe": [
      "super"
@@ -6410,6 +6411,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Genau!",
+    "de": "Exactement !",
     "audio": "audio/de-fr/lob/lob_genau.mp3?v=730ebb95",
     "gruppe": [
      "genau"
@@ -6417,6 +6419,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Prima!",
+    "de": "Parfait !",
     "audio": "audio/de-fr/lob/lob_prima.mp3?v=39fdd4fb",
     "gruppe": [
      "prima"
@@ -6424,6 +6427,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Klasse!",
+    "de": "La classe !",
     "audio": "audio/de-fr/lob/lob_klasse.mp3?v=7b1b07dc",
     "gruppe": [
      "klasse"
@@ -6431,6 +6435,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Perfekt!",
+    "de": "Parfait !",
     "audio": "audio/de-fr/lob/lob_perfekt.mp3?v=d7f0ed76",
     "gruppe": [
      "perfekt"
@@ -6438,6 +6443,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Richtig!",
+    "de": "Juste !",
     "audio": "audio/de-fr/lob/lob_richtig.mp3?v=d878a9ba",
     "gruppe": [
      "richtig"
@@ -6445,6 +6451,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Sehr gut!",
+    "de": "Très bien !",
     "audio": "audio/de-fr/lob/lob_sehr_gut.mp3?v=0ab36c0f",
     "gruppe": [
      "gut"
@@ -6452,6 +6459,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Toll!",
+    "de": "Génial !",
     "audio": "audio/de-fr/lob/lob_toll.mp3?v=b923715e",
     "gruppe": [
      "toll"
@@ -6459,6 +6467,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Bravo!",
+    "de": "Bravo !",
     "audio": "audio/de-fr/lob/lob_bravo.mp3?v=c3673b10",
     "gruppe": [
      "bravo"
@@ -6466,6 +6475,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Spitze!",
+    "de": "Au top !",
     "audio": "audio/de-fr/lob/lob_spitze.mp3?v=20e4eef1",
     "gruppe": [
      "spitze"
@@ -6473,6 +6483,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Wunderbar!",
+    "de": "Merveilleux !",
     "audio": "audio/de-fr/lob/lob_wunderbar.mp3?v=8efd56ef",
     "gruppe": [
      "wunderbar"
@@ -6480,6 +6491,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Stimmt!",
+    "de": "C’est ça !",
     "audio": "audio/de-fr/lob/lob_stimmt.mp3?v=e3dc54a0",
     "gruppe": [
      "stimmt"
@@ -6487,6 +6499,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "So ist es!",
+    "de": "Voilà, c’est ça !",
     "audio": "audio/de-fr/lob/lob_so_ist_es.mp3?v=b4ee2df3",
     "gruppe": [
      "so"
@@ -6494,6 +6507,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Gut gemacht!",
+    "de": "Bien joué !",
     "audio": "audio/de-fr/lob/lob_gut_gemacht.mp3?v=1e554541",
     "gruppe": [
      "gemacht"
@@ -6501,6 +6515,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Ja!",
+    "de": "Oui !",
     "audio": "audio/de-fr/lob/lob_ja.mp3?v=4b0ff4f0",
     "gruppe": [
      "ja"
@@ -6508,6 +6523,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Exakt!",
+    "de": "Exact !",
     "audio": "audio/de-fr/lob/lob_exakt.mp3?v=5eb37f38",
     "gruppe": [
      "exakt"
@@ -6515,6 +6531,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Volltreffer!",
+    "de": "Dans le mille !",
     "audio": "audio/de-fr/lob/lob_volltreffer.mp3?v=e455945f",
     "gruppe": [
      "treffer"
@@ -6522,6 +6539,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Sauber!",
+    "de": "Impeccable !",
     "audio": "audio/de-fr/lob/lob_sauber.mp3?v=ff685196",
     "gruppe": [
      "sauber"
@@ -6529,6 +6547,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Tadellos!",
+    "de": "Irréprochable !",
     "audio": "audio/de-fr/lob/lob_tadellos.mp3?v=a3bc5a34",
     "gruppe": [
      "tadellos"
@@ -6536,6 +6555,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Hervorragend!",
+    "de": "Excellent !",
     "audio": "audio/de-fr/lob/lob_hervorragend.mp3?v=a84348f9",
     "gruppe": [
      "hervorragend"
@@ -6543,6 +6563,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Ausgezeichnet!",
+    "de": "Remarquable !",
     "audio": "audio/de-fr/lob/lob_ausgezeichnet.mp3?v=954ffb17",
     "gruppe": [
      "ausgezeichnet"
@@ -6550,6 +6571,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Das sitzt!",
+    "de": "C’est acquis !",
     "audio": "audio/de-fr/lob/lob_das_sitzt.mp3?v=317b28f0",
     "gruppe": [
      "sitzt"
@@ -6557,6 +6579,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Gut gesagt!",
+    "de": "Bien dit !",
     "audio": "audio/de-fr/lob/lob_gut_gesagt.mp3?v=65ca7908",
     "gruppe": [
      "gesagt"
@@ -6564,6 +6587,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Fehlerfrei!",
+    "de": "Sans faute !",
     "audio": "audio/de-fr/lob/lob_fehlerfrei.mp3?v=0562df40",
     "gruppe": [
      "fehlerfrei"
@@ -6571,6 +6595,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Was für ein Akzent!",
+    "de": "Quel accent !",
     "audio": "audio/de-fr/lob/lob_was_fuer_ein_akzent.mp3?v=8874bc4c",
     "gruppe": [
      "akzent"
@@ -6578,6 +6603,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Das ist Deutsch!",
+    "de": "Ça, c’est de l’allemand !",
     "audio": "audio/de-fr/lob/lob_das_ist_deutsch.mp3?v=e7858e96",
     "gruppe": [
      "deutsch"
@@ -6585,6 +6611,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Wie ein Saarländer!",
+    "de": "Comme un Sarrois !",
     "audio": "audio/de-fr/lob/lob_wie_ein_saarlaender.mp3?v=f157183b",
     "gruppe": [
      "saarland"
@@ -6592,6 +6619,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Du hast ein gutes Ohr!",
+    "de": "Tu as l’oreille !",
     "audio": "audio/de-fr/lob/lob_du_hast_ein_ohr.mp3?v=fed69ae1",
     "gruppe": [
      "ohr"
@@ -6599,6 +6627,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Das klingt gut!",
+    "de": "Ça sonne bien !",
     "audio": "audio/de-fr/lob/lob_klingt_gut.mp3?v=34f2b455",
     "gruppe": [
      "klingt"
@@ -6606,6 +6635,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Ich liebe es!",
+    "de": "J’adore !",
     "audio": "audio/de-fr/lob/lob_ich_liebs.mp3?v=7f2fa8db",
     "gruppe": [
      "liebe"
@@ -6613,6 +6643,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Du wirst immer besser!",
+    "de": "Tu progresses !",
     "audio": "audio/de-fr/lob/lob_du_wirst_besser.mp3?v=a53ae1a8",
     "gruppe": [
      "besser"
@@ -6620,6 +6651,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Noch ein Punkt!",
+    "de": "Encore un point !",
     "audio": "audio/de-fr/lob/lob_noch_ein_punkt.mp3?v=2c168f86",
     "gruppe": [
      "punkt"
@@ -6627,6 +6659,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Auf den Punkt!",
+    "de": "Pile-poil !",
     "audio": "audio/de-fr/lob/lob_auf_den_punkt.mp3?v=7cf24a08",
     "gruppe": [
      "punkt"
@@ -6634,6 +6667,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Beim ersten Mal!",
+    "de": "Du premier coup !",
     "audio": "audio/de-fr/lob/lob_beim_ersten_mal.mp3?v=abf46527",
     "gruppe": [
      "erste"
@@ -6641,6 +6675,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Nichts zu sagen!",
+    "de": "Rien à dire !",
     "audio": "audio/de-fr/lob/lob_nichts_zu_sagen.mp3?v=9bf87a5e",
     "gruppe": [
      "nichts"
@@ -6648,6 +6683,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "So geht's!",
+    "de": "C’est comme ça qu’on fait !",
     "audio": "audio/de-fr/lob/lob_so_gehts.mp3?v=681f18ad",
     "gruppe": [
      "so"
@@ -6655,6 +6691,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Weiter so!",
+    "de": "Continue comme ça !",
     "audio": "audio/de-fr/lob/lob_weiter_so.mp3?v=5eb9f787",
     "gruppe": [
      "weiter"
@@ -6662,6 +6699,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Du kannst es!",
+    "de": "Tu y arrives !",
     "audio": "audio/de-fr/lob/lob_du_kannst_es.mp3?v=9abb605a",
     "gruppe": [
      "kannst"
@@ -6669,6 +6707,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Glückwunsch!",
+    "de": "Félicitations !",
     "audio": "audio/de-fr/lob/lob_glueckwunsch.mp3?v=debcb2ad",
     "gruppe": [
      "glueckwunsch"
@@ -6676,6 +6715,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Top!",
+    "de": "Top !",
     "audio": "audio/de-fr/lob/lob_top.mp3?v=ab477033",
     "gruppe": [
      "top"
@@ -6683,6 +6723,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Meisterhaft!",
+    "de": "Magistral !",
     "audio": "audio/de-fr/lob/lob_meisterhaft.mp3?v=9bbfd81e",
     "gruppe": [
      "meister"
@@ -6690,6 +6731,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Wie ein Profi!",
+    "de": "Comme un pro !",
     "audio": "audio/de-fr/lob/lob_wie_ein_profi.mp3?v=43e556bd",
     "gruppe": [
      "profi"
@@ -6697,6 +6739,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Sehr gut, Herr Lehrer!",
+    "de": "Très bien, Monsieur le professeur !",
     "audio": "audio/de-fr/lob/lob_herr_lehrer.mp3?v=9b3839dc",
     "gruppe": [
      "lehrer"
@@ -6704,6 +6747,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Jawohl!",
+    "de": "Oui, parfaitement !",
     "audio": "audio/de-fr/lob/lob_jawohl.mp3?v=afffffbd",
     "gruppe": [
      "ja"
@@ -6711,6 +6755,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Einwandfrei!",
+    "de": "Impeccable !",
     "audio": "audio/de-fr/lob/lob_einwandfrei.mp3?v=4fdc80ba",
     "gruppe": [
      "einwandfrei"
@@ -6718,6 +6763,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Zack, richtig!",
+    "de": "Et hop, juste !",
     "audio": "audio/de-fr/lob/lob_zack.mp3?v=e6377cd5",
     "gruppe": [
      "zack"
@@ -6725,6 +6771,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Das war's!",
+    "de": "C’est tout bon !",
     "audio": "audio/de-fr/lob/lob_das_wars.mp3?v=59606232",
     "gruppe": [
      "wars"
@@ -6732,6 +6779,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Genau so!",
+    "de": "Exactement comme ça !",
     "audio": "audio/de-fr/lob/lob_genau_so.mp3?v=aa1b531e",
     "gruppe": [
      "genau"
@@ -6739,6 +6787,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Gut getroffen!",
+    "de": "Bien vu !",
     "audio": "audio/de-fr/lob/lob_gut_getroffen.mp3?v=b1a79a06",
     "gruppe": [
      "treffer"
@@ -6746,6 +6795,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Hut ab!",
+    "de": "Chapeau !",
     "audio": "audio/de-fr/lob/lob_hut_ab.mp3?v=017ca95d",
     "gruppe": [
      "hut"
@@ -6753,6 +6803,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Bestens!",
+    "de": "Au mieux !",
     "audio": "audio/de-fr/lob/lob_bestens.mp3?v=d003e0b9",
     "gruppe": [
      "bestens"
@@ -6760,6 +6811,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Passt!",
+    "de": "Ça colle !",
     "audio": "audio/de-fr/lob/lob_passt.mp3?v=e1fd62eb",
     "gruppe": [
      "passt"
@@ -6767,6 +6819,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Schön!",
+    "de": "Joli !",
     "audio": "audio/de-fr/lob/lob_schoen.mp3?v=d952ccf9",
     "gruppe": [
      "schoen"
@@ -6774,6 +6827,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Glatt durch!",
+    "de": "Sans accroc !",
     "audio": "audio/de-fr/lob/lob_glatt.mp3?v=013a7df0",
     "gruppe": [
      "glatt"
@@ -6783,6 +6837,7 @@ window.SPRACHEN["de-fr"] = {
   "stark": [
    {
     "text": "Bravo, Champion!",
+    "de": "Bravo, champion !",
     "audio": "audio/de-fr/lob/stark_champion.mp3?v=326bc1b0",
     "gruppe": [
      "champion"
@@ -6790,6 +6845,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Unglaublich! Du bist in Serie!",
+    "de": "Incroyable ! Tu es en feu !",
     "audio": "audio/de-fr/lob/stark_serie.mp3?v=5e7e3770",
     "gruppe": [
      "serie"
@@ -6797,6 +6853,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Ich bin stolz auf dich!",
+    "de": "Je suis fier de toi !",
     "audio": "audio/de-fr/lob/stark_stolz.mp3?v=55d0a637",
     "gruppe": [
      "stolz"
@@ -6804,6 +6861,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Großartig! Weiter so!",
+    "de": "Superbe ! Continue comme ça !",
     "audio": "audio/de-fr/lob/stark_weiter.mp3?v=31d8ba13",
     "gruppe": [
      "weiter"
@@ -6811,6 +6869,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Was für eine Maschine!",
+    "de": "Quelle machine !",
     "audio": "audio/de-fr/lob/stark_maschine.mp3?v=5c8079fe",
     "gruppe": [
      "maschine"
@@ -6818,6 +6877,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Du bist ein Star!",
+    "de": "Tu es une star !",
     "audio": "audio/de-fr/lob/stark_star.mp3?v=f5e816a2",
     "gruppe": [
      "star"
@@ -6825,6 +6885,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Beeindruckend!",
+    "de": "Impressionnant !",
     "audio": "audio/de-fr/lob/stark_beeindruckend.mp3?v=6d6c2035",
     "gruppe": [
      "beeindruckend"
@@ -6832,6 +6893,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Du lässt es leicht aussehen!",
+    "de": "Tu rends ça facile !",
     "audio": "audio/de-fr/lob/stark_leicht.mp3?v=558094fc",
     "gruppe": [
      "leicht"
@@ -6839,6 +6901,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Genau das wollte ich hören!",
+    "de": "C’est exactement ce que je voulais entendre !",
     "audio": "audio/de-fr/lob/stark_hoeren.mp3?v=39924c54",
     "gruppe": [
      "hoeren"
@@ -6846,6 +6909,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Heute fliegst du!",
+    "de": "Tu voles aujourd’hui !",
     "audio": "audio/de-fr/lob/stark_fliegst.mp3?v=7f1425c5",
     "gruppe": [
      "fliegst"
@@ -6853,6 +6917,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Ins Schwarze!",
+    "de": "En plein dans le mille !",
     "audio": "audio/de-fr/lob/stark_schwarze.mp3?v=5bae5d7c",
     "gruppe": [
      "schwarze"
@@ -6860,6 +6925,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Was für eine Leistung!",
+    "de": "Quelle performance !",
     "audio": "audio/de-fr/lob/stark_leistung.mp3?v=92a942b6",
     "gruppe": [
      "leistung"
@@ -6867,6 +6933,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Du rockst das!",
+    "de": "Tu assures !",
     "audio": "audio/de-fr/lob/stark_rockst.mp3?v=29fcbc52",
     "gruppe": [
      "rockst"
@@ -6874,6 +6941,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Was für ein Niveau!",
+    "de": "Quel niveau !",
     "audio": "audio/de-fr/lob/stark_niveau.mp3?v=df47247f",
     "gruppe": [
      "niveau"
@@ -6883,6 +6951,7 @@ window.SPRACHEN["de-fr"] = {
   "fehler": [
    {
     "text": "Fast!",
+    "de": "Presque !",
     "audio": "audio/de-fr/lob/fehler_fast.mp3?v=0a3f2e1c",
     "gruppe": [
      "fast"
@@ -6890,6 +6959,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Nicht ganz.",
+    "de": "Pas tout à fait.",
     "audio": "audio/de-fr/lob/fehler_nicht_ganz.mp3?v=11e93b4d",
     "gruppe": [
      "ganz"
@@ -6897,6 +6967,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Noch ein Versuch!",
+    "de": "Encore un essai !",
     "audio": "audio/de-fr/lob/fehler_noch_mal.mp3?v=1ffd8dc7",
     "gruppe": [
      "versuch"
@@ -6904,6 +6975,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Macht nichts!",
+    "de": "Pas grave !",
     "audio": "audio/de-fr/lob/fehler_macht_nichts.mp3?v=fd3e0850",
     "gruppe": [
      "nichts"
@@ -6911,6 +6983,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Oh je!",
+    "de": "Oh là là !",
     "audio": "audio/de-fr/lob/fehler_oh.mp3?v=26dfb46e",
     "gruppe": [
      "oh"
@@ -6918,6 +6991,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Hmm…",
+    "de": "Hmm…",
     "audio": "audio/de-fr/lob/fehler_hmm.mp3?v=cd7a1cd8",
     "gruppe": [
      "hmm"
@@ -6925,6 +6999,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Knapp daneben!",
+    "de": "Pas loin !",
     "audio": "audio/de-fr/lob/fehler_knapp.mp3?v=6a1b9a8f",
     "gruppe": [
      "knapp"
@@ -6932,6 +7007,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Fast, fast!",
+    "de": "Presque, presque !",
     "audio": "audio/de-fr/lob/fehler_fast_fast.mp3?v=cee37740",
     "gruppe": [
      "fast"
@@ -6939,6 +7015,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Diesmal nicht!",
+    "de": "Pas cette fois !",
     "audio": "audio/de-fr/lob/fehler_diesmal_nicht.mp3?v=73660d5d",
     "gruppe": [
      "diesmal"
@@ -6946,6 +7023,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Macht nichts, noch mal von vorn!",
+    "de": "Pas grave, on recommence !",
     "audio": "audio/de-fr/lob/fehler_von_vorn.mp3?v=771095b8",
     "gruppe": [
      "nichts"
@@ -6955,6 +7033,7 @@ window.SPRACHEN["de-fr"] = {
   "geschafft": [
    {
     "text": "Schluss für heute! Hut ab!",
+    "de": "C’est fini pour aujourd’hui ! Chapeau !",
     "audio": "audio/de-fr/lob/geschafft_schluss.mp3?v=da431043",
     "gruppe": [
      "schluss"
@@ -6962,6 +7041,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Bravo, du hast alles geschafft! Bis morgen!",
+    "de": "Bravo, tu as tout fait ! À demain !",
     "audio": "audio/de-fr/lob/geschafft_alles.mp3?v=505a1a58",
     "gruppe": [
      "bravo"
@@ -6969,6 +7049,7 @@ window.SPRACHEN["de-fr"] = {
    },
    {
     "text": "Du kannst stolz auf dich sein. Bis morgen!",
+    "de": "Tu peux être fier de toi. À demain !",
     "audio": "audio/de-fr/lob/geschafft_stolz.mp3?v=a2485af9",
     "gruppe": [
      "stolz"
@@ -6978,6 +7059,7 @@ window.SPRACHEN["de-fr"] = {
   "voll": [
    {
     "text": "Fehlerfrei! Wunderbar!",
+    "de": "Sans faute ! Magnifique !",
     "audio": "audio/de-fr/lob/voll_fehlerfrei.mp3?v=2020e7d8",
     "gruppe": [
      "fehlerfrei"
@@ -6987,6 +7069,7 @@ window.SPRACHEN["de-fr"] = {
   "doch": [
    {
     "text": "Siehst du? Du kannst es!",
+    "de": "Tu vois ? Tu y arrives !",
     "audio": "audio/de-fr/lob/doch_siehst_du.mp3?v=a4a2b841",
     "gruppe": [
      "siehst"

@@ -24,3 +24,4 @@ Status: ☐ offen · ◐ umgesetzt, noch nicht veröffentlicht · ☑ veröffent
 ## Noch nicht zugeordnet
 
 (leer)
+| ☐ | alle Sprachen | Lob nur gehört bzw. nur in der Zielsprache gelesen; Übersetzung fehlt | Übersetzungsspalte `de` in allen vier `lob.tsv` (fr/es/it → Deutsch, de → Französisch); in der Séance erscheint das Lob jetzt als Pop-up (Zielsprache groß, Übersetzung darunter, 3 s); auf Abschluss-Seiten, im Dialog und im Aussprache-Modul steht die Übersetzung unter dem Lob. Gebaut 15.10., wartet auf Freigabe zum Veröffentlichen. |

@@ -1,84 +1,84 @@
-id	art	text	gruppe
-lob_genial	lob	¡Genial!	genial
-lob_ole	lob	¡Olé!	ole
-lob_crack	lob	¡Qué crack!	crack
-lob_perfecto	lob	¡Perfecto!	perfecto
-lob_asi_se_hace	lob	¡Así se hace!	asi
-lob_fenomeno	lob	¡Eres un fenómeno!	fenomeno
-lob_vamos	lob	¡Vamos!	vamos
-lob_de_lujo	lob	¡De lujo!	lujo
-lob_chapo	lob	¡Chapó!	chapo
-lob_muy_bien	lob	¡Muy bien!	bien
-lob_exacto	lob	¡Exacto!	exacto
-lob_eso_es	lob	¡Eso es!	eso
-lob_estupendo	lob	¡Estupendo!	estupendo
-lob_fantastico	lob	¡Fantástico!	fantastico
-lob_bravo	lob	¡Bravo!	bravo
-lob_genial_tio	lob	¡Genial, tío!	genial
-lob_que_bien	lob	¡Qué bien!	bien
-lob_clavado	lob	¡Clavado!	clavado
-lob_a_la_primera	lob	¡A la primera!	primera
-lob_impecable	lob	¡Impecable!	impecable
-lob_redondo	lob	¡Redondo!	redondo
-lob_de_diez	lob	¡De diez!	diez
-lob_que_nivel	lob	¡Qué nivel!	nivel
-lob_bien_dicho	lob	¡Bien dicho!	bien
-lob_sin_fallos	lob	¡Sin fallos!	fallos
-lob_que_acento	lob	¡Qué acento!	acento
-lob_eso_es_espanol	lob	¡Eso sí es español!	espanol
-lob_como_un_sevillano	lob	¡Como un sevillano!	sevillano
-lob_tienes_oido	lob	¡Tienes oído!	oido
-lob_suena_bien	lob	¡Suena de maravilla!	suena
-lob_me_encanta	lob	¡Me encanta!	encanta
-lob_vas_mejorando	lob	¡Vas mejorando!	mejorando
-lob_otro_punto	lob	¡Otro punto!	punto
-lob_lo_bordas	lob	¡Lo bordas!	bordas
-lob_que_maquina	lob	¡Qué máquina!	maquina
-lob_toma_ya	lob	¡Toma ya!	toma
-lob_ahi_esta	lob	¡Ahí está!	ahi
-lob_sin_duda	lob	¡Sin duda!	duda
-lob_correcto	lob	¡Correcto!	correcto
-lob_justo	lob	¡Justo!	justo
-lob_de_libro	lob	¡De libro!	libro
-lob_profesor	lob	¡Muy bien, señor profesor!	profesor
-lob_que_bueno	lob	¡Qué bueno!	bueno
-lob_pues_si	lob	¡Pues sí!	si
-lob_brutal	lob	¡Brutal!	brutal
-lob_guay	lob	¡Qué guay!	guay
-lob_mola	lob	¡Cómo mola!	mola
-lob_enhorabuena	lob	¡Enhorabuena!	enhorabuena
-lob_bien_hecho	lob	¡Bien hecho!	bien
-lob_vaya	lob	¡Vaya!	vaya
-lob_sigue_asi	lob	¡Sigue así!	sigue
-lob_lo_tienes	lob	¡Lo tienes!	tienes
-lob_de_cine	lob	¡De cine!	cine
-lob_que_pasada	lob	¡Qué pasada!	pasada
-stark_campeon	stark	¡Bravo, campeón!	bravo
-stark_racha	stark	¡Increíble! ¡Estás en racha!	racha
-stark_orgulloso	stark	¡Estoy orgulloso de ti!	orgulloso
-stark_sigue	stark	¡Estupendo! ¡Sigue así!	sigue
-stark_maquina	stark	¡Qué máquina eres!	maquina
-stark_estrella	stark	¡Eres una estrella!	estrella
-stark_impresionante	stark	¡Impresionante!	impresionante
-stark_facil	stark	¡Lo haces parecer fácil!	facil
-stark_queria_oir	stark	¡Justo lo que quería oír!	oir
-stark_vuelas	stark	¡Hoy vuelas!	vuelas
-stark_diana	stark	¡En plena diana!	diana
-stark_actuacion	stark	¡Qué actuación!	actuacion
-stark_arrasas	stark	¡Arrasas!	arrasas
-stark_nivelazo	stark	¡Qué nivelazo!	nivel
-fehler_casi	fehler	¡Casi!	casi
-fehler_no_del_todo	fehler	No del todo.	todo
-fehler_otro_intento	fehler	¡Otro intento!	intento
-fehler_no_pasa_nada	fehler	¡No pasa nada!	pasa
-fehler_uy	fehler	¡Uy!	uy
-fehler_hmm	fehler	Hmm…	hmm
-fehler_cerca	fehler	¡Cerca!	cerca
-fehler_casi_casi	fehler	¡Casi, casi!	casi
-fehler_esta_vez_no	fehler	¡Esta vez no!	vez
-fehler_empezamos	fehler	No pasa nada, ¡empezamos de nuevo!	pasa
-geschafft_acabo	geschafft	¡Se acabó por hoy! ¡Chapó!	acabo
-geschafft_todo	geschafft	¡Bravo, lo has hecho todo! ¡Hasta mañana!	bravo
-geschafft_orgulloso	geschafft	Puedes estar orgulloso. ¡Hasta mañana!	orgulloso
-voll_sin_fallos	voll	¡Sin fallos! ¡Qué maravilla!	fallos
-doch_lo_ves	doch	¿Lo ves? ¡Puedes!	ves
+id	art	text	gruppe	de
+lob_genial	lob	¡Genial!	genial	Genial!
+lob_ole	lob	¡Olé!	ole	Olé!
+lob_crack	lob	¡Qué crack!	crack	Was für ein Ass!
+lob_perfecto	lob	¡Perfecto!	perfecto	Perfekt!
+lob_asi_se_hace	lob	¡Así se hace!	asi	So macht man das!
+lob_fenomeno	lob	¡Eres un fenómeno!	fenomeno	Du bist ein Phänomen!
+lob_vamos	lob	¡Vamos!	vamos	Los geht’s!
+lob_de_lujo	lob	¡De lujo!	lujo	Erstklassig!
+lob_chapo	lob	¡Chapó!	chapo	Hut ab!
+lob_muy_bien	lob	¡Muy bien!	bien	Sehr gut!
+lob_exacto	lob	¡Exacto!	exacto	Genau!
+lob_eso_es	lob	¡Eso es!	eso	Das ist es!
+lob_estupendo	lob	¡Estupendo!	estupendo	Großartig!
+lob_fantastico	lob	¡Fantástico!	fantastico	Fantastisch!
+lob_bravo	lob	¡Bravo!	bravo	Bravo!
+lob_genial_tio	lob	¡Genial, tío!	genial	Genial, Alter!
+lob_que_bien	lob	¡Qué bien!	bien	Wie schön!
+lob_clavado	lob	¡Clavado!	clavado	Auf den Punkt!
+lob_a_la_primera	lob	¡A la primera!	primera	Beim ersten Mal!
+lob_impecable	lob	¡Impecable!	impecable	Einwandfrei!
+lob_redondo	lob	¡Redondo!	redondo	Rund (perfekt)!
+lob_de_diez	lob	¡De diez!	diez	Eine Zehn!
+lob_que_nivel	lob	¡Qué nivel!	nivel	Was für ein Niveau!
+lob_bien_dicho	lob	¡Bien dicho!	bien	Gut gesagt!
+lob_sin_fallos	lob	¡Sin fallos!	fallos	Fehlerfrei!
+lob_que_acento	lob	¡Qué acento!	acento	Was für ein Akzent!
+lob_eso_es_espanol	lob	¡Eso sí es español!	espanol	Das ist Spanisch!
+lob_como_un_sevillano	lob	¡Como un sevillano!	sevillano	Wie ein Sevillaner!
+lob_tienes_oido	lob	¡Tienes oído!	oido	Du hast ein gutes Ohr!
+lob_suena_bien	lob	¡Suena de maravilla!	suena	Das klingt wunderbar!
+lob_me_encanta	lob	¡Me encanta!	encanta	Ich liebe es!
+lob_vas_mejorando	lob	¡Vas mejorando!	mejorando	Du wirst immer besser!
+lob_otro_punto	lob	¡Otro punto!	punto	Noch ein Punkt!
+lob_lo_bordas	lob	¡Lo bordas!	bordas	Du machst das brillant!
+lob_que_maquina	lob	¡Qué máquina!	maquina	Was für eine Maschine!
+lob_toma_ya	lob	¡Toma ya!	toma	Da hast du’s!
+lob_ahi_esta	lob	¡Ahí está!	ahi	Da ist es!
+lob_sin_duda	lob	¡Sin duda!	duda	Ohne Zweifel!
+lob_correcto	lob	¡Correcto!	correcto	Richtig!
+lob_justo	lob	¡Justo!	justo	Genau!
+lob_de_libro	lob	¡De libro!	libro	Wie aus dem Lehrbuch!
+lob_profesor	lob	¡Muy bien, señor profesor!	profesor	Sehr gut, Herr Lehrer!
+lob_que_bueno	lob	¡Qué bueno!	bueno	Wie gut!
+lob_pues_si	lob	¡Pues sí!	si	Na also!
+lob_brutal	lob	¡Brutal!	brutal	Brutal gut!
+lob_guay	lob	¡Qué guay!	guay	Wie cool!
+lob_mola	lob	¡Cómo mola!	mola	Wie geil!
+lob_enhorabuena	lob	¡Enhorabuena!	enhorabuena	Glückwunsch!
+lob_bien_hecho	lob	¡Bien hecho!	bien	Gut gemacht!
+lob_vaya	lob	¡Vaya!	vaya	Wow!
+lob_sigue_asi	lob	¡Sigue así!	sigue	Weiter so!
+lob_lo_tienes	lob	¡Lo tienes!	tienes	Du hast es drauf!
+lob_de_cine	lob	¡De cine!	cine	Wie im Kino!
+lob_que_pasada	lob	¡Qué pasada!	pasada	Der Wahnsinn!
+stark_campeon	stark	¡Bravo, campeón!	bravo	Bravo, Champion!
+stark_racha	stark	¡Increíble! ¡Estás en racha!	racha	Unglaublich! Du bist in Serie!
+stark_orgulloso	stark	¡Estoy orgulloso de ti!	orgulloso	Ich bin stolz auf dich!
+stark_sigue	stark	¡Estupendo! ¡Sigue así!	sigue	Großartig! Weiter so!
+stark_maquina	stark	¡Qué máquina eres!	maquina	Was für eine Maschine du bist!
+stark_estrella	stark	¡Eres una estrella!	estrella	Du bist ein Star!
+stark_impresionante	stark	¡Impresionante!	impresionante	Beeindruckend!
+stark_facil	stark	¡Lo haces parecer fácil!	facil	Du lässt es leicht aussehen!
+stark_queria_oir	stark	¡Justo lo que quería oír!	oir	Genau das wollte ich hören!
+stark_vuelas	stark	¡Hoy vuelas!	vuelas	Heute fliegst du!
+stark_diana	stark	¡En plena diana!	diana	Voll ins Schwarze!
+stark_actuacion	stark	¡Qué actuación!	actuacion	Was für ein Auftritt!
+stark_arrasas	stark	¡Arrasas!	arrasas	Du räumst ab!
+stark_nivelazo	stark	¡Qué nivelazo!	nivel	Was für ein Niveau!
+fehler_casi	fehler	¡Casi!	casi	Fast!
+fehler_no_del_todo	fehler	No del todo.	todo	Nicht ganz.
+fehler_otro_intento	fehler	¡Otro intento!	intento	Noch ein Versuch!
+fehler_no_pasa_nada	fehler	¡No pasa nada!	pasa	Macht nichts!
+fehler_uy	fehler	¡Uy!	uy	Oh je!
+fehler_hmm	fehler	Hmm…	hmm	Hmm…
+fehler_cerca	fehler	¡Cerca!	cerca	Knapp daneben!
+fehler_casi_casi	fehler	¡Casi, casi!	casi	Fast, fast!
+fehler_esta_vez_no	fehler	¡Esta vez no!	vez	Diesmal nicht!
+fehler_empezamos	fehler	No pasa nada, ¡empezamos de nuevo!	pasa	Macht nichts, wir fangen noch mal an!
+geschafft_acabo	geschafft	¡Se acabó por hoy! ¡Chapó!	acabo	Schluss für heute! Hut ab!
+geschafft_todo	geschafft	¡Bravo, lo has hecho todo! ¡Hasta mañana!	bravo	Bravo, du hast alles geschafft! Bis morgen!
+geschafft_orgulloso	geschafft	Puedes estar orgulloso. ¡Hasta mañana!	orgulloso	Du kannst stolz sein. Bis morgen!
+voll_sin_fallos	voll	¡Sin fallos! ¡Qué maravilla!	fallos	Fehlerfrei! Wunderbar!
+doch_lo_ves	doch	¿Lo ves? ¡Puedes!	ves	Siehst du? Du kannst es!

@@ -110,10 +110,11 @@
     verlauf.push({ art, r }); if (verlauf.length > 40) verlauf.shift();
     return r;
   }
-  let vorLob = null, richtigSerie = 0;
+  let vorLob = null, richtigSerie = 0, letzterRuf = null;
   const tonLob = (r) => r.audio || { text: r.text };
   function ruf(art) {
     const r = waehleRuf(art);
+    letzterRuf = r || null;
     if (!r) return "";
     if (!leise) {
       const t = tonLob(r);
@@ -125,6 +126,11 @@
   function lob(stark) {
     richtigSerie++;
     return ruf((stark || richtigSerie % 5 === 0) && D.lob.stark ? "stark" : "lob");
+  }
+  // Lob als Text mit Übersetzung in der Hilfssprache (immer sichtbar, auch ohne „+ DE“)
+  const lobDe = () => (letzterRuf && letzterRuf.de) || "";
+  function lobZeile(text, tag = "span", de = lobDe()) {
+    return el(tag, { class: "lob-zeile" }, el("span", { lang: D.lang }, text), de && el("span", { class: "lob-de", lang: D.lang_hilfe }, de));
   }
 
   /* ---------- Audio ---------- */
@@ -401,7 +407,7 @@
     const k = S.karten[w.id];
     if (gewusst) {
       k.s = Math.min(k.s + 1, INTERVALLE.length); k.f = naechsteFaelligkeit(k.s);
-      merkeFertig(w.id); lob(); speichern(); seanceWeiter();
+      merkeFertig(w.id); lobToast(lob()); speichern(); seanceWeiter();
     } else {
       k.s = 0; k.f = naechsteFaelligkeit(0); speichern();
       if (!seance.wieder.has(w.id)) { seance.wieder.add(w.id); seance.schlange.push(w.id); }
@@ -421,11 +427,11 @@
     const erstesMal = alles && !plan.geschafft;
     if (erstesMal) { plan.geschafft = true; speichern(); belohne(true, true); }
     // Lob und „À demain“ hintereinander (nicht gleichzeitig, sonst schneidet das eine das andere ab)
-    const r = waehleRuf(alles ? "geschafft" : "stark"), text = r ? r.text : "";
+    const r = waehleRuf(alles ? "geschafft" : "stark"), text = r ? r.text : "", textDe = r ? r.de : "";
     const fini = erstesMal && SP.texte.fini;
     const zeichne = () => zeige(seanceKopf(), el("section", { class: "geschafft" },
       el("h2", { lang: D.lang }, alles ? U.fini : U.pause),
-      el("p", { class: "ansage", lang: D.lang }, text),
+      lobZeile(text, "p", textDe),
       ufp(alles ? "fini_text" : "pause_text"),
       el("div", { class: "knopfreihe" }, knopf(U.accueil, startseite, "haupt"), knopf(U.sammlung, sammlung))));
     ansicht = zeichne; seance = null; tasten(null, null);
@@ -511,7 +517,7 @@
     function fertig(ganz) {
       startKnopf.hidden = false; stoppKnopf.hidden = true; balken.hidden = true;
       [...liste.children].forEach((li) => li.classList.remove("spricht"));
-      if (ganz) { gibFrei(weiter, 0.6); box.hidden = false; box.className = "rueckmeldung gut"; box.textContent = lob() + " " + (meine ? U.dialog_ok_rolle : U.dialog_ok); }
+      if (ganz) { gibFrei(weiter, 0.6); box.hidden = false; box.className = "rueckmeldung gut"; box.replaceChildren(lobZeile(lob()), " " + (meine ? U.dialog_ok_rolle : U.dialog_ok)); }
     }
     async function starten() {
       const meinLauf = ++dialogLauf;
@@ -639,7 +645,7 @@
       if (geloest) return;
       if (w === gesucht) {
         geloest = true; e.currentTarget.classList.add("richtig");
-        box.hidden = false; box.className = "rueckmeldung gut"; box.textContent = `${lob()} ${gesucht.wort} ${K[gesucht.klang][0]} – ${gesucht.de}`;
+        box.hidden = false; box.className = "rueckmeldung gut"; box.replaceChildren(lobZeile(lob()), ` ${gesucht.wort} ${K[gesucht.klang][0]} – ${gesucht.de}`);
         weiter.disabled = false; tasten(beideHoeren, naechstes);
         beideHoeren();
       } else {
@@ -737,21 +743,21 @@
     ansicht = zeichne; zeichne();
   }
   function zwischenstand() {
-    const fertig = lage.teile[lage.teil], text = lob(true);
+    const fertig = lage.teile[lage.teil], text = lob(true), textDe = lobDe();
     const weiter = () => { lage.teil++; lage.pos = 0; lage.reihe = null; lage.hilfe = false; zeigeTeil(); };
     const zeichne = () => {
       tasten(null, weiter);
-      zeige(kopf(), el("section", { class: "geschafft" }, el("h2", { lang: D.lang }, text), el("p", { lang: D.lang }, f(U.termine, { name: fertig.name })), weiterKnopf(weiter)));
+      zeige(kopf(), el("section", { class: "geschafft" }, lobZeile(text, "h2", textDe), el("p", { lang: D.lang }, f(U.termine, { name: fertig.name })), weiterKnopf(weiter)));
       navErgaenzen(() => zeigeTeil());
     };
     ansicht = zeichne; zeichne();
   }
   function fastGeschafft() {
     lage.ende = true; tasten(null, null);
-    const text = lob(true);
+    const text = lob(true), textDe = lobDe();
     const offen = lage.teile.map((t, i) => [t, i]).filter(([, i]) => !istFertig(i));
     const zeichne = () => zeige(kopf(), el("section", { class: "geschafft" },
-      el("h2", { lang: D.lang }, text), ansageU("presque"),
+      lobZeile(text, "h2", textDe), ansageU("presque"),
       el("div", { class: "knopfreihe" }, offen.map(([t, i]) => knopf(t.name, () => { lage.ende = false; springe(i); }))),
       knopf(U.accueil, startseite)));
     ansicht = zeichne; zeichne();
@@ -762,12 +768,12 @@
     if (!S.gruppen[schluessel]) { S.gruppen[schluessel] = true; punkteDazu(PUNKTE.einheit); }
     const t = thema(tid), alle = !!t && gruppenVon(t).every((_, i) => gruppeFertig(tid, i));
     speichern();
-    const text = lob(true);
+    const text = lob(true), textDe = lobDe();
     lage = null; tasten(null, null);
     const zeichne = () => zeige(el("header", { class: "kopf" }, knopf(t ? U.zurueck_thema : U.zurueck_accueil, zurueckZu, "leise"), el("h1", { lang: D.lang }, titel)),
       el("section", { class: "geschafft" },
         el("h2", { lang: D.lang }, f(U.termine, { name: titel })),
-        el("p", { class: "ansage", lang: D.lang }, text),
+        lobZeile(text, "p", textDe),
         alle && el("p", { class: "ansage", lang: D.lang }, f(U.thema_fertig, { name: t.name })),
         el("div", { class: "knopfreihe" }, t ? knopf(U.autres_parties, zurueckZu, "haupt") : knopf(U.accueil, startseite, "haupt"), t && knopf(U.accueil, startseite))));
     ansicht = zeichne; zeichne();
@@ -948,11 +954,18 @@
   document.body.append(toastBox);
   const feier = el("dialog", { class: "feier", "aria-labelledby": "feier-titel" });
   document.body.append(feier);
-  function toast(text) {
+  function toast(text, dauer = 2200) {
     const t = el("div", { class: "toast" }, text);
     toastBox.append(t);
-    setTimeout(() => t.classList.add("weg"), 2200);
-    setTimeout(() => t.remove(), 2800);
+    setTimeout(() => t.classList.add("weg"), dauer);
+    setTimeout(() => t.remove(), dauer + 600);
+    return t;
+  }
+  // Lob-Pop-up in der Séance: Lob in der Zielsprache, Übersetzung darunter
+  function lobToast(text) {
+    if (!text) return;
+    [...toastBox.querySelectorAll(".toast.lob")].forEach((t) => t.remove());
+    toast(lobZeile(text, "div"), 3000).classList.add("lob");
   }
   // Klang zum Stempel: „Tock“ (Aufschlag) + „Bling“ (zwei Glockentöne), im Browser erzeugt, leiser als die Stimme
   let klangCtx = null;

@@ -1,85 +1,85 @@
-id	art	text	gruppe
-lob_bravo	lob	Bravo!	bravo
-lob_bravissimo	lob	Bravissimo!	bravo
-lob_perfetto	lob	Perfetto!	perfetto
-lob_grande	lob	Grande!	grande
-lob_cosi	lob	Così si fa!	cosi
-lob_fenomeno	lob	Sei un fenomeno!	fenomeno
-lob_dai	lob	Dai!	dai
-lob_mitico	lob	Mitico!	mitico
-lob_forza	lob	Che forza!	forza
-lob_eccellente	lob	Eccellente!	eccellente
-lob_manuale	lob	Da manuale!	manuale
-lob_chapeau	lob	Chapeau!	chapeau
-lob_benissimo	lob	Benissimo!	bene
-lob_esatto	lob	Esatto!	esatto
-lob_ecco	lob	Ecco!	ecco
-lob_ottimo	lob	Ottimo!	ottimo
-lob_fantastico	lob	Fantastico!	fantastico
-lob_molto_bene	lob	Molto bene!	bene
-lob_che_bello	lob	Che bello!	bello
-lob_centrato	lob	Centrato!	centrato
-lob_al_primo	lob	Al primo colpo!	primo
-lob_impeccabile	lob	Impeccabile!	impeccabile
-lob_perfetto_cosi	lob	Perfetto così!	perfetto
-lob_da_dieci	lob	Da dieci!	dieci
-lob_che_livello	lob	Che livello!	livello
-lob_ben_detto	lob	Ben detto!	detto
-lob_senza_errori	lob	Senza errori!	errori
-lob_che_accento	lob	Che accento!	accento
-lob_italiano_vero	lob	Questo sì che è italiano!	italiano
-lob_bolognese	lob	Come un bolognese!	bolognese
-lob_orecchio	lob	Hai orecchio!	orecchio
-lob_meraviglia	lob	Suona una meraviglia!	meraviglia
-lob_adoro	lob	Lo adoro!	adoro
-lob_migliori	lob	Stai migliorando!	migliori
-lob_altro_punto	lob	Un altro punto!	punto
-lob_spacchi	lob	Spacchi!	spacchi
-lob_macchina	lob	Sei una macchina!	macchina
-lob_prendi	lob	Prendi questo!	prendi
-lob_eccolo	lob	Eccolo!	ecco
-lob_senza_dubbio	lob	Senza dubbio!	dubbio
-lob_corretto	lob	Corretto!	corretto
-lob_giusto	lob	Giusto!	giusto
-lob_da_libro	lob	Da libro!	libro
-lob_professore	lob	Molto bene, signor professore!	professore
-lob_che_buono	lob	Che bravo!	bravo
-lob_eh_si	lob	Eh sì!	si
-lob_pazzesco	lob	Pazzesco!	pazzesco
-lob_che_figo	lob	Che figo!	figo
-lob_complimenti	lob	Complimenti!	complimenti
-lob_ben_fatto	lob	Ben fatto!	fatto
-lob_wow	lob	Wow!	wow
-lob_continua	lob	Continua così!	continua
-lob_ce_lhai	lob	Ce l'hai fatta!	fatta
-lob_da_oscar	lob	Da Oscar!	oscar
-lob_che_spettacolo	lob	Che spettacolo!	spettacolo
-stark_campione	stark	Bravo, campione!	campione
-stark_serie	stark	Incredibile! Sei in serie!	serie
-stark_fiero	stark	Sono fiero di te!	fiero
-stark_continua	stark	Stupendo! Continua così!	continua
-stark_macchina	stark	Sei una macchina da guerra!	macchina
-stark_stella	stark	Sei una stella!	stella
-stark_impressionante	stark	Impressionante!	impressionante
-stark_facile	stark	Lo fai sembrare facile!	facile
-stark_volevo	stark	Proprio quello che volevo sentire!	sentire
-stark_voli	stark	Oggi voli!	voli
-stark_centro	stark	In pieno centro!	centro
-stark_prestazione	stark	Che prestazione!	prestazione
-stark_spacchi	stark	Spacchi tutto!	spacchi
-stark_livello	stark	Che livello, però!	livello
-fehler_quasi	fehler	Quasi!	quasi
-fehler_non_proprio	fehler	Non proprio.	proprio
-fehler_riprova	fehler	Riprova!	riprova
-fehler_non_fa_niente	fehler	Non fa niente!	niente
-fehler_ahi	fehler	Ahi!	ahi
-fehler_hmm	fehler	Hmm…	hmm
-fehler_vicino	fehler	Vicino!	vicino
-fehler_quasi_quasi	fehler	Quasi, quasi!	quasi
-fehler_stavolta_no	fehler	Stavolta no!	stavolta
-fehler_ricominciamo	fehler	Non fa niente, ricominciamo!	niente
-geschafft_finito	geschafft	Finito per oggi! Chapeau!	finito
-geschafft_tutto	geschafft	Bravo, hai fatto tutto! A domani!	bravo
-geschafft_fiero	geschafft	Puoi essere fiero di te. A domani!	fiero
-voll_senza_errori	voll	Senza errori! Che meraviglia!	errori
-doch_vedi	doch	Vedi? Ce la fai!	vedi
+id	art	text	gruppe	de
+lob_bravo	lob	Bravo!	bravo	Bravo!
+lob_bravissimo	lob	Bravissimo!	bravo	Ganz toll!
+lob_perfetto	lob	Perfetto!	perfetto	Perfekt!
+lob_grande	lob	Grande!	grande	Großartig!
+lob_cosi	lob	Così si fa!	cosi	So macht man das!
+lob_fenomeno	lob	Sei un fenomeno!	fenomeno	Du bist ein Phänomen!
+lob_dai	lob	Dai!	dai	Na los!
+lob_mitico	lob	Mitico!	mitico	Legendär!
+lob_forza	lob	Che forza!	forza	Was für eine Kraft!
+lob_eccellente	lob	Eccellente!	eccellente	Ausgezeichnet!
+lob_manuale	lob	Da manuale!	manuale	Wie aus dem Lehrbuch!
+lob_chapeau	lob	Chapeau!	chapeau	Hut ab!
+lob_benissimo	lob	Benissimo!	bene	Sehr gut!
+lob_esatto	lob	Esatto!	esatto	Genau!
+lob_ecco	lob	Ecco!	ecco	Da ist es!
+lob_ottimo	lob	Ottimo!	ottimo	Hervorragend!
+lob_fantastico	lob	Fantastico!	fantastico	Fantastisch!
+lob_molto_bene	lob	Molto bene!	bene	Sehr gut!
+lob_che_bello	lob	Che bello!	bello	Wie schön!
+lob_centrato	lob	Centrato!	centrato	Getroffen!
+lob_al_primo	lob	Al primo colpo!	primo	Beim ersten Versuch!
+lob_impeccabile	lob	Impeccabile!	impeccabile	Einwandfrei!
+lob_perfetto_cosi	lob	Perfetto così!	perfetto	Perfekt so!
+lob_da_dieci	lob	Da dieci!	dieci	Eine Zehn!
+lob_che_livello	lob	Che livello!	livello	Was für ein Niveau!
+lob_ben_detto	lob	Ben detto!	detto	Gut gesagt!
+lob_senza_errori	lob	Senza errori!	errori	Fehlerfrei!
+lob_che_accento	lob	Che accento!	accento	Was für ein Akzent!
+lob_italiano_vero	lob	Questo sì che è italiano!	italiano	Das ist Italienisch!
+lob_bolognese	lob	Come un bolognese!	bolognese	Wie ein Bologneser!
+lob_orecchio	lob	Hai orecchio!	orecchio	Du hast ein gutes Ohr!
+lob_meraviglia	lob	Suona una meraviglia!	meraviglia	Das klingt wunderbar!
+lob_adoro	lob	Lo adoro!	adoro	Ich liebe es!
+lob_migliori	lob	Stai migliorando!	migliori	Du wirst immer besser!
+lob_altro_punto	lob	Un altro punto!	punto	Noch ein Punkt!
+lob_spacchi	lob	Spacchi!	spacchi	Du rockst das!
+lob_macchina	lob	Sei una macchina!	macchina	Du bist eine Maschine!
+lob_prendi	lob	Prendi questo!	prendi	Da hast du’s!
+lob_eccolo	lob	Eccolo!	ecco	Da ist es!
+lob_senza_dubbio	lob	Senza dubbio!	dubbio	Ohne Zweifel!
+lob_corretto	lob	Corretto!	corretto	Richtig!
+lob_giusto	lob	Giusto!	giusto	Genau!
+lob_da_libro	lob	Da libro!	libro	Wie aus dem Buch!
+lob_professore	lob	Molto bene, signor professore!	professore	Sehr gut, Herr Lehrer!
+lob_che_buono	lob	Che bravo!	bravo	Wie tüchtig!
+lob_eh_si	lob	Eh sì!	si	Na also!
+lob_pazzesco	lob	Pazzesco!	pazzesco	Wahnsinn!
+lob_che_figo	lob	Che figo!	figo	Wie cool!
+lob_complimenti	lob	Complimenti!	complimenti	Glückwunsch!
+lob_ben_fatto	lob	Ben fatto!	fatto	Gut gemacht!
+lob_wow	lob	Wow!	wow	Wow!
+lob_continua	lob	Continua così!	continua	Weiter so!
+lob_ce_lhai	lob	Ce l'hai fatta!	fatta	Du hast es geschafft!
+lob_da_oscar	lob	Da Oscar!	oscar	Oscarreif!
+lob_che_spettacolo	lob	Che spettacolo!	spettacolo	Was für ein Spektakel!
+stark_campione	stark	Bravo, campione!	campione	Bravo, Champion!
+stark_serie	stark	Incredibile! Sei in serie!	serie	Unglaublich! Du bist in Serie!
+stark_fiero	stark	Sono fiero di te!	fiero	Ich bin stolz auf dich!
+stark_continua	stark	Stupendo! Continua così!	continua	Großartig! Weiter so!
+stark_macchina	stark	Sei una macchina da guerra!	macchina	Du bist eine Kriegsmaschine!
+stark_stella	stark	Sei una stella!	stella	Du bist ein Star!
+stark_impressionante	stark	Impressionante!	impressionante	Beeindruckend!
+stark_facile	stark	Lo fai sembrare facile!	facile	Du lässt es leicht aussehen!
+stark_volevo	stark	Proprio quello che volevo sentire!	sentire	Genau das wollte ich hören!
+stark_voli	stark	Oggi voli!	voli	Heute fliegst du!
+stark_centro	stark	In pieno centro!	centro	Voll ins Schwarze!
+stark_prestazione	stark	Che prestazione!	prestazione	Was für eine Leistung!
+stark_spacchi	stark	Spacchi tutto!	spacchi	Du räumst alles ab!
+stark_livello	stark	Che livello, però!	livello	Was für ein Niveau aber!
+fehler_quasi	fehler	Quasi!	quasi	Fast!
+fehler_non_proprio	fehler	Non proprio.	proprio	Nicht ganz.
+fehler_riprova	fehler	Riprova!	riprova	Versuch’s noch mal!
+fehler_non_fa_niente	fehler	Non fa niente!	niente	Macht nichts!
+fehler_ahi	fehler	Ahi!	ahi	Autsch!
+fehler_hmm	fehler	Hmm…	hmm	Hmm…
+fehler_vicino	fehler	Vicino!	vicino	Knapp daneben!
+fehler_quasi_quasi	fehler	Quasi, quasi!	quasi	Fast, fast!
+fehler_stavolta_no	fehler	Stavolta no!	stavolta	Diesmal nicht!
+fehler_ricominciamo	fehler	Non fa niente, ricominciamo!	niente	Macht nichts, wir fangen noch mal an!
+geschafft_finito	geschafft	Finito per oggi! Chapeau!	finito	Schluss für heute! Hut ab!
+geschafft_tutto	geschafft	Bravo, hai fatto tutto! A domani!	bravo	Bravo, du hast alles geschafft! Bis morgen!
+geschafft_fiero	geschafft	Puoi essere fiero di te. A domani!	fiero	Du kannst stolz auf dich sein. Bis morgen!
+voll_senza_errori	voll	Senza errori! Che meraviglia!	errori	Fehlerfrei! Wunderbar!
+doch_vedi	doch	Vedi? Ce la fai!	vedi	Siehst du? Du schaffst es!

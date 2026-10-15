@@ -5579,6 +5579,7 @@ window.SPRACHEN["it-de"] = {
   "lob": [
    {
     "text": "Bravo!",
+    "de": "Bravo!",
     "audio": "audio/it-de/lob/lob_bravo.mp3?v=e517360a",
     "gruppe": [
      "bravo"
@@ -5586,6 +5587,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Bravissimo!",
+    "de": "Ganz toll!",
     "audio": "audio/it-de/lob/lob_bravissimo.mp3?v=f77758fa",
     "gruppe": [
      "bravo"
@@ -5593,6 +5595,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Perfetto!",
+    "de": "Perfekt!",
     "audio": "audio/it-de/lob/lob_perfetto.mp3?v=0286ba04",
     "gruppe": [
      "perfetto"
@@ -5600,6 +5603,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Grande!",
+    "de": "Großartig!",
     "audio": "audio/it-de/lob/lob_grande.mp3?v=dda568f3",
     "gruppe": [
      "grande"
@@ -5607,6 +5611,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Così si fa!",
+    "de": "So macht man das!",
     "audio": "audio/it-de/lob/lob_cosi.mp3?v=ba754f6f",
     "gruppe": [
      "cosi"
@@ -5614,6 +5619,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Sei un fenomeno!",
+    "de": "Du bist ein Phänomen!",
     "audio": "audio/it-de/lob/lob_fenomeno.mp3?v=ef55b28b",
     "gruppe": [
      "fenomeno"
@@ -5621,6 +5627,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Dai!",
+    "de": "Na los!",
     "audio": "audio/it-de/lob/lob_dai.mp3?v=47b45817",
     "gruppe": [
      "dai"
@@ -5628,6 +5635,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Mitico!",
+    "de": "Legendär!",
     "audio": "audio/it-de/lob/lob_mitico.mp3?v=4956d53b",
     "gruppe": [
      "mitico"
@@ -5635,6 +5643,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che forza!",
+    "de": "Was für eine Kraft!",
     "audio": "audio/it-de/lob/lob_forza.mp3?v=8c78204e",
     "gruppe": [
      "forza"
@@ -5642,6 +5651,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Eccellente!",
+    "de": "Ausgezeichnet!",
     "audio": "audio/it-de/lob/lob_eccellente.mp3?v=cffd463f",
     "gruppe": [
      "eccellente"
@@ -5649,6 +5659,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Da manuale!",
+    "de": "Wie aus dem Lehrbuch!",
     "audio": "audio/it-de/lob/lob_manuale.mp3?v=4c7013b3",
     "gruppe": [
      "manuale"
@@ -5656,6 +5667,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Chapeau!",
+    "de": "Hut ab!",
     "audio": "audio/it-de/lob/lob_chapeau.mp3?v=7752ecb3",
     "gruppe": [
      "chapeau"
@@ -5663,6 +5675,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Benissimo!",
+    "de": "Sehr gut!",
     "audio": "audio/it-de/lob/lob_benissimo.mp3?v=2c0182a5",
     "gruppe": [
      "bene"
@@ -5670,6 +5683,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Esatto!",
+    "de": "Genau!",
     "audio": "audio/it-de/lob/lob_esatto.mp3?v=8b9f7605",
     "gruppe": [
      "esatto"
@@ -5677,6 +5691,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Ecco!",
+    "de": "Da ist es!",
     "audio": "audio/it-de/lob/lob_ecco.mp3?v=9aa99107",
     "gruppe": [
      "ecco"
@@ -5684,6 +5699,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Ottimo!",
+    "de": "Hervorragend!",
     "audio": "audio/it-de/lob/lob_ottimo.mp3?v=5a1fa9ac",
     "gruppe": [
      "ottimo"
@@ -5691,6 +5707,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Fantastico!",
+    "de": "Fantastisch!",
     "audio": "audio/it-de/lob/lob_fantastico.mp3?v=1bccc501",
     "gruppe": [
      "fantastico"
@@ -5698,6 +5715,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Molto bene!",
+    "de": "Sehr gut!",
     "audio": "audio/it-de/lob/lob_molto_bene.mp3?v=9f07aa92",
     "gruppe": [
      "bene"
@@ -5705,6 +5723,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che bello!",
+    "de": "Wie schön!",
     "audio": "audio/it-de/lob/lob_che_bello.mp3?v=b24d6606",
     "gruppe": [
      "bello"
@@ -5712,6 +5731,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Centrato!",
+    "de": "Getroffen!",
     "audio": "audio/it-de/lob/lob_centrato.mp3?v=5865d3ad",
     "gruppe": [
      "centrato"
@@ -5719,6 +5739,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Al primo colpo!",
+    "de": "Beim ersten Versuch!",
     "audio": "audio/it-de/lob/lob_al_primo.mp3?v=d4cce791",
     "gruppe": [
      "primo"
@@ -5726,6 +5747,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Impeccabile!",
+    "de": "Einwandfrei!",
     "audio": "audio/it-de/lob/lob_impeccabile.mp3?v=11528341",
     "gruppe": [
      "impeccabile"
@@ -5733,6 +5755,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Perfetto così!",
+    "de": "Perfekt so!",
     "audio": "audio/it-de/lob/lob_perfetto_cosi.mp3?v=e52a782a",
     "gruppe": [
      "perfetto"
@@ -5740,6 +5763,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Da dieci!",
+    "de": "Eine Zehn!",
     "audio": "audio/it-de/lob/lob_da_dieci.mp3?v=cccafc2c",
     "gruppe": [
      "dieci"
@@ -5747,6 +5771,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che livello!",
+    "de": "Was für ein Niveau!",
     "audio": "audio/it-de/lob/lob_che_livello.mp3?v=cecef3f9",
     "gruppe": [
      "livello"
@@ -5754,6 +5779,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Ben detto!",
+    "de": "Gut gesagt!",
     "audio": "audio/it-de/lob/lob_ben_detto.mp3?v=bf13ba84",
     "gruppe": [
      "detto"
@@ -5761,6 +5787,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Senza errori!",
+    "de": "Fehlerfrei!",
     "audio": "audio/it-de/lob/lob_senza_errori.mp3?v=d3bb94e5",
     "gruppe": [
      "errori"
@@ -5768,6 +5795,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che accento!",
+    "de": "Was für ein Akzent!",
     "audio": "audio/it-de/lob/lob_che_accento.mp3?v=818d3f61",
     "gruppe": [
      "accento"
@@ -5775,6 +5803,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Questo sì che è italiano!",
+    "de": "Das ist Italienisch!",
     "audio": "audio/it-de/lob/lob_italiano_vero.mp3?v=d2500a07",
     "gruppe": [
      "italiano"
@@ -5782,6 +5811,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Come un bolognese!",
+    "de": "Wie ein Bologneser!",
     "audio": "audio/it-de/lob/lob_bolognese.mp3?v=b5083141",
     "gruppe": [
      "bolognese"
@@ -5789,6 +5819,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Hai orecchio!",
+    "de": "Du hast ein gutes Ohr!",
     "audio": "audio/it-de/lob/lob_orecchio.mp3?v=46bf1719",
     "gruppe": [
      "orecchio"
@@ -5796,6 +5827,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Suona una meraviglia!",
+    "de": "Das klingt wunderbar!",
     "audio": "audio/it-de/lob/lob_meraviglia.mp3?v=ffd19a2d",
     "gruppe": [
      "meraviglia"
@@ -5803,6 +5835,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Lo adoro!",
+    "de": "Ich liebe es!",
     "audio": "audio/it-de/lob/lob_adoro.mp3?v=9e434041",
     "gruppe": [
      "adoro"
@@ -5810,6 +5843,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Stai migliorando!",
+    "de": "Du wirst immer besser!",
     "audio": "audio/it-de/lob/lob_migliori.mp3?v=54a8912e",
     "gruppe": [
      "migliori"
@@ -5817,6 +5851,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Un altro punto!",
+    "de": "Noch ein Punkt!",
     "audio": "audio/it-de/lob/lob_altro_punto.mp3?v=3f850a99",
     "gruppe": [
      "punto"
@@ -5824,6 +5859,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Spacchi!",
+    "de": "Du rockst das!",
     "audio": "audio/it-de/lob/lob_spacchi.mp3?v=2f25537b",
     "gruppe": [
      "spacchi"
@@ -5831,6 +5867,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Sei una macchina!",
+    "de": "Du bist eine Maschine!",
     "audio": "audio/it-de/lob/lob_macchina.mp3?v=36ba0f41",
     "gruppe": [
      "macchina"
@@ -5838,6 +5875,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Prendi questo!",
+    "de": "Da hast du’s!",
     "audio": "audio/it-de/lob/lob_prendi.mp3?v=a4a3da2c",
     "gruppe": [
      "prendi"
@@ -5845,6 +5883,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Eccolo!",
+    "de": "Da ist es!",
     "audio": "audio/it-de/lob/lob_eccolo.mp3?v=97d78866",
     "gruppe": [
      "ecco"
@@ -5852,6 +5891,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Senza dubbio!",
+    "de": "Ohne Zweifel!",
     "audio": "audio/it-de/lob/lob_senza_dubbio.mp3?v=779bebb3",
     "gruppe": [
      "dubbio"
@@ -5859,6 +5899,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Corretto!",
+    "de": "Richtig!",
     "audio": "audio/it-de/lob/lob_corretto.mp3?v=208d07b1",
     "gruppe": [
      "corretto"
@@ -5866,6 +5907,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Giusto!",
+    "de": "Genau!",
     "audio": "audio/it-de/lob/lob_giusto.mp3?v=6e5ab103",
     "gruppe": [
      "giusto"
@@ -5873,6 +5915,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Da libro!",
+    "de": "Wie aus dem Buch!",
     "audio": "audio/it-de/lob/lob_da_libro.mp3?v=e4e5746c",
     "gruppe": [
      "libro"
@@ -5880,6 +5923,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Molto bene, signor professore!",
+    "de": "Sehr gut, Herr Lehrer!",
     "audio": "audio/it-de/lob/lob_professore.mp3?v=3f78876a",
     "gruppe": [
      "professore"
@@ -5887,6 +5931,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che bravo!",
+    "de": "Wie tüchtig!",
     "audio": "audio/it-de/lob/lob_che_buono.mp3?v=0de5898b",
     "gruppe": [
      "bravo"
@@ -5894,6 +5939,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Eh sì!",
+    "de": "Na also!",
     "audio": "audio/it-de/lob/lob_eh_si.mp3?v=96829c76",
     "gruppe": [
      "si"
@@ -5901,6 +5947,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Pazzesco!",
+    "de": "Wahnsinn!",
     "audio": "audio/it-de/lob/lob_pazzesco.mp3?v=a86ea271",
     "gruppe": [
      "pazzesco"
@@ -5908,6 +5955,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che figo!",
+    "de": "Wie cool!",
     "audio": "audio/it-de/lob/lob_che_figo.mp3?v=b7095fe9",
     "gruppe": [
      "figo"
@@ -5915,6 +5963,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Complimenti!",
+    "de": "Glückwunsch!",
     "audio": "audio/it-de/lob/lob_complimenti.mp3?v=61ebac0d",
     "gruppe": [
      "complimenti"
@@ -5922,6 +5971,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Ben fatto!",
+    "de": "Gut gemacht!",
     "audio": "audio/it-de/lob/lob_ben_fatto.mp3?v=c55f9a38",
     "gruppe": [
      "fatto"
@@ -5929,6 +5979,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Wow!",
+    "de": "Wow!",
     "audio": "audio/it-de/lob/lob_wow.mp3?v=5d1f6e9f",
     "gruppe": [
      "wow"
@@ -5936,6 +5987,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Continua così!",
+    "de": "Weiter so!",
     "audio": "audio/it-de/lob/lob_continua.mp3?v=33443cc1",
     "gruppe": [
      "continua"
@@ -5943,6 +5995,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Ce l'hai fatta!",
+    "de": "Du hast es geschafft!",
     "audio": "audio/it-de/lob/lob_ce_lhai.mp3?v=6586d215",
     "gruppe": [
      "fatta"
@@ -5950,6 +6003,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Da Oscar!",
+    "de": "Oscarreif!",
     "audio": "audio/it-de/lob/lob_da_oscar.mp3?v=f7115fe3",
     "gruppe": [
      "oscar"
@@ -5957,6 +6011,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che spettacolo!",
+    "de": "Was für ein Spektakel!",
     "audio": "audio/it-de/lob/lob_che_spettacolo.mp3?v=1ad01851",
     "gruppe": [
      "spettacolo"
@@ -5966,6 +6021,7 @@ window.SPRACHEN["it-de"] = {
   "stark": [
    {
     "text": "Bravo, campione!",
+    "de": "Bravo, Champion!",
     "audio": "audio/it-de/lob/stark_campione.mp3?v=67416411",
     "gruppe": [
      "campione"
@@ -5973,6 +6029,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Incredibile! Sei in serie!",
+    "de": "Unglaublich! Du bist in Serie!",
     "audio": "audio/it-de/lob/stark_serie.mp3?v=8cd8de57",
     "gruppe": [
      "serie"
@@ -5980,6 +6037,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Sono fiero di te!",
+    "de": "Ich bin stolz auf dich!",
     "audio": "audio/it-de/lob/stark_fiero.mp3?v=8b9a6f1c",
     "gruppe": [
      "fiero"
@@ -5987,6 +6045,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Stupendo! Continua così!",
+    "de": "Großartig! Weiter so!",
     "audio": "audio/it-de/lob/stark_continua.mp3?v=99d39ea1",
     "gruppe": [
      "continua"
@@ -5994,6 +6053,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Sei una macchina da guerra!",
+    "de": "Du bist eine Kriegsmaschine!",
     "audio": "audio/it-de/lob/stark_macchina.mp3?v=f95edd41",
     "gruppe": [
      "macchina"
@@ -6001,6 +6061,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Sei una stella!",
+    "de": "Du bist ein Star!",
     "audio": "audio/it-de/lob/stark_stella.mp3?v=31aa168d",
     "gruppe": [
      "stella"
@@ -6008,6 +6069,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Impressionante!",
+    "de": "Beeindruckend!",
     "audio": "audio/it-de/lob/stark_impressionante.mp3?v=c200f0e6",
     "gruppe": [
      "impressionante"
@@ -6015,6 +6077,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Lo fai sembrare facile!",
+    "de": "Du lässt es leicht aussehen!",
     "audio": "audio/it-de/lob/stark_facile.mp3?v=8dfe89c8",
     "gruppe": [
      "facile"
@@ -6022,6 +6085,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Proprio quello che volevo sentire!",
+    "de": "Genau das wollte ich hören!",
     "audio": "audio/it-de/lob/stark_volevo.mp3?v=c76b87b5",
     "gruppe": [
      "sentire"
@@ -6029,6 +6093,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Oggi voli!",
+    "de": "Heute fliegst du!",
     "audio": "audio/it-de/lob/stark_voli.mp3?v=fb58ddd9",
     "gruppe": [
      "voli"
@@ -6036,6 +6101,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "In pieno centro!",
+    "de": "Voll ins Schwarze!",
     "audio": "audio/it-de/lob/stark_centro.mp3?v=28e38a4e",
     "gruppe": [
      "centro"
@@ -6043,6 +6109,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che prestazione!",
+    "de": "Was für eine Leistung!",
     "audio": "audio/it-de/lob/stark_prestazione.mp3?v=3d602f41",
     "gruppe": [
      "prestazione"
@@ -6050,6 +6117,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Spacchi tutto!",
+    "de": "Du räumst alles ab!",
     "audio": "audio/it-de/lob/stark_spacchi.mp3?v=66f35d50",
     "gruppe": [
      "spacchi"
@@ -6057,6 +6125,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Che livello, però!",
+    "de": "Was für ein Niveau aber!",
     "audio": "audio/it-de/lob/stark_livello.mp3?v=85d72ed1",
     "gruppe": [
      "livello"
@@ -6066,6 +6135,7 @@ window.SPRACHEN["it-de"] = {
   "fehler": [
    {
     "text": "Quasi!",
+    "de": "Fast!",
     "audio": "audio/it-de/lob/fehler_quasi.mp3?v=7dc68658",
     "gruppe": [
      "quasi"
@@ -6073,6 +6143,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Non proprio.",
+    "de": "Nicht ganz.",
     "audio": "audio/it-de/lob/fehler_non_proprio.mp3?v=620fc500",
     "gruppe": [
      "proprio"
@@ -6080,6 +6151,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Riprova!",
+    "de": "Versuch’s noch mal!",
     "audio": "audio/it-de/lob/fehler_riprova.mp3?v=fd484fb4",
     "gruppe": [
      "riprova"
@@ -6087,6 +6159,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Non fa niente!",
+    "de": "Macht nichts!",
     "audio": "audio/it-de/lob/fehler_non_fa_niente.mp3?v=0fd56b74",
     "gruppe": [
      "niente"
@@ -6094,6 +6167,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Ahi!",
+    "de": "Autsch!",
     "audio": "audio/it-de/lob/fehler_ahi.mp3?v=6bffc475",
     "gruppe": [
      "ahi"
@@ -6101,6 +6175,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Hmm…",
+    "de": "Hmm…",
     "audio": "audio/it-de/lob/fehler_hmm.mp3?v=05a58e26",
     "gruppe": [
      "hmm"
@@ -6108,6 +6183,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Vicino!",
+    "de": "Knapp daneben!",
     "audio": "audio/it-de/lob/fehler_vicino.mp3?v=fc127de0",
     "gruppe": [
      "vicino"
@@ -6115,6 +6191,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Quasi, quasi!",
+    "de": "Fast, fast!",
     "audio": "audio/it-de/lob/fehler_quasi_quasi.mp3?v=a3cfaef9",
     "gruppe": [
      "quasi"
@@ -6122,6 +6199,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Stavolta no!",
+    "de": "Diesmal nicht!",
     "audio": "audio/it-de/lob/fehler_stavolta_no.mp3?v=c29e2138",
     "gruppe": [
      "stavolta"
@@ -6129,6 +6207,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Non fa niente, ricominciamo!",
+    "de": "Macht nichts, wir fangen noch mal an!",
     "audio": "audio/it-de/lob/fehler_ricominciamo.mp3?v=181d9c16",
     "gruppe": [
      "niente"
@@ -6138,6 +6217,7 @@ window.SPRACHEN["it-de"] = {
   "geschafft": [
    {
     "text": "Finito per oggi! Chapeau!",
+    "de": "Schluss für heute! Hut ab!",
     "audio": "audio/it-de/lob/geschafft_finito.mp3?v=e464eee3",
     "gruppe": [
      "finito"
@@ -6145,6 +6225,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Bravo, hai fatto tutto! A domani!",
+    "de": "Bravo, du hast alles geschafft! Bis morgen!",
     "audio": "audio/it-de/lob/geschafft_tutto.mp3?v=bd13a23e",
     "gruppe": [
      "bravo"
@@ -6152,6 +6233,7 @@ window.SPRACHEN["it-de"] = {
    },
    {
     "text": "Puoi essere fiero di te. A domani!",
+    "de": "Du kannst stolz auf dich sein. Bis morgen!",
     "audio": "audio/it-de/lob/geschafft_fiero.mp3?v=2c692729",
     "gruppe": [
      "fiero"
@@ -6161,6 +6243,7 @@ window.SPRACHEN["it-de"] = {
   "voll": [
    {
     "text": "Senza errori! Che meraviglia!",
+    "de": "Fehlerfrei! Wunderbar!",
     "audio": "audio/it-de/lob/voll_senza_errori.mp3?v=bec62ad5",
     "gruppe": [
      "errori"
@@ -6170,6 +6253,7 @@ window.SPRACHEN["it-de"] = {
   "doch": [
    {
     "text": "Vedi? Ce la fai!",
+    "de": "Siehst du? Du schaffst es!",
     "audio": "audio/it-de/lob/doch_vedi.mp3?v=16770c04",
     "gruppe": [
      "vedi"

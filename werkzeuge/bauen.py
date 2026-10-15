@@ -96,7 +96,7 @@ def daten_fuer(P):
         geschichte[-1]["absaetze"].append({"id": aid, "fr": z["fr"], "de": z["de"], "audio": audio(f"geschichte/{aid}.mp3")})
     lob = {}
     for z in tsv(inhalte, "lob.tsv"):
-        lob.setdefault(z["art"], []).append({"text": z["text"], "audio": audio(f"lob/{z['id']}.mp3"), "gruppe": [g for g in z["gruppe"].split(",") if g]})
+        lob.setdefault(z["art"], []).append({"text": z["text"], "de": z.get("de", ""), "audio": audio(f"lob/{z['id']}.mp3"), "gruppe": [g for g in z["gruppe"].split(",") if g]})
     # Karte und Orte
     karte, gebiet, proj = P.karte_laden(inhalte)
     orte = []
