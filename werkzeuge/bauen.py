@@ -112,7 +112,7 @@ def daten_fuer(P):
              "texte": {k: {"text": t, "audio": audio(f"spiel/{k}.mp3")} for k, t in P.SPIEL_TEXTE.items()},
              "frei": frei_saarland.als_daten()}
     return {"paar": paar, "name": P.NAME, "kurz": P.KURZ, "hilfe_kurz": P.HILFE_KURZ, "flagge": P.FLAGGE, "lang": P.LANG, "lang_hilfe": P.LANG_HILFE,
-            "sprachausgabe": P.SPRACHAUSGABE, "audio_speicher": f"ll-audio-{AUDIO_STAND}", "theme": {"blau": P.THEME["blau"], "rot": P.THEME["rot"]},
+            "sprachausgabe": P.SPRACHAUSGABE, "audio_speicher": f"ll-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
             "ui": P.UI, "themen": themen, "wendungen": wendungen, "dialoge": dialoge, "rollen": P.ROLLEN, "dialoge_titel": P.DIALOGE_TITEL,
             "aussprache": aussprache, "geschichte": geschichte, "geschichte_info": P.GESCHICHTE, "lob": lob,
             "pensum": PENSUM, "intervalle": INTERVALLE, "spiel": spiel}

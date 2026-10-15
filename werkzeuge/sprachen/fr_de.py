@@ -11,7 +11,8 @@ FLAGGE = "🇫🇷"
 LANG = "fr"                    # HTML lang / Sprachausgabe des Geräts
 LANG_HILFE = "de"
 SPRACHAUSGABE = "fr-FR"
-THEME = {"blau": "#0a2a6b", "rot": "#c8102e", "icon_buchstabe": "F", "icon_farben": [(0, 85, 164), (255, 255, 255), (239, 65, 53)]}
+THEME = {"blau": "#1b3f8f", "rot": "#c8102e", "rot_text": "#ffffff", "dunkel": {"blau": "#9db9ff", "blau_text": "#0f1522", "rot": "#ff7b88", "rot_text": "#1a0608"},
+         "icon_buchstabe": "F", "icon_farben": [(0, 85, 164), (255, 255, 255), (239, 65, 53)]}
 
 # Themen in Lernreihenfolge (die tägliche Séance nimmt neue Wendungen in dieser Reihenfolge)
 THEMEN = [

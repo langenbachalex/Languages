@@ -57,8 +57,13 @@
     REIHENFOLGE = Object.fromEntries(D.wendungen.map((w, i) => [w.id, i]));
     stand.paar = paar; speichern();
     document.documentElement.lang = D.lang;
-    document.documentElement.style.setProperty("--blau", D.theme.blau);
-    document.documentElement.style.setProperty("--rot", D.theme.rot);
+    // Sprachfarben als Regeln für hell und dunkel (nicht als feste Inline-Werte: die überschrieben den Dunkelmodus, Kontrast 1,3–2,8 : 1)
+    const T = D.theme, Td = T.dunkel || T;
+    let st = document.getElementById("sprachfarben");
+    if (!st) { st = document.createElement("style"); st.id = "sprachfarben"; document.head.append(st); }
+    const hell = `--blau:${T.blau};--rot:${T.rot};--rot-text:${T.rot_text || "#ffffff"};--blau-text:${T.blau_text || "#ffffff"}`;
+    const dunkel = `--blau:${Td.blau};--rot:${Td.rot};--rot-text:${Td.rot_text || "#0f1522"};--blau-text:${Td.blau_text || "#0f1522"}`;
+    st.textContent = `:root{${hell}} @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){${dunkel}}} :root[data-theme="dark"]{${dunkel}}`;
     document.title = `${U.app} · ${D.name}`;
     const n = document.querySelectorAll(".niveau button");
     n[0].textContent = D.kurz; n[1].textContent = `${D.kurz} + ${D.hilfe_kurz}`;

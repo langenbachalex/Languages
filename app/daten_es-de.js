@@ -12,7 +12,14 @@ window.SPRACHEN["es-de"] = {
  "audio_speicher": "ll-audio-2",
  "theme": {
   "blau": "#8a1c1c",
-  "rot": "#e0a800"
+  "rot": "#996300",
+  "rot_text": "#ffffff",
+  "dunkel": {
+   "blau": "#ff8a7a",
+   "blau_text": "#2a0a06",
+   "rot": "#ffcf4d",
+   "rot_text": "#2a2000"
+  }
  },
  "ui": {
   "app": "Language Learning",

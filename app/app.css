@@ -106,7 +106,7 @@
 .staaten-zahl { font-weight: 700; }
 .staaten-liste { display: flex; flex-wrap: wrap; gap: 6px; }
 .staat-chip { font: 600 .9rem var(--body); min-height: 36px; padding: 0 12px; border-radius: 999px; border: 0; cursor: pointer; background: var(--blau); color: var(--blau-text); }
-.staat-chip.b { background: var(--rot); color: #fff; }
+.staat-chip.b { background: var(--rot); color: var(--rot-text, #fff); }
 .stempel-bild path { fill: var(--rot); stroke: var(--text); stroke-width: 1.5; vector-effect: non-scaling-stroke; }
 .stempel-punkt { fill: #fff; stroke: var(--text); stroke-width: 1; vector-effect: non-scaling-stroke; }
 

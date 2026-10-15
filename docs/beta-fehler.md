@@ -18,8 +18,8 @@ Status: ☐ offen · ◐ umgesetzt, noch nicht veröffentlicht · ☑ veröffent
 
 | Status | Betrifft | Beobachtung | Lösung |
 |---|---|---|---|
-| ◐ | alle Sprachen | Sprachfarbe (fr: dunkles Blau) zu dunkel; Hervorhebungen heben sich nicht ab. Analyse: app.js setzt die Sprachfarben fest, dadurch gelten im Dunkelmodus die hellen Farben weiter (Kontrast 1,3–2,8 : 1). Spanisch-Gold mit weißer Schrift auch im Hellmodus zu schwach (2,1 : 1). | Vorschlag mit Farbprobe am 15.10.; je Sprache eigene Hell- und Dunkelfarben, Schriftfarbe auf Gold dunkel. Umsetzung nach Freigabe. |
-| ◐ | alle Karten | freigeschaltete Gebiete nicht unterscheidbar (gleiche Farbe, schwacher Rand); gewählter Ort nicht erkennbar | weiße Trennlinien zwischen freigeschalteten Gebieten, gewähltes Gebiet mit rotem Rahmen und hellgelber Füllung, Punkt größer (Prototyp 15.10., alle vier Karten). |
+| ☑ | alle Sprachen | Sprachfarbe (fr: dunkles Blau) zu dunkel; Hervorhebungen heben sich nicht ab. Analyse: app.js setzt die Sprachfarben fest, dadurch gelten im Dunkelmodus die hellen Farben weiter (Kontrast 1,3–2,8 : 1). Spanisch-Gold mit weißer Schrift auch im Hellmodus zu schwach (2,1 : 1). | Vorschlag mit Farbprobe am 15.10.; je Sprache eigene Hell- und Dunkelfarben, Schriftfarbe auf Gold dunkel. Umgesetzt und veröffentlicht 15.10. (Freigabe Mr. Alex). |
+| ☑ | alle Karten | freigeschaltete Gebiete nicht unterscheidbar (gleiche Farbe, schwacher Rand); gewählter Ort nicht erkennbar | weiße Trennlinien zwischen freigeschalteten Gebieten, gewähltes Gebiet mit rotem Rahmen und hellgelber Füllung, Punkt größer Veröffentlicht 15.10. |
 
 ## Noch nicht zugeordnet
 

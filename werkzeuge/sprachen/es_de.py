@@ -10,7 +10,7 @@ FLAGGE = "🇪🇸"
 LANG = "es"
 LANG_HILFE = "de"
 SPRACHAUSGABE = "es-ES"
-THEME = {"blau": "#8a1c1c", "rot": "#e0a800"}   # Rot und Gold
+THEME = {"blau": "#8a1c1c", "rot": "#996300", "rot_text": "#ffffff", "dunkel": {"blau": "#ff8a7a", "blau_text": "#2a0a06", "rot": "#ffcf4d", "rot_text": "#2a2000"}}   # Rot und Gold
 
 # Themen in Lernreihenfolge – werden Thema für Thema ergänzt (jeweils nach Absegnung)
 THEMEN = [

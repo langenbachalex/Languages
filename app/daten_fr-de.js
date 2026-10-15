@@ -11,8 +11,15 @@ window.SPRACHEN["fr-de"] = {
  "sprachausgabe": "fr-FR",
  "audio_speicher": "ll-audio-2",
  "theme": {
-  "blau": "#0a2a6b",
-  "rot": "#c8102e"
+  "blau": "#1b3f8f",
+  "rot": "#c8102e",
+  "rot_text": "#ffffff",
+  "dunkel": {
+   "blau": "#9db9ff",
+   "blau_text": "#0f1522",
+   "rot": "#ff7b88",
+   "rot_text": "#1a0608"
+  }
  },
  "ui": {
   "app": "Language Learning",
