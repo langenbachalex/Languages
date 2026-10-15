@@ -47,3 +47,7 @@ Jedes Thema wie bisher: Vorschlag → Mr. Alex liest → OK → Audio → veröf
 
 - Punkte und Titel pro Sprache, Serie gemeinsam (so gebaut, 13.10.).
 - Für Deutsch: Aurélien als Lernender – noch zu bestätigen.
+
+## 6. Englisch (aufgeschoben)
+
+Brainstorming und Rahmenfakten in `docs/en/brainstorming.md` (Kasten oben). Aufgeschoben am 15.10.2026; Beta-Fehler werden in `docs/beta-fehler.md` gesammelt.

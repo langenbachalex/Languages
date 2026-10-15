@@ -1102,11 +1102,12 @@
     const svg = document.createElementNS(NS, "svg");
     svg.setAttribute("viewBox", "0 0 600 600"); svg.setAttribute("class", "france"); svg.setAttribute("role", "img");
     svg.setAttribute("aria-label", KI.name);
-    const offen = SP.orte.slice(0, frei);
+    const offen = SP.orte.slice(0, frei), punkte = {};
     const besucht = new Set(offen.map((o) => o.dep));
+    const gebiete = {};
     Object.entries(SP.karte).forEach(([code, d]) => {
       const p = document.createElementNS(NS, "path");
-      p.setAttribute("d", d.d);
+      p.setAttribute("d", d.d); gebiete[code] = p;
       p.setAttribute("class", "f-dep" + (besucht.has(code) ? " offen" : ""));
       const t = document.createElementNS(NS, "title"); t.textContent = `${d.nom} (${code}) · ${d.region}`; p.append(t);
       svg.append(p);
@@ -1117,11 +1118,19 @@
       const c = document.createElementNS(NS, "circle");
       c.setAttribute("cx", o.x); c.setAttribute("cy", o.y); c.setAttribute("r", "7"); g.append(c);
       const t = document.createElementNS(NS, "title"); t.textContent = o.name; g.append(t);
-      g.addEventListener("click", () => waehle(o));
-      g.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); waehle(o); } });
-      svg.append(g);
+      g.addEventListener("click", () => markiere(o));
+      g.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); markiere(o); } });
+      svg.append(g); punkte[o.id] = g;
     });
-    const liste = offen.map((o, i) => el("button", { class: "staat-chip" + (i % 2 ? " b" : ""), lang: D.lang, onclick: () => waehle(o) }, o.name));
+    // Gewählter Ort: sein Gebiet bekommt Rahmen und Farbe, der Punkt wird größer (Mr. Alex, 15.10.: Gebiete waren nicht zu unterscheiden)
+    function markiere(o) {
+      svg.querySelectorAll(".gewaehlt").forEach((x) => x.classList.remove("gewaehlt"));
+      if (gebiete[o.dep]) { gebiete[o.dep].classList.add("gewaehlt"); svg.append(gebiete[o.dep]); }   // nach vorn, damit der Rahmen ganz sichtbar ist
+      Object.values(punkte).forEach((g) => svg.append(g));   // Punkte bleiben über den Gebieten
+      punkte[o.id].classList.add("gewaehlt");
+      waehle(o);
+    }
+    const liste = offen.map((o, i) => el("button", { class: "staat-chip" + (i % 2 ? " b" : ""), lang: D.lang, onclick: () => markiere(o) }, o.name));
     return el("div", { class: "usa-block" }, el("div", { class: "france-rahmen" }, svg),
       el("p", { class: "staaten-zahl" }, `${frei} / ${SP.orte.length} ${KI.lieux} · ${new Set(offen.map((o) => o.dep)).size} ${KI.einheit}`),
       el("div", { class: "staaten-liste" }, liste),

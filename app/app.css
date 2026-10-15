@@ -90,15 +90,17 @@
 
 /* Frankreich-Karte: Départements, besuchte farbig; Orte als Punkte (Reise ab Metz) */
 .usa-block { display: grid; gap: 10px; }
-.france-rahmen { width: 100%; border-radius: 12px; background: #dfe8f5; padding: 6px; --zu: #e9edf3; --zu-rand: #ffffff; --auf: #c8d9f5; --auf-rand: #8fb0ff; --punkt: #c8102e; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .france-rahmen { background: #1b2540; --zu: #3a4560; --zu-rand: #1b2540; --auf: #2f4a85; --auf-rand: #7fa6ff; --punkt: #ff6b7a; } }
-:root[data-theme="dark"] .france-rahmen { background: #1b2540; --zu: #3a4560; --zu-rand: #1b2540; --auf: #2f4a85; --auf-rand: #7fa6ff; --punkt: #ff6b7a; }
+.france-rahmen { width: 100%; border-radius: 12px; background: #dfe8f5; padding: 6px; --zu: #e9edf3; --zu-rand: #ffffff; --auf: #c8d9f5; --auf-rand: #8fb0ff; --punkt: #c8102e; --gewaehlt: #ffe9a8; --gewaehlt-rand: #c8102e; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .france-rahmen { background: #1b2540; --zu: #3a4560; --zu-rand: #1b2540; --auf: #2f4a85; --auf-rand: #7fa6ff; --punkt: #ff6b7a; --gewaehlt: #6b5a1a; --gewaehlt-rand: #ffd23f; } }
+:root[data-theme="dark"] .france-rahmen { background: #1b2540; --zu: #3a4560; --zu-rand: #1b2540; --auf: #2f4a85; --auf-rand: #7fa6ff; --punkt: #ff6b7a; --gewaehlt: #6b5a1a; --gewaehlt-rand: #ffd23f; }
 .france { width: 100%; height: auto; display: block; max-height: 70vh; }
 .france .f-dep { fill: var(--zu); stroke: var(--zu-rand); stroke-width: 1; }
-.france .f-dep.offen { fill: var(--auf); stroke: var(--auf-rand); stroke-width: 1.2; }
+.france .f-dep.offen { fill: var(--auf); stroke: #ffffff; stroke-width: 1.6; }
+.france .f-dep.gewaehlt { fill: var(--gewaehlt); stroke: var(--gewaehlt-rand); stroke-width: 3; stroke-linejoin: round; }
 .france .f-ort circle { fill: var(--punkt); stroke: #fff; stroke-width: 2.5; cursor: pointer; }
 .france .f-ort:focus { outline: none; }
 .france .f-ort:focus circle, .france .f-ort:hover circle { stroke: var(--gelb); stroke-width: 3.5; }
+.france .f-ort.gewaehlt circle { r: 10; stroke: var(--gelb); stroke-width: 3.5; }
 .france .f-ort.neu circle { animation: neu-ort 1.2s ease-in-out 3; }
 @keyframes neu-ort { 50% { r: 12; fill: var(--gelb); } }
 .staaten-zahl { font-weight: 700; }
