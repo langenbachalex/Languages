@@ -620,7 +620,7 @@ window.SPRACHEN["es-de"] = {
    "register": "tu",
    "anker": "dar",
    "notiz": "wörtlich „Unterricht geben“ – dar clase (ohne Artikel) = unterrichten; dar una clase = eine Stunde halten.",
-   "audio": "audio/es-de/wendungen/pr_04.mp3?v=ce1bdade",
+   "audio": "audio/es-de/wendungen/pr_04.mp3?v=2ca6775f",
    "satz": {
     "fr": "Doy clase de inglés toda la mañana.",
     "de": "Ich unterrichte den ganzen Vormittag Englisch.",
@@ -8425,7 +8425,7 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/wendungen/pr_01.mp3?v=483a6302",
   "audio/es-de/wendungen/pr_02.mp3?v=2200b383",
   "audio/es-de/wendungen/pr_03.mp3?v=8dfb7417",
-  "audio/es-de/wendungen/pr_04.mp3?v=ce1bdade",
+  "audio/es-de/wendungen/pr_04.mp3?v=2ca6775f",
   "audio/es-de/wendungen/pr_05.mp3?v=bceec4f2",
   "audio/es-de/wendungen/pr_06.mp3?v=a6a4216b",
   "audio/es-de/wendungen/pr_07.mp3?v=2531cdf7",
