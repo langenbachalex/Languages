@@ -25,3 +25,5 @@ Status: ☐ offen · ◐ umgesetzt, noch nicht veröffentlicht · ☑ veröffent
 
 (leer)
 | ☑ | alle Sprachen | Lob nur gehört bzw. nur in der Zielsprache gelesen; Übersetzung fehlt | Übersetzungsspalte `de` in allen vier `lob.tsv` (fr/es/it → Deutsch, de → Französisch); in der Séance erscheint das Lob jetzt als Pop-up (Zielsprache groß, Übersetzung darunter, 3 s); auf Abschluss-Seiten, im Dialog und im Aussprache-Modul steht die Übersetzung unter dem Lob. Veröffentlicht 15.10. |
+| ☑ | fr | Nasale (Aussprache-Modul): Einzelwörter kippen ins Englische/Deutsche (« vin » wie „win“, « temps » als „tem“) | Ursache: nackte Einzelwörter ohne Satzkontext, 38 der 86 Wörter sind auch englische/deutsche Wörter. Lösung: jedes Wort wird im Trägersatz « Écoute bien : … » gesprochen, danach schneidet audio.py den Vorspann an der Pause ab (TRAEGERSATZ je Paket, Stimme „w“). Alle 86 Nasale neu, 15.10. |
+| ☑ | es | Geschichte Kap. 1, Absatz 4: « Entre » am Satzanfang als „ontre“ (französisch) | zwei Neuaufnahmen kippten ebenfalls; Vorlese-Schreibung « Éntre » (AUSSPRACHE_KORREKTUR), neu aufgenommen 15.10. |

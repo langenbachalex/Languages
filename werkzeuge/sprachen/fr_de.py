@@ -49,6 +49,8 @@ GESCHICHTE = {"titel": "Le secret du Louvre",
                            "Jede perfekte Woche schaltet ein Kapitel frei: Julien Lefèvre, Lehrer aus Metz, und das Geheimnis des Louvre."]}
 
 # Aussprache: les nasales – Laute (Schild, Schreibweisen, Tipp Ziel, Tipp Hilfe), Minimalpaar-Gruppen
+# Einzelwörter des Aussprache-Moduls werden in diesem Satz gesprochen und danach geschnitten (audio.py)
+TRAEGERSATZ = "Écoute bien : {wort}."
 AUSSPRACHE = {
     "id": "nasale", "symbol": "👃", "titel": "Les nasales",
     "unter": "[ɑ̃] en · [ɔ̃] on · [ɛ̃] in · [œ̃] un – écouter, distinguer, les deux dans un mot",

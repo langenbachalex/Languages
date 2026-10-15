@@ -35,7 +35,7 @@ def auftraege(P):
     for z in bauen.tsv(inhalte, "dialoge.tsv"):
         liste.append((f"audio/{paar}/dialoge/{z['id']}.mp3", s(z["fr"]), "a" if z["rolle"] == "A" else "b"))
     for z in (bauen.tsv(inhalte, P.AUSSPRACHE["datei"]) if P.AUSSPRACHE else []):
-        liste.append((f"audio/{paar}/{P.AUSSPRACHE['id']}/{z['id']}.mp3", s(bauen.rein(z["wort"])), "a"))
+        liste.append((f"audio/{paar}/{P.AUSSPRACHE['id']}/{z['id']}.mp3", s(bauen.rein(z["wort"])), "w"))
     for z in bauen.tsv(inhalte, "geschichte.tsv"):
         liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), "a"))
     for z in bauen.tsv(inhalte, "orte.tsv"):
@@ -50,10 +50,33 @@ def auftraege(P):
     return liste
 
 
+def vorspann_schneiden(pfad):
+    """Trägersatz entfernen: Schnitt an der letzten Pause vor dem Wort (ffmpeg silencedetect). Gibt die Schnittstelle zurück."""
+    import re, shutil, subprocess
+    if not shutil.which("ffmpeg"):
+        raise RuntimeError("ffmpeg fehlt – Einzelwörter brauchen den Schnitt")
+    out = subprocess.run(["ffmpeg", "-i", pfad, "-af", "silencedetect=noise=-35dB:d=0.12", "-f", "null", "-"], capture_output=True, text=True).stderr
+    m = re.search(r"Duration: (\d+):(\d+):([\d.]+)", out)
+    dauer = 60 * float(m.group(2)) + float(m.group(3))
+    enden = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", out) if float(x) < dauer - 0.25]
+    if not enden or dauer - enden[-1] > 1.6:
+        raise RuntimeError(f"keine Pause vor dem Wort gefunden: {pfad} ({enden}, {dauer:.2f}s)")
+    ab = max(enden[-1] - 0.06, 0)
+    tmp = pfad + ".schnitt.mp3"
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", pfad, "-ss", f"{ab:.3f}", "-af", "afade=t=in:d=0.02", "-c:a", "libmp3lame", "-b:a", "128k", tmp], check=True)
+    os.replace(tmp, pfad)
+    return ab
+
+
 def erzeugen(P, pfad, text, stimme):
-    st = P.STIMME if stimme == "a" else P.STIMME_B
+    """stimme: „a“ Mr. Alex, „b“ Gesprächspartner, „w“ Einzelwort (Mr. Alex) – im Trägersatz gesprochen, danach geschnitten,
+    damit die Stimme bei nackten Wörtern nicht in eine andere Sprache kippt."""
+    st = P.STIMME_B if stimme == "b" else P.STIMME
     if not st:
         return None
+    wort = stimme == "w"
+    if wort:
+        text = getattr(P, "TRAEGERSATZ", "{wort}.").format(wort=text)
     body = {"text": text, "model_id": st["modell"], "voice_settings": st["einstellungen"]}
     if st.get("language_code"):
         body["language_code"] = st["language_code"]
@@ -65,6 +88,8 @@ def erzeugen(P, pfad, text, stimme):
     os.makedirs(os.path.dirname(ziel), exist_ok=True)
     with open(ziel, "wb") as f:
         f.write(daten)
+    if wort:
+        vorspann_schneiden(ziel)
     import lautstaerke
     lautstaerke.angleichen(ziel)   # gleiche Lautheit für alle Stimmen (−18 LUFS)
     return ziel
@@ -77,7 +102,7 @@ def main():
         if nur and P.PAAR not in nur:
             continue
         offen = [a for a in auftraege(P) if not os.path.exists(os.path.join(bauen.APP, a[0]))]
-        offen = [a for a in offen if a[2] == "a" or P.STIMME_B]
+        offen = [a for a in offen if a[2] != "b" or P.STIMME_B]
         print(P.PAAR + ":", len(offen), "Audios fehlen,", sum(len(a[1]) for a in offen), "Zeichen")
         if "--zaehlen" in sys.argv:
             continue

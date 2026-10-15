@@ -46,6 +46,8 @@ GESCHICHTE = {"titel": "El secreto del Alcázar",
                            "Jede perfekte Woche schaltet ein Kapitel frei: Marta Ruiz, Lehrerin in Sevilla, und das Geheimnis des Alcázar."]}
 
 # Aussprache « Los sonidos difíciles » – Daten kommen später (sonidos.tsv vorerst leer)
+# Einzelwörter des Aussprache-Moduls werden in diesem Satz gesprochen und danach geschnitten (audio.py)
+TRAEGERSATZ = "Escucha bien: {wort}."
 AUSSPRACHE = {
     "id": "sonidos", "symbol": "👄", "titel": "La erre", "unter": "r [ɾ] o rr [r] – escuchar, distinguir, las dos en una palabra",
     "datei": "sonidos.tsv",
@@ -79,7 +81,8 @@ def karte_laden(inhalte):
 # Stimmen: Mr. Alex' Klon auf Spanisch (Hörproben 13.10. freigegeben, Dentale geprüft), Diego = „Carmelo – Mature, Mysterious and Clear“
 STIMME = {"id": "AK2WYGe96RmMwFKM5KEz", "modell": "eleven_v4", "language_code": "es", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 STIMME_B = {"id": "5egO01tkUjEzu7xSSE8M", "modell": "eleven_multilingual_v2", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
-AUSSPRACHE_KORREKTUR = {}
+# Vorlese-Schreibung (ganze Wörter): « Entre » am Satzanfang kippte ins Französische („ontre“)
+AUSSPRACHE_KORREKTUR = {"Entre": "Éntre"}
 # Vorlese-Fassung einzelner Wendungen (nur die Wendung allein, nicht in Sätzen): die Stimme las sie sonst englisch (Mr. Alex, 15.10.: Variante mit ¡…! überzeugt)
 WENDUNG_KORREKTUR = {"dar clase": "¡Dar clase!"}
 

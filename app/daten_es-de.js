@@ -5723,7 +5723,7 @@ window.SPRACHEN["es-de"] = {
      "id": "k01_04",
      "fr": "Entre la página dos y la página tres había algo. Una entrada. Una entrada para el Real Alcázar.",
      "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Eintrittskarte. Eine Karte für den Real Alcázar.",
-     "audio": "audio/es-de/geschichte/k01_04.mp3?v=881e3d1d"
+     "audio": "audio/es-de/geschichte/k01_04.mp3?v=741196bb"
     },
     {
      "id": "k01_05",
@@ -7700,7 +7700,7 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/geschichte/k01_01.mp3?v=32530d77",
   "audio/es-de/geschichte/k01_02.mp3?v=05f9a891",
   "audio/es-de/geschichte/k01_03.mp3?v=d61b4c95",
-  "audio/es-de/geschichte/k01_04.mp3?v=881e3d1d",
+  "audio/es-de/geschichte/k01_04.mp3?v=741196bb",
   "audio/es-de/geschichte/k01_05.mp3?v=7bcee0a0",
   "audio/es-de/geschichte/k01_06.mp3?v=b4840396",
   "audio/es-de/geschichte/k01_07.mp3?v=f31a0327",

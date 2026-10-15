@@ -48,6 +48,8 @@ GESCHICHTE = {"titel": "Das Geheimnis der Völklinger Hütte",
                            "Jede perfekte Woche schaltet ein Kapitel frei: Lena Becker, Lehrerin in Saarbrücken, und das Geheimnis der Völklinger Hütte."]}
 
 # Aussprache « Die schweren Laute » – für Französischsprachige: h, ich-Laut, ach-Laut, ei/ie, Vokallänge
+# Einzelwörter des Aussprache-Moduls werden in diesem Satz gesprochen und danach geschnitten (audio.py)
+TRAEGERSATZ = "Hör gut zu: {wort}."
 AUSSPRACHE = {
     "id": "laute", "symbol": "👄", "titel": "Die schweren Laute",
     "unter": "h · ich · ach · ei · ie – écouter, distinguer, plusieurs dans un mot",

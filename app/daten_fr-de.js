@@ -5305,56 +5305,56 @@ window.SPRACHEN["fr-de"] = {
      "wort": "enfant",
      "de": "Kind",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/an_01.mp3?v=fa9db448"
+     "audio": "audio/fr-de/nasale/an_01.mp3?v=dfea9ca7"
     },
     {
      "id": "an_02",
      "wort": "temps",
      "de": "Zeit, Wetter",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/an_02.mp3?v=8e306404"
+     "audio": "audio/fr-de/nasale/an_02.mp3?v=bfffe287"
     },
     {
      "id": "an_03",
      "wort": "vent",
      "de": "Wind",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/an_03.mp3?v=0fb9e517"
+     "audio": "audio/fr-de/nasale/an_03.mp3?v=70853ef1"
     },
     {
      "id": "an_04",
      "wort": "chanter",
      "de": "singen",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/an_04.mp3?v=39d12214"
+     "audio": "audio/fr-de/nasale/an_04.mp3?v=ef2969a3"
     },
     {
      "id": "an_05",
      "wort": "lentement",
      "de": "langsam",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/an_05.mp3?v=31052fee"
+     "audio": "audio/fr-de/nasale/an_05.mp3?v=d385df1a"
     },
     {
      "id": "an_06",
      "wort": "dans",
      "de": "in",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/an_06.mp3?v=f9a5e748"
+     "audio": "audio/fr-de/nasale/an_06.mp3?v=a4235b3c"
     },
     {
      "id": "an_07",
      "wort": "grand",
      "de": "groß",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/an_07.mp3?v=1ec64092"
+     "audio": "audio/fr-de/nasale/an_07.mp3?v=cd0841ad"
     },
     {
      "id": "an_08",
      "wort": "blanc",
      "de": "weiß",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/an_08.mp3?v=3b0b4cd8"
+     "audio": "audio/fr-de/nasale/an_08.mp3?v=8e51fe2a"
     }
    ],
    "on": [
@@ -5363,56 +5363,56 @@ window.SPRACHEN["fr-de"] = {
      "wort": "bon",
      "de": "gut",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/on_01.mp3?v=781c82fa"
+     "audio": "audio/fr-de/nasale/on_01.mp3?v=344cb4ab"
     },
     {
      "id": "on_02",
      "wort": "pont",
      "de": "Brücke",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/on_02.mp3?v=9af3a5e9"
+     "audio": "audio/fr-de/nasale/on_02.mp3?v=a11d5d24"
     },
     {
      "id": "on_03",
      "wort": "mon",
      "de": "mein",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/on_03.mp3?v=230bc313"
+     "audio": "audio/fr-de/nasale/on_03.mp3?v=c1a8476d"
     },
     {
      "id": "on_04",
      "wort": "chanson",
      "de": "Lied",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/on_04.mp3?v=d3c5eda6"
+     "audio": "audio/fr-de/nasale/on_04.mp3?v=e5cf4ed6"
     },
     {
      "id": "on_05",
      "wort": "maison",
      "de": "Haus",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/on_05.mp3?v=f80333aa"
+     "audio": "audio/fr-de/nasale/on_05.mp3?v=6a8a4f1b"
     },
     {
      "id": "on_06",
      "wort": "long",
      "de": "lang",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/on_06.mp3?v=218e3bb7"
+     "audio": "audio/fr-de/nasale/on_06.mp3?v=f0d0fff4"
     },
     {
      "id": "on_07",
      "wort": "nom",
      "de": "Name",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/on_07.mp3?v=f6075b6b"
+     "audio": "audio/fr-de/nasale/on_07.mp3?v=0f4b2e4a"
     },
     {
      "id": "on_08",
      "wort": "ronron",
      "de": "Schnurren",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/on_08.mp3?v=d898e562"
+     "audio": "audio/fr-de/nasale/on_08.mp3?v=ffa2fa8c"
     }
    ],
    "in": [
@@ -5421,56 +5421,56 @@ window.SPRACHEN["fr-de"] = {
      "wort": "vin",
      "de": "Wein",
      "klang": "in",
-     "audio": "audio/fr-de/nasale/in_01.mp3?v=62d7370d"
+     "audio": "audio/fr-de/nasale/in_01.mp3?v=52de69fa"
     },
     {
      "id": "in_02",
      "wort": "pain",
      "de": "Brot",
      "klang": "in",
-     "audio": "audio/fr-de/nasale/in_02.mp3?v=e00f3add"
+     "audio": "audio/fr-de/nasale/in_02.mp3?v=e85ec096"
     },
     {
      "id": "in_03",
      "wort": "main",
      "de": "Hand",
      "klang": "in",
-     "audio": "audio/fr-de/nasale/in_03.mp3?v=78ff83a7"
+     "audio": "audio/fr-de/nasale/in_03.mp3?v=cab2c45b"
     },
     {
      "id": "in_04",
      "wort": "matin",
      "de": "Morgen",
      "klang": "in",
-     "audio": "audio/fr-de/nasale/in_04.mp3?v=86f76dce"
+     "audio": "audio/fr-de/nasale/in_04.mp3?v=0225f0b6"
     },
     {
      "id": "in_05",
      "wort": "chemin",
      "de": "Weg",
      "klang": "in",
-     "audio": "audio/fr-de/nasale/in_05.mp3?v=cc1d58c0"
+     "audio": "audio/fr-de/nasale/in_05.mp3?v=8e4d933d"
     },
     {
      "id": "in_06",
      "wort": "bien",
      "de": "gut",
      "klang": "in",
-     "audio": "audio/fr-de/nasale/in_06.mp3?v=97472a09"
+     "audio": "audio/fr-de/nasale/in_06.mp3?v=d834c05f"
     },
     {
      "id": "in_07",
      "wort": "plein",
      "de": "voll",
      "klang": "in",
-     "audio": "audio/fr-de/nasale/in_07.mp3?v=d2eca354"
+     "audio": "audio/fr-de/nasale/in_07.mp3?v=8a2581c4"
     },
     {
      "id": "in_08",
      "wort": "train",
      "de": "Zug",
      "klang": "in",
-     "audio": "audio/fr-de/nasale/in_08.mp3?v=20d6d3cf"
+     "audio": "audio/fr-de/nasale/in_08.mp3?v=49c18fc4"
     }
    ],
    "un": [
@@ -5479,42 +5479,42 @@ window.SPRACHEN["fr-de"] = {
      "wort": "un",
      "de": "ein",
      "klang": "un",
-     "audio": "audio/fr-de/nasale/un_01.mp3?v=312a45fd"
+     "audio": "audio/fr-de/nasale/un_01.mp3?v=4fa8473e"
     },
     {
      "id": "un_02",
      "wort": "brun",
      "de": "braun",
      "klang": "un",
-     "audio": "audio/fr-de/nasale/un_02.mp3?v=187f85c9"
+     "audio": "audio/fr-de/nasale/un_02.mp3?v=8f99814d"
     },
     {
      "id": "un_03",
      "wort": "lundi",
      "de": "Montag",
      "klang": "un",
-     "audio": "audio/fr-de/nasale/un_03.mp3?v=f4ad381d"
+     "audio": "audio/fr-de/nasale/un_03.mp3?v=a6627b28"
     },
     {
      "id": "un_04",
      "wort": "parfum",
      "de": "Parfüm, Duft",
      "klang": "un",
-     "audio": "audio/fr-de/nasale/un_04.mp3?v=96a7f2b9"
+     "audio": "audio/fr-de/nasale/un_04.mp3?v=d7008703"
     },
     {
      "id": "un_05",
      "wort": "chacun",
      "de": "jeder",
      "klang": "un",
-     "audio": "audio/fr-de/nasale/un_05.mp3?v=ca505e0f"
+     "audio": "audio/fr-de/nasale/un_05.mp3?v=4bc4feb0"
     },
     {
      "id": "un_06",
      "wort": "quelqu'un",
      "de": "jemand",
      "klang": "un",
-     "audio": "audio/fr-de/nasale/un_06.mp3?v=34d2735d"
+     "audio": "audio/fr-de/nasale/un_06.mp3?v=950f0b7c"
     }
    ]
   },
@@ -5524,14 +5524,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "vent",
     "de": "Wind",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/p1_01a.mp3?v=732ed2e9",
+    "audio": "audio/fr-de/nasale/p1_01a.mp3?v=3a1c9fb9",
     "gruppe": "p1",
     "b": {
      "id": "p1_01b",
      "wort": "vont",
      "de": "(sie) gehen",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p1_01b.mp3?v=9d2c0a8e"
+     "audio": "audio/fr-de/nasale/p1_01b.mp3?v=e3b4cefc"
     }
    },
    {
@@ -5539,14 +5539,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "lent",
     "de": "langsam",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/p1_02a.mp3?v=761523de",
+    "audio": "audio/fr-de/nasale/p1_02a.mp3?v=50b83c4f",
     "gruppe": "p1",
     "b": {
      "id": "p1_02b",
      "wort": "long",
      "de": "lang",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p1_02b.mp3?v=647691ca"
+     "audio": "audio/fr-de/nasale/p1_02b.mp3?v=9cae7efd"
     }
    },
    {
@@ -5554,14 +5554,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "banc",
     "de": "Bank (zum Sitzen)",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/p1_03a.mp3?v=52be0932",
+    "audio": "audio/fr-de/nasale/p1_03a.mp3?v=28927acd",
     "gruppe": "p1",
     "b": {
      "id": "p1_03b",
      "wort": "bon",
      "de": "gut",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p1_03b.mp3?v=0584d1e0"
+     "audio": "audio/fr-de/nasale/p1_03b.mp3?v=34a8f5bf"
     }
    },
    {
@@ -5569,14 +5569,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "sans",
     "de": "ohne",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/p1_04a.mp3?v=ce97e3a0",
+    "audio": "audio/fr-de/nasale/p1_04a.mp3?v=7fcb965f",
     "gruppe": "p1",
     "b": {
      "id": "p1_04b",
      "wort": "son",
      "de": "sein, ihr",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p1_04b.mp3?v=abaef1c4"
+     "audio": "audio/fr-de/nasale/p1_04b.mp3?v=fefe1f17"
     }
    },
    {
@@ -5584,14 +5584,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "tant",
     "de": "so viel",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/p1_05a.mp3?v=36a88123",
+    "audio": "audio/fr-de/nasale/p1_05a.mp3?v=4cafb874",
     "gruppe": "p1",
     "b": {
      "id": "p1_05b",
      "wort": "ton",
      "de": "dein",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p1_05b.mp3?v=4b1ff25c"
+     "audio": "audio/fr-de/nasale/p1_05b.mp3?v=36e97aab"
     }
    },
    {
@@ -5599,14 +5599,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "dent",
     "de": "Zahn",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/p1_06a.mp3?v=e8e22e14",
+    "audio": "audio/fr-de/nasale/p1_06a.mp3?v=24a2637b",
     "gruppe": "p1",
     "b": {
      "id": "p1_06b",
      "wort": "don",
      "de": "Gabe, Spende",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p1_06b.mp3?v=a2f99821"
+     "audio": "audio/fr-de/nasale/p1_06b.mp3?v=90f13b32"
     }
    },
    {
@@ -5614,14 +5614,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "rang",
     "de": "Reihe, Rang",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/p1_07a.mp3?v=da24f91e",
+    "audio": "audio/fr-de/nasale/p1_07a.mp3?v=ad747cab",
     "gruppe": "p1",
     "b": {
      "id": "p1_07b",
      "wort": "rond",
      "de": "rund",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p1_07b.mp3?v=684a7e9d"
+     "audio": "audio/fr-de/nasale/p1_07b.mp3?v=74e91ae8"
     }
    },
    {
@@ -5629,14 +5629,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "blanc",
     "de": "weiß",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/p1_08a.mp3?v=4d91b778",
+    "audio": "audio/fr-de/nasale/p1_08a.mp3?v=dacf8fa7",
     "gruppe": "p1",
     "b": {
      "id": "p1_08b",
      "wort": "blond",
      "de": "blond",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p1_08b.mp3?v=11b07b53"
+     "audio": "audio/fr-de/nasale/p1_08b.mp3?v=1fd4914f"
     }
    },
    {
@@ -5644,14 +5644,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "pain",
     "de": "Brot",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p2_01a.mp3?v=22622f52",
+    "audio": "audio/fr-de/nasale/p2_01a.mp3?v=1d7a2336",
     "gruppe": "p2",
     "b": {
      "id": "p2_01b",
      "wort": "pan",
      "de": "Seite, Zipfel",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/p2_01b.mp3?v=c84d16c8"
+     "audio": "audio/fr-de/nasale/p2_01b.mp3?v=6af84bbd"
     }
    },
    {
@@ -5659,14 +5659,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "vin",
     "de": "Wein",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p2_02a.mp3?v=45f27c62",
+    "audio": "audio/fr-de/nasale/p2_02a.mp3?v=4a1e91a6",
     "gruppe": "p2",
     "b": {
      "id": "p2_02b",
      "wort": "vent",
      "de": "Wind",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/p2_02b.mp3?v=107d00b4"
+     "audio": "audio/fr-de/nasale/p2_02b.mp3?v=9bf14ac3"
     }
    },
    {
@@ -5674,14 +5674,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "bain",
     "de": "Bad",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p2_03a.mp3?v=004131f7",
+    "audio": "audio/fr-de/nasale/p2_03a.mp3?v=02d7bca1",
     "gruppe": "p2",
     "b": {
      "id": "p2_03b",
      "wort": "banc",
      "de": "Bank",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/p2_03b.mp3?v=f2c4615b"
+     "audio": "audio/fr-de/nasale/p2_03b.mp3?v=9ffd48a0"
     }
    },
    {
@@ -5689,14 +5689,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "main",
     "de": "Hand",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p2_04a.mp3?v=ea3cb259",
+    "audio": "audio/fr-de/nasale/p2_04a.mp3?v=bef5524b",
     "gruppe": "p2",
     "b": {
      "id": "p2_04b",
      "wort": "ment",
      "de": "(er) lügt",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/p2_04b.mp3?v=5850eb13"
+     "audio": "audio/fr-de/nasale/p2_04b.mp3?v=bd56b23c"
     }
    },
    {
@@ -5704,14 +5704,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "fin",
     "de": "Ende",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p2_05a.mp3?v=de2bf05a",
+    "audio": "audio/fr-de/nasale/p2_05a.mp3?v=8a42da6a",
     "gruppe": "p2",
     "b": {
      "id": "p2_05b",
      "wort": "fend",
      "de": "(er) spaltet",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/p2_05b.mp3?v=146ca351"
+     "audio": "audio/fr-de/nasale/p2_05b.mp3?v=b2c8c791"
     }
    },
    {
@@ -5719,14 +5719,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "teint",
     "de": "Teint, Hautfarbe",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p2_06a.mp3?v=e3f94c11",
+    "audio": "audio/fr-de/nasale/p2_06a.mp3?v=b2fcdb60",
     "gruppe": "p2",
     "b": {
      "id": "p2_06b",
      "wort": "temps",
      "de": "Zeit",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/p2_06b.mp3?v=572a3e00"
+     "audio": "audio/fr-de/nasale/p2_06b.mp3?v=89dabc68"
     }
    },
    {
@@ -5734,14 +5734,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "lin",
     "de": "Leinen",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p2_07a.mp3?v=1f95ca2e",
+    "audio": "audio/fr-de/nasale/p2_07a.mp3?v=8fb086a3",
     "gruppe": "p2",
     "b": {
      "id": "p2_07b",
      "wort": "lent",
      "de": "langsam",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/p2_07b.mp3?v=7dc7d308"
+     "audio": "audio/fr-de/nasale/p2_07b.mp3?v=f82d4336"
     }
    },
    {
@@ -5749,14 +5749,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "sain",
     "de": "gesund",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p2_08a.mp3?v=25e4bacd",
+    "audio": "audio/fr-de/nasale/p2_08a.mp3?v=91b798a1",
     "gruppe": "p2",
     "b": {
      "id": "p2_08b",
      "wort": "sans",
      "de": "ohne",
      "klang": "an",
-     "audio": "audio/fr-de/nasale/p2_08b.mp3?v=3cf81121"
+     "audio": "audio/fr-de/nasale/p2_08b.mp3?v=80a22e9f"
     }
    },
    {
@@ -5764,14 +5764,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "bain",
     "de": "Bad",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p3_01a.mp3?v=75897c50",
+    "audio": "audio/fr-de/nasale/p3_01a.mp3?v=75345b72",
     "gruppe": "p3",
     "b": {
      "id": "p3_01b",
      "wort": "bon",
      "de": "gut",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p3_01b.mp3?v=d9ef2907"
+     "audio": "audio/fr-de/nasale/p3_01b.mp3?v=c302b422"
     }
    },
    {
@@ -5779,14 +5779,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "sain",
     "de": "gesund",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p3_02a.mp3?v=7330d16f",
+    "audio": "audio/fr-de/nasale/p3_02a.mp3?v=e1259d35",
     "gruppe": "p3",
     "b": {
      "id": "p3_02b",
      "wort": "son",
      "de": "sein, ihr",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p3_02b.mp3?v=3f87d7b6"
+     "audio": "audio/fr-de/nasale/p3_02b.mp3?v=1de5f0c1"
     }
    },
    {
@@ -5794,14 +5794,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "lin",
     "de": "Leinen",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p3_03a.mp3?v=34cdf1d6",
+    "audio": "audio/fr-de/nasale/p3_03a.mp3?v=0d088b00",
     "gruppe": "p3",
     "b": {
      "id": "p3_03b",
      "wort": "long",
      "de": "lang",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p3_03b.mp3?v=519fad12"
+     "audio": "audio/fr-de/nasale/p3_03b.mp3?v=6a5b0a80"
     }
    },
    {
@@ -5809,14 +5809,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "daim",
     "de": "Damhirsch, Wildleder",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p3_04a.mp3?v=6733b630",
+    "audio": "audio/fr-de/nasale/p3_04a.mp3?v=03ca85c9",
     "gruppe": "p3",
     "b": {
      "id": "p3_04b",
      "wort": "don",
      "de": "Gabe",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p3_04b.mp3?v=2f0bda2b"
+     "audio": "audio/fr-de/nasale/p3_04b.mp3?v=a7b18446"
     }
    },
    {
@@ -5824,14 +5824,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "brin",
     "de": "Halm",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p3_05a.mp3?v=c09b19fe",
+    "audio": "audio/fr-de/nasale/p3_05a.mp3?v=6eb1960e",
     "gruppe": "p3",
     "b": {
      "id": "p3_05b",
      "wort": "brun",
      "de": "braun",
      "klang": "un",
-     "audio": "audio/fr-de/nasale/p3_05b.mp3?v=a121614e"
+     "audio": "audio/fr-de/nasale/p3_05b.mp3?v=f15842fc"
     }
    },
    {
@@ -5839,14 +5839,14 @@ window.SPRACHEN["fr-de"] = {
     "wort": "pin",
     "de": "Kiefer",
     "klang": "in",
-    "audio": "audio/fr-de/nasale/p3_06a.mp3?v=0131a7ca",
+    "audio": "audio/fr-de/nasale/p3_06a.mp3?v=f4ea8a75",
     "gruppe": "p3",
     "b": {
      "id": "p3_06b",
      "wort": "pont",
      "de": "Brücke",
      "klang": "on",
-     "audio": "audio/fr-de/nasale/p3_06b.mp3?v=c3254d81"
+     "audio": "audio/fr-de/nasale/p3_06b.mp3?v=775b276b"
     }
    }
   ],
@@ -5856,7 +5856,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "commençons",
     "de": "wir fangen an",
     "klang": "an,on",
-    "audio": "audio/fr-de/nasale/b_01.mp3?v=cf1f9686",
+    "audio": "audio/fr-de/nasale/b_01.mp3?v=4920cafb",
     "markup": "comm{an|en}ç{on|on}s",
     "klaenge": [
      "an",
@@ -5868,7 +5868,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "montant",
     "de": "Betrag",
     "klang": "on,an",
-    "audio": "audio/fr-de/nasale/b_02.mp3?v=38e9d6a4",
+    "audio": "audio/fr-de/nasale/b_02.mp3?v=53b35a4b",
     "markup": "m{on|on}t{an|an}t",
     "klaenge": [
      "on",
@@ -5880,7 +5880,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "maintenant",
     "de": "jetzt",
     "klang": "in,an",
-    "audio": "audio/fr-de/nasale/b_03.mp3?v=c0ccb9c3",
+    "audio": "audio/fr-de/nasale/b_03.mp3?v=e448dd64",
     "markup": "m{in|ain}t{an|en}{an|an}t",
     "klaenge": [
      "in",
@@ -5892,7 +5892,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "pension",
     "de": "Pension, Rente",
     "klang": "an,on",
-    "audio": "audio/fr-de/nasale/b_04.mp3?v=653bff41",
+    "audio": "audio/fr-de/nasale/b_04.mp3?v=d8449842",
     "markup": "p{an|en}si{on|on}",
     "klaenge": [
      "an",
@@ -5904,7 +5904,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "bonbon",
     "de": "Bonbon",
     "klang": "on,on",
-    "audio": "audio/fr-de/nasale/b_05.mp3?v=730495d5",
+    "audio": "audio/fr-de/nasale/b_05.mp3?v=06f33bf2",
     "markup": "b{on|on}b{on|on}",
     "klaenge": [
      "on",
@@ -5916,7 +5916,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "mon enfant",
     "de": "mein Kind",
     "klang": "on,an",
-    "audio": "audio/fr-de/nasale/b_06.mp3?v=2cb42c57",
+    "audio": "audio/fr-de/nasale/b_06.mp3?v=e71010c5",
     "markup": "m{on|on} {an|en}f{an|an}t",
     "klaenge": [
      "on",
@@ -5928,7 +5928,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "en avion",
     "de": "im Flugzeug",
     "klang": "an,on",
-    "audio": "audio/fr-de/nasale/b_07.mp3?v=30d7eb16",
+    "audio": "audio/fr-de/nasale/b_07.mp3?v=2ccfb343",
     "markup": "{an|en} avi{on|on}",
     "klaenge": [
      "an",
@@ -5940,7 +5940,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "un bon vin blanc",
     "de": "ein guter Weißwein",
     "klang": "un,on,in,an",
-    "audio": "audio/fr-de/nasale/b_08.mp3?v=92e4a686",
+    "audio": "audio/fr-de/nasale/b_08.mp3?v=ca1cdf24",
     "markup": "{un|un} b{on|on} v{in|in} bl{an|an}c",
     "klaenge": [
      "un",
@@ -5954,7 +5954,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "attention",
     "de": "Achtung",
     "klang": "an,on",
-    "audio": "audio/fr-de/nasale/b_09.mp3?v=5fc46fc2",
+    "audio": "audio/fr-de/nasale/b_09.mp3?v=0e89ba74",
     "markup": "att{an|en}ti{on|on}",
     "klaenge": [
      "an",
@@ -5966,7 +5966,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "tant mieux",
     "de": "umso besser",
     "klang": "an",
-    "audio": "audio/fr-de/nasale/b_10.mp3?v=899c4037",
+    "audio": "audio/fr-de/nasale/b_10.mp3?v=78f17f59",
     "markup": "t{an|an}t mieux",
     "klaenge": [
      "an"
@@ -5977,7 +5977,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "lentement",
     "de": "langsam",
     "klang": "an,an",
-    "audio": "audio/fr-de/nasale/b_11.mp3?v=214710ac",
+    "audio": "audio/fr-de/nasale/b_11.mp3?v=d317c967",
     "markup": "l{an|en}tem{an|en}t",
     "klaenge": [
      "an",
@@ -5989,7 +5989,7 @@ window.SPRACHEN["fr-de"] = {
     "wort": "invitation",
     "de": "Einladung",
     "klang": "in,on",
-    "audio": "audio/fr-de/nasale/b_12.mp3?v=f071f147",
+    "audio": "audio/fr-de/nasale/b_12.mp3?v=b7713773",
     "markup": "{in|in}vitati{on|on}",
     "klaenge": [
      "in",
@@ -8346,92 +8346,92 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/lob/stark_superbe.mp3?v=fbce243a",
   "audio/fr-de/lob/stark_voles.mp3?v=d3f1e6ba",
   "audio/fr-de/lob/voll_sans_faute.mp3?v=4392f141",
-  "audio/fr-de/nasale/an_01.mp3?v=fa9db448",
-  "audio/fr-de/nasale/an_02.mp3?v=8e306404",
-  "audio/fr-de/nasale/an_03.mp3?v=0fb9e517",
-  "audio/fr-de/nasale/an_04.mp3?v=39d12214",
-  "audio/fr-de/nasale/an_05.mp3?v=31052fee",
-  "audio/fr-de/nasale/an_06.mp3?v=f9a5e748",
-  "audio/fr-de/nasale/an_07.mp3?v=1ec64092",
-  "audio/fr-de/nasale/an_08.mp3?v=3b0b4cd8",
-  "audio/fr-de/nasale/b_01.mp3?v=cf1f9686",
-  "audio/fr-de/nasale/b_02.mp3?v=38e9d6a4",
-  "audio/fr-de/nasale/b_03.mp3?v=c0ccb9c3",
-  "audio/fr-de/nasale/b_04.mp3?v=653bff41",
-  "audio/fr-de/nasale/b_05.mp3?v=730495d5",
-  "audio/fr-de/nasale/b_06.mp3?v=2cb42c57",
-  "audio/fr-de/nasale/b_07.mp3?v=30d7eb16",
-  "audio/fr-de/nasale/b_08.mp3?v=92e4a686",
-  "audio/fr-de/nasale/b_09.mp3?v=5fc46fc2",
-  "audio/fr-de/nasale/b_10.mp3?v=899c4037",
-  "audio/fr-de/nasale/b_11.mp3?v=214710ac",
-  "audio/fr-de/nasale/b_12.mp3?v=f071f147",
-  "audio/fr-de/nasale/in_01.mp3?v=62d7370d",
-  "audio/fr-de/nasale/in_02.mp3?v=e00f3add",
-  "audio/fr-de/nasale/in_03.mp3?v=78ff83a7",
-  "audio/fr-de/nasale/in_04.mp3?v=86f76dce",
-  "audio/fr-de/nasale/in_05.mp3?v=cc1d58c0",
-  "audio/fr-de/nasale/in_06.mp3?v=97472a09",
-  "audio/fr-de/nasale/in_07.mp3?v=d2eca354",
-  "audio/fr-de/nasale/in_08.mp3?v=20d6d3cf",
-  "audio/fr-de/nasale/on_01.mp3?v=781c82fa",
-  "audio/fr-de/nasale/on_02.mp3?v=9af3a5e9",
-  "audio/fr-de/nasale/on_03.mp3?v=230bc313",
-  "audio/fr-de/nasale/on_04.mp3?v=d3c5eda6",
-  "audio/fr-de/nasale/on_05.mp3?v=f80333aa",
-  "audio/fr-de/nasale/on_06.mp3?v=218e3bb7",
-  "audio/fr-de/nasale/on_07.mp3?v=f6075b6b",
-  "audio/fr-de/nasale/on_08.mp3?v=d898e562",
-  "audio/fr-de/nasale/p1_01a.mp3?v=732ed2e9",
-  "audio/fr-de/nasale/p1_01b.mp3?v=9d2c0a8e",
-  "audio/fr-de/nasale/p1_02a.mp3?v=761523de",
-  "audio/fr-de/nasale/p1_02b.mp3?v=647691ca",
-  "audio/fr-de/nasale/p1_03a.mp3?v=52be0932",
-  "audio/fr-de/nasale/p1_03b.mp3?v=0584d1e0",
-  "audio/fr-de/nasale/p1_04a.mp3?v=ce97e3a0",
-  "audio/fr-de/nasale/p1_04b.mp3?v=abaef1c4",
-  "audio/fr-de/nasale/p1_05a.mp3?v=36a88123",
-  "audio/fr-de/nasale/p1_05b.mp3?v=4b1ff25c",
-  "audio/fr-de/nasale/p1_06a.mp3?v=e8e22e14",
-  "audio/fr-de/nasale/p1_06b.mp3?v=a2f99821",
-  "audio/fr-de/nasale/p1_07a.mp3?v=da24f91e",
-  "audio/fr-de/nasale/p1_07b.mp3?v=684a7e9d",
-  "audio/fr-de/nasale/p1_08a.mp3?v=4d91b778",
-  "audio/fr-de/nasale/p1_08b.mp3?v=11b07b53",
-  "audio/fr-de/nasale/p2_01a.mp3?v=22622f52",
-  "audio/fr-de/nasale/p2_01b.mp3?v=c84d16c8",
-  "audio/fr-de/nasale/p2_02a.mp3?v=45f27c62",
-  "audio/fr-de/nasale/p2_02b.mp3?v=107d00b4",
-  "audio/fr-de/nasale/p2_03a.mp3?v=004131f7",
-  "audio/fr-de/nasale/p2_03b.mp3?v=f2c4615b",
-  "audio/fr-de/nasale/p2_04a.mp3?v=ea3cb259",
-  "audio/fr-de/nasale/p2_04b.mp3?v=5850eb13",
-  "audio/fr-de/nasale/p2_05a.mp3?v=de2bf05a",
-  "audio/fr-de/nasale/p2_05b.mp3?v=146ca351",
-  "audio/fr-de/nasale/p2_06a.mp3?v=e3f94c11",
-  "audio/fr-de/nasale/p2_06b.mp3?v=572a3e00",
-  "audio/fr-de/nasale/p2_07a.mp3?v=1f95ca2e",
-  "audio/fr-de/nasale/p2_07b.mp3?v=7dc7d308",
-  "audio/fr-de/nasale/p2_08a.mp3?v=25e4bacd",
-  "audio/fr-de/nasale/p2_08b.mp3?v=3cf81121",
-  "audio/fr-de/nasale/p3_01a.mp3?v=75897c50",
-  "audio/fr-de/nasale/p3_01b.mp3?v=d9ef2907",
-  "audio/fr-de/nasale/p3_02a.mp3?v=7330d16f",
-  "audio/fr-de/nasale/p3_02b.mp3?v=3f87d7b6",
-  "audio/fr-de/nasale/p3_03a.mp3?v=34cdf1d6",
-  "audio/fr-de/nasale/p3_03b.mp3?v=519fad12",
-  "audio/fr-de/nasale/p3_04a.mp3?v=6733b630",
-  "audio/fr-de/nasale/p3_04b.mp3?v=2f0bda2b",
-  "audio/fr-de/nasale/p3_05a.mp3?v=c09b19fe",
-  "audio/fr-de/nasale/p3_05b.mp3?v=a121614e",
-  "audio/fr-de/nasale/p3_06a.mp3?v=0131a7ca",
-  "audio/fr-de/nasale/p3_06b.mp3?v=c3254d81",
-  "audio/fr-de/nasale/un_01.mp3?v=312a45fd",
-  "audio/fr-de/nasale/un_02.mp3?v=187f85c9",
-  "audio/fr-de/nasale/un_03.mp3?v=f4ad381d",
-  "audio/fr-de/nasale/un_04.mp3?v=96a7f2b9",
-  "audio/fr-de/nasale/un_05.mp3?v=ca505e0f",
-  "audio/fr-de/nasale/un_06.mp3?v=34d2735d",
+  "audio/fr-de/nasale/an_01.mp3?v=dfea9ca7",
+  "audio/fr-de/nasale/an_02.mp3?v=bfffe287",
+  "audio/fr-de/nasale/an_03.mp3?v=70853ef1",
+  "audio/fr-de/nasale/an_04.mp3?v=ef2969a3",
+  "audio/fr-de/nasale/an_05.mp3?v=d385df1a",
+  "audio/fr-de/nasale/an_06.mp3?v=a4235b3c",
+  "audio/fr-de/nasale/an_07.mp3?v=cd0841ad",
+  "audio/fr-de/nasale/an_08.mp3?v=8e51fe2a",
+  "audio/fr-de/nasale/b_01.mp3?v=4920cafb",
+  "audio/fr-de/nasale/b_02.mp3?v=53b35a4b",
+  "audio/fr-de/nasale/b_03.mp3?v=e448dd64",
+  "audio/fr-de/nasale/b_04.mp3?v=d8449842",
+  "audio/fr-de/nasale/b_05.mp3?v=06f33bf2",
+  "audio/fr-de/nasale/b_06.mp3?v=e71010c5",
+  "audio/fr-de/nasale/b_07.mp3?v=2ccfb343",
+  "audio/fr-de/nasale/b_08.mp3?v=ca1cdf24",
+  "audio/fr-de/nasale/b_09.mp3?v=0e89ba74",
+  "audio/fr-de/nasale/b_10.mp3?v=78f17f59",
+  "audio/fr-de/nasale/b_11.mp3?v=d317c967",
+  "audio/fr-de/nasale/b_12.mp3?v=b7713773",
+  "audio/fr-de/nasale/in_01.mp3?v=52de69fa",
+  "audio/fr-de/nasale/in_02.mp3?v=e85ec096",
+  "audio/fr-de/nasale/in_03.mp3?v=cab2c45b",
+  "audio/fr-de/nasale/in_04.mp3?v=0225f0b6",
+  "audio/fr-de/nasale/in_05.mp3?v=8e4d933d",
+  "audio/fr-de/nasale/in_06.mp3?v=d834c05f",
+  "audio/fr-de/nasale/in_07.mp3?v=8a2581c4",
+  "audio/fr-de/nasale/in_08.mp3?v=49c18fc4",
+  "audio/fr-de/nasale/on_01.mp3?v=344cb4ab",
+  "audio/fr-de/nasale/on_02.mp3?v=a11d5d24",
+  "audio/fr-de/nasale/on_03.mp3?v=c1a8476d",
+  "audio/fr-de/nasale/on_04.mp3?v=e5cf4ed6",
+  "audio/fr-de/nasale/on_05.mp3?v=6a8a4f1b",
+  "audio/fr-de/nasale/on_06.mp3?v=f0d0fff4",
+  "audio/fr-de/nasale/on_07.mp3?v=0f4b2e4a",
+  "audio/fr-de/nasale/on_08.mp3?v=ffa2fa8c",
+  "audio/fr-de/nasale/p1_01a.mp3?v=3a1c9fb9",
+  "audio/fr-de/nasale/p1_01b.mp3?v=e3b4cefc",
+  "audio/fr-de/nasale/p1_02a.mp3?v=50b83c4f",
+  "audio/fr-de/nasale/p1_02b.mp3?v=9cae7efd",
+  "audio/fr-de/nasale/p1_03a.mp3?v=28927acd",
+  "audio/fr-de/nasale/p1_03b.mp3?v=34a8f5bf",
+  "audio/fr-de/nasale/p1_04a.mp3?v=7fcb965f",
+  "audio/fr-de/nasale/p1_04b.mp3?v=fefe1f17",
+  "audio/fr-de/nasale/p1_05a.mp3?v=4cafb874",
+  "audio/fr-de/nasale/p1_05b.mp3?v=36e97aab",
+  "audio/fr-de/nasale/p1_06a.mp3?v=24a2637b",
+  "audio/fr-de/nasale/p1_06b.mp3?v=90f13b32",
+  "audio/fr-de/nasale/p1_07a.mp3?v=ad747cab",
+  "audio/fr-de/nasale/p1_07b.mp3?v=74e91ae8",
+  "audio/fr-de/nasale/p1_08a.mp3?v=dacf8fa7",
+  "audio/fr-de/nasale/p1_08b.mp3?v=1fd4914f",
+  "audio/fr-de/nasale/p2_01a.mp3?v=1d7a2336",
+  "audio/fr-de/nasale/p2_01b.mp3?v=6af84bbd",
+  "audio/fr-de/nasale/p2_02a.mp3?v=4a1e91a6",
+  "audio/fr-de/nasale/p2_02b.mp3?v=9bf14ac3",
+  "audio/fr-de/nasale/p2_03a.mp3?v=02d7bca1",
+  "audio/fr-de/nasale/p2_03b.mp3?v=9ffd48a0",
+  "audio/fr-de/nasale/p2_04a.mp3?v=bef5524b",
+  "audio/fr-de/nasale/p2_04b.mp3?v=bd56b23c",
+  "audio/fr-de/nasale/p2_05a.mp3?v=8a42da6a",
+  "audio/fr-de/nasale/p2_05b.mp3?v=b2c8c791",
+  "audio/fr-de/nasale/p2_06a.mp3?v=b2fcdb60",
+  "audio/fr-de/nasale/p2_06b.mp3?v=89dabc68",
+  "audio/fr-de/nasale/p2_07a.mp3?v=8fb086a3",
+  "audio/fr-de/nasale/p2_07b.mp3?v=f82d4336",
+  "audio/fr-de/nasale/p2_08a.mp3?v=91b798a1",
+  "audio/fr-de/nasale/p2_08b.mp3?v=80a22e9f",
+  "audio/fr-de/nasale/p3_01a.mp3?v=75345b72",
+  "audio/fr-de/nasale/p3_01b.mp3?v=c302b422",
+  "audio/fr-de/nasale/p3_02a.mp3?v=e1259d35",
+  "audio/fr-de/nasale/p3_02b.mp3?v=1de5f0c1",
+  "audio/fr-de/nasale/p3_03a.mp3?v=0d088b00",
+  "audio/fr-de/nasale/p3_03b.mp3?v=6a5b0a80",
+  "audio/fr-de/nasale/p3_04a.mp3?v=03ca85c9",
+  "audio/fr-de/nasale/p3_04b.mp3?v=a7b18446",
+  "audio/fr-de/nasale/p3_05a.mp3?v=6eb1960e",
+  "audio/fr-de/nasale/p3_05b.mp3?v=f15842fc",
+  "audio/fr-de/nasale/p3_06a.mp3?v=f4ea8a75",
+  "audio/fr-de/nasale/p3_06b.mp3?v=775b276b",
+  "audio/fr-de/nasale/un_01.mp3?v=4fa8473e",
+  "audio/fr-de/nasale/un_02.mp3?v=8f99814d",
+  "audio/fr-de/nasale/un_03.mp3?v=a6627b28",
+  "audio/fr-de/nasale/un_04.mp3?v=d7008703",
+  "audio/fr-de/nasale/un_05.mp3?v=4bc4feb0",
+  "audio/fr-de/nasale/un_06.mp3?v=950f0b7c",
   "audio/fr-de/orte/ajaccio.mp3?v=383180e1",
   "audio/fr-de/orte/amiens.mp3?v=66f1ec48",
   "audio/fr-de/orte/annecy.mp3?v=d9a678fb",
