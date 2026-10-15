@@ -10,8 +10,13 @@ import bauen
 
 
 def sprechtext(P, t):
+    """Schreibweise nur fürs Vorlesen anpassen (ganze Wörter, Groß-/Kleinschreibung bleibt beim Ersatz wie angegeben)."""
+    import re
     for a, b in P.AUSSPRACHE_KORREKTUR.items():
-        t = t.replace(a, b)
+        if a.isalnum() or " " in a:
+            t = re.sub(rf"(?<![\w'’]){re.escape(a)}(?![\w'’])", b, t)
+        else:
+            t = t.replace(a, b)
     return t
 
 
@@ -30,7 +35,7 @@ def auftraege(P):
     for z in bauen.tsv(inhalte, "dialoge.tsv"):
         liste.append((f"audio/{paar}/dialoge/{z['id']}.mp3", s(z["fr"]), "a" if z["rolle"] == "A" else "b"))
     for z in (bauen.tsv(inhalte, P.AUSSPRACHE["datei"]) if P.AUSSPRACHE else []):
-        liste.append((f"audio/{paar}/{P.AUSSPRACHE['id']}/{z['id']}.mp3", bauen.rein(z["wort"]), "a"))
+        liste.append((f"audio/{paar}/{P.AUSSPRACHE['id']}/{z['id']}.mp3", s(bauen.rein(z["wort"])), "a"))
     for z in bauen.tsv(inhalte, "geschichte.tsv"):
         liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), "a"))
     for z in bauen.tsv(inhalte, "orte.tsv"):

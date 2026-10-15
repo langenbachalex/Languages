@@ -37,7 +37,12 @@ def audio_pruefer(paar):
     """Pfad relativ zu app/, nur wenn die Datei existiert (sonst Sprachausgabe des Geräts)."""
     def audio(rel):
         pfad = f"audio/{paar}/{rel}"
-        return pfad if os.path.exists(os.path.join(APP, pfad)) else None
+        voll = os.path.join(APP, pfad)
+        if not os.path.exists(voll):
+            return None
+        with open(voll, "rb") as f:
+            pruef = hashlib.md5(f.read()).hexdigest()[:8]
+        return f"{pfad}?v={pruef}"   # ersetzte Datei = neue Adresse = der Browser lädt sie neu (sw.js vergleicht Audio mit Suchteil)
     return audio
 
 
@@ -220,7 +225,7 @@ self.addEventListener("activate", (e) => {{
 self.addEventListener("fetch", (e) => {{
   if (e.request.method !== "GET") return;
   const istAudio = e.request.url.includes("/audio/");
-  e.respondWith(caches.match(e.request, {{ ignoreSearch: true }}).then((r) => r || fetch(e.request).then((antwort) => {{
+  e.respondWith(caches.match(e.request, {{ ignoreSearch: !istAudio }}).then((r) => r || fetch(e.request).then((antwort) => {{
     if (istAudio && antwort.ok) {{ const kopie = antwort.clone(); caches.open(AUDIO).then((c) => c.put(e.request, kopie)); }}
     return antwort;
   }})));

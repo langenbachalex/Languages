@@ -551,21 +551,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "correggere",
    "notiz": "i compiti = Hausaufgaben und Klassenarbeiten (il compito in classe); la prima = 1. Klasse der scuola media (= 6. Klasse). correggere, Partizip corretto.",
-   "audio": "audio/it-de/wendungen/tc_01.mp3",
+   "audio": "audio/it-de/wendungen/tc_01.mp3?v=3c092bb7",
    "satz": {
     "fr": "Stasera correggo i compiti della prima.",
     "de": "Heute Abend korrigiere ich die Arbeiten der Sechsten.",
     "luecke": "correggo i compiti",
-    "audio": "audio/it-de/saetze/tc_01.mp3"
+    "audio": "audio/it-de/saetze/tc_01.mp3?v=f9aa45f1"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri ho corretto i compiti della prima.",
-     "audio": "audio/it-de/saetze/tc_01_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_01_pc.mp3?v=dfb85184"
     },
     "fp": {
      "fr": "Domani correggerò i compiti della prima.",
-     "audio": "audio/it-de/saetze/tc_01_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_01_fp.mp3?v=38f9f8ea"
     }
    }
   },
@@ -577,21 +577,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "wörtlich „zerstört sein“ (distruggere); auch: essere a pezzi (in Stücken), essere cotto (gekocht). Weiblich: distrutta.",
-   "audio": "audio/it-de/wendungen/tc_02.mp3",
+   "audio": "audio/it-de/wendungen/tc_02.mp3?v=a928458a",
    "satz": {
     "fr": "Dopo sei ore di lezione sono distrutto.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "distrutto",
-    "audio": "audio/it-de/saetze/tc_02.mp3"
+    "audio": "audio/it-de/saetze/tc_02.mp3?v=a45d69ae"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri sera ero distrutto.",
-     "audio": "audio/it-de/saetze/tc_02_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_02_pc.mp3?v=b63cc1ce"
     },
     "fp": {
      "fr": "Domani sera sarò distrutto. Di nuovo.",
-     "audio": "audio/it-de/saetze/tc_02_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_02_fp.mp3?v=ba142014"
     }
    }
   },
@@ -603,21 +603,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "andare",
    "notiz": "wörtlich „wie ist es gegangen?“ – andare im passato prossimo mit essere: è andata (weiblich, weil „la cosa“). Antwort: è andata bene / male.",
-   "audio": "audio/it-de/wendungen/tc_03.mp3",
+   "audio": "audio/it-de/wendungen/tc_03.mp3?v=cad44ea5",
    "satz": {
     "fr": "Allora, la lezione con la terza, com'è andata?",
     "de": "Und, die Stunde mit der Dritten, wie ist es gelaufen?",
     "luecke": "com'è andata",
-    "audio": "audio/it-de/saetze/tc_03.mp3"
+    "audio": "audio/it-de/saetze/tc_03.mp3?v=d3e108ea"
    },
    "zeit": {
     "pc": {
      "fr": "Com'è andata ieri?",
-     "audio": "audio/it-de/saetze/tc_03_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_03_pc.mp3?v=eb8d3d4b"
     },
     "fp": {
      "fr": "Vedrai come andrà.",
-     "audio": "audio/it-de/saetze/tc_03_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_03_fp.mp3?v=65deb236"
     }
    }
   },
@@ -629,21 +629,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "ohne Artikel = unterrichten; la lezione = die Unterrichtsstunde (nicht „Lektion“ im Buch – das wäre l'unità). fare lezione di + Fach.",
-   "audio": "audio/it-de/wendungen/tc_04.mp3",
+   "audio": "audio/it-de/wendungen/tc_04.mp3?v=0c143200",
    "satz": {
     "fr": "Faccio lezione di inglese tutta la mattina.",
     "de": "Ich halte den ganzen Vormittag Englischunterricht.",
     "luecke": "Faccio lezione",
-    "audio": "audio/it-de/saetze/tc_04.mp3"
+    "audio": "audio/it-de/saetze/tc_04.mp3?v=e16dd575"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto lezione tutta la mattina.",
-     "audio": "audio/it-de/saetze/tc_04_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_04_pc.mp3?v=7bfd3f60"
     },
     "fp": {
      "fr": "Farò lezione tutta la mattina.",
-     "audio": "audio/it-de/saetze/tc_04_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_04_fp.mp3?v=590bb3e9"
     }
    }
   },
@@ -655,12 +655,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "vedersi",
    "notiz": "l'intervallo = die große Pause (auch la ricreazione); ci vediamo = wir sehen uns (reflexiv, reziprok). a + l' = all'.",
-   "audio": "audio/it-de/wendungen/tc_05.mp3",
+   "audio": "audio/it-de/wendungen/tc_05.mp3?v=3c2139e1",
    "satz": {
     "fr": "Ci vediamo in sala professori all'intervallo?",
     "de": "Sehen wir uns in der Pause im Lehrerzimmer?",
     "luecke": "intervallo",
-    "audio": "audio/it-de/saetze/tc_05.mp3"
+    "audio": "audio/it-de/saetze/tc_05.mp3?v=66360348"
    },
    "zeit": null
   },
@@ -672,21 +672,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "vedere",
    "notiz": "wörtlich „die Stunde nicht sehen“ – die Stunde kommt einem nie; non vedere l'ora di + Infinitiv / che + congiuntivo.",
-   "audio": "audio/it-de/wendungen/tc_06.mp3",
+   "audio": "audio/it-de/wendungen/tc_06.mp3?v=a83556d8",
    "satz": {
     "fr": "Non vedo l'ora di essere in vacanza.",
     "de": "Ich kann es kaum erwarten, Ferien zu haben.",
     "luecke": "Non vedo l'ora di",
-    "audio": "audio/it-de/saetze/tc_06.mp3"
+    "audio": "audio/it-de/saetze/tc_06.mp3?v=cec5cd10"
    },
    "zeit": {
     "pc": {
      "fr": "Non vedevo l'ora di essere in vacanza.",
-     "audio": "audio/it-de/saetze/tc_06_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_06_pc.mp3?v=ffc4b344"
     },
     "fp": {
      "fr": "Non vedrò l'ora di tornare. Forse.",
-     "audio": "audio/it-de/saetze/tc_06_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_06_fp.mp3?v=5f8e22e6"
     }
    }
   },
@@ -698,21 +698,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "potere",
    "notiz": "wörtlich „nicht mehr davon können“ – ne = davon; non ne posso più di + Nomen. Auch: essere stufo di.",
-   "audio": "audio/it-de/wendungen/tc_07.mp3",
+   "audio": "audio/it-de/wendungen/tc_07.mp3?v=6182d1d2",
    "satz": {
     "fr": "Non ne posso più delle riunioni che non finiscono mai.",
     "de": "Ich habe die Nase voll von Besprechungen, die nie enden.",
     "luecke": "Non ne posso più",
-    "audio": "audio/it-de/saetze/tc_07.mp3"
+    "audio": "audio/it-de/saetze/tc_07.mp3?v=4be2482d"
    },
    "zeit": {
     "pc": {
      "fr": "Non ne potevo più.",
-     "audio": "audio/it-de/saetze/tc_07_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_07_pc.mp3?v=558c8793"
     },
     "fp": {
      "fr": "Non ne potrò più, lo so già.",
-     "audio": "audio/it-de/saetze/tc_07_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_07_fp.mp3?v=a9884723"
     }
    }
   },
@@ -724,21 +724,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "wörtlich „Mühe machen zu“ (la fatica = Mühe, Anstrengung); fare fatica a + Infinitiv. far stare zitto = zum Schweigen bringen (zitto = still).",
-   "audio": "audio/it-de/wendungen/tc_08.mp3",
+   "audio": "audio/it-de/wendungen/tc_08.mp3?v=c0d162e4",
    "satz": {
     "fr": "Faccio fatica a farli stare zitti il venerdì pomeriggio.",
     "de": "Ich kriege sie freitagnachmittags kaum ruhig.",
     "luecke": "Faccio fatica a",
-    "audio": "audio/it-de/saetze/tc_08.mp3"
+    "audio": "audio/it-de/saetze/tc_08.mp3?v=3b141471"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto fatica a farli stare zitti.",
-     "audio": "audio/it-de/saetze/tc_08_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_08_pc.mp3?v=e9af8683"
     },
     "fp": {
      "fr": "Farò fatica a farli stare zitti.",
-     "audio": "audio/it-de/saetze/tc_08_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_08_fp.mp3?v=566f355d"
     }
    }
   },
@@ -750,12 +750,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "wörtlich „wie viel Zeit!“ – Kurzform von quanto tempo che non ci vediamo; auch: da quanto tempo!",
-   "audio": "audio/it-de/wendungen/tc_09.mp3",
+   "audio": "audio/it-de/wendungen/tc_09.mp3?v=f953b1fe",
    "satz": {
     "fr": "Ciao Giovanni! Quanto tempo!",
     "de": "Hallo Giovanni! Lange nicht gesehen!",
     "luecke": "Quanto tempo",
-    "audio": "audio/it-de/saetze/tc_09.mp3"
+    "audio": "audio/it-de/saetze/tc_09.mp3?v=6c87c5e3"
    },
    "zeit": null
   },
@@ -767,12 +767,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendere",
    "notiz": "quindi = also, folglich (neutral, überall einsetzbar); umgangssprachlicher: allora. prendo io = ich übernehme (io nachgestellt = Betonung).",
-   "audio": "audio/it-de/wendungen/tc_10.mp3",
+   "audio": "audio/it-de/wendungen/tc_10.mp3?v=03eedf0c",
    "satz": {
     "fr": "Il prof di ginnastica è malato, quindi prendo io la sua classe.",
     "de": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "luecke": "quindi",
-    "audio": "audio/it-de/saetze/tc_10.mp3"
+    "audio": "audio/it-de/saetze/tc_10.mp3?v=5e824bc4"
    },
    "zeit": null
   },
@@ -784,12 +784,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "piacere",
    "notiz": "leitet eine Korrektur ein; mi piacciono = sie gefallen mir (piacere wie gustar: Subjekt = die Schüler, daher Plural). la terza media = 8. Klasse.",
-   "audio": "audio/it-de/wendungen/tc_11.mp3",
+   "audio": "audio/it-de/wendungen/tc_11.mp3?v=d0015d5c",
    "satz": {
     "fr": "In realtà i miei alunni di terza mi piacciono.",
     "de": "Eigentlich mag ich meine Schüler der Dritten.",
     "luecke": "In realtà",
-    "audio": "audio/it-de/saetze/tc_11.mp3"
+    "audio": "audio/it-de/saetze/tc_11.mp3?v=661b72c0"
    },
    "zeit": null
   },
@@ -801,12 +801,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "adorare",
    "notiz": "comunque = wie auch immer, jedenfalls, trotzdem – Allzweckwort, auch als Gesprächsstarter („Comunque…“). faticoso = anstrengend (la fatica).",
-   "audio": "audio/it-de/wendungen/tc_12.mp3",
+   "audio": "audio/it-de/wendungen/tc_12.mp3?v=07650daf",
    "satz": {
     "fr": "È faticoso, ma comunque adoro questo lavoro.",
     "de": "Es ist anstrengend, aber trotzdem liebe ich diesen Beruf.",
     "luecke": "comunque",
-    "audio": "audio/it-de/saetze/tc_12.mp3"
+    "audio": "audio/it-de/saetze/tc_12.mp3?v=020cfc9b"
    },
    "zeit": null
   },
@@ -818,21 +818,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "valere",
    "notiz": "wörtlich „die Mühe wert sein“ (la pena = Mühe, Strafe); ne = es (davon): ne vale la pena. Passato prossimo mit essere: è valsa.",
-   "audio": "audio/it-de/wendungen/tc_13.mp3",
+   "audio": "audio/it-de/wendungen/tc_13.mp3?v=caabbae8",
    "satz": {
     "fr": "Preparare una bella lezione richiede tempo, ma ne vale la pena.",
     "de": "Eine gute Stunde vorzubereiten braucht Zeit, aber es lohnt sich.",
     "luecke": "ne vale la pena",
-    "audio": "audio/it-de/saetze/tc_13.mp3"
+    "audio": "audio/it-de/saetze/tc_13.mp3?v=c3183554"
    },
    "zeit": {
     "pc": {
      "fr": "Ne è valsa la pena.",
-     "audio": "audio/it-de/saetze/tc_13_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_13_pc.mp3?v=a7e8d792"
     },
     "fp": {
      "fr": "Ne varrà la pena.",
-     "audio": "audio/it-de/saetze/tc_13_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_13_fp.mp3?v=9f01baa7"
     }
    }
   },
@@ -844,21 +844,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "arrangiarsi",
    "notiz": "italienische Lebensphilosophie: arrangiarsi = sich irgendwie durchschlagen, improvisieren; l'arte di arrangiarsi. da soli = allein, von selbst.",
-   "audio": "audio/it-de/wendungen/tc_14.mp3",
+   "audio": "audio/it-de/wendungen/tc_14.mp3?v=6a9c330b",
    "satz": {
     "fr": "Gli alunni si arrangiano bene da soli.",
     "de": "Die Schüler kommen allein gut zurecht.",
     "luecke": "si arrangiano",
-    "audio": "audio/it-de/saetze/tc_14.mp3"
+    "audio": "audio/it-de/saetze/tc_14.mp3?v=ff9cfad7"
    },
    "zeit": {
     "pc": {
      "fr": "Si sono arrangiati bene da soli.",
-     "audio": "audio/it-de/saetze/tc_14_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_14_pc.mp3?v=9646300f"
     },
     "fp": {
      "fr": "Si arrangeranno bene da soli.",
-     "audio": "audio/it-de/saetze/tc_14_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_14_fp.mp3?v=4561abfa"
     }
    }
   },
@@ -870,21 +870,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dare",
    "notiz": "wörtlich „das Maximum geben“; dare, Partizip dato. quelli di prima = die aus der Ersten (quelli = diejenigen).",
-   "audio": "audio/it-de/wendungen/tc_15.mp3",
+   "audio": "audio/it-de/wendungen/tc_15.mp3?v=40297f05",
    "satz": {
     "fr": "Oggi quelli di prima hanno dato il massimo.",
     "de": "Heute waren die Sechstklässler voll dabei.",
     "luecke": "hanno dato il massimo",
-    "audio": "audio/it-de/saetze/tc_15.mp3"
+    "audio": "audio/it-de/saetze/tc_15.mp3?v=4ecbe5d4"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri hanno dato il massimo.",
-     "audio": "audio/it-de/saetze/tc_15_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_15_pc.mp3?v=f76cf77b"
     },
     "fp": {
      "fr": "Domani daranno il massimo. Speriamo.",
-     "audio": "audio/it-de/saetze/tc_15_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_15_fp.mp3?v=0f586e73"
     }
    }
   },
@@ -896,21 +896,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "riconsegnare",
    "notiz": "consegnare = abgeben (Schüler), riconsegnare = zurückgeben (Lehrer); ri- = wieder, zurück. lunedì ohne Präposition = am Montag.",
-   "audio": "audio/it-de/wendungen/tc_16.mp3",
+   "audio": "audio/it-de/wendungen/tc_16.mp3?v=2df8fadf",
    "satz": {
     "fr": "Riconsegno i compiti lunedì.",
     "de": "Ich gebe die Arbeiten am Montag zurück.",
     "luecke": "Riconsegno i compiti",
-    "audio": "audio/it-de/saetze/tc_16.mp3"
+    "audio": "audio/it-de/saetze/tc_16.mp3?v=bd222d76"
    },
    "zeit": {
     "pc": {
      "fr": "Ho riconsegnato i compiti lunedì.",
-     "audio": "audio/it-de/saetze/tc_16_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_16_pc.mp3?v=94917aa0"
     },
     "fp": {
      "fr": "Riconsegnerò i compiti lunedì.",
-     "audio": "audio/it-de/saetze/tc_16_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_16_fp.mp3?v=621a9c3d"
     }
    }
   },
@@ -922,12 +922,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "la riunione = Sitzung, Konferenz (riunire = zusammenbringen); il collegio docenti = Gesamtkonferenz. vieni? = Frage nur durch Tonfall.",
-   "audio": "audio/it-de/wendungen/tc_17.mp3",
+   "audio": "audio/it-de/wendungen/tc_17.mp3?v=516cbc79",
    "satz": {
     "fr": "Abbiamo una riunione alle sedici, vieni?",
     "de": "Wir haben um sechzehn Uhr eine Besprechung, kommst du?",
     "luecke": "riunione",
-    "audio": "audio/it-de/saetze/tc_17.mp3"
+    "audio": "audio/it-de/saetze/tc_17.mp3?v=fc0a1c57"
    },
    "zeit": null
   },
@@ -939,12 +939,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "wörtlich „es macht nichts“ – wie im Deutschen, ohne non … non: niente genügt nach dem Verb mit non davor. Auch: non importa, figurati.",
-   "audio": "audio/it-de/wendungen/tc_18.mp3",
+   "audio": "audio/it-de/wendungen/tc_18.mp3?v=9d6dbbdc",
    "satz": {
     "fr": "Hai dimenticato il mio libro? Non fa niente.",
     "de": "Du hast mein Buch vergessen? Das macht nichts.",
     "luecke": "Non fa niente",
-    "audio": "audio/it-de/saetze/tc_18.mp3"
+    "audio": "audio/it-de/saetze/tc_18.mp3?v=79394a05"
    },
    "zeit": null
   },
@@ -956,12 +956,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendersi",
    "notiz": "Imperativ + Pronomen angehängt: prendi + ti = prenditi (nimm dir); con calma = in Ruhe. Gegenteil: sbrigati = beeil dich.",
-   "audio": "audio/it-de/wendungen/tc_19.mp3",
+   "audio": "audio/it-de/wendungen/tc_19.mp3?v=4c6b98de",
    "satz": {
     "fr": "Prenditi il tuo tempo, abbiamo tutta la sera.",
     "de": "Lass dir Zeit, wir haben den ganzen Abend.",
     "luecke": "Prenditi il tuo tempo",
-    "audio": "audio/it-de/saetze/tc_19.mp3"
+    "audio": "audio/it-de/saetze/tc_19.mp3?v=a3637470"
    },
    "zeit": null
   },
@@ -973,12 +973,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "wörtlich „Saal der Professoren“ – in Italien heißen alle Lehrer ab der scuola media professore/professoressa (kurz prof). c'è = es gibt.",
-   "audio": "audio/it-de/wendungen/tc_20.mp3",
+   "audio": "audio/it-de/wendungen/tc_20.mp3?v=f57dc9b4",
    "satz": {
     "fr": "In sala professori c'è sempre qualcuno che corregge. E qualcuno che dorme.",
     "de": "Im Lehrerzimmer korrigiert immer jemand. Und jemand schläft.",
     "luecke": "sala professori",
-    "audio": "audio/it-de/saetze/tc_20.mp3"
+    "audio": "audio/it-de/saetze/tc_20.mp3?v=5624b097"
    },
    "zeit": null
   },
@@ -990,21 +990,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dare",
    "notiz": "wörtlich „eine Hand geben“; dare una mano a qualcuno. le fotocopie = Kopien (fare le fotocopie). odiare = hassen.",
-   "audio": "audio/it-de/wendungen/tc_21.mp3",
+   "audio": "audio/it-de/wendungen/tc_21.mp3?v=ecdce9b7",
    "satz": {
     "fr": "Mi dai una mano con le fotocopie? La macchina mi odia.",
     "de": "Hilfst du mir mit den Kopien? Die Maschine hasst mich.",
     "luecke": "dai una mano",
-    "audio": "audio/it-de/saetze/tc_21.mp3"
+    "audio": "audio/it-de/saetze/tc_21.mp3?v=6950bc22"
    },
    "zeit": {
     "pc": {
      "fr": "Mi hai dato una mano. Grazie.",
-     "audio": "audio/it-de/saetze/tc_21_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_21_pc.mp3?v=34332eec"
     },
     "fp": {
      "fr": "Mi darai una mano? Vero?",
-     "audio": "audio/it-de/saetze/tc_21_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_21_fp.mp3?v=55ab6ab6"
     }
    }
   },
@@ -1016,21 +1016,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "l'appello = Namensaufruf (appellare = anrufen); presente! = hier! (Antwort beim Aufruf); assente = abwesend. Rossi und Bianchi = die häufigsten italienischen Nachnamen.",
-   "audio": "audio/it-de/wendungen/tc_22.mp3",
+   "audio": "audio/it-de/wendungen/tc_22.mp3?v=b145ebd6",
    "satz": {
     "fr": "Faccio l'appello. « Rossi? » – « Presente! » – « Bianchi? » – Silenzio. Bianchi dorme.",
     "de": "Ich prüfe die Anwesenheit. „Rossi?“ – „Hier!“ – „Bianchi?“ – Stille. Bianchi schläft.",
     "luecke": "Faccio l'appello",
-    "audio": "audio/it-de/saetze/tc_22.mp3"
+    "audio": "audio/it-de/saetze/tc_22.mp3?v=6124fab4"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto l'appello.",
-     "audio": "audio/it-de/saetze/tc_22_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_22_pc.mp3?v=d830ebb1"
     },
     "fp": {
      "fr": "Farò l'appello. Poi vedremo.",
-     "audio": "audio/it-de/saetze/tc_22_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_22_fp.mp3?v=a712d5cf"
     }
    }
   },
@@ -1042,21 +1042,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "incasinarsi",
    "notiz": "von il casino = Durcheinander, Chaos (umgangssprachlich, nicht vulgär – aber nicht in der Bäckerei); che casino! = was für ein Chaos! incasinato = überlastet, chaotisch.",
-   "audio": "audio/it-de/wendungen/tc_23.mp3",
+   "audio": "audio/it-de/wendungen/tc_23.mp3?v=45e9b9c4",
    "satz": {
     "fr": "Con due classi insieme mi incasino sempre con i nomi.",
     "de": "Mit zwei Klassen zusammen komme ich immer mit den Namen durcheinander.",
     "luecke": "mi incasino",
-    "audio": "audio/it-de/saetze/tc_23.mp3"
+    "audio": "audio/it-de/saetze/tc_23.mp3?v=c781cee8"
    },
    "zeit": {
     "pc": {
      "fr": "Mi sono incasinato con i nomi.",
-     "audio": "audio/it-de/saetze/tc_23_pc.mp3"
+     "audio": "audio/it-de/saetze/tc_23_pc.mp3?v=5e48f287"
     },
     "fp": {
      "fr": "Mi incasinerò con i nomi. Sicuro.",
-     "audio": "audio/it-de/saetze/tc_23_fp.mp3"
+     "audio": "audio/it-de/saetze/tc_23_fp.mp3?v=82768451"
     }
    }
   },
@@ -1068,12 +1068,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "potere",
    "notiz": "potrebbe = Konditional von potere, Lei-Form (3. Person); indicare + mi angehängt = indicarmi. mi scusi = Entschuldigung (Lei; unter Freunden: scusa).",
-   "audio": "audio/it-de/wendungen/tc_24.mp3",
+   "audio": "audio/it-de/wendungen/tc_24.mp3?v=2857f803",
    "satz": {
     "fr": "Mi scusi, potrebbe indicarmi la sala professori?",
     "de": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "luecke": "potrebbe indicarmi",
-    "audio": "audio/it-de/saetze/tc_24.mp3"
+    "audio": "audio/it-de/saetze/tc_24.mp3?v=be979cd3"
    },
    "zeit": null
   },
@@ -1085,21 +1085,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "toccare",
    "notiz": "toccare = berühren, auch gefühlsmäßig; Vorsicht: mi tocca + Infinitiv = ich muss (mi tocca correggere = ich muss korrigieren). Hier: mi tocca il cuore.",
-   "audio": "audio/it-de/wendungen/se_01.mp3",
+   "audio": "audio/it-de/wendungen/se_01.mp3?v=cc09beb3",
    "satz": {
     "fr": "Questa canzone mi tocca ogni volta che la sento.",
     "de": "Dieses Lied berührt mich jedes Mal, wenn ich es höre.",
     "luecke": "mi tocca",
-    "audio": "audio/it-de/saetze/se_01.mp3"
+    "audio": "audio/it-de/saetze/se_01.mp3?v=b5380250"
    },
    "zeit": {
     "pc": {
      "fr": "Questa canzone mi ha toccato.",
-     "audio": "audio/it-de/saetze/se_01_pc.mp3"
+     "audio": "audio/it-de/saetze/se_01_pc.mp3?v=b968cc82"
     },
     "fp": {
      "fr": "Questa canzone mi toccherà, lo so.",
-     "audio": "audio/it-de/saetze/se_01_fp.mp3"
+     "audio": "audio/it-de/saetze/se_01_fp.mp3?v=99dd8ccd"
     }
    }
   },
@@ -1111,21 +1111,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "wörtlich „unten an Moral sein“ (il morale = die Stimmung, Moral – männlich! la morale = die Moral als Ethik); auch: essere giù, essere a terra.",
-   "audio": "audio/it-de/wendungen/se_02.mp3",
+   "audio": "audio/it-de/wendungen/se_02.mp3?v=500c39ad",
    "satz": {
     "fr": "La domenica sera sono spesso giù di morale.",
     "de": "Sonntagabends bin ich oft niedergeschlagen.",
     "luecke": "giù di morale",
-    "audio": "audio/it-de/saetze/se_02.mp3"
+    "audio": "audio/it-de/saetze/se_02.mp3?v=3ad6796c"
    },
    "zeit": {
     "pc": {
      "fr": "Domenica ero giù di morale.",
-     "audio": "audio/it-de/saetze/se_02_pc.mp3"
+     "audio": "audio/it-de/saetze/se_02_pc.mp3?v=d4756cef"
     },
     "fp": {
      "fr": "Domenica sarò giù di morale, come sempre.",
-     "audio": "audio/it-de/saetze/se_02_fp.mp3"
+     "audio": "audio/it-de/saetze/se_02_fp.mp3?v=29c67752"
     }
    }
   },
@@ -1137,12 +1137,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "piacere",
    "notiz": "cupo = düster, dumpf (Stimmung, Farbe, Klang); scuro = dunkel (Licht). Plural weiblich: cupe. mi piacciono = Plural, weil le storie.",
-   "audio": "audio/it-de/wendungen/se_03.mp3",
+   "audio": "audio/it-de/wendungen/se_03.mp3?v=8f204d81",
    "satz": {
     "fr": "Mi piacciono le storie cupe, con un bosco e un segreto.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "cupe",
-    "audio": "audio/it-de/saetze/se_03.mp3"
+    "audio": "audio/it-de/saetze/se_03.mp3?v=282e5073"
    },
    "zeit": null
   },
@@ -1154,12 +1154,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "la malinconia (mit i nach l, anders als im Deutschen); Betonung: malin-CO-nico. così bello = so schön.",
-   "audio": "audio/it-de/wendungen/se_04.mp3",
+   "audio": "audio/it-de/wendungen/se_04.mp3?v=b86a3256",
    "satz": {
     "fr": "Questo pezzo per pianoforte è malinconico, ma così bello.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "malinconico",
-    "audio": "audio/it-de/saetze/se_04.mp3"
+    "audio": "audio/it-de/saetze/se_04.mp3?v=0c99552a"
    },
    "zeit": null
   },
@@ -1171,21 +1171,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "spezzare",
    "notiz": "spezzare = zerbrechen, brechen (un pezzo = ein Stück); auch mi si stringe il cuore = mir zieht sich das Herz zusammen. vedere + Infinitiv.",
-   "audio": "audio/it-de/wendungen/se_05.mp3",
+   "audio": "audio/it-de/wendungen/se_05.mp3?v=6b867c41",
    "satz": {
     "fr": "Vedere un bambino piangere da solo mi spezza il cuore.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "mi spezza il cuore",
-    "audio": "audio/it-de/saetze/se_05.mp3"
+    "audio": "audio/it-de/saetze/se_05.mp3?v=6aeb0b40"
    },
    "zeit": {
     "pc": {
      "fr": "Mi ha spezzato il cuore.",
-     "audio": "audio/it-de/saetze/se_05_pc.mp3"
+     "audio": "audio/it-de/saetze/se_05_pc.mp3?v=035f89d8"
     },
     "fp": {
      "fr": "Mi spezzerà il cuore.",
-     "audio": "audio/it-de/saetze/se_05_fp.mp3"
+     "audio": "audio/it-de/saetze/se_05_fp.mp3?v=3a9296e9"
     }
    }
   },
@@ -1197,12 +1197,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "commosso = Partizip von commuovere (rühren); commovente = rührend. Nicht „aufgeregt“ – das wäre agitato oder emozionato (emozionato = aufgeregt und bewegt!).",
-   "audio": "audio/it-de/wendungen/se_06.mp3",
+   "audio": "audio/it-de/wendungen/se_06.mp3?v=40f2ea16",
    "satz": {
     "fr": "Alla fine del concerto ero commosso fino alle lacrime.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "commosso",
-    "audio": "audio/it-de/saetze/se_06.mp3"
+    "audio": "audio/it-de/saetze/se_06.mp3?v=aead2ba7"
    },
    "zeit": null
   },
@@ -1214,12 +1214,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "von inquietare = beunruhigen (quieto = still, ruhig); inquieto = unruhig, besorgt. Imperfetto era = Beschreibung.",
-   "audio": "audio/it-de/wendungen/se_07.mp3",
+   "audio": "audio/it-de/wendungen/se_07.mp3?v=3085205b",
    "satz": {
     "fr": "La casa era silenziosa. Era inquietante.",
     "de": "Das Haus war still. Es war unheimlich.",
     "luecke": "inquietante",
-    "audio": "audio/it-de/saetze/se_07.mp3"
+    "audio": "audio/it-de/saetze/se_07.mp3?v=9a9d91c9"
    },
    "zeit": null
   },
@@ -1231,12 +1231,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "von rilassare = entspannen; rilassarsi = sich entspannen; rilassati! = entspann dich! le fusa = das Schnurren (immer Plural!).",
-   "audio": "audio/it-de/wendungen/se_08.mp3",
+   "audio": "audio/it-de/wendungen/se_08.mp3?v=5b77f532",
    "satz": {
     "fr": "Le fusa del mio gatto sono rilassanti.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "rilassanti",
-    "audio": "audio/it-de/saetze/se_08.mp3"
+    "audio": "audio/it-de/saetze/se_08.mp3?v=3d426b2d"
    },
    "zeit": null
   },
@@ -1248,21 +1248,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „die Tränen an den Augen haben“ – avere + Körperzustand ohne Possessiv (wie frz. avoir les larmes aux yeux). sentire = hören und fühlen.",
-   "audio": "audio/it-de/wendungen/se_09.mp3",
+   "audio": "audio/it-de/wendungen/se_09.mp3?v=26c54eee",
    "satz": {
     "fr": "Quando sento quella voce, ho le lacrime agli occhi.",
     "de": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "luecke": "ho le lacrime agli occhi",
-    "audio": "audio/it-de/saetze/se_09.mp3"
+    "audio": "audio/it-de/saetze/se_09.mp3?v=62884f81"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo le lacrime agli occhi.",
-     "audio": "audio/it-de/saetze/se_09_pc.mp3"
+     "audio": "audio/it-de/saetze/se_09_pc.mp3?v=b33796b4"
     },
     "fp": {
      "fr": "Avrò le lacrime agli occhi.",
-     "audio": "audio/it-de/saetze/se_09_fp.mp3"
+     "audio": "audio/it-de/saetze/se_09_fp.mp3?v=46cb59f2"
     }
    }
   },
@@ -1274,21 +1274,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "wörtlich „es lässt mir die Gänsehaut kommen“ (la pelle d'oca = Gänsehaut, wie im Deutschen; l'oca = Gans). fare venire = kommen lassen, auslösen.",
-   "audio": "audio/it-de/wendungen/se_10.mp3",
+   "audio": "audio/it-de/wendungen/se_10.mp3?v=7bf75038",
    "satz": {
     "fr": "Il ritornello mi fa venire la pelle d'oca.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "mi fa venire la pelle d'oca",
-    "audio": "audio/it-de/saetze/se_10.mp3"
+    "audio": "audio/it-de/saetze/se_10.mp3?v=4d578660"
    },
    "zeit": {
     "pc": {
      "fr": "Il ritornello mi ha fatto venire la pelle d'oca.",
-     "audio": "audio/it-de/saetze/se_10_pc.mp3"
+     "audio": "audio/it-de/saetze/se_10_pc.mp3?v=dee568ca"
     },
     "fp": {
      "fr": "Il ritornello mi farà venire la pelle d'oca.",
-     "audio": "audio/it-de/saetze/se_10_fp.mp3"
+     "audio": "audio/it-de/saetze/se_10_fp.mp3?v=e7b4c51c"
     }
    }
   },
@@ -1300,21 +1300,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "avere paura di + Nomen/Infinitiv; di + il = del: paura del buio. non … ma = nicht … sondern. il buio = die Dunkelheit.",
-   "audio": "audio/it-de/wendungen/se_11.mp3",
+   "audio": "audio/it-de/wendungen/se_11.mp3?v=9455e32f",
    "satz": {
     "fr": "Non ho paura del buio, ma del silenzio.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "ho paura",
-    "audio": "audio/it-de/saetze/se_11.mp3"
+    "audio": "audio/it-de/saetze/se_11.mp3?v=e7f6efea"
    },
    "zeit": {
     "pc": {
      "fr": "Non avevo paura del buio.",
-     "audio": "audio/it-de/saetze/se_11_pc.mp3"
+     "audio": "audio/it-de/saetze/se_11_pc.mp3?v=77a90271"
     },
     "fp": {
      "fr": "Non avrò paura del buio.",
-     "audio": "audio/it-de/saetze/se_11_fp.mp3"
+     "audio": "audio/it-de/saetze/se_11_fp.mp3?v=a6b1fa71"
     }
    }
   },
@@ -1326,21 +1326,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "l'umore (männlich) = die Laune – nicht l'umorismo (Humor)! buon vor Vokal/Konsonant verkürzt (buono → buon). stamattina = questa mattina.",
-   "audio": "audio/it-de/wendungen/se_12.mp3",
+   "audio": "audio/it-de/wendungen/se_12.mp3?v=d8404899",
    "satz": {
     "fr": "Stamattina sono di buon umore: c'è il sole.",
     "de": "Heute Morgen bin ich gut gelaunt: Die Sonne ist da.",
     "luecke": "di buon umore",
-    "audio": "audio/it-de/saetze/se_12.mp3"
+    "audio": "audio/it-de/saetze/se_12.mp3?v=b7a925ad"
    },
    "zeit": {
     "pc": {
      "fr": "Stamattina ero di buon umore.",
-     "audio": "audio/it-de/saetze/se_12_pc.mp3"
+     "audio": "audio/it-de/saetze/se_12_pc.mp3?v=2595e7a5"
     },
     "fp": {
      "fr": "Domani sarò di buon umore.",
-     "audio": "audio/it-de/saetze/se_12_fp.mp3"
+     "audio": "audio/it-de/saetze/se_12_fp.mp3?v=6eadb706"
     }
    }
   },
@@ -1352,12 +1352,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "non parlargli = verneinter Imperativ (non + Infinitiv!) mit angehängtem gli (ihm). cattivo = schlecht, böse; auch: di pessimo umore.",
-   "audio": "audio/it-de/wendungen/se_13.mp3",
+   "audio": "audio/it-de/wendungen/se_13.mp3?v=d52e9ff2",
    "satz": {
     "fr": "Non parlargli, è di cattivo umore.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "di cattivo umore",
-    "audio": "audio/it-de/saetze/se_13.mp3"
+    "audio": "audio/it-de/saetze/se_13.mp3?v=2cbdd713"
    },
    "zeit": null
   },
@@ -1369,21 +1369,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "mancare",
    "notiz": "umgekehrt zum Deutschen: mancare a qualcuno – die Sache ist Subjekt: i gatti mi mancano. mi manchi = ich vermisse dich. Passato prossimo mit essere.",
-   "audio": "audio/it-de/wendungen/se_14.mp3",
+   "audio": "audio/it-de/wendungen/se_14.mp3?v=a5320df2",
    "satz": {
     "fr": "I miei gatti mi mancano quando sono in viaggio.",
     "de": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
     "luecke": "mi mancano",
-    "audio": "audio/it-de/saetze/se_14.mp3"
+    "audio": "audio/it-de/saetze/se_14.mp3?v=64528650"
    },
    "zeit": {
     "pc": {
      "fr": "I miei gatti mi sono mancati.",
-     "audio": "audio/it-de/saetze/se_14_pc.mp3"
+     "audio": "audio/it-de/saetze/se_14_pc.mp3?v=bff9af42"
     },
     "fp": {
      "fr": "I miei gatti mi mancheranno.",
-     "audio": "audio/it-de/saetze/se_14_fp.mp3"
+     "audio": "audio/it-de/saetze/se_14_fp.mp3?v=40ef9c1e"
     }
    }
   },
@@ -1395,21 +1395,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „ein Gewicht auf dem Herzen haben“; auch avere il cuore pesante. la giornata = der Tag als Verlauf (wie frz. journée).",
-   "audio": "audio/it-de/wendungen/se_15.mp3",
+   "audio": "audio/it-de/wendungen/se_15.mp3?v=51200e06",
    "satz": {
     "fr": "Dopo questa giornata ho un peso sul cuore.",
     "de": "Nach diesem Tag ist mir schwer ums Herz.",
     "luecke": "ho un peso sul cuore",
-    "audio": "audio/it-de/saetze/se_15.mp3"
+    "audio": "audio/it-de/saetze/se_15.mp3?v=77db6925"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo un peso sul cuore.",
-     "audio": "audio/it-de/saetze/se_15_pc.mp3"
+     "audio": "audio/it-de/saetze/se_15_pc.mp3?v=02e188eb"
     },
     "fp": {
      "fr": "Avrò un peso sul cuore.",
-     "audio": "audio/it-de/saetze/se_15_fp.mp3"
+     "audio": "audio/it-de/saetze/se_15_fp.mp3?v=9829c47e"
     }
    }
   },
@@ -1421,12 +1421,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "von toccare = berühren; commovente = rührend, struggente = herzzerreißend. il finale = das Ende (Film, Spiel) – la finale = das Finale (Sport).",
-   "audio": "audio/it-de/wendungen/se_16.mp3",
+   "audio": "audio/it-de/wendungen/se_16.mp3?v=93032abe",
    "satz": {
     "fr": "Il finale del film è toccante.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "toccante",
-    "audio": "audio/it-de/saetze/se_16.mp3"
+    "audio": "audio/it-de/saetze/se_16.mp3?v=189bc791"
    },
    "zeit": null
   },
@@ -1438,21 +1438,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sentirsi",
    "notiz": "sentirsi + Adverb/Adjektiv: mi sento bene, male, stanco. Ohne si: sentire = hören, fühlen, riechen (sento il caffè).",
-   "audio": "audio/it-de/wendungen/se_17.mp3",
+   "audio": "audio/it-de/wendungen/se_17.mp3?v=1375730f",
    "satz": {
     "fr": "Dopo il kung fu mi sento bene, leggero.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "mi sento bene",
-    "audio": "audio/it-de/saetze/se_17.mp3"
+    "audio": "audio/it-de/saetze/se_17.mp3?v=bb9f8ba4"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo il kung fu mi sono sentito bene.",
-     "audio": "audio/it-de/saetze/se_17_pc.mp3"
+     "audio": "audio/it-de/saetze/se_17_pc.mp3?v=081dec6a"
     },
     "fp": {
      "fr": "Dopo il kung fu mi sentirò bene.",
-     "audio": "audio/it-de/saetze/se_17_fp.mp3"
+     "audio": "audio/it-de/saetze/se_17_fp.mp3?v=34b145c5"
     }
    }
   },
@@ -1464,21 +1464,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il magone = der Kloß im Hals, die Beklemmung (norditalienisch, aus dem Lombardischen: „Magen“!); avere il magone = bedrückt sein. è partita = partire mit essere.",
-   "audio": "audio/it-de/wendungen/se_18.mp3",
+   "audio": "audio/it-de/wendungen/se_18.mp3?v=cecd3e23",
    "satz": {
     "fr": "È partita, e ho il magone.",
     "de": "Sie ist gegangen, und ich habe einen Kloß im Hals.",
     "luecke": "ho il magone",
-    "audio": "audio/it-de/saetze/se_18.mp3"
+    "audio": "audio/it-de/saetze/se_18.mp3?v=66cc6a2c"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo il magone.",
-     "audio": "audio/it-de/saetze/se_18_pc.mp3"
+     "audio": "audio/it-de/saetze/se_18_pc.mp3?v=92de9360"
     },
     "fp": {
      "fr": "Avrò il magone.",
-     "audio": "audio/it-de/saetze/se_18_fp.mp3"
+     "audio": "audio/it-de/saetze/se_18_fp.mp3?v=155a6036"
     }
    }
   },
@@ -1490,21 +1490,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "rendere",
    "notiz": "rendere + Adjektiv = zu etwas machen: mi rende triste, felice, nervoso. Nie fare: „mi fa triste“ ist falsch. Partizip reso.",
-   "audio": "audio/it-de/wendungen/se_19.mp3",
+   "audio": "audio/it-de/wendungen/se_19.mp3?v=dd8c7923",
    "satz": {
     "fr": "La pioggia su Bologna mi rende un po' triste.",
     "de": "Der Regen über Bologna macht mich ein bisschen traurig.",
     "luecke": "mi rende",
-    "audio": "audio/it-de/saetze/se_19.mp3"
+    "audio": "audio/it-de/saetze/se_19.mp3?v=6d232db3"
    },
    "zeit": {
     "pc": {
      "fr": "La pioggia mi ha reso un po' triste.",
-     "audio": "audio/it-de/saetze/se_19_pc.mp3"
+     "audio": "audio/it-de/saetze/se_19_pc.mp3?v=40372ec5"
     },
     "fp": {
      "fr": "La pioggia mi renderà un po' triste.",
-     "audio": "audio/it-de/saetze/se_19_fp.mp3"
+     "audio": "audio/it-de/saetze/se_19_fp.mp3?v=b52a9a1f"
     }
    }
   },
@@ -1516,12 +1516,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "adorare",
    "notiz": "chiaro (hell) + scuro (dunkel) – das Wort kommt aus dem Italienischen und ist in allen Sprachen gleich. il quadro = das Gemälde. Caravaggio = der Meister des chiaroscuro.",
-   "audio": "audio/it-de/wendungen/se_20.mp3",
+   "audio": "audio/it-de/wendungen/se_20.mp3?v=99ee9493",
    "satz": {
     "fr": "Adoro il chiaroscuro nei quadri di Caravaggio.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden Caravaggios.",
     "luecke": "chiaroscuro",
-    "audio": "audio/it-de/saetze/se_20.mp3"
+    "audio": "audio/it-de/saetze/se_20.mp3?v=8289ba1c"
    },
    "zeit": null
   },
@@ -1533,12 +1533,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "tranquillo = ruhig (Ort, Mensch); tranquillo! = keine Sorge, ganz ruhig (sehr häufig). il cortile = der Innenhof, auch der Schulhof.",
-   "audio": "audio/it-de/wendungen/se_21.mp3",
+   "audio": "audio/it-de/wendungen/se_21.mp3?v=1071e944",
    "satz": {
     "fr": "Di sera il cortile è tranquillo.",
     "de": "Am Abend ist der Hof ruhig.",
     "luecke": "tranquillo",
-    "audio": "audio/it-de/saetze/se_21.mp3"
+    "audio": "audio/it-de/saetze/se_21.mp3?v=fa536dff"
    },
    "zeit": null
   },
@@ -1550,12 +1550,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "von l'angoscia = Beklemmung, Angst; angosciato = beklommen. Vorsicht: sci vor a = [ʃa]: angosciante [angoʃante].",
-   "audio": "audio/it-de/wendungen/se_22.mp3",
+   "audio": "audio/it-de/wendungen/se_22.mp3?v=b66e4543",
    "satz": {
     "fr": "Il corridoio vuoto del museo era angosciante.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angosciante",
-    "audio": "audio/it-de/saetze/se_22.mp3"
+    "audio": "audio/it-de/saetze/se_22.mp3?v=74a15a3b"
    },
    "zeit": null
   },
@@ -1567,21 +1567,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „das Herz in Stücken haben“; a pezzi = in Stücken (auch: essere a pezzi = fix und fertig). da quando = seit (Konjunktion); è morto = morire mit essere.",
-   "audio": "audio/it-de/wendungen/se_23.mp3",
+   "audio": "audio/it-de/wendungen/se_23.mp3?v=d58e6878",
    "satz": {
     "fr": "Ha il cuore a pezzi da quando è morto il suo gatto.",
     "de": "Er ist untröstlich, seit seine Katze gestorben ist.",
     "luecke": "Ha il cuore a pezzi",
-    "audio": "audio/it-de/saetze/se_23.mp3"
+    "audio": "audio/it-de/saetze/se_23.mp3?v=db8df0d3"
    },
    "zeit": {
     "pc": {
      "fr": "Aveva il cuore a pezzi.",
-     "audio": "audio/it-de/saetze/se_23_pc.mp3"
+     "audio": "audio/it-de/saetze/se_23_pc.mp3?v=56cce2d5"
     },
     "fp": {
      "fr": "Avrà il cuore a pezzi.",
-     "audio": "audio/it-de/saetze/se_23_fp.mp3"
+     "audio": "audio/it-de/saetze/se_23_fp.mp3?v=c95c0fb4"
     }
    }
   },
@@ -1593,12 +1593,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "dispiacere",
    "notiz": "wörtlich „es missfällt mir“ (dispiacere, Gegenteil von piacere) – die normale Entschuldigung; mi dispiace molto = es tut mir sehr leid. disturbarla = disturbare + La (Sie, Lei-Form, angehängt).",
-   "audio": "audio/it-de/wendungen/se_24.mp3",
+   "audio": "audio/it-de/wendungen/se_24.mp3?v=39b46d7f",
    "satz": {
     "fr": "Mi dispiace, signora, non volevo disturbarla.",
     "de": "Es tut mir leid, Signora, ich wollte Sie nicht stören.",
     "luecke": "Mi dispiace",
-    "audio": "audio/it-de/saetze/se_24.mp3"
+    "audio": "audio/it-de/saetze/se_24.mp3?v=0500edec"
    },
    "zeit": null
   },
@@ -1610,21 +1610,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "le fusa = das Schnurren, nur im Plural (von fuso = Spindel: das Surren der Spindel); fare le fusa = schnurren. appena = sobald.",
-   "audio": "audio/it-de/wendungen/ga_01.mp3",
+   "audio": "audio/it-de/wendungen/ga_01.mp3?v=d5fa70ae",
    "satz": {
     "fr": "Il mio gatto fa le fusa appena mi siedo.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "fa le fusa",
-    "audio": "audio/it-de/saetze/ga_01.mp3"
+    "audio": "audio/it-de/saetze/ga_01.mp3?v=1beea88d"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto le fusa tutta la sera.",
-     "audio": "audio/it-de/saetze/ga_01_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_01_pc.mp3?v=18f466ff"
     },
     "fp": {
      "fr": "Farà le fusa appena mi siedo.",
-     "audio": "audio/it-de/saetze/ga_01_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_01_fp.mp3?v=86b2c767"
     }
    }
   },
@@ -1636,21 +1636,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "le coccole = Streicheleinheiten, Schmusen (coccolare = verhätscheln); fare le coccole a qualcuno; coccolone = Schmusekatze. farmi = fare + mi.",
-   "audio": "audio/it-de/wendungen/ga_02.mp3",
+   "audio": "audio/it-de/wendungen/ga_02.mp3?v=9af44a1b",
    "satz": {
     "fr": "La sera viene a farmi le coccole sul divano.",
     "de": "Abends kommt sie, um mit mir auf dem Sofa zu schmusen.",
     "luecke": "farmi le coccole",
-    "audio": "audio/it-de/saetze/ga_02.mp3"
+    "audio": "audio/it-de/saetze/ga_02.mp3?v=63c2746c"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri sera mi ha fatto le coccole.",
-     "audio": "audio/it-de/saetze/ga_02_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_02_pc.mp3?v=0c5ba6a4"
     },
     "fp": {
      "fr": "Stasera verrà a farmi le coccole.",
-     "audio": "audio/it-de/saetze/ga_02_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_02_fp.mp3?v=a5ddfe21"
     }
    }
   },
@@ -1662,21 +1662,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "graffiare",
    "notiz": "graffiare = kratzen mit Krallen (il graffio = der Kratzer); grattare = kratzen (Juckreiz), grattugiare = reiben (Käse). attento! = Vorsicht (attenta an eine Frau).",
-   "audio": "audio/it-de/wendungen/ga_03.mp3",
+   "audio": "audio/it-de/wendungen/ga_03.mp3?v=031bacee",
    "satz": {
     "fr": "Attento, graffia se lo accarezzi troppo a lungo.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "graffia",
-    "audio": "audio/it-de/saetze/ga_03.mp3"
+    "audio": "audio/it-de/saetze/ga_03.mp3?v=28b9cbb7"
    },
    "zeit": {
     "pc": {
      "fr": "Mi ha graffiato.",
-     "audio": "audio/it-de/saetze/ga_03_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_03_pc.mp3?v=88910970"
     },
     "fp": {
      "fr": "Ti graffierà, vedrai.",
-     "audio": "audio/it-de/saetze/ga_03_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_03_fp.mp3?v=ca2e031e"
     }
    }
   },
@@ -1688,21 +1688,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "lavarsi",
    "notiz": "lavarsi = sich waschen – bei Katzen: sich putzen (auch: farsi la toilette, pulirsi). il pasto = die Mahlzeit (nicht la pasta!).",
-   "audio": "audio/it-de/wendungen/ga_04.mp3",
+   "audio": "audio/it-de/wendungen/ga_04.mp3?v=8ca0f5f3",
    "satz": {
     "fr": "Dopo il pasto si lava per dieci minuti.",
     "de": "Nach dem Fressen putzt er sich zehn Minuten lang.",
     "luecke": "si lava",
-    "audio": "audio/it-de/saetze/ga_04.mp3"
+    "audio": "audio/it-de/saetze/ga_04.mp3?v=1dbd40c6"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo il pasto si è lavato.",
-     "audio": "audio/it-de/saetze/ga_04_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_04_pc.mp3?v=79966297"
     },
     "fp": {
      "fr": "Dopo il pasto si laverà.",
-     "audio": "audio/it-de/saetze/ga_04_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_04_fp.mp3?v=74b6ec2e"
     }
    }
   },
@@ -1714,21 +1714,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "miagolare",
    "notiz": "miao = miau; miagolare, Betonung mia-GO-la. alle sei di mattina = um sechs Uhr morgens (di mattina / di sera).",
-   "audio": "audio/it-de/wendungen/ga_05.mp3",
+   "audio": "audio/it-de/wendungen/ga_05.mp3?v=3f4683e7",
    "satz": {
     "fr": "Miagola davanti alla porta della cucina alle sei di mattina.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "Miagola",
-    "audio": "audio/it-de/saetze/ga_05.mp3"
+    "audio": "audio/it-de/saetze/ga_05.mp3?v=1256ebca"
    },
    "zeit": {
     "pc": {
      "fr": "Ha miagolato tutta la notte.",
-     "audio": "audio/it-de/saetze/ga_05_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_05_pc.mp3?v=9e5f78f4"
     },
     "fp": {
      "fr": "Miagolerà alle sei, come sempre.",
-     "audio": "audio/it-de/saetze/ga_05_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_05_fp.mp3?v=22026c39"
     }
    }
   },
@@ -1740,21 +1740,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "avere fame/sete/freddo/sonno – immer mit avere (haben). secondo lui = ihm zufolge, seiner Meinung nach.",
-   "audio": "audio/it-de/wendungen/ga_06.mp3",
+   "audio": "audio/it-de/wendungen/ga_06.mp3?v=6e0a828a",
    "satz": {
     "fr": "Secondo lui, ha sempre fame.",
     "de": "Ihm zufolge hat er immer Hunger.",
     "luecke": "ha sempre fame",
-    "audio": "audio/it-de/saetze/ga_06.mp3"
+    "audio": "audio/it-de/saetze/ga_06.mp3?v=a949bee6"
    },
    "zeit": {
     "pc": {
      "fr": "Aveva fame, dice lui.",
-     "audio": "audio/it-de/saetze/ga_06_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_06_pc.mp3?v=272f2b84"
     },
     "fp": {
      "fr": "Avrà fame tra cinque minuti.",
-     "audio": "audio/it-de/saetze/ga_06_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_06_fp.mp3?v=17d33df8"
     }
    }
   },
@@ -1766,21 +1766,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "accarezzare",
    "notiz": "accarezzare = streicheln (la carezza = die Streicheleinheit); Vorsicht beim Schreiben: doppeltes z. la gatta = die Katze (weiblich), il gatto = Kater/Katze allgemein.",
-   "audio": "audio/it-de/wendungen/ga_07.mp3",
+   "audio": "audio/it-de/wendungen/ga_07.mp3?v=c3a1ef33",
    "satz": {
     "fr": "Accarezzo la mia gatta dietro le orecchie, lo adora.",
     "de": "Ich streichle meine Katze hinter den Ohren, sie liebt das.",
     "luecke": "Accarezzo",
-    "audio": "audio/it-de/saetze/ga_07.mp3"
+    "audio": "audio/it-de/saetze/ga_07.mp3?v=720e3445"
    },
    "zeit": {
     "pc": {
      "fr": "L'ho accarezzata dietro le orecchie.",
-     "audio": "audio/it-de/saetze/ga_07_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_07_pc.mp3?v=8b682e44"
     },
     "fp": {
      "fr": "La accarezzerò dietro le orecchie.",
-     "audio": "audio/it-de/saetze/ga_07_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_07_fp.mp3?v=29507521"
     }
    }
   },
@@ -1792,21 +1792,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "farsi",
    "notiz": "wörtlich „sich die Nägel machen“ (l'unghia = Nagel, Kralle; bei Frauen = Maniküre!); il tiragraffi = Kratzbaum (tira + graffi). la poltrona = Sessel.",
-   "audio": "audio/it-de/wendungen/ga_08.mp3",
+   "audio": "audio/it-de/wendungen/ga_08.mp3?v=5c0a6ffd",
    "satz": {
     "fr": "Si fa le unghie sulla poltrona, mai sul tiragraffi.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "Si fa le unghie",
-    "audio": "audio/it-de/saetze/ga_08.mp3"
+    "audio": "audio/it-de/saetze/ga_08.mp3?v=36c2a08f"
    },
    "zeit": {
     "pc": {
      "fr": "Si è fatto le unghie sulla poltrona.",
-     "audio": "audio/it-de/saetze/ga_08_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_08_pc.mp3?v=95b9b7ed"
     },
     "fp": {
      "fr": "Si farà le unghie sulla poltrona.",
-     "audio": "audio/it-de/saetze/ga_08_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_08_fp.mp3?v=465c1b1e"
     }
    }
   },
@@ -1818,12 +1818,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il felino = Katzentier (lat. felis); i felini = Raubkatzen. ha deciso = decidere, Partizip deciso.",
-   "audio": "audio/it-de/wendungen/ga_09.mp3",
+   "audio": "audio/it-de/wendungen/ga_09.mp3?v=d16e80ae",
    "satz": {
     "fr": "Un gatto è un piccolo felino che ha deciso di vivere con noi.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "felino",
-    "audio": "audio/it-de/saetze/ga_09.mp3"
+    "audio": "audio/it-de/saetze/ga_09.mp3?v=ac7e6df1"
    },
    "zeit": null
   },
@@ -1835,21 +1835,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "il pisolino = Nickerchen (pisolare = dösen); -ino = klein; auch: schiacciare un pisolino (ein Nickerchen „drücken“). che vita = was für ein Leben.",
-   "audio": "audio/it-de/wendungen/ga_10.mp3",
+   "audio": "audio/it-de/wendungen/ga_10.mp3?v=de89ff7f",
    "satz": {
     "fr": "Il mio gatto fa un pisolino sedici ore al giorno. Che vita.",
     "de": "Meine Katze macht sechzehn Stunden am Tag ein Nickerchen. Was für ein Leben.",
     "luecke": "fa un pisolino",
-    "audio": "audio/it-de/saetze/ga_10.mp3"
+    "audio": "audio/it-de/saetze/ga_10.mp3?v=5fef3a52"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto un pisolino di sedici ore.",
-     "audio": "audio/it-de/saetze/ga_10_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_10_pc.mp3?v=cab743a5"
     },
     "fp": {
      "fr": "Farà un pisolino. Lungo.",
-     "audio": "audio/it-de/saetze/ga_10_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_10_fp.mp3?v=8116db47"
     }
    }
   },
@@ -1861,21 +1861,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "strusciarsi",
    "notiz": "strusciare = reiben, scheuern; strusciarsi contro = sich reiben an. tornare a casa = nach Hause kommen. sci vor a = [ʃa].",
-   "audio": "audio/it-de/wendungen/ga_11.mp3",
+   "audio": "audio/it-de/wendungen/ga_11.mp3?v=1192a651",
    "satz": {
     "fr": "Si struscia contro le mie gambe quando torno a casa.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "Si struscia contro",
-    "audio": "audio/it-de/saetze/ga_11.mp3"
+    "audio": "audio/it-de/saetze/ga_11.mp3?v=ac9471cf"
    },
    "zeit": {
     "pc": {
      "fr": "Si è strusciata contro le mie gambe.",
-     "audio": "audio/it-de/saetze/ga_11_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_11_pc.mp3?v=e7358050"
     },
     "fp": {
      "fr": "Si struscerà contro le mie gambe.",
-     "audio": "audio/it-de/saetze/ga_11_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_11_fp.mp3?v=2d4d5c18"
     }
    }
   },
@@ -1887,12 +1887,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "preferire",
    "notiz": "le crocchette = Trockenfutter (auch: Kroketten!); preferire A a B = A lieber mögen als B; preferire mit -isc-: preferisco, preferisce. le sue = seine.",
-   "audio": "audio/it-de/wendungen/ga_12.mp3",
+   "audio": "audio/it-de/wendungen/ga_12.mp3?v=6c5854c0",
    "satz": {
     "fr": "Preferisce le crocchette del vicino alle sue.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seines.",
     "luecke": "crocchette",
-    "audio": "audio/it-de/saetze/ga_12.mp3"
+    "audio": "audio/it-de/saetze/ga_12.mp3?v=148d19f5"
    },
    "zeit": null
   },
@@ -1904,12 +1904,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "l'umido = das Nassfutter (umido = feucht; il cibo umido); lo sa = er weiß es (lo = es). a mezzogiorno = mittags.",
-   "audio": "audio/it-de/wendungen/ga_13.mp3",
+   "audio": "audio/it-de/wendungen/ga_13.mp3?v=c95c6841",
    "satz": {
     "fr": "A mezzogiorno c'è l'umido, e lui lo sa.",
     "de": "Mittags gibt es Nassfutter, und er weiß es.",
     "luecke": "umido",
-    "audio": "audio/it-de/saetze/ga_13.mp3"
+    "audio": "audio/it-de/saetze/ga_13.mp3?v=70484cae"
    },
    "zeit": null
   },
@@ -1921,12 +1921,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "lo sguardo = der Blick (guardare = anschauen); uno sguardo vor s + Konsonant (uno sguardo, uno studente). essere in ritardo = zu spät sein.",
-   "audio": "audio/it-de/wendungen/ga_14.mp3",
+   "audio": "audio/it-de/wendungen/ga_14.mp3?v=d226014d",
    "satz": {
     "fr": "Ha uno sguardo che dice: « Sei in ritardo. »",
     "de": "Sie hat einen Blick, der sagt: „Du bist zu spät.“",
     "luecke": "uno sguardo",
-    "audio": "audio/it-de/saetze/ga_14.mp3"
+    "audio": "audio/it-de/saetze/ga_14.mp3?v=21f424eb"
    },
    "zeit": null
   },
@@ -1938,21 +1938,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "saltare",
    "notiz": "saltare = springen; su + la = sulla. la scrivania = Schreibtisch (scrivere = schreiben); mentre = während (zeitlich). Passato prossimo hier mit essere (Bewegung).",
-   "audio": "audio/it-de/wendungen/ga_15.mp3",
+   "audio": "audio/it-de/wendungen/ga_15.mp3?v=64195b8a",
    "satz": {
     "fr": "Salta sulla scrivania mentre correggo i compiti.",
     "de": "Er springt auf den Schreibtisch, während ich Arbeiten korrigiere.",
     "luecke": "Salta sulla scrivania",
-    "audio": "audio/it-de/saetze/ga_15.mp3"
+    "audio": "audio/it-de/saetze/ga_15.mp3?v=f8a3a4e1"
    },
    "zeit": {
     "pc": {
      "fr": "È saltato sulla scrivania.",
-     "audio": "audio/it-de/saetze/ga_15_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_15_pc.mp3?v=cba43f6c"
     },
     "fp": {
      "fr": "Salterà sulla scrivania.",
-     "audio": "audio/it-de/saetze/ga_15_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_15_fp.mp3?v=8f5f2ae6"
     }
    }
   },
@@ -1964,21 +1964,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "nascondersi",
    "notiz": "nascondere = verstecken, Partizip nascosto; nascondino = Versteckspiel. l'aspirapolvere = Staubsauger (aspira + polvere = saugt Staub).",
-   "audio": "audio/it-de/wendungen/ga_16.mp3",
+   "audio": "audio/it-de/wendungen/ga_16.mp3?v=d1210b44",
    "satz": {
     "fr": "Quando esce l'aspirapolvere, si nasconde sotto il letto.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unter dem Bett.",
     "luecke": "si nasconde",
-    "audio": "audio/it-de/saetze/ga_16.mp3"
+    "audio": "audio/it-de/saetze/ga_16.mp3?v=440f2f23"
    },
    "zeit": {
     "pc": {
      "fr": "Si è nascosta sotto il letto.",
-     "audio": "audio/it-de/saetze/ga_16_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_16_pc.mp3?v=6fc1e82c"
     },
     "fp": {
      "fr": "Si nasconderà sotto il letto.",
-     "audio": "audio/it-de/saetze/ga_16_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_16_fp.mp3?v=94aa003a"
     }
    }
   },
@@ -1990,21 +1990,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare compagnia a qualcuno = jemandem Gesellschaft leisten; la compagnia = Gesellschaft (auch: Firma, Theatertruppe). preparare le lezioni = Unterricht vorbereiten.",
-   "audio": "audio/it-de/wendungen/ga_17.mp3",
+   "audio": "audio/it-de/wendungen/ga_17.mp3?v=920cb3ad",
    "satz": {
     "fr": "I miei gatti mi fanno compagnia quando preparo le lezioni.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich den Unterricht vorbereite.",
     "luecke": "mi fanno compagnia",
-    "audio": "audio/it-de/saetze/ga_17.mp3"
+    "audio": "audio/it-de/saetze/ga_17.mp3?v=d681d97c"
    },
    "zeit": {
     "pc": {
      "fr": "Mi hanno fatto compagnia.",
-     "audio": "audio/it-de/saetze/ga_17_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_17_pc.mp3?v=efaec57f"
     },
     "fp": {
      "fr": "Mi faranno compagnia.",
-     "audio": "audio/it-de/saetze/ga_17_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_17_fp.mp3?v=bd80c08c"
     }
    }
   },
@@ -2016,12 +2016,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "randagio = streunend (anche: un cane randagio); un gatto di razza = Rassekatze; auch: un gatto europeo (Hauskatze ohne Stammbaum). ed vor Vokal = e.",
-   "audio": "audio/it-de/wendungen/ga_18.mp3",
+   "audio": "audio/it-de/wendungen/ga_18.mp3?v=5757db3b",
    "satz": {
     "fr": "Non è un gatto di razza, è un gatto randagio, ed è perfetto.",
     "de": "Er ist keine Rassekatze, er ist eine Straßenkatze, und er ist perfekt.",
     "luecke": "gatto randagio",
-    "audio": "audio/it-de/saetze/ga_18.mp3"
+    "audio": "audio/it-de/saetze/ga_18.mp3?v=9d1d3b8b"
    },
    "zeit": null
   },
@@ -2033,21 +2033,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "combinare",
    "notiz": "wörtlich „Ärger zusammenstellen“ (il guaio = Ärger, Schlamassel; guai a te! = wehe dir!); auch: combinare un casino, fare danni. non ci sono = ich bin nicht da (ci = da).",
-   "audio": "audio/it-de/wendungen/ga_19.mp3",
+   "audio": "audio/it-de/wendungen/ga_19.mp3?v=3705b0c1",
    "satz": {
     "fr": "Quando non ci sono, combinano guai.",
     "de": "Wenn ich nicht da bin, stellen sie Unsinn an.",
     "luecke": "combinano guai",
-    "audio": "audio/it-de/saetze/ga_19.mp3"
+    "audio": "audio/it-de/saetze/ga_19.mp3?v=5ad3798a"
    },
    "zeit": {
     "pc": {
      "fr": "Hanno combinato guai.",
-     "audio": "audio/it-de/saetze/ga_19_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_19_pc.mp3?v=b6f23a24"
     },
     "fp": {
      "fr": "Combineranno guai, sicuro.",
-     "audio": "audio/it-de/saetze/ga_19_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_19_fp.mp3?v=226e35af"
     }
    }
   },
@@ -2059,12 +2059,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "diventare",
    "notiz": "dal veterinario = beim Tierarzt (da + il = dal; da + Person = bei); diventare = werden. Betonung: veteri-NA-rio.",
-   "audio": "audio/it-de/wendungen/ga_20.mp3",
+   "audio": "audio/it-de/wendungen/ga_20.mp3?v=b77db539",
    "satz": {
     "fr": "Dal veterinario, il mio gatto diventa molto, molto calmo.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "veterinario",
-    "audio": "audio/it-de/saetze/ga_20.mp3"
+    "audio": "audio/it-de/saetze/ga_20.mp3?v=21e05123"
    },
    "zeit": null
   },
@@ -2076,12 +2076,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dare",
    "notiz": "dare fastidio a qualcuno = jemanden stören (il fastidio = Belästigung); gli = ihm, le = ihr. dà mit Akzent (von dare), da ohne = von. stonato = schief (Gesang).",
-   "audio": "audio/it-de/wendungen/ga_21.mp3",
+   "audio": "audio/it-de/wendungen/ga_21.mp3?v=3ac62c49",
    "satz": {
     "fr": "Canto stonato, ma non gli dà fastidio. Credo.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich.",
     "luecke": "non gli dà fastidio",
-    "audio": "audio/it-de/saetze/ga_21.mp3"
+    "audio": "audio/it-de/saetze/ga_21.mp3?v=fed308c5"
    },
    "zeit": null
   },
@@ -2093,12 +2093,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "indipendente – mit i nach ind (anders als im Deutschen); l'indipendenza. tornare = zurückkommen.",
-   "audio": "audio/it-de/wendungen/ga_22.mp3",
+   "audio": "audio/it-de/wendungen/ga_22.mp3?v=4576819f",
    "satz": {
     "fr": "Un gatto è indipendente. Torna quando ha fame.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "indipendente",
-    "audio": "audio/it-de/saetze/ga_22.mp3"
+    "audio": "audio/it-de/saetze/ga_22.mp3?v=e037639e"
    },
    "zeit": null
   },
@@ -2110,21 +2110,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "di + Gefühl = vor: piangere di gioia, morire di fame. con gli occhi chiusi = mit geschlossenen Augen (gli vor Vokal im Plural).",
-   "audio": "audio/it-de/wendungen/ga_23.mp3",
+   "audio": "audio/it-de/wendungen/ga_23.mp3?v=70198274",
    "satz": {
     "fr": "Al sole fa le fusa di piacere, con gli occhi chiusi.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "fa le fusa di piacere",
-    "audio": "audio/it-de/saetze/ga_23.mp3"
+    "audio": "audio/it-de/saetze/ga_23.mp3?v=74a812af"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto le fusa di piacere.",
-     "audio": "audio/it-de/saetze/ga_23_pc.mp3"
+     "audio": "audio/it-de/saetze/ga_23_pc.mp3?v=3af61361"
     },
     "fp": {
      "fr": "Farà le fusa di piacere.",
-     "audio": "audio/it-de/saetze/ga_23_fp.mp3"
+     "audio": "audio/it-de/saetze/ga_23_fp.mp3?v=8a7c4062"
     }
    }
   },
@@ -2136,12 +2136,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "avere",
    "notiz": "Lei-Form = 3. Person: ha = Sie haben; Lei nachgestellt zur Klarheit. ce n'è uno = es gibt eine davon (ne = davon); il tetto = das Dach.",
-   "audio": "audio/it-de/wendungen/ga_24.mp3",
+   "audio": "audio/it-de/wendungen/ga_24.mp3?v=0e33053b",
    "satz": {
     "fr": "Mi scusi, signora, ha un gatto, Lei? Ce n'è uno sul suo tetto.",
     "de": "Entschuldigung, Signora, haben Sie eine Katze? Da ist eine auf Ihrem Dach.",
     "luecke": "ha un gatto, Lei",
-    "audio": "audio/it-de/saetze/ga_24.mp3"
+    "audio": "audio/it-de/saetze/ga_24.mp3?v=b376ee29"
    },
    "zeit": null
   },
@@ -2153,21 +2153,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cantare",
    "notiz": "intonato = richtig gestimmt, sauber (il tono = Ton); Gegenteil: stonato. mio fratello ohne Artikel (Familie im Singular!), aber il mio gatto.",
-   "audio": "audio/it-de/wendungen/mu_01.mp3",
+   "audio": "audio/it-de/wendungen/mu_01.mp3?v=146580f5",
    "satz": {
     "fr": "Mio fratello canta intonato, io canto con il cuore.",
     "de": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
     "luecke": "canta intonato",
-    "audio": "audio/it-de/saetze/mu_01.mp3"
+    "audio": "audio/it-de/saetze/mu_01.mp3?v=5b2f93fc"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri ha cantato intonato.",
-     "audio": "audio/it-de/saetze/mu_01_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_01_pc.mp3?v=8c5508fa"
     },
     "fp": {
      "fr": "Domani canterà intonato. Lui.",
-     "audio": "audio/it-de/saetze/mu_01_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_01_fp.mp3?v=d90067f7"
     }
    }
   },
@@ -2179,21 +2179,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "stonare",
    "notiz": "stonare = falsch singen, aus dem Ton fallen (auch: nicht dazupassen – questo colore stona); una stonatura = ein Missklang. forte = laut und stark.",
-   "audio": "audio/it-de/wendungen/mu_02.mp3",
+   "audio": "audio/it-de/wendungen/mu_02.mp3?v=9fa483f6",
    "satz": {
     "fr": "Stono, ma forte. Compensa.",
     "de": "Ich singe schief, aber laut. Das gleicht es aus.",
     "luecke": "Stono",
-    "audio": "audio/it-de/saetze/mu_02.mp3"
+    "audio": "audio/it-de/saetze/mu_02.mp3?v=cdddd9c8"
    },
    "zeit": {
     "pc": {
      "fr": "Ho stonato tutta la sera.",
-     "audio": "audio/it-de/saetze/mu_02_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_02_pc.mp3?v=6b6eaa8e"
     },
     "fp": {
      "fr": "Stonerò, ma con passione.",
-     "audio": "audio/it-de/saetze/mu_02_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_02_fp.mp3?v=ab95777f"
     }
    }
   },
@@ -2205,12 +2205,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "conoscere",
    "notiz": "il ritornello = Refrain (ritornare = zurückkehren – er kehrt immer wieder); la strofa = Strophe. conoscere = kennen, sapere = wissen/können.",
-   "audio": "audio/it-de/wendungen/mu_03.mp3",
+   "audio": "audio/it-de/wendungen/mu_03.mp3?v=5b6052db",
    "satz": {
     "fr": "Non conosco le parole, ma il ritornello sì.",
     "de": "Ich kenne den Text nicht, aber den Refrain.",
     "luecke": "ritornello",
-    "audio": "audio/it-de/saetze/mu_03.mp3"
+    "audio": "audio/it-de/saetze/mu_03.mp3?v=c57326de"
    },
    "zeit": null
   },
@@ -2222,12 +2222,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "il testo = Text (auch Schulbuch: il libro di testo); le parole di una canzone geht auch. la canzone = das Lied (Betonung can-ZO-ne).",
-   "audio": "audio/it-de/wendungen/mu_04.mp3",
+   "audio": "audio/it-de/wendungen/mu_04.mp3?v=442e30c9",
    "satz": {
     "fr": "Il testo di questa canzone mi fa venire la pelle d'oca.",
     "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
     "luecke": "testo",
-    "audio": "audio/it-de/saetze/mu_04.mp3"
+    "audio": "audio/it-de/saetze/mu_04.mp3?v=71fe0c7a"
    },
    "zeit": null
   },
@@ -2239,12 +2239,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "suonare",
    "notiz": "suonare = klingen, läuten, und ein Instrument spielen; suona bene/male. in italiano = auf Italienisch (ohne Artikel).",
-   "audio": "audio/it-de/wendungen/mu_05.mp3",
+   "audio": "audio/it-de/wendungen/mu_05.mp3?v=26f79f71",
    "satz": {
     "fr": "In italiano questa frase suona bene. In tedesco, meno.",
     "de": "Auf Italienisch klingt dieser Satz gut. Auf Deutsch weniger.",
     "luecke": "suona bene",
-    "audio": "audio/it-de/saetze/mu_05.mp3"
+    "audio": "audio/it-de/saetze/mu_05.mp3?v=5600bba8"
    },
    "zeit": null
   },
@@ -2256,12 +2256,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „Ohr haben“ (ohne Artikel) = musikalisches Gehör; l'orecchio, Plural le orecchie (weiblich!). subito = sofort.",
-   "audio": "audio/it-de/wendungen/mu_06.mp3",
+   "audio": "audio/it-de/wendungen/mu_06.mp3?v=f853c612",
    "satz": {
     "fr": "Giovanni ha orecchio: sente subito il mio accento tedesco.",
     "de": "Giovanni hat ein gutes Gehör: Er hört sofort meinen deutschen Akzent.",
     "luecke": "ha orecchio",
-    "audio": "audio/it-de/saetze/mu_06.mp3"
+    "audio": "audio/it-de/saetze/mu_06.mp3?v=9d7bc549"
    },
    "zeit": null
   },
@@ -2273,12 +2273,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "l'accento = Akzent (Aussprache und Schriftzeichen: è, perché); un misto di = eine Mischung aus; la buona volontà = der gute Wille.",
-   "audio": "audio/it-de/wendungen/mu_07.mp3",
+   "audio": "audio/it-de/wendungen/mu_07.mp3?v=c9fc133f",
    "satz": {
     "fr": "Il mio accento è un misto di Saarland e buona volontà.",
     "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "luecke": "accento",
-    "audio": "audio/it-de/saetze/mu_07.mp3"
+    "audio": "audio/it-de/saetze/mu_07.mp3?v=83c88637"
    },
    "zeit": null
   },
@@ -2290,12 +2290,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "amare",
    "notiz": "quello che … è … = was …, ist … (Hervorhebung); la lingua = Sprache und Zunge. di + l' = dell'.",
-   "audio": "audio/it-de/wendungen/mu_08.mp3",
+   "audio": "audio/it-de/wendungen/mu_08.mp3?v=658a2bcb",
    "satz": {
     "fr": "Quello che amo dell'italiano è la musica della lingua.",
     "de": "Was ich am Italienischen liebe, ist die Musik der Sprache.",
     "luecke": "la musica della lingua",
-    "audio": "audio/it-de/saetze/mu_08.mp3"
+    "audio": "audio/it-de/saetze/mu_08.mp3?v=a9cff195"
    },
    "zeit": null
   },
@@ -2307,21 +2307,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "suonare",
    "notiz": "suonare + Instrument mit Artikel (suonare la chitarra, il piano); giocare = spielen (Spiel, Sport: giocare a calcio). uno strumento (uno vor s + Konsonant).",
-   "audio": "audio/it-de/wendungen/mu_09.mp3",
+   "audio": "audio/it-de/wendungen/mu_09.mp3?v=ff24b0c2",
    "satz": {
     "fr": "Suoni uno strumento? – Sì, la chitarra, male.",
     "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "luecke": "Suoni uno strumento",
-    "audio": "audio/it-de/saetze/mu_09.mp3"
+    "audio": "audio/it-de/saetze/mu_09.mp3?v=63655abc"
    },
    "zeit": {
     "pc": {
      "fr": "Hai suonato uno strumento da piccolo?",
-     "audio": "audio/it-de/saetze/mu_09_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_09_pc.mp3?v=8e15e357"
     },
     "fp": {
      "fr": "Suonerai uno strumento? Spero di no.",
-     "audio": "audio/it-de/saetze/mu_09_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_09_fp.mp3?v=47f033bd"
     }
    }
   },
@@ -2333,21 +2333,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "ascoltare",
    "notiz": "in loop = Anglizismus, ganz normal; auch: a ripetizione. da tre giorni = seit drei Tagen, mit Präsens (ascolto … da).",
-   "audio": "audio/it-de/wendungen/mu_10.mp3",
+   "audio": "audio/it-de/wendungen/mu_10.mp3?v=f5e73812",
    "satz": {
     "fr": "Ascolto questa canzone in loop da tre giorni.",
     "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "luecke": "in loop",
-    "audio": "audio/it-de/saetze/mu_10.mp3"
+    "audio": "audio/it-de/saetze/mu_10.mp3?v=99698b00"
    },
    "zeit": {
     "pc": {
      "fr": "Ho ascoltato questa canzone in loop.",
-     "audio": "audio/it-de/saetze/mu_10_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_10_pc.mp3?v=69209fa1"
     },
     "fp": {
      "fr": "Ascolterò questa canzone in loop.",
-     "audio": "audio/it-de/saetze/mu_10_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_10_fp.mp3?v=8c0557ce"
     }
    }
   },
@@ -2359,21 +2359,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „ein Lied im Kopf haben“ (in testa, ohne Artikel); auch: un tormentone = der Ohrwurm, der Sommerhit. « Volare » = Modugnos Nel blu dipinto di blu (1958).",
-   "audio": "audio/it-de/wendungen/mu_11.mp3",
+   "audio": "audio/it-de/wendungen/mu_11.mp3?v=27b8c592",
    "satz": {
     "fr": "Ho « Volare » in testa da stamattina. Grazie, Giovanni.",
     "de": "Ich habe seit heute Morgen „Volare“ im Kopf. Danke, Giovanni.",
     "luecke": "in testa",
-    "audio": "audio/it-de/saetze/mu_11.mp3"
+    "audio": "audio/it-de/saetze/mu_11.mp3?v=b25d6a43"
    },
    "zeit": {
     "pc": {
      "fr": "Ho avuto « Volare » in testa tutto il giorno.",
-     "audio": "audio/it-de/saetze/mu_11_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_11_pc.mp3?v=f3e87567"
     },
     "fp": {
      "fr": "Avrò « Volare » in testa per giorni.",
-     "audio": "audio/it-de/saetze/mu_11_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_11_fp.mp3?v=2d967b84"
     }
    }
   },
@@ -2385,21 +2385,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "canticchiare",
    "notiz": "cantare + -icchiare (verniedlichend, beiläufig) = vor sich hin singen; mentre = während. lo sanno = sie wissen es (lo = es).",
-   "audio": "audio/it-de/wendungen/mu_12.mp3",
+   "audio": "audio/it-de/wendungen/mu_12.mp3?v=39c98b12",
    "satz": {
     "fr": "Canticchio mentre correggo i compiti. Gli alunni non lo sanno.",
     "de": "Ich summe beim Korrigieren. Die Schüler wissen es nicht.",
     "luecke": "Canticchio",
-    "audio": "audio/it-de/saetze/mu_12.mp3"
+    "audio": "audio/it-de/saetze/mu_12.mp3?v=55fb79cd"
    },
    "zeit": {
     "pc": {
      "fr": "Ho canticchiato tutta la mattina.",
-     "audio": "audio/it-de/saetze/mu_12_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_12_pc.mp3?v=fb7fafa2"
     },
     "fp": {
      "fr": "Canticchierò, sicuro.",
-     "audio": "audio/it-de/saetze/mu_12_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_12_fp.mp3?v=a26bb859"
     }
    }
   },
@@ -2411,12 +2411,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il ritmo (ohne y und h!); cadere = fallen. Meist Betonung auf der vorletzten Silbe (ca-SA, a-MI-co), Ausnahmen mit Akzent (cit-TÀ) oder sdrucciole (TA-vo-lo).",
-   "audio": "audio/it-de/wendungen/mu_13.mp3",
+   "audio": "audio/it-de/wendungen/mu_13.mp3?v=b1173846",
    "satz": {
     "fr": "L'italiano ha un ritmo: l'accento cade sulla penultima sillaba.",
     "de": "Das Italienische hat einen Rhythmus: Der Akzent fällt auf die vorletzte Silbe.",
     "luecke": "ritmo",
-    "audio": "audio/it-de/saetze/mu_13.mp3"
+    "audio": "audio/it-de/saetze/mu_13.mp3?v=a90b697f"
    },
    "zeit": null
   },
@@ -2428,12 +2428,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "le doppie (consonanti) = Doppelkonsonanten, für Deutsche die Hauptfalle: wirklich länger sprechen! pala (Schaufel) / palla (Ball), nono (neunter) / nonno (Opa).",
-   "audio": "audio/it-de/wendungen/mu_14.mp3",
+   "audio": "audio/it-de/wendungen/mu_14.mp3?v=3470bcec",
    "satz": {
     "fr": "Pala e palla, nono e nonno: le doppie sono la musica tra le lettere.",
     "de": "Pala und palla, nono und nonno: Die Doppelkonsonanten sind die Musik zwischen den Buchstaben.",
     "luecke": "le doppie",
-    "audio": "audio/it-de/saetze/mu_14.mp3"
+    "audio": "audio/it-de/saetze/mu_14.mp3?v=5aa82dd0"
    },
    "zeit": null
   },
@@ -2445,21 +2445,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "riuscire",
    "notiz": "pronunciare (mit c, anders als im Deutschen); non riesco a + Infinitiv = ich schaffe es nicht zu (riuscire mit essere: sono riuscito). gli = [ʎi], wie „lj“ in Familie.",
-   "audio": "audio/it-de/wendungen/mu_15.mp3",
+   "audio": "audio/it-de/wendungen/mu_15.mp3?v=0ee8525f",
    "satz": {
     "fr": "Non riesco a pronunciare « gli ». Dico « li ». Giovanni sorride.",
     "de": "Ich schaffe es nicht, „gli“ auszusprechen. Ich sage „li“. Giovanni lächelt.",
     "luecke": "pronunciare",
-    "audio": "audio/it-de/saetze/mu_15.mp3"
+    "audio": "audio/it-de/saetze/mu_15.mp3?v=9340b4d7"
    },
    "zeit": {
     "pc": {
      "fr": "Non sono riuscito a pronunciare « gli ».",
-     "audio": "audio/it-de/saetze/mu_15_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_15_pc.mp3?v=05a3a880"
     },
     "fp": {
      "fr": "Riuscirò a pronunciare « gli ». Un giorno.",
-     "audio": "audio/it-de/saetze/mu_15_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_15_fp.mp3?v=0c9439b9"
     }
    }
   },
@@ -2471,12 +2471,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "rendere",
    "notiz": "un brano = Stück (Musik, Text: un brano di un libro); un pezzo geht auch. allo stesso tempo = gleichzeitig.",
-   "audio": "audio/it-de/wendungen/mu_16.mp3",
+   "audio": "audio/it-de/wendungen/mu_16.mp3?v=122ba458",
    "satz": {
     "fr": "Questo brano per pianoforte mi rende felice e triste allo stesso tempo.",
     "de": "Dieses Klavierstück macht mich gleichzeitig glücklich und traurig.",
     "luecke": "brano",
-    "audio": "audio/it-de/saetze/mu_16.mp3"
+    "audio": "audio/it-de/saetze/mu_16.mp3?v=01b8ec06"
    },
    "zeit": null
   },
@@ -2488,12 +2488,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cantare",
    "notiz": "wörtlich „kehlenzerreißend“ (squarciare = zerreißen, la gola = Kehle); cantare/urlare a squarciagola. in macchina = im Auto.",
-   "audio": "audio/it-de/wendungen/mu_17.mp3",
+   "audio": "audio/it-de/wendungen/mu_17.mp3?v=942a55c9",
    "satz": {
     "fr": "In macchina canto a squarciagola. Da solo. Sempre da solo.",
     "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "luecke": "a squarciagola",
-    "audio": "audio/it-de/saetze/mu_17.mp3"
+    "audio": "audio/it-de/saetze/mu_17.mp3?v=ae1db476"
    },
    "zeit": null
   },
@@ -2505,12 +2505,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "bassa = tief (Stimme; auch: niedrig, leise – a voce bassa = leise); acuta = hoch, spitz. una voce da prof = eine Lehrerstimme (da = typisch für).",
-   "audio": "audio/it-de/wendungen/mu_18.mp3",
+   "audio": "audio/it-de/wendungen/mu_18.mp3?v=3f50fbaf",
    "satz": {
     "fr": "Lui ha una voce bassa, lei una voce acuta, e io ho una voce da prof.",
     "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "luecke": "voce bassa",
-    "audio": "audio/it-de/saetze/mu_18.mp3"
+    "audio": "audio/it-de/saetze/mu_18.mp3?v=71d93ba7"
    },
    "zeit": null
   },
@@ -2522,12 +2522,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "parlare",
    "notiz": "wörtlich „es spricht mir“; mi parla = das sagt mir etwas. non mi dice niente = sagt mir nichts. capire = verstehen (capisco, -isc-).",
-   "audio": "audio/it-de/wendungen/mu_19.mp3",
+   "audio": "audio/it-de/wendungen/mu_19.mp3?v=38c3f347",
    "satz": {
     "fr": "Questa canzone mi parla. Non capisco tutto, ma mi parla.",
     "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "luecke": "mi parla",
-    "audio": "audio/it-de/saetze/mu_19.mp3"
+    "audio": "audio/it-de/saetze/mu_19.mp3?v=d1efe597"
    },
    "zeit": null
   },
@@ -2539,21 +2539,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "imparare",
    "notiz": "wörtlich „nach Gedächtnis lernen“ (a memoria); imparare = lernen (studiare = lernen für die Schule). il vocabolario = Wortschatz und Wörterbuch.",
-   "audio": "audio/it-de/wendungen/mu_20.mp3",
+   "audio": "audio/it-de/wendungen/mu_20.mp3?v=12696474",
    "satz": {
     "fr": "Imparo i testi a memoria, è il mio vocabolario preferito.",
     "de": "Ich lerne die Liedtexte auswendig, das ist mein Lieblingswortschatz.",
     "luecke": "Imparo i testi a memoria",
-    "audio": "audio/it-de/saetze/mu_20.mp3"
+    "audio": "audio/it-de/saetze/mu_20.mp3?v=af65df01"
    },
    "zeit": {
     "pc": {
      "fr": "Ho imparato il testo a memoria.",
-     "audio": "audio/it-de/saetze/mu_20_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_20_pc.mp3?v=690a8bf9"
     },
     "fp": {
      "fr": "Imparerò il testo a memoria.",
-     "audio": "audio/it-de/saetze/mu_20_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_20_fp.mp3?v=1a44d48c"
     }
    }
   },
@@ -2565,21 +2565,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sbagliare",
    "notiz": "sbagliare + Nomen ohne Artikel = das Falsche erwischen: sbagliare strada, porta, numero. sbagliare = sich irren; uno sbaglio = ein Fehler. sbagliando s'impara.",
-   "audio": "audio/it-de/wendungen/mu_21.mp3",
+   "audio": "audio/it-de/wendungen/mu_21.mp3?v=b3b27f9e",
    "satz": {
     "fr": "Sbaglio spesso parola, ma la melodia è giusta.",
     "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
     "luecke": "Sbaglio spesso parola",
-    "audio": "audio/it-de/saetze/mu_21.mp3"
+    "audio": "audio/it-de/saetze/mu_21.mp3?v=71d6fe46"
    },
    "zeit": {
     "pc": {
      "fr": "Ho sbagliato parola. Di nuovo.",
-     "audio": "audio/it-de/saetze/mu_21_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_21_pc.mp3?v=9b3f3d9d"
     },
     "fp": {
      "fr": "Sbaglierò parola, lo so.",
-     "audio": "audio/it-de/saetze/mu_21_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_21_fp.mp3?v=28f82caa"
     }
    }
   },
@@ -2591,21 +2591,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare bene a qualcuno = guttun; Gegenteil: fare male = wehtun (mi fa male la testa). Infinitiv als Subjekt: cantare … mi fa bene.",
-   "audio": "audio/it-de/wendungen/mu_22.mp3",
+   "audio": "audio/it-de/wendungen/mu_22.mp3?v=66127a77",
    "satz": {
     "fr": "Cantare la sera mi fa bene.",
     "de": "Abends singen tut mir gut.",
     "luecke": "mi fa bene",
-    "audio": "audio/it-de/saetze/mu_22.mp3"
+    "audio": "audio/it-de/saetze/mu_22.mp3?v=6e90f8a6"
    },
    "zeit": {
     "pc": {
      "fr": "Cantare mi ha fatto bene.",
-     "audio": "audio/it-de/saetze/mu_22_pc.mp3"
+     "audio": "audio/it-de/saetze/mu_22_pc.mp3?v=7b2a917d"
     },
     "fp": {
      "fr": "Cantare mi farà bene.",
-     "audio": "audio/it-de/saetze/mu_22_fp.mp3"
+     "audio": "audio/it-de/saetze/mu_22_fp.mp3?v=776ab93d"
     }
    }
   },
@@ -2617,12 +2617,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "cantata = gesungen (Partizip als Adjektiv); auch: una lingua musicale, cantilenante. lamentarsi = sich beklagen; ci si lamenta = man beklagt sich (si + si → ci si).",
-   "audio": "audio/it-de/wendungen/mu_23.mp3",
+   "audio": "audio/it-de/wendungen/mu_23.mp3?v=13b44cfb",
    "satz": {
     "fr": "L'italiano è una lingua cantata. Anche quando ci si lamenta.",
     "de": "Italienisch ist eine gesungene Sprache. Auch beim Jammern.",
     "luecke": "lingua cantata",
-    "audio": "audio/it-de/saetze/mu_23.mp3"
+    "audio": "audio/it-de/saetze/mu_23.mp3?v=4291f1c5"
    },
    "zeit": null
   },
@@ -2634,12 +2634,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "potere",
    "notiz": "potrebbe = Konditional, Lei-Form; più lentamente = langsamer (Komparativ mit più); auch: più piano. scusi = Lei-Form von scusare.",
-   "audio": "audio/it-de/wendungen/mu_24.mp3",
+   "audio": "audio/it-de/wendungen/mu_24.mp3?v=1359b1f4",
    "satz": {
     "fr": "Scusi, potrebbe ripetere più lentamente? Ascolto la musica, non le parole.",
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "potrebbe ripetere più lentamente",
-    "audio": "audio/it-de/saetze/mu_24.mp3"
+    "audio": "audio/it-de/saetze/mu_24.mp3?v=37154f6e"
    },
    "zeit": null
   },
@@ -2651,12 +2651,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "wörtlich „es gab ein Mal“ (c'era = imperfetto von c'è) – der Märchenanfang. la favola = Fabel, Märchen; la fiaba = Märchen (Grimm, Andersen).",
-   "audio": "audio/it-de/wendungen/st_01.mp3",
+   "audio": "audio/it-de/wendungen/st_01.mp3?v=344d275a",
    "satz": {
     "fr": "C'era una volta un professore che non correggeva mai i compiti. È una favola.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "C'era una volta",
-    "audio": "audio/it-de/saetze/st_01.mp3"
+    "audio": "audio/it-de/saetze/st_01.mp3?v=88d2b836"
    },
    "zeit": null
   },
@@ -2668,21 +2668,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "raccontare",
    "notiz": "raccontare qualcosa a qualcuno; il racconto = Erzählung, Kurzgeschichte. addormentarsi = einschlafen (dormire = schlafen). prima di = vor.",
-   "audio": "audio/it-de/wendungen/st_02.mp3",
+   "audio": "audio/it-de/wendungen/st_02.mp3?v=991e93ca",
    "satz": {
     "fr": "La sera racconto una storia al mio gatto. Si addormenta prima della fine.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "racconto una storia",
-    "audio": "audio/it-de/saetze/st_02.mp3"
+    "audio": "audio/it-de/saetze/st_02.mp3?v=e64c88b7"
    },
    "zeit": {
     "pc": {
      "fr": "Ho raccontato una storia al mio gatto.",
-     "audio": "audio/it-de/saetze/st_02_pc.mp3"
+     "audio": "audio/it-de/saetze/st_02_pc.mp3?v=88ed0141"
     },
     "fp": {
      "fr": "Racconterò una storia al mio gatto.",
-     "audio": "audio/it-de/saetze/st_02_fp.mp3"
+     "audio": "audio/it-de/saetze/st_02_fp.mp3?v=0e18f639"
     }
    }
   },
@@ -2694,12 +2694,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cominciare",
    "notiz": "la ricerca = Suche, Forschung (cercare = suchen); la ricerca del Graal. il romanzo = der Roman (nicht „Romanze“!). anche se = auch wenn.",
-   "audio": "audio/it-de/wendungen/st_03.mp3",
+   "audio": "audio/it-de/wendungen/st_03.mp3?v=cd089639",
    "satz": {
     "fr": "Ogni buon romanzo comincia con una ricerca. Anche se è solo cercare le chiavi.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur die Schlüsselsuche ist.",
     "luecke": "ricerca",
-    "audio": "audio/it-de/saetze/st_03.mp3"
+    "audio": "audio/it-de/saetze/st_03.mp3?v=5a419b91"
    },
    "zeit": null
   },
@@ -2711,12 +2711,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "il folto = das Dickicht (folto = dicht); nel folto del bosco = im tiefsten Wald. il bosco = Wald, la foresta = großer Wald. in + il = nel, in + la = nella.",
-   "audio": "audio/it-de/wendungen/st_04.mp3",
+   "audio": "audio/it-de/wendungen/st_04.mp3?v=09487a71",
    "satz": {
     "fr": "Nel folto del bosco c'era una casa. E nella casa, una luce.",
     "de": "Tief im Wald stand ein Haus. Und in dem Haus ein Licht.",
     "luecke": "Nel folto del bosco",
-    "audio": "audio/it-de/saetze/st_04.mp3"
+    "audio": "audio/it-de/saetze/st_04.mp3?v=3da46d21"
    },
    "zeit": null
   },
@@ -2728,12 +2728,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sputare",
    "notiz": "il drago, Plural i draghi (gh für harten Laut); sputare fuoco = Feuer speien (sputare = spucken). Imperfetto sputava = Beschreibung.",
-   "audio": "audio/it-de/wendungen/st_05.mp3",
+   "audio": "audio/it-de/wendungen/st_05.mp3?v=f7f7212b",
    "satz": {
     "fr": "Il drago non sputava fuoco. Sputava compiti.",
     "de": "Der Drache spie kein Feuer. Er spie Hausaufgaben.",
     "luecke": "drago",
-    "audio": "audio/it-de/saetze/st_05.mp3"
+    "audio": "audio/it-de/saetze/st_05.mp3?v=fcb9eb66"
    },
    "zeit": null
   },
@@ -2745,12 +2745,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendere",
    "notiz": "la spada = Schwert; pesante = schwer (Gewicht; schwierig = difficile). ha preso = prendere, Partizip preso.",
-   "audio": "audio/it-de/wendungen/st_06.mp3",
+   "audio": "audio/it-de/wendungen/st_06.mp3?v=ca5ac586",
    "satz": {
     "fr": "L'eroe ha preso la sua spada. Era pesante, come un lunedì.",
     "de": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "luecke": "spada",
-    "audio": "audio/it-de/saetze/st_06.mp3"
+    "audio": "audio/it-de/saetze/st_06.mp3?v=b6bf1403"
    },
    "zeit": null
   },
@@ -2762,12 +2762,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "trasformare",
    "notiz": "l'incantesimo = Zauber, Bann (incantare = verzaubern; incantevole = bezaubernd); fare un incantesimo. durare = dauern (mit essere: è durato).",
-   "audio": "audio/it-de/wendungen/st_07.mp3",
+   "audio": "audio/it-de/wendungen/st_07.mp3?v=d4a21851",
    "satz": {
     "fr": "Un incantesimo ha trasformato la classe in silenzio. È durato solo tre minuti.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es dauerte nur drei Minuten.",
     "luecke": "incantesimo",
-    "audio": "audio/it-de/saetze/st_07.mp3"
+    "audio": "audio/it-de/saetze/st_07.mp3?v=86c40ead"
    },
    "zeit": null
   },
@@ -2779,12 +2779,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "aprirsi",
    "notiz": "wörtlich „ins Unvorhergesehene“ (improvviso = unerwartet); synonym: d'un tratto, di colpo. si è aperta = aprirsi, Partizip aperto.",
-   "audio": "audio/it-de/wendungen/st_08.mp3",
+   "audio": "audio/it-de/wendungen/st_08.mp3?v=2c3df713",
    "satz": {
     "fr": "All'improvviso la porta si è aperta. Nessuno. Solo il vento. Spero.",
     "de": "Plötzlich öffnete sich die Tür. Niemand. Nur der Wind. Hoffe ich.",
     "luecke": "All'improvviso",
-    "audio": "audio/it-de/saetze/st_08.mp3"
+    "audio": "audio/it-de/saetze/st_08.mp3?v=0518c94d"
    },
    "zeit": null
   },
@@ -2796,12 +2796,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il segreto = Geheimnis; segreto auch Adjektiv (un passaggio segreto). tutti = alle (Plural-Verb: tutti hanno). anche = auch, sogar.",
-   "audio": "audio/it-de/wendungen/st_09.mp3",
+   "audio": "audio/it-de/wendungen/st_09.mp3?v=cd44cbc8",
    "satz": {
     "fr": "In questa storia tutti hanno un segreto. Anche il gatto.",
     "de": "In dieser Geschichte hat jeder ein Geheimnis. Sogar die Katze.",
     "luecke": "hanno un segreto",
-    "audio": "audio/it-de/saetze/st_09.mp3"
+    "audio": "audio/it-de/saetze/st_09.mp3?v=4f4c0ae8"
    },
    "zeit": null
   },
@@ -2813,12 +2813,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "parlare",
    "notiz": "il regno = Königreich (il re = König, la regina = Königin; regnare = herrschen); il Regno Unito. la gente = die Leute (Singular!): la gente ascoltava.",
-   "audio": "audio/it-de/wendungen/st_10.mp3",
+   "audio": "audio/it-de/wendungen/st_10.mp3?v=aae948d9",
    "satz": {
     "fr": "In quel regno i libri parlavano e la gente ascoltava.",
     "de": "In jenem Königreich sprachen die Bücher, und die Leute hörten zu.",
     "luecke": "regno",
-    "audio": "audio/it-de/saetze/st_10.mp3"
+    "audio": "audio/it-de/saetze/st_10.mp3?v=190ec0cc"
    },
    "zeit": null
   },
@@ -2830,12 +2830,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il mago = Zauberer (la maga = Zauberin), la strega = Hexe (lo stregone = Hexenmeister); stregare = verhexen. la capisco = ich verstehe sie (la vor dem Verb).",
-   "audio": "audio/it-de/wendungen/st_11.mp3",
+   "audio": "audio/it-de/wendungen/st_11.mp3?v=4bf96144",
    "satz": {
     "fr": "La strega non era cattiva. Era stanca. La capisco.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "strega",
-    "audio": "audio/it-de/saetze/st_11.mp3"
+    "audio": "audio/it-de/saetze/st_11.mp3?v=85aff0fb"
    },
    "zeit": null
   },
@@ -2847,21 +2847,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "trasformarsi",
    "notiz": "trasformarsi in + Nomen ohne Artikel: in lettore, in rana. a mezzanotte = um Mitternacht; fino a = bis; le due del mattino = zwei Uhr nachts.",
-   "audio": "audio/it-de/wendungen/st_12.mp3",
+   "audio": "audio/it-de/wendungen/st_12.mp3?v=45da5033",
    "satz": {
     "fr": "A mezzanotte il prof si trasforma in lettore. Fino alle due del mattino.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "si trasforma in",
-    "audio": "audio/it-de/saetze/st_12.mp3"
+    "audio": "audio/it-de/saetze/st_12.mp3?v=231f9731"
    },
    "zeit": {
     "pc": {
      "fr": "Si è trasformato in lettore.",
-     "audio": "audio/it-de/saetze/st_12_pc.mp3"
+     "audio": "audio/it-de/saetze/st_12_pc.mp3?v=e73aafd6"
     },
     "fp": {
      "fr": "Si trasformerà in lettore.",
-     "audio": "audio/it-de/saetze/st_12_fp.mp3"
+     "audio": "audio/it-de/saetze/st_12_fp.mp3?v=14905c22"
     }
    }
   },
@@ -2873,12 +2873,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "wörtlich „auf einen Zug“ (il tratto = Strich, Strecke); a un tratto / d'un tratto = auf einmal. prof = Anrede für Lehrer (statt „Herr X“). quand'è = quando è.",
-   "audio": "audio/it-de/wendungen/st_13.mp3",
+   "audio": "audio/it-de/wendungen/st_13.mp3?v=46cbae9a",
    "satz": {
     "fr": "A un tratto, silenzio. Poi una voce: « Prof, quand'è la pausa? »",
     "de": "Auf einmal Stille. Dann eine Stimme: „Herr Lehrer, wann ist Pause?“",
     "luecke": "A un tratto",
-    "audio": "audio/it-de/saetze/st_13.mp3"
+    "audio": "audio/it-de/saetze/st_13.mp3?v=5d72cc3d"
    },
    "zeit": null
   },
@@ -2890,12 +2890,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "l'eroe (männlich, Plural gli eroi), l'eroina (weiblich – auch das Rauschgift!). per questo = deshalb; coraggioso = mutig (il coraggio).",
-   "audio": "audio/it-de/wendungen/st_14.mp3",
+   "audio": "audio/it-de/wendungen/st_14.mp3?v=fa834882",
    "satz": {
     "fr": "L'eroe del mio romanzo preferito ha paura di tutto. Per questo è coraggioso.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "eroe",
-    "audio": "audio/it-de/saetze/st_14.mp3"
+    "audio": "audio/it-de/saetze/st_14.mp3?v=ba08269a"
    },
    "zeit": null
   },
@@ -2907,12 +2907,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il cattivo = der Böse (Adjektiv cattivo = schlecht, böse); il buono = der Gute. la sveglia = Wecker (svegliarsi = aufwachen). ogni giorno = jeden Tag.",
-   "audio": "audio/it-de/wendungen/st_15.mp3",
+   "audio": "audio/it-de/wendungen/st_15.mp3?v=f039c73f",
    "satz": {
     "fr": "Il cattivo della storia è la sveglia. Le sei. Ogni giorno.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "cattivo",
-    "audio": "audio/it-de/saetze/st_15.mp3"
+    "audio": "audio/it-de/saetze/st_15.mp3?v=2c47b514"
    },
    "zeit": null
   },
@@ -2924,12 +2924,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "trovare",
    "notiz": "la mappa = Landkarte, il tesoro = Schatz; la piantina = Lageplan, Grundriss (la pianta = Pflanze und Plan). il quaderno = Heft; la mensa = Schulmensa.",
-   "audio": "audio/it-de/wendungen/st_16.mp3",
+   "audio": "audio/it-de/wendungen/st_16.mp3?v=7bba5a4a",
    "satz": {
     "fr": "Ho trovato una mappa del tesoro in un quaderno. Era la piantina della mensa.",
     "de": "Ich habe in einem Heft eine Schatzkarte gefunden. Es war der Plan der Mensa.",
     "luecke": "mappa del tesoro",
-    "audio": "audio/it-de/saetze/st_16.mp3"
+    "audio": "audio/it-de/saetze/st_16.mp3?v=3d5be3f4"
    },
    "zeit": null
   },
@@ -2941,12 +2941,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "parere",
    "notiz": "pare che + congiuntivo (esista, dorma) = angeblich, es scheint (parere = scheinen); auch: si dice che, sembra che. l'aula = Klassenraum (nicht „Aula“ = l'aula magna). ci = dort.",
-   "audio": "audio/it-de/wendungen/st_17.mp3",
+   "audio": "audio/it-de/wendungen/st_17.mp3?v=07c109ad",
    "satz": {
     "fr": "Pare che l'aula 13 esista. Pare anche che il gatto ci dorma.",
     "de": "Es heißt, Raum 13 existiere. Es heißt auch, die Katze schlafe dort.",
     "luecke": "Pare che",
-    "audio": "audio/it-de/saetze/st_17.mp3"
+    "audio": "audio/it-de/saetze/st_17.mp3?v=01accb78"
    },
    "zeit": null
   },
@@ -2958,21 +2958,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sparire",
    "notiz": "sparire mit -isc- (sparisco, sparisce), Partizip sparito, mit essere; auch: scomparire. la penna = Kugelschreiber (und Feder); la gente sparisce = Singular!",
-   "audio": "audio/it-de/wendungen/st_18.mp3",
+   "audio": "audio/it-de/wendungen/st_18.mp3?v=7723d9e1",
    "satz": {
     "fr": "In questo romanzo la gente sparisce. Nella mia classe, le penne.",
     "de": "In diesem Roman verschwinden die Leute. In meiner Klasse die Stifte.",
     "luecke": "sparisce",
-    "audio": "audio/it-de/saetze/st_18.mp3"
+    "audio": "audio/it-de/saetze/st_18.mp3?v=b841619e"
    },
    "zeit": {
     "pc": {
      "fr": "Le penne sono sparite.",
-     "audio": "audio/it-de/saetze/st_18_pc.mp3"
+     "audio": "audio/it-de/saetze/st_18_pc.mp3?v=c2a08866"
     },
     "fp": {
      "fr": "Le penne spariranno.",
-     "audio": "audio/it-de/saetze/st_18_fp.mp3"
+     "audio": "audio/it-de/saetze/st_18_fp.mp3?v=cc00ac6f"
     }
    }
   },
@@ -2984,12 +2984,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "leggere",
    "notiz": "il seguito = Fortsetzung (seguire = folgen); « continua » = Fortsetzung folgt; in seguito = anschließend, später. subito = sofort.",
-   "audio": "audio/it-de/wendungen/st_19.mp3",
+   "audio": "audio/it-de/wendungen/st_19.mp3?v=f634c49e",
    "satz": {
     "fr": "Voglio leggere il seguito subito. Ma è mezzanotte. Leggo il seguito.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "seguito",
-    "audio": "audio/it-de/saetze/st_19.mp3"
+    "audio": "audio/it-de/saetze/st_19.mp3?v=9c998d7a"
    },
    "zeit": null
   },
@@ -3001,12 +3001,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "tenere",
    "notiz": "wörtlich „mit angehaltenem Atem“ (il fiato = Atem, sospeso = angehalten, schwebend); tenere con il fiato sospeso = in Spannung halten. da tre notti = seit drei Nächten.",
-   "audio": "audio/it-de/wendungen/st_20.mp3",
+   "audio": "audio/it-de/wendungen/st_20.mp3?v=cf78253a",
    "satz": {
     "fr": "Questo libro mi tiene con il fiato sospeso da tre notti.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "con il fiato sospeso",
-    "audio": "audio/it-de/saetze/st_20.mp3"
+    "audio": "audio/it-de/saetze/st_20.mp3?v=475a3d1f"
    },
    "zeit": null
   },
@@ -3018,21 +3018,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "rabbrividire",
    "notiz": "rabbrividire = schaudern (il brivido = Schauer; brividi = Gänsehaut-Gefühl), mit -isc-: rabbrividisco. il fantasy = das Genre (männlich im Italienischen).",
-   "audio": "audio/it-de/wendungen/st_21.mp3",
+   "audio": "audio/it-de/wendungen/st_21.mp3?v=895cae39",
    "satz": {
     "fr": "Rabbrividisco a ogni capitolo. E continuo. È questo, il fantasy.",
     "de": "Ich schaudere bei jedem Kapitel. Und mache weiter. Das ist Fantasy.",
     "luecke": "Rabbrividisco",
-    "audio": "audio/it-de/saetze/st_21.mp3"
+    "audio": "audio/it-de/saetze/st_21.mp3?v=89d322bf"
    },
    "zeit": {
     "pc": {
      "fr": "Ho rabbrividito a ogni capitolo.",
-     "audio": "audio/it-de/saetze/st_21_pc.mp3"
+     "audio": "audio/it-de/saetze/st_21_pc.mp3?v=5fe04932"
     },
     "fp": {
      "fr": "Rabbrividirò, lo so già.",
-     "audio": "audio/it-de/saetze/st_21_fp.mp3"
+     "audio": "audio/it-de/saetze/st_21_fp.mp3?v=1803eeb2"
     }
    }
   },
@@ -3044,12 +3044,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "wörtlich „Bühnenschlag“ (il colpo = Schlag, la scena = Bühne, Szene) = Überraschungswendung, Theaterbegriff. fin dall'inizio = von Anfang an.",
-   "audio": "audio/it-de/wendungen/st_22.mp3",
+   "audio": "audio/it-de/wendungen/st_22.mp3?v=2b210f29",
    "satz": {
     "fr": "Un colpo di scena a pagina 200: il gatto era il re fin dall'inizio.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "colpo di scena",
-    "audio": "audio/it-de/saetze/st_22.mp3"
+    "audio": "audio/it-de/saetze/st_22.mp3?v=a9bdfc59"
    },
    "zeit": null
   },
@@ -3061,12 +3061,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "raccontare",
    "notiz": "la fine = das Ende (weiblich); il fine = der Zweck, das Ziel (männlich!). non la racconto (la = die fine). leggi = Imperativ von leggere.",
-   "audio": "audio/it-de/wendungen/st_23.mp3",
+   "audio": "audio/it-de/wendungen/st_23.mp3?v=1e5f580f",
    "satz": {
     "fr": "La fine di questa storia? Non la racconto. Leggi il libro.",
     "de": "Das Ende dieser Geschichte? Ich erzähle es nicht. Lies das Buch.",
     "luecke": "fine",
-    "audio": "audio/it-de/saetze/st_23.mp3"
+    "audio": "audio/it-de/saetze/st_23.mp3?v=8c6d8407"
    },
    "zeit": null
   },
@@ -3078,12 +3078,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "consigliare",
    "notiz": "consigliare = raten, empfehlen (il consiglio = Rat); mi potrebbe = Pronomen vor dem konjugierten Verb (oder potrebbe consigliarmi). un po' = un poco.",
-   "audio": "audio/it-de/wendungen/st_24.mp3",
+   "audio": "audio/it-de/wendungen/st_24.mp3?v=2c58759b",
    "satz": {
     "fr": "Buongiorno, mi potrebbe consigliare un libro? Un po' cupo, un po' magico.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "mi potrebbe consigliare un libro",
-    "audio": "audio/it-de/saetze/st_24.mp3"
+    "audio": "audio/it-de/saetze/st_24.mp3?v=67124159"
    },
    "zeit": null
   },
@@ -3095,21 +3095,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "allenarsi",
    "notiz": "allenarsi = trainieren (reflexiv); allenare = trainieren als Trainer; l'allenamento = Training, l'allenatore = Trainer (auch: il mister beim Fußball). a settimana = pro Woche.",
-   "audio": "audio/it-de/wendungen/sp_01.mp3",
+   "audio": "audio/it-de/wendungen/sp_01.mp3?v=2a2b3196",
    "satz": {
     "fr": "Mi alleno tre volte a settimana. Due, se sono onesto.",
     "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "luecke": "Mi alleno",
-    "audio": "audio/it-de/saetze/sp_01.mp3"
+    "audio": "audio/it-de/saetze/sp_01.mp3?v=3d91dfc7"
    },
    "zeit": {
     "pc": {
      "fr": "Mi sono allenato tre volte.",
-     "audio": "audio/it-de/saetze/sp_01_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_01_pc.mp3?v=703ab63b"
     },
     "fp": {
      "fr": "Mi allenerò tre volte. Forse due.",
-     "audio": "audio/it-de/saetze/sp_01_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_01_fp.mp3?v=d6b65c5d"
     }
    }
   },
@@ -3121,12 +3121,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il calcio = Tritt und Fußball (und Kalzium!); dare un calcio = treten. prima di tutto = zuallererst.",
-   "audio": "audio/it-de/wendungen/sp_02.mp3",
+   "audio": "audio/it-de/wendungen/sp_02.mp3?v=12759d3e",
    "satz": {
     "fr": "Un buon calcio è prima di tutto una buona posizione.",
     "de": "Ein guter Tritt ist zuerst eine gute Position.",
     "luecke": "calcio",
-    "audio": "audio/it-de/saetze/sp_02.mp3"
+    "audio": "audio/it-de/saetze/sp_02.mp3?v=bdeb6ca9"
    },
    "zeit": null
   },
@@ -3138,12 +3138,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "partire",
    "notiz": "il pugno = Faust und Fausthieb (gn = [ɲ]); il fianco = Hüfte, Seite; il braccio = Arm, Plural le braccia (weiblich!). da + il = dal.",
-   "audio": "audio/it-de/wendungen/sp_03.mp3",
+   "audio": "audio/it-de/wendungen/sp_03.mp3?v=220d002b",
    "satz": {
     "fr": "Nel kung fu il pugno parte dal fianco, non dal braccio.",
     "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
     "luecke": "pugno",
-    "audio": "audio/it-de/saetze/sp_03.mp3"
+    "audio": "audio/it-de/saetze/sp_03.mp3?v=b19874f6"
    },
    "zeit": null
   },
@@ -3155,12 +3155,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "allenarsi",
    "notiz": "la flessibilità = Beweglichkeit, Flexibilität (flessibile); auch: l'elasticità. se ne va = sie geht weg (andarsene). altrimenti = sonst.",
-   "audio": "audio/it-de/wendungen/sp_04.mp3",
+   "audio": "audio/it-de/wendungen/sp_04.mp3?v=214d3b31",
    "satz": {
     "fr": "A quarant'anni la flessibilità si allena ogni giorno. Altrimenti se ne va.",
     "de": "Mit vierzig trainiert man die Beweglichkeit jeden Tag. Sonst geht sie.",
     "luecke": "flessibilità",
-    "audio": "audio/it-de/saetze/sp_04.mp3"
+    "audio": "audio/it-de/saetze/sp_04.mp3?v=fb5a3447"
    },
    "zeit": null
   },
@@ -3172,21 +3172,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "mantenere",
    "notiz": "mantenere = bewahren, aufrechterhalten (tenere = halten); la calma = Ruhe; calma! = ruhig! il combattimento = der Kampf. respirare = atmen.",
-   "audio": "audio/it-de/wendungen/sp_05.mp3",
+   "audio": "audio/it-de/wendungen/sp_05.mp3?v=890ae3fb",
    "satz": {
     "fr": "In combattimento come in classe: mantenere la calma, respirare, aspettare.",
     "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, warten.",
     "luecke": "mantenere la calma",
-    "audio": "audio/it-de/saetze/sp_05.mp3"
+    "audio": "audio/it-de/saetze/sp_05.mp3?v=1926e597"
    },
    "zeit": {
     "pc": {
      "fr": "Ho mantenuto la calma.",
-     "audio": "audio/it-de/saetze/sp_05_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_05_pc.mp3?v=2568e293"
     },
     "fp": {
      "fr": "Manterrò la calma. Spero.",
-     "audio": "audio/it-de/saetze/sp_05_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_05_fp.mp3?v=9a077759"
     }
    }
   },
@@ -3198,21 +3198,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "riscaldarsi",
    "notiz": "riscaldarsi = sich aufwärmen (caldo = warm; il riscaldamento = Aufwärmen und Heizung!). la schiena = Rücken; ringraziare = danken.",
-   "audio": "audio/it-de/wendungen/sp_06.mp3",
+   "audio": "audio/it-de/wendungen/sp_06.mp3?v=26e52ddb",
    "satz": {
     "fr": "Prima di allenarmi mi riscaldo dieci minuti. La mia schiena ringrazia.",
     "de": "Bevor ich trainiere, wärme ich mich zehn Minuten auf. Mein Rücken dankt.",
     "luecke": "mi riscaldo",
-    "audio": "audio/it-de/saetze/sp_06.mp3"
+    "audio": "audio/it-de/saetze/sp_06.mp3?v=1638ada3"
    },
    "zeit": {
     "pc": {
      "fr": "Mi sono riscaldato dieci minuti.",
-     "audio": "audio/it-de/saetze/sp_06_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_06_pc.mp3?v=9dde4985"
     },
     "fp": {
      "fr": "Mi riscalderò dieci minuti.",
-     "audio": "audio/it-de/saetze/sp_06_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_06_fp.mp3?v=5dd74643"
     }
    }
   },
@@ -3224,21 +3224,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "wörtlich „schmerzende Muskeln haben“ (indolenzito = steif, schmerzend; il dolore = Schmerz); kein eigenes Wort für Muskelkater. dappertutto = überall.",
-   "audio": "audio/it-de/wendungen/sp_07.mp3",
+   "audio": "audio/it-de/wendungen/sp_07.mp3?v=96410fff",
    "satz": {
     "fr": "Il giorno dopo ho i muscoli indolenziti dappertutto. Anche nelle orecchie.",
     "de": "Am Tag danach habe ich überall Muskelkater. Sogar in den Ohren.",
     "luecke": "ho i muscoli indolenziti",
-    "audio": "audio/it-de/saetze/sp_07.mp3"
+    "audio": "audio/it-de/saetze/sp_07.mp3?v=375aa228"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo i muscoli indolenziti.",
-     "audio": "audio/it-de/saetze/sp_07_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_07_pc.mp3?v=bc776a74"
     },
     "fp": {
      "fr": "Avrò i muscoli indolenziti.",
-     "audio": "audio/it-de/saetze/sp_07_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_07_fp.mp3?v=e4f1884f"
     }
    }
   },
@@ -3250,12 +3250,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "essere in forma = fit sein; in forma smagliante = topfit; fuori forma = außer Form. la mattina / il pomeriggio = morgens / nachmittags (mit Artikel).",
-   "audio": "audio/it-de/wendungen/sp_08.mp3",
+   "audio": "audio/it-de/wendungen/sp_08.mp3?v=f12772b8",
    "satz": {
     "fr": "Sono in forma la mattina. Il pomeriggio sono prof.",
     "de": "Ich bin morgens fit. Nachmittags bin ich Lehrer.",
     "luecke": "in forma",
-    "audio": "audio/it-de/saetze/sp_08.mp3"
+    "audio": "audio/it-de/saetze/sp_08.mp3?v=e4928766"
    },
    "zeit": null
   },
@@ -3267,21 +3267,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "tenere",
    "notiz": "tenere = halten (tengo, tieni, Partizip tenuto, Futur terrò); la posizione del cavaliere = Reiterstellung. semplice ≠ facile: einfach ≠ leicht.",
-   "audio": "audio/it-de/wendungen/sp_09.mp3",
+   "audio": "audio/it-de/wendungen/sp_09.mp3?v=ae10c893",
    "satz": {
     "fr": "Tenere la posizione del cavaliere per due minuti: semplice. Non facile.",
     "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
     "luecke": "Tenere la posizione",
-    "audio": "audio/it-de/saetze/sp_09.mp3"
+    "audio": "audio/it-de/saetze/sp_09.mp3?v=140c4010"
    },
    "zeit": {
     "pc": {
      "fr": "Ho tenuto la posizione due minuti.",
-     "audio": "audio/it-de/saetze/sp_09_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_09_pc.mp3?v=b5ff9cf7"
     },
     "fp": {
      "fr": "Terrò la posizione due minuti.",
-     "audio": "audio/it-de/saetze/sp_09_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_09_fp.mp3?v=ba06d2bb"
     }
    }
   },
@@ -3293,12 +3293,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cominciare",
    "notiz": "la respirazione (respirare = atmen; il respiro = Atemzug); cominciare con = beginnen mit. anche in classe = auch im Unterricht.",
-   "audio": "audio/it-de/wendungen/sp_10.mp3",
+   "audio": "audio/it-de/wendungen/sp_10.mp3?v=4eadd0b0",
    "satz": {
     "fr": "Nel kung fu tutto comincia con la respirazione. Anche in classe.",
     "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
     "luecke": "respirazione",
-    "audio": "audio/it-de/saetze/sp_10.mp3"
+    "audio": "audio/it-de/saetze/sp_10.mp3?v=2845dfc0"
    },
    "zeit": null
   },
@@ -3310,12 +3310,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dire",
    "notiz": "il maestro = Meister, Lehrmeister, und Grundschullehrer (la maestra); auch Dirigent. non … ancora = noch nicht; capito = Partizip von capire.",
-   "audio": "audio/it-de/wendungen/sp_11.mp3",
+   "audio": "audio/it-de/wendungen/sp_11.mp3?v=b6966f55",
    "satz": {
     "fr": "Il mio maestro dice: « Lentamente è veloce. » Non ho ancora capito.",
     "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
     "luecke": "maestro",
-    "audio": "audio/it-de/saetze/sp_11.mp3"
+    "audio": "audio/it-de/saetze/sp_11.mp3?v=b27e22db"
    },
    "zeit": null
   },
@@ -3327,12 +3327,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "imparare",
    "notiz": "la sequenza = Abfolge, Sequenz – im Kung-Fu die Form (auch: la forma). ne conosco quattro = ich kenne vier davon (ne = davon). il movimento = Bewegung.",
-   "audio": "audio/it-de/wendungen/sp_12.mp3",
+   "audio": "audio/it-de/wendungen/sp_12.mp3?v=4f1a3511",
    "satz": {
     "fr": "Imparo una nuova sequenza. Dodici movimenti. Ne conosco quattro.",
     "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kenne ich.",
     "luecke": "sequenza",
-    "audio": "audio/it-de/saetze/sp_12.mp3"
+    "audio": "audio/it-de/saetze/sp_12.mp3?v=7bdc533a"
    },
    "zeit": null
   },
@@ -3344,21 +3344,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "schivare",
    "notiz": "schivare = ausweichen (sch vor i = [ski]: [skivare]); una schivata = Ausweichbewegung; bloccare = blocken; funzionare = funktionieren.",
-   "audio": "audio/it-de/wendungen/sp_13.mp3",
+   "audio": "audio/it-de/wendungen/sp_13.mp3?v=08b31c98",
    "satz": {
     "fr": "Schivare è meglio che bloccare. Funziona anche in riunione.",
     "de": "Ausweichen ist besser als blocken. Das klappt auch in der Sitzung.",
     "luecke": "Schivare",
-    "audio": "audio/it-de/saetze/sp_13.mp3"
+    "audio": "audio/it-de/saetze/sp_13.mp3?v=72f6be1d"
    },
    "zeit": {
     "pc": {
      "fr": "Ho schivato il colpo.",
-     "audio": "audio/it-de/saetze/sp_13_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_13_pc.mp3?v=45d65a0f"
     },
     "fp": {
      "fr": "Schiverò il colpo. O no.",
-     "audio": "audio/it-de/saetze/sp_13_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_13_fp.mp3?v=f9621a5c"
     }
    }
   },
@@ -3370,21 +3370,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sudare",
    "notiz": "sudare = schwitzen (il sudore = Schweiß); sudato = verschwitzt. sudare sette camicie = sich abrackern (sieben Hemden durchschwitzen).",
-   "audio": "audio/it-de/wendungen/sp_14.mp3",
+   "audio": "audio/it-de/wendungen/sp_14.mp3?v=c3cd6e7d",
    "satz": {
     "fr": "Dopo l'allenamento sudo come una fontana. Una fontana felice.",
     "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "luecke": "sudo",
-    "audio": "audio/it-de/saetze/sp_14.mp3"
+    "audio": "audio/it-de/saetze/sp_14.mp3?v=5fc7070a"
    },
    "zeit": {
     "pc": {
      "fr": "Ho sudato come una fontana.",
-     "audio": "audio/it-de/saetze/sp_14_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_14_pc.mp3?v=8b7d7825"
     },
     "fp": {
      "fr": "Suderò come una fontana.",
-     "audio": "audio/it-de/saetze/sp_14_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_14_fp.mp3?v=525396d3"
     }
    }
   },
@@ -3396,21 +3396,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "farsi",
    "notiz": "farsi male = sich wehtun, sich verletzen (auch: ferirsi = ernst); mi sono fatto male al ginocchio. tranne = außer; aprendo = Gerundio (beim Öffnen); la scatoletta = Dose.",
-   "audio": "audio/it-de/wendungen/sp_15.mp3",
+   "audio": "audio/it-de/wendungen/sp_15.mp3?v=85304a10",
    "satz": {
     "fr": "Non mi faccio mai male. Tranne aprendo una scatoletta di umido.",
     "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Nassfutter.",
     "luecke": "mi faccio mai male",
-    "audio": "audio/it-de/saetze/sp_15.mp3"
+    "audio": "audio/it-de/saetze/sp_15.mp3?v=7bfbc42f"
    },
    "zeit": {
     "pc": {
      "fr": "Mi sono fatto male.",
-     "audio": "audio/it-de/saetze/sp_15_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_15_pc.mp3?v=e13b42e5"
     },
     "fp": {
      "fr": "Mi farò male, lo sento.",
-     "audio": "audio/it-de/saetze/sp_15_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_15_fp.mp3?v=4f35501a"
     }
    }
   },
@@ -3422,21 +3422,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare stretching = Anglizismus, ganz normal; auch: fare allungamento, stirarsi = sich strecken. la tivù = TV (so geschrieben!); perplesso = ratlos.",
-   "audio": "audio/it-de/wendungen/sp_16.mp3",
+   "audio": "audio/it-de/wendungen/sp_16.mp3?v=1f93f0f5",
    "satz": {
     "fr": "Faccio stretching la sera, davanti alla tivù. Il gatto mi guarda, perplesso.",
     "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut mich an, ratlos.",
     "luecke": "Faccio stretching",
-    "audio": "audio/it-de/saetze/sp_16.mp3"
+    "audio": "audio/it-de/saetze/sp_16.mp3?v=e767c5fc"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto stretching.",
-     "audio": "audio/it-de/saetze/sp_16_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_16_pc.mp3?v=140dde5c"
     },
     "fp": {
      "fr": "Farò stretching. Il gatto guarderà.",
-     "audio": "audio/it-de/saetze/sp_16_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_16_fp.mp3?v=aae6e0bb"
     }
    }
   },
@@ -3448,21 +3448,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "riprendere",
    "notiz": "il fiato = Atem (senza fiato = außer Atem); riprendere fiato ohne Artikel. a lungo = lange. la serie = Serie (unveränderlich im Plural).",
-   "audio": "audio/it-de/wendungen/sp_17.mp3",
+   "audio": "audio/it-de/wendungen/sp_17.mp3?v=8287b455",
    "satz": {
     "fr": "Tra due serie riprendo fiato. A lungo.",
     "de": "Zwischen zwei Serien komme ich wieder zu Atem. Lange.",
     "luecke": "riprendo fiato",
-    "audio": "audio/it-de/saetze/sp_17.mp3"
+    "audio": "audio/it-de/saetze/sp_17.mp3?v=40077a8c"
    },
    "zeit": {
     "pc": {
      "fr": "Ho ripreso fiato.",
-     "audio": "audio/it-de/saetze/sp_17_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_17_pc.mp3?v=d0024dca"
     },
     "fp": {
      "fr": "Riprenderò fiato. A lungo.",
-     "audio": "audio/it-de/saetze/sp_17_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_17_fp.mp3?v=52a30ce4"
     }
    }
   },
@@ -3474,12 +3474,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "l'equilibrio = Gleichgewicht; avere equilibrio ohne Artikel; perdere l'equilibrio. la gamba = Bein (nicht „Garnele“ wie sp. gamba!). dipendere da = abhängen von.",
-   "audio": "audio/it-de/wendungen/sp_18.mp3",
+   "audio": "audio/it-de/wendungen/sp_18.mp3?v=c0c1c480",
    "satz": {
     "fr": "Su una gamba ho equilibrio. Su due, dipende dal giorno.",
     "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
     "luecke": "ho equilibrio",
-    "audio": "audio/it-de/saetze/sp_18.mp3"
+    "audio": "audio/it-de/saetze/sp_18.mp3?v=e524b94e"
    },
    "zeit": null
   },
@@ -3491,21 +3491,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "andare",
    "notiz": "andare a + Infinitiv = gehen, um zu: andare a correre, a nuotare, a mangiare. pentirsi di = bereuen (me ne pento = ich bereue es). la domenica = sonntags.",
-   "audio": "audio/it-de/wendungen/sp_19.mp3",
+   "audio": "audio/it-de/wendungen/sp_19.mp3?v=d3f7fef2",
    "satz": {
     "fr": "La domenica mattina vado a correre. La domenica sera me ne pento.",
     "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "luecke": "vado a correre",
-    "audio": "audio/it-de/saetze/sp_19.mp3"
+    "audio": "audio/it-de/saetze/sp_19.mp3?v=33780681"
    },
    "zeit": {
     "pc": {
      "fr": "Domenica sono andato a correre.",
-     "audio": "audio/it-de/saetze/sp_19_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_19_pc.mp3?v=d700bf6e"
     },
     "fp": {
      "fr": "Domenica andrò a correre.",
-     "audio": "audio/it-de/saetze/sp_19_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_19_fp.mp3?v=363af62f"
     }
    }
   },
@@ -3517,12 +3517,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "tenere",
    "notiz": "la cintura = Gürtel (auch Sicherheitsgurt: la cintura di sicurezza); Umbau von « l'abito non fa il monaco » (die Kutte macht nicht den Mönch). tenere su = hochhalten.",
-   "audio": "audio/it-de/wendungen/sp_20.mp3",
+   "audio": "audio/it-de/wendungen/sp_20.mp3?v=5b0117a9",
    "satz": {
     "fr": "La cintura non fa il maestro. Ma tiene su i pantaloni.",
     "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "luecke": "cintura",
-    "audio": "audio/it-de/saetze/sp_20.mp3"
+    "audio": "audio/it-de/saetze/sp_20.mp3?v=9cd330fb"
    },
    "zeit": null
   },
@@ -3534,21 +3534,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare progressi (Plural); il progresso = Fortschritt. lentamente = langsam; piano = langsam, leise (piano piano = ganz langsam).",
-   "audio": "audio/it-de/wendungen/sp_21.mp3",
+   "audio": "audio/it-de/wendungen/sp_21.mp3?v=f4f69663",
    "satz": {
     "fr": "Faccio progressi. Lentamente. Come dice il mio maestro, è veloce.",
     "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt, ist das schnell.",
     "luecke": "Faccio progressi",
-    "audio": "audio/it-de/saetze/sp_21.mp3"
+    "audio": "audio/it-de/saetze/sp_21.mp3?v=2da5be37"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto progressi.",
-     "audio": "audio/it-de/saetze/sp_21_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_21_pc.mp3?v=5a0385c6"
     },
     "fp": {
      "fr": "Farò progressi.",
-     "audio": "audio/it-de/saetze/sp_21_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_21_fp.mp3?v=668be20b"
     }
    }
   },
@@ -3560,21 +3560,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "superarsi",
    "notiz": "superare = überholen, übertreffen, bestehen (superare un esame); superarsi = sich selbst übertreffen. le flessioni = Liegestütze (auch: i piegamenti).",
-   "audio": "audio/it-de/wendungen/sp_22.mp3",
+   "audio": "audio/it-de/wendungen/sp_22.mp3?v=5fcae502",
    "satz": {
     "fr": "Oggi mi sono superato: trenta flessioni. Ieri, ventinove.",
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "mi sono superato",
-    "audio": "audio/it-de/saetze/sp_22.mp3"
+    "audio": "audio/it-de/saetze/sp_22.mp3?v=4dc5d5b2"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri mi sono superato.",
-     "audio": "audio/it-de/saetze/sp_22_pc.mp3"
+     "audio": "audio/it-de/saetze/sp_22_pc.mp3?v=f5b2595d"
     },
     "fp": {
      "fr": "Domani mi supererò.",
-     "audio": "audio/it-de/saetze/sp_22_fp.mp3"
+     "audio": "audio/it-de/saetze/sp_22_fp.mp3?v=544aace3"
     }
    }
   },
@@ -3586,12 +3586,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il corpo = Körper; la mente = Geist, Verstand (weiblich – deshalb la mia); mente sana in corpo sano. discutere con = diskutieren mit.",
-   "audio": "audio/it-de/wendungen/sp_23.mp3",
+   "audio": "audio/it-de/wendungen/sp_23.mp3?v=bb8057b6",
    "satz": {
     "fr": "Il kung fu è corpo e mente. La mia discute spesso con il mio corpo.",
     "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "luecke": "corpo e mente",
-    "audio": "audio/it-de/saetze/sp_23.mp3"
+    "audio": "audio/it-de/saetze/sp_23.mp3?v=3cc0b4c5"
    },
    "zeit": null
   },
@@ -3603,12 +3603,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "iscriversi",
    "notiz": "iscriversi a = sich anmelden für, einschreiben (l'iscrizione); iscrivermi = iscrivere + mi. il martedì sera = dienstagabends. Höflich durch Kontext (buongiorno), posso = ich kann.",
-   "audio": "audio/it-de/wendungen/sp_24.mp3",
+   "audio": "audio/it-de/wendungen/sp_24.mp3?v=6fb1f8ff",
    "satz": {
     "fr": "Buongiorno, posso iscrivermi al corso del martedì sera?",
     "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "luecke": "posso iscrivermi",
-    "audio": "audio/it-de/saetze/sp_24.mp3"
+    "audio": "audio/it-de/saetze/sp_24.mp3?v=82272708"
    },
    "zeit": null
   },
@@ -3620,21 +3620,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "mangiare",
    "notiz": "cercare di + Infinitiv = versuchen zu; contare = zählen. il cornetto = das italienische Croissant (auch: la brioche im Norden). tranne = außer.",
-   "audio": "audio/it-de/wendungen/ma_01.mp3",
+   "audio": "audio/it-de/wendungen/ma_01.mp3?v=44753345",
    "satz": {
     "fr": "Cerco di mangiare equilibrato. Il cornetto della mattina non conta.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "mangiare equilibrato",
-    "audio": "audio/it-de/saetze/ma_01.mp3"
+    "audio": "audio/it-de/saetze/ma_01.mp3?v=b346d9c5"
    },
    "zeit": {
     "pc": {
      "fr": "Questa settimana ho mangiato equilibrato. Tranne venerdì.",
-     "audio": "audio/it-de/saetze/ma_01_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_01_pc.mp3?v=64a10e6b"
     },
     "fp": {
      "fr": "Mangerò equilibrato. Da lunedì.",
-     "audio": "audio/it-de/saetze/ma_01_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_01_fp.mp3?v=3606ec1f"
     }
    }
   },
@@ -3646,21 +3646,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "andare",
    "notiz": "andare a letto (ohne Artikel) = ins Bett gehen; presto = früh und bald; tardi = spät. ci provo = ich versuche es (provarci). beh = na ja.",
-   "audio": "audio/it-de/wendungen/ma_02.mp3",
+   "audio": "audio/it-de/wendungen/ma_02.mp3?v=1d54623d",
    "satz": {
     "fr": "La domenica vado a letto presto. Il resto della settimana ci provo.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "vado a letto presto",
-    "audio": "audio/it-de/saetze/ma_02.mp3"
+    "audio": "audio/it-de/saetze/ma_02.mp3?v=87a3643c"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri sono andato a letto presto. Beh, prima di mezzanotte.",
-     "audio": "audio/it-de/saetze/ma_02_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_02_pc.mp3?v=e8d54038"
     },
     "fp": {
      "fr": "Stasera andrò a letto presto. Davvero.",
-     "audio": "audio/it-de/saetze/ma_02_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_02_fp.mp3?v=3dff0810"
     }
    }
   },
@@ -3672,12 +3672,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendersi",
    "notiz": "la cura = Pflege, Sorgfalt (und Kur); prendersi cura di = sich kümmern um; prenditi cura di te = pass auf dich auf. perfino = sogar. il cannolo = sizilianische Süßspeise.",
-   "audio": "audio/it-de/wendungen/ma_03.mp3",
+   "audio": "audio/it-de/wendungen/ma_03.mp3?v=6d0a21a1",
    "satz": {
     "fr": "Prendersi cura di sé è anche dire di no. Perfino a un cannolo.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Cannolo.",
     "luecke": "Prendersi cura di sé",
-    "audio": "audio/it-de/saetze/ma_03.mp3"
+    "audio": "audio/it-de/saetze/ma_03.mp3?v=659c3ab4"
    },
    "zeit": null
   },
@@ -3689,21 +3689,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare la spesa = Lebensmittel einkaufen (la spesa = Einkauf, Ausgabe); fare spese / fare shopping = Kleidung einkaufen. il sabato = samstags.",
-   "audio": "audio/it-de/wendungen/ma_04.mp3",
+   "audio": "audio/it-de/wendungen/ma_04.mp3?v=6a0c07df",
    "satz": {
     "fr": "Faccio la spesa il sabato, con una lista. Torno con altre cose.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "Faccio la spesa",
-    "audio": "audio/it-de/saetze/ma_04.mp3"
+    "audio": "audio/it-de/saetze/ma_04.mp3?v=f7ab4967"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto la spesa stamattina.",
-     "audio": "audio/it-de/saetze/ma_04_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_04_pc.mp3?v=24e1c754"
     },
     "fp": {
      "fr": "Farò la spesa domani.",
-     "audio": "audio/it-de/saetze/ma_04_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_04_fp.mp3?v=cc7e2741"
     }
    }
   },
@@ -3715,21 +3715,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cucinare",
    "notiz": "cucinare = kochen (Essen zubereiten); cuocere = kochen, garen (Wasser, Nudeln); la cucina = Küche und Kochkunst. ascoltando = Gerundio = beim Hören.",
-   "audio": "audio/it-de/wendungen/ma_05.mp3",
+   "audio": "audio/it-de/wendungen/ma_05.mp3?v=97c3a6dd",
    "satz": {
     "fr": "La sera cucino ascoltando musica. Il gatto supervisiona.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cucino",
-    "audio": "audio/it-de/saetze/ma_05.mp3"
+    "audio": "audio/it-de/saetze/ma_05.mp3?v=4c225cdc"
    },
    "zeit": {
     "pc": {
      "fr": "Ho cucinato una lasagna per Giovanni.",
-     "audio": "audio/it-de/saetze/ma_05_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_05_pc.mp3?v=d564813a"
     },
     "fp": {
      "fr": "Cucinerò qualcosa di semplice.",
-     "audio": "audio/it-de/saetze/ma_05_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_05_fp.mp3?v=af781817"
     }
    }
   },
@@ -3741,12 +3741,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "preparare",
    "notiz": "il piatto = Teller und Gericht; il primo / il secondo = erster / zweiter Gang (Pasta / Fleisch oder Fisch). quello che = das, das; qualcun altro = jemand anderes.",
-   "audio": "audio/it-de/wendungen/ma_06.mp3",
+   "audio": "audio/it-de/wendungen/ma_06.mp3?v=0ef8ec47",
    "satz": {
     "fr": "Il mio piatto preferito? Quello che ha preparato qualcun altro.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "piatto",
-    "audio": "audio/it-de/saetze/ma_06.mp3"
+    "audio": "audio/it-de/saetze/ma_06.mp3?v=90213d9b"
    },
    "zeit": null
   },
@@ -3758,21 +3758,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il languorino = der kleine Hunger (il languore = Mattigkeit + -ino = klein); auch: avere un po' di fame, avere un buco nello stomaco.",
-   "audio": "audio/it-de/wendungen/ma_07.mp3",
+   "audio": "audio/it-de/wendungen/ma_07.mp3?v=f21e77c1",
    "satz": {
     "fr": "Alle quattro ho un languorino. Alle quattro e cinque anche.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "ho un languorino",
-    "audio": "audio/it-de/saetze/ma_07.mp3"
+    "audio": "audio/it-de/saetze/ma_07.mp3?v=10171b38"
    },
    "zeit": {
     "pc": {
      "fr": "Alle quattro avevo un languorino.",
-     "audio": "audio/it-de/saetze/ma_07_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_07_pc.mp3?v=b78cf79c"
     },
     "fp": {
      "fr": "Alle quattro avrò un languorino. Come sempre.",
-     "audio": "audio/it-de/saetze/ma_07_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_07_fp.mp3?v=a76b0cd1"
     }
    }
   },
@@ -3784,21 +3784,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "la scorpacciata = Fressgelage (von corpo: sich den Körper vollmachen); fare una scorpacciata di + Speise. da Giovanni = bei Giovanni (da + Person). gli manda = schickt ihm.",
-   "audio": "audio/it-de/wendungen/ma_08.mp3",
+   "audio": "audio/it-de/wendungen/ma_08.mp3?v=d684c802",
    "satz": {
     "fr": "Da Giovanni facciamo una scorpacciata. Sua madre gli manda le ricette.",
     "de": "Bei Giovanni schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
     "luecke": "facciamo una scorpacciata",
-    "audio": "audio/it-de/saetze/ma_08.mp3"
+    "audio": "audio/it-de/saetze/ma_08.mp3?v=a6669cae"
    },
    "zeit": {
     "pc": {
      "fr": "Da Giovanni abbiamo fatto una scorpacciata.",
-     "audio": "audio/it-de/saetze/ma_08_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_08_pc.mp3?v=319a9212"
     },
     "fp": {
      "fr": "Da Giovanni faremo una scorpacciata.",
-     "audio": "audio/it-de/saetze/ma_08_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_08_fp.mp3?v=d13891a1"
     }
    }
   },
@@ -3810,12 +3810,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "buon appetito = die normale Formel vor dem Essen (in Italien unumstritten, anders als in Frankreich); altrettanto = gleichfalls (wörtlich: ebenso viel).",
-   "audio": "audio/it-de/wendungen/ma_09.mp3",
+   "audio": "audio/it-de/wendungen/ma_09.mp3?v=6c3602a6",
    "satz": {
     "fr": "« Buon appetito! » – « Grazie, altrettanto. » – « Io non mangio. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, gleichfalls.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Buon appetito",
-    "audio": "audio/it-de/saetze/ma_09.mp3"
+    "audio": "audio/it-de/saetze/ma_09.mp3?v=0cd4fe46"
    },
    "zeit": null
   },
@@ -3827,12 +3827,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "il pane = Brot → la panetteria (auch: il panificio, il fornaio = Bäcker); la pasticceria = Konditorei. accanto a = neben. un bel problema (bello verkürzt vor Konsonant).",
-   "audio": "audio/it-de/wendungen/ma_10.mp3",
+   "audio": "audio/it-de/wendungen/ma_10.mp3?v=f829d738",
    "satz": {
     "fr": "C'è una panetteria accanto alla scuola. È un problema. Un bel problema.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein schönes Problem.",
     "luecke": "panetteria",
-    "audio": "audio/it-de/saetze/ma_10.mp3"
+    "audio": "audio/it-de/saetze/ma_10.mp3?v=fe062396"
    },
    "zeit": null
   },
@@ -3844,21 +3844,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "bere",
    "notiz": "bere unregelmäßig: bevo, bevi, Partizip bevuto, Futur berrò. bere acqua ohne Artikel (allgemein), l'acqua = das Wasser. in mezzo = dazwischen, mittendrin.",
-   "audio": "audio/it-de/wendungen/ma_11.mp3",
+   "audio": "audio/it-de/wendungen/ma_11.mp3?v=d4499edc",
    "satz": {
     "fr": "Bevo acqua tutto il giorno. E un caffè. O due. L'acqua è in mezzo.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "Bevo acqua",
-    "audio": "audio/it-de/saetze/ma_11.mp3"
+    "audio": "audio/it-de/saetze/ma_11.mp3?v=7365a6a4"
    },
    "zeit": {
     "pc": {
      "fr": "Ho bevuto acqua tutto il giorno.",
-     "audio": "audio/it-de/saetze/ma_11_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_11_pc.mp3?v=801617ef"
     },
     "fp": {
      "fr": "Berrò acqua. Di più.",
-     "audio": "audio/it-de/saetze/ma_11_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_11_fp.mp3?v=b8319415"
     }
    }
   },
@@ -3870,21 +3870,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "sgranocchiare",
    "notiz": "sgranocchiare = knabbern (lautmalerisch: cro-cro); auch: spiluccare = naschen, piluccare. un quadretto di cioccolato = ein Stückchen Schokolade (il quadretto = Quadrätchen).",
-   "audio": "audio/it-de/wendungen/ma_12.mp3",
+   "audio": "audio/it-de/wendungen/ma_12.mp3?v=60d3262a",
    "satz": {
     "fr": "Sgranocchio mentre correggo. Ogni errore, un quadretto di cioccolato.",
     "de": "Ich knabbere beim Korrigieren. Für jeden Fehler ein Stückchen Schokolade.",
     "luecke": "Sgranocchio",
-    "audio": "audio/it-de/saetze/ma_12.mp3"
+    "audio": "audio/it-de/saetze/ma_12.mp3?v=62dd8af4"
    },
    "zeit": {
     "pc": {
      "fr": "Ho sgranocchiato tutto il pomeriggio.",
-     "audio": "audio/it-de/saetze/ma_12_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_12_pc.mp3?v=a9809d9a"
     },
     "fp": {
      "fr": "Non sgranocchierò stasera. Vedremo.",
-     "audio": "audio/it-de/saetze/ma_12_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_12_fp.mp3?v=17320903"
     }
    }
   },
@@ -3896,12 +3896,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "stare",
    "notiz": "wörtlich wie im Deutschen; stare bene = sich wohlfühlen (stare, nicht essere); proprio = eigen, nella mia pelle = in meiner Haut. Gegenteil: stare male nella propria pelle.",
-   "audio": "audio/it-de/wendungen/ma_13.mp3",
+   "audio": "audio/it-de/wendungen/ma_13.mp3?v=0a180ba8",
    "satz": {
     "fr": "Dopo lo sport sto bene nella mia pelle. Anche prima, ma meno.",
     "de": "Nach dem Sport fühle ich mich wohl in meiner Haut. Vorher auch, aber weniger.",
     "luecke": "sto bene nella mia pelle",
-    "audio": "audio/it-de/saetze/ma_13.mp3"
+    "audio": "audio/it-de/saetze/ma_13.mp3?v=1321569e"
    },
    "zeit": null
   },
@@ -3913,21 +3913,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare una pausa; ogni ora = jede Stunde; a volte = manchmal; durare = dauern (nicht „dürfen“). un'ora mit Apostroph (weiblich).",
-   "audio": "audio/it-de/wendungen/ma_14.mp3",
+   "audio": "audio/it-de/wendungen/ma_14.mp3?v=0e36289f",
    "satz": {
     "fr": "Faccio una pausa ogni ora. A volte la pausa dura un'ora.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "Faccio una pausa",
-    "audio": "audio/it-de/saetze/ma_14.mp3"
+    "audio": "audio/it-de/saetze/ma_14.mp3?v=7c68744b"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto una pausa di dieci minuti.",
-     "audio": "audio/it-de/saetze/ma_14_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_14_pc.mp3?v=23cfd4fc"
     },
     "fp": {
      "fr": "Farò una pausa. Adesso.",
-     "audio": "audio/it-de/saetze/ma_14_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_14_fp.mp3?v=f4eec9cb"
     }
    }
   },
@@ -3939,21 +3939,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dormire",
    "notiz": "il ghiro = der Siebenschläfer (im Deutschen „wie ein Murmeltier“); auch: dormire come un sasso (Stein). russare = schnarchen.",
-   "audio": "audio/it-de/wendungen/ma_15.mp3",
+   "audio": "audio/it-de/wendungen/ma_15.mp3?v=da871fc2",
    "satz": {
     "fr": "Dopo il kung fu dormo come un ghiro. Un ghiro che russa.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Murmeltier. Ein Murmeltier, das schnarcht.",
     "luecke": "dormo come un ghiro",
-    "audio": "audio/it-de/saetze/ma_15.mp3"
+    "audio": "audio/it-de/saetze/ma_15.mp3?v=b3d370ae"
    },
    "zeit": {
     "pc": {
      "fr": "Ho dormito come un ghiro.",
-     "audio": "audio/it-de/saetze/ma_15_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_15_pc.mp3?v=2b4af5ef"
     },
     "fp": {
      "fr": "Dormirò come un ghiro.",
-     "audio": "audio/it-de/saetze/ma_15_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_15_fp.mp3?v=2779f45c"
     }
    }
   },
@@ -3965,12 +3965,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "smagliante = strahlend (un sorriso smagliante = strahlendes Lächeln); in forma smagliante = in Bestform. sospetto = verdächtig. sono le sei = es ist sechs Uhr (Plural!).",
-   "audio": "audio/it-de/wendungen/ma_16.mp3",
+   "audio": "audio/it-de/wendungen/ma_16.mp3?v=a12dc249",
    "satz": {
     "fr": "Stamattina sono in forma smagliante. Sospetto. Sono le sei.",
     "de": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
     "luecke": "in forma smagliante",
-    "audio": "audio/it-de/saetze/ma_16.mp3"
+    "audio": "audio/it-de/saetze/ma_16.mp3?v=5db483e6"
    },
    "zeit": null
   },
@@ -3982,21 +3982,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendere",
    "notiz": "wörtlich „einen Mundvoll Luft nehmen“ (la bocca = Mund, la boccata = Mundvoll, Zug); auch: prendere aria. il telefono / il cellulare / il telefonino = Handy.",
-   "audio": "audio/it-de/wendungen/ma_17.mp3",
+   "audio": "audio/it-de/wendungen/ma_17.mp3?v=562cb090",
    "satz": {
     "fr": "A mezzogiorno prendo una boccata d'aria dieci minuti. Senza telefono. Beh, quasi.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "prendo una boccata d'aria",
-    "audio": "audio/it-de/saetze/ma_17.mp3"
+    "audio": "audio/it-de/saetze/ma_17.mp3?v=78a63f62"
    },
    "zeit": {
     "pc": {
      "fr": "A mezzogiorno ho preso una boccata d'aria.",
-     "audio": "audio/it-de/saetze/ma_17_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_17_pc.mp3?v=ee421d94"
     },
     "fp": {
      "fr": "A mezzogiorno prenderò una boccata d'aria.",
-     "audio": "audio/it-de/saetze/ma_17_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_17_fp.mp3?v=e703b167"
     }
    }
   },
@@ -4008,12 +4008,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "la ricetta = Kochrezept und Arztrezept (ricetta medica); le lasagne (Plural!) – Bologna ist die Heimat von Lasagne, Tortellini und Ragù. l'ha avuta = er hat es bekommen (Angleichung: avuta).",
-   "audio": "audio/it-de/wendungen/ma_18.mp3",
+   "audio": "audio/it-de/wendungen/ma_18.mp3?v=2db0ab97",
    "satz": {
     "fr": "Ho una ricetta per le lasagne. Viene da Giovanni, che l'ha avuta da sua madre.",
     "de": "Ich habe ein Rezept für Lasagne. Es kommt von Giovanni, der es von seiner Mutter hat.",
     "luecke": "ricetta",
-    "audio": "audio/it-de/saetze/ma_18.mp3"
+    "audio": "audio/it-de/saetze/ma_18.mp3?v=849db8a3"
    },
    "zeit": null
   },
@@ -4025,21 +4025,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "assaggiare",
    "notiz": "assaggiare = kosten, probieren (Essen); un assaggio = Kostprobe; provare = ausprobieren (Kleidung, Dinge). un pochino = ein kleines bisschen.",
-   "audio": "audio/it-de/wendungen/ma_19.mp3",
+   "audio": "audio/it-de/wendungen/ma_19.mp3?v=7e11fb04",
    "satz": {
     "fr": "Assaggia questo. No, davvero, assaggia. Poi puoi dire che non ti piace.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Assaggia",
-    "audio": "audio/it-de/saetze/ma_19.mp3"
+    "audio": "audio/it-de/saetze/ma_19.mp3?v=33786300"
    },
    "zeit": {
     "pc": {
      "fr": "Ho assaggiato. Non mi piace.",
-     "audio": "audio/it-de/saetze/ma_19_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_19_pc.mp3?v=692d7a63"
     },
     "fp": {
      "fr": "Assaggerò. Un pochino.",
-     "audio": "audio/it-de/saetze/ma_19_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_19_fp.mp3?v=5f8cb01c"
     }
    }
   },
@@ -4051,12 +4051,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "squisito = köstlich, exquisit; auch: buonissimo, delizioso, una delizia. cos'è = che cos'è = was ist das. meglio non + Infinitiv = besser nicht.",
-   "audio": "audio/it-de/wendungen/ma_20.mp3",
+   "audio": "audio/it-de/wendungen/ma_20.mp3?v=6c75013a",
    "satz": {
     "fr": "È squisito! Cos'è? – Meglio non saperlo.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "squisito",
-    "audio": "audio/it-de/saetze/ma_20.mp3"
+    "audio": "audio/it-de/saetze/ma_20.mp3?v=3b9be800"
    },
    "zeit": null
   },
@@ -4068,21 +4068,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "avere sete/fame/sonno/freddo – immer mit avere; avere sete di = dürsten nach. educazione fisica (ed. fisica, ginnastica) = Schulsport.",
-   "audio": "audio/it-de/wendungen/ma_21.mp3",
+   "audio": "audio/it-de/wendungen/ma_21.mp3?v=665cca4d",
    "satz": {
     "fr": "Dopo educazione fisica gli alunni hanno sete. Io ho sete di silenzio.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "hanno sete",
-    "audio": "audio/it-de/saetze/ma_21.mp3"
+    "audio": "audio/it-de/saetze/ma_21.mp3?v=981d3e19"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo lo sport gli alunni avevano sete.",
-     "audio": "audio/it-de/saetze/ma_21_pc.mp3"
+     "audio": "audio/it-de/saetze/ma_21_pc.mp3?v=042fc1cc"
     },
     "fp": {
      "fr": "Dopo lo sport gli alunni avranno sete.",
-     "audio": "audio/it-de/saetze/ma_21_fp.mp3"
+     "audio": "audio/it-de/saetze/ma_21_fp.mp3?v=7152613e"
     }
    }
   },
@@ -4094,12 +4094,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "alzarsi",
    "notiz": "alzarsi = aufstehen; col = con + il; giusto = richtig. Gegenteil: alzarsi col piede sbagliato / sinistro. oggi + passato prossimo.",
-   "audio": "audio/it-de/wendungen/ma_22.mp3",
+   "audio": "audio/it-de/wendungen/ma_22.mp3?v=7eb04be9",
    "satz": {
     "fr": "Oggi mi sono alzato col piede giusto. Il sinistro. Come sempre.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "mi sono alzato col piede giusto",
-    "audio": "audio/it-de/saetze/ma_22.mp3"
+    "audio": "audio/it-de/saetze/ma_22.mp3?v=fcd07299"
    },
    "zeit": null
   },
@@ -4111,12 +4111,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "togliersi",
    "notiz": "lo sfizio = Gelüst, kleine Laune (uno sfizio vor sf-); togliersi uno sfizio = sich etwas gönnen; sfizioso = reizvoll, lecker. la crostata = Mürbeteigkuchen mit Marmelade.",
-   "audio": "audio/it-de/wendungen/ma_23.mp3",
+   "audio": "audio/it-de/wendungen/ma_23.mp3?v=c8f903d9",
    "satz": {
     "fr": "Uno sfizio al giorno. Oggi: una crostata. Domani: un'altra crostata.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Crostata. Morgen: eine andere Crostata.",
     "luecke": "sfizio",
-    "audio": "audio/it-de/saetze/ma_23.mp3"
+    "audio": "audio/it-de/saetze/ma_23.mp3?v=8f2e0087"
    },
    "zeit": null
   },
@@ -4128,12 +4128,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "volere",
    "notiz": "vorrei = Konditional von volere, die höfliche Bestellform („ich hätte gern“); voglio wäre unhöflich. la rosetta = rundes Brötchen (Rom/Norden; auch: la michetta in Mailand). cotto = gebacken, gegart.",
-   "audio": "audio/it-de/wendungen/ma_24.mp3",
+   "audio": "audio/it-de/wendungen/ma_24.mp3?v=b3406911",
    "satz": {
     "fr": "Buongiorno, vorrei una rosetta, per favore. Non troppo cotta.",
     "de": "Guten Tag, ich hätte gern ein Brötchen, bitte. Nicht zu dunkel.",
     "luecke": "vorrei",
-    "audio": "audio/it-de/saetze/ma_24.mp3"
+    "audio": "audio/it-de/saetze/ma_24.mp3?v=cd4364ea"
    },
    "zeit": null
   },
@@ -4145,21 +4145,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dormire",
    "notiz": "wörtlich „die ganze Nacht schlafen“ – kein eigenes Wort für durchschlafen (auch: fare le notti intere, dormire di filato). lei, non ancora = betontes Pronomen.",
-   "audio": "audio/it-de/wendungen/ba_01.mp3",
+   "audio": "audio/it-de/wendungen/ba_01.mp3?v=b35ea69d",
    "satz": {
     "fr": "Il bambino della mia collega dorme tutta la notte. Lei, non ancora.",
     "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
     "luecke": "dorme tutta la notte",
-    "audio": "audio/it-de/saetze/ba_01.mp3"
+    "audio": "audio/it-de/saetze/ba_01.mp3?v=bed20b08"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha dormito tutta la notte.",
-     "audio": "audio/it-de/saetze/ba_01_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_01_pc.mp3?v=8070e3ca"
     },
     "fp": {
      "fr": "Il bambino dormirà tutta la notte. Un giorno.",
-     "audio": "audio/it-de/saetze/ba_01_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_01_fp.mp3?v=3333ce74"
     }
    }
   },
@@ -4171,12 +4171,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dormire",
    "notiz": "il peluche = Kuscheltier (aus dem Französischen, unveränderlich: i peluche); auch: il pupazzo. soprattutto = vor allem (doppeltes t!).",
-   "audio": "audio/it-de/wendungen/ba_02.mp3",
+   "audio": "audio/it-de/wendungen/ba_02.mp3?v=cc8de8fe",
    "satz": {
     "fr": "Senza il suo peluche, impossibile dormire. Parlo del bambino. Beh, soprattutto.",
     "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
     "luecke": "peluche",
-    "audio": "audio/it-de/saetze/ba_02.mp3"
+    "audio": "audio/it-de/saetze/ba_02.mp3?v=5eb11a45"
    },
    "zeit": null
   },
@@ -4188,21 +4188,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "combinare",
    "notiz": "siehe I gatti: il guaio = Ärger; auch: fare marachelle (Streiche). il mestiere = Beruf, Handwerk; il mio = meiner (Possessivpronomen mit Artikel).",
-   "audio": "audio/it-de/wendungen/ba_03.mp3",
+   "audio": "audio/it-de/wendungen/ba_03.mp3?v=59866126",
    "satz": {
     "fr": "I bambini combinano guai. È il loro mestiere. Il mio è sorridere.",
     "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "luecke": "combinano guai",
-    "audio": "audio/it-de/saetze/ba_03.mp3"
+    "audio": "audio/it-de/saetze/ba_03.mp3?v=d79c849c"
    },
    "zeit": {
     "pc": {
      "fr": "Hanno combinato guai tutta la mattina.",
-     "audio": "audio/it-de/saetze/ba_03_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_03_pc.mp3?v=f1757154"
     },
     "fp": {
      "fr": "Combineranno guai, sicuro.",
-     "audio": "audio/it-de/saetze/ba_03_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_03_fp.mp3?v=7ebf0c87"
     }
    }
   },
@@ -4214,21 +4214,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "prendere",
    "notiz": "wörtlich „in Arm nehmen“ (Singular! in braccio, ohne Artikel); tenere in braccio = auf dem Arm halten. lo si prende = man nimmt es (lo + si).",
-   "audio": "audio/it-de/wendungen/ba_04.mp3",
+   "audio": "audio/it-de/wendungen/ba_04.mp3?v=d2942df7",
    "satz": {
     "fr": "Quando un bambino piange, lo si prende in braccio. È l'unica regola.",
     "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "luecke": "prende in braccio",
-    "audio": "audio/it-de/saetze/ba_04.mp3"
+    "audio": "audio/it-de/saetze/ba_04.mp3?v=158e5ec1"
    },
    "zeit": {
     "pc": {
      "fr": "L'ho preso in braccio.",
-     "audio": "audio/it-de/saetze/ba_04_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_04_pc.mp3?v=e54e8653"
     },
     "fp": {
      "fr": "Lo prenderò in braccio.",
-     "audio": "audio/it-de/saetze/ba_04_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_04_fp.mp3?v=70c163e7"
     }
    }
   },
@@ -4240,12 +4240,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dire",
    "notiz": "il neonato = Neugeborenes (neo + nato = neu geboren); il bambino = Kind, Baby; il bebè geht auch. dice tutto = sagt alles.",
-   "audio": "audio/it-de/wendungen/ba_05.mp3",
+   "audio": "audio/it-de/wendungen/ba_05.mp3?v=cd7c8324",
    "satz": {
     "fr": "Un neonato non parla, ma dice tutto.",
     "de": "Ein Baby spricht nicht, aber es sagt alles.",
     "luecke": "neonato",
-    "audio": "audio/it-de/saetze/ba_05.mp3"
+    "audio": "audio/it-de/saetze/ba_05.mp3?v=074c4a3e"
    },
    "zeit": null
   },
@@ -4257,21 +4257,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare un sorriso a qualcuno = jemanden anlächeln; sorridere = lächeln; il sorriso = das Lächeln. salvo = gerettet, sicher. la giornata = der Tag (Verlauf).",
-   "audio": "audio/it-de/wendungen/ba_06.mp3",
+   "audio": "audio/it-de/wendungen/ba_06.mp3?v=18badfcf",
    "satz": {
     "fr": "Il bambino mi ha fatto un sorriso. La giornata era salva.",
     "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "luecke": "mi ha fatto un sorriso",
-    "audio": "audio/it-de/saetze/ba_06.mp3"
+    "audio": "audio/it-de/saetze/ba_06.mp3?v=a9490fd6"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino mi ha fatto un sorriso.",
-     "audio": "audio/it-de/saetze/ba_06_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_06_pc.mp3?v=33477120"
     },
     "fp": {
      "fr": "Il bambino mi farà un sorriso. Sto aspettando.",
-     "audio": "audio/it-de/saetze/ba_06_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_06_fp.mp3?v=3c7fe73b"
     }
    }
   },
@@ -4283,21 +4283,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "crescere",
    "notiz": "crescere = wachsen, Partizip cresciuto, mit essere; in fretta = schnell, eilig (la fretta = Eile); invece = dagegen, hingegen; restare = bleiben.",
-   "audio": "audio/it-de/wendungen/ba_07.mp3",
+   "audio": "audio/it-de/wendungen/ba_07.mp3?v=ff8d7422",
    "satz": {
     "fr": "I bambini crescono troppo in fretta. I compiti, invece, restano.",
     "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
     "luecke": "crescono",
-    "audio": "audio/it-de/saetze/ba_07.mp3"
+    "audio": "audio/it-de/saetze/ba_07.mp3?v=03f6b34c"
    },
    "zeit": {
     "pc": {
      "fr": "Sono cresciuti durante le vacanze.",
-     "audio": "audio/it-de/saetze/ba_07_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_07_pc.mp3?v=f12a929f"
     },
     "fp": {
      "fr": "Cresceranno, e io invecchierò.",
-     "audio": "audio/it-de/saetze/ba_07_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_07_fp.mp3?v=f4adda8d"
     }
    }
   },
@@ -4309,21 +4309,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare fatica a → ad vor Vokal (ad addormentarsi); addormentarsi = einschlafen (dormire = schlafen). più piano = leiser (piano = leise, langsam).",
-   "audio": "audio/it-de/wendungen/ba_08.mp3",
+   "audio": "audio/it-de/wendungen/ba_08.mp3?v=57a2fbd7",
    "satz": {
     "fr": "Il piccolo fa fatica ad addormentarsi. Allora canto. Funziona. Piange più piano.",
     "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "luecke": "fa fatica ad addormentarsi",
-    "audio": "audio/it-de/saetze/ba_08.mp3"
+    "audio": "audio/it-de/saetze/ba_08.mp3?v=339838d8"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto fatica ad addormentarsi.",
-     "audio": "audio/it-de/saetze/ba_08_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_08_pc.mp3?v=2739e4c0"
     },
     "fp": {
      "fr": "Farà fatica ad addormentarsi.",
-     "audio": "audio/it-de/saetze/ba_08_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_08_fp.mp3?v=7469cadb"
     }
    }
   },
@@ -4335,12 +4335,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cambiare",
    "notiz": "il pannolino = Windel (il panno = Tuch + -lino = klein); cambiare il pannolino = wickeln. questa sì che è = das ist wirklich (Verstärkung).",
-   "audio": "audio/it-de/wendungen/ba_09.mp3",
+   "audio": "audio/it-de/wendungen/ba_09.mp3?v=7d0f0b64",
    "satz": {
     "fr": "Cambiare un pannolino in tre minuti: questa sì che è una vera sequenza di kung fu.",
     "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "luecke": "pannolino",
-    "audio": "audio/it-de/saetze/ba_09.mp3"
+    "audio": "audio/it-de/saetze/ba_09.mp3?v=11ec464e"
    },
    "zeit": null
   },
@@ -4352,12 +4352,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "wörtlich „den Braven machen“; fai il bravo / fai la brava (an ein Mädchen); bravo = brav und tüchtig, gut (bravo! = gut gemacht). la lavatrice = Waschmaschine.",
-   "audio": "audio/it-de/wendungen/ba_10.mp3",
+   "audio": "audio/it-de/wendungen/ba_10.mp3?v=89563524",
    "satz": {
     "fr": "« Fai il bravo! » – « Faccio il bravo. » – « E perché il gatto è nella lavatrice? »",
     "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
     "luecke": "Fai il bravo",
-    "audio": "audio/it-de/saetze/ba_10.mp3"
+    "audio": "audio/it-de/saetze/ba_10.mp3?v=0dba6fbc"
    },
    "zeit": null
   },
@@ -4369,21 +4369,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "giocare",
    "notiz": "giocare a + Spiel (giocare a calcio, a carte); il nascondino = Versteckspiel (nascondersi); la tenda = Vorhang und Zelt. fuori = draußen.",
-   "audio": "audio/it-de/wendungen/ba_11.mp3",
+   "audio": "audio/it-de/wendungen/ba_11.mp3?v=abf84340",
    "satz": {
     "fr": "Giochiamo a nascondino. Si nasconde sempre dietro la tenda. Con i piedi fuori.",
     "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "luecke": "Giochiamo a nascondino",
-    "audio": "audio/it-de/saetze/ba_11.mp3"
+    "audio": "audio/it-de/saetze/ba_11.mp3?v=c9e5cb60"
    },
    "zeit": {
     "pc": {
      "fr": "Abbiamo giocato a nascondino tutto il pomeriggio.",
-     "audio": "audio/it-de/saetze/ba_11_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_11_pc.mp3?v=ed609448"
     },
     "fp": {
      "fr": "Giocheremo a nascondino dopo la merenda.",
-     "audio": "audio/it-de/saetze/ba_11_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_11_fp.mp3?v=43420a2a"
     }
    }
   },
@@ -4395,21 +4395,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "raccontare",
    "notiz": "la favola della buonanotte = Gute-Nacht-Geschichte; per farlo addormentare = damit er einschläft (fare + Infinitiv). dormo io = ich bin der, der schläft (io nachgestellt).",
-   "audio": "audio/it-de/wendungen/ba_12.mp3",
+   "audio": "audio/it-de/wendungen/ba_12.mp3?v=13cad908",
    "satz": {
     "fr": "Racconto una favola per farlo addormentare. Dopo tre pagine, dormo io.",
     "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "luecke": "Racconto una favola",
-    "audio": "audio/it-de/saetze/ba_12.mp3"
+    "audio": "audio/it-de/saetze/ba_12.mp3?v=93dba7bd"
    },
    "zeit": {
     "pc": {
      "fr": "Ho raccontato una favola.",
-     "audio": "audio/it-de/saetze/ba_12_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_12_pc.mp3?v=7426659b"
     },
     "fp": {
      "fr": "Racconterò una favola.",
-     "audio": "audio/it-de/saetze/ba_12_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_12_fp.mp3?v=67b308b8"
     }
    }
   },
@@ -4421,21 +4421,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "piangere",
    "notiz": "piangere = weinen, Partizip pianto; ridere = lachen, Partizip riso. Nicht verwechseln: piangere (weinen) – piovere (regnen).",
-   "audio": "audio/it-de/wendungen/ba_13.mp3",
+   "audio": "audio/it-de/wendungen/ba_13.mp3?v=5bc53618",
    "satz": {
     "fr": "Il bambino piange. Poi ride. Poi piange. È un concerto.",
     "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "luecke": "piange",
-    "audio": "audio/it-de/saetze/ba_13.mp3"
+    "audio": "audio/it-de/saetze/ba_13.mp3?v=e86ea435"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha pianto tutta la notte.",
-     "audio": "audio/it-de/saetze/ba_13_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_13_pc.mp3?v=66bfd650"
     },
     "fp": {
      "fr": "Il bambino piangerà, e io canterò.",
-     "audio": "audio/it-de/saetze/ba_13_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_13_fp.mp3?v=53aa9235"
     }
    }
   },
@@ -4447,12 +4447,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "cominciare",
    "notiz": "il braccio = Arm → l'abbraccio = Umarmung (abbracciare = umarmen); „un abbraccio“ auch als Briefschluss. tutti e due = beide.",
-   "audio": "audio/it-de/wendungen/ba_14.mp3",
+   "audio": "audio/it-de/wendungen/ba_14.mp3?v=06a69479",
    "satz": {
     "fr": "Un abbraccio prima della scuola, e la giornata comincia bene. Per tutti e due.",
     "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "luecke": "abbraccio",
-    "audio": "audio/it-de/saetze/ba_14.mp3"
+    "audio": "audio/it-de/saetze/ba_14.mp3?v=ca9fb67d"
    },
    "zeit": null
   },
@@ -4464,21 +4464,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "imparare",
    "notiz": "imparare a + Infinitiv; camminare = gehen, laufen (zu Fuß), correre = rennen. il passo = Schritt; la caduta = Sturz; la risata = das Lachen.",
-   "audio": "audio/it-de/wendungen/ba_15.mp3",
+   "audio": "audio/it-de/wendungen/ba_15.mp3?v=9e4e8a25",
    "satz": {
     "fr": "Impara a camminare. Tre passi, una caduta, una risata. La vita in miniatura.",
     "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "luecke": "Impara a camminare",
-    "audio": "audio/it-de/saetze/ba_15.mp3"
+    "audio": "audio/it-de/saetze/ba_15.mp3?v=4e4ab75e"
    },
    "zeit": {
     "pc": {
      "fr": "Ha imparato a camminare quest'estate.",
-     "audio": "audio/it-de/saetze/ba_15_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_15_pc.mp3?v=baa0cc4a"
     },
     "fp": {
      "fr": "Imparerà a camminare presto.",
-     "audio": "audio/it-de/saetze/ba_15_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_15_fp.mp3?v=fbd9cc27"
     }
    }
   },
@@ -4490,12 +4490,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "fiero / fiera = stolz; essere fiero di (nicht „auf“!) – di + i = dei; auch: orgoglioso di. la fierezza, l'orgoglio = der Stolz.",
-   "audio": "audio/it-de/wendungen/ba_16.mp3",
+   "audio": "audio/it-de/wendungen/ba_16.mp3?v=3ba3dfcc",
    "satz": {
     "fr": "Sono fiero dei miei alunni. Soprattutto quando non lo sanno.",
     "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "luecke": "fiero dei",
-    "audio": "audio/it-de/saetze/ba_16.mp3"
+    "audio": "audio/it-de/saetze/ba_16.mp3?v=19ed0690"
    },
    "zeit": null
   },
@@ -4507,12 +4507,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "la parola = Wort; le prime parole (weiblich Plural: prime). in quest'ordine = in dieser Reihenfolge (questo verkürzt vor Vokal). papà mit Akzent (ohne = der Papst!).",
-   "audio": "audio/it-de/wendungen/ba_17.mp3",
+   "audio": "audio/it-de/wendungen/ba_17.mp3?v=8fb1636f",
    "satz": {
     "fr": "Le sue prime parole: « papà », « gatto », « no ». In quest'ordine.",
     "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
     "luecke": "prime parole",
-    "audio": "audio/it-de/saetze/ba_17.mp3"
+    "audio": "audio/it-de/saetze/ba_17.mp3?v=6c03817c"
    },
    "zeit": null
   },
@@ -4524,21 +4524,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "bisogna + Infinitiv = man muss; ne ho = ich habe welche (ne = davon); pazienza! = was soll's (sehr häufig). finire = enden, mit -isc-: finisce.",
-   "audio": "audio/it-de/wendungen/ba_18.mp3",
+   "audio": "audio/it-de/wendungen/ba_18.mp3?v=e298051f",
    "satz": {
     "fr": "Con i bambini bisogna avere pazienza. Ne ho. Finisce alle cinque.",
     "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
     "luecke": "avere pazienza",
-    "audio": "audio/it-de/saetze/ba_18.mp3"
+    "audio": "audio/it-de/saetze/ba_18.mp3?v=96b7ee99"
    },
    "zeit": {
     "pc": {
      "fr": "Ho avuto pazienza tutto il giorno.",
-     "audio": "audio/it-de/saetze/ba_18_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_18_pc.mp3?v=ef77ba4d"
     },
     "fp": {
      "fr": "Avrò pazienza. Fino a mezzogiorno.",
-     "audio": "audio/it-de/saetze/ba_18_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_18_fp.mp3?v=37cbf2eb"
     }
    }
   },
@@ -4550,12 +4550,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "la merenda = Nachmittagssnack (fare merenda), feste Einrichtung für Kinder in Italien (pane e Nutella, pane e pomodoro). per solidarietà = aus Solidarität.",
-   "audio": "audio/it-de/wendungen/ba_19.mp3",
+   "audio": "audio/it-de/wendungen/ba_19.mp3?v=87f9c132",
    "satz": {
     "fr": "Alle quattro c'è la merenda. Per i bambini. E per me, per solidarietà.",
     "de": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "luecke": "merenda",
-    "audio": "audio/it-de/saetze/ba_19.mp3"
+    "audio": "audio/it-de/saetze/ba_19.mp3?v=d74d36a7"
    },
    "zeit": null
   },
@@ -4567,21 +4567,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "ridere",
    "notiz": "wörtlich „lachen, bis die Haut platzt“ (crepare = platzen, la pelle = Haut); auch: ridere a più non posso. starnutire = niesen; in effetti = tatsächlich, übrigens.",
-   "audio": "audio/it-de/wendungen/ba_20.mp3",
+   "audio": "audio/it-de/wendungen/ba_20.mp3?v=864a0516",
    "satz": {
     "fr": "Il bambino ride a crepapelle quando il gatto starnutisce. Anch'io, in effetti.",
     "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "luecke": "ride a crepapelle",
-    "audio": "audio/it-de/saetze/ba_20.mp3"
+    "audio": "audio/it-de/saetze/ba_20.mp3?v=dd857d5d"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha riso a crepapelle.",
-     "audio": "audio/it-de/saetze/ba_20_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_20_pc.mp3?v=4e7454a2"
     },
     "fp": {
      "fr": "Il bambino riderà a crepapelle.",
-     "audio": "audio/it-de/saetze/ba_20_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_20_fp.mp3?v=bce1eaa4"
     }
    }
   },
@@ -4593,21 +4593,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "il riposino = kleines Ausruhen (il riposo = Ruhe + -ino); auch: fare un pisolino, la pennichella (römisch). i piccoli / i grandi = die Kleinen / die Großen.",
-   "audio": "audio/it-de/wendungen/ba_21.mp3",
+   "audio": "audio/it-de/wendungen/ba_21.mp3?v=bc7e59ee",
    "satz": {
     "fr": "I piccoli fanno il riposino. I grandi anche, in segreto.",
     "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "luecke": "fanno il riposino",
-    "audio": "audio/it-de/saetze/ba_21.mp3"
+    "audio": "audio/it-de/saetze/ba_21.mp3?v=68ab89ce"
    },
    "zeit": {
     "pc": {
      "fr": "I piccoli hanno fatto il riposino.",
-     "audio": "audio/it-de/saetze/ba_21_pc.mp3"
+     "audio": "audio/it-de/saetze/ba_21_pc.mp3?v=c2b8be2a"
     },
     "fp": {
      "fr": "I piccoli faranno il riposino.",
-     "audio": "audio/it-de/saetze/ba_21_fp.mp3"
+     "audio": "audio/it-de/saetze/ba_21_fp.mp3?v=555f7a27"
     }
    }
   },
@@ -4619,12 +4619,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "il buio = die Dunkelheit (buio = dunkel); avere paura di + il = del. lasciare aperto = offen lassen; di guardia = auf Wache (essere di guardia = Bereitschaft haben).",
-   "audio": "audio/it-de/wendungen/ba_22.mp3",
+   "audio": "audio/it-de/wendungen/ba_22.mp3?v=8cee2d93",
    "satz": {
     "fr": "Ha paura del buio. Allora lasciamo la porta aperta. E il gatto di guardia.",
     "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
     "luecke": "Ha paura del buio",
-    "audio": "audio/it-de/saetze/ba_22.mp3"
+    "audio": "audio/it-de/saetze/ba_22.mp3?v=8806fec8"
    },
    "zeit": null
   },
@@ -4636,12 +4636,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "il bagnetto = Babybad (il bagno = Bad, Badezimmer + -etto); fare il bagno = baden; bagnato = nass (bagnare = nass machen). anche quelli che = auch die, die.",
-   "audio": "audio/it-de/wendungen/ba_23.mp3",
+   "audio": "audio/it-de/wendungen/ba_23.mp3?v=63387b77",
    "satz": {
     "fr": "È l'ora del bagnetto! Sono tutti bagnati. Anche quelli che non fanno il bagno.",
     "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "luecke": "l'ora del bagnetto",
-    "audio": "audio/it-de/saetze/ba_23.mp3"
+    "audio": "audio/it-de/saetze/ba_23.mp3?v=5de9e9e0"
    },
    "zeit": null
   },
@@ -4653,12 +4653,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "avere",
    "notiz": "Alter mit avere: ha due anni; quanti anni ha? = wie alt ist er / sind Sie (Lei). suo figlio = Ihr Sohn (Lei-Form, oft Suo groß). il dente, Plural i denti.",
-   "audio": "audio/it-de/wendungen/ba_24.mp3",
+   "audio": "audio/it-de/wendungen/ba_24.mp3?v=0237ecce",
    "satz": {
     "fr": "È adorabile. Quanti anni ha suo figlio? – Quattordici mesi. E quattro denti.",
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Quanti anni ha suo figlio",
-    "audio": "audio/it-de/saetze/ba_24.mp3"
+    "audio": "audio/it-de/saetze/ba_24.mp3?v=6c0903b8"
    },
    "zeit": null
   },
@@ -4670,12 +4670,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "caldo = warm, heiß (fa caldo = es ist heiß); kalt = freddo. Die bekannteste Falle für Deutsche, am Wasserhahn: C = caldo!",
-   "audio": "audio/it-de/wendungen/fa_01.mp3",
+   "audio": "audio/it-de/wendungen/fa_01.mp3?v=00c86c6b",
    "satz": {
     "fr": "Il caffè è caldo. Caldo, non freddo. Il tedesco inganna.",
     "de": "Der Kaffee ist heiß. Heiß, nicht kalt. Das Deutsche täuscht.",
     "luecke": "caldo",
-    "audio": "audio/it-de/saetze/fa_01.mp3"
+    "audio": "audio/it-de/saetze/fa_01.mp3?v=a0fed2e1"
    },
    "zeit": null
   },
@@ -4687,12 +4687,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "la camera = Zimmer, Schlafzimmer (camera da letto, camera d'albergo); Kamera = la macchina fotografica (Foto) oder la telecamera (Film).",
-   "audio": "audio/it-de/wendungen/fa_02.mp3",
+   "audio": "audio/it-de/wendungen/fa_02.mp3?v=f5541cbb",
    "satz": {
     "fr": "Ho una camera con vista. La macchina fotografica è nella camera.",
     "de": "Ich habe ein Zimmer mit Aussicht. Die Kamera ist im Zimmer.",
     "luecke": "camera",
-    "audio": "audio/it-de/saetze/fa_02.mp3"
+    "audio": "audio/it-de/saetze/fa_02.mp3?v=340d42ee"
    },
    "zeit": null
   },
@@ -4704,12 +4704,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "servire",
    "notiz": "la firma = Unterschrift (firmare = unterschreiben); Firma = l'azienda, la ditta, l'impresa. mi serve = ich brauche (servire wie piacere).",
-   "audio": "audio/it-de/wendungen/fa_03.mp3",
+   "audio": "audio/it-de/wendungen/fa_03.mp3?v=5982089b",
    "satz": {
     "fr": "Mi serve la sua firma. Non la sua azienda. Solo la firma.",
     "de": "Ich brauche Ihre Unterschrift. Nicht Ihre Firma. Nur die Unterschrift.",
     "luecke": "firma",
-    "audio": "audio/it-de/saetze/fa_03.mp3"
+    "audio": "audio/it-de/saetze/fa_03.mp3?v=4feb072f"
    },
    "zeit": null
   },
@@ -4721,12 +4721,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "i confetti = Zuckermandeln (Hochzeit, Taufe: fünf pro Gast); Konfetti = i coriandoli. il matrimonio = Hochzeit (und Ehe).",
-   "audio": "audio/it-de/wendungen/fa_04.mp3",
+   "audio": "audio/it-de/wendungen/fa_04.mp3?v=97cd2e55",
    "satz": {
     "fr": "Al matrimonio ci sono i confetti. Bianchi, di mandorla. I coriandoli sono di carta.",
     "de": "Bei der Hochzeit gibt es Zuckermandeln. Weiß, mit Mandel. Das Konfetti ist aus Papier.",
     "luecke": "confetti",
-    "audio": "audio/it-de/saetze/fa_04.mp3"
+    "audio": "audio/it-de/saetze/fa_04.mp3?v=397277b5"
    },
    "zeit": null
   },
@@ -4738,12 +4738,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "la cantina = Keller, Weinkeller, Weingut; Kantine = la mensa. il piano terra = Erdgeschoss. non confonderle = verwechsle sie nicht (verneinter Imperativ + le).",
-   "audio": "audio/it-de/wendungen/fa_05.mp3",
+   "audio": "audio/it-de/wendungen/fa_05.mp3?v=b989a05a",
    "satz": {
     "fr": "Il vino è in cantina. La mensa è al piano terra. Non confonderle.",
     "de": "Der Wein ist im Keller. Die Kantine ist im Erdgeschoss. Nicht verwechseln.",
     "luecke": "cantina",
-    "audio": "audio/it-de/saetze/fa_05.mp3"
+    "audio": "audio/it-de/saetze/fa_05.mp3?v=9707eb53"
    },
    "zeit": null
   },
@@ -4755,12 +4755,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "vivere",
    "notiz": "la fattoria = Bauernhof (il fattore = Verwalter); engl. factory = la fabbrica. la gallina = Henne. Nella vecchia fattoria, ia-ia-o.",
-   "audio": "audio/it-de/wendungen/fa_06.mp3",
+   "audio": "audio/it-de/wendungen/fa_06.mp3?v=113febf4",
    "satz": {
     "fr": "Vivo in una fattoria. Con galline. Non in una fabbrica.",
     "de": "Ich lebe auf einem Bauernhof. Mit Hühnern. Nicht in einer Fabrik.",
     "luecke": "fattoria",
-    "audio": "audio/it-de/saetze/fa_06.mp3"
+    "audio": "audio/it-de/saetze/fa_06.mp3?v=f959ca49"
    },
    "zeit": null
   },
@@ -4772,12 +4772,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "educato = höflich, wohlerzogen (l'educazione = Erziehung, Manieren); engl. educated = istruito, colto. maleducato = unhöflich, ungezogen.",
-   "audio": "audio/it-de/wendungen/fa_07.mp3",
+   "audio": "audio/it-de/wendungen/fa_07.mp3?v=86e7b8c7",
    "satz": {
     "fr": "Il mio gatto è educato. Non è istruito. Educato.",
     "de": "Meine Katze ist wohlerzogen. Nicht gebildet. Wohlerzogen.",
     "luecke": "educato",
-    "audio": "audio/it-de/saetze/fa_07.mp3"
+    "audio": "audio/it-de/saetze/fa_07.mp3?v=1b9bfd24"
    },
    "zeit": null
   },
@@ -4789,12 +4789,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "venire",
    "notiz": "eventualmente = gegebenenfalls, eventuell; engl. eventually = alla fine, infine. Wie frz. éventuellement und sp. eventualmente.",
-   "audio": "audio/it-de/wendungen/fa_08.mp3",
+   "audio": "audio/it-de/wendungen/fa_08.mp3?v=0cfe0b9c",
    "satz": {
     "fr": "Eventualmente verrò. Alla fine sono venuto. Non è la stessa cosa.",
     "de": "Möglicherweise komme ich. Schließlich bin ich gekommen. Das ist nicht dasselbe.",
     "luecke": "Eventualmente",
-    "audio": "audio/it-de/saetze/fa_08.mp3"
+    "audio": "audio/it-de/saetze/fa_08.mp3?v=1369494a"
    },
    "zeit": null
   },
@@ -4806,12 +4806,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "correggere",
    "notiz": "attualmente = zurzeit (attuale = gegenwärtig); engl. actually = in realtà, veramente. Dieselbe Falle wie actuellement / actualmente.",
-   "audio": "audio/it-de/wendungen/fa_09.mp3",
+   "audio": "audio/it-de/wendungen/fa_09.mp3?v=90237665",
    "satz": {
     "fr": "Attualmente correggo compiti. In realtà guardo il gatto.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Attualmente",
-    "audio": "audio/it-de/saetze/fa_09.mp3"
+    "audio": "audio/it-de/saetze/fa_09.mp3?v=02194b69"
    },
    "zeit": null
   },
@@ -4823,12 +4823,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "comprare",
    "notiz": "la libreria = Buchhandlung und Bücherregal; engl. library = la biblioteca. prendere in prestito = ausleihen; restituire = zurückgeben.",
-   "audio": "audio/it-de/wendungen/fa_10.mp3",
+   "audio": "audio/it-de/wendungen/fa_10.mp3?v=3d7a7ede",
    "satz": {
     "fr": "In libreria si compra. In biblioteca si prende in prestito. E si restituisce. In teoria.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "libreria",
-    "audio": "audio/it-de/saetze/fa_10.mp3"
+    "audio": "audio/it-de/saetze/fa_10.mp3?v=eb5ff8e3"
    },
    "zeit": null
   },
@@ -4840,21 +4840,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "assistere",
    "notiz": "assistere a = beiwohnen; assistere qualcuno (ohne a) = jemandem beistehen, pflegen; engl. to assist = aiutare. lì = dort.",
-   "audio": "audio/it-de/wendungen/fa_11.mp3",
+   "audio": "audio/it-de/wendungen/fa_11.mp3?v=429a3752",
    "satz": {
     "fr": "Assisto a una riunione. Non aiuto nessuno. Sono solo lì.",
     "de": "Ich wohne einer Sitzung bei. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "Assisto a",
-    "audio": "audio/it-de/saetze/fa_11.mp3"
+    "audio": "audio/it-de/saetze/fa_11.mp3?v=d90a1425"
    },
    "zeit": {
     "pc": {
      "fr": "Ho assistito a una riunione di tre ore.",
-     "audio": "audio/it-de/saetze/fa_11_pc.mp3"
+     "audio": "audio/it-de/saetze/fa_11_pc.mp3?v=af065ec7"
     },
     "fp": {
      "fr": "Assisterò a una riunione. Di nuovo.",
-     "audio": "audio/it-de/saetze/fa_11_fp.mp3"
+     "audio": "audio/it-de/saetze/fa_11_fp.mp3?v=74d98e16"
     }
    }
   },
@@ -4866,21 +4866,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "pretendere",
    "notiz": "pretendere = verlangen, erwarten, beanspruchen (pretende troppo = er verlangt zu viel); engl. to pretend = fare finta (di). Dreifach anders: frz. prétendre = behaupten, sp. pretender = vorhaben.",
-   "audio": "audio/it-de/wendungen/fa_12.mp3",
+   "audio": "audio/it-de/wendungen/fa_12.mp3?v=19e45eea",
    "satz": {
     "fr": "Pretende di passare senza studiare. E fa finta di studiare.",
     "de": "Er beansprucht, ohne Lernen zu bestehen. Und tut so, als lerne er.",
     "luecke": "Pretende",
-    "audio": "audio/it-de/saetze/fa_12.mp3"
+    "audio": "audio/it-de/saetze/fa_12.mp3?v=64d4026a"
    },
    "zeit": {
     "pc": {
      "fr": "Pretendeva di passare senza studiare.",
-     "audio": "audio/it-de/saetze/fa_12_pc.mp3"
+     "audio": "audio/it-de/saetze/fa_12_pc.mp3?v=9de7f6bc"
     },
     "fp": {
      "fr": "Pretenderà di passare senza studiare.",
-     "audio": "audio/it-de/saetze/fa_12_fp.mp3"
+     "audio": "audio/it-de/saetze/fa_12_fp.mp3?v=4b47b85b"
     }
    }
   },
@@ -4892,12 +4892,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "sensibile = empfindlich, feinfühlig; engl. sensible = ragionevole, sensato. Betonung: sen-SI-bile. Wie frz. sensible, sp. sensible.",
-   "audio": "audio/it-de/wendungen/fa_13.mp3",
+   "audio": "audio/it-de/wendungen/fa_13.mp3?v=2f34c6e5",
    "satz": {
     "fr": "Il mio gatto è molto sensibile. Non ragionevole. Sensibile.",
     "de": "Meine Katze ist sehr empfindsam. Nicht vernünftig. Empfindsam.",
     "luecke": "sensibile",
-    "audio": "audio/it-de/saetze/fa_13.mp3"
+    "audio": "audio/it-de/saetze/fa_13.mp3?v=a4b7dbbb"
    },
    "zeit": null
   },
@@ -4909,12 +4909,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "morbido = weich, zart (von lat. morbidus = krank, weich); engl. morbid = morboso. niente di + Adjektiv = nichts … (niente di nuovo).",
-   "audio": "audio/it-de/wendungen/fa_14.mp3",
+   "audio": "audio/it-de/wendungen/fa_14.mp3?v=ea9056ad",
    "satz": {
     "fr": "Il divano è morbido. Il gatto anche. Niente di morboso.",
     "de": "Das Sofa ist weich. Die Katze auch. Nichts Krankhaftes.",
     "luecke": "morbido",
-    "audio": "audio/it-de/saetze/fa_14.mp3"
+    "audio": "audio/it-de/saetze/fa_14.mp3?v=502694a5"
    },
    "zeit": null
   },
@@ -4926,12 +4926,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "venire",
    "notiz": "i parenti = Verwandte (il parente = der Verwandte); engl. parents = i genitori. Wie frz. parents (beides!). a Natale = zu Weihnachten.",
-   "audio": "audio/it-de/wendungen/fa_15.mp3",
+   "audio": "audio/it-de/wendungen/fa_15.mp3?v=f9c30476",
    "satz": {
     "fr": "A Natale vengono i parenti. Tutti. I genitori sono solo due.",
     "de": "Zu Weihnachten kommen die Verwandten. Alle. Eltern sind nur zwei.",
     "luecke": "parenti",
-    "audio": "audio/it-de/saetze/fa_15.mp3"
+    "audio": "audio/it-de/saetze/fa_15.mp3?v=e5a8b14e"
    },
    "zeit": null
   },
@@ -4943,12 +4943,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "dire",
    "notiz": "il preservativo = Kondom; engl. preservative = il conservante. Dieselbe Falle wie frz. préservatif, sp. preservativo. la marmellata = Marmelade.",
-   "audio": "audio/it-de/wendungen/fa_16.mp3",
+   "audio": "audio/it-de/wendungen/fa_16.mp3?v=74da9e29",
    "satz": {
     "fr": "« Senza preservativi » su una marmellata? No. Si dice « senza conservanti ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "preservativi",
-    "audio": "audio/it-de/saetze/fa_16.mp3"
+    "audio": "audio/it-de/saetze/fa_16.mp3?v=233c8655"
    },
    "zeit": null
   },
@@ -4960,12 +4960,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "il rumore = Lärm, Geräusch (rumoroso = laut); engl. rumour = la voce, la diceria (voci di corridoio = Flurfunk). e basta = und fertig, mehr nicht.",
-   "audio": "audio/it-de/wendungen/fa_17.mp3",
+   "audio": "audio/it-de/wendungen/fa_17.mp3?v=8b33f108",
    "satz": {
     "fr": "In classe c'è rumore. Non voci di corridoio. Rumore e basta.",
     "de": "In der Klasse ist Lärm. Keine Gerüchte. Nur Lärm.",
     "luecke": "rumore",
-    "audio": "audio/it-de/saetze/fa_17.mp3"
+    "audio": "audio/it-de/saetze/fa_17.mp3?v=3a35adea"
    },
    "zeit": null
   },
@@ -4977,12 +4977,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "avere",
    "notiz": "la stanza = Zimmer, Raum (wie la camera); engl. stanza (Strophe) = la strofa. la parete = Wand (innen), il muro = Mauer. la poesia = Gedicht.",
-   "audio": "audio/it-de/wendungen/fa_18.mp3",
+   "audio": "audio/it-de/wendungen/fa_18.mp3?v=50b4827e",
    "satz": {
     "fr": "Una stanza tutta per me. Con una poesia alla parete. Di tre strofe.",
     "de": "Ein Zimmer ganz für mich. Mit einem Gedicht an der Wand. Mit drei Strophen.",
     "luecke": "stanza",
-    "audio": "audio/it-de/saetze/fa_18.mp3"
+    "audio": "audio/it-de/saetze/fa_18.mp3?v=628090af"
    },
    "zeit": null
   },
@@ -4994,12 +4994,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "esserci",
    "notiz": "il casino = Durcheinander, Chaos (umgangssprachlich; ursprünglich Bordell – nicht am Schalter sagen!); Spielcasino = il casinò (Betonung hinten!). un casino di = jede Menge.",
-   "audio": "audio/it-de/wendungen/fa_19.mp3",
+   "audio": "audio/it-de/wendungen/fa_19.mp3?v=88866658",
    "satz": {
     "fr": "In sala professori c'è un casino. Non si gioca. È solo disordine.",
     "de": "Im Lehrerzimmer ist ein Chaos. Es wird nicht gespielt. Es ist nur Unordnung.",
     "luecke": "casino",
-    "audio": "audio/it-de/saetze/fa_19.mp3"
+    "audio": "audio/it-de/saetze/fa_19.mp3?v=811dd60a"
    },
    "zeit": null
   },
@@ -5011,12 +5011,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "chiedere",
    "notiz": "il burro = Butter; sp. burro = Esel (ital. l'asino). pasta al burro = Nudeln mit Butter. chiedere = bitten um, fragen. Diego kennt Giovanni jetzt.",
-   "audio": "audio/it-de/wendungen/fa_20.mp3",
+   "audio": "audio/it-de/wendungen/fa_20.mp3?v=f6deb1c3",
    "satz": {
     "fr": "Chiedo il burro a Siviglia e Diego ride. In Spagna « burro » è un asino.",
     "de": "Ich verlange in Sevilla Butter, und Diego lacht. In Spanien ist „burro“ ein Esel.",
     "luecke": "burro",
-    "audio": "audio/it-de/saetze/fa_20.mp3"
+    "audio": "audio/it-de/saetze/fa_20.mp3?v=c9cfb352"
    },
    "zeit": null
   },
@@ -5028,21 +5028,21 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "salire",
    "notiz": "salire = hinaufgehen, einsteigen (salgo, sali; mit essere); frz. salir = sporcare, sp. salir = uscire (hinausgehen). Dreifachfalle. scendere = aussteigen.",
-   "audio": "audio/it-de/wendungen/fa_21.mp3",
+   "audio": "audio/it-de/wendungen/fa_21.mp3?v=0b639b6c",
    "satz": {
     "fr": "Salgo sul treno. Non lo sporco. In francese « salir » è sporcare.",
     "de": "Ich steige in den Zug ein. Ich mache ihn nicht schmutzig. Auf Französisch heißt „salir“ beschmutzen.",
     "luecke": "Salgo",
-    "audio": "audio/it-de/saetze/fa_21.mp3"
+    "audio": "audio/it-de/saetze/fa_21.mp3?v=5a0f2767"
    },
    "zeit": {
     "pc": {
      "fr": "Sono salito sul treno.",
-     "audio": "audio/it-de/saetze/fa_21_pc.mp3"
+     "audio": "audio/it-de/saetze/fa_21_pc.mp3?v=08c50e6e"
     },
     "fp": {
      "fr": "Salirò sul treno.",
-     "audio": "audio/it-de/saetze/fa_21_fp.mp3"
+     "audio": "audio/it-de/saetze/fa_21_fp.mp3?v=fa354c59"
     }
    }
   },
@@ -5054,12 +5054,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "essere",
    "notiz": "largo = breit (wie frz. large); lang = lungo; groß = grande. sp. largo = lang! Also: ital. largo = sp. ancho, sp. largo = ital. lungo.",
-   "audio": "audio/it-de/wendungen/fa_22.mp3",
+   "audio": "audio/it-de/wendungen/fa_22.mp3?v=e06b60d5",
    "satz": {
     "fr": "Una strada larga. Non lunga. Larga. Lo spagnolo dice il contrario.",
     "de": "Eine breite Straße. Nicht lang. Breit. Das Spanische sagt das Gegenteil.",
     "luecke": "larga",
-    "audio": "audio/it-de/saetze/fa_22.mp3"
+    "audio": "audio/it-de/saetze/fa_22.mp3?v=e26e3738"
    },
    "zeit": null
   },
@@ -5071,12 +5071,12 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "la gamba = Bein; sp. gamba = Garnele = ital. il gambero / il gamberetto. mi fa male = tut mir weh. in gamba = tüchtig, fit (essere in gamba).",
-   "audio": "audio/it-de/wendungen/fa_23.mp3",
+   "audio": "audio/it-de/wendungen/fa_23.mp3?v=75c202c3",
    "satz": {
     "fr": "Mi fa male la gamba. In Spagna mi porterebbero un gamberetto.",
     "de": "Mein Bein tut weh. In Spanien würde man mir eine Garnele bringen.",
     "luecke": "gamba",
-    "audio": "audio/it-de/saetze/fa_23.mp3"
+    "audio": "audio/it-de/saetze/fa_23.mp3?v=f45db543"
    },
    "zeit": null
   },
@@ -5088,12 +5088,12 @@ window.SPRACHEN["it-de"] = {
    "register": "vous",
    "anker": "cercare",
    "notiz": "scusi = Lei-Form von scusare (unter Freunden: scusa); cercare = suchen (ohne Präposition: cerco la biblioteca). gratis = kostenlos (auch: gratuito).",
-   "audio": "audio/it-de/wendungen/fa_24.mp3",
+   "audio": "audio/it-de/wendungen/fa_24.mp3?v=875a700f",
    "satz": {
     "fr": "Scusi, cerco la biblioteca. – La libreria? – No, la biblioteca. Quella con i libri gratis.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
     "luecke": "cerco la biblioteca",
-    "audio": "audio/it-de/saetze/fa_24.mp3"
+    "audio": "audio/it-de/saetze/fa_24.mp3?v=45bd29be"
    },
    "zeit": null
   }
@@ -5109,70 +5109,70 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Ciao Giovanni! Quanto tempo!",
      "de": "Hallo Giovanni! Lange nicht gesehen!",
-     "audio": "audio/it-de/dialoge/d1_01.mp3"
+     "audio": "audio/it-de/dialoge/d1_01.mp3?v=bbf7344f"
     },
     {
      "id": "d1_02",
      "rolle": "B",
      "fr": "Ciao Alex. Tre giorni. Ma sì, un'eternità.",
      "de": "Hallo Alex. Drei Tage. Aber ja, eine Ewigkeit.",
-     "audio": "audio/it-de/dialoge/d1_02.mp3"
+     "audio": "audio/it-de/dialoge/d1_02.mp3?v=79ef4390"
     },
     {
      "id": "d1_03",
      "rolle": "A",
      "fr": "Allora, la lezione con la terza, com'è andata?",
      "de": "Und, die Stunde mit der Dritten, wie ist es gelaufen?",
-     "audio": "audio/it-de/dialoge/d1_03.mp3"
+     "audio": "audio/it-de/dialoge/d1_03.mp3?v=3544d901"
     },
     {
      "id": "d1_04",
      "rolle": "B",
      "fr": "Benissimo. Si sono addormentati. Anch'io, quasi.",
      "de": "Sehr gut. Sie sind eingeschlafen. Ich fast auch.",
-     "audio": "audio/it-de/dialoge/d1_04.mp3"
+     "audio": "audio/it-de/dialoge/d1_04.mp3?v=917c730c"
     },
     {
      "id": "d1_05",
      "rolle": "A",
      "fr": "Io faccio fatica a farli stare zitti il venerdì.",
      "de": "Ich kriege sie freitags kaum ruhig.",
-     "audio": "audio/it-de/dialoge/d1_05.mp3"
+     "audio": "audio/it-de/dialoge/d1_05.mp3?v=9519c433"
     },
     {
      "id": "d1_06",
      "rolle": "B",
      "fr": "Facile. Parli di grammatica. Silenzio totale.",
      "de": "Ganz einfach. Du redest über Grammatik. Totenstille.",
-     "audio": "audio/it-de/dialoge/d1_06.mp3"
+     "audio": "audio/it-de/dialoge/d1_06.mp3?v=92e7198b"
     },
     {
      "id": "d1_07",
      "rolle": "A",
      "fr": "E tu? Non sei distrutto?",
      "de": "Und du? Bist du nicht fix und fertig?",
-     "audio": "audio/it-de/dialoge/d1_07.mp3"
+     "audio": "audio/it-de/dialoge/d1_07.mp3?v=d3e45bc3"
     },
     {
      "id": "d1_08",
      "rolle": "B",
      "fr": "Sì. Quindi stasera correggo i compiti… davanti a un film.",
      "de": "Doch. Also korrigiere ich heute Abend Arbeiten … vor einem Film.",
-     "audio": "audio/it-de/dialoge/d1_08.mp3"
+     "audio": "audio/it-de/dialoge/d1_08.mp3?v=fcb14fe4"
     },
     {
      "id": "d1_09",
      "rolle": "A",
      "fr": "Un bel film?",
      "de": "Ein guter Film?",
-     "audio": "audio/it-de/dialoge/d1_09.mp3"
+     "audio": "audio/it-de/dialoge/d1_09.mp3?v=1f95e5c8"
     },
     {
      "id": "d1_10",
      "rolle": "B",
      "fr": "Non lo so. Guardo i compiti.",
      "de": "Keine Ahnung. Ich schaue die Arbeiten an.",
-     "audio": "audio/it-de/dialoge/d1_10.mp3"
+     "audio": "audio/it-de/dialoge/d1_10.mp3?v=038411c0"
     }
    ]
   },
@@ -5186,70 +5186,70 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Tutto bene, Alex? Hai una faccia cupa.",
      "de": "Alles klar, Alex? Du siehst düster aus.",
-     "audio": "audio/it-de/dialoge/d2_01.mp3"
+     "audio": "audio/it-de/dialoge/d2_01.mp3?v=9febab0f"
     },
     {
      "id": "d2_02",
      "rolle": "A",
      "fr": "Sono giù di morale. Il mio gatto non mi guarda più.",
      "de": "Ich bin niedergeschlagen. Meine Katze schaut mich nicht mehr an.",
-     "audio": "audio/it-de/dialoge/d2_02.mp3"
+     "audio": "audio/it-de/dialoge/d2_02.mp3?v=26ec32bb"
     },
     {
      "id": "d2_03",
      "rolle": "B",
      "fr": "Da quando?",
      "de": "Seit wann?",
-     "audio": "audio/it-de/dialoge/d2_03.mp3"
+     "audio": "audio/it-de/dialoge/d2_03.mp3?v=cc940ee7"
     },
     {
      "id": "d2_04",
      "rolle": "A",
      "fr": "Da quando ho cantato in italiano.",
      "de": "Seit ich auf Italienisch gesungen habe.",
-     "audio": "audio/it-de/dialoge/d2_04.mp3"
+     "audio": "audio/it-de/dialoge/d2_04.mp3?v=d5527f2d"
     },
     {
      "id": "d2_05",
      "rolle": "B",
      "fr": "Ah. E cosa hai cantato?",
      "de": "Ah. Und was hast du gesungen?",
-     "audio": "audio/it-de/dialoge/d2_05.mp3"
+     "audio": "audio/it-de/dialoge/d2_05.mp3?v=a6e5b492"
     },
     {
      "id": "d2_06",
      "rolle": "A",
      "fr": "« Volare ». A squarciagola. Due volte.",
      "de": "„Volare“. Aus voller Kehle. Zweimal.",
-     "audio": "audio/it-de/dialoge/d2_06.mp3"
+     "audio": "audio/it-de/dialoge/d2_06.mp3?v=60242746"
     },
     {
      "id": "d2_07",
      "rolle": "B",
      "fr": "Alex… mi spezza il cuore, ma il tuo gatto ha ragione.",
      "de": "Alex … das bricht mir das Herz, aber deine Katze hat recht.",
-     "audio": "audio/it-de/dialoge/d2_07.mp3"
+     "audio": "audio/it-de/dialoge/d2_07.mp3?v=d9794632"
     },
     {
      "id": "d2_08",
      "rolle": "A",
      "fr": "Lo trovi inquietante?",
      "de": "Findest du das beunruhigend?",
-     "audio": "audio/it-de/dialoge/d2_08.mp3"
+     "audio": "audio/it-de/dialoge/d2_08.mp3?v=bc58d52e"
     },
     {
      "id": "d2_09",
      "rolle": "B",
      "fr": "No. Lo trovo rilassante. Per il gatto è finita.",
      "de": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
-     "audio": "audio/it-de/dialoge/d2_09.mp3"
+     "audio": "audio/it-de/dialoge/d2_09.mp3?v=d126844a"
     },
     {
      "id": "d2_10",
      "rolle": "A",
      "fr": "Grazie, Giovanni. Mi tocca. Credo.",
      "de": "Danke, Giovanni. Das berührt mich. Glaube ich.",
-     "audio": "audio/it-de/dialoge/d2_10.mp3"
+     "audio": "audio/it-de/dialoge/d2_10.mp3?v=0c88daf4"
     }
    ]
   }
@@ -5285,85 +5285,85 @@ window.SPRACHEN["it-de"] = {
      "id": "k01_01",
      "fr": "Chiara Rossi era professoressa a Bologna. Una professoressa normale. Beh, quasi.",
      "de": "Chiara Rossi war Lehrerin in Bologna. Eine normale Lehrerin. Na ja, fast.",
-     "audio": "audio/it-de/geschichte/k01_01.mp3"
+     "audio": "audio/it-de/geschichte/k01_01.mp3?v=9e30d190"
     },
     {
      "id": "k01_02",
      "fr": "Quel venerdì pomeriggio **correggeva i compiti**, come tutti i venerdì. **Era distrutta**. Fuori pioveva. Dentro, il suo gatto **faceva un pisolino** sui compiti già corretti.",
      "de": "An jenem Freitagnachmittag korrigierte sie Arbeiten, wie jeden Freitag. Sie war fix und fertig. Draußen regnete es. Drinnen machte ihre Katze ein Nickerchen auf den schon korrigierten Arbeiten.",
-     "audio": "audio/it-de/geschichte/k01_02.mp3"
+     "audio": "audio/it-de/geschichte/k01_02.mp3?v=45ea9f04"
     },
     {
      "id": "k01_03",
      "fr": "Il compito numero diciassette era quello di Luca, un alunno di terza che scriveva poco, ma bene.",
      "de": "Die siebzehnte Arbeit war die von Luca, einem Schüler der Dritten, der wenig schrieb, aber gut.",
-     "audio": "audio/it-de/geschichte/k01_03.mp3"
+     "audio": "audio/it-de/geschichte/k01_03.mp3?v=31f437e9"
     },
     {
      "id": "k01_04",
      "fr": "Tra pagina due e pagina tre c'era qualcosa. Un biglietto. Un biglietto d'ingresso per la Torre degli Asinelli.",
      "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Karte. Eine Eintrittskarte für die Torre degli Asinelli.",
-     "audio": "audio/it-de/geschichte/k01_04.mp3"
+     "audio": "audio/it-de/geschichte/k01_04.mp3?v=ce6cee02"
     },
     {
      "id": "k01_05",
      "fr": "Chiara ha guardato la data. Domani. Sabato. Dieci di mattina.",
      "de": "Chiara sah auf das Datum. Morgen. Samstag. Zehn Uhr morgens.",
-     "audio": "audio/it-de/geschichte/k01_05.mp3"
+     "audio": "audio/it-de/geschichte/k01_05.mp3?v=5bb8b3ff"
     },
     {
      "id": "k01_06",
      "fr": "Sul retro, qualcuno aveva scritto in lettere blu: « Gradino 249. Venga sola. E non abbia paura. »",
      "de": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: „Stufe 249. Kommen Sie allein. Und haben Sie keine Angst.“",
-     "audio": "audio/it-de/geschichte/k01_06.mp3"
+     "audio": "audio/it-de/geschichte/k01_06.mp3?v=b90e4867"
     },
     {
      "id": "k01_07",
      "fr": "Chiara **non aveva paura**. Non ancora. **Faceva fatica a** capire, tutto qui.",
      "de": "Chiara hatte keine Angst. Noch nicht. Es fiel ihr nur schwer, das zu verstehen, das war alles.",
-     "audio": "audio/it-de/geschichte/k01_07.mp3"
+     "audio": "audio/it-de/geschichte/k01_07.mp3?v=620f1bda"
     },
     {
      "id": "k01_08",
      "fr": "Luca non era un alunno misterioso. Era un alunno che disegnava gatti ai margini.",
      "de": "Luca war kein geheimnisvoller Schüler. Er war ein Schüler, der Katzen an den Rand malte.",
-     "audio": "audio/it-de/geschichte/k01_08.mp3"
+     "audio": "audio/it-de/geschichte/k01_08.mp3?v=eb4ead6a"
     },
     {
      "id": "k01_09",
      "fr": "Chiara ha guardato il suo gatto. Il gatto ha guardato lei. **Aveva uno sguardo** che diceva: « Vai. »",
      "de": "Chiara sah ihre Katze an. Die Katze sah sie an. Sie hatte einen Blick, der sagte: „Geh.“",
-     "audio": "audio/it-de/geschichte/k01_09.mp3"
+     "audio": "audio/it-de/geschichte/k01_09.mp3?v=430b345e"
     },
     {
      "id": "k01_10",
      "fr": "« È uno scherzo », ha detto Chiara ad alta voce. Il gatto non ha detto niente. I gatti non dicono mai niente. È la loro forza.",
      "de": "„Das ist ein Scherz“, sagte Chiara laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
-     "audio": "audio/it-de/geschichte/k01_10.mp3"
+     "audio": "audio/it-de/geschichte/k01_10.mp3?v=6c02edab"
     },
     {
      "id": "k01_11",
      "fr": "Quella notte Chiara **non ha dormito tutta la notte**. Ha sognato una scala senza fine e una porta che non era su nessuna pianta.",
      "de": "In jener Nacht schlief Chiara nicht durch. Sie träumte von einer endlosen Treppe und einer Tür, die auf keinem Plan war.",
-     "audio": "audio/it-de/geschichte/k01_11.mp3"
+     "audio": "audio/it-de/geschichte/k01_11.mp3?v=dc6586b6"
     },
     {
      "id": "k01_12",
      "fr": "Alle sette si è alzata. **Col piede giusto**. Il sinistro. Come sempre.",
      "de": "Um sieben stand sie auf. Mit dem richtigen Fuß. Dem linken. Wie immer.",
-     "audio": "audio/it-de/geschichte/k01_12.mp3"
+     "audio": "audio/it-de/geschichte/k01_12.mp3?v=9230ca5f"
     },
     {
      "id": "k01_13",
      "fr": "**Ha fatto la spesa** del sabato. Poi ha guardato l'orologio. Nove e un quarto. La Torre era a dieci minuti a piedi, sotto i portici.",
      "de": "Sie machte den Samstagseinkauf. Dann sah sie auf die Uhr. Viertel nach neun. Der Turm war zehn Minuten zu Fuß entfernt, unter den Arkaden.",
-     "audio": "audio/it-de/geschichte/k01_13.mp3"
+     "audio": "audio/it-de/geschichte/k01_13.mp3?v=10045ff0"
     },
     {
      "id": "k01_14",
      "fr": "« Vado solo a guardare », ha detto al gatto. Il gatto ha chiuso gli occhi. Sapeva che non era vero.",
      "de": "„Ich schau nur“, sagte sie zur Katze. Die Katze schloss die Augen. Sie wusste, dass das nicht stimmte.",
-     "audio": "audio/it-de/geschichte/k01_14.mp3"
+     "audio": "audio/it-de/geschichte/k01_14.mp3?v=8889d6dc"
     }
    ]
   },
@@ -5375,91 +5375,91 @@ window.SPRACHEN["it-de"] = {
      "id": "k02_01",
      "fr": "Alle dieci meno cinque Chiara era sotto le Due Torri. Era la prima volta che ci andava senza trenta alunni dietro.",
      "de": "Um fünf vor zehn stand Chiara unter den Zwei Türmen. Es war das erste Mal, dass sie ohne dreißig Schüler im Schlepptau hinging.",
-     "audio": "audio/it-de/geschichte/k02_01.mp3"
+     "audio": "audio/it-de/geschichte/k02_01.mp3?v=0aaacf02"
     },
     {
      "id": "k02_02",
      "fr": "Il biglietto era vero. L'uomo della biglietteria l'ha guardata, ha guardato il biglietto e ha detto: « Gradino 249. Sempre dritto, poi su. » Senza che lei chiedesse.",
      "de": "Die Karte war echt. Der Mann an der Kasse sah sie an, sah die Karte an und sagte: „Stufe 249. Immer geradeaus, dann hinauf.“ Ohne dass sie gefragt hätte.",
-     "audio": "audio/it-de/geschichte/k02_02.mp3"
+     "audio": "audio/it-de/geschichte/k02_02.mp3?v=0a93df33"
     },
     {
      "id": "k02_03",
      "fr": "**Era inquietante**. Un po'. Chiara ha deciso che era gentile.",
      "de": "Das war unheimlich. Ein bisschen. Chiara beschloss, dass es freundlich war.",
-     "audio": "audio/it-de/geschichte/k02_03.mp3"
+     "audio": "audio/it-de/geschichte/k02_03.mp3?v=cf080967"
     },
     {
      "id": "k02_04",
      "fr": "Sotto i portici **era tranquillo**. Troppo. Niente turisti, niente studenti, niente biciclette. Solo la pioggia sulle colonne e l'odore di caffè.",
      "de": "Unter den Arkaden war es ruhig. Zu ruhig. Keine Touristen, keine Studenten, keine Fahrräder. Nur der Regen auf den Säulen und der Geruch von Kaffee.",
-     "audio": "audio/it-de/geschichte/k02_04.mp3"
+     "audio": "audio/it-de/geschichte/k02_04.mp3?v=ff774c49"
     },
     {
      "id": "k02_05",
      "fr": "E un gatto. Un **gatto randagio**, grigio, seduto ai piedi della Garisenda come se fosse sua.",
      "de": "Und eine Katze. Eine graue Straßenkatze, die am Fuß der Garisenda saß, als gehörte sie ihr.",
-     "audio": "audio/it-de/geschichte/k02_05.mp3"
+     "audio": "audio/it-de/geschichte/k02_05.mp3?v=b4a303b9"
     },
     {
      "id": "k02_06",
      "fr": "Il gatto l'ha guardata. Chiara conosceva quello sguardo. Era lo sguardo del suo gatto. Esattamente lo stesso.",
      "de": "Die Katze sah sie an. Chiara kannte diesen Blick. Es war der Blick ihrer eigenen Katze. Genau derselbe.",
-     "audio": "audio/it-de/geschichte/k02_06.mp3"
+     "audio": "audio/it-de/geschichte/k02_06.mp3?v=ebe82556"
     },
     {
      "id": "k02_07",
      "fr": "« È impossibile », ha pensato. « Il mio gatto è a casa, a dormire su un compito di terza. »",
      "de": "„Das ist unmöglich“, dachte sie. „Meine Katze liegt zu Hause und schläft auf einer Arbeit der Dritten.“",
-     "audio": "audio/it-de/geschichte/k02_07.mp3"
+     "audio": "audio/it-de/geschichte/k02_07.mp3?v=3d7a90ee"
     },
     {
      "id": "k02_08",
      "fr": "Il gatto grigio si è alzato, **si è strusciato contro** una colonna ed è andato piano verso la porta della Torre. Poi si è girato. Aspettava.",
      "de": "Die graue Katze stand auf, rieb sich an einer Säule und ging langsam zur Tür des Turms. Dann drehte sie sich um. Sie wartete.",
-     "audio": "audio/it-de/geschichte/k02_08.mp3"
+     "audio": "audio/it-de/geschichte/k02_08.mp3?v=d0862f21"
     },
     {
      "id": "k02_09",
      "fr": "Chiara **aveva il magone**. Ma aveva anche curiosità. La curiosità, in una professoressa, vince sempre.",
      "de": "Chiara hatte einen Kloß im Hals. Aber sie war auch neugierig. Die Neugier gewinnt bei einer Lehrerin immer.",
-     "audio": "audio/it-de/geschichte/k02_09.mp3"
+     "audio": "audio/it-de/geschichte/k02_09.mp3?v=cdfda8e7"
     },
     {
      "id": "k02_10",
      "fr": "Ha seguito il gatto. Sono entrati nella Torre. Quattrocentonovantotto gradini di legno, stretti, ripidi. Chiara li aveva saliti venti volte con gli alunni.",
      "de": "Sie folgte der Katze. Sie betraten den Turm. Vierhundertachtundneunzig Holzstufen, eng, steil. Chiara war sie zwanzigmal mit Schülern hinaufgestiegen.",
-     "audio": "audio/it-de/geschichte/k02_10.mp3"
+     "audio": "audio/it-de/geschichte/k02_10.mp3?v=fcf5b0ef"
     },
     {
      "id": "k02_11",
      "fr": "Il gatto saliva davanti. Non si fermava mai. Chiara contava i gradini. Cento. Duecento. Le gambe bruciavano.",
      "de": "Die Katze stieg voran. Sie blieb nie stehen. Chiara zählte die Stufen. Hundert. Zweihundert. Die Beine brannten.",
-     "audio": "audio/it-de/geschichte/k02_11.mp3"
+     "audio": "audio/it-de/geschichte/k02_11.mp3?v=83d13ef8"
     },
     {
      "id": "k02_12",
      "fr": "Duecentoquarantanove. Il gatto si è fermato. Lì, dove c'era sempre stato un muro di mattoni, oggi c'era una porta.",
      "de": "Zweihundertneunundvierzig. Die Katze blieb stehen. Dort, wo immer eine Backsteinmauer gewesen war, war heute eine Tür.",
-     "audio": "audio/it-de/geschichte/k02_12.mp3"
+     "audio": "audio/it-de/geschichte/k02_12.mp3?v=8f0a8462"
     },
     {
      "id": "k02_13",
      "fr": "Piccola, di legno scuro, senza maniglia. Chiara l'aveva superata venti volte senza vederla. Perché non c'era.",
      "de": "Klein, aus dunklem Holz, ohne Klinke. Chiara war zwanzigmal daran vorbeigegangen, ohne sie zu sehen. Weil sie nicht da gewesen war.",
-     "audio": "audio/it-de/geschichte/k02_13.mp3"
+     "audio": "audio/it-de/geschichte/k02_13.mp3?v=e280bb23"
     },
     {
      "id": "k02_14",
      "fr": "Il gatto si è seduto davanti alla porta. E, per la prima volta, **ha miagolato**.",
      "de": "Die Katze setzte sich vor die Tür. Und miaute, zum ersten Mal.",
-     "audio": "audio/it-de/geschichte/k02_14.mp3"
+     "audio": "audio/it-de/geschichte/k02_14.mp3?v=9dd30f0b"
     },
     {
      "id": "k02_15",
      "fr": "Chiara ha guardato l'orologio. Le dieci e un quarto. « **Prenditi il tuo tempo** », si è detta. Non se l'è preso.",
      "de": "Chiara sah auf die Uhr. Viertel nach zehn. „Lass dir Zeit“, sagte sie sich. Sie ließ sich keine.",
-     "audio": "audio/it-de/geschichte/k02_15.mp3"
+     "audio": "audio/it-de/geschichte/k02_15.mp3?v=58827ad3"
     }
    ]
   },
@@ -5471,91 +5471,91 @@ window.SPRACHEN["it-de"] = {
      "id": "k03_01",
      "fr": "La porta era di legno scuro, con una piastrella piccola al centro: un gatto blu su fondo bianco.",
      "de": "Die Tür war aus dunklem Holz, mit einer kleinen Kachel in der Mitte: eine blaue Katze auf weißem Grund.",
-     "audio": "audio/it-de/geschichte/k03_01.mp3"
+     "audio": "audio/it-de/geschichte/k03_01.mp3?v=871ba540"
     },
     {
      "id": "k03_02",
      "fr": "Nessun cartello. Nessun numero. In una torre con novecento anni di cartelli, era già strano.",
      "de": "Kein Schild. Keine Nummer. In einem Turm mit neunhundert Jahren Schildern war das schon seltsam.",
-     "audio": "audio/it-de/geschichte/k03_02.mp3"
+     "audio": "audio/it-de/geschichte/k03_02.mp3?v=d0e3b32d"
     },
     {
      "id": "k03_03",
      "fr": "Chiara ha spinto. La porta si è aperta senza rumore. **All'improvviso**, il vento sulla scala ha smesso di fischiare.",
      "de": "Chiara drückte. Die Tür öffnete sich lautlos. Plötzlich hörte der Wind auf der Treppe auf zu pfeifen.",
-     "audio": "audio/it-de/geschichte/k03_03.mp3"
+     "audio": "audio/it-de/geschichte/k03_03.mp3?v=5c9029b7"
     },
     {
      "id": "k03_04",
      "fr": "Dietro c'era una stanza piccola, rotonda, con le pareti coperte di piastrelle. Centinaia di piastrelle. E su ognuna, un gatto.",
      "de": "Dahinter lag ein kleiner, runder Raum, die Wände voller Kacheln. Hunderte Kacheln. Und auf jeder eine Katze.",
-     "audio": "audio/it-de/geschichte/k03_04.mp3"
+     "audio": "audio/it-de/geschichte/k03_04.mp3?v=a173dacc"
     },
     {
      "id": "k03_05",
      "fr": "Gatti seduti, gatti addormentati, gatti che guardavano. Gatti del Duecento con la stessa faccia del gatto di Chiara.",
      "de": "Sitzende Katzen, schlafende Katzen, Katzen, die schauten. Katzen aus dem dreizehnten Jahrhundert mit demselben Gesicht wie Chiaras Katze.",
-     "audio": "audio/it-de/geschichte/k03_05.mp3"
+     "audio": "audio/it-de/geschichte/k03_05.mp3?v=051288d7"
     },
     {
      "id": "k03_06",
      "fr": "Al centro della stanza, una finestra. Senza vetro. E sopra la finestra, una piastrella diversa: più grande, più antica, con un gatto che non guardava nessuno. Guardava verso la porta.",
      "de": "In der Mitte des Raums ein Fenster. Ohne Glas. Und über dem Fenster eine andere Kachel: größer, älter, mit einer Katze, die niemanden ansah. Sie sah zur Tür.",
-     "audio": "audio/it-de/geschichte/k03_06.mp3"
+     "audio": "audio/it-de/geschichte/k03_06.mp3?v=73fcdde1"
     },
     {
      "id": "k03_07",
      "fr": "Chiara si è avvicinata. Le piastrelle erano fredde. Tutte tranne una.",
      "de": "Chiara trat näher. Die Kacheln waren kalt. Alle bis auf eine.",
-     "audio": "audio/it-de/geschichte/k03_07.mp3"
+     "audio": "audio/it-de/geschichte/k03_07.mp3?v=a3868656"
     },
     {
      "id": "k03_08",
      "fr": "La piastrella grande era tiepida. Come un gatto al sole.",
      "de": "Die große Kachel war lauwarm. Wie eine Katze in der Sonne.",
-     "audio": "audio/it-de/geschichte/k03_08.mp3"
+     "audio": "audio/it-de/geschichte/k03_08.mp3?v=164d3759"
     },
     {
      "id": "k03_09",
      "fr": "E allora l'ha sentito. Piano. Regolare. **Le fusa**.",
      "de": "Und dann hörte sie es. Leise. Gleichmäßig. Ein Schnurren.",
-     "audio": "audio/it-de/geschichte/k03_09.mp3"
+     "audio": "audio/it-de/geschichte/k03_09.mp3?v=18f42f21"
     },
     {
      "id": "k03_10",
      "fr": "Chiara è rimasta ferma. Il gatto grigio, accanto a lei, anche. Tutti e due ascoltavano la stessa piastrella.",
      "de": "Chiara blieb stehen. Die graue Katze neben ihr auch. Beide lauschten derselben Kachel.",
-     "audio": "audio/it-de/geschichte/k03_10.mp3"
+     "audio": "audio/it-de/geschichte/k03_10.mp3?v=a0e337b9"
     },
     {
      "id": "k03_11",
      "fr": "« Questo non è sulla pianta », ha detto Chiara. Era la cosa più sensata che le è venuta in mente.",
      "de": "„Das steht nicht auf dem Plan“, sagte Chiara. Es war das Vernünftigste, was ihr einfiel.",
-     "audio": "audio/it-de/geschichte/k03_11.mp3"
+     "audio": "audio/it-de/geschichte/k03_11.mp3?v=a5e55c84"
     },
     {
      "id": "k03_12",
      "fr": "Dietro di lei, una voce. Calma, anziana, un po' roca. « No, signora. Questa stanza non è su nessuna pianta. Per questo è ancora qui. »",
      "de": "Hinter ihr eine Stimme. Ruhig, alt, ein bisschen heiser. „Nein, Signora. Dieser Raum steht auf keinem Plan. Deshalb ist er noch da.“",
-     "audio": "audio/it-de/geschichte/k03_12.mp3"
+     "audio": "audio/it-de/geschichte/k03_12.mp3?v=28d642a1"
     },
     {
      "id": "k03_13",
      "fr": "Chiara si è girata **di scatto**. Sulla porta c'era un uomo con un berretto di lana e un mazzo di chiavi grande come un piatto.",
      "de": "Chiara fuhr herum. In der Tür stand ein Mann mit Wollmütze und einem Schlüsselbund so groß wie ein Teller.",
-     "audio": "audio/it-de/geschichte/k03_13.mp3"
+     "audio": "audio/it-de/geschichte/k03_13.mp3?v=f4e2ee19"
     },
     {
      "id": "k03_14",
      "fr": "« Sono il custode », ha detto. « Lavoro qui dal 1934. E lei è in ritardo. Venti minuti. »",
      "de": "„Ich bin der Wächter“, sagte er. „Ich arbeite hier seit 1934. Und Sie sind zu spät. Zwanzig Minuten.“",
-     "audio": "audio/it-de/geschichte/k03_14.mp3"
+     "audio": "audio/it-de/geschichte/k03_14.mp3?v=fa887b10"
     },
     {
      "id": "k03_15",
      "fr": "Chiara ha fatto i conti. 1934. L'uomo aveva, al massimo, sessant'anni. **Non aveva senso**. Eppure Chiara ha detto: « Mi dispiace. » È quello che dicono i professori.",
      "de": "Chiara rechnete nach. 1934. Der Mann war höchstens sechzig. Das ergab keinen Sinn. Und trotzdem sagte Chiara: „Es tut mir leid.“ Das sagen Lehrer eben.",
-     "audio": "audio/it-de/geschichte/k03_15.mp3"
+     "audio": "audio/it-de/geschichte/k03_15.mp3?v=d58f2b86"
     }
    ]
   }
@@ -5572,385 +5572,385 @@ window.SPRACHEN["it-de"] = {
   "lob": [
    {
     "text": "Bravo!",
-    "audio": "audio/it-de/lob/lob_bravo.mp3",
+    "audio": "audio/it-de/lob/lob_bravo.mp3?v=e517360a",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Bravissimo!",
-    "audio": "audio/it-de/lob/lob_bravissimo.mp3",
+    "audio": "audio/it-de/lob/lob_bravissimo.mp3?v=f77758fa",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Perfetto!",
-    "audio": "audio/it-de/lob/lob_perfetto.mp3",
+    "audio": "audio/it-de/lob/lob_perfetto.mp3?v=0286ba04",
     "gruppe": [
      "perfetto"
     ]
    },
    {
     "text": "Grande!",
-    "audio": "audio/it-de/lob/lob_grande.mp3",
+    "audio": "audio/it-de/lob/lob_grande.mp3?v=dda568f3",
     "gruppe": [
      "grande"
     ]
    },
    {
     "text": "Così si fa!",
-    "audio": "audio/it-de/lob/lob_cosi.mp3",
+    "audio": "audio/it-de/lob/lob_cosi.mp3?v=ba754f6f",
     "gruppe": [
      "cosi"
     ]
    },
    {
     "text": "Sei un fenomeno!",
-    "audio": "audio/it-de/lob/lob_fenomeno.mp3",
+    "audio": "audio/it-de/lob/lob_fenomeno.mp3?v=ef55b28b",
     "gruppe": [
      "fenomeno"
     ]
    },
    {
     "text": "Dai!",
-    "audio": "audio/it-de/lob/lob_dai.mp3",
+    "audio": "audio/it-de/lob/lob_dai.mp3?v=47b45817",
     "gruppe": [
      "dai"
     ]
    },
    {
     "text": "Mitico!",
-    "audio": "audio/it-de/lob/lob_mitico.mp3",
+    "audio": "audio/it-de/lob/lob_mitico.mp3?v=4956d53b",
     "gruppe": [
      "mitico"
     ]
    },
    {
     "text": "Che forza!",
-    "audio": "audio/it-de/lob/lob_forza.mp3",
+    "audio": "audio/it-de/lob/lob_forza.mp3?v=8c78204e",
     "gruppe": [
      "forza"
     ]
    },
    {
     "text": "Eccellente!",
-    "audio": "audio/it-de/lob/lob_eccellente.mp3",
+    "audio": "audio/it-de/lob/lob_eccellente.mp3?v=cffd463f",
     "gruppe": [
      "eccellente"
     ]
    },
    {
     "text": "Da manuale!",
-    "audio": "audio/it-de/lob/lob_manuale.mp3",
+    "audio": "audio/it-de/lob/lob_manuale.mp3?v=4c7013b3",
     "gruppe": [
      "manuale"
     ]
    },
    {
     "text": "Chapeau!",
-    "audio": "audio/it-de/lob/lob_chapeau.mp3",
+    "audio": "audio/it-de/lob/lob_chapeau.mp3?v=7752ecb3",
     "gruppe": [
      "chapeau"
     ]
    },
    {
     "text": "Benissimo!",
-    "audio": "audio/it-de/lob/lob_benissimo.mp3",
+    "audio": "audio/it-de/lob/lob_benissimo.mp3?v=2c0182a5",
     "gruppe": [
      "bene"
     ]
    },
    {
     "text": "Esatto!",
-    "audio": "audio/it-de/lob/lob_esatto.mp3",
+    "audio": "audio/it-de/lob/lob_esatto.mp3?v=8b9f7605",
     "gruppe": [
      "esatto"
     ]
    },
    {
     "text": "Ecco!",
-    "audio": "audio/it-de/lob/lob_ecco.mp3",
+    "audio": "audio/it-de/lob/lob_ecco.mp3?v=9aa99107",
     "gruppe": [
      "ecco"
     ]
    },
    {
     "text": "Ottimo!",
-    "audio": "audio/it-de/lob/lob_ottimo.mp3",
+    "audio": "audio/it-de/lob/lob_ottimo.mp3?v=5a1fa9ac",
     "gruppe": [
      "ottimo"
     ]
    },
    {
     "text": "Fantastico!",
-    "audio": "audio/it-de/lob/lob_fantastico.mp3",
+    "audio": "audio/it-de/lob/lob_fantastico.mp3?v=1bccc501",
     "gruppe": [
      "fantastico"
     ]
    },
    {
     "text": "Molto bene!",
-    "audio": "audio/it-de/lob/lob_molto_bene.mp3",
+    "audio": "audio/it-de/lob/lob_molto_bene.mp3?v=9f07aa92",
     "gruppe": [
      "bene"
     ]
    },
    {
     "text": "Che bello!",
-    "audio": "audio/it-de/lob/lob_che_bello.mp3",
+    "audio": "audio/it-de/lob/lob_che_bello.mp3?v=b24d6606",
     "gruppe": [
      "bello"
     ]
    },
    {
     "text": "Centrato!",
-    "audio": "audio/it-de/lob/lob_centrato.mp3",
+    "audio": "audio/it-de/lob/lob_centrato.mp3?v=5865d3ad",
     "gruppe": [
      "centrato"
     ]
    },
    {
     "text": "Al primo colpo!",
-    "audio": "audio/it-de/lob/lob_al_primo.mp3",
+    "audio": "audio/it-de/lob/lob_al_primo.mp3?v=d4cce791",
     "gruppe": [
      "primo"
     ]
    },
    {
     "text": "Impeccabile!",
-    "audio": "audio/it-de/lob/lob_impeccabile.mp3",
+    "audio": "audio/it-de/lob/lob_impeccabile.mp3?v=11528341",
     "gruppe": [
      "impeccabile"
     ]
    },
    {
     "text": "Perfetto così!",
-    "audio": "audio/it-de/lob/lob_perfetto_cosi.mp3",
+    "audio": "audio/it-de/lob/lob_perfetto_cosi.mp3?v=e52a782a",
     "gruppe": [
      "perfetto"
     ]
    },
    {
     "text": "Da dieci!",
-    "audio": "audio/it-de/lob/lob_da_dieci.mp3",
+    "audio": "audio/it-de/lob/lob_da_dieci.mp3?v=cccafc2c",
     "gruppe": [
      "dieci"
     ]
    },
    {
     "text": "Che livello!",
-    "audio": "audio/it-de/lob/lob_che_livello.mp3",
+    "audio": "audio/it-de/lob/lob_che_livello.mp3?v=cecef3f9",
     "gruppe": [
      "livello"
     ]
    },
    {
     "text": "Ben detto!",
-    "audio": "audio/it-de/lob/lob_ben_detto.mp3",
+    "audio": "audio/it-de/lob/lob_ben_detto.mp3?v=bf13ba84",
     "gruppe": [
      "detto"
     ]
    },
    {
     "text": "Senza errori!",
-    "audio": "audio/it-de/lob/lob_senza_errori.mp3",
+    "audio": "audio/it-de/lob/lob_senza_errori.mp3?v=d3bb94e5",
     "gruppe": [
      "errori"
     ]
    },
    {
     "text": "Che accento!",
-    "audio": "audio/it-de/lob/lob_che_accento.mp3",
+    "audio": "audio/it-de/lob/lob_che_accento.mp3?v=818d3f61",
     "gruppe": [
      "accento"
     ]
    },
    {
     "text": "Questo sì che è italiano!",
-    "audio": "audio/it-de/lob/lob_italiano_vero.mp3",
+    "audio": "audio/it-de/lob/lob_italiano_vero.mp3?v=d2500a07",
     "gruppe": [
      "italiano"
     ]
    },
    {
     "text": "Come un bolognese!",
-    "audio": "audio/it-de/lob/lob_bolognese.mp3",
+    "audio": "audio/it-de/lob/lob_bolognese.mp3?v=b5083141",
     "gruppe": [
      "bolognese"
     ]
    },
    {
     "text": "Hai orecchio!",
-    "audio": "audio/it-de/lob/lob_orecchio.mp3",
+    "audio": "audio/it-de/lob/lob_orecchio.mp3?v=46bf1719",
     "gruppe": [
      "orecchio"
     ]
    },
    {
     "text": "Suona una meraviglia!",
-    "audio": "audio/it-de/lob/lob_meraviglia.mp3",
+    "audio": "audio/it-de/lob/lob_meraviglia.mp3?v=ffd19a2d",
     "gruppe": [
      "meraviglia"
     ]
    },
    {
     "text": "Lo adoro!",
-    "audio": "audio/it-de/lob/lob_adoro.mp3",
+    "audio": "audio/it-de/lob/lob_adoro.mp3?v=9e434041",
     "gruppe": [
      "adoro"
     ]
    },
    {
     "text": "Stai migliorando!",
-    "audio": "audio/it-de/lob/lob_migliori.mp3",
+    "audio": "audio/it-de/lob/lob_migliori.mp3?v=54a8912e",
     "gruppe": [
      "migliori"
     ]
    },
    {
     "text": "Un altro punto!",
-    "audio": "audio/it-de/lob/lob_altro_punto.mp3",
+    "audio": "audio/it-de/lob/lob_altro_punto.mp3?v=3f850a99",
     "gruppe": [
      "punto"
     ]
    },
    {
     "text": "Spacchi!",
-    "audio": "audio/it-de/lob/lob_spacchi.mp3",
+    "audio": "audio/it-de/lob/lob_spacchi.mp3?v=2f25537b",
     "gruppe": [
      "spacchi"
     ]
    },
    {
     "text": "Sei una macchina!",
-    "audio": "audio/it-de/lob/lob_macchina.mp3",
+    "audio": "audio/it-de/lob/lob_macchina.mp3?v=36ba0f41",
     "gruppe": [
      "macchina"
     ]
    },
    {
     "text": "Prendi questo!",
-    "audio": "audio/it-de/lob/lob_prendi.mp3",
+    "audio": "audio/it-de/lob/lob_prendi.mp3?v=a4a3da2c",
     "gruppe": [
      "prendi"
     ]
    },
    {
     "text": "Eccolo!",
-    "audio": "audio/it-de/lob/lob_eccolo.mp3",
+    "audio": "audio/it-de/lob/lob_eccolo.mp3?v=97d78866",
     "gruppe": [
      "ecco"
     ]
    },
    {
     "text": "Senza dubbio!",
-    "audio": "audio/it-de/lob/lob_senza_dubbio.mp3",
+    "audio": "audio/it-de/lob/lob_senza_dubbio.mp3?v=779bebb3",
     "gruppe": [
      "dubbio"
     ]
    },
    {
     "text": "Corretto!",
-    "audio": "audio/it-de/lob/lob_corretto.mp3",
+    "audio": "audio/it-de/lob/lob_corretto.mp3?v=208d07b1",
     "gruppe": [
      "corretto"
     ]
    },
    {
     "text": "Giusto!",
-    "audio": "audio/it-de/lob/lob_giusto.mp3",
+    "audio": "audio/it-de/lob/lob_giusto.mp3?v=6e5ab103",
     "gruppe": [
      "giusto"
     ]
    },
    {
     "text": "Da libro!",
-    "audio": "audio/it-de/lob/lob_da_libro.mp3",
+    "audio": "audio/it-de/lob/lob_da_libro.mp3?v=e4e5746c",
     "gruppe": [
      "libro"
     ]
    },
    {
     "text": "Molto bene, signor professore!",
-    "audio": "audio/it-de/lob/lob_professore.mp3",
+    "audio": "audio/it-de/lob/lob_professore.mp3?v=3f78876a",
     "gruppe": [
      "professore"
     ]
    },
    {
     "text": "Che bravo!",
-    "audio": "audio/it-de/lob/lob_che_buono.mp3",
+    "audio": "audio/it-de/lob/lob_che_buono.mp3?v=0de5898b",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Eh sì!",
-    "audio": "audio/it-de/lob/lob_eh_si.mp3",
+    "audio": "audio/it-de/lob/lob_eh_si.mp3?v=96829c76",
     "gruppe": [
      "si"
     ]
    },
    {
     "text": "Pazzesco!",
-    "audio": "audio/it-de/lob/lob_pazzesco.mp3",
+    "audio": "audio/it-de/lob/lob_pazzesco.mp3?v=a86ea271",
     "gruppe": [
      "pazzesco"
     ]
    },
    {
     "text": "Che figo!",
-    "audio": "audio/it-de/lob/lob_che_figo.mp3",
+    "audio": "audio/it-de/lob/lob_che_figo.mp3?v=b7095fe9",
     "gruppe": [
      "figo"
     ]
    },
    {
     "text": "Complimenti!",
-    "audio": "audio/it-de/lob/lob_complimenti.mp3",
+    "audio": "audio/it-de/lob/lob_complimenti.mp3?v=61ebac0d",
     "gruppe": [
      "complimenti"
     ]
    },
    {
     "text": "Ben fatto!",
-    "audio": "audio/it-de/lob/lob_ben_fatto.mp3",
+    "audio": "audio/it-de/lob/lob_ben_fatto.mp3?v=c55f9a38",
     "gruppe": [
      "fatto"
     ]
    },
    {
     "text": "Wow!",
-    "audio": "audio/it-de/lob/lob_wow.mp3",
+    "audio": "audio/it-de/lob/lob_wow.mp3?v=5d1f6e9f",
     "gruppe": [
      "wow"
     ]
    },
    {
     "text": "Continua così!",
-    "audio": "audio/it-de/lob/lob_continua.mp3",
+    "audio": "audio/it-de/lob/lob_continua.mp3?v=33443cc1",
     "gruppe": [
      "continua"
     ]
    },
    {
     "text": "Ce l'hai fatta!",
-    "audio": "audio/it-de/lob/lob_ce_lhai.mp3",
+    "audio": "audio/it-de/lob/lob_ce_lhai.mp3?v=6586d215",
     "gruppe": [
      "fatta"
     ]
    },
    {
     "text": "Da Oscar!",
-    "audio": "audio/it-de/lob/lob_da_oscar.mp3",
+    "audio": "audio/it-de/lob/lob_da_oscar.mp3?v=f7115fe3",
     "gruppe": [
      "oscar"
     ]
    },
    {
     "text": "Che spettacolo!",
-    "audio": "audio/it-de/lob/lob_che_spettacolo.mp3",
+    "audio": "audio/it-de/lob/lob_che_spettacolo.mp3?v=1ad01851",
     "gruppe": [
      "spettacolo"
     ]
@@ -5959,98 +5959,98 @@ window.SPRACHEN["it-de"] = {
   "stark": [
    {
     "text": "Bravo, campione!",
-    "audio": "audio/it-de/lob/stark_campione.mp3",
+    "audio": "audio/it-de/lob/stark_campione.mp3?v=67416411",
     "gruppe": [
      "campione"
     ]
    },
    {
     "text": "Incredibile! Sei in serie!",
-    "audio": "audio/it-de/lob/stark_serie.mp3",
+    "audio": "audio/it-de/lob/stark_serie.mp3?v=8cd8de57",
     "gruppe": [
      "serie"
     ]
    },
    {
     "text": "Sono fiero di te!",
-    "audio": "audio/it-de/lob/stark_fiero.mp3",
+    "audio": "audio/it-de/lob/stark_fiero.mp3?v=8b9a6f1c",
     "gruppe": [
      "fiero"
     ]
    },
    {
     "text": "Stupendo! Continua così!",
-    "audio": "audio/it-de/lob/stark_continua.mp3",
+    "audio": "audio/it-de/lob/stark_continua.mp3?v=99d39ea1",
     "gruppe": [
      "continua"
     ]
    },
    {
     "text": "Sei una macchina da guerra!",
-    "audio": "audio/it-de/lob/stark_macchina.mp3",
+    "audio": "audio/it-de/lob/stark_macchina.mp3?v=f95edd41",
     "gruppe": [
      "macchina"
     ]
    },
    {
     "text": "Sei una stella!",
-    "audio": "audio/it-de/lob/stark_stella.mp3",
+    "audio": "audio/it-de/lob/stark_stella.mp3?v=31aa168d",
     "gruppe": [
      "stella"
     ]
    },
    {
     "text": "Impressionante!",
-    "audio": "audio/it-de/lob/stark_impressionante.mp3",
+    "audio": "audio/it-de/lob/stark_impressionante.mp3?v=c200f0e6",
     "gruppe": [
      "impressionante"
     ]
    },
    {
     "text": "Lo fai sembrare facile!",
-    "audio": "audio/it-de/lob/stark_facile.mp3",
+    "audio": "audio/it-de/lob/stark_facile.mp3?v=8dfe89c8",
     "gruppe": [
      "facile"
     ]
    },
    {
     "text": "Proprio quello che volevo sentire!",
-    "audio": "audio/it-de/lob/stark_volevo.mp3",
+    "audio": "audio/it-de/lob/stark_volevo.mp3?v=c76b87b5",
     "gruppe": [
      "sentire"
     ]
    },
    {
     "text": "Oggi voli!",
-    "audio": "audio/it-de/lob/stark_voli.mp3",
+    "audio": "audio/it-de/lob/stark_voli.mp3?v=fb58ddd9",
     "gruppe": [
      "voli"
     ]
    },
    {
     "text": "In pieno centro!",
-    "audio": "audio/it-de/lob/stark_centro.mp3",
+    "audio": "audio/it-de/lob/stark_centro.mp3?v=28e38a4e",
     "gruppe": [
      "centro"
     ]
    },
    {
     "text": "Che prestazione!",
-    "audio": "audio/it-de/lob/stark_prestazione.mp3",
+    "audio": "audio/it-de/lob/stark_prestazione.mp3?v=3d602f41",
     "gruppe": [
      "prestazione"
     ]
    },
    {
     "text": "Spacchi tutto!",
-    "audio": "audio/it-de/lob/stark_spacchi.mp3",
+    "audio": "audio/it-de/lob/stark_spacchi.mp3?v=66f35d50",
     "gruppe": [
      "spacchi"
     ]
    },
    {
     "text": "Che livello, però!",
-    "audio": "audio/it-de/lob/stark_livello.mp3",
+    "audio": "audio/it-de/lob/stark_livello.mp3?v=85d72ed1",
     "gruppe": [
      "livello"
     ]
@@ -6059,70 +6059,70 @@ window.SPRACHEN["it-de"] = {
   "fehler": [
    {
     "text": "Quasi!",
-    "audio": "audio/it-de/lob/fehler_quasi.mp3",
+    "audio": "audio/it-de/lob/fehler_quasi.mp3?v=7dc68658",
     "gruppe": [
      "quasi"
     ]
    },
    {
     "text": "Non proprio.",
-    "audio": "audio/it-de/lob/fehler_non_proprio.mp3",
+    "audio": "audio/it-de/lob/fehler_non_proprio.mp3?v=620fc500",
     "gruppe": [
      "proprio"
     ]
    },
    {
     "text": "Riprova!",
-    "audio": "audio/it-de/lob/fehler_riprova.mp3",
+    "audio": "audio/it-de/lob/fehler_riprova.mp3?v=fd484fb4",
     "gruppe": [
      "riprova"
     ]
    },
    {
     "text": "Non fa niente!",
-    "audio": "audio/it-de/lob/fehler_non_fa_niente.mp3",
+    "audio": "audio/it-de/lob/fehler_non_fa_niente.mp3?v=0fd56b74",
     "gruppe": [
      "niente"
     ]
    },
    {
     "text": "Ahi!",
-    "audio": "audio/it-de/lob/fehler_ahi.mp3",
+    "audio": "audio/it-de/lob/fehler_ahi.mp3?v=6bffc475",
     "gruppe": [
      "ahi"
     ]
    },
    {
     "text": "Hmm…",
-    "audio": "audio/it-de/lob/fehler_hmm.mp3",
+    "audio": "audio/it-de/lob/fehler_hmm.mp3?v=05a58e26",
     "gruppe": [
      "hmm"
     ]
    },
    {
     "text": "Vicino!",
-    "audio": "audio/it-de/lob/fehler_vicino.mp3",
+    "audio": "audio/it-de/lob/fehler_vicino.mp3?v=fc127de0",
     "gruppe": [
      "vicino"
     ]
    },
    {
     "text": "Quasi, quasi!",
-    "audio": "audio/it-de/lob/fehler_quasi_quasi.mp3",
+    "audio": "audio/it-de/lob/fehler_quasi_quasi.mp3?v=a3cfaef9",
     "gruppe": [
      "quasi"
     ]
    },
    {
     "text": "Stavolta no!",
-    "audio": "audio/it-de/lob/fehler_stavolta_no.mp3",
+    "audio": "audio/it-de/lob/fehler_stavolta_no.mp3?v=c29e2138",
     "gruppe": [
      "stavolta"
     ]
    },
    {
     "text": "Non fa niente, ricominciamo!",
-    "audio": "audio/it-de/lob/fehler_ricominciamo.mp3",
+    "audio": "audio/it-de/lob/fehler_ricominciamo.mp3?v=181d9c16",
     "gruppe": [
      "niente"
     ]
@@ -6131,21 +6131,21 @@ window.SPRACHEN["it-de"] = {
   "geschafft": [
    {
     "text": "Finito per oggi! Chapeau!",
-    "audio": "audio/it-de/lob/geschafft_finito.mp3",
+    "audio": "audio/it-de/lob/geschafft_finito.mp3?v=e464eee3",
     "gruppe": [
      "finito"
     ]
    },
    {
     "text": "Bravo, hai fatto tutto! A domani!",
-    "audio": "audio/it-de/lob/geschafft_tutto.mp3",
+    "audio": "audio/it-de/lob/geschafft_tutto.mp3?v=bd13a23e",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Puoi essere fiero di te. A domani!",
-    "audio": "audio/it-de/lob/geschafft_fiero.mp3",
+    "audio": "audio/it-de/lob/geschafft_fiero.mp3?v=2c692729",
     "gruppe": [
      "fiero"
     ]
@@ -6154,7 +6154,7 @@ window.SPRACHEN["it-de"] = {
   "voll": [
    {
     "text": "Senza errori! Che meraviglia!",
-    "audio": "audio/it-de/lob/voll_senza_errori.mp3",
+    "audio": "audio/it-de/lob/voll_senza_errori.mp3?v=bec62ad5",
     "gruppe": [
      "errori"
     ]
@@ -6163,7 +6163,7 @@ window.SPRACHEN["it-de"] = {
   "doch": [
    {
     "text": "Vedi? Ce la fai!",
-    "audio": "audio/it-de/lob/doch_vedi.mp3",
+    "audio": "audio/it-de/lob/doch_vedi.mp3?v=16770c04",
     "gruppe": [
      "vedi"
     ]
@@ -6195,7 +6195,7 @@ window.SPRACHEN["it-de"] = {
     "y": 137.5,
     "fakt": "Bologna ha tre nomi: la Dotta per l'università più antica d'Europa, la Grassa per la cucina, la Rossa per i tetti. E per la politica.",
     "fakt_de": "Bologna hat drei Namen: die Gelehrte für die älteste Universität Europas, die Fette für die Küche, die Rote für die Dächer. Und für die Politik.",
-    "audio": "audio/it-de/orte/bologna.mp3"
+    "audio": "audio/it-de/orte/bologna.mp3?v=03c5de7b"
    },
    {
     "id": "torri",
@@ -6207,7 +6207,7 @@ window.SPRACHEN["it-de"] = {
     "y": 137.6,
     "fakt": "La Garisenda pende più della Torre di Pisa. Dante la cita nell'Inferno. Gli studenti non la salgono mai: porta sfortuna alla laurea.",
     "fakt_de": "Die Garisenda neigt sich stärker als der Schiefe Turm von Pisa. Dante erwähnt sie im Inferno. Die Studenten steigen nie hinauf: Das bringt Pech beim Abschluss.",
-    "audio": "audio/it-de/orte/torri.mp3"
+    "audio": "audio/it-de/orte/torri.mp3?v=5c309170"
    },
    {
     "id": "portici",
@@ -6219,7 +6219,7 @@ window.SPRACHEN["it-de"] = {
     "y": 138.3,
     "fakt": "Bologna ha quaranta chilometri di portici. Si può attraversare la città sotto la pioggia senza bagnarsi. Patrimonio UNESCO.",
     "fakt_de": "Bologna hat vierzig Kilometer Arkaden. Man kann die Stadt im Regen durchqueren, ohne nass zu werden. UNESCO-Welterbe.",
-    "audio": "audio/it-de/orte/portici.mp3"
+    "audio": "audio/it-de/orte/portici.mp3?v=b819a672"
    },
    {
     "id": "modena",
@@ -6231,7 +6231,7 @@ window.SPRACHEN["it-de"] = {
     "y": 129.8,
     "fakt": "A Modena l'aceto balsamico invecchia almeno dodici anni. Pavarotti è nato qui. E la Ferrari è a dieci minuti.",
     "fakt_de": "In Modena reift der Balsamico mindestens zwölf Jahre. Pavarotti wurde hier geboren. Und Ferrari ist zehn Minuten entfernt.",
-    "audio": "audio/it-de/orte/modena.mp3"
+    "audio": "audio/it-de/orte/modena.mp3?v=dbe242a7"
    },
    {
     "id": "parma",
@@ -6243,7 +6243,7 @@ window.SPRACHEN["it-de"] = {
     "y": 122.0,
     "fakt": "Parma: il prosciutto e il parmigiano. Una forma di parmigiano può valere come garanzia in banca. Davvero.",
     "fakt_de": "Parma: der Schinken und der Parmesan. Ein Laib Parmesan kann als Bankpfand dienen. Wirklich.",
-    "audio": "audio/it-de/orte/parma.mp3"
+    "audio": "audio/it-de/orte/parma.mp3?v=f1e39a7b"
    },
    {
     "id": "ravenna",
@@ -6255,7 +6255,7 @@ window.SPRACHEN["it-de"] = {
     "y": 141.4,
     "fakt": "Ravenna ha i mosaici più belli del mondo, del quinto secolo. Dante è sepolto qui, non a Firenze. Firenze lo rivuole ancora.",
     "fakt_de": "Ravenna hat die schönsten Mosaiken der Welt, aus dem fünften Jahrhundert. Dante liegt hier begraben, nicht in Florenz. Florenz will ihn immer noch zurück.",
-    "audio": "audio/it-de/orte/ravenna.mp3"
+    "audio": "audio/it-de/orte/ravenna.mp3?v=d1dbf08a"
    },
    {
     "id": "venezia",
@@ -6267,7 +6267,7 @@ window.SPRACHEN["it-de"] = {
     "y": 89.5,
     "fakt": "Venezia ha quattrocento ponti e nessuna macchina. I gatti erano i veri padroni: cacciavano i topi dalle navi.",
     "fakt_de": "Venedig hat vierhundert Brücken und kein Auto. Die Katzen waren die wahren Herren: Sie jagten die Ratten von den Schiffen.",
-    "audio": "audio/it-de/orte/venezia.mp3"
+    "audio": "audio/it-de/orte/venezia.mp3?v=3c66021d"
    },
    {
     "id": "verona",
@@ -6279,7 +6279,7 @@ window.SPRACHEN["it-de"] = {
     "y": 89.6,
     "fakt": "A Verona c'è il balcone di Giulietta. Giulietta non è mai esistita. Il balcone l'hanno aggiunto nel 1936.",
     "fakt_de": "In Verona gibt es Julias Balkon. Julia hat nie existiert. Den Balkon hat man 1936 angebaut.",
-    "audio": "audio/it-de/orte/verona.mp3"
+    "audio": "audio/it-de/orte/verona.mp3?v=4cf9e8db"
    },
    {
     "id": "padova",
@@ -6291,7 +6291,7 @@ window.SPRACHEN["it-de"] = {
     "y": 91.2,
     "fakt": "A Padova Galileo insegnò diciotto anni. Nella cappella degli Scrovegni Giotto dipinse il cielo blu. Con lapislazzuli.",
     "fakt_de": "In Padua lehrte Galileo achtzehn Jahre. In der Scrovegni-Kapelle malte Giotto den Himmel blau. Mit Lapislazuli.",
-    "audio": "audio/it-de/orte/padova.mp3"
+    "audio": "audio/it-de/orte/padova.mp3?v=a14cf691"
    },
    {
     "id": "dolomiti",
@@ -6303,7 +6303,7 @@ window.SPRACHEN["it-de"] = {
     "y": 40.2,
     "fakt": "Le Dolomiti al tramonto diventano rosa: si chiama enrosadira. Qui si parla italiano, tedesco e ladino.",
     "fakt_de": "Die Dolomiten werden bei Sonnenuntergang rosa: Das heißt Enrosadira. Hier spricht man Italienisch, Deutsch und Ladinisch.",
-    "audio": "audio/it-de/orte/dolomiti.mp3"
+    "audio": "audio/it-de/orte/dolomiti.mp3?v=7eb3cc49"
    },
    {
     "id": "trieste",
@@ -6315,7 +6315,7 @@ window.SPRACHEN["it-de"] = {
     "y": 78.8,
     "fakt": "A Trieste il caffè si ordina in un codice: « nero », « capo in b », « gocciato ». Joyce visse qui dieci anni.",
     "fakt_de": "In Triest bestellt man Kaffee in einem Code: „nero“, „capo in b“, „gocciato“. Joyce lebte hier zehn Jahre.",
-    "audio": "audio/it-de/orte/trieste.mp3"
+    "audio": "audio/it-de/orte/trieste.mp3?v=8ca65dc8"
    },
    {
     "id": "milano",
@@ -6327,7 +6327,7 @@ window.SPRACHEN["it-de"] = {
     "y": 88.3,
     "fakt": "Il Duomo di Milano ha tremilaquattrocento statue. La costruzione è durata sei secoli. I milanesi dicono: « la fabbrica del Duomo » per una cosa infinita.",
     "fakt_de": "Der Mailänder Dom hat dreitausendvierhundert Statuen. Der Bau dauerte sechs Jahrhunderte. Die Mailänder sagen „la fabbrica del Duomo“ für etwas Endloses.",
-    "audio": "audio/it-de/orte/milano.mp3"
+    "audio": "audio/it-de/orte/milano.mp3?v=31525a2b"
    },
    {
     "id": "cenacolo",
@@ -6339,7 +6339,7 @@ window.SPRACHEN["it-de"] = {
     "y": 88.2,
     "fakt": "L'Ultima Cena di Leonardo è dipinta su un muro di refettorio. Si vede quindici minuti, a gruppi di trenta. Prenotare mesi prima.",
     "fakt_de": "Leonardos Abendmahl ist auf eine Refektoriumswand gemalt. Man sieht es fünfzehn Minuten, in Gruppen von dreißig. Monate vorher buchen.",
-    "audio": "audio/it-de/orte/cenacolo.mp3"
+    "audio": "audio/it-de/orte/cenacolo.mp3?v=f592389d"
    },
    {
     "id": "como",
@@ -6351,7 +6351,7 @@ window.SPRACHEN["it-de"] = {
     "y": 61.7,
     "fakt": "Il lago di Como ha la forma di una Y rovesciata. Manzoni comincia i Promessi Sposi qui: « Quel ramo del lago di Como… ».",
     "fakt_de": "Der Comer See hat die Form eines umgedrehten Y. Manzoni beginnt die Verlobten hier: „Jener Arm des Comer Sees…“.",
-    "audio": "audio/it-de/orte/como.mp3"
+    "audio": "audio/it-de/orte/como.mp3?v=6b0b3b5c"
    },
    {
     "id": "bergamo",
@@ -6363,7 +6363,7 @@ window.SPRACHEN["it-de"] = {
     "y": 76.4,
     "fakt": "Bergamo è due città: Alta e Bassa, unite da una funicolare. Dalla Città Alta si vede la pianura fino a Milano.",
     "fakt_de": "Bergamo ist zwei Städte: die Ober- und die Unterstadt, verbunden durch eine Standseilbahn. Von der Oberstadt sieht man die Ebene bis Mailand.",
-    "audio": "audio/it-de/orte/bergamo.mp3"
+    "audio": "audio/it-de/orte/bergamo.mp3?v=b346fda7"
    },
    {
     "id": "torino",
@@ -6375,7 +6375,7 @@ window.SPRACHEN["it-de"] = {
     "y": 108.3,
     "fakt": "Torino ha inventato il cioccolato gianduia, il vermut e il cinema italiano. La Mole era una sinagoga. Ora è il Museo del Cinema.",
     "fakt_de": "Turin hat die Gianduja-Schokolade, den Wermut und das italienische Kino erfunden. Die Mole war eine Synagoge. Heute ist sie das Filmmuseum.",
-    "audio": "audio/it-de/orte/torino.mp3"
+    "audio": "audio/it-de/orte/torino.mp3?v=82152639"
    },
    {
     "id": "langhe",
@@ -6387,7 +6387,7 @@ window.SPRACHEN["it-de"] = {
     "y": 132.2,
     "fakt": "Nelle Langhe crescono il Barolo e il tartufo bianco di Alba. Un tartufo di un chilo vale come una macchina usata.",
     "fakt_de": "In den Langhe wachsen der Barolo und der weiße Trüffel von Alba. Ein Trüffel von einem Kilo ist so viel wert wie ein Gebrauchtwagen.",
-    "audio": "audio/it-de/orte/langhe.mp3"
+    "audio": "audio/it-de/orte/langhe.mp3?v=5c168760"
    },
    {
     "id": "aosta",
@@ -6399,7 +6399,7 @@ window.SPRACHEN["it-de"] = {
     "y": 74.4,
     "fakt": "Ad Aosta le strade sono bilingui: italiano e francese. L'arco romano ha duemila anni. Il Monte Bianco è dietro l'angolo.",
     "fakt_de": "In Aosta sind die Straßen zweisprachig: Italienisch und Französisch. Der römische Bogen ist zweitausend Jahre alt. Der Mont Blanc ist um die Ecke.",
-    "audio": "audio/it-de/orte/aosta.mp3"
+    "audio": "audio/it-de/orte/aosta.mp3?v=8cedb79d"
    },
    {
     "id": "genova",
@@ -6411,7 +6411,7 @@ window.SPRACHEN["it-de"] = {
     "y": 142.1,
     "fakt": "Genova ha inventato il pesto, i jeans (« bleu de Gênes ») e Cristoforo Colombo. L'acquario è il più grande d'Italia.",
     "fakt_de": "Genua hat das Pesto, die Jeans („bleu de Gênes“) und Christoph Kolumbus hervorgebracht. Das Aquarium ist das größte Italiens.",
-    "audio": "audio/it-de/orte/genova.mp3"
+    "audio": "audio/it-de/orte/genova.mp3?v=0e905f0c"
    },
    {
     "id": "cinqueterre",
@@ -6423,7 +6423,7 @@ window.SPRACHEN["it-de"] = {
     "y": 156.6,
     "fakt": "Cinque paesi a picco sul mare, uniti da un sentiero. Le case sono colorate perché i pescatori le riconoscevano dal mare.",
     "fakt_de": "Fünf Dörfer steil über dem Meer, durch einen Wanderweg verbunden. Die Häuser sind bunt, damit die Fischer sie vom Meer aus erkannten.",
-    "audio": "audio/it-de/orte/cinqueterre.mp3"
+    "audio": "audio/it-de/orte/cinqueterre.mp3?v=e959ee5f"
    },
    {
     "id": "firenze",
@@ -6435,7 +6435,7 @@ window.SPRACHEN["it-de"] = {
     "y": 174.4,
     "fakt": "A Firenze è nato il Rinascimento. E l'italiano: Dante, Petrarca e Boccaccio scrivevano in fiorentino. Il David ha cinque metri.",
     "fakt_de": "In Florenz entstand die Renaissance. Und das Italienische: Dante, Petrarca und Boccaccio schrieben auf Florentinisch. Der David ist fünf Meter hoch.",
-    "audio": "audio/it-de/orte/firenze.mp3"
+    "audio": "audio/it-de/orte/firenze.mp3?v=4b6aa789"
    },
    {
     "id": "uffizi",
@@ -6447,7 +6447,7 @@ window.SPRACHEN["it-de"] = {
     "y": 174.5,
     "fakt": "Gli Uffizi erano uffici, davvero: gli uffici dei Medici. La Venere di Botticelli è qui. Alcuni visitatori svengono: sindrome di Stendhal.",
     "fakt_de": "Die Uffizien waren wirklich Büros: die Büros der Medici. Botticellis Venus hängt hier. Manche Besucher fallen in Ohnmacht: Stendhal-Syndrom.",
-    "audio": "audio/it-de/orte/uffizi.mp3"
+    "audio": "audio/it-de/orte/uffizi.mp3?v=a1c42f5d"
    },
    {
     "id": "pisa",
@@ -6459,7 +6459,7 @@ window.SPRACHEN["it-de"] = {
     "y": 176.8,
     "fakt": "La Torre di Pisa pende da ottocento anni. Nel 1990 l'hanno chiusa e raddrizzata un po'. Non troppo: dritta non la vuole nessuno.",
     "fakt_de": "Der Turm von Pisa neigt sich seit achthundert Jahren. 1990 hat man ihn geschlossen und ein bisschen aufgerichtet. Nicht zu sehr: Gerade will ihn niemand.",
-    "audio": "audio/it-de/orte/pisa.mp3"
+    "audio": "audio/it-de/orte/pisa.mp3?v=bbdfcb5a"
    },
    {
     "id": "siena",
@@ -6471,7 +6471,7 @@ window.SPRACHEN["it-de"] = {
     "y": 197.3,
     "fakt": "A Siena il Palio si corre due volte l'estate, in piazza, a pelo. Dura novanta secondi. Si prepara tutto l'anno.",
     "fakt_de": "In Siena wird der Palio zweimal im Sommer geritten, auf der Piazza, ohne Sattel. Er dauert neunzig Sekunden. Man bereitet sich das ganze Jahr vor.",
-    "audio": "audio/it-de/orte/siena.mp3"
+    "audio": "audio/it-de/orte/siena.mp3?v=2b7b09a3"
    },
    {
     "id": "sangimignano",
@@ -6483,7 +6483,7 @@ window.SPRACHEN["it-de"] = {
     "y": 189.8,
     "fakt": "San Gimignano aveva settantadue torri: ogni famiglia ricca ne voleva una più alta. Ne restano quattordici. La Manhattan del Medioevo.",
     "fakt_de": "San Gimignano hatte zweiundsiebzig Türme: Jede reiche Familie wollte einen höheren. Vierzehn sind geblieben. Das Manhattan des Mittelalters.",
-    "audio": "audio/it-de/orte/sangimignano.mp3"
+    "audio": "audio/it-de/orte/sangimignano.mp3?v=e9d40ad9"
    },
    {
     "id": "lucca",
@@ -6495,7 +6495,7 @@ window.SPRACHEN["it-de"] = {
     "y": 170.7,
     "fakt": "Lucca ha mura intatte da quattro chilometri. Ci si va in bicicletta. Puccini è nato qui e ha scritto La Bohème.",
     "fakt_de": "Lucca hat vier Kilometer intakte Stadtmauern. Man fährt darauf Fahrrad. Puccini wurde hier geboren und schrieb La Bohème.",
-    "audio": "audio/it-de/orte/lucca.mp3"
+    "audio": "audio/it-de/orte/lucca.mp3?v=d91c25f7"
    },
    {
     "id": "perugia",
@@ -6507,7 +6507,7 @@ window.SPRACHEN["it-de"] = {
     "y": 207.9,
     "fakt": "Perugia ha i Baci: cioccolatini con un bigliettino d'amore dentro. E ogni luglio il festival jazz più antico d'Europa.",
     "fakt_de": "Perugia hat die Baci: Pralinen mit einem Liebesbrief darin. Und jeden Juli das älteste Jazzfestival Europas.",
-    "audio": "audio/it-de/orte/perugia.mp3"
+    "audio": "audio/it-de/orte/perugia.mp3?v=0a800826"
    },
    {
     "id": "assisi",
@@ -6519,7 +6519,7 @@ window.SPRACHEN["it-de"] = {
     "y": 210.0,
     "fakt": "Ad Assisi san Francesco parlava agli uccelli. Giotto lo dipinse nella basilica, ventotto scene. Il lupo di Gubbio è a trenta chilometri.",
     "fakt_de": "In Assisi sprach der heilige Franziskus mit den Vögeln. Giotto malte ihn in der Basilika, achtundzwanzig Szenen. Der Wolf von Gubbio ist dreißig Kilometer entfernt.",
-    "audio": "audio/it-de/orte/assisi.mp3"
+    "audio": "audio/it-de/orte/assisi.mp3?v=8007a942"
    },
    {
     "id": "urbino",
@@ -6531,7 +6531,7 @@ window.SPRACHEN["it-de"] = {
     "y": 176.6,
     "fakt": "Urbino è la città di Raffaello. Il palazzo ducale ha uno studiolo tutto di legno intarsiato: le finestre sono finte, ma sembrano vere.",
     "fakt_de": "Urbino ist die Stadt Raffaels. Der Herzogspalast hat ein Studierzimmer ganz aus Intarsien: Die Fenster sind unecht, sehen aber echt aus.",
-    "audio": "audio/it-de/orte/urbino.mp3"
+    "audio": "audio/it-de/orte/urbino.mp3?v=21bc5243"
    },
    {
     "id": "roma",
@@ -6543,7 +6543,7 @@ window.SPRACHEN["it-de"] = {
     "y": 269.3,
     "fakt": "Roma ha duemilasettecento anni e novecento chiese. Nella Fontana di Trevi finiscono un milione di euro all'anno. Vanno alla Caritas.",
     "fakt_de": "Rom ist zweitausendsiebenhundert Jahre alt und hat neunhundert Kirchen. Im Trevi-Brunnen landen jedes Jahr eine Million Euro. Sie gehen an die Caritas.",
-    "audio": "audio/it-de/orte/roma.mp3"
+    "audio": "audio/it-de/orte/roma.mp3?v=a0ce514f"
    },
    {
     "id": "colosseo",
@@ -6555,7 +6555,7 @@ window.SPRACHEN["it-de"] = {
     "y": 270.0,
     "fakt": "Il Colosseo conteneva cinquantamila spettatori. Aveva un tetto di tela e ascensori per gli animali. I gatti ci vivono ancora oggi.",
     "fakt_de": "Das Kolosseum fasste fünfzigtausend Zuschauer. Es hatte ein Segeltuchdach und Aufzüge für die Tiere. Die Katzen leben noch heute dort.",
-    "audio": "audio/it-de/orte/colosseo.mp3"
+    "audio": "audio/it-de/orte/colosseo.mp3?v=16ac0408"
    },
    {
     "id": "vaticano",
@@ -6567,7 +6567,7 @@ window.SPRACHEN["it-de"] = {
     "y": 269.3,
     "fakt": "Michelangelo dipinse la volta in quattro anni, sdraiato su un'impalcatura. Diceva di essere uno scultore, non un pittore.",
     "fakt_de": "Michelangelo malte das Gewölbe in vier Jahren, liegend auf einem Gerüst. Er sagte, er sei Bildhauer, kein Maler.",
-    "audio": "audio/it-de/orte/vaticano.mp3"
+    "audio": "audio/it-de/orte/vaticano.mp3?v=377bc288"
    },
    {
     "id": "tivoli",
@@ -6579,7 +6579,7 @@ window.SPRACHEN["it-de"] = {
     "y": 266.3,
     "fakt": "A Tivoli Villa d'Este ha cinquecento fontane senza una pompa: solo la gravità. L'imperatore Adriano aveva la sua villa a due passi.",
     "fakt_de": "In Tivoli hat die Villa d'Este fünfhundert Brunnen ohne eine einzige Pumpe: nur Schwerkraft. Kaiser Hadrian hatte seine Villa gleich nebenan.",
-    "audio": "audio/it-de/orte/tivoli.mp3"
+    "audio": "audio/it-de/orte/tivoli.mp3?v=f09ef6c8"
    },
    {
     "id": "napoli",
@@ -6591,7 +6591,7 @@ window.SPRACHEN["it-de"] = {
     "y": 322.8,
     "fakt": "A Napoli è nata la pizza: la Margherita, nel 1889, con i colori della bandiera. Si piega in quattro e si mangia per strada.",
     "fakt_de": "In Neapel wurde die Pizza geboren: die Margherita, 1889, in den Farben der Flagge. Man faltet sie viermal und isst sie auf der Straße.",
-    "audio": "audio/it-de/orte/napoli.mp3"
+    "audio": "audio/it-de/orte/napoli.mp3?v=91d18bc0"
    },
    {
     "id": "pompei",
@@ -6603,7 +6603,7 @@ window.SPRACHEN["it-de"] = {
     "y": 327.9,
     "fakt": "Pompei fu sepolta dal Vesuvio nel 79. Si sono trovati pane nel forno e graffiti sui muri: « Qui dormì Marco. »",
     "fakt_de": "Pompeji wurde 79 vom Vesuv begraben. Man fand Brot im Ofen und Graffiti an den Wänden: „Hier schlief Marcus.“",
-    "audio": "audio/it-de/orte/pompei.mp3"
+    "audio": "audio/it-de/orte/pompei.mp3?v=b5f66aae"
    },
    {
     "id": "amalfi",
@@ -6615,7 +6615,7 @@ window.SPRACHEN["it-de"] = {
     "y": 333.9,
     "fakt": "Sulla Costiera i limoni sono grandi come pompelmi. Ne fanno il limoncello. La strada ha mille curve e nessun parcheggio.",
     "fakt_de": "An der Amalfiküste sind die Zitronen so groß wie Grapefruits. Daraus macht man Limoncello. Die Straße hat tausend Kurven und keinen Parkplatz.",
-    "audio": "audio/it-de/orte/amalfi.mp3"
+    "audio": "audio/it-de/orte/amalfi.mp3?v=103706eb"
    },
    {
     "id": "capri",
@@ -6627,7 +6627,7 @@ window.SPRACHEN["it-de"] = {
     "y": 338.0,
     "fakt": "A Capri la Grotta Azzurra è blu perché la luce entra da sotto l'acqua. L'imperatore Tiberio governò Roma da qui per dieci anni.",
     "fakt_de": "Auf Capri ist die Blaue Grotte blau, weil das Licht von unter Wasser hereinkommt. Kaiser Tiberius regierte Rom zehn Jahre von hier aus.",
-    "audio": "audio/it-de/orte/capri.mp3"
+    "audio": "audio/it-de/orte/capri.mp3?v=f7f52931"
    },
    {
     "id": "matera",
@@ -6639,7 +6639,7 @@ window.SPRACHEN["it-de"] = {
     "y": 332.2,
     "fakt": "A Matera si vive nelle grotte da novemila anni: i Sassi. Negli anni cinquanta erano « la vergogna d'Italia ». Ora sono patrimonio UNESCO.",
     "fakt_de": "In Matera lebt man seit neuntausend Jahren in Höhlen: den Sassi. In den fünfziger Jahren waren sie „die Schande Italiens“. Heute sind sie UNESCO-Welterbe.",
-    "audio": "audio/it-de/orte/matera.mp3"
+    "audio": "audio/it-de/orte/matera.mp3?v=caffa60f"
    },
    {
     "id": "alberobello",
@@ -6651,7 +6651,7 @@ window.SPRACHEN["it-de"] = {
     "y": 326.3,
     "fakt": "I trulli di Alberobello hanno il tetto a cono, senza malta. Così si smontavano in fretta quando arrivava l'esattore delle tasse.",
     "fakt_de": "Die Trulli von Alberobello haben Kegeldächer ohne Mörtel. So konnte man sie schnell abbauen, wenn der Steuereintreiber kam.",
-    "audio": "audio/it-de/orte/alberobello.mp3"
+    "audio": "audio/it-de/orte/alberobello.mp3?v=71a35aba"
    },
    {
     "id": "lecce",
@@ -6663,7 +6663,7 @@ window.SPRACHEN["it-de"] = {
     "y": 348.2,
     "fakt": "Lecce è la Firenze del Sud: barocco ovunque, in pietra dorata così tenera che si taglia con il coltello.",
     "fakt_de": "Lecce ist das Florenz des Südens: Barock überall, aus goldenem Stein, so weich, dass man ihn mit dem Messer schneidet.",
-    "audio": "audio/it-de/orte/lecce.mp3"
+    "audio": "audio/it-de/orte/lecce.mp3?v=10ce3eb2"
    },
    {
     "id": "abruzzo",
@@ -6675,7 +6675,7 @@ window.SPRACHEN["it-de"] = {
     "y": 241.5,
     "fakt": "Sul Gran Sasso vivono orsi, lupi e camosci. E sotto la montagna, a mille e quattrocento metri di profondità, un laboratorio di fisica.",
     "fakt_de": "Am Gran Sasso leben Bären, Wölfe und Gämsen. Und unter dem Berg, in tausendvierhundert Metern Tiefe, ein Physiklabor.",
-    "audio": "audio/it-de/orte/abruzzo.mp3"
+    "audio": "audio/it-de/orte/abruzzo.mp3?v=97169d98"
    },
    {
     "id": "tropea",
@@ -6687,7 +6687,7 @@ window.SPRACHEN["it-de"] = {
     "y": 433.4,
     "fakt": "Tropea ha una spiaggia bianca e una cipolla rossa così dolce che ne fanno il gelato. Il gelato alla cipolla. Provare per credere.",
     "fakt_de": "Tropea hat einen weißen Strand und eine rote Zwiebel, so süß, dass man Eis daraus macht. Zwiebeleis. Probieren, um es zu glauben.",
-    "audio": "audio/it-de/orte/tropea.mp3"
+    "audio": "audio/it-de/orte/tropea.mp3?v=a4f77d8b"
    },
    {
     "id": "palermo",
@@ -6699,7 +6699,7 @@ window.SPRACHEN["it-de"] = {
     "y": 461.9,
     "fakt": "A Palermo i mercati gridano in arabo, normanno e siciliano. Si mangia pane con la milza e arancine. O arancini, se sei a Catania.",
     "fakt_de": "In Palermo rufen die Märkte auf Arabisch, Normannisch und Sizilianisch. Man isst Milzbrot und Arancine. Oder Arancini, wenn man in Catania ist.",
-    "audio": "audio/it-de/orte/palermo.mp3"
+    "audio": "audio/it-de/orte/palermo.mp3?v=5dbec8cc"
    },
    {
     "id": "etna",
@@ -6711,7 +6711,7 @@ window.SPRACHEN["it-de"] = {
     "y": 480.5,
     "fakt": "L'Etna è il vulcano attivo più alto d'Europa: tremilatrecento metri. Sui suoi fianchi crescono vigne e pistacchi. E si scia.",
     "fakt_de": "Der Ätna ist der höchste aktive Vulkan Europas: dreitausenddreihundert Meter. An seinen Hängen wachsen Reben und Pistazien. Und man fährt Ski.",
-    "audio": "audio/it-de/orte/etna.mp3"
+    "audio": "audio/it-de/orte/etna.mp3?v=17485b28"
    },
    {
     "id": "taormina",
@@ -6723,7 +6723,7 @@ window.SPRACHEN["it-de"] = {
     "y": 475.3,
     "fakt": "Il teatro greco di Taormina ha l'Etna come fondale. Goethe scrisse che nessun pubblico ha mai visto uno spettacolo simile.",
     "fakt_de": "Das griechische Theater von Taormina hat den Ätna als Kulisse. Goethe schrieb, kein Publikum habe je ein solches Schauspiel gesehen.",
-    "audio": "audio/it-de/orte/taormina.mp3"
+    "audio": "audio/it-de/orte/taormina.mp3?v=ee13dd70"
    },
    {
     "id": "siracusa",
@@ -6735,7 +6735,7 @@ window.SPRACHEN["it-de"] = {
     "y": 514.8,
     "fakt": "A Siracusa Archimede gridò « Eureka! » nella vasca. L'Orecchio di Dionisio è una grotta che amplifica i sussurri. Si dice.",
     "fakt_de": "In Syrakus rief Archimedes „Heureka!“ in der Badewanne. Das Ohr des Dionysios ist eine Höhle, die Flüstern verstärkt. Sagt man.",
-    "audio": "audio/it-de/orte/siracusa.mp3"
+    "audio": "audio/it-de/orte/siracusa.mp3?v=ff73bc08"
    },
    {
     "id": "agrigento",
@@ -6747,7 +6747,7 @@ window.SPRACHEN["it-de"] = {
     "y": 503.9,
     "fakt": "Ad Agrigento i templi greci sono meglio conservati che in Grecia. Pindaro la chiamò « la più bella città dei mortali ».",
     "fakt_de": "In Agrigent sind die griechischen Tempel besser erhalten als in Griechenland. Pindar nannte sie „die schönste Stadt der Sterblichen“.",
-    "audio": "audio/it-de/orte/agrigento.mp3"
+    "audio": "audio/it-de/orte/agrigento.mp3?v=deea410a"
    },
    {
     "id": "cagliari",
@@ -6759,7 +6759,7 @@ window.SPRACHEN["it-de"] = {
     "y": 405.6,
     "fakt": "A Cagliari, nello stagno in città, vivono i fenicotteri rosa. Il sardo non è un dialetto: è una lingua, la più vicina al latino.",
     "fakt_de": "In Cagliari leben Flamingos in der Lagune mitten in der Stadt. Sardisch ist kein Dialekt: Es ist eine Sprache, die dem Lateinischen am nächsten steht.",
-    "audio": "audio/it-de/orte/cagliari.mp3"
+    "audio": "audio/it-de/orte/cagliari.mp3?v=3b33ec7c"
    },
    {
     "id": "costasmeralda",
@@ -6771,7 +6771,7 @@ window.SPRACHEN["it-de"] = {
     "y": 309.2,
     "fakt": "La Costa Smeralda l'ha inventata un principe nel 1962. Prima c'erano solo pastori. Il mare, però, c'era già.",
     "fakt_de": "Die Costa Smeralda hat ein Prinz 1962 erfunden. Vorher gab es nur Hirten. Das Meer war allerdings schon da.",
-    "audio": "audio/it-de/orte/costasmeralda.mp3"
+    "audio": "audio/it-de/orte/costasmeralda.mp3?v=e040897c"
    },
    {
     "id": "rimini",
@@ -6783,7 +6783,7 @@ window.SPRACHEN["it-de"] = {
     "y": 159.3,
     "fakt": "Rimini è la spiaggia dei bolognesi: quindici chilometri di ombrelloni. Fellini è nato qui e l'ha filmata in Amarcord.",
     "fakt_de": "Rimini ist der Strand der Bologneser: fünfzehn Kilometer Sonnenschirme. Fellini wurde hier geboren und filmte es in Amarcord.",
-    "audio": "audio/it-de/orte/rimini.mp3"
+    "audio": "audio/it-de/orte/rimini.mp3?v=a9791c9b"
    }
   ],
   "karte": {
@@ -7361,55 +7361,55 @@ window.SPRACHEN["it-de"] = {
     "ab": 300,
     "name": "Pizza",
     "symbol": "🍕",
-    "audio": "audio/it-de/spiel/titel_1.mp3"
+    "audio": "audio/it-de/spiel/titel_1.mp3?v=81a414fa"
    },
    {
     "ab": 900,
     "name": "Pasta al ragù",
     "symbol": "🍝",
-    "audio": "audio/it-de/spiel/titel_2.mp3"
+    "audio": "audio/it-de/spiel/titel_2.mp3?v=65215647"
    },
    {
     "ab": 1800,
     "name": "Parmigiano",
     "symbol": "🧀",
-    "audio": "audio/it-de/spiel/titel_3.mp3"
+    "audio": "audio/it-de/spiel/titel_3.mp3?v=b427eb47"
    },
    {
     "ab": 3000,
     "name": "Chianti",
     "symbol": "🍷",
-    "audio": "audio/it-de/spiel/titel_4.mp3"
+    "audio": "audio/it-de/spiel/titel_4.mp3?v=a0771d97"
    },
    {
     "ab": 4500,
     "name": "Gelato",
     "symbol": "🍨",
-    "audio": "audio/it-de/spiel/titel_5.mp3"
+    "audio": "audio/it-de/spiel/titel_5.mp3?v=bd7204cb"
    },
    {
     "ab": 6500,
     "name": "Gran chef",
     "symbol": "✨",
-    "audio": "audio/it-de/spiel/titel_6.mp3"
+    "audio": "audio/it-de/spiel/titel_6.mp3?v=6c0dd4b3"
    }
   ],
   "texte": {
    "feuer": {
     "text": "Sei in serie! Tre giorni di fila!",
-    "audio": "audio/it-de/spiel/feuer.mp3"
+    "audio": "audio/it-de/spiel/feuer.mp3?v=a8e149d4"
    },
    "woche": {
     "text": "Settimana perfetta! Hai lavorato tutti i giorni di scuola. Bravissimo!",
-    "audio": "audio/it-de/spiel/woche.mp3"
+    "audio": "audio/it-de/spiel/woche.mp3?v=3326ed8b"
    },
    "monat": {
     "text": "Quattro settimane perfette di fila! Che campione!",
-    "audio": "audio/it-de/spiel/monat.mp3"
+    "audio": "audio/it-de/spiel/monat.mp3?v=6123f4dc"
    },
    "fini": {
     "text": "Finito per oggi. A domani!",
-    "audio": "audio/it-de/spiel/fini.mp3"
+    "audio": "audio/it-de/spiel/fini.mp3?v=42980950"
    }
   },
   "frei": [
@@ -7471,841 +7471,841 @@ window.SPRACHEN["it-de"] = {
   ]
  },
  "audio_liste": [
-  "audio/it-de/dialoge/d1_01.mp3",
-  "audio/it-de/dialoge/d1_02.mp3",
-  "audio/it-de/dialoge/d1_03.mp3",
-  "audio/it-de/dialoge/d1_04.mp3",
-  "audio/it-de/dialoge/d1_05.mp3",
-  "audio/it-de/dialoge/d1_06.mp3",
-  "audio/it-de/dialoge/d1_07.mp3",
-  "audio/it-de/dialoge/d1_08.mp3",
-  "audio/it-de/dialoge/d1_09.mp3",
-  "audio/it-de/dialoge/d1_10.mp3",
-  "audio/it-de/dialoge/d2_01.mp3",
-  "audio/it-de/dialoge/d2_02.mp3",
-  "audio/it-de/dialoge/d2_03.mp3",
-  "audio/it-de/dialoge/d2_04.mp3",
-  "audio/it-de/dialoge/d2_05.mp3",
-  "audio/it-de/dialoge/d2_06.mp3",
-  "audio/it-de/dialoge/d2_07.mp3",
-  "audio/it-de/dialoge/d2_08.mp3",
-  "audio/it-de/dialoge/d2_09.mp3",
-  "audio/it-de/dialoge/d2_10.mp3",
-  "audio/it-de/geschichte/k01_01.mp3",
-  "audio/it-de/geschichte/k01_02.mp3",
-  "audio/it-de/geschichte/k01_03.mp3",
-  "audio/it-de/geschichte/k01_04.mp3",
-  "audio/it-de/geschichte/k01_05.mp3",
-  "audio/it-de/geschichte/k01_06.mp3",
-  "audio/it-de/geschichte/k01_07.mp3",
-  "audio/it-de/geschichte/k01_08.mp3",
-  "audio/it-de/geschichte/k01_09.mp3",
-  "audio/it-de/geschichte/k01_10.mp3",
-  "audio/it-de/geschichte/k01_11.mp3",
-  "audio/it-de/geschichte/k01_12.mp3",
-  "audio/it-de/geschichte/k01_13.mp3",
-  "audio/it-de/geschichte/k01_14.mp3",
-  "audio/it-de/geschichte/k02_01.mp3",
-  "audio/it-de/geschichte/k02_02.mp3",
-  "audio/it-de/geschichte/k02_03.mp3",
-  "audio/it-de/geschichte/k02_04.mp3",
-  "audio/it-de/geschichte/k02_05.mp3",
-  "audio/it-de/geschichte/k02_06.mp3",
-  "audio/it-de/geschichte/k02_07.mp3",
-  "audio/it-de/geschichte/k02_08.mp3",
-  "audio/it-de/geschichte/k02_09.mp3",
-  "audio/it-de/geschichte/k02_10.mp3",
-  "audio/it-de/geschichte/k02_11.mp3",
-  "audio/it-de/geschichte/k02_12.mp3",
-  "audio/it-de/geschichte/k02_13.mp3",
-  "audio/it-de/geschichte/k02_14.mp3",
-  "audio/it-de/geschichte/k02_15.mp3",
-  "audio/it-de/geschichte/k03_01.mp3",
-  "audio/it-de/geschichte/k03_02.mp3",
-  "audio/it-de/geschichte/k03_03.mp3",
-  "audio/it-de/geschichte/k03_04.mp3",
-  "audio/it-de/geschichte/k03_05.mp3",
-  "audio/it-de/geschichte/k03_06.mp3",
-  "audio/it-de/geschichte/k03_07.mp3",
-  "audio/it-de/geschichte/k03_08.mp3",
-  "audio/it-de/geschichte/k03_09.mp3",
-  "audio/it-de/geschichte/k03_10.mp3",
-  "audio/it-de/geschichte/k03_11.mp3",
-  "audio/it-de/geschichte/k03_12.mp3",
-  "audio/it-de/geschichte/k03_13.mp3",
-  "audio/it-de/geschichte/k03_14.mp3",
-  "audio/it-de/geschichte/k03_15.mp3",
-  "audio/it-de/lob/doch_vedi.mp3",
-  "audio/it-de/lob/fehler_ahi.mp3",
-  "audio/it-de/lob/fehler_hmm.mp3",
-  "audio/it-de/lob/fehler_non_fa_niente.mp3",
-  "audio/it-de/lob/fehler_non_proprio.mp3",
-  "audio/it-de/lob/fehler_quasi.mp3",
-  "audio/it-de/lob/fehler_quasi_quasi.mp3",
-  "audio/it-de/lob/fehler_ricominciamo.mp3",
-  "audio/it-de/lob/fehler_riprova.mp3",
-  "audio/it-de/lob/fehler_stavolta_no.mp3",
-  "audio/it-de/lob/fehler_vicino.mp3",
-  "audio/it-de/lob/geschafft_fiero.mp3",
-  "audio/it-de/lob/geschafft_finito.mp3",
-  "audio/it-de/lob/geschafft_tutto.mp3",
-  "audio/it-de/lob/lob_adoro.mp3",
-  "audio/it-de/lob/lob_al_primo.mp3",
-  "audio/it-de/lob/lob_altro_punto.mp3",
-  "audio/it-de/lob/lob_ben_detto.mp3",
-  "audio/it-de/lob/lob_ben_fatto.mp3",
-  "audio/it-de/lob/lob_benissimo.mp3",
-  "audio/it-de/lob/lob_bolognese.mp3",
-  "audio/it-de/lob/lob_bravissimo.mp3",
-  "audio/it-de/lob/lob_bravo.mp3",
-  "audio/it-de/lob/lob_ce_lhai.mp3",
-  "audio/it-de/lob/lob_centrato.mp3",
-  "audio/it-de/lob/lob_chapeau.mp3",
-  "audio/it-de/lob/lob_che_accento.mp3",
-  "audio/it-de/lob/lob_che_bello.mp3",
-  "audio/it-de/lob/lob_che_buono.mp3",
-  "audio/it-de/lob/lob_che_figo.mp3",
-  "audio/it-de/lob/lob_che_livello.mp3",
-  "audio/it-de/lob/lob_che_spettacolo.mp3",
-  "audio/it-de/lob/lob_complimenti.mp3",
-  "audio/it-de/lob/lob_continua.mp3",
-  "audio/it-de/lob/lob_corretto.mp3",
-  "audio/it-de/lob/lob_cosi.mp3",
-  "audio/it-de/lob/lob_da_dieci.mp3",
-  "audio/it-de/lob/lob_da_libro.mp3",
-  "audio/it-de/lob/lob_da_oscar.mp3",
-  "audio/it-de/lob/lob_dai.mp3",
-  "audio/it-de/lob/lob_eccellente.mp3",
-  "audio/it-de/lob/lob_ecco.mp3",
-  "audio/it-de/lob/lob_eccolo.mp3",
-  "audio/it-de/lob/lob_eh_si.mp3",
-  "audio/it-de/lob/lob_esatto.mp3",
-  "audio/it-de/lob/lob_fantastico.mp3",
-  "audio/it-de/lob/lob_fenomeno.mp3",
-  "audio/it-de/lob/lob_forza.mp3",
-  "audio/it-de/lob/lob_giusto.mp3",
-  "audio/it-de/lob/lob_grande.mp3",
-  "audio/it-de/lob/lob_impeccabile.mp3",
-  "audio/it-de/lob/lob_italiano_vero.mp3",
-  "audio/it-de/lob/lob_macchina.mp3",
-  "audio/it-de/lob/lob_manuale.mp3",
-  "audio/it-de/lob/lob_meraviglia.mp3",
-  "audio/it-de/lob/lob_migliori.mp3",
-  "audio/it-de/lob/lob_mitico.mp3",
-  "audio/it-de/lob/lob_molto_bene.mp3",
-  "audio/it-de/lob/lob_orecchio.mp3",
-  "audio/it-de/lob/lob_ottimo.mp3",
-  "audio/it-de/lob/lob_pazzesco.mp3",
-  "audio/it-de/lob/lob_perfetto.mp3",
-  "audio/it-de/lob/lob_perfetto_cosi.mp3",
-  "audio/it-de/lob/lob_prendi.mp3",
-  "audio/it-de/lob/lob_professore.mp3",
-  "audio/it-de/lob/lob_senza_dubbio.mp3",
-  "audio/it-de/lob/lob_senza_errori.mp3",
-  "audio/it-de/lob/lob_spacchi.mp3",
-  "audio/it-de/lob/lob_wow.mp3",
-  "audio/it-de/lob/stark_campione.mp3",
-  "audio/it-de/lob/stark_centro.mp3",
-  "audio/it-de/lob/stark_continua.mp3",
-  "audio/it-de/lob/stark_facile.mp3",
-  "audio/it-de/lob/stark_fiero.mp3",
-  "audio/it-de/lob/stark_impressionante.mp3",
-  "audio/it-de/lob/stark_livello.mp3",
-  "audio/it-de/lob/stark_macchina.mp3",
-  "audio/it-de/lob/stark_prestazione.mp3",
-  "audio/it-de/lob/stark_serie.mp3",
-  "audio/it-de/lob/stark_spacchi.mp3",
-  "audio/it-de/lob/stark_stella.mp3",
-  "audio/it-de/lob/stark_volevo.mp3",
-  "audio/it-de/lob/stark_voli.mp3",
-  "audio/it-de/lob/voll_senza_errori.mp3",
-  "audio/it-de/orte/abruzzo.mp3",
-  "audio/it-de/orte/agrigento.mp3",
-  "audio/it-de/orte/alberobello.mp3",
-  "audio/it-de/orte/amalfi.mp3",
-  "audio/it-de/orte/aosta.mp3",
-  "audio/it-de/orte/assisi.mp3",
-  "audio/it-de/orte/bergamo.mp3",
-  "audio/it-de/orte/bologna.mp3",
-  "audio/it-de/orte/cagliari.mp3",
-  "audio/it-de/orte/capri.mp3",
-  "audio/it-de/orte/cenacolo.mp3",
-  "audio/it-de/orte/cinqueterre.mp3",
-  "audio/it-de/orte/colosseo.mp3",
-  "audio/it-de/orte/como.mp3",
-  "audio/it-de/orte/costasmeralda.mp3",
-  "audio/it-de/orte/dolomiti.mp3",
-  "audio/it-de/orte/etna.mp3",
-  "audio/it-de/orte/firenze.mp3",
-  "audio/it-de/orte/genova.mp3",
-  "audio/it-de/orte/langhe.mp3",
-  "audio/it-de/orte/lecce.mp3",
-  "audio/it-de/orte/lucca.mp3",
-  "audio/it-de/orte/matera.mp3",
-  "audio/it-de/orte/milano.mp3",
-  "audio/it-de/orte/modena.mp3",
-  "audio/it-de/orte/napoli.mp3",
-  "audio/it-de/orte/padova.mp3",
-  "audio/it-de/orte/palermo.mp3",
-  "audio/it-de/orte/parma.mp3",
-  "audio/it-de/orte/perugia.mp3",
-  "audio/it-de/orte/pisa.mp3",
-  "audio/it-de/orte/pompei.mp3",
-  "audio/it-de/orte/portici.mp3",
-  "audio/it-de/orte/ravenna.mp3",
-  "audio/it-de/orte/rimini.mp3",
-  "audio/it-de/orte/roma.mp3",
-  "audio/it-de/orte/sangimignano.mp3",
-  "audio/it-de/orte/siena.mp3",
-  "audio/it-de/orte/siracusa.mp3",
-  "audio/it-de/orte/taormina.mp3",
-  "audio/it-de/orte/tivoli.mp3",
-  "audio/it-de/orte/torino.mp3",
-  "audio/it-de/orte/torri.mp3",
-  "audio/it-de/orte/trieste.mp3",
-  "audio/it-de/orte/tropea.mp3",
-  "audio/it-de/orte/uffizi.mp3",
-  "audio/it-de/orte/urbino.mp3",
-  "audio/it-de/orte/vaticano.mp3",
-  "audio/it-de/orte/venezia.mp3",
-  "audio/it-de/orte/verona.mp3",
-  "audio/it-de/saetze/ba_01.mp3",
-  "audio/it-de/saetze/ba_01_fp.mp3",
-  "audio/it-de/saetze/ba_01_pc.mp3",
-  "audio/it-de/saetze/ba_02.mp3",
-  "audio/it-de/saetze/ba_03.mp3",
-  "audio/it-de/saetze/ba_03_fp.mp3",
-  "audio/it-de/saetze/ba_03_pc.mp3",
-  "audio/it-de/saetze/ba_04.mp3",
-  "audio/it-de/saetze/ba_04_fp.mp3",
-  "audio/it-de/saetze/ba_04_pc.mp3",
-  "audio/it-de/saetze/ba_05.mp3",
-  "audio/it-de/saetze/ba_06.mp3",
-  "audio/it-de/saetze/ba_06_fp.mp3",
-  "audio/it-de/saetze/ba_06_pc.mp3",
-  "audio/it-de/saetze/ba_07.mp3",
-  "audio/it-de/saetze/ba_07_fp.mp3",
-  "audio/it-de/saetze/ba_07_pc.mp3",
-  "audio/it-de/saetze/ba_08.mp3",
-  "audio/it-de/saetze/ba_08_fp.mp3",
-  "audio/it-de/saetze/ba_08_pc.mp3",
-  "audio/it-de/saetze/ba_09.mp3",
-  "audio/it-de/saetze/ba_10.mp3",
-  "audio/it-de/saetze/ba_11.mp3",
-  "audio/it-de/saetze/ba_11_fp.mp3",
-  "audio/it-de/saetze/ba_11_pc.mp3",
-  "audio/it-de/saetze/ba_12.mp3",
-  "audio/it-de/saetze/ba_12_fp.mp3",
-  "audio/it-de/saetze/ba_12_pc.mp3",
-  "audio/it-de/saetze/ba_13.mp3",
-  "audio/it-de/saetze/ba_13_fp.mp3",
-  "audio/it-de/saetze/ba_13_pc.mp3",
-  "audio/it-de/saetze/ba_14.mp3",
-  "audio/it-de/saetze/ba_15.mp3",
-  "audio/it-de/saetze/ba_15_fp.mp3",
-  "audio/it-de/saetze/ba_15_pc.mp3",
-  "audio/it-de/saetze/ba_16.mp3",
-  "audio/it-de/saetze/ba_17.mp3",
-  "audio/it-de/saetze/ba_18.mp3",
-  "audio/it-de/saetze/ba_18_fp.mp3",
-  "audio/it-de/saetze/ba_18_pc.mp3",
-  "audio/it-de/saetze/ba_19.mp3",
-  "audio/it-de/saetze/ba_20.mp3",
-  "audio/it-de/saetze/ba_20_fp.mp3",
-  "audio/it-de/saetze/ba_20_pc.mp3",
-  "audio/it-de/saetze/ba_21.mp3",
-  "audio/it-de/saetze/ba_21_fp.mp3",
-  "audio/it-de/saetze/ba_21_pc.mp3",
-  "audio/it-de/saetze/ba_22.mp3",
-  "audio/it-de/saetze/ba_23.mp3",
-  "audio/it-de/saetze/ba_24.mp3",
-  "audio/it-de/saetze/fa_01.mp3",
-  "audio/it-de/saetze/fa_02.mp3",
-  "audio/it-de/saetze/fa_03.mp3",
-  "audio/it-de/saetze/fa_04.mp3",
-  "audio/it-de/saetze/fa_05.mp3",
-  "audio/it-de/saetze/fa_06.mp3",
-  "audio/it-de/saetze/fa_07.mp3",
-  "audio/it-de/saetze/fa_08.mp3",
-  "audio/it-de/saetze/fa_09.mp3",
-  "audio/it-de/saetze/fa_10.mp3",
-  "audio/it-de/saetze/fa_11.mp3",
-  "audio/it-de/saetze/fa_11_fp.mp3",
-  "audio/it-de/saetze/fa_11_pc.mp3",
-  "audio/it-de/saetze/fa_12.mp3",
-  "audio/it-de/saetze/fa_12_fp.mp3",
-  "audio/it-de/saetze/fa_12_pc.mp3",
-  "audio/it-de/saetze/fa_13.mp3",
-  "audio/it-de/saetze/fa_14.mp3",
-  "audio/it-de/saetze/fa_15.mp3",
-  "audio/it-de/saetze/fa_16.mp3",
-  "audio/it-de/saetze/fa_17.mp3",
-  "audio/it-de/saetze/fa_18.mp3",
-  "audio/it-de/saetze/fa_19.mp3",
-  "audio/it-de/saetze/fa_20.mp3",
-  "audio/it-de/saetze/fa_21.mp3",
-  "audio/it-de/saetze/fa_21_fp.mp3",
-  "audio/it-de/saetze/fa_21_pc.mp3",
-  "audio/it-de/saetze/fa_22.mp3",
-  "audio/it-de/saetze/fa_23.mp3",
-  "audio/it-de/saetze/fa_24.mp3",
-  "audio/it-de/saetze/ga_01.mp3",
-  "audio/it-de/saetze/ga_01_fp.mp3",
-  "audio/it-de/saetze/ga_01_pc.mp3",
-  "audio/it-de/saetze/ga_02.mp3",
-  "audio/it-de/saetze/ga_02_fp.mp3",
-  "audio/it-de/saetze/ga_02_pc.mp3",
-  "audio/it-de/saetze/ga_03.mp3",
-  "audio/it-de/saetze/ga_03_fp.mp3",
-  "audio/it-de/saetze/ga_03_pc.mp3",
-  "audio/it-de/saetze/ga_04.mp3",
-  "audio/it-de/saetze/ga_04_fp.mp3",
-  "audio/it-de/saetze/ga_04_pc.mp3",
-  "audio/it-de/saetze/ga_05.mp3",
-  "audio/it-de/saetze/ga_05_fp.mp3",
-  "audio/it-de/saetze/ga_05_pc.mp3",
-  "audio/it-de/saetze/ga_06.mp3",
-  "audio/it-de/saetze/ga_06_fp.mp3",
-  "audio/it-de/saetze/ga_06_pc.mp3",
-  "audio/it-de/saetze/ga_07.mp3",
-  "audio/it-de/saetze/ga_07_fp.mp3",
-  "audio/it-de/saetze/ga_07_pc.mp3",
-  "audio/it-de/saetze/ga_08.mp3",
-  "audio/it-de/saetze/ga_08_fp.mp3",
-  "audio/it-de/saetze/ga_08_pc.mp3",
-  "audio/it-de/saetze/ga_09.mp3",
-  "audio/it-de/saetze/ga_10.mp3",
-  "audio/it-de/saetze/ga_10_fp.mp3",
-  "audio/it-de/saetze/ga_10_pc.mp3",
-  "audio/it-de/saetze/ga_11.mp3",
-  "audio/it-de/saetze/ga_11_fp.mp3",
-  "audio/it-de/saetze/ga_11_pc.mp3",
-  "audio/it-de/saetze/ga_12.mp3",
-  "audio/it-de/saetze/ga_13.mp3",
-  "audio/it-de/saetze/ga_14.mp3",
-  "audio/it-de/saetze/ga_15.mp3",
-  "audio/it-de/saetze/ga_15_fp.mp3",
-  "audio/it-de/saetze/ga_15_pc.mp3",
-  "audio/it-de/saetze/ga_16.mp3",
-  "audio/it-de/saetze/ga_16_fp.mp3",
-  "audio/it-de/saetze/ga_16_pc.mp3",
-  "audio/it-de/saetze/ga_17.mp3",
-  "audio/it-de/saetze/ga_17_fp.mp3",
-  "audio/it-de/saetze/ga_17_pc.mp3",
-  "audio/it-de/saetze/ga_18.mp3",
-  "audio/it-de/saetze/ga_19.mp3",
-  "audio/it-de/saetze/ga_19_fp.mp3",
-  "audio/it-de/saetze/ga_19_pc.mp3",
-  "audio/it-de/saetze/ga_20.mp3",
-  "audio/it-de/saetze/ga_21.mp3",
-  "audio/it-de/saetze/ga_22.mp3",
-  "audio/it-de/saetze/ga_23.mp3",
-  "audio/it-de/saetze/ga_23_fp.mp3",
-  "audio/it-de/saetze/ga_23_pc.mp3",
-  "audio/it-de/saetze/ga_24.mp3",
-  "audio/it-de/saetze/ma_01.mp3",
-  "audio/it-de/saetze/ma_01_fp.mp3",
-  "audio/it-de/saetze/ma_01_pc.mp3",
-  "audio/it-de/saetze/ma_02.mp3",
-  "audio/it-de/saetze/ma_02_fp.mp3",
-  "audio/it-de/saetze/ma_02_pc.mp3",
-  "audio/it-de/saetze/ma_03.mp3",
-  "audio/it-de/saetze/ma_04.mp3",
-  "audio/it-de/saetze/ma_04_fp.mp3",
-  "audio/it-de/saetze/ma_04_pc.mp3",
-  "audio/it-de/saetze/ma_05.mp3",
-  "audio/it-de/saetze/ma_05_fp.mp3",
-  "audio/it-de/saetze/ma_05_pc.mp3",
-  "audio/it-de/saetze/ma_06.mp3",
-  "audio/it-de/saetze/ma_07.mp3",
-  "audio/it-de/saetze/ma_07_fp.mp3",
-  "audio/it-de/saetze/ma_07_pc.mp3",
-  "audio/it-de/saetze/ma_08.mp3",
-  "audio/it-de/saetze/ma_08_fp.mp3",
-  "audio/it-de/saetze/ma_08_pc.mp3",
-  "audio/it-de/saetze/ma_09.mp3",
-  "audio/it-de/saetze/ma_10.mp3",
-  "audio/it-de/saetze/ma_11.mp3",
-  "audio/it-de/saetze/ma_11_fp.mp3",
-  "audio/it-de/saetze/ma_11_pc.mp3",
-  "audio/it-de/saetze/ma_12.mp3",
-  "audio/it-de/saetze/ma_12_fp.mp3",
-  "audio/it-de/saetze/ma_12_pc.mp3",
-  "audio/it-de/saetze/ma_13.mp3",
-  "audio/it-de/saetze/ma_14.mp3",
-  "audio/it-de/saetze/ma_14_fp.mp3",
-  "audio/it-de/saetze/ma_14_pc.mp3",
-  "audio/it-de/saetze/ma_15.mp3",
-  "audio/it-de/saetze/ma_15_fp.mp3",
-  "audio/it-de/saetze/ma_15_pc.mp3",
-  "audio/it-de/saetze/ma_16.mp3",
-  "audio/it-de/saetze/ma_17.mp3",
-  "audio/it-de/saetze/ma_17_fp.mp3",
-  "audio/it-de/saetze/ma_17_pc.mp3",
-  "audio/it-de/saetze/ma_18.mp3",
-  "audio/it-de/saetze/ma_19.mp3",
-  "audio/it-de/saetze/ma_19_fp.mp3",
-  "audio/it-de/saetze/ma_19_pc.mp3",
-  "audio/it-de/saetze/ma_20.mp3",
-  "audio/it-de/saetze/ma_21.mp3",
-  "audio/it-de/saetze/ma_21_fp.mp3",
-  "audio/it-de/saetze/ma_21_pc.mp3",
-  "audio/it-de/saetze/ma_22.mp3",
-  "audio/it-de/saetze/ma_23.mp3",
-  "audio/it-de/saetze/ma_24.mp3",
-  "audio/it-de/saetze/mu_01.mp3",
-  "audio/it-de/saetze/mu_01_fp.mp3",
-  "audio/it-de/saetze/mu_01_pc.mp3",
-  "audio/it-de/saetze/mu_02.mp3",
-  "audio/it-de/saetze/mu_02_fp.mp3",
-  "audio/it-de/saetze/mu_02_pc.mp3",
-  "audio/it-de/saetze/mu_03.mp3",
-  "audio/it-de/saetze/mu_04.mp3",
-  "audio/it-de/saetze/mu_05.mp3",
-  "audio/it-de/saetze/mu_06.mp3",
-  "audio/it-de/saetze/mu_07.mp3",
-  "audio/it-de/saetze/mu_08.mp3",
-  "audio/it-de/saetze/mu_09.mp3",
-  "audio/it-de/saetze/mu_09_fp.mp3",
-  "audio/it-de/saetze/mu_09_pc.mp3",
-  "audio/it-de/saetze/mu_10.mp3",
-  "audio/it-de/saetze/mu_10_fp.mp3",
-  "audio/it-de/saetze/mu_10_pc.mp3",
-  "audio/it-de/saetze/mu_11.mp3",
-  "audio/it-de/saetze/mu_11_fp.mp3",
-  "audio/it-de/saetze/mu_11_pc.mp3",
-  "audio/it-de/saetze/mu_12.mp3",
-  "audio/it-de/saetze/mu_12_fp.mp3",
-  "audio/it-de/saetze/mu_12_pc.mp3",
-  "audio/it-de/saetze/mu_13.mp3",
-  "audio/it-de/saetze/mu_14.mp3",
-  "audio/it-de/saetze/mu_15.mp3",
-  "audio/it-de/saetze/mu_15_fp.mp3",
-  "audio/it-de/saetze/mu_15_pc.mp3",
-  "audio/it-de/saetze/mu_16.mp3",
-  "audio/it-de/saetze/mu_17.mp3",
-  "audio/it-de/saetze/mu_18.mp3",
-  "audio/it-de/saetze/mu_19.mp3",
-  "audio/it-de/saetze/mu_20.mp3",
-  "audio/it-de/saetze/mu_20_fp.mp3",
-  "audio/it-de/saetze/mu_20_pc.mp3",
-  "audio/it-de/saetze/mu_21.mp3",
-  "audio/it-de/saetze/mu_21_fp.mp3",
-  "audio/it-de/saetze/mu_21_pc.mp3",
-  "audio/it-de/saetze/mu_22.mp3",
-  "audio/it-de/saetze/mu_22_fp.mp3",
-  "audio/it-de/saetze/mu_22_pc.mp3",
-  "audio/it-de/saetze/mu_23.mp3",
-  "audio/it-de/saetze/mu_24.mp3",
-  "audio/it-de/saetze/se_01.mp3",
-  "audio/it-de/saetze/se_01_fp.mp3",
-  "audio/it-de/saetze/se_01_pc.mp3",
-  "audio/it-de/saetze/se_02.mp3",
-  "audio/it-de/saetze/se_02_fp.mp3",
-  "audio/it-de/saetze/se_02_pc.mp3",
-  "audio/it-de/saetze/se_03.mp3",
-  "audio/it-de/saetze/se_04.mp3",
-  "audio/it-de/saetze/se_05.mp3",
-  "audio/it-de/saetze/se_05_fp.mp3",
-  "audio/it-de/saetze/se_05_pc.mp3",
-  "audio/it-de/saetze/se_06.mp3",
-  "audio/it-de/saetze/se_07.mp3",
-  "audio/it-de/saetze/se_08.mp3",
-  "audio/it-de/saetze/se_09.mp3",
-  "audio/it-de/saetze/se_09_fp.mp3",
-  "audio/it-de/saetze/se_09_pc.mp3",
-  "audio/it-de/saetze/se_10.mp3",
-  "audio/it-de/saetze/se_10_fp.mp3",
-  "audio/it-de/saetze/se_10_pc.mp3",
-  "audio/it-de/saetze/se_11.mp3",
-  "audio/it-de/saetze/se_11_fp.mp3",
-  "audio/it-de/saetze/se_11_pc.mp3",
-  "audio/it-de/saetze/se_12.mp3",
-  "audio/it-de/saetze/se_12_fp.mp3",
-  "audio/it-de/saetze/se_12_pc.mp3",
-  "audio/it-de/saetze/se_13.mp3",
-  "audio/it-de/saetze/se_14.mp3",
-  "audio/it-de/saetze/se_14_fp.mp3",
-  "audio/it-de/saetze/se_14_pc.mp3",
-  "audio/it-de/saetze/se_15.mp3",
-  "audio/it-de/saetze/se_15_fp.mp3",
-  "audio/it-de/saetze/se_15_pc.mp3",
-  "audio/it-de/saetze/se_16.mp3",
-  "audio/it-de/saetze/se_17.mp3",
-  "audio/it-de/saetze/se_17_fp.mp3",
-  "audio/it-de/saetze/se_17_pc.mp3",
-  "audio/it-de/saetze/se_18.mp3",
-  "audio/it-de/saetze/se_18_fp.mp3",
-  "audio/it-de/saetze/se_18_pc.mp3",
-  "audio/it-de/saetze/se_19.mp3",
-  "audio/it-de/saetze/se_19_fp.mp3",
-  "audio/it-de/saetze/se_19_pc.mp3",
-  "audio/it-de/saetze/se_20.mp3",
-  "audio/it-de/saetze/se_21.mp3",
-  "audio/it-de/saetze/se_22.mp3",
-  "audio/it-de/saetze/se_23.mp3",
-  "audio/it-de/saetze/se_23_fp.mp3",
-  "audio/it-de/saetze/se_23_pc.mp3",
-  "audio/it-de/saetze/se_24.mp3",
-  "audio/it-de/saetze/sp_01.mp3",
-  "audio/it-de/saetze/sp_01_fp.mp3",
-  "audio/it-de/saetze/sp_01_pc.mp3",
-  "audio/it-de/saetze/sp_02.mp3",
-  "audio/it-de/saetze/sp_03.mp3",
-  "audio/it-de/saetze/sp_04.mp3",
-  "audio/it-de/saetze/sp_05.mp3",
-  "audio/it-de/saetze/sp_05_fp.mp3",
-  "audio/it-de/saetze/sp_05_pc.mp3",
-  "audio/it-de/saetze/sp_06.mp3",
-  "audio/it-de/saetze/sp_06_fp.mp3",
-  "audio/it-de/saetze/sp_06_pc.mp3",
-  "audio/it-de/saetze/sp_07.mp3",
-  "audio/it-de/saetze/sp_07_fp.mp3",
-  "audio/it-de/saetze/sp_07_pc.mp3",
-  "audio/it-de/saetze/sp_08.mp3",
-  "audio/it-de/saetze/sp_09.mp3",
-  "audio/it-de/saetze/sp_09_fp.mp3",
-  "audio/it-de/saetze/sp_09_pc.mp3",
-  "audio/it-de/saetze/sp_10.mp3",
-  "audio/it-de/saetze/sp_11.mp3",
-  "audio/it-de/saetze/sp_12.mp3",
-  "audio/it-de/saetze/sp_13.mp3",
-  "audio/it-de/saetze/sp_13_fp.mp3",
-  "audio/it-de/saetze/sp_13_pc.mp3",
-  "audio/it-de/saetze/sp_14.mp3",
-  "audio/it-de/saetze/sp_14_fp.mp3",
-  "audio/it-de/saetze/sp_14_pc.mp3",
-  "audio/it-de/saetze/sp_15.mp3",
-  "audio/it-de/saetze/sp_15_fp.mp3",
-  "audio/it-de/saetze/sp_15_pc.mp3",
-  "audio/it-de/saetze/sp_16.mp3",
-  "audio/it-de/saetze/sp_16_fp.mp3",
-  "audio/it-de/saetze/sp_16_pc.mp3",
-  "audio/it-de/saetze/sp_17.mp3",
-  "audio/it-de/saetze/sp_17_fp.mp3",
-  "audio/it-de/saetze/sp_17_pc.mp3",
-  "audio/it-de/saetze/sp_18.mp3",
-  "audio/it-de/saetze/sp_19.mp3",
-  "audio/it-de/saetze/sp_19_fp.mp3",
-  "audio/it-de/saetze/sp_19_pc.mp3",
-  "audio/it-de/saetze/sp_20.mp3",
-  "audio/it-de/saetze/sp_21.mp3",
-  "audio/it-de/saetze/sp_21_fp.mp3",
-  "audio/it-de/saetze/sp_21_pc.mp3",
-  "audio/it-de/saetze/sp_22.mp3",
-  "audio/it-de/saetze/sp_22_fp.mp3",
-  "audio/it-de/saetze/sp_22_pc.mp3",
-  "audio/it-de/saetze/sp_23.mp3",
-  "audio/it-de/saetze/sp_24.mp3",
-  "audio/it-de/saetze/st_01.mp3",
-  "audio/it-de/saetze/st_02.mp3",
-  "audio/it-de/saetze/st_02_fp.mp3",
-  "audio/it-de/saetze/st_02_pc.mp3",
-  "audio/it-de/saetze/st_03.mp3",
-  "audio/it-de/saetze/st_04.mp3",
-  "audio/it-de/saetze/st_05.mp3",
-  "audio/it-de/saetze/st_06.mp3",
-  "audio/it-de/saetze/st_07.mp3",
-  "audio/it-de/saetze/st_08.mp3",
-  "audio/it-de/saetze/st_09.mp3",
-  "audio/it-de/saetze/st_10.mp3",
-  "audio/it-de/saetze/st_11.mp3",
-  "audio/it-de/saetze/st_12.mp3",
-  "audio/it-de/saetze/st_12_fp.mp3",
-  "audio/it-de/saetze/st_12_pc.mp3",
-  "audio/it-de/saetze/st_13.mp3",
-  "audio/it-de/saetze/st_14.mp3",
-  "audio/it-de/saetze/st_15.mp3",
-  "audio/it-de/saetze/st_16.mp3",
-  "audio/it-de/saetze/st_17.mp3",
-  "audio/it-de/saetze/st_18.mp3",
-  "audio/it-de/saetze/st_18_fp.mp3",
-  "audio/it-de/saetze/st_18_pc.mp3",
-  "audio/it-de/saetze/st_19.mp3",
-  "audio/it-de/saetze/st_20.mp3",
-  "audio/it-de/saetze/st_21.mp3",
-  "audio/it-de/saetze/st_21_fp.mp3",
-  "audio/it-de/saetze/st_21_pc.mp3",
-  "audio/it-de/saetze/st_22.mp3",
-  "audio/it-de/saetze/st_23.mp3",
-  "audio/it-de/saetze/st_24.mp3",
-  "audio/it-de/saetze/tc_01.mp3",
-  "audio/it-de/saetze/tc_01_fp.mp3",
-  "audio/it-de/saetze/tc_01_pc.mp3",
-  "audio/it-de/saetze/tc_02.mp3",
-  "audio/it-de/saetze/tc_02_fp.mp3",
-  "audio/it-de/saetze/tc_02_pc.mp3",
-  "audio/it-de/saetze/tc_03.mp3",
-  "audio/it-de/saetze/tc_03_fp.mp3",
-  "audio/it-de/saetze/tc_03_pc.mp3",
-  "audio/it-de/saetze/tc_04.mp3",
-  "audio/it-de/saetze/tc_04_fp.mp3",
-  "audio/it-de/saetze/tc_04_pc.mp3",
-  "audio/it-de/saetze/tc_05.mp3",
-  "audio/it-de/saetze/tc_06.mp3",
-  "audio/it-de/saetze/tc_06_fp.mp3",
-  "audio/it-de/saetze/tc_06_pc.mp3",
-  "audio/it-de/saetze/tc_07.mp3",
-  "audio/it-de/saetze/tc_07_fp.mp3",
-  "audio/it-de/saetze/tc_07_pc.mp3",
-  "audio/it-de/saetze/tc_08.mp3",
-  "audio/it-de/saetze/tc_08_fp.mp3",
-  "audio/it-de/saetze/tc_08_pc.mp3",
-  "audio/it-de/saetze/tc_09.mp3",
-  "audio/it-de/saetze/tc_10.mp3",
-  "audio/it-de/saetze/tc_11.mp3",
-  "audio/it-de/saetze/tc_12.mp3",
-  "audio/it-de/saetze/tc_13.mp3",
-  "audio/it-de/saetze/tc_13_fp.mp3",
-  "audio/it-de/saetze/tc_13_pc.mp3",
-  "audio/it-de/saetze/tc_14.mp3",
-  "audio/it-de/saetze/tc_14_fp.mp3",
-  "audio/it-de/saetze/tc_14_pc.mp3",
-  "audio/it-de/saetze/tc_15.mp3",
-  "audio/it-de/saetze/tc_15_fp.mp3",
-  "audio/it-de/saetze/tc_15_pc.mp3",
-  "audio/it-de/saetze/tc_16.mp3",
-  "audio/it-de/saetze/tc_16_fp.mp3",
-  "audio/it-de/saetze/tc_16_pc.mp3",
-  "audio/it-de/saetze/tc_17.mp3",
-  "audio/it-de/saetze/tc_18.mp3",
-  "audio/it-de/saetze/tc_19.mp3",
-  "audio/it-de/saetze/tc_20.mp3",
-  "audio/it-de/saetze/tc_21.mp3",
-  "audio/it-de/saetze/tc_21_fp.mp3",
-  "audio/it-de/saetze/tc_21_pc.mp3",
-  "audio/it-de/saetze/tc_22.mp3",
-  "audio/it-de/saetze/tc_22_fp.mp3",
-  "audio/it-de/saetze/tc_22_pc.mp3",
-  "audio/it-de/saetze/tc_23.mp3",
-  "audio/it-de/saetze/tc_23_fp.mp3",
-  "audio/it-de/saetze/tc_23_pc.mp3",
-  "audio/it-de/saetze/tc_24.mp3",
-  "audio/it-de/spiel/feuer.mp3",
-  "audio/it-de/spiel/fini.mp3",
-  "audio/it-de/spiel/monat.mp3",
-  "audio/it-de/spiel/titel_1.mp3",
-  "audio/it-de/spiel/titel_2.mp3",
-  "audio/it-de/spiel/titel_3.mp3",
-  "audio/it-de/spiel/titel_4.mp3",
-  "audio/it-de/spiel/titel_5.mp3",
-  "audio/it-de/spiel/titel_6.mp3",
-  "audio/it-de/spiel/woche.mp3",
-  "audio/it-de/wendungen/ba_01.mp3",
-  "audio/it-de/wendungen/ba_02.mp3",
-  "audio/it-de/wendungen/ba_03.mp3",
-  "audio/it-de/wendungen/ba_04.mp3",
-  "audio/it-de/wendungen/ba_05.mp3",
-  "audio/it-de/wendungen/ba_06.mp3",
-  "audio/it-de/wendungen/ba_07.mp3",
-  "audio/it-de/wendungen/ba_08.mp3",
-  "audio/it-de/wendungen/ba_09.mp3",
-  "audio/it-de/wendungen/ba_10.mp3",
-  "audio/it-de/wendungen/ba_11.mp3",
-  "audio/it-de/wendungen/ba_12.mp3",
-  "audio/it-de/wendungen/ba_13.mp3",
-  "audio/it-de/wendungen/ba_14.mp3",
-  "audio/it-de/wendungen/ba_15.mp3",
-  "audio/it-de/wendungen/ba_16.mp3",
-  "audio/it-de/wendungen/ba_17.mp3",
-  "audio/it-de/wendungen/ba_18.mp3",
-  "audio/it-de/wendungen/ba_19.mp3",
-  "audio/it-de/wendungen/ba_20.mp3",
-  "audio/it-de/wendungen/ba_21.mp3",
-  "audio/it-de/wendungen/ba_22.mp3",
-  "audio/it-de/wendungen/ba_23.mp3",
-  "audio/it-de/wendungen/ba_24.mp3",
-  "audio/it-de/wendungen/fa_01.mp3",
-  "audio/it-de/wendungen/fa_02.mp3",
-  "audio/it-de/wendungen/fa_03.mp3",
-  "audio/it-de/wendungen/fa_04.mp3",
-  "audio/it-de/wendungen/fa_05.mp3",
-  "audio/it-de/wendungen/fa_06.mp3",
-  "audio/it-de/wendungen/fa_07.mp3",
-  "audio/it-de/wendungen/fa_08.mp3",
-  "audio/it-de/wendungen/fa_09.mp3",
-  "audio/it-de/wendungen/fa_10.mp3",
-  "audio/it-de/wendungen/fa_11.mp3",
-  "audio/it-de/wendungen/fa_12.mp3",
-  "audio/it-de/wendungen/fa_13.mp3",
-  "audio/it-de/wendungen/fa_14.mp3",
-  "audio/it-de/wendungen/fa_15.mp3",
-  "audio/it-de/wendungen/fa_16.mp3",
-  "audio/it-de/wendungen/fa_17.mp3",
-  "audio/it-de/wendungen/fa_18.mp3",
-  "audio/it-de/wendungen/fa_19.mp3",
-  "audio/it-de/wendungen/fa_20.mp3",
-  "audio/it-de/wendungen/fa_21.mp3",
-  "audio/it-de/wendungen/fa_22.mp3",
-  "audio/it-de/wendungen/fa_23.mp3",
-  "audio/it-de/wendungen/fa_24.mp3",
-  "audio/it-de/wendungen/ga_01.mp3",
-  "audio/it-de/wendungen/ga_02.mp3",
-  "audio/it-de/wendungen/ga_03.mp3",
-  "audio/it-de/wendungen/ga_04.mp3",
-  "audio/it-de/wendungen/ga_05.mp3",
-  "audio/it-de/wendungen/ga_06.mp3",
-  "audio/it-de/wendungen/ga_07.mp3",
-  "audio/it-de/wendungen/ga_08.mp3",
-  "audio/it-de/wendungen/ga_09.mp3",
-  "audio/it-de/wendungen/ga_10.mp3",
-  "audio/it-de/wendungen/ga_11.mp3",
-  "audio/it-de/wendungen/ga_12.mp3",
-  "audio/it-de/wendungen/ga_13.mp3",
-  "audio/it-de/wendungen/ga_14.mp3",
-  "audio/it-de/wendungen/ga_15.mp3",
-  "audio/it-de/wendungen/ga_16.mp3",
-  "audio/it-de/wendungen/ga_17.mp3",
-  "audio/it-de/wendungen/ga_18.mp3",
-  "audio/it-de/wendungen/ga_19.mp3",
-  "audio/it-de/wendungen/ga_20.mp3",
-  "audio/it-de/wendungen/ga_21.mp3",
-  "audio/it-de/wendungen/ga_22.mp3",
-  "audio/it-de/wendungen/ga_23.mp3",
-  "audio/it-de/wendungen/ga_24.mp3",
-  "audio/it-de/wendungen/ma_01.mp3",
-  "audio/it-de/wendungen/ma_02.mp3",
-  "audio/it-de/wendungen/ma_03.mp3",
-  "audio/it-de/wendungen/ma_04.mp3",
-  "audio/it-de/wendungen/ma_05.mp3",
-  "audio/it-de/wendungen/ma_06.mp3",
-  "audio/it-de/wendungen/ma_07.mp3",
-  "audio/it-de/wendungen/ma_08.mp3",
-  "audio/it-de/wendungen/ma_09.mp3",
-  "audio/it-de/wendungen/ma_10.mp3",
-  "audio/it-de/wendungen/ma_11.mp3",
-  "audio/it-de/wendungen/ma_12.mp3",
-  "audio/it-de/wendungen/ma_13.mp3",
-  "audio/it-de/wendungen/ma_14.mp3",
-  "audio/it-de/wendungen/ma_15.mp3",
-  "audio/it-de/wendungen/ma_16.mp3",
-  "audio/it-de/wendungen/ma_17.mp3",
-  "audio/it-de/wendungen/ma_18.mp3",
-  "audio/it-de/wendungen/ma_19.mp3",
-  "audio/it-de/wendungen/ma_20.mp3",
-  "audio/it-de/wendungen/ma_21.mp3",
-  "audio/it-de/wendungen/ma_22.mp3",
-  "audio/it-de/wendungen/ma_23.mp3",
-  "audio/it-de/wendungen/ma_24.mp3",
-  "audio/it-de/wendungen/mu_01.mp3",
-  "audio/it-de/wendungen/mu_02.mp3",
-  "audio/it-de/wendungen/mu_03.mp3",
-  "audio/it-de/wendungen/mu_04.mp3",
-  "audio/it-de/wendungen/mu_05.mp3",
-  "audio/it-de/wendungen/mu_06.mp3",
-  "audio/it-de/wendungen/mu_07.mp3",
-  "audio/it-de/wendungen/mu_08.mp3",
-  "audio/it-de/wendungen/mu_09.mp3",
-  "audio/it-de/wendungen/mu_10.mp3",
-  "audio/it-de/wendungen/mu_11.mp3",
-  "audio/it-de/wendungen/mu_12.mp3",
-  "audio/it-de/wendungen/mu_13.mp3",
-  "audio/it-de/wendungen/mu_14.mp3",
-  "audio/it-de/wendungen/mu_15.mp3",
-  "audio/it-de/wendungen/mu_16.mp3",
-  "audio/it-de/wendungen/mu_17.mp3",
-  "audio/it-de/wendungen/mu_18.mp3",
-  "audio/it-de/wendungen/mu_19.mp3",
-  "audio/it-de/wendungen/mu_20.mp3",
-  "audio/it-de/wendungen/mu_21.mp3",
-  "audio/it-de/wendungen/mu_22.mp3",
-  "audio/it-de/wendungen/mu_23.mp3",
-  "audio/it-de/wendungen/mu_24.mp3",
-  "audio/it-de/wendungen/se_01.mp3",
-  "audio/it-de/wendungen/se_02.mp3",
-  "audio/it-de/wendungen/se_03.mp3",
-  "audio/it-de/wendungen/se_04.mp3",
-  "audio/it-de/wendungen/se_05.mp3",
-  "audio/it-de/wendungen/se_06.mp3",
-  "audio/it-de/wendungen/se_07.mp3",
-  "audio/it-de/wendungen/se_08.mp3",
-  "audio/it-de/wendungen/se_09.mp3",
-  "audio/it-de/wendungen/se_10.mp3",
-  "audio/it-de/wendungen/se_11.mp3",
-  "audio/it-de/wendungen/se_12.mp3",
-  "audio/it-de/wendungen/se_13.mp3",
-  "audio/it-de/wendungen/se_14.mp3",
-  "audio/it-de/wendungen/se_15.mp3",
-  "audio/it-de/wendungen/se_16.mp3",
-  "audio/it-de/wendungen/se_17.mp3",
-  "audio/it-de/wendungen/se_18.mp3",
-  "audio/it-de/wendungen/se_19.mp3",
-  "audio/it-de/wendungen/se_20.mp3",
-  "audio/it-de/wendungen/se_21.mp3",
-  "audio/it-de/wendungen/se_22.mp3",
-  "audio/it-de/wendungen/se_23.mp3",
-  "audio/it-de/wendungen/se_24.mp3",
-  "audio/it-de/wendungen/sp_01.mp3",
-  "audio/it-de/wendungen/sp_02.mp3",
-  "audio/it-de/wendungen/sp_03.mp3",
-  "audio/it-de/wendungen/sp_04.mp3",
-  "audio/it-de/wendungen/sp_05.mp3",
-  "audio/it-de/wendungen/sp_06.mp3",
-  "audio/it-de/wendungen/sp_07.mp3",
-  "audio/it-de/wendungen/sp_08.mp3",
-  "audio/it-de/wendungen/sp_09.mp3",
-  "audio/it-de/wendungen/sp_10.mp3",
-  "audio/it-de/wendungen/sp_11.mp3",
-  "audio/it-de/wendungen/sp_12.mp3",
-  "audio/it-de/wendungen/sp_13.mp3",
-  "audio/it-de/wendungen/sp_14.mp3",
-  "audio/it-de/wendungen/sp_15.mp3",
-  "audio/it-de/wendungen/sp_16.mp3",
-  "audio/it-de/wendungen/sp_17.mp3",
-  "audio/it-de/wendungen/sp_18.mp3",
-  "audio/it-de/wendungen/sp_19.mp3",
-  "audio/it-de/wendungen/sp_20.mp3",
-  "audio/it-de/wendungen/sp_21.mp3",
-  "audio/it-de/wendungen/sp_22.mp3",
-  "audio/it-de/wendungen/sp_23.mp3",
-  "audio/it-de/wendungen/sp_24.mp3",
-  "audio/it-de/wendungen/st_01.mp3",
-  "audio/it-de/wendungen/st_02.mp3",
-  "audio/it-de/wendungen/st_03.mp3",
-  "audio/it-de/wendungen/st_04.mp3",
-  "audio/it-de/wendungen/st_05.mp3",
-  "audio/it-de/wendungen/st_06.mp3",
-  "audio/it-de/wendungen/st_07.mp3",
-  "audio/it-de/wendungen/st_08.mp3",
-  "audio/it-de/wendungen/st_09.mp3",
-  "audio/it-de/wendungen/st_10.mp3",
-  "audio/it-de/wendungen/st_11.mp3",
-  "audio/it-de/wendungen/st_12.mp3",
-  "audio/it-de/wendungen/st_13.mp3",
-  "audio/it-de/wendungen/st_14.mp3",
-  "audio/it-de/wendungen/st_15.mp3",
-  "audio/it-de/wendungen/st_16.mp3",
-  "audio/it-de/wendungen/st_17.mp3",
-  "audio/it-de/wendungen/st_18.mp3",
-  "audio/it-de/wendungen/st_19.mp3",
-  "audio/it-de/wendungen/st_20.mp3",
-  "audio/it-de/wendungen/st_21.mp3",
-  "audio/it-de/wendungen/st_22.mp3",
-  "audio/it-de/wendungen/st_23.mp3",
-  "audio/it-de/wendungen/st_24.mp3",
-  "audio/it-de/wendungen/tc_01.mp3",
-  "audio/it-de/wendungen/tc_02.mp3",
-  "audio/it-de/wendungen/tc_03.mp3",
-  "audio/it-de/wendungen/tc_04.mp3",
-  "audio/it-de/wendungen/tc_05.mp3",
-  "audio/it-de/wendungen/tc_06.mp3",
-  "audio/it-de/wendungen/tc_07.mp3",
-  "audio/it-de/wendungen/tc_08.mp3",
-  "audio/it-de/wendungen/tc_09.mp3",
-  "audio/it-de/wendungen/tc_10.mp3",
-  "audio/it-de/wendungen/tc_11.mp3",
-  "audio/it-de/wendungen/tc_12.mp3",
-  "audio/it-de/wendungen/tc_13.mp3",
-  "audio/it-de/wendungen/tc_14.mp3",
-  "audio/it-de/wendungen/tc_15.mp3",
-  "audio/it-de/wendungen/tc_16.mp3",
-  "audio/it-de/wendungen/tc_17.mp3",
-  "audio/it-de/wendungen/tc_18.mp3",
-  "audio/it-de/wendungen/tc_19.mp3",
-  "audio/it-de/wendungen/tc_20.mp3",
-  "audio/it-de/wendungen/tc_21.mp3",
-  "audio/it-de/wendungen/tc_22.mp3",
-  "audio/it-de/wendungen/tc_23.mp3",
-  "audio/it-de/wendungen/tc_24.mp3"
+  "audio/it-de/dialoge/d1_01.mp3?v=bbf7344f",
+  "audio/it-de/dialoge/d1_02.mp3?v=79ef4390",
+  "audio/it-de/dialoge/d1_03.mp3?v=3544d901",
+  "audio/it-de/dialoge/d1_04.mp3?v=917c730c",
+  "audio/it-de/dialoge/d1_05.mp3?v=9519c433",
+  "audio/it-de/dialoge/d1_06.mp3?v=92e7198b",
+  "audio/it-de/dialoge/d1_07.mp3?v=d3e45bc3",
+  "audio/it-de/dialoge/d1_08.mp3?v=fcb14fe4",
+  "audio/it-de/dialoge/d1_09.mp3?v=1f95e5c8",
+  "audio/it-de/dialoge/d1_10.mp3?v=038411c0",
+  "audio/it-de/dialoge/d2_01.mp3?v=9febab0f",
+  "audio/it-de/dialoge/d2_02.mp3?v=26ec32bb",
+  "audio/it-de/dialoge/d2_03.mp3?v=cc940ee7",
+  "audio/it-de/dialoge/d2_04.mp3?v=d5527f2d",
+  "audio/it-de/dialoge/d2_05.mp3?v=a6e5b492",
+  "audio/it-de/dialoge/d2_06.mp3?v=60242746",
+  "audio/it-de/dialoge/d2_07.mp3?v=d9794632",
+  "audio/it-de/dialoge/d2_08.mp3?v=bc58d52e",
+  "audio/it-de/dialoge/d2_09.mp3?v=d126844a",
+  "audio/it-de/dialoge/d2_10.mp3?v=0c88daf4",
+  "audio/it-de/geschichte/k01_01.mp3?v=9e30d190",
+  "audio/it-de/geschichte/k01_02.mp3?v=45ea9f04",
+  "audio/it-de/geschichte/k01_03.mp3?v=31f437e9",
+  "audio/it-de/geschichte/k01_04.mp3?v=ce6cee02",
+  "audio/it-de/geschichte/k01_05.mp3?v=5bb8b3ff",
+  "audio/it-de/geschichte/k01_06.mp3?v=b90e4867",
+  "audio/it-de/geschichte/k01_07.mp3?v=620f1bda",
+  "audio/it-de/geschichte/k01_08.mp3?v=eb4ead6a",
+  "audio/it-de/geschichte/k01_09.mp3?v=430b345e",
+  "audio/it-de/geschichte/k01_10.mp3?v=6c02edab",
+  "audio/it-de/geschichte/k01_11.mp3?v=dc6586b6",
+  "audio/it-de/geschichte/k01_12.mp3?v=9230ca5f",
+  "audio/it-de/geschichte/k01_13.mp3?v=10045ff0",
+  "audio/it-de/geschichte/k01_14.mp3?v=8889d6dc",
+  "audio/it-de/geschichte/k02_01.mp3?v=0aaacf02",
+  "audio/it-de/geschichte/k02_02.mp3?v=0a93df33",
+  "audio/it-de/geschichte/k02_03.mp3?v=cf080967",
+  "audio/it-de/geschichte/k02_04.mp3?v=ff774c49",
+  "audio/it-de/geschichte/k02_05.mp3?v=b4a303b9",
+  "audio/it-de/geschichte/k02_06.mp3?v=ebe82556",
+  "audio/it-de/geschichte/k02_07.mp3?v=3d7a90ee",
+  "audio/it-de/geschichte/k02_08.mp3?v=d0862f21",
+  "audio/it-de/geschichte/k02_09.mp3?v=cdfda8e7",
+  "audio/it-de/geschichte/k02_10.mp3?v=fcf5b0ef",
+  "audio/it-de/geschichte/k02_11.mp3?v=83d13ef8",
+  "audio/it-de/geschichte/k02_12.mp3?v=8f0a8462",
+  "audio/it-de/geschichte/k02_13.mp3?v=e280bb23",
+  "audio/it-de/geschichte/k02_14.mp3?v=9dd30f0b",
+  "audio/it-de/geschichte/k02_15.mp3?v=58827ad3",
+  "audio/it-de/geschichte/k03_01.mp3?v=871ba540",
+  "audio/it-de/geschichte/k03_02.mp3?v=d0e3b32d",
+  "audio/it-de/geschichte/k03_03.mp3?v=5c9029b7",
+  "audio/it-de/geschichte/k03_04.mp3?v=a173dacc",
+  "audio/it-de/geschichte/k03_05.mp3?v=051288d7",
+  "audio/it-de/geschichte/k03_06.mp3?v=73fcdde1",
+  "audio/it-de/geschichte/k03_07.mp3?v=a3868656",
+  "audio/it-de/geschichte/k03_08.mp3?v=164d3759",
+  "audio/it-de/geschichte/k03_09.mp3?v=18f42f21",
+  "audio/it-de/geschichte/k03_10.mp3?v=a0e337b9",
+  "audio/it-de/geschichte/k03_11.mp3?v=a5e55c84",
+  "audio/it-de/geschichte/k03_12.mp3?v=28d642a1",
+  "audio/it-de/geschichte/k03_13.mp3?v=f4e2ee19",
+  "audio/it-de/geschichte/k03_14.mp3?v=fa887b10",
+  "audio/it-de/geschichte/k03_15.mp3?v=d58f2b86",
+  "audio/it-de/lob/doch_vedi.mp3?v=16770c04",
+  "audio/it-de/lob/fehler_ahi.mp3?v=6bffc475",
+  "audio/it-de/lob/fehler_hmm.mp3?v=05a58e26",
+  "audio/it-de/lob/fehler_non_fa_niente.mp3?v=0fd56b74",
+  "audio/it-de/lob/fehler_non_proprio.mp3?v=620fc500",
+  "audio/it-de/lob/fehler_quasi.mp3?v=7dc68658",
+  "audio/it-de/lob/fehler_quasi_quasi.mp3?v=a3cfaef9",
+  "audio/it-de/lob/fehler_ricominciamo.mp3?v=181d9c16",
+  "audio/it-de/lob/fehler_riprova.mp3?v=fd484fb4",
+  "audio/it-de/lob/fehler_stavolta_no.mp3?v=c29e2138",
+  "audio/it-de/lob/fehler_vicino.mp3?v=fc127de0",
+  "audio/it-de/lob/geschafft_fiero.mp3?v=2c692729",
+  "audio/it-de/lob/geschafft_finito.mp3?v=e464eee3",
+  "audio/it-de/lob/geschafft_tutto.mp3?v=bd13a23e",
+  "audio/it-de/lob/lob_adoro.mp3?v=9e434041",
+  "audio/it-de/lob/lob_al_primo.mp3?v=d4cce791",
+  "audio/it-de/lob/lob_altro_punto.mp3?v=3f850a99",
+  "audio/it-de/lob/lob_ben_detto.mp3?v=bf13ba84",
+  "audio/it-de/lob/lob_ben_fatto.mp3?v=c55f9a38",
+  "audio/it-de/lob/lob_benissimo.mp3?v=2c0182a5",
+  "audio/it-de/lob/lob_bolognese.mp3?v=b5083141",
+  "audio/it-de/lob/lob_bravissimo.mp3?v=f77758fa",
+  "audio/it-de/lob/lob_bravo.mp3?v=e517360a",
+  "audio/it-de/lob/lob_ce_lhai.mp3?v=6586d215",
+  "audio/it-de/lob/lob_centrato.mp3?v=5865d3ad",
+  "audio/it-de/lob/lob_chapeau.mp3?v=7752ecb3",
+  "audio/it-de/lob/lob_che_accento.mp3?v=818d3f61",
+  "audio/it-de/lob/lob_che_bello.mp3?v=b24d6606",
+  "audio/it-de/lob/lob_che_buono.mp3?v=0de5898b",
+  "audio/it-de/lob/lob_che_figo.mp3?v=b7095fe9",
+  "audio/it-de/lob/lob_che_livello.mp3?v=cecef3f9",
+  "audio/it-de/lob/lob_che_spettacolo.mp3?v=1ad01851",
+  "audio/it-de/lob/lob_complimenti.mp3?v=61ebac0d",
+  "audio/it-de/lob/lob_continua.mp3?v=33443cc1",
+  "audio/it-de/lob/lob_corretto.mp3?v=208d07b1",
+  "audio/it-de/lob/lob_cosi.mp3?v=ba754f6f",
+  "audio/it-de/lob/lob_da_dieci.mp3?v=cccafc2c",
+  "audio/it-de/lob/lob_da_libro.mp3?v=e4e5746c",
+  "audio/it-de/lob/lob_da_oscar.mp3?v=f7115fe3",
+  "audio/it-de/lob/lob_dai.mp3?v=47b45817",
+  "audio/it-de/lob/lob_eccellente.mp3?v=cffd463f",
+  "audio/it-de/lob/lob_ecco.mp3?v=9aa99107",
+  "audio/it-de/lob/lob_eccolo.mp3?v=97d78866",
+  "audio/it-de/lob/lob_eh_si.mp3?v=96829c76",
+  "audio/it-de/lob/lob_esatto.mp3?v=8b9f7605",
+  "audio/it-de/lob/lob_fantastico.mp3?v=1bccc501",
+  "audio/it-de/lob/lob_fenomeno.mp3?v=ef55b28b",
+  "audio/it-de/lob/lob_forza.mp3?v=8c78204e",
+  "audio/it-de/lob/lob_giusto.mp3?v=6e5ab103",
+  "audio/it-de/lob/lob_grande.mp3?v=dda568f3",
+  "audio/it-de/lob/lob_impeccabile.mp3?v=11528341",
+  "audio/it-de/lob/lob_italiano_vero.mp3?v=d2500a07",
+  "audio/it-de/lob/lob_macchina.mp3?v=36ba0f41",
+  "audio/it-de/lob/lob_manuale.mp3?v=4c7013b3",
+  "audio/it-de/lob/lob_meraviglia.mp3?v=ffd19a2d",
+  "audio/it-de/lob/lob_migliori.mp3?v=54a8912e",
+  "audio/it-de/lob/lob_mitico.mp3?v=4956d53b",
+  "audio/it-de/lob/lob_molto_bene.mp3?v=9f07aa92",
+  "audio/it-de/lob/lob_orecchio.mp3?v=46bf1719",
+  "audio/it-de/lob/lob_ottimo.mp3?v=5a1fa9ac",
+  "audio/it-de/lob/lob_pazzesco.mp3?v=a86ea271",
+  "audio/it-de/lob/lob_perfetto.mp3?v=0286ba04",
+  "audio/it-de/lob/lob_perfetto_cosi.mp3?v=e52a782a",
+  "audio/it-de/lob/lob_prendi.mp3?v=a4a3da2c",
+  "audio/it-de/lob/lob_professore.mp3?v=3f78876a",
+  "audio/it-de/lob/lob_senza_dubbio.mp3?v=779bebb3",
+  "audio/it-de/lob/lob_senza_errori.mp3?v=d3bb94e5",
+  "audio/it-de/lob/lob_spacchi.mp3?v=2f25537b",
+  "audio/it-de/lob/lob_wow.mp3?v=5d1f6e9f",
+  "audio/it-de/lob/stark_campione.mp3?v=67416411",
+  "audio/it-de/lob/stark_centro.mp3?v=28e38a4e",
+  "audio/it-de/lob/stark_continua.mp3?v=99d39ea1",
+  "audio/it-de/lob/stark_facile.mp3?v=8dfe89c8",
+  "audio/it-de/lob/stark_fiero.mp3?v=8b9a6f1c",
+  "audio/it-de/lob/stark_impressionante.mp3?v=c200f0e6",
+  "audio/it-de/lob/stark_livello.mp3?v=85d72ed1",
+  "audio/it-de/lob/stark_macchina.mp3?v=f95edd41",
+  "audio/it-de/lob/stark_prestazione.mp3?v=3d602f41",
+  "audio/it-de/lob/stark_serie.mp3?v=8cd8de57",
+  "audio/it-de/lob/stark_spacchi.mp3?v=66f35d50",
+  "audio/it-de/lob/stark_stella.mp3?v=31aa168d",
+  "audio/it-de/lob/stark_volevo.mp3?v=c76b87b5",
+  "audio/it-de/lob/stark_voli.mp3?v=fb58ddd9",
+  "audio/it-de/lob/voll_senza_errori.mp3?v=bec62ad5",
+  "audio/it-de/orte/abruzzo.mp3?v=97169d98",
+  "audio/it-de/orte/agrigento.mp3?v=deea410a",
+  "audio/it-de/orte/alberobello.mp3?v=71a35aba",
+  "audio/it-de/orte/amalfi.mp3?v=103706eb",
+  "audio/it-de/orte/aosta.mp3?v=8cedb79d",
+  "audio/it-de/orte/assisi.mp3?v=8007a942",
+  "audio/it-de/orte/bergamo.mp3?v=b346fda7",
+  "audio/it-de/orte/bologna.mp3?v=03c5de7b",
+  "audio/it-de/orte/cagliari.mp3?v=3b33ec7c",
+  "audio/it-de/orte/capri.mp3?v=f7f52931",
+  "audio/it-de/orte/cenacolo.mp3?v=f592389d",
+  "audio/it-de/orte/cinqueterre.mp3?v=e959ee5f",
+  "audio/it-de/orte/colosseo.mp3?v=16ac0408",
+  "audio/it-de/orte/como.mp3?v=6b0b3b5c",
+  "audio/it-de/orte/costasmeralda.mp3?v=e040897c",
+  "audio/it-de/orte/dolomiti.mp3?v=7eb3cc49",
+  "audio/it-de/orte/etna.mp3?v=17485b28",
+  "audio/it-de/orte/firenze.mp3?v=4b6aa789",
+  "audio/it-de/orte/genova.mp3?v=0e905f0c",
+  "audio/it-de/orte/langhe.mp3?v=5c168760",
+  "audio/it-de/orte/lecce.mp3?v=10ce3eb2",
+  "audio/it-de/orte/lucca.mp3?v=d91c25f7",
+  "audio/it-de/orte/matera.mp3?v=caffa60f",
+  "audio/it-de/orte/milano.mp3?v=31525a2b",
+  "audio/it-de/orte/modena.mp3?v=dbe242a7",
+  "audio/it-de/orte/napoli.mp3?v=91d18bc0",
+  "audio/it-de/orte/padova.mp3?v=a14cf691",
+  "audio/it-de/orte/palermo.mp3?v=5dbec8cc",
+  "audio/it-de/orte/parma.mp3?v=f1e39a7b",
+  "audio/it-de/orte/perugia.mp3?v=0a800826",
+  "audio/it-de/orte/pisa.mp3?v=bbdfcb5a",
+  "audio/it-de/orte/pompei.mp3?v=b5f66aae",
+  "audio/it-de/orte/portici.mp3?v=b819a672",
+  "audio/it-de/orte/ravenna.mp3?v=d1dbf08a",
+  "audio/it-de/orte/rimini.mp3?v=a9791c9b",
+  "audio/it-de/orte/roma.mp3?v=a0ce514f",
+  "audio/it-de/orte/sangimignano.mp3?v=e9d40ad9",
+  "audio/it-de/orte/siena.mp3?v=2b7b09a3",
+  "audio/it-de/orte/siracusa.mp3?v=ff73bc08",
+  "audio/it-de/orte/taormina.mp3?v=ee13dd70",
+  "audio/it-de/orte/tivoli.mp3?v=f09ef6c8",
+  "audio/it-de/orte/torino.mp3?v=82152639",
+  "audio/it-de/orte/torri.mp3?v=5c309170",
+  "audio/it-de/orte/trieste.mp3?v=8ca65dc8",
+  "audio/it-de/orte/tropea.mp3?v=a4f77d8b",
+  "audio/it-de/orte/uffizi.mp3?v=a1c42f5d",
+  "audio/it-de/orte/urbino.mp3?v=21bc5243",
+  "audio/it-de/orte/vaticano.mp3?v=377bc288",
+  "audio/it-de/orte/venezia.mp3?v=3c66021d",
+  "audio/it-de/orte/verona.mp3?v=4cf9e8db",
+  "audio/it-de/saetze/ba_01.mp3?v=bed20b08",
+  "audio/it-de/saetze/ba_01_fp.mp3?v=3333ce74",
+  "audio/it-de/saetze/ba_01_pc.mp3?v=8070e3ca",
+  "audio/it-de/saetze/ba_02.mp3?v=5eb11a45",
+  "audio/it-de/saetze/ba_03.mp3?v=d79c849c",
+  "audio/it-de/saetze/ba_03_fp.mp3?v=7ebf0c87",
+  "audio/it-de/saetze/ba_03_pc.mp3?v=f1757154",
+  "audio/it-de/saetze/ba_04.mp3?v=158e5ec1",
+  "audio/it-de/saetze/ba_04_fp.mp3?v=70c163e7",
+  "audio/it-de/saetze/ba_04_pc.mp3?v=e54e8653",
+  "audio/it-de/saetze/ba_05.mp3?v=074c4a3e",
+  "audio/it-de/saetze/ba_06.mp3?v=a9490fd6",
+  "audio/it-de/saetze/ba_06_fp.mp3?v=3c7fe73b",
+  "audio/it-de/saetze/ba_06_pc.mp3?v=33477120",
+  "audio/it-de/saetze/ba_07.mp3?v=03f6b34c",
+  "audio/it-de/saetze/ba_07_fp.mp3?v=f4adda8d",
+  "audio/it-de/saetze/ba_07_pc.mp3?v=f12a929f",
+  "audio/it-de/saetze/ba_08.mp3?v=339838d8",
+  "audio/it-de/saetze/ba_08_fp.mp3?v=7469cadb",
+  "audio/it-de/saetze/ba_08_pc.mp3?v=2739e4c0",
+  "audio/it-de/saetze/ba_09.mp3?v=11ec464e",
+  "audio/it-de/saetze/ba_10.mp3?v=0dba6fbc",
+  "audio/it-de/saetze/ba_11.mp3?v=c9e5cb60",
+  "audio/it-de/saetze/ba_11_fp.mp3?v=43420a2a",
+  "audio/it-de/saetze/ba_11_pc.mp3?v=ed609448",
+  "audio/it-de/saetze/ba_12.mp3?v=93dba7bd",
+  "audio/it-de/saetze/ba_12_fp.mp3?v=67b308b8",
+  "audio/it-de/saetze/ba_12_pc.mp3?v=7426659b",
+  "audio/it-de/saetze/ba_13.mp3?v=e86ea435",
+  "audio/it-de/saetze/ba_13_fp.mp3?v=53aa9235",
+  "audio/it-de/saetze/ba_13_pc.mp3?v=66bfd650",
+  "audio/it-de/saetze/ba_14.mp3?v=ca9fb67d",
+  "audio/it-de/saetze/ba_15.mp3?v=4e4ab75e",
+  "audio/it-de/saetze/ba_15_fp.mp3?v=fbd9cc27",
+  "audio/it-de/saetze/ba_15_pc.mp3?v=baa0cc4a",
+  "audio/it-de/saetze/ba_16.mp3?v=19ed0690",
+  "audio/it-de/saetze/ba_17.mp3?v=6c03817c",
+  "audio/it-de/saetze/ba_18.mp3?v=96b7ee99",
+  "audio/it-de/saetze/ba_18_fp.mp3?v=37cbf2eb",
+  "audio/it-de/saetze/ba_18_pc.mp3?v=ef77ba4d",
+  "audio/it-de/saetze/ba_19.mp3?v=d74d36a7",
+  "audio/it-de/saetze/ba_20.mp3?v=dd857d5d",
+  "audio/it-de/saetze/ba_20_fp.mp3?v=bce1eaa4",
+  "audio/it-de/saetze/ba_20_pc.mp3?v=4e7454a2",
+  "audio/it-de/saetze/ba_21.mp3?v=68ab89ce",
+  "audio/it-de/saetze/ba_21_fp.mp3?v=555f7a27",
+  "audio/it-de/saetze/ba_21_pc.mp3?v=c2b8be2a",
+  "audio/it-de/saetze/ba_22.mp3?v=8806fec8",
+  "audio/it-de/saetze/ba_23.mp3?v=5de9e9e0",
+  "audio/it-de/saetze/ba_24.mp3?v=6c0903b8",
+  "audio/it-de/saetze/fa_01.mp3?v=a0fed2e1",
+  "audio/it-de/saetze/fa_02.mp3?v=340d42ee",
+  "audio/it-de/saetze/fa_03.mp3?v=4feb072f",
+  "audio/it-de/saetze/fa_04.mp3?v=397277b5",
+  "audio/it-de/saetze/fa_05.mp3?v=9707eb53",
+  "audio/it-de/saetze/fa_06.mp3?v=f959ca49",
+  "audio/it-de/saetze/fa_07.mp3?v=1b9bfd24",
+  "audio/it-de/saetze/fa_08.mp3?v=1369494a",
+  "audio/it-de/saetze/fa_09.mp3?v=02194b69",
+  "audio/it-de/saetze/fa_10.mp3?v=eb5ff8e3",
+  "audio/it-de/saetze/fa_11.mp3?v=d90a1425",
+  "audio/it-de/saetze/fa_11_fp.mp3?v=74d98e16",
+  "audio/it-de/saetze/fa_11_pc.mp3?v=af065ec7",
+  "audio/it-de/saetze/fa_12.mp3?v=64d4026a",
+  "audio/it-de/saetze/fa_12_fp.mp3?v=4b47b85b",
+  "audio/it-de/saetze/fa_12_pc.mp3?v=9de7f6bc",
+  "audio/it-de/saetze/fa_13.mp3?v=a4b7dbbb",
+  "audio/it-de/saetze/fa_14.mp3?v=502694a5",
+  "audio/it-de/saetze/fa_15.mp3?v=e5a8b14e",
+  "audio/it-de/saetze/fa_16.mp3?v=233c8655",
+  "audio/it-de/saetze/fa_17.mp3?v=3a35adea",
+  "audio/it-de/saetze/fa_18.mp3?v=628090af",
+  "audio/it-de/saetze/fa_19.mp3?v=811dd60a",
+  "audio/it-de/saetze/fa_20.mp3?v=c9cfb352",
+  "audio/it-de/saetze/fa_21.mp3?v=5a0f2767",
+  "audio/it-de/saetze/fa_21_fp.mp3?v=fa354c59",
+  "audio/it-de/saetze/fa_21_pc.mp3?v=08c50e6e",
+  "audio/it-de/saetze/fa_22.mp3?v=e26e3738",
+  "audio/it-de/saetze/fa_23.mp3?v=f45db543",
+  "audio/it-de/saetze/fa_24.mp3?v=45bd29be",
+  "audio/it-de/saetze/ga_01.mp3?v=1beea88d",
+  "audio/it-de/saetze/ga_01_fp.mp3?v=86b2c767",
+  "audio/it-de/saetze/ga_01_pc.mp3?v=18f466ff",
+  "audio/it-de/saetze/ga_02.mp3?v=63c2746c",
+  "audio/it-de/saetze/ga_02_fp.mp3?v=a5ddfe21",
+  "audio/it-de/saetze/ga_02_pc.mp3?v=0c5ba6a4",
+  "audio/it-de/saetze/ga_03.mp3?v=28b9cbb7",
+  "audio/it-de/saetze/ga_03_fp.mp3?v=ca2e031e",
+  "audio/it-de/saetze/ga_03_pc.mp3?v=88910970",
+  "audio/it-de/saetze/ga_04.mp3?v=1dbd40c6",
+  "audio/it-de/saetze/ga_04_fp.mp3?v=74b6ec2e",
+  "audio/it-de/saetze/ga_04_pc.mp3?v=79966297",
+  "audio/it-de/saetze/ga_05.mp3?v=1256ebca",
+  "audio/it-de/saetze/ga_05_fp.mp3?v=22026c39",
+  "audio/it-de/saetze/ga_05_pc.mp3?v=9e5f78f4",
+  "audio/it-de/saetze/ga_06.mp3?v=a949bee6",
+  "audio/it-de/saetze/ga_06_fp.mp3?v=17d33df8",
+  "audio/it-de/saetze/ga_06_pc.mp3?v=272f2b84",
+  "audio/it-de/saetze/ga_07.mp3?v=720e3445",
+  "audio/it-de/saetze/ga_07_fp.mp3?v=29507521",
+  "audio/it-de/saetze/ga_07_pc.mp3?v=8b682e44",
+  "audio/it-de/saetze/ga_08.mp3?v=36c2a08f",
+  "audio/it-de/saetze/ga_08_fp.mp3?v=465c1b1e",
+  "audio/it-de/saetze/ga_08_pc.mp3?v=95b9b7ed",
+  "audio/it-de/saetze/ga_09.mp3?v=ac7e6df1",
+  "audio/it-de/saetze/ga_10.mp3?v=5fef3a52",
+  "audio/it-de/saetze/ga_10_fp.mp3?v=8116db47",
+  "audio/it-de/saetze/ga_10_pc.mp3?v=cab743a5",
+  "audio/it-de/saetze/ga_11.mp3?v=ac9471cf",
+  "audio/it-de/saetze/ga_11_fp.mp3?v=2d4d5c18",
+  "audio/it-de/saetze/ga_11_pc.mp3?v=e7358050",
+  "audio/it-de/saetze/ga_12.mp3?v=148d19f5",
+  "audio/it-de/saetze/ga_13.mp3?v=70484cae",
+  "audio/it-de/saetze/ga_14.mp3?v=21f424eb",
+  "audio/it-de/saetze/ga_15.mp3?v=f8a3a4e1",
+  "audio/it-de/saetze/ga_15_fp.mp3?v=8f5f2ae6",
+  "audio/it-de/saetze/ga_15_pc.mp3?v=cba43f6c",
+  "audio/it-de/saetze/ga_16.mp3?v=440f2f23",
+  "audio/it-de/saetze/ga_16_fp.mp3?v=94aa003a",
+  "audio/it-de/saetze/ga_16_pc.mp3?v=6fc1e82c",
+  "audio/it-de/saetze/ga_17.mp3?v=d681d97c",
+  "audio/it-de/saetze/ga_17_fp.mp3?v=bd80c08c",
+  "audio/it-de/saetze/ga_17_pc.mp3?v=efaec57f",
+  "audio/it-de/saetze/ga_18.mp3?v=9d1d3b8b",
+  "audio/it-de/saetze/ga_19.mp3?v=5ad3798a",
+  "audio/it-de/saetze/ga_19_fp.mp3?v=226e35af",
+  "audio/it-de/saetze/ga_19_pc.mp3?v=b6f23a24",
+  "audio/it-de/saetze/ga_20.mp3?v=21e05123",
+  "audio/it-de/saetze/ga_21.mp3?v=fed308c5",
+  "audio/it-de/saetze/ga_22.mp3?v=e037639e",
+  "audio/it-de/saetze/ga_23.mp3?v=74a812af",
+  "audio/it-de/saetze/ga_23_fp.mp3?v=8a7c4062",
+  "audio/it-de/saetze/ga_23_pc.mp3?v=3af61361",
+  "audio/it-de/saetze/ga_24.mp3?v=b376ee29",
+  "audio/it-de/saetze/ma_01.mp3?v=b346d9c5",
+  "audio/it-de/saetze/ma_01_fp.mp3?v=3606ec1f",
+  "audio/it-de/saetze/ma_01_pc.mp3?v=64a10e6b",
+  "audio/it-de/saetze/ma_02.mp3?v=87a3643c",
+  "audio/it-de/saetze/ma_02_fp.mp3?v=3dff0810",
+  "audio/it-de/saetze/ma_02_pc.mp3?v=e8d54038",
+  "audio/it-de/saetze/ma_03.mp3?v=659c3ab4",
+  "audio/it-de/saetze/ma_04.mp3?v=f7ab4967",
+  "audio/it-de/saetze/ma_04_fp.mp3?v=cc7e2741",
+  "audio/it-de/saetze/ma_04_pc.mp3?v=24e1c754",
+  "audio/it-de/saetze/ma_05.mp3?v=4c225cdc",
+  "audio/it-de/saetze/ma_05_fp.mp3?v=af781817",
+  "audio/it-de/saetze/ma_05_pc.mp3?v=d564813a",
+  "audio/it-de/saetze/ma_06.mp3?v=90213d9b",
+  "audio/it-de/saetze/ma_07.mp3?v=10171b38",
+  "audio/it-de/saetze/ma_07_fp.mp3?v=a76b0cd1",
+  "audio/it-de/saetze/ma_07_pc.mp3?v=b78cf79c",
+  "audio/it-de/saetze/ma_08.mp3?v=a6669cae",
+  "audio/it-de/saetze/ma_08_fp.mp3?v=d13891a1",
+  "audio/it-de/saetze/ma_08_pc.mp3?v=319a9212",
+  "audio/it-de/saetze/ma_09.mp3?v=0cd4fe46",
+  "audio/it-de/saetze/ma_10.mp3?v=fe062396",
+  "audio/it-de/saetze/ma_11.mp3?v=7365a6a4",
+  "audio/it-de/saetze/ma_11_fp.mp3?v=b8319415",
+  "audio/it-de/saetze/ma_11_pc.mp3?v=801617ef",
+  "audio/it-de/saetze/ma_12.mp3?v=62dd8af4",
+  "audio/it-de/saetze/ma_12_fp.mp3?v=17320903",
+  "audio/it-de/saetze/ma_12_pc.mp3?v=a9809d9a",
+  "audio/it-de/saetze/ma_13.mp3?v=1321569e",
+  "audio/it-de/saetze/ma_14.mp3?v=7c68744b",
+  "audio/it-de/saetze/ma_14_fp.mp3?v=f4eec9cb",
+  "audio/it-de/saetze/ma_14_pc.mp3?v=23cfd4fc",
+  "audio/it-de/saetze/ma_15.mp3?v=b3d370ae",
+  "audio/it-de/saetze/ma_15_fp.mp3?v=2779f45c",
+  "audio/it-de/saetze/ma_15_pc.mp3?v=2b4af5ef",
+  "audio/it-de/saetze/ma_16.mp3?v=5db483e6",
+  "audio/it-de/saetze/ma_17.mp3?v=78a63f62",
+  "audio/it-de/saetze/ma_17_fp.mp3?v=e703b167",
+  "audio/it-de/saetze/ma_17_pc.mp3?v=ee421d94",
+  "audio/it-de/saetze/ma_18.mp3?v=849db8a3",
+  "audio/it-de/saetze/ma_19.mp3?v=33786300",
+  "audio/it-de/saetze/ma_19_fp.mp3?v=5f8cb01c",
+  "audio/it-de/saetze/ma_19_pc.mp3?v=692d7a63",
+  "audio/it-de/saetze/ma_20.mp3?v=3b9be800",
+  "audio/it-de/saetze/ma_21.mp3?v=981d3e19",
+  "audio/it-de/saetze/ma_21_fp.mp3?v=7152613e",
+  "audio/it-de/saetze/ma_21_pc.mp3?v=042fc1cc",
+  "audio/it-de/saetze/ma_22.mp3?v=fcd07299",
+  "audio/it-de/saetze/ma_23.mp3?v=8f2e0087",
+  "audio/it-de/saetze/ma_24.mp3?v=cd4364ea",
+  "audio/it-de/saetze/mu_01.mp3?v=5b2f93fc",
+  "audio/it-de/saetze/mu_01_fp.mp3?v=d90067f7",
+  "audio/it-de/saetze/mu_01_pc.mp3?v=8c5508fa",
+  "audio/it-de/saetze/mu_02.mp3?v=cdddd9c8",
+  "audio/it-de/saetze/mu_02_fp.mp3?v=ab95777f",
+  "audio/it-de/saetze/mu_02_pc.mp3?v=6b6eaa8e",
+  "audio/it-de/saetze/mu_03.mp3?v=c57326de",
+  "audio/it-de/saetze/mu_04.mp3?v=71fe0c7a",
+  "audio/it-de/saetze/mu_05.mp3?v=5600bba8",
+  "audio/it-de/saetze/mu_06.mp3?v=9d7bc549",
+  "audio/it-de/saetze/mu_07.mp3?v=83c88637",
+  "audio/it-de/saetze/mu_08.mp3?v=a9cff195",
+  "audio/it-de/saetze/mu_09.mp3?v=63655abc",
+  "audio/it-de/saetze/mu_09_fp.mp3?v=47f033bd",
+  "audio/it-de/saetze/mu_09_pc.mp3?v=8e15e357",
+  "audio/it-de/saetze/mu_10.mp3?v=99698b00",
+  "audio/it-de/saetze/mu_10_fp.mp3?v=8c0557ce",
+  "audio/it-de/saetze/mu_10_pc.mp3?v=69209fa1",
+  "audio/it-de/saetze/mu_11.mp3?v=b25d6a43",
+  "audio/it-de/saetze/mu_11_fp.mp3?v=2d967b84",
+  "audio/it-de/saetze/mu_11_pc.mp3?v=f3e87567",
+  "audio/it-de/saetze/mu_12.mp3?v=55fb79cd",
+  "audio/it-de/saetze/mu_12_fp.mp3?v=a26bb859",
+  "audio/it-de/saetze/mu_12_pc.mp3?v=fb7fafa2",
+  "audio/it-de/saetze/mu_13.mp3?v=a90b697f",
+  "audio/it-de/saetze/mu_14.mp3?v=5aa82dd0",
+  "audio/it-de/saetze/mu_15.mp3?v=9340b4d7",
+  "audio/it-de/saetze/mu_15_fp.mp3?v=0c9439b9",
+  "audio/it-de/saetze/mu_15_pc.mp3?v=05a3a880",
+  "audio/it-de/saetze/mu_16.mp3?v=01b8ec06",
+  "audio/it-de/saetze/mu_17.mp3?v=ae1db476",
+  "audio/it-de/saetze/mu_18.mp3?v=71d93ba7",
+  "audio/it-de/saetze/mu_19.mp3?v=d1efe597",
+  "audio/it-de/saetze/mu_20.mp3?v=af65df01",
+  "audio/it-de/saetze/mu_20_fp.mp3?v=1a44d48c",
+  "audio/it-de/saetze/mu_20_pc.mp3?v=690a8bf9",
+  "audio/it-de/saetze/mu_21.mp3?v=71d6fe46",
+  "audio/it-de/saetze/mu_21_fp.mp3?v=28f82caa",
+  "audio/it-de/saetze/mu_21_pc.mp3?v=9b3f3d9d",
+  "audio/it-de/saetze/mu_22.mp3?v=6e90f8a6",
+  "audio/it-de/saetze/mu_22_fp.mp3?v=776ab93d",
+  "audio/it-de/saetze/mu_22_pc.mp3?v=7b2a917d",
+  "audio/it-de/saetze/mu_23.mp3?v=4291f1c5",
+  "audio/it-de/saetze/mu_24.mp3?v=37154f6e",
+  "audio/it-de/saetze/se_01.mp3?v=b5380250",
+  "audio/it-de/saetze/se_01_fp.mp3?v=99dd8ccd",
+  "audio/it-de/saetze/se_01_pc.mp3?v=b968cc82",
+  "audio/it-de/saetze/se_02.mp3?v=3ad6796c",
+  "audio/it-de/saetze/se_02_fp.mp3?v=29c67752",
+  "audio/it-de/saetze/se_02_pc.mp3?v=d4756cef",
+  "audio/it-de/saetze/se_03.mp3?v=282e5073",
+  "audio/it-de/saetze/se_04.mp3?v=0c99552a",
+  "audio/it-de/saetze/se_05.mp3?v=6aeb0b40",
+  "audio/it-de/saetze/se_05_fp.mp3?v=3a9296e9",
+  "audio/it-de/saetze/se_05_pc.mp3?v=035f89d8",
+  "audio/it-de/saetze/se_06.mp3?v=aead2ba7",
+  "audio/it-de/saetze/se_07.mp3?v=9a9d91c9",
+  "audio/it-de/saetze/se_08.mp3?v=3d426b2d",
+  "audio/it-de/saetze/se_09.mp3?v=62884f81",
+  "audio/it-de/saetze/se_09_fp.mp3?v=46cb59f2",
+  "audio/it-de/saetze/se_09_pc.mp3?v=b33796b4",
+  "audio/it-de/saetze/se_10.mp3?v=4d578660",
+  "audio/it-de/saetze/se_10_fp.mp3?v=e7b4c51c",
+  "audio/it-de/saetze/se_10_pc.mp3?v=dee568ca",
+  "audio/it-de/saetze/se_11.mp3?v=e7f6efea",
+  "audio/it-de/saetze/se_11_fp.mp3?v=a6b1fa71",
+  "audio/it-de/saetze/se_11_pc.mp3?v=77a90271",
+  "audio/it-de/saetze/se_12.mp3?v=b7a925ad",
+  "audio/it-de/saetze/se_12_fp.mp3?v=6eadb706",
+  "audio/it-de/saetze/se_12_pc.mp3?v=2595e7a5",
+  "audio/it-de/saetze/se_13.mp3?v=2cbdd713",
+  "audio/it-de/saetze/se_14.mp3?v=64528650",
+  "audio/it-de/saetze/se_14_fp.mp3?v=40ef9c1e",
+  "audio/it-de/saetze/se_14_pc.mp3?v=bff9af42",
+  "audio/it-de/saetze/se_15.mp3?v=77db6925",
+  "audio/it-de/saetze/se_15_fp.mp3?v=9829c47e",
+  "audio/it-de/saetze/se_15_pc.mp3?v=02e188eb",
+  "audio/it-de/saetze/se_16.mp3?v=189bc791",
+  "audio/it-de/saetze/se_17.mp3?v=bb9f8ba4",
+  "audio/it-de/saetze/se_17_fp.mp3?v=34b145c5",
+  "audio/it-de/saetze/se_17_pc.mp3?v=081dec6a",
+  "audio/it-de/saetze/se_18.mp3?v=66cc6a2c",
+  "audio/it-de/saetze/se_18_fp.mp3?v=155a6036",
+  "audio/it-de/saetze/se_18_pc.mp3?v=92de9360",
+  "audio/it-de/saetze/se_19.mp3?v=6d232db3",
+  "audio/it-de/saetze/se_19_fp.mp3?v=b52a9a1f",
+  "audio/it-de/saetze/se_19_pc.mp3?v=40372ec5",
+  "audio/it-de/saetze/se_20.mp3?v=8289ba1c",
+  "audio/it-de/saetze/se_21.mp3?v=fa536dff",
+  "audio/it-de/saetze/se_22.mp3?v=74a15a3b",
+  "audio/it-de/saetze/se_23.mp3?v=db8df0d3",
+  "audio/it-de/saetze/se_23_fp.mp3?v=c95c0fb4",
+  "audio/it-de/saetze/se_23_pc.mp3?v=56cce2d5",
+  "audio/it-de/saetze/se_24.mp3?v=0500edec",
+  "audio/it-de/saetze/sp_01.mp3?v=3d91dfc7",
+  "audio/it-de/saetze/sp_01_fp.mp3?v=d6b65c5d",
+  "audio/it-de/saetze/sp_01_pc.mp3?v=703ab63b",
+  "audio/it-de/saetze/sp_02.mp3?v=bdeb6ca9",
+  "audio/it-de/saetze/sp_03.mp3?v=b19874f6",
+  "audio/it-de/saetze/sp_04.mp3?v=fb5a3447",
+  "audio/it-de/saetze/sp_05.mp3?v=1926e597",
+  "audio/it-de/saetze/sp_05_fp.mp3?v=9a077759",
+  "audio/it-de/saetze/sp_05_pc.mp3?v=2568e293",
+  "audio/it-de/saetze/sp_06.mp3?v=1638ada3",
+  "audio/it-de/saetze/sp_06_fp.mp3?v=5dd74643",
+  "audio/it-de/saetze/sp_06_pc.mp3?v=9dde4985",
+  "audio/it-de/saetze/sp_07.mp3?v=375aa228",
+  "audio/it-de/saetze/sp_07_fp.mp3?v=e4f1884f",
+  "audio/it-de/saetze/sp_07_pc.mp3?v=bc776a74",
+  "audio/it-de/saetze/sp_08.mp3?v=e4928766",
+  "audio/it-de/saetze/sp_09.mp3?v=140c4010",
+  "audio/it-de/saetze/sp_09_fp.mp3?v=ba06d2bb",
+  "audio/it-de/saetze/sp_09_pc.mp3?v=b5ff9cf7",
+  "audio/it-de/saetze/sp_10.mp3?v=2845dfc0",
+  "audio/it-de/saetze/sp_11.mp3?v=b27e22db",
+  "audio/it-de/saetze/sp_12.mp3?v=7bdc533a",
+  "audio/it-de/saetze/sp_13.mp3?v=72f6be1d",
+  "audio/it-de/saetze/sp_13_fp.mp3?v=f9621a5c",
+  "audio/it-de/saetze/sp_13_pc.mp3?v=45d65a0f",
+  "audio/it-de/saetze/sp_14.mp3?v=5fc7070a",
+  "audio/it-de/saetze/sp_14_fp.mp3?v=525396d3",
+  "audio/it-de/saetze/sp_14_pc.mp3?v=8b7d7825",
+  "audio/it-de/saetze/sp_15.mp3?v=7bfbc42f",
+  "audio/it-de/saetze/sp_15_fp.mp3?v=4f35501a",
+  "audio/it-de/saetze/sp_15_pc.mp3?v=e13b42e5",
+  "audio/it-de/saetze/sp_16.mp3?v=e767c5fc",
+  "audio/it-de/saetze/sp_16_fp.mp3?v=aae6e0bb",
+  "audio/it-de/saetze/sp_16_pc.mp3?v=140dde5c",
+  "audio/it-de/saetze/sp_17.mp3?v=40077a8c",
+  "audio/it-de/saetze/sp_17_fp.mp3?v=52a30ce4",
+  "audio/it-de/saetze/sp_17_pc.mp3?v=d0024dca",
+  "audio/it-de/saetze/sp_18.mp3?v=e524b94e",
+  "audio/it-de/saetze/sp_19.mp3?v=33780681",
+  "audio/it-de/saetze/sp_19_fp.mp3?v=363af62f",
+  "audio/it-de/saetze/sp_19_pc.mp3?v=d700bf6e",
+  "audio/it-de/saetze/sp_20.mp3?v=9cd330fb",
+  "audio/it-de/saetze/sp_21.mp3?v=2da5be37",
+  "audio/it-de/saetze/sp_21_fp.mp3?v=668be20b",
+  "audio/it-de/saetze/sp_21_pc.mp3?v=5a0385c6",
+  "audio/it-de/saetze/sp_22.mp3?v=4dc5d5b2",
+  "audio/it-de/saetze/sp_22_fp.mp3?v=544aace3",
+  "audio/it-de/saetze/sp_22_pc.mp3?v=f5b2595d",
+  "audio/it-de/saetze/sp_23.mp3?v=3cc0b4c5",
+  "audio/it-de/saetze/sp_24.mp3?v=82272708",
+  "audio/it-de/saetze/st_01.mp3?v=88d2b836",
+  "audio/it-de/saetze/st_02.mp3?v=e64c88b7",
+  "audio/it-de/saetze/st_02_fp.mp3?v=0e18f639",
+  "audio/it-de/saetze/st_02_pc.mp3?v=88ed0141",
+  "audio/it-de/saetze/st_03.mp3?v=5a419b91",
+  "audio/it-de/saetze/st_04.mp3?v=3da46d21",
+  "audio/it-de/saetze/st_05.mp3?v=fcb9eb66",
+  "audio/it-de/saetze/st_06.mp3?v=b6bf1403",
+  "audio/it-de/saetze/st_07.mp3?v=86c40ead",
+  "audio/it-de/saetze/st_08.mp3?v=0518c94d",
+  "audio/it-de/saetze/st_09.mp3?v=4f4c0ae8",
+  "audio/it-de/saetze/st_10.mp3?v=190ec0cc",
+  "audio/it-de/saetze/st_11.mp3?v=85aff0fb",
+  "audio/it-de/saetze/st_12.mp3?v=231f9731",
+  "audio/it-de/saetze/st_12_fp.mp3?v=14905c22",
+  "audio/it-de/saetze/st_12_pc.mp3?v=e73aafd6",
+  "audio/it-de/saetze/st_13.mp3?v=5d72cc3d",
+  "audio/it-de/saetze/st_14.mp3?v=ba08269a",
+  "audio/it-de/saetze/st_15.mp3?v=2c47b514",
+  "audio/it-de/saetze/st_16.mp3?v=3d5be3f4",
+  "audio/it-de/saetze/st_17.mp3?v=01accb78",
+  "audio/it-de/saetze/st_18.mp3?v=b841619e",
+  "audio/it-de/saetze/st_18_fp.mp3?v=cc00ac6f",
+  "audio/it-de/saetze/st_18_pc.mp3?v=c2a08866",
+  "audio/it-de/saetze/st_19.mp3?v=9c998d7a",
+  "audio/it-de/saetze/st_20.mp3?v=475a3d1f",
+  "audio/it-de/saetze/st_21.mp3?v=89d322bf",
+  "audio/it-de/saetze/st_21_fp.mp3?v=1803eeb2",
+  "audio/it-de/saetze/st_21_pc.mp3?v=5fe04932",
+  "audio/it-de/saetze/st_22.mp3?v=a9bdfc59",
+  "audio/it-de/saetze/st_23.mp3?v=8c6d8407",
+  "audio/it-de/saetze/st_24.mp3?v=67124159",
+  "audio/it-de/saetze/tc_01.mp3?v=f9aa45f1",
+  "audio/it-de/saetze/tc_01_fp.mp3?v=38f9f8ea",
+  "audio/it-de/saetze/tc_01_pc.mp3?v=dfb85184",
+  "audio/it-de/saetze/tc_02.mp3?v=a45d69ae",
+  "audio/it-de/saetze/tc_02_fp.mp3?v=ba142014",
+  "audio/it-de/saetze/tc_02_pc.mp3?v=b63cc1ce",
+  "audio/it-de/saetze/tc_03.mp3?v=d3e108ea",
+  "audio/it-de/saetze/tc_03_fp.mp3?v=65deb236",
+  "audio/it-de/saetze/tc_03_pc.mp3?v=eb8d3d4b",
+  "audio/it-de/saetze/tc_04.mp3?v=e16dd575",
+  "audio/it-de/saetze/tc_04_fp.mp3?v=590bb3e9",
+  "audio/it-de/saetze/tc_04_pc.mp3?v=7bfd3f60",
+  "audio/it-de/saetze/tc_05.mp3?v=66360348",
+  "audio/it-de/saetze/tc_06.mp3?v=cec5cd10",
+  "audio/it-de/saetze/tc_06_fp.mp3?v=5f8e22e6",
+  "audio/it-de/saetze/tc_06_pc.mp3?v=ffc4b344",
+  "audio/it-de/saetze/tc_07.mp3?v=4be2482d",
+  "audio/it-de/saetze/tc_07_fp.mp3?v=a9884723",
+  "audio/it-de/saetze/tc_07_pc.mp3?v=558c8793",
+  "audio/it-de/saetze/tc_08.mp3?v=3b141471",
+  "audio/it-de/saetze/tc_08_fp.mp3?v=566f355d",
+  "audio/it-de/saetze/tc_08_pc.mp3?v=e9af8683",
+  "audio/it-de/saetze/tc_09.mp3?v=6c87c5e3",
+  "audio/it-de/saetze/tc_10.mp3?v=5e824bc4",
+  "audio/it-de/saetze/tc_11.mp3?v=661b72c0",
+  "audio/it-de/saetze/tc_12.mp3?v=020cfc9b",
+  "audio/it-de/saetze/tc_13.mp3?v=c3183554",
+  "audio/it-de/saetze/tc_13_fp.mp3?v=9f01baa7",
+  "audio/it-de/saetze/tc_13_pc.mp3?v=a7e8d792",
+  "audio/it-de/saetze/tc_14.mp3?v=ff9cfad7",
+  "audio/it-de/saetze/tc_14_fp.mp3?v=4561abfa",
+  "audio/it-de/saetze/tc_14_pc.mp3?v=9646300f",
+  "audio/it-de/saetze/tc_15.mp3?v=4ecbe5d4",
+  "audio/it-de/saetze/tc_15_fp.mp3?v=0f586e73",
+  "audio/it-de/saetze/tc_15_pc.mp3?v=f76cf77b",
+  "audio/it-de/saetze/tc_16.mp3?v=bd222d76",
+  "audio/it-de/saetze/tc_16_fp.mp3?v=621a9c3d",
+  "audio/it-de/saetze/tc_16_pc.mp3?v=94917aa0",
+  "audio/it-de/saetze/tc_17.mp3?v=fc0a1c57",
+  "audio/it-de/saetze/tc_18.mp3?v=79394a05",
+  "audio/it-de/saetze/tc_19.mp3?v=a3637470",
+  "audio/it-de/saetze/tc_20.mp3?v=5624b097",
+  "audio/it-de/saetze/tc_21.mp3?v=6950bc22",
+  "audio/it-de/saetze/tc_21_fp.mp3?v=55ab6ab6",
+  "audio/it-de/saetze/tc_21_pc.mp3?v=34332eec",
+  "audio/it-de/saetze/tc_22.mp3?v=6124fab4",
+  "audio/it-de/saetze/tc_22_fp.mp3?v=a712d5cf",
+  "audio/it-de/saetze/tc_22_pc.mp3?v=d830ebb1",
+  "audio/it-de/saetze/tc_23.mp3?v=c781cee8",
+  "audio/it-de/saetze/tc_23_fp.mp3?v=82768451",
+  "audio/it-de/saetze/tc_23_pc.mp3?v=5e48f287",
+  "audio/it-de/saetze/tc_24.mp3?v=be979cd3",
+  "audio/it-de/spiel/feuer.mp3?v=a8e149d4",
+  "audio/it-de/spiel/fini.mp3?v=42980950",
+  "audio/it-de/spiel/monat.mp3?v=6123f4dc",
+  "audio/it-de/spiel/titel_1.mp3?v=81a414fa",
+  "audio/it-de/spiel/titel_2.mp3?v=65215647",
+  "audio/it-de/spiel/titel_3.mp3?v=b427eb47",
+  "audio/it-de/spiel/titel_4.mp3?v=a0771d97",
+  "audio/it-de/spiel/titel_5.mp3?v=bd7204cb",
+  "audio/it-de/spiel/titel_6.mp3?v=6c0dd4b3",
+  "audio/it-de/spiel/woche.mp3?v=3326ed8b",
+  "audio/it-de/wendungen/ba_01.mp3?v=b35ea69d",
+  "audio/it-de/wendungen/ba_02.mp3?v=cc8de8fe",
+  "audio/it-de/wendungen/ba_03.mp3?v=59866126",
+  "audio/it-de/wendungen/ba_04.mp3?v=d2942df7",
+  "audio/it-de/wendungen/ba_05.mp3?v=cd7c8324",
+  "audio/it-de/wendungen/ba_06.mp3?v=18badfcf",
+  "audio/it-de/wendungen/ba_07.mp3?v=ff8d7422",
+  "audio/it-de/wendungen/ba_08.mp3?v=57a2fbd7",
+  "audio/it-de/wendungen/ba_09.mp3?v=7d0f0b64",
+  "audio/it-de/wendungen/ba_10.mp3?v=89563524",
+  "audio/it-de/wendungen/ba_11.mp3?v=abf84340",
+  "audio/it-de/wendungen/ba_12.mp3?v=13cad908",
+  "audio/it-de/wendungen/ba_13.mp3?v=5bc53618",
+  "audio/it-de/wendungen/ba_14.mp3?v=06a69479",
+  "audio/it-de/wendungen/ba_15.mp3?v=9e4e8a25",
+  "audio/it-de/wendungen/ba_16.mp3?v=3ba3dfcc",
+  "audio/it-de/wendungen/ba_17.mp3?v=8fb1636f",
+  "audio/it-de/wendungen/ba_18.mp3?v=e298051f",
+  "audio/it-de/wendungen/ba_19.mp3?v=87f9c132",
+  "audio/it-de/wendungen/ba_20.mp3?v=864a0516",
+  "audio/it-de/wendungen/ba_21.mp3?v=bc7e59ee",
+  "audio/it-de/wendungen/ba_22.mp3?v=8cee2d93",
+  "audio/it-de/wendungen/ba_23.mp3?v=63387b77",
+  "audio/it-de/wendungen/ba_24.mp3?v=0237ecce",
+  "audio/it-de/wendungen/fa_01.mp3?v=00c86c6b",
+  "audio/it-de/wendungen/fa_02.mp3?v=f5541cbb",
+  "audio/it-de/wendungen/fa_03.mp3?v=5982089b",
+  "audio/it-de/wendungen/fa_04.mp3?v=97cd2e55",
+  "audio/it-de/wendungen/fa_05.mp3?v=b989a05a",
+  "audio/it-de/wendungen/fa_06.mp3?v=113febf4",
+  "audio/it-de/wendungen/fa_07.mp3?v=86e7b8c7",
+  "audio/it-de/wendungen/fa_08.mp3?v=0cfe0b9c",
+  "audio/it-de/wendungen/fa_09.mp3?v=90237665",
+  "audio/it-de/wendungen/fa_10.mp3?v=3d7a7ede",
+  "audio/it-de/wendungen/fa_11.mp3?v=429a3752",
+  "audio/it-de/wendungen/fa_12.mp3?v=19e45eea",
+  "audio/it-de/wendungen/fa_13.mp3?v=2f34c6e5",
+  "audio/it-de/wendungen/fa_14.mp3?v=ea9056ad",
+  "audio/it-de/wendungen/fa_15.mp3?v=f9c30476",
+  "audio/it-de/wendungen/fa_16.mp3?v=74da9e29",
+  "audio/it-de/wendungen/fa_17.mp3?v=8b33f108",
+  "audio/it-de/wendungen/fa_18.mp3?v=50b4827e",
+  "audio/it-de/wendungen/fa_19.mp3?v=88866658",
+  "audio/it-de/wendungen/fa_20.mp3?v=f6deb1c3",
+  "audio/it-de/wendungen/fa_21.mp3?v=0b639b6c",
+  "audio/it-de/wendungen/fa_22.mp3?v=e06b60d5",
+  "audio/it-de/wendungen/fa_23.mp3?v=75c202c3",
+  "audio/it-de/wendungen/fa_24.mp3?v=875a700f",
+  "audio/it-de/wendungen/ga_01.mp3?v=d5fa70ae",
+  "audio/it-de/wendungen/ga_02.mp3?v=9af44a1b",
+  "audio/it-de/wendungen/ga_03.mp3?v=031bacee",
+  "audio/it-de/wendungen/ga_04.mp3?v=8ca0f5f3",
+  "audio/it-de/wendungen/ga_05.mp3?v=3f4683e7",
+  "audio/it-de/wendungen/ga_06.mp3?v=6e0a828a",
+  "audio/it-de/wendungen/ga_07.mp3?v=c3a1ef33",
+  "audio/it-de/wendungen/ga_08.mp3?v=5c0a6ffd",
+  "audio/it-de/wendungen/ga_09.mp3?v=d16e80ae",
+  "audio/it-de/wendungen/ga_10.mp3?v=de89ff7f",
+  "audio/it-de/wendungen/ga_11.mp3?v=1192a651",
+  "audio/it-de/wendungen/ga_12.mp3?v=6c5854c0",
+  "audio/it-de/wendungen/ga_13.mp3?v=c95c6841",
+  "audio/it-de/wendungen/ga_14.mp3?v=d226014d",
+  "audio/it-de/wendungen/ga_15.mp3?v=64195b8a",
+  "audio/it-de/wendungen/ga_16.mp3?v=d1210b44",
+  "audio/it-de/wendungen/ga_17.mp3?v=920cb3ad",
+  "audio/it-de/wendungen/ga_18.mp3?v=5757db3b",
+  "audio/it-de/wendungen/ga_19.mp3?v=3705b0c1",
+  "audio/it-de/wendungen/ga_20.mp3?v=b77db539",
+  "audio/it-de/wendungen/ga_21.mp3?v=3ac62c49",
+  "audio/it-de/wendungen/ga_22.mp3?v=4576819f",
+  "audio/it-de/wendungen/ga_23.mp3?v=70198274",
+  "audio/it-de/wendungen/ga_24.mp3?v=0e33053b",
+  "audio/it-de/wendungen/ma_01.mp3?v=44753345",
+  "audio/it-de/wendungen/ma_02.mp3?v=1d54623d",
+  "audio/it-de/wendungen/ma_03.mp3?v=6d0a21a1",
+  "audio/it-de/wendungen/ma_04.mp3?v=6a0c07df",
+  "audio/it-de/wendungen/ma_05.mp3?v=97c3a6dd",
+  "audio/it-de/wendungen/ma_06.mp3?v=0ef8ec47",
+  "audio/it-de/wendungen/ma_07.mp3?v=f21e77c1",
+  "audio/it-de/wendungen/ma_08.mp3?v=d684c802",
+  "audio/it-de/wendungen/ma_09.mp3?v=6c3602a6",
+  "audio/it-de/wendungen/ma_10.mp3?v=f829d738",
+  "audio/it-de/wendungen/ma_11.mp3?v=d4499edc",
+  "audio/it-de/wendungen/ma_12.mp3?v=60d3262a",
+  "audio/it-de/wendungen/ma_13.mp3?v=0a180ba8",
+  "audio/it-de/wendungen/ma_14.mp3?v=0e36289f",
+  "audio/it-de/wendungen/ma_15.mp3?v=da871fc2",
+  "audio/it-de/wendungen/ma_16.mp3?v=a12dc249",
+  "audio/it-de/wendungen/ma_17.mp3?v=562cb090",
+  "audio/it-de/wendungen/ma_18.mp3?v=2db0ab97",
+  "audio/it-de/wendungen/ma_19.mp3?v=7e11fb04",
+  "audio/it-de/wendungen/ma_20.mp3?v=6c75013a",
+  "audio/it-de/wendungen/ma_21.mp3?v=665cca4d",
+  "audio/it-de/wendungen/ma_22.mp3?v=7eb04be9",
+  "audio/it-de/wendungen/ma_23.mp3?v=c8f903d9",
+  "audio/it-de/wendungen/ma_24.mp3?v=b3406911",
+  "audio/it-de/wendungen/mu_01.mp3?v=146580f5",
+  "audio/it-de/wendungen/mu_02.mp3?v=9fa483f6",
+  "audio/it-de/wendungen/mu_03.mp3?v=5b6052db",
+  "audio/it-de/wendungen/mu_04.mp3?v=442e30c9",
+  "audio/it-de/wendungen/mu_05.mp3?v=26f79f71",
+  "audio/it-de/wendungen/mu_06.mp3?v=f853c612",
+  "audio/it-de/wendungen/mu_07.mp3?v=c9fc133f",
+  "audio/it-de/wendungen/mu_08.mp3?v=658a2bcb",
+  "audio/it-de/wendungen/mu_09.mp3?v=ff24b0c2",
+  "audio/it-de/wendungen/mu_10.mp3?v=f5e73812",
+  "audio/it-de/wendungen/mu_11.mp3?v=27b8c592",
+  "audio/it-de/wendungen/mu_12.mp3?v=39c98b12",
+  "audio/it-de/wendungen/mu_13.mp3?v=b1173846",
+  "audio/it-de/wendungen/mu_14.mp3?v=3470bcec",
+  "audio/it-de/wendungen/mu_15.mp3?v=0ee8525f",
+  "audio/it-de/wendungen/mu_16.mp3?v=122ba458",
+  "audio/it-de/wendungen/mu_17.mp3?v=942a55c9",
+  "audio/it-de/wendungen/mu_18.mp3?v=3f50fbaf",
+  "audio/it-de/wendungen/mu_19.mp3?v=38c3f347",
+  "audio/it-de/wendungen/mu_20.mp3?v=12696474",
+  "audio/it-de/wendungen/mu_21.mp3?v=b3b27f9e",
+  "audio/it-de/wendungen/mu_22.mp3?v=66127a77",
+  "audio/it-de/wendungen/mu_23.mp3?v=13b44cfb",
+  "audio/it-de/wendungen/mu_24.mp3?v=1359b1f4",
+  "audio/it-de/wendungen/se_01.mp3?v=cc09beb3",
+  "audio/it-de/wendungen/se_02.mp3?v=500c39ad",
+  "audio/it-de/wendungen/se_03.mp3?v=8f204d81",
+  "audio/it-de/wendungen/se_04.mp3?v=b86a3256",
+  "audio/it-de/wendungen/se_05.mp3?v=6b867c41",
+  "audio/it-de/wendungen/se_06.mp3?v=40f2ea16",
+  "audio/it-de/wendungen/se_07.mp3?v=3085205b",
+  "audio/it-de/wendungen/se_08.mp3?v=5b77f532",
+  "audio/it-de/wendungen/se_09.mp3?v=26c54eee",
+  "audio/it-de/wendungen/se_10.mp3?v=7bf75038",
+  "audio/it-de/wendungen/se_11.mp3?v=9455e32f",
+  "audio/it-de/wendungen/se_12.mp3?v=d8404899",
+  "audio/it-de/wendungen/se_13.mp3?v=d52e9ff2",
+  "audio/it-de/wendungen/se_14.mp3?v=a5320df2",
+  "audio/it-de/wendungen/se_15.mp3?v=51200e06",
+  "audio/it-de/wendungen/se_16.mp3?v=93032abe",
+  "audio/it-de/wendungen/se_17.mp3?v=1375730f",
+  "audio/it-de/wendungen/se_18.mp3?v=cecd3e23",
+  "audio/it-de/wendungen/se_19.mp3?v=dd8c7923",
+  "audio/it-de/wendungen/se_20.mp3?v=99ee9493",
+  "audio/it-de/wendungen/se_21.mp3?v=1071e944",
+  "audio/it-de/wendungen/se_22.mp3?v=b66e4543",
+  "audio/it-de/wendungen/se_23.mp3?v=d58e6878",
+  "audio/it-de/wendungen/se_24.mp3?v=39b46d7f",
+  "audio/it-de/wendungen/sp_01.mp3?v=2a2b3196",
+  "audio/it-de/wendungen/sp_02.mp3?v=12759d3e",
+  "audio/it-de/wendungen/sp_03.mp3?v=220d002b",
+  "audio/it-de/wendungen/sp_04.mp3?v=214d3b31",
+  "audio/it-de/wendungen/sp_05.mp3?v=890ae3fb",
+  "audio/it-de/wendungen/sp_06.mp3?v=26e52ddb",
+  "audio/it-de/wendungen/sp_07.mp3?v=96410fff",
+  "audio/it-de/wendungen/sp_08.mp3?v=f12772b8",
+  "audio/it-de/wendungen/sp_09.mp3?v=ae10c893",
+  "audio/it-de/wendungen/sp_10.mp3?v=4eadd0b0",
+  "audio/it-de/wendungen/sp_11.mp3?v=b6966f55",
+  "audio/it-de/wendungen/sp_12.mp3?v=4f1a3511",
+  "audio/it-de/wendungen/sp_13.mp3?v=08b31c98",
+  "audio/it-de/wendungen/sp_14.mp3?v=c3cd6e7d",
+  "audio/it-de/wendungen/sp_15.mp3?v=85304a10",
+  "audio/it-de/wendungen/sp_16.mp3?v=1f93f0f5",
+  "audio/it-de/wendungen/sp_17.mp3?v=8287b455",
+  "audio/it-de/wendungen/sp_18.mp3?v=c0c1c480",
+  "audio/it-de/wendungen/sp_19.mp3?v=d3f7fef2",
+  "audio/it-de/wendungen/sp_20.mp3?v=5b0117a9",
+  "audio/it-de/wendungen/sp_21.mp3?v=f4f69663",
+  "audio/it-de/wendungen/sp_22.mp3?v=5fcae502",
+  "audio/it-de/wendungen/sp_23.mp3?v=bb8057b6",
+  "audio/it-de/wendungen/sp_24.mp3?v=6fb1f8ff",
+  "audio/it-de/wendungen/st_01.mp3?v=344d275a",
+  "audio/it-de/wendungen/st_02.mp3?v=991e93ca",
+  "audio/it-de/wendungen/st_03.mp3?v=cd089639",
+  "audio/it-de/wendungen/st_04.mp3?v=09487a71",
+  "audio/it-de/wendungen/st_05.mp3?v=f7f7212b",
+  "audio/it-de/wendungen/st_06.mp3?v=ca5ac586",
+  "audio/it-de/wendungen/st_07.mp3?v=d4a21851",
+  "audio/it-de/wendungen/st_08.mp3?v=2c3df713",
+  "audio/it-de/wendungen/st_09.mp3?v=cd44cbc8",
+  "audio/it-de/wendungen/st_10.mp3?v=aae948d9",
+  "audio/it-de/wendungen/st_11.mp3?v=4bf96144",
+  "audio/it-de/wendungen/st_12.mp3?v=45da5033",
+  "audio/it-de/wendungen/st_13.mp3?v=46cbae9a",
+  "audio/it-de/wendungen/st_14.mp3?v=fa834882",
+  "audio/it-de/wendungen/st_15.mp3?v=f039c73f",
+  "audio/it-de/wendungen/st_16.mp3?v=7bba5a4a",
+  "audio/it-de/wendungen/st_17.mp3?v=07c109ad",
+  "audio/it-de/wendungen/st_18.mp3?v=7723d9e1",
+  "audio/it-de/wendungen/st_19.mp3?v=f634c49e",
+  "audio/it-de/wendungen/st_20.mp3?v=cf78253a",
+  "audio/it-de/wendungen/st_21.mp3?v=895cae39",
+  "audio/it-de/wendungen/st_22.mp3?v=2b210f29",
+  "audio/it-de/wendungen/st_23.mp3?v=1e5f580f",
+  "audio/it-de/wendungen/st_24.mp3?v=2c58759b",
+  "audio/it-de/wendungen/tc_01.mp3?v=3c092bb7",
+  "audio/it-de/wendungen/tc_02.mp3?v=a928458a",
+  "audio/it-de/wendungen/tc_03.mp3?v=cad44ea5",
+  "audio/it-de/wendungen/tc_04.mp3?v=0c143200",
+  "audio/it-de/wendungen/tc_05.mp3?v=3c2139e1",
+  "audio/it-de/wendungen/tc_06.mp3?v=a83556d8",
+  "audio/it-de/wendungen/tc_07.mp3?v=6182d1d2",
+  "audio/it-de/wendungen/tc_08.mp3?v=c0d162e4",
+  "audio/it-de/wendungen/tc_09.mp3?v=f953b1fe",
+  "audio/it-de/wendungen/tc_10.mp3?v=03eedf0c",
+  "audio/it-de/wendungen/tc_11.mp3?v=d0015d5c",
+  "audio/it-de/wendungen/tc_12.mp3?v=07650daf",
+  "audio/it-de/wendungen/tc_13.mp3?v=caabbae8",
+  "audio/it-de/wendungen/tc_14.mp3?v=6a9c330b",
+  "audio/it-de/wendungen/tc_15.mp3?v=40297f05",
+  "audio/it-de/wendungen/tc_16.mp3?v=2df8fadf",
+  "audio/it-de/wendungen/tc_17.mp3?v=516cbc79",
+  "audio/it-de/wendungen/tc_18.mp3?v=9d6dbbdc",
+  "audio/it-de/wendungen/tc_19.mp3?v=4c6b98de",
+  "audio/it-de/wendungen/tc_20.mp3?v=f57dc9b4",
+  "audio/it-de/wendungen/tc_21.mp3?v=ecdce9b7",
+  "audio/it-de/wendungen/tc_22.mp3?v=b145ebd6",
+  "audio/it-de/wendungen/tc_23.mp3?v=45e9b9c4",
+  "audio/it-de/wendungen/tc_24.mp3?v=2857f803"
  ]
 };

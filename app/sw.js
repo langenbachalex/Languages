@@ -1,7 +1,7 @@
 // Automatisch erzeugt von werkzeuge/bauen.py – Offline-Speicher von Language Learning.
 // Kern (Code, Daten, Icons) wird bei jeder Version neu geladen; Audio bleibt im eigenen Speicher (ll-audio-2), gefüllt beim Abspielen oder über „Hors-ligne“.
 // Wird AUDIO_STAND in bauen.py erhöht (nach Neuaufnahmen oder Lautstärke-Angleich), verwirft der Browser alle alten Audios.
-const VERSION = "ll-kern-c9672ab38bb4";
+const VERSION = "ll-kern-44c617d35f39";
 const AUDIO = "ll-audio-2";
 const DATEIEN = ["./", "LIESMICH.md", "app.css", "app.js", "basis.css", "daten_de-fr.js", "daten_es-de.js", "daten_fr-de.js", "daten_it-de.js", "index.html", "manifest.webmanifest", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", (e) => {
@@ -14,7 +14,7 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
   if (e.request.method !== "GET") return;
   const istAudio = e.request.url.includes("/audio/");
-  e.respondWith(caches.match(e.request, { ignoreSearch: true }).then((r) => r || fetch(e.request).then((antwort) => {
+  e.respondWith(caches.match(e.request, { ignoreSearch: !istAudio }).then((r) => r || fetch(e.request).then((antwort) => {
     if (istAudio && antwort.ok) { const kopie = antwort.clone(); caches.open(AUDIO).then((c) => c.put(e.request, kopie)); }
     return antwort;
   })));

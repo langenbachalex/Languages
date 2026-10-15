@@ -551,21 +551,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "korrigieren",
    "notiz": "die Klassenarbeit = la copie, le contrôle (Klasse + Arbeit) ; korrigieren, participe korrigiert (pas de ge- pour les verbes en -ieren). Le verbe se place en deuxième position : Heute Abend korrigiere ich.",
-   "audio": "audio/de-fr/wendungen/ul_01.mp3",
+   "audio": "audio/de-fr/wendungen/ul_01.mp3?v=25f3964b",
    "satz": {
     "fr": "Heute Abend korrigiere ich die Klassenarbeiten der Sechsten.",
     "de": "Ce soir, je corrige les copies de sixième.",
     "luecke": "korrigiere ich die Klassenarbeiten",
-    "audio": "audio/de-fr/saetze/ul_01.mp3"
+    "audio": "audio/de-fr/saetze/ul_01.mp3?v=92991bf3"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern habe ich die Klassenarbeiten der Sechsten korrigiert.",
-     "audio": "audio/de-fr/saetze/ul_01_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_01_pc.mp3?v=6846df80"
     },
     "fp": {
      "fr": "Morgen werde ich die Klassenarbeiten der Sechsten korrigieren.",
-     "audio": "audio/de-fr/saetze/ul_01_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_01_fp.mp3?v=02cd50bc"
     }
    }
   },
@@ -577,21 +577,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "littéralement « fixe et fini » – expression figée, familière ; aussi : kaputt sein, erledigt sein, platt sein. der Unterricht = les cours (toujours singulier).",
-   "audio": "audio/de-fr/wendungen/ul_02.mp3",
+   "audio": "audio/de-fr/wendungen/ul_02.mp3?v=f0232ab8",
    "satz": {
     "fr": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "de": "Après six heures de cours, je suis crevé.",
     "luecke": "fix und fertig",
-    "audio": "audio/de-fr/saetze/ul_02.mp3"
+    "audio": "audio/de-fr/saetze/ul_02.mp3?v=14fa59e5"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern war ich fix und fertig.",
-     "audio": "audio/de-fr/saetze/ul_02_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_02_pc.mp3?v=699bb1f3"
     },
     "fp": {
      "fr": "Morgen werde ich fix und fertig sein. Wie immer.",
-     "audio": "audio/de-fr/saetze/ul_02_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_02_fp.mp3?v=de5d9093"
     }
    }
   },
@@ -603,21 +603,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "laufen",
    "notiz": "littéralement « comment ça a couru ? » – laufen = courir, marcher, et aussi « se passer » ; participe gelaufen avec sein. die Neunte = la troisième (en Allemagne on compte à partir du CP : 9. Klasse).",
-   "audio": "audio/de-fr/wendungen/ul_03.mp3",
+   "audio": "audio/de-fr/wendungen/ul_03.mp3?v=1353551c",
    "satz": {
     "fr": "Und, deine Stunde mit der Neunten, wie ist es gelaufen?",
     "de": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
     "luecke": "wie ist es gelaufen",
-    "audio": "audio/de-fr/saetze/ul_03.mp3"
+    "audio": "audio/de-fr/saetze/ul_03.mp3?v=2aa0d4a8"
    },
    "zeit": {
     "pc": {
      "fr": "Wie ist es gestern gelaufen?",
-     "audio": "audio/de-fr/saetze/ul_03_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_03_pc.mp3?v=0c5917fe"
     },
     "fp": {
      "fr": "Du wirst sehen, wie es laufen wird.",
-     "audio": "audio/de-fr/saetze/ul_03_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_03_fp.mp3?v=d867c37b"
     }
    }
   },
@@ -629,21 +629,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "halten = tenir ; Unterricht halten = faire cours (aussi : unterrichten). Englischunterricht = un seul mot composé, comme souvent en allemand. der Vormittag = la matinée.",
-   "audio": "audio/de-fr/wendungen/ul_04.mp3",
+   "audio": "audio/de-fr/wendungen/ul_04.mp3?v=b7fa9d17",
    "satz": {
     "fr": "Ich halte den ganzen Vormittag Englischunterricht.",
     "de": "Je fais cours en anglais toute la matinée.",
     "luecke": "halte",
-    "audio": "audio/de-fr/saetze/ul_04.mp3"
+    "audio": "audio/de-fr/saetze/ul_04.mp3?v=44c44426"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den ganzen Vormittag Englischunterricht gehalten.",
-     "audio": "audio/de-fr/saetze/ul_04_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_04_pc.mp3?v=d1dba978"
     },
     "fp": {
      "fr": "Ich werde den ganzen Vormittag Englischunterricht halten.",
-     "audio": "audio/de-fr/saetze/ul_04_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_04_fp.mp3?v=2a43e9da"
     }
    }
   },
@@ -655,12 +655,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sehen",
    "notiz": "die große Pause = la récréation (20 minutes), die kleine Pause = l'intercours (5 minutes). das Lehrerzimmer = la salle des profs (Lehrer + Zimmer). Question sans mot interrogatif : le verbe en tête.",
-   "audio": "audio/de-fr/wendungen/ul_05.mp3",
+   "audio": "audio/de-fr/wendungen/ul_05.mp3?v=c46de9cb",
    "satz": {
     "fr": "Sehen wir uns in der großen Pause im Lehrerzimmer?",
     "de": "On se retrouve en salle des profs à la récré ?",
     "luecke": "großen Pause",
-    "audio": "audio/de-fr/saetze/ul_05.mp3"
+    "audio": "audio/de-fr/saetze/ul_05.mp3?v=466d4e3e"
    },
    "zeit": null
   },
@@ -672,21 +672,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "erwarten",
    "notiz": "littéralement « je peux à peine l'attendre » ; erwarten = attendre (quelque chose qui doit venir), warten auf = attendre (patienter). Infinitif avec zu en fin de phrase : Ferien zu haben.",
-   "audio": "audio/de-fr/wendungen/ul_06.mp3",
+   "audio": "audio/de-fr/wendungen/ul_06.mp3?v=3ac4be03",
    "satz": {
     "fr": "Ich kann es kaum erwarten, Ferien zu haben.",
     "de": "J'ai hâte d'être en vacances.",
     "luecke": "kann es kaum erwarten",
-    "audio": "audio/de-fr/saetze/ul_06.mp3"
+    "audio": "audio/de-fr/saetze/ul_06.mp3?v=da385c77"
    },
    "zeit": {
     "pc": {
      "fr": "Ich konnte es kaum erwarten.",
-     "audio": "audio/de-fr/saetze/ul_06_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_06_pc.mp3?v=413408da"
     },
     "fp": {
      "fr": "Ich werde es kaum erwarten können.",
-     "audio": "audio/de-fr/saetze/ul_06_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_06_fp.mp3?v=41d1123d"
     }
    }
   },
@@ -698,21 +698,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "littéralement « avoir le nez plein » – die Nase voll haben von + datif ; familier mais très courant. Aussi : es reicht ! (ça suffit), ich habe es satt.",
-   "audio": "audio/de-fr/wendungen/ul_07.mp3",
+   "audio": "audio/de-fr/wendungen/ul_07.mp3?v=da43c00a",
    "satz": {
     "fr": "Ich habe die Nase voll von Besprechungen, die nie enden.",
     "de": "J'en ai marre des réunions qui n'en finissent pas.",
     "luecke": "habe die Nase voll",
-    "audio": "audio/de-fr/saetze/ul_07.mp3"
+    "audio": "audio/de-fr/saetze/ul_07.mp3?v=ef9971b4"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte die Nase voll.",
-     "audio": "audio/de-fr/saetze/ul_07_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_07_pc.mp3?v=f2a6d820"
     },
     "fp": {
      "fr": "Ich werde die Nase voll haben, das weiß ich jetzt schon.",
-     "audio": "audio/de-fr/saetze/ul_07_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_07_fp.mp3?v=9ddb8b7a"
     }
    }
   },
@@ -724,21 +724,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "die Schwierigkeit = la difficulté ; plus simple et plus courant : es fällt mir schwer. kriegen = familier pour bekommen (obtenir) ; jemanden ruhig kriegen = arriver à calmer quelqu'un.",
-   "audio": "audio/de-fr/wendungen/ul_08.mp3",
+   "audio": "audio/de-fr/wendungen/ul_08.mp3?v=b999d908",
    "satz": {
     "fr": "Ich habe Schwierigkeiten, sie am Freitagnachmittag ruhig zu kriegen.",
     "de": "J'ai du mal à les faire taire le vendredi après-midi.",
     "luecke": "habe Schwierigkeiten",
-    "audio": "audio/de-fr/saetze/ul_08.mp3"
+    "audio": "audio/de-fr/saetze/ul_08.mp3?v=0fe72b65"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte Schwierigkeiten, sie ruhig zu kriegen.",
-     "audio": "audio/de-fr/saetze/ul_08_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_08_pc.mp3?v=6cb8d835"
     },
     "fp": {
      "fr": "Ich werde Schwierigkeiten haben, sie ruhig zu kriegen.",
-     "audio": "audio/de-fr/saetze/ul_08_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_08_fp.mp3?v=e171a953"
     }
    }
   },
@@ -750,12 +750,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sehen",
    "notiz": "littéralement « longtemps pas vu » – phrase elliptique, très courante ; forme complète : Wir haben uns lange nicht gesehen. Aussi : Das ist ja ewig her ! (ça fait une éternité).",
-   "audio": "audio/de-fr/wendungen/ul_09.mp3",
+   "audio": "audio/de-fr/wendungen/ul_09.mp3?v=9ef93337",
    "satz": {
     "fr": "Hallo Aurélien! Lange nicht gesehen!",
     "de": "Salut Aurélien ! Ça fait longtemps !",
     "luecke": "Lange nicht gesehen",
-    "audio": "audio/de-fr/saetze/ul_09.mp3"
+    "audio": "audio/de-fr/saetze/ul_09.mp3?v=137bc1f2"
    },
    "zeit": null
   },
@@ -767,12 +767,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "übernehmen",
    "notiz": "also = donc, du coup (attention : jamais « aussi » !) ; après also, le verbe vient tout de suite : also übernehme ich. übernehmen = reprendre, prendre en charge.",
-   "audio": "audio/de-fr/wendungen/ul_10.mp3",
+   "audio": "audio/de-fr/wendungen/ul_10.mp3?v=0fbb702e",
    "satz": {
     "fr": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "de": "Le prof de sport est malade, du coup je prends sa classe.",
     "luecke": "also",
-    "audio": "audio/de-fr/saetze/ul_10.mp3"
+    "audio": "audio/de-fr/saetze/ul_10.mp3?v=c2437b34"
    },
    "zeit": null
   },
@@ -784,12 +784,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "mögen",
    "notiz": "eigentlich = en fait, à vrai dire (eigen = propre) ; introduit une nuance ou une correction. mögen = aimer bien : ich mag, du magst.",
-   "audio": "audio/de-fr/wendungen/ul_11.mp3",
+   "audio": "audio/de-fr/wendungen/ul_11.mp3?v=35d81fad",
    "satz": {
     "fr": "Eigentlich mag ich meine Schüler aus der Neunten.",
     "de": "En fait, j'aime bien mes élèves de troisième.",
     "luecke": "Eigentlich",
-    "audio": "audio/de-fr/saetze/ul_11.mp3"
+    "audio": "audio/de-fr/saetze/ul_11.mp3?v=8edecd33"
    },
    "zeit": null
   },
@@ -801,12 +801,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lieben",
    "notiz": "trotzdem = quand même, malgré tout (trotz = malgré) ; en tête de phrase, le verbe suit : Trotzdem liebe ich … anstrengend = fatigant ; der Beruf = le métier.",
-   "audio": "audio/de-fr/wendungen/ul_12.mp3",
+   "audio": "audio/de-fr/wendungen/ul_12.mp3?v=296bd1f7",
    "satz": {
     "fr": "Es ist anstrengend, aber ich liebe diesen Beruf trotzdem.",
     "de": "C'est fatigant, mais j'adore ce métier quand même.",
     "luecke": "trotzdem",
-    "audio": "audio/de-fr/saetze/ul_12.mp3"
+    "audio": "audio/de-fr/saetze/ul_12.mp3?v=f62071c8"
    },
    "zeit": null
   },
@@ -818,21 +818,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lohnen",
    "notiz": "sich lohnen = valoir la peine (der Lohn = le salaire) ; es lohnt sich = ça vaut le coup, es lohnt sich nicht = ça ne vaut pas le coup. dauern = durer, prendre du temps.",
-   "audio": "audio/de-fr/wendungen/ul_13.mp3",
+   "audio": "audio/de-fr/wendungen/ul_13.mp3?v=16797d51",
    "satz": {
     "fr": "Eine gute Stunde vorzubereiten dauert, aber es lohnt sich.",
     "de": "Préparer un bon cours, ça prend du temps, mais ça vaut le coup.",
     "luecke": "lohnt sich",
-    "audio": "audio/de-fr/saetze/ul_13.mp3"
+    "audio": "audio/de-fr/saetze/ul_13.mp3?v=f1d81aaf"
    },
    "zeit": {
     "pc": {
      "fr": "Es hat sich gelohnt.",
-     "audio": "audio/de-fr/saetze/ul_13_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_13_pc.mp3?v=4bfd8d50"
     },
     "fp": {
      "fr": "Es wird sich lohnen.",
-     "audio": "audio/de-fr/saetze/ul_13_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_13_fp.mp3?v=255655e2"
     }
    }
   },
@@ -844,21 +844,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "zurechtkommen",
    "notiz": "verbe à particule séparable : ich komme zurecht, participe zurechtgekommen (avec sein). Aussi : klarkommen (familier) ; sich durchschlagen = se débrouiller tant bien que mal.",
-   "audio": "audio/de-fr/wendungen/ul_14.mp3",
+   "audio": "audio/de-fr/wendungen/ul_14.mp3?v=4cfb9d53",
    "satz": {
     "fr": "Die Schüler kommen allein gut zurecht.",
     "de": "Les élèves se débrouillent bien tout seuls.",
     "luecke": "kommen allein gut zurecht",
-    "audio": "audio/de-fr/saetze/ul_14.mp3"
+    "audio": "audio/de-fr/saetze/ul_14.mp3?v=7ca994c7"
    },
    "zeit": {
     "pc": {
      "fr": "Die Schüler sind allein gut zurechtgekommen.",
-     "audio": "audio/de-fr/saetze/ul_14_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_14_pc.mp3?v=9d8eac2b"
     },
     "fp": {
      "fr": "Die Schüler werden allein gut zurechtkommen.",
-     "audio": "audio/de-fr/saetze/ul_14_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_14_fp.mp3?v=f644fa2c"
     }
    }
   },
@@ -870,21 +870,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "littéralement « être pleinement là-dedans » (dabei = avec, présent) ; voll = plein, et familièrement « complètement » : voll gut, voll müde. der Sechstklässler = l'élève de sixième.",
-   "audio": "audio/de-fr/wendungen/ul_15.mp3",
+   "audio": "audio/de-fr/wendungen/ul_15.mp3?v=5c316df7",
    "satz": {
     "fr": "Heute waren die Sechstklässler voll dabei.",
     "de": "Aujourd'hui, les sixièmes étaient à fond.",
     "luecke": "voll dabei",
-    "audio": "audio/de-fr/saetze/ul_15.mp3"
+    "audio": "audio/de-fr/saetze/ul_15.mp3?v=0c1adc10"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern waren sie voll dabei.",
-     "audio": "audio/de-fr/saetze/ul_15_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_15_pc.mp3?v=7ba71c48"
     },
     "fp": {
      "fr": "Morgen werden sie voll dabei sein. Hoffentlich.",
-     "audio": "audio/de-fr/saetze/ul_15_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_15_fp.mp3?v=695ac4dc"
     }
    }
   },
@@ -896,21 +896,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "zurückgeben",
    "notiz": "particule séparable zurück- : ich gebe … zurück, participe zurückgegeben. Attention : abgeben = rendre un devoir (côté élève). am Montag = lundi (an + dem).",
-   "audio": "audio/de-fr/wendungen/ul_16.mp3",
+   "audio": "audio/de-fr/wendungen/ul_16.mp3?v=901ae1f0",
    "satz": {
     "fr": "Ich gebe die Arbeiten am Montag zurück.",
     "de": "Je rends les copies lundi.",
     "luecke": "gebe die Arbeiten am Montag zurück",
-    "audio": "audio/de-fr/saetze/ul_16.mp3"
+    "audio": "audio/de-fr/saetze/ul_16.mp3?v=7c4e2b09"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe die Arbeiten am Montag zurückgegeben.",
-     "audio": "audio/de-fr/saetze/ul_16_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_16_pc.mp3?v=19bba609"
     },
     "fp": {
      "fr": "Ich werde die Arbeiten am Montag zurückgeben.",
-     "audio": "audio/de-fr/saetze/ul_16_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_16_fp.mp3?v=ea396f5c"
     }
    }
   },
@@ -922,12 +922,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "die Besprechung = la réunion de travail (besprechen = discuter de) ; die Konferenz = la conférence pédagogique officielle ; die Sitzung = la séance. kommst du ? = question par inversion.",
-   "audio": "audio/de-fr/wendungen/ul_17.mp3",
+   "audio": "audio/de-fr/wendungen/ul_17.mp3?v=baa79527",
    "satz": {
     "fr": "Wir haben um sechzehn Uhr eine Besprechung, kommst du?",
     "de": "On a une réunion à seize heures, tu viens ?",
     "luecke": "Besprechung",
-    "audio": "audio/de-fr/saetze/ul_17.mp3"
+    "audio": "audio/de-fr/saetze/ul_17.mp3?v=cf84c4a8"
    },
    "zeit": null
   },
@@ -939,12 +939,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "mot à mot comme en français ; aussi : kein Problem, nicht schlimm, schon gut. vergessen = oublier, participe vergessen (identique à l'infinitif).",
-   "audio": "audio/de-fr/wendungen/ul_18.mp3",
+   "audio": "audio/de-fr/wendungen/ul_18.mp3?v=ff129692",
    "satz": {
     "fr": "Du hast mein Buch vergessen? Das macht nichts.",
     "de": "Tu as oublié mon livre ? Ça ne fait rien.",
     "luecke": "Das macht nichts",
-    "audio": "audio/de-fr/saetze/ul_18.mp3"
+    "audio": "audio/de-fr/saetze/ul_18.mp3?v=67429990"
    },
    "zeit": null
   },
@@ -956,12 +956,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lassen",
    "notiz": "littéralement « laisse-toi du temps » (lassen = laisser) ; impératif lass + datif dir. Le contraire : beeil dich ! (dépêche-toi). den ganzen Abend = accusatif de durée.",
-   "audio": "audio/de-fr/wendungen/ul_19.mp3",
+   "audio": "audio/de-fr/wendungen/ul_19.mp3?v=690c7ba9",
    "satz": {
     "fr": "Lass dir Zeit, wir haben den ganzen Abend.",
     "de": "Prends ton temps, on a toute la soirée.",
     "luecke": "Lass dir Zeit",
-    "audio": "audio/de-fr/saetze/ul_19.mp3"
+    "audio": "audio/de-fr/saetze/ul_19.mp3?v=0ef7dac3"
    },
    "zeit": null
   },
@@ -973,12 +973,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "korrigieren",
    "notiz": "Lehrer + Zimmer ; im = in dem (datif, lieu où l'on est). jemand = quelqu'un ; niemand = personne. Le verbe toujours en deuxième position : Im Lehrerzimmer korrigiert …",
-   "audio": "audio/de-fr/wendungen/ul_20.mp3",
+   "audio": "audio/de-fr/wendungen/ul_20.mp3?v=fecba615",
    "satz": {
     "fr": "Im Lehrerzimmer korrigiert immer jemand. Und jemand schläft.",
     "de": "En salle des profs, il y a toujours quelqu'un qui corrige. Et quelqu'un qui dort.",
     "luecke": "Lehrerzimmer",
-    "audio": "audio/de-fr/saetze/ul_20.mp3"
+    "audio": "audio/de-fr/saetze/ul_20.mp3?v=3e891a1d"
    },
    "zeit": null
   },
@@ -990,21 +990,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "greifen",
    "notiz": "littéralement « saisir quelqu'un sous les bras » (pour le soutenir) ; plus simple : jemandem helfen. beim Kopieren = en faisant les photocopies (beim + infinitif substantivé). der Kopierer = la photocopieuse.",
-   "audio": "audio/de-fr/wendungen/ul_21.mp3",
+   "audio": "audio/de-fr/wendungen/ul_21.mp3?v=3703bd5d",
    "satz": {
     "fr": "Kannst du mir beim Kopieren unter die Arme greifen? Der Kopierer hasst mich.",
     "de": "Tu peux me donner un coup de main pour les photocopies ? La photocopieuse me déteste.",
     "luecke": "unter die Arme greifen",
-    "audio": "audio/de-fr/saetze/ul_21.mp3"
+    "audio": "audio/de-fr/saetze/ul_21.mp3?v=826eca4e"
    },
    "zeit": {
     "pc": {
      "fr": "Du hast mir unter die Arme gegriffen. Danke.",
-     "audio": "audio/de-fr/saetze/ul_21_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_21_pc.mp3?v=d363f40d"
     },
     "fp": {
      "fr": "Du wirst mir unter die Arme greifen, oder?",
-     "audio": "audio/de-fr/saetze/ul_21_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_21_fp.mp3?v=d93bf43f"
     }
    }
   },
@@ -1016,21 +1016,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "prüfen",
    "notiz": "die Anwesenheit = la présence (anwesend = présent, abwesend = absent) ; prüfen = vérifier, et aussi examiner (die Prüfung = l'examen). Hier ! = Présent ! Müller et Schmidt = les noms de famille les plus fréquents.",
-   "audio": "audio/de-fr/wendungen/ul_22.mp3",
+   "audio": "audio/de-fr/wendungen/ul_22.mp3?v=90cfe740",
    "satz": {
     "fr": "Ich prüfe die Anwesenheit. « Müller? » – « Hier! » – « Schmidt? » – Stille. Schmidt schläft.",
     "de": "Je fais l'appel. « Müller ? » – « Présent ! » – « Schmidt ? » – Silence. Schmidt dort.",
     "luecke": "prüfe die Anwesenheit",
-    "audio": "audio/de-fr/saetze/ul_22.mp3"
+    "audio": "audio/de-fr/saetze/ul_22.mp3?v=0ecac4df"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe die Anwesenheit geprüft.",
-     "audio": "audio/de-fr/saetze/ul_22_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_22_pc.mp3?v=b8506da5"
     },
     "fp": {
      "fr": "Ich werde die Anwesenheit prüfen. Dann sehen wir weiter.",
-     "audio": "audio/de-fr/saetze/ul_22_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_22_fp.mp3?v=e75f90eb"
     }
    }
   },
@@ -1042,21 +1042,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "durcheinanderkommen",
    "notiz": "durcheinander = pêle-mêle, en désordre (durch + einander = à travers l'un l'autre) ; durcheinanderkommen = s'embrouiller (participe durcheinandergekommen, avec sein) ; das Durcheinander = le bazar.",
-   "audio": "audio/de-fr/wendungen/ul_23.mp3",
+   "audio": "audio/de-fr/wendungen/ul_23.mp3?v=23f1608e",
    "satz": {
     "fr": "Mit zwei Klassen zusammen komme ich bei den Namen immer durcheinander.",
     "de": "Avec deux classes ensemble, je m'emmêle toujours dans les noms.",
     "luecke": "komme ich bei den Namen immer durcheinander",
-    "audio": "audio/de-fr/saetze/ul_23.mp3"
+    "audio": "audio/de-fr/saetze/ul_23.mp3?v=e079ca21"
    },
    "zeit": {
     "pc": {
      "fr": "Ich bin bei den Namen durcheinandergekommen.",
-     "audio": "audio/de-fr/saetze/ul_23_pc.mp3"
+     "audio": "audio/de-fr/saetze/ul_23_pc.mp3?v=9e8a32bd"
     },
     "fp": {
      "fr": "Ich werde bei den Namen durcheinanderkommen. Garantiert.",
-     "audio": "audio/de-fr/saetze/ul_23_fp.mp3"
+     "audio": "audio/de-fr/saetze/ul_23_fp.mp3?v=aee4d8ca"
     }
    }
   },
@@ -1068,12 +1068,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "können",
    "notiz": "könnten = Konjunktiv II de können, la demande polie (« pourriez-vous ») ; Sie = vous de politesse, toujours avec majuscule, verbe à la 3e personne du pluriel. zeigen = montrer, indiquer. Entschuldigung = excusez-moi.",
-   "audio": "audio/de-fr/wendungen/ul_24.mp3",
+   "audio": "audio/de-fr/wendungen/ul_24.mp3?v=23b061a1",
    "satz": {
     "fr": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "de": "Excusez-moi, pourriez-vous m'indiquer la salle des profs ?",
     "luecke": "könnten Sie mir das Lehrerzimmer zeigen",
-    "audio": "audio/de-fr/saetze/ul_24.mp3"
+    "audio": "audio/de-fr/saetze/ul_24.mp3?v=6f231599"
    },
    "zeit": null
   },
@@ -1085,21 +1085,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "nahegehen",
    "notiz": "littéralement « ça me va près » – nahegehen = toucher, émouvoir (particule séparable, participe nahegegangen avec sein) ; mir = datif. Aussi : das berührt mich.",
-   "audio": "audio/de-fr/wendungen/ge_01.mp3",
+   "audio": "audio/de-fr/wendungen/ge_01.mp3?v=b475690c",
    "satz": {
     "fr": "Dieses Lied geht mir jedes Mal nahe.",
     "de": "Cette chanson me touche à chaque fois.",
     "luecke": "geht mir jedes Mal nahe",
-    "audio": "audio/de-fr/saetze/ge_01.mp3"
+    "audio": "audio/de-fr/saetze/ge_01.mp3?v=907b713c"
    },
    "zeit": {
     "pc": {
      "fr": "Dieses Lied ist mir nahegegangen.",
-     "audio": "audio/de-fr/saetze/ge_01_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_01_pc.mp3?v=52561367"
     },
     "fp": {
      "fr": "Dieses Lied wird mir nahegehen, das weiß ich.",
-     "audio": "audio/de-fr/saetze/ge_01_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_01_fp.mp3?v=2a959de6"
     }
    }
   },
@@ -1111,21 +1111,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Hänger = « celui qui pend » (hängen) – un coup de mou, un passage à vide ; familier. Aussi : niedergeschlagen sein, ein Tief haben. sonntagabends = le dimanche soir (habitude, minuscule, -s).",
-   "audio": "audio/de-fr/wendungen/ge_02.mp3",
+   "audio": "audio/de-fr/wendungen/ge_02.mp3?v=09cd567d",
    "satz": {
     "fr": "Sonntagabends habe ich oft einen Hänger.",
     "de": "Le dimanche soir, j'ai souvent le cafard.",
     "luecke": "habe ich oft einen Hänger",
-    "audio": "audio/de-fr/saetze/ge_02.mp3"
+    "audio": "audio/de-fr/saetze/ge_02.mp3?v=c84d440c"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern hatte ich einen Hänger.",
-     "audio": "audio/de-fr/saetze/ge_02_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_02_pc.mp3?v=a1d32726"
     },
     "fp": {
      "fr": "Sonntag werde ich einen Hänger haben, wie immer.",
-     "audio": "audio/de-fr/saetze/ge_02_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_02_fp.mp3?v=dcb71a66"
     }
    }
   },
@@ -1137,12 +1137,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "mögen",
    "notiz": "düster = sombre (ambiance, histoire) ; dunkel = sombre (lumière). Adjectif décliné devant le nom : düstere Geschichten (pluriel sans article). das Geheimnis = le secret.",
-   "audio": "audio/de-fr/wendungen/ge_03.mp3",
+   "audio": "audio/de-fr/wendungen/ge_03.mp3?v=1660633a",
    "satz": {
     "fr": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "de": "J'aime les histoires sombres, avec une forêt et un secret.",
     "luecke": "düstere",
-    "audio": "audio/de-fr/saetze/ge_03.mp3"
+    "audio": "audio/de-fr/saetze/ge_03.mp3?v=a583bbb8"
    },
    "zeit": null
   },
@@ -1154,12 +1154,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "comme en français ; die Melancholie. Attention au ch prononcé [k] ici : melan-KO-lisch. das Klavierstück = Klavier + Stück (le morceau de piano).",
-   "audio": "audio/de-fr/wendungen/ge_04.mp3",
+   "audio": "audio/de-fr/wendungen/ge_04.mp3?v=882007df",
    "satz": {
     "fr": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "de": "Ce morceau de piano est mélancolique, mais tellement beau.",
     "luecke": "melancholisch",
-    "audio": "audio/de-fr/saetze/ge_04.mp3"
+    "audio": "audio/de-fr/saetze/ge_04.mp3?v=4734c153"
    },
    "zeit": null
   },
@@ -1171,21 +1171,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "brechen",
    "notiz": "brechen = casser, briser (bricht, participe gebrochen) ; mir = datif (« à moi ») ; das Herz = le cœur. Infinitive avec zu en fin de groupe : weinen zu sehen.",
-   "audio": "audio/de-fr/wendungen/ge_05.mp3",
+   "audio": "audio/de-fr/wendungen/ge_05.mp3?v=397dceeb",
    "satz": {
     "fr": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "de": "Voir un enfant pleurer tout seul, ça me fend le cœur.",
     "luecke": "bricht mir das Herz",
-    "audio": "audio/de-fr/saetze/ge_05.mp3"
+    "audio": "audio/de-fr/saetze/ge_05.mp3?v=4edad271"
    },
    "zeit": {
     "pc": {
      "fr": "Das hat mir das Herz gebrochen.",
-     "audio": "audio/de-fr/saetze/ge_05_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_05_pc.mp3?v=5648175e"
     },
     "fp": {
      "fr": "Das wird mir das Herz brechen.",
-     "audio": "audio/de-fr/saetze/ge_05_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_05_fp.mp3?v=d3a437a1"
     }
    }
   },
@@ -1197,12 +1197,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "gerührt = participe de rühren (remuer, émouvoir) ; zu Tränen gerührt = ému aux larmes. Pas « aufgeregt » (= excité, nerveux). die Träne = la larme.",
-   "audio": "audio/de-fr/wendungen/ge_06.mp3",
+   "audio": "audio/de-fr/wendungen/ge_06.mp3?v=ab46044c",
    "satz": {
     "fr": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "de": "À la fin du concert, j'étais ému aux larmes.",
     "luecke": "gerührt",
-    "audio": "audio/de-fr/saetze/ge_06.mp3"
+    "audio": "audio/de-fr/saetze/ge_06.mp3?v=58823fd3"
    },
    "zeit": null
   },
@@ -1214,12 +1214,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "unheimlich = inquiétant, sinistre (un- + heimlich, « pas comme à la maison ») ; familièrement aussi « énormément » : unheimlich gut. still = silencieux, calme.",
-   "audio": "audio/de-fr/wendungen/ge_07.mp3",
+   "audio": "audio/de-fr/wendungen/ge_07.mp3?v=5d10ef7d",
    "satz": {
     "fr": "Das Haus war still. Es war unheimlich.",
     "de": "La maison était silencieuse, c'était inquiétant.",
     "luecke": "unheimlich",
-    "audio": "audio/de-fr/saetze/ge_07.mp3"
+    "audio": "audio/de-fr/saetze/ge_07.mp3?v=c3dad4dd"
    },
    "zeit": null
   },
@@ -1231,12 +1231,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "de beruhigen = calmer, apaiser (ruhig = calme) ; beruhig dich ! = calme-toi. das Schnurren = le ronronnement (infinitif substantivé, neutre). meiner Katze = génitif.",
-   "audio": "audio/de-fr/wendungen/ge_08.mp3",
+   "audio": "audio/de-fr/wendungen/ge_08.mp3?v=ebecf4b0",
    "satz": {
     "fr": "Das Schnurren meiner Katze ist beruhigend.",
     "de": "Le ronronnement de mon chat est apaisant.",
     "luecke": "beruhigend",
-    "audio": "audio/de-fr/saetze/ge_08.mp3"
+    "audio": "audio/de-fr/saetze/ge_08.mp3?v=9b5b9f9a"
    },
    "zeit": null
   },
@@ -1248,21 +1248,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "comme en français ; in den Augen = datif pluriel (das Auge, die Augen). Subordonnée avec wenn : verbe à la fin (höre), puis inversion dans la principale (habe ich).",
-   "audio": "audio/de-fr/wendungen/ge_09.mp3",
+   "audio": "audio/de-fr/wendungen/ge_09.mp3?v=f95855be",
    "satz": {
     "fr": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "de": "Quand j'écoute cette voix, j'ai les larmes aux yeux.",
     "luecke": "habe ich Tränen in den Augen",
-    "audio": "audio/de-fr/saetze/ge_09.mp3"
+    "audio": "audio/de-fr/saetze/ge_09.mp3?v=0e341741"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte Tränen in den Augen.",
-     "audio": "audio/de-fr/saetze/ge_09_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_09_pc.mp3?v=2b106ef0"
     },
     "fp": {
      "fr": "Ich werde Tränen in den Augen haben.",
-     "audio": "audio/de-fr/saetze/ge_09_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_09_fp.mp3?v=86f9627e"
     }
    }
   },
@@ -1274,21 +1274,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "bekommen",
    "notiz": "die Gänsehaut = « la peau d'oie » = la chair de poule ; bekommen = recevoir, avoir (jamais « devenir » – faux ami avec l'anglais become !). beim = bei dem (au moment de).",
-   "audio": "audio/de-fr/wendungen/ge_10.mp3",
+   "audio": "audio/de-fr/wendungen/ge_10.mp3?v=95aae9b4",
    "satz": {
     "fr": "Beim Refrain bekomme ich Gänsehaut.",
     "de": "Le refrain me donne des frissons.",
     "luecke": "bekomme ich Gänsehaut",
-    "audio": "audio/de-fr/saetze/ge_10.mp3"
+    "audio": "audio/de-fr/saetze/ge_10.mp3?v=61d1105f"
    },
    "zeit": {
     "pc": {
      "fr": "Beim Refrain habe ich Gänsehaut bekommen.",
-     "audio": "audio/de-fr/saetze/ge_10_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_10_pc.mp3?v=45118eba"
     },
     "fp": {
      "fr": "Beim Refrain werde ich Gänsehaut bekommen.",
-     "audio": "audio/de-fr/saetze/ge_10_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_10_fp.mp3?v=86d913db"
     }
    }
   },
@@ -1300,21 +1300,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "Angst haben vor + datif (vor der Dunkelheit) ; kein = négation d'un nom (keine Angst) ; nicht … sondern = non pas … mais (après une négation). die Stille = le silence.",
-   "audio": "audio/de-fr/wendungen/ge_11.mp3",
+   "audio": "audio/de-fr/wendungen/ge_11.mp3?v=88e534bf",
    "satz": {
     "fr": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "de": "Je n'ai pas peur du noir, mais du silence.",
     "luecke": "habe keine Angst vor",
-    "audio": "audio/de-fr/saetze/ge_11.mp3"
+    "audio": "audio/de-fr/saetze/ge_11.mp3?v=a57e5ed3"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte keine Angst vor der Dunkelheit.",
-     "audio": "audio/de-fr/saetze/ge_11_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_11_pc.mp3?v=aeed421d"
     },
     "fp": {
      "fr": "Ich werde keine Angst vor der Dunkelheit haben.",
-     "audio": "audio/de-fr/saetze/ge_11_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_11_fp.mp3?v=8b493b0a"
     }
    }
   },
@@ -1326,21 +1326,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "gelaunt = luné (die Laune = l'humeur) ; gut / schlecht gelaunt. die Sonne scheint = le soleil brille (scheinen = briller, et aussi sembler). Deux points : majuscule après.",
-   "audio": "audio/de-fr/wendungen/ge_12.mp3",
+   "audio": "audio/de-fr/wendungen/ge_12.mp3?v=f0218578",
    "satz": {
     "fr": "Heute Morgen bin ich gut gelaunt: Die Sonne scheint.",
     "de": "Ce matin, je suis de bonne humeur, le soleil est là.",
     "luecke": "gut gelaunt",
-    "audio": "audio/de-fr/saetze/ge_12.mp3"
+    "audio": "audio/de-fr/saetze/ge_12.mp3?v=8f9f2a99"
    },
    "zeit": {
     "pc": {
      "fr": "Heute Morgen war ich gut gelaunt.",
-     "audio": "audio/de-fr/saetze/ge_12_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_12_pc.mp3?v=ded6439c"
     },
     "fp": {
      "fr": "Morgen werde ich gut gelaunt sein.",
-     "audio": "audio/de-fr/saetze/ge_12_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_12_fp.mp3?v=c603b0f7"
     }
    }
   },
@@ -1352,12 +1352,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "ansprechen = adresser la parole (particule séparable : sprich … an) ; impératif négatif : sprich … nicht an. Aussi : schlechte Laune haben, mies drauf sein (familier).",
-   "audio": "audio/de-fr/wendungen/ge_13.mp3",
+   "audio": "audio/de-fr/wendungen/ge_13.mp3?v=a73b3736",
    "satz": {
     "fr": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "de": "Ne lui parle pas, il est de mauvaise humeur.",
     "luecke": "schlecht gelaunt",
-    "audio": "audio/de-fr/saetze/ge_13.mp3"
+    "audio": "audio/de-fr/saetze/ge_13.mp3?v=20241198"
    },
    "zeit": null
   },
@@ -1369,21 +1369,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "vermissen",
    "notiz": "plus simple qu'en français : la personne qui ressent le manque est le sujet – ich vermisse dich = tu me manques. Aussi : du fehlst mir (comme en français). unterwegs = en déplacement.",
-   "audio": "audio/de-fr/wendungen/ge_14.mp3",
+   "audio": "audio/de-fr/wendungen/ge_14.mp3?v=8f97fe22",
    "satz": {
     "fr": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
     "de": "Mes chats me manquent quand je suis en voyage.",
     "luecke": "vermisse",
-    "audio": "audio/de-fr/saetze/ge_14.mp3"
+    "audio": "audio/de-fr/saetze/ge_14.mp3?v=b5f9141f"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe meine Katzen vermisst.",
-     "audio": "audio/de-fr/saetze/ge_14_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_14_pc.mp3?v=ea5544b8"
     },
     "fp": {
      "fr": "Ich werde meine Katzen vermissen.",
-     "audio": "audio/de-fr/saetze/ge_14_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_14_fp.mp3?v=604c32b1"
     }
    }
   },
@@ -1395,21 +1395,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "littéralement « c'est lourd autour du cœur à moi » (ums = um das) ; tournure impersonnelle avec datif : mir ist schwer ums Herz. Un peu littéraire, très expressif.",
-   "audio": "audio/de-fr/wendungen/ge_15.mp3",
+   "audio": "audio/de-fr/wendungen/ge_15.mp3?v=e317506b",
    "satz": {
     "fr": "Nach diesem Tag ist mir schwer ums Herz.",
     "de": "Après cette journée, j'en ai gros sur le cœur.",
     "luecke": "ist mir schwer ums Herz",
-    "audio": "audio/de-fr/saetze/ge_15.mp3"
+    "audio": "audio/de-fr/saetze/ge_15.mp3?v=ee86f342"
    },
    "zeit": {
     "pc": {
      "fr": "Mir war schwer ums Herz.",
-     "audio": "audio/de-fr/saetze/ge_15_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_15_pc.mp3?v=7b14c0f4"
     },
     "fp": {
      "fr": "Mir wird schwer ums Herz sein.",
-     "audio": "audio/de-fr/saetze/ge_15_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_15_fp.mp3?v=25918328"
     }
    }
   },
@@ -1421,12 +1421,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "de ergreifen = saisir, empoigner (greifen = saisir) ; ergreifend = bouleversant, poignant ; ergriffen = bouleversé. des Films = génitif (der Film).",
-   "audio": "audio/de-fr/wendungen/ge_16.mp3",
+   "audio": "audio/de-fr/wendungen/ge_16.mp3?v=a0e4152e",
    "satz": {
     "fr": "Das Ende des Films ist ergreifend.",
     "de": "La fin du film est bouleversante.",
     "luecke": "ergreifend",
-    "audio": "audio/de-fr/saetze/ge_16.mp3"
+    "audio": "audio/de-fr/saetze/ge_16.mp3?v=0f090b7e"
    },
    "zeit": null
   },
@@ -1438,21 +1438,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "fühlen",
    "notiz": "sich fühlen + adverbe : ich fühle mich wohl, unwohl, müde. wohl = bien (état) ; gut geht aussi : ich fühle mich gut. nach + datif : nach dem Kung-Fu.",
-   "audio": "audio/de-fr/wendungen/ge_17.mp3",
+   "audio": "audio/de-fr/wendungen/ge_17.mp3?v=82c67a76",
    "satz": {
     "fr": "Nach dem Kung-Fu fühle ich mich wohl, leicht.",
     "de": "Après le kung-fu, je me sens bien, léger.",
     "luecke": "fühle ich mich wohl",
-    "audio": "audio/de-fr/saetze/ge_17.mp3"
+    "audio": "audio/de-fr/saetze/ge_17.mp3?v=ebf239d2"
    },
    "zeit": {
     "pc": {
      "fr": "Nach dem Kung-Fu habe ich mich wohl gefühlt.",
-     "audio": "audio/de-fr/saetze/ge_17_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_17_pc.mp3?v=45b67c42"
     },
     "fp": {
      "fr": "Nach dem Kung-Fu werde ich mich wohl fühlen.",
-     "audio": "audio/de-fr/saetze/ge_17_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_17_fp.mp3?v=c840a55f"
     }
    }
   },
@@ -1464,21 +1464,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Kloß = la boulette, la quenelle (plat !) – « avoir une boulette dans la gorge » = avoir la gorge serrée. im Hals = in dem Hals. sie ist gegangen = parfait avec sein (gehen).",
-   "audio": "audio/de-fr/wendungen/ge_18.mp3",
+   "audio": "audio/de-fr/wendungen/ge_18.mp3?v=5de3422a",
    "satz": {
     "fr": "Sie ist gegangen, und ich habe einen Kloß im Hals.",
     "de": "Elle est partie, et j'ai le cœur lourd.",
     "luecke": "habe einen Kloß im Hals",
-    "audio": "audio/de-fr/saetze/ge_18.mp3"
+    "audio": "audio/de-fr/saetze/ge_18.mp3?v=7cffebd9"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte einen Kloß im Hals.",
-     "audio": "audio/de-fr/saetze/ge_18_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_18_pc.mp3?v=c00f5d7b"
     },
     "fp": {
      "fr": "Ich werde einen Kloß im Hals haben.",
-     "audio": "audio/de-fr/saetze/ge_18_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_18_fp.mp3?v=ac3b0984"
     }
    }
   },
@@ -1490,21 +1490,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "machen + adjectif = rendre : das macht mich traurig, froh, nervös (mich = accusatif). Pas de « rendre » en allemand ici ! ein bisschen = un peu.",
-   "audio": "audio/de-fr/wendungen/ge_19.mp3",
+   "audio": "audio/de-fr/wendungen/ge_19.mp3?v=37691012",
    "satz": {
     "fr": "Der Regen über Saarbrücken macht mich ein bisschen traurig.",
     "de": "La pluie sur Sarrebruck me rend un peu triste.",
     "luecke": "macht mich",
-    "audio": "audio/de-fr/saetze/ge_19.mp3"
+    "audio": "audio/de-fr/saetze/ge_19.mp3?v=3525dfef"
    },
    "zeit": {
     "pc": {
      "fr": "Der Regen hat mich ein bisschen traurig gemacht.",
-     "audio": "audio/de-fr/saetze/ge_19_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_19_pc.mp3?v=07b86ae7"
     },
     "fp": {
      "fr": "Der Regen wird mich ein bisschen traurig machen.",
-     "audio": "audio/de-fr/saetze/ge_19_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_19_fp.mp3?v=b1fface3"
     }
    }
   },
@@ -1516,12 +1516,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lieben",
    "notiz": "hell (clair) + dunkel (sombre) ; les Allemands disent aussi das Chiaroscuro. das Gemälde = le tableau, la peinture (pluriel die Gemälde). von + datif = de (possession).",
-   "audio": "audio/de-fr/wendungen/ge_20.mp3",
+   "audio": "audio/de-fr/wendungen/ge_20.mp3?v=1dde4873",
    "satz": {
     "fr": "Ich liebe das Hell-Dunkel in den Gemälden von Rembrandt.",
     "de": "J'adore le clair-obscur dans les tableaux de Rembrandt.",
     "luecke": "Hell-Dunkel",
-    "audio": "audio/de-fr/saetze/ge_20.mp3"
+    "audio": "audio/de-fr/saetze/ge_20.mp3?v=993842e4"
    },
    "zeit": null
   },
@@ -1533,12 +1533,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "friedlich = paisible (der Frieden = la paix) ; aussi ruhig = calme. abends = le soir (habitude, adverbe en -s). Inversion après l'adverbe : Abends ist der Garten …",
-   "audio": "audio/de-fr/wendungen/ge_21.mp3",
+   "audio": "audio/de-fr/wendungen/ge_21.mp3?v=ef1b56b2",
    "satz": {
     "fr": "Abends ist der Garten friedlich.",
     "de": "Le soir, le jardin est paisible.",
     "luecke": "friedlich",
-    "audio": "audio/de-fr/saetze/ge_21.mp3"
+    "audio": "audio/de-fr/saetze/ge_21.mp3?v=ccfef126"
    },
    "zeit": null
   },
@@ -1550,12 +1550,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "de beklemmen = oppresser (klemmen = coincer) ; beklemmend = oppressant, angoissant ; die Beklemmung = l'angoisse. der Gang = le couloir ; leer = vide.",
-   "audio": "audio/de-fr/wendungen/ge_22.mp3",
+   "audio": "audio/de-fr/wendungen/ge_22.mp3?v=77c248c9",
    "satz": {
     "fr": "Der leere Gang im Museum war beklemmend.",
     "de": "Le couloir vide du musée était angoissant.",
     "luecke": "beklemmend",
-    "audio": "audio/de-fr/saetze/ge_22.mp3"
+    "audio": "audio/de-fr/saetze/ge_22.mp3?v=b9c678cc"
    },
    "zeit": null
   },
@@ -1567,21 +1567,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Kummer = le chagrin, les soucis (sans article : Kummer haben) ; Liebeskummer = chagrin d'amour. seit + subordonnée : verbe à la fin (gestorben ist = parfait de sterben avec sein).",
-   "audio": "audio/de-fr/wendungen/ge_23.mp3",
+   "audio": "audio/de-fr/wendungen/ge_23.mp3?v=6a40bbc9",
    "satz": {
     "fr": "Er hat Kummer, seit seine Katze gestorben ist.",
     "de": "Il a du chagrin depuis la mort de son chat.",
     "luecke": "hat Kummer",
-    "audio": "audio/de-fr/saetze/ge_23.mp3"
+    "audio": "audio/de-fr/saetze/ge_23.mp3?v=f2ae831b"
    },
    "zeit": {
     "pc": {
      "fr": "Er hatte großen Kummer.",
-     "audio": "audio/de-fr/saetze/ge_23_pc.mp3"
+     "audio": "audio/de-fr/saetze/ge_23_pc.mp3?v=d3d67c7b"
     },
     "fp": {
      "fr": "Er wird Kummer haben.",
-     "audio": "audio/de-fr/saetze/ge_23_fp.mp3"
+     "audio": "audio/de-fr/saetze/ge_23_fp.mp3?v=bcecf6e4"
     }
    }
   },
@@ -1593,12 +1593,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "tun",
    "notiz": "littéralement « ça me fait de la peine » (leid = pénible ; tun = faire) – l'excuse standard, pour tout le monde. Sie = vous de politesse (accusatif Sie). stören = déranger ; wollte = prétérit de wollen.",
-   "audio": "audio/de-fr/wendungen/ge_24.mp3",
+   "audio": "audio/de-fr/wendungen/ge_24.mp3?v=9d9fc233",
    "satz": {
     "fr": "Es tut mir leid, ich wollte Sie nicht stören.",
     "de": "Je suis désolé, madame, je ne voulais pas vous déranger.",
     "luecke": "Es tut mir leid",
-    "audio": "audio/de-fr/saetze/ge_24.mp3"
+    "audio": "audio/de-fr/saetze/ge_24.mp3?v=e180d24f"
    },
    "zeit": null
   },
@@ -1610,21 +1610,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schnurren",
    "notiz": "schnurren = ronronner (onomatopée, comme « schnurr ») ; sobald = dès que (subordonnée, verbe à la fin : hinsetze). sich hinsetzen = s'asseoir (particule hin-).",
-   "audio": "audio/de-fr/wendungen/ka_01.mp3",
+   "audio": "audio/de-fr/wendungen/ka_01.mp3?v=566423f5",
    "satz": {
     "fr": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "de": "Mon chat ronronne dès que je m'assieds.",
     "luecke": "schnurrt",
-    "audio": "audio/de-fr/saetze/ka_01.mp3"
+    "audio": "audio/de-fr/saetze/ka_01.mp3?v=19e608e9"
    },
    "zeit": {
     "pc": {
      "fr": "Sie hat den ganzen Abend geschnurrt.",
-     "audio": "audio/de-fr/saetze/ka_01_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_01_pc.mp3?v=96c27d1d"
     },
     "fp": {
      "fr": "Sie wird schnurren, sobald ich mich hinsetze.",
-     "audio": "audio/de-fr/saetze/ka_01_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_01_fp.mp3?v=aece2a39"
     }
    }
   },
@@ -1636,21 +1636,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schmusen",
    "notiz": "schmusen = faire des câlins (mit jemandem schmusen) ; zum Schmusen = infinitif substantivé (zu dem Schmusen) ; die Schmusekatze = le chat câlin. aufs = auf das.",
-   "audio": "audio/de-fr/wendungen/ka_02.mp3",
+   "audio": "audio/de-fr/wendungen/ka_02.mp3?v=a391e912",
    "satz": {
     "fr": "Abends kommt sie zum Schmusen aufs Sofa.",
     "de": "Le soir, elle vient me faire un câlin sur le canapé.",
     "luecke": "zum Schmusen",
-    "audio": "audio/de-fr/saetze/ka_02.mp3"
+    "audio": "audio/de-fr/saetze/ka_02.mp3?v=25798f97"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern Abend hat sie mit mir geschmust.",
-     "audio": "audio/de-fr/saetze/ka_02_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_02_pc.mp3?v=2419a56f"
     },
     "fp": {
      "fr": "Heute Abend wird sie zum Schmusen kommen.",
-     "audio": "audio/de-fr/saetze/ka_02_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_02_fp.mp3?v=26f88c87"
     }
    }
   },
@@ -1662,21 +1662,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kratzen",
    "notiz": "kratzen = griffer, gratter (les deux !) ; die Kralle = la griffe, der Kratzer = la griffure. man = on. Vorsicht ! = attention !",
-   "audio": "audio/de-fr/wendungen/ka_03.mp3",
+   "audio": "audio/de-fr/wendungen/ka_03.mp3?v=e9966636",
    "satz": {
     "fr": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "de": "Attention, il griffe quand on le caresse trop longtemps.",
     "luecke": "kratzt",
-    "audio": "audio/de-fr/saetze/ka_03.mp3"
+    "audio": "audio/de-fr/saetze/ka_03.mp3?v=d23778a8"
    },
    "zeit": {
     "pc": {
      "fr": "Er hat mich gekratzt.",
-     "audio": "audio/de-fr/saetze/ka_03_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_03_pc.mp3?v=6e19145d"
     },
     "fp": {
      "fr": "Er wird dich kratzen, du wirst sehen.",
-     "audio": "audio/de-fr/saetze/ka_03_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_03_fp.mp3?v=456f5b89"
     }
    }
   },
@@ -1688,21 +1688,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "putzen",
    "notiz": "sich putzen = faire sa toilette (chat) ; putzen = nettoyer (la maison), sich die Zähne putzen = se brosser les dents. fressen = manger (pour les animaux ; essen pour les humains !). zehn Minuten lang = pendant dix minutes.",
-   "audio": "audio/de-fr/wendungen/ka_04.mp3",
+   "audio": "audio/de-fr/wendungen/ka_04.mp3?v=98f9e462",
    "satz": {
     "fr": "Nach dem Fressen putzt er sich zehn Minuten lang.",
     "de": "Après le repas, il fait sa toilette pendant dix minutes.",
     "luecke": "putzt er sich",
-    "audio": "audio/de-fr/saetze/ka_04.mp3"
+    "audio": "audio/de-fr/saetze/ka_04.mp3?v=5717a908"
    },
    "zeit": {
     "pc": {
      "fr": "Nach dem Fressen hat er sich geputzt.",
-     "audio": "audio/de-fr/saetze/ka_04_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_04_pc.mp3?v=1ded8963"
     },
     "fp": {
      "fr": "Nach dem Fressen wird er sich putzen.",
-     "audio": "audio/de-fr/saetze/ka_04_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_04_fp.mp3?v=1539b9f2"
     }
    }
   },
@@ -1714,21 +1714,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "miauen",
    "notiz": "miau = miaou ; miauen (participe miaut, sans ge- : le verbe est accentué sur -au). vor der Küchentür = devant la porte de la cuisine (vor + datif, lieu). um sechs Uhr morgens = à six heures du matin.",
-   "audio": "audio/de-fr/wendungen/ka_05.mp3",
+   "audio": "audio/de-fr/wendungen/ka_05.mp3?v=1e286ff1",
    "satz": {
     "fr": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "de": "Elle miaule devant la porte de la cuisine à six heures du matin.",
     "luecke": "miaut",
-    "audio": "audio/de-fr/saetze/ka_05.mp3"
+    "audio": "audio/de-fr/saetze/ka_05.mp3?v=5965ea94"
    },
    "zeit": {
     "pc": {
      "fr": "Sie hat die ganze Nacht miaut.",
-     "audio": "audio/de-fr/saetze/ka_05_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_05_pc.mp3?v=cadc05b2"
     },
     "fp": {
      "fr": "Sie wird um sechs miauen, wie immer.",
-     "audio": "audio/de-fr/saetze/ka_05_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_05_fp.mp3?v=5f901be2"
     }
    }
   },
@@ -1740,21 +1740,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "Hunger haben, Durst haben = avoir faim, soif (comme en français, avec « avoir »). wenn es nach ihm geht = si ça ne tenait qu'à lui (expression très courante).",
-   "audio": "audio/de-fr/wendungen/ka_06.mp3",
+   "audio": "audio/de-fr/wendungen/ka_06.mp3?v=9944bef5",
    "satz": {
     "fr": "Wenn es nach ihm geht, hat er immer Hunger.",
     "de": "D'après lui, il a toujours faim.",
     "luecke": "hat er immer Hunger",
-    "audio": "audio/de-fr/saetze/ka_06.mp3"
+    "audio": "audio/de-fr/saetze/ka_06.mp3?v=027e8a11"
    },
    "zeit": {
     "pc": {
      "fr": "Er hatte Hunger, sagt er.",
-     "audio": "audio/de-fr/saetze/ka_06_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_06_pc.mp3?v=0978deed"
     },
     "fp": {
      "fr": "Er wird in fünf Minuten Hunger haben.",
-     "audio": "audio/de-fr/saetze/ka_06_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_06_fp.mp3?v=b6f32614"
     }
    }
   },
@@ -1766,21 +1766,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "streicheln",
    "notiz": "streicheln = caresser (streichen = passer la main, peindre) ; ich streichle (le e tombe). hinter den Ohren = datif pluriel (das Ohr, die Ohren). Attention : die Katze = la chatte et le chat en général, der Kater = le matou.",
-   "audio": "audio/de-fr/wendungen/ka_07.mp3",
+   "audio": "audio/de-fr/wendungen/ka_07.mp3?v=7ebf91ec",
    "satz": {
     "fr": "Ich streichle meine Katze hinter den Ohren, das liebt sie.",
     "de": "Je caresse ma chatte derrière les oreilles, elle adore ça.",
     "luecke": "streichle",
-    "audio": "audio/de-fr/saetze/ka_07.mp3"
+    "audio": "audio/de-fr/saetze/ka_07.mp3?v=1743d2ac"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe sie hinter den Ohren gestreichelt.",
-     "audio": "audio/de-fr/saetze/ka_07_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_07_pc.mp3?v=e5960713"
     },
     "fp": {
      "fr": "Ich werde sie hinter den Ohren streicheln.",
-     "audio": "audio/de-fr/saetze/ka_07_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_07_fp.mp3?v=2d639178"
     }
    }
   },
@@ -1792,21 +1792,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "wetzen",
    "notiz": "wetzen = aiguiser ; die Kralle = la griffe ; der Kratzbaum = l'arbre à chat (« arbre à gratter ») ; der Sessel = le fauteuil. am = an dem.",
-   "audio": "audio/de-fr/wendungen/ka_08.mp3",
+   "audio": "audio/de-fr/wendungen/ka_08.mp3?v=10e522c3",
    "satz": {
     "fr": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "de": "Il fait ses griffes sur le fauteuil, jamais sur le griffoir.",
     "luecke": "wetzt seine Krallen",
-    "audio": "audio/de-fr/saetze/ka_08.mp3"
+    "audio": "audio/de-fr/saetze/ka_08.mp3?v=cce313ba"
    },
    "zeit": {
     "pc": {
      "fr": "Er hat seine Krallen am Sessel gewetzt.",
-     "audio": "audio/de-fr/saetze/ka_08_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_08_pc.mp3?v=2d305623"
     },
     "fp": {
      "fr": "Er wird seine Krallen am Sessel wetzen.",
-     "audio": "audio/de-fr/saetze/ka_08_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_08_fp.mp3?v=2d1df167"
     }
    }
   },
@@ -1818,12 +1818,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Raubkatze = « chat de proie » = le félin, le fauve (der Raub = le rapt, le butin) ; relative avec die … hat (verbe à la fin). beschließen = décider, participe beschlossen.",
-   "audio": "audio/de-fr/wendungen/ka_09.mp3",
+   "audio": "audio/de-fr/wendungen/ka_09.mp3?v=70574eea",
    "satz": {
     "fr": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "de": "Un chat, c'est un petit félin qui a décidé de vivre avec nous.",
     "luecke": "Raubkatze",
-    "audio": "audio/de-fr/saetze/ka_09.mp3"
+    "audio": "audio/de-fr/saetze/ka_09.mp3?v=92a5bc63"
    },
    "zeit": null
   },
@@ -1835,21 +1835,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "das Nickerchen = le petit somme (nicken = hocher la tête, piquer du nez ; -chen = diminutif, toujours neutre) ; aussi : ein Schläfchen halten. was für ein … = quel … !",
-   "audio": "audio/de-fr/wendungen/ka_10.mp3",
+   "audio": "audio/de-fr/wendungen/ka_10.mp3?v=40cd1af6",
    "satz": {
     "fr": "Meine Katze macht sechzehn Stunden am Tag ein Nickerchen. Was für ein Leben.",
     "de": "Mon chat fait la sieste seize heures par jour. Quelle vie.",
     "luecke": "macht sechzehn Stunden am Tag ein Nickerchen",
-    "audio": "audio/de-fr/saetze/ka_10.mp3"
+    "audio": "audio/de-fr/saetze/ka_10.mp3?v=e1c5ef1f"
    },
    "zeit": {
     "pc": {
      "fr": "Sie hat ein Nickerchen gemacht. Sechzehn Stunden.",
-     "audio": "audio/de-fr/saetze/ka_10_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_10_pc.mp3?v=e3670800"
     },
     "fp": {
      "fr": "Sie wird ein Nickerchen machen. Ein langes.",
-     "audio": "audio/de-fr/saetze/ka_10_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_10_fp.mp3?v=521f63a2"
     }
    }
   },
@@ -1861,21 +1861,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "reiben",
    "notiz": "sich reiben an + datif (an meinen Beinen) ; reiben, participe gerieben. nach Hause kommen = rentrer à la maison (nach Hause = direction ; zu Hause = à la maison, où l'on est).",
-   "audio": "audio/de-fr/wendungen/ka_11.mp3",
+   "audio": "audio/de-fr/wendungen/ka_11.mp3?v=c3f0977a",
    "satz": {
     "fr": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "de": "Elle se frotte contre mes jambes quand je rentre.",
     "luecke": "reibt sich an",
-    "audio": "audio/de-fr/saetze/ka_11.mp3"
+    "audio": "audio/de-fr/saetze/ka_11.mp3?v=01336c49"
    },
    "zeit": {
     "pc": {
      "fr": "Sie hat sich an meinen Beinen gerieben.",
-     "audio": "audio/de-fr/saetze/ka_11_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_11_pc.mp3?v=d9faf57e"
     },
     "fp": {
      "fr": "Sie wird sich an meinen Beinen reiben.",
-     "audio": "audio/de-fr/saetze/ka_11_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_11_fp.mp3?v=0d62bb61"
     }
    }
   },
@@ -1887,12 +1887,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "mögen",
    "notiz": "trocken + Futter (nourriture pour animaux) ; les croquettes se disent aussi die Kroketten (frites !). lieber mögen als = préférer à ; des Nachbarn = génitif (der Nachbar, déclinaison faible).",
-   "audio": "audio/de-fr/wendungen/ka_12.mp3",
+   "audio": "audio/de-fr/wendungen/ka_12.mp3?v=d1673fc4",
    "satz": {
     "fr": "Er mag das Trockenfutter des Nachbarn lieber als seines.",
     "de": "Il préfère les croquettes du voisin aux siennes.",
     "luecke": "Trockenfutter",
-    "audio": "audio/de-fr/saetze/ka_12.mp3"
+    "audio": "audio/de-fr/saetze/ka_12.mp3?v=c98b8662"
    },
    "zeit": null
   },
@@ -1904,12 +1904,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "geben",
    "notiz": "nass (humide) + Futter ; es gibt = il y a (+ accusatif). mittags = à midi (adverbe en -s). das weiß er = il le sait (wissen, inversion après das).",
-   "audio": "audio/de-fr/wendungen/ka_13.mp3",
+   "audio": "audio/de-fr/wendungen/ka_13.mp3?v=a04ac2a9",
    "satz": {
     "fr": "Mittags gibt es Nassfutter, und das weiß er.",
     "de": "À midi, c'est la pâtée, et il le sait.",
     "luecke": "Nassfutter",
-    "audio": "audio/de-fr/saetze/ka_13.mp3"
+    "audio": "audio/de-fr/saetze/ka_13.mp3?v=f926514b"
    },
    "zeit": null
   },
@@ -1921,12 +1921,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Blick = le regard (blicken = regarder) ; relative : der sagt (verbe à la fin de la relative). spät dran sein = être en retard (familier) ; aussi : zu spät sein, sich verspäten.",
-   "audio": "audio/de-fr/wendungen/ka_14.mp3",
+   "audio": "audio/de-fr/wendungen/ka_14.mp3?v=d33324b4",
    "satz": {
     "fr": "Sie hat einen Blick, der sagt: « Du bist spät dran. »",
     "de": "Elle a un regard qui dit : « Tu es en retard. »",
     "luecke": "einen Blick",
-    "audio": "audio/de-fr/saetze/ka_14.mp3"
+    "audio": "audio/de-fr/saetze/ka_14.mp3?v=b54685fd"
    },
    "zeit": null
   },
@@ -1938,21 +1938,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "springen",
    "notiz": "springen = sauter (participe gesprungen, avec sein) ; auf + accusatif (direction) : auf den Schreibtisch. der Schreibtisch = le bureau (meuble ; das Büro = la pièce). während = pendant que (verbe à la fin).",
-   "audio": "audio/de-fr/wendungen/ka_15.mp3",
+   "audio": "audio/de-fr/wendungen/ka_15.mp3?v=6dbceb10",
    "satz": {
     "fr": "Er springt auf den Schreibtisch, während ich Klassenarbeiten korrigiere.",
     "de": "Il saute sur le bureau pendant que je corrige des copies.",
     "luecke": "springt auf den Schreibtisch",
-    "audio": "audio/de-fr/saetze/ka_15.mp3"
+    "audio": "audio/de-fr/saetze/ka_15.mp3?v=80287d2d"
    },
    "zeit": {
     "pc": {
      "fr": "Er ist auf den Schreibtisch gesprungen.",
-     "audio": "audio/de-fr/saetze/ka_15_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_15_pc.mp3?v=41401ac9"
     },
     "fp": {
      "fr": "Er wird auf den Schreibtisch springen.",
-     "audio": "audio/de-fr/saetze/ka_15_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_15_fp.mp3?v=2a514b53"
     }
    }
   },
@@ -1964,21 +1964,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verstecken",
    "notiz": "sich verstecken = se cacher ; das Versteck = la cachette ; Verstecken spielen = jouer à cache-cache. der Staubsauger = l'aspirateur (Staub = poussière, saugen = aspirer). unter dem Bett = datif (lieu).",
-   "audio": "audio/de-fr/wendungen/ka_16.mp3",
+   "audio": "audio/de-fr/wendungen/ka_16.mp3?v=11ad52c6",
    "satz": {
     "fr": "Wenn der Staubsauger kommt, versteckt sie sich unter dem Bett.",
     "de": "Quand l'aspirateur sort, elle se cache sous le lit.",
     "luecke": "versteckt sie sich",
-    "audio": "audio/de-fr/saetze/ka_16.mp3"
+    "audio": "audio/de-fr/saetze/ka_16.mp3?v=0c959970"
    },
    "zeit": {
     "pc": {
      "fr": "Sie hat sich unter dem Bett versteckt.",
-     "audio": "audio/de-fr/saetze/ka_16_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_16_pc.mp3?v=b2cba109"
     },
     "fp": {
      "fr": "Sie wird sich unter dem Bett verstecken.",
-     "audio": "audio/de-fr/saetze/ka_16_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_16_fp.mp3?v=6a898f89"
     }
    }
   },
@@ -1990,21 +1990,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "leisten",
    "notiz": "jemandem Gesellschaft leisten = tenir compagnie à quelqu'un (leisten = fournir, accomplir ; die Gesellschaft = la société, la compagnie) ; mir = datif. vorbereiten = préparer (particule séparable : bereite … vor).",
-   "audio": "audio/de-fr/wendungen/ka_17.mp3",
+   "audio": "audio/de-fr/wendungen/ka_17.mp3?v=75206c50",
    "satz": {
     "fr": "Meine Katzen leisten mir Gesellschaft, wenn ich den Unterricht vorbereite.",
     "de": "Mes chats me tiennent compagnie quand je prépare mes cours.",
     "luecke": "leisten mir Gesellschaft",
-    "audio": "audio/de-fr/saetze/ka_17.mp3"
+    "audio": "audio/de-fr/saetze/ka_17.mp3?v=756c8e9c"
    },
    "zeit": {
     "pc": {
      "fr": "Sie haben mir Gesellschaft geleistet.",
-     "audio": "audio/de-fr/saetze/ka_17_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_17_pc.mp3?v=8668b568"
     },
     "fp": {
      "fr": "Sie werden mir Gesellschaft leisten.",
-     "audio": "audio/de-fr/saetze/ka_17_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_17_fp.mp3?v=91c24df0"
     }
    }
   },
@@ -2016,12 +2016,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Hauskatze = le chat domestique (sans pedigree : die Europäisch Kurzhaar) ; die Rassekatze = le chat de race ; die Streunerkatze = le chat errant. keine = négation du nom.",
-   "audio": "audio/de-fr/wendungen/ka_18.mp3",
+   "audio": "audio/de-fr/wendungen/ka_18.mp3?v=389be28c",
    "satz": {
     "fr": "Das ist keine Rassekatze, das ist eine ganz normale Hauskatze, und sie ist perfekt.",
     "de": "Ce n'est pas un chat de race, c'est un chat de gouttière, et il est parfait.",
     "luecke": "Hauskatze",
-    "audio": "audio/de-fr/saetze/ka_18.mp3"
+    "audio": "audio/de-fr/saetze/ka_18.mp3?v=75f30384"
    },
    "zeit": null
   },
@@ -2033,21 +2033,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "der Unsinn = le non-sens, les bêtises (Un- + Sinn) ; aussi : Blödsinn machen, Quatsch machen (familier). da sein = être là. Inversion après la subordonnée : machen sie.",
-   "audio": "audio/de-fr/wendungen/ka_19.mp3",
+   "audio": "audio/de-fr/wendungen/ka_19.mp3?v=0e5aff44",
    "satz": {
     "fr": "Wenn ich nicht da bin, machen sie Unsinn.",
     "de": "Quand je ne suis pas là, ils font des bêtises.",
     "luecke": "machen sie Unsinn",
-    "audio": "audio/de-fr/saetze/ka_19.mp3"
+    "audio": "audio/de-fr/saetze/ka_19.mp3?v=af8f7843"
    },
    "zeit": {
     "pc": {
      "fr": "Sie haben Unsinn gemacht.",
-     "audio": "audio/de-fr/saetze/ka_19_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_19_pc.mp3?v=1b8deee9"
     },
     "fp": {
      "fr": "Sie werden Unsinn machen, garantiert.",
-     "audio": "audio/de-fr/saetze/ka_19_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_19_fp.mp3?v=c0f394d8"
     }
    }
   },
@@ -2059,12 +2059,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "werden",
    "notiz": "Tier + Arzt = « médecin des animaux » ; die Tierärztin au féminin. beim = bei dem (chez, au datif). werden = devenir (ici, pas le futur !).",
-   "audio": "audio/de-fr/wendungen/ka_20.mp3",
+   "audio": "audio/de-fr/wendungen/ka_20.mp3?v=04e5dd8c",
    "satz": {
     "fr": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "de": "Chez le vétérinaire, mon chat devient très, très calme.",
     "luecke": "Tierarzt",
-    "audio": "audio/de-fr/saetze/ka_20.mp3"
+    "audio": "audio/de-fr/saetze/ka_20.mp3?v=1d253965"
    },
    "zeit": null
   },
@@ -2076,12 +2076,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "stören",
    "notiz": "stören = déranger ; ihn = accusatif (le) ; nicht en fin de phrase. schief singen = chanter faux (schief = de travers). glaube ich = je crois (inversion, en incise).",
-   "audio": "audio/de-fr/wendungen/ka_21.mp3",
+   "audio": "audio/de-fr/wendungen/ka_21.mp3?v=ccd3ab76",
    "satz": {
     "fr": "Ich singe schief, aber das stört ihn nicht. Glaube ich.",
     "de": "Je chante faux, mais ça ne le dérange pas. Enfin, je crois.",
     "luecke": "stört ihn nicht",
-    "audio": "audio/de-fr/saetze/ka_21.mp3"
+    "audio": "audio/de-fr/saetze/ka_21.mp3?v=5191cec4"
    },
    "zeit": null
   },
@@ -2093,12 +2093,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "unabhängig = indépendant (un- + abhängig, « dépendant » ; abhängen von = dépendre de) ; die Unabhängigkeit. zurückkommen = revenir (particule séparable).",
-   "audio": "audio/de-fr/wendungen/ka_22.mp3",
+   "audio": "audio/de-fr/wendungen/ka_22.mp3?v=2df083df",
    "satz": {
     "fr": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "de": "Un chat est indépendant. Il revient quand il a faim.",
     "luecke": "unabhängig",
-    "audio": "audio/de-fr/saetze/ka_22.mp3"
+    "audio": "audio/de-fr/saetze/ka_22.mp3?v=330ccd57"
    },
    "zeit": null
   },
@@ -2110,21 +2110,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schnurren",
    "notiz": "vor + datif = de (cause d'une émotion) : vor Freude weinen, vor Angst zittern ; das Wohlbehagen = le bien-être. mit geschlossenen Augen = les yeux fermés (datif pluriel).",
-   "audio": "audio/de-fr/wendungen/ka_23.mp3",
+   "audio": "audio/de-fr/wendungen/ka_23.mp3?v=d9cad940",
    "satz": {
     "fr": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "de": "Au soleil, elle ronronne de plaisir, les yeux fermés.",
     "luecke": "schnurrt sie vor Wohlbehagen",
-    "audio": "audio/de-fr/saetze/ka_23.mp3"
+    "audio": "audio/de-fr/saetze/ka_23.mp3?v=a62c612b"
    },
    "zeit": {
     "pc": {
      "fr": "Sie hat vor Wohlbehagen geschnurrt.",
-     "audio": "audio/de-fr/saetze/ka_23_pc.mp3"
+     "audio": "audio/de-fr/saetze/ka_23_pc.mp3?v=3a3559b7"
     },
     "fp": {
      "fr": "Sie wird vor Wohlbehagen schnurren.",
-     "audio": "audio/de-fr/saetze/ka_23_fp.mp3"
+     "audio": "audio/de-fr/saetze/ka_23_fp.mp3?v=5279f49b"
     }
    }
   },
@@ -2136,12 +2136,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "haben",
    "notiz": "question par inversion : haben Sie … ? ; Sie / Ihrem avec majuscule (vouvoiement). Entschuldigen Sie = excusez-moi (forme polie). da sitzt eine = il y en a un(e) assis(e) là ; das Dach = le toit.",
-   "audio": "audio/de-fr/wendungen/ka_24.mp3",
+   "audio": "audio/de-fr/wendungen/ka_24.mp3?v=b7b0ab09",
    "satz": {
     "fr": "Entschuldigen Sie, haben Sie eine Katze? Da sitzt eine auf Ihrem Dach.",
     "de": "Excusez-moi, madame, est-ce que vous avez un chat ? Il y en a un sur votre toit.",
     "luecke": "haben Sie eine Katze",
-    "audio": "audio/de-fr/saetze/ka_24.mp3"
+    "audio": "audio/de-fr/saetze/ka_24.mp3?v=5412c93a"
    },
    "zeit": null
   },
@@ -2153,21 +2153,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "singen",
    "notiz": "sauber = propre, et « juste » en musique (aussi : richtig singen, den Ton treffen) ; singen, participe gesungen. mit dem Herzen = avec le cœur (datif).",
-   "audio": "audio/de-fr/wendungen/mu_01.mp3",
+   "audio": "audio/de-fr/wendungen/mu_01.mp3?v=c9ec6a7d",
    "satz": {
     "fr": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
     "de": "Mon frère chante juste, moi je chante avec le cœur.",
     "luecke": "singt sauber",
-    "audio": "audio/de-fr/saetze/mu_01.mp3"
+    "audio": "audio/de-fr/saetze/mu_01.mp3?v=a6b5ec57"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern hat er sauber gesungen.",
-     "audio": "audio/de-fr/saetze/mu_01_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_01_pc.mp3?v=b7e87303"
     },
     "fp": {
      "fr": "Morgen wird er sauber singen. Er.",
-     "audio": "audio/de-fr/saetze/mu_01_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_01_fp.mp3?v=db92cbc0"
     }
    }
   },
@@ -2179,21 +2179,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "singen",
    "notiz": "schief = de travers, et « faux » en musique (chanter faux = falsch singen ou schief singen) ; laut = fort (volume) ; ausgleichen = compenser (particule séparable : gleicht … aus).",
-   "audio": "audio/de-fr/wendungen/mu_02.mp3",
+   "audio": "audio/de-fr/wendungen/mu_02.mp3?v=6eb98246",
    "satz": {
     "fr": "Ich singe schief, aber laut. Das gleicht es aus.",
     "de": "Je chante faux, mais fort. Ça compense.",
     "luecke": "singe schief",
-    "audio": "audio/de-fr/saetze/mu_02.mp3"
+    "audio": "audio/de-fr/saetze/mu_02.mp3?v=dfb5dd5a"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den ganzen Abend schief gesungen.",
-     "audio": "audio/de-fr/saetze/mu_02_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_02_pc.mp3?v=0a87a6c7"
     },
     "fp": {
      "fr": "Ich werde schief singen, aber mit Gefühl.",
-     "audio": "audio/de-fr/saetze/mu_02_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_02_fp.mp3?v=0b037ca2"
     }
    }
   },
@@ -2205,12 +2205,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kennen",
    "notiz": "der Refrain (prononcé à la française, accent sur -frain) ; die Strophe = le couplet. kennen = connaître, wissen = savoir. schon = ici « si », pour contredire une négation.",
-   "audio": "audio/de-fr/wendungen/mu_03.mp3",
+   "audio": "audio/de-fr/wendungen/mu_03.mp3?v=29f3afd9",
    "satz": {
     "fr": "Ich kenne den Text nicht, aber den Refrain schon.",
     "de": "Je ne connais pas les paroles, mais le refrain, oui.",
     "luecke": "Refrain",
-    "audio": "audio/de-fr/saetze/mu_03.mp3"
+    "audio": "audio/de-fr/saetze/mu_03.mp3?v=e7c05872"
    },
    "zeit": null
   },
@@ -2222,12 +2222,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verursachen",
    "notiz": "der Liedtext = Lied + Text (les paroles, singulier !) ; das Lied, génitif dieses Liedes. verursachen = provoquer. die Gänsehaut = la chair de poule.",
-   "audio": "audio/de-fr/wendungen/mu_04.mp3",
+   "audio": "audio/de-fr/wendungen/mu_04.mp3?v=f43113e5",
    "satz": {
     "fr": "Der Text dieses Liedes verursacht bei mir Gänsehaut.",
     "de": "Les paroles de cette chanson me donnent des frissons.",
     "luecke": "Text",
-    "audio": "audio/de-fr/saetze/mu_04.mp3"
+    "audio": "audio/de-fr/saetze/mu_04.mp3?v=ea5ab45a"
    },
    "zeit": null
   },
@@ -2239,12 +2239,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "klingen",
    "notiz": "klingen = sonner, résonner (die Klingel = la sonnette) ; das klingt gut / schlecht / komisch. auf Deutsch = en allemand (auf + langue). weniger = moins.",
-   "audio": "audio/de-fr/wendungen/mu_05.mp3",
+   "audio": "audio/de-fr/wendungen/mu_05.mp3?v=41ecb1c5",
    "satz": {
     "fr": "Auf Deutsch klingt dieser Satz gut. Auf Französisch weniger.",
     "de": "En allemand, cette phrase sonne bien. En français, moins.",
     "luecke": "klingt dieser Satz gut",
-    "audio": "audio/de-fr/saetze/mu_05.mp3"
+    "audio": "audio/de-fr/saetze/mu_05.mp3?v=60041b76"
    },
    "zeit": null
   },
@@ -2256,12 +2256,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Gehör = l'ouïe, l'oreille musicale (hören = entendre) ; das Ohr = l'oreille (organe). sofort = tout de suite.",
-   "audio": "audio/de-fr/wendungen/mu_06.mp3",
+   "audio": "audio/de-fr/wendungen/mu_06.mp3?v=17eb3980",
    "satz": {
     "fr": "Aurélien hat ein gutes Gehör: Er hört meinen deutschen Akzent sofort.",
     "de": "Aurélien a l'oreille : il entend mon accent allemand tout de suite.",
     "luecke": "hat ein gutes Gehör",
-    "audio": "audio/de-fr/saetze/mu_06.mp3"
+    "audio": "audio/de-fr/saetze/mu_06.mp3?v=10683b39"
    },
    "zeit": null
   },
@@ -2273,12 +2273,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Akzent = l'accent (prononciation) ; die Mischung aus = le mélange de (aus + datif) ; der gute Wille = la bonne volonté (datif : gutem Willen, déclinaison faible !).",
-   "audio": "audio/de-fr/wendungen/mu_07.mp3",
+   "audio": "audio/de-fr/wendungen/mu_07.mp3?v=91807d4b",
    "satz": {
     "fr": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "de": "Mon accent, c'est un mélange de Sarre et de bonne volonté.",
     "luecke": "Akzent",
-    "audio": "audio/de-fr/saetze/mu_07.mp3"
+    "audio": "audio/de-fr/saetze/mu_07.mp3?v=5b0c71e0"
    },
    "zeit": null
   },
@@ -2290,12 +2290,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lieben",
    "notiz": "was ich … liebe, ist … = ce que j'aime, c'est (mise en relief) ; am Deutschen = an dem Deutschen (adjectif substantivé, datif). der Sprache = génitif (die Sprache).",
-   "audio": "audio/de-fr/wendungen/mu_08.mp3",
+   "audio": "audio/de-fr/wendungen/mu_08.mp3?v=e9fd7a96",
    "satz": {
     "fr": "Was ich am Deutschen liebe, ist die Musik der Sprache.",
     "de": "Ce que j'aime en allemand, c'est la musique de la langue.",
     "luecke": "die Musik der Sprache",
-    "audio": "audio/de-fr/saetze/mu_08.mp3"
+    "audio": "audio/de-fr/saetze/mu_08.mp3?v=213c9b6f"
    },
    "zeit": null
   },
@@ -2307,21 +2307,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "spielen",
    "notiz": "spielen + instrument sans préposition ni article : Gitarre spielen, Klavier spielen (comme pour les sports : Fußball spielen). schlecht = mal (adverbe).",
-   "audio": "audio/de-fr/wendungen/mu_09.mp3",
+   "audio": "audio/de-fr/wendungen/mu_09.mp3?v=06b70e2e",
    "satz": {
     "fr": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "de": "Tu joues d'un instrument ? – Oui, de la guitare, mal.",
     "luecke": "Spielst du ein Instrument",
-    "audio": "audio/de-fr/saetze/mu_09.mp3"
+    "audio": "audio/de-fr/saetze/mu_09.mp3?v=4375f034"
    },
    "zeit": {
     "pc": {
      "fr": "Hast du als Kind ein Instrument gespielt?",
-     "audio": "audio/de-fr/saetze/mu_09_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_09_pc.mp3?v=6be878c1"
     },
     "fp": {
      "fr": "Wirst du ein Instrument spielen? Hoffentlich nicht.",
-     "audio": "audio/de-fr/saetze/mu_09_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_09_fp.mp3?v=6d1275bf"
     }
    }
   },
@@ -2333,21 +2333,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "hören",
    "notiz": "die Dauerschleife = la boucle permanente (Dauer = durée, Schleife = boucle, nœud) ; familier : auf Repeat. seit drei Tagen = depuis trois jours (seit + datif, verbe au présent !).",
-   "audio": "audio/de-fr/wendungen/mu_10.mp3",
+   "audio": "audio/de-fr/wendungen/mu_10.mp3?v=ff92856d",
    "satz": {
     "fr": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "de": "J'écoute cette chanson en boucle depuis trois jours.",
     "luecke": "in Dauerschleife",
-    "audio": "audio/de-fr/saetze/mu_10.mp3"
+    "audio": "audio/de-fr/saetze/mu_10.mp3?v=9ec87d0a"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe dieses Lied in Dauerschleife gehört.",
-     "audio": "audio/de-fr/saetze/mu_10_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_10_pc.mp3?v=d0df8b01"
     },
     "fp": {
      "fr": "Ich werde dieses Lied in Dauerschleife hören.",
-     "audio": "audio/de-fr/saetze/mu_10_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_10_fp.mp3?v=4972c257"
     }
    }
   },
@@ -2359,21 +2359,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Ohrwurm = « le ver d'oreille » = la chanson qu'on a dans la tête (le mot est passé en anglais : earworm). Aurélien et Brel, c'est une longue histoire. seit heute Morgen = depuis ce matin.",
-   "audio": "audio/de-fr/wendungen/mu_11.mp3",
+   "audio": "audio/de-fr/wendungen/mu_11.mp3?v=57a153e2",
    "satz": {
     "fr": "Ich habe seit heute Morgen « Ne me quitte pas » als Ohrwurm. Danke, Aurélien.",
     "de": "J'ai « Ne me quitte pas » dans la tête depuis ce matin. Merci, Aurélien.",
     "luecke": "als Ohrwurm",
-    "audio": "audio/de-fr/saetze/mu_11.mp3"
+    "audio": "audio/de-fr/saetze/mu_11.mp3?v=d504783c"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte den ganzen Tag einen Ohrwurm.",
-     "audio": "audio/de-fr/saetze/mu_11_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_11_pc.mp3?v=107d10be"
     },
     "fp": {
      "fr": "Ich werde tagelang einen Ohrwurm haben.",
-     "audio": "audio/de-fr/saetze/mu_11_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_11_fp.mp3?v=0d667b49"
     }
    }
   },
@@ -2385,21 +2385,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "summen",
    "notiz": "summen = fredonner, bourdonner (die Biene summt) ; vor sich hin = pour soi, distraitement (vor mich hin, vor dich hin …). beim Korrigieren = en corrigeant (bei + infinitif substantivé).",
-   "audio": "audio/de-fr/wendungen/mu_12.mp3",
+   "audio": "audio/de-fr/wendungen/mu_12.mp3?v=79a61957",
    "satz": {
     "fr": "Ich summe beim Korrigieren vor mich hin. Die Schüler wissen das nicht.",
     "de": "Je fredonne en corrigeant des copies. Les élèves ne le savent pas.",
     "luecke": "summe beim Korrigieren vor mich hin",
-    "audio": "audio/de-fr/saetze/mu_12.mp3"
+    "audio": "audio/de-fr/saetze/mu_12.mp3?v=e3587e79"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe beim Korrigieren vor mich hin gesummt.",
-     "audio": "audio/de-fr/saetze/mu_12_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_12_pc.mp3?v=922992c9"
     },
     "fp": {
      "fr": "Ich werde beim Korrigieren vor mich hin summen.",
-     "audio": "audio/de-fr/saetze/mu_12_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_12_fp.mp3?v=8407f110"
     }
    }
   },
@@ -2411,12 +2411,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "liegen",
    "notiz": "der Rhythmus (orthographe : rh, y, th !) ; der Akzent liegt auf = l'accent tombe sur. En allemand, l'accent est en général sur la première syllabe du radical (ARbeit, LEHrer) – l'inverse du français.",
-   "audio": "audio/de-fr/wendungen/mu_13.mp3",
+   "audio": "audio/de-fr/wendungen/mu_13.mp3?v=e6e994dd",
    "satz": {
     "fr": "Das Deutsche hat einen Rhythmus: Der Akzent liegt meist auf der ersten Silbe.",
     "de": "L'allemand a un rythme : l'accent tombe le plus souvent sur la première syllabe.",
     "luecke": "Rhythmus",
-    "audio": "audio/de-fr/saetze/mu_13.mp3"
+    "audio": "audio/de-fr/saetze/mu_13.mp3?v=9cb9196f"
    },
    "zeit": null
   },
@@ -2428,12 +2428,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Umlaut = la voyelle avec tréma (ä, ö, ü) ; ü = u avec les lèvres de « u » français… c'est justement le son français « u » ! ö = « eu » français. Pour un Français, les Umlaute sont faciles ; pour les Allemands, c'est le « on » qui est dur.",
-   "audio": "audio/de-fr/wendungen/mu_14.mp3",
+   "audio": "audio/de-fr/wendungen/mu_14.mp3?v=dbe9fdb9",
    "satz": {
     "fr": "Ä, ö, ü: Die Umlaute sind die Musik zwischen den Buchstaben.",
     "de": "Ä, ö, ü : les Umlaute, c'est la musique entre les lettres.",
     "luecke": "Umlaute",
-    "audio": "audio/de-fr/saetze/mu_14.mp3"
+    "audio": "audio/de-fr/saetze/mu_14.mp3?v=de0684de"
    },
    "zeit": null
   },
@@ -2445,21 +2445,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "aussprechen",
    "notiz": "aussprechen = prononcer (particule séparable : spreche … aus, participe ausgesprochen) ; die Aussprache = la prononciation. das Eichhörnchen = l'écureuil – le mot-test pour les étrangers (ch + ö + rn + ch !).",
-   "audio": "audio/de-fr/wendungen/mu_15.mp3",
+   "audio": "audio/de-fr/wendungen/mu_15.mp3?v=a94dedc8",
    "satz": {
     "fr": "Ich kann « Eichhörnchen » nicht aussprechen. Ich sage « Eichhorn ».",
     "de": "Je n'arrive pas à prononcer « Eichhörnchen ». Je dis « Eichhorn ».",
     "luecke": "aussprechen",
-    "audio": "audio/de-fr/saetze/mu_15.mp3"
+    "audio": "audio/de-fr/saetze/mu_15.mp3?v=b2485fda"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe es nicht ausgesprochen. Lieber nicht.",
-     "audio": "audio/de-fr/saetze/mu_15_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_15_pc.mp3?v=a3fffb94"
     },
     "fp": {
      "fr": "Ich werde es aussprechen. Eines Tages.",
-     "audio": "audio/de-fr/saetze/mu_15_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_15_fp.mp3?v=288055c9"
     }
    }
   },
@@ -2471,12 +2471,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "das Stück = le morceau (musique, gâteau, pièce de théâtre : das Theaterstück) ; das Klavierstück = le morceau de piano. zugleich = en même temps (aussi : gleichzeitig).",
-   "audio": "audio/de-fr/wendungen/mu_16.mp3",
+   "audio": "audio/de-fr/wendungen/mu_16.mp3?v=acfc71a0",
    "satz": {
     "fr": "Dieses Klavierstück macht mich glücklich und traurig zugleich.",
     "de": "Ce morceau de piano me rend heureux et triste en même temps.",
     "luecke": "Klavierstück",
-    "audio": "audio/de-fr/saetze/mu_16.mp3"
+    "audio": "audio/de-fr/saetze/mu_16.mp3?v=2aabb25e"
    },
    "zeit": null
   },
@@ -2488,12 +2488,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "singen",
    "notiz": "die Kehle = la gorge ; aus voller Kehle = « à pleine gorge » (datif sans article : voller Kehle) ; aussi : aus vollem Hals, lauthals. im Auto = in dem Auto.",
-   "audio": "audio/de-fr/wendungen/mu_17.mp3",
+   "audio": "audio/de-fr/wendungen/mu_17.mp3?v=31085bba",
    "satz": {
     "fr": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "de": "Dans la voiture, je chante à tue-tête. Seul. Toujours seul.",
     "luecke": "aus voller Kehle",
-    "audio": "audio/de-fr/saetze/mu_17.mp3"
+    "audio": "audio/de-fr/saetze/mu_17.mp3?v=7711dbac"
    },
    "zeit": null
   },
@@ -2505,12 +2505,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "tief = profond, grave (voix) ; hoch (hohe devant un nom !) = haut, aigu. die Lehrerstimme = la voix de prof (mot composé, sans « de »). die Stimme = la voix ; die Stimmung = l'ambiance.",
-   "audio": "audio/de-fr/wendungen/mu_18.mp3",
+   "audio": "audio/de-fr/wendungen/mu_18.mp3?v=f4268cb2",
    "satz": {
     "fr": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "de": "Il a une voix grave, elle a une voix aiguë, et moi j'ai une voix de prof.",
     "luecke": "tiefe Stimme",
-    "audio": "audio/de-fr/saetze/mu_18.mp3"
+    "audio": "audio/de-fr/saetze/mu_18.mp3?v=e0f3c3ba"
    },
    "zeit": null
   },
@@ -2522,12 +2522,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "ansprechen",
    "notiz": "ansprechen = adresser la parole, et « parler à quelqu'un » au sens de plaire (particule séparable : spricht … an) ; mich = accusatif. das sagt mir nichts = ça ne me dit rien.",
-   "audio": "audio/de-fr/wendungen/mu_19.mp3",
+   "audio": "audio/de-fr/wendungen/mu_19.mp3?v=7080855f",
    "satz": {
     "fr": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "de": "Cette chanson me parle. Je ne comprends pas tout, mais elle me parle.",
     "luecke": "spricht mich an",
-    "audio": "audio/de-fr/saetze/mu_19.mp3"
+    "audio": "audio/de-fr/saetze/mu_19.mp3?v=26a26719"
    },
    "zeit": null
   },
@@ -2539,21 +2539,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lernen",
    "notiz": "auswendig = par cœur (« de l'extérieur », sans regarder) ; auswendig lernen / können. der Lieblingswortschatz = Lieblings- (préféré) + Wortschatz (vocabulaire, « trésor de mots »).",
-   "audio": "audio/de-fr/wendungen/mu_20.mp3",
+   "audio": "audio/de-fr/wendungen/mu_20.mp3?v=252b09e2",
    "satz": {
     "fr": "Ich lerne die Liedtexte auswendig, das ist mein Lieblingswortschatz.",
     "de": "J'apprends les paroles par cœur, c'est mon vocabulaire préféré.",
     "luecke": "lerne die Liedtexte auswendig",
-    "audio": "audio/de-fr/saetze/mu_20.mp3"
+    "audio": "audio/de-fr/saetze/mu_20.mp3?v=f37119b4"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den Text auswendig gelernt.",
-     "audio": "audio/de-fr/saetze/mu_20_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_20_pc.mp3?v=10e17250"
     },
     "fp": {
      "fr": "Ich werde den Text auswendig lernen.",
-     "audio": "audio/de-fr/saetze/mu_20_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_20_fp.mp3?v=d12f0528"
     }
    }
   },
@@ -2565,21 +2565,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "versprechen",
    "notiz": "sich versprechen = faire un lapsus, se tromper en parlant (attention : versprechen sans sich = promettre !) ; der Versprecher = le lapsus. stimmen = être juste, exact (das stimmt = c'est vrai).",
-   "audio": "audio/de-fr/wendungen/mu_21.mp3",
+   "audio": "audio/de-fr/wendungen/mu_21.mp3?v=d9e20889",
    "satz": {
     "fr": "Ich verspreche mich oft, aber die Melodie stimmt.",
     "de": "Je me trompe souvent de mot, mais la mélodie est juste.",
     "luecke": "verspreche mich oft",
-    "audio": "audio/de-fr/saetze/mu_21.mp3"
+    "audio": "audio/de-fr/saetze/mu_21.mp3?v=125dbad6"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe mich versprochen. Schon wieder.",
-     "audio": "audio/de-fr/saetze/mu_21_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_21_pc.mp3?v=1d4ffb40"
     },
     "fp": {
      "fr": "Ich werde mich versprechen, das weiß ich.",
-     "audio": "audio/de-fr/saetze/mu_21_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_21_fp.mp3?v=a71ec6be"
     }
    }
   },
@@ -2591,21 +2591,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "tun",
    "notiz": "jemandem guttun = faire du bien à quelqu'un (tun = faire ; mir = datif) ; participe gutgetan. Le contraire : wehtun = faire mal (das tut weh = ça fait mal).",
-   "audio": "audio/de-fr/wendungen/mu_22.mp3",
+   "audio": "audio/de-fr/wendungen/mu_22.mp3?v=4868f69f",
    "satz": {
     "fr": "Abends singen tut mir gut.",
     "de": "Chanter le soir, ça me fait du bien.",
     "luecke": "tut mir gut",
-    "audio": "audio/de-fr/saetze/mu_22.mp3"
+    "audio": "audio/de-fr/saetze/mu_22.mp3?v=3edf55ec"
    },
    "zeit": {
     "pc": {
      "fr": "Singen hat mir gutgetan.",
-     "audio": "audio/de-fr/saetze/mu_22_pc.mp3"
+     "audio": "audio/de-fr/saetze/mu_22_pc.mp3?v=0523a7b8"
     },
     "fp": {
      "fr": "Singen wird mir guttun.",
-     "audio": "audio/de-fr/saetze/mu_22_fp.mp3"
+     "audio": "audio/de-fr/saetze/mu_22_fp.mp3?v=3b7288ff"
     }
    }
   },
@@ -2617,12 +2617,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "singend = chantant (participe présent : singen + -d, décliné devant le nom) ; man = on. Les Allemands eux-mêmes disent que le français est la langue chantante – ici Alex contre-attaque.",
-   "audio": "audio/de-fr/wendungen/mu_23.mp3",
+   "audio": "audio/de-fr/wendungen/mu_23.mp3?v=a6d7c7e9",
    "satz": {
     "fr": "Deutsch ist eine singende Sprache. Man hört es nur nicht sofort.",
     "de": "L'allemand est une langue chantante. On ne l'entend juste pas tout de suite.",
     "luecke": "singende Sprache",
-    "audio": "audio/de-fr/saetze/mu_23.mp3"
+    "audio": "audio/de-fr/saetze/mu_23.mp3?v=049d8533"
    },
    "zeit": null
   },
@@ -2634,12 +2634,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "können",
    "notiz": "könnten Sie = pourriez-vous (Konjunktiv II) ; wiederholen = répéter (particule inséparable : ich wiederhole) ; langsamer = plus lentement (comparatif en -er). das Wort, pluriel die Wörter (mots isolés) / die Worte (paroles).",
-   "audio": "audio/de-fr/wendungen/mu_24.mp3",
+   "audio": "audio/de-fr/wendungen/mu_24.mp3?v=6185ee05",
    "satz": {
     "fr": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "de": "Pardon, pourriez-vous répéter plus lentement ? J'écoute la musique, pas les mots.",
     "luecke": "könnten Sie das langsamer wiederholen",
-    "audio": "audio/de-fr/saetze/mu_24.mp3"
+    "audio": "audio/de-fr/saetze/mu_24.mp3?v=7c6c2c53"
    },
    "zeit": null
   },
@@ -2651,12 +2651,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "la formule des contes de Grimm ; war = prétérit de sein. das Märchen = le conte (de fées) ; die Gebrüder Grimm. Relative : der … korrigierte (verbe à la fin).",
-   "audio": "audio/de-fr/wendungen/gs_01.mp3",
+   "audio": "audio/de-fr/wendungen/gs_01.mp3?v=756ccabe",
    "satz": {
     "fr": "Es war einmal ein Lehrer, der nie seine Klassenarbeiten korrigierte. Das ist ein Märchen.",
     "de": "Il était une fois un professeur qui ne corrigeait jamais ses copies. C'est un conte.",
     "luecke": "Es war einmal",
-    "audio": "audio/de-fr/saetze/gs_01.mp3"
+    "audio": "audio/de-fr/saetze/gs_01.mp3?v=018ad6eb"
    },
    "zeit": null
   },
@@ -2668,21 +2668,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "erzählen",
    "notiz": "erzählen = raconter ; jemandem (datif : meiner Katze) etwas (accusatif : eine Geschichte) erzählen. einschlafen = s'endormir (particule séparable : schläft … ein). vor dem Ende = avant la fin.",
-   "audio": "audio/de-fr/wendungen/gs_02.mp3",
+   "audio": "audio/de-fr/wendungen/gs_02.mp3?v=2741cdcf",
    "satz": {
     "fr": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "de": "Le soir, je raconte une histoire à mon chat. Il s'endort avant la fin.",
     "luecke": "erzähle ich meiner Katze eine Geschichte",
-    "audio": "audio/de-fr/saetze/gs_02.mp3"
+    "audio": "audio/de-fr/saetze/gs_02.mp3?v=02567883"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe meiner Katze eine Geschichte erzählt.",
-     "audio": "audio/de-fr/saetze/gs_02_pc.mp3"
+     "audio": "audio/de-fr/saetze/gs_02_pc.mp3?v=3c86ea0f"
     },
     "fp": {
      "fr": "Ich werde meiner Katze eine Geschichte erzählen.",
-     "audio": "audio/de-fr/saetze/gs_02_fp.mp3"
+     "audio": "audio/de-fr/saetze/gs_02_fp.mp3?v=874d74d2"
     }
    }
   },
@@ -2694,12 +2694,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "beginnen",
    "notiz": "die Suche = la recherche, la quête (suchen = chercher ; die Suche nach + datif) ; der Roman = le roman. mit einer Suche = datif après mit. auch wenn = même si.",
-   "audio": "audio/de-fr/wendungen/gs_03.mp3",
+   "audio": "audio/de-fr/wendungen/gs_03.mp3?v=4e5c4611",
    "satz": {
     "fr": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur die Suche nach den Schlüsseln ist.",
     "de": "Chaque bon roman commence par une quête. Même si c'est juste chercher ses clés.",
     "luecke": "Suche",
-    "audio": "audio/de-fr/saetze/gs_03.mp3"
+    "audio": "audio/de-fr/saetze/gs_03.mp3?v=f2638819"
    },
    "zeit": null
   },
@@ -2711,12 +2711,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "stehen",
    "notiz": "tief = profond ; im Wald = in dem Wald (datif, lieu) ; der Wald = la forêt (pluriel die Wälder). stand = prétérit de stehen (être debout, se trouver) ; brannte = prétérit de brennen. Le prétérit est le temps du récit écrit.",
-   "audio": "audio/de-fr/wendungen/gs_04.mp3",
+   "audio": "audio/de-fr/wendungen/gs_04.mp3?v=38442c1f",
    "satz": {
     "fr": "Tief im Wald stand ein Haus. Und in dem Haus brannte ein Licht.",
     "de": "Au fond de la forêt, il y avait une maison. Et dans la maison, une lumière.",
     "luecke": "Tief im Wald",
-    "audio": "audio/de-fr/saetze/gs_04.mp3"
+    "audio": "audio/de-fr/saetze/gs_04.mp3?v=38cd9f8f"
    },
    "zeit": null
   },
@@ -2728,12 +2728,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "spucken",
    "notiz": "der Drache = le dragon (déclinaison faible : den Drachen) ; der Drachen = le cerf-volant ! spucken = cracher ; Feuer spucken = cracher du feu. die Hausaufgaben = les devoirs (toujours pluriel).",
-   "audio": "audio/de-fr/wendungen/gs_05.mp3",
+   "audio": "audio/de-fr/wendungen/gs_05.mp3?v=8a758149",
    "satz": {
     "fr": "Der Drache spuckte kein Feuer. Er spuckte Hausaufgaben.",
     "de": "Le dragon ne crachait pas de feu. Il crachait des devoirs.",
     "luecke": "Drache",
-    "audio": "audio/de-fr/saetze/gs_05.mp3"
+    "audio": "audio/de-fr/saetze/gs_05.mp3?v=327f8f52"
    },
    "zeit": null
   },
@@ -2745,12 +2745,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "nehmen",
    "notiz": "das Schwert = l'épée (le w se prononce v : [ʃveːɐt]) ; schwer = lourd, et aussi difficile. nahm = prétérit de nehmen (participe genommen). der Held = le héros.",
-   "audio": "audio/de-fr/wendungen/gs_06.mp3",
+   "audio": "audio/de-fr/wendungen/gs_06.mp3?v=8c8165ad",
    "satz": {
     "fr": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "de": "Le héros a pris son épée. Elle était lourde, comme un lundi.",
     "luecke": "Schwert",
-    "audio": "audio/de-fr/saetze/gs_06.mp3"
+    "audio": "audio/de-fr/saetze/gs_06.mp3?v=8569c6b0"
    },
    "zeit": null
   },
@@ -2762,12 +2762,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verwandeln",
    "notiz": "der Zauber = le sortilège, le charme (zaubern = faire de la magie ; der Zauberer = le magicien) ; verwandeln in + accusatif = transformer en. hielt = prétérit de halten (ici : durer, tenir).",
-   "audio": "audio/de-fr/wendungen/gs_07.mp3",
+   "audio": "audio/de-fr/wendungen/gs_07.mp3?v=5651bb85",
    "satz": {
     "fr": "Ein Zauber verwandelte die Klasse in Stille. Er hielt nur drei Minuten.",
     "de": "Un sortilège a transformé la classe en silence. Ça n'a duré que trois minutes.",
     "luecke": "Zauber",
-    "audio": "audio/de-fr/saetze/gs_07.mp3"
+    "audio": "audio/de-fr/saetze/gs_07.mp3?v=b4aa4d9b"
    },
    "zeit": null
   },
@@ -2779,12 +2779,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "aufgehen",
    "notiz": "plötzlich = soudain, tout à coup (adverbe en tête, puis inversion : ging die Tür auf). aufgehen = s'ouvrir (particule séparable ; aussi : se lever, pour le soleil). niemand = personne. hoffe ich = j'espère (incise).",
-   "audio": "audio/de-fr/wendungen/gs_08.mp3",
+   "audio": "audio/de-fr/wendungen/gs_08.mp3?v=01f16307",
    "satz": {
     "fr": "Plötzlich ging die Tür auf. Niemand. Nur der Wind. Hoffe ich.",
     "de": "D'un coup, la porte s'est ouverte. Personne. Juste le vent. Enfin, j'espère.",
     "luecke": "Plötzlich",
-    "audio": "audio/de-fr/saetze/gs_08.mp3"
+    "audio": "audio/de-fr/saetze/gs_08.mp3?v=3ec60a4b"
    },
    "zeit": null
   },
@@ -2796,12 +2796,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Geheimnis = le secret (geheim = secret, adjectif ; pluriel die Geheimnisse) ; jeder = chacun, tout le monde (singulier) ; sogar = même, jusqu'à. in dieser Geschichte = datif.",
-   "audio": "audio/de-fr/wendungen/gs_09.mp3",
+   "audio": "audio/de-fr/wendungen/gs_09.mp3?v=2f80de58",
    "satz": {
     "fr": "In dieser Geschichte hat jeder ein Geheimnis. Sogar die Katze.",
     "de": "Tout le monde a un secret dans cette histoire. Même le chat.",
     "luecke": "hat jeder ein Geheimnis",
-    "audio": "audio/de-fr/saetze/gs_09.mp3"
+    "audio": "audio/de-fr/saetze/gs_09.mp3?v=3e27e934"
    },
    "zeit": null
   },
@@ -2813,12 +2813,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "zuhören",
    "notiz": "das Königreich = König (roi) + Reich (empire, royaume) ; die Königin = la reine. zuhören = écouter (quelqu'un qui parle ; particule séparable : hörten … zu) ; hören = entendre. die Menschen = les gens.",
-   "audio": "audio/de-fr/wendungen/gs_10.mp3",
+   "audio": "audio/de-fr/wendungen/gs_10.mp3?v=49d04f02",
    "satz": {
     "fr": "In diesem Königreich sprachen die Bücher, und die Menschen hörten zu.",
     "de": "Dans ce royaume, les livres parlaient et les gens écoutaient.",
     "luecke": "Königreich",
-    "audio": "audio/de-fr/saetze/gs_10.mp3"
+    "audio": "audio/de-fr/saetze/gs_10.mp3?v=9eb03307"
    },
    "zeit": null
   },
@@ -2830,12 +2830,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Hexe = la sorcière (hexen = ensorceler) ; der Zauberer = le magicien, der Hexenmeister = le sorcier. böse = méchant, en colère ; müde = fatigué. ich verstehe sie = je la comprends (sie = accusatif).",
-   "audio": "audio/de-fr/wendungen/gs_11.mp3",
+   "audio": "audio/de-fr/wendungen/gs_11.mp3?v=35a2d7b2",
    "satz": {
     "fr": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "de": "La sorcière n'était pas méchante. Elle était fatiguée. Je la comprends.",
     "luecke": "Hexe",
-    "audio": "audio/de-fr/saetze/gs_11.mp3"
+    "audio": "audio/de-fr/saetze/gs_11.mp3?v=c31eee5f"
    },
    "zeit": null
   },
@@ -2847,21 +2847,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verwandeln",
    "notiz": "sich verwandeln in + accusatif (in einen Leser) ; die Verwandlung = la métamorphose (Kafka !). um Mitternacht = à minuit ; bis = jusqu'à ; zwei Uhr morgens = deux heures du matin.",
-   "audio": "audio/de-fr/wendungen/gs_12.mp3",
+   "audio": "audio/de-fr/wendungen/gs_12.mp3?v=0a8adc1c",
    "satz": {
     "fr": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "de": "À minuit, le prof se transforme en lecteur. Jusqu'à deux heures du matin.",
     "luecke": "verwandelt sich der Lehrer in einen Leser",
-    "audio": "audio/de-fr/saetze/gs_12.mp3"
+    "audio": "audio/de-fr/saetze/gs_12.mp3?v=902296a2"
    },
    "zeit": {
     "pc": {
      "fr": "Der Lehrer hat sich in einen Leser verwandelt.",
-     "audio": "audio/de-fr/saetze/gs_12_pc.mp3"
+     "audio": "audio/de-fr/saetze/gs_12_pc.mp3?v=78f75665"
     },
     "fp": {
      "fr": "Der Lehrer wird sich in einen Leser verwandeln.",
-     "audio": "audio/de-fr/saetze/gs_12_fp.mp3"
+     "audio": "audio/de-fr/saetze/gs_12_fp.mp3?v=9ce5981a"
     }
    }
   },
@@ -2873,12 +2873,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "auf einmal = tout à coup (et aussi : en une seule fois) ; synonyme de plötzlich. Herr Lehrer = l'adresse classique d'un élève à son prof (« Monsieur ») ; die Pause = la récré.",
-   "audio": "audio/de-fr/wendungen/gs_13.mp3",
+   "audio": "audio/de-fr/wendungen/gs_13.mp3?v=03049b27",
    "satz": {
     "fr": "Auf einmal Stille. Dann eine Stimme: « Herr Lehrer, wann ist Pause? »",
     "de": "Tout à coup, le silence. Puis une voix : « Monsieur, c'est quand la pause ? »",
     "luecke": "Auf einmal",
-    "audio": "audio/de-fr/saetze/gs_13.mp3"
+    "audio": "audio/de-fr/saetze/gs_13.mp3?v=d2410bc3"
    },
    "zeit": null
   },
@@ -2890,12 +2890,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Held (déclinaison faible : den Helden), die Heldin = l'héroïne (pas la drogue : das Heroin !). meines Lieblingsromans = génitif. deshalb = c'est pourquoi (inversion : deshalb ist er …). mutig = courageux (der Mut).",
-   "audio": "audio/de-fr/wendungen/gs_14.mp3",
+   "audio": "audio/de-fr/wendungen/gs_14.mp3?v=6d7d581e",
    "satz": {
     "fr": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "de": "Le héros de mon roman préféré a peur de tout. C'est pour ça qu'il est courageux.",
     "luecke": "Held",
-    "audio": "audio/de-fr/saetze/gs_14.mp3"
+    "audio": "audio/de-fr/saetze/gs_14.mp3?v=156882d7"
    },
    "zeit": null
   },
@@ -2907,12 +2907,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Bösewicht = le méchant (böse + Wicht, « petit être malfaisant ») ; aussi : der Böse, der Schurke. der Wecker = le réveil (wecken = réveiller). jeden Tag = chaque jour (accusatif de temps).",
-   "audio": "audio/de-fr/wendungen/gs_15.mp3",
+   "audio": "audio/de-fr/wendungen/gs_15.mp3?v=c538badc",
    "satz": {
     "fr": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "de": "Le méchant de l'histoire, c'est le réveil. Six heures. Chaque jour.",
     "luecke": "Bösewicht",
-    "audio": "audio/de-fr/saetze/gs_15.mp3"
+    "audio": "audio/de-fr/saetze/gs_15.mp3?v=640d751e"
    },
    "zeit": null
   },
@@ -2924,12 +2924,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "finden",
    "notiz": "der Schatz = le trésor (et « chéri(e) » : mein Schatz !) + die Karte = la carte ; das Heft = le cahier ; die Mensa = la cantine (lycée, université). gefunden = participe de finden.",
-   "audio": "audio/de-fr/wendungen/gs_16.mp3",
+   "audio": "audio/de-fr/wendungen/gs_16.mp3?v=114b9446",
    "satz": {
     "fr": "Ich habe in einem Heft eine Schatzkarte gefunden. Es war der Plan der Mensa.",
     "de": "J'ai trouvé une carte au trésor dans un cahier. C'était un plan de la cantine.",
     "luecke": "Schatzkarte",
-    "audio": "audio/de-fr/saetze/gs_16.mp3"
+    "audio": "audio/de-fr/saetze/gs_16.mp3?v=88bde61a"
    },
    "zeit": null
   },
@@ -2941,12 +2941,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "heißen",
    "notiz": "es heißt, dass … = on dit que, il paraît que (heißen = s'appeler, signifier, et « être dit ») ; dass = que (subordonnée, verbe à la fin : existiert, schläft). aussi : angeblich = soi-disant. der Raum = la salle.",
-   "audio": "audio/de-fr/wendungen/gs_17.mp3",
+   "audio": "audio/de-fr/wendungen/gs_17.mp3?v=7963e38b",
    "satz": {
     "fr": "Es heißt, dass Raum 13 existiert. Es heißt auch, dass die Katze dort schläft.",
     "de": "Il paraît que la salle 13 existe. Il paraît aussi que le chat y dort.",
     "luecke": "Es heißt",
-    "audio": "audio/de-fr/saetze/gs_17.mp3"
+    "audio": "audio/de-fr/saetze/gs_17.mp3?v=51dfa10a"
    },
    "zeit": null
   },
@@ -2958,21 +2958,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verschwinden",
    "notiz": "verschwinden = disparaître (participe verschwunden, avec sein) ; verschwinde ! = fiche le camp ! der Stift = le stylo, le crayon (pluriel die Stifte). sind es die Stifte = ce sont les stylos.",
-   "audio": "audio/de-fr/wendungen/gs_18.mp3",
+   "audio": "audio/de-fr/wendungen/gs_18.mp3?v=19ddaff2",
    "satz": {
     "fr": "In diesem Roman verschwinden Menschen. In meiner Klasse sind es die Stifte.",
     "de": "Dans ce roman, les gens disparaissent. Dans ma classe, ce sont les stylos.",
     "luecke": "verschwinden",
-    "audio": "audio/de-fr/saetze/gs_18.mp3"
+    "audio": "audio/de-fr/saetze/gs_18.mp3?v=8011e990"
    },
    "zeit": {
     "pc": {
      "fr": "Die Stifte sind verschwunden.",
-     "audio": "audio/de-fr/saetze/gs_18_pc.mp3"
+     "audio": "audio/de-fr/saetze/gs_18_pc.mp3?v=40135973"
     },
     "fp": {
      "fr": "Die Stifte werden verschwinden.",
-     "audio": "audio/de-fr/saetze/gs_18_fp.mp3"
+     "audio": "audio/de-fr/saetze/gs_18_fp.mp3?v=fa737491"
     }
    }
   },
@@ -2984,12 +2984,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lesen",
    "notiz": "die Fortsetzung = la suite, la continuation (fortsetzen = continuer) ; « Fortsetzung folgt » = à suivre. sofort = tout de suite ; wollen + infinitif à la fin : will … lesen.",
-   "audio": "audio/de-fr/wendungen/gs_19.mp3",
+   "audio": "audio/de-fr/wendungen/gs_19.mp3?v=40f339a2",
    "satz": {
     "fr": "Ich will die Fortsetzung sofort lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "de": "Je veux lire la suite tout de suite. Mais il est minuit. Je lis la suite.",
     "luecke": "Fortsetzung",
-    "audio": "audio/de-fr/saetze/gs_19.mp3"
+    "audio": "audio/de-fr/saetze/gs_19.mp3?v=66fe6fdc"
    },
    "zeit": null
   },
@@ -3001,21 +3001,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "der Atem = le souffle, l'haleine ; jemanden in Atem halten = tenir en haleine (identique au français !) ; atemlos = hors d'haleine. seit drei Nächten = datif pluriel (die Nacht, die Nächte).",
-   "audio": "audio/de-fr/wendungen/gs_20.mp3",
+   "audio": "audio/de-fr/wendungen/gs_20.mp3?v=6dacf272",
    "satz": {
     "fr": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "de": "Ce livre me tient en haleine depuis trois nuits.",
     "luecke": "hält mich seit drei Nächten in Atem",
-    "audio": "audio/de-fr/saetze/gs_20.mp3"
+    "audio": "audio/de-fr/saetze/gs_20.mp3?v=2683580b"
    },
    "zeit": {
     "pc": {
      "fr": "Dieses Buch hat mich in Atem gehalten.",
-     "audio": "audio/de-fr/saetze/gs_20_pc.mp3"
+     "audio": "audio/de-fr/saetze/gs_20_pc.mp3?v=ff0f8c24"
     },
     "fp": {
      "fr": "Dieses Buch wird mich in Atem halten.",
-     "audio": "audio/de-fr/saetze/gs_20_fp.mp3"
+     "audio": "audio/de-fr/saetze/gs_20_fp.mp3?v=3d9e2f53"
     }
    }
   },
@@ -3027,21 +3027,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schaudern",
    "notiz": "schaudern = frissonner (d'effroi) ; der Schauder = le frisson ; aussi : eine Gänsehaut bekommen, erschauern. bei jedem Kapitel = à chaque chapitre (datif). weiterlesen = continuer à lire (particule séparable).",
-   "audio": "audio/de-fr/wendungen/gs_21.mp3",
+   "audio": "audio/de-fr/wendungen/gs_21.mp3?v=1fa991e4",
    "satz": {
     "fr": "Ich schaudere bei jedem Kapitel. Und lese weiter. Das ist Fantasy.",
     "de": "Je frissonne à chaque chapitre. Et je continue. C'est ça, la fantasy.",
     "luecke": "schaudere",
-    "audio": "audio/de-fr/saetze/gs_21.mp3"
+    "audio": "audio/de-fr/saetze/gs_21.mp3?v=af14cd17"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe bei jedem Kapitel geschaudert.",
-     "audio": "audio/de-fr/saetze/gs_21_pc.mp3"
+     "audio": "audio/de-fr/saetze/gs_21_pc.mp3?v=5ffec1e0"
     },
     "fp": {
      "fr": "Ich werde schaudern, das weiß ich schon.",
-     "audio": "audio/de-fr/saetze/gs_21_fp.mp3"
+     "audio": "audio/de-fr/saetze/gs_21_fp.mp3?v=c2e15b60"
     }
    }
   },
@@ -3053,12 +3053,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Wendung = le tournant, le rebondissement (wenden = tourner) – et aussi « l'expression » (die Redewendung, comme dans cette appli !). von Anfang an = depuis le début. der König = le roi.",
-   "audio": "audio/de-fr/wendungen/gs_22.mp3",
+   "audio": "audio/de-fr/wendungen/gs_22.mp3?v=6863d25a",
    "satz": {
     "fr": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "de": "Un rebondissement à la page 200 : le chat était le roi depuis le début.",
     "luecke": "Wendung",
-    "audio": "audio/de-fr/saetze/gs_22.mp3"
+    "audio": "audio/de-fr/saetze/gs_22.mp3?v=424ce725"
    },
    "zeit": null
   },
@@ -3070,12 +3070,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "erzählen",
    "notiz": "das Ende = la fin (neutre) ; am Ende = à la fin ; zu Ende = terminé. dieser Geschichte = génitif. lies ! = impératif de lesen (changement de voyelle : du liest → lies).",
-   "audio": "audio/de-fr/wendungen/gs_23.mp3",
+   "audio": "audio/de-fr/wendungen/gs_23.mp3?v=a345e661",
    "satz": {
     "fr": "Das Ende dieser Geschichte? Das erzähle ich nicht. Lies das Buch.",
     "de": "La fin de cette histoire ? Je ne la raconte pas. Lis le livre.",
     "luecke": "Ende",
-    "audio": "audio/de-fr/saetze/gs_23.mp3"
+    "audio": "audio/de-fr/saetze/gs_23.mp3?v=5c3d5ee0"
    },
    "zeit": null
   },
@@ -3087,12 +3087,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "empfehlen",
    "notiz": "empfehlen = recommander, conseiller (participe empfohlen ; die Empfehlung) ; mir = datif. etwas Düsteres, etwas Magisches = quelque chose de sombre, de magique (adjectif substantivé après etwas, majuscule, -es).",
-   "audio": "audio/de-fr/wendungen/gs_24.mp3",
+   "audio": "audio/de-fr/wendungen/gs_24.mp3?v=01af55f7",
    "satz": {
     "fr": "Guten Tag, könnten Sie mir ein Buch empfehlen? Etwas Düsteres, etwas Magisches.",
     "de": "Bonjour, pourriez-vous me conseiller un livre ? Un peu sombre, un peu magique.",
     "luecke": "könnten Sie mir ein Buch empfehlen",
-    "audio": "audio/de-fr/saetze/gs_24.mp3"
+    "audio": "audio/de-fr/saetze/gs_24.mp3?v=a225b0c2"
    },
    "zeit": null
   },
@@ -3104,21 +3104,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "trainieren",
    "notiz": "trainieren = s'entraîner (pas de « sich » en allemand ! participe trainiert, sans ge-) ; das Training = l'entraînement, der Trainer = l'entraîneur. dreimal die Woche = trois fois par semaine. ehrlich = honnête.",
-   "audio": "audio/de-fr/wendungen/sp_01.mp3",
+   "audio": "audio/de-fr/wendungen/sp_01.mp3?v=b9a8e7d7",
    "satz": {
     "fr": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "de": "Je m'entraîne trois fois par semaine. Deux, si je suis honnête.",
     "luecke": "trainiere",
-    "audio": "audio/de-fr/saetze/sp_01.mp3"
+    "audio": "audio/de-fr/saetze/sp_01.mp3?v=fad6c255"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe dreimal trainiert.",
-     "audio": "audio/de-fr/saetze/sp_01_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_01_pc.mp3?v=f8f0b47d"
     },
     "fp": {
      "fr": "Ich werde dreimal trainieren. Vielleicht zweimal.",
-     "audio": "audio/de-fr/saetze/sp_01_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_01_fp.mp3?v=238bea07"
     }
    }
   },
@@ -3130,12 +3130,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Tritt = le coup de pied (treten = donner un coup de pied, marcher sur) ; aussi : der Fußtritt. die Haltung = la posture, la tenue (halten = tenir). zuerst = d'abord.",
-   "audio": "audio/de-fr/wendungen/sp_02.mp3",
+   "audio": "audio/de-fr/wendungen/sp_02.mp3?v=2d390e01",
    "satz": {
     "fr": "Ein guter Tritt ist zuerst eine gute Haltung.",
     "de": "Un bon coup de pied, c'est d'abord une bonne position.",
     "luecke": "Tritt",
-    "audio": "audio/de-fr/saetze/sp_02.mp3"
+    "audio": "audio/de-fr/saetze/sp_02.mp3?v=0ca7d398"
    },
    "zeit": null
   },
@@ -3147,12 +3147,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kommen",
    "notiz": "die Faust = le poing + der Schlag = le coup ; die Hüfte = la hanche ; der Arm = le bras. aus + datif = de (provenance) : aus der Hüfte, aus dem Arm.",
-   "audio": "audio/de-fr/wendungen/sp_03.mp3",
+   "audio": "audio/de-fr/wendungen/sp_03.mp3?v=38399323",
    "satz": {
     "fr": "Im Kung-Fu kommt der Faustschlag aus der Hüfte, nicht aus dem Arm.",
     "de": "En kung-fu, le coup de poing part de la hanche, pas du bras.",
     "luecke": "Faustschlag",
-    "audio": "audio/de-fr/saetze/sp_03.mp3"
+    "audio": "audio/de-fr/saetze/sp_03.mp3?v=6ed2ae50"
    },
    "zeit": null
   },
@@ -3164,12 +3164,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "trainieren",
    "notiz": "die Beweglichkeit = la mobilité, la souplesse (beweglich = mobile, bewegen = bouger) ; aussi : die Gelenkigkeit. mit vierzig = à quarante ans. weg sein = être parti, avoir disparu (familier).",
-   "audio": "audio/de-fr/wendungen/sp_04.mp3",
+   "audio": "audio/de-fr/wendungen/sp_04.mp3?v=3c647821",
    "satz": {
     "fr": "Mit vierzig trainiert man die Beweglichkeit jeden Tag. Sonst ist sie weg.",
     "de": "À quarante ans, la souplesse se travaille tous les jours. Sinon, elle part.",
     "luecke": "Beweglichkeit",
-    "audio": "audio/de-fr/saetze/sp_04.mp3"
+    "audio": "audio/de-fr/saetze/sp_04.mp3?v=56c61430"
    },
    "zeit": null
   },
@@ -3181,21 +3181,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "bewahren",
    "notiz": "die Ruhe = le calme ; bewahren = garder, préserver ; aussi : ruhig bleiben. der Kampf = le combat ; atmen = respirer. Ruhe ! = silence ! (en classe).",
-   "audio": "audio/de-fr/wendungen/sp_05.mp3",
+   "audio": "audio/de-fr/wendungen/sp_05.mp3?v=81e193ad",
    "satz": {
     "fr": "Im Kampf wie im Unterricht: die Ruhe bewahren, atmen, warten.",
     "de": "En combat comme en classe : garder son calme, respirer, attendre.",
     "luecke": "die Ruhe bewahren",
-    "audio": "audio/de-fr/saetze/sp_05.mp3"
+    "audio": "audio/de-fr/saetze/sp_05.mp3?v=0da40e4c"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe die Ruhe bewahrt.",
-     "audio": "audio/de-fr/saetze/sp_05_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_05_pc.mp3?v=419ea1fe"
     },
     "fp": {
      "fr": "Ich werde die Ruhe bewahren. Hoffentlich.",
-     "audio": "audio/de-fr/saetze/sp_05_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_05_fp.mp3?v=f505f303"
     }
    }
   },
@@ -3207,21 +3207,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "aufwärmen",
    "notiz": "sich aufwärmen = s'échauffer (warm = chaud ; particule séparable : wärme … auf, participe aufgewärmt) ; das Aufwärmen = l'échauffement. der Rücken = le dos. vor dem Training = datif.",
-   "audio": "audio/de-fr/wendungen/sp_06.mp3",
+   "audio": "audio/de-fr/wendungen/sp_06.mp3?v=c8782a72",
    "satz": {
     "fr": "Vor dem Training wärme ich mich zehn Minuten auf. Mein Rücken sagt danke.",
     "de": "Avant de m'entraîner, je m'échauffe dix minutes. Mon dos me dit merci.",
     "luecke": "wärme ich mich zehn Minuten auf",
-    "audio": "audio/de-fr/saetze/sp_06.mp3"
+    "audio": "audio/de-fr/saetze/sp_06.mp3?v=eb6d725d"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe mich zehn Minuten aufgewärmt.",
-     "audio": "audio/de-fr/saetze/sp_06_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_06_pc.mp3?v=b41936aa"
     },
     "fp": {
      "fr": "Ich werde mich zehn Minuten aufwärmen.",
-     "audio": "audio/de-fr/saetze/sp_06_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_06_fp.mp3?v=89217ce9"
     }
    }
   },
@@ -3233,21 +3233,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "der Muskelkater = les courbatures, littéralement « le matou des muscles » (Kater = matou, et gueule de bois !) – toujours au singulier, sans article. am Tag danach = le lendemain ; überall = partout.",
-   "audio": "audio/de-fr/wendungen/sp_07.mp3",
+   "audio": "audio/de-fr/wendungen/sp_07.mp3?v=e662691b",
    "satz": {
     "fr": "Am Tag danach habe ich überall Muskelkater. Sogar in den Ohren.",
     "de": "Le lendemain, j'ai des courbatures partout. Même dans les oreilles.",
     "luecke": "habe ich überall Muskelkater",
-    "audio": "audio/de-fr/saetze/sp_07.mp3"
+    "audio": "audio/de-fr/saetze/sp_07.mp3?v=0a934a8b"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte Muskelkater.",
-     "audio": "audio/de-fr/saetze/sp_07_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_07_pc.mp3?v=6f5db0bc"
     },
     "fp": {
      "fr": "Ich werde Muskelkater haben.",
-     "audio": "audio/de-fr/saetze/sp_07_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_07_fp.mp3?v=1968588a"
     }
    }
   },
@@ -3259,12 +3259,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "fit = en forme (de l'anglais, très courant) ; aussi : in Form sein, topfit. morgens / nachmittags = le matin / l'après-midi (habitude, adverbes en -s, minuscule). Profession sans article : ich bin Lehrer.",
-   "audio": "audio/de-fr/wendungen/sp_08.mp3",
+   "audio": "audio/de-fr/wendungen/sp_08.mp3?v=637f956e",
    "satz": {
     "fr": "Morgens bin ich fit. Nachmittags bin ich Lehrer.",
     "de": "Je suis en forme le matin. L'après-midi, je suis prof.",
     "luecke": "fit",
-    "audio": "audio/de-fr/saetze/sp_08.mp3"
+    "audio": "audio/de-fr/saetze/sp_08.mp3?v=bf2a3202"
    },
    "zeit": null
   },
@@ -3276,21 +3276,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "die Stellung = la position (aussi militaire) ; der Reiterstand = la position du cavalier (Reiter + Stand) ; halten = tenir (hält, participe gehalten). einfach ≠ leicht : simple ≠ facile – même nuance qu'en français.",
-   "audio": "audio/de-fr/wendungen/sp_09.mp3",
+   "audio": "audio/de-fr/wendungen/sp_09.mp3?v=87c3b45f",
    "satz": {
     "fr": "Den Reiterstand zwei Minuten halten: einfach. Nicht leicht.",
     "de": "Tenir la position du cavalier pendant deux minutes : simple. Pas facile.",
     "luecke": "halten",
-    "audio": "audio/de-fr/saetze/sp_09.mp3"
+    "audio": "audio/de-fr/saetze/sp_09.mp3?v=cbded03a"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den Reiterstand zwei Minuten gehalten.",
-     "audio": "audio/de-fr/saetze/sp_09_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_09_pc.mp3?v=d579e56e"
     },
     "fp": {
      "fr": "Ich werde den Reiterstand zwei Minuten halten.",
-     "audio": "audio/de-fr/saetze/sp_09_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_09_fp.mp3?v=eec088f4"
     }
    }
   },
@@ -3302,12 +3302,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "beginnen",
    "notiz": "die Atmung = la respiration (atmen = respirer, der Atem = le souffle) ; beginnen mit + datif = commencer par. im Unterricht = en classe (in dem Unterricht).",
-   "audio": "audio/de-fr/wendungen/sp_10.mp3",
+   "audio": "audio/de-fr/wendungen/sp_10.mp3?v=68e2565b",
    "satz": {
     "fr": "Im Kung-Fu beginnt alles mit der Atmung. Im Unterricht auch.",
     "de": "En kung-fu, tout commence par la respiration. En classe aussi.",
     "luecke": "Atmung",
-    "audio": "audio/de-fr/saetze/sp_10.mp3"
+    "audio": "audio/de-fr/saetze/sp_10.mp3?v=cfc2d565"
    },
    "zeit": null
   },
@@ -3319,12 +3319,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sagen",
    "notiz": "der Meister = le maître (arts martiaux, artisanat : der Meisterbrief) – pas le prof d'école (der Lehrer). langsam = lentement, schnell = vite. noch nicht = pas encore ; verstanden = participe de verstehen.",
-   "audio": "audio/de-fr/wendungen/sp_11.mp3",
+   "audio": "audio/de-fr/wendungen/sp_11.mp3?v=0fb03b23",
    "satz": {
     "fr": "Mein Meister sagt: « Langsam ist schnell. » Ich habe es noch nicht verstanden.",
     "de": "Mon maître dit : « Lentement, c'est vite. » Je n'ai pas encore compris.",
     "luecke": "Meister",
-    "audio": "audio/de-fr/saetze/sp_11.mp3"
+    "audio": "audio/de-fr/saetze/sp_11.mp3?v=d42b5756"
    },
    "zeit": null
   },
@@ -3336,12 +3336,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lernen",
    "notiz": "die Form = la forme, l'enchaînement (en kung-fu : die Form, der Ablauf) ; die Bewegung = le mouvement (bewegen = bouger). vier kann ich = j'en sais quatre (können = savoir faire).",
-   "audio": "audio/de-fr/wendungen/sp_12.mp3",
+   "audio": "audio/de-fr/wendungen/sp_12.mp3?v=ad52b852",
    "satz": {
     "fr": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kann ich.",
     "de": "J'apprends un nouvel enchaînement. Douze mouvements. J'en connais quatre.",
     "luecke": "Form",
-    "audio": "audio/de-fr/saetze/sp_12.mp3"
+    "audio": "audio/de-fr/saetze/sp_12.mp3?v=ba16991a"
    },
    "zeit": null
   },
@@ -3353,21 +3353,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "ausweichen",
    "notiz": "ausweichen = esquiver, éviter (particule séparable, participe ausgewichen avec sein ; + datif : dem Schlag) ; infinitif substantivé : das Ausweichen, das Blocken. funktionieren = marcher, fonctionner.",
-   "audio": "audio/de-fr/wendungen/sp_13.mp3",
+   "audio": "audio/de-fr/wendungen/sp_13.mp3?v=5808b93e",
    "satz": {
     "fr": "Ausweichen ist besser als Blocken. Das funktioniert auch in Besprechungen.",
     "de": "Esquiver, c'est mieux que bloquer. Ça marche aussi en réunion.",
     "luecke": "Ausweichen",
-    "audio": "audio/de-fr/saetze/sp_13.mp3"
+    "audio": "audio/de-fr/saetze/sp_13.mp3?v=1771187c"
    },
    "zeit": {
     "pc": {
      "fr": "Ich bin dem Schlag ausgewichen.",
-     "audio": "audio/de-fr/saetze/sp_13_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_13_pc.mp3?v=ca9bcab8"
     },
     "fp": {
      "fr": "Ich werde dem Schlag ausweichen. Oder nicht.",
-     "audio": "audio/de-fr/saetze/sp_13_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_13_fp.mp3?v=9f29ecd5"
     }
    }
   },
@@ -3379,21 +3379,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schwitzen",
    "notiz": "schwitzen = transpirer (der Schweiß = la sueur) ; wie ein Brunnen = comme une fontaine (der Brunnen = le puits, la fontaine). glücklich = heureux. Déclinaison : ein glücklicher Brunnen (masculin nominatif).",
-   "audio": "audio/de-fr/wendungen/sp_14.mp3",
+   "audio": "audio/de-fr/wendungen/sp_14.mp3?v=930be86a",
    "satz": {
     "fr": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "de": "Après l'entraînement, je transpire comme une fontaine. Une fontaine heureuse.",
     "luecke": "schwitze",
-    "audio": "audio/de-fr/saetze/sp_14.mp3"
+    "audio": "audio/de-fr/saetze/sp_14.mp3?v=940166cc"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe geschwitzt wie ein Brunnen.",
-     "audio": "audio/de-fr/saetze/sp_14_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_14_pc.mp3?v=e1401b60"
     },
     "fp": {
      "fr": "Ich werde schwitzen wie ein Brunnen.",
-     "audio": "audio/de-fr/saetze/sp_14_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_14_fp.mp3?v=aef5251a"
     }
    }
   },
@@ -3405,21 +3405,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "verletzen",
    "notiz": "sich verletzen = se blesser (die Verletzung = la blessure ; verletzt = blessé) ; nie = jamais. beim Öffnen = en ouvrant (bei + infinitif substantivé) ; die Dose = la boîte de conserve. außer = sauf.",
-   "audio": "audio/de-fr/wendungen/sp_15.mp3",
+   "audio": "audio/de-fr/wendungen/sp_15.mp3?v=3c35c39b",
    "satz": {
     "fr": "Ich verletze mich nie. Außer beim Öffnen einer Dose Nassfutter.",
     "de": "Je ne me blesse jamais. Sauf en ouvrant une boîte de pâtée.",
     "luecke": "verletze mich nie",
-    "audio": "audio/de-fr/saetze/sp_15.mp3"
+    "audio": "audio/de-fr/saetze/sp_15.mp3?v=d327b88f"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe mich verletzt.",
-     "audio": "audio/de-fr/saetze/sp_15_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_15_pc.mp3?v=ce7b55ea"
     },
     "fp": {
      "fr": "Ich werde mich verletzen, ich spüre es.",
-     "audio": "audio/de-fr/saetze/sp_15_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_15_fp.mp3?v=ebea6fa2"
     }
    }
   },
@@ -3431,21 +3431,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "dehnen",
    "notiz": "sich dehnen = s'étirer (dehnen = étirer ; die Dehnung = l'étirement) ; aussi : Dehnübungen machen, Stretching machen. der Fernseher = la télé (appareil) ; zuschauen = regarder (spectateur) ; ratlos = perplexe.",
-   "audio": "audio/de-fr/wendungen/sp_16.mp3",
+   "audio": "audio/de-fr/wendungen/sp_16.mp3?v=6bd371e5",
    "satz": {
     "fr": "Abends dehne ich mich vor dem Fernseher. Die Katze schaut zu, ratlos.",
     "de": "Je fais des étirements le soir, devant la télé. Le chat me regarde, perplexe.",
     "luecke": "dehne ich mich",
-    "audio": "audio/de-fr/saetze/sp_16.mp3"
+    "audio": "audio/de-fr/saetze/sp_16.mp3?v=73462a4d"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe mich gedehnt.",
-     "audio": "audio/de-fr/saetze/sp_16_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_16_pc.mp3?v=22e4be73"
     },
     "fp": {
      "fr": "Ich werde mich dehnen. Die Katze wird zuschauen.",
-     "audio": "audio/de-fr/saetze/sp_16_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_16_fp.mp3?v=881e4e3f"
     }
    }
   },
@@ -3457,21 +3457,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kommen",
    "notiz": "zu Atem kommen = reprendre son souffle (der Atem = le souffle ; außer Atem = hors d'haleine) ; aussi : verschnaufen. der Satz = la série (sport) – et la phrase ! zwischen + datif : zwischen zwei Sätzen.",
-   "audio": "audio/de-fr/wendungen/sp_17.mp3",
+   "audio": "audio/de-fr/wendungen/sp_17.mp3?v=e2d014cb",
    "satz": {
     "fr": "Zwischen zwei Sätzen komme ich wieder zu Atem. Lange.",
     "de": "Entre deux séries, je reprends mon souffle. Longtemps.",
     "luecke": "komme ich wieder zu Atem",
-    "audio": "audio/de-fr/saetze/sp_17.mp3"
+    "audio": "audio/de-fr/saetze/sp_17.mp3?v=cf96af3d"
    },
    "zeit": {
     "pc": {
      "fr": "Ich bin wieder zu Atem gekommen.",
-     "audio": "audio/de-fr/saetze/sp_17_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_17_pc.mp3?v=bdea6ad6"
     },
     "fp": {
      "fr": "Ich werde wieder zu Atem kommen. Irgendwann.",
-     "audio": "audio/de-fr/saetze/sp_17_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_17_fp.mp3?v=4638a7d1"
     }
    }
   },
@@ -3483,12 +3483,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Gleichgewicht = l'équilibre (gleich = égal + Gewicht = poids) ; das Gleichgewicht verlieren = perdre l'équilibre. das Bein = la jambe. es kommt auf … an = ça dépend de (ankommen auf + accusatif).",
-   "audio": "audio/de-fr/wendungen/sp_18.mp3",
+   "audio": "audio/de-fr/wendungen/sp_18.mp3?v=7a728d7b",
    "satz": {
     "fr": "Auf einem Bein habe ich Gleichgewicht. Auf zweien kommt es auf den Tag an.",
     "de": "Sur une jambe, j'ai de l'équilibre. Sur deux, ça dépend du jour.",
     "luecke": "habe ich Gleichgewicht",
-    "audio": "audio/de-fr/saetze/sp_18.mp3"
+    "audio": "audio/de-fr/saetze/sp_18.mp3?v=cfa0d679"
    },
    "zeit": null
   },
@@ -3500,21 +3500,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "gehen + infinitif = aller faire : laufen gehen, schwimmen gehen, essen gehen (participe : bin … gegangen). laufen = courir (et marcher !) ; joggen est aussi courant. bereuen = regretter.",
-   "audio": "audio/de-fr/wendungen/sp_19.mp3",
+   "audio": "audio/de-fr/wendungen/sp_19.mp3?v=85156a9b",
    "satz": {
     "fr": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "de": "Le dimanche matin, je vais courir. Le dimanche soir, je regrette.",
     "luecke": "gehe ich laufen",
-    "audio": "audio/de-fr/saetze/sp_19.mp3"
+    "audio": "audio/de-fr/saetze/sp_19.mp3?v=b5a3bd2c"
    },
    "zeit": {
     "pc": {
      "fr": "Sonntag bin ich laufen gegangen.",
-     "audio": "audio/de-fr/saetze/sp_19_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_19_pc.mp3?v=cf9f4208"
     },
     "fp": {
      "fr": "Sonntag werde ich laufen gehen.",
-     "audio": "audio/de-fr/saetze/sp_19_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_19_fp.mp3?v=d823b356"
     }
    }
   },
@@ -3526,12 +3526,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "der Gürtel = la ceinture (le ü se prononce comme le « u » français) ; der Sicherheitsgurt = la ceinture de sécurité. Détournement de « Kleider machen Leute » (l'habit fait le moine – à l'envers !). die Hose = le pantalon (singulier).",
-   "audio": "audio/de-fr/wendungen/sp_20.mp3",
+   "audio": "audio/de-fr/wendungen/sp_20.mp3?v=69aa257e",
    "satz": {
     "fr": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "de": "La ceinture ne fait pas le maître. Mais elle tient le pantalon.",
     "luecke": "Gürtel",
-    "audio": "audio/de-fr/saetze/sp_20.mp3"
+    "audio": "audio/de-fr/saetze/sp_20.mp3?v=96466669"
    },
    "zeit": null
   },
@@ -3543,21 +3543,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "der Fortschritt = le progrès (fort + Schritt = pas en avant) ; toujours au pluriel ici : Fortschritte machen. wie mein Meister sagt = comme dit mon maître (verbe à la fin de la subordonnée).",
-   "audio": "audio/de-fr/wendungen/sp_21.mp3",
+   "audio": "audio/de-fr/wendungen/sp_21.mp3?v=08cd0626",
    "satz": {
     "fr": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt: Das ist schnell.",
     "de": "Je fais des progrès. Lentement. Comme dit mon maître, c'est vite.",
     "luecke": "mache Fortschritte",
-    "audio": "audio/de-fr/saetze/sp_21.mp3"
+    "audio": "audio/de-fr/saetze/sp_21.mp3?v=62766079"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe Fortschritte gemacht.",
-     "audio": "audio/de-fr/saetze/sp_21_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_21_pc.mp3?v=438d76b8"
     },
     "fp": {
      "fr": "Ich werde Fortschritte machen.",
-     "audio": "audio/de-fr/saetze/sp_21_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_21_fp.mp3?v=4662d74f"
     }
    }
   },
@@ -3569,21 +3569,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "hinauswachsen",
    "notiz": "littéralement « grandir au-delà de soi-même » (wachsen = pousser, grandir ; participe hinausgewachsen, avec sein) ; über mich = accusatif. der Liegestütz = la pompe (pluriel die Liegestütze).",
-   "audio": "audio/de-fr/wendungen/sp_22.mp3",
+   "audio": "audio/de-fr/wendungen/sp_22.mp3?v=96f1df13",
    "satz": {
     "fr": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "de": "Aujourd'hui, je me suis dépassé : trente pompes. Hier, vingt-neuf.",
     "luecke": "bin ich über mich hinausgewachsen",
-    "audio": "audio/de-fr/saetze/sp_22.mp3"
+    "audio": "audio/de-fr/saetze/sp_22.mp3?v=ac3b8252"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern bin ich über mich hinausgewachsen.",
-     "audio": "audio/de-fr/saetze/sp_22_pc.mp3"
+     "audio": "audio/de-fr/saetze/sp_22_pc.mp3?v=eba00340"
     },
     "fp": {
      "fr": "Morgen werde ich über mich hinauswachsen.",
-     "audio": "audio/de-fr/saetze/sp_22_fp.mp3"
+     "audio": "audio/de-fr/saetze/sp_22_fp.mp3?v=937b34b8"
     }
    }
   },
@@ -3595,12 +3595,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Körper = le corps ; der Geist = l'esprit (et le fantôme !) ; meiner = le mien (pronom possessif, masculin). mit meinem Körper = datif. diskutieren mit = discuter avec.",
-   "audio": "audio/de-fr/wendungen/sp_23.mp3",
+   "audio": "audio/de-fr/wendungen/sp_23.mp3?v=f6822195",
    "satz": {
     "fr": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "de": "Le kung-fu, c'est le corps et l'esprit. Le mien discute souvent avec mon corps.",
     "luecke": "Körper und Geist",
-    "audio": "audio/de-fr/saetze/sp_23.mp3"
+    "audio": "audio/de-fr/saetze/sp_23.mp3?v=28447900"
    },
    "zeit": null
   },
@@ -3612,12 +3612,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "anmelden",
    "notiz": "sich anmelden für + accusatif = s'inscrire à (particule séparable, à la fin : anmelden ; die Anmeldung = l'inscription) ; question par inversion : kann ich … ? am Dienstagabend = le mardi soir (an dem).",
-   "audio": "audio/de-fr/wendungen/sp_24.mp3",
+   "audio": "audio/de-fr/wendungen/sp_24.mp3?v=55d9c04f",
    "satz": {
     "fr": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "de": "Bonjour, est-ce que je peux m'inscrire au cours du mardi soir ?",
     "luecke": "kann ich mich für den Kurs am Dienstagabend anmelden",
-    "audio": "audio/de-fr/saetze/sp_24.mp3"
+    "audio": "audio/de-fr/saetze/sp_24.mp3?v=b9de12ae"
    },
    "zeit": null
   },
@@ -3629,21 +3629,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "essen",
    "notiz": "ausgewogen = équilibré (wiegen = peser) ; versuchen + zu + infinitif. essen, participe gegessen (double ge- !). zählen = compter. ab Montag = à partir de lundi.",
-   "audio": "audio/de-fr/wendungen/es_01.mp3",
+   "audio": "audio/de-fr/wendungen/es_01.mp3?v=9e304c49",
    "satz": {
     "fr": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "de": "J'essaie de manger équilibré. Le croissant du matin ne compte pas.",
     "luecke": "ausgewogen zu essen",
-    "audio": "audio/de-fr/saetze/es_01.mp3"
+    "audio": "audio/de-fr/saetze/es_01.mp3?v=373e5a09"
    },
    "zeit": {
     "pc": {
      "fr": "Diese Woche habe ich ausgewogen gegessen. Außer freitags.",
-     "audio": "audio/de-fr/saetze/es_01_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_01_pc.mp3?v=8804a91a"
     },
     "fp": {
      "fr": "Ich werde ausgewogen essen. Ab Montag.",
-     "audio": "audio/de-fr/saetze/es_01_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_01_fp.mp3?v=003189d8"
     }
    }
   },
@@ -3655,21 +3655,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "ins Bett gehen = aller au lit (ins = in das, accusatif, direction) ; früh = tôt, spät = tard. sonntags = le dimanche (habitude). den Rest der Woche = accusatif de durée + génitif.",
-   "audio": "audio/de-fr/wendungen/es_02.mp3",
+   "audio": "audio/de-fr/wendungen/es_02.mp3?v=d15b4589",
    "satz": {
     "fr": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "de": "Je me couche tôt le dimanche. Le reste de la semaine, j'essaie.",
     "luecke": "gehe ich früh ins Bett",
-    "audio": "audio/de-fr/saetze/es_02.mp3"
+    "audio": "audio/de-fr/saetze/es_02.mp3?v=acf1e6e8"
    },
    "zeit": {
     "pc": {
      "fr": "Gestern bin ich früh ins Bett gegangen. Na ja, vor Mitternacht.",
-     "audio": "audio/de-fr/saetze/es_02_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_02_pc.mp3?v=1d444e6f"
     },
     "fp": {
      "fr": "Heute Abend werde ich früh ins Bett gehen. Wirklich.",
-     "audio": "audio/de-fr/saetze/es_02_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_02_fp.mp3?v=39d23cf5"
     }
    }
   },
@@ -3681,12 +3681,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "achten",
    "notiz": "achten auf + accusatif = faire attention à, veiller sur ; auf sich achten = prendre soin de soi (aussi : sich um sich kümmern). heißen = signifier. sogar = même ; das Stück Kuchen = la part de gâteau.",
-   "audio": "audio/de-fr/wendungen/es_03.mp3",
+   "audio": "audio/de-fr/wendungen/es_03.mp3?v=e895efda",
    "satz": {
     "fr": "Auf sich achten heißt auch, Nein zu sagen. Sogar zu einem Stück Kuchen.",
     "de": "Prendre soin de soi, c'est aussi dire non. Même à un éclair.",
     "luecke": "Auf sich achten",
-    "audio": "audio/de-fr/saetze/es_03.mp3"
+    "audio": "audio/de-fr/saetze/es_03.mp3?v=0e3ebb26"
    },
    "zeit": null
   },
@@ -3698,21 +3698,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "einkaufen",
    "notiz": "einkaufen = faire les courses (particule séparable : kaufe … ein ; der Einkauf = les courses) ; gehen + infinitif. shoppen gehen = faire du shopping. die Sachen = les choses, les affaires.",
-   "audio": "audio/de-fr/wendungen/es_04.mp3",
+   "audio": "audio/de-fr/wendungen/es_04.mp3?v=9e6684bd",
    "satz": {
     "fr": "Ich gehe samstags einkaufen, mit einer Liste. Ich komme mit anderen Sachen zurück.",
     "de": "Je fais les courses le samedi, avec une liste. Je rentre avec autre chose.",
     "luecke": "gehe samstags einkaufen",
-    "audio": "audio/de-fr/saetze/es_04.mp3"
+    "audio": "audio/de-fr/saetze/es_04.mp3?v=76d14a04"
    },
    "zeit": {
     "pc": {
      "fr": "Ich bin heute Morgen einkaufen gegangen.",
-     "audio": "audio/de-fr/saetze/es_04_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_04_pc.mp3?v=778c0998"
     },
     "fp": {
      "fr": "Ich werde morgen einkaufen gehen.",
-     "audio": "audio/de-fr/saetze/es_04_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_04_fp.mp3?v=1830d239"
     }
    }
   },
@@ -3724,21 +3724,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kochen",
    "notiz": "kochen = cuisiner, et aussi bouillir (das Wasser kocht) ; der Koch / die Köchin = le cuisinier. überwachen = surveiller (particule inséparable). etwas Einfaches = quelque chose de simple.",
-   "audio": "audio/de-fr/wendungen/es_05.mp3",
+   "audio": "audio/de-fr/wendungen/es_05.mp3?v=44e2598b",
    "satz": {
     "fr": "Abends koche ich mit Musik. Die Katze überwacht alles.",
     "de": "Le soir, je cuisine en écoutant de la musique. Le chat supervise.",
     "luecke": "koche",
-    "audio": "audio/de-fr/saetze/es_05.mp3"
+    "audio": "audio/de-fr/saetze/es_05.mp3?v=f4a5def9"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe eine Quiche für Aurélien gekocht.",
-     "audio": "audio/de-fr/saetze/es_05_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_05_pc.mp3?v=f84a8cca"
     },
     "fp": {
      "fr": "Ich werde etwas Einfaches kochen.",
-     "audio": "audio/de-fr/saetze/es_05_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_05_fp.mp3?v=7ddae21d"
     }
    }
   },
@@ -3750,12 +3750,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kochen",
    "notiz": "das Gericht = le plat (et le tribunal !) ; das Lieblingsgericht = le plat préféré (Lieblings- + nom). das, das … = celui que (relative, verbe à la fin : gekocht hat). jemand anderes = quelqu'un d'autre.",
-   "audio": "audio/de-fr/wendungen/es_06.mp3",
+   "audio": "audio/de-fr/wendungen/es_06.mp3?v=03ce5d4c",
    "satz": {
     "fr": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "de": "Mon plat préféré ? Celui que quelqu'un d'autre a préparé.",
     "luecke": "Lieblingsgericht",
-    "audio": "audio/de-fr/saetze/es_06.mp3"
+    "audio": "audio/de-fr/saetze/es_06.mp3?v=322b255b"
    },
    "zeit": null
   },
@@ -3767,21 +3767,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "ein bisschen = un peu ; Hunger haben = avoir faim ; plus imagé : Appetit auf etwas haben, ein Hüngerchen haben (diminutif, familier). um vier = à quatre heures ; fünf nach vier = quatre heures cinq.",
-   "audio": "audio/de-fr/wendungen/es_07.mp3",
+   "audio": "audio/de-fr/wendungen/es_07.mp3?v=b4215453",
    "satz": {
     "fr": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "de": "À seize heures, j'ai un petit creux. À seize heures cinq aussi.",
     "luecke": "habe ich ein bisschen Hunger",
-    "audio": "audio/de-fr/saetze/es_07.mp3"
+    "audio": "audio/de-fr/saetze/es_07.mp3?v=2ff51355"
    },
    "zeit": {
     "pc": {
      "fr": "Um vier hatte ich ein bisschen Hunger.",
-     "audio": "audio/de-fr/saetze/es_07_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_07_pc.mp3?v=c9c69c37"
     },
     "fp": {
      "fr": "Um vier werde ich ein bisschen Hunger haben. Wie immer.",
-     "audio": "audio/de-fr/saetze/es_07_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_07_fp.mp3?v=8ccc08e1"
     }
    }
   },
@@ -3793,21 +3793,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "vollschlagen",
    "notiz": "littéralement « se frapper le ventre plein » = s'empiffrer, se régaler (familier ; der Bauch = le ventre) ; plus poli : es sich schmecken lassen. bei + datif = chez. schicken = envoyer.",
-   "audio": "audio/de-fr/wendungen/es_08.mp3",
+   "audio": "audio/de-fr/wendungen/es_08.mp3?v=f6c5b654",
    "satz": {
     "fr": "Bei Aurélien schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
     "de": "Chez Aurélien, on se régale. Sa mère lui envoie des recettes.",
     "luecke": "schlagen wir uns den Bauch voll",
-    "audio": "audio/de-fr/saetze/es_08.mp3"
+    "audio": "audio/de-fr/saetze/es_08.mp3?v=c44f47d5"
    },
    "zeit": {
     "pc": {
      "fr": "Bei Aurélien haben wir uns den Bauch vollgeschlagen.",
-     "audio": "audio/de-fr/saetze/es_08_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_08_pc.mp3?v=19332d51"
     },
     "fp": {
      "fr": "Bei Aurélien werden wir uns den Bauch vollschlagen.",
-     "audio": "audio/de-fr/saetze/es_08_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_08_fp.mp3?v=7aa4b963"
     }
    }
   },
@@ -3819,12 +3819,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "–",
    "notiz": "Guten Appetit ! = bon appétit (accusatif : guten) – en Allemagne, on le dit toujours, même en famille (aussi : Mahlzeit ! au travail, vers midi). gleichfalls = pareillement, toi aussi.",
-   "audio": "audio/de-fr/wendungen/es_09.mp3",
+   "audio": "audio/de-fr/wendungen/es_09.mp3?v=639a4f4d",
    "satz": {
     "fr": "« Guten Appetit! » – « Danke, gleichfalls. » – « Ich esse nichts. » – « Ah. »",
     "de": "« Bon appétit ! » – « Merci, toi aussi. » – « Moi, je ne mange pas. » – « Ah. »",
     "luecke": "Guten Appetit",
-    "audio": "audio/de-fr/saetze/es_09.mp3"
+    "audio": "audio/de-fr/saetze/es_09.mp3?v=63cbefae"
    },
    "zeit": null
   },
@@ -3836,12 +3836,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Bäckerei = la boulangerie (der Bäcker = le boulanger ; -ei = le lieu) ; die Konditorei = la pâtisserie. neben + datif = à côté de. ein gutes Problem (neutre, nominatif : -es).",
-   "audio": "audio/de-fr/wendungen/es_10.mp3",
+   "audio": "audio/de-fr/wendungen/es_10.mp3?v=f7ac9f43",
    "satz": {
     "fr": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein gutes Problem.",
     "de": "Il y a une boulangerie à côté de l'école. C'est un problème. Un bon problème.",
     "luecke": "Bäckerei",
-    "audio": "audio/de-fr/saetze/es_10.mp3"
+    "audio": "audio/de-fr/saetze/es_10.mp3?v=476552e9"
    },
    "zeit": null
   },
@@ -3853,21 +3853,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "trinken",
    "notiz": "trinken, participe getrunken ; Wasser sans article (partitif). den ganzen Tag = toute la journée (accusatif de durée). dazwischen = entre les deux. Attention : einen Kaffee = accusatif masculin.",
-   "audio": "audio/de-fr/wendungen/es_11.mp3",
+   "audio": "audio/de-fr/wendungen/es_11.mp3?v=d56f1acd",
    "satz": {
     "fr": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser kommt dazwischen.",
     "de": "Je bois de l'eau toute la journée. Et un café. Ou deux. L'eau, c'est entre.",
     "luecke": "trinke den ganzen Tag Wasser",
-    "audio": "audio/de-fr/saetze/es_11.mp3"
+    "audio": "audio/de-fr/saetze/es_11.mp3?v=f3f9b5ff"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den ganzen Tag Wasser getrunken.",
-     "audio": "audio/de-fr/saetze/es_11_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_11_pc.mp3?v=2b350d77"
     },
     "fp": {
      "fr": "Ich werde Wasser trinken. Mehr.",
-     "audio": "audio/de-fr/saetze/es_11_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_11_fp.mp3?v=4c510fb4"
     }
    }
   },
@@ -3879,21 +3879,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "naschen",
    "notiz": "naschen = grignoter des sucreries (die Naschkatze = le gourmand de sucré !) ; knabbern = grignoter (salé). für jeden Fehler = pour chaque faute (accusatif). ein Stück Schokolade = un morceau de chocolat.",
-   "audio": "audio/de-fr/wendungen/es_12.mp3",
+   "audio": "audio/de-fr/wendungen/es_12.mp3?v=c2c1a17a",
    "satz": {
     "fr": "Ich nasche beim Korrigieren. Für jeden Fehler ein Stück Schokolade.",
     "de": "Je grignote devant les copies. Chaque faute, un carré de chocolat.",
     "luecke": "nasche",
-    "audio": "audio/de-fr/saetze/es_12.mp3"
+    "audio": "audio/de-fr/saetze/es_12.mp3?v=5350eccc"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe den ganzen Nachmittag genascht.",
-     "audio": "audio/de-fr/saetze/es_12_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_12_pc.mp3?v=40155ec9"
     },
     "fp": {
      "fr": "Ich werde heute Abend nicht naschen. Mal sehen.",
-     "audio": "audio/de-fr/saetze/es_12_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_12_fp.mp3?v=1ef8cbcf"
     }
    }
   },
@@ -3905,12 +3905,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "fühlen",
    "notiz": "identique au français : die Haut = la peau ; in meiner Haut = datif ; sich wohlfühlen. vorher = avant (adverbe) ; weniger = moins. Le contraire : sich unwohl fühlen, nicht in seiner Haut stecken.",
-   "audio": "audio/de-fr/wendungen/es_13.mp3",
+   "audio": "audio/de-fr/wendungen/es_13.mp3?v=e068e5d2",
    "satz": {
     "fr": "Nach dem Sport fühle ich mich wohl in meiner Haut. Vorher auch, aber weniger.",
     "de": "Après le sport, je suis bien dans ma peau. Avant, aussi, mais moins.",
     "luecke": "fühle ich mich wohl in meiner Haut",
-    "audio": "audio/de-fr/saetze/es_13.mp3"
+    "audio": "audio/de-fr/saetze/es_13.mp3?v=73dc90a6"
    },
    "zeit": null
   },
@@ -3922,21 +3922,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "eine Pause machen = faire une pause (die Pause = la pause, la récré) ; jede Stunde = chaque heure (accusatif) ; dauern = durer ; manchmal = parfois. jetzt = maintenant.",
-   "audio": "audio/de-fr/wendungen/es_14.mp3",
+   "audio": "audio/de-fr/wendungen/es_14.mp3?v=70283fdc",
    "satz": {
     "fr": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "de": "Je fais une pause toutes les heures. Parfois, la pause dure une heure.",
     "luecke": "mache jede Stunde eine Pause",
-    "audio": "audio/de-fr/saetze/es_14.mp3"
+    "audio": "audio/de-fr/saetze/es_14.mp3?v=c1f25d9b"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe zehn Minuten Pause gemacht.",
-     "audio": "audio/de-fr/saetze/es_14_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_14_pc.mp3?v=d6b0ba7a"
     },
     "fp": {
      "fr": "Ich werde eine Pause machen. Jetzt.",
-     "audio": "audio/de-fr/saetze/es_14_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_14_fp.mp3?v=251db437"
     }
    }
   },
@@ -3948,21 +3948,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schlafen",
    "notiz": "das Murmeltier = la marmotte (l'expression française existe aussi !) ; aussi : wie ein Stein schlafen, wie ein Baby schlafen. schnarchen = ronfler. Relative neutre : das schnarcht.",
-   "audio": "audio/de-fr/wendungen/es_15.mp3",
+   "audio": "audio/de-fr/wendungen/es_15.mp3?v=c266237c",
    "satz": {
     "fr": "Nach dem Kung-Fu schlafe ich wie ein Murmeltier. Ein Murmeltier, das schnarcht.",
     "de": "Après le kung-fu, je dors comme un bébé. Un bébé qui ronfle.",
     "luecke": "schlafe ich wie ein Murmeltier",
-    "audio": "audio/de-fr/saetze/es_15.mp3"
+    "audio": "audio/de-fr/saetze/es_15.mp3?v=9d52ecb4"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe wie ein Murmeltier geschlafen.",
-     "audio": "audio/de-fr/saetze/es_15_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_15_pc.mp3?v=7c532b22"
     },
     "fp": {
      "fr": "Ich werde wie ein Murmeltier schlafen.",
-     "audio": "audio/de-fr/saetze/es_15_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_15_fp.mp3?v=a8b139ba"
     }
    }
   },
@@ -3974,12 +3974,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "munter = éveillé, gaillard (munter werden = se réveiller) ; fit und munter = en pleine forme (expression figée). verdächtig = suspect. es ist sechs Uhr = il est six heures.",
-   "audio": "audio/de-fr/wendungen/es_16.mp3",
+   "audio": "audio/de-fr/wendungen/es_16.mp3?v=50acdaa8",
    "satz": {
     "fr": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
     "de": "Ce matin, j'ai la pêche ! C'est suspect. Il est six heures.",
     "luecke": "fit und munter",
-    "audio": "audio/de-fr/saetze/es_16.mp3"
+    "audio": "audio/de-fr/saetze/es_16.mp3?v=00285dec"
    },
    "zeit": null
   },
@@ -3991,21 +3991,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schnappen",
    "notiz": "frische Luft schnappen = « attraper de l'air frais » (schnappen = happer) ; aussi : an die frische Luft gehen. das Handy = le portable (faux anglicisme !). na ja = enfin, bon.",
-   "audio": "audio/de-fr/wendungen/es_17.mp3",
+   "audio": "audio/de-fr/wendungen/es_17.mp3?v=39d825fd",
    "satz": {
     "fr": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "de": "À midi, je prends l'air dix minutes. Sans téléphone. Enfin, presque.",
     "luecke": "schnappe ich zehn Minuten frische Luft",
-    "audio": "audio/de-fr/saetze/es_17.mp3"
+    "audio": "audio/de-fr/saetze/es_17.mp3?v=f49cc310"
    },
    "zeit": {
     "pc": {
      "fr": "Mittags habe ich frische Luft geschnappt.",
-     "audio": "audio/de-fr/saetze/es_17_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_17_pc.mp3?v=c7ad72d1"
     },
     "fp": {
      "fr": "Mittags werde ich frische Luft schnappen.",
-     "audio": "audio/de-fr/saetze/es_17_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_17_fp.mp3?v=2dafe05d"
     }
    }
   },
@@ -4017,12 +4017,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Rezept = la recette, et l'ordonnance du médecin (comme en français… mais sans ordonnance : rezeptfrei = en vente libre). die Quiche Lorraine, bien connue en Sarre. von seiner Mutter = datif.",
-   "audio": "audio/de-fr/wendungen/es_18.mp3",
+   "audio": "audio/de-fr/wendungen/es_18.mp3?v=d08d3194",
    "satz": {
     "fr": "Ich habe ein Rezept für Quiche. Es kommt von Aurélien, der es von seiner Mutter hat.",
     "de": "J'ai une recette de quiche. Elle vient d'Aurélien, qui la tient de sa mère.",
     "luecke": "Rezept",
-    "audio": "audio/de-fr/saetze/es_18.mp3"
+    "audio": "audio/de-fr/saetze/es_18.mp3?v=d75c78da"
    },
    "zeit": null
   },
@@ -4034,21 +4034,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "probieren",
    "notiz": "probieren = goûter, essayer (sans ge- au participe : probiert) ; impératif probier ! ; aussi : kosten (goûter). dürfen = avoir le droit (du darfst) ; mögen = aimer (ich mag es nicht).",
-   "audio": "audio/de-fr/wendungen/es_19.mp3",
+   "audio": "audio/de-fr/wendungen/es_19.mp3?v=5af4185d",
    "satz": {
     "fr": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "de": "Goûte ça. Non, vraiment, goûte. Ensuite, tu peux dire que tu n'aimes pas.",
     "luecke": "Probier",
-    "audio": "audio/de-fr/saetze/es_19.mp3"
+    "audio": "audio/de-fr/saetze/es_19.mp3?v=851c185e"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe probiert. Ich mag es nicht.",
-     "audio": "audio/de-fr/saetze/es_19_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_19_pc.mp3?v=0e7a2355"
     },
     "fp": {
      "fr": "Ich werde probieren. Ein kleines bisschen.",
-     "audio": "audio/de-fr/saetze/es_19_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_19_fp.mp3?v=647cd186"
     }
    }
   },
@@ -4060,12 +4060,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "köstlich = délicieux (die Köstlichkeit = le délice) ; plus courant : lecker ! (familier, très allemand). das willst du lieber nicht wissen = tu préfères ne pas le savoir (lieber = plutôt).",
-   "audio": "audio/de-fr/wendungen/es_20.mp3",
+   "audio": "audio/de-fr/wendungen/es_20.mp3?v=25c70648",
    "satz": {
     "fr": "Das ist köstlich! Was ist das? – Das willst du lieber nicht wissen.",
     "de": "C'est délicieux ! Qu'est-ce que c'est ? – Il vaut mieux ne pas savoir.",
     "luecke": "köstlich",
-    "audio": "audio/de-fr/saetze/es_20.mp3"
+    "audio": "audio/de-fr/saetze/es_20.mp3?v=af72c243"
    },
    "zeit": null
   },
@@ -4077,21 +4077,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "Durst haben = avoir soif (durstig = assoiffé) ; Durst nach + datif = soif de (figuré). der Sportunterricht = le cours de sport. die Schüler = les élèves (der Schüler, die Schülerin).",
-   "audio": "audio/de-fr/wendungen/es_21.mp3",
+   "audio": "audio/de-fr/wendungen/es_21.mp3?v=0b40d41b",
    "satz": {
     "fr": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "de": "Après le cours de sport, les élèves ont soif. Moi, j'ai soif de silence.",
     "luecke": "haben die Schüler Durst",
-    "audio": "audio/de-fr/saetze/es_21.mp3"
+    "audio": "audio/de-fr/saetze/es_21.mp3?v=bafa1b0d"
    },
    "zeit": {
     "pc": {
      "fr": "Nach dem Sport hatten die Schüler Durst.",
-     "audio": "audio/de-fr/saetze/es_21_pc.mp3"
+     "audio": "audio/de-fr/saetze/es_21_pc.mp3?v=c79b4f61"
     },
     "fp": {
      "fr": "Nach dem Sport werden die Schüler Durst haben.",
-     "audio": "audio/de-fr/saetze/es_21_fp.mp3"
+     "audio": "audio/de-fr/saetze/es_21_fp.mp3?v=785eb5a0"
     }
    }
   },
@@ -4103,12 +4103,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "aufstehen",
    "notiz": "aufstehen = se lever (particule séparable, participe aufgestanden avec sein) ; mit dem falschen Fuß aufstehen = se lever du pied gauche. der Fuß = le pied ; links / rechts = gauche / droite.",
-   "audio": "audio/de-fr/wendungen/es_22.mp3",
+   "audio": "audio/de-fr/wendungen/es_22.mp3?v=11382124",
    "satz": {
     "fr": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "de": "Aujourd'hui, je me suis levé du bon pied. Le gauche. Comme d'habitude.",
     "luecke": "bin ich mit dem richtigen Fuß aufgestanden",
-    "audio": "audio/de-fr/saetze/es_22.mp3"
+    "audio": "audio/de-fr/saetze/es_22.mp3?v=67785c2c"
    },
    "zeit": null
   },
@@ -4120,12 +4120,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "das Vergnügen = le plaisir (mit Vergnügen = avec plaisir) ; sich etwas gönnen = se faire plaisir, s'accorder quelque chose. am Tag = par jour. noch ein = encore un.",
-   "audio": "audio/de-fr/wendungen/es_23.mp3",
+   "audio": "audio/de-fr/wendungen/es_23.mp3?v=fab4bfb9",
    "satz": {
     "fr": "Ein kleines Vergnügen am Tag. Heute: ein Stück Kuchen. Morgen: noch ein Stück Kuchen.",
     "de": "Un petit plaisir par jour. Aujourd'hui : une tarte. Demain : une autre tarte.",
     "luecke": "kleines Vergnügen",
-    "audio": "audio/de-fr/saetze/es_23.mp3"
+    "audio": "audio/de-fr/saetze/es_23.mp3?v=21c838ca"
    },
    "zeit": null
   },
@@ -4137,12 +4137,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "haben",
    "notiz": "ich hätte gern = je voudrais (Konjunktiv II de haben + gern) – la formule pour commander ; ich will serait impoli. das Brötchen = le petit pain (le pain allemand par excellence ; en Sarre on dit aussi Weck). bitte = s'il vous plaît.",
-   "audio": "audio/de-fr/wendungen/es_24.mp3",
+   "audio": "audio/de-fr/wendungen/es_24.mp3?v=45018307",
    "satz": {
     "fr": "Guten Tag, ich hätte gern ein Brötchen, bitte. Nicht zu dunkel.",
     "de": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
     "luecke": "hätte gern",
-    "audio": "audio/de-fr/saetze/es_24.mp3"
+    "audio": "audio/de-fr/saetze/es_24.mp3?v=484d6e91"
    },
    "zeit": null
   },
@@ -4154,21 +4154,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "durchschlafen",
    "notiz": "durchschlafen = dormir d'une traite, faire ses nuits (particule séparable : schläft … durch, participe durchgeschlafen) ; durch- = à travers, jusqu'au bout. meiner Kollegin = génitif féminin. sie selbst = elle-même.",
-   "audio": "audio/de-fr/wendungen/ki_01.mp3",
+   "audio": "audio/de-fr/wendungen/ki_01.mp3?v=c1d68288",
    "satz": {
     "fr": "Das Baby meiner Kollegin schläft durch. Sie selbst noch nicht.",
     "de": "Le bébé de ma collègue fait ses nuits. Elle, pas encore.",
     "luecke": "schläft durch",
-    "audio": "audio/de-fr/saetze/ki_01.mp3"
+    "audio": "audio/de-fr/saetze/ki_01.mp3?v=8baf968b"
    },
    "zeit": {
     "pc": {
      "fr": "Das Baby hat diese Woche durchgeschlafen.",
-     "audio": "audio/de-fr/saetze/ki_01_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_01_pc.mp3?v=39b89f0e"
     },
     "fp": {
      "fr": "Das Baby wird durchschlafen. Irgendwann.",
-     "audio": "audio/de-fr/saetze/ki_01_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_01_fp.mp3?v=79b9c4b0"
     }
    }
   },
@@ -4180,12 +4180,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "schlafen",
    "notiz": "das Kuscheltier = la peluche, le doudou (kuscheln = faire des câlins + Tier = animal) ; das Schmusetuch = le doudou en tissu. ohne + accusatif. reden von + datif = parler de (vom = von dem). vor allem = surtout.",
-   "audio": "audio/de-fr/wendungen/ki_02.mp3",
+   "audio": "audio/de-fr/wendungen/ki_02.mp3?v=639c285d",
    "satz": {
     "fr": "Ohne sein Kuscheltier kann es nicht schlafen. Ich rede vom Baby. Na ja, vor allem.",
     "de": "Sans son doudou, impossible de dormir. Je parle du bébé. Enfin, surtout.",
     "luecke": "Kuscheltier",
-    "audio": "audio/de-fr/saetze/ki_02.mp3"
+    "audio": "audio/de-fr/saetze/ki_02.mp3?v=3872bc86"
    },
    "zeit": null
   },
@@ -4197,21 +4197,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "anstellen",
    "notiz": "etwas anstellen = faire une bêtise (particule séparable : stellen … an) ; der Unsinn, der Blödsinn, der Quatsch = les bêtises. meiner = le mien ; lächeln = sourire (infinitif avec zu).",
-   "audio": "audio/de-fr/wendungen/ki_03.mp3",
+   "audio": "audio/de-fr/wendungen/ki_03.mp3?v=c30afc4a",
    "satz": {
     "fr": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "de": "Les enfants font des bêtises. C'est leur métier. Le mien, c'est de sourire.",
     "luecke": "stellen Unsinn an",
-    "audio": "audio/de-fr/saetze/ki_03.mp3"
+    "audio": "audio/de-fr/saetze/ki_03.mp3?v=aebaca78"
    },
    "zeit": {
     "pc": {
      "fr": "Sie haben den ganzen Morgen Unsinn angestellt.",
-     "audio": "audio/de-fr/saetze/ki_03_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_03_pc.mp3?v=817d9469"
     },
     "fp": {
      "fr": "Sie werden Unsinn anstellen, ganz sicher.",
-     "audio": "audio/de-fr/saetze/ki_03_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_03_fp.mp3?v=2225d490"
     }
    }
   },
@@ -4223,21 +4223,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "nehmen",
    "notiz": "in den Arm nehmen = prendre dans ses bras (singulier : den Arm, accusatif) ; aussi : umarmen = embrasser (étreindre), drücken = serrer. man = on ; es = le (das Kind, neutre). einzig = seul, unique.",
-   "audio": "audio/de-fr/wendungen/ki_04.mp3",
+   "audio": "audio/de-fr/wendungen/ki_04.mp3?v=14264dde",
    "satz": {
     "fr": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "de": "Quand un enfant pleure, on le prend dans ses bras. C'est la seule règle.",
     "luecke": "nimmt man es in den Arm",
-    "audio": "audio/de-fr/saetze/ki_04.mp3"
+    "audio": "audio/de-fr/saetze/ki_04.mp3?v=3fa84505"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe es in den Arm genommen.",
-     "audio": "audio/de-fr/saetze/ki_04_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_04_pc.mp3?v=2ac945d5"
     },
     "fp": {
      "fr": "Ich werde es in den Arm nehmen.",
-     "audio": "audio/de-fr/saetze/ki_04_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_04_fp.mp3?v=0f86a8bc"
     }
    }
   },
@@ -4249,12 +4249,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sagen",
    "notiz": "das Baby (mot anglais, neutre, pluriel die Babys) ; aussi : der Säugling (le nourrisson, langue soignée), das Kleinkind = le petit enfant. es = pronom neutre pour das Baby.",
-   "audio": "audio/de-fr/wendungen/ki_05.mp3",
+   "audio": "audio/de-fr/wendungen/ki_05.mp3?v=29555c96",
    "satz": {
     "fr": "Ein Baby spricht nicht, aber es sagt alles.",
     "de": "Un bébé, ça ne parle pas, mais ça dit tout.",
     "luecke": "Baby",
-    "audio": "audio/de-fr/saetze/ki_05.mp3"
+    "audio": "audio/de-fr/saetze/ki_05.mp3?v=29f877d1"
    },
    "zeit": null
   },
@@ -4266,21 +4266,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "anlächeln",
    "notiz": "jemanden anlächeln = sourire à quelqu'un (an- = en direction de ; particule séparable : lächelt … an) ; lächeln = sourire, lachen = rire. gerettet = sauvé (retten).",
-   "audio": "audio/de-fr/wendungen/ki_06.mp3",
+   "audio": "audio/de-fr/wendungen/ki_06.mp3?v=a5634330",
    "satz": {
     "fr": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "de": "Le bébé m'a fait un sourire. Ma journée était gagnée.",
     "luecke": "hat mich angelächelt",
-    "audio": "audio/de-fr/saetze/ki_06.mp3"
+    "audio": "audio/de-fr/saetze/ki_06.mp3?v=85b4c44f"
    },
    "zeit": {
     "pc": {
      "fr": "Das Baby hat mich angelächelt.",
-     "audio": "audio/de-fr/saetze/ki_06_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_06_pc.mp3?v=1da833c4"
     },
     "fp": {
      "fr": "Das Baby wird mich anlächeln. Ich warte.",
-     "audio": "audio/de-fr/saetze/ki_06_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_06_fp.mp3?v=132e8cb0"
     }
    }
   },
@@ -4292,21 +4292,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "werden",
    "notiz": "groß werden = grandir (werden = devenir, participe geworden avec sein) ; aussi : wachsen = pousser, croître. zu schnell = trop vite. bleiben = rester.",
-   "audio": "audio/de-fr/wendungen/ki_07.mp3",
+   "audio": "audio/de-fr/wendungen/ki_07.mp3?v=be10bf67",
    "satz": {
     "fr": "Kinder werden zu schnell groß. Die Klassenarbeiten bleiben.",
     "de": "Les enfants grandissent trop vite. Les copies, elles, restent.",
     "luecke": "werden zu schnell groß",
-    "audio": "audio/de-fr/saetze/ki_07.mp3"
+    "audio": "audio/de-fr/saetze/ki_07.mp3?v=ef05bdd0"
    },
    "zeit": {
     "pc": {
      "fr": "Sie sind in den Ferien groß geworden.",
-     "audio": "audio/de-fr/saetze/ki_07_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_07_pc.mp3?v=e4e51a0c"
     },
     "fp": {
      "fr": "Sie werden groß werden, und ich werde alt werden.",
-     "audio": "audio/de-fr/saetze/ki_07_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_07_fp.mp3?v=143714ea"
     }
    }
   },
@@ -4318,21 +4318,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "einschlafen",
    "notiz": "einschlafen = s'endormir (particule séparable, participe eingeschlafen avec sein) ; schlafen = dormir. der Kleine = le petit (adjectif substantivé). leiser = plus bas, moins fort (leise = bas, doucement).",
-   "audio": "audio/de-fr/wendungen/ki_08.mp3",
+   "audio": "audio/de-fr/wendungen/ki_08.mp3?v=8eb87406",
    "satz": {
     "fr": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "de": "Le petit a du mal à s'endormir. Alors je chante. Ça marche. Il pleure moins fort.",
     "luecke": "schläft schlecht ein",
-    "audio": "audio/de-fr/saetze/ki_08.mp3"
+    "audio": "audio/de-fr/saetze/ki_08.mp3?v=b0b31eec"
    },
    "zeit": {
     "pc": {
      "fr": "Er ist schlecht eingeschlafen.",
-     "audio": "audio/de-fr/saetze/ki_08_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_08_pc.mp3?v=b97e5466"
     },
     "fp": {
      "fr": "Er wird schlecht einschlafen.",
-     "audio": "audio/de-fr/saetze/ki_08_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_08_fp.mp3?v=76fef102"
     }
    }
   },
@@ -4344,12 +4344,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "wechseln",
    "notiz": "die Windel = la couche (wickeln = emmailloter, langer) ; Windeln wechseln = changer les couches. echt = vrai, authentique (et familièrement « vraiment » : echt gut). Majuscule après les deux points quand une phrase complète suit.",
-   "audio": "audio/de-fr/wendungen/ki_09.mp3",
+   "audio": "audio/de-fr/wendungen/ki_09.mp3?v=e0799be2",
    "satz": {
     "fr": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "de": "Changer une couche en trois minutes : ça, c'est un vrai enchaînement de kung-fu.",
     "luecke": "Windel",
-    "audio": "audio/de-fr/saetze/ki_09.mp3"
+    "audio": "audio/de-fr/saetze/ki_09.mp3?v=347fbd20"
    },
    "zeit": null
   },
@@ -4361,12 +4361,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "brav = sage, obéissant (faux ami : pas « courageux » = mutig !) ; sei ! = impératif de sein. die Waschmaschine = le lave-linge. in der Waschmaschine = datif (lieu).",
-   "audio": "audio/de-fr/wendungen/ki_10.mp3",
+   "audio": "audio/de-fr/wendungen/ki_10.mp3?v=182f4380",
    "satz": {
     "fr": "« Sei brav! » – « Ich bin brav. » – « Und warum ist die Katze in der Waschmaschine? »",
     "de": "« Sois sage ! » – « Je suis sage. » – « Alors pourquoi le chat est-il dans le lave-linge ? »",
     "luecke": "Sei brav",
-    "audio": "audio/de-fr/saetze/ki_10.mp3"
+    "audio": "audio/de-fr/saetze/ki_10.mp3?v=f291123f"
    },
    "zeit": null
   },
@@ -4378,21 +4378,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "spielen",
    "notiz": "Verstecken spielen = jouer à cache-cache (infinitif substantivé, sans article) ; sich verstecken = se cacher. hinter dem Vorhang = datif ; der Vorhang = le rideau. die Füße = les pieds (der Fuß) ; draußen = dehors.",
-   "audio": "audio/de-fr/wendungen/ki_11.mp3",
+   "audio": "audio/de-fr/wendungen/ki_11.mp3?v=d5d9c789",
    "satz": {
     "fr": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "de": "On joue à cache-cache. Il se cache toujours derrière le rideau. Avec ses pieds dehors.",
     "luecke": "spielen Verstecken",
-    "audio": "audio/de-fr/saetze/ki_11.mp3"
+    "audio": "audio/de-fr/saetze/ki_11.mp3?v=da1b84d0"
    },
    "zeit": {
     "pc": {
      "fr": "Wir haben den ganzen Nachmittag Verstecken gespielt.",
-     "audio": "audio/de-fr/saetze/ki_11_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_11_pc.mp3?v=a4c965d9"
     },
     "fp": {
      "fr": "Wir werden nach dem Nachmittagssnack Verstecken spielen.",
-     "audio": "audio/de-fr/saetze/ki_11_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_11_fp.mp3?v=840760b6"
     }
    }
   },
@@ -4404,21 +4404,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "erzählen",
    "notiz": "die Gute-Nacht-Geschichte = l'histoire du soir (mot composé avec traits d'union) ; Gute Nacht ! = bonne nuit. nach drei Seiten = au bout de trois pages (datif pluriel). La chute : c'est moi qui dors.",
-   "audio": "audio/de-fr/wendungen/ki_12.mp3",
+   "audio": "audio/de-fr/wendungen/ki_12.mp3?v=7d5a4d7f",
    "satz": {
     "fr": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "de": "Je raconte une histoire pour s'endormir. Au bout de trois pages, je dors.",
     "luecke": "erzähle eine Gute-Nacht-Geschichte",
-    "audio": "audio/de-fr/saetze/ki_12.mp3"
+    "audio": "audio/de-fr/saetze/ki_12.mp3?v=b302d8ec"
    },
    "zeit": {
     "pc": {
      "fr": "Ich habe eine Gute-Nacht-Geschichte erzählt.",
-     "audio": "audio/de-fr/saetze/ki_12_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_12_pc.mp3?v=1c59903e"
     },
     "fp": {
      "fr": "Ich werde eine Gute-Nacht-Geschichte erzählen.",
-     "audio": "audio/de-fr/saetze/ki_12_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_12_fp.mp3?v=7c74c818"
     }
    }
   },
@@ -4430,21 +4430,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "weinen",
    "notiz": "weinen = pleurer ; lachen = rire ; heulen = pleurer bruyamment (familier). Attention : weinen (pleurer) – der Wein (le vin) – weinen n'a rien à voir avec le vin ! dann = puis.",
-   "audio": "audio/de-fr/wendungen/ki_13.mp3",
+   "audio": "audio/de-fr/wendungen/ki_13.mp3?v=4073b374",
    "satz": {
     "fr": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "de": "Le bébé pleure. Puis il rit. Puis il pleure. C'est un concert.",
     "luecke": "weint",
-    "audio": "audio/de-fr/saetze/ki_13.mp3"
+    "audio": "audio/de-fr/saetze/ki_13.mp3?v=767136d4"
    },
    "zeit": {
     "pc": {
      "fr": "Das Baby hat die ganze Nacht geweint.",
-     "audio": "audio/de-fr/saetze/ki_13_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_13_pc.mp3?v=dcede58a"
     },
     "fp": {
      "fr": "Das Baby wird weinen, und ich werde singen.",
-     "audio": "audio/de-fr/saetze/ki_13_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_13_fp.mp3?v=785f01ca"
     }
    }
   },
@@ -4456,12 +4456,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "beginnen",
    "notiz": "die Umarmung = l'étreinte, le câlin (umarmen = prendre dans les bras ; der Arm) ; familier : eine Umarmung = ein Drücker. vor der Schule = avant l'école (datif, temps). für beide = pour tous les deux.",
-   "audio": "audio/de-fr/wendungen/ki_14.mp3",
+   "audio": "audio/de-fr/wendungen/ki_14.mp3?v=b27f5ade",
    "satz": {
     "fr": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "de": "Un câlin avant l'école, et la journée commence bien. Pour les deux.",
     "luecke": "Umarmung",
-    "audio": "audio/de-fr/saetze/ki_14.mp3"
+    "audio": "audio/de-fr/saetze/ki_14.mp3?v=f9bd225c"
    },
    "zeit": null
   },
@@ -4473,21 +4473,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lernen",
    "notiz": "laufen lernen = apprendre à marcher (lernen + infinitif, sans zu) ; laufen = marcher, et aussi courir (rennen = courir vite). der Schritt = le pas ; der Sturz = la chute ; das Lachen = le rire. im Kleinen = en miniature.",
-   "audio": "audio/de-fr/wendungen/ki_15.mp3",
+   "audio": "audio/de-fr/wendungen/ki_15.mp3?v=84f9baf5",
    "satz": {
     "fr": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "de": "Elle apprend à marcher. Trois pas, une chute, un rire. C'est la vie en miniature.",
     "luecke": "lernt laufen",
-    "audio": "audio/de-fr/saetze/ki_15.mp3"
+    "audio": "audio/de-fr/saetze/ki_15.mp3?v=ebe53616"
    },
    "zeit": {
     "pc": {
      "fr": "Sie hat diesen Sommer laufen gelernt.",
-     "audio": "audio/de-fr/saetze/ki_15_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_15_pc.mp3?v=7d16b159"
     },
     "fp": {
      "fr": "Sie wird bald laufen lernen.",
-     "audio": "audio/de-fr/saetze/ki_15_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_15_fp.mp3?v=2eb85b4b"
     }
    }
   },
@@ -4499,12 +4499,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "stolz sein auf + accusatif (auf meine Schüler) – pas « de » ! der Stolz = la fierté. vor allem = surtout ; wenn sie es nicht wissen = subordonnée, verbe à la fin.",
-   "audio": "audio/de-fr/wendungen/ki_16.mp3",
+   "audio": "audio/de-fr/wendungen/ki_16.mp3?v=cd02a88b",
    "satz": {
     "fr": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "de": "Je suis fier de mes élèves. Surtout quand ils ne le savent pas.",
     "luecke": "stolz auf",
-    "audio": "audio/de-fr/saetze/ki_16.mp3"
+    "audio": "audio/de-fr/saetze/ki_16.mp3?v=eb447c92"
    },
    "zeit": null
   },
@@ -4516,12 +4516,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "das Wort, pluriel die Wörter (mots isolés) ; die ersten Wörter = adjectif décliné au pluriel (seine ersten). die Reihenfolge = l'ordre (die Reihe = la rangée + die Folge = la suite). in dieser Reihenfolge = datif.",
-   "audio": "audio/de-fr/wendungen/ki_17.mp3",
+   "audio": "audio/de-fr/wendungen/ki_17.mp3?v=847ac7fb",
    "satz": {
     "fr": "Seine ersten Wörter: « Papa », « Katze », « Nein ». In dieser Reihenfolge.",
     "de": "Ses premiers mots : « papa », « chat », « non ». Dans cet ordre.",
     "luecke": "ersten Wörter",
-    "audio": "audio/de-fr/saetze/ki_17.mp3"
+    "audio": "audio/de-fr/saetze/ki_17.mp3?v=06810ef9"
    },
    "zeit": null
   },
@@ -4533,21 +4533,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "die Geduld = la patience (geduldig = patient ; nur Geduld ! = patience !) ; man muss = il faut (müssen). ich habe welche = j'en ai (welche = pronom indéfini). mit Kindern = datif pluriel.",
-   "audio": "audio/de-fr/wendungen/ki_18.mp3",
+   "audio": "audio/de-fr/wendungen/ki_18.mp3?v=2bce0404",
    "satz": {
     "fr": "Mit Kindern muss man Geduld haben. Ich habe welche. Sie endet um fünf.",
     "de": "Avec les enfants, il faut avoir de la patience. J'en ai. Elle finit à dix-sept heures.",
     "luecke": "muss man Geduld haben",
-    "audio": "audio/de-fr/saetze/ki_18.mp3"
+    "audio": "audio/de-fr/saetze/ki_18.mp3?v=df09a07c"
    },
    "zeit": {
     "pc": {
      "fr": "Ich hatte den ganzen Tag Geduld.",
-     "audio": "audio/de-fr/saetze/ki_18_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_18_pc.mp3?v=c01f76a8"
     },
     "fp": {
      "fr": "Ich werde Geduld haben. Bis mittags.",
-     "audio": "audio/de-fr/saetze/ki_18_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_18_fp.mp3?v=1eb494a2"
     }
    }
   },
@@ -4559,12 +4559,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "geben",
    "notiz": "der Nachmittagssnack = le goûter (Nachmittag + Snack, anglicisme) ; plus traditionnel : die Vesper (sud), das Kaffeetrinken (le café-gâteau de 16 h, institution allemande !). aus Solidarität = par solidarité (aus + datif).",
-   "audio": "audio/de-fr/wendungen/ki_19.mp3",
+   "audio": "audio/de-fr/wendungen/ki_19.mp3?v=5a86d88d",
    "satz": {
     "fr": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "de": "À seize heures, c'est le goûter. Pour les enfants. Et pour moi, par solidarité.",
     "luecke": "Nachmittagssnack",
-    "audio": "audio/de-fr/saetze/ki_19.mp3"
+    "audio": "audio/de-fr/saetze/ki_19.mp3?v=1c91f657"
    },
    "zeit": null
   },
@@ -4576,21 +4576,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "lachen",
    "notiz": "schallend = retentissant (der Schall = le son) ; schallend lachen = rire aux éclats ; aussi : sich kaputtlachen (familier). niesen = éternuer. übrigens = d'ailleurs, au fait.",
-   "audio": "audio/de-fr/wendungen/ki_20.mp3",
+   "audio": "audio/de-fr/wendungen/ki_20.mp3?v=04dedae7",
    "satz": {
     "fr": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "de": "Le bébé rit aux éclats quand le chat éternue. Moi aussi, d'ailleurs.",
     "luecke": "lacht schallend",
-    "audio": "audio/de-fr/saetze/ki_20.mp3"
+    "audio": "audio/de-fr/saetze/ki_20.mp3?v=b1b2a0d7"
    },
    "zeit": {
     "pc": {
      "fr": "Das Baby hat schallend gelacht.",
-     "audio": "audio/de-fr/saetze/ki_20_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_20_pc.mp3?v=305cd05e"
     },
     "fp": {
      "fr": "Das Baby wird schallend lachen.",
-     "audio": "audio/de-fr/saetze/ki_20_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_20_fp.mp3?v=1776c29a"
     }
    }
   },
@@ -4602,21 +4602,21 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "halten",
    "notiz": "der Mittagsschlaf = la sieste (Mittag + Schlaf) ; Mittagsschlaf halten ou machen ; aussi : ein Nickerchen machen. die Kleinen / die Großen = adjectifs substantivés. heimlich = en cachette.",
-   "audio": "audio/de-fr/wendungen/ki_21.mp3",
+   "audio": "audio/de-fr/wendungen/ki_21.mp3?v=c8c99456",
    "satz": {
     "fr": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "de": "Les petits font la sieste. Les grands aussi, en secret.",
     "luecke": "halten Mittagsschlaf",
-    "audio": "audio/de-fr/saetze/ki_21.mp3"
+    "audio": "audio/de-fr/saetze/ki_21.mp3?v=619770e1"
    },
    "zeit": {
     "pc": {
      "fr": "Die Kleinen haben Mittagsschlaf gehalten.",
-     "audio": "audio/de-fr/saetze/ki_21_pc.mp3"
+     "audio": "audio/de-fr/saetze/ki_21_pc.mp3?v=d8b58243"
     },
     "fp": {
      "fr": "Die Kleinen werden Mittagsschlaf halten.",
-     "audio": "audio/de-fr/saetze/ki_21_fp.mp3"
+     "audio": "audio/de-fr/saetze/ki_21_fp.mp3?v=d5fd9bfe"
     }
    }
   },
@@ -4628,12 +4628,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "im Dunkeln = dans le noir (adjectif substantivé : das Dunkel) ; aussi : Angst vor der Dunkelheit haben. offen lassen = laisser ouvert. Wache halten = monter la garde (die Wache = la garde).",
-   "audio": "audio/de-fr/wendungen/ki_22.mp3",
+   "audio": "audio/de-fr/wendungen/ki_22.mp3?v=27a63ffb",
    "satz": {
     "fr": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze hält Wache.",
     "de": "Il a peur du noir. Alors on laisse la porte ouverte. Et le chat de garde.",
     "luecke": "hat Angst im Dunkeln",
-    "audio": "audio/de-fr/saetze/ki_22.mp3"
+    "audio": "audio/de-fr/saetze/ki_22.mp3?v=ffcb371a"
    },
    "zeit": null
   },
@@ -4645,12 +4645,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Badezeit = l'heure du bain (baden = se baigner + Zeit) ; auch : Zeit fürs Bad. nass = mouillé. die, die … = ceux qui (relative : verbe à la fin, baden).",
-   "audio": "audio/de-fr/wendungen/ki_23.mp3",
+   "audio": "audio/de-fr/wendungen/ki_23.mp3?v=0b62ecb2",
    "satz": {
     "fr": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "de": "C'est l'heure du bain ! Tout le monde est mouillé. Même ceux qui ne se baignent pas.",
     "luecke": "Badezeit",
-    "audio": "audio/de-fr/saetze/ki_23.mp3"
+    "audio": "audio/de-fr/saetze/ki_23.mp3?v=63df3b2a"
    },
    "zeit": null
   },
@@ -4662,12 +4662,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "sein",
    "notiz": "l'âge avec sein : wie alt ist … ? ; er ist zwei Jahre alt = il a deux ans (pas « haben » !). Ihr Kind = votre enfant (majuscule, vouvoiement). bezaubernd = adorable, charmant. der Zahn, die Zähne = la dent, les dents.",
-   "audio": "audio/de-fr/wendungen/ki_24.mp3",
+   "audio": "audio/de-fr/wendungen/ki_24.mp3?v=fc15c957",
    "satz": {
     "fr": "Es ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "de": "Il est adorable. Quel âge a votre enfant ? – Quatorze mois. Et quatre dents.",
     "luecke": "Wie alt ist Ihr Kind",
-    "audio": "audio/de-fr/saetze/ki_24.mp3"
+    "audio": "audio/de-fr/saetze/ki_24.mp3?v=d168a44c"
    },
    "zeit": null
   },
@@ -4679,12 +4679,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "unterrichten",
    "notiz": "das Gymnasium = le lycée (filière générale, de la 5e à la terminale) ; le gymnase = die Turnhalle, die Sporthalle. am Gymnasium = an dem Gymnasium (lieu de travail : an).",
-   "audio": "audio/de-fr/wendungen/ff_01.mp3",
+   "audio": "audio/de-fr/wendungen/ff_01.mp3?v=4024b0fe",
    "satz": {
     "fr": "Ich unterrichte am Gymnasium. Nicht in der Turnhalle. Im Gymnasium.",
     "de": "J'enseigne au lycée. Pas dans un gymnase. Au Gymnasium.",
     "luecke": "Gymnasium",
-    "audio": "audio/de-fr/saetze/ff_01.mp3"
+    "audio": "audio/de-fr/saetze/ff_01.mp3?v=29c501f5"
    },
    "zeit": null
   },
@@ -4696,12 +4696,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "die Rente = la retraite, la pension (der Rentner = le retraité) ; in Rente gehen = partir à la retraite. La rente (revenu du capital) = die Rendite, das Kapitaleinkommen. mit siebenundsechzig = à soixante-sept ans.",
-   "audio": "audio/de-fr/wendungen/ff_02.mp3",
+   "audio": "audio/de-fr/wendungen/ff_02.mp3?v=62eda596",
    "satz": {
     "fr": "Mit siebenundsechzig gehe ich in Rente. Nicht von meinen Renten leben. In Rente gehen.",
     "de": "À soixante-sept ans, je pars à la retraite. Pas vivre de mes rentes. Partir à la retraite.",
     "luecke": "Rente",
-    "audio": "audio/de-fr/saetze/ff_02.mp3"
+    "audio": "audio/de-fr/saetze/ff_02.mp3?v=6c5e4f31"
    },
    "zeit": null
   },
@@ -4713,12 +4713,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Figur = la silhouette, la ligne (eine gute Figur haben = avoir une belle ligne), et le personnage (d'un roman) ; le visage = das Gesicht. gut für + accusatif.",
-   "audio": "audio/de-fr/wendungen/ff_03.mp3",
+   "audio": "audio/de-fr/wendungen/ff_03.mp3?v=20b473e5",
    "satz": {
     "fr": "Kung-Fu ist gut für die Figur. Für das Gesicht hilft es weniger.",
     "de": "Le kung-fu, c'est bon pour la silhouette. Pour le visage, ça aide moins.",
     "luecke": "Figur",
-    "audio": "audio/de-fr/saetze/ff_03.mp3"
+    "audio": "audio/de-fr/saetze/ff_03.mp3?v=dee8a7fb"
    },
    "zeit": null
   },
@@ -4730,12 +4730,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "bestellen",
    "notiz": "das Baiser (prononcé à la française, neutre) = la meringue ! Le baiser = der Kuss ; embrasser = küssen. Le faux ami le plus dangereux de la boulangerie. bestellen = commander.",
-   "audio": "audio/de-fr/wendungen/ff_04.mp3",
+   "audio": "audio/de-fr/wendungen/ff_04.mp3?v=492a723e",
    "satz": {
     "fr": "In der Bäckerei bestelle ich ein Baiser. Ein Baiser ist eine Meringue. Keine Verwechslung bitte.",
     "de": "À la boulangerie, je commande un « Baiser ». Un Baiser, c'est une meringue. Pas de confusion, s'il vous plaît.",
     "luecke": "Baiser",
-    "audio": "audio/de-fr/saetze/ff_04.mp3"
+    "audio": "audio/de-fr/saetze/ff_04.mp3?v=7ae90eda"
    },
    "zeit": null
   },
@@ -4747,12 +4747,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "hängen",
    "notiz": "die Garderobe = le vestiaire (théâtre, restaurant) et le portemanteau (à l'entrée) ; la garde-robe = der Kleiderschrank (armoire) ou die Kleidung. der Flur = le couloir (maison).",
-   "audio": "audio/de-fr/wendungen/ff_05.mp3",
+   "audio": "audio/de-fr/wendungen/ff_05.mp3?v=04058630",
    "satz": {
     "fr": "Die Jacke hängt an der Garderobe. Im Theater und auch bei mir im Flur.",
     "de": "La veste est accrochée au vestiaire. Au théâtre, et aussi chez moi dans le couloir.",
     "luecke": "Garderobe",
-    "audio": "audio/de-fr/saetze/ff_05.mp3"
+    "audio": "audio/de-fr/saetze/ff_05.mp3?v=071eaac9"
    },
    "zeit": null
   },
@@ -4764,12 +4764,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Chef = le patron, le supérieur (die Chefin au féminin) ; le chef de cuisine = der Koch, der Küchenchef ; le chef d'orchestre = der Dirigent. der Schulleiter = le proviseur, le directeur.",
-   "audio": "audio/de-fr/wendungen/ff_06.mp3",
+   "audio": "audio/de-fr/wendungen/ff_06.mp3?v=1a474234",
    "satz": {
     "fr": "Mein Chef ist der Schulleiter. Er kocht nicht. Hoffentlich.",
     "de": "Mon « Chef », c'est le proviseur. Il ne cuisine pas. Espérons.",
     "luecke": "Chef",
-    "audio": "audio/de-fr/saetze/ff_06.mp3"
+    "audio": "audio/de-fr/saetze/ff_06.mp3?v=f70c3ca2"
    },
    "zeit": null
   },
@@ -4781,12 +4781,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "stehen",
    "notiz": "das Regal = l'étagère (das Bücherregal) ; le régal = der Genuss, die Köstlichkeit. stehen = être (debout, posé) : les livres « stehen », l'assiette « steht ». der Unterschied = la différence.",
-   "audio": "audio/de-fr/wendungen/ff_07.mp3",
+   "audio": "audio/de-fr/wendungen/ff_07.mp3?v=3e55f8dc",
    "satz": {
     "fr": "Die Bücher stehen im Regal. Das Essen steht auf dem Tisch. Das ist der Unterschied.",
     "de": "Les livres sont sur l'étagère. Le repas est sur la table. Voilà la différence.",
     "luecke": "Regal",
-    "audio": "audio/de-fr/saetze/ff_07.mp3"
+    "audio": "audio/de-fr/saetze/ff_07.mp3?v=a23fa08b"
    },
    "zeit": null
   },
@@ -4798,12 +4798,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "das Gift = le poison (giftig = toxique, venimeux) ; le cadeau = das Geschenk (schenken = offrir). Faux ami avec l'anglais gift – et avec le mot allemand ancien « Gift » = don (survit dans die Mitgift, la dot !).",
-   "audio": "audio/de-fr/wendungen/ff_08.mp3",
+   "audio": "audio/de-fr/wendungen/ff_08.mp3?v=aaa58ccb",
    "satz": {
     "fr": "Vorsicht: « Gift » ist Gift. Kein Geschenk. Ein Geschenk ist ein Geschenk.",
     "de": "Attention : « Gift », c'est du poison. Pas un cadeau. Un cadeau, c'est un Geschenk.",
     "luecke": "Gift",
-    "audio": "audio/de-fr/saetze/ff_08.mp3"
+    "audio": "audio/de-fr/saetze/ff_08.mp3?v=9aabcbbe"
    },
    "zeit": null
   },
@@ -4815,12 +4815,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "brav = sage, obéissant (surtout pour enfants et animaux) ; courageux = mutig, tapfer. Même faux ami qu'en italien (bravo) et en espagnol (bravo = féroce). warten = attendre.",
-   "audio": "audio/de-fr/wendungen/ff_09.mp3",
+   "audio": "audio/de-fr/wendungen/ff_09.mp3?v=8ff3f707",
    "satz": {
     "fr": "Der Hund ist brav. Nicht mutig. Brav. Er sitzt und wartet.",
     "de": "Le chien est sage. Pas courageux. Sage. Il est assis et il attend.",
     "luecke": "brav",
-    "audio": "audio/de-fr/saetze/ff_09.mp3"
+    "audio": "audio/de-fr/saetze/ff_09.mp3?v=beb33664"
    },
    "zeit": null
   },
@@ -4832,12 +4832,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "kommen",
    "notiz": "der Rat = le conseil (einen Rat geben = donner un conseil ; der Ratschlag) et le conseil (municipal : der Stadtrat) ; le rat = die Ratte. das Nagetier = le rongeur. lies ! = impératif de lesen.",
-   "audio": "audio/de-fr/wendungen/ff_10.mp3",
+   "audio": "audio/de-fr/wendungen/ff_10.mp3?v=df4ca309",
    "satz": {
     "fr": "Mein Rat: Lies das Buch. Der Rat kommt von mir, nicht vom Nagetier.",
     "de": "Mon conseil : lis le livre. Le conseil vient de moi, pas du rongeur.",
     "luecke": "Rat",
-    "audio": "audio/de-fr/saetze/ff_10.mp3"
+    "audio": "audio/de-fr/saetze/ff_10.mp3?v=a861d335"
    },
    "zeit": null
   },
@@ -4849,12 +4849,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "das Fest = la fête (feiern = fêter ; das Volksfest, das Weihnachtsfest) ; fest (adjectif) = ferme, solide, fixe (ein fester Termin = un rendez-vous fixe). obwohl = bien que ; ici « quoique ».",
-   "audio": "audio/de-fr/wendungen/ff_11.mp3",
+   "audio": "audio/de-fr/wendungen/ff_11.mp3?v=3db794a4",
    "satz": {
     "fr": "Am Samstag ist ein Fest. Ein Fest, nicht etwas Festes. Obwohl: Das Essen ist fest.",
     "de": "Samedi, il y a une fête. Une fête, pas quelque chose de ferme. Quoique : la nourriture est solide.",
     "luecke": "Fest",
-    "audio": "audio/de-fr/saetze/ff_11.mp3"
+    "audio": "audio/de-fr/saetze/ff_11.mp3?v=b004028e"
    },
    "zeit": null
   },
@@ -4866,12 +4866,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "trinken",
    "notiz": "die Tasse = la tasse (vrai ami !) mais attention : das Glas = le verre, der Becher = le gobelet, le mug. eine Tasse Kaffee = une tasse de café (sans « de » : apposition). schon gar nicht = encore moins.",
-   "audio": "audio/de-fr/wendungen/ff_12.mp3",
+   "audio": "audio/de-fr/wendungen/ff_12.mp3?v=9257ee32",
    "satz": {
     "fr": "Eine Tasse Kaffee, bitte. Eine Tasse, kein Glas. Und schon gar nicht eine Tasse Wein.",
     "de": "Une tasse de café, s'il vous plaît. Une tasse, pas un verre. Et surtout pas une tasse de vin.",
     "luecke": "Tasse",
-    "audio": "audio/de-fr/saetze/ff_12.mp3"
+    "audio": "audio/de-fr/saetze/ff_12.mp3?v=e35aa395"
    },
    "zeit": null
   },
@@ -4883,12 +4883,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "geben",
    "notiz": "das Dessert (prononcé à la française, aussi der Nachtisch) = le dessert ; le désert = die Wüste. zum Dessert = en dessert (zu dem). beides = les deux (choses).",
-   "audio": "audio/de-fr/wendungen/ff_13.mp3",
+   "audio": "audio/de-fr/wendungen/ff_13.mp3?v=81d33d66",
    "satz": {
     "fr": "Zum Dessert gibt es Kuchen. In der Wüste gibt es Sand. Beides mit einem s, aber anders.",
     "de": "En dessert, il y a du gâteau. Dans le désert, il y a du sable. Les deux avec un s, mais différemment.",
     "luecke": "Dessert",
-    "audio": "audio/de-fr/saetze/ff_13.mp3"
+    "audio": "audio/de-fr/saetze/ff_13.mp3?v=6166086b"
    },
    "zeit": null
   },
@@ -4900,12 +4900,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "sensibel = sensible, délicat (vrai ami avec le français, faux ami avec l'anglais sensible = vernünftig) ; empfindlich = sensible (à la douleur, au froid). vernünftig = raisonnable (die Vernunft = la raison).",
-   "audio": "audio/de-fr/wendungen/ff_14.mp3",
+   "audio": "audio/de-fr/wendungen/ff_14.mp3?v=7fe19fb5",
    "satz": {
     "fr": "Meine Katze ist sensibel. Nicht vernünftig. Sensibel.",
     "de": "Mon chat est sensible. Pas raisonnable. Sensible.",
     "luecke": "sensibel",
-    "audio": "audio/de-fr/saetze/ff_14.mp3"
+    "audio": "audio/de-fr/saetze/ff_14.mp3?v=b172425e"
    },
    "zeit": null
   },
@@ -4917,12 +4917,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "das Fach = la matière (das Schulfach), la discipline (der Fachlehrer = le prof de la matière), et aussi le compartiment, le casier (das Schließfach). bedeuten = signifier. die Schublade = le tiroir.",
-   "audio": "audio/de-fr/wendungen/ff_15.mp3",
+   "audio": "audio/de-fr/wendungen/ff_15.mp3?v=f5bde25b",
    "satz": {
     "fr": "Mein Fach ist Englisch. Fach bedeutet hier Schulfach, nicht Schublade. Obwohl die auch Fach heißt.",
     "de": "Ma matière, c'est l'anglais. Fach veut dire ici matière scolaire, pas tiroir. Quoique le tiroir s'appelle aussi Fach.",
     "luecke": "Fach",
-    "audio": "audio/de-fr/saetze/ff_15.mp3"
+    "audio": "audio/de-fr/saetze/ff_15.mp3?v=f6a07151"
    },
    "zeit": null
   },
@@ -4934,12 +4934,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Note = la note (école, et aussi musique) – mais en Allemagne, les notes vont de 1 (sehr gut) à 6 (ungenügend) : c'est le 1 qu'on veut ! umgekehrt = à l'inverse. die Katastrophe = la catastrophe (prononcé avec « k »).",
-   "audio": "audio/de-fr/wendungen/ff_16.mp3",
+   "audio": "audio/de-fr/wendungen/ff_16.mp3?v=bb123daf",
    "satz": {
     "fr": "Die beste Note ist die Eins. Die Sechs ist eine Katastrophe. Umgekehrt zu Frankreich.",
     "de": "La meilleure note est le 1. Le 6, c'est une catastrophe. À l'inverse de la France.",
     "luecke": "Note",
-    "audio": "audio/de-fr/saetze/ff_16.mp3"
+    "audio": "audio/de-fr/saetze/ff_16.mp3?v=0f239b75"
    },
    "zeit": null
   },
@@ -4951,12 +4951,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "die Konkurrenz = la concurrence (der Konkurrent = le concurrent) ; le concours = der Wettbewerb (sport, prix) ou die Aufnahmeprüfung (examen). nebenan = d'à côté.",
-   "audio": "audio/de-fr/wendungen/ff_17.mp3",
+   "audio": "audio/de-fr/wendungen/ff_17.mp3?v=7a3bd81a",
    "satz": {
     "fr": "Die Bäckerei nebenan ist Konkurrenz. Kein Wettbewerb. Konkurrenz.",
     "de": "La boulangerie d'à côté, c'est de la concurrence. Pas un concours. De la concurrence.",
     "luecke": "Konkurrenz",
-    "audio": "audio/de-fr/saetze/ff_17.mp3"
+    "audio": "audio/de-fr/saetze/ff_17.mp3?v=f356b4ff"
    },
    "zeit": null
   },
@@ -4968,12 +4968,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "die Direktion = la direction (l'organe, les bureaux) ; la direction (le sens) = die Richtung (in Richtung Bahnhof = en direction de la gare). in die Direktion = accusatif (direction !).",
-   "audio": "audio/de-fr/wendungen/ff_18.mp3",
+   "audio": "audio/de-fr/wendungen/ff_18.mp3?v=0e0c53eb",
    "satz": {
     "fr": "Ich gehe in die Direktion. Zum Schulleiter. Nicht in eine Richtung.",
     "de": "Je vais à la direction. Chez le proviseur. Pas dans une direction.",
     "luecke": "Direktion",
-    "audio": "audio/de-fr/saetze/ff_18.mp3"
+    "audio": "audio/de-fr/saetze/ff_18.mp3?v=37098041"
    },
    "zeit": null
   },
@@ -4985,12 +4985,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "haben",
    "notiz": "die Mappe = le classeur, la chemise, le cartable (die Schulmappe) ; la carte = die Landkarte, die Karte (faux ami avec l'anglais map). der Teppich = le tapis. pro Klasse = par classe.",
-   "audio": "audio/de-fr/wendungen/ff_19.mp3",
+   "audio": "audio/de-fr/wendungen/ff_19.mp3?v=531cf160",
    "satz": {
     "fr": "Ich habe eine Mappe pro Klasse. Auf dem Boden einen Teppich. An der Wand eine Landkarte.",
     "de": "J'ai une pochette par classe. Sur le sol, un tapis. Au mur, une carte.",
     "luecke": "Mappe",
-    "audio": "audio/de-fr/saetze/ff_19.mp3"
+    "audio": "audio/de-fr/saetze/ff_19.mp3?v=391cd5ec"
    },
    "zeit": null
   },
@@ -5002,12 +5002,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "machen",
    "notiz": "die Promotion = le doctorat, la soutenance de thèse (promovieren = passer son doctorat) ; la promotion (commerce) = das Sonderangebot, die Aktion ; la promotion (au travail) = die Beförderung. die Doktorarbeit = la thèse.",
-   "audio": "audio/de-fr/wendungen/ff_20.mp3",
+   "audio": "audio/de-fr/wendungen/ff_20.mp3?v=5b4a49c1",
    "satz": {
     "fr": "Meine Kollegin macht ihre Promotion. Sie schreibt eine Doktorarbeit. Kein Sonderangebot.",
     "de": "Ma collègue fait sa « Promotion ». Elle écrit une thèse. Pas une offre spéciale.",
     "luecke": "Promotion",
-    "audio": "audio/de-fr/saetze/ff_20.mp3"
+    "audio": "audio/de-fr/saetze/ff_20.mp3?v=90cc613e"
    },
    "zeit": null
   },
@@ -5019,12 +5019,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "nehmen",
    "notiz": "die Prise = la pincée (eine Prise Salz) ; la prise électrique = die Steckdose (au mur) et der Stecker (la fiche). an der Wand = au mur (datif).",
-   "audio": "audio/de-fr/wendungen/ff_21.mp3",
+   "audio": "audio/de-fr/wendungen/ff_21.mp3?v=ba817ccf",
    "satz": {
     "fr": "Eine Prise Salz. Eine Prise, kein Stecker. Die Steckdose ist an der Wand.",
     "de": "Une pincée de sel. Une pincée, pas une prise électrique. La prise est au mur.",
     "luecke": "Prise",
-    "audio": "audio/de-fr/saetze/ff_21.mp3"
+    "audio": "audio/de-fr/saetze/ff_21.mp3?v=70dc4d09"
    },
    "zeit": null
   },
@@ -5036,12 +5036,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "sein",
    "notiz": "der Stock = l'étage (im ersten Stock = au premier ; aussi : das Stockwerk, die Etage) et le bâton ! Le stock = das Lager, der Vorrat. im Erdgeschoss = au rez-de-chaussée.",
-   "audio": "audio/de-fr/wendungen/ff_22.mp3",
+   "audio": "audio/de-fr/wendungen/ff_22.mp3?v=eeafbf83",
    "satz": {
     "fr": "Das Lehrerzimmer ist im ersten Stock. Nicht im Lager. Im ersten Stock.",
     "de": "La salle des profs est au premier étage. Pas en réserve. Au premier étage.",
     "luecke": "Stock",
-    "audio": "audio/de-fr/saetze/ff_22.mp3"
+    "audio": "audio/de-fr/saetze/ff_22.mp3?v=a846f732"
    },
    "zeit": null
   },
@@ -5053,12 +5053,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "tu",
    "anker": "gehen",
    "notiz": "der Salon = le salon de coiffure (der Friseursalon), de beauté, ou le salon (exposition : die Messe, plus courant) ; le salon de la maison = das Wohnzimmer. der Friseur = le coiffeur.",
-   "audio": "audio/de-fr/wendungen/ff_23.mp3",
+   "audio": "audio/de-fr/wendungen/ff_23.mp3?v=07f83fb1",
    "satz": {
     "fr": "Ich gehe in den Salon. Zum Friseur. Das Wohnzimmer heißt nicht Salon. Meistens.",
     "de": "Je vais au « Salon ». Chez le coiffeur. Le salon (de la maison) ne s'appelle pas Salon. Le plus souvent.",
     "luecke": "Salon",
-    "audio": "audio/de-fr/saetze/ff_23.mp3"
+    "audio": "audio/de-fr/saetze/ff_23.mp3?v=5bde01a7"
    },
    "zeit": null
   },
@@ -5070,12 +5070,12 @@ window.SPRACHEN["de-fr"] = {
    "register": "vous",
    "anker": "suchen",
    "notiz": "die Bibliothek = la bibliothèque (aussi : die Bücherei, municipale) ; die Buchhandlung = la librairie – ici, pas de faux ami, mais la même scène que dans les autres langues. suchen = chercher (sans préposition). kostenlos = gratuit.",
-   "audio": "audio/de-fr/wendungen/ff_24.mp3",
+   "audio": "audio/de-fr/wendungen/ff_24.mp3?v=f5e2e074",
    "satz": {
     "fr": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
     "de": "Excusez-moi, je cherche la bibliothèque. – La librairie ? – Non, la bibliothèque. Avec les livres gratuits.",
     "luecke": "suche die Bibliothek",
-    "audio": "audio/de-fr/saetze/ff_24.mp3"
+    "audio": "audio/de-fr/saetze/ff_24.mp3?v=21cd87fa"
    },
    "zeit": null
   }
@@ -5091,70 +5091,70 @@ window.SPRACHEN["de-fr"] = {
      "rolle": "B",
      "fr": "Hallo Alex! Lange nicht gesehen!",
      "de": "Salut Alex ! Ça fait longtemps !",
-     "audio": "audio/de-fr/dialoge/d1_01.mp3"
+     "audio": "audio/de-fr/dialoge/d1_01.mp3?v=311ef2ad"
     },
     {
      "id": "d1_02",
      "rolle": "A",
      "fr": "Hallo Aurélien. Drei Tage. Aber ja, eine Ewigkeit.",
      "de": "Salut Aurélien. Trois jours. Mais oui, une éternité.",
-     "audio": "audio/de-fr/dialoge/d1_02.mp3"
+     "audio": "audio/de-fr/dialoge/d1_02.mp3?v=13e51fd5"
     },
     {
      "id": "d1_03",
      "rolle": "B",
      "fr": "Und, deine Stunde mit der Neunten, wie ist es gelaufen?",
      "de": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
-     "audio": "audio/de-fr/dialoge/d1_03.mp3"
+     "audio": "audio/de-fr/dialoge/d1_03.mp3?v=1c849290"
     },
     {
      "id": "d1_04",
      "rolle": "A",
      "fr": "Sehr gut. Sie haben geschlafen. Ich fast auch.",
      "de": "Très bien. Ils ont dormi. Moi aussi, presque.",
-     "audio": "audio/de-fr/dialoge/d1_04.mp3"
+     "audio": "audio/de-fr/dialoge/d1_04.mp3?v=eba7829d"
     },
     {
      "id": "d1_05",
      "rolle": "B",
      "fr": "Ich kriege sie freitags kaum ruhig.",
      "de": "Moi, j'ai du mal à les faire taire le vendredi.",
-     "audio": "audio/de-fr/dialoge/d1_05.mp3"
+     "audio": "audio/de-fr/dialoge/d1_05.mp3?v=ebb63372"
     },
     {
      "id": "d1_06",
      "rolle": "A",
      "fr": "Ganz einfach. Du redest über Grammatik. Totenstille.",
      "de": "Facile. Tu parles de grammaire. Silence total.",
-     "audio": "audio/de-fr/dialoge/d1_06.mp3"
+     "audio": "audio/de-fr/dialoge/d1_06.mp3?v=05ebda12"
     },
     {
      "id": "d1_07",
      "rolle": "B",
      "fr": "Und du? Bist du nicht fix und fertig?",
      "de": "Et toi, tu n'es pas crevé ?",
-     "audio": "audio/de-fr/dialoge/d1_07.mp3"
+     "audio": "audio/de-fr/dialoge/d1_07.mp3?v=08919dac"
     },
     {
      "id": "d1_08",
      "rolle": "A",
      "fr": "Doch. Also korrigiere ich heute Abend Klassenarbeiten… vor einem Film.",
      "de": "Si. Du coup, ce soir, je corrige des copies… devant un film.",
-     "audio": "audio/de-fr/dialoge/d1_08.mp3"
+     "audio": "audio/de-fr/dialoge/d1_08.mp3?v=224899e5"
     },
     {
      "id": "d1_09",
      "rolle": "B",
      "fr": "Ein guter Film?",
      "de": "Un bon film ?",
-     "audio": "audio/de-fr/dialoge/d1_09.mp3"
+     "audio": "audio/de-fr/dialoge/d1_09.mp3?v=8fc571f9"
     },
     {
      "id": "d1_10",
      "rolle": "A",
      "fr": "Keine Ahnung. Ich schaue die Klassenarbeiten an.",
      "de": "Je ne sais pas. Je regarde les copies.",
-     "audio": "audio/de-fr/dialoge/d1_10.mp3"
+     "audio": "audio/de-fr/dialoge/d1_10.mp3?v=e0c06162"
     }
    ]
   },
@@ -5168,70 +5168,70 @@ window.SPRACHEN["de-fr"] = {
      "rolle": "A",
      "fr": "Alles klar, Aurélien? Du siehst düster aus.",
      "de": "Ça va, Aurélien ? Tu as l'air sombre.",
-     "audio": "audio/de-fr/dialoge/d2_01.mp3"
+     "audio": "audio/de-fr/dialoge/d2_01.mp3?v=54bd1e04"
     },
     {
      "id": "d2_02",
      "rolle": "B",
      "fr": "Ich habe einen Hänger. Meine Katze schaut mich nicht mehr an.",
      "de": "J'ai le cafard. Mon chat ne me regarde plus.",
-     "audio": "audio/de-fr/dialoge/d2_02.mp3"
+     "audio": "audio/de-fr/dialoge/d2_02.mp3?v=06ad191a"
     },
     {
      "id": "d2_03",
      "rolle": "A",
      "fr": "Seit wann?",
      "de": "Depuis quand ?",
-     "audio": "audio/de-fr/dialoge/d2_03.mp3"
+     "audio": "audio/de-fr/dialoge/d2_03.mp3?v=a4528b6b"
     },
     {
      "id": "d2_04",
      "rolle": "B",
      "fr": "Seit ich auf Deutsch gesungen habe.",
      "de": "Depuis que j'ai chanté en allemand.",
-     "audio": "audio/de-fr/dialoge/d2_04.mp3"
+     "audio": "audio/de-fr/dialoge/d2_04.mp3?v=33310db8"
     },
     {
      "id": "d2_05",
      "rolle": "A",
      "fr": "Ah. Und welches Lied war es?",
      "de": "Ah. Et c'était quelle chanson ?",
-     "audio": "audio/de-fr/dialoge/d2_05.mp3"
+     "audio": "audio/de-fr/dialoge/d2_05.mp3?v=9b50f153"
     },
     {
      "id": "d2_06",
      "rolle": "B",
      "fr": "« Ein bisschen Frieden ». Zweimal.",
      "de": "« Ein bisschen Frieden ». Deux fois.",
-     "audio": "audio/de-fr/dialoge/d2_06.mp3"
+     "audio": "audio/de-fr/dialoge/d2_06.mp3?v=41cf31f4"
     },
     {
      "id": "d2_07",
      "rolle": "A",
      "fr": "Aurélien… das bricht mir das Herz, aber deine Katze hat recht.",
      "de": "Aurélien… ça me fend le cœur, mais ton chat a raison.",
-     "audio": "audio/de-fr/dialoge/d2_07.mp3"
+     "audio": "audio/de-fr/dialoge/d2_07.mp3?v=4e92d18c"
     },
     {
      "id": "d2_08",
      "rolle": "B",
      "fr": "Findest du das unheimlich?",
      "de": "Tu trouves ça inquiétant ?",
-     "audio": "audio/de-fr/dialoge/d2_08.mp3"
+     "audio": "audio/de-fr/dialoge/d2_08.mp3?v=4b1fec52"
     },
     {
      "id": "d2_09",
      "rolle": "A",
      "fr": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
      "de": "Non. Je trouve ça apaisant. Pour le chat, c'est fini.",
-     "audio": "audio/de-fr/dialoge/d2_09.mp3"
+     "audio": "audio/de-fr/dialoge/d2_09.mp3?v=0fab4324"
     },
     {
      "id": "d2_10",
      "rolle": "B",
      "fr": "Danke, Alex. Das geht mir nahe. Glaube ich.",
      "de": "Merci, Alex. Ça me touche. Je crois.",
-     "audio": "audio/de-fr/dialoge/d2_10.mp3"
+     "audio": "audio/de-fr/dialoge/d2_10.mp3?v=ae3ff57b"
     }
    ]
   }
@@ -5350,56 +5350,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "Hund",
      "de": "chien",
      "klang": "h",
-     "audio": "audio/de-fr/laute/h_01.mp3"
+     "audio": "audio/de-fr/laute/h_01.mp3?v=1ac04c22"
     },
     {
      "id": "h_02",
      "wort": "Haus",
      "de": "maison",
      "klang": "h",
-     "audio": "audio/de-fr/laute/h_02.mp3"
+     "audio": "audio/de-fr/laute/h_02.mp3?v=da5c90de"
     },
     {
      "id": "h_03",
      "wort": "hier",
      "de": "ici",
      "klang": "h",
-     "audio": "audio/de-fr/laute/h_03.mp3"
+     "audio": "audio/de-fr/laute/h_03.mp3?v=ff196429"
     },
     {
      "id": "h_04",
      "wort": "Hand",
      "de": "main",
      "klang": "h",
-     "audio": "audio/de-fr/laute/h_04.mp3"
+     "audio": "audio/de-fr/laute/h_04.mp3?v=e50f9f62"
     },
     {
      "id": "h_05",
      "wort": "haben",
      "de": "avoir",
      "klang": "h",
-     "audio": "audio/de-fr/laute/h_05.mp3"
+     "audio": "audio/de-fr/laute/h_05.mp3?v=88a712eb"
     },
     {
      "id": "h_06",
      "wort": "Hallo",
      "de": "salut",
      "klang": "h",
-     "audio": "audio/de-fr/laute/h_06.mp3"
+     "audio": "audio/de-fr/laute/h_06.mp3?v=50734fca"
     },
     {
      "id": "h_07",
      "wort": "Herz",
      "de": "cœur",
      "klang": "h",
-     "audio": "audio/de-fr/laute/h_07.mp3"
+     "audio": "audio/de-fr/laute/h_07.mp3?v=df773d4a"
     },
     {
      "id": "h_08",
      "wort": "hoffen",
      "de": "espérer",
      "klang": "h",
-     "audio": "audio/de-fr/laute/h_08.mp3"
+     "audio": "audio/de-fr/laute/h_08.mp3?v=8025c834"
     }
    ],
    "ich": [
@@ -5408,56 +5408,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "ich",
      "de": "je",
      "klang": "ich",
-     "audio": "audio/de-fr/laute/ich_01.mp3"
+     "audio": "audio/de-fr/laute/ich_01.mp3?v=019d7a76"
     },
     {
      "id": "ich_02",
      "wort": "nicht",
      "de": "ne … pas",
      "klang": "ich",
-     "audio": "audio/de-fr/laute/ich_02.mp3"
+     "audio": "audio/de-fr/laute/ich_02.mp3?v=b23b96b9"
     },
     {
      "id": "ich_03",
      "wort": "Milch",
      "de": "lait",
      "klang": "ich",
-     "audio": "audio/de-fr/laute/ich_03.mp3"
+     "audio": "audio/de-fr/laute/ich_03.mp3?v=e0344a9e"
     },
     {
      "id": "ich_04",
      "wort": "Küche",
      "de": "cuisine",
      "klang": "ich",
-     "audio": "audio/de-fr/laute/ich_04.mp3"
+     "audio": "audio/de-fr/laute/ich_04.mp3?v=98ff8136"
     },
     {
      "id": "ich_05",
      "wort": "richtig",
      "de": "juste, correct",
      "klang": "ich",
-     "audio": "audio/de-fr/laute/ich_05.mp3"
+     "audio": "audio/de-fr/laute/ich_05.mp3?v=e24e4c08"
     },
     {
      "id": "ich_06",
      "wort": "Bücher",
      "de": "livres",
      "klang": "ich",
-     "audio": "audio/de-fr/laute/ich_06.mp3"
+     "audio": "audio/de-fr/laute/ich_06.mp3?v=9d2865df"
     },
     {
      "id": "ich_07",
      "wort": "Kirche",
      "de": "église",
      "klang": "ich",
-     "audio": "audio/de-fr/laute/ich_07.mp3"
+     "audio": "audio/de-fr/laute/ich_07.mp3?v=99cf63e2"
     },
     {
      "id": "ich_08",
      "wort": "Mädchen",
      "de": "fille",
      "klang": "ich",
-     "audio": "audio/de-fr/laute/ich_08.mp3"
+     "audio": "audio/de-fr/laute/ich_08.mp3?v=18e65c02"
     }
    ],
    "ach": [
@@ -5466,56 +5466,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "Nacht",
      "de": "nuit",
      "klang": "ach",
-     "audio": "audio/de-fr/laute/ach_01.mp3"
+     "audio": "audio/de-fr/laute/ach_01.mp3?v=8a9ec81e"
     },
     {
      "id": "ach_02",
      "wort": "Buch",
      "de": "livre",
      "klang": "ach",
-     "audio": "audio/de-fr/laute/ach_02.mp3"
+     "audio": "audio/de-fr/laute/ach_02.mp3?v=4c2963e0"
     },
     {
      "id": "ach_03",
      "wort": "Bach",
      "de": "ruisseau",
      "klang": "ach",
-     "audio": "audio/de-fr/laute/ach_03.mp3"
+     "audio": "audio/de-fr/laute/ach_03.mp3?v=7aa95f38"
     },
     {
      "id": "ach_04",
      "wort": "machen",
      "de": "faire",
      "klang": "ach",
-     "audio": "audio/de-fr/laute/ach_04.mp3"
+     "audio": "audio/de-fr/laute/ach_04.mp3?v=85eecb21"
     },
     {
      "id": "ach_05",
      "wort": "Koch",
      "de": "cuisinier",
      "klang": "ach",
-     "audio": "audio/de-fr/laute/ach_05.mp3"
+     "audio": "audio/de-fr/laute/ach_05.mp3?v=4b82586a"
     },
     {
      "id": "ach_06",
      "wort": "auch",
      "de": "aussi",
      "klang": "ach",
-     "audio": "audio/de-fr/laute/ach_06.mp3"
+     "audio": "audio/de-fr/laute/ach_06.mp3?v=9ecf49bd"
     },
     {
      "id": "ach_07",
      "wort": "Kuchen",
      "de": "gâteau",
      "klang": "ach",
-     "audio": "audio/de-fr/laute/ach_07.mp3"
+     "audio": "audio/de-fr/laute/ach_07.mp3?v=1ae5ad07"
     },
     {
      "id": "ach_08",
      "wort": "lachen",
      "de": "rire",
      "klang": "ach",
-     "audio": "audio/de-fr/laute/ach_08.mp3"
+     "audio": "audio/de-fr/laute/ach_08.mp3?v=9e033483"
     }
    ],
    "ei": [
@@ -5524,56 +5524,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "Zeit",
      "de": "temps",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/ei_01.mp3"
+     "audio": "audio/de-fr/laute/ei_01.mp3?v=f89a7889"
     },
     {
      "id": "ei_02",
      "wort": "mein",
      "de": "mon",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/ei_02.mp3"
+     "audio": "audio/de-fr/laute/ei_02.mp3?v=b78b31a6"
     },
     {
      "id": "ei_03",
      "wort": "Eis",
      "de": "glace",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/ei_03.mp3"
+     "audio": "audio/de-fr/laute/ei_03.mp3?v=7d2b36d0"
     },
     {
      "id": "ei_04",
      "wort": "klein",
      "de": "petit",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/ei_04.mp3"
+     "audio": "audio/de-fr/laute/ei_04.mp3?v=75b34650"
     },
     {
      "id": "ei_05",
      "wort": "Wein",
      "de": "vin",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/ei_05.mp3"
+     "audio": "audio/de-fr/laute/ei_05.mp3?v=5e1a6694"
     },
     {
      "id": "ei_06",
      "wort": "Arbeit",
      "de": "travail",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/ei_06.mp3"
+     "audio": "audio/de-fr/laute/ei_06.mp3?v=ad6886b5"
     },
     {
      "id": "ei_07",
      "wort": "Freitag",
      "de": "vendredi",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/ei_07.mp3"
+     "audio": "audio/de-fr/laute/ei_07.mp3?v=6dc5d7c6"
     },
     {
      "id": "ei_08",
      "wort": "drei",
      "de": "trois",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/ei_08.mp3"
+     "audio": "audio/de-fr/laute/ei_08.mp3?v=7a176f0f"
     }
    ],
    "ie": [
@@ -5582,56 +5582,56 @@ window.SPRACHEN["de-fr"] = {
      "wort": "Liebe",
      "de": "amour",
      "klang": "ie",
-     "audio": "audio/de-fr/laute/ie_01.mp3"
+     "audio": "audio/de-fr/laute/ie_01.mp3?v=e3ebf343"
     },
     {
      "id": "ie_02",
      "wort": "vier",
      "de": "quatre",
      "klang": "ie",
-     "audio": "audio/de-fr/laute/ie_02.mp3"
+     "audio": "audio/de-fr/laute/ie_02.mp3?v=9c1b9350"
     },
     {
      "id": "ie_03",
      "wort": "Spiel",
      "de": "jeu",
      "klang": "ie",
-     "audio": "audio/de-fr/laute/ie_03.mp3"
+     "audio": "audio/de-fr/laute/ie_03.mp3?v=37dbed2b"
     },
     {
      "id": "ie_04",
      "wort": "Brief",
      "de": "lettre",
      "klang": "ie",
-     "audio": "audio/de-fr/laute/ie_04.mp3"
+     "audio": "audio/de-fr/laute/ie_04.mp3?v=34f86f42"
     },
     {
      "id": "ie_05",
      "wort": "Bier",
      "de": "bière",
      "klang": "ie",
-     "audio": "audio/de-fr/laute/ie_05.mp3"
+     "audio": "audio/de-fr/laute/ie_05.mp3?v=031313e6"
     },
     {
      "id": "ie_06",
      "wort": "Ziel",
      "de": "but, objectif",
      "klang": "ie",
-     "audio": "audio/de-fr/laute/ie_06.mp3"
+     "audio": "audio/de-fr/laute/ie_06.mp3?v=dcc7d1bb"
     },
     {
      "id": "ie_07",
      "wort": "Dienstag",
      "de": "mardi",
      "klang": "ie",
-     "audio": "audio/de-fr/laute/ie_07.mp3"
+     "audio": "audio/de-fr/laute/ie_07.mp3?v=ddc40f08"
     },
     {
      "id": "ie_08",
      "wort": "sieben",
      "de": "sept",
      "klang": "ie",
-     "audio": "audio/de-fr/laute/ie_08.mp3"
+     "audio": "audio/de-fr/laute/ie_08.mp3?v=fde561ac"
     }
    ]
   },
@@ -5641,14 +5641,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hund",
     "de": "chien",
     "klang": "h",
-    "audio": "audio/de-fr/laute/p1_01a.mp3",
+    "audio": "audio/de-fr/laute/p1_01a.mp3?v=e44410b1",
     "gruppe": "p1",
     "b": {
      "id": "p1_01b",
      "wort": "und",
      "de": "et",
      "klang": "kein",
-     "audio": "audio/de-fr/laute/p1_01b.mp3"
+     "audio": "audio/de-fr/laute/p1_01b.mp3?v=7a09fb59"
     }
    },
    {
@@ -5656,14 +5656,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Haus",
     "de": "maison",
     "klang": "h",
-    "audio": "audio/de-fr/laute/p1_02a.mp3",
+    "audio": "audio/de-fr/laute/p1_02a.mp3?v=3f8f9609",
     "gruppe": "p1",
     "b": {
      "id": "p1_02b",
      "wort": "aus",
      "de": "de, hors de",
      "klang": "kein",
-     "audio": "audio/de-fr/laute/p1_02b.mp3"
+     "audio": "audio/de-fr/laute/p1_02b.mp3?v=78c28703"
     }
    },
    {
@@ -5671,14 +5671,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "hier",
     "de": "ici",
     "klang": "h",
-    "audio": "audio/de-fr/laute/p1_03a.mp3",
+    "audio": "audio/de-fr/laute/p1_03a.mp3?v=a71f539b",
     "gruppe": "p1",
     "b": {
      "id": "p1_03b",
      "wort": "ihr",
      "de": "vous, son",
      "klang": "kein",
-     "audio": "audio/de-fr/laute/p1_03b.mp3"
+     "audio": "audio/de-fr/laute/p1_03b.mp3?v=fa97016b"
     }
    },
    {
@@ -5686,14 +5686,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hals",
     "de": "cou",
     "klang": "h",
-    "audio": "audio/de-fr/laute/p1_04a.mp3",
+    "audio": "audio/de-fr/laute/p1_04a.mp3?v=39c8055c",
     "gruppe": "p1",
     "b": {
      "id": "p1_04b",
      "wort": "als",
      "de": "que, quand",
      "klang": "kein",
-     "audio": "audio/de-fr/laute/p1_04b.mp3"
+     "audio": "audio/de-fr/laute/p1_04b.mp3?v=9e944428"
     }
    },
    {
@@ -5701,14 +5701,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hecke",
     "de": "haie",
     "klang": "h",
-    "audio": "audio/de-fr/laute/p1_05a.mp3",
+    "audio": "audio/de-fr/laute/p1_05a.mp3?v=bf08fe44",
     "gruppe": "p1",
     "b": {
      "id": "p1_05b",
      "wort": "Ecke",
      "de": "coin",
      "klang": "kein",
-     "audio": "audio/de-fr/laute/p1_05b.mp3"
+     "audio": "audio/de-fr/laute/p1_05b.mp3?v=58939161"
     }
    },
    {
@@ -5716,14 +5716,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "halt",
     "de": "arrête",
     "klang": "h",
-    "audio": "audio/de-fr/laute/p1_06a.mp3",
+    "audio": "audio/de-fr/laute/p1_06a.mp3?v=96c345c0",
     "gruppe": "p1",
     "b": {
      "id": "p1_06b",
      "wort": "alt",
      "de": "vieux",
      "klang": "kein",
-     "audio": "audio/de-fr/laute/p1_06b.mp3"
+     "audio": "audio/de-fr/laute/p1_06b.mp3?v=f482ef12"
     }
    },
    {
@@ -5731,14 +5731,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "hoffen",
     "de": "espérer",
     "klang": "h",
-    "audio": "audio/de-fr/laute/p1_07a.mp3",
+    "audio": "audio/de-fr/laute/p1_07a.mp3?v=a0a5df90",
     "gruppe": "p1",
     "b": {
      "id": "p1_07b",
      "wort": "offen",
      "de": "ouvert",
      "klang": "kein",
-     "audio": "audio/de-fr/laute/p1_07b.mp3"
+     "audio": "audio/de-fr/laute/p1_07b.mp3?v=f1493b48"
     }
    },
    {
@@ -5746,14 +5746,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Herz",
     "de": "cœur",
     "klang": "h",
-    "audio": "audio/de-fr/laute/p1_08a.mp3",
+    "audio": "audio/de-fr/laute/p1_08a.mp3?v=1cb2f2be",
     "gruppe": "p1",
     "b": {
      "id": "p1_08b",
      "wort": "Erz",
      "de": "minerai",
      "klang": "kein",
-     "audio": "audio/de-fr/laute/p1_08b.mp3"
+     "audio": "audio/de-fr/laute/p1_08b.mp3?v=f1fac01e"
     }
    },
    {
@@ -5761,14 +5761,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Biene",
     "de": "abeille",
     "klang": "ie",
-    "audio": "audio/de-fr/laute/p2_01a.mp3",
+    "audio": "audio/de-fr/laute/p2_01a.mp3?v=955d30cf",
     "gruppe": "p2",
     "b": {
      "id": "p2_01b",
      "wort": "Beine",
      "de": "jambes",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/p2_01b.mp3"
+     "audio": "audio/de-fr/laute/p2_01b.mp3?v=6a38a7ac"
     }
    },
    {
@@ -5776,14 +5776,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Wiese",
     "de": "prairie",
     "klang": "ie",
-    "audio": "audio/de-fr/laute/p2_02a.mp3",
+    "audio": "audio/de-fr/laute/p2_02a.mp3?v=38f27d41",
     "gruppe": "p2",
     "b": {
      "id": "p2_02b",
      "wort": "Weise",
      "de": "manière, sage",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/p2_02b.mp3"
+     "audio": "audio/de-fr/laute/p2_02b.mp3?v=01cd0def"
     }
    },
    {
@@ -5791,14 +5791,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Lied",
     "de": "chanson",
     "klang": "ie",
-    "audio": "audio/de-fr/laute/p2_03a.mp3",
+    "audio": "audio/de-fr/laute/p2_03a.mp3?v=191dec65",
     "gruppe": "p2",
     "b": {
      "id": "p2_03b",
      "wort": "Leid",
      "de": "peine",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/p2_03b.mp3"
+     "audio": "audio/de-fr/laute/p2_03b.mp3?v=5df22cd2"
     }
    },
    {
@@ -5806,14 +5806,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Riese",
     "de": "géant",
     "klang": "ie",
-    "audio": "audio/de-fr/laute/p2_04a.mp3",
+    "audio": "audio/de-fr/laute/p2_04a.mp3?v=b3608b10",
     "gruppe": "p2",
     "b": {
      "id": "p2_04b",
      "wort": "Reise",
      "de": "voyage",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/p2_04b.mp3"
+     "audio": "audio/de-fr/laute/p2_04b.mp3?v=bc78ab31"
     }
    },
    {
@@ -5821,14 +5821,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Miene",
     "de": "mine (visage)",
     "klang": "ie",
-    "audio": "audio/de-fr/laute/p2_05a.mp3",
+    "audio": "audio/de-fr/laute/p2_05a.mp3?v=4ee6b6c5",
     "gruppe": "p2",
     "b": {
      "id": "p2_05b",
      "wort": "meine",
      "de": "ma, mes",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/p2_05b.mp3"
+     "audio": "audio/de-fr/laute/p2_05b.mp3?v=aca1ed76"
     }
    },
    {
@@ -5836,14 +5836,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "schien",
     "de": "semblait",
     "klang": "ie",
-    "audio": "audio/de-fr/laute/p2_06a.mp3",
+    "audio": "audio/de-fr/laute/p2_06a.mp3?v=a8639a46",
     "gruppe": "p2",
     "b": {
      "id": "p2_06b",
      "wort": "Schein",
      "de": "lueur, billet",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/p2_06b.mp3"
+     "audio": "audio/de-fr/laute/p2_06b.mp3?v=75bcc675"
     }
    },
    {
@@ -5851,14 +5851,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Lieder",
     "de": "chansons",
     "klang": "ie",
-    "audio": "audio/de-fr/laute/p2_07a.mp3",
+    "audio": "audio/de-fr/laute/p2_07a.mp3?v=a2f147d0",
     "gruppe": "p2",
     "b": {
      "id": "p2_07b",
      "wort": "leider",
      "de": "malheureusement",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/p2_07b.mp3"
+     "audio": "audio/de-fr/laute/p2_07b.mp3?v=958f9350"
     }
    },
    {
@@ -5866,14 +5866,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Stiel",
     "de": "manche, tige",
     "klang": "ie",
-    "audio": "audio/de-fr/laute/p2_08a.mp3",
+    "audio": "audio/de-fr/laute/p2_08a.mp3?v=5ab8b362",
     "gruppe": "p2",
     "b": {
      "id": "p2_08b",
      "wort": "steil",
      "de": "raide",
      "klang": "ei",
-     "audio": "audio/de-fr/laute/p2_08b.mp3"
+     "audio": "audio/de-fr/laute/p2_08b.mp3?v=b8ab6150"
     }
    },
    {
@@ -5881,14 +5881,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Stadt",
     "de": "ville",
     "klang": "kurz",
-    "audio": "audio/de-fr/laute/p3_01a.mp3",
+    "audio": "audio/de-fr/laute/p3_01a.mp3?v=c33d4c93",
     "gruppe": "p3",
     "b": {
      "id": "p3_01b",
      "wort": "Staat",
      "de": "État",
      "klang": "lang",
-     "audio": "audio/de-fr/laute/p3_01b.mp3"
+     "audio": "audio/de-fr/laute/p3_01b.mp3?v=e5097048"
     }
    },
    {
@@ -5896,14 +5896,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Bann",
     "de": "bannissement",
     "klang": "kurz",
-    "audio": "audio/de-fr/laute/p3_02a.mp3",
+    "audio": "audio/de-fr/laute/p3_02a.mp3?v=03facd0e",
     "gruppe": "p3",
     "b": {
      "id": "p3_02b",
      "wort": "Bahn",
      "de": "train, voie",
      "klang": "lang",
-     "audio": "audio/de-fr/laute/p3_02b.mp3"
+     "audio": "audio/de-fr/laute/p3_02b.mp3?v=46e22d40"
     }
    },
    {
@@ -5911,14 +5911,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hölle",
     "de": "enfer",
     "klang": "kurz",
-    "audio": "audio/de-fr/laute/p3_03a.mp3",
+    "audio": "audio/de-fr/laute/p3_03a.mp3?v=d9c57ba4",
     "gruppe": "p3",
     "b": {
      "id": "p3_03b",
      "wort": "Höhle",
      "de": "grotte",
      "klang": "lang",
-     "audio": "audio/de-fr/laute/p3_03b.mp3"
+     "audio": "audio/de-fr/laute/p3_03b.mp3?v=a0a399ae"
     }
    },
    {
@@ -5926,14 +5926,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "offen",
     "de": "ouvert",
     "klang": "kurz",
-    "audio": "audio/de-fr/laute/p3_04a.mp3",
+    "audio": "audio/de-fr/laute/p3_04a.mp3?v=797f706d",
     "gruppe": "p3",
     "b": {
      "id": "p3_04b",
      "wort": "Ofen",
      "de": "four",
      "klang": "lang",
-     "audio": "audio/de-fr/laute/p3_04b.mp3"
+     "audio": "audio/de-fr/laute/p3_04b.mp3?v=1794ab8a"
     }
    },
    {
@@ -5941,14 +5941,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Mitte",
     "de": "milieu",
     "klang": "kurz",
-    "audio": "audio/de-fr/laute/p3_05a.mp3",
+    "audio": "audio/de-fr/laute/p3_05a.mp3?v=804fd255",
     "gruppe": "p3",
     "b": {
      "id": "p3_05b",
      "wort": "Miete",
      "de": "loyer",
      "klang": "lang",
-     "audio": "audio/de-fr/laute/p3_05b.mp3"
+     "audio": "audio/de-fr/laute/p3_05b.mp3?v=9eb8e062"
     }
    },
    {
@@ -5956,14 +5956,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Hütte",
     "de": "cabane",
     "klang": "kurz",
-    "audio": "audio/de-fr/laute/p3_06a.mp3",
+    "audio": "audio/de-fr/laute/p3_06a.mp3?v=a6e8a0c8",
     "gruppe": "p3",
     "b": {
      "id": "p3_06b",
      "wort": "Hüte",
      "de": "chapeaux",
      "klang": "lang",
-     "audio": "audio/de-fr/laute/p3_06b.mp3"
+     "audio": "audio/de-fr/laute/p3_06b.mp3?v=f5dd4611"
     }
    },
    {
@@ -5971,14 +5971,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Kamm",
     "de": "peigne",
     "klang": "kurz",
-    "audio": "audio/de-fr/laute/p3_07a.mp3",
+    "audio": "audio/de-fr/laute/p3_07a.mp3?v=7b38f0fd",
     "gruppe": "p3",
     "b": {
      "id": "p3_07b",
      "wort": "kam",
      "de": "venait",
      "klang": "lang",
-     "audio": "audio/de-fr/laute/p3_07b.mp3"
+     "audio": "audio/de-fr/laute/p3_07b.mp3?v=001a5070"
     }
    },
    {
@@ -5986,14 +5986,14 @@ window.SPRACHEN["de-fr"] = {
     "wort": "bitten",
     "de": "demander",
     "klang": "kurz",
-    "audio": "audio/de-fr/laute/p3_08a.mp3",
+    "audio": "audio/de-fr/laute/p3_08a.mp3?v=8d8876ec",
     "gruppe": "p3",
     "b": {
      "id": "p3_08b",
      "wort": "bieten",
      "de": "offrir",
      "klang": "lang",
-     "audio": "audio/de-fr/laute/p3_08b.mp3"
+     "audio": "audio/de-fr/laute/p3_08b.mp3?v=cc4e8e12"
     }
    }
   ],
@@ -6003,7 +6003,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Eichhörnchen",
     "de": "écureuil",
     "klang": "ei,ich,h,ich",
-    "audio": "audio/de-fr/laute/b_01.mp3",
+    "audio": "audio/de-fr/laute/b_01.mp3?v=f75ac02f",
     "markup": "{ei|Ei}{ich|ch}{h|h}örn{ich|ch}en",
     "klaenge": [
      "ei",
@@ -6017,7 +6017,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "heimlich",
     "de": "en cachette",
     "klang": "h,ei,ich",
-    "audio": "audio/de-fr/laute/b_02.mp3",
+    "audio": "audio/de-fr/laute/b_02.mp3?v=de0c8c18",
     "markup": "{h|h}{ei|ei}ml{ich|ich}",
     "klaenge": [
      "h",
@@ -6030,7 +6030,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "hoch",
     "de": "haut",
     "klang": "h,ach",
-    "audio": "audio/de-fr/laute/b_03.mp3",
+    "audio": "audio/de-fr/laute/b_03.mp3?v=80644603",
     "markup": "{h|h}o{ach|ch}",
     "klaenge": [
      "h",
@@ -6042,7 +6042,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "einfach",
     "de": "simple",
     "klang": "ei,ach",
-    "audio": "audio/de-fr/laute/b_04.mp3",
+    "audio": "audio/de-fr/laute/b_04.mp3?v=f6da3387",
     "markup": "{ei|ei}nfa{ach|ch}",
     "klaenge": [
      "ei",
@@ -6054,7 +6054,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "hier",
     "de": "ici",
     "klang": "h,ie",
-    "audio": "audio/de-fr/laute/b_05.mp3",
+    "audio": "audio/de-fr/laute/b_05.mp3?v=7b19160c",
     "markup": "{h|h}{ie|ie}r",
     "klaenge": [
      "h",
@@ -6066,7 +6066,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "niedlich",
     "de": "mignon",
     "klang": "ie,ich",
-    "audio": "audio/de-fr/laute/b_06.mp3",
+    "audio": "audio/de-fr/laute/b_06.mp3?v=497a1af6",
     "markup": "n{ie|ie}dl{ich|ich}",
     "klaenge": [
      "ie",
@@ -6078,7 +6078,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "herrlich",
     "de": "magnifique",
     "klang": "h,ich",
-    "audio": "audio/de-fr/laute/b_07.mp3",
+    "audio": "audio/de-fr/laute/b_07.mp3?v=c1998bdf",
     "markup": "{h|h}errl{ich|ich}",
     "klaenge": [
      "h",
@@ -6090,7 +6090,7 @@ window.SPRACHEN["de-fr"] = {
     "wort": "Freiheit",
     "de": "liberté",
     "klang": "ei,h,ei",
-    "audio": "audio/de-fr/laute/b_08.mp3",
+    "audio": "audio/de-fr/laute/b_08.mp3?v=be926874",
     "markup": "Fr{ei|ei}{h|h}{ei|ei}t",
     "klaenge": [
      "ei",
@@ -6109,85 +6109,85 @@ window.SPRACHEN["de-fr"] = {
      "id": "k01_01",
      "fr": "Lena Becker war Lehrerin in Saarbrücken. Eine normale Lehrerin. Na ja, fast.",
      "de": "Lena Becker était professeure à Sarrebruck. Une prof normale. Enfin, presque.",
-     "audio": "audio/de-fr/geschichte/k01_01.mp3"
+     "audio": "audio/de-fr/geschichte/k01_01.mp3?v=c6bcdb81"
     },
     {
      "id": "k01_02",
      "fr": "An diesem Freitagnachmittag **korrigierte sie Klassenarbeiten**, wie jeden Freitag. Sie **war fix und fertig**. Draußen regnete es. Drinnen **machte ihre Katze ein Nickerchen** auf den schon korrigierten Arbeiten.",
      "de": "Ce vendredi après-midi, elle corrigeait des copies, comme tous les vendredis. Elle était crevée. Dehors, il pleuvait. Dedans, son chat faisait la sieste sur les copies déjà corrigées.",
-     "audio": "audio/de-fr/geschichte/k01_02.mp3"
+     "audio": "audio/de-fr/geschichte/k01_02.mp3?v=4c94a72f"
     },
     {
      "id": "k01_03",
      "fr": "Die siebzehnte Arbeit war die von Jonas, einem Schüler der Neunten, der wenig schrieb, aber gut.",
      "de": "La dix-septième copie était celle de Jonas, un élève de troisième qui écrivait peu, mais bien.",
-     "audio": "audio/de-fr/geschichte/k01_03.mp3"
+     "audio": "audio/de-fr/geschichte/k01_03.mp3?v=1fb24451"
     },
     {
      "id": "k01_04",
      "fr": "Zwischen Seite zwei und Seite drei lag etwas. Eine Karte. Eine Eintrittskarte für die Völklinger Hütte.",
      "de": "Entre la page deux et la page trois, il y avait quelque chose. Un billet. Un billet d'entrée pour l'usine de Völklingen.",
-     "audio": "audio/de-fr/geschichte/k01_04.mp3"
+     "audio": "audio/de-fr/geschichte/k01_04.mp3?v=7dcd7308"
     },
     {
      "id": "k01_05",
      "fr": "Lena sah auf das Datum. Morgen. Samstag. Zehn Uhr.",
      "de": "Lena a regardé la date. Demain. Samedi. Dix heures.",
-     "audio": "audio/de-fr/geschichte/k01_05.mp3"
+     "audio": "audio/de-fr/geschichte/k01_05.mp3?v=6cf098a3"
     },
     {
      "id": "k01_06",
      "fr": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: « Gebläsehalle. Kommen Sie allein. Und haben Sie keine Angst. »",
      "de": "Au dos, quelqu'un avait écrit en lettres bleues : « Halle des soufflantes. Venez seule. Et n'ayez pas peur. »",
-     "audio": "audio/de-fr/geschichte/k01_06.mp3"
+     "audio": "audio/de-fr/geschichte/k01_06.mp3?v=093b5565"
     },
     {
      "id": "k01_07",
      "fr": "Lena **hatte keine Angst**. Noch nicht. Sie **hatte Schwierigkeiten**, das zu verstehen, das war alles.",
      "de": "Lena n'avait pas peur. Pas encore. Elle avait du mal à comprendre, c'est tout.",
-     "audio": "audio/de-fr/geschichte/k01_07.mp3"
+     "audio": "audio/de-fr/geschichte/k01_07.mp3?v=fc0ecc9d"
     },
     {
      "id": "k01_08",
      "fr": "Jonas war kein geheimnisvoller Schüler. Er war ein Schüler, der Katzen an den Rand malte.",
      "de": "Jonas n'était pas un élève mystérieux. C'était un élève qui dessinait des chats dans la marge.",
-     "audio": "audio/de-fr/geschichte/k01_08.mp3"
+     "audio": "audio/de-fr/geschichte/k01_08.mp3?v=67a85b5c"
     },
     {
      "id": "k01_09",
      "fr": "Lena sah ihre Katze an. Die Katze sah sie an. Sie **hatte einen Blick**, der sagte: « Geh. »",
      "de": "Lena a regardé son chat. Le chat l'a regardée. Il avait un regard qui disait : « Vas-y. »",
-     "audio": "audio/de-fr/geschichte/k01_09.mp3"
+     "audio": "audio/de-fr/geschichte/k01_09.mp3?v=1c66b286"
     },
     {
      "id": "k01_10",
      "fr": "« Das ist ein Scherz », sagte Lena laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
      "de": "« C'est une blague », a dit Lena à voix haute. Le chat n'a rien dit. Les chats ne disent jamais rien. C'est leur force.",
-     "audio": "audio/de-fr/geschichte/k01_10.mp3"
+     "audio": "audio/de-fr/geschichte/k01_10.mp3?v=3782614d"
     },
     {
      "id": "k01_11",
      "fr": "In dieser Nacht **schlief Lena nicht durch**. Sie träumte von einer Halle voller Maschinen und von einer Tür, die auf keinem Plan war.",
      "de": "Cette nuit-là, Lena n'a pas fait sa nuit. Elle a rêvé d'une halle pleine de machines et d'une porte qui n'était sur aucun plan.",
-     "audio": "audio/de-fr/geschichte/k01_11.mp3"
+     "audio": "audio/de-fr/geschichte/k01_11.mp3?v=a175889e"
     },
     {
      "id": "k01_12",
      "fr": "Um sieben stand sie auf. **Mit dem richtigen Fuß**. Dem linken. Wie immer.",
      "de": "À sept heures, elle s'est levée. Du bon pied. Le gauche. Comme d'habitude.",
-     "audio": "audio/de-fr/geschichte/k01_12.mp3"
+     "audio": "audio/de-fr/geschichte/k01_12.mp3?v=72b45d1b"
     },
     {
      "id": "k01_13",
      "fr": "Sie **ging einkaufen**, wie jeden Samstag. Dann sah sie auf die Uhr. Viertel nach neun. Die Hütte war zwanzig Minuten mit der Saarbahn entfernt.",
      "de": "Elle est allée faire les courses, comme tous les samedis. Puis elle a regardé l'heure. Neuf heures et quart. L'usine était à vingt minutes en tram.",
-     "audio": "audio/de-fr/geschichte/k01_13.mp3"
+     "audio": "audio/de-fr/geschichte/k01_13.mp3?v=1c7d4ca3"
     },
     {
      "id": "k01_14",
      "fr": "« Ich schau nur », sagte sie zur Katze. Die Katze schloss die Augen. Sie wusste, dass das nicht stimmte.",
      "de": "« Je vais juste regarder », a-t-elle dit au chat. Le chat a fermé les yeux. Il savait que ce n'était pas vrai.",
-     "audio": "audio/de-fr/geschichte/k01_14.mp3"
+     "audio": "audio/de-fr/geschichte/k01_14.mp3?v=318c962d"
     }
    ]
   },
@@ -6199,91 +6199,91 @@ window.SPRACHEN["de-fr"] = {
      "id": "k02_01",
      "fr": "Um fünf vor zehn stand Lena vor dem Eingang der Hütte. Es war das erste Mal, dass sie ohne dreißig Schüler hinter sich hineinging.",
      "de": "À dix heures moins cinq, Lena était devant l'entrée de l'usine. C'était la première fois qu'elle y entrait sans trente élèves derrière elle.",
-     "audio": "audio/de-fr/geschichte/k02_01.mp3"
+     "audio": "audio/de-fr/geschichte/k02_01.mp3?v=7c02b289"
     },
     {
      "id": "k02_02",
      "fr": "Die Karte war echt. Der Mann an der Kasse sah sie an, sah die Karte an und sagte: « Gebläsehalle. Immer geradeaus. » Ohne dass sie gefragt hätte.",
      "de": "Le billet était vrai. L'homme à la caisse l'a regardée, a regardé le billet et a dit : « Halle des soufflantes. Tout droit. » Sans qu'elle demande.",
-     "audio": "audio/de-fr/geschichte/k02_02.mp3"
+     "audio": "audio/de-fr/geschichte/k02_02.mp3?v=9df9efd2"
     },
     {
      "id": "k02_03",
      "fr": "**Es war unheimlich**. Ein bisschen. Lena beschloss, dass es freundlich war.",
      "de": "C'était inquiétant. Un peu. Lena a décidé que c'était gentil.",
-     "audio": "audio/de-fr/geschichte/k02_03.mp3"
+     "audio": "audio/de-fr/geschichte/k02_03.mp3?v=8c2560d7"
     },
     {
      "id": "k02_04",
      "fr": "Die Halle **war friedlich**. Zu friedlich. Keine Besucher, keine Führungen, keine Kinder. Nur das Tropfen des Regens auf dem Blechdach und der Geruch von altem Eisen.",
      "de": "La halle était paisible. Trop paisible. Pas de visiteurs, pas de visites guidées, pas d'enfants. Seulement le goutte-à-goutte de la pluie sur le toit de tôle et l'odeur du vieux fer.",
-     "audio": "audio/de-fr/geschichte/k02_04.mp3"
+     "audio": "audio/de-fr/geschichte/k02_04.mp3?v=9f2921a1"
     },
     {
      "id": "k02_05",
      "fr": "Und eine Katze. Eine graue **Hauskatze**, die auf der größten Maschine saß, als gehörte sie ihr.",
      "de": "Et un chat. Un chat de gouttière gris, assis sur la plus grande machine comme si elle était à lui.",
-     "audio": "audio/de-fr/geschichte/k02_05.mp3"
+     "audio": "audio/de-fr/geschichte/k02_05.mp3?v=14c24c48"
     },
     {
      "id": "k02_06",
      "fr": "Die Katze sah sie an. Lena kannte diesen Blick. Es war der Blick ihrer eigenen Katze. Genau derselbe.",
      "de": "Le chat l'a regardée. Lena connaissait ce regard. C'était le regard de son propre chat. Exactement le même.",
-     "audio": "audio/de-fr/geschichte/k02_06.mp3"
+     "audio": "audio/de-fr/geschichte/k02_06.mp3?v=af0eaa90"
     },
     {
      "id": "k02_07",
      "fr": "« Das ist unmöglich », dachte sie. « Meine Katze liegt zu Hause und schläft auf einer Arbeit der Neunten. »",
      "de": "« C'est impossible », a-t-elle pensé. « Mon chat est à la maison, en train de dormir sur une copie de troisième. »",
-     "audio": "audio/de-fr/geschichte/k02_07.mp3"
+     "audio": "audio/de-fr/geschichte/k02_07.mp3?v=a75ab181"
     },
     {
      "id": "k02_08",
      "fr": "Die graue Katze stand auf, **rieb sich an** einem Rohr und ging langsam zur Treppe am Ende der Halle. Dann drehte sie sich um. Sie wartete.",
      "de": "Le chat gris s'est levé, s'est frotté contre un tuyau et est parti lentement vers l'escalier au fond de la halle. Puis il s'est retourné. Il attendait.",
-     "audio": "audio/de-fr/geschichte/k02_08.mp3"
+     "audio": "audio/de-fr/geschichte/k02_08.mp3?v=0b69e1d1"
     },
     {
      "id": "k02_09",
      "fr": "Lena **hatte einen Kloß im Hals**. Aber sie war auch neugierig. Die Neugier gewinnt bei einer Lehrerin immer.",
      "de": "Lena avait la gorge serrée. Mais elle était aussi curieuse. La curiosité, chez une prof, gagne toujours.",
-     "audio": "audio/de-fr/geschichte/k02_09.mp3"
+     "audio": "audio/de-fr/geschichte/k02_09.mp3?v=846c382e"
     },
     {
      "id": "k02_10",
      "fr": "Sie folgte der Katze. Die Treppe führte nach oben, immer weiter, über die Rohre, über die Öfen, bis zur Aussichtsplattform. Fünfundvierzig Meter hoch.",
      "de": "Elle a suivi le chat. L'escalier montait, encore et encore, au-dessus des tuyaux, au-dessus des fours, jusqu'à la plate-forme panoramique. Quarante-cinq mètres de haut.",
-     "audio": "audio/de-fr/geschichte/k02_10.mp3"
+     "audio": "audio/de-fr/geschichte/k02_10.mp3?v=c9a165a8"
     },
     {
      "id": "k02_11",
      "fr": "Lena war zwanzigmal hier oben gewesen, mit Schülern. Man sah die Saar, die Stadt, bei gutem Wetter bis nach Frankreich.",
      "de": "Lena était montée ici vingt fois, avec des élèves. On voyait la Sarre, la ville, par beau temps jusqu'en France.",
-     "audio": "audio/de-fr/geschichte/k02_11.mp3"
+     "audio": "audio/de-fr/geschichte/k02_11.mp3?v=ff55a76c"
     },
     {
      "id": "k02_12",
      "fr": "Aber dort, wo immer nur ein Geländer gewesen war, war heute eine Tür.",
      "de": "Mais là, où il n'y avait toujours eu qu'une rambarde, il y avait aujourd'hui une porte.",
-     "audio": "audio/de-fr/geschichte/k02_12.mp3"
+     "audio": "audio/de-fr/geschichte/k02_12.mp3?v=dba8b7a5"
     },
     {
      "id": "k02_13",
      "fr": "Klein, aus rostigem Eisen, ohne Klinke. Lena war zwanzigmal daran vorbeigegangen, ohne sie zu sehen. Weil sie nicht da gewesen war.",
      "de": "Petite, en fer rouillé, sans poignée. Lena était passée vingt fois devant sans la voir. Parce qu'elle n'avait pas été là.",
-     "audio": "audio/de-fr/geschichte/k02_13.mp3"
+     "audio": "audio/de-fr/geschichte/k02_13.mp3?v=bc0cf3ee"
     },
     {
      "id": "k02_14",
      "fr": "Die Katze setzte sich vor die Tür. Und **miaute**, zum ersten Mal.",
      "de": "Le chat s'est assis devant la porte. Et a miaulé, pour la première fois.",
-     "audio": "audio/de-fr/geschichte/k02_14.mp3"
+     "audio": "audio/de-fr/geschichte/k02_14.mp3?v=a78e4f30"
     },
     {
      "id": "k02_15",
      "fr": "Lena sah auf die Uhr. Viertel nach zehn. « **Lass dir Zeit** », sagte sie sich. Sie ließ sich keine.",
      "de": "Lena a regardé l'heure. Dix heures et quart. « Prends ton temps », s'est-elle dit. Elle ne l'a pas pris.",
-     "audio": "audio/de-fr/geschichte/k02_15.mp3"
+     "audio": "audio/de-fr/geschichte/k02_15.mp3?v=9a891bdd"
     }
    ]
   },
@@ -6295,91 +6295,91 @@ window.SPRACHEN["de-fr"] = {
      "id": "k03_01",
      "fr": "Die Tür war aus dunklem Eisen, mit einer kleinen Emaille-Kachel in der Mitte: eine blaue Katze auf weißem Grund.",
      "de": "La porte était en fer sombre, avec une petite plaque émaillée au centre : un chat bleu sur fond blanc.",
-     "audio": "audio/de-fr/geschichte/k03_01.mp3"
+     "audio": "audio/de-fr/geschichte/k03_01.mp3?v=6dc58794"
     },
     {
      "id": "k03_02",
      "fr": "Kein Schild. Keine Nummer. In einer Fabrik mit hundertfünfzig Jahren Schildern war das schon seltsam.",
      "de": "Pas de panneau. Pas de numéro. Dans une usine avec cent cinquante ans de panneaux, c'était déjà bizarre.",
-     "audio": "audio/de-fr/geschichte/k03_02.mp3"
+     "audio": "audio/de-fr/geschichte/k03_02.mp3?v=91700ada"
     },
     {
      "id": "k03_03",
      "fr": "Lena drückte. Die Tür öffnete sich lautlos. **Plötzlich** hörte der Regen auf dem Dach auf zu trommeln.",
      "de": "Lena a poussé. La porte s'est ouverte sans bruit. D'un coup, la pluie a cessé de tambouriner sur le toit.",
-     "audio": "audio/de-fr/geschichte/k03_03.mp3"
+     "audio": "audio/de-fr/geschichte/k03_03.mp3?v=1f6075bd"
     },
     {
      "id": "k03_04",
      "fr": "Dahinter lag ein kleiner, runder Raum, die Wände voller Kacheln. Hunderte Kacheln. Und auf jeder eine Katze.",
      "de": "Derrière, il y avait une petite pièce ronde, aux murs couverts de carreaux. Des centaines de carreaux. Et sur chacun, un chat.",
-     "audio": "audio/de-fr/geschichte/k03_04.mp3"
+     "audio": "audio/de-fr/geschichte/k03_04.mp3?v=d03327c8"
     },
     {
      "id": "k03_05",
      "fr": "Sitzende Katzen, schlafende Katzen, Katzen, die schauten. Katzen aus der Zeit der ersten Hochöfen mit demselben Gesicht wie Lenas Katze.",
      "de": "Des chats assis, des chats endormis, des chats qui regardaient. Des chats du temps des premiers hauts-fourneaux avec le même visage que le chat de Lena.",
-     "audio": "audio/de-fr/geschichte/k03_05.mp3"
+     "audio": "audio/de-fr/geschichte/k03_05.mp3?v=ba417092"
     },
     {
      "id": "k03_06",
      "fr": "In der Mitte des Raums ein alter Schmelzofen. Kalt. Und über dem Ofen eine andere Kachel: größer, älter, mit einer Katze, die niemanden ansah. Sie sah zur Tür.",
      "de": "Au milieu de la pièce, un vieux four de fusion. Froid. Et au-dessus du four, un carreau différent : plus grand, plus ancien, avec un chat qui ne regardait personne. Il regardait vers la porte.",
-     "audio": "audio/de-fr/geschichte/k03_06.mp3"
+     "audio": "audio/de-fr/geschichte/k03_06.mp3?v=d6f0c574"
     },
     {
      "id": "k03_07",
      "fr": "Lena trat näher. Die Kacheln waren kalt. Alle bis auf eine.",
      "de": "Lena s'est approchée. Les carreaux étaient froids. Tous sauf un.",
-     "audio": "audio/de-fr/geschichte/k03_07.mp3"
+     "audio": "audio/de-fr/geschichte/k03_07.mp3?v=46158bfc"
     },
     {
      "id": "k03_08",
      "fr": "Die große Kachel war lauwarm. Wie eine Katze in der Sonne.",
      "de": "Le grand carreau était tiède. Comme un chat au soleil.",
-     "audio": "audio/de-fr/geschichte/k03_08.mp3"
+     "audio": "audio/de-fr/geschichte/k03_08.mp3?v=bcfe901e"
     },
     {
      "id": "k03_09",
      "fr": "Und dann hörte sie es. Leise. Gleichmäßig. Ein **Schnurren**.",
      "de": "Et alors elle l'a entendu. Doucement. Régulièrement. Un ronronnement.",
-     "audio": "audio/de-fr/geschichte/k03_09.mp3"
+     "audio": "audio/de-fr/geschichte/k03_09.mp3?v=a1d44085"
     },
     {
      "id": "k03_10",
      "fr": "Lena blieb stehen. Die graue Katze neben ihr auch. Beide lauschten derselben Kachel.",
      "de": "Lena est restée immobile. Le chat gris, à côté d'elle, aussi. Tous les deux écoutaient le même carreau.",
-     "audio": "audio/de-fr/geschichte/k03_10.mp3"
+     "audio": "audio/de-fr/geschichte/k03_10.mp3?v=b1e99adf"
     },
     {
      "id": "k03_11",
      "fr": "« Das steht nicht auf dem Plan », sagte Lena. Es war das Vernünftigste, was ihr einfiel.",
      "de": "« Ça n'est pas sur le plan », a dit Lena. C'était la chose la plus sensée qui lui venait à l'esprit.",
-     "audio": "audio/de-fr/geschichte/k03_11.mp3"
+     "audio": "audio/de-fr/geschichte/k03_11.mp3?v=6512e5c4"
     },
     {
      "id": "k03_12",
      "fr": "Hinter ihr eine Stimme. Ruhig, alt, ein bisschen heiser. « Nein, Frau Becker. Dieser Raum steht auf keinem Plan. Deshalb ist er noch da. »",
      "de": "Derrière elle, une voix. Calme, âgée, un peu rauque. « Non, madame Becker. Cette pièce n'est sur aucun plan. C'est pour ça qu'elle est encore là. »",
-     "audio": "audio/de-fr/geschichte/k03_12.mp3"
+     "audio": "audio/de-fr/geschichte/k03_12.mp3?v=ae3a123d"
     },
     {
      "id": "k03_13",
      "fr": "Lena fuhr herum. In der Tür stand ein Mann mit einem Helm und einem Schlüsselbund so groß wie ein Teller.",
      "de": "Lena s'est retournée d'un coup. Dans la porte, il y avait un homme avec un casque et un trousseau de clés gros comme une assiette.",
-     "audio": "audio/de-fr/geschichte/k03_13.mp3"
+     "audio": "audio/de-fr/geschichte/k03_13.mp3?v=445de453"
     },
     {
      "id": "k03_14",
      "fr": "« Ich bin der Hüttenarbeiter », sagte er. « Ich arbeite hier seit 1986. Und Sie sind zu spät. Zwanzig Minuten. »",
      "de": "« Je suis l'ouvrier de l'usine », a-t-il dit. « Je travaille ici depuis 1986. Et vous êtes en retard. Vingt minutes. »",
-     "audio": "audio/de-fr/geschichte/k03_14.mp3"
+     "audio": "audio/de-fr/geschichte/k03_14.mp3?v=a99b37d6"
     },
     {
      "id": "k03_15",
      "fr": "Lena rechnete nach. 1986. Da war die Hütte stillgelegt worden. Seitdem arbeitete hier niemand mehr. **Das ergab keinen Sinn**. Und trotzdem sagte Lena: « Es tut mir leid. » Das sagen Lehrer eben.",
      "de": "Lena a fait le calcul. 1986. C'est l'année où l'usine avait été fermée. Depuis, plus personne n'y travaillait. Ça n'avait aucun sens. Et pourtant Lena a dit : « Je suis désolée. » C'est ce que disent les profs.",
-     "audio": "audio/de-fr/geschichte/k03_15.mp3"
+     "audio": "audio/de-fr/geschichte/k03_15.mp3?v=41cb64d1"
     }
    ]
   }
@@ -6396,378 +6396,378 @@ window.SPRACHEN["de-fr"] = {
   "lob": [
    {
     "text": "Super!",
-    "audio": "audio/de-fr/lob/lob_super.mp3",
+    "audio": "audio/de-fr/lob/lob_super.mp3?v=e750b0e6",
     "gruppe": [
      "super"
     ]
    },
    {
     "text": "Genau!",
-    "audio": "audio/de-fr/lob/lob_genau.mp3",
+    "audio": "audio/de-fr/lob/lob_genau.mp3?v=730ebb95",
     "gruppe": [
      "genau"
     ]
    },
    {
     "text": "Prima!",
-    "audio": "audio/de-fr/lob/lob_prima.mp3",
+    "audio": "audio/de-fr/lob/lob_prima.mp3?v=39fdd4fb",
     "gruppe": [
      "prima"
     ]
    },
    {
     "text": "Klasse!",
-    "audio": "audio/de-fr/lob/lob_klasse.mp3",
+    "audio": "audio/de-fr/lob/lob_klasse.mp3?v=7b1b07dc",
     "gruppe": [
      "klasse"
     ]
    },
    {
     "text": "Perfekt!",
-    "audio": "audio/de-fr/lob/lob_perfekt.mp3",
+    "audio": "audio/de-fr/lob/lob_perfekt.mp3?v=d7f0ed76",
     "gruppe": [
      "perfekt"
     ]
    },
    {
     "text": "Richtig!",
-    "audio": "audio/de-fr/lob/lob_richtig.mp3",
+    "audio": "audio/de-fr/lob/lob_richtig.mp3?v=d878a9ba",
     "gruppe": [
      "richtig"
     ]
    },
    {
     "text": "Sehr gut!",
-    "audio": "audio/de-fr/lob/lob_sehr_gut.mp3",
+    "audio": "audio/de-fr/lob/lob_sehr_gut.mp3?v=0ab36c0f",
     "gruppe": [
      "gut"
     ]
    },
    {
     "text": "Toll!",
-    "audio": "audio/de-fr/lob/lob_toll.mp3",
+    "audio": "audio/de-fr/lob/lob_toll.mp3?v=b923715e",
     "gruppe": [
      "toll"
     ]
    },
    {
     "text": "Bravo!",
-    "audio": "audio/de-fr/lob/lob_bravo.mp3",
+    "audio": "audio/de-fr/lob/lob_bravo.mp3?v=c3673b10",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Spitze!",
-    "audio": "audio/de-fr/lob/lob_spitze.mp3",
+    "audio": "audio/de-fr/lob/lob_spitze.mp3?v=20e4eef1",
     "gruppe": [
      "spitze"
     ]
    },
    {
     "text": "Wunderbar!",
-    "audio": "audio/de-fr/lob/lob_wunderbar.mp3",
+    "audio": "audio/de-fr/lob/lob_wunderbar.mp3?v=8efd56ef",
     "gruppe": [
      "wunderbar"
     ]
    },
    {
     "text": "Stimmt!",
-    "audio": "audio/de-fr/lob/lob_stimmt.mp3",
+    "audio": "audio/de-fr/lob/lob_stimmt.mp3?v=e3dc54a0",
     "gruppe": [
      "stimmt"
     ]
    },
    {
     "text": "So ist es!",
-    "audio": "audio/de-fr/lob/lob_so_ist_es.mp3",
+    "audio": "audio/de-fr/lob/lob_so_ist_es.mp3?v=b4ee2df3",
     "gruppe": [
      "so"
     ]
    },
    {
     "text": "Gut gemacht!",
-    "audio": "audio/de-fr/lob/lob_gut_gemacht.mp3",
+    "audio": "audio/de-fr/lob/lob_gut_gemacht.mp3?v=1e554541",
     "gruppe": [
      "gemacht"
     ]
    },
    {
     "text": "Ja!",
-    "audio": "audio/de-fr/lob/lob_ja.mp3",
+    "audio": "audio/de-fr/lob/lob_ja.mp3?v=4b0ff4f0",
     "gruppe": [
      "ja"
     ]
    },
    {
     "text": "Exakt!",
-    "audio": "audio/de-fr/lob/lob_exakt.mp3",
+    "audio": "audio/de-fr/lob/lob_exakt.mp3?v=5eb37f38",
     "gruppe": [
      "exakt"
     ]
    },
    {
     "text": "Volltreffer!",
-    "audio": "audio/de-fr/lob/lob_volltreffer.mp3",
+    "audio": "audio/de-fr/lob/lob_volltreffer.mp3?v=e455945f",
     "gruppe": [
      "treffer"
     ]
    },
    {
     "text": "Sauber!",
-    "audio": "audio/de-fr/lob/lob_sauber.mp3",
+    "audio": "audio/de-fr/lob/lob_sauber.mp3?v=ff685196",
     "gruppe": [
      "sauber"
     ]
    },
    {
     "text": "Tadellos!",
-    "audio": "audio/de-fr/lob/lob_tadellos.mp3",
+    "audio": "audio/de-fr/lob/lob_tadellos.mp3?v=a3bc5a34",
     "gruppe": [
      "tadellos"
     ]
    },
    {
     "text": "Hervorragend!",
-    "audio": "audio/de-fr/lob/lob_hervorragend.mp3",
+    "audio": "audio/de-fr/lob/lob_hervorragend.mp3?v=a84348f9",
     "gruppe": [
      "hervorragend"
     ]
    },
    {
     "text": "Ausgezeichnet!",
-    "audio": "audio/de-fr/lob/lob_ausgezeichnet.mp3",
+    "audio": "audio/de-fr/lob/lob_ausgezeichnet.mp3?v=954ffb17",
     "gruppe": [
      "ausgezeichnet"
     ]
    },
    {
     "text": "Das sitzt!",
-    "audio": "audio/de-fr/lob/lob_das_sitzt.mp3",
+    "audio": "audio/de-fr/lob/lob_das_sitzt.mp3?v=317b28f0",
     "gruppe": [
      "sitzt"
     ]
    },
    {
     "text": "Gut gesagt!",
-    "audio": "audio/de-fr/lob/lob_gut_gesagt.mp3",
+    "audio": "audio/de-fr/lob/lob_gut_gesagt.mp3?v=65ca7908",
     "gruppe": [
      "gesagt"
     ]
    },
    {
     "text": "Fehlerfrei!",
-    "audio": "audio/de-fr/lob/lob_fehlerfrei.mp3",
+    "audio": "audio/de-fr/lob/lob_fehlerfrei.mp3?v=0562df40",
     "gruppe": [
      "fehlerfrei"
     ]
    },
    {
     "text": "Was für ein Akzent!",
-    "audio": "audio/de-fr/lob/lob_was_fuer_ein_akzent.mp3",
+    "audio": "audio/de-fr/lob/lob_was_fuer_ein_akzent.mp3?v=8874bc4c",
     "gruppe": [
      "akzent"
     ]
    },
    {
     "text": "Das ist Deutsch!",
-    "audio": "audio/de-fr/lob/lob_das_ist_deutsch.mp3",
+    "audio": "audio/de-fr/lob/lob_das_ist_deutsch.mp3?v=e7858e96",
     "gruppe": [
      "deutsch"
     ]
    },
    {
     "text": "Wie ein Saarländer!",
-    "audio": "audio/de-fr/lob/lob_wie_ein_saarlaender.mp3",
+    "audio": "audio/de-fr/lob/lob_wie_ein_saarlaender.mp3?v=f157183b",
     "gruppe": [
      "saarland"
     ]
    },
    {
     "text": "Du hast ein gutes Ohr!",
-    "audio": "audio/de-fr/lob/lob_du_hast_ein_ohr.mp3",
+    "audio": "audio/de-fr/lob/lob_du_hast_ein_ohr.mp3?v=fed69ae1",
     "gruppe": [
      "ohr"
     ]
    },
    {
     "text": "Das klingt gut!",
-    "audio": "audio/de-fr/lob/lob_klingt_gut.mp3",
+    "audio": "audio/de-fr/lob/lob_klingt_gut.mp3?v=34f2b455",
     "gruppe": [
      "klingt"
     ]
    },
    {
     "text": "Ich liebe es!",
-    "audio": "audio/de-fr/lob/lob_ich_liebs.mp3",
+    "audio": "audio/de-fr/lob/lob_ich_liebs.mp3?v=7f2fa8db",
     "gruppe": [
      "liebe"
     ]
    },
    {
     "text": "Du wirst immer besser!",
-    "audio": "audio/de-fr/lob/lob_du_wirst_besser.mp3",
+    "audio": "audio/de-fr/lob/lob_du_wirst_besser.mp3?v=a53ae1a8",
     "gruppe": [
      "besser"
     ]
    },
    {
     "text": "Noch ein Punkt!",
-    "audio": "audio/de-fr/lob/lob_noch_ein_punkt.mp3",
+    "audio": "audio/de-fr/lob/lob_noch_ein_punkt.mp3?v=2c168f86",
     "gruppe": [
      "punkt"
     ]
    },
    {
     "text": "Auf den Punkt!",
-    "audio": "audio/de-fr/lob/lob_auf_den_punkt.mp3",
+    "audio": "audio/de-fr/lob/lob_auf_den_punkt.mp3?v=7cf24a08",
     "gruppe": [
      "punkt"
     ]
    },
    {
     "text": "Beim ersten Mal!",
-    "audio": "audio/de-fr/lob/lob_beim_ersten_mal.mp3",
+    "audio": "audio/de-fr/lob/lob_beim_ersten_mal.mp3?v=abf46527",
     "gruppe": [
      "erste"
     ]
    },
    {
     "text": "Nichts zu sagen!",
-    "audio": "audio/de-fr/lob/lob_nichts_zu_sagen.mp3",
+    "audio": "audio/de-fr/lob/lob_nichts_zu_sagen.mp3?v=9bf87a5e",
     "gruppe": [
      "nichts"
     ]
    },
    {
     "text": "So geht's!",
-    "audio": "audio/de-fr/lob/lob_so_gehts.mp3",
+    "audio": "audio/de-fr/lob/lob_so_gehts.mp3?v=681f18ad",
     "gruppe": [
      "so"
     ]
    },
    {
     "text": "Weiter so!",
-    "audio": "audio/de-fr/lob/lob_weiter_so.mp3",
+    "audio": "audio/de-fr/lob/lob_weiter_so.mp3?v=5eb9f787",
     "gruppe": [
      "weiter"
     ]
    },
    {
     "text": "Du kannst es!",
-    "audio": "audio/de-fr/lob/lob_du_kannst_es.mp3",
+    "audio": "audio/de-fr/lob/lob_du_kannst_es.mp3?v=9abb605a",
     "gruppe": [
      "kannst"
     ]
    },
    {
     "text": "Glückwunsch!",
-    "audio": "audio/de-fr/lob/lob_glueckwunsch.mp3",
+    "audio": "audio/de-fr/lob/lob_glueckwunsch.mp3?v=debcb2ad",
     "gruppe": [
      "glueckwunsch"
     ]
    },
    {
     "text": "Top!",
-    "audio": "audio/de-fr/lob/lob_top.mp3",
+    "audio": "audio/de-fr/lob/lob_top.mp3?v=ab477033",
     "gruppe": [
      "top"
     ]
    },
    {
     "text": "Meisterhaft!",
-    "audio": "audio/de-fr/lob/lob_meisterhaft.mp3",
+    "audio": "audio/de-fr/lob/lob_meisterhaft.mp3?v=9bbfd81e",
     "gruppe": [
      "meister"
     ]
    },
    {
     "text": "Wie ein Profi!",
-    "audio": "audio/de-fr/lob/lob_wie_ein_profi.mp3",
+    "audio": "audio/de-fr/lob/lob_wie_ein_profi.mp3?v=43e556bd",
     "gruppe": [
      "profi"
     ]
    },
    {
     "text": "Sehr gut, Herr Lehrer!",
-    "audio": "audio/de-fr/lob/lob_herr_lehrer.mp3",
+    "audio": "audio/de-fr/lob/lob_herr_lehrer.mp3?v=9b3839dc",
     "gruppe": [
      "lehrer"
     ]
    },
    {
     "text": "Jawohl!",
-    "audio": "audio/de-fr/lob/lob_jawohl.mp3",
+    "audio": "audio/de-fr/lob/lob_jawohl.mp3?v=afffffbd",
     "gruppe": [
      "ja"
     ]
    },
    {
     "text": "Einwandfrei!",
-    "audio": "audio/de-fr/lob/lob_einwandfrei.mp3",
+    "audio": "audio/de-fr/lob/lob_einwandfrei.mp3?v=4fdc80ba",
     "gruppe": [
      "einwandfrei"
     ]
    },
    {
     "text": "Zack, richtig!",
-    "audio": "audio/de-fr/lob/lob_zack.mp3",
+    "audio": "audio/de-fr/lob/lob_zack.mp3?v=e6377cd5",
     "gruppe": [
      "zack"
     ]
    },
    {
     "text": "Das war's!",
-    "audio": "audio/de-fr/lob/lob_das_wars.mp3",
+    "audio": "audio/de-fr/lob/lob_das_wars.mp3?v=59606232",
     "gruppe": [
      "wars"
     ]
    },
    {
     "text": "Genau so!",
-    "audio": "audio/de-fr/lob/lob_genau_so.mp3",
+    "audio": "audio/de-fr/lob/lob_genau_so.mp3?v=aa1b531e",
     "gruppe": [
      "genau"
     ]
    },
    {
     "text": "Gut getroffen!",
-    "audio": "audio/de-fr/lob/lob_gut_getroffen.mp3",
+    "audio": "audio/de-fr/lob/lob_gut_getroffen.mp3?v=b1a79a06",
     "gruppe": [
      "treffer"
     ]
    },
    {
     "text": "Hut ab!",
-    "audio": "audio/de-fr/lob/lob_hut_ab.mp3",
+    "audio": "audio/de-fr/lob/lob_hut_ab.mp3?v=017ca95d",
     "gruppe": [
      "hut"
     ]
    },
    {
     "text": "Bestens!",
-    "audio": "audio/de-fr/lob/lob_bestens.mp3",
+    "audio": "audio/de-fr/lob/lob_bestens.mp3?v=d003e0b9",
     "gruppe": [
      "bestens"
     ]
    },
    {
     "text": "Passt!",
-    "audio": "audio/de-fr/lob/lob_passt.mp3",
+    "audio": "audio/de-fr/lob/lob_passt.mp3?v=e1fd62eb",
     "gruppe": [
      "passt"
     ]
    },
    {
     "text": "Schön!",
-    "audio": "audio/de-fr/lob/lob_schoen.mp3",
+    "audio": "audio/de-fr/lob/lob_schoen.mp3?v=d952ccf9",
     "gruppe": [
      "schoen"
     ]
    },
    {
     "text": "Glatt durch!",
-    "audio": "audio/de-fr/lob/lob_glatt.mp3",
+    "audio": "audio/de-fr/lob/lob_glatt.mp3?v=013a7df0",
     "gruppe": [
      "glatt"
     ]
@@ -6776,98 +6776,98 @@ window.SPRACHEN["de-fr"] = {
   "stark": [
    {
     "text": "Bravo, Champion!",
-    "audio": "audio/de-fr/lob/stark_champion.mp3",
+    "audio": "audio/de-fr/lob/stark_champion.mp3?v=326bc1b0",
     "gruppe": [
      "champion"
     ]
    },
    {
     "text": "Unglaublich! Du bist in Serie!",
-    "audio": "audio/de-fr/lob/stark_serie.mp3",
+    "audio": "audio/de-fr/lob/stark_serie.mp3?v=5e7e3770",
     "gruppe": [
      "serie"
     ]
    },
    {
     "text": "Ich bin stolz auf dich!",
-    "audio": "audio/de-fr/lob/stark_stolz.mp3",
+    "audio": "audio/de-fr/lob/stark_stolz.mp3?v=55d0a637",
     "gruppe": [
      "stolz"
     ]
    },
    {
     "text": "Großartig! Weiter so!",
-    "audio": "audio/de-fr/lob/stark_weiter.mp3",
+    "audio": "audio/de-fr/lob/stark_weiter.mp3?v=31d8ba13",
     "gruppe": [
      "weiter"
     ]
    },
    {
     "text": "Was für eine Maschine!",
-    "audio": "audio/de-fr/lob/stark_maschine.mp3",
+    "audio": "audio/de-fr/lob/stark_maschine.mp3?v=5c8079fe",
     "gruppe": [
      "maschine"
     ]
    },
    {
     "text": "Du bist ein Star!",
-    "audio": "audio/de-fr/lob/stark_star.mp3",
+    "audio": "audio/de-fr/lob/stark_star.mp3?v=f5e816a2",
     "gruppe": [
      "star"
     ]
    },
    {
     "text": "Beeindruckend!",
-    "audio": "audio/de-fr/lob/stark_beeindruckend.mp3",
+    "audio": "audio/de-fr/lob/stark_beeindruckend.mp3?v=6d6c2035",
     "gruppe": [
      "beeindruckend"
     ]
    },
    {
     "text": "Du lässt es leicht aussehen!",
-    "audio": "audio/de-fr/lob/stark_leicht.mp3",
+    "audio": "audio/de-fr/lob/stark_leicht.mp3?v=558094fc",
     "gruppe": [
      "leicht"
     ]
    },
    {
     "text": "Genau das wollte ich hören!",
-    "audio": "audio/de-fr/lob/stark_hoeren.mp3",
+    "audio": "audio/de-fr/lob/stark_hoeren.mp3?v=39924c54",
     "gruppe": [
      "hoeren"
     ]
    },
    {
     "text": "Heute fliegst du!",
-    "audio": "audio/de-fr/lob/stark_fliegst.mp3",
+    "audio": "audio/de-fr/lob/stark_fliegst.mp3?v=7f1425c5",
     "gruppe": [
      "fliegst"
     ]
    },
    {
     "text": "Ins Schwarze!",
-    "audio": "audio/de-fr/lob/stark_schwarze.mp3",
+    "audio": "audio/de-fr/lob/stark_schwarze.mp3?v=5bae5d7c",
     "gruppe": [
      "schwarze"
     ]
    },
    {
     "text": "Was für eine Leistung!",
-    "audio": "audio/de-fr/lob/stark_leistung.mp3",
+    "audio": "audio/de-fr/lob/stark_leistung.mp3?v=92a942b6",
     "gruppe": [
      "leistung"
     ]
    },
    {
     "text": "Du rockst das!",
-    "audio": "audio/de-fr/lob/stark_rockst.mp3",
+    "audio": "audio/de-fr/lob/stark_rockst.mp3?v=29fcbc52",
     "gruppe": [
      "rockst"
     ]
    },
    {
     "text": "Was für ein Niveau!",
-    "audio": "audio/de-fr/lob/stark_niveau.mp3",
+    "audio": "audio/de-fr/lob/stark_niveau.mp3?v=df47247f",
     "gruppe": [
      "niveau"
     ]
@@ -6876,70 +6876,70 @@ window.SPRACHEN["de-fr"] = {
   "fehler": [
    {
     "text": "Fast!",
-    "audio": "audio/de-fr/lob/fehler_fast.mp3",
+    "audio": "audio/de-fr/lob/fehler_fast.mp3?v=0a3f2e1c",
     "gruppe": [
      "fast"
     ]
    },
    {
     "text": "Nicht ganz.",
-    "audio": "audio/de-fr/lob/fehler_nicht_ganz.mp3",
+    "audio": "audio/de-fr/lob/fehler_nicht_ganz.mp3?v=11e93b4d",
     "gruppe": [
      "ganz"
     ]
    },
    {
     "text": "Noch ein Versuch!",
-    "audio": "audio/de-fr/lob/fehler_noch_mal.mp3",
+    "audio": "audio/de-fr/lob/fehler_noch_mal.mp3?v=1ffd8dc7",
     "gruppe": [
      "versuch"
     ]
    },
    {
     "text": "Macht nichts!",
-    "audio": "audio/de-fr/lob/fehler_macht_nichts.mp3",
+    "audio": "audio/de-fr/lob/fehler_macht_nichts.mp3?v=fd3e0850",
     "gruppe": [
      "nichts"
     ]
    },
    {
     "text": "Oh je!",
-    "audio": "audio/de-fr/lob/fehler_oh.mp3",
+    "audio": "audio/de-fr/lob/fehler_oh.mp3?v=26dfb46e",
     "gruppe": [
      "oh"
     ]
    },
    {
     "text": "Hmm…",
-    "audio": "audio/de-fr/lob/fehler_hmm.mp3",
+    "audio": "audio/de-fr/lob/fehler_hmm.mp3?v=cd7a1cd8",
     "gruppe": [
      "hmm"
     ]
    },
    {
     "text": "Knapp daneben!",
-    "audio": "audio/de-fr/lob/fehler_knapp.mp3",
+    "audio": "audio/de-fr/lob/fehler_knapp.mp3?v=6a1b9a8f",
     "gruppe": [
      "knapp"
     ]
    },
    {
     "text": "Fast, fast!",
-    "audio": "audio/de-fr/lob/fehler_fast_fast.mp3",
+    "audio": "audio/de-fr/lob/fehler_fast_fast.mp3?v=cee37740",
     "gruppe": [
      "fast"
     ]
    },
    {
     "text": "Diesmal nicht!",
-    "audio": "audio/de-fr/lob/fehler_diesmal_nicht.mp3",
+    "audio": "audio/de-fr/lob/fehler_diesmal_nicht.mp3?v=73660d5d",
     "gruppe": [
      "diesmal"
     ]
    },
    {
     "text": "Macht nichts, noch mal von vorn!",
-    "audio": "audio/de-fr/lob/fehler_von_vorn.mp3",
+    "audio": "audio/de-fr/lob/fehler_von_vorn.mp3?v=771095b8",
     "gruppe": [
      "nichts"
     ]
@@ -6948,21 +6948,21 @@ window.SPRACHEN["de-fr"] = {
   "geschafft": [
    {
     "text": "Schluss für heute! Hut ab!",
-    "audio": "audio/de-fr/lob/geschafft_schluss.mp3",
+    "audio": "audio/de-fr/lob/geschafft_schluss.mp3?v=da431043",
     "gruppe": [
      "schluss"
     ]
    },
    {
     "text": "Bravo, du hast alles geschafft! Bis morgen!",
-    "audio": "audio/de-fr/lob/geschafft_alles.mp3",
+    "audio": "audio/de-fr/lob/geschafft_alles.mp3?v=505a1a58",
     "gruppe": [
      "bravo"
     ]
    },
    {
     "text": "Du kannst stolz auf dich sein. Bis morgen!",
-    "audio": "audio/de-fr/lob/geschafft_stolz.mp3",
+    "audio": "audio/de-fr/lob/geschafft_stolz.mp3?v=a2485af9",
     "gruppe": [
      "stolz"
     ]
@@ -6971,7 +6971,7 @@ window.SPRACHEN["de-fr"] = {
   "voll": [
    {
     "text": "Fehlerfrei! Wunderbar!",
-    "audio": "audio/de-fr/lob/voll_fehlerfrei.mp3",
+    "audio": "audio/de-fr/lob/voll_fehlerfrei.mp3?v=2020e7d8",
     "gruppe": [
      "fehlerfrei"
     ]
@@ -6980,7 +6980,7 @@ window.SPRACHEN["de-fr"] = {
   "doch": [
    {
     "text": "Siehst du? Du kannst es!",
-    "audio": "audio/de-fr/lob/doch_siehst_du.mp3",
+    "audio": "audio/de-fr/lob/doch_siehst_du.mp3?v=a4a2b841",
     "gruppe": [
      "siehst"
     ]
@@ -7012,7 +7012,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 445.0,
     "fakt": "Saarbrücken liegt an der Saar, zehn Minuten von Frankreich. Hier sagt man « Guten Tag » und « Bonjour » im selben Satz. Und die Saarbahn fährt bis Saargemünd.",
     "fakt_de": "Sarrebruck est sur la Sarre, à dix minutes de la France. Ici, on dit « Guten Tag » et « Bonjour » dans la même phrase. Et le tram va jusqu'à Sarreguemines.",
-    "audio": "audio/de-fr/orte/saarbruecken.mp3"
+    "audio": "audio/de-fr/orte/saarbruecken.mp3?v=bc101719"
    },
    {
     "id": "voelklingen",
@@ -7024,7 +7024,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 444.4,
     "fakt": "Die Völklinger Hütte war ein Eisenwerk. Seit 1994 ist sie Weltkulturerbe: die erste Fabrik auf der UNESCO-Liste. Heute gibt es dort Konzerte.",
     "fakt_de": "L'usine sidérurgique de Völklingen était une aciérie. Depuis 1994, elle est patrimoine mondial : la première usine sur la liste de l'UNESCO. Aujourd'hui, on y donne des concerts.",
-    "audio": "audio/de-fr/orte/voelklingen.mp3"
+    "audio": "audio/de-fr/orte/voelklingen.mp3?v=34bb6525"
    },
    {
     "id": "saarschleife",
@@ -7036,7 +7036,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 425.3,
     "fakt": "Die Saar macht bei Mettlach eine Kehre von 180 Grad. Vom Baumwipfelpfad sieht man die ganze Schleife. Und manchmal bis nach Frankreich.",
     "fakt_de": "La Sarre fait un virage à 180 degrés près de Mettlach. Depuis le sentier dans les cimes, on voit toute la boucle. Et parfois jusqu'en France.",
-    "audio": "audio/de-fr/orte/saarschleife.mp3"
+    "audio": "audio/de-fr/orte/saarschleife.mp3?v=28540ea2"
    },
    {
     "id": "trier",
@@ -7048,7 +7048,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 405.6,
     "fakt": "Trier ist die älteste Stadt Deutschlands: gegründet 16 vor Christus. Die Porta Nigra steht seit 1800 Jahren. Karl Marx wurde hier geboren.",
     "fakt_de": "Trèves est la plus vieille ville d'Allemagne : fondée en 16 avant J.-C. La Porta Nigra tient debout depuis 1800 ans. Karl Marx est né ici.",
-    "audio": "audio/de-fr/orte/trier.mp3"
+    "audio": "audio/de-fr/orte/trier.mp3?v=ce5b4cff"
    },
    {
     "id": "mainz",
@@ -7060,7 +7060,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 387.9,
     "fakt": "In Mainz erfand Gutenberg um 1450 den Buchdruck. Die Stadt ist auch die Hauptstadt des Karnevals am Rhein: « Helau! »",
     "fakt_de": "À Mayence, Gutenberg a inventé l'imprimerie vers 1450. La ville est aussi la capitale du carnaval rhénan : « Helau ! »",
-    "audio": "audio/de-fr/orte/mainz.mp3"
+    "audio": "audio/de-fr/orte/mainz.mp3?v=7525a34f"
    },
    {
     "id": "heidelberg",
@@ -7072,7 +7072,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 433.0,
     "fakt": "Heidelberg hat die älteste Universität Deutschlands, von 1386. Das Schloss ist eine Ruine, und genau deshalb lieben es alle.",
     "fakt_de": "Heidelberg a la plus vieille université d'Allemagne, de 1386. Le château est une ruine, et c'est justement pour ça que tout le monde l'adore.",
-    "audio": "audio/de-fr/orte/heidelberg.mp3"
+    "audio": "audio/de-fr/orte/heidelberg.mp3?v=e3bf10a7"
    },
    {
     "id": "stuttgart",
@@ -7084,7 +7084,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 480.3,
     "fakt": "Stuttgart hat Mercedes, Porsche und Weinberge mitten in der Stadt. Die Schwaben sagen: « Schaffe, schaffe, Häusle baue. »",
     "fakt_de": "Stuttgart a Mercedes, Porsche et des vignes en pleine ville. Les Souabes disent : « Travailler, travailler, construire une petite maison. »",
-    "audio": "audio/de-fr/orte/stuttgart.mp3"
+    "audio": "audio/de-fr/orte/stuttgart.mp3?v=3a865337"
    },
    {
     "id": "schwarzwald",
@@ -7096,7 +7096,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 539.2,
     "fakt": "Im Schwarzwald wurden die Kuckucksuhr und die Kirschtorte erfunden. Und der Bollenhut: rote Bollen für Ledige, schwarze für Verheiratete.",
     "fakt_de": "Dans la Forêt-Noire, on a inventé le coucou et le gâteau à la cerise. Et le Bollenhut : pompons rouges pour les célibataires, noirs pour les mariées.",
-    "audio": "audio/de-fr/orte/schwarzwald.mp3"
+    "audio": "audio/de-fr/orte/schwarzwald.mp3?v=a1c75861"
    },
    {
     "id": "freiburg",
@@ -7108,7 +7108,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 539.3,
     "fakt": "Freiburg ist die sonnigste Stadt Deutschlands. Durch die Altstadt fließen die Bächle: Wer hineintritt, muss eine Freiburgerin heiraten. Sagt man.",
     "fakt_de": "Fribourg est la ville la plus ensoleillée d'Allemagne. Dans la vieille ville coulent les Bächle : qui y met le pied doit épouser une Fribourgeoise. Dit-on.",
-    "audio": "audio/de-fr/orte/freiburg.mp3"
+    "audio": "audio/de-fr/orte/freiburg.mp3?v=560cac5f"
    },
    {
     "id": "bodensee",
@@ -7120,7 +7120,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 565.8,
     "fakt": "Der Bodensee gehört drei Ländern: Deutschland, Österreich, Schweiz. Niemand weiß genau, wo die Grenze im Wasser verläuft. Es stört auch niemanden.",
     "fakt_de": "Le lac de Constance appartient à trois pays : l'Allemagne, l'Autriche, la Suisse. Personne ne sait exactement où passe la frontière dans l'eau. Ça ne dérange personne non plus.",
-    "audio": "audio/de-fr/orte/bodensee.mp3"
+    "audio": "audio/de-fr/orte/bodensee.mp3?v=2aad8d3e"
    },
    {
     "id": "neuschwanstein",
@@ -7132,7 +7132,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 572.8,
     "fakt": "Schloss Neuschwanstein ließ König Ludwig II. bauen, 1869. Er wohnte nur 172 Tage darin. Disney hat es für sein Logo kopiert.",
     "fakt_de": "Le château de Neuschwanstein a été construit pour le roi Louis II, en 1869. Il n'y a habité que 172 jours. Disney l'a copié pour son logo.",
-    "audio": "audio/de-fr/orte/neuschwanstein.mp3"
+    "audio": "audio/de-fr/orte/neuschwanstein.mp3?v=a95ee4f8"
    },
    {
     "id": "muenchen",
@@ -7144,7 +7144,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 529.0,
     "fakt": "München hat das Oktoberfest, das im September beginnt. Sechs Millionen Besucher, sieben Millionen Maß Bier. Die Brezeln sind so groß wie ein Teller.",
     "fakt_de": "Munich a l'Oktoberfest, qui commence en septembre. Six millions de visiteurs, sept millions de chopes d'un litre. Les bretzels sont grands comme une assiette.",
-    "audio": "audio/de-fr/orte/muenchen.mp3"
+    "audio": "audio/de-fr/orte/muenchen.mp3?v=d59bd87a"
    },
    {
     "id": "zugspitze",
@@ -7156,7 +7156,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 583.2,
     "fakt": "Die Zugspitze ist mit 2962 Metern der höchste Berg Deutschlands. Oben gibt es ein Biergarten und eine Grenze: Ein Schritt, und man ist in Österreich.",
     "fakt_de": "La Zugspitze est, avec 2962 mètres, le plus haut sommet d'Allemagne. En haut, il y a une terrasse à bière et une frontière : un pas, et on est en Autriche.",
-    "audio": "audio/de-fr/orte/zugspitze.mp3"
+    "audio": "audio/de-fr/orte/zugspitze.mp3?v=94bd72fb"
    },
    {
     "id": "nuernberg",
@@ -7168,7 +7168,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 429.0,
     "fakt": "Nürnberg hat den berühmtesten Weihnachtsmarkt, den Christkindlesmarkt. Und die Lebkuchen. Und die kleinen Bratwürste: drei im Weck.",
     "fakt_de": "Nuremberg a le plus célèbre marché de Noël, le Christkindlesmarkt. Et les pains d'épices. Et les petites saucisses grillées : trois dans un petit pain.",
-    "audio": "audio/de-fr/orte/nuernberg.mp3"
+    "audio": "audio/de-fr/orte/nuernberg.mp3?v=28b4ddb5"
    },
    {
     "id": "regensburg",
@@ -7180,7 +7180,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 462.3,
     "fakt": "Die Steinerne Brücke in Regensburg ist 900 Jahre alt. Daneben steht die Historische Wurstkuchl: Bratwürste seit 1146. Das älteste Fast-Food der Welt.",
     "fakt_de": "Le pont de pierre de Ratisbonne a 900 ans. À côté se trouve la Historische Wurstkuchl : des saucisses grillées depuis 1146. Le plus vieux fast-food du monde.",
-    "audio": "audio/de-fr/orte/regensburg.mp3"
+    "audio": "audio/de-fr/orte/regensburg.mp3?v=5fa78ae4"
    },
    {
     "id": "rothenburg",
@@ -7192,7 +7192,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 434.7,
     "fakt": "Rothenburg sieht aus wie im Mittelalter, weil die Stadt nach 1650 kein Geld mehr hatte, um etwas zu verändern. Heute ist das ihr Glück.",
     "fakt_de": "Rothenburg a l'air médiévale parce qu'après 1650, la ville n'avait plus d'argent pour changer quoi que ce soit. Aujourd'hui, c'est sa chance.",
-    "audio": "audio/de-fr/orte/rothenburg.mp3"
+    "audio": "audio/de-fr/orte/rothenburg.mp3?v=2bd2e3de"
    },
    {
     "id": "wuerzburg",
@@ -7204,7 +7204,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 403.2,
     "fakt": "Die Residenz in Würzburg hat das größte Deckenfresko der Welt, von Tiepolo. Und der Frankenwein kommt im Bocksbeutel: eine flache, runde Flasche.",
     "fakt_de": "La Résidence de Wurtzbourg a la plus grande fresque de plafond du monde, de Tiepolo. Et le vin de Franconie vient dans un Bocksbeutel : une bouteille plate et ronde.",
-    "audio": "audio/de-fr/orte/wuerzburg.mp3"
+    "audio": "audio/de-fr/orte/wuerzburg.mp3?v=36d843fd"
    },
    {
     "id": "frankfurt",
@@ -7216,7 +7216,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 378.9,
     "fakt": "Frankfurt hat die Wolkenkratzer und die Europäische Zentralbank. Man nennt es « Mainhattan ». Goethe wurde hier geboren. Er ist trotzdem weggezogen.",
     "fakt_de": "Francfort a les gratte-ciel et la Banque centrale européenne. On l'appelle « Mainhattan ». Goethe est né ici. Il est quand même parti.",
-    "audio": "audio/de-fr/orte/frankfurt.mp3"
+    "audio": "audio/de-fr/orte/frankfurt.mp3?v=c11655d7"
    },
    {
     "id": "marburg",
@@ -7228,7 +7228,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 325.8,
     "fakt": "In Marburg studierten die Brüder Grimm und sammelten Märchen. Die Altstadt ist so steil, dass die Häuser Aufzüge für Fußgänger haben.",
     "fakt_de": "À Marbourg, les frères Grimm ont étudié et collecté des contes. La vieille ville est si pentue que les maisons ont des ascenseurs pour piétons.",
-    "audio": "audio/de-fr/orte/marburg.mp3"
+    "audio": "audio/de-fr/orte/marburg.mp3?v=3fa97359"
    },
    {
     "id": "koeln",
@@ -7240,7 +7240,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 316.1,
     "fakt": "Der Kölner Dom wurde 632 Jahre lang gebaut. Fertig seit 1880. Die Kölner sagen: « Et hätt noch immer jot jejange. » Es ist immer gut gegangen.",
     "fakt_de": "La cathédrale de Cologne a été construite pendant 632 ans. Terminée en 1880. Les Colonais disent : « Ça s'est toujours bien passé. »",
-    "audio": "audio/de-fr/orte/koeln.mp3"
+    "audio": "audio/de-fr/orte/koeln.mp3?v=912b2111"
    },
    {
     "id": "duesseldorf",
@@ -7252,7 +7252,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 294.1,
     "fakt": "Düsseldorf und Köln streiten seit Jahrhunderten. Über Bier: Altbier gegen Kölsch. Über Karneval. Über alles. Heine wurde hier geboren und liebte Paris.",
     "fakt_de": "Düsseldorf et Cologne se disputent depuis des siècles. Sur la bière : Altbier contre Kölsch. Sur le carnaval. Sur tout. Heine est né ici et adorait Paris.",
-    "audio": "audio/de-fr/orte/duesseldorf.mp3"
+    "audio": "audio/de-fr/orte/duesseldorf.mp3?v=56db7577"
    },
    {
     "id": "aachen",
@@ -7264,7 +7264,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 328.5,
     "fakt": "In Aachen regierte Karl der Große. Sein Dom ist 1200 Jahre alt, das erste deutsche Weltkulturerbe. Die Printen schmecken wie Weihnachten.",
     "fakt_de": "À Aix-la-Chapelle régnait Charlemagne. Sa cathédrale a 1200 ans, le premier patrimoine mondial allemand. Les Printen ont le goût de Noël.",
-    "audio": "audio/de-fr/orte/aachen.mp3"
+    "audio": "audio/de-fr/orte/aachen.mp3?v=e91faaf4"
    },
    {
     "id": "ruhrgebiet",
@@ -7276,7 +7276,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 274.5,
     "fakt": "Die Zeche Zollverein in Essen war die schönste Kohlezeche der Welt. Heute ist sie ein Museum mit Schwimmbad. Das Ruhrgebiet hat fünf Millionen Einwohner.",
     "fakt_de": "La mine Zollverein à Essen était la plus belle mine de charbon du monde. Aujourd'hui, c'est un musée avec piscine. La Ruhr compte cinq millions d'habitants.",
-    "audio": "audio/de-fr/orte/ruhrgebiet.mp3"
+    "audio": "audio/de-fr/orte/ruhrgebiet.mp3?v=ce6b39b2"
    },
    {
     "id": "muenster",
@@ -7288,7 +7288,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 238.4,
     "fakt": "In Münster wurde 1648 der Westfälische Frieden geschlossen. Heute gibt es mehr Fahrräder als Einwohner. Und ein Parkhaus nur für Räder.",
     "fakt_de": "À Münster, la paix de Westphalie a été signée en 1648. Aujourd'hui, il y a plus de vélos que d'habitants. Et un parking rien que pour les vélos.",
-    "audio": "audio/de-fr/orte/muenster.mp3"
+    "audio": "audio/de-fr/orte/muenster.mp3?v=ff86f618"
    },
    {
     "id": "bremen",
@@ -7300,7 +7300,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 153.5,
     "fakt": "Die Bremer Stadtmusikanten sind nie in Bremen angekommen. Trotzdem steht ihre Statue vor dem Rathaus. Wer die Beine des Esels anfasst, hat Glück.",
     "fakt_de": "Les musiciens de Brême ne sont jamais arrivés à Brême. Leur statue se dresse quand même devant l'hôtel de ville. Qui touche les pattes de l'âne a de la chance.",
-    "audio": "audio/de-fr/orte/bremen.mp3"
+    "audio": "audio/de-fr/orte/bremen.mp3?v=e3e1de84"
    },
    {
     "id": "hamburg",
@@ -7312,7 +7312,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 117.6,
     "fakt": "Hamburg hat mehr Brücken als Venedig, Amsterdam und London zusammen: über 2500. Der Hafen ist das Tor zur Welt. Und die Elbphilharmonie hat 10 Jahre gedauert.",
     "fakt_de": "Hambourg a plus de ponts que Venise, Amsterdam et Londres réunis : plus de 2500. Le port est la porte du monde. Et l'Elbphilharmonie a pris dix ans.",
-    "audio": "audio/de-fr/orte/hamburg.mp3"
+    "audio": "audio/de-fr/orte/hamburg.mp3?v=ecf82c9b"
    },
    {
     "id": "luebeck",
@@ -7324,7 +7324,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 93.8,
     "fakt": "Lübeck war die Königin der Hanse. Das Holstentor steht schief, aber fest. Thomas Mann wurde hier geboren, und das Marzipan auch.",
     "fakt_de": "Lübeck était la reine de la Hanse. La Holstentor penche, mais tient. Thomas Mann est né ici, et le massepain aussi.",
-    "audio": "audio/de-fr/orte/luebeck.mp3"
+    "audio": "audio/de-fr/orte/luebeck.mp3?v=c8444149"
    },
    {
     "id": "sylt",
@@ -7336,7 +7336,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 15.2,
     "fakt": "Sylt ist die nördlichste Insel Deutschlands. Vierzig Kilometer Strand, Strandkörbe und ein Zug über das Meer. Die Insel wandert jedes Jahr ein Stück.",
     "fakt_de": "Sylt est l'île la plus au nord de l'Allemagne. Quarante kilomètres de plage, des corbeilles de plage et un train sur la mer. L'île se déplace un peu chaque année.",
-    "audio": "audio/de-fr/orte/sylt.mp3"
+    "audio": "audio/de-fr/orte/sylt.mp3?v=ea44bcf0"
    },
    {
     "id": "kiel",
@@ -7348,7 +7348,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 59.0,
     "fakt": "In Kiel findet jeden Juni die Kieler Woche statt: das größte Segelfest der Welt. Drei Millionen Besucher, fünftausend Segler.",
     "fakt_de": "À Kiel a lieu chaque juin la Kieler Woche : la plus grande fête de la voile au monde. Trois millions de visiteurs, cinq mille marins.",
-    "audio": "audio/de-fr/orte/kiel.mp3"
+    "audio": "audio/de-fr/orte/kiel.mp3?v=3f2d84a7"
    },
    {
     "id": "hannover",
@@ -7360,7 +7360,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 206.9,
     "fakt": "In Hannover spricht man angeblich das reinste Hochdeutsch. Die Herrenhäuser Gärten sind 300 Jahre alt. Und die Könige von England kamen von hier.",
     "fakt_de": "À Hanovre, on parle paraît-il le haut allemand le plus pur. Les jardins de Herrenhausen ont 300 ans. Et les rois d'Angleterre venaient d'ici.",
-    "audio": "audio/de-fr/orte/hannover.mp3"
+    "audio": "audio/de-fr/orte/hannover.mp3?v=29b56829"
    },
    {
     "id": "goettingen",
@@ -7372,7 +7372,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 270.3,
     "fakt": "In Göttingen gab es über 40 Nobelpreisträger. Wer promoviert, küsst das Gänseliesel am Brunnen: das meistgeküsste Mädchen der Welt.",
     "fakt_de": "À Göttingen, il y a eu plus de 40 prix Nobel. Qui passe son doctorat embrasse la Gänseliesel sur la fontaine : la fille la plus embrassée du monde.",
-    "audio": "audio/de-fr/orte/goettingen.mp3"
+    "audio": "audio/de-fr/orte/goettingen.mp3?v=3ea75c45"
    },
    {
     "id": "berlin",
@@ -7384,7 +7384,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 195.9,
     "fakt": "Berlin hat mehr Brücken als Venedig und mehr Museen als Regentage. Die Mauer stand 28 Jahre. Heute kann man an der East Side Gallery entlangfahren.",
     "fakt_de": "Berlin a plus de ponts que Venise et plus de musées que de jours de pluie. Le Mur a tenu 28 ans. Aujourd'hui, on peut longer la East Side Gallery.",
-    "audio": "audio/de-fr/orte/berlin.mp3"
+    "audio": "audio/de-fr/orte/berlin.mp3?v=6c9e59f0"
    },
    {
     "id": "brandenburger_tor",
@@ -7396,7 +7396,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 196.2,
     "fakt": "Das Brandenburger Tor stand 28 Jahre im Niemandsland zwischen Ost und West. Napoleon nahm die Quadriga nach Paris mit. Sie kam zurück.",
     "fakt_de": "La porte de Brandebourg est restée 28 ans dans le no man's land entre Est et Ouest. Napoléon a emporté le quadrige à Paris. Il est revenu.",
-    "audio": "audio/de-fr/orte/brandenburger_tor.mp3"
+    "audio": "audio/de-fr/orte/brandenburger_tor.mp3?v=7a3f012b"
    },
    {
     "id": "potsdam",
@@ -7408,7 +7408,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 205.0,
     "fakt": "Schloss Sanssouci bedeutet « ohne Sorge ». Friedrich der Große sprach lieber Französisch als Deutsch. Auf seinem Grab liegen Kartoffeln.",
     "fakt_de": "Le château de Sanssouci signifie « sans souci ». Frédéric le Grand préférait parler français plutôt qu'allemand. Sur sa tombe, on dépose des pommes de terre.",
-    "audio": "audio/de-fr/orte/potsdam.mp3"
+    "audio": "audio/de-fr/orte/potsdam.mp3?v=821ae312"
    },
    {
     "id": "spreewald",
@@ -7420,7 +7420,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 245.3,
     "fakt": "Im Spreewald fährt die Post mit dem Kahn. Es gibt 1500 Kilometer Wasserwege, und die Gurken sind berühmt. Hier leben die Sorben, mit eigener Sprache.",
     "fakt_de": "Dans le Spreewald, le courrier circule en barque. Il y a 1500 kilomètres de voies d'eau, et les cornichons sont célèbres. Ici vivent les Sorabes, avec leur propre langue.",
-    "audio": "audio/de-fr/orte/spreewald.mp3"
+    "audio": "audio/de-fr/orte/spreewald.mp3?v=7f0770c7"
    },
    {
     "id": "dresden",
@@ -7432,7 +7432,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 307.6,
     "fakt": "Dresden heißt « Elbflorenz ». Die Frauenkirche lag 50 Jahre in Trümmern und wurde 2005 wieder aufgebaut, Stein für Stein. Mit alten und neuen Steinen.",
     "fakt_de": "Dresde s'appelle « la Florence de l'Elbe ». La Frauenkirche est restée 50 ans en ruines et a été reconstruite en 2005, pierre par pierre. Avec des pierres anciennes et nouvelles.",
-    "audio": "audio/de-fr/orte/dresden.mp3"
+    "audio": "audio/de-fr/orte/dresden.mp3?v=7b1da16c"
    },
    {
     "id": "leipzig",
@@ -7444,7 +7444,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 285.6,
     "fakt": "In Leipzig arbeitete Bach 27 Jahre lang. 1989 begann hier die friedliche Revolution: « Wir sind das Volk. » Montags, in der Nikolaikirche.",
     "fakt_de": "À Leipzig, Bach a travaillé 27 ans. En 1989, la révolution pacifique a commencé ici : « Nous sommes le peuple. » Le lundi, à l'église Saint-Nicolas.",
-    "audio": "audio/de-fr/orte/leipzig.mp3"
+    "audio": "audio/de-fr/orte/leipzig.mp3?v=670e5397"
    },
    {
     "id": "saechsische_schweiz",
@@ -7456,7 +7456,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 317.5,
     "fakt": "Die Bastei ist eine Felsenbrücke 200 Meter über der Elbe. Caspar David Friedrich malte hier. Die Schweiz ist weit weg, der Name blieb trotzdem.",
     "fakt_de": "La Bastei est un pont de rochers à 200 mètres au-dessus de l'Elbe. Caspar David Friedrich a peint ici. La Suisse est loin, le nom est resté quand même.",
-    "audio": "audio/de-fr/orte/saechsische_schweiz.mp3"
+    "audio": "audio/de-fr/orte/saechsische_schweiz.mp3?v=5ef2dc7e"
    },
    {
     "id": "weimar",
@@ -7468,7 +7468,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 312.9,
     "fakt": "In Weimar lebten Goethe und Schiller, Tür an Tür. Später kam das Bauhaus. Die Stadt hat 65.000 Einwohner und mehr Kultur als manche Hauptstadt.",
     "fakt_de": "À Weimar vivaient Goethe et Schiller, porte à porte. Plus tard est venu le Bauhaus. La ville a 65 000 habitants et plus de culture que certaines capitales.",
-    "audio": "audio/de-fr/orte/weimar.mp3"
+    "audio": "audio/de-fr/orte/weimar.mp3?v=0b46d72a"
    },
    {
     "id": "wartburg",
@@ -7480,7 +7480,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 314.0,
     "fakt": "Auf der Wartburg übersetzte Luther 1521 die Bibel ins Deutsche, in elf Wochen. Er warf angeblich ein Tintenfass nach dem Teufel. Der Fleck ist weg.",
     "fakt_de": "À la Wartburg, Luther a traduit la Bible en allemand en 1521, en onze semaines. Il aurait jeté un encrier sur le diable. La tache a disparu.",
-    "audio": "audio/de-fr/orte/wartburg.mp3"
+    "audio": "audio/de-fr/orte/wartburg.mp3?v=349ad216"
    },
    {
     "id": "erfurt",
@@ -7492,7 +7492,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 312.5,
     "fakt": "Die Krämerbrücke in Erfurt ist die längste bebaute Brücke Europas: 32 Häuser auf einer Brücke. Man merkt gar nicht, dass man über Wasser geht.",
     "fakt_de": "Le Krämerbrücke à Erfurt est le plus long pont habité d'Europe : 32 maisons sur un pont. On ne remarque même pas qu'on marche au-dessus de l'eau.",
-    "audio": "audio/de-fr/orte/erfurt.mp3"
+    "audio": "audio/de-fr/orte/erfurt.mp3?v=21b7031f"
    },
    {
     "id": "harz",
@@ -7504,7 +7504,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 250.6,
     "fakt": "Der Brocken ist der Hexenberg: In der Walpurgisnacht tanzen hier die Hexen, sagt Goethe im Faust. Eine Dampflok fährt bis zum Gipfel.",
     "fakt_de": "Le Brocken est la montagne des sorcières : la nuit de Walpurgis, les sorcières y dansent, dit Goethe dans Faust. Une locomotive à vapeur monte jusqu'au sommet.",
-    "audio": "audio/de-fr/orte/harz.mp3"
+    "audio": "audio/de-fr/orte/harz.mp3?v=69ccb733"
    },
    {
     "id": "quedlinburg",
@@ -7516,7 +7516,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 251.4,
     "fakt": "Quedlinburg hat 2000 Fachwerkhäuser aus acht Jahrhunderten. Mehr als jede andere Stadt. Hier begann vor 1000 Jahren das deutsche Königreich.",
     "fakt_de": "Quedlinburg a 2000 maisons à colombages de huit siècles. Plus que toute autre ville. Ici a commencé, il y a 1000 ans, le royaume allemand.",
-    "audio": "audio/de-fr/orte/quedlinburg.mp3"
+    "audio": "audio/de-fr/orte/quedlinburg.mp3?v=e2200ef9"
    },
    {
     "id": "rostock",
@@ -7528,7 +7528,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 76.5,
     "fakt": "Rostock hat die älteste Universität Nordeuropas, von 1419. In Warnemünde ist der Strand so breit, dass man das Meer kaum sieht. Im Sommer.",
     "fakt_de": "Rostock a la plus vieille université d'Europe du Nord, de 1419. À Warnemünde, la plage est si large qu'on voit à peine la mer. En été.",
-    "audio": "audio/de-fr/orte/rostock.mp3"
+    "audio": "audio/de-fr/orte/rostock.mp3?v=1cc9373e"
    },
    {
     "id": "ruegen",
@@ -7540,7 +7540,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 45.6,
     "fakt": "Rügen ist die größte Insel Deutschlands. Die Kreidefelsen sind 118 Meter hoch und leuchten weiß. Caspar David Friedrich hat sie berühmt gemacht.",
     "fakt_de": "Rügen est la plus grande île d'Allemagne. Les falaises de craie font 118 mètres et brillent de blanc. Caspar David Friedrich les a rendues célèbres.",
-    "audio": "audio/de-fr/orte/ruegen.mp3"
+    "audio": "audio/de-fr/orte/ruegen.mp3?v=ceea87e3"
    },
    {
     "id": "schwerin",
@@ -7552,7 +7552,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 111.2,
     "fakt": "Das Schloss von Schwerin steht auf einer Insel im See und hat 653 Zimmer. Heute tagt darin der Landtag. Ein Schlossgespenst gibt es auch: Petermännchen.",
     "fakt_de": "Le château de Schwerin est sur une île dans le lac et compte 653 pièces. Aujourd'hui, le parlement régional y siège. Il y a aussi un fantôme : Petermännchen.",
-    "audio": "audio/de-fr/orte/schwerin.mp3"
+    "audio": "audio/de-fr/orte/schwerin.mp3?v=33a94564"
    },
    {
     "id": "koblenz",
@@ -7564,7 +7564,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 360.2,
     "fakt": "In Koblenz fließen Rhein und Mosel zusammen: das Deutsche Eck. Flussaufwärts stehen 40 Burgen auf 65 Kilometern. Und die Loreley singt.",
     "fakt_de": "À Coblence, le Rhin et la Moselle se rejoignent : le Deutsches Eck. En amont, 40 châteaux sur 65 kilomètres. Et la Loreley chante.",
-    "audio": "audio/de-fr/orte/koblenz.mp3"
+    "audio": "audio/de-fr/orte/koblenz.mp3?v=ba765f3d"
    },
    {
     "id": "loreley",
@@ -7576,7 +7576,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 376.8,
     "fakt": "Die Loreley ist ein Felsen am Rhein, 132 Meter hoch. Eine Jungfrau soll dort gesungen und die Schiffer ins Verderben gelockt haben. Heine schrieb das Lied.",
     "fakt_de": "La Loreley est un rocher sur le Rhin, haut de 132 mètres. Une jeune fille y aurait chanté et attiré les bateliers vers leur perte. Heine a écrit le poème.",
-    "audio": "audio/de-fr/orte/loreley.mp3"
+    "audio": "audio/de-fr/orte/loreley.mp3?v=84f56401"
    },
    {
     "id": "speyer",
@@ -7588,7 +7588,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 439.2,
     "fakt": "Der Dom zu Speyer ist die größte romanische Kirche der Welt. Acht Kaiser liegen darin. Und das Technik-Museum hat eine Boeing 747 auf dem Dach.",
     "fakt_de": "La cathédrale de Spire est la plus grande église romane du monde. Huit empereurs y reposent. Et le musée technique a un Boeing 747 sur le toit.",
-    "audio": "audio/de-fr/orte/speyer.mp3"
+    "audio": "audio/de-fr/orte/speyer.mp3?v=744dcdd0"
    },
    {
     "id": "bamberg",
@@ -7600,7 +7600,7 @@ window.SPRACHEN["de-fr"] = {
     "y": 395.0,
     "fakt": "Bamberg steht auf sieben Hügeln wie Rom und hat ein Rathaus mitten im Fluss. Das Rauchbier schmeckt wie Schinken. Beim zweiten Glas gewöhnt man sich daran.",
     "fakt_de": "Bamberg est bâtie sur sept collines comme Rome et a un hôtel de ville au milieu de la rivière. La bière fumée a le goût de jambon. Au deuxième verre, on s'y habitue.",
-    "audio": "audio/de-fr/orte/bamberg.mp3"
+    "audio": "audio/de-fr/orte/bamberg.mp3?v=b57c7810"
    }
   ],
   "karte": {
@@ -9798,55 +9798,55 @@ window.SPRACHEN["de-fr"] = {
     "ab": 300,
     "name": "Bratwurst",
     "symbol": "🌭",
-    "audio": "audio/de-fr/spiel/titel_1.mp3"
+    "audio": "audio/de-fr/spiel/titel_1.mp3?v=0b478f47"
    },
    {
     "ab": 900,
     "name": "Kartoffelsalat",
     "symbol": "🥔",
-    "audio": "audio/de-fr/spiel/titel_2.mp3"
+    "audio": "audio/de-fr/spiel/titel_2.mp3?v=bccd3b44"
    },
    {
     "ab": 1800,
     "name": "Schnitzel",
     "symbol": "🍽️",
-    "audio": "audio/de-fr/spiel/titel_3.mp3"
+    "audio": "audio/de-fr/spiel/titel_3.mp3?v=662574b2"
    },
    {
     "ab": 3000,
     "name": "Sauerbraten",
     "symbol": "🍖",
-    "audio": "audio/de-fr/spiel/titel_4.mp3"
+    "audio": "audio/de-fr/spiel/titel_4.mp3?v=449a77fd"
    },
    {
     "ab": 4500,
     "name": "Schwarzwälder Kirschtorte",
     "symbol": "🍰",
-    "audio": "audio/de-fr/spiel/titel_5.mp3"
+    "audio": "audio/de-fr/spiel/titel_5.mp3?v=f776296f"
    },
    {
     "ab": 6500,
     "name": "Chefkoch",
     "symbol": "✨",
-    "audio": "audio/de-fr/spiel/titel_6.mp3"
+    "audio": "audio/de-fr/spiel/titel_6.mp3?v=3ba752b7"
    }
   ],
   "texte": {
    "feuer": {
     "text": "Du bist in Serie! Drei Tage am Stück!",
-    "audio": "audio/de-fr/spiel/feuer.mp3"
+    "audio": "audio/de-fr/spiel/feuer.mp3?v=accaab96"
    },
    "woche": {
     "text": "Perfekte Woche! Du hast an jedem Schultag gearbeitet. Bravo!",
-    "audio": "audio/de-fr/spiel/woche.mp3"
+    "audio": "audio/de-fr/spiel/woche.mp3?v=32c797f4"
    },
    "monat": {
     "text": "Vier perfekte Wochen am Stück! Was für ein Champion!",
-    "audio": "audio/de-fr/spiel/monat.mp3"
+    "audio": "audio/de-fr/spiel/monat.mp3?v=da6ec871"
    },
    "fini": {
     "text": "Schluss für heute. Bis morgen!",
-    "audio": "audio/de-fr/spiel/fini.mp3"
+    "audio": "audio/de-fr/spiel/fini.mp3?v=2290c10a"
    }
   },
   "frei": [
@@ -9908,932 +9908,932 @@ window.SPRACHEN["de-fr"] = {
   ]
  },
  "audio_liste": [
-  "audio/de-fr/dialoge/d1_01.mp3",
-  "audio/de-fr/dialoge/d1_02.mp3",
-  "audio/de-fr/dialoge/d1_03.mp3",
-  "audio/de-fr/dialoge/d1_04.mp3",
-  "audio/de-fr/dialoge/d1_05.mp3",
-  "audio/de-fr/dialoge/d1_06.mp3",
-  "audio/de-fr/dialoge/d1_07.mp3",
-  "audio/de-fr/dialoge/d1_08.mp3",
-  "audio/de-fr/dialoge/d1_09.mp3",
-  "audio/de-fr/dialoge/d1_10.mp3",
-  "audio/de-fr/dialoge/d2_01.mp3",
-  "audio/de-fr/dialoge/d2_02.mp3",
-  "audio/de-fr/dialoge/d2_03.mp3",
-  "audio/de-fr/dialoge/d2_04.mp3",
-  "audio/de-fr/dialoge/d2_05.mp3",
-  "audio/de-fr/dialoge/d2_06.mp3",
-  "audio/de-fr/dialoge/d2_07.mp3",
-  "audio/de-fr/dialoge/d2_08.mp3",
-  "audio/de-fr/dialoge/d2_09.mp3",
-  "audio/de-fr/dialoge/d2_10.mp3",
-  "audio/de-fr/geschichte/k01_01.mp3",
-  "audio/de-fr/geschichte/k01_02.mp3",
-  "audio/de-fr/geschichte/k01_03.mp3",
-  "audio/de-fr/geschichte/k01_04.mp3",
-  "audio/de-fr/geschichte/k01_05.mp3",
-  "audio/de-fr/geschichte/k01_06.mp3",
-  "audio/de-fr/geschichte/k01_07.mp3",
-  "audio/de-fr/geschichte/k01_08.mp3",
-  "audio/de-fr/geschichte/k01_09.mp3",
-  "audio/de-fr/geschichte/k01_10.mp3",
-  "audio/de-fr/geschichte/k01_11.mp3",
-  "audio/de-fr/geschichte/k01_12.mp3",
-  "audio/de-fr/geschichte/k01_13.mp3",
-  "audio/de-fr/geschichte/k01_14.mp3",
-  "audio/de-fr/geschichte/k02_01.mp3",
-  "audio/de-fr/geschichte/k02_02.mp3",
-  "audio/de-fr/geschichte/k02_03.mp3",
-  "audio/de-fr/geschichte/k02_04.mp3",
-  "audio/de-fr/geschichte/k02_05.mp3",
-  "audio/de-fr/geschichte/k02_06.mp3",
-  "audio/de-fr/geschichte/k02_07.mp3",
-  "audio/de-fr/geschichte/k02_08.mp3",
-  "audio/de-fr/geschichte/k02_09.mp3",
-  "audio/de-fr/geschichte/k02_10.mp3",
-  "audio/de-fr/geschichte/k02_11.mp3",
-  "audio/de-fr/geschichte/k02_12.mp3",
-  "audio/de-fr/geschichte/k02_13.mp3",
-  "audio/de-fr/geschichte/k02_14.mp3",
-  "audio/de-fr/geschichte/k02_15.mp3",
-  "audio/de-fr/geschichte/k03_01.mp3",
-  "audio/de-fr/geschichte/k03_02.mp3",
-  "audio/de-fr/geschichte/k03_03.mp3",
-  "audio/de-fr/geschichte/k03_04.mp3",
-  "audio/de-fr/geschichte/k03_05.mp3",
-  "audio/de-fr/geschichte/k03_06.mp3",
-  "audio/de-fr/geschichte/k03_07.mp3",
-  "audio/de-fr/geschichte/k03_08.mp3",
-  "audio/de-fr/geschichte/k03_09.mp3",
-  "audio/de-fr/geschichte/k03_10.mp3",
-  "audio/de-fr/geschichte/k03_11.mp3",
-  "audio/de-fr/geschichte/k03_12.mp3",
-  "audio/de-fr/geschichte/k03_13.mp3",
-  "audio/de-fr/geschichte/k03_14.mp3",
-  "audio/de-fr/geschichte/k03_15.mp3",
-  "audio/de-fr/laute/ach_01.mp3",
-  "audio/de-fr/laute/ach_02.mp3",
-  "audio/de-fr/laute/ach_03.mp3",
-  "audio/de-fr/laute/ach_04.mp3",
-  "audio/de-fr/laute/ach_05.mp3",
-  "audio/de-fr/laute/ach_06.mp3",
-  "audio/de-fr/laute/ach_07.mp3",
-  "audio/de-fr/laute/ach_08.mp3",
-  "audio/de-fr/laute/b_01.mp3",
-  "audio/de-fr/laute/b_02.mp3",
-  "audio/de-fr/laute/b_03.mp3",
-  "audio/de-fr/laute/b_04.mp3",
-  "audio/de-fr/laute/b_05.mp3",
-  "audio/de-fr/laute/b_06.mp3",
-  "audio/de-fr/laute/b_07.mp3",
-  "audio/de-fr/laute/b_08.mp3",
-  "audio/de-fr/laute/ei_01.mp3",
-  "audio/de-fr/laute/ei_02.mp3",
-  "audio/de-fr/laute/ei_03.mp3",
-  "audio/de-fr/laute/ei_04.mp3",
-  "audio/de-fr/laute/ei_05.mp3",
-  "audio/de-fr/laute/ei_06.mp3",
-  "audio/de-fr/laute/ei_07.mp3",
-  "audio/de-fr/laute/ei_08.mp3",
-  "audio/de-fr/laute/h_01.mp3",
-  "audio/de-fr/laute/h_02.mp3",
-  "audio/de-fr/laute/h_03.mp3",
-  "audio/de-fr/laute/h_04.mp3",
-  "audio/de-fr/laute/h_05.mp3",
-  "audio/de-fr/laute/h_06.mp3",
-  "audio/de-fr/laute/h_07.mp3",
-  "audio/de-fr/laute/h_08.mp3",
-  "audio/de-fr/laute/ich_01.mp3",
-  "audio/de-fr/laute/ich_02.mp3",
-  "audio/de-fr/laute/ich_03.mp3",
-  "audio/de-fr/laute/ich_04.mp3",
-  "audio/de-fr/laute/ich_05.mp3",
-  "audio/de-fr/laute/ich_06.mp3",
-  "audio/de-fr/laute/ich_07.mp3",
-  "audio/de-fr/laute/ich_08.mp3",
-  "audio/de-fr/laute/ie_01.mp3",
-  "audio/de-fr/laute/ie_02.mp3",
-  "audio/de-fr/laute/ie_03.mp3",
-  "audio/de-fr/laute/ie_04.mp3",
-  "audio/de-fr/laute/ie_05.mp3",
-  "audio/de-fr/laute/ie_06.mp3",
-  "audio/de-fr/laute/ie_07.mp3",
-  "audio/de-fr/laute/ie_08.mp3",
-  "audio/de-fr/laute/p1_01a.mp3",
-  "audio/de-fr/laute/p1_01b.mp3",
-  "audio/de-fr/laute/p1_02a.mp3",
-  "audio/de-fr/laute/p1_02b.mp3",
-  "audio/de-fr/laute/p1_03a.mp3",
-  "audio/de-fr/laute/p1_03b.mp3",
-  "audio/de-fr/laute/p1_04a.mp3",
-  "audio/de-fr/laute/p1_04b.mp3",
-  "audio/de-fr/laute/p1_05a.mp3",
-  "audio/de-fr/laute/p1_05b.mp3",
-  "audio/de-fr/laute/p1_06a.mp3",
-  "audio/de-fr/laute/p1_06b.mp3",
-  "audio/de-fr/laute/p1_07a.mp3",
-  "audio/de-fr/laute/p1_07b.mp3",
-  "audio/de-fr/laute/p1_08a.mp3",
-  "audio/de-fr/laute/p1_08b.mp3",
-  "audio/de-fr/laute/p2_01a.mp3",
-  "audio/de-fr/laute/p2_01b.mp3",
-  "audio/de-fr/laute/p2_02a.mp3",
-  "audio/de-fr/laute/p2_02b.mp3",
-  "audio/de-fr/laute/p2_03a.mp3",
-  "audio/de-fr/laute/p2_03b.mp3",
-  "audio/de-fr/laute/p2_04a.mp3",
-  "audio/de-fr/laute/p2_04b.mp3",
-  "audio/de-fr/laute/p2_05a.mp3",
-  "audio/de-fr/laute/p2_05b.mp3",
-  "audio/de-fr/laute/p2_06a.mp3",
-  "audio/de-fr/laute/p2_06b.mp3",
-  "audio/de-fr/laute/p2_07a.mp3",
-  "audio/de-fr/laute/p2_07b.mp3",
-  "audio/de-fr/laute/p2_08a.mp3",
-  "audio/de-fr/laute/p2_08b.mp3",
-  "audio/de-fr/laute/p3_01a.mp3",
-  "audio/de-fr/laute/p3_01b.mp3",
-  "audio/de-fr/laute/p3_02a.mp3",
-  "audio/de-fr/laute/p3_02b.mp3",
-  "audio/de-fr/laute/p3_03a.mp3",
-  "audio/de-fr/laute/p3_03b.mp3",
-  "audio/de-fr/laute/p3_04a.mp3",
-  "audio/de-fr/laute/p3_04b.mp3",
-  "audio/de-fr/laute/p3_05a.mp3",
-  "audio/de-fr/laute/p3_05b.mp3",
-  "audio/de-fr/laute/p3_06a.mp3",
-  "audio/de-fr/laute/p3_06b.mp3",
-  "audio/de-fr/laute/p3_07a.mp3",
-  "audio/de-fr/laute/p3_07b.mp3",
-  "audio/de-fr/laute/p3_08a.mp3",
-  "audio/de-fr/laute/p3_08b.mp3",
-  "audio/de-fr/lob/doch_siehst_du.mp3",
-  "audio/de-fr/lob/fehler_diesmal_nicht.mp3",
-  "audio/de-fr/lob/fehler_fast.mp3",
-  "audio/de-fr/lob/fehler_fast_fast.mp3",
-  "audio/de-fr/lob/fehler_hmm.mp3",
-  "audio/de-fr/lob/fehler_knapp.mp3",
-  "audio/de-fr/lob/fehler_macht_nichts.mp3",
-  "audio/de-fr/lob/fehler_nicht_ganz.mp3",
-  "audio/de-fr/lob/fehler_noch_mal.mp3",
-  "audio/de-fr/lob/fehler_oh.mp3",
-  "audio/de-fr/lob/fehler_von_vorn.mp3",
-  "audio/de-fr/lob/geschafft_alles.mp3",
-  "audio/de-fr/lob/geschafft_schluss.mp3",
-  "audio/de-fr/lob/geschafft_stolz.mp3",
-  "audio/de-fr/lob/lob_auf_den_punkt.mp3",
-  "audio/de-fr/lob/lob_ausgezeichnet.mp3",
-  "audio/de-fr/lob/lob_beim_ersten_mal.mp3",
-  "audio/de-fr/lob/lob_bestens.mp3",
-  "audio/de-fr/lob/lob_bravo.mp3",
-  "audio/de-fr/lob/lob_das_ist_deutsch.mp3",
-  "audio/de-fr/lob/lob_das_sitzt.mp3",
-  "audio/de-fr/lob/lob_das_wars.mp3",
-  "audio/de-fr/lob/lob_du_hast_ein_ohr.mp3",
-  "audio/de-fr/lob/lob_du_kannst_es.mp3",
-  "audio/de-fr/lob/lob_du_wirst_besser.mp3",
-  "audio/de-fr/lob/lob_einwandfrei.mp3",
-  "audio/de-fr/lob/lob_exakt.mp3",
-  "audio/de-fr/lob/lob_fehlerfrei.mp3",
-  "audio/de-fr/lob/lob_genau.mp3",
-  "audio/de-fr/lob/lob_genau_so.mp3",
-  "audio/de-fr/lob/lob_glatt.mp3",
-  "audio/de-fr/lob/lob_glueckwunsch.mp3",
-  "audio/de-fr/lob/lob_gut_gemacht.mp3",
-  "audio/de-fr/lob/lob_gut_gesagt.mp3",
-  "audio/de-fr/lob/lob_gut_getroffen.mp3",
-  "audio/de-fr/lob/lob_herr_lehrer.mp3",
-  "audio/de-fr/lob/lob_hervorragend.mp3",
-  "audio/de-fr/lob/lob_hut_ab.mp3",
-  "audio/de-fr/lob/lob_ich_liebs.mp3",
-  "audio/de-fr/lob/lob_ja.mp3",
-  "audio/de-fr/lob/lob_jawohl.mp3",
-  "audio/de-fr/lob/lob_klasse.mp3",
-  "audio/de-fr/lob/lob_klingt_gut.mp3",
-  "audio/de-fr/lob/lob_meisterhaft.mp3",
-  "audio/de-fr/lob/lob_nichts_zu_sagen.mp3",
-  "audio/de-fr/lob/lob_noch_ein_punkt.mp3",
-  "audio/de-fr/lob/lob_passt.mp3",
-  "audio/de-fr/lob/lob_perfekt.mp3",
-  "audio/de-fr/lob/lob_prima.mp3",
-  "audio/de-fr/lob/lob_richtig.mp3",
-  "audio/de-fr/lob/lob_sauber.mp3",
-  "audio/de-fr/lob/lob_schoen.mp3",
-  "audio/de-fr/lob/lob_sehr_gut.mp3",
-  "audio/de-fr/lob/lob_so_gehts.mp3",
-  "audio/de-fr/lob/lob_so_ist_es.mp3",
-  "audio/de-fr/lob/lob_spitze.mp3",
-  "audio/de-fr/lob/lob_stimmt.mp3",
-  "audio/de-fr/lob/lob_super.mp3",
-  "audio/de-fr/lob/lob_tadellos.mp3",
-  "audio/de-fr/lob/lob_toll.mp3",
-  "audio/de-fr/lob/lob_top.mp3",
-  "audio/de-fr/lob/lob_volltreffer.mp3",
-  "audio/de-fr/lob/lob_was_fuer_ein_akzent.mp3",
-  "audio/de-fr/lob/lob_weiter_so.mp3",
-  "audio/de-fr/lob/lob_wie_ein_profi.mp3",
-  "audio/de-fr/lob/lob_wie_ein_saarlaender.mp3",
-  "audio/de-fr/lob/lob_wunderbar.mp3",
-  "audio/de-fr/lob/lob_zack.mp3",
-  "audio/de-fr/lob/stark_beeindruckend.mp3",
-  "audio/de-fr/lob/stark_champion.mp3",
-  "audio/de-fr/lob/stark_fliegst.mp3",
-  "audio/de-fr/lob/stark_hoeren.mp3",
-  "audio/de-fr/lob/stark_leicht.mp3",
-  "audio/de-fr/lob/stark_leistung.mp3",
-  "audio/de-fr/lob/stark_maschine.mp3",
-  "audio/de-fr/lob/stark_niveau.mp3",
-  "audio/de-fr/lob/stark_rockst.mp3",
-  "audio/de-fr/lob/stark_schwarze.mp3",
-  "audio/de-fr/lob/stark_serie.mp3",
-  "audio/de-fr/lob/stark_star.mp3",
-  "audio/de-fr/lob/stark_stolz.mp3",
-  "audio/de-fr/lob/stark_weiter.mp3",
-  "audio/de-fr/lob/voll_fehlerfrei.mp3",
-  "audio/de-fr/orte/aachen.mp3",
-  "audio/de-fr/orte/bamberg.mp3",
-  "audio/de-fr/orte/berlin.mp3",
-  "audio/de-fr/orte/bodensee.mp3",
-  "audio/de-fr/orte/brandenburger_tor.mp3",
-  "audio/de-fr/orte/bremen.mp3",
-  "audio/de-fr/orte/dresden.mp3",
-  "audio/de-fr/orte/duesseldorf.mp3",
-  "audio/de-fr/orte/erfurt.mp3",
-  "audio/de-fr/orte/frankfurt.mp3",
-  "audio/de-fr/orte/freiburg.mp3",
-  "audio/de-fr/orte/goettingen.mp3",
-  "audio/de-fr/orte/hamburg.mp3",
-  "audio/de-fr/orte/hannover.mp3",
-  "audio/de-fr/orte/harz.mp3",
-  "audio/de-fr/orte/heidelberg.mp3",
-  "audio/de-fr/orte/kiel.mp3",
-  "audio/de-fr/orte/koblenz.mp3",
-  "audio/de-fr/orte/koeln.mp3",
-  "audio/de-fr/orte/leipzig.mp3",
-  "audio/de-fr/orte/loreley.mp3",
-  "audio/de-fr/orte/luebeck.mp3",
-  "audio/de-fr/orte/mainz.mp3",
-  "audio/de-fr/orte/marburg.mp3",
-  "audio/de-fr/orte/muenchen.mp3",
-  "audio/de-fr/orte/muenster.mp3",
-  "audio/de-fr/orte/neuschwanstein.mp3",
-  "audio/de-fr/orte/nuernberg.mp3",
-  "audio/de-fr/orte/potsdam.mp3",
-  "audio/de-fr/orte/quedlinburg.mp3",
-  "audio/de-fr/orte/regensburg.mp3",
-  "audio/de-fr/orte/rostock.mp3",
-  "audio/de-fr/orte/rothenburg.mp3",
-  "audio/de-fr/orte/ruegen.mp3",
-  "audio/de-fr/orte/ruhrgebiet.mp3",
-  "audio/de-fr/orte/saarbruecken.mp3",
-  "audio/de-fr/orte/saarschleife.mp3",
-  "audio/de-fr/orte/saechsische_schweiz.mp3",
-  "audio/de-fr/orte/schwarzwald.mp3",
-  "audio/de-fr/orte/schwerin.mp3",
-  "audio/de-fr/orte/speyer.mp3",
-  "audio/de-fr/orte/spreewald.mp3",
-  "audio/de-fr/orte/stuttgart.mp3",
-  "audio/de-fr/orte/sylt.mp3",
-  "audio/de-fr/orte/trier.mp3",
-  "audio/de-fr/orte/voelklingen.mp3",
-  "audio/de-fr/orte/wartburg.mp3",
-  "audio/de-fr/orte/weimar.mp3",
-  "audio/de-fr/orte/wuerzburg.mp3",
-  "audio/de-fr/orte/zugspitze.mp3",
-  "audio/de-fr/saetze/es_01.mp3",
-  "audio/de-fr/saetze/es_01_fp.mp3",
-  "audio/de-fr/saetze/es_01_pc.mp3",
-  "audio/de-fr/saetze/es_02.mp3",
-  "audio/de-fr/saetze/es_02_fp.mp3",
-  "audio/de-fr/saetze/es_02_pc.mp3",
-  "audio/de-fr/saetze/es_03.mp3",
-  "audio/de-fr/saetze/es_04.mp3",
-  "audio/de-fr/saetze/es_04_fp.mp3",
-  "audio/de-fr/saetze/es_04_pc.mp3",
-  "audio/de-fr/saetze/es_05.mp3",
-  "audio/de-fr/saetze/es_05_fp.mp3",
-  "audio/de-fr/saetze/es_05_pc.mp3",
-  "audio/de-fr/saetze/es_06.mp3",
-  "audio/de-fr/saetze/es_07.mp3",
-  "audio/de-fr/saetze/es_07_fp.mp3",
-  "audio/de-fr/saetze/es_07_pc.mp3",
-  "audio/de-fr/saetze/es_08.mp3",
-  "audio/de-fr/saetze/es_08_fp.mp3",
-  "audio/de-fr/saetze/es_08_pc.mp3",
-  "audio/de-fr/saetze/es_09.mp3",
-  "audio/de-fr/saetze/es_10.mp3",
-  "audio/de-fr/saetze/es_11.mp3",
-  "audio/de-fr/saetze/es_11_fp.mp3",
-  "audio/de-fr/saetze/es_11_pc.mp3",
-  "audio/de-fr/saetze/es_12.mp3",
-  "audio/de-fr/saetze/es_12_fp.mp3",
-  "audio/de-fr/saetze/es_12_pc.mp3",
-  "audio/de-fr/saetze/es_13.mp3",
-  "audio/de-fr/saetze/es_14.mp3",
-  "audio/de-fr/saetze/es_14_fp.mp3",
-  "audio/de-fr/saetze/es_14_pc.mp3",
-  "audio/de-fr/saetze/es_15.mp3",
-  "audio/de-fr/saetze/es_15_fp.mp3",
-  "audio/de-fr/saetze/es_15_pc.mp3",
-  "audio/de-fr/saetze/es_16.mp3",
-  "audio/de-fr/saetze/es_17.mp3",
-  "audio/de-fr/saetze/es_17_fp.mp3",
-  "audio/de-fr/saetze/es_17_pc.mp3",
-  "audio/de-fr/saetze/es_18.mp3",
-  "audio/de-fr/saetze/es_19.mp3",
-  "audio/de-fr/saetze/es_19_fp.mp3",
-  "audio/de-fr/saetze/es_19_pc.mp3",
-  "audio/de-fr/saetze/es_20.mp3",
-  "audio/de-fr/saetze/es_21.mp3",
-  "audio/de-fr/saetze/es_21_fp.mp3",
-  "audio/de-fr/saetze/es_21_pc.mp3",
-  "audio/de-fr/saetze/es_22.mp3",
-  "audio/de-fr/saetze/es_23.mp3",
-  "audio/de-fr/saetze/es_24.mp3",
-  "audio/de-fr/saetze/ff_01.mp3",
-  "audio/de-fr/saetze/ff_02.mp3",
-  "audio/de-fr/saetze/ff_03.mp3",
-  "audio/de-fr/saetze/ff_04.mp3",
-  "audio/de-fr/saetze/ff_05.mp3",
-  "audio/de-fr/saetze/ff_06.mp3",
-  "audio/de-fr/saetze/ff_07.mp3",
-  "audio/de-fr/saetze/ff_08.mp3",
-  "audio/de-fr/saetze/ff_09.mp3",
-  "audio/de-fr/saetze/ff_10.mp3",
-  "audio/de-fr/saetze/ff_11.mp3",
-  "audio/de-fr/saetze/ff_12.mp3",
-  "audio/de-fr/saetze/ff_13.mp3",
-  "audio/de-fr/saetze/ff_14.mp3",
-  "audio/de-fr/saetze/ff_15.mp3",
-  "audio/de-fr/saetze/ff_16.mp3",
-  "audio/de-fr/saetze/ff_17.mp3",
-  "audio/de-fr/saetze/ff_18.mp3",
-  "audio/de-fr/saetze/ff_19.mp3",
-  "audio/de-fr/saetze/ff_20.mp3",
-  "audio/de-fr/saetze/ff_21.mp3",
-  "audio/de-fr/saetze/ff_22.mp3",
-  "audio/de-fr/saetze/ff_23.mp3",
-  "audio/de-fr/saetze/ff_24.mp3",
-  "audio/de-fr/saetze/ge_01.mp3",
-  "audio/de-fr/saetze/ge_01_fp.mp3",
-  "audio/de-fr/saetze/ge_01_pc.mp3",
-  "audio/de-fr/saetze/ge_02.mp3",
-  "audio/de-fr/saetze/ge_02_fp.mp3",
-  "audio/de-fr/saetze/ge_02_pc.mp3",
-  "audio/de-fr/saetze/ge_03.mp3",
-  "audio/de-fr/saetze/ge_04.mp3",
-  "audio/de-fr/saetze/ge_05.mp3",
-  "audio/de-fr/saetze/ge_05_fp.mp3",
-  "audio/de-fr/saetze/ge_05_pc.mp3",
-  "audio/de-fr/saetze/ge_06.mp3",
-  "audio/de-fr/saetze/ge_07.mp3",
-  "audio/de-fr/saetze/ge_08.mp3",
-  "audio/de-fr/saetze/ge_09.mp3",
-  "audio/de-fr/saetze/ge_09_fp.mp3",
-  "audio/de-fr/saetze/ge_09_pc.mp3",
-  "audio/de-fr/saetze/ge_10.mp3",
-  "audio/de-fr/saetze/ge_10_fp.mp3",
-  "audio/de-fr/saetze/ge_10_pc.mp3",
-  "audio/de-fr/saetze/ge_11.mp3",
-  "audio/de-fr/saetze/ge_11_fp.mp3",
-  "audio/de-fr/saetze/ge_11_pc.mp3",
-  "audio/de-fr/saetze/ge_12.mp3",
-  "audio/de-fr/saetze/ge_12_fp.mp3",
-  "audio/de-fr/saetze/ge_12_pc.mp3",
-  "audio/de-fr/saetze/ge_13.mp3",
-  "audio/de-fr/saetze/ge_14.mp3",
-  "audio/de-fr/saetze/ge_14_fp.mp3",
-  "audio/de-fr/saetze/ge_14_pc.mp3",
-  "audio/de-fr/saetze/ge_15.mp3",
-  "audio/de-fr/saetze/ge_15_fp.mp3",
-  "audio/de-fr/saetze/ge_15_pc.mp3",
-  "audio/de-fr/saetze/ge_16.mp3",
-  "audio/de-fr/saetze/ge_17.mp3",
-  "audio/de-fr/saetze/ge_17_fp.mp3",
-  "audio/de-fr/saetze/ge_17_pc.mp3",
-  "audio/de-fr/saetze/ge_18.mp3",
-  "audio/de-fr/saetze/ge_18_fp.mp3",
-  "audio/de-fr/saetze/ge_18_pc.mp3",
-  "audio/de-fr/saetze/ge_19.mp3",
-  "audio/de-fr/saetze/ge_19_fp.mp3",
-  "audio/de-fr/saetze/ge_19_pc.mp3",
-  "audio/de-fr/saetze/ge_20.mp3",
-  "audio/de-fr/saetze/ge_21.mp3",
-  "audio/de-fr/saetze/ge_22.mp3",
-  "audio/de-fr/saetze/ge_23.mp3",
-  "audio/de-fr/saetze/ge_23_fp.mp3",
-  "audio/de-fr/saetze/ge_23_pc.mp3",
-  "audio/de-fr/saetze/ge_24.mp3",
-  "audio/de-fr/saetze/gs_01.mp3",
-  "audio/de-fr/saetze/gs_02.mp3",
-  "audio/de-fr/saetze/gs_02_fp.mp3",
-  "audio/de-fr/saetze/gs_02_pc.mp3",
-  "audio/de-fr/saetze/gs_03.mp3",
-  "audio/de-fr/saetze/gs_04.mp3",
-  "audio/de-fr/saetze/gs_05.mp3",
-  "audio/de-fr/saetze/gs_06.mp3",
-  "audio/de-fr/saetze/gs_07.mp3",
-  "audio/de-fr/saetze/gs_08.mp3",
-  "audio/de-fr/saetze/gs_09.mp3",
-  "audio/de-fr/saetze/gs_10.mp3",
-  "audio/de-fr/saetze/gs_11.mp3",
-  "audio/de-fr/saetze/gs_12.mp3",
-  "audio/de-fr/saetze/gs_12_fp.mp3",
-  "audio/de-fr/saetze/gs_12_pc.mp3",
-  "audio/de-fr/saetze/gs_13.mp3",
-  "audio/de-fr/saetze/gs_14.mp3",
-  "audio/de-fr/saetze/gs_15.mp3",
-  "audio/de-fr/saetze/gs_16.mp3",
-  "audio/de-fr/saetze/gs_17.mp3",
-  "audio/de-fr/saetze/gs_18.mp3",
-  "audio/de-fr/saetze/gs_18_fp.mp3",
-  "audio/de-fr/saetze/gs_18_pc.mp3",
-  "audio/de-fr/saetze/gs_19.mp3",
-  "audio/de-fr/saetze/gs_20.mp3",
-  "audio/de-fr/saetze/gs_20_fp.mp3",
-  "audio/de-fr/saetze/gs_20_pc.mp3",
-  "audio/de-fr/saetze/gs_21.mp3",
-  "audio/de-fr/saetze/gs_21_fp.mp3",
-  "audio/de-fr/saetze/gs_21_pc.mp3",
-  "audio/de-fr/saetze/gs_22.mp3",
-  "audio/de-fr/saetze/gs_23.mp3",
-  "audio/de-fr/saetze/gs_24.mp3",
-  "audio/de-fr/saetze/ka_01.mp3",
-  "audio/de-fr/saetze/ka_01_fp.mp3",
-  "audio/de-fr/saetze/ka_01_pc.mp3",
-  "audio/de-fr/saetze/ka_02.mp3",
-  "audio/de-fr/saetze/ka_02_fp.mp3",
-  "audio/de-fr/saetze/ka_02_pc.mp3",
-  "audio/de-fr/saetze/ka_03.mp3",
-  "audio/de-fr/saetze/ka_03_fp.mp3",
-  "audio/de-fr/saetze/ka_03_pc.mp3",
-  "audio/de-fr/saetze/ka_04.mp3",
-  "audio/de-fr/saetze/ka_04_fp.mp3",
-  "audio/de-fr/saetze/ka_04_pc.mp3",
-  "audio/de-fr/saetze/ka_05.mp3",
-  "audio/de-fr/saetze/ka_05_fp.mp3",
-  "audio/de-fr/saetze/ka_05_pc.mp3",
-  "audio/de-fr/saetze/ka_06.mp3",
-  "audio/de-fr/saetze/ka_06_fp.mp3",
-  "audio/de-fr/saetze/ka_06_pc.mp3",
-  "audio/de-fr/saetze/ka_07.mp3",
-  "audio/de-fr/saetze/ka_07_fp.mp3",
-  "audio/de-fr/saetze/ka_07_pc.mp3",
-  "audio/de-fr/saetze/ka_08.mp3",
-  "audio/de-fr/saetze/ka_08_fp.mp3",
-  "audio/de-fr/saetze/ka_08_pc.mp3",
-  "audio/de-fr/saetze/ka_09.mp3",
-  "audio/de-fr/saetze/ka_10.mp3",
-  "audio/de-fr/saetze/ka_10_fp.mp3",
-  "audio/de-fr/saetze/ka_10_pc.mp3",
-  "audio/de-fr/saetze/ka_11.mp3",
-  "audio/de-fr/saetze/ka_11_fp.mp3",
-  "audio/de-fr/saetze/ka_11_pc.mp3",
-  "audio/de-fr/saetze/ka_12.mp3",
-  "audio/de-fr/saetze/ka_13.mp3",
-  "audio/de-fr/saetze/ka_14.mp3",
-  "audio/de-fr/saetze/ka_15.mp3",
-  "audio/de-fr/saetze/ka_15_fp.mp3",
-  "audio/de-fr/saetze/ka_15_pc.mp3",
-  "audio/de-fr/saetze/ka_16.mp3",
-  "audio/de-fr/saetze/ka_16_fp.mp3",
-  "audio/de-fr/saetze/ka_16_pc.mp3",
-  "audio/de-fr/saetze/ka_17.mp3",
-  "audio/de-fr/saetze/ka_17_fp.mp3",
-  "audio/de-fr/saetze/ka_17_pc.mp3",
-  "audio/de-fr/saetze/ka_18.mp3",
-  "audio/de-fr/saetze/ka_19.mp3",
-  "audio/de-fr/saetze/ka_19_fp.mp3",
-  "audio/de-fr/saetze/ka_19_pc.mp3",
-  "audio/de-fr/saetze/ka_20.mp3",
-  "audio/de-fr/saetze/ka_21.mp3",
-  "audio/de-fr/saetze/ka_22.mp3",
-  "audio/de-fr/saetze/ka_23.mp3",
-  "audio/de-fr/saetze/ka_23_fp.mp3",
-  "audio/de-fr/saetze/ka_23_pc.mp3",
-  "audio/de-fr/saetze/ka_24.mp3",
-  "audio/de-fr/saetze/ki_01.mp3",
-  "audio/de-fr/saetze/ki_01_fp.mp3",
-  "audio/de-fr/saetze/ki_01_pc.mp3",
-  "audio/de-fr/saetze/ki_02.mp3",
-  "audio/de-fr/saetze/ki_03.mp3",
-  "audio/de-fr/saetze/ki_03_fp.mp3",
-  "audio/de-fr/saetze/ki_03_pc.mp3",
-  "audio/de-fr/saetze/ki_04.mp3",
-  "audio/de-fr/saetze/ki_04_fp.mp3",
-  "audio/de-fr/saetze/ki_04_pc.mp3",
-  "audio/de-fr/saetze/ki_05.mp3",
-  "audio/de-fr/saetze/ki_06.mp3",
-  "audio/de-fr/saetze/ki_06_fp.mp3",
-  "audio/de-fr/saetze/ki_06_pc.mp3",
-  "audio/de-fr/saetze/ki_07.mp3",
-  "audio/de-fr/saetze/ki_07_fp.mp3",
-  "audio/de-fr/saetze/ki_07_pc.mp3",
-  "audio/de-fr/saetze/ki_08.mp3",
-  "audio/de-fr/saetze/ki_08_fp.mp3",
-  "audio/de-fr/saetze/ki_08_pc.mp3",
-  "audio/de-fr/saetze/ki_09.mp3",
-  "audio/de-fr/saetze/ki_10.mp3",
-  "audio/de-fr/saetze/ki_11.mp3",
-  "audio/de-fr/saetze/ki_11_fp.mp3",
-  "audio/de-fr/saetze/ki_11_pc.mp3",
-  "audio/de-fr/saetze/ki_12.mp3",
-  "audio/de-fr/saetze/ki_12_fp.mp3",
-  "audio/de-fr/saetze/ki_12_pc.mp3",
-  "audio/de-fr/saetze/ki_13.mp3",
-  "audio/de-fr/saetze/ki_13_fp.mp3",
-  "audio/de-fr/saetze/ki_13_pc.mp3",
-  "audio/de-fr/saetze/ki_14.mp3",
-  "audio/de-fr/saetze/ki_15.mp3",
-  "audio/de-fr/saetze/ki_15_fp.mp3",
-  "audio/de-fr/saetze/ki_15_pc.mp3",
-  "audio/de-fr/saetze/ki_16.mp3",
-  "audio/de-fr/saetze/ki_17.mp3",
-  "audio/de-fr/saetze/ki_18.mp3",
-  "audio/de-fr/saetze/ki_18_fp.mp3",
-  "audio/de-fr/saetze/ki_18_pc.mp3",
-  "audio/de-fr/saetze/ki_19.mp3",
-  "audio/de-fr/saetze/ki_20.mp3",
-  "audio/de-fr/saetze/ki_20_fp.mp3",
-  "audio/de-fr/saetze/ki_20_pc.mp3",
-  "audio/de-fr/saetze/ki_21.mp3",
-  "audio/de-fr/saetze/ki_21_fp.mp3",
-  "audio/de-fr/saetze/ki_21_pc.mp3",
-  "audio/de-fr/saetze/ki_22.mp3",
-  "audio/de-fr/saetze/ki_23.mp3",
-  "audio/de-fr/saetze/ki_24.mp3",
-  "audio/de-fr/saetze/mu_01.mp3",
-  "audio/de-fr/saetze/mu_01_fp.mp3",
-  "audio/de-fr/saetze/mu_01_pc.mp3",
-  "audio/de-fr/saetze/mu_02.mp3",
-  "audio/de-fr/saetze/mu_02_fp.mp3",
-  "audio/de-fr/saetze/mu_02_pc.mp3",
-  "audio/de-fr/saetze/mu_03.mp3",
-  "audio/de-fr/saetze/mu_04.mp3",
-  "audio/de-fr/saetze/mu_05.mp3",
-  "audio/de-fr/saetze/mu_06.mp3",
-  "audio/de-fr/saetze/mu_07.mp3",
-  "audio/de-fr/saetze/mu_08.mp3",
-  "audio/de-fr/saetze/mu_09.mp3",
-  "audio/de-fr/saetze/mu_09_fp.mp3",
-  "audio/de-fr/saetze/mu_09_pc.mp3",
-  "audio/de-fr/saetze/mu_10.mp3",
-  "audio/de-fr/saetze/mu_10_fp.mp3",
-  "audio/de-fr/saetze/mu_10_pc.mp3",
-  "audio/de-fr/saetze/mu_11.mp3",
-  "audio/de-fr/saetze/mu_11_fp.mp3",
-  "audio/de-fr/saetze/mu_11_pc.mp3",
-  "audio/de-fr/saetze/mu_12.mp3",
-  "audio/de-fr/saetze/mu_12_fp.mp3",
-  "audio/de-fr/saetze/mu_12_pc.mp3",
-  "audio/de-fr/saetze/mu_13.mp3",
-  "audio/de-fr/saetze/mu_14.mp3",
-  "audio/de-fr/saetze/mu_15.mp3",
-  "audio/de-fr/saetze/mu_15_fp.mp3",
-  "audio/de-fr/saetze/mu_15_pc.mp3",
-  "audio/de-fr/saetze/mu_16.mp3",
-  "audio/de-fr/saetze/mu_17.mp3",
-  "audio/de-fr/saetze/mu_18.mp3",
-  "audio/de-fr/saetze/mu_19.mp3",
-  "audio/de-fr/saetze/mu_20.mp3",
-  "audio/de-fr/saetze/mu_20_fp.mp3",
-  "audio/de-fr/saetze/mu_20_pc.mp3",
-  "audio/de-fr/saetze/mu_21.mp3",
-  "audio/de-fr/saetze/mu_21_fp.mp3",
-  "audio/de-fr/saetze/mu_21_pc.mp3",
-  "audio/de-fr/saetze/mu_22.mp3",
-  "audio/de-fr/saetze/mu_22_fp.mp3",
-  "audio/de-fr/saetze/mu_22_pc.mp3",
-  "audio/de-fr/saetze/mu_23.mp3",
-  "audio/de-fr/saetze/mu_24.mp3",
-  "audio/de-fr/saetze/sp_01.mp3",
-  "audio/de-fr/saetze/sp_01_fp.mp3",
-  "audio/de-fr/saetze/sp_01_pc.mp3",
-  "audio/de-fr/saetze/sp_02.mp3",
-  "audio/de-fr/saetze/sp_03.mp3",
-  "audio/de-fr/saetze/sp_04.mp3",
-  "audio/de-fr/saetze/sp_05.mp3",
-  "audio/de-fr/saetze/sp_05_fp.mp3",
-  "audio/de-fr/saetze/sp_05_pc.mp3",
-  "audio/de-fr/saetze/sp_06.mp3",
-  "audio/de-fr/saetze/sp_06_fp.mp3",
-  "audio/de-fr/saetze/sp_06_pc.mp3",
-  "audio/de-fr/saetze/sp_07.mp3",
-  "audio/de-fr/saetze/sp_07_fp.mp3",
-  "audio/de-fr/saetze/sp_07_pc.mp3",
-  "audio/de-fr/saetze/sp_08.mp3",
-  "audio/de-fr/saetze/sp_09.mp3",
-  "audio/de-fr/saetze/sp_09_fp.mp3",
-  "audio/de-fr/saetze/sp_09_pc.mp3",
-  "audio/de-fr/saetze/sp_10.mp3",
-  "audio/de-fr/saetze/sp_11.mp3",
-  "audio/de-fr/saetze/sp_12.mp3",
-  "audio/de-fr/saetze/sp_13.mp3",
-  "audio/de-fr/saetze/sp_13_fp.mp3",
-  "audio/de-fr/saetze/sp_13_pc.mp3",
-  "audio/de-fr/saetze/sp_14.mp3",
-  "audio/de-fr/saetze/sp_14_fp.mp3",
-  "audio/de-fr/saetze/sp_14_pc.mp3",
-  "audio/de-fr/saetze/sp_15.mp3",
-  "audio/de-fr/saetze/sp_15_fp.mp3",
-  "audio/de-fr/saetze/sp_15_pc.mp3",
-  "audio/de-fr/saetze/sp_16.mp3",
-  "audio/de-fr/saetze/sp_16_fp.mp3",
-  "audio/de-fr/saetze/sp_16_pc.mp3",
-  "audio/de-fr/saetze/sp_17.mp3",
-  "audio/de-fr/saetze/sp_17_fp.mp3",
-  "audio/de-fr/saetze/sp_17_pc.mp3",
-  "audio/de-fr/saetze/sp_18.mp3",
-  "audio/de-fr/saetze/sp_19.mp3",
-  "audio/de-fr/saetze/sp_19_fp.mp3",
-  "audio/de-fr/saetze/sp_19_pc.mp3",
-  "audio/de-fr/saetze/sp_20.mp3",
-  "audio/de-fr/saetze/sp_21.mp3",
-  "audio/de-fr/saetze/sp_21_fp.mp3",
-  "audio/de-fr/saetze/sp_21_pc.mp3",
-  "audio/de-fr/saetze/sp_22.mp3",
-  "audio/de-fr/saetze/sp_22_fp.mp3",
-  "audio/de-fr/saetze/sp_22_pc.mp3",
-  "audio/de-fr/saetze/sp_23.mp3",
-  "audio/de-fr/saetze/sp_24.mp3",
-  "audio/de-fr/saetze/ul_01.mp3",
-  "audio/de-fr/saetze/ul_01_fp.mp3",
-  "audio/de-fr/saetze/ul_01_pc.mp3",
-  "audio/de-fr/saetze/ul_02.mp3",
-  "audio/de-fr/saetze/ul_02_fp.mp3",
-  "audio/de-fr/saetze/ul_02_pc.mp3",
-  "audio/de-fr/saetze/ul_03.mp3",
-  "audio/de-fr/saetze/ul_03_fp.mp3",
-  "audio/de-fr/saetze/ul_03_pc.mp3",
-  "audio/de-fr/saetze/ul_04.mp3",
-  "audio/de-fr/saetze/ul_04_fp.mp3",
-  "audio/de-fr/saetze/ul_04_pc.mp3",
-  "audio/de-fr/saetze/ul_05.mp3",
-  "audio/de-fr/saetze/ul_06.mp3",
-  "audio/de-fr/saetze/ul_06_fp.mp3",
-  "audio/de-fr/saetze/ul_06_pc.mp3",
-  "audio/de-fr/saetze/ul_07.mp3",
-  "audio/de-fr/saetze/ul_07_fp.mp3",
-  "audio/de-fr/saetze/ul_07_pc.mp3",
-  "audio/de-fr/saetze/ul_08.mp3",
-  "audio/de-fr/saetze/ul_08_fp.mp3",
-  "audio/de-fr/saetze/ul_08_pc.mp3",
-  "audio/de-fr/saetze/ul_09.mp3",
-  "audio/de-fr/saetze/ul_10.mp3",
-  "audio/de-fr/saetze/ul_11.mp3",
-  "audio/de-fr/saetze/ul_12.mp3",
-  "audio/de-fr/saetze/ul_13.mp3",
-  "audio/de-fr/saetze/ul_13_fp.mp3",
-  "audio/de-fr/saetze/ul_13_pc.mp3",
-  "audio/de-fr/saetze/ul_14.mp3",
-  "audio/de-fr/saetze/ul_14_fp.mp3",
-  "audio/de-fr/saetze/ul_14_pc.mp3",
-  "audio/de-fr/saetze/ul_15.mp3",
-  "audio/de-fr/saetze/ul_15_fp.mp3",
-  "audio/de-fr/saetze/ul_15_pc.mp3",
-  "audio/de-fr/saetze/ul_16.mp3",
-  "audio/de-fr/saetze/ul_16_fp.mp3",
-  "audio/de-fr/saetze/ul_16_pc.mp3",
-  "audio/de-fr/saetze/ul_17.mp3",
-  "audio/de-fr/saetze/ul_18.mp3",
-  "audio/de-fr/saetze/ul_19.mp3",
-  "audio/de-fr/saetze/ul_20.mp3",
-  "audio/de-fr/saetze/ul_21.mp3",
-  "audio/de-fr/saetze/ul_21_fp.mp3",
-  "audio/de-fr/saetze/ul_21_pc.mp3",
-  "audio/de-fr/saetze/ul_22.mp3",
-  "audio/de-fr/saetze/ul_22_fp.mp3",
-  "audio/de-fr/saetze/ul_22_pc.mp3",
-  "audio/de-fr/saetze/ul_23.mp3",
-  "audio/de-fr/saetze/ul_23_fp.mp3",
-  "audio/de-fr/saetze/ul_23_pc.mp3",
-  "audio/de-fr/saetze/ul_24.mp3",
-  "audio/de-fr/spiel/feuer.mp3",
-  "audio/de-fr/spiel/fini.mp3",
-  "audio/de-fr/spiel/monat.mp3",
-  "audio/de-fr/spiel/titel_1.mp3",
-  "audio/de-fr/spiel/titel_2.mp3",
-  "audio/de-fr/spiel/titel_3.mp3",
-  "audio/de-fr/spiel/titel_4.mp3",
-  "audio/de-fr/spiel/titel_5.mp3",
-  "audio/de-fr/spiel/titel_6.mp3",
-  "audio/de-fr/spiel/woche.mp3",
-  "audio/de-fr/wendungen/es_01.mp3",
-  "audio/de-fr/wendungen/es_02.mp3",
-  "audio/de-fr/wendungen/es_03.mp3",
-  "audio/de-fr/wendungen/es_04.mp3",
-  "audio/de-fr/wendungen/es_05.mp3",
-  "audio/de-fr/wendungen/es_06.mp3",
-  "audio/de-fr/wendungen/es_07.mp3",
-  "audio/de-fr/wendungen/es_08.mp3",
-  "audio/de-fr/wendungen/es_09.mp3",
-  "audio/de-fr/wendungen/es_10.mp3",
-  "audio/de-fr/wendungen/es_11.mp3",
-  "audio/de-fr/wendungen/es_12.mp3",
-  "audio/de-fr/wendungen/es_13.mp3",
-  "audio/de-fr/wendungen/es_14.mp3",
-  "audio/de-fr/wendungen/es_15.mp3",
-  "audio/de-fr/wendungen/es_16.mp3",
-  "audio/de-fr/wendungen/es_17.mp3",
-  "audio/de-fr/wendungen/es_18.mp3",
-  "audio/de-fr/wendungen/es_19.mp3",
-  "audio/de-fr/wendungen/es_20.mp3",
-  "audio/de-fr/wendungen/es_21.mp3",
-  "audio/de-fr/wendungen/es_22.mp3",
-  "audio/de-fr/wendungen/es_23.mp3",
-  "audio/de-fr/wendungen/es_24.mp3",
-  "audio/de-fr/wendungen/ff_01.mp3",
-  "audio/de-fr/wendungen/ff_02.mp3",
-  "audio/de-fr/wendungen/ff_03.mp3",
-  "audio/de-fr/wendungen/ff_04.mp3",
-  "audio/de-fr/wendungen/ff_05.mp3",
-  "audio/de-fr/wendungen/ff_06.mp3",
-  "audio/de-fr/wendungen/ff_07.mp3",
-  "audio/de-fr/wendungen/ff_08.mp3",
-  "audio/de-fr/wendungen/ff_09.mp3",
-  "audio/de-fr/wendungen/ff_10.mp3",
-  "audio/de-fr/wendungen/ff_11.mp3",
-  "audio/de-fr/wendungen/ff_12.mp3",
-  "audio/de-fr/wendungen/ff_13.mp3",
-  "audio/de-fr/wendungen/ff_14.mp3",
-  "audio/de-fr/wendungen/ff_15.mp3",
-  "audio/de-fr/wendungen/ff_16.mp3",
-  "audio/de-fr/wendungen/ff_17.mp3",
-  "audio/de-fr/wendungen/ff_18.mp3",
-  "audio/de-fr/wendungen/ff_19.mp3",
-  "audio/de-fr/wendungen/ff_20.mp3",
-  "audio/de-fr/wendungen/ff_21.mp3",
-  "audio/de-fr/wendungen/ff_22.mp3",
-  "audio/de-fr/wendungen/ff_23.mp3",
-  "audio/de-fr/wendungen/ff_24.mp3",
-  "audio/de-fr/wendungen/ge_01.mp3",
-  "audio/de-fr/wendungen/ge_02.mp3",
-  "audio/de-fr/wendungen/ge_03.mp3",
-  "audio/de-fr/wendungen/ge_04.mp3",
-  "audio/de-fr/wendungen/ge_05.mp3",
-  "audio/de-fr/wendungen/ge_06.mp3",
-  "audio/de-fr/wendungen/ge_07.mp3",
-  "audio/de-fr/wendungen/ge_08.mp3",
-  "audio/de-fr/wendungen/ge_09.mp3",
-  "audio/de-fr/wendungen/ge_10.mp3",
-  "audio/de-fr/wendungen/ge_11.mp3",
-  "audio/de-fr/wendungen/ge_12.mp3",
-  "audio/de-fr/wendungen/ge_13.mp3",
-  "audio/de-fr/wendungen/ge_14.mp3",
-  "audio/de-fr/wendungen/ge_15.mp3",
-  "audio/de-fr/wendungen/ge_16.mp3",
-  "audio/de-fr/wendungen/ge_17.mp3",
-  "audio/de-fr/wendungen/ge_18.mp3",
-  "audio/de-fr/wendungen/ge_19.mp3",
-  "audio/de-fr/wendungen/ge_20.mp3",
-  "audio/de-fr/wendungen/ge_21.mp3",
-  "audio/de-fr/wendungen/ge_22.mp3",
-  "audio/de-fr/wendungen/ge_23.mp3",
-  "audio/de-fr/wendungen/ge_24.mp3",
-  "audio/de-fr/wendungen/gs_01.mp3",
-  "audio/de-fr/wendungen/gs_02.mp3",
-  "audio/de-fr/wendungen/gs_03.mp3",
-  "audio/de-fr/wendungen/gs_04.mp3",
-  "audio/de-fr/wendungen/gs_05.mp3",
-  "audio/de-fr/wendungen/gs_06.mp3",
-  "audio/de-fr/wendungen/gs_07.mp3",
-  "audio/de-fr/wendungen/gs_08.mp3",
-  "audio/de-fr/wendungen/gs_09.mp3",
-  "audio/de-fr/wendungen/gs_10.mp3",
-  "audio/de-fr/wendungen/gs_11.mp3",
-  "audio/de-fr/wendungen/gs_12.mp3",
-  "audio/de-fr/wendungen/gs_13.mp3",
-  "audio/de-fr/wendungen/gs_14.mp3",
-  "audio/de-fr/wendungen/gs_15.mp3",
-  "audio/de-fr/wendungen/gs_16.mp3",
-  "audio/de-fr/wendungen/gs_17.mp3",
-  "audio/de-fr/wendungen/gs_18.mp3",
-  "audio/de-fr/wendungen/gs_19.mp3",
-  "audio/de-fr/wendungen/gs_20.mp3",
-  "audio/de-fr/wendungen/gs_21.mp3",
-  "audio/de-fr/wendungen/gs_22.mp3",
-  "audio/de-fr/wendungen/gs_23.mp3",
-  "audio/de-fr/wendungen/gs_24.mp3",
-  "audio/de-fr/wendungen/ka_01.mp3",
-  "audio/de-fr/wendungen/ka_02.mp3",
-  "audio/de-fr/wendungen/ka_03.mp3",
-  "audio/de-fr/wendungen/ka_04.mp3",
-  "audio/de-fr/wendungen/ka_05.mp3",
-  "audio/de-fr/wendungen/ka_06.mp3",
-  "audio/de-fr/wendungen/ka_07.mp3",
-  "audio/de-fr/wendungen/ka_08.mp3",
-  "audio/de-fr/wendungen/ka_09.mp3",
-  "audio/de-fr/wendungen/ka_10.mp3",
-  "audio/de-fr/wendungen/ka_11.mp3",
-  "audio/de-fr/wendungen/ka_12.mp3",
-  "audio/de-fr/wendungen/ka_13.mp3",
-  "audio/de-fr/wendungen/ka_14.mp3",
-  "audio/de-fr/wendungen/ka_15.mp3",
-  "audio/de-fr/wendungen/ka_16.mp3",
-  "audio/de-fr/wendungen/ka_17.mp3",
-  "audio/de-fr/wendungen/ka_18.mp3",
-  "audio/de-fr/wendungen/ka_19.mp3",
-  "audio/de-fr/wendungen/ka_20.mp3",
-  "audio/de-fr/wendungen/ka_21.mp3",
-  "audio/de-fr/wendungen/ka_22.mp3",
-  "audio/de-fr/wendungen/ka_23.mp3",
-  "audio/de-fr/wendungen/ka_24.mp3",
-  "audio/de-fr/wendungen/ki_01.mp3",
-  "audio/de-fr/wendungen/ki_02.mp3",
-  "audio/de-fr/wendungen/ki_03.mp3",
-  "audio/de-fr/wendungen/ki_04.mp3",
-  "audio/de-fr/wendungen/ki_05.mp3",
-  "audio/de-fr/wendungen/ki_06.mp3",
-  "audio/de-fr/wendungen/ki_07.mp3",
-  "audio/de-fr/wendungen/ki_08.mp3",
-  "audio/de-fr/wendungen/ki_09.mp3",
-  "audio/de-fr/wendungen/ki_10.mp3",
-  "audio/de-fr/wendungen/ki_11.mp3",
-  "audio/de-fr/wendungen/ki_12.mp3",
-  "audio/de-fr/wendungen/ki_13.mp3",
-  "audio/de-fr/wendungen/ki_14.mp3",
-  "audio/de-fr/wendungen/ki_15.mp3",
-  "audio/de-fr/wendungen/ki_16.mp3",
-  "audio/de-fr/wendungen/ki_17.mp3",
-  "audio/de-fr/wendungen/ki_18.mp3",
-  "audio/de-fr/wendungen/ki_19.mp3",
-  "audio/de-fr/wendungen/ki_20.mp3",
-  "audio/de-fr/wendungen/ki_21.mp3",
-  "audio/de-fr/wendungen/ki_22.mp3",
-  "audio/de-fr/wendungen/ki_23.mp3",
-  "audio/de-fr/wendungen/ki_24.mp3",
-  "audio/de-fr/wendungen/mu_01.mp3",
-  "audio/de-fr/wendungen/mu_02.mp3",
-  "audio/de-fr/wendungen/mu_03.mp3",
-  "audio/de-fr/wendungen/mu_04.mp3",
-  "audio/de-fr/wendungen/mu_05.mp3",
-  "audio/de-fr/wendungen/mu_06.mp3",
-  "audio/de-fr/wendungen/mu_07.mp3",
-  "audio/de-fr/wendungen/mu_08.mp3",
-  "audio/de-fr/wendungen/mu_09.mp3",
-  "audio/de-fr/wendungen/mu_10.mp3",
-  "audio/de-fr/wendungen/mu_11.mp3",
-  "audio/de-fr/wendungen/mu_12.mp3",
-  "audio/de-fr/wendungen/mu_13.mp3",
-  "audio/de-fr/wendungen/mu_14.mp3",
-  "audio/de-fr/wendungen/mu_15.mp3",
-  "audio/de-fr/wendungen/mu_16.mp3",
-  "audio/de-fr/wendungen/mu_17.mp3",
-  "audio/de-fr/wendungen/mu_18.mp3",
-  "audio/de-fr/wendungen/mu_19.mp3",
-  "audio/de-fr/wendungen/mu_20.mp3",
-  "audio/de-fr/wendungen/mu_21.mp3",
-  "audio/de-fr/wendungen/mu_22.mp3",
-  "audio/de-fr/wendungen/mu_23.mp3",
-  "audio/de-fr/wendungen/mu_24.mp3",
-  "audio/de-fr/wendungen/sp_01.mp3",
-  "audio/de-fr/wendungen/sp_02.mp3",
-  "audio/de-fr/wendungen/sp_03.mp3",
-  "audio/de-fr/wendungen/sp_04.mp3",
-  "audio/de-fr/wendungen/sp_05.mp3",
-  "audio/de-fr/wendungen/sp_06.mp3",
-  "audio/de-fr/wendungen/sp_07.mp3",
-  "audio/de-fr/wendungen/sp_08.mp3",
-  "audio/de-fr/wendungen/sp_09.mp3",
-  "audio/de-fr/wendungen/sp_10.mp3",
-  "audio/de-fr/wendungen/sp_11.mp3",
-  "audio/de-fr/wendungen/sp_12.mp3",
-  "audio/de-fr/wendungen/sp_13.mp3",
-  "audio/de-fr/wendungen/sp_14.mp3",
-  "audio/de-fr/wendungen/sp_15.mp3",
-  "audio/de-fr/wendungen/sp_16.mp3",
-  "audio/de-fr/wendungen/sp_17.mp3",
-  "audio/de-fr/wendungen/sp_18.mp3",
-  "audio/de-fr/wendungen/sp_19.mp3",
-  "audio/de-fr/wendungen/sp_20.mp3",
-  "audio/de-fr/wendungen/sp_21.mp3",
-  "audio/de-fr/wendungen/sp_22.mp3",
-  "audio/de-fr/wendungen/sp_23.mp3",
-  "audio/de-fr/wendungen/sp_24.mp3",
-  "audio/de-fr/wendungen/ul_01.mp3",
-  "audio/de-fr/wendungen/ul_02.mp3",
-  "audio/de-fr/wendungen/ul_03.mp3",
-  "audio/de-fr/wendungen/ul_04.mp3",
-  "audio/de-fr/wendungen/ul_05.mp3",
-  "audio/de-fr/wendungen/ul_06.mp3",
-  "audio/de-fr/wendungen/ul_07.mp3",
-  "audio/de-fr/wendungen/ul_08.mp3",
-  "audio/de-fr/wendungen/ul_09.mp3",
-  "audio/de-fr/wendungen/ul_10.mp3",
-  "audio/de-fr/wendungen/ul_11.mp3",
-  "audio/de-fr/wendungen/ul_12.mp3",
-  "audio/de-fr/wendungen/ul_13.mp3",
-  "audio/de-fr/wendungen/ul_14.mp3",
-  "audio/de-fr/wendungen/ul_15.mp3",
-  "audio/de-fr/wendungen/ul_16.mp3",
-  "audio/de-fr/wendungen/ul_17.mp3",
-  "audio/de-fr/wendungen/ul_18.mp3",
-  "audio/de-fr/wendungen/ul_19.mp3",
-  "audio/de-fr/wendungen/ul_20.mp3",
-  "audio/de-fr/wendungen/ul_21.mp3",
-  "audio/de-fr/wendungen/ul_22.mp3",
-  "audio/de-fr/wendungen/ul_23.mp3",
-  "audio/de-fr/wendungen/ul_24.mp3"
+  "audio/de-fr/dialoge/d1_01.mp3?v=311ef2ad",
+  "audio/de-fr/dialoge/d1_02.mp3?v=13e51fd5",
+  "audio/de-fr/dialoge/d1_03.mp3?v=1c849290",
+  "audio/de-fr/dialoge/d1_04.mp3?v=eba7829d",
+  "audio/de-fr/dialoge/d1_05.mp3?v=ebb63372",
+  "audio/de-fr/dialoge/d1_06.mp3?v=05ebda12",
+  "audio/de-fr/dialoge/d1_07.mp3?v=08919dac",
+  "audio/de-fr/dialoge/d1_08.mp3?v=224899e5",
+  "audio/de-fr/dialoge/d1_09.mp3?v=8fc571f9",
+  "audio/de-fr/dialoge/d1_10.mp3?v=e0c06162",
+  "audio/de-fr/dialoge/d2_01.mp3?v=54bd1e04",
+  "audio/de-fr/dialoge/d2_02.mp3?v=06ad191a",
+  "audio/de-fr/dialoge/d2_03.mp3?v=a4528b6b",
+  "audio/de-fr/dialoge/d2_04.mp3?v=33310db8",
+  "audio/de-fr/dialoge/d2_05.mp3?v=9b50f153",
+  "audio/de-fr/dialoge/d2_06.mp3?v=41cf31f4",
+  "audio/de-fr/dialoge/d2_07.mp3?v=4e92d18c",
+  "audio/de-fr/dialoge/d2_08.mp3?v=4b1fec52",
+  "audio/de-fr/dialoge/d2_09.mp3?v=0fab4324",
+  "audio/de-fr/dialoge/d2_10.mp3?v=ae3ff57b",
+  "audio/de-fr/geschichte/k01_01.mp3?v=c6bcdb81",
+  "audio/de-fr/geschichte/k01_02.mp3?v=4c94a72f",
+  "audio/de-fr/geschichte/k01_03.mp3?v=1fb24451",
+  "audio/de-fr/geschichte/k01_04.mp3?v=7dcd7308",
+  "audio/de-fr/geschichte/k01_05.mp3?v=6cf098a3",
+  "audio/de-fr/geschichte/k01_06.mp3?v=093b5565",
+  "audio/de-fr/geschichte/k01_07.mp3?v=fc0ecc9d",
+  "audio/de-fr/geschichte/k01_08.mp3?v=67a85b5c",
+  "audio/de-fr/geschichte/k01_09.mp3?v=1c66b286",
+  "audio/de-fr/geschichte/k01_10.mp3?v=3782614d",
+  "audio/de-fr/geschichte/k01_11.mp3?v=a175889e",
+  "audio/de-fr/geschichte/k01_12.mp3?v=72b45d1b",
+  "audio/de-fr/geschichte/k01_13.mp3?v=1c7d4ca3",
+  "audio/de-fr/geschichte/k01_14.mp3?v=318c962d",
+  "audio/de-fr/geschichte/k02_01.mp3?v=7c02b289",
+  "audio/de-fr/geschichte/k02_02.mp3?v=9df9efd2",
+  "audio/de-fr/geschichte/k02_03.mp3?v=8c2560d7",
+  "audio/de-fr/geschichte/k02_04.mp3?v=9f2921a1",
+  "audio/de-fr/geschichte/k02_05.mp3?v=14c24c48",
+  "audio/de-fr/geschichte/k02_06.mp3?v=af0eaa90",
+  "audio/de-fr/geschichte/k02_07.mp3?v=a75ab181",
+  "audio/de-fr/geschichte/k02_08.mp3?v=0b69e1d1",
+  "audio/de-fr/geschichte/k02_09.mp3?v=846c382e",
+  "audio/de-fr/geschichte/k02_10.mp3?v=c9a165a8",
+  "audio/de-fr/geschichte/k02_11.mp3?v=ff55a76c",
+  "audio/de-fr/geschichte/k02_12.mp3?v=dba8b7a5",
+  "audio/de-fr/geschichte/k02_13.mp3?v=bc0cf3ee",
+  "audio/de-fr/geschichte/k02_14.mp3?v=a78e4f30",
+  "audio/de-fr/geschichte/k02_15.mp3?v=9a891bdd",
+  "audio/de-fr/geschichte/k03_01.mp3?v=6dc58794",
+  "audio/de-fr/geschichte/k03_02.mp3?v=91700ada",
+  "audio/de-fr/geschichte/k03_03.mp3?v=1f6075bd",
+  "audio/de-fr/geschichte/k03_04.mp3?v=d03327c8",
+  "audio/de-fr/geschichte/k03_05.mp3?v=ba417092",
+  "audio/de-fr/geschichte/k03_06.mp3?v=d6f0c574",
+  "audio/de-fr/geschichte/k03_07.mp3?v=46158bfc",
+  "audio/de-fr/geschichte/k03_08.mp3?v=bcfe901e",
+  "audio/de-fr/geschichte/k03_09.mp3?v=a1d44085",
+  "audio/de-fr/geschichte/k03_10.mp3?v=b1e99adf",
+  "audio/de-fr/geschichte/k03_11.mp3?v=6512e5c4",
+  "audio/de-fr/geschichte/k03_12.mp3?v=ae3a123d",
+  "audio/de-fr/geschichte/k03_13.mp3?v=445de453",
+  "audio/de-fr/geschichte/k03_14.mp3?v=a99b37d6",
+  "audio/de-fr/geschichte/k03_15.mp3?v=41cb64d1",
+  "audio/de-fr/laute/ach_01.mp3?v=8a9ec81e",
+  "audio/de-fr/laute/ach_02.mp3?v=4c2963e0",
+  "audio/de-fr/laute/ach_03.mp3?v=7aa95f38",
+  "audio/de-fr/laute/ach_04.mp3?v=85eecb21",
+  "audio/de-fr/laute/ach_05.mp3?v=4b82586a",
+  "audio/de-fr/laute/ach_06.mp3?v=9ecf49bd",
+  "audio/de-fr/laute/ach_07.mp3?v=1ae5ad07",
+  "audio/de-fr/laute/ach_08.mp3?v=9e033483",
+  "audio/de-fr/laute/b_01.mp3?v=f75ac02f",
+  "audio/de-fr/laute/b_02.mp3?v=de0c8c18",
+  "audio/de-fr/laute/b_03.mp3?v=80644603",
+  "audio/de-fr/laute/b_04.mp3?v=f6da3387",
+  "audio/de-fr/laute/b_05.mp3?v=7b19160c",
+  "audio/de-fr/laute/b_06.mp3?v=497a1af6",
+  "audio/de-fr/laute/b_07.mp3?v=c1998bdf",
+  "audio/de-fr/laute/b_08.mp3?v=be926874",
+  "audio/de-fr/laute/ei_01.mp3?v=f89a7889",
+  "audio/de-fr/laute/ei_02.mp3?v=b78b31a6",
+  "audio/de-fr/laute/ei_03.mp3?v=7d2b36d0",
+  "audio/de-fr/laute/ei_04.mp3?v=75b34650",
+  "audio/de-fr/laute/ei_05.mp3?v=5e1a6694",
+  "audio/de-fr/laute/ei_06.mp3?v=ad6886b5",
+  "audio/de-fr/laute/ei_07.mp3?v=6dc5d7c6",
+  "audio/de-fr/laute/ei_08.mp3?v=7a176f0f",
+  "audio/de-fr/laute/h_01.mp3?v=1ac04c22",
+  "audio/de-fr/laute/h_02.mp3?v=da5c90de",
+  "audio/de-fr/laute/h_03.mp3?v=ff196429",
+  "audio/de-fr/laute/h_04.mp3?v=e50f9f62",
+  "audio/de-fr/laute/h_05.mp3?v=88a712eb",
+  "audio/de-fr/laute/h_06.mp3?v=50734fca",
+  "audio/de-fr/laute/h_07.mp3?v=df773d4a",
+  "audio/de-fr/laute/h_08.mp3?v=8025c834",
+  "audio/de-fr/laute/ich_01.mp3?v=019d7a76",
+  "audio/de-fr/laute/ich_02.mp3?v=b23b96b9",
+  "audio/de-fr/laute/ich_03.mp3?v=e0344a9e",
+  "audio/de-fr/laute/ich_04.mp3?v=98ff8136",
+  "audio/de-fr/laute/ich_05.mp3?v=e24e4c08",
+  "audio/de-fr/laute/ich_06.mp3?v=9d2865df",
+  "audio/de-fr/laute/ich_07.mp3?v=99cf63e2",
+  "audio/de-fr/laute/ich_08.mp3?v=18e65c02",
+  "audio/de-fr/laute/ie_01.mp3?v=e3ebf343",
+  "audio/de-fr/laute/ie_02.mp3?v=9c1b9350",
+  "audio/de-fr/laute/ie_03.mp3?v=37dbed2b",
+  "audio/de-fr/laute/ie_04.mp3?v=34f86f42",
+  "audio/de-fr/laute/ie_05.mp3?v=031313e6",
+  "audio/de-fr/laute/ie_06.mp3?v=dcc7d1bb",
+  "audio/de-fr/laute/ie_07.mp3?v=ddc40f08",
+  "audio/de-fr/laute/ie_08.mp3?v=fde561ac",
+  "audio/de-fr/laute/p1_01a.mp3?v=e44410b1",
+  "audio/de-fr/laute/p1_01b.mp3?v=7a09fb59",
+  "audio/de-fr/laute/p1_02a.mp3?v=3f8f9609",
+  "audio/de-fr/laute/p1_02b.mp3?v=78c28703",
+  "audio/de-fr/laute/p1_03a.mp3?v=a71f539b",
+  "audio/de-fr/laute/p1_03b.mp3?v=fa97016b",
+  "audio/de-fr/laute/p1_04a.mp3?v=39c8055c",
+  "audio/de-fr/laute/p1_04b.mp3?v=9e944428",
+  "audio/de-fr/laute/p1_05a.mp3?v=bf08fe44",
+  "audio/de-fr/laute/p1_05b.mp3?v=58939161",
+  "audio/de-fr/laute/p1_06a.mp3?v=96c345c0",
+  "audio/de-fr/laute/p1_06b.mp3?v=f482ef12",
+  "audio/de-fr/laute/p1_07a.mp3?v=a0a5df90",
+  "audio/de-fr/laute/p1_07b.mp3?v=f1493b48",
+  "audio/de-fr/laute/p1_08a.mp3?v=1cb2f2be",
+  "audio/de-fr/laute/p1_08b.mp3?v=f1fac01e",
+  "audio/de-fr/laute/p2_01a.mp3?v=955d30cf",
+  "audio/de-fr/laute/p2_01b.mp3?v=6a38a7ac",
+  "audio/de-fr/laute/p2_02a.mp3?v=38f27d41",
+  "audio/de-fr/laute/p2_02b.mp3?v=01cd0def",
+  "audio/de-fr/laute/p2_03a.mp3?v=191dec65",
+  "audio/de-fr/laute/p2_03b.mp3?v=5df22cd2",
+  "audio/de-fr/laute/p2_04a.mp3?v=b3608b10",
+  "audio/de-fr/laute/p2_04b.mp3?v=bc78ab31",
+  "audio/de-fr/laute/p2_05a.mp3?v=4ee6b6c5",
+  "audio/de-fr/laute/p2_05b.mp3?v=aca1ed76",
+  "audio/de-fr/laute/p2_06a.mp3?v=a8639a46",
+  "audio/de-fr/laute/p2_06b.mp3?v=75bcc675",
+  "audio/de-fr/laute/p2_07a.mp3?v=a2f147d0",
+  "audio/de-fr/laute/p2_07b.mp3?v=958f9350",
+  "audio/de-fr/laute/p2_08a.mp3?v=5ab8b362",
+  "audio/de-fr/laute/p2_08b.mp3?v=b8ab6150",
+  "audio/de-fr/laute/p3_01a.mp3?v=c33d4c93",
+  "audio/de-fr/laute/p3_01b.mp3?v=e5097048",
+  "audio/de-fr/laute/p3_02a.mp3?v=03facd0e",
+  "audio/de-fr/laute/p3_02b.mp3?v=46e22d40",
+  "audio/de-fr/laute/p3_03a.mp3?v=d9c57ba4",
+  "audio/de-fr/laute/p3_03b.mp3?v=a0a399ae",
+  "audio/de-fr/laute/p3_04a.mp3?v=797f706d",
+  "audio/de-fr/laute/p3_04b.mp3?v=1794ab8a",
+  "audio/de-fr/laute/p3_05a.mp3?v=804fd255",
+  "audio/de-fr/laute/p3_05b.mp3?v=9eb8e062",
+  "audio/de-fr/laute/p3_06a.mp3?v=a6e8a0c8",
+  "audio/de-fr/laute/p3_06b.mp3?v=f5dd4611",
+  "audio/de-fr/laute/p3_07a.mp3?v=7b38f0fd",
+  "audio/de-fr/laute/p3_07b.mp3?v=001a5070",
+  "audio/de-fr/laute/p3_08a.mp3?v=8d8876ec",
+  "audio/de-fr/laute/p3_08b.mp3?v=cc4e8e12",
+  "audio/de-fr/lob/doch_siehst_du.mp3?v=a4a2b841",
+  "audio/de-fr/lob/fehler_diesmal_nicht.mp3?v=73660d5d",
+  "audio/de-fr/lob/fehler_fast.mp3?v=0a3f2e1c",
+  "audio/de-fr/lob/fehler_fast_fast.mp3?v=cee37740",
+  "audio/de-fr/lob/fehler_hmm.mp3?v=cd7a1cd8",
+  "audio/de-fr/lob/fehler_knapp.mp3?v=6a1b9a8f",
+  "audio/de-fr/lob/fehler_macht_nichts.mp3?v=fd3e0850",
+  "audio/de-fr/lob/fehler_nicht_ganz.mp3?v=11e93b4d",
+  "audio/de-fr/lob/fehler_noch_mal.mp3?v=1ffd8dc7",
+  "audio/de-fr/lob/fehler_oh.mp3?v=26dfb46e",
+  "audio/de-fr/lob/fehler_von_vorn.mp3?v=771095b8",
+  "audio/de-fr/lob/geschafft_alles.mp3?v=505a1a58",
+  "audio/de-fr/lob/geschafft_schluss.mp3?v=da431043",
+  "audio/de-fr/lob/geschafft_stolz.mp3?v=a2485af9",
+  "audio/de-fr/lob/lob_auf_den_punkt.mp3?v=7cf24a08",
+  "audio/de-fr/lob/lob_ausgezeichnet.mp3?v=954ffb17",
+  "audio/de-fr/lob/lob_beim_ersten_mal.mp3?v=abf46527",
+  "audio/de-fr/lob/lob_bestens.mp3?v=d003e0b9",
+  "audio/de-fr/lob/lob_bravo.mp3?v=c3673b10",
+  "audio/de-fr/lob/lob_das_ist_deutsch.mp3?v=e7858e96",
+  "audio/de-fr/lob/lob_das_sitzt.mp3?v=317b28f0",
+  "audio/de-fr/lob/lob_das_wars.mp3?v=59606232",
+  "audio/de-fr/lob/lob_du_hast_ein_ohr.mp3?v=fed69ae1",
+  "audio/de-fr/lob/lob_du_kannst_es.mp3?v=9abb605a",
+  "audio/de-fr/lob/lob_du_wirst_besser.mp3?v=a53ae1a8",
+  "audio/de-fr/lob/lob_einwandfrei.mp3?v=4fdc80ba",
+  "audio/de-fr/lob/lob_exakt.mp3?v=5eb37f38",
+  "audio/de-fr/lob/lob_fehlerfrei.mp3?v=0562df40",
+  "audio/de-fr/lob/lob_genau.mp3?v=730ebb95",
+  "audio/de-fr/lob/lob_genau_so.mp3?v=aa1b531e",
+  "audio/de-fr/lob/lob_glatt.mp3?v=013a7df0",
+  "audio/de-fr/lob/lob_glueckwunsch.mp3?v=debcb2ad",
+  "audio/de-fr/lob/lob_gut_gemacht.mp3?v=1e554541",
+  "audio/de-fr/lob/lob_gut_gesagt.mp3?v=65ca7908",
+  "audio/de-fr/lob/lob_gut_getroffen.mp3?v=b1a79a06",
+  "audio/de-fr/lob/lob_herr_lehrer.mp3?v=9b3839dc",
+  "audio/de-fr/lob/lob_hervorragend.mp3?v=a84348f9",
+  "audio/de-fr/lob/lob_hut_ab.mp3?v=017ca95d",
+  "audio/de-fr/lob/lob_ich_liebs.mp3?v=7f2fa8db",
+  "audio/de-fr/lob/lob_ja.mp3?v=4b0ff4f0",
+  "audio/de-fr/lob/lob_jawohl.mp3?v=afffffbd",
+  "audio/de-fr/lob/lob_klasse.mp3?v=7b1b07dc",
+  "audio/de-fr/lob/lob_klingt_gut.mp3?v=34f2b455",
+  "audio/de-fr/lob/lob_meisterhaft.mp3?v=9bbfd81e",
+  "audio/de-fr/lob/lob_nichts_zu_sagen.mp3?v=9bf87a5e",
+  "audio/de-fr/lob/lob_noch_ein_punkt.mp3?v=2c168f86",
+  "audio/de-fr/lob/lob_passt.mp3?v=e1fd62eb",
+  "audio/de-fr/lob/lob_perfekt.mp3?v=d7f0ed76",
+  "audio/de-fr/lob/lob_prima.mp3?v=39fdd4fb",
+  "audio/de-fr/lob/lob_richtig.mp3?v=d878a9ba",
+  "audio/de-fr/lob/lob_sauber.mp3?v=ff685196",
+  "audio/de-fr/lob/lob_schoen.mp3?v=d952ccf9",
+  "audio/de-fr/lob/lob_sehr_gut.mp3?v=0ab36c0f",
+  "audio/de-fr/lob/lob_so_gehts.mp3?v=681f18ad",
+  "audio/de-fr/lob/lob_so_ist_es.mp3?v=b4ee2df3",
+  "audio/de-fr/lob/lob_spitze.mp3?v=20e4eef1",
+  "audio/de-fr/lob/lob_stimmt.mp3?v=e3dc54a0",
+  "audio/de-fr/lob/lob_super.mp3?v=e750b0e6",
+  "audio/de-fr/lob/lob_tadellos.mp3?v=a3bc5a34",
+  "audio/de-fr/lob/lob_toll.mp3?v=b923715e",
+  "audio/de-fr/lob/lob_top.mp3?v=ab477033",
+  "audio/de-fr/lob/lob_volltreffer.mp3?v=e455945f",
+  "audio/de-fr/lob/lob_was_fuer_ein_akzent.mp3?v=8874bc4c",
+  "audio/de-fr/lob/lob_weiter_so.mp3?v=5eb9f787",
+  "audio/de-fr/lob/lob_wie_ein_profi.mp3?v=43e556bd",
+  "audio/de-fr/lob/lob_wie_ein_saarlaender.mp3?v=f157183b",
+  "audio/de-fr/lob/lob_wunderbar.mp3?v=8efd56ef",
+  "audio/de-fr/lob/lob_zack.mp3?v=e6377cd5",
+  "audio/de-fr/lob/stark_beeindruckend.mp3?v=6d6c2035",
+  "audio/de-fr/lob/stark_champion.mp3?v=326bc1b0",
+  "audio/de-fr/lob/stark_fliegst.mp3?v=7f1425c5",
+  "audio/de-fr/lob/stark_hoeren.mp3?v=39924c54",
+  "audio/de-fr/lob/stark_leicht.mp3?v=558094fc",
+  "audio/de-fr/lob/stark_leistung.mp3?v=92a942b6",
+  "audio/de-fr/lob/stark_maschine.mp3?v=5c8079fe",
+  "audio/de-fr/lob/stark_niveau.mp3?v=df47247f",
+  "audio/de-fr/lob/stark_rockst.mp3?v=29fcbc52",
+  "audio/de-fr/lob/stark_schwarze.mp3?v=5bae5d7c",
+  "audio/de-fr/lob/stark_serie.mp3?v=5e7e3770",
+  "audio/de-fr/lob/stark_star.mp3?v=f5e816a2",
+  "audio/de-fr/lob/stark_stolz.mp3?v=55d0a637",
+  "audio/de-fr/lob/stark_weiter.mp3?v=31d8ba13",
+  "audio/de-fr/lob/voll_fehlerfrei.mp3?v=2020e7d8",
+  "audio/de-fr/orte/aachen.mp3?v=e91faaf4",
+  "audio/de-fr/orte/bamberg.mp3?v=b57c7810",
+  "audio/de-fr/orte/berlin.mp3?v=6c9e59f0",
+  "audio/de-fr/orte/bodensee.mp3?v=2aad8d3e",
+  "audio/de-fr/orte/brandenburger_tor.mp3?v=7a3f012b",
+  "audio/de-fr/orte/bremen.mp3?v=e3e1de84",
+  "audio/de-fr/orte/dresden.mp3?v=7b1da16c",
+  "audio/de-fr/orte/duesseldorf.mp3?v=56db7577",
+  "audio/de-fr/orte/erfurt.mp3?v=21b7031f",
+  "audio/de-fr/orte/frankfurt.mp3?v=c11655d7",
+  "audio/de-fr/orte/freiburg.mp3?v=560cac5f",
+  "audio/de-fr/orte/goettingen.mp3?v=3ea75c45",
+  "audio/de-fr/orte/hamburg.mp3?v=ecf82c9b",
+  "audio/de-fr/orte/hannover.mp3?v=29b56829",
+  "audio/de-fr/orte/harz.mp3?v=69ccb733",
+  "audio/de-fr/orte/heidelberg.mp3?v=e3bf10a7",
+  "audio/de-fr/orte/kiel.mp3?v=3f2d84a7",
+  "audio/de-fr/orte/koblenz.mp3?v=ba765f3d",
+  "audio/de-fr/orte/koeln.mp3?v=912b2111",
+  "audio/de-fr/orte/leipzig.mp3?v=670e5397",
+  "audio/de-fr/orte/loreley.mp3?v=84f56401",
+  "audio/de-fr/orte/luebeck.mp3?v=c8444149",
+  "audio/de-fr/orte/mainz.mp3?v=7525a34f",
+  "audio/de-fr/orte/marburg.mp3?v=3fa97359",
+  "audio/de-fr/orte/muenchen.mp3?v=d59bd87a",
+  "audio/de-fr/orte/muenster.mp3?v=ff86f618",
+  "audio/de-fr/orte/neuschwanstein.mp3?v=a95ee4f8",
+  "audio/de-fr/orte/nuernberg.mp3?v=28b4ddb5",
+  "audio/de-fr/orte/potsdam.mp3?v=821ae312",
+  "audio/de-fr/orte/quedlinburg.mp3?v=e2200ef9",
+  "audio/de-fr/orte/regensburg.mp3?v=5fa78ae4",
+  "audio/de-fr/orte/rostock.mp3?v=1cc9373e",
+  "audio/de-fr/orte/rothenburg.mp3?v=2bd2e3de",
+  "audio/de-fr/orte/ruegen.mp3?v=ceea87e3",
+  "audio/de-fr/orte/ruhrgebiet.mp3?v=ce6b39b2",
+  "audio/de-fr/orte/saarbruecken.mp3?v=bc101719",
+  "audio/de-fr/orte/saarschleife.mp3?v=28540ea2",
+  "audio/de-fr/orte/saechsische_schweiz.mp3?v=5ef2dc7e",
+  "audio/de-fr/orte/schwarzwald.mp3?v=a1c75861",
+  "audio/de-fr/orte/schwerin.mp3?v=33a94564",
+  "audio/de-fr/orte/speyer.mp3?v=744dcdd0",
+  "audio/de-fr/orte/spreewald.mp3?v=7f0770c7",
+  "audio/de-fr/orte/stuttgart.mp3?v=3a865337",
+  "audio/de-fr/orte/sylt.mp3?v=ea44bcf0",
+  "audio/de-fr/orte/trier.mp3?v=ce5b4cff",
+  "audio/de-fr/orte/voelklingen.mp3?v=34bb6525",
+  "audio/de-fr/orte/wartburg.mp3?v=349ad216",
+  "audio/de-fr/orte/weimar.mp3?v=0b46d72a",
+  "audio/de-fr/orte/wuerzburg.mp3?v=36d843fd",
+  "audio/de-fr/orte/zugspitze.mp3?v=94bd72fb",
+  "audio/de-fr/saetze/es_01.mp3?v=373e5a09",
+  "audio/de-fr/saetze/es_01_fp.mp3?v=003189d8",
+  "audio/de-fr/saetze/es_01_pc.mp3?v=8804a91a",
+  "audio/de-fr/saetze/es_02.mp3?v=acf1e6e8",
+  "audio/de-fr/saetze/es_02_fp.mp3?v=39d23cf5",
+  "audio/de-fr/saetze/es_02_pc.mp3?v=1d444e6f",
+  "audio/de-fr/saetze/es_03.mp3?v=0e3ebb26",
+  "audio/de-fr/saetze/es_04.mp3?v=76d14a04",
+  "audio/de-fr/saetze/es_04_fp.mp3?v=1830d239",
+  "audio/de-fr/saetze/es_04_pc.mp3?v=778c0998",
+  "audio/de-fr/saetze/es_05.mp3?v=f4a5def9",
+  "audio/de-fr/saetze/es_05_fp.mp3?v=7ddae21d",
+  "audio/de-fr/saetze/es_05_pc.mp3?v=f84a8cca",
+  "audio/de-fr/saetze/es_06.mp3?v=322b255b",
+  "audio/de-fr/saetze/es_07.mp3?v=2ff51355",
+  "audio/de-fr/saetze/es_07_fp.mp3?v=8ccc08e1",
+  "audio/de-fr/saetze/es_07_pc.mp3?v=c9c69c37",
+  "audio/de-fr/saetze/es_08.mp3?v=c44f47d5",
+  "audio/de-fr/saetze/es_08_fp.mp3?v=7aa4b963",
+  "audio/de-fr/saetze/es_08_pc.mp3?v=19332d51",
+  "audio/de-fr/saetze/es_09.mp3?v=63cbefae",
+  "audio/de-fr/saetze/es_10.mp3?v=476552e9",
+  "audio/de-fr/saetze/es_11.mp3?v=f3f9b5ff",
+  "audio/de-fr/saetze/es_11_fp.mp3?v=4c510fb4",
+  "audio/de-fr/saetze/es_11_pc.mp3?v=2b350d77",
+  "audio/de-fr/saetze/es_12.mp3?v=5350eccc",
+  "audio/de-fr/saetze/es_12_fp.mp3?v=1ef8cbcf",
+  "audio/de-fr/saetze/es_12_pc.mp3?v=40155ec9",
+  "audio/de-fr/saetze/es_13.mp3?v=73dc90a6",
+  "audio/de-fr/saetze/es_14.mp3?v=c1f25d9b",
+  "audio/de-fr/saetze/es_14_fp.mp3?v=251db437",
+  "audio/de-fr/saetze/es_14_pc.mp3?v=d6b0ba7a",
+  "audio/de-fr/saetze/es_15.mp3?v=9d52ecb4",
+  "audio/de-fr/saetze/es_15_fp.mp3?v=a8b139ba",
+  "audio/de-fr/saetze/es_15_pc.mp3?v=7c532b22",
+  "audio/de-fr/saetze/es_16.mp3?v=00285dec",
+  "audio/de-fr/saetze/es_17.mp3?v=f49cc310",
+  "audio/de-fr/saetze/es_17_fp.mp3?v=2dafe05d",
+  "audio/de-fr/saetze/es_17_pc.mp3?v=c7ad72d1",
+  "audio/de-fr/saetze/es_18.mp3?v=d75c78da",
+  "audio/de-fr/saetze/es_19.mp3?v=851c185e",
+  "audio/de-fr/saetze/es_19_fp.mp3?v=647cd186",
+  "audio/de-fr/saetze/es_19_pc.mp3?v=0e7a2355",
+  "audio/de-fr/saetze/es_20.mp3?v=af72c243",
+  "audio/de-fr/saetze/es_21.mp3?v=bafa1b0d",
+  "audio/de-fr/saetze/es_21_fp.mp3?v=785eb5a0",
+  "audio/de-fr/saetze/es_21_pc.mp3?v=c79b4f61",
+  "audio/de-fr/saetze/es_22.mp3?v=67785c2c",
+  "audio/de-fr/saetze/es_23.mp3?v=21c838ca",
+  "audio/de-fr/saetze/es_24.mp3?v=484d6e91",
+  "audio/de-fr/saetze/ff_01.mp3?v=29c501f5",
+  "audio/de-fr/saetze/ff_02.mp3?v=6c5e4f31",
+  "audio/de-fr/saetze/ff_03.mp3?v=dee8a7fb",
+  "audio/de-fr/saetze/ff_04.mp3?v=7ae90eda",
+  "audio/de-fr/saetze/ff_05.mp3?v=071eaac9",
+  "audio/de-fr/saetze/ff_06.mp3?v=f70c3ca2",
+  "audio/de-fr/saetze/ff_07.mp3?v=a23fa08b",
+  "audio/de-fr/saetze/ff_08.mp3?v=9aabcbbe",
+  "audio/de-fr/saetze/ff_09.mp3?v=beb33664",
+  "audio/de-fr/saetze/ff_10.mp3?v=a861d335",
+  "audio/de-fr/saetze/ff_11.mp3?v=b004028e",
+  "audio/de-fr/saetze/ff_12.mp3?v=e35aa395",
+  "audio/de-fr/saetze/ff_13.mp3?v=6166086b",
+  "audio/de-fr/saetze/ff_14.mp3?v=b172425e",
+  "audio/de-fr/saetze/ff_15.mp3?v=f6a07151",
+  "audio/de-fr/saetze/ff_16.mp3?v=0f239b75",
+  "audio/de-fr/saetze/ff_17.mp3?v=f356b4ff",
+  "audio/de-fr/saetze/ff_18.mp3?v=37098041",
+  "audio/de-fr/saetze/ff_19.mp3?v=391cd5ec",
+  "audio/de-fr/saetze/ff_20.mp3?v=90cc613e",
+  "audio/de-fr/saetze/ff_21.mp3?v=70dc4d09",
+  "audio/de-fr/saetze/ff_22.mp3?v=a846f732",
+  "audio/de-fr/saetze/ff_23.mp3?v=5bde01a7",
+  "audio/de-fr/saetze/ff_24.mp3?v=21cd87fa",
+  "audio/de-fr/saetze/ge_01.mp3?v=907b713c",
+  "audio/de-fr/saetze/ge_01_fp.mp3?v=2a959de6",
+  "audio/de-fr/saetze/ge_01_pc.mp3?v=52561367",
+  "audio/de-fr/saetze/ge_02.mp3?v=c84d440c",
+  "audio/de-fr/saetze/ge_02_fp.mp3?v=dcb71a66",
+  "audio/de-fr/saetze/ge_02_pc.mp3?v=a1d32726",
+  "audio/de-fr/saetze/ge_03.mp3?v=a583bbb8",
+  "audio/de-fr/saetze/ge_04.mp3?v=4734c153",
+  "audio/de-fr/saetze/ge_05.mp3?v=4edad271",
+  "audio/de-fr/saetze/ge_05_fp.mp3?v=d3a437a1",
+  "audio/de-fr/saetze/ge_05_pc.mp3?v=5648175e",
+  "audio/de-fr/saetze/ge_06.mp3?v=58823fd3",
+  "audio/de-fr/saetze/ge_07.mp3?v=c3dad4dd",
+  "audio/de-fr/saetze/ge_08.mp3?v=9b5b9f9a",
+  "audio/de-fr/saetze/ge_09.mp3?v=0e341741",
+  "audio/de-fr/saetze/ge_09_fp.mp3?v=86f9627e",
+  "audio/de-fr/saetze/ge_09_pc.mp3?v=2b106ef0",
+  "audio/de-fr/saetze/ge_10.mp3?v=61d1105f",
+  "audio/de-fr/saetze/ge_10_fp.mp3?v=86d913db",
+  "audio/de-fr/saetze/ge_10_pc.mp3?v=45118eba",
+  "audio/de-fr/saetze/ge_11.mp3?v=a57e5ed3",
+  "audio/de-fr/saetze/ge_11_fp.mp3?v=8b493b0a",
+  "audio/de-fr/saetze/ge_11_pc.mp3?v=aeed421d",
+  "audio/de-fr/saetze/ge_12.mp3?v=8f9f2a99",
+  "audio/de-fr/saetze/ge_12_fp.mp3?v=c603b0f7",
+  "audio/de-fr/saetze/ge_12_pc.mp3?v=ded6439c",
+  "audio/de-fr/saetze/ge_13.mp3?v=20241198",
+  "audio/de-fr/saetze/ge_14.mp3?v=b5f9141f",
+  "audio/de-fr/saetze/ge_14_fp.mp3?v=604c32b1",
+  "audio/de-fr/saetze/ge_14_pc.mp3?v=ea5544b8",
+  "audio/de-fr/saetze/ge_15.mp3?v=ee86f342",
+  "audio/de-fr/saetze/ge_15_fp.mp3?v=25918328",
+  "audio/de-fr/saetze/ge_15_pc.mp3?v=7b14c0f4",
+  "audio/de-fr/saetze/ge_16.mp3?v=0f090b7e",
+  "audio/de-fr/saetze/ge_17.mp3?v=ebf239d2",
+  "audio/de-fr/saetze/ge_17_fp.mp3?v=c840a55f",
+  "audio/de-fr/saetze/ge_17_pc.mp3?v=45b67c42",
+  "audio/de-fr/saetze/ge_18.mp3?v=7cffebd9",
+  "audio/de-fr/saetze/ge_18_fp.mp3?v=ac3b0984",
+  "audio/de-fr/saetze/ge_18_pc.mp3?v=c00f5d7b",
+  "audio/de-fr/saetze/ge_19.mp3?v=3525dfef",
+  "audio/de-fr/saetze/ge_19_fp.mp3?v=b1fface3",
+  "audio/de-fr/saetze/ge_19_pc.mp3?v=07b86ae7",
+  "audio/de-fr/saetze/ge_20.mp3?v=993842e4",
+  "audio/de-fr/saetze/ge_21.mp3?v=ccfef126",
+  "audio/de-fr/saetze/ge_22.mp3?v=b9c678cc",
+  "audio/de-fr/saetze/ge_23.mp3?v=f2ae831b",
+  "audio/de-fr/saetze/ge_23_fp.mp3?v=bcecf6e4",
+  "audio/de-fr/saetze/ge_23_pc.mp3?v=d3d67c7b",
+  "audio/de-fr/saetze/ge_24.mp3?v=e180d24f",
+  "audio/de-fr/saetze/gs_01.mp3?v=018ad6eb",
+  "audio/de-fr/saetze/gs_02.mp3?v=02567883",
+  "audio/de-fr/saetze/gs_02_fp.mp3?v=874d74d2",
+  "audio/de-fr/saetze/gs_02_pc.mp3?v=3c86ea0f",
+  "audio/de-fr/saetze/gs_03.mp3?v=f2638819",
+  "audio/de-fr/saetze/gs_04.mp3?v=38cd9f8f",
+  "audio/de-fr/saetze/gs_05.mp3?v=327f8f52",
+  "audio/de-fr/saetze/gs_06.mp3?v=8569c6b0",
+  "audio/de-fr/saetze/gs_07.mp3?v=b4aa4d9b",
+  "audio/de-fr/saetze/gs_08.mp3?v=3ec60a4b",
+  "audio/de-fr/saetze/gs_09.mp3?v=3e27e934",
+  "audio/de-fr/saetze/gs_10.mp3?v=9eb03307",
+  "audio/de-fr/saetze/gs_11.mp3?v=c31eee5f",
+  "audio/de-fr/saetze/gs_12.mp3?v=902296a2",
+  "audio/de-fr/saetze/gs_12_fp.mp3?v=9ce5981a",
+  "audio/de-fr/saetze/gs_12_pc.mp3?v=78f75665",
+  "audio/de-fr/saetze/gs_13.mp3?v=d2410bc3",
+  "audio/de-fr/saetze/gs_14.mp3?v=156882d7",
+  "audio/de-fr/saetze/gs_15.mp3?v=640d751e",
+  "audio/de-fr/saetze/gs_16.mp3?v=88bde61a",
+  "audio/de-fr/saetze/gs_17.mp3?v=51dfa10a",
+  "audio/de-fr/saetze/gs_18.mp3?v=8011e990",
+  "audio/de-fr/saetze/gs_18_fp.mp3?v=fa737491",
+  "audio/de-fr/saetze/gs_18_pc.mp3?v=40135973",
+  "audio/de-fr/saetze/gs_19.mp3?v=66fe6fdc",
+  "audio/de-fr/saetze/gs_20.mp3?v=2683580b",
+  "audio/de-fr/saetze/gs_20_fp.mp3?v=3d9e2f53",
+  "audio/de-fr/saetze/gs_20_pc.mp3?v=ff0f8c24",
+  "audio/de-fr/saetze/gs_21.mp3?v=af14cd17",
+  "audio/de-fr/saetze/gs_21_fp.mp3?v=c2e15b60",
+  "audio/de-fr/saetze/gs_21_pc.mp3?v=5ffec1e0",
+  "audio/de-fr/saetze/gs_22.mp3?v=424ce725",
+  "audio/de-fr/saetze/gs_23.mp3?v=5c3d5ee0",
+  "audio/de-fr/saetze/gs_24.mp3?v=a225b0c2",
+  "audio/de-fr/saetze/ka_01.mp3?v=19e608e9",
+  "audio/de-fr/saetze/ka_01_fp.mp3?v=aece2a39",
+  "audio/de-fr/saetze/ka_01_pc.mp3?v=96c27d1d",
+  "audio/de-fr/saetze/ka_02.mp3?v=25798f97",
+  "audio/de-fr/saetze/ka_02_fp.mp3?v=26f88c87",
+  "audio/de-fr/saetze/ka_02_pc.mp3?v=2419a56f",
+  "audio/de-fr/saetze/ka_03.mp3?v=d23778a8",
+  "audio/de-fr/saetze/ka_03_fp.mp3?v=456f5b89",
+  "audio/de-fr/saetze/ka_03_pc.mp3?v=6e19145d",
+  "audio/de-fr/saetze/ka_04.mp3?v=5717a908",
+  "audio/de-fr/saetze/ka_04_fp.mp3?v=1539b9f2",
+  "audio/de-fr/saetze/ka_04_pc.mp3?v=1ded8963",
+  "audio/de-fr/saetze/ka_05.mp3?v=5965ea94",
+  "audio/de-fr/saetze/ka_05_fp.mp3?v=5f901be2",
+  "audio/de-fr/saetze/ka_05_pc.mp3?v=cadc05b2",
+  "audio/de-fr/saetze/ka_06.mp3?v=027e8a11",
+  "audio/de-fr/saetze/ka_06_fp.mp3?v=b6f32614",
+  "audio/de-fr/saetze/ka_06_pc.mp3?v=0978deed",
+  "audio/de-fr/saetze/ka_07.mp3?v=1743d2ac",
+  "audio/de-fr/saetze/ka_07_fp.mp3?v=2d639178",
+  "audio/de-fr/saetze/ka_07_pc.mp3?v=e5960713",
+  "audio/de-fr/saetze/ka_08.mp3?v=cce313ba",
+  "audio/de-fr/saetze/ka_08_fp.mp3?v=2d1df167",
+  "audio/de-fr/saetze/ka_08_pc.mp3?v=2d305623",
+  "audio/de-fr/saetze/ka_09.mp3?v=92a5bc63",
+  "audio/de-fr/saetze/ka_10.mp3?v=e1c5ef1f",
+  "audio/de-fr/saetze/ka_10_fp.mp3?v=521f63a2",
+  "audio/de-fr/saetze/ka_10_pc.mp3?v=e3670800",
+  "audio/de-fr/saetze/ka_11.mp3?v=01336c49",
+  "audio/de-fr/saetze/ka_11_fp.mp3?v=0d62bb61",
+  "audio/de-fr/saetze/ka_11_pc.mp3?v=d9faf57e",
+  "audio/de-fr/saetze/ka_12.mp3?v=c98b8662",
+  "audio/de-fr/saetze/ka_13.mp3?v=f926514b",
+  "audio/de-fr/saetze/ka_14.mp3?v=b54685fd",
+  "audio/de-fr/saetze/ka_15.mp3?v=80287d2d",
+  "audio/de-fr/saetze/ka_15_fp.mp3?v=2a514b53",
+  "audio/de-fr/saetze/ka_15_pc.mp3?v=41401ac9",
+  "audio/de-fr/saetze/ka_16.mp3?v=0c959970",
+  "audio/de-fr/saetze/ka_16_fp.mp3?v=6a898f89",
+  "audio/de-fr/saetze/ka_16_pc.mp3?v=b2cba109",
+  "audio/de-fr/saetze/ka_17.mp3?v=756c8e9c",
+  "audio/de-fr/saetze/ka_17_fp.mp3?v=91c24df0",
+  "audio/de-fr/saetze/ka_17_pc.mp3?v=8668b568",
+  "audio/de-fr/saetze/ka_18.mp3?v=75f30384",
+  "audio/de-fr/saetze/ka_19.mp3?v=af8f7843",
+  "audio/de-fr/saetze/ka_19_fp.mp3?v=c0f394d8",
+  "audio/de-fr/saetze/ka_19_pc.mp3?v=1b8deee9",
+  "audio/de-fr/saetze/ka_20.mp3?v=1d253965",
+  "audio/de-fr/saetze/ka_21.mp3?v=5191cec4",
+  "audio/de-fr/saetze/ka_22.mp3?v=330ccd57",
+  "audio/de-fr/saetze/ka_23.mp3?v=a62c612b",
+  "audio/de-fr/saetze/ka_23_fp.mp3?v=5279f49b",
+  "audio/de-fr/saetze/ka_23_pc.mp3?v=3a3559b7",
+  "audio/de-fr/saetze/ka_24.mp3?v=5412c93a",
+  "audio/de-fr/saetze/ki_01.mp3?v=8baf968b",
+  "audio/de-fr/saetze/ki_01_fp.mp3?v=79b9c4b0",
+  "audio/de-fr/saetze/ki_01_pc.mp3?v=39b89f0e",
+  "audio/de-fr/saetze/ki_02.mp3?v=3872bc86",
+  "audio/de-fr/saetze/ki_03.mp3?v=aebaca78",
+  "audio/de-fr/saetze/ki_03_fp.mp3?v=2225d490",
+  "audio/de-fr/saetze/ki_03_pc.mp3?v=817d9469",
+  "audio/de-fr/saetze/ki_04.mp3?v=3fa84505",
+  "audio/de-fr/saetze/ki_04_fp.mp3?v=0f86a8bc",
+  "audio/de-fr/saetze/ki_04_pc.mp3?v=2ac945d5",
+  "audio/de-fr/saetze/ki_05.mp3?v=29f877d1",
+  "audio/de-fr/saetze/ki_06.mp3?v=85b4c44f",
+  "audio/de-fr/saetze/ki_06_fp.mp3?v=132e8cb0",
+  "audio/de-fr/saetze/ki_06_pc.mp3?v=1da833c4",
+  "audio/de-fr/saetze/ki_07.mp3?v=ef05bdd0",
+  "audio/de-fr/saetze/ki_07_fp.mp3?v=143714ea",
+  "audio/de-fr/saetze/ki_07_pc.mp3?v=e4e51a0c",
+  "audio/de-fr/saetze/ki_08.mp3?v=b0b31eec",
+  "audio/de-fr/saetze/ki_08_fp.mp3?v=76fef102",
+  "audio/de-fr/saetze/ki_08_pc.mp3?v=b97e5466",
+  "audio/de-fr/saetze/ki_09.mp3?v=347fbd20",
+  "audio/de-fr/saetze/ki_10.mp3?v=f291123f",
+  "audio/de-fr/saetze/ki_11.mp3?v=da1b84d0",
+  "audio/de-fr/saetze/ki_11_fp.mp3?v=840760b6",
+  "audio/de-fr/saetze/ki_11_pc.mp3?v=a4c965d9",
+  "audio/de-fr/saetze/ki_12.mp3?v=b302d8ec",
+  "audio/de-fr/saetze/ki_12_fp.mp3?v=7c74c818",
+  "audio/de-fr/saetze/ki_12_pc.mp3?v=1c59903e",
+  "audio/de-fr/saetze/ki_13.mp3?v=767136d4",
+  "audio/de-fr/saetze/ki_13_fp.mp3?v=785f01ca",
+  "audio/de-fr/saetze/ki_13_pc.mp3?v=dcede58a",
+  "audio/de-fr/saetze/ki_14.mp3?v=f9bd225c",
+  "audio/de-fr/saetze/ki_15.mp3?v=ebe53616",
+  "audio/de-fr/saetze/ki_15_fp.mp3?v=2eb85b4b",
+  "audio/de-fr/saetze/ki_15_pc.mp3?v=7d16b159",
+  "audio/de-fr/saetze/ki_16.mp3?v=eb447c92",
+  "audio/de-fr/saetze/ki_17.mp3?v=06810ef9",
+  "audio/de-fr/saetze/ki_18.mp3?v=df09a07c",
+  "audio/de-fr/saetze/ki_18_fp.mp3?v=1eb494a2",
+  "audio/de-fr/saetze/ki_18_pc.mp3?v=c01f76a8",
+  "audio/de-fr/saetze/ki_19.mp3?v=1c91f657",
+  "audio/de-fr/saetze/ki_20.mp3?v=b1b2a0d7",
+  "audio/de-fr/saetze/ki_20_fp.mp3?v=1776c29a",
+  "audio/de-fr/saetze/ki_20_pc.mp3?v=305cd05e",
+  "audio/de-fr/saetze/ki_21.mp3?v=619770e1",
+  "audio/de-fr/saetze/ki_21_fp.mp3?v=d5fd9bfe",
+  "audio/de-fr/saetze/ki_21_pc.mp3?v=d8b58243",
+  "audio/de-fr/saetze/ki_22.mp3?v=ffcb371a",
+  "audio/de-fr/saetze/ki_23.mp3?v=63df3b2a",
+  "audio/de-fr/saetze/ki_24.mp3?v=d168a44c",
+  "audio/de-fr/saetze/mu_01.mp3?v=a6b5ec57",
+  "audio/de-fr/saetze/mu_01_fp.mp3?v=db92cbc0",
+  "audio/de-fr/saetze/mu_01_pc.mp3?v=b7e87303",
+  "audio/de-fr/saetze/mu_02.mp3?v=dfb5dd5a",
+  "audio/de-fr/saetze/mu_02_fp.mp3?v=0b037ca2",
+  "audio/de-fr/saetze/mu_02_pc.mp3?v=0a87a6c7",
+  "audio/de-fr/saetze/mu_03.mp3?v=e7c05872",
+  "audio/de-fr/saetze/mu_04.mp3?v=ea5ab45a",
+  "audio/de-fr/saetze/mu_05.mp3?v=60041b76",
+  "audio/de-fr/saetze/mu_06.mp3?v=10683b39",
+  "audio/de-fr/saetze/mu_07.mp3?v=5b0c71e0",
+  "audio/de-fr/saetze/mu_08.mp3?v=213c9b6f",
+  "audio/de-fr/saetze/mu_09.mp3?v=4375f034",
+  "audio/de-fr/saetze/mu_09_fp.mp3?v=6d1275bf",
+  "audio/de-fr/saetze/mu_09_pc.mp3?v=6be878c1",
+  "audio/de-fr/saetze/mu_10.mp3?v=9ec87d0a",
+  "audio/de-fr/saetze/mu_10_fp.mp3?v=4972c257",
+  "audio/de-fr/saetze/mu_10_pc.mp3?v=d0df8b01",
+  "audio/de-fr/saetze/mu_11.mp3?v=d504783c",
+  "audio/de-fr/saetze/mu_11_fp.mp3?v=0d667b49",
+  "audio/de-fr/saetze/mu_11_pc.mp3?v=107d10be",
+  "audio/de-fr/saetze/mu_12.mp3?v=e3587e79",
+  "audio/de-fr/saetze/mu_12_fp.mp3?v=8407f110",
+  "audio/de-fr/saetze/mu_12_pc.mp3?v=922992c9",
+  "audio/de-fr/saetze/mu_13.mp3?v=9cb9196f",
+  "audio/de-fr/saetze/mu_14.mp3?v=de0684de",
+  "audio/de-fr/saetze/mu_15.mp3?v=b2485fda",
+  "audio/de-fr/saetze/mu_15_fp.mp3?v=288055c9",
+  "audio/de-fr/saetze/mu_15_pc.mp3?v=a3fffb94",
+  "audio/de-fr/saetze/mu_16.mp3?v=2aabb25e",
+  "audio/de-fr/saetze/mu_17.mp3?v=7711dbac",
+  "audio/de-fr/saetze/mu_18.mp3?v=e0f3c3ba",
+  "audio/de-fr/saetze/mu_19.mp3?v=26a26719",
+  "audio/de-fr/saetze/mu_20.mp3?v=f37119b4",
+  "audio/de-fr/saetze/mu_20_fp.mp3?v=d12f0528",
+  "audio/de-fr/saetze/mu_20_pc.mp3?v=10e17250",
+  "audio/de-fr/saetze/mu_21.mp3?v=125dbad6",
+  "audio/de-fr/saetze/mu_21_fp.mp3?v=a71ec6be",
+  "audio/de-fr/saetze/mu_21_pc.mp3?v=1d4ffb40",
+  "audio/de-fr/saetze/mu_22.mp3?v=3edf55ec",
+  "audio/de-fr/saetze/mu_22_fp.mp3?v=3b7288ff",
+  "audio/de-fr/saetze/mu_22_pc.mp3?v=0523a7b8",
+  "audio/de-fr/saetze/mu_23.mp3?v=049d8533",
+  "audio/de-fr/saetze/mu_24.mp3?v=7c6c2c53",
+  "audio/de-fr/saetze/sp_01.mp3?v=fad6c255",
+  "audio/de-fr/saetze/sp_01_fp.mp3?v=238bea07",
+  "audio/de-fr/saetze/sp_01_pc.mp3?v=f8f0b47d",
+  "audio/de-fr/saetze/sp_02.mp3?v=0ca7d398",
+  "audio/de-fr/saetze/sp_03.mp3?v=6ed2ae50",
+  "audio/de-fr/saetze/sp_04.mp3?v=56c61430",
+  "audio/de-fr/saetze/sp_05.mp3?v=0da40e4c",
+  "audio/de-fr/saetze/sp_05_fp.mp3?v=f505f303",
+  "audio/de-fr/saetze/sp_05_pc.mp3?v=419ea1fe",
+  "audio/de-fr/saetze/sp_06.mp3?v=eb6d725d",
+  "audio/de-fr/saetze/sp_06_fp.mp3?v=89217ce9",
+  "audio/de-fr/saetze/sp_06_pc.mp3?v=b41936aa",
+  "audio/de-fr/saetze/sp_07.mp3?v=0a934a8b",
+  "audio/de-fr/saetze/sp_07_fp.mp3?v=1968588a",
+  "audio/de-fr/saetze/sp_07_pc.mp3?v=6f5db0bc",
+  "audio/de-fr/saetze/sp_08.mp3?v=bf2a3202",
+  "audio/de-fr/saetze/sp_09.mp3?v=cbded03a",
+  "audio/de-fr/saetze/sp_09_fp.mp3?v=eec088f4",
+  "audio/de-fr/saetze/sp_09_pc.mp3?v=d579e56e",
+  "audio/de-fr/saetze/sp_10.mp3?v=cfc2d565",
+  "audio/de-fr/saetze/sp_11.mp3?v=d42b5756",
+  "audio/de-fr/saetze/sp_12.mp3?v=ba16991a",
+  "audio/de-fr/saetze/sp_13.mp3?v=1771187c",
+  "audio/de-fr/saetze/sp_13_fp.mp3?v=9f29ecd5",
+  "audio/de-fr/saetze/sp_13_pc.mp3?v=ca9bcab8",
+  "audio/de-fr/saetze/sp_14.mp3?v=940166cc",
+  "audio/de-fr/saetze/sp_14_fp.mp3?v=aef5251a",
+  "audio/de-fr/saetze/sp_14_pc.mp3?v=e1401b60",
+  "audio/de-fr/saetze/sp_15.mp3?v=d327b88f",
+  "audio/de-fr/saetze/sp_15_fp.mp3?v=ebea6fa2",
+  "audio/de-fr/saetze/sp_15_pc.mp3?v=ce7b55ea",
+  "audio/de-fr/saetze/sp_16.mp3?v=73462a4d",
+  "audio/de-fr/saetze/sp_16_fp.mp3?v=881e4e3f",
+  "audio/de-fr/saetze/sp_16_pc.mp3?v=22e4be73",
+  "audio/de-fr/saetze/sp_17.mp3?v=cf96af3d",
+  "audio/de-fr/saetze/sp_17_fp.mp3?v=4638a7d1",
+  "audio/de-fr/saetze/sp_17_pc.mp3?v=bdea6ad6",
+  "audio/de-fr/saetze/sp_18.mp3?v=cfa0d679",
+  "audio/de-fr/saetze/sp_19.mp3?v=b5a3bd2c",
+  "audio/de-fr/saetze/sp_19_fp.mp3?v=d823b356",
+  "audio/de-fr/saetze/sp_19_pc.mp3?v=cf9f4208",
+  "audio/de-fr/saetze/sp_20.mp3?v=96466669",
+  "audio/de-fr/saetze/sp_21.mp3?v=62766079",
+  "audio/de-fr/saetze/sp_21_fp.mp3?v=4662d74f",
+  "audio/de-fr/saetze/sp_21_pc.mp3?v=438d76b8",
+  "audio/de-fr/saetze/sp_22.mp3?v=ac3b8252",
+  "audio/de-fr/saetze/sp_22_fp.mp3?v=937b34b8",
+  "audio/de-fr/saetze/sp_22_pc.mp3?v=eba00340",
+  "audio/de-fr/saetze/sp_23.mp3?v=28447900",
+  "audio/de-fr/saetze/sp_24.mp3?v=b9de12ae",
+  "audio/de-fr/saetze/ul_01.mp3?v=92991bf3",
+  "audio/de-fr/saetze/ul_01_fp.mp3?v=02cd50bc",
+  "audio/de-fr/saetze/ul_01_pc.mp3?v=6846df80",
+  "audio/de-fr/saetze/ul_02.mp3?v=14fa59e5",
+  "audio/de-fr/saetze/ul_02_fp.mp3?v=de5d9093",
+  "audio/de-fr/saetze/ul_02_pc.mp3?v=699bb1f3",
+  "audio/de-fr/saetze/ul_03.mp3?v=2aa0d4a8",
+  "audio/de-fr/saetze/ul_03_fp.mp3?v=d867c37b",
+  "audio/de-fr/saetze/ul_03_pc.mp3?v=0c5917fe",
+  "audio/de-fr/saetze/ul_04.mp3?v=44c44426",
+  "audio/de-fr/saetze/ul_04_fp.mp3?v=2a43e9da",
+  "audio/de-fr/saetze/ul_04_pc.mp3?v=d1dba978",
+  "audio/de-fr/saetze/ul_05.mp3?v=466d4e3e",
+  "audio/de-fr/saetze/ul_06.mp3?v=da385c77",
+  "audio/de-fr/saetze/ul_06_fp.mp3?v=41d1123d",
+  "audio/de-fr/saetze/ul_06_pc.mp3?v=413408da",
+  "audio/de-fr/saetze/ul_07.mp3?v=ef9971b4",
+  "audio/de-fr/saetze/ul_07_fp.mp3?v=9ddb8b7a",
+  "audio/de-fr/saetze/ul_07_pc.mp3?v=f2a6d820",
+  "audio/de-fr/saetze/ul_08.mp3?v=0fe72b65",
+  "audio/de-fr/saetze/ul_08_fp.mp3?v=e171a953",
+  "audio/de-fr/saetze/ul_08_pc.mp3?v=6cb8d835",
+  "audio/de-fr/saetze/ul_09.mp3?v=137bc1f2",
+  "audio/de-fr/saetze/ul_10.mp3?v=c2437b34",
+  "audio/de-fr/saetze/ul_11.mp3?v=8edecd33",
+  "audio/de-fr/saetze/ul_12.mp3?v=f62071c8",
+  "audio/de-fr/saetze/ul_13.mp3?v=f1d81aaf",
+  "audio/de-fr/saetze/ul_13_fp.mp3?v=255655e2",
+  "audio/de-fr/saetze/ul_13_pc.mp3?v=4bfd8d50",
+  "audio/de-fr/saetze/ul_14.mp3?v=7ca994c7",
+  "audio/de-fr/saetze/ul_14_fp.mp3?v=f644fa2c",
+  "audio/de-fr/saetze/ul_14_pc.mp3?v=9d8eac2b",
+  "audio/de-fr/saetze/ul_15.mp3?v=0c1adc10",
+  "audio/de-fr/saetze/ul_15_fp.mp3?v=695ac4dc",
+  "audio/de-fr/saetze/ul_15_pc.mp3?v=7ba71c48",
+  "audio/de-fr/saetze/ul_16.mp3?v=7c4e2b09",
+  "audio/de-fr/saetze/ul_16_fp.mp3?v=ea396f5c",
+  "audio/de-fr/saetze/ul_16_pc.mp3?v=19bba609",
+  "audio/de-fr/saetze/ul_17.mp3?v=cf84c4a8",
+  "audio/de-fr/saetze/ul_18.mp3?v=67429990",
+  "audio/de-fr/saetze/ul_19.mp3?v=0ef7dac3",
+  "audio/de-fr/saetze/ul_20.mp3?v=3e891a1d",
+  "audio/de-fr/saetze/ul_21.mp3?v=826eca4e",
+  "audio/de-fr/saetze/ul_21_fp.mp3?v=d93bf43f",
+  "audio/de-fr/saetze/ul_21_pc.mp3?v=d363f40d",
+  "audio/de-fr/saetze/ul_22.mp3?v=0ecac4df",
+  "audio/de-fr/saetze/ul_22_fp.mp3?v=e75f90eb",
+  "audio/de-fr/saetze/ul_22_pc.mp3?v=b8506da5",
+  "audio/de-fr/saetze/ul_23.mp3?v=e079ca21",
+  "audio/de-fr/saetze/ul_23_fp.mp3?v=aee4d8ca",
+  "audio/de-fr/saetze/ul_23_pc.mp3?v=9e8a32bd",
+  "audio/de-fr/saetze/ul_24.mp3?v=6f231599",
+  "audio/de-fr/spiel/feuer.mp3?v=accaab96",
+  "audio/de-fr/spiel/fini.mp3?v=2290c10a",
+  "audio/de-fr/spiel/monat.mp3?v=da6ec871",
+  "audio/de-fr/spiel/titel_1.mp3?v=0b478f47",
+  "audio/de-fr/spiel/titel_2.mp3?v=bccd3b44",
+  "audio/de-fr/spiel/titel_3.mp3?v=662574b2",
+  "audio/de-fr/spiel/titel_4.mp3?v=449a77fd",
+  "audio/de-fr/spiel/titel_5.mp3?v=f776296f",
+  "audio/de-fr/spiel/titel_6.mp3?v=3ba752b7",
+  "audio/de-fr/spiel/woche.mp3?v=32c797f4",
+  "audio/de-fr/wendungen/es_01.mp3?v=9e304c49",
+  "audio/de-fr/wendungen/es_02.mp3?v=d15b4589",
+  "audio/de-fr/wendungen/es_03.mp3?v=e895efda",
+  "audio/de-fr/wendungen/es_04.mp3?v=9e6684bd",
+  "audio/de-fr/wendungen/es_05.mp3?v=44e2598b",
+  "audio/de-fr/wendungen/es_06.mp3?v=03ce5d4c",
+  "audio/de-fr/wendungen/es_07.mp3?v=b4215453",
+  "audio/de-fr/wendungen/es_08.mp3?v=f6c5b654",
+  "audio/de-fr/wendungen/es_09.mp3?v=639a4f4d",
+  "audio/de-fr/wendungen/es_10.mp3?v=f7ac9f43",
+  "audio/de-fr/wendungen/es_11.mp3?v=d56f1acd",
+  "audio/de-fr/wendungen/es_12.mp3?v=c2c1a17a",
+  "audio/de-fr/wendungen/es_13.mp3?v=e068e5d2",
+  "audio/de-fr/wendungen/es_14.mp3?v=70283fdc",
+  "audio/de-fr/wendungen/es_15.mp3?v=c266237c",
+  "audio/de-fr/wendungen/es_16.mp3?v=50acdaa8",
+  "audio/de-fr/wendungen/es_17.mp3?v=39d825fd",
+  "audio/de-fr/wendungen/es_18.mp3?v=d08d3194",
+  "audio/de-fr/wendungen/es_19.mp3?v=5af4185d",
+  "audio/de-fr/wendungen/es_20.mp3?v=25c70648",
+  "audio/de-fr/wendungen/es_21.mp3?v=0b40d41b",
+  "audio/de-fr/wendungen/es_22.mp3?v=11382124",
+  "audio/de-fr/wendungen/es_23.mp3?v=fab4bfb9",
+  "audio/de-fr/wendungen/es_24.mp3?v=45018307",
+  "audio/de-fr/wendungen/ff_01.mp3?v=4024b0fe",
+  "audio/de-fr/wendungen/ff_02.mp3?v=62eda596",
+  "audio/de-fr/wendungen/ff_03.mp3?v=20b473e5",
+  "audio/de-fr/wendungen/ff_04.mp3?v=492a723e",
+  "audio/de-fr/wendungen/ff_05.mp3?v=04058630",
+  "audio/de-fr/wendungen/ff_06.mp3?v=1a474234",
+  "audio/de-fr/wendungen/ff_07.mp3?v=3e55f8dc",
+  "audio/de-fr/wendungen/ff_08.mp3?v=aaa58ccb",
+  "audio/de-fr/wendungen/ff_09.mp3?v=8ff3f707",
+  "audio/de-fr/wendungen/ff_10.mp3?v=df4ca309",
+  "audio/de-fr/wendungen/ff_11.mp3?v=3db794a4",
+  "audio/de-fr/wendungen/ff_12.mp3?v=9257ee32",
+  "audio/de-fr/wendungen/ff_13.mp3?v=81d33d66",
+  "audio/de-fr/wendungen/ff_14.mp3?v=7fe19fb5",
+  "audio/de-fr/wendungen/ff_15.mp3?v=f5bde25b",
+  "audio/de-fr/wendungen/ff_16.mp3?v=bb123daf",
+  "audio/de-fr/wendungen/ff_17.mp3?v=7a3bd81a",
+  "audio/de-fr/wendungen/ff_18.mp3?v=0e0c53eb",
+  "audio/de-fr/wendungen/ff_19.mp3?v=531cf160",
+  "audio/de-fr/wendungen/ff_20.mp3?v=5b4a49c1",
+  "audio/de-fr/wendungen/ff_21.mp3?v=ba817ccf",
+  "audio/de-fr/wendungen/ff_22.mp3?v=eeafbf83",
+  "audio/de-fr/wendungen/ff_23.mp3?v=07f83fb1",
+  "audio/de-fr/wendungen/ff_24.mp3?v=f5e2e074",
+  "audio/de-fr/wendungen/ge_01.mp3?v=b475690c",
+  "audio/de-fr/wendungen/ge_02.mp3?v=09cd567d",
+  "audio/de-fr/wendungen/ge_03.mp3?v=1660633a",
+  "audio/de-fr/wendungen/ge_04.mp3?v=882007df",
+  "audio/de-fr/wendungen/ge_05.mp3?v=397dceeb",
+  "audio/de-fr/wendungen/ge_06.mp3?v=ab46044c",
+  "audio/de-fr/wendungen/ge_07.mp3?v=5d10ef7d",
+  "audio/de-fr/wendungen/ge_08.mp3?v=ebecf4b0",
+  "audio/de-fr/wendungen/ge_09.mp3?v=f95855be",
+  "audio/de-fr/wendungen/ge_10.mp3?v=95aae9b4",
+  "audio/de-fr/wendungen/ge_11.mp3?v=88e534bf",
+  "audio/de-fr/wendungen/ge_12.mp3?v=f0218578",
+  "audio/de-fr/wendungen/ge_13.mp3?v=a73b3736",
+  "audio/de-fr/wendungen/ge_14.mp3?v=8f97fe22",
+  "audio/de-fr/wendungen/ge_15.mp3?v=e317506b",
+  "audio/de-fr/wendungen/ge_16.mp3?v=a0e4152e",
+  "audio/de-fr/wendungen/ge_17.mp3?v=82c67a76",
+  "audio/de-fr/wendungen/ge_18.mp3?v=5de3422a",
+  "audio/de-fr/wendungen/ge_19.mp3?v=37691012",
+  "audio/de-fr/wendungen/ge_20.mp3?v=1dde4873",
+  "audio/de-fr/wendungen/ge_21.mp3?v=ef1b56b2",
+  "audio/de-fr/wendungen/ge_22.mp3?v=77c248c9",
+  "audio/de-fr/wendungen/ge_23.mp3?v=6a40bbc9",
+  "audio/de-fr/wendungen/ge_24.mp3?v=9d9fc233",
+  "audio/de-fr/wendungen/gs_01.mp3?v=756ccabe",
+  "audio/de-fr/wendungen/gs_02.mp3?v=2741cdcf",
+  "audio/de-fr/wendungen/gs_03.mp3?v=4e5c4611",
+  "audio/de-fr/wendungen/gs_04.mp3?v=38442c1f",
+  "audio/de-fr/wendungen/gs_05.mp3?v=8a758149",
+  "audio/de-fr/wendungen/gs_06.mp3?v=8c8165ad",
+  "audio/de-fr/wendungen/gs_07.mp3?v=5651bb85",
+  "audio/de-fr/wendungen/gs_08.mp3?v=01f16307",
+  "audio/de-fr/wendungen/gs_09.mp3?v=2f80de58",
+  "audio/de-fr/wendungen/gs_10.mp3?v=49d04f02",
+  "audio/de-fr/wendungen/gs_11.mp3?v=35a2d7b2",
+  "audio/de-fr/wendungen/gs_12.mp3?v=0a8adc1c",
+  "audio/de-fr/wendungen/gs_13.mp3?v=03049b27",
+  "audio/de-fr/wendungen/gs_14.mp3?v=6d7d581e",
+  "audio/de-fr/wendungen/gs_15.mp3?v=c538badc",
+  "audio/de-fr/wendungen/gs_16.mp3?v=114b9446",
+  "audio/de-fr/wendungen/gs_17.mp3?v=7963e38b",
+  "audio/de-fr/wendungen/gs_18.mp3?v=19ddaff2",
+  "audio/de-fr/wendungen/gs_19.mp3?v=40f339a2",
+  "audio/de-fr/wendungen/gs_20.mp3?v=6dacf272",
+  "audio/de-fr/wendungen/gs_21.mp3?v=1fa991e4",
+  "audio/de-fr/wendungen/gs_22.mp3?v=6863d25a",
+  "audio/de-fr/wendungen/gs_23.mp3?v=a345e661",
+  "audio/de-fr/wendungen/gs_24.mp3?v=01af55f7",
+  "audio/de-fr/wendungen/ka_01.mp3?v=566423f5",
+  "audio/de-fr/wendungen/ka_02.mp3?v=a391e912",
+  "audio/de-fr/wendungen/ka_03.mp3?v=e9966636",
+  "audio/de-fr/wendungen/ka_04.mp3?v=98f9e462",
+  "audio/de-fr/wendungen/ka_05.mp3?v=1e286ff1",
+  "audio/de-fr/wendungen/ka_06.mp3?v=9944bef5",
+  "audio/de-fr/wendungen/ka_07.mp3?v=7ebf91ec",
+  "audio/de-fr/wendungen/ka_08.mp3?v=10e522c3",
+  "audio/de-fr/wendungen/ka_09.mp3?v=70574eea",
+  "audio/de-fr/wendungen/ka_10.mp3?v=40cd1af6",
+  "audio/de-fr/wendungen/ka_11.mp3?v=c3f0977a",
+  "audio/de-fr/wendungen/ka_12.mp3?v=d1673fc4",
+  "audio/de-fr/wendungen/ka_13.mp3?v=a04ac2a9",
+  "audio/de-fr/wendungen/ka_14.mp3?v=d33324b4",
+  "audio/de-fr/wendungen/ka_15.mp3?v=6dbceb10",
+  "audio/de-fr/wendungen/ka_16.mp3?v=11ad52c6",
+  "audio/de-fr/wendungen/ka_17.mp3?v=75206c50",
+  "audio/de-fr/wendungen/ka_18.mp3?v=389be28c",
+  "audio/de-fr/wendungen/ka_19.mp3?v=0e5aff44",
+  "audio/de-fr/wendungen/ka_20.mp3?v=04e5dd8c",
+  "audio/de-fr/wendungen/ka_21.mp3?v=ccd3ab76",
+  "audio/de-fr/wendungen/ka_22.mp3?v=2df083df",
+  "audio/de-fr/wendungen/ka_23.mp3?v=d9cad940",
+  "audio/de-fr/wendungen/ka_24.mp3?v=b7b0ab09",
+  "audio/de-fr/wendungen/ki_01.mp3?v=c1d68288",
+  "audio/de-fr/wendungen/ki_02.mp3?v=639c285d",
+  "audio/de-fr/wendungen/ki_03.mp3?v=c30afc4a",
+  "audio/de-fr/wendungen/ki_04.mp3?v=14264dde",
+  "audio/de-fr/wendungen/ki_05.mp3?v=29555c96",
+  "audio/de-fr/wendungen/ki_06.mp3?v=a5634330",
+  "audio/de-fr/wendungen/ki_07.mp3?v=be10bf67",
+  "audio/de-fr/wendungen/ki_08.mp3?v=8eb87406",
+  "audio/de-fr/wendungen/ki_09.mp3?v=e0799be2",
+  "audio/de-fr/wendungen/ki_10.mp3?v=182f4380",
+  "audio/de-fr/wendungen/ki_11.mp3?v=d5d9c789",
+  "audio/de-fr/wendungen/ki_12.mp3?v=7d5a4d7f",
+  "audio/de-fr/wendungen/ki_13.mp3?v=4073b374",
+  "audio/de-fr/wendungen/ki_14.mp3?v=b27f5ade",
+  "audio/de-fr/wendungen/ki_15.mp3?v=84f9baf5",
+  "audio/de-fr/wendungen/ki_16.mp3?v=cd02a88b",
+  "audio/de-fr/wendungen/ki_17.mp3?v=847ac7fb",
+  "audio/de-fr/wendungen/ki_18.mp3?v=2bce0404",
+  "audio/de-fr/wendungen/ki_19.mp3?v=5a86d88d",
+  "audio/de-fr/wendungen/ki_20.mp3?v=04dedae7",
+  "audio/de-fr/wendungen/ki_21.mp3?v=c8c99456",
+  "audio/de-fr/wendungen/ki_22.mp3?v=27a63ffb",
+  "audio/de-fr/wendungen/ki_23.mp3?v=0b62ecb2",
+  "audio/de-fr/wendungen/ki_24.mp3?v=fc15c957",
+  "audio/de-fr/wendungen/mu_01.mp3?v=c9ec6a7d",
+  "audio/de-fr/wendungen/mu_02.mp3?v=6eb98246",
+  "audio/de-fr/wendungen/mu_03.mp3?v=29f3afd9",
+  "audio/de-fr/wendungen/mu_04.mp3?v=f43113e5",
+  "audio/de-fr/wendungen/mu_05.mp3?v=41ecb1c5",
+  "audio/de-fr/wendungen/mu_06.mp3?v=17eb3980",
+  "audio/de-fr/wendungen/mu_07.mp3?v=91807d4b",
+  "audio/de-fr/wendungen/mu_08.mp3?v=e9fd7a96",
+  "audio/de-fr/wendungen/mu_09.mp3?v=06b70e2e",
+  "audio/de-fr/wendungen/mu_10.mp3?v=ff92856d",
+  "audio/de-fr/wendungen/mu_11.mp3?v=57a153e2",
+  "audio/de-fr/wendungen/mu_12.mp3?v=79a61957",
+  "audio/de-fr/wendungen/mu_13.mp3?v=e6e994dd",
+  "audio/de-fr/wendungen/mu_14.mp3?v=dbe9fdb9",
+  "audio/de-fr/wendungen/mu_15.mp3?v=a94dedc8",
+  "audio/de-fr/wendungen/mu_16.mp3?v=acfc71a0",
+  "audio/de-fr/wendungen/mu_17.mp3?v=31085bba",
+  "audio/de-fr/wendungen/mu_18.mp3?v=f4268cb2",
+  "audio/de-fr/wendungen/mu_19.mp3?v=7080855f",
+  "audio/de-fr/wendungen/mu_20.mp3?v=252b09e2",
+  "audio/de-fr/wendungen/mu_21.mp3?v=d9e20889",
+  "audio/de-fr/wendungen/mu_22.mp3?v=4868f69f",
+  "audio/de-fr/wendungen/mu_23.mp3?v=a6d7c7e9",
+  "audio/de-fr/wendungen/mu_24.mp3?v=6185ee05",
+  "audio/de-fr/wendungen/sp_01.mp3?v=b9a8e7d7",
+  "audio/de-fr/wendungen/sp_02.mp3?v=2d390e01",
+  "audio/de-fr/wendungen/sp_03.mp3?v=38399323",
+  "audio/de-fr/wendungen/sp_04.mp3?v=3c647821",
+  "audio/de-fr/wendungen/sp_05.mp3?v=81e193ad",
+  "audio/de-fr/wendungen/sp_06.mp3?v=c8782a72",
+  "audio/de-fr/wendungen/sp_07.mp3?v=e662691b",
+  "audio/de-fr/wendungen/sp_08.mp3?v=637f956e",
+  "audio/de-fr/wendungen/sp_09.mp3?v=87c3b45f",
+  "audio/de-fr/wendungen/sp_10.mp3?v=68e2565b",
+  "audio/de-fr/wendungen/sp_11.mp3?v=0fb03b23",
+  "audio/de-fr/wendungen/sp_12.mp3?v=ad52b852",
+  "audio/de-fr/wendungen/sp_13.mp3?v=5808b93e",
+  "audio/de-fr/wendungen/sp_14.mp3?v=930be86a",
+  "audio/de-fr/wendungen/sp_15.mp3?v=3c35c39b",
+  "audio/de-fr/wendungen/sp_16.mp3?v=6bd371e5",
+  "audio/de-fr/wendungen/sp_17.mp3?v=e2d014cb",
+  "audio/de-fr/wendungen/sp_18.mp3?v=7a728d7b",
+  "audio/de-fr/wendungen/sp_19.mp3?v=85156a9b",
+  "audio/de-fr/wendungen/sp_20.mp3?v=69aa257e",
+  "audio/de-fr/wendungen/sp_21.mp3?v=08cd0626",
+  "audio/de-fr/wendungen/sp_22.mp3?v=96f1df13",
+  "audio/de-fr/wendungen/sp_23.mp3?v=f6822195",
+  "audio/de-fr/wendungen/sp_24.mp3?v=55d9c04f",
+  "audio/de-fr/wendungen/ul_01.mp3?v=25f3964b",
+  "audio/de-fr/wendungen/ul_02.mp3?v=f0232ab8",
+  "audio/de-fr/wendungen/ul_03.mp3?v=1353551c",
+  "audio/de-fr/wendungen/ul_04.mp3?v=b7fa9d17",
+  "audio/de-fr/wendungen/ul_05.mp3?v=c46de9cb",
+  "audio/de-fr/wendungen/ul_06.mp3?v=3ac4be03",
+  "audio/de-fr/wendungen/ul_07.mp3?v=da43c00a",
+  "audio/de-fr/wendungen/ul_08.mp3?v=b999d908",
+  "audio/de-fr/wendungen/ul_09.mp3?v=9ef93337",
+  "audio/de-fr/wendungen/ul_10.mp3?v=0fbb702e",
+  "audio/de-fr/wendungen/ul_11.mp3?v=35d81fad",
+  "audio/de-fr/wendungen/ul_12.mp3?v=296bd1f7",
+  "audio/de-fr/wendungen/ul_13.mp3?v=16797d51",
+  "audio/de-fr/wendungen/ul_14.mp3?v=4cfb9d53",
+  "audio/de-fr/wendungen/ul_15.mp3?v=5c316df7",
+  "audio/de-fr/wendungen/ul_16.mp3?v=901ae1f0",
+  "audio/de-fr/wendungen/ul_17.mp3?v=baa79527",
+  "audio/de-fr/wendungen/ul_18.mp3?v=ff129692",
+  "audio/de-fr/wendungen/ul_19.mp3?v=690c7ba9",
+  "audio/de-fr/wendungen/ul_20.mp3?v=fecba615",
+  "audio/de-fr/wendungen/ul_21.mp3?v=3703bd5d",
+  "audio/de-fr/wendungen/ul_22.mp3?v=90cfe740",
+  "audio/de-fr/wendungen/ul_23.mp3?v=23f1608e",
+  "audio/de-fr/wendungen/ul_24.mp3?v=23b061a1"
  ]
 };

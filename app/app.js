@@ -1134,7 +1134,7 @@
   async function offlineStand() {
     if (!window.caches) return null;
     const c = await caches.open(AUDIO_CACHE());
-    const da = new Set((await c.keys()).map((r) => new URL(r.url).pathname.split("/audio/")[1]).filter(Boolean).map((p) => "audio/" + p));
+    const da = new Set((await c.keys()).map((r) => { const u = new URL(r.url); return (u.pathname + u.search).split("/audio/")[1]; }).filter(Boolean).map((p) => "audio/" + p));
     return D.audio_liste.filter((p) => da.has(p)).length;
   }
   async function offlineBox(box) {
@@ -1147,7 +1147,7 @@
       if (offlineLauf) return;
       laden.disabled = true; offlineLauf = true;
       const c = await caches.open(AUDIO_CACHE());
-      const vorhanden = new Set((await c.keys()).map((r) => new URL(r.url).pathname.split("/audio/")[1]).filter(Boolean).map((p) => "audio/" + p));
+      const vorhanden = new Set((await c.keys()).map((r) => { const u = new URL(r.url); return (u.pathname + u.search).split("/audio/")[1]; }).filter(Boolean).map((p) => "audio/" + p));
       const fehlend = D.audio_liste.filter((p) => !vorhanden.has(p));
       let geladen = alle - fehlend.length;
       for (let i = 0; i < fehlend.length; i += 10) {

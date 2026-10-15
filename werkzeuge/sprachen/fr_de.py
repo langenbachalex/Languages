@@ -85,7 +85,8 @@ def karte_laden(inhalte):
 # Stimmen (ElevenLabs): Mr. Alex' Klon auf Französisch (Hörprobe 13.10. freigegeben), Aurélien = „Julien – Professional“
 STIMME = {"id": "AK2WYGe96RmMwFKM5KEz", "modell": "eleven_v4", "language_code": "fr", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 STIMME_B = {"id": "eOwAMwUJEGkP44SKOXIH", "modell": "eleven_multilingual_v2", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
-AUSSPRACHE_KORREKTUR = {"Metz": "Mess", "‿": ""}   # „Metz“ klang falsch; ‿ (Liaison-Bogen) nur im Text
+# Schreibweise nur fürs Vorlesen (ganze Wörter): die Stimme las einzelne Wörter englisch oder mit Endkonsonant.
+AUSSPRACHE_KORREKTUR = {"Metz": "Mess", "Nancy": "Nanci", "temps": "tant", "‿": ""}
 
 # Oberflächentexte: [Zielsprache, Hilfe] oder nur Zielsprache
 UI = {
