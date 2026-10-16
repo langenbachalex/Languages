@@ -95,11 +95,11 @@ window.SPRACHEN["en-de"] = {
   ],
   "sammlung": "🏆 My collection",
   "etape": "Step {n}",
-  "zeitmaschine": "⏳ Time machine",
+  "zeitmaschine": "⚖️ Register machine",
   "trouve": "🔎 Find the item",
   "thema_ansage": [
-   "Choose a part. Each part: listen and repeat in three steps, the time machine, then find the items again.",
-   "Wähl einen Teil. Jeder Teil: hören und nachsprechen in drei Stufen, Zeitmaschine, dann die Einträge wiederfinden."
+   "Choose a part. Each part: listen and repeat in three steps, the register machine, then find the items again.",
+   "Wähl einen Teil. Jeder Teil: hören und nachsprechen in drei Stufen, Registermaschine, dann die Einträge wiederfinden."
   ],
   "partie": "Part {n}",
   "dialog_hoeren": "👂 Listen",
@@ -185,24 +185,24 @@ window.SPRACHEN["en-de"] = {
   ],
   "zeiten": {
    "jetzt": [
-    "Today",
-    "present"
+    "In council",
+    "as the Eldar say it"
    ],
    "pc": [
-    "Yesterday",
-    "past",
-    "And yesterday?"
+    "Among friends",
+    "neutral",
+    "And among friends?"
    ],
    "fp": [
-    "Tomorrow",
-    "future",
-    "And tomorrow?"
+    "Plainly",
+    "everyday",
+    "And plainly?"
    ]
   },
   "solution_zeit": "Solution: {zeit}",
   "zeit_ansage": [
-   "Listen to today's sentence. Then say it in the past, and in the future – out loud. Then “Solution”.",
-   "Hör den Satz von heute. Dann sag ihn in der Vergangenheit und in der Zukunft – laut. Danach „Solution“."
+   "Listen to the sentence as it is said in council. Then say it among friends, and plainly – out loud. Then “Solution”.",
+   "Hör den Satz, wie er im Rat gesagt wird. Dann sag ihn unter Freunden und schlicht – laut. Danach „Solution“."
   ],
   "expression": "Item {n} / {alle}",
   "bonus_weekend": "🏖️ Weekend bonus +{p}",
@@ -259,16 +259,829 @@ window.SPRACHEN["en-de"] = {
   "bald": "in preparation",
   "offline_laeuft": "Downloading… {n} / {alle}"
  },
- "themen": [],
- "wendungen": [],
- "dialoge": [],
+ "themen": [
+  {
+   "id": "council",
+   "name": "In the Council",
+   "de": "The Council of Elrond – wie die Elben im Rat sprechen",
+   "symbol": "💍",
+   "wendungen": [
+    "co_01",
+    "co_02",
+    "co_03",
+    "co_04",
+    "co_05",
+    "co_06",
+    "co_07",
+    "co_08",
+    "co_09",
+    "co_10",
+    "co_11",
+    "co_12",
+    "co_13",
+    "co_14",
+    "co_15",
+    "co_16",
+    "co_17",
+    "co_18",
+    "co_19",
+    "co_20",
+    "co_21",
+    "co_22",
+    "co_23",
+    "co_24"
+   ]
+  }
+ ],
+ "wendungen": [
+  {
+   "id": "co_01",
+   "thema": "council",
+   "fr": "on an errand more urgent",
+   "de": "in dringenderem Auftrag",
+   "register": "tu",
+   "anker": "on",
+   "notiz": "errand = Botengang, Auftrag. Nachgestelltes Adjektiv « an errand more urgent » statt « a more urgent errand »: hebt das Adjektiv. hither = hierher (archaisch, Gegenstück thither). Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_01.mp3?v=49cd19c1",
+   "satz": {
+    "fr": "Few have ever come hither through greater peril or on an errand more urgent.",
+    "de": "Wenige sind je durch größere Gefahr hierhergekommen oder in dringenderem Auftrag.",
+    "luecke": "on an errand more urgent",
+    "audio": "audio/en-de/saetze/co_01.mp3?v=9f2b206d"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hardly anyone has ever come here in greater danger or with a more urgent errand.",
+     "audio": "audio/en-de/saetze/co_01_pc.mp3?v=e7188d88"
+    },
+    "fp": {
+     "fr": "Nobody's ever turned up here in more danger, or in more of a hurry.",
+     "audio": "audio/en-de/saetze/co_01_fp.mp3?v=29cb48dc"
+    }
+   }
+  },
+  {
+   "id": "co_02",
+   "thema": "council",
+   "fr": "naught … other than",
+   "de": "nichts … außer",
+   "register": "tu",
+   "anker": "naught",
+   "notiz": "naught = nothing (archaisch; daher « naughty »). « other than » = außer. Gespiegeltes Paar « with hope or without it » als Schluss. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_02.mp3?v=ab28f070",
+   "satz": {
+    "fr": "There is naught that you can do, other than to resist, with hope or without it.",
+    "de": "Es gibt nichts, was ihr tun könnt, außer zu widerstehen, mit Hoffnung oder ohne sie.",
+    "luecke": "naught that you can do, other than",
+    "audio": "audio/en-de/saetze/co_02.mp3?v=a48807ab"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "There is nothing you can do except resist, with or without hope.",
+     "audio": "audio/en-de/saetze/co_02_pc.mp3?v=57101913"
+    },
+    "fp": {
+     "fr": "There's nothing you can do but hold out, hope or no hope.",
+     "audio": "audio/en-de/saetze/co_02_fp.mp3?v=bc2bf129"
+    }
+   }
+  },
+  {
+   "id": "co_03",
+   "thema": "council",
+   "fr": "That is the doom that we must deem.",
+   "de": "Das ist das Urteil, das wir fällen müssen.",
+   "register": "tu",
+   "anker": "That",
+   "notiz": "doom = Urteil, Spruch, Schicksal (nicht nur Untergang; vgl. Doomsday = Tag des Gerichts). deem = erachten, hier: urteilen. Stabreim doom / deem. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_03.mp3?v=2a83b442",
+   "satz": {
+    "fr": "The Ring! What shall we do with the Ring, the least of rings, the trifle that Sauron fancies? That is the doom that we must deem.",
+    "de": "Der Ring! Was sollen wir mit dem Ring tun, dem geringsten der Ringe, der Kleinigkeit, die Sauron begehrt? Das ist das Urteil, das wir fällen müssen.",
+    "luecke": "That is the doom that we must deem",
+    "audio": "audio/en-de/saetze/co_03.mp3?v=477bd157"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "That is the decision we have to make.",
+     "audio": "audio/en-de/saetze/co_03_pc.mp3?v=91125c48"
+    },
+    "fp": {
+     "fr": "That's the call we've got to make.",
+     "audio": "audio/en-de/saetze/co_03_fp.mp3?v=16dfd334"
+    }
+   }
+  },
+  {
+   "id": "co_04",
+   "thema": "council",
+   "fr": "Called, I say, though",
+   "de": "Gerufen, sage ich, obwohl",
+   "register": "tu",
+   "anker": "Called,",
+   "notiz": "Selbstkorrektur mit « I say »: ein Wort wird aufgegriffen und präzisiert. Sehr brauchbar im Vortrag: « Cheap, I say, though not free. » Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_04.mp3?v=5e6d8204",
+   "satz": {
+    "fr": "That is the purpose for which you are called hither. Called, I say, though I have not called you to me, strangers from distant lands.",
+    "de": "Das ist der Zweck, zu dem ihr hierhergerufen seid. Gerufen, sage ich, obwohl ich euch nicht zu mir gerufen habe, Fremde aus fernen Ländern.",
+    "luecke": "Called, I say, though",
+    "audio": "audio/en-de/saetze/co_04.mp3?v=1ce5f880"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Called, I say, although I did not actually summon you here.",
+     "audio": "audio/en-de/saetze/co_04_pc.mp3?v=150684c2"
+    },
+    "fp": {
+     "fr": "Called, so to speak, even though I never sent for you.",
+     "audio": "audio/en-de/saetze/co_04_fp.mp3?v=4cd431f6"
+    }
+   }
+  },
+  {
+   "id": "co_05",
+   "thema": "council",
+   "fr": "by chance as it may seem. Yet it is not so.",
+   "de": "zufällig, wie es scheinen mag. Doch so ist es nicht.",
+   "register": "tu",
+   "anker": "by",
+   "notiz": "« as it may seem » = wie es scheinen mag; « Yet it is not so » = knapper Widerspruch im eigenen Satz. « in the nick of time » = im letzten Augenblick (heute noch gebräuchlich). Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_05.mp3?v=0a01eb8e",
+   "satz": {
+    "fr": "You have come and are here met, in this very nick of time, by chance as it may seem. Yet it is not so.",
+    "de": "Ihr seid gekommen und hier versammelt, in genau diesem entscheidenden Augenblick, zufällig, wie es scheinen mag. Doch so ist es nicht.",
+    "luecke": "by chance as it may seem. Yet it is not so",
+    "audio": "audio/en-de/saetze/co_05.mp3?v=8c12c8c7"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "You have arrived at exactly the right moment, by chance as it might appear. But it is not chance.",
+     "audio": "audio/en-de/saetze/co_05_pc.mp3?v=85613555"
+    },
+    "fp": {
+     "fr": "You've all turned up right on time. Looks like luck. It isn't.",
+     "audio": "audio/en-de/saetze/co_05_fp.mp3?v=adb060a4"
+    }
+   }
+  },
+  {
+   "id": "co_06",
+   "thema": "council",
+   "fr": "so ordered that … and none others",
+   "de": "so gefügt, dass … und keine anderen",
+   "register": "tu",
+   "anker": "so",
+   "notiz": "« so ordered » = so gefügt (von höherer Hand). « find counsel » = Rat finden. Einschub « and none others » verstärkt. « rather » = vielmehr. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_06.mp3?v=94d4bbaa",
+   "satz": {
+    "fr": "Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.",
+    "de": "Glaubt vielmehr, dass es so gefügt ist, dass wir, die hier sitzen, und keine anderen, nun Rat finden müssen für die Gefahr der Welt.",
+    "luecke": "so ordered that we, who sit here, and none others",
+    "audio": "audio/en-de/saetze/co_06.mp3?v=849b6cc2"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Believe instead that it was arranged that we, and no one else, must now find an answer to the danger.",
+     "audio": "audio/en-de/saetze/co_06_pc.mp3?v=3b564013"
+    },
+    "fp": {
+     "fr": "Better to think it was meant to be: it's us, nobody else, who have to sort this out.",
+     "audio": "audio/en-de/saetze/co_06_fp.mp3?v=6894da81"
+    }
+   }
+  },
+  {
+   "id": "co_07",
+   "thema": "council",
+   "fr": "Small wonder it is that",
+   "de": "Kein Wunder ist es, dass",
+   "register": "tu",
+   "anker": "Small",
+   "notiz": "Voranstellung: « Small wonder it is that » statt « It is small wonder that ». Davor noch eine: « Only to the North did these tidings come » (Inversion nach only). Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_07.mp3?v=ba8ffd1a",
+   "satz": {
+    "fr": "Only to the North did these tidings come, and only to a few. Small wonder it is that you have not heard them, Boromir.",
+    "de": "Nur in den Norden kamen diese Nachrichten, und nur zu wenigen. Kein Wunder ist es, dass du nichts davon gehört hast, Boromir.",
+    "luecke": "Small wonder it is that",
+    "audio": "audio/en-de/saetze/co_07.mp3?v=c9aeca56"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "It is no wonder that you have not heard of them.",
+     "audio": "audio/en-de/saetze/co_07_pc.mp3?v=8fbc37c8"
+    },
+    "fp": {
+     "fr": "No wonder you've never heard of it.",
+     "audio": "audio/en-de/saetze/co_07_fp.mp3?v=3d9d6997"
+    }
+   }
+  },
+  {
+   "id": "co_08",
+   "thema": "council",
+   "fr": "Never again shall there be",
+   "de": "Nie wieder wird es geben",
+   "register": "tu",
+   "anker": "Never",
+   "notiz": "Inversion nach « never again »: shall there be. estranged = entfremdet; kindred = Geschlecht, Sippe; league = Bund. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_08.mp3?v=d37faf71",
+   "satz": {
+    "fr": "Never again shall there be any such league of Elves and Men; for Men multiply and the Firstborn decrease, and the two kindreds are estranged.",
+    "de": "Nie wieder wird es einen solchen Bund von Elben und Menschen geben; denn die Menschen mehren sich, und die Erstgeborenen nehmen ab, und die beiden Geschlechter sind einander entfremdet.",
+    "luecke": "Never again shall there be",
+    "audio": "audio/en-de/saetze/co_08.mp3?v=7f85cf6b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "There will never again be such an alliance of Elves and Men.",
+     "audio": "audio/en-de/saetze/co_08_pc.mp3?v=9ee29a2c"
+    },
+    "fp": {
+     "fr": "There'll never be a team-up like that again.",
+     "audio": "audio/en-de/saetze/co_08_fp.mp3?v=02605d7e"
+    }
+   }
+  },
+  {
+   "id": "co_09",
+   "thema": "council",
+   "fr": "You speak for me also.",
+   "de": "Du sprichst auch für mich.",
+   "register": "tu",
+   "anker": "You",
+   "notiz": "Knappe Zustimmung im Rat; « also » nachgestellt (heute meist « too »). Sprecher: Galdor.",
+   "audio": "audio/en-de/wendungen/co_09.mp3?v=9e0321ec",
+   "satz": {
+    "fr": "Galdor of the Havens, who sat near by, overheard him. 'You speak for me also,' he cried.",
+    "de": "Galdor von den Häfen, der nahebei saß, hörte ihn. „Du sprichst auch für mich“, rief er.",
+    "luecke": "You speak for me also",
+    "audio": "audio/en-de/saetze/co_09.mp3?v=57111b74"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "I was going to say the same.",
+     "audio": "audio/en-de/saetze/co_09_pc.mp3?v=f20b22c6"
+    },
+    "fp": {
+     "fr": "Same here.",
+     "audio": "audio/en-de/saetze/co_09_fp.mp3?v=d96763f6"
+    }
+   }
+  },
+  {
+   "id": "co_10",
+   "thema": "council",
+   "fr": "unlikely though that may seem",
+   "de": "so unwahrscheinlich das scheinen mag",
+   "register": "tu",
+   "anker": "unlikely",
+   "notiz": "Konzessive Inversion: « unlikely though that may seem » = « though that may seem unlikely ». Auch: « strange though it is », « hard as it may be ». trove = Fund (treasure trove). Sprecher: Galdor.",
+   "audio": "audio/en-de/wendungen/co_10.mp3?v=52abcaa2",
+   "satz": {
+    "fr": "The Wise may have good reason to believe that the halfling's trove is indeed the Great Ring of long debate, unlikely though that may seem to those who know less.",
+    "de": "Die Weisen mögen guten Grund haben zu glauben, dass der Fund des Halblings wahrhaftig der Große Ring ist, über den so lange gestritten wurde, so unwahrscheinlich das denen scheinen mag, die weniger wissen.",
+    "luecke": "unlikely though that may seem",
+    "audio": "audio/en-de/saetze/co_10.mp3?v=216956b3"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "The Wise may well have reason to believe this is the Great Ring, however unlikely that seems to the rest of us.",
+     "audio": "audio/en-de/saetze/co_10_pc.mp3?v=dcf4c4d2"
+    },
+    "fp": {
+     "fr": "The experts probably know it's the real thing, even if it sounds unlikely to us.",
+     "audio": "audio/en-de/saetze/co_10_fp.mp3?v=fff8debb"
+    }
+   }
+  },
+  {
+   "id": "co_11",
+   "thema": "council",
+   "fr": "But may we not hear the proofs?",
+   "de": "Doch dürfen wir die Beweise nicht hören?",
+   "register": "tu",
+   "anker": "But",
+   "notiz": "Höfliche Forderung als Frage mit « may we not ». proofs im Plural = Beweisstücke. « What of X? » = Was ist mit X? Sprecher: Galdor.",
+   "audio": "audio/en-de/wendungen/co_11.mp3?v=f9cbfdb4",
+   "satz": {
+    "fr": "But may we not hear the proofs? And I would ask this also. What of Saruman?",
+    "de": "Doch dürfen wir die Beweise nicht hören? Und dies würde ich auch fragen: Was ist mit Saruman?",
+    "luecke": "But may we not hear the proofs",
+    "audio": "audio/en-de/saetze/co_11.mp3?v=fb7c58d2"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "But could we not hear the evidence?",
+     "audio": "audio/en-de/saetze/co_11_pc.mp3?v=45d62585"
+    },
+    "fp": {
+     "fr": "But can't we see the proof?",
+     "audio": "audio/en-de/saetze/co_11_fp.mp3?v=08e185a7"
+    }
+   }
+  },
+  {
+   "id": "co_12",
+   "thema": "council",
+   "fr": "to postpone the day of evil",
+   "de": "den Tag des Übels aufschieben",
+   "register": "tu",
+   "anker": "to",
+   "notiz": "« the day of evil » / « the evil day » = der Tag, an dem es ernst wird. postpone = aufschieben; « put off » die Alltagsform. Sprecher: Glorfindel.",
+   "audio": "audio/en-de/wendungen/co_12.mp3?v=3b7b5b61",
+   "satz": {
+    "fr": "But in any case, to send the Ring to him would only postpone the day of evil.",
+    "de": "Doch wie auch immer: Den Ring zu ihm zu schicken, würde den Tag des Übels nur aufschieben.",
+    "luecke": "postpone the day of evil",
+    "audio": "audio/en-de/saetze/co_12.mp3?v=03a14bfc"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "In any case, sending the Ring to him would only delay the evil day.",
+     "audio": "audio/en-de/saetze/co_12_pc.mp3?v=51637a88"
+    },
+    "fp": {
+     "fr": "Anyway, sending him the Ring just puts the problem off.",
+     "audio": "audio/en-de/saetze/co_12_fp.mp3?v=bff963bd"
+    }
+   }
+  },
+  {
+   "id": "co_13",
+   "thema": "council",
+   "fr": "soon or late",
+   "de": "früher oder später",
+   "register": "tu",
+   "anker": "soon",
+   "notiz": "« soon or late » = alte Form von « sooner or later ». « bend his power towards » = seine Macht darauf richten. Sprecher: Glorfindel.",
+   "audio": "audio/en-de/wendungen/co_13.mp3?v=cc5a1331",
+   "satz": {
+    "fr": "And even if we could, soon or late the Lord of the Rings would learn of its hiding place and would bend all his power towards it.",
+    "de": "Und selbst wenn wir es könnten, früher oder später würde der Herr der Ringe von seinem Versteck erfahren und seine ganze Macht darauf richten.",
+    "luecke": "soon or late",
+    "audio": "audio/en-de/saetze/co_13.mp3?v=c2ca4054"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Even if we could, sooner or later the Enemy would find out where it is and turn all his power on it.",
+     "audio": "audio/en-de/saetze/co_13_pc.mp3?v=b1126ce8"
+    },
+    "fp": {
+     "fr": "Even if we managed it, he'd find out eventually and come for it with everything he's got.",
+     "audio": "audio/en-de/saetze/co_13_fp.mp3?v=b9970233"
+    }
+   }
+  },
+  {
+   "id": "co_14",
+   "thema": "council",
+   "fr": "Yet oft in lies truth is hidden",
+   "de": "Doch oft ist in Lügen Wahrheit verborgen",
+   "register": "tu",
+   "anker": "Yet",
+   "notiz": "oft = often (archaisch, poetisch). Objekt-Voranstellung « in lies truth is hidden ». Sprecher: Glorfindel.",
+   "audio": "audio/en-de/wendungen/co_14.mp3?v=7f21e7ea",
+   "satz": {
+    "fr": "Yet oft in lies truth is hidden: in the Sea it would be safe.",
+    "de": "Doch oft ist in Lügen Wahrheit verborgen: Im Meer wäre er sicher.",
+    "luecke": "oft in lies truth is hidden",
+    "audio": "audio/en-de/saetze/co_14.mp3?v=670c7642"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Yet there is often truth hidden in lies: in the Sea it would be safe.",
+     "audio": "audio/en-de/saetze/co_14_pc.mp3?v=14f7dffe"
+    },
+    "fp": {
+     "fr": "Still, there's often a bit of truth in a lie. It'd be safe in the sea.",
+     "audio": "audio/en-de/saetze/co_14_fp.mp3?v=ba73fb5b"
+    }
+   }
+  },
+  {
+   "id": "co_15",
+   "thema": "council",
+   "fr": "fraught with gravest peril",
+   "de": "mit schwerster Gefahr behaftet",
+   "register": "tu",
+   "anker": "fraught",
+   "notiz": "« fraught with » = behaftet mit, voller (heute auch allein: a fraught situation = angespannt). Konjunktiv « if … be thought ». Superlativ ohne Artikel « gravest peril ». Sprecher: Galdor.",
+   "audio": "audio/en-de/wendungen/co_15.mp3?v=9b40a942",
+   "satz": {
+    "fr": "If the return to Iarwain be thought too dangerous, then flight to the Sea is now fraught with gravest peril.",
+    "de": "Wenn die Rückkehr zu Iarwain für zu gefährlich gehalten wird, dann ist die Flucht zum Meer jetzt mit schwerster Gefahr behaftet.",
+    "luecke": "fraught with gravest peril",
+    "audio": "audio/en-de/saetze/co_15.mp3?v=2acc5ad1"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "If going back to Iarwain is thought too dangerous, then fleeing to the Sea is now extremely perilous.",
+     "audio": "audio/en-de/saetze/co_15_pc.mp3?v=bf93191d"
+    },
+    "fp": {
+     "fr": "If going back to Bombadil is too risky, then running for the coast is even worse.",
+     "audio": "audio/en-de/saetze/co_15_fp.mp3?v=cd6032ff"
+    }
+   }
+  },
+  {
+   "id": "co_16",
+   "thema": "council",
+   "fr": "Who will read this riddle for us?",
+   "de": "Wer wird uns dieses Rätsel deuten?",
+   "register": "tu",
+   "anker": "Who",
+   "notiz": "« read a riddle » = ein Rätsel deuten (altes read = deuten, raten; verwandt mit dt. Rat, Rede). Frage als Einladung an den Rat. Sprecher: Erestor.",
+   "audio": "audio/en-de/wendungen/co_16.mp3?v=2ee7d6cc",
+   "satz": {
+    "fr": "But both are beyond our power. Who will read this riddle for us?",
+    "de": "Doch beides übersteigt unsere Macht. Wer wird uns dieses Rätsel deuten?",
+    "luecke": "read this riddle",
+    "audio": "audio/en-de/saetze/co_16.mp3?v=94a57d3d"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Who can solve this riddle for us?",
+     "audio": "audio/en-de/saetze/co_16_pc.mp3?v=6a9f35ff"
+    },
+    "fp": {
+     "fr": "So who's going to work this one out?",
+     "audio": "audio/en-de/saetze/co_16_fp.mp3?v=16b0f611"
+    }
+   }
+  },
+  {
+   "id": "co_17",
+   "thema": "council",
+   "fr": "We were all at fault",
+   "de": "Wir alle trugen Schuld",
+   "register": "tu",
+   "anker": "We",
+   "notiz": "« at fault » = schuld (auch heute: the driver at fault). « but for » = ohne, wenn nicht … gewesen wäre. « upon us » = über uns. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_17.mp3?v=951f0e7b",
+   "satz": {
+    "fr": "We were all at fault, and but for your vigilance the Darkness, maybe, would already be upon us.",
+    "de": "Wir alle trugen Schuld, und ohne deine Wachsamkeit wäre die Finsternis vielleicht schon über uns.",
+    "luecke": "We were all at fault",
+    "audio": "audio/en-de/saetze/co_17.mp3?v=c41bdc4d"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "We were all to blame, and without your vigilance the Darkness might already be here.",
+     "audio": "audio/en-de/saetze/co_17_pc.mp3?v=e44a9921"
+    },
+    "fp": {
+     "fr": "We all got it wrong, and if you hadn't kept watch, we'd be done for by now.",
+     "audio": "audio/en-de/saetze/co_17_fp.mp3?v=dea49502"
+    }
+   }
+  },
+  {
+   "id": "co_18",
+   "thema": "council",
+   "fr": "Therefore it must be shunned.",
+   "de": "Darum muss er gemieden werden.",
+   "register": "tu",
+   "anker": "Therefore",
+   "notiz": "shun = meiden (heute: to shun publicity). Drei kurze Sätze als Schlusskette; Passiv ohne Täter. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_18.mp3?v=36fc9d49",
+   "satz": {
+    "fr": "The westward road seems easiest. Therefore it must be shunned. It will be watched.",
+    "de": "Der Weg nach Westen scheint der leichteste. Darum muss er gemieden werden. Er wird bewacht sein.",
+    "luecke": "Therefore it must be shunned",
+    "audio": "audio/en-de/saetze/co_18.mp3?v=cb95faf2"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "The road west looks easiest. That is precisely why it must be avoided.",
+     "audio": "audio/en-de/saetze/co_18_pc.mp3?v=ecea458a"
+    },
+    "fp": {
+     "fr": "Going west looks easy. That's exactly why we won't.",
+     "audio": "audio/en-de/saetze/co_18_fp.mp3?v=a3edcb8a"
+    }
+   }
+  },
+  {
+   "id": "co_19",
+   "thema": "council",
+   "fr": "There lies our hope, if hope it be.",
+   "de": "Dort liegt unsere Hoffnung, wenn es denn Hoffnung ist.",
+   "register": "tu",
+   "anker": "There",
+   "notiz": "« if hope it be » = Konjunktiv mit vorangestelltem Nomen. « There lies » Inversion. « a road unforeseen » nachgestelltes Partizip. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_19.mp3?v=aedf736f",
+   "satz": {
+    "fr": "Now at this last we must take a hard road, a road unforeseen. There lies our hope, if hope it be.",
+    "de": "Nun, zu guter Letzt, müssen wir einen harten Weg nehmen, einen unvorhergesehenen Weg. Dort liegt unsere Hoffnung, wenn es denn Hoffnung ist.",
+    "luecke": "There lies our hope, if hope it be",
+    "audio": "audio/en-de/saetze/co_19.mp3?v=56d2552a"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "That is where our hope lies, if it can be called hope.",
+     "audio": "audio/en-de/saetze/co_19_pc.mp3?v=dc7bca51"
+    },
+    "fp": {
+     "fr": "That's our best shot, if you can call it that.",
+     "audio": "audio/en-de/saetze/co_19_fp.mp3?v=45549b73"
+    }
+   }
+  },
+  {
+   "id": "co_20",
+   "thema": "council",
+   "fr": "That we now know too well.",
+   "de": "Das wissen wir jetzt nur zu gut.",
+   "register": "tu",
+   "anker": "That",
+   "notiz": "Objekt-Voranstellung « That we now know ». « too well » = nur zu gut. « Alas, no » = sanfte Absage. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_20.mp3?v=6776b617",
+   "satz": {
+    "fr": "Alas, no. We cannot use the Ruling Ring. That we now know too well.",
+    "de": "Ach, nein. Wir können den Herrscherring nicht gebrauchen. Das wissen wir jetzt nur zu gut.",
+    "luecke": "That we now know too well",
+    "audio": "audio/en-de/saetze/co_20.mp3?v=198c44a5"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "We cannot use the Ring. We know that all too well now.",
+     "audio": "audio/en-de/saetze/co_20_pc.mp3?v=8aaccade"
+    },
+    "fp": {
+     "fr": "We can't use the Ring. We know that now, more's the pity.",
+     "audio": "audio/en-de/saetze/co_20_fp.mp3?v=6418f635"
+    }
+   }
+  },
+  {
+   "id": "co_21",
+   "thema": "council",
+   "fr": "Of folly I would say, if … did not forbid me.",
+   "de": "Der Torheit, würde ich sagen, wenn … es mir nicht verböte.",
+   "register": "tu",
+   "anker": "Of",
+   "notiz": "Voranstellung « Of folly I would say ». Höflicher Widerspruch: die Kritik wird ausgesprochen und im selben Satz zurückgenommen. Gandalfs Antwort: « Despair, or folly? » Sprecher: Erestor.",
+   "audio": "audio/en-de/wendungen/co_21.mp3?v=cb680c0a",
+   "satz": {
+    "fr": "That is the path of despair. Of folly I would say, if the long wisdom of Elrond did not forbid me.",
+    "de": "Das ist der Weg der Verzweiflung. Der Torheit, würde ich sagen, wenn die lange Weisheit Elronds es mir nicht verböte.",
+    "luecke": "Of folly I would say, if the long wisdom of Elrond did not forbid me",
+    "audio": "audio/en-de/saetze/co_21.mp3?v=09c234b7"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "That is the path of despair. Of folly, I would say, if Elrond's wisdom did not stop me.",
+     "audio": "audio/en-de/saetze/co_21_pc.mp3?v=7b7f42be"
+    },
+    "fp": {
+     "fr": "That's a counsel of despair. Of madness, I'd say, if Elrond weren't so wise.",
+     "audio": "audio/en-de/saetze/co_21_fp.mp3?v=9250ffff"
+    }
+   }
+  },
+  {
+   "id": "co_22",
+   "thema": "council",
+   "fr": "Then be comforted.",
+   "de": "Dann sei getrost.",
+   "register": "tu",
+   "anker": "Then",
+   "notiz": "Passiv-Imperativ « be comforted ». « you know not » = Verneinung ohne do (archaisch). « For » satzeinleitend = denn. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_22.mp3?v=fcf0b824",
+   "satz": {
+    "fr": "Then be comforted. For there are other powers and realms that you know not, and they are hidden from you.",
+    "de": "Dann sei getrost. Denn es gibt andere Mächte und Reiche, die du nicht kennst, und sie sind vor dir verborgen.",
+    "luecke": "Then be comforted",
+    "audio": "audio/en-de/saetze/co_22.mp3?v=4f6e6d89"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Then take comfort. There are other powers and realms you do not know of.",
+     "audio": "audio/en-de/saetze/co_22_pc.mp3?v=9134ab35"
+    },
+    "fp": {
+     "fr": "Then don't worry. There's more out there than you know.",
+     "audio": "audio/en-de/saetze/co_22_fp.mp3?v=703ba6d8"
+    }
+   }
+  },
+  {
+   "id": "co_23",
+   "thema": "council",
+   "fr": "If I understand aright",
+   "de": "Wenn ich recht verstehe",
+   "register": "tu",
+   "anker": "If",
+   "notiz": "aright = richtig, recht (archaisch; heute noch: to set things aright). « appointed for you » = dir bestimmt. Schärfung am Ende: « no one will ». Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_23.mp3?v=4296e9aa",
+   "satz": {
+    "fr": "If I understand aright all that I have heard, I think that this task is appointed for you, Frodo; and that if you do not find a way, no one will.",
+    "de": "Wenn ich alles, was ich gehört habe, recht verstehe, so glaube ich, dass diese Aufgabe dir bestimmt ist, Frodo; und dass, wenn du keinen Weg findest, niemand ihn finden wird.",
+    "luecke": "If I understand aright",
+    "audio": "audio/en-de/saetze/co_23.mp3?v=32fbc289"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "If I have understood all this correctly, I think this task is meant for you, Frodo.",
+     "audio": "audio/en-de/saetze/co_23_pc.mp3?v=959206f9"
+    },
+    "fp": {
+     "fr": "If I've got this right, this job's yours, Frodo. And if you can't do it, nobody can.",
+     "audio": "audio/en-de/saetze/co_23_fp.mp3?v=75a72c69"
+    }
+   }
+  },
+  {
+   "id": "co_24",
+   "thema": "council",
+   "fr": "small hands do them because they must",
+   "de": "kleine Hände tun sie, weil sie müssen",
+   "register": "tu",
+   "anker": "small",
+   "notiz": "Spruchweisheit mit Kontrast small / great. « such is oft the course of » = so ist oft der Lauf. Der berühmteste Satz des Kapitels. Sprecher: Elrond.",
+   "audio": "audio/en-de/wendungen/co_24.mp3?v=251f8a2d",
+   "satz": {
+    "fr": "Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.",
+    "de": "Doch so ist oft der Lauf der Taten, die die Räder der Welt bewegen: Kleine Hände tun sie, weil sie müssen, während die Augen der Großen anderswo sind.",
+    "luecke": "small hands do them because they must",
+    "audio": "audio/en-de/saetze/co_24.mp3?v=0ea49386"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "That is often how the deeds that move the world are done: by small hands, because they must, while the great are looking elsewhere.",
+     "audio": "audio/en-de/saetze/co_24_pc.mp3?v=18632363"
+    },
+    "fp": {
+     "fr": "That's usually how big things get done: ordinary people do them because they have to, while the important ones aren't looking.",
+     "audio": "audio/en-de/saetze/co_24_fp.mp3?v=e578ed1a"
+    }
+   }
+  }
+ ],
+ "dialoge": [
+  {
+   "id": "d1",
+   "titel": "The evening before",
+   "ort": "A porch above the Bruinen",
+   "zeilen": [
+    {
+     "id": "d1_01",
+     "rolle": "A",
+     "fr": "Well met, Ninuivor. Late is the hour, and yet you are not abed.",
+     "de": "Sei gegrüßt, Ninuivor. Spät ist die Stunde, und doch bist du nicht zu Bett.",
+     "audio": "audio/en-de/dialoge/d1_01.mp3?v=44d3e24f"
+    },
+    {
+     "id": "d1_02",
+     "rolle": "B",
+     "fr": "Nor you, Barangollach. The house is full of strangers tonight, and strangers do not sleep easily under Elrond's roof.",
+     "de": "Du auch nicht, Barangollach. Das Haus ist heute Nacht voller Fremder, und Fremde schlafen nicht leicht unter Elronds Dach.",
+     "audio": "audio/en-de/dialoge/d1_02.mp3?v=566da0d7"
+    },
+    {
+     "id": "d1_03",
+     "rolle": "A",
+     "fr": "A man of the South came in the grey morning. He seeks for counsel, Elrond says, and carries a horn as if it were his name.",
+     "de": "Ein Mann aus dem Süden kam im grauen Morgen. Er sucht Rat, sagt Elrond, und trägt ein Horn, als wäre es sein Name.",
+     "audio": "audio/en-de/dialoge/d1_03.mp3?v=da44782e"
+    },
+    {
+     "id": "d1_04",
+     "rolle": "B",
+     "fr": "I saw him. Proud and stern of glance, and stained with long travel. Small wonder it is that he looks at us as at a dream.",
+     "de": "Ich habe ihn gesehen. Stolz und streng im Blick, und von langer Reise gezeichnet. Kein Wunder ist es, dass er uns ansieht wie einen Traum.",
+     "audio": "audio/en-de/dialoge/d1_04.mp3?v=e446d0c3"
+    },
+    {
+     "id": "d1_05",
+     "rolle": "A",
+     "fr": "And Glorfindel rode in three days ago with the halfling across his saddle, and the Nine behind him at the Ford.",
+     "de": "Und Glorfindel ritt vor drei Tagen ein, den Halbling quer über dem Sattel, und die Neun hinter ihm an der Furt.",
+     "audio": "audio/en-de/dialoge/d1_05.mp3?v=98ae01ce"
+    },
+    {
+     "id": "d1_06",
+     "rolle": "B",
+     "fr": "Of that I will say nothing until the Council has said it. But I deem the morning will be long.",
+     "de": "Davon sage ich nichts, bis der Rat es gesagt hat. Doch ich schätze, der Morgen wird lang.",
+     "audio": "audio/en-de/dialoge/d1_06.mp3?v=41088b40"
+    },
+    {
+     "id": "d1_07",
+     "rolle": "A",
+     "fr": "Longer than you think. Elrond means to tell the Tale of the Ring from the beginning, even to this present.",
+     "de": "Länger, als du denkst. Elrond will die Geschichte des Ringes von Anfang an erzählen, bis in diese Gegenwart.",
+     "audio": "audio/en-de/dialoge/d1_07.mp3?v=b690a4ae"
+    },
+    {
+     "id": "d1_08",
+     "rolle": "B",
+     "fr": "Then we shall hear of Eregion again, and of Celebrimbor, and of things we would rather had stayed forgotten.",
+     "de": "Dann werden wir wieder von Eregion hören, und von Celebrimbor, und von Dingen, die lieber vergessen geblieben wären.",
+     "audio": "audio/en-de/dialoge/d1_08.mp3?v=47c8abb7"
+    },
+    {
+     "id": "d1_09",
+     "rolle": "A",
+     "fr": "Would you rather not hear them?",
+     "de": "Hörst du sie lieber nicht?",
+     "audio": "audio/en-de/dialoge/d1_09.mp3?v=f5865c77"
+    },
+    {
+     "id": "d1_10",
+     "rolle": "B",
+     "fr": "Nay. I would rather hear them in Elrond's voice than learn them from the Enemy. Go to bed, old friend. The bell rings early.",
+     "de": "Nein. Lieber höre ich sie in Elronds Stimme, als dass der Feind sie mich lehrt. Geh zu Bett, alter Freund. Die Glocke läutet früh.",
+     "audio": "audio/en-de/dialoge/d1_10.mp3?v=81045b4a"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "titel": "After the Council",
+   "ort": "The terrace at dusk",
+   "zeilen": [
+    {
+     "id": "d2_01",
+     "rolle": "A",
+     "fr": "So it is decided. The halfling takes the Ring to the Fire, and he does not know the way.",
+     "de": "So ist es entschieden. Der Halbling trägt den Ring zum Feuer, und er kennt den Weg nicht.",
+     "audio": "audio/en-de/dialoge/d2_01.mp3?v=95bbc501"
+    },
+    {
+     "id": "d2_02",
+     "rolle": "B",
+     "fr": "Nor does anyone. That we now know too well. Yet Elrond called his choice right, and I have not heard him call a choice right in a thousand years.",
+     "de": "Niemand kennt ihn. Das wissen wir jetzt nur zu gut. Doch Elrond nannte seine Wahl richtig, und ich habe ihn seit tausend Jahren keine Wahl richtig nennen hören.",
+     "audio": "audio/en-de/dialoge/d2_02.mp3?v=89b6bc78"
+    },
+    {
+     "id": "d2_03",
+     "rolle": "A",
+     "fr": "You speak for me also. But Gollum has escaped, and Thranduil's folk let him climb trees.",
+     "de": "Du sprichst auch für mich. Doch Gollum ist entkommen, und Thranduils Leute ließen ihn auf Bäume klettern.",
+     "audio": "audio/en-de/dialoge/d2_03.mp3?v=1801514f"
+    },
+    {
+     "id": "d2_04",
+     "rolle": "B",
+     "fr": "Over-kindliness, Legolas said. There are worse faults in these days. I would not have Mirkwood grow hard-hearted to be safe.",
+     "de": "Zu viel Güte, sagte Legolas. Es gibt schlimmere Fehler in diesen Tagen. Ich möchte nicht, dass der Düsterwald hartherzig wird, um sicher zu sein.",
+     "audio": "audio/en-de/dialoge/d2_04.mp3?v=922114b0"
+    },
+    {
+     "id": "d2_05",
+     "rolle": "A",
+     "fr": "Erestor called it the path of despair.",
+     "de": "Erestor nannte es den Weg der Verzweiflung.",
+     "audio": "audio/en-de/dialoge/d2_05.mp3?v=fb7e331d"
+    },
+    {
+     "id": "d2_06",
+     "rolle": "B",
+     "fr": "Of folly, he would have said, had Elrond not been sitting there. And Mithrandir answered him well: despair is only for those who see the end beyond all doubt.",
+     "de": "Der Torheit, hätte er gesagt, hätte Elrond nicht dort gesessen. Und Mithrandir antwortete ihm gut: Verzweiflung ist nur für die, die das Ende ohne jeden Zweifel sehen.",
+     "audio": "audio/en-de/dialoge/d2_06.mp3?v=62b8531c"
+    },
+    {
+     "id": "d2_07",
+     "rolle": "A",
+     "fr": "And do you see it?",
+     "de": "Und siehst du es?",
+     "audio": "audio/en-de/dialoge/d2_07.mp3?v=ad4b95ac"
+    },
+    {
+     "id": "d2_08",
+     "rolle": "B",
+     "fr": "I saw Gondolin fall, Barangollach, and I did not see that coming either. Nay, I see nothing. I only deem that the westward road would have been watched, and that this one will not be.",
+     "de": "Ich sah Gondolin fallen, Barangollach, und auch das habe ich nicht kommen sehen. Nein, ich sehe nichts. Ich schätze nur, dass der Weg nach Westen bewacht gewesen wäre, und dass dieser es nicht sein wird.",
+     "audio": "audio/en-de/dialoge/d2_08.mp3?v=2648b589"
+    },
+    {
+     "id": "d2_09",
+     "rolle": "A",
+     "fr": "Then be comforted, as Elrond says.",
+     "de": "Dann sei getrost, wie Elrond sagt.",
+     "audio": "audio/en-de/dialoge/d2_09.mp3?v=d403b0f1"
+    },
+    {
+     "id": "d2_10",
+     "rolle": "B",
+     "fr": "I am comforted. Small hands, he said. Ours were never small, and look what we did with them. Come, the stars are out, and they at least are unchanged.",
+     "de": "Ich bin getrost. Kleine Hände, sagte er. Unsere waren nie klein, und sieh, was wir damit getan haben. Komm, die Sterne sind heraus, und sie wenigstens sind unverändert.",
+     "audio": "audio/en-de/dialoge/d2_10.mp3?v=b4ebd8de"
+    }
+   ]
+  }
+ ],
  "rollen": {
-  "A": "Alex",
-  "B": "Simon"
+  "A": "Barangollach",
+  "B": "Ninuivor"
  },
  "dialoge_titel": [
-  "Dialogues with Simon",
-  "Dialoge mit Simon"
+  "Dialogues with Ninuivor",
+  "Dialoge mit Ninuivor"
  ],
  "aussprache": {
   "id": "",
@@ -365,7 +1178,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Bright is that word!",
     "de": "Hell leuchtet dieses Wort!",
-    "audio": "audio/en-de/lob/lob_bright_word.mp3?v=fb73af9e",
+    "audio": "audio/en-de/lob/lob_bright_word.mp3?v=9c34dbb5",
     "gruppe": [
      "hell"
     ]
@@ -373,7 +1186,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Keen is your tongue!",
     "de": "Scharf ist deine Zunge!",
-    "audio": "audio/en-de/lob/lob_keen_tongue.mp3?v=40de88df",
+    "audio": "audio/en-de/lob/lob_keen_tongue.mp3?v=8118105f",
     "gruppe": [
      "scharf"
     ]
@@ -381,7 +1194,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Wise are your words.",
     "de": "Weise sind deine Worte.",
-    "audio": "audio/en-de/lob/lob_wise_words.mp3?v=9a6ce7e7",
+    "audio": "audio/en-de/lob/lob_wise_words.mp3?v=2668b059",
     "gruppe": [
      "weise"
     ]
@@ -389,7 +1202,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Well-wrought is that phrase.",
     "de": "Gut geschmiedet ist diese Wendung.",
-    "audio": "audio/en-de/lob/lob_well_wrought.mp3?v=402b7a32",
+    "audio": "audio/en-de/lob/lob_well_wrought.mp3?v=742264fd",
     "gruppe": [
      "geschmiedet"
     ]
@@ -397,7 +1210,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Deep runs your lore.",
     "de": "Tief reicht dein Wissen.",
-    "audio": "audio/en-de/lob/lob_deep_lore.mp3?v=cedfd9f8",
+    "audio": "audio/en-de/lob/lob_deep_lore.mp3?v=2d3fbd40",
     "gruppe": [
      "wissen"
     ]
@@ -405,7 +1218,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Swift was that answer.",
     "de": "Rasch kam diese Antwort.",
-    "audio": "audio/en-de/lob/lob_swift_answer.mp3?v=ef1978ff",
+    "audio": "audio/en-de/lob/lob_swift_answer.mp3?v=73217339",
     "gruppe": [
      "schnell"
     ]
@@ -413,7 +1226,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Unerring is your ear.",
     "de": "Unfehlbar ist dein Ohr.",
-    "audio": "audio/en-de/lob/lob_unerring_ear.mp3?v=f8ca4da4",
+    "audio": "audio/en-de/lob/lob_unerring_ear.mp3?v=68b3e2c1",
     "gruppe": [
      "ohr"
     ]
@@ -421,7 +1234,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Sure is your hand upon the word.",
     "de": "Sicher ist deine Hand am Wort.",
-    "audio": "audio/en-de/lob/lob_sure_hand.mp3?v=43f4241f",
+    "audio": "audio/en-de/lob/lob_sure_hand.mp3?v=ee64bad9",
     "gruppe": [
      "sicher"
     ]
@@ -429,7 +1242,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Apt it is, and seemly.",
     "de": "Treffend ist es, und geziemend.",
-    "audio": "audio/en-de/lob/lob_apt_seemly.mp3?v=961f4f6c",
+    "audio": "audio/en-de/lob/lob_apt_seemly.mp3?v=c2e7ff67",
     "gruppe": [
      "passend"
     ]
@@ -437,7 +1250,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fair-spoken, and true.",
     "de": "Schön gesprochen, und wahr.",
-    "audio": "audio/en-de/lob/lob_fair_spoken.mp3?v=77b423eb",
+    "audio": "audio/en-de/lob/lob_fair_spoken.mp3?v=226853e7",
     "gruppe": [
      "schoen"
     ]
@@ -445,7 +1258,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Thus would the Eldar say it.",
     "de": "So würden es die Eldar sagen.",
-    "audio": "audio/en-de/lob/lob_thus_eldar.mp3?v=b2ce15b5",
+    "audio": "audio/en-de/lob/lob_thus_eldar.mp3?v=781c2047",
     "gruppe": [
      "eldar"
     ]
@@ -453,7 +1266,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fitting for the halls of Menegroth.",
     "de": "Würdig der Hallen von Menegroth.",
-    "audio": "audio/en-de/lob/lob_menegroth.mp3?v=a6882915",
+    "audio": "audio/en-de/lob/lob_menegroth.mp3?v=8366324a",
     "gruppe": [
      "menegroth"
     ]
@@ -461,7 +1274,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Clear as Sirion is your speech.",
     "de": "Klar wie der Sirion ist deine Rede.",
-    "audio": "audio/en-de/lob/lob_sirion.mp3?v=22b5b877",
+    "audio": "audio/en-de/lob/lob_sirion.mp3?v=27a565e4",
     "gruppe": [
      "klar"
     ]
@@ -469,7 +1282,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fëanor himself wrought no finer.",
     "de": "Fëanor selbst schmiedete nichts Feineres.",
-    "audio": "audio/en-de/lob/lob_feanor.mp3?v=09bdf52d",
+    "audio": "audio/en-de/lob/lob_feanor.mp3?v=4c736116",
     "gruppe": [
      "feanor"
     ]
@@ -477,7 +1290,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Rúmil would have set it in letters.",
     "de": "Rúmil hätte es in Lettern gesetzt.",
-    "audio": "audio/en-de/lob/lob_rumil.mp3?v=7019a27a",
+    "audio": "audio/en-de/lob/lob_rumil.mp3?v=5e09f5aa",
     "gruppe": [
      "rumil"
     ]
@@ -485,7 +1298,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Not in vain were you taught in Tirion.",
     "de": "Nicht umsonst wurdest du in Tirion gelehrt.",
-    "audio": "audio/en-de/lob/lob_tirion.mp3?v=b3f6f530",
+    "audio": "audio/en-de/lob/lob_tirion.mp3?v=b88b44cc",
     "gruppe": [
      "tirion"
     ]
@@ -493,7 +1306,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Lo! the right word.",
     "de": "Siehe! Das rechte Wort.",
-    "audio": "audio/en-de/lob/lob_lo_right_word.mp3?v=fd926b64",
+    "audio": "audio/en-de/lob/lob_lo_right_word.mp3?v=880c8576",
     "gruppe": [
      "lo"
     ]
@@ -501,7 +1314,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Mighty is that choice!",
     "de": "Mächtig ist diese Wahl!",
-    "audio": "audio/en-de/lob/lob_mighty_choice.mp3?v=2b9d5234",
+    "audio": "audio/en-de/lob/lob_mighty_choice.mp3?v=6236ff71",
     "gruppe": [
      "maechtig"
     ]
@@ -509,7 +1322,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "True to the mark!",
     "de": "Genau ins Ziel!",
-    "audio": "audio/en-de/lob/lob_true_mark.mp3?v=062f0cc3",
+    "audio": "audio/en-de/lob/lob_true_mark.mp3?v=05494a61",
     "gruppe": [
      "treffer"
     ]
@@ -517,7 +1330,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Straight as an arrow of Beleg!",
     "de": "Gerade wie ein Pfeil Belegs!",
-    "audio": "audio/en-de/lob/lob_straight_beleg.mp3?v=87285c42",
+    "audio": "audio/en-de/lob/lob_straight_beleg.mp3?v=2e448a9b",
     "gruppe": [
      "treffer"
     ]
@@ -525,7 +1338,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fair is that word, and fitting.",
     "de": "Schön ist dieses Wort, und passend.",
-    "audio": "audio/en-de/lob/lob_fair_fitting.mp3?v=35f549aa",
+    "audio": "audio/en-de/lob/lob_fair_fitting.mp3?v=f8c6a1e4",
     "gruppe": [
      "schoen"
     ]
@@ -533,7 +1346,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Well chosen!",
     "de": "Gut gewählt!",
-    "audio": "audio/en-de/lob/lob_well_chosen.mp3?v=454ddbb8",
+    "audio": "audio/en-de/lob/lob_well_chosen.mp3?v=5f4defa6",
     "gruppe": [
      "wahl"
     ]
@@ -541,7 +1354,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Keen-eyed, and keen of tongue.",
     "de": "Scharfäugig, und scharf von Zunge.",
-    "audio": "audio/en-de/lob/lob_keen_eye.mp3?v=a51ee45d",
+    "audio": "audio/en-de/lob/lob_keen_eye.mp3?v=e874fff0",
     "gruppe": [
      "scharf"
     ]
@@ -549,7 +1362,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "So it is written.",
     "de": "So steht es geschrieben.",
-    "audio": "audio/en-de/lob/lob_so_written.mp3?v=24839035",
+    "audio": "audio/en-de/lob/lob_so_written.mp3?v=263fa64e",
     "gruppe": [
      "geschrieben"
     ]
@@ -557,7 +1370,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "The loremasters would approve.",
     "de": "Die Lehrmeister würden es billigen.",
-    "audio": "audio/en-de/lob/lob_loremasters_approve.mp3?v=5e6a8d83",
+    "audio": "audio/en-de/lob/lob_loremasters_approve.mp3?v=167c4fa7",
     "gruppe": [
      "lore"
     ]
@@ -565,7 +1378,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even Melian would nod.",
     "de": "Selbst Melian würde nicken.",
-    "audio": "audio/en-de/lob/lob_melian_nod.mp3?v=15eced17",
+    "audio": "audio/en-de/lob/lob_melian_nod.mp3?v=38983496",
     "gruppe": [
      "melian"
     ]
@@ -573,7 +1386,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "That would please Thingol.",
     "de": "Das würde Thingol gefallen.",
-    "audio": "audio/en-de/lob/lob_thingol.mp3?v=409e90f1",
+    "audio": "audio/en-de/lob/lob_thingol.mp3?v=f02481cf",
     "gruppe": [
      "thingol"
     ]
@@ -581,7 +1394,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "A word forged, not found.",
     "de": "Ein Wort, geschmiedet, nicht gefunden.",
-    "audio": "audio/en-de/lob/lob_forged_not_found.mp3?v=273a93d4",
+    "audio": "audio/en-de/lob/lob_forged_not_found.mp3?v=f1e31ba4",
     "gruppe": [
      "geschmiedet"
     ]
@@ -589,7 +1402,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Bright as a Silmaril!",
     "de": "Hell wie ein Silmaril!",
-    "audio": "audio/en-de/lob/lob_bright_silmaril.mp3?v=a10fa996",
+    "audio": "audio/en-de/lob/lob_bright_silmaril.mp3?v=8d0142a7",
     "gruppe": [
      "hell"
     ]
@@ -597,7 +1410,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Noble is your speech.",
     "de": "Edel ist deine Rede.",
-    "audio": "audio/en-de/lob/lob_noble_speech.mp3?v=34c0feb3",
+    "audio": "audio/en-de/lob/lob_noble_speech.mp3?v=afc6658a",
     "gruppe": [
      "edel"
     ]
@@ -605,7 +1418,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Firm is your footing on that word.",
     "de": "Fest ist dein Stand auf diesem Wort.",
-    "audio": "audio/en-de/lob/lob_firm_footing.mp3?v=67ce66fe",
+    "audio": "audio/en-de/lob/lob_firm_footing.mp3?v=9a677632",
     "gruppe": [
      "sicher"
     ]
@@ -613,7 +1426,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Rich is your tongue, and ready.",
     "de": "Reich ist deine Zunge, und bereit.",
-    "audio": "audio/en-de/lob/lob_rich_tongue.mp3?v=b612c6d0",
+    "audio": "audio/en-de/lob/lob_rich_tongue.mp3?v=d4cf5e78",
     "gruppe": [
      "reich"
     ]
@@ -621,7 +1434,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Sharp as a blade of Gondolin!",
     "de": "Scharf wie eine Klinge aus Gondolin!",
-    "audio": "audio/en-de/lob/lob_sharp_blade.mp3?v=e75f045d",
+    "audio": "audio/en-de/lob/lob_sharp_blade.mp3?v=dcdb5a26",
     "gruppe": [
      "scharf"
     ]
@@ -629,7 +1442,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Steady is your voice.",
     "de": "Fest ist deine Stimme.",
-    "audio": "audio/en-de/lob/lob_steady_voice.mp3?v=39153332",
+    "audio": "audio/en-de/lob/lob_steady_voice.mp3?v=44a7764e",
     "gruppe": [
      "sicher"
     ]
@@ -637,7 +1450,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Worthy of an elven ear.",
     "de": "Würdig eines Elbenohrs.",
-    "audio": "audio/en-de/lob/lob_worthy_ear.mp3?v=2623711e",
+    "audio": "audio/en-de/lob/lob_worthy_ear.mp3?v=7c45128b",
     "gruppe": [
      "eldar"
     ]
@@ -645,7 +1458,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Finely wrought, that.",
     "de": "Fein gearbeitet, dies.",
-    "audio": "audio/en-de/lob/lob_fine_wrought.mp3?v=2125fd0e",
+    "audio": "audio/en-de/lob/lob_fine_wrought.mp3?v=ae0d54ff",
     "gruppe": [
      "geschmiedet"
     ]
@@ -653,7 +1466,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Nothing is wanting there.",
     "de": "Nichts fehlt daran.",
-    "audio": "audio/en-de/lob/lob_nothing_wanting.mp3?v=d4156314",
+    "audio": "audio/en-de/lob/lob_nothing_wanting.mp3?v=66494556",
     "gruppe": [
      "vollkommen"
     ]
@@ -661,7 +1474,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Whole and true!",
     "de": "Ganz und wahr!",
-    "audio": "audio/en-de/lob/lob_whole_true.mp3?v=829e4443",
+    "audio": "audio/en-de/lob/lob_whole_true.mp3?v=b161afad",
     "gruppe": [
      "vollkommen"
     ]
@@ -669,7 +1482,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Well remembered!",
     "de": "Gut erinnert!",
-    "audio": "audio/en-de/lob/lob_well_remembered.mp3?v=1026e612",
+    "audio": "audio/en-de/lob/lob_well_remembered.mp3?v=cb057b33",
     "gruppe": [
      "erinnert"
     ]
@@ -677,7 +1490,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Long is your memory, as befits the Eldar.",
     "de": "Lang ist dein Gedächtnis, wie es den Eldar ziemt.",
-    "audio": "audio/en-de/lob/lob_long_memory.mp3?v=5723b091",
+    "audio": "audio/en-de/lob/lob_long_memory.mp3?v=d9e3bc4c",
     "gruppe": [
      "erinnert"
     ]
@@ -685,7 +1498,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Another word won.",
     "de": "Wieder ein Wort gewonnen.",
-    "audio": "audio/en-de/lob/lob_another_won.mp3?v=e616310c",
+    "audio": "audio/en-de/lob/lob_another_won.mp3?v=56fe49de",
     "gruppe": [
      "gewonnen"
     ]
@@ -693,7 +1506,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "The hoard grows.",
     "de": "Der Hort wächst.",
-    "audio": "audio/en-de/lob/lob_the_hoard_grows.mp3?v=1e0fb397",
+    "audio": "audio/en-de/lob/lob_the_hoard_grows.mp3?v=58ebfc4c",
     "gruppe": [
      "gewonnen"
     ]
@@ -701,7 +1514,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Onward, and well.",
     "de": "Weiter, und gut.",
-    "audio": "audio/en-de/lob/lob_onward.mp3?v=f118e4b8",
+    "audio": "audio/en-de/lob/lob_onward.mp3?v=e4a28581",
     "gruppe": [
      "weiter"
     ]
@@ -709,7 +1522,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "So it stands.",
     "de": "So steht es.",
-    "audio": "audio/en-de/lob/lob_so_it_stands.mp3?v=94085c1d",
+    "audio": "audio/en-de/lob/lob_so_it_stands.mp3?v=b71729fc",
     "gruppe": [
      "geschrieben"
     ]
@@ -717,7 +1530,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Rightly said.",
     "de": "Richtig gesagt.",
-    "audio": "audio/en-de/lob/lob_rightly.mp3?v=2fd24742",
+    "audio": "audio/en-de/lob/lob_rightly.mp3?v=a239a389",
     "gruppe": [
      "richtig"
     ]
@@ -725,7 +1538,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Truly.",
     "de": "Wahrlich.",
-    "audio": "audio/en-de/lob/lob_truly.mp3?v=048820f0",
+    "audio": "audio/en-de/lob/lob_truly.mp3?v=b376b53b",
     "gruppe": [
      "richtig"
     ]
@@ -733,7 +1546,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even so.",
     "de": "Ebenso.",
-    "audio": "audio/en-de/lob/lob_even_so.mp3?v=867de117",
+    "audio": "audio/en-de/lob/lob_even_so.mp3?v=2c4b9ac6",
     "gruppe": [
      "richtig"
     ]
@@ -741,7 +1554,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "At the first cast!",
     "de": "Beim ersten Wurf!",
-    "audio": "audio/en-de/lob/lob_first_cast.mp3?v=73f69de8",
+    "audio": "audio/en-de/lob/lob_first_cast.mp3?v=c6132b7a",
     "gruppe": [
      "erster"
     ]
@@ -749,7 +1562,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Unfaltering!",
     "de": "Ohne Wanken!",
-    "audio": "audio/en-de/lob/lob_unfaltering.mp3?v=017cfd8d",
+    "audio": "audio/en-de/lob/lob_unfaltering.mp3?v=4092d142",
     "gruppe": [
      "sicher"
     ]
@@ -757,7 +1570,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Bright and fair!",
     "de": "Hell und schön!",
-    "audio": "audio/en-de/lob/lob_bright_fair.mp3?v=db767bd3",
+    "audio": "audio/en-de/lob/lob_bright_fair.mp3?v=e3e43f45",
     "gruppe": [
      "hell"
     ]
@@ -765,7 +1578,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Maglor's ear would mark no fault.",
     "de": "Maglors Ohr fände keinen Fehl.",
-    "audio": "audio/en-de/lob/lob_ear_of_maglor.mp3?v=778c25d0",
+    "audio": "audio/en-de/lob/lob_ear_of_maglor.mp3?v=fab41f5e",
     "gruppe": [
      "ohr"
     ]
@@ -773,7 +1586,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Speech fit for kings.",
     "de": "Rede, die Königen ziemt.",
-    "audio": "audio/en-de/lob/lob_speech_of_kings.mp3?v=6e9c78e5",
+    "audio": "audio/en-de/lob/lob_speech_of_kings.mp3?v=c20e4208",
     "gruppe": [
      "edel"
     ]
@@ -781,7 +1594,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fair as the gardens of Lórien.",
     "de": "Schön wie die Gärten Lóriens.",
-    "audio": "audio/en-de/lob/lob_fair_as_lorien.mp3?v=af948000",
+    "audio": "audio/en-de/lob/lob_fair_as_lorien.mp3?v=5452d714",
     "gruppe": [
      "schoen"
     ]
@@ -789,9 +1602,73 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "There is light in that word.",
     "de": "Licht wohnt in diesem Wort.",
-    "audio": "audio/en-de/lob/lob_light_in_it.mp3?v=38331ed7",
+    "audio": "audio/en-de/lob/lob_light_in_it.mp3?v=27d4b640",
     "gruppe": [
      "hell"
+    ]
+   },
+   {
+    "text": "Wisely counselled.",
+    "de": "Weise geraten.",
+    "audio": "audio/en-de/lob/lob_wisely_counselled.mp3?v=dd159f8a",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "Nay, that was well said.",
+    "de": "Nein, das war gut gesagt.",
+    "audio": "audio/en-de/lob/lob_nay_well_said.mp3?v=03d00143",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "So I deem, and so deem we all.",
+    "de": "So erachte ich es, und so erachten wir es alle.",
+    "audio": "audio/en-de/lob/lob_so_deem_we_all.mp3?v=b365bb1d",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "You speak for me also.",
+    "de": "Du sprichst auch für mich.",
+    "audio": "audio/en-de/lob/lob_speak_for_me.mp3?v=60bad100",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "Small wonder it is that you are right.",
+    "de": "Kein Wunder ist es, dass du recht hast.",
+    "audio": "audio/en-de/lob/lob_small_wonder_right.mp3?v=6038e997",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "Elrond himself would not gainsay it.",
+    "de": "Elrond selbst würde es nicht bestreiten.",
+    "audio": "audio/en-de/lob/lob_elrond_gainsay.mp3?v=92013034",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "Not in vain was that word spoken.",
+    "de": "Nicht vergebens wurde dieses Wort gesprochen.",
+    "audio": "audio/en-de/lob/lob_not_in_vain.mp3?v=b4304a75",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "That we now know, and know well.",
+    "de": "Das wissen wir nun, und wissen es gut.",
+    "audio": "audio/en-de/lob/lob_know_well.mp3?v=49df02a5",
+    "gruppe": [
+     "rat"
     ]
    }
   ],
@@ -799,7 +1676,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Great is your gift, and greater yet shall it grow.",
     "de": "Groß ist deine Gabe, und größer noch wird sie werden.",
-    "audio": "audio/en-de/lob/stark_great_gift.mp3?v=e16c500c",
+    "audio": "audio/en-de/lob/stark_great_gift.mp3?v=0782ccc5",
     "gruppe": [
      "gabe"
     ]
@@ -807,7 +1684,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Dark is the road, yet you walk it unafraid.",
     "de": "Dunkel ist der Weg, doch du gehst ihn ohne Furcht.",
-    "audio": "audio/en-de/lob/stark_dark_road.mp3?v=3409ce56",
+    "audio": "audio/en-de/lob/stark_dark_road.mp3?v=bb05bcaa",
     "gruppe": [
      "weg"
     ]
@@ -815,7 +1692,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Of this day the loremasters shall write.",
     "de": "Von diesem Tag werden die Lehrmeister schreiben.",
-    "audio": "audio/en-de/lob/stark_loremasters_write.mp3?v=1063030c",
+    "audio": "audio/en-de/lob/stark_loremasters_write.mp3?v=ab48f62b",
     "gruppe": [
      "lore"
     ]
@@ -823,7 +1700,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fell and fair was that answer!",
     "de": "Grimmig und schön war diese Antwort!",
-    "audio": "audio/en-de/lob/stark_fell_fair.mp3?v=e29ce80e",
+    "audio": "audio/en-de/lob/stark_fell_fair.mp3?v=6cee1086",
     "gruppe": [
      "fell"
     ]
@@ -831,7 +1708,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even Melian, in her wisdom, would fall silent.",
     "de": "Selbst Melian, in ihrer Weisheit, würde verstummen.",
-    "audio": "audio/en-de/lob/stark_melian_silent.mp3?v=a39243a2",
+    "audio": "audio/en-de/lob/stark_melian_silent.mp3?v=5f8c669e",
     "gruppe": [
      "melian"
     ]
@@ -839,7 +1716,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "No doom of Mandos lies on you tonight.",
     "de": "Kein Urteil des Mandos liegt heute Nacht auf dir.",
-    "audio": "audio/en-de/lob/stark_no_doom.mp3?v=80a2b880",
+    "audio": "audio/en-de/lob/stark_no_doom.mp3?v=99dfaa58",
     "gruppe": [
      "mandos"
     ]
@@ -847,7 +1724,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Varda has kindled a new star tonight.",
     "de": "Varda hat heute Nacht einen neuen Stern entzündet.",
-    "audio": "audio/en-de/lob/stark_new_star.mp3?v=b079b8ab",
+    "audio": "audio/en-de/lob/stark_new_star.mp3?v=d4a530f0",
     "gruppe": [
      "varda"
     ]
@@ -855,7 +1732,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Of such deeds are songs made!",
     "de": "Aus solchen Taten werden Lieder gemacht!",
-    "audio": "audio/en-de/lob/stark_songs_made.mp3?v=0766cec6",
+    "audio": "audio/en-de/lob/stark_songs_made.mp3?v=8f76a021",
     "gruppe": [
      "lied"
     ]
@@ -863,7 +1740,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even the Valar would listen.",
     "de": "Selbst die Valar würden lauschen.",
-    "audio": "audio/en-de/lob/stark_valar_listen.mp3?v=247d1513",
+    "audio": "audio/en-de/lob/stark_valar_listen.mp3?v=38815622",
     "gruppe": [
      "valar"
     ]
@@ -871,7 +1748,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Yours is the gift of the Noldor!",
     "de": "Dein ist die Gabe der Noldor!",
-    "audio": "audio/en-de/lob/stark_gift_noldor.mp3?v=ddebe79e",
+    "audio": "audio/en-de/lob/stark_gift_noldor.mp3?v=4ca76034",
     "gruppe": [
      "gabe"
     ]
@@ -879,7 +1756,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Unbroken is your run, and bright.",
     "de": "Ungebrochen ist deine Reihe, und hell.",
-    "audio": "audio/en-de/lob/stark_unbroken.mp3?v=6911f09a",
+    "audio": "audio/en-de/lob/stark_unbroken.mp3?v=bc822f66",
     "gruppe": [
      "serie"
     ]
@@ -887,7 +1764,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Kindled in you is a flame that does not fail.",
     "de": "Entzündet ist in dir eine Flamme, die nicht erlischt.",
-    "audio": "audio/en-de/lob/stark_flame_imperishable.mp3?v=d0c57a1a",
+    "audio": "audio/en-de/lob/stark_flame_imperishable.mp3?v=ba7a4a58",
     "gruppe": [
      "flamme"
     ]
@@ -895,7 +1772,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "High are your deeds this day.",
     "de": "Hoch sind deine Taten an diesem Tag.",
-    "audio": "audio/en-de/lob/stark_high_deeds.mp3?v=dbfe5458",
+    "audio": "audio/en-de/lob/stark_high_deeds.mp3?v=88619eee",
     "gruppe": [
      "taten"
     ]
@@ -903,7 +1780,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Proud am I of you.",
     "de": "Stolz bin ich auf dich.",
-    "audio": "audio/en-de/lob/stark_proud.mp3?v=3b7124a8",
+    "audio": "audio/en-de/lob/stark_proud.mp3?v=e8ca1df0",
     "gruppe": [
      "stolz"
     ]
@@ -913,7 +1790,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Grey is the shadow, yet it passes.",
     "de": "Grau ist der Schatten, doch er vergeht.",
-    "audio": "audio/en-de/lob/fehler_grey_shadow.mp3?v=ed1dbd26",
+    "audio": "audio/en-de/lob/fehler_grey_shadow.mp3?v=835a916e",
     "gruppe": [
      "schatten"
     ]
@@ -921,7 +1798,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Long is the road; take it again.",
     "de": "Lang ist der Weg; geh ihn noch einmal.",
-    "audio": "audio/en-de/lob/fehler_long_road.mp3?v=1ca6fa68",
+    "audio": "audio/en-de/lob/fehler_long_road.mp3?v=bba7f8b1",
     "gruppe": [
      "weg"
     ]
@@ -929,7 +1806,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Not yet; the hour is not come.",
     "de": "Noch nicht; die Stunde ist nicht gekommen.",
-    "audio": "audio/en-de/lob/fehler_not_yet.mp3?v=24d5916a",
+    "audio": "audio/en-de/lob/fehler_not_yet.mp3?v=9ef02172",
     "gruppe": [
      "nochnicht"
     ]
@@ -937,7 +1814,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even the wise have stumbled. Again!",
     "de": "Auch die Weisen sind gestrauchelt. Noch einmal!",
-    "audio": "audio/en-de/lob/fehler_wise_stumbled.mp3?v=ba1df00a",
+    "audio": "audio/en-de/lob/fehler_wise_stumbled.mp3?v=37015a0e",
     "gruppe": [
      "weise"
     ]
@@ -945,7 +1822,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fleeting was that error.",
     "de": "Flüchtig war dieser Fehler.",
-    "audio": "audio/en-de/lob/fehler_fleeting.mp3?v=1857041e",
+    "audio": "audio/en-de/lob/fehler_fleeting.mp3?v=1d9cdfd1",
     "gruppe": [
      "fluechtig"
     ]
@@ -953,7 +1830,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Take heart, and once more.",
     "de": "Fasse Mut, und noch einmal.",
-    "audio": "audio/en-de/lob/fehler_take_heart.mp3?v=113bf5f3",
+    "audio": "audio/en-de/lob/fehler_take_heart.mp3?v=bee264c7",
     "gruppe": [
      "mut"
     ]
@@ -961,7 +1838,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Near, but not yet.",
     "de": "Nah, doch noch nicht.",
-    "audio": "audio/en-de/lob/fehler_near.mp3?v=23b7cf37",
+    "audio": "audio/en-de/lob/fehler_near.mp3?v=a215e6ef",
     "gruppe": [
      "nochnicht"
     ]
@@ -969,7 +1846,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "The shadow passes. Again!",
     "de": "Der Schatten vergeht. Noch einmal!",
-    "audio": "audio/en-de/lob/fehler_shadow_passes.mp3?v=264eb7ff",
+    "audio": "audio/en-de/lob/fehler_shadow_passes.mp3?v=200f793f",
     "gruppe": [
      "schatten"
     ]
@@ -977,7 +1854,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Small is that stumble.",
     "de": "Klein ist dieser Stolperer.",
-    "audio": "audio/en-de/lob/fehler_small_stumble.mp3?v=3b9157e6",
+    "audio": "audio/en-de/lob/fehler_small_stumble.mp3?v=52b781b2",
     "gruppe": [
      "fluechtig"
     ]
@@ -985,9 +1862,33 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Hmm…",
     "de": "Hmm…",
-    "audio": "audio/en-de/lob/fehler_hmm.mp3?v=4ce5eef0",
+    "audio": "audio/en-de/lob/fehler_hmm.mp3?v=6efc5164",
     "gruppe": [
      "hmm"
+    ]
+   },
+   {
+    "text": "Alas! Yet the hour is not lost.",
+    "de": "Ach! Doch die Stunde ist nicht verloren.",
+    "audio": "audio/en-de/lob/fehler_alas_hour.mp3?v=cd6da7f1",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "Let us take counsel again.",
+    "de": "Lasst uns erneut Rat halten.",
+    "audio": "audio/en-de/lob/fehler_counsel_again.mp3?v=3178972e",
+    "gruppe": [
+     "rat"
+    ]
+   },
+   {
+    "text": "Of folly I would not say.",
+    "de": "Von Torheit würde ich nicht sprechen.",
+    "audio": "audio/en-de/lob/fehler_not_folly.mp3?v=2aabadff",
+    "gruppe": [
+     "rat"
     ]
    }
   ],
@@ -995,7 +1896,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Ended is the labour of this day. Rest, and return.",
     "de": "Beendet ist die Arbeit dieses Tages. Ruhe, und kehre zurück.",
-    "audio": "audio/en-de/lob/geschafft_ended.mp3?v=55de9b7a",
+    "audio": "audio/en-de/lob/geschafft_ended.mp3?v=a68c39e3",
     "gruppe": [
      "fertig"
     ]
@@ -1003,7 +1904,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Quiet now are the forges. Hail, and until tomorrow!",
     "de": "Still sind nun die Schmieden. Heil, und bis morgen!",
-    "audio": "audio/en-de/lob/geschafft_forges.mp3?v=2380055c",
+    "audio": "audio/en-de/lob/geschafft_forges.mp3?v=4a7e5317",
     "gruppe": [
      "fertig"
     ]
@@ -1011,7 +1912,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Done is the day's work, and well done.",
     "de": "Getan ist das Tagewerk, und gut getan.",
-    "audio": "audio/en-de/lob/geschafft_well_done.mp3?v=346442ee",
+    "audio": "audio/en-de/lob/geschafft_well_done.mp3?v=1087faa1",
     "gruppe": [
      "fertig"
     ]
@@ -1021,7 +1922,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Flawless, as a Silmaril is flawless!",
     "de": "Makellos, wie ein Silmaril makellos ist!",
-    "audio": "audio/en-de/lob/voll_flawless.mp3?v=e49ede5c",
+    "audio": "audio/en-de/lob/voll_flawless.mp3?v=8b05893a",
     "gruppe": [
      "voll"
     ]
@@ -1031,7 +1932,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "You see? Yours it was all along.",
     "de": "Siehst du? Dein war es die ganze Zeit.",
-    "audio": "audio/en-de/lob/doch_you_see.mp3?v=2c005943",
+    "audio": "audio/en-de/lob/doch_you_see.mp3?v=850fc422",
     "gruppe": [
      "doch"
     ]
@@ -1921,6 +2822,26 @@ window.SPRACHEN["en-de"] = {
   ]
  },
  "audio_liste": [
+  "audio/en-de/dialoge/d1_01.mp3?v=44d3e24f",
+  "audio/en-de/dialoge/d1_02.mp3?v=566da0d7",
+  "audio/en-de/dialoge/d1_03.mp3?v=da44782e",
+  "audio/en-de/dialoge/d1_04.mp3?v=e446d0c3",
+  "audio/en-de/dialoge/d1_05.mp3?v=98ae01ce",
+  "audio/en-de/dialoge/d1_06.mp3?v=41088b40",
+  "audio/en-de/dialoge/d1_07.mp3?v=b690a4ae",
+  "audio/en-de/dialoge/d1_08.mp3?v=47c8abb7",
+  "audio/en-de/dialoge/d1_09.mp3?v=f5865c77",
+  "audio/en-de/dialoge/d1_10.mp3?v=81045b4a",
+  "audio/en-de/dialoge/d2_01.mp3?v=95bbc501",
+  "audio/en-de/dialoge/d2_02.mp3?v=89b6bc78",
+  "audio/en-de/dialoge/d2_03.mp3?v=1801514f",
+  "audio/en-de/dialoge/d2_04.mp3?v=922114b0",
+  "audio/en-de/dialoge/d2_05.mp3?v=fb7e331d",
+  "audio/en-de/dialoge/d2_06.mp3?v=62b8531c",
+  "audio/en-de/dialoge/d2_07.mp3?v=ad4b95ac",
+  "audio/en-de/dialoge/d2_08.mp3?v=2648b589",
+  "audio/en-de/dialoge/d2_09.mp3?v=d403b0f1",
+  "audio/en-de/dialoge/d2_10.mp3?v=b4ebd8de",
   "audio/en-de/geschichte/k01_01.mp3?v=e77fb94a",
   "audio/en-de/geschichte/k01_02.mp3?v=903c778e",
   "audio/en-de/geschichte/k01_03.mp3?v=04c94500",
@@ -1931,89 +2852,100 @@ window.SPRACHEN["en-de"] = {
   "audio/en-de/geschichte/k01_08.mp3?v=81754584",
   "audio/en-de/geschichte/k01_09.mp3?v=3a982b1a",
   "audio/en-de/geschichte/k01_10.mp3?v=add6ae16",
-  "audio/en-de/lob/doch_you_see.mp3?v=2c005943",
-  "audio/en-de/lob/fehler_fleeting.mp3?v=1857041e",
-  "audio/en-de/lob/fehler_grey_shadow.mp3?v=ed1dbd26",
-  "audio/en-de/lob/fehler_hmm.mp3?v=4ce5eef0",
-  "audio/en-de/lob/fehler_long_road.mp3?v=1ca6fa68",
-  "audio/en-de/lob/fehler_near.mp3?v=23b7cf37",
-  "audio/en-de/lob/fehler_not_yet.mp3?v=24d5916a",
-  "audio/en-de/lob/fehler_shadow_passes.mp3?v=264eb7ff",
-  "audio/en-de/lob/fehler_small_stumble.mp3?v=3b9157e6",
-  "audio/en-de/lob/fehler_take_heart.mp3?v=113bf5f3",
-  "audio/en-de/lob/fehler_wise_stumbled.mp3?v=ba1df00a",
-  "audio/en-de/lob/geschafft_ended.mp3?v=55de9b7a",
-  "audio/en-de/lob/geschafft_forges.mp3?v=2380055c",
-  "audio/en-de/lob/geschafft_well_done.mp3?v=346442ee",
-  "audio/en-de/lob/lob_another_won.mp3?v=e616310c",
-  "audio/en-de/lob/lob_apt_seemly.mp3?v=961f4f6c",
-  "audio/en-de/lob/lob_bright_fair.mp3?v=db767bd3",
-  "audio/en-de/lob/lob_bright_silmaril.mp3?v=a10fa996",
-  "audio/en-de/lob/lob_bright_word.mp3?v=fb73af9e",
-  "audio/en-de/lob/lob_deep_lore.mp3?v=cedfd9f8",
-  "audio/en-de/lob/lob_ear_of_maglor.mp3?v=778c25d0",
-  "audio/en-de/lob/lob_even_so.mp3?v=867de117",
-  "audio/en-de/lob/lob_fair_as_lorien.mp3?v=af948000",
-  "audio/en-de/lob/lob_fair_fitting.mp3?v=35f549aa",
-  "audio/en-de/lob/lob_fair_spoken.mp3?v=77b423eb",
-  "audio/en-de/lob/lob_feanor.mp3?v=09bdf52d",
-  "audio/en-de/lob/lob_fine_wrought.mp3?v=2125fd0e",
-  "audio/en-de/lob/lob_firm_footing.mp3?v=67ce66fe",
-  "audio/en-de/lob/lob_first_cast.mp3?v=73f69de8",
-  "audio/en-de/lob/lob_forged_not_found.mp3?v=273a93d4",
-  "audio/en-de/lob/lob_keen_eye.mp3?v=a51ee45d",
-  "audio/en-de/lob/lob_keen_tongue.mp3?v=40de88df",
-  "audio/en-de/lob/lob_light_in_it.mp3?v=38331ed7",
-  "audio/en-de/lob/lob_lo_right_word.mp3?v=fd926b64",
-  "audio/en-de/lob/lob_long_memory.mp3?v=5723b091",
-  "audio/en-de/lob/lob_loremasters_approve.mp3?v=5e6a8d83",
-  "audio/en-de/lob/lob_melian_nod.mp3?v=15eced17",
-  "audio/en-de/lob/lob_menegroth.mp3?v=a6882915",
-  "audio/en-de/lob/lob_mighty_choice.mp3?v=2b9d5234",
-  "audio/en-de/lob/lob_noble_speech.mp3?v=34c0feb3",
-  "audio/en-de/lob/lob_nothing_wanting.mp3?v=d4156314",
-  "audio/en-de/lob/lob_onward.mp3?v=f118e4b8",
-  "audio/en-de/lob/lob_rich_tongue.mp3?v=b612c6d0",
-  "audio/en-de/lob/lob_rightly.mp3?v=2fd24742",
-  "audio/en-de/lob/lob_rumil.mp3?v=7019a27a",
-  "audio/en-de/lob/lob_sharp_blade.mp3?v=e75f045d",
-  "audio/en-de/lob/lob_sirion.mp3?v=22b5b877",
-  "audio/en-de/lob/lob_so_it_stands.mp3?v=94085c1d",
-  "audio/en-de/lob/lob_so_written.mp3?v=24839035",
-  "audio/en-de/lob/lob_speech_of_kings.mp3?v=6e9c78e5",
-  "audio/en-de/lob/lob_steady_voice.mp3?v=39153332",
-  "audio/en-de/lob/lob_straight_beleg.mp3?v=87285c42",
-  "audio/en-de/lob/lob_sure_hand.mp3?v=43f4241f",
-  "audio/en-de/lob/lob_swift_answer.mp3?v=ef1978ff",
-  "audio/en-de/lob/lob_the_hoard_grows.mp3?v=1e0fb397",
-  "audio/en-de/lob/lob_thingol.mp3?v=409e90f1",
-  "audio/en-de/lob/lob_thus_eldar.mp3?v=b2ce15b5",
-  "audio/en-de/lob/lob_tirion.mp3?v=b3f6f530",
-  "audio/en-de/lob/lob_true_mark.mp3?v=062f0cc3",
-  "audio/en-de/lob/lob_truly.mp3?v=048820f0",
-  "audio/en-de/lob/lob_unerring_ear.mp3?v=f8ca4da4",
-  "audio/en-de/lob/lob_unfaltering.mp3?v=017cfd8d",
-  "audio/en-de/lob/lob_well_chosen.mp3?v=454ddbb8",
-  "audio/en-de/lob/lob_well_remembered.mp3?v=1026e612",
-  "audio/en-de/lob/lob_well_wrought.mp3?v=402b7a32",
-  "audio/en-de/lob/lob_whole_true.mp3?v=829e4443",
-  "audio/en-de/lob/lob_wise_words.mp3?v=9a6ce7e7",
-  "audio/en-de/lob/lob_worthy_ear.mp3?v=2623711e",
-  "audio/en-de/lob/stark_dark_road.mp3?v=3409ce56",
-  "audio/en-de/lob/stark_fell_fair.mp3?v=e29ce80e",
-  "audio/en-de/lob/stark_flame_imperishable.mp3?v=d0c57a1a",
-  "audio/en-de/lob/stark_gift_noldor.mp3?v=ddebe79e",
-  "audio/en-de/lob/stark_great_gift.mp3?v=e16c500c",
-  "audio/en-de/lob/stark_high_deeds.mp3?v=dbfe5458",
-  "audio/en-de/lob/stark_loremasters_write.mp3?v=1063030c",
-  "audio/en-de/lob/stark_melian_silent.mp3?v=a39243a2",
-  "audio/en-de/lob/stark_new_star.mp3?v=b079b8ab",
-  "audio/en-de/lob/stark_no_doom.mp3?v=80a2b880",
-  "audio/en-de/lob/stark_proud.mp3?v=3b7124a8",
-  "audio/en-de/lob/stark_songs_made.mp3?v=0766cec6",
-  "audio/en-de/lob/stark_unbroken.mp3?v=6911f09a",
-  "audio/en-de/lob/stark_valar_listen.mp3?v=247d1513",
-  "audio/en-de/lob/voll_flawless.mp3?v=e49ede5c",
+  "audio/en-de/lob/doch_you_see.mp3?v=850fc422",
+  "audio/en-de/lob/fehler_alas_hour.mp3?v=cd6da7f1",
+  "audio/en-de/lob/fehler_counsel_again.mp3?v=3178972e",
+  "audio/en-de/lob/fehler_fleeting.mp3?v=1d9cdfd1",
+  "audio/en-de/lob/fehler_grey_shadow.mp3?v=835a916e",
+  "audio/en-de/lob/fehler_hmm.mp3?v=6efc5164",
+  "audio/en-de/lob/fehler_long_road.mp3?v=bba7f8b1",
+  "audio/en-de/lob/fehler_near.mp3?v=a215e6ef",
+  "audio/en-de/lob/fehler_not_folly.mp3?v=2aabadff",
+  "audio/en-de/lob/fehler_not_yet.mp3?v=9ef02172",
+  "audio/en-de/lob/fehler_shadow_passes.mp3?v=200f793f",
+  "audio/en-de/lob/fehler_small_stumble.mp3?v=52b781b2",
+  "audio/en-de/lob/fehler_take_heart.mp3?v=bee264c7",
+  "audio/en-de/lob/fehler_wise_stumbled.mp3?v=37015a0e",
+  "audio/en-de/lob/geschafft_ended.mp3?v=a68c39e3",
+  "audio/en-de/lob/geschafft_forges.mp3?v=4a7e5317",
+  "audio/en-de/lob/geschafft_well_done.mp3?v=1087faa1",
+  "audio/en-de/lob/lob_another_won.mp3?v=56fe49de",
+  "audio/en-de/lob/lob_apt_seemly.mp3?v=c2e7ff67",
+  "audio/en-de/lob/lob_bright_fair.mp3?v=e3e43f45",
+  "audio/en-de/lob/lob_bright_silmaril.mp3?v=8d0142a7",
+  "audio/en-de/lob/lob_bright_word.mp3?v=9c34dbb5",
+  "audio/en-de/lob/lob_deep_lore.mp3?v=2d3fbd40",
+  "audio/en-de/lob/lob_ear_of_maglor.mp3?v=fab41f5e",
+  "audio/en-de/lob/lob_elrond_gainsay.mp3?v=92013034",
+  "audio/en-de/lob/lob_even_so.mp3?v=2c4b9ac6",
+  "audio/en-de/lob/lob_fair_as_lorien.mp3?v=5452d714",
+  "audio/en-de/lob/lob_fair_fitting.mp3?v=f8c6a1e4",
+  "audio/en-de/lob/lob_fair_spoken.mp3?v=226853e7",
+  "audio/en-de/lob/lob_feanor.mp3?v=4c736116",
+  "audio/en-de/lob/lob_fine_wrought.mp3?v=ae0d54ff",
+  "audio/en-de/lob/lob_firm_footing.mp3?v=9a677632",
+  "audio/en-de/lob/lob_first_cast.mp3?v=c6132b7a",
+  "audio/en-de/lob/lob_forged_not_found.mp3?v=f1e31ba4",
+  "audio/en-de/lob/lob_keen_eye.mp3?v=e874fff0",
+  "audio/en-de/lob/lob_keen_tongue.mp3?v=8118105f",
+  "audio/en-de/lob/lob_know_well.mp3?v=49df02a5",
+  "audio/en-de/lob/lob_light_in_it.mp3?v=27d4b640",
+  "audio/en-de/lob/lob_lo_right_word.mp3?v=880c8576",
+  "audio/en-de/lob/lob_long_memory.mp3?v=d9e3bc4c",
+  "audio/en-de/lob/lob_loremasters_approve.mp3?v=167c4fa7",
+  "audio/en-de/lob/lob_melian_nod.mp3?v=38983496",
+  "audio/en-de/lob/lob_menegroth.mp3?v=8366324a",
+  "audio/en-de/lob/lob_mighty_choice.mp3?v=6236ff71",
+  "audio/en-de/lob/lob_nay_well_said.mp3?v=03d00143",
+  "audio/en-de/lob/lob_noble_speech.mp3?v=afc6658a",
+  "audio/en-de/lob/lob_not_in_vain.mp3?v=b4304a75",
+  "audio/en-de/lob/lob_nothing_wanting.mp3?v=66494556",
+  "audio/en-de/lob/lob_onward.mp3?v=e4a28581",
+  "audio/en-de/lob/lob_rich_tongue.mp3?v=d4cf5e78",
+  "audio/en-de/lob/lob_rightly.mp3?v=a239a389",
+  "audio/en-de/lob/lob_rumil.mp3?v=5e09f5aa",
+  "audio/en-de/lob/lob_sharp_blade.mp3?v=dcdb5a26",
+  "audio/en-de/lob/lob_sirion.mp3?v=27a565e4",
+  "audio/en-de/lob/lob_small_wonder_right.mp3?v=6038e997",
+  "audio/en-de/lob/lob_so_deem_we_all.mp3?v=b365bb1d",
+  "audio/en-de/lob/lob_so_it_stands.mp3?v=b71729fc",
+  "audio/en-de/lob/lob_so_written.mp3?v=263fa64e",
+  "audio/en-de/lob/lob_speak_for_me.mp3?v=60bad100",
+  "audio/en-de/lob/lob_speech_of_kings.mp3?v=c20e4208",
+  "audio/en-de/lob/lob_steady_voice.mp3?v=44a7764e",
+  "audio/en-de/lob/lob_straight_beleg.mp3?v=2e448a9b",
+  "audio/en-de/lob/lob_sure_hand.mp3?v=ee64bad9",
+  "audio/en-de/lob/lob_swift_answer.mp3?v=73217339",
+  "audio/en-de/lob/lob_the_hoard_grows.mp3?v=58ebfc4c",
+  "audio/en-de/lob/lob_thingol.mp3?v=f02481cf",
+  "audio/en-de/lob/lob_thus_eldar.mp3?v=781c2047",
+  "audio/en-de/lob/lob_tirion.mp3?v=b88b44cc",
+  "audio/en-de/lob/lob_true_mark.mp3?v=05494a61",
+  "audio/en-de/lob/lob_truly.mp3?v=b376b53b",
+  "audio/en-de/lob/lob_unerring_ear.mp3?v=68b3e2c1",
+  "audio/en-de/lob/lob_unfaltering.mp3?v=4092d142",
+  "audio/en-de/lob/lob_well_chosen.mp3?v=5f4defa6",
+  "audio/en-de/lob/lob_well_remembered.mp3?v=cb057b33",
+  "audio/en-de/lob/lob_well_wrought.mp3?v=742264fd",
+  "audio/en-de/lob/lob_whole_true.mp3?v=b161afad",
+  "audio/en-de/lob/lob_wise_words.mp3?v=2668b059",
+  "audio/en-de/lob/lob_wisely_counselled.mp3?v=dd159f8a",
+  "audio/en-de/lob/lob_worthy_ear.mp3?v=7c45128b",
+  "audio/en-de/lob/stark_dark_road.mp3?v=bb05bcaa",
+  "audio/en-de/lob/stark_fell_fair.mp3?v=6cee1086",
+  "audio/en-de/lob/stark_flame_imperishable.mp3?v=ba7a4a58",
+  "audio/en-de/lob/stark_gift_noldor.mp3?v=4ca76034",
+  "audio/en-de/lob/stark_great_gift.mp3?v=0782ccc5",
+  "audio/en-de/lob/stark_high_deeds.mp3?v=88619eee",
+  "audio/en-de/lob/stark_loremasters_write.mp3?v=ab48f62b",
+  "audio/en-de/lob/stark_melian_silent.mp3?v=5f8c669e",
+  "audio/en-de/lob/stark_new_star.mp3?v=d4a530f0",
+  "audio/en-de/lob/stark_no_doom.mp3?v=99dfaa58",
+  "audio/en-de/lob/stark_proud.mp3?v=e8ca1df0",
+  "audio/en-de/lob/stark_songs_made.mp3?v=8f76a021",
+  "audio/en-de/lob/stark_unbroken.mp3?v=bc822f66",
+  "audio/en-de/lob/stark_valar_listen.mp3?v=38815622",
+  "audio/en-de/lob/voll_flawless.mp3?v=8b05893a",
   "audio/en-de/orte/aelinuial.mp3?v=2273459e",
   "audio/en-de/orte/aeluin.mp3?v=fec00d99",
   "audio/en-de/orte/aglon.mp3?v=31fc0f22",
@@ -2064,6 +2996,78 @@ window.SPRACHEN["en-de"] = {
   "audio/en-de/orte/tolsirion.mp3?v=25a0b8df",
   "audio/en-de/orte/tumladen.mp3?v=d4865b46",
   "audio/en-de/orte/vinyamar.mp3?v=3b934f35",
+  "audio/en-de/saetze/co_01.mp3?v=9f2b206d",
+  "audio/en-de/saetze/co_01_fp.mp3?v=29cb48dc",
+  "audio/en-de/saetze/co_01_pc.mp3?v=e7188d88",
+  "audio/en-de/saetze/co_02.mp3?v=a48807ab",
+  "audio/en-de/saetze/co_02_fp.mp3?v=bc2bf129",
+  "audio/en-de/saetze/co_02_pc.mp3?v=57101913",
+  "audio/en-de/saetze/co_03.mp3?v=477bd157",
+  "audio/en-de/saetze/co_03_fp.mp3?v=16dfd334",
+  "audio/en-de/saetze/co_03_pc.mp3?v=91125c48",
+  "audio/en-de/saetze/co_04.mp3?v=1ce5f880",
+  "audio/en-de/saetze/co_04_fp.mp3?v=4cd431f6",
+  "audio/en-de/saetze/co_04_pc.mp3?v=150684c2",
+  "audio/en-de/saetze/co_05.mp3?v=8c12c8c7",
+  "audio/en-de/saetze/co_05_fp.mp3?v=adb060a4",
+  "audio/en-de/saetze/co_05_pc.mp3?v=85613555",
+  "audio/en-de/saetze/co_06.mp3?v=849b6cc2",
+  "audio/en-de/saetze/co_06_fp.mp3?v=6894da81",
+  "audio/en-de/saetze/co_06_pc.mp3?v=3b564013",
+  "audio/en-de/saetze/co_07.mp3?v=c9aeca56",
+  "audio/en-de/saetze/co_07_fp.mp3?v=3d9d6997",
+  "audio/en-de/saetze/co_07_pc.mp3?v=8fbc37c8",
+  "audio/en-de/saetze/co_08.mp3?v=7f85cf6b",
+  "audio/en-de/saetze/co_08_fp.mp3?v=02605d7e",
+  "audio/en-de/saetze/co_08_pc.mp3?v=9ee29a2c",
+  "audio/en-de/saetze/co_09.mp3?v=57111b74",
+  "audio/en-de/saetze/co_09_fp.mp3?v=d96763f6",
+  "audio/en-de/saetze/co_09_pc.mp3?v=f20b22c6",
+  "audio/en-de/saetze/co_10.mp3?v=216956b3",
+  "audio/en-de/saetze/co_10_fp.mp3?v=fff8debb",
+  "audio/en-de/saetze/co_10_pc.mp3?v=dcf4c4d2",
+  "audio/en-de/saetze/co_11.mp3?v=fb7c58d2",
+  "audio/en-de/saetze/co_11_fp.mp3?v=08e185a7",
+  "audio/en-de/saetze/co_11_pc.mp3?v=45d62585",
+  "audio/en-de/saetze/co_12.mp3?v=03a14bfc",
+  "audio/en-de/saetze/co_12_fp.mp3?v=bff963bd",
+  "audio/en-de/saetze/co_12_pc.mp3?v=51637a88",
+  "audio/en-de/saetze/co_13.mp3?v=c2ca4054",
+  "audio/en-de/saetze/co_13_fp.mp3?v=b9970233",
+  "audio/en-de/saetze/co_13_pc.mp3?v=b1126ce8",
+  "audio/en-de/saetze/co_14.mp3?v=670c7642",
+  "audio/en-de/saetze/co_14_fp.mp3?v=ba73fb5b",
+  "audio/en-de/saetze/co_14_pc.mp3?v=14f7dffe",
+  "audio/en-de/saetze/co_15.mp3?v=2acc5ad1",
+  "audio/en-de/saetze/co_15_fp.mp3?v=cd6032ff",
+  "audio/en-de/saetze/co_15_pc.mp3?v=bf93191d",
+  "audio/en-de/saetze/co_16.mp3?v=94a57d3d",
+  "audio/en-de/saetze/co_16_fp.mp3?v=16b0f611",
+  "audio/en-de/saetze/co_16_pc.mp3?v=6a9f35ff",
+  "audio/en-de/saetze/co_17.mp3?v=c41bdc4d",
+  "audio/en-de/saetze/co_17_fp.mp3?v=dea49502",
+  "audio/en-de/saetze/co_17_pc.mp3?v=e44a9921",
+  "audio/en-de/saetze/co_18.mp3?v=cb95faf2",
+  "audio/en-de/saetze/co_18_fp.mp3?v=a3edcb8a",
+  "audio/en-de/saetze/co_18_pc.mp3?v=ecea458a",
+  "audio/en-de/saetze/co_19.mp3?v=56d2552a",
+  "audio/en-de/saetze/co_19_fp.mp3?v=45549b73",
+  "audio/en-de/saetze/co_19_pc.mp3?v=dc7bca51",
+  "audio/en-de/saetze/co_20.mp3?v=198c44a5",
+  "audio/en-de/saetze/co_20_fp.mp3?v=6418f635",
+  "audio/en-de/saetze/co_20_pc.mp3?v=8aaccade",
+  "audio/en-de/saetze/co_21.mp3?v=09c234b7",
+  "audio/en-de/saetze/co_21_fp.mp3?v=9250ffff",
+  "audio/en-de/saetze/co_21_pc.mp3?v=7b7f42be",
+  "audio/en-de/saetze/co_22.mp3?v=4f6e6d89",
+  "audio/en-de/saetze/co_22_fp.mp3?v=703ba6d8",
+  "audio/en-de/saetze/co_22_pc.mp3?v=9134ab35",
+  "audio/en-de/saetze/co_23.mp3?v=32fbc289",
+  "audio/en-de/saetze/co_23_fp.mp3?v=75a72c69",
+  "audio/en-de/saetze/co_23_pc.mp3?v=959206f9",
+  "audio/en-de/saetze/co_24.mp3?v=0ea49386",
+  "audio/en-de/saetze/co_24_fp.mp3?v=e578ed1a",
+  "audio/en-de/saetze/co_24_pc.mp3?v=18632363",
   "audio/en-de/spiel/feuer.mp3?v=4f5d7790",
   "audio/en-de/spiel/fini.mp3?v=3c57995b",
   "audio/en-de/spiel/monat.mp3?v=2c4a6e37",
@@ -2075,6 +3079,30 @@ window.SPRACHEN["en-de"] = {
   "audio/en-de/spiel/titel_6.mp3?v=70b9061b",
   "audio/en-de/spiel/titel_7.mp3?v=41a3fa7e",
   "audio/en-de/spiel/titel_8.mp3?v=799c9076",
-  "audio/en-de/spiel/woche.mp3?v=8482bc8e"
+  "audio/en-de/spiel/woche.mp3?v=8482bc8e",
+  "audio/en-de/wendungen/co_01.mp3?v=49cd19c1",
+  "audio/en-de/wendungen/co_02.mp3?v=ab28f070",
+  "audio/en-de/wendungen/co_03.mp3?v=2a83b442",
+  "audio/en-de/wendungen/co_04.mp3?v=5e6d8204",
+  "audio/en-de/wendungen/co_05.mp3?v=0a01eb8e",
+  "audio/en-de/wendungen/co_06.mp3?v=94d4bbaa",
+  "audio/en-de/wendungen/co_07.mp3?v=ba8ffd1a",
+  "audio/en-de/wendungen/co_08.mp3?v=d37faf71",
+  "audio/en-de/wendungen/co_09.mp3?v=9e0321ec",
+  "audio/en-de/wendungen/co_10.mp3?v=52abcaa2",
+  "audio/en-de/wendungen/co_11.mp3?v=f9cbfdb4",
+  "audio/en-de/wendungen/co_12.mp3?v=3b7b5b61",
+  "audio/en-de/wendungen/co_13.mp3?v=cc5a1331",
+  "audio/en-de/wendungen/co_14.mp3?v=7f21e7ea",
+  "audio/en-de/wendungen/co_15.mp3?v=9b40a942",
+  "audio/en-de/wendungen/co_16.mp3?v=2ee7d6cc",
+  "audio/en-de/wendungen/co_17.mp3?v=951f0e7b",
+  "audio/en-de/wendungen/co_18.mp3?v=36fc9d49",
+  "audio/en-de/wendungen/co_19.mp3?v=aedf736f",
+  "audio/en-de/wendungen/co_20.mp3?v=6776b617",
+  "audio/en-de/wendungen/co_21.mp3?v=cb680c0a",
+  "audio/en-de/wendungen/co_22.mp3?v=fcf0b824",
+  "audio/en-de/wendungen/co_23.mp3?v=4296e9aa",
+  "audio/en-de/wendungen/co_24.mp3?v=251f8a2d"
  ]
 };

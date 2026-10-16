@@ -41,7 +41,7 @@ def auftraege(P):
     for z in bauen.tsv(inhalte, "orte.tsv"):
         liste.append((f"audio/{paar}/orte/{z['id']}.mp3", s(f"{z['name']}. {z['fakt_fr']}"), "a"))
     for z in bauen.tsv(inhalte, "lob.tsv"):
-        liste.append((f"audio/{paar}/lob/{z['id']}.mp3", z["text"], "a"))
+        liste.append((f"audio/{paar}/lob/{z['id']}.mp3", z["text"], getattr(P, "LOB_STIMME", "a")))   # Englisch: Lob spricht Simon
     for k, t in P.SPIEL_TEXTE.items():
         liste.append((f"audio/{paar}/spiel/{k}.mp3", t, "a"))
     for i, (_, name, _) in enumerate(P.TITEL):

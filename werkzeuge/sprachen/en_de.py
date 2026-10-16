@@ -17,8 +17,11 @@ SPRACHAUSGABE = "en-GB"
 THEME = {"blau": "#1f4e3d", "rot": "#8b1e2d", "rot_text": "#ffffff", "dunkel": {"blau": "#7fd1a8", "blau_text": "#0f1522", "rot": "#ff8a94", "rot_text": "#1a0608"},
          "icon_buchstabe": "E", "icon_farben": [(31, 78, 61), (255, 255, 255), (139, 30, 45)]}
 
-# Themen in Lernreihenfolge – erste Achse: Precision pairs (Inhalt folgt, Freigabe je Thema)
-THEMEN = []
+# Themen in Lernreihenfolge. Lektion 1: die Sprache der Elben im Rat (The Lord of the Rings, Buch II, Kap. 2; Zitate im Original,
+# Freigabe Mr. Alex 16.10.). Statt der Zeitmaschine die Registermaschine: im Rat / unter Freunden / schlicht.
+THEMEN = [
+    {"id": "council", "name": "In the Council", "de": "The Council of Elrond – wie die Elben im Rat sprechen", "symbol": "💍", "datei": "council.tsv"},
+]
 
 # Titel – Rang und Ruhm unter den Eldar: vom Wanderer bis zu dem, der in den Liedern genannt wird (Mr. Alex, 16.10.)
 TITEL = [(0, "Wanderer", "🚶"), (300, "Herald", "📯"), (900, "Marchwarden", "🏹"), (1800, "Captain of the Noldor", "⚔️"),
@@ -33,9 +36,11 @@ SPIEL_TEXTE = {  # gesprochen von Mr. Alex (audio/spiel/<id>.mp3)
     "fini": "Ended is the labour of this day. Rest, and return tomorrow.",
 }
 
-# Dialoge: Rolle A = Alex (Mr. Alex' Stimme), Rolle B = Simon (ein Freund, geklonte Stimme)
-ROLLEN = {"A": "Alex", "B": "Simon"}
-DIALOGE_TITEL = ["Dialogues with Simon", "Dialoge mit Simon"]
+# Dialoge: Rolle A = Barangollach (Mr. Alex' Stimme), Rolle B = Ninuivor (Simons Stimme) – beide aus Elronds Haus, beide Noldor des Ersten Zeitalters
+ROLLEN = {"A": "Barangollach", "B": "Ninuivor"}
+DIALOGE_TITEL = ["Dialogues with Ninuivor", "Dialoge mit Ninuivor"]
+# Lob spricht ausschließlich Simon (Mr. Alex, 16.10.)
+LOB_STIMME = "b"
 
 # Geschichte: Barangollach, einer der Noldor, erzählt – eigene Erzählung in Beleriand (Titel und Kapitel folgen)
 GESCHICHTE = {"titel": "The Chronicle of Barangollach",
@@ -92,9 +97,9 @@ UI = {
                   "Dein Kasten ist auf dem neuesten Stand. Morgen kommen die Einträge zum richtigen Zeitpunkt zurück. Wenn du weitermachen willst: die Themen, ohne Druck."],
     "pause_text": ["You can pick the Word Gym up whenever you like – what's done stays done.", "Du kannst das Word Gym jederzeit fortsetzen – was gemacht ist, bleibt gemacht."],
     "sammlung": "🏆 My collection",
-    "etape": "Step {n}", "zeitmaschine": "⏳ Time machine", "trouve": "🔎 Find the item",
-    "thema_ansage": ["Choose a part. Each part: listen and repeat in three steps, the time machine, then find the items again.",
-                     "Wähl einen Teil. Jeder Teil: hören und nachsprechen in drei Stufen, Zeitmaschine, dann die Einträge wiederfinden."],
+    "etape": "Step {n}", "zeitmaschine": "⚖️ Register machine", "trouve": "🔎 Find the item",
+    "thema_ansage": ["Choose a part. Each part: listen and repeat in three steps, the register machine, then find the items again.",
+                     "Wähl einen Teil. Jeder Teil: hören und nachsprechen in drei Stufen, Registermaschine, dann die Einträge wiederfinden."],
     "partie": "Part {n}",
     "dialog_hoeren": "👂 Listen", "repeter": "Repeat", "tu_es": "🎭 You are {rolle}", "role": "Role", "repliques": "lines",
     "dialog_start": "▶ Start the dialogue", "dialog_hoeren_knopf": "▶ Listen to the dialogue",
@@ -119,10 +124,10 @@ UI = {
     "dis_phrase": "Say the whole sentence in English!", "phrase": "Sentence {n} / {alle}",
     "tipp_buchstabe": ["Easier: the first letter", "Noch einfacher: erster Buchstabe"],
     "tipp_luecke": ["Easier: the sentence with a gap", "Noch einfacher: Satz mit Lücke"],
-    "zeiten": {"jetzt": ["Today", "present"], "pc": ["Yesterday", "past", "And yesterday?"], "fp": ["Tomorrow", "future", "And tomorrow?"]},
+    "zeiten": {"jetzt": ["In council", "as the Eldar say it"], "pc": ["Among friends", "neutral", "And among friends?"], "fp": ["Plainly", "everyday", "And plainly?"]},
     "solution_zeit": "Solution: {zeit}",
-    "zeit_ansage": ["Listen to today's sentence. Then say it in the past, and in the future – out loud. Then “Solution”.",
-                    "Hör den Satz von heute. Dann sag ihn in der Vergangenheit und in der Zukunft – laut. Danach „Solution“."],
+    "zeit_ansage": ["Listen to the sentence as it is said in council. Then say it among friends, and plainly – out loud. Then “Solution”.",
+                    "Hör den Satz, wie er im Rat gesagt wird. Dann sag ihn unter Freunden und schlicht – laut. Danach „Solution“."],
     "expression": "Item {n} / {alle}",
     "bonus_weekend": "🏖️ Weekend bonus +{p}", "en_feu": "Bright burns your flame! {n} days unbroken", "en_feu_text": "{n} school days unbroken – +{p} points!",
     "semaine_parfaite_titel": "Perfect is this week!", "semaine_parfaite_text": "Every school day kept – +{p} points.",
