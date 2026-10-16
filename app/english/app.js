@@ -1040,7 +1040,7 @@
     const farben = [D.theme.blau, "#ffffff", D.theme.rot];
     const box = el("div", { class: "stempel-box", role: "status", onclick: () => box.remove() },
       el("div", { class: "stempel-karte" }, svg,
-        el("div", { class: "stempel", lang: D.lang }, el("strong", {}, ort.name.toUpperCase()), el("span", {}, `${ort.dep_name} (${ort.dep}) · ${U.visite}`)),
+        el("div", { class: "stempel", lang: D.lang }, el("strong", {}, ort.name.toUpperCase()), el("span", {}, `${gebietName(ort)} · ${U.visite}`)),
         el("div", { class: "sterne", "aria-hidden": "true" }, Array.from({ length: 10 }, (_, i) =>
           el("span", { style: `--w:${i * 36}deg;--f:${farben[i % 3]}` }, "★")))));
     document.body.append(box);
@@ -1095,7 +1095,7 @@
     const frei = orteFrei(), KI = SP.karte_info;
     const karte = laenderKarte(frei, (o) => {
       fakt.hidden = false;
-      fakt.replaceChildren(el("h3", { lang: D.lang }, `${o.name} · ${o.dep_name} (${o.dep}) · ${o.region}`), frde(o.fakt, o.fakt_de, "p"),
+      fakt.replaceChildren(el("h3", { lang: D.lang }, `${o.name} · ${gebietName(o)}${o.region !== o.dep_name ? " · " + o.region : ""}`), frde(o.fakt, o.fakt_de, "p"),
         knopf(U.hoeren, () => spiele([o.audio || { text: o.fakt }])));
       spiele([o.audio || { text: o.fakt }]);
     });
@@ -1183,6 +1183,9 @@
       el("div", { class: "staaten-liste" }, liste),
       el("p", { class: "klein bildnachweis" }, KI.quelle));
   }
+
+  // Gebiet mit Code (« Moselle (57) », « Bologna (BO) »), ohne Code bei langen Kennungen (Beleriand: « Doriath »)
+  const gebietName = (o) => (o.dep && String(o.dep).length <= 3 ? `${o.dep_name} (${o.dep})` : o.dep_name);
 
   /* ---------- Offline pro Sprache: Audio-Dateien in den Audio-Speicher laden (ll-audio, siehe sw.js) ---------- */
   const AUDIO_CACHE = () => D.audio_speicher || "ll-audio";

@@ -365,7 +365,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Bright is that word!",
     "de": "Hell leuchtet dieses Wort!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_bright_word.mp3?v=fb73af9e",
     "gruppe": [
      "hell"
     ]
@@ -373,7 +373,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Keen is your tongue!",
     "de": "Scharf ist deine Zunge!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_keen_tongue.mp3?v=40de88df",
     "gruppe": [
      "scharf"
     ]
@@ -381,7 +381,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Wise are your words.",
     "de": "Weise sind deine Worte.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_wise_words.mp3?v=9a6ce7e7",
     "gruppe": [
      "weise"
     ]
@@ -389,7 +389,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Well-wrought is that phrase.",
     "de": "Gut geschmiedet ist diese Wendung.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_well_wrought.mp3?v=402b7a32",
     "gruppe": [
      "geschmiedet"
     ]
@@ -397,7 +397,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Deep runs your lore.",
     "de": "Tief reicht dein Wissen.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_deep_lore.mp3?v=cedfd9f8",
     "gruppe": [
      "wissen"
     ]
@@ -405,7 +405,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Swift was that answer.",
     "de": "Rasch kam diese Antwort.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_swift_answer.mp3?v=ef1978ff",
     "gruppe": [
      "schnell"
     ]
@@ -413,7 +413,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Unerring is your ear.",
     "de": "Unfehlbar ist dein Ohr.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_unerring_ear.mp3?v=f8ca4da4",
     "gruppe": [
      "ohr"
     ]
@@ -421,7 +421,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Sure is your hand upon the word.",
     "de": "Sicher ist deine Hand am Wort.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_sure_hand.mp3?v=43f4241f",
     "gruppe": [
      "sicher"
     ]
@@ -429,7 +429,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Apt it is, and seemly.",
     "de": "Treffend ist es, und geziemend.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_apt_seemly.mp3?v=961f4f6c",
     "gruppe": [
      "passend"
     ]
@@ -437,7 +437,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fair-spoken, and true.",
     "de": "Schön gesprochen, und wahr.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_fair_spoken.mp3?v=77b423eb",
     "gruppe": [
      "schoen"
     ]
@@ -445,7 +445,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Thus would the Eldar say it.",
     "de": "So würden es die Eldar sagen.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_thus_eldar.mp3?v=b2ce15b5",
     "gruppe": [
      "eldar"
     ]
@@ -453,7 +453,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fitting for the halls of Menegroth.",
     "de": "Würdig der Hallen von Menegroth.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_menegroth.mp3?v=a6882915",
     "gruppe": [
      "menegroth"
     ]
@@ -461,7 +461,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Clear as Sirion is your speech.",
     "de": "Klar wie der Sirion ist deine Rede.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_sirion.mp3?v=22b5b877",
     "gruppe": [
      "klar"
     ]
@@ -469,7 +469,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fëanor himself wrought no finer.",
     "de": "Fëanor selbst schmiedete nichts Feineres.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_feanor.mp3?v=09bdf52d",
     "gruppe": [
      "feanor"
     ]
@@ -477,7 +477,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Rúmil would have set it in letters.",
     "de": "Rúmil hätte es in Lettern gesetzt.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_rumil.mp3?v=7019a27a",
     "gruppe": [
      "rumil"
     ]
@@ -485,7 +485,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Not in vain were you taught in Tirion.",
     "de": "Nicht umsonst wurdest du in Tirion gelehrt.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_tirion.mp3?v=b3f6f530",
     "gruppe": [
      "tirion"
     ]
@@ -493,7 +493,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Lo! the right word.",
     "de": "Siehe! Das rechte Wort.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_lo_right_word.mp3?v=fd926b64",
     "gruppe": [
      "lo"
     ]
@@ -501,7 +501,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Mighty is that choice!",
     "de": "Mächtig ist diese Wahl!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_mighty_choice.mp3?v=2b9d5234",
     "gruppe": [
      "maechtig"
     ]
@@ -509,7 +509,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "True to the mark!",
     "de": "Genau ins Ziel!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_true_mark.mp3?v=062f0cc3",
     "gruppe": [
      "treffer"
     ]
@@ -517,7 +517,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Straight as an arrow of Beleg!",
     "de": "Gerade wie ein Pfeil Belegs!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_straight_beleg.mp3?v=87285c42",
     "gruppe": [
      "treffer"
     ]
@@ -525,7 +525,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fair is that word, and fitting.",
     "de": "Schön ist dieses Wort, und passend.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_fair_fitting.mp3?v=35f549aa",
     "gruppe": [
      "schoen"
     ]
@@ -533,7 +533,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Well chosen!",
     "de": "Gut gewählt!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_well_chosen.mp3?v=454ddbb8",
     "gruppe": [
      "wahl"
     ]
@@ -541,7 +541,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Keen-eyed, and keen of tongue.",
     "de": "Scharfäugig, und scharf von Zunge.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_keen_eye.mp3?v=a51ee45d",
     "gruppe": [
      "scharf"
     ]
@@ -549,7 +549,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "So it is written.",
     "de": "So steht es geschrieben.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_so_written.mp3?v=24839035",
     "gruppe": [
      "geschrieben"
     ]
@@ -557,7 +557,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "The loremasters would approve.",
     "de": "Die Lehrmeister würden es billigen.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_loremasters_approve.mp3?v=5e6a8d83",
     "gruppe": [
      "lore"
     ]
@@ -565,7 +565,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even Melian would nod.",
     "de": "Selbst Melian würde nicken.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_melian_nod.mp3?v=15eced17",
     "gruppe": [
      "melian"
     ]
@@ -573,7 +573,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "That would please Thingol.",
     "de": "Das würde Thingol gefallen.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_thingol.mp3?v=409e90f1",
     "gruppe": [
      "thingol"
     ]
@@ -581,7 +581,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "A word forged, not found.",
     "de": "Ein Wort, geschmiedet, nicht gefunden.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_forged_not_found.mp3?v=273a93d4",
     "gruppe": [
      "geschmiedet"
     ]
@@ -589,7 +589,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Bright as a Silmaril!",
     "de": "Hell wie ein Silmaril!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_bright_silmaril.mp3?v=a10fa996",
     "gruppe": [
      "hell"
     ]
@@ -597,7 +597,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Noble is your speech.",
     "de": "Edel ist deine Rede.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_noble_speech.mp3?v=34c0feb3",
     "gruppe": [
      "edel"
     ]
@@ -605,7 +605,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Firm is your footing on that word.",
     "de": "Fest ist dein Stand auf diesem Wort.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_firm_footing.mp3?v=67ce66fe",
     "gruppe": [
      "sicher"
     ]
@@ -613,7 +613,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Rich is your tongue, and ready.",
     "de": "Reich ist deine Zunge, und bereit.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_rich_tongue.mp3?v=b612c6d0",
     "gruppe": [
      "reich"
     ]
@@ -621,7 +621,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Sharp as a blade of Gondolin!",
     "de": "Scharf wie eine Klinge aus Gondolin!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_sharp_blade.mp3?v=e75f045d",
     "gruppe": [
      "scharf"
     ]
@@ -629,7 +629,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Steady is your voice.",
     "de": "Fest ist deine Stimme.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_steady_voice.mp3?v=39153332",
     "gruppe": [
      "sicher"
     ]
@@ -637,7 +637,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Worthy of an elven ear.",
     "de": "Würdig eines Elbenohrs.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_worthy_ear.mp3?v=2623711e",
     "gruppe": [
      "eldar"
     ]
@@ -645,7 +645,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Finely wrought, that.",
     "de": "Fein gearbeitet, dies.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_fine_wrought.mp3?v=2125fd0e",
     "gruppe": [
      "geschmiedet"
     ]
@@ -653,7 +653,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Nothing is wanting there.",
     "de": "Nichts fehlt daran.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_nothing_wanting.mp3?v=d4156314",
     "gruppe": [
      "vollkommen"
     ]
@@ -661,7 +661,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Whole and true!",
     "de": "Ganz und wahr!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_whole_true.mp3?v=829e4443",
     "gruppe": [
      "vollkommen"
     ]
@@ -669,7 +669,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Well remembered!",
     "de": "Gut erinnert!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_well_remembered.mp3?v=1026e612",
     "gruppe": [
      "erinnert"
     ]
@@ -677,7 +677,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Long is your memory, as befits the Eldar.",
     "de": "Lang ist dein Gedächtnis, wie es den Eldar ziemt.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_long_memory.mp3?v=5723b091",
     "gruppe": [
      "erinnert"
     ]
@@ -685,7 +685,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Another word won.",
     "de": "Wieder ein Wort gewonnen.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_another_won.mp3?v=e616310c",
     "gruppe": [
      "gewonnen"
     ]
@@ -693,7 +693,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "The hoard grows.",
     "de": "Der Hort wächst.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_the_hoard_grows.mp3?v=1e0fb397",
     "gruppe": [
      "gewonnen"
     ]
@@ -701,7 +701,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Onward, and well.",
     "de": "Weiter, und gut.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_onward.mp3?v=f118e4b8",
     "gruppe": [
      "weiter"
     ]
@@ -709,7 +709,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "So it stands.",
     "de": "So steht es.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_so_it_stands.mp3?v=94085c1d",
     "gruppe": [
      "geschrieben"
     ]
@@ -717,7 +717,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Rightly said.",
     "de": "Richtig gesagt.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_rightly.mp3?v=2fd24742",
     "gruppe": [
      "richtig"
     ]
@@ -725,7 +725,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Truly.",
     "de": "Wahrlich.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_truly.mp3?v=048820f0",
     "gruppe": [
      "richtig"
     ]
@@ -733,7 +733,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even so.",
     "de": "Ebenso.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_even_so.mp3?v=867de117",
     "gruppe": [
      "richtig"
     ]
@@ -741,7 +741,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "At the first cast!",
     "de": "Beim ersten Wurf!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_first_cast.mp3?v=73f69de8",
     "gruppe": [
      "erster"
     ]
@@ -749,7 +749,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Unfaltering!",
     "de": "Ohne Wanken!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_unfaltering.mp3?v=017cfd8d",
     "gruppe": [
      "sicher"
     ]
@@ -757,7 +757,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Bright and fair!",
     "de": "Hell und schön!",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_bright_fair.mp3?v=db767bd3",
     "gruppe": [
      "hell"
     ]
@@ -765,7 +765,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Maglor's ear would mark no fault.",
     "de": "Maglors Ohr fände keinen Fehl.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_ear_of_maglor.mp3?v=778c25d0",
     "gruppe": [
      "ohr"
     ]
@@ -773,7 +773,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Speech fit for kings.",
     "de": "Rede, die Königen ziemt.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_speech_of_kings.mp3?v=6e9c78e5",
     "gruppe": [
      "edel"
     ]
@@ -781,7 +781,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fair as the gardens of Lórien.",
     "de": "Schön wie die Gärten Lóriens.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_fair_as_lorien.mp3?v=af948000",
     "gruppe": [
      "schoen"
     ]
@@ -789,7 +789,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "There is light in that word.",
     "de": "Licht wohnt in diesem Wort.",
-    "audio": null,
+    "audio": "audio/en-de/lob/lob_light_in_it.mp3?v=38331ed7",
     "gruppe": [
      "hell"
     ]
@@ -799,7 +799,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Great is your gift, and greater yet shall it grow.",
     "de": "Groß ist deine Gabe, und größer noch wird sie werden.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_great_gift.mp3?v=e16c500c",
     "gruppe": [
      "gabe"
     ]
@@ -807,7 +807,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Dark is the road, yet you walk it unafraid.",
     "de": "Dunkel ist der Weg, doch du gehst ihn ohne Furcht.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_dark_road.mp3?v=3409ce56",
     "gruppe": [
      "weg"
     ]
@@ -815,7 +815,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Of this day the loremasters shall write.",
     "de": "Von diesem Tag werden die Lehrmeister schreiben.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_loremasters_write.mp3?v=1063030c",
     "gruppe": [
      "lore"
     ]
@@ -823,7 +823,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fell and fair was that answer!",
     "de": "Grimmig und schön war diese Antwort!",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_fell_fair.mp3?v=e29ce80e",
     "gruppe": [
      "fell"
     ]
@@ -831,7 +831,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even Melian, in her wisdom, would fall silent.",
     "de": "Selbst Melian, in ihrer Weisheit, würde verstummen.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_melian_silent.mp3?v=a39243a2",
     "gruppe": [
      "melian"
     ]
@@ -839,7 +839,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "No doom of Mandos lies on you tonight.",
     "de": "Kein Urteil des Mandos liegt heute Nacht auf dir.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_no_doom.mp3?v=80a2b880",
     "gruppe": [
      "mandos"
     ]
@@ -847,7 +847,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Varda has kindled a new star tonight.",
     "de": "Varda hat heute Nacht einen neuen Stern entzündet.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_new_star.mp3?v=b079b8ab",
     "gruppe": [
      "varda"
     ]
@@ -855,7 +855,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Of such deeds are songs made!",
     "de": "Aus solchen Taten werden Lieder gemacht!",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_songs_made.mp3?v=0766cec6",
     "gruppe": [
      "lied"
     ]
@@ -863,7 +863,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even the Valar would listen.",
     "de": "Selbst die Valar würden lauschen.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_valar_listen.mp3?v=247d1513",
     "gruppe": [
      "valar"
     ]
@@ -871,7 +871,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Yours is the gift of the Noldor!",
     "de": "Dein ist die Gabe der Noldor!",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_gift_noldor.mp3?v=ddebe79e",
     "gruppe": [
      "gabe"
     ]
@@ -879,7 +879,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Unbroken is your run, and bright.",
     "de": "Ungebrochen ist deine Reihe, und hell.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_unbroken.mp3?v=6911f09a",
     "gruppe": [
      "serie"
     ]
@@ -887,7 +887,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Kindled in you is a flame that does not fail.",
     "de": "Entzündet ist in dir eine Flamme, die nicht erlischt.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_flame_imperishable.mp3?v=d0c57a1a",
     "gruppe": [
      "flamme"
     ]
@@ -895,7 +895,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "High are your deeds this day.",
     "de": "Hoch sind deine Taten an diesem Tag.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_high_deeds.mp3?v=dbfe5458",
     "gruppe": [
      "taten"
     ]
@@ -903,7 +903,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Proud am I of you.",
     "de": "Stolz bin ich auf dich.",
-    "audio": null,
+    "audio": "audio/en-de/lob/stark_proud.mp3?v=3b7124a8",
     "gruppe": [
      "stolz"
     ]
@@ -913,7 +913,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Grey is the shadow, yet it passes.",
     "de": "Grau ist der Schatten, doch er vergeht.",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_grey_shadow.mp3?v=ed1dbd26",
     "gruppe": [
      "schatten"
     ]
@@ -921,7 +921,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Long is the road; take it again.",
     "de": "Lang ist der Weg; geh ihn noch einmal.",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_long_road.mp3?v=1ca6fa68",
     "gruppe": [
      "weg"
     ]
@@ -929,7 +929,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Not yet; the hour is not come.",
     "de": "Noch nicht; die Stunde ist nicht gekommen.",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_not_yet.mp3?v=24d5916a",
     "gruppe": [
      "nochnicht"
     ]
@@ -937,7 +937,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Even the wise have stumbled. Again!",
     "de": "Auch die Weisen sind gestrauchelt. Noch einmal!",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_wise_stumbled.mp3?v=ba1df00a",
     "gruppe": [
      "weise"
     ]
@@ -945,7 +945,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Fleeting was that error.",
     "de": "Flüchtig war dieser Fehler.",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_fleeting.mp3?v=1857041e",
     "gruppe": [
      "fluechtig"
     ]
@@ -953,7 +953,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Take heart, and once more.",
     "de": "Fasse Mut, und noch einmal.",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_take_heart.mp3?v=113bf5f3",
     "gruppe": [
      "mut"
     ]
@@ -961,7 +961,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Near, but not yet.",
     "de": "Nah, doch noch nicht.",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_near.mp3?v=23b7cf37",
     "gruppe": [
      "nochnicht"
     ]
@@ -969,7 +969,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "The shadow passes. Again!",
     "de": "Der Schatten vergeht. Noch einmal!",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_shadow_passes.mp3?v=264eb7ff",
     "gruppe": [
      "schatten"
     ]
@@ -977,7 +977,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Small is that stumble.",
     "de": "Klein ist dieser Stolperer.",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_small_stumble.mp3?v=3b9157e6",
     "gruppe": [
      "fluechtig"
     ]
@@ -985,7 +985,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Hmm…",
     "de": "Hmm…",
-    "audio": null,
+    "audio": "audio/en-de/lob/fehler_hmm.mp3?v=4ce5eef0",
     "gruppe": [
      "hmm"
     ]
@@ -995,7 +995,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Ended is the labour of this day. Rest, and return.",
     "de": "Beendet ist die Arbeit dieses Tages. Ruhe, und kehre zurück.",
-    "audio": null,
+    "audio": "audio/en-de/lob/geschafft_ended.mp3?v=55de9b7a",
     "gruppe": [
      "fertig"
     ]
@@ -1003,7 +1003,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Quiet now are the forges. Hail, and until tomorrow!",
     "de": "Still sind nun die Schmieden. Heil, und bis morgen!",
-    "audio": null,
+    "audio": "audio/en-de/lob/geschafft_forges.mp3?v=2380055c",
     "gruppe": [
      "fertig"
     ]
@@ -1011,7 +1011,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Done is the day's work, and well done.",
     "de": "Getan ist das Tagewerk, und gut getan.",
-    "audio": null,
+    "audio": "audio/en-de/lob/geschafft_well_done.mp3?v=346442ee",
     "gruppe": [
      "fertig"
     ]
@@ -1021,7 +1021,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "Flawless, as a Silmaril is flawless!",
     "de": "Makellos, wie ein Silmaril makellos ist!",
-    "audio": null,
+    "audio": "audio/en-de/lob/voll_flawless.mp3?v=e49ede5c",
     "gruppe": [
      "voll"
     ]
@@ -1031,7 +1031,7 @@ window.SPRACHEN["en-de"] = {
    {
     "text": "You see? Yours it was all along.",
     "de": "Siehst du? Dein war es die ganze Zeit.",
-    "audio": null,
+    "audio": "audio/en-de/lob/doch_you_see.mp3?v=2c005943",
     "gruppe": [
      "doch"
     ]
@@ -1052,8 +1052,730 @@ window.SPRACHEN["en-de"] = {
   120
  ],
  "spiel": {
-  "orte": [],
-  "karte": {},
+  "orte": [
+   {
+    "id": "menegroth",
+    "name": "Menegroth",
+    "region": "Doriath",
+    "dep": "doriath",
+    "dep_name": "Doriath",
+    "x": 300.0,
+    "y": 300.0,
+    "fakt": "Menegroth, the Thousand Caves, hall of Thingol and Melian beneath the hill by Esgalduin; the Dwarves of Belegost delved it, and fairest of all dwellings it was, east of the Sea.",
+    "fakt_de": "Menegroth, die Tausend Grotten, Halle Thingols und Melians unter dem Hügel am Esgalduin; die Zwerge von Belegost gruben sie, und die schönste aller Wohnstätten war sie östlich des Meeres.",
+    "audio": "audio/en-de/orte/menegroth.mp3?v=7d754e1d"
+   },
+   {
+    "id": "neldoreth",
+    "name": "Neldoreth",
+    "region": "Doriath",
+    "dep": "doriath",
+    "dep_name": "Doriath",
+    "x": 300.0,
+    "y": 360.0,
+    "fakt": "Neldoreth, the northern forest of Doriath, where the beeches stand; there Thingol first saw Melian, and the stars were in her face.",
+    "fakt_de": "Neldoreth, der nördliche Wald von Doriath, wo die Buchen stehen; dort sah Thingol zum ersten Mal Melian, und die Sterne lagen in ihrem Gesicht.",
+    "audio": "audio/en-de/orte/neldoreth.mp3?v=d42ba122"
+   },
+   {
+    "id": "region",
+    "name": "Forest of Region",
+    "region": "Doriath",
+    "dep": "doriath",
+    "dep_name": "Doriath",
+    "x": 348.0,
+    "y": 360.0,
+    "fakt": "Region, the southern wood of Doriath, denser and darker than Neldoreth; within the Girdle of Melian no enemy came, save by her will.",
+    "fakt_de": "Region, der südliche Wald von Doriath, dichter und dunkler als Neldoreth; in den Gürtel Melians kam kein Feind, außer nach ihrem Willen.",
+    "audio": "audio/en-de/orte/region.mp3?v=e4e036d4"
+   },
+   {
+    "id": "hirilorn",
+    "name": "Hirilorn",
+    "region": "Doriath",
+    "dep": "doriath",
+    "dep_name": "Doriath",
+    "x": 276.0,
+    "y": 330.0,
+    "fakt": "Hirilorn, the great beech of three trunks, in whose branches Lúthien was kept; and she wove her hair into a cloak of shadow and escaped.",
+    "fakt_de": "Hirilorn, die große Buche mit drei Stämmen, in deren Ästen Lúthien gefangen gehalten wurde; und sie wob ihr Haar zu einem Mantel aus Schatten und entkam.",
+    "audio": "audio/en-de/orte/hirilorn.mp3?v=fdc78575"
+   },
+   {
+    "id": "aelinuial",
+    "name": "Aelin-uial",
+    "region": "Doriath",
+    "dep": "doriath",
+    "dep_name": "Doriath",
+    "x": 264.0,
+    "y": 378.0,
+    "fakt": "Aelin-uial, the Meres of Twilight, where Aros flows into Sirion and the land is mist and reeds; the Girdle of Melian reached even here.",
+    "fakt_de": "Aelin-uial, die Dämmerseen, wo der Aros in den Sirion fließt und das Land Nebel und Schilf ist; der Gürtel Melians reichte bis hierher.",
+    "audio": "audio/en-de/orte/aelinuial.mp3?v=2273459e"
+   },
+   {
+    "id": "dimbar",
+    "name": "Dimbar",
+    "region": "Dimbar",
+    "dep": "dimbar",
+    "dep_name": "Dimbar",
+    "x": 216.0,
+    "y": 264.0,
+    "fakt": "Dimbar, the empty land between Sirion and Mindeb, under the shadow of the Crissaegrim; there the eagles of Thorondor kept watch.",
+    "fakt_de": "Dimbar, das leere Land zwischen Sirion und Mindeb, im Schatten der Crissaegrim; dort hielten die Adler Thorondors Wache.",
+    "audio": "audio/en-de/orte/dimbar.mp3?v=c7d5ca67"
+   },
+   {
+    "id": "tolsirion",
+    "name": "Tol Sirion",
+    "region": "Dimbar",
+    "dep": "dimbar",
+    "dep_name": "Dimbar",
+    "x": 192.0,
+    "y": 246.0,
+    "fakt": "Tol Sirion, the isle in the river, where Finrod built Minas Tirith; Sauron took it and named it Tol-in-Gaurhoth, the Isle of Werewolves, until Lúthien and Huan cast him down.",
+    "fakt_de": "Tol Sirion, die Insel im Fluss, wo Finrod Minas Tirith baute; Sauron nahm sie und nannte sie Tol-in-Gaurhoth, die Werwolfinsel, bis Lúthien und Huan ihn niederwarfen.",
+    "audio": "audio/en-de/orte/tolsirion.mp3?v=25a0b8df"
+   },
+   {
+    "id": "brethil",
+    "name": "Brethil",
+    "region": "Forest of Brethil",
+    "dep": "brethil",
+    "dep_name": "Forest of Brethil",
+    "x": 204.0,
+    "y": 330.0,
+    "fakt": "Brethil, the forest between Teiglin and Sirion, home of the Haladin, the people of Haleth; Thingol granted it, and they held it long.",
+    "fakt_de": "Brethil, der Wald zwischen Teiglin und Sirion, Heimat der Haladin, des Volkes von Haleth; Thingol gewährte ihn, und sie hielten ihn lange.",
+    "audio": "audio/en-de/orte/brethil.mp3?v=3673eedc"
+   },
+   {
+    "id": "teiglin",
+    "name": "Crossings of Teiglin",
+    "region": "Forest of Brethil",
+    "dep": "brethil",
+    "dep_name": "Forest of Brethil",
+    "x": 174.0,
+    "y": 348.0,
+    "fakt": "The Crossings of Teiglin, where the old road passed into Brethil; here the dragon Glaurung came at last, and here Túrin slew him at Cabed-en-Aras.",
+    "fakt_de": "Die Furten des Teiglin, wo die alte Straße nach Brethil führte; hierher kam zuletzt der Drache Glaurung, und hier erschlug ihn Túrin bei Cabed-en-Aras.",
+    "audio": "audio/en-de/orte/teiglin.mp3?v=17aa6093"
+   },
+   {
+    "id": "amonobel",
+    "name": "Amon Obel",
+    "region": "Forest of Brethil",
+    "dep": "brethil",
+    "dep_name": "Forest of Brethil",
+    "x": 228.0,
+    "y": 312.0,
+    "fakt": "Amon Obel, the hill in the midst of Brethil, where the Haladin built Ephel Brandir, their fenced dwelling.",
+    "fakt_de": "Amon Obel, der Hügel inmitten Brethils, wo die Haladin Ephel Brandir errichteten, ihre umzäunte Wohnstatt.",
+    "audio": "audio/en-de/orte/amonobel.mp3?v=1d0b30c2"
+   },
+   {
+    "id": "cabedenaras",
+    "name": "Cabed-en-Aras",
+    "region": "Forest of Brethil",
+    "dep": "brethil",
+    "dep_name": "Forest of Brethil",
+    "x": 180.0,
+    "y": 360.0,
+    "fakt": "Cabed-en-Aras, the Deer's Leap, the gorge of Teiglin; there Glaurung died, and there Nienor and Túrin ended, and no one came thereafter.",
+    "fakt_de": "Cabed-en-Aras, der Hirschsprung, die Schlucht des Teiglin; dort starb Glaurung, und dort endeten Nienor und Túrin, und niemand kam danach dorthin.",
+    "audio": "audio/en-de/orte/cabedenaras.mp3?v=fb58f70d"
+   },
+   {
+    "id": "talathdirnen",
+    "name": "Talath Dirnen",
+    "region": "Talath Dirnen",
+    "dep": "talathdirnen",
+    "dep_name": "Talath Dirnen",
+    "x": 114.0,
+    "y": 312.0,
+    "fakt": "Talath Dirnen, the Guarded Plain north of Nargothrond, watched in secret by the Elves of Finrod; no stranger crossed it unseen.",
+    "fakt_de": "Talath Dirnen, die Bewachte Ebene nördlich von Nargothrond, heimlich überwacht von Finrods Elben; kein Fremder überquerte sie ungesehen.",
+    "audio": "audio/en-de/orte/talathdirnen.mp3?v=b411576d"
+   },
+   {
+    "id": "amonrudh",
+    "name": "Amon Rûdh",
+    "region": "Talath Dirnen",
+    "dep": "talathdirnen",
+    "dep_name": "Talath Dirnen",
+    "x": 132.0,
+    "y": 342.0,
+    "fakt": "Amon Rûdh, the Bald Hill, red-capped with seregon; the Petty-dwarf Mîm dwelt there, and Túrin's outlaws with him, until betrayal.",
+    "fakt_de": "Amon Rûdh, der Kahle Hügel, rot bedeckt mit Seregon; dort wohnte der Kleinzwerg Mîm, und Túrins Geächtete mit ihm, bis zum Verrat.",
+    "audio": "audio/en-de/orte/amonrudh.mp3?v=c9ee655d"
+   },
+   {
+    "id": "ivrin",
+    "name": "Eithel Ivrin",
+    "region": "Talath Dirnen",
+    "dep": "talathdirnen",
+    "dep_name": "Talath Dirnen",
+    "x": 96.0,
+    "y": 282.0,
+    "fakt": "Eithel Ivrin, the pools of Ivrin under Ered Wethrin, where Narog rises; there Túrin was healed of his madness, until Glaurung defiled the waters.",
+    "fakt_de": "Eithel Ivrin, die Teiche von Ivrin unter den Ered Wethrin, wo der Narog entspringt; dort wurde Túrin von seinem Wahn geheilt, bis Glaurung die Wasser schändete.",
+    "audio": "audio/en-de/orte/ivrin.mp3?v=3e4b38aa"
+   },
+   {
+    "id": "nargothrond",
+    "name": "Nargothrond",
+    "region": "Nargothrond",
+    "dep": "nargothrond",
+    "dep_name": "Nargothrond",
+    "x": 108.0,
+    "y": 402.0,
+    "fakt": "Nargothrond, the hidden city of Finrod Felagund in the caves above Narog, made after the manner of Menegroth; Túrin counselled the bridge, and by the bridge the dragon came.",
+    "fakt_de": "Nargothrond, die verborgene Stadt Finrod Felagunds in den Höhlen über dem Narog, nach dem Vorbild von Menegroth; Túrin riet zur Brücke, und über die Brücke kam der Drache.",
+    "audio": "audio/en-de/orte/nargothrond.mp3?v=59b69558"
+   },
+   {
+    "id": "taurenfaroth",
+    "name": "Taur-en-Faroth",
+    "region": "Nargothrond",
+    "dep": "nargothrond",
+    "dep_name": "Nargothrond",
+    "x": 84.0,
+    "y": 426.0,
+    "fakt": "Taur-en-Faroth, the High Faroth, the wooded hills on the west bank of Narog above the doors of Nargothrond.",
+    "fakt_de": "Taur-en-Faroth, der Hohe Faroth, die bewaldeten Hügel am Westufer des Narog über den Toren von Nargothrond.",
+    "audio": "audio/en-de/orte/taurenfaroth.mp3?v=48648fd4"
+   },
+   {
+    "id": "brithombar",
+    "name": "Brithombar",
+    "region": "The Falas",
+    "dep": "falas",
+    "dep_name": "The Falas",
+    "x": 30.0,
+    "y": 378.0,
+    "fakt": "Brithombar, the northern Haven of the Falas, where Círdan the Shipwright ruled; rebuilt by the Noldor, and broken at last by Morgoth after the Nirnaeth.",
+    "fakt_de": "Brithombar, der nördliche Hafen der Falas, wo Círdan der Schiffbauer herrschte; von den Noldor neu errichtet und nach der Nirnaeth von Morgoth zerstört.",
+    "audio": "audio/en-de/orte/brithombar.mp3?v=b15f9e15"
+   },
+   {
+    "id": "eglarest",
+    "name": "Eglarest",
+    "region": "The Falas",
+    "dep": "falas",
+    "dep_name": "The Falas",
+    "x": 30.0,
+    "y": 438.0,
+    "fakt": "Eglarest, the southern Haven at the mouth of Nenning; from here the survivors fled to the Isle of Balar when the Havens fell.",
+    "fakt_de": "Eglarest, der südliche Hafen an der Mündung des Nenning; von hier flohen die Überlebenden auf die Insel Balar, als die Häfen fielen.",
+    "audio": "audio/en-de/orte/eglarest.mp3?v=f7299209"
+   },
+   {
+    "id": "nevrast",
+    "name": "Nevrast",
+    "region": "Nevrast",
+    "dep": "nevrast",
+    "dep_name": "Nevrast",
+    "x": 42.0,
+    "y": 318.0,
+    "fakt": "Nevrast, the Hither Shore, where Turgon dwelt before Gondolin; a land of marsh and sea-birds between Taras and the Ered Lómin.",
+    "fakt_de": "Nevrast, das Diesseitige Ufer, wo Turgon wohnte, bevor es Gondolin gab; ein Land aus Marsch und Seevögeln zwischen Taras und den Ered Lómin.",
+    "audio": "audio/en-de/orte/nevrast.mp3?v=d085c9d4"
+   },
+   {
+    "id": "vinyamar",
+    "name": "Vinyamar",
+    "region": "Nevrast",
+    "dep": "nevrast",
+    "dep_name": "Nevrast",
+    "x": 24.0,
+    "y": 336.0,
+    "fakt": "Vinyamar, Turgon's first halls under Mount Taras; there he left arms and armour at Ulmo's bidding, and Tuor found them long after.",
+    "fakt_de": "Vinyamar, Turgons erste Hallen unter dem Berg Taras; dort ließ er auf Ulmos Geheiß Waffen und Rüstung zurück, und Tuor fand sie lange danach.",
+    "audio": "audio/en-de/orte/vinyamar.mp3?v=3b934f35"
+   },
+   {
+    "id": "taras",
+    "name": "Mount Taras",
+    "region": "Nevrast",
+    "dep": "nevrast",
+    "dep_name": "Nevrast",
+    "x": 18.0,
+    "y": 294.0,
+    "fakt": "Mount Taras, the headland of Nevrast; beneath it Ulmo rose from the sea and spoke to Tuor, and sent him to Gondolin.",
+    "fakt_de": "Berg Taras, das Kap von Nevrast; unter ihm stieg Ulmo aus dem Meer und sprach zu Tuor und sandte ihn nach Gondolin.",
+    "audio": "audio/en-de/orte/taras.mp3?v=3a6e7803"
+   },
+   {
+    "id": "dorlomin",
+    "name": "Dor-lómin",
+    "region": "Dor-lómin",
+    "dep": "dorlomin",
+    "dep_name": "Dor-lómin",
+    "x": 102.0,
+    "y": 234.0,
+    "fakt": "Dor-lómin, the land of Hador's house in Hithlum, where Húrin was lord; after the Nirnaeth the Easterlings held it, and Morwen endured there.",
+    "fakt_de": "Dor-lómin, das Land des Hauses Hador in Hithlum, wo Húrin Herr war; nach der Nirnaeth hielten es die Ostlinge, und Morwen harrte dort aus.",
+    "audio": "audio/en-de/orte/dorlomin.mp3?v=8a9783be"
+   },
+   {
+    "id": "mithrim",
+    "name": "Lake Mithrim",
+    "region": "Hithlum",
+    "dep": "hithlum",
+    "dep_name": "Hithlum",
+    "x": 102.0,
+    "y": 138.0,
+    "fakt": "Mithrim, the lake in Hithlum where the Noldor first camped in Middle-earth, under the new Sun; and Fingolfin's host came over the Ice and found the camp of Fëanor's sons.",
+    "fakt_de": "Mithrim, der See in Hithlum, an dem die Noldor zuerst in Mittelerde lagerten, unter der neuen Sonne; und Fingolfins Heer kam über das Eis und fand das Lager der Söhne Fëanors.",
+    "audio": "audio/en-de/orte/mithrim.mp3?v=d51a59c9"
+   },
+   {
+    "id": "eithelsirion",
+    "name": "Eithel Sirion",
+    "region": "Hithlum",
+    "dep": "hithlum",
+    "dep_name": "Hithlum",
+    "x": 162.0,
+    "y": 162.0,
+    "fakt": "Eithel Sirion, Sirion's Well, and Barad Eithel above it, the fortress of Fingolfin and Fingon on the east face of Ered Wethrin.",
+    "fakt_de": "Eithel Sirion, Sirions Quell, und Barad Eithel darüber, die Festung Fingolfins und Fingons an der Ostflanke der Ered Wethrin.",
+    "audio": "audio/en-de/orte/eithelsirion.mp3?v=bafc0dde"
+   },
+   {
+    "id": "gondolin",
+    "name": "Gondolin",
+    "region": "Tumladen (Gondolin)",
+    "dep": "gondolin",
+    "dep_name": "Tumladen (Gondolin)",
+    "x": 222.0,
+    "y": 192.0,
+    "fakt": "Gondolin, the Hidden Rock, the city of Turgon on the hill of Amon Gwareth; fairest of the cities of the Noldor in exile, and the last to fall.",
+    "fakt_de": "Gondolin, der Verborgene Fels, die Stadt Turgons auf dem Hügel Amon Gwareth; die schönste der Städte der Noldor im Exil, und die letzte, die fiel.",
+    "audio": "audio/en-de/orte/gondolin.mp3?v=4726318d"
+   },
+   {
+    "id": "tumladen",
+    "name": "Tumladen",
+    "region": "Tumladen (Gondolin)",
+    "dep": "gondolin",
+    "dep_name": "Tumladen (Gondolin)",
+    "x": 204.0,
+    "y": 216.0,
+    "fakt": "Tumladen, the hidden vale ringed by the Echoriath, the Encircling Mountains; only the eagles knew the way, and the Dry River.",
+    "fakt_de": "Tumladen, das verborgene Tal, umringt von den Echoriath, den Umzingelnden Bergen; nur die Adler kannten den Weg, und der Trockene Fluss.",
+    "audio": "audio/en-de/orte/tumladen.mp3?v=d4865b46"
+   },
+   {
+    "id": "dorthonion",
+    "name": "Dorthonion",
+    "region": "Dorthonion (Taur-nu-Fuin)",
+    "dep": "dorthonion",
+    "dep_name": "Dorthonion (Taur-nu-Fuin)",
+    "x": 342.0,
+    "y": 192.0,
+    "fakt": "Dorthonion, the pine highland held by Angrod and Aegnor; after the Dagor Bragollach it became Taur-nu-Fuin, the Forest under Nightshade.",
+    "fakt_de": "Dorthonion, das Kiefernhochland, das Angrod und Aegnor hielten; nach der Dagor Bragollach wurde es Taur-nu-Fuin, der Wald unter Nachtschatten.",
+    "audio": "audio/en-de/orte/dorthonion.mp3?v=6355b7b8"
+   },
+   {
+    "id": "aeluin",
+    "name": "Tarn Aeluin",
+    "region": "Dorthonion (Taur-nu-Fuin)",
+    "dep": "dorthonion",
+    "dep_name": "Dorthonion (Taur-nu-Fuin)",
+    "x": 372.0,
+    "y": 210.0,
+    "fakt": "Tarn Aeluin, the blue lake in Dorthonion, the last refuge of Barahir and his twelve companions; there they were betrayed, and there Beren avenged them.",
+    "fakt_de": "Tarn Aeluin, der blaue See in Dorthonion, die letzte Zuflucht Barahirs und seiner zwölf Gefährten; dort wurden sie verraten, und dort rächte Beren sie.",
+    "audio": "audio/en-de/orte/aeluin.mp3?v=fec00d99"
+   },
+   {
+    "id": "ladros",
+    "name": "Ladros",
+    "region": "Dorthonion (Taur-nu-Fuin)",
+    "dep": "dorthonion",
+    "dep_name": "Dorthonion (Taur-nu-Fuin)",
+    "x": 396.0,
+    "y": 174.0,
+    "fakt": "Ladros, the lands in the north-east of Dorthonion given to the house of Bëor by Finrod; the first fief of Men among the Elves.",
+    "fakt_de": "Ladros, die Länder im Nordosten Dorthonions, die Finrod dem Hause Bëor gab; das erste Lehen der Menschen unter den Elben.",
+    "audio": "audio/en-de/orte/ladros.mp3?v=546e0bcf"
+   },
+   {
+    "id": "nandungortheb",
+    "name": "Nan Dungortheb",
+    "region": "Nan Dungortheb",
+    "dep": "nandungortheb",
+    "dep_name": "Nan Dungortheb",
+    "x": 336.0,
+    "y": 252.0,
+    "fakt": "Nan Dungortheb, the Valley of Dreadful Death, between Ered Gorgoroth and the Girdle of Melian; the spawn of Ungoliant haunted it, and Beren passed through it alone.",
+    "fakt_de": "Nan Dungortheb, das Tal des Grauenvollen Todes, zwischen Ered Gorgoroth und dem Gürtel Melians; die Brut Ungoliants hauste dort, und Beren durchquerte es allein.",
+    "audio": "audio/en-de/orte/nandungortheb.mp3?v=3f6ebe00"
+   },
+   {
+    "id": "ardgalen",
+    "name": "Ard-galen",
+    "region": "Ard-galen (Anfauglith)",
+    "dep": "ardgalen",
+    "dep_name": "Ard-galen (Anfauglith)",
+    "x": 300.0,
+    "y": 114.0,
+    "fakt": "Ard-galen, the green plain before Angband, where the Noldor kept the Siege for near four hundred years; the fire of the Bragollach made it Anfauglith, the Gasping Dust.",
+    "fakt_de": "Ard-galen, die grüne Ebene vor Angband, wo die Noldor fast vierhundert Jahre die Belagerung hielten; das Feuer der Bragollach machte sie zur Anfauglith, dem Keuchenden Staub.",
+    "audio": "audio/en-de/orte/ardgalen.mp3?v=14df543d"
+   },
+   {
+    "id": "haudh",
+    "name": "Haudh-en-Ndengin",
+    "region": "Ard-galen (Anfauglith)",
+    "dep": "ardgalen",
+    "dep_name": "Ard-galen (Anfauglith)",
+    "x": 240.0,
+    "y": 126.0,
+    "fakt": "Haudh-en-Ndengin, the Hill of the Slain, raised by the Orcs from the dead of the Nirnaeth Arnoediad; grass grew there alone in all the desert.",
+    "fakt_de": "Haudh-en-Ndengin, der Hügel der Erschlagenen, von den Orks aus den Toten der Nirnaeth Arnoediad aufgeworfen; Gras wuchs dort allein in der ganzen Wüste.",
+    "audio": "audio/en-de/orte/haudh.mp3?v=8db507d8"
+   },
+   {
+    "id": "thangorodrim",
+    "name": "Thangorodrim",
+    "region": "Angband",
+    "dep": "angband",
+    "dep_name": "Angband",
+    "x": 300.0,
+    "y": 60.0,
+    "fakt": "Thangorodrim, the three peaks heaped above Angband by Morgoth; on its height Maedhros hung by the wrist, until Fingon and Thorondor came.",
+    "fakt_de": "Thangorodrim, die drei Gipfel, die Morgoth über Angband aufhäufte; auf seiner Höhe hing Maedhros am Handgelenk, bis Fingon und Thorondor kamen.",
+    "audio": "audio/en-de/orte/thangorodrim.mp3?v=e9c1b067"
+   },
+   {
+    "id": "angband",
+    "name": "Angband",
+    "region": "Angband",
+    "dep": "angband",
+    "dep_name": "Angband",
+    "x": 264.0,
+    "y": 48.0,
+    "fakt": "Angband, the Hells of Iron, Morgoth's fortress beneath the mountains; from its gate came Glaurung, and into its deepest hall went Beren and Lúthien.",
+    "fakt_de": "Angband, die Eisenhöllen, Morgoths Festung unter den Bergen; aus seinem Tor kam Glaurung, und in seine tiefste Halle gingen Beren und Lúthien.",
+    "audio": "audio/en-de/orte/angband.mp3?v=848f78e0"
+   },
+   {
+    "id": "himring",
+    "name": "Himring",
+    "region": "March of Maedhros",
+    "dep": "march",
+    "dep_name": "March of Maedhros",
+    "x": 468.0,
+    "y": 186.0,
+    "fakt": "Himring, the Ever-cold, the hill-fortress of Maedhros on the March; it alone held when the fire of the Bragollach swept the north.",
+    "fakt_de": "Himring, der Immerkalte, die Hügelfestung des Maedhros an der Mark; er allein hielt stand, als das Feuer der Bragollach den Norden überzog.",
+    "audio": "audio/en-de/orte/himring.mp3?v=bb523a4f"
+   },
+   {
+    "id": "maglorsgap",
+    "name": "Maglor's Gap",
+    "region": "March of Maedhros",
+    "dep": "march",
+    "dep_name": "March of Maedhros",
+    "x": 516.0,
+    "y": 204.0,
+    "fakt": "Maglor's Gap, the open land between Himring and the Blue Mountains, hardest of all the marches to hold; through it Glaurung came.",
+    "fakt_de": "Maglors Lücke, das offene Land zwischen Himring und den Blauen Bergen, von allen Marken am schwersten zu halten; durch sie kam Glaurung.",
+    "audio": "audio/en-de/orte/maglorsgap.mp3?v=acd7e7e8"
+   },
+   {
+    "id": "lothlann",
+    "name": "Lothlann",
+    "region": "Lothlann",
+    "dep": "lothlann",
+    "dep_name": "Lothlann",
+    "x": 504.0,
+    "y": 114.0,
+    "fakt": "Lothlann, the wide and empty plain north of the March, where the horsemen of Maglor rode; nothing stood between it and Angband.",
+    "fakt_de": "Lothlann, die weite und leere Ebene nördlich der Mark, wo die Reiter Maglors ritten; nichts stand zwischen ihr und Angband.",
+    "audio": "audio/en-de/orte/lothlann.mp3?v=f7e04878"
+   },
+   {
+    "id": "himlad",
+    "name": "Himlad",
+    "region": "Himlad",
+    "dep": "himlad",
+    "dep_name": "Himlad",
+    "x": 462.0,
+    "y": 270.0,
+    "fakt": "Himlad, the Cool Plain between Aros and Celon, held by Celegorm and Curufin; the Dwarf-road ran along its edge.",
+    "fakt_de": "Himlad, die Kühle Ebene zwischen Aros und Celon, gehalten von Celegorm und Curufin; die Zwergenstraße lief an ihrem Rand entlang.",
+    "audio": "audio/en-de/orte/himlad.mp3?v=d68634cc"
+   },
+   {
+    "id": "aglon",
+    "name": "Pass of Aglon",
+    "region": "Himlad",
+    "dep": "himlad",
+    "dep_name": "Himlad",
+    "x": 444.0,
+    "y": 246.0,
+    "fakt": "The Pass of Aglon, between Dorthonion and Himring, guarded by Celegorm and Curufin; a narrow way, and a cold wind in it.",
+    "fakt_de": "Der Pass von Aglon, zwischen Dorthonion und Himring, bewacht von Celegorm und Curufin; ein schmaler Weg, und ein kalter Wind darin.",
+    "audio": "audio/en-de/orte/aglon.mp3?v=31fc0f22"
+   },
+   {
+    "id": "helevorn",
+    "name": "Lake Helevorn",
+    "region": "Thargelion",
+    "dep": "thargelion",
+    "dep_name": "Thargelion",
+    "x": 558.0,
+    "y": 270.0,
+    "fakt": "Helevorn, the dark lake under Mount Rerir, by which Caranthir dwelt; the Dwarves came to him there, and Haleth's people after.",
+    "fakt_de": "Helevorn, der dunkle See unter dem Berg Rerir, an dem Caranthir wohnte; die Zwerge kamen dort zu ihm, und das Volk Haleths danach.",
+    "audio": "audio/en-de/orte/helevorn.mp3?v=138e7f5a"
+   },
+   {
+    "id": "rerir",
+    "name": "Mount Rerir",
+    "region": "Thargelion",
+    "dep": "thargelion",
+    "dep_name": "Thargelion",
+    "x": 576.0,
+    "y": 246.0,
+    "fakt": "Mount Rerir, the great mountain of the Ered Luin, where Gelion has its northern source.",
+    "fakt_de": "Berg Rerir, der große Berg der Ered Luin, wo der Gelion seine nördliche Quelle hat.",
+    "audio": "audio/en-de/orte/rerir.mp3?v=0a774b6a"
+   },
+   {
+    "id": "sarnathrad",
+    "name": "Sarn Athrad",
+    "region": "Thargelion",
+    "dep": "thargelion",
+    "dep_name": "Thargelion",
+    "x": 540.0,
+    "y": 342.0,
+    "fakt": "Sarn Athrad, the Ford of Stones on Gelion, where the Dwarf-road crossed; there Beren waylaid the Dwarves of Nogrod and won back the Nauglamír.",
+    "fakt_de": "Sarn Athrad, die Steinfurt am Gelion, wo die Zwergenstraße hinüberführte; dort lauerte Beren den Zwergen von Nogrod auf und gewann das Nauglamír zurück.",
+    "audio": "audio/en-de/orte/sarnathrad.mp3?v=eed8a7a2"
+   },
+   {
+    "id": "estolad",
+    "name": "Estolad",
+    "region": "Estolad",
+    "dep": "estolad",
+    "dep_name": "Estolad",
+    "x": 456.0,
+    "y": 348.0,
+    "fakt": "Estolad, the Encampment, where the first Men who came over the mountains dwelt under Finrod's protection; the folk of Bëor and of Marach.",
+    "fakt_de": "Estolad, das Lager, wo die ersten Menschen, die über die Berge kamen, unter Finrods Schutz wohnten; das Volk Bëors und das Volk Marachs.",
+    "audio": "audio/en-de/orte/estolad.mp3?v=35b27064"
+   },
+   {
+    "id": "amonereb",
+    "name": "Amon Ereb",
+    "region": "Ossiriand",
+    "dep": "ossiriand",
+    "dep_name": "Ossiriand",
+    "x": 480.0,
+    "y": 414.0,
+    "fakt": "Amon Ereb, the Lonely Hill in the east, where Denethor of the Laiquendi fell in the first battle, and where the sons of Fëanor dwelt at the last.",
+    "fakt_de": "Amon Ereb, der Einsame Hügel im Osten, wo Denethor von den Laiquendi in der ersten Schlacht fiel, und wo die Söhne Fëanors zuletzt wohnten.",
+    "audio": "audio/en-de/orte/amonereb.mp3?v=6a3ea724"
+   },
+   {
+    "id": "ossiriand",
+    "name": "Ossiriand",
+    "region": "Ossiriand",
+    "dep": "ossiriand",
+    "dep_name": "Ossiriand",
+    "x": 528.0,
+    "y": 480.0,
+    "fakt": "Ossiriand, the Land of Seven Rivers, the green country of the Laiquendi beneath the Blue Mountains; its singing was heard, but its people seldom seen.",
+    "fakt_de": "Ossiriand, das Land der Sieben Flüsse, das grüne Land der Laiquendi unter den Blauen Bergen; sein Singen hörte man, doch sein Volk sah man selten.",
+    "audio": "audio/en-de/orte/ossiriand.mp3?v=76140159"
+   },
+   {
+    "id": "tolgalen",
+    "name": "Tol Galen",
+    "region": "Ossiriand",
+    "dep": "ossiriand",
+    "dep_name": "Ossiriand",
+    "x": 552.0,
+    "y": 534.0,
+    "fakt": "Tol Galen, the Green Isle in the river Adurant, where Beren and Lúthien lived their second life, and no mortal spoke with them again.",
+    "fakt_de": "Tol Galen, die Grüne Insel im Fluss Adurant, wo Beren und Lúthien ihr zweites Leben lebten, und kein Sterblicher sprach wieder mit ihnen.",
+    "audio": "audio/en-de/orte/tolgalen.mp3?v=358e1fec"
+   },
+   {
+    "id": "nantathren",
+    "name": "Nan-tathren",
+    "region": "Nan-tathren",
+    "dep": "nantathren",
+    "dep_name": "Nan-tathren",
+    "x": 204.0,
+    "y": 438.0,
+    "fakt": "Nan-tathren, the Land of Willows, where Narog joins Sirion; there Tuor and Voronwë lingered among the flowers, and there Ulmo's voice was in the water.",
+    "fakt_de": "Nan-tathren, das Weidenland, wo der Narog in den Sirion mündet; dort verweilten Tuor und Voronwë unter den Blumen, und dort war Ulmos Stimme im Wasser.",
+    "audio": "audio/en-de/orte/nantathren.mp3?v=7b3eb2bf"
+   },
+   {
+    "id": "mouths",
+    "name": "Mouths of Sirion",
+    "region": "Mouths of Sirion",
+    "dep": "mouths",
+    "dep_name": "Mouths of Sirion",
+    "x": 204.0,
+    "y": 534.0,
+    "fakt": "The Mouths of Sirion, where the last refuge of Elves and Men was gathered after the fall of Gondolin and Doriath; from here Eärendil set sail.",
+    "fakt_de": "Die Sirionmündungen, wo die letzte Zuflucht der Elben und Menschen nach dem Fall von Gondolin und Doriath versammelt war; von hier segelte Eärendil.",
+    "audio": "audio/en-de/orte/mouths.mp3?v=39f70fd2"
+   },
+   {
+    "id": "arvernien",
+    "name": "Arvernien",
+    "region": "Arvernien",
+    "dep": "arvernien",
+    "dep_name": "Arvernien",
+    "x": 114.0,
+    "y": 498.0,
+    "fakt": "Arvernien, the coast west of the Mouths of Sirion, where Eärendil dwelt with Elwing, and built Vingilot in the Havens.",
+    "fakt_de": "Arvernien, die Küste westlich der Sirionmündungen, wo Eärendil mit Elwing wohnte und in den Häfen die Vingilot baute.",
+    "audio": "audio/en-de/orte/arvernien.mp3?v=83f363d0"
+   },
+   {
+    "id": "taurimduinath",
+    "name": "Taur-im-Duinath",
+    "region": "Taur-im-Duinath",
+    "dep": "taurimduinath",
+    "dep_name": "Taur-im-Duinath",
+    "x": 336.0,
+    "y": 480.0,
+    "fakt": "Taur-im-Duinath, the Forest between the Rivers, south of the Andram, wild and pathless; few even of the Elves went there.",
+    "fakt_de": "Taur-im-Duinath, der Wald zwischen den Flüssen, südlich des Andram, wild und weglos; selbst von den Elben gingen wenige dorthin.",
+    "audio": "audio/en-de/orte/taurimduinath.mp3?v=2c288646"
+   }
+  ],
+  "karte": {
+   "angband": {
+    "d": "M228.0 78.0 L372.0 78.0 L384.0 30.0 L216.0 30.0 L228.0 78.0 Z",
+    "nom": "Angband",
+    "region": "the North"
+   },
+   "lothlann": {
+    "d": "M420.0 150.0 L540.0 150.0 L540.0 234.0 L600.0 234.0 L600.0 78.0 L420.0 78.0 L420.0 150.0 Z",
+    "nom": "Lothlann",
+    "region": "the North"
+   },
+   "ardgalen": {
+    "d": "M180.0 150.0 L420.0 150.0 L420.0 78.0 L180.0 78.0 L180.0 150.0 Z",
+    "nom": "Ard-galen (Anfauglith)",
+    "region": "the North"
+   },
+   "hithlum": {
+    "d": "M30.0 198.0 L180.0 198.0 L180.0 78.0 L30.0 78.0 L30.0 198.0 Z",
+    "nom": "Hithlum",
+    "region": "the West"
+   },
+   "dorlomin": {
+    "d": "M30.0 270.0 L180.0 270.0 L180.0 198.0 L30.0 198.0 L30.0 270.0 Z",
+    "nom": "Dor-lómin",
+    "region": "the West"
+   },
+   "nevrast": {
+    "d": "M0.0 354.0 L84.0 354.0 L84.0 270.0 L0.0 270.0 L0.0 354.0 Z",
+    "nom": "Nevrast",
+    "region": "the West"
+   },
+   "gondolin": {
+    "d": "M180.0 234.0 L270.0 234.0 L270.0 150.0 L180.0 150.0 L180.0 234.0 Z",
+    "nom": "Tumladen (Gondolin)",
+    "region": "the West"
+   },
+   "dorthonion": {
+    "d": "M270.0 234.0 L420.0 234.0 L420.0 150.0 L270.0 150.0 L270.0 234.0 Z",
+    "nom": "Dorthonion (Taur-nu-Fuin)",
+    "region": "the North"
+   },
+   "march": {
+    "d": "M420.0 234.0 L540.0 234.0 L540.0 150.0 L420.0 150.0 L420.0 234.0 Z",
+    "nom": "March of Maedhros",
+    "region": "the East"
+   },
+   "thargelion": {
+    "d": "M510.0 360.0 L600.0 360.0 L600.0 234.0 L510.0 234.0 L510.0 360.0 Z",
+    "nom": "Thargelion",
+    "region": "the East"
+   },
+   "himlad": {
+    "d": "M420.0 300.0 L510.0 300.0 L510.0 234.0 L420.0 234.0 L420.0 300.0 Z",
+    "nom": "Himlad",
+    "region": "the East"
+   },
+   "nandungortheb": {
+    "d": "M252.0 270.0 L420.0 270.0 L420.0 234.0 L252.0 234.0 L252.0 270.0 Z",
+    "nom": "Nan Dungortheb",
+    "region": "the North"
+   },
+   "dimbar": {
+    "d": "M180.0 294.0 L252.0 294.0 L252.0 234.0 L180.0 234.0 L180.0 294.0 Z",
+    "nom": "Dimbar",
+    "region": "the West"
+   },
+   "brethil": {
+    "d": "M156.0 366.0 L252.0 366.0 L252.0 294.0 L156.0 294.0 L156.0 366.0 Z",
+    "nom": "Forest of Brethil",
+    "region": "the West"
+   },
+   "doriath": {
+    "d": "M252.0 390.0 L408.0 390.0 L408.0 270.0 L252.0 270.0 L252.0 390.0 Z",
+    "nom": "Doriath",
+    "region": "the Hidden Kingdom"
+   },
+   "estolad": {
+    "d": "M408.0 390.0 L510.0 390.0 L510.0 300.0 L408.0 300.0 L408.0 390.0 Z",
+    "nom": "Estolad",
+    "region": "the East"
+   },
+   "talathdirnen": {
+    "d": "M72.0 354.0 L156.0 354.0 L156.0 270.0 L72.0 270.0 L72.0 354.0 Z",
+    "nom": "Talath Dirnen",
+    "region": "the West"
+   },
+   "nargothrond": {
+    "d": "M60.0 450.0 L168.0 450.0 L168.0 354.0 L60.0 354.0 L60.0 450.0 Z",
+    "nom": "Nargothrond",
+    "region": "the West"
+   },
+   "falas": {
+    "d": "M0.0 462.0 L60.0 462.0 L60.0 354.0 L0.0 354.0 L0.0 462.0 Z",
+    "nom": "The Falas",
+    "region": "the West"
+   },
+   "arvernien": {
+    "d": "M60.0 546.0 L168.0 546.0 L168.0 450.0 L60.0 450.0 L60.0 546.0 Z",
+    "nom": "Arvernien",
+    "region": "the South"
+   },
+   "nantathren": {
+    "d": "M156.0 498.0 L252.0 498.0 L252.0 366.0 L168.0 366.0 L168.0 450.0 L156.0 450.0 L156.0 498.0 Z",
+    "nom": "Nan-tathren",
+    "region": "the South"
+   },
+   "mouths": {
+    "d": "M156.0 570.0 L252.0 570.0 L252.0 498.0 L156.0 498.0 L156.0 570.0 Z",
+    "nom": "Mouths of Sirion",
+    "region": "the South"
+   },
+   "taurimduinath": {
+    "d": "M252.0 570.0 L420.0 570.0 L420.0 390.0 L252.0 390.0 L252.0 570.0 Z",
+    "nom": "Taur-im-Duinath",
+    "region": "the South"
+   },
+   "ossiriand": {
+    "d": "M420.0 570.0 L600.0 570.0 L600.0 360.0 L510.0 360.0 L510.0 390.0 L420.0 390.0 L420.0 570.0 Z",
+    "nom": "Ossiriand",
+    "region": "the East"
+   }
+  },
   "karte_info": {
    "name": "Beleriand",
    "einheit": "regions",
@@ -1077,67 +1799,67 @@ window.SPRACHEN["en-de"] = {
     "ab": 300,
     "name": "Herald",
     "symbol": "📯",
-    "audio": null
+    "audio": "audio/en-de/spiel/titel_1.mp3?v=26006918"
    },
    {
     "ab": 900,
     "name": "Marchwarden",
     "symbol": "🏹",
-    "audio": null
+    "audio": "audio/en-de/spiel/titel_2.mp3?v=b1b88a7b"
    },
    {
     "ab": 1800,
     "name": "Captain of the Noldor",
     "symbol": "⚔️",
-    "audio": null
+    "audio": "audio/en-de/spiel/titel_3.mp3?v=4fe6e897"
    },
    {
     "ab": 3000,
     "name": "Loremaster of Tirion",
     "symbol": "📜",
-    "audio": null
+    "audio": "audio/en-de/spiel/titel_4.mp3?v=5f20d54c"
    },
    {
     "ab": 4500,
     "name": "Lord of the Golden Flower",
     "symbol": "🌼",
-    "audio": null
+    "audio": "audio/en-de/spiel/titel_5.mp3?v=e00e6dc6"
    },
    {
     "ab": 6500,
     "name": "Prince of the Noldor",
     "symbol": "💎",
-    "audio": null
+    "audio": "audio/en-de/spiel/titel_6.mp3?v=70b9061b"
    },
    {
     "ab": 9000,
     "name": "High King of the Noldor",
     "symbol": "👑",
-    "audio": null
+    "audio": "audio/en-de/spiel/titel_7.mp3?v=41a3fa7e"
    },
    {
     "ab": 12000,
     "name": "Named in Song",
     "symbol": "🎵",
-    "audio": null
+    "audio": "audio/en-de/spiel/titel_8.mp3?v=799c9076"
    }
   ],
   "texte": {
    "feuer": {
     "text": "Bright burns your flame! Three days unbroken!",
-    "audio": null
+    "audio": "audio/en-de/spiel/feuer.mp3?v=4f5d7790"
    },
    "woche": {
     "text": "Perfect is this week: every school day kept. Hail!",
-    "audio": null
+    "audio": "audio/en-de/spiel/woche.mp3?v=8482bc8e"
    },
    "monat": {
     "text": "Four perfect weeks, unbroken! Of such deeds are songs made.",
-    "audio": null
+    "audio": "audio/en-de/spiel/monat.mp3?v=2c4a6e37"
    },
    "fini": {
     "text": "Ended is the labour of this day. Rest, and return tomorrow.",
-    "audio": null
+    "audio": "audio/en-de/spiel/fini.mp3?v=3c57995b"
    }
   },
   "frei": [
@@ -1208,6 +1930,151 @@ window.SPRACHEN["en-de"] = {
   "audio/en-de/geschichte/k01_07.mp3?v=79f50a02",
   "audio/en-de/geschichte/k01_08.mp3?v=81754584",
   "audio/en-de/geschichte/k01_09.mp3?v=3a982b1a",
-  "audio/en-de/geschichte/k01_10.mp3?v=add6ae16"
+  "audio/en-de/geschichte/k01_10.mp3?v=add6ae16",
+  "audio/en-de/lob/doch_you_see.mp3?v=2c005943",
+  "audio/en-de/lob/fehler_fleeting.mp3?v=1857041e",
+  "audio/en-de/lob/fehler_grey_shadow.mp3?v=ed1dbd26",
+  "audio/en-de/lob/fehler_hmm.mp3?v=4ce5eef0",
+  "audio/en-de/lob/fehler_long_road.mp3?v=1ca6fa68",
+  "audio/en-de/lob/fehler_near.mp3?v=23b7cf37",
+  "audio/en-de/lob/fehler_not_yet.mp3?v=24d5916a",
+  "audio/en-de/lob/fehler_shadow_passes.mp3?v=264eb7ff",
+  "audio/en-de/lob/fehler_small_stumble.mp3?v=3b9157e6",
+  "audio/en-de/lob/fehler_take_heart.mp3?v=113bf5f3",
+  "audio/en-de/lob/fehler_wise_stumbled.mp3?v=ba1df00a",
+  "audio/en-de/lob/geschafft_ended.mp3?v=55de9b7a",
+  "audio/en-de/lob/geschafft_forges.mp3?v=2380055c",
+  "audio/en-de/lob/geschafft_well_done.mp3?v=346442ee",
+  "audio/en-de/lob/lob_another_won.mp3?v=e616310c",
+  "audio/en-de/lob/lob_apt_seemly.mp3?v=961f4f6c",
+  "audio/en-de/lob/lob_bright_fair.mp3?v=db767bd3",
+  "audio/en-de/lob/lob_bright_silmaril.mp3?v=a10fa996",
+  "audio/en-de/lob/lob_bright_word.mp3?v=fb73af9e",
+  "audio/en-de/lob/lob_deep_lore.mp3?v=cedfd9f8",
+  "audio/en-de/lob/lob_ear_of_maglor.mp3?v=778c25d0",
+  "audio/en-de/lob/lob_even_so.mp3?v=867de117",
+  "audio/en-de/lob/lob_fair_as_lorien.mp3?v=af948000",
+  "audio/en-de/lob/lob_fair_fitting.mp3?v=35f549aa",
+  "audio/en-de/lob/lob_fair_spoken.mp3?v=77b423eb",
+  "audio/en-de/lob/lob_feanor.mp3?v=09bdf52d",
+  "audio/en-de/lob/lob_fine_wrought.mp3?v=2125fd0e",
+  "audio/en-de/lob/lob_firm_footing.mp3?v=67ce66fe",
+  "audio/en-de/lob/lob_first_cast.mp3?v=73f69de8",
+  "audio/en-de/lob/lob_forged_not_found.mp3?v=273a93d4",
+  "audio/en-de/lob/lob_keen_eye.mp3?v=a51ee45d",
+  "audio/en-de/lob/lob_keen_tongue.mp3?v=40de88df",
+  "audio/en-de/lob/lob_light_in_it.mp3?v=38331ed7",
+  "audio/en-de/lob/lob_lo_right_word.mp3?v=fd926b64",
+  "audio/en-de/lob/lob_long_memory.mp3?v=5723b091",
+  "audio/en-de/lob/lob_loremasters_approve.mp3?v=5e6a8d83",
+  "audio/en-de/lob/lob_melian_nod.mp3?v=15eced17",
+  "audio/en-de/lob/lob_menegroth.mp3?v=a6882915",
+  "audio/en-de/lob/lob_mighty_choice.mp3?v=2b9d5234",
+  "audio/en-de/lob/lob_noble_speech.mp3?v=34c0feb3",
+  "audio/en-de/lob/lob_nothing_wanting.mp3?v=d4156314",
+  "audio/en-de/lob/lob_onward.mp3?v=f118e4b8",
+  "audio/en-de/lob/lob_rich_tongue.mp3?v=b612c6d0",
+  "audio/en-de/lob/lob_rightly.mp3?v=2fd24742",
+  "audio/en-de/lob/lob_rumil.mp3?v=7019a27a",
+  "audio/en-de/lob/lob_sharp_blade.mp3?v=e75f045d",
+  "audio/en-de/lob/lob_sirion.mp3?v=22b5b877",
+  "audio/en-de/lob/lob_so_it_stands.mp3?v=94085c1d",
+  "audio/en-de/lob/lob_so_written.mp3?v=24839035",
+  "audio/en-de/lob/lob_speech_of_kings.mp3?v=6e9c78e5",
+  "audio/en-de/lob/lob_steady_voice.mp3?v=39153332",
+  "audio/en-de/lob/lob_straight_beleg.mp3?v=87285c42",
+  "audio/en-de/lob/lob_sure_hand.mp3?v=43f4241f",
+  "audio/en-de/lob/lob_swift_answer.mp3?v=ef1978ff",
+  "audio/en-de/lob/lob_the_hoard_grows.mp3?v=1e0fb397",
+  "audio/en-de/lob/lob_thingol.mp3?v=409e90f1",
+  "audio/en-de/lob/lob_thus_eldar.mp3?v=b2ce15b5",
+  "audio/en-de/lob/lob_tirion.mp3?v=b3f6f530",
+  "audio/en-de/lob/lob_true_mark.mp3?v=062f0cc3",
+  "audio/en-de/lob/lob_truly.mp3?v=048820f0",
+  "audio/en-de/lob/lob_unerring_ear.mp3?v=f8ca4da4",
+  "audio/en-de/lob/lob_unfaltering.mp3?v=017cfd8d",
+  "audio/en-de/lob/lob_well_chosen.mp3?v=454ddbb8",
+  "audio/en-de/lob/lob_well_remembered.mp3?v=1026e612",
+  "audio/en-de/lob/lob_well_wrought.mp3?v=402b7a32",
+  "audio/en-de/lob/lob_whole_true.mp3?v=829e4443",
+  "audio/en-de/lob/lob_wise_words.mp3?v=9a6ce7e7",
+  "audio/en-de/lob/lob_worthy_ear.mp3?v=2623711e",
+  "audio/en-de/lob/stark_dark_road.mp3?v=3409ce56",
+  "audio/en-de/lob/stark_fell_fair.mp3?v=e29ce80e",
+  "audio/en-de/lob/stark_flame_imperishable.mp3?v=d0c57a1a",
+  "audio/en-de/lob/stark_gift_noldor.mp3?v=ddebe79e",
+  "audio/en-de/lob/stark_great_gift.mp3?v=e16c500c",
+  "audio/en-de/lob/stark_high_deeds.mp3?v=dbfe5458",
+  "audio/en-de/lob/stark_loremasters_write.mp3?v=1063030c",
+  "audio/en-de/lob/stark_melian_silent.mp3?v=a39243a2",
+  "audio/en-de/lob/stark_new_star.mp3?v=b079b8ab",
+  "audio/en-de/lob/stark_no_doom.mp3?v=80a2b880",
+  "audio/en-de/lob/stark_proud.mp3?v=3b7124a8",
+  "audio/en-de/lob/stark_songs_made.mp3?v=0766cec6",
+  "audio/en-de/lob/stark_unbroken.mp3?v=6911f09a",
+  "audio/en-de/lob/stark_valar_listen.mp3?v=247d1513",
+  "audio/en-de/lob/voll_flawless.mp3?v=e49ede5c",
+  "audio/en-de/orte/aelinuial.mp3?v=2273459e",
+  "audio/en-de/orte/aeluin.mp3?v=fec00d99",
+  "audio/en-de/orte/aglon.mp3?v=31fc0f22",
+  "audio/en-de/orte/amonereb.mp3?v=6a3ea724",
+  "audio/en-de/orte/amonobel.mp3?v=1d0b30c2",
+  "audio/en-de/orte/amonrudh.mp3?v=c9ee655d",
+  "audio/en-de/orte/angband.mp3?v=848f78e0",
+  "audio/en-de/orte/ardgalen.mp3?v=14df543d",
+  "audio/en-de/orte/arvernien.mp3?v=83f363d0",
+  "audio/en-de/orte/brethil.mp3?v=3673eedc",
+  "audio/en-de/orte/brithombar.mp3?v=b15f9e15",
+  "audio/en-de/orte/cabedenaras.mp3?v=fb58f70d",
+  "audio/en-de/orte/dimbar.mp3?v=c7d5ca67",
+  "audio/en-de/orte/dorlomin.mp3?v=8a9783be",
+  "audio/en-de/orte/dorthonion.mp3?v=6355b7b8",
+  "audio/en-de/orte/eglarest.mp3?v=f7299209",
+  "audio/en-de/orte/eithelsirion.mp3?v=bafc0dde",
+  "audio/en-de/orte/estolad.mp3?v=35b27064",
+  "audio/en-de/orte/gondolin.mp3?v=4726318d",
+  "audio/en-de/orte/haudh.mp3?v=8db507d8",
+  "audio/en-de/orte/helevorn.mp3?v=138e7f5a",
+  "audio/en-de/orte/himlad.mp3?v=d68634cc",
+  "audio/en-de/orte/himring.mp3?v=bb523a4f",
+  "audio/en-de/orte/hirilorn.mp3?v=fdc78575",
+  "audio/en-de/orte/ivrin.mp3?v=3e4b38aa",
+  "audio/en-de/orte/ladros.mp3?v=546e0bcf",
+  "audio/en-de/orte/lothlann.mp3?v=f7e04878",
+  "audio/en-de/orte/maglorsgap.mp3?v=acd7e7e8",
+  "audio/en-de/orte/menegroth.mp3?v=7d754e1d",
+  "audio/en-de/orte/mithrim.mp3?v=d51a59c9",
+  "audio/en-de/orte/mouths.mp3?v=39f70fd2",
+  "audio/en-de/orte/nandungortheb.mp3?v=3f6ebe00",
+  "audio/en-de/orte/nantathren.mp3?v=7b3eb2bf",
+  "audio/en-de/orte/nargothrond.mp3?v=59b69558",
+  "audio/en-de/orte/neldoreth.mp3?v=d42ba122",
+  "audio/en-de/orte/nevrast.mp3?v=d085c9d4",
+  "audio/en-de/orte/ossiriand.mp3?v=76140159",
+  "audio/en-de/orte/region.mp3?v=e4e036d4",
+  "audio/en-de/orte/rerir.mp3?v=0a774b6a",
+  "audio/en-de/orte/sarnathrad.mp3?v=eed8a7a2",
+  "audio/en-de/orte/talathdirnen.mp3?v=b411576d",
+  "audio/en-de/orte/taras.mp3?v=3a6e7803",
+  "audio/en-de/orte/taurenfaroth.mp3?v=48648fd4",
+  "audio/en-de/orte/taurimduinath.mp3?v=2c288646",
+  "audio/en-de/orte/teiglin.mp3?v=17aa6093",
+  "audio/en-de/orte/thangorodrim.mp3?v=e9c1b067",
+  "audio/en-de/orte/tolgalen.mp3?v=358e1fec",
+  "audio/en-de/orte/tolsirion.mp3?v=25a0b8df",
+  "audio/en-de/orte/tumladen.mp3?v=d4865b46",
+  "audio/en-de/orte/vinyamar.mp3?v=3b934f35",
+  "audio/en-de/spiel/feuer.mp3?v=4f5d7790",
+  "audio/en-de/spiel/fini.mp3?v=3c57995b",
+  "audio/en-de/spiel/monat.mp3?v=2c4a6e37",
+  "audio/en-de/spiel/titel_1.mp3?v=26006918",
+  "audio/en-de/spiel/titel_2.mp3?v=b1b88a7b",
+  "audio/en-de/spiel/titel_3.mp3?v=4fe6e897",
+  "audio/en-de/spiel/titel_4.mp3?v=5f20d54c",
+  "audio/en-de/spiel/titel_5.mp3?v=e00e6dc6",
+  "audio/en-de/spiel/titel_6.mp3?v=70b9061b",
+  "audio/en-de/spiel/titel_7.mp3?v=41a3fa7e",
+  "audio/en-de/spiel/titel_8.mp3?v=799c9076",
+  "audio/en-de/spiel/woche.mp3?v=8482bc8e"
  ]
 };
