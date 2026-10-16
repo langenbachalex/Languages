@@ -1095,7 +1095,9 @@
     const frei = orteFrei(), KI = SP.karte_info;
     const karte = laenderKarte(frei, (o) => {
       fakt.hidden = false;
-      fakt.replaceChildren(el("h3", { lang: D.lang }, `${o.name} · ${gebietName(o)}${o.region !== o.dep_name ? " · " + o.region : ""}`), frde(o.fakt, o.fakt_de, "p"),
+      // Ortsfakt mit Übersetzung immer sichtbar (nicht nur per Tipp): Mr. Alex, 16.10., „die Ortstexte sind nicht übersetzt“
+      fakt.replaceChildren(el("h3", { lang: D.lang }, `${o.name} · ${gebietName(o)}${o.region !== o.dep_name ? " · " + o.region : ""}`),
+        el("p", { lang: D.lang }, o.fakt), o.fakt_de && el("p", { class: "fakt-de", lang: D.lang_hilfe }, o.fakt_de),
         knopf(U.hoeren, () => spiele([o.audio || { text: o.fakt }])));
       spiele([o.audio || { text: o.fakt }]);
     });

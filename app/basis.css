@@ -276,6 +276,7 @@ textarea { width: 100%; font: inherit; padding: 12px; border-radius: 12px; borde
 .toast.lob .lob-de { font-size: 0.85em; }
 .geschafft h2.lob-zeile, .geschafft p.lob-zeile { margin: 0; }
 .rueckmeldung .lob-zeile { display: block; }
+.fakt .fakt-de { color: var(--leise); font-size: .95rem; margin-top: -6px; }
 .feier { border: 0; border-radius: 20px; padding: 24px; max-width: min(92vw, 420px); background: var(--karte); color: var(--text); text-align: center; overflow: hidden; }
 .feier::backdrop { background: rgba(10, 15, 30, .65); }
 .feier > * { position: relative; }
