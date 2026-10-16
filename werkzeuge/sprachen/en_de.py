@@ -22,7 +22,8 @@ THEMEN = []
 
 # Titel – Rang und Ruhm unter den Eldar: vom Wanderer bis zu dem, der in den Liedern genannt wird (Mr. Alex, 16.10.)
 TITEL = [(0, "Wanderer", "🚶"), (300, "Herald", "📯"), (900, "Marchwarden", "🏹"), (1800, "Captain of the Noldor", "⚔️"),
-         (3000, "Loremaster of Tirion", "📜"), (4500, "Lord of a House", "🏰"), (6500, "Named in Song", "🎵")]
+         (3000, "Loremaster of Tirion", "📜"), (4500, "Lord of the Golden Flower", "🌼"), (6500, "Prince of the Noldor", "💎"),
+         (9000, "High King of the Noldor", "👑"), (12000, "Named in Song", "🎵")]
 TITEL_ANSAGE = "Hail! Wanderer no longer: you are now {name}."
 # Ton des Buches: Voranstellung des gewichtigen Adjektivs („Grey is the shadow“), gehobenes Vokabular
 SPIEL_TEXTE = {  # gesprochen von Mr. Alex (audio/spiel/<id>.mp3)

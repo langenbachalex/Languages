@@ -1032,12 +1032,24 @@ window.SPRACHEN["en-de"] = {
    },
    {
     "ab": 4500,
-    "name": "Lord of a House",
-    "symbol": "🏰",
+    "name": "Lord of the Golden Flower",
+    "symbol": "🌼",
     "audio": null
    },
    {
     "ab": 6500,
+    "name": "Prince of the Noldor",
+    "symbol": "💎",
+    "audio": null
+   },
+   {
+    "ab": 9000,
+    "name": "High King of the Noldor",
+    "symbol": "👑",
+    "audio": null
+   },
+   {
+    "ab": 12000,
     "name": "Named in Song",
     "symbol": "🎵",
     "audio": null
