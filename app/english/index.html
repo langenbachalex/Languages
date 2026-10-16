@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>English – Word Gym</title>
+<meta name="theme-color" content="#1f4e3d">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="English">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<link rel="stylesheet" href="basis.css">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="niveau-leiste">
+  <div class="sprachen" role="group" aria-label="Langue"></div>
+  <div class="niveau" role="group" aria-label="Aide">
+    <button type="button" data-de="0" aria-pressed="true">FR</button>
+    <button type="button" data-de="1" aria-pressed="false">FR + DE</button>
+  </div>
+</div>
+<main id="app" aria-live="polite"></main>
+<script>window.APP_KONFIG = {"speicher": "english-v1", "alt": null, "name": "English – Word Gym"};</script>
+<script src="daten_en-de.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

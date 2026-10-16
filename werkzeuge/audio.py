@@ -84,7 +84,7 @@ def erzeugen(P, pfad, text, stimme):
                                  data=json.dumps(body).encode(), headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req) as r:
         daten = r.read()
-    ziel = os.path.join(bauen.APP, pfad)
+    ziel = os.path.join(bauen.wurzel(P), pfad)
     os.makedirs(os.path.dirname(ziel), exist_ok=True)
     with open(ziel, "wb") as f:
         f.write(daten)
@@ -97,11 +97,11 @@ def erzeugen(P, pfad, text, stimme):
 
 def main():
     nur = [a for a in sys.argv[1:] if not a.startswith("--")]
-    for name in bauen.PAKETE:
+    for name in [n for a in bauen.AUSGABEN for n in a["pakete"]]:
         P = bauen.paket(name)
         if nur and P.PAAR not in nur:
             continue
-        offen = [a for a in auftraege(P) if not os.path.exists(os.path.join(bauen.APP, a[0]))]
+        offen = [a for a in auftraege(P) if not os.path.exists(os.path.join(bauen.wurzel(P), a[0]))]
         offen = [a for a in offen if a[2] != "b" or P.STIMME_B]
         print(P.PAAR + ":", len(offen), "Audios fehlen,", sum(len(a[1]) for a in offen), "Zeichen")
         if "--zaehlen" in sys.argv:

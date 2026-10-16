@@ -10,7 +10,9 @@
   const PAKETE = window.SPRACHEN || {};
   const PAARE = Object.keys(PAKETE);
   const app = document.getElementById("app");
-  const SPEICHER = "languages-v1", ALT = "francais-v1";
+  // Speicherschlüssel je Web-App (index.html setzt window.APP_KONFIG; Englisch läuft getrennt unter english/)
+  const KONFIG = window.APP_KONFIG || {};
+  const SPEICHER = KONFIG.speicher || "languages-v1", ALT = KONFIG.alt === undefined ? "francais-v1" : KONFIG.alt;
   const GRUPPE = 8; // Wendungen je Teil eines Themas
   const PUNKTE = { teil: 10, wiederholung: 5, seance: 30, einheit: 50, feuer: 30, wochenende: 20, woche: 100, monat: 200 };
 
@@ -22,7 +24,7 @@
     if (!s) {
       s = leer();
       try { // Umzug aus „Mon français“: alter Stand wird zur Sprache fr-de, die Serie wird gemeinsam
-        const alt = JSON.parse(localStorage.getItem(ALT) || "null");
+        const alt = ALT ? JSON.parse(localStorage.getItem(ALT) || "null") : null;
         if (alt) {
           const sp = alt.spiel || {};
           s.de = !!alt.de;

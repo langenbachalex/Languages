@@ -12,6 +12,14 @@ APP = os.path.join(BASIS, "app")
 SCHRIFT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
 PAKETE = ["fr_de", "es_de", "it_de", "de_fr"]   # Reihenfolge = Reihenfolge im Umschalter
+# Ausgaben: je eine eigenständige Web-App (eigener Ordner, Speicher, Offline-Speicher). Englisch läuft getrennt unter app/english/,
+# teilt aber Code, Werkzeuge und Audio-Pipeline (Entscheidung Mr. Alex 16.10., docs/en/brainstorming.md).
+AUSGABEN = [
+    {"ordner": "", "pakete": PAKETE, "name": "Language Learning", "kurz": "Languages", "speicher": "languages-v1", "alt": "francais-v1",
+     "praefix": "ll", "lang": "fr", "farbe": "#0a2a6b", "hintergrund": "#f4f6fb", "icon": ("LL", (10, 42, 107))},
+    {"ordner": "english", "pakete": ["en_de"], "name": "English – Word Gym", "kurz": "English", "speicher": "english-v1", "alt": None,
+     "praefix": "en", "lang": "en", "farbe": "#1f4e3d", "hintergrund": "#f4f6fb", "icon": ("EN", (31, 78, 61))},
+]
 AUDIO_STAND = 2   # erhöhen, wenn vorhandene Audiodateien ersetzt wurden (Browser verwirft dann den Audio-Speicher)
 # Tagespensum (Mr. Alex, 13.10.): 3 neue Wendungen, höchstens 8 Wiederholungen – pro Sprache
 PENSUM = {"neu": 3, "wiederholung": 8}
@@ -21,6 +29,17 @@ INTERVALLE = [1, 3, 7, 14, 30, 60, 120]
 
 def paket(name):
     return importlib.import_module(name)
+
+
+def ausgabe_von(P):
+    """Die Ausgabe (Web-App), zu der ein Sprachpaket gehört."""
+    name = P.__name__.rsplit(".", 1)[-1]
+    return next(a for a in AUSGABEN if name in a["pakete"])
+
+
+def wurzel(P):
+    """Ordner der Web-App, in der dieses Paket liegt (Daten, Audio, Icons)."""
+    return os.path.join(APP, ausgabe_von(P)["ordner"])
 
 
 def tsv(inhalte, name):
@@ -33,11 +52,12 @@ def rein(markup):
     return re.sub(r"\{[^|{}]+\|([^}]*)\}", r"\1", markup)
 
 
-def audio_pruefer(paar):
-    """Pfad relativ zu app/, nur wenn die Datei existiert (sonst Sprachausgabe des Geräts)."""
+def audio_pruefer(P):
+    """Pfad relativ zur Web-App, nur wenn die Datei existiert (sonst Sprachausgabe des Geräts)."""
+    paar, basis = P.PAAR, wurzel(P)
     def audio(rel):
         pfad = f"audio/{paar}/{rel}"
-        voll = os.path.join(APP, pfad)
+        voll = os.path.join(basis, pfad)
         if not os.path.exists(voll):
             return None
         with open(voll, "rb") as f:
@@ -47,7 +67,7 @@ def audio_pruefer(paar):
 
 
 def daten_fuer(P):
-    paar, inhalte, audio = P.PAAR, os.path.join(BASIS, "inhalte", P.PAAR), audio_pruefer(P.PAAR)
+    paar, inhalte, audio = P.PAAR, os.path.join(BASIS, "inhalte", P.PAAR), audio_pruefer(P)
     wendungen, themen = [], []
     for t in P.THEMEN:
         ids = []
@@ -112,7 +132,7 @@ def daten_fuer(P):
              "texte": {k: {"text": t, "audio": audio(f"spiel/{k}.mp3")} for k, t in P.SPIEL_TEXTE.items()},
              "frei": frei_saarland.als_daten()}
     return {"paar": paar, "name": P.NAME, "kurz": P.KURZ, "hilfe_kurz": P.HILFE_KURZ, "flagge": P.FLAGGE, "lang": P.LANG, "lang_hilfe": P.LANG_HILFE,
-            "sprachausgabe": P.SPRACHAUSGABE, "audio_speicher": f"ll-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
+            "sprachausgabe": P.SPRACHAUSGABE, "audio_speicher": f"{ausgabe_von(P)['praefix']}-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
             "ui": P.UI, "themen": themen, "wendungen": wendungen, "dialoge": dialoge, "rollen": P.ROLLEN, "dialoge_titel": P.DIALOGE_TITEL,
             "aussprache": aussprache, "geschichte": geschichte, "geschichte_info": P.GESCHICHTE, "lob": lob,
             "pensum": PENSUM, "intervalle": INTERVALLE, "spiel": spiel}
@@ -128,38 +148,50 @@ def audio_dateien(obj, menge):
         menge.add(obj)
 
 
+GETEILT = ["app.js", "basis.css", "app.css"]   # gemeinsamer Code, wird in jede weitere Ausgabe kopiert
+
+
 def main():
-    os.makedirs(APP, exist_ok=True)
-    paare = []
-    for name in PAKETE:
-        P = paket(name)
-        daten = daten_fuer(P)
-        menge = set(); audio_dateien(daten, menge)
-        daten["audio_liste"] = sorted(menge)
-        with open(os.path.join(APP, f"daten_{P.PAAR}.js"), "w", encoding="utf-8") as f:
-            f.write(f"// Automatisch erzeugt von werkzeuge/bauen.py aus werkzeuge/sprachen/{name}.py – bitte nicht von Hand ändern.\n")
-            f.write("window.SPRACHEN = window.SPRACHEN || {};\n")
-            f.write(f"window.SPRACHEN[{json.dumps(P.PAAR)}] = " + json.dumps(daten, ensure_ascii=False, indent=1) + ";\n")
-        paare.append(P.PAAR)
-        print(f"{P.PAAR}: {len(daten['themen'])} Themen, {len(daten['wendungen'])} Wendungen, "
-              f"{sum(1 for w in daten['wendungen'] if w['satz']['audio'])} Sätze mit Audio, {len(menge)} Audiodateien")
-    webapp(paare)
+    for ausgabe in AUSGABEN:
+        ordner = os.path.join(APP, ausgabe["ordner"])
+        os.makedirs(ordner, exist_ok=True)
+        if ausgabe["ordner"]:
+            for n in GETEILT:
+                with open(os.path.join(APP, n), "rb") as q, open(os.path.join(ordner, n), "wb") as z:
+                    z.write(q.read())
+        paare = []
+        for name in ausgabe["pakete"]:
+            P = paket(name)
+            daten = daten_fuer(P)
+            menge = set(); audio_dateien(daten, menge)
+            daten["audio_liste"] = sorted(menge)
+            with open(os.path.join(ordner, f"daten_{P.PAAR}.js"), "w", encoding="utf-8") as f:
+                f.write(f"// Automatisch erzeugt von werkzeuge/bauen.py aus werkzeuge/sprachen/{name}.py – bitte nicht von Hand ändern.\n")
+                f.write("window.SPRACHEN = window.SPRACHEN || {};\n")
+                f.write(f"window.SPRACHEN[{json.dumps(P.PAAR)}] = " + json.dumps(daten, ensure_ascii=False, indent=1) + ";\n")
+            paare.append(P.PAAR)
+            print(f"{P.PAAR}: {len(daten['themen'])} Themen, {len(daten['wendungen'])} Wendungen, "
+                  f"{sum(1 for w in daten['wendungen'] if w['satz']['audio'])} Sätze mit Audio, {len(menge)} Audiodateien")
+        webapp(ausgabe, paare)
 
 
-def webapp(paare):
-    with open(os.path.join(APP, "index.html"), "w", encoding="utf-8") as f:
+def webapp(A, paare):
+    ordner = os.path.join(APP, A["ordner"])
+    andere = [a["ordner"] + "/" for a in AUSGABEN if a["ordner"] and a is not A]   # Unterordner anderer Ausgaben
+    konfig = {"speicher": A["speicher"], "alt": A["alt"], "name": A["name"]}
+    with open(os.path.join(ordner, "index.html"), "w", encoding="utf-8") as f:
         f.write(f"""<!doctype html>
-<html lang="fr">
+<html lang="{A['lang']}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Language Learning</title>
-<meta name="theme-color" content="#0a2a6b">
+<title>{A['name']}</title>
+<meta name="theme-color" content="{A['farbe']}">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Languages">
+<meta name="apple-mobile-web-app-title" content="{A['kurz']}">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
 <link rel="stylesheet" href="basis.css">
 <link rel="stylesheet" href="app.css">
@@ -173,53 +205,55 @@ def webapp(paare):
   </div>
 </div>
 <main id="app" aria-live="polite"></main>
+<script>window.APP_KONFIG = {json.dumps(konfig, ensure_ascii=False)};</script>
 {"".join(f'<script src="daten_{p}.js"></script>' + chr(10) for p in paare)}<script src="app.js"></script>
 </body>
 </html>
 """)
-    os.makedirs(os.path.join(APP, "icons"), exist_ok=True)
+    os.makedirs(os.path.join(ordner, "icons"), exist_ok=True)
+    text, farbe = A["icon"]
     for g in (180, 192, 512):
-        ziel = os.path.join(APP, "icons", f"icon-{g}.png")
+        ziel = os.path.join(ordner, "icons", f"icon-{g}.png")
         if os.path.exists(ziel):
             continue
-        img = Image.new("RGB", (g, g), (10, 42, 107))
+        img = Image.new("RGB", (g, g), farbe)
         d = ImageDraw.Draw(img)
         d.ellipse([g * 0.14, g * 0.14, g * 0.86, g * 0.86], fill=(255, 255, 255))
-        d.text((g / 2, g * 0.5), "LL", font=ImageFont.truetype(SCHRIFT, int(g * 0.34)), fill=(10, 42, 107), anchor="mm")
+        d.text((g / 2, g * 0.5), text, font=ImageFont.truetype(SCHRIFT, int(g * 0.34)), fill=farbe, anchor="mm")
         img.save(ziel)
-    manifest = {"name": "Language Learning", "short_name": "Languages", "lang": "fr",
+    manifest = {"name": A["name"], "short_name": A["kurz"], "lang": A["lang"],
                 "start_url": "./", "scope": "./", "display": "standalone",
-                "background_color": "#f4f6fb", "theme_color": "#0a2a6b",
+                "background_color": A["hintergrund"], "theme_color": A["farbe"],
                 "icons": [{"src": f"icons/icon-{g}.png", "sizes": f"{g}x{g}", "type": "image/png", "purpose": "any maskable"} for g in (192, 512)]}
-    with open(os.path.join(APP, "manifest.webmanifest"), "w", encoding="utf-8") as f:
+    with open(os.path.join(ordner, "manifest.webmanifest"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=1)
     # Offline: Kern (Code, Daten, Icons) wird vorab geladen; Audio landet beim Abspielen oder über „Hors-ligne“ im Audio-Speicher
     dateien, h = ["./"], hashlib.sha1()
-    for wurzel, _, namen in sorted(os.walk(APP)):
-        if "/audio" in wurzel.replace(os.sep, "/"):
+    for wurzel_, _, namen in sorted(os.walk(ordner)):
+        if "/audio" in wurzel_.replace(os.sep, "/"):
             continue
         for n in sorted(namen):
-            pfad = os.path.join(wurzel, n)
-            rel = os.path.relpath(pfad, APP).replace(os.sep, "/")
-            if rel in ("sw.js",) or rel.startswith("francais/"):
+            pfad = os.path.join(wurzel_, n)
+            rel = os.path.relpath(pfad, ordner).replace(os.sep, "/")
+            if rel in ("sw.js",) or rel.startswith("francais/") or any(rel.startswith(x) for x in andere):
                 continue
             dateien.append(rel)
             with open(pfad, "rb") as f:
                 h.update(rel.encode() + f.read())
     version = h.hexdigest()[:12]
-    audio_version = f"ll-audio-{AUDIO_STAND}"
-    with open(os.path.join(APP, "sw.js"), "w", encoding="utf-8") as f:
-        f.write(f"""// Automatisch erzeugt von werkzeuge/bauen.py – Offline-Speicher von Language Learning.
+    audio_version = f"{A['praefix']}-audio-{AUDIO_STAND}"
+    with open(os.path.join(ordner, "sw.js"), "w", encoding="utf-8") as f:
+        f.write(f"""// Automatisch erzeugt von werkzeuge/bauen.py – Offline-Speicher von {A['name']}.
 // Kern (Code, Daten, Icons) wird bei jeder Version neu geladen; Audio bleibt im eigenen Speicher ({audio_version}), gefüllt beim Abspielen oder über „Hors-ligne“.
 // Wird AUDIO_STAND in bauen.py erhöht (nach Neuaufnahmen oder Lautstärke-Angleich), verwirft der Browser alle alten Audios.
-const VERSION = "ll-kern-{version}";
+const VERSION = "{A['praefix']}-kern-{version}";
 const AUDIO = "{audio_version}";
 const DATEIEN = {json.dumps(dateien)};
 self.addEventListener("install", (e) => {{
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(DATEIEN)).then(() => self.skipWaiting()));
 }});
 self.addEventListener("activate", (e) => {{
-  e.waitUntil(caches.keys().then((alle) => Promise.all(alle.filter((k) => (k.startsWith("ll-kern-") && k !== VERSION) || (k.startsWith("ll-audio") && k !== AUDIO)).map((k) => caches.delete(k))))
+  e.waitUntil(caches.keys().then((alle) => Promise.all(alle.filter((k) => (k.startsWith("{A['praefix']}-kern-") && k !== VERSION) || (k.startsWith("{A['praefix']}-audio") && k !== AUDIO)).map((k) => caches.delete(k))))
     .then(() => self.clients.claim()));
 }});
 self.addEventListener("fetch", (e) => {{
@@ -231,7 +265,7 @@ self.addEventListener("fetch", (e) => {{
   }})));
 }});
 """)
-    print("Web-App:", len(dateien), "Kern-Dateien, Version", version)
+    print(f"Web-App {A['name']} ({A['ordner'] or 'Wurzel'}):", len(dateien), "Kern-Dateien, Version", version)
 
 
 if __name__ == "__main__":

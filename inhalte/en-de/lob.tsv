@@ -1,0 +1,84 @@
+id	art	text	gruppe	de
+lob_spot_on	lob	Spot on!	genau	Genau richtig!
+lob_bang_on	lob	Bang on!	genau	Voll ins Schwarze!
+lob_quite	lob	Quite.	genau	Ganz recht.
+lob_nicely_put	lob	Nicely put!	gesagt	Schön gesagt!
+lob_well_said	lob	Well said!	gesagt	Gut gesagt!
+lob_precisely	lob	Precisely!	genau	Exakt!
+lob_exactly	lob	Exactly!	genau	Genau!
+lob_thats_it	lob	That's it!	genau	Das ist es!
+lob_lovely	lob	Lovely!	schoen	Wunderbar!
+lob_splendid	lob	Splendid!	schoen	Großartig!
+lob_brilliant	lob	Brilliant!	schoen	Brillant!
+lob_top_notch	lob	Top notch!	schoen	Erstklassig!
+lob_first_rate	lob	First rate!	schoen	Erstklassig!
+lob_good_show	lob	Good show!	bravo	Gut gemacht!
+lob_well_done	lob	Well done!	bravo	Gut gemacht!
+lob_nice_one	lob	Nice one!	bravo	Sauber!
+lob_good_man	lob	Good man!	bravo	Braver Mann!
+lob_hats_off	lob	Hats off!	bravo	Hut ab!
+lob_not_bad	lob	Not bad at all!	understatement	Gar nicht übel!
+lob_not_half	lob	Not half!	understatement	Und wie!
+lob_cant_argue	lob	Can't argue with that!	understatement	Dagegen lässt sich nichts sagen!
+lob_fair_play	lob	Fair play to you!	understatement	Alle Achtung!
+lob_full_marks	lob	Full marks!	schule	Volle Punktzahl!
+lob_ten_out_of_ten	lob	Ten out of ten!	schule	Zehn von zehn!
+lob_gold_star	lob	Gold star!	schule	Goldener Stern!
+lob_textbook	lob	Textbook!	schule	Wie aus dem Lehrbuch!
+lob_word_perfect	lob	Word perfect!	wort	Wortgenau!
+lob_le_mot_juste	lob	Le mot juste!	wort	Das treffende Wort!
+lob_thats_the_word	lob	That's the word!	wort	Das ist das Wort!
+lob_right_word	lob	The right word in the right place!	wort	Das richtige Wort am richtigen Platz!
+lob_what_an_ear	lob	What an ear!	ohr	Was für ein Ohr!
+lob_sounds_right	lob	Sounds just right!	ohr	Klingt genau richtig!
+lob_proper_english	lob	Proper English, that!	ohr	Das ist richtiges Englisch!
+lob_could_be_from_oxford	lob	You could be from Oxford!	ohr	Du könntest aus Oxford sein!
+lob_very_british	lob	Very British!	ohr	Sehr britisch!
+lob_you_are_getting_there	lob	You're getting there!	fortschritt	Du kommst voran!
+lob_coming_along	lob	Coming along nicely!	fortschritt	Das wird was!
+lob_another_one	lob	Another one in the bag!	fortschritt	Noch einer im Sack!
+lob_keep_it_up	lob	Keep it up!	fortschritt	Weiter so!
+lob_one_more_point	lob	One more point!	fortschritt	Noch ein Punkt!
+lob_yes	lob	Yes!	ja	Ja!
+lob_indeed	lob	Indeed!	ja	Allerdings!
+lob_absolutely	lob	Absolutely!	ja	Absolut!
+lob_rather	lob	Rather!	ja	Und ob!
+lob_couldnt_have_put_it_better	lob	Couldn't have put it better myself!	gesagt	Hätte ich nicht besser sagen können!
+lob_elegant	lob	Elegant!	schoen	Elegant!
+lob_sharp	lob	Sharp!	schoen	Scharf!
+lob_crisp	lob	Crisp!	schoen	Knackig!
+lob_sorted	lob	Sorted!	bravo	Erledigt!
+lob_job_done	lob	Job done!	bravo	Erledigt!
+lob_cracking	lob	Cracking!	schoen	Klasse!
+lob_smashing	lob	Smashing!	schoen	Fantastisch!
+lob_marvellous	lob	Marvellous!	schoen	Wunderbar!
+lob_first_time	lob	First time!	bravo	Beim ersten Mal!
+stark_champion	stark	Well done, champion!	champion	Bravo, Champion!
+stark_on_fire	stark	Unbelievable! You're on fire!	feuer	Unglaublich! Du bist in Serie!
+stark_proud	stark	I'm proud of you!	stolz	Ich bin stolz auf dich!
+stark_keep_going	stark	Superb! Keep going!	weiter	Großartig! Weiter so!
+stark_machine	stark	What a machine!	maschine	Was für eine Maschine!
+stark_star	stark	You're a star!	star	Du bist ein Star!
+stark_impressive	stark	Impressive!	beeindruckend	Beeindruckend!
+stark_easy	stark	You make it look easy!	leicht	Du lässt es leicht aussehen!
+stark_wanted_to_hear	stark	That's exactly what I wanted to hear!	hoeren	Genau das wollte ich hören!
+stark_flying	stark	You're flying today!	fliegen	Heute fliegst du!
+stark_bullseye	stark	Bullseye!	schwarze	Voll ins Schwarze!
+stark_performance	stark	What a performance!	leistung	Was für eine Leistung!
+stark_nailed_it	stark	You've nailed it!	genagelt	Du hast es auf den Punkt gebracht!
+stark_scholar	stark	A scholar and a gentleman!	gelehrt	Ein Gelehrter und ein Gentleman!
+fehler_nearly	fehler	Nearly!	fast	Fast!
+fehler_not_quite	fehler	Not quite.	fast	Nicht ganz.
+fehler_another_go	fehler	Another go!	nochmal	Noch ein Versuch!
+fehler_no_matter	fehler	No matter!	egal	Macht nichts!
+fehler_oh_dear	fehler	Oh dear!	oh	Oh je!
+fehler_hmm	fehler	Hmm…	hmm	Hmm…
+fehler_close	fehler	Close!	fast	Knapp daneben!
+fehler_nearly_nearly	fehler	Nearly, nearly!	fast	Fast, fast!
+fehler_not_this_time	fehler	Not this time!	diesmal	Diesmal nicht!
+fehler_start_again	fehler	No matter, let's start again!	nochmal	Macht nichts, noch mal von vorn!
+geschafft_done	geschafft	That's it for today! Hats off!	fertig	Schluss für heute! Hut ab!
+geschafft_all	geschafft	Well done, you've done the lot! See you tomorrow!	fertig	Bravo, du hast alles geschafft! Bis morgen!
+geschafft_proud	geschafft	You can be proud of yourself. See you tomorrow!	fertig	Du kannst stolz auf dich sein. Bis morgen!
+voll_faultless	voll	Faultless! Marvellous!	voll	Fehlerfrei! Wunderbar!
+doch_you_see	doch	You see? You can do it!	doch	Siehst du? Du schaffst es!
