@@ -32,8 +32,8 @@ window.SPRACHEN["it-de"] = {
    "Dieci minuti al giorno: la sessione, e poi quello che vuoi.",
    "Zehn Minuten am Tag: die Sessione, danach was du willst."
   ],
-  "seance": "▶ La mia sessione di oggi",
-  "seance_fertig": "✓ Sessione di oggi finita",
+  "seance": "▶ Si parte!",
+  "seance_fertig": "✓ Fatto per oggi",
   "seance_stand": "{neu} nuove · {wdh} da ripassare · {fertig} / {gesamt} fatte",
   "seance_leer": "Niente da ripassare oggi – esplora i temi!",
   "themen": [
@@ -66,7 +66,7 @@ window.SPRACHEN["it-de"] = {
   "poli_titel": "Höflichkeitsform",
   "trou": "buco",
   "hilfe_zeigen": "Deutsch anzeigen",
-  "seance_titel": "La mia sessione di oggi",
+  "seance_titel": "Palestra delle parole",
   "nouvelle": "nuova",
   "revision": "ripasso · livello {s}",
   "neu_ansage": [

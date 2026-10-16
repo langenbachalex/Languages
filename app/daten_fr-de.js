@@ -32,8 +32,8 @@ window.SPRACHEN["fr-de"] = {
    "Dix minutes par jour : la séance, puis ce que tu veux.",
    "Zehn Minuten am Tag: die Séance, danach was du willst."
   ],
-  "seance": "▶ Ma séance du jour",
-  "seance_fertig": "✓ Séance du jour terminée",
+  "seance": "▶ C'est parti !",
+  "seance_fertig": "✓ Terminé pour aujourd'hui",
   "seance_stand": "{neu} nouvelles · {wdh} à réviser · {fertig} / {gesamt} faites",
   "seance_leer": "Rien à réviser aujourd'hui – explore les thèmes !",
   "themen": [
@@ -66,7 +66,7 @@ window.SPRACHEN["fr-de"] = {
   "poli_titel": "Höflichkeitsform",
   "trou": "trou",
   "hilfe_zeigen": "Deutsch anzeigen",
-  "seance_titel": "Ma séance du jour",
+  "seance_titel": "Muscu des mots",
   "nouvelle": "nouvelle",
   "revision": "révision · niveau {s}",
   "neu_ansage": [

@@ -182,6 +182,26 @@
   }
   const ton = (o) => o.audio || { text: o.fr.replace(/[–—]/g, ",") };
 
+  /* ---------- Icon « Muscu des mots »: Gewichtheber, Bücher als Gewichte (Vorlage: School-App Word Gym) ----------
+     gehoben = Pensum fertig (Hantel oben); heben = einmal hochstemmen (SMIL, Start über svg.heben()). Farben aus den CSS-Variablen der Sprache. */
+  function gymIcon(gehoben, heben, groesse) {
+    const y = gehoben ? 16 : 34, y0 = heben ? 46 : y;
+    const arme = (h) => `M60 66 L40 ${h} M60 66 L80 ${h}`;
+    const buecher = (x) => `<g transform="translate(${x} 0)">
+      <rect x="2" y="-13" width="26" height="8" rx="1.5" class="b1"/><rect x="4" y="-4" width="22" height="8" rx="1.5" class="b2"/><rect x="1" y="5" width="28" height="8" rx="1.5" class="b3"/></g>`;
+    const anim = (werte) => (heben ? `begin="indefinite" dur="1.4s" fill="freeze" values="${werte}" keyTimes="0; .3; 1" calcMode="spline" keySplines=".4 0 .2 1; .4 0 .2 1"` : "");
+    const d = document.createElement("div");
+    d.innerHTML = `<svg class="gym-icon" viewBox="0 0 120 100" width="${groesse || 96}" height="${Math.round((groesse || 96) * 0.83)}" aria-hidden="true">
+      <path class="arme" d="${arme(y0)}">${heben ? `<animate attributeName="d" ${anim(`${arme(46)}; ${arme(46)}; ${arme(16)}`)}/>` : ""}</path>
+      <circle class="kopf" cx="60" cy="52" r="8.5"/><path class="figur" d="M60 62 V78 M60 78 L49 96 M60 78 L71 96"/>
+      <g class="hantel" transform="translate(0 ${y0})">${heben ? `<animateTransform attributeName="transform" type="translate" ${anim("0 46; 0 46; 0 16")}/>` : ""}
+        <line class="stange" x1="22" y1="0" x2="98" y2="0"/><circle class="stange-f" cx="30" cy="0" r="5.5"/><circle class="stange-f" cx="90" cy="0" r="5.5"/>
+        ${buecher(0)}${buecher(90)}<circle class="hand" cx="40" cy="0" r="5"/><circle class="hand" cx="80" cy="0" r="5"/></g></svg>`;
+    const svg = d.firstElementChild;
+    if (heben) svg.heben = () => svg.querySelectorAll("animate, animateTransform").forEach((a) => a.beginElement && a.beginElement());
+    return svg;
+  }
+
   /* ---------- Hilfen ---------- */
   function el(tag, attrs, ...kinder) {
     const e = document.createElement(tag);
@@ -267,11 +287,15 @@
       el("header", { class: "gruss" },
         el("h1", { lang: D.lang }, gruss()),
         ufp("motto")),
-      el("button", { class: "seance-knopf" + (plan.geschafft ? " fertig" : ""), onclick: starteSeance },
-        el("span", { class: "gross" }, plan.geschafft ? U.seance_fertig : U.seance),
-        el("span", { class: "unter" }, gesamt ? f(U.seance_stand, { neu: plan.neu.length, wdh: plan.wdh.length, fertig, gesamt }) : U.seance_leer),
-        el("span", { class: "seance-fortschritt", "aria-hidden": "true" }, punkte.map((p) =>
-          el("span", { class: (p.wdh ? "wdh" : "") + (plan.fertig.includes(p.id) ? " ok" : "") })))),
+      // Startkarte « Muscu des mots » (Word Gym): Gewichtheber mit Büchern als Gewichten, hebt die Hantel, wenn das Pensum fertig ist
+      el("section", { class: "gym-karte" + (plan.geschafft ? " fertig" : "") },
+        gymIcon(plan.geschafft, false, 92),
+        el("div", { class: "gym-text" },
+          el("h2", { lang: D.lang }, U.seance_titel),
+          el("p", { class: "unter", lang: D.lang }, gesamt ? f(U.seance_stand, { neu: plan.neu.length, wdh: plan.wdh.length, fertig, gesamt }) : U.seance_leer),
+          gesamt > 0 && el("span", { class: "gym-punkte", "aria-hidden": "true" }, punkte.map((p) =>
+            el("span", { class: (p.wdh ? "wdh" : "") + (plan.fertig.includes(p.id) ? " ok" : "") })))),
+        el("div", { class: "gym-knoepfe" }, knopf(plan.geschafft ? U.seance_fertig : U.seance, starteSeance, plan.geschafft ? "" : "haupt"))),
       el("h2", {}, uf("themen")),
       el("nav", { class: "kacheln themen", "aria-label": U.themen[0] },
         D.themen.map((t) => {
@@ -342,7 +366,7 @@
     zeigeSeanceKarte();
   }
   function seanceKopf() {
-    return el("header", { class: "kopf" }, knopf(U.zurueck_accueil, startseite, "leise"), el("h1", { lang: D.lang }, U.seance_titel));
+    return el("header", { class: "kopf" }, knopf(U.zurueck_accueil, startseite, "leise"), el("h1", { lang: D.lang, class: "gym-titel" }, gymIcon(false, false, 40), U.seance_titel));
   }
   function seanceWeiter() {
     const plan = tagesplan();
@@ -429,11 +453,14 @@
     // Lob und „À demain“ hintereinander (nicht gleichzeitig, sonst schneidet das eine das andere ab)
     const r = waehleRuf(alles ? "geschafft" : "stark"), text = r ? r.text : "", textDe = r ? r.de : "";
     const fini = erstesMal && SP.texte.fini;
-    const zeichne = () => zeige(seanceKopf(), el("section", { class: "geschafft" },
+    const icon = gymIcon(alles, erstesMal, 120);
+    const zeichne = () => { zeige(seanceKopf(), el("section", { class: "geschafft gym-ende" },
+      icon,
       el("h2", { lang: D.lang }, alles ? U.fini : U.pause),
       lobZeile(text, "p", textDe),
       ufp(alles ? "fini_text" : "pause_text"),
       el("div", { class: "knopfreihe" }, knopf(U.accueil, startseite, "haupt"), knopf(U.sammlung, sammlung))));
+      if (icon.heben) setTimeout(icon.heben, 400); };
     ansicht = zeichne; seance = null; tasten(null, null);
     zeichne();
     setTimeout(() => spiele([r && tonLob(r), fini && (fini.audio || { text: fini.text })]), 300);

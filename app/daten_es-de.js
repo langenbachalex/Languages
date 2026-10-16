@@ -32,8 +32,8 @@ window.SPRACHEN["es-de"] = {
    "Diez minutos al día: la sesión, y luego lo que quieras.",
    "Zehn Minuten am Tag: die Sesión, danach was du willst."
   ],
-  "seance": "▶ Mi sesión de hoy",
-  "seance_fertig": "✓ Sesión de hoy terminada",
+  "seance": "▶ ¡Vamos!",
+  "seance_fertig": "✓ Hecho por hoy",
   "seance_stand": "{neu} nuevas · {wdh} para repasar · {fertig} / {gesamt} hechas",
   "seance_leer": "Nada que repasar hoy – ¡explora los temas!",
   "themen": [
@@ -66,7 +66,7 @@ window.SPRACHEN["es-de"] = {
   "poli_titel": "Höflichkeitsform",
   "trou": "hueco",
   "hilfe_zeigen": "Deutsch anzeigen",
-  "seance_titel": "Mi sesión de hoy",
+  "seance_titel": "Gimnasio de palabras",
   "nouvelle": "nueva",
   "revision": "repaso · nivel {s}",
   "neu_ansage": [

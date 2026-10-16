@@ -25,18 +25,35 @@
 .ansage .frde-de { font-size: 1.05rem; }
 
 /* Startseite */
-.seance-knopf {
-  display: grid; gap: 6px; justify-items: start; text-align: left; padding: 22px 24px; border-radius: 22px;
-  border: 0; background: var(--blau); color: var(--blau-text); cursor: pointer; font: inherit; width: 100%;
+/* « Muscu des mots » (Word Gym): Startkarte, Icon, Ende – Vorlage docs/export/word-gym der School-App */
+.gym-karte { display: grid; grid-template-columns: auto 1fr auto; gap: 8px 16px; align-items: center; padding: 14px 16px; border-radius: 20px;
+  background: var(--karte); border: 3px solid var(--blau); }
+.gym-karte.fertig { border-color: var(--gruen); background: var(--gruen-hell); }
+.gym-text { min-width: 0; display: grid; gap: 4px; }
+.gym-text h2 { margin: 0; font: 600 1.6rem/1.15 var(--display); }
+.gym-text .unter { color: var(--leise); }
+.gym-punkte { display: flex; flex-wrap: wrap; gap: 5px; }
+.gym-punkte span { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--blau); background: transparent; }
+.gym-punkte span.wdh { border-radius: 3px; }
+.gym-punkte span.ok { background: var(--blau); }
+.gym-knoepfe { display: flex; gap: 6px; align-items: center; }
+.gym-titel { display: inline-flex; align-items: center; gap: 10px; }
+.gym-icon { display: block; overflow: visible; --figur: var(--blau); --kopf: var(--blau); --stange: var(--text); --b1: var(--rot); --b2: var(--gelb); --b3: var(--blau); --rand: var(--text); }
+.gym-icon .figur, .gym-icon .arme { fill: none; stroke: var(--figur); stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }
+.gym-icon .kopf, .gym-icon .hand { fill: var(--kopf); }
+.gym-icon .kopf { stroke: var(--karte); stroke-width: 3; }
+.gym-icon .stange { stroke: var(--stange); stroke-width: 7; stroke-linecap: round; }
+.gym-icon .stange-f { fill: var(--stange); }
+.gym-icon .b1 { fill: var(--b1); } .gym-icon .b2 { fill: var(--b2); } .gym-icon .b3 { fill: var(--b3); }
+.gym-icon rect { stroke: var(--rand); stroke-width: 1.5; }
+.gym-ende { justify-items: center; text-align: center; }
+.gym-ende .knopfreihe { justify-content: center; }
+@media (prefers-reduced-motion: reduce) { .gym-icon animate, .gym-icon animateTransform { display: none; } }
+@media (max-width: 640px) {
+  .gym-karte { grid-template-columns: auto 1fr; }
+  .gym-knoepfe { grid-column: 1 / -1; }
+  .gym-knoepfe .knopf { flex: 1; }
 }
-.seance-knopf:focus-visible { outline: 3px solid var(--gelb); outline-offset: 3px; }
-.seance-knopf .gross { font: 600 1.7rem/1.15 var(--display); }
-.seance-knopf .unter { opacity: .9; }
-.seance-knopf.fertig { background: var(--gruen); }
-.seance-fortschritt { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
-.seance-fortschritt span { width: 14px; height: 14px; border-radius: 50%; background: rgba(255,255,255,.35); }
-.seance-fortschritt span.ok { background: var(--gelb); }
-.seance-fortschritt span.wdh { border-radius: 4px; }
 .themen { grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); }
 .kachel .unter { font-size: .95rem; color: var(--leise); }
 .kachel .zahl { font-size: .8rem; color: var(--leise); margin-top: auto; }
@@ -75,7 +92,7 @@
 .titel-symbol { font-size: 3rem; line-height: 1; }
 .bildnachweis { margin-top: 8px; }
 @media (max-width: 640px) {
-  .seance-knopf .gross { font-size: 1.4rem; }
+  .gym-text h2 { font-size: 1.35rem; }
 }
 
 /* Dialoge: Zeilen A (Alex) links, B (Aurélien) rechts, Sprechende hervorgehoben */
