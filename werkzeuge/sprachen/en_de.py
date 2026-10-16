@@ -20,15 +20,16 @@ THEME = {"blau": "#1f4e3d", "rot": "#8b1e2d", "rot_text": "#ffffff", "dunkel": {
 # Themen in Lernreihenfolge – erste Achse: Precision pairs (Inhalt folgt, Freigabe je Thema)
 THEMEN = []
 
-# Titel – britische Teestube, vom Cuppa bis zum Beef Wellington
-TITEL = [(0, "Cuppa", "☕"), (300, "Crumpet", "🧈"), (900, "Scone", "🥐"), (1800, "Cornish pasty", "🥟"),
-         (3000, "Sunday roast", "🍖"), (4500, "Afternoon tea", "🫖"), (6500, "Beef Wellington", "👑")]
-TITEL_ANSAGE = "Congratulations! You are now {name}!"
+# Titel – Rang und Ruhm unter den Eldar: vom Wanderer bis zu dem, der in den Liedern genannt wird (Mr. Alex, 16.10.)
+TITEL = [(0, "Wanderer", "🚶"), (300, "Herald", "📯"), (900, "Marchwarden", "🏹"), (1800, "Captain of the Noldor", "⚔️"),
+         (3000, "Loremaster of Tirion", "📜"), (4500, "Lord of a House", "🏰"), (6500, "Named in Song", "🎵")]
+TITEL_ANSAGE = "Hail! Wanderer no longer: you are now {name}."
+# Ton des Buches: Voranstellung des gewichtigen Adjektivs („Grey is the shadow“), gehobenes Vokabular
 SPIEL_TEXTE = {  # gesprochen von Mr. Alex (audio/spiel/<id>.mp3)
-    "feuer": "You're on fire! Three days in a row!",
-    "woche": "A perfect week! You've practised every school day. Well done!",
-    "monat": "Four perfect weeks in a row! What a champion!",
-    "fini": "That's it for today. See you tomorrow!",
+    "feuer": "Bright burns your flame! Three days unbroken!",
+    "woche": "Perfect is this week: every school day kept. Hail!",
+    "monat": "Four perfect weeks, unbroken! Of such deeds are songs made.",
+    "fini": "Ended is the labour of this day. Rest, and return tomorrow.",
 }
 
 # Dialoge: Rolle A = Alex (Mr. Alex' Stimme), Rolle B = Simon (ein Freund, geklonte Stimme)
@@ -66,8 +67,8 @@ AUSSPRACHE_KORREKTUR = {}
 # Oberflächentexte: [Zielsprache, Hilfe] oder nur Zielsprache
 UI = {
     "app": "English – Word Gym",
-    "gruss": ["Hello! Shall we?", "Morning! Ready when you are.", "Evening! A quick session?"],
-    "motto": ["Ten minutes a day: the Word Gym, then whatever you fancy.", "Zehn Minuten am Tag: das Word Gym, danach was du willst."],
+    "gruss": ["Hail and well met!", "Well met! Young is the day.", "Late is the hour. A word or two?"],
+    "motto": ["Ten minutes a day: the Word Gym, then yours is the road.", "Zehn Minuten am Tag: das Word Gym, danach gehört der Weg dir."],
     "seance": "▶ Let's go", "seance_fertig": "✓ Done for today",
     "seance_stand": "{neu} new · {wdh} to revise · {fertig} / {gesamt} done",
     "seance_leer": "Nothing to revise today – explore the themes!",
@@ -85,7 +86,7 @@ UI = {
     "exemple": "Example", "ziel_sprache": "English", "hilfe_sprache": "Deutsch",
     "wie_sagt_man": ["How do you say it in English? Say it out loud, then “Solution”.", "Wie sagt man das auf Englisch? Sag es laut, dann „Solution“."],
     "je_savais": "😊 I knew it", "encore": "🔁 Again", "pas_grave": "No matter – it comes back in a moment.",
-    "fini": "That's it for today!", "pause": "Break!",
+    "fini": "Ended is the day's labour!", "pause": "A rest!",
     "fini_text": ["Your box is up to date. Tomorrow the items come back at the right moment. If you want more, explore the themes – no pressure.",
                   "Dein Kasten ist auf dem neuesten Stand. Morgen kommen die Einträge zum richtigen Zeitpunkt zurück. Wenn du weitermachen willst: die Themen, ohne Druck."],
     "pause_text": ["You can pick the Word Gym up whenever you like – what's done stays done.", "Du kannst das Word Gym jederzeit fortsetzen – was gemacht ist, bleibt gemacht."],
@@ -110,7 +111,7 @@ UI = {
     "lr_label": "Listen and repeat", "parties_label": "Parts – direct access",
     "trop_vite": "⏱️ Too fast!", "trop_vite_text": ["Really say the sentences out loud. Then there are points. Once more!", "Sprich die Sätze wirklich laut. Dann gibt es auch Punkte. Noch mal!"],
     "encore_fois": "Once more ➜", "termine": "{name}: done!", "presque": ["Nearly there! Still missing:", "Fast! Es fehlt noch:"],
-    "thema_fertig": "The whole theme “{name}” is done. Hats off!", "autres_parties": "Other parts",
+    "thema_fertig": "Whole is the theme “{name}”. Hail!", "autres_parties": "Other parts",
     "stufen": [["Listen and repeat! The German sentence helps you.", "Hör zu und sprich nach! Der deutsche Satz hilft dir."],
                ["Which word is missing? Say the whole sentence, then “Solution”.", "Welches Wort fehlt? Sag den ganzen Satz, dann „Solution“."],
                ["Say the sentence in English, then “Solution”.", "Sag den Satz auf Englisch, dann „Solution“."]],
@@ -122,11 +123,11 @@ UI = {
     "zeit_ansage": ["Listen to today's sentence. Then say it in the past, and in the future – out loud. Then “Solution”.",
                     "Hör den Satz von heute. Dann sag ihn in der Vergangenheit und in der Zukunft – laut. Danach „Solution“."],
     "expression": "Item {n} / {alle}",
-    "bonus_weekend": "🏖️ Weekend bonus +{p}", "en_feu": "You're on fire! {n} days in a row", "en_feu_text": "{n} school days in a row – +{p} points!",
-    "semaine_parfaite_titel": "Perfect week!", "semaine_parfaite_text": "You've practised every school day – +{p} points.",
+    "bonus_weekend": "🏖️ Weekend bonus +{p}", "en_feu": "Bright burns your flame! {n} days unbroken", "en_feu_text": "{n} school days unbroken – +{p} points!",
+    "semaine_parfaite_titel": "Perfect is this week!", "semaine_parfaite_text": "Every school day kept – +{p} points.",
     "nouveau_chapitre": " New chapter: “{titel}”!", "suite_bientot": " The next part of the story is on its way.",
-    "mois_parfait": "Perfect month!", "mois_parfait_text": "{n} perfect weeks in a row – +{p} points and a golden frame!",
-    "nouveau_titre": "New title: {name}!", "points": "points", "jours_suite": "School days in a row",
+    "mois_parfait": "Perfect is this month!", "mois_parfait_text": "{n} perfect weeks unbroken – +{p} points and a golden frame!",
+    "nouveau_titre": "Hail, {name}!", "points": "points", "jours_suite": "School days in a row",
     "visite": "visited ✓",
     "ton_titre": "Your title", "encore_points": "{n} more points to “{name}” {symbol}",
     "cette_semaine": "This week", "tage": ["Mon", "Tue", "Wed", "Thu", "Fri"],

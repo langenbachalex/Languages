@@ -24,13 +24,13 @@ window.SPRACHEN["en-de"] = {
  "ui": {
   "app": "English – Word Gym",
   "gruss": [
-   "Hello! Shall we?",
-   "Morning! Ready when you are.",
-   "Evening! A quick session?"
+   "Hail and well met!",
+   "Well met! Young is the day.",
+   "Late is the hour. A word or two?"
   ],
   "motto": [
-   "Ten minutes a day: the Word Gym, then whatever you fancy.",
-   "Zehn Minuten am Tag: das Word Gym, danach was du willst."
+   "Ten minutes a day: the Word Gym, then yours is the road.",
+   "Zehn Minuten am Tag: das Word Gym, danach gehört der Weg dir."
   ],
   "seance": "▶ Let's go",
   "seance_fertig": "✓ Done for today",
@@ -83,8 +83,8 @@ window.SPRACHEN["en-de"] = {
   "je_savais": "😊 I knew it",
   "encore": "🔁 Again",
   "pas_grave": "No matter – it comes back in a moment.",
-  "fini": "That's it for today!",
-  "pause": "Break!",
+  "fini": "Ended is the day's labour!",
+  "pause": "A rest!",
   "fini_text": [
    "Your box is up to date. Tomorrow the items come back at the right moment. If you want more, explore the themes – no pressure.",
    "Dein Kasten ist auf dem neuesten Stand. Morgen kommen die Einträge zum richtigen Zeitpunkt zurück. Wenn du weitermachen willst: die Themen, ohne Druck."
@@ -157,7 +157,7 @@ window.SPRACHEN["en-de"] = {
    "Nearly there! Still missing:",
    "Fast! Es fehlt noch:"
   ],
-  "thema_fertig": "The whole theme “{name}” is done. Hats off!",
+  "thema_fertig": "Whole is the theme “{name}”. Hail!",
   "autres_parties": "Other parts",
   "stufen": [
    [
@@ -206,15 +206,15 @@ window.SPRACHEN["en-de"] = {
   ],
   "expression": "Item {n} / {alle}",
   "bonus_weekend": "🏖️ Weekend bonus +{p}",
-  "en_feu": "You're on fire! {n} days in a row",
-  "en_feu_text": "{n} school days in a row – +{p} points!",
-  "semaine_parfaite_titel": "Perfect week!",
-  "semaine_parfaite_text": "You've practised every school day – +{p} points.",
+  "en_feu": "Bright burns your flame! {n} days unbroken",
+  "en_feu_text": "{n} school days unbroken – +{p} points!",
+  "semaine_parfaite_titel": "Perfect is this week!",
+  "semaine_parfaite_text": "Every school day kept – +{p} points.",
   "nouveau_chapitre": " New chapter: “{titel}”!",
   "suite_bientot": " The next part of the story is on its way.",
-  "mois_parfait": "Perfect month!",
-  "mois_parfait_text": "{n} perfect weeks in a row – +{p} points and a golden frame!",
-  "nouveau_titre": "New title: {name}!",
+  "mois_parfait": "Perfect is this month!",
+  "mois_parfait_text": "{n} perfect weeks unbroken – +{p} points and a golden frame!",
+  "nouveau_titre": "Hail, {name}!",
   "points": "points",
   "jours_suite": "School days in a row",
   "visite": "visited ✓",
@@ -296,591 +296,623 @@ window.SPRACHEN["en-de"] = {
  "lob": {
   "lob": [
    {
-    "text": "Spot on!",
-    "de": "Genau richtig!",
+    "text": "Bright is that word!",
+    "de": "Hell leuchtet dieses Wort!",
     "audio": null,
     "gruppe": [
-     "genau"
+     "hell"
     ]
    },
    {
-    "text": "Bang on!",
-    "de": "Voll ins Schwarze!",
+    "text": "Keen is your tongue!",
+    "de": "Scharf ist deine Zunge!",
     "audio": null,
     "gruppe": [
-     "genau"
+     "scharf"
     ]
    },
    {
-    "text": "Quite.",
-    "de": "Ganz recht.",
+    "text": "Wise are your words.",
+    "de": "Weise sind deine Worte.",
     "audio": null,
     "gruppe": [
-     "genau"
+     "weise"
     ]
    },
    {
-    "text": "Nicely put!",
-    "de": "Schön gesagt!",
+    "text": "Well-wrought is that phrase.",
+    "de": "Gut geschmiedet ist diese Wendung.",
     "audio": null,
     "gruppe": [
-     "gesagt"
+     "geschmiedet"
     ]
    },
    {
-    "text": "Well said!",
-    "de": "Gut gesagt!",
+    "text": "Deep runs your lore.",
+    "de": "Tief reicht dein Wissen.",
     "audio": null,
     "gruppe": [
-     "gesagt"
+     "wissen"
     ]
    },
    {
-    "text": "Precisely!",
-    "de": "Exakt!",
+    "text": "Swift was that answer.",
+    "de": "Rasch kam diese Antwort.",
     "audio": null,
     "gruppe": [
-     "genau"
+     "schnell"
     ]
    },
    {
-    "text": "Exactly!",
-    "de": "Genau!",
-    "audio": null,
-    "gruppe": [
-     "genau"
-    ]
-   },
-   {
-    "text": "That's it!",
-    "de": "Das ist es!",
-    "audio": null,
-    "gruppe": [
-     "genau"
-    ]
-   },
-   {
-    "text": "Lovely!",
-    "de": "Wunderbar!",
-    "audio": null,
-    "gruppe": [
-     "schoen"
-    ]
-   },
-   {
-    "text": "Splendid!",
-    "de": "Großartig!",
-    "audio": null,
-    "gruppe": [
-     "schoen"
-    ]
-   },
-   {
-    "text": "Brilliant!",
-    "de": "Brillant!",
-    "audio": null,
-    "gruppe": [
-     "schoen"
-    ]
-   },
-   {
-    "text": "Top notch!",
-    "de": "Erstklassig!",
-    "audio": null,
-    "gruppe": [
-     "schoen"
-    ]
-   },
-   {
-    "text": "First rate!",
-    "de": "Erstklassig!",
-    "audio": null,
-    "gruppe": [
-     "schoen"
-    ]
-   },
-   {
-    "text": "Good show!",
-    "de": "Gut gemacht!",
-    "audio": null,
-    "gruppe": [
-     "bravo"
-    ]
-   },
-   {
-    "text": "Well done!",
-    "de": "Gut gemacht!",
-    "audio": null,
-    "gruppe": [
-     "bravo"
-    ]
-   },
-   {
-    "text": "Nice one!",
-    "de": "Sauber!",
-    "audio": null,
-    "gruppe": [
-     "bravo"
-    ]
-   },
-   {
-    "text": "Good man!",
-    "de": "Braver Mann!",
-    "audio": null,
-    "gruppe": [
-     "bravo"
-    ]
-   },
-   {
-    "text": "Hats off!",
-    "de": "Hut ab!",
-    "audio": null,
-    "gruppe": [
-     "bravo"
-    ]
-   },
-   {
-    "text": "Not bad at all!",
-    "de": "Gar nicht übel!",
-    "audio": null,
-    "gruppe": [
-     "understatement"
-    ]
-   },
-   {
-    "text": "Not half!",
-    "de": "Und wie!",
-    "audio": null,
-    "gruppe": [
-     "understatement"
-    ]
-   },
-   {
-    "text": "Can't argue with that!",
-    "de": "Dagegen lässt sich nichts sagen!",
-    "audio": null,
-    "gruppe": [
-     "understatement"
-    ]
-   },
-   {
-    "text": "Fair play to you!",
-    "de": "Alle Achtung!",
-    "audio": null,
-    "gruppe": [
-     "understatement"
-    ]
-   },
-   {
-    "text": "Full marks!",
-    "de": "Volle Punktzahl!",
-    "audio": null,
-    "gruppe": [
-     "schule"
-    ]
-   },
-   {
-    "text": "Ten out of ten!",
-    "de": "Zehn von zehn!",
-    "audio": null,
-    "gruppe": [
-     "schule"
-    ]
-   },
-   {
-    "text": "Gold star!",
-    "de": "Goldener Stern!",
-    "audio": null,
-    "gruppe": [
-     "schule"
-    ]
-   },
-   {
-    "text": "Textbook!",
-    "de": "Wie aus dem Lehrbuch!",
-    "audio": null,
-    "gruppe": [
-     "schule"
-    ]
-   },
-   {
-    "text": "Word perfect!",
-    "de": "Wortgenau!",
-    "audio": null,
-    "gruppe": [
-     "wort"
-    ]
-   },
-   {
-    "text": "Le mot juste!",
-    "de": "Das treffende Wort!",
-    "audio": null,
-    "gruppe": [
-     "wort"
-    ]
-   },
-   {
-    "text": "That's the word!",
-    "de": "Das ist das Wort!",
-    "audio": null,
-    "gruppe": [
-     "wort"
-    ]
-   },
-   {
-    "text": "The right word in the right place!",
-    "de": "Das richtige Wort am richtigen Platz!",
-    "audio": null,
-    "gruppe": [
-     "wort"
-    ]
-   },
-   {
-    "text": "What an ear!",
-    "de": "Was für ein Ohr!",
+    "text": "Unerring is your ear.",
+    "de": "Unfehlbar ist dein Ohr.",
     "audio": null,
     "gruppe": [
      "ohr"
     ]
    },
    {
-    "text": "Sounds just right!",
-    "de": "Klingt genau richtig!",
+    "text": "Sure is your hand upon the word.",
+    "de": "Sicher ist deine Hand am Wort.",
     "audio": null,
     "gruppe": [
-     "ohr"
+     "sicher"
     ]
    },
    {
-    "text": "Proper English, that!",
-    "de": "Das ist richtiges Englisch!",
+    "text": "Apt it is, and seemly.",
+    "de": "Treffend ist es, und geziemend.",
     "audio": null,
     "gruppe": [
-     "ohr"
+     "passend"
     ]
    },
    {
-    "text": "You could be from Oxford!",
-    "de": "Du könntest aus Oxford sein!",
-    "audio": null,
-    "gruppe": [
-     "ohr"
-    ]
-   },
-   {
-    "text": "Very British!",
-    "de": "Sehr britisch!",
-    "audio": null,
-    "gruppe": [
-     "ohr"
-    ]
-   },
-   {
-    "text": "You're getting there!",
-    "de": "Du kommst voran!",
-    "audio": null,
-    "gruppe": [
-     "fortschritt"
-    ]
-   },
-   {
-    "text": "Coming along nicely!",
-    "de": "Das wird was!",
-    "audio": null,
-    "gruppe": [
-     "fortschritt"
-    ]
-   },
-   {
-    "text": "Another one in the bag!",
-    "de": "Noch einer im Sack!",
-    "audio": null,
-    "gruppe": [
-     "fortschritt"
-    ]
-   },
-   {
-    "text": "Keep it up!",
-    "de": "Weiter so!",
-    "audio": null,
-    "gruppe": [
-     "fortschritt"
-    ]
-   },
-   {
-    "text": "One more point!",
-    "de": "Noch ein Punkt!",
-    "audio": null,
-    "gruppe": [
-     "fortschritt"
-    ]
-   },
-   {
-    "text": "Yes!",
-    "de": "Ja!",
-    "audio": null,
-    "gruppe": [
-     "ja"
-    ]
-   },
-   {
-    "text": "Indeed!",
-    "de": "Allerdings!",
-    "audio": null,
-    "gruppe": [
-     "ja"
-    ]
-   },
-   {
-    "text": "Absolutely!",
-    "de": "Absolut!",
-    "audio": null,
-    "gruppe": [
-     "ja"
-    ]
-   },
-   {
-    "text": "Rather!",
-    "de": "Und ob!",
-    "audio": null,
-    "gruppe": [
-     "ja"
-    ]
-   },
-   {
-    "text": "Couldn't have put it better myself!",
-    "de": "Hätte ich nicht besser sagen können!",
-    "audio": null,
-    "gruppe": [
-     "gesagt"
-    ]
-   },
-   {
-    "text": "Elegant!",
-    "de": "Elegant!",
+    "text": "Fair-spoken, and true.",
+    "de": "Schön gesprochen, und wahr.",
     "audio": null,
     "gruppe": [
      "schoen"
     ]
    },
    {
-    "text": "Sharp!",
-    "de": "Scharf!",
+    "text": "Thus would the Eldar say it.",
+    "de": "So würden es die Eldar sagen.",
+    "audio": null,
+    "gruppe": [
+     "eldar"
+    ]
+   },
+   {
+    "text": "Fitting for the halls of Menegroth.",
+    "de": "Würdig der Hallen von Menegroth.",
+    "audio": null,
+    "gruppe": [
+     "menegroth"
+    ]
+   },
+   {
+    "text": "Clear as Sirion is your speech.",
+    "de": "Klar wie der Sirion ist deine Rede.",
+    "audio": null,
+    "gruppe": [
+     "klar"
+    ]
+   },
+   {
+    "text": "Fëanor himself wrought no finer.",
+    "de": "Fëanor selbst schmiedete nichts Feineres.",
+    "audio": null,
+    "gruppe": [
+     "feanor"
+    ]
+   },
+   {
+    "text": "Rúmil would have set it in letters.",
+    "de": "Rúmil hätte es in Lettern gesetzt.",
+    "audio": null,
+    "gruppe": [
+     "rumil"
+    ]
+   },
+   {
+    "text": "Not in vain were you taught in Tirion.",
+    "de": "Nicht umsonst wurdest du in Tirion gelehrt.",
+    "audio": null,
+    "gruppe": [
+     "tirion"
+    ]
+   },
+   {
+    "text": "Lo! the right word.",
+    "de": "Siehe! Das rechte Wort.",
+    "audio": null,
+    "gruppe": [
+     "lo"
+    ]
+   },
+   {
+    "text": "Mighty is that choice!",
+    "de": "Mächtig ist diese Wahl!",
+    "audio": null,
+    "gruppe": [
+     "maechtig"
+    ]
+   },
+   {
+    "text": "True to the mark!",
+    "de": "Genau ins Ziel!",
+    "audio": null,
+    "gruppe": [
+     "treffer"
+    ]
+   },
+   {
+    "text": "Straight as an arrow of Beleg!",
+    "de": "Gerade wie ein Pfeil Belegs!",
+    "audio": null,
+    "gruppe": [
+     "treffer"
+    ]
+   },
+   {
+    "text": "Fair is that word, and fitting.",
+    "de": "Schön ist dieses Wort, und passend.",
     "audio": null,
     "gruppe": [
      "schoen"
     ]
    },
    {
-    "text": "Crisp!",
-    "de": "Knackig!",
+    "text": "Well chosen!",
+    "de": "Gut gewählt!",
     "audio": null,
     "gruppe": [
-     "schoen"
+     "wahl"
     ]
    },
    {
-    "text": "Sorted!",
-    "de": "Erledigt!",
+    "text": "Keen-eyed, and keen of tongue.",
+    "de": "Scharfäugig, und scharf von Zunge.",
     "audio": null,
     "gruppe": [
-     "bravo"
+     "scharf"
     ]
    },
    {
-    "text": "Job done!",
-    "de": "Erledigt!",
+    "text": "So it is written.",
+    "de": "So steht es geschrieben.",
     "audio": null,
     "gruppe": [
-     "bravo"
+     "geschrieben"
     ]
    },
    {
-    "text": "Cracking!",
-    "de": "Klasse!",
+    "text": "The loremasters would approve.",
+    "de": "Die Lehrmeister würden es billigen.",
     "audio": null,
     "gruppe": [
-     "schoen"
+     "lore"
     ]
    },
    {
-    "text": "Smashing!",
-    "de": "Fantastisch!",
+    "text": "Even Melian would nod.",
+    "de": "Selbst Melian würde nicken.",
     "audio": null,
     "gruppe": [
-     "schoen"
+     "melian"
     ]
    },
    {
-    "text": "Marvellous!",
-    "de": "Wunderbar!",
+    "text": "That would please Thingol.",
+    "de": "Das würde Thingol gefallen.",
     "audio": null,
     "gruppe": [
-     "schoen"
+     "thingol"
     ]
    },
    {
-    "text": "First time!",
-    "de": "Beim ersten Mal!",
+    "text": "A word forged, not found.",
+    "de": "Ein Wort, geschmiedet, nicht gefunden.",
     "audio": null,
     "gruppe": [
-     "bravo"
-    ]
-   }
-  ],
-  "stark": [
-   {
-    "text": "Well done, champion!",
-    "de": "Bravo, Champion!",
-    "audio": null,
-    "gruppe": [
-     "champion"
+     "geschmiedet"
     ]
    },
    {
-    "text": "Unbelievable! You're on fire!",
-    "de": "Unglaublich! Du bist in Serie!",
+    "text": "Bright as a Silmaril!",
+    "de": "Hell wie ein Silmaril!",
     "audio": null,
     "gruppe": [
-     "feuer"
+     "hell"
     ]
    },
    {
-    "text": "I'm proud of you!",
-    "de": "Ich bin stolz auf dich!",
+    "text": "Noble is your speech.",
+    "de": "Edel ist deine Rede.",
     "audio": null,
     "gruppe": [
-     "stolz"
+     "edel"
     ]
    },
    {
-    "text": "Superb! Keep going!",
-    "de": "Großartig! Weiter so!",
+    "text": "Firm is your footing on that word.",
+    "de": "Fest ist dein Stand auf diesem Wort.",
+    "audio": null,
+    "gruppe": [
+     "sicher"
+    ]
+   },
+   {
+    "text": "Rich is your tongue, and ready.",
+    "de": "Reich ist deine Zunge, und bereit.",
+    "audio": null,
+    "gruppe": [
+     "reich"
+    ]
+   },
+   {
+    "text": "Sharp as a blade of Gondolin!",
+    "de": "Scharf wie eine Klinge aus Gondolin!",
+    "audio": null,
+    "gruppe": [
+     "scharf"
+    ]
+   },
+   {
+    "text": "Steady is your voice.",
+    "de": "Fest ist deine Stimme.",
+    "audio": null,
+    "gruppe": [
+     "sicher"
+    ]
+   },
+   {
+    "text": "Worthy of an elven ear.",
+    "de": "Würdig eines Elbenohrs.",
+    "audio": null,
+    "gruppe": [
+     "eldar"
+    ]
+   },
+   {
+    "text": "Finely wrought, that.",
+    "de": "Fein gearbeitet, dies.",
+    "audio": null,
+    "gruppe": [
+     "geschmiedet"
+    ]
+   },
+   {
+    "text": "Nothing is wanting there.",
+    "de": "Nichts fehlt daran.",
+    "audio": null,
+    "gruppe": [
+     "vollkommen"
+    ]
+   },
+   {
+    "text": "Whole and true!",
+    "de": "Ganz und wahr!",
+    "audio": null,
+    "gruppe": [
+     "vollkommen"
+    ]
+   },
+   {
+    "text": "Well remembered!",
+    "de": "Gut erinnert!",
+    "audio": null,
+    "gruppe": [
+     "erinnert"
+    ]
+   },
+   {
+    "text": "Long is your memory, as befits the Eldar.",
+    "de": "Lang ist dein Gedächtnis, wie es den Eldar ziemt.",
+    "audio": null,
+    "gruppe": [
+     "erinnert"
+    ]
+   },
+   {
+    "text": "Another word won.",
+    "de": "Wieder ein Wort gewonnen.",
+    "audio": null,
+    "gruppe": [
+     "gewonnen"
+    ]
+   },
+   {
+    "text": "The hoard grows.",
+    "de": "Der Hort wächst.",
+    "audio": null,
+    "gruppe": [
+     "gewonnen"
+    ]
+   },
+   {
+    "text": "Onward, and well.",
+    "de": "Weiter, und gut.",
     "audio": null,
     "gruppe": [
      "weiter"
     ]
    },
    {
-    "text": "What a machine!",
-    "de": "Was für eine Maschine!",
+    "text": "So it stands.",
+    "de": "So steht es.",
     "audio": null,
     "gruppe": [
-     "maschine"
+     "geschrieben"
     ]
    },
    {
-    "text": "You're a star!",
-    "de": "Du bist ein Star!",
+    "text": "Rightly said.",
+    "de": "Richtig gesagt.",
     "audio": null,
     "gruppe": [
-     "star"
+     "richtig"
     ]
    },
    {
-    "text": "Impressive!",
-    "de": "Beeindruckend!",
+    "text": "Truly.",
+    "de": "Wahrlich.",
     "audio": null,
     "gruppe": [
-     "beeindruckend"
+     "richtig"
     ]
    },
    {
-    "text": "You make it look easy!",
-    "de": "Du lässt es leicht aussehen!",
+    "text": "Even so.",
+    "de": "Ebenso.",
     "audio": null,
     "gruppe": [
-     "leicht"
+     "richtig"
     ]
    },
    {
-    "text": "That's exactly what I wanted to hear!",
-    "de": "Genau das wollte ich hören!",
+    "text": "At the first cast!",
+    "de": "Beim ersten Wurf!",
     "audio": null,
     "gruppe": [
-     "hoeren"
+     "erster"
     ]
    },
    {
-    "text": "You're flying today!",
-    "de": "Heute fliegst du!",
+    "text": "Unfaltering!",
+    "de": "Ohne Wanken!",
     "audio": null,
     "gruppe": [
-     "fliegen"
+     "sicher"
     ]
    },
    {
-    "text": "Bullseye!",
-    "de": "Voll ins Schwarze!",
+    "text": "Bright and fair!",
+    "de": "Hell und schön!",
     "audio": null,
     "gruppe": [
-     "schwarze"
+     "hell"
     ]
    },
    {
-    "text": "What a performance!",
-    "de": "Was für eine Leistung!",
+    "text": "Maglor's ear would mark no fault.",
+    "de": "Maglors Ohr fände keinen Fehl.",
     "audio": null,
     "gruppe": [
-     "leistung"
+     "ohr"
     ]
    },
    {
-    "text": "You've nailed it!",
-    "de": "Du hast es auf den Punkt gebracht!",
+    "text": "Speech fit for kings.",
+    "de": "Rede, die Königen ziemt.",
     "audio": null,
     "gruppe": [
-     "genagelt"
+     "edel"
     ]
    },
    {
-    "text": "A scholar and a gentleman!",
-    "de": "Ein Gelehrter und ein Gentleman!",
+    "text": "Fair as the gardens of Lórien.",
+    "de": "Schön wie die Gärten Lóriens.",
     "audio": null,
     "gruppe": [
-     "gelehrt"
+     "schoen"
+    ]
+   },
+   {
+    "text": "There is light in that word.",
+    "de": "Licht wohnt in diesem Wort.",
+    "audio": null,
+    "gruppe": [
+     "hell"
+    ]
+   }
+  ],
+  "stark": [
+   {
+    "text": "Great is your gift, and greater yet shall it grow.",
+    "de": "Groß ist deine Gabe, und größer noch wird sie werden.",
+    "audio": null,
+    "gruppe": [
+     "gabe"
+    ]
+   },
+   {
+    "text": "Dark is the road, yet you walk it unafraid.",
+    "de": "Dunkel ist der Weg, doch du gehst ihn ohne Furcht.",
+    "audio": null,
+    "gruppe": [
+     "weg"
+    ]
+   },
+   {
+    "text": "Of this day the loremasters shall write.",
+    "de": "Von diesem Tag werden die Lehrmeister schreiben.",
+    "audio": null,
+    "gruppe": [
+     "lore"
+    ]
+   },
+   {
+    "text": "Fell and fair was that answer!",
+    "de": "Grimmig und schön war diese Antwort!",
+    "audio": null,
+    "gruppe": [
+     "fell"
+    ]
+   },
+   {
+    "text": "Even Melian, in her wisdom, would fall silent.",
+    "de": "Selbst Melian, in ihrer Weisheit, würde verstummen.",
+    "audio": null,
+    "gruppe": [
+     "melian"
+    ]
+   },
+   {
+    "text": "No doom of Mandos lies on you tonight.",
+    "de": "Kein Urteil des Mandos liegt heute Nacht auf dir.",
+    "audio": null,
+    "gruppe": [
+     "mandos"
+    ]
+   },
+   {
+    "text": "Varda has kindled a new star tonight.",
+    "de": "Varda hat heute Nacht einen neuen Stern entzündet.",
+    "audio": null,
+    "gruppe": [
+     "varda"
+    ]
+   },
+   {
+    "text": "Of such deeds are songs made!",
+    "de": "Aus solchen Taten werden Lieder gemacht!",
+    "audio": null,
+    "gruppe": [
+     "lied"
+    ]
+   },
+   {
+    "text": "Even the Valar would listen.",
+    "de": "Selbst die Valar würden lauschen.",
+    "audio": null,
+    "gruppe": [
+     "valar"
+    ]
+   },
+   {
+    "text": "Yours is the gift of the Noldor!",
+    "de": "Dein ist die Gabe der Noldor!",
+    "audio": null,
+    "gruppe": [
+     "gabe"
+    ]
+   },
+   {
+    "text": "Unbroken is your run, and bright.",
+    "de": "Ungebrochen ist deine Reihe, und hell.",
+    "audio": null,
+    "gruppe": [
+     "serie"
+    ]
+   },
+   {
+    "text": "Kindled in you is a flame that does not fail.",
+    "de": "Entzündet ist in dir eine Flamme, die nicht erlischt.",
+    "audio": null,
+    "gruppe": [
+     "flamme"
+    ]
+   },
+   {
+    "text": "High are your deeds this day.",
+    "de": "Hoch sind deine Taten an diesem Tag.",
+    "audio": null,
+    "gruppe": [
+     "taten"
+    ]
+   },
+   {
+    "text": "Proud am I of you.",
+    "de": "Stolz bin ich auf dich.",
+    "audio": null,
+    "gruppe": [
+     "stolz"
     ]
    }
   ],
   "fehler": [
    {
-    "text": "Nearly!",
-    "de": "Fast!",
+    "text": "Grey is the shadow, yet it passes.",
+    "de": "Grau ist der Schatten, doch er vergeht.",
     "audio": null,
     "gruppe": [
-     "fast"
+     "schatten"
     ]
    },
    {
-    "text": "Not quite.",
-    "de": "Nicht ganz.",
+    "text": "Long is the road; take it again.",
+    "de": "Lang ist der Weg; geh ihn noch einmal.",
     "audio": null,
     "gruppe": [
-     "fast"
+     "weg"
     ]
    },
    {
-    "text": "Another go!",
-    "de": "Noch ein Versuch!",
+    "text": "Not yet; the hour is not come.",
+    "de": "Noch nicht; die Stunde ist nicht gekommen.",
     "audio": null,
     "gruppe": [
-     "nochmal"
+     "nochnicht"
     ]
    },
    {
-    "text": "No matter!",
-    "de": "Macht nichts!",
+    "text": "Even the wise have stumbled. Again!",
+    "de": "Auch die Weisen sind gestrauchelt. Noch einmal!",
     "audio": null,
     "gruppe": [
-     "egal"
+     "weise"
     ]
    },
    {
-    "text": "Oh dear!",
-    "de": "Oh je!",
+    "text": "Fleeting was that error.",
+    "de": "Flüchtig war dieser Fehler.",
     "audio": null,
     "gruppe": [
-     "oh"
+     "fluechtig"
+    ]
+   },
+   {
+    "text": "Take heart, and once more.",
+    "de": "Fasse Mut, und noch einmal.",
+    "audio": null,
+    "gruppe": [
+     "mut"
+    ]
+   },
+   {
+    "text": "Near, but not yet.",
+    "de": "Nah, doch noch nicht.",
+    "audio": null,
+    "gruppe": [
+     "nochnicht"
+    ]
+   },
+   {
+    "text": "The shadow passes. Again!",
+    "de": "Der Schatten vergeht. Noch einmal!",
+    "audio": null,
+    "gruppe": [
+     "schatten"
+    ]
+   },
+   {
+    "text": "Small is that stumble.",
+    "de": "Klein ist dieser Stolperer.",
+    "audio": null,
+    "gruppe": [
+     "fluechtig"
     ]
    },
    {
@@ -890,60 +922,28 @@ window.SPRACHEN["en-de"] = {
     "gruppe": [
      "hmm"
     ]
-   },
-   {
-    "text": "Close!",
-    "de": "Knapp daneben!",
-    "audio": null,
-    "gruppe": [
-     "fast"
-    ]
-   },
-   {
-    "text": "Nearly, nearly!",
-    "de": "Fast, fast!",
-    "audio": null,
-    "gruppe": [
-     "fast"
-    ]
-   },
-   {
-    "text": "Not this time!",
-    "de": "Diesmal nicht!",
-    "audio": null,
-    "gruppe": [
-     "diesmal"
-    ]
-   },
-   {
-    "text": "No matter, let's start again!",
-    "de": "Macht nichts, noch mal von vorn!",
-    "audio": null,
-    "gruppe": [
-     "nochmal"
-    ]
    }
   ],
   "geschafft": [
    {
-    "text": "That's it for today! Hats off!",
-    "de": "Schluss für heute! Hut ab!",
+    "text": "Ended is the labour of this day. Rest, and return.",
+    "de": "Beendet ist die Arbeit dieses Tages. Ruhe, und kehre zurück.",
     "audio": null,
     "gruppe": [
      "fertig"
     ]
    },
    {
-    "text": "Well done, you've done the lot! See you tomorrow!",
-    "de": "Bravo, du hast alles geschafft! Bis morgen!",
+    "text": "Quiet now are the forges. Hail, and until tomorrow!",
+    "de": "Still sind nun die Schmieden. Heil, und bis morgen!",
     "audio": null,
     "gruppe": [
      "fertig"
     ]
    },
    {
-    "text": "You can be proud of yourself. See you tomorrow!",
-    "de": "Du kannst stolz auf dich sein. Bis morgen!",
+    "text": "Done is the day's work, and well done.",
+    "de": "Getan ist das Tagewerk, und gut getan.",
     "audio": null,
     "gruppe": [
      "fertig"
@@ -952,8 +952,8 @@ window.SPRACHEN["en-de"] = {
   ],
   "voll": [
    {
-    "text": "Faultless! Marvellous!",
-    "de": "Fehlerfrei! Wunderbar!",
+    "text": "Flawless, as a Silmaril is flawless!",
+    "de": "Makellos, wie ein Silmaril makellos ist!",
     "audio": null,
     "gruppe": [
      "voll"
@@ -962,8 +962,8 @@ window.SPRACHEN["en-de"] = {
   ],
   "doch": [
    {
-    "text": "You see? You can do it!",
-    "de": "Siehst du? Du schaffst es!",
+    "text": "You see? Yours it was all along.",
+    "de": "Siehst du? Dein war es die ganze Zeit.",
     "audio": null,
     "gruppe": [
      "doch"
@@ -1002,62 +1002,62 @@ window.SPRACHEN["en-de"] = {
   "titel": [
    {
     "ab": 0,
-    "name": "Cuppa",
-    "symbol": "☕",
+    "name": "Wanderer",
+    "symbol": "🚶",
     "audio": null
    },
    {
     "ab": 300,
-    "name": "Crumpet",
-    "symbol": "🧈",
+    "name": "Herald",
+    "symbol": "📯",
     "audio": null
    },
    {
     "ab": 900,
-    "name": "Scone",
-    "symbol": "🥐",
+    "name": "Marchwarden",
+    "symbol": "🏹",
     "audio": null
    },
    {
     "ab": 1800,
-    "name": "Cornish pasty",
-    "symbol": "🥟",
+    "name": "Captain of the Noldor",
+    "symbol": "⚔️",
     "audio": null
    },
    {
     "ab": 3000,
-    "name": "Sunday roast",
-    "symbol": "🍖",
+    "name": "Loremaster of Tirion",
+    "symbol": "📜",
     "audio": null
    },
    {
     "ab": 4500,
-    "name": "Afternoon tea",
-    "symbol": "🫖",
+    "name": "Lord of a House",
+    "symbol": "🏰",
     "audio": null
    },
    {
     "ab": 6500,
-    "name": "Beef Wellington",
-    "symbol": "👑",
+    "name": "Named in Song",
+    "symbol": "🎵",
     "audio": null
    }
   ],
   "texte": {
    "feuer": {
-    "text": "You're on fire! Three days in a row!",
+    "text": "Bright burns your flame! Three days unbroken!",
     "audio": null
    },
    "woche": {
-    "text": "A perfect week! You've practised every school day. Well done!",
+    "text": "Perfect is this week: every school day kept. Hail!",
     "audio": null
    },
    "monat": {
-    "text": "Four perfect weeks in a row! What a champion!",
+    "text": "Four perfect weeks, unbroken! Of such deeds are songs made.",
     "audio": null
    },
    "fini": {
-    "text": "That's it for today. See you tomorrow!",
+    "text": "Ended is the labour of this day. Rest, and return tomorrow.",
     "audio": null
    }
   },
