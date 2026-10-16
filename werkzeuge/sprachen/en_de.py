@@ -39,7 +39,8 @@ SPIEL_TEXTE = {  # gesprochen von Mr. Alex (audio/spiel/<id>.mp3)
 # Dialoge: Rolle A = Barangollach (Mr. Alex' Stimme), Rolle B = Ninuivor (Simons Stimme) – beide aus Elronds Haus, beide Noldor des Ersten Zeitalters
 ROLLEN = {"A": "Barangollach", "B": "Ninuivor"}
 DIALOGE_TITEL = ["Dialogues with Ninuivor", "Dialoge mit Ninuivor"]
-# Lob spricht ausschließlich Simon (Mr. Alex, 16.10.)
+# Simon erzählt alles (Geschichte, Orte, Lektionen, Lob, Ansagen); Mr. Alex spricht nur Barangollach im Dialog (Mr. Alex, 16.10.)
+ERZAEHLER = "b"
 LOB_STIMME = "b"
 
 # Geschichte: Barangollach, einer der Noldor, erzählt – eigene Erzählung in Beleriand (Titel und Kapitel folgen)
@@ -68,7 +69,22 @@ def karte_laden(inhalte):
 # Stimmen (ElevenLabs): Mr. Alex' Klon auf britischem Englisch, Simon T (geklont, Received Pronunciation) – Hörprobe 16.10. bestanden
 STIMME = {"id": "AK2WYGe96RmMwFKM5KEz", "modell": "eleven_v4", "language_code": "en", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 STIMME_B = {"id": "idD5c2qhqB8tWCuqP5sv", "modell": "eleven_v4", "language_code": "en", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
-AUSSPRACHE_KORREKTUR = {}
+# Quenya und Sindarin nur fürs Vorlesen umgeschrieben (c = k, ch = kh, ë/ê = ay, ú = oo, ae = eye, au = ow, ei = ay, ui = oo-i, g hart).
+# Gilt für ganze Wörter, Genitiv-s danach erlaubt; die Schrift in der App bleibt die des Buches.
+AUSSPRACHE_KORREKTUR = {
+    "Fëanor": "Fayanor", "Noldolantë": "Noldolantay", "Alqualondë": "Alkwalonday", "Helcaraxë": "Helkaraxay", "Elenwë": "Elenway",
+    "Voronwë": "Voronway", "Eärendil": "Eh-arendil", "Bëor": "Bayor", "Lúthien": "Loothien", "Túrin": "Toorin", "Húrin": "Hoorin",
+    "Rúmil": "Roomil", "Amon Rûdh": "Amon Roodh", "Mîm": "Meem", "Círdan": "Keerdan", "Celegorm": "Kelegorm", "Celon": "Kelon",
+    "Celebrimbor": "Kelebrimbor", "Curufin": "Koorufin", "Caranthir": "Karanthir", "Crissaegrim": "Kriss-eye-grim", "Cabed-en-Aras": "Kabed-en-Aras",
+    "Laiquendi": "Lye-kwendi", "Maedhros": "Mye-thross", "Aegnor": "Eye-gnor", "Nirnaeth": "Nirn-eye-th", "Arnoediad": "Arnoydiad",
+    "Nienor": "Nee-enor", "Nauglamír": "Nowglameer", "Glaurung": "Glowrung", "Sauron": "Sowron", "Taur-nu-Fuin": "Towr-noo-Fooin",
+    "Taur-en-Faroth": "Towr-en-Faroth", "Taur-im-Duinath": "Towr-im-Dooinath", "Tol-in-Gaurhoth": "Tol-in-Gowrhoth", "Haudh-en-Ndengin": "Howdh-en-Ndengin",
+    "Anfauglith": "Anfowglith", "Laurelin": "Lowrelin", "Aelin-uial": "Eye-lin-oo-ial", "Tarn Aeluin": "Tarn Eye-looin", "Ered Luin": "Ered Looin",
+    "Eithel": "Aythel", "Teiglin": "Tayglin", "Esgalduin": "Esgaldooin", "Huan": "Hoo-an", "Tuor": "Too-or", "Ulmo": "Oolmo",
+    "Region": "Reggion", "Eregion": "Ereggion", "Echoriath": "Ekhoriath", "Marach": "Marakh", "Barangollach": "Barangollakh", "Bragollach": "Bragollakh",
+    "Dor-lómin": "Dor-lomin", "Ered Lómin": "Ered Lomin", "Iarwain": "Yarwine", "Bruinen": "Brooinen", "Thranduil": "Thrandooil", "Ninuivor": "Ninooivor",
+    "Menegroth": "Menegroth", "Beleg": "Beleg", "Vingilot": "Vingilot",
+}
 
 # Oberflächentexte: [Zielsprache, Hilfe] oder nur Zielsprache
 UI = {

@@ -14,7 +14,7 @@ def sprechtext(P, t):
     import re
     for a, b in P.AUSSPRACHE_KORREKTUR.items():
         if a.isalnum() or " " in a:
-            t = re.sub(rf"(?<![\w'’]){re.escape(a)}(?![\w'’])", b, t)
+            t = re.sub(rf"(?<![\w'’]){re.escape(a)}(?!\w)", b, t)   # Genitiv-Apostroph danach erlaubt („Sauron's“)
         else:
             t = t.replace(a, b)
     return t
@@ -24,29 +24,32 @@ def auftraege(P):
     """(Pfad relativ zu app/, Text, Stimme) – Stimme „a“ = Mr. Alex, „b“ = Gesprächspartner."""
     inhalte, paar, liste = os.path.join(bauen.BASIS, "inhalte", P.PAAR), P.PAAR, []
     s = lambda t: sprechtext(P, t)
+    # Erzähler: alles außer Dialogen („a“ = Mr. Alex, „b“ = zweite Stimme). Englisch: Simon erzählt, Mr. Alex spricht nur Barangollach im Dialog.
+    n = getattr(P, "ERZAEHLER", "a")
+    lob = getattr(P, "LOB_STIMME", n)
     for t in P.THEMEN:
         for z in bauen.tsv(inhalte, t["datei"]):
             wid = z["id"]
-            liste.append((f"audio/{paar}/wendungen/{wid}.mp3", s(getattr(P, "WENDUNG_KORREKTUR", {}).get(z["wendung"], z["wendung"])), "a"))
-            liste.append((f"audio/{paar}/saetze/{wid}.mp3", s(z["satz_fr"]), "a"))
+            liste.append((f"audio/{paar}/wendungen/{wid}.mp3", s(getattr(P, "WENDUNG_KORREKTUR", {}).get(z["wendung"], z["wendung"])), n))
+            liste.append((f"audio/{paar}/saetze/{wid}.mp3", s(z["satz_fr"]), n))
             if z["passe_compose"]:
-                liste.append((f"audio/{paar}/saetze/{wid}_pc.mp3", s(z["passe_compose"]), "a"))
-                liste.append((f"audio/{paar}/saetze/{wid}_fp.mp3", s(z["futur_proche"]), "a"))
+                liste.append((f"audio/{paar}/saetze/{wid}_pc.mp3", s(z["passe_compose"]), n))
+                liste.append((f"audio/{paar}/saetze/{wid}_fp.mp3", s(z["futur_proche"]), n))
     for z in bauen.tsv(inhalte, "dialoge.tsv"):
         liste.append((f"audio/{paar}/dialoge/{z['id']}.mp3", s(z["fr"]), "a" if z["rolle"] == "A" else "b"))
     for z in (bauen.tsv(inhalte, P.AUSSPRACHE["datei"]) if P.AUSSPRACHE else []):
-        liste.append((f"audio/{paar}/{P.AUSSPRACHE['id']}/{z['id']}.mp3", s(bauen.rein(z["wort"])), "w"))
+        liste.append((f"audio/{paar}/{P.AUSSPRACHE['id']}/{z['id']}.mp3", s(bauen.rein(z["wort"])), "w" + n))
     for z in bauen.tsv(inhalte, "geschichte.tsv"):
-        liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), "a"))
+        liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), n))
     for z in bauen.tsv(inhalte, "orte.tsv"):
-        liste.append((f"audio/{paar}/orte/{z['id']}.mp3", s(f"{z['name']}. {z['fakt_fr']}"), "a"))
+        liste.append((f"audio/{paar}/orte/{z['id']}.mp3", s(f"{z['name']}. {z['fakt_fr']}"), n))
     for z in bauen.tsv(inhalte, "lob.tsv"):
-        liste.append((f"audio/{paar}/lob/{z['id']}.mp3", z["text"], getattr(P, "LOB_STIMME", "a")))   # Englisch: Lob spricht Simon
+        liste.append((f"audio/{paar}/lob/{z['id']}.mp3", s(z["text"]), lob))
     for k, t in P.SPIEL_TEXTE.items():
-        liste.append((f"audio/{paar}/spiel/{k}.mp3", t, "a"))
+        liste.append((f"audio/{paar}/spiel/{k}.mp3", s(t), n))
     for i, (_, name, _) in enumerate(P.TITEL):
         if i:
-            liste.append((f"audio/{paar}/spiel/titel_{i}.mp3", P.TITEL_ANSAGE.format(name=name), "a"))
+            liste.append((f"audio/{paar}/spiel/titel_{i}.mp3", s(P.TITEL_ANSAGE.format(name=name)), n))
     return liste
 
 
@@ -69,12 +72,12 @@ def vorspann_schneiden(pfad):
 
 
 def erzeugen(P, pfad, text, stimme):
-    """stimme: „a“ Mr. Alex, „b“ Gesprächspartner, „w“ Einzelwort (Mr. Alex) – im Trägersatz gesprochen, danach geschnitten,
+    """stimme: „a“ Mr. Alex, „b“ zweite Stimme, „wa“/„wb“ Einzelwort – im Trägersatz gesprochen, danach geschnitten,
     damit die Stimme bei nackten Wörtern nicht in eine andere Sprache kippt."""
-    st = P.STIMME_B if stimme == "b" else P.STIMME
+    st = P.STIMME_B if stimme.endswith("b") else P.STIMME
     if not st:
         return None
-    wort = stimme == "w"
+    wort = stimme.startswith("w")
     if wort:
         text = getattr(P, "TRAEGERSATZ", "{wort}.").format(wort=text)
     body = {"text": text, "model_id": st["modell"], "voice_settings": st["einstellungen"]}
@@ -102,7 +105,7 @@ def main():
         if nur and P.PAAR not in nur:
             continue
         offen = [a for a in auftraege(P) if not os.path.exists(os.path.join(bauen.wurzel(P), a[0]))]
-        offen = [a for a in offen if a[2] != "b" or P.STIMME_B]
+        offen = [a for a in offen if not a[2].endswith("b") or P.STIMME_B]
         print(P.PAAR + ":", len(offen), "Audios fehlen,", sum(len(a[1]) for a in offen), "Zeichen")
         if "--zaehlen" in sys.argv:
             continue
