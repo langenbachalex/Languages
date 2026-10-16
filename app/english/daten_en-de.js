@@ -284,7 +284,74 @@ window.SPRACHEN["en-de"] = {
   "paare": [],
   "beide": []
  },
- "geschichte": [],
+ "geschichte": [
+  {
+   "nr": 1,
+   "titel": "The Noldolantë, as Barangollach tells it",
+   "absaetze": [
+    {
+     "id": "k01_01",
+     "fr": "Of the Noldolantë, the Fall of the Noldor, Maglor made a song, and the song is long and **grievous**. But I was there, and this is not his song. Barangollach I am named, a smith of Tirion, and of the following of Finarfin was I; and little is said of such as me in the histories.",
+     "de": "Von der Noldolantë, dem Fall der Noldor, hat Maglor ein Lied gemacht, und das Lied ist lang und voller Gram. Doch ich war dabei, und dies ist nicht sein Lied. Barangollach werde ich genannt, ein Schmied aus Tirion, und zur Gefolgschaft Finarfins gehörte ich; und wenig wird von solchen wie mir in den Geschichtsbüchern gesagt.",
+     "audio": "audio/en-de/geschichte/k01_01.mp3?v=e77fb94a"
+    },
+    {
+     "id": "k01_02",
+     "fr": "Golden was the light of Laurelin in the hour I remember best, and silver the light of Telperion after it, and the two lights mingled on the stair of Tirion where I stood with my hammer still in my hand. Young was the world, and **unmarred**. We did not know it. None knows the light until the dark.",
+     "de": "Golden war das Licht Laurelins in der Stunde, die ich am besten erinnere, und silbern das Licht Telperions danach, und die beiden Lichter mischten sich auf der Treppe von Tirion, wo ich stand, den Hammer noch in der Hand. Jung war die Welt, und unversehrt. Wir wussten es nicht. Niemand kennt das Licht vor der Dunkelheit.",
+     "audio": "audio/en-de/geschichte/k01_02.mp3?v=903c778e"
+    },
+    {
+     "id": "k01_03",
+     "fr": "Then came the Unlight. Of Ungoliant the loremasters have written, and of Melkor, whom thereafter we named Morgoth; I will say only that the dark came not as night comes, but as a **drowning**. The Trees died, and the fountains fell silent, and in the silence we heard for the first time our own hearts.",
+     "de": "Dann kam das Unlicht. Von Ungoliant haben die Lehrmeister geschrieben, und von Melkor, den wir seither Morgoth nennen; ich will nur sagen, dass die Dunkelheit nicht kam, wie die Nacht kommt, sondern wie ein Ertrinken. Die Bäume starben, und die Brunnen verstummten, und in der Stille hörten wir zum ersten Mal unsere eigenen Herzen.",
+     "audio": "audio/en-de/geschichte/k01_03.mp3?v=04c94500"
+    },
+    {
+     "id": "k01_04",
+     "fr": "Fëanor spoke in the great square beneath the Mindon, and fell and **fey** were his words, and fair. I was a smith, and his voice was the voice of the forge. Many wept, and many shouted, and I, Barangollach, shouted with them. Of this I am not proud. But I will not lie about it, for the loremasters lie enough.",
+     "de": "Fëanor sprach auf dem großen Platz unter dem Mindon, und grimmig und todgeweiht waren seine Worte, und schön. Ich war ein Schmied, und seine Stimme war die Stimme der Esse. Viele weinten, und viele schrien, und ich, Barangollach, schrie mit ihnen. Darauf bin ich nicht stolz. Doch ich will nicht darüber lügen, denn die Lehrmeister lügen genug.",
+     "audio": "audio/en-de/geschichte/k01_04.mp3?v=46c17c5c"
+    },
+    {
+     "id": "k01_05",
+     "fr": "Seven swore the Oath that night, and the Oath is not mine to repeat. Dreadful it was, and **irrevocable**, and the torches shook as they spoke it. Finarfin did not swear. He stood apart, and his face was grey, and when I looked at him I remembered that I had a house in Tirion, and a bench, and tools, and that I was leaving all of them.",
+     "de": "Sieben schworen in jener Nacht den Eid, und der Eid steht mir nicht zu, ihn zu wiederholen. Furchtbar war er, und unwiderruflich, und die Fackeln zitterten, als sie ihn sprachen. Finarfin schwor nicht. Er stand abseits, und sein Gesicht war grau, und als ich ihn ansah, fiel mir ein, dass ich ein Haus in Tirion hatte, und eine Werkbank, und Werkzeug, und dass ich das alles verließ.",
+     "audio": "audio/en-de/geschichte/k01_05.mp3?v=d5dd4a4c"
+    },
+    {
+     "id": "k01_06",
+     "fr": "Of Alqualondë I will say this and no more: there was blood on the quays, and it was not only the blood of the Teleri. I did not draw a sword. I held a torch, and by its light I saw what I saw. There are deeds that a **craftsman** cannot unmake, and that was the first I learned of them.",
+     "de": "Von Alqualondë will ich dies sagen und nicht mehr: Es war Blut auf den Kais, und es war nicht nur das Blut der Teleri. Ich zog kein Schwert. Ich hielt eine Fackel, und in ihrem Licht sah ich, was ich sah. Es gibt Taten, die ein Handwerker nicht rückgängig machen kann, und das war die erste, von der ich es lernte.",
+     "audio": "audio/en-de/geschichte/k01_06.mp3?v=91950896"
+    },
+    {
+     "id": "k01_07",
+     "fr": "Then came the Doom, spoken from the north; and the Doom of Mandos is written in the histories, word for word, and I will not set it here. Finarfin turned back. Many of his people turned back with him. I did not. **Stubborn** are the Noldor, and I was young, and my hammer was heavy, and I did not wish to carry it home again in shame.",
+     "de": "Dann kam das Urteil, gesprochen aus dem Norden; und das Urteil des Mandos steht in den Geschichtsbüchern, Wort für Wort, und ich setze es hier nicht hin. Finarfin kehrte um. Viele seiner Leute kehrten mit ihm um. Ich nicht. Starrsinnig sind die Noldor, und ich war jung, und mein Hammer war schwer, und ich wollte ihn nicht in Schande wieder nach Hause tragen.",
+     "audio": "audio/en-de/geschichte/k01_07.mp3?v=79f50a02"
+    },
+    {
+     "id": "k01_08",
+     "fr": "Of the ships I will say that they burned, and that we on the far shore saw the light of them across the water, and understood. Cold was that understanding, and colder yet was the road that remained. Fingolfin led us. Northward he led us, to the Helcaraxë, the **Grinding** Ice.",
+     "de": "Von den Schiffen will ich sagen, dass sie brannten, und dass wir am fernen Ufer ihr Licht über das Wasser sahen und verstanden. Kalt war dieses Verstehen, und kälter noch war der Weg, der blieb. Fingolfin führte uns. Nordwärts führte er uns, zur Helcaraxë, dem Mahlenden Eis.",
+     "audio": "audio/en-de/geschichte/k01_08.mp3?v=81754584"
+    },
+    {
+     "id": "k01_09",
+     "fr": "Of the Ice I cannot write. Those who crossed it do not speak of it, and those who did not cross it should not. I will say that Elenwë was lost there, and that I carried a child for three days who was not mine, and that when we came at last to the land of the Sun's first rising I set down the child and wept, and the child, who was of the Noldor, did not.",
+     "de": "Vom Eis kann ich nicht schreiben. Die es überquerten, sprechen nicht davon, und die es nicht überquerten, sollten es nicht. Ich will sagen, dass Elenwë dort verloren ging, und dass ich drei Tage lang ein Kind trug, das nicht meines war, und dass ich, als wir endlich in das Land des ersten Sonnenaufgangs kamen, das Kind absetzte und weinte, und das Kind, das von den Noldor war, weinte nicht.",
+     "audio": "audio/en-de/geschichte/k01_09.mp3?v=3a982b1a"
+    },
+    {
+     "id": "k01_10",
+     "fr": "So we came to Middle-earth, under the first Sun; and the Moon rose before us, and the hosts of Morgoth fled from the light. Hithlum lay before us, and the lake of Mithrim, and beyond them a land we did not yet know how to name. Beleriand it was. Long would be our road in it, and this chronicle is the tale of mine.",
+     "de": "So kamen wir nach Mittelerde, unter der ersten Sonne; und der Mond ging vor uns auf, und die Heere Morgoths flohen vor dem Licht. Hithlum lag vor uns, und der See von Mithrim, und dahinter ein Land, das wir noch nicht zu benennen wussten. Beleriand war es. Lang würde unser Weg darin sein, und diese Chronik ist die Erzählung des meinen.",
+     "audio": "audio/en-de/geschichte/k01_10.mp3?v=add6ae16"
+    }
+   ]
+  }
+ ],
  "geschichte_info": {
   "titel": "The Chronicle of Barangollach",
   "unter": "One of the Noldor, a long memory, and a road through Beleriand that the histories never mention.",
@@ -1131,5 +1198,16 @@ window.SPRACHEN["en-de"] = {
    }
   ]
  },
- "audio_liste": []
+ "audio_liste": [
+  "audio/en-de/geschichte/k01_01.mp3?v=e77fb94a",
+  "audio/en-de/geschichte/k01_02.mp3?v=903c778e",
+  "audio/en-de/geschichte/k01_03.mp3?v=04c94500",
+  "audio/en-de/geschichte/k01_04.mp3?v=46c17c5c",
+  "audio/en-de/geschichte/k01_05.mp3?v=d5dd4a4c",
+  "audio/en-de/geschichte/k01_06.mp3?v=91950896",
+  "audio/en-de/geschichte/k01_07.mp3?v=79f50a02",
+  "audio/en-de/geschichte/k01_08.mp3?v=81754584",
+  "audio/en-de/geschichte/k01_09.mp3?v=3a982b1a",
+  "audio/en-de/geschichte/k01_10.mp3?v=add6ae16"
+ ]
 };
