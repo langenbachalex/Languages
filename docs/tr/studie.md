@@ -14,5 +14,8 @@ Stand: 17.10.2026. Auftrag Mr. Alex: « proper Turkish ». Nichts gebaut.
 - Aussprache-Modul: ı / i, ö / ü, weiches ğ, Betonung – ergiebige Minimalpaare.
 - Karte: Türkei mit 81 İl (freie Daten: GADM / Natural Earth) ab Istanbul oder Izmir; Geschichte entsprechend.
 
-## Hörproben 17.10. (an Mr. Alex)
-Klon, Hasan Yasin, Can – derselbe Satz. Entscheidung offen.
+## Entscheidungen Mr. Alex, 17.10.
+- **Türkisch zuerst** (vor Arabisch).
+- Partnerstimme: **Can** (`SacdY6cqu2yrF7ExGIOe`, eleven_multilingual_v2).
+- Karte: Türkei mit İl, **Istanbul als 5–10 Stationen** (Sultanahmet, Galata, Kadıköy, Üsküdar, Beşiktaş, Eyüp, Bosporus, Prinzeninseln …), Start Istanbul.
+- Nichts gebaut; Paketgerüst folgt nach Freigabe.

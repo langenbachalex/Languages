@@ -11,8 +11,10 @@ Stand: 17.10.2026. Auftrag Mr. Alex: prüfen, ob es auf ElevenLabs genug hochwer
 ## Kernfrage Dialekt
 Die Modelle kennen keinen Dialekt-Schalter. Was der Text in arabischer Schrift hergibt (شو، عم، بدي، رايح), liest die Stimme als Dialekt; eine syrische Stimme färbt die Aussprache (qāf als Hamza, Imāla, Betonung). MSA-Text bleibt MSA. Das heißt: **die Inhalte müssen durchgehend in syrischem Dialekt geschrieben sein**, Hilfssprache Deutsch, Umschrift als Zusatzzeile sinnvoll.
 
-## Hörproben 17.10. (an Mr. Alex)
-Klon, Yazan, Mr. FF, Fadi – derselbe Shami-Satz. Entscheidung offen.
+## Entscheidung Mr. Alex, 17.10.
+- **Standard-Arabisch mit saudischer Stimme** (universell verständlich), nicht syrischer Dialekt als Grundlage.
+- **Hinweise auf syrische Abweichungen bleiben in der App** (Notiz-Feld je Wendung: « in Syrien sagt man … »).
+- Reihenfolge: Türkisch zuerst, Arabisch danach. Nichts gebaut.
 
 ## Offene Fragen vor dem Bau
 1. Partnerstimme (Yazan / Mr. FF / Fadi / andere).
