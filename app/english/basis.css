@@ -281,8 +281,8 @@ textarea { width: 100%; font: inherit; padding: 12px; border-radius: 12px; borde
 .gloss { display: flex; flex-wrap: wrap; gap: 4px 10px; margin: 2px 0 6px; }
 .gloss .gl { display: inline-grid; justify-items: start; }
 .gloss .gl-tr { font-weight: 700; font-size: 1rem; letter-spacing: .01em; }
-.gloss .gl-de { font-size: .9rem; color: var(--rot); font-variant-caps: all-small-caps; letter-spacing: .03em; }
-.gloss.klein .gl-tr { font-size: .9rem; } .gloss.klein .gl-de { font-size: .8rem; }
+.gloss .gl-de { font-size: 1rem; color: var(--rot); font-variant-caps: all-small-caps; letter-spacing: .03em; }
+.gloss.klein .gl-tr { font-size: .9rem; } .gloss.klein .gl-de { font-size: .9rem; }
 .gloss-flach { color: var(--leise); font-size: .9rem; }
 .niveau-leiste .rechts { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; flex-shrink: 0; }
 .tempo { font: 700 .85rem var(--body); min-height: 32px; padding: 0 10px; border-radius: 999px; border: 2px solid var(--blau-text); background: transparent; color: var(--blau-text); cursor: pointer; white-space: nowrap; flex-shrink: 0; }
