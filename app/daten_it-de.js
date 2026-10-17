@@ -746,7 +746,7 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "wörtlich „Mühe machen zu“ (la fatica = Mühe, Anstrengung); fare fatica a + Infinitiv. far stare zitto = zum Schweigen bringen (zitto = still).",
-   "audio": "audio/it-de/wendungen/tc_08.mp3?v=c0d162e4",
+   "audio": "audio/it-de/wendungen/tc_08.mp3?v=bc8d6133",
    "gloss": null,
    "satz": {
     "fr": "Faccio fatica a farli stare zitti il venerdì pomeriggio.",
@@ -4667,7 +4667,7 @@ window.SPRACHEN["it-de"] = {
    "register": "tu",
    "anker": "fare",
    "notiz": "fare fatica a → ad vor Vokal (ad addormentarsi); addormentarsi = einschlafen (dormire = schlafen). più piano = leiser (piano = leise, langsam).",
-   "audio": "audio/it-de/wendungen/ba_08.mp3?v=57a2fbd7",
+   "audio": "audio/it-de/wendungen/ba_08.mp3?v=8de40529",
    "gloss": null,
    "satz": {
     "fr": "Il piccolo fa fatica ad addormentarsi. Allora canto. Funziona. Piange più piano.",
@@ -6253,7 +6253,7 @@ window.SPRACHEN["it-de"] = {
    {
     "text": "Hai orecchio!",
     "de": "Du hast ein gutes Ohr!",
-    "audio": "audio/it-de/lob/lob_orecchio.mp3?v=46bf1719",
+    "audio": "audio/it-de/lob/lob_orecchio.mp3?v=84eaa8a2",
     "gruppe": [
      "orecchio"
     ]
@@ -6743,7 +6743,7 @@ window.SPRACHEN["it-de"] = {
     "y": 138.3,
     "fakt": "Bologna ha quaranta chilometri di portici. Si può attraversare la città sotto la pioggia senza bagnarsi. Patrimonio UNESCO.",
     "fakt_de": "Bologna hat vierzig Kilometer Arkaden. Man kann die Stadt im Regen durchqueren, ohne nass zu werden. UNESCO-Welterbe.",
-    "audio": "audio/it-de/orte/portici.mp3?v=b819a672"
+    "audio": "audio/it-de/orte/portici.mp3?v=66fd0003"
    },
    {
     "id": "modena",
@@ -8117,7 +8117,7 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/lob/lob_migliori.mp3?v=54a8912e",
   "audio/it-de/lob/lob_mitico.mp3?v=4956d53b",
   "audio/it-de/lob/lob_molto_bene.mp3?v=9f07aa92",
-  "audio/it-de/lob/lob_orecchio.mp3?v=46bf1719",
+  "audio/it-de/lob/lob_orecchio.mp3?v=84eaa8a2",
   "audio/it-de/lob/lob_ottimo.mp3?v=5a1fa9ac",
   "audio/it-de/lob/lob_pazzesco.mp3?v=a86ea271",
   "audio/it-de/lob/lob_perfetto.mp3?v=0286ba04",
@@ -8175,7 +8175,7 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/orte/perugia.mp3?v=0a800826",
   "audio/it-de/orte/pisa.mp3?v=bbdfcb5a",
   "audio/it-de/orte/pompei.mp3?v=b5f66aae",
-  "audio/it-de/orte/portici.mp3?v=b819a672",
+  "audio/it-de/orte/portici.mp3?v=66fd0003",
   "audio/it-de/orte/ravenna.mp3?v=d1dbf08a",
   "audio/it-de/orte/rimini.mp3?v=a9791c9b",
   "audio/it-de/orte/roma.mp3?v=a0ce514f",
@@ -8622,7 +8622,7 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/wendungen/ba_05.mp3?v=cd7c8324",
   "audio/it-de/wendungen/ba_06.mp3?v=18badfcf",
   "audio/it-de/wendungen/ba_07.mp3?v=ff8d7422",
-  "audio/it-de/wendungen/ba_08.mp3?v=57a2fbd7",
+  "audio/it-de/wendungen/ba_08.mp3?v=8de40529",
   "audio/it-de/wendungen/ba_09.mp3?v=7d0f0b64",
   "audio/it-de/wendungen/ba_10.mp3?v=89563524",
   "audio/it-de/wendungen/ba_11.mp3?v=abf84340",
@@ -8814,7 +8814,7 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/wendungen/tc_05.mp3?v=3c2139e1",
   "audio/it-de/wendungen/tc_06.mp3?v=a83556d8",
   "audio/it-de/wendungen/tc_07.mp3?v=6182d1d2",
-  "audio/it-de/wendungen/tc_08.mp3?v=c0d162e4",
+  "audio/it-de/wendungen/tc_08.mp3?v=bc8d6133",
   "audio/it-de/wendungen/tc_09.mp3?v=f953b1fe",
   "audio/it-de/wendungen/tc_10.mp3?v=03eedf0c",
   "audio/it-de/wendungen/tc_11.mp3?v=d0015d5c",

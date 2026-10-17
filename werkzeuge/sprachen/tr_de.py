@@ -64,7 +64,8 @@ def karte_laden(inhalte):
 # Stimmen (ElevenLabs): Mr. Alex' Klon auf Türkisch (Hörprobe 17.10.), Cem = « Can – Deep, Confident Turkish »
 STIMME = {"id": "AK2WYGe96RmMwFKM5KEz", "modell": "eleven_v4", "language_code": "tr", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 STIMME_B = {"id": "SacdY6cqu2yrF7ExGIOe", "modell": "eleven_multilingual_v2", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
-AUSSPRACHE_KORREKTUR = {}
+# « saat » (Doppelvokal) klang dumpf: Vorlese-Schreibung mit Silbentrennung, alle Formen
+AUSSPRACHE_KORREKTUR = {"saat": "sa-at", "saatte": "sa-atte", "saate": "sa-ate", "saatten": "sa-atten", "saati": "sa-ati", "Saat": "Sa-at"}
 
 # Oberflächentexte: [Zielsprache, Hilfe] oder nur Zielsprache
 UI = {

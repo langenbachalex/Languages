@@ -45,6 +45,7 @@ GESCHICHTE = {"titel": "Il segreto della Torre",
               "sammlung": ["Ogni settimana perfetta sblocca un capitolo: Chiara Rossi, professoressa a Bologna, e il mistero della Torre.",
                            "Jede perfekte Woche schaltet ein Kapitel frei: Chiara Rossi, Lehrerin in Bologna, und das Geheimnis des Turms."]}
 
+TRAEGERSATZ = "Ascolta bene… {wort}."   # Einzelwörter/Wendungen im Trägersatz, Auslassungspunkte erzeugen die Pause für den Schnitt
 AUSSPRACHE = None   # später, optional: « Le doppie »
 
 # Karte: Italien mit Provinzen (ISTAT via openpolis/geojson-italy, CC BY 4.0)
@@ -62,7 +63,10 @@ def karte_laden(inhalte):
 # Stimmen: Mr. Alex' Klon auf Italienisch (Hörprobe 13.10. freigegeben), Giovanni = „Andy – Warm, Nuanced and Mature“ (Bibliothek)
 STIMME = {"id": "AK2WYGe96RmMwFKM5KEz", "modell": "eleven_v4", "language_code": "it", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 STIMME_B = {"id": "DLMxnwJE0a28JQLTMJPJ", "modell": "eleven_multilingual_v2", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
-AUSSPRACHE_KORREKTUR = {}
+# Vorlese-Schreibung (ganze Wörter/Phrasen): Lob « Hai orecchio » mit hörbarem H; Ort « I portici » mit englischem I (Artikel am Anfang weggelassen)
+AUSSPRACHE_KORREKTUR = {"Hai": "Ai", "I portici di Bologna": "Portici di Bologna"}
+# Wendungen, die allein gelesen ins Englische kippen: im Trägersatz sprechen und schneiden (audio.py)
+WENDUNG_IM_TRAEGERSATZ = {"fare fatica a", "fare fatica ad addormentarsi"}
 
 UI = {
     "app": "Language Learning",

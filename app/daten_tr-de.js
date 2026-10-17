@@ -434,16 +434,16 @@ window.SPRACHEN["tr-de"] = {
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "bitkinim",
     "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
-    "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
+    "audio": "audio/tr-de/saetze/oa_02.mp3?v=66bbd63c"
    },
    "zeit": {
     "pc": {
      "fr": "Dün altı saat dersten sonra bitkindim.",
-     "audio": "audio/tr-de/saetze/oa_02_pc.mp3?v=dad8ac10"
+     "audio": "audio/tr-de/saetze/oa_02_pc.mp3?v=0797237c"
     },
     "fp": {
      "fr": "Yarın altı saat dersten sonra bitkin olacağım.",
-     "audio": "audio/tr-de/saetze/oa_02_fp.mp3?v=570fae42"
+     "audio": "audio/tr-de/saetze/oa_02_fp.mp3?v=da170c53"
     }
    }
   },
@@ -462,16 +462,16 @@ window.SPRACHEN["tr-de"] = {
     "de": "Um vier ist Konferenz, kommst du?",
     "luecke": "toplantı",
     "gloss": "Saat dört·te toplantı var, gel·iyor mu·sun? | Uhr vier·LOK Versammlung vorhanden, kommen·PRÄS FRAGE·2SG",
-    "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
+    "audio": "audio/tr-de/saetze/oa_03.mp3?v=e6f64f2d"
    },
    "zeit": {
     "pc": {
      "fr": "Dün saat dörtte toplantı vardı, geldin mi?",
-     "audio": "audio/tr-de/saetze/oa_03_pc.mp3?v=6b04f904"
+     "audio": "audio/tr-de/saetze/oa_03_pc.mp3?v=ec4f10d6"
     },
     "fp": {
      "fr": "Yarın saat dörtte toplantı var, gelecek misin?",
-     "audio": "audio/tr-de/saetze/oa_03_fp.mp3?v=e1753352"
+     "audio": "audio/tr-de/saetze/oa_03_fp.mp3?v=70bce880"
     }
    }
   },
@@ -490,16 +490,16 @@ window.SPRACHEN["tr-de"] = {
     "de": "In der dritten Stunde habe ich frei, trinken wir einen Kaffee?",
     "luecke": "boşluğum",
     "gloss": "Üç·üncü saat·te boşluğ·um var, kahve iç·elim mi? | drei·ORD Stunde·LOK Lücke·mein vorhanden, Kaffee trinken·OPT.1PL FRAGE",
-    "audio": "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813"
+    "audio": "audio/tr-de/saetze/oa_04.mp3?v=1ba27f77"
    },
    "zeit": {
     "pc": {
      "fr": "Dün üçüncü saatte boşluğum vardı, kahve içtik.",
-     "audio": "audio/tr-de/saetze/oa_04_pc.mp3?v=51367d74"
+     "audio": "audio/tr-de/saetze/oa_04_pc.mp3?v=b182ca5f"
     },
     "fp": {
      "fr": "Yarın üçüncü saatte boşluğum olacak, kahve içelim mi?",
-     "audio": "audio/tr-de/saetze/oa_04_fp.mp3?v=a23a3709"
+     "audio": "audio/tr-de/saetze/oa_04_fp.mp3?v=87fdcbc1"
     }
    }
   },
@@ -574,16 +574,16 @@ window.SPRACHEN["tr-de"] = {
     "de": "Der neue Stundenplan gibt freitags sieben Stunden.",
     "luecke": "ders programı",
     "gloss": "Yeni ders program·ı cuma gün·ü yedi saat ver·iyor. | neu Unterricht Programm·sein Freitag Tag·sein sieben Stunde geben·PRÄS",
-    "audio": "audio/tr-de/saetze/oa_07.mp3?v=87586419"
+    "audio": "audio/tr-de/saetze/oa_07.mp3?v=3a523c37"
    },
    "zeit": {
     "pc": {
      "fr": "Eski ders programı cuma günü yedi saat veriyordu.",
-     "audio": "audio/tr-de/saetze/oa_07_pc.mp3?v=661261f8"
+     "audio": "audio/tr-de/saetze/oa_07_pc.mp3?v=9dae5781"
     },
     "fp": {
      "fr": "Yeni ders programı cuma günü yedi saat verecek.",
-     "audio": "audio/tr-de/saetze/oa_07_fp.mp3?v=f2b352a0"
+     "audio": "audio/tr-de/saetze/oa_07_fp.mp3?v=05a64e7d"
     }
    }
   },
@@ -733,16 +733,16 @@ window.SPRACHEN["tr-de"] = {
     "de": "In der letzten Stunde verbummeln sie die Stunde, und ich lasse es zu.",
     "luecke": "dersi kaynatıyorlar",
     "gloss": "Son saat·te ders·i kaynat·ıyor·lar, ben de bırak·ıyor·um. | letzt Stunde·LOK Stunde·AKK kochen.lassen·PRÄS·3PL, ich auch lassen·PRÄS·1SG",
-    "audio": "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb"
+    "audio": "audio/tr-de/saetze/oa_13.mp3?v=7be273ee"
    },
    "zeit": {
     "pc": {
      "fr": "Son saatte dersi kaynattılar, ben de bıraktım.",
-     "audio": "audio/tr-de/saetze/oa_13_pc.mp3?v=9c748837"
+     "audio": "audio/tr-de/saetze/oa_13_pc.mp3?v=b353393a"
     },
     "fp": {
      "fr": "Son saatte dersi kaynatacaklar, ben de bırakacağım.",
-     "audio": "audio/tr-de/saetze/oa_13_fp.mp3?v=924d5717"
+     "audio": "audio/tr-de/saetze/oa_13_fp.mp3?v=2c0bb8b3"
     }
    }
   },
@@ -761,16 +761,16 @@ window.SPRACHEN["tr-de"] = {
     "de": "Ayşe ist krank, ich vertrete sie in der zweiten Stunde.",
     "luecke": "yerine",
     "gloss": "Ayşe hasta, o·nun yer·i·ne ikinci saat·e gir·iyor·um. | Ayşe krank, sie·GEN Platz·sein·DAT zweit Stunde·DAT eintreten·PRÄS·1SG",
-    "audio": "audio/tr-de/saetze/oa_14.mp3?v=37569581"
+    "audio": "audio/tr-de/saetze/oa_14.mp3?v=f86cd6de"
    },
    "zeit": {
     "pc": {
      "fr": "Ayşe hastaydı, onun yerine ikinci saate girdim.",
-     "audio": "audio/tr-de/saetze/oa_14_pc.mp3?v=9e611cfd"
+     "audio": "audio/tr-de/saetze/oa_14_pc.mp3?v=ed50975e"
     },
     "fp": {
      "fr": "Ayşe hasta, onun yerine ikinci saate gireceğim.",
-     "audio": "audio/tr-de/saetze/oa_14_fp.mp3?v=6555ada1"
+     "audio": "audio/tr-de/saetze/oa_14_fp.mp3?v=31bfab73"
     }
    }
   },
@@ -1070,16 +1070,16 @@ window.SPRACHEN["tr-de"] = {
     "de": "In der Konferenz langweile ich mich, ich schaue auf die Uhr.",
     "luecke": "canım sıkılıyor",
     "gloss": "Toplantı·da can·ım sıkıl·ıyor, saat·e bak·ıyor·um. | Versammlung·LOK Seele·mein eingeengt.werden·PRÄS, Uhr·DAT schauen·PRÄS·1SG",
-    "audio": "audio/tr-de/saetze/du_02.mp3?v=27ffbbce"
+    "audio": "audio/tr-de/saetze/du_02.mp3?v=fe44fd38"
    },
    "zeit": {
     "pc": {
      "fr": "Toplantıda canım sıkıldı, saate baktım.",
-     "audio": "audio/tr-de/saetze/du_02_pc.mp3?v=a17a660e"
+     "audio": "audio/tr-de/saetze/du_02_pc.mp3?v=a361ee13"
     },
     "fp": {
      "fr": "Toplantıda canım sıkılacak, saate bakacağım.",
-     "audio": "audio/tr-de/saetze/du_02_fp.mp3?v=b5cc30e4"
+     "audio": "audio/tr-de/saetze/du_02_fp.mp3?v=ec047ae2"
     }
    }
   },
@@ -1238,16 +1238,16 @@ window.SPRACHEN["tr-de"] = {
     "de": "Nach sieben Stunden habe ich Kopfschmerzen.",
     "luecke": "başım ağrıyor",
     "gloss": "Yedi saat·ten sonra baş·ım ağrı·yor. | sieben Stunde·ABL nach Kopf·mein schmerzen·PRÄS",
-    "audio": "audio/tr-de/saetze/du_08.mp3?v=05a382b0"
+    "audio": "audio/tr-de/saetze/du_08.mp3?v=f7b29f3f"
    },
    "zeit": {
     "pc": {
      "fr": "Yedi saatten sonra başım ağrıdı.",
-     "audio": "audio/tr-de/saetze/du_08_pc.mp3?v=64e5d5ad"
+     "audio": "audio/tr-de/saetze/du_08_pc.mp3?v=0e20356c"
     },
     "fp": {
      "fr": "Yedi saatten sonra başım ağrıyacak.",
-     "audio": "audio/tr-de/saetze/du_08_fp.mp3?v=38fac4d2"
+     "audio": "audio/tr-de/saetze/du_08_fp.mp3?v=0fb030de"
     }
    }
   },
@@ -4323,9 +4323,9 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/saetze/du_01.mp3?v=8f516a5d",
   "audio/tr-de/saetze/du_01_fp.mp3?v=aff7aefb",
   "audio/tr-de/saetze/du_01_pc.mp3?v=6b033ba1",
-  "audio/tr-de/saetze/du_02.mp3?v=27ffbbce",
-  "audio/tr-de/saetze/du_02_fp.mp3?v=b5cc30e4",
-  "audio/tr-de/saetze/du_02_pc.mp3?v=a17a660e",
+  "audio/tr-de/saetze/du_02.mp3?v=fe44fd38",
+  "audio/tr-de/saetze/du_02_fp.mp3?v=ec047ae2",
+  "audio/tr-de/saetze/du_02_pc.mp3?v=a361ee13",
   "audio/tr-de/saetze/du_03.mp3?v=5260be74",
   "audio/tr-de/saetze/du_03_fp.mp3?v=046dd1d6",
   "audio/tr-de/saetze/du_03_pc.mp3?v=6d197c06",
@@ -4341,9 +4341,9 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/saetze/du_07.mp3?v=206ec1f6",
   "audio/tr-de/saetze/du_07_fp.mp3?v=317f976e",
   "audio/tr-de/saetze/du_07_pc.mp3?v=3912ce05",
-  "audio/tr-de/saetze/du_08.mp3?v=05a382b0",
-  "audio/tr-de/saetze/du_08_fp.mp3?v=38fac4d2",
-  "audio/tr-de/saetze/du_08_pc.mp3?v=64e5d5ad",
+  "audio/tr-de/saetze/du_08.mp3?v=f7b29f3f",
+  "audio/tr-de/saetze/du_08_fp.mp3?v=0fb030de",
+  "audio/tr-de/saetze/du_08_pc.mp3?v=0e20356c",
   "audio/tr-de/saetze/du_09.mp3?v=3b2e71e0",
   "audio/tr-de/saetze/du_09_fp.mp3?v=b082a647",
   "audio/tr-de/saetze/du_09_pc.mp3?v=9724fdd7",
@@ -4523,24 +4523,24 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
   "audio/tr-de/saetze/oa_01_fp.mp3?v=83f6cc1a",
   "audio/tr-de/saetze/oa_01_pc.mp3?v=760d4b0e",
-  "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92",
-  "audio/tr-de/saetze/oa_02_fp.mp3?v=570fae42",
-  "audio/tr-de/saetze/oa_02_pc.mp3?v=dad8ac10",
-  "audio/tr-de/saetze/oa_03.mp3?v=9b5be232",
-  "audio/tr-de/saetze/oa_03_fp.mp3?v=e1753352",
-  "audio/tr-de/saetze/oa_03_pc.mp3?v=6b04f904",
-  "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813",
-  "audio/tr-de/saetze/oa_04_fp.mp3?v=a23a3709",
-  "audio/tr-de/saetze/oa_04_pc.mp3?v=51367d74",
+  "audio/tr-de/saetze/oa_02.mp3?v=66bbd63c",
+  "audio/tr-de/saetze/oa_02_fp.mp3?v=da170c53",
+  "audio/tr-de/saetze/oa_02_pc.mp3?v=0797237c",
+  "audio/tr-de/saetze/oa_03.mp3?v=e6f64f2d",
+  "audio/tr-de/saetze/oa_03_fp.mp3?v=70bce880",
+  "audio/tr-de/saetze/oa_03_pc.mp3?v=ec4f10d6",
+  "audio/tr-de/saetze/oa_04.mp3?v=1ba27f77",
+  "audio/tr-de/saetze/oa_04_fp.mp3?v=87fdcbc1",
+  "audio/tr-de/saetze/oa_04_pc.mp3?v=b182ca5f",
   "audio/tr-de/saetze/oa_05.mp3?v=cdca761d",
   "audio/tr-de/saetze/oa_05_fp.mp3?v=993bf3c9",
   "audio/tr-de/saetze/oa_05_pc.mp3?v=e58b9a2d",
   "audio/tr-de/saetze/oa_06.mp3?v=481c25df",
   "audio/tr-de/saetze/oa_06_fp.mp3?v=188f6d11",
   "audio/tr-de/saetze/oa_06_pc.mp3?v=6473edcd",
-  "audio/tr-de/saetze/oa_07.mp3?v=87586419",
-  "audio/tr-de/saetze/oa_07_fp.mp3?v=f2b352a0",
-  "audio/tr-de/saetze/oa_07_pc.mp3?v=661261f8",
+  "audio/tr-de/saetze/oa_07.mp3?v=3a523c37",
+  "audio/tr-de/saetze/oa_07_fp.mp3?v=05a64e7d",
+  "audio/tr-de/saetze/oa_07_pc.mp3?v=9dae5781",
   "audio/tr-de/saetze/oa_08.mp3?v=950c9561",
   "audio/tr-de/saetze/oa_08_fp.mp3?v=177bd183",
   "audio/tr-de/saetze/oa_08_pc.mp3?v=f036a539",
@@ -4554,12 +4554,12 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/saetze/oa_12.mp3?v=24275dd1",
   "audio/tr-de/saetze/oa_12_fp.mp3?v=798b056a",
   "audio/tr-de/saetze/oa_12_pc.mp3?v=54d41f47",
-  "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb",
-  "audio/tr-de/saetze/oa_13_fp.mp3?v=924d5717",
-  "audio/tr-de/saetze/oa_13_pc.mp3?v=9c748837",
-  "audio/tr-de/saetze/oa_14.mp3?v=37569581",
-  "audio/tr-de/saetze/oa_14_fp.mp3?v=6555ada1",
-  "audio/tr-de/saetze/oa_14_pc.mp3?v=9e611cfd",
+  "audio/tr-de/saetze/oa_13.mp3?v=7be273ee",
+  "audio/tr-de/saetze/oa_13_fp.mp3?v=2c0bb8b3",
+  "audio/tr-de/saetze/oa_13_pc.mp3?v=b353393a",
+  "audio/tr-de/saetze/oa_14.mp3?v=f86cd6de",
+  "audio/tr-de/saetze/oa_14_fp.mp3?v=31bfab73",
+  "audio/tr-de/saetze/oa_14_pc.mp3?v=ed50975e",
   "audio/tr-de/saetze/oa_15.mp3?v=bad32b06",
   "audio/tr-de/saetze/oa_15_fp.mp3?v=d3fa966b",
   "audio/tr-de/saetze/oa_15_pc.mp3?v=ada19b6d",

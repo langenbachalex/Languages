@@ -30,7 +30,8 @@ def auftraege(P):
     for t in P.THEMEN:
         for z in bauen.tsv(inhalte, t["datei"]):
             wid = z["id"]
-            liste.append((f"audio/{paar}/wendungen/{wid}.mp3", s(getattr(P, "WENDUNG_KORREKTUR", {}).get(z["wendung"], z["wendung"])), n))
+            im_traeger = z["wendung"] in getattr(P, "WENDUNG_IM_TRAEGERSATZ", set())   # kippt allein in eine andere Sprache
+            liste.append((f"audio/{paar}/wendungen/{wid}.mp3", s(getattr(P, "WENDUNG_KORREKTUR", {}).get(z["wendung"], z["wendung"])), ("w" + n) if im_traeger else n))
             liste.append((f"audio/{paar}/saetze/{wid}.mp3", s(getattr(P, "SATZ_KORREKTUR", {}).get(z["satz_fr"], z["satz_fr"])), n))
             if z["passe_compose"]:
                 liste.append((f"audio/{paar}/saetze/{wid}_pc.mp3", s(z["passe_compose"]), n))
@@ -62,7 +63,7 @@ def vorspann_schneiden(pfad):
     m = re.search(r"Duration: (\d+):(\d+):([\d.]+)", out)
     dauer = 60 * float(m.group(2)) + float(m.group(3))
     enden = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", out) if float(x) < dauer - 0.25]
-    if not enden or dauer - enden[-1] > 1.6:
+    if not enden or dauer - enden[-1] > 2.8:   # Einzelwort oder kurze Wendung nach der Pause
         raise RuntimeError(f"keine Pause vor dem Wort gefunden: {pfad} ({enden}, {dauer:.2f}s)")
     ab = max(enden[-1] - 0.06, 0)
     tmp = pfad + ".schnitt.mp3"

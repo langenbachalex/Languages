@@ -82,7 +82,7 @@ def karte_laden(inhalte):
 STIMME = {"id": "AK2WYGe96RmMwFKM5KEz", "modell": "eleven_v4", "language_code": "es", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 STIMME_B = {"id": "5egO01tkUjEzu7xSSE8M", "modell": "eleven_multilingual_v2", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 # Vorlese-Schreibung (ganze Wörter): « Entre » am Satzanfang kippte ins Französische („ontre“)
-AUSSPRACHE_KORREKTUR = {"Entre": "Éntre"}
+AUSSPRACHE_KORREKTUR = {"Entre": "Éntre", "Hoy": "Oy"}   # H am Satzanfang wurde gesprochen
 # Vorlese-Fassung einzelner Wendungen (nur die Wendung allein, nicht in Sätzen): die Stimme las sie sonst englisch (Mr. Alex, 15.10.: Variante mit ¡…! überzeugt)
 WENDUNG_KORREKTUR = {"dar clase": "¡Dar clase!"}
 

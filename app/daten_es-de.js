@@ -904,7 +904,7 @@ window.SPRACHEN["es-de"] = {
     "de": "Heute waren die Erstklässler voll dabei.",
     "luecke": "a tope",
     "gloss": null,
-    "audio": "audio/es-de/saetze/pr_15.mp3?v=c8b91497"
+    "audio": "audio/es-de/saetze/pr_15.mp3?v=43466325"
    },
    "zeit": null
   },
@@ -3875,7 +3875,7 @@ window.SPRACHEN["es-de"] = {
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "me he superado",
     "gloss": null,
-    "audio": "audio/es-de/saetze/de_22.mp3?v=dee17610"
+    "audio": "audio/es-de/saetze/de_22.mp3?v=58b28bde"
    },
    "zeit": null
   },
@@ -4448,7 +4448,7 @@ window.SPRACHEN["es-de"] = {
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "me he levantado con el pie derecho",
     "gloss": null,
-    "audio": "audio/es-de/saetze/co_22.mp3?v=b7364df1"
+    "audio": "audio/es-de/saetze/co_22.mp3?v=f77a6fae"
    },
    "zeit": null
   },
@@ -8354,7 +8354,7 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/saetze/co_21.mp3?v=5f089f9a",
   "audio/es-de/saetze/co_21_fp.mp3?v=70c90f7b",
   "audio/es-de/saetze/co_21_pc.mp3?v=f9cf6a2f",
-  "audio/es-de/saetze/co_22.mp3?v=b7364df1",
+  "audio/es-de/saetze/co_22.mp3?v=f77a6fae",
   "audio/es-de/saetze/co_23.mp3?v=9fdfee17",
   "audio/es-de/saetze/co_24.mp3?v=5443409c",
   "audio/es-de/saetze/de_01.mp3?v=e8a8457f",
@@ -8402,7 +8402,7 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/saetze/de_21.mp3?v=3ca0fbda",
   "audio/es-de/saetze/de_21_fp.mp3?v=a2db2c21",
   "audio/es-de/saetze/de_21_pc.mp3?v=751b0195",
-  "audio/es-de/saetze/de_22.mp3?v=dee17610",
+  "audio/es-de/saetze/de_22.mp3?v=58b28bde",
   "audio/es-de/saetze/de_23.mp3?v=7eff4942",
   "audio/es-de/saetze/de_24.mp3?v=2fc8ad63",
   "audio/es-de/saetze/fa_01.mp3?v=d3a212af",
@@ -8659,7 +8659,7 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/saetze/pr_14.mp3?v=1a1a3b09",
   "audio/es-de/saetze/pr_14_fp.mp3?v=544f95fd",
   "audio/es-de/saetze/pr_14_pc.mp3?v=6e815a5e",
-  "audio/es-de/saetze/pr_15.mp3?v=c8b91497",
+  "audio/es-de/saetze/pr_15.mp3?v=43466325",
   "audio/es-de/saetze/pr_16.mp3?v=b2685a5f",
   "audio/es-de/saetze/pr_16_fp.mp3?v=93b19706",
   "audio/es-de/saetze/pr_16_pc.mp3?v=604aa95c",

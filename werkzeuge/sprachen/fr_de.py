@@ -89,7 +89,7 @@ def karte_laden(inhalte):
 STIMME = {"id": "AK2WYGe96RmMwFKM5KEz", "modell": "eleven_v4", "language_code": "fr", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 STIMME_B = {"id": "eOwAMwUJEGkP44SKOXIH", "modell": "eleven_multilingual_v2", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 # Schreibweise nur fürs Vorlesen (ganze Wörter): die Stimme las einzelne Wörter englisch oder mit Endkonsonant.
-AUSSPRACHE_KORREKTUR = {"Metz": "Mess", "Nancy": "Nanci", "temps": "tant", "‿": ""}
+AUSSPRACHE_KORREKTUR = {"Metz": "Mess", "Nancy": "Nanci", "temps": "tant", "Paris": "Pari", "‿": ""}
 
 # Oberflächentexte: [Zielsprache, Hilfe] oder nur Zielsprache
 UI = {

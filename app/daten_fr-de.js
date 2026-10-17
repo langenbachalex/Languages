@@ -1464,16 +1464,16 @@ window.SPRACHEN["fr-de"] = {
     "de": "Der Regen über Paris macht mich ein bisschen traurig.",
     "luecke": "me rend",
     "gloss": null,
-    "audio": "audio/fr-de/saetze/se_19.mp3?v=ef86de82"
+    "audio": "audio/fr-de/saetze/se_19.mp3?v=db791dae"
    },
    "zeit": {
     "pc": {
      "fr": "La pluie m'a rendu un peu triste.",
-     "audio": "audio/fr-de/saetze/se_19_pc.mp3?v=3ddaa650"
+     "audio": "audio/fr-de/saetze/se_19_pc.mp3?v=beb8d802"
     },
     "fp": {
      "fr": "La pluie va me rendre un peu triste.",
-     "audio": "audio/fr-de/saetze/se_19_fp.mp3?v=9b20d605"
+     "audio": "audio/fr-de/saetze/se_19_fp.mp3?v=409d19e0"
     }
    }
   },
@@ -6492,7 +6492,7 @@ window.SPRACHEN["fr-de"] = {
      "id": "k01_11",
      "fr": "Il a mis le billet dans sa poche. **Du coup**, à six heures du matin, il était dans le train pour Paris.",
      "de": "Er steckte die Karte in seine Tasche. Und so saß er um sechs Uhr morgens im Zug nach Paris.",
-     "audio": "audio/fr-de/geschichte/k01_11.mp3?v=e7ab3253"
+     "audio": "audio/fr-de/geschichte/k01_11.mp3?v=0a698deb"
     },
     {
      "id": "k01_12",
@@ -6522,7 +6522,7 @@ window.SPRACHEN["fr-de"] = {
      "id": "k02_01",
      "fr": "Le train pour Paris mettait une heure et demie. Julien avait un livre, un café et une question.",
      "de": "Der Zug nach Paris brauchte anderthalb Stunden. Julien hatte ein Buch, einen Kaffee und eine Frage.",
-     "audio": "audio/fr-de/geschichte/k02_01.mp3?v=f3f54dfd"
+     "audio": "audio/fr-de/geschichte/k02_01.mp3?v=953a972a"
     },
     {
      "id": "k02_02",
@@ -6558,7 +6558,7 @@ window.SPRACHEN["fr-de"] = {
      "id": "k02_07",
      "fr": "Entre Châlons et Paris, l'homme a plié son journal. Il a posé sur la table une petite clé en laiton, très vieille, avec un numéro : 13.",
      "de": "Zwischen Châlons und Paris faltete der Mann seine Zeitung zusammen. Er legte einen kleinen, sehr alten Messingschlüssel auf den Tisch, mit einer Nummer: 13.",
-     "audio": "audio/fr-de/geschichte/k02_07.mp3?v=9522b680"
+     "audio": "audio/fr-de/geschichte/k02_07.mp3?v=1f4b921b"
     },
     {
      "id": "k02_08",
@@ -7526,7 +7526,7 @@ window.SPRACHEN["fr-de"] = {
     "y": 86.5,
     "fakt": "La cathédrale d'Amiens est la plus grande de France : Notre-Dame de Paris y tiendrait deux fois.",
     "fakt_de": "Die Kathedrale von Amiens ist die größte Frankreichs: Notre-Dame de Paris würde zweimal hineinpassen.",
-    "audio": "audio/fr-de/orte/amiens.mp3?v=66f1ec48"
+    "audio": "audio/fr-de/orte/amiens.mp3?v=0a08d17d"
    },
    {
     "id": "paris",
@@ -7538,7 +7538,7 @@ window.SPRACHEN["fr-de"] = {
     "y": 146.5,
     "fakt": "La tour Eiffel devait être démontée après vingt ans. Elle a été sauvée parce qu'elle servait d'antenne radio.",
     "fakt_de": "Der Eiffelturm sollte nach zwanzig Jahren abgebaut werden. Er wurde gerettet, weil er als Funkantenne diente.",
-    "audio": "audio/fr-de/orte/paris.mp3?v=aedacdea"
+    "audio": "audio/fr-de/orte/paris.mp3?v=6a05cd99"
    },
    {
     "id": "louvre",
@@ -7874,7 +7874,7 @@ window.SPRACHEN["fr-de"] = {
     "y": 479.5,
     "fakt": "Lourdes, dans les Pyrénées, accueille des millions de pèlerins. C'est la deuxième ville hôtelière de France après Paris.",
     "fakt_de": "Lourdes in den Pyrenäen empfängt Millionen Pilger. Es hat nach Paris die meisten Hotels in Frankreich.",
-    "audio": "audio/fr-de/orte/lourdes.mp3?v=72ae4b28"
+    "audio": "audio/fr-de/orte/lourdes.mp3?v=401161f8"
    },
    {
     "id": "toulouse",
@@ -8654,17 +8654,17 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/geschichte/k01_08.mp3?v=59e1331a",
   "audio/fr-de/geschichte/k01_09.mp3?v=73e44beb",
   "audio/fr-de/geschichte/k01_10.mp3?v=88d3c673",
-  "audio/fr-de/geschichte/k01_11.mp3?v=e7ab3253",
+  "audio/fr-de/geschichte/k01_11.mp3?v=0a698deb",
   "audio/fr-de/geschichte/k01_12.mp3?v=c8477eba",
   "audio/fr-de/geschichte/k01_13.mp3?v=14c03e36",
   "audio/fr-de/geschichte/k01_14.mp3?v=f13a9833",
-  "audio/fr-de/geschichte/k02_01.mp3?v=f3f54dfd",
+  "audio/fr-de/geschichte/k02_01.mp3?v=953a972a",
   "audio/fr-de/geschichte/k02_02.mp3?v=bfbff8dc",
   "audio/fr-de/geschichte/k02_03.mp3?v=d13c12f4",
   "audio/fr-de/geschichte/k02_04.mp3?v=cc4405c6",
   "audio/fr-de/geschichte/k02_05.mp3?v=bb2d2b31",
   "audio/fr-de/geschichte/k02_06.mp3?v=e0d173bb",
-  "audio/fr-de/geschichte/k02_07.mp3?v=9522b680",
+  "audio/fr-de/geschichte/k02_07.mp3?v=1f4b921b",
   "audio/fr-de/geschichte/k02_08.mp3?v=c450ddd7",
   "audio/fr-de/geschichte/k02_09.mp3?v=2e2cf711",
   "audio/fr-de/geschichte/k02_10.mp3?v=1babe59d",
@@ -8858,7 +8858,7 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/nasale/un_05.mp3?v=4bc4feb0",
   "audio/fr-de/nasale/un_06.mp3?v=950f0b7c",
   "audio/fr-de/orte/ajaccio.mp3?v=383180e1",
-  "audio/fr-de/orte/amiens.mp3?v=66f1ec48",
+  "audio/fr-de/orte/amiens.mp3?v=0a08d17d",
   "audio/fr-de/orte/annecy.mp3?v=d9a678fb",
   "audio/fr-de/orte/avignon.mp3?v=cac22fda",
   "audio/fr-de/orte/besancon.mp3?v=9e5b4fdd",
@@ -8885,7 +8885,7 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/orte/lascaux.mp3?v=6506f3e8",
   "audio/fr-de/orte/le_mans.mp3?v=6f9bef45",
   "audio/fr-de/orte/lille.mp3?v=6d143916",
-  "audio/fr-de/orte/lourdes.mp3?v=72ae4b28",
+  "audio/fr-de/orte/lourdes.mp3?v=401161f8",
   "audio/fr-de/orte/louvre.mp3?v=147ba497",
   "audio/fr-de/orte/lyon.mp3?v=8d0212aa",
   "audio/fr-de/orte/marseille.mp3?v=ba83da31",
@@ -8895,7 +8895,7 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/orte/nancy.mp3?v=f160192e",
   "audio/fr-de/orte/nantes.mp3?v=b2fa612a",
   "audio/fr-de/orte/nice.mp3?v=2a741e07",
-  "audio/fr-de/orte/paris.mp3?v=aedacdea",
+  "audio/fr-de/orte/paris.mp3?v=6a05cd99",
   "audio/fr-de/orte/plages_debarquement.mp3?v=41fd1faa",
   "audio/fr-de/orte/pont_du_gard.mp3?v=d757588c",
   "audio/fr-de/orte/reims.mp3?v=f52cef0e",
@@ -9263,9 +9263,9 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/saetze/se_18.mp3?v=2247ffef",
   "audio/fr-de/saetze/se_18_fp.mp3?v=d1cef9f3",
   "audio/fr-de/saetze/se_18_pc.mp3?v=0f463a44",
-  "audio/fr-de/saetze/se_19.mp3?v=ef86de82",
-  "audio/fr-de/saetze/se_19_fp.mp3?v=9b20d605",
-  "audio/fr-de/saetze/se_19_pc.mp3?v=3ddaa650",
+  "audio/fr-de/saetze/se_19.mp3?v=db791dae",
+  "audio/fr-de/saetze/se_19_fp.mp3?v=409d19e0",
+  "audio/fr-de/saetze/se_19_pc.mp3?v=beb8d802",
   "audio/fr-de/saetze/se_20.mp3?v=39ee3577",
   "audio/fr-de/saetze/se_21.mp3?v=68c94731",
   "audio/fr-de/saetze/se_22.mp3?v=f2bfd0e6",
