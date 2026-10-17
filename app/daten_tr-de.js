@@ -324,6 +324,38 @@ window.SPRACHEN["tr-de"] = {
     "du_23",
     "du_24"
    ]
+  },
+  {
+   "id": "kediler",
+   "name": "Kediler",
+   "de": "Die Katzen",
+   "symbol": "🐈",
+   "wendungen": [
+    "ke_01",
+    "ke_02",
+    "ke_03",
+    "ke_04",
+    "ke_05",
+    "ke_06",
+    "ke_07",
+    "ke_08",
+    "ke_09",
+    "ke_10",
+    "ke_11",
+    "ke_12",
+    "ke_13",
+    "ke_14",
+    "ke_15",
+    "ke_16",
+    "ke_17",
+    "ke_18",
+    "ke_19",
+    "ke_20",
+    "ke_21",
+    "ke_22",
+    "ke_23",
+    "ke_24"
+   ]
   }
  ],
  "wendungen": [
@@ -1616,6 +1648,660 @@ window.SPRACHEN["tr-de"] = {
     "audio": "audio/tr-de/saetze/du_24.mp3?v=994b7fd9"
    },
    "zeit": null
+  },
+  {
+   "id": "ke_01",
+   "thema": "kediler",
+   "fr": "kedi beslemek",
+   "de": "eine Katze halten",
+   "register": "tu",
+   "anker": "beslemek",
+   "notiz": "beslemek = füttern, ernähren; kedi beslemek = eine Katze halten. Nach Zahlwörtern Singular: iki kedi. Vokal e fällt vor -iyor: besle- → besl-iyor.",
+   "audio": "audio/tr-de/wendungen/ke_01.mp3?v=41976621",
+   "gloss": "kedi besle·mek | Katze füttern·INF",
+   "satz": {
+    "fr": "Evde iki kedi besliyoruz.",
+    "de": "Zu Hause halten wir zwei Katzen.",
+    "luecke": "kedi besliyoruz",
+    "gloss": "Ev·de iki kedi besl·iyor·uz. | Haus·LOK zwei Katze füttern·PRÄS·1PL",
+    "audio": "audio/tr-de/saetze/ke_01.mp3?v=9c4d2011"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Evde iki kedi besledik.",
+     "audio": "audio/tr-de/saetze/ke_01_pc.mp3?v=eaf86ea9"
+    },
+    "fp": {
+     "fr": "Evde iki kedi besleyeceğiz.",
+     "audio": "audio/tr-de/saetze/ke_01_fp.mp3?v=fada4f2f"
+    }
+   }
+  },
+  {
+   "id": "ke_02",
+   "thema": "kediler",
+   "fr": "mırıldanmak",
+   "de": "schnurren",
+   "register": "tu",
+   "anker": "mırıldanmak",
+   "notiz": "mırıldanmak = schnurren, auch: vor sich hin murmeln. kucak = Schoß (kucağ-ım-a: k → ğ). -ınca/-ince = sobald, wenn (Konverb).",
+   "audio": "audio/tr-de/wendungen/ke_02.mp3?v=d6a2d6c9",
+   "gloss": "mırıldan·mak | schnurren·INF",
+   "satz": {
+    "fr": "Kucağıma çıkınca mırıldanıyor.",
+    "de": "Sobald sie auf meinen Schoß steigt, schnurrt sie.",
+    "luecke": "mırıldanıyor",
+    "gloss": "Kucağ·ım·a çık·ınca mırıldan·ıyor. | Schoß·mein·DAT steigen·SOBALD schnurren·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_02.mp3?v=ffb59319"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Kucağıma çıkınca mırıldandı.",
+     "audio": "audio/tr-de/saetze/ke_02_pc.mp3?v=17d9f154"
+    },
+    "fp": {
+     "fr": "Kucağıma çıkınca mırıldanacak.",
+     "audio": "audio/tr-de/saetze/ke_02_fp.mp3?v=4c8d03c5"
+    }
+   }
+  },
+  {
+   "id": "ke_03",
+   "thema": "kediler",
+   "fr": "miyavlamak",
+   "de": "miauen",
+   "register": "tu",
+   "anker": "miyavlamak",
+   "notiz": "miyav = miau; miyavlamak = miauen (Lautverb mit -la-). Ebenso: havlamak = bellen, hırlamak = knurren.",
+   "audio": "audio/tr-de/wendungen/ke_03.mp3?v=5710c480",
+   "gloss": "miyavla·mak | miauen·INF",
+   "satz": {
+    "fr": "Sabah beşte kapıda miyavlıyor.",
+    "de": "Um fünf Uhr morgens miaut sie an der Tür.",
+    "luecke": "miyavlıyor",
+    "gloss": "Sabah beş·te kapı·da miyavl·ıyor. | Morgen fünf·LOK Tür·LOK miauen·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_03.mp3?v=d4a84bc0"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sabah beşte kapıda miyavladı.",
+     "audio": "audio/tr-de/saetze/ke_03_pc.mp3?v=37755ca1"
+    },
+    "fp": {
+     "fr": "Sabah beşte kapıda miyavlayacak.",
+     "audio": "audio/tr-de/saetze/ke_03_fp.mp3?v=af0c7ef3"
+    }
+   }
+  },
+  {
+   "id": "ke_04",
+   "thema": "kediler",
+   "fr": "tırmalamak",
+   "de": "kratzen",
+   "register": "tu",
+   "anker": "tırmalamak",
+   "notiz": "tırmalamak = mit den Krallen kratzen; tırmanmak = klettern (nicht verwechseln). koltuk = Sessel, Sofa (koltuğ-u: k → ğ vor Vokal). tırmalama tahtası = Kratzbaum.",
+   "audio": "audio/tr-de/wendungen/ke_04.mp3?v=e0925c6d",
+   "gloss": "tırmala·mak | kratzen·INF",
+   "satz": {
+    "fr": "Koltuğu yine tırmaladı.",
+    "de": "Sie hat wieder das Sofa zerkratzt.",
+    "luecke": "tırmaladı",
+    "gloss": "Koltuğ·u yine tırmala·dı. | Sofa·AKK wieder kratzen·VERG",
+    "audio": "audio/tr-de/saetze/ke_04.mp3?v=3c3ad8a0"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Koltuğu yine tırmalamıştı.",
+     "audio": "audio/tr-de/saetze/ke_04_pc.mp3?v=5259edcf"
+    },
+    "fp": {
+     "fr": "Koltuğu yine tırmalayacak.",
+     "audio": "audio/tr-de/saetze/ke_04_fp.mp3?v=5c3061e3"
+    }
+   }
+  },
+  {
+   "id": "ke_05",
+   "thema": "kediler",
+   "fr": "kedi kumu",
+   "de": "Katzenstreu",
+   "register": "tu",
+   "anker": "bitmek",
+   "notiz": "kum = Sand; kedi kumu = Katzenstreu (Possessivverbindung). gitmek: t → d vor Vokal (gid-iyor-um). market = Supermarkt.",
+   "audio": "audio/tr-de/wendungen/ke_05.mp3?v=551f101b",
+   "gloss": "kedi kum·u | Katze Sand·sein",
+   "satz": {
+    "fr": "Kedi kumu bitti, markete gidiyorum.",
+    "de": "Die Streu ist alle, ich gehe in den Laden.",
+    "luecke": "Kedi kumu",
+    "gloss": "Kedi kum·u bit·ti, market·e gid·iyor·um. | Katze Sand·sein enden·VERG, Laden·DAT gehen·PRÄS·1SG",
+    "audio": "audio/tr-de/saetze/ke_05.mp3?v=25553dda"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Kedi kumu bitmişti, markete gittim.",
+     "audio": "audio/tr-de/saetze/ke_05_pc.mp3?v=87c00324"
+    },
+    "fp": {
+     "fr": "Kedi kumu bitecek, markete gideceğim.",
+     "audio": "audio/tr-de/saetze/ke_05_fp.mp3?v=ac63390a"
+    }
+   }
+  },
+  {
+   "id": "ke_06",
+   "thema": "kediler",
+   "fr": "mama",
+   "de": "Katzenfutter",
+   "register": "tu",
+   "anker": "gelmek",
+   "notiz": "mama = Tierfutter (auch Babybrei). -arak/-erek = indem, -end: koşarak = laufend. Akkusativ nach Vokal mit y: mama-yı.",
+   "audio": "audio/tr-de/wendungen/ke_06.mp3?v=9af158e5",
+   "gloss": "mama | Tierfutter",
+   "satz": {
+    "fr": "Mamayı görünce koşarak geliyor.",
+    "de": "Wenn sie das Futter sieht, kommt sie angerannt.",
+    "luecke": "Mamayı",
+    "gloss": "Mama·yı gör·ünce koş·arak gel·iyor. | Futter·AKK sehen·SOBALD laufen·INDEM kommen·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_06.mp3?v=7873d345"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Mamayı görünce koşarak geldi.",
+     "audio": "audio/tr-de/saetze/ke_06_pc.mp3?v=9dfbe92c"
+    },
+    "fp": {
+     "fr": "Mamayı görünce koşarak gelecek.",
+     "audio": "audio/tr-de/saetze/ke_06_fp.mp3?v=d96f72a6"
+    }
+   }
+  },
+  {
+   "id": "ke_07",
+   "thema": "kediler",
+   "fr": "patisiyle",
+   "de": "mit der Pfote",
+   "register": "tu",
+   "anker": "düşürmek",
+   "notiz": "pati = Pfote; -(y)le = mit (Instrumental, aus ile). düşmek = fallen, düşürmek = fallen lassen (Kausativ -ür-).",
+   "audio": "audio/tr-de/wendungen/ke_07.mp3?v=ffbcfbb9",
+   "gloss": "pati·si·yle | Pfote·sein·MIT",
+   "satz": {
+    "fr": "Patisiyle kalemimi masadan düşürüyor.",
+    "de": "Mit der Pfote schubst sie meinen Stift vom Tisch.",
+    "luecke": "Patisiyle",
+    "gloss": "Pati·si·yle kalem·im·i masa·dan düşür·üyor. | Pfote·sein·MIT Stift·mein·AKK Tisch·ABL fallen.lassen·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_07.mp3?v=a3851baf"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Patisiyle kalemimi masadan düşürdü.",
+     "audio": "audio/tr-de/saetze/ke_07_pc.mp3?v=0b0919b1"
+    },
+    "fp": {
+     "fr": "Patisiyle kalemimi masadan düşürecek.",
+     "audio": "audio/tr-de/saetze/ke_07_fp.mp3?v=8b945c4b"
+    }
+   }
+  },
+  {
+   "id": "ke_08",
+   "thema": "kediler",
+   "fr": "kucağa çıkmak",
+   "de": "auf den Schoß kommen",
+   "register": "tu",
+   "anker": "çıkmak",
+   "notiz": "çıkmak = hinaufsteigen, herauskommen. -ken = während (okurken = während ich lese; Aorist + ken). kucağıma = auf meinen Schoß (Dativ).",
+   "audio": "audio/tr-de/wendungen/ke_08.mp3?v=601d002f",
+   "gloss": "kucağ·a çık·mak | Schoß·DAT steigen·INF",
+   "satz": {
+    "fr": "Kâğıt okurken kucağıma çıkıyor.",
+    "de": "Beim Korrigieren kommt sie auf meinen Schoß.",
+    "luecke": "kucağıma çıkıyor",
+    "gloss": "Kâğıt oku·r·ken kucağ·ım·a çık·ıyor. | Blatt lesen·AOR·WÄHREND Schoß·mein·DAT steigen·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_08.mp3?v=cf5d317b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Kâğıt okurken kucağıma çıktı.",
+     "audio": "audio/tr-de/saetze/ke_08_pc.mp3?v=4a07f63f"
+    },
+    "fp": {
+     "fr": "Kâğıt okurken kucağıma çıkacak.",
+     "audio": "audio/tr-de/saetze/ke_08_fp.mp3?v=bb0c1ba1"
+    }
+   }
+  },
+  {
+   "id": "ke_09",
+   "thema": "kediler",
+   "fr": "uyuklamak",
+   "de": "dösen",
+   "register": "tu",
+   "anker": "uyuklamak",
+   "notiz": "uyumak = schlafen, uyuklamak = dösen, einnicken (-kla- Verkleinerung). bütün gün = den ganzen Tag.",
+   "audio": "audio/tr-de/wendungen/ke_09.mp3?v=992b4250",
+   "gloss": "uyukla·mak | dösen·INF",
+   "satz": {
+    "fr": "Güneşte bütün gün uyukluyor.",
+    "de": "In der Sonne döst sie den ganzen Tag.",
+    "luecke": "uyukluyor",
+    "gloss": "Güneş·te bütün gün uyukl·uyor. | Sonne·LOK ganz Tag dösen·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_09.mp3?v=44b0f5cb"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Güneşte bütün gün uyukladı.",
+     "audio": "audio/tr-de/saetze/ke_09_pc.mp3?v=4ea9e7fc"
+    },
+    "fp": {
+     "fr": "Güneşte bütün gün uyuklayacak.",
+     "audio": "audio/tr-de/saetze/ke_09_fp.mp3?v=2cf98b86"
+    }
+   }
+  },
+  {
+   "id": "ke_10",
+   "thema": "kediler",
+   "fr": "kedi gibi",
+   "de": "wie eine Katze",
+   "register": "tu",
+   "anker": "dinlemek",
+   "notiz": "gibi = wie (nachgestellt). dokuzlar = die Neunten (Klassenstufe). hiç + Verneinung = nie, gar nicht. dinlemek = zuhören, gehorchen.",
+   "audio": "audio/tr-de/wendungen/ke_10.mp3?v=b6c5c4da",
+   "gloss": "kedi gibi | Katze wie",
+   "satz": {
+    "fr": "Dokuzlar kedi gibi, hiç dinlemiyor.",
+    "de": "Die Neunten sind wie Katzen, sie hören nie.",
+    "luecke": "kedi gibi",
+    "gloss": "Dokuz·lar kedi gibi, hiç dinle·mi·yor. | neun·PL Katze wie, nie hören·NEG·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_10.mp3?v=3d112863"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dokuzlar kedi gibiydi, hiç dinlemedi.",
+     "audio": "audio/tr-de/saetze/ke_10_pc.mp3?v=2aae5c32"
+    },
+    "fp": {
+     "fr": "Dokuzlar kedi gibi olacak, hiç dinlemeyecek.",
+     "audio": "audio/tr-de/saetze/ke_10_fp.mp3?v=8b9c73c7"
+    }
+   }
+  },
+  {
+   "id": "ke_11",
+   "thema": "kediler",
+   "fr": "sokak kedisi",
+   "de": "Straßenkatze",
+   "register": "tu",
+   "anker": "seçmek",
+   "notiz": "sokak = Straße; sokak kedisi = Straßenkatze (Possessivverbindung wie kedi kumu). seçmek = wählen. bizi = uns (Akkusativ).",
+   "audio": "audio/tr-de/wendungen/ke_11.mp3?v=2d89b9a8",
+   "gloss": "sokak kedi·si | Straße Katze·sein",
+   "satz": {
+    "fr": "Sokak kedisi ama bizi seçti.",
+    "de": "Eine Straßenkatze, aber sie hat uns gewählt.",
+    "luecke": "Sokak kedisi",
+    "gloss": "Sokak kedi·si ama biz·i seç·ti. | Straße Katze·sein aber wir·AKK wählen·VERG",
+    "audio": "audio/tr-de/saetze/ke_11.mp3?v=22654244"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sokak kedisiydi ama bizi seçmişti.",
+     "audio": "audio/tr-de/saetze/ke_11_pc.mp3?v=e117e934"
+    },
+    "fp": {
+     "fr": "Sokak kedisi ama bizi seçecek.",
+     "audio": "audio/tr-de/saetze/ke_11_fp.mp3?v=adc717a8"
+    }
+   }
+  },
+  {
+   "id": "ke_12",
+   "thema": "kediler",
+   "fr": "mahalle kedisi",
+   "de": "Viertelkatze",
+   "register": "tu",
+   "anker": "var",
+   "notiz": "mahalle = Stadtviertel; mahalle kedisi = die von allen gefütterte Katze des Viertels, Istanbuler Institution. Genitiv -nin + Possessiv -si = hat.",
+   "audio": "audio/tr-de/wendungen/ke_12.mp3?v=86c6f8b0",
+   "gloss": "mahalle kedi·si | Viertel Katze·sein",
+   "satz": {
+    "fr": "İstanbul'da her mahallenin kedisi var.",
+    "de": "In Istanbul hat jedes Viertel seine Katze.",
+    "luecke": "mahallenin kedisi",
+    "gloss": "İstanbul·'da her mahalle·nin kedi·si var. | Istanbul·LOK jedes Viertel·GEN Katze·sein vorhanden",
+    "audio": "audio/tr-de/saetze/ke_12.mp3?v=802c404b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "İstanbul'da her mahallenin kedisi vardı.",
+     "audio": "audio/tr-de/saetze/ke_12_pc.mp3?v=02f72f71"
+    },
+    "fp": {
+     "fr": "İstanbul'da her mahallenin kedisi olacak.",
+     "audio": "audio/tr-de/saetze/ke_12_fp.mp3?v=93b61f4d"
+    }
+   }
+  },
+  {
+   "id": "ke_13",
+   "thema": "kediler",
+   "fr": "tüy dökmek",
+   "de": "haaren",
+   "register": "tu",
+   "anker": "dökmek",
+   "notiz": "tüy = Fell, Feder, Flaum (saç = Kopfhaar des Menschen). dökmek = gießen, verlieren; tüy dökmek = haaren. her yer = überall.",
+   "audio": "audio/tr-de/wendungen/ke_13.mp3?v=8def3d8c",
+   "gloss": "tüy dök·mek | Haar vergießen·INF",
+   "satz": {
+    "fr": "Baharda her yer tüy, çok döküyor.",
+    "de": "Im Frühling ist alles voller Haare, sie haart sehr.",
+    "luecke": "döküyor",
+    "gloss": "Bahar·da her yer tüy, çok dök·üyor. | Frühling·LOK jeder Ort Haar, sehr vergießen·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_13.mp3?v=1446cace"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Baharda her yer tüydü, çok döktü.",
+     "audio": "audio/tr-de/saetze/ke_13_pc.mp3?v=17ab6a4e"
+    },
+    "fp": {
+     "fr": "Baharda her yer tüy olacak, çok dökecek.",
+     "audio": "audio/tr-de/saetze/ke_13_fp.mp3?v=87356865"
+    }
+   }
+  },
+  {
+   "id": "ke_14",
+   "thema": "kediler",
+   "fr": "kusmak",
+   "de": "sich übergeben",
+   "register": "tu",
+   "anker": "kusmak",
+   "notiz": "kusmak = sich übergeben (bei Katzen: Haarballen). tabii ki = natürlich. Dativ nach Vokal mit y: halı-ya.",
+   "audio": "audio/tr-de/wendungen/ke_14.mp3?v=5041e6a6",
+   "gloss": "kus·mak | sich.übergeben·INF",
+   "satz": {
+    "fr": "Halıya kustu, tabii ki halıya.",
+    "de": "Auf den Teppich hat sie gespuckt, natürlich auf den Teppich.",
+    "luecke": "kustu",
+    "gloss": "Halı·ya kus·tu, tabii·ki halı·ya. | Teppich·DAT sich.übergeben·VERG, natürlich Teppich·DAT",
+    "audio": "audio/tr-de/saetze/ke_14.mp3?v=eae37887"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Halıya kusmuştu, tabii ki halıya.",
+     "audio": "audio/tr-de/saetze/ke_14_pc.mp3?v=a5b128e4"
+    },
+    "fp": {
+     "fr": "Halıya kusacak, tabii ki halıya.",
+     "audio": "audio/tr-de/saetze/ke_14_fp.mp3?v=0af3f73b"
+    }
+   }
+  },
+  {
+   "id": "ke_15",
+   "thema": "kediler",
+   "fr": "veterinere götürmek",
+   "de": "zum Tierarzt bringen",
+   "register": "tu",
+   "anker": "götürmek",
+   "notiz": "götürmek = hinbringen, getirmek = herbringen (Richtung!). aşı = Impfung; için = für, um zu (nachgestellt).",
+   "audio": "audio/tr-de/wendungen/ke_15.mp3?v=0338f93c",
+   "gloss": "veteriner·e götür·mek | Tierarzt·DAT hinbringen·INF",
+   "satz": {
+    "fr": "Yarın aşı için veterinere götürüyorum.",
+    "de": "Morgen bringe ich sie zum Impfen zum Tierarzt.",
+    "luecke": "veterinere götürüyorum",
+    "gloss": "Yarın aşı için veteriner·e götür·üyor·um. | morgen Impfung für Tierarzt·DAT hinbringen·PRÄS·1SG",
+    "audio": "audio/tr-de/saetze/ke_15.mp3?v=d566a226"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün aşı için veterinere götürdüm.",
+     "audio": "audio/tr-de/saetze/ke_15_pc.mp3?v=83c4c9f7"
+    },
+    "fp": {
+     "fr": "Yarın aşı için veterinere götüreceğim.",
+     "audio": "audio/tr-de/saetze/ke_15_fp.mp3?v=e5f2726a"
+    }
+   }
+  },
+  {
+   "id": "ke_16",
+   "thema": "kediler",
+   "fr": "kısırlaştırmak",
+   "de": "kastrieren, sterilisieren",
+   "register": "tu",
+   "anker": "kısırlaştırmak",
+   "notiz": "Ein Wort, vier Bausteine: kısır (unfruchtbar) + -laş- (werden) + -tır- (machen lassen) + -ıyor. belediye = Stadtverwaltung.",
+   "audio": "audio/tr-de/wendungen/ke_16.mp3?v=400a4e60",
+   "gloss": "kısır·laş·tır·mak | unfruchtbar·werden·KAUS·INF",
+   "satz": {
+    "fr": "Belediye sokak kedilerini kısırlaştırıyor.",
+    "de": "Die Stadt sterilisiert die Straßenkatzen.",
+    "luecke": "kısırlaştırıyor",
+    "gloss": "Belediye sokak kedi·ler·i·ni kısır·laş·tır·ıyor. | Stadtverwaltung Straße Katze·PL·sein·AKK unfruchtbar·werden·KAUS·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_16.mp3?v=1f6add90"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Belediye sokak kedilerini kısırlaştırdı.",
+     "audio": "audio/tr-de/saetze/ke_16_pc.mp3?v=9d7dd9c0"
+    },
+    "fp": {
+     "fr": "Belediye sokak kedilerini kısırlaştıracak.",
+     "audio": "audio/tr-de/saetze/ke_16_fp.mp3?v=8cdbcd99"
+    }
+   }
+  },
+  {
+   "id": "ke_17",
+   "thema": "kediler",
+   "fr": "pati",
+   "de": "Pfote",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "pati = Pfote (auch liebevoll: patili dostlar = Pfotenfreunde). kar gibi beyaz = schneeweiß (gibi nachgestellt).",
+   "audio": "audio/tr-de/wendungen/ke_17.mp3?v=9567ed92",
+   "gloss": "pati | Pfote",
+   "satz": {
+    "fr": "Patileri kar gibi beyaz.",
+    "de": "Ihre Pfoten sind schneeweiß.",
+    "luecke": "Patileri",
+    "gloss": "Pati·ler·i kar gibi beyaz. | Pfote·PL·sein Schnee wie weiß",
+    "audio": "audio/tr-de/saetze/ke_17.mp3?v=e88af32f"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Patileri kar gibi beyazdı.",
+     "audio": "audio/tr-de/saetze/ke_17_pc.mp3?v=5b73d4e0"
+    },
+    "fp": {
+     "fr": "Patileri kar gibi beyaz olacak.",
+     "audio": "audio/tr-de/saetze/ke_17_fp.mp3?v=dfbc98ba"
+    }
+   }
+  },
+  {
+   "id": "ke_18",
+   "thema": "kediler",
+   "fr": "bıyık",
+   "de": "Schnurrhaare",
+   "register": "tu",
+   "anker": "ölçmek",
+   "notiz": "bıyık = Schnurrbart, bei Katzen die Schnurrhaare. geniş = breit, genişlik = Breite (-lik = Abstraktum). ölçmek = messen.",
+   "audio": "audio/tr-de/wendungen/ke_18.mp3?v=2d028223",
+   "gloss": "bıyık | Schnurrbart",
+   "satz": {
+    "fr": "Bıyıkları kapı genişliğini ölçüyor.",
+    "de": "Die Schnurrhaare messen die Türbreite.",
+    "luecke": "Bıyıkları",
+    "gloss": "Bıyık·lar·ı kapı genişliğ·i·ni ölç·üyor. | Schnurrbart·PL·sein Tür Breite·sein·AKK messen·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_18.mp3?v=7e0370e9"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Bıyıkları kapı genişliğini ölçtü.",
+     "audio": "audio/tr-de/saetze/ke_18_pc.mp3?v=d029589c"
+    },
+    "fp": {
+     "fr": "Bıyıkları kapı genişliğini ölçecek.",
+     "audio": "audio/tr-de/saetze/ke_18_fp.mp3?v=db741077"
+    }
+   }
+  },
+  {
+   "id": "ke_19",
+   "thema": "kediler",
+   "fr": "nazlanmak",
+   "de": "sich zieren",
+   "register": "tu",
+   "anker": "nazlanmak",
+   "notiz": "naz = Ziererei, Koketterie; nazlanmak = sich zieren, nazlı = verwöhnt, kokett. yemek = essen: yi-yor, ye-di, yi-yecek.",
+   "audio": "audio/tr-de/wendungen/ke_19.mp3?v=1683da11",
+   "gloss": "nazlan·mak | sich.zieren·INF",
+   "satz": {
+    "fr": "Önce nazlanıyor, sonra yiyor.",
+    "de": "Erst ziert sie sich, dann frisst sie.",
+    "luecke": "nazlanıyor",
+    "gloss": "Önce nazlan·ıyor, sonra yi·yor. | zuerst sich.zieren·PRÄS, dann essen·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_19.mp3?v=cb919817"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Önce nazlandı, sonra yedi.",
+     "audio": "audio/tr-de/saetze/ke_19_pc.mp3?v=d51dd49c"
+    },
+    "fp": {
+     "fr": "Önce nazlanacak, sonra yiyecek.",
+     "audio": "audio/tr-de/saetze/ke_19_fp.mp3?v=0df1dead"
+    }
+   }
+  },
+  {
+   "id": "ke_20",
+   "thema": "kediler",
+   "fr": "sahiplenmek",
+   "de": "adoptieren, sich annehmen",
+   "register": "tu",
+   "anker": "sahiplenmek",
+   "notiz": "sahip = Besitzer; sahiplenmek = sich zu eigen machen, adoptieren, auch: sich kümmern um. Possessiv + Akkusativ mit n: kedi-si-ni.",
+   "audio": "audio/tr-de/wendungen/ke_20.mp3?v=5812e024",
+   "gloss": "sahip·len·mek | Besitzer·werden·INF",
+   "satz": {
+    "fr": "Okulun kedisini öğrenciler sahiplendi.",
+    "de": "Die Schulkatze haben die Schüler adoptiert.",
+    "luecke": "sahiplendi",
+    "gloss": "Okul·un kedi·si·ni öğrenci·ler sahip·len·di. | Schule·GEN Katze·sein·AKK Schüler·PL Besitzer·werden·VERG",
+    "audio": "audio/tr-de/saetze/ke_20.mp3?v=0a67dc6e"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Okulun kedisini öğrenciler sahiplenmişti.",
+     "audio": "audio/tr-de/saetze/ke_20_pc.mp3?v=905ce087"
+    },
+    "fp": {
+     "fr": "Okulun kedisini öğrenciler sahiplenecek.",
+     "audio": "audio/tr-de/saetze/ke_20_fp.mp3?v=e6901f9c"
+    }
+   }
+  },
+  {
+   "id": "ke_21",
+   "thema": "kediler",
+   "fr": "kedi dili",
+   "de": "Katzenzunge",
+   "register": "tu",
+   "anker": "vermek",
+   "notiz": "dil = Zunge und Sprache; kedi dili = das Gebäck Katzenzunge, auch: Katzensprache. verilmez = wird nicht gegeben (Passiv -il- + verneinter Aorist -mez = man tut nicht).",
+   "audio": "audio/tr-de/wendungen/ke_21.mp3?v=2412f57e",
+   "gloss": "kedi dil·i | Katze Zunge·sein",
+   "satz": {
+    "fr": "Kedi dili bisküvi kediye verilmez.",
+    "de": "Katzenzungen-Kekse gibt man der Katze nicht.",
+    "luecke": "Kedi dili",
+    "gloss": "Kedi dil·i bisküvi kedi·ye ver·il·mez. | Katze Zunge·sein Keks Katze·DAT geben·PASS·NEG.AOR",
+    "audio": "audio/tr-de/saetze/ke_21.mp3?v=e18c7ad4"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ke_22",
+   "thema": "kediler",
+   "fr": "dokuz canlı",
+   "de": "neun Leben haben",
+   "register": "tu",
+   "anker": "demek",
+   "notiz": "can = Leben, Seele; canlı = lebendig, mit Leben. derler = man sagt (Aorist 3. Pl. von demek).",
+   "audio": "audio/tr-de/wendungen/ke_22.mp3?v=dcb62607",
+   "gloss": "dokuz can·lı | neun Leben·mit",
+   "satz": {
+    "fr": "Kediler dokuz canlı, derler.",
+    "de": "Katzen haben neun Leben, sagt man.",
+    "luecke": "dokuz canlı",
+    "gloss": "Kedi·ler dokuz can·lı, de·r·ler. | Katze·PL neun Leben·mit, sagen·AOR·3PL",
+    "audio": "audio/tr-de/saetze/ke_22.mp3?v=d461347d"
+   },
+   "zeit": null
+  },
+  {
+   "id": "ke_23",
+   "thema": "kediler",
+   "fr": "kedi kafası",
+   "de": "Kopfnuss der Katze",
+   "register": "tu",
+   "anker": "uyanmak",
+   "notiz": "kafa = Kopf (umgangssprachlich; baş = Kopf, Haupt). kafasıyla = mit ihrem Kopf (Possessiv + -yla). uyanmak = aufwachen, uyandırmak = wecken.",
+   "audio": "audio/tr-de/wendungen/ke_23.mp3?v=aa827b66",
+   "gloss": "kedi kafa·sı | Katze Kopf·sein",
+   "satz": {
+    "fr": "Sabah kedi kafasıyla uyanıyorum.",
+    "de": "Morgens werde ich mit einer Kopfnuss der Katze wach.",
+    "luecke": "kedi kafasıyla",
+    "gloss": "Sabah kedi kafa·sı·yla uyan·ıyor·um. | Morgen Katze Kopf·sein·MIT aufwachen·PRÄS·1SG",
+    "audio": "audio/tr-de/saetze/ke_23.mp3?v=2e0bb288"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sabah kedi kafasıyla uyandım.",
+     "audio": "audio/tr-de/saetze/ke_23_pc.mp3?v=5e7bfae6"
+    },
+    "fp": {
+     "fr": "Sabah kedi kafasıyla uyanacağım.",
+     "audio": "audio/tr-de/saetze/ke_23_fp.mp3?v=b1a4719e"
+    }
+   }
+  },
+  {
+   "id": "ke_24",
+   "thema": "kediler",
+   "fr": "kedim",
+   "de": "meine Katze",
+   "register": "tu",
+   "anker": "sevmek",
+   "notiz": "kedim = meine Katze (Possessiv -m nach Vokal). değil = nicht (verneint Nomen und Satzteile): beni değil, evi = nicht mich, sondern das Haus.",
+   "audio": "audio/tr-de/wendungen/ke_24.mp3?v=0436e2ff",
+   "gloss": "kedi·m | Katze·mein",
+   "satz": {
+    "fr": "Kedim beni değil, evi seviyor.",
+    "de": "Meine Katze liebt nicht mich, sondern das Haus.",
+    "luecke": "Kedim",
+    "gloss": "Kedi·m ben·i değil, ev·i sev·iyor. | Katze·mein ich·AKK nicht, Haus·AKK lieben·PRÄS",
+    "audio": "audio/tr-de/saetze/ke_24.mp3?v=3d0bd801"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Kedim beni değil, evi sevdi.",
+     "audio": "audio/tr-de/saetze/ke_24_pc.mp3?v=65c98eb2"
+    },
+    "fp": {
+     "fr": "Kedim beni değil, evi sevecek.",
+     "audio": "audio/tr-de/saetze/ke_24_fp.mp3?v=a7abd8e5"
+    }
+   }
   }
  ],
  "dialoge": [],
@@ -3034,6 +3720,74 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/saetze/du_22_pc.mp3?v=e9c36efe",
   "audio/tr-de/saetze/du_23.mp3?v=f0eb2695",
   "audio/tr-de/saetze/du_24.mp3?v=994b7fd9",
+  "audio/tr-de/saetze/ke_01.mp3?v=9c4d2011",
+  "audio/tr-de/saetze/ke_01_fp.mp3?v=fada4f2f",
+  "audio/tr-de/saetze/ke_01_pc.mp3?v=eaf86ea9",
+  "audio/tr-de/saetze/ke_02.mp3?v=ffb59319",
+  "audio/tr-de/saetze/ke_02_fp.mp3?v=4c8d03c5",
+  "audio/tr-de/saetze/ke_02_pc.mp3?v=17d9f154",
+  "audio/tr-de/saetze/ke_03.mp3?v=d4a84bc0",
+  "audio/tr-de/saetze/ke_03_fp.mp3?v=af0c7ef3",
+  "audio/tr-de/saetze/ke_03_pc.mp3?v=37755ca1",
+  "audio/tr-de/saetze/ke_04.mp3?v=3c3ad8a0",
+  "audio/tr-de/saetze/ke_04_fp.mp3?v=5c3061e3",
+  "audio/tr-de/saetze/ke_04_pc.mp3?v=5259edcf",
+  "audio/tr-de/saetze/ke_05.mp3?v=25553dda",
+  "audio/tr-de/saetze/ke_05_fp.mp3?v=ac63390a",
+  "audio/tr-de/saetze/ke_05_pc.mp3?v=87c00324",
+  "audio/tr-de/saetze/ke_06.mp3?v=7873d345",
+  "audio/tr-de/saetze/ke_06_fp.mp3?v=d96f72a6",
+  "audio/tr-de/saetze/ke_06_pc.mp3?v=9dfbe92c",
+  "audio/tr-de/saetze/ke_07.mp3?v=a3851baf",
+  "audio/tr-de/saetze/ke_07_fp.mp3?v=8b945c4b",
+  "audio/tr-de/saetze/ke_07_pc.mp3?v=0b0919b1",
+  "audio/tr-de/saetze/ke_08.mp3?v=cf5d317b",
+  "audio/tr-de/saetze/ke_08_fp.mp3?v=bb0c1ba1",
+  "audio/tr-de/saetze/ke_08_pc.mp3?v=4a07f63f",
+  "audio/tr-de/saetze/ke_09.mp3?v=44b0f5cb",
+  "audio/tr-de/saetze/ke_09_fp.mp3?v=2cf98b86",
+  "audio/tr-de/saetze/ke_09_pc.mp3?v=4ea9e7fc",
+  "audio/tr-de/saetze/ke_10.mp3?v=3d112863",
+  "audio/tr-de/saetze/ke_10_fp.mp3?v=8b9c73c7",
+  "audio/tr-de/saetze/ke_10_pc.mp3?v=2aae5c32",
+  "audio/tr-de/saetze/ke_11.mp3?v=22654244",
+  "audio/tr-de/saetze/ke_11_fp.mp3?v=adc717a8",
+  "audio/tr-de/saetze/ke_11_pc.mp3?v=e117e934",
+  "audio/tr-de/saetze/ke_12.mp3?v=802c404b",
+  "audio/tr-de/saetze/ke_12_fp.mp3?v=93b61f4d",
+  "audio/tr-de/saetze/ke_12_pc.mp3?v=02f72f71",
+  "audio/tr-de/saetze/ke_13.mp3?v=1446cace",
+  "audio/tr-de/saetze/ke_13_fp.mp3?v=87356865",
+  "audio/tr-de/saetze/ke_13_pc.mp3?v=17ab6a4e",
+  "audio/tr-de/saetze/ke_14.mp3?v=eae37887",
+  "audio/tr-de/saetze/ke_14_fp.mp3?v=0af3f73b",
+  "audio/tr-de/saetze/ke_14_pc.mp3?v=a5b128e4",
+  "audio/tr-de/saetze/ke_15.mp3?v=d566a226",
+  "audio/tr-de/saetze/ke_15_fp.mp3?v=e5f2726a",
+  "audio/tr-de/saetze/ke_15_pc.mp3?v=83c4c9f7",
+  "audio/tr-de/saetze/ke_16.mp3?v=1f6add90",
+  "audio/tr-de/saetze/ke_16_fp.mp3?v=8cdbcd99",
+  "audio/tr-de/saetze/ke_16_pc.mp3?v=9d7dd9c0",
+  "audio/tr-de/saetze/ke_17.mp3?v=e88af32f",
+  "audio/tr-de/saetze/ke_17_fp.mp3?v=dfbc98ba",
+  "audio/tr-de/saetze/ke_17_pc.mp3?v=5b73d4e0",
+  "audio/tr-de/saetze/ke_18.mp3?v=7e0370e9",
+  "audio/tr-de/saetze/ke_18_fp.mp3?v=db741077",
+  "audio/tr-de/saetze/ke_18_pc.mp3?v=d029589c",
+  "audio/tr-de/saetze/ke_19.mp3?v=cb919817",
+  "audio/tr-de/saetze/ke_19_fp.mp3?v=0df1dead",
+  "audio/tr-de/saetze/ke_19_pc.mp3?v=d51dd49c",
+  "audio/tr-de/saetze/ke_20.mp3?v=0a67dc6e",
+  "audio/tr-de/saetze/ke_20_fp.mp3?v=e6901f9c",
+  "audio/tr-de/saetze/ke_20_pc.mp3?v=905ce087",
+  "audio/tr-de/saetze/ke_21.mp3?v=e18c7ad4",
+  "audio/tr-de/saetze/ke_22.mp3?v=d461347d",
+  "audio/tr-de/saetze/ke_23.mp3?v=2e0bb288",
+  "audio/tr-de/saetze/ke_23_fp.mp3?v=b1a4719e",
+  "audio/tr-de/saetze/ke_23_pc.mp3?v=5e7bfae6",
+  "audio/tr-de/saetze/ke_24.mp3?v=3d0bd801",
+  "audio/tr-de/saetze/ke_24_fp.mp3?v=a7abd8e5",
+  "audio/tr-de/saetze/ke_24_pc.mp3?v=65c98eb2",
   "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
   "audio/tr-de/saetze/oa_01_fp.mp3?v=83f6cc1a",
   "audio/tr-de/saetze/oa_01_pc.mp3?v=760d4b0e",
@@ -3132,6 +3886,30 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/wendungen/du_22.mp3?v=1194b30b",
   "audio/tr-de/wendungen/du_23.mp3?v=7d9663ca",
   "audio/tr-de/wendungen/du_24.mp3?v=ac2c4caf",
+  "audio/tr-de/wendungen/ke_01.mp3?v=41976621",
+  "audio/tr-de/wendungen/ke_02.mp3?v=d6a2d6c9",
+  "audio/tr-de/wendungen/ke_03.mp3?v=5710c480",
+  "audio/tr-de/wendungen/ke_04.mp3?v=e0925c6d",
+  "audio/tr-de/wendungen/ke_05.mp3?v=551f101b",
+  "audio/tr-de/wendungen/ke_06.mp3?v=9af158e5",
+  "audio/tr-de/wendungen/ke_07.mp3?v=ffbcfbb9",
+  "audio/tr-de/wendungen/ke_08.mp3?v=601d002f",
+  "audio/tr-de/wendungen/ke_09.mp3?v=992b4250",
+  "audio/tr-de/wendungen/ke_10.mp3?v=b6c5c4da",
+  "audio/tr-de/wendungen/ke_11.mp3?v=2d89b9a8",
+  "audio/tr-de/wendungen/ke_12.mp3?v=86c6f8b0",
+  "audio/tr-de/wendungen/ke_13.mp3?v=8def3d8c",
+  "audio/tr-de/wendungen/ke_14.mp3?v=5041e6a6",
+  "audio/tr-de/wendungen/ke_15.mp3?v=0338f93c",
+  "audio/tr-de/wendungen/ke_16.mp3?v=400a4e60",
+  "audio/tr-de/wendungen/ke_17.mp3?v=9567ed92",
+  "audio/tr-de/wendungen/ke_18.mp3?v=2d028223",
+  "audio/tr-de/wendungen/ke_19.mp3?v=1683da11",
+  "audio/tr-de/wendungen/ke_20.mp3?v=5812e024",
+  "audio/tr-de/wendungen/ke_21.mp3?v=2412f57e",
+  "audio/tr-de/wendungen/ke_22.mp3?v=dcb62607",
+  "audio/tr-de/wendungen/ke_23.mp3?v=aa827b66",
+  "audio/tr-de/wendungen/ke_24.mp3?v=0436e2ff",
   "audio/tr-de/wendungen/oa_01.mp3?v=c5c87e9b",
   "audio/tr-de/wendungen/oa_02.mp3?v=077fb2bd",
   "audio/tr-de/wendungen/oa_03.mp3?v=085068a9",
