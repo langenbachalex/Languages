@@ -291,6 +291,38 @@ window.SPRACHEN["tr-de"] = {
     "oa_23",
     "oa_24"
    ]
+  },
+  {
+   "id": "duygular",
+   "name": "Duygular ve haller",
+   "de": "Gefühle und Stimmungen",
+   "symbol": "🎭",
+   "wendungen": [
+    "du_01",
+    "du_02",
+    "du_03",
+    "du_04",
+    "du_05",
+    "du_06",
+    "du_07",
+    "du_08",
+    "du_09",
+    "du_10",
+    "du_11",
+    "du_12",
+    "du_13",
+    "du_14",
+    "du_15",
+    "du_16",
+    "du_17",
+    "du_18",
+    "du_19",
+    "du_20",
+    "du_21",
+    "du_22",
+    "du_23",
+    "du_24"
+   ]
   }
  ],
  "wendungen": [
@@ -879,6 +911,612 @@ window.SPRACHEN["tr-de"] = {
     "de": "Herr Kollege, haben Sie eine Minute? Es geht um eine Note.",
     "luecke": "bir dakikanız var mı",
     "audio": "audio/tr-de/saetze/oa_24.mp3?v=f16b4fdc"
+   },
+   "zeit": null
+  },
+  {
+   "id": "du_01",
+   "thema": "duygular",
+   "fr": "keyfim yerinde",
+   "de": "ich bin gut drauf",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "keyif = Wohlbehagen, Laune (arabisch); keyf-im yerinde = meine Laune ist an ihrem Platz. bozmak = verderben; bozmasın = soll nicht verderben (3. Pers. Imperativ).",
+   "audio": "audio/tr-de/wendungen/du_01.mp3?v=f19ac701",
+   "satz": {
+    "fr": "Bugün keyfim yerinde, kimse bozmasın.",
+    "de": "Heute bin ich gut drauf, keiner soll es mir verderben.",
+    "luecke": "keyfim yerinde",
+    "audio": "audio/tr-de/saetze/du_01.mp3?v=8f516a5d"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün keyfim yerindeydi, kimse bozmadı.",
+     "audio": "audio/tr-de/saetze/du_01_pc.mp3?v=6b033ba1"
+    },
+    "fp": {
+     "fr": "Yarın keyfim yerinde olacak, kimse bozmasın.",
+     "audio": "audio/tr-de/saetze/du_01_fp.mp3?v=aff7aefb"
+    }
+   }
+  },
+  {
+   "id": "du_02",
+   "thema": "duygular",
+   "fr": "canım sıkılıyor",
+   "de": "mir ist langweilig",
+   "register": "tu",
+   "anker": "sıkılmak",
+   "notiz": "can = Seele, Leben; can-ım sıkılıyor = meine Seele wird eingeengt = mir ist langweilig / ich bin verdrossen. Viele Gefühle laufen im Türkischen über can, iç, baş, moral mit Possessiv.",
+   "audio": "audio/tr-de/wendungen/du_02.mp3?v=e92b1ae2",
+   "satz": {
+    "fr": "Toplantıda canım sıkılıyor, saate bakıyorum.",
+    "de": "In der Konferenz langweile ich mich, ich schaue auf die Uhr.",
+    "luecke": "canım sıkılıyor",
+    "audio": "audio/tr-de/saetze/du_02.mp3?v=27ffbbce"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Toplantıda canım sıkıldı, saate baktım.",
+     "audio": "audio/tr-de/saetze/du_02_pc.mp3?v=a17a660e"
+    },
+    "fp": {
+     "fr": "Toplantıda canım sıkılacak, saate bakacağım.",
+     "audio": "audio/tr-de/saetze/du_02_fp.mp3?v=b5cc30e4"
+    }
+   }
+  },
+  {
+   "id": "du_03",
+   "thema": "duygular",
+   "fr": "moralim bozuk",
+   "de": "ich bin niedergeschlagen",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "moral (frz.) = Stimmung; moral-im bozuk = meine Stimmung ist kaputt. Gegenteil: moralim yerinde / moralim iyi. moral vermek = aufmuntern.",
+   "audio": "audio/tr-de/wendungen/du_03.mp3?v=36195f9e",
+   "satz": {
+    "fr": "Kâğıtlardan sonra moralim bozuk.",
+    "de": "Nach den Arbeiten bin ich niedergeschlagen.",
+    "luecke": "moralim bozuk",
+    "audio": "audio/tr-de/saetze/du_03.mp3?v=5260be74"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Kâğıtlardan sonra moralim bozuktu.",
+     "audio": "audio/tr-de/saetze/du_03_pc.mp3?v=6d197c06"
+    },
+    "fp": {
+     "fr": "Kâğıtlardan sonra moralim bozuk olacak.",
+     "audio": "audio/tr-de/saetze/du_03_fp.mp3?v=046dd1d6"
+    }
+   }
+  },
+  {
+   "id": "du_04",
+   "thema": "duygular",
+   "fr": "sinirlerim bozuldu",
+   "de": "ich bin mit den Nerven fertig",
+   "register": "tu",
+   "anker": "bozulmak",
+   "notiz": "sinir = Nerv (Plural sinirler); bozulmak = kaputtgehen (passiv zu bozmak). « yüzünden » = wegen (negativ), « sayesinde » = dank.",
+   "audio": "audio/tr-de/wendungen/du_04.mp3?v=7da5f322",
+   "satz": {
+    "fr": "Kopya makinesi yüzünden sinirlerim bozuldu.",
+    "de": "Wegen des Kopierers bin ich mit den Nerven fertig.",
+    "luecke": "sinirlerim bozuldu",
+    "audio": "audio/tr-de/saetze/du_04.mp3?v=b91521ba"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün kopya makinesi yüzünden sinirlerim bozulmuştu.",
+     "audio": "audio/tr-de/saetze/du_04_pc.mp3?v=582a2d60"
+    },
+    "fp": {
+     "fr": "Kopya makinesi yüzünden sinirlerim bozulacak.",
+     "audio": "audio/tr-de/saetze/du_04_fp.mp3?v=9ef6c537"
+    }
+   }
+  },
+  {
+   "id": "du_05",
+   "thema": "duygular",
+   "fr": "içim rahat",
+   "de": "ich bin beruhigt",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "iç = das Innere; iç-im rahat = mein Inneres ist ruhig. not girmek = Noten eintragen. -ince = sobald, als (girince = als ich eintrug).",
+   "audio": "audio/tr-de/wendungen/du_05.mp3?v=a14a6cb0",
+   "satz": {
+    "fr": "Notları girdim, içim rahat.",
+    "de": "Die Noten sind eingetragen, ich bin beruhigt.",
+    "luecke": "içim rahat",
+    "audio": "audio/tr-de/saetze/du_05.mp3?v=6b812357"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Notları girince içim rahattı.",
+     "audio": "audio/tr-de/saetze/du_05_pc.mp3?v=12052887"
+    },
+    "fp": {
+     "fr": "Notları girince içim rahat olacak.",
+     "audio": "audio/tr-de/saetze/du_05_fp.mp3?v=5d0baab6"
+    }
+   }
+  },
+  {
+   "id": "du_06",
+   "thema": "duygular",
+   "fr": "içim içime sığmıyor",
+   "de": "ich platze vor Freude",
+   "register": "tu",
+   "anker": "sığmak",
+   "notiz": "Wörtlich: mein Inneres passt nicht in mein Inneres. sığmak = hineinpassen. Bild für überschäumende Vorfreude.",
+   "audio": "audio/tr-de/wendungen/du_06.mp3?v=c0e020ef",
+   "satz": {
+    "fr": "Yarın tatil, içim içime sığmıyor.",
+    "de": "Morgen Ferien, ich platze vor Freude.",
+    "luecke": "içim içime sığmıyor",
+    "audio": "audio/tr-de/saetze/du_06.mp3?v=eb2526e3"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Tatilden önce içim içime sığmadı.",
+     "audio": "audio/tr-de/saetze/du_06_pc.mp3?v=075b1585"
+    },
+    "fp": {
+     "fr": "Tatilden önce içim içime sığmayacak.",
+     "audio": "audio/tr-de/saetze/du_06_fp.mp3?v=73333eba"
+    }
+   }
+  },
+  {
+   "id": "du_07",
+   "thema": "duygular",
+   "fr": "tadım kaçtı",
+   "de": "mir ist die Laune vergangen",
+   "register": "tu",
+   "anker": "kaçmak",
+   "notiz": "tat = Geschmack; tad-ım kaçtı = mein Geschmack ist geflohen (t → d vor Vokal). kaçmak = fliehen, entwischen. tadını kaçırmak = jemandem die Laune verderben.",
+   "audio": "audio/tr-de/wendungen/du_07.mp3?v=76f14d3a",
+   "satz": {
+    "fr": "Son dersten sonra tadım kaçtı.",
+    "de": "Nach der letzten Stunde war meine Laune hin.",
+    "luecke": "tadım kaçtı",
+    "audio": "audio/tr-de/saetze/du_07.mp3?v=206ec1f6"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Son dersten sonra tadım kaçmıştı.",
+     "audio": "audio/tr-de/saetze/du_07_pc.mp3?v=3912ce05"
+    },
+    "fp": {
+     "fr": "Son dersten sonra tadım kaçacak.",
+     "audio": "audio/tr-de/saetze/du_07_fp.mp3?v=317f976e"
+    }
+   }
+  },
+  {
+   "id": "du_08",
+   "thema": "duygular",
+   "fr": "başım ağrıyor",
+   "de": "ich habe Kopfschmerzen",
+   "register": "tu",
+   "anker": "ağrımak",
+   "notiz": "baş = Kopf; ağrımak = schmerzen. Muster: Körperteil + Possessiv + ağrıyor: karnım ağrıyor, dişim ağrıyor.",
+   "audio": "audio/tr-de/wendungen/du_08.mp3?v=8f6796df",
+   "satz": {
+    "fr": "Yedi saatten sonra başım ağrıyor.",
+    "de": "Nach sieben Stunden habe ich Kopfschmerzen.",
+    "luecke": "başım ağrıyor",
+    "audio": "audio/tr-de/saetze/du_08.mp3?v=05a382b0"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Yedi saatten sonra başım ağrıdı.",
+     "audio": "audio/tr-de/saetze/du_08_pc.mp3?v=64e5d5ad"
+    },
+    "fp": {
+     "fr": "Yedi saatten sonra başım ağrıyacak.",
+     "audio": "audio/tr-de/saetze/du_08_fp.mp3?v=38fac4d2"
+    }
+   }
+  },
+  {
+   "id": "du_09",
+   "thema": "duygular",
+   "fr": "uykum var",
+   "de": "ich bin müde",
+   "register": "tu",
+   "anker": "var",
+   "notiz": "uyku = Schlaf; uyku-m var = ich habe Schlaf = ich bin schläfrig. Ebenso: açlığım var? nein: acıktım = ich bin hungrig, susadım = durstig. hâlâ = immer noch (nicht hala = Tante!).",
+   "audio": "audio/tr-de/wendungen/du_09.mp3?v=f2ec7060",
+   "satz": {
+    "fr": "Sabah sekizde hâlâ uykum var.",
+    "de": "Um acht Uhr morgens bin ich noch müde.",
+    "luecke": "uykum var",
+    "audio": "audio/tr-de/saetze/du_09.mp3?v=3b2e71e0"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sabah sekizde hâlâ uykum vardı.",
+     "audio": "audio/tr-de/saetze/du_09_pc.mp3?v=9724fdd7"
+    },
+    "fp": {
+     "fr": "Sabah sekizde hâlâ uykum olacak.",
+     "audio": "audio/tr-de/saetze/du_09_fp.mp3?v=b082a647"
+    }
+   }
+  },
+  {
+   "id": "du_10",
+   "thema": "duygular",
+   "fr": "heyecanlıyım",
+   "de": "ich bin aufgeregt",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "heyecan = Aufregung, Begeisterung; heyecan-lı = aufgeregt (-lı = mit). Prädikat mit Bindekonsonant y nach Vokal: heyecanlı-y-ım.",
+   "audio": "audio/tr-de/wendungen/du_10.mp3?v=c58df96e",
+   "satz": {
+    "fr": "İlk dersten önce hâlâ heyecanlıyım.",
+    "de": "Vor der ersten Stunde bin ich immer noch aufgeregt.",
+    "luecke": "heyecanlıyım",
+    "audio": "audio/tr-de/saetze/du_10.mp3?v=4ce5b771"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "İlk dersten önce heyecanlıydım.",
+     "audio": "audio/tr-de/saetze/du_10_pc.mp3?v=0f8b6048"
+    },
+    "fp": {
+     "fr": "İlk dersten önce heyecanlı olacağım.",
+     "audio": "audio/tr-de/saetze/du_10_fp.mp3?v=7fab925b"
+    }
+   }
+  },
+  {
+   "id": "du_11",
+   "thema": "duygular",
+   "fr": "gerginim",
+   "de": "ich bin angespannt",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "gergin = gespannt, angespannt (von germek = spannen). gerginlik = Anspannung. -den önce = vor (Ablativ + önce).",
+   "audio": "audio/tr-de/wendungen/du_11.mp3?v=c0996eb8",
+   "satz": {
+    "fr": "Veli toplantısından önce gerginim.",
+    "de": "Vor dem Elternabend bin ich angespannt.",
+    "luecke": "gerginim",
+    "audio": "audio/tr-de/saetze/du_11.mp3?v=1640a516"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Veli toplantısından önce gergindim.",
+     "audio": "audio/tr-de/saetze/du_11_pc.mp3?v=ceb8ed1c"
+    },
+    "fp": {
+     "fr": "Veli toplantısından önce gergin olacağım.",
+     "audio": "audio/tr-de/saetze/du_11_fp.mp3?v=19e2cbf5"
+    }
+   }
+  },
+  {
+   "id": "du_12",
+   "thema": "duygular",
+   "fr": "rahatladım",
+   "de": "ich bin erleichtert",
+   "register": "tu",
+   "anker": "rahatlamak",
+   "notiz": "rahat = bequem, ruhig; rahatlamak = sich entspannen, erleichtert sein. Die Vergangenheit (-dım) drückt den eingetretenen Zustand aus: « ich bin erleichtert ».",
+   "audio": "audio/tr-de/wendungen/du_12.mp3?v=9e2688f8",
+   "satz": {
+    "fr": "Teftiş bitti, rahatladım.",
+    "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
+    "luecke": "rahatladım",
+    "audio": "audio/tr-de/saetze/du_12.mp3?v=40b4cf5b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Teftiş bitince rahatlamıştım.",
+     "audio": "audio/tr-de/saetze/du_12_pc.mp3?v=4b7e5e18"
+    },
+    "fp": {
+     "fr": "Teftiş bitince rahatlayacağım.",
+     "audio": "audio/tr-de/saetze/du_12_fp.mp3?v=522ff344"
+    }
+   }
+  },
+  {
+   "id": "du_13",
+   "thema": "duygular",
+   "fr": "sabrım taşıyor",
+   "de": "mir reißt die Geduld",
+   "register": "tu",
+   "anker": "taşmak",
+   "notiz": "sabır = Geduld (sabr-ım mit Vokalausfall); taşmak = überlaufen. Bild: die Geduld läuft über. uyarı = Ermahnung, Warnung.",
+   "audio": "audio/tr-de/wendungen/du_13.mp3?v=6ad49c55",
+   "satz": {
+    "fr": "Üçüncü uyarıda sabrım taşıyor.",
+    "de": "Bei der dritten Ermahnung reißt mir die Geduld.",
+    "luecke": "sabrım taşıyor",
+    "audio": "audio/tr-de/saetze/du_13.mp3?v=0cbaacd0"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Üçüncü uyarıda sabrım taştı.",
+     "audio": "audio/tr-de/saetze/du_13_pc.mp3?v=66210f20"
+    },
+    "fp": {
+     "fr": "Üçüncü uyarıda sabrım taşacak.",
+     "audio": "audio/tr-de/saetze/du_13_fp.mp3?v=aa4d07f0"
+    }
+   }
+  },
+  {
+   "id": "du_14",
+   "thema": "duygular",
+   "fr": "kafam karıştı",
+   "de": "ich bin durcheinander",
+   "register": "tu",
+   "anker": "karışmak",
+   "notiz": "kafa = Kopf (umgangssprachlich); karışmak = sich vermischen. kafa-m karıştı = mein Kopf ist durcheinander. -sam = wenn ich (Konditional).",
+   "audio": "audio/tr-de/wendungen/du_14.mp3?v=dc5b1d64",
+   "satz": {
+    "fr": "İki program okudum, kafam karıştı.",
+    "de": "Ich habe zwei Stundenpläne gelesen, ich bin durcheinander.",
+    "luecke": "kafam karıştı",
+    "audio": "audio/tr-de/saetze/du_14.mp3?v=b0c185e5"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "İki program okuyunca kafam karışmıştı.",
+     "audio": "audio/tr-de/saetze/du_14_pc.mp3?v=4597cc39"
+    },
+    "fp": {
+     "fr": "İki program okursam kafam karışacak.",
+     "audio": "audio/tr-de/saetze/du_14_fp.mp3?v=412875db"
+    }
+   }
+  },
+  {
+   "id": "du_15",
+   "thema": "duygular",
+   "fr": "aklım başka yerde",
+   "de": "ich bin mit den Gedanken woanders",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "akıl = Verstand (akl-ım mit Vokalausfall); başka yerde = an anderem Ort. kusura bakma = nimm's nicht übel (wörtlich: schau nicht auf den Fehler); höflich: kusura bakmayın.",
+   "audio": "audio/tr-de/wendungen/du_15.mp3?v=1593fa03",
+   "satz": {
+    "fr": "Bugün aklım başka yerde, kusura bakma.",
+    "de": "Heute bin ich mit den Gedanken woanders, entschuldige.",
+    "luecke": "aklım başka yerde",
+    "audio": "audio/tr-de/saetze/du_15.mp3?v=4a46adad"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün aklım başka yerdeydi, kusura bakma.",
+     "audio": "audio/tr-de/saetze/du_15_pc.mp3?v=2f7ebe11"
+    },
+    "fp": {
+     "fr": "Yarın aklım başka yerde olacak, kusura bakma.",
+     "audio": "audio/tr-de/saetze/du_15_fp.mp3?v=540a89c2"
+    }
+   }
+  },
+  {
+   "id": "du_16",
+   "thema": "duygular",
+   "fr": "bıktım",
+   "de": "ich habe es satt",
+   "register": "tu",
+   "anker": "bıkmak",
+   "notiz": "bıkmak + Ablativ (-den) = etwas satthaben. bahane = Ausrede. çoktan = längst.",
+   "audio": "audio/tr-de/wendungen/du_16.mp3?v=523d6ce1",
+   "satz": {
+    "fr": "Aynı bahaneden bıktım.",
+    "de": "Ich habe dieselbe Ausrede satt.",
+    "luecke": "bıktım",
+    "audio": "audio/tr-de/saetze/du_16.mp3?v=7d616161"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Aynı bahaneden çoktan bıkmıştım.",
+     "audio": "audio/tr-de/saetze/du_16_pc.mp3?v=ddcfdcd5"
+    },
+    "fp": {
+     "fr": "Aynı bahaneden bıkacağım.",
+     "audio": "audio/tr-de/saetze/du_16_fp.mp3?v=e188a106"
+    }
+   }
+  },
+  {
+   "id": "du_17",
+   "thema": "duygular",
+   "fr": "özledim",
+   "de": "ich vermisse (es)",
+   "register": "tu",
+   "anker": "özlemek",
+   "notiz": "özlemek = vermissen, sich sehnen; die Vergangenheit özledim steht für das gegenwärtige Gefühl (wie rahatladım). Seni özledim = ich vermisse dich.",
+   "audio": "audio/tr-de/wendungen/du_17.mp3?v=02522412",
+   "satz": {
+    "fr": "Tatili şimdiden özledim.",
+    "de": "Ich vermisse die Ferien jetzt schon.",
+    "luecke": "özledim",
+    "audio": "audio/tr-de/saetze/du_17.mp3?v=8793630b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Tatili daha ilk günden özlemiştim.",
+     "audio": "audio/tr-de/saetze/du_17_pc.mp3?v=ef255722"
+    },
+    "fp": {
+     "fr": "Tatili özleyeceğim.",
+     "audio": "audio/tr-de/saetze/du_17_fp.mp3?v=b8180d15"
+    }
+   }
+  },
+  {
+   "id": "du_18",
+   "thema": "duygular",
+   "fr": "utandım",
+   "de": "ich habe mich geschämt",
+   "register": "tu",
+   "anker": "utanmak",
+   "notiz": "utanmak = sich schämen, verlegen sein; utangaç = schüchtern. ad-ı-nı = seinen Namen (Possessiv + Akkusativ mit n).",
+   "audio": "audio/tr-de/wendungen/du_18.mp3?v=62702082",
+   "satz": {
+    "fr": "Adını unuttum, çok utandım.",
+    "de": "Ich habe seinen Namen vergessen, ich habe mich sehr geschämt.",
+    "luecke": "utandım",
+    "audio": "audio/tr-de/saetze/du_18.mp3?v=b5c4da55"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Adını unutunca çok utanmıştım.",
+     "audio": "audio/tr-de/saetze/du_18_pc.mp3?v=1d36ca5d"
+    },
+    "fp": {
+     "fr": "Adını unutursam çok utanacağım.",
+     "audio": "audio/tr-de/saetze/du_18_fp.mp3?v=2044c74a"
+    }
+   }
+  },
+  {
+   "id": "du_19",
+   "thema": "duygular",
+   "fr": "şaşırdım",
+   "de": "ich war überrascht",
+   "register": "tu",
+   "anker": "şaşırmak",
+   "notiz": "şaşırmak = überrascht sein, sich wundern (auch: sich verirren). -mış = erschlossene Vergangenheit: yapmış = offenbar gemacht (ich sehe es erst jetzt).",
+   "audio": "audio/tr-de/wendungen/du_19.mp3?v=f5b2dad1",
+   "satz": {
+    "fr": "Hepsi ödevi yapmış, şaşırdım.",
+    "de": "Alle hatten die Hausaufgabe gemacht, ich war überrascht.",
+    "luecke": "şaşırdım",
+    "audio": "audio/tr-de/saetze/du_19.mp3?v=fffcdd76"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hepsi ödevi yapmıştı, şaşırmıştım.",
+     "audio": "audio/tr-de/saetze/du_19_pc.mp3?v=fe319067"
+    },
+    "fp": {
+     "fr": "Hepsi ödevi yaparsa şaşıracağım.",
+     "audio": "audio/tr-de/saetze/du_19_fp.mp3?v=815f8c68"
+    }
+   }
+  },
+  {
+   "id": "du_20",
+   "thema": "duygular",
+   "fr": "gurur duymak",
+   "de": "stolz sein",
+   "register": "tu",
+   "anker": "duymak",
+   "notiz": "gurur = Stolz; gurur duymak + -la/-le (mit) = stolz sein auf. duymak = hören, fühlen. Ebenso: utanç duymak, heyecan duymak.",
+   "audio": "audio/tr-de/wendungen/du_20.mp3?v=7c1b800f",
+   "satz": {
+    "fr": "Sınıfımla gurur duyuyorum.",
+    "de": "Ich bin stolz auf meine Klasse.",
+    "luecke": "gurur duyuyorum",
+    "audio": "audio/tr-de/saetze/du_20.mp3?v=08f704b9"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sınıfımla gurur duydum.",
+     "audio": "audio/tr-de/saetze/du_20_pc.mp3?v=672bfbef"
+    },
+    "fp": {
+     "fr": "Sınıfımla gurur duyacağım.",
+     "audio": "audio/tr-de/saetze/du_20_fp.mp3?v=bfb55ad9"
+    }
+   }
+  },
+  {
+   "id": "du_21",
+   "thema": "duygular",
+   "fr": "kıskandım",
+   "de": "ich war neidisch",
+   "register": "tu",
+   "anker": "kıskanmak",
+   "notiz": "kıskanmak = beneiden, eifersüchtig sein; kıskanç = eifersüchtig, neidisch. Cem'in … -sı var = Cem hat (Genitiv + Possessiv).",
+   "audio": "audio/tr-de/wendungen/du_21.mp3?v=67bb4c6d",
+   "satz": {
+    "fr": "Cem'in boş cuması var, kıskandım.",
+    "de": "Cem hat freitags frei, ich war neidisch.",
+    "luecke": "kıskandım",
+    "audio": "audio/tr-de/saetze/du_21.mp3?v=61e459ea"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Cem'in boş cuması vardı, kıskanmıştım.",
+     "audio": "audio/tr-de/saetze/du_21_pc.mp3?v=bead66b3"
+    },
+    "fp": {
+     "fr": "Cem'in boş cuması olacak, kıskanacağım.",
+     "audio": "audio/tr-de/saetze/du_21_fp.mp3?v=ddc1990e"
+    }
+   }
+  },
+  {
+   "id": "du_22",
+   "thema": "duygular",
+   "fr": "keyif yapmak",
+   "de": "es sich gut gehen lassen",
+   "register": "tu",
+   "anker": "yapmak",
+   "notiz": "keyif yapmak = genießen, chillen; keyif çatmak noch gemütlicher. sadece = nur. hafta sonu = Wochenende.",
+   "audio": "audio/tr-de/wendungen/du_22.mp3?v=1194b30b",
+   "satz": {
+    "fr": "Hafta sonu sadece keyif yapıyorum.",
+    "de": "Am Wochenende lasse ich es mir nur gut gehen.",
+    "luecke": "keyif yapıyorum",
+    "audio": "audio/tr-de/saetze/du_22.mp3?v=afb33378"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hafta sonu sadece keyif yaptım.",
+     "audio": "audio/tr-de/saetze/du_22_pc.mp3?v=e9c36efe"
+    },
+    "fp": {
+     "fr": "Hafta sonu sadece keyif yapacağım.",
+     "audio": "audio/tr-de/saetze/du_22_fp.mp3?v=0f884156"
+    }
+   }
+  },
+  {
+   "id": "du_23",
+   "thema": "duygular",
+   "fr": "boş ver",
+   "de": "vergiss es, mach dir nichts draus",
+   "register": "tu",
+   "anker": "vermek",
+   "notiz": "Wörtlich: gib leer. Alltagsformel zum Abwinken; höflich: boş verin. Ähnlich: aldırma = kümmere dich nicht.",
+   "audio": "audio/tr-de/wendungen/du_23.mp3?v=7d9663ca",
+   "satz": {
+    "fr": "Boş ver, yarın yeni bir gün.",
+    "de": "Mach dir nichts draus, morgen ist ein neuer Tag.",
+    "luecke": "Boş ver",
+    "audio": "audio/tr-de/saetze/du_23.mp3?v=f0eb2695"
+   },
+   "zeit": null
+  },
+  {
+   "id": "du_24",
+   "thema": "duygular",
+   "fr": "neyse",
+   "de": "na ja, wie auch immer",
+   "register": "tu",
+   "anker": "var",
+   "notiz": "neyse = was auch immer es sei (ne + ise), Gesprächsfüller zum Themenwechsel oder Trost. « ya » am Satzende = doch, ja (bekräftigend).",
+   "audio": "audio/tr-de/wendungen/du_24.mp3?v=ac2c4caf",
+   "satz": {
+    "fr": "Neyse, kahve var ya.",
+    "de": "Na ja, es gibt ja Kaffee.",
+    "luecke": "Neyse",
+    "audio": "audio/tr-de/saetze/du_24.mp3?v=994b7fd9"
    },
    "zeit": null
   }
@@ -2231,6 +2869,74 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/lob/stark_ucuyorsun.mp3?v=1e73858f",
   "audio/tr-de/lob/stark_yildiz.mp3?v=b8ccbdbd",
   "audio/tr-de/lob/voll_hatasiz.mp3?v=813082a3",
+  "audio/tr-de/saetze/du_01.mp3?v=8f516a5d",
+  "audio/tr-de/saetze/du_01_fp.mp3?v=aff7aefb",
+  "audio/tr-de/saetze/du_01_pc.mp3?v=6b033ba1",
+  "audio/tr-de/saetze/du_02.mp3?v=27ffbbce",
+  "audio/tr-de/saetze/du_02_fp.mp3?v=b5cc30e4",
+  "audio/tr-de/saetze/du_02_pc.mp3?v=a17a660e",
+  "audio/tr-de/saetze/du_03.mp3?v=5260be74",
+  "audio/tr-de/saetze/du_03_fp.mp3?v=046dd1d6",
+  "audio/tr-de/saetze/du_03_pc.mp3?v=6d197c06",
+  "audio/tr-de/saetze/du_04.mp3?v=b91521ba",
+  "audio/tr-de/saetze/du_04_fp.mp3?v=9ef6c537",
+  "audio/tr-de/saetze/du_04_pc.mp3?v=582a2d60",
+  "audio/tr-de/saetze/du_05.mp3?v=6b812357",
+  "audio/tr-de/saetze/du_05_fp.mp3?v=5d0baab6",
+  "audio/tr-de/saetze/du_05_pc.mp3?v=12052887",
+  "audio/tr-de/saetze/du_06.mp3?v=eb2526e3",
+  "audio/tr-de/saetze/du_06_fp.mp3?v=73333eba",
+  "audio/tr-de/saetze/du_06_pc.mp3?v=075b1585",
+  "audio/tr-de/saetze/du_07.mp3?v=206ec1f6",
+  "audio/tr-de/saetze/du_07_fp.mp3?v=317f976e",
+  "audio/tr-de/saetze/du_07_pc.mp3?v=3912ce05",
+  "audio/tr-de/saetze/du_08.mp3?v=05a382b0",
+  "audio/tr-de/saetze/du_08_fp.mp3?v=38fac4d2",
+  "audio/tr-de/saetze/du_08_pc.mp3?v=64e5d5ad",
+  "audio/tr-de/saetze/du_09.mp3?v=3b2e71e0",
+  "audio/tr-de/saetze/du_09_fp.mp3?v=b082a647",
+  "audio/tr-de/saetze/du_09_pc.mp3?v=9724fdd7",
+  "audio/tr-de/saetze/du_10.mp3?v=4ce5b771",
+  "audio/tr-de/saetze/du_10_fp.mp3?v=7fab925b",
+  "audio/tr-de/saetze/du_10_pc.mp3?v=0f8b6048",
+  "audio/tr-de/saetze/du_11.mp3?v=1640a516",
+  "audio/tr-de/saetze/du_11_fp.mp3?v=19e2cbf5",
+  "audio/tr-de/saetze/du_11_pc.mp3?v=ceb8ed1c",
+  "audio/tr-de/saetze/du_12.mp3?v=40b4cf5b",
+  "audio/tr-de/saetze/du_12_fp.mp3?v=522ff344",
+  "audio/tr-de/saetze/du_12_pc.mp3?v=4b7e5e18",
+  "audio/tr-de/saetze/du_13.mp3?v=0cbaacd0",
+  "audio/tr-de/saetze/du_13_fp.mp3?v=aa4d07f0",
+  "audio/tr-de/saetze/du_13_pc.mp3?v=66210f20",
+  "audio/tr-de/saetze/du_14.mp3?v=b0c185e5",
+  "audio/tr-de/saetze/du_14_fp.mp3?v=412875db",
+  "audio/tr-de/saetze/du_14_pc.mp3?v=4597cc39",
+  "audio/tr-de/saetze/du_15.mp3?v=4a46adad",
+  "audio/tr-de/saetze/du_15_fp.mp3?v=540a89c2",
+  "audio/tr-de/saetze/du_15_pc.mp3?v=2f7ebe11",
+  "audio/tr-de/saetze/du_16.mp3?v=7d616161",
+  "audio/tr-de/saetze/du_16_fp.mp3?v=e188a106",
+  "audio/tr-de/saetze/du_16_pc.mp3?v=ddcfdcd5",
+  "audio/tr-de/saetze/du_17.mp3?v=8793630b",
+  "audio/tr-de/saetze/du_17_fp.mp3?v=b8180d15",
+  "audio/tr-de/saetze/du_17_pc.mp3?v=ef255722",
+  "audio/tr-de/saetze/du_18.mp3?v=b5c4da55",
+  "audio/tr-de/saetze/du_18_fp.mp3?v=2044c74a",
+  "audio/tr-de/saetze/du_18_pc.mp3?v=1d36ca5d",
+  "audio/tr-de/saetze/du_19.mp3?v=fffcdd76",
+  "audio/tr-de/saetze/du_19_fp.mp3?v=815f8c68",
+  "audio/tr-de/saetze/du_19_pc.mp3?v=fe319067",
+  "audio/tr-de/saetze/du_20.mp3?v=08f704b9",
+  "audio/tr-de/saetze/du_20_fp.mp3?v=bfb55ad9",
+  "audio/tr-de/saetze/du_20_pc.mp3?v=672bfbef",
+  "audio/tr-de/saetze/du_21.mp3?v=61e459ea",
+  "audio/tr-de/saetze/du_21_fp.mp3?v=ddc1990e",
+  "audio/tr-de/saetze/du_21_pc.mp3?v=bead66b3",
+  "audio/tr-de/saetze/du_22.mp3?v=afb33378",
+  "audio/tr-de/saetze/du_22_fp.mp3?v=0f884156",
+  "audio/tr-de/saetze/du_22_pc.mp3?v=e9c36efe",
+  "audio/tr-de/saetze/du_23.mp3?v=f0eb2695",
+  "audio/tr-de/saetze/du_24.mp3?v=994b7fd9",
   "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
   "audio/tr-de/saetze/oa_01_fp.mp3?v=83f6cc1a",
   "audio/tr-de/saetze/oa_01_pc.mp3?v=760d4b0e",
@@ -2305,6 +3011,30 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/spiel/titel_5.mp3?v=7e5eac37",
   "audio/tr-de/spiel/titel_6.mp3?v=74a9c8dd",
   "audio/tr-de/spiel/woche.mp3?v=1c9d00ed",
+  "audio/tr-de/wendungen/du_01.mp3?v=f19ac701",
+  "audio/tr-de/wendungen/du_02.mp3?v=e92b1ae2",
+  "audio/tr-de/wendungen/du_03.mp3?v=36195f9e",
+  "audio/tr-de/wendungen/du_04.mp3?v=7da5f322",
+  "audio/tr-de/wendungen/du_05.mp3?v=a14a6cb0",
+  "audio/tr-de/wendungen/du_06.mp3?v=c0e020ef",
+  "audio/tr-de/wendungen/du_07.mp3?v=76f14d3a",
+  "audio/tr-de/wendungen/du_08.mp3?v=8f6796df",
+  "audio/tr-de/wendungen/du_09.mp3?v=f2ec7060",
+  "audio/tr-de/wendungen/du_10.mp3?v=c58df96e",
+  "audio/tr-de/wendungen/du_11.mp3?v=c0996eb8",
+  "audio/tr-de/wendungen/du_12.mp3?v=9e2688f8",
+  "audio/tr-de/wendungen/du_13.mp3?v=6ad49c55",
+  "audio/tr-de/wendungen/du_14.mp3?v=dc5b1d64",
+  "audio/tr-de/wendungen/du_15.mp3?v=1593fa03",
+  "audio/tr-de/wendungen/du_16.mp3?v=523d6ce1",
+  "audio/tr-de/wendungen/du_17.mp3?v=02522412",
+  "audio/tr-de/wendungen/du_18.mp3?v=62702082",
+  "audio/tr-de/wendungen/du_19.mp3?v=f5b2dad1",
+  "audio/tr-de/wendungen/du_20.mp3?v=7c1b800f",
+  "audio/tr-de/wendungen/du_21.mp3?v=67bb4c6d",
+  "audio/tr-de/wendungen/du_22.mp3?v=1194b30b",
+  "audio/tr-de/wendungen/du_23.mp3?v=7d9663ca",
+  "audio/tr-de/wendungen/du_24.mp3?v=ac2c4caf",
   "audio/tr-de/wendungen/oa_01.mp3?v=c5c87e9b",
   "audio/tr-de/wendungen/oa_02.mp3?v=077fb2bd",
   "audio/tr-de/wendungen/oa_03.mp3?v=085068a9",
