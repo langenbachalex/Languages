@@ -11,6 +11,7 @@ FLAGGE = "🇹🇷"
 LANG = "tr"
 LANG_HILFE = "de"
 SPRACHAUSGABE = "tr-TR"
+TEMPO = 0.7   # Voreinstellung langsam (Mr. Alex, 17.10.); Schalter 🐢 0,7× / 1× in der Leiste
 # Türkis und Rot (türkis = « turquoise », das Wort stammt von « Türkei »); hell und dunkel wie bei den anderen Sprachen
 THEME = {"blau": "#1a6f7a", "rot": "#c8102e", "rot_text": "#ffffff", "dunkel": {"blau": "#6fd3de", "blau_text": "#07191c", "rot": "#ff7b88", "rot_text": "#1a0608"}}
 

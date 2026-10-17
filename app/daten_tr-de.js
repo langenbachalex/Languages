@@ -9,6 +9,7 @@ window.SPRACHEN["tr-de"] = {
  "lang": "tr",
  "lang_hilfe": "de",
  "sprachausgabe": "tr-TR",
+ "tempo": 0.7,
  "audio_speicher": "ll-audio-2",
  "theme": {
   "blau": "#1a6f7a",
@@ -335,10 +336,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "okumak",
    "notiz": "okumak = lesen, bei Prüfungen: korrigieren. kâğıt = Papier, Blatt; sınav kâğıdı = die Prüfungsarbeit. Akkusativ -ı/-i/-u/-ü nach Vokalharmonie: kâğıtlar-ı-nı.",
    "audio": "audio/tr-de/wendungen/oa_01.mp3?v=c5c87e9b",
+   "gloss": "sınav kâğıd·ı oku·mak | Prüfung Blatt·sein lesen·INF",
    "satz": {
     "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
     "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
     "luecke": "kâğıtlarını okuyorum",
+    "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
     "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892"
    },
    "zeit": {
@@ -361,10 +364,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "bitkin = erschöpft; Prädikatsendung -im (ich bin): bitkin-im, Vergangenheit bitkin-di-m. « -den sonra » = nach (Ablativ + sonra).",
    "audio": "audio/tr-de/wendungen/oa_02.mp3?v=077fb2bd",
+   "gloss": "bitkin ol·mak | erschöpft sein·INF",
    "satz": {
     "fr": "Altı saat dersten sonra bitkinim.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "bitkinim",
+    "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
     "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
    },
    "zeit": {
@@ -387,10 +392,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "var",
    "notiz": "toplantı von toplanmak (sich versammeln). « var » = es gibt; « saat dörtte » = um vier (Lokativ -te). Fragepartikel mı/mi/mu/mü nach Vokalharmonie: geliyor musun?",
    "audio": "audio/tr-de/wendungen/oa_03.mp3?v=085068a9",
+   "gloss": "toplantı | Versammlung",
    "satz": {
     "fr": "Saat dörtte toplantı var, geliyor musun?",
     "de": "Um vier ist Konferenz, kommst du?",
     "luecke": "toplantı",
+    "gloss": "Saat dört·te toplantı var, gel·iyor mu·sun? | Uhr vier·LOK Versammlung vorhanden, kommen·PRÄS FRAGE·2SG",
     "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
    },
    "zeit": {
@@ -413,10 +420,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "var",
    "notiz": "boşluk = Lücke, Leere; boşluğ-um = meine Freistunde (k → ğ vor Vokal). « içelim mi? » = wollen wir trinken? (Optativ 1. Pl.).",
    "audio": "audio/tr-de/wendungen/oa_04.mp3?v=9081a015",
+   "gloss": "ders boşluğ·u | Unterricht Lücke·sein",
    "satz": {
     "fr": "Üçüncü saatte boşluğum var, kahve içelim mi?",
     "de": "In der dritten Stunde habe ich frei, trinken wir einen Kaffee?",
     "luecke": "boşluğum",
+    "gloss": "Üç·üncü saat·te boşluğ·um var, kahve iç·elim mi? | drei·ORD Stunde·LOK Lücke·mein vorhanden, Kaffee trinken·OPT.1PL FRAGE",
     "audio": "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813"
    },
    "zeit": {
@@ -439,10 +448,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "bitmek",
    "notiz": "Genitivverbindung: öğretmenler oda-sı (Possessiv 3. Pers.) + Lokativ -nda. bitmek = zu Ende gehen, alle sein.",
    "audio": "audio/tr-de/wendungen/oa_05.mp3?v=57ef28c5",
+   "gloss": "öğretmen·ler oda·sı | Lehrer·PL Zimmer·sein",
    "satz": {
     "fr": "Öğretmenler odasında kahve yine bitiyor.",
     "de": "Im Lehrerzimmer ist der Kaffee schon wieder fast alle.",
     "luecke": "Öğretmenler odasında",
+    "gloss": "Öğretmen·ler oda·sı·nda kahve yine bit·iyor. | Lehrer·PL Zimmer·sein·LOK Kaffee wieder enden·PRÄS",
     "audio": "audio/tr-de/saetze/oa_05.mp3?v=cdca761d"
    },
    "zeit": {
@@ -465,10 +476,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "nöbet = Wache, Dienst; nöbetçi = der Diensthabende (-çi = Berufs-/Tätigkeitsendung). nöbet tutmak = Wache halten, Aufsicht führen.",
    "audio": "audio/tr-de/wendungen/oa_06.mp3?v=6cc66e26",
+   "gloss": "nöbet tut·mak | Wache halten·INF",
    "satz": {
     "fr": "Bugün teneffüste nöbetçiyim.",
     "de": "Heute habe ich Pausenaufsicht.",
     "luecke": "nöbetçiyim",
+    "gloss": "Bugün teneffüs·te nöbetçi·yim. | heute Pause·LOK Wache·Täter·1SG",
     "audio": "audio/tr-de/saetze/oa_06.mp3?v=481c25df"
    },
    "zeit": {
@@ -491,10 +504,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "vermek",
    "notiz": "program-ı mit Possessiv (ders programı = Stundenplan). cuma günü = am Freitag. Wochentage: pazartesi, salı, çarşamba, perşembe, cuma, cumartesi, pazar.",
    "audio": "audio/tr-de/wendungen/oa_07.mp3?v=a54feb23",
+   "gloss": "ders program·ı | Unterricht Programm·sein",
    "satz": {
     "fr": "Yeni ders programı cuma günü yedi saat veriyor.",
     "de": "Der neue Stundenplan gibt freitags sieben Stunden.",
     "luecke": "ders programı",
+    "gloss": "Yeni ders program·ı cuma gün·ü yedi saat ver·iyor. | neu Unterricht Programm·sein Freitag Tag·sein sieben Stunde geben·PRÄS",
     "audio": "audio/tr-de/saetze/oa_07.mp3?v=87586419"
    },
    "zeit": {
@@ -517,10 +532,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "vermek",
    "notiz": "ödev = Hausaufgabe (Singular!), ödev vermek / ödev yapmak. bayram etmek = jubeln (wörtlich: Feiertag machen). Verneinung -mı-/-mi-: ver-mi-yor-um.",
    "audio": "audio/tr-de/wendungen/oa_08.mp3?v=8339778d",
+   "gloss": "ödev ver·mek | Aufgabe geben·INF",
    "satz": {
     "fr": "Hafta sonuna ödev vermiyorum, bayram ediyorlar.",
     "de": "Übers Wochenende gebe ich nichts auf, sie sind selig.",
     "luecke": "ödev vermiyorum",
+    "gloss": "Hafta son·u·na ödev ver·mi·yor·um, bayram ed·iyor·lar. | Woche Ende·sein·DAT Aufgabe geben·NEG·PRÄS·1SG, Fest machen·PRÄS·3PL",
     "audio": "audio/tr-de/saetze/oa_08.mp3?v=950c9561"
    },
    "zeit": {
@@ -543,10 +560,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "vermek",
    "notiz": "not = Note (auch: Notiz); not vermek = benoten, not almak = eine Note bekommen. Komparativ: X-den daha zor = schwerer als X.",
    "audio": "audio/tr-de/wendungen/oa_09.mp3?v=914f430a",
+   "gloss": "not ver·mek | Note geben·INF",
    "satz": {
     "fr": "Not vermek dersten daha zor.",
     "de": "Noten geben ist schwerer als unterrichten.",
     "luecke": "Not vermek",
+    "gloss": "Not ver·mek ders·ten daha zor. | Note geben·INF Unterricht·ABL mehr schwer",
     "audio": "audio/tr-de/saetze/oa_09.mp3?v=d167a753"
    },
    "zeit": null
@@ -560,10 +579,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "kalmak",
    "notiz": "sınıf = Klasse (auch: Klassenzimmer); sınıfta kalmak = in der Klasse bleiben = sitzenbleiben. kimse + Verneinung = niemand. umarım = ich hoffe.",
    "audio": "audio/tr-de/wendungen/oa_10.mp3?v=bdb9d1e0",
+   "gloss": "sınıf·ta kal·mak | Klasse·LOK bleiben·INF",
    "satz": {
     "fr": "Bu yıl kimse sınıfta kalmıyor, umarım.",
     "de": "Dieses Jahr bleibt hoffentlich keiner sitzen.",
     "luecke": "sınıfta kalmıyor",
+    "gloss": "Bu yıl kimse sınıf·ta kal·mı·yor, um·ar·ım. | dies Jahr niemand Klasse·LOK bleiben·NEG·PRÄS, hoffen·AOR·1SG",
     "audio": "audio/tr-de/saetze/oa_10.mp3?v=b9341cfe"
    },
    "zeit": {
@@ -586,10 +607,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "yatmak",
    "notiz": "veli = Erziehungsberechtigter (arabisches Lehnwort); veli toplantı-sı. yatmak = sich hinlegen, schlafen gehen; geç = spät.",
    "audio": "audio/tr-de/wendungen/oa_11.mp3?v=508ca651",
+   "gloss": "veli toplantı·sı | Eltern Versammlung·sein",
    "satz": {
     "fr": "Bu akşam veli toplantısı var, geç yatıyoruz.",
     "de": "Heute Abend ist Elternabend, wir gehen spät schlafen.",
     "luecke": "veli toplantısı",
+    "gloss": "Bu akşam veli toplantı·sı var, geç yat·ıyor·uz. | dies Abend Eltern Versammlung·sein vorhanden, spät schlafen.gehen·PRÄS·1PL",
     "audio": "audio/tr-de/saetze/oa_11.mp3?v=204bbcb4"
    },
    "zeit": {
@@ -612,10 +635,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "çekmek",
    "notiz": "kopya çekmek = spicken (wörtlich: Kopie ziehen); çekmek = ziehen, auch fotokopi çekmek, fotoğraf çekmek. biri = einer, ikisi = zwei davon.",
    "audio": "audio/tr-de/wendungen/oa_12.mp3?v=79776b87",
+   "gloss": "kopya çek·mek | Kopie ziehen·INF",
    "satz": {
     "fr": "Biri kopya çekiyor, ikisi aynı hatayı yapıyor.",
     "de": "Einer spickt, zwei machen denselben Fehler.",
     "luecke": "kopya çekiyor",
+    "gloss": "Biri kopya çek·iyor, iki·si aynı hata·yı yap·ıyor. | einer Kopie ziehen·PRÄS, zwei·davon derselbe Fehler·AKK machen·PRÄS",
     "audio": "audio/tr-de/saetze/oa_12.mp3?v=24275dd1"
    },
    "zeit": {
@@ -638,10 +663,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "kaynatmak",
    "notiz": "kaynatmak = kochen lassen; dersi kaynatmak (Schülerslang) = die Stunde mit Reden vertrödeln. « ben de » = ich auch, und ich.",
    "audio": "audio/tr-de/wendungen/oa_13.mp3?v=b7658825",
+   "gloss": "ders·i kaynat·mak | Stunde·AKK kochen.lassen·INF",
    "satz": {
     "fr": "Son saatte dersi kaynatıyorlar, ben de bırakıyorum.",
     "de": "In der letzten Stunde verbummeln sie die Stunde, und ich lasse es zu.",
     "luecke": "dersi kaynatıyorlar",
+    "gloss": "Son saat·te ders·i kaynat·ıyor·lar, ben de bırak·ıyor·um. | letzt Stunde·LOK Stunde·AKK kochen.lassen·PRÄS·3PL, ich auch lassen·PRÄS·1SG",
     "audio": "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb"
    },
    "zeit": {
@@ -664,10 +691,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "girmek",
    "notiz": "yer = Platz; onun yerine = an ihrer Stelle. derse girmek = eine Stunde halten (wörtlich: in die Stunde hineingehen); ikinci saate girmek = die zweite Stunde übernehmen.",
    "audio": "audio/tr-de/wendungen/oa_14.mp3?v=cfc48f72",
+   "gloss": "yer·i·ne gir·mek | Platz·sein·DAT eintreten·INF",
    "satz": {
     "fr": "Ayşe hasta, onun yerine ikinci saate giriyorum.",
     "de": "Ayşe ist krank, ich vertrete sie in der zweiten Stunde.",
     "luecke": "yerine",
+    "gloss": "Ayşe hasta, o·nun yer·i·ne ikinci saat·e gir·iyor·um. | Ayşe krank, sie·GEN Platz·sein·DAT zweit Stunde·DAT eintreten·PRÄS·1SG",
     "audio": "audio/tr-de/saetze/oa_14.mp3?v=37569581"
    },
    "zeit": {
@@ -690,10 +719,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "anlatmak",
    "notiz": "anlatmak = erzählen, erklären; ders anlatmak = unterrichten. konu = Thema (Akkusativ konu-yu). üçüncü kez = zum dritten Mal; Ordinalzahlen -(i)nci.",
    "audio": "audio/tr-de/wendungen/oa_15.mp3?v=63f93351",
+   "gloss": "ders anlat·mak | Unterricht erzählen·INF",
    "satz": {
     "fr": "Aynı konuyu üçüncü kez anlatıyorum.",
     "de": "Ich erkläre dasselbe zum dritten Mal.",
     "luecke": "anlatıyorum",
+    "gloss": "Aynı konu·yu üç·üncü kez anlat·ıyor·um. | derselbe Thema·AKK drei·ORD Mal erzählen·PRÄS·1SG",
     "audio": "audio/tr-de/saetze/oa_15.mp3?v=bad32b06"
    },
    "zeit": {
@@ -716,10 +747,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "sürmek",
    "notiz": "teneffüs (arabisch, wörtlich: Atmen) = Schulpause; mola = Pause allgemein. sürmek = dauern. « bile » = sogar, nicht einmal (nachgestellt).",
    "audio": "audio/tr-de/wendungen/oa_16.mp3?v=94a59c82",
+   "gloss": "teneffüs | Pause",
    "satz": {
     "fr": "Teneffüs beş dakika sürüyor, hissetmiyorum bile.",
     "de": "Die Pause dauert fünf Minuten, ich merke sie nicht einmal.",
     "luecke": "Teneffüs",
+    "gloss": "Teneffüs beş dakika sür·üyor, hisset·mi·yor·um bile. | Pause fünf Minute dauern·PRÄS, fühlen·NEG·PRÄS·1SG sogar",
     "audio": "audio/tr-de/saetze/oa_16.mp3?v=492dddda"
    },
    "zeit": {
@@ -742,10 +775,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "çektirmek",
    "notiz": "çek-tir-mek = Kausativ (kopieren lassen); çek-tir-e-me-mek = nicht kopieren lassen können (Möglichkeitsform -ebil-/-eme-). bozuk = kaputt.",
    "audio": "audio/tr-de/wendungen/oa_17.mp3?v=0739bcb1",
+   "gloss": "fotokopi çek·tir·mek | Fotokopie ziehen·KAUS·INF",
    "satz": {
     "fr": "Makine yine bozuk, fotokopi çektiremiyorum.",
     "de": "Die Maschine ist wieder kaputt, ich kann nicht kopieren.",
     "luecke": "fotokopi çektiremiyorum",
+    "gloss": "Makine yine bozuk, fotokopi çek·tir·e·mi·yor·um. | Maschine wieder kaputt, Fotokopie ziehen·KAUS·KANN·NEG·PRÄS·1SG",
     "audio": "audio/tr-de/saetze/oa_17.mp3?v=339ffaab"
    },
    "zeit": {
@@ -768,10 +803,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "yapmak",
    "notiz": "sözlü = mündlich (söz = Wort), sözlü sınav = mündliche Prüfung; yazılı = schriftlich. sessizleşmek = still werden (-leş- = werden).",
    "audio": "audio/tr-de/wendungen/oa_18.mp3?v=61f78d9c",
+   "gloss": "sözlü yap·mak | mündlich machen·INF",
    "satz": {
     "fr": "Bugün sözlü yapıyorum, herkes birden sessizleşiyor.",
     "de": "Heute frage ich mündlich ab, alle werden plötzlich still.",
     "luecke": "sözlü yapıyorum",
+    "gloss": "Bugün sözlü yap·ıyor·um, herkes birden sessiz·leş·iyor. | heute mündlich machen·PRÄS·1SG, jeder plötzlich still·werden·PRÄS",
     "audio": "audio/tr-de/saetze/oa_18.mp3?v=d581c190"
    },
    "zeit": {
@@ -794,10 +831,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "almak",
    "notiz": "yoklama = Anwesenheitskontrolle (von yoklamak = abtasten, prüfen); yok = nicht da. üç kişi = drei Personen (nach Zahlen Singular!).",
    "audio": "audio/tr-de/wendungen/oa_19.mp3?v=fa04691a",
+   "gloss": "yoklama al·mak | Anwesenheitsprüfung nehmen·INF",
    "satz": {
     "fr": "Yoklama alıyorum, üç kişi yine yok.",
     "de": "Ich prüfe die Anwesenheit, drei fehlen wieder.",
     "luecke": "Yoklama alıyorum",
+    "gloss": "Yoklama al·ıyor·um, üç kişi yine yok. | Anwesenheitsprüfung nehmen·PRÄS·1SG, drei Person wieder nicht.da",
     "audio": "audio/tr-de/saetze/oa_19.mp3?v=e590e04b"
    },
    "zeit": {
@@ -820,10 +859,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "kaldırmak",
    "notiz": "tahta = Brett, Tafel; tahta-ya = an die Tafel (Dativ). kaldırmak = aufheben, aufrufen. Eigennamen bekommen Endungen mit Apostroph: Kerem'i. dua etmek = beten.",
    "audio": "audio/tr-de/wendungen/oa_20.mp3?v=3bccf4af",
+   "gloss": "tahta·ya kaldır·mak | Tafel·DAT aufheben·INF",
    "satz": {
     "fr": "Kerem'i tahtaya kaldırıyorum, dua ediyor.",
     "de": "Ich hole Kerem an die Tafel, er betet.",
     "luecke": "tahtaya kaldırıyorum",
+    "gloss": "Kerem·'i tahta·ya kaldır·ıyor·um, dua ed·iyor. | Kerem·AKK Tafel·DAT aufheben·PRÄS·1SG, Gebet machen·PRÄS",
     "audio": "audio/tr-de/saetze/oa_20.mp3?v=622c5c00"
    },
    "zeit": {
@@ -846,10 +887,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "karne (aus dem Französischen « carnet ») = Zeugnis. karne günü = Zeugnistag. kibar = höflich. birden = plötzlich.",
    "audio": "audio/tr-de/wendungen/oa_21.mp3?v=6f2532eb",
+   "gloss": "karne | Zeugnis",
    "satz": {
     "fr": "Karne günü herkes birden çok kibar oluyor.",
     "de": "Am Zeugnistag werden alle plötzlich sehr höflich.",
     "luecke": "Karne",
+    "gloss": "Karne gün·ü herkes birden çok kibar ol·uyor. | Zeugnis Tag·sein jeder plötzlich sehr höflich werden·PRÄS",
     "audio": "audio/tr-de/saetze/oa_21.mp3?v=9aadf991"
    },
    "zeit": {
@@ -872,10 +915,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "gelmek",
    "notiz": "Wörtlich « möge es leicht kommen ». Man sagt es jedem, der gerade arbeitet: Kollegen, Verkäufern, Handwerkern. Antwort: sağ ol / teşekkürler.",
    "audio": "audio/tr-de/wendungen/oa_22.mp3?v=c9aa6c27",
+   "gloss": "kolay gel·sin | leicht kommen·IMP3",
    "satz": {
     "fr": "Kolay gelsin! – Sağ ol, otuz kâğıt daha var.",
     "de": "Gutes Gelingen! – Danke, noch dreißig Arbeiten.",
     "luecke": "Kolay gelsin",
+    "gloss": "Kolay gel·sin! – Sağ ol, otuz kâğıt daha var. | leicht kommen·IMP3! – gesund sei, dreißig Blatt noch vorhanden",
     "audio": "audio/tr-de/saetze/oa_22.mp3?v=a8b54d9d"
    },
    "zeit": null
@@ -889,10 +934,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "Wörtlich « möge es vergangen sein »: bei Krankheit (gute Besserung) und nach überstandenen Mühen (Prüfung, Inspektion, Unfall). teftiş = Inspektion.",
    "audio": "audio/tr-de/wendungen/oa_23.mp3?v=6d54cdb5",
+   "gloss": "geç·miş ol·sun | vergehen·ERZ sein·IMP3",
    "satz": {
     "fr": "Teftiş bitti mi? Geçmiş olsun!",
     "de": "Die Inspektion ist vorbei? Gut überstanden!",
     "luecke": "Geçmiş olsun",
+    "gloss": "Teftiş bit·ti mi? Geç·miş ol·sun! | Inspektion enden·VERG FRAGE? vergehen·ERZ sein·IMP3!",
     "audio": "audio/tr-de/saetze/oa_23.mp3?v=943c5781"
    },
    "zeit": null
@@ -906,10 +953,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "var",
    "notiz": "hoca = Lehrer, Meister; hocam = mein Lehrer, übliche Anrede unter Lehrern und von Schülern. dakika-nız = Ihre Minute (Possessiv 2. Pl. = Siezen).",
    "audio": "audio/tr-de/wendungen/oa_24.mp3?v=450c63ae",
+   "gloss": "Hoca·m, bir dakika·nız var mı? | Lehrer·mein, ein Minute·Ihr vorhanden FRAGE?",
    "satz": {
     "fr": "Hocam, bir dakikanız var mı? Bir not sorunu var.",
     "de": "Herr Kollege, haben Sie eine Minute? Es geht um eine Note.",
     "luecke": "bir dakikanız var mı",
+    "gloss": "Hoca·m, bir dakika·nız var mı? Bir not sorun·u var. | Lehrer·mein, ein Minute·Ihr vorhanden FRAGE? ein Note Problem·sein vorhanden",
     "audio": "audio/tr-de/saetze/oa_24.mp3?v=f16b4fdc"
    },
    "zeit": null
@@ -923,10 +972,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "keyif = Wohlbehagen, Laune (arabisch); keyf-im yerinde = meine Laune ist an ihrem Platz. bozmak = verderben; bozmasın = soll nicht verderben (3. Pers. Imperativ).",
    "audio": "audio/tr-de/wendungen/du_01.mp3?v=f19ac701",
+   "gloss": "keyf·im yer·i·nde | Laune·mein Platz·sein·LOK",
    "satz": {
     "fr": "Bugün keyfim yerinde, kimse bozmasın.",
     "de": "Heute bin ich gut drauf, keiner soll es mir verderben.",
     "luecke": "keyfim yerinde",
+    "gloss": "Bugün keyf·im yer·i·nde, kimse boz·ma·sın. | heute Laune·mein Platz·sein·LOK, niemand verderben·NEG·IMP3",
     "audio": "audio/tr-de/saetze/du_01.mp3?v=8f516a5d"
    },
    "zeit": {
@@ -949,10 +1000,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "sıkılmak",
    "notiz": "can = Seele, Leben; can-ım sıkılıyor = meine Seele wird eingeengt = mir ist langweilig / ich bin verdrossen. Viele Gefühle laufen im Türkischen über can, iç, baş, moral mit Possessiv.",
    "audio": "audio/tr-de/wendungen/du_02.mp3?v=e92b1ae2",
+   "gloss": "can·ım sıkıl·ıyor | Seele·mein eingeengt.werden·PRÄS",
    "satz": {
     "fr": "Toplantıda canım sıkılıyor, saate bakıyorum.",
     "de": "In der Konferenz langweile ich mich, ich schaue auf die Uhr.",
     "luecke": "canım sıkılıyor",
+    "gloss": "Toplantı·da can·ım sıkıl·ıyor, saat·e bak·ıyor·um. | Versammlung·LOK Seele·mein eingeengt.werden·PRÄS, Uhr·DAT schauen·PRÄS·1SG",
     "audio": "audio/tr-de/saetze/du_02.mp3?v=27ffbbce"
    },
    "zeit": {
@@ -975,10 +1028,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "moral (frz.) = Stimmung; moral-im bozuk = meine Stimmung ist kaputt. Gegenteil: moralim yerinde / moralim iyi. moral vermek = aufmuntern.",
    "audio": "audio/tr-de/wendungen/du_03.mp3?v=36195f9e",
+   "gloss": "moral·im bozuk | Stimmung·mein kaputt",
    "satz": {
     "fr": "Kâğıtlardan sonra moralim bozuk.",
     "de": "Nach den Arbeiten bin ich niedergeschlagen.",
     "luecke": "moralim bozuk",
+    "gloss": "Kâğıt·lar·dan sonra moral·im bozuk. | Blatt·PL·ABL nach Stimmung·mein kaputt",
     "audio": "audio/tr-de/saetze/du_03.mp3?v=5260be74"
    },
    "zeit": {
@@ -1001,10 +1056,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "bozulmak",
    "notiz": "sinir = Nerv (Plural sinirler); bozulmak = kaputtgehen (passiv zu bozmak). « yüzünden » = wegen (negativ), « sayesinde » = dank.",
    "audio": "audio/tr-de/wendungen/du_04.mp3?v=7da5f322",
+   "gloss": "sinir·ler·im bozul·du | Nerv·PL·mein kaputtgehen·VERG",
    "satz": {
     "fr": "Kopya makinesi yüzünden sinirlerim bozuldu.",
     "de": "Wegen des Kopierers bin ich mit den Nerven fertig.",
     "luecke": "sinirlerim bozuldu",
+    "gloss": "Kopya makine·si yüzünden sinir·ler·im bozul·du. | Kopie Maschine·sein wegen Nerv·PL·mein kaputtgehen·VERG",
     "audio": "audio/tr-de/saetze/du_04.mp3?v=b91521ba"
    },
    "zeit": {
@@ -1027,10 +1084,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "iç = das Innere; iç-im rahat = mein Inneres ist ruhig. not girmek = Noten eintragen. -ince = sobald, als (girince = als ich eintrug).",
    "audio": "audio/tr-de/wendungen/du_05.mp3?v=a14a6cb0",
+   "gloss": "iç·im rahat | Inneres·mein ruhig",
    "satz": {
     "fr": "Notları girdim, içim rahat.",
     "de": "Die Noten sind eingetragen, ich bin beruhigt.",
     "luecke": "içim rahat",
+    "gloss": "Not·lar·ı gir·di·m, iç·im rahat. | Note·PL·AKK eintragen·VERG·1SG, Inneres·mein ruhig",
     "audio": "audio/tr-de/saetze/du_05.mp3?v=6b812357"
    },
    "zeit": {
@@ -1053,10 +1112,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "sığmak",
    "notiz": "Wörtlich: mein Inneres passt nicht in mein Inneres. sığmak = hineinpassen. Bild für überschäumende Vorfreude.",
    "audio": "audio/tr-de/wendungen/du_06.mp3?v=c0e020ef",
+   "gloss": "iç·im iç·i·me sığ·mı·yor | Inneres·mein Inneres·mein·DAT passen·NEG·PRÄS",
    "satz": {
     "fr": "Yarın tatil, içim içime sığmıyor.",
     "de": "Morgen Ferien, ich platze vor Freude.",
     "luecke": "içim içime sığmıyor",
+    "gloss": "Yarın tatil, iç·im iç·i·me sığ·mı·yor. | morgen Ferien, Inneres·mein Inneres·mein·DAT passen·NEG·PRÄS",
     "audio": "audio/tr-de/saetze/du_06.mp3?v=eb2526e3"
    },
    "zeit": {
@@ -1079,10 +1140,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "kaçmak",
    "notiz": "tat = Geschmack; tad-ım kaçtı = mein Geschmack ist geflohen (t → d vor Vokal). kaçmak = fliehen, entwischen. tadını kaçırmak = jemandem die Laune verderben.",
    "audio": "audio/tr-de/wendungen/du_07.mp3?v=76f14d3a",
+   "gloss": "tad·ım kaç·tı | Geschmack·mein fliehen·VERG",
    "satz": {
     "fr": "Son dersten sonra tadım kaçtı.",
     "de": "Nach der letzten Stunde war meine Laune hin.",
     "luecke": "tadım kaçtı",
+    "gloss": "Son ders·ten sonra tad·ım kaç·tı. | letzt Stunde·ABL nach Geschmack·mein fliehen·VERG",
     "audio": "audio/tr-de/saetze/du_07.mp3?v=206ec1f6"
    },
    "zeit": {
@@ -1105,10 +1168,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "ağrımak",
    "notiz": "baş = Kopf; ağrımak = schmerzen. Muster: Körperteil + Possessiv + ağrıyor: karnım ağrıyor, dişim ağrıyor.",
    "audio": "audio/tr-de/wendungen/du_08.mp3?v=8f6796df",
+   "gloss": "baş·ım ağrı·yor | Kopf·mein schmerzen·PRÄS",
    "satz": {
     "fr": "Yedi saatten sonra başım ağrıyor.",
     "de": "Nach sieben Stunden habe ich Kopfschmerzen.",
     "luecke": "başım ağrıyor",
+    "gloss": "Yedi saat·ten sonra baş·ım ağrı·yor. | sieben Stunde·ABL nach Kopf·mein schmerzen·PRÄS",
     "audio": "audio/tr-de/saetze/du_08.mp3?v=05a382b0"
    },
    "zeit": {
@@ -1131,10 +1196,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "var",
    "notiz": "uyku = Schlaf; uyku-m var = ich habe Schlaf = ich bin schläfrig. Ebenso: açlığım var? nein: acıktım = ich bin hungrig, susadım = durstig. hâlâ = immer noch (nicht hala = Tante!).",
    "audio": "audio/tr-de/wendungen/du_09.mp3?v=f2ec7060",
+   "gloss": "uyku·m var | Schlaf·mein vorhanden",
    "satz": {
     "fr": "Sabah sekizde hâlâ uykum var.",
     "de": "Um acht Uhr morgens bin ich noch müde.",
     "luecke": "uykum var",
+    "gloss": "Sabah sekiz·de hâlâ uyku·m var. | Morgen acht·LOK immer.noch Schlaf·mein vorhanden",
     "audio": "audio/tr-de/saetze/du_09.mp3?v=3b2e71e0"
    },
    "zeit": {
@@ -1157,10 +1224,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "heyecan = Aufregung, Begeisterung; heyecan-lı = aufgeregt (-lı = mit). Prädikat mit Bindekonsonant y nach Vokal: heyecanlı-y-ım.",
    "audio": "audio/tr-de/wendungen/du_10.mp3?v=c58df96e",
+   "gloss": "heyecan·lı·yım | Aufregung·mit·1SG",
    "satz": {
     "fr": "İlk dersten önce hâlâ heyecanlıyım.",
     "de": "Vor der ersten Stunde bin ich immer noch aufgeregt.",
     "luecke": "heyecanlıyım",
+    "gloss": "İlk ders·ten önce hâlâ heyecan·lı·yım. | erst Stunde·ABL vor immer.noch Aufregung·mit·1SG",
     "audio": "audio/tr-de/saetze/du_10.mp3?v=4ce5b771"
    },
    "zeit": {
@@ -1183,10 +1252,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "gergin = gespannt, angespannt (von germek = spannen). gerginlik = Anspannung. -den önce = vor (Ablativ + önce).",
    "audio": "audio/tr-de/wendungen/du_11.mp3?v=c0996eb8",
+   "gloss": "gergin·im | angespannt·1SG",
    "satz": {
     "fr": "Veli toplantısından önce gerginim.",
     "de": "Vor dem Elternabend bin ich angespannt.",
     "luecke": "gerginim",
+    "gloss": "Veli toplantı·sı·ndan önce gergin·im. | Eltern Versammlung·sein·ABL vor angespannt·1SG",
     "audio": "audio/tr-de/saetze/du_11.mp3?v=1640a516"
    },
    "zeit": {
@@ -1209,10 +1280,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "rahatlamak",
    "notiz": "rahat = bequem, ruhig; rahatlamak = sich entspannen, erleichtert sein. Die Vergangenheit (-dım) drückt den eingetretenen Zustand aus: « ich bin erleichtert ».",
    "audio": "audio/tr-de/wendungen/du_12.mp3?v=9e2688f8",
+   "gloss": "rahatla·dı·m | sich.entspannen·VERG·1SG",
    "satz": {
     "fr": "Teftiş bitti, rahatladım.",
     "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
     "luecke": "rahatladım",
+    "gloss": "Teftiş bit·ti, rahatla·dı·m. | Inspektion enden·VERG, sich.entspannen·VERG·1SG",
     "audio": "audio/tr-de/saetze/du_12.mp3?v=40b4cf5b"
    },
    "zeit": {
@@ -1235,10 +1308,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "taşmak",
    "notiz": "sabır = Geduld (sabr-ım mit Vokalausfall); taşmak = überlaufen. Bild: die Geduld läuft über. uyarı = Ermahnung, Warnung.",
    "audio": "audio/tr-de/wendungen/du_13.mp3?v=6ad49c55",
+   "gloss": "sabr·ım taş·ıyor | Geduld·mein überlaufen·PRÄS",
    "satz": {
     "fr": "Üçüncü uyarıda sabrım taşıyor.",
     "de": "Bei der dritten Ermahnung reißt mir die Geduld.",
     "luecke": "sabrım taşıyor",
+    "gloss": "Üç·üncü uyarı·da sabr·ım taş·ıyor. | drei·ORD Ermahnung·LOK Geduld·mein überlaufen·PRÄS",
     "audio": "audio/tr-de/saetze/du_13.mp3?v=0cbaacd0"
    },
    "zeit": {
@@ -1261,10 +1336,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "karışmak",
    "notiz": "kafa = Kopf (umgangssprachlich); karışmak = sich vermischen. kafa-m karıştı = mein Kopf ist durcheinander. -sam = wenn ich (Konditional).",
    "audio": "audio/tr-de/wendungen/du_14.mp3?v=dc5b1d64",
+   "gloss": "kafa·m karış·tı | Kopf·mein sich.mischen·VERG",
    "satz": {
     "fr": "İki program okudum, kafam karıştı.",
     "de": "Ich habe zwei Stundenpläne gelesen, ich bin durcheinander.",
     "luecke": "kafam karıştı",
+    "gloss": "İki program oku·du·m, kafa·m karış·tı. | zwei Programm lesen·VERG·1SG, Kopf·mein sich.mischen·VERG",
     "audio": "audio/tr-de/saetze/du_14.mp3?v=b0c185e5"
    },
    "zeit": {
@@ -1287,10 +1364,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "olmak",
    "notiz": "akıl = Verstand (akl-ım mit Vokalausfall); başka yerde = an anderem Ort. kusura bakma = nimm's nicht übel (wörtlich: schau nicht auf den Fehler); höflich: kusura bakmayın.",
    "audio": "audio/tr-de/wendungen/du_15.mp3?v=1593fa03",
+   "gloss": "akl·ım başka yer·de | Verstand·mein anderer Ort·LOK",
    "satz": {
     "fr": "Bugün aklım başka yerde, kusura bakma.",
     "de": "Heute bin ich mit den Gedanken woanders, entschuldige.",
     "luecke": "aklım başka yerde",
+    "gloss": "Bugün akl·ım başka yer·de, kusur·a bak·ma. | heute Verstand·mein anderer Ort·LOK, Fehler·DAT schauen·NEG.IMP",
     "audio": "audio/tr-de/saetze/du_15.mp3?v=4a46adad"
    },
    "zeit": {
@@ -1313,10 +1392,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "bıkmak",
    "notiz": "bıkmak + Ablativ (-den) = etwas satthaben. bahane = Ausrede. çoktan = längst.",
    "audio": "audio/tr-de/wendungen/du_16.mp3?v=523d6ce1",
+   "gloss": "bık·tı·m | satthaben·VERG·1SG",
    "satz": {
     "fr": "Aynı bahaneden bıktım.",
     "de": "Ich habe dieselbe Ausrede satt.",
     "luecke": "bıktım",
+    "gloss": "Aynı bahane·den bık·tı·m. | derselbe Ausrede·ABL satthaben·VERG·1SG",
     "audio": "audio/tr-de/saetze/du_16.mp3?v=7d616161"
    },
    "zeit": {
@@ -1339,10 +1420,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "özlemek",
    "notiz": "özlemek = vermissen, sich sehnen; die Vergangenheit özledim steht für das gegenwärtige Gefühl (wie rahatladım). Seni özledim = ich vermisse dich.",
    "audio": "audio/tr-de/wendungen/du_17.mp3?v=02522412",
+   "gloss": "özle·di·m | vermissen·VERG·1SG",
    "satz": {
     "fr": "Tatili şimdiden özledim.",
     "de": "Ich vermisse die Ferien jetzt schon.",
     "luecke": "özledim",
+    "gloss": "Tatil·i şimdi·den özle·di·m. | Ferien·AKK jetzt·ABL vermissen·VERG·1SG",
     "audio": "audio/tr-de/saetze/du_17.mp3?v=8793630b"
    },
    "zeit": {
@@ -1365,10 +1448,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "utanmak",
    "notiz": "utanmak = sich schämen, verlegen sein; utangaç = schüchtern. ad-ı-nı = seinen Namen (Possessiv + Akkusativ mit n).",
    "audio": "audio/tr-de/wendungen/du_18.mp3?v=62702082",
+   "gloss": "utan·dı·m | sich.schämen·VERG·1SG",
    "satz": {
     "fr": "Adını unuttum, çok utandım.",
     "de": "Ich habe seinen Namen vergessen, ich habe mich sehr geschämt.",
     "luecke": "utandım",
+    "gloss": "Ad·ı·nı unut·tu·m, çok utan·dı·m. | Name·sein·AKK vergessen·VERG·1SG, sehr sich.schämen·VERG·1SG",
     "audio": "audio/tr-de/saetze/du_18.mp3?v=b5c4da55"
    },
    "zeit": {
@@ -1391,10 +1476,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "şaşırmak",
    "notiz": "şaşırmak = überrascht sein, sich wundern (auch: sich verirren). -mış = erschlossene Vergangenheit: yapmış = offenbar gemacht (ich sehe es erst jetzt).",
    "audio": "audio/tr-de/wendungen/du_19.mp3?v=f5b2dad1",
+   "gloss": "şaşır·dı·m | sich.wundern·VERG·1SG",
    "satz": {
     "fr": "Hepsi ödevi yapmış, şaşırdım.",
     "de": "Alle hatten die Hausaufgabe gemacht, ich war überrascht.",
     "luecke": "şaşırdım",
+    "gloss": "Hep·si ödev·i yap·mış, şaşır·dı·m. | all·davon Aufgabe·AKK machen·ERZ, sich.wundern·VERG·1SG",
     "audio": "audio/tr-de/saetze/du_19.mp3?v=fffcdd76"
    },
    "zeit": {
@@ -1417,10 +1504,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "duymak",
    "notiz": "gurur = Stolz; gurur duymak + -la/-le (mit) = stolz sein auf. duymak = hören, fühlen. Ebenso: utanç duymak, heyecan duymak.",
    "audio": "audio/tr-de/wendungen/du_20.mp3?v=7c1b800f",
+   "gloss": "gurur duy·mak | Stolz fühlen·INF",
    "satz": {
     "fr": "Sınıfımla gurur duyuyorum.",
     "de": "Ich bin stolz auf meine Klasse.",
     "luecke": "gurur duyuyorum",
+    "gloss": "Sınıf·ım·la gurur duy·uyor·um. | Klasse·mein·MIT Stolz fühlen·PRÄS·1SG",
     "audio": "audio/tr-de/saetze/du_20.mp3?v=08f704b9"
    },
    "zeit": {
@@ -1443,10 +1532,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "kıskanmak",
    "notiz": "kıskanmak = beneiden, eifersüchtig sein; kıskanç = eifersüchtig, neidisch. Cem'in … -sı var = Cem hat (Genitiv + Possessiv).",
    "audio": "audio/tr-de/wendungen/du_21.mp3?v=67bb4c6d",
+   "gloss": "kıskan·dı·m | beneiden·VERG·1SG",
    "satz": {
     "fr": "Cem'in boş cuması var, kıskandım.",
     "de": "Cem hat freitags frei, ich war neidisch.",
     "luecke": "kıskandım",
+    "gloss": "Cem·'in boş cuma·sı var, kıskan·dı·m. | Cem·GEN leer Freitag·sein vorhanden, beneiden·VERG·1SG",
     "audio": "audio/tr-de/saetze/du_21.mp3?v=61e459ea"
    },
    "zeit": {
@@ -1469,10 +1560,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "yapmak",
    "notiz": "keyif yapmak = genießen, chillen; keyif çatmak noch gemütlicher. sadece = nur. hafta sonu = Wochenende.",
    "audio": "audio/tr-de/wendungen/du_22.mp3?v=1194b30b",
+   "gloss": "keyif yap·mak | Genuss machen·INF",
    "satz": {
     "fr": "Hafta sonu sadece keyif yapıyorum.",
     "de": "Am Wochenende lasse ich es mir nur gut gehen.",
     "luecke": "keyif yapıyorum",
+    "gloss": "Hafta son·u sadece keyif yap·ıyor·um. | Woche Ende·sein nur Genuss machen·PRÄS·1SG",
     "audio": "audio/tr-de/saetze/du_22.mp3?v=afb33378"
    },
    "zeit": {
@@ -1495,10 +1588,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "vermek",
    "notiz": "Wörtlich: gib leer. Alltagsformel zum Abwinken; höflich: boş verin. Ähnlich: aldırma = kümmere dich nicht.",
    "audio": "audio/tr-de/wendungen/du_23.mp3?v=7d9663ca",
+   "gloss": "boş ver | leer gib",
    "satz": {
     "fr": "Boş ver, yarın yeni bir gün.",
     "de": "Mach dir nichts draus, morgen ist ein neuer Tag.",
     "luecke": "Boş ver",
+    "gloss": "Boş ver, yarın yeni bir gün. | leer gib, morgen neu ein Tag",
     "audio": "audio/tr-de/saetze/du_23.mp3?v=f0eb2695"
    },
    "zeit": null
@@ -1512,10 +1607,12 @@ window.SPRACHEN["tr-de"] = {
    "anker": "var",
    "notiz": "neyse = was auch immer es sei (ne + ise), Gesprächsfüller zum Themenwechsel oder Trost. « ya » am Satzende = doch, ja (bekräftigend).",
    "audio": "audio/tr-de/wendungen/du_24.mp3?v=ac2c4caf",
+   "gloss": "neyse | was.auch.immer",
    "satz": {
     "fr": "Neyse, kahve var ya.",
     "de": "Na ja, es gibt ja Kaffee.",
     "luecke": "Neyse",
+    "gloss": "Neyse, kahve var ya. | was.auch.immer, Kaffee vorhanden doch",
     "audio": "audio/tr-de/saetze/du_24.mp3?v=994b7fd9"
    },
    "zeit": null

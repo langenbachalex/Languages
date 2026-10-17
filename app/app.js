@@ -35,6 +35,7 @@
       } catch (e) { /* kein alter Stand */ }
     }
     if (!PAKETE[s.paar]) s.paar = PAARE[0];
+    s.tempo = s.tempo || {};   // je Sprache: true = normales Tempo trotz langsamer Voreinstellung (Türkisch 0,7×)
     return s;
   }
   function speichern() {
@@ -69,9 +70,18 @@
     document.title = `${U.app} · ${D.name}`;
     const n = document.querySelectorAll(".niveau button");
     n[0].textContent = D.kurz; n[1].textContent = `+ ${D.hilfe_kurz}`;   // kurz, damit zwei Sprachreihen und der Schalter auf ein Handy passen
+    tempoKnopf.hidden = !D.tempo; tempoAnzeige();
     document.querySelectorAll(".sprachen button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.paar === paar)));
     if (start) { lage = null; seance = null; startseite(); }
   }
+  // Tempo: Sprachen mit langsamer Voreinstellung (D.tempo, z. B. Türkisch 0,7×) bekommen einen Schalter 🐢 0,7× / 1× (Mr. Alex, 17.10.)
+  const tempoAktuell = () => (D.tempo && !stand.tempo[stand.paar] ? D.tempo : 1);
+  const tempoKnopf = el("button", { type: "button", class: "tempo", hidden: true, title: "Tempo", onclick: () => { stand.tempo[stand.paar] = !stand.tempo[stand.paar]; speichern(); tempoAnzeige(); } });
+  function tempoAnzeige() { const t = tempoAktuell(); tempoKnopf.textContent = t < 1 ? `🐢 ${String(t).replace(".", ",")}×` : "🔊 1×"; tempoKnopf.setAttribute("aria-pressed", String(t < 1)); }
+  // rechte Spalte der Leiste: Hilfe-Schalter oben, Tempo darunter (passt zu den zwei Sprachreihen)
+  const rechts = el("div", { class: "rechts" });
+  const niveauEl = document.querySelector(".niveau");
+  niveauEl.replaceWith(rechts); rechts.append(niveauEl, tempoKnopf);
   const sprachLeiste = document.querySelector(".sprachen");
   PAARE.forEach((p) => sprachLeiste.append(el("button", { type: "button", "data-paar": p, "aria-pressed": "false", title: PAKETE[p].name,
     onclick: () => { if (p !== stand.paar) setzeSprache(p); } }, PAKETE[p].flagge + " " + PAKETE[p].kurz)));
@@ -175,9 +185,10 @@
       if (meinLauf !== lauf) return fertig();
       if (typeof datei === "object" && !datei.src) return sprich(datei.text).then((d) => { gesamt += d; fertig(); });
       const a = new Audio(datei.src || datei);
-      if (datei.rate) a.playbackRate = datei.rate;
+      a.playbackRate = datei.rate || tempoAktuell();
+      a.preservesPitch = true;
       aktuell = a;
-      a.onended = () => { gesamt += a.duration || 0; setTimeout(fertig, 350); };
+      a.onended = () => { gesamt += (a.duration || 0) / (a.playbackRate || 1); setTimeout(fertig, 350); };
       a.onerror = fertig;
       a.play().catch(fertig);
     })), Promise.resolve()).then(() => (meinLauf === lauf ? gesamt : null));
@@ -228,6 +239,13 @@
     el("section", { class: "satzkarte" }, zaehlerText && el("p", { class: "zaehler" }, zaehlerText), ...inhalt);
   const registerSchild = (w) => w.register === "vous" && el("span", { class: "register", title: U.poli_titel }, U.poli);
   const notiz = (w) => w.notiz && el("p", { class: "notiz", lang: D.lang_hilfe }, "💡 ", w.notiz);
+  // Interlinear-Glosse (Türkisch): "Wort·PL·AKK … | Wort·PL·AKK …" – je Wort die türkische Zerlegung über dem deutschen Etikett
+  function glosse(g, klasse = "gloss") {
+    if (!g) return null;
+    const [tr, de] = g.split("|").map((x) => x.trim().split(/\s+/));
+    if (!de || tr.length !== de.length) return el("p", { class: klasse + " gloss-flach", lang: D.lang }, g.replace("|", " – "));
+    return el("p", { class: klasse, lang: D.lang }, tr.map((t, i) => el("span", { class: "gl" }, el("span", { class: "gl-tr" }, t), el("span", { class: "gl-de", lang: D.lang_hilfe }, de[i]))));
+  }
   // Lücke im Satz: art "voll" | "luecke" | "buchstabe"
   function lueckenSatz(s, art) {
     const w = s.luecke, i = w ? s.fr.indexOf(w) : -1;
@@ -396,10 +414,10 @@
       ansageU("neu_ansage"),
       karte(`${zaehler} · ${U.nouvelle}`,
         el("div", { class: "vok" }, el("div", {},
-          el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)),
+          el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)), glosse(w.gloss, "gloss klein"),
           el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), notiz(w))),
         el("div", { class: "spalten" },
-          el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.exemple), el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll"))),
+          el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.exemple), el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), glosse(w.satz.gloss)),
           el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.hilfe_sprache), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de))),
         balken,
         el("div", { class: "knopfreihe" }, knopf(U.encore_hoeren, abspielen), weiter)));
@@ -411,8 +429,8 @@
     const balken = jetztDu();
     const frage = el("div", {}, el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de));
     const antwort = el("div", { hidden: true },
-      el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)),
-      el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), notiz(w));
+      el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)), glosse(w.gloss, "gloss klein"),
+      el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), glosse(w.satz.gloss), notiz(w));
     const bewerten = el("div", { class: "bewerten", hidden: true },
       knopf(U.je_savais, () => bewerteKarte(w, true), "haupt"),
       knopf(U.encore, () => bewerteKarte(w, false), "encore"));
@@ -816,7 +834,8 @@
     const balken = jetztDu();
     const fr = el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(s, stufe === 1 ? "voll" : "luecke"));
     if (stufe === 3) fr.replaceChildren(el("span", { class: "profi" }, U.dis_phrase));
-    const frSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.ziel_sprache), fr);
+    const gl = glosse(s.gloss); if (gl && stufe > 1) gl.hidden = true;
+    const frSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.ziel_sprache), fr, gl);
     const deSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.hilfe_sprache), el("p", { class: "satz de", lang: D.lang_hilfe }, s.de),
       stufe === 1 && notiz(s));
     const loesung = stufe > 1 ? sperre(knopf(U.solution, loesen)) : null;
@@ -826,7 +845,7 @@
     const hilfen = el("div", { class: "knopfreihe" });
     if (stufe === 2) hilfen.append(tipp("tipp_buchstabe", (e) => { e.currentTarget.hidden = true; if (!geloest) fr.replaceChildren(...lueckenSatz(s, "buchstabe")); }));
     if (stufe === 3) hilfen.append(tipp("tipp_luecke", (e) => { e.currentTarget.hidden = true; if (!geloest) fr.replaceChildren(...lueckenSatz(s, "buchstabe")); }));
-    function loesen() { geloest = true; loesung.disabled = true; hilfen.hidden = true; fr.replaceChildren(...lueckenSatz(s, "voll")); sprechen(); }
+    function loesen() { geloest = true; loesung.disabled = true; hilfen.hidden = true; fr.replaceChildren(...lueckenSatz(s, "voll")); if (gl) gl.hidden = false; sprechen(); }
     const abspielen = () => { if (geloest) sprechen(); };
     tasten(abspielen, wennFrei(weiter, naechstes));
     zeige(kopf(),
@@ -880,8 +899,8 @@
     const w = WENDUNG[lage.reihe[lage.pos]];
     const balken = jetztDu();
     const frage = el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de);
-    const antwort = el("div", { hidden: true }, el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)),
-      el("p", { class: "klein", lang: D.lang }, w.satz.fr), notiz(w));
+    const antwort = el("div", { hidden: true }, el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)), glosse(w.gloss, "gloss klein"),
+      el("p", { class: "klein", lang: D.lang }, w.satz.fr), glosse(w.satz.gloss), notiz(w));
     const bewerten = el("div", { class: "bewerten", hidden: true },
       knopf(U.je_savais, naechstes, "haupt weiter"),
       knopf(U.encore, () => { lage.reihe.push(w.id); naechstes(); }, "encore"));

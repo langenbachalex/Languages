@@ -78,7 +78,8 @@ def daten_fuer(P):
             assert bool(z["passe_compose"]) == bool(z["futur_proche"]), f"{paar} {wid}: Zeitmaschine braucht beide Zeiten"
             w = {"id": wid, "thema": t["id"], "fr": z["wendung"], "de": z["deutsch"], "register": z["register"] or "tu",
                  "anker": z["anker"], "notiz": (z.get("notiz") or "").strip() or None, "audio": audio(f"wendungen/{wid}.mp3"),
-                 "satz": {"fr": z["satz_fr"], "de": z["satz_de"], "luecke": z["luecke"], "audio": audio(f"saetze/{wid}.mp3")},
+                 "gloss": (z.get("gloss_w") or "").strip() or None,   # Interlinear-Glosse der Wendung (Türkisch)
+                 "satz": {"fr": z["satz_fr"], "de": z["satz_de"], "luecke": z["luecke"], "gloss": (z.get("gloss") or "").strip() or None, "audio": audio(f"saetze/{wid}.mp3")},
                  "zeit": None}
             if z["passe_compose"]:
                 w["zeit"] = {"pc": {"fr": z["passe_compose"], "audio": audio(f"saetze/{wid}_pc.mp3")},
@@ -132,7 +133,7 @@ def daten_fuer(P):
              "texte": {k: {"text": t, "audio": audio(f"spiel/{k}.mp3")} for k, t in P.SPIEL_TEXTE.items()},
              "frei": frei_saarland.als_daten()}
     return {"paar": paar, "name": P.NAME, "kurz": P.KURZ, "hilfe_kurz": P.HILFE_KURZ, "flagge": P.FLAGGE, "lang": P.LANG, "lang_hilfe": P.LANG_HILFE,
-            "sprachausgabe": P.SPRACHAUSGABE, "audio_speicher": f"{ausgabe_von(P)['praefix']}-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
+            "sprachausgabe": P.SPRACHAUSGABE, "tempo": getattr(P, "TEMPO", None), "audio_speicher": f"{ausgabe_von(P)['praefix']}-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
             "ui": P.UI, "themen": themen, "wendungen": wendungen, "dialoge": dialoge, "rollen": P.ROLLEN, "dialoge_titel": P.DIALOGE_TITEL,
             "aussprache": aussprache, "geschichte": geschichte, "geschichte_info": P.GESCHICHTE, "lob": lob,
             "pensum": PENSUM, "intervalle": INTERVALLE, "spiel": spiel}
