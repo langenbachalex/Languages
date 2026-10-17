@@ -356,6 +356,38 @@ window.SPRACHEN["tr-de"] = {
     "ke_23",
     "ke_24"
    ]
+  },
+  {
+   "id": "muzik",
+   "name": "Müzik ve dil",
+   "de": "Musik und Sprache",
+   "symbol": "🎵",
+   "wendungen": [
+    "mu_01",
+    "mu_02",
+    "mu_03",
+    "mu_04",
+    "mu_05",
+    "mu_06",
+    "mu_07",
+    "mu_08",
+    "mu_09",
+    "mu_10",
+    "mu_11",
+    "mu_12",
+    "mu_13",
+    "mu_14",
+    "mu_15",
+    "mu_16",
+    "mu_17",
+    "mu_18",
+    "mu_19",
+    "mu_20",
+    "mu_21",
+    "mu_22",
+    "mu_23",
+    "mu_24"
+   ]
   }
  ],
  "wendungen": [
@@ -2302,6 +2334,642 @@ window.SPRACHEN["tr-de"] = {
      "audio": "audio/tr-de/saetze/ke_24_fp.mp3?v=a7abd8e5"
     }
    }
+  },
+  {
+   "id": "mu_01",
+   "thema": "muzik",
+   "fr": "şarkı söylemek",
+   "de": "singen",
+   "register": "tu",
+   "anker": "söylemek",
+   "notiz": "şarkı = Lied; şarkı söylemek = singen (wörtlich: Lied sagen). Vokal e fällt vor -iyor: söyle- → söyl-üyor, dinle- → dinl-iyor. « da/de » nach dem Wort = auch.",
+   "audio": "audio/tr-de/wendungen/mu_01.mp3?v=7cd7c17a",
+   "gloss": "şarkı söyle·mek | Lied sagen·INF",
+   "satz": {
+    "fr": "Duşta şarkı söylüyorum, komşu da dinliyor.",
+    "de": "Unter der Dusche singe ich, der Nachbar hört mit.",
+    "luecke": "şarkı söylüyorum",
+    "gloss": "Duş·ta şarkı söyl·üyor·um, komşu da dinl·iyor. | Dusche·LOK Lied sagen·PRÄS·1SG, Nachbar auch hören·PRÄS",
+    "audio": "audio/tr-de/saetze/mu_01.mp3?v=d16368e6"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Duşta şarkı söyledim, komşu da dinledi.",
+     "audio": "audio/tr-de/saetze/mu_01_pc.mp3?v=b3659d4a"
+    },
+    "fp": {
+     "fr": "Duşta şarkı söyleyeceğim, komşu da dinleyecek.",
+     "audio": "audio/tr-de/saetze/mu_01_fp.mp3?v=de7201dd"
+    }
+   }
+  },
+  {
+   "id": "mu_02",
+   "thema": "muzik",
+   "fr": "enstrüman çalmak",
+   "de": "ein Instrument spielen",
+   "register": "tu",
+   "anker": "çalmak",
+   "notiz": "çalmak = (ein Instrument) spielen, aber auch: stehlen und klingeln (zil çalıyor). Verdopplung yavaş yavaş = ganz langsam, nach und nach. bağlama = Langhalslaute.",
+   "audio": "audio/tr-de/wendungen/mu_02.mp3?v=71f7a4bb",
+   "gloss": "enstrüman çal·mak | Instrument spielen·INF",
+   "satz": {
+    "fr": "Bağlama çalıyorum, yavaş yavaş.",
+    "de": "Ich spiele Bağlama, ganz langsam.",
+    "luecke": "çalıyorum",
+    "gloss": "Bağlama çal·ıyor·um, yavaş yavaş. | Bağlama spielen·PRÄS·1SG, langsam langsam",
+    "audio": "audio/tr-de/saetze/mu_02.mp3?v=da547408"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Bağlama çaldım, yavaş yavaş.",
+     "audio": "audio/tr-de/saetze/mu_02_pc.mp3?v=7cafea93"
+    },
+    "fp": {
+     "fr": "Bağlama çalacağım, yavaş yavaş.",
+     "audio": "audio/tr-de/saetze/mu_02_fp.mp3?v=e16ab124"
+    }
+   }
+  },
+  {
+   "id": "mu_03",
+   "thema": "muzik",
+   "fr": "kulaktan çalmak",
+   "de": "nach Gehör spielen",
+   "register": "tu",
+   "anker": "çalmak",
+   "notiz": "kulak = Ohr; kulaktan = vom Ohr her = nach Gehör (Ablativ). nota = Musiknote (not = Schulnote!). bilmek = wissen, kennen.",
+   "audio": "audio/tr-de/wendungen/mu_03.mp3?v=55c7567c",
+   "gloss": "kulak·tan çal·mak | Ohr·ABL spielen·INF",
+   "satz": {
+    "fr": "Notayı bilmiyorum, kulaktan çalıyorum.",
+    "de": "Ich kenne die Noten nicht, ich spiele nach Gehör.",
+    "luecke": "kulaktan çalıyorum",
+    "gloss": "Nota·yı bil·mi·yor·um, kulak·tan çal·ıyor·um. | Note·AKK wissen·NEG·PRÄS·1SG, Ohr·ABL spielen·PRÄS·1SG",
+    "audio": "audio/tr-de/saetze/mu_03.mp3?v=e607bda5"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Notayı bilmiyordum, kulaktan çaldım.",
+     "audio": "audio/tr-de/saetze/mu_03_pc.mp3?v=b49766cc"
+    },
+    "fp": {
+     "fr": "Notayı bilmeyeceğim, kulaktan çalacağım.",
+     "audio": "audio/tr-de/saetze/mu_03_fp.mp3?v=ee09dc07"
+    }
+   }
+  },
+  {
+   "id": "mu_04",
+   "thema": "muzik",
+   "fr": "ezberlemek",
+   "de": "auswendig lernen",
+   "register": "tu",
+   "anker": "ezberlemek",
+   "notiz": "ezber = das Auswendiggelernte; ezberlemek = auswendig lernen, ezbere = auswendig. sözler = Liedtext (Plural von söz). henüz = noch (nicht).",
+   "audio": "audio/tr-de/wendungen/mu_04.mp3?v=c2cd0f1c",
+   "gloss": "ezberle·mek | auswendig.lernen·INF",
+   "satz": {
+    "fr": "Sözleri ezberledim, melodiyi henüz değil.",
+    "de": "Den Text habe ich auswendig, die Melodie noch nicht.",
+    "luecke": "ezberledim",
+    "gloss": "Söz·ler·i ezberle·di·m, melodi·yi henüz değil. | Wort·PL·AKK auswendig.lernen·VERG·1SG, Melodie·AKK noch nicht",
+    "audio": "audio/tr-de/saetze/mu_04.mp3?v=e278a371"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sözleri ezberlemiştim, melodiyi henüz değil.",
+     "audio": "audio/tr-de/saetze/mu_04_pc.mp3?v=2f062f6e"
+    },
+    "fp": {
+     "fr": "Sözleri ezberleyeceğim, melodiyi henüz değil.",
+     "audio": "audio/tr-de/saetze/mu_04_fp.mp3?v=166bfe07"
+    }
+   }
+  },
+  {
+   "id": "mu_05",
+   "thema": "muzik",
+   "fr": "kulağa hoş gelmek",
+   "de": "gut klingen",
+   "register": "tu",
+   "anker": "gelmek",
+   "notiz": "kulağa hoş gelmek = dem Ohr angenehm kommen = gut klingen. sayesinde = dank (nachgestellt, positiv); yüzünden = wegen (negativ).",
+   "audio": "audio/tr-de/wendungen/mu_05.mp3?v=0615ea3d",
+   "gloss": "kulağ·a hoş gel·mek | Ohr·DAT angenehm kommen·INF",
+   "satz": {
+    "fr": "Türkçe kulağa hoş geliyor, ünlü uyumu sayesinde.",
+    "de": "Türkisch klingt angenehm, dank der Vokalharmonie.",
+    "luecke": "kulağa hoş geliyor",
+    "gloss": "Türkçe kulağ·a hoş gel·iyor, ünlü uyum·u sayesinde. | Türkisch Ohr·DAT angenehm kommen·PRÄS, Vokal Harmonie·sein dank",
+    "audio": "audio/tr-de/saetze/mu_05.mp3?v=d71d704d"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Türkçe kulağa hoş geldi, ünlü uyumu sayesinde.",
+     "audio": "audio/tr-de/saetze/mu_05_pc.mp3?v=cb150756"
+    },
+    "fp": {
+     "fr": "Türkçe kulağa hoş gelecek, ünlü uyumu sayesinde.",
+     "audio": "audio/tr-de/saetze/mu_05_fp.mp3?v=9084d3ab"
+    }
+   }
+  },
+  {
+   "id": "mu_06",
+   "thema": "muzik",
+   "fr": "ünlü uyumu",
+   "de": "Vokalharmonie",
+   "register": "tu",
+   "anker": "söylemek",
+   "notiz": "ünlü = Vokal (und: berühmt), ünsüz = Konsonant. -madan = ohne zu. söylenmez = wird nicht gesungen / kann man nicht singen (Passiv + verneinter Aorist). Große Harmonie: e/i → e/i, a/ı → a/ı; kleine: ö/ü → ü, o/u → u.",
+   "audio": "audio/tr-de/wendungen/mu_06.mp3?v=db872a89",
+   "gloss": "ünlü uyum·u | Vokal Harmonie·sein",
+   "satz": {
+    "fr": "Ünlü uyumu olmadan Türkçe şarkı söylenmez.",
+    "de": "Ohne Vokalharmonie kann man kein Türkisch singen.",
+    "luecke": "Ünlü uyumu",
+    "gloss": "Ünlü uyum·u ol·ma·dan Türkçe şarkı söyle·n·mez. | Vokal Harmonie·sein sein·NEG·ABL Türkisch Lied sagen·PASS·NEG.AOR",
+    "audio": "audio/tr-de/saetze/mu_06.mp3?v=0e0b395f"
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_07",
+   "thema": "muzik",
+   "fr": "telaffuz",
+   "de": "Aussprache",
+   "register": "tu",
+   "anker": "inanmak",
+   "notiz": "telaffuz (arabisch) = Aussprache; telaffuz etmek = aussprechen. derler = man sagt. inanmak = glauben (+ Dativ: sana inanıyorum).",
+   "audio": "audio/tr-de/wendungen/mu_07.mp3?v=32cf1a2f",
+   "gloss": "telaffuz | Aussprache",
+   "satz": {
+    "fr": "Telaffuzum iyi, derler; ben inanmıyorum.",
+    "de": "Meine Aussprache sei gut, sagt man; ich glaube es nicht.",
+    "luecke": "Telaffuzum",
+    "gloss": "Telaffuz·um iyi, de·r·ler; ben inan·mı·yor·um. | Aussprache·mein gut, sagen·AOR·3PL; ich glauben·NEG·PRÄS·1SG",
+    "audio": "audio/tr-de/saetze/mu_07.mp3?v=fa9c0bc4"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Telaffuzum iyiydi, derlerdi; ben inanmıyordum.",
+     "audio": "audio/tr-de/saetze/mu_07_pc.mp3?v=0da0483e"
+    },
+    "fp": {
+     "fr": "Telaffuzum iyi olacak, derler; ben inanmıyorum.",
+     "audio": "audio/tr-de/saetze/mu_07_fp.mp3?v=dc8063b6"
+    }
+   }
+  },
+  {
+   "id": "mu_08",
+   "thema": "muzik",
+   "fr": "vurgu",
+   "de": "Betonung",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "vurgu = Betonung (von vurmak = schlagen); hece = Silbe. Grundregel: Betonung auf der letzten Silbe; Ausnahmen: Ortsnamen (İSTANbul, ANkara), Adverbien, Verneinung -me-.",
+   "audio": "audio/tr-de/wendungen/mu_08.mp3?v=303befa1",
+   "gloss": "vurgu | Betonung",
+   "satz": {
+    "fr": "Vurgu son hecede, ama her zaman değil.",
+    "de": "Die Betonung liegt auf der letzten Silbe, aber nicht immer.",
+    "luecke": "Vurgu",
+    "gloss": "Vurgu son hece·de, ama her·zaman değil. | Betonung letzt Silbe·LOK, aber immer nicht",
+    "audio": "audio/tr-de/saetze/mu_08.mp3?v=efa81459"
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_09",
+   "thema": "muzik",
+   "fr": "dil sürçmesi",
+   "de": "Versprecher",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "dil = Zunge, Sprache; sürçmek = stolpern, ausrutschen; dil sürçmesi = Zungenstolperer = Versprecher. gülmek = lachen, gülümsemek = lächeln.",
+   "audio": "audio/tr-de/wendungen/mu_09.mp3?v=9f73c64d",
+   "gloss": "dil sürç·me·si | Zunge stolpern·INF·sein",
+   "satz": {
+    "fr": "Dil sürçmesi oldu, sınıf güldü.",
+    "de": "Ein Versprecher, die Klasse hat gelacht.",
+    "luecke": "Dil sürçmesi",
+    "gloss": "Dil sürç·me·si ol·du, sınıf gül·dü. | Zunge stolpern·INF·sein sein·VERG, Klasse lachen·VERG",
+    "audio": "audio/tr-de/saetze/mu_09.mp3?v=4426a38e"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dil sürçmesi olmuştu, sınıf gülmüştü.",
+     "audio": "audio/tr-de/saetze/mu_09_pc.mp3?v=1a689b10"
+    },
+    "fp": {
+     "fr": "Dil sürçmesi olacak, sınıf gülecek.",
+     "audio": "audio/tr-de/saetze/mu_09_fp.mp3?v=eff91f22"
+    }
+   }
+  },
+  {
+   "id": "mu_10",
+   "thema": "muzik",
+   "fr": "aksan",
+   "de": "Akzent",
+   "register": "tu",
+   "anker": "saklamak",
+   "notiz": "aksan = Akzent (Aussprachefärbung); şive = Dialektfärbung. saklamak = verstecken; sakla-ya-maz = kann nicht verstecken (-ya- Bindung + -ma- NEG + -z Aorist).",
+   "audio": "audio/tr-de/wendungen/mu_10.mp3?v=b69fc79f",
+   "gloss": "aksan | Akzent",
+   "satz": {
+    "fr": "Aksanım Alman, kimse saklayamaz.",
+    "de": "Mein Akzent ist deutsch, keiner kann das verstecken.",
+    "luecke": "Aksanım",
+    "gloss": "Aksan·ım Alman, kimse sakla·ya·maz. | Akzent·mein deutsch, niemand verstecken·KANN·NEG.AOR",
+    "audio": "audio/tr-de/saetze/mu_10.mp3?v=ea825b20"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Aksanım Almandı, kimse saklayamadı.",
+     "audio": "audio/tr-de/saetze/mu_10_pc.mp3?v=e52c6ca1"
+    },
+    "fp": {
+     "fr": "Aksanım Alman olacak, kimse saklayamayacak.",
+     "audio": "audio/tr-de/saetze/mu_10_fp.mp3?v=5e063224"
+    }
+   }
+  },
+  {
+   "id": "mu_11",
+   "thema": "muzik",
+   "fr": "ritim tutmak",
+   "de": "den Takt halten",
+   "register": "tu",
+   "anker": "tutmak",
+   "notiz": "ritim tutmak = den Takt halten (mit Hand oder Fuß). tut-a-mı-yor-um = ich kann nicht halten: Möglichkeitsform negativ -(y)a-ma-. ayrı = getrennt, anders.",
+   "audio": "audio/tr-de/wendungen/mu_11.mp3?v=768726d1",
+   "gloss": "ritim tut·mak | Rhythmus halten·INF",
+   "satz": {
+    "fr": "Ritim tutamıyorum, ellerim ayrı dünyada.",
+    "de": "Ich kann den Takt nicht halten, meine Hände leben in einer anderen Welt.",
+    "luecke": "Ritim tutamıyorum",
+    "gloss": "Ritim tut·a·mı·yor·um, el·ler·im ayrı dünya·da. | Rhythmus halten·KANN·NEG·PRÄS·1SG, Hand·PL·mein getrennt Welt·LOK",
+    "audio": "audio/tr-de/saetze/mu_11.mp3?v=c7c375bf"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ritim tutamadım, ellerim ayrı dünyadaydı.",
+     "audio": "audio/tr-de/saetze/mu_11_pc.mp3?v=bd01ec56"
+    },
+    "fp": {
+     "fr": "Ritim tutamayacağım, ellerim ayrı dünyada olacak.",
+     "audio": "audio/tr-de/saetze/mu_11_fp.mp3?v=8b3ef51c"
+    }
+   }
+  },
+  {
+   "id": "mu_12",
+   "thema": "muzik",
+   "fr": "detone olmak",
+   "de": "falsch singen",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "detone (frz. détonner) = unrein, neben dem Ton; detone olmak = falsch singen. fark etmek = bemerken (wörtlich: Unterschied machen).",
+   "audio": "audio/tr-de/wendungen/mu_12.mp3?v=0ff6b9e6",
+   "gloss": "detone ol·mak | unrein sein·INF",
+   "satz": {
+    "fr": "Nakaratta detone oldum, kimse fark etmedi.",
+    "de": "Im Refrain habe ich falsch gesungen, keiner hat es gemerkt.",
+    "luecke": "detone oldum",
+    "gloss": "Nakarat·ta detone ol·du·m, kimse fark et·me·di. | Refrain·LOK unrein sein·VERG·1SG, niemand Unterschied machen·NEG·VERG",
+    "audio": "audio/tr-de/saetze/mu_12.mp3?v=c5a6d25e"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Nakaratta detone olmuştum, kimse fark etmemişti.",
+     "audio": "audio/tr-de/saetze/mu_12_pc.mp3?v=50580317"
+    },
+    "fp": {
+     "fr": "Nakaratta detone olacağım, kimse fark etmeyecek.",
+     "audio": "audio/tr-de/saetze/mu_12_fp.mp3?v=253443d5"
+    }
+   }
+  },
+  {
+   "id": "mu_13",
+   "thema": "muzik",
+   "fr": "nakarat",
+   "de": "Refrain",
+   "register": "tu",
+   "anker": "bilmek",
+   "notiz": "nakarat (arabisch) = Refrain; kıta = Strophe (auch: Kontinent!). herkes = jeder, kimse (+ Verneinung) = niemand.",
+   "audio": "audio/tr-de/wendungen/mu_13.mp3?v=07d903cf",
+   "gloss": "nakarat | Refrain",
+   "satz": {
+    "fr": "Nakaratı herkes biliyor, kıtaları kimse.",
+    "de": "Den Refrain kennt jeder, die Strophen keiner.",
+    "luecke": "Nakaratı",
+    "gloss": "Nakarat·ı herkes bil·iyor, kıta·lar·ı kimse. | Refrain·AKK jeder wissen·PRÄS, Strophe·PL·AKK niemand",
+    "audio": "audio/tr-de/saetze/mu_13.mp3?v=77b488b8"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Nakaratı herkes biliyordu, kıtaları kimse.",
+     "audio": "audio/tr-de/saetze/mu_13_pc.mp3?v=ad09bc3c"
+    },
+    "fp": {
+     "fr": "Nakaratı herkes bilecek, kıtaları kimse.",
+     "audio": "audio/tr-de/saetze/mu_13_fp.mp3?v=4ae164f2"
+    }
+   }
+  },
+  {
+   "id": "mu_14",
+   "thema": "muzik",
+   "fr": "türkü",
+   "de": "Volkslied",
+   "register": "tu",
+   "anker": "söylemek",
+   "notiz": "türkü = anonymes Volkslied (von Türk + -ü), şarkı = Lied allgemein. en = am meisten (Superlativ: en güzel). söylenir = wird gesungen (Passiv + Aorist für Gewohnheit).",
+   "audio": "audio/tr-de/wendungen/mu_14.mp3?v=1508fd58",
+   "gloss": "türkü | Volkslied",
+   "satz": {
+    "fr": "Türküler en güzel akşam söylenir.",
+    "de": "Volkslieder singt man am schönsten abends.",
+    "luecke": "Türküler",
+    "gloss": "Türkü·ler en güzel akşam söyle·n·ir. | Volkslied·PL am.meisten schön Abend sagen·PASS·AOR",
+    "audio": "audio/tr-de/saetze/mu_14.mp3?v=69812fd7"
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_15",
+   "thema": "muzik",
+   "fr": "kulak dolgunluğu",
+   "de": "Hörgewohnheit",
+   "register": "tu",
+   "anker": "var",
+   "notiz": "kulak dolgunluğu = das volle Ohr: man hat eine Sprache oft gehört, versteht viel, spricht noch wenig. dolgun = voll, prall; -luk = Abstraktum (dolgunluk, k → ğ vor Vokal).",
+   "audio": "audio/tr-de/wendungen/mu_15.mp3?v=2af881d4",
+   "gloss": "kulak dolgun·luğ·u | Ohr voll·Abstr.·sein",
+   "satz": {
+    "fr": "Kulak dolgunluğu var, kelimeler yavaş geliyor.",
+    "de": "Das Ohr ist voll, die Wörter kommen langsam.",
+    "luecke": "Kulak dolgunluğu",
+    "gloss": "Kulak dolgun·luğ·u var, kelime·ler yavaş gel·iyor. | Ohr voll·Abstr.·sein vorhanden, Wort·PL langsam kommen·PRÄS",
+    "audio": "audio/tr-de/saetze/mu_15.mp3?v=f9926b82"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Kulak dolgunluğu vardı, kelimeler yavaş geliyordu.",
+     "audio": "audio/tr-de/saetze/mu_15_pc.mp3?v=299bf95f"
+    },
+    "fp": {
+     "fr": "Kulak dolgunluğu olacak, kelimeler yavaş gelecek.",
+     "audio": "audio/tr-de/saetze/mu_15_fp.mp3?v=bb14719e"
+    }
+   }
+  },
+  {
+   "id": "mu_16",
+   "thema": "muzik",
+   "fr": "dil öğrenmek",
+   "de": "eine Sprache lernen",
+   "register": "tu",
+   "anker": "öğrenmek",
+   "notiz": "öğrenmek = lernen, öğretmek = lehren (-t- Kausativ), öğretmen = Lehrer, öğrenci = Schüler. her gün = jeden Tag.",
+   "audio": "audio/tr-de/wendungen/mu_16.mp3?v=90d51f1e",
+   "gloss": "dil öğren·mek | Sprache lernen·INF",
+   "satz": {
+    "fr": "Dil öğrenmek müzik gibi, her gün biraz.",
+    "de": "Sprachen lernen ist wie Musik, jeden Tag ein bisschen.",
+    "luecke": "Dil öğrenmek",
+    "gloss": "Dil öğren·mek müzik gibi, her gün biraz. | Sprache lernen·INF Musik wie, jeder Tag ein.bisschen",
+    "audio": "audio/tr-de/saetze/mu_16.mp3?v=dbb1e947"
+   },
+   "zeit": null
+  },
+  {
+   "id": "mu_17",
+   "thema": "muzik",
+   "fr": "ana dili",
+   "de": "Muttersprache",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "ana = Mutter (auch: Haupt-); ana dili = Muttersprache. Sprachen mit -ca/-ce: Almanca, Türkçe, Fransızca. rüya = Traum, rüya görmek = träumen.",
+   "audio": "audio/tr-de/wendungen/mu_17.mp3?v=f78f046b",
+   "gloss": "ana dil·i | Mutter Sprache·sein",
+   "satz": {
+    "fr": "Ana dilim Almanca, rüyalarım hâlâ Almanca.",
+    "de": "Meine Muttersprache ist Deutsch, meine Träume sind noch deutsch.",
+    "luecke": "Ana dilim",
+    "gloss": "Ana dil·im Almanca, rüya·lar·ım hâlâ Almanca. | Mutter Sprache·mein Deutsch, Traum·PL·mein immer.noch Deutsch",
+    "audio": "audio/tr-de/saetze/mu_17.mp3?v=ec55db99"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ana dilim Almancaydı, rüyalarım hâlâ Almancaydı.",
+     "audio": "audio/tr-de/saetze/mu_17_pc.mp3?v=ac88101a"
+    },
+    "fp": {
+     "fr": "Ana dilim Almanca, rüyalarım hâlâ Almanca olacak.",
+     "audio": "audio/tr-de/saetze/mu_17_fp.mp3?v=ddd36a4c"
+    }
+   }
+  },
+  {
+   "id": "mu_18",
+   "thema": "muzik",
+   "fr": "sözcük dağarcığı",
+   "de": "Wortschatz",
+   "register": "tu",
+   "anker": "büyümek",
+   "notiz": "sözcük = Wort (türkisch), kelime = Wort (arabisch): beide gebräuchlich. dağarcık = Beutel, Vorrat; sözcük dağarcığı = Wortschatz. büyümek = wachsen.",
+   "audio": "audio/tr-de/wendungen/mu_18.mp3?v=d6c8513d",
+   "gloss": "sözcük dağarcığ·ı | Wort Speicher·sein",
+   "satz": {
+    "fr": "Sözcük dağarcığım büyüyor, üç kelime bir gün.",
+    "de": "Mein Wortschatz wächst, drei Wörter am Tag.",
+    "luecke": "Sözcük dağarcığım",
+    "gloss": "Sözcük dağarcığ·ım büy·üyor, üç kelime bir gün. | Wort Speicher·mein wachsen·PRÄS, drei Wort ein Tag",
+    "audio": "audio/tr-de/saetze/mu_18.mp3?v=5e34ef8f"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Sözcük dağarcığım büyüdü, üç kelime bir gün.",
+     "audio": "audio/tr-de/saetze/mu_18_pc.mp3?v=0c977454"
+    },
+    "fp": {
+     "fr": "Sözcük dağarcığım büyüyecek, üç kelime bir gün.",
+     "audio": "audio/tr-de/saetze/mu_18_fp.mp3?v=f8d512e9"
+    }
+   }
+  },
+  {
+   "id": "mu_19",
+   "thema": "muzik",
+   "fr": "akıcı konuşmak",
+   "de": "fließend sprechen",
+   "register": "tu",
+   "anker": "konuşmak",
+   "notiz": "akıcı = fließend (akmak = fließen). konuş-acağ-ım: Futur -acak, k → ğ vor Vokal. söz vermek = versprechen (wörtlich: Wort geben).",
+   "audio": "audio/tr-de/wendungen/mu_19.mp3?v=2e353823",
+   "gloss": "akıcı konuş·mak | fließend sprechen·INF",
+   "satz": {
+    "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
+    "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
+    "luecke": "akıcı konuşacağım",
+    "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
+    "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Bir gün akıcı konuştum, Cem haklıydı.",
+     "audio": "audio/tr-de/saetze/mu_19_pc.mp3?v=1c5726cd"
+    },
+    "fp": {
+     "fr": "Bir gün akıcı konuşacağım, Cem söz verecek.",
+     "audio": "audio/tr-de/saetze/mu_19_fp.mp3?v=239e1781"
+    }
+   }
+  },
+  {
+   "id": "mu_20",
+   "thema": "muzik",
+   "fr": "çat pat",
+   "de": "radebrechend",
+   "register": "tu",
+   "anker": "gülümsemek",
+   "notiz": "çat pat = lautmalend: gebrochen, radebrechend (çat pat Türkçe konuşmak). gülümsemek = lächeln (gülmek = lachen).",
+   "audio": "audio/tr-de/wendungen/mu_20.mp3?v=2285d262",
+   "gloss": "çat pat | holprig holprig",
+   "satz": {
+    "fr": "Türkçem çat pat, ama gülümsüyorum.",
+    "de": "Mein Türkisch ist holprig, aber ich lächle.",
+    "luecke": "çat pat",
+    "gloss": "Türkçe·m çat pat, ama gülüms·üyor·um. | Türkisch·mein holprig holprig, aber lächeln·PRÄS·1SG",
+    "audio": "audio/tr-de/saetze/mu_20.mp3?v=4076414f"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Türkçem çat pattı, ama gülümsüyordum.",
+     "audio": "audio/tr-de/saetze/mu_20_pc.mp3?v=e386049c"
+    },
+    "fp": {
+     "fr": "Türkçem çat pat olacak, ama gülümseyeceğim.",
+     "audio": "audio/tr-de/saetze/mu_20_fp.mp3?v=6431eebb"
+    }
+   }
+  },
+  {
+   "id": "mu_21",
+   "thema": "muzik",
+   "fr": "sesli okumak",
+   "de": "laut lesen",
+   "register": "tu",
+   "anker": "okumak",
+   "notiz": "ses = Stimme, Laut; sesli = mit Stimme = laut (lesen); sessiz = still (ohne Stimme). sayfa = Seite.",
+   "audio": "audio/tr-de/wendungen/mu_21.mp3?v=79a8e978",
+   "gloss": "ses·li oku·mak | Stimme·mit lesen·INF",
+   "satz": {
+    "fr": "Her akşam bir sayfa sesli okuyorum.",
+    "de": "Jeden Abend lese ich eine Seite laut.",
+    "luecke": "sesli okuyorum",
+    "gloss": "Her akşam bir sayfa ses·li oku·yor·um. | jeder Abend ein Seite Stimme·mit lesen·PRÄS·1SG",
+    "audio": "audio/tr-de/saetze/mu_21.mp3?v=5fc791a3"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Her akşam bir sayfa sesli okudum.",
+     "audio": "audio/tr-de/saetze/mu_21_pc.mp3?v=a514c5d4"
+    },
+    "fp": {
+     "fr": "Her akşam bir sayfa sesli okuyacağım.",
+     "audio": "audio/tr-de/saetze/mu_21_fp.mp3?v=da4838ed"
+    }
+   }
+  },
+  {
+   "id": "mu_22",
+   "thema": "muzik",
+   "fr": "ses tonu",
+   "de": "Tonfall",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "ses tonu = Tonfall; ton-un = dein (Possessiv 2. Sg. -n). göre = gemäß, nach, für (nachgestellt, mit Dativ): bana göre = meiner Meinung nach.",
+   "audio": "audio/tr-de/wendungen/mu_22.mp3?v=0f05b88c",
+   "gloss": "ses ton·u | Stimme Ton·sein",
+   "satz": {
+    "fr": "Ses tonun yumuşak, Alman öğretmene göre.",
+    "de": "Dein Tonfall ist weich, für einen deutschen Lehrer.",
+    "luecke": "Ses tonun",
+    "gloss": "Ses ton·un yumuşak, Alman öğretmen·e göre. | Stimme Ton·dein weich, deutsch Lehrer·DAT gemäß",
+    "audio": "audio/tr-de/saetze/mu_22.mp3?v=f034c935"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ses tonun yumuşaktı, Alman öğretmene göre.",
+     "audio": "audio/tr-de/saetze/mu_22_pc.mp3?v=d0cf2505"
+    },
+    "fp": {
+     "fr": "Ses tonun yumuşak olacak, Alman öğretmene göre.",
+     "audio": "audio/tr-de/saetze/mu_22_fp.mp3?v=0469eaeb"
+    }
+   }
+  },
+  {
+   "id": "mu_23",
+   "thema": "muzik",
+   "fr": "alıştırma yapmak",
+   "de": "üben",
+   "register": "tu",
+   "anker": "yapmak",
+   "notiz": "alıştırma = Übung (von alışmak = sich gewöhnen); alıştırma yapmak = üben. konuşma = das Sprechen (Verbalnomen -ma).",
+   "audio": "audio/tr-de/wendungen/mu_23.mp3?v=5f97e1b7",
+   "gloss": "alıştırma yap·mak | Übung machen·INF",
+   "satz": {
+    "fr": "Konuşma alıştırması yapıyoruz, kedi dinliyor.",
+    "de": "Wir üben Sprechen, die Katze hört zu.",
+    "luecke": "alıştırması yapıyoruz",
+    "gloss": "Konuşma alıştırma·sı yap·ıyor·uz, kedi dinl·iyor. | Sprechen Übung·sein machen·PRÄS·1PL, Katze hören·PRÄS",
+    "audio": "audio/tr-de/saetze/mu_23.mp3?v=7ef0e6de"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Konuşma alıştırması yaptık, kedi dinledi.",
+     "audio": "audio/tr-de/saetze/mu_23_pc.mp3?v=780c1b3e"
+    },
+    "fp": {
+     "fr": "Konuşma alıştırması yapacağız, kedi dinleyecek.",
+     "audio": "audio/tr-de/saetze/mu_23_fp.mp3?v=f31bc4ef"
+    }
+   }
+  },
+  {
+   "id": "mu_24",
+   "thema": "muzik",
+   "fr": "ezgi",
+   "de": "Melodie",
+   "register": "tu",
+   "anker": "kalmak",
+   "notiz": "ezgi = Melodie (türkisch), melodi = Melodie (Lehnwort). aklımda kalmak = mir im Gedächtnis bleiben. uçmak = fliegen, hier: weg sein.",
+   "audio": "audio/tr-de/wendungen/mu_24.mp3?v=0694cf57",
+   "gloss": "ezgi | Melodie",
+   "satz": {
+    "fr": "Ezgi aklımda kaldı, sözler uçtu.",
+    "de": "Die Melodie ist mir geblieben, der Text ist weg.",
+    "luecke": "Ezgi",
+    "gloss": "Ezgi akl·ım·da kal·dı, söz·ler uç·tu. | Melodie Verstand·mein·LOK bleiben·VERG, Wort·PL fliegen·VERG",
+    "audio": "audio/tr-de/saetze/mu_24.mp3?v=a4df1335"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ezgi aklımda kalmıştı, sözler uçmuştu.",
+     "audio": "audio/tr-de/saetze/mu_24_pc.mp3?v=047f4f67"
+    },
+    "fp": {
+     "fr": "Ezgi aklımda kalacak, sözler uçacak.",
+     "audio": "audio/tr-de/saetze/mu_24_fp.mp3?v=cbf80547"
+    }
+   }
   }
  ],
  "dialoge": [],
@@ -3788,6 +4456,70 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/saetze/ke_24.mp3?v=3d0bd801",
   "audio/tr-de/saetze/ke_24_fp.mp3?v=a7abd8e5",
   "audio/tr-de/saetze/ke_24_pc.mp3?v=65c98eb2",
+  "audio/tr-de/saetze/mu_01.mp3?v=d16368e6",
+  "audio/tr-de/saetze/mu_01_fp.mp3?v=de7201dd",
+  "audio/tr-de/saetze/mu_01_pc.mp3?v=b3659d4a",
+  "audio/tr-de/saetze/mu_02.mp3?v=da547408",
+  "audio/tr-de/saetze/mu_02_fp.mp3?v=e16ab124",
+  "audio/tr-de/saetze/mu_02_pc.mp3?v=7cafea93",
+  "audio/tr-de/saetze/mu_03.mp3?v=e607bda5",
+  "audio/tr-de/saetze/mu_03_fp.mp3?v=ee09dc07",
+  "audio/tr-de/saetze/mu_03_pc.mp3?v=b49766cc",
+  "audio/tr-de/saetze/mu_04.mp3?v=e278a371",
+  "audio/tr-de/saetze/mu_04_fp.mp3?v=166bfe07",
+  "audio/tr-de/saetze/mu_04_pc.mp3?v=2f062f6e",
+  "audio/tr-de/saetze/mu_05.mp3?v=d71d704d",
+  "audio/tr-de/saetze/mu_05_fp.mp3?v=9084d3ab",
+  "audio/tr-de/saetze/mu_05_pc.mp3?v=cb150756",
+  "audio/tr-de/saetze/mu_06.mp3?v=0e0b395f",
+  "audio/tr-de/saetze/mu_07.mp3?v=fa9c0bc4",
+  "audio/tr-de/saetze/mu_07_fp.mp3?v=dc8063b6",
+  "audio/tr-de/saetze/mu_07_pc.mp3?v=0da0483e",
+  "audio/tr-de/saetze/mu_08.mp3?v=efa81459",
+  "audio/tr-de/saetze/mu_09.mp3?v=4426a38e",
+  "audio/tr-de/saetze/mu_09_fp.mp3?v=eff91f22",
+  "audio/tr-de/saetze/mu_09_pc.mp3?v=1a689b10",
+  "audio/tr-de/saetze/mu_10.mp3?v=ea825b20",
+  "audio/tr-de/saetze/mu_10_fp.mp3?v=5e063224",
+  "audio/tr-de/saetze/mu_10_pc.mp3?v=e52c6ca1",
+  "audio/tr-de/saetze/mu_11.mp3?v=c7c375bf",
+  "audio/tr-de/saetze/mu_11_fp.mp3?v=8b3ef51c",
+  "audio/tr-de/saetze/mu_11_pc.mp3?v=bd01ec56",
+  "audio/tr-de/saetze/mu_12.mp3?v=c5a6d25e",
+  "audio/tr-de/saetze/mu_12_fp.mp3?v=253443d5",
+  "audio/tr-de/saetze/mu_12_pc.mp3?v=50580317",
+  "audio/tr-de/saetze/mu_13.mp3?v=77b488b8",
+  "audio/tr-de/saetze/mu_13_fp.mp3?v=4ae164f2",
+  "audio/tr-de/saetze/mu_13_pc.mp3?v=ad09bc3c",
+  "audio/tr-de/saetze/mu_14.mp3?v=69812fd7",
+  "audio/tr-de/saetze/mu_15.mp3?v=f9926b82",
+  "audio/tr-de/saetze/mu_15_fp.mp3?v=bb14719e",
+  "audio/tr-de/saetze/mu_15_pc.mp3?v=299bf95f",
+  "audio/tr-de/saetze/mu_16.mp3?v=dbb1e947",
+  "audio/tr-de/saetze/mu_17.mp3?v=ec55db99",
+  "audio/tr-de/saetze/mu_17_fp.mp3?v=ddd36a4c",
+  "audio/tr-de/saetze/mu_17_pc.mp3?v=ac88101a",
+  "audio/tr-de/saetze/mu_18.mp3?v=5e34ef8f",
+  "audio/tr-de/saetze/mu_18_fp.mp3?v=f8d512e9",
+  "audio/tr-de/saetze/mu_18_pc.mp3?v=0c977454",
+  "audio/tr-de/saetze/mu_19.mp3?v=554e7832",
+  "audio/tr-de/saetze/mu_19_fp.mp3?v=239e1781",
+  "audio/tr-de/saetze/mu_19_pc.mp3?v=1c5726cd",
+  "audio/tr-de/saetze/mu_20.mp3?v=4076414f",
+  "audio/tr-de/saetze/mu_20_fp.mp3?v=6431eebb",
+  "audio/tr-de/saetze/mu_20_pc.mp3?v=e386049c",
+  "audio/tr-de/saetze/mu_21.mp3?v=5fc791a3",
+  "audio/tr-de/saetze/mu_21_fp.mp3?v=da4838ed",
+  "audio/tr-de/saetze/mu_21_pc.mp3?v=a514c5d4",
+  "audio/tr-de/saetze/mu_22.mp3?v=f034c935",
+  "audio/tr-de/saetze/mu_22_fp.mp3?v=0469eaeb",
+  "audio/tr-de/saetze/mu_22_pc.mp3?v=d0cf2505",
+  "audio/tr-de/saetze/mu_23.mp3?v=7ef0e6de",
+  "audio/tr-de/saetze/mu_23_fp.mp3?v=f31bc4ef",
+  "audio/tr-de/saetze/mu_23_pc.mp3?v=780c1b3e",
+  "audio/tr-de/saetze/mu_24.mp3?v=a4df1335",
+  "audio/tr-de/saetze/mu_24_fp.mp3?v=cbf80547",
+  "audio/tr-de/saetze/mu_24_pc.mp3?v=047f4f67",
   "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
   "audio/tr-de/saetze/oa_01_fp.mp3?v=83f6cc1a",
   "audio/tr-de/saetze/oa_01_pc.mp3?v=760d4b0e",
@@ -3910,6 +4642,30 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/wendungen/ke_22.mp3?v=dcb62607",
   "audio/tr-de/wendungen/ke_23.mp3?v=aa827b66",
   "audio/tr-de/wendungen/ke_24.mp3?v=0436e2ff",
+  "audio/tr-de/wendungen/mu_01.mp3?v=7cd7c17a",
+  "audio/tr-de/wendungen/mu_02.mp3?v=71f7a4bb",
+  "audio/tr-de/wendungen/mu_03.mp3?v=55c7567c",
+  "audio/tr-de/wendungen/mu_04.mp3?v=c2cd0f1c",
+  "audio/tr-de/wendungen/mu_05.mp3?v=0615ea3d",
+  "audio/tr-de/wendungen/mu_06.mp3?v=db872a89",
+  "audio/tr-de/wendungen/mu_07.mp3?v=32cf1a2f",
+  "audio/tr-de/wendungen/mu_08.mp3?v=303befa1",
+  "audio/tr-de/wendungen/mu_09.mp3?v=9f73c64d",
+  "audio/tr-de/wendungen/mu_10.mp3?v=b69fc79f",
+  "audio/tr-de/wendungen/mu_11.mp3?v=768726d1",
+  "audio/tr-de/wendungen/mu_12.mp3?v=0ff6b9e6",
+  "audio/tr-de/wendungen/mu_13.mp3?v=07d903cf",
+  "audio/tr-de/wendungen/mu_14.mp3?v=1508fd58",
+  "audio/tr-de/wendungen/mu_15.mp3?v=2af881d4",
+  "audio/tr-de/wendungen/mu_16.mp3?v=90d51f1e",
+  "audio/tr-de/wendungen/mu_17.mp3?v=f78f046b",
+  "audio/tr-de/wendungen/mu_18.mp3?v=d6c8513d",
+  "audio/tr-de/wendungen/mu_19.mp3?v=2e353823",
+  "audio/tr-de/wendungen/mu_20.mp3?v=2285d262",
+  "audio/tr-de/wendungen/mu_21.mp3?v=79a8e978",
+  "audio/tr-de/wendungen/mu_22.mp3?v=0f05b88c",
+  "audio/tr-de/wendungen/mu_23.mp3?v=5f97e1b7",
+  "audio/tr-de/wendungen/mu_24.mp3?v=0694cf57",
   "audio/tr-de/wendungen/oa_01.mp3?v=c5c87e9b",
   "audio/tr-de/wendungen/oa_02.mp3?v=077fb2bd",
   "audio/tr-de/wendungen/oa_03.mp3?v=085068a9",

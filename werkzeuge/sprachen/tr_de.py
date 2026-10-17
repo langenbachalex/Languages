@@ -20,6 +20,7 @@ THEMEN = [
     {"id": "ogretmenler", "name": "Öğretmenler arasında", "de": "Unter Lehrern – mit Cem", "symbol": "🧑‍🏫", "datei": "ogretmenler.tsv"},
     {"id": "duygular", "name": "Duygular ve haller", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "duygular.tsv"},
     {"id": "kediler", "name": "Kediler", "de": "Die Katzen", "symbol": "🐈", "datei": "kediler.tsv"},
+    {"id": "muzik", "name": "Müzik ve dil", "de": "Musik und Sprache", "symbol": "🎵", "datei": "muzik.tsv"},
 ]
 
 # Titel – vom Çay bis zum Baklava
