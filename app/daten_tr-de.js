@@ -4290,8 +4290,8 @@ window.SPRACHEN["tr-de"] = {
     "region": "İstanbul",
     "dep": "34",
     "dep_name": "İstanbul",
-    "x": 107.0,
-    "y": 220.6,
+    "x": 91.3,
+    "y": 460.2,
     "fakt": "Sultanahmet'te Ayasofya ile Sultanahmet Camii karşı karşıya durur; arada bir park, bir çeşme ve bin yıl vardır.",
     "fakt_de": "In Sultanahmet stehen sich die Hagia Sophia und die Blaue Moschee gegenüber; dazwischen ein Park, ein Brunnen und tausend Jahre.",
     "audio": "audio/tr-de/orte/sultanahmet.mp3?v=20a543ad"
@@ -4302,8 +4302,8 @@ window.SPRACHEN["tr-de"] = {
     "region": "İstanbul",
     "dep": "34",
     "dep_name": "İstanbul",
-    "x": 106.7,
-    "y": 220.4,
+    "x": 83.1,
+    "y": 455.2,
     "fakt": "Kapalıçarşı'da dört binden fazla dükkân var. Kaybolmak kolay, pazarlık etmeden çıkmak imkânsız.",
     "fakt_de": "Im Großen Basar gibt es über viertausend Läden. Sich zu verlaufen ist leicht, ohne zu feilschen herauszukommen unmöglich.",
     "audio": "audio/tr-de/orte/kapalicarsi.mp3?v=b96cd680"
@@ -4314,8 +4314,8 @@ window.SPRACHEN["tr-de"] = {
     "region": "İstanbul",
     "dep": "34",
     "dep_name": "İstanbul",
-    "x": 106.9,
-    "y": 219.8,
+    "x": 89.1,
+    "y": 441.5,
     "fakt": "Galata Kulesi'ni Cenevizliler yaptı. Efsaneye göre Hezârfen buradan uçtu, Üsküdar'a indi.",
     "fakt_de": "Den Galataturm bauten die Genuesen. Der Legende nach flog Hezârfen von hier über den Bosporus und landete in Üsküdar.",
     "audio": "audio/tr-de/orte/galata.mp3?v=ca7722b6"
@@ -4326,8 +4326,8 @@ window.SPRACHEN["tr-de"] = {
     "region": "İstanbul",
     "dep": "34",
     "dep_name": "İstanbul",
-    "x": 107.0,
-    "y": 219.5,
+    "x": 92.3,
+    "y": 433.7,
     "fakt": "İstiklal Caddesi'nde kırmızı tramvay hâlâ çalışıyor, simitçiler hâlâ bağırıyor. Taksim'e kadar yürümek bir saat sürer, çünkü her yerde durursun.",
     "fakt_de": "Auf der İstiklal fährt die rote Straßenbahn noch, die Simit-Verkäufer rufen noch. Bis zum Taksim braucht man eine Stunde, weil man überall stehen bleibt.",
     "audio": "audio/tr-de/orte/beyoglu.mp3?v=79b71d12"
@@ -4338,8 +4338,8 @@ window.SPRACHEN["tr-de"] = {
     "region": "İstanbul",
     "dep": "34",
     "dep_name": "İstanbul",
-    "x": 107.9,
-    "y": 219.1,
+    "x": 119.4,
+    "y": 425.4,
     "fakt": "Beşiktaş'ta çarşı, kartal heykeli ve Dolmabahçe Sarayı var. Maç günü bütün ilçe siyah beyaz giyer.",
     "fakt_de": "In Beşiktaş gibt es den Markt, die Adlerstatue und den Dolmabahçe-Palast. Am Spieltag trägt der ganze Bezirk Schwarz-Weiß.",
     "audio": "audio/tr-de/orte/besiktas.mp3?v=32390609"
@@ -4350,8 +4350,8 @@ window.SPRACHEN["tr-de"] = {
     "region": "İstanbul",
     "dep": "34",
     "dep_name": "İstanbul",
-    "x": 108.5,
-    "y": 221.2,
+    "x": 140.7,
+    "y": 475.4,
     "fakt": "Kadıköy Asya yakasında; vapurla on beş dakika. Çarşıda balık, Moda'da çay, her sokakta bir kedi.",
     "fakt_de": "Kadıköy liegt auf der asiatischen Seite, mit der Fähre fünfzehn Minuten. Auf dem Markt Fisch, in Moda Tee, in jeder Gasse eine Katze.",
     "audio": "audio/tr-de/orte/kadikoy.mp3?v=6526aec5"
@@ -4362,8 +4362,8 @@ window.SPRACHEN["tr-de"] = {
     "region": "İstanbul",
     "dep": "34",
     "dep_name": "İstanbul",
-    "x": 108.2,
-    "y": 219.9,
+    "x": 128.2,
+    "y": 441.0,
     "fakt": "Üsküdar'dan Kız Kulesi görünür. Hikâyeye göre bir padişah kızını yılandan korumak için oraya kapattı; yılan bir sepette geldi.",
     "fakt_de": "Von Üsküdar sieht man den Leanderturm. Der Erzählung nach sperrte ein Sultan seine Tochter dort ein, um sie vor einer Schlange zu schützen; die Schlange kam in einem Korb.",
     "audio": "audio/tr-de/orte/uskudar.mp3?v=403e01de"
@@ -4374,8 +4374,8 @@ window.SPRACHEN["tr-de"] = {
     "region": "İstanbul",
     "dep": "34",
     "dep_name": "İstanbul",
-    "x": 111.4,
-    "y": 225.7,
+    "x": 224.3,
+    "y": 580.2,
     "fakt": "Büyükada'da araba yok, bisiklet ve elektrikli araç var. Vapur bir saat sürer, dönüşte herkes uyur.",
     "fakt_de": "Auf Büyükada gibt es keine Autos, nur Fahrräder und Elektrowagen. Die Fähre braucht eine Stunde, auf der Rückfahrt schlafen alle.",
     "audio": "audio/tr-de/orte/adalar.mp3?v=fa6fe775"
@@ -4961,7 +4961,7 @@ window.SPRACHEN["tr-de"] = {
     "nom": "Hatay",
     "region": "Akdeniz"
    },
-   "34": {
+   "34m": {
     "d": "M83.2 199.4 84.1 200.3 88.7 203.1 95.4 205.8 104.9 210.2 107.9 210.9 108.7 211.1 109.8 210.8 110.6 211.1 110.8 212.5 110.4 213.2 109.8 213.9 109.0 214.3 109.4 215.2 109.8 215.9 109.5 216.9 109.3 217.6 108.7 218.7 107.9 219.0 107.3 219.8 107.4 220.5 106.5 220.7 105.8 220.5 105.1 221.1 103.4 221.7 102.8 222.1 101.5 222.3 100.6 221.6 99.8 221.6 96.2 222.1 95.2 221.7 95.5 220.5 94.6 219.9 94.9 219.0 94.5 218.2 93.2 217.4 94.0 218.7 94.2 219.3 94.2 220.3 93.6 221.2 92.7 221.1 91.1 219.5 90.3 219.1 89.3 219.0 87.2 218.2 86.1 218.0 85.0 218.0 84.2 217.4 83.0 217.7 82.3 217.6 81.9 215.4 81.5 212.4 81.9 210.0 82.9 206.8 82.5 204.1 81.7 201.3 83.2 199.4ZM115.5 225.8 114.5 225.6 112.2 224.2 111.5 223.7 110.9 222.9 110.2 222.4 108.6 221.5 108.2 220.7 107.9 219.6 109.1 218.6 109.6 217.8 110.0 216.3 110.4 215.7 109.8 214.8 110.6 213.7 111.7 212.4 112.9 211.6 113.8 211.7 114.8 211.3 120.6 212.3 126.7 213.7 134.9 214.9 134.2 215.2 134.6 216.4 134.7 217.6 133.8 219.7 132.2 220.5 130.2 221.3 128.4 222.5 128.1 223.5 127.6 224.4 126.5 224.5 125.6 223.8 124.6 221.8 123.2 220.6 121.6 220.5 120.2 221.4 118.9 222.7 118.2 223.1 116.6 224.4 115.5 225.8Z",
     "nom": "İstanbul",
     "region": "Marmara"
@@ -5290,6 +5290,22 @@ window.SPRACHEN["tr-de"] = {
     "d": "M441.0 238.2 442.1 244.0 441.8 249.8 440.9 252.1 440.5 253.4 440.3 254.7 441.0 257.4 442.1 259.8 441.0 261.6 439.6 263.0 436.2 263.8 434.5 264.6 432.8 264.8 431.0 264.6 429.1 264.8 427.2 264.6 425.4 263.7 423.6 263.2 423.0 262.6 422.6 262.0 421.4 261.3 420.2 260.8 416.9 258.9 416.0 258.6 415.0 258.5 414.2 258.1 413.3 257.6 413.6 256.3 412.8 255.2 412.5 253.8 412.6 252.4 412.5 251.0 412.5 249.7 413.2 248.9 416.3 247.2 417.2 246.5 417.4 245.0 416.7 244.8 415.9 244.0 415.0 243.3 411.4 242.4 410.5 241.4 410.5 240.0 410.7 238.2 411.0 237.4 412.0 236.5 412.6 235.5 412.2 234.2 412.6 233.2 413.5 232.6 414.4 231.9 415.2 231.7 415.8 231.3 416.1 230.3 419.8 229.9 421.0 230.4 421.7 229.8 422.2 229.1 423.5 229.9 424.0 232.2 426.0 234.3 433.2 237.1 435.0 237.4 435.7 237.2 436.5 235.1 437.4 234.4 439.6 235.8 441.0 238.2Z",
     "nom": "Gümüşhane",
     "region": "Karadeniz"
+   },
+   "34": {
+    "d": "M20.0 488.4 47.9 481.9 66.4 469.0 85.0 466.2 94.3 460.6 100.8 453.2 98.9 447.6 89.6 446.7 77.6 443.0 66.4 437.4 53.4 424.5 43.2 413.3 61.8 418.0 73.9 427.2 81.3 435.6 88.7 445.8 97.1 442.1 103.6 434.7 112.9 428.2 120.3 427.2 131.4 422.6 140.7 418.9 150.0 407.8 153.7 405.0 20.0 405.0ZM165.8 405.0 162.1 417.0 152.8 428.2 140.7 435.6 129.6 439.3 118.4 448.6 116.6 454.1 120.3 459.7 127.7 465.2 135.1 471.7 140.7 479.1 137.0 485.6 150.0 493.0 168.6 500.5 196.4 507.0 233.6 539.4 280.0 557.9 280.0 405.0ZM154.6 544.0 163.9 541.2 166.7 550.5 157.4 553.3ZM168.6 569.0 179.7 565.3 182.5 578.3 171.4 581.1ZM189.9 571.8 203.9 574.6 205.7 587.6 192.7 589.4ZM213.1 574.6 231.7 576.5 241.0 595.0 210.4 595.0Z",
+    "nom": "İstanbul",
+    "region": "Marmara",
+    "rahmen": [
+     20,
+     405,
+     260,
+     190
+    ],
+    "auch": "34m",
+    "von": [
+     108.9,
+     222.3
+    ]
    }
   },
   "karte_info": {

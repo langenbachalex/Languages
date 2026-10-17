@@ -1172,13 +1172,32 @@
     svg.setAttribute("aria-label", KI.name);
     const offen = SP.orte.slice(0, frei), punkte = {};
     const besucht = new Set(offen.map((o) => o.dep));
+    offen.forEach((o) => { const a = SP.karte[o.dep] && SP.karte[o.dep].auch; if (a) besucht.add(a); });   // Einschub: auch das Gebiet auf der Landeskarte
     const gebiete = {};
+    // Einschub (İstanbul): Rahmen, Verbindungslinie zum Ort auf der Landeskarte, Beschriftung – vor den Gebieten, damit das Gebiet darüber liegt
+    Object.entries(SP.karte).forEach(([code, d]) => {
+      if (!d.rahmen) return;
+      const [x, y, w, h] = d.rahmen;
+      if (d.von) {
+        const l = document.createElementNS(NS, "line");
+        l.setAttribute("x1", d.von[0]); l.setAttribute("y1", d.von[1]); l.setAttribute("x2", x + w / 2); l.setAttribute("y2", y); l.setAttribute("class", "f-einschub-linie");
+        svg.append(l);
+      }
+      const r = document.createElementNS(NS, "rect");
+      r.setAttribute("x", x); r.setAttribute("y", y); r.setAttribute("width", w); r.setAttribute("height", h); r.setAttribute("rx", "6"); r.setAttribute("class", "f-einschub");
+      svg.append(r);
+    });
     Object.entries(SP.karte).forEach(([code, d]) => {
       const p = document.createElementNS(NS, "path");
       p.setAttribute("d", d.d); gebiete[code] = p;
       p.setAttribute("class", "f-dep" + (besucht.has(code) ? " offen" : ""));
       const t = document.createElementNS(NS, "title"); t.textContent = `${d.nom} (${code}) · ${d.region}`; p.append(t);
       svg.append(p);
+    });
+    Object.values(SP.karte).forEach((d) => {   // Beschriftung des Einschubs über den Gebieten
+      if (!d.rahmen) return;
+      const t = document.createElementNS(NS, "text");
+      t.setAttribute("x", d.rahmen[0] + 10); t.setAttribute("y", d.rahmen[1] + d.rahmen[3] - 10); t.setAttribute("class", "f-einschub-titel"); t.textContent = d.nom; svg.append(t);
     });
     offen.forEach((o, i) => {
       const g = document.createElementNS(NS, "g");
@@ -1194,6 +1213,8 @@
     function markiere(o) {
       svg.querySelectorAll(".gewaehlt").forEach((x) => x.classList.remove("gewaehlt"));
       if (gebiete[o.dep]) { gebiete[o.dep].classList.add("gewaehlt"); svg.append(gebiete[o.dep]); }   // nach vorn, damit der Rahmen ganz sichtbar ist
+      const auch = SP.karte[o.dep] && SP.karte[o.dep].auch;
+      if (auch && gebiete[auch]) { gebiete[auch].classList.add("gewaehlt"); svg.append(gebiete[auch]); }
       Object.values(punkte).forEach((g) => svg.append(g));   // Punkte bleiben über den Gebieten
       punkte[o.id].classList.add("gewaehlt");
       waehle(o);

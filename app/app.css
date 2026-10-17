@@ -107,13 +107,16 @@
 
 /* Frankreich-Karte: Départements, besuchte farbig; Orte als Punkte (Reise ab Metz) */
 .usa-block { display: grid; gap: 10px; }
-.france-rahmen { width: 100%; border-radius: 12px; background: #dfe8f5; padding: 6px; --zu: #e9edf3; --zu-rand: #ffffff; --auf: #c8d9f5; --auf-rand: #8fb0ff; --punkt: #c8102e; --gewaehlt: #ffe9a8; --gewaehlt-rand: #c8102e; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .france-rahmen { background: #1b2540; --zu: #3a4560; --zu-rand: #1b2540; --auf: #2f4a85; --auf-rand: #7fa6ff; --punkt: #ff6b7a; --gewaehlt: #6b5a1a; --gewaehlt-rand: #ffd23f; } }
-:root[data-theme="dark"] .france-rahmen { background: #1b2540; --zu: #3a4560; --zu-rand: #1b2540; --auf: #2f4a85; --auf-rand: #7fa6ff; --punkt: #ff6b7a; --gewaehlt: #6b5a1a; --gewaehlt-rand: #ffd23f; }
+.france-rahmen { width: 100%; border-radius: 12px; background: #dfe8f5; --meer: #dfe8f5; padding: 6px; --zu: #e9edf3; --zu-rand: #ffffff; --auf: #c8d9f5; --auf-rand: #8fb0ff; --punkt: #c8102e; --gewaehlt: #ffe9a8; --gewaehlt-rand: #c8102e; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .france-rahmen { background: #1b2540; --meer: #1b2540; --zu: #3a4560; --zu-rand: #1b2540; --auf: #2f4a85; --auf-rand: #7fa6ff; --punkt: #ff6b7a; --gewaehlt: #6b5a1a; --gewaehlt-rand: #ffd23f; } }
+:root[data-theme="dark"] .france-rahmen { background: #1b2540; --meer: #1b2540; --zu: #3a4560; --zu-rand: #1b2540; --auf: #2f4a85; --auf-rand: #7fa6ff; --punkt: #ff6b7a; --gewaehlt: #6b5a1a; --gewaehlt-rand: #ffd23f; }
 .france { width: 100%; height: auto; display: block; max-height: 70vh; }
 .france .f-dep { fill: var(--zu); stroke: var(--zu-rand); stroke-width: 1; }
 .france .f-dep.offen { fill: var(--auf); stroke: #ffffff; stroke-width: 1.6; }
 .france .f-dep.gewaehlt { fill: var(--gewaehlt); stroke: var(--gewaehlt-rand); stroke-width: 3; stroke-linejoin: round; }
+.france .f-einschub { fill: var(--meer, #dfe8f5); stroke: var(--auf-rand); stroke-width: 1.5; }
+.france .f-einschub-linie { stroke: var(--auf-rand); stroke-width: 1.2; stroke-dasharray: 4 3; }
+.france .f-einschub-titel { font: 600 15px/1 system-ui, sans-serif; fill: var(--auf-rand); }
 .france .f-ort circle { fill: var(--punkt); stroke: #fff; stroke-width: 2.5; cursor: pointer; }
 .france .f-ort:focus { outline: none; }
 .france .f-ort:focus circle, .france .f-ort:hover circle { stroke: var(--gelb); stroke-width: 3.5; }
