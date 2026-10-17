@@ -47,6 +47,42 @@ window.SPRACHEN["tr-de"] = {
    "Telaffuz ve hikâye",
    "Aussprache und Geschichte"
   ],
+  "grammatik": [
+   "Dil bilgisi",
+   "Grammatik"
+  ],
+  "grammatik_thema": "Bu konunun dil bilgisi",
+  "grammatik_ansage": [
+   "Kural, örnekler, sonra sen.",
+   "Die Regel, die Beispiele, dann du."
+  ],
+  "regel": [
+   "Kural",
+   "Die Regel"
+  ],
+  "beispiele": [
+   "Örnekler – hepsini duydun",
+   "Beispiele – alle schon gehört"
+  ],
+  "kontrast": [
+   "Karşılaştır",
+   "Vergleich"
+  ],
+  "bilde": [
+   "Şekli kur",
+   "Bilde die Form"
+  ],
+  "bilde_ansage": [
+   "Formülü oku, doğru şekli seç.",
+   "Lies die Formel, wähl die richtige Form."
+  ],
+  "hoer": [
+   "Dinle ve seç",
+   "Hör und entscheide"
+  ],
+  "richtig": "Doğru!",
+  "falsch": "Hayır – tekrar dene.",
+  "satz_n": "{n}. cümle",
   "kapitel_zahl": "{frei} / {alle} bölüm · her mükemmel haftada bir yenisi",
   "stand": [
    "Kutunda {n} ifade · {fest} iyice yerleşti · {orte} / {alle} yer gezildi",
@@ -6293,6 +6329,210 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Kaptan gülümsedi. « Çay var. Kedi **canı çekiyor**, sizinki de. Oturun hocam. Hikâye uzun. »",
      "de": "Der Kapitän lächelte. « Es gibt Tee. Die Katze hat Lust darauf, Ihre auch. Setzen Sie sich, Herr Lehrer. Die Geschichte ist lang. »",
      "audio": "audio/tr-de/geschichte/k03_15.mp3?v=cd25bef4"
+    }
+   ]
+  }
+ ],
+ "grammatik": [
+  {
+   "id": "g_spor",
+   "thema": "spor",
+   "titel": "Geniş zaman",
+   "de": "Der Aorist",
+   "regel": [
+    "Der Aorist ist die Zeit ohne Zeitpunkt. Er sagt nicht, dass etwas gerade passiert, sondern dass es grundsätzlich so ist: Gewohnheit, Regel, Sprichwort, Charakter. Deutsch hat dafür keine eigene Form, wir nehmen das Präsens. Türkisch unterscheidet streng: konuşuyor = er spricht gerade; konuşur = er ist einer, der spricht.",
+    "Die Endung: -r nach Vokal (başla-r), -ir/-ır/-ur/-ür nach mehrsilbigem Stamm (göster-ir), -ar/-er nach den meisten einsilbigen (düş-er, kalk-ar). Die Verneinung ist eigen: -mez/-maz ohne r (kaç-maz, görün-mez). Mit -dı dahinter heißt der Aorist « pflegte zu »: açılırdı = öffnete sich immer."
+   ],
+   "morphem": [
+    "AOR"
+   ],
+   "beispiele": [
+    {
+     "fr": "Usta az konuşur, çok gösterir.",
+     "de": "Der Meister spricht wenig, zeigt viel.",
+     "gloss": "Usta az konuş·ur, çok göster·ir. | Meister wenig sprechen·AOR, viel zeigen·AOR",
+     "audio": "audio/tr-de/saetze/sp_05.mp3?v=d6443ff5",
+     "hinweis": "Charakter: so ist ein Meister."
+    },
+    {
+     "fr": "Öğrenci düşer, kalkar, yine düşer.",
+     "de": "Der Schüler fällt, steht auf, fällt wieder.",
+     "gloss": "Öğren·ci düş·er, kalk·ar, yine düş·er. | lernen·Täter fallen·AOR, aufstehen·AOR, wieder fallen·AOR",
+     "audio": "audio/tr-de/saetze/sp_06.mp3?v=8ed6f308",
+     "hinweis": "Sprichwort-Ton: fällt, steht auf, fällt."
+    },
+    {
+     "fr": "Yumruk omuzdan değil, kalçadan gelir.",
+     "de": "Der Faustschlag kommt nicht aus der Schulter, sondern aus der Hüfte.",
+     "gloss": "Yumruk omuz·dan değil, kalça·dan gel·ir. | Faust Schulter·ABL nicht, Hüfte·ABL kommen·AOR",
+     "audio": "audio/tr-de/saetze/sp_08.mp3?v=89968656",
+     "hinweis": "Regel: so kommt ein Faustschlag."
+    },
+    {
+     "fr": "Denge tek ayakta başlar, kafada biter.",
+     "de": "Gleichgewicht beginnt auf einem Fuß und endet im Kopf.",
+     "gloss": "Denge tek ayak·ta başl·ar, kafa·da bit·er. | Gleichgewicht einzig Fuß·LOK beginnen·AOR, Kopf·LOK enden·AOR",
+     "audio": "audio/tr-de/saetze/sp_11.mp3?v=5d3886bf",
+     "hinweis": "Allgemeine Wahrheit."
+    },
+    {
+     "fr": "Yağlı güreş Edirne'de, Kırkpınar'da yapılır.",
+     "de": "Ölringen findet in Edirne statt, in Kırkpınar.",
+     "gloss": "Yağ·lı güreş Edirne·'de, Kırkpınar·'da yap·ıl·ır. | Öl·mit Ringen Edirne·LOK, Kırkpınar·LOK machen·PASS·AOR",
+     "audio": "audio/tr-de/saetze/sp_13.mp3?v=cff5fbf7",
+     "hinweis": "Gewohnheit: jedes Jahr."
+    },
+    {
+     "fr": "Kendine iyi bak, dersler kaçmaz.",
+     "de": "Pass gut auf dich auf, die Stunden laufen nicht weg.",
+     "gloss": "Kendi·ne iyi bak, ders·ler kaç·maz. | selbst·DAT gut schau, Stunde·PL weglaufen·NEG.AOR",
+     "audio": "audio/tr-de/saetze/ye_03.mp3?v=f607861e",
+     "hinweis": "Verneinter Aorist -maz: läuft nicht weg."
+    },
+    {
+     "fr": "« Şaka bu », dedi Cem yüksek sesle. Kedi bir şey demedi. Kediler hiçbir zaman bir şey demez. Güçleri budur.",
+     "de": "« Das ist ein Scherz », sagte Cem laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
+     "gloss": null,
+     "audio": "audio/tr-de/geschichte/k01_10.mp3?v=bdc4b111",
+     "hinweis": "Aus der Geschichte: Katzen sagen nie etwas – demez."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "konuşuyor",
+     "b": "konuşur",
+     "text": "er spricht gerade (Thema 1) – er ist einer, der spricht (Thema 6)"
+    },
+    {
+     "a": "kaçtı",
+     "b": "kaçmaz",
+     "text": "die Katze ist geflohen (Thema 8) – die Stunden laufen nie weg (Thema 7)"
+    },
+    {
+     "a": "açıldı",
+     "b": "açılırdı",
+     "text": "hat sich geöffnet – öffnete sich jedes Mal (Thema 5)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "gel + AOR",
+     "antworten": [
+      "gelir",
+      "geliyor",
+      "geldi"
+     ]
+    },
+    {
+     "formel": "başla + AOR",
+     "antworten": [
+      "başlar",
+      "başlıyor",
+      "başladı"
+     ]
+    },
+    {
+     "formel": "kaç + AOR + NEG",
+     "antworten": [
+      "kaçmaz",
+      "kaçmıyor",
+      "kaçmadı"
+     ]
+    },
+    {
+     "formel": "yap + PASS + AOR",
+     "antworten": [
+      "yapılır",
+      "yapıyor",
+      "yapıldı"
+     ]
+    },
+    {
+     "formel": "görün + AOR + NEG",
+     "antworten": [
+      "görünmez",
+      "görünmüyor",
+      "görünmedi"
+     ]
+    },
+    {
+     "formel": "konuş + AOR",
+     "antworten": [
+      "konuşur",
+      "konuşuyor",
+      "konuştu"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz beschreibt eine Gewohnheit oder Regel, nicht den Moment?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "Her sabah spor yapıyorum, kedi izliyor.",
+       "de": "Jeden Morgen treibe ich Sport, die Katze schaut zu.",
+       "gloss": "Her sabah spor yap·ıyor·um, kedi izl·iyor. | jeder Morgen Sport machen·PRÄS·1SG, Katze zuschauen·PRÄS",
+       "audio": "audio/tr-de/saetze/sp_01.mp3?v=2c1b57b4"
+      },
+      {
+       "fr": "Usta az konuşur, çok gösterir.",
+       "de": "Der Meister spricht wenig, zeigt viel.",
+       "gloss": "Usta az konuş·ur, çok göster·ir. | Meister wenig sprechen·AOR, viel zeigen·AOR",
+       "audio": "audio/tr-de/saetze/sp_05.mp3?v=d6443ff5"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Kedi kutuya girdi, çocuklar kahkaha attı.",
+       "de": "Die Katze ist in die Kiste gestiegen, die Kinder haben schallend gelacht.",
+       "gloss": "Kedi kutu·ya gir·di, çocuk·lar kahkaha at·tı. | Katze Kiste·DAT hineingehen·VERG, Kind·PL Gelächter werfen·VERG",
+       "audio": "audio/tr-de/saetze/co_20.mp3?v=953848f0"
+      },
+      {
+       "fr": "« Şaka bu », dedi Cem yüksek sesle. Kedi bir şey demedi. Kediler hiçbir zaman bir şey demez. Güçleri budur.",
+       "de": "« Das ist ein Scherz », sagte Cem laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
+       "gloss": null,
+       "audio": "audio/tr-de/geschichte/k01_10.mp3?v=bdc4b111"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Denge tek ayakta başlar, kafada biter.",
+       "de": "Gleichgewicht beginnt auf einem Fuß und endet im Kopf.",
+       "gloss": "Denge tek ayak·ta başl·ar, kafa·da bit·er. | Gleichgewicht einzig Fuß·LOK beginnen·AOR, Kopf·LOK enden·AOR",
+       "audio": "audio/tr-de/saetze/sp_11.mp3?v=5d3886bf"
+      },
+      {
+       "fr": "Son dakikada gol attık, mahalle bağırdı.",
+       "de": "In der letzten Minute haben wir ein Tor geschossen, das Viertel hat geschrien.",
+       "gloss": "Son dakika·da gol at·tı·k, mahalle bağır·dı. | letzt Minute·LOK Tor werfen·VERG·1PL, Viertel schreien·VERG",
+       "audio": "audio/tr-de/saetze/sp_15.mp3?v=548567d5"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Akşam yemek pişiriyorum, kedi mutfakta bekliyor.",
+       "de": "Abends koche ich, die Katze wartet in der Küche.",
+       "gloss": "Akşam yemek pişir·iyor·um, kedi mutfak·ta bekl·iyor. | Abend Essen garen·PRÄS·1SG, Katze Küche·LOK warten·PRÄS",
+       "audio": "audio/tr-de/saetze/ye_05.mp3?v=af9e62a1"
+      },
+      {
+       "fr": "Yumruk omuzdan değil, kalçadan gelir.",
+       "de": "Der Faustschlag kommt nicht aus der Schulter, sondern aus der Hüfte.",
+       "gloss": "Yumruk omuz·dan değil, kalça·dan gel·ir. | Faust Schulter·ABL nicht, Hüfte·ABL kommen·AOR",
+       "audio": "audio/tr-de/saetze/sp_08.mp3?v=89968656"
+      }
+     ],
+     "richtig": 1
     }
    ]
   }

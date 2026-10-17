@@ -240,11 +240,12 @@
   const registerSchild = (w) => w.register === "vous" && el("span", { class: "register", title: U.poli_titel }, U.poli);
   const notiz = (w) => w.notiz && el("p", { class: "notiz", lang: D.lang_hilfe }, "💡 ", w.notiz);
   // Interlinear-Glosse (Türkisch): "Wort·PL·AKK … | Wort·PL·AKK …" – je Wort die türkische Zerlegung über dem deutschen Etikett
-  function glosse(g, klasse = "gloss") {
+  function glosse(g, klasse = "gloss", morphem = []) {
     if (!g) return null;
     const [tr, de] = g.split("|").map((x) => x.trim().split(/\s+/));
     if (!de || tr.length !== de.length) return el("p", { class: klasse + " gloss-flach", lang: D.lang }, g.replace("|", " – "));
-    return el("p", { class: klasse, lang: D.lang }, tr.map((t, i) => el("span", { class: "gl" }, el("span", { class: "gl-tr" }, t), el("span", { class: "gl-de", lang: D.lang_hilfe }, de[i]))));
+    const trifft = (label) => morphem.some((m) => label.split(/[·.,;:!?»«]/).includes(m));
+    return el("p", { class: klasse, lang: D.lang }, tr.map((t, i) => el("span", { class: "gl" + (trifft(de[i]) ? " treffer" : "") }, el("span", { class: "gl-tr" }, t), el("span", { class: "gl-de", lang: D.lang_hilfe }, de[i]))));
   }
   // Lücke im Satz: art "voll" | "luecke" | "buchstabe"
   function lueckenSatz(s, art) {
@@ -338,6 +339,8 @@
           el("span", { class: "zahl" }, `${d.zeilen.length} ${U.repliques}`),
           ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
       })),
+      D.grammatik && D.grammatik.length && el("h2", {}, uf("grammatik")),
+      D.grammatik && D.grammatik.length && el("nav", { class: "kacheln themen", "aria-label": U.grammatik[0] }, D.grammatik.map(grammatikKachel)),
       el("h2", {}, uf("bonus")),
       el("nav", { class: "kacheln themen", "aria-label": U.bonus[0] },
         D.geschichte.length ? el("button", { class: "kachel", onclick: () => zeigeKapitel(kapitelFrei()), "aria-label": D.geschichte_info.titel },
@@ -521,7 +524,9 @@
           el("span", { class: "titel", lang: D.lang }, ids.map((id) => WENDUNG[id].fr).slice(0, 3).join(" · ") + (ids.length > 3 ? " …" : "")),
           el("span", { class: "zahl" }, `${ids.length} ${U.expressions}`),
           ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
-      })));
+      })),
+      grammatikVon(tid) && el("h2", {}, U.grammatik_thema),
+      grammatikVon(tid) && el("nav", { class: "kacheln themen" }, grammatikKachel(grammatikVon(tid))));
   }
   function starteGruppe(tid, g) {
     const t = thema(tid), ids = gruppenVon(t)[g];
@@ -715,9 +720,103 @@
     hoeren();
   }
 
+  /* ---------- Dil bilgisi: eine Grammatik-Lektion pro Thema (Türkisch) ----------
+     Regel + Beispiele (schon gehörte Sätze, Morphem in der Glosse hervorgehoben) → Form bilden (Formel, drei Antworten) → hören und entscheiden */
+  const grammatikVon = (tid) => (D.grammatik || []).find((g) => g.thema === tid);
+  function grammatikTeile(g) {
+    return [{ art: "gram_regel", name: U.regel[0], g }, { art: "gram_chips", name: U.bilde[0], g, reihe: g.chips }, { art: "gram_hoeren", name: U.hoer[0], g, reihe: g.hoeren }];
+  }
+  const grammatikFertig = (g) => grammatikTeile(g).every((_, i) => S.teile[`gram:${g.id}|0|${i}`]);
+  function grammatikKachel(g) {
+    const t = thema(g.thema), ok = grammatikFertig(g), n = grammatikTeile(g).filter((_, i) => S.teile[`gram:${g.id}|0|${i}`]).length;
+    return el("button", { class: "kachel" + (ok ? " erledigt" : ""), onclick: () => starteGrammatik(g.id), "aria-label": `${g.titel} – ${g.de}${ok ? " ✓" : ""}` },
+      el("span", { class: "sym", "aria-hidden": "true" }, "📐"),
+      el("span", { class: "titel", lang: D.lang }, g.titel),
+      el("span", { class: "unter", lang: D.lang_hilfe }, `${g.de} · ${t.symbol} ${t.name}`),
+      el("span", { class: "zahl" }, `${n} / ${grammatikTeile(g).length} ${U.parties}`),
+      ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
+  }
+  function starteGrammatik(id) {
+    const g = D.grammatik.find((x) => x.id === id);
+    lage = { thema: "gram:" + id, gruppe: 0, grammatik: g, titel: `📐 ${g.titel}`, teile: grammatikTeile(g), teil: 0, pos: 0, zurueckZu: () => zeigeThema(g.thema) };
+    seance = null;
+    zeigeTeil();
+  }
+  const tonSatz = (q) => q.audio || { text: q.fr };
+  function zeigeGramRegel(teil) {
+    const g = teil.g;
+    const weiter = weiterKnopf();
+    const beispiele = g.beispiele.map((b, i) => {
+      const abspielen = () => spiele([tonSatz(b)]);
+      return el("div", { class: "gram-beispiel" },
+        el("div", { class: "gram-satzzeile" }, el("button", { class: "knopf leise klein-knopf", onclick: abspielen, "aria-label": U.encore_hoeren }, "🔊"),
+          el("p", { class: "satz fr", lang: D.lang }, b.fr)),
+        glosse(b.gloss, "gloss", g.morphem),
+        el("p", { class: "satz de klein", lang: D.lang_hilfe }, b.de),
+        el("p", { class: "notiz", lang: D.lang_hilfe }, "💡 ", b.hinweis));
+    });
+    tasten(() => spiele(g.beispiele.map(tonSatz)), naechstes);
+    zeige(kopf(),
+      ansageU("grammatik_ansage"),
+      el("section", { class: "satzkarte gram" },
+        el("h2", {}, uf("regel")),
+        el("div", { class: "gram-regel", lang: D.lang_hilfe }, g.regel.map((r) => el("p", {}, r)))),
+      el("section", { class: "satzkarte gram" },
+        el("h2", {}, uf("beispiele")), beispiele),
+      g.kontrast.length ? el("section", { class: "satzkarte gram" },
+        el("h2", {}, uf("kontrast")),
+        el("div", { class: "gram-kontrast" }, g.kontrast.map((k) => el("div", { class: "kontrast" },
+          el("span", { class: "k-a", lang: D.lang }, k.a), el("span", { class: "k-pfeil", "aria-hidden": "true" }, "≠"), el("span", { class: "k-b", lang: D.lang }, k.b),
+          el("span", { class: "k-text", lang: D.lang_hilfe }, k.text))))) : null,
+      el("div", { class: "knopfreihe" }, weiter));
+  }
+  function zeigeGramChips(teil) {
+    const c = teil.reihe[lage.pos];
+    const weiter = sperre(weiterKnopf());
+    const meldung = el("p", { class: "gram-meldung", "aria-live": "polite" });
+    const antworten = mischen(c.antworten).map((a) => el("button", { class: "knopf chip", lang: D.lang, onclick: (e) => {
+      if (a === c.antworten[0]) {
+        e.currentTarget.classList.add("richtig"); meldung.textContent = U.richtig; lob(false);
+        antworten.forEach((k) => { k.disabled = true; });
+        gibFrei(weiter, 0.4);
+      } else { e.currentTarget.classList.add("falsch"); e.currentTarget.disabled = true; meldung.textContent = U.falsch; }
+    } }, a));
+    tasten(null, wennFrei(weiter, naechstes));
+    zeige(kopf(),
+      ansageU("bilde_ansage"),
+      karte(`${f(U.phrase, { n: lage.pos + 1, alle: teil.reihe.length })}`,
+        el("p", { class: "gram-formel", lang: D.lang }, c.formel.split("+").flatMap((t, i) => [i > 0 && el("span", { class: "plus" }, "+"), el("span", { class: i === 0 ? "stamm" : "morph" }, t.trim())]).filter(Boolean)),
+        el("div", { class: "knopfreihe chips" }, antworten), meldung,
+        el("div", { class: "knopfreihe" }, weiter)));
+  }
+  function zeigeGramHoeren(teil) {
+    const h = teil.reihe[lage.pos], g = teil.g;
+    const weiter = sperre(weiterKnopf());
+    const meldung = el("p", { class: "gram-meldung", "aria-live": "polite" });
+    const texte = h.saetze.map((q) => el("p", { class: "satz fr", lang: D.lang, hidden: true }, q.fr));
+    const wahl = h.saetze.map((q, i) => el("button", { class: "knopf chip", onclick: (e) => {
+      if (i === h.richtig) {
+        e.currentTarget.classList.add("richtig"); meldung.textContent = U.richtig; lob(false);
+        wahl.forEach((k) => { k.disabled = true; }); texte.forEach((t) => { t.hidden = false; });
+        gibFrei(weiter, 0.4);
+      } else { e.currentTarget.classList.add("falsch"); e.currentTarget.disabled = true; meldung.textContent = U.falsch; }
+    } }, `${i + 1}`));
+    const hoeren = h.saetze.map((q, i) => el("button", { class: "knopf", onclick: () => spiele([tonSatz(q)]) }, `🔊 ${f(U.satz_n, { n: i + 1 })}`));
+    tasten(() => spiele(h.saetze.map(tonSatz)), wennFrei(weiter, naechstes));
+    zeige(kopf(),
+      ansage(U.hoer[0], g.hoeren_frage),
+      karte(`${f(U.phrase, { n: lage.pos + 1, alle: teil.reihe.length })}`,
+        el("div", { class: "knopfreihe" }, hoeren),
+        el("div", { class: "gram-texte" }, texte),
+        el("p", { class: "klein", lang: D.lang_hilfe }, g.hoeren_frage),
+        el("div", { class: "knopfreihe chips" }, wahl), meldung,
+        el("div", { class: "knopfreihe" }, weiter)));
+    spiele(h.saetze.map(tonSatz));
+  }
+
   function kopf() {
     return el("header", { class: "kopf" },
-      knopf(lage.dialog || lage.aussprache ? U.zurueck_accueil : U.zurueck_thema, lage.zurueckZu, "leise"),
+      knopf(lage.dialog || lage.aussprache || lage.grammatik ? U.zurueck_accueil : U.zurueck_thema, lage.zurueckZu, "leise"),
       el("h1", { lang: D.lang }, lage.titel),
       sprungleiste());
   }
@@ -765,10 +864,11 @@
     if (lage.startTeil !== lage.teil) { lage.startTeil = lage.teil; lage.start = Date.now(); }
     const teil = lage.teile[lage.teil];
     ({ lr: zeigeSatz, zeit: zeigeZeitmaschine, abfrage: zeigeAbfrage, dialog: zeigeDialog,
-       nasal_wort: zeigeNasalWort, nasal_beide: zeigeNasalWort, nasal_paar: zeigeNasalPaar })[teil.art](teil);
+       nasal_wort: zeigeNasalWort, nasal_beide: zeigeNasalWort, nasal_paar: zeigeNasalPaar,
+       gram_regel: zeigeGramRegel, gram_chips: zeigeGramChips, gram_hoeren: zeigeGramHoeren })[teil.art](teil);
     navErgaenzen();
   }
-  const laenge = (teil) => (teil.art === "abfrage" && lage.reihe ? lage.reihe.length : teil.art === "dialog" ? 1 : (teil.saetze || teil.woerter || teil.paare || teil.ids).length);
+  const laenge = (teil) => (teil.art === "abfrage" && lage.reihe ? lage.reihe.length : teil.art === "dialog" || teil.art === "gram_regel" ? 1 : (teil.saetze || teil.woerter || teil.paare || teil.ids || teil.reihe).length);
   const SPRECH_MIN = { lr: 2, zeit: 3, nasal_wort: 1.5, nasal_beide: 2 }; // Sekunden pro Satz mindestens – schneller geht nicht ehrlich
   const zuSchnell = (teil) => SPRECH_MIN[teil.art] && lage.start && (Date.now() - lage.start) / 1000 < laenge(teil) * SPRECH_MIN[teil.art];
   function naechstes() {

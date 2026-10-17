@@ -6000,6 +6000,7 @@ window.SPRACHEN["it-de"] = {
    ]
   }
  ],
+ "grammatik": [],
  "geschichte_info": {
   "titel": "Il segreto della Torre",
   "unter": "Chiara Rossi, professoressa a Bologna – un biglietto, una porta che non esiste, un gatto che sa.",

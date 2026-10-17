@@ -115,6 +115,38 @@ def daten_fuer(P):
             geschichte.append({"nr": int(z["kapitel"]), "titel": z["titel"], "absaetze": []})
         aid = f"k{int(z['kapitel']):02d}_{int(z['nr']):02d}"
         geschichte[-1]["absaetze"].append({"id": aid, "fr": z["fr"], "de": z["de"], "audio": audio(f"geschichte/{aid}.mp3")})
+    # Grammatik-Lektionen (Türkisch): eine pro Thema, Beispiele sind bereits aufgenommene Sätze (Wendung, Dialogzeile oder Absatz der Geschichte)
+    def quelle(qid):
+        w = next((w for w in wendungen if w["id"] == qid), None)
+        if w:
+            return {"fr": w["satz"]["fr"], "de": w["satz"]["de"], "gloss": w["satz"]["gloss"], "audio": w["satz"]["audio"]}
+        for d in dialoge:
+            for z in d["zeilen"]:
+                if z["id"] == qid:
+                    return {"fr": z["fr"], "de": z["de"], "gloss": None, "audio": z["audio"]}
+        for k in geschichte:
+            for a in k["absaetze"]:
+                if a["id"] == qid:
+                    return {"fr": a["fr"].replace("**", ""), "de": a["de"], "gloss": None, "audio": a["audio"]}
+        raise KeyError(f"{paar} Grammatik: Satz {qid} unbekannt")
+    grammatik = []
+    for z in (tsv(inhalte, "dilbilgisi.tsv") if os.path.exists(os.path.join(inhalte, "dilbilgisi.tsv")) else []):
+        assert any(t["id"] == z["thema"] for t in themen), f"{paar} Grammatik {z['id']}: Thema {z['thema']} fehlt"
+        beispiele = [dict(quelle(e.split("=", 1)[0]), hinweis=e.split("=", 1)[1]) for e in z["beispiele"].split(";") if e]
+        kontrast = [dict(zip(["a", "b", "text"], k.split("|"))) for k in z["kontrast"].split(";") if k]
+        chips = []
+        for c in z["chips"].split(";"):
+            if not c: continue
+            formel, antworten = c.split("=")
+            chips.append({"formel": formel, "antworten": antworten.split("|")})   # erste Antwort ist richtig
+        hoeren = []
+        for h in z["hoeren"].split(";"):
+            if not h: continue
+            paarung, richtig = h.split("=")
+            hoeren.append({"saetze": [quelle(q) for q in paarung.split(":")], "richtig": int(richtig) - 1})
+        grammatik.append({"id": z["id"], "thema": z["thema"], "titel": z["titel"], "de": z["de"], "regel": z["regel"].split("||"),
+                          "morphem": [m for m in z["morphem"].split(",") if m], "beispiele": beispiele, "kontrast": kontrast,
+                          "chips": chips, "hoeren_frage": z["hoeren_frage"], "hoeren": hoeren})
     lob = {}
     for z in tsv(inhalte, "lob.tsv"):
         lob.setdefault(z["art"], []).append({"text": z["text"], "de": z.get("de", ""), "audio": audio(f"lob/{z['id']}.mp3"), "gruppe": [g for g in z["gruppe"].split(",") if g]})
@@ -135,7 +167,7 @@ def daten_fuer(P):
     return {"paar": paar, "name": P.NAME, "kurz": P.KURZ, "hilfe_kurz": P.HILFE_KURZ, "flagge": P.FLAGGE, "lang": P.LANG, "lang_hilfe": P.LANG_HILFE,
             "sprachausgabe": P.SPRACHAUSGABE, "tempo": getattr(P, "TEMPO", None), "audio_speicher": f"{ausgabe_von(P)['praefix']}-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
             "ui": P.UI, "themen": themen, "wendungen": wendungen, "dialoge": dialoge, "rollen": P.ROLLEN, "dialoge_titel": P.DIALOGE_TITEL,
-            "aussprache": aussprache, "geschichte": geschichte, "geschichte_info": P.GESCHICHTE, "lob": lob,
+            "aussprache": aussprache, "geschichte": geschichte, "grammatik": grammatik, "geschichte_info": P.GESCHICHTE, "lob": lob,
             "pensum": PENSUM, "intervalle": INTERVALLE, "spiel": spiel}
 
 
