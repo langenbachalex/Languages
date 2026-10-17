@@ -31,7 +31,7 @@ def auftraege(P):
         for z in bauen.tsv(inhalte, t["datei"]):
             wid = z["id"]
             liste.append((f"audio/{paar}/wendungen/{wid}.mp3", s(getattr(P, "WENDUNG_KORREKTUR", {}).get(z["wendung"], z["wendung"])), n))
-            liste.append((f"audio/{paar}/saetze/{wid}.mp3", s(z["satz_fr"]), n))
+            liste.append((f"audio/{paar}/saetze/{wid}.mp3", s(getattr(P, "SATZ_KORREKTUR", {}).get(z["satz_fr"], z["satz_fr"])), n))
             if z["passe_compose"]:
                 liste.append((f"audio/{paar}/saetze/{wid}_pc.mp3", s(z["passe_compose"]), n))
                 liste.append((f"audio/{paar}/saetze/{wid}_fp.mp3", s(z["futur_proche"]), n))
