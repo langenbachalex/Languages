@@ -21,6 +21,7 @@ THEMEN = [
     {"id": "duygular", "name": "Duygular ve haller", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "duygular.tsv"},
     {"id": "kediler", "name": "Kediler", "de": "Die Katzen", "symbol": "🐈", "datei": "kediler.tsv"},
     {"id": "muzik", "name": "Müzik ve dil", "de": "Musik und Sprache", "symbol": "🎵", "datei": "muzik.tsv"},
+    {"id": "hikayeler", "name": "Hikâyeler ve fantastik", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "hikayeler.tsv"},
 ]
 
 # Titel – vom Çay bis zum Baklava

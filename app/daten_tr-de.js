@@ -388,6 +388,38 @@ window.SPRACHEN["tr-de"] = {
     "mu_23",
     "mu_24"
    ]
+  },
+  {
+   "id": "hikayeler",
+   "name": "Hikâyeler ve fantastik",
+   "de": "Geschichten und Fantasy",
+   "symbol": "🐉",
+   "wendungen": [
+    "hi_01",
+    "hi_02",
+    "hi_03",
+    "hi_04",
+    "hi_05",
+    "hi_06",
+    "hi_07",
+    "hi_08",
+    "hi_09",
+    "hi_10",
+    "hi_11",
+    "hi_12",
+    "hi_13",
+    "hi_14",
+    "hi_15",
+    "hi_16",
+    "hi_17",
+    "hi_18",
+    "hi_19",
+    "hi_20",
+    "hi_21",
+    "hi_22",
+    "hi_23",
+    "hi_24"
+   ]
   }
  ],
  "wendungen": [
@@ -2970,6 +3002,561 @@ window.SPRACHEN["tr-de"] = {
      "audio": "audio/tr-de/saetze/mu_24_fp.mp3?v=cbf80547"
     }
    }
+  },
+  {
+   "id": "hi_01",
+   "thema": "hikayeler",
+   "fr": "bir varmış bir yokmuş",
+   "de": "es war einmal",
+   "register": "tu",
+   "anker": "var",
+   "notiz": "Märchenanfang: « es gab einen, es gab keinen ». -mış = erschlossene Vergangenheit (Hörensagen), die Erzählform aller Märchen. Boğaz = Bosporus (wörtlich: Kehle, Meerenge).",
+   "audio": "audio/tr-de/wendungen/hi_01.mp3?v=0080b51b",
+   "gloss": "bir var·mış bir yok·muş | ein vorhanden·ERZ ein nicht.da·ERZ",
+   "satz": {
+    "fr": "Bir varmış bir yokmuş, Boğaz'da bir kedi varmış.",
+    "de": "Es war einmal eine Katze am Bosporus.",
+    "luecke": "Bir varmış bir yokmuş",
+    "gloss": "Bir var·mış bir yok·muş, Boğaz·'da bir kedi var·mış. | ein vorhanden·ERZ ein nicht.da·ERZ, Bosporus·LOK ein Katze vorhanden·ERZ",
+    "audio": "audio/tr-de/saetze/hi_01.mp3?v=a39a3b16"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_02",
+   "thema": "hikayeler",
+   "fr": "masal anlatmak",
+   "de": "ein Märchen erzählen",
+   "register": "tu",
+   "anker": "anlatmak",
+   "notiz": "masal = Märchen (arabisch); hikâye = Geschichte, öykü = Erzählung. akşamları = abends (Plural + Akkusativ als Zeitangabe: sabahları, geceleri). Dativ nach anlatmak: çocuklara.",
+   "audio": "audio/tr-de/wendungen/hi_02.mp3?v=295fc1ed",
+   "gloss": "masal anlat·mak | Märchen erzählen·INF",
+   "satz": {
+    "fr": "Akşamları çocuklara masal anlatıyorum, kedi de dinliyor.",
+    "de": "Abends erzähle ich den Kindern Märchen, die Katze hört zu.",
+    "luecke": "masal anlatıyorum",
+    "gloss": "Akşam·lar·ı çocuk·lar·a masal anlat·ıyor·um, kedi de dinl·iyor. | Abend·PL·AKK Kind·PL·DAT Märchen erzählen·PRÄS·1SG, Katze auch hören·PRÄS",
+    "audio": "audio/tr-de/saetze/hi_02.mp3?v=35fde5a5"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Akşamları çocuklara masal anlattım, kedi de dinledi.",
+     "audio": "audio/tr-de/saetze/hi_02_pc.mp3?v=03ec2978"
+    },
+    "fp": {
+     "fr": "Akşamları çocuklara masal anlatacağım, kedi de dinleyecek.",
+     "audio": "audio/tr-de/saetze/hi_02_fp.mp3?v=16b898d9"
+    }
+   }
+  },
+  {
+   "id": "hi_03",
+   "thema": "hikayeler",
+   "fr": "ejderha",
+   "de": "Drache",
+   "register": "tu",
+   "anker": "uyumak",
+   "notiz": "ejderha (persisch) = Drache. uyumak = schlafen: uyu-yor, uyu-du, uyu-yacak. beklemek = warten (ohne Präposition: hazine bekliyor = der Schatz wartet; seni bekliyorum = ich warte auf dich).",
+   "audio": "audio/tr-de/wendungen/hi_03.mp3?v=86890752",
+   "gloss": "ejderha | Drache",
+   "satz": {
+    "fr": "Ejderha uyuyor, hazine bekliyor.",
+    "de": "Der Drache schläft, der Schatz wartet.",
+    "luecke": "Ejderha",
+    "gloss": "Ejderha uy·uyor, hazine bekl·iyor. | Drache schlafen·PRÄS, Schatz warten·PRÄS",
+    "audio": "audio/tr-de/saetze/hi_03.mp3?v=1e7cb7f6"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ejderha uyudu, hazine bekledi.",
+     "audio": "audio/tr-de/saetze/hi_03_pc.mp3?v=32df2942"
+    },
+    "fp": {
+     "fr": "Ejderha uyuyacak, hazine bekleyecek.",
+     "audio": "audio/tr-de/saetze/hi_03_fp.mp3?v=1cade074"
+    }
+   }
+  },
+  {
+   "id": "hi_04",
+   "thema": "hikayeler",
+   "fr": "sihirli",
+   "de": "magisch, Zauber-",
+   "register": "tu",
+   "anker": "açılmak",
+   "notiz": "sihir = Zauber (arabisch), sihirli = magisch (-li = mit), sihirbaz = Zauberer. açılırdı = pflegte sich zu öffnen (Passiv -ıl- + Aorist + -dı: Gewohnheit in der Vergangenheit).",
+   "audio": "audio/tr-de/wendungen/hi_04.mp3?v=d904b1bd",
+   "gloss": "sihir·li | Zauber·mit",
+   "satz": {
+    "fr": "Sihirli bir kapı vardı, sadece gece açılırdı.",
+    "de": "Es gab eine magische Tür, sie öffnete sich nur nachts.",
+    "luecke": "Sihirli",
+    "gloss": "Sihir·li bir kapı var·dı, sadece gece aç·ıl·ır·dı. | Zauber·mit ein Tür vorhanden·VERG, nur Nacht öffnen·PASS·AOR·VERG",
+    "audio": "audio/tr-de/saetze/hi_04.mp3?v=5f5bee68"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_05",
+   "thema": "hikayeler",
+   "fr": "büyü yapmak",
+   "de": "zaubern",
+   "register": "tu",
+   "anker": "yapmak",
+   "notiz": "büyü = Zauber (türkisch; sihir arabisch), büyücü = Zauberer, Hexe (-cü = Täter), büyülü = verzaubert. Nicht verwechseln: büyük = groß, büyümek = wachsen.",
+   "audio": "audio/tr-de/wendungen/hi_05.mp3?v=bf92c4c6",
+   "gloss": "büyü yap·mak | Zauber machen·INF",
+   "satz": {
+    "fr": "Büyücü büyü yaptı, sınıf sessizleşti.",
+    "de": "Der Zauberer zauberte, die Klasse wurde still.",
+    "luecke": "büyü yaptı",
+    "gloss": "Büyü·cü büyü yap·tı, sınıf sessiz·leş·ti. | Zauber·Täter Zauber machen·VERG, Klasse still·werden·VERG",
+    "audio": "audio/tr-de/saetze/hi_05.mp3?v=1fab786e"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Büyücü büyü yapmıştı, sınıf sessizleşmişti.",
+     "audio": "audio/tr-de/saetze/hi_05_pc.mp3?v=4e5f8df5"
+    },
+    "fp": {
+     "fr": "Büyücü büyü yapacak, sınıf sessizleşecek.",
+     "audio": "audio/tr-de/saetze/hi_05_fp.mp3?v=87efa114"
+    }
+   }
+  },
+  {
+   "id": "hi_06",
+   "thema": "hikayeler",
+   "fr": "peri",
+   "de": "Fee",
+   "register": "tu",
+   "anker": "vermek",
+   "notiz": "peri (persisch) = Fee; peribacası = Feenkamin (Kappadokien). dilek = Wunsch, dilemek = wünschen. dördüncü = der vierte (t → d: dört → dördüncü).",
+   "audio": "audio/tr-de/wendungen/hi_06.mp3?v=be734728",
+   "gloss": "peri | Fee",
+   "satz": {
+    "fr": "Peri üç dilek verdi, ben dördüncüyü istedim.",
+    "de": "Die Fee gab drei Wünsche, ich wollte den vierten.",
+    "luecke": "Peri",
+    "gloss": "Peri üç dilek ver·di, ben dörd·üncü·yü iste·di·m. | Fee drei Wunsch geben·VERG, ich vier·ORD·AKK wollen·VERG·1SG",
+    "audio": "audio/tr-de/saetze/hi_06.mp3?v=39c84e32"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Peri üç dilek vermişti, ben dördüncüyü istemiştim.",
+     "audio": "audio/tr-de/saetze/hi_06_pc.mp3?v=2725ce3e"
+    },
+    "fp": {
+     "fr": "Peri üç dilek verecek, ben dördüncüyü isteyeceğim.",
+     "audio": "audio/tr-de/saetze/hi_06_fp.mp3?v=3867c8eb"
+    }
+   }
+  },
+  {
+   "id": "hi_07",
+   "thema": "hikayeler",
+   "fr": "dev",
+   "de": "Riese",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "dev = Riese, auch als Adjektiv: dev bir proje = ein Riesenprojekt. Genitiv + Possessiv: dev-in ayağ-ı. Komparativ mit Ablativ: okulumuzdan büyük = größer als unsere Schule.",
+   "audio": "audio/tr-de/wendungen/hi_07.mp3?v=d534aa00",
+   "gloss": "dev | Riese",
+   "satz": {
+    "fr": "Devin ayağı okulumuzdan büyüktü.",
+    "de": "Der Fuß des Riesen war größer als unsere Schule.",
+    "luecke": "Devin",
+    "gloss": "Dev·in ayağ·ı okul·umuz·dan büyük·tü. | Riese·GEN Fuß·sein Schule·unser·ABL groß·VERG",
+    "audio": "audio/tr-de/saetze/hi_07.mp3?v=d644e48b"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_08",
+   "thema": "hikayeler",
+   "fr": "cüce",
+   "de": "Zwerg",
+   "register": "tu",
+   "anker": "gitmek",
+   "notiz": "cüce = Zwerg. Pamuk Prenses ve Yedi Cüceler = Schneewittchen und die sieben Zwerge. geç kalmak = zu spät kommen (wörtlich: spät bleiben).",
+   "audio": "audio/tr-de/wendungen/hi_08.mp3?v=2f2f4a01",
+   "gloss": "cüce | Zwerg",
+   "satz": {
+    "fr": "Yedi cüce madene gitti, biri geç kaldı.",
+    "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
+    "luecke": "cüce",
+    "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
+    "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Yedi cüce madene gitmişti, biri geç kalmıştı.",
+     "audio": "audio/tr-de/saetze/hi_08_pc.mp3?v=11b6d7c5"
+    },
+    "fp": {
+     "fr": "Yedi cüce madene gidecek, biri geç kalacak.",
+     "audio": "audio/tr-de/saetze/hi_08_fp.mp3?v=38aa9d28"
+    }
+   }
+  },
+  {
+   "id": "hi_09",
+   "thema": "hikayeler",
+   "fr": "kahraman",
+   "de": "Held",
+   "register": "tu",
+   "anker": "gitmek",
+   "notiz": "kahraman (persisch) = Held; kahramanlık = Heldentum; Kahramanmaraş = die Stadt. korkuyordu = er fürchtete sich gerade (Verlaufsform Vergangenheit -iyor-du). yine de = trotzdem.",
+   "audio": "audio/tr-de/wendungen/hi_09.mp3?v=ef048c67",
+   "gloss": "kahraman | Held",
+   "satz": {
+    "fr": "Kahraman korkuyordu, yine de gitti.",
+    "de": "Der Held hatte Angst, er ging trotzdem.",
+    "luecke": "Kahraman",
+    "gloss": "Kahraman kork·uyor·du, yine·de git·ti. | Held fürchten·PRÄS·VERG, trotzdem gehen·VERG",
+    "audio": "audio/tr-de/saetze/hi_09.mp3?v=7c9d110d"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_10",
+   "thema": "hikayeler",
+   "fr": "kılıç",
+   "de": "Schwert",
+   "register": "tu",
+   "anker": "çıkmak",
+   "notiz": "kılıç = Schwert; kılıç kalkan = Schwert und Schild (auch ein Tanz aus Bursa). denemek = versuchen, deneme = Versuch, Essay.",
+   "audio": "audio/tr-de/wendungen/hi_10.mp3?v=0a30eed5",
+   "gloss": "kılıç | Schwert",
+   "satz": {
+    "fr": "Kılıç taştan çıkmadı, çocuk denedi.",
+    "de": "Das Schwert kam nicht aus dem Stein, das Kind hat es versucht.",
+    "luecke": "Kılıç",
+    "gloss": "Kılıç taş·tan çık·ma·dı, çocuk dene·di. | Schwert Stein·ABL herauskommen·NEG·VERG, Kind versuchen·VERG",
+    "audio": "audio/tr-de/saetze/hi_10.mp3?v=454d8a0e"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_11",
+   "thema": "hikayeler",
+   "fr": "kale",
+   "de": "Burg",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "kale = Burg, Festung, auch: Tor im Fußball (kaleci = Torwart). kapalı = geschlossen, açık = offen. kedide = bei der Katze (Lokativ).",
+   "audio": "audio/tr-de/wendungen/hi_11.mp3?v=bcd72483",
+   "gloss": "kale | Burg",
+   "satz": {
+    "fr": "Kalenin kapısı kapalı, anahtar kedide.",
+    "de": "Das Burgtor ist zu, der Schlüssel ist bei der Katze.",
+    "luecke": "Kalenin kapısı",
+    "gloss": "Kale·nin kapı·sı kapalı, anahtar kedi·de. | Burg·GEN Tor·sein geschlossen, Schlüssel Katze·LOK",
+    "audio": "audio/tr-de/saetze/hi_11.mp3?v=b0f7920b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Kalenin kapısı kapalıydı, anahtar kedideydi.",
+     "audio": "audio/tr-de/saetze/hi_11_pc.mp3?v=9d79756b"
+    },
+    "fp": {
+     "fr": "Kalenin kapısı kapalı olacak, anahtar kedide olacak.",
+     "audio": "audio/tr-de/saetze/hi_11_fp.mp3?v=66e4537e"
+    }
+   }
+  },
+  {
+   "id": "hi_12",
+   "thema": "hikayeler",
+   "fr": "hazine",
+   "de": "Schatz",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "hazine = Schatz, auch: Staatskasse (Hazine Bakanlığı). harita = Landkarte. bende = bei mir (Lokativ von ben): wer hat = -de var.",
+   "audio": "audio/tr-de/wendungen/hi_12.mp3?v=411e74e7",
+   "gloss": "hazine | Schatz",
+   "satz": {
+    "fr": "Hazine haritası yırtık, yarısı bende.",
+    "de": "Die Schatzkarte ist zerrissen, die Hälfte habe ich.",
+    "luecke": "Hazine haritası",
+    "gloss": "Hazine harita·sı yırtık, yarı·sı ben·de. | Schatz Karte·sein zerrissen, Hälfte·sein ich·LOK",
+    "audio": "audio/tr-de/saetze/hi_12.mp3?v=8ca594d2"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hazine haritası yırtıktı, yarısı bendeydi.",
+     "audio": "audio/tr-de/saetze/hi_12_pc.mp3?v=efa68b9c"
+    },
+    "fp": {
+     "fr": "Hazine haritası yırtık olacak, yarısı bende olacak.",
+     "audio": "audio/tr-de/saetze/hi_12_fp.mp3?v=2d257f94"
+    }
+   }
+  },
+  {
+   "id": "hi_13",
+   "thema": "hikayeler",
+   "fr": "büyülü orman",
+   "de": "Zauberwald",
+   "register": "tu",
+   "anker": "konuşmak",
+   "notiz": "büyülü = verzaubert (büyü + -lü). konuşur = Aorist: allgemeine Wahrheit (sie sprechen stets). fısıltı = Flüstern, fısıldamak = flüstern; -yla = mit.",
+   "audio": "audio/tr-de/wendungen/hi_13.mp3?v=42ce8dc9",
+   "gloss": "büyü·lü orman | Zauber·mit Wald",
+   "satz": {
+    "fr": "Büyülü ormanda ağaçlar konuşur, ama fısıltıyla.",
+    "de": "Im Zauberwald sprechen die Bäume, aber im Flüsterton.",
+    "luecke": "Büyülü ormanda",
+    "gloss": "Büyü·lü orman·da ağaç·lar konuş·ur, ama fısıltı·yla. | Zauber·mit Wald·LOK Baum·PL sprechen·AOR, aber Flüstern·MIT",
+    "audio": "audio/tr-de/saetze/hi_13.mp3?v=6538a782"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_14",
+   "thema": "hikayeler",
+   "fr": "tılsım",
+   "de": "Talisman, Zauberbann",
+   "register": "tu",
+   "anker": "bozulmak",
+   "notiz": "tılsım (arabisch) = Talisman, Zauber (daher deutsch Talisman). bozulmak = kaputtgehen, hier: gebrochen werden. kurbağa = Frosch; Kurbağa Prens = der Froschkönig.",
+   "audio": "audio/tr-de/wendungen/hi_14.mp3?v=212d11bd",
+   "gloss": "tılsım | Zauberbann",
+   "satz": {
+    "fr": "Tılsım bozuldu, prens yine kurbağa.",
+    "de": "Der Bann ist gebrochen, der Prinz ist wieder ein Frosch.",
+    "luecke": "Tılsım bozuldu",
+    "gloss": "Tılsım bozul·du, prens yine kurbağa. | Zauberbann kaputtgehen·VERG, Prinz wieder Frosch",
+    "audio": "audio/tr-de/saetze/hi_14.mp3?v=a691da49"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Tılsım bozulmuştu, prens yine kurbağaydı.",
+     "audio": "audio/tr-de/saetze/hi_14_pc.mp3?v=2f0ad730"
+    },
+    "fp": {
+     "fr": "Tılsım bozulacak, prens yine kurbağa olacak.",
+     "audio": "audio/tr-de/saetze/hi_14_fp.mp3?v=80dee52f"
+    }
+   }
+  },
+  {
+   "id": "hi_15",
+   "thema": "hikayeler",
+   "fr": "lanet",
+   "de": "Fluch",
+   "register": "tu",
+   "anker": "var",
+   "notiz": "lanet = Fluch; lanet olsun! = verflucht!; lanetlemek = verfluchen. şart = Bedingung; tek = einzig. cuma günü = am Freitag.",
+   "audio": "audio/tr-de/wendungen/hi_15.mp3?v=8293fb1f",
+   "gloss": "lanet | Fluch",
+   "satz": {
+    "fr": "Lanetin tek şartı var: cuma günü yedi saat ders.",
+    "de": "Der Fluch hat eine Bedingung: freitags sieben Stunden Unterricht.",
+    "luecke": "Lanetin",
+    "gloss": "Lanet·in tek şart·ı var: cuma gün·ü yedi saat ders. | Fluch·GEN einzig Bedingung·sein vorhanden: Freitag Tag·sein sieben Stunde Unterricht",
+    "audio": "audio/tr-de/saetze/hi_15.mp3?v=3cb46115"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_16",
+   "thema": "hikayeler",
+   "fr": "Keloğlan",
+   "de": "Keloğlan, der kahle Junge",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "Keloğlan (kel = kahl, oğlan = Junge) ist der türkische Märchenheld: arm, faul, pfiffig, gewinnt am Ende. tembel = faul; kurnaz = schlau, gerissen; sonunda = am Ende.",
+   "audio": "audio/tr-de/wendungen/hi_16.mp3?v=d38b0eac",
+   "gloss": "Kel·oğlan | kahl·Junge",
+   "satz": {
+    "fr": "Keloğlan tembeldi ama kurnazdı, sonunda padişah oldu.",
+    "de": "Keloğlan war faul, aber schlau, am Ende wurde er Padischah.",
+    "luecke": "Keloğlan",
+    "gloss": "Kel·oğlan tembel·di ama kurnaz·dı, son·u·nda padişah ol·du. | kahl·Junge faul·VERG aber schlau·VERG, Ende·sein·LOK Padischah werden·VERG",
+    "audio": "audio/tr-de/saetze/hi_16.mp3?v=03d164dc"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_17",
+   "thema": "hikayeler",
+   "fr": "Nasreddin Hoca",
+   "de": "Nasreddin Hodscha",
+   "register": "tu",
+   "anker": "çalmak",
+   "notiz": "Nasreddin Hoca (13. Jh., Akşehir) ist der Hodscha der Anekdoten. Die berühmteste: er rührt Joghurtferment in den See; auf die Frage, ob das klappt: « Ya tutarsa! » = Und wenn doch! maya çalmak = Ferment einrühren.",
+   "audio": "audio/tr-de/wendungen/hi_17.mp3?v=d750a479",
+   "gloss": "Nasreddin Hoca | Nasreddin Lehrer",
+   "satz": {
+    "fr": "Nasreddin Hoca göle maya çaldı: ya tutarsa!",
+    "de": "Nasreddin Hodscha gab Hefe in den See: Und wenn es klappt!",
+    "luecke": "Nasreddin Hoca",
+    "gloss": "Nasreddin Hoca göl·e maya çal·dı: ya tut·ar·sa! | Nasreddin Lehrer See·DAT Hefe mischen·VERG: und.wenn halten·AOR·KOND",
+    "audio": "audio/tr-de/saetze/hi_17.mp3?v=c6a08a2b"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_18",
+   "thema": "hikayeler",
+   "fr": "gölge",
+   "de": "Schatten",
+   "register": "tu",
+   "anker": "girmek",
+   "notiz": "gölge = Schatten; gölgede = im Schatten; gölge oyunu = Schattenspiel (Karagöz ve Hacivat). benden önce = vor mir (Ablativ + önce).",
+   "audio": "audio/tr-de/wendungen/hi_18.mp3?v=602f0eb6",
+   "gloss": "gölge | Schatten",
+   "satz": {
+    "fr": "Gölgem benden önce eve girdi.",
+    "de": "Mein Schatten ging vor mir ins Haus.",
+    "luecke": "Gölgem",
+    "gloss": "Gölge·m ben·den önce ev·e gir·di. | Schatten·mein ich·ABL vor Haus·DAT hineingehen·VERG",
+    "audio": "audio/tr-de/saetze/hi_18.mp3?v=d8c1f9d2"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Gölgem benden önce eve girmişti.",
+     "audio": "audio/tr-de/saetze/hi_18_pc.mp3?v=6e49dc46"
+    },
+    "fp": {
+     "fr": "Gölgem benden önce eve girecek.",
+     "audio": "audio/tr-de/saetze/hi_18_fp.mp3?v=6633c483"
+    }
+   }
+  },
+  {
+   "id": "hi_19",
+   "thema": "hikayeler",
+   "fr": "görünmez olmak",
+   "de": "unsichtbar werden",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "görünmek = erscheinen, sichtbar sein; görünmez = unsichtbar (verneinter Aorist als Adjektiv). pelerin = Umhang. bayılmak = ohnmächtig werden, umgangssprachlich: begeistert sein (+ Dativ: buna bayıldım).",
+   "audio": "audio/tr-de/wendungen/hi_19.mp3?v=202f2651",
+   "gloss": "görün·mez ol·mak | erscheinen·NEG.AOR sein·INF",
+   "satz": {
+    "fr": "Pelerini giyince görünmez oldu, sınıf buna bayıldı.",
+    "de": "Mit dem Umhang wurde er unsichtbar, die Klasse war begeistert.",
+    "luecke": "görünmez oldu",
+    "gloss": "Pelerin·i giy·ince görün·mez ol·du, sınıf bu·na bayıl·dı. | Umhang·AKK anziehen·SOBALD erscheinen·NEG.AOR sein·VERG, Klasse dies·DAT begeistert.sein·VERG",
+    "audio": "audio/tr-de/saetze/hi_19.mp3?v=9b222dd3"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Pelerini giyince görünmez olmuştu, sınıf buna bayılmıştı.",
+     "audio": "audio/tr-de/saetze/hi_19_pc.mp3?v=41b8641c"
+    },
+    "fp": {
+     "fr": "Pelerini giyince görünmez olacak, sınıf buna bayılacak.",
+     "audio": "audio/tr-de/saetze/hi_19_fp.mp3?v=4e76bd62"
+    }
+   }
+  },
+  {
+   "id": "hi_20",
+   "thema": "hikayeler",
+   "fr": "düş görmek",
+   "de": "träumen",
+   "register": "tu",
+   "anker": "görmek",
+   "notiz": "düş = Traum (türkisch), rüya = Traum (arabisch); düş görmek / rüya görmek = träumen (wörtlich: Traum sehen). içtiğimi = dass ich trank (Partizip -dik + Possessiv + Akkusativ: die türkische Nebensatzbildung).",
+   "audio": "audio/tr-de/wendungen/hi_20.mp3?v=bee2a7d6",
+   "gloss": "düş gör·mek | Traum sehen·INF",
+   "satz": {
+    "fr": "Dün gece ejderhayla çay içtiğimi düş gördüm.",
+    "de": "Letzte Nacht träumte ich, ich hätte mit dem Drachen Tee getrunken.",
+    "luecke": "düş gördüm",
+    "gloss": "Dün gece ejderha·yla çay iç·tiğ·im·i düş gör·dü·m. | gestern Nacht Drache·MIT Tee trinken·DASS·mein·AKK Traum sehen·VERG·1SG",
+    "audio": "audio/tr-de/saetze/hi_20.mp3?v=e890cd32"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_21",
+   "thema": "hikayeler",
+   "fr": "hikâyenin sonu",
+   "de": "Ende der Geschichte",
+   "register": "tu",
+   "anker": "bilmek",
+   "notiz": "Genitivverbindung: hikâye-nin son-u. Dann Akkusativ mit Bindekonsonant n: son-u-nu. bilmek = wissen; söylemek = sagen.",
+   "audio": "audio/tr-de/wendungen/hi_21.mp3?v=ad46eca1",
+   "gloss": "hikâye·nin son·u | Geschichte·GEN Ende·sein",
+   "satz": {
+    "fr": "Hikâyenin sonunu kedi biliyor, söylemiyor.",
+    "de": "Das Ende der Geschichte kennt die Katze, sie sagt es nicht.",
+    "luecke": "Hikâyenin sonunu",
+    "gloss": "Hikâye·nin son·u·nu kedi bil·iyor, söyle·mi·yor. | Geschichte·GEN Ende·sein·AKK Katze wissen·PRÄS, sagen·NEG·PRÄS",
+    "audio": "audio/tr-de/saetze/hi_21.mp3?v=c873381d"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hikâyenin sonunu kedi biliyordu, söylemedi.",
+     "audio": "audio/tr-de/saetze/hi_21_pc.mp3?v=8e9cc1f6"
+    },
+    "fp": {
+     "fr": "Hikâyenin sonunu kedi bilecek, söylemeyecek.",
+     "audio": "audio/tr-de/saetze/hi_21_fp.mp3?v=0cca6511"
+    }
+   }
+  },
+  {
+   "id": "hi_22",
+   "thema": "hikayeler",
+   "fr": "gökten üç elma düşmüş",
+   "de": "drei Äpfel fielen vom Himmel",
+   "register": "tu",
+   "anker": "düşmek",
+   "notiz": "Traditioneller Märchenschluss. -an/-en = Partizip (der, der …): anlatan = der Erzählende, dinleyen = der Zuhörende, jeweils mit Dativ (-a/-e = für). gök = Himmel.",
+   "audio": "audio/tr-de/wendungen/hi_22.mp3?v=b54e3a1c",
+   "gloss": "gök·ten üç elma düş·müş | Himmel·ABL drei Apfel fallen·ERZ",
+   "satz": {
+    "fr": "Gökten üç elma düşmüş: biri anlatana, biri dinleyene, biri kediye.",
+    "de": "Drei Äpfel fielen vom Himmel: einer für den Erzähler, einer für den Zuhörer, einer für die Katze.",
+    "luecke": "Gökten üç elma düşmüş",
+    "gloss": "Gök·ten üç elma düş·müş: biri anlat·an·a, biri dinle·yen·e, biri kedi·ye. | Himmel·ABL drei Apfel fallen·ERZ: einer erzählen·DER·DAT, einer hören·DER·DAT, einer Katze·DAT",
+    "audio": "audio/tr-de/saetze/hi_22.mp3?v=bbf67462"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_23",
+   "thema": "hikayeler",
+   "fr": "kıssadan hisse",
+   "de": "die Moral von der Geschicht'",
+   "register": "tu",
+   "anker": "yapmak",
+   "notiz": "kıssa = Lehrerzählung, hisse = Anteil: « der Anteil aus der Erzählung » = die Lehre, die Moral. zamanında = rechtzeitig (Possessiv + Lokativ). yap = Imperativ 2. Sg. (nackter Stamm).",
+   "audio": "audio/tr-de/wendungen/hi_23.mp3?v=c6178983",
+   "gloss": "kıssa·dan hisse | Erzählung·ABL Anteil",
+   "satz": {
+    "fr": "Kıssadan hisse: ödevi zamanında yap.",
+    "de": "Die Moral: Mach die Hausaufgaben rechtzeitig.",
+    "luecke": "Kıssadan hisse",
+    "gloss": "Kıssa·dan hisse: ödev·i zaman·ı·nda yap. | Erzählung·ABL Anteil: Aufgabe·AKK Zeit·sein·LOK mach",
+    "audio": "audio/tr-de/saetze/hi_23.mp3?v=8fc662c8"
+   },
+   "zeit": null
+  },
+  {
+   "id": "hi_24",
+   "thema": "hikayeler",
+   "fr": "onlar ermiş muradına",
+   "de": "und sie lebten glücklich",
+   "register": "tu",
+   "anker": "ermek",
+   "notiz": "Die klassische Schlussformel: « Sie sind zu ihrem Wunsch gelangt, wir steigen auf ihre Holzbank. » murat = Wunsch, Ziel (murad-ı: t → d). kerevet = Holzliege. Reim ermiş muradına / kerevetine.",
+   "audio": "audio/tr-de/wendungen/hi_24.mp3?v=f7c12430",
+   "gloss": "onlar er·miş murad·ı·na | sie erreichen·ERZ Wunsch·sein·DAT",
+   "satz": {
+    "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
+    "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
+    "luecke": "Onlar ermiş muradına",
+    "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
+    "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af"
+   },
+   "zeit": null
   }
  ],
  "dialoge": [],
@@ -5039,6 +5626,52 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/saetze/du_22_pc.mp3?v=e9c36efe",
   "audio/tr-de/saetze/du_23.mp3?v=f0eb2695",
   "audio/tr-de/saetze/du_24.mp3?v=994b7fd9",
+  "audio/tr-de/saetze/hi_01.mp3?v=a39a3b16",
+  "audio/tr-de/saetze/hi_02.mp3?v=35fde5a5",
+  "audio/tr-de/saetze/hi_02_fp.mp3?v=16b898d9",
+  "audio/tr-de/saetze/hi_02_pc.mp3?v=03ec2978",
+  "audio/tr-de/saetze/hi_03.mp3?v=1e7cb7f6",
+  "audio/tr-de/saetze/hi_03_fp.mp3?v=1cade074",
+  "audio/tr-de/saetze/hi_03_pc.mp3?v=32df2942",
+  "audio/tr-de/saetze/hi_04.mp3?v=5f5bee68",
+  "audio/tr-de/saetze/hi_05.mp3?v=1fab786e",
+  "audio/tr-de/saetze/hi_05_fp.mp3?v=87efa114",
+  "audio/tr-de/saetze/hi_05_pc.mp3?v=4e5f8df5",
+  "audio/tr-de/saetze/hi_06.mp3?v=39c84e32",
+  "audio/tr-de/saetze/hi_06_fp.mp3?v=3867c8eb",
+  "audio/tr-de/saetze/hi_06_pc.mp3?v=2725ce3e",
+  "audio/tr-de/saetze/hi_07.mp3?v=d644e48b",
+  "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd",
+  "audio/tr-de/saetze/hi_08_fp.mp3?v=38aa9d28",
+  "audio/tr-de/saetze/hi_08_pc.mp3?v=11b6d7c5",
+  "audio/tr-de/saetze/hi_09.mp3?v=7c9d110d",
+  "audio/tr-de/saetze/hi_10.mp3?v=454d8a0e",
+  "audio/tr-de/saetze/hi_11.mp3?v=b0f7920b",
+  "audio/tr-de/saetze/hi_11_fp.mp3?v=66e4537e",
+  "audio/tr-de/saetze/hi_11_pc.mp3?v=9d79756b",
+  "audio/tr-de/saetze/hi_12.mp3?v=8ca594d2",
+  "audio/tr-de/saetze/hi_12_fp.mp3?v=2d257f94",
+  "audio/tr-de/saetze/hi_12_pc.mp3?v=efa68b9c",
+  "audio/tr-de/saetze/hi_13.mp3?v=6538a782",
+  "audio/tr-de/saetze/hi_14.mp3?v=a691da49",
+  "audio/tr-de/saetze/hi_14_fp.mp3?v=80dee52f",
+  "audio/tr-de/saetze/hi_14_pc.mp3?v=2f0ad730",
+  "audio/tr-de/saetze/hi_15.mp3?v=3cb46115",
+  "audio/tr-de/saetze/hi_16.mp3?v=03d164dc",
+  "audio/tr-de/saetze/hi_17.mp3?v=c6a08a2b",
+  "audio/tr-de/saetze/hi_18.mp3?v=d8c1f9d2",
+  "audio/tr-de/saetze/hi_18_fp.mp3?v=6633c483",
+  "audio/tr-de/saetze/hi_18_pc.mp3?v=6e49dc46",
+  "audio/tr-de/saetze/hi_19.mp3?v=9b222dd3",
+  "audio/tr-de/saetze/hi_19_fp.mp3?v=4e76bd62",
+  "audio/tr-de/saetze/hi_19_pc.mp3?v=41b8641c",
+  "audio/tr-de/saetze/hi_20.mp3?v=e890cd32",
+  "audio/tr-de/saetze/hi_21.mp3?v=c873381d",
+  "audio/tr-de/saetze/hi_21_fp.mp3?v=0cca6511",
+  "audio/tr-de/saetze/hi_21_pc.mp3?v=8e9cc1f6",
+  "audio/tr-de/saetze/hi_22.mp3?v=bbf67462",
+  "audio/tr-de/saetze/hi_23.mp3?v=8fc662c8",
+  "audio/tr-de/saetze/hi_24.mp3?v=096458af",
   "audio/tr-de/saetze/ke_01.mp3?v=9c4d2011",
   "audio/tr-de/saetze/ke_01_fp.mp3?v=fada4f2f",
   "audio/tr-de/saetze/ke_01_pc.mp3?v=eaf86ea9",
@@ -5269,6 +5902,30 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/wendungen/du_22.mp3?v=1194b30b",
   "audio/tr-de/wendungen/du_23.mp3?v=7d9663ca",
   "audio/tr-de/wendungen/du_24.mp3?v=ac2c4caf",
+  "audio/tr-de/wendungen/hi_01.mp3?v=0080b51b",
+  "audio/tr-de/wendungen/hi_02.mp3?v=295fc1ed",
+  "audio/tr-de/wendungen/hi_03.mp3?v=86890752",
+  "audio/tr-de/wendungen/hi_04.mp3?v=d904b1bd",
+  "audio/tr-de/wendungen/hi_05.mp3?v=bf92c4c6",
+  "audio/tr-de/wendungen/hi_06.mp3?v=be734728",
+  "audio/tr-de/wendungen/hi_07.mp3?v=d534aa00",
+  "audio/tr-de/wendungen/hi_08.mp3?v=2f2f4a01",
+  "audio/tr-de/wendungen/hi_09.mp3?v=ef048c67",
+  "audio/tr-de/wendungen/hi_10.mp3?v=0a30eed5",
+  "audio/tr-de/wendungen/hi_11.mp3?v=bcd72483",
+  "audio/tr-de/wendungen/hi_12.mp3?v=411e74e7",
+  "audio/tr-de/wendungen/hi_13.mp3?v=42ce8dc9",
+  "audio/tr-de/wendungen/hi_14.mp3?v=212d11bd",
+  "audio/tr-de/wendungen/hi_15.mp3?v=8293fb1f",
+  "audio/tr-de/wendungen/hi_16.mp3?v=d38b0eac",
+  "audio/tr-de/wendungen/hi_17.mp3?v=d750a479",
+  "audio/tr-de/wendungen/hi_18.mp3?v=602f0eb6",
+  "audio/tr-de/wendungen/hi_19.mp3?v=202f2651",
+  "audio/tr-de/wendungen/hi_20.mp3?v=bee2a7d6",
+  "audio/tr-de/wendungen/hi_21.mp3?v=ad46eca1",
+  "audio/tr-de/wendungen/hi_22.mp3?v=b54e3a1c",
+  "audio/tr-de/wendungen/hi_23.mp3?v=c6178983",
+  "audio/tr-de/wendungen/hi_24.mp3?v=f7c12430",
   "audio/tr-de/wendungen/ke_01.mp3?v=41976621",
   "audio/tr-de/wendungen/ke_02.mp3?v=d6a2d6c9",
   "audio/tr-de/wendungen/ke_03.mp3?v=5710c480",
