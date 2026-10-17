@@ -907,12 +907,12 @@ window.SPRACHEN["fr-de"] = {
    "register": "tu",
    "anker": "venir",
    "notiz": "la réunion = Besprechung, Sitzung (réunir = zusammenbringen); tu viens ? = Frage nur durch Tonfall – im Gespräch die häufigste Frageform.",
-   "audio": "audio/fr-de/wendungen/ep_17.mp3?v=807bdae9",
+   "audio": "audio/fr-de/wendungen/ep_17.mp3?v=439ee400",
    "satz": {
     "fr": "On a une réunion à seize heures, tu viens ?",
     "de": "Wir haben um 16 Uhr eine Konferenz, kommst du?",
     "luecke": "une réunion",
-    "audio": "audio/fr-de/saetze/ep_17.mp3?v=f59ebede"
+    "audio": "audio/fr-de/saetze/ep_17.mp3?v=7a05f7be"
    },
    "zeit": null
   },
@@ -4626,7 +4626,7 @@ window.SPRACHEN["fr-de"] = {
     "fr": "J'assiste à une réunion. Je n'aide personne. Je suis juste là.",
     "de": "Ich nehme an einer Konferenz teil. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "assiste à",
-    "audio": "audio/fr-de/saetze/fa_03.mp3?v=729052bf"
+    "audio": "audio/fr-de/saetze/fa_03.mp3?v=8c5c3d3f"
    },
    "zeit": {
     "pc": {
@@ -8620,13 +8620,13 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/saetze/ep_16.mp3?v=e020d53b",
   "audio/fr-de/saetze/ep_16_fp.mp3?v=1ebc966d",
   "audio/fr-de/saetze/ep_16_pc.mp3?v=001c8762",
-  "audio/fr-de/saetze/ep_17.mp3?v=f59ebede",
+  "audio/fr-de/saetze/ep_17.mp3?v=7a05f7be",
   "audio/fr-de/saetze/ep_18.mp3?v=c5cb3058",
   "audio/fr-de/saetze/ep_19.mp3?v=0b303202",
   "audio/fr-de/saetze/ep_20.mp3?v=7c2f69d7",
   "audio/fr-de/saetze/fa_01.mp3?v=7f629629",
   "audio/fr-de/saetze/fa_02.mp3?v=87694499",
-  "audio/fr-de/saetze/fa_03.mp3?v=729052bf",
+  "audio/fr-de/saetze/fa_03.mp3?v=8c5c3d3f",
   "audio/fr-de/saetze/fa_03_fp.mp3?v=5c661ff2",
   "audio/fr-de/saetze/fa_03_pc.mp3?v=87466b4f",
   "audio/fr-de/saetze/fa_04.mp3?v=9702c961",
@@ -8970,7 +8970,7 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/wendungen/ep_14.mp3?v=ce93c34d",
   "audio/fr-de/wendungen/ep_15.mp3?v=4cc0cc1e",
   "audio/fr-de/wendungen/ep_16.mp3?v=99c7057d",
-  "audio/fr-de/wendungen/ep_17.mp3?v=807bdae9",
+  "audio/fr-de/wendungen/ep_17.mp3?v=439ee400",
   "audio/fr-de/wendungen/ep_18.mp3?v=a3384119",
   "audio/fr-de/wendungen/ep_19.mp3?v=d87d46da",
   "audio/fr-de/wendungen/ep_20.mp3?v=bd133cd4",
