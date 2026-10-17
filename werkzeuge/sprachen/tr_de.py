@@ -22,6 +22,10 @@ THEMEN = [
     {"id": "kediler", "name": "Kediler", "de": "Die Katzen", "symbol": "🐈", "datei": "kediler.tsv"},
     {"id": "muzik", "name": "Müzik ve dil", "de": "Musik und Sprache", "symbol": "🎵", "datei": "muzik.tsv"},
     {"id": "hikayeler", "name": "Hikâyeler ve fantastik", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "hikayeler.tsv"},
+    {"id": "spor", "name": "Spor ve kung fu", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "spor.tsv"},
+    {"id": "yemek", "name": "Yemek ve sağlık", "de": "Essen und Wohlbefinden", "symbol": "🥙", "datei": "yemek.tsv"},
+    {"id": "cocuklar", "name": "Çocuklar", "de": "Kinder", "symbol": "👶", "datei": "cocuklar.tsv"},
+    {"id": "sahte_dostlar", "name": "Sahte dostlar", "de": "Falsche Freunde", "symbol": "🎭", "datei": "sahte_dostlar.tsv"},
 ]
 
 # Titel – vom Çay bis zum Baklava
