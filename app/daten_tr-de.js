@@ -1,0 +1,1529 @@
+// Automatisch erzeugt von werkzeuge/bauen.py aus werkzeuge/sprachen/tr_de.py – bitte nicht von Hand ändern.
+window.SPRACHEN = window.SPRACHEN || {};
+window.SPRACHEN["tr-de"] = {
+ "paar": "tr-de",
+ "name": "Benim Türkçem",
+ "kurz": "TR",
+ "hilfe_kurz": "DE",
+ "flagge": "🇹🇷",
+ "lang": "tr",
+ "lang_hilfe": "de",
+ "sprachausgabe": "tr-TR",
+ "audio_speicher": "ll-audio-2",
+ "theme": {
+  "blau": "#1a6f7a",
+  "rot": "#c8102e",
+  "rot_text": "#ffffff",
+  "dunkel": {
+   "blau": "#6fd3de",
+   "blau_text": "#07191c",
+   "rot": "#ff7b88",
+   "rot_text": "#1a0608"
+  }
+ },
+ "ui": {
+  "app": "Language Learning",
+  "gruss": [
+   "Merhaba! Başlayalım mı?",
+   "Selam! Hadi bakalım!",
+   "İyi akşamlar! Kısa bir seans?"
+  ],
+  "motto": [
+   "Günde on dakika: önce seans, sonra ne istersen.",
+   "Zehn Minuten am Tag: die Seans, danach was du willst."
+  ],
+  "seance": "▶ Hadi başlayalım!",
+  "seance_fertig": "✓ Bugünlük tamam",
+  "seance_stand": "{neu} yeni · {wdh} tekrar · {fertig} / {gesamt} bitti",
+  "seance_leer": "Bugün tekrar yok – konuları keşfet!",
+  "themen": [
+   "Konular",
+   "Die Themen"
+  ],
+  "expressions": "ifade",
+  "parties": "bölüm",
+  "bonus": [
+   "Telaffuz ve hikâye",
+   "Aussprache und Geschichte"
+  ],
+  "kapitel_zahl": "{frei} / {alle} bölüm · her mükemmel haftada bir yenisi",
+  "stand": [
+   "Kutunda {n} ifade · {fest} iyice yerleşti · {orte} / {alle} yer gezildi",
+   "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"
+  ],
+  "accueil": "Ana sayfa",
+  "zurueck_accueil": "← Ana sayfa",
+  "zurueck_thema": "← Konu",
+  "suivant": "Sonraki ➜",
+  "retour": "◀ Geri",
+  "encore_hoeren": "🔊 Tekrar",
+  "solution": "Çözüm",
+  "hoeren": "🔊 Dinle",
+  "stop": "■ Dur",
+  "jetzt_du": "Sıra sende! Tekrarla.",
+  "jetzt_du_dialog": "Sıra sende! Repliğini söyle.",
+  "poli": "siz · kibar",
+  "poli_titel": "Höflichkeitsform",
+  "trou": "boşluk",
+  "hilfe_zeigen": "Almancasını göster",
+  "seance_titel": "Kelime Salonu",
+  "nouvelle": "yeni",
+  "revision": "tekrar · seviye {s}",
+  "neu_ansage": [
+   "Yeni ifade! Dinle ve tekrarla.",
+   "Neue Wendung! Hör zu und sprich nach."
+  ],
+  "exemple": "Örnek",
+  "ziel_sprache": "Türkçe",
+  "hilfe_sprache": "Deutsch",
+  "wie_sagt_man": [
+   "Türkçesi ne? Yüksek sesle söyle, sonra « Çözüm ».",
+   "Wie sagt man das auf Türkisch? Sag es laut, dann „Çözüm“."
+  ],
+  "je_savais": "😊 Biliyordum",
+  "encore": "🔁 Tekrar",
+  "pas_grave": "Sorun değil! Birazdan yine gelir.",
+  "fini": "Bugünlük bu kadar!",
+  "pause": "Mola!",
+  "fini_text": [
+   "Kutun güncel. Yarın ifadeler tam zamanında geri gelir. Devam etmek istersen konulara bak – baskı yok.",
+   "Dein Kasten ist auf dem neuesten Stand. Morgen kommen die Wendungen zum richtigen Zeitpunkt zurück. Wenn du weitermachen willst: die Themen, ohne Druck."
+  ],
+  "pause_text": [
+   "Seansa istediğin zaman devam edebilirsin – yapılan yapılmış sayılır.",
+   "Du kannst die Seans jederzeit fortsetzen – was gemacht ist, bleibt gemacht."
+  ],
+  "sammlung": "🏆 Koleksiyonum",
+  "etape": "Adım {n}",
+  "zeitmaschine": "⏳ Zaman makinesi",
+  "trouve": "🔎 İfadeyi bul",
+  "thema_ansage": [
+   "Bir bölüm seç. Her bölüm: üç adımda dinle ve tekrarla, zaman makinesi, sonra ifadeleri yeniden bul.",
+   "Wähl einen Teil. Jeder Teil: hören und nachsprechen in drei Stufen, Zeitmaschine, dann die Wendungen wiederfinden."
+  ],
+  "partie": "Bölüm {n}",
+  "dialog_hoeren": "👂 Dinle",
+  "repeter": "Tekrarla",
+  "tu_es": "🎭 Sen {rolle}sin",
+  "role": "Rol",
+  "repliques": "replik",
+  "dialog_start": "▶ Diyaloğu başlat",
+  "dialog_hoeren_knopf": "▶ Diyaloğu dinle",
+  "dialog_ok_rolle": "Rol değiştir – ya da bir kez daha!",
+  "dialog_ok": "Şimdi konuşma sırası sende!",
+  "dialog_ansage_rolle": [
+   "Sen {ich}sin. Sıra sana gelince repliklerini söyle – uygulama {andere} için konuşur.",
+   "Du bist {ich}. Sprich deine Zeilen, wenn du dran bist – die App spricht {andere}."
+  ],
+  "dialog_ansage": [
+   "« {titel} » – {ort}. Diyaloğu dinle.",
+   "„{titel}“ – {ort}. Hör dir den Dialog an."
+  ],
+  "dialog_tipp": [
+   "Daha kolay: repliklerimi göster",
+   "Noch einfacher: meine Zeilen zeigen"
+  ],
+  "chapitre": "Bölüm {n}",
+  "kapitel_ansage": [
+   "Bölümü dinle ya da yüksek sesle oku. Almancası için bir paragrafa dokun.",
+   "Hör das Kapitel, oder lies es laut. Tipp auf einen Absatz für Deutsch."
+  ],
+  "kapitel_alles": "▶ Bütün bölümü dinle",
+  "kapitel_weiter": "Sonraki bölüm ➜",
+  "kapitel_naechste": [
+   "Sonraki bölüm, bir sonraki mükemmel haftanla açılır.",
+   "Das nächste Kapitel kommt mit deiner nächsten perfekten Woche."
+  ],
+  "kapitel_ende": [
+   "Devamı yazılıyor.",
+   "Die Fortsetzung wird gerade geschrieben."
+  ],
+  "pas_debloque": "Henüz açılmadı",
+  "semaine_parfaite": "Mükemmel hafta",
+  "mot": "Kelime {n} / {alle}",
+  "paire": "Çift {n} / {alle}",
+  "lentement": "🐢 Yavaş",
+  "normal": "🔊 Normal",
+  "lr_label": "Dinle ve tekrarla",
+  "parties_label": "Bölümler – doğrudan erişim",
+  "trop_vite": "⏱️ Çok hızlı!",
+  "trop_vite_text": [
+   "Cümleleri gerçekten yüksek sesle söyle. O zaman puan da var. Bir kez daha!",
+   "Sprich die Sätze wirklich laut. Dann gibt es auch Punkte. Noch mal!"
+  ],
+  "encore_fois": "Bir kez daha ➜",
+  "termine": "{name}: bitti!",
+  "presque": [
+   "Az kaldı! Eksik olan:",
+   "Fast! Es fehlt noch:"
+  ],
+  "thema_fertig": "« {name} » konusunun tamamı bitti. Helal olsun!",
+  "autres_parties": "Diğer bölümler",
+  "stufen": [
+   [
+    "Dinle ve tekrarla! Almanca cümle sana yardım eder.",
+    "Hör zu und sprich nach! Der deutsche Satz hilft dir."
+   ],
+   [
+    "Hangi kelime eksik? Bütün cümleyi söyle, sonra « Çözüm ».",
+    "Welches Wort fehlt? Sag den ganzen Satz, dann „Çözüm“."
+   ],
+   [
+    "Cümleyi Türkçe söyle, sonra « Çözüm ».",
+    "Sag den Satz auf Türkisch, dann „Çözüm“."
+   ]
+  ],
+  "dis_phrase": "Bütün cümleyi Türkçe söyle!",
+  "phrase": "Cümle {n} / {alle}",
+  "tipp_buchstabe": [
+   "Daha kolay: ilk harf",
+   "Noch einfacher: erster Buchstabe"
+  ],
+  "tipp_luecke": [
+   "Daha kolay: boşluklu cümle",
+   "Noch einfacher: Satz mit Lücke"
+  ],
+  "zeiten": {
+   "jetzt": [
+    "Bugün",
+    "şimdiki zaman"
+   ],
+   "pc": [
+    "Dün",
+    "geçmiş zaman (-di)",
+    "Ya dün?"
+   ],
+   "fp": [
+    "Yarın",
+    "gelecek zaman (-ecek)",
+    "Ya yarın?"
+   ]
+  },
+  "solution_zeit": "Çözüm: {zeit}",
+  "zeit_ansage": [
+   "Bugünün cümlesini dinle. Sonra dünü ve yarını söyle – yüksek sesle. Ardından « Çözüm ».",
+   "Hör den Satz von heute. Dann sag ihn in der Vergangenheit und in der Zukunft – laut. Danach „Çözüm“."
+  ],
+  "expression": "İfade {n} / {alle}",
+  "bonus_weekend": "🏖️ Hafta sonu bonusu +{p}",
+  "en_feu": "Alev aldın! Üst üste {n} gün",
+  "en_feu_text": "Üst üste {n} okul günü – +{p} puan!",
+  "semaine_parfaite_titel": "Mükemmel hafta!",
+  "semaine_parfaite_text": "Her okul günü çalıştın – +{p} puan.",
+  "nouveau_chapitre": " Yeni bölüm: « {titel} »!",
+  "suite_bientot": " Hikâyenin devamı yakında.",
+  "mois_parfait": "Mükemmel ay!",
+  "mois_parfait_text": "Üst üste {n} mükemmel hafta – +{p} puan ve altın çerçeve!",
+  "nouveau_titre": "Yeni unvan: {name}!",
+  "points": "puan",
+  "jours_suite": "Üst üste okul günü",
+  "visite": "gezildi ✓",
+  "ton_titre": "Unvanın",
+  "encore_points": "« {name} » {symbol} için {n} puan daha",
+  "cette_semaine": "Bu hafta",
+  "tage": [
+   "Pzt",
+   "Sal",
+   "Çar",
+   "Per",
+   "Cum"
+  ],
+  "serie_text": [
+   "🔥 üst üste {n} okul günü · ⭐ {w} mükemmel hafta. Tatiller ve bayramlar sayılmaz – serin devam eder.",
+   "🔥 {n} Schultage am Stück · ⭐ {w} perfekte Wochen. Ferien und Feiertage zählen nicht – deine Serie bleibt."
+  ],
+  "boite": "📦 Kutum ({n} ifade)",
+  "boite_text": [
+   "Seviye 0 = yeni ya da unutulmuş · seviye 3'ten itibaren ifade iyice yerleşmiştir.",
+   "Stufe 0 = neu oder vergessen · ab Stufe 3 sitzt die Wendung."
+  ],
+  "jours": "g",
+  "badges": "Rozetler",
+  "badge_liste": [
+   "Alev aldın",
+   "Mükemmel hafta",
+   "5 × mükemmel",
+   "Mükemmel ay",
+   "Hafta sonu kahramanı",
+   "100 ifade",
+   "50 iyice yerleşmiş"
+  ],
+  "offline": "📥 Çevrimdışı",
+  "offline_text": [
+   "Bağlantısız çalışmak için bu dilin seslerini indir.",
+   "Lade die Audios dieser Sprache, um ohne Verbindung zu üben."
+  ],
+  "offline_stand": "{n} / {alle} ses dosyası çevrimdışı",
+  "offline_laden": "📥 Çevrimdışı için indir",
+  "offline_fertig": "✓ Çevrimdışı kullanılabilir",
+  "bald": "hazırlanıyor",
+  "offline_laeuft": "İndiriliyor… {n} / {alle}"
+ },
+ "themen": [],
+ "wendungen": [],
+ "dialoge": [],
+ "rollen": {
+  "A": "Alex",
+  "B": "Cem"
+ },
+ "dialoge_titel": [
+  "Cem'le diyaloglar",
+  "Dialoge mit Cem"
+ ],
+ "aussprache": {
+  "id": "",
+  "symbol": "",
+  "titel": "",
+  "unter": "",
+  "info": {},
+  "reihe": [],
+  "paare_gruppen": [],
+  "beide_name": "",
+  "texte": {},
+  "klaenge": {},
+  "paare": [],
+  "beide": []
+ },
+ "geschichte": [],
+ "geschichte_info": {
+  "titel": "Boğaz'ın sırrı",
+  "unter": "İstanbul'da bir öğretmen, bir vapur bileti ve her şeyi bilen bir kedi.",
+  "sammlung": [
+   "Her mükemmel hafta bir bölüm açar: İstanbul'da bir öğretmen ve Boğaz'ın sırrı.",
+   "Jede perfekte Woche schaltet ein Kapitel frei: ein Lehrer in Istanbul und das Geheimnis des Bosporus."
+  ]
+ },
+ "lob": {
+  "lob": [
+   {
+    "text": "Harika!",
+    "de": "Wunderbar!",
+    "audio": null,
+    "gruppe": [
+     "harika"
+    ]
+   },
+   {
+    "text": "Aferin!",
+    "de": "Gut gemacht!",
+    "audio": null,
+    "gruppe": [
+     "aferin"
+    ]
+   },
+   {
+    "text": "Süper!",
+    "de": "Super!",
+    "audio": null,
+    "gruppe": [
+     "super"
+    ]
+   },
+   {
+    "text": "Mükemmel!",
+    "de": "Perfekt!",
+    "audio": null,
+    "gruppe": [
+     "mukemmel"
+    ]
+   },
+   {
+    "text": "Tam isabet!",
+    "de": "Volltreffer!",
+    "audio": null,
+    "gruppe": [
+     "isabet"
+    ]
+   },
+   {
+    "text": "Helal olsun!",
+    "de": "Alle Achtung!",
+    "audio": null,
+    "gruppe": [
+     "helal"
+    ]
+   },
+   {
+    "text": "Çok iyi!",
+    "de": "Sehr gut!",
+    "audio": null,
+    "gruppe": [
+     "iyi"
+    ]
+   },
+   {
+    "text": "Aynen öyle!",
+    "de": "Ganz genau!",
+    "audio": null,
+    "gruppe": [
+     "aynen"
+    ]
+   },
+   {
+    "text": "Kesinlikle!",
+    "de": "Absolut!",
+    "audio": null,
+    "gruppe": [
+     "kesin"
+    ]
+   },
+   {
+    "text": "Doğru!",
+    "de": "Richtig!",
+    "audio": null,
+    "gruppe": [
+     "dogru"
+    ]
+   },
+   {
+    "text": "Tamamdır!",
+    "de": "Passt!",
+    "audio": null,
+    "gruppe": [
+     "tamam"
+    ]
+   },
+   {
+    "text": "Ellerine sağlık!",
+    "de": "Gut gemacht (wörtlich: Gesundheit deinen Händen)!",
+    "audio": null,
+    "gruppe": [
+     "saglik"
+    ]
+   },
+   {
+    "text": "Ağzına sağlık!",
+    "de": "Gut gesagt (wörtlich: Gesundheit deinem Mund)!",
+    "audio": null,
+    "gruppe": [
+     "saglik"
+    ]
+   },
+   {
+    "text": "Yaşasın!",
+    "de": "Hurra!",
+    "audio": null,
+    "gruppe": [
+     "yasasin"
+    ]
+   },
+   {
+    "text": "Vay be!",
+    "de": "Wow!",
+    "audio": null,
+    "gruppe": [
+     "vay"
+    ]
+   },
+   {
+    "text": "Müthiş!",
+    "de": "Großartig!",
+    "audio": null,
+    "gruppe": [
+     "muthis"
+    ]
+   },
+   {
+    "text": "Efsane!",
+    "de": "Legendär!",
+    "audio": null,
+    "gruppe": [
+     "efsane"
+    ]
+   },
+   {
+    "text": "İşte bu!",
+    "de": "Das ist es!",
+    "audio": null,
+    "gruppe": [
+     "iste"
+    ]
+   },
+   {
+    "text": "Tam üstüne bastın!",
+    "de": "Genau getroffen!",
+    "audio": null,
+    "gruppe": [
+     "isabet"
+    ]
+   },
+   {
+    "text": "Bu kadar olur!",
+    "de": "Besser geht's nicht!",
+    "audio": null,
+    "gruppe": [
+     "bukadar"
+    ]
+   },
+   {
+    "text": "Hiç fena değil!",
+    "de": "Gar nicht übel!",
+    "audio": null,
+    "gruppe": [
+     "fena"
+    ]
+   },
+   {
+    "text": "Güzel!",
+    "de": "Schön!",
+    "audio": null,
+    "gruppe": [
+     "guzel"
+    ]
+   },
+   {
+    "text": "Çok güzel!",
+    "de": "Sehr schön!",
+    "audio": null,
+    "gruppe": [
+     "guzel"
+    ]
+   },
+   {
+    "text": "Tebrikler!",
+    "de": "Glückwunsch!",
+    "audio": null,
+    "gruppe": [
+     "tebrik"
+    ]
+   },
+   {
+    "text": "Böyle devam!",
+    "de": "Weiter so!",
+    "audio": null,
+    "gruppe": [
+     "devam"
+    ]
+   },
+   {
+    "text": "Bir puan daha!",
+    "de": "Noch ein Punkt!",
+    "audio": null,
+    "gruppe": [
+     "puan"
+    ]
+   },
+   {
+    "text": "Harikasın!",
+    "de": "Du bist wunderbar!",
+    "audio": null,
+    "gruppe": [
+     "harika"
+    ]
+   },
+   {
+    "text": "Usta!",
+    "de": "Meister!",
+    "audio": null,
+    "gruppe": [
+     "usta"
+    ]
+   },
+   {
+    "text": "Şampiyon!",
+    "de": "Champion!",
+    "audio": null,
+    "gruppe": [
+     "sampiyon"
+    ]
+   },
+   {
+    "text": "İlk denemede!",
+    "de": "Beim ersten Versuch!",
+    "audio": null,
+    "gruppe": [
+     "ilk"
+    ]
+   },
+   {
+    "text": "Hatasız!",
+    "de": "Fehlerfrei!",
+    "audio": null,
+    "gruppe": [
+     "hatasiz"
+    ]
+   },
+   {
+    "text": "Ne güzel bir aksan!",
+    "de": "Was für ein schöner Akzent!",
+    "audio": null,
+    "gruppe": [
+     "aksan"
+    ]
+   },
+   {
+    "text": "İstanbullu gibi!",
+    "de": "Wie ein Istanbuler!",
+    "audio": null,
+    "gruppe": [
+     "istanbul"
+    ]
+   },
+   {
+    "text": "Kulağın var!",
+    "de": "Du hast ein gutes Ohr!",
+    "audio": null,
+    "gruppe": [
+     "kulak"
+    ]
+   },
+   {
+    "text": "Kulağa çok hoş geliyor!",
+    "de": "Das klingt sehr gut!",
+    "audio": null,
+    "gruppe": [
+     "kulak"
+    ]
+   },
+   {
+    "text": "Bayıldım!",
+    "de": "Ich bin begeistert!",
+    "audio": null,
+    "gruppe": [
+     "bayildim"
+    ]
+   },
+   {
+    "text": "Gelişiyorsun!",
+    "de": "Du machst Fortschritte!",
+    "audio": null,
+    "gruppe": [
+     "gelis"
+    ]
+   },
+   {
+    "text": "İşte Türkçe bu!",
+    "de": "Das ist Türkisch!",
+    "audio": null,
+    "gruppe": [
+     "turkce"
+    ]
+   },
+   {
+    "text": "Evet!",
+    "de": "Ja!",
+    "audio": null,
+    "gruppe": [
+     "evet"
+    ]
+   },
+   {
+    "text": "Tastamam!",
+    "de": "Haargenau!",
+    "audio": null,
+    "gruppe": [
+     "tamam"
+    ]
+   },
+   {
+    "text": "Cuk oturdu!",
+    "de": "Passt wie angegossen!",
+    "audio": null,
+    "gruppe": [
+     "oturdu"
+    ]
+   },
+   {
+    "text": "Çok iyi, öğretmenim!",
+    "de": "Sehr gut, Herr Lehrer!",
+    "audio": null,
+    "gruppe": [
+     "ogretmen"
+    ]
+   },
+   {
+    "text": "Nokta atışı!",
+    "de": "Punktgenau!",
+    "audio": null,
+    "gruppe": [
+     "isabet"
+    ]
+   },
+   {
+    "text": "İyi dedin!",
+    "de": "Gut gesagt!",
+    "audio": null,
+    "gruppe": [
+     "dedin"
+    ]
+   },
+   {
+    "text": "Olmuş!",
+    "de": "Sitzt!",
+    "audio": null,
+    "gruppe": [
+     "olmus"
+    ]
+   },
+   {
+    "text": "Kusursuz!",
+    "de": "Makellos!",
+    "audio": null,
+    "gruppe": [
+     "hatasiz"
+    ]
+   },
+   {
+    "text": "Bravo!",
+    "de": "Bravo!",
+    "audio": null,
+    "gruppe": [
+     "bravo"
+    ]
+   },
+   {
+    "text": "Ne güzel!",
+    "de": "Wie schön!",
+    "audio": null,
+    "gruppe": [
+     "guzel"
+    ]
+   },
+   {
+    "text": "Tam böyle!",
+    "de": "Genau so!",
+    "audio": null,
+    "gruppe": [
+     "aynen"
+    ]
+   },
+   {
+    "text": "İşte böyle!",
+    "de": "So geht's!",
+    "audio": null,
+    "gruppe": [
+     "iste"
+    ]
+   },
+   {
+    "text": "Şahane!",
+    "de": "Prächtig!",
+    "audio": null,
+    "gruppe": [
+     "sahane"
+    ]
+   },
+   {
+    "text": "Dört dörtlük!",
+    "de": "Erstklassig (wörtlich: vier von vier)!",
+    "audio": null,
+    "gruppe": [
+     "dort"
+    ]
+   },
+   {
+    "text": "On numara!",
+    "de": "Zehn von zehn!",
+    "audio": null,
+    "gruppe": [
+     "on"
+    ]
+   },
+   {
+    "text": "Devam et!",
+    "de": "Mach weiter!",
+    "audio": null,
+    "gruppe": [
+     "devam"
+    ]
+   }
+  ],
+  "stark": [
+   {
+    "text": "Aferin, şampiyon!",
+    "de": "Bravo, Champion!",
+    "audio": null,
+    "gruppe": [
+     "sampiyon"
+    ]
+   },
+   {
+    "text": "İnanılmaz! Seri gidiyorsun!",
+    "de": "Unglaublich! Du bist in Serie!",
+    "audio": null,
+    "gruppe": [
+     "seri"
+    ]
+   },
+   {
+    "text": "Seninle gurur duyuyorum!",
+    "de": "Ich bin stolz auf dich!",
+    "audio": null,
+    "gruppe": [
+     "gurur"
+    ]
+   },
+   {
+    "text": "Muhteşem! Böyle devam!",
+    "de": "Großartig! Weiter so!",
+    "audio": null,
+    "gruppe": [
+     "devam"
+    ]
+   },
+   {
+    "text": "Tam bir makine!",
+    "de": "Was für eine Maschine!",
+    "audio": null,
+    "gruppe": [
+     "makine"
+    ]
+   },
+   {
+    "text": "Sen bir yıldızsın!",
+    "de": "Du bist ein Star!",
+    "audio": null,
+    "gruppe": [
+     "yildiz"
+    ]
+   },
+   {
+    "text": "Çok etkileyici!",
+    "de": "Beeindruckend!",
+    "audio": null,
+    "gruppe": [
+     "etkileyici"
+    ]
+   },
+   {
+    "text": "Kolay gösteriyorsun!",
+    "de": "Du lässt es leicht aussehen!",
+    "audio": null,
+    "gruppe": [
+     "kolay"
+    ]
+   },
+   {
+    "text": "Tam da bunu duymak istiyordum!",
+    "de": "Genau das wollte ich hören!",
+    "audio": null,
+    "gruppe": [
+     "duymak"
+    ]
+   },
+   {
+    "text": "Bugün uçuyorsun!",
+    "de": "Heute fliegst du!",
+    "audio": null,
+    "gruppe": [
+     "ucmak"
+    ]
+   },
+   {
+    "text": "On ikiden vurdun!",
+    "de": "Voll ins Schwarze!",
+    "audio": null,
+    "gruppe": [
+     "isabet"
+    ]
+   },
+   {
+    "text": "Ne performans ama!",
+    "de": "Was für eine Leistung!",
+    "audio": null,
+    "gruppe": [
+     "performans"
+    ]
+   },
+   {
+    "text": "Ortalığı dağıttın!",
+    "de": "Du hast abgeräumt!",
+    "audio": null,
+    "gruppe": [
+     "dagittin"
+    ]
+   },
+   {
+    "text": "Ne seviye ama!",
+    "de": "Was für ein Niveau!",
+    "audio": null,
+    "gruppe": [
+     "seviye"
+    ]
+   }
+  ],
+  "fehler": [
+   {
+    "text": "Az kaldı!",
+    "de": "Fast!",
+    "audio": null,
+    "gruppe": [
+     "az"
+    ]
+   },
+   {
+    "text": "Tam değil.",
+    "de": "Nicht ganz.",
+    "audio": null,
+    "gruppe": [
+     "tam"
+    ]
+   },
+   {
+    "text": "Bir deneme daha!",
+    "de": "Noch ein Versuch!",
+    "audio": null,
+    "gruppe": [
+     "daha"
+    ]
+   },
+   {
+    "text": "Sorun değil!",
+    "de": "Macht nichts!",
+    "audio": null,
+    "gruppe": [
+     "sorun"
+    ]
+   },
+   {
+    "text": "Eyvah!",
+    "de": "Oh je!",
+    "audio": null,
+    "gruppe": [
+     "eyvah"
+    ]
+   },
+   {
+    "text": "Hmm…",
+    "de": "Hmm…",
+    "audio": null,
+    "gruppe": [
+     "hmm"
+    ]
+   },
+   {
+    "text": "Yakındı!",
+    "de": "Knapp daneben!",
+    "audio": null,
+    "gruppe": [
+     "yakin"
+    ]
+   },
+   {
+    "text": "Az kaldı, az!",
+    "de": "Fast, fast!",
+    "audio": null,
+    "gruppe": [
+     "az"
+    ]
+   },
+   {
+    "text": "Bu sefer olmadı!",
+    "de": "Diesmal nicht!",
+    "audio": null,
+    "gruppe": [
+     "sefer"
+    ]
+   },
+   {
+    "text": "Sorun değil, baştan alalım!",
+    "de": "Macht nichts, noch mal von vorn!",
+    "audio": null,
+    "gruppe": [
+     "bastan"
+    ]
+   }
+  ],
+  "geschafft": [
+   {
+    "text": "Bugünlük bitti! Helal olsun!",
+    "de": "Schluss für heute! Alle Achtung!",
+    "audio": null,
+    "gruppe": [
+     "fertig"
+    ]
+   },
+   {
+    "text": "Aferin, hepsini bitirdin! Yarın görüşürüz!",
+    "de": "Bravo, du hast alles geschafft! Bis morgen!",
+    "audio": null,
+    "gruppe": [
+     "fertig"
+    ]
+   },
+   {
+    "text": "Kendinle gurur duyabilirsin. Yarın görüşürüz!",
+    "de": "Du kannst stolz auf dich sein. Bis morgen!",
+    "audio": null,
+    "gruppe": [
+     "fertig"
+    ]
+   }
+  ],
+  "voll": [
+   {
+    "text": "Hatasız! Harika!",
+    "de": "Fehlerfrei! Wunderbar!",
+    "audio": null,
+    "gruppe": [
+     "voll"
+    ]
+   }
+  ],
+  "doch": [
+   {
+    "text": "Gördün mü? Yapabiliyorsun!",
+    "de": "Siehst du? Du schaffst es!",
+    "audio": null,
+    "gruppe": [
+     "doch"
+    ]
+   }
+  ]
+ },
+ "pensum": {
+  "neu": 3,
+  "wiederholung": 8
+ },
+ "intervalle": [
+  1,
+  3,
+  7,
+  14,
+  30,
+  60,
+  120
+ ],
+ "spiel": {
+  "orte": [],
+  "karte": {
+   "75": {
+    "d": "M528.0 197.5 532.3 197.9 532.9 198.2 532.6 198.9 532.4 199.7 531.5 200.5 532.1 201.3 533.2 202.1 534.0 201.3 534.6 201.3 535.0 202.2 536.2 202.6 536.9 203.2 538.1 205.2 540.8 207.2 542.3 208.4 543.2 208.9 544.1 209.0 543.8 209.8 541.6 211.0 542.5 211.2 543.1 211.2 543.8 211.2 544.4 211.9 545.1 213.6 548.4 213.2 549.3 213.1 550.2 213.4 551.1 213.9 551.9 214.6 552.4 215.5 552.0 216.6 550.0 217.3 546.9 219.0 541.9 221.1 536.9 223.2 533.2 225.0 532.5 228.1 532.0 232.8 531.4 235.7 527.8 236.0 524.2 236.7 523.3 235.1 522.1 233.8 521.1 232.6 520.5 231.0 519.6 229.9 518.5 229.2 516.9 226.8 516.3 223.8 518.2 220.0 520.9 217.2 523.4 215.9 524.3 213.3 523.4 210.5 522.8 209.1 522.2 207.7 522.0 206.0 521.6 203.8 522.6 203.3 523.5 202.0 524.2 201.3 524.5 200.6 524.8 199.0 525.7 197.9 526.5 197.7 528.0 197.5Z",
+    "nom": "Ardahan",
+    "region": "Doğu Anadolu"
+   },
+   "08": {
+    "d": "M521.2 203.8 522.0 206.0 522.2 207.7 522.6 208.7 523.4 210.5 524.3 213.3 523.4 215.9 520.9 217.2 518.2 220.0 516.3 223.8 514.5 223.9 512.6 224.3 510.5 224.1 508.4 224.3 507.4 224.9 506.4 225.7 506.0 227.2 506.2 228.9 505.4 230.5 504.2 231.7 503.6 233.3 503.6 235.1 502.2 237.1 499.5 235.7 497.1 235.0 494.7 235.7 492.1 237.4 489.3 238.4 487.2 236.6 487.6 233.2 488.4 231.8 488.2 230.5 487.0 230.1 483.2 229.6 480.8 228.2 481.3 226.6 484.2 223.3 484.9 223.0 485.5 222.4 485.8 221.6 486.3 220.7 488.0 219.7 488.8 217.8 487.9 216.9 486.6 216.3 486.4 215.5 485.4 214.5 484.2 212.6 483.9 211.0 483.1 209.0 485.7 206.8 486.5 206.5 487.1 206.2 488.5 205.9 489.5 205.4 490.0 204.7 490.3 203.8 490.4 203.0 492.5 201.2 493.0 200.5 496.2 201.8 497.5 201.8 498.3 201.5 498.6 202.2 499.9 202.7 501.6 203.9 503.5 202.9 504.4 201.6 506.1 200.8 508.3 201.6 509.4 201.3 510.2 201.0 511.1 201.3 512.1 201.0 513.0 201.3 514.2 201.8 515.8 201.7 521.2 203.8Z",
+    "nom": "Artvin",
+    "region": "Karadeniz"
+   },
+   "73": {
+    "d": "M536.5 366.5 535.3 366.3 532.7 365.4 532.3 364.6 531.4 364.3 529.9 365.0 529.4 365.7 529.3 366.3 525.4 372.1 525.1 373.2 524.5 373.6 521.8 374.1 520.1 374.7 518.7 374.8 518.7 373.7 518.4 372.9 518.6 370.2 517.1 368.7 516.7 367.9 516.1 368.2 515.0 367.9 514.6 367.2 514.2 366.3 513.6 366.8 511.6 369.2 509.3 371.4 508.0 372.2 504.5 373.1 503.9 370.6 502.0 369.0 498.4 367.8 497.9 366.2 499.2 364.7 502.1 363.1 504.4 361.9 504.8 359.3 503.9 355.9 502.1 350.9 506.4 353.1 512.5 353.6 514.9 351.1 519.0 351.3 525.2 352.9 531.7 353.9 536.9 354.4 538.8 352.5 539.2 350.2 541.6 348.9 544.3 349.2 546.6 350.2 547.4 350.4 548.9 350.4 550.4 350.1 550.2 353.8 549.5 356.0 550.0 358.2 551.0 360.8 550.8 364.2 550.0 366.3 549.6 367.1 548.8 366.5 547.9 366.5 547.3 367.0 546.6 366.9 542.5 364.7 541.0 364.6 539.8 364.9 538.6 365.4 537.8 366.0 536.5 366.5Z",
+    "nom": "Şırnak",
+    "region": "Güneydoğu Anadolu"
+   },
+   "30": {
+    "d": "M553.2 369.6 551.3 368.1 550.0 367.5 550.0 366.3 550.8 364.2 551.0 360.8 550.0 358.2 549.5 356.0 550.2 353.8 550.4 350.1 554.5 350.1 558.6 349.4 559.5 348.9 560.3 348.6 561.6 348.8 562.9 349.3 564.9 349.3 566.9 348.9 568.6 347.9 569.4 345.7 570.6 343.5 572.8 343.0 575.5 343.4 576.0 344.5 577.0 344.7 579.0 344.5 580.5 345.1 581.2 346.2 581.7 347.1 582.6 347.3 582.5 348.1 582.6 348.8 583.6 348.7 584.8 348.3 585.7 348.7 586.4 349.4 587.6 350.8 587.3 351.7 586.3 352.6 585.9 354.1 586.5 354.8 587.2 355.4 587.3 356.1 587.0 356.9 586.8 357.8 586.8 358.8 586.9 359.6 587.0 360.3 586.6 361.5 586.8 362.1 588.4 362.5 589.3 364.0 590.7 364.1 591.2 365.1 593.2 366.8 593.9 367.6 593.8 368.9 593.0 369.6 592.4 370.7 592.5 371.5 592.8 372.1 593.0 372.8 592.8 373.6 592.4 372.9 591.8 372.6 588.6 372.1 588.0 372.1 587.0 372.6 585.8 373.5 584.7 374.6 584.0 375.5 583.2 376.2 582.4 376.6 579.8 377.5 579.4 378.6 579.0 379.4 578.7 380.1 578.0 380.4 576.7 380.1 576.2 379.4 575.0 376.5 574.8 375.7 574.8 374.9 575.0 374.1 575.6 373.4 576.3 373.1 576.9 372.5 576.9 371.6 576.7 370.7 576.5 369.8 576.1 369.1 574.9 368.1 571.9 366.9 570.3 366.6 568.9 366.8 567.8 367.8 566.9 369.2 566.0 370.3 564.3 370.6 563.4 371.3 562.5 370.5 561.4 370.0 560.6 370.0 557.5 370.2 556.7 370.1 556.0 369.8 555.4 369.3 554.8 369.1 553.6 369.5Z",
+    "nom": "Hakkâri",
+    "region": "Doğu Anadolu"
+   },
+   "76": {
+    "d": "M594.1 274.7 591.6 272.9 591.0 272.4 589.1 271.5 587.9 269.8 586.6 269.7 583.4 272.4 583.4 274.1 582.8 274.2 581.6 273.9 576.2 275.1 573.8 274.9 571.5 274.1 568.4 274.5 565.6 274.1 565.4 273.5 565.2 272.9 563.2 272.4 560.5 271.2 559.6 270.0 558.9 268.5 557.9 267.8 557.3 267.8 556.2 267.3 554.8 266.8 552.7 267.7 550.8 269.0 549.7 268.6 548.8 266.7 548.8 265.8 549.0 263.9 548.2 261.6 549.4 260.3 549.4 258.8 551.0 258.0 554.9 257.5 558.9 256.1 560.3 256.8 563.2 257.6 566.5 259.5 570.2 260.1 571.8 259.1 572.4 259.0 573.1 259.5 573.7 259.5 575.2 259.2 577.1 258.7 578.1 258.7 579.3 259.0 581.0 260.0 583.5 261.5 585.3 263.0 586.1 263.9 586.4 264.5 586.6 265.1 587.4 266.0 587.5 266.9 588.1 266.9 589.2 268.1 589.9 268.5 590.5 268.6 592.6 271.4 593.1 272.2 593.7 274.2Z",
+    "nom": "Iğdır",
+    "region": "Doğu Anadolu"
+   },
+   "04": {
+    "d": "M583.3 274.5 583.1 275.2 582.1 277.3 581.9 278.5 582.1 279.5 581.8 280.4 581.6 281.4 581.7 282.1 581.7 282.8 581.2 283.6 580.6 284.0 579.0 284.8 578.3 284.9 577.5 284.8 575.4 283.8 574.7 283.7 573.0 284.2 572.3 284.2 571.6 284.1 570.6 284.3 570.0 284.7 569.9 285.7 570.7 286.6 566.3 287.8 565.2 287.6 564.6 287.4 562.8 287.2 561.4 286.7 560.2 286.5 559.0 286.7 558.1 287.3 557.4 288.1 556.3 288.1 553.6 287.6 552.2 286.7 550.5 284.9 548.3 283.9 546.0 283.8 544.6 284.8 543.5 286.3 542.4 286.6 540.6 287.0 539.8 287.3 539.6 288.4 540.8 289.2 542.0 289.6 542.2 290.9 542.0 292.2 541.9 293.6 541.2 294.4 537.6 295.9 531.9 297.1 530.9 298.0 529.8 298.6 528.3 299.1 527.0 299.9 526.9 297.9 527.1 295.9 527.4 294.4 527.3 293.2 527.4 290.7 526.3 289.0 525.5 288.3 525.0 287.2 524.1 286.1 523.1 285.2 521.8 283.0 521.0 280.6 521.9 278.9 522.2 277.1 522.2 271.7 522.5 270.7 518.6 268.6 516.1 265.6 517.1 265.1 519.4 265.5 520.6 265.2 521.2 264.2 521.9 263.9 523.2 263.9 524.2 263.3 525.0 262.3 531.0 263.5 540.4 260.8 543.8 260.8 545.2 261.2 546.6 260.9 548.2 261.6 549.0 263.9 548.8 265.8 548.8 266.7 549.2 268.2 550.8 269.0 552.7 267.7 554.8 266.8 555.8 267.0 557.3 267.8 557.9 267.8 558.9 268.5 559.6 270.0 560.5 271.2 563.2 272.4 565.2 272.9 565.4 273.5 565.6 274.1 568.4 274.5 571.5 274.1 573.8 274.9 576.2 275.1 581.6 273.9 582.8 274.2Z",
+    "nom": "Ağrı",
+    "region": "Doğu Anadolu"
+   },
+   "65": {
+    "d": "M570.7 286.6 571.0 287.8 571.4 288.6 571.3 289.5 571.8 290.7 571.6 291.7 572.4 292.7 573.8 293.4 575.0 294.3 575.2 295.2 574.6 296.4 574.5 297.1 574.7 298.6 573.9 299.5 573.5 300.2 573.8 300.8 574.1 301.7 574.6 302.5 574.7 303.1 575.1 304.3 576.1 305.4 577.7 306.2 577.8 307.4 577.0 310.2 576.9 311.0 577.1 312.0 577.2 312.7 576.8 313.3 577.7 313.9 578.4 315.0 578.4 315.8 578.2 317.3 578.5 319.4 578.5 320.0 578.1 321.6 578.2 323.1 578.1 324.1 578.9 324.9 580.4 325.1 581.4 324.5 582.3 324.7 583.1 325.6 583.4 326.8 582.7 327.8 581.6 328.7 580.7 329.7 580.8 331.6 580.7 332.4 580.5 333.2 580.1 334.0 579.5 334.3 579.5 335.6 578.7 336.1 578.1 337.0 577.8 337.8 576.8 339.3 576.2 340.3 576.0 341.3 576.2 342.4 575.6 343.2 572.8 343.0 570.6 343.5 569.4 345.7 568.6 347.9 566.9 348.9 564.9 349.3 562.9 349.3 561.6 348.8 560.3 348.6 559.5 348.9 558.6 349.4 554.5 350.1 550.4 350.1 548.9 350.4 547.4 350.4 546.6 350.2 544.3 349.2 541.6 348.9 539.2 350.2 537.9 347.3 538.3 346.2 538.7 345.2 538.8 342.9 539.2 341.3 539.4 339.6 539.2 338.0 539.3 336.4 539.0 333.6 536.8 332.7 534.3 332.3 531.9 332.4 530.3 331.8 529.7 329.9 530.0 328.5 530.0 327.4 528.7 324.4 528.6 323.6 528.9 321.9 532.7 319.4 534.6 318.1 535.3 316.9 535.8 315.7 538.6 311.5 540.3 309.7 542.5 308.0 543.4 305.1 542.2 303.1 538.6 300.9 537.6 298.9 537.6 295.9 541.2 294.4 541.9 293.6 542.0 292.2 542.2 290.9 542.0 289.6 540.8 289.2 539.6 288.4 539.8 287.3 540.6 287.0 542.4 286.6 543.5 286.3 544.6 284.8 546.0 283.8 548.3 283.9 550.5 284.9 552.2 286.7 553.6 287.6 556.3 288.1 557.4 288.1 558.1 287.3 559.0 286.7 560.2 286.5 561.4 286.7 562.8 287.2 564.6 287.4 565.2 287.6 566.3 287.8 570.7 286.7Z",
+    "nom": "Van",
+    "region": "Doğu Anadolu"
+   },
+   "39": {
+    "d": "M53.5 177.3 54.6 177.6 55.5 178.1 56.4 179.0 57.7 180.9 58.4 181.7 59.1 182.3 61.4 183.5 62.6 184.9 63.5 184.9 63.1 184.2 63.8 184.0 64.6 183.6 67.3 182.4 68.4 182.5 70.0 183.4 70.9 183.5 70.9 182.8 70.9 181.9 72.1 181.4 73.1 181.6 73.9 182.0 75.9 181.9 77.4 182.3 77.9 184.2 78.2 185.0 78.0 185.7 77.1 185.5 76.2 185.7 75.9 187.2 76.1 188.3 76.5 189.0 77.6 190.3 78.2 192.1 79.1 193.1 79.5 193.8 79.3 194.6 79.5 195.3 79.9 196.0 81.3 197.1 82.4 198.7 83.2 199.4 81.8 201.3 76.3 201.9 71.0 202.6 67.7 203.3 64.6 204.2 63.2 206.3 62.1 208.5 60.3 209.8 58.3 210.3 56.6 209.3 55.3 207.5 53.5 206.4 49.9 206.4 44.9 206.8 40.3 207.7 39.4 205.9 40.9 202.9 41.4 200.1 42.6 198.2 43.3 194.4 42.9 190.6 41.9 186.8 41.2 182.3 41.9 181.7 42.5 181.8 43.1 181.5 44.0 181.4 44.6 181.0 45.1 180.1 46.2 179.5 46.9 178.3 47.6 177.9 48.2 177.9 49.3 178.4 50.1 178.7 50.8 178.8 51.5 179.0 52.4 177.7 53.5 177.3Z",
+    "nom": "Kırklareli",
+    "region": "Marmara"
+   },
+   "22": {
+    "d": "M40.6 182.6 41.2 182.2 41.9 186.8 42.9 190.6 43.3 194.4 42.6 198.2 41.4 200.1 40.9 202.9 39.4 205.9 40.3 207.7 40.7 208.5 40.9 214.0 40.4 216.3 38.9 218.2 38.0 220.6 37.4 223.4 37.6 226.6 38.8 229.1 39.6 231.7 39.4 234.1 37.4 234.6 36.6 234.9 34.1 235.1 33.3 235.3 31.0 236.7 30.1 236.1 29.1 235.9 28.2 236.3 26.9 236.1 24.7 236.6 19.0 236.6 18.2 236.5 17.5 235.6 17.3 234.9 17.0 234.2 17.2 232.8 16.9 231.9 16.6 231.2 17.9 231.3 18.8 230.8 19.5 230.0 19.8 229.0 20.2 228.3 21.9 226.9 21.7 226.2 22.2 225.5 22.3 224.8 23.0 225.1 23.4 224.0 24.1 224.5 24.4 223.7 25.7 223.0 26.4 222.2 25.7 221.5 26.0 220.8 26.7 220.5 26.9 219.6 26.1 219.2 25.4 217.9 25.8 216.3 25.1 216.0 25.7 214.8 25.4 214.1 25.3 213.4 25.4 212.6 25.7 211.7 25.6 210.8 27.5 210.6 28.1 210.3 28.9 209.6 29.7 209.1 30.4 208.5 32.0 206.9 32.9 207.6 33.6 207.8 34.2 207.7 34.8 206.6 35.0 205.8 35.0 205.0 34.8 204.2 34.3 202.2 34.2 200.8 34.0 200.1 33.9 199.2 33.8 198.1 33.8 197.4 33.7 196.6 33.1 197.4 31.4 196.4 29.7 195.1 30.0 194.1 29.0 193.7 27.8 193.4 27.0 192.7 25.6 192.6 25.1 191.4 25.2 190.5 25.7 189.5 27.0 188.5 30.1 188.6 31.6 188.2 32.2 186.9 32.4 186.2 32.5 185.5 32.5 184.7 32.4 183.9 33.5 182.8 34.6 182.4 37.5 182.9 38.1 182.8 39.0 182.0 39.7 182.0 40.6 182.6Z",
+    "nom": "Edirne",
+    "region": "Marmara"
+   },
+   "36": {
+    "d": "M552.0 216.6 551.9 217.5 552.2 218.8 552.6 219.9 553.2 220.5 554.5 220.7 555.8 221.3 557.1 222.3 558.0 223.4 558.4 224.2 558.5 225.0 558.6 225.8 558.8 226.7 559.1 227.5 560.3 229.4 560.6 230.2 560.7 230.9 560.9 233.6 560.2 235.0 560.2 236.2 558.9 237.7 558.5 238.5 558.6 239.5 557.9 239.1 557.4 239.8 556.7 240.3 555.7 241.5 556.5 242.7 557.7 243.8 557.2 245.6 556.7 246.7 557.0 247.3 557.9 248.1 559.3 249.9 559.7 250.9 559.5 252.1 560.5 253.2 560.4 254.2 559.0 254.5 558.9 256.1 554.9 257.5 551.0 258.0 549.4 258.8 549.4 260.3 548.2 261.6 546.6 260.9 545.2 261.2 543.8 260.8 540.4 260.8 531.0 263.5 525.0 262.3 524.2 260.9 523.4 259.3 522.6 258.1 521.4 257.6 520.8 257.4 519.8 256.1 519.4 255.5 518.4 254.8 517.4 254.5 514.8 254.1 514.0 253.2 513.4 252.2 512.3 250.9 513.3 248.8 517.8 247.3 519.7 246.2 520.7 245.4 521.8 244.7 523.0 244.1 524.2 243.3 523.5 239.4 524.0 238.1 524.2 236.7 527.8 236.0 531.4 235.7 532.0 232.8 532.5 228.1 533.2 225.0 536.9 223.2 541.9 221.1 546.9 219.0 550.0 217.3 552.0 216.6Z",
+    "nom": "Kars",
+    "region": "Doğu Anadolu"
+   },
+   "47": {
+    "d": "M504.5 373.1 491.7 376.2 483.1 376.6 482.5 376.4 481.1 375.9 473.7 374.3 468.0 375.2 466.4 375.8 462.3 378.2 460.9 378.6 460.2 378.6 459.5 378.7 458.9 379.0 454.2 382.2 452.9 381.5 450.1 376.5 450.4 373.3 450.0 372.5 448.4 370.8 447.4 370.0 446.6 369.0 446.2 364.3 449.2 360.3 450.6 359.0 453.9 356.7 455.4 356.1 458.8 353.4 461.3 353.2 462.7 351.2 463.1 350.3 466.5 349.6 477.3 349.8 479.2 348.9 480.0 348.9 480.6 349.2 482.8 351.9 484.9 356.5 488.2 358.6 493.0 357.7 496.4 355.1 502.1 350.9 503.9 355.9 504.8 359.3 504.4 361.9 502.1 363.1 499.2 364.7 497.9 366.2 498.4 367.8 502.0 369.0 503.9 370.6 504.5 373.0Z",
+    "nom": "Mardin",
+    "region": "Güneydoğu Anadolu"
+   },
+   "63": {
+    "d": "M429.0 391.4 422.8 392.6 421.1 392.6 416.4 391.0 414.8 391.1 414.1 391.3 409.1 391.6 406.9 391.3 405.0 390.3 404.2 389.3 400.9 385.8 399.4 384.9 393.5 383.1 391.5 382.8 390.5 382.9 388.4 383.7 385.4 385.7 385.2 384.8 385.5 384.1 385.2 383.0 385.0 382.2 385.0 381.2 384.0 380.1 383.5 379.2 383.9 377.7 383.6 377.0 382.5 377.5 381.9 377.3 381.0 377.0 380.6 376.1 380.8 374.9 380.8 374.0 380.6 373.2 380.0 372.3 379.7 371.1 379.8 370.5 380.6 370.8 380.7 369.9 380.2 368.9 380.1 367.1 380.7 366.5 381.1 365.3 382.5 363.7 383.8 362.0 384.8 361.6 385.8 361.5 386.6 361.9 387.5 361.2 388.5 362.0 389.8 362.3 390.5 362.7 390.7 361.9 391.0 361.2 392.3 361.4 393.0 360.3 395.1 359.6 396.1 360.0 399.8 359.3 400.5 359.0 402.3 357.0 402.7 356.3 404.5 354.5 411.3 353.4 409.8 352.2 409.2 351.6 409.9 351.2 410.5 351.8 411.1 351.5 411.8 350.9 412.6 351.2 412.2 350.0 412.4 349.4 413.0 349.3 413.7 349.2 414.3 349.1 413.9 348.5 414.0 347.5 413.3 347.2 412.4 347.8 412.6 346.8 413.4 346.3 414.3 346.6 414.7 346.0 414.9 344.9 415.0 343.9 416.2 342.8 416.9 342.0 417.1 340.7 417.6 339.6 420.0 338.8 421.2 337.9 423.6 339.2 426.1 339.6 427.9 339.7 429.6 340.5 431.5 342.5 433.5 344.2 434.5 344.7 435.5 345.1 436.6 346.2 438.1 346.8 438.7 345.8 439.6 346.2 440.4 347.0 441.5 347.4 441.9 348.4 441.8 352.7 442.2 355.7 442.5 356.8 443.7 360.6 444.7 362.7 446.2 364.3 446.6 369.0 447.4 370.0 448.4 370.8 450.0 372.5 450.4 373.3 450.1 376.5 452.9 381.5 454.2 382.2 452.0 383.8 450.9 384.3 449.7 384.5 448.6 384.9 445.5 386.8 438.9 389.4 429.0 391.4Z",
+    "nom": "Şanlıurfa",
+    "region": "Güneydoğu Anadolu"
+   },
+   "79": {
+    "d": "M369.9 392.1 367.6 393.7 366.3 393.7 361.3 392.7 360.6 392.8 358.6 393.3 357.6 393.0 357.0 393.0 356.0 393.8 354.9 393.9 354.2 392.9 354.4 391.6 354.4 390.8 353.2 389.4 352.2 388.6 351.0 388.2 349.0 388.1 343.4 386.0 345.0 384.4 347.6 383.1 349.7 381.7 350.0 379.1 350.9 378.2 352.0 378.9 353.0 381.1 355.1 381.5 357.4 383.1 360.0 385.8 361.3 387.4 362.2 386.8 364.4 388.1 367.3 389.7 369.9 392.1Z",
+    "nom": "Kilis",
+    "region": "Güneydoğu Anadolu"
+   },
+   "27": {
+    "d": "M385.4 385.7 384.0 386.3 379.1 388.6 374.0 389.8 372.1 390.6 369.9 392.1 367.3 389.7 364.4 388.1 362.2 386.8 361.3 387.4 360.0 385.8 357.4 383.1 355.1 381.5 353.0 381.1 352.0 378.9 350.9 378.2 350.0 379.1 349.7 381.7 347.6 383.1 345.0 384.4 343.4 386.0 342.6 385.6 342.0 384.5 341.4 383.9 339.0 382.8 337.0 380.7 337.7 379.3 338.9 378.2 341.0 375.3 342.7 371.9 343.9 370.1 345.3 368.5 349.0 366.7 350.5 364.7 351.9 365.6 352.8 369.2 355.2 370.0 358.0 366.9 359.7 366.1 363.5 365.4 367.7 363.9 369.6 363.6 371.5 363.7 372.8 362.8 373.2 361.0 373.0 359.8 373.1 358.6 376.5 357.9 379.8 358.0 383.4 359.3 385.8 361.5 384.8 361.6 383.8 362.0 382.5 363.7 381.4 364.8 380.9 366.3 380.2 366.8 379.7 368.6 380.5 369.3 380.8 370.8 380.1 370.2 379.7 371.1 379.8 371.8 380.6 373.2 380.8 374.0 380.8 374.9 380.6 376.1 381.0 377.0 381.7 377.0 382.5 377.5 383.2 377.1 384.0 377.2 383.5 378.6 383.6 379.6 384.9 380.9 385.0 382.2 385.2 383.0 385.7 383.6 385.3 384.3 385.3 385.4Z",
+    "nom": "Gaziantep",
+    "region": "Güneydoğu Anadolu"
+   },
+   "31": {
+    "d": "M343.4 386.0 342.9 386.9 342.5 387.7 342.0 388.4 341.6 389.2 341.5 390.1 341.5 390.9 341.4 391.6 341.0 392.6 340.6 394.2 340.6 396.0 340.5 397.7 339.5 399.2 339.4 399.8 339.5 400.5 340.1 402.6 341.0 403.3 341.3 404.0 341.4 404.6 341.0 405.6 342.2 406.0 343.0 406.7 343.3 407.3 343.7 408.5 343.7 409.4 341.3 410.1 340.7 410.1 338.4 409.8 337.5 410.0 337.2 410.7 335.8 410.7 335.0 410.3 334.2 410.1 334.6 411.0 334.2 411.6 334.0 417.9 334.1 419.0 333.4 419.3 332.2 418.7 331.4 420.4 330.1 420.3 329.1 420.7 328.5 421.8 328.3 424.6 327.9 425.8 325.5 424.6 324.6 424.1 323.7 424.1 322.8 423.6 322.9 422.7 322.5 421.7 321.9 421.8 320.6 422.1 320.7 421.5 322.0 419.0 322.3 418.0 321.5 415.3 319.3 411.6 318.9 411.0 318.5 410.3 318.2 409.1 317.3 408.1 316.5 406.7 317.4 404.8 318.0 404.3 318.7 404.1 319.2 403.0 320.0 402.5 320.4 401.9 320.6 401.0 321.3 400.4 322.5 399.9 324.2 397.9 324.8 397.5 328.1 395.3 328.9 394.9 329.3 394.2 329.6 393.4 329.7 392.7 329.6 391.9 329.3 391.1 329.3 388.3 329.2 387.7 328.9 387.0 327.1 384.4 326.0 383.3 324.9 382.4 323.7 382.1 322.6 382.5 321.6 383.5 321.0 384.2 320.5 383.4 320.5 381.8 323.0 378.8 323.6 378.4 324.3 378.5 325.0 378.8 326.3 378.6 327.6 378.9 328.9 379.0 330.3 378.6 331.7 379.0 332.7 380.1 333.9 380.9 335.4 380.9 337.0 380.7 339.0 382.8 341.4 383.9 342.0 384.5 342.2 385.2 343.1 385.7Z",
+    "nom": "Hatay",
+    "region": "Akdeniz"
+   },
+   "34": {
+    "d": "M83.2 199.4 84.1 200.3 88.7 203.1 95.4 205.8 104.9 210.2 107.9 210.9 108.7 211.1 109.8 210.8 110.6 211.1 110.8 212.5 110.4 213.2 109.8 213.9 109.0 214.3 109.4 215.2 109.8 215.9 109.5 216.9 109.3 217.6 108.7 218.7 107.9 219.0 107.3 219.8 107.4 220.5 106.5 220.7 105.8 220.5 105.1 221.1 103.4 221.7 102.8 222.1 101.5 222.3 100.6 221.6 99.8 221.6 96.2 222.1 95.2 221.7 95.5 220.5 94.6 219.9 94.9 219.0 94.5 218.2 93.2 217.4 94.0 218.7 94.2 219.3 94.2 220.3 93.6 221.2 92.7 221.1 91.1 219.5 90.3 219.1 89.3 219.0 87.2 218.2 86.1 218.0 85.0 218.0 84.2 217.4 83.0 217.7 82.3 217.6 81.9 215.4 81.5 212.4 81.9 210.0 82.9 206.8 82.5 204.1 81.7 201.3 83.2 199.4ZM115.5 225.8 114.5 225.6 112.2 224.2 111.5 223.7 110.9 222.9 110.2 222.4 108.6 221.5 108.2 220.7 107.9 219.6 109.1 218.6 109.6 217.8 110.0 216.3 110.4 215.7 109.8 214.8 110.6 213.7 111.7 212.4 112.9 211.6 113.8 211.7 114.8 211.3 120.6 212.3 126.7 213.7 134.9 214.9 134.2 215.2 134.6 216.4 134.7 217.6 133.8 219.7 132.2 220.5 130.2 221.3 128.4 222.5 128.1 223.5 127.6 224.4 126.5 224.5 125.6 223.8 124.6 221.8 123.2 220.6 121.6 220.5 120.2 221.4 118.9 222.7 118.2 223.1 116.6 224.4 115.5 225.8Z",
+    "nom": "İstanbul",
+    "region": "Marmara"
+   },
+   "59": {
+    "d": "M82.3 217.6 80.5 218.0 78.3 218.8 77.3 219.2 76.5 219.9 75.8 221.0 75.7 221.8 75.1 222.0 72.6 221.7 71.8 221.0 70.0 220.4 68.9 220.3 62.3 221.3 61.3 221.8 60.7 223.1 59.9 226.3 59.2 227.5 56.3 230.3 55.0 232.5 52.2 234.6 51.6 235.3 50.6 235.6 49.7 236.1 48.3 236.1 47.6 236.2 46.2 237.8 45.0 238.2 44.1 235.2 44.1 232.1 39.6 231.7 38.8 229.1 37.6 226.6 37.4 223.4 38.0 220.6 38.9 218.2 40.4 216.3 40.9 214.0 40.7 208.5 40.3 207.7 44.9 206.8 49.9 206.4 53.5 206.4 55.3 207.5 56.6 209.3 58.3 210.3 60.3 209.8 62.1 208.5 63.2 206.3 64.6 204.2 67.7 203.3 71.0 202.6 76.3 201.9 81.7 201.3 82.5 204.1 82.9 206.8 81.9 210.0 81.5 212.4 81.9 215.4 82.3 217.6Z",
+    "nom": "Tekirdağ",
+    "region": "Marmara"
+   },
+   "17": {
+    "d": "M45.0 238.2 43.4 238.6 41.7 239.7 40.6 240.5 38.7 240.8 37.2 242.0 36.4 242.4 36.1 243.5 34.8 244.6 34.6 245.5 34.4 246.2 32.2 248.2 31.1 248.6 30.0 249.6 29.1 250.8 28.5 251.3 27.8 251.7 27.1 252.1 26.4 252.2 26.1 253.2 26.5 254.0 25.5 255.7 23.8 256.7 22.9 257.6 20.9 258.4 20.2 258.2 20.6 257.3 21.2 256.7 21.6 255.9 21.8 255.0 23.4 252.7 23.8 251.3 23.6 250.2 23.0 249.4 22.1 248.6 22.4 247.9 22.5 246.9 23.1 246.5 24.6 246.0 25.3 246.0 25.7 245.2 27.3 244.2 28.7 243.0 30.5 242.3 31.9 241.2 32.7 240.7 33.7 240.2 34.6 240.0 36.0 240.2 36.8 239.6 37.5 238.6 38.6 238.4 39.6 238.1 40.5 237.4 40.9 236.6 39.9 234.6 39.6 231.8 44.1 232.1 44.1 235.2 45.0 238.2ZM35.9 278.2 29.4 279.4 28.7 279.6 26.8 280.8 26.2 281.0 24.5 280.6 23.8 280.9 23.2 281.3 22.5 281.2 20.1 281.8 18.9 281.8 17.7 281.2 17.5 280.4 18.3 278.3 18.8 276.3 19.9 275.2 20.2 274.3 20.4 272.1 19.7 270.6 19.6 269.7 20.0 268.3 20.2 267.3 19.8 266.4 20.2 264.4 20.0 263.4 20.1 262.7 20.4 261.8 21.2 260.3 23.1 260.6 24.6 259.9 26.2 258.3 26.6 257.6 26.6 257.0 26.7 256.3 27.4 256.3 27.7 255.6 27.8 254.9 27.8 254.2 27.8 253.0 28.6 252.7 29.8 252.3 30.8 252.0 32.7 249.7 33.7 249.2 37.4 244.9 38.0 244.4 39.3 244.3 41.9 244.6 43.0 244.3 44.1 244.9 45.9 245.0 46.6 244.9 47.4 244.2 48.2 243.2 49.1 242.5 50.6 242.4 51.6 242.6 52.8 242.7 53.5 242.5 54.5 241.9 55.5 242.3 56.3 244.0 55.6 244.3 56.6 245.8 58.2 246.9 60.1 247.7 62.2 248.2 63.1 248.2 63.8 247.9 63.5 250.0 62.1 250.9 59.9 253.1 59.1 253.6 59.7 254.7 60.9 255.3 61.6 255.6 61.4 256.4 61.0 257.6 60.8 258.7 60.5 259.6 60.0 260.6 60.5 261.4 60.9 263.5 60.3 265.1 59.7 266.6 58.4 267.5 57.1 268.0 55.9 268.9 54.6 269.4 52.3 268.6 50.1 268.3 49.2 268.7 48.2 268.6 46.8 268.6 45.5 269.7 43.3 270.6 42.2 271.5 40.8 272.0 38.1 271.6 36.8 271.9 35.8 275.0 35.9 278.2ZM17.3 266.8 17.9 268.3 17.2 268.9 16.2 268.2 15.3 267.8 14.7 267.0 15.5 266.5 16.6 266.5 17.3 266.8ZM15.8 253.8 15.8 254.6 15.1 255.0 14.4 255.2 12.3 255.5 11.0 256.1 8.2 256.6 7.5 256.5 6.8 256.3 5.0 255.4 5.7 254.0 6.7 253.0 8.0 252.2 10.1 251.8 12.7 250.9 13.5 250.8 14.1 251.6 14.4 252.3 14.4 253.2 14.2 254.2 15.1 254.2 15.8 253.8Z",
+    "nom": "Çanakkale",
+    "region": "Marmara"
+   },
+   "53": {
+    "d": "M457.0 221.1 460.5 218.8 461.5 219.3 462.4 219.4 463.3 219.2 464.2 218.6 465.4 217.6 466.8 217.3 467.6 216.9 469.5 214.6 471.6 213.0 472.4 212.9 473.8 213.4 474.5 213.3 475.7 212.5 476.8 212.2 477.5 211.9 478.2 211.6 478.8 211.2 480.0 210.0 480.6 209.5 481.4 209.3 482.2 209.3 482.8 209.1 483.9 211.0 484.2 212.6 484.8 214.0 486.0 214.9 486.6 216.3 487.9 216.9 488.8 217.8 488.0 219.7 486.3 220.7 485.8 221.6 485.5 222.4 484.9 223.0 484.2 223.3 481.3 226.6 480.8 228.2 478.5 229.6 475.2 232.3 473.9 232.8 472.5 232.8 471.4 233.2 470.5 235.5 468.7 236.0 467.4 236.2 466.2 236.5 461.2 238.9 460.8 236.4 461.1 233.8 459.2 229.0 458.9 226.2 458.1 223.5 457.0 221.1Z",
+    "nom": "Rize",
+    "region": "Karadeniz"
+   },
+   "61": {
+    "d": "M419.9 218.0 420.6 217.6 421.6 217.7 423.1 218.7 423.8 218.8 425.1 218.1 425.8 218.0 427.8 216.9 428.6 216.4 430.6 216.8 431.8 218.2 433.6 219.8 434.8 220.5 436.0 220.7 436.6 220.5 437.8 220.1 438.7 220.7 439.7 220.7 441.8 222.2 443.0 222.6 445.4 221.6 446.1 221.5 447.9 223.2 448.8 223.7 450.0 223.9 450.6 223.9 451.5 223.5 452.2 223.3 453.3 222.9 454.0 222.4 455.4 222.1 457.0 221.1 458.1 223.5 458.9 226.2 459.2 229.0 461.1 233.8 460.8 236.4 461.2 238.9 459.4 239.5 456.2 239.4 454.7 239.7 453.2 240.2 451.8 240.2 449.3 239.4 446.6 239.3 445.4 238.6 443.5 236.5 442.6 236.2 441.9 236.7 442.2 237.6 441.0 238.2 439.6 235.8 437.4 234.4 436.5 235.1 436.2 236.7 435.0 237.4 433.2 237.1 426.0 234.3 424.0 232.2 423.5 229.9 422.2 229.1 421.7 229.8 421.0 230.4 420.4 230.3 419.3 228.3 419.0 224.7 419.1 222.8 419.9 218.0Z",
+    "nom": "Trabzon",
+    "region": "Karadeniz"
+   },
+   "28": {
+    "d": "M388.1 222.5 389.6 222.7 390.8 223.2 391.5 223.2 392.9 222.8 394.8 224.1 396.6 223.7 397.8 224.0 398.5 224.1 401.2 223.7 402.8 222.3 404.2 221.8 404.8 222.0 405.5 222.8 406.4 222.7 407.2 222.2 407.8 221.8 408.5 221.1 409.4 220.5 411.6 220.1 412.6 219.3 416.7 219.1 419.1 218.6 419.9 218.0 419.1 222.8 419.0 224.7 419.3 228.3 419.8 229.9 416.1 230.3 415.8 231.3 415.2 231.7 414.4 231.9 413.5 232.6 412.6 233.2 412.2 234.2 412.6 235.5 412.0 236.5 411.0 237.4 410.7 238.2 410.5 240.0 410.5 241.4 411.4 242.4 415.0 243.3 415.9 244.0 416.7 244.8 417.4 245.0 417.2 246.5 416.3 247.2 413.2 248.9 412.5 249.7 412.5 251.0 412.6 252.4 412.5 253.8 412.8 255.2 413.6 256.3 413.3 257.6 412.1 258.1 409.4 258.3 408.1 258.2 405.0 256.7 401.7 255.7 398.6 256.4 396.7 255.3 394.8 253.9 393.1 253.0 391.9 251.3 392.0 249.1 389.5 239.7 386.6 236.5 386.7 235.4 387.0 234.6 387.2 233.3 387.1 232.0 387.2 230.6 387.1 229.3 386.6 228.1 386.6 226.9 387.0 226.0 387.7 225.2 388.2 224.0 388.1 222.6Z",
+    "nom": "Giresun",
+    "region": "Karadeniz"
+   },
+   "52": {
+    "d": "M358.5 215.0 361.9 215.0 363.0 215.3 363.8 215.9 364.8 216.3 365.5 216.4 366.7 217.3 367.3 217.7 368.6 218.1 369.4 219.1 370.0 219.3 371.2 219.2 371.9 219.2 372.6 218.8 373.2 217.4 374.0 216.1 375.1 215.3 375.8 216.3 377.0 215.8 378.0 215.9 378.0 218.4 378.6 219.1 380.1 219.9 380.9 220.6 381.4 221.5 382.6 221.0 384.1 221.2 387.8 222.4 388.2 224.0 387.7 225.2 387.0 226.0 386.6 226.9 386.6 228.1 387.1 229.3 387.2 230.6 387.1 232.0 387.2 233.3 387.0 234.6 386.7 235.4 386.6 236.5 389.5 239.7 388.6 240.5 387.5 240.9 386.1 241.0 384.9 241.4 384.5 243.0 384.7 244.1 384.0 244.5 381.5 244.4 380.3 245.2 379.4 246.4 378.5 247.1 377.4 247.3 375.1 245.4 373.4 242.2 372.8 239.8 371.8 237.9 367.7 237.6 360.6 232.8 358.5 232.6 356.5 232.9 354.2 232.7 352.2 231.9 350.6 230.9 348.1 230.1 346.4 229.1 345.0 228.8 344.2 227.3 344.8 226.3 346.0 225.8 347.4 225.6 348.6 225.2 349.7 224.6 351.4 223.0 353.8 221.6 355.1 219.2 356.9 217.4 358.5 215.2Z",
+    "nom": "Ordu",
+    "region": "Karadeniz"
+   },
+   "55": {
+    "d": "M307.7 195.4 308.6 195.7 310.1 195.9 311.4 195.8 312.0 195.5 313.2 194.8 315.1 194.5 318.3 193.1 319.1 193.1 319.8 192.8 321.1 191.8 321.8 191.7 321.4 192.4 321.0 193.3 320.4 194.6 321.0 193.4 321.5 192.7 322.2 192.0 324.2 193.6 326.8 196.0 327.2 197.1 327.2 198.7 326.8 199.8 326.8 201.3 327.2 202.5 328.6 204.2 329.4 204.7 330.4 206.6 332.4 207.8 333.3 208.0 333.6 208.9 333.9 209.6 334.6 209.8 335.1 210.5 336.1 210.8 337.0 211.3 337.7 211.1 339.0 210.4 340.6 209.0 341.0 208.3 341.4 207.6 341.8 206.4 342.6 206.0 343.8 206.3 346.4 206.3 348.8 206.9 353.4 209.1 354.3 209.9 354.8 211.2 354.9 212.9 355.1 213.6 356.2 214.0 357.4 214.8 358.0 215.0 356.9 217.4 355.1 219.2 353.8 221.6 351.4 223.0 350.2 224.3 348.6 225.2 347.4 225.6 346.0 225.8 345.4 226.1 344.2 225.3 343.2 224.5 341.5 224.5 340.1 225.2 336.7 226.0 333.4 223.6 332.9 222.8 332.5 221.8 331.7 220.9 330.6 220.5 329.3 221.3 328.8 223.1 327.8 224.7 326.4 225.6 325.3 226.6 324.0 226.9 321.6 225.7 317.6 225.7 316.4 225.4 314.0 225.6 313.0 225.3 312.0 223.5 307.5 220.2 306.5 219.7 304.6 220.0 295.0 217.4 293.9 217.1 291.5 217.4 291.0 215.9 290.8 214.4 290.5 212.9 288.9 210.1 290.1 209.4 290.3 208.2 291.7 207.7 293.0 206.6 294.7 206.0 295.4 205.6 296.1 205.3 296.6 206.6 296.6 207.3 297.3 208.0 298.3 208.5 298.3 209.2 299.7 209.4 300.5 210.1 301.4 210.6 302.8 210.8 304.1 210.5 305.0 209.9 305.7 209.6 307.2 210.0 307.8 209.5 307.6 207.2 307.4 206.0 307.0 205.2 306.8 204.3 306.9 203.2 306.8 202.0 306.3 200.1 306.5 198.1 307.7 195.4Z",
+    "nom": "Samsun",
+    "region": "Karadeniz"
+   },
+   "57": {
+    "d": "M268.2 182.8 271.7 183.3 275.2 182.3 276.4 182.2 277.8 182.8 278.8 183.1 282.9 183.4 284.5 183.2 286.1 182.7 287.8 181.5 288.9 180.9 289.8 179.8 290.5 178.5 290.7 177.3 292.0 177.6 292.6 177.5 293.3 178.0 293.7 178.9 294.8 180.1 295.5 180.4 296.4 180.3 297.2 179.6 298.0 179.6 299.0 180.3 297.3 180.4 296.6 180.4 295.9 180.9 295.4 182.4 295.2 183.3 295.1 184.1 296.2 186.2 297.1 187.3 298.7 188.7 298.5 189.5 299.2 190.6 300.1 191.1 301.0 192.1 303.3 193.2 304.6 193.4 306.1 194.6 307.3 195.3 306.5 198.1 306.3 200.1 306.8 202.0 306.9 203.2 306.8 204.3 307.0 205.2 307.4 206.0 307.6 207.2 307.8 209.5 307.2 210.0 305.7 209.6 305.0 209.8 304.1 210.5 302.8 210.8 301.4 210.6 300.5 210.1 299.9 209.5 298.3 209.2 298.3 208.5 297.3 208.0 296.6 207.3 296.6 206.6 296.4 205.9 295.8 205.0 294.7 206.0 293.0 206.6 292.0 207.6 290.9 207.7 290.5 208.9 289.4 209.8 288.7 211.1 287.9 212.1 287.3 212.8 283.8 211.7 283.0 210.8 282.2 210.3 281.3 210.0 280.2 210.3 279.2 210.1 278.0 209.4 276.9 209.5 276.1 208.5 276.3 203.3 276.0 202.6 275.8 201.8 276.1 200.3 276.7 199.0 277.6 198.1 278.6 197.4 279.6 194.8 277.9 192.6 275.9 192.0 272.1 191.8 270.3 191.3 269.0 191.2 267.8 191.2 265.8 190.4 265.9 189.1 267.5 187.4 268.3 185.0 268.2 182.8Z",
+    "nom": "Sinop",
+    "region": "Karadeniz"
+   },
+   "37": {
+    "d": "M224.6 186.8 225.4 186.6 226.3 186.4 228.5 185.9 229.6 185.4 231.0 184.5 235.9 182.9 240.7 180.5 241.9 180.4 244.1 180.8 247.4 180.8 248.1 180.9 249.6 181.5 256.2 182.1 256.8 181.9 257.7 182.3 261.7 181.9 268.2 182.8 268.3 185.0 267.5 187.4 265.9 189.1 265.8 190.4 267.8 191.2 269.0 191.2 270.3 191.3 272.1 191.8 275.9 192.0 277.9 192.6 279.6 194.8 278.6 197.4 277.6 198.1 276.7 199.0 276.1 200.3 275.8 201.8 276.0 202.6 276.3 203.3 276.1 208.5 274.4 208.9 273.4 210.4 272.5 212.5 271.8 213.3 270.4 214.6 269.3 217.2 268.2 218.5 267.9 219.3 268.5 220.7 269.2 221.0 270.2 222.0 269.4 224.0 265.1 225.8 262.4 226.3 261.1 226.3 259.8 226.0 258.8 225.3 257.8 224.4 256.0 223.8 254.9 221.8 255.2 220.7 256.0 219.8 257.0 218.6 256.6 217.0 255.1 217.1 250.2 219.7 247.8 220.1 244.5 222.0 243.4 222.4 241.9 222.0 240.8 220.6 238.0 218.8 234.0 218.4 232.9 217.1 231.9 215.7 230.3 215.0 228.6 214.8 228.0 210.5 228.3 209.2 229.7 207.3 231.3 205.8 234.3 205.2 233.4 203.2 232.6 199.7 230.3 198.1 228.1 198.8 226.2 199.1 225.2 198.0 224.9 195.2 226.9 193.8 225.8 190.9 224.9 189.1 224.6 186.8Z",
+    "nom": "Kastamonu",
+    "region": "Karadeniz"
+   },
+   "74": {
+    "d": "M204.1 197.1 205.0 196.6 205.5 195.6 207.5 193.4 208.1 192.3 209.1 192.0 210.8 192.0 211.5 191.2 212.2 191.4 212.8 191.2 213.5 190.4 216.1 188.9 216.9 188.5 217.8 188.7 218.9 187.6 219.7 187.4 220.4 187.8 222.8 187.0 223.7 186.8 224.6 186.8 224.9 189.1 225.8 190.9 226.9 193.8 224.9 195.2 225.2 198.0 222.2 200.7 220.5 201.2 219.1 204.0 215.4 207.1 212.2 207.9 208.8 207.7 209.4 204.3 208.3 201.7 207.7 199.6 205.8 198.8 204.1 197.1Z",
+    "nom": "Bartın",
+    "region": "Karadeniz"
+   },
+   "67": {
+    "d": "M179.9 214.8 180.9 213.9 181.6 212.8 181.7 212.2 181.7 211.4 182.1 210.2 182.0 209.5 181.3 208.8 182.3 208.0 183.7 207.9 184.4 207.0 189.5 205.1 196.1 200.8 199.8 199.0 200.9 198.2 204.1 197.1 205.8 198.8 207.7 199.6 208.3 201.7 209.4 204.3 208.8 207.7 207.2 210.0 206.1 211.2 205.6 213.3 204.6 216.5 204.6 220.1 198.0 219.9 196.1 219.4 193.8 219.2 186.3 218.5 181.1 215.9 179.9 214.8Z",
+    "nom": "Zonguldak",
+    "region": "Karadeniz"
+   },
+   "81": {
+    "d": "M167.9 217.6 172.0 217.4 172.8 217.0 174.1 217.1 175.7 216.9 176.3 217.2 178.2 216.1 179.2 215.5 179.9 214.8 181.1 215.9 186.3 218.5 193.8 219.2 193.3 222.6 191.8 224.3 188.9 225.0 185.0 225.6 183.5 226.8 183.4 228.9 182.2 231.7 179.9 233.5 176.9 233.8 173.4 232.4 168.4 232.5 165.9 231.6 166.5 230.4 165.9 229.5 165.6 228.5 166.0 227.3 165.9 226.1 165.4 225.1 165.2 223.9 166.3 221.5 168.1 219.9 168.0 219.1 167.8 217.9Z",
+    "nom": "Düzce",
+    "region": "Karadeniz"
+   },
+   "54": {
+    "d": "M151.7 214.0 160.0 216.0 161.0 216.9 164.1 217.6 167.9 217.6 168.0 219.1 168.1 219.9 166.3 221.5 165.2 223.9 165.4 225.1 165.9 226.1 166.0 227.3 165.6 228.5 165.9 229.5 166.5 230.4 165.9 231.6 163.9 233.1 164.0 234.4 164.2 235.7 163.8 236.8 161.9 237.8 159.7 237.7 158.5 239.5 157.6 242.0 156.8 242.6 157.0 243.7 157.6 244.5 158.3 245.9 157.7 247.3 156.1 246.9 153.8 246.9 152.6 245.4 151.6 244.8 150.4 244.8 149.3 244.5 147.9 244.6 143.7 245.7 141.0 244.9 139.8 243.7 138.6 242.7 137.5 241.0 136.6 239.3 136.3 238.4 136.2 237.6 138.3 237.4 139.3 237.0 140.3 236.5 142.3 236.0 144.1 234.8 145.4 232.3 146.6 226.5 148.6 224.4 147.8 224.0 147.5 223.2 149.3 223.0 150.3 223.5 152.0 223.5 152.8 222.0 153.5 220.8 153.3 219.5 151.1 219.1 150.5 217.1 151.5 214.6Z",
+    "nom": "Sakarya",
+    "region": "Marmara"
+   },
+   "41": {
+    "d": "M134.9 214.9 142.7 215.1 143.5 215.0 144.7 214.3 145.4 214.0 145.8 213.2 146.8 212.5 147.6 212.6 148.8 212.9 149.8 213.6 151.7 214.0 150.5 217.1 151.1 219.1 153.3 219.5 153.5 220.8 152.8 222.0 152.6 223.3 150.3 223.5 149.3 223.0 148.1 222.8 147.8 224.0 148.6 224.4 146.6 226.5 145.4 232.3 144.1 234.8 142.3 236.0 140.3 236.5 139.3 237.0 138.3 237.4 136.2 237.6 132.0 236.1 129.8 236.5 124.2 238.6 122.4 238.6 120.6 238.1 120.9 236.6 120.9 233.0 121.9 232.5 122.4 231.7 123.1 231.5 123.9 231.8 124.6 233.0 130.9 231.7 134.4 231.5 135.5 232.1 136.6 231.3 136.3 230.4 135.1 230.2 132.6 230.5 131.9 230.8 131.2 230.6 130.4 229.9 128.8 229.4 128.2 229.4 120.9 229.7 120.3 229.9 119.3 230.4 118.4 229.9 118.2 229.2 118.2 228.4 117.4 227.8 116.7 228.0 115.5 228.3 116.1 227.6 116.8 227.2 115.8 226.0 116.6 224.4 118.2 223.1 118.9 222.7 120.2 221.4 121.6 220.5 123.2 220.6 124.6 221.8 125.6 223.8 126.5 224.5 127.6 224.4 128.1 223.5 128.4 222.5 130.2 221.3 132.2 220.5 133.8 219.7 134.7 217.6 134.6 216.4 134.2 215.2 134.9 214.9Z",
+    "nom": "Kocaeli",
+    "region": "Marmara"
+   },
+   "77": {
+    "d": "M107.1 242.0 105.1 241.8 102.4 240.1 100.7 239.7 101.3 238.5 102.4 237.8 104.6 237.0 105.5 236.4 106.8 235.1 116.4 234.0 117.6 233.6 118.9 232.9 119.8 232.4 120.5 233.2 120.9 236.6 120.6 238.1 118.7 237.7 116.7 239.7 114.8 240.1 110.1 238.1 109.1 238.2 107.0 237.7 107.1 242.0Z",
+    "nom": "Yalova",
+    "region": "Marmara"
+   },
+   "16": {
+    "d": "M83.3 244.6 87.6 244.4 89.2 244.7 91.9 244.6 91.3 244.8 92.3 244.9 93.7 244.9 95.2 245.3 96.6 246.0 97.2 246.0 98.0 245.4 99.8 245.1 100.7 244.5 102.3 244.9 103.3 244.9 104.1 245.1 105.3 245.8 106.4 246.0 108.7 246.0 109.7 245.5 110.2 243.9 110.9 243.7 111.9 243.5 111.8 242.6 111.1 242.0 110.4 241.5 109.7 241.3 108.0 241.3 107.1 242.0 107.0 237.7 109.1 238.2 110.1 238.1 114.8 240.1 116.7 239.7 118.7 237.7 120.6 238.1 122.4 238.6 124.2 238.6 129.8 236.5 132.0 236.1 136.2 237.6 136.3 238.4 136.6 239.3 135.0 240.2 134.3 240.7 133.8 241.3 133.2 242.4 133.0 243.7 132.7 244.7 132.3 245.7 132.4 246.9 133.1 247.8 133.3 248.9 132.7 250.0 129.8 253.0 128.9 257.0 129.0 259.0 130.6 261.3 131.4 261.9 131.8 263.9 130.3 264.5 128.6 264.1 127.6 264.2 126.7 264.7 125.7 264.8 124.7 264.7 121.5 263.5 120.0 264.5 119.4 266.9 119.0 267.8 117.5 271.6 116.1 272.6 115.5 274.4 115.3 277.1 113.6 278.1 111.4 278.1 109.2 277.9 107.8 277.6 106.7 276.7 105.9 275.9 105.0 275.5 103.6 275.4 102.2 275.7 100.9 275.5 100.2 274.3 99.1 274.0 98.6 273.3 98.0 272.3 98.0 271.2 98.1 270.4 96.8 270.1 96.2 270.8 93.7 270.5 85.6 264.5 85.0 263.3 84.5 260.6 83.9 259.5 82.2 258.4 81.1 256.6 80.6 255.1 80.4 254.3 80.8 252.8 81.2 252.2 81.5 251.5 80.9 250.2 80.2 250.0 80.0 248.6 80.8 247.8 81.7 247.1 83.2 244.9Z",
+    "nom": "Bursa",
+    "region": "Marmara"
+   },
+   "10": {
+    "d": "M63.8 247.9 64.5 247.4 65.9 247.5 66.6 247.9 67.3 248.0 68.1 247.6 68.7 247.9 69.6 247.9 70.5 247.7 71.2 246.7 72.8 245.8 73.4 245.1 72.8 245.1 71.2 244.6 70.5 244.8 70.3 244.1 69.6 243.5 69.3 242.6 68.5 242.2 67.5 241.2 67.2 240.5 67.9 240.1 68.7 239.4 69.5 239.1 70.1 239.9 70.9 239.7 76.0 240.5 77.4 241.0 77.4 242.6 74.8 243.9 74.0 244.6 74.1 245.6 75.2 245.9 77.8 245.7 80.4 244.7 83.3 244.6 81.7 247.1 80.8 247.8 80.0 248.6 80.2 250.0 80.9 250.2 81.5 251.5 81.2 252.2 80.8 252.8 80.4 254.3 80.6 255.1 81.1 256.6 82.2 258.4 83.9 259.5 84.5 260.6 85.0 263.3 85.6 264.5 93.7 270.5 96.2 270.8 96.8 270.1 97.7 269.8 98.0 271.2 98.0 272.3 98.6 273.3 99.1 274.0 99.7 274.0 100.9 275.5 102.2 275.7 103.6 275.4 105.0 275.5 105.9 275.9 106.7 276.7 106.1 277.8 105.9 278.6 105.9 279.4 105.3 280.2 104.9 281.4 104.5 284.2 103.8 285.4 103.1 286.2 102.8 286.8 101.9 288.5 100.9 289.2 98.6 290.0 97.4 290.6 97.2 291.9 97.4 293.4 94.5 293.4 91.7 294.8 90.6 295.1 89.4 295.3 88.0 295.2 86.8 295.4 86.0 296.5 84.8 297.2 83.5 297.5 82.2 298.0 80.8 297.5 79.2 293.9 76.6 291.2 75.9 290.4 73.6 291.2 72.4 290.7 72.8 289.2 73.7 287.6 73.0 286.3 71.5 286.5 69.8 285.9 68.5 285.8 66.3 286.1 64.2 285.5 62.9 284.4 61.4 283.7 59.1 285.0 58.2 283.2 56.9 281.9 55.1 281.6 49.5 285.2 48.6 285.6 47.7 286.1 47.1 286.9 46.6 287.8 46.0 288.5 39.4 293.3 38.5 292.7 38.1 291.8 37.9 291.0 37.8 290.2 37.0 289.3 35.5 289.4 34.7 289.4 34.1 289.1 34.6 288.0 35.3 287.4 35.0 288.0 35.6 288.4 36.3 287.7 37.2 286.7 40.5 284.2 40.1 283.4 41.1 282.7 41.9 282.3 41.6 281.7 43.9 280.8 44.0 280.1 44.5 278.6 44.4 277.8 44.2 277.2 42.9 276.9 42.2 277.2 41.6 277.7 41.0 277.9 40.2 277.4 35.9 278.2 35.8 275.0 36.8 271.9 38.1 271.6 40.8 272.0 42.2 271.5 43.3 270.6 45.5 269.7 46.8 268.6 48.2 268.6 49.2 268.7 50.1 268.3 52.3 268.6 54.6 269.4 55.9 268.9 57.1 268.0 58.4 267.5 59.7 266.6 60.3 265.1 60.9 263.5 61.0 261.9 60.0 260.6 60.3 259.9 60.8 258.7 61.0 257.6 61.4 256.4 61.6 255.6 60.9 255.3 59.7 254.7 59.1 253.6 59.9 253.1 62.1 250.9 63.5 250.0 63.9 248.3ZM66.4 234.6 67.8 234.6 68.6 234.9 68.7 235.7 68.1 236.1 67.0 236.3 65.4 237.3 64.8 237.6 64.1 237.3 63.1 237.0 62.7 235.7 62.5 234.7 63.1 234.4 64.0 234.4 64.8 234.2 65.6 234.2 66.4 234.6ZM66.0 242.2 65.1 242.3 64.1 242.0 64.3 241.2 64.8 240.4 65.8 240.8 65.8 241.5 66.0 242.2Z",
+    "nom": "Balıkesir",
+    "region": "Marmara"
+   },
+   "35": {
+    "d": "M54.2 344.0 54.3 343.2 54.6 342.4 54.3 341.5 53.5 340.1 52.7 340.3 51.6 340.3 50.5 340.1 49.7 339.8 49.3 339.1 48.5 338.9 48.2 338.0 47.0 337.7 45.4 337.0 44.6 336.9 43.6 337.1 42.9 337.4 42.5 338.1 41.3 336.6 41.4 335.5 41.3 334.9 40.8 333.9 40.1 333.2 39.3 333.1 39.2 331.4 38.3 331.0 37.2 331.4 35.3 331.4 34.6 334.1 34.2 334.9 33.7 335.5 33.1 334.3 32.5 334.8 31.5 333.8 31.2 333.0 30.5 332.7 29.8 332.0 29.0 331.2 28.2 330.8 28.4 331.5 27.4 330.7 27.5 330.0 27.4 329.2 26.9 330.3 25.5 330.3 24.5 329.4 22.6 328.7 22.7 327.9 23.5 328.2 24.2 327.0 24.9 326.8 24.3 326.1 24.2 325.4 24.9 325.4 25.3 324.6 25.4 325.5 25.0 326.2 25.6 326.5 26.3 327.0 27.2 327.0 27.2 326.2 27.8 326.3 28.6 326.1 29.4 325.5 30.0 325.1 30.1 324.3 29.8 323.4 29.3 322.7 30.1 323.1 31.2 322.4 30.0 321.5 29.4 321.3 28.6 320.8 28.1 321.5 27.3 321.6 27.6 321.0 27.8 320.3 26.8 318.4 26.5 317.0 26.1 315.0 26.2 313.9 26.6 313.2 27.8 312.8 29.0 312.7 29.7 312.9 30.4 313.3 31.0 313.7 32.0 314.9 32.5 315.6 33.4 317.4 34.1 318.4 34.8 319.0 35.0 319.9 35.0 320.7 35.0 321.3 34.2 321.1 33.5 321.3 34.0 322.0 33.5 323.0 34.2 323.1 34.7 324.2 35.6 326.6 36.1 327.4 36.8 327.2 36.7 326.4 36.0 324.3 36.2 323.7 36.5 323.0 37.5 322.7 38.1 322.8 38.4 323.6 39.0 325.2 39.6 324.9 40.3 325.3 40.9 325.1 43.8 324.6 45.4 323.9 46.0 323.7 46.6 323.2 47.2 323.4 47.9 323.4 48.9 323.7 49.6 323.2 50.3 322.4 51.2 321.9 50.6 321.7 49.8 321.6 48.7 321.5 47.7 321.3 46.8 321.3 44.9 322.1 44.3 322.4 43.9 321.5 43.0 320.0 41.8 319.5 40.8 318.8 40.5 318.1 41.4 319.0 42.3 319.5 42.4 318.8 41.6 318.1 41.2 317.4 41.4 316.4 41.0 315.5 40.4 315.9 39.8 316.0 40.0 315.4 39.4 315.1 38.6 315.1 38.7 314.5 38.1 314.2 37.5 313.7 38.2 313.2 37.9 312.3 37.5 311.0 38.1 310.7 39.7 310.3 40.6 309.7 41.3 310.1 42.3 310.4 43.2 310.5 43.3 309.7 44.0 309.7 44.1 308.7 43.2 307.5 44.2 306.7 44.4 307.6 45.0 307.7 44.9 306.2 45.9 305.7 46.6 305.1 47.2 305.5 48.1 304.5 47.4 304.3 47.9 303.2 47.4 302.4 46.6 303.1 45.6 303.2 45.2 302.5 44.6 302.5 43.8 302.4 42.4 303.3 41.7 303.2 41.2 302.5 40.2 302.0 39.9 301.1 40.0 300.1 40.5 299.4 39.8 299.1 40.9 298.1 41.7 297.7 42.6 297.1 42.3 296.4 41.6 295.2 40.7 294.1 39.4 293.3 46.0 288.5 46.6 287.8 47.1 286.9 47.7 286.1 48.6 285.6 49.5 285.2 55.1 281.6 56.9 281.9 58.2 283.2 59.1 285.0 60.3 288.0 61.3 292.7 61.8 294.1 62.9 296.3 62.7 298.4 61.8 299.3 59.8 301.0 57.9 301.8 56.2 303.0 55.8 304.4 55.7 305.9 55.1 307.2 54.2 308.2 53.3 309.7 53.2 310.5 54.0 311.4 55.2 312.5 56.0 315.2 57.8 316.8 60.0 317.0 63.5 316.9 65.0 317.9 65.5 320.1 67.7 321.7 70.1 322.8 70.7 324.6 72.2 326.4 73.8 326.1 74.5 324.7 75.0 323.5 76.5 323.6 78.0 324.2 78.9 324.3 79.8 324.0 81.1 325.4 81.9 327.4 85.0 326.8 86.1 326.5 86.9 326.6 87.5 327.4 88.6 327.7 89.3 327.8 90.7 328.1 91.6 329.2 92.8 333.3 94.2 335.4 89.4 337.2 88.1 337.4 86.9 337.7 85.8 338.4 84.7 338.8 78.8 338.9 71.7 340.8 64.1 340.2 62.5 340.5 58.8 343.0 56.3 343.9 54.3 344.0Z",
+    "nom": "İzmir",
+    "region": "Ege"
+   },
+   "09": {
+    "d": "M58.6 362.8 57.5 363.2 57.1 364.2 56.1 364.5 56.5 365.1 54.5 365.4 53.7 365.9 53.1 365.4 52.4 365.2 52.6 364.3 52.5 363.4 53.1 363.2 52.8 362.1 53.0 360.3 52.3 360.2 51.6 360.7 51.9 359.5 52.0 358.9 51.9 358.0 51.8 357.2 52.6 356.9 52.7 356.0 52.1 355.4 50.3 354.2 47.7 353.5 46.5 352.8 46.8 352.0 49.4 352.0 50.1 351.9 52.7 351.0 53.8 349.7 54.2 348.2 54.2 347.4 53.9 346.5 53.4 345.7 53.5 345.0 54.2 344.2 56.3 343.9 58.8 343.0 62.5 340.5 64.1 340.2 71.7 340.8 78.8 338.9 84.7 338.8 85.8 338.4 86.9 337.7 88.1 337.4 89.4 337.2 94.2 335.4 98.4 335.5 98.7 336.4 99.1 337.3 100.9 338.4 101.3 339.6 101.2 341.0 101.7 343.4 101.4 344.2 100.7 344.7 100.6 345.7 101.3 346.6 101.8 347.7 102.4 348.7 104.4 349.1 104.7 350.0 104.6 351.1 103.7 351.8 102.5 351.8 101.0 353.9 99.4 355.5 97.0 355.2 94.9 355.8 94.2 357.3 94.6 358.8 95.3 359.2 95.7 360.3 91.6 359.7 89.4 358.5 87.5 356.8 85.2 356.3 83.6 357.5 82.5 359.7 81.3 360.7 77.5 361.0 75.4 360.9 74.1 360.2 72.6 360.2 71.3 360.5 69.8 360.3 67.7 358.8 65.2 358.4 64.0 358.0 63.0 357.2 61.9 357.3 61.0 357.8 60.6 358.5 58.9 362.2 58.6 362.8Z",
+    "nom": "Aydın",
+    "region": "Ege"
+   },
+   "48": {
+    "d": "M115.7 407.1 115.3 406.4 113.1 405.3 112.6 404.6 112.2 403.9 111.3 403.9 110.6 403.3 111.0 402.7 111.7 402.5 111.7 401.5 111.5 400.8 110.6 400.1 111.1 399.4 111.4 397.6 111.2 396.9 110.6 397.1 108.8 397.2 108.1 397.1 108.7 396.9 108.6 396.0 108.3 395.4 108.8 394.4 109.4 394.5 110.2 393.5 110.7 394.1 111.2 393.3 110.8 392.6 108.7 391.0 106.3 390.0 105.8 389.0 104.7 390.2 104.3 390.8 103.5 391.3 103.5 392.1 103.2 392.8 103.6 393.6 104.2 393.1 104.1 392.2 104.7 392.7 104.5 393.4 103.9 394.0 103.7 394.7 102.8 395.0 102.1 394.5 102.4 393.9 102.3 393.2 101.2 393.0 101.0 392.0 99.9 391.1 98.5 390.9 97.6 391.3 97.2 390.6 96.5 390.5 96.1 391.1 95.5 389.7 95.9 388.4 95.8 387.7 95.7 387.0 95.1 387.1 94.6 386.3 93.7 386.2 93.0 386.6 93.2 387.5 92.6 387.2 91.9 387.0 91.2 386.4 90.9 385.1 91.0 384.5 90.8 383.8 90.3 384.5 88.8 384.8 88.7 385.5 89.4 385.6 89.7 386.5 89.4 387.1 88.5 387.5 86.9 386.7 86.6 387.3 85.8 387.3 85.5 386.5 86.6 386.2 85.8 385.3 84.8 385.3 84.2 386.6 84.7 387.5 84.6 388.4 85.8 389.4 86.0 390.3 85.1 389.8 84.5 390.6 83.8 390.8 82.5 391.7 81.4 393.0 81.0 393.9 80.4 394.9 79.6 395.5 78.8 395.2 78.3 395.9 77.5 396.3 76.6 396.6 75.9 396.0 76.1 395.4 78.0 394.9 78.9 394.2 79.7 393.3 79.3 392.7 78.7 393.3 78.8 392.4 78.4 391.7 77.8 392.3 77.1 392.1 76.3 392.0 76.0 391.3 77.1 391.1 77.8 390.8 79.4 390.2 80.5 390.3 80.5 389.7 79.6 389.4 79.8 388.7 80.4 388.4 80.7 387.4 79.8 387.1 79.0 388.1 78.1 388.5 76.3 388.9 75.5 388.7 74.8 389.2 74.0 389.0 73.3 389.3 72.5 389.5 71.6 388.8 70.4 388.9 69.7 388.8 68.8 388.6 67.6 389.7 67.2 390.3 66.9 391.9 66.8 392.7 65.8 392.2 64.7 391.9 63.7 392.1 61.1 392.4 60.7 393.0 59.9 392.4 59.3 392.3 58.6 392.4 58.3 391.7 57.5 391.9 57.5 391.2 58.5 390.9 59.2 390.3 59.3 389.6 60.0 388.9 61.0 388.9 63.3 388.6 64.4 388.6 65.1 388.1 65.2 387.5 66.0 386.9 67.4 387.7 68.3 387.8 69.2 387.7 70.3 387.1 73.4 386.7 74.5 387.1 75.7 387.3 76.7 387.2 77.8 387.9 78.1 387.2 78.4 386.3 77.7 386.0 77.1 386.0 77.7 385.6 77.1 384.8 77.8 384.7 78.6 384.3 78.0 383.4 77.6 382.7 78.2 382.7 78.8 381.9 79.4 381.9 80.1 381.9 81.3 382.0 82.0 382.7 82.1 382.0 81.8 381.3 82.5 381.4 83.2 380.5 83.4 379.9 83.4 379.2 84.5 379.7 84.5 378.9 86.2 378.2 87.1 378.0 86.9 377.4 86.3 377.2 82.3 377.8 80.8 377.8 80.3 378.6 76.5 377.8 75.8 378.2 75.1 378.3 74.2 378.1 73.4 378.2 70.9 379.0 70.3 379.0 69.6 379.3 68.9 379.4 68.3 379.0 67.3 379.0 66.3 379.3 65.2 379.6 64.3 379.3 63.6 379.3 63.4 380.3 62.7 379.7 62.0 379.4 61.0 379.5 60.4 379.1 59.8 378.3 58.7 378.5 57.9 379.4 57.7 378.6 56.6 378.5 56.4 379.3 55.8 380.1 55.6 380.8 55.0 380.8 54.2 380.7 53.8 379.2 53.7 378.5 53.6 377.8 53.2 376.7 53.5 375.9 54.3 375.7 55.2 374.8 54.5 374.6 53.9 374.3 54.5 374.1 55.5 374.4 56.1 374.3 56.1 373.7 56.1 372.9 56.7 373.6 57.5 373.2 57.9 373.8 58.6 374.0 59.2 374.4 59.9 375.3 60.8 375.5 61.6 374.9 62.2 374.6 63.5 374.2 63.0 372.8 62.8 372.1 62.4 371.5 63.8 371.2 63.9 372.1 64.5 371.8 64.4 371.1 64.3 370.0 64.9 369.4 65.0 368.6 64.7 368.0 63.5 368.3 62.9 369.3 62.0 370.1 62.1 369.4 61.8 368.6 61.1 368.6 60.4 369.2 60.6 368.2 61.1 367.5 61.2 366.8 61.3 366.2 60.6 366.7 59.9 367.1 59.0 367.0 58.4 366.4 58.1 365.5 58.4 364.7 59.6 363.7 58.7 362.8 58.9 362.2 60.6 358.5 61.0 357.8 61.9 357.3 63.0 357.2 64.0 358.0 65.2 358.4 67.7 358.8 69.8 360.3 71.3 360.5 72.6 360.2 74.1 360.2 75.4 360.9 77.5 361.0 81.3 360.7 82.5 359.7 83.6 357.5 85.2 356.3 87.5 356.8 89.4 358.5 91.6 359.7 95.7 360.3 96.0 361.0 95.9 361.8 95.9 362.9 96.2 364.1 97.0 364.3 98.1 364.3 99.5 364.9 100.5 366.6 100.9 368.4 101.9 369.9 104.2 370.3 105.1 371.7 107.8 373.2 109.6 375.1 110.0 376.6 110.3 378.2 110.4 379.5 110.5 380.1 111.2 380.8 112.9 381.0 116.0 382.7 117.0 382.1 117.7 381.3 118.0 380.3 118.2 377.7 119.7 376.5 120.4 378.5 119.9 380.8 121.1 381.3 122.6 379.3 126.3 378.8 128.9 382.6 125.5 390.4 126.0 392.9 125.4 395.1 123.9 396.2 122.5 397.5 122.2 398.6 122.4 399.7 121.7 400.1 120.7 399.6 118.8 400.4 117.8 402.6 117.6 403.3 117.3 404.4 117.1 405.9 116.6 406.7 115.7 407.1Z",
+    "nom": "Muğla",
+    "region": "Ege"
+   },
+   "07": {
+    "d": "M217.6 415.1 216.3 414.9 213.4 413.3 212.9 412.5 211.8 412.0 211.2 411.7 209.8 409.7 208.8 409.1 208.6 407.7 207.8 406.3 205.9 404.6 205.5 403.5 205.4 402.9 204.7 401.8 203.5 400.2 203.1 399.5 200.8 397.3 200.0 397.1 199.2 396.6 197.8 396.6 197.2 396.5 196.6 395.8 195.8 395.5 194.9 395.3 194.1 395.1 192.9 394.6 192.3 393.8 191.5 393.4 188.6 392.2 187.6 391.2 181.8 388.6 180.9 388.4 180.8 387.4 179.7 386.7 167.4 384.8 162.3 385.1 161.5 384.9 160.8 384.5 159.6 383.5 157.8 384.7 157.0 385.6 156.6 386.8 156.1 387.5 156.0 389.0 155.8 390.4 155.9 391.1 156.2 391.9 155.8 392.5 155.6 393.5 155.6 394.2 156.0 395.0 156.3 396.0 155.9 397.4 155.0 398.8 154.1 400.8 153.4 401.9 153.1 402.9 153.1 403.6 153.9 404.4 153.7 405.0 154.5 405.2 154.0 405.8 153.2 406.5 152.8 407.4 153.5 407.4 152.7 408.0 152.0 409.3 150.7 410.6 150.8 409.0 150.6 408.2 149.6 408.1 146.3 406.6 145.7 406.5 143.4 406.9 143.0 407.9 142.9 408.7 142.5 407.9 142.3 408.7 141.9 409.3 140.7 409.0 139.9 408.5 138.1 410.1 137.3 410.3 136.6 410.1 135.9 410.1 134.8 410.9 133.7 411.2 132.4 412.0 132.6 412.7 131.7 413.3 131.4 412.7 130.6 412.4 129.8 412.3 129.2 413.0 128.4 413.9 128.2 413.1 127.2 412.6 126.9 411.7 125.7 411.5 126.2 410.9 126.9 410.9 126.2 410.6 123.7 410.6 122.9 410.4 121.0 409.3 120.4 408.2 119.8 408.2 119.1 408.7 118.7 409.4 118.0 409.0 115.7 407.1 116.6 406.7 117.1 405.9 117.4 404.8 117.3 403.9 117.8 402.6 118.8 400.4 120.7 399.6 121.7 400.1 122.4 399.7 122.2 398.6 122.5 397.5 123.9 396.2 125.4 395.1 126.0 392.9 125.5 390.4 128.9 382.6 129.8 382.4 130.6 381.9 131.4 380.9 132.2 380.0 133.4 377.7 133.9 374.8 135.6 372.4 141.1 369.4 143.0 369.1 147.5 367.1 149.4 367.4 151.3 369.7 152.0 370.0 156.3 369.9 159.1 370.2 161.5 370.2 162.6 369.9 164.5 367.7 165.1 366.0 167.2 364.1 169.9 365.3 173.1 364.1 174.8 363.9 176.2 362.8 177.8 362.2 179.4 362.5 180.1 363.3 180.8 364.1 182.0 365.1 183.4 365.7 186.4 365.7 194.3 367.4 196.9 369.1 198.9 370.9 201.0 372.5 202.6 374.2 203.9 376.2 204.8 377.0 205.7 377.7 207.8 379.7 209.0 380.2 210.0 380.8 210.1 382.0 209.3 382.7 208.9 383.9 209.4 385.0 210.7 385.5 212.2 385.6 213.1 385.8 213.8 386.8 214.2 389.4 214.0 392.1 215.1 394.9 216.4 397.6 217.2 398.7 218.2 399.5 219.4 400.2 220.1 401.4 219.8 403.8 219.9 408.1 219.4 410.0 218.9 411.0 218.5 412.1 218.4 413.1 218.2 414.0 217.7 414.8Z",
+    "nom": "Antalya",
+    "region": "Akdeniz"
+   },
+   "33": {
+    "d": "M290.2 390.0 289.2 390.3 289.5 389.5 287.8 387.9 285.3 386.5 284.2 386.2 282.9 386.5 280.8 387.5 279.9 387.7 278.6 388.4 278.1 389.3 277.0 390.0 274.3 392.5 271.0 394.7 270.0 395.5 267.4 399.0 267.1 399.7 266.7 400.3 265.0 401.8 263.9 402.4 263.8 403.5 264.0 404.7 263.9 405.8 262.4 406.5 261.5 406.8 261.2 407.6 260.8 408.5 260.5 409.6 260.3 410.3 259.7 410.3 260.0 409.4 259.9 408.3 259.4 407.3 258.3 406.7 257.6 406.3 256.6 407.7 255.7 408.2 255.8 408.8 255.4 409.6 254.7 409.9 253.6 410.3 252.5 411.6 252.1 413.1 251.1 411.8 250.7 411.1 249.8 411.5 249.1 412.1 248.4 413.0 247.8 413.7 247.1 413.6 246.8 413.0 245.5 412.6 244.2 412.6 243.1 413.2 241.5 412.9 240.8 412.8 240.2 413.6 238.2 413.6 237.3 413.9 236.6 413.8 235.9 413.4 234.9 413.6 234.2 414.7 233.8 415.3 233.2 415.4 231.6 415.3 229.5 414.7 227.0 415.8 224.7 417.7 223.4 417.6 220.6 416.9 219.4 416.3 217.6 415.1 218.2 414.0 218.4 413.1 218.5 412.1 218.9 411.0 219.4 410.0 219.9 408.1 219.8 403.8 220.1 401.4 222.1 401.2 224.1 401.7 225.9 401.6 227.7 400.8 229.5 400.4 231.4 400.5 232.4 400.3 233.1 399.5 233.5 398.1 233.9 396.8 234.8 396.6 235.9 397.2 237.1 397.6 237.9 396.6 237.1 395.4 235.7 394.3 234.1 393.8 233.4 393.3 232.9 392.5 232.1 392.1 231.6 391.1 231.4 390.0 230.9 389.0 230.2 388.2 230.2 386.9 231.3 386.7 233.2 385.6 234.1 385.3 234.8 386.3 235.9 386.6 236.6 385.4 237.0 383.7 237.9 382.4 239.1 382.0 240.1 381.3 241.1 380.4 242.2 379.7 243.5 379.3 247.4 378.9 249.8 377.9 252.4 377.7 253.4 378.0 254.2 378.0 255.3 377.3 257.6 376.9 260.5 374.6 261.6 374.1 264.0 373.9 266.1 373.0 267.2 371.7 268.0 371.2 270.7 370.3 272.4 369.4 273.8 368.0 274.7 367.5 276.4 367.0 277.3 365.2 279.6 365.2 280.6 364.8 281.6 364.2 283.8 363.3 285.9 363.8 286.9 366.2 288.1 368.4 289.5 369.6 289.6 373.6 290.3 375.9 291.8 377.0 293.6 376.9 294.8 378.2 293.9 380.6 293.9 382.9 294.4 385.1 294.5 386.2 294.4 387.3 293.2 388.4 291.9 388.7 290.3 389.9Z",
+    "nom": "Mersin",
+    "region": "Akdeniz"
+   },
+   "01": {
+    "d": "M321.0 384.2 319.8 385.7 318.9 386.2 317.6 387.7 315.9 388.4 313.4 388.5 312.2 388.9 311.5 390.0 310.7 390.1 309.9 391.0 310.1 391.7 310.6 391.0 311.3 391.2 312.0 390.8 311.8 390.0 312.5 390.4 313.1 390.5 314.1 390.3 312.3 391.1 311.5 391.8 311.0 392.7 312.8 391.2 313.7 390.8 312.6 392.1 312.1 393.1 311.8 393.8 311.7 394.7 310.7 395.4 309.4 395.5 308.1 394.5 307.4 394.5 307.0 395.1 307.6 395.3 308.6 395.7 307.4 395.3 306.0 395.2 305.0 395.7 304.5 396.3 303.8 396.5 303.0 397.2 302.2 396.4 301.4 396.1 293.6 391.3 292.7 390.9 291.8 390.2 291.1 390.0 290.2 390.0 291.9 388.7 293.2 388.4 294.4 387.3 294.5 386.2 294.4 385.1 293.9 382.9 293.9 380.6 294.8 378.2 293.6 376.9 291.8 377.0 290.3 375.9 289.6 373.6 289.5 369.6 288.1 368.4 286.9 366.2 285.9 363.8 285.8 362.0 286.0 361.1 286.8 359.8 287.7 359.0 288.2 357.3 287.9 356.2 287.2 354.2 287.0 352.3 288.0 350.8 289.6 350.9 291.1 351.4 294.2 350.9 298.2 346.8 303.5 347.2 306.3 347.9 310.1 349.5 311.7 348.7 311.0 341.4 322.4 333.5 324.1 331.2 325.4 328.4 326.2 327.2 327.6 324.0 328.9 322.8 331.3 321.5 333.8 320.8 335.4 321.5 336.5 323.4 337.3 325.4 338.6 326.8 336.9 328.5 335.9 330.9 334.4 337.9 333.5 340.5 333.1 343.1 333.0 344.3 333.3 346.2 334.2 348.6 334.2 350.2 333.1 351.2 332.5 351.6 331.7 352.7 329.3 352.7 326.5 352.9 325.0 355.4 323.3 359.4 321.2 364.5 321.2 367.6 322.2 370.5 322.8 370.4 324.8 370.9 325.7 371.6 326.3 374.4 325.8 376.4 325.0 378.8 324.3 378.5 323.6 378.4 323.0 378.8 320.5 381.8 320.5 383.4 321.0 384.2Z",
+    "nom": "Adana",
+    "region": "Akdeniz"
+   },
+   "14": {
+    "d": "M215.6 232.5 214.5 232.9 213.6 233.8 213.5 235.9 214.7 239.1 214.1 240.0 213.0 241.2 212.2 242.7 209.7 244.0 205.4 243.3 204.2 243.7 202.9 244.6 199.2 245.5 197.1 246.4 194.5 247.0 190.6 246.9 189.5 247.1 186.7 248.2 185.7 248.1 184.7 247.7 183.8 247.6 183.1 247.3 182.2 246.2 177.0 246.7 174.2 245.1 171.4 244.1 170.6 245.0 170.3 246.5 170.4 248.8 169.4 250.8 166.9 252.3 165.0 254.7 163.0 254.4 161.2 253.8 160.0 252.3 158.2 249.0 157.7 247.3 158.3 245.9 157.6 244.5 157.0 243.7 156.8 242.6 157.6 242.0 158.5 239.5 159.7 237.7 161.9 237.8 163.8 236.8 164.2 235.7 164.0 234.4 163.9 233.1 165.9 231.6 168.4 232.5 173.4 232.4 176.9 233.8 179.9 233.5 182.2 231.7 183.4 228.9 183.5 226.8 185.0 225.6 188.9 225.0 191.8 224.3 193.3 222.6 193.8 219.2 196.1 219.4 198.0 219.9 204.6 220.1 206.1 220.1 208.7 220.7 208.6 221.8 208.6 222.8 209.3 223.3 210.2 223.5 211.6 224.3 215.1 226.0 216.3 228.1 216.2 229.2 216.1 230.3 215.6 232.5Z",
+    "nom": "Bolu",
+    "region": "Karadeniz"
+   },
+   "06": {
+    "d": "M209.7 244.0 212.2 242.7 213.0 241.2 214.1 240.0 214.7 239.1 213.5 235.9 213.6 233.8 214.5 232.9 215.6 232.5 218.0 232.4 220.5 232.8 229.5 236.9 230.4 238.1 231.1 239.4 232.1 240.5 233.3 241.4 235.1 242.8 236.1 243.4 236.7 244.4 237.1 245.7 239.1 247.3 241.4 247.0 241.5 246.0 241.8 244.9 243.0 244.7 244.0 245.1 244.9 245.6 249.1 246.9 248.7 250.2 248.3 252.4 248.3 255.1 248.5 257.5 248.1 259.8 244.5 260.2 242.2 261.1 240.9 264.5 240.1 267.9 239.2 271.2 239.9 274.5 242.4 277.5 243.3 279.0 244.5 284.7 246.9 289.4 247.5 291.6 251.0 293.8 252.6 295.1 253.5 295.7 254.0 296.5 256.3 297.1 257.3 297.5 259.6 298.6 259.4 300.0 258.4 302.6 259.6 305.9 259.5 308.2 256.9 310.7 255.8 311.3 253.0 311.2 250.3 311.9 247.8 313.4 245.1 314.1 244.5 312.5 243.5 311.1 242.7 309.6 242.0 308.0 242.0 305.7 242.3 303.4 242.5 301.2 242.3 299.1 240.6 295.2 237.6 293.1 235.9 292.5 234.0 291.2 232.7 291.2 232.1 292.0 231.8 293.1 231.5 295.1 231.0 295.8 229.7 295.6 227.9 294.3 226.5 293.8 223.3 296.4 222.2 297.9 220.8 298.7 218.5 297.7 216.6 298.6 214.7 300.1 213.4 300.0 212.3 298.9 211.3 298.4 208.7 297.5 207.1 297.7 203.9 298.7 202.8 298.3 198.4 294.6 197.1 293.8 195.7 293.2 196.5 292.7 198.1 291.9 198.6 291.1 199.3 290.9 200.0 290.8 200.7 290.1 201.3 289.1 201.1 287.9 200.1 287.3 199.5 286.2 199.5 284.7 199.2 284.0 199.5 282.8 199.7 281.6 199.7 280.4 199.4 279.5 198.9 278.8 198.8 277.6 198.4 276.8 196.8 275.4 195.3 271.3 195.1 269.3 196.4 267.9 196.3 266.8 195.4 265.9 194.2 265.2 193.3 264.7 192.5 263.6 192.1 262.3 192.0 261.4 191.6 260.6 191.6 259.5 190.2 259.7 188.9 258.8 187.8 259.2 185.6 259.3 184.4 259.5 183.4 259.2 182.5 259.5 181.2 258.2 180.4 258.3 179.7 258.5 176.8 258.1 176.0 258.9 175.1 259.5 174.3 259.2 173.5 258.7 171.8 258.5 168.8 259.7 167.6 259.8 166.8 259.6 166.7 258.8 166.4 256.4 165.0 254.7 166.9 252.3 169.4 250.8 170.4 248.8 170.3 246.5 170.6 245.0 171.4 244.1 174.2 245.1 177.0 246.7 182.2 246.2 183.1 247.3 183.8 247.6 184.7 247.7 185.7 248.1 186.7 248.2 189.5 247.1 190.6 246.9 194.5 247.0 197.1 246.4 199.2 245.5 202.9 244.6 204.2 243.7 205.4 243.3 209.7 244.0Z",
+    "nom": "Ankara",
+    "region": "İç Anadolu"
+   },
+   "11": {
+    "d": "M157.7 247.3 158.2 249.0 160.0 252.3 161.2 253.8 158.0 253.9 155.5 255.9 155.0 257.9 154.6 259.9 153.6 261.8 152.0 262.9 150.3 262.9 148.7 263.6 148.3 264.4 147.8 265.2 146.8 265.7 146.0 266.3 145.7 270.4 144.4 272.8 142.6 274.7 141.5 275.0 139.2 275.3 136.8 275.9 135.4 275.6 132.0 273.2 131.0 272.7 129.7 271.9 128.2 269.2 128.1 267.5 128.6 264.1 130.3 264.5 131.8 263.9 131.4 261.9 130.6 261.3 129.0 259.0 128.9 257.0 129.8 253.0 132.7 250.0 133.3 248.9 133.1 247.8 132.4 246.9 132.3 245.7 132.7 244.7 133.0 243.7 133.2 242.4 133.8 241.3 134.3 240.7 135.0 240.2 136.6 239.3 137.5 241.0 138.6 242.7 139.8 243.7 141.0 244.9 143.7 245.7 147.9 244.6 149.3 244.5 150.4 244.8 151.6 244.8 152.6 245.4 153.3 246.5 156.1 246.9 157.7 247.3Z",
+    "nom": "Bilecik",
+    "region": "Marmara"
+   },
+   "26": {
+    "d": "M161.2 253.8 163.0 254.4 165.0 254.7 166.4 256.4 166.7 258.8 166.8 259.6 167.6 259.8 168.8 259.7 171.8 258.5 173.5 258.7 174.3 259.2 175.1 259.5 176.0 258.9 176.8 258.1 179.7 258.5 180.4 258.3 181.2 258.2 182.5 259.5 183.4 259.2 184.4 259.5 185.6 259.3 187.8 259.2 188.9 258.8 190.2 259.7 191.6 259.5 191.6 260.6 192.0 261.4 192.1 262.3 192.5 263.6 193.3 264.7 194.2 265.2 195.2 265.3 195.9 266.5 196.4 267.9 195.1 269.3 195.3 271.3 196.8 275.4 198.4 276.8 198.8 277.6 198.9 278.8 199.4 279.5 199.7 280.4 199.7 281.6 199.5 282.8 199.2 284.0 199.5 284.7 199.5 286.2 200.1 287.3 201.1 287.9 201.3 289.1 200.7 290.1 200.0 290.8 199.3 290.9 198.6 291.1 198.1 291.9 196.5 292.7 195.7 293.2 195.6 294.4 195.4 295.5 194.9 296.1 192.5 296.6 190.7 296.3 189.5 296.0 187.1 296.0 183.2 296.4 180.9 294.6 179.3 291.1 177.2 288.8 175.9 289.2 174.8 290.2 173.7 290.9 172.5 291.2 170.3 292.9 168.1 293.9 166.7 292.4 165.2 291.6 164.1 292.5 162.2 294.4 160.1 295.8 159.0 296.3 157.6 296.6 156.2 295.8 155.2 295.1 154.5 294.2 154.0 293.0 153.1 292.1 152.1 291.8 151.5 289.3 148.4 285.3 148.1 282.2 147.2 279.8 143.8 276.6 142.6 274.7 144.4 272.8 145.7 270.4 146.0 266.3 146.8 265.7 147.8 265.2 148.3 264.4 148.7 263.6 150.3 262.9 152.0 262.9 153.6 261.8 154.6 259.9 155.0 257.9 155.5 255.9 158.0 253.9 161.2 253.8Z",
+    "nom": "Eskişehir",
+    "region": "İç Anadolu"
+   },
+   "18": {
+    "d": "M216.2 229.7 219.4 227.7 223.0 224.9 224.5 222.3 225.6 221.6 228.6 222.0 231.6 220.3 232.9 217.1 233.6 218.0 238.0 218.8 240.8 220.6 241.9 222.0 243.4 222.4 244.5 222.0 247.8 220.1 250.2 219.7 255.1 217.1 256.2 216.7 257.0 218.6 256.0 219.8 255.2 220.7 254.9 221.8 256.0 223.8 257.8 224.4 258.8 225.3 259.8 226.0 261.1 226.3 262.4 226.3 263.9 228.8 263.5 230.4 262.9 231.9 263.1 233.6 263.8 235.1 264.1 236.5 264.0 237.9 264.3 239.4 265.1 240.7 265.6 241.6 265.9 242.7 266.2 243.7 266.1 244.7 264.9 246.6 264.1 248.1 263.5 248.4 262.9 248.5 260.4 249.9 257.6 249.6 249.1 246.9 244.9 245.6 244.0 245.1 243.0 244.7 241.8 244.9 241.5 246.0 241.4 247.0 239.1 247.3 237.1 245.7 236.7 244.4 236.1 243.4 235.1 242.8 233.8 241.6 232.1 240.5 231.1 239.4 230.4 238.1 229.5 236.9 220.5 232.8 218.0 232.4 215.6 232.5 216.1 230.3 216.2 229.7Z",
+    "nom": "Çankırı",
+    "region": "İç Anadolu"
+   },
+   "78": {
+    "d": "M216.2 229.2 216.3 228.1 215.1 226.0 211.6 224.3 210.2 223.5 209.3 223.3 208.6 222.8 208.6 221.8 208.7 220.7 206.1 220.1 204.6 220.1 204.6 216.5 205.6 213.3 206.1 211.2 207.2 210.0 208.8 207.7 212.2 207.9 215.4 207.1 219.1 204.0 220.5 201.2 222.2 200.7 225.2 198.0 226.2 199.1 228.1 198.8 230.3 198.1 232.6 199.7 233.4 203.2 234.3 205.2 231.3 205.8 229.7 207.3 228.3 209.2 228.0 210.5 228.6 214.8 230.3 215.0 231.9 215.7 232.6 216.6 231.6 220.3 228.6 222.0 225.6 221.6 224.5 222.3 223.0 224.9 219.4 227.7 216.2 229.2Z",
+    "nom": "Karabük",
+    "region": "Karadeniz"
+   },
+   "60": {
+    "d": "M344.8 226.3 344.2 227.3 344.6 228.5 346.4 229.1 348.1 230.1 350.6 230.9 352.2 231.9 354.2 232.7 356.5 232.9 358.5 232.6 360.6 232.8 367.7 237.6 371.8 237.9 372.8 239.8 373.4 242.2 371.8 245.3 370.0 247.9 368.9 248.3 367.7 248.6 366.8 248.7 365.8 249.6 364.6 250.2 362.1 250.5 359.4 250.4 356.6 250.8 352.6 251.8 351.4 252.3 347.9 251.8 346.7 252.2 345.7 252.8 344.8 255.1 344.2 257.5 343.6 259.1 342.6 260.0 338.1 261.8 333.0 262.0 325.8 263.4 325.5 262.6 324.9 262.0 324.3 260.9 324.3 259.3 324.6 257.1 323.3 255.9 322.0 256.3 320.7 256.8 319.3 257.1 317.8 257.2 315.4 256.7 312.5 257.0 310.1 255.3 308.0 252.9 309.2 250.4 310.1 249.4 311.8 248.7 313.4 248.1 314.3 247.1 315.1 245.9 316.0 244.3 317.4 241.4 318.2 240.4 320.8 240.2 323.3 240.8 324.0 241.5 324.9 242.0 325.6 242.1 326.7 242.8 327.3 242.8 329.1 242.0 331.7 240.3 332.4 239.8 332.8 237.6 335.3 237.1 336.7 235.2 336.7 233.8 337.2 232.5 338.3 230.9 337.6 229.3 336.6 228.8 336.0 228.2 335.7 227.5 336.1 226.7 336.7 226.0 340.1 225.2 341.1 224.7 343.2 224.5 344.2 225.3 344.8 226.3Z",
+    "nom": "Tokat",
+    "region": "Karadeniz"
+   },
+   "58": {
+    "d": "M384.0 244.5 384.7 244.1 384.8 243.4 384.6 241.8 386.1 241.0 387.5 240.9 388.6 240.5 389.5 239.7 392.0 249.1 391.9 251.3 393.1 253.0 394.8 253.9 396.7 255.3 398.6 256.4 401.7 255.7 405.0 256.7 408.1 258.2 407.9 260.2 407.3 261.8 405.9 261.8 404.5 261.5 402.9 261.9 401.4 262.9 399.9 262.7 398.5 261.6 397.1 262.3 396.0 265.6 396.2 266.9 398.3 266.8 400.6 266.3 401.2 267.0 400.9 268.1 399.7 268.2 398.6 268.8 397.8 270.1 396.3 272.2 395.9 276.3 395.2 277.6 395.6 279.2 396.6 280.2 397.7 280.8 398.4 281.8 397.0 283.1 396.4 283.8 395.7 284.2 395.9 285.3 396.0 286.7 396.4 287.8 396.5 289.0 396.4 289.6 396.4 290.4 396.6 291.0 396.7 291.6 396.4 293.0 395.8 294.1 393.4 294.9 391.1 296.5 389.2 297.1 387.1 296.8 386.0 297.0 384.9 297.5 382.5 297.5 381.4 298.1 380.3 298.9 379.1 299.3 378.0 300.1 375.4 300.6 372.9 299.3 371.5 299.7 370.8 301.2 371.1 303.1 371.7 304.9 372.0 305.7 372.2 306.6 371.7 308.0 369.5 310.4 368.2 311.3 367.5 311.6 366.0 313.4 364.4 314.8 362.6 315.7 355.7 316.3 354.9 316.0 354.1 315.4 350.1 314.8 346.1 315.9 346.2 314.3 346.9 312.9 347.2 311.7 348.5 308.1 349.3 304.9 349.9 303.4 350.6 302.0 351.9 298.3 350.8 294.7 348.3 293.4 345.7 292.9 342.8 292.9 340.0 293.9 338.5 293.3 337.0 292.2 331.9 291.4 329.5 292.3 326.5 291.8 323.6 289.7 322.6 289.6 321.6 289.2 320.9 288.0 319.1 286.9 317.5 286.8 318.7 285.4 320.1 284.4 321.1 283.1 321.8 281.5 322.8 280.1 323.8 278.8 326.5 276.8 328.7 274.5 329.6 271.3 329.6 270.4 329.2 269.5 328.2 269.0 326.7 266.3 325.8 263.4 333.0 262.0 338.1 261.8 342.6 260.0 343.6 259.1 344.2 257.5 344.8 255.1 345.7 252.8 346.7 252.2 347.9 251.8 351.4 252.3 352.6 251.8 356.6 250.8 359.4 250.4 362.1 250.5 364.6 250.2 365.8 249.6 366.8 248.7 367.7 248.6 368.9 248.3 370.0 247.9 371.8 245.3 373.4 242.2 375.1 245.4 377.4 247.3 378.5 247.1 379.4 246.4 380.3 245.2 381.5 244.4 384.0 244.5Z",
+    "nom": "Sivas",
+    "region": "İç Anadolu"
+   },
+   "19": {
+    "d": "M276.1 208.5 276.9 209.5 278.0 209.4 278.7 209.5 280.2 210.3 281.3 210.0 282.2 210.3 283.0 210.8 283.8 211.7 287.3 212.8 287.9 212.1 288.5 211.6 288.8 210.4 290.5 212.9 290.8 214.4 291.0 215.9 291.5 217.4 293.9 217.1 295.0 217.4 295.3 218.5 294.9 219.5 294.2 220.3 293.8 221.4 293.8 225.4 293.3 228.0 293.6 229.1 294.8 231.7 295.7 233.1 296.6 233.7 301.7 234.6 304.1 235.9 305.1 236.1 306.4 238.2 306.4 239.6 305.7 242.5 303.0 246.5 302.7 247.4 302.7 248.4 302.4 251.1 301.1 251.6 298.2 251.8 297.9 253.6 298.2 254.7 297.8 255.6 297.8 256.3 297.0 257.4 294.6 258.9 293.1 259.0 290.5 258.3 285.9 260.5 283.4 260.6 282.2 260.5 280.4 261.2 275.6 260.4 272.6 261.4 269.7 262.7 264.9 263.2 263.2 264.0 263.1 262.0 263.9 260.4 264.6 259.5 264.6 258.2 264.2 257.0 264.1 256.1 263.6 255.5 262.8 255.4 262.0 254.6 260.8 251.8 260.4 249.9 262.9 248.5 263.5 248.4 264.1 248.1 264.9 246.6 265.7 245.0 266.2 243.7 265.9 242.7 265.6 241.6 265.1 240.7 264.3 239.4 264.0 237.9 264.1 236.5 263.8 235.1 263.1 233.6 262.9 231.9 263.5 230.4 263.9 228.8 262.4 226.3 265.1 225.8 269.4 224.0 270.2 222.0 269.2 221.0 268.5 220.7 267.9 219.3 268.2 218.5 269.3 217.2 270.4 214.6 271.8 213.3 272.5 212.5 273.4 210.4 274.4 208.9 276.1 208.5Z",
+    "nom": "Çorum",
+    "region": "Karadeniz"
+   },
+   "05": {
+    "d": "M295.0 217.4 304.6 220.0 306.5 219.7 307.5 220.2 312.0 223.5 313.0 225.3 314.0 225.6 316.4 225.4 317.6 225.7 321.6 225.7 324.0 226.9 325.3 226.6 326.4 225.6 327.8 224.7 328.8 223.1 329.3 221.3 330.6 220.5 331.7 220.9 332.5 221.8 332.9 222.8 333.4 223.6 336.7 226.0 335.8 226.4 335.7 227.5 336.0 228.2 336.6 228.8 337.6 229.3 338.3 230.9 337.2 232.5 336.7 233.8 336.7 235.2 335.3 237.1 332.8 237.6 332.6 239.7 331.7 240.3 329.1 242.0 327.3 242.8 326.7 242.8 325.6 242.1 324.9 242.0 324.0 241.5 323.3 240.8 320.8 240.2 318.2 240.4 317.4 241.4 316.0 244.3 315.1 245.9 314.3 247.1 313.4 248.1 312.3 248.6 310.1 249.4 309.2 250.4 308.0 252.9 306.5 252.5 304.9 252.6 303.5 252.4 302.9 252.1 302.6 251.3 302.7 248.4 302.7 247.4 303.0 246.5 305.7 242.5 306.4 239.6 306.4 238.2 305.6 236.3 304.1 235.9 301.7 234.6 296.6 233.7 295.7 233.1 294.8 231.7 293.6 229.1 293.3 228.0 293.8 225.4 293.8 221.4 294.2 220.3 294.9 219.5 295.3 218.5 295.0 217.4Z",
+    "nom": "Amasya",
+    "region": "Karadeniz"
+   },
+   "43": {
+    "d": "M128.6 264.1 128.1 267.5 128.2 269.2 129.2 271.3 131.0 272.7 132.0 273.2 135.4 275.6 136.8 275.9 139.2 275.3 141.5 275.0 142.6 274.7 143.8 276.6 147.2 279.8 148.1 282.2 148.4 285.3 151.5 289.3 152.1 291.8 149.9 295.2 146.2 296.8 145.7 298.4 145.2 300.2 144.4 301.9 143.5 304.5 142.3 306.6 141.4 307.8 135.0 311.6 135.0 307.5 133.6 305.8 132.7 305.5 128.9 304.6 126.9 304.6 126.1 304.8 125.3 305.3 124.7 307.6 124.0 309.4 122.2 309.5 118.3 310.6 116.1 310.7 114.1 310.4 112.2 309.2 110.4 309.2 108.7 310.7 108.8 308.2 108.2 306.3 107.1 304.5 107.4 302.1 107.2 301.4 106.9 300.7 104.9 297.6 104.0 297.0 99.4 296.0 98.7 295.5 97.2 293.8 97.3 292.4 97.4 290.6 98.6 290.0 100.9 289.2 101.9 288.5 102.8 286.8 103.1 286.2 103.8 285.4 104.5 284.2 104.9 281.4 105.3 280.2 105.9 279.4 105.9 278.6 106.1 277.8 106.7 276.7 107.8 277.6 109.2 277.9 111.4 278.1 113.6 278.1 115.3 277.1 115.5 274.4 116.1 272.6 117.5 271.6 118.4 268.4 119.4 266.9 120.0 264.5 121.5 263.5 124.7 264.7 125.7 264.8 126.7 264.7 127.6 264.2 128.6 264.1Z",
+    "nom": "Kütahya",
+    "region": "Ege"
+   },
+   "42": {
+    "d": "M234.0 291.2 235.3 292.2 237.6 293.1 240.6 295.2 242.3 299.1 242.5 301.2 242.3 303.4 242.0 305.7 242.0 308.0 242.7 309.6 243.5 311.1 244.5 312.5 245.1 314.1 244.5 315.2 242.8 317.2 242.1 318.5 241.6 321.7 240.6 323.4 239.8 325.5 239.6 326.9 239.1 328.3 238.9 331.5 240.0 334.6 240.8 335.3 241.0 336.9 241.5 338.4 243.5 341.0 244.8 342.2 246.2 342.3 249.8 341.5 254.6 341.1 257.0 341.3 259.4 340.6 261.8 339.7 264.2 339.1 266.5 339.5 266.9 341.5 267.9 343.2 269.4 343.7 270.8 344.5 272.0 346.2 273.0 348.1 274.2 349.4 275.2 350.8 275.6 353.1 274.9 355.1 274.2 355.9 273.7 357.0 273.5 358.8 273.5 359.9 274.7 361.6 275.4 362.3 276.6 363.5 277.3 365.2 276.9 366.5 274.7 367.5 273.8 368.0 272.4 369.4 270.7 370.3 268.0 371.2 267.2 371.7 266.1 373.0 265.4 371.5 263.3 367.9 261.5 365.9 259.0 363.1 255.5 359.2 254.8 356.7 254.7 354.2 253.4 353.7 250.4 353.6 249.0 354.5 248.1 355.7 246.6 357.8 243.5 359.0 238.7 359.2 234.1 359.8 231.2 361.0 229.6 362.8 226.0 367.0 222.2 372.2 219.4 376.1 218.6 378.7 218.8 380.1 220.6 381.0 222.5 381.2 223.0 382.2 222.8 383.4 221.9 384.9 217.5 389.4 214.0 392.1 214.2 389.4 213.8 386.8 213.1 385.8 212.2 385.6 210.7 385.5 209.4 385.0 208.9 383.9 209.3 382.7 210.1 382.0 210.0 380.8 209.0 380.2 207.8 379.7 205.7 377.7 204.8 377.0 203.9 376.2 202.6 374.2 201.0 372.5 198.9 370.9 196.9 369.1 194.3 367.4 186.4 365.7 183.4 365.7 182.0 365.1 180.8 364.1 180.1 363.3 179.4 362.5 180.3 360.3 180.6 357.9 180.1 356.5 179.4 355.3 179.4 353.9 180.7 353.5 181.7 352.2 181.8 350.3 183.1 348.3 183.0 345.2 182.3 342.0 183.0 339.5 184.0 338.8 186.2 338.0 188.1 336.7 188.3 335.4 186.1 333.5 185.4 332.4 184.3 332.0 182.2 330.2 180.3 327.7 177.9 325.7 177.0 322.8 182.5 319.2 184.8 316.7 187.5 313.2 187.6 312.3 187.5 311.5 187.4 310.7 187.9 308.6 188.9 306.8 191.2 302.9 191.5 301.3 190.0 300.0 190.3 299.0 190.7 296.3 192.5 296.6 194.9 296.1 195.4 295.5 195.6 294.4 195.7 293.2 197.1 293.8 198.4 294.6 202.8 298.3 203.9 298.7 207.1 297.7 208.7 297.5 211.3 298.4 212.3 298.9 213.4 300.0 214.7 300.1 216.6 298.6 218.5 297.7 220.8 298.7 222.2 297.9 223.3 296.4 226.5 293.8 227.9 294.3 229.7 295.6 231.0 295.8 231.5 295.1 231.8 293.1 232.1 292.0 232.7 291.2 234.0 291.2Z",
+    "nom": "Konya",
+    "region": "İç Anadolu"
+   },
+   "70": {
+    "d": "M250.4 353.6 253.4 353.7 254.7 354.2 255.0 356.1 255.5 359.2 259.0 363.1 261.5 365.9 263.3 367.9 265.4 371.5 266.1 373.0 264.0 373.9 261.6 374.1 260.5 374.6 257.6 376.9 255.3 377.3 254.2 378.0 253.4 378.0 252.4 377.7 249.8 377.9 247.4 378.9 243.5 379.3 242.2 379.7 241.1 380.4 240.1 381.3 239.1 382.0 237.9 382.4 237.0 383.7 236.6 385.4 235.9 386.6 234.8 386.3 234.5 385.5 233.2 385.6 231.8 386.5 230.2 386.9 230.2 388.2 230.9 389.0 231.4 390.0 231.6 391.1 232.1 392.1 232.9 392.5 233.4 393.3 234.1 393.8 235.7 394.3 237.1 395.4 237.9 396.6 237.1 397.6 235.9 397.2 234.8 396.6 233.9 396.8 233.5 398.1 233.1 399.5 232.4 400.3 231.4 400.5 229.5 400.4 227.7 400.8 225.9 401.6 224.1 401.7 222.1 401.2 220.1 401.4 219.4 400.2 218.2 399.5 217.2 398.7 216.4 397.6 215.1 394.9 214.0 392.1 217.5 389.4 221.9 384.9 222.8 383.4 223.0 382.2 222.5 381.2 220.6 381.0 218.8 380.1 218.6 378.7 219.4 376.1 222.2 372.2 226.0 367.0 229.6 362.8 231.2 361.0 234.1 359.8 238.7 359.2 243.5 359.0 246.6 357.8 248.1 355.7 249.0 354.5 250.4 353.6Z",
+    "nom": "Karaman",
+    "region": "İç Anadolu"
+   },
+   "51": {
+    "d": "M277.3 365.2 276.6 363.5 275.4 362.3 274.7 361.6 273.5 359.9 273.5 358.8 273.7 357.0 274.2 355.9 274.9 355.1 275.6 353.1 275.2 350.8 274.2 349.4 273.0 348.1 272.0 346.2 270.8 344.5 269.4 343.7 267.9 343.2 266.9 341.5 266.5 339.5 276.6 324.2 278.4 324.5 281.0 323.7 282.8 323.6 283.6 324.0 284.9 325.3 286.5 325.8 289.7 324.6 291.8 330.6 293.7 332.5 298.6 332.6 299.5 335.2 299.2 336.9 299.3 338.6 299.9 340.0 300.3 341.4 298.8 342.3 298.7 344.4 298.2 346.8 294.2 350.9 291.1 351.4 289.6 350.9 288.0 350.8 287.0 352.3 287.2 354.2 287.9 356.2 288.2 357.3 287.7 359.0 286.8 359.8 286.0 361.1 285.8 362.0 285.9 363.8 283.8 363.3 281.6 364.2 280.6 364.8 279.6 365.2 277.3 365.2Z",
+    "nom": "Niğde",
+    "region": "İç Anadolu"
+   },
+   "38": {
+    "d": "M298.2 346.8 298.7 344.4 298.8 342.3 300.3 341.4 299.9 340.0 299.3 338.6 299.2 336.9 299.5 335.2 298.6 332.6 293.7 332.5 291.8 330.6 289.7 324.6 290.5 322.9 291.8 321.6 294.5 317.2 294.6 315.3 294.3 313.5 294.4 311.7 292.3 308.9 290.9 306.0 291.7 304.0 292.3 301.9 292.3 300.9 292.4 299.9 292.7 299.1 293.2 298.4 300.2 299.5 303.6 297.3 305.0 296.8 315.0 290.3 317.5 286.8 319.1 286.9 320.6 287.6 321.3 288.8 322.6 289.6 323.6 289.7 326.5 291.8 329.5 292.3 331.9 291.4 337.0 292.2 338.5 293.3 340.0 293.9 342.8 292.9 345.7 292.9 348.3 293.4 350.8 294.7 351.9 298.3 350.6 302.0 349.9 303.4 349.3 304.9 348.5 308.1 347.2 311.7 347.1 312.3 346.2 314.3 346.1 315.9 345.0 316.5 344.4 317.7 344.1 319.8 343.1 321.4 340.7 324.2 339.8 325.6 338.6 326.8 337.3 325.4 336.5 323.4 335.4 321.5 333.8 320.8 331.3 321.5 328.9 322.8 327.6 324.0 326.2 327.2 325.4 328.4 324.1 331.2 322.4 333.5 311.0 341.4 311.7 348.7 310.1 349.5 306.3 347.9 303.5 347.2 298.2 346.8Z",
+    "nom": "Kayseri",
+    "region": "İç Anadolu"
+   },
+   "32": {
+    "d": "M177.0 322.8 177.9 325.7 180.3 327.7 182.2 330.2 184.3 332.0 185.4 332.4 186.1 333.5 188.3 335.4 188.1 336.7 186.2 338.0 184.0 338.8 183.0 339.5 182.3 342.0 183.0 345.2 183.1 348.3 181.8 350.3 181.7 352.2 180.7 353.5 179.4 353.9 179.4 355.3 180.1 356.5 180.6 357.9 180.3 360.3 179.4 362.5 177.8 362.2 176.2 362.8 174.8 363.9 173.1 364.1 169.9 365.3 167.2 364.1 166.8 363.0 166.2 362.1 165.2 362.0 164.2 361.3 163.9 360.6 162.0 357.7 161.2 355.8 160.2 352.6 158.3 351.5 156.4 351.5 154.2 351.1 152.9 350.1 151.7 348.8 150.3 346.8 148.8 345.7 147.4 347.2 146.6 347.8 145.7 348.3 142.2 350.8 141.1 351.4 140.0 350.9 139.4 349.8 138.9 348.4 141.3 348.3 143.5 347.1 144.6 345.2 145.0 341.1 145.6 339.9 147.7 338.6 150.5 335.8 151.7 335.2 153.3 333.7 154.8 332.0 155.9 331.4 157.1 331.1 158.8 329.7 159.5 329.5 160.2 329.5 162.5 328.6 164.5 326.7 166.3 324.5 170.2 321.4 171.7 319.7 172.3 319.2 173.0 319.3 173.7 319.7 175.6 322.2 176.3 322.6 177.0 322.8Z",
+    "nom": "Isparta",
+    "region": "Akdeniz"
+   },
+   "45": {
+    "d": "M97.2 293.8 98.7 295.5 99.4 296.0 104.0 297.0 104.9 297.6 106.9 300.7 107.2 301.4 107.4 302.1 107.1 304.5 108.2 306.3 108.8 308.2 108.7 310.7 107.5 311.8 105.2 313.7 104.8 314.5 103.9 315.5 103.0 315.8 103.1 317.2 104.0 317.5 104.7 318.4 104.8 319.3 104.9 320.2 105.1 322.1 104.9 324.0 104.5 325.2 103.8 326.2 103.0 327.0 102.7 327.6 103.5 328.2 104.4 328.2 105.6 329.5 102.7 330.1 101.4 332.9 101.5 333.9 101.0 334.8 99.8 335.5 98.4 335.5 94.2 335.4 92.8 333.3 91.6 329.2 90.7 328.1 89.3 327.8 88.6 327.7 87.5 327.4 86.9 326.6 86.1 326.5 85.0 326.8 81.9 327.4 81.1 325.4 79.8 324.0 78.9 324.3 78.0 324.2 76.5 323.6 75.0 323.5 74.5 324.7 73.8 326.1 72.2 326.4 71.0 325.2 70.3 323.4 67.7 321.7 65.5 320.1 65.0 317.9 64.1 317.0 60.0 317.0 57.8 316.8 56.0 315.2 55.2 312.5 54.5 311.6 53.2 310.5 53.3 309.7 54.2 308.2 55.1 307.2 55.7 305.9 55.8 304.4 56.2 303.0 57.9 301.8 59.8 301.0 61.8 299.3 62.7 298.4 62.9 296.3 61.8 294.1 61.3 292.7 60.3 288.0 59.1 285.0 61.4 283.7 62.9 284.4 64.2 285.5 66.3 286.1 68.5 285.8 69.8 285.9 71.0 286.5 72.5 286.4 73.7 287.6 72.8 289.2 72.4 290.7 73.6 291.2 75.9 290.4 76.6 291.2 79.2 293.9 80.8 297.5 82.2 298.0 83.5 297.5 84.8 297.2 86.0 296.5 86.8 295.4 88.0 295.2 89.4 295.3 90.6 295.1 91.7 294.8 94.5 293.4 97.2 293.8Z",
+    "nom": "Manisa",
+    "region": "Ege"
+   },
+   "20": {
+    "d": "M98.4 335.5 99.8 335.5 101.0 334.8 101.5 333.9 101.4 332.9 102.7 330.1 105.6 329.5 107.4 329.9 109.1 330.9 110.8 330.9 112.4 329.9 113.5 330.1 114.4 331.2 115.4 331.2 116.5 330.8 117.3 330.4 118.0 331.0 118.8 330.1 120.4 328.4 122.6 328.6 124.9 328.6 126.0 328.2 127.0 327.3 126.8 325.0 127.0 322.6 130.9 321.8 135.1 322.8 138.4 328.4 139.2 329.4 139.7 332.0 138.9 333.0 130.6 339.3 129.6 339.8 128.6 340.2 128.2 341.3 128.1 345.4 128.9 345.7 130.3 345.7 131.5 346.3 132.3 346.7 133.7 349.1 131.5 351.0 130.3 351.7 128.9 352.5 128.5 353.3 128.2 354.2 124.2 356.4 124.2 357.4 124.5 358.5 124.5 360.1 124.9 361.6 125.7 362.0 125.8 362.6 124.3 365.7 121.3 370.4 120.5 372.3 120.0 374.4 119.7 376.5 118.2 377.7 118.0 380.3 117.7 381.3 117.0 382.1 116.0 382.7 112.9 381.0 111.2 380.8 110.5 380.1 110.4 379.5 110.3 378.2 110.0 376.6 109.6 375.1 107.8 373.2 105.5 372.2 104.6 370.7 101.9 369.9 100.9 368.4 100.5 366.6 99.5 364.9 98.1 364.3 97.0 364.3 96.2 364.1 95.9 362.9 95.9 361.8 96.0 361.0 95.7 360.3 95.5 359.7 94.9 358.9 94.2 357.3 94.9 355.8 97.0 355.2 99.4 355.5 101.0 353.9 102.5 351.8 103.7 351.8 104.6 351.1 104.7 350.0 104.4 349.1 102.4 348.7 101.8 347.7 101.3 346.6 100.6 345.7 100.7 344.7 101.4 344.2 101.7 343.4 101.2 341.0 101.3 339.6 100.9 338.4 99.1 337.3 98.7 336.4 98.4 335.5Z",
+    "nom": "Denizli",
+    "region": "Ege"
+   },
+   "15": {
+    "d": "M125.1 361.6 124.5 360.1 124.5 358.5 124.2 357.4 124.2 356.4 128.2 354.2 128.5 353.3 128.9 352.5 129.8 351.9 131.5 351.0 133.7 349.1 136.2 348.2 138.9 348.4 139.4 349.8 140.0 350.9 141.1 351.4 142.2 350.8 145.7 348.3 146.6 347.8 147.4 347.2 148.8 345.7 150.3 346.8 151.7 348.8 152.9 350.1 154.2 351.1 156.4 351.5 158.3 351.5 160.2 352.6 161.2 355.8 162.0 357.7 163.9 360.6 164.2 361.3 164.8 362.0 166.2 362.1 166.8 363.0 167.2 364.1 165.1 366.0 164.5 367.7 162.6 369.9 161.5 370.2 159.1 370.2 156.3 369.9 152.0 370.0 151.3 369.7 149.4 367.4 147.5 367.1 143.0 369.1 141.1 369.4 135.6 372.4 133.9 374.8 133.4 377.7 132.2 380.0 131.4 380.9 130.6 381.9 129.8 382.4 128.9 382.6 126.3 378.8 122.6 379.3 121.1 381.3 119.9 380.8 120.4 378.5 119.7 376.5 120.0 374.4 120.5 372.3 121.3 370.4 124.3 365.7 125.7 363.0 125.7 362.0 125.1 361.6Z",
+    "nom": "Burdur",
+    "region": "Akdeniz"
+   },
+   "68": {
+    "d": "M255.8 311.3 256.9 310.7 259.5 308.2 259.6 305.9 258.4 302.6 259.4 300.0 259.8 300.6 261.1 300.8 261.8 300.8 263.0 301.3 263.4 302.9 264.6 304.0 266.2 303.0 266.8 302.9 268.1 303.0 268.8 302.9 268.5 304.5 269.4 308.0 269.0 310.1 267.9 311.8 268.3 313.8 269.7 314.8 271.3 315.2 272.6 315.0 273.3 315.2 273.5 316.9 272.6 318.9 272.6 320.9 274.4 322.4 275.4 323.4 276.6 324.2 266.5 339.5 264.2 339.1 261.8 339.7 259.4 340.6 257.0 341.3 254.6 341.1 249.8 341.5 246.2 342.3 244.8 342.2 243.5 341.0 241.5 338.4 241.0 336.9 240.8 335.3 240.0 334.6 238.9 331.5 239.1 328.3 239.6 326.9 239.8 325.5 240.6 323.4 241.6 321.7 242.1 318.5 242.8 317.2 244.5 315.2 245.1 314.1 247.8 313.4 250.3 311.9 253.0 311.2 255.8 311.3Z",
+    "nom": "Aksaray",
+    "region": "İç Anadolu"
+   },
+   "50": {
+    "d": "M286.5 325.8 284.9 325.3 283.6 324.0 282.8 323.6 281.0 323.7 278.4 324.5 276.6 324.2 275.4 323.4 274.4 322.4 273.2 321.4 272.6 318.9 273.5 316.9 273.3 315.2 272.6 315.0 271.3 315.2 269.7 314.8 268.3 313.8 267.9 311.8 269.0 310.1 269.4 308.0 268.5 304.5 268.8 302.9 272.2 305.8 273.4 305.5 273.3 304.6 273.0 302.8 273.6 300.7 277.3 299.1 279.0 298.1 280.9 297.3 282.2 295.6 281.5 294.1 280.6 292.5 281.0 289.9 280.6 287.9 280.0 286.7 279.7 285.3 279.8 284.4 280.5 284.0 282.5 284.4 284.2 284.2 285.6 284.7 286.0 286.0 286.2 286.8 287.0 287.7 288.0 288.2 288.6 289.5 289.0 291.0 291.5 292.6 292.2 293.7 291.9 294.7 292.0 295.6 292.3 296.4 292.8 297.4 293.2 298.4 292.7 299.1 292.4 299.9 292.3 300.9 292.3 301.9 291.7 304.0 290.9 306.0 292.3 308.9 294.4 311.7 294.3 313.5 294.6 315.3 294.5 317.2 291.8 321.6 290.5 322.9 289.7 324.6 286.5 325.8Z",
+    "nom": "Nevşehir",
+    "region": "İç Anadolu"
+   },
+   "66": {
+    "d": "M308.0 252.9 310.1 255.3 312.5 257.0 315.4 256.7 317.8 257.2 319.3 257.1 320.7 256.8 322.0 256.3 323.3 255.9 324.6 257.1 324.3 259.3 324.3 260.9 324.9 262.0 325.5 262.6 325.8 263.4 326.7 266.3 328.2 269.0 329.2 269.5 329.6 270.4 329.6 271.3 328.7 274.5 326.5 276.8 323.8 278.8 322.8 280.1 321.8 281.5 321.1 283.1 320.1 284.4 318.7 285.4 317.5 286.8 315.0 290.3 305.0 296.8 303.6 297.3 300.2 299.5 293.2 298.4 292.8 297.4 292.3 296.4 292.0 295.6 291.9 294.7 292.2 293.7 291.5 292.6 289.0 291.0 288.6 289.5 288.0 288.2 287.0 287.7 286.2 286.8 286.0 286.0 285.8 285.2 284.7 284.3 283.4 282.3 282.1 281.2 280.5 280.9 279.2 280.0 275.0 274.8 274.6 274.0 274.3 273.1 273.7 272.2 271.3 272.2 269.8 271.7 268.3 270.0 266.7 268.5 265.0 268.5 264.4 267.9 263.5 266.5 263.6 265.7 263.4 264.8 263.2 264.0 264.9 263.2 269.7 262.7 272.6 261.4 275.6 260.4 280.4 261.2 282.2 260.5 283.4 260.6 285.9 260.5 290.5 258.3 293.1 259.0 294.6 258.9 297.0 257.4 297.8 256.3 297.8 255.6 298.2 254.7 298.3 254.0 298.2 251.8 301.1 251.6 302.4 251.1 302.9 252.1 303.5 252.4 304.9 252.6 306.5 252.5 308.0 252.9Z",
+    "nom": "Yozgat",
+    "region": "İç Anadolu"
+   },
+   "40": {
+    "d": "M259.4 300.0 259.6 298.6 257.7 297.9 256.3 297.1 254.6 296.9 253.5 295.7 252.6 295.1 251.0 293.8 247.5 291.6 246.9 289.4 250.4 283.4 255.4 279.4 257.5 276.1 258.9 272.0 263.8 267.3 265.0 268.5 266.7 268.5 268.3 270.0 269.8 271.7 271.3 272.2 273.7 272.2 274.3 273.1 274.6 274.0 275.0 274.8 279.2 280.0 280.5 280.9 282.1 281.2 283.4 282.3 284.2 284.2 282.5 284.4 280.5 284.0 279.8 284.4 279.7 285.3 280.0 286.7 280.6 287.9 281.0 289.9 280.6 292.5 281.5 294.1 282.2 295.6 280.9 297.3 279.0 298.1 277.3 299.1 273.6 300.7 273.0 302.8 273.3 304.6 273.4 305.5 272.2 305.8 268.8 302.9 268.1 303.0 266.8 302.9 266.2 303.0 264.6 304.0 263.4 302.9 263.0 301.3 261.8 300.8 261.1 300.8 259.8 300.6 259.4 300.0Z",
+    "nom": "Kırşehir",
+    "region": "İç Anadolu"
+   },
+   "64": {
+    "d": "M128.9 304.6 132.7 305.5 133.6 305.8 135.0 307.5 135.0 311.6 134.9 313.3 134.4 314.7 132.5 316.6 132.1 318.1 131.5 319.8 130.8 320.7 130.9 321.8 127.0 322.6 126.8 325.0 127.0 327.3 126.0 328.2 124.9 328.6 122.6 328.6 120.4 328.4 118.8 329.6 118.4 330.9 117.3 330.4 116.5 330.8 115.4 331.2 114.4 331.2 113.5 330.1 112.4 329.9 110.8 330.9 109.1 330.9 107.4 329.9 105.6 329.5 104.4 328.2 103.5 328.2 102.7 327.6 103.0 327.0 103.8 326.2 104.5 325.2 104.9 324.0 105.1 322.1 104.9 320.2 104.8 319.3 104.7 318.4 104.0 317.5 103.1 317.2 103.0 315.8 103.9 315.5 104.8 314.5 105.2 313.7 107.5 311.8 108.7 310.7 110.4 309.2 112.2 309.2 114.1 310.4 116.1 310.7 118.3 310.6 122.2 309.5 124.0 309.4 124.7 307.6 125.3 305.3 126.1 304.8 126.9 304.6 128.9 304.6Z",
+    "nom": "Uşak",
+    "region": "Ege"
+   },
+   "24": {
+    "d": "M407.3 261.8 407.9 260.2 408.1 258.2 409.4 258.3 412.1 258.1 413.3 257.6 414.2 258.1 415.0 258.5 416.0 258.6 416.9 258.9 420.2 260.8 421.4 261.3 422.6 262.0 423.0 262.6 423.6 263.2 425.4 263.7 427.2 264.6 429.1 264.8 431.0 264.6 432.8 264.8 434.5 264.6 436.2 263.8 439.6 263.0 441.0 261.6 442.1 259.8 443.8 259.2 445.5 259.4 447.1 259.2 448.3 258.1 449.8 257.5 454.8 258.5 453.8 260.6 453.6 262.9 455.2 263.7 460.5 263.9 462.6 266.5 462.5 267.6 462.6 268.7 463.0 269.5 463.6 270.2 464.8 271.1 466.1 271.6 467.1 272.8 466.4 274.4 465.3 276.5 465.2 278.9 463.2 278.3 460.7 278.2 458.2 277.8 453.6 277.6 453.0 277.3 451.9 276.9 450.5 277.3 449.3 277.8 448.6 277.9 445.8 278.9 443.4 278.3 441.7 277.4 440.6 277.7 439.2 279.5 437.0 280.2 432.3 280.9 429.9 280.9 427.6 280.3 425.2 280.2 424.0 280.8 422.7 281.2 421.1 280.8 419.4 281.2 416.4 282.3 415.6 283.0 415.0 284.1 414.2 284.5 413.4 284.4 412.9 285.0 412.6 285.7 410.4 286.6 409.9 287.8 410.3 289.0 410.7 289.8 409.8 290.3 409.0 290.5 408.3 290.9 407.9 293.2 407.2 293.5 406.7 294.7 406.8 295.6 407.6 298.5 406.6 298.7 405.8 299.1 403.8 296.8 402.5 296.0 401.1 295.4 398.2 295.2 395.8 294.1 396.4 293.0 396.7 291.6 396.6 291.0 396.4 290.4 396.4 289.6 396.5 289.0 396.4 287.8 396.0 286.7 395.9 285.3 395.9 284.6 396.4 283.8 397.0 283.1 398.1 282.4 397.7 280.8 396.6 280.2 395.6 279.2 395.2 277.6 395.9 276.3 396.3 272.2 397.8 270.1 398.6 268.8 399.7 268.2 400.3 268.2 401.2 267.0 400.6 266.3 398.3 266.8 396.2 266.9 396.0 265.6 397.1 262.3 398.5 261.6 399.9 262.7 401.4 262.9 402.9 261.9 404.5 261.5 405.9 261.8 407.3 261.8Z",
+    "nom": "Erzincan",
+    "region": "Doğu Anadolu"
+   },
+   "62": {
+    "d": "M451.5 276.9 453.0 277.3 453.6 277.6 458.2 277.8 460.7 278.2 463.2 278.3 462.0 279.7 460.5 280.4 459.7 280.4 458.2 280.1 456.9 282.3 455.4 283.3 453.9 283.3 452.6 283.8 452.3 284.6 452.0 285.3 449.4 285.4 447.9 285.8 447.4 286.6 447.3 288.6 446.9 289.6 446.7 290.6 447.4 293.6 447.1 294.9 446.6 296.2 445.0 296.2 443.4 296.6 442.4 297.7 442.8 299.2 442.9 300.6 442.5 302.4 441.7 304.1 439.8 306.2 436.9 307.4 433.9 307.6 432.8 307.5 431.8 307.7 431.0 308.7 430.0 309.4 429.3 309.1 428.5 308.7 427.7 308.9 427.0 308.1 426.4 307.6 425.0 307.2 423.7 306.3 422.3 305.6 421.0 305.5 419.8 305.1 418.8 305.1 417.9 304.5 417.0 304.6 415.4 304.1 412.9 304.2 410.5 304.9 409.6 304.9 408.3 303.6 408.3 302.5 408.8 301.4 408.7 300.3 407.6 298.5 407.3 296.0 406.7 294.7 406.8 293.7 407.9 293.2 408.3 290.9 409.0 290.5 409.8 290.3 410.7 289.8 410.3 289.0 409.9 287.8 410.4 286.6 412.2 285.9 412.9 285.0 413.4 284.4 414.2 284.5 415.0 284.1 415.6 283.0 416.4 282.3 419.4 281.2 421.1 280.8 422.7 281.2 424.0 280.8 425.2 280.2 427.6 280.3 429.9 280.9 432.3 280.9 437.0 280.2 439.2 279.5 440.6 277.7 441.7 277.4 443.4 278.3 445.8 278.9 448.6 277.9 449.3 277.8 450.5 277.3 451.4 277.0Z",
+    "nom": "Tunceli",
+    "region": "Doğu Anadolu"
+   },
+   "03": {
+    "d": "M135.0 311.6 141.4 307.8 142.3 306.6 143.5 304.5 144.4 301.9 145.2 300.2 145.7 298.4 146.2 296.8 149.9 295.2 152.1 291.8 153.1 292.1 154.0 293.0 154.5 294.2 155.2 295.1 156.2 295.8 157.6 296.6 159.0 296.3 160.1 295.8 162.2 294.4 164.1 292.5 165.2 291.6 166.7 292.4 168.1 293.9 170.3 292.9 172.5 291.2 173.7 290.9 174.8 290.2 175.9 289.2 177.2 288.8 179.3 291.1 180.9 294.6 183.2 296.4 187.1 296.0 189.5 296.0 190.7 296.3 190.3 299.0 190.0 300.0 190.9 301.0 191.2 302.9 188.9 306.8 187.9 308.6 187.4 310.7 187.5 311.5 187.6 312.3 187.5 313.2 184.8 316.7 182.5 319.2 177.0 322.8 176.3 322.6 175.6 322.2 174.2 320.2 173.0 319.3 172.3 319.2 171.7 319.7 170.2 321.4 166.3 324.5 164.5 326.7 162.5 328.6 160.2 329.5 159.5 329.5 158.8 329.7 157.1 331.1 155.9 331.4 154.8 332.0 153.3 333.7 151.7 335.2 150.5 335.8 147.7 338.6 145.6 339.9 145.0 341.1 144.6 345.2 143.5 347.1 141.3 348.3 138.9 348.4 136.2 348.2 133.7 349.1 132.3 346.7 131.5 346.3 130.7 345.8 128.9 345.7 128.1 345.4 128.2 341.3 128.6 340.2 129.6 339.8 130.6 339.3 138.9 333.0 139.7 332.0 139.2 329.4 138.4 328.4 135.1 322.8 130.9 321.8 130.8 320.7 131.5 319.8 132.1 318.1 132.5 316.6 134.4 314.7 134.9 313.3 135.0 311.6Z",
+    "nom": "Afyonkarahisar",
+    "region": "Ege"
+   },
+   "71": {
+    "d": "M246.9 289.4 244.5 284.7 243.3 279.0 242.4 277.5 239.9 274.5 239.2 271.2 240.1 267.9 240.9 264.5 242.2 261.1 244.5 260.2 248.1 259.8 248.5 257.5 248.3 255.1 248.3 252.4 248.7 250.2 249.1 246.9 257.6 249.6 260.4 249.9 260.8 251.8 262.0 254.6 262.8 255.4 263.6 255.5 264.1 256.1 264.2 257.0 264.6 258.2 264.6 259.5 263.9 260.4 263.1 262.0 263.2 264.0 263.4 264.8 263.6 265.7 263.5 266.5 263.8 267.3 258.9 272.0 257.5 276.1 255.4 279.4 250.4 283.4 246.9 289.4Z",
+    "nom": "Kırıkkale",
+    "region": "İç Anadolu"
+   },
+   "46": {
+    "d": "M338.6 326.8 339.8 325.6 340.7 324.2 343.1 321.4 344.1 319.8 344.4 317.7 345.0 316.5 346.1 315.9 350.1 314.8 354.1 315.4 354.9 316.0 355.7 316.3 362.6 315.7 360.8 318.8 361.1 321.1 362.8 320.9 368.0 321.8 371.9 324.2 374.0 324.7 376.4 325.9 377.9 328.6 377.7 330.2 376.0 334.7 375.8 335.9 375.3 336.9 374.1 338.5 372.5 344.3 371.2 346.7 369.8 348.6 368.1 350.1 366.8 351.7 366.8 354.0 367.9 355.8 369.8 356.5 373.1 358.6 373.0 359.8 373.2 361.0 372.8 362.8 371.5 363.7 369.6 363.6 367.7 363.9 363.5 365.4 359.7 366.1 358.0 366.9 355.2 370.0 352.8 369.2 351.9 365.6 350.5 364.7 349.0 366.7 345.3 368.5 343.9 366.4 342.3 364.8 341.2 364.1 340.0 363.7 337.5 364.3 336.6 364.5 335.5 364.9 334.5 365.1 334.0 364.5 333.2 364.8 332.4 365.4 331.1 363.8 331.0 361.2 330.2 360.3 329.8 359.2 330.1 357.9 331.0 357.0 331.7 355.8 331.7 352.7 332.5 351.6 333.1 351.2 334.2 350.2 334.2 348.6 333.3 346.2 333.0 344.3 333.1 343.1 333.5 340.5 334.4 337.9 335.9 330.9 336.9 328.5 338.6 326.8Z",
+    "nom": "Kahramanmaraş",
+    "region": "Akdeniz"
+   },
+   "49": {
+    "d": "M502.6 293.3 503.8 292.4 505.1 291.6 508.8 291.0 509.8 290.1 510.4 289.5 512.5 288.2 513.4 286.7 513.2 284.9 513.8 283.1 518.0 281.0 519.2 281.0 520.3 280.8 521.0 280.6 521.8 283.0 523.1 285.2 524.1 286.1 525.0 287.2 525.5 288.3 526.3 289.0 527.4 290.7 527.3 293.2 527.4 293.8 527.1 295.9 526.9 297.9 527.0 299.9 524.8 301.7 522.2 302.7 517.2 302.1 516.2 302.5 515.2 303.2 513.9 303.7 512.6 303.9 512.0 304.3 511.6 306.2 511.0 306.7 508.2 306.7 507.7 308.1 508.6 309.7 508.9 311.4 507.6 312.5 505.8 314.5 503.6 315.7 498.3 315.3 493.6 317.1 491.5 317.9 489.9 318.4 488.9 318.1 488.6 317.1 488.9 315.5 488.6 313.9 486.5 312.4 484.9 310.3 484.7 309.3 484.3 308.4 483.7 307.8 482.6 306.7 482.0 304.4 482.9 301.3 485.1 298.7 485.4 297.1 485.2 295.4 484.4 293.9 483.1 292.0 483.2 290.8 483.1 290.2 482.9 289.4 482.2 287.9 482.4 287.1 483.2 285.5 488.2 284.7 490.6 285.3 491.8 286.0 494.8 289.0 496.6 291.5 497.3 292.1 499.9 293.2 502.6 293.3Z",
+    "nom": "Muş",
+    "region": "Doğu Anadolu"
+   },
+   "25": {
+    "d": "M521.0 280.6 520.3 280.8 519.2 281.0 518.0 281.0 513.8 283.1 513.2 284.9 513.4 286.7 512.5 288.2 510.4 289.5 509.8 290.1 508.8 291.0 505.1 291.6 503.8 292.4 502.6 293.3 499.9 293.2 497.3 292.1 496.6 291.5 494.8 289.0 491.8 286.0 490.6 285.3 488.2 284.7 483.2 285.5 481.9 283.3 480.6 281.6 478.7 281.4 476.4 280.3 473.4 277.6 472.5 277.0 471.6 277.5 470.7 278.1 467.9 279.3 465.2 278.9 465.3 276.5 466.4 274.4 467.1 272.8 466.1 271.6 464.8 271.1 463.6 270.2 463.0 269.5 462.6 268.7 462.5 267.6 462.6 266.5 460.5 263.9 455.2 263.7 453.6 262.9 453.8 260.6 454.8 258.5 459.8 259.1 461.0 258.9 462.3 257.9 463.6 256.6 465.3 255.9 469.2 254.5 470.0 253.4 470.8 252.0 470.7 251.2 468.6 251.0 467.8 250.6 465.8 250.2 463.8 249.2 463.1 246.7 462.2 241.3 461.2 238.9 466.2 236.5 467.4 236.2 468.7 236.0 470.5 235.5 471.4 233.2 472.5 232.8 473.9 232.8 475.2 232.3 478.5 229.6 480.8 228.2 483.2 229.6 487.0 230.1 488.2 230.5 488.4 231.8 487.6 233.2 487.2 236.6 489.3 238.4 492.1 237.4 494.7 235.7 497.1 235.0 499.5 235.7 502.2 237.1 503.6 235.1 503.6 233.3 504.2 231.7 505.4 230.5 506.2 228.9 506.0 227.2 506.4 225.7 507.4 224.9 508.4 224.3 510.5 224.1 512.6 224.3 514.5 223.9 516.3 223.8 516.9 226.8 518.5 229.2 519.6 229.9 520.5 231.0 521.1 232.6 522.1 233.8 523.3 235.1 524.2 236.7 524.0 238.1 523.5 239.4 524.2 243.3 523.0 244.1 521.8 244.7 520.7 245.4 519.7 246.2 517.8 247.3 513.3 248.8 512.3 250.9 513.4 252.2 514.0 253.2 514.8 254.1 517.4 254.5 518.4 254.8 519.4 255.5 519.8 256.1 520.3 257.0 521.4 257.6 522.6 258.1 523.4 259.3 524.2 260.9 525.0 262.3 524.2 263.3 523.2 263.9 522.4 263.9 521.2 264.2 520.6 265.2 519.4 265.5 517.1 265.1 516.1 265.6 518.6 268.6 522.9 270.4 522.2 271.7 522.2 277.1 521.9 278.9 521.0 280.6Z",
+    "nom": "Erzurum",
+    "region": "Doğu Anadolu"
+   },
+   "44": {
+    "d": "M389.2 297.1 391.1 296.5 393.4 294.9 395.8 294.1 398.2 295.2 401.1 295.4 402.5 296.0 403.8 296.8 405.8 299.1 403.6 299.2 402.7 300.3 402.8 301.9 403.3 303.0 403.7 304.1 403.8 306.6 403.8 307.4 404.2 308.6 404.1 309.4 403.7 310.0 400.3 309.6 399.5 309.8 399.3 310.9 399.2 311.6 398.4 312.4 397.6 312.6 397.0 312.9 396.5 313.5 396.2 314.1 395.8 315.2 395.4 316.0 395.7 316.9 395.8 317.6 396.1 318.3 396.5 319.0 397.4 319.1 398.2 320.0 399.0 320.6 401.2 321.0 402.1 321.2 402.7 321.8 403.3 321.7 405.8 322.9 406.7 323.0 408.6 322.3 409.5 322.2 410.3 322.7 410.9 323.6 411.8 325.0 412.6 325.3 414.1 326.5 415.1 326.7 417.6 325.8 418.9 326.0 419.8 327.4 420.0 328.3 418.9 332.0 417.5 333.6 415.9 334.4 414.6 334.7 413.3 335.4 412.5 335.5 411.6 335.6 409.3 336.0 407.2 335.7 405.0 335.7 403.2 335.2 402.2 334.6 402.0 333.8 402.6 333.3 403.8 332.2 403.7 330.9 401.9 330.6 400.0 331.1 397.9 331.1 395.6 333.7 393.7 336.7 391.3 338.0 390.5 339.6 390.4 341.6 388.6 343.4 386.0 344.0 384.9 344.5 383.8 344.9 382.5 344.7 381.2 344.3 378.3 344.7 375.6 345.8 371.2 346.7 372.5 344.3 374.1 338.5 374.8 337.3 375.8 335.9 376.0 334.7 377.7 330.2 377.9 328.6 376.4 325.9 374.0 324.7 371.9 324.2 368.0 321.8 363.4 320.8 361.7 321.1 360.8 318.8 362.6 315.7 364.4 314.8 366.0 313.4 367.5 311.6 368.2 311.3 369.5 310.4 371.7 308.0 372.2 306.6 372.0 305.7 371.7 304.9 371.1 303.1 370.8 301.2 371.5 299.7 372.9 299.3 375.4 300.6 378.0 300.1 379.1 299.3 380.3 298.9 381.4 298.1 382.5 297.5 384.9 297.5 386.0 297.0 387.1 296.8 389.2 297.1Z",
+    "nom": "Malatya",
+    "region": "Doğu Anadolu"
+   },
+   "23": {
+    "d": "M433.9 307.6 436.9 307.4 439.8 306.2 441.7 304.1 442.5 302.4 442.9 300.6 442.8 299.2 442.4 297.7 442.8 297.0 445.0 296.2 446.6 296.2 453.7 292.4 454.7 292.0 457.3 290.9 458.2 292.8 456.9 295.3 455.4 297.5 454.8 300.3 455.5 303.3 457.4 305.6 457.9 306.9 457.7 308.4 457.3 309.9 456.7 311.0 455.7 310.6 454.8 310.4 453.3 314.6 455.0 317.1 455.3 318.8 455.4 320.7 445.1 321.0 443.5 320.0 442.9 319.6 441.4 319.9 441.0 321.2 440.3 322.4 439.5 323.6 438.6 324.3 437.5 324.6 435.2 324.5 432.8 324.7 432.0 325.2 429.6 325.5 428.3 326.1 425.7 325.9 423.1 325.3 418.9 326.0 417.6 325.8 415.1 326.7 414.1 326.5 413.2 325.7 411.9 325.2 411.1 323.8 410.1 323.0 409.5 322.2 408.6 322.3 406.7 323.0 405.8 322.9 403.3 321.7 402.7 321.8 402.1 321.2 401.2 321.0 399.4 320.7 398.7 320.4 397.7 319.3 397.0 319.5 396.1 318.3 395.8 317.6 395.7 316.9 395.4 316.0 395.8 315.2 396.0 314.5 396.5 313.5 397.0 312.9 397.6 312.6 398.4 312.4 399.2 311.6 399.3 310.9 399.5 309.8 400.3 309.6 403.7 310.0 404.1 309.4 404.2 308.6 403.8 307.4 403.8 306.6 403.7 304.1 403.3 303.0 402.8 301.9 402.7 300.3 403.6 299.2 405.8 299.1 406.6 298.7 407.6 298.5 408.7 300.3 408.8 301.4 408.3 302.5 408.3 303.6 409.6 304.9 410.5 304.9 412.9 304.2 415.4 304.1 416.6 304.6 417.6 304.4 418.8 305.1 419.8 305.1 421.0 305.5 422.3 305.6 423.7 306.3 425.0 307.2 426.4 307.6 427.0 308.1 427.7 308.9 428.5 308.7 429.3 309.1 430.0 309.4 431.0 308.7 431.8 307.7 432.8 307.5 433.9 307.6Z",
+    "nom": "Elâzığ",
+    "region": "Doğu Anadolu"
+   },
+   "13": {
+    "d": "M522.2 302.7 524.8 301.7 527.0 299.9 528.3 299.1 529.8 298.6 530.9 298.0 531.9 297.1 537.6 295.9 537.6 298.9 538.6 300.9 542.2 303.1 543.4 305.1 542.5 308.0 540.3 309.7 538.6 311.5 535.8 315.7 535.3 316.9 534.6 318.1 532.7 319.4 529.4 321.3 528.6 323.6 528.7 324.4 529.8 326.9 530.0 328.5 529.7 329.9 530.3 331.8 531.9 332.4 531.0 335.0 530.3 336.0 530.3 337.3 530.5 338.4 530.4 340.3 529.4 341.7 528.3 341.8 526.2 340.3 523.0 338.5 521.2 337.1 519.8 336.5 517.6 335.9 515.4 335.0 513.4 333.5 511.6 331.6 509.5 330.6 506.9 331.6 504.2 332.3 500.9 332.1 497.8 330.8 497.7 329.9 497.8 329.1 497.8 327.6 497.7 326.2 497.0 324.0 495.9 318.6 493.3 317.7 498.3 315.3 503.6 315.7 505.8 314.5 507.6 312.5 508.9 311.4 508.6 309.7 507.7 308.1 508.2 306.7 511.0 306.7 511.6 306.2 512.0 304.3 512.6 303.9 513.9 303.7 515.2 303.2 516.2 302.5 517.2 302.1 522.2 302.7Z",
+    "nom": "Bitlis",
+    "region": "Doğu Anadolu"
+   },
+   "12": {
+    "d": "M460.5 280.4 462.0 279.7 463.2 278.3 465.2 278.9 467.9 279.3 470.7 278.1 471.6 277.5 472.5 277.0 473.4 277.6 476.4 280.3 478.7 281.4 480.6 281.6 481.9 283.3 483.2 285.5 482.4 287.1 482.2 287.9 482.7 289.1 483.1 290.2 483.2 290.8 483.1 292.0 483.8 293.3 485.2 295.4 485.4 297.1 485.1 298.7 482.9 301.3 482.0 304.4 482.6 306.7 483.3 307.6 484.3 308.4 484.7 309.3 484.9 310.3 483.4 311.4 479.7 312.9 475.8 315.2 473.8 315.8 468.6 315.6 467.1 315.2 466.0 315.1 463.0 315.5 461.3 316.4 461.1 317.5 461.0 318.7 460.3 320.0 459.0 320.5 455.4 320.7 455.3 318.8 455.0 317.1 453.3 314.6 454.8 310.4 455.7 310.6 456.7 311.0 457.3 309.9 457.7 308.4 457.9 306.9 457.4 305.6 455.5 303.3 454.8 300.3 455.4 297.5 456.9 295.3 458.2 292.8 457.3 290.9 454.7 292.0 453.7 292.4 446.6 296.2 447.1 294.9 447.4 293.6 446.7 290.6 446.9 289.6 447.3 288.6 447.4 286.6 447.9 285.8 449.4 285.4 451.6 285.5 452.3 284.6 452.6 283.8 453.9 283.3 455.4 283.3 456.9 282.3 457.7 280.5 459.7 280.4 460.5 280.4Z",
+    "nom": "Bingöl",
+    "region": "Doğu Anadolu"
+   },
+   "80": {
+    "d": "M331.7 352.7 331.7 355.8 331.0 357.0 330.1 357.9 329.8 359.2 330.2 360.3 331.0 361.2 331.1 363.8 332.4 365.4 333.2 364.8 334.0 364.5 334.5 365.1 335.5 364.9 336.6 364.5 337.5 364.3 340.0 363.7 341.2 364.1 342.3 364.8 343.9 366.4 345.3 368.5 343.9 370.1 342.7 371.9 341.0 375.3 338.9 378.2 337.7 379.3 337.0 380.7 335.4 380.9 333.9 380.9 332.7 380.1 331.7 379.0 330.3 378.6 328.9 379.0 327.6 378.9 326.3 378.6 325.0 378.8 325.8 376.4 326.3 374.4 325.9 372.1 324.8 370.9 322.8 370.4 322.2 370.5 321.2 367.6 321.2 364.5 323.3 359.4 325.0 355.4 326.5 352.9 329.3 352.7 331.7 352.7Z",
+    "nom": "Osmaniye",
+    "region": "Akdeniz"
+   },
+   "02": {
+    "d": "M373.1 358.6 369.8 356.5 367.9 355.8 366.8 354.0 366.8 351.7 368.1 350.1 369.8 348.6 371.2 346.7 375.6 345.8 378.3 344.7 381.2 344.3 382.5 344.7 383.8 344.9 384.9 344.5 386.0 344.0 388.6 343.4 390.4 341.6 390.5 339.6 391.3 338.0 393.7 336.7 395.6 333.7 397.9 331.1 400.0 331.1 401.9 330.6 403.7 330.9 403.8 332.2 402.6 333.3 402.0 333.8 402.2 334.6 403.2 335.2 405.0 335.7 407.2 335.7 409.3 336.0 411.6 335.6 412.5 335.5 413.3 335.4 414.6 334.7 415.9 334.4 417.5 333.6 418.9 332.0 419.7 332.5 422.2 331.5 423.2 332.5 423.3 333.5 423.0 334.4 422.3 336.0 422.6 336.6 421.2 337.9 420.0 338.8 418.2 339.3 417.2 340.1 416.9 342.0 416.6 342.6 414.7 343.3 415.0 344.4 414.5 345.5 414.7 346.3 413.7 346.4 413.0 346.5 412.2 347.3 413.3 347.2 414.0 347.5 413.9 348.5 414.3 349.1 413.7 349.2 413.0 349.3 412.4 349.4 412.2 350.0 413.0 350.9 412.3 351.2 411.5 351.1 410.7 351.7 409.9 351.3 409.2 351.6 409.8 352.2 411.3 353.4 404.5 354.5 403.0 356.1 402.3 357.0 400.5 359.0 399.8 359.3 396.1 360.0 395.1 359.6 393.3 360.3 392.8 361.2 391.0 361.2 390.7 361.9 390.6 362.6 390.0 362.4 388.5 362.0 387.9 361.7 386.6 361.9 385.8 361.5 383.4 359.3 379.8 358.0 376.5 357.9 373.1 358.6Z",
+    "nom": "Adıyaman",
+    "region": "Güneydoğu Anadolu"
+   },
+   "21": {
+    "d": "M484.9 310.3 486.5 312.4 488.6 313.9 488.9 315.5 488.6 317.1 488.9 318.1 489.9 318.4 490.0 319.8 488.9 320.4 487.9 320.5 486.9 320.9 485.3 321.7 484.6 322.6 484.3 324.0 483.7 326.2 483.4 328.5 483.8 332.9 483.5 335.0 483.0 336.0 482.5 336.8 481.0 341.6 479.8 343.0 478.3 344.1 478.0 345.1 478.3 346.2 478.6 347.7 479.2 348.9 477.3 349.8 466.5 349.6 463.1 350.3 462.7 351.2 461.3 353.2 458.8 353.4 455.4 356.1 453.9 356.7 450.6 359.0 449.2 360.3 446.2 364.3 444.7 362.7 443.7 360.6 442.6 357.4 442.2 355.7 441.8 352.7 441.9 348.4 441.5 347.4 440.9 347.3 439.6 346.2 438.7 345.8 438.1 346.8 436.6 346.2 435.5 345.1 434.5 344.7 433.5 344.2 431.5 342.5 429.6 340.5 427.9 339.7 426.1 339.6 423.6 339.2 421.2 337.9 422.3 337.1 422.3 336.0 423.0 334.4 423.3 333.5 423.2 332.5 422.2 331.5 419.7 332.5 418.9 332.0 420.0 328.3 419.8 327.4 419.4 326.5 423.1 325.3 425.7 325.9 428.3 326.1 429.6 325.5 432.0 325.2 432.8 324.7 435.2 324.5 437.5 324.6 438.6 324.3 439.5 323.6 440.3 322.4 441.0 321.2 441.4 319.9 442.9 319.6 443.5 320.0 444.6 320.8 455.4 320.7 459.0 320.5 460.3 320.0 461.0 318.7 461.1 317.5 461.3 316.4 463.0 315.5 466.0 315.1 467.1 315.2 468.6 315.6 473.8 315.8 475.8 315.2 479.7 312.9 483.4 311.4 484.9 310.3Z",
+    "nom": "Diyarbakır",
+    "region": "Güneydoğu Anadolu"
+   },
+   "72": {
+    "d": "M489.9 318.4 491.5 317.9 493.3 317.7 495.9 318.6 497.0 324.0 497.7 326.2 497.8 327.6 497.8 329.1 497.7 329.9 497.8 330.8 496.4 332.5 495.8 334.6 494.2 336.4 490.6 337.4 489.6 339.2 489.9 341.8 493.2 344.9 498.8 347.2 502.1 350.9 496.4 355.1 493.0 357.7 488.2 358.6 484.9 356.5 482.8 351.9 480.6 349.2 480.0 348.9 479.2 348.9 478.6 347.7 478.3 346.2 478.0 345.1 478.3 344.1 479.8 343.0 481.0 341.6 482.5 336.8 483.0 336.0 483.5 335.0 483.8 332.9 483.4 328.5 483.7 326.2 484.3 324.0 484.6 322.6 485.3 321.7 486.9 320.9 487.9 320.5 488.9 320.4 490.0 319.8 489.9 318.4Z",
+    "nom": "Batman",
+    "region": "Güneydoğu Anadolu"
+   },
+   "56": {
+    "d": "M509.5 330.6 511.6 331.6 513.4 333.5 515.4 335.0 517.6 335.9 519.8 336.5 521.2 337.1 523.0 338.5 526.2 340.3 528.3 341.8 529.4 341.7 530.4 340.3 530.5 338.4 530.3 337.3 530.3 336.0 531.0 335.0 531.9 332.4 534.3 332.3 536.8 332.7 539.0 333.6 539.3 336.4 539.2 338.0 539.4 339.6 539.2 341.3 538.8 342.9 538.7 345.2 538.3 346.2 537.9 347.3 539.2 350.2 538.8 352.5 536.9 354.4 531.7 353.9 525.2 352.9 519.0 351.3 514.9 351.1 512.5 353.6 506.4 353.1 502.1 350.9 498.8 347.2 493.2 344.9 489.9 341.8 489.6 339.2 490.6 337.4 494.2 336.4 495.8 334.6 496.4 332.5 497.8 330.8 500.9 332.1 504.2 332.3 506.9 331.6 509.5 330.6Z",
+    "nom": "Siirt",
+    "region": "Güneydoğu Anadolu"
+   },
+   "69": {
+    "d": "M454.8 258.5 449.8 257.5 448.3 258.1 447.1 259.2 445.5 259.4 443.8 259.2 442.1 259.8 441.0 257.4 440.3 254.7 440.5 253.4 440.9 252.1 441.8 249.8 442.1 244.0 441.0 238.2 441.7 238.2 441.9 236.7 442.6 236.2 443.5 236.5 445.4 238.6 446.6 239.3 449.3 239.4 451.8 240.2 453.2 240.2 454.7 239.7 456.2 239.4 459.4 239.5 460.6 239.1 462.2 241.3 463.1 246.7 463.8 249.2 465.8 250.2 467.8 250.6 468.6 251.0 470.7 251.2 470.8 252.0 470.0 253.4 469.2 254.5 465.3 255.9 463.6 256.6 462.3 257.9 461.0 258.9 459.8 259.1 454.8 258.5Z",
+    "nom": "Bayburt",
+    "region": "Karadeniz"
+   },
+   "29": {
+    "d": "M441.0 238.2 442.1 244.0 441.8 249.8 440.9 252.1 440.5 253.4 440.3 254.7 441.0 257.4 442.1 259.8 441.0 261.6 439.6 263.0 436.2 263.8 434.5 264.6 432.8 264.8 431.0 264.6 429.1 264.8 427.2 264.6 425.4 263.7 423.6 263.2 423.0 262.6 422.6 262.0 421.4 261.3 420.2 260.8 416.9 258.9 416.0 258.6 415.0 258.5 414.2 258.1 413.3 257.6 413.6 256.3 412.8 255.2 412.5 253.8 412.6 252.4 412.5 251.0 412.5 249.7 413.2 248.9 416.3 247.2 417.2 246.5 417.4 245.0 416.7 244.8 415.9 244.0 415.0 243.3 411.4 242.4 410.5 241.4 410.5 240.0 410.7 238.2 411.0 237.4 412.0 236.5 412.6 235.5 412.2 234.2 412.6 233.2 413.5 232.6 414.4 231.9 415.2 231.7 415.8 231.3 416.1 230.3 419.8 229.9 421.0 230.4 421.7 229.8 422.2 229.1 423.5 229.9 424.0 232.2 426.0 234.3 433.2 237.1 435.0 237.4 435.7 237.2 436.5 235.1 437.4 234.4 439.6 235.8 441.0 238.2Z",
+    "nom": "Gümüşhane",
+    "region": "Karadeniz"
+   }
+  },
+  "karte_info": {
+   "name": "Türkiye",
+   "einheit": "il",
+   "lieux": "yer",
+   "start": "İstanbul",
+   "quelle": "Harita: Natural Earth (kamu malı), 81 il.",
+   "badge": "Türkiye turu",
+   "hinweis": [
+    "Her biten seans ve her biten bölüm bir yer açar, İstanbul'dan başlayarak. Bir yere dokun!",
+    "Jede fertige Seans und jeder fertige Teil schalten einen Ort frei, Start in Istanbul. Tipp auf einen Ort!"
+   ]
+  },
+  "titel": [
+   {
+    "ab": 0,
+    "name": "Çay",
+    "symbol": "🍵",
+    "audio": null
+   },
+   {
+    "ab": 300,
+    "name": "Simit",
+    "symbol": "🥯",
+    "audio": null
+   },
+   {
+    "ab": 900,
+    "name": "Börek",
+    "symbol": "🥐",
+    "audio": null
+   },
+   {
+    "ab": 1800,
+    "name": "Lahmacun",
+    "symbol": "🫓",
+    "audio": null
+   },
+   {
+    "ab": 3000,
+    "name": "Kebap",
+    "symbol": "🍢",
+    "audio": null
+   },
+   {
+    "ab": 4500,
+    "name": "Künefe",
+    "symbol": "🍮",
+    "audio": null
+   },
+   {
+    "ab": 6500,
+    "name": "Baklava",
+    "symbol": "👑",
+    "audio": null
+   }
+  ],
+  "texte": {
+   "feuer": {
+    "text": "Alev aldın! Üst üste üç gün!",
+    "audio": null
+   },
+   "woche": {
+    "text": "Mükemmel bir hafta! Her okul günü çalıştın. Aferin!",
+    "audio": null
+   },
+   "monat": {
+    "text": "Üst üste dört mükemmel hafta! Tam bir şampiyon!",
+    "audio": null
+   },
+   "fini": {
+    "text": "Bugünlük bu kadar. Yarın görüşürüz!",
+    "audio": null
+   }
+  },
+  "frei": [
+   {
+    "von": "2026-10-05",
+    "bis": "2026-10-11",
+    "name": "Herbstferien (ab 12.10. zählt jeder Wochentag – Wunsch Mr. Alex: App schon in den Ferien nutzbar)"
+   },
+   {
+    "von": "2026-12-21",
+    "bis": "2027-01-03",
+    "name": "Weihnachtsferien"
+   },
+   {
+    "von": "2027-02-08",
+    "bis": "2027-02-12",
+    "name": "Winterferien (Fastnacht)"
+   },
+   {
+    "von": "2027-03-26",
+    "bis": "2027-03-26",
+    "name": "Karfreitag"
+   },
+   {
+    "von": "2027-03-29",
+    "bis": "2027-04-09",
+    "name": "Ostermontag und Osterferien"
+   },
+   {
+    "von": "2027-05-06",
+    "bis": "2027-05-07",
+    "name": "Christi Himmelfahrt und beweglicher Ferientag"
+   },
+   {
+    "von": "2027-05-17",
+    "bis": "2027-05-17",
+    "name": "Pfingstmontag"
+   },
+   {
+    "von": "2027-05-27",
+    "bis": "2027-05-28",
+    "name": "Fronleichnam und beweglicher Ferientag"
+   },
+   {
+    "von": "2027-06-28",
+    "bis": "2027-08-06",
+    "name": "Sommerferien"
+   },
+   {
+    "von": "2027-10-04",
+    "bis": "2027-10-15",
+    "name": "Herbstferien"
+   },
+   {
+    "von": "2027-12-20",
+    "bis": "2027-12-31",
+    "name": "Weihnachtsferien"
+   }
+  ]
+ },
+ "audio_liste": []
+};

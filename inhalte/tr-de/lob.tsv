@@ -1,0 +1,84 @@
+id	art	text	gruppe	de
+lob_harika	lob	Harika!	harika	Wunderbar!
+lob_aferin	lob	Aferin!	aferin	Gut gemacht!
+lob_super	lob	Süper!	super	Super!
+lob_mukemmel	lob	Mükemmel!	mukemmel	Perfekt!
+lob_tam_isabet	lob	Tam isabet!	isabet	Volltreffer!
+lob_helal	lob	Helal olsun!	helal	Alle Achtung!
+lob_cok_iyi	lob	Çok iyi!	iyi	Sehr gut!
+lob_aynen	lob	Aynen öyle!	aynen	Ganz genau!
+lob_kesinlikle	lob	Kesinlikle!	kesin	Absolut!
+lob_dogru	lob	Doğru!	dogru	Richtig!
+lob_tamamdir	lob	Tamamdır!	tamam	Passt!
+lob_ellerine	lob	Ellerine sağlık!	saglik	Gut gemacht (wörtlich: Gesundheit deinen Händen)!
+lob_agzina	lob	Ağzına sağlık!	saglik	Gut gesagt (wörtlich: Gesundheit deinem Mund)!
+lob_yasasin	lob	Yaşasın!	yasasin	Hurra!
+lob_vay_be	lob	Vay be!	vay	Wow!
+lob_muthis	lob	Müthiş!	muthis	Großartig!
+lob_efsane	lob	Efsane!	efsane	Legendär!
+lob_iste_bu	lob	İşte bu!	iste	Das ist es!
+lob_ustune_bastin	lob	Tam üstüne bastın!	isabet	Genau getroffen!
+lob_bu_kadar	lob	Bu kadar olur!	bukadar	Besser geht's nicht!
+lob_fena_degil	lob	Hiç fena değil!	fena	Gar nicht übel!
+lob_guzel	lob	Güzel!	guzel	Schön!
+lob_cok_guzel	lob	Çok güzel!	guzel	Sehr schön!
+lob_tebrikler	lob	Tebrikler!	tebrik	Glückwunsch!
+lob_boyle_devam	lob	Böyle devam!	devam	Weiter so!
+lob_bir_puan	lob	Bir puan daha!	puan	Noch ein Punkt!
+lob_harikasin	lob	Harikasın!	harika	Du bist wunderbar!
+lob_usta	lob	Usta!	usta	Meister!
+lob_sampiyon	lob	Şampiyon!	sampiyon	Champion!
+lob_ilk_denemede	lob	İlk denemede!	ilk	Beim ersten Versuch!
+lob_hatasiz	lob	Hatasız!	hatasiz	Fehlerfrei!
+lob_ne_aksan	lob	Ne güzel bir aksan!	aksan	Was für ein schöner Akzent!
+lob_istanbullu	lob	İstanbullu gibi!	istanbul	Wie ein Istanbuler!
+lob_kulagin_var	lob	Kulağın var!	kulak	Du hast ein gutes Ohr!
+lob_cok_hos	lob	Kulağa çok hoş geliyor!	kulak	Das klingt sehr gut!
+lob_bayildim	lob	Bayıldım!	bayildim	Ich bin begeistert!
+lob_gelisiyorsun	lob	Gelişiyorsun!	gelis	Du machst Fortschritte!
+lob_turkce_bu	lob	İşte Türkçe bu!	turkce	Das ist Türkisch!
+lob_evet	lob	Evet!	evet	Ja!
+lob_tastamam	lob	Tastamam!	tamam	Haargenau!
+lob_cuk_oturdu	lob	Cuk oturdu!	oturdu	Passt wie angegossen!
+lob_ogretmenim	lob	Çok iyi, öğretmenim!	ogretmen	Sehr gut, Herr Lehrer!
+lob_nokta_atisi	lob	Nokta atışı!	isabet	Punktgenau!
+lob_iyi_dedin	lob	İyi dedin!	dedin	Gut gesagt!
+lob_olmus	lob	Olmuş!	olmus	Sitzt!
+lob_kusursuz	lob	Kusursuz!	hatasiz	Makellos!
+lob_bravo	lob	Bravo!	bravo	Bravo!
+lob_ne_guzel	lob	Ne güzel!	guzel	Wie schön!
+lob_tam_boyle	lob	Tam böyle!	aynen	Genau so!
+lob_iste_boyle	lob	İşte böyle!	iste	So geht's!
+lob_sahane	lob	Şahane!	sahane	Prächtig!
+lob_dort_dortluk	lob	Dört dörtlük!	dort	Erstklassig (wörtlich: vier von vier)!
+lob_on_numara	lob	On numara!	on	Zehn von zehn!
+lob_devam_et	lob	Devam et!	devam	Mach weiter!
+stark_sampiyon	stark	Aferin, şampiyon!	sampiyon	Bravo, Champion!
+stark_seri	stark	İnanılmaz! Seri gidiyorsun!	seri	Unglaublich! Du bist in Serie!
+stark_gurur	stark	Seninle gurur duyuyorum!	gurur	Ich bin stolz auf dich!
+stark_devam	stark	Muhteşem! Böyle devam!	devam	Großartig! Weiter so!
+stark_makine	stark	Tam bir makine!	makine	Was für eine Maschine!
+stark_yildiz	stark	Sen bir yıldızsın!	yildiz	Du bist ein Star!
+stark_etkileyici	stark	Çok etkileyici!	etkileyici	Beeindruckend!
+stark_kolay	stark	Kolay gösteriyorsun!	kolay	Du lässt es leicht aussehen!
+stark_duymak	stark	Tam da bunu duymak istiyordum!	duymak	Genau das wollte ich hören!
+stark_ucuyorsun	stark	Bugün uçuyorsun!	ucmak	Heute fliegst du!
+stark_oniki	stark	On ikiden vurdun!	isabet	Voll ins Schwarze!
+stark_performans	stark	Ne performans ama!	performans	Was für eine Leistung!
+stark_dagittin	stark	Ortalığı dağıttın!	dagittin	Du hast abgeräumt!
+stark_seviye	stark	Ne seviye ama!	seviye	Was für ein Niveau!
+fehler_az_kaldi	fehler	Az kaldı!	az	Fast!
+fehler_tam_degil	fehler	Tam değil.	tam	Nicht ganz.
+fehler_bir_daha	fehler	Bir deneme daha!	daha	Noch ein Versuch!
+fehler_sorun_degil	fehler	Sorun değil!	sorun	Macht nichts!
+fehler_eyvah	fehler	Eyvah!	eyvah	Oh je!
+fehler_hmm	fehler	Hmm…	hmm	Hmm…
+fehler_yakin	fehler	Yakındı!	yakin	Knapp daneben!
+fehler_az_az	fehler	Az kaldı, az!	az	Fast, fast!
+fehler_bu_sefer	fehler	Bu sefer olmadı!	sefer	Diesmal nicht!
+fehler_bastan	fehler	Sorun değil, baştan alalım!	bastan	Macht nichts, noch mal von vorn!
+geschafft_bitti	geschafft	Bugünlük bitti! Helal olsun!	fertig	Schluss für heute! Alle Achtung!
+geschafft_hepsi	geschafft	Aferin, hepsini bitirdin! Yarın görüşürüz!	fertig	Bravo, du hast alles geschafft! Bis morgen!
+geschafft_gurur	geschafft	Kendinle gurur duyabilirsin. Yarın görüşürüz!	fertig	Du kannst stolz auf dich sein. Bis morgen!
+voll_hatasiz	voll	Hatasız! Harika!	voll	Fehlerfrei! Wunderbar!
+doch_gordun	doch	Gördün mü? Yapabiliyorsun!	doch	Siehst du? Du schaffst es!

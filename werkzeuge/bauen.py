@@ -11,7 +11,7 @@ BASIS = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 APP = os.path.join(BASIS, "app")
 SCHRIFT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
-PAKETE = ["fr_de", "es_de", "it_de", "de_fr"]   # Reihenfolge = Reihenfolge im Umschalter
+PAKETE = ["fr_de", "es_de", "it_de", "de_fr", "tr_de"]   # Reihenfolge = Reihenfolge im Umschalter
 # Ausgaben: je eine eigenständige Web-App (eigener Ordner, Speicher, Offline-Speicher). Englisch läuft getrennt unter app/english/,
 # teilt aber Code, Werkzeuge und Audio-Pipeline (Entscheidung Mr. Alex 16.10., docs/en/brainstorming.md).
 AUSGABEN = [

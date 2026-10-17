@@ -18,4 +18,5 @@ Stand: 17.10.2026. Auftrag Mr. Alex: « proper Turkish ». Nichts gebaut.
 - **Türkisch zuerst** (vor Arabisch).
 - Partnerstimme: **Can** (`SacdY6cqu2yrF7ExGIOe`, eleven_multilingual_v2).
 - Karte: Türkei mit İl, **Istanbul als 5–10 Stationen** (Sultanahmet, Galata, Kadıköy, Üsküdar, Beşiktaş, Eyüp, Bosporus, Prinzeninseln …), Start Istanbul.
-- Nichts gebaut; Paketgerüst folgt nach Freigabe.
+- Partnerfigur **Cem**; Lernender Mr. Alex als Lehrer; Titel-Leiter Çay … Baklava; Geschichte in Istanbul; Istanbul-Stationen Sultanahmet, Kapalıçarşı, Galata, Beyoğlu, Beşiktaş, Kadıköy, Üsküdar, Adalar, danach Edirne, Bursa, İzmir, Ankara und das Land.
+- **Gerüst gebaut 17.10.:** Paket `tr_de.py` (türkische Oberfläche, Lob mit Übersetzung, Titel, Farben Türkis/Rot, Cem = Stimme Can), Karte 81 İl (Natural Earth, `tuerkei_karte.py`), fünftes Paket in der Haupt-App (🇹🇷). Noch keine Themen, Audios, Orte, Geschichte. Nächster Schritt: Thema 1 « Öğretmenler arasında » zur Freigabe.
