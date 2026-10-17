@@ -15,7 +15,9 @@ SPRACHAUSGABE = "tr-TR"
 THEME = {"blau": "#1a6f7a", "rot": "#c8102e", "rot_text": "#ffffff", "dunkel": {"blau": "#6fd3de", "blau_text": "#07191c", "rot": "#ff7b88", "rot_text": "#1a0608"}}
 
 # Themen in Lernreihenfolge – werden Thema für Thema ergänzt (jeweils nach Absegnung)
-THEMEN = []
+THEMEN = [
+    {"id": "ogretmenler", "name": "Öğretmenler arasında", "de": "Unter Lehrern – mit Cem", "symbol": "🧑‍🏫", "datei": "ogretmenler.tsv"},
+]
 
 # Titel – vom Çay bis zum Baklava
 TITEL = [(0, "Çay", "🍵"), (300, "Simit", "🥯"), (900, "Börek", "🥐"), (1800, "Lahmacun", "🫓"),

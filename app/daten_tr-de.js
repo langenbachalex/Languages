@@ -259,8 +259,630 @@ window.SPRACHEN["tr-de"] = {
   "bald": "hazırlanıyor",
   "offline_laeuft": "İndiriliyor… {n} / {alle}"
  },
- "themen": [],
- "wendungen": [],
+ "themen": [
+  {
+   "id": "ogretmenler",
+   "name": "Öğretmenler arasında",
+   "de": "Unter Lehrern – mit Cem",
+   "symbol": "🧑‍🏫",
+   "wendungen": [
+    "oa_01",
+    "oa_02",
+    "oa_03",
+    "oa_04",
+    "oa_05",
+    "oa_06",
+    "oa_07",
+    "oa_08",
+    "oa_09",
+    "oa_10",
+    "oa_11",
+    "oa_12",
+    "oa_13",
+    "oa_14",
+    "oa_15",
+    "oa_16",
+    "oa_17",
+    "oa_18",
+    "oa_19",
+    "oa_20",
+    "oa_21",
+    "oa_22",
+    "oa_23",
+    "oa_24"
+   ]
+  }
+ ],
+ "wendungen": [
+  {
+   "id": "oa_01",
+   "thema": "ogretmenler",
+   "fr": "sınav kâğıdı okumak",
+   "de": "Arbeiten korrigieren",
+   "register": "tu",
+   "anker": "okumak",
+   "notiz": "okumak = lesen, bei Prüfungen: korrigieren. kâğıt = Papier, Blatt; sınav kâğıdı = die Prüfungsarbeit. Akkusativ -ı/-i/-u/-ü nach Vokalharmonie: kâğıtlar-ı-nı.",
+   "audio": "audio/tr-de/wendungen/oa_01.mp3?v=c5c87e9b",
+   "satz": {
+    "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
+    "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
+    "luecke": "kâğıtlarını okuyorum",
+    "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün akşam dokuzuncu sınıfın kâğıtlarını okudum.",
+     "audio": "audio/tr-de/saetze/oa_01_pc.mp3?v=760d4b0e"
+    },
+    "fp": {
+     "fr": "Yarın akşam dokuzuncu sınıfın kâğıtlarını okuyacağım.",
+     "audio": "audio/tr-de/saetze/oa_01_fp.mp3?v=83f6cc1a"
+    }
+   }
+  },
+  {
+   "id": "oa_02",
+   "thema": "ogretmenler",
+   "fr": "bitkin olmak",
+   "de": "fix und fertig sein",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "bitkin = erschöpft; Prädikatsendung -im (ich bin): bitkin-im, Vergangenheit bitkin-di-m. « -den sonra » = nach (Ablativ + sonra).",
+   "audio": "audio/tr-de/wendungen/oa_02.mp3?v=077fb2bd",
+   "satz": {
+    "fr": "Altı saat dersten sonra bitkinim.",
+    "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
+    "luecke": "bitkinim",
+    "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün altı saat dersten sonra bitkindim.",
+     "audio": "audio/tr-de/saetze/oa_02_pc.mp3?v=dad8ac10"
+    },
+    "fp": {
+     "fr": "Yarın altı saat dersten sonra bitkin olacağım.",
+     "audio": "audio/tr-de/saetze/oa_02_fp.mp3?v=570fae42"
+    }
+   }
+  },
+  {
+   "id": "oa_03",
+   "thema": "ogretmenler",
+   "fr": "toplantı",
+   "de": "Konferenz, Besprechung",
+   "register": "tu",
+   "anker": "var",
+   "notiz": "toplantı von toplanmak (sich versammeln). « var » = es gibt; « saat dörtte » = um vier (Lokativ -te). Fragepartikel mı/mi/mu/mü nach Vokalharmonie: geliyor musun?",
+   "audio": "audio/tr-de/wendungen/oa_03.mp3?v=085068a9",
+   "satz": {
+    "fr": "Saat dörtte toplantı var, geliyor musun?",
+    "de": "Um vier ist Konferenz, kommst du?",
+    "luecke": "toplantı",
+    "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün saat dörtte toplantı vardı, geldin mi?",
+     "audio": "audio/tr-de/saetze/oa_03_pc.mp3?v=6b04f904"
+    },
+    "fp": {
+     "fr": "Yarın saat dörtte toplantı var, gelecek misin?",
+     "audio": "audio/tr-de/saetze/oa_03_fp.mp3?v=e1753352"
+    }
+   }
+  },
+  {
+   "id": "oa_04",
+   "thema": "ogretmenler",
+   "fr": "ders boşluğu",
+   "de": "Freistunde",
+   "register": "tu",
+   "anker": "var",
+   "notiz": "boşluk = Lücke, Leere; boşluğ-um = meine Freistunde (k → ğ vor Vokal). « içelim mi? » = wollen wir trinken? (Optativ 1. Pl.).",
+   "audio": "audio/tr-de/wendungen/oa_04.mp3?v=9081a015",
+   "satz": {
+    "fr": "Üçüncü saatte boşluğum var, kahve içelim mi?",
+    "de": "In der dritten Stunde habe ich frei, trinken wir einen Kaffee?",
+    "luecke": "boşluğum",
+    "audio": "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün üçüncü saatte boşluğum vardı, kahve içtik.",
+     "audio": "audio/tr-de/saetze/oa_04_pc.mp3?v=51367d74"
+    },
+    "fp": {
+     "fr": "Yarın üçüncü saatte boşluğum olacak, kahve içelim mi?",
+     "audio": "audio/tr-de/saetze/oa_04_fp.mp3?v=a23a3709"
+    }
+   }
+  },
+  {
+   "id": "oa_05",
+   "thema": "ogretmenler",
+   "fr": "öğretmenler odası",
+   "de": "Lehrerzimmer",
+   "register": "tu",
+   "anker": "bitmek",
+   "notiz": "Genitivverbindung: öğretmenler oda-sı (Possessiv 3. Pers.) + Lokativ -nda. bitmek = zu Ende gehen, alle sein.",
+   "audio": "audio/tr-de/wendungen/oa_05.mp3?v=57ef28c5",
+   "satz": {
+    "fr": "Öğretmenler odasında kahve yine bitiyor.",
+    "de": "Im Lehrerzimmer ist der Kaffee schon wieder fast alle.",
+    "luecke": "Öğretmenler odasında",
+    "audio": "audio/tr-de/saetze/oa_05.mp3?v=cdca761d"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün öğretmenler odasında kahve yine bitmişti.",
+     "audio": "audio/tr-de/saetze/oa_05_pc.mp3?v=e58b9a2d"
+    },
+    "fp": {
+     "fr": "Yarın öğretmenler odasında kahve yine bitecek.",
+     "audio": "audio/tr-de/saetze/oa_05_fp.mp3?v=993bf3c9"
+    }
+   }
+  },
+  {
+   "id": "oa_06",
+   "thema": "ogretmenler",
+   "fr": "nöbet tutmak",
+   "de": "Aufsicht haben",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "nöbet = Wache, Dienst; nöbetçi = der Diensthabende (-çi = Berufs-/Tätigkeitsendung). nöbet tutmak = Wache halten, Aufsicht führen.",
+   "audio": "audio/tr-de/wendungen/oa_06.mp3?v=6cc66e26",
+   "satz": {
+    "fr": "Bugün teneffüste nöbetçiyim.",
+    "de": "Heute habe ich Pausenaufsicht.",
+    "luecke": "nöbetçiyim",
+    "audio": "audio/tr-de/saetze/oa_06.mp3?v=481c25df"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün teneffüste nöbetçiydim.",
+     "audio": "audio/tr-de/saetze/oa_06_pc.mp3?v=6473edcd"
+    },
+    "fp": {
+     "fr": "Yarın teneffüste nöbetçi olacağım.",
+     "audio": "audio/tr-de/saetze/oa_06_fp.mp3?v=188f6d11"
+    }
+   }
+  },
+  {
+   "id": "oa_07",
+   "thema": "ogretmenler",
+   "fr": "ders programı",
+   "de": "Stundenplan",
+   "register": "tu",
+   "anker": "vermek",
+   "notiz": "program-ı mit Possessiv (ders programı = Stundenplan). cuma günü = am Freitag. Wochentage: pazartesi, salı, çarşamba, perşembe, cuma, cumartesi, pazar.",
+   "audio": "audio/tr-de/wendungen/oa_07.mp3?v=a54feb23",
+   "satz": {
+    "fr": "Yeni ders programı cuma günü yedi saat veriyor.",
+    "de": "Der neue Stundenplan gibt freitags sieben Stunden.",
+    "luecke": "ders programı",
+    "audio": "audio/tr-de/saetze/oa_07.mp3?v=87586419"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Eski ders programı cuma günü yedi saat veriyordu.",
+     "audio": "audio/tr-de/saetze/oa_07_pc.mp3?v=661261f8"
+    },
+    "fp": {
+     "fr": "Yeni ders programı cuma günü yedi saat verecek.",
+     "audio": "audio/tr-de/saetze/oa_07_fp.mp3?v=f2b352a0"
+    }
+   }
+  },
+  {
+   "id": "oa_08",
+   "thema": "ogretmenler",
+   "fr": "ödev vermek",
+   "de": "Hausaufgaben aufgeben",
+   "register": "tu",
+   "anker": "vermek",
+   "notiz": "ödev = Hausaufgabe (Singular!), ödev vermek / ödev yapmak. bayram etmek = jubeln (wörtlich: Feiertag machen). Verneinung -mı-/-mi-: ver-mi-yor-um.",
+   "audio": "audio/tr-de/wendungen/oa_08.mp3?v=8339778d",
+   "satz": {
+    "fr": "Hafta sonuna ödev vermiyorum, bayram ediyorlar.",
+    "de": "Übers Wochenende gebe ich nichts auf, sie sind selig.",
+    "luecke": "ödev vermiyorum",
+    "audio": "audio/tr-de/saetze/oa_08.mp3?v=950c9561"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Hafta sonuna ödev vermedim, bayram ettiler.",
+     "audio": "audio/tr-de/saetze/oa_08_pc.mp3?v=f036a539"
+    },
+    "fp": {
+     "fr": "Hafta sonuna ödev vermeyeceğim, bayram edecekler.",
+     "audio": "audio/tr-de/saetze/oa_08_fp.mp3?v=177bd183"
+    }
+   }
+  },
+  {
+   "id": "oa_09",
+   "thema": "ogretmenler",
+   "fr": "not vermek",
+   "de": "Noten geben",
+   "register": "tu",
+   "anker": "vermek",
+   "notiz": "not = Note (auch: Notiz); not vermek = benoten, not almak = eine Note bekommen. Komparativ: X-den daha zor = schwerer als X.",
+   "audio": "audio/tr-de/wendungen/oa_09.mp3?v=914f430a",
+   "satz": {
+    "fr": "Not vermek dersten daha zor.",
+    "de": "Noten geben ist schwerer als unterrichten.",
+    "luecke": "Not vermek",
+    "audio": "audio/tr-de/saetze/oa_09.mp3?v=d167a753"
+   },
+   "zeit": null
+  },
+  {
+   "id": "oa_10",
+   "thema": "ogretmenler",
+   "fr": "sınıfta kalmak",
+   "de": "sitzenbleiben",
+   "register": "tu",
+   "anker": "kalmak",
+   "notiz": "sınıf = Klasse (auch: Klassenzimmer); sınıfta kalmak = in der Klasse bleiben = sitzenbleiben. kimse + Verneinung = niemand. umarım = ich hoffe.",
+   "audio": "audio/tr-de/wendungen/oa_10.mp3?v=bdb9d1e0",
+   "satz": {
+    "fr": "Bu yıl kimse sınıfta kalmıyor, umarım.",
+    "de": "Dieses Jahr bleibt hoffentlich keiner sitzen.",
+    "luecke": "sınıfta kalmıyor",
+    "audio": "audio/tr-de/saetze/oa_10.mp3?v=b9341cfe"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Geçen yıl kimse sınıfta kalmadı.",
+     "audio": "audio/tr-de/saetze/oa_10_pc.mp3?v=dd50f728"
+    },
+    "fp": {
+     "fr": "Bu yıl kimse sınıfta kalmayacak, umarım.",
+     "audio": "audio/tr-de/saetze/oa_10_fp.mp3?v=61891c06"
+    }
+   }
+  },
+  {
+   "id": "oa_11",
+   "thema": "ogretmenler",
+   "fr": "veli toplantısı",
+   "de": "Elternabend",
+   "register": "tu",
+   "anker": "yatmak",
+   "notiz": "veli = Erziehungsberechtigter (arabisches Lehnwort); veli toplantı-sı. yatmak = sich hinlegen, schlafen gehen; geç = spät.",
+   "audio": "audio/tr-de/wendungen/oa_11.mp3?v=508ca651",
+   "satz": {
+    "fr": "Bu akşam veli toplantısı var, geç yatıyoruz.",
+    "de": "Heute Abend ist Elternabend, wir gehen spät schlafen.",
+    "luecke": "veli toplantısı",
+    "audio": "audio/tr-de/saetze/oa_11.mp3?v=204bbcb4"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün akşam veli toplantısı vardı, geç yattık.",
+     "audio": "audio/tr-de/saetze/oa_11_pc.mp3?v=ea7f765b"
+    },
+    "fp": {
+     "fr": "Yarın akşam veli toplantısı var, geç yatacağız.",
+     "audio": "audio/tr-de/saetze/oa_11_fp.mp3?v=1f28a856"
+    }
+   }
+  },
+  {
+   "id": "oa_12",
+   "thema": "ogretmenler",
+   "fr": "kopya çekmek",
+   "de": "abschreiben, spicken",
+   "register": "tu",
+   "anker": "çekmek",
+   "notiz": "kopya çekmek = spicken (wörtlich: Kopie ziehen); çekmek = ziehen, auch fotokopi çekmek, fotoğraf çekmek. biri = einer, ikisi = zwei davon.",
+   "audio": "audio/tr-de/wendungen/oa_12.mp3?v=79776b87",
+   "satz": {
+    "fr": "Biri kopya çekiyor, ikisi aynı hatayı yapıyor.",
+    "de": "Einer spickt, zwei machen denselben Fehler.",
+    "luecke": "kopya çekiyor",
+    "audio": "audio/tr-de/saetze/oa_12.mp3?v=24275dd1"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Biri kopya çekti, ikisi aynı hatayı yaptı.",
+     "audio": "audio/tr-de/saetze/oa_12_pc.mp3?v=54d41f47"
+    },
+    "fp": {
+     "fr": "Biri kopya çekecek, ikisi aynı hatayı yapacak.",
+     "audio": "audio/tr-de/saetze/oa_12_fp.mp3?v=798b056a"
+    }
+   }
+  },
+  {
+   "id": "oa_13",
+   "thema": "ogretmenler",
+   "fr": "dersi kaynatmak",
+   "de": "die Stunde verbummeln",
+   "register": "tu",
+   "anker": "kaynatmak",
+   "notiz": "kaynatmak = kochen lassen; dersi kaynatmak (Schülerslang) = die Stunde mit Reden vertrödeln. « ben de » = ich auch, und ich.",
+   "audio": "audio/tr-de/wendungen/oa_13.mp3?v=b7658825",
+   "satz": {
+    "fr": "Son saatte dersi kaynatıyorlar, ben de bırakıyorum.",
+    "de": "In der letzten Stunde verbummeln sie die Stunde, und ich lasse es zu.",
+    "luecke": "dersi kaynatıyorlar",
+    "audio": "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Son saatte dersi kaynattılar, ben de bıraktım.",
+     "audio": "audio/tr-de/saetze/oa_13_pc.mp3?v=9c748837"
+    },
+    "fp": {
+     "fr": "Son saatte dersi kaynatacaklar, ben de bırakacağım.",
+     "audio": "audio/tr-de/saetze/oa_13_fp.mp3?v=924d5717"
+    }
+   }
+  },
+  {
+   "id": "oa_14",
+   "thema": "ogretmenler",
+   "fr": "yerine girmek",
+   "de": "vertreten",
+   "register": "tu",
+   "anker": "girmek",
+   "notiz": "yer = Platz; onun yerine = an ihrer Stelle. derse girmek = eine Stunde halten (wörtlich: in die Stunde hineingehen); ikinci saate girmek = die zweite Stunde übernehmen.",
+   "audio": "audio/tr-de/wendungen/oa_14.mp3?v=cfc48f72",
+   "satz": {
+    "fr": "Ayşe hasta, onun yerine ikinci saate giriyorum.",
+    "de": "Ayşe ist krank, ich vertrete sie in der zweiten Stunde.",
+    "luecke": "yerine",
+    "audio": "audio/tr-de/saetze/oa_14.mp3?v=37569581"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Ayşe hastaydı, onun yerine ikinci saate girdim.",
+     "audio": "audio/tr-de/saetze/oa_14_pc.mp3?v=9e611cfd"
+    },
+    "fp": {
+     "fr": "Ayşe hasta, onun yerine ikinci saate gireceğim.",
+     "audio": "audio/tr-de/saetze/oa_14_fp.mp3?v=6555ada1"
+    }
+   }
+  },
+  {
+   "id": "oa_15",
+   "thema": "ogretmenler",
+   "fr": "ders anlatmak",
+   "de": "unterrichten, erklären",
+   "register": "tu",
+   "anker": "anlatmak",
+   "notiz": "anlatmak = erzählen, erklären; ders anlatmak = unterrichten. konu = Thema (Akkusativ konu-yu). üçüncü kez = zum dritten Mal; Ordinalzahlen -(i)nci.",
+   "audio": "audio/tr-de/wendungen/oa_15.mp3?v=63f93351",
+   "satz": {
+    "fr": "Aynı konuyu üçüncü kez anlatıyorum.",
+    "de": "Ich erkläre dasselbe zum dritten Mal.",
+    "luecke": "anlatıyorum",
+    "audio": "audio/tr-de/saetze/oa_15.mp3?v=bad32b06"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Aynı konuyu üçüncü kez anlattım.",
+     "audio": "audio/tr-de/saetze/oa_15_pc.mp3?v=ada19b6d"
+    },
+    "fp": {
+     "fr": "Aynı konuyu üçüncü kez anlatacağım.",
+     "audio": "audio/tr-de/saetze/oa_15_fp.mp3?v=d3fa966b"
+    }
+   }
+  },
+  {
+   "id": "oa_16",
+   "thema": "ogretmenler",
+   "fr": "teneffüs",
+   "de": "Pause",
+   "register": "tu",
+   "anker": "sürmek",
+   "notiz": "teneffüs (arabisch, wörtlich: Atmen) = Schulpause; mola = Pause allgemein. sürmek = dauern. « bile » = sogar, nicht einmal (nachgestellt).",
+   "audio": "audio/tr-de/wendungen/oa_16.mp3?v=94a59c82",
+   "satz": {
+    "fr": "Teneffüs beş dakika sürüyor, hissetmiyorum bile.",
+    "de": "Die Pause dauert fünf Minuten, ich merke sie nicht einmal.",
+    "luecke": "Teneffüs",
+    "audio": "audio/tr-de/saetze/oa_16.mp3?v=492dddda"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Teneffüs beş dakika sürdü, hissetmedim bile.",
+     "audio": "audio/tr-de/saetze/oa_16_pc.mp3?v=9b0eb98e"
+    },
+    "fp": {
+     "fr": "Teneffüs beş dakika sürecek, hissetmeyeceğim bile.",
+     "audio": "audio/tr-de/saetze/oa_16_fp.mp3?v=cab9f2b8"
+    }
+   }
+  },
+  {
+   "id": "oa_17",
+   "thema": "ogretmenler",
+   "fr": "fotokopi çektirmek",
+   "de": "kopieren lassen",
+   "register": "tu",
+   "anker": "çektirmek",
+   "notiz": "çek-tir-mek = Kausativ (kopieren lassen); çek-tir-e-me-mek = nicht kopieren lassen können (Möglichkeitsform -ebil-/-eme-). bozuk = kaputt.",
+   "audio": "audio/tr-de/wendungen/oa_17.mp3?v=0739bcb1",
+   "satz": {
+    "fr": "Makine yine bozuk, fotokopi çektiremiyorum.",
+    "de": "Die Maschine ist wieder kaputt, ich kann nicht kopieren.",
+    "luecke": "fotokopi çektiremiyorum",
+    "audio": "audio/tr-de/saetze/oa_17.mp3?v=339ffaab"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Makine yine bozuktu, fotokopi çektiremedim.",
+     "audio": "audio/tr-de/saetze/oa_17_pc.mp3?v=07f6f893"
+    },
+    "fp": {
+     "fr": "Makine yine bozuk, fotokopi çektiremeyeceğim.",
+     "audio": "audio/tr-de/saetze/oa_17_fp.mp3?v=ca3ebf88"
+    }
+   }
+  },
+  {
+   "id": "oa_18",
+   "thema": "ogretmenler",
+   "fr": "sözlü yapmak",
+   "de": "mündlich abfragen",
+   "register": "tu",
+   "anker": "yapmak",
+   "notiz": "sözlü = mündlich (söz = Wort), sözlü sınav = mündliche Prüfung; yazılı = schriftlich. sessizleşmek = still werden (-leş- = werden).",
+   "audio": "audio/tr-de/wendungen/oa_18.mp3?v=61f78d9c",
+   "satz": {
+    "fr": "Bugün sözlü yapıyorum, herkes birden sessizleşiyor.",
+    "de": "Heute frage ich mündlich ab, alle werden plötzlich still.",
+    "luecke": "sözlü yapıyorum",
+    "audio": "audio/tr-de/saetze/oa_18.mp3?v=d581c190"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Dün sözlü yaptım, herkes birden sessizleşti.",
+     "audio": "audio/tr-de/saetze/oa_18_pc.mp3?v=5f6b0197"
+    },
+    "fp": {
+     "fr": "Yarın sözlü yapacağım, herkes birden sessizleşecek.",
+     "audio": "audio/tr-de/saetze/oa_18_fp.mp3?v=0e30ea26"
+    }
+   }
+  },
+  {
+   "id": "oa_19",
+   "thema": "ogretmenler",
+   "fr": "yoklama almak",
+   "de": "Anwesenheit prüfen",
+   "register": "tu",
+   "anker": "almak",
+   "notiz": "yoklama = Anwesenheitskontrolle (von yoklamak = abtasten, prüfen); yok = nicht da. üç kişi = drei Personen (nach Zahlen Singular!).",
+   "audio": "audio/tr-de/wendungen/oa_19.mp3?v=fa04691a",
+   "satz": {
+    "fr": "Yoklama alıyorum, üç kişi yine yok.",
+    "de": "Ich prüfe die Anwesenheit, drei fehlen wieder.",
+    "luecke": "Yoklama alıyorum",
+    "audio": "audio/tr-de/saetze/oa_19.mp3?v=e590e04b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Yoklama aldım, üç kişi yine yoktu.",
+     "audio": "audio/tr-de/saetze/oa_19_pc.mp3?v=c2364f7f"
+    },
+    "fp": {
+     "fr": "Yoklama alacağım, üç kişi yine olmayacak.",
+     "audio": "audio/tr-de/saetze/oa_19_fp.mp3?v=3e8455bd"
+    }
+   }
+  },
+  {
+   "id": "oa_20",
+   "thema": "ogretmenler",
+   "fr": "tahtaya kaldırmak",
+   "de": "an die Tafel holen",
+   "register": "tu",
+   "anker": "kaldırmak",
+   "notiz": "tahta = Brett, Tafel; tahta-ya = an die Tafel (Dativ). kaldırmak = aufheben, aufrufen. Eigennamen bekommen Endungen mit Apostroph: Kerem'i. dua etmek = beten.",
+   "audio": "audio/tr-de/wendungen/oa_20.mp3?v=3bccf4af",
+   "satz": {
+    "fr": "Kerem'i tahtaya kaldırıyorum, dua ediyor.",
+    "de": "Ich hole Kerem an die Tafel, er betet.",
+    "luecke": "tahtaya kaldırıyorum",
+    "audio": "audio/tr-de/saetze/oa_20.mp3?v=622c5c00"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Kerem'i tahtaya kaldırdım, dua etti.",
+     "audio": "audio/tr-de/saetze/oa_20_pc.mp3?v=d8fdf23b"
+    },
+    "fp": {
+     "fr": "Kerem'i tahtaya kaldıracağım, dua edecek.",
+     "audio": "audio/tr-de/saetze/oa_20_fp.mp3?v=586c9caf"
+    }
+   }
+  },
+  {
+   "id": "oa_21",
+   "thema": "ogretmenler",
+   "fr": "karne",
+   "de": "Zeugnis",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "karne (aus dem Französischen « carnet ») = Zeugnis. karne günü = Zeugnistag. kibar = höflich. birden = plötzlich.",
+   "audio": "audio/tr-de/wendungen/oa_21.mp3?v=6f2532eb",
+   "satz": {
+    "fr": "Karne günü herkes birden çok kibar oluyor.",
+    "de": "Am Zeugnistag werden alle plötzlich sehr höflich.",
+    "luecke": "Karne",
+    "audio": "audio/tr-de/saetze/oa_21.mp3?v=9aadf991"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "Karne günü herkes birden çok kibar oldu.",
+     "audio": "audio/tr-de/saetze/oa_21_pc.mp3?v=e601030e"
+    },
+    "fp": {
+     "fr": "Karne günü herkes birden çok kibar olacak.",
+     "audio": "audio/tr-de/saetze/oa_21_fp.mp3?v=764e8ce6"
+    }
+   }
+  },
+  {
+   "id": "oa_22",
+   "thema": "ogretmenler",
+   "fr": "kolay gelsin",
+   "de": "gutes Gelingen (Gruß an jemanden, der arbeitet)",
+   "register": "tu",
+   "anker": "gelmek",
+   "notiz": "Wörtlich « möge es leicht kommen ». Man sagt es jedem, der gerade arbeitet: Kollegen, Verkäufern, Handwerkern. Antwort: sağ ol / teşekkürler.",
+   "audio": "audio/tr-de/wendungen/oa_22.mp3?v=c9aa6c27",
+   "satz": {
+    "fr": "Kolay gelsin! – Sağ ol, otuz kâğıt daha var.",
+    "de": "Gutes Gelingen! – Danke, noch dreißig Arbeiten.",
+    "luecke": "Kolay gelsin",
+    "audio": "audio/tr-de/saetze/oa_22.mp3?v=a8b54d9d"
+   },
+   "zeit": null
+  },
+  {
+   "id": "oa_23",
+   "thema": "ogretmenler",
+   "fr": "geçmiş olsun",
+   "de": "gute Besserung; gut, dass es vorbei ist",
+   "register": "tu",
+   "anker": "olmak",
+   "notiz": "Wörtlich « möge es vergangen sein »: bei Krankheit (gute Besserung) und nach überstandenen Mühen (Prüfung, Inspektion, Unfall). teftiş = Inspektion.",
+   "audio": "audio/tr-de/wendungen/oa_23.mp3?v=6d54cdb5",
+   "satz": {
+    "fr": "Teftiş bitti mi? Geçmiş olsun!",
+    "de": "Die Inspektion ist vorbei? Gut überstanden!",
+    "luecke": "Geçmiş olsun",
+    "audio": "audio/tr-de/saetze/oa_23.mp3?v=943c5781"
+   },
+   "zeit": null
+  },
+  {
+   "id": "oa_24",
+   "thema": "ogretmenler",
+   "fr": "Hocam, bir dakikanız var mı?",
+   "de": "Haben Sie eine Minute? (höflich)",
+   "register": "vous",
+   "anker": "var",
+   "notiz": "hoca = Lehrer, Meister; hocam = mein Lehrer, übliche Anrede unter Lehrern und von Schülern. dakika-nız = Ihre Minute (Possessiv 2. Pl. = Siezen).",
+   "audio": "audio/tr-de/wendungen/oa_24.mp3?v=450c63ae",
+   "satz": {
+    "fr": "Hocam, bir dakikanız var mı? Bir not sorunu var.",
+    "de": "Herr Kollege, haben Sie eine Minute? Es geht um eine Note.",
+    "luecke": "bir dakikanız var mı",
+    "audio": "audio/tr-de/saetze/oa_24.mp3?v=f16b4fdc"
+   },
+   "zeit": null
+  }
+ ],
  "dialoge": [],
  "rollen": {
   "A": "Alex",
@@ -298,7 +920,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Harika!",
     "de": "Wunderbar!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_harika.mp3?v=57eabfb1",
     "gruppe": [
      "harika"
     ]
@@ -306,7 +928,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Aferin!",
     "de": "Gut gemacht!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_aferin.mp3?v=a4cd592b",
     "gruppe": [
      "aferin"
     ]
@@ -314,7 +936,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Süper!",
     "de": "Super!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_super.mp3?v=9f472d1f",
     "gruppe": [
      "super"
     ]
@@ -322,7 +944,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Mükemmel!",
     "de": "Perfekt!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_mukemmel.mp3?v=37fc5d31",
     "gruppe": [
      "mukemmel"
     ]
@@ -330,7 +952,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tam isabet!",
     "de": "Volltreffer!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_tam_isabet.mp3?v=144b8b0a",
     "gruppe": [
      "isabet"
     ]
@@ -338,7 +960,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Helal olsun!",
     "de": "Alle Achtung!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_helal.mp3?v=721efcfc",
     "gruppe": [
      "helal"
     ]
@@ -346,7 +968,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Çok iyi!",
     "de": "Sehr gut!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_cok_iyi.mp3?v=8e7a33f9",
     "gruppe": [
      "iyi"
     ]
@@ -354,7 +976,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Aynen öyle!",
     "de": "Ganz genau!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_aynen.mp3?v=e035746b",
     "gruppe": [
      "aynen"
     ]
@@ -362,7 +984,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Kesinlikle!",
     "de": "Absolut!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_kesinlikle.mp3?v=53217079",
     "gruppe": [
      "kesin"
     ]
@@ -370,7 +992,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Doğru!",
     "de": "Richtig!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_dogru.mp3?v=8c8f646a",
     "gruppe": [
      "dogru"
     ]
@@ -378,7 +1000,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tamamdır!",
     "de": "Passt!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_tamamdir.mp3?v=ffc5e533",
     "gruppe": [
      "tamam"
     ]
@@ -386,7 +1008,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Ellerine sağlık!",
     "de": "Gut gemacht (wörtlich: Gesundheit deinen Händen)!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_ellerine.mp3?v=00be883f",
     "gruppe": [
      "saglik"
     ]
@@ -394,7 +1016,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Ağzına sağlık!",
     "de": "Gut gesagt (wörtlich: Gesundheit deinem Mund)!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_agzina.mp3?v=aa46d6a7",
     "gruppe": [
      "saglik"
     ]
@@ -402,7 +1024,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Yaşasın!",
     "de": "Hurra!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_yasasin.mp3?v=01059791",
     "gruppe": [
      "yasasin"
     ]
@@ -410,7 +1032,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Vay be!",
     "de": "Wow!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_vay_be.mp3?v=bdd5ab96",
     "gruppe": [
      "vay"
     ]
@@ -418,7 +1040,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Müthiş!",
     "de": "Großartig!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_muthis.mp3?v=9ffa4d63",
     "gruppe": [
      "muthis"
     ]
@@ -426,7 +1048,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Efsane!",
     "de": "Legendär!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_efsane.mp3?v=2e18274c",
     "gruppe": [
      "efsane"
     ]
@@ -434,7 +1056,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "İşte bu!",
     "de": "Das ist es!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_iste_bu.mp3?v=b628bfcd",
     "gruppe": [
      "iste"
     ]
@@ -442,7 +1064,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tam üstüne bastın!",
     "de": "Genau getroffen!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_ustune_bastin.mp3?v=be482cda",
     "gruppe": [
      "isabet"
     ]
@@ -450,7 +1072,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Bu kadar olur!",
     "de": "Besser geht's nicht!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_bu_kadar.mp3?v=44bac7f6",
     "gruppe": [
      "bukadar"
     ]
@@ -458,7 +1080,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Hiç fena değil!",
     "de": "Gar nicht übel!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_fena_degil.mp3?v=43ce8efd",
     "gruppe": [
      "fena"
     ]
@@ -466,7 +1088,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Güzel!",
     "de": "Schön!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_guzel.mp3?v=da007cc3",
     "gruppe": [
      "guzel"
     ]
@@ -474,7 +1096,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Çok güzel!",
     "de": "Sehr schön!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_cok_guzel.mp3?v=ceae07ab",
     "gruppe": [
      "guzel"
     ]
@@ -482,7 +1104,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tebrikler!",
     "de": "Glückwunsch!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_tebrikler.mp3?v=9d9146a2",
     "gruppe": [
      "tebrik"
     ]
@@ -490,7 +1112,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Böyle devam!",
     "de": "Weiter so!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_boyle_devam.mp3?v=7c4ea109",
     "gruppe": [
      "devam"
     ]
@@ -498,7 +1120,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Bir puan daha!",
     "de": "Noch ein Punkt!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_bir_puan.mp3?v=5f0653de",
     "gruppe": [
      "puan"
     ]
@@ -506,7 +1128,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Harikasın!",
     "de": "Du bist wunderbar!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_harikasin.mp3?v=9b634608",
     "gruppe": [
      "harika"
     ]
@@ -514,7 +1136,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Usta!",
     "de": "Meister!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_usta.mp3?v=75c52a8f",
     "gruppe": [
      "usta"
     ]
@@ -522,7 +1144,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Şampiyon!",
     "de": "Champion!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_sampiyon.mp3?v=0e936730",
     "gruppe": [
      "sampiyon"
     ]
@@ -530,7 +1152,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "İlk denemede!",
     "de": "Beim ersten Versuch!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_ilk_denemede.mp3?v=86212015",
     "gruppe": [
      "ilk"
     ]
@@ -538,7 +1160,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Hatasız!",
     "de": "Fehlerfrei!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_hatasiz.mp3?v=d8403d18",
     "gruppe": [
      "hatasiz"
     ]
@@ -546,7 +1168,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Ne güzel bir aksan!",
     "de": "Was für ein schöner Akzent!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_ne_aksan.mp3?v=97a748d5",
     "gruppe": [
      "aksan"
     ]
@@ -554,7 +1176,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "İstanbullu gibi!",
     "de": "Wie ein Istanbuler!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_istanbullu.mp3?v=e1e62b2f",
     "gruppe": [
      "istanbul"
     ]
@@ -562,7 +1184,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Kulağın var!",
     "de": "Du hast ein gutes Ohr!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_kulagin_var.mp3?v=9766c46c",
     "gruppe": [
      "kulak"
     ]
@@ -570,7 +1192,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Kulağa çok hoş geliyor!",
     "de": "Das klingt sehr gut!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_cok_hos.mp3?v=99df7894",
     "gruppe": [
      "kulak"
     ]
@@ -578,7 +1200,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Bayıldım!",
     "de": "Ich bin begeistert!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_bayildim.mp3?v=2d2c6bd8",
     "gruppe": [
      "bayildim"
     ]
@@ -586,7 +1208,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Gelişiyorsun!",
     "de": "Du machst Fortschritte!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_gelisiyorsun.mp3?v=9a3aa14c",
     "gruppe": [
      "gelis"
     ]
@@ -594,7 +1216,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "İşte Türkçe bu!",
     "de": "Das ist Türkisch!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_turkce_bu.mp3?v=b4abe8cd",
     "gruppe": [
      "turkce"
     ]
@@ -602,7 +1224,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Evet!",
     "de": "Ja!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_evet.mp3?v=d0533722",
     "gruppe": [
      "evet"
     ]
@@ -610,7 +1232,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tastamam!",
     "de": "Haargenau!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_tastamam.mp3?v=53a177ef",
     "gruppe": [
      "tamam"
     ]
@@ -618,7 +1240,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Cuk oturdu!",
     "de": "Passt wie angegossen!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_cuk_oturdu.mp3?v=88110f9b",
     "gruppe": [
      "oturdu"
     ]
@@ -626,7 +1248,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Çok iyi, öğretmenim!",
     "de": "Sehr gut, Herr Lehrer!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_ogretmenim.mp3?v=3086b1e1",
     "gruppe": [
      "ogretmen"
     ]
@@ -634,7 +1256,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Nokta atışı!",
     "de": "Punktgenau!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_nokta_atisi.mp3?v=e70e20bc",
     "gruppe": [
      "isabet"
     ]
@@ -642,7 +1264,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "İyi dedin!",
     "de": "Gut gesagt!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_iyi_dedin.mp3?v=93ccb2e0",
     "gruppe": [
      "dedin"
     ]
@@ -650,7 +1272,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Olmuş!",
     "de": "Sitzt!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_olmus.mp3?v=023d1929",
     "gruppe": [
      "olmus"
     ]
@@ -658,7 +1280,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Kusursuz!",
     "de": "Makellos!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_kusursuz.mp3?v=c4df3fcf",
     "gruppe": [
      "hatasiz"
     ]
@@ -666,7 +1288,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Bravo!",
     "de": "Bravo!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_bravo.mp3?v=5a15863d",
     "gruppe": [
      "bravo"
     ]
@@ -674,7 +1296,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Ne güzel!",
     "de": "Wie schön!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_ne_guzel.mp3?v=0d118d96",
     "gruppe": [
      "guzel"
     ]
@@ -682,7 +1304,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tam böyle!",
     "de": "Genau so!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_tam_boyle.mp3?v=72457b3a",
     "gruppe": [
      "aynen"
     ]
@@ -690,7 +1312,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "İşte böyle!",
     "de": "So geht's!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_iste_boyle.mp3?v=eb3a6f97",
     "gruppe": [
      "iste"
     ]
@@ -698,7 +1320,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Şahane!",
     "de": "Prächtig!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_sahane.mp3?v=bea73b23",
     "gruppe": [
      "sahane"
     ]
@@ -706,7 +1328,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Dört dörtlük!",
     "de": "Erstklassig (wörtlich: vier von vier)!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_dort_dortluk.mp3?v=0d260781",
     "gruppe": [
      "dort"
     ]
@@ -714,7 +1336,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "On numara!",
     "de": "Zehn von zehn!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_on_numara.mp3?v=97c404d4",
     "gruppe": [
      "on"
     ]
@@ -722,7 +1344,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Devam et!",
     "de": "Mach weiter!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/lob_devam_et.mp3?v=b669816c",
     "gruppe": [
      "devam"
     ]
@@ -732,7 +1354,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Aferin, şampiyon!",
     "de": "Bravo, Champion!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_sampiyon.mp3?v=786870d3",
     "gruppe": [
      "sampiyon"
     ]
@@ -740,7 +1362,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "İnanılmaz! Seri gidiyorsun!",
     "de": "Unglaublich! Du bist in Serie!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_seri.mp3?v=cad084ba",
     "gruppe": [
      "seri"
     ]
@@ -748,7 +1370,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Seninle gurur duyuyorum!",
     "de": "Ich bin stolz auf dich!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_gurur.mp3?v=f2a1fb9f",
     "gruppe": [
      "gurur"
     ]
@@ -756,7 +1378,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Muhteşem! Böyle devam!",
     "de": "Großartig! Weiter so!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_devam.mp3?v=b1eb78f2",
     "gruppe": [
      "devam"
     ]
@@ -764,7 +1386,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tam bir makine!",
     "de": "Was für eine Maschine!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_makine.mp3?v=6766e8e1",
     "gruppe": [
      "makine"
     ]
@@ -772,7 +1394,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Sen bir yıldızsın!",
     "de": "Du bist ein Star!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_yildiz.mp3?v=b8ccbdbd",
     "gruppe": [
      "yildiz"
     ]
@@ -780,7 +1402,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Çok etkileyici!",
     "de": "Beeindruckend!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_etkileyici.mp3?v=bd3be8cf",
     "gruppe": [
      "etkileyici"
     ]
@@ -788,7 +1410,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Kolay gösteriyorsun!",
     "de": "Du lässt es leicht aussehen!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_kolay.mp3?v=d08fd383",
     "gruppe": [
      "kolay"
     ]
@@ -796,7 +1418,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tam da bunu duymak istiyordum!",
     "de": "Genau das wollte ich hören!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_duymak.mp3?v=4675ebfd",
     "gruppe": [
      "duymak"
     ]
@@ -804,7 +1426,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Bugün uçuyorsun!",
     "de": "Heute fliegst du!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_ucuyorsun.mp3?v=1e73858f",
     "gruppe": [
      "ucmak"
     ]
@@ -812,7 +1434,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "On ikiden vurdun!",
     "de": "Voll ins Schwarze!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_oniki.mp3?v=e053e3fe",
     "gruppe": [
      "isabet"
     ]
@@ -820,7 +1442,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Ne performans ama!",
     "de": "Was für eine Leistung!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_performans.mp3?v=11e2399b",
     "gruppe": [
      "performans"
     ]
@@ -828,7 +1450,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Ortalığı dağıttın!",
     "de": "Du hast abgeräumt!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_dagittin.mp3?v=5224c588",
     "gruppe": [
      "dagittin"
     ]
@@ -836,7 +1458,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Ne seviye ama!",
     "de": "Was für ein Niveau!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/stark_seviye.mp3?v=c31f2be6",
     "gruppe": [
      "seviye"
     ]
@@ -846,7 +1468,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Az kaldı!",
     "de": "Fast!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_az_kaldi.mp3?v=486f64bb",
     "gruppe": [
      "az"
     ]
@@ -854,7 +1476,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Tam değil.",
     "de": "Nicht ganz.",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_tam_degil.mp3?v=cdf4ede8",
     "gruppe": [
      "tam"
     ]
@@ -862,7 +1484,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Bir deneme daha!",
     "de": "Noch ein Versuch!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_bir_daha.mp3?v=545a251c",
     "gruppe": [
      "daha"
     ]
@@ -870,7 +1492,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Sorun değil!",
     "de": "Macht nichts!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_sorun_degil.mp3?v=7ace4a4c",
     "gruppe": [
      "sorun"
     ]
@@ -878,7 +1500,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Eyvah!",
     "de": "Oh je!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_eyvah.mp3?v=3140199e",
     "gruppe": [
      "eyvah"
     ]
@@ -886,7 +1508,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Hmm…",
     "de": "Hmm…",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_hmm.mp3?v=37d06353",
     "gruppe": [
      "hmm"
     ]
@@ -894,7 +1516,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Yakındı!",
     "de": "Knapp daneben!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_yakin.mp3?v=5f2ce006",
     "gruppe": [
      "yakin"
     ]
@@ -902,7 +1524,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Az kaldı, az!",
     "de": "Fast, fast!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_az_az.mp3?v=c70b081f",
     "gruppe": [
      "az"
     ]
@@ -910,7 +1532,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Bu sefer olmadı!",
     "de": "Diesmal nicht!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_bu_sefer.mp3?v=b597c1c6",
     "gruppe": [
      "sefer"
     ]
@@ -918,7 +1540,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Sorun değil, baştan alalım!",
     "de": "Macht nichts, noch mal von vorn!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/fehler_bastan.mp3?v=d6547c86",
     "gruppe": [
      "bastan"
     ]
@@ -928,7 +1550,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Bugünlük bitti! Helal olsun!",
     "de": "Schluss für heute! Alle Achtung!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/geschafft_bitti.mp3?v=f2217dde",
     "gruppe": [
      "fertig"
     ]
@@ -936,7 +1558,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Aferin, hepsini bitirdin! Yarın görüşürüz!",
     "de": "Bravo, du hast alles geschafft! Bis morgen!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/geschafft_hepsi.mp3?v=d262b7ae",
     "gruppe": [
      "fertig"
     ]
@@ -944,7 +1566,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Kendinle gurur duyabilirsin. Yarın görüşürüz!",
     "de": "Du kannst stolz auf dich sein. Bis morgen!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/geschafft_gurur.mp3?v=351b2baf",
     "gruppe": [
      "fertig"
     ]
@@ -954,7 +1576,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Hatasız! Harika!",
     "de": "Fehlerfrei! Wunderbar!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/voll_hatasiz.mp3?v=813082a3",
     "gruppe": [
      "voll"
     ]
@@ -964,7 +1586,7 @@ window.SPRACHEN["tr-de"] = {
    {
     "text": "Gördün mü? Yapabiliyorsun!",
     "de": "Siehst du? Du schaffst es!",
-    "audio": null,
+    "audio": "audio/tr-de/lob/doch_gordun.mp3?v=2970ed11",
     "gruppe": [
      "doch"
     ]
@@ -1416,55 +2038,55 @@ window.SPRACHEN["tr-de"] = {
     "ab": 300,
     "name": "Simit",
     "symbol": "🥯",
-    "audio": null
+    "audio": "audio/tr-de/spiel/titel_1.mp3?v=5002d163"
    },
    {
     "ab": 900,
     "name": "Börek",
     "symbol": "🥐",
-    "audio": null
+    "audio": "audio/tr-de/spiel/titel_2.mp3?v=564b5b00"
    },
    {
     "ab": 1800,
     "name": "Lahmacun",
     "symbol": "🫓",
-    "audio": null
+    "audio": "audio/tr-de/spiel/titel_3.mp3?v=b3e195d8"
    },
    {
     "ab": 3000,
     "name": "Kebap",
     "symbol": "🍢",
-    "audio": null
+    "audio": "audio/tr-de/spiel/titel_4.mp3?v=5214181f"
    },
    {
     "ab": 4500,
     "name": "Künefe",
     "symbol": "🍮",
-    "audio": null
+    "audio": "audio/tr-de/spiel/titel_5.mp3?v=7e5eac37"
    },
    {
     "ab": 6500,
     "name": "Baklava",
     "symbol": "👑",
-    "audio": null
+    "audio": "audio/tr-de/spiel/titel_6.mp3?v=74a9c8dd"
    }
   ],
   "texte": {
    "feuer": {
     "text": "Alev aldın! Üst üste üç gün!",
-    "audio": null
+    "audio": "audio/tr-de/spiel/feuer.mp3?v=366b85be"
    },
    "woche": {
     "text": "Mükemmel bir hafta! Her okul günü çalıştın. Aferin!",
-    "audio": null
+    "audio": "audio/tr-de/spiel/woche.mp3?v=1c9d00ed"
    },
    "monat": {
     "text": "Üst üste dört mükemmel hafta! Tam bir şampiyon!",
-    "audio": null
+    "audio": "audio/tr-de/spiel/monat.mp3?v=17d9db24"
    },
    "fini": {
     "text": "Bugünlük bu kadar. Yarın görüşürüz!",
-    "audio": null
+    "audio": "audio/tr-de/spiel/fini.mp3?v=980ba49d"
    }
   },
   "frei": [
@@ -1525,5 +2147,187 @@ window.SPRACHEN["tr-de"] = {
    }
   ]
  },
- "audio_liste": []
+ "audio_liste": [
+  "audio/tr-de/lob/doch_gordun.mp3?v=2970ed11",
+  "audio/tr-de/lob/fehler_az_az.mp3?v=c70b081f",
+  "audio/tr-de/lob/fehler_az_kaldi.mp3?v=486f64bb",
+  "audio/tr-de/lob/fehler_bastan.mp3?v=d6547c86",
+  "audio/tr-de/lob/fehler_bir_daha.mp3?v=545a251c",
+  "audio/tr-de/lob/fehler_bu_sefer.mp3?v=b597c1c6",
+  "audio/tr-de/lob/fehler_eyvah.mp3?v=3140199e",
+  "audio/tr-de/lob/fehler_hmm.mp3?v=37d06353",
+  "audio/tr-de/lob/fehler_sorun_degil.mp3?v=7ace4a4c",
+  "audio/tr-de/lob/fehler_tam_degil.mp3?v=cdf4ede8",
+  "audio/tr-de/lob/fehler_yakin.mp3?v=5f2ce006",
+  "audio/tr-de/lob/geschafft_bitti.mp3?v=f2217dde",
+  "audio/tr-de/lob/geschafft_gurur.mp3?v=351b2baf",
+  "audio/tr-de/lob/geschafft_hepsi.mp3?v=d262b7ae",
+  "audio/tr-de/lob/lob_aferin.mp3?v=a4cd592b",
+  "audio/tr-de/lob/lob_agzina.mp3?v=aa46d6a7",
+  "audio/tr-de/lob/lob_aynen.mp3?v=e035746b",
+  "audio/tr-de/lob/lob_bayildim.mp3?v=2d2c6bd8",
+  "audio/tr-de/lob/lob_bir_puan.mp3?v=5f0653de",
+  "audio/tr-de/lob/lob_boyle_devam.mp3?v=7c4ea109",
+  "audio/tr-de/lob/lob_bravo.mp3?v=5a15863d",
+  "audio/tr-de/lob/lob_bu_kadar.mp3?v=44bac7f6",
+  "audio/tr-de/lob/lob_cok_guzel.mp3?v=ceae07ab",
+  "audio/tr-de/lob/lob_cok_hos.mp3?v=99df7894",
+  "audio/tr-de/lob/lob_cok_iyi.mp3?v=8e7a33f9",
+  "audio/tr-de/lob/lob_cuk_oturdu.mp3?v=88110f9b",
+  "audio/tr-de/lob/lob_devam_et.mp3?v=b669816c",
+  "audio/tr-de/lob/lob_dogru.mp3?v=8c8f646a",
+  "audio/tr-de/lob/lob_dort_dortluk.mp3?v=0d260781",
+  "audio/tr-de/lob/lob_efsane.mp3?v=2e18274c",
+  "audio/tr-de/lob/lob_ellerine.mp3?v=00be883f",
+  "audio/tr-de/lob/lob_evet.mp3?v=d0533722",
+  "audio/tr-de/lob/lob_fena_degil.mp3?v=43ce8efd",
+  "audio/tr-de/lob/lob_gelisiyorsun.mp3?v=9a3aa14c",
+  "audio/tr-de/lob/lob_guzel.mp3?v=da007cc3",
+  "audio/tr-de/lob/lob_harika.mp3?v=57eabfb1",
+  "audio/tr-de/lob/lob_harikasin.mp3?v=9b634608",
+  "audio/tr-de/lob/lob_hatasiz.mp3?v=d8403d18",
+  "audio/tr-de/lob/lob_helal.mp3?v=721efcfc",
+  "audio/tr-de/lob/lob_ilk_denemede.mp3?v=86212015",
+  "audio/tr-de/lob/lob_istanbullu.mp3?v=e1e62b2f",
+  "audio/tr-de/lob/lob_iste_boyle.mp3?v=eb3a6f97",
+  "audio/tr-de/lob/lob_iste_bu.mp3?v=b628bfcd",
+  "audio/tr-de/lob/lob_iyi_dedin.mp3?v=93ccb2e0",
+  "audio/tr-de/lob/lob_kesinlikle.mp3?v=53217079",
+  "audio/tr-de/lob/lob_kulagin_var.mp3?v=9766c46c",
+  "audio/tr-de/lob/lob_kusursuz.mp3?v=c4df3fcf",
+  "audio/tr-de/lob/lob_mukemmel.mp3?v=37fc5d31",
+  "audio/tr-de/lob/lob_muthis.mp3?v=9ffa4d63",
+  "audio/tr-de/lob/lob_ne_aksan.mp3?v=97a748d5",
+  "audio/tr-de/lob/lob_ne_guzel.mp3?v=0d118d96",
+  "audio/tr-de/lob/lob_nokta_atisi.mp3?v=e70e20bc",
+  "audio/tr-de/lob/lob_ogretmenim.mp3?v=3086b1e1",
+  "audio/tr-de/lob/lob_olmus.mp3?v=023d1929",
+  "audio/tr-de/lob/lob_on_numara.mp3?v=97c404d4",
+  "audio/tr-de/lob/lob_sahane.mp3?v=bea73b23",
+  "audio/tr-de/lob/lob_sampiyon.mp3?v=0e936730",
+  "audio/tr-de/lob/lob_super.mp3?v=9f472d1f",
+  "audio/tr-de/lob/lob_tam_boyle.mp3?v=72457b3a",
+  "audio/tr-de/lob/lob_tam_isabet.mp3?v=144b8b0a",
+  "audio/tr-de/lob/lob_tamamdir.mp3?v=ffc5e533",
+  "audio/tr-de/lob/lob_tastamam.mp3?v=53a177ef",
+  "audio/tr-de/lob/lob_tebrikler.mp3?v=9d9146a2",
+  "audio/tr-de/lob/lob_turkce_bu.mp3?v=b4abe8cd",
+  "audio/tr-de/lob/lob_usta.mp3?v=75c52a8f",
+  "audio/tr-de/lob/lob_ustune_bastin.mp3?v=be482cda",
+  "audio/tr-de/lob/lob_vay_be.mp3?v=bdd5ab96",
+  "audio/tr-de/lob/lob_yasasin.mp3?v=01059791",
+  "audio/tr-de/lob/stark_dagittin.mp3?v=5224c588",
+  "audio/tr-de/lob/stark_devam.mp3?v=b1eb78f2",
+  "audio/tr-de/lob/stark_duymak.mp3?v=4675ebfd",
+  "audio/tr-de/lob/stark_etkileyici.mp3?v=bd3be8cf",
+  "audio/tr-de/lob/stark_gurur.mp3?v=f2a1fb9f",
+  "audio/tr-de/lob/stark_kolay.mp3?v=d08fd383",
+  "audio/tr-de/lob/stark_makine.mp3?v=6766e8e1",
+  "audio/tr-de/lob/stark_oniki.mp3?v=e053e3fe",
+  "audio/tr-de/lob/stark_performans.mp3?v=11e2399b",
+  "audio/tr-de/lob/stark_sampiyon.mp3?v=786870d3",
+  "audio/tr-de/lob/stark_seri.mp3?v=cad084ba",
+  "audio/tr-de/lob/stark_seviye.mp3?v=c31f2be6",
+  "audio/tr-de/lob/stark_ucuyorsun.mp3?v=1e73858f",
+  "audio/tr-de/lob/stark_yildiz.mp3?v=b8ccbdbd",
+  "audio/tr-de/lob/voll_hatasiz.mp3?v=813082a3",
+  "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
+  "audio/tr-de/saetze/oa_01_fp.mp3?v=83f6cc1a",
+  "audio/tr-de/saetze/oa_01_pc.mp3?v=760d4b0e",
+  "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92",
+  "audio/tr-de/saetze/oa_02_fp.mp3?v=570fae42",
+  "audio/tr-de/saetze/oa_02_pc.mp3?v=dad8ac10",
+  "audio/tr-de/saetze/oa_03.mp3?v=9b5be232",
+  "audio/tr-de/saetze/oa_03_fp.mp3?v=e1753352",
+  "audio/tr-de/saetze/oa_03_pc.mp3?v=6b04f904",
+  "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813",
+  "audio/tr-de/saetze/oa_04_fp.mp3?v=a23a3709",
+  "audio/tr-de/saetze/oa_04_pc.mp3?v=51367d74",
+  "audio/tr-de/saetze/oa_05.mp3?v=cdca761d",
+  "audio/tr-de/saetze/oa_05_fp.mp3?v=993bf3c9",
+  "audio/tr-de/saetze/oa_05_pc.mp3?v=e58b9a2d",
+  "audio/tr-de/saetze/oa_06.mp3?v=481c25df",
+  "audio/tr-de/saetze/oa_06_fp.mp3?v=188f6d11",
+  "audio/tr-de/saetze/oa_06_pc.mp3?v=6473edcd",
+  "audio/tr-de/saetze/oa_07.mp3?v=87586419",
+  "audio/tr-de/saetze/oa_07_fp.mp3?v=f2b352a0",
+  "audio/tr-de/saetze/oa_07_pc.mp3?v=661261f8",
+  "audio/tr-de/saetze/oa_08.mp3?v=950c9561",
+  "audio/tr-de/saetze/oa_08_fp.mp3?v=177bd183",
+  "audio/tr-de/saetze/oa_08_pc.mp3?v=f036a539",
+  "audio/tr-de/saetze/oa_09.mp3?v=d167a753",
+  "audio/tr-de/saetze/oa_10.mp3?v=b9341cfe",
+  "audio/tr-de/saetze/oa_10_fp.mp3?v=61891c06",
+  "audio/tr-de/saetze/oa_10_pc.mp3?v=dd50f728",
+  "audio/tr-de/saetze/oa_11.mp3?v=204bbcb4",
+  "audio/tr-de/saetze/oa_11_fp.mp3?v=1f28a856",
+  "audio/tr-de/saetze/oa_11_pc.mp3?v=ea7f765b",
+  "audio/tr-de/saetze/oa_12.mp3?v=24275dd1",
+  "audio/tr-de/saetze/oa_12_fp.mp3?v=798b056a",
+  "audio/tr-de/saetze/oa_12_pc.mp3?v=54d41f47",
+  "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb",
+  "audio/tr-de/saetze/oa_13_fp.mp3?v=924d5717",
+  "audio/tr-de/saetze/oa_13_pc.mp3?v=9c748837",
+  "audio/tr-de/saetze/oa_14.mp3?v=37569581",
+  "audio/tr-de/saetze/oa_14_fp.mp3?v=6555ada1",
+  "audio/tr-de/saetze/oa_14_pc.mp3?v=9e611cfd",
+  "audio/tr-de/saetze/oa_15.mp3?v=bad32b06",
+  "audio/tr-de/saetze/oa_15_fp.mp3?v=d3fa966b",
+  "audio/tr-de/saetze/oa_15_pc.mp3?v=ada19b6d",
+  "audio/tr-de/saetze/oa_16.mp3?v=492dddda",
+  "audio/tr-de/saetze/oa_16_fp.mp3?v=cab9f2b8",
+  "audio/tr-de/saetze/oa_16_pc.mp3?v=9b0eb98e",
+  "audio/tr-de/saetze/oa_17.mp3?v=339ffaab",
+  "audio/tr-de/saetze/oa_17_fp.mp3?v=ca3ebf88",
+  "audio/tr-de/saetze/oa_17_pc.mp3?v=07f6f893",
+  "audio/tr-de/saetze/oa_18.mp3?v=d581c190",
+  "audio/tr-de/saetze/oa_18_fp.mp3?v=0e30ea26",
+  "audio/tr-de/saetze/oa_18_pc.mp3?v=5f6b0197",
+  "audio/tr-de/saetze/oa_19.mp3?v=e590e04b",
+  "audio/tr-de/saetze/oa_19_fp.mp3?v=3e8455bd",
+  "audio/tr-de/saetze/oa_19_pc.mp3?v=c2364f7f",
+  "audio/tr-de/saetze/oa_20.mp3?v=622c5c00",
+  "audio/tr-de/saetze/oa_20_fp.mp3?v=586c9caf",
+  "audio/tr-de/saetze/oa_20_pc.mp3?v=d8fdf23b",
+  "audio/tr-de/saetze/oa_21.mp3?v=9aadf991",
+  "audio/tr-de/saetze/oa_21_fp.mp3?v=764e8ce6",
+  "audio/tr-de/saetze/oa_21_pc.mp3?v=e601030e",
+  "audio/tr-de/saetze/oa_22.mp3?v=a8b54d9d",
+  "audio/tr-de/saetze/oa_23.mp3?v=943c5781",
+  "audio/tr-de/saetze/oa_24.mp3?v=f16b4fdc",
+  "audio/tr-de/spiel/feuer.mp3?v=366b85be",
+  "audio/tr-de/spiel/fini.mp3?v=980ba49d",
+  "audio/tr-de/spiel/monat.mp3?v=17d9db24",
+  "audio/tr-de/spiel/titel_1.mp3?v=5002d163",
+  "audio/tr-de/spiel/titel_2.mp3?v=564b5b00",
+  "audio/tr-de/spiel/titel_3.mp3?v=b3e195d8",
+  "audio/tr-de/spiel/titel_4.mp3?v=5214181f",
+  "audio/tr-de/spiel/titel_5.mp3?v=7e5eac37",
+  "audio/tr-de/spiel/titel_6.mp3?v=74a9c8dd",
+  "audio/tr-de/spiel/woche.mp3?v=1c9d00ed",
+  "audio/tr-de/wendungen/oa_01.mp3?v=c5c87e9b",
+  "audio/tr-de/wendungen/oa_02.mp3?v=077fb2bd",
+  "audio/tr-de/wendungen/oa_03.mp3?v=085068a9",
+  "audio/tr-de/wendungen/oa_04.mp3?v=9081a015",
+  "audio/tr-de/wendungen/oa_05.mp3?v=57ef28c5",
+  "audio/tr-de/wendungen/oa_06.mp3?v=6cc66e26",
+  "audio/tr-de/wendungen/oa_07.mp3?v=a54feb23",
+  "audio/tr-de/wendungen/oa_08.mp3?v=8339778d",
+  "audio/tr-de/wendungen/oa_09.mp3?v=914f430a",
+  "audio/tr-de/wendungen/oa_10.mp3?v=bdb9d1e0",
+  "audio/tr-de/wendungen/oa_11.mp3?v=508ca651",
+  "audio/tr-de/wendungen/oa_12.mp3?v=79776b87",
+  "audio/tr-de/wendungen/oa_13.mp3?v=b7658825",
+  "audio/tr-de/wendungen/oa_14.mp3?v=cfc48f72",
+  "audio/tr-de/wendungen/oa_15.mp3?v=63f93351",
+  "audio/tr-de/wendungen/oa_16.mp3?v=94a59c82",
+  "audio/tr-de/wendungen/oa_17.mp3?v=0739bcb1",
+  "audio/tr-de/wendungen/oa_18.mp3?v=61f78d9c",
+  "audio/tr-de/wendungen/oa_19.mp3?v=fa04691a",
+  "audio/tr-de/wendungen/oa_20.mp3?v=3bccf4af",
+  "audio/tr-de/wendungen/oa_21.mp3?v=6f2532eb",
+  "audio/tr-de/wendungen/oa_22.mp3?v=c9aa6c27",
+  "audio/tr-de/wendungen/oa_23.mp3?v=6d54cdb5",
+  "audio/tr-de/wendungen/oa_24.mp3?v=450c63ae"
+ ]
 };
