@@ -6335,6 +6335,1025 @@ window.SPRACHEN["tr-de"] = {
  ],
  "grammatik": [
   {
+   "id": "g_ogretmenler",
+   "thema": "ogretmenler",
+   "titel": "Ünlü uyumu ve şimdiki zaman",
+   "de": "Vokalharmonie und die -iyor-Form",
+   "regel": [
+    "Jede Endung im Türkischen hat mehrere Gesichter, und das Wort entscheidet, welches. Große Harmonie (2 Formen): nach a, ı, o, u kommt a; nach e, i, ö, ü kommt e (evde, okulda). Kleine Harmonie (4 Formen): nach a, ı kommt ı; nach e, i kommt i; nach o, u kommt u; nach ö, ü kommt ü (bitkinim, yorgunum, mutluyum, gülüyor).",
+    "Die -iyor-Form ist das Jetzt: etwas passiert gerade oder in dieser Zeit. Vor -iyor fällt ein Stammvokal weg (oku + iyor = okuyor, bekle + iyor = bekliyor), und der Verbindungsvokal folgt der kleinen Harmonie: gel-iyor, bak-ıyor, gör-üyor, oku-yor. Dahinter die Person: -um, -sun, -(er leer), -uz, -sunuz, -lar."
+   ],
+   "morphem": [
+    "PRÄS"
+   ],
+   "beispiele": [
+    {
+     "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
+     "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
+     "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+     "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
+     "hinweis": "oku + ıyor + um: u-Harmonie bis zum Ende."
+    },
+    {
+     "fr": "Öğretmenler odasında kahve yine bitiyor.",
+     "de": "Im Lehrerzimmer ist der Kaffee schon wieder fast alle.",
+     "gloss": "Öğretmen·ler oda·sı·nda kahve yine bit·iyor. | Lehrer·PL Zimmer·sein·LOK Kaffee wieder enden·PRÄS",
+     "audio": "audio/tr-de/saetze/oa_05.mp3?v=cdca761d",
+     "hinweis": "bit + iyor: nach i kommt i."
+    },
+    {
+     "fr": "Bu akşam veli toplantısı var, geç yatıyoruz.",
+     "de": "Heute Abend ist Elternabend, wir gehen spät schlafen.",
+     "gloss": "Bu akşam veli toplantı·sı var, geç yat·ıyor·uz. | dies Abend Eltern Versammlung·sein vorhanden, spät schlafen.gehen·PRÄS·1PL",
+     "audio": "audio/tr-de/saetze/oa_11.mp3?v=204bbcb4",
+     "hinweis": "yat + ıyor + uz: wir, gerade heute Abend."
+    },
+    {
+     "fr": "Son saatte dersi kaynatıyorlar, ben de bırakıyorum.",
+     "de": "In der letzten Stunde verbummeln sie die Stunde, und ich lasse es zu.",
+     "gloss": "Son saat·te ders·i kaynat·ıyor·lar, ben de bırak·ıyor·um. | letzt Stunde·LOK Stunde·AKK kochen.lassen·PRÄS·3PL, ich auch lassen·PRÄS·1SG",
+     "audio": "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb",
+     "hinweis": "kaynat-ıyor-lar, bırak-ıyor-um: die Personalendungen."
+    },
+    {
+     "fr": "Teneffüs beş dakika sürüyor, hissetmiyorum bile.",
+     "de": "Die Pause dauert fünf Minuten, ich merke sie nicht einmal.",
+     "gloss": "Teneffüs beş dakika sür·üyor, hisset·mi·yor·um bile. | Pause fünf Minute dauern·PRÄS, fühlen·NEG·PRÄS·1SG sogar",
+     "audio": "audio/tr-de/saetze/oa_16.mp3?v=492dddda",
+     "hinweis": "sür-üyor nach ü, hisset-mi-yor-um: Verneinung -mi- vor -yor."
+    },
+    {
+     "fr": "Hafta sonuna ödev vermiyorum, bayram ediyorlar.",
+     "de": "Übers Wochenende gebe ich nichts auf, sie sind selig.",
+     "gloss": "Hafta son·u·na ödev ver·mi·yor·um, bayram ed·iyor·lar. | Woche Ende·sein·DAT Aufgabe geben·NEG·PRÄS·1SG, Fest machen·PRÄS·3PL",
+     "audio": "audio/tr-de/saetze/oa_08.mp3?v=950c9561",
+     "hinweis": "ver-mi-yor-um, ed-iyor-lar: verneint und bejaht im selben Satz."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "geliyor",
+     "b": "gelir",
+     "text": "er kommt gerade (Jetzt) – er kommt immer (Aorist, Thema 6)"
+    },
+    {
+     "a": "bakıyor",
+     "b": "görüyor",
+     "text": "a → ı, aber ö → ü: kleine Harmonie"
+    },
+    {
+     "a": "evde",
+     "b": "okulda",
+     "text": "e → e, u → a: große Harmonie"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "oku + PRÄS + 1SG",
+     "antworten": [
+      "okuyorum",
+      "okıyorum",
+      "okuyurum"
+     ]
+    },
+    {
+     "formel": "gel + PRÄS",
+     "antworten": [
+      "geliyor",
+      "gelıyor",
+      "geluyor"
+     ]
+    },
+    {
+     "formel": "gör + PRÄS + 1PL",
+     "antworten": [
+      "görüyoruz",
+      "görıyoruz",
+      "görüyorum"
+     ]
+    },
+    {
+     "formel": "yap + NEG + PRÄS + 1SG",
+     "antworten": [
+      "yapmıyorum",
+      "yapmiyorum",
+      "yapmuyorum"
+     ]
+    },
+    {
+     "formel": "bak + PRÄS + 3PL",
+     "antworten": [
+      "bakıyorlar",
+      "bakıyoruz",
+      "bakıyor"
+     ]
+    },
+    {
+     "formel": "iç + PRÄS + 2SG",
+     "antworten": [
+      "içiyorsun",
+      "içıyorsun",
+      "içiyorsunuz"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz beschreibt, was gerade passiert (-iyor)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
+       "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
+       "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+       "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892"
+      },
+      {
+       "fr": "Kâğıtlardan sonra moralim bozuk.",
+       "de": "Nach den Arbeiten bin ich niedergeschlagen.",
+       "gloss": "Kâğıt·lar·dan sonra moral·im bozuk. | Blatt·PL·ABL nach Stimmung·mein kaputt",
+       "audio": "audio/tr-de/saetze/du_03.mp3?v=5260be74"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Usta az konuşur, çok gösterir.",
+       "de": "Der Meister spricht wenig, zeigt viel.",
+       "gloss": "Usta az konuş·ur, çok göster·ir. | Meister wenig sprechen·AOR, viel zeigen·AOR",
+       "audio": "audio/tr-de/saetze/sp_05.mp3?v=d6443ff5"
+      },
+      {
+       "fr": "Öğretmenler odasında kahve yine bitiyor.",
+       "de": "Im Lehrerzimmer ist der Kaffee schon wieder fast alle.",
+       "gloss": "Öğretmen·ler oda·sı·nda kahve yine bit·iyor. | Lehrer·PL Zimmer·sein·LOK Kaffee wieder enden·PRÄS",
+       "audio": "audio/tr-de/saetze/oa_05.mp3?v=cdca761d"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Büyücü büyü yaptı, sınıf sessizleşti.",
+       "de": "Der Zauberer zauberte, die Klasse wurde still.",
+       "gloss": "Büyü·cü büyü yap·tı, sınıf sessiz·leş·ti. | Zauber·Täter Zauber machen·VERG, Klasse still·werden·VERG",
+       "audio": "audio/tr-de/saetze/hi_05.mp3?v=1fab786e"
+      },
+      {
+       "fr": "Bugün sözlü yapıyorum, herkes birden sessizleşiyor.",
+       "de": "Heute frage ich mündlich ab, alle werden plötzlich still.",
+       "gloss": "Bugün sözlü yap·ıyor·um, herkes birden sessiz·leş·iyor. | heute mündlich machen·PRÄS·1SG, jeder plötzlich still·werden·PRÄS",
+       "audio": "audio/tr-de/saetze/oa_18.mp3?v=d581c190"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Teneffüs beş dakika sürüyor, hissetmiyorum bile.",
+       "de": "Die Pause dauert fünf Minuten, ich merke sie nicht einmal.",
+       "gloss": "Teneffüs beş dakika sür·üyor, hisset·mi·yor·um bile. | Pause fünf Minute dauern·PRÄS, fühlen·NEG·PRÄS·1SG sogar",
+       "audio": "audio/tr-de/saetze/oa_16.mp3?v=492dddda"
+      },
+      {
+       "fr": "Aynı bahaneden bıktım.",
+       "de": "Ich habe dieselbe Ausrede satt.",
+       "gloss": "Aynı bahane·den bık·tı·m. | derselbe Ausrede·ABL satthaben·VERG·1SG",
+       "audio": "audio/tr-de/saetze/du_16.mp3?v=7d616161"
+      }
+     ],
+     "richtig": 0
+    }
+   ]
+  },
+  {
+   "id": "g_duygular",
+   "thema": "duygular",
+   "titel": "Fiilsiz cümle ve kişi ekleri",
+   "de": "Der Satz ohne Verb und die Personalendungen",
+   "regel": [
+    "Türkisch braucht kein « sein ». Ein Nomen oder Adjektiv wird zum Satz, indem es die Personalendung bekommt: yorgun-um = ich bin müde, hasta-sın = du bist krank, öğretmen-iz = wir sind Lehrer. Dritte Person: nichts (Cem yorgun = Cem ist müde). Nach Vokal schiebt sich ein y ein: hasta-y-ım, iyi-y-im.",
+    "Die Verneinung ist değil mit der Endung: yorgun değilim. « Es gibt » und « es gibt nicht » heißen var und yok, auch für « haben »: uykum var = mein Schlaf ist vorhanden = ich bin müde. Die Vergangenheit hängt man an das Adjektiv: yorgun-du-m = ich war müde."
+   ],
+   "morphem": [
+    "1SG",
+    "2SG",
+    "1PL",
+    "2PL"
+   ],
+   "beispiele": [
+    {
+     "fr": "Altı saat dersten sonra bitkinim.",
+     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
+     "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
+     "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92",
+     "hinweis": "bitkin + im: ich bin erschöpft, kein Verb nötig."
+    },
+    {
+     "fr": "İlk dersten önce hâlâ heyecanlıyım.",
+     "de": "Vor der ersten Stunde bin ich immer noch aufgeregt.",
+     "gloss": "İlk ders·ten önce hâlâ heyecan·lı·yım. | erst Stunde·ABL vor immer.noch Aufregung·mit·1SG",
+     "audio": "audio/tr-de/saetze/du_10.mp3?v=4ce5b771",
+     "hinweis": "heyecanlı + y + ım: y nach Vokal."
+    },
+    {
+     "fr": "Veli toplantısından önce gerginim.",
+     "de": "Vor dem Elternabend bin ich angespannt.",
+     "gloss": "Veli toplantı·sı·ndan önce gergin·im. | Eltern Versammlung·sein·ABL vor angespannt·1SG",
+     "audio": "audio/tr-de/saetze/du_11.mp3?v=1640a516",
+     "hinweis": "gergin + im: Adjektiv mit Personalendung."
+    },
+    {
+     "fr": "Kâğıtlardan sonra moralim bozuk.",
+     "de": "Nach den Arbeiten bin ich niedergeschlagen.",
+     "gloss": "Kâğıt·lar·dan sonra moral·im bozuk. | Blatt·PL·ABL nach Stimmung·mein kaputt",
+     "audio": "audio/tr-de/saetze/du_03.mp3?v=5260be74",
+     "hinweis": "moral-im bozuk: dritte Person, keine Endung."
+    },
+    {
+     "fr": "Bir hafta tatil, şimdi turp gibiyim.",
+     "de": "Eine Woche Urlaub, jetzt bin ich kerngesund.",
+     "gloss": "Bir hafta tatil, şimdi turp gibi·yim. | ein Woche Urlaub, jetzt Rettich wie·1SG",
+     "audio": "audio/tr-de/saetze/ye_16.mp3?v=c0258b39",
+     "hinweis": "gibi + yim: sogar « wie » bekommt die Endung."
+    },
+    {
+     "fr": "Aslında yorgunum, ama şu anda iyiyim.",
+     "de": "Eigentlich bin ich müde, aber im Moment geht es mir gut.",
+     "gloss": "Asl·ı·nda yorgun·um, ama şu an·da iyi·yim. | Ursprung·sein·LOK müde·1SG, aber dies Moment·LOK gut·1SG",
+     "audio": "audio/tr-de/saetze/sd_11.mp3?v=9032ab39",
+     "hinweis": "yorgun-um, iyi-yim: zwei Zustände, kein Verb."
+    },
+    {
+     "fr": "Sabah sekizde hâlâ uykum var.",
+     "de": "Um acht Uhr morgens bin ich noch müde.",
+     "gloss": "Sabah sekiz·de hâlâ uyku·m var. | Morgen acht·LOK immer.noch Schlaf·mein vorhanden",
+     "audio": "audio/tr-de/saetze/du_09.mp3?v=3b2e71e0",
+     "hinweis": "uyku-m var: haben mit var."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "yorgunum",
+     "b": "yoruldum",
+     "text": "ich bin müde (Zustand, kein Verb) – ich bin müde geworden (Verb)"
+    },
+    {
+     "a": "hasta",
+     "b": "hastayım",
+     "text": "krank, er ist krank – ich bin krank"
+    },
+    {
+     "a": "var",
+     "b": "yok",
+     "text": "es gibt – es gibt nicht"
+    },
+    {
+     "a": "yorgunum",
+     "b": "yorgun değilim",
+     "text": "ich bin müde – ich bin nicht müde"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "yorgun + 1SG",
+     "antworten": [
+      "yorgunum",
+      "yorgunım",
+      "yorgunüm"
+     ]
+    },
+    {
+     "formel": "hasta + 1SG",
+     "antworten": [
+      "hastayım",
+      "hastaım",
+      "hastam"
+     ]
+    },
+    {
+     "formel": "iyi + 2SG",
+     "antworten": [
+      "iyisin",
+      "iyisın",
+      "iyin"
+     ]
+    },
+    {
+     "formel": "öğretmen + 1PL",
+     "antworten": [
+      "öğretmeniz",
+      "öğretmenuz",
+      "öğretmeniyiz"
+     ]
+    },
+    {
+     "formel": "mutlu + 1SG",
+     "antworten": [
+      "mutluyum",
+      "mutluım",
+      "mutlum"
+     ]
+    },
+    {
+     "formel": "bitkin + NEG + 1SG",
+     "antworten": [
+      "bitkin değilim",
+      "bitkinmiyim",
+      "bitkin yokum"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz hat kein Verb, nur ein Nomen oder Adjektiv mit Personalendung?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "Altı saat dersten sonra bitkinim.",
+       "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
+       "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
+       "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
+      },
+      {
+       "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
+       "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
+       "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+       "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Teftiş bitti, rahatladım.",
+       "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
+       "gloss": "Teftiş bit·ti, rahatla·dı·m. | Inspektion enden·VERG, sich.entspannen·VERG·1SG",
+       "audio": "audio/tr-de/saetze/du_12.mp3?v=40b4cf5b"
+      },
+      {
+       "fr": "Veli toplantısından önce gerginim.",
+       "de": "Vor dem Elternabend bin ich angespannt.",
+       "gloss": "Veli toplantı·sı·ndan önce gergin·im. | Eltern Versammlung·sein·ABL vor angespannt·1SG",
+       "audio": "audio/tr-de/saetze/du_11.mp3?v=1640a516"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Aslında yorgunum, ama şu anda iyiyim.",
+       "de": "Eigentlich bin ich müde, aber im Moment geht es mir gut.",
+       "gloss": "Asl·ı·nda yorgun·um, ama şu an·da iyi·yim. | Ursprung·sein·LOK müde·1SG, aber dies Moment·LOK gut·1SG",
+       "audio": "audio/tr-de/saetze/sd_11.mp3?v=9032ab39"
+      },
+      {
+       "fr": "Aynı bahaneden bıktım.",
+       "de": "Ich habe dieselbe Ausrede satt.",
+       "gloss": "Aynı bahane·den bık·tı·m. | derselbe Ausrede·ABL satthaben·VERG·1SG",
+       "audio": "audio/tr-de/saetze/du_16.mp3?v=7d616161"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Bir hafta tatil, şimdi turp gibiyim.",
+       "de": "Eine Woche Urlaub, jetzt bin ich kerngesund.",
+       "gloss": "Bir hafta tatil, şimdi turp gibi·yim. | ein Woche Urlaub, jetzt Rettich wie·1SG",
+       "audio": "audio/tr-de/saetze/ye_16.mp3?v=c0258b39"
+      },
+      {
+       "fr": "Cuma gecesi deliksiz uyudum, kedi bile sesimi duymadı.",
+       "de": "Freitagnacht habe ich durchgeschlafen, nicht einmal die Katze hat mich gehört.",
+       "gloss": "Cuma gece·si delik·siz uyu·du·m, kedi bile ses·im·i duy·ma·dı. | Freitag Nacht·sein Loch·ohne schlafen·VERG·1SG, Katze sogar Stimme·mein·AKK hören·NEG·VERG",
+       "audio": "audio/tr-de/saetze/ye_15.mp3?v=ea5c1f32"
+      }
+     ],
+     "richtig": 0
+    }
+   ]
+  },
+  {
+   "id": "g_kediler",
+   "thema": "kediler",
+   "titel": "Hâl ekleri ve iyelik zinciri",
+   "de": "Die Fälle und die Besitzkette",
+   "regel": [
+    "Sechs Fälle, alle als Endung: Nominativ (kedi), Akkusativ -i/-yi nur für bestimmte Objekte (kediyi = die Katze; kedi gördüm = ich sah eine Katze, ohne Endung), Dativ -e/-ye = zu, nach, für (eve, okula), Lokativ -de = in, an, auf, bei (evde, kedide), Ablativ -den = aus, von (okuldan), Genitiv -in/-nin = des (kedinin).",
+    "Besitz ist eine Kette: der Besitzer bekommt den Genitiv, der Besitz das Possessiv: okul-un kedi-si = die Katze der Schule. Ohne Genitiv ist es eine Gattung: okul kedisi = Schulkatze. Nach dem Possessiv der 3. Person schiebt sich vor jede Fallendung ein n: kedi-si-ni, oda-sı-nda. Konsonanten weichen: kitap → kitabı, kucak → kucağım."
+   ],
+   "morphem": [
+    "AKK",
+    "DAT",
+    "LOK",
+    "ABL",
+    "GEN"
+   ],
+   "beispiele": [
+    {
+     "fr": "Patisiyle kalemimi masadan düşürüyor.",
+     "de": "Mit der Pfote schubst sie meinen Stift vom Tisch.",
+     "gloss": "Pati·si·yle kalem·im·i masa·dan düşür·üyor. | Pfote·sein·MIT Stift·mein·AKK Tisch·ABL fallen.lassen·PRÄS",
+     "audio": "audio/tr-de/saetze/ke_07.mp3?v=a3851baf",
+     "hinweis": "MIT, AKK, ABL in einem Satz: mit der Pfote, meinen Stift, vom Tisch."
+    },
+    {
+     "fr": "İstanbul'da her mahallenin kedisi var.",
+     "de": "In Istanbul hat jedes Viertel seine Katze.",
+     "gloss": "İstanbul·'da her mahalle·nin kedi·si var. | Istanbul·LOK jedes Viertel·GEN Katze·sein vorhanden",
+     "audio": "audio/tr-de/saetze/ke_12.mp3?v=802c404b",
+     "hinweis": "mahalle-nin kedi-si: Genitiv plus Possessiv."
+    },
+    {
+     "fr": "Kedi kumu bitti, markete gidiyorum.",
+     "de": "Die Streu ist alle, ich gehe in den Laden.",
+     "gloss": "Kedi kum·u bit·ti, market·e gid·iyor·um. | Katze Sand·sein enden·VERG, Laden·DAT gehen·PRÄS·1SG",
+     "audio": "audio/tr-de/saetze/ke_05.mp3?v=25553dda",
+     "hinweis": "market-e: Dativ als Richtung."
+    },
+    {
+     "fr": "Okulun kedisini öğrenciler sahiplendi.",
+     "de": "Die Schulkatze haben die Schüler adoptiert.",
+     "gloss": "Okul·un kedi·si·ni öğrenci·ler sahip·len·di. | Schule·GEN Katze·sein·AKK Schüler·PL Besitzer·werden·VERG",
+     "audio": "audio/tr-de/saetze/ke_20.mp3?v=0a67dc6e",
+     "hinweis": "okul-un kedi-si-ni: Kette plus Akkusativ mit n."
+    },
+    {
+     "fr": "Hikâyenin sonunu kedi biliyor, söylemiyor.",
+     "de": "Das Ende der Geschichte kennt die Katze, sie sagt es nicht.",
+     "gloss": "Hikâye·nin son·u·nu kedi bil·iyor, söyle·mi·yor. | Geschichte·GEN Ende·sein·AKK Katze wissen·PRÄS, sagen·NEG·PRÄS",
+     "audio": "audio/tr-de/saetze/hi_21.mp3?v=c873381d",
+     "hinweis": "hikâye-nin son-u-nu: dieselbe Kette."
+    },
+    {
+     "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
+     "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
+     "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+     "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
+     "hinweis": "sınıf-ın kâğıt-lar-ı-nı: Genitiv, Plural, Possessiv, Akkusativ."
+    },
+    {
+     "fr": "Sabah beşte kapıda miyavlıyor.",
+     "de": "Um fünf Uhr morgens miaut sie an der Tür.",
+     "gloss": "Sabah beş·te kapı·da miyavl·ıyor. | Morgen fünf·LOK Tür·LOK miauen·PRÄS",
+     "audio": "audio/tr-de/saetze/ke_03.mp3?v=d4a84bc0",
+     "hinweis": "kapı-da, beş-te: Lokativ für Ort und Uhrzeit."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "kedi gördüm",
+     "b": "kediyi gördüm",
+     "text": "ich sah eine Katze – ich sah die Katze (Akkusativ nur bestimmt)"
+    },
+    {
+     "a": "evde",
+     "b": "eve",
+     "text": "im Haus – nach Hause (Lokativ – Dativ)"
+    },
+    {
+     "a": "okulun kedisi",
+     "b": "okul kedisi",
+     "text": "die Katze der Schule – eine Schulkatze (mit und ohne Genitiv)"
+    },
+    {
+     "a": "kitap",
+     "b": "kitabı",
+     "text": "Buch – das Buch (p → b vor Vokal)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "ev + LOK",
+     "antworten": [
+      "evde",
+      "evda",
+      "evte"
+     ]
+    },
+    {
+     "formel": "okul + DAT",
+     "antworten": [
+      "okula",
+      "okule",
+      "okulda"
+     ]
+    },
+    {
+     "formel": "kedi + AKK",
+     "antworten": [
+      "kediyi",
+      "kedii",
+      "kedide"
+     ]
+    },
+    {
+     "formel": "sınıf + ABL",
+     "antworten": [
+      "sınıftan",
+      "sınıfdan",
+      "sınıfta"
+     ]
+    },
+    {
+     "formel": "okul + GEN + kedi + sein",
+     "antworten": [
+      "okulun kedisi",
+      "okul kedi",
+      "okulun kedi"
+     ]
+    },
+    {
+     "formel": "kitap + AKK",
+     "antworten": [
+      "kitabı",
+      "kitapı",
+      "kitaba"
+     ]
+    }
+   ],
+   "hoeren_frage": "In welchem Satz steht eine Besitzkette: Genitiv (-in) plus Possessiv (-i)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "İstanbul'da her mahallenin kedisi var.",
+       "de": "In Istanbul hat jedes Viertel seine Katze.",
+       "gloss": "İstanbul·'da her mahalle·nin kedi·si var. | Istanbul·LOK jedes Viertel·GEN Katze·sein vorhanden",
+       "audio": "audio/tr-de/saetze/ke_12.mp3?v=802c404b"
+      },
+      {
+       "fr": "Güneşte bütün gün uyukluyor.",
+       "de": "In der Sonne döst sie den ganzen Tag.",
+       "gloss": "Güneş·te bütün gün uyukl·uyor. | Sonne·LOK ganz Tag dösen·PRÄS",
+       "audio": "audio/tr-de/saetze/ke_09.mp3?v=44b0f5cb"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Okulun kedisini öğrenciler sahiplendi.",
+       "de": "Die Schulkatze haben die Schüler adoptiert.",
+       "gloss": "Okul·un kedi·si·ni öğrenci·ler sahip·len·di. | Schule·GEN Katze·sein·AKK Schüler·PL Besitzer·werden·VERG",
+       "audio": "audio/tr-de/saetze/ke_20.mp3?v=0a67dc6e"
+      },
+      {
+       "fr": "Koltuğu yine tırmaladı.",
+       "de": "Sie hat wieder das Sofa zerkratzt.",
+       "gloss": "Koltuğ·u yine tırmala·dı. | Sofa·AKK wieder kratzen·VERG",
+       "audio": "audio/tr-de/saetze/ke_04.mp3?v=3c3ad8a0"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Kalenin kapısı kapalı, anahtar kedide.",
+       "de": "Das Burgtor ist zu, der Schlüssel ist bei der Katze.",
+       "gloss": "Kale·nin kapı·sı kapalı, anahtar kedi·de. | Burg·GEN Tor·sein geschlossen, Schlüssel Katze·LOK",
+       "audio": "audio/tr-de/saetze/hi_11.mp3?v=b0f7920b"
+      },
+      {
+       "fr": "Tılsım bozuldu, prens yine kurbağa.",
+       "de": "Der Bann ist gebrochen, der Prinz ist wieder ein Frosch.",
+       "gloss": "Tılsım bozul·du, prens yine kurbağa. | Zauberbann kaputtgehen·VERG, Prinz wieder Frosch",
+       "audio": "audio/tr-de/saetze/hi_14.mp3?v=a691da49"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Sabah beşte kapıda miyavlıyor.",
+       "de": "Um fünf Uhr morgens miaut sie an der Tür.",
+       "gloss": "Sabah beş·te kapı·da miyavl·ıyor. | Morgen fünf·LOK Tür·LOK miauen·PRÄS",
+       "audio": "audio/tr-de/saetze/ke_03.mp3?v=d4a84bc0"
+      },
+      {
+       "fr": "Hikâyenin sonunu kedi biliyor, söylemiyor.",
+       "de": "Das Ende der Geschichte kennt die Katze, sie sagt es nicht.",
+       "gloss": "Hikâye·nin son·u·nu kedi bil·iyor, söyle·mi·yor. | Geschichte·GEN Ende·sein·AKK Katze wissen·PRÄS, sagen·NEG·PRÄS",
+       "audio": "audio/tr-de/saetze/hi_21.mp3?v=c873381d"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
+  },
+  {
+   "id": "g_muzik",
+   "thema": "muzik",
+   "titel": "Geçmiş zaman -di ve gelecek zaman -ecek",
+   "de": "Vergangenheit -di und Zukunft -ecek",
+   "regel": [
+    "Die -di-Vergangenheit ist die Vergangenheit, die man selbst erlebt hat: gel-di = er kam, ist gekommen. Nach stimmlosen Konsonanten (ç, f, h, k, p, s, ş, t) wird d zu t: git-ti, yap-tı, bak-tı. Dann die Person: -m, -n, -, -k, -niz, -ler: geldim, geldin, geldi, geldik, geldiniz, geldiler. Die Verneinung -me- kommt davor: gel-me-di-m.",
+    "Die Zukunft -ecek/-acak ist fest und geplant: gel-ecek = er wird kommen. Vor Vokal wird k zu ğ: gel-eceğ-im, gel-eceğ-iz. Nach Vokalstamm schiebt sich y ein: oku-y-acağ-ım. Die Zeitmaschine in jedem Thema zeigt beide Formen zum selben Satz."
+   ],
+   "morphem": [
+    "VERG",
+    "FUT"
+   ],
+   "beispiele": [
+    {
+     "fr": "Sözleri ezberledim, melodiyi henüz değil.",
+     "de": "Den Text habe ich auswendig, die Melodie noch nicht.",
+     "gloss": "Söz·ler·i ezberle·di·m, melodi·yi henüz değil. | Wort·PL·AKK auswendig.lernen·VERG·1SG, Melodie·AKK noch nicht",
+     "audio": "audio/tr-de/saetze/mu_04.mp3?v=e278a371",
+     "hinweis": "ezberle-di-m: selbst erlebt, abgeschlossen."
+    },
+    {
+     "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
+     "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
+     "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
+     "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832",
+     "hinweis": "konuş-acağ-ım, ver-di: Zukunft und Vergangenheit im selben Satz."
+    },
+    {
+     "fr": "Nakaratta detone oldum, kimse fark etmedi.",
+     "de": "Im Refrain habe ich falsch gesungen, keiner hat es gemerkt.",
+     "gloss": "Nakarat·ta detone ol·du·m, kimse fark et·me·di. | Refrain·LOK unrein sein·VERG·1SG, niemand Unterschied machen·NEG·VERG",
+     "audio": "audio/tr-de/saetze/mu_12.mp3?v=c5a6d25e",
+     "hinweis": "ol-du-m, et-me-di: verneinte Vergangenheit."
+    },
+    {
+     "fr": "Bugün kazandık, yarın göreceğiz.",
+     "de": "Heute haben wir gewonnen, morgen werden wir sehen.",
+     "gloss": "Bugün kazan·dı·k, yarın gör·eceğ·iz. | heute gewinnen·VERG·1PL, morgen sehen·FUT·1PL",
+     "audio": "audio/tr-de/saetze/sp_16.mp3?v=94e109df",
+     "hinweis": "kazan-dı-k, gör-eceğ-iz: wir, gestern und morgen."
+    },
+    {
+     "fr": "Adını unuttum, çok utandım.",
+     "de": "Ich habe seinen Namen vergessen, ich habe mich sehr geschämt.",
+     "gloss": "Ad·ı·nı unut·tu·m, çok utan·dı·m. | Name·sein·AKK vergessen·VERG·1SG, sehr sich.schämen·VERG·1SG",
+     "audio": "audio/tr-de/saetze/du_18.mp3?v=b5c4da55",
+     "hinweis": "unut-tu-m: d wird t nach t."
+    },
+    {
+     "fr": "Yedi cüce madene gitti, biri geç kaldı.",
+     "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
+     "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
+     "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd",
+     "hinweis": "git-ti, kal-dı: einmal t, einmal d."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "geldi",
+     "b": "gelecek",
+     "text": "er ist gekommen – er wird kommen"
+    },
+    {
+     "a": "yaptım",
+     "b": "yapacağım",
+     "text": "ich habe gemacht – ich werde machen"
+    },
+    {
+     "a": "gitti",
+     "b": "gitmedi",
+     "text": "er ging – er ging nicht"
+    },
+    {
+     "a": "geldi",
+     "b": "gelmiş",
+     "text": "er kam (selbst gesehen) – er soll gekommen sein (Thema 5)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "gel + VERG + 1SG",
+     "antworten": [
+      "geldim",
+      "geltim",
+      "gelidim"
+     ]
+    },
+    {
+     "formel": "git + VERG",
+     "antworten": [
+      "gitti",
+      "gitdi",
+      "gidti"
+     ]
+    },
+    {
+     "formel": "oku + FUT + 1SG",
+     "antworten": [
+      "okuyacağım",
+      "okuacağım",
+      "okuyacakım"
+     ]
+    },
+    {
+     "formel": "gel + FUT + 1PL",
+     "antworten": [
+      "geleceğiz",
+      "gelecekiz",
+      "geleceğim"
+     ]
+    },
+    {
+     "formel": "yap + NEG + VERG + 1PL",
+     "antworten": [
+      "yapmadık",
+      "yapmadım",
+      "yapmayacağız"
+     ]
+    },
+    {
+     "formel": "kazan + FUT",
+     "antworten": [
+      "kazanacak",
+      "kazanecek",
+      "kazandı"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz spricht über die Zukunft (-ecek)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
+       "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
+       "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
+       "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832"
+      },
+      {
+       "fr": "Sözleri ezberledim, melodiyi henüz değil.",
+       "de": "Den Text habe ich auswendig, die Melodie noch nicht.",
+       "gloss": "Söz·ler·i ezberle·di·m, melodi·yi henüz değil. | Wort·PL·AKK auswendig.lernen·VERG·1SG, Melodie·AKK noch nicht",
+       "audio": "audio/tr-de/saetze/mu_04.mp3?v=e278a371"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Bugün kazandık, yarın göreceğiz.",
+       "de": "Heute haben wir gewonnen, morgen werden wir sehen.",
+       "gloss": "Bugün kazan·dı·k, yarın gör·eceğ·iz. | heute gewinnen·VERG·1PL, morgen sehen·FUT·1PL",
+       "audio": "audio/tr-de/saetze/sp_16.mp3?v=94e109df"
+      },
+      {
+       "fr": "Kaybettik ama iyi oynadık.",
+       "de": "Wir haben verloren, aber gut gespielt.",
+       "gloss": "Kaybet·ti·k ama iyi oyna·dı·k. | verlieren·VERG·1PL aber gut spielen·VERG·1PL",
+       "audio": "audio/tr-de/saetze/sp_17.mp3?v=64b153f3"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Notları girdim, içim rahat.",
+       "de": "Die Noten sind eingetragen, ich bin beruhigt.",
+       "gloss": "Not·lar·ı gir·di·m, iç·im rahat. | Note·PL·AKK eintragen·VERG·1SG, Inneres·mein ruhig",
+       "audio": "audio/tr-de/saetze/du_05.mp3?v=6b812357"
+      },
+      {
+       "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
+       "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
+       "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
+       "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Sabırlı ol, ayakkabıyı kendisi bağlayacak.",
+       "de": "Hab Geduld, er wird den Schuh selbst binden.",
+       "gloss": "Sabır·lı ol, ayakkabı·yı kendi·si bağla·yacak. | Geduld·mit sei, Schuh·AKK selbst·sein binden·FUT",
+       "audio": "audio/tr-de/saetze/co_18.mp3?v=ff389f39"
+      },
+      {
+       "fr": "Yedi cüce madene gitti, biri geç kaldı.",
+       "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
+       "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
+       "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd"
+      }
+     ],
+     "richtig": 0
+    }
+   ]
+  },
+  {
+   "id": "g_hikayeler",
+   "thema": "hikayeler",
+   "titel": "-miş ve ortaçlar",
+   "de": "Hörensagen -miş und die Partizipien",
+   "regel": [
+    "-miş ist die zweite Vergangenheit: nicht selbst gesehen, sondern gehört, erschlossen, erzählt. Gelmiş = er soll gekommen sein, ich habe es nicht gesehen. Jedes Märchen steht in -miş, und die Überraschung auch: ödevi yapmış! = er hat (tatsächlich!) die Hausaufgabe gemacht. Vier Formen nach der kleinen Harmonie: -mış, -miş, -muş, -müş.",
+    "Partizipien ersetzen Nebensätze. -an/-en macht aus dem Verb den Täter: anlat-an = der, der erzählt; dinle-y-en = der, der zuhört. -dik mit Possessiv macht aus dem Verb das Geschehen: iç-tiğ-im = dass ich trank, was ich trank; dann folgt die Fallendung: içtiğimi gördüm. So baut Türkisch alles, was im Deutschen « dass », « der », « ob » braucht."
+   ],
+   "morphem": [
+    "ERZ",
+    "DER",
+    "DASS"
+   ],
+   "beispiele": [
+    {
+     "fr": "Bir varmış bir yokmuş, Boğaz'da bir kedi varmış.",
+     "de": "Es war einmal eine Katze am Bosporus.",
+     "gloss": "Bir var·mış bir yok·muş, Boğaz·'da bir kedi var·mış. | ein vorhanden·ERZ ein nicht.da·ERZ, Bosporus·LOK ein Katze vorhanden·ERZ",
+     "audio": "audio/tr-de/saetze/hi_01.mp3?v=a39a3b16",
+     "hinweis": "var-mış, yok-muş: der Märchenanfang."
+    },
+    {
+     "fr": "Gökten üç elma düşmüş: biri anlatana, biri dinleyene, biri kediye.",
+     "de": "Drei Äpfel fielen vom Himmel: einer für den Erzähler, einer für den Zuhörer, einer für die Katze.",
+     "gloss": "Gök·ten üç elma düş·müş: biri anlat·an·a, biri dinle·yen·e, biri kedi·ye. | Himmel·ABL drei Apfel fallen·ERZ: einer erzählen·DER·DAT, einer hören·DER·DAT, einer Katze·DAT",
+     "audio": "audio/tr-de/saetze/hi_22.mp3?v=bbf67462",
+     "hinweis": "düş-müş, anlat-an-a, dinle-yen-e: Hörensagen und zwei Partizipien."
+    },
+    {
+     "fr": "Hepsi ödevi yapmış, şaşırdım.",
+     "de": "Alle hatten die Hausaufgabe gemacht, ich war überrascht.",
+     "gloss": "Hep·si ödev·i yap·mış, şaşır·dı·m. | all·davon Aufgabe·AKK machen·ERZ, sich.wundern·VERG·1SG",
+     "audio": "audio/tr-de/saetze/du_19.mp3?v=fffcdd76",
+     "hinweis": "yap-mış: Überraschung, das habe ich nicht erwartet."
+    },
+    {
+     "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
+     "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
+     "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
+     "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af",
+     "hinweis": "er-miş: die Schlussformel."
+    },
+    {
+     "fr": "Dün gece ejderhayla çay içtiğimi düş gördüm.",
+     "de": "Letzte Nacht träumte ich, ich hätte mit dem Drachen Tee getrunken.",
+     "gloss": "Dün gece ejderha·yla çay iç·tiğ·im·i düş gör·dü·m. | gestern Nacht Drache·MIT Tee trinken·DASS·mein·AKK Traum sehen·VERG·1SG",
+     "audio": "audio/tr-de/saetze/hi_20.mp3?v=e890cd32",
+     "hinweis": "iç-tiğ-im-i: dass ich trank, als Objekt."
+    },
+    {
+     "fr": "Nasreddin Hoca göle maya çaldı: ya tutarsa!",
+     "de": "Nasreddin Hodscha gab Hefe in den See: Und wenn es klappt!",
+     "gloss": "Nasreddin Hoca göl·e maya çal·dı: ya tut·ar·sa! | Nasreddin Lehrer See·DAT Hefe mischen·VERG: und.wenn halten·AOR·KOND",
+     "audio": "audio/tr-de/saetze/hi_17.mp3?v=c6a08a2b",
+     "hinweis": "ya tut-ar-sa: Nasreddin Hoca, im Aorist mit -sa (wenn)."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "gitti",
+     "b": "gitmiş",
+     "text": "er ging (gesehen) – er soll gegangen sein (gehört)"
+    },
+    {
+     "a": "anlatan",
+     "b": "anlattığı",
+     "text": "der, der erzählt – das, was er erzählt"
+    },
+    {
+     "a": "vardı",
+     "b": "varmış",
+     "text": "es gab (ich weiß es) – es gab einmal (Märchen)"
+    },
+    {
+     "a": "yapmış",
+     "b": "yapmıştı",
+     "text": "er hat wohl gemacht – er hatte gemacht (Plusquamperfekt)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "gel + ERZ",
+     "antworten": [
+      "gelmiş",
+      "geldi",
+      "gelmış"
+     ]
+    },
+    {
+     "formel": "git + ERZ",
+     "antworten": [
+      "gitmiş",
+      "gitmış",
+      "gitti"
+     ]
+    },
+    {
+     "formel": "oku + ERZ + 3PL",
+     "antworten": [
+      "okumuşlar",
+      "okumışlar",
+      "okudular"
+     ]
+    },
+    {
+     "formel": "anlat + DER",
+     "antworten": [
+      "anlatan",
+      "anlatın",
+      "anlatmış"
+     ]
+    },
+    {
+     "formel": "dinle + DER",
+     "antworten": [
+      "dinleyen",
+      "dinlen",
+      "dinleyan"
+     ]
+    },
+    {
+     "formel": "var + ERZ",
+     "antworten": [
+      "varmış",
+      "vardı",
+      "varmuş"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz ist erzählt oder vom Hörensagen (-miş)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "Bir varmış bir yokmuş, Boğaz'da bir kedi varmış.",
+       "de": "Es war einmal eine Katze am Bosporus.",
+       "gloss": "Bir var·mış bir yok·muş, Boğaz·'da bir kedi var·mış. | ein vorhanden·ERZ ein nicht.da·ERZ, Bosporus·LOK ein Katze vorhanden·ERZ",
+       "audio": "audio/tr-de/saetze/hi_01.mp3?v=a39a3b16"
+      },
+      {
+       "fr": "Ejderha uyuyor, hazine bekliyor.",
+       "de": "Der Drache schläft, der Schatz wartet.",
+       "gloss": "Ejderha uy·uyor, hazine bekl·iyor. | Drache schlafen·PRÄS, Schatz warten·PRÄS",
+       "audio": "audio/tr-de/saetze/hi_03.mp3?v=1e7cb7f6"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Hepsi ödevi yapmış, şaşırdım.",
+       "de": "Alle hatten die Hausaufgabe gemacht, ich war überrascht.",
+       "gloss": "Hep·si ödev·i yap·mış, şaşır·dı·m. | all·davon Aufgabe·AKK machen·ERZ, sich.wundern·VERG·1SG",
+       "audio": "audio/tr-de/saetze/du_19.mp3?v=fffcdd76"
+      },
+      {
+       "fr": "Adını unuttum, çok utandım.",
+       "de": "Ich habe seinen Namen vergessen, ich habe mich sehr geschämt.",
+       "gloss": "Ad·ı·nı unut·tu·m, çok utan·dı·m. | Name·sein·AKK vergessen·VERG·1SG, sehr sich.schämen·VERG·1SG",
+       "audio": "audio/tr-de/saetze/du_18.mp3?v=b5c4da55"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Yedi cüce madene gitti, biri geç kaldı.",
+       "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
+       "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
+       "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd"
+      },
+      {
+       "fr": "Gökten üç elma düşmüş: biri anlatana, biri dinleyene, biri kediye.",
+       "de": "Drei Äpfel fielen vom Himmel: einer für den Erzähler, einer für den Zuhörer, einer für die Katze.",
+       "gloss": "Gök·ten üç elma düş·müş: biri anlat·an·a, biri dinle·yen·e, biri kedi·ye. | Himmel·ABL drei Apfel fallen·ERZ: einer erzählen·DER·DAT, einer hören·DER·DAT, einer Katze·DAT",
+       "audio": "audio/tr-de/saetze/hi_22.mp3?v=bbf67462"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Keloğlan tembeldi ama kurnazdı, sonunda padişah oldu.",
+       "de": "Keloğlan war faul, aber schlau, am Ende wurde er Padischah.",
+       "gloss": "Kel·oğlan tembel·di ama kurnaz·dı, son·u·nda padişah ol·du. | kahl·Junge faul·VERG aber schlau·VERG, Ende·sein·LOK Padischah werden·VERG",
+       "audio": "audio/tr-de/saetze/hi_16.mp3?v=03d164dc"
+      },
+      {
+       "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
+       "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
+       "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
+       "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
+  },
+  {
    "id": "g_spor",
    "thema": "spor",
    "titel": "Geniş zaman",
@@ -6530,6 +7549,641 @@ window.SPRACHEN["tr-de"] = {
        "de": "Der Faustschlag kommt nicht aus der Schulter, sondern aus der Hüfte.",
        "gloss": "Yumruk omuz·dan değil, kalça·dan gel·ir. | Faust Schulter·ABL nicht, Hüfte·ABL kommen·AOR",
        "audio": "audio/tr-de/saetze/sp_08.mp3?v=89968656"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
+  },
+  {
+   "id": "g_yemek",
+   "thema": "yemek",
+   "titel": "-ince, -ebil, -elim ve emir",
+   "de": "Sobald, können, lasst uns und der Imperativ",
+   "regel": [
+    "Der Imperativ ist der nackte Stamm: al, ver, bak, gel. Verneint mit -me: ağlama, bakma. Höflich an Siz mit -in/-ın: alın, bakın, buyurun. Für die 3. Person gibt es -sin/-sun: olsun = es sei, kolay gelsin = es komme leicht.",
+    "Lasst uns = -elim/-alım: içelim, alalım, verelim. Können = -ebil/-abil vor dem Aorist: alabilirim = ich kann nehmen. Nicht können verliert das bil: alamam, gidemem, kıpırdayamadı. Sobald, als = -ince/-ınca: gelince = sobald er kommt, ağlayınca = als er weinte. Während = Aorist + -ken: okurken (Thema 3)."
+   ],
+   "morphem": [
+    "OPT",
+    "KANN",
+    "SOBALD",
+    "IMP3"
+   ],
+   "beispiele": [
+    {
+     "fr": "Hadi mola verelim, çay demlendi.",
+     "de": "Komm, machen wir eine Pause, der Tee ist gezogen.",
+     "gloss": "Hadi mola ver·elim, çay demlen·di. | los Pause geben·OPT.1PL, Tee ziehen·VERG",
+     "audio": "audio/tr-de/saetze/ye_14.mp3?v=6036487d",
+     "hinweis": "ver-elim: lasst uns eine Pause machen."
+    },
+    {
+     "fr": "Biraz hava alalım, sınıf fırın gibi.",
+     "de": "Lass uns etwas Luft schnappen, die Klasse ist wie ein Backofen.",
+     "gloss": "Biraz hava al·alım, sınıf fırın gibi. | etwas Luft nehmen·OPT.1PL, Klasse Ofen wie",
+     "audio": "audio/tr-de/saetze/ye_17.mp3?v=b3bc6a11",
+     "hinweis": "al-alım: lasst uns Luft schnappen."
+    },
+    {
+     "fr": "Bir simit alabilir miyim, susamlı olsun lütfen.",
+     "de": "Kann ich einen Simit haben, mit Sesam bitte.",
+     "gloss": "Bir simit al·abil·ir mi·yim, susam·lı ol·sun lütfen. | ein Simit nehmen·KANN·AOR FRAGE·1SG, Sesam·mit sein·IMP3 bitte",
+     "audio": "audio/tr-de/saetze/ye_24.mp3?v=c142f851",
+     "hinweis": "al-abil-ir mi-yim: kann ich? Die höfliche Bitte."
+    },
+    {
+     "fr": "Ağlayınca kucağıma aldım, hemen sustu.",
+     "de": "Als er weinte, nahm ich ihn auf den Arm, sofort war er still.",
+     "gloss": "Ağla·yınca kucağ·ım·a al·dı·m, hemen sus·tu. | weinen·SOBALD Schoß·mein·DAT nehmen·VERG·1SG, sofort schweigen·VERG",
+     "audio": "audio/tr-de/saetze/co_04.mp3?v=ec215cb8",
+     "hinweis": "ağla-y-ınca: als er weinte."
+    },
+    {
+     "fr": "Afiyet olsun! – Elinize sağlık!",
+     "de": "Guten Appetit! – Gesundheit Ihren Händen!",
+     "gloss": "Afiyet ol·sun! – El·iniz·e sağlık! | Wohlbefinden sein·IMP3! – Hand·Ihr·DAT Gesundheit!",
+     "audio": "audio/tr-de/saetze/ye_09.mp3?v=19c9780b",
+     "hinweis": "ol-sun: es sei, 3. Person."
+    },
+    {
+     "fr": "Kendine iyi bak, dersler kaçmaz.",
+     "de": "Pass gut auf dich auf, die Stunden laufen nicht weg.",
+     "gloss": "Kendi·ne iyi bak, ders·ler kaç·maz. | selbst·DAT gut schau, Stunde·PL weglaufen·NEG.AOR",
+     "audio": "audio/tr-de/saetze/ye_03.mp3?v=f607861e",
+     "hinweis": "bak, kaç-maz: Imperativ und Aorist."
+    },
+    {
+     "fr": "Bayramda tıka basa yedik, kimse kıpırdayamadı.",
+     "de": "Am Feiertag haben wir uns den Bauch vollgeschlagen, niemand konnte sich rühren.",
+     "gloss": "Bayram·da tıka basa ye·di·k, kimse kıpırda·ya·ma·dı. | Fest·LOK stopf drück essen·VERG·1PL, niemand sich.rühren·KANN·NEG·VERG",
+     "audio": "audio/tr-de/saetze/ye_08.mp3?v=3b897474",
+     "hinweis": "kıpırda-ya-ma-dı: konnte sich nicht rühren."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "al",
+     "b": "alalım",
+     "text": "nimm – lass uns nehmen"
+    },
+    {
+     "a": "gelince",
+     "b": "gelirken",
+     "text": "sobald er kommt – während er kommt"
+    },
+    {
+     "a": "alabilirim",
+     "b": "alamam",
+     "text": "ich kann nehmen – ich kann nicht nehmen"
+    },
+    {
+     "a": "bak",
+     "b": "bakma",
+     "text": "schau – schau nicht"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "gel + SOBALD",
+     "antworten": [
+      "gelince",
+      "gelinca",
+      "gelirken"
+     ]
+    },
+    {
+     "formel": "iç + OPT",
+     "antworten": [
+      "içelim",
+      "içalım",
+      "içeriz"
+     ]
+    },
+    {
+     "formel": "al + KANN + AOR + 1SG",
+     "antworten": [
+      "alabilirim",
+      "alabilirum",
+      "alırım"
+     ]
+    },
+    {
+     "formel": "git + KANN + NEG + AOR + 1SG",
+     "antworten": [
+      "gidemem",
+      "gitmem",
+      "gidemiyorum"
+     ]
+    },
+    {
+     "formel": "ol + IMP3",
+     "antworten": [
+      "olsun",
+      "olsın",
+      "olmalı"
+     ]
+    },
+    {
+     "formel": "bak + NEG.IMP",
+     "antworten": [
+      "bakma",
+      "bakmı",
+      "bakmaz"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz enthält einen Vorschlag « lasst uns … » (-elim / -alım)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "Hadi mola verelim, çay demlendi.",
+       "de": "Komm, machen wir eine Pause, der Tee ist gezogen.",
+       "gloss": "Hadi mola ver·elim, çay demlen·di. | los Pause geben·OPT.1PL, Tee ziehen·VERG",
+       "audio": "audio/tr-de/saetze/ye_14.mp3?v=6036487d"
+      },
+      {
+       "fr": "Cuma gecesi deliksiz uyudum, kedi bile sesimi duymadı.",
+       "de": "Freitagnacht habe ich durchgeschlafen, nicht einmal die Katze hat mich gehört.",
+       "gloss": "Cuma gece·si delik·siz uyu·du·m, kedi bile ses·im·i duy·ma·dı. | Freitag Nacht·sein Loch·ohne schlafen·VERG·1SG, Katze sogar Stimme·mein·AKK hören·NEG·VERG",
+       "audio": "audio/tr-de/saetze/ye_15.mp3?v=ea5c1f32"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Biraz hava alalım, sınıf fırın gibi.",
+       "de": "Lass uns etwas Luft schnappen, die Klasse ist wie ein Backofen.",
+       "gloss": "Biraz hava al·alım, sınıf fırın gibi. | etwas Luft nehmen·OPT.1PL, Klasse Ofen wie",
+       "audio": "audio/tr-de/saetze/ye_17.mp3?v=b3bc6a11"
+      },
+      {
+       "fr": "Annemin tarifi: az tuz, çok sabır.",
+       "de": "Das Rezept meiner Mutter: wenig Salz, viel Geduld.",
+       "gloss": "Anne·m·in tarif·i: az tuz, çok sabır. | Mutter·mein·GEN Rezept·sein: wenig Salz, viel Geduld",
+       "audio": "audio/tr-de/saetze/ye_18.mp3?v=087cdd58"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Üçüncü saatte boşluğum var, kahve içelim mi?",
+       "de": "In der dritten Stunde habe ich frei, trinken wir einen Kaffee?",
+       "gloss": "Üç·üncü saat·te boşluğ·um var, kahve iç·elim mi? | drei·ORD Stunde·LOK Lücke·mein vorhanden, Kaffee trinken·OPT.1PL FRAGE",
+       "audio": "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813"
+      },
+      {
+       "fr": "Saat dörtte toplantı var, geliyor musun?",
+       "de": "Um vier ist Konferenz, kommst du?",
+       "gloss": "Saat dört·te toplantı var, gel·iyor mu·sun? | Uhr vier·LOK Versammlung vorhanden, kommen·PRÄS FRAGE·2SG",
+       "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Köşedeki fırın sabah beşte açılıyor, ekmek sıcak.",
+       "de": "Die Bäckerei an der Ecke öffnet um fünf, das Brot ist warm.",
+       "gloss": "Köşe·de·ki fırın sabah beş·te aç·ıl·ıyor, ekmek sıcak. | Ecke·LOK·DER Ofen Morgen fünf·LOK öffnen·PASS·PRÄS, Brot heiß",
+       "audio": "audio/tr-de/saetze/ye_10.mp3?v=56b72f92"
+      },
+      {
+       "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
+       "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
+       "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
+       "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
+  },
+  {
+   "id": "g_cocuklar",
+   "thema": "cocuklar",
+   "titel": "Fiilden isim ve ünsüz değişimi",
+   "de": "Verben als Nomen und Konsonantenwechsel",
+   "regel": [
+    "Der Infinitiv -mek/-mak ist ein Nomen und bekommt Fälle: not vermek zor = Noten geben ist schwer. Die kurze Form -me/-ma trägt Possessiv und Akkusativ: yürü-me-yi öğrendi = er lernte das Gehen. Mit Dativ wird daraus ein Zweck: bak-ma-ya gitti = er ging schauen. So entstehen deutsche Nebensätze mit « zu » und « um zu ».",
+    "Konsonanten weichen vor Vokal: k wird ğ (kucak → kucağım, çocuk → çocuğunuz), p wird b (kitap → kitabı, kalp → kalbi), t wird d (dört → dördüncü, murat → muradına), ç wird c (ağaç → ağacı). Einsilbige Wörter bleiben meist hart: at → atı. Nachstellungen mit Dativ: -e kadar = bis (sabaha kadar), -e göre = gemäß; mit Ablativ: -den beri = seit, -den önce = vor, -den sonra = nach."
+   ],
+   "morphem": [
+    "INF"
+   ],
+   "beispiele": [
+    {
+     "fr": "Oğlum yürümeyi öğrendi, artık hiçbir şey güvende değil.",
+     "de": "Mein Sohn hat laufen gelernt, jetzt ist nichts mehr sicher.",
+     "gloss": "Oğl·um yürü·me·yi öğren·di, artık hiçbir şey güven·de değil. | Sohn·mein gehen·INF·AKK lernen·VERG, nunmehr kein Ding Sicherheit·LOK nicht",
+     "audio": "audio/tr-de/saetze/co_15.mp3?v=1584b814",
+     "hinweis": "yürü-me-yi öğren-di: das Gehen lernen."
+    },
+    {
+     "fr": "Komşunun bebeği doğdu, bütün apartman bakmaya gitti.",
+     "de": "Das Baby der Nachbarin ist geboren, das ganze Haus ging es ansehen.",
+     "gloss": "Komşu·nun bebeğ·i doğ·du, bütün apartman bak·ma·ya git·ti. | Nachbar·GEN Baby·sein geboren.werden·VERG, ganz Wohnhaus schauen·INF·DAT gehen·VERG",
+     "audio": "audio/tr-de/saetze/co_05.mp3?v=b0ba1a77",
+     "hinweis": "bak-ma-ya git-ti: um zu schauen."
+    },
+    {
+     "fr": "Not vermek dersten daha zor.",
+     "de": "Noten geben ist schwerer als unterrichten.",
+     "gloss": "Not ver·mek ders·ten daha zor. | Note geben·INF Unterricht·ABL mehr schwer",
+     "audio": "audio/tr-de/saetze/oa_09.mp3?v=d167a753",
+     "hinweis": "not ver-mek: Infinitiv als Subjekt."
+    },
+    {
+     "fr": "Dil öğrenmek müzik gibi, her gün biraz.",
+     "de": "Sprachen lernen ist wie Musik, jeden Tag ein bisschen.",
+     "gloss": "Dil öğren·mek müzik gibi, her gün biraz. | Sprache lernen·INF Musik wie, jeder Tag ein.bisschen",
+     "audio": "audio/tr-de/saetze/mu_16.mp3?v=dbb1e947",
+     "hinweis": "dil öğren-mek: lernen ist wie Musik."
+    },
+    {
+     "fr": "Bebek sabaha kadar uyudu, anne de babası da şaşkın.",
+     "de": "Das Baby hat bis zum Morgen geschlafen, Mutter und Vater sind verblüfft.",
+     "gloss": "Bebek sabah·a kadar uyu·du, anne de baba·sı da şaşkın. | Baby Morgen·DAT bis schlafen·VERG, Mutter auch Vater·sein auch verblüfft",
+     "audio": "audio/tr-de/saetze/co_01.mp3?v=5a0067f6",
+     "hinweis": "sabah-a kadar: bis mit Dativ."
+    },
+    {
+     "fr": "Ağlayınca kucağıma aldım, hemen sustu.",
+     "de": "Als er weinte, nahm ich ihn auf den Arm, sofort war er still.",
+     "gloss": "Ağla·yınca kucağ·ım·a al·dı·m, hemen sus·tu. | weinen·SOBALD Schoß·mein·DAT nehmen·VERG·1SG, sofort schweigen·VERG",
+     "audio": "audio/tr-de/saetze/co_04.mp3?v=ec215cb8",
+     "hinweis": "kucağ-ım-a: k wird ğ."
+    },
+    {
+     "fr": "Banyo vakti geldi, kedi kaçtı, çocuk da.",
+     "de": "Die Badezeit ist da, die Katze ist geflohen, das Kind auch.",
+     "gloss": "Banyo vakt·i gel·di, kedi kaç·tı, çocuk da. | Bad Zeit·sein kommen·VERG, Katze fliehen·VERG, Kind auch",
+     "audio": "audio/tr-de/saetze/co_23.mp3?v=9d9890e4",
+     "hinweis": "vakt-i: der Vokal fällt aus (vakit)."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "yürümek",
+     "b": "yürümeyi",
+     "text": "gehen (Infinitiv) – das Gehen (als Objekt)"
+    },
+    {
+     "a": "kucak",
+     "b": "kucağım",
+     "text": "Schoß – mein Schoß (k → ğ)"
+    },
+    {
+     "a": "kitap",
+     "b": "kitabı",
+     "text": "Buch – das Buch (p → b)"
+    },
+    {
+     "a": "sabaha kadar",
+     "b": "sabahtan beri",
+     "text": "bis zum Morgen – seit dem Morgen"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "yürü + INF + AKK",
+     "antworten": [
+      "yürümeyi",
+      "yürümeki",
+      "yürümeği"
+     ]
+    },
+    {
+     "formel": "oku + INF",
+     "antworten": [
+      "okumak",
+      "okumek",
+      "okuma"
+     ]
+    },
+    {
+     "formel": "bak + INF + DAT",
+     "antworten": [
+      "bakmaya",
+      "bakmaka",
+      "bakmağa"
+     ]
+    },
+    {
+     "formel": "kucak + mein",
+     "antworten": [
+      "kucağım",
+      "kucakım",
+      "kucağum"
+     ]
+    },
+    {
+     "formel": "kitap + AKK",
+     "antworten": [
+      "kitabı",
+      "kitapı",
+      "kitabi"
+     ]
+    },
+    {
+     "formel": "sabah + DAT + bis",
+     "antworten": [
+      "sabaha kadar",
+      "sabahtan kadar",
+      "sabah kadar"
+     ]
+    }
+   ],
+   "hoeren_frage": "In welchem Satz ist ein Verb zum Nomen geworden (-mek oder -me als Satzglied)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "Oğlum yürümeyi öğrendi, artık hiçbir şey güvende değil.",
+       "de": "Mein Sohn hat laufen gelernt, jetzt ist nichts mehr sicher.",
+       "gloss": "Oğl·um yürü·me·yi öğren·di, artık hiçbir şey güven·de değil. | Sohn·mein gehen·INF·AKK lernen·VERG, nunmehr kein Ding Sicherheit·LOK nicht",
+       "audio": "audio/tr-de/saetze/co_15.mp3?v=1584b814"
+      },
+      {
+       "fr": "Ağlama, dondurma bitmedi, buzdolabında var.",
+       "de": "Wein nicht, das Eis ist nicht alle, im Kühlschrank ist noch welches.",
+       "gloss": "Ağla·ma, dondurma bit·me·di, buzdolab·ı·nda var. | weinen·NEG.IMP, Eis enden·NEG·VERG, Kühlschrank·sein·LOK vorhanden",
+       "audio": "audio/tr-de/saetze/co_13.mp3?v=9c3633d3"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Not vermek dersten daha zor.",
+       "de": "Noten geben ist schwerer als unterrichten.",
+       "gloss": "Not ver·mek ders·ten daha zor. | Note geben·INF Unterricht·ABL mehr schwer",
+       "audio": "audio/tr-de/saetze/oa_09.mp3?v=d167a753"
+      },
+      {
+       "fr": "Bu yıl kimse sınıfta kalmıyor, umarım.",
+       "de": "Dieses Jahr bleibt hoffentlich keiner sitzen.",
+       "gloss": "Bu yıl kimse sınıf·ta kal·mı·yor, um·ar·ım. | dies Jahr niemand Klasse·LOK bleiben·NEG·PRÄS, hoffen·AOR·1SG",
+       "audio": "audio/tr-de/saetze/oa_10.mp3?v=b9341cfe"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Komşunun bebeği doğdu, bütün apartman bakmaya gitti.",
+       "de": "Das Baby der Nachbarin ist geboren, das ganze Haus ging es ansehen.",
+       "gloss": "Komşu·nun bebeğ·i doğ·du, bütün apartman bak·ma·ya git·ti. | Nachbar·GEN Baby·sein geboren.werden·VERG, ganz Wohnhaus schauen·INF·DAT gehen·VERG",
+       "audio": "audio/tr-de/saetze/co_05.mp3?v=b0ba1a77"
+      },
+      {
+       "fr": "Bebek bana gülümsedi, günüm kurtuldu.",
+       "de": "Das Baby hat mich angelächelt, mein Tag ist gerettet.",
+       "gloss": "Bebek ban·a gülümse·di, gün·üm kurt·ul·du. | Baby ich·DAT lächeln·VERG, Tag·mein retten·PASS·VERG",
+       "audio": "audio/tr-de/saetze/co_06.mp3?v=ade77ef0"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Eve gelince kızım sarılıyor, yorgunluk gidiyor.",
+       "de": "Wenn ich heimkomme, umarmt mich meine Tochter, die Müdigkeit geht weg.",
+       "gloss": "Ev·e gel·ince kız·ım sarıl·ıyor, yorgun·luk gid·iyor. | Haus·DAT kommen·SOBALD Tochter·mein umarmen·PRÄS, müde·Abstr. gehen·PRÄS",
+       "audio": "audio/tr-de/saetze/co_14.mp3?v=59e372c7"
+      },
+      {
+       "fr": "Dil öğrenmek müzik gibi, her gün biraz.",
+       "de": "Sprachen lernen ist wie Musik, jeden Tag ein bisschen.",
+       "gloss": "Dil öğren·mek müzik gibi, her gün biraz. | Sprache lernen·INF Musik wie, jeder Tag ein.bisschen",
+       "audio": "audio/tr-de/saetze/mu_16.mp3?v=dbb1e947"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
+  },
+  {
+   "id": "g_sahte",
+   "thema": "sahte_dostlar",
+   "titel": "Kelime yapımı ve soru eki mi",
+   "de": "Wortbildung und die Fragepartikel mi",
+   "regel": [
+    "Türkisch baut Wörter aus Bausteinen. -ci/-çi macht den Täter oder Laden: simit → simitçi, kitap → kitapçı, öğren → öğrenci. -lik macht das Abstraktum: güzel → güzellik, yaramaz → yaramazlık. -li = mit, -siz = ohne: tuzlu, şekersiz, sabırlı, deliksiz. -leş = werden: sessizleşmek. Alle folgen der Harmonie: -cı, -ci, -cu, -cü.",
+    "Die Frage macht die Partikel mi (mı, mu, mü), getrennt geschrieben, direkt hinter dem Wort, nach dem gefragt wird: Kamera var mı? Geliyor musun? (die Personalendung hängt an mi). Kitapçı mı? = Die Buchhandlung? Verschiebt man mi, verschiebt sich die Frage: Sen mi geliyorsun? = Kommst DU?"
+   ],
+   "morphem": [
+    "Täter",
+    "Abstr",
+    "mit",
+    "ohne",
+    "FRAGE"
+   ],
+   "beispiele": [
+    {
+     "fr": "Kitapçıya gittim, kütüphaneye değil; parayı orada bıraktım.",
+     "de": "Ich bin in die Buchhandlung gegangen, nicht in die Bibliothek; das Geld habe ich dort gelassen.",
+     "gloss": "Kitap·çı·ya git·ti·m, kütüphane·ye değil; para·yı ora·da bırak·tı·m. | Buch·Täter·DAT gehen·VERG·1SG, Bibliothek·DAT nicht; Geld·AKK dort·LOK lassen·VERG·1SG",
+     "audio": "audio/tr-de/saetze/sd_12.mp3?v=4329a9a3",
+     "hinweis": "kitap-çı: der Täter-Baustein."
+    },
+    {
+     "fr": "Küçük yaramazlık yaptı, kedi de ortak.",
+     "de": "Der Kleine hat Unsinn angestellt, die Katze war Komplizin.",
+     "gloss": "Küçük yaramaz·lık yap·tı, kedi de ortak. | klein frech·Abstr. machen·VERG, Katze auch Partner",
+     "audio": "audio/tr-de/saetze/co_03.mp3?v=404403de",
+     "hinweis": "yaramaz-lık: das Abstraktum."
+    },
+    {
+     "fr": "Terbiyeli çocuk, ama sınıfta değil.",
+     "de": "Ein wohlerzogenes Kind, aber nicht im Klassenzimmer.",
+     "gloss": "Terbiye·li çocuk, ama sınıf·ta değil. | Erziehung·mit Kind, aber Klasse·LOK nicht",
+     "audio": "audio/tr-de/saetze/sd_09.mp3?v=b43a4e62",
+     "hinweis": "terbiye-li: mit."
+    },
+    {
+     "fr": "Cuma gecesi deliksiz uyudum, kedi bile sesimi duymadı.",
+     "de": "Freitagnacht habe ich durchgeschlafen, nicht einmal die Katze hat mich gehört.",
+     "gloss": "Cuma gece·si delik·siz uyu·du·m, kedi bile ses·im·i duy·ma·dı. | Freitag Nacht·sein Loch·ohne schlafen·VERG·1SG, Katze sogar Stimme·mein·AKK hören·NEG·VERG",
+     "audio": "audio/tr-de/saetze/ye_15.mp3?v=ea5c1f32",
+     "hinweis": "delik-siz: ohne."
+    },
+    {
+     "fr": "Sınıfta kamera var mı? – Yok, sadece kedi.",
+     "de": "Ist eine Kamera im Klassenzimmer? – Nein, nur die Katze.",
+     "gloss": "Sınıf·ta kamera var mı? – Yok, sadece kedi. | Klasse·LOK Kamera vorhanden FRAGE? – nicht.da, nur Katze",
+     "audio": "audio/tr-de/saetze/sd_05.mp3?v=6c428a26",
+     "hinweis": "var mı: die Frage."
+    },
+    {
+     "fr": "Affedersiniz, kütüphaneyi arıyorum. – Kitapçı mı? – Hayır, kütüphane.",
+     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek.",
+     "gloss": "Affedersiniz, kütüphane·yi ar·ıyor·um. – Kitapçı mı? – Hayır, kütüphane. | entschuldigen.Sie, Bibliothek·AKK suchen·PRÄS·1SG. – Buchhandlung FRAGE? – nein, Bibliothek",
+     "audio": "audio/tr-de/saetze/sd_24.mp3?v=f8266d02",
+     "hinweis": "Kitapçı mı: die Rückfrage."
+    },
+    {
+     "fr": "Öğrenci düşer, kalkar, yine düşer.",
+     "de": "Der Schüler fällt, steht auf, fällt wieder.",
+     "gloss": "Öğren·ci düş·er, kalk·ar, yine düş·er. | lernen·Täter fallen·AOR, aufstehen·AOR, wieder fallen·AOR",
+     "audio": "audio/tr-de/saetze/sp_06.mp3?v=8ed6f308",
+     "hinweis": "öğren-ci: Täter aus einem Verb."
+    },
+    {
+     "fr": "Kulak dolgunluğu var, kelimeler yavaş geliyor.",
+     "de": "Das Ohr ist voll, die Wörter kommen langsam.",
+     "gloss": "Kulak dolgun·luğ·u var, kelime·ler yavaş gel·iyor. | Ohr voll·Abstr.·sein vorhanden, Wort·PL langsam kommen·PRÄS",
+     "audio": "audio/tr-de/saetze/mu_15.mp3?v=f9926b82",
+     "hinweis": "dolgun-luğ-u: Abstraktum mit Possessiv."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "şekerli",
+     "b": "şekersiz",
+     "text": "mit Zucker – ohne Zucker"
+    },
+    {
+     "a": "simit",
+     "b": "simitçi",
+     "text": "Simit – Simit-Verkäufer"
+    },
+    {
+     "a": "güzel",
+     "b": "güzellik",
+     "text": "schön – Schönheit"
+    },
+    {
+     "a": "geliyorsun",
+     "b": "geliyor musun",
+     "text": "du kommst – kommst du?"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "simit + Täter",
+     "antworten": [
+      "simitçi",
+      "simitci",
+      "simitcı"
+     ]
+    },
+    {
+     "formel": "güzel + Abstr.",
+     "antworten": [
+      "güzellik",
+      "güzellek",
+      "güzelluk"
+     ]
+    },
+    {
+     "formel": "tuz + mit",
+     "antworten": [
+      "tuzlu",
+      "tuzli",
+      "tuzlü"
+     ]
+    },
+    {
+     "formel": "şeker + ohne",
+     "antworten": [
+      "şekersiz",
+      "şekersız",
+      "şekersuz"
+     ]
+    },
+    {
+     "formel": "çay + Täter",
+     "antworten": [
+      "çaycı",
+      "çayci",
+      "çayçı"
+     ]
+    },
+    {
+     "formel": "gel + PRÄS + 2SG + FRAGE",
+     "antworten": [
+      "geliyor musun",
+      "geliyorsun mu",
+      "geliyor mısın"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz ist eine Frage mit der Partikel mi?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "Sınıfta kamera var mı? – Yok, sadece kedi.",
+       "de": "Ist eine Kamera im Klassenzimmer? – Nein, nur die Katze.",
+       "gloss": "Sınıf·ta kamera var mı? – Yok, sadece kedi. | Klasse·LOK Kamera vorhanden FRAGE? – nicht.da, nur Katze",
+       "audio": "audio/tr-de/saetze/sd_05.mp3?v=6c428a26"
+      },
+      {
+       "fr": "Velinin imzası eksik, yine.",
+       "de": "Die Unterschrift der Eltern fehlt, wieder.",
+       "gloss": "Veli·nin imza·sı eksik, yine. | Erziehungsberechtigter·GEN Unterschrift·sein fehlend, wieder",
+       "audio": "audio/tr-de/saetze/sd_06.mp3?v=0dd1f613"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Saat dörtte toplantı var, geliyor musun?",
+       "de": "Um vier ist Konferenz, kommst du?",
+       "gloss": "Saat dört·te toplantı var, gel·iyor mu·sun? | Uhr vier·LOK Versammlung vorhanden, kommen·PRÄS FRAGE·2SG",
+       "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
+      },
+      {
+       "fr": "Altı saat dersten sonra bitkinim.",
+       "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
+       "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
+       "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Tat bakalım, tuzu eksik mi?",
+       "de": "Probier mal, fehlt Salz?",
+       "gloss": "Tat bak·alım, tuz·u eksik mi? | koste schau·OPT.1PL, Salz·sein fehlend FRAGE",
+       "audio": "audio/tr-de/saetze/ye_19.mp3?v=c3ab7ba2"
+      },
+      {
+       "fr": "Annemin tarifi: az tuz, çok sabır.",
+       "de": "Das Rezept meiner Mutter: wenig Salz, viel Geduld.",
+       "gloss": "Anne·m·in tarif·i: az tuz, çok sabır. | Mutter·mein·GEN Rezept·sein: wenig Salz, viel Geduld",
+       "audio": "audio/tr-de/saetze/ye_18.mp3?v=087cdd58"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "Kantinde tost var, sıra uzun.",
+       "de": "In der Cafeteria gibt es Toast, die Schlange ist lang.",
+       "gloss": "Kantin·de tost var, sıra uzun. | Cafeteria·LOK Toast vorhanden, Reihe lang",
+       "audio": "audio/tr-de/saetze/sd_07.mp3?v=245fcfad"
+      },
+      {
+       "fr": "Affedersiniz, kütüphaneyi arıyorum. – Kitapçı mı? – Hayır, kütüphane.",
+       "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek.",
+       "gloss": "Affedersiniz, kütüphane·yi ar·ıyor·um. – Kitapçı mı? – Hayır, kütüphane. | entschuldigen.Sie, Bibliothek·AKK suchen·PRÄS·1SG. – Buchhandlung FRAGE? – nein, Bibliothek",
+       "audio": "audio/tr-de/saetze/sd_24.mp3?v=f8266d02"
       }
      ],
      "richtig": 1
