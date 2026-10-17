@@ -909,10 +909,10 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la réunion = Besprechung, Sitzung (réunir = zusammenbringen); tu viens ? = Frage nur durch Tonfall – im Gespräch die häufigste Frageform.",
    "audio": "audio/fr-de/wendungen/ep_17.mp3?v=439ee400",
    "satz": {
-    "fr": "On a une réunion à seize heures, tu viens ?",
-    "de": "Wir haben um 16 Uhr eine Konferenz, kommst du?",
+    "fr": "J'ai une réunion à seize heures, tu viens ?",
+    "de": "Ich habe um 16 Uhr eine Konferenz, kommst du?",
     "luecke": "une réunion",
-    "audio": "audio/fr-de/saetze/ep_17.mp3?v=7a05f7be"
+    "audio": "audio/fr-de/saetze/ep_17.mp3?v=42e13e3b"
    },
    "zeit": null
   },
@@ -6573,11 +6573,11 @@ window.SPRACHEN["fr-de"] = {
     ]
    },
    {
-    "text": "Bingo, c'est ça !",
-    "de": "Bingo, das ist es!",
-    "audio": "audio/fr-de/lob/lob_bingo_fr.mp3?v=7ed805c9",
+    "text": "Gagné !",
+    "de": "Gewonnen!",
+    "audio": "audio/fr-de/lob/lob_gagne.mp3?v=1cf7e7ae",
     "gruppe": [
-     "bingo"
+     "gagne"
     ]
    },
    {
@@ -8281,7 +8281,6 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/lob/lob_bien_dit.mp3?v=0a5b046c",
   "audio/fr-de/lob/lob_bien_joue.mp3?v=e398a990",
   "audio/fr-de/lob/lob_bien_vu.mp3?v=783f6359",
-  "audio/fr-de/lob/lob_bingo_fr.mp3?v=7ed805c9",
   "audio/fr-de/lob/lob_bravo_fr.mp3?v=c1255b4d",
   "audio/fr-de/lob/lob_ca_cest_bien.mp3?v=b989f86e",
   "audio/fr-de/lob/lob_ca_roule.mp3?v=db521647",
@@ -8300,6 +8299,7 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/lob/lob_excellent_fr.mp3?v=dfd2f7e2",
   "audio/fr-de/lob/lob_extra_fr.mp3?v=5ed83c1e",
   "audio/fr-de/lob/lob_formidable_fr.mp3?v=4f2e6403",
+  "audio/fr-de/lob/lob_gagne.mp3?v=1cf7e7ae",
   "audio/fr-de/lob/lob_genial.mp3?v=48177458",
   "audio/fr-de/lob/lob_impeccable_fr.mp3?v=a1c35408",
   "audio/fr-de/lob/lob_jadore.mp3?v=66966bb7",
@@ -8620,7 +8620,7 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/saetze/ep_16.mp3?v=e020d53b",
   "audio/fr-de/saetze/ep_16_fp.mp3?v=1ebc966d",
   "audio/fr-de/saetze/ep_16_pc.mp3?v=001c8762",
-  "audio/fr-de/saetze/ep_17.mp3?v=7a05f7be",
+  "audio/fr-de/saetze/ep_17.mp3?v=42e13e3b",
   "audio/fr-de/saetze/ep_18.mp3?v=c5cb3058",
   "audio/fr-de/saetze/ep_19.mp3?v=0b303202",
   "audio/fr-de/saetze/ep_20.mp3?v=7c2f69d7",
