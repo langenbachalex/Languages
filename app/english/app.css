@@ -8,12 +8,12 @@
 /* Leiste oben: FR | FR + DE, auf jeder Seite */
 .niveau-leiste {
   position: sticky; top: 0; z-index: 5; display: flex; align-items: center; justify-content: space-between; gap: 12px;
-  padding: 8px 16px; background: var(--blau); color: var(--blau-text);
+  padding: 6px 12px; background: var(--blau); color: var(--blau-text);
   border-bottom: 4px solid var(--rot);
 }
 .niveau-name { font: 600 1rem var(--display); letter-spacing: .02em; }
-.niveau { display: inline-flex; border: 2px solid var(--blau-text); border-radius: 999px; overflow: hidden; }
-.niveau button { font: 700 .95rem var(--body); min-width: 52px; min-height: 40px; padding: 0 12px; border: 0; cursor: pointer; background: transparent; color: var(--blau-text); white-space: nowrap; }
+.niveau { display: inline-flex; flex-shrink: 0; border: 2px solid var(--blau-text); border-radius: 999px; overflow: hidden; }
+.niveau button { font: 700 .9rem var(--body); min-width: 44px; min-height: 38px; padding: 0 10px; border: 0; cursor: pointer; background: transparent; color: var(--blau-text); white-space: nowrap; }
 .niveau button[aria-pressed="true"] { background: var(--blau-text); color: var(--blau); }
 .niveau button:focus-visible { outline: 3px solid var(--gelb); outline-offset: -3px; }
 
@@ -156,8 +156,15 @@
 .sprung.zu { opacity: .5; }
 
 /* Sprachumschalter (Language Learning): Flaggen links in der Leiste; bei nur einer Sprache als Name */
-.sprachen { display: inline-flex; gap: 6px; }
-.sprachen button { font: 700 .95rem var(--body); min-height: 40px; padding: 0 12px; border-radius: 999px; border: 2px solid transparent; cursor: pointer; background: transparent; color: var(--blau-text); white-space: nowrap; }
+/* Sprachleiste: vier Sprachen je Reihe, weitere Reihen eng darunter (Mr. Alex, 17.10.: Platz für weitere Sprachen) */
+.sprachen { display: grid; grid-template-columns: repeat(4, auto); justify-content: start; gap: 2px 4px; }
+.sprachen.eine { display: inline-flex; }
+@media (max-width: 375px) {
+  .niveau-leiste { padding: 6px 8px; gap: 6px; }
+  .sprachen button { padding: 0 6px; font-size: .85rem; }
+  .niveau button { min-width: 40px; padding: 0 8px; font-size: .85rem; }
+}
+.sprachen button { font: 700 .9rem var(--body); min-height: 36px; padding: 0 8px; border-radius: 999px; border: 2px solid transparent; cursor: pointer; background: transparent; color: var(--blau-text); white-space: nowrap; }
 .sprachen button[aria-pressed="true"] { border-color: var(--blau-text); }
 .sprachen.eine button { border: 0; cursor: default; font-family: var(--display); font-weight: 600; letter-spacing: .02em; }
 .sprachen button:focus-visible { outline: 3px solid var(--gelb); outline-offset: -3px; }

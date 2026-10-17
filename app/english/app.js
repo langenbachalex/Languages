@@ -68,7 +68,7 @@
     st.textContent = `:root{${hell}} @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){${dunkel}}} :root[data-theme="dark"]{${dunkel}}`;
     document.title = `${U.app} · ${D.name}`;
     const n = document.querySelectorAll(".niveau button");
-    n[0].textContent = D.kurz; n[1].textContent = `${D.kurz} + ${D.hilfe_kurz}`;
+    n[0].textContent = D.kurz; n[1].textContent = `+ ${D.hilfe_kurz}`;   // kurz, damit zwei Sprachreihen und der Schalter auf ein Handy passen
     document.querySelectorAll(".sprachen button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.paar === paar)));
     if (start) { lage = null; seance = null; startseite(); }
   }
