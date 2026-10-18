@@ -9,6 +9,7 @@ Status: ☐ offen · ◐ umgesetzt, noch nicht veröffentlicht · ☑ veröffent
 |---|---|---|---|---|
 | ☑ | fr | Lob « Bravo ! », « Canon ! » und 10 weitere Einzelwörter | englisch gelesen | französischer Kontext (« Bravo, très bien ! », « C'est canon ! »), neue Dateinamen, 14.10. |
 | ☑ | fr | Ort Nancy | englisch gelesen | Vorlese-Schreibung « Nanci », 15.10. |
+| ☐ | fr | ep_13 « ça prend du temps »: « prend » und « temps » mit [ɛ̃] statt [ɑ̃] | Ursache vermutlich Akzentübernahme des Klons (eleven_v4); Umschreibungen a–h und Stimmeinstellungen getestet, 18.10. Bleibt vorerst so (Mr. Alex). |
 | ☑ | fr | Nasale « temps » | s hörbar | Vorlese-Schreibung « tant », 15.10. |
 | ☑ | es | Wendung « dar clase » | englisch gelesen | Vorlese-Fassung « ¡Dar clase! » (WENDUNG_KORREKTUR), 15.10. |
 | ☐ | es | Orte Sevilla, Córdoba: « mezquita » | Seseo statt Distinción | vier Varianten zum Hören geschickt (neu erzeugt / Stabilität 0,85 / Regieanweisung / « methquita »); Entscheidung offen. Analyse: Sprachcode « es » hat keine Region, Modell wählt Varietät aus Textkontext (andalusische Namen) und Zufall. |
