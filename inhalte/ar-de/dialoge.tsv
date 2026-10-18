@@ -19,3 +19,23 @@ d0b_07	d0b			A	سَامِي يَجْتَهِدُ كَثِيرًا، أَلْمَ
 d0b_08	d0b			B	الحَمْدُ لِلّه. وَعَرَبِيَّتُكَ جَمِيلَة!	Gott sei Dank. Und Ihr Arabisch ist schön!	al-ḥamdu lillāh. wa-ʿarabiyyatuk jamīla!
 d0b_09	d0b			A	شُكْرًا، مَا زَالَتْ قَلِيلَة، لَكِنِّي أَتَعَلَّم.	Danke, noch wenig, aber ich lerne.	shukran, mā zālat qalīla, lākinnī ataʿallam.
 d0b_10	d0b			B	أَنَا أَشْكُرُكَ عَلَى وَقْتِك. مَسَاءَ الخَيْر!	Ich danke Ihnen für Ihre Zeit. Guten Abend!	anā ashkuruk ʿalā waqtik. masāʾ al-khayr!
+d1_01	d1	بَعْدَ ظُهْرِ الخَمِيس	عِنْدَ بَابِ المَدْرَسَة	A	مَرْحَبًا خَالِد! لَمْ أَرَكَ مُنْذُ زَمَن!	Hallo Khalid! Lange nicht gesehen!	marḥaban Khālid! lam arak mundhu zaman!
+d1_02	d1			B	مَرْحَبًا أَلِكْس. ثَلاثَةُ أَيَّام. لَكِنْ نَعَم، عُمْرٌ كَامِل.	Hallo Alex. Drei Tage. Aber ja, ein ganzes Leben.	marḥaban Alex. thalāthat ayyām. lākin naʿam, ʿumr kāmil.
+d1_03	d1			A	وَكَيْفَ كَانَتِ الحِصَّةُ مَعَ الصَّفِّ الثَّالِث؟	Und, wie ist die Stunde mit der Dritten gelaufen?	wa-kayfa kānat al-ḥiṣṣa maʿa ṣ-ṣaff ath-thālith?
+d1_04	d1			B	رَائِعَة. نَامُوا. وَأَنَا تَقْرِيبًا.	Wunderbar. Sie sind eingeschlafen. Ich auch, fast.	rāʾiʿa. nāmū. wa-anā taqrīban.
+d1_05	d1			A	يَوْمَ الخَمِيسِ يَصْعُبُ عَلَيَّ إِسْكَاتُهُم.	Donnerstags fällt es mir schwer, sie zum Schweigen zu bringen.	yawm al-khamīs yaṣʿub ʿalayya iskātuhum.
+d1_06	d1			B	سَهْل. تَكَلَّمْ عَنِ القَوَاعِد. صَمْتٌ تَامّ.	Leicht. Rede über Grammatik. Totale Stille.	sahl. takallam ʿan al-qawāʿid. ṣamt tāmm.
+d1_07	d1			A	وَأَنْت؟ أَلَسْتَ مُنْهَكًا؟	Und du? Bist du nicht fix und fertig?	wa-anta? alasta munhakan?
+d1_08	d1			B	بَلَى. لِذَلِكَ أُصَحِّحُ الوَاجِبَاتِ اللَّيْلَة… أَمَامَ فِيلْم.	Doch. Deshalb korrigiere ich heute Abend Hausaufgaben… vor einem Film.	balā. li-dhālika uṣaḥḥiḥ al-wājibāt al-layla… amāma film.
+d1_09	d1			A	فِيلْمٌ جَيِّد؟	Ein guter Film?	film jayyid?
+d1_10	d1			B	لا أَعْرِف. أَنَا أَنْظُرُ إِلَى الوَاجِبَات.	Weiß ich nicht. Ich schaue auf die Hausaufgaben.	lā aʿrif. anā anẓur ilā l-wājibāt.
+d2_01	d2	القِطُّ الحَزِين	فِي المَقْهَى	B	كُلُّ شَيْءٍ عَلَى مَا يُرَام يَا أَلِكْس؟ وَجْهُكَ عَابِس.	Alles in Ordnung, Alex? Du machst ein finsteres Gesicht.	kull shayʾ ʿalā mā yurām yā Alex? wajhuk ʿābis.
+d2_02	d2			A	مِزَاجِي سَيِّئ. قِطِّي لَمْ يَعُدْ يَنْظُرُ إِلَيّ.	Ich bin schlecht drauf. Meine Katze schaut mich nicht mehr an.	mizājī sayyiʾ. qiṭṭī lam yaʿud yanẓur ilayy.
+d2_03	d2			B	مُنْذُ مَتَى؟	Seit wann?	mundhu matā?
+d2_04	d2			A	مُنْذُ أَنْ غَنَّيْتُ بِالعَرَبِيَّة.	Seit ich auf Arabisch gesungen habe.	mundhu an ghannaytu bil-ʿarabiyya.
+d2_05	d2			B	آه. مَاذَا غَنَّيْت؟	Ah. Was hast du gesungen?	āh. mādhā ghannayt?
+d2_06	d2			A	« يَا مَالَ الشَّام ». بِأَعْلَى صَوْتِي. مَرَّتَيْن.	« Yā māl ash-Shām ». Aus voller Kehle. Zweimal.	« yā māl ash-Shām ». bi-aʿlā ṣawtī. marratayn.
+d2_07	d2			B	أَلِكْس… هَذَا يَكْسِرُ قَلْبِي، لَكِنَّ قِطَّكَ عَلَى حَقّ.	Alex… es zerreißt mir das Herz, aber deine Katze hat recht.	Alex… hādhā yaksir qalbī, lākinna qiṭṭak ʿalā ḥaqq.
+d2_08	d2			A	أَتَجِدُ هَذَا مُخِيفًا؟	Findest du das unheimlich?	a-tajid hādhā mukhīfan?
+d2_09	d2			B	لا. أَجِدُهُ مُطَمْئِنًا. بِالنِّسْبَةِ لِلْقِطِّ اِنْتَهَى الأَمْر.	Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.	lā. ajiduhu muṭamʾinan. bin-nisba lil-qiṭṭ intahā l-amr.
+d2_10	d2			A	شُكْرًا يَا خَالِد. هَذَا يُؤَثِّرُ فِيّ. أَظُنّ.	Danke, Khalid. Das rührt mich. Glaube ich.	shukran yā Khālid. hādhā yuʾaththir fiyy. aẓunn.

@@ -7727,6 +7727,180 @@ window.SPRACHEN["ar-de"] = {
      "audio": "audio/ar-de/dialoge/d0b_10.mp3?v=58f9c431"
     }
    ]
+  },
+  {
+   "id": "d1",
+   "titel": "بَعْدَ ظُهْرِ الخَمِيس",
+   "ort": "عِنْدَ بَابِ المَدْرَسَة",
+   "zeilen": [
+    {
+     "id": "d1_01",
+     "rolle": "A",
+     "fr": "مَرْحَبًا خَالِد! لَمْ أَرَكَ مُنْذُ زَمَن!",
+     "de": "Hallo Khalid! Lange nicht gesehen!",
+     "umschrift": "marḥaban Khālid! lam arak mundhu zaman!",
+     "audio": "audio/ar-de/dialoge/d1_01.mp3?v=c2d0c421"
+    },
+    {
+     "id": "d1_02",
+     "rolle": "B",
+     "fr": "مَرْحَبًا أَلِكْس. ثَلاثَةُ أَيَّام. لَكِنْ نَعَم، عُمْرٌ كَامِل.",
+     "de": "Hallo Alex. Drei Tage. Aber ja, ein ganzes Leben.",
+     "umschrift": "marḥaban Alex. thalāthat ayyām. lākin naʿam, ʿumr kāmil.",
+     "audio": "audio/ar-de/dialoge/d1_02.mp3?v=d2a1821e"
+    },
+    {
+     "id": "d1_03",
+     "rolle": "A",
+     "fr": "وَكَيْفَ كَانَتِ الحِصَّةُ مَعَ الصَّفِّ الثَّالِث؟",
+     "de": "Und, wie ist die Stunde mit der Dritten gelaufen?",
+     "umschrift": "wa-kayfa kānat al-ḥiṣṣa maʿa ṣ-ṣaff ath-thālith?",
+     "audio": "audio/ar-de/dialoge/d1_03.mp3?v=caacdca0"
+    },
+    {
+     "id": "d1_04",
+     "rolle": "B",
+     "fr": "رَائِعَة. نَامُوا. وَأَنَا تَقْرِيبًا.",
+     "de": "Wunderbar. Sie sind eingeschlafen. Ich auch, fast.",
+     "umschrift": "rāʾiʿa. nāmū. wa-anā taqrīban.",
+     "audio": "audio/ar-de/dialoge/d1_04.mp3?v=cbca8238"
+    },
+    {
+     "id": "d1_05",
+     "rolle": "A",
+     "fr": "يَوْمَ الخَمِيسِ يَصْعُبُ عَلَيَّ إِسْكَاتُهُم.",
+     "de": "Donnerstags fällt es mir schwer, sie zum Schweigen zu bringen.",
+     "umschrift": "yawm al-khamīs yaṣʿub ʿalayya iskātuhum.",
+     "audio": "audio/ar-de/dialoge/d1_05.mp3?v=55ac4739"
+    },
+    {
+     "id": "d1_06",
+     "rolle": "B",
+     "fr": "سَهْل. تَكَلَّمْ عَنِ القَوَاعِد. صَمْتٌ تَامّ.",
+     "de": "Leicht. Rede über Grammatik. Totale Stille.",
+     "umschrift": "sahl. takallam ʿan al-qawāʿid. ṣamt tāmm.",
+     "audio": "audio/ar-de/dialoge/d1_06.mp3?v=358b3699"
+    },
+    {
+     "id": "d1_07",
+     "rolle": "A",
+     "fr": "وَأَنْت؟ أَلَسْتَ مُنْهَكًا؟",
+     "de": "Und du? Bist du nicht fix und fertig?",
+     "umschrift": "wa-anta? alasta munhakan?",
+     "audio": "audio/ar-de/dialoge/d1_07.mp3?v=774fc557"
+    },
+    {
+     "id": "d1_08",
+     "rolle": "B",
+     "fr": "بَلَى. لِذَلِكَ أُصَحِّحُ الوَاجِبَاتِ اللَّيْلَة… أَمَامَ فِيلْم.",
+     "de": "Doch. Deshalb korrigiere ich heute Abend Hausaufgaben… vor einem Film.",
+     "umschrift": "balā. li-dhālika uṣaḥḥiḥ al-wājibāt al-layla… amāma film.",
+     "audio": "audio/ar-de/dialoge/d1_08.mp3?v=1132b2af"
+    },
+    {
+     "id": "d1_09",
+     "rolle": "A",
+     "fr": "فِيلْمٌ جَيِّد؟",
+     "de": "Ein guter Film?",
+     "umschrift": "film jayyid?",
+     "audio": "audio/ar-de/dialoge/d1_09.mp3?v=eec8c85e"
+    },
+    {
+     "id": "d1_10",
+     "rolle": "B",
+     "fr": "لا أَعْرِف. أَنَا أَنْظُرُ إِلَى الوَاجِبَات.",
+     "de": "Weiß ich nicht. Ich schaue auf die Hausaufgaben.",
+     "umschrift": "lā aʿrif. anā anẓur ilā l-wājibāt.",
+     "audio": "audio/ar-de/dialoge/d1_10.mp3?v=857cfc08"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "titel": "القِطُّ الحَزِين",
+   "ort": "فِي المَقْهَى",
+   "zeilen": [
+    {
+     "id": "d2_01",
+     "rolle": "B",
+     "fr": "كُلُّ شَيْءٍ عَلَى مَا يُرَام يَا أَلِكْس؟ وَجْهُكَ عَابِس.",
+     "de": "Alles in Ordnung, Alex? Du machst ein finsteres Gesicht.",
+     "umschrift": "kull shayʾ ʿalā mā yurām yā Alex? wajhuk ʿābis.",
+     "audio": "audio/ar-de/dialoge/d2_01.mp3?v=49e45d6e"
+    },
+    {
+     "id": "d2_02",
+     "rolle": "A",
+     "fr": "مِزَاجِي سَيِّئ. قِطِّي لَمْ يَعُدْ يَنْظُرُ إِلَيّ.",
+     "de": "Ich bin schlecht drauf. Meine Katze schaut mich nicht mehr an.",
+     "umschrift": "mizājī sayyiʾ. qiṭṭī lam yaʿud yanẓur ilayy.",
+     "audio": "audio/ar-de/dialoge/d2_02.mp3?v=19ed1dfc"
+    },
+    {
+     "id": "d2_03",
+     "rolle": "B",
+     "fr": "مُنْذُ مَتَى؟",
+     "de": "Seit wann?",
+     "umschrift": "mundhu matā?",
+     "audio": "audio/ar-de/dialoge/d2_03.mp3?v=d5cb918e"
+    },
+    {
+     "id": "d2_04",
+     "rolle": "A",
+     "fr": "مُنْذُ أَنْ غَنَّيْتُ بِالعَرَبِيَّة.",
+     "de": "Seit ich auf Arabisch gesungen habe.",
+     "umschrift": "mundhu an ghannaytu bil-ʿarabiyya.",
+     "audio": "audio/ar-de/dialoge/d2_04.mp3?v=d9482445"
+    },
+    {
+     "id": "d2_05",
+     "rolle": "B",
+     "fr": "آه. مَاذَا غَنَّيْت؟",
+     "de": "Ah. Was hast du gesungen?",
+     "umschrift": "āh. mādhā ghannayt?",
+     "audio": "audio/ar-de/dialoge/d2_05.mp3?v=331ab103"
+    },
+    {
+     "id": "d2_06",
+     "rolle": "A",
+     "fr": "« يَا مَالَ الشَّام ». بِأَعْلَى صَوْتِي. مَرَّتَيْن.",
+     "de": "« Yā māl ash-Shām ». Aus voller Kehle. Zweimal.",
+     "umschrift": "« yā māl ash-Shām ». bi-aʿlā ṣawtī. marratayn.",
+     "audio": "audio/ar-de/dialoge/d2_06.mp3?v=04f2b4d6"
+    },
+    {
+     "id": "d2_07",
+     "rolle": "B",
+     "fr": "أَلِكْس… هَذَا يَكْسِرُ قَلْبِي، لَكِنَّ قِطَّكَ عَلَى حَقّ.",
+     "de": "Alex… es zerreißt mir das Herz, aber deine Katze hat recht.",
+     "umschrift": "Alex… hādhā yaksir qalbī, lākinna qiṭṭak ʿalā ḥaqq.",
+     "audio": "audio/ar-de/dialoge/d2_07.mp3?v=b0555bf7"
+    },
+    {
+     "id": "d2_08",
+     "rolle": "A",
+     "fr": "أَتَجِدُ هَذَا مُخِيفًا؟",
+     "de": "Findest du das unheimlich?",
+     "umschrift": "a-tajid hādhā mukhīfan?",
+     "audio": "audio/ar-de/dialoge/d2_08.mp3?v=55c1f4cd"
+    },
+    {
+     "id": "d2_09",
+     "rolle": "B",
+     "fr": "لا. أَجِدُهُ مُطَمْئِنًا. بِالنِّسْبَةِ لِلْقِطِّ اِنْتَهَى الأَمْر.",
+     "de": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
+     "umschrift": "lā. ajiduhu muṭamʾinan. bin-nisba lil-qiṭṭ intahā l-amr.",
+     "audio": "audio/ar-de/dialoge/d2_09.mp3?v=41694d9d"
+    },
+    {
+     "id": "d2_10",
+     "rolle": "A",
+     "fr": "شُكْرًا يَا خَالِد. هَذَا يُؤَثِّرُ فِيّ. أَظُنّ.",
+     "de": "Danke, Khalid. Das rührt mich. Glaube ich.",
+     "umschrift": "shukran yā Khālid. hādhā yuʾaththir fiyy. aẓunn.",
+     "audio": "audio/ar-de/dialoge/d2_10.mp3?v=dd397c8d"
+    }
+   ]
   }
  ],
  "rollen": {
@@ -10916,7 +11090,334 @@ window.SPRACHEN["ar-de"] = {
    }
   ]
  },
- "geschichte": [],
+ "geschichte": [
+  {
+   "nr": 1,
+   "titel": "التَّذْكِرَةُ القَدِيمَة",
+   "absaetze": [
+    {
+     "id": "k01_01",
+     "fr": "كَانَ خَالِدٌ الحَلَبِيُّ مُعَلِّمًا فِي دِمَشْق. مُعَلِّمًا عَادِيًّا. يَعْنِي، تَقْرِيبًا.",
+     "de": "Khalid al-Halabi war Lehrer in Damaskus. Ein normaler Lehrer. Na ja, fast.",
+     "umschrift": "kāna Khālid al-Ḥalabī muʿalliman fī Dimashq. muʿalliman ʿādiyyan. yaʿnī, taqrīban.",
+     "audio": "audio/ar-de/geschichte/k01_01.mp3?v=88ea3373"
+    },
+    {
+     "id": "k01_02",
+     "fr": "بَعْدَ ظُهْرِ تِلْكَ الجُمُعَة، كَانَ **يُصَحِّحُ الوَاجِبَات**، كَكُلِّ جُمُعَة. كَانَ **مُنْهَكًا**. فِي الخَارِجِ كَانَتْ تُمْطِر. وَفِي الدَّاخِلِ كَانَ قِطُّهُ **يَغْفُو** عَلَى الوَاجِبَاتِ المُصَحَّحَة.",
+     "de": "An jenem Freitagnachmittag korrigierte er Hausaufgaben, wie jeden Freitag. Er war fix und fertig. Draußen regnete es. Drinnen machte seine Katze ein Nickerchen auf den schon korrigierten Arbeiten.",
+     "umschrift": "baʿda ẓuhr tilka l-jumʿa, kāna yuṣaḥḥiḥ al-wājibāt, ka-kull jumʿa. kāna munhakan. fī l-khārij kānat tumṭir. wa-fī d-dākhil kāna qiṭṭuhu yaghfū ʿalā l-wājibāt al-muṣaḥḥaḥa.",
+     "audio": "audio/ar-de/geschichte/k01_02.mp3?v=7acca74b"
+    },
+    {
+     "id": "k01_03",
+     "fr": "كَانَ الوَاجِبُ السَّابِعَ عَشَرَ وَاجِبَ سَامِي، تِلْمِيذٍ فِي الصَّفِّ الثَّالِث، يَكْتُبُ قَلِيلاً، لَكِنْ جَيِّدًا.",
+     "de": "Die siebzehnte Arbeit war die von Sāmī, einem Schüler der Dritten, der wenig schrieb, aber gut.",
+     "umschrift": "kāna l-wājib as-sābiʿ ʿashar wājib Sāmī, tilmīdh fī ṣ-ṣaff ath-thālith, yaktub qalīlan, lākin jayyidan.",
+     "audio": "audio/ar-de/geschichte/k01_03.mp3?v=42f4181a"
+    },
+    {
+     "id": "k01_04",
+     "fr": "بَيْنَ الصَّفْحَةِ الثَّانِيَةِ وَالصَّفْحَةِ الثَّالِثَةِ كَانَ هُنَاكَ شَيْء. تَذْكِرَة. تَذْكِرَةُ تْرَامٍ قَدِيمَة، مِنْ تْرَامِ دِمَشْقَ الَّذِي تَوَقَّفَ عَامَ ١٩٦٧.",
+     "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Fahrkarte. Eine alte Straßenbahnkarte, von der Damaszener Straßenbahn, die 1967 stillgelegt wurde.",
+     "umschrift": "bayna ṣ-ṣafḥa th-thāniya wa-ṣ-ṣafḥa th-thālitha kāna hunāka shayʾ. tadhkira. tadhkirat trām qadīma, min trām Dimashq alladhī tawaqqafa ʿām 1967.",
+     "audio": "audio/ar-de/geschichte/k01_04.mp3?v=8118b782"
+    },
+    {
+     "id": "k01_05",
+     "fr": "نَظَرَ خَالِدٌ إِلَى التَّارِيخ. غَدًا. السَّبْت. السَّاعَةُ العَاشِرَةُ صَبَاحًا. عَلَى تَذْكِرَةٍ عُمْرُهَا سِتُّونَ عَامًا.",
+     "de": "Khalid schaute auf das Datum. Morgen. Samstag. Zehn Uhr morgens. Auf einer Karte, die sechzig Jahre alt war.",
+     "umschrift": "naẓara Khālid ilā t-tārīkh. ghadan. as-sabt. as-sāʿa l-ʿāshira ṣabāḥan. ʿalā tadhkira ʿumruhā sittūn ʿāman.",
+     "audio": "audio/ar-de/geschichte/k01_05.mp3?v=3a07f42c"
+    },
+    {
+     "id": "k01_06",
+     "fr": "عَلَى الظَّهْرِ كَتَبَ أَحَدُهُمْ بِحُرُوفٍ زَرْقَاء: « بَابُ البَرِيد، عِنْدَ آخِرِ السُّوق. تَعَالَ وَحْدَك. وَلا تَخَفْ. »",
+     "de": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: « Bāb al-Barīd, am Ende des Souks. Komm allein. Und hab keine Angst. »",
+     "umschrift": "ʿalā ẓ-ẓahr kataba aḥaduhum bi-ḥurūf zarqāʾ: « Bāb al-Barīd, ʿinda ākhir as-sūq. taʿāla waḥdak. wa-lā takhaf. »",
+     "audio": "audio/ar-de/geschichte/k01_06.mp3?v=99c22b58"
+    },
+    {
+     "id": "k01_07",
+     "fr": "لَمْ يَكُنْ خَالِدٌ خَائِفًا. لَيْسَ بَعْد. كَانَ فَقَطْ لا يَفْهَم، هَذَا كُلُّ شَيْء.",
+     "de": "Khalid hatte keine Angst. Noch nicht. Er verstand nur nicht, das war alles.",
+     "umschrift": "lam yakun Khālid khāʾifan. laysa baʿd. kāna faqaṭ lā yafham, hādhā kull shayʾ.",
+     "audio": "audio/ar-de/geschichte/k01_07.mp3?v=c21b2ec5"
+    },
+    {
+     "id": "k01_08",
+     "fr": "لَمْ يَكُنْ سَامِي تِلْمِيذًا غَامِضًا. كَانَ تِلْمِيذًا يَرْسُمُ القِطَطَ عَلَى الهَوَامِش.",
+     "de": "Sāmī war kein geheimnisvoller Schüler. Er war ein Schüler, der Katzen an die Ränder zeichnete.",
+     "umschrift": "lam yakun Sāmī tilmīdhan ghāmiḍan. kāna tilmīdhan yarsum al-qiṭaṭ ʿalā l-hawāmish.",
+     "audio": "audio/ar-de/geschichte/k01_08.mp3?v=370fdc66"
+    },
+    {
+     "id": "k01_09",
+     "fr": "نَظَرَ خَالِدٌ إِلَى قِطِّه. نَظَرَ القِطُّ إِلَيْه. كَانَتْ نَظْرَتُهُ تَقُول: « اِذْهَبْ. »",
+     "de": "Khalid schaute seine Katze an. Die Katze schaute ihn an. Ihr Blick sagte: « Geh. »",
+     "umschrift": "naẓara Khālid ilā qiṭṭih. naẓara l-qiṭṭ ilayh. kānat naẓratuhu taqūl: « idhhab. »",
+     "audio": "audio/ar-de/geschichte/k01_09.mp3?v=cedc1bc2"
+    },
+    {
+     "id": "k01_10",
+     "fr": "« هَذِهِ مَزْحَة »، قَالَ خَالِدٌ بِصَوْتٍ عَالٍ. لَمْ يَقُلِ القِطُّ شَيْئًا. القِطَطُ لا تَقُولُ شَيْئًا أَبَدًا. هَذِهِ قُوَّتُهَا.",
+     "de": "« Das ist ein Scherz », sagte Khalid laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
+     "umschrift": "« hādhihi mazḥa », qāla Khālid bi-ṣawt ʿālin. lam yaqul al-qiṭṭ shayʾan. al-qiṭaṭ lā taqūl shayʾan abadan. hādhihi quwwatuhā.",
+     "audio": "audio/ar-de/geschichte/k01_10.mp3?v=ed86661e"
+    },
+    {
+     "id": "k01_11",
+     "fr": "فِي تِلْكَ اللَّيْلَةِ لَمْ يَنَمْ خَالِدٌ جَيِّدًا. حَلِمَ بِدَرَجٍ بِلا نِهَايَة، وَبِبَابٍ لَيْسَ عَلَى أَيِّ خَرِيطَة.",
+     "de": "In jener Nacht schlief Khalid nicht gut. Er träumte von einer Treppe ohne Ende und einer Tür, die auf keiner Karte war.",
+     "umschrift": "fī tilka l-layla lam yanam Khālid jayyidan. ḥalima bi-daraj bilā nihāya, wa-bi-bāb laysa ʿalā ayy kharīṭa.",
+     "audio": "audio/ar-de/geschichte/k01_11.mp3?v=e522236c"
+    },
+    {
+     "id": "k01_12",
+     "fr": "فِي السَّابِعَةِ اسْتَيْقَظ. بِالقَدَمِ اليُمْنَى. كَالعَادَة.",
+     "de": "Um sieben stand er auf. Mit dem rechten Fuß. Wie immer.",
+     "umschrift": "fī s-sābiʿa stayqaẓ. bil-qadam al-yumnā. kal-ʿāda.",
+     "audio": "audio/ar-de/geschichte/k01_12.mp3?v=06965fda"
+    },
+    {
+     "id": "k01_13",
+     "fr": "ذَهَبَ لِشِرَاءِ الخُبْزِ وَالزَّيْتُون. ثُمَّ نَظَرَ إِلَى السَّاعَة. التَّاسِعَةُ وَالرُّبْع. بَابُ البَرِيدِ عَلَى بُعْدِ عِشْرِينَ دَقِيقَةً مَشْيًا، عَبْرَ سُوقِ الحَمِيدِيَّة.",
+     "de": "Er ging Brot und Oliven kaufen. Dann schaute er auf die Uhr. Viertel nach neun. Bāb al-Barīd war zwanzig Minuten zu Fuß, durch den Souk al-Hamidiyya.",
+     "umschrift": "dhahaba li-shirāʾ al-khubz wa-z-zaytūn. thumma naẓara ilā s-sāʿa. at-tāsiʿa wa-r-rubʿ. Bāb al-Barīd ʿalā buʿd ʿishrīn daqīqa mashyan, ʿabra Sūq al-Ḥamīdiyya.",
+     "audio": "audio/ar-de/geschichte/k01_13.mp3?v=48ea81d0"
+    },
+    {
+     "id": "k01_14",
+     "fr": "« سَأَذْهَبُ لِأَنْظُرَ فَقَطْ »، قَالَ لِلْقِطّ. أَغْمَضَ القِطُّ عَيْنَيْه. كَانَ يَعْرِفُ أَنَّ هَذَا غَيْرُ صَحِيح.",
+     "de": "« Ich gehe nur schauen », sagte er zur Katze. Die Katze schloss die Augen. Sie wusste, dass das nicht stimmte.",
+     "umschrift": "« sa-adhhab li-anẓur faqaṭ », qāla lil-qiṭṭ. aghmaḍa l-qiṭṭ ʿaynayh. kāna yaʿrif anna hādhā ghayr ṣaḥīḥ.",
+     "audio": "audio/ar-de/geschichte/k01_14.mp3?v=5f95101f"
+    }
+   ]
+  },
+  {
+   "nr": 2,
+   "titel": "سُوقُ الحَمِيدِيَّة",
+   "absaetze": [
+    {
+     "id": "k02_01",
+     "fr": "فِي العَاشِرَةِ إِلّا خَمْسًا كَانَ خَالِدٌ عِنْدَ مَدْخَلِ سُوقِ الحَمِيدِيَّة. لِأَوَّلِ مَرَّةٍ يَدْخُلُ السُّوقَ بِلا ثَلاثِينَ تِلْمِيذًا خَلْفَه.",
+     "de": "Um fünf vor zehn war Khalid am Eingang des Souk al-Hamidiyya. Zum ersten Mal betrat er den Souk ohne dreißig Schüler hinter sich.",
+     "umschrift": "fī l-ʿāshira illā khamsan kāna Khālid ʿinda madkhal Sūq al-Ḥamīdiyya. li-awwal marra yadkhul as-sūq bilā thalāthīn tilmīdhan khalfah.",
+     "audio": "audio/ar-de/geschichte/k02_01.mp3?v=f2025388"
+    },
+    {
+     "id": "k02_02",
+     "fr": "كَانَ السُّوقُ هَادِئًا. هَادِئًا جِدًّا. لا سُيَّاح، لا بَائِعَ بُوظَة، لا حَمَام. فَقَطْ ثُقُوبُ السَّقْفِ وَخُيُوطُ الضَّوْء، وَرَائِحَةُ الهَيْل.",
+     "de": "Der Souk war ruhig. Zu ruhig. Keine Touristen, kein Eisverkäufer, keine Tauben. Nur die Löcher im Dach mit ihren Lichtfäden, und der Geruch von Kardamom.",
+     "umschrift": "kāna s-sūq hādiʾan. hādiʾan jiddan. lā suyyāḥ, lā bāʾiʿ būẓa, lā ḥamām. faqaṭ thuqūb as-saqf wa-khuyūṭ aḍ-ḍawʾ, wa-rāʾiḥat al-hayl.",
+     "audio": "audio/ar-de/geschichte/k02_02.mp3?v=5ee45d14"
+    },
+    {
+     "id": "k02_03",
+     "fr": "كَانَتِ التَّذْكِرَةُ حَقِيقِيَّة. الرَّجُلُ الَّذِي يَبِيعُ الشَّايَ تَحْتَ الأَعْمِدَةِ الرُّومَانِيَّةِ نَظَرَ إِلَيْه، وَنَظَرَ إِلَى التَّذْكِرَة، وَقَال: « بَابُ البَرِيد. بَعْدَ الأَعْمِدَة، ثُمَّ إِلَى اليَسَار. » دُونَ أَنْ يَسْأَلَهُ خَالِد.",
+     "de": "Die Karte war echt. Der Mann, der unter den römischen Säulen Tee verkaufte, schaute ihn an, schaute die Karte an und sagte: « Bāb al-Barīd. Hinter den Säulen, dann links. » Ohne dass Khalid gefragt hatte.",
+     "umschrift": "kānat at-tadhkira ḥaqīqiyya. ar-rajul alladhī yabīʿ ash-shāy taḥta l-aʿmida r-rūmāniyya naẓara ilayh, wa-naẓara ilā t-tadhkira, wa-qāl: « Bāb al-Barīd. baʿda l-aʿmida, thumma ilā l-yasār. » dūna an yasʾalahu Khālid.",
+     "audio": "audio/ar-de/geschichte/k02_03.mp3?v=b0415e9e"
+    },
+    {
+     "id": "k02_04",
+     "fr": "كَانَ ذَلِكَ مُخِيفًا. قَلِيلاً. قَرَّرَ خَالِدٌ أَنَّهُ لُطْف.",
+     "de": "Das war unheimlich. Ein bisschen. Khalid beschloss, dass es Freundlichkeit war.",
+     "umschrift": "kāna dhālika mukhīfan. qalīlan. qarrara Khālid annahu luṭf.",
+     "audio": "audio/ar-de/geschichte/k02_04.mp3?v=cdfa94b0"
+    },
+    {
+     "id": "k02_05",
+     "fr": "ثُمَّ القِطّ. قِطٌّ رَمَادِيٌّ مِنْ قِطَطِ الشَّارِع، جَالِسٌ عِنْدَ البَابِ كَأَنَّ المَكَانَ لَه.",
+     "de": "Und dann die Katze. Eine graue Straßenkatze, die am Tor saß, als gehöre der Platz ihr.",
+     "umschrift": "thumma l-qiṭṭ. qiṭṭ ramādī min qiṭaṭ ash-shāriʿ, jālis ʿinda l-bāb ka-anna l-makān lah.",
+     "audio": "audio/ar-de/geschichte/k02_05.mp3?v=6608d027"
+    },
+    {
+     "id": "k02_06",
+     "fr": "نَظَرَ القِطُّ إِلَيْه. عَرَفَ خَالِدٌ هَذِهِ النَّظْرَة. كَانَتْ نَظْرَةَ قِطِّهِ هُوَ. نَفْسُهَا تَمَامًا.",
+     "de": "Die Katze schaute ihn an. Khalid kannte diesen Blick. Es war der Blick seiner eigenen Katze. Haargenau derselbe.",
+     "umschrift": "naẓara l-qiṭṭ ilayh. ʿarafa Khālid hādhihi n-naẓra. kānat naẓrat qiṭṭihi huwa. nafsuhā tamāman.",
+     "audio": "audio/ar-de/geschichte/k02_06.mp3?v=f68b4030"
+    },
+    {
+     "id": "k02_07",
+     "fr": "« مُسْتَحِيل »، فَكَّرَ. « قِطِّي فِي البَيْت، يَنَامُ عَلَى وَاجِبِ الصَّفِّ الثَّالِث. »",
+     "de": "« Unmöglich », dachte er. « Meine Katze ist zu Hause und schläft auf einer Arbeit der Dritten. »",
+     "umschrift": "« mustaḥīl », fakkar. « qiṭṭī fī l-bayt, yanām ʿalā wājib aṣ-ṣaff ath-thālith. »",
+     "audio": "audio/ar-de/geschichte/k02_07.mp3?v=531b9429"
+    },
+    {
+     "id": "k02_08",
+     "fr": "قَامَ القِطُّ الرَّمَادِيّ، تَمَسَّحَ بِعَمُود، وَمَشَى بِبُطْءٍ إِلَى دَاخِلِ الجَامِع. ثُمَّ الْتَفَت. كَانَ يَنْتَظِر.",
+     "de": "Die graue Katze stand auf, rieb sich an einer Säule und ging langsam in die Moschee hinein. Dann drehte sie sich um. Sie wartete.",
+     "umschrift": "qāma l-qiṭṭ ar-ramādī, tamassaḥa bi-ʿamūd, wa-mashā bi-buṭʾ ilā dākhil al-jāmiʿ. thumma ltafat. kāna yantaẓir.",
+     "audio": "audio/ar-de/geschichte/k02_08.mp3?v=348c803e"
+    },
+    {
+     "id": "k02_09",
+     "fr": "كَانَ خَالِدٌ قَلِقًا. لَكِنَّهُ كَانَ فُضُولِيًّا أَيْضًا. عِنْدَ المُعَلِّمِ يَفُوزُ الفُضُولُ دَائِمًا.",
+     "de": "Khalid war beklommen. Aber er war auch neugierig. Bei einem Lehrer gewinnt die Neugier immer.",
+     "umschrift": "kāna Khālid qaliqan. lākinnahu kāna fuḍūliyyan ayḍan. ʿinda l-muʿallim yafūz al-fuḍūl dāʾiman.",
+     "audio": "audio/ar-de/geschichte/k02_09.mp3?v=9ed527db"
+    },
+    {
+     "id": "k02_10",
+     "fr": "تَبِعَ القِطّ. عَبَرَا الصَّحْنَ الكَبِير، وَالرُّخَامُ بَارِدٌ تَحْتَ القَدَمَيْن. عِنْدَ قُبَّةِ الخَزْنَةِ تَوَقَّفَ القِطّ.",
+     "de": "Er folgte der Katze. Sie überquerten den großen Hof, der Marmor kalt unter den Füßen. An der Schatzkuppel blieb die Katze stehen.",
+     "umschrift": "tabiʿa l-qiṭṭ. ʿabarā ṣ-ṣaḥn al-kabīr, wa-r-rukhām bārid taḥta l-qadamayn. ʿinda Qubbat al-Khazna tawaqqafa l-qiṭṭ.",
+     "audio": "audio/ar-de/geschichte/k02_10.mp3?v=b95a4e05"
+    },
+    {
+     "id": "k02_11",
+     "fr": "هُنَاك، حَيْثُ كَانَ دَائِمًا جِدَارٌ مِنَ الفُسَيْفِسَاء، كَانَ اليَوْمَ بَاب.",
+     "de": "Dort, wo immer eine Wand aus Mosaik gewesen war, war heute eine Tür.",
+     "umschrift": "hunāk, ḥaythu kāna dāʾiman jidār min al-fusayfisāʾ, kāna l-yawm bāb.",
+     "audio": "audio/ar-de/geschichte/k02_11.mp3?v=243aa666"
+    },
+    {
+     "id": "k02_12",
+     "fr": "صَغِير، مِنْ خَشَبٍ دَاكِن، بِلا مِقْبَض. دَخَلَ خَالِدٌ هَذَا الجَامِعَ مِئَةَ مَرَّةٍ وَلَمْ يَرَ البَابَ أَبَدًا. لِأَنَّهُ لَمْ يَكُنْ هُنَاك.",
+     "de": "Klein, aus dunklem Holz, ohne Griff. Khalid war hundertmal in dieser Moschee gewesen und hatte die Tür nie gesehen. Weil sie nicht da war.",
+     "umschrift": "ṣaghīr, min khashab dākin, bilā miqbaḍ. dakhala Khālid hādhā l-jāmiʿ miʾat marra wa-lam yara l-bāb abadan. li-annahu lam yakun hunāk.",
+     "audio": "audio/ar-de/geschichte/k02_12.mp3?v=d8592f26"
+    },
+    {
+     "id": "k02_13",
+     "fr": "جَلَسَ القِطُّ أَمَامَ البَاب. وَلِأَوَّلِ مَرَّةٍ مَاء.",
+     "de": "Die Katze setzte sich vor die Tür. Und zum ersten Mal miaute sie.",
+     "umschrift": "jalasa l-qiṭṭ amāma l-bāb. wa-li-awwal marra māʾ.",
+     "audio": "audio/ar-de/geschichte/k02_13.mp3?v=e8b07f06"
+    },
+    {
+     "id": "k02_14",
+     "fr": "نَظَرَ خَالِدٌ إِلَى السَّاعَة. العَاشِرَةُ وَالرُّبْع. « خُذْ وَقْتَك »، قَالَ لِنَفْسِه. لَمْ يَأْخُذْه.",
+     "de": "Khalid schaute auf die Uhr. Viertel nach zehn. « Lass dir Zeit », sagte er sich. Er ließ sie sich nicht.",
+     "umschrift": "naẓara Khālid ilā s-sāʿa. al-ʿāshira wa-r-rubʿ. « khudh waqtak », qāla li-nafsih. lam yaʾkhudhh.",
+     "audio": "audio/ar-de/geschichte/k02_14.mp3?v=fd05f4cb"
+    },
+    {
+     "id": "k02_15",
+     "fr": "دَفَعَ البَاب. اِنْفَتَحَ بِلا صَوْت. وَفَجْأَةً سَكَتَ الحَمَام.",
+     "de": "Er stieß die Tür auf. Sie öffnete sich ohne ein Geräusch. Und plötzlich verstummten die Tauben.",
+     "umschrift": "dafaʿa l-bāb. infataḥa bilā ṣawt. wa-fajʾatan sakata l-ḥamām.",
+     "audio": "audio/ar-de/geschichte/k02_15.mp3?v=a2a1c042"
+    }
+   ]
+  },
+  {
+   "nr": 3,
+   "titel": "البَابُ الَّذِي لَيْسَ مَوْجُودًا",
+   "absaetze": [
+    {
+     "id": "k03_01",
+     "fr": "فِي وَسَطِ البَابِ بَلاطَةٌ صَغِيرَة: قِطٌّ أَزْرَقُ عَلَى أَرْضٍ بَيْضَاء.",
+     "de": "In der Mitte der Tür war eine kleine Kachel: eine blaue Katze auf weißem Grund.",
+     "umschrift": "fī wasaṭ al-bāb balāṭa ṣaghīra: qiṭṭ azraq ʿalā arḍ bayḍāʾ.",
+     "audio": "audio/ar-de/geschichte/k03_01.mp3?v=ea2d0705"
+    },
+    {
+     "id": "k03_02",
+     "fr": "لا لَوْحَة. لا رَقْم. فِي جَامِعٍ عُمْرُهُ أَلْفٌ وَثَلاثُمِئَةِ عَام، بَابٌ بِلا لَوْحَةٍ شَيْءٌ غَرِيبٌ أَصْلاً.",
+     "de": "Kein Schild. Keine Nummer. In einer Moschee, die dreizehnhundert Jahre alt ist, war eine Tür ohne Schild schon seltsam.",
+     "umschrift": "lā lawḥa. lā raqm. fī jāmiʿ ʿumruhu alf wa-thalāthumiʾat ʿām, bāb bilā lawḥa shayʾ gharīb aṣlan.",
+     "audio": "audio/ar-de/geschichte/k03_02.mp3?v=9a171278"
+    },
+    {
+     "id": "k03_03",
+     "fr": "خَلْفَهُ غُرْفَةٌ صَغِيرَةٌ مُسْتَدِيرَة، جُدْرَانُهَا مُغَطَّاةٌ بِالبَلاط. مِئَاتُ البَلاطَات. وَعَلَى كُلِّ وَاحِدَةٍ قِطّ.",
+     "de": "Dahinter lag ein kleiner, runder Raum, die Wände mit Kacheln bedeckt. Hunderte Kacheln. Und auf jeder eine Katze.",
+     "umschrift": "khalfahu ghurfa ṣaghīra mustadīra, judrānuhā mughaṭṭāt bil-balāṭ. miʾāt al-balāṭāt. wa-ʿalā kull wāḥida qiṭṭ.",
+     "audio": "audio/ar-de/geschichte/k03_03.mp3?v=1322d501"
+    },
+    {
+     "id": "k03_04",
+     "fr": "قِطَطٌ جَالِسَة، قِطَطٌ نَائِمَة، قِطَطٌ تَنْظُر. قِطَطٌ مِنْ قَاشَانِيِّ دِمَشْق، بِنَفْسِ وَجْهِ قِطِّ خَالِد.",
+     "de": "Sitzende Katzen, schlafende Katzen, schauende Katzen. Katzen aus Damaszener Qāschānī-Kacheln, mit demselben Gesicht wie die Katze von Khalid.",
+     "umschrift": "qiṭaṭ jālisa, qiṭaṭ nāʾima, qiṭaṭ tanẓur. qiṭaṭ min qāshānī Dimashq, bi-nafs wajh qiṭṭ Khālid.",
+     "audio": "audio/ar-de/geschichte/k03_04.mp3?v=1e1f7064"
+    },
+    {
+     "id": "k03_05",
+     "fr": "فِي وَسَطِ الغُرْفَةِ نَافِذَة. بِلا زُجَاج. وَفَوْقَ النَّافِذَةِ بَلاطَةٌ أُخْرَى: أَكْبَر، أَقْدَم، فِيهَا قِطٌّ لا يَنْظُرُ إِلَى أَحَد. كَانَ يَنْظُرُ إِلَى البَاب.",
+     "de": "In der Mitte des Raums ein Fenster. Ohne Glas. Und über dem Fenster eine andere Kachel: größer, älter, mit einer Katze, die niemanden ansah. Sie schaute zur Tür.",
+     "umschrift": "fī wasaṭ al-ghurfa nāfidha. bilā zujāj. wa-fawqa n-nāfidha balāṭa ukhrā: akbar, aqdam, fīhā qiṭṭ lā yanẓur ilā aḥad. kāna yanẓur ilā l-bāb.",
+     "audio": "audio/ar-de/geschichte/k03_05.mp3?v=16bc2af9"
+    },
+    {
+     "id": "k03_06",
+     "fr": "اِقْتَرَبَ خَالِد. كَانَ البَلاطُ بَارِدًا. كُلُّهُ إِلّا وَاحِدَة.",
+     "de": "Khalid trat näher. Die Kacheln waren kalt. Alle bis auf eine.",
+     "umschrift": "iqtaraba Khālid. kāna l-balāṭ bāridan. kulluhu illā wāḥida.",
+     "audio": "audio/ar-de/geschichte/k03_06.mp3?v=78a78724"
+    },
+    {
+     "id": "k03_07",
+     "fr": "البَلاطَةُ الكَبِيرَةُ كَانَتْ دَافِئَة. كَقِطٍّ فِي الشَّمْس.",
+     "de": "Die große Kachel war lauwarm. Wie eine Katze in der Sonne.",
+     "umschrift": "al-balāṭa l-kabīra kānat dāfiʾa. ka-qiṭṭ fī sh-shams.",
+     "audio": "audio/ar-de/geschichte/k03_07.mp3?v=6483a0fc"
+    },
+    {
+     "id": "k03_08",
+     "fr": "وَعِنْدَهَا سَمِعَه. خَافِتًا. مُنْتَظِمًا. الخَرْخَرَة.",
+     "de": "Und da hörte er es. Leise. Gleichmäßig. Das Schnurren.",
+     "umschrift": "wa-ʿindahā samiʿah. khāfitan. muntaẓiman. al-kharkhara.",
+     "audio": "audio/ar-de/geschichte/k03_08.mp3?v=5c805145"
+    },
+    {
+     "id": "k03_09",
+     "fr": "لَمْ يَتَحَرَّكْ خَالِد. وَلا القِطُّ الرَّمَادِيُّ بِجَانِبِه. كِلاهُمَا كَانَ يُصْغِي إِلَى البَلاطَةِ نَفْسِهَا.",
+     "de": "Khalid rührte sich nicht. Die graue Katze neben ihm auch nicht. Beide hörten derselben Kachel zu.",
+     "umschrift": "lam yataḥarrak Khālid. wa-lā l-qiṭṭ ar-ramādī bi-jānibih. kilāhumā kāna yuṣghī ilā l-balāṭa nafsihā.",
+     "audio": "audio/ar-de/geschichte/k03_09.mp3?v=22197bad"
+    },
+    {
+     "id": "k03_10",
+     "fr": "« هَذَا لَيْسَ فِي المُخَطَّط »، قَالَ خَالِد. كَانَ أَعْقَلَ مَا خَطَرَ لَه.",
+     "de": "« Das ist nicht auf dem Plan », sagte Khalid. Es war das Vernünftigste, was ihm einfiel.",
+     "umschrift": "« hādhā laysa fī l-mukhaṭṭaṭ », qāla Khālid. kāna aʿqal mā khaṭara lah.",
+     "audio": "audio/ar-de/geschichte/k03_10.mp3?v=4ac18131"
+    },
+    {
+     "id": "k03_11",
+     "fr": "خَلْفَهُ صَوْت. هَادِئ، عَجُوز، مَبْحُوحٌ قَلِيلاً. « لا يَا أُسْتَاذ. هَذِهِ الغُرْفَةُ لَيْسَتْ فِي أَيِّ مُخَطَّط. لِذَلِكَ مَا زَالَتْ هُنَا. »",
+     "de": "Hinter ihm eine Stimme. Ruhig, alt, ein wenig heiser. « Nein, Herr Lehrer. Dieser Raum ist auf keinem Plan. Deshalb ist er noch hier. »",
+     "umschrift": "khalfahu ṣawt. hādiʾ, ʿajūz, mabḥūḥ qalīlan. « lā yā ustādh. hādhihi l-ghurfa laysat fī ayy mukhaṭṭaṭ. li-dhālika mā zālat hunā. »",
+     "audio": "audio/ar-de/geschichte/k03_11.mp3?v=7bf259e4"
+    },
+    {
+     "id": "k03_12",
+     "fr": "اِسْتَدَارَ خَالِد. فِي البَابِ وَقَفَ رَجُلٌ بِطَرْبُوشٍ عَلَى رَأْسِهِ وَحُزْمَةِ مَفَاتِيحَ بِحَجْمِ صَحْن.",
+     "de": "Khalid fuhr herum. In der Tür stand ein Mann mit einem Tarbusch auf dem Kopf und einem Schlüsselbund, so groß wie ein Teller.",
+     "umschrift": "istadāra Khālid. fī l-bāb waqafa rajul bi-ṭarbūsh ʿalā raʾsihi wa-ḥuzmat mafātīḥ bi-ḥajm ṣaḥn.",
+     "audio": "audio/ar-de/geschichte/k03_12.mp3?v=23c5c481"
+    },
+    {
+     "id": "k03_13",
+     "fr": "« أَنَا المُؤَذِّن »، قَال. « مُنْذُ عَامِ ١٩٣٤ وَأَنَا فِي هَذَا الجَامِع. وَأَنْتَ مُتَأَخِّر. عِشْرُونَ دَقِيقَة. »",
+     "de": "« Ich bin der Muezzin », sagte er. « Seit 1934 bin ich in dieser Moschee. Und Sie sind zu spät. Zwanzig Minuten. »",
+     "umschrift": "« anā l-muʾadhdhin », qāl. « mundhu ʿām 1934 wa-anā fī hādhā l-jāmiʿ. wa-anta mutaʾakhkhir. ʿishrūn daqīqa. »",
+     "audio": "audio/ar-de/geschichte/k03_13.mp3?v=6af39e2a"
+    },
+    {
+     "id": "k03_14",
+     "fr": "حَسَبَ خَالِد. ١٩٣٤. الرَّجُلُ فِي السِّتِّينَ عَلَى الأَكْثَر. لا مَعْنَى لِهَذَا. وَمَعَ ذَلِكَ قَالَ خَالِد: « آسِف. » هَذَا مَا يَقُولُهُ المُعَلِّمُون.",
+     "de": "Khalid rechnete nach. 1934. Der Mann war höchstens sechzig. Das ergab keinen Sinn. Trotzdem sagte Khalid: « Entschuldigung. » Das sagen Lehrer.",
+     "umschrift": "ḥasaba Khālid. 1934. ar-rajul fī s-sittīn ʿalā l-akthar. lā maʿnā li-hādhā. wa-maʿa dhālika qāla Khālid: « āsif. » hādhā mā yaqūluhu l-muʿallimūn.",
+     "audio": "audio/ar-de/geschichte/k03_14.mp3?v=83a610e1"
+    },
+    {
+     "id": "k03_15",
+     "fr": "اِبْتَسَمَ المُؤَذِّن. « هُنَاكَ شَاي. القِطُّ يُرِيدُه، وَقِطُّكَ أَيْضًا. اِجْلِسْ يَا أُسْتَاذ. الحِكَايَةُ طَوِيلَة. »",
+     "de": "Der Muezzin lächelte. « Es gibt Tee. Die Katze will ihn, Ihre auch. Setzen Sie sich, Herr Lehrer. Die Geschichte ist lang. »",
+     "umschrift": "ibtasama l-muʾadhdhin. « hunāka shāy. al-qiṭṭ yurīduh, wa-qiṭṭuk ayḍan. ijlis yā ustādh. al-ḥikāya ṭawīla. »",
+     "audio": "audio/ar-de/geschichte/k03_15.mp3?v=b3cb7a0e"
+    }
+   ]
+  }
+ ],
  "grammatik": [
   {
    "id": "g_tahiyyat",
@@ -15262,6 +15763,70 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/dialoge/d0b_08.mp3?v=30118ba9",
   "audio/ar-de/dialoge/d0b_09.mp3?v=976b1695",
   "audio/ar-de/dialoge/d0b_10.mp3?v=58f9c431",
+  "audio/ar-de/dialoge/d1_01.mp3?v=c2d0c421",
+  "audio/ar-de/dialoge/d1_02.mp3?v=d2a1821e",
+  "audio/ar-de/dialoge/d1_03.mp3?v=caacdca0",
+  "audio/ar-de/dialoge/d1_04.mp3?v=cbca8238",
+  "audio/ar-de/dialoge/d1_05.mp3?v=55ac4739",
+  "audio/ar-de/dialoge/d1_06.mp3?v=358b3699",
+  "audio/ar-de/dialoge/d1_07.mp3?v=774fc557",
+  "audio/ar-de/dialoge/d1_08.mp3?v=1132b2af",
+  "audio/ar-de/dialoge/d1_09.mp3?v=eec8c85e",
+  "audio/ar-de/dialoge/d1_10.mp3?v=857cfc08",
+  "audio/ar-de/dialoge/d2_01.mp3?v=49e45d6e",
+  "audio/ar-de/dialoge/d2_02.mp3?v=19ed1dfc",
+  "audio/ar-de/dialoge/d2_03.mp3?v=d5cb918e",
+  "audio/ar-de/dialoge/d2_04.mp3?v=d9482445",
+  "audio/ar-de/dialoge/d2_05.mp3?v=331ab103",
+  "audio/ar-de/dialoge/d2_06.mp3?v=04f2b4d6",
+  "audio/ar-de/dialoge/d2_07.mp3?v=b0555bf7",
+  "audio/ar-de/dialoge/d2_08.mp3?v=55c1f4cd",
+  "audio/ar-de/dialoge/d2_09.mp3?v=41694d9d",
+  "audio/ar-de/dialoge/d2_10.mp3?v=dd397c8d",
+  "audio/ar-de/geschichte/k01_01.mp3?v=88ea3373",
+  "audio/ar-de/geschichte/k01_02.mp3?v=7acca74b",
+  "audio/ar-de/geschichte/k01_03.mp3?v=42f4181a",
+  "audio/ar-de/geschichte/k01_04.mp3?v=8118b782",
+  "audio/ar-de/geschichte/k01_05.mp3?v=3a07f42c",
+  "audio/ar-de/geschichte/k01_06.mp3?v=99c22b58",
+  "audio/ar-de/geschichte/k01_07.mp3?v=c21b2ec5",
+  "audio/ar-de/geschichte/k01_08.mp3?v=370fdc66",
+  "audio/ar-de/geschichte/k01_09.mp3?v=cedc1bc2",
+  "audio/ar-de/geschichte/k01_10.mp3?v=ed86661e",
+  "audio/ar-de/geschichte/k01_11.mp3?v=e522236c",
+  "audio/ar-de/geschichte/k01_12.mp3?v=06965fda",
+  "audio/ar-de/geschichte/k01_13.mp3?v=48ea81d0",
+  "audio/ar-de/geschichte/k01_14.mp3?v=5f95101f",
+  "audio/ar-de/geschichte/k02_01.mp3?v=f2025388",
+  "audio/ar-de/geschichte/k02_02.mp3?v=5ee45d14",
+  "audio/ar-de/geschichte/k02_03.mp3?v=b0415e9e",
+  "audio/ar-de/geschichte/k02_04.mp3?v=cdfa94b0",
+  "audio/ar-de/geschichte/k02_05.mp3?v=6608d027",
+  "audio/ar-de/geschichte/k02_06.mp3?v=f68b4030",
+  "audio/ar-de/geschichte/k02_07.mp3?v=531b9429",
+  "audio/ar-de/geschichte/k02_08.mp3?v=348c803e",
+  "audio/ar-de/geschichte/k02_09.mp3?v=9ed527db",
+  "audio/ar-de/geschichte/k02_10.mp3?v=b95a4e05",
+  "audio/ar-de/geschichte/k02_11.mp3?v=243aa666",
+  "audio/ar-de/geschichte/k02_12.mp3?v=d8592f26",
+  "audio/ar-de/geschichte/k02_13.mp3?v=e8b07f06",
+  "audio/ar-de/geschichte/k02_14.mp3?v=fd05f4cb",
+  "audio/ar-de/geschichte/k02_15.mp3?v=a2a1c042",
+  "audio/ar-de/geschichte/k03_01.mp3?v=ea2d0705",
+  "audio/ar-de/geschichte/k03_02.mp3?v=9a171278",
+  "audio/ar-de/geschichte/k03_03.mp3?v=1322d501",
+  "audio/ar-de/geschichte/k03_04.mp3?v=1e1f7064",
+  "audio/ar-de/geschichte/k03_05.mp3?v=16bc2af9",
+  "audio/ar-de/geschichte/k03_06.mp3?v=78a78724",
+  "audio/ar-de/geschichte/k03_07.mp3?v=6483a0fc",
+  "audio/ar-de/geschichte/k03_08.mp3?v=5c805145",
+  "audio/ar-de/geschichte/k03_09.mp3?v=22197bad",
+  "audio/ar-de/geschichte/k03_10.mp3?v=4ac18131",
+  "audio/ar-de/geschichte/k03_11.mp3?v=7bf259e4",
+  "audio/ar-de/geschichte/k03_12.mp3?v=23c5c481",
+  "audio/ar-de/geschichte/k03_13.mp3?v=6af39e2a",
+  "audio/ar-de/geschichte/k03_14.mp3?v=83a610e1",
+  "audio/ar-de/geschichte/k03_15.mp3?v=b3cb7a0e",
   "audio/ar-de/huruf/alif.mp3?v=c3018b70",
   "audio/ar-de/huruf/alif_w.mp3?v=ea7bf650",
   "audio/ar-de/huruf/ayn.mp3?v=887ac00f",
