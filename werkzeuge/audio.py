@@ -69,10 +69,13 @@ def vorspann_schneiden(pfad):
     out = subprocess.run(["ffmpeg", "-i", pfad, "-af", "silencedetect=noise=-35dB:d=0.12", "-f", "null", "-"], capture_output=True, text=True).stderr
     m = re.search(r"Duration: (\d+):(\d+):([\d.]+)", out)
     dauer = 60 * float(m.group(2)) + float(m.group(3))
-    enden = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", out) if float(x) < dauer - 0.25]
-    if not enden or dauer - enden[-1] > 2.8:   # Einzelwort oder kurze Wendung nach der Pause
-        raise RuntimeError(f"keine Pause vor dem Wort gefunden: {pfad} ({enden}, {dauer:.2f}s)")
-    ab = max(enden[-1] - 0.06, 0)
+    # Alle Pausen im Fenster der letzten 2,8 s; Schnitt an der längsten (die Pause am Doppelpunkt des Trägersatzes),
+    # nicht an der letzten: Verschlusslaute im Wort (« qalb », Mr. Alex 18.10.) sind kurze Stillen und wurden als Schnittstelle genommen.
+    pausen = [(float(e), float(d)) for e, d in re.findall(r"silence_end: ([\d.]+) \| silence_duration: ([\d.]+)", out) if float(e) < dauer - 0.25]
+    im_fenster = [p for p in pausen if dauer - p[0] <= 2.8]
+    if not im_fenster:   # Einzelwort oder kurze Wendung nach der Pause
+        raise RuntimeError(f"keine Pause vor dem Wort gefunden: {pfad} ({pausen}, {dauer:.2f}s)")
+    ab = max(max(im_fenster, key=lambda p: p[1])[0] - 0.06, 0)
     tmp = pfad + ".schnitt.mp3"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", pfad, "-ss", f"{ab:.3f}", "-af", "afade=t=in:d=0.02", "-c:a", "libmp3lame", "-b:a", "128k", tmp], check=True)
     os.replace(tmp, pfad)

@@ -379,8 +379,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "bāb",
       "beispiel_de": "Tür",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/alif.mp3?v=61ab17e1",
-      "audio_wort": "audio/ar-de/huruf/alif_w.mp3?v=36de8f94"
+      "audio": "audio/ar-de/huruf/alif.mp3?v=c3018b70",
+      "audio_wort": "audio/ar-de/huruf/alif_w.mp3?v=ea7bf650"
      },
      {
       "id": "ba",
@@ -393,8 +393,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "bayt",
       "beispiel_de": "Haus",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/ba.mp3?v=efa07520",
-      "audio_wort": "audio/ar-de/huruf/ba_w.mp3?v=6868201f"
+      "audio": "audio/ar-de/huruf/ba.mp3?v=1b8ca774",
+      "audio_wort": "audio/ar-de/huruf/ba_w.mp3?v=506dc45b"
      },
      {
       "id": "ta",
@@ -407,8 +407,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "tuffāḥ",
       "beispiel_de": "Apfel",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/ta.mp3?v=512326e9",
-      "audio_wort": "audio/ar-de/huruf/ta_w.mp3?v=66064e8e"
+      "audio": "audio/ar-de/huruf/ta.mp3?v=ad1fa7fd",
+      "audio_wort": "audio/ar-de/huruf/ta_w.mp3?v=a0d690d5"
      },
      {
       "id": "tha",
@@ -421,8 +421,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "thalātha",
       "beispiel_de": "drei",
       "syrien": "In Syrien meist t oder s: tlāte.",
-      "audio": "audio/ar-de/huruf/tha.mp3?v=03ad4900",
-      "audio_wort": "audio/ar-de/huruf/tha_w.mp3?v=ba78cb5e"
+      "audio": "audio/ar-de/huruf/tha.mp3?v=49254c63",
+      "audio_wort": "audio/ar-de/huruf/tha_w.mp3?v=24258ac2"
      },
      {
       "id": "nun",
@@ -435,8 +435,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "nahr",
       "beispiel_de": "Fluss",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/nun.mp3?v=db9bb5fc",
-      "audio_wort": "audio/ar-de/huruf/nun_w.mp3?v=dc673ccd"
+      "audio": "audio/ar-de/huruf/nun.mp3?v=d32f9ee2",
+      "audio_wort": "audio/ar-de/huruf/nun_w.mp3?v=3cd36c35"
      },
      {
       "id": "ya",
@@ -449,8 +449,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "yad",
       "beispiel_de": "Hand",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/ya.mp3?v=2f1b38cd",
-      "audio_wort": "audio/ar-de/huruf/ya_w.mp3?v=a58837df"
+      "audio": "audio/ar-de/huruf/ya.mp3?v=9fd514c2",
+      "audio_wort": "audio/ar-de/huruf/ya_w.mp3?v=ceedd9ea"
      }
     ]
    },
@@ -470,8 +470,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "jamal",
       "beispiel_de": "Kamel",
       "syrien": "In Syrien weiches ž wie in « Journal »: žamal.",
-      "audio": "audio/ar-de/huruf/jim.mp3?v=5d4bfeef",
-      "audio_wort": "audio/ar-de/huruf/jim_w.mp3?v=73fcf3ef"
+      "audio": "audio/ar-de/huruf/jim.mp3?v=c1283e51",
+      "audio_wort": "audio/ar-de/huruf/jim_w.mp3?v=1a03cddd"
      },
      {
       "id": "hha",
@@ -484,8 +484,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "ḥubb",
       "beispiel_de": "Liebe",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/hha.mp3?v=76130a3a",
-      "audio_wort": "audio/ar-de/huruf/hha_w.mp3?v=0f5813d1"
+      "audio": "audio/ar-de/huruf/hha.mp3?v=6357075d",
+      "audio_wort": "audio/ar-de/huruf/hha_w.mp3?v=0a0e29ff"
      },
      {
       "id": "kha",
@@ -498,8 +498,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "khubz",
       "beispiel_de": "Brot",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/kha.mp3?v=e97d1a8c",
-      "audio_wort": "audio/ar-de/huruf/kha_w.mp3?v=a34ea863"
+      "audio": "audio/ar-de/huruf/kha.mp3?v=4a5963ce",
+      "audio_wort": "audio/ar-de/huruf/kha_w.mp3?v=d7ef132a"
      }
     ]
    },
@@ -519,8 +519,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "dars",
       "beispiel_de": "Unterricht",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/dal.mp3?v=c6de9d0c",
-      "audio_wort": "audio/ar-de/huruf/dal_w.mp3?v=80ad8ef1"
+      "audio": "audio/ar-de/huruf/dal.mp3?v=faaee271",
+      "audio_wort": "audio/ar-de/huruf/dal_w.mp3?v=2ea38881"
      },
      {
       "id": "dhal",
@@ -533,8 +533,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "dhahab",
       "beispiel_de": "Gold",
       "syrien": "In Syrien d oder z: dahab.",
-      "audio": "audio/ar-de/huruf/dhal.mp3?v=39f4dfb6",
-      "audio_wort": "audio/ar-de/huruf/dhal_w.mp3?v=bb04dd71"
+      "audio": "audio/ar-de/huruf/dhal.mp3?v=d8f6eca2",
+      "audio_wort": "audio/ar-de/huruf/dhal_w.mp3?v=dfbeef04"
      },
      {
       "id": "ra",
@@ -547,8 +547,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "rajul",
       "beispiel_de": "Mann",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/ra.mp3?v=b2a68a87",
-      "audio_wort": "audio/ar-de/huruf/ra_w.mp3?v=24d5c0bc"
+      "audio": "audio/ar-de/huruf/ra.mp3?v=a6f47109",
+      "audio_wort": "audio/ar-de/huruf/ra_w.mp3?v=295dc7fc"
      },
      {
       "id": "zay",
@@ -561,8 +561,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "zayt",
       "beispiel_de": "Öl",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/zay.mp3?v=717c32ca",
-      "audio_wort": "audio/ar-de/huruf/zay_w.mp3?v=7d6c8d8e"
+      "audio": "audio/ar-de/huruf/zay.mp3?v=50b6208d",
+      "audio_wort": "audio/ar-de/huruf/zay_w.mp3?v=2ab312a1"
      },
      {
       "id": "waw",
@@ -575,8 +575,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "ward",
       "beispiel_de": "Rosen",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/waw.mp3?v=b6baf1bb",
-      "audio_wort": "audio/ar-de/huruf/waw_w.mp3?v=60a4978e"
+      "audio": "audio/ar-de/huruf/waw.mp3?v=b623fcb8",
+      "audio_wort": "audio/ar-de/huruf/waw_w.mp3?v=3771a6b4"
      }
     ]
    },
@@ -596,8 +596,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "samak",
       "beispiel_de": "Fisch",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/sin.mp3?v=348fea31",
-      "audio_wort": "audio/ar-de/huruf/sin_w.mp3?v=bb993a72"
+      "audio": "audio/ar-de/huruf/sin.mp3?v=534aaa1e",
+      "audio_wort": "audio/ar-de/huruf/sin_w.mp3?v=7fce5aa3"
      },
      {
       "id": "shin",
@@ -610,8 +610,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "shams",
       "beispiel_de": "Sonne",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/shin.mp3?v=445791cb",
-      "audio_wort": "audio/ar-de/huruf/shin_w.mp3?v=a0c9b8c5"
+      "audio": "audio/ar-de/huruf/shin.mp3?v=6ebdd687",
+      "audio_wort": "audio/ar-de/huruf/shin_w.mp3?v=349487e0"
      },
      {
       "id": "sad",
@@ -624,8 +624,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "ṣabāḥ",
       "beispiel_de": "Morgen",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/sad.mp3?v=adbaa697",
-      "audio_wort": "audio/ar-de/huruf/sad_w.mp3?v=60923b62"
+      "audio": "audio/ar-de/huruf/sad.mp3?v=8dae15d1",
+      "audio_wort": "audio/ar-de/huruf/sad_w.mp3?v=05066aaa"
      },
      {
       "id": "dad",
@@ -638,8 +638,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "ḍayf",
       "beispiel_de": "Gast",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/dad.mp3?v=aa37777b",
-      "audio_wort": "audio/ar-de/huruf/dad_w.mp3?v=d75de6a2"
+      "audio": "audio/ar-de/huruf/dad.mp3?v=d0bcb43e",
+      "audio_wort": "audio/ar-de/huruf/dad_w.mp3?v=c30707ef"
      }
     ]
    },
@@ -659,8 +659,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "ṭālib",
       "beispiel_de": "Student",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/tta.mp3?v=9f50f9e6",
-      "audio_wort": "audio/ar-de/huruf/tta_w.mp3?v=13a1c8ca"
+      "audio": "audio/ar-de/huruf/tta.mp3?v=6fe5f56e",
+      "audio_wort": "audio/ar-de/huruf/tta_w.mp3?v=5ee79c98"
      },
      {
       "id": "zza",
@@ -673,8 +673,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "ẓuhr",
       "beispiel_de": "Mittag",
       "syrien": "In Syrien z oder ḍ: ḍuhr.",
-      "audio": "audio/ar-de/huruf/zza.mp3?v=d05206e4",
-      "audio_wort": "audio/ar-de/huruf/zza_w.mp3?v=f4a69da0"
+      "audio": "audio/ar-de/huruf/zza.mp3?v=7e8aa380",
+      "audio_wort": "audio/ar-de/huruf/zza_w.mp3?v=820a7279"
      },
      {
       "id": "ayn",
@@ -687,8 +687,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "ʿayn",
       "beispiel_de": "Auge",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/ayn.mp3?v=0d8b45ed",
-      "audio_wort": "audio/ar-de/huruf/ayn_w.mp3?v=0e7982fe"
+      "audio": "audio/ar-de/huruf/ayn.mp3?v=887ac00f",
+      "audio_wort": "audio/ar-de/huruf/ayn_w.mp3?v=13a9a0d2"
      },
      {
       "id": "ghayn",
@@ -701,8 +701,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "ghurfa",
       "beispiel_de": "Zimmer",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/ghayn.mp3?v=8340e5b4",
-      "audio_wort": "audio/ar-de/huruf/ghayn_w.mp3?v=7ebdff69"
+      "audio": "audio/ar-de/huruf/ghayn.mp3?v=6a9e4395",
+      "audio_wort": "audio/ar-de/huruf/ghayn_w.mp3?v=f6a358de"
      }
     ]
    },
@@ -722,8 +722,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "fīl",
       "beispiel_de": "Elefant",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/fa.mp3?v=72807c80",
-      "audio_wort": "audio/ar-de/huruf/fa_w.mp3?v=28eb870e"
+      "audio": "audio/ar-de/huruf/fa.mp3?v=c906f27f",
+      "audio_wort": "audio/ar-de/huruf/fa_w.mp3?v=5bc53c73"
      },
      {
       "id": "qaf",
@@ -736,8 +736,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "qalb",
       "beispiel_de": "Herz",
       "syrien": "In Syrien ein Stimmabsatz: ʾalb.",
-      "audio": "audio/ar-de/huruf/qaf.mp3?v=a51d14fc",
-      "audio_wort": "audio/ar-de/huruf/qaf_w.mp3?v=b15c1642"
+      "audio": "audio/ar-de/huruf/qaf.mp3?v=d6ee25af",
+      "audio_wort": "audio/ar-de/huruf/qaf_w.mp3?v=72e80c71"
      },
      {
       "id": "kaf",
@@ -750,8 +750,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "kitāb",
       "beispiel_de": "Buch",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/kaf.mp3?v=b50d8b10",
-      "audio_wort": "audio/ar-de/huruf/kaf_w.mp3?v=d4cbb062"
+      "audio": "audio/ar-de/huruf/kaf.mp3?v=32b3adb9",
+      "audio_wort": "audio/ar-de/huruf/kaf_w.mp3?v=a6fdf7f5"
      },
      {
       "id": "lam",
@@ -764,8 +764,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "layl",
       "beispiel_de": "Nacht",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/lam.mp3?v=004eaa8d",
-      "audio_wort": "audio/ar-de/huruf/lam_w.mp3?v=69853178"
+      "audio": "audio/ar-de/huruf/lam.mp3?v=23f02820",
+      "audio_wort": "audio/ar-de/huruf/lam_w.mp3?v=ba2a2521"
      },
      {
       "id": "mim",
@@ -778,8 +778,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "māʾ",
       "beispiel_de": "Wasser",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/mim.mp3?v=e7175f4f",
-      "audio_wort": "audio/ar-de/huruf/mim_w.mp3?v=3cbdd335"
+      "audio": "audio/ar-de/huruf/mim.mp3?v=ff2f288d",
+      "audio_wort": "audio/ar-de/huruf/mim_w.mp3?v=fc0aeca5"
      },
      {
       "id": "ha",
@@ -792,8 +792,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "hilāl",
       "beispiel_de": "Halbmond",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/ha.mp3?v=f712c5fa",
-      "audio_wort": "audio/ar-de/huruf/ha_w.mp3?v=8f317ad3"
+      "audio": "audio/ar-de/huruf/ha.mp3?v=38a49d84",
+      "audio_wort": "audio/ar-de/huruf/ha_w.mp3?v=eb76b2c6"
      },
      {
       "id": "hamza",
@@ -806,8 +806,8 @@ window.SPRACHEN["ar-de"] = {
       "beispiel_u": "asad",
       "beispiel_de": "Löwe",
       "syrien": null,
-      "audio": "audio/ar-de/huruf/hamza.mp3?v=d42c50cc",
-      "audio_wort": "audio/ar-de/huruf/hamza_w.mp3?v=1a91298a"
+      "audio": "audio/ar-de/huruf/hamza.mp3?v=763d80d3",
+      "audio_wort": "audio/ar-de/huruf/hamza_w.mp3?v=cb4ce943"
      }
     ]
    }
@@ -1286,64 +1286,64 @@ window.SPRACHEN["ar-de"] = {
   ]
  },
  "audio_liste": [
-  "audio/ar-de/huruf/alif.mp3?v=61ab17e1",
-  "audio/ar-de/huruf/alif_w.mp3?v=36de8f94",
-  "audio/ar-de/huruf/ayn.mp3?v=0d8b45ed",
-  "audio/ar-de/huruf/ayn_w.mp3?v=0e7982fe",
-  "audio/ar-de/huruf/ba.mp3?v=efa07520",
-  "audio/ar-de/huruf/ba_w.mp3?v=6868201f",
-  "audio/ar-de/huruf/dad.mp3?v=aa37777b",
-  "audio/ar-de/huruf/dad_w.mp3?v=d75de6a2",
-  "audio/ar-de/huruf/dal.mp3?v=c6de9d0c",
-  "audio/ar-de/huruf/dal_w.mp3?v=80ad8ef1",
-  "audio/ar-de/huruf/dhal.mp3?v=39f4dfb6",
-  "audio/ar-de/huruf/dhal_w.mp3?v=bb04dd71",
-  "audio/ar-de/huruf/fa.mp3?v=72807c80",
-  "audio/ar-de/huruf/fa_w.mp3?v=28eb870e",
-  "audio/ar-de/huruf/ghayn.mp3?v=8340e5b4",
-  "audio/ar-de/huruf/ghayn_w.mp3?v=7ebdff69",
-  "audio/ar-de/huruf/ha.mp3?v=f712c5fa",
-  "audio/ar-de/huruf/ha_w.mp3?v=8f317ad3",
-  "audio/ar-de/huruf/hamza.mp3?v=d42c50cc",
-  "audio/ar-de/huruf/hamza_w.mp3?v=1a91298a",
-  "audio/ar-de/huruf/hha.mp3?v=76130a3a",
-  "audio/ar-de/huruf/hha_w.mp3?v=0f5813d1",
-  "audio/ar-de/huruf/jim.mp3?v=5d4bfeef",
-  "audio/ar-de/huruf/jim_w.mp3?v=73fcf3ef",
-  "audio/ar-de/huruf/kaf.mp3?v=b50d8b10",
-  "audio/ar-de/huruf/kaf_w.mp3?v=d4cbb062",
-  "audio/ar-de/huruf/kha.mp3?v=e97d1a8c",
-  "audio/ar-de/huruf/kha_w.mp3?v=a34ea863",
-  "audio/ar-de/huruf/lam.mp3?v=004eaa8d",
-  "audio/ar-de/huruf/lam_w.mp3?v=69853178",
-  "audio/ar-de/huruf/mim.mp3?v=e7175f4f",
-  "audio/ar-de/huruf/mim_w.mp3?v=3cbdd335",
-  "audio/ar-de/huruf/nun.mp3?v=db9bb5fc",
-  "audio/ar-de/huruf/nun_w.mp3?v=dc673ccd",
-  "audio/ar-de/huruf/qaf.mp3?v=a51d14fc",
-  "audio/ar-de/huruf/qaf_w.mp3?v=b15c1642",
-  "audio/ar-de/huruf/ra.mp3?v=b2a68a87",
-  "audio/ar-de/huruf/ra_w.mp3?v=24d5c0bc",
-  "audio/ar-de/huruf/sad.mp3?v=adbaa697",
-  "audio/ar-de/huruf/sad_w.mp3?v=60923b62",
-  "audio/ar-de/huruf/shin.mp3?v=445791cb",
-  "audio/ar-de/huruf/shin_w.mp3?v=a0c9b8c5",
-  "audio/ar-de/huruf/sin.mp3?v=348fea31",
-  "audio/ar-de/huruf/sin_w.mp3?v=bb993a72",
-  "audio/ar-de/huruf/ta.mp3?v=512326e9",
-  "audio/ar-de/huruf/ta_w.mp3?v=66064e8e",
-  "audio/ar-de/huruf/tha.mp3?v=03ad4900",
-  "audio/ar-de/huruf/tha_w.mp3?v=ba78cb5e",
-  "audio/ar-de/huruf/tta.mp3?v=9f50f9e6",
-  "audio/ar-de/huruf/tta_w.mp3?v=13a1c8ca",
-  "audio/ar-de/huruf/waw.mp3?v=b6baf1bb",
-  "audio/ar-de/huruf/waw_w.mp3?v=60a4978e",
-  "audio/ar-de/huruf/ya.mp3?v=2f1b38cd",
-  "audio/ar-de/huruf/ya_w.mp3?v=a58837df",
-  "audio/ar-de/huruf/zay.mp3?v=717c32ca",
-  "audio/ar-de/huruf/zay_w.mp3?v=7d6c8d8e",
-  "audio/ar-de/huruf/zza.mp3?v=d05206e4",
-  "audio/ar-de/huruf/zza_w.mp3?v=f4a69da0",
+  "audio/ar-de/huruf/alif.mp3?v=c3018b70",
+  "audio/ar-de/huruf/alif_w.mp3?v=ea7bf650",
+  "audio/ar-de/huruf/ayn.mp3?v=887ac00f",
+  "audio/ar-de/huruf/ayn_w.mp3?v=13a9a0d2",
+  "audio/ar-de/huruf/ba.mp3?v=1b8ca774",
+  "audio/ar-de/huruf/ba_w.mp3?v=506dc45b",
+  "audio/ar-de/huruf/dad.mp3?v=d0bcb43e",
+  "audio/ar-de/huruf/dad_w.mp3?v=c30707ef",
+  "audio/ar-de/huruf/dal.mp3?v=faaee271",
+  "audio/ar-de/huruf/dal_w.mp3?v=2ea38881",
+  "audio/ar-de/huruf/dhal.mp3?v=d8f6eca2",
+  "audio/ar-de/huruf/dhal_w.mp3?v=dfbeef04",
+  "audio/ar-de/huruf/fa.mp3?v=c906f27f",
+  "audio/ar-de/huruf/fa_w.mp3?v=5bc53c73",
+  "audio/ar-de/huruf/ghayn.mp3?v=6a9e4395",
+  "audio/ar-de/huruf/ghayn_w.mp3?v=f6a358de",
+  "audio/ar-de/huruf/ha.mp3?v=38a49d84",
+  "audio/ar-de/huruf/ha_w.mp3?v=eb76b2c6",
+  "audio/ar-de/huruf/hamza.mp3?v=763d80d3",
+  "audio/ar-de/huruf/hamza_w.mp3?v=cb4ce943",
+  "audio/ar-de/huruf/hha.mp3?v=6357075d",
+  "audio/ar-de/huruf/hha_w.mp3?v=0a0e29ff",
+  "audio/ar-de/huruf/jim.mp3?v=c1283e51",
+  "audio/ar-de/huruf/jim_w.mp3?v=1a03cddd",
+  "audio/ar-de/huruf/kaf.mp3?v=32b3adb9",
+  "audio/ar-de/huruf/kaf_w.mp3?v=a6fdf7f5",
+  "audio/ar-de/huruf/kha.mp3?v=4a5963ce",
+  "audio/ar-de/huruf/kha_w.mp3?v=d7ef132a",
+  "audio/ar-de/huruf/lam.mp3?v=23f02820",
+  "audio/ar-de/huruf/lam_w.mp3?v=ba2a2521",
+  "audio/ar-de/huruf/mim.mp3?v=ff2f288d",
+  "audio/ar-de/huruf/mim_w.mp3?v=fc0aeca5",
+  "audio/ar-de/huruf/nun.mp3?v=d32f9ee2",
+  "audio/ar-de/huruf/nun_w.mp3?v=3cd36c35",
+  "audio/ar-de/huruf/qaf.mp3?v=d6ee25af",
+  "audio/ar-de/huruf/qaf_w.mp3?v=72e80c71",
+  "audio/ar-de/huruf/ra.mp3?v=a6f47109",
+  "audio/ar-de/huruf/ra_w.mp3?v=295dc7fc",
+  "audio/ar-de/huruf/sad.mp3?v=8dae15d1",
+  "audio/ar-de/huruf/sad_w.mp3?v=05066aaa",
+  "audio/ar-de/huruf/shin.mp3?v=6ebdd687",
+  "audio/ar-de/huruf/shin_w.mp3?v=349487e0",
+  "audio/ar-de/huruf/sin.mp3?v=534aaa1e",
+  "audio/ar-de/huruf/sin_w.mp3?v=7fce5aa3",
+  "audio/ar-de/huruf/ta.mp3?v=ad1fa7fd",
+  "audio/ar-de/huruf/ta_w.mp3?v=a0d690d5",
+  "audio/ar-de/huruf/tha.mp3?v=49254c63",
+  "audio/ar-de/huruf/tha_w.mp3?v=24258ac2",
+  "audio/ar-de/huruf/tta.mp3?v=6fe5f56e",
+  "audio/ar-de/huruf/tta_w.mp3?v=5ee79c98",
+  "audio/ar-de/huruf/waw.mp3?v=b623fcb8",
+  "audio/ar-de/huruf/waw_w.mp3?v=3771a6b4",
+  "audio/ar-de/huruf/ya.mp3?v=9fd514c2",
+  "audio/ar-de/huruf/ya_w.mp3?v=ceedd9ea",
+  "audio/ar-de/huruf/zay.mp3?v=50b6208d",
+  "audio/ar-de/huruf/zay_w.mp3?v=2ab312a1",
+  "audio/ar-de/huruf/zza.mp3?v=7e8aa380",
+  "audio/ar-de/huruf/zza_w.mp3?v=820a7279",
   "audio/ar-de/lob/fehler_hawil.mp3?v=b478c260",
   "audio/ar-de/lob/fehler_labas.mp3?v=d2a8bf47",
   "audio/ar-de/lob/fehler_marra.mp3?v=1af3a9de",
