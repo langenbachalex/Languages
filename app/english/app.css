@@ -203,3 +203,14 @@
 .knopf.chip.falsch { opacity: .45; text-decoration: line-through; }
 .gram-meldung { text-align: center; min-height: 1.4em; font-weight: 600; margin: 4px 0; }
 .gram-texte .satz { margin: 6px 0; }
+
+/* Arabisch: Rechts-nach-links, Umschrift, Wurzel, syrische Variante */
+[lang="ar"] { direction: rtl; unicode-bidi: isolate; font-size: 1.2em; line-height: 1.7; font-family: "Noto Naskh Arabic", "Geeza Pro", "Segoe UI", system-ui, sans-serif; }
+.umschrift { margin: 0 0 4px; color: var(--leise); font-style: italic; font-size: 1rem; direction: ltr; }
+.umschrift.klein { font-size: .9rem; }
+.wurzel { display: inline-block; margin-inline-start: 8px; padding: 1px 8px; border-radius: 999px; font-size: .75em; letter-spacing: .15em; background: var(--gelb-hell, #fff3c4); color: inherit; vertical-align: middle; }
+.syrisch { margin-top: 8px; padding: 8px 10px; border-radius: 10px; background: var(--gruen-hell, #e3f5ea); }
+.syrisch .sprache { display: block; margin-bottom: 2px; }
+.syrisch .syrisch-text { margin: 0; font-weight: 600; }
+.syrisch .klein-knopf { margin-top: 4px; }
+.wahl-knopf small.umschrift { display: block; font-style: italic; }

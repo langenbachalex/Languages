@@ -66,6 +66,12 @@ def audio_pruefer(P):
     return audio
 
 
+def aussprache_module(P):
+    """P.AUSSPRACHE: None, ein Modul (dict) oder eine Liste von Modulen."""
+    A = getattr(P, "AUSSPRACHE", None)
+    return [] if not A else (A if isinstance(A, list) else [A])
+
+
 def daten_fuer(P):
     paar, inhalte, audio = P.PAAR, os.path.join(BASIS, "inhalte", P.PAAR), audio_pruefer(P)
     wendungen, themen = [], []
@@ -76,14 +82,18 @@ def daten_fuer(P):
             assert wid not in [w["id"] for w in wendungen], f"{paar} doppelte ID {wid}"
             assert z["luecke"] in z["satz_fr"], f"{paar} {wid}: Lücke „{z['luecke']}“ steht nicht im Satz"
             assert bool(z["passe_compose"]) == bool(z["futur_proche"]), f"{paar} {wid}: Zeitmaschine braucht beide Zeiten"
+            leer = lambda k: (z.get(k) or "").strip() or None
             w = {"id": wid, "thema": t["id"], "fr": z["wendung"], "de": z["deutsch"], "register": z["register"] or "tu",
-                 "anker": z["anker"], "notiz": (z.get("notiz") or "").strip() or None, "audio": audio(f"wendungen/{wid}.mp3"),
-                 "gloss": (z.get("gloss_w") or "").strip() or None,   # Interlinear-Glosse der Wendung (Türkisch)
-                 "satz": {"fr": z["satz_fr"], "de": z["satz_de"], "luecke": z["luecke"], "gloss": (z.get("gloss") or "").strip() or None, "audio": audio(f"saetze/{wid}.mp3")},
-                 "zeit": None}
+                 "anker": z["anker"], "notiz": leer("notiz"), "audio": audio(f"wendungen/{wid}.mp3"),
+                 "gloss": leer("gloss_w"),   # Interlinear-Glosse der Wendung (Türkisch, Arabisch)
+                 "umschrift": leer("umschrift_w"), "wurzel": leer("wurzel"),   # Arabisch: Umschrift und Wurzel (ك-ت-ب)
+                 "satz": {"fr": z["satz_fr"], "de": z["satz_de"], "luecke": z["luecke"], "gloss": leer("gloss"), "umschrift": leer("umschrift"), "audio": audio(f"saetze/{wid}.mp3")},
+                 "zeit": None, "syrisch": None}
+            if leer("syrisch"):   # Arabisch: die syrische Variante der Wendung (Knopf « Şām », syrische Stimme)
+                w["syrisch"] = {"fr": z["syrisch"], "umschrift": leer("syrisch_u"), "audio": audio(f"syrisch/{wid}.mp3")}
             if z["passe_compose"]:
-                w["zeit"] = {"pc": {"fr": z["passe_compose"], "audio": audio(f"saetze/{wid}_pc.mp3")},
-                             "fp": {"fr": z["futur_proche"], "audio": audio(f"saetze/{wid}_fp.mp3")}}
+                w["zeit"] = {"pc": {"fr": z["passe_compose"], "umschrift": leer("umschrift_pc"), "audio": audio(f"saetze/{wid}_pc.mp3")},
+                             "fp": {"fr": z["futur_proche"], "umschrift": leer("umschrift_fp"), "audio": audio(f"saetze/{wid}_fp.mp3")}}
             wendungen.append(w)
             ids.append(wid)
         themen.append({"id": t["id"], "name": t["name"], "de": t["de"], "symbol": t["symbol"], "wendungen": ids})
@@ -91,43 +101,49 @@ def daten_fuer(P):
     for z in tsv(inhalte, "dialoge.tsv"):
         if not dialoge or dialoge[-1]["id"] != z["dialog"]:
             dialoge.append({"id": z["dialog"], "titel": z["titel"], "ort": z["ort"], "zeilen": []})
-        dialoge[-1]["zeilen"].append({"id": z["id"], "rolle": z["rolle"], "fr": z["fr"], "de": z["de"], "audio": audio(f"dialoge/{z['id']}.mp3")})
-    # Aussprache: Laute, Minimalpaare, beide Laute in einem Wort (Markup {laut|buchstaben})
-    A = P.AUSSPRACHE or {"id": "", "symbol": "", "titel": "", "unter": "", "klaenge": {}, "reihe": [], "paare": [], "beide_name": "", "texte": {}}
-    aussprache = {"id": A["id"], "symbol": A["symbol"], "titel": A["titel"], "unter": A["unter"], "info": A["klaenge"], "reihe": A["reihe"],
-                  "paare_gruppen": A["paare"], "beide_name": A["beide_name"], "texte": A["texte"], "klaenge": {}, "paare": [], "beide": []}
-    zeilen = tsv(inhalte, A["datei"]) if P.AUSSPRACHE else []
-    for z in zeilen:
-        eintrag = {"id": z["id"], "wort": rein(z["wort"]), "de": z["de"], "klang": z["klang"], "audio": audio(f"{A['id']}/{z['id']}.mp3")}
-        if z["teil"] == "klang":
-            aussprache["klaenge"].setdefault(z["klang"], []).append(eintrag)
-        elif z["teil"] == "paar" and z["id"].endswith("a"):
-            b = next(x for x in zeilen if x["id"] == z["partner"])
-            eintrag["gruppe"] = z["id"].split("_")[0]
-            eintrag["b"] = {"id": b["id"], "wort": rein(b["wort"]), "de": b["de"], "klang": b["klang"], "audio": audio(f"{A['id']}/{b['id']}.mp3")}
-            aussprache["paare"].append(eintrag)
-        elif z["teil"] == "beide":
-            eintrag["markup"] = z["wort"]; eintrag["klaenge"] = z["klang"].split(",")
-            aussprache["beide"].append(eintrag)
+        dialoge[-1]["zeilen"].append({"id": z["id"], "rolle": z["rolle"], "fr": z["fr"], "de": z["de"], "umschrift": (z.get("umschrift") or "").strip() or None, "audio": audio(f"dialoge/{z['id']}.mp3")})
+    # Aussprache: ein Modul (Französisch, Spanisch) oder mehrere (Arabisch) – Laute, Minimalpaare, beide Laute in einem Wort (Markup {laut|buchstaben})
+    aussprachen = []
+    for A in aussprache_module(P):
+        modul = {"id": A["id"], "symbol": A["symbol"], "titel": A["titel"], "unter": A["unter"], "info": A["klaenge"], "reihe": A["reihe"],
+                 "paare_gruppen": A["paare"], "beide_name": A["beide_name"], "texte": A["texte"], "klaenge": {}, "paare": [], "beide": []}
+        zeilen = tsv(inhalte, A["datei"])
+        def wort(z):
+            return {"id": z["id"], "wort": rein(z["wort"]), "de": z["de"], "klang": z["klang"], "umschrift": (z.get("umschrift") or "").strip() or None,
+                    "syrien": (z.get("syrien") or "").strip() or None, "audio": audio(f"{A['id']}/{z['id']}.mp3")}
+        for z in zeilen:
+            eintrag = wort(z)
+            if z["teil"] == "klang":
+                modul["klaenge"].setdefault(z["klang"], []).append(eintrag)
+            elif z["teil"] == "paar" and z["id"].endswith("a"):
+                b = next(x for x in zeilen if x["id"] == z["partner"])
+                eintrag["gruppe"] = z["id"].split("_")[0]
+                eintrag["b"] = wort(b)
+                modul["paare"].append(eintrag)
+            elif z["teil"] == "beide":
+                eintrag["markup"] = z["wort"]; eintrag["klaenge"] = z["klang"].split(",")
+                modul["beide"].append(eintrag)
+        aussprachen.append(modul)
+    aussprache = aussprachen[0] if aussprachen else {"id": "", "symbol": "", "titel": "", "unter": "", "info": {}, "reihe": [], "paare_gruppen": [], "beide_name": "", "texte": {}, "klaenge": {}, "paare": [], "beide": []}
     geschichte = []
     for z in tsv(inhalte, "geschichte.tsv"):
         if not geschichte or geschichte[-1]["nr"] != int(z["kapitel"]):
             geschichte.append({"nr": int(z["kapitel"]), "titel": z["titel"], "absaetze": []})
         aid = f"k{int(z['kapitel']):02d}_{int(z['nr']):02d}"
-        geschichte[-1]["absaetze"].append({"id": aid, "fr": z["fr"], "de": z["de"], "audio": audio(f"geschichte/{aid}.mp3")})
+        geschichte[-1]["absaetze"].append({"id": aid, "fr": z["fr"], "de": z["de"], "umschrift": (z.get("umschrift") or "").strip() or None, "audio": audio(f"geschichte/{aid}.mp3")})
     # Grammatik-Lektionen (Türkisch): eine pro Thema, Beispiele sind bereits aufgenommene Sätze (Wendung, Dialogzeile oder Absatz der Geschichte)
     def quelle(qid):
         w = next((w for w in wendungen if w["id"] == qid), None)
         if w:
-            return {"fr": w["satz"]["fr"], "de": w["satz"]["de"], "gloss": w["satz"]["gloss"], "audio": w["satz"]["audio"]}
+            return {"fr": w["satz"]["fr"], "de": w["satz"]["de"], "gloss": w["satz"]["gloss"], "umschrift": w["satz"]["umschrift"], "audio": w["satz"]["audio"]}
         for d in dialoge:
             for z in d["zeilen"]:
                 if z["id"] == qid:
-                    return {"fr": z["fr"], "de": z["de"], "gloss": None, "audio": z["audio"]}
+                    return {"fr": z["fr"], "de": z["de"], "gloss": None, "umschrift": z["umschrift"], "audio": z["audio"]}
         for k in geschichte:
             for a in k["absaetze"]:
                 if a["id"] == qid:
-                    return {"fr": a["fr"].replace("**", ""), "de": a["de"], "gloss": None, "audio": a["audio"]}
+                    return {"fr": a["fr"].replace("**", ""), "de": a["de"], "gloss": None, "umschrift": a["umschrift"], "audio": a["audio"]}
         raise KeyError(f"{paar} Grammatik: Satz {qid} unbekannt")
     grammatik = []
     for z in (tsv(inhalte, "dilbilgisi.tsv") if os.path.exists(os.path.join(inhalte, "dilbilgisi.tsv")) else []):
@@ -167,7 +183,7 @@ def daten_fuer(P):
     return {"paar": paar, "name": P.NAME, "kurz": P.KURZ, "hilfe_kurz": P.HILFE_KURZ, "flagge": P.FLAGGE, "lang": P.LANG, "lang_hilfe": P.LANG_HILFE,
             "sprachausgabe": P.SPRACHAUSGABE, "tempo": getattr(P, "TEMPO", None), "audio_speicher": f"{ausgabe_von(P)['praefix']}-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
             "ui": P.UI, "themen": themen, "wendungen": wendungen, "dialoge": dialoge, "rollen": P.ROLLEN, "dialoge_titel": P.DIALOGE_TITEL,
-            "aussprache": aussprache, "geschichte": geschichte, "grammatik": grammatik, "geschichte_info": P.GESCHICHTE, "lob": lob,
+            "aussprache": aussprache, "aussprachen": aussprachen, "geschichte": geschichte, "grammatik": grammatik, "geschichte_info": P.GESCHICHTE, "lob": lob,
             "pensum": PENSUM, "intervalle": INTERVALLE, "spiel": spiel}
 
 

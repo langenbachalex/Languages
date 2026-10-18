@@ -54,7 +54,7 @@
   const uf = (key, v) => frde(f(U[key][0], v), f(U[key][1], v));
   const ufp = (key, v) => frde(f(U[key][0], v), f(U[key][1], v), "p");
   function setzeSprache(paar, start = true) {
-    D = PAKETE[paar]; U = D.ui; SP = D.spiel; S = sprachStand(paar); A = D.aussprache;
+    D = PAKETE[paar]; U = D.ui; SP = D.spiel; S = sprachStand(paar); A = (D.aussprachen || [D.aussprache])[0];
     PENSUM = D.pensum; INTERVALLE = D.intervalle;
     WENDUNG = Object.fromEntries(D.wendungen.map((w) => [w.id, w]));
     REIHENFOLGE = Object.fromEntries(D.wendungen.map((w, i) => [w.id, i]));
@@ -238,7 +238,18 @@
   const karte = (zaehlerText, ...inhalt) =>
     el("section", { class: "satzkarte" }, zaehlerText && el("p", { class: "zaehler" }, zaehlerText), ...inhalt);
   const registerSchild = (w) => w.register === "vous" && el("span", { class: "register", title: U.poli_titel }, U.poli);
-  const notiz = (w) => w.notiz && el("p", { class: "notiz", lang: D.lang_hilfe }, "💡 ", w.notiz);
+  const notiz = (w) => [w.notiz && el("p", { class: "notiz", lang: D.lang_hilfe }, "💡 ", w.notiz), syrisch(w)];
+  // Arabisch: Umschrift unter der Schrift, Wurzel neben der Wendung, syrische Variante mit Knopf « Şām »
+  const umschrift = (o, klasse = "umschrift") => (o && o.umschrift ? el("p", { class: klasse }, o.umschrift) : null);
+  const wurzel = (w) => w.wurzel && el("span", { class: "wurzel", lang: D.lang, title: U.wurzel_titel || "" }, w.wurzel);
+  function syrisch(w) {
+    const sy = w && w.syrisch;
+    if (!sy) return null;
+    return el("div", { class: "syrisch" },
+      el("span", { class: "sprache" }, U.syrisch || "Syrisch"),
+      el("p", { class: "syrisch-text", lang: D.lang }, sy.fr), umschrift(sy, "umschrift klein"),
+      sy.audio && el("button", { class: "knopf leise klein-knopf", onclick: () => spiele([{ src: sy.audio }]) }, "🔊 " + (U.sham || "Şām")));
+  }
   // Interlinear-Glosse (Türkisch): "Wort·PL·AKK … | Wort·PL·AKK …" – je Wort die türkische Zerlegung über dem deutschen Etikett
   function glosse(g, klasse = "gloss", morphem = []) {
     if (!g) return null;
@@ -348,13 +359,13 @@
           el("span", { class: "titel", lang: D.lang }, D.geschichte_info.titel),
           el("span", { class: "unter", lang: D.lang }, D.geschichte_info.unter),
           el("span", { class: "zahl" }, f(U.kapitel_zahl, { frei: kapitelFrei(), alle: D.geschichte.length }))) : null,
-        A.beide.length ? el("button", { class: "kachel" + (ausspracheFertig() ? " erledigt" : ""), onclick: starteAussprache, "aria-label": A.titel },
-          el("span", { class: "sym", "aria-hidden": "true" }, A.symbol),
-          el("span", { class: "titel", lang: D.lang }, A.titel),
-          el("span", { class: "unter", lang: D.lang }, A.unter),
-          el("span", { class: "zahl" }, `${ausspracheTeile().filter((_, i) => S.teile[`${A.id}|0|${i}`]).length} / ${ausspracheTeile().length} ${U.parties}`),
-          ausspracheFertig() && el("span", { class: "haken", "aria-hidden": "true" }, "✓")) : null,
-        !D.geschichte.length && !A.beide.length ? el("div", { class: "kachel bald" }, el("span", { class: "titel", lang: D.lang }, "…"), el("span", { class: "bald-schild" }, U.bald)) : null),
+        ...ausspracheModule().map((M) => el("button", { class: "kachel" + (ausspracheFertig(M) ? " erledigt" : ""), onclick: () => starteAussprache(M), "aria-label": M.titel },
+          el("span", { class: "sym", "aria-hidden": "true" }, M.symbol),
+          el("span", { class: "titel", lang: D.lang }, M.titel),
+          el("span", { class: "unter", lang: D.lang }, M.unter),
+          el("span", { class: "zahl" }, `${ausspracheTeile(M).filter((_, i) => S.teile[`${M.id}|0|${i}`]).length} / ${ausspracheTeile(M).length} ${U.parties}`),
+          ausspracheFertig(M) && el("span", { class: "haken", "aria-hidden": "true" }, "✓"))),
+        !D.geschichte.length && !ausspracheModule().length ? el("div", { class: "kachel bald" }, el("span", { class: "titel", lang: D.lang }, "…"), el("span", { class: "bald-schild" }, U.bald)) : null),
       el("p", { class: "klein" }, uf("stand", { n: karten.length, fest: karten.filter((k) => k.s >= 3).length, orte: orteFrei(), alle: SP.orte.length })));
     app.querySelector(".gruss").append(statusleiste());
   }
@@ -417,10 +428,10 @@
       ansageU("neu_ansage"),
       karte(`${zaehler} · ${U.nouvelle}`,
         el("div", { class: "vok" }, el("div", {},
-          el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)), glosse(w.gloss, "gloss klein"),
+          el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w), wurzel(w)), umschrift(w), glosse(w.gloss, "gloss klein"),
           el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), notiz(w))),
         el("div", { class: "spalten" },
-          el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.exemple), el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), glosse(w.satz.gloss)),
+          el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.exemple), el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), umschrift(w.satz), glosse(w.satz.gloss)),
           el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.hilfe_sprache), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de))),
         balken,
         el("div", { class: "knopfreihe" }, knopf(U.encore_hoeren, abspielen), weiter)));
@@ -432,8 +443,8 @@
     const balken = jetztDu();
     const frage = el("div", {}, el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de));
     const antwort = el("div", { hidden: true },
-      el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)), glosse(w.gloss, "gloss klein"),
-      el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), glosse(w.satz.gloss), notiz(w));
+      el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w), wurzel(w)), umschrift(w), glosse(w.gloss, "gloss klein"),
+      el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), umschrift(w.satz), glosse(w.satz.gloss), notiz(w));
     const bewerten = el("div", { class: "bewerten", hidden: true },
       knopf(U.je_savais, () => bewerteKarte(w, true), "haupt"),
       knopf(U.encore, () => bewerteKarte(w, false), "encore"));
@@ -495,7 +506,7 @@
     for (let i = 0; i < t.wendungen.length; i += GRUPPE) g.push(t.wendungen.slice(i, i + GRUPPE));
     return g;
   }
-  const satzVon = (id) => Object.assign({ titel: WENDUNG[id].fr, notiz: WENDUNG[id].notiz }, WENDUNG[id].satz);
+  const satzVon = (id) => Object.assign({ titel: WENDUNG[id].fr, notiz: WENDUNG[id].notiz, syrisch: WENDUNG[id].syrisch }, WENDUNG[id].satz);
   function teileVon(ids) {
     const saetze = ids.map(satzVon);
     const t = [1, 2, 3].map((stufe) => ({ art: "lr", stufe, saetze, name: f(U.etape, { n: stufe }) }));
@@ -560,7 +571,7 @@
       const eigen = z.rolle === meine;
       return el("li", { class: "dz rolle-" + z.rolle + (eigen ? " meine" : "") },
         el("span", { class: "dz-rolle", "aria-label": U.role + " " + R[z.rolle] }, R[z.rolle]),
-        el("div", {}, el("p", { class: "dz-en", lang: D.lang }, eigen && versteckt ? "…" : z.fr), el("p", { class: "dz-de klein", lang: D.lang_hilfe, hidden: !stand.de && !!meine }, z.de)));
+        el("div", {}, el("p", { class: "dz-en", lang: D.lang }, eigen && versteckt ? "…" : z.fr), eigen && versteckt ? null : umschrift(z, "umschrift klein"), el("p", { class: "dz-de klein", lang: D.lang_hilfe, hidden: !stand.de && !!meine }, z.de)));
     }));
     const zeigeMeine = () => { versteckt = false; zeilen.forEach((z, i) => { if (z.rolle === meine) liste.children[i].querySelector(".dz-en").textContent = z.fr; }); };
     const startKnopf = knopf(meine ? U.dialog_start : U.dialog_hoeren_knopf, starten, "haupt");
@@ -614,7 +625,7 @@
       return el("div", { class: "absatz", role: "button", tabindex: "0", onclick: () => { de.hidden = !de.hidden; },
         onkeydown: (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); de.hidden = !de.hidden; } } },
         el("p", { class: "absatz-fr", lang: D.lang }, fett(a.fr),
-          el("button", { class: "knopf leise klein-knopf", "aria-label": U.hoeren, onclick: (e) => { e.stopPropagation(); vorlesen([a]); } }, "🔊")), de);
+          el("button", { class: "knopf leise klein-knopf", "aria-label": U.hoeren, onclick: (e) => { e.stopPropagation(); vorlesen([a]); } }, "🔊")), umschrift(a, "umschrift klein"), de);
     });
     async function vorlesen(liste) {
       for (const a of liste) {
@@ -641,14 +652,16 @@
 
   /* ---------- Aussprache: Laute hören, Minimalpaare unterscheiden, beide Laute in einem Wort ---------- */
   const KLANG = () => A.info;
-  function ausspracheTeile() {
-    const t = A.reihe.map((k) => ({ art: "nasal_wort", name: `${A.info[k][0]} ${k}`, klang: k, woerter: A.klaenge[k] }));
-    A.paare_gruppen.forEach(([g, name]) => t.push({ art: "nasal_paar", name: "🎯 " + name, paare: A.paare.filter((p) => p.gruppe === g) }));
-    if (A.beide.length) t.push({ art: "nasal_beide", name: A.beide_name, woerter: A.beide });
+  const ausspracheModule = () => (D.aussprachen || [D.aussprache]).filter((M) => M && M.id && (M.beide.length || M.reihe.length));
+  function ausspracheTeile(M = A) {
+    const t = M.reihe.map((k) => ({ art: "nasal_wort", name: `${M.info[k][0]} ${k}`, klang: k, woerter: M.klaenge[k] }));
+    M.paare_gruppen.forEach(([g, name]) => t.push({ art: "nasal_paar", name: "🎯 " + name, paare: M.paare.filter((p) => p.gruppe === g) }));
+    if (M.beide.length) t.push({ art: "nasal_beide", name: M.beide_name, woerter: M.beide });
     return t;
   }
-  const ausspracheFertig = () => ausspracheTeile().every((_, i) => S.teile[`${A.id}|0|${i}`]);
-  function starteAussprache() {
+  const ausspracheFertig = (M = A) => ausspracheTeile(M).every((_, i) => S.teile[`${M.id}|0|${i}`]);
+  function starteAussprache(M = A) {
+    A = M;
     lage = { thema: A.id, gruppe: 0, aussprache: true, titel: A.titel, teile: ausspracheTeile(), teil: 0, pos: 0, zurueckZu: startseite };
     seance = null;
     zeigeTeil();
@@ -677,8 +690,9 @@
         : ansage(f(T.klang[0], { laut: K[teil.klang][0], tipp: K[teil.klang][2] }), f(T.klang[1], { laut: K[teil.klang][0], tipp: K[teil.klang][3] })),
       karte(f(U.mot, { n: lage.pos + 1, alle: teil.woerter.length }),
         el("div", { class: "vok" }, el("div", {},
-          el("p", { class: "nasal-wort", lang: D.lang }, beide ? markiert(w.markup) : w.wort),
+          el("p", { class: "nasal-wort", lang: D.lang }, beide ? markiert(w.markup) : w.wort), umschrift(w),
           el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de),
+          w.syrien && el("p", { class: "notiz", lang: D.lang_hilfe }, "🇸🇾 ", w.syrien),
           el("p", { class: "klang-zeile" }, (beide ? w.klaenge : [teil.klang]).map(klangSchild)))),
         balken,
         el("div", { class: "knopfreihe" }, knopf(U.lentement, () => hoeren([tonLangsam(w)])), knopf(U.normal, () => hoeren([tonWort(w)])), weiter)));
@@ -707,7 +721,7 @@
           f(T.hilfe[1], { a: `${K[a.klang][0]} ${K[a.klang][3]} · ${K[b.klang][0]} ${K[b.klang][3]}` })));
         hoeren();
       }
-    } }, el("span", {}, w.wort), el("small", { class: "klang-" + w.klang }, K[w.klang][0]));
+    } }, el("span", { lang: D.lang }, w.wort), w.umschrift && el("small", { class: "umschrift" }, w.umschrift), el("small", { class: "klang-" + w.klang }, K[w.klang][0]));
     const knoepfe = [wahlKnopf(a), wahlKnopf(b)];
     tasten(hoeren, null);
     zeige(kopf(),
@@ -751,7 +765,7 @@
       return el("div", { class: "gram-beispiel" },
         el("div", { class: "gram-satzzeile" }, el("button", { class: "knopf leise klein-knopf", onclick: abspielen, "aria-label": U.encore_hoeren }, "🔊"),
           el("p", { class: "satz fr", lang: D.lang }, b.fr)),
-        glosse(b.gloss, "gloss", g.morphem),
+        umschrift(b, "umschrift klein"), glosse(b.gloss, "gloss", g.morphem),
         el("p", { class: "satz de klein", lang: D.lang_hilfe }, b.de),
         el("p", { class: "notiz", lang: D.lang_hilfe }, "💡 ", b.hinweis));
     });
@@ -935,7 +949,8 @@
     const fr = el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(s, stufe === 1 ? "voll" : "luecke"));
     if (stufe === 3) fr.replaceChildren(el("span", { class: "profi" }, U.dis_phrase));
     const gl = glosse(s.gloss); if (gl && stufe > 1) gl.hidden = true;
-    const frSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.ziel_sprache), fr, gl);
+    const um = umschrift(s); if (um && stufe > 1) um.hidden = true;
+    const frSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.ziel_sprache), fr, um, gl);
     const deSpalte = el("div", { class: "spalte" }, el("span", { class: "sprache" }, U.hilfe_sprache), el("p", { class: "satz de", lang: D.lang_hilfe }, s.de),
       stufe === 1 && notiz(s));
     const loesung = stufe > 1 ? sperre(knopf(U.solution, loesen)) : null;
@@ -945,7 +960,7 @@
     const hilfen = el("div", { class: "knopfreihe" });
     if (stufe === 2) hilfen.append(tipp("tipp_buchstabe", (e) => { e.currentTarget.hidden = true; if (!geloest) fr.replaceChildren(...lueckenSatz(s, "buchstabe")); }));
     if (stufe === 3) hilfen.append(tipp("tipp_luecke", (e) => { e.currentTarget.hidden = true; if (!geloest) fr.replaceChildren(...lueckenSatz(s, "buchstabe")); }));
-    function loesen() { geloest = true; loesung.disabled = true; hilfen.hidden = true; fr.replaceChildren(...lueckenSatz(s, "voll")); if (gl) gl.hidden = false; sprechen(); }
+    function loesen() { geloest = true; loesung.disabled = true; hilfen.hidden = true; fr.replaceChildren(...lueckenSatz(s, "voll")); if (gl) gl.hidden = false; if (um) um.hidden = false; sprechen(); }
     const abspielen = () => { if (geloest) sprechen(); };
     tasten(abspielen, wennFrei(weiter, naechstes));
     zeige(kopf(),
@@ -966,7 +981,7 @@
     let offen = 0;
     const zeilen = [el("div", { class: "zeit offen" },
       el("span", { class: "zeit-label" }, el("b", {}, Z.jetzt[0]), Z.jetzt[1]),
-      el("p", { class: "zeit-satz", lang: D.lang }, lueckenSatz(s, "voll")))];
+      el("p", { class: "zeit-satz", lang: D.lang }, lueckenSatz(s, "voll")), umschrift(s, "umschrift klein"))];
     const knoepfe = [];
     ZEITEN.forEach((k, i) => {
       const [label, zeitname, frage] = Z[k];
@@ -975,6 +990,7 @@
       const kn = sperre(knopf(f(U.solution_zeit, { zeit: label.toLowerCase() }), () => {
         kn.hidden = true; offen++;
         satz.replaceChildren(w.zeit[k].fr); zeile.classList.add("offen"); zeile.classList.remove("jetzt");
+        const umZ = umschrift(w.zeit[k], "umschrift klein"); if (umZ) satz.after(umZ);
         if (knoepfe[i + 1]) { zeilen[i + 2].classList.add("jetzt"); knoepfe[i + 1].hidden = false; gibFrei(knoepfe[i + 1], denkzeit(w.zeit[k].fr), false); }
         nachsprechen(balken, ton(w.zeit[k])).then((sek) => { if (sek && offen === ZEITEN.length) gibFrei(weiter, sek); });
       }, i === 0 ? "haupt" : ""));
@@ -999,8 +1015,8 @@
     const w = WENDUNG[lage.reihe[lage.pos]];
     const balken = jetztDu();
     const frage = el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de);
-    const antwort = el("div", { hidden: true }, el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w)), glosse(w.gloss, "gloss klein"),
-      el("p", { class: "klein", lang: D.lang }, w.satz.fr), glosse(w.satz.gloss), notiz(w));
+    const antwort = el("div", { hidden: true }, el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w), wurzel(w)), umschrift(w), glosse(w.gloss, "gloss klein"),
+      el("p", { class: "klein", lang: D.lang }, w.satz.fr), umschrift(w.satz, "umschrift klein"), glosse(w.satz.gloss), notiz(w));
     const bewerten = el("div", { class: "bewerten", hidden: true },
       knopf(U.je_savais, naechstes, "haupt weiter"),
       knopf(U.encore, () => { lage.reihe.push(w.id); naechstes(); }, "encore"));

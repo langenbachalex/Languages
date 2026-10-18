@@ -557,23 +557,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une copie = die (Klassen-)Arbeit, nicht „Kopie“; corriger = korrigieren. la sixième = 6. Klasse (Frankreich zählt rückwärts: sixième → terminale).",
    "audio": "audio/fr-de/wendungen/ep_01.mp3?v=6668f641",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ce soir, je corrige des copies de sixième.",
     "de": "Heute Abend korrigiere ich Arbeiten der Sechsten.",
     "luecke": "corrige des copies",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_01.mp3?v=aa5b5528"
    },
    "zeit": {
     "pc": {
      "fr": "Hier soir, j'ai corrigé des copies de sixième.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_01_pc.mp3?v=b8d25361"
     },
     "fp": {
      "fr": "Ce soir, je vais corriger des copies de sixième.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_01_fp.mp3?v=ee2a5c1b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_02",
@@ -585,23 +591,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "crevé = wörtlich „geplatzt“ (crever = platzen, verrecken); umgangssprachlich = fix und fertig. Auch: un pneu crevé = ein Platten.",
    "audio": "audio/fr-de/wendungen/ep_02.mp3?v=1dd4fcb6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Après six heures de cours, je suis crevé.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "crevé",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_02.mp3?v=982f6967"
    },
    "zeit": {
     "pc": {
      "fr": "Après six heures de cours, j'étais crevé.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_02_pc.mp3?v=e4938c38"
     },
     "fp": {
      "fr": "Après six heures de cours, je vais être crevé.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_02_fp.mp3?v=4f49ad5d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_03",
@@ -613,14 +625,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se passer = ablaufen, geschehen; ça s'est bien passé = es ist gut gelaufen (passé composé mit être, weil reflexiv). Frage nur durch Tonfall.",
    "audio": "audio/fr-de/wendungen/ep_03.mp3?v=4f132cde",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
     "de": "Und, deine Stunde mit den Neunern, ist sie gut gelaufen?",
     "luecke": "ça s'est bien passé",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_03.mp3?v=1ece6f26"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_04",
@@ -632,23 +648,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "faire cours ohne Artikel = Unterricht halten (wie faire classe); un cours = eine Stunde, ein Kurs. le cours de maths.",
    "audio": "audio/fr-de/wendungen/ep_04.mp3?v=fc372bfa",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je fais cours en anglais toute la matinée.",
     "de": "Ich unterrichte den ganzen Vormittag Englisch.",
     "luecke": "fais cours",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_04.mp3?v=2062dd67"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait cours en anglais toute la matinée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_04_pc.mp3?v=5144181c"
     },
     "fp": {
      "fr": "Je vais faire cours en anglais toute la matinée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_04_fp.mp3?v=7fd745af"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_05",
@@ -660,14 +682,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la récré = Kurzform von la récréation (Schulpause); Kürzungen sind typisch: le prof, la fac, le resto. la salle des profs = Lehrerzimmer.",
    "audio": "audio/fr-de/wendungen/ep_05.mp3?v=946ad7be",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "On se retrouve en salle des profs à la récré ?",
     "de": "Treffen wir uns in der Pause im Lehrerzimmer?",
     "luecke": "à la récré",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_05.mp3?v=9137ea72"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_06",
@@ -679,23 +705,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „Eile haben zu“ (la hâte = Hast); avoir hâte de + Infinitiv, avoir hâte que + Subjonctif. Vokal: j'ai hâte d'être.",
    "audio": "audio/fr-de/wendungen/ep_06.mp3?v=51418e7d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'ai hâte d'être en vacances.",
     "de": "Ich kann die Ferien kaum erwarten.",
     "luecke": "ai hâte d'",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_06.mp3?v=dee423b3"
    },
    "zeit": {
     "pc": {
      "fr": "J'avais hâte d'être en vacances.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_06_pc.mp3?v=27cca2d1"
     },
     "fp": {
      "fr": "Je vais avoir hâte d'être en vacances.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_06_fp.mp3?v=12554ef1"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_07",
@@ -707,14 +739,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „davon genug haben“; en avoir marre de + Nomen/Infinitiv. Umgangssprachlich; neutraler: en avoir assez. j'en ai marre !",
    "audio": "audio/fr-de/wendungen/ep_07.mp3?v=e0d133ad",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'en ai marre des réunions qui n'en finissent pas.",
     "de": "Ich habe die Nase voll von Besprechungen, die kein Ende nehmen.",
     "luecke": "en ai marre",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_07.mp3?v=4813348e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_08",
@@ -726,23 +762,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „Mühe haben zu“ (le mal = Übel, Mühe); avoir du mal à + Infinitiv. faire taire = zum Schweigen bringen (faire + Infinitiv).",
    "audio": "audio/fr-de/wendungen/ep_08.mp3?v=1965d108",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'ai du mal à les faire taire le vendredi après-midi.",
     "de": "Freitagnachmittags fällt es mir schwer, sie ruhig zu kriegen.",
     "luecke": "ai du mal à",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_08.mp3?v=6e0f2e15"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai eu du mal à les faire taire vendredi après-midi.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_08_pc.mp3?v=64d12e19"
     },
     "fp": {
      "fr": "Je vais avoir du mal à les faire taire vendredi après-midi.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_08_fp.mp3?v=0d4479b2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_09",
@@ -754,14 +796,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das macht lange“ – ça fait + Zeit = seit/schon: ça fait trois ans que j'apprends. Auch: ça fait un bail (ewig).",
    "audio": "audio/fr-de/wendungen/ep_09.mp3?v=36c368f8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Salut Aurélien ! Ça fait longtemps !",
     "de": "Hallo Aurélien! Lange nicht gesehen!",
     "luecke": "Ça fait longtemps",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_09.mp3?v=a2e53fbc"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_10",
@@ -773,23 +819,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „vom Schlag“; sehr häufiges Füllwort = also, deshalb, infolgedessen. Gilt als umgangssprachlich, in jedem Gespräch zu hören.",
    "audio": "audio/fr-de/wendungen/ep_10.mp3?v=7180f81c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le prof de sport est malade, du coup je prends sa classe.",
     "de": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "luecke": "du coup",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_10.mp3?v=e53e1975"
    },
    "zeit": {
     "pc": {
      "fr": "Le prof de sport était malade, du coup j'ai pris sa classe.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_10_pc.mp3?v=271ee89c"
     },
     "fp": {
      "fr": "Le prof de sport est malade, du coup je vais prendre sa classe.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_10_fp.mp3?v=2bd68058"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_11",
@@ -801,14 +853,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „in Tatsache“ = eigentlich, genau genommen; leitet eine Korrektur oder Präzisierung ein. Nicht mit engl. in fact gleichsetzen (zu stark).",
    "audio": "audio/fr-de/wendungen/ep_11.mp3?v=7b789b00",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "En fait, j'aime bien mes élèves de neuvième.",
     "de": "Eigentlich mag ich meine Neuner sehr gern.",
     "luecke": "En fait",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_11.mp3?v=25891bb4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_12",
@@ -820,14 +876,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „wenn auch gleich“; am Satzende = trotzdem, immerhin; auch Verstärkung: c'est quand même bizarre. Ausgesprochen [kãmɛm].",
    "audio": "audio/fr-de/wendungen/ep_12.mp3?v=4c92d43c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "C'est fatigant, mais j'adore ce métier quand même.",
     "de": "Es ist anstrengend, aber ich liebe diesen Beruf trotzdem.",
     "luecke": "quand même",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_12.mp3?v=6ccbc9a4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_13",
@@ -839,23 +899,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das ist den Schlag wert“; ça vaut le coup de + Infinitiv (valoir = wert sein). ça ne vaut pas le coup = lohnt sich nicht.",
    "audio": "audio/fr-de/wendungen/ep_13.mp3?v=e2fe53a9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Préparer un bon cours, ça prend du temps, mais ça vaut le coup.",
     "de": "Eine gute Stunde vorzubereiten dauert, aber es lohnt sich.",
     "luecke": "ça vaut le coup",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_13.mp3?v=c6c5001c"
    },
    "zeit": {
     "pc": {
      "fr": "Ça a pris du temps, mais ça valait le coup.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_13_pc.mp3?v=ef92dc35"
     },
     "fp": {
      "fr": "Ça va prendre du temps, mais ça va valoir le coup.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_13_fp.mp3?v=7ec8ca70"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_14",
@@ -867,23 +933,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „sich entwirren“ (brouiller = verwirren); = zurechtkommen, sich durchschlagen. débrouillard = findig. tout seul = ganz allein.",
    "audio": "audio/fr-de/wendungen/ep_14.mp3?v=ce93c34d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Les élèves se débrouillent bien tout seuls.",
     "de": "Die Schüler kommen allein gut zurecht.",
     "luecke": "se débrouillent",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_14.mp3?v=50d44048"
    },
    "zeit": {
     "pc": {
      "fr": "Les élèves se sont bien débrouillés tout seuls.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_14_pc.mp3?v=4ab03ed5"
     },
     "fp": {
      "fr": "Les élèves vont bien se débrouiller tout seuls.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_14_fp.mp3?v=e815c144"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_15",
@@ -895,14 +967,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „am Grund sein“ (le fond = Grund, Boden) = voll dabei, auf Hochtouren; à fond = mit Vollgas: j'ai travaillé à fond.",
    "audio": "audio/fr-de/wendungen/ep_15.mp3?v=4cc0cc1e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Aujourd'hui, les sixièmes étaient à fond.",
     "de": "Heute waren die Sechser voll dabei.",
     "luecke": "à fond",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_15.mp3?v=492bbd92"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_16",
@@ -914,23 +990,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "rendre = zurückgeben (und: machen – rendre triste); les copies = Arbeiten. rendre un devoir = eine Arbeit abgeben (aus Schülersicht!).",
    "audio": "audio/fr-de/wendungen/ep_16.mp3?v=99c7057d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je rends les copies lundi.",
     "de": "Ich gebe die Arbeiten am Montag zurück.",
     "luecke": "rends les copies",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_16.mp3?v=e020d53b"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai rendu les copies lundi.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_16_pc.mp3?v=001c8762"
     },
     "fp": {
      "fr": "Je vais rendre les copies lundi.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ep_16_fp.mp3?v=1ebc966d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ep_17",
@@ -942,14 +1024,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la réunion = Besprechung, Sitzung (réunir = zusammenbringen); tu viens ? = Frage nur durch Tonfall – im Gespräch die häufigste Frageform.",
    "audio": "audio/fr-de/wendungen/ep_17.mp3?v=439ee400",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'ai une réunion à seize heures, tu viens ?",
     "de": "Ich habe um 16 Uhr eine Konferenz, kommst du?",
     "luecke": "une réunion",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_17.mp3?v=42e13e3b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_18",
@@ -961,14 +1047,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das macht nichts“ – wie im Deutschen. Verneinung ne … rien. Auch: ce n'est pas grave, pas de souci.",
    "audio": "audio/fr-de/wendungen/ep_18.mp3?v=a3384119",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tu as oublié mon livre ? Ça ne fait rien.",
     "de": "Du hast mein Buch vergessen? Macht nichts.",
     "luecke": "Ça ne fait rien",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_18.mp3?v=c5cb3058"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_19",
@@ -980,14 +1070,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "prendre son temps = sich Zeit lassen; Imperativ prends + Possessiv ton. Gegenteil: se dépêcher. on a = wir haben (on statt nous).",
    "audio": "audio/fr-de/wendungen/ep_19.mp3?v=d87d46da",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Prends ton temps, on a toute la soirée.",
     "de": "Lass dir Zeit, wir haben den ganzen Abend.",
     "luecke": "Prends ton temps",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_19.mp3?v=0b303202"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ep_20",
@@ -999,14 +1093,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "pourriez-vous = Konditional von pouvoir, die höfliche Bitte („könnten Sie“); indiquer = zeigen, sagen (wo etwas ist). Einfache Inversion: Verb-vous.",
    "audio": "audio/fr-de/wendungen/ep_20.mp3?v=bd133cd4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Excusez-moi, pourriez-vous m'indiquer la salle des profs ?",
     "de": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "luecke": "pourriez-vous",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ep_20.mp3?v=7c2f69d7"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_01",
@@ -1018,23 +1116,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "toucher = berühren, auch gefühlsmäßig; ça me touche = das rührt mich. Subjekt ça + me/te/le (Objekt). à chaque fois = jedes Mal.",
    "audio": "audio/fr-de/wendungen/se_01.mp3?v=c990c2bb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Cette chanson me touche à chaque fois.",
     "de": "Dieses Lied berührt mich jedes Mal.",
     "luecke": "me touche",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_01.mp3?v=3ad4f986"
    },
    "zeit": {
     "pc": {
      "fr": "Cette chanson m'a touché.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_01_pc.mp3?v=81077e33"
     },
     "fp": {
      "fr": "Cette chanson va me toucher.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_01_fp.mp3?v=0113bf78"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_02",
@@ -1046,23 +1150,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „die Kakerlake haben“ (le cafard) – seit Baudelaire das Bild für Trübsinn. avoir le cafard = down sein. Umgangssprachlich.",
    "audio": "audio/fr-de/wendungen/se_02.mp3?v=0e4958e7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le dimanche soir, j'ai souvent le cafard.",
     "de": "Sonntagabends bin ich oft niedergeschlagen.",
     "luecke": "le cafard",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_02.mp3?v=ae0604a5"
    },
    "zeit": {
     "pc": {
      "fr": "Dimanche soir, j'ai eu le cafard.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_02_pc.mp3?v=ee3f22d4"
     },
     "fp": {
      "fr": "Dimanche soir, je vais avoir le cafard.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_02_fp.mp3?v=29b3ae14"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_03",
@@ -1074,14 +1184,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "sombre = dunkel und düster (Adjektiv, unveränderlich im Femininum: une forêt sombre); le noir = die Dunkelheit. Gegenteil: clair.",
    "audio": "audio/fr-de/wendungen/se_03.mp3?v=0e99a922",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'aime les histoires sombres, avec une forêt et un secret.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "sombres",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_03.mp3?v=feea7b8b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_04",
@@ -1093,14 +1207,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wie im Deutschen; la mélancolie. tellement = so sehr (Verstärkung): tellement beau. un morceau = Musikstück.",
    "audio": "audio/fr-de/wendungen/se_04.mp3?v=5fe24385",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ce morceau de piano est mélancolique, mais tellement beau.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "mélancolique",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_04.mp3?v=194aa8d8"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_05",
@@ -1112,23 +1230,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das spaltet mir das Herz“ (fendre = spalten); auch ça me brise le cœur. voir + Infinitiv: voir un enfant pleurer.",
    "audio": "audio/fr-de/wendungen/se_05.mp3?v=60e068d9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Voir un enfant pleurer tout seul, ça me fend le cœur.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "me fend le cœur",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_05.mp3?v=3381f9ac"
    },
    "zeit": {
     "pc": {
      "fr": "Ça m'a fendu le cœur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_05_pc.mp3?v=faece7cf"
     },
     "fp": {
      "fr": "Ça va me fendre le cœur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_05_fp.mp3?v=96082933"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_06",
@@ -1140,14 +1264,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "ému = Partizip von émouvoir (rühren); être ému aux larmes = zu Tränen gerührt. Nicht „aufgeregt“ – das wäre excité oder nerveux.",
    "audio": "audio/fr-de/wendungen/se_06.mp3?v=2902564e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "À la fin du concert, j'étais ému aux larmes.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "ému",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_06.mp3?v=7f650ad2"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_07",
@@ -1159,14 +1287,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "von inquiéter = beunruhigen (quiet = ruhig); inquiet/inquiète = besorgt. s'inquiéter pour = sich Sorgen machen um.",
    "audio": "audio/fr-de/wendungen/se_07.mp3?v=84211cbd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La maison était silencieuse, c'était inquiétant.",
     "de": "Das Haus war still, das war unheimlich.",
     "luecke": "inquiétant",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_07.mp3?v=94f9eb5a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_08",
@@ -1178,14 +1310,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "von apaiser = beruhigen, besänftigen (la paix = Frieden); apaisant = beruhigend, wohltuend. le ronronnement = das Schnurren.",
    "audio": "audio/fr-de/wendungen/se_08.mp3?v=a97c93fd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le ronronnement de mon chat est apaisant.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "apaisant",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_08.mp3?v=1b5b9753"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_09",
@@ -1197,23 +1333,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „die Tränen an den Augen haben“; avoir + Körperzustand ohne Possessiv: avoir les larmes aux yeux, avoir mal au dos.",
    "audio": "audio/fr-de/wendungen/se_09.mp3?v=6422d2c4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quand j'écoute cette voix, j'ai les larmes aux yeux.",
     "de": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "luecke": "ai les larmes aux yeux",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_09.mp3?v=6a6e1a20"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai eu les larmes aux yeux.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_09_pc.mp3?v=674741cb"
     },
     "fp": {
      "fr": "Je vais avoir les larmes aux yeux.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_09_fp.mp3?v=e579ddb3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_10",
@@ -1225,23 +1367,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das gibt mir Schauer“ (un frisson = Schauer); donner = geben – im Deutschen „Gänsehaut“ (la chair de poule). frissonner = schaudern.",
    "audio": "audio/fr-de/wendungen/se_10.mp3?v=3a9dbce9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le refrain me donne des frissons.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "me donne des frissons",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_10.mp3?v=d4327331"
    },
    "zeit": {
     "pc": {
      "fr": "Le refrain m'a donné des frissons.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_10_pc.mp3?v=72be698f"
     },
     "fp": {
      "fr": "Le refrain va me donner des frissons.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_10_fp.mp3?v=48e0a45f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_11",
@@ -1253,23 +1401,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "avoir peur de + Nomen/Infinitiv; de + le = du: peur du noir. ne … pas … mais = nicht … sondern. le noir = die Dunkelheit.",
    "audio": "audio/fr-de/wendungen/se_11.mp3?v=c19d4652",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je n'ai pas peur du noir, mais du silence.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "ai pas peur",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_11.mp3?v=a3ffc077"
    },
    "zeit": {
     "pc": {
      "fr": "Je n'ai pas eu peur du noir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_11_pc.mp3?v=692d392e"
     },
     "fp": {
      "fr": "Je ne vais pas avoir peur du noir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_11_fp.mp3?v=c578e965"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_12",
@@ -1281,23 +1435,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „von guter Laune sein“ (l'humeur, weiblich – nicht l'humour!); être de bonne/mauvaise humeur, immer mit de.",
    "audio": "audio/fr-de/wendungen/se_12.mp3?v=56efee0b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ce matin, je suis de bonne humeur, le soleil est là.",
     "de": "Heute Morgen bin ich gut gelaunt, die Sonne ist da.",
     "luecke": "de bonne humeur",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_12.mp3?v=44118662"
    },
    "zeit": {
     "pc": {
      "fr": "Ce matin, j'étais de bonne humeur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_12_pc.mp3?v=b7d0c9e1"
     },
     "fp": {
      "fr": "Demain, je vais être de bonne humeur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_12_fp.mp3?v=1db19092"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_13",
@@ -1309,14 +1469,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "ne lui parle pas = verneinter Imperativ, Pronomen lui (ihm/ihr) vor dem Verb. l'humeur = die Laune (weiblich).",
    "audio": "audio/fr-de/wendungen/se_13.mp3?v=63b47902",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ne lui parle pas, il est de mauvaise humeur.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "de mauvaise humeur",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_13.mp3?v=a05e0837"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_14",
@@ -1328,23 +1492,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "umgekehrt zum Deutschen: die Sache ist Subjekt, ich bin Objekt – mes chats me manquent = meine Katzen fehlen mir (manquer à qn). tu me manques = ich vermisse dich.",
    "audio": "audio/fr-de/wendungen/se_14.mp3?v=17667f23",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mes chats me manquent quand je suis en voyage.",
     "de": "Meine Katzen fehlen mir, wenn ich unterwegs bin.",
     "luecke": "me manquent",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_14.mp3?v=10ff272a"
    },
    "zeit": {
     "pc": {
      "fr": "Mes chats m'ont manqué.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_14_pc.mp3?v=ab874666"
     },
     "fp": {
      "fr": "Mes chats vont me manquer.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_14_fp.mp3?v=e628864c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_15",
@@ -1356,23 +1526,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „davon dick auf dem Herzen haben“ – en avoir gros sur le cœur = schwer ums Herz sein, viel Kummer haben. Umgangssprachlich, herzlich.",
    "audio": "audio/fr-de/wendungen/se_15.mp3?v=65e73e31",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Après cette journée, j'en ai gros sur le cœur.",
     "de": "Nach diesem Tag ist mir schwer ums Herz.",
     "luecke": "en ai gros sur le cœur",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_15.mp3?v=536593a1"
    },
    "zeit": {
     "pc": {
      "fr": "J'en ai eu gros sur le cœur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_15_pc.mp3?v=963b1bcc"
     },
     "fp": {
      "fr": "Je vais en avoir gros sur le cœur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_15_fp.mp3?v=a25a7253"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_16",
@@ -1384,14 +1560,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "von bouleverser = umwerfen, erschüttern; bouleversant = zutiefst bewegend; bouleversé = erschüttert. Femininum: bouleversante.",
    "audio": "audio/fr-de/wendungen/se_16.mp3?v=6f7dc863",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La fin du film est bouleversante.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "bouleversante",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_16.mp3?v=d5f6dc61"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_17",
@@ -1403,23 +1583,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se sentir + Adjektiv/Adverb: je me sens bien, mal, léger, fatigué. Nicht sentir (riechen, spüren) ohne se: je sens le café.",
    "audio": "audio/fr-de/wendungen/se_17.mp3?v=9367999a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Après le kung-fu, je me sens bien, léger.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "me sens bien",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_17.mp3?v=0f68a13f"
    },
    "zeit": {
     "pc": {
      "fr": "Après le kung-fu, je me suis senti bien.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_17_pc.mp3?v=90c54250"
     },
     "fp": {
      "fr": "Après le kung-fu, je vais me sentir bien.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_17_fp.mp3?v=e5654b63"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_18",
@@ -1431,23 +1617,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das Herz schwer haben“ – wie im Deutschen; avoir le cœur lourd/léger. elle est partie = passé composé mit être (partir).",
    "audio": "audio/fr-de/wendungen/se_18.mp3?v=b50f6014",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Elle est partie, et j'ai le cœur lourd.",
     "de": "Sie ist gegangen, und mir ist schwer ums Herz.",
     "luecke": "ai le cœur lourd",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_18.mp3?v=2247ffef"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai eu le cœur lourd.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_18_pc.mp3?v=0f463a44"
     },
     "fp": {
      "fr": "Je vais avoir le cœur lourd.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_18_fp.mp3?v=d1cef9f3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_19",
@@ -1459,23 +1651,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "rendre + Adjektiv = jemanden zu etwas machen: ça me rend triste, heureux, fou. Nie faire: „ça me fait triste“ ist falsch.",
    "audio": "audio/fr-de/wendungen/se_19.mp3?v=5b8fce5d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La pluie sur Paris me rend un peu triste.",
     "de": "Der Regen über Paris macht mich ein bisschen traurig.",
     "luecke": "me rend",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_19.mp3?v=db791dae"
    },
    "zeit": {
     "pc": {
      "fr": "La pluie m'a rendu un peu triste.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_19_pc.mp3?v=beb8d802"
     },
     "fp": {
      "fr": "La pluie va me rendre un peu triste.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_19_fp.mp3?v=409d19e0"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_20",
@@ -1487,14 +1685,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le clair-obscur = Hell-Dunkel (Malerei, Caravaggio, Georges de La Tour); un tableau = das Gemälde. le Louvre = Schauplatz der Geschichte.",
    "audio": "audio/fr-de/wendungen/se_20.mp3?v=151858cb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'adore le clair-obscur dans les tableaux du Louvre.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden im Louvre.",
     "luecke": "clair-obscur",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_20.mp3?v=39ee3577"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_21",
@@ -1506,14 +1708,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "paisible = friedlich (la paix = Frieden), für Orte und Menschen; auch: une vie paisible, un chat paisible. Gegenteil: agité.",
    "audio": "audio/fr-de/wendungen/se_21.mp3?v=00ca9e57",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le soir, le jardin est paisible.",
     "de": "Abends ist der Garten friedlich.",
     "luecke": "paisible",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_21.mp3?v=68c94731"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_22",
@@ -1525,14 +1731,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "von angoisser = beklemmen (l'angoisse = Beklemmung, Angst); angoissant = beklemmend; angoissé = beklommen. le couloir = Gang, Flur.",
    "audio": "audio/fr-de/wendungen/se_22.mp3?v=486cbdbc",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le couloir vide du musée était angoissant.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angoissant",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_22.mp3?v=f2bfd0e6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_23",
@@ -1544,23 +1754,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le chagrin = Kummer, Gram; avoir du chagrin (Teilungsartikel du). un chagrin d'amour = Liebeskummer. depuis = seit.",
    "audio": "audio/fr-de/wendungen/se_23.mp3?v=c91284eb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il a du chagrin depuis la mort de son chat.",
     "de": "Er hat Kummer, seit seine Katze gestorben ist.",
     "luecke": "a du chagrin",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_23.mp3?v=7a2ee755"
    },
    "zeit": {
     "pc": {
      "fr": "Il a eu du chagrin.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_23_pc.mp3?v=6ae99c65"
     },
     "fp": {
      "fr": "Il va avoir du chagrin.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/se_23_fp.mp3?v=16fe7258"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_24",
@@ -1572,14 +1788,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "désolé = wörtlich „untröstlich“ (vom lat. desolare) – die normale Entschuldigung: je suis désolé / désolée (Frau). déranger = stören.",
    "audio": "audio/fr-de/wendungen/se_24.mp3?v=c349bc4c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je suis désolé, madame, je ne voulais pas vous déranger.",
     "de": "Es tut mir leid, Madame, ich wollte Sie nicht stören.",
     "luecke": "suis désolé",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/se_24.mp3?v=39f2a9c0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_01",
@@ -1591,23 +1811,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "ronronner = lautmalerisch (ron-ron); dès que = sobald. je m'assieds = s'asseoir (sich setzen), unregelmäßig: je m'assieds, tu t'assieds.",
    "audio": "audio/fr-de/wendungen/ch_01.mp3?v=c238ea1d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mon chat ronronne dès que je m'assieds.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "ronronne",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_01.mp3?v=f6aefec6"
    },
    "zeit": {
     "pc": {
      "fr": "Mon chat a ronronné dès que je me suis assis.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_01_pc.mp3?v=5143075e"
     },
     "fp": {
      "fr": "Mon chat va ronronner dès que je vais m'asseoir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_01_fp.mp3?v=0f2050c1"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_02",
@@ -1619,23 +1845,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „einen Schmuser machen“ (un câlin = Kuscheln, Umarmung); faire un câlin à qn = jemanden knuddeln. le canapé = das Sofa.",
    "audio": "audio/fr-de/wendungen/ch_02.mp3?v=4c7764cd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le soir, elle vient me faire un câlin sur le canapé.",
     "de": "Abends kommt sie auf dem Sofa zu mir zum Schmusen.",
     "luecke": "faire un câlin",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_02.mp3?v=e9764df9"
    },
    "zeit": {
     "pc": {
      "fr": "Hier soir, elle est venue me faire un câlin.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_02_pc.mp3?v=e141479d"
     },
     "fp": {
      "fr": "Ce soir, elle va venir me faire un câlin.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_02_fp.mp3?v=552ace11"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_03",
@@ -1647,23 +1879,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "von la griffe = Kralle; griffer = kratzen mit Krallen (gratter = kratzen allgemein). on = man; caresser = streicheln.",
    "audio": "audio/fr-de/wendungen/ch_03.mp3?v=d13da4f8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Attention, il griffe quand on le caresse trop longtemps.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "griffe",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_03.mp3?v=a9ebac54"
    },
    "zeit": {
     "pc": {
      "fr": "Il m'a griffé quand je l'ai caressé trop longtemps.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_03_pc.mp3?v=e6113f01"
     },
     "fp": {
      "fr": "Il va te griffer si tu le caresses trop longtemps.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_03_fp.mp3?v=742e505b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_04",
@@ -1675,23 +1913,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „seine Toilette machen“ = sich putzen, waschen (la toilette = Körperpflege); auch bei Menschen: faire sa toilette le matin.",
    "audio": "audio/fr-de/wendungen/ch_04.mp3?v=c99df935",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Après le repas, il fait sa toilette pendant dix minutes.",
     "de": "Nach dem Essen putzt er sich zehn Minuten lang.",
     "luecke": "fait sa toilette",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_04.mp3?v=9d4a3b25"
    },
    "zeit": {
     "pc": {
      "fr": "Après le repas, il a fait sa toilette pendant dix minutes.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_04_pc.mp3?v=25349eac"
     },
     "fp": {
      "fr": "Après le repas, il va faire sa toilette.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_04_fp.mp3?v=d20dfe73"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_05",
@@ -1703,23 +1947,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "miauler = miauen (miaou = miau); devant la porte = vor der Tür. à six heures du matin = um sechs Uhr morgens (du matin / du soir).",
    "audio": "audio/fr-de/wendungen/ch_05.mp3?v=984286e1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Elle miaule devant la porte de la cuisine à six heures du matin.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "miaule",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_05.mp3?v=2777d6aa"
    },
    "zeit": {
     "pc": {
      "fr": "Elle a miaulé devant la porte à six heures du matin.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_05_pc.mp3?v=815fe41b"
     },
     "fp": {
      "fr": "Elle va miauler devant la porte à six heures du matin.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_05_fp.mp3?v=fe6cbafd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_06",
@@ -1731,23 +1981,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "avoir faim = Hunger haben (wie avoir soif, avoir froid – immer mit avoir); d'après lui = ihm zufolge, seiner Meinung nach.",
    "audio": "audio/fr-de/wendungen/ch_06.mp3?v=aa70c4a5",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "D'après lui, il a toujours faim.",
     "de": "Wenn es nach ihm geht, hat er immer Hunger.",
     "luecke": "a toujours faim",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_06.mp3?v=d3c62755"
    },
    "zeit": {
     "pc": {
      "fr": "D'après lui, il a eu faim toute la journée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_06_pc.mp3?v=93f33cb9"
     },
     "fp": {
      "fr": "D'après lui, il va avoir faim dans cinq minutes.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_06_fp.mp3?v=fb43d3eb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_07",
@@ -1759,23 +2015,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "caresser = streicheln; une caresse = eine Streicheleinheit. derrière les oreilles = hinter den Ohren. elle adore ça = sie liebt das.",
    "audio": "audio/fr-de/wendungen/ch_07.mp3?v=b038db0e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je caresse ma chatte derrière les oreilles, elle adore ça.",
     "de": "Ich streichle meine Katze hinter den Ohren, das liebt sie.",
     "luecke": "caresse",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_07.mp3?v=7fc512cb"
    },
    "zeit": {
     "pc": {
      "fr": "Je l'ai caressée derrière les oreilles.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_07_pc.mp3?v=37ebb2e0"
     },
     "fp": {
      "fr": "Je vais la caresser derrière les oreilles.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_07_fp.mp3?v=ddffc183"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_08",
@@ -1787,23 +2049,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „seine Krallen machen“ = Krallen wetzen; le griffoir = der Kratzbaum/das Kratzbrett; le fauteuil = der Sessel.",
    "audio": "audio/fr-de/wendungen/ch_08.mp3?v=33968eb4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il fait ses griffes sur le fauteuil, jamais sur le griffoir.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "fait ses griffes",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_08.mp3?v=4847119a"
    },
    "zeit": {
     "pc": {
      "fr": "Il a fait ses griffes sur le fauteuil.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_08_pc.mp3?v=d13043e1"
     },
     "fp": {
      "fr": "Il va faire ses griffes sur le fauteuil, c'est sûr.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_08_fp.mp3?v=9f7d0642"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_09",
@@ -1815,14 +2083,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un félin = Katzentier (vom lat. felis); les félins = Raubkatzen. c'est + Nomen mit Artikel: un chat, c'est un félin.",
    "audio": "audio/fr-de/wendungen/ch_09.mp3?v=c91b12f6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un chat, c'est un petit félin qui a décidé de vivre avec nous.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "félin",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_09.mp3?v=6970128c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_10",
@@ -1834,23 +2106,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "faire la sieste = Mittagsschlaf halten (aus dem Spanischen); seize heures par jour = 16 Stunden am Tag. Quelle vie = Was für ein Leben.",
    "audio": "audio/fr-de/wendungen/ch_10.mp3?v=c7b362cf",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mon chat fait la sieste seize heures par jour. Quelle vie.",
     "de": "Meine Katze macht sechzehn Stunden am Tag Nickerchen. Was für ein Leben.",
     "luecke": "fait la sieste",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_10.mp3?v=365c4761"
    },
    "zeit": {
     "pc": {
      "fr": "Mon chat a fait la sieste toute la journée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_10_pc.mp3?v=d157b2d6"
     },
     "fp": {
      "fr": "Mon chat va faire la sieste toute la journée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_10_fp.mp3?v=1b2254af"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_11",
@@ -1862,23 +2140,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se frotter contre = sich reiben an (frotter = reiben); rentrer = nach Hause kommen (nicht nur „hineingehen“).",
    "audio": "audio/fr-de/wendungen/ch_11.mp3?v=2561cfdb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Elle se frotte contre mes jambes quand je rentre.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "se frotte contre",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_11.mp3?v=3772c26c"
    },
    "zeit": {
     "pc": {
      "fr": "Elle s'est frottée contre mes jambes quand je suis rentré.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_11_pc.mp3?v=db583efe"
     },
     "fp": {
      "fr": "Elle va se frotter contre mes jambes quand je vais rentrer.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_11_fp.mp3?v=be72754d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_12",
@@ -1890,14 +2174,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "les croquettes = Trockenfutter (croquer = knabbern, knacken); préférer A à B = A lieber mögen als B; les siennes = seine (Possessivpronomen).",
    "audio": "audio/fr-de/wendungen/ch_12.mp3?v=6cdbdbba",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il préfère les croquettes du voisin aux siennes.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seins.",
     "luecke": "croquettes",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_12.mp3?v=bc494628"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_13",
@@ -1909,14 +2197,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la pâtée = Nassfutter (von la pâte = Teig, Masse); c'est la pâtée = es gibt Nassfutter. il le sait = er weiß es (le = es).",
    "audio": "audio/fr-de/wendungen/ch_13.mp3?v=65c4f8bb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "À midi, c'est la pâtée, et il le sait.",
     "de": "Mittags gibt es Nassfutter, und das weiß er.",
     "luecke": "pâtée",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_13.mp3?v=470b13f5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_14",
@@ -1928,14 +2220,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le regard = der Blick (regarder = anschauen); avoir un regard qui dit … = einen Blick haben, der sagt … être en retard = zu spät sein.",
    "audio": "audio/fr-de/wendungen/ch_14.mp3?v=6218001f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Elle a un regard qui dit : « Tu es en retard. »",
     "de": "Sie hat einen Blick, der sagt: „Du bist spät dran.“",
     "luecke": "a un regard",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_14.mp3?v=ce56a6be"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_15",
@@ -1947,23 +2243,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "sauter = springen; sauter sur = springen auf; pendant que = während (zeitlich). le bureau = Schreibtisch und Büro.",
    "audio": "audio/fr-de/wendungen/ch_15.mp3?v=03f0f2e8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il saute sur le bureau pendant que je corrige des copies.",
     "de": "Er springt auf den Schreibtisch, während ich Arbeiten korrigiere.",
     "luecke": "saute sur",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_15.mp3?v=04aaa7b0"
    },
    "zeit": {
     "pc": {
      "fr": "Il a sauté sur le bureau pendant que je corrigeais.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_15_pc.mp3?v=17e99419"
     },
     "fp": {
      "fr": "Il va sauter sur le bureau, comme d'habitude.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_15_fp.mp3?v=66ad9706"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_16",
@@ -1975,23 +2277,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se cacher = sich verstecken (cacher = verstecken); l'aspirateur = der Staubsauger (aspirer = einsaugen); sous le lit = unter dem Bett.",
    "audio": "audio/fr-de/wendungen/ch_16.mp3?v=6c276fc1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quand l'aspirateur sort, elle se cache sous le lit.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unterm Bett.",
     "luecke": "se cache",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_16.mp3?v=7b444cd1"
    },
    "zeit": {
     "pc": {
      "fr": "Quand l'aspirateur est sorti, elle s'est cachée sous le lit.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_16_pc.mp3?v=bbc4e49c"
     },
     "fp": {
      "fr": "Quand l'aspirateur va sortir, elle va se cacher sous le lit.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_16_fp.mp3?v=21bc22bd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_17",
@@ -2003,23 +2311,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „Gesellschaft halten“; tenir compagnie à qn = jemandem Gesellschaft leisten. préparer mes cours = Unterricht vorbereiten.",
    "audio": "audio/fr-de/wendungen/ch_17.mp3?v=e5933d43",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mes chats me tiennent compagnie quand je prépare mes cours.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich Unterricht vorbereite.",
     "luecke": "tiennent compagnie",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_17.mp3?v=6491f6fe"
    },
    "zeit": {
     "pc": {
      "fr": "Mes chats m'ont tenu compagnie toute la soirée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_17_pc.mp3?v=e46a292e"
     },
     "fp": {
      "fr": "Mes chats vont me tenir compagnie ce soir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_17_fp.mp3?v=8a33d584"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_18",
@@ -2031,14 +2345,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „Dachrinnenkatze“ (la gouttière = Dachrinne) = Hauskatze ohne Stammbaum; un chat de race = Rassekatze. Liebevoll, nicht abwertend.",
    "audio": "audio/fr-de/wendungen/ch_18.mp3?v=1879e92d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ce n'est pas un chat de race, c'est un chat de gouttière, et il est parfait.",
     "de": "Es ist keine Rassekatze, es ist eine ganz normale Hauskatze, und er ist perfekt.",
     "luecke": "chat de gouttière",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_18.mp3?v=0d87aba5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_19",
@@ -2050,23 +2368,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „Dummheiten machen“ (une bêtise = Dummheit, von bête = dumm, Tier); faire des bêtises = Unsinn anstellen, auch bei Kindern.",
    "audio": "audio/fr-de/wendungen/ch_19.mp3?v=e77bb6f3",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quand je ne suis pas là, ils font des bêtises.",
     "de": "Wenn ich nicht da bin, machen sie Unsinn.",
     "luecke": "font des bêtises",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_19.mp3?v=fd809378"
    },
    "zeit": {
     "pc": {
      "fr": "Quand je n'étais pas là, ils ont fait des bêtises.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_19_pc.mp3?v=1cb19a4e"
     },
     "fp": {
      "fr": "Quand je ne vais pas être là, ils vont faire des bêtises.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_19_fp.mp3?v=e436b426"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_20",
@@ -2078,14 +2402,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le vétérinaire, umgangssprachlich le véto; chez le vétérinaire = beim Tierarzt (chez + Person). devenir = werden.",
    "audio": "audio/fr-de/wendungen/ch_20.mp3?v=4b01acc1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Chez le vétérinaire, mon chat devient très, très calme.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "vétérinaire",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_20.mp3?v=b3ee0f05"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_21",
@@ -2097,14 +2425,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "déranger = stören; ça ne le dérange pas = das stört ihn nicht (le = ihn). chanter faux = schief singen. enfin, je crois = na ja, glaube ich.",
    "audio": "audio/fr-de/wendungen/ch_21.mp3?v=33df6b86",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je chante faux, mais ça ne le dérange pas. Enfin, je crois.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich zumindest.",
     "luecke": "ça ne le dérange pas",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_21.mp3?v=c7e648c5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_22",
@@ -2116,14 +2448,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "indépendant = unabhängig (femininum: indépendante); l'indépendance. revenir = zurückkommen; quand il a faim = wenn er Hunger hat.",
    "audio": "audio/fr-de/wendungen/ch_22.mp3?v=c74534de",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un chat est indépendant. Il revient quand il a faim.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "indépendant",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_22.mp3?v=cb094e20"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ch_23",
@@ -2135,23 +2471,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "ronronner de plaisir = vor Vergnügen schnurren (de + Gefühl = vor: pleurer de joie, mourir de faim). les yeux fermés = mit geschlossenen Augen.",
    "audio": "audio/fr-de/wendungen/ch_23.mp3?v=0abd0c30",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Au soleil, elle ronronne de plaisir, les yeux fermés.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "ronronne de plaisir",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_23.mp3?v=2eca76fb"
    },
    "zeit": {
     "pc": {
      "fr": "Au soleil, elle a ronronné de plaisir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_23_pc.mp3?v=7c778c9c"
     },
     "fp": {
      "fr": "Au soleil, elle va ronronner de plaisir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ch_23_fp.mp3?v=0a908728"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ch_24",
@@ -2163,14 +2505,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "est-ce que = Frageeinleitung, danach normaler Satz; madame ohne Artikel in der Anrede. il y en a un = es gibt eine davon (en = davon). le toit = das Dach.",
    "audio": "audio/fr-de/wendungen/ch_24.mp3?v=5152677b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Excusez-moi, madame, est-ce que vous avez un chat ? Il y en a un sur votre toit.",
     "de": "Entschuldigung, Madame, haben Sie eine Katze? Da sitzt eine auf Ihrem Dach.",
     "luecke": "est-ce que vous avez",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ch_24.mp3?v=d0d60eb0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_01",
@@ -2182,23 +2528,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "juste = richtig, genau (auch: gerecht); chanter juste = sauber singen. Gegenteil: chanter faux. mit dem Herzen: avec le cœur.",
    "audio": "audio/fr-de/wendungen/mu_01.mp3?v=6a6484ca",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mon frère chante juste, moi je chante avec le cœur.",
     "de": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
     "luecke": "chante juste",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_01.mp3?v=31f58035"
    },
    "zeit": {
     "pc": {
      "fr": "Hier, j'ai chanté juste. Une fois.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_01_pc.mp3?v=6600f11d"
     },
     "fp": {
      "fr": "Demain, je vais chanter juste. Promis.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_01_fp.mp3?v=fef9aafb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_02",
@@ -2210,23 +2562,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "faux = falsch (femininum fausse); chanter faux, jouer faux. fort = laut (und stark); compenser = ausgleichen.",
    "audio": "audio/fr-de/wendungen/mu_02.mp3?v=f139f126",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je chante faux, mais fort. Ça compense.",
     "de": "Ich singe schief, aber laut. Das gleicht es aus.",
     "luecke": "chante faux",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_02.mp3?v=4d4cb5bc"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai chanté faux pendant tout le concert.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_02_pc.mp3?v=38c363e6"
     },
     "fp": {
      "fr": "Je vais chanter faux, et alors ?",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_02_fp.mp3?v=319ec16f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_03",
@@ -2238,14 +2596,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le refrain = Refrain (wie im Deutschen, Betonung hinten); le couplet = die Strophe. connaître = kennen (Personen, Dinge), savoir = wissen.",
    "audio": "audio/fr-de/wendungen/mu_03.mp3?v=d2d2410b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je ne connais pas les paroles, mais le refrain, oui.",
     "de": "Ich kenne den Text nicht, aber den Refrain schon.",
     "luecke": "refrain",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_03.mp3?v=d6bb30a9"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_04",
@@ -2257,14 +2619,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "les paroles (Plural!) = Liedtext (la parole = das Wort, die Sprache); les paroles d'une chanson. un frisson = Schauer.",
    "audio": "audio/fr-de/wendungen/mu_04.mp3?v=027a68ba",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Les paroles de cette chanson me donnent des frissons.",
     "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
     "luecke": "paroles",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_04.mp3?v=2c9b5b29"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_05",
@@ -2276,23 +2642,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "sonner = klingen, läuten; ça sonne bien/faux = das klingt gut/falsch. en français = auf Französisch (ohne Artikel).",
    "audio": "audio/fr-de/wendungen/mu_05.mp3?v=c1437575",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "En français, cette phrase sonne bien. En allemand, moins.",
     "de": "Auf Französisch klingt dieser Satz gut. Auf Deutsch weniger.",
     "luecke": "sonne bien",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_05.mp3?v=6c8170ac"
    },
    "zeit": {
     "pc": {
      "fr": "Ça a sonné bien du premier coup.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_05_pc.mp3?v=e85f8cd7"
     },
     "fp": {
      "fr": "Ça va sonner bien, tu vas voir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_05_fp.mp3?v=8deae94a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_06",
@@ -2304,14 +2676,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das Ohr haben“ = musikalisches Gehör haben; l'oreille (weiblich); tout de suite = sofort. entendre = hören.",
    "audio": "audio/fr-de/wendungen/mu_06.mp3?v=3e613e1c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Aurélien a l'oreille : il entend mon accent allemand tout de suite.",
     "de": "Aurélien hat ein gutes Gehör: Er hört meinen deutschen Akzent sofort.",
     "luecke": "a l'oreille",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_06.mp3?v=3fb438cb"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_07",
@@ -2323,14 +2699,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "l'accent (männlich) = Akzent (Aussprache und Schriftzeichen); un mélange = Mischung; la bonne volonté = der gute Wille.",
    "audio": "audio/fr-de/wendungen/mu_07.mp3?v=fa8feb46",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mon accent, c'est un mélange de Sarre et de bonne volonté.",
     "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "luecke": "accent",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_07.mp3?v=3f87a94f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_08",
@@ -2342,14 +2722,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "ce que j'aime …, c'est … = was ich mag, ist … (Hervorhebung mit ce que … c'est); la langue = Sprache und Zunge.",
    "audio": "audio/fr-de/wendungen/mu_08.mp3?v=7b6c01ac",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ce que j'aime en français, c'est la musique de la langue.",
     "de": "Was ich am Französischen liebe, ist die Musik der Sprache.",
     "luecke": "musique de la langue",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_08.mp3?v=f40bdb45"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_09",
@@ -2361,23 +2745,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "jouer de + Instrument (jouer de la guitare, du piano), aber jouer à + Spiel/Sport (jouer au foot). mal = schlecht (Adverb).",
    "audio": "audio/fr-de/wendungen/mu_09.mp3?v=51548232",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tu joues d'un instrument ? – Oui, de la guitare, mal.",
     "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "luecke": "joues d'un instrument",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_09.mp3?v=59fad888"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai joué de la guitare toute la soirée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_09_pc.mp3?v=68fc2f06"
     },
     "fp": {
      "fr": "Je vais jouer de la guitare ce soir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_09_fp.mp3?v=17e76fae"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_10",
@@ -2389,23 +2779,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „in Schleife hören“ (une boucle = Schleife, Locke); en boucle = in Dauerschleife. depuis trois jours = seit drei Tagen (Präsens!).",
    "audio": "audio/fr-de/wendungen/mu_10.mp3?v=09a01d9b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'écoute cette chanson en boucle depuis trois jours.",
     "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "luecke": "en boucle",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_10.mp3?v=25952e07"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai écouté cette chanson en boucle tout le week-end.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_10_pc.mp3?v=983bdeb4"
     },
     "fp": {
      "fr": "Je vais l'écouter en boucle, je le sens.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_10_fp.mp3?v=9347b6ed"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_11",
@@ -2417,14 +2813,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „ein Lied im Kopf haben“ = Ohrwurm; « Ne me quitte pas » = Jacques Brels berühmtestes Chanson (1959), Aurélien liebt Brel.",
    "audio": "audio/fr-de/wendungen/mu_11.mp3?v=6c47a503",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'ai « Ne me quitte pas » dans la tête depuis ce matin. Merci, Aurélien.",
     "de": "Ich habe seit heute Morgen „Ne me quitte pas“ als Ohrwurm. Danke, Aurélien.",
     "luecke": "dans la tête",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_11.mp3?v=1c812ad0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_12",
@@ -2436,23 +2836,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "fredonner = summen, vor sich hin singen (nicht brummen wie ein Motor: ronronner); en corrigeant = Gérondif (en + -ant) = beim Korrigieren.",
    "audio": "audio/fr-de/wendungen/mu_12.mp3?v=12709bf6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je fredonne en corrigeant des copies. Les élèves ne le savent pas.",
     "de": "Ich summe beim Korrigieren. Die Schüler wissen das nicht.",
     "luecke": "fredonne",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_12.mp3?v=ef5591eb"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fredonné toute la matinée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_12_pc.mp3?v=7d53e737"
     },
     "fp": {
      "fr": "Je vais fredonner toute la journée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_12_fp.mp3?v=a3080b82"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_13",
@@ -2464,14 +2870,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le rythme (Schreibung: y, th!); accentuer = betonen. Im Französischen liegt der Akzent immer auf der letzten Silbe der Wortgruppe.",
    "audio": "audio/fr-de/wendungen/mu_13.mp3?v=05c96836",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le français a un rythme : on accentue la fin des mots.",
     "de": "Das Französische hat einen Rhythmus: Man betont das Wortende.",
     "luecke": "rythme",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_13.mp3?v=491ca84f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_14",
@@ -2483,14 +2893,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la liaison = Bindung: stummer Endkonsonant wird vor Vokal gesprochen – les‿amis [lezami]. Pflicht nach Artikel/Pronomen, verboten vor h aspiré (les / héros).",
    "audio": "audio/fr-de/wendungen/mu_14.mp3?v=5f68e9fb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Les‿enfants, les‿amis : la liaison, c'est la musique entre les mots.",
     "de": "Les‿enfants, les‿amis: Die Liaison ist die Musik zwischen den Wörtern.",
     "luecke": "liaison",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_14.mp3?v=f133a229"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_15",
@@ -2502,23 +2916,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "prononcer = aussprechen; la prononciation. je n'arrive pas à + Infinitiv = ich schaffe es nicht zu. grenouille = Frosch [gʀənuj], grenade = Granate/Granatapfel.",
    "audio": "audio/fr-de/wendungen/mu_15.mp3?v=f00c28e7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je n'arrive pas à prononcer « grenouille ». Je dis « grenade ».",
     "de": "Ich kann „grenouille“ nicht aussprechen. Ich sage „grenade“.",
     "luecke": "prononcer",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_15.mp3?v=cf8a0f5f"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai prononcé « grenouille » correctement. Une fois.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_15_pc.mp3?v=39897b73"
     },
     "fp": {
      "fr": "Je vais prononcer ce mot cent fois.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_15_fp.mp3?v=08c69412"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_16",
@@ -2530,14 +2950,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un morceau = Stück (Musik, Brot, Kuchen: un morceau de pain); en même temps = gleichzeitig. rendre heureux = glücklich machen.",
    "audio": "audio/fr-de/wendungen/mu_16.mp3?v=6c80ff28",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ce morceau de piano me rend heureux et triste en même temps.",
     "de": "Dieses Klavierstück macht mich gleichzeitig glücklich und traurig.",
     "luecke": "morceau",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_16.mp3?v=d784d97a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_17",
@@ -2549,14 +2973,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „zum Kopf-Töten“ (tuer = töten, la tête = Kopf); chanter/crier à tue-tête = aus voller Kehle. seul = allein.",
    "audio": "audio/fr-de/wendungen/mu_17.mp3?v=70823cb4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dans la voiture, je chante à tue-tête. Seul. Toujours seul.",
     "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "luecke": "à tue-tête",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_17.mp3?v=070f1c4f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_18",
@@ -2568,14 +2996,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "grave = tief (Stimme, Ton) und ernst; aigu/aiguë = hoch, spitz. une voix de prof = eine Lehrerstimme (de ohne Artikel = Art, Typ).",
    "audio": "audio/fr-de/wendungen/mu_18.mp3?v=d68e4640",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il a une voix grave, elle a une voix aiguë, et moi j'ai une voix de prof.",
     "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "luecke": "voix grave",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_18.mp3?v=491b8253"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_19",
@@ -2587,23 +3019,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das spricht mir“ – ça me parle = das sagt mir etwas, das spricht mich an. ça ne me parle pas = sagt mir nichts.",
    "audio": "audio/fr-de/wendungen/mu_19.mp3?v=380c7847",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Cette chanson me parle. Je ne comprends pas tout, mais elle me parle.",
     "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "luecke": "me parle",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_19.mp3?v=b07c4c9e"
    },
    "zeit": {
     "pc": {
      "fr": "Cette chanson m'a parlé tout de suite.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_19_pc.mp3?v=c12d3346"
     },
     "fp": {
      "fr": "Cette chanson va te parler, j'en suis sûr.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_19_fp.mp3?v=b0750784"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_20",
@@ -2615,23 +3053,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „durchs Herz lernen“ (par cœur) – wie engl. by heart; apprendre/savoir par cœur. le vocabulaire = der Wortschatz.",
    "audio": "audio/fr-de/wendungen/mu_20.mp3?v=36f82879",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'apprends les paroles par cœur, c'est mon vocabulaire préféré.",
     "de": "Ich lerne die Liedtexte auswendig, das ist mein liebstes Vokabular.",
     "luecke": "par cœur",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_20.mp3?v=465b3a13"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai appris le refrain par cœur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_20_pc.mp3?v=8c51d241"
     },
     "fp": {
      "fr": "Je vais apprendre toute la chanson par cœur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_20_fp.mp3?v=2955b84d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_21",
@@ -2643,23 +3087,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se tromper de + Nomen ohne Artikel = das Falsche erwischen: se tromper de mot, de porte, de jour. se tromper = sich irren.",
    "audio": "audio/fr-de/wendungen/mu_21.mp3?v=e680d69d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je me trompe souvent de mot, mais la mélodie est juste.",
     "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
     "luecke": "me trompe",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_21.mp3?v=36b0e4f6"
    },
    "zeit": {
     "pc": {
      "fr": "Je me suis trompé de mot. Encore.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_21_pc.mp3?v=8d22b8c2"
     },
     "fp": {
      "fr": "Je vais me tromper de mot, c'est sûr.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_21_fp.mp3?v=f94e2148"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_22",
@@ -2671,23 +3121,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „das macht mir Gutes“; faire du bien à qn = guttun; Gegenteil: faire du mal = wehtun. chanter le soir = abends singen.",
    "audio": "audio/fr-de/wendungen/mu_22.mp3?v=ce2383bd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Chanter le soir, ça me fait du bien.",
     "de": "Abends singen tut mir gut.",
     "luecke": "me fait du bien",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_22.mp3?v=e003e287"
    },
    "zeit": {
     "pc": {
      "fr": "Ça m'a fait du bien.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_22_pc.mp3?v=cd4ba111"
     },
     "fp": {
      "fr": "Ça va me faire du bien.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/mu_22_fp.mp3?v=f9926428"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_23",
@@ -2699,14 +3155,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "chantant = singend, melodisch (Partizip von chanter als Adjektiv); une langue chantante. râler = meckern, motzen – Nationalsport.",
    "audio": "audio/fr-de/wendungen/mu_23.mp3?v=be818a9d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le français est une langue chantante. Même quand on râle.",
     "de": "Französisch ist eine singende Sprache. Sogar wenn man meckert.",
     "luecke": "chantante",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_23.mp3?v=964f8061"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_24",
@@ -2718,14 +3178,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "pourriez-vous = Konditional (höflich); répéter = wiederholen; plus lentement = langsamer (Komparativ mit plus + Adverb). pardon = Entschuldigung, Verzeihung.",
    "audio": "audio/fr-de/wendungen/mu_24.mp3?v=da3ed7f0",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Pardon, pourriez-vous répéter plus lentement ? J'écoute la musique, pas les mots.",
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "pourriez-vous répéter",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/mu_24.mp3?v=fababc76"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_01",
@@ -2737,14 +3201,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „er war ein Mal“ – il y avait verkürzt; der Märchenanfang. un conte = Märchen (conter = erzählen); un conte de fées = Feenmärchen.",
    "audio": "audio/fr-de/wendungen/hi_01.mp3?v=e7f246a7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il était une fois un professeur qui ne corrigeait jamais ses copies. C'est un conte.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "Il était une fois",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_01.mp3?v=57920f9b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_02",
@@ -2756,23 +3224,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "raconter = erzählen (nicht conter); raconter qc à qn: je raconte une histoire à mon chat. s'endormir = einschlafen. avant la fin = vor dem Ende.",
    "audio": "audio/fr-de/wendungen/hi_02.mp3?v=39f03e6e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le soir, je raconte une histoire à mon chat. Il s'endort avant la fin.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "raconte une histoire",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_02.mp3?v=47c46a12"
    },
    "zeit": {
     "pc": {
      "fr": "Hier soir, j'ai raconté une histoire à mon chat.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_02_pc.mp3?v=21304ad3"
     },
     "fp": {
      "fr": "Ce soir, je vais raconter une histoire à mon chat.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_02_fp.mp3?v=44cb9c31"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_03",
@@ -2784,14 +3258,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la quête = Suche, Queste (vom alten quérir = suchen; Gralssuche = la quête du Graal); en quête de = auf der Suche nach. ses clés = seine Schlüssel.",
    "audio": "audio/fr-de/wendungen/hi_03.mp3?v=f0e21c54",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Chaque bon roman commence par une quête. Même si c'est juste chercher ses clés.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur um die Schlüssel geht.",
     "luecke": "quête",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_03.mp3?v=461c074b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_04",
@@ -2803,14 +3281,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "au fond de = tief in, hinten in (le fond = Grund, Hintergrund); au fond de la forêt, au fond de la classe. il y avait = es gab (Imparfait).",
    "audio": "audio/fr-de/wendungen/hi_04.mp3?v=79b843eb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Au fond de la forêt, il y avait une maison. Et dans la maison, une lumière.",
     "de": "Tief im Wald stand ein Haus. Und im Haus brannte ein Licht.",
     "luecke": "Au fond de la forêt",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_04.mp3?v=c7da3f5e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_05",
@@ -2822,14 +3304,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le dragon; cracher du feu = Feuer speien (cracher = spucken); cracher des devoirs = Hausaufgaben speien. Imparfait = Beschreibung in der Vergangenheit.",
    "audio": "audio/fr-de/wendungen/hi_05.mp3?v=693b7b44",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le dragon ne crachait pas de feu. Il crachait des devoirs.",
     "de": "Der Drache spuckte kein Feuer. Er spuckte Hausaufgaben.",
     "luecke": "dragon",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_05.mp3?v=31ae78f6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_06",
@@ -2841,14 +3327,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une épée = Schwert (weiblich); lourd/lourde = schwer (Gewicht; schwierig = difficile). comme un lundi = wie ein Montag.",
    "audio": "audio/fr-de/wendungen/hi_06.mp3?v=94c53e35",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le héros a pris son épée. Elle était lourde, comme un lundi.",
     "de": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "luecke": "épée",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_06.mp3?v=001d49f1"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_07",
@@ -2860,23 +3350,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un sortilège = Zauber, Bann (vom lat. sors = Los, Schicksal); auch un sort: jeter un sort = verhexen. ne … que = nur: ça n'a duré que trois minutes.",
    "audio": "audio/fr-de/wendungen/hi_07.mp3?v=b37d9409",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un sortilège a transformé la classe en silence. Ça n'a duré que trois minutes.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es hielt nur drei Minuten.",
     "luecke": "sortilège",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_07.mp3?v=7e09ccc0"
    },
    "zeit": {
     "pc": {
      "fr": "Un sortilège a transformé la classe.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_07_pc.mp3?v=30983e50"
     },
     "fp": {
      "fr": "Un sortilège va transformer la classe.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_07_fp.mp3?v=1297e292"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_08",
@@ -2888,14 +3384,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „mit einem Schlag“ = plötzlich (umgangssprachlich; synonym tout à coup, soudain); nicht verwechseln mit du coup (= also).",
    "audio": "audio/fr-de/wendungen/hi_08.mp3?v=15d264b4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "D'un coup, la porte s'est ouverte. Personne. Juste le vent. Enfin, j'espère.",
     "de": "Plötzlich ging die Tür auf. Niemand. Nur der Wind. Hoffe ich zumindest.",
     "luecke": "D'un coup",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_08.mp3?v=31b58ddc"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_09",
@@ -2907,14 +3407,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "avoir un secret = ein Geheimnis haben; tout le monde = alle (Singular-Verb: tout le monde a). même = sogar.",
    "audio": "audio/fr-de/wendungen/hi_09.mp3?v=d05076db",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tout le monde a un secret dans cette histoire. Même le chat.",
     "de": "Jeder in dieser Geschichte hat ein Geheimnis. Sogar die Katze.",
     "luecke": "a un secret",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_09.mp3?v=824b3061"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_10",
@@ -2926,14 +3430,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un royaume = Königreich (le roi = König, la reine = Königin); le Royaume-Uni = Vereinigtes Königreich. parlaient/écoutaient = Imparfait.",
    "audio": "audio/fr-de/wendungen/hi_10.mp3?v=5e509e7a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dans ce royaume, les livres parlaient et les gens écoutaient.",
     "de": "In diesem Königreich sprachen die Bücher, und die Menschen hörten zu.",
     "luecke": "royaume",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_10.mp3?v=4fcc4e0c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_11",
@@ -2945,14 +3453,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un sorcier / une sorcière = Zauberer / Hexe (le sort = Zauber); méchant = böse, gemein. je la comprends = ich verstehe sie (la = sie, vor dem Verb).",
    "audio": "audio/fr-de/wendungen/hi_11.mp3?v=569361f0",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La sorcière n'était pas méchante. Elle était fatiguée. Je la comprends.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "sorcière",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_11.mp3?v=3a3d198c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_12",
@@ -2964,23 +3476,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se transformer en + Nomen ohne Artikel: se transformer en lecteur, en grenouille. à minuit = um Mitternacht; jusqu'à = bis.",
    "audio": "audio/fr-de/wendungen/hi_12.mp3?v=413673bc",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "À minuit, le prof se transforme en lecteur. Jusqu'à deux heures du matin.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "se transforme en",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_12.mp3?v=812cf6f0"
    },
    "zeit": {
     "pc": {
      "fr": "À minuit, le prof s'est transformé en lecteur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_12_pc.mp3?v=841e6a9d"
     },
     "fp": {
      "fr": "À minuit, le prof va se transformer en lecteur.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_12_fp.mp3?v=f5014cf7"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_13",
@@ -2992,14 +3510,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „alles mit einem Schlag“ = auf einmal, plötzlich (schriftsprachlicher als d'un coup). c'est quand … ? = wann ist … ? (umgangssprachlich).",
    "audio": "audio/fr-de/wendungen/hi_13.mp3?v=b84e1523",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tout à coup, le silence. Puis une voix : « Monsieur, c'est quand la pause ? »",
     "de": "Auf einmal Stille. Dann eine Stimme: „Monsieur, wann ist Pause?“",
     "luecke": "Tout à coup",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_13.mp3?v=cab970c4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_14",
@@ -3011,14 +3533,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le héros (h aspiré: le héros, kein Apostroph, keine Liaison) / l'héroïne (h muet!). c'est pour ça que = deshalb. courageux = mutig.",
    "audio": "audio/fr-de/wendungen/hi_14.mp3?v=f81f1115",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le héros de mon roman préféré a peur de tout. C'est pour ça qu'il est courageux.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "héros",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_14.mp3?v=2a6ab83a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_15",
@@ -3030,14 +3556,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le méchant = der Böse, Bösewicht (Adjektiv méchant = böse, gemein); le gentil = der Gute. le réveil = Wecker und Aufwachen.",
    "audio": "audio/fr-de/wendungen/hi_15.mp3?v=57af2bdd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le méchant de l'histoire, c'est le réveil. Six heures. Chaque jour.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "méchant",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_15.mp3?v=92db62d0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_16",
@@ -3049,23 +3579,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une carte = Karte (Landkarte, Spielkarte, Speisekarte); le trésor = Schatz; un cahier = Heft; un plan = Stadtplan, Grundriss; la cantine = Schulmensa.",
    "audio": "audio/fr-de/wendungen/hi_16.mp3?v=f30d6147",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'ai trouvé une carte au trésor dans un cahier. C'était un plan de la cantine.",
     "de": "Ich habe eine Schatzkarte in einem Heft gefunden. Es war ein Plan der Mensa.",
     "luecke": "carte au trésor",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_16.mp3?v=5833ff4d"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai trouvé une carte au trésor.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_16_pc.mp3?v=7dcd9c63"
     },
     "fp": {
      "fr": "Je vais trouver une carte au trésor, un jour.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_16_fp.mp3?v=434f948d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_17",
@@ -3077,14 +3613,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „es erscheint, dass“ (paraître = scheinen) = es heißt, angeblich; il paraît que + Indikativ. Gerüchte-Formel schlechthin.",
    "audio": "audio/fr-de/wendungen/hi_17.mp3?v=ba3b6373",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il paraît que la salle 13 existe. Il paraît aussi que le chat y dort.",
     "de": "Es heißt, Saal 13 gibt es. Es heißt auch, die Katze schläft dort.",
     "luecke": "Il paraît que",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_17.mp3?v=73a6b7cf"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_18",
@@ -3096,23 +3636,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "disparaître = verschwinden (paraître → apparaître = erscheinen, disparaître); passé composé: il a disparu. les stylos = Kugelschreiber.",
    "audio": "audio/fr-de/wendungen/hi_18.mp3?v=5478fd82",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dans ce roman, les gens disparaissent. Dans ma classe, ce sont les stylos.",
     "de": "In diesem Roman verschwinden Menschen. In meiner Klasse sind es die Stifte.",
     "luecke": "disparaissent",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_18.mp3?v=9fdae221"
    },
    "zeit": {
     "pc": {
      "fr": "Dans ce roman, trois personnes ont disparu.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_18_pc.mp3?v=7df0c347"
     },
     "fp": {
      "fr": "Dans ce roman, tout le monde va disparaître.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_18_fp.mp3?v=ce829c9d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_19",
@@ -3124,14 +3670,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la suite = Fortsetzung, das Folgende (suivre = folgen); « à suivre » = Fortsetzung folgt; tout de suite = sofort – die beiden nicht verwechseln!",
    "audio": "audio/fr-de/wendungen/hi_19.mp3?v=15b747dd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je veux lire la suite tout de suite. Mais il est minuit. Je lis la suite.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "suite",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_19.mp3?v=9cfd5a6c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_20",
@@ -3143,23 +3693,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „in Atem halten“ (l'haleine = Atem, Hauch) – tenir en haleine = in Spannung halten; une mauvaise haleine = Mundgeruch.",
    "audio": "audio/fr-de/wendungen/hi_20.mp3?v=eb6842a1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ce livre me tient en haleine depuis trois nuits.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "en haleine",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_20.mp3?v=fe8210bd"
    },
    "zeit": {
     "pc": {
      "fr": "Ce livre m'a tenu en haleine toute la nuit.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_20_pc.mp3?v=eaf342fc"
     },
     "fp": {
      "fr": "Ce livre va me tenir en haleine, je le sais.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_20_fp.mp3?v=d648e5c2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_21",
@@ -3171,23 +3727,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "frissonner = schaudern, zittern (un frisson = Schauer); à chaque chapitre = bei jedem Kapitel. la fantasy = das Genre (engl. Wort, weiblich).",
    "audio": "audio/fr-de/wendungen/hi_21.mp3?v=729da42f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je frissonne à chaque chapitre. Et je continue. C'est ça, la fantasy.",
     "de": "Ich schaudere bei jedem Kapitel. Und lese weiter. Das ist Fantasy.",
     "luecke": "frissonne",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_21.mp3?v=12040717"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai frissonné à la fin du chapitre.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_21_pc.mp3?v=4a734226"
     },
     "fp": {
      "fr": "Tu vas frissonner, c'est promis.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/hi_21_fp.mp3?v=4d060b9f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_22",
@@ -3199,14 +3761,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un rebondissement = Wendung, überraschende Entwicklung (rebondir = abprallen, wieder hochspringen); depuis le début = von Anfang an.",
    "audio": "audio/fr-de/wendungen/hi_22.mp3?v=98b0c0e1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un rebondissement à la page 200 : le chat était le roi depuis le début.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "rebondissement",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_22.mp3?v=3aca99be"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_23",
@@ -3218,14 +3784,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la fin = Ende (weiblich: la fin du film); le fin = das Feine. je ne la raconte pas = ich erzähle es nicht (la = die fin). lis = Imperativ von lire.",
    "audio": "audio/fr-de/wendungen/hi_23.mp3?v=fc7fc7ee",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La fin de cette histoire ? Je ne la raconte pas. Lis le livre.",
     "de": "Das Ende dieser Geschichte? Ich verrate es nicht. Lies das Buch.",
     "luecke": "fin",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_23.mp3?v=c67fac0c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_24",
@@ -3237,14 +3807,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "conseiller = raten, empfehlen (le conseil = Rat); conseiller qc à qn: me conseiller un livre. un peu sombre, un peu magique = ein bisschen düster, ein bisschen magisch.",
    "audio": "audio/fr-de/wendungen/hi_24.mp3?v=45186b7c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bonjour, pourriez-vous me conseiller un livre ? Un peu sombre, un peu magique.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "pourriez-vous me conseiller",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/hi_24.mp3?v=ce5c9112"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_01",
@@ -3256,23 +3830,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "s'entraîner = trainieren (reflexiv!; entraîner = mitreißen, trainieren als Trainer); l'entraînement = das Training; l'entraîneur = Trainer.",
    "audio": "audio/fr-de/wendungen/sp_01.mp3?v=63a3a72e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je m'entraîne trois fois par semaine. Deux, si je suis honnête.",
     "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "luecke": "m'entraîne",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_01.mp3?v=6162c012"
    },
    "zeit": {
     "pc": {
      "fr": "Je me suis entraîné trois fois cette semaine.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_01_pc.mp3?v=11d02e98"
     },
     "fp": {
      "fr": "Je vais m'entraîner trois fois cette semaine. Deux.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_01_fp.mp3?v=7bb6d5f8"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_02",
@@ -3284,14 +3864,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un coup de pied = Tritt (wörtlich „Schlag des Fußes“); un coup de + Körperteil/Werkzeug: coup de poing, coup de tête, coup de main (Hilfe).",
    "audio": "audio/fr-de/wendungen/sp_02.mp3?v=956dac9c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un bon coup de pied, c'est d'abord une bonne position.",
     "de": "Ein guter Tritt ist zuerst ein guter Stand.",
     "luecke": "coup de pied",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_02.mp3?v=9d20b27f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_03",
@@ -3303,14 +3887,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le poing = Faust (nicht le point = Punkt, gleiche Aussprache!); la hanche = Hüfte; partir de = ausgehen von. le bras = Arm.",
    "audio": "audio/fr-de/wendungen/sp_03.mp3?v=1b4c8474",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "En kung-fu, le coup de poing part de la hanche, pas du bras.",
     "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
     "luecke": "coup de poing",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_03.mp3?v=1346f491"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_04",
@@ -3322,14 +3910,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la souplesse = Beweglichkeit, Geschmeidigkeit (souple = biegsam, geschmeidig); se travailler = sich trainieren lassen. sinon = sonst.",
    "audio": "audio/fr-de/wendungen/sp_04.mp3?v=c34df32c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "À quarante ans, la souplesse se travaille tous les jours. Sinon, elle part.",
     "de": "Mit vierzig muss man die Beweglichkeit täglich üben. Sonst geht sie.",
     "luecke": "souplesse",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_04.mp3?v=bc5e7078"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_05",
@@ -3341,23 +3933,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "garder = behalten, bewahren; garder son calme = die Ruhe bewahren. en combat comme en classe = im Kampf wie in der Klasse. respirer = atmen.",
    "audio": "audio/fr-de/wendungen/sp_05.mp3?v=5f4fd78d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "En combat comme en classe : garder son calme, respirer, attendre.",
     "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, abwarten.",
     "luecke": "garder son calme",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_05.mp3?v=c1464945"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai gardé mon calme. Presque.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_05_pc.mp3?v=ad4eb1df"
     },
     "fp": {
      "fr": "Je vais garder mon calme. Promis.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_05_fp.mp3?v=17090387"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_06",
@@ -3369,23 +3967,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "s'échauffer = sich aufwärmen (chaud = warm; échauffer = erwärmen); l'échauffement = das Aufwärmen. mon dos = mein Rücken.",
    "audio": "audio/fr-de/wendungen/sp_06.mp3?v=e5a9cd9e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Avant de m'entraîner, je m'échauffe dix minutes. Mon dos me dit merci.",
     "de": "Vor dem Training wärme ich mich zehn Minuten auf. Mein Rücken dankt es mir.",
     "luecke": "m'échauffe",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_06.mp3?v=e0abae8d"
    },
    "zeit": {
     "pc": {
      "fr": "Je me suis échauffé dix minutes.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_06_pc.mp3?v=b7bba3d1"
     },
     "fp": {
      "fr": "Je vais m'échauffer dix minutes.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_06_fp.mp3?v=7944f308"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_07",
@@ -3397,23 +4001,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une courbature = Muskelkater (von courber = krümmen); immer Plural: avoir des courbatures; courbaturé = steif, verspannt. le lendemain = der nächste Tag.",
    "audio": "audio/fr-de/wendungen/sp_07.mp3?v=3d9d36a7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le lendemain, j'ai des courbatures partout. Même dans les oreilles.",
     "de": "Am nächsten Tag habe ich überall Muskelkater. Sogar in den Ohren.",
     "luecke": "ai des courbatures",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_07.mp3?v=6e01f378"
    },
    "zeit": {
     "pc": {
      "fr": "Le lendemain, j'ai eu des courbatures partout.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_07_pc.mp3?v=b95fee62"
     },
     "fp": {
      "fr": "Demain, je vais avoir des courbatures partout.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_07_fp.mp3?v=bf74d5a3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_08",
@@ -3425,23 +4035,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „in Form sein“ = fit sein; être en pleine forme = topfit; Gegenteil: ne pas être en forme. Nicht „schlank“ – das wäre mince.",
    "audio": "audio/fr-de/wendungen/sp_08.mp3?v=bca486e4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je suis en forme le matin. L'après-midi, je suis prof.",
     "de": "Morgens bin ich fit. Nachmittags bin ich Lehrer.",
     "luecke": "en forme",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_08.mp3?v=fd35bdbf"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai été en forme toute la semaine.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_08_pc.mp3?v=1c9d3919"
     },
     "fp": {
      "fr": "Je vais être en forme pour le stage.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_08_fp.mp3?v=a0b70721"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_09",
@@ -3453,14 +4069,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "tenir = halten; la position du cavalier = Reiterstellung (ma bu); simple ≠ facile: einfach (unkompliziert) ≠ leicht (mühelos).",
    "audio": "audio/fr-de/wendungen/sp_09.mp3?v=61bbc4da",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tenir la position du cavalier pendant deux minutes : simple. Pas facile.",
     "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
     "luecke": "Tenir la position",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_09.mp3?v=1185af49"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_10",
@@ -3472,14 +4092,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la respiration = Atmung (respirer = atmen); tout commence par = alles beginnt mit (commencer par, nicht avec). en classe = im Unterricht.",
    "audio": "audio/fr-de/wendungen/sp_10.mp3?v=dee90abd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "En kung-fu, tout commence par la respiration. En classe aussi.",
     "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
     "luecke": "respiration",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_10.mp3?v=fe48a346"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_11",
@@ -3491,14 +4115,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le maître = Meister, Lehrmeister (auch Grundschullehrer: le maître, la maîtresse); vite = schnell (Adverb), lentement = langsam.",
    "audio": "audio/fr-de/wendungen/sp_11.mp3?v=70da6113",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mon maître dit : « Lentement, c'est vite. » Je n'ai pas encore compris.",
     "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
     "luecke": "maître",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_11.mp3?v=334530ca"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_12",
@@ -3510,23 +4138,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un enchaînement = Abfolge, Verkettung (une chaîne = Kette; enchaîner = verketten) – im Kung-Fu die Form. j'en connais quatre = ich kenne vier davon (en).",
    "audio": "audio/fr-de/wendungen/sp_12.mp3?v=50a96a5e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'apprends un nouvel enchaînement. Douze mouvements. J'en connais quatre.",
     "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kann ich.",
     "luecke": "enchaînement",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_12.mp3?v=46862091"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai appris un nouvel enchaînement.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_12_pc.mp3?v=168c0f1a"
     },
     "fp": {
      "fr": "Je vais apprendre un nouvel enchaînement.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_12_fp.mp3?v=da48488a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_13",
@@ -3538,14 +4172,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "esquiver = ausweichen (eine esquive = Ausweichbewegung); bloquer = blocken; ça marche = das funktioniert, klappt. en réunion = in der Sitzung.",
    "audio": "audio/fr-de/wendungen/sp_13.mp3?v=f338d825",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Esquiver, c'est mieux que bloquer. Ça marche aussi en réunion.",
     "de": "Ausweichen ist besser als blocken. Das funktioniert auch in Konferenzen.",
     "luecke": "Esquiver",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_13.mp3?v=62bbdb76"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_14",
@@ -3557,23 +4195,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "transpirer = schwitzen (la transpiration); auch suer (la sueur = Schweiß), umgangssprachlicher. comme une fontaine = wie ein Brunnen.",
    "audio": "audio/fr-de/wendungen/sp_14.mp3?v=228ac180",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Après l'entraînement, je transpire comme une fontaine. Une fontaine heureuse.",
     "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "luecke": "transpire",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_14.mp3?v=839af064"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai transpiré comme une fontaine.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_14_pc.mp3?v=7d8654b9"
     },
     "fp": {
      "fr": "Je vais transpirer, c'est le but.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_14_fp.mp3?v=8d504a18"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_15",
@@ -3585,23 +4229,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se blesser = sich verletzen (une blessure = Verletzung, Wunde); blessé = verletzt. sauf = außer; en ouvrant = Gérondif (beim Öffnen).",
    "audio": "audio/fr-de/wendungen/sp_15.mp3?v=ef175e52",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je ne me blesse jamais. Sauf en ouvrant une boîte de pâtée.",
     "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Katzenfutter.",
     "luecke": "me blesse",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_15.mp3?v=05797250"
    },
    "zeit": {
     "pc": {
      "fr": "Je me suis blessé en ouvrant une boîte.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_15_pc.mp3?v=306f9ef5"
     },
     "fp": {
      "fr": "Je ne vais pas me blesser. Normalement.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_15_fp.mp3?v=8208fa72"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_16",
@@ -3613,23 +4263,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un étirement = Dehnung (étirer = dehnen, strecken; s'étirer = sich strecken); faire des étirements = Dehnübungen machen. perplexe = ratlos.",
    "audio": "audio/fr-de/wendungen/sp_16.mp3?v=57bb5bf8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je fais des étirements le soir, devant la télé. Le chat me regarde, perplexe.",
     "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut ratlos zu.",
     "luecke": "fais des étirements",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_16.mp3?v=aef34717"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait des étirements après le kung-fu.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_16_pc.mp3?v=3a3a8d25"
     },
     "fp": {
      "fr": "Je vais faire des étirements ce soir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_16_fp.mp3?v=73162b6e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_17",
@@ -3641,23 +4297,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le souffle = Atem, Hauch (souffler = blasen, atmen); reprendre son souffle = wieder zu Atem kommen; être à bout de souffle = außer Atem.",
    "audio": "audio/fr-de/wendungen/sp_17.mp3?v=438288b2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Entre deux séries, je reprends mon souffle. Longtemps.",
     "de": "Zwischen zwei Sätzen komme ich wieder zu Atem. Lange.",
     "luecke": "reprends mon souffle",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_17.mp3?v=7c8e68f4"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai repris mon souffle sur le banc.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_17_pc.mp3?v=b7ac0a4f"
     },
     "fp": {
      "fr": "Je vais reprendre mon souffle, une minute.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_17_fp.mp3?v=77c182f8"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_18",
@@ -3669,14 +4331,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "l'équilibre (männlich) = Gleichgewicht; avoir de l'équilibre (Teilungsartikel); perdre l'équilibre. ça dépend du jour = das hängt vom Tag ab.",
    "audio": "audio/fr-de/wendungen/sp_18.mp3?v=7dbbd719",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sur une jambe, j'ai de l'équilibre. Sur deux, ça dépend du jour.",
     "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
     "luecke": "ai de l'équilibre",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_18.mp3?v=9dddfa8e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_19",
@@ -3688,23 +4354,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "aller + Infinitiv = gehen, um zu: aller courir, aller nager, aller manger. regretter = bereuen, bedauern. le dimanche matin = sonntagmorgens.",
    "audio": "audio/fr-de/wendungen/sp_19.mp3?v=8a144773",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le dimanche matin, je vais courir. Le dimanche soir, je regrette.",
     "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "luecke": "vais courir",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_19.mp3?v=95f8c95b"
    },
    "zeit": {
     "pc": {
      "fr": "Dimanche, je suis allé courir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_19_pc.mp3?v=e517540a"
     },
     "fp": {
      "fr": "Dimanche, je vais aller courir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_19_fp.mp3?v=64de4368"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_20",
@@ -3716,14 +4388,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la ceinture = Gürtel (auch Sicherheitsgurt); Sprichwort-Umbau von « l'habit ne fait pas le moine » (die Kutte macht nicht den Mönch). tenir = halten.",
    "audio": "audio/fr-de/wendungen/sp_20.mp3?v=b0061228",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La ceinture ne fait pas le maître. Mais elle tient le pantalon.",
     "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "luecke": "ceinture",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_20.mp3?v=6bb6f06b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_21",
@@ -3735,23 +4411,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „Fortschritte machen“ (le progrès, Plural des progrès); faire des progrès en français. comme dit mon maître = wie mein Meister sagt.",
    "audio": "audio/fr-de/wendungen/sp_21.mp3?v=bd44a954",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je fais des progrès. Lentement. Comme dit mon maître, c'est vite.",
     "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt: Das ist schnell.",
     "luecke": "fais des progrès",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_21.mp3?v=7fd543c8"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait des progrès cette année.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_21_pc.mp3?v=845e77a9"
     },
     "fp": {
      "fr": "Je vais faire des progrès, j'en suis sûr.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/sp_21_fp.mp3?v=d3f9cc70"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_22",
@@ -3763,14 +4445,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „sich überholen“ (dépasser = überholen, überschreiten) = über sich hinauswachsen; passé composé reflexiv: je me suis dépassé. une pompe = Liegestütz.",
    "audio": "audio/fr-de/wendungen/sp_22.mp3?v=dcd75e83",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Aujourd'hui, je me suis dépassé : trente pompes. Hier, vingt-neuf.",
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "me suis dépassé",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_22.mp3?v=23c4cfd9"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_23",
@@ -3782,14 +4468,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le corps = Körper (stummes -ps: [kɔʀ]); l'esprit = Geist, Verstand; le mien = meiner (Possessivpronomen). discuter avec = diskutieren mit.",
    "audio": "audio/fr-de/wendungen/sp_23.mp3?v=8f9aeb25",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le kung-fu, c'est le corps et l'esprit. Le mien discute souvent avec mon corps.",
     "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "luecke": "le corps et l'esprit",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_23.mp3?v=5860a88f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_24",
@@ -3801,14 +4491,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "s'inscrire à = sich anmelden für, einschreiben (une inscription); est-ce que je peux = kann ich (Frage mit est-ce que). le mardi soir = dienstagabends.",
    "audio": "audio/fr-de/wendungen/sp_24.mp3?v=f70b4dcd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bonjour, est-ce que je peux m'inscrire au cours du mardi soir ?",
     "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "luecke": "est-ce que je peux m'inscrire",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/sp_24.mp3?v=7bd70d85"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_01",
@@ -3820,23 +4514,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "équilibré = ausgewogen (l'équilibre = Gleichgewicht); manger équilibré (Adjektiv als Adverb). ne compte pas = zählt nicht (compter).",
    "audio": "audio/fr-de/wendungen/ma_01.mp3?v=34d032b5",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'essaie de manger équilibré. Le croissant du matin ne compte pas.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "manger équilibré",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_01.mp3?v=16839f9b"
    },
    "zeit": {
     "pc": {
      "fr": "Cette semaine, j'ai mangé équilibré. Sauf vendredi.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_01_pc.mp3?v=dc26ae7c"
     },
     "fp": {
      "fr": "Je vais manger équilibré. À partir de lundi.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_01_fp.mp3?v=60ce0b36"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_02",
@@ -3848,23 +4548,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se coucher = sich hinlegen, ins Bett gehen (coucher = legen); tôt = früh, tard = spät. le reste de la semaine = den Rest der Woche. j'essaie = essayer.",
    "audio": "audio/fr-de/wendungen/ma_02.mp3?v=0ade401e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je me couche tôt le dimanche. Le reste de la semaine, j'essaie.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "me couche tôt",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_02.mp3?v=9f3261c3"
    },
    "zeit": {
     "pc": {
      "fr": "Hier, je me suis couché tôt. Enfin, avant minuit.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_02_pc.mp3?v=4d55faa5"
     },
     "fp": {
      "fr": "Ce soir, je vais me coucher tôt. Vraiment.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_02_fp.mp3?v=6a8f37b1"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_03",
@@ -3876,14 +4582,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "prendre soin de = sich kümmern um, pflegen (le soin = Sorgfalt, Pflege); prendre soin de soi/de toi: prends soin de toi = pass auf dich auf.",
    "audio": "audio/fr-de/wendungen/ma_03.mp3?v=ae7fc381",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Prendre soin de soi, c'est aussi dire non. Même à un éclair.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Éclair.",
     "luecke": "Prendre soin de soi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_03.mp3?v=643f84f0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_04",
@@ -3895,23 +4605,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "faire les courses = Lebensmittel einkaufen (une course = Besorgung, auch Rennen); faire du shopping / des achats = Kleidung einkaufen. une liste = Liste.",
    "audio": "audio/fr-de/wendungen/ma_04.mp3?v=aae15da3",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je fais les courses le samedi, avec une liste. Je rentre avec autre chose.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "fais les courses",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_04.mp3?v=1d3c6d62"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait les courses ce matin.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_04_pc.mp3?v=0dea6637"
     },
     "fp": {
      "fr": "Je vais faire les courses demain.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_04_fp.mp3?v=a7548242"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_05",
@@ -3923,23 +4639,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "cuisiner = kochen (Essen zubereiten); la cuisine = Küche und Kochkunst; cuire = garen, backen. en écoutant = beim Hören (Gérondif). superviser = überwachen.",
    "audio": "audio/fr-de/wendungen/ma_05.mp3?v=1a2a71a9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le soir, je cuisine en écoutant de la musique. Le chat supervise.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cuisine",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_05.mp3?v=eb8842a4"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai cuisiné un gratin pour Aurélien.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_05_pc.mp3?v=416a6ea1"
     },
     "fp": {
      "fr": "Je vais cuisiner quelque chose de simple.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_05_fp.mp3?v=28c971fd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_06",
@@ -3951,14 +4673,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un plat = Gericht und Platte, Schüssel; le plat du jour = Tagesgericht; le plat principal = Hauptgericht. celui que = derjenige, den. quelqu'un d'autre = jemand anderes.",
    "audio": "audio/fr-de/wendungen/ma_06.mp3?v=d7eab249",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mon plat préféré ? Celui que quelqu'un d'autre a préparé.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "plat",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_06.mp3?v=c012ad61"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_07",
@@ -3970,23 +4696,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „ein kleines Loch haben“ (un creux = Hohlraum, Vertiefung; creux = hohl) – der kleine Hunger. Auch: avoir une petite faim.",
    "audio": "audio/fr-de/wendungen/ma_07.mp3?v=028b271d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "À seize heures, j'ai un petit creux. À seize heures cinq aussi.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "ai un petit creux",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_07.mp3?v=14e142af"
    },
    "zeit": {
     "pc": {
      "fr": "À seize heures, j'ai eu un petit creux.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_07_pc.mp3?v=51dbcdd4"
     },
     "fp": {
      "fr": "À seize heures, je vais avoir un petit creux. Comme toujours.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_07_fp.mp3?v=6a48fb60"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_08",
@@ -3998,23 +4730,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "se régaler = schlemmen, es sich schmecken lassen (un régal = Hochgenuss); je me régale ! = köstlich! chez Aurélien = bei Aurélien. envoyer = schicken.",
    "audio": "audio/fr-de/wendungen/ma_08.mp3?v=8973ae54",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Chez Aurélien, on se régale. Sa mère lui envoie des recettes.",
     "de": "Bei Aurélien lässt man es sich schmecken. Seine Mutter schickt ihm Rezepte.",
     "luecke": "se régale",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_08.mp3?v=d4054aba"
    },
    "zeit": {
     "pc": {
      "fr": "Chez Aurélien, on s'est régalés.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_08_pc.mp3?v=33252764"
     },
     "fp": {
      "fr": "Chez Aurélien, on va se régaler.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_08_fp.mp3?v=6a8b1830"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_09",
@@ -4026,14 +4764,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "l'appétit (männlich) = Appetit; bon appétit ! vor dem Essen – in Frankreich üblich, in vornehmen Kreisen verpönt. toi aussi = du auch (betontes Pronomen).",
    "audio": "audio/fr-de/wendungen/ma_09.mp3?v=5cce614f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "« Bon appétit ! » – « Merci, toi aussi. » – « Moi, je ne mange pas. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, dir auch.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Bon appétit",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_09.mp3?v=0ebeeed1"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_10",
@@ -4045,14 +4787,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une boulangerie = Bäckerei (le boulanger = Bäcker); la pâtisserie = Konditorei; à côté de = neben. un bon problème = ein gutes Problem.",
    "audio": "audio/fr-de/wendungen/ma_10.mp3?v=bb7cf911",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il y a une boulangerie à côté de l'école. C'est un problème. Un bon problème.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein gutes Problem.",
     "luecke": "boulangerie",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_10.mp3?v=d0ab2e85"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_11",
@@ -4064,23 +4810,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "boire = trinken (unregelmäßig: je bois, nous buvons, j'ai bu); de l'eau = Wasser (Teilungsartikel, l'eau weiblich). toute la journée = den ganzen Tag.",
    "audio": "audio/fr-de/wendungen/ma_11.mp3?v=f4982596",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je bois de l'eau toute la journée. Et un café. Ou deux. L'eau, c'est entre.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "bois de l'eau",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_11.mp3?v=ac432ad8"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai bu de l'eau toute la journée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_11_pc.mp3?v=b7e9b152"
     },
     "fp": {
      "fr": "Je vais boire de l'eau. Plus.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_11_fp.mp3?v=121c6e39"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_12",
@@ -4092,23 +4844,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "grignoter = knabbern, naschen (lautmalerisch, kleine Bissen); devant les copies = vor den Arbeiten. un carré de chocolat = ein Stückchen Schokolade.",
    "audio": "audio/fr-de/wendungen/ma_12.mp3?v=7dbf7972",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je grignote devant les copies. Chaque faute, un carré de chocolat.",
     "de": "Ich nasche beim Korrigieren. Jeder Fehler, ein Stück Schokolade.",
     "luecke": "grignote",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_12.mp3?v=6a41bac2"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai grignoté toute la soirée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_12_pc.mp3?v=0e914052"
     },
     "fp": {
      "fr": "Je ne vais pas grignoter ce soir. On verra.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_12_fp.mp3?v=38b8883e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_13",
@@ -4120,14 +4878,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „gut in seiner Haut sein“ – sich wohlfühlen, mit sich im Reinen sein; Gegenteil: être mal dans sa peau. Possessiv passt sich an: dans ma peau.",
    "audio": "audio/fr-de/wendungen/ma_13.mp3?v=cdb08f9f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Après le sport, je suis bien dans ma peau. Avant, aussi, mais moins.",
     "de": "Nach dem Sport fühle ich mich wohl in meiner Haut. Davor auch, aber weniger.",
     "luecke": "bien dans ma peau",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_13.mp3?v=e7a30903"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_14",
@@ -4139,23 +4901,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "faire une pause = Pause machen; toutes les heures = jede Stunde (tous/toutes les + Plural); durer = dauern (nicht „dürfen“); parfois = manchmal.",
    "audio": "audio/fr-de/wendungen/ma_14.mp3?v=0e90a8f2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je fais une pause toutes les heures. Parfois, la pause dure une heure.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "fais une pause",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_14.mp3?v=aaf4ffba"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai fait une pause de dix minutes.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_14_pc.mp3?v=7fe9810b"
     },
     "fp": {
      "fr": "Je vais faire une pause. Maintenant.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_14_fp.mp3?v=9b235afb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_15",
@@ -4167,23 +4935,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „schlafen wie ein Baby“; auch: dormir comme une marmotte (Murmeltier), comme un loir (Siebenschläfer). ronfler = schnarchen.",
    "audio": "audio/fr-de/wendungen/ma_15.mp3?v=9b08c846",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Après le kung-fu, je dors comme un bébé. Un bébé qui ronfle.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Baby. Ein Baby, das schnarcht.",
     "luecke": "dors comme un bébé",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_15.mp3?v=3e64c1d0"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai dormi comme un bébé.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_15_pc.mp3?v=8becb7e5"
     },
     "fp": {
      "fr": "Je vais dormir comme un bébé.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_15_fp.mp3?v=b231529b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_16",
@@ -4195,14 +4969,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „den Pfirsich haben“ (la pêche = Pfirsich und Angeln) = fit und munter sein, gute Laune haben. Auch: avoir la patate (die Kartoffel haben).",
    "audio": "audio/fr-de/wendungen/ma_16.mp3?v=f57ed168",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ce matin, j'ai la pêche ! C'est suspect. Il est six heures.",
     "de": "Heute Morgen bin ich fit und munter! Verdächtig. Es ist sechs Uhr.",
     "luecke": "ai la pêche",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_16.mp3?v=feebcedd"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_17",
@@ -4214,23 +4992,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „die Luft nehmen“ = frische Luft schnappen; prendre l'air. sans + Nomen ohne Artikel: sans téléphone. enfin, presque = na ja, fast.",
    "audio": "audio/fr-de/wendungen/ma_17.mp3?v=e2c1a1a3",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "À midi, je prends l'air dix minutes. Sans téléphone. Enfin, presque.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "prends l'air",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_17.mp3?v=40b0233e"
    },
    "zeit": {
     "pc": {
      "fr": "À midi, j'ai pris l'air.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_17_pc.mp3?v=88150e5b"
     },
     "fp": {
      "fr": "À midi, je vais prendre l'air.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_17_fp.mp3?v=857b89b9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_18",
@@ -4242,14 +5026,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une recette = Rezept (Koch-) und Einnahme; Arztrezept = une ordonnance! tenir qc de qn = etwas von jemandem haben. une quiche = Lothringer Spezialität.",
    "audio": "audio/fr-de/wendungen/ma_18.mp3?v=de3610b2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'ai une recette de quiche. Elle vient d'Aurélien, qui la tient de sa mère.",
     "de": "Ich habe ein Rezept für Quiche. Es kommt von Aurélien, der es von seiner Mutter hat.",
     "luecke": "recette",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_18.mp3?v=31e6ead6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_19",
@@ -4261,23 +5049,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "goûter = kosten, probieren (le goût = Geschmack); auch das Nomen le goûter = Nachmittagssnack. Imperativ goûte; vraiment = wirklich; ensuite = danach.",
    "audio": "audio/fr-de/wendungen/ma_19.mp3?v=03a32300",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Goûte ça. Non, vraiment, goûte. Ensuite, tu peux dire que tu n'aimes pas.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Goûte",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_19.mp3?v=0752c3d5"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai goûté. Je n'aime pas.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_19_pc.mp3?v=08e4ff65"
     },
     "fp": {
      "fr": "Je vais goûter. Un petit bout.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_19_fp.mp3?v=e8726520"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_20",
@@ -4289,14 +5083,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "délicieux / délicieuse = köstlich; c'est délicieux (Essen immer mit c'est, nicht il est). il vaut mieux + Infinitiv = es ist besser zu.",
    "audio": "audio/fr-de/wendungen/ma_20.mp3?v=145face7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "C'est délicieux ! Qu'est-ce que c'est ? – Il vaut mieux ne pas savoir.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "délicieux",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_20.mp3?v=7439f29b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_21",
@@ -4308,23 +5106,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "avoir soif = Durst haben (la soif, wie avoir faim); avoir soif de = dürsten nach (bildlich). le cours de sport = Sportunterricht.",
    "audio": "audio/fr-de/wendungen/ma_21.mp3?v=a2ff48ba",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Après le cours de sport, les élèves ont soif. Moi, j'ai soif de silence.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "ont soif",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_21.mp3?v=8854b444"
    },
    "zeit": {
     "pc": {
      "fr": "Après le sport, les élèves ont eu soif.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_21_pc.mp3?v=df506de8"
     },
     "fp": {
      "fr": "Après le sport, les élèves vont avoir soif.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/ma_21_fp.mp3?v=5d012555"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_22",
@@ -4336,14 +5140,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „mit dem guten Fuß aufstehen“ = gut gelaunt aufstehen; Gegenteil: se lever du pied gauche (mit dem linken Fuß). comme d'habitude = wie immer.",
    "audio": "audio/fr-de/wendungen/ma_22.mp3?v=2518eefe",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Aujourd'hui, je me suis levé du bon pied. Le gauche. Comme d'habitude.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "me suis levé du bon pied",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_22.mp3?v=3c9915c6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_23",
@@ -4355,14 +5163,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un plaisir = Vergnügen, Freude (plaire = gefallen); avec plaisir = gerne; se faire plaisir = sich etwas gönnen. une tarte = Kuchen (flach, mit Obst).",
    "audio": "audio/fr-de/wendungen/ma_23.mp3?v=f2ecd8c2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un petit plaisir par jour. Aujourd'hui : une tarte. Demain : une autre tarte.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Tarte. Morgen: eine andere Tarte.",
     "luecke": "petit plaisir",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_23.mp3?v=5ad99d27"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_24",
@@ -4374,14 +5186,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "je voudrais = Konditional von vouloir, die höfliche Bestellform („ich hätte gern“); je veux wäre unhöflich. pas trop cuite = nicht zu dunkel gebacken (cuit = gegart).",
    "audio": "audio/fr-de/wendungen/ma_24.mp3?v=0aa4ca7c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
     "de": "Guten Tag, ich hätte gern ein Baguette, bitte. Nicht zu dunkel.",
     "luecke": "je voudrais",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/ma_24.mp3?v=ca0c85ff"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_01",
@@ -4393,23 +5209,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „seine Nächte machen“ = durchschlafen (nur bei Babys); faire ses nuits. elle, pas encore = sie noch nicht (betontes Pronomen elle).",
    "audio": "audio/fr-de/wendungen/en_01.mp3?v=432e2910",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le bébé de ma collègue fait ses nuits. Elle, pas encore.",
     "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
     "luecke": "fait ses nuits",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_01.mp3?v=a2934498"
    },
    "zeit": {
     "pc": {
      "fr": "Le bébé a fait ses nuits cette semaine.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_01_pc.mp3?v=b4670d3e"
     },
     "fp": {
      "fr": "Le bébé va faire ses nuits. Un jour.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_01_fp.mp3?v=81b3d2bd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_02",
@@ -4421,14 +5243,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un doudou = Schmusetuch, Kuscheltier (Kindersprache, von doux = weich, sanft; Verdopplung wie dodo = Heia). surtout = vor allem.",
    "audio": "audio/fr-de/wendungen/en_02.mp3?v=02272c9a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sans son doudou, impossible de dormir. Je parle du bébé. Enfin, surtout.",
     "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
     "luecke": "doudou",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_02.mp3?v=a26f7ab6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_03",
@@ -4440,23 +5266,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "siehe Les chats: une bêtise = Dummheit; c'est leur métier = das ist ihr Beruf; le mien = meiner. sourire = lächeln (und das Lächeln).",
    "audio": "audio/fr-de/wendungen/en_03.mp3?v=a5250520",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Les enfants font des bêtises. C'est leur métier. Le mien, c'est de sourire.",
     "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "luecke": "font des bêtises",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_03.mp3?v=2d6d5981"
    },
    "zeit": {
     "pc": {
      "fr": "Ils ont fait des bêtises toute la matinée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_03_pc.mp3?v=4eae51a2"
     },
     "fp": {
      "fr": "Ils vont faire des bêtises, c'est sûr.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_03_fp.mp3?v=b81e3056"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_04",
@@ -4468,23 +5300,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „in seine Arme nehmen“ = in den Arm nehmen; prendre qn dans ses bras. on le prend = man nimmt es (le vor dem Verb). la règle = die Regel.",
    "audio": "audio/fr-de/wendungen/en_04.mp3?v=f4374b01",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quand un enfant pleure, on le prend dans ses bras. C'est la seule règle.",
     "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "luecke": "prend dans ses bras",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_04.mp3?v=6ae81a22"
    },
    "zeit": {
     "pc": {
      "fr": "Je l'ai pris dans mes bras.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_04_pc.mp3?v=19e2cf58"
     },
     "fp": {
      "fr": "Je vais le prendre dans mes bras.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_04_fp.mp3?v=348f4391"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_05",
@@ -4496,14 +5334,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un bébé, auch für Mädchen; ça ne parle pas = Umgangssprache: ça statt il für etwas Allgemeines (un bébé, ça pleure). tout = alles.",
    "audio": "audio/fr-de/wendungen/en_05.mp3?v=9cb112a9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un bébé, ça ne parle pas, mais ça dit tout.",
     "de": "Ein Baby spricht nicht, aber es sagt alles.",
     "luecke": "bébé",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_05.mp3?v=9bc915bf"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_06",
@@ -4515,23 +5357,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „ein Lächeln machen“; faire un sourire à qn = jemanden anlächeln; sourire = lächeln. gagné = gewonnen (gagner); ma journée = mein Tag.",
    "audio": "audio/fr-de/wendungen/en_06.mp3?v=e5a14655",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le bébé m'a fait un sourire. Ma journée était gagnée.",
     "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "luecke": "a fait un sourire",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_06.mp3?v=2ec5175e"
    },
    "zeit": {
     "pc": {
      "fr": "Le bébé m'a fait un sourire.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_06_pc.mp3?v=45e52bf6"
     },
     "fp": {
      "fr": "Le bébé va me faire un sourire. J'attends.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_06_fp.mp3?v=3e8008d9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_07",
@@ -4543,23 +5391,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "grandir = wachsen, groß werden (grand = groß); trop vite = zu schnell. elles, restent = betontes Pronomen zur Hervorhebung (les copies, elles …).",
    "audio": "audio/fr-de/wendungen/en_07.mp3?v=85f36a4b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Les enfants grandissent trop vite. Les copies, elles, restent.",
     "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
     "luecke": "grandissent",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_07.mp3?v=d20edd2e"
    },
    "zeit": {
     "pc": {
      "fr": "Ils ont grandi pendant les vacances.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_07_pc.mp3?v=14af6b4c"
     },
     "fp": {
      "fr": "Ils vont grandir, et moi je vais vieillir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_07_fp.mp3?v=c76ea272"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_08",
@@ -4571,23 +5425,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "avoir du mal à + Infinitiv (siehe Entre profs); s'endormir = einschlafen (dormir = schlafen). ça marche = es klappt; moins fort = weniger laut.",
    "audio": "audio/fr-de/wendungen/en_08.mp3?v=c5674450",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le petit a du mal à s'endormir. Alors je chante. Ça marche. Il pleure moins fort.",
     "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "luecke": "a du mal à s'endormir",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_08.mp3?v=2e6e6dc6"
    },
    "zeit": {
     "pc": {
      "fr": "Il a eu du mal à s'endormir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_08_pc.mp3?v=17e22b90"
     },
     "fp": {
      "fr": "Il va avoir du mal à s'endormir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_08_fp.mp3?v=b117a5d6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_09",
@@ -4599,14 +5459,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une couche = Windel (und Schicht); changer une couche = wickeln; un enchaînement = Form, Abfolge (siehe Sport). un vrai = ein echter.",
    "audio": "audio/fr-de/wendungen/en_09.mp3?v=1a12da51",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Changer une couche en trois minutes : ça, c'est un vrai enchaînement de kung-fu.",
     "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "luecke": "couche",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_09.mp3?v=8439cb91"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_10",
@@ -4618,14 +5482,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "sage = brav, artig (Kinder) und weise (Erwachsene); sois sage ! = sei brav (Imperativ von être). le lave-linge = Waschmaschine. pourquoi … est-il = Inversion.",
    "audio": "audio/fr-de/wendungen/en_10.mp3?v=0eede5b2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "« Sois sage ! » – « Je suis sage. » – « Alors pourquoi le chat est-il dans le lave-linge ? »",
     "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
     "luecke": "sage",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_10.mp3?v=7cb5d81b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_11",
@@ -4637,23 +5505,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "jouer à cache-cache = Verstecken spielen (cacher = verstecken; jouer à + Spiel); le rideau = Vorhang; dehors = draußen.",
    "audio": "audio/fr-de/wendungen/en_11.mp3?v=ea3ec8e9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "On joue à cache-cache. Il se cache toujours derrière le rideau. Avec ses pieds dehors.",
     "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "luecke": "joue à cache-cache",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_11.mp3?v=201ef1e5"
    },
    "zeit": {
     "pc": {
      "fr": "On a joué à cache-cache tout l'après-midi.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_11_pc.mp3?v=1e44d110"
     },
     "fp": {
      "fr": "On va jouer à cache-cache après le goûter.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_11_fp.mp3?v=26f61567"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_12",
@@ -4665,23 +5539,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "pour s'endormir = zum Einschlafen; au bout de = nach (Zeit): au bout de trois pages. Pointe: je dors = ich schlafe (nicht das Kind).",
    "audio": "audio/fr-de/wendungen/en_12.mp3?v=0b238819",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je raconte une histoire pour s'endormir. Au bout de trois pages, je dors.",
     "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "luecke": "raconte une histoire",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_12.mp3?v=ec7864c4"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai raconté une histoire pour s'endormir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_12_pc.mp3?v=076c3062"
     },
     "fp": {
      "fr": "Je vais raconter une histoire pour s'endormir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_12_fp.mp3?v=0fdf57eb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_13",
@@ -4693,23 +5573,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "pleurer = weinen (nicht „plärren“); rire = lachen (unregelmäßig: il rit, nous rions); puis = dann; un concert = Konzert.",
    "audio": "audio/fr-de/wendungen/en_13.mp3?v=b515c54f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le bébé pleure. Puis il rit. Puis il pleure. C'est un concert.",
     "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "luecke": "pleure",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_13.mp3?v=bdb1da89"
    },
    "zeit": {
     "pc": {
      "fr": "Le bébé a pleuré toute la nuit.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_13_pc.mp3?v=256d6b94"
     },
     "fp": {
      "fr": "Le bébé va pleurer, et je vais chanter.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_13_fp.mp3?v=4fa0dede"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_14",
@@ -4721,14 +5607,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un câlin = Kuscheln, Umarmung (siehe Les chats); faire un câlin. avant l'école = vor der Schule; pour les deux = für beide.",
    "audio": "audio/fr-de/wendungen/en_14.mp3?v=4dd88747",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un câlin avant l'école, et la journée commence bien. Pour les deux.",
     "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "luecke": "câlin",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_14.mp3?v=670202e2"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_15",
@@ -4740,23 +5630,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "apprendre à + Infinitiv = lernen zu; marcher = gehen, laufen (zu Fuß) – courir = rennen. un pas = Schritt; une chute = Sturz; un rire = ein Lachen.",
    "audio": "audio/fr-de/wendungen/en_15.mp3?v=0132e37c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Elle apprend à marcher. Trois pas, une chute, un rire. C'est la vie en miniature.",
     "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "luecke": "apprend à marcher",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_15.mp3?v=af26049c"
    },
    "zeit": {
     "pc": {
      "fr": "Elle a appris à marcher cet été.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_15_pc.mp3?v=5019433c"
     },
     "fp": {
      "fr": "Elle va apprendre à marcher bientôt.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_15_fp.mp3?v=2ecb6dd4"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_16",
@@ -4768,14 +5664,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "fier / fière = stolz; être fier de + Nomen/Infinitiv (nicht „auf“!); la fierté = der Stolz. surtout quand = vor allem wenn.",
    "audio": "audio/fr-de/wendungen/en_16.mp3?v=7546105d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je suis fier de mes élèves. Surtout quand ils ne le savent pas.",
     "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "luecke": "fier de",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_16.mp3?v=e0fd8910"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_17",
@@ -4787,14 +5687,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "les premiers mots = die ersten Wörter (un mot = Wort; le premier mot); dans cet ordre = in dieser Reihenfolge (cet vor Vokal).",
    "audio": "audio/fr-de/wendungen/en_17.mp3?v=a6351cf1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ses premiers mots : « papa », « chat », « non ». Dans cet ordre.",
     "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
     "luecke": "premiers mots",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_17.mp3?v=a22ea01a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_18",
@@ -4806,23 +5710,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "avoir de la patience (Teilungsartikel); il faut = man muss; j'en ai = ich habe welche (en = davon). finir = enden, aufhören.",
    "audio": "audio/fr-de/wendungen/en_18.mp3?v=eaa926e1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Avec les enfants, il faut avoir de la patience. J'en ai. Elle finit à dix-sept heures.",
     "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
     "luecke": "avoir de la patience",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_18.mp3?v=493cb9ce"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai eu de la patience toute la journée.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_18_pc.mp3?v=2ef51591"
     },
     "fp": {
      "fr": "Je vais avoir de la patience. Jusqu'à midi.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_18_fp.mp3?v=1c90f8a3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_19",
@@ -4834,14 +5744,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "le goûter = Nachmittagssnack (16 Uhr, nach der Schule; von goûter = kosten); feste Einrichtung in Frankreich. par solidarité = aus Solidarität.",
    "audio": "audio/fr-de/wendungen/en_19.mp3?v=f897c8ba",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "À seize heures, c'est le goûter. Pour les enfants. Et pour moi, par solidarité.",
     "de": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "luecke": "goûter",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_19.mp3?v=75aef9dc"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_20",
@@ -4853,23 +5767,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "wörtlich „in Splittern lachen“ (un éclat = Splitter, Blitz; un éclat de rire = Lachanfall) = schallend lachen. éternuer = niesen. d'ailleurs = übrigens.",
    "audio": "audio/fr-de/wendungen/en_20.mp3?v=d08d6682",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le bébé rit aux éclats quand le chat éternue. Moi aussi, d'ailleurs.",
     "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "luecke": "rit aux éclats",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_20.mp3?v=09bc6447"
    },
    "zeit": {
     "pc": {
      "fr": "Le bébé a ri aux éclats.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_20_pc.mp3?v=9912afb7"
     },
     "fp": {
      "fr": "Le bébé va rire aux éclats.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_20_fp.mp3?v=9491eb64"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_21",
@@ -4881,23 +5801,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "faire la sieste (siehe Les chats); les petits / les grands = die Kleinen / die Großen (Adjektiv als Nomen). en secret = heimlich.",
    "audio": "audio/fr-de/wendungen/en_21.mp3?v=229936fb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Les petits font la sieste. Les grands aussi, en secret.",
     "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "luecke": "font la sieste",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_21.mp3?v=a103e8b3"
    },
    "zeit": {
     "pc": {
      "fr": "Les petits ont fait la sieste.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_21_pc.mp3?v=09b037de"
     },
     "fp": {
      "fr": "Les petits vont faire la sieste.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/en_21_fp.mp3?v=cf60e183"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "en_22",
@@ -4909,14 +5835,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "avoir peur de + le noir → du noir (de + le = du); le noir = die Dunkelheit. alors = also; laisser ouvert = offen lassen; de garde = im Dienst, auf Wache.",
    "audio": "audio/fr-de/wendungen/en_22.mp3?v=3991ad41",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il a peur du noir. Alors on laisse la porte ouverte. Et le chat de garde.",
     "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
     "luecke": "a peur du noir",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_22.mp3?v=d0faa09b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_23",
@@ -4928,14 +5858,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "c'est l'heure de + Nomen = es ist Zeit für: c'est l'heure du bain, du goûter, de dormir. mouillé = nass; se baigner = baden; même ceux qui = sogar die, die.",
    "audio": "audio/fr-de/wendungen/en_23.mp3?v=77b36bc2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "C'est l'heure du bain ! Tout le monde est mouillé. Même ceux qui ne se baignent pas.",
     "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "luecke": "l'heure du bain",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_23.mp3?v=c7d94828"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "en_24",
@@ -4947,14 +5881,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "Alter mit avoir: il a deux ans; quel âge a … ? = Inversion. votre enfant = Ihr Kind (höflich). quatorze mois = 14 Monate; une dent = Zahn.",
    "audio": "audio/fr-de/wendungen/en_24.mp3?v=bf42a089",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il est adorable. Quel âge a votre enfant ? – Quatorze mois. Et quatre dents.",
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Quel âge a votre enfant",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/en_24.mp3?v=bb7c5dc4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_01",
@@ -4966,14 +5904,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "actuellement = zurzeit (actuel = gegenwärtig); engl. actually = en fait. Spanisch dasselbe: actualmente.",
    "audio": "audio/fr-de/wendungen/fa_01.mp3?v=cc0ff849",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Actuellement, je corrige des copies. En fait, je regarde le chat.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Actuellement",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_01.mp3?v=7f629629"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_02",
@@ -4985,14 +5927,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une librairie = Buchhandlung (le libraire = Buchhändler); engl. library = la bibliothèque. emprunter = ausleihen; rendre = zurückgeben.",
    "audio": "audio/fr-de/wendungen/fa_02.mp3?v=4490b2ef",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "À la librairie, on achète. À la bibliothèque, on emprunte. Et on rend. En théorie.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "librairie",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_02.mp3?v=87694499"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_03",
@@ -5004,23 +5950,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "assister à = beiwohnen, teilnehmen an (immer mit à); engl. to assist = aider. Spanisch gleich: asistir a. je suis juste là = ich bin nur da.",
    "audio": "audio/fr-de/wendungen/fa_03.mp3?v=0916da6d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'assiste à une réunion. Je n'aide personne. Je suis juste là.",
     "de": "Ich nehme an einer Konferenz teil. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "assiste à",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_03.mp3?v=8c5c3d3f"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai assisté à une réunion de trois heures.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_03_pc.mp3?v=87466b4f"
     },
     "fp": {
      "fr": "Je vais assister à une réunion. Encore.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_03_fp.mp3?v=5c661ff2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_04",
@@ -5032,23 +5984,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "attendre = warten (auf) – ohne Präposition: j'attends le bus; engl. to attend = assister à. injuste = ungerecht.",
    "audio": "audio/fr-de/wendungen/fa_04.mp3?v=44059019",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'attends le bus. Le bus ne m'attend pas. C'est injuste.",
     "de": "Ich warte auf den Bus. Der Bus wartet nicht auf mich. Das ist ungerecht.",
     "luecke": "attends",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_04.mp3?v=9702c961"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai attendu le bus vingt minutes.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_04_pc.mp3?v=9a90473c"
     },
     "fp": {
      "fr": "Je vais attendre le bus sous la pluie.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_04_fp.mp3?v=5b4db48b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_05",
@@ -5060,23 +6018,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "blesser = verletzen (une blessure = Wunde); engl. to bless = bénir. gentil = nett, lieb. le sait bien = weiß es gut.",
    "audio": "audio/fr-de/wendungen/fa_05.mp3?v=1957cd24",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Attention : « blesser » n'est pas gentil. Mon chat le sait bien.",
     "de": "Vorsicht: „blesser“ ist nicht nett. Meine Katze weiß das genau.",
     "luecke": "blesser",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_05.mp3?v=359f8181"
    },
    "zeit": {
     "pc": {
      "fr": "Il m'a blessé. Avec ses griffes, pas avec des mots.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_05_pc.mp3?v=05058b88"
     },
     "fp": {
      "fr": "Il va me blesser si je continue.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_05_fp.mp3?v=cc15cd84"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_06",
@@ -5088,23 +6052,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "demander = fragen, bitten um (demander qc à qn); engl. to demand = exiger (fordern). la nuance = feiner Unterschied.",
    "audio": "audio/fr-de/wendungen/fa_06.mp3?v=76384b74",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je demande le silence. Je ne l'exige pas. Nuance de prof.",
     "de": "Ich bitte um Ruhe. Ich fordere sie nicht. Lehrer-Nuance.",
     "luecke": "demande",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_06.mp3?v=157b8c9a"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai demandé le silence. Poliment.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_06_pc.mp3?v=1396d9fe"
     },
     "fp": {
      "fr": "Je vais demander le silence. Encore une fois.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_06_fp.mp3?v=342c9f4b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_07",
@@ -5116,23 +6086,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "rester = bleiben; engl. to rest = se reposer (sich ausruhen). à la maison = zu Hause; des copies = Arbeiten (zu korrigieren).",
    "audio": "audio/fr-de/wendungen/fa_07.mp3?v=fe60382e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Je reste à la maison. Je ne me repose pas : j'ai des copies.",
     "de": "Ich bleibe zu Hause. Ich ruhe mich nicht aus: Ich habe Arbeiten.",
     "luecke": "reste",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_07.mp3?v=8d301e43"
    },
    "zeit": {
     "pc": {
      "fr": "Je suis resté à la maison tout le week-end.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_07_pc.mp3?v=ce13621e"
     },
     "fp": {
      "fr": "Je vais rester à la maison ce soir.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_07_fp.mp3?v=d57e999d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_08",
@@ -5144,14 +6120,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "sensible = empfindlich, empfindsam; engl. sensible = raisonnable (vernünftig). Spanisch gleich: sensible/sensato.",
    "audio": "audio/fr-de/wendungen/fa_08.mp3?v=5ee9ba3d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mon chat est sensible. Pas raisonnable. Sensible.",
     "de": "Meine Katze ist empfindlich. Nicht vernünftig. Empfindlich.",
     "luecke": "sensible",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_08.mp3?v=b646c4c6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_09",
@@ -5163,14 +6143,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "éventuellement = möglicherweise, gegebenenfalls; engl. eventually = finalement, à la fin. je viendrai = Futur von venir. pareil = gleich.",
    "audio": "audio/fr-de/wendungen/fa_09.mp3?v=b8e5c15e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Éventuellement, je viendrai. Finalement, je suis venu. Ce n'est pas pareil.",
     "de": "Möglicherweise komme ich. Schließlich bin ich gekommen. Das ist nicht dasselbe.",
     "luecke": "Éventuellement",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_09.mp3?v=1dc53f75"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_10",
@@ -5182,14 +6166,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un coin = Ecke, Winkel (au coin de la rue = an der Straßenecke); engl. coin = une pièce (de monnaie). dans un coin = in einer Ecke.",
    "audio": "audio/fr-de/wendungen/fa_10.mp3?v=07f9f135",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le chat dort dans un coin. Pas sur une pièce. Dans un coin.",
     "de": "Die Katze schläft in einer Ecke. Nicht auf einer Münze. In einer Ecke.",
     "luecke": "coin",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_10.mp3?v=f377ff01"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_11",
@@ -5201,14 +6189,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une journée = Tag als Verlauf (bonne journée ! = schönen Tag!), un jour = Tag als Datum; engl. journey = un voyage. Ebenso soirée/soir, matinée/matin.",
    "audio": "audio/fr-de/wendungen/fa_11.mp3?v=1b5911ac",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bonne journée ! Ce n'est pas un voyage. Juste un jour. Mais un bon.",
     "de": "Schönen Tag! Das ist keine Reise. Nur ein Tag. Aber ein guter.",
     "luecke": "journée",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_11.mp3?v=ee84eee7"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_12",
@@ -5220,14 +6212,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un préservatif = Kondom; engl. preservative = un conservateur (Konservierungsstoff). Dieselbe Falle wie auf Spanisch (preservativo). la confiture = Marmelade.",
    "audio": "audio/fr-de/wendungen/fa_12.mp3?v=5b2fe006",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "« Sans préservatifs » sur une confiture ? Non. On dit « sans conservateurs ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "préservatif",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_12.mp3?v=3dfe1eac"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_13",
@@ -5239,14 +6235,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un bras = Arm (stummes s: [bʀa]); engl. bra = un soutien-gorge. cassé = gebrochen (casser = brechen). faites attention à = achten Sie auf.",
    "audio": "audio/fr-de/wendungen/fa_13.mp3?v=d10f3cea",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il a un bras cassé. Un bras. Faites attention au mot anglais.",
     "de": "Er hat einen gebrochenen Arm. Einen Arm. Vorsicht mit dem englischen Wort.",
     "luecke": "bras",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_13.mp3?v=f085ca1e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_14",
@@ -5258,14 +6258,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la monnaie = Wechselgeld, Kleingeld, Währung (vous avez la monnaie ? = haben Sie es passend?); engl. money = l'argent (auch Silber).",
    "audio": "audio/fr-de/wendungen/fa_14.mp3?v=9e323af2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Vous avez la monnaie ? – Non, j'ai de l'argent, mais pas de monnaie.",
     "de": "Haben Sie Kleingeld? – Nein, ich habe Geld, aber kein Kleingeld.",
     "luecke": "monnaie",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_14.mp3?v=92930858"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_15",
@@ -5277,14 +6281,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "une déception = Enttäuschung (décevoir = enttäuschen, déçu = enttäuscht); engl. deception = une tromperie (tromper = täuschen). la note = Note.",
    "audio": "audio/fr-de/wendungen/fa_15.mp3?v=ca30960e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La note ? Une déception. Pas une tromperie. Juste une déception.",
     "de": "Die Note? Eine Enttäuschung. Keine Täuschung. Nur eine Enttäuschung.",
     "luecke": "déception",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_15.mp3?v=2ad6a5ac"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_16",
@@ -5296,14 +6304,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un habit = Kleidungsstück (meist Plural: les habits = Kleider); engl. habit = une habitude. un jogging = Jogginganzug. Sprichwort: l'habit ne fait pas le moine.",
    "audio": "audio/fr-de/wendungen/fa_16.mp3?v=5693c78d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mes habits du dimanche : un jogging. C'est aussi une habitude.",
     "de": "Meine Sonntagskleidung: eine Jogginghose. Das ist auch eine Gewohnheit.",
     "luecke": "habits",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_16.mp3?v=668f2790"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_17",
@@ -5315,23 +6327,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "ignorer = nicht wissen (j'ignore la réponse = ich kenne die Antwort nicht); engl. to ignore = ne pas tenir compte de, ignorer (neuer, umgangssprachlich).",
    "audio": "audio/fr-de/wendungen/fa_17.mp3?v=66b61d84",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "J'ignore la réponse. Je ne l'ignore pas : je ne la connais pas.",
     "de": "Ich weiß die Antwort nicht. Ich ignoriere sie nicht: Ich kenne sie nicht.",
     "luecke": "ignore",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_17.mp3?v=c57e3a2f"
    },
    "zeit": {
     "pc": {
      "fr": "J'ai ignoré la réponse pendant tout le cours.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_17_pc.mp3?v=3f600579"
     },
     "fp": {
      "fr": "Je vais ignorer la réponse jusqu'à demain.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_17_fp.mp3?v=0a01ce2a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_18",
@@ -5343,23 +6361,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un stage = Praktikum, Lehrgang (un stagiaire = Praktikant); engl. stage = une scène (Bühne). faire un stage = ein Praktikum machen.",
    "audio": "audio/fr-de/wendungen/fa_18.mp3?v=67bb0a85",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mon élève fait un stage. Pas sur une scène. Dans une boulangerie.",
     "de": "Mein Schüler macht ein Praktikum. Nicht auf einer Bühne. In einer Bäckerei.",
     "luecke": "stage",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_18.mp3?v=9bcec733"
    },
    "zeit": {
     "pc": {
      "fr": "Il a fait un stage de deux semaines.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_18_pc.mp3?v=af10e06e"
     },
     "fp": {
      "fr": "Il va faire un stage en juin.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_18_fp.mp3?v=731cdbb7"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_19",
@@ -5371,14 +6395,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la lecture = das Lesen, Lektüre (lire = lesen; le lecteur = Leser); engl. lecture = un cours, une conférence. Spanisch gleich: lectura.",
    "audio": "audio/fr-de/wendungen/fa_19.mp3?v=9dbedf72",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ma lecture du soir : un roman. Pas un cours. Un roman.",
     "de": "Meine Abendlektüre: ein Roman. Keine Vorlesung. Ein Roman.",
     "luecke": "lecture",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_19.mp3?v=b4865a5e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_20",
@@ -5390,14 +6418,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un médecin = Arzt (auch für Ärztinnen: une femme médecin / la médecin); engl. medicine = un médicament; la médecine = die Medizin (Fach).",
    "audio": "audio/fr-de/wendungen/fa_20.mp3?v=4655f440",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le médecin donne un médicament. Le médicament n'est pas le médecin.",
     "de": "Der Arzt gibt ein Medikament. Das Medikament ist nicht der Arzt.",
     "luecke": "médecin",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_20.mp3?v=094b1b88"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_21",
@@ -5409,23 +6441,29 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "prétendre = behaupten (prétendre + Infinitiv / que); engl. to pretend = faire semblant (de). Spanisch: pretender = vorhaben – dreimal anders!",
    "audio": "audio/fr-de/wendungen/fa_21.mp3?v=df618d15",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il prétend avoir fait ses devoirs. Il fait semblant de chercher son cahier.",
     "de": "Er behauptet, seine Hausaufgaben gemacht zu haben. Er tut so, als suche er sein Heft.",
     "luecke": "prétend",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_21.mp3?v=17ee7734"
    },
    "zeit": {
     "pc": {
      "fr": "Il a prétendu avoir fait ses devoirs.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_21_pc.mp3?v=9059cf7e"
     },
     "fp": {
      "fr": "Il va prétendre avoir fait ses devoirs.",
+     "umschrift": null,
      "audio": "audio/fr-de/saetze/fa_21_fp.mp3?v=d2136d63"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_22",
@@ -5437,14 +6475,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "la location = Vermietung, Miete (louer = mieten/vermieten; le loyer = Miete monatlich); engl. location = un lieu, un endroit. à louer = zu vermieten.",
    "audio": "audio/fr-de/wendungen/fa_22.mp3?v=7038fbb1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Location de vélos. Ce n'est pas un lieu. C'est un vélo qu'on loue.",
     "de": "Fahrradverleih. Das ist kein Ort. Das ist ein Fahrrad, das man mietet.",
     "luecke": "Location",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_22.mp3?v=61d13c1f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_23",
@@ -5456,14 +6498,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "un raisin = Weintraube (un grain de raisin = eine Beere); engl. raisin = un raisin sec (sec = trocken). frais / fraîche = frisch.",
    "audio": "audio/fr-de/wendungen/fa_23.mp3?v=7fe7c10c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un raisin, c'est frais. Un raisin sec, c'est sec. Logique française.",
     "de": "Eine Traube ist frisch. Eine Rosine ist trocken. Französische Logik.",
     "luecke": "raisin",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_23.mp3?v=32066e30"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_24",
@@ -5475,14 +6521,18 @@ window.SPRACHEN["fr-de"] = {
    "notiz": "excusez-moi = Entschuldigung (Anrede, Imperativ von excuser); chercher = suchen (ohne Präposition: je cherche la bibliothèque); gratuit = kostenlos.",
    "audio": "audio/fr-de/wendungen/fa_24.mp3?v=f2d9ad2a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Excusez-moi, je cherche la bibliothèque. – La librairie ? – Non, la bibliothèque. Avec les livres gratuits.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Mit den kostenlosen Büchern.",
     "luecke": "je cherche la bibliothèque",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/fr-de/saetze/fa_24.mp3?v=5c3dd42b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   }
  ],
  "dialoge": [
@@ -5496,6 +6546,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "Salut Aurélien ! Ça fait longtemps !",
      "de": "Hallo Aurélien! Lange nicht gesehen!",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_01.mp3?v=14c76ee3"
     },
     {
@@ -5503,6 +6554,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Salut Alex. Trois jours. Mais oui, ça fait longtemps.",
      "de": "Hallo Alex. Drei Tage. Aber ja, eine Ewigkeit.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_02.mp3?v=98ed9fa3"
     },
     {
@@ -5510,6 +6562,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
      "de": "Und, deine Stunde mit den Neunern, gut gelaufen?",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_03.mp3?v=ec54c6f6"
     },
     {
@@ -5517,6 +6570,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Très bien. Ils ont dormi. Moi aussi, presque.",
      "de": "Sehr gut. Sie haben geschlafen. Ich fast auch.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_04.mp3?v=33370412"
     },
     {
@@ -5524,6 +6578,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "Moi, j'ai du mal à les faire taire le vendredi.",
      "de": "Ich kriege sie freitags kaum ruhig.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_05.mp3?v=579d9c24"
     },
     {
@@ -5531,6 +6586,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Facile. Tu parles de grammaire. Silence total.",
      "de": "Ganz einfach. Du redest über Grammatik. Totenstille.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_06.mp3?v=8640d331"
     },
     {
@@ -5538,6 +6594,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "Et toi, tu n'es pas crevé ?",
      "de": "Und du, bist du nicht fix und fertig?",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_07.mp3?v=3eec6a50"
     },
     {
@@ -5545,6 +6602,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Si. Du coup, ce soir, je corrige des copies… devant un film.",
      "de": "Doch. Deshalb korrigiere ich heute Abend Arbeiten … vor einem Film.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_08.mp3?v=e8f233dd"
     },
     {
@@ -5552,6 +6610,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "Un bon film ?",
      "de": "Ein guter Film?",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_09.mp3?v=a3e927cb"
     },
     {
@@ -5559,6 +6618,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Je ne sais pas. Je regarde les copies.",
      "de": "Keine Ahnung. Ich schaue die Arbeiten an.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d1_10.mp3?v=904c9bdf"
     }
    ]
@@ -5573,6 +6633,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Ça va, Alex ? Tu as l'air sombre.",
      "de": "Alles klar, Alex? Du siehst düster aus.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_01.mp3?v=b26773f0"
     },
     {
@@ -5580,6 +6641,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "J'ai le cafard. Mon chat ne me regarde plus.",
      "de": "Ich bin niedergeschlagen. Meine Katze schaut mich nicht mehr an.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_02.mp3?v=00a3aeaa"
     },
     {
@@ -5587,6 +6649,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Depuis quand ?",
      "de": "Seit wann?",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_03.mp3?v=9ae12e94"
     },
     {
@@ -5594,6 +6657,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "Depuis que j'ai chanté en français.",
      "de": "Seit ich auf Französisch gesungen habe.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_04.mp3?v=09820a32"
     },
     {
@@ -5601,6 +6665,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Ah. Et c'était quelle chanson ?",
      "de": "Ah. Und welches Lied war es?",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_05.mp3?v=29b8013c"
     },
     {
@@ -5608,6 +6673,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "« Ne me quitte pas ». Deux fois.",
      "de": "„Ne me quitte pas“. Zweimal.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_06.mp3?v=49d442dd"
     },
     {
@@ -5615,6 +6681,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Alex… ça me fend le cœur, mais ton chat a raison.",
      "de": "Alex … das bricht mir das Herz, aber deine Katze hat recht.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_07.mp3?v=e6185414"
     },
     {
@@ -5622,6 +6689,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "Tu trouves ça inquiétant ?",
      "de": "Findest du das beunruhigend?",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_08.mp3?v=98849056"
     },
     {
@@ -5629,6 +6697,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "B",
      "fr": "Non. Je trouve ça apaisant. Pour le chat, c'est fini.",
      "de": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_09.mp3?v=9a61f4b0"
     },
     {
@@ -5636,6 +6705,7 @@ window.SPRACHEN["fr-de"] = {
      "rolle": "A",
      "fr": "Merci, Aurélien. Ça me touche. Je crois.",
      "de": "Danke, Aurélien. Das berührt mich. Glaube ich.",
+     "umschrift": null,
      "audio": "audio/fr-de/dialoge/d2_10.mp3?v=213d31a2"
     }
    ]
@@ -5730,6 +6800,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "enfant",
      "de": "Kind",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/an_01.mp3?v=dfea9ca7"
     },
     {
@@ -5737,6 +6809,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "temps",
      "de": "Zeit, Wetter",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/an_02.mp3?v=bfffe287"
     },
     {
@@ -5744,6 +6818,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "vent",
      "de": "Wind",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/an_03.mp3?v=70853ef1"
     },
     {
@@ -5751,6 +6827,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "chanter",
      "de": "singen",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/an_04.mp3?v=ef2969a3"
     },
     {
@@ -5758,6 +6836,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "lentement",
      "de": "langsam",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/an_05.mp3?v=d385df1a"
     },
     {
@@ -5765,6 +6845,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "dans",
      "de": "in",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/an_06.mp3?v=a4235b3c"
     },
     {
@@ -5772,6 +6854,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "grand",
      "de": "groß",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/an_07.mp3?v=cd0841ad"
     },
     {
@@ -5779,6 +6863,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "blanc",
      "de": "weiß",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/an_08.mp3?v=8e51fe2a"
     }
    ],
@@ -5788,6 +6874,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "bon",
      "de": "gut",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/on_01.mp3?v=344cb4ab"
     },
     {
@@ -5795,6 +6883,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "pont",
      "de": "Brücke",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/on_02.mp3?v=a11d5d24"
     },
     {
@@ -5802,6 +6892,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "mon",
      "de": "mein",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/on_03.mp3?v=c1a8476d"
     },
     {
@@ -5809,6 +6901,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "chanson",
      "de": "Lied",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/on_04.mp3?v=e5cf4ed6"
     },
     {
@@ -5816,6 +6910,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "maison",
      "de": "Haus",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/on_05.mp3?v=6a8a4f1b"
     },
     {
@@ -5823,6 +6919,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "long",
      "de": "lang",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/on_06.mp3?v=f0d0fff4"
     },
     {
@@ -5830,6 +6928,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "nom",
      "de": "Name",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/on_07.mp3?v=0f4b2e4a"
     },
     {
@@ -5837,6 +6937,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "ronron",
      "de": "Schnurren",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/on_08.mp3?v=ffa2fa8c"
     }
    ],
@@ -5846,6 +6948,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "vin",
      "de": "Wein",
      "klang": "in",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/in_01.mp3?v=52de69fa"
     },
     {
@@ -5853,6 +6957,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "pain",
      "de": "Brot",
      "klang": "in",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/in_02.mp3?v=e85ec096"
     },
     {
@@ -5860,6 +6966,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "main",
      "de": "Hand",
      "klang": "in",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/in_03.mp3?v=cab2c45b"
     },
     {
@@ -5867,6 +6975,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "matin",
      "de": "Morgen",
      "klang": "in",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/in_04.mp3?v=0225f0b6"
     },
     {
@@ -5874,6 +6984,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "chemin",
      "de": "Weg",
      "klang": "in",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/in_05.mp3?v=8e4d933d"
     },
     {
@@ -5881,6 +6993,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "bien",
      "de": "gut",
      "klang": "in",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/in_06.mp3?v=d834c05f"
     },
     {
@@ -5888,6 +7002,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "plein",
      "de": "voll",
      "klang": "in",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/in_07.mp3?v=8a2581c4"
     },
     {
@@ -5895,6 +7011,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "train",
      "de": "Zug",
      "klang": "in",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/in_08.mp3?v=49c18fc4"
     }
    ],
@@ -5904,6 +7022,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "un",
      "de": "ein",
      "klang": "un",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/un_01.mp3?v=4fa8473e"
     },
     {
@@ -5911,6 +7031,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "brun",
      "de": "braun",
      "klang": "un",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/un_02.mp3?v=8f99814d"
     },
     {
@@ -5918,6 +7040,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "lundi",
      "de": "Montag",
      "klang": "un",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/un_03.mp3?v=a6627b28"
     },
     {
@@ -5925,6 +7049,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "parfum",
      "de": "Parfüm, Duft",
      "klang": "un",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/un_04.mp3?v=d7008703"
     },
     {
@@ -5932,6 +7058,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "chacun",
      "de": "jeder",
      "klang": "un",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/un_05.mp3?v=4bc4feb0"
     },
     {
@@ -5939,6 +7067,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "quelqu'un",
      "de": "jemand",
      "klang": "un",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/un_06.mp3?v=950f0b7c"
     }
    ]
@@ -5949,6 +7079,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "vent",
     "de": "Wind",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p1_01a.mp3?v=3a1c9fb9",
     "gruppe": "p1",
     "b": {
@@ -5956,6 +7088,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "vont",
      "de": "(sie) gehen",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p1_01b.mp3?v=e3b4cefc"
     }
    },
@@ -5964,6 +7098,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "lent",
     "de": "langsam",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p1_02a.mp3?v=50b83c4f",
     "gruppe": "p1",
     "b": {
@@ -5971,6 +7107,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "long",
      "de": "lang",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p1_02b.mp3?v=9cae7efd"
     }
    },
@@ -5979,6 +7117,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "banc",
     "de": "Bank (zum Sitzen)",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p1_03a.mp3?v=28927acd",
     "gruppe": "p1",
     "b": {
@@ -5986,6 +7126,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "bon",
      "de": "gut",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p1_03b.mp3?v=34a8f5bf"
     }
    },
@@ -5994,6 +7136,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "sans",
     "de": "ohne",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p1_04a.mp3?v=7fcb965f",
     "gruppe": "p1",
     "b": {
@@ -6001,6 +7145,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "son",
      "de": "sein, ihr",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p1_04b.mp3?v=fefe1f17"
     }
    },
@@ -6009,6 +7155,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "tant",
     "de": "so viel",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p1_05a.mp3?v=4cafb874",
     "gruppe": "p1",
     "b": {
@@ -6016,6 +7164,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "ton",
      "de": "dein",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p1_05b.mp3?v=36e97aab"
     }
    },
@@ -6024,6 +7174,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "dent",
     "de": "Zahn",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p1_06a.mp3?v=24a2637b",
     "gruppe": "p1",
     "b": {
@@ -6031,6 +7183,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "don",
      "de": "Gabe, Spende",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p1_06b.mp3?v=90f13b32"
     }
    },
@@ -6039,6 +7193,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "rang",
     "de": "Reihe, Rang",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p1_07a.mp3?v=ad747cab",
     "gruppe": "p1",
     "b": {
@@ -6046,6 +7202,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "rond",
      "de": "rund",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p1_07b.mp3?v=74e91ae8"
     }
    },
@@ -6054,6 +7212,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "blanc",
     "de": "weiß",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p1_08a.mp3?v=dacf8fa7",
     "gruppe": "p1",
     "b": {
@@ -6061,6 +7221,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "blond",
      "de": "blond",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p1_08b.mp3?v=1fd4914f"
     }
    },
@@ -6069,6 +7231,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "pain",
     "de": "Brot",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p2_01a.mp3?v=1d7a2336",
     "gruppe": "p2",
     "b": {
@@ -6076,6 +7240,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "pan",
      "de": "Seite, Zipfel",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p2_01b.mp3?v=6af84bbd"
     }
    },
@@ -6084,6 +7250,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "vin",
     "de": "Wein",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p2_02a.mp3?v=4a1e91a6",
     "gruppe": "p2",
     "b": {
@@ -6091,6 +7259,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "vent",
      "de": "Wind",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p2_02b.mp3?v=9bf14ac3"
     }
    },
@@ -6099,6 +7269,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "bain",
     "de": "Bad",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p2_03a.mp3?v=02d7bca1",
     "gruppe": "p2",
     "b": {
@@ -6106,6 +7278,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "banc",
      "de": "Bank",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p2_03b.mp3?v=9ffd48a0"
     }
    },
@@ -6114,6 +7288,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "main",
     "de": "Hand",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p2_04a.mp3?v=bef5524b",
     "gruppe": "p2",
     "b": {
@@ -6121,6 +7297,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "ment",
      "de": "(er) lügt",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p2_04b.mp3?v=bd56b23c"
     }
    },
@@ -6129,6 +7307,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "fin",
     "de": "Ende",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p2_05a.mp3?v=8a42da6a",
     "gruppe": "p2",
     "b": {
@@ -6136,6 +7316,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "fend",
      "de": "(er) spaltet",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p2_05b.mp3?v=b2c8c791"
     }
    },
@@ -6144,6 +7326,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "teint",
     "de": "Teint, Hautfarbe",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p2_06a.mp3?v=b2fcdb60",
     "gruppe": "p2",
     "b": {
@@ -6151,6 +7335,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "temps",
      "de": "Zeit",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p2_06b.mp3?v=89dabc68"
     }
    },
@@ -6159,6 +7345,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "lin",
     "de": "Leinen",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p2_07a.mp3?v=8fb086a3",
     "gruppe": "p2",
     "b": {
@@ -6166,6 +7354,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "lent",
      "de": "langsam",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p2_07b.mp3?v=f82d4336"
     }
    },
@@ -6174,6 +7364,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "sain",
     "de": "gesund",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p2_08a.mp3?v=91b798a1",
     "gruppe": "p2",
     "b": {
@@ -6181,6 +7373,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "sans",
      "de": "ohne",
      "klang": "an",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p2_08b.mp3?v=80a22e9f"
     }
    },
@@ -6189,6 +7383,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "bain",
     "de": "Bad",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p3_01a.mp3?v=75345b72",
     "gruppe": "p3",
     "b": {
@@ -6196,6 +7392,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "bon",
      "de": "gut",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p3_01b.mp3?v=c302b422"
     }
    },
@@ -6204,6 +7402,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "sain",
     "de": "gesund",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p3_02a.mp3?v=e1259d35",
     "gruppe": "p3",
     "b": {
@@ -6211,6 +7411,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "son",
      "de": "sein, ihr",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p3_02b.mp3?v=1de5f0c1"
     }
    },
@@ -6219,6 +7421,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "lin",
     "de": "Leinen",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p3_03a.mp3?v=0d088b00",
     "gruppe": "p3",
     "b": {
@@ -6226,6 +7430,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "long",
      "de": "lang",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p3_03b.mp3?v=6a5b0a80"
     }
    },
@@ -6234,6 +7440,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "daim",
     "de": "Damhirsch, Wildleder",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p3_04a.mp3?v=03ca85c9",
     "gruppe": "p3",
     "b": {
@@ -6241,6 +7449,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "don",
      "de": "Gabe",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p3_04b.mp3?v=a7b18446"
     }
    },
@@ -6249,6 +7459,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "brin",
     "de": "Halm",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p3_05a.mp3?v=6eb1960e",
     "gruppe": "p3",
     "b": {
@@ -6256,6 +7468,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "brun",
      "de": "braun",
      "klang": "un",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p3_05b.mp3?v=f15842fc"
     }
    },
@@ -6264,6 +7478,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "pin",
     "de": "Kiefer",
     "klang": "in",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/p3_06a.mp3?v=f4ea8a75",
     "gruppe": "p3",
     "b": {
@@ -6271,6 +7487,8 @@ window.SPRACHEN["fr-de"] = {
      "wort": "pont",
      "de": "Brücke",
      "klang": "on",
+     "umschrift": null,
+     "syrien": null,
      "audio": "audio/fr-de/nasale/p3_06b.mp3?v=775b276b"
     }
    }
@@ -6281,6 +7499,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "commençons",
     "de": "wir fangen an",
     "klang": "an,on",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_01.mp3?v=4920cafb",
     "markup": "comm{an|en}ç{on|on}s",
     "klaenge": [
@@ -6293,6 +7513,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "montant",
     "de": "Betrag",
     "klang": "on,an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_02.mp3?v=53b35a4b",
     "markup": "m{on|on}t{an|an}t",
     "klaenge": [
@@ -6305,6 +7527,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "maintenant",
     "de": "jetzt",
     "klang": "in,an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_03.mp3?v=e448dd64",
     "markup": "m{in|ain}t{an|en}{an|an}t",
     "klaenge": [
@@ -6317,6 +7541,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "pension",
     "de": "Pension, Rente",
     "klang": "an,on",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_04.mp3?v=d8449842",
     "markup": "p{an|en}si{on|on}",
     "klaenge": [
@@ -6329,6 +7555,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "bonbon",
     "de": "Bonbon",
     "klang": "on,on",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_05.mp3?v=06f33bf2",
     "markup": "b{on|on}b{on|on}",
     "klaenge": [
@@ -6341,6 +7569,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "mon enfant",
     "de": "mein Kind",
     "klang": "on,an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_06.mp3?v=e71010c5",
     "markup": "m{on|on} {an|en}f{an|an}t",
     "klaenge": [
@@ -6353,6 +7583,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "en avion",
     "de": "im Flugzeug",
     "klang": "an,on",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_07.mp3?v=2ccfb343",
     "markup": "{an|en} avi{on|on}",
     "klaenge": [
@@ -6365,6 +7597,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "un bon vin blanc",
     "de": "ein guter Weißwein",
     "klang": "un,on,in,an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_08.mp3?v=ca1cdf24",
     "markup": "{un|un} b{on|on} v{in|in} bl{an|an}c",
     "klaenge": [
@@ -6379,6 +7613,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "attention",
     "de": "Achtung",
     "klang": "an,on",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_09.mp3?v=0e89ba74",
     "markup": "att{an|en}ti{on|on}",
     "klaenge": [
@@ -6391,6 +7627,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "tant mieux",
     "de": "umso besser",
     "klang": "an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_10.mp3?v=78f17f59",
     "markup": "t{an|an}t mieux",
     "klaenge": [
@@ -6402,6 +7640,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "lentement",
     "de": "langsam",
     "klang": "an,an",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_11.mp3?v=d317c967",
     "markup": "l{an|en}tem{an|en}t",
     "klaenge": [
@@ -6414,6 +7654,8 @@ window.SPRACHEN["fr-de"] = {
     "wort": "invitation",
     "de": "Einladung",
     "klang": "in,on",
+    "umschrift": null,
+    "syrien": null,
     "audio": "audio/fr-de/nasale/b_12.mp3?v=b7713773",
     "markup": "{in|in}vitati{on|on}",
     "klaenge": [
@@ -6423,6 +7665,954 @@ window.SPRACHEN["fr-de"] = {
    }
   ]
  },
+ "aussprachen": [
+  {
+   "id": "nasale",
+   "symbol": "👃",
+   "titel": "Les nasales",
+   "unter": "[ɑ̃] en · [ɔ̃] on · [ɛ̃] in · [œ̃] un – écouter, distinguer, les deux dans un mot",
+   "info": {
+    "an": [
+     "[ɑ̃]",
+     "en · an · em · am",
+     "bouche ouverte, langue en bas",
+     "Mund offen, Zunge unten (wie in « enfant »)"
+    ],
+    "on": [
+     "[ɔ̃]",
+     "on · om",
+     "lèvres arrondies, bouche presque fermée",
+     "Lippen rund, Mund fast zu (wie in « bon »)"
+    ],
+    "in": [
+     "[ɛ̃]",
+     "in · ain · ein · aim",
+     "bouche étirée, comme un « ä » nasal",
+     "Mund breit, wie ein nasales „ä“ (wie in « vin »)"
+    ],
+    "un": [
+     "[œ̃]",
+     "un · um",
+     "comme [ɛ̃], mais lèvres légèrement arrondies",
+     "wie [ɛ̃], aber Lippen leicht gerundet (wie in « brun »)"
+    ]
+   },
+   "reihe": [
+    "an",
+    "on",
+    "in",
+    "un"
+   ],
+   "paare_gruppen": [
+    [
+     "p1",
+     "en ou on ?"
+    ],
+    [
+     "p2",
+     "in ou en ?"
+    ],
+    [
+     "p3",
+     "in ou on ?"
+    ]
+   ],
+   "beide_name": "👑 Les deux",
+   "texte": {
+    "beide": [
+     "Deux nasales dans un mot. Écoute lentement, puis à vitesse normale – et répète en soignant chaque voyelle.",
+     "Zwei Nasale in einem Wort. Hör langsam, dann normal – und sprich nach, jede Nasale sauber."
+    ],
+    "klang": [
+     "{laut} – {tipp}. Écoute lentement, puis normalement. Répète !",
+     "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"
+    ],
+    "paar": [
+     "Écoute le mot. Lequel est-ce ? Touche le bon.",
+     "Hör das Wort. Welches ist es? Tipp auf das richtige."
+    ],
+    "hilfe": [
+     "Je t'aide : {a}. Écoute encore !",
+     "Ich helfe dir: {a}. Hör noch mal!"
+    ],
+    "beide_hoeren": [
+     "Plus facile : écouter les deux",
+     "Noch einfacher: beide hören"
+    ]
+   },
+   "klaenge": {
+    "an": [
+     {
+      "id": "an_01",
+      "wort": "enfant",
+      "de": "Kind",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/an_01.mp3?v=dfea9ca7"
+     },
+     {
+      "id": "an_02",
+      "wort": "temps",
+      "de": "Zeit, Wetter",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/an_02.mp3?v=bfffe287"
+     },
+     {
+      "id": "an_03",
+      "wort": "vent",
+      "de": "Wind",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/an_03.mp3?v=70853ef1"
+     },
+     {
+      "id": "an_04",
+      "wort": "chanter",
+      "de": "singen",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/an_04.mp3?v=ef2969a3"
+     },
+     {
+      "id": "an_05",
+      "wort": "lentement",
+      "de": "langsam",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/an_05.mp3?v=d385df1a"
+     },
+     {
+      "id": "an_06",
+      "wort": "dans",
+      "de": "in",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/an_06.mp3?v=a4235b3c"
+     },
+     {
+      "id": "an_07",
+      "wort": "grand",
+      "de": "groß",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/an_07.mp3?v=cd0841ad"
+     },
+     {
+      "id": "an_08",
+      "wort": "blanc",
+      "de": "weiß",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/an_08.mp3?v=8e51fe2a"
+     }
+    ],
+    "on": [
+     {
+      "id": "on_01",
+      "wort": "bon",
+      "de": "gut",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/on_01.mp3?v=344cb4ab"
+     },
+     {
+      "id": "on_02",
+      "wort": "pont",
+      "de": "Brücke",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/on_02.mp3?v=a11d5d24"
+     },
+     {
+      "id": "on_03",
+      "wort": "mon",
+      "de": "mein",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/on_03.mp3?v=c1a8476d"
+     },
+     {
+      "id": "on_04",
+      "wort": "chanson",
+      "de": "Lied",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/on_04.mp3?v=e5cf4ed6"
+     },
+     {
+      "id": "on_05",
+      "wort": "maison",
+      "de": "Haus",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/on_05.mp3?v=6a8a4f1b"
+     },
+     {
+      "id": "on_06",
+      "wort": "long",
+      "de": "lang",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/on_06.mp3?v=f0d0fff4"
+     },
+     {
+      "id": "on_07",
+      "wort": "nom",
+      "de": "Name",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/on_07.mp3?v=0f4b2e4a"
+     },
+     {
+      "id": "on_08",
+      "wort": "ronron",
+      "de": "Schnurren",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/on_08.mp3?v=ffa2fa8c"
+     }
+    ],
+    "in": [
+     {
+      "id": "in_01",
+      "wort": "vin",
+      "de": "Wein",
+      "klang": "in",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/in_01.mp3?v=52de69fa"
+     },
+     {
+      "id": "in_02",
+      "wort": "pain",
+      "de": "Brot",
+      "klang": "in",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/in_02.mp3?v=e85ec096"
+     },
+     {
+      "id": "in_03",
+      "wort": "main",
+      "de": "Hand",
+      "klang": "in",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/in_03.mp3?v=cab2c45b"
+     },
+     {
+      "id": "in_04",
+      "wort": "matin",
+      "de": "Morgen",
+      "klang": "in",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/in_04.mp3?v=0225f0b6"
+     },
+     {
+      "id": "in_05",
+      "wort": "chemin",
+      "de": "Weg",
+      "klang": "in",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/in_05.mp3?v=8e4d933d"
+     },
+     {
+      "id": "in_06",
+      "wort": "bien",
+      "de": "gut",
+      "klang": "in",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/in_06.mp3?v=d834c05f"
+     },
+     {
+      "id": "in_07",
+      "wort": "plein",
+      "de": "voll",
+      "klang": "in",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/in_07.mp3?v=8a2581c4"
+     },
+     {
+      "id": "in_08",
+      "wort": "train",
+      "de": "Zug",
+      "klang": "in",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/in_08.mp3?v=49c18fc4"
+     }
+    ],
+    "un": [
+     {
+      "id": "un_01",
+      "wort": "un",
+      "de": "ein",
+      "klang": "un",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/un_01.mp3?v=4fa8473e"
+     },
+     {
+      "id": "un_02",
+      "wort": "brun",
+      "de": "braun",
+      "klang": "un",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/un_02.mp3?v=8f99814d"
+     },
+     {
+      "id": "un_03",
+      "wort": "lundi",
+      "de": "Montag",
+      "klang": "un",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/un_03.mp3?v=a6627b28"
+     },
+     {
+      "id": "un_04",
+      "wort": "parfum",
+      "de": "Parfüm, Duft",
+      "klang": "un",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/un_04.mp3?v=d7008703"
+     },
+     {
+      "id": "un_05",
+      "wort": "chacun",
+      "de": "jeder",
+      "klang": "un",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/un_05.mp3?v=4bc4feb0"
+     },
+     {
+      "id": "un_06",
+      "wort": "quelqu'un",
+      "de": "jemand",
+      "klang": "un",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/un_06.mp3?v=950f0b7c"
+     }
+    ]
+   },
+   "paare": [
+    {
+     "id": "p1_01a",
+     "wort": "vent",
+     "de": "Wind",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p1_01a.mp3?v=3a1c9fb9",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_01b",
+      "wort": "vont",
+      "de": "(sie) gehen",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p1_01b.mp3?v=e3b4cefc"
+     }
+    },
+    {
+     "id": "p1_02a",
+     "wort": "lent",
+     "de": "langsam",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p1_02a.mp3?v=50b83c4f",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_02b",
+      "wort": "long",
+      "de": "lang",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p1_02b.mp3?v=9cae7efd"
+     }
+    },
+    {
+     "id": "p1_03a",
+     "wort": "banc",
+     "de": "Bank (zum Sitzen)",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p1_03a.mp3?v=28927acd",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_03b",
+      "wort": "bon",
+      "de": "gut",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p1_03b.mp3?v=34a8f5bf"
+     }
+    },
+    {
+     "id": "p1_04a",
+     "wort": "sans",
+     "de": "ohne",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p1_04a.mp3?v=7fcb965f",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_04b",
+      "wort": "son",
+      "de": "sein, ihr",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p1_04b.mp3?v=fefe1f17"
+     }
+    },
+    {
+     "id": "p1_05a",
+     "wort": "tant",
+     "de": "so viel",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p1_05a.mp3?v=4cafb874",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_05b",
+      "wort": "ton",
+      "de": "dein",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p1_05b.mp3?v=36e97aab"
+     }
+    },
+    {
+     "id": "p1_06a",
+     "wort": "dent",
+     "de": "Zahn",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p1_06a.mp3?v=24a2637b",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_06b",
+      "wort": "don",
+      "de": "Gabe, Spende",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p1_06b.mp3?v=90f13b32"
+     }
+    },
+    {
+     "id": "p1_07a",
+     "wort": "rang",
+     "de": "Reihe, Rang",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p1_07a.mp3?v=ad747cab",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_07b",
+      "wort": "rond",
+      "de": "rund",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p1_07b.mp3?v=74e91ae8"
+     }
+    },
+    {
+     "id": "p1_08a",
+     "wort": "blanc",
+     "de": "weiß",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p1_08a.mp3?v=dacf8fa7",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_08b",
+      "wort": "blond",
+      "de": "blond",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p1_08b.mp3?v=1fd4914f"
+     }
+    },
+    {
+     "id": "p2_01a",
+     "wort": "pain",
+     "de": "Brot",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p2_01a.mp3?v=1d7a2336",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_01b",
+      "wort": "pan",
+      "de": "Seite, Zipfel",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p2_01b.mp3?v=6af84bbd"
+     }
+    },
+    {
+     "id": "p2_02a",
+     "wort": "vin",
+     "de": "Wein",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p2_02a.mp3?v=4a1e91a6",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_02b",
+      "wort": "vent",
+      "de": "Wind",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p2_02b.mp3?v=9bf14ac3"
+     }
+    },
+    {
+     "id": "p2_03a",
+     "wort": "bain",
+     "de": "Bad",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p2_03a.mp3?v=02d7bca1",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_03b",
+      "wort": "banc",
+      "de": "Bank",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p2_03b.mp3?v=9ffd48a0"
+     }
+    },
+    {
+     "id": "p2_04a",
+     "wort": "main",
+     "de": "Hand",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p2_04a.mp3?v=bef5524b",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_04b",
+      "wort": "ment",
+      "de": "(er) lügt",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p2_04b.mp3?v=bd56b23c"
+     }
+    },
+    {
+     "id": "p2_05a",
+     "wort": "fin",
+     "de": "Ende",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p2_05a.mp3?v=8a42da6a",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_05b",
+      "wort": "fend",
+      "de": "(er) spaltet",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p2_05b.mp3?v=b2c8c791"
+     }
+    },
+    {
+     "id": "p2_06a",
+     "wort": "teint",
+     "de": "Teint, Hautfarbe",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p2_06a.mp3?v=b2fcdb60",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_06b",
+      "wort": "temps",
+      "de": "Zeit",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p2_06b.mp3?v=89dabc68"
+     }
+    },
+    {
+     "id": "p2_07a",
+     "wort": "lin",
+     "de": "Leinen",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p2_07a.mp3?v=8fb086a3",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_07b",
+      "wort": "lent",
+      "de": "langsam",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p2_07b.mp3?v=f82d4336"
+     }
+    },
+    {
+     "id": "p2_08a",
+     "wort": "sain",
+     "de": "gesund",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p2_08a.mp3?v=91b798a1",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_08b",
+      "wort": "sans",
+      "de": "ohne",
+      "klang": "an",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p2_08b.mp3?v=80a22e9f"
+     }
+    },
+    {
+     "id": "p3_01a",
+     "wort": "bain",
+     "de": "Bad",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p3_01a.mp3?v=75345b72",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_01b",
+      "wort": "bon",
+      "de": "gut",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p3_01b.mp3?v=c302b422"
+     }
+    },
+    {
+     "id": "p3_02a",
+     "wort": "sain",
+     "de": "gesund",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p3_02a.mp3?v=e1259d35",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_02b",
+      "wort": "son",
+      "de": "sein, ihr",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p3_02b.mp3?v=1de5f0c1"
+     }
+    },
+    {
+     "id": "p3_03a",
+     "wort": "lin",
+     "de": "Leinen",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p3_03a.mp3?v=0d088b00",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_03b",
+      "wort": "long",
+      "de": "lang",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p3_03b.mp3?v=6a5b0a80"
+     }
+    },
+    {
+     "id": "p3_04a",
+     "wort": "daim",
+     "de": "Damhirsch, Wildleder",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p3_04a.mp3?v=03ca85c9",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_04b",
+      "wort": "don",
+      "de": "Gabe",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p3_04b.mp3?v=a7b18446"
+     }
+    },
+    {
+     "id": "p3_05a",
+     "wort": "brin",
+     "de": "Halm",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p3_05a.mp3?v=6eb1960e",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_05b",
+      "wort": "brun",
+      "de": "braun",
+      "klang": "un",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p3_05b.mp3?v=f15842fc"
+     }
+    },
+    {
+     "id": "p3_06a",
+     "wort": "pin",
+     "de": "Kiefer",
+     "klang": "in",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/p3_06a.mp3?v=f4ea8a75",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_06b",
+      "wort": "pont",
+      "de": "Brücke",
+      "klang": "on",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/fr-de/nasale/p3_06b.mp3?v=775b276b"
+     }
+    }
+   ],
+   "beide": [
+    {
+     "id": "b_01",
+     "wort": "commençons",
+     "de": "wir fangen an",
+     "klang": "an,on",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_01.mp3?v=4920cafb",
+     "markup": "comm{an|en}ç{on|on}s",
+     "klaenge": [
+      "an",
+      "on"
+     ]
+    },
+    {
+     "id": "b_02",
+     "wort": "montant",
+     "de": "Betrag",
+     "klang": "on,an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_02.mp3?v=53b35a4b",
+     "markup": "m{on|on}t{an|an}t",
+     "klaenge": [
+      "on",
+      "an"
+     ]
+    },
+    {
+     "id": "b_03",
+     "wort": "maintenant",
+     "de": "jetzt",
+     "klang": "in,an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_03.mp3?v=e448dd64",
+     "markup": "m{in|ain}t{an|en}{an|an}t",
+     "klaenge": [
+      "in",
+      "an"
+     ]
+    },
+    {
+     "id": "b_04",
+     "wort": "pension",
+     "de": "Pension, Rente",
+     "klang": "an,on",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_04.mp3?v=d8449842",
+     "markup": "p{an|en}si{on|on}",
+     "klaenge": [
+      "an",
+      "on"
+     ]
+    },
+    {
+     "id": "b_05",
+     "wort": "bonbon",
+     "de": "Bonbon",
+     "klang": "on,on",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_05.mp3?v=06f33bf2",
+     "markup": "b{on|on}b{on|on}",
+     "klaenge": [
+      "on",
+      "on"
+     ]
+    },
+    {
+     "id": "b_06",
+     "wort": "mon enfant",
+     "de": "mein Kind",
+     "klang": "on,an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_06.mp3?v=e71010c5",
+     "markup": "m{on|on} {an|en}f{an|an}t",
+     "klaenge": [
+      "on",
+      "an"
+     ]
+    },
+    {
+     "id": "b_07",
+     "wort": "en avion",
+     "de": "im Flugzeug",
+     "klang": "an,on",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_07.mp3?v=2ccfb343",
+     "markup": "{an|en} avi{on|on}",
+     "klaenge": [
+      "an",
+      "on"
+     ]
+    },
+    {
+     "id": "b_08",
+     "wort": "un bon vin blanc",
+     "de": "ein guter Weißwein",
+     "klang": "un,on,in,an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_08.mp3?v=ca1cdf24",
+     "markup": "{un|un} b{on|on} v{in|in} bl{an|an}c",
+     "klaenge": [
+      "un",
+      "on",
+      "in",
+      "an"
+     ]
+    },
+    {
+     "id": "b_09",
+     "wort": "attention",
+     "de": "Achtung",
+     "klang": "an,on",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_09.mp3?v=0e89ba74",
+     "markup": "att{an|en}ti{on|on}",
+     "klaenge": [
+      "an",
+      "on"
+     ]
+    },
+    {
+     "id": "b_10",
+     "wort": "tant mieux",
+     "de": "umso besser",
+     "klang": "an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_10.mp3?v=78f17f59",
+     "markup": "t{an|an}t mieux",
+     "klaenge": [
+      "an"
+     ]
+    },
+    {
+     "id": "b_11",
+     "wort": "lentement",
+     "de": "langsam",
+     "klang": "an,an",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_11.mp3?v=d317c967",
+     "markup": "l{an|en}tem{an|en}t",
+     "klaenge": [
+      "an",
+      "an"
+     ]
+    },
+    {
+     "id": "b_12",
+     "wort": "invitation",
+     "de": "Einladung",
+     "klang": "in,on",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/fr-de/nasale/b_12.mp3?v=b7713773",
+     "markup": "{in|in}vitati{on|on}",
+     "klaenge": [
+      "in",
+      "on"
+     ]
+    }
+   ]
+  }
+ ],
  "geschichte": [
   {
    "nr": 1,
@@ -6432,84 +8622,98 @@ window.SPRACHEN["fr-de"] = {
      "id": "k01_01",
      "fr": "Julien Lefèvre était professeur à Metz. Un professeur normal. Enfin, presque.",
      "de": "Julien Lefèvre war Lehrer in Metz. Ein normaler Lehrer. Na ja, fast.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_01.mp3?v=aec3f015"
     },
     {
      "id": "k01_02",
      "fr": "Ce vendredi soir, il **corrigeait des copies**, comme tous les vendredis. Il **était crevé**. Dehors, il pleuvait. Dedans, son chat **faisait la sieste** sur les copies déjà corrigées.",
      "de": "An diesem Freitagabend korrigierte er Arbeiten, wie jeden Freitag. Er war fix und fertig. Draußen regnete es. Drinnen machte seine Katze ein Nickerchen auf den schon korrigierten Arbeiten.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_02.mp3?v=6c1faa4d"
     },
     {
      "id": "k01_03",
      "fr": "La dix-septième copie était celle de Mehdi, un élève de troisième qui écrivait peu, mais bien.",
      "de": "Die siebzehnte Arbeit war die von Mehdi, einem Neuntklässler, der wenig schrieb, aber gut.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_03.mp3?v=7f6f9dbf"
     },
     {
      "id": "k01_04",
      "fr": "Entre la page deux et la page trois, il y avait quelque chose. Un billet. Un billet d'entrée pour le musée du Louvre.",
      "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Karte. Eine Eintrittskarte für den Louvre.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_04.mp3?v=4e0f6941"
     },
     {
      "id": "k01_05",
      "fr": "Julien a regardé la date. Demain. Samedi. Dix heures.",
      "de": "Julien sah auf das Datum. Morgen. Samstag. Zehn Uhr.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_05.mp3?v=c54ca699"
     },
     {
      "id": "k01_06",
      "fr": "Au dos du billet, quelqu'un avait écrit, en lettres bleues : « Salle 13. Venez seul. Et n'ayez pas peur. »",
      "de": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: „Saal 13. Kommen Sie allein. Und haben Sie keine Angst.“",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_06.mp3?v=963bcb44"
     },
     {
      "id": "k01_07",
      "fr": "Julien n'**avait pas peur**. Pas encore. Il **avait du mal à** comprendre, c'est tout.",
      "de": "Julien hatte keine Angst. Noch nicht. Er hatte nur Schwierigkeiten, das zu verstehen, das war alles.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_07.mp3?v=f4e136f8"
     },
     {
      "id": "k01_08",
      "fr": "Il a relu la copie de Mehdi. Un bon devoir. Treize sur vingt. Mais à la fin, une phrase ne faisait pas partie de la rédaction : « Monsieur, il faut y aller. Le chat le sait. »",
      "de": "Er las Mehdis Arbeit noch einmal. Eine gute Arbeit. Dreizehn von zwanzig. Aber am Ende stand ein Satz, der nicht zum Aufsatz gehörte: „Monsieur, Sie müssen hingehen. Die Katze weiß es.“",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_08.mp3?v=59e1331a"
     },
     {
      "id": "k01_09",
      "fr": "Julien a regardé son chat. Le chat a ouvert un œil. Puis il **a ronronné**. Une seule fois. Comme un oui.",
      "de": "Julien sah seine Katze an. Die Katze öffnete ein Auge. Dann schnurrte sie. Ein einziges Mal. Wie ein Ja.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_09.mp3?v=73e44beb"
     },
     {
      "id": "k01_10",
      "fr": "« **Ça ne fait rien** », a dit Julien à voix haute. « Je n'irai pas. »",
      "de": "„Macht nichts“, sagte Julien laut. „Ich gehe nicht hin.“",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_10.mp3?v=88d3c673"
     },
     {
      "id": "k01_11",
      "fr": "Il a mis le billet dans sa poche. **Du coup**, à six heures du matin, il était dans le train pour Paris.",
      "de": "Er steckte die Karte in seine Tasche. Und so saß er um sechs Uhr morgens im Zug nach Paris.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_11.mp3?v=0a698deb"
     },
     {
      "id": "k01_12",
      "fr": "**Ça fait longtemps** qu'il n'avait pas vu le Louvre. Il **avait hâte**. Et, pour être honnête, un petit peu **le cafard**.",
      "de": "Es war lange her, dass er den Louvre gesehen hatte. Er konnte es kaum erwarten. Und, ehrlich gesagt, war ihm ein bisschen schwer ums Herz.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_12.mp3?v=c8477eba"
     },
     {
      "id": "k01_13",
      "fr": "Dans le wagon, en face de lui, un homme lisait le journal. Sur ses genoux, un chat gris le regardait. Le chat, pas l'homme.",
      "de": "Im Waggon, ihm gegenüber, las ein Mann Zeitung. Auf seinem Schoß sah ihn eine graue Katze an. Die Katze, nicht der Mann.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_13.mp3?v=14c03e36"
     },
     {
      "id": "k01_14",
      "fr": "À suivre.",
      "de": "Fortsetzung folgt.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_14.mp3?v=f13a9833"
     }
    ]
@@ -6522,90 +8726,105 @@ window.SPRACHEN["fr-de"] = {
      "id": "k02_01",
      "fr": "Le train pour Paris mettait une heure et demie. Julien avait un livre, un café et une question.",
      "de": "Der Zug nach Paris brauchte anderthalb Stunden. Julien hatte ein Buch, einen Kaffee und eine Frage.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_01.mp3?v=953a972a"
     },
     {
      "id": "k02_02",
      "fr": "L'homme en face de lui lisait toujours le journal. Le chat gris, lui, ne lisait pas. Il regardait Julien. **Ça ne le dérangeait pas**, apparemment.",
      "de": "Der Mann ihm gegenüber las immer noch Zeitung. Die graue Katze las nicht. Sie sah Julien an. Das störte sie offenbar nicht.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_02.mp3?v=bfbff8dc"
     },
     {
      "id": "k02_03",
      "fr": "« Il est **indépendant** », a dit l'homme sans lever les yeux. « Il choisit les gens. »",
      "de": "„Er ist unabhängig“, sagte der Mann, ohne aufzusehen. „Er sucht sich die Leute aus.“",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_03.mp3?v=d13c12f4"
     },
     {
      "id": "k02_04",
      "fr": "« Et il m'a choisi ? » a demandé Julien.",
      "de": "„Und er hat mich ausgesucht?“, fragte Julien.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_04.mp3?v=cc4405c6"
     },
     {
      "id": "k02_05",
      "fr": "« Non. Il vous a reconnu. Ce n'est pas la même chose. »",
      "de": "„Nein. Er hat Sie erkannt. Das ist nicht dasselbe.“",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_05.mp3?v=bb2d2b31"
     },
     {
      "id": "k02_06",
      "fr": "Julien a souri poliment. Il avait l'habitude des gens bizarres. Il était professeur.",
      "de": "Julien lächelte höflich. Er war seltsame Leute gewohnt. Er war Lehrer.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_06.mp3?v=e0d173bb"
     },
     {
      "id": "k02_07",
      "fr": "Entre Châlons et Paris, l'homme a plié son journal. Il a posé sur la table une petite clé en laiton, très vieille, avec un numéro : 13.",
      "de": "Zwischen Châlons und Paris faltete der Mann seine Zeitung zusammen. Er legte einen kleinen, sehr alten Messingschlüssel auf den Tisch, mit einer Nummer: 13.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_07.mp3?v=1f4b921b"
     },
     {
      "id": "k02_08",
      "fr": "« Vous allez chercher la salle 13 », a-t-il dit. « Elle n'est pas sur le plan. Elle n'est pas sur Internet. Elle est entre la salle 12 et la salle 14. Évidemment. »",
      "de": "„Sie werden Saal 13 suchen“, sagte er. „Er steht nicht auf dem Plan. Er steht nicht im Internet. Er liegt zwischen Saal 12 und Saal 14. Natürlich.“",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_08.mp3?v=c450ddd7"
     },
     {
      "id": "k02_09",
      "fr": "« Évidemment », a répété Julien. Il **avait du mal à** garder son sérieux. Et en même temps, il **avait le cœur lourd**, sans savoir pourquoi.",
      "de": "„Natürlich“, wiederholte Julien. Er hatte Mühe, ernst zu bleiben. Und gleichzeitig war ihm schwer ums Herz, ohne zu wissen, warum.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_09.mp3?v=2e2cf711"
     },
     {
      "id": "k02_10",
      "fr": "« Une dernière chose, monsieur Lefèvre. » L'homme connaissait son nom. « Dans la salle 13, ne chantez pas. »",
      "de": "„Noch etwas, Monsieur Lefèvre.“ Der Mann kannte seinen Namen. „In Saal 13: Singen Sie nicht.“",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_10.mp3?v=1babe59d"
     },
     {
      "id": "k02_11",
      "fr": "Le train est entré en gare de l'Est. Quand Julien s'est retourné, l'homme n'était plus là. Le chat non plus.",
      "de": "Der Zug fuhr in den Gare de l'Est ein. Als Julien sich umdrehte, war der Mann nicht mehr da. Die Katze auch nicht.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_11.mp3?v=02086244"
     },
     {
      "id": "k02_12",
      "fr": "Sur la table, il y avait la clé. Et un poil gris.",
      "de": "Auf dem Tisch lagen der Schlüssel. Und ein graues Haar.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_12.mp3?v=c04f2b1b"
     },
     {
      "id": "k02_13",
      "fr": "Julien a pris les deux. **Du coup**, il était maintenant un professeur de Metz avec une clé, un poil de chat et un rendez-vous dans une salle qui n'existait pas.",
      "de": "Julien nahm beides. Und so war er jetzt ein Lehrer aus Metz mit einem Schlüssel, einem Katzenhaar und einer Verabredung in einem Saal, den es nicht gab.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_13.mp3?v=7d390268"
     },
     {
      "id": "k02_14",
      "fr": "Un samedi normal, en somme.",
      "de": "Ein normaler Samstag, alles in allem.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_14.mp3?v=27edd115"
     },
     {
      "id": "k02_15",
      "fr": "À suivre.",
      "de": "Fortsetzung folgt.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_15.mp3?v=090d78d9"
     }
    ]
@@ -6618,90 +8837,105 @@ window.SPRACHEN["fr-de"] = {
      "id": "k03_01",
      "fr": "Dix heures. Sous la pyramide, il y avait du monde, des valises, des enfants et un guide qui criait « Mona Lisa, par ici ! » en quatre langues.",
      "de": "Zehn Uhr. Unter der Pyramide waren Menschen, Koffer, Kinder und ein Führer, der „Mona Lisa, hier entlang!“ in vier Sprachen rief.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_01.mp3?v=cb597600"
     },
     {
      "id": "k03_02",
      "fr": "Julien a montré son billet. La machine a dit *bip*. Un bip normal. Il était presque déçu.",
      "de": "Julien zeigte seine Karte. Die Maschine machte *piep*. Ein normales Piep. Er war fast enttäuscht.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_02.mp3?v=adfbc938"
     },
     {
      "id": "k03_03",
      "fr": "L'aile Denon, premier étage. Salle 12 : des peintures italiennes. Salle 14 : des peintures italiennes. Entre les deux : un mur.",
      "de": "Flügel Denon, erster Stock. Saal 12: italienische Malerei. Saal 14: italienische Malerei. Dazwischen: eine Wand.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_03.mp3?v=43a7bd70"
     },
     {
      "id": "k03_04",
      "fr": "Julien a regardé le mur pendant cinq minutes. Un gardien a regardé Julien pendant cinq minutes. Puis le gardien est parti. **Ça fait longtemps** qu'il travaillait ici ; il avait vu des choses plus étranges.",
      "de": "Julien sah die Wand fünf Minuten lang an. Ein Wärter sah Julien fünf Minuten lang an. Dann ging der Wärter. Er arbeitete schon lange hier; er hatte seltsamere Dinge gesehen.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_04.mp3?v=212c61ca"
     },
     {
      "id": "k03_05",
      "fr": "Dans le mur, à hauteur de main, il y avait une petite plaque en laiton. Et dans la plaque, un trou de serrure.",
      "de": "In der Wand, auf Handhöhe, war ein kleines Messingschild. Und im Schild ein Schlüsselloch.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_05.mp3?v=74baf09e"
     },
     {
      "id": "k03_06",
      "fr": "Julien a sorti la clé. Il a hésité. Il **avait un peu peur**, maintenant. Pas de la porte. De lui-même : il allait vraiment le faire.",
      "de": "Julien holte den Schlüssel heraus. Er zögerte. Jetzt hatte er ein bisschen Angst. Nicht vor der Tür. Vor sich selbst: Er würde es wirklich tun.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_06.mp3?v=ec99f26f"
     },
     {
      "id": "k03_07",
      "fr": "La clé est entrée. Le mur s'est ouvert, sans bruit, comme une porte qui a l'habitude.",
      "de": "Der Schlüssel passte. Die Wand öffnete sich, lautlos, wie eine Tür, die das gewohnt ist.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_07.mp3?v=9734b46a"
     },
     {
      "id": "k03_08",
      "fr": "La salle 13 était petite, **sombre** et **paisible**. Pas de visiteurs. Pas de guide. Un seul tableau, au fond, éclairé par une lampe.",
      "de": "Saal 13 war klein, düster und friedlich. Keine Besucher. Kein Führer. Ein einziges Gemälde, hinten, von einer Lampe beleuchtet.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_08.mp3?v=3a9ed624"
     },
     {
      "id": "k03_09",
      "fr": "Sur le tableau, un chat gris dormait sur une pile de papiers. Des copies, aurait dit Julien. Le tableau datait de 1911.",
      "de": "Auf dem Gemälde schlief eine graue Katze auf einem Stapel Papiere. Arbeiten, hätte Julien gesagt. Das Bild stammte von 1911.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_09.mp3?v=9dce58c2"
     },
     {
      "id": "k03_10",
      "fr": "Julien s'est approché. Il a entendu quelque chose. Un bruit doux, régulier, impossible.",
      "de": "Julien trat näher. Er hörte etwas. Ein leises, gleichmäßiges, unmögliches Geräusch.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_10.mp3?v=09e23a18"
     },
     {
      "id": "k03_11",
      "fr": "Le tableau **ronronnait**.",
      "de": "Das Gemälde schnurrte.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_11.mp3?v=3dd37253"
     },
     {
      "id": "k03_12",
      "fr": "« **Ça, c'est inquiétant** », a dit Julien à voix haute. Puis, parce qu'il était nerveux, il a fait ce qu'il faisait toujours quand il était nerveux. Il a fredonné.",
      "de": "„Das ist beunruhigend“, sagte Julien laut. Dann tat er, weil er nervös war, was er immer tat, wenn er nervös war. Er summte.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_12.mp3?v=bd8d4fdb"
     },
     {
      "id": "k03_13",
      "fr": "Trois notes. « Ne me quitte pas ».",
      "de": "Drei Töne. „Ne me quitte pas“.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_13.mp3?v=77ba2a1d"
     },
     {
      "id": "k03_14",
      "fr": "Le ronronnement s'est arrêté.",
      "de": "Das Schnurren hörte auf.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_14.mp3?v=757fb777"
     },
     {
      "id": "k03_15",
      "fr": "À suivre.",
      "de": "Fortsetzung folgt.",
+     "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_15.mp3?v=777d016b"
     }
    ]

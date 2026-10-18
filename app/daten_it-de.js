@@ -561,23 +561,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "i compiti = Hausaufgaben und Klassenarbeiten (il compito in classe); la prima = 1. Klasse der scuola media (= 6. Klasse). correggere, Partizip corretto.",
    "audio": "audio/it-de/wendungen/tc_01.mp3?v=3c092bb7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Stasera correggo i compiti della prima.",
     "de": "Heute Abend korrigiere ich die Arbeiten der Sechsten.",
     "luecke": "correggo i compiti",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_01.mp3?v=f9aa45f1"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri ho corretto i compiti della prima.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_01_pc.mp3?v=dfb85184"
     },
     "fp": {
      "fr": "Domani correggerò i compiti della prima.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_01_fp.mp3?v=38f9f8ea"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_02",
@@ -589,23 +595,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „zerstört sein“ (distruggere); auch: essere a pezzi (in Stücken), essere cotto (gekocht). Weiblich: distrutta.",
    "audio": "audio/it-de/wendungen/tc_02.mp3?v=a928458a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dopo sei ore di lezione sono distrutto.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "distrutto",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_02.mp3?v=a45d69ae"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri sera ero distrutto.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_02_pc.mp3?v=b63cc1ce"
     },
     "fp": {
      "fr": "Domani sera sarò distrutto. Di nuovo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_02_fp.mp3?v=ba142014"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_03",
@@ -617,23 +629,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „wie ist es gegangen?“ – andare im passato prossimo mit essere: è andata (weiblich, weil „la cosa“). Antwort: è andata bene / male.",
    "audio": "audio/it-de/wendungen/tc_03.mp3?v=cad44ea5",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Allora, la lezione con la terza, com'è andata?",
     "de": "Und, die Stunde mit der Dritten, wie ist es gelaufen?",
     "luecke": "com'è andata",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_03.mp3?v=d3e108ea"
    },
    "zeit": {
     "pc": {
      "fr": "Com'è andata ieri?",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_03_pc.mp3?v=eb8d3d4b"
     },
     "fp": {
      "fr": "Vedrai come andrà.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_03_fp.mp3?v=65deb236"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_04",
@@ -645,23 +663,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "ohne Artikel = unterrichten; la lezione = die Unterrichtsstunde (nicht „Lektion“ im Buch – das wäre l'unità). fare lezione di + Fach.",
    "audio": "audio/it-de/wendungen/tc_04.mp3?v=0c143200",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Faccio lezione di inglese tutta la mattina.",
     "de": "Ich halte den ganzen Vormittag Englischunterricht.",
     "luecke": "Faccio lezione",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_04.mp3?v=e16dd575"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto lezione tutta la mattina.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_04_pc.mp3?v=7bfd3f60"
     },
     "fp": {
      "fr": "Farò lezione tutta la mattina.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_04_fp.mp3?v=590bb3e9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_05",
@@ -673,14 +697,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "l'intervallo = die große Pause (auch la ricreazione); ci vediamo = wir sehen uns (reflexiv, reziprok). a + l' = all'.",
    "audio": "audio/it-de/wendungen/tc_05.mp3?v=3c2139e1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ci vediamo in sala professori all'intervallo?",
     "de": "Sehen wir uns in der Pause im Lehrerzimmer?",
     "luecke": "intervallo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_05.mp3?v=66360348"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_06",
@@ -692,23 +720,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „die Stunde nicht sehen“ – die Stunde kommt einem nie; non vedere l'ora di + Infinitiv / che + congiuntivo.",
    "audio": "audio/it-de/wendungen/tc_06.mp3?v=a83556d8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Non vedo l'ora di essere in vacanza.",
     "de": "Ich kann es kaum erwarten, Ferien zu haben.",
     "luecke": "Non vedo l'ora di",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_06.mp3?v=cec5cd10"
    },
    "zeit": {
     "pc": {
      "fr": "Non vedevo l'ora di essere in vacanza.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_06_pc.mp3?v=ffc4b344"
     },
     "fp": {
      "fr": "Non vedrò l'ora di tornare. Forse.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_06_fp.mp3?v=5f8e22e6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_07",
@@ -720,23 +754,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „nicht mehr davon können“ – ne = davon; non ne posso più di + Nomen. Auch: essere stufo di.",
    "audio": "audio/it-de/wendungen/tc_07.mp3?v=6182d1d2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Non ne posso più delle riunioni che non finiscono mai.",
     "de": "Ich habe die Nase voll von Besprechungen, die nie enden.",
     "luecke": "Non ne posso più",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_07.mp3?v=4be2482d"
    },
    "zeit": {
     "pc": {
      "fr": "Non ne potevo più.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_07_pc.mp3?v=558c8793"
     },
     "fp": {
      "fr": "Non ne potrò più, lo so già.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_07_fp.mp3?v=a9884723"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_08",
@@ -748,23 +788,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „Mühe machen zu“ (la fatica = Mühe, Anstrengung); fare fatica a + Infinitiv. far stare zitto = zum Schweigen bringen (zitto = still).",
    "audio": "audio/it-de/wendungen/tc_08.mp3?v=bc8d6133",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Faccio fatica a farli stare zitti il venerdì pomeriggio.",
     "de": "Ich kriege sie freitagnachmittags kaum ruhig.",
     "luecke": "Faccio fatica a",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_08.mp3?v=3b141471"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto fatica a farli stare zitti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_08_pc.mp3?v=e9af8683"
     },
     "fp": {
      "fr": "Farò fatica a farli stare zitti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_08_fp.mp3?v=566f355d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_09",
@@ -776,14 +822,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „wie viel Zeit!“ – Kurzform von quanto tempo che non ci vediamo; auch: da quanto tempo!",
    "audio": "audio/it-de/wendungen/tc_09.mp3?v=f953b1fe",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ciao Giovanni! Quanto tempo!",
     "de": "Hallo Giovanni! Lange nicht gesehen!",
     "luecke": "Quanto tempo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_09.mp3?v=6c87c5e3"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_10",
@@ -795,14 +845,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "quindi = also, folglich (neutral, überall einsetzbar); umgangssprachlicher: allora. prendo io = ich übernehme (io nachgestellt = Betonung).",
    "audio": "audio/it-de/wendungen/tc_10.mp3?v=03eedf0c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il prof di ginnastica è malato, quindi prendo io la sua classe.",
     "de": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "luecke": "quindi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_10.mp3?v=5e824bc4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_11",
@@ -814,14 +868,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "leitet eine Korrektur ein; mi piacciono = sie gefallen mir (piacere wie gustar: Subjekt = die Schüler, daher Plural). la terza media = 8. Klasse.",
    "audio": "audio/it-de/wendungen/tc_11.mp3?v=d0015d5c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In realtà i miei alunni di terza mi piacciono.",
     "de": "Eigentlich mag ich meine Schüler der Dritten.",
     "luecke": "In realtà",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_11.mp3?v=661b72c0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_12",
@@ -833,14 +891,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "comunque = wie auch immer, jedenfalls, trotzdem – Allzweckwort, auch als Gesprächsstarter („Comunque…“). faticoso = anstrengend (la fatica).",
    "audio": "audio/it-de/wendungen/tc_12.mp3?v=07650daf",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "È faticoso, ma comunque adoro questo lavoro.",
     "de": "Es ist anstrengend, aber trotzdem liebe ich diesen Beruf.",
     "luecke": "comunque",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_12.mp3?v=020cfc9b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_13",
@@ -852,23 +914,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „die Mühe wert sein“ (la pena = Mühe, Strafe); ne = es (davon): ne vale la pena. Passato prossimo mit essere: è valsa.",
    "audio": "audio/it-de/wendungen/tc_13.mp3?v=caabbae8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Preparare una bella lezione richiede tempo, ma ne vale la pena.",
     "de": "Eine gute Stunde vorzubereiten braucht Zeit, aber es lohnt sich.",
     "luecke": "ne vale la pena",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_13.mp3?v=c3183554"
    },
    "zeit": {
     "pc": {
      "fr": "Ne è valsa la pena.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_13_pc.mp3?v=a7e8d792"
     },
     "fp": {
      "fr": "Ne varrà la pena.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_13_fp.mp3?v=9f01baa7"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_14",
@@ -880,23 +948,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "italienische Lebensphilosophie: arrangiarsi = sich irgendwie durchschlagen, improvisieren; l'arte di arrangiarsi. da soli = allein, von selbst.",
    "audio": "audio/it-de/wendungen/tc_14.mp3?v=6a9c330b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Gli alunni si arrangiano bene da soli.",
     "de": "Die Schüler kommen allein gut zurecht.",
     "luecke": "si arrangiano",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_14.mp3?v=ff9cfad7"
    },
    "zeit": {
     "pc": {
      "fr": "Si sono arrangiati bene da soli.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_14_pc.mp3?v=9646300f"
     },
     "fp": {
      "fr": "Si arrangeranno bene da soli.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_14_fp.mp3?v=4561abfa"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_15",
@@ -908,23 +982,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „das Maximum geben“; dare, Partizip dato. quelli di prima = die aus der Ersten (quelli = diejenigen).",
    "audio": "audio/it-de/wendungen/tc_15.mp3?v=40297f05",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Oggi quelli di prima hanno dato il massimo.",
     "de": "Heute waren die Sechstklässler voll dabei.",
     "luecke": "hanno dato il massimo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_15.mp3?v=4ecbe5d4"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri hanno dato il massimo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_15_pc.mp3?v=f76cf77b"
     },
     "fp": {
      "fr": "Domani daranno il massimo. Speriamo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_15_fp.mp3?v=0f586e73"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_16",
@@ -936,23 +1016,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "consegnare = abgeben (Schüler), riconsegnare = zurückgeben (Lehrer); ri- = wieder, zurück. lunedì ohne Präposition = am Montag.",
    "audio": "audio/it-de/wendungen/tc_16.mp3?v=2df8fadf",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Riconsegno i compiti lunedì.",
     "de": "Ich gebe die Arbeiten am Montag zurück.",
     "luecke": "Riconsegno i compiti",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_16.mp3?v=bd222d76"
    },
    "zeit": {
     "pc": {
      "fr": "Ho riconsegnato i compiti lunedì.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_16_pc.mp3?v=94917aa0"
     },
     "fp": {
      "fr": "Riconsegnerò i compiti lunedì.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_16_fp.mp3?v=621a9c3d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_17",
@@ -964,14 +1050,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la riunione = Sitzung, Konferenz (riunire = zusammenbringen); il collegio docenti = Gesamtkonferenz. vieni? = Frage nur durch Tonfall.",
    "audio": "audio/it-de/wendungen/tc_17.mp3?v=516cbc79",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Abbiamo una riunione alle sedici, vieni?",
     "de": "Wir haben um sechzehn Uhr eine Besprechung, kommst du?",
     "luecke": "riunione",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_17.mp3?v=fc0a1c57"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_18",
@@ -983,14 +1073,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „es macht nichts“ – wie im Deutschen, ohne non … non: niente genügt nach dem Verb mit non davor. Auch: non importa, figurati.",
    "audio": "audio/it-de/wendungen/tc_18.mp3?v=9d6dbbdc",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hai dimenticato il mio libro? Non fa niente.",
     "de": "Du hast mein Buch vergessen? Das macht nichts.",
     "luecke": "Non fa niente",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_18.mp3?v=79394a05"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_19",
@@ -1002,14 +1096,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "Imperativ + Pronomen angehängt: prendi + ti = prenditi (nimm dir); con calma = in Ruhe. Gegenteil: sbrigati = beeil dich.",
    "audio": "audio/it-de/wendungen/tc_19.mp3?v=4c6b98de",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Prenditi il tuo tempo, abbiamo tutta la sera.",
     "de": "Lass dir Zeit, wir haben den ganzen Abend.",
     "luecke": "Prenditi il tuo tempo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_19.mp3?v=a3637470"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_20",
@@ -1021,14 +1119,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „Saal der Professoren“ – in Italien heißen alle Lehrer ab der scuola media professore/professoressa (kurz prof). c'è = es gibt.",
    "audio": "audio/it-de/wendungen/tc_20.mp3?v=f57dc9b4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In sala professori c'è sempre qualcuno che corregge. E qualcuno che dorme.",
     "de": "Im Lehrerzimmer korrigiert immer jemand. Und jemand schläft.",
     "luecke": "sala professori",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_20.mp3?v=5624b097"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "tc_21",
@@ -1040,23 +1142,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „eine Hand geben“; dare una mano a qualcuno. le fotocopie = Kopien (fare le fotocopie). odiare = hassen.",
    "audio": "audio/it-de/wendungen/tc_21.mp3?v=ecdce9b7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mi dai una mano con le fotocopie? La macchina mi odia.",
     "de": "Hilfst du mir mit den Kopien? Die Maschine hasst mich.",
     "luecke": "dai una mano",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_21.mp3?v=6950bc22"
    },
    "zeit": {
     "pc": {
      "fr": "Mi hai dato una mano. Grazie.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_21_pc.mp3?v=34332eec"
     },
     "fp": {
      "fr": "Mi darai una mano? Vero?",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_21_fp.mp3?v=55ab6ab6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_22",
@@ -1068,23 +1176,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "l'appello = Namensaufruf (appellare = anrufen); presente! = hier! (Antwort beim Aufruf); assente = abwesend. Rossi und Bianchi = die häufigsten italienischen Nachnamen.",
    "audio": "audio/it-de/wendungen/tc_22.mp3?v=b145ebd6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Faccio l'appello. « Rossi? » – « Presente! » – « Bianchi? » – Silenzio. Bianchi dorme.",
     "de": "Ich prüfe die Anwesenheit. „Rossi?“ – „Hier!“ – „Bianchi?“ – Stille. Bianchi schläft.",
     "luecke": "Faccio l'appello",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_22.mp3?v=6124fab4"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto l'appello.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_22_pc.mp3?v=d830ebb1"
     },
     "fp": {
      "fr": "Farò l'appello. Poi vedremo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_22_fp.mp3?v=a712d5cf"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_23",
@@ -1096,23 +1210,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "von il casino = Durcheinander, Chaos (umgangssprachlich, nicht vulgär – aber nicht in der Bäckerei); che casino! = was für ein Chaos! incasinato = überlastet, chaotisch.",
    "audio": "audio/it-de/wendungen/tc_23.mp3?v=45e9b9c4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Con due classi insieme mi incasino sempre con i nomi.",
     "de": "Mit zwei Klassen zusammen komme ich immer mit den Namen durcheinander.",
     "luecke": "mi incasino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_23.mp3?v=c781cee8"
    },
    "zeit": {
     "pc": {
      "fr": "Mi sono incasinato con i nomi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_23_pc.mp3?v=5e48f287"
     },
     "fp": {
      "fr": "Mi incasinerò con i nomi. Sicuro.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/tc_23_fp.mp3?v=82768451"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "tc_24",
@@ -1124,14 +1244,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "potrebbe = Konditional von potere, Lei-Form (3. Person); indicare + mi angehängt = indicarmi. mi scusi = Entschuldigung (Lei; unter Freunden: scusa).",
    "audio": "audio/it-de/wendungen/tc_24.mp3?v=2857f803",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mi scusi, potrebbe indicarmi la sala professori?",
     "de": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "luecke": "potrebbe indicarmi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/tc_24.mp3?v=be979cd3"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_01",
@@ -1143,23 +1267,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "toccare = berühren, auch gefühlsmäßig; Vorsicht: mi tocca + Infinitiv = ich muss (mi tocca correggere = ich muss korrigieren). Hier: mi tocca il cuore.",
    "audio": "audio/it-de/wendungen/se_01.mp3?v=cc09beb3",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Questa canzone mi tocca ogni volta che la sento.",
     "de": "Dieses Lied berührt mich jedes Mal, wenn ich es höre.",
     "luecke": "mi tocca",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_01.mp3?v=b5380250"
    },
    "zeit": {
     "pc": {
      "fr": "Questa canzone mi ha toccato.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_01_pc.mp3?v=b968cc82"
     },
     "fp": {
      "fr": "Questa canzone mi toccherà, lo so.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_01_fp.mp3?v=99dd8ccd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_02",
@@ -1171,23 +1301,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „unten an Moral sein“ (il morale = die Stimmung, Moral – männlich! la morale = die Moral als Ethik); auch: essere giù, essere a terra.",
    "audio": "audio/it-de/wendungen/se_02.mp3?v=500c39ad",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La domenica sera sono spesso giù di morale.",
     "de": "Sonntagabends bin ich oft niedergeschlagen.",
     "luecke": "giù di morale",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_02.mp3?v=3ad6796c"
    },
    "zeit": {
     "pc": {
      "fr": "Domenica ero giù di morale.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_02_pc.mp3?v=d4756cef"
     },
     "fp": {
      "fr": "Domenica sarò giù di morale, come sempre.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_02_fp.mp3?v=29c67752"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_03",
@@ -1199,14 +1335,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "cupo = düster, dumpf (Stimmung, Farbe, Klang); scuro = dunkel (Licht). Plural weiblich: cupe. mi piacciono = Plural, weil le storie.",
    "audio": "audio/it-de/wendungen/se_03.mp3?v=8f204d81",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mi piacciono le storie cupe, con un bosco e un segreto.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "cupe",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_03.mp3?v=282e5073"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_04",
@@ -1218,14 +1358,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la malinconia (mit i nach l, anders als im Deutschen); Betonung: malin-CO-nico. così bello = so schön.",
    "audio": "audio/it-de/wendungen/se_04.mp3?v=b86a3256",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Questo pezzo per pianoforte è malinconico, ma così bello.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "malinconico",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_04.mp3?v=0c99552a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_05",
@@ -1237,23 +1381,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "spezzare = zerbrechen, brechen (un pezzo = ein Stück); auch mi si stringe il cuore = mir zieht sich das Herz zusammen. vedere + Infinitiv.",
    "audio": "audio/it-de/wendungen/se_05.mp3?v=6b867c41",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Vedere un bambino piangere da solo mi spezza il cuore.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "mi spezza il cuore",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_05.mp3?v=6aeb0b40"
    },
    "zeit": {
     "pc": {
      "fr": "Mi ha spezzato il cuore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_05_pc.mp3?v=035f89d8"
     },
     "fp": {
      "fr": "Mi spezzerà il cuore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_05_fp.mp3?v=3a9296e9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_06",
@@ -1265,14 +1415,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "commosso = Partizip von commuovere (rühren); commovente = rührend. Nicht „aufgeregt“ – das wäre agitato oder emozionato (emozionato = aufgeregt und bewegt!).",
    "audio": "audio/it-de/wendungen/se_06.mp3?v=40f2ea16",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Alla fine del concerto ero commosso fino alle lacrime.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "commosso",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_06.mp3?v=aead2ba7"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_07",
@@ -1284,14 +1438,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "von inquietare = beunruhigen (quieto = still, ruhig); inquieto = unruhig, besorgt. Imperfetto era = Beschreibung.",
    "audio": "audio/it-de/wendungen/se_07.mp3?v=3085205b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La casa era silenziosa. Era inquietante.",
     "de": "Das Haus war still. Es war unheimlich.",
     "luecke": "inquietante",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_07.mp3?v=9a9d91c9"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_08",
@@ -1303,14 +1461,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "von rilassare = entspannen; rilassarsi = sich entspannen; rilassati! = entspann dich! le fusa = das Schnurren (immer Plural!).",
    "audio": "audio/it-de/wendungen/se_08.mp3?v=5b77f532",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le fusa del mio gatto sono rilassanti.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "rilassanti",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_08.mp3?v=3d426b2d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_09",
@@ -1322,23 +1484,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „die Tränen an den Augen haben“ – avere + Körperzustand ohne Possessiv (wie frz. avoir les larmes aux yeux). sentire = hören und fühlen.",
    "audio": "audio/it-de/wendungen/se_09.mp3?v=26c54eee",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quando sento quella voce, ho le lacrime agli occhi.",
     "de": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "luecke": "ho le lacrime agli occhi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_09.mp3?v=62884f81"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo le lacrime agli occhi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_09_pc.mp3?v=b33796b4"
     },
     "fp": {
      "fr": "Avrò le lacrime agli occhi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_09_fp.mp3?v=46cb59f2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_10",
@@ -1350,23 +1518,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „es lässt mir die Gänsehaut kommen“ (la pelle d'oca = Gänsehaut, wie im Deutschen; l'oca = Gans). fare venire = kommen lassen, auslösen.",
    "audio": "audio/it-de/wendungen/se_10.mp3?v=7bf75038",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il ritornello mi fa venire la pelle d'oca.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "mi fa venire la pelle d'oca",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_10.mp3?v=4d578660"
    },
    "zeit": {
     "pc": {
      "fr": "Il ritornello mi ha fatto venire la pelle d'oca.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_10_pc.mp3?v=dee568ca"
     },
     "fp": {
      "fr": "Il ritornello mi farà venire la pelle d'oca.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_10_fp.mp3?v=e7b4c51c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_11",
@@ -1378,23 +1552,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "avere paura di + Nomen/Infinitiv; di + il = del: paura del buio. non … ma = nicht … sondern. il buio = die Dunkelheit.",
    "audio": "audio/it-de/wendungen/se_11.mp3?v=9455e32f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Non ho paura del buio, ma del silenzio.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "ho paura",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_11.mp3?v=e7f6efea"
    },
    "zeit": {
     "pc": {
      "fr": "Non avevo paura del buio.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_11_pc.mp3?v=77a90271"
     },
     "fp": {
      "fr": "Non avrò paura del buio.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_11_fp.mp3?v=a6b1fa71"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_12",
@@ -1406,23 +1586,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "l'umore (männlich) = die Laune – nicht l'umorismo (Humor)! buon vor Vokal/Konsonant verkürzt (buono → buon). stamattina = questa mattina.",
    "audio": "audio/it-de/wendungen/se_12.mp3?v=d8404899",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Stamattina sono di buon umore: c'è il sole.",
     "de": "Heute Morgen bin ich gut gelaunt: Die Sonne ist da.",
     "luecke": "di buon umore",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_12.mp3?v=b7a925ad"
    },
    "zeit": {
     "pc": {
      "fr": "Stamattina ero di buon umore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_12_pc.mp3?v=2595e7a5"
     },
     "fp": {
      "fr": "Domani sarò di buon umore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_12_fp.mp3?v=6eadb706"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_13",
@@ -1434,14 +1620,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "non parlargli = verneinter Imperativ (non + Infinitiv!) mit angehängtem gli (ihm). cattivo = schlecht, böse; auch: di pessimo umore.",
    "audio": "audio/it-de/wendungen/se_13.mp3?v=d52e9ff2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Non parlargli, è di cattivo umore.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "di cattivo umore",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_13.mp3?v=2cbdd713"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_14",
@@ -1453,23 +1643,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "umgekehrt zum Deutschen: mancare a qualcuno – die Sache ist Subjekt: i gatti mi mancano. mi manchi = ich vermisse dich. Passato prossimo mit essere.",
    "audio": "audio/it-de/wendungen/se_14.mp3?v=a5320df2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "I miei gatti mi mancano quando sono in viaggio.",
     "de": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
     "luecke": "mi mancano",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_14.mp3?v=64528650"
    },
    "zeit": {
     "pc": {
      "fr": "I miei gatti mi sono mancati.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_14_pc.mp3?v=bff9af42"
     },
     "fp": {
      "fr": "I miei gatti mi mancheranno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_14_fp.mp3?v=40ef9c1e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_15",
@@ -1481,23 +1677,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „ein Gewicht auf dem Herzen haben“; auch avere il cuore pesante. la giornata = der Tag als Verlauf (wie frz. journée).",
    "audio": "audio/it-de/wendungen/se_15.mp3?v=51200e06",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dopo questa giornata ho un peso sul cuore.",
     "de": "Nach diesem Tag ist mir schwer ums Herz.",
     "luecke": "ho un peso sul cuore",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_15.mp3?v=77db6925"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo un peso sul cuore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_15_pc.mp3?v=02e188eb"
     },
     "fp": {
      "fr": "Avrò un peso sul cuore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_15_fp.mp3?v=9829c47e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_16",
@@ -1509,14 +1711,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "von toccare = berühren; commovente = rührend, struggente = herzzerreißend. il finale = das Ende (Film, Spiel) – la finale = das Finale (Sport).",
    "audio": "audio/it-de/wendungen/se_16.mp3?v=93032abe",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il finale del film è toccante.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "toccante",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_16.mp3?v=189bc791"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_17",
@@ -1528,23 +1734,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "sentirsi + Adverb/Adjektiv: mi sento bene, male, stanco. Ohne si: sentire = hören, fühlen, riechen (sento il caffè).",
    "audio": "audio/it-de/wendungen/se_17.mp3?v=1375730f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dopo il kung fu mi sento bene, leggero.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "mi sento bene",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_17.mp3?v=bb9f8ba4"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo il kung fu mi sono sentito bene.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_17_pc.mp3?v=081dec6a"
     },
     "fp": {
      "fr": "Dopo il kung fu mi sentirò bene.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_17_fp.mp3?v=34b145c5"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_18",
@@ -1556,23 +1768,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il magone = der Kloß im Hals, die Beklemmung (norditalienisch, aus dem Lombardischen: „Magen“!); avere il magone = bedrückt sein. è partita = partire mit essere.",
    "audio": "audio/it-de/wendungen/se_18.mp3?v=cecd3e23",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "È partita, e ho il magone.",
     "de": "Sie ist gegangen, und ich habe einen Kloß im Hals.",
     "luecke": "ho il magone",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_18.mp3?v=66cc6a2c"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo il magone.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_18_pc.mp3?v=92de9360"
     },
     "fp": {
      "fr": "Avrò il magone.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_18_fp.mp3?v=155a6036"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_19",
@@ -1584,23 +1802,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "rendere + Adjektiv = zu etwas machen: mi rende triste, felice, nervoso. Nie fare: „mi fa triste“ ist falsch. Partizip reso.",
    "audio": "audio/it-de/wendungen/se_19.mp3?v=dd8c7923",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La pioggia su Bologna mi rende un po' triste.",
     "de": "Der Regen über Bologna macht mich ein bisschen traurig.",
     "luecke": "mi rende",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_19.mp3?v=6d232db3"
    },
    "zeit": {
     "pc": {
      "fr": "La pioggia mi ha reso un po' triste.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_19_pc.mp3?v=40372ec5"
     },
     "fp": {
      "fr": "La pioggia mi renderà un po' triste.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_19_fp.mp3?v=b52a9a1f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_20",
@@ -1612,14 +1836,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "chiaro (hell) + scuro (dunkel) – das Wort kommt aus dem Italienischen und ist in allen Sprachen gleich. il quadro = das Gemälde. Caravaggio = der Meister des chiaroscuro.",
    "audio": "audio/it-de/wendungen/se_20.mp3?v=99ee9493",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Adoro il chiaroscuro nei quadri di Caravaggio.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden Caravaggios.",
     "luecke": "chiaroscuro",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_20.mp3?v=8289ba1c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_21",
@@ -1631,14 +1859,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "tranquillo = ruhig (Ort, Mensch); tranquillo! = keine Sorge, ganz ruhig (sehr häufig). il cortile = der Innenhof, auch der Schulhof.",
    "audio": "audio/it-de/wendungen/se_21.mp3?v=1071e944",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Di sera il cortile è tranquillo.",
     "de": "Am Abend ist der Hof ruhig.",
     "luecke": "tranquillo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_21.mp3?v=fa536dff"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_22",
@@ -1650,14 +1882,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "von l'angoscia = Beklemmung, Angst; angosciato = beklommen. Vorsicht: sci vor a = [ʃa]: angosciante [angoʃante].",
    "audio": "audio/it-de/wendungen/se_22.mp3?v=b66e4543",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il corridoio vuoto del museo era angosciante.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angosciante",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_22.mp3?v=74a15a3b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "se_23",
@@ -1669,23 +1905,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „das Herz in Stücken haben“; a pezzi = in Stücken (auch: essere a pezzi = fix und fertig). da quando = seit (Konjunktion); è morto = morire mit essere.",
    "audio": "audio/it-de/wendungen/se_23.mp3?v=d58e6878",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ha il cuore a pezzi da quando è morto il suo gatto.",
     "de": "Er ist untröstlich, seit seine Katze gestorben ist.",
     "luecke": "Ha il cuore a pezzi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_23.mp3?v=db8df0d3"
    },
    "zeit": {
     "pc": {
      "fr": "Aveva il cuore a pezzi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_23_pc.mp3?v=56cce2d5"
     },
     "fp": {
      "fr": "Avrà il cuore a pezzi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/se_23_fp.mp3?v=c95c0fb4"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "se_24",
@@ -1697,14 +1939,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „es missfällt mir“ (dispiacere, Gegenteil von piacere) – die normale Entschuldigung; mi dispiace molto = es tut mir sehr leid. disturbarla = disturbare + La (Sie, Lei-Form, angehängt).",
    "audio": "audio/it-de/wendungen/se_24.mp3?v=39b46d7f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mi dispiace, signora, non volevo disturbarla.",
     "de": "Es tut mir leid, Signora, ich wollte Sie nicht stören.",
     "luecke": "Mi dispiace",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/se_24.mp3?v=0500edec"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_01",
@@ -1716,23 +1962,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "le fusa = das Schnurren, nur im Plural (von fuso = Spindel: das Surren der Spindel); fare le fusa = schnurren. appena = sobald.",
    "audio": "audio/it-de/wendungen/ga_01.mp3?v=d5fa70ae",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il mio gatto fa le fusa appena mi siedo.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "fa le fusa",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_01.mp3?v=1beea88d"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto le fusa tutta la sera.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_01_pc.mp3?v=18f466ff"
     },
     "fp": {
      "fr": "Farà le fusa appena mi siedo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_01_fp.mp3?v=86b2c767"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_02",
@@ -1744,23 +1996,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "le coccole = Streicheleinheiten, Schmusen (coccolare = verhätscheln); fare le coccole a qualcuno; coccolone = Schmusekatze. farmi = fare + mi.",
    "audio": "audio/it-de/wendungen/ga_02.mp3?v=9af44a1b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La sera viene a farmi le coccole sul divano.",
     "de": "Abends kommt sie, um mit mir auf dem Sofa zu schmusen.",
     "luecke": "farmi le coccole",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_02.mp3?v=63c2746c"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri sera mi ha fatto le coccole.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_02_pc.mp3?v=0c5ba6a4"
     },
     "fp": {
      "fr": "Stasera verrà a farmi le coccole.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_02_fp.mp3?v=a5ddfe21"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_03",
@@ -1772,23 +2030,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "graffiare = kratzen mit Krallen (il graffio = der Kratzer); grattare = kratzen (Juckreiz), grattugiare = reiben (Käse). attento! = Vorsicht (attenta an eine Frau).",
    "audio": "audio/it-de/wendungen/ga_03.mp3?v=031bacee",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Attento, graffia se lo accarezzi troppo a lungo.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "graffia",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_03.mp3?v=28b9cbb7"
    },
    "zeit": {
     "pc": {
      "fr": "Mi ha graffiato.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_03_pc.mp3?v=88910970"
     },
     "fp": {
      "fr": "Ti graffierà, vedrai.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_03_fp.mp3?v=ca2e031e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_04",
@@ -1800,23 +2064,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "lavarsi = sich waschen – bei Katzen: sich putzen (auch: farsi la toilette, pulirsi). il pasto = die Mahlzeit (nicht la pasta!).",
    "audio": "audio/it-de/wendungen/ga_04.mp3?v=8ca0f5f3",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dopo il pasto si lava per dieci minuti.",
     "de": "Nach dem Fressen putzt er sich zehn Minuten lang.",
     "luecke": "si lava",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_04.mp3?v=1dbd40c6"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo il pasto si è lavato.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_04_pc.mp3?v=79966297"
     },
     "fp": {
      "fr": "Dopo il pasto si laverà.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_04_fp.mp3?v=74b6ec2e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_05",
@@ -1828,23 +2098,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "miao = miau; miagolare, Betonung mia-GO-la. alle sei di mattina = um sechs Uhr morgens (di mattina / di sera).",
    "audio": "audio/it-de/wendungen/ga_05.mp3?v=3f4683e7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Miagola davanti alla porta della cucina alle sei di mattina.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "Miagola",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_05.mp3?v=1256ebca"
    },
    "zeit": {
     "pc": {
      "fr": "Ha miagolato tutta la notte.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_05_pc.mp3?v=9e5f78f4"
     },
     "fp": {
      "fr": "Miagolerà alle sei, come sempre.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_05_fp.mp3?v=22026c39"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_06",
@@ -1856,23 +2132,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "avere fame/sete/freddo/sonno – immer mit avere (haben). secondo lui = ihm zufolge, seiner Meinung nach.",
    "audio": "audio/it-de/wendungen/ga_06.mp3?v=6e0a828a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Secondo lui, ha sempre fame.",
     "de": "Ihm zufolge hat er immer Hunger.",
     "luecke": "ha sempre fame",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_06.mp3?v=a949bee6"
    },
    "zeit": {
     "pc": {
      "fr": "Aveva fame, dice lui.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_06_pc.mp3?v=272f2b84"
     },
     "fp": {
      "fr": "Avrà fame tra cinque minuti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_06_fp.mp3?v=17d33df8"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_07",
@@ -1884,23 +2166,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "accarezzare = streicheln (la carezza = die Streicheleinheit); Vorsicht beim Schreiben: doppeltes z. la gatta = die Katze (weiblich), il gatto = Kater/Katze allgemein.",
    "audio": "audio/it-de/wendungen/ga_07.mp3?v=c3a1ef33",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Accarezzo la mia gatta dietro le orecchie, lo adora.",
     "de": "Ich streichle meine Katze hinter den Ohren, sie liebt das.",
     "luecke": "Accarezzo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_07.mp3?v=720e3445"
    },
    "zeit": {
     "pc": {
      "fr": "L'ho accarezzata dietro le orecchie.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_07_pc.mp3?v=8b682e44"
     },
     "fp": {
      "fr": "La accarezzerò dietro le orecchie.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_07_fp.mp3?v=29507521"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_08",
@@ -1912,23 +2200,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „sich die Nägel machen“ (l'unghia = Nagel, Kralle; bei Frauen = Maniküre!); il tiragraffi = Kratzbaum (tira + graffi). la poltrona = Sessel.",
    "audio": "audio/it-de/wendungen/ga_08.mp3?v=5c0a6ffd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Si fa le unghie sulla poltrona, mai sul tiragraffi.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "Si fa le unghie",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_08.mp3?v=36c2a08f"
    },
    "zeit": {
     "pc": {
      "fr": "Si è fatto le unghie sulla poltrona.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_08_pc.mp3?v=95b9b7ed"
     },
     "fp": {
      "fr": "Si farà le unghie sulla poltrona.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_08_fp.mp3?v=465c1b1e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_09",
@@ -1940,14 +2234,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il felino = Katzentier (lat. felis); i felini = Raubkatzen. ha deciso = decidere, Partizip deciso.",
    "audio": "audio/it-de/wendungen/ga_09.mp3?v=d16e80ae",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un gatto è un piccolo felino che ha deciso di vivere con noi.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "felino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_09.mp3?v=ac7e6df1"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_10",
@@ -1959,23 +2257,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il pisolino = Nickerchen (pisolare = dösen); -ino = klein; auch: schiacciare un pisolino (ein Nickerchen „drücken“). che vita = was für ein Leben.",
    "audio": "audio/it-de/wendungen/ga_10.mp3?v=de89ff7f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il mio gatto fa un pisolino sedici ore al giorno. Che vita.",
     "de": "Meine Katze macht sechzehn Stunden am Tag ein Nickerchen. Was für ein Leben.",
     "luecke": "fa un pisolino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_10.mp3?v=5fef3a52"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto un pisolino di sedici ore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_10_pc.mp3?v=cab743a5"
     },
     "fp": {
      "fr": "Farà un pisolino. Lungo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_10_fp.mp3?v=8116db47"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_11",
@@ -1987,23 +2291,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "strusciare = reiben, scheuern; strusciarsi contro = sich reiben an. tornare a casa = nach Hause kommen. sci vor a = [ʃa].",
    "audio": "audio/it-de/wendungen/ga_11.mp3?v=1192a651",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Si struscia contro le mie gambe quando torno a casa.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "Si struscia contro",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_11.mp3?v=ac9471cf"
    },
    "zeit": {
     "pc": {
      "fr": "Si è strusciata contro le mie gambe.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_11_pc.mp3?v=e7358050"
     },
     "fp": {
      "fr": "Si struscerà contro le mie gambe.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_11_fp.mp3?v=2d4d5c18"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_12",
@@ -2015,14 +2325,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "le crocchette = Trockenfutter (auch: Kroketten!); preferire A a B = A lieber mögen als B; preferire mit -isc-: preferisco, preferisce. le sue = seine.",
    "audio": "audio/it-de/wendungen/ga_12.mp3?v=6c5854c0",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Preferisce le crocchette del vicino alle sue.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seines.",
     "luecke": "crocchette",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_12.mp3?v=148d19f5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_13",
@@ -2034,14 +2348,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "l'umido = das Nassfutter (umido = feucht; il cibo umido); lo sa = er weiß es (lo = es). a mezzogiorno = mittags.",
    "audio": "audio/it-de/wendungen/ga_13.mp3?v=c95c6841",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "A mezzogiorno c'è l'umido, e lui lo sa.",
     "de": "Mittags gibt es Nassfutter, und er weiß es.",
     "luecke": "umido",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_13.mp3?v=70484cae"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_14",
@@ -2053,14 +2371,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "lo sguardo = der Blick (guardare = anschauen); uno sguardo vor s + Konsonant (uno sguardo, uno studente). essere in ritardo = zu spät sein.",
    "audio": "audio/it-de/wendungen/ga_14.mp3?v=d226014d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ha uno sguardo che dice: « Sei in ritardo. »",
     "de": "Sie hat einen Blick, der sagt: „Du bist zu spät.“",
     "luecke": "uno sguardo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_14.mp3?v=21f424eb"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_15",
@@ -2072,23 +2394,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "saltare = springen; su + la = sulla. la scrivania = Schreibtisch (scrivere = schreiben); mentre = während (zeitlich). Passato prossimo hier mit essere (Bewegung).",
    "audio": "audio/it-de/wendungen/ga_15.mp3?v=64195b8a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Salta sulla scrivania mentre correggo i compiti.",
     "de": "Er springt auf den Schreibtisch, während ich Arbeiten korrigiere.",
     "luecke": "Salta sulla scrivania",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_15.mp3?v=f8a3a4e1"
    },
    "zeit": {
     "pc": {
      "fr": "È saltato sulla scrivania.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_15_pc.mp3?v=cba43f6c"
     },
     "fp": {
      "fr": "Salterà sulla scrivania.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_15_fp.mp3?v=8f5f2ae6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_16",
@@ -2100,23 +2428,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "nascondere = verstecken, Partizip nascosto; nascondino = Versteckspiel. l'aspirapolvere = Staubsauger (aspira + polvere = saugt Staub).",
    "audio": "audio/it-de/wendungen/ga_16.mp3?v=d1210b44",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quando esce l'aspirapolvere, si nasconde sotto il letto.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unter dem Bett.",
     "luecke": "si nasconde",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_16.mp3?v=440f2f23"
    },
    "zeit": {
     "pc": {
      "fr": "Si è nascosta sotto il letto.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_16_pc.mp3?v=6fc1e82c"
     },
     "fp": {
      "fr": "Si nasconderà sotto il letto.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_16_fp.mp3?v=94aa003a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_17",
@@ -2128,23 +2462,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fare compagnia a qualcuno = jemandem Gesellschaft leisten; la compagnia = Gesellschaft (auch: Firma, Theatertruppe). preparare le lezioni = Unterricht vorbereiten.",
    "audio": "audio/it-de/wendungen/ga_17.mp3?v=920cb3ad",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "I miei gatti mi fanno compagnia quando preparo le lezioni.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich den Unterricht vorbereite.",
     "luecke": "mi fanno compagnia",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_17.mp3?v=d681d97c"
    },
    "zeit": {
     "pc": {
      "fr": "Mi hanno fatto compagnia.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_17_pc.mp3?v=efaec57f"
     },
     "fp": {
      "fr": "Mi faranno compagnia.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_17_fp.mp3?v=bd80c08c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_18",
@@ -2156,14 +2496,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "randagio = streunend (anche: un cane randagio); un gatto di razza = Rassekatze; auch: un gatto europeo (Hauskatze ohne Stammbaum). ed vor Vokal = e.",
    "audio": "audio/it-de/wendungen/ga_18.mp3?v=5757db3b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Non è un gatto di razza, è un gatto randagio, ed è perfetto.",
     "de": "Er ist keine Rassekatze, er ist eine Straßenkatze, und er ist perfekt.",
     "luecke": "gatto randagio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_18.mp3?v=9d1d3b8b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_19",
@@ -2175,23 +2519,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „Ärger zusammenstellen“ (il guaio = Ärger, Schlamassel; guai a te! = wehe dir!); auch: combinare un casino, fare danni. non ci sono = ich bin nicht da (ci = da).",
    "audio": "audio/it-de/wendungen/ga_19.mp3?v=3705b0c1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quando non ci sono, combinano guai.",
     "de": "Wenn ich nicht da bin, stellen sie Unsinn an.",
     "luecke": "combinano guai",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_19.mp3?v=5ad3798a"
    },
    "zeit": {
     "pc": {
      "fr": "Hanno combinato guai.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_19_pc.mp3?v=b6f23a24"
     },
     "fp": {
      "fr": "Combineranno guai, sicuro.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_19_fp.mp3?v=226e35af"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_20",
@@ -2203,14 +2553,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "dal veterinario = beim Tierarzt (da + il = dal; da + Person = bei); diventare = werden. Betonung: veteri-NA-rio.",
    "audio": "audio/it-de/wendungen/ga_20.mp3?v=b77db539",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dal veterinario, il mio gatto diventa molto, molto calmo.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "veterinario",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_20.mp3?v=21e05123"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_21",
@@ -2222,14 +2576,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "dare fastidio a qualcuno = jemanden stören (il fastidio = Belästigung); gli = ihm, le = ihr. dà mit Akzent (von dare), da ohne = von. stonato = schief (Gesang).",
    "audio": "audio/it-de/wendungen/ga_21.mp3?v=3ac62c49",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Canto stonato, ma non gli dà fastidio. Credo.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich.",
     "luecke": "non gli dà fastidio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_21.mp3?v=fed308c5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_22",
@@ -2241,14 +2599,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "indipendente – mit i nach ind (anders als im Deutschen); l'indipendenza. tornare = zurückkommen.",
    "audio": "audio/it-de/wendungen/ga_22.mp3?v=4576819f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un gatto è indipendente. Torna quando ha fame.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "indipendente",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_22.mp3?v=e037639e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ga_23",
@@ -2260,23 +2622,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "di + Gefühl = vor: piangere di gioia, morire di fame. con gli occhi chiusi = mit geschlossenen Augen (gli vor Vokal im Plural).",
    "audio": "audio/it-de/wendungen/ga_23.mp3?v=70198274",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Al sole fa le fusa di piacere, con gli occhi chiusi.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "fa le fusa di piacere",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_23.mp3?v=74a812af"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto le fusa di piacere.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_23_pc.mp3?v=3af61361"
     },
     "fp": {
      "fr": "Farà le fusa di piacere.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ga_23_fp.mp3?v=8a7c4062"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ga_24",
@@ -2288,14 +2656,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "Lei-Form = 3. Person: ha = Sie haben; Lei nachgestellt zur Klarheit. ce n'è uno = es gibt eine davon (ne = davon); il tetto = das Dach.",
    "audio": "audio/it-de/wendungen/ga_24.mp3?v=0e33053b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mi scusi, signora, ha un gatto, Lei? Ce n'è uno sul suo tetto.",
     "de": "Entschuldigung, Signora, haben Sie eine Katze? Da ist eine auf Ihrem Dach.",
     "luecke": "ha un gatto, Lei",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ga_24.mp3?v=b376ee29"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_01",
@@ -2307,23 +2679,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "intonato = richtig gestimmt, sauber (il tono = Ton); Gegenteil: stonato. mio fratello ohne Artikel (Familie im Singular!), aber il mio gatto.",
    "audio": "audio/it-de/wendungen/mu_01.mp3?v=146580f5",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mio fratello canta intonato, io canto con il cuore.",
     "de": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
     "luecke": "canta intonato",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_01.mp3?v=5b2f93fc"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri ha cantato intonato.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_01_pc.mp3?v=8c5508fa"
     },
     "fp": {
      "fr": "Domani canterà intonato. Lui.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_01_fp.mp3?v=d90067f7"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_02",
@@ -2335,23 +2713,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "stonare = falsch singen, aus dem Ton fallen (auch: nicht dazupassen – questo colore stona); una stonatura = ein Missklang. forte = laut und stark.",
    "audio": "audio/it-de/wendungen/mu_02.mp3?v=9fa483f6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Stono, ma forte. Compensa.",
     "de": "Ich singe schief, aber laut. Das gleicht es aus.",
     "luecke": "Stono",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_02.mp3?v=cdddd9c8"
    },
    "zeit": {
     "pc": {
      "fr": "Ho stonato tutta la sera.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_02_pc.mp3?v=6b6eaa8e"
     },
     "fp": {
      "fr": "Stonerò, ma con passione.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_02_fp.mp3?v=ab95777f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_03",
@@ -2363,14 +2747,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il ritornello = Refrain (ritornare = zurückkehren – er kehrt immer wieder); la strofa = Strophe. conoscere = kennen, sapere = wissen/können.",
    "audio": "audio/it-de/wendungen/mu_03.mp3?v=5b6052db",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Non conosco le parole, ma il ritornello sì.",
     "de": "Ich kenne den Text nicht, aber den Refrain.",
     "luecke": "ritornello",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_03.mp3?v=c57326de"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_04",
@@ -2382,14 +2770,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il testo = Text (auch Schulbuch: il libro di testo); le parole di una canzone geht auch. la canzone = das Lied (Betonung can-ZO-ne).",
    "audio": "audio/it-de/wendungen/mu_04.mp3?v=442e30c9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il testo di questa canzone mi fa venire la pelle d'oca.",
     "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
     "luecke": "testo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_04.mp3?v=71fe0c7a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_05",
@@ -2401,14 +2793,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "suonare = klingen, läuten, und ein Instrument spielen; suona bene/male. in italiano = auf Italienisch (ohne Artikel).",
    "audio": "audio/it-de/wendungen/mu_05.mp3?v=26f79f71",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In italiano questa frase suona bene. In tedesco, meno.",
     "de": "Auf Italienisch klingt dieser Satz gut. Auf Deutsch weniger.",
     "luecke": "suona bene",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_05.mp3?v=5600bba8"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_06",
@@ -2420,14 +2816,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „Ohr haben“ (ohne Artikel) = musikalisches Gehör; l'orecchio, Plural le orecchie (weiblich!). subito = sofort.",
    "audio": "audio/it-de/wendungen/mu_06.mp3?v=f853c612",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Giovanni ha orecchio: sente subito il mio accento tedesco.",
     "de": "Giovanni hat ein gutes Gehör: Er hört sofort meinen deutschen Akzent.",
     "luecke": "ha orecchio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_06.mp3?v=9d7bc549"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_07",
@@ -2439,14 +2839,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "l'accento = Akzent (Aussprache und Schriftzeichen: è, perché); un misto di = eine Mischung aus; la buona volontà = der gute Wille.",
    "audio": "audio/it-de/wendungen/mu_07.mp3?v=c9fc133f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il mio accento è un misto di Saarland e buona volontà.",
     "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "luecke": "accento",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_07.mp3?v=83c88637"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_08",
@@ -2458,14 +2862,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "quello che … è … = was …, ist … (Hervorhebung); la lingua = Sprache und Zunge. di + l' = dell'.",
    "audio": "audio/it-de/wendungen/mu_08.mp3?v=658a2bcb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quello che amo dell'italiano è la musica della lingua.",
     "de": "Was ich am Italienischen liebe, ist die Musik der Sprache.",
     "luecke": "la musica della lingua",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_08.mp3?v=a9cff195"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_09",
@@ -2477,23 +2885,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "suonare + Instrument mit Artikel (suonare la chitarra, il piano); giocare = spielen (Spiel, Sport: giocare a calcio). uno strumento (uno vor s + Konsonant).",
    "audio": "audio/it-de/wendungen/mu_09.mp3?v=ff24b0c2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Suoni uno strumento? – Sì, la chitarra, male.",
     "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "luecke": "Suoni uno strumento",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_09.mp3?v=63655abc"
    },
    "zeit": {
     "pc": {
      "fr": "Hai suonato uno strumento da piccolo?",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_09_pc.mp3?v=8e15e357"
     },
     "fp": {
      "fr": "Suonerai uno strumento? Spero di no.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_09_fp.mp3?v=47f033bd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_10",
@@ -2505,23 +2919,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "in loop = Anglizismus, ganz normal; auch: a ripetizione. da tre giorni = seit drei Tagen, mit Präsens (ascolto … da).",
    "audio": "audio/it-de/wendungen/mu_10.mp3?v=f5e73812",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ascolto questa canzone in loop da tre giorni.",
     "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "luecke": "in loop",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_10.mp3?v=99698b00"
    },
    "zeit": {
     "pc": {
      "fr": "Ho ascoltato questa canzone in loop.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_10_pc.mp3?v=69209fa1"
     },
     "fp": {
      "fr": "Ascolterò questa canzone in loop.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_10_fp.mp3?v=8c0557ce"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_11",
@@ -2533,23 +2953,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „ein Lied im Kopf haben“ (in testa, ohne Artikel); auch: un tormentone = der Ohrwurm, der Sommerhit. « Volare » = Modugnos Nel blu dipinto di blu (1958).",
    "audio": "audio/it-de/wendungen/mu_11.mp3?v=27b8c592",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ho « Volare » in testa da stamattina. Grazie, Giovanni.",
     "de": "Ich habe seit heute Morgen „Volare“ im Kopf. Danke, Giovanni.",
     "luecke": "in testa",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_11.mp3?v=b25d6a43"
    },
    "zeit": {
     "pc": {
      "fr": "Ho avuto « Volare » in testa tutto il giorno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_11_pc.mp3?v=f3e87567"
     },
     "fp": {
      "fr": "Avrò « Volare » in testa per giorni.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_11_fp.mp3?v=2d967b84"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_12",
@@ -2561,23 +2987,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "cantare + -icchiare (verniedlichend, beiläufig) = vor sich hin singen; mentre = während. lo sanno = sie wissen es (lo = es).",
    "audio": "audio/it-de/wendungen/mu_12.mp3?v=39c98b12",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Canticchio mentre correggo i compiti. Gli alunni non lo sanno.",
     "de": "Ich summe beim Korrigieren. Die Schüler wissen es nicht.",
     "luecke": "Canticchio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_12.mp3?v=55fb79cd"
    },
    "zeit": {
     "pc": {
      "fr": "Ho canticchiato tutta la mattina.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_12_pc.mp3?v=fb7fafa2"
     },
     "fp": {
      "fr": "Canticchierò, sicuro.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_12_fp.mp3?v=a26bb859"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_13",
@@ -2589,14 +3021,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il ritmo (ohne y und h!); cadere = fallen. Meist Betonung auf der vorletzten Silbe (ca-SA, a-MI-co), Ausnahmen mit Akzent (cit-TÀ) oder sdrucciole (TA-vo-lo).",
    "audio": "audio/it-de/wendungen/mu_13.mp3?v=b1173846",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "L'italiano ha un ritmo: l'accento cade sulla penultima sillaba.",
     "de": "Das Italienische hat einen Rhythmus: Der Akzent fällt auf die vorletzte Silbe.",
     "luecke": "ritmo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_13.mp3?v=a90b697f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_14",
@@ -2608,14 +3044,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "le doppie (consonanti) = Doppelkonsonanten, für Deutsche die Hauptfalle: wirklich länger sprechen! pala (Schaufel) / palla (Ball), nono (neunter) / nonno (Opa).",
    "audio": "audio/it-de/wendungen/mu_14.mp3?v=3470bcec",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Pala e palla, nono e nonno: le doppie sono la musica tra le lettere.",
     "de": "Pala und palla, nono und nonno: Die Doppelkonsonanten sind die Musik zwischen den Buchstaben.",
     "luecke": "le doppie",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_14.mp3?v=5aa82dd0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_15",
@@ -2627,23 +3067,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "pronunciare (mit c, anders als im Deutschen); non riesco a + Infinitiv = ich schaffe es nicht zu (riuscire mit essere: sono riuscito). gli = [ʎi], wie „lj“ in Familie.",
    "audio": "audio/it-de/wendungen/mu_15.mp3?v=0ee8525f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Non riesco a pronunciare « gli ». Dico « li ». Giovanni sorride.",
     "de": "Ich schaffe es nicht, „gli“ auszusprechen. Ich sage „li“. Giovanni lächelt.",
     "luecke": "pronunciare",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_15.mp3?v=9340b4d7"
    },
    "zeit": {
     "pc": {
      "fr": "Non sono riuscito a pronunciare « gli ».",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_15_pc.mp3?v=05a3a880"
     },
     "fp": {
      "fr": "Riuscirò a pronunciare « gli ». Un giorno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_15_fp.mp3?v=0c9439b9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_16",
@@ -2655,14 +3101,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "un brano = Stück (Musik, Text: un brano di un libro); un pezzo geht auch. allo stesso tempo = gleichzeitig.",
    "audio": "audio/it-de/wendungen/mu_16.mp3?v=122ba458",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Questo brano per pianoforte mi rende felice e triste allo stesso tempo.",
     "de": "Dieses Klavierstück macht mich gleichzeitig glücklich und traurig.",
     "luecke": "brano",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_16.mp3?v=01b8ec06"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_17",
@@ -2674,14 +3124,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „kehlenzerreißend“ (squarciare = zerreißen, la gola = Kehle); cantare/urlare a squarciagola. in macchina = im Auto.",
    "audio": "audio/it-de/wendungen/mu_17.mp3?v=942a55c9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In macchina canto a squarciagola. Da solo. Sempre da solo.",
     "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "luecke": "a squarciagola",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_17.mp3?v=ae1db476"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_18",
@@ -2693,14 +3147,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "bassa = tief (Stimme; auch: niedrig, leise – a voce bassa = leise); acuta = hoch, spitz. una voce da prof = eine Lehrerstimme (da = typisch für).",
    "audio": "audio/it-de/wendungen/mu_18.mp3?v=3f50fbaf",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Lui ha una voce bassa, lei una voce acuta, e io ho una voce da prof.",
     "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "luecke": "voce bassa",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_18.mp3?v=71d93ba7"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_19",
@@ -2712,14 +3170,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „es spricht mir“; mi parla = das sagt mir etwas. non mi dice niente = sagt mir nichts. capire = verstehen (capisco, -isc-).",
    "audio": "audio/it-de/wendungen/mu_19.mp3?v=38c3f347",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Questa canzone mi parla. Non capisco tutto, ma mi parla.",
     "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "luecke": "mi parla",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_19.mp3?v=d1efe597"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_20",
@@ -2731,23 +3193,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „nach Gedächtnis lernen“ (a memoria); imparare = lernen (studiare = lernen für die Schule). il vocabolario = Wortschatz und Wörterbuch.",
    "audio": "audio/it-de/wendungen/mu_20.mp3?v=12696474",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Imparo i testi a memoria, è il mio vocabolario preferito.",
     "de": "Ich lerne die Liedtexte auswendig, das ist mein Lieblingswortschatz.",
     "luecke": "Imparo i testi a memoria",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_20.mp3?v=af65df01"
    },
    "zeit": {
     "pc": {
      "fr": "Ho imparato il testo a memoria.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_20_pc.mp3?v=690a8bf9"
     },
     "fp": {
      "fr": "Imparerò il testo a memoria.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_20_fp.mp3?v=1a44d48c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_21",
@@ -2759,23 +3227,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "sbagliare + Nomen ohne Artikel = das Falsche erwischen: sbagliare strada, porta, numero. sbagliare = sich irren; uno sbaglio = ein Fehler. sbagliando s'impara.",
    "audio": "audio/it-de/wendungen/mu_21.mp3?v=b3b27f9e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sbaglio spesso parola, ma la melodia è giusta.",
     "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
     "luecke": "Sbaglio spesso parola",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_21.mp3?v=71d6fe46"
    },
    "zeit": {
     "pc": {
      "fr": "Ho sbagliato parola. Di nuovo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_21_pc.mp3?v=9b3f3d9d"
     },
     "fp": {
      "fr": "Sbaglierò parola, lo so.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_21_fp.mp3?v=28f82caa"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_22",
@@ -2787,23 +3261,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fare bene a qualcuno = guttun; Gegenteil: fare male = wehtun (mi fa male la testa). Infinitiv als Subjekt: cantare … mi fa bene.",
    "audio": "audio/it-de/wendungen/mu_22.mp3?v=66127a77",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Cantare la sera mi fa bene.",
     "de": "Abends singen tut mir gut.",
     "luecke": "mi fa bene",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_22.mp3?v=6e90f8a6"
    },
    "zeit": {
     "pc": {
      "fr": "Cantare mi ha fatto bene.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_22_pc.mp3?v=7b2a917d"
     },
     "fp": {
      "fr": "Cantare mi farà bene.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/mu_22_fp.mp3?v=776ab93d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_23",
@@ -2815,14 +3295,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "cantata = gesungen (Partizip als Adjektiv); auch: una lingua musicale, cantilenante. lamentarsi = sich beklagen; ci si lamenta = man beklagt sich (si + si → ci si).",
    "audio": "audio/it-de/wendungen/mu_23.mp3?v=13b44cfb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "L'italiano è una lingua cantata. Anche quando ci si lamenta.",
     "de": "Italienisch ist eine gesungene Sprache. Auch beim Jammern.",
     "luecke": "lingua cantata",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_23.mp3?v=4291f1c5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_24",
@@ -2834,14 +3318,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "potrebbe = Konditional, Lei-Form; più lentamente = langsamer (Komparativ mit più); auch: più piano. scusi = Lei-Form von scusare.",
    "audio": "audio/it-de/wendungen/mu_24.mp3?v=1359b1f4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Scusi, potrebbe ripetere più lentamente? Ascolto la musica, non le parole.",
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "potrebbe ripetere più lentamente",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/mu_24.mp3?v=37154f6e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_01",
@@ -2853,14 +3341,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „es gab ein Mal“ (c'era = imperfetto von c'è) – der Märchenanfang. la favola = Fabel, Märchen; la fiaba = Märchen (Grimm, Andersen).",
    "audio": "audio/it-de/wendungen/st_01.mp3?v=344d275a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "C'era una volta un professore che non correggeva mai i compiti. È una favola.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "C'era una volta",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_01.mp3?v=88d2b836"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_02",
@@ -2872,23 +3364,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "raccontare qualcosa a qualcuno; il racconto = Erzählung, Kurzgeschichte. addormentarsi = einschlafen (dormire = schlafen). prima di = vor.",
    "audio": "audio/it-de/wendungen/st_02.mp3?v=991e93ca",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La sera racconto una storia al mio gatto. Si addormenta prima della fine.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "racconto una storia",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_02.mp3?v=e64c88b7"
    },
    "zeit": {
     "pc": {
      "fr": "Ho raccontato una storia al mio gatto.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/st_02_pc.mp3?v=88ed0141"
     },
     "fp": {
      "fr": "Racconterò una storia al mio gatto.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/st_02_fp.mp3?v=0e18f639"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "st_03",
@@ -2900,14 +3398,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la ricerca = Suche, Forschung (cercare = suchen); la ricerca del Graal. il romanzo = der Roman (nicht „Romanze“!). anche se = auch wenn.",
    "audio": "audio/it-de/wendungen/st_03.mp3?v=cd089639",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ogni buon romanzo comincia con una ricerca. Anche se è solo cercare le chiavi.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur die Schlüsselsuche ist.",
     "luecke": "ricerca",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_03.mp3?v=5a419b91"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_04",
@@ -2919,14 +3421,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il folto = das Dickicht (folto = dicht); nel folto del bosco = im tiefsten Wald. il bosco = Wald, la foresta = großer Wald. in + il = nel, in + la = nella.",
    "audio": "audio/it-de/wendungen/st_04.mp3?v=09487a71",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Nel folto del bosco c'era una casa. E nella casa, una luce.",
     "de": "Tief im Wald stand ein Haus. Und in dem Haus ein Licht.",
     "luecke": "Nel folto del bosco",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_04.mp3?v=3da46d21"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_05",
@@ -2938,14 +3444,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il drago, Plural i draghi (gh für harten Laut); sputare fuoco = Feuer speien (sputare = spucken). Imperfetto sputava = Beschreibung.",
    "audio": "audio/it-de/wendungen/st_05.mp3?v=f7f7212b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il drago non sputava fuoco. Sputava compiti.",
     "de": "Der Drache spie kein Feuer. Er spie Hausaufgaben.",
     "luecke": "drago",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_05.mp3?v=fcb9eb66"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_06",
@@ -2957,14 +3467,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la spada = Schwert; pesante = schwer (Gewicht; schwierig = difficile). ha preso = prendere, Partizip preso.",
    "audio": "audio/it-de/wendungen/st_06.mp3?v=ca5ac586",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "L'eroe ha preso la sua spada. Era pesante, come un lunedì.",
     "de": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "luecke": "spada",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_06.mp3?v=b6bf1403"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_07",
@@ -2976,14 +3490,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "l'incantesimo = Zauber, Bann (incantare = verzaubern; incantevole = bezaubernd); fare un incantesimo. durare = dauern (mit essere: è durato).",
    "audio": "audio/it-de/wendungen/st_07.mp3?v=d4a21851",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un incantesimo ha trasformato la classe in silenzio. È durato solo tre minuti.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es dauerte nur drei Minuten.",
     "luecke": "incantesimo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_07.mp3?v=86c40ead"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_08",
@@ -2995,14 +3513,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „ins Unvorhergesehene“ (improvviso = unerwartet); synonym: d'un tratto, di colpo. si è aperta = aprirsi, Partizip aperto.",
    "audio": "audio/it-de/wendungen/st_08.mp3?v=2c3df713",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "All'improvviso la porta si è aperta. Nessuno. Solo il vento. Spero.",
     "de": "Plötzlich öffnete sich die Tür. Niemand. Nur der Wind. Hoffe ich.",
     "luecke": "All'improvviso",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_08.mp3?v=0518c94d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_09",
@@ -3014,14 +3536,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il segreto = Geheimnis; segreto auch Adjektiv (un passaggio segreto). tutti = alle (Plural-Verb: tutti hanno). anche = auch, sogar.",
    "audio": "audio/it-de/wendungen/st_09.mp3?v=cd44cbc8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In questa storia tutti hanno un segreto. Anche il gatto.",
     "de": "In dieser Geschichte hat jeder ein Geheimnis. Sogar die Katze.",
     "luecke": "hanno un segreto",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_09.mp3?v=4f4c0ae8"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_10",
@@ -3033,14 +3559,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il regno = Königreich (il re = König, la regina = Königin; regnare = herrschen); il Regno Unito. la gente = die Leute (Singular!): la gente ascoltava.",
    "audio": "audio/it-de/wendungen/st_10.mp3?v=aae948d9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In quel regno i libri parlavano e la gente ascoltava.",
     "de": "In jenem Königreich sprachen die Bücher, und die Leute hörten zu.",
     "luecke": "regno",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_10.mp3?v=190ec0cc"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_11",
@@ -3052,14 +3582,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il mago = Zauberer (la maga = Zauberin), la strega = Hexe (lo stregone = Hexenmeister); stregare = verhexen. la capisco = ich verstehe sie (la vor dem Verb).",
    "audio": "audio/it-de/wendungen/st_11.mp3?v=4bf96144",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La strega non era cattiva. Era stanca. La capisco.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "strega",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_11.mp3?v=85aff0fb"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_12",
@@ -3071,23 +3605,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "trasformarsi in + Nomen ohne Artikel: in lettore, in rana. a mezzanotte = um Mitternacht; fino a = bis; le due del mattino = zwei Uhr nachts.",
    "audio": "audio/it-de/wendungen/st_12.mp3?v=45da5033",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "A mezzanotte il prof si trasforma in lettore. Fino alle due del mattino.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "si trasforma in",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_12.mp3?v=231f9731"
    },
    "zeit": {
     "pc": {
      "fr": "Si è trasformato in lettore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/st_12_pc.mp3?v=e73aafd6"
     },
     "fp": {
      "fr": "Si trasformerà in lettore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/st_12_fp.mp3?v=14905c22"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "st_13",
@@ -3099,14 +3639,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „auf einen Zug“ (il tratto = Strich, Strecke); a un tratto / d'un tratto = auf einmal. prof = Anrede für Lehrer (statt „Herr X“). quand'è = quando è.",
    "audio": "audio/it-de/wendungen/st_13.mp3?v=46cbae9a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "A un tratto, silenzio. Poi una voce: « Prof, quand'è la pausa? »",
     "de": "Auf einmal Stille. Dann eine Stimme: „Herr Lehrer, wann ist Pause?“",
     "luecke": "A un tratto",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_13.mp3?v=5d72cc3d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_14",
@@ -3118,14 +3662,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "l'eroe (männlich, Plural gli eroi), l'eroina (weiblich – auch das Rauschgift!). per questo = deshalb; coraggioso = mutig (il coraggio).",
    "audio": "audio/it-de/wendungen/st_14.mp3?v=fa834882",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "L'eroe del mio romanzo preferito ha paura di tutto. Per questo è coraggioso.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "eroe",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_14.mp3?v=ba08269a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_15",
@@ -3137,14 +3685,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il cattivo = der Böse (Adjektiv cattivo = schlecht, böse); il buono = der Gute. la sveglia = Wecker (svegliarsi = aufwachen). ogni giorno = jeden Tag.",
    "audio": "audio/it-de/wendungen/st_15.mp3?v=f039c73f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il cattivo della storia è la sveglia. Le sei. Ogni giorno.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "cattivo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_15.mp3?v=2c47b514"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_16",
@@ -3156,14 +3708,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la mappa = Landkarte, il tesoro = Schatz; la piantina = Lageplan, Grundriss (la pianta = Pflanze und Plan). il quaderno = Heft; la mensa = Schulmensa.",
    "audio": "audio/it-de/wendungen/st_16.mp3?v=7bba5a4a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ho trovato una mappa del tesoro in un quaderno. Era la piantina della mensa.",
     "de": "Ich habe in einem Heft eine Schatzkarte gefunden. Es war der Plan der Mensa.",
     "luecke": "mappa del tesoro",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_16.mp3?v=3d5be3f4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_17",
@@ -3175,14 +3731,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "pare che + congiuntivo (esista, dorma) = angeblich, es scheint (parere = scheinen); auch: si dice che, sembra che. l'aula = Klassenraum (nicht „Aula“ = l'aula magna). ci = dort.",
    "audio": "audio/it-de/wendungen/st_17.mp3?v=07c109ad",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Pare che l'aula 13 esista. Pare anche che il gatto ci dorma.",
     "de": "Es heißt, Raum 13 existiere. Es heißt auch, die Katze schlafe dort.",
     "luecke": "Pare che",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_17.mp3?v=01accb78"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_18",
@@ -3194,23 +3754,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "sparire mit -isc- (sparisco, sparisce), Partizip sparito, mit essere; auch: scomparire. la penna = Kugelschreiber (und Feder); la gente sparisce = Singular!",
    "audio": "audio/it-de/wendungen/st_18.mp3?v=7723d9e1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In questo romanzo la gente sparisce. Nella mia classe, le penne.",
     "de": "In diesem Roman verschwinden die Leute. In meiner Klasse die Stifte.",
     "luecke": "sparisce",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_18.mp3?v=b841619e"
    },
    "zeit": {
     "pc": {
      "fr": "Le penne sono sparite.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/st_18_pc.mp3?v=c2a08866"
     },
     "fp": {
      "fr": "Le penne spariranno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/st_18_fp.mp3?v=cc00ac6f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "st_19",
@@ -3222,14 +3788,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il seguito = Fortsetzung (seguire = folgen); « continua » = Fortsetzung folgt; in seguito = anschließend, später. subito = sofort.",
    "audio": "audio/it-de/wendungen/st_19.mp3?v=f634c49e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Voglio leggere il seguito subito. Ma è mezzanotte. Leggo il seguito.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "seguito",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_19.mp3?v=9c998d7a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_20",
@@ -3241,14 +3811,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „mit angehaltenem Atem“ (il fiato = Atem, sospeso = angehalten, schwebend); tenere con il fiato sospeso = in Spannung halten. da tre notti = seit drei Nächten.",
    "audio": "audio/it-de/wendungen/st_20.mp3?v=cf78253a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Questo libro mi tiene con il fiato sospeso da tre notti.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "con il fiato sospeso",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_20.mp3?v=475a3d1f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_21",
@@ -3260,23 +3834,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "rabbrividire = schaudern (il brivido = Schauer; brividi = Gänsehaut-Gefühl), mit -isc-: rabbrividisco. il fantasy = das Genre (männlich im Italienischen).",
    "audio": "audio/it-de/wendungen/st_21.mp3?v=895cae39",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Rabbrividisco a ogni capitolo. E continuo. È questo, il fantasy.",
     "de": "Ich schaudere bei jedem Kapitel. Und mache weiter. Das ist Fantasy.",
     "luecke": "Rabbrividisco",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_21.mp3?v=89d322bf"
    },
    "zeit": {
     "pc": {
      "fr": "Ho rabbrividito a ogni capitolo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/st_21_pc.mp3?v=5fe04932"
     },
     "fp": {
      "fr": "Rabbrividirò, lo so già.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/st_21_fp.mp3?v=1803eeb2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "st_22",
@@ -3288,14 +3868,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „Bühnenschlag“ (il colpo = Schlag, la scena = Bühne, Szene) = Überraschungswendung, Theaterbegriff. fin dall'inizio = von Anfang an.",
    "audio": "audio/it-de/wendungen/st_22.mp3?v=2b210f29",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un colpo di scena a pagina 200: il gatto era il re fin dall'inizio.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "colpo di scena",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_22.mp3?v=a9bdfc59"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_23",
@@ -3307,14 +3891,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la fine = das Ende (weiblich); il fine = der Zweck, das Ziel (männlich!). non la racconto (la = die fine). leggi = Imperativ von leggere.",
    "audio": "audio/it-de/wendungen/st_23.mp3?v=1e5f580f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La fine di questa storia? Non la racconto. Leggi il libro.",
     "de": "Das Ende dieser Geschichte? Ich erzähle es nicht. Lies das Buch.",
     "luecke": "fine",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_23.mp3?v=8c6d8407"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "st_24",
@@ -3326,14 +3914,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "consigliare = raten, empfehlen (il consiglio = Rat); mi potrebbe = Pronomen vor dem konjugierten Verb (oder potrebbe consigliarmi). un po' = un poco.",
    "audio": "audio/it-de/wendungen/st_24.mp3?v=2c58759b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Buongiorno, mi potrebbe consigliare un libro? Un po' cupo, un po' magico.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "mi potrebbe consigliare un libro",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/st_24.mp3?v=67124159"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_01",
@@ -3345,23 +3937,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "allenarsi = trainieren (reflexiv); allenare = trainieren als Trainer; l'allenamento = Training, l'allenatore = Trainer (auch: il mister beim Fußball). a settimana = pro Woche.",
    "audio": "audio/it-de/wendungen/sp_01.mp3?v=2a2b3196",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mi alleno tre volte a settimana. Due, se sono onesto.",
     "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "luecke": "Mi alleno",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_01.mp3?v=3d91dfc7"
    },
    "zeit": {
     "pc": {
      "fr": "Mi sono allenato tre volte.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_01_pc.mp3?v=703ab63b"
     },
     "fp": {
      "fr": "Mi allenerò tre volte. Forse due.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_01_fp.mp3?v=d6b65c5d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_02",
@@ -3373,14 +3971,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il calcio = Tritt und Fußball (und Kalzium!); dare un calcio = treten. prima di tutto = zuallererst.",
    "audio": "audio/it-de/wendungen/sp_02.mp3?v=12759d3e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un buon calcio è prima di tutto una buona posizione.",
     "de": "Ein guter Tritt ist zuerst eine gute Position.",
     "luecke": "calcio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_02.mp3?v=bdeb6ca9"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_03",
@@ -3392,14 +3994,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il pugno = Faust und Fausthieb (gn = [ɲ]); il fianco = Hüfte, Seite; il braccio = Arm, Plural le braccia (weiblich!). da + il = dal.",
    "audio": "audio/it-de/wendungen/sp_03.mp3?v=220d002b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Nel kung fu il pugno parte dal fianco, non dal braccio.",
     "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
     "luecke": "pugno",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_03.mp3?v=b19874f6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_04",
@@ -3411,14 +4017,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la flessibilità = Beweglichkeit, Flexibilität (flessibile); auch: l'elasticità. se ne va = sie geht weg (andarsene). altrimenti = sonst.",
    "audio": "audio/it-de/wendungen/sp_04.mp3?v=214d3b31",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "A quarant'anni la flessibilità si allena ogni giorno. Altrimenti se ne va.",
     "de": "Mit vierzig trainiert man die Beweglichkeit jeden Tag. Sonst geht sie.",
     "luecke": "flessibilità",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_04.mp3?v=fb5a3447"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_05",
@@ -3430,23 +4040,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "mantenere = bewahren, aufrechterhalten (tenere = halten); la calma = Ruhe; calma! = ruhig! il combattimento = der Kampf. respirare = atmen.",
    "audio": "audio/it-de/wendungen/sp_05.mp3?v=890ae3fb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In combattimento come in classe: mantenere la calma, respirare, aspettare.",
     "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, warten.",
     "luecke": "mantenere la calma",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_05.mp3?v=1926e597"
    },
    "zeit": {
     "pc": {
      "fr": "Ho mantenuto la calma.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_05_pc.mp3?v=2568e293"
     },
     "fp": {
      "fr": "Manterrò la calma. Spero.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_05_fp.mp3?v=9a077759"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_06",
@@ -3458,23 +4074,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "riscaldarsi = sich aufwärmen (caldo = warm; il riscaldamento = Aufwärmen und Heizung!). la schiena = Rücken; ringraziare = danken.",
    "audio": "audio/it-de/wendungen/sp_06.mp3?v=26e52ddb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Prima di allenarmi mi riscaldo dieci minuti. La mia schiena ringrazia.",
     "de": "Bevor ich trainiere, wärme ich mich zehn Minuten auf. Mein Rücken dankt.",
     "luecke": "mi riscaldo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_06.mp3?v=1638ada3"
    },
    "zeit": {
     "pc": {
      "fr": "Mi sono riscaldato dieci minuti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_06_pc.mp3?v=9dde4985"
     },
     "fp": {
      "fr": "Mi riscalderò dieci minuti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_06_fp.mp3?v=5dd74643"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_07",
@@ -3486,23 +4108,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „schmerzende Muskeln haben“ (indolenzito = steif, schmerzend; il dolore = Schmerz); kein eigenes Wort für Muskelkater. dappertutto = überall.",
    "audio": "audio/it-de/wendungen/sp_07.mp3?v=96410fff",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il giorno dopo ho i muscoli indolenziti dappertutto. Anche nelle orecchie.",
     "de": "Am Tag danach habe ich überall Muskelkater. Sogar in den Ohren.",
     "luecke": "ho i muscoli indolenziti",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_07.mp3?v=375aa228"
    },
    "zeit": {
     "pc": {
      "fr": "Avevo i muscoli indolenziti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_07_pc.mp3?v=bc776a74"
     },
     "fp": {
      "fr": "Avrò i muscoli indolenziti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_07_fp.mp3?v=e4f1884f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_08",
@@ -3514,14 +4142,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "essere in forma = fit sein; in forma smagliante = topfit; fuori forma = außer Form. la mattina / il pomeriggio = morgens / nachmittags (mit Artikel).",
    "audio": "audio/it-de/wendungen/sp_08.mp3?v=f12772b8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sono in forma la mattina. Il pomeriggio sono prof.",
     "de": "Ich bin morgens fit. Nachmittags bin ich Lehrer.",
     "luecke": "in forma",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_08.mp3?v=e4928766"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_09",
@@ -3533,23 +4165,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "tenere = halten (tengo, tieni, Partizip tenuto, Futur terrò); la posizione del cavaliere = Reiterstellung. semplice ≠ facile: einfach ≠ leicht.",
    "audio": "audio/it-de/wendungen/sp_09.mp3?v=ae10c893",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tenere la posizione del cavaliere per due minuti: semplice. Non facile.",
     "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
     "luecke": "Tenere la posizione",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_09.mp3?v=140c4010"
    },
    "zeit": {
     "pc": {
      "fr": "Ho tenuto la posizione due minuti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_09_pc.mp3?v=b5ff9cf7"
     },
     "fp": {
      "fr": "Terrò la posizione due minuti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_09_fp.mp3?v=ba06d2bb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_10",
@@ -3561,14 +4199,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la respirazione (respirare = atmen; il respiro = Atemzug); cominciare con = beginnen mit. anche in classe = auch im Unterricht.",
    "audio": "audio/it-de/wendungen/sp_10.mp3?v=4eadd0b0",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Nel kung fu tutto comincia con la respirazione. Anche in classe.",
     "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
     "luecke": "respirazione",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_10.mp3?v=2845dfc0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_11",
@@ -3580,14 +4222,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il maestro = Meister, Lehrmeister, und Grundschullehrer (la maestra); auch Dirigent. non … ancora = noch nicht; capito = Partizip von capire.",
    "audio": "audio/it-de/wendungen/sp_11.mp3?v=b6966f55",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il mio maestro dice: « Lentamente è veloce. » Non ho ancora capito.",
     "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
     "luecke": "maestro",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_11.mp3?v=b27e22db"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_12",
@@ -3599,14 +4245,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la sequenza = Abfolge, Sequenz – im Kung-Fu die Form (auch: la forma). ne conosco quattro = ich kenne vier davon (ne = davon). il movimento = Bewegung.",
    "audio": "audio/it-de/wendungen/sp_12.mp3?v=4f1a3511",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Imparo una nuova sequenza. Dodici movimenti. Ne conosco quattro.",
     "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kenne ich.",
     "luecke": "sequenza",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_12.mp3?v=7bdc533a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_13",
@@ -3618,23 +4268,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "schivare = ausweichen (sch vor i = [ski]: [skivare]); una schivata = Ausweichbewegung; bloccare = blocken; funzionare = funktionieren.",
    "audio": "audio/it-de/wendungen/sp_13.mp3?v=08b31c98",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Schivare è meglio che bloccare. Funziona anche in riunione.",
     "de": "Ausweichen ist besser als blocken. Das klappt auch in der Sitzung.",
     "luecke": "Schivare",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_13.mp3?v=72f6be1d"
    },
    "zeit": {
     "pc": {
      "fr": "Ho schivato il colpo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_13_pc.mp3?v=45d65a0f"
     },
     "fp": {
      "fr": "Schiverò il colpo. O no.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_13_fp.mp3?v=f9621a5c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_14",
@@ -3646,23 +4302,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "sudare = schwitzen (il sudore = Schweiß); sudato = verschwitzt. sudare sette camicie = sich abrackern (sieben Hemden durchschwitzen).",
    "audio": "audio/it-de/wendungen/sp_14.mp3?v=c3cd6e7d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dopo l'allenamento sudo come una fontana. Una fontana felice.",
     "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "luecke": "sudo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_14.mp3?v=5fc7070a"
    },
    "zeit": {
     "pc": {
      "fr": "Ho sudato come una fontana.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_14_pc.mp3?v=8b7d7825"
     },
     "fp": {
      "fr": "Suderò come una fontana.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_14_fp.mp3?v=525396d3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_15",
@@ -3674,23 +4336,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "farsi male = sich wehtun, sich verletzen (auch: ferirsi = ernst); mi sono fatto male al ginocchio. tranne = außer; aprendo = Gerundio (beim Öffnen); la scatoletta = Dose.",
    "audio": "audio/it-de/wendungen/sp_15.mp3?v=85304a10",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Non mi faccio mai male. Tranne aprendo una scatoletta di umido.",
     "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Nassfutter.",
     "luecke": "mi faccio mai male",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_15.mp3?v=7bfbc42f"
    },
    "zeit": {
     "pc": {
      "fr": "Mi sono fatto male.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_15_pc.mp3?v=e13b42e5"
     },
     "fp": {
      "fr": "Mi farò male, lo sento.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_15_fp.mp3?v=4f35501a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_16",
@@ -3702,23 +4370,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fare stretching = Anglizismus, ganz normal; auch: fare allungamento, stirarsi = sich strecken. la tivù = TV (so geschrieben!); perplesso = ratlos.",
    "audio": "audio/it-de/wendungen/sp_16.mp3?v=1f93f0f5",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Faccio stretching la sera, davanti alla tivù. Il gatto mi guarda, perplesso.",
     "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut mich an, ratlos.",
     "luecke": "Faccio stretching",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_16.mp3?v=e767c5fc"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto stretching.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_16_pc.mp3?v=140dde5c"
     },
     "fp": {
      "fr": "Farò stretching. Il gatto guarderà.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_16_fp.mp3?v=aae6e0bb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_17",
@@ -3730,23 +4404,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il fiato = Atem (senza fiato = außer Atem); riprendere fiato ohne Artikel. a lungo = lange. la serie = Serie (unveränderlich im Plural).",
    "audio": "audio/it-de/wendungen/sp_17.mp3?v=8287b455",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tra due serie riprendo fiato. A lungo.",
     "de": "Zwischen zwei Serien komme ich wieder zu Atem. Lange.",
     "luecke": "riprendo fiato",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_17.mp3?v=40077a8c"
    },
    "zeit": {
     "pc": {
      "fr": "Ho ripreso fiato.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_17_pc.mp3?v=d0024dca"
     },
     "fp": {
      "fr": "Riprenderò fiato. A lungo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_17_fp.mp3?v=52a30ce4"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_18",
@@ -3758,14 +4438,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "l'equilibrio = Gleichgewicht; avere equilibrio ohne Artikel; perdere l'equilibrio. la gamba = Bein (nicht „Garnele“ wie sp. gamba!). dipendere da = abhängen von.",
    "audio": "audio/it-de/wendungen/sp_18.mp3?v=c0c1c480",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Su una gamba ho equilibrio. Su due, dipende dal giorno.",
     "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
     "luecke": "ho equilibrio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_18.mp3?v=e524b94e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_19",
@@ -3777,23 +4461,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "andare a + Infinitiv = gehen, um zu: andare a correre, a nuotare, a mangiare. pentirsi di = bereuen (me ne pento = ich bereue es). la domenica = sonntags.",
    "audio": "audio/it-de/wendungen/sp_19.mp3?v=d3f7fef2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La domenica mattina vado a correre. La domenica sera me ne pento.",
     "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "luecke": "vado a correre",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_19.mp3?v=33780681"
    },
    "zeit": {
     "pc": {
      "fr": "Domenica sono andato a correre.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_19_pc.mp3?v=d700bf6e"
     },
     "fp": {
      "fr": "Domenica andrò a correre.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_19_fp.mp3?v=363af62f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_20",
@@ -3805,14 +4495,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la cintura = Gürtel (auch Sicherheitsgurt: la cintura di sicurezza); Umbau von « l'abito non fa il monaco » (die Kutte macht nicht den Mönch). tenere su = hochhalten.",
    "audio": "audio/it-de/wendungen/sp_20.mp3?v=5b0117a9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La cintura non fa il maestro. Ma tiene su i pantaloni.",
     "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "luecke": "cintura",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_20.mp3?v=9cd330fb"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_21",
@@ -3824,23 +4518,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fare progressi (Plural); il progresso = Fortschritt. lentamente = langsam; piano = langsam, leise (piano piano = ganz langsam).",
    "audio": "audio/it-de/wendungen/sp_21.mp3?v=f4f69663",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Faccio progressi. Lentamente. Come dice il mio maestro, è veloce.",
     "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt, ist das schnell.",
     "luecke": "Faccio progressi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_21.mp3?v=2da5be37"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto progressi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_21_pc.mp3?v=5a0385c6"
     },
     "fp": {
      "fr": "Farò progressi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_21_fp.mp3?v=668be20b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_22",
@@ -3852,23 +4552,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "superare = überholen, übertreffen, bestehen (superare un esame); superarsi = sich selbst übertreffen. le flessioni = Liegestütze (auch: i piegamenti).",
    "audio": "audio/it-de/wendungen/sp_22.mp3?v=5fcae502",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Oggi mi sono superato: trenta flessioni. Ieri, ventinove.",
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "mi sono superato",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_22.mp3?v=4dc5d5b2"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri mi sono superato.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_22_pc.mp3?v=f5b2595d"
     },
     "fp": {
      "fr": "Domani mi supererò.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/sp_22_fp.mp3?v=544aace3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_23",
@@ -3880,14 +4586,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il corpo = Körper; la mente = Geist, Verstand (weiblich – deshalb la mia); mente sana in corpo sano. discutere con = diskutieren mit.",
    "audio": "audio/it-de/wendungen/sp_23.mp3?v=bb8057b6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il kung fu è corpo e mente. La mia discute spesso con il mio corpo.",
     "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "luecke": "corpo e mente",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_23.mp3?v=3cc0b4c5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_24",
@@ -3899,14 +4609,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "iscriversi a = sich anmelden für, einschreiben (l'iscrizione); iscrivermi = iscrivere + mi. il martedì sera = dienstagabends. Höflich durch Kontext (buongiorno), posso = ich kann.",
    "audio": "audio/it-de/wendungen/sp_24.mp3?v=6fb1f8ff",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Buongiorno, posso iscrivermi al corso del martedì sera?",
     "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "luecke": "posso iscrivermi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/sp_24.mp3?v=82272708"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_01",
@@ -3918,23 +4632,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "cercare di + Infinitiv = versuchen zu; contare = zählen. il cornetto = das italienische Croissant (auch: la brioche im Norden). tranne = außer.",
    "audio": "audio/it-de/wendungen/ma_01.mp3?v=44753345",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Cerco di mangiare equilibrato. Il cornetto della mattina non conta.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "mangiare equilibrato",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_01.mp3?v=b346d9c5"
    },
    "zeit": {
     "pc": {
      "fr": "Questa settimana ho mangiato equilibrato. Tranne venerdì.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_01_pc.mp3?v=64a10e6b"
     },
     "fp": {
      "fr": "Mangerò equilibrato. Da lunedì.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_01_fp.mp3?v=3606ec1f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_02",
@@ -3946,23 +4666,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "andare a letto (ohne Artikel) = ins Bett gehen; presto = früh und bald; tardi = spät. ci provo = ich versuche es (provarci). beh = na ja.",
    "audio": "audio/it-de/wendungen/ma_02.mp3?v=1d54623d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La domenica vado a letto presto. Il resto della settimana ci provo.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "vado a letto presto",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_02.mp3?v=87a3643c"
    },
    "zeit": {
     "pc": {
      "fr": "Ieri sono andato a letto presto. Beh, prima di mezzanotte.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_02_pc.mp3?v=e8d54038"
     },
     "fp": {
      "fr": "Stasera andrò a letto presto. Davvero.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_02_fp.mp3?v=3dff0810"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_03",
@@ -3974,14 +4700,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la cura = Pflege, Sorgfalt (und Kur); prendersi cura di = sich kümmern um; prenditi cura di te = pass auf dich auf. perfino = sogar. il cannolo = sizilianische Süßspeise.",
    "audio": "audio/it-de/wendungen/ma_03.mp3?v=6d0a21a1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Prendersi cura di sé è anche dire di no. Perfino a un cannolo.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Cannolo.",
     "luecke": "Prendersi cura di sé",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_03.mp3?v=659c3ab4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_04",
@@ -3993,23 +4723,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fare la spesa = Lebensmittel einkaufen (la spesa = Einkauf, Ausgabe); fare spese / fare shopping = Kleidung einkaufen. il sabato = samstags.",
    "audio": "audio/it-de/wendungen/ma_04.mp3?v=6a0c07df",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Faccio la spesa il sabato, con una lista. Torno con altre cose.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "Faccio la spesa",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_04.mp3?v=f7ab4967"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto la spesa stamattina.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_04_pc.mp3?v=24e1c754"
     },
     "fp": {
      "fr": "Farò la spesa domani.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_04_fp.mp3?v=cc7e2741"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_05",
@@ -4021,23 +4757,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "cucinare = kochen (Essen zubereiten); cuocere = kochen, garen (Wasser, Nudeln); la cucina = Küche und Kochkunst. ascoltando = Gerundio = beim Hören.",
    "audio": "audio/it-de/wendungen/ma_05.mp3?v=97c3a6dd",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "La sera cucino ascoltando musica. Il gatto supervisiona.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cucino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_05.mp3?v=4c225cdc"
    },
    "zeit": {
     "pc": {
      "fr": "Ho cucinato una lasagna per Giovanni.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_05_pc.mp3?v=d564813a"
     },
     "fp": {
      "fr": "Cucinerò qualcosa di semplice.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_05_fp.mp3?v=af781817"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_06",
@@ -4049,14 +4791,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il piatto = Teller und Gericht; il primo / il secondo = erster / zweiter Gang (Pasta / Fleisch oder Fisch). quello che = das, das; qualcun altro = jemand anderes.",
    "audio": "audio/it-de/wendungen/ma_06.mp3?v=0ef8ec47",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il mio piatto preferito? Quello che ha preparato qualcun altro.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "piatto",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_06.mp3?v=90213d9b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_07",
@@ -4068,23 +4814,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il languorino = der kleine Hunger (il languore = Mattigkeit + -ino = klein); auch: avere un po' di fame, avere un buco nello stomaco.",
    "audio": "audio/it-de/wendungen/ma_07.mp3?v=f21e77c1",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Alle quattro ho un languorino. Alle quattro e cinque anche.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "ho un languorino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_07.mp3?v=10171b38"
    },
    "zeit": {
     "pc": {
      "fr": "Alle quattro avevo un languorino.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_07_pc.mp3?v=b78cf79c"
     },
     "fp": {
      "fr": "Alle quattro avrò un languorino. Come sempre.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_07_fp.mp3?v=a76b0cd1"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_08",
@@ -4096,23 +4848,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la scorpacciata = Fressgelage (von corpo: sich den Körper vollmachen); fare una scorpacciata di + Speise. da Giovanni = bei Giovanni (da + Person). gli manda = schickt ihm.",
    "audio": "audio/it-de/wendungen/ma_08.mp3?v=d684c802",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Da Giovanni facciamo una scorpacciata. Sua madre gli manda le ricette.",
     "de": "Bei Giovanni schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
     "luecke": "facciamo una scorpacciata",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_08.mp3?v=a6669cae"
    },
    "zeit": {
     "pc": {
      "fr": "Da Giovanni abbiamo fatto una scorpacciata.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_08_pc.mp3?v=319a9212"
     },
     "fp": {
      "fr": "Da Giovanni faremo una scorpacciata.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_08_fp.mp3?v=d13891a1"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_09",
@@ -4124,14 +4882,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "buon appetito = die normale Formel vor dem Essen (in Italien unumstritten, anders als in Frankreich); altrettanto = gleichfalls (wörtlich: ebenso viel).",
    "audio": "audio/it-de/wendungen/ma_09.mp3?v=6c3602a6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "« Buon appetito! » – « Grazie, altrettanto. » – « Io non mangio. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, gleichfalls.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Buon appetito",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_09.mp3?v=0cd4fe46"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_10",
@@ -4143,14 +4905,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il pane = Brot → la panetteria (auch: il panificio, il fornaio = Bäcker); la pasticceria = Konditorei. accanto a = neben. un bel problema (bello verkürzt vor Konsonant).",
    "audio": "audio/it-de/wendungen/ma_10.mp3?v=f829d738",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "C'è una panetteria accanto alla scuola. È un problema. Un bel problema.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein schönes Problem.",
     "luecke": "panetteria",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_10.mp3?v=fe062396"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_11",
@@ -4162,23 +4928,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "bere unregelmäßig: bevo, bevi, Partizip bevuto, Futur berrò. bere acqua ohne Artikel (allgemein), l'acqua = das Wasser. in mezzo = dazwischen, mittendrin.",
    "audio": "audio/it-de/wendungen/ma_11.mp3?v=d4499edc",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bevo acqua tutto il giorno. E un caffè. O due. L'acqua è in mezzo.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "Bevo acqua",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_11.mp3?v=7365a6a4"
    },
    "zeit": {
     "pc": {
      "fr": "Ho bevuto acqua tutto il giorno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_11_pc.mp3?v=801617ef"
     },
     "fp": {
      "fr": "Berrò acqua. Di più.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_11_fp.mp3?v=b8319415"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_12",
@@ -4190,23 +4962,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "sgranocchiare = knabbern (lautmalerisch: cro-cro); auch: spiluccare = naschen, piluccare. un quadretto di cioccolato = ein Stückchen Schokolade (il quadretto = Quadrätchen).",
    "audio": "audio/it-de/wendungen/ma_12.mp3?v=60d3262a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sgranocchio mentre correggo. Ogni errore, un quadretto di cioccolato.",
     "de": "Ich knabbere beim Korrigieren. Für jeden Fehler ein Stückchen Schokolade.",
     "luecke": "Sgranocchio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_12.mp3?v=62dd8af4"
    },
    "zeit": {
     "pc": {
      "fr": "Ho sgranocchiato tutto il pomeriggio.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_12_pc.mp3?v=a9809d9a"
     },
     "fp": {
      "fr": "Non sgranocchierò stasera. Vedremo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_12_fp.mp3?v=17320903"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_13",
@@ -4218,14 +4996,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich wie im Deutschen; stare bene = sich wohlfühlen (stare, nicht essere); proprio = eigen, nella mia pelle = in meiner Haut. Gegenteil: stare male nella propria pelle.",
    "audio": "audio/it-de/wendungen/ma_13.mp3?v=0a180ba8",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dopo lo sport sto bene nella mia pelle. Anche prima, ma meno.",
     "de": "Nach dem Sport fühle ich mich wohl in meiner Haut. Vorher auch, aber weniger.",
     "luecke": "sto bene nella mia pelle",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_13.mp3?v=1321569e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_14",
@@ -4237,23 +5019,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fare una pausa; ogni ora = jede Stunde; a volte = manchmal; durare = dauern (nicht „dürfen“). un'ora mit Apostroph (weiblich).",
    "audio": "audio/it-de/wendungen/ma_14.mp3?v=0e36289f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Faccio una pausa ogni ora. A volte la pausa dura un'ora.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "Faccio una pausa",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_14.mp3?v=7c68744b"
    },
    "zeit": {
     "pc": {
      "fr": "Ho fatto una pausa di dieci minuti.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_14_pc.mp3?v=23cfd4fc"
     },
     "fp": {
      "fr": "Farò una pausa. Adesso.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_14_fp.mp3?v=f4eec9cb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_15",
@@ -4265,23 +5053,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il ghiro = der Siebenschläfer (im Deutschen „wie ein Murmeltier“); auch: dormire come un sasso (Stein). russare = schnarchen.",
    "audio": "audio/it-de/wendungen/ma_15.mp3?v=da871fc2",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dopo il kung fu dormo come un ghiro. Un ghiro che russa.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Murmeltier. Ein Murmeltier, das schnarcht.",
     "luecke": "dormo come un ghiro",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_15.mp3?v=b3d370ae"
    },
    "zeit": {
     "pc": {
      "fr": "Ho dormito come un ghiro.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_15_pc.mp3?v=2b4af5ef"
     },
     "fp": {
      "fr": "Dormirò come un ghiro.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_15_fp.mp3?v=2779f45c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_16",
@@ -4293,14 +5087,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "smagliante = strahlend (un sorriso smagliante = strahlendes Lächeln); in forma smagliante = in Bestform. sospetto = verdächtig. sono le sei = es ist sechs Uhr (Plural!).",
    "audio": "audio/it-de/wendungen/ma_16.mp3?v=a12dc249",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Stamattina sono in forma smagliante. Sospetto. Sono le sei.",
     "de": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
     "luecke": "in forma smagliante",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_16.mp3?v=5db483e6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_17",
@@ -4312,23 +5110,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „einen Mundvoll Luft nehmen“ (la bocca = Mund, la boccata = Mundvoll, Zug); auch: prendere aria. il telefono / il cellulare / il telefonino = Handy.",
    "audio": "audio/it-de/wendungen/ma_17.mp3?v=562cb090",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "A mezzogiorno prendo una boccata d'aria dieci minuti. Senza telefono. Beh, quasi.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "prendo una boccata d'aria",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_17.mp3?v=78a63f62"
    },
    "zeit": {
     "pc": {
      "fr": "A mezzogiorno ho preso una boccata d'aria.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_17_pc.mp3?v=ee421d94"
     },
     "fp": {
      "fr": "A mezzogiorno prenderò una boccata d'aria.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_17_fp.mp3?v=e703b167"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_18",
@@ -4340,14 +5144,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la ricetta = Kochrezept und Arztrezept (ricetta medica); le lasagne (Plural!) – Bologna ist die Heimat von Lasagne, Tortellini und Ragù. l'ha avuta = er hat es bekommen (Angleichung: avuta).",
    "audio": "audio/it-de/wendungen/ma_18.mp3?v=2db0ab97",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ho una ricetta per le lasagne. Viene da Giovanni, che l'ha avuta da sua madre.",
     "de": "Ich habe ein Rezept für Lasagne. Es kommt von Giovanni, der es von seiner Mutter hat.",
     "luecke": "ricetta",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_18.mp3?v=849db8a3"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_19",
@@ -4359,23 +5167,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "assaggiare = kosten, probieren (Essen); un assaggio = Kostprobe; provare = ausprobieren (Kleidung, Dinge). un pochino = ein kleines bisschen.",
    "audio": "audio/it-de/wendungen/ma_19.mp3?v=7e11fb04",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Assaggia questo. No, davvero, assaggia. Poi puoi dire che non ti piace.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Assaggia",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_19.mp3?v=33786300"
    },
    "zeit": {
     "pc": {
      "fr": "Ho assaggiato. Non mi piace.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_19_pc.mp3?v=692d7a63"
     },
     "fp": {
      "fr": "Assaggerò. Un pochino.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_19_fp.mp3?v=5f8cb01c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_20",
@@ -4387,14 +5201,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "squisito = köstlich, exquisit; auch: buonissimo, delizioso, una delizia. cos'è = che cos'è = was ist das. meglio non + Infinitiv = besser nicht.",
    "audio": "audio/it-de/wendungen/ma_20.mp3?v=6c75013a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "È squisito! Cos'è? – Meglio non saperlo.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "squisito",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_20.mp3?v=3b9be800"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_21",
@@ -4406,23 +5224,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "avere sete/fame/sonno/freddo – immer mit avere; avere sete di = dürsten nach. educazione fisica (ed. fisica, ginnastica) = Schulsport.",
    "audio": "audio/it-de/wendungen/ma_21.mp3?v=665cca4d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dopo educazione fisica gli alunni hanno sete. Io ho sete di silenzio.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "hanno sete",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_21.mp3?v=981d3e19"
    },
    "zeit": {
     "pc": {
      "fr": "Dopo lo sport gli alunni avevano sete.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_21_pc.mp3?v=042fc1cc"
     },
     "fp": {
      "fr": "Dopo lo sport gli alunni avranno sete.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ma_21_fp.mp3?v=7152613e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ma_22",
@@ -4434,14 +5258,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "alzarsi = aufstehen; col = con + il; giusto = richtig. Gegenteil: alzarsi col piede sbagliato / sinistro. oggi + passato prossimo.",
    "audio": "audio/it-de/wendungen/ma_22.mp3?v=7eb04be9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Oggi mi sono alzato col piede giusto. Il sinistro. Come sempre.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "mi sono alzato col piede giusto",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_22.mp3?v=fcd07299"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_23",
@@ -4453,14 +5281,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "lo sfizio = Gelüst, kleine Laune (uno sfizio vor sf-); togliersi uno sfizio = sich etwas gönnen; sfizioso = reizvoll, lecker. la crostata = Mürbeteigkuchen mit Marmelade.",
    "audio": "audio/it-de/wendungen/ma_23.mp3?v=c8f903d9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Uno sfizio al giorno. Oggi: una crostata. Domani: un'altra crostata.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Crostata. Morgen: eine andere Crostata.",
     "luecke": "sfizio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_23.mp3?v=8f2e0087"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ma_24",
@@ -4472,14 +5304,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "vorrei = Konditional von volere, die höfliche Bestellform („ich hätte gern“); voglio wäre unhöflich. la rosetta = rundes Brötchen (Rom/Norden; auch: la michetta in Mailand). cotto = gebacken, gegart.",
    "audio": "audio/it-de/wendungen/ma_24.mp3?v=b3406911",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Buongiorno, vorrei una rosetta, per favore. Non troppo cotta.",
     "de": "Guten Tag, ich hätte gern ein Brötchen, bitte. Nicht zu dunkel.",
     "luecke": "vorrei",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ma_24.mp3?v=cd4364ea"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_01",
@@ -4491,23 +5327,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „die ganze Nacht schlafen“ – kein eigenes Wort für durchschlafen (auch: fare le notti intere, dormire di filato). lei, non ancora = betontes Pronomen.",
    "audio": "audio/it-de/wendungen/ba_01.mp3?v=b35ea69d",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il bambino della mia collega dorme tutta la notte. Lei, non ancora.",
     "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
     "luecke": "dorme tutta la notte",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_01.mp3?v=bed20b08"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha dormito tutta la notte.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_01_pc.mp3?v=8070e3ca"
     },
     "fp": {
      "fr": "Il bambino dormirà tutta la notte. Un giorno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_01_fp.mp3?v=3333ce74"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_02",
@@ -4519,14 +5361,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il peluche = Kuscheltier (aus dem Französischen, unveränderlich: i peluche); auch: il pupazzo. soprattutto = vor allem (doppeltes t!).",
    "audio": "audio/it-de/wendungen/ba_02.mp3?v=cc8de8fe",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Senza il suo peluche, impossibile dormire. Parlo del bambino. Beh, soprattutto.",
     "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
     "luecke": "peluche",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_02.mp3?v=5eb11a45"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_03",
@@ -4538,23 +5384,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "siehe I gatti: il guaio = Ärger; auch: fare marachelle (Streiche). il mestiere = Beruf, Handwerk; il mio = meiner (Possessivpronomen mit Artikel).",
    "audio": "audio/it-de/wendungen/ba_03.mp3?v=59866126",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "I bambini combinano guai. È il loro mestiere. Il mio è sorridere.",
     "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "luecke": "combinano guai",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_03.mp3?v=d79c849c"
    },
    "zeit": {
     "pc": {
      "fr": "Hanno combinato guai tutta la mattina.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_03_pc.mp3?v=f1757154"
     },
     "fp": {
      "fr": "Combineranno guai, sicuro.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_03_fp.mp3?v=7ebf0c87"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_04",
@@ -4566,23 +5418,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „in Arm nehmen“ (Singular! in braccio, ohne Artikel); tenere in braccio = auf dem Arm halten. lo si prende = man nimmt es (lo + si).",
    "audio": "audio/it-de/wendungen/ba_04.mp3?v=d2942df7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Quando un bambino piange, lo si prende in braccio. È l'unica regola.",
     "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "luecke": "prende in braccio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_04.mp3?v=158e5ec1"
    },
    "zeit": {
     "pc": {
      "fr": "L'ho preso in braccio.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_04_pc.mp3?v=e54e8653"
     },
     "fp": {
      "fr": "Lo prenderò in braccio.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_04_fp.mp3?v=70c163e7"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_05",
@@ -4594,14 +5452,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il neonato = Neugeborenes (neo + nato = neu geboren); il bambino = Kind, Baby; il bebè geht auch. dice tutto = sagt alles.",
    "audio": "audio/it-de/wendungen/ba_05.mp3?v=cd7c8324",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un neonato non parla, ma dice tutto.",
     "de": "Ein Baby spricht nicht, aber es sagt alles.",
     "luecke": "neonato",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_05.mp3?v=074c4a3e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_06",
@@ -4613,23 +5475,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fare un sorriso a qualcuno = jemanden anlächeln; sorridere = lächeln; il sorriso = das Lächeln. salvo = gerettet, sicher. la giornata = der Tag (Verlauf).",
    "audio": "audio/it-de/wendungen/ba_06.mp3?v=18badfcf",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il bambino mi ha fatto un sorriso. La giornata era salva.",
     "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "luecke": "mi ha fatto un sorriso",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_06.mp3?v=a9490fd6"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino mi ha fatto un sorriso.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_06_pc.mp3?v=33477120"
     },
     "fp": {
      "fr": "Il bambino mi farà un sorriso. Sto aspettando.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_06_fp.mp3?v=3c7fe73b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_07",
@@ -4641,23 +5509,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "crescere = wachsen, Partizip cresciuto, mit essere; in fretta = schnell, eilig (la fretta = Eile); invece = dagegen, hingegen; restare = bleiben.",
    "audio": "audio/it-de/wendungen/ba_07.mp3?v=ff8d7422",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "I bambini crescono troppo in fretta. I compiti, invece, restano.",
     "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
     "luecke": "crescono",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_07.mp3?v=03f6b34c"
    },
    "zeit": {
     "pc": {
      "fr": "Sono cresciuti durante le vacanze.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_07_pc.mp3?v=f12a929f"
     },
     "fp": {
      "fr": "Cresceranno, e io invecchierò.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_07_fp.mp3?v=f4adda8d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_08",
@@ -4669,23 +5543,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fare fatica a → ad vor Vokal (ad addormentarsi); addormentarsi = einschlafen (dormire = schlafen). più piano = leiser (piano = leise, langsam).",
    "audio": "audio/it-de/wendungen/ba_08.mp3?v=8de40529",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il piccolo fa fatica ad addormentarsi. Allora canto. Funziona. Piange più piano.",
     "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "luecke": "fa fatica ad addormentarsi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_08.mp3?v=339838d8"
    },
    "zeit": {
     "pc": {
      "fr": "Ha fatto fatica ad addormentarsi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_08_pc.mp3?v=2739e4c0"
     },
     "fp": {
      "fr": "Farà fatica ad addormentarsi.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_08_fp.mp3?v=7469cadb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_09",
@@ -4697,14 +5577,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il pannolino = Windel (il panno = Tuch + -lino = klein); cambiare il pannolino = wickeln. questa sì che è = das ist wirklich (Verstärkung).",
    "audio": "audio/it-de/wendungen/ba_09.mp3?v=7d0f0b64",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Cambiare un pannolino in tre minuti: questa sì che è una vera sequenza di kung fu.",
     "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "luecke": "pannolino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_09.mp3?v=11ec464e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_10",
@@ -4716,14 +5600,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „den Braven machen“; fai il bravo / fai la brava (an ein Mädchen); bravo = brav und tüchtig, gut (bravo! = gut gemacht). la lavatrice = Waschmaschine.",
    "audio": "audio/it-de/wendungen/ba_10.mp3?v=89563524",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "« Fai il bravo! » – « Faccio il bravo. » – « E perché il gatto è nella lavatrice? »",
     "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
     "luecke": "Fai il bravo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_10.mp3?v=0dba6fbc"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_11",
@@ -4735,23 +5623,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "giocare a + Spiel (giocare a calcio, a carte); il nascondino = Versteckspiel (nascondersi); la tenda = Vorhang und Zelt. fuori = draußen.",
    "audio": "audio/it-de/wendungen/ba_11.mp3?v=abf84340",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Giochiamo a nascondino. Si nasconde sempre dietro la tenda. Con i piedi fuori.",
     "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "luecke": "Giochiamo a nascondino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_11.mp3?v=c9e5cb60"
    },
    "zeit": {
     "pc": {
      "fr": "Abbiamo giocato a nascondino tutto il pomeriggio.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_11_pc.mp3?v=ed609448"
     },
     "fp": {
      "fr": "Giocheremo a nascondino dopo la merenda.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_11_fp.mp3?v=43420a2a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_12",
@@ -4763,23 +5657,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la favola della buonanotte = Gute-Nacht-Geschichte; per farlo addormentare = damit er einschläft (fare + Infinitiv). dormo io = ich bin der, der schläft (io nachgestellt).",
    "audio": "audio/it-de/wendungen/ba_12.mp3?v=13cad908",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Racconto una favola per farlo addormentare. Dopo tre pagine, dormo io.",
     "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "luecke": "Racconto una favola",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_12.mp3?v=93dba7bd"
    },
    "zeit": {
     "pc": {
      "fr": "Ho raccontato una favola.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_12_pc.mp3?v=7426659b"
     },
     "fp": {
      "fr": "Racconterò una favola.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_12_fp.mp3?v=67b308b8"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_13",
@@ -4791,23 +5691,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "piangere = weinen, Partizip pianto; ridere = lachen, Partizip riso. Nicht verwechseln: piangere (weinen) – piovere (regnen).",
    "audio": "audio/it-de/wendungen/ba_13.mp3?v=5bc53618",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il bambino piange. Poi ride. Poi piange. È un concerto.",
     "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "luecke": "piange",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_13.mp3?v=e86ea435"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha pianto tutta la notte.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_13_pc.mp3?v=66bfd650"
     },
     "fp": {
      "fr": "Il bambino piangerà, e io canterò.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_13_fp.mp3?v=53aa9235"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_14",
@@ -4819,14 +5725,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il braccio = Arm → l'abbraccio = Umarmung (abbracciare = umarmen); „un abbraccio“ auch als Briefschluss. tutti e due = beide.",
    "audio": "audio/it-de/wendungen/ba_14.mp3?v=06a69479",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Un abbraccio prima della scuola, e la giornata comincia bene. Per tutti e due.",
     "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "luecke": "abbraccio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_14.mp3?v=ca9fb67d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_15",
@@ -4838,23 +5748,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "imparare a + Infinitiv; camminare = gehen, laufen (zu Fuß), correre = rennen. il passo = Schritt; la caduta = Sturz; la risata = das Lachen.",
    "audio": "audio/it-de/wendungen/ba_15.mp3?v=9e4e8a25",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Impara a camminare. Tre passi, una caduta, una risata. La vita in miniatura.",
     "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "luecke": "Impara a camminare",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_15.mp3?v=4e4ab75e"
    },
    "zeit": {
     "pc": {
      "fr": "Ha imparato a camminare quest'estate.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_15_pc.mp3?v=baa0cc4a"
     },
     "fp": {
      "fr": "Imparerà a camminare presto.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_15_fp.mp3?v=fbd9cc27"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_16",
@@ -4866,14 +5782,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "fiero / fiera = stolz; essere fiero di (nicht „auf“!) – di + i = dei; auch: orgoglioso di. la fierezza, l'orgoglio = der Stolz.",
    "audio": "audio/it-de/wendungen/ba_16.mp3?v=3ba3dfcc",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sono fiero dei miei alunni. Soprattutto quando non lo sanno.",
     "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "luecke": "fiero dei",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_16.mp3?v=19ed0690"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_17",
@@ -4885,14 +5805,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la parola = Wort; le prime parole (weiblich Plural: prime). in quest'ordine = in dieser Reihenfolge (questo verkürzt vor Vokal). papà mit Akzent (ohne = der Papst!).",
    "audio": "audio/it-de/wendungen/ba_17.mp3?v=8fb1636f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Le sue prime parole: « papà », « gatto », « no ». In quest'ordine.",
     "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
     "luecke": "prime parole",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_17.mp3?v=6c03817c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_18",
@@ -4904,23 +5828,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "bisogna + Infinitiv = man muss; ne ho = ich habe welche (ne = davon); pazienza! = was soll's (sehr häufig). finire = enden, mit -isc-: finisce.",
    "audio": "audio/it-de/wendungen/ba_18.mp3?v=e298051f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Con i bambini bisogna avere pazienza. Ne ho. Finisce alle cinque.",
     "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
     "luecke": "avere pazienza",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_18.mp3?v=96b7ee99"
    },
    "zeit": {
     "pc": {
      "fr": "Ho avuto pazienza tutto il giorno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_18_pc.mp3?v=ef77ba4d"
     },
     "fp": {
      "fr": "Avrò pazienza. Fino a mezzogiorno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_18_fp.mp3?v=37cbf2eb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_19",
@@ -4932,14 +5862,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la merenda = Nachmittagssnack (fare merenda), feste Einrichtung für Kinder in Italien (pane e Nutella, pane e pomodoro). per solidarietà = aus Solidarität.",
    "audio": "audio/it-de/wendungen/ba_19.mp3?v=87f9c132",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Alle quattro c'è la merenda. Per i bambini. E per me, per solidarietà.",
     "de": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "luecke": "merenda",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_19.mp3?v=d74d36a7"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_20",
@@ -4951,23 +5885,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "wörtlich „lachen, bis die Haut platzt“ (crepare = platzen, la pelle = Haut); auch: ridere a più non posso. starnutire = niesen; in effetti = tatsächlich, übrigens.",
    "audio": "audio/it-de/wendungen/ba_20.mp3?v=864a0516",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il bambino ride a crepapelle quando il gatto starnutisce. Anch'io, in effetti.",
     "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "luecke": "ride a crepapelle",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_20.mp3?v=dd857d5d"
    },
    "zeit": {
     "pc": {
      "fr": "Il bambino ha riso a crepapelle.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_20_pc.mp3?v=4e7454a2"
     },
     "fp": {
      "fr": "Il bambino riderà a crepapelle.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_20_fp.mp3?v=bce1eaa4"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_21",
@@ -4979,23 +5919,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il riposino = kleines Ausruhen (il riposo = Ruhe + -ino); auch: fare un pisolino, la pennichella (römisch). i piccoli / i grandi = die Kleinen / die Großen.",
    "audio": "audio/it-de/wendungen/ba_21.mp3?v=bc7e59ee",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "I piccoli fanno il riposino. I grandi anche, in segreto.",
     "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "luecke": "fanno il riposino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_21.mp3?v=68ab89ce"
    },
    "zeit": {
     "pc": {
      "fr": "I piccoli hanno fatto il riposino.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_21_pc.mp3?v=c2b8be2a"
     },
     "fp": {
      "fr": "I piccoli faranno il riposino.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/ba_21_fp.mp3?v=555f7a27"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ba_22",
@@ -5007,14 +5953,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il buio = die Dunkelheit (buio = dunkel); avere paura di + il = del. lasciare aperto = offen lassen; di guardia = auf Wache (essere di guardia = Bereitschaft haben).",
    "audio": "audio/it-de/wendungen/ba_22.mp3?v=8cee2d93",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ha paura del buio. Allora lasciamo la porta aperta. E il gatto di guardia.",
     "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
     "luecke": "Ha paura del buio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_22.mp3?v=8806fec8"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_23",
@@ -5026,14 +5976,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il bagnetto = Babybad (il bagno = Bad, Badezimmer + -etto); fare il bagno = baden; bagnato = nass (bagnare = nass machen). anche quelli che = auch die, die.",
    "audio": "audio/it-de/wendungen/ba_23.mp3?v=63387b77",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "È l'ora del bagnetto! Sono tutti bagnati. Anche quelli che non fanno il bagno.",
     "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "luecke": "l'ora del bagnetto",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_23.mp3?v=5de9e9e0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ba_24",
@@ -5045,14 +5999,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "Alter mit avere: ha due anni; quanti anni ha? = wie alt ist er / sind Sie (Lei). suo figlio = Ihr Sohn (Lei-Form, oft Suo groß). il dente, Plural i denti.",
    "audio": "audio/it-de/wendungen/ba_24.mp3?v=0237ecce",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "È adorabile. Quanti anni ha suo figlio? – Quattordici mesi. E quattro denti.",
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Quanti anni ha suo figlio",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/ba_24.mp3?v=6c0903b8"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_01",
@@ -5064,14 +6022,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "caldo = warm, heiß (fa caldo = es ist heiß); kalt = freddo. Die bekannteste Falle für Deutsche, am Wasserhahn: C = caldo!",
    "audio": "audio/it-de/wendungen/fa_01.mp3?v=00c86c6b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il caffè è caldo. Caldo, non freddo. Il tedesco inganna.",
     "de": "Der Kaffee ist heiß. Heiß, nicht kalt. Das Deutsche täuscht.",
     "luecke": "caldo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_01.mp3?v=a0fed2e1"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_02",
@@ -5083,14 +6045,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la camera = Zimmer, Schlafzimmer (camera da letto, camera d'albergo); Kamera = la macchina fotografica (Foto) oder la telecamera (Film).",
    "audio": "audio/it-de/wendungen/fa_02.mp3?v=f5541cbb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ho una camera con vista. La macchina fotografica è nella camera.",
     "de": "Ich habe ein Zimmer mit Aussicht. Die Kamera ist im Zimmer.",
     "luecke": "camera",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_02.mp3?v=340d42ee"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_03",
@@ -5102,14 +6068,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la firma = Unterschrift (firmare = unterschreiben); Firma = l'azienda, la ditta, l'impresa. mi serve = ich brauche (servire wie piacere).",
    "audio": "audio/it-de/wendungen/fa_03.mp3?v=5982089b",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mi serve la sua firma. Non la sua azienda. Solo la firma.",
     "de": "Ich brauche Ihre Unterschrift. Nicht Ihre Firma. Nur die Unterschrift.",
     "luecke": "firma",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_03.mp3?v=4feb072f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_04",
@@ -5121,14 +6091,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "i confetti = Zuckermandeln (Hochzeit, Taufe: fünf pro Gast); Konfetti = i coriandoli. il matrimonio = Hochzeit (und Ehe).",
    "audio": "audio/it-de/wendungen/fa_04.mp3?v=97cd2e55",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Al matrimonio ci sono i confetti. Bianchi, di mandorla. I coriandoli sono di carta.",
     "de": "Bei der Hochzeit gibt es Zuckermandeln. Weiß, mit Mandel. Das Konfetti ist aus Papier.",
     "luecke": "confetti",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_04.mp3?v=397277b5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_05",
@@ -5140,14 +6114,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la cantina = Keller, Weinkeller, Weingut; Kantine = la mensa. il piano terra = Erdgeschoss. non confonderle = verwechsle sie nicht (verneinter Imperativ + le).",
    "audio": "audio/it-de/wendungen/fa_05.mp3?v=b989a05a",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il vino è in cantina. La mensa è al piano terra. Non confonderle.",
     "de": "Der Wein ist im Keller. Die Kantine ist im Erdgeschoss. Nicht verwechseln.",
     "luecke": "cantina",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_05.mp3?v=9707eb53"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_06",
@@ -5159,14 +6137,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la fattoria = Bauernhof (il fattore = Verwalter); engl. factory = la fabbrica. la gallina = Henne. Nella vecchia fattoria, ia-ia-o.",
    "audio": "audio/it-de/wendungen/fa_06.mp3?v=113febf4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Vivo in una fattoria. Con galline. Non in una fabbrica.",
     "de": "Ich lebe auf einem Bauernhof. Mit Hühnern. Nicht in einer Fabrik.",
     "luecke": "fattoria",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_06.mp3?v=f959ca49"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_07",
@@ -5178,14 +6160,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "educato = höflich, wohlerzogen (l'educazione = Erziehung, Manieren); engl. educated = istruito, colto. maleducato = unhöflich, ungezogen.",
    "audio": "audio/it-de/wendungen/fa_07.mp3?v=86e7b8c7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il mio gatto è educato. Non è istruito. Educato.",
     "de": "Meine Katze ist wohlerzogen. Nicht gebildet. Wohlerzogen.",
     "luecke": "educato",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_07.mp3?v=1b9bfd24"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_08",
@@ -5197,14 +6183,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "eventualmente = gegebenenfalls, eventuell; engl. eventually = alla fine, infine. Wie frz. éventuellement und sp. eventualmente.",
    "audio": "audio/it-de/wendungen/fa_08.mp3?v=0cfe0b9c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Eventualmente verrò. Alla fine sono venuto. Non è la stessa cosa.",
     "de": "Möglicherweise komme ich. Schließlich bin ich gekommen. Das ist nicht dasselbe.",
     "luecke": "Eventualmente",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_08.mp3?v=1369494a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_09",
@@ -5216,14 +6206,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "attualmente = zurzeit (attuale = gegenwärtig); engl. actually = in realtà, veramente. Dieselbe Falle wie actuellement / actualmente.",
    "audio": "audio/it-de/wendungen/fa_09.mp3?v=90237665",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Attualmente correggo compiti. In realtà guardo il gatto.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Attualmente",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_09.mp3?v=02194b69"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_10",
@@ -5235,14 +6229,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la libreria = Buchhandlung und Bücherregal; engl. library = la biblioteca. prendere in prestito = ausleihen; restituire = zurückgeben.",
    "audio": "audio/it-de/wendungen/fa_10.mp3?v=3d7a7ede",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In libreria si compra. In biblioteca si prende in prestito. E si restituisce. In teoria.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "libreria",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_10.mp3?v=eb5ff8e3"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_11",
@@ -5254,23 +6252,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "assistere a = beiwohnen; assistere qualcuno (ohne a) = jemandem beistehen, pflegen; engl. to assist = aiutare. lì = dort.",
    "audio": "audio/it-de/wendungen/fa_11.mp3?v=429a3752",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Assisto a una riunione. Non aiuto nessuno. Sono solo lì.",
     "de": "Ich wohne einer Sitzung bei. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "Assisto a",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_11.mp3?v=d90a1425"
    },
    "zeit": {
     "pc": {
      "fr": "Ho assistito a una riunione di tre ore.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/fa_11_pc.mp3?v=af065ec7"
     },
     "fp": {
      "fr": "Assisterò a una riunione. Di nuovo.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/fa_11_fp.mp3?v=74d98e16"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_12",
@@ -5282,23 +6286,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "pretendere = verlangen, erwarten, beanspruchen (pretende troppo = er verlangt zu viel); engl. to pretend = fare finta (di). Dreifach anders: frz. prétendre = behaupten, sp. pretender = vorhaben.",
    "audio": "audio/it-de/wendungen/fa_12.mp3?v=19e45eea",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Pretende di passare senza studiare. E fa finta di studiare.",
     "de": "Er beansprucht, ohne Lernen zu bestehen. Und tut so, als lerne er.",
     "luecke": "Pretende",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_12.mp3?v=64d4026a"
    },
    "zeit": {
     "pc": {
      "fr": "Pretendeva di passare senza studiare.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/fa_12_pc.mp3?v=9de7f6bc"
     },
     "fp": {
      "fr": "Pretenderà di passare senza studiare.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/fa_12_fp.mp3?v=4b47b85b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_13",
@@ -5310,14 +6320,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "sensibile = empfindlich, feinfühlig; engl. sensible = ragionevole, sensato. Betonung: sen-SI-bile. Wie frz. sensible, sp. sensible.",
    "audio": "audio/it-de/wendungen/fa_13.mp3?v=2f34c6e5",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il mio gatto è molto sensibile. Non ragionevole. Sensibile.",
     "de": "Meine Katze ist sehr empfindsam. Nicht vernünftig. Empfindsam.",
     "luecke": "sensibile",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_13.mp3?v=a4b7dbbb"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_14",
@@ -5329,14 +6343,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "morbido = weich, zart (von lat. morbidus = krank, weich); engl. morbid = morboso. niente di + Adjektiv = nichts … (niente di nuovo).",
    "audio": "audio/it-de/wendungen/fa_14.mp3?v=ea9056ad",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Il divano è morbido. Il gatto anche. Niente di morboso.",
     "de": "Das Sofa ist weich. Die Katze auch. Nichts Krankhaftes.",
     "luecke": "morbido",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_14.mp3?v=502694a5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_15",
@@ -5348,14 +6366,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "i parenti = Verwandte (il parente = der Verwandte); engl. parents = i genitori. Wie frz. parents (beides!). a Natale = zu Weihnachten.",
    "audio": "audio/it-de/wendungen/fa_15.mp3?v=f9c30476",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "A Natale vengono i parenti. Tutti. I genitori sono solo due.",
     "de": "Zu Weihnachten kommen die Verwandten. Alle. Eltern sind nur zwei.",
     "luecke": "parenti",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_15.mp3?v=e5a8b14e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_16",
@@ -5367,14 +6389,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il preservativo = Kondom; engl. preservative = il conservante. Dieselbe Falle wie frz. préservatif, sp. preservativo. la marmellata = Marmelade.",
    "audio": "audio/it-de/wendungen/fa_16.mp3?v=74da9e29",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "« Senza preservativi » su una marmellata? No. Si dice « senza conservanti ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "preservativi",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_16.mp3?v=233c8655"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_17",
@@ -5386,14 +6412,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il rumore = Lärm, Geräusch (rumoroso = laut); engl. rumour = la voce, la diceria (voci di corridoio = Flurfunk). e basta = und fertig, mehr nicht.",
    "audio": "audio/it-de/wendungen/fa_17.mp3?v=8b33f108",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In classe c'è rumore. Non voci di corridoio. Rumore e basta.",
     "de": "In der Klasse ist Lärm. Keine Gerüchte. Nur Lärm.",
     "luecke": "rumore",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_17.mp3?v=3a35adea"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_18",
@@ -5405,14 +6435,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la stanza = Zimmer, Raum (wie la camera); engl. stanza (Strophe) = la strofa. la parete = Wand (innen), il muro = Mauer. la poesia = Gedicht.",
    "audio": "audio/it-de/wendungen/fa_18.mp3?v=50b4827e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Una stanza tutta per me. Con una poesia alla parete. Di tre strofe.",
     "de": "Ein Zimmer ganz für mich. Mit einem Gedicht an der Wand. Mit drei Strophen.",
     "luecke": "stanza",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_18.mp3?v=628090af"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_19",
@@ -5424,14 +6458,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il casino = Durcheinander, Chaos (umgangssprachlich; ursprünglich Bordell – nicht am Schalter sagen!); Spielcasino = il casinò (Betonung hinten!). un casino di = jede Menge.",
    "audio": "audio/it-de/wendungen/fa_19.mp3?v=88866658",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "In sala professori c'è un casino. Non si gioca. È solo disordine.",
     "de": "Im Lehrerzimmer ist ein Chaos. Es wird nicht gespielt. Es ist nur Unordnung.",
     "luecke": "casino",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_19.mp3?v=811dd60a"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_20",
@@ -5443,14 +6481,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "il burro = Butter; sp. burro = Esel (ital. l'asino). pasta al burro = Nudeln mit Butter. chiedere = bitten um, fragen. Diego kennt Giovanni jetzt.",
    "audio": "audio/it-de/wendungen/fa_20.mp3?v=f6deb1c3",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Chiedo il burro a Siviglia e Diego ride. In Spagna « burro » è un asino.",
     "de": "Ich verlange in Sevilla Butter, und Diego lacht. In Spanien ist „burro“ ein Esel.",
     "luecke": "burro",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_20.mp3?v=c9cfb352"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_21",
@@ -5462,23 +6504,29 @@ window.SPRACHEN["it-de"] = {
    "notiz": "salire = hinaufgehen, einsteigen (salgo, sali; mit essere); frz. salir = sporcare, sp. salir = uscire (hinausgehen). Dreifachfalle. scendere = aussteigen.",
    "audio": "audio/it-de/wendungen/fa_21.mp3?v=0b639b6c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Salgo sul treno. Non lo sporco. In francese « salir » è sporcare.",
     "de": "Ich steige in den Zug ein. Ich mache ihn nicht schmutzig. Auf Französisch heißt „salir“ beschmutzen.",
     "luecke": "Salgo",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_21.mp3?v=5a0f2767"
    },
    "zeit": {
     "pc": {
      "fr": "Sono salito sul treno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/fa_21_pc.mp3?v=08c50e6e"
     },
     "fp": {
      "fr": "Salirò sul treno.",
+     "umschrift": null,
      "audio": "audio/it-de/saetze/fa_21_fp.mp3?v=fa354c59"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "fa_22",
@@ -5490,14 +6538,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "largo = breit (wie frz. large); lang = lungo; groß = grande. sp. largo = lang! Also: ital. largo = sp. ancho, sp. largo = ital. lungo.",
    "audio": "audio/it-de/wendungen/fa_22.mp3?v=e06b60d5",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Una strada larga. Non lunga. Larga. Lo spagnolo dice il contrario.",
     "de": "Eine breite Straße. Nicht lang. Breit. Das Spanische sagt das Gegenteil.",
     "luecke": "larga",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_22.mp3?v=e26e3738"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_23",
@@ -5509,14 +6561,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "la gamba = Bein; sp. gamba = Garnele = ital. il gambero / il gamberetto. mi fa male = tut mir weh. in gamba = tüchtig, fit (essere in gamba).",
    "audio": "audio/it-de/wendungen/fa_23.mp3?v=75c202c3",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mi fa male la gamba. In Spagna mi porterebbero un gamberetto.",
     "de": "Mein Bein tut weh. In Spanien würde man mir eine Garnele bringen.",
     "luecke": "gamba",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_23.mp3?v=f45db543"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "fa_24",
@@ -5528,14 +6584,18 @@ window.SPRACHEN["it-de"] = {
    "notiz": "scusi = Lei-Form von scusare (unter Freunden: scusa); cercare = suchen (ohne Präposition: cerco la biblioteca). gratis = kostenlos (auch: gratuito).",
    "audio": "audio/it-de/wendungen/fa_24.mp3?v=875a700f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Scusi, cerco la biblioteca. – La libreria? – No, la biblioteca. Quella con i libri gratis.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
     "luecke": "cerco la biblioteca",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/it-de/saetze/fa_24.mp3?v=45bd29be"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   }
  ],
  "dialoge": [
@@ -5549,6 +6609,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Ciao Giovanni! Quanto tempo!",
      "de": "Hallo Giovanni! Lange nicht gesehen!",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_01.mp3?v=bbf7344f"
     },
     {
@@ -5556,6 +6617,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Ciao Alex. Tre giorni. Ma sì, un'eternità.",
      "de": "Hallo Alex. Drei Tage. Aber ja, eine Ewigkeit.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_02.mp3?v=79ef4390"
     },
     {
@@ -5563,6 +6625,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Allora, la lezione con la terza, com'è andata?",
      "de": "Und, die Stunde mit der Dritten, wie ist es gelaufen?",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_03.mp3?v=3544d901"
     },
     {
@@ -5570,6 +6633,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Benissimo. Si sono addormentati. Anch'io, quasi.",
      "de": "Sehr gut. Sie sind eingeschlafen. Ich fast auch.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_04.mp3?v=917c730c"
     },
     {
@@ -5577,6 +6641,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Io faccio fatica a farli stare zitti il venerdì.",
      "de": "Ich kriege sie freitags kaum ruhig.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_05.mp3?v=9519c433"
     },
     {
@@ -5584,6 +6649,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Facile. Parli di grammatica. Silenzio totale.",
      "de": "Ganz einfach. Du redest über Grammatik. Totenstille.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_06.mp3?v=92e7198b"
     },
     {
@@ -5591,6 +6657,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "E tu? Non sei distrutto?",
      "de": "Und du? Bist du nicht fix und fertig?",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_07.mp3?v=d3e45bc3"
     },
     {
@@ -5598,6 +6665,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Sì. Quindi stasera correggo i compiti… davanti a un film.",
      "de": "Doch. Also korrigiere ich heute Abend Arbeiten … vor einem Film.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_08.mp3?v=fcb14fe4"
     },
     {
@@ -5605,6 +6673,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Un bel film?",
      "de": "Ein guter Film?",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_09.mp3?v=1f95e5c8"
     },
     {
@@ -5612,6 +6681,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Non lo so. Guardo i compiti.",
      "de": "Keine Ahnung. Ich schaue die Arbeiten an.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d1_10.mp3?v=038411c0"
     }
    ]
@@ -5626,6 +6696,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Tutto bene, Alex? Hai una faccia cupa.",
      "de": "Alles klar, Alex? Du siehst düster aus.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_01.mp3?v=9febab0f"
     },
     {
@@ -5633,6 +6704,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Sono giù di morale. Il mio gatto non mi guarda più.",
      "de": "Ich bin niedergeschlagen. Meine Katze schaut mich nicht mehr an.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_02.mp3?v=26ec32bb"
     },
     {
@@ -5640,6 +6712,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Da quando?",
      "de": "Seit wann?",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_03.mp3?v=cc940ee7"
     },
     {
@@ -5647,6 +6720,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Da quando ho cantato in italiano.",
      "de": "Seit ich auf Italienisch gesungen habe.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_04.mp3?v=d5527f2d"
     },
     {
@@ -5654,6 +6728,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Ah. E cosa hai cantato?",
      "de": "Ah. Und was hast du gesungen?",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_05.mp3?v=a6e5b492"
     },
     {
@@ -5661,6 +6736,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "« Volare ». A squarciagola. Due volte.",
      "de": "„Volare“. Aus voller Kehle. Zweimal.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_06.mp3?v=60242746"
     },
     {
@@ -5668,6 +6744,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "Alex… mi spezza il cuore, ma il tuo gatto ha ragione.",
      "de": "Alex … das bricht mir das Herz, aber deine Katze hat recht.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_07.mp3?v=d9794632"
     },
     {
@@ -5675,6 +6752,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Lo trovi inquietante?",
      "de": "Findest du das beunruhigend?",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_08.mp3?v=bc58d52e"
     },
     {
@@ -5682,6 +6760,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "B",
      "fr": "No. Lo trovo rilassante. Per il gatto è finita.",
      "de": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_09.mp3?v=d126844a"
     },
     {
@@ -5689,6 +6768,7 @@ window.SPRACHEN["it-de"] = {
      "rolle": "A",
      "fr": "Grazie, Giovanni. Mi tocca. Credo.",
      "de": "Danke, Giovanni. Das berührt mich. Glaube ich.",
+     "umschrift": null,
      "audio": "audio/it-de/dialoge/d2_10.mp3?v=0c88daf4"
     }
    ]
@@ -5716,6 +6796,7 @@ window.SPRACHEN["it-de"] = {
   "paare": [],
   "beide": []
  },
+ "aussprachen": [],
  "geschichte": [
   {
    "nr": 1,
@@ -5725,84 +6806,98 @@ window.SPRACHEN["it-de"] = {
      "id": "k01_01",
      "fr": "Chiara Rossi era professoressa a Bologna. Una professoressa normale. Beh, quasi.",
      "de": "Chiara Rossi war Lehrerin in Bologna. Eine normale Lehrerin. Na ja, fast.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_01.mp3?v=9e30d190"
     },
     {
      "id": "k01_02",
      "fr": "Quel venerdì pomeriggio **correggeva i compiti**, come tutti i venerdì. **Era distrutta**. Fuori pioveva. Dentro, il suo gatto **faceva un pisolino** sui compiti già corretti.",
      "de": "An jenem Freitagnachmittag korrigierte sie Arbeiten, wie jeden Freitag. Sie war fix und fertig. Draußen regnete es. Drinnen machte ihre Katze ein Nickerchen auf den schon korrigierten Arbeiten.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_02.mp3?v=45ea9f04"
     },
     {
      "id": "k01_03",
      "fr": "Il compito numero diciassette era quello di Luca, un alunno di terza che scriveva poco, ma bene.",
      "de": "Die siebzehnte Arbeit war die von Luca, einem Schüler der Dritten, der wenig schrieb, aber gut.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_03.mp3?v=31f437e9"
     },
     {
      "id": "k01_04",
      "fr": "Tra pagina due e pagina tre c'era qualcosa. Un biglietto. Un biglietto d'ingresso per la Torre degli Asinelli.",
      "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Karte. Eine Eintrittskarte für die Torre degli Asinelli.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_04.mp3?v=ce6cee02"
     },
     {
      "id": "k01_05",
      "fr": "Chiara ha guardato la data. Domani. Sabato. Dieci di mattina.",
      "de": "Chiara sah auf das Datum. Morgen. Samstag. Zehn Uhr morgens.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_05.mp3?v=5bb8b3ff"
     },
     {
      "id": "k01_06",
      "fr": "Sul retro, qualcuno aveva scritto in lettere blu: « Gradino 249. Venga sola. E non abbia paura. »",
      "de": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: „Stufe 249. Kommen Sie allein. Und haben Sie keine Angst.“",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_06.mp3?v=b90e4867"
     },
     {
      "id": "k01_07",
      "fr": "Chiara **non aveva paura**. Non ancora. **Faceva fatica a** capire, tutto qui.",
      "de": "Chiara hatte keine Angst. Noch nicht. Es fiel ihr nur schwer, das zu verstehen, das war alles.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_07.mp3?v=620f1bda"
     },
     {
      "id": "k01_08",
      "fr": "Luca non era un alunno misterioso. Era un alunno che disegnava gatti ai margini.",
      "de": "Luca war kein geheimnisvoller Schüler. Er war ein Schüler, der Katzen an den Rand malte.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_08.mp3?v=eb4ead6a"
     },
     {
      "id": "k01_09",
      "fr": "Chiara ha guardato il suo gatto. Il gatto ha guardato lei. **Aveva uno sguardo** che diceva: « Vai. »",
      "de": "Chiara sah ihre Katze an. Die Katze sah sie an. Sie hatte einen Blick, der sagte: „Geh.“",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_09.mp3?v=430b345e"
     },
     {
      "id": "k01_10",
      "fr": "« È uno scherzo », ha detto Chiara ad alta voce. Il gatto non ha detto niente. I gatti non dicono mai niente. È la loro forza.",
      "de": "„Das ist ein Scherz“, sagte Chiara laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_10.mp3?v=6c02edab"
     },
     {
      "id": "k01_11",
      "fr": "Quella notte Chiara **non ha dormito tutta la notte**. Ha sognato una scala senza fine e una porta che non era su nessuna pianta.",
      "de": "In jener Nacht schlief Chiara nicht durch. Sie träumte von einer endlosen Treppe und einer Tür, die auf keinem Plan war.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_11.mp3?v=dc6586b6"
     },
     {
      "id": "k01_12",
      "fr": "Alle sette si è alzata. **Col piede giusto**. Il sinistro. Come sempre.",
      "de": "Um sieben stand sie auf. Mit dem richtigen Fuß. Dem linken. Wie immer.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_12.mp3?v=9230ca5f"
     },
     {
      "id": "k01_13",
      "fr": "**Ha fatto la spesa** del sabato. Poi ha guardato l'orologio. Nove e un quarto. La Torre era a dieci minuti a piedi, sotto i portici.",
      "de": "Sie machte den Samstagseinkauf. Dann sah sie auf die Uhr. Viertel nach neun. Der Turm war zehn Minuten zu Fuß entfernt, unter den Arkaden.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_13.mp3?v=10045ff0"
     },
     {
      "id": "k01_14",
      "fr": "« Vado solo a guardare », ha detto al gatto. Il gatto ha chiuso gli occhi. Sapeva che non era vero.",
      "de": "„Ich schau nur“, sagte sie zur Katze. Die Katze schloss die Augen. Sie wusste, dass das nicht stimmte.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k01_14.mp3?v=8889d6dc"
     }
    ]
@@ -5815,90 +6910,105 @@ window.SPRACHEN["it-de"] = {
      "id": "k02_01",
      "fr": "Alle dieci meno cinque Chiara era sotto le Due Torri. Era la prima volta che ci andava senza trenta alunni dietro.",
      "de": "Um fünf vor zehn stand Chiara unter den Zwei Türmen. Es war das erste Mal, dass sie ohne dreißig Schüler im Schlepptau hinging.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_01.mp3?v=0aaacf02"
     },
     {
      "id": "k02_02",
      "fr": "Il biglietto era vero. L'uomo della biglietteria l'ha guardata, ha guardato il biglietto e ha detto: « Gradino 249. Sempre dritto, poi su. » Senza che lei chiedesse.",
      "de": "Die Karte war echt. Der Mann an der Kasse sah sie an, sah die Karte an und sagte: „Stufe 249. Immer geradeaus, dann hinauf.“ Ohne dass sie gefragt hätte.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_02.mp3?v=0a93df33"
     },
     {
      "id": "k02_03",
      "fr": "**Era inquietante**. Un po'. Chiara ha deciso che era gentile.",
      "de": "Das war unheimlich. Ein bisschen. Chiara beschloss, dass es freundlich war.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_03.mp3?v=cf080967"
     },
     {
      "id": "k02_04",
      "fr": "Sotto i portici **era tranquillo**. Troppo. Niente turisti, niente studenti, niente biciclette. Solo la pioggia sulle colonne e l'odore di caffè.",
      "de": "Unter den Arkaden war es ruhig. Zu ruhig. Keine Touristen, keine Studenten, keine Fahrräder. Nur der Regen auf den Säulen und der Geruch von Kaffee.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_04.mp3?v=ff774c49"
     },
     {
      "id": "k02_05",
      "fr": "E un gatto. Un **gatto randagio**, grigio, seduto ai piedi della Garisenda come se fosse sua.",
      "de": "Und eine Katze. Eine graue Straßenkatze, die am Fuß der Garisenda saß, als gehörte sie ihr.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_05.mp3?v=b4a303b9"
     },
     {
      "id": "k02_06",
      "fr": "Il gatto l'ha guardata. Chiara conosceva quello sguardo. Era lo sguardo del suo gatto. Esattamente lo stesso.",
      "de": "Die Katze sah sie an. Chiara kannte diesen Blick. Es war der Blick ihrer eigenen Katze. Genau derselbe.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_06.mp3?v=ebe82556"
     },
     {
      "id": "k02_07",
      "fr": "« È impossibile », ha pensato. « Il mio gatto è a casa, a dormire su un compito di terza. »",
      "de": "„Das ist unmöglich“, dachte sie. „Meine Katze liegt zu Hause und schläft auf einer Arbeit der Dritten.“",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_07.mp3?v=3d7a90ee"
     },
     {
      "id": "k02_08",
      "fr": "Il gatto grigio si è alzato, **si è strusciato contro** una colonna ed è andato piano verso la porta della Torre. Poi si è girato. Aspettava.",
      "de": "Die graue Katze stand auf, rieb sich an einer Säule und ging langsam zur Tür des Turms. Dann drehte sie sich um. Sie wartete.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_08.mp3?v=d0862f21"
     },
     {
      "id": "k02_09",
      "fr": "Chiara **aveva il magone**. Ma aveva anche curiosità. La curiosità, in una professoressa, vince sempre.",
      "de": "Chiara hatte einen Kloß im Hals. Aber sie war auch neugierig. Die Neugier gewinnt bei einer Lehrerin immer.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_09.mp3?v=cdfda8e7"
     },
     {
      "id": "k02_10",
      "fr": "Ha seguito il gatto. Sono entrati nella Torre. Quattrocentonovantotto gradini di legno, stretti, ripidi. Chiara li aveva saliti venti volte con gli alunni.",
      "de": "Sie folgte der Katze. Sie betraten den Turm. Vierhundertachtundneunzig Holzstufen, eng, steil. Chiara war sie zwanzigmal mit Schülern hinaufgestiegen.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_10.mp3?v=fcf5b0ef"
     },
     {
      "id": "k02_11",
      "fr": "Il gatto saliva davanti. Non si fermava mai. Chiara contava i gradini. Cento. Duecento. Le gambe bruciavano.",
      "de": "Die Katze stieg voran. Sie blieb nie stehen. Chiara zählte die Stufen. Hundert. Zweihundert. Die Beine brannten.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_11.mp3?v=83d13ef8"
     },
     {
      "id": "k02_12",
      "fr": "Duecentoquarantanove. Il gatto si è fermato. Lì, dove c'era sempre stato un muro di mattoni, oggi c'era una porta.",
      "de": "Zweihundertneunundvierzig. Die Katze blieb stehen. Dort, wo immer eine Backsteinmauer gewesen war, war heute eine Tür.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_12.mp3?v=8f0a8462"
     },
     {
      "id": "k02_13",
      "fr": "Piccola, di legno scuro, senza maniglia. Chiara l'aveva superata venti volte senza vederla. Perché non c'era.",
      "de": "Klein, aus dunklem Holz, ohne Klinke. Chiara war zwanzigmal daran vorbeigegangen, ohne sie zu sehen. Weil sie nicht da gewesen war.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_13.mp3?v=e280bb23"
     },
     {
      "id": "k02_14",
      "fr": "Il gatto si è seduto davanti alla porta. E, per la prima volta, **ha miagolato**.",
      "de": "Die Katze setzte sich vor die Tür. Und miaute, zum ersten Mal.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_14.mp3?v=9dd30f0b"
     },
     {
      "id": "k02_15",
      "fr": "Chiara ha guardato l'orologio. Le dieci e un quarto. « **Prenditi il tuo tempo** », si è detta. Non se l'è preso.",
      "de": "Chiara sah auf die Uhr. Viertel nach zehn. „Lass dir Zeit“, sagte sie sich. Sie ließ sich keine.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k02_15.mp3?v=58827ad3"
     }
    ]
@@ -5911,90 +7021,105 @@ window.SPRACHEN["it-de"] = {
      "id": "k03_01",
      "fr": "La porta era di legno scuro, con una piastrella piccola al centro: un gatto blu su fondo bianco.",
      "de": "Die Tür war aus dunklem Holz, mit einer kleinen Kachel in der Mitte: eine blaue Katze auf weißem Grund.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_01.mp3?v=871ba540"
     },
     {
      "id": "k03_02",
      "fr": "Nessun cartello. Nessun numero. In una torre con novecento anni di cartelli, era già strano.",
      "de": "Kein Schild. Keine Nummer. In einem Turm mit neunhundert Jahren Schildern war das schon seltsam.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_02.mp3?v=d0e3b32d"
     },
     {
      "id": "k03_03",
      "fr": "Chiara ha spinto. La porta si è aperta senza rumore. **All'improvviso**, il vento sulla scala ha smesso di fischiare.",
      "de": "Chiara drückte. Die Tür öffnete sich lautlos. Plötzlich hörte der Wind auf der Treppe auf zu pfeifen.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_03.mp3?v=5c9029b7"
     },
     {
      "id": "k03_04",
      "fr": "Dietro c'era una stanza piccola, rotonda, con le pareti coperte di piastrelle. Centinaia di piastrelle. E su ognuna, un gatto.",
      "de": "Dahinter lag ein kleiner, runder Raum, die Wände voller Kacheln. Hunderte Kacheln. Und auf jeder eine Katze.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_04.mp3?v=a173dacc"
     },
     {
      "id": "k03_05",
      "fr": "Gatti seduti, gatti addormentati, gatti che guardavano. Gatti del Duecento con la stessa faccia del gatto di Chiara.",
      "de": "Sitzende Katzen, schlafende Katzen, Katzen, die schauten. Katzen aus dem dreizehnten Jahrhundert mit demselben Gesicht wie Chiaras Katze.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_05.mp3?v=051288d7"
     },
     {
      "id": "k03_06",
      "fr": "Al centro della stanza, una finestra. Senza vetro. E sopra la finestra, una piastrella diversa: più grande, più antica, con un gatto che non guardava nessuno. Guardava verso la porta.",
      "de": "In der Mitte des Raums ein Fenster. Ohne Glas. Und über dem Fenster eine andere Kachel: größer, älter, mit einer Katze, die niemanden ansah. Sie sah zur Tür.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_06.mp3?v=73fcdde1"
     },
     {
      "id": "k03_07",
      "fr": "Chiara si è avvicinata. Le piastrelle erano fredde. Tutte tranne una.",
      "de": "Chiara trat näher. Die Kacheln waren kalt. Alle bis auf eine.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_07.mp3?v=a3868656"
     },
     {
      "id": "k03_08",
      "fr": "La piastrella grande era tiepida. Come un gatto al sole.",
      "de": "Die große Kachel war lauwarm. Wie eine Katze in der Sonne.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_08.mp3?v=164d3759"
     },
     {
      "id": "k03_09",
      "fr": "E allora l'ha sentito. Piano. Regolare. **Le fusa**.",
      "de": "Und dann hörte sie es. Leise. Gleichmäßig. Ein Schnurren.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_09.mp3?v=18f42f21"
     },
     {
      "id": "k03_10",
      "fr": "Chiara è rimasta ferma. Il gatto grigio, accanto a lei, anche. Tutti e due ascoltavano la stessa piastrella.",
      "de": "Chiara blieb stehen. Die graue Katze neben ihr auch. Beide lauschten derselben Kachel.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_10.mp3?v=a0e337b9"
     },
     {
      "id": "k03_11",
      "fr": "« Questo non è sulla pianta », ha detto Chiara. Era la cosa più sensata che le è venuta in mente.",
      "de": "„Das steht nicht auf dem Plan“, sagte Chiara. Es war das Vernünftigste, was ihr einfiel.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_11.mp3?v=a5e55c84"
     },
     {
      "id": "k03_12",
      "fr": "Dietro di lei, una voce. Calma, anziana, un po' roca. « No, signora. Questa stanza non è su nessuna pianta. Per questo è ancora qui. »",
      "de": "Hinter ihr eine Stimme. Ruhig, alt, ein bisschen heiser. „Nein, Signora. Dieser Raum steht auf keinem Plan. Deshalb ist er noch da.“",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_12.mp3?v=28d642a1"
     },
     {
      "id": "k03_13",
      "fr": "Chiara si è girata **di scatto**. Sulla porta c'era un uomo con un berretto di lana e un mazzo di chiavi grande come un piatto.",
      "de": "Chiara fuhr herum. In der Tür stand ein Mann mit Wollmütze und einem Schlüsselbund so groß wie ein Teller.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_13.mp3?v=f4e2ee19"
     },
     {
      "id": "k03_14",
      "fr": "« Sono il custode », ha detto. « Lavoro qui dal 1934. E lei è in ritardo. Venti minuti. »",
      "de": "„Ich bin der Wächter“, sagte er. „Ich arbeite hier seit 1934. Und Sie sind zu spät. Zwanzig Minuten.“",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_14.mp3?v=fa887b10"
     },
     {
      "id": "k03_15",
      "fr": "Chiara ha fatto i conti. 1934. L'uomo aveva, al massimo, sessant'anni. **Non aveva senso**. Eppure Chiara ha detto: « Mi dispiace. » È quello che dicono i professori.",
      "de": "Chiara rechnete nach. 1934. Der Mann war höchstens sechzig. Das ergab keinen Sinn. Und trotzdem sagte Chiara: „Es tut mir leid.“ Das sagen Lehrer eben.",
+     "umschrift": null,
      "audio": "audio/it-de/geschichte/k03_15.mp3?v=d58f2b86"
     }
    ]

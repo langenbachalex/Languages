@@ -36,10 +36,13 @@ def auftraege(P):
             if z["passe_compose"]:
                 liste.append((f"audio/{paar}/saetze/{wid}_pc.mp3", s(z["passe_compose"]), n))
                 liste.append((f"audio/{paar}/saetze/{wid}_fp.mp3", s(z["futur_proche"]), n))
+            if (z.get("syrisch") or "").strip():   # Arabisch: syrische Variante, Stimme „s“ (STIMME_S)
+                liste.append((f"audio/{paar}/syrisch/{wid}.mp3", z["syrisch"], "s"))
     for z in bauen.tsv(inhalte, "dialoge.tsv"):
         liste.append((f"audio/{paar}/dialoge/{z['id']}.mp3", s(z["fr"]), "a" if z["rolle"] == "A" else "b"))
-    for z in (bauen.tsv(inhalte, P.AUSSPRACHE["datei"]) if P.AUSSPRACHE else []):
-        liste.append((f"audio/{paar}/{P.AUSSPRACHE['id']}/{z['id']}.mp3", s(bauen.rein(z["wort"])), "w" + n))
+    for A in bauen.aussprache_module(P):
+        for z in bauen.tsv(inhalte, A["datei"]):
+            liste.append((f"audio/{paar}/{A['id']}/{z['id']}.mp3", s(bauen.rein(z["wort"])), "w" + n))
     for z in bauen.tsv(inhalte, "geschichte.tsv"):
         liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), n))
     for z in bauen.tsv(inhalte, "orte.tsv"):
@@ -75,7 +78,7 @@ def vorspann_schneiden(pfad):
 def erzeugen(P, pfad, text, stimme):
     """stimme: „a“ Mr. Alex, „b“ zweite Stimme, „wa“/„wb“ Einzelwort – im Trägersatz gesprochen, danach geschnitten,
     damit die Stimme bei nackten Wörtern nicht in eine andere Sprache kippt."""
-    st = P.STIMME_B if stimme.endswith("b") else P.STIMME
+    st = P.STIMME_B if stimme.endswith("b") else getattr(P, "STIMME_S", None) if stimme.endswith("s") else P.STIMME
     if not st:
         return None
     wort = stimme.startswith("w")
@@ -107,6 +110,7 @@ def main():
             continue
         offen = [a for a in auftraege(P) if not os.path.exists(os.path.join(bauen.wurzel(P), a[0]))]
         offen = [a for a in offen if not a[2].endswith("b") or P.STIMME_B]
+        offen = [a for a in offen if not a[2].endswith("s") or getattr(P, "STIMME_S", None)]
         print(P.PAAR + ":", len(offen), "Audios fehlen,", sum(len(a[1]) for a in offen), "Zeichen")
         if "--zaehlen" in sys.argv:
             continue

@@ -597,23 +597,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "okumak = lesen, bei Prüfungen: korrigieren. kâğıt = Papier, Blatt; sınav kâğıdı = die Prüfungsarbeit. Akkusativ -ı/-i/-u/-ü nach Vokalharmonie: kâğıtlar-ı-nı.",
    "audio": "audio/tr-de/wendungen/oa_01.mp3?v=c5c87e9b",
    "gloss": "sınav kâğıd·ı oku·mak | Prüfung Blatt·sein lesen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
     "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
     "luecke": "kâğıtlarını okuyorum",
     "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892"
    },
    "zeit": {
     "pc": {
      "fr": "Dün akşam dokuzuncu sınıfın kâğıtlarını okudum.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_01_pc.mp3?v=760d4b0e"
     },
     "fp": {
      "fr": "Yarın akşam dokuzuncu sınıfın kâğıtlarını okuyacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_01_fp.mp3?v=83f6cc1a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_02",
@@ -625,23 +631,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "bitkin = erschöpft; Prädikatsendung -im (ich bin): bitkin-im, Vergangenheit bitkin-di-m. « -den sonra » = nach (Ablativ + sonra).",
    "audio": "audio/tr-de/wendungen/oa_02.mp3?v=077fb2bd",
    "gloss": "bitkin ol·mak | erschöpft sein·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Altı saat dersten sonra bitkinim.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "bitkinim",
     "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
    },
    "zeit": {
     "pc": {
      "fr": "Dün altı saat dersten sonra bitkindim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_02_pc.mp3?v=dad8ac10"
     },
     "fp": {
      "fr": "Yarın altı saat dersten sonra bitkin olacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_02_fp.mp3?v=570fae42"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_03",
@@ -653,23 +665,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "toplantı von toplanmak (sich versammeln). « var » = es gibt; « saat dörtte » = um vier (Lokativ -te). Fragepartikel mı/mi/mu/mü nach Vokalharmonie: geliyor musun?",
    "audio": "audio/tr-de/wendungen/oa_03.mp3?v=085068a9",
    "gloss": "toplantı | Versammlung",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Saat dörtte toplantı var, geliyor musun?",
     "de": "Um vier ist Konferenz, kommst du?",
     "luecke": "toplantı",
     "gloss": "Saat dört·te toplantı var, gel·iyor mu·sun? | Uhr vier·LOK Versammlung vorhanden, kommen·PRÄS FRAGE·2SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
    },
    "zeit": {
     "pc": {
      "fr": "Dün saat dörtte toplantı vardı, geldin mi?",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_03_pc.mp3?v=6b04f904"
     },
     "fp": {
      "fr": "Yarın saat dörtte toplantı var, gelecek misin?",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_03_fp.mp3?v=e1753352"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_04",
@@ -681,23 +699,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "boşluk = Lücke, Leere; boşluğ-um = meine Freistunde (k → ğ vor Vokal). « içelim mi? » = wollen wir trinken? (Optativ 1. Pl.).",
    "audio": "audio/tr-de/wendungen/oa_04.mp3?v=9081a015",
    "gloss": "ders boşluğ·u | Unterricht Lücke·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Üçüncü saatte boşluğum var, kahve içelim mi?",
     "de": "In der dritten Stunde habe ich frei, trinken wir einen Kaffee?",
     "luecke": "boşluğum",
     "gloss": "Üç·üncü saat·te boşluğ·um var, kahve iç·elim mi? | drei·ORD Stunde·LOK Lücke·mein vorhanden, Kaffee trinken·OPT.1PL FRAGE",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813"
    },
    "zeit": {
     "pc": {
      "fr": "Dün üçüncü saatte boşluğum vardı, kahve içtik.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_04_pc.mp3?v=51367d74"
     },
     "fp": {
      "fr": "Yarın üçüncü saatte boşluğum olacak, kahve içelim mi?",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_04_fp.mp3?v=a23a3709"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_05",
@@ -709,23 +733,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Genitivverbindung: öğretmenler oda-sı (Possessiv 3. Pers.) + Lokativ -nda. bitmek = zu Ende gehen, alle sein.",
    "audio": "audio/tr-de/wendungen/oa_05.mp3?v=57ef28c5",
    "gloss": "öğretmen·ler oda·sı | Lehrer·PL Zimmer·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Öğretmenler odasında kahve yine bitiyor.",
     "de": "Im Lehrerzimmer ist der Kaffee schon wieder fast alle.",
     "luecke": "Öğretmenler odasında",
     "gloss": "Öğretmen·ler oda·sı·nda kahve yine bit·iyor. | Lehrer·PL Zimmer·sein·LOK Kaffee wieder enden·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_05.mp3?v=cdca761d"
    },
    "zeit": {
     "pc": {
      "fr": "Dün öğretmenler odasında kahve yine bitmişti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_05_pc.mp3?v=e58b9a2d"
     },
     "fp": {
      "fr": "Yarın öğretmenler odasında kahve yine bitecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_05_fp.mp3?v=993bf3c9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_06",
@@ -737,23 +767,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "nöbet = Wache, Dienst; nöbetçi = der Diensthabende (-çi = Berufs-/Tätigkeitsendung). nöbet tutmak = Wache halten, Aufsicht führen.",
    "audio": "audio/tr-de/wendungen/oa_06.mp3?v=6cc66e26",
    "gloss": "nöbet tut·mak | Wache halten·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bugün teneffüste nöbetçiyim.",
     "de": "Heute habe ich Pausenaufsicht.",
     "luecke": "nöbetçiyim",
     "gloss": "Bugün teneffüs·te nöbetçi·yim. | heute Pause·LOK Wache·Täter·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_06.mp3?v=481c25df"
    },
    "zeit": {
     "pc": {
      "fr": "Dün teneffüste nöbetçiydim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_06_pc.mp3?v=6473edcd"
     },
     "fp": {
      "fr": "Yarın teneffüste nöbetçi olacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_06_fp.mp3?v=188f6d11"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_07",
@@ -765,23 +801,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "program-ı mit Possessiv (ders programı = Stundenplan). cuma günü = am Freitag. Wochentage: pazartesi, salı, çarşamba, perşembe, cuma, cumartesi, pazar.",
    "audio": "audio/tr-de/wendungen/oa_07.mp3?v=a54feb23",
    "gloss": "ders program·ı | Unterricht Programm·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yeni ders programı cuma günü yedi saat veriyor.",
     "de": "Der neue Stundenplan gibt freitags sieben Stunden.",
     "luecke": "ders programı",
     "gloss": "Yeni ders program·ı cuma gün·ü yedi saat ver·iyor. | neu Unterricht Programm·sein Freitag Tag·sein sieben Stunde geben·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_07.mp3?v=87586419"
    },
    "zeit": {
     "pc": {
      "fr": "Eski ders programı cuma günü yedi saat veriyordu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_07_pc.mp3?v=661261f8"
     },
     "fp": {
      "fr": "Yeni ders programı cuma günü yedi saat verecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_07_fp.mp3?v=f2b352a0"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_08",
@@ -793,23 +835,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ödev = Hausaufgabe (Singular!), ödev vermek / ödev yapmak. bayram etmek = jubeln (wörtlich: Feiertag machen). Verneinung -mı-/-mi-: ver-mi-yor-um.",
    "audio": "audio/tr-de/wendungen/oa_08.mp3?v=8339778d",
    "gloss": "ödev ver·mek | Aufgabe geben·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hafta sonuna ödev vermiyorum, bayram ediyorlar.",
     "de": "Übers Wochenende gebe ich nichts auf, sie sind selig.",
     "luecke": "ödev vermiyorum",
     "gloss": "Hafta son·u·na ödev ver·mi·yor·um, bayram ed·iyor·lar. | Woche Ende·sein·DAT Aufgabe geben·NEG·PRÄS·1SG, Fest machen·PRÄS·3PL",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_08.mp3?v=950c9561"
    },
    "zeit": {
     "pc": {
      "fr": "Hafta sonuna ödev vermedim, bayram ettiler.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_08_pc.mp3?v=f036a539"
     },
     "fp": {
      "fr": "Hafta sonuna ödev vermeyeceğim, bayram edecekler.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_08_fp.mp3?v=177bd183"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_09",
@@ -821,14 +869,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "not = Note (auch: Notiz); not vermek = benoten, not almak = eine Note bekommen. Komparativ: X-den daha zor = schwerer als X.",
    "audio": "audio/tr-de/wendungen/oa_09.mp3?v=914f430a",
    "gloss": "not ver·mek | Note geben·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Not vermek dersten daha zor.",
     "de": "Noten geben ist schwerer als unterrichten.",
     "luecke": "Not vermek",
     "gloss": "Not ver·mek ders·ten daha zor. | Note geben·INF Unterricht·ABL mehr schwer",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_09.mp3?v=d167a753"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "oa_10",
@@ -840,23 +892,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sınıf = Klasse (auch: Klassenzimmer); sınıfta kalmak = in der Klasse bleiben = sitzenbleiben. kimse + Verneinung = niemand. umarım = ich hoffe.",
    "audio": "audio/tr-de/wendungen/oa_10.mp3?v=bdb9d1e0",
    "gloss": "sınıf·ta kal·mak | Klasse·LOK bleiben·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bu yıl kimse sınıfta kalmıyor, umarım.",
     "de": "Dieses Jahr bleibt hoffentlich keiner sitzen.",
     "luecke": "sınıfta kalmıyor",
     "gloss": "Bu yıl kimse sınıf·ta kal·mı·yor, um·ar·ım. | dies Jahr niemand Klasse·LOK bleiben·NEG·PRÄS, hoffen·AOR·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_10.mp3?v=b9341cfe"
    },
    "zeit": {
     "pc": {
      "fr": "Geçen yıl kimse sınıfta kalmadı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_10_pc.mp3?v=dd50f728"
     },
     "fp": {
      "fr": "Bu yıl kimse sınıfta kalmayacak, umarım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_10_fp.mp3?v=61891c06"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_11",
@@ -868,23 +926,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "veli = Erziehungsberechtigter (arabisches Lehnwort); veli toplantı-sı. yatmak = sich hinlegen, schlafen gehen; geç = spät.",
    "audio": "audio/tr-de/wendungen/oa_11.mp3?v=508ca651",
    "gloss": "veli toplantı·sı | Eltern Versammlung·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bu akşam veli toplantısı var, geç yatıyoruz.",
     "de": "Heute Abend ist Elternabend, wir gehen spät schlafen.",
     "luecke": "veli toplantısı",
     "gloss": "Bu akşam veli toplantı·sı var, geç yat·ıyor·uz. | dies Abend Eltern Versammlung·sein vorhanden, spät schlafen.gehen·PRÄS·1PL",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_11.mp3?v=204bbcb4"
    },
    "zeit": {
     "pc": {
      "fr": "Dün akşam veli toplantısı vardı, geç yattık.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_11_pc.mp3?v=ea7f765b"
     },
     "fp": {
      "fr": "Yarın akşam veli toplantısı var, geç yatacağız.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_11_fp.mp3?v=1f28a856"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_12",
@@ -896,23 +960,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kopya çekmek = spicken (wörtlich: Kopie ziehen); çekmek = ziehen, auch fotokopi çekmek, fotoğraf çekmek. biri = einer, ikisi = zwei davon.",
    "audio": "audio/tr-de/wendungen/oa_12.mp3?v=79776b87",
    "gloss": "kopya çek·mek | Kopie ziehen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Biri kopya çekiyor, ikisi aynı hatayı yapıyor.",
     "de": "Einer spickt, zwei machen denselben Fehler.",
     "luecke": "kopya çekiyor",
     "gloss": "Biri kopya çek·iyor, iki·si aynı hata·yı yap·ıyor. | einer Kopie ziehen·PRÄS, zwei·davon derselbe Fehler·AKK machen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_12.mp3?v=24275dd1"
    },
    "zeit": {
     "pc": {
      "fr": "Biri kopya çekti, ikisi aynı hatayı yaptı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_12_pc.mp3?v=54d41f47"
     },
     "fp": {
      "fr": "Biri kopya çekecek, ikisi aynı hatayı yapacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_12_fp.mp3?v=798b056a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_13",
@@ -924,23 +994,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kaynatmak = kochen lassen; dersi kaynatmak (Schülerslang) = die Stunde mit Reden vertrödeln. « ben de » = ich auch, und ich.",
    "audio": "audio/tr-de/wendungen/oa_13.mp3?v=b7658825",
    "gloss": "ders·i kaynat·mak | Stunde·AKK kochen.lassen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Son saatte dersi kaynatıyorlar, ben de bırakıyorum.",
     "de": "In der letzten Stunde verbummeln sie die Stunde, und ich lasse es zu.",
     "luecke": "dersi kaynatıyorlar",
     "gloss": "Son saat·te ders·i kaynat·ıyor·lar, ben de bırak·ıyor·um. | letzt Stunde·LOK Stunde·AKK kochen.lassen·PRÄS·3PL, ich auch lassen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb"
    },
    "zeit": {
     "pc": {
      "fr": "Son saatte dersi kaynattılar, ben de bıraktım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_13_pc.mp3?v=9c748837"
     },
     "fp": {
      "fr": "Son saatte dersi kaynatacaklar, ben de bırakacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_13_fp.mp3?v=924d5717"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_14",
@@ -952,23 +1028,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yer = Platz; onun yerine = an ihrer Stelle. derse girmek = eine Stunde halten (wörtlich: in die Stunde hineingehen); ikinci saate girmek = die zweite Stunde übernehmen.",
    "audio": "audio/tr-de/wendungen/oa_14.mp3?v=cfc48f72",
    "gloss": "yer·i·ne gir·mek | Platz·sein·DAT eintreten·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ayşe hasta, onun yerine ikinci saate giriyorum.",
     "de": "Ayşe ist krank, ich vertrete sie in der zweiten Stunde.",
     "luecke": "yerine",
     "gloss": "Ayşe hasta, o·nun yer·i·ne ikinci saat·e gir·iyor·um. | Ayşe krank, sie·GEN Platz·sein·DAT zweit Stunde·DAT eintreten·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_14.mp3?v=37569581"
    },
    "zeit": {
     "pc": {
      "fr": "Ayşe hastaydı, onun yerine ikinci saate girdim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_14_pc.mp3?v=9e611cfd"
     },
     "fp": {
      "fr": "Ayşe hasta, onun yerine ikinci saate gireceğim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_14_fp.mp3?v=6555ada1"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_15",
@@ -980,23 +1062,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "anlatmak = erzählen, erklären; ders anlatmak = unterrichten. konu = Thema (Akkusativ konu-yu). üçüncü kez = zum dritten Mal; Ordinalzahlen -(i)nci.",
    "audio": "audio/tr-de/wendungen/oa_15.mp3?v=63f93351",
    "gloss": "ders anlat·mak | Unterricht erzählen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Aynı konuyu üçüncü kez anlatıyorum.",
     "de": "Ich erkläre dasselbe zum dritten Mal.",
     "luecke": "anlatıyorum",
     "gloss": "Aynı konu·yu üç·üncü kez anlat·ıyor·um. | derselbe Thema·AKK drei·ORD Mal erzählen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_15.mp3?v=bad32b06"
    },
    "zeit": {
     "pc": {
      "fr": "Aynı konuyu üçüncü kez anlattım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_15_pc.mp3?v=ada19b6d"
     },
     "fp": {
      "fr": "Aynı konuyu üçüncü kez anlatacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_15_fp.mp3?v=d3fa966b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_16",
@@ -1008,23 +1096,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "teneffüs (arabisch, wörtlich: Atmen) = Schulpause; mola = Pause allgemein. sürmek = dauern. « bile » = sogar, nicht einmal (nachgestellt).",
    "audio": "audio/tr-de/wendungen/oa_16.mp3?v=94a59c82",
    "gloss": "teneffüs | Pause",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Teneffüs beş dakika sürüyor, hissetmiyorum bile.",
     "de": "Die Pause dauert fünf Minuten, ich merke sie nicht einmal.",
     "luecke": "Teneffüs",
     "gloss": "Teneffüs beş dakika sür·üyor, hisset·mi·yor·um bile. | Pause fünf Minute dauern·PRÄS, fühlen·NEG·PRÄS·1SG sogar",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_16.mp3?v=492dddda"
    },
    "zeit": {
     "pc": {
      "fr": "Teneffüs beş dakika sürdü, hissetmedim bile.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_16_pc.mp3?v=9b0eb98e"
     },
     "fp": {
      "fr": "Teneffüs beş dakika sürecek, hissetmeyeceğim bile.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_16_fp.mp3?v=cab9f2b8"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_17",
@@ -1036,23 +1130,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "çek-tir-mek = Kausativ (kopieren lassen); çek-tir-e-me-mek = nicht kopieren lassen können (Möglichkeitsform -ebil-/-eme-). bozuk = kaputt.",
    "audio": "audio/tr-de/wendungen/oa_17.mp3?v=0739bcb1",
    "gloss": "fotokopi çek·tir·mek | Fotokopie ziehen·KAUS·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Makine yine bozuk, fotokopi çektiremiyorum.",
     "de": "Die Maschine ist wieder kaputt, ich kann nicht kopieren.",
     "luecke": "fotokopi çektiremiyorum",
     "gloss": "Makine yine bozuk, fotokopi çek·tir·e·mi·yor·um. | Maschine wieder kaputt, Fotokopie ziehen·KAUS·KANN·NEG·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_17.mp3?v=339ffaab"
    },
    "zeit": {
     "pc": {
      "fr": "Makine yine bozuktu, fotokopi çektiremedim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_17_pc.mp3?v=07f6f893"
     },
     "fp": {
      "fr": "Makine yine bozuk, fotokopi çektiremeyeceğim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_17_fp.mp3?v=ca3ebf88"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_18",
@@ -1064,23 +1164,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sözlü = mündlich (söz = Wort), sözlü sınav = mündliche Prüfung; yazılı = schriftlich. sessizleşmek = still werden (-leş- = werden).",
    "audio": "audio/tr-de/wendungen/oa_18.mp3?v=61f78d9c",
    "gloss": "sözlü yap·mak | mündlich machen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bugün sözlü yapıyorum, herkes birden sessizleşiyor.",
     "de": "Heute frage ich mündlich ab, alle werden plötzlich still.",
     "luecke": "sözlü yapıyorum",
     "gloss": "Bugün sözlü yap·ıyor·um, herkes birden sessiz·leş·iyor. | heute mündlich machen·PRÄS·1SG, jeder plötzlich still·werden·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_18.mp3?v=d581c190"
    },
    "zeit": {
     "pc": {
      "fr": "Dün sözlü yaptım, herkes birden sessizleşti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_18_pc.mp3?v=5f6b0197"
     },
     "fp": {
      "fr": "Yarın sözlü yapacağım, herkes birden sessizleşecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_18_fp.mp3?v=0e30ea26"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_19",
@@ -1092,23 +1198,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yoklama = Anwesenheitskontrolle (von yoklamak = abtasten, prüfen); yok = nicht da. üç kişi = drei Personen (nach Zahlen Singular!).",
    "audio": "audio/tr-de/wendungen/oa_19.mp3?v=fa04691a",
    "gloss": "yoklama al·mak | Anwesenheitsprüfung nehmen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yoklama alıyorum, üç kişi yine yok.",
     "de": "Ich prüfe die Anwesenheit, drei fehlen wieder.",
     "luecke": "Yoklama alıyorum",
     "gloss": "Yoklama al·ıyor·um, üç kişi yine yok. | Anwesenheitsprüfung nehmen·PRÄS·1SG, drei Person wieder nicht.da",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_19.mp3?v=e590e04b"
    },
    "zeit": {
     "pc": {
      "fr": "Yoklama aldım, üç kişi yine yoktu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_19_pc.mp3?v=c2364f7f"
     },
     "fp": {
      "fr": "Yoklama alacağım, üç kişi yine olmayacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_19_fp.mp3?v=3e8455bd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_20",
@@ -1120,23 +1232,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tahta = Brett, Tafel; tahta-ya = an die Tafel (Dativ). kaldırmak = aufheben, aufrufen. Eigennamen bekommen Endungen mit Apostroph: Kerem'i. dua etmek = beten.",
    "audio": "audio/tr-de/wendungen/oa_20.mp3?v=3bccf4af",
    "gloss": "tahta·ya kaldır·mak | Tafel·DAT aufheben·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kerem'i tahtaya kaldırıyorum, dua ediyor.",
     "de": "Ich hole Kerem an die Tafel, er betet.",
     "luecke": "tahtaya kaldırıyorum",
     "gloss": "Kerem·'i tahta·ya kaldır·ıyor·um, dua ed·iyor. | Kerem·AKK Tafel·DAT aufheben·PRÄS·1SG, Gebet machen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_20.mp3?v=622c5c00"
    },
    "zeit": {
     "pc": {
      "fr": "Kerem'i tahtaya kaldırdım, dua etti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_20_pc.mp3?v=d8fdf23b"
     },
     "fp": {
      "fr": "Kerem'i tahtaya kaldıracağım, dua edecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_20_fp.mp3?v=586c9caf"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_21",
@@ -1148,23 +1266,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "karne (aus dem Französischen « carnet ») = Zeugnis. karne günü = Zeugnistag. kibar = höflich. birden = plötzlich.",
    "audio": "audio/tr-de/wendungen/oa_21.mp3?v=6f2532eb",
    "gloss": "karne | Zeugnis",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Karne günü herkes birden çok kibar oluyor.",
     "de": "Am Zeugnistag werden alle plötzlich sehr höflich.",
     "luecke": "Karne",
     "gloss": "Karne gün·ü herkes birden çok kibar ol·uyor. | Zeugnis Tag·sein jeder plötzlich sehr höflich werden·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_21.mp3?v=9aadf991"
    },
    "zeit": {
     "pc": {
      "fr": "Karne günü herkes birden çok kibar oldu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_21_pc.mp3?v=e601030e"
     },
     "fp": {
      "fr": "Karne günü herkes birden çok kibar olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_21_fp.mp3?v=764e8ce6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "oa_22",
@@ -1176,14 +1300,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Wörtlich « möge es leicht kommen ». Man sagt es jedem, der gerade arbeitet: Kollegen, Verkäufern, Handwerkern. Antwort: sağ ol / teşekkürler.",
    "audio": "audio/tr-de/wendungen/oa_22.mp3?v=c9aa6c27",
    "gloss": "kolay gel·sin | leicht kommen·IMP3",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kolay gelsin! – Sağ ol, otuz kâğıt daha var.",
     "de": "Gutes Gelingen! – Danke, noch dreißig Arbeiten.",
     "luecke": "Kolay gelsin",
     "gloss": "Kolay gel·sin! – Sağ ol, otuz kâğıt daha var. | leicht kommen·IMP3! – gesund sei, dreißig Blatt noch vorhanden",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_22.mp3?v=a8b54d9d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "oa_23",
@@ -1195,14 +1323,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Wörtlich « möge es vergangen sein »: bei Krankheit (gute Besserung) und nach überstandenen Mühen (Prüfung, Inspektion, Unfall). teftiş = Inspektion.",
    "audio": "audio/tr-de/wendungen/oa_23.mp3?v=6d54cdb5",
    "gloss": "geç·miş ol·sun | vergehen·ERZ sein·IMP3",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Teftiş bitti mi? Geçmiş olsun!",
     "de": "Die Inspektion ist vorbei? Gut überstanden!",
     "luecke": "Geçmiş olsun",
     "gloss": "Teftiş bit·ti mi? Geç·miş ol·sun! | Inspektion enden·VERG FRAGE? vergehen·ERZ sein·IMP3!",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_23.mp3?v=943c5781"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "oa_24",
@@ -1214,14 +1346,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "hoca = Lehrer, Meister; hocam = mein Lehrer, übliche Anrede unter Lehrern und von Schülern. dakika-nız = Ihre Minute (Possessiv 2. Pl. = Siezen).",
    "audio": "audio/tr-de/wendungen/oa_24.mp3?v=450c63ae",
    "gloss": "Hoca·m, bir dakika·nız var mı? | Lehrer·mein, ein Minute·Ihr vorhanden FRAGE?",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hocam, bir dakikanız var mı? Bir not sorunu var.",
     "de": "Herr Kollege, haben Sie eine Minute? Es geht um eine Note.",
     "luecke": "bir dakikanız var mı",
     "gloss": "Hoca·m, bir dakika·nız var mı? Bir not sorun·u var. | Lehrer·mein, ein Minute·Ihr vorhanden FRAGE? ein Note Problem·sein vorhanden",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/oa_24.mp3?v=f16b4fdc"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "du_01",
@@ -1233,23 +1369,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "keyif = Wohlbehagen, Laune (arabisch); keyf-im yerinde = meine Laune ist an ihrem Platz. bozmak = verderben; bozmasın = soll nicht verderben (3. Pers. Imperativ).",
    "audio": "audio/tr-de/wendungen/du_01.mp3?v=f19ac701",
    "gloss": "keyf·im yer·i·nde | Laune·mein Platz·sein·LOK",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bugün keyfim yerinde, kimse bozmasın.",
     "de": "Heute bin ich gut drauf, keiner soll es mir verderben.",
     "luecke": "keyfim yerinde",
     "gloss": "Bugün keyf·im yer·i·nde, kimse boz·ma·sın. | heute Laune·mein Platz·sein·LOK, niemand verderben·NEG·IMP3",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_01.mp3?v=8f516a5d"
    },
    "zeit": {
     "pc": {
      "fr": "Dün keyfim yerindeydi, kimse bozmadı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_01_pc.mp3?v=6b033ba1"
     },
     "fp": {
      "fr": "Yarın keyfim yerinde olacak, kimse bozmasın.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_01_fp.mp3?v=aff7aefb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_02",
@@ -1261,23 +1403,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "can = Seele, Leben; can-ım sıkılıyor = meine Seele wird eingeengt = mir ist langweilig / ich bin verdrossen. Viele Gefühle laufen im Türkischen über can, iç, baş, moral mit Possessiv.",
    "audio": "audio/tr-de/wendungen/du_02.mp3?v=e92b1ae2",
    "gloss": "can·ım sıkıl·ıyor | Seele·mein eingeengt.werden·PRÄS",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Toplantıda canım sıkılıyor, saate bakıyorum.",
     "de": "In der Konferenz langweile ich mich, ich schaue auf die Uhr.",
     "luecke": "canım sıkılıyor",
     "gloss": "Toplantı·da can·ım sıkıl·ıyor, saat·e bak·ıyor·um. | Versammlung·LOK Seele·mein eingeengt.werden·PRÄS, Uhr·DAT schauen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_02.mp3?v=27ffbbce"
    },
    "zeit": {
     "pc": {
      "fr": "Toplantıda canım sıkıldı, saate baktım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_02_pc.mp3?v=a17a660e"
     },
     "fp": {
      "fr": "Toplantıda canım sıkılacak, saate bakacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_02_fp.mp3?v=b5cc30e4"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_03",
@@ -1289,23 +1437,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "moral (frz.) = Stimmung; moral-im bozuk = meine Stimmung ist kaputt. Gegenteil: moralim yerinde / moralim iyi. moral vermek = aufmuntern.",
    "audio": "audio/tr-de/wendungen/du_03.mp3?v=36195f9e",
    "gloss": "moral·im bozuk | Stimmung·mein kaputt",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kâğıtlardan sonra moralim bozuk.",
     "de": "Nach den Arbeiten bin ich niedergeschlagen.",
     "luecke": "moralim bozuk",
     "gloss": "Kâğıt·lar·dan sonra moral·im bozuk. | Blatt·PL·ABL nach Stimmung·mein kaputt",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_03.mp3?v=5260be74"
    },
    "zeit": {
     "pc": {
      "fr": "Kâğıtlardan sonra moralim bozuktu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_03_pc.mp3?v=6d197c06"
     },
     "fp": {
      "fr": "Kâğıtlardan sonra moralim bozuk olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_03_fp.mp3?v=046dd1d6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_04",
@@ -1317,23 +1471,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sinir = Nerv (Plural sinirler); bozulmak = kaputtgehen (passiv zu bozmak). « yüzünden » = wegen (negativ), « sayesinde » = dank.",
    "audio": "audio/tr-de/wendungen/du_04.mp3?v=7da5f322",
    "gloss": "sinir·ler·im bozul·du | Nerv·PL·mein kaputtgehen·VERG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kopya makinesi yüzünden sinirlerim bozuldu.",
     "de": "Wegen des Kopierers bin ich mit den Nerven fertig.",
     "luecke": "sinirlerim bozuldu",
     "gloss": "Kopya makine·si yüzünden sinir·ler·im bozul·du. | Kopie Maschine·sein wegen Nerv·PL·mein kaputtgehen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_04.mp3?v=b91521ba"
    },
    "zeit": {
     "pc": {
      "fr": "Dün kopya makinesi yüzünden sinirlerim bozulmuştu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_04_pc.mp3?v=582a2d60"
     },
     "fp": {
      "fr": "Kopya makinesi yüzünden sinirlerim bozulacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_04_fp.mp3?v=9ef6c537"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_05",
@@ -1345,23 +1505,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "iç = das Innere; iç-im rahat = mein Inneres ist ruhig. not girmek = Noten eintragen. -ince = sobald, als (girince = als ich eintrug).",
    "audio": "audio/tr-de/wendungen/du_05.mp3?v=a14a6cb0",
    "gloss": "iç·im rahat | Inneres·mein ruhig",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Notları girdim, içim rahat.",
     "de": "Die Noten sind eingetragen, ich bin beruhigt.",
     "luecke": "içim rahat",
     "gloss": "Not·lar·ı gir·di·m, iç·im rahat. | Note·PL·AKK eintragen·VERG·1SG, Inneres·mein ruhig",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_05.mp3?v=6b812357"
    },
    "zeit": {
     "pc": {
      "fr": "Notları girince içim rahattı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_05_pc.mp3?v=12052887"
     },
     "fp": {
      "fr": "Notları girince içim rahat olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_05_fp.mp3?v=5d0baab6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_06",
@@ -1373,23 +1539,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Wörtlich: mein Inneres passt nicht in mein Inneres. sığmak = hineinpassen. Bild für überschäumende Vorfreude.",
    "audio": "audio/tr-de/wendungen/du_06.mp3?v=c0e020ef",
    "gloss": "iç·im iç·i·me sığ·mı·yor | Inneres·mein Inneres·mein·DAT passen·NEG·PRÄS",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yarın tatil, içim içime sığmıyor.",
     "de": "Morgen Ferien, ich platze vor Freude.",
     "luecke": "içim içime sığmıyor",
     "gloss": "Yarın tatil, iç·im iç·i·me sığ·mı·yor. | morgen Ferien, Inneres·mein Inneres·mein·DAT passen·NEG·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_06.mp3?v=eb2526e3"
    },
    "zeit": {
     "pc": {
      "fr": "Tatilden önce içim içime sığmadı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_06_pc.mp3?v=075b1585"
     },
     "fp": {
      "fr": "Tatilden önce içim içime sığmayacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_06_fp.mp3?v=73333eba"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_07",
@@ -1401,23 +1573,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tat = Geschmack; tad-ım kaçtı = mein Geschmack ist geflohen (t → d vor Vokal). kaçmak = fliehen, entwischen. tadını kaçırmak = jemandem die Laune verderben.",
    "audio": "audio/tr-de/wendungen/du_07.mp3?v=76f14d3a",
    "gloss": "tad·ım kaç·tı | Geschmack·mein fliehen·VERG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Son dersten sonra tadım kaçtı.",
     "de": "Nach der letzten Stunde war meine Laune hin.",
     "luecke": "tadım kaçtı",
     "gloss": "Son ders·ten sonra tad·ım kaç·tı. | letzt Stunde·ABL nach Geschmack·mein fliehen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_07.mp3?v=206ec1f6"
    },
    "zeit": {
     "pc": {
      "fr": "Son dersten sonra tadım kaçmıştı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_07_pc.mp3?v=3912ce05"
     },
     "fp": {
      "fr": "Son dersten sonra tadım kaçacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_07_fp.mp3?v=317f976e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_08",
@@ -1429,23 +1607,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "baş = Kopf; ağrımak = schmerzen. Muster: Körperteil + Possessiv + ağrıyor: karnım ağrıyor, dişim ağrıyor.",
    "audio": "audio/tr-de/wendungen/du_08.mp3?v=8f6796df",
    "gloss": "baş·ım ağrı·yor | Kopf·mein schmerzen·PRÄS",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yedi saatten sonra başım ağrıyor.",
     "de": "Nach sieben Stunden habe ich Kopfschmerzen.",
     "luecke": "başım ağrıyor",
     "gloss": "Yedi saat·ten sonra baş·ım ağrı·yor. | sieben Stunde·ABL nach Kopf·mein schmerzen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_08.mp3?v=05a382b0"
    },
    "zeit": {
     "pc": {
      "fr": "Yedi saatten sonra başım ağrıdı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_08_pc.mp3?v=64e5d5ad"
     },
     "fp": {
      "fr": "Yedi saatten sonra başım ağrıyacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_08_fp.mp3?v=38fac4d2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_09",
@@ -1457,23 +1641,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "uyku = Schlaf; uyku-m var = ich habe Schlaf = ich bin schläfrig. Ebenso: açlığım var? nein: acıktım = ich bin hungrig, susadım = durstig. hâlâ = immer noch (nicht hala = Tante!).",
    "audio": "audio/tr-de/wendungen/du_09.mp3?v=f2ec7060",
    "gloss": "uyku·m var | Schlaf·mein vorhanden",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sabah sekizde hâlâ uykum var.",
     "de": "Um acht Uhr morgens bin ich noch müde.",
     "luecke": "uykum var",
     "gloss": "Sabah sekiz·de hâlâ uyku·m var. | Morgen acht·LOK immer.noch Schlaf·mein vorhanden",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_09.mp3?v=3b2e71e0"
    },
    "zeit": {
     "pc": {
      "fr": "Sabah sekizde hâlâ uykum vardı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_09_pc.mp3?v=9724fdd7"
     },
     "fp": {
      "fr": "Sabah sekizde hâlâ uykum olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_09_fp.mp3?v=b082a647"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_10",
@@ -1485,23 +1675,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "heyecan = Aufregung, Begeisterung; heyecan-lı = aufgeregt (-lı = mit). Prädikat mit Bindekonsonant y nach Vokal: heyecanlı-y-ım.",
    "audio": "audio/tr-de/wendungen/du_10.mp3?v=c58df96e",
    "gloss": "heyecan·lı·yım | Aufregung·mit·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "İlk dersten önce hâlâ heyecanlıyım.",
     "de": "Vor der ersten Stunde bin ich immer noch aufgeregt.",
     "luecke": "heyecanlıyım",
     "gloss": "İlk ders·ten önce hâlâ heyecan·lı·yım. | erst Stunde·ABL vor immer.noch Aufregung·mit·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_10.mp3?v=4ce5b771"
    },
    "zeit": {
     "pc": {
      "fr": "İlk dersten önce heyecanlıydım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_10_pc.mp3?v=0f8b6048"
     },
     "fp": {
      "fr": "İlk dersten önce heyecanlı olacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_10_fp.mp3?v=7fab925b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_11",
@@ -1513,23 +1709,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "gergin = gespannt, angespannt (von germek = spannen). gerginlik = Anspannung. -den önce = vor (Ablativ + önce).",
    "audio": "audio/tr-de/wendungen/du_11.mp3?v=c0996eb8",
    "gloss": "gergin·im | angespannt·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Veli toplantısından önce gerginim.",
     "de": "Vor dem Elternabend bin ich angespannt.",
     "luecke": "gerginim",
     "gloss": "Veli toplantı·sı·ndan önce gergin·im. | Eltern Versammlung·sein·ABL vor angespannt·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_11.mp3?v=1640a516"
    },
    "zeit": {
     "pc": {
      "fr": "Veli toplantısından önce gergindim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_11_pc.mp3?v=ceb8ed1c"
     },
     "fp": {
      "fr": "Veli toplantısından önce gergin olacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_11_fp.mp3?v=19e2cbf5"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_12",
@@ -1541,23 +1743,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "rahat = bequem, ruhig; rahatlamak = sich entspannen, erleichtert sein. Die Vergangenheit (-dım) drückt den eingetretenen Zustand aus: « ich bin erleichtert ».",
    "audio": "audio/tr-de/wendungen/du_12.mp3?v=9e2688f8",
    "gloss": "rahatla·dı·m | sich.entspannen·VERG·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Teftiş bitti, rahatladım.",
     "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
     "luecke": "rahatladım",
     "gloss": "Teftiş bit·ti, rahatla·dı·m. | Inspektion enden·VERG, sich.entspannen·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_12.mp3?v=40b4cf5b"
    },
    "zeit": {
     "pc": {
      "fr": "Teftiş bitince rahatlamıştım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_12_pc.mp3?v=4b7e5e18"
     },
     "fp": {
      "fr": "Teftiş bitince rahatlayacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_12_fp.mp3?v=522ff344"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_13",
@@ -1569,23 +1777,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sabır = Geduld (sabr-ım mit Vokalausfall); taşmak = überlaufen. Bild: die Geduld läuft über. uyarı = Ermahnung, Warnung.",
    "audio": "audio/tr-de/wendungen/du_13.mp3?v=6ad49c55",
    "gloss": "sabr·ım taş·ıyor | Geduld·mein überlaufen·PRÄS",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Üçüncü uyarıda sabrım taşıyor.",
     "de": "Bei der dritten Ermahnung reißt mir die Geduld.",
     "luecke": "sabrım taşıyor",
     "gloss": "Üç·üncü uyarı·da sabr·ım taş·ıyor. | drei·ORD Ermahnung·LOK Geduld·mein überlaufen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_13.mp3?v=0cbaacd0"
    },
    "zeit": {
     "pc": {
      "fr": "Üçüncü uyarıda sabrım taştı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_13_pc.mp3?v=66210f20"
     },
     "fp": {
      "fr": "Üçüncü uyarıda sabrım taşacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_13_fp.mp3?v=aa4d07f0"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_14",
@@ -1597,23 +1811,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kafa = Kopf (umgangssprachlich); karışmak = sich vermischen. kafa-m karıştı = mein Kopf ist durcheinander. -sam = wenn ich (Konditional).",
    "audio": "audio/tr-de/wendungen/du_14.mp3?v=dc5b1d64",
    "gloss": "kafa·m karış·tı | Kopf·mein sich.mischen·VERG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "İki program okudum, kafam karıştı.",
     "de": "Ich habe zwei Stundenpläne gelesen, ich bin durcheinander.",
     "luecke": "kafam karıştı",
     "gloss": "İki program oku·du·m, kafa·m karış·tı. | zwei Programm lesen·VERG·1SG, Kopf·mein sich.mischen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_14.mp3?v=b0c185e5"
    },
    "zeit": {
     "pc": {
      "fr": "İki program okuyunca kafam karışmıştı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_14_pc.mp3?v=4597cc39"
     },
     "fp": {
      "fr": "İki program okursam kafam karışacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_14_fp.mp3?v=412875db"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_15",
@@ -1625,23 +1845,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "akıl = Verstand (akl-ım mit Vokalausfall); başka yerde = an anderem Ort. kusura bakma = nimm's nicht übel (wörtlich: schau nicht auf den Fehler); höflich: kusura bakmayın.",
    "audio": "audio/tr-de/wendungen/du_15.mp3?v=1593fa03",
    "gloss": "akl·ım başka yer·de | Verstand·mein anderer Ort·LOK",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bugün aklım başka yerde, kusura bakma.",
     "de": "Heute bin ich mit den Gedanken woanders, entschuldige.",
     "luecke": "aklım başka yerde",
     "gloss": "Bugün akl·ım başka yer·de, kusur·a bak·ma. | heute Verstand·mein anderer Ort·LOK, Fehler·DAT schauen·NEG.IMP",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_15.mp3?v=4a46adad"
    },
    "zeit": {
     "pc": {
      "fr": "Dün aklım başka yerdeydi, kusura bakma.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_15_pc.mp3?v=2f7ebe11"
     },
     "fp": {
      "fr": "Yarın aklım başka yerde olacak, kusura bakma.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_15_fp.mp3?v=540a89c2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_16",
@@ -1653,23 +1879,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "bıkmak + Ablativ (-den) = etwas satthaben. bahane = Ausrede. çoktan = längst.",
    "audio": "audio/tr-de/wendungen/du_16.mp3?v=523d6ce1",
    "gloss": "bık·tı·m | satthaben·VERG·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Aynı bahaneden bıktım.",
     "de": "Ich habe dieselbe Ausrede satt.",
     "luecke": "bıktım",
     "gloss": "Aynı bahane·den bık·tı·m. | derselbe Ausrede·ABL satthaben·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_16.mp3?v=7d616161"
    },
    "zeit": {
     "pc": {
      "fr": "Aynı bahaneden çoktan bıkmıştım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_16_pc.mp3?v=ddcfdcd5"
     },
     "fp": {
      "fr": "Aynı bahaneden bıkacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_16_fp.mp3?v=e188a106"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_17",
@@ -1681,23 +1913,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "özlemek = vermissen, sich sehnen; die Vergangenheit özledim steht für das gegenwärtige Gefühl (wie rahatladım). Seni özledim = ich vermisse dich.",
    "audio": "audio/tr-de/wendungen/du_17.mp3?v=02522412",
    "gloss": "özle·di·m | vermissen·VERG·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tatili şimdiden özledim.",
     "de": "Ich vermisse die Ferien jetzt schon.",
     "luecke": "özledim",
     "gloss": "Tatil·i şimdi·den özle·di·m. | Ferien·AKK jetzt·ABL vermissen·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_17.mp3?v=8793630b"
    },
    "zeit": {
     "pc": {
      "fr": "Tatili daha ilk günden özlemiştim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_17_pc.mp3?v=ef255722"
     },
     "fp": {
      "fr": "Tatili özleyeceğim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_17_fp.mp3?v=b8180d15"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_18",
@@ -1709,23 +1947,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "utanmak = sich schämen, verlegen sein; utangaç = schüchtern. ad-ı-nı = seinen Namen (Possessiv + Akkusativ mit n).",
    "audio": "audio/tr-de/wendungen/du_18.mp3?v=62702082",
    "gloss": "utan·dı·m | sich.schämen·VERG·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Adını unuttum, çok utandım.",
     "de": "Ich habe seinen Namen vergessen, ich habe mich sehr geschämt.",
     "luecke": "utandım",
     "gloss": "Ad·ı·nı unut·tu·m, çok utan·dı·m. | Name·sein·AKK vergessen·VERG·1SG, sehr sich.schämen·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_18.mp3?v=b5c4da55"
    },
    "zeit": {
     "pc": {
      "fr": "Adını unutunca çok utanmıştım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_18_pc.mp3?v=1d36ca5d"
     },
     "fp": {
      "fr": "Adını unutursam çok utanacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_18_fp.mp3?v=2044c74a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_19",
@@ -1737,23 +1981,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "şaşırmak = überrascht sein, sich wundern (auch: sich verirren). -mış = erschlossene Vergangenheit: yapmış = offenbar gemacht (ich sehe es erst jetzt).",
    "audio": "audio/tr-de/wendungen/du_19.mp3?v=f5b2dad1",
    "gloss": "şaşır·dı·m | sich.wundern·VERG·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hepsi ödevi yapmış, şaşırdım.",
     "de": "Alle hatten die Hausaufgabe gemacht, ich war überrascht.",
     "luecke": "şaşırdım",
     "gloss": "Hep·si ödev·i yap·mış, şaşır·dı·m. | all·davon Aufgabe·AKK machen·ERZ, sich.wundern·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_19.mp3?v=fffcdd76"
    },
    "zeit": {
     "pc": {
      "fr": "Hepsi ödevi yapmıştı, şaşırmıştım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_19_pc.mp3?v=fe319067"
     },
     "fp": {
      "fr": "Hepsi ödevi yaparsa şaşıracağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_19_fp.mp3?v=815f8c68"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_20",
@@ -1765,23 +2015,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "gurur = Stolz; gurur duymak + -la/-le (mit) = stolz sein auf. duymak = hören, fühlen. Ebenso: utanç duymak, heyecan duymak.",
    "audio": "audio/tr-de/wendungen/du_20.mp3?v=7c1b800f",
    "gloss": "gurur duy·mak | Stolz fühlen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sınıfımla gurur duyuyorum.",
     "de": "Ich bin stolz auf meine Klasse.",
     "luecke": "gurur duyuyorum",
     "gloss": "Sınıf·ım·la gurur duy·uyor·um. | Klasse·mein·MIT Stolz fühlen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_20.mp3?v=08f704b9"
    },
    "zeit": {
     "pc": {
      "fr": "Sınıfımla gurur duydum.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_20_pc.mp3?v=672bfbef"
     },
     "fp": {
      "fr": "Sınıfımla gurur duyacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_20_fp.mp3?v=bfb55ad9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_21",
@@ -1793,23 +2049,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kıskanmak = beneiden, eifersüchtig sein; kıskanç = eifersüchtig, neidisch. Cem'in … -sı var = Cem hat (Genitiv + Possessiv).",
    "audio": "audio/tr-de/wendungen/du_21.mp3?v=67bb4c6d",
    "gloss": "kıskan·dı·m | beneiden·VERG·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Cem'in boş cuması var, kıskandım.",
     "de": "Cem hat freitags frei, ich war neidisch.",
     "luecke": "kıskandım",
     "gloss": "Cem·'in boş cuma·sı var, kıskan·dı·m. | Cem·GEN leer Freitag·sein vorhanden, beneiden·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_21.mp3?v=61e459ea"
    },
    "zeit": {
     "pc": {
      "fr": "Cem'in boş cuması vardı, kıskanmıştım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_21_pc.mp3?v=bead66b3"
     },
     "fp": {
      "fr": "Cem'in boş cuması olacak, kıskanacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_21_fp.mp3?v=ddc1990e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_22",
@@ -1821,23 +2083,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "keyif yapmak = genießen, chillen; keyif çatmak noch gemütlicher. sadece = nur. hafta sonu = Wochenende.",
    "audio": "audio/tr-de/wendungen/du_22.mp3?v=1194b30b",
    "gloss": "keyif yap·mak | Genuss machen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hafta sonu sadece keyif yapıyorum.",
     "de": "Am Wochenende lasse ich es mir nur gut gehen.",
     "luecke": "keyif yapıyorum",
     "gloss": "Hafta son·u sadece keyif yap·ıyor·um. | Woche Ende·sein nur Genuss machen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_22.mp3?v=afb33378"
    },
    "zeit": {
     "pc": {
      "fr": "Hafta sonu sadece keyif yaptım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_22_pc.mp3?v=e9c36efe"
     },
     "fp": {
      "fr": "Hafta sonu sadece keyif yapacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_22_fp.mp3?v=0f884156"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "du_23",
@@ -1849,14 +2117,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Wörtlich: gib leer. Alltagsformel zum Abwinken; höflich: boş verin. Ähnlich: aldırma = kümmere dich nicht.",
    "audio": "audio/tr-de/wendungen/du_23.mp3?v=7d9663ca",
    "gloss": "boş ver | leer gib",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Boş ver, yarın yeni bir gün.",
     "de": "Mach dir nichts draus, morgen ist ein neuer Tag.",
     "luecke": "Boş ver",
     "gloss": "Boş ver, yarın yeni bir gün. | leer gib, morgen neu ein Tag",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_23.mp3?v=f0eb2695"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "du_24",
@@ -1868,14 +2140,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "neyse = was auch immer es sei (ne + ise), Gesprächsfüller zum Themenwechsel oder Trost. « ya » am Satzende = doch, ja (bekräftigend).",
    "audio": "audio/tr-de/wendungen/du_24.mp3?v=ac2c4caf",
    "gloss": "neyse | was.auch.immer",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Neyse, kahve var ya.",
     "de": "Na ja, es gibt ja Kaffee.",
     "luecke": "Neyse",
     "gloss": "Neyse, kahve var ya. | was.auch.immer, Kaffee vorhanden doch",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/du_24.mp3?v=994b7fd9"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ke_01",
@@ -1887,23 +2163,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "beslemek = füttern, ernähren; kedi beslemek = eine Katze halten. Nach Zahlwörtern Singular: iki kedi. Vokal e fällt vor -iyor: besle- → besl-iyor.",
    "audio": "audio/tr-de/wendungen/ke_01.mp3?v=41976621",
    "gloss": "kedi besle·mek | Katze füttern·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Evde iki kedi besliyoruz.",
     "de": "Zu Hause halten wir zwei Katzen.",
     "luecke": "kedi besliyoruz",
     "gloss": "Ev·de iki kedi besl·iyor·uz. | Haus·LOK zwei Katze füttern·PRÄS·1PL",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_01.mp3?v=9c4d2011"
    },
    "zeit": {
     "pc": {
      "fr": "Evde iki kedi besledik.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_01_pc.mp3?v=eaf86ea9"
     },
     "fp": {
      "fr": "Evde iki kedi besleyeceğiz.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_01_fp.mp3?v=fada4f2f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_02",
@@ -1915,23 +2197,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "mırıldanmak = schnurren, auch: vor sich hin murmeln. kucak = Schoß (kucağ-ım-a: k → ğ). -ınca/-ince = sobald, wenn (Konverb).",
    "audio": "audio/tr-de/wendungen/ke_02.mp3?v=d6a2d6c9",
    "gloss": "mırıldan·mak | schnurren·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kucağıma çıkınca mırıldanıyor.",
     "de": "Sobald sie auf meinen Schoß steigt, schnurrt sie.",
     "luecke": "mırıldanıyor",
     "gloss": "Kucağ·ım·a çık·ınca mırıldan·ıyor. | Schoß·mein·DAT steigen·SOBALD schnurren·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_02.mp3?v=ffb59319"
    },
    "zeit": {
     "pc": {
      "fr": "Kucağıma çıkınca mırıldandı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_02_pc.mp3?v=17d9f154"
     },
     "fp": {
      "fr": "Kucağıma çıkınca mırıldanacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_02_fp.mp3?v=4c8d03c5"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_03",
@@ -1943,23 +2231,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "miyav = miau; miyavlamak = miauen (Lautverb mit -la-). Ebenso: havlamak = bellen, hırlamak = knurren.",
    "audio": "audio/tr-de/wendungen/ke_03.mp3?v=5710c480",
    "gloss": "miyavla·mak | miauen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sabah beşte kapıda miyavlıyor.",
     "de": "Um fünf Uhr morgens miaut sie an der Tür.",
     "luecke": "miyavlıyor",
     "gloss": "Sabah beş·te kapı·da miyavl·ıyor. | Morgen fünf·LOK Tür·LOK miauen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_03.mp3?v=d4a84bc0"
    },
    "zeit": {
     "pc": {
      "fr": "Sabah beşte kapıda miyavladı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_03_pc.mp3?v=37755ca1"
     },
     "fp": {
      "fr": "Sabah beşte kapıda miyavlayacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_03_fp.mp3?v=af0c7ef3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_04",
@@ -1971,23 +2265,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tırmalamak = mit den Krallen kratzen; tırmanmak = klettern (nicht verwechseln). koltuk = Sessel, Sofa (koltuğ-u: k → ğ vor Vokal). tırmalama tahtası = Kratzbaum.",
    "audio": "audio/tr-de/wendungen/ke_04.mp3?v=e0925c6d",
    "gloss": "tırmala·mak | kratzen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Koltuğu yine tırmaladı.",
     "de": "Sie hat wieder das Sofa zerkratzt.",
     "luecke": "tırmaladı",
     "gloss": "Koltuğ·u yine tırmala·dı. | Sofa·AKK wieder kratzen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_04.mp3?v=3c3ad8a0"
    },
    "zeit": {
     "pc": {
      "fr": "Koltuğu yine tırmalamıştı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_04_pc.mp3?v=5259edcf"
     },
     "fp": {
      "fr": "Koltuğu yine tırmalayacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_04_fp.mp3?v=5c3061e3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_05",
@@ -1999,23 +2299,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kum = Sand; kedi kumu = Katzenstreu (Possessivverbindung). gitmek: t → d vor Vokal (gid-iyor-um). market = Supermarkt.",
    "audio": "audio/tr-de/wendungen/ke_05.mp3?v=551f101b",
    "gloss": "kedi kum·u | Katze Sand·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kedi kumu bitti, markete gidiyorum.",
     "de": "Die Streu ist alle, ich gehe in den Laden.",
     "luecke": "Kedi kumu",
     "gloss": "Kedi kum·u bit·ti, market·e gid·iyor·um. | Katze Sand·sein enden·VERG, Laden·DAT gehen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_05.mp3?v=25553dda"
    },
    "zeit": {
     "pc": {
      "fr": "Kedi kumu bitmişti, markete gittim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_05_pc.mp3?v=87c00324"
     },
     "fp": {
      "fr": "Kedi kumu bitecek, markete gideceğim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_05_fp.mp3?v=ac63390a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_06",
@@ -2027,23 +2333,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "mama = Tierfutter (auch Babybrei). -arak/-erek = indem, -end: koşarak = laufend. Akkusativ nach Vokal mit y: mama-yı.",
    "audio": "audio/tr-de/wendungen/ke_06.mp3?v=9af158e5",
    "gloss": "mama | Tierfutter",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Mamayı görünce koşarak geliyor.",
     "de": "Wenn sie das Futter sieht, kommt sie angerannt.",
     "luecke": "Mamayı",
     "gloss": "Mama·yı gör·ünce koş·arak gel·iyor. | Futter·AKK sehen·SOBALD laufen·INDEM kommen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_06.mp3?v=7873d345"
    },
    "zeit": {
     "pc": {
      "fr": "Mamayı görünce koşarak geldi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_06_pc.mp3?v=9dfbe92c"
     },
     "fp": {
      "fr": "Mamayı görünce koşarak gelecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_06_fp.mp3?v=d96f72a6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_07",
@@ -2055,23 +2367,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "pati = Pfote; -(y)le = mit (Instrumental, aus ile). düşmek = fallen, düşürmek = fallen lassen (Kausativ -ür-).",
    "audio": "audio/tr-de/wendungen/ke_07.mp3?v=ffbcfbb9",
    "gloss": "pati·si·yle | Pfote·sein·MIT",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Patisiyle kalemimi masadan düşürüyor.",
     "de": "Mit der Pfote schubst sie meinen Stift vom Tisch.",
     "luecke": "Patisiyle",
     "gloss": "Pati·si·yle kalem·im·i masa·dan düşür·üyor. | Pfote·sein·MIT Stift·mein·AKK Tisch·ABL fallen.lassen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_07.mp3?v=a3851baf"
    },
    "zeit": {
     "pc": {
      "fr": "Patisiyle kalemimi masadan düşürdü.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_07_pc.mp3?v=0b0919b1"
     },
     "fp": {
      "fr": "Patisiyle kalemimi masadan düşürecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_07_fp.mp3?v=8b945c4b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_08",
@@ -2083,23 +2401,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "çıkmak = hinaufsteigen, herauskommen. -ken = während (okurken = während ich lese; Aorist + ken). kucağıma = auf meinen Schoß (Dativ).",
    "audio": "audio/tr-de/wendungen/ke_08.mp3?v=601d002f",
    "gloss": "kucağ·a çık·mak | Schoß·DAT steigen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kâğıt okurken kucağıma çıkıyor.",
     "de": "Beim Korrigieren kommt sie auf meinen Schoß.",
     "luecke": "kucağıma çıkıyor",
     "gloss": "Kâğıt oku·r·ken kucağ·ım·a çık·ıyor. | Blatt lesen·AOR·WÄHREND Schoß·mein·DAT steigen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_08.mp3?v=cf5d317b"
    },
    "zeit": {
     "pc": {
      "fr": "Kâğıt okurken kucağıma çıktı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_08_pc.mp3?v=4a07f63f"
     },
     "fp": {
      "fr": "Kâğıt okurken kucağıma çıkacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_08_fp.mp3?v=bb0c1ba1"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_09",
@@ -2111,23 +2435,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "uyumak = schlafen, uyuklamak = dösen, einnicken (-kla- Verkleinerung). bütün gün = den ganzen Tag.",
    "audio": "audio/tr-de/wendungen/ke_09.mp3?v=992b4250",
    "gloss": "uyukla·mak | dösen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Güneşte bütün gün uyukluyor.",
     "de": "In der Sonne döst sie den ganzen Tag.",
     "luecke": "uyukluyor",
     "gloss": "Güneş·te bütün gün uyukl·uyor. | Sonne·LOK ganz Tag dösen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_09.mp3?v=44b0f5cb"
    },
    "zeit": {
     "pc": {
      "fr": "Güneşte bütün gün uyukladı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_09_pc.mp3?v=4ea9e7fc"
     },
     "fp": {
      "fr": "Güneşte bütün gün uyuklayacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_09_fp.mp3?v=2cf98b86"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_10",
@@ -2139,23 +2469,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "gibi = wie (nachgestellt). dokuzlar = die Neunten (Klassenstufe). hiç + Verneinung = nie, gar nicht. dinlemek = zuhören, gehorchen.",
    "audio": "audio/tr-de/wendungen/ke_10.mp3?v=b6c5c4da",
    "gloss": "kedi gibi | Katze wie",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dokuzlar kedi gibi, hiç dinlemiyor.",
     "de": "Die Neunten sind wie Katzen, sie hören nie.",
     "luecke": "kedi gibi",
     "gloss": "Dokuz·lar kedi gibi, hiç dinle·mi·yor. | neun·PL Katze wie, nie hören·NEG·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_10.mp3?v=3d112863"
    },
    "zeit": {
     "pc": {
      "fr": "Dokuzlar kedi gibiydi, hiç dinlemedi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_10_pc.mp3?v=2aae5c32"
     },
     "fp": {
      "fr": "Dokuzlar kedi gibi olacak, hiç dinlemeyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_10_fp.mp3?v=8b9c73c7"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_11",
@@ -2167,23 +2503,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sokak = Straße; sokak kedisi = Straßenkatze (Possessivverbindung wie kedi kumu). seçmek = wählen. bizi = uns (Akkusativ).",
    "audio": "audio/tr-de/wendungen/ke_11.mp3?v=2d89b9a8",
    "gloss": "sokak kedi·si | Straße Katze·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sokak kedisi ama bizi seçti.",
     "de": "Eine Straßenkatze, aber sie hat uns gewählt.",
     "luecke": "Sokak kedisi",
     "gloss": "Sokak kedi·si ama biz·i seç·ti. | Straße Katze·sein aber wir·AKK wählen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_11.mp3?v=22654244"
    },
    "zeit": {
     "pc": {
      "fr": "Sokak kedisiydi ama bizi seçmişti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_11_pc.mp3?v=e117e934"
     },
     "fp": {
      "fr": "Sokak kedisi ama bizi seçecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_11_fp.mp3?v=adc717a8"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_12",
@@ -2195,23 +2537,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "mahalle = Stadtviertel; mahalle kedisi = die von allen gefütterte Katze des Viertels, Istanbuler Institution. Genitiv -nin + Possessiv -si = hat.",
    "audio": "audio/tr-de/wendungen/ke_12.mp3?v=86c6f8b0",
    "gloss": "mahalle kedi·si | Viertel Katze·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "İstanbul'da her mahallenin kedisi var.",
     "de": "In Istanbul hat jedes Viertel seine Katze.",
     "luecke": "mahallenin kedisi",
     "gloss": "İstanbul·'da her mahalle·nin kedi·si var. | Istanbul·LOK jedes Viertel·GEN Katze·sein vorhanden",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_12.mp3?v=802c404b"
    },
    "zeit": {
     "pc": {
      "fr": "İstanbul'da her mahallenin kedisi vardı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_12_pc.mp3?v=02f72f71"
     },
     "fp": {
      "fr": "İstanbul'da her mahallenin kedisi olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_12_fp.mp3?v=93b61f4d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_13",
@@ -2223,23 +2571,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tüy = Fell, Feder, Flaum (saç = Kopfhaar des Menschen). dökmek = gießen, verlieren; tüy dökmek = haaren. her yer = überall.",
    "audio": "audio/tr-de/wendungen/ke_13.mp3?v=8def3d8c",
    "gloss": "tüy dök·mek | Haar vergießen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Baharda her yer tüy, çok döküyor.",
     "de": "Im Frühling ist alles voller Haare, sie haart sehr.",
     "luecke": "döküyor",
     "gloss": "Bahar·da her yer tüy, çok dök·üyor. | Frühling·LOK jeder Ort Haar, sehr vergießen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_13.mp3?v=1446cace"
    },
    "zeit": {
     "pc": {
      "fr": "Baharda her yer tüydü, çok döktü.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_13_pc.mp3?v=17ab6a4e"
     },
     "fp": {
      "fr": "Baharda her yer tüy olacak, çok dökecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_13_fp.mp3?v=87356865"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_14",
@@ -2251,23 +2605,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kusmak = sich übergeben (bei Katzen: Haarballen). tabii ki = natürlich. Dativ nach Vokal mit y: halı-ya.",
    "audio": "audio/tr-de/wendungen/ke_14.mp3?v=5041e6a6",
    "gloss": "kus·mak | sich.übergeben·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Halıya kustu, tabii ki halıya.",
     "de": "Auf den Teppich hat sie gespuckt, natürlich auf den Teppich.",
     "luecke": "kustu",
     "gloss": "Halı·ya kus·tu, tabii·ki halı·ya. | Teppich·DAT sich.übergeben·VERG, natürlich Teppich·DAT",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_14.mp3?v=eae37887"
    },
    "zeit": {
     "pc": {
      "fr": "Halıya kusmuştu, tabii ki halıya.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_14_pc.mp3?v=a5b128e4"
     },
     "fp": {
      "fr": "Halıya kusacak, tabii ki halıya.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_14_fp.mp3?v=0af3f73b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_15",
@@ -2279,23 +2639,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "götürmek = hinbringen, getirmek = herbringen (Richtung!). aşı = Impfung; için = für, um zu (nachgestellt).",
    "audio": "audio/tr-de/wendungen/ke_15.mp3?v=0338f93c",
    "gloss": "veteriner·e götür·mek | Tierarzt·DAT hinbringen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yarın aşı için veterinere götürüyorum.",
     "de": "Morgen bringe ich sie zum Impfen zum Tierarzt.",
     "luecke": "veterinere götürüyorum",
     "gloss": "Yarın aşı için veteriner·e götür·üyor·um. | morgen Impfung für Tierarzt·DAT hinbringen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_15.mp3?v=d566a226"
    },
    "zeit": {
     "pc": {
      "fr": "Dün aşı için veterinere götürdüm.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_15_pc.mp3?v=83c4c9f7"
     },
     "fp": {
      "fr": "Yarın aşı için veterinere götüreceğim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_15_fp.mp3?v=e5f2726a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_16",
@@ -2307,23 +2673,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Ein Wort, vier Bausteine: kısır (unfruchtbar) + -laş- (werden) + -tır- (machen lassen) + -ıyor. belediye = Stadtverwaltung.",
    "audio": "audio/tr-de/wendungen/ke_16.mp3?v=400a4e60",
    "gloss": "kısır·laş·tır·mak | unfruchtbar·werden·KAUS·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Belediye sokak kedilerini kısırlaştırıyor.",
     "de": "Die Stadt sterilisiert die Straßenkatzen.",
     "luecke": "kısırlaştırıyor",
     "gloss": "Belediye sokak kedi·ler·i·ni kısır·laş·tır·ıyor. | Stadtverwaltung Straße Katze·PL·sein·AKK unfruchtbar·werden·KAUS·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_16.mp3?v=1f6add90"
    },
    "zeit": {
     "pc": {
      "fr": "Belediye sokak kedilerini kısırlaştırdı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_16_pc.mp3?v=9d7dd9c0"
     },
     "fp": {
      "fr": "Belediye sokak kedilerini kısırlaştıracak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_16_fp.mp3?v=8cdbcd99"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_17",
@@ -2335,23 +2707,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "pati = Pfote (auch liebevoll: patili dostlar = Pfotenfreunde). kar gibi beyaz = schneeweiß (gibi nachgestellt).",
    "audio": "audio/tr-de/wendungen/ke_17.mp3?v=9567ed92",
    "gloss": "pati | Pfote",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Patileri kar gibi beyaz.",
     "de": "Ihre Pfoten sind schneeweiß.",
     "luecke": "Patileri",
     "gloss": "Pati·ler·i kar gibi beyaz. | Pfote·PL·sein Schnee wie weiß",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_17.mp3?v=e88af32f"
    },
    "zeit": {
     "pc": {
      "fr": "Patileri kar gibi beyazdı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_17_pc.mp3?v=5b73d4e0"
     },
     "fp": {
      "fr": "Patileri kar gibi beyaz olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_17_fp.mp3?v=dfbc98ba"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_18",
@@ -2363,23 +2741,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "bıyık = Schnurrbart, bei Katzen die Schnurrhaare. geniş = breit, genişlik = Breite (-lik = Abstraktum). ölçmek = messen.",
    "audio": "audio/tr-de/wendungen/ke_18.mp3?v=2d028223",
    "gloss": "bıyık | Schnurrbart",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bıyıkları kapı genişliğini ölçüyor.",
     "de": "Die Schnurrhaare messen die Türbreite.",
     "luecke": "Bıyıkları",
     "gloss": "Bıyık·lar·ı kapı genişliğ·i·ni ölç·üyor. | Schnurrbart·PL·sein Tür Breite·sein·AKK messen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_18.mp3?v=7e0370e9"
    },
    "zeit": {
     "pc": {
      "fr": "Bıyıkları kapı genişliğini ölçtü.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_18_pc.mp3?v=d029589c"
     },
     "fp": {
      "fr": "Bıyıkları kapı genişliğini ölçecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_18_fp.mp3?v=db741077"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_19",
@@ -2391,23 +2775,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "naz = Ziererei, Koketterie; nazlanmak = sich zieren, nazlı = verwöhnt, kokett. yemek = essen: yi-yor, ye-di, yi-yecek.",
    "audio": "audio/tr-de/wendungen/ke_19.mp3?v=1683da11",
    "gloss": "nazlan·mak | sich.zieren·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Önce nazlanıyor, sonra yiyor.",
     "de": "Erst ziert sie sich, dann frisst sie.",
     "luecke": "nazlanıyor",
     "gloss": "Önce nazlan·ıyor, sonra yi·yor. | zuerst sich.zieren·PRÄS, dann essen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_19.mp3?v=cb919817"
    },
    "zeit": {
     "pc": {
      "fr": "Önce nazlandı, sonra yedi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_19_pc.mp3?v=d51dd49c"
     },
     "fp": {
      "fr": "Önce nazlanacak, sonra yiyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_19_fp.mp3?v=0df1dead"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_20",
@@ -2419,23 +2809,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sahip = Besitzer; sahiplenmek = sich zu eigen machen, adoptieren, auch: sich kümmern um. Possessiv + Akkusativ mit n: kedi-si-ni.",
    "audio": "audio/tr-de/wendungen/ke_20.mp3?v=5812e024",
    "gloss": "sahip·len·mek | Besitzer·werden·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Okulun kedisini öğrenciler sahiplendi.",
     "de": "Die Schulkatze haben die Schüler adoptiert.",
     "luecke": "sahiplendi",
     "gloss": "Okul·un kedi·si·ni öğrenci·ler sahip·len·di. | Schule·GEN Katze·sein·AKK Schüler·PL Besitzer·werden·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_20.mp3?v=0a67dc6e"
    },
    "zeit": {
     "pc": {
      "fr": "Okulun kedisini öğrenciler sahiplenmişti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_20_pc.mp3?v=905ce087"
     },
     "fp": {
      "fr": "Okulun kedisini öğrenciler sahiplenecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_20_fp.mp3?v=e6901f9c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_21",
@@ -2447,14 +2843,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "dil = Zunge und Sprache; kedi dili = das Gebäck Katzenzunge, auch: Katzensprache. verilmez = wird nicht gegeben (Passiv -il- + verneinter Aorist -mez = man tut nicht).",
    "audio": "audio/tr-de/wendungen/ke_21.mp3?v=2412f57e",
    "gloss": "kedi dil·i | Katze Zunge·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kedi dili bisküvi kediye verilmez.",
     "de": "Katzenzungen-Kekse gibt man der Katze nicht.",
     "luecke": "Kedi dili",
     "gloss": "Kedi dil·i bisküvi kedi·ye ver·il·mez. | Katze Zunge·sein Keks Katze·DAT geben·PASS·NEG.AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_21.mp3?v=e18c7ad4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ke_22",
@@ -2466,14 +2866,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "can = Leben, Seele; canlı = lebendig, mit Leben. derler = man sagt (Aorist 3. Pl. von demek).",
    "audio": "audio/tr-de/wendungen/ke_22.mp3?v=dcb62607",
    "gloss": "dokuz can·lı | neun Leben·mit",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kediler dokuz canlı, derler.",
     "de": "Katzen haben neun Leben, sagt man.",
     "luecke": "dokuz canlı",
     "gloss": "Kedi·ler dokuz can·lı, de·r·ler. | Katze·PL neun Leben·mit, sagen·AOR·3PL",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_22.mp3?v=d461347d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ke_23",
@@ -2485,23 +2889,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kafa = Kopf (umgangssprachlich; baş = Kopf, Haupt). kafasıyla = mit ihrem Kopf (Possessiv + -yla). uyanmak = aufwachen, uyandırmak = wecken.",
    "audio": "audio/tr-de/wendungen/ke_23.mp3?v=aa827b66",
    "gloss": "kedi kafa·sı | Katze Kopf·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sabah kedi kafasıyla uyanıyorum.",
     "de": "Morgens werde ich mit einer Kopfnuss der Katze wach.",
     "luecke": "kedi kafasıyla",
     "gloss": "Sabah kedi kafa·sı·yla uyan·ıyor·um. | Morgen Katze Kopf·sein·MIT aufwachen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_23.mp3?v=2e0bb288"
    },
    "zeit": {
     "pc": {
      "fr": "Sabah kedi kafasıyla uyandım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_23_pc.mp3?v=5e7bfae6"
     },
     "fp": {
      "fr": "Sabah kedi kafasıyla uyanacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_23_fp.mp3?v=b1a4719e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ke_24",
@@ -2513,23 +2923,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kedim = meine Katze (Possessiv -m nach Vokal). değil = nicht (verneint Nomen und Satzteile): beni değil, evi = nicht mich, sondern das Haus.",
    "audio": "audio/tr-de/wendungen/ke_24.mp3?v=0436e2ff",
    "gloss": "kedi·m | Katze·mein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kedim beni değil, evi seviyor.",
     "de": "Meine Katze liebt nicht mich, sondern das Haus.",
     "luecke": "Kedim",
     "gloss": "Kedi·m ben·i değil, ev·i sev·iyor. | Katze·mein ich·AKK nicht, Haus·AKK lieben·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ke_24.mp3?v=3d0bd801"
    },
    "zeit": {
     "pc": {
      "fr": "Kedim beni değil, evi sevdi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_24_pc.mp3?v=65c98eb2"
     },
     "fp": {
      "fr": "Kedim beni değil, evi sevecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_24_fp.mp3?v=a7abd8e5"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_01",
@@ -2541,23 +2957,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "şarkı = Lied; şarkı söylemek = singen (wörtlich: Lied sagen). Vokal e fällt vor -iyor: söyle- → söyl-üyor, dinle- → dinl-iyor. « da/de » nach dem Wort = auch.",
    "audio": "audio/tr-de/wendungen/mu_01.mp3?v=7cd7c17a",
    "gloss": "şarkı söyle·mek | Lied sagen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Duşta şarkı söylüyorum, komşu da dinliyor.",
     "de": "Unter der Dusche singe ich, der Nachbar hört mit.",
     "luecke": "şarkı söylüyorum",
     "gloss": "Duş·ta şarkı söyl·üyor·um, komşu da dinl·iyor. | Dusche·LOK Lied sagen·PRÄS·1SG, Nachbar auch hören·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_01.mp3?v=d16368e6"
    },
    "zeit": {
     "pc": {
      "fr": "Duşta şarkı söyledim, komşu da dinledi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_01_pc.mp3?v=b3659d4a"
     },
     "fp": {
      "fr": "Duşta şarkı söyleyeceğim, komşu da dinleyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_01_fp.mp3?v=de7201dd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_02",
@@ -2569,23 +2991,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "çalmak = (ein Instrument) spielen, aber auch: stehlen und klingeln (zil çalıyor). Verdopplung yavaş yavaş = ganz langsam, nach und nach. bağlama = Langhalslaute.",
    "audio": "audio/tr-de/wendungen/mu_02.mp3?v=71f7a4bb",
    "gloss": "enstrüman çal·mak | Instrument spielen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bağlama çalıyorum, yavaş yavaş.",
     "de": "Ich spiele Bağlama, ganz langsam.",
     "luecke": "çalıyorum",
     "gloss": "Bağlama çal·ıyor·um, yavaş yavaş. | Bağlama spielen·PRÄS·1SG, langsam langsam",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_02.mp3?v=da547408"
    },
    "zeit": {
     "pc": {
      "fr": "Bağlama çaldım, yavaş yavaş.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_02_pc.mp3?v=7cafea93"
     },
     "fp": {
      "fr": "Bağlama çalacağım, yavaş yavaş.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_02_fp.mp3?v=e16ab124"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_03",
@@ -2597,23 +3025,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kulak = Ohr; kulaktan = vom Ohr her = nach Gehör (Ablativ). nota = Musiknote (not = Schulnote!). bilmek = wissen, kennen.",
    "audio": "audio/tr-de/wendungen/mu_03.mp3?v=55c7567c",
    "gloss": "kulak·tan çal·mak | Ohr·ABL spielen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Notayı bilmiyorum, kulaktan çalıyorum.",
     "de": "Ich kenne die Noten nicht, ich spiele nach Gehör.",
     "luecke": "kulaktan çalıyorum",
     "gloss": "Nota·yı bil·mi·yor·um, kulak·tan çal·ıyor·um. | Note·AKK wissen·NEG·PRÄS·1SG, Ohr·ABL spielen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_03.mp3?v=e607bda5"
    },
    "zeit": {
     "pc": {
      "fr": "Notayı bilmiyordum, kulaktan çaldım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_03_pc.mp3?v=b49766cc"
     },
     "fp": {
      "fr": "Notayı bilmeyeceğim, kulaktan çalacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_03_fp.mp3?v=ee09dc07"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_04",
@@ -2625,23 +3059,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ezber = das Auswendiggelernte; ezberlemek = auswendig lernen, ezbere = auswendig. sözler = Liedtext (Plural von söz). henüz = noch (nicht).",
    "audio": "audio/tr-de/wendungen/mu_04.mp3?v=c2cd0f1c",
    "gloss": "ezberle·mek | auswendig.lernen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sözleri ezberledim, melodiyi henüz değil.",
     "de": "Den Text habe ich auswendig, die Melodie noch nicht.",
     "luecke": "ezberledim",
     "gloss": "Söz·ler·i ezberle·di·m, melodi·yi henüz değil. | Wort·PL·AKK auswendig.lernen·VERG·1SG, Melodie·AKK noch nicht",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_04.mp3?v=e278a371"
    },
    "zeit": {
     "pc": {
      "fr": "Sözleri ezberlemiştim, melodiyi henüz değil.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_04_pc.mp3?v=2f062f6e"
     },
     "fp": {
      "fr": "Sözleri ezberleyeceğim, melodiyi henüz değil.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_04_fp.mp3?v=166bfe07"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_05",
@@ -2653,23 +3093,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kulağa hoş gelmek = dem Ohr angenehm kommen = gut klingen. sayesinde = dank (nachgestellt, positiv); yüzünden = wegen (negativ).",
    "audio": "audio/tr-de/wendungen/mu_05.mp3?v=0615ea3d",
    "gloss": "kulağ·a hoş gel·mek | Ohr·DAT angenehm kommen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Türkçe kulağa hoş geliyor, ünlü uyumu sayesinde.",
     "de": "Türkisch klingt angenehm, dank der Vokalharmonie.",
     "luecke": "kulağa hoş geliyor",
     "gloss": "Türkçe kulağ·a hoş gel·iyor, ünlü uyum·u sayesinde. | Türkisch Ohr·DAT angenehm kommen·PRÄS, Vokal Harmonie·sein dank",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_05.mp3?v=d71d704d"
    },
    "zeit": {
     "pc": {
      "fr": "Türkçe kulağa hoş geldi, ünlü uyumu sayesinde.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_05_pc.mp3?v=cb150756"
     },
     "fp": {
      "fr": "Türkçe kulağa hoş gelecek, ünlü uyumu sayesinde.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_05_fp.mp3?v=9084d3ab"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_06",
@@ -2681,14 +3127,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ünlü = Vokal (und: berühmt), ünsüz = Konsonant. -madan = ohne zu. söylenmez = wird nicht gesungen / kann man nicht singen (Passiv + verneinter Aorist). Große Harmonie: e/i → e/i, a/ı → a/ı; kleine: ö/ü → ü, o/u → u.",
    "audio": "audio/tr-de/wendungen/mu_06.mp3?v=db872a89",
    "gloss": "ünlü uyum·u | Vokal Harmonie·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ünlü uyumu olmadan Türkçe şarkı söylenmez.",
     "de": "Ohne Vokalharmonie kann man kein Türkisch singen.",
     "luecke": "Ünlü uyumu",
     "gloss": "Ünlü uyum·u ol·ma·dan Türkçe şarkı söyle·n·mez. | Vokal Harmonie·sein sein·NEG·ABL Türkisch Lied sagen·PASS·NEG.AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_06.mp3?v=0e0b395f"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_07",
@@ -2700,23 +3150,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "telaffuz (arabisch) = Aussprache; telaffuz etmek = aussprechen. derler = man sagt. inanmak = glauben (+ Dativ: sana inanıyorum).",
    "audio": "audio/tr-de/wendungen/mu_07.mp3?v=32cf1a2f",
    "gloss": "telaffuz | Aussprache",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Telaffuzum iyi, derler; ben inanmıyorum.",
     "de": "Meine Aussprache sei gut, sagt man; ich glaube es nicht.",
     "luecke": "Telaffuzum",
     "gloss": "Telaffuz·um iyi, de·r·ler; ben inan·mı·yor·um. | Aussprache·mein gut, sagen·AOR·3PL; ich glauben·NEG·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_07.mp3?v=fa9c0bc4"
    },
    "zeit": {
     "pc": {
      "fr": "Telaffuzum iyiydi, derlerdi; ben inanmıyordum.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_07_pc.mp3?v=0da0483e"
     },
     "fp": {
      "fr": "Telaffuzum iyi olacak, derler; ben inanmıyorum.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_07_fp.mp3?v=dc8063b6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_08",
@@ -2728,14 +3184,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "vurgu = Betonung (von vurmak = schlagen); hece = Silbe. Grundregel: Betonung auf der letzten Silbe; Ausnahmen: Ortsnamen (İSTANbul, ANkara), Adverbien, Verneinung -me-.",
    "audio": "audio/tr-de/wendungen/mu_08.mp3?v=303befa1",
    "gloss": "vurgu | Betonung",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Vurgu son hecede, ama her zaman değil.",
     "de": "Die Betonung liegt auf der letzten Silbe, aber nicht immer.",
     "luecke": "Vurgu",
     "gloss": "Vurgu son hece·de, ama her·zaman değil. | Betonung letzt Silbe·LOK, aber immer nicht",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_08.mp3?v=efa81459"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_09",
@@ -2747,23 +3207,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "dil = Zunge, Sprache; sürçmek = stolpern, ausrutschen; dil sürçmesi = Zungenstolperer = Versprecher. gülmek = lachen, gülümsemek = lächeln.",
    "audio": "audio/tr-de/wendungen/mu_09.mp3?v=9f73c64d",
    "gloss": "dil sürç·me·si | Zunge stolpern·INF·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dil sürçmesi oldu, sınıf güldü.",
     "de": "Ein Versprecher, die Klasse hat gelacht.",
     "luecke": "Dil sürçmesi",
     "gloss": "Dil sürç·me·si ol·du, sınıf gül·dü. | Zunge stolpern·INF·sein sein·VERG, Klasse lachen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_09.mp3?v=4426a38e"
    },
    "zeit": {
     "pc": {
      "fr": "Dil sürçmesi olmuştu, sınıf gülmüştü.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_09_pc.mp3?v=1a689b10"
     },
     "fp": {
      "fr": "Dil sürçmesi olacak, sınıf gülecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_09_fp.mp3?v=eff91f22"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_10",
@@ -2775,23 +3241,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "aksan = Akzent (Aussprachefärbung); şive = Dialektfärbung. saklamak = verstecken; sakla-ya-maz = kann nicht verstecken (-ya- Bindung + -ma- NEG + -z Aorist).",
    "audio": "audio/tr-de/wendungen/mu_10.mp3?v=b69fc79f",
    "gloss": "aksan | Akzent",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Aksanım Alman, kimse saklayamaz.",
     "de": "Mein Akzent ist deutsch, keiner kann das verstecken.",
     "luecke": "Aksanım",
     "gloss": "Aksan·ım Alman, kimse sakla·ya·maz. | Akzent·mein deutsch, niemand verstecken·KANN·NEG.AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_10.mp3?v=ea825b20"
    },
    "zeit": {
     "pc": {
      "fr": "Aksanım Almandı, kimse saklayamadı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_10_pc.mp3?v=e52c6ca1"
     },
     "fp": {
      "fr": "Aksanım Alman olacak, kimse saklayamayacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_10_fp.mp3?v=5e063224"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_11",
@@ -2803,23 +3275,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ritim tutmak = den Takt halten (mit Hand oder Fuß). tut-a-mı-yor-um = ich kann nicht halten: Möglichkeitsform negativ -(y)a-ma-. ayrı = getrennt, anders.",
    "audio": "audio/tr-de/wendungen/mu_11.mp3?v=768726d1",
    "gloss": "ritim tut·mak | Rhythmus halten·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ritim tutamıyorum, ellerim ayrı dünyada.",
     "de": "Ich kann den Takt nicht halten, meine Hände leben in einer anderen Welt.",
     "luecke": "Ritim tutamıyorum",
     "gloss": "Ritim tut·a·mı·yor·um, el·ler·im ayrı dünya·da. | Rhythmus halten·KANN·NEG·PRÄS·1SG, Hand·PL·mein getrennt Welt·LOK",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_11.mp3?v=c7c375bf"
    },
    "zeit": {
     "pc": {
      "fr": "Ritim tutamadım, ellerim ayrı dünyadaydı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_11_pc.mp3?v=bd01ec56"
     },
     "fp": {
      "fr": "Ritim tutamayacağım, ellerim ayrı dünyada olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_11_fp.mp3?v=8b3ef51c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_12",
@@ -2831,23 +3309,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "detone (frz. détonner) = unrein, neben dem Ton; detone olmak = falsch singen. fark etmek = bemerken (wörtlich: Unterschied machen).",
    "audio": "audio/tr-de/wendungen/mu_12.mp3?v=0ff6b9e6",
    "gloss": "detone ol·mak | unrein sein·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Nakaratta detone oldum, kimse fark etmedi.",
     "de": "Im Refrain habe ich falsch gesungen, keiner hat es gemerkt.",
     "luecke": "detone oldum",
     "gloss": "Nakarat·ta detone ol·du·m, kimse fark et·me·di. | Refrain·LOK unrein sein·VERG·1SG, niemand Unterschied machen·NEG·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_12.mp3?v=c5a6d25e"
    },
    "zeit": {
     "pc": {
      "fr": "Nakaratta detone olmuştum, kimse fark etmemişti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_12_pc.mp3?v=50580317"
     },
     "fp": {
      "fr": "Nakaratta detone olacağım, kimse fark etmeyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_12_fp.mp3?v=253443d5"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_13",
@@ -2859,23 +3343,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "nakarat (arabisch) = Refrain; kıta = Strophe (auch: Kontinent!). herkes = jeder, kimse (+ Verneinung) = niemand.",
    "audio": "audio/tr-de/wendungen/mu_13.mp3?v=07d903cf",
    "gloss": "nakarat | Refrain",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Nakaratı herkes biliyor, kıtaları kimse.",
     "de": "Den Refrain kennt jeder, die Strophen keiner.",
     "luecke": "Nakaratı",
     "gloss": "Nakarat·ı herkes bil·iyor, kıta·lar·ı kimse. | Refrain·AKK jeder wissen·PRÄS, Strophe·PL·AKK niemand",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_13.mp3?v=77b488b8"
    },
    "zeit": {
     "pc": {
      "fr": "Nakaratı herkes biliyordu, kıtaları kimse.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_13_pc.mp3?v=ad09bc3c"
     },
     "fp": {
      "fr": "Nakaratı herkes bilecek, kıtaları kimse.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_13_fp.mp3?v=4ae164f2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_14",
@@ -2887,14 +3377,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "türkü = anonymes Volkslied (von Türk + -ü), şarkı = Lied allgemein. en = am meisten (Superlativ: en güzel). söylenir = wird gesungen (Passiv + Aorist für Gewohnheit).",
    "audio": "audio/tr-de/wendungen/mu_14.mp3?v=1508fd58",
    "gloss": "türkü | Volkslied",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Türküler en güzel akşam söylenir.",
     "de": "Volkslieder singt man am schönsten abends.",
     "luecke": "Türküler",
     "gloss": "Türkü·ler en güzel akşam söyle·n·ir. | Volkslied·PL am.meisten schön Abend sagen·PASS·AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_14.mp3?v=69812fd7"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_15",
@@ -2906,23 +3400,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kulak dolgunluğu = das volle Ohr: man hat eine Sprache oft gehört, versteht viel, spricht noch wenig. dolgun = voll, prall; -luk = Abstraktum (dolgunluk, k → ğ vor Vokal).",
    "audio": "audio/tr-de/wendungen/mu_15.mp3?v=2af881d4",
    "gloss": "kulak dolgun·luğ·u | Ohr voll·Abstr.·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kulak dolgunluğu var, kelimeler yavaş geliyor.",
     "de": "Das Ohr ist voll, die Wörter kommen langsam.",
     "luecke": "Kulak dolgunluğu",
     "gloss": "Kulak dolgun·luğ·u var, kelime·ler yavaş gel·iyor. | Ohr voll·Abstr.·sein vorhanden, Wort·PL langsam kommen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_15.mp3?v=f9926b82"
    },
    "zeit": {
     "pc": {
      "fr": "Kulak dolgunluğu vardı, kelimeler yavaş geliyordu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_15_pc.mp3?v=299bf95f"
     },
     "fp": {
      "fr": "Kulak dolgunluğu olacak, kelimeler yavaş gelecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_15_fp.mp3?v=bb14719e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_16",
@@ -2934,14 +3434,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "öğrenmek = lernen, öğretmek = lehren (-t- Kausativ), öğretmen = Lehrer, öğrenci = Schüler. her gün = jeden Tag.",
    "audio": "audio/tr-de/wendungen/mu_16.mp3?v=90d51f1e",
    "gloss": "dil öğren·mek | Sprache lernen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dil öğrenmek müzik gibi, her gün biraz.",
     "de": "Sprachen lernen ist wie Musik, jeden Tag ein bisschen.",
     "luecke": "Dil öğrenmek",
     "gloss": "Dil öğren·mek müzik gibi, her gün biraz. | Sprache lernen·INF Musik wie, jeder Tag ein.bisschen",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_16.mp3?v=dbb1e947"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "mu_17",
@@ -2953,23 +3457,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ana = Mutter (auch: Haupt-); ana dili = Muttersprache. Sprachen mit -ca/-ce: Almanca, Türkçe, Fransızca. rüya = Traum, rüya görmek = träumen.",
    "audio": "audio/tr-de/wendungen/mu_17.mp3?v=f78f046b",
    "gloss": "ana dil·i | Mutter Sprache·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ana dilim Almanca, rüyalarım hâlâ Almanca.",
     "de": "Meine Muttersprache ist Deutsch, meine Träume sind noch deutsch.",
     "luecke": "Ana dilim",
     "gloss": "Ana dil·im Almanca, rüya·lar·ım hâlâ Almanca. | Mutter Sprache·mein Deutsch, Traum·PL·mein immer.noch Deutsch",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_17.mp3?v=ec55db99"
    },
    "zeit": {
     "pc": {
      "fr": "Ana dilim Almancaydı, rüyalarım hâlâ Almancaydı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_17_pc.mp3?v=ac88101a"
     },
     "fp": {
      "fr": "Ana dilim Almanca, rüyalarım hâlâ Almanca olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_17_fp.mp3?v=ddd36a4c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_18",
@@ -2981,23 +3491,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sözcük = Wort (türkisch), kelime = Wort (arabisch): beide gebräuchlich. dağarcık = Beutel, Vorrat; sözcük dağarcığı = Wortschatz. büyümek = wachsen.",
    "audio": "audio/tr-de/wendungen/mu_18.mp3?v=d6c8513d",
    "gloss": "sözcük dağarcığ·ı | Wort Speicher·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sözcük dağarcığım büyüyor, üç kelime bir gün.",
     "de": "Mein Wortschatz wächst, drei Wörter am Tag.",
     "luecke": "Sözcük dağarcığım",
     "gloss": "Sözcük dağarcığ·ım büy·üyor, üç kelime bir gün. | Wort Speicher·mein wachsen·PRÄS, drei Wort ein Tag",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_18.mp3?v=5e34ef8f"
    },
    "zeit": {
     "pc": {
      "fr": "Sözcük dağarcığım büyüdü, üç kelime bir gün.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_18_pc.mp3?v=0c977454"
     },
     "fp": {
      "fr": "Sözcük dağarcığım büyüyecek, üç kelime bir gün.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_18_fp.mp3?v=f8d512e9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_19",
@@ -3009,23 +3525,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "akıcı = fließend (akmak = fließen). konuş-acağ-ım: Futur -acak, k → ğ vor Vokal. söz vermek = versprechen (wörtlich: Wort geben).",
    "audio": "audio/tr-de/wendungen/mu_19.mp3?v=2e353823",
    "gloss": "akıcı konuş·mak | fließend sprechen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
     "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
     "luecke": "akıcı konuşacağım",
     "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832"
    },
    "zeit": {
     "pc": {
      "fr": "Bir gün akıcı konuştum, Cem haklıydı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_19_pc.mp3?v=1c5726cd"
     },
     "fp": {
      "fr": "Bir gün akıcı konuşacağım, Cem söz verecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_19_fp.mp3?v=239e1781"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_20",
@@ -3037,23 +3559,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "çat pat = lautmalend: gebrochen, radebrechend (çat pat Türkçe konuşmak). gülümsemek = lächeln (gülmek = lachen).",
    "audio": "audio/tr-de/wendungen/mu_20.mp3?v=2285d262",
    "gloss": "çat pat | holprig holprig",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Türkçem çat pat, ama gülümsüyorum.",
     "de": "Mein Türkisch ist holprig, aber ich lächle.",
     "luecke": "çat pat",
     "gloss": "Türkçe·m çat pat, ama gülüms·üyor·um. | Türkisch·mein holprig holprig, aber lächeln·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_20.mp3?v=4076414f"
    },
    "zeit": {
     "pc": {
      "fr": "Türkçem çat pattı, ama gülümsüyordum.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_20_pc.mp3?v=e386049c"
     },
     "fp": {
      "fr": "Türkçem çat pat olacak, ama gülümseyeceğim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_20_fp.mp3?v=6431eebb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_21",
@@ -3065,23 +3593,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ses = Stimme, Laut; sesli = mit Stimme = laut (lesen); sessiz = still (ohne Stimme). sayfa = Seite.",
    "audio": "audio/tr-de/wendungen/mu_21.mp3?v=79a8e978",
    "gloss": "ses·li oku·mak | Stimme·mit lesen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Her akşam bir sayfa sesli okuyorum.",
     "de": "Jeden Abend lese ich eine Seite laut.",
     "luecke": "sesli okuyorum",
     "gloss": "Her akşam bir sayfa ses·li oku·yor·um. | jeder Abend ein Seite Stimme·mit lesen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_21.mp3?v=5fc791a3"
    },
    "zeit": {
     "pc": {
      "fr": "Her akşam bir sayfa sesli okudum.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_21_pc.mp3?v=a514c5d4"
     },
     "fp": {
      "fr": "Her akşam bir sayfa sesli okuyacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_21_fp.mp3?v=da4838ed"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_22",
@@ -3093,23 +3627,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ses tonu = Tonfall; ton-un = dein (Possessiv 2. Sg. -n). göre = gemäß, nach, für (nachgestellt, mit Dativ): bana göre = meiner Meinung nach.",
    "audio": "audio/tr-de/wendungen/mu_22.mp3?v=0f05b88c",
    "gloss": "ses ton·u | Stimme Ton·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ses tonun yumuşak, Alman öğretmene göre.",
     "de": "Dein Tonfall ist weich, für einen deutschen Lehrer.",
     "luecke": "Ses tonun",
     "gloss": "Ses ton·un yumuşak, Alman öğretmen·e göre. | Stimme Ton·dein weich, deutsch Lehrer·DAT gemäß",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_22.mp3?v=f034c935"
    },
    "zeit": {
     "pc": {
      "fr": "Ses tonun yumuşaktı, Alman öğretmene göre.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_22_pc.mp3?v=d0cf2505"
     },
     "fp": {
      "fr": "Ses tonun yumuşak olacak, Alman öğretmene göre.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_22_fp.mp3?v=0469eaeb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_23",
@@ -3121,23 +3661,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "alıştırma = Übung (von alışmak = sich gewöhnen); alıştırma yapmak = üben. konuşma = das Sprechen (Verbalnomen -ma).",
    "audio": "audio/tr-de/wendungen/mu_23.mp3?v=5f97e1b7",
    "gloss": "alıştırma yap·mak | Übung machen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Konuşma alıştırması yapıyoruz, kedi dinliyor.",
     "de": "Wir üben Sprechen, die Katze hört zu.",
     "luecke": "alıştırması yapıyoruz",
     "gloss": "Konuşma alıştırma·sı yap·ıyor·uz, kedi dinl·iyor. | Sprechen Übung·sein machen·PRÄS·1PL, Katze hören·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_23.mp3?v=7ef0e6de"
    },
    "zeit": {
     "pc": {
      "fr": "Konuşma alıştırması yaptık, kedi dinledi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_23_pc.mp3?v=780c1b3e"
     },
     "fp": {
      "fr": "Konuşma alıştırması yapacağız, kedi dinleyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_23_fp.mp3?v=f31bc4ef"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "mu_24",
@@ -3149,23 +3695,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ezgi = Melodie (türkisch), melodi = Melodie (Lehnwort). aklımda kalmak = mir im Gedächtnis bleiben. uçmak = fliegen, hier: weg sein.",
    "audio": "audio/tr-de/wendungen/mu_24.mp3?v=0694cf57",
    "gloss": "ezgi | Melodie",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ezgi aklımda kaldı, sözler uçtu.",
     "de": "Die Melodie ist mir geblieben, der Text ist weg.",
     "luecke": "Ezgi",
     "gloss": "Ezgi akl·ım·da kal·dı, söz·ler uç·tu. | Melodie Verstand·mein·LOK bleiben·VERG, Wort·PL fliegen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/mu_24.mp3?v=a4df1335"
    },
    "zeit": {
     "pc": {
      "fr": "Ezgi aklımda kalmıştı, sözler uçmuştu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_24_pc.mp3?v=047f4f67"
     },
     "fp": {
      "fr": "Ezgi aklımda kalacak, sözler uçacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_24_fp.mp3?v=cbf80547"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_01",
@@ -3177,14 +3729,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Märchenanfang: « es gab einen, es gab keinen ». -mış = erschlossene Vergangenheit (Hörensagen), die Erzählform aller Märchen. Boğaz = Bosporus (wörtlich: Kehle, Meerenge).",
    "audio": "audio/tr-de/wendungen/hi_01.mp3?v=0080b51b",
    "gloss": "bir var·mış bir yok·muş | ein vorhanden·ERZ ein nicht.da·ERZ",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bir varmış bir yokmuş, Boğaz'da bir kedi varmış.",
     "de": "Es war einmal eine Katze am Bosporus.",
     "luecke": "Bir varmış bir yokmuş",
     "gloss": "Bir var·mış bir yok·muş, Boğaz·'da bir kedi var·mış. | ein vorhanden·ERZ ein nicht.da·ERZ, Bosporus·LOK ein Katze vorhanden·ERZ",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_01.mp3?v=a39a3b16"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_02",
@@ -3196,23 +3752,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "masal = Märchen (arabisch); hikâye = Geschichte, öykü = Erzählung. akşamları = abends (Plural + Akkusativ als Zeitangabe: sabahları, geceleri). Dativ nach anlatmak: çocuklara.",
    "audio": "audio/tr-de/wendungen/hi_02.mp3?v=295fc1ed",
    "gloss": "masal anlat·mak | Märchen erzählen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Akşamları çocuklara masal anlatıyorum, kedi de dinliyor.",
     "de": "Abends erzähle ich den Kindern Märchen, die Katze hört zu.",
     "luecke": "masal anlatıyorum",
     "gloss": "Akşam·lar·ı çocuk·lar·a masal anlat·ıyor·um, kedi de dinl·iyor. | Abend·PL·AKK Kind·PL·DAT Märchen erzählen·PRÄS·1SG, Katze auch hören·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_02.mp3?v=35fde5a5"
    },
    "zeit": {
     "pc": {
      "fr": "Akşamları çocuklara masal anlattım, kedi de dinledi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_02_pc.mp3?v=03ec2978"
     },
     "fp": {
      "fr": "Akşamları çocuklara masal anlatacağım, kedi de dinleyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_02_fp.mp3?v=16b898d9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_03",
@@ -3224,23 +3786,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ejderha (persisch) = Drache. uyumak = schlafen: uyu-yor, uyu-du, uyu-yacak. beklemek = warten (ohne Präposition: hazine bekliyor = der Schatz wartet; seni bekliyorum = ich warte auf dich).",
    "audio": "audio/tr-de/wendungen/hi_03.mp3?v=86890752",
    "gloss": "ejderha | Drache",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ejderha uyuyor, hazine bekliyor.",
     "de": "Der Drache schläft, der Schatz wartet.",
     "luecke": "Ejderha",
     "gloss": "Ejderha uy·uyor, hazine bekl·iyor. | Drache schlafen·PRÄS, Schatz warten·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_03.mp3?v=1e7cb7f6"
    },
    "zeit": {
     "pc": {
      "fr": "Ejderha uyudu, hazine bekledi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_03_pc.mp3?v=32df2942"
     },
     "fp": {
      "fr": "Ejderha uyuyacak, hazine bekleyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_03_fp.mp3?v=1cade074"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_04",
@@ -3252,14 +3820,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sihir = Zauber (arabisch), sihirli = magisch (-li = mit), sihirbaz = Zauberer. açılırdı = pflegte sich zu öffnen (Passiv -ıl- + Aorist + -dı: Gewohnheit in der Vergangenheit).",
    "audio": "audio/tr-de/wendungen/hi_04.mp3?v=d904b1bd",
    "gloss": "sihir·li | Zauber·mit",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sihirli bir kapı vardı, sadece gece açılırdı.",
     "de": "Es gab eine magische Tür, sie öffnete sich nur nachts.",
     "luecke": "Sihirli",
     "gloss": "Sihir·li bir kapı var·dı, sadece gece aç·ıl·ır·dı. | Zauber·mit ein Tür vorhanden·VERG, nur Nacht öffnen·PASS·AOR·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_04.mp3?v=5f5bee68"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_05",
@@ -3271,23 +3843,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "büyü = Zauber (türkisch; sihir arabisch), büyücü = Zauberer, Hexe (-cü = Täter), büyülü = verzaubert. Nicht verwechseln: büyük = groß, büyümek = wachsen.",
    "audio": "audio/tr-de/wendungen/hi_05.mp3?v=bf92c4c6",
    "gloss": "büyü yap·mak | Zauber machen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Büyücü büyü yaptı, sınıf sessizleşti.",
     "de": "Der Zauberer zauberte, die Klasse wurde still.",
     "luecke": "büyü yaptı",
     "gloss": "Büyü·cü büyü yap·tı, sınıf sessiz·leş·ti. | Zauber·Täter Zauber machen·VERG, Klasse still·werden·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_05.mp3?v=1fab786e"
    },
    "zeit": {
     "pc": {
      "fr": "Büyücü büyü yapmıştı, sınıf sessizleşmişti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_05_pc.mp3?v=4e5f8df5"
     },
     "fp": {
      "fr": "Büyücü büyü yapacak, sınıf sessizleşecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_05_fp.mp3?v=87efa114"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_06",
@@ -3299,23 +3877,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "peri (persisch) = Fee; peribacası = Feenkamin (Kappadokien). dilek = Wunsch, dilemek = wünschen. dördüncü = der vierte (t → d: dört → dördüncü).",
    "audio": "audio/tr-de/wendungen/hi_06.mp3?v=be734728",
    "gloss": "peri | Fee",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Peri üç dilek verdi, ben dördüncüyü istedim.",
     "de": "Die Fee gab drei Wünsche, ich wollte den vierten.",
     "luecke": "Peri",
     "gloss": "Peri üç dilek ver·di, ben dörd·üncü·yü iste·di·m. | Fee drei Wunsch geben·VERG, ich vier·ORD·AKK wollen·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_06.mp3?v=39c84e32"
    },
    "zeit": {
     "pc": {
      "fr": "Peri üç dilek vermişti, ben dördüncüyü istemiştim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_06_pc.mp3?v=2725ce3e"
     },
     "fp": {
      "fr": "Peri üç dilek verecek, ben dördüncüyü isteyeceğim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_06_fp.mp3?v=3867c8eb"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_07",
@@ -3327,14 +3911,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "dev = Riese, auch als Adjektiv: dev bir proje = ein Riesenprojekt. Genitiv + Possessiv: dev-in ayağ-ı. Komparativ mit Ablativ: okulumuzdan büyük = größer als unsere Schule.",
    "audio": "audio/tr-de/wendungen/hi_07.mp3?v=d534aa00",
    "gloss": "dev | Riese",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Devin ayağı okulumuzdan büyüktü.",
     "de": "Der Fuß des Riesen war größer als unsere Schule.",
     "luecke": "Devin",
     "gloss": "Dev·in ayağ·ı okul·umuz·dan büyük·tü. | Riese·GEN Fuß·sein Schule·unser·ABL groß·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_07.mp3?v=d644e48b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_08",
@@ -3346,23 +3934,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "cüce = Zwerg. Pamuk Prenses ve Yedi Cüceler = Schneewittchen und die sieben Zwerge. geç kalmak = zu spät kommen (wörtlich: spät bleiben).",
    "audio": "audio/tr-de/wendungen/hi_08.mp3?v=2f2f4a01",
    "gloss": "cüce | Zwerg",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yedi cüce madene gitti, biri geç kaldı.",
     "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
     "luecke": "cüce",
     "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd"
    },
    "zeit": {
     "pc": {
      "fr": "Yedi cüce madene gitmişti, biri geç kalmıştı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_08_pc.mp3?v=11b6d7c5"
     },
     "fp": {
      "fr": "Yedi cüce madene gidecek, biri geç kalacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_08_fp.mp3?v=38aa9d28"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_09",
@@ -3374,14 +3968,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kahraman (persisch) = Held; kahramanlık = Heldentum; Kahramanmaraş = die Stadt. korkuyordu = er fürchtete sich gerade (Verlaufsform Vergangenheit -iyor-du). yine de = trotzdem.",
    "audio": "audio/tr-de/wendungen/hi_09.mp3?v=ef048c67",
    "gloss": "kahraman | Held",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kahraman korkuyordu, yine de gitti.",
     "de": "Der Held hatte Angst, er ging trotzdem.",
     "luecke": "Kahraman",
     "gloss": "Kahraman kork·uyor·du, yine·de git·ti. | Held fürchten·PRÄS·VERG, trotzdem gehen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_09.mp3?v=7c9d110d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_10",
@@ -3393,14 +3991,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kılıç = Schwert; kılıç kalkan = Schwert und Schild (auch ein Tanz aus Bursa). denemek = versuchen, deneme = Versuch, Essay.",
    "audio": "audio/tr-de/wendungen/hi_10.mp3?v=0a30eed5",
    "gloss": "kılıç | Schwert",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kılıç taştan çıkmadı, çocuk denedi.",
     "de": "Das Schwert kam nicht aus dem Stein, das Kind hat es versucht.",
     "luecke": "Kılıç",
     "gloss": "Kılıç taş·tan çık·ma·dı, çocuk dene·di. | Schwert Stein·ABL herauskommen·NEG·VERG, Kind versuchen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_10.mp3?v=454d8a0e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_11",
@@ -3412,23 +4014,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kale = Burg, Festung, auch: Tor im Fußball (kaleci = Torwart). kapalı = geschlossen, açık = offen. kedide = bei der Katze (Lokativ).",
    "audio": "audio/tr-de/wendungen/hi_11.mp3?v=bcd72483",
    "gloss": "kale | Burg",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kalenin kapısı kapalı, anahtar kedide.",
     "de": "Das Burgtor ist zu, der Schlüssel ist bei der Katze.",
     "luecke": "Kalenin kapısı",
     "gloss": "Kale·nin kapı·sı kapalı, anahtar kedi·de. | Burg·GEN Tor·sein geschlossen, Schlüssel Katze·LOK",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_11.mp3?v=b0f7920b"
    },
    "zeit": {
     "pc": {
      "fr": "Kalenin kapısı kapalıydı, anahtar kedideydi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_11_pc.mp3?v=9d79756b"
     },
     "fp": {
      "fr": "Kalenin kapısı kapalı olacak, anahtar kedide olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_11_fp.mp3?v=66e4537e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_12",
@@ -3440,23 +4048,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "hazine = Schatz, auch: Staatskasse (Hazine Bakanlığı). harita = Landkarte. bende = bei mir (Lokativ von ben): wer hat = -de var.",
    "audio": "audio/tr-de/wendungen/hi_12.mp3?v=411e74e7",
    "gloss": "hazine | Schatz",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hazine haritası yırtık, yarısı bende.",
     "de": "Die Schatzkarte ist zerrissen, die Hälfte habe ich.",
     "luecke": "Hazine haritası",
     "gloss": "Hazine harita·sı yırtık, yarı·sı ben·de. | Schatz Karte·sein zerrissen, Hälfte·sein ich·LOK",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_12.mp3?v=8ca594d2"
    },
    "zeit": {
     "pc": {
      "fr": "Hazine haritası yırtıktı, yarısı bendeydi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_12_pc.mp3?v=efa68b9c"
     },
     "fp": {
      "fr": "Hazine haritası yırtık olacak, yarısı bende olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_12_fp.mp3?v=2d257f94"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_13",
@@ -3468,14 +4082,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "büyülü = verzaubert (büyü + -lü). konuşur = Aorist: allgemeine Wahrheit (sie sprechen stets). fısıltı = Flüstern, fısıldamak = flüstern; -yla = mit.",
    "audio": "audio/tr-de/wendungen/hi_13.mp3?v=42ce8dc9",
    "gloss": "büyü·lü orman | Zauber·mit Wald",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Büyülü ormanda ağaçlar konuşur, ama fısıltıyla.",
     "de": "Im Zauberwald sprechen die Bäume, aber im Flüsterton.",
     "luecke": "Büyülü ormanda",
     "gloss": "Büyü·lü orman·da ağaç·lar konuş·ur, ama fısıltı·yla. | Zauber·mit Wald·LOK Baum·PL sprechen·AOR, aber Flüstern·MIT",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_13.mp3?v=6538a782"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_14",
@@ -3487,23 +4105,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tılsım (arabisch) = Talisman, Zauber (daher deutsch Talisman). bozulmak = kaputtgehen, hier: gebrochen werden. kurbağa = Frosch; Kurbağa Prens = der Froschkönig.",
    "audio": "audio/tr-de/wendungen/hi_14.mp3?v=212d11bd",
    "gloss": "tılsım | Zauberbann",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tılsım bozuldu, prens yine kurbağa.",
     "de": "Der Bann ist gebrochen, der Prinz ist wieder ein Frosch.",
     "luecke": "Tılsım bozuldu",
     "gloss": "Tılsım bozul·du, prens yine kurbağa. | Zauberbann kaputtgehen·VERG, Prinz wieder Frosch",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_14.mp3?v=a691da49"
    },
    "zeit": {
     "pc": {
      "fr": "Tılsım bozulmuştu, prens yine kurbağaydı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_14_pc.mp3?v=2f0ad730"
     },
     "fp": {
      "fr": "Tılsım bozulacak, prens yine kurbağa olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_14_fp.mp3?v=80dee52f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_15",
@@ -3515,14 +4139,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "lanet = Fluch; lanet olsun! = verflucht!; lanetlemek = verfluchen. şart = Bedingung; tek = einzig. cuma günü = am Freitag.",
    "audio": "audio/tr-de/wendungen/hi_15.mp3?v=8293fb1f",
    "gloss": "lanet | Fluch",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Lanetin tek şartı var: cuma günü yedi saat ders.",
     "de": "Der Fluch hat eine Bedingung: freitags sieben Stunden Unterricht.",
     "luecke": "Lanetin",
     "gloss": "Lanet·in tek şart·ı var: cuma gün·ü yedi saat ders. | Fluch·GEN einzig Bedingung·sein vorhanden: Freitag Tag·sein sieben Stunde Unterricht",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_15.mp3?v=3cb46115"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_16",
@@ -3534,14 +4162,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Keloğlan (kel = kahl, oğlan = Junge) ist der türkische Märchenheld: arm, faul, pfiffig, gewinnt am Ende. tembel = faul; kurnaz = schlau, gerissen; sonunda = am Ende.",
    "audio": "audio/tr-de/wendungen/hi_16.mp3?v=d38b0eac",
    "gloss": "Kel·oğlan | kahl·Junge",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Keloğlan tembeldi ama kurnazdı, sonunda padişah oldu.",
     "de": "Keloğlan war faul, aber schlau, am Ende wurde er Padischah.",
     "luecke": "Keloğlan",
     "gloss": "Kel·oğlan tembel·di ama kurnaz·dı, son·u·nda padişah ol·du. | kahl·Junge faul·VERG aber schlau·VERG, Ende·sein·LOK Padischah werden·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_16.mp3?v=03d164dc"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_17",
@@ -3553,14 +4185,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Nasreddin Hoca (13. Jh., Akşehir) ist der Hodscha der Anekdoten. Die berühmteste: er rührt Joghurtferment in den See; auf die Frage, ob das klappt: « Ya tutarsa! » = Und wenn doch! maya çalmak = Ferment einrühren.",
    "audio": "audio/tr-de/wendungen/hi_17.mp3?v=d750a479",
    "gloss": "Nasreddin Hoca | Nasreddin Lehrer",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Nasreddin Hoca göle maya çaldı: ya tutarsa!",
     "de": "Nasreddin Hodscha gab Hefe in den See: Und wenn es klappt!",
     "luecke": "Nasreddin Hoca",
     "gloss": "Nasreddin Hoca göl·e maya çal·dı: ya tut·ar·sa! | Nasreddin Lehrer See·DAT Hefe mischen·VERG: und.wenn halten·AOR·KOND",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_17.mp3?v=c6a08a2b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_18",
@@ -3572,23 +4208,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "gölge = Schatten; gölgede = im Schatten; gölge oyunu = Schattenspiel (Karagöz ve Hacivat). benden önce = vor mir (Ablativ + önce).",
    "audio": "audio/tr-de/wendungen/hi_18.mp3?v=602f0eb6",
    "gloss": "gölge | Schatten",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Gölgem benden önce eve girdi.",
     "de": "Mein Schatten ging vor mir ins Haus.",
     "luecke": "Gölgem",
     "gloss": "Gölge·m ben·den önce ev·e gir·di. | Schatten·mein ich·ABL vor Haus·DAT hineingehen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_18.mp3?v=d8c1f9d2"
    },
    "zeit": {
     "pc": {
      "fr": "Gölgem benden önce eve girmişti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_18_pc.mp3?v=6e49dc46"
     },
     "fp": {
      "fr": "Gölgem benden önce eve girecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_18_fp.mp3?v=6633c483"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_19",
@@ -3600,23 +4242,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "görünmek = erscheinen, sichtbar sein; görünmez = unsichtbar (verneinter Aorist als Adjektiv). pelerin = Umhang. bayılmak = ohnmächtig werden, umgangssprachlich: begeistert sein (+ Dativ: buna bayıldım).",
    "audio": "audio/tr-de/wendungen/hi_19.mp3?v=202f2651",
    "gloss": "görün·mez ol·mak | erscheinen·NEG.AOR sein·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Pelerini giyince görünmez oldu, sınıf buna bayıldı.",
     "de": "Mit dem Umhang wurde er unsichtbar, die Klasse war begeistert.",
     "luecke": "görünmez oldu",
     "gloss": "Pelerin·i giy·ince görün·mez ol·du, sınıf bu·na bayıl·dı. | Umhang·AKK anziehen·SOBALD erscheinen·NEG.AOR sein·VERG, Klasse dies·DAT begeistert.sein·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_19.mp3?v=9b222dd3"
    },
    "zeit": {
     "pc": {
      "fr": "Pelerini giyince görünmez olmuştu, sınıf buna bayılmıştı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_19_pc.mp3?v=41b8641c"
     },
     "fp": {
      "fr": "Pelerini giyince görünmez olacak, sınıf buna bayılacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_19_fp.mp3?v=4e76bd62"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_20",
@@ -3628,14 +4276,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "düş = Traum (türkisch), rüya = Traum (arabisch); düş görmek / rüya görmek = träumen (wörtlich: Traum sehen). içtiğimi = dass ich trank (Partizip -dik + Possessiv + Akkusativ: die türkische Nebensatzbildung).",
    "audio": "audio/tr-de/wendungen/hi_20.mp3?v=bee2a7d6",
    "gloss": "düş gör·mek | Traum sehen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dün gece ejderhayla çay içtiğimi düş gördüm.",
     "de": "Letzte Nacht träumte ich, ich hätte mit dem Drachen Tee getrunken.",
     "luecke": "düş gördüm",
     "gloss": "Dün gece ejderha·yla çay iç·tiğ·im·i düş gör·dü·m. | gestern Nacht Drache·MIT Tee trinken·DASS·mein·AKK Traum sehen·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_20.mp3?v=e890cd32"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_21",
@@ -3647,23 +4299,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Genitivverbindung: hikâye-nin son-u. Dann Akkusativ mit Bindekonsonant n: son-u-nu. bilmek = wissen; söylemek = sagen.",
    "audio": "audio/tr-de/wendungen/hi_21.mp3?v=ad46eca1",
    "gloss": "hikâye·nin son·u | Geschichte·GEN Ende·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hikâyenin sonunu kedi biliyor, söylemiyor.",
     "de": "Das Ende der Geschichte kennt die Katze, sie sagt es nicht.",
     "luecke": "Hikâyenin sonunu",
     "gloss": "Hikâye·nin son·u·nu kedi bil·iyor, söyle·mi·yor. | Geschichte·GEN Ende·sein·AKK Katze wissen·PRÄS, sagen·NEG·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_21.mp3?v=c873381d"
    },
    "zeit": {
     "pc": {
      "fr": "Hikâyenin sonunu kedi biliyordu, söylemedi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_21_pc.mp3?v=8e9cc1f6"
     },
     "fp": {
      "fr": "Hikâyenin sonunu kedi bilecek, söylemeyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_21_fp.mp3?v=0cca6511"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "hi_22",
@@ -3675,14 +4333,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Traditioneller Märchenschluss. -an/-en = Partizip (der, der …): anlatan = der Erzählende, dinleyen = der Zuhörende, jeweils mit Dativ (-a/-e = für). gök = Himmel.",
    "audio": "audio/tr-de/wendungen/hi_22.mp3?v=b54e3a1c",
    "gloss": "gök·ten üç elma düş·müş | Himmel·ABL drei Apfel fallen·ERZ",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Gökten üç elma düşmüş: biri anlatana, biri dinleyene, biri kediye.",
     "de": "Drei Äpfel fielen vom Himmel: einer für den Erzähler, einer für den Zuhörer, einer für die Katze.",
     "luecke": "Gökten üç elma düşmüş",
     "gloss": "Gök·ten üç elma düş·müş: biri anlat·an·a, biri dinle·yen·e, biri kedi·ye. | Himmel·ABL drei Apfel fallen·ERZ: einer erzählen·DER·DAT, einer hören·DER·DAT, einer Katze·DAT",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_22.mp3?v=bbf67462"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_23",
@@ -3694,14 +4356,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kıssa = Lehrerzählung, hisse = Anteil: « der Anteil aus der Erzählung » = die Lehre, die Moral. zamanında = rechtzeitig (Possessiv + Lokativ). yap = Imperativ 2. Sg. (nackter Stamm).",
    "audio": "audio/tr-de/wendungen/hi_23.mp3?v=c6178983",
    "gloss": "kıssa·dan hisse | Erzählung·ABL Anteil",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kıssadan hisse: ödevi zamanında yap.",
     "de": "Die Moral: Mach die Hausaufgaben rechtzeitig.",
     "luecke": "Kıssadan hisse",
     "gloss": "Kıssa·dan hisse: ödev·i zaman·ı·nda yap. | Erzählung·ABL Anteil: Aufgabe·AKK Zeit·sein·LOK mach",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_23.mp3?v=8fc662c8"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "hi_24",
@@ -3713,14 +4379,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Die klassische Schlussformel: « Sie sind zu ihrem Wunsch gelangt, wir steigen auf ihre Holzbank. » murat = Wunsch, Ziel (murad-ı: t → d). kerevet = Holzliege. Reim ermiş muradına / kerevetine.",
    "audio": "audio/tr-de/wendungen/hi_24.mp3?v=f7c12430",
    "gloss": "onlar er·miş murad·ı·na | sie erreichen·ERZ Wunsch·sein·DAT",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
     "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
     "luecke": "Onlar ermiş muradına",
     "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_01",
@@ -3732,23 +4402,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "spor yapmak = Sport machen (wie im Deutschen umgangssprachlich). her sabah = jeden Morgen (her + Singular!). izlemek = zuschauen, verfolgen; Alternative: seyretmek.",
    "audio": "audio/tr-de/wendungen/sp_01.mp3?v=23d30aad",
    "gloss": "spor yap·mak | Sport machen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Her sabah spor yapıyorum, kedi izliyor.",
     "de": "Jeden Morgen treibe ich Sport, die Katze schaut zu.",
     "luecke": "spor yapıyorum",
     "gloss": "Her sabah spor yap·ıyor·um, kedi izl·iyor. | jeder Morgen Sport machen·PRÄS·1SG, Katze zuschauen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_01.mp3?v=2c1b57b4"
    },
    "zeit": {
     "pc": {
      "fr": "Her sabah spor yaptım, kedi izledi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_01_pc.mp3?v=61324be1"
     },
     "fp": {
      "fr": "Her sabah spor yapacağım, kedi izleyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_01_fp.mp3?v=452d3315"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_02",
@@ -3760,23 +4436,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "antrenman (frz. entraînement), antrenör = Trainer. saat altıda = um sechs (Lokativ). kimse + Verneinung = niemand: kimse gelmiyor = niemand kommt.",
    "audio": "audio/tr-de/wendungen/sp_02.mp3?v=b461b613",
    "gloss": "antrenman | Training",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Antrenman saat altıda başlıyor, kimse geç kalmıyor.",
     "de": "Das Training beginnt um sechs, niemand kommt zu spät.",
     "luecke": "Antrenman",
     "gloss": "Antrenman saat altı·da başl·ıyor, kimse geç kal·mı·yor. | Training Uhr sechs·LOK beginnen·PRÄS, niemand spät bleiben·NEG·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_02.mp3?v=0999fa81"
    },
    "zeit": {
     "pc": {
      "fr": "Antrenman saat altıda başladı, kimse geç kalmadı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_02_pc.mp3?v=7cdaf29f"
     },
     "fp": {
      "fr": "Antrenman saat altıda başlayacak, kimse geç kalmayacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_02_fp.mp3?v=57ead24c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_03",
@@ -3788,23 +4470,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ısınmak = warm werden, sich aufwärmen (ısı = Wärme, sıcak = heiß). önce … sonra = erst … dann. vurmak = schlagen, treffen (auch: schießen).",
    "audio": "audio/tr-de/wendungen/sp_03.mp3?v=236c8e4b",
    "gloss": "ısın·mak | warm.werden·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Önce ısınıyoruz, sonra vuruyoruz.",
     "de": "Zuerst wärmen wir uns auf, dann schlagen wir.",
     "luecke": "ısınıyoruz",
     "gloss": "Önce ısın·ıyor·uz, sonra vur·uyor·uz. | zuerst warm.werden·PRÄS·1PL, dann schlagen·PRÄS·1PL",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_03.mp3?v=f6e03096"
    },
    "zeit": {
     "pc": {
      "fr": "Önce ısındık, sonra vurduk.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_03_pc.mp3?v=30c333ae"
     },
     "fp": {
      "fr": "Önce ısınacağız, sonra vuracağız.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_03_fp.mp3?v=ff237143"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_04",
@@ -3816,14 +4504,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "değil verneint Nomen und Adjektive: hızlı değil = nicht schnell. -dır = Kopula der allgemeinen Aussage (feierlich, schriftlich): sabırlıdır = es ist (grundsätzlich) geduldig.",
    "audio": "audio/tr-de/wendungen/sp_04.mp3?v=f3017edc",
    "gloss": "kung·fu | Kung-Fu",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kung fu hızlı değil, sabırlıdır.",
     "de": "Kung-Fu ist nicht schnell, es ist geduldig.",
     "luecke": "Kung fu",
     "gloss": "Kung·fu hızlı değil, sabır·lı·dır. | Kung-Fu schnell nicht, Geduld·mit·IST",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_04.mp3?v=7c2cd4a9"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_05",
@@ -3835,14 +4527,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "usta = Meister (Handwerk, Kampfkunst, auch Anrede für Handwerker: Usta!). Aorist -r für allgemeine Wahrheiten: konuşur, gösterir. az = wenig, çok = viel.",
    "audio": "audio/tr-de/wendungen/sp_05.mp3?v=95eefcdf",
    "gloss": "usta | Meister",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Usta az konuşur, çok gösterir.",
     "de": "Der Meister spricht wenig, zeigt viel.",
     "luecke": "Usta",
     "gloss": "Usta az konuş·ur, çok göster·ir. | Meister wenig sprechen·AOR, viel zeigen·AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_05.mp3?v=d6443ff5"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_06",
@@ -3854,14 +4550,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "öğrenci = Schüler, Student (öğrenmek = lernen, -ci = Täter; öğretmen = Lehrer). Aoristreihe als Sprichwortton. yine = wieder (auch: gene).",
    "audio": "audio/tr-de/wendungen/sp_06.mp3?v=1475b5f7",
    "gloss": "öğren·ci | lernen·Täter",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Öğrenci düşer, kalkar, yine düşer.",
     "de": "Der Schüler fällt, steht auf, fällt wieder.",
     "luecke": "Öğrenci",
     "gloss": "Öğren·ci düş·er, kalk·ar, yine düş·er. | lernen·Täter fallen·AOR, aufstehen·AOR, wieder fallen·AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_06.mp3?v=8ed6f308"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_07",
@@ -3873,23 +4573,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "-ış/-uş bildet Nomen aus Verben: durmak → duruş (Haltung), bakmak → bakış (Blick). sağlam = fest, solide, gesund. Possessiv 2. Sg.: duruş-un, eller-in.",
    "audio": "audio/tr-de/wendungen/sp_07.mp3?v=7eca91cd",
    "gloss": "dur·uş | stehen·Abstr.",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Duruşun sağlam, ellerin yorgun.",
     "de": "Dein Stand ist fest, deine Hände sind müde.",
     "luecke": "Duruşun",
     "gloss": "Dur·uş·un sağlam, el·ler·in yorgun. | stehen·Abstr.·dein fest, Hand·PL·dein müde",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_07.mp3?v=075d3c45"
    },
    "zeit": {
     "pc": {
      "fr": "Duruşun sağlamdı, ellerin yorgundu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_07_pc.mp3?v=2fcba2f7"
     },
     "fp": {
      "fr": "Duruşun sağlam olacak, ellerin yorgun olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_07_fp.mp3?v=8b0a4abf"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_08",
@@ -3901,14 +4607,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yumruk = Faust und Faustschlag; yumruk atmak = zuschlagen. X değil, Y = nicht X, sondern Y. Ablativ -dan = aus, von.",
    "audio": "audio/tr-de/wendungen/sp_08.mp3?v=9293ca66",
    "gloss": "yumruk | Faust",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yumruk omuzdan değil, kalçadan gelir.",
     "de": "Der Faustschlag kommt nicht aus der Schulter, sondern aus der Hüfte.",
     "luecke": "Yumruk",
     "gloss": "Yumruk omuz·dan değil, kalça·dan gel·ir. | Faust Schulter·ABL nicht, Hüfte·ABL kommen·AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_08.mp3?v=89968656"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_09",
@@ -3920,14 +4630,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tekme = Tritt, tekme atmak = treten. -malı/-meli = müssen, sollen (Notwendigkeit): olmalı = muss sein, gitmeliyim = ich muss gehen.",
    "audio": "audio/tr-de/wendungen/sp_09.mp3?v=8ce99808",
    "gloss": "tekme | Tritt",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tekme yüksek değil, doğru olmalı.",
     "de": "Der Tritt muss nicht hoch sein, sondern richtig.",
     "luecke": "Tekme",
     "gloss": "Tekme yüksek değil, doğru ol·malı. | Tritt hoch nicht, richtig sein·MUSS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_09.mp3?v=c5ca724c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_10",
@@ -3939,14 +4653,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "nefes almak = einatmen (Atem nehmen), nefes vermek = ausatmen (Atem geben). Imperativ 2. Sg. = nackter Stamm: al, ver, vur.",
    "audio": "audio/tr-de/wendungen/sp_10.mp3?v=42aa2ced",
    "gloss": "nefes al·mak | Atem nehmen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Nefes al, nefes ver, sonra vur.",
     "de": "Atme ein, atme aus, dann schlag.",
     "luecke": "Nefes al",
     "gloss": "Nefes al, nefes ver, sonra vur. | Atem nimm, Atem gib, dann schlag",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_10.mp3?v=da4312ae"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_11",
@@ -3958,14 +4676,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "denge = Gleichgewicht, dengeli = ausgewogen. tek ayakta = auf einem Bein (tek = einzig, einzeln). bitmek = enden, zu Ende gehen.",
    "audio": "audio/tr-de/wendungen/sp_11.mp3?v=a1a1e672",
    "gloss": "denge | Gleichgewicht",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Denge tek ayakta başlar, kafada biter.",
     "de": "Gleichgewicht beginnt auf einem Fuß und endet im Kopf.",
     "luecke": "Denge",
     "gloss": "Denge tek ayak·ta başl·ar, kafa·da bit·er. | Gleichgewicht einzig Fuß·LOK beginnen·AOR, Kopf·LOK enden·AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_11.mp3?v=5d3886bf"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_12",
@@ -3977,14 +4699,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kuşak = Gürtel (Kampfsport), auch: Generation (genç kuşak). Alltagsgürtel = kemer. son = Ende, letzt; başlangıç = Anfang (başlamak).",
    "audio": "audio/tr-de/wendungen/sp_12.mp3?v=86823491",
    "gloss": "kuşak | Gürtel",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Siyah kuşak son değil, başlangıçtır.",
     "de": "Der schwarze Gürtel ist nicht das Ende, er ist der Anfang.",
     "luecke": "Siyah kuşak",
     "gloss": "Siyah kuşak son değil, başlangıç·tır. | schwarz Gürtel Ende nicht, Anfang·IST",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_12.mp3?v=03085031"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_13",
@@ -3996,14 +4722,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yağlı güreş = Ölringen, seit 1361 jedes Jahr in Kırkpınar bei Edirne, das älteste Sportereignis der Welt. Sieger = başpehlivan. yapılır = wird gemacht (Passiv -ıl + Aorist).",
    "audio": "audio/tr-de/wendungen/sp_13.mp3?v=83bd43fe",
    "gloss": "güreş | Ringen",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yağlı güreş Edirne'de, Kırkpınar'da yapılır.",
     "de": "Ölringen findet in Edirne statt, in Kırkpınar.",
     "luecke": "Yağlı güreş",
     "gloss": "Yağ·lı güreş Edirne·'de, Kırkpınar·'da yap·ıl·ır. | Öl·mit Ringen Edirne·LOK, Kırkpınar·LOK machen·PASS·AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_13.mp3?v=cff5fbf7"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_14",
@@ -4015,23 +4745,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "maç = Spiel (engl. match), futbol maçı mit Possessivverbindung. Die drei Großen: Galatasaray, Fenerbahçe, Beşiktaş; derbi = Derby. hazır = fertig, bereit.",
    "audio": "audio/tr-de/wendungen/sp_14.mp3?v=098450a5",
    "gloss": "futbol maç·ı | Fußball Spiel·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Maç akşam dokuzda, çay hazır.",
     "de": "Das Spiel ist um neun Uhr abends, der Tee ist fertig.",
     "luecke": "Maç",
     "gloss": "Maç akşam dokuz·da, çay hazır. | Spiel Abend neun·LOK, Tee fertig",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_14.mp3?v=5c81f857"
    },
    "zeit": {
     "pc": {
      "fr": "Maç akşam dokuzdaydı, çay hazırdı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_14_pc.mp3?v=9ae7336b"
     },
     "fp": {
      "fr": "Maç akşam dokuzda olacak, çay hazır olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_14_fp.mp3?v=2de9322d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_15",
@@ -4043,23 +4779,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "gol atmak = ein Tor schießen (wörtlich: werfen); gol yemek = ein Tor kassieren (wörtlich: essen). mahalle = Stadtviertel, Nachbarschaft.",
    "audio": "audio/tr-de/wendungen/sp_15.mp3?v=6b3e72f4",
    "gloss": "gol at·mak | Tor werfen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Son dakikada gol attık, mahalle bağırdı.",
     "de": "In der letzten Minute haben wir ein Tor geschossen, das Viertel hat geschrien.",
     "luecke": "gol attık",
     "gloss": "Son dakika·da gol at·tı·k, mahalle bağır·dı. | letzt Minute·LOK Tor werfen·VERG·1PL, Viertel schreien·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_15.mp3?v=548567d5"
    },
    "zeit": {
     "pc": {
      "fr": "Son dakikada gol atmıştık, mahalle bağırmıştı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_15_pc.mp3?v=2797f4a1"
     },
     "fp": {
      "fr": "Son dakikada gol atacağız, mahalle bağıracak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_15_fp.mp3?v=d1dfcbf7"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_16",
@@ -4071,14 +4813,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kazanmak = gewinnen, auch: verdienen (para kazanmak). Futur -ecek: göreceğiz (k → ğ vor Vokal). Der Satz ist eine beliebte Trainerfloskel.",
    "audio": "audio/tr-de/wendungen/sp_16.mp3?v=d7826f18",
    "gloss": "kazan·mak | gewinnen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bugün kazandık, yarın göreceğiz.",
     "de": "Heute haben wir gewonnen, morgen werden wir sehen.",
     "luecke": "kazandık",
     "gloss": "Bugün kazan·dı·k, yarın gör·eceğ·iz. | heute gewinnen·VERG·1PL, morgen sehen·FUT·1PL",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_16.mp3?v=94e109df"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_17",
@@ -4090,14 +4836,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kaybetmek = verlieren (kayıp = Verlust; auch: kaybolmak = verloren gehen). oynamak = spielen (Spiel, Sport, Theater); ein Instrument spielen = çalmak.",
    "audio": "audio/tr-de/wendungen/sp_17.mp3?v=2561122d",
    "gloss": "kaybet·mek | verlieren·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kaybettik ama iyi oynadık.",
     "de": "Wir haben verloren, aber gut gespielt.",
     "luecke": "Kaybettik",
     "gloss": "Kaybet·ti·k ama iyi oyna·dı·k. | verlieren·VERG·1PL aber gut spielen·VERG·1PL",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_17.mp3?v=64b153f3"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_18",
@@ -4109,23 +4859,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "koşmak = laufen, rennen; yürümek = gehen. takip etmek = folgen, verfolgen (arabisches Nomen + etmek). martı = Möwe, das Wappentier Istanbuls.",
    "audio": "audio/tr-de/wendungen/sp_18.mp3?v=b2b3fb2d",
    "gloss": "koş·mak | laufen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Boğaz'da koşuyorum, martılar takip ediyor.",
     "de": "Am Bosporus laufe ich, die Möwen folgen mir.",
     "luecke": "koşuyorum",
     "gloss": "Boğaz·'da koş·uyor·um, martı·lar takip ed·iyor. | Bosporus·LOK laufen·PRÄS·1SG, Möwe·PL Verfolgung machen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_18.mp3?v=33c9e0db"
    },
    "zeit": {
     "pc": {
      "fr": "Boğaz'da koştum, martılar takip etti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_18_pc.mp3?v=60727224"
     },
     "fp": {
      "fr": "Boğaz'da koşacağım, martılar takip edecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_18_fp.mp3?v=209fcc7a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_19",
@@ -4137,14 +4893,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yüzmek = schwimmen; yüz = auch Gesicht und hundert (Kontext!). soğuktu = war kalt (Adjektiv + -tu). Adalar = die Prinzeninseln.",
    "audio": "audio/tr-de/wendungen/sp_19.mp3?v=aece928a",
    "gloss": "yüz·mek | schwimmen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Adalar'da yüzdük, su soğuktu.",
     "de": "Auf den Inseln sind wir geschwommen, das Wasser war kalt.",
     "luecke": "yüzdük",
     "gloss": "Adalar·'da yüz·dü·k, su soğuk·tu. | Inseln·LOK schwimmen·VERG·1PL, Wasser kalt·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_19.mp3?v=f62bc024"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_20",
@@ -4156,14 +4916,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yorulmak = müde werden (yorgun = müde, yormak = ermüden). Yoruldum = ich bin müde (Vergangenheit für den eingetretenen Zustand). bırakmak = lassen, aufhören, aufgeben.",
    "audio": "audio/tr-de/wendungen/sp_20.mp3?v=59c735ec",
    "gloss": "yor·ul·mak | ermüden·PASS·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yoruldum ama bırakmıyorum.",
     "de": "Ich bin müde geworden, aber ich höre nicht auf.",
     "luecke": "Yoruldum",
     "gloss": "Yor·ul·du·m ama bırak·mı·yor·um. | ermüden·PASS·VERG·1SG aber lassen·NEG·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_20.mp3?v=7b11dc04"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_21",
@@ -4175,14 +4939,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sakat = verletzt, behindert; sakatlanmak = sich verletzen; sakatlık = Verletzung. mola = Pause (auch im Sport: mola vermek = eine Pause einlegen).",
    "audio": "audio/tr-de/wendungen/sp_21.mp3?v=78f66211",
    "gloss": "sakat·lan·mak | verletzt·werden·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dizim sakatlandı, bir hafta mola.",
     "de": "Mein Knie ist verletzt, eine Woche Pause.",
     "luecke": "sakatlandı",
     "gloss": "Diz·im sakat·lan·dı, bir hafta mola. | Knie·mein verletzt·werden·VERG, ein Woche Pause",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_21.mp3?v=3cb05d37"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_22",
@@ -4194,23 +4962,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "takım = Mannschaft, Team, auch: Satz, Anzug (takım elbise). takımımız = unsere Mannschaft (-ımız). kalp → kalbi (p → b).",
    "audio": "audio/tr-de/wendungen/sp_22.mp3?v=e070dd22",
    "gloss": "takım | Mannschaft",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Takımımız küçük, kalbi büyük.",
     "de": "Unsere Mannschaft ist klein, ihr Herz ist groß.",
     "luecke": "Takımımız",
     "gloss": "Takım·ımız küçük, kalb·i büyük. | Mannschaft·unser klein, Herz·sein groß",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_22.mp3?v=cda099de"
    },
    "zeit": {
     "pc": {
      "fr": "Takımımız küçüktü, kalbi büyüktü.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_22_pc.mp3?v=af0fc247"
     },
     "fp": {
      "fr": "Takımımız küçük olacak, kalbi büyük olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_22_fp.mp3?v=383062e9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sp_23",
@@ -4222,14 +4996,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "hakem = Schiedsrichter (arabisch, von hüküm = Urteil). düdük çalmak = pfeifen (çalmak = spielen, läuten). herkes = alle, jeder (Singularverb!). susmak = schweigen; Sus! = Still!",
    "audio": "audio/tr-de/wendungen/sp_23.mp3?v=d1f57796",
    "gloss": "hakem | Schiedsrichter",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hakem düdük çaldı, herkes sustu.",
     "de": "Der Schiedsrichter pfiff, alle verstummten.",
     "luecke": "Hakem",
     "gloss": "Hakem düdük çal·dı, herkes sus·tu. | Schiedsrichter Pfeife spielen·VERG, jeder schweigen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_23.mp3?v=a75c8a36"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sp_24",
@@ -4241,23 +5019,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "pes etmek = aufgeben, sich geschlagen geben (pes! = ich gebe auf). Verneinung -me- vor der Zeitendung: et-mi-yor-uz. bir … daha = noch ein(e).",
    "audio": "audio/tr-de/wendungen/sp_24.mp3?v=1708dfc8",
    "gloss": "pes et·me·mek | aufgeben machen·NEG·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Pes etmiyoruz, bir tur daha.",
     "de": "Wir geben nicht auf, eine Runde noch.",
     "luecke": "Pes etmiyoruz",
     "gloss": "Pes et·mi·yor·uz, bir tur daha. | aufgeben machen·NEG·PRÄS·1PL, ein Runde noch",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sp_24.mp3?v=485335c1"
    },
    "zeit": {
     "pc": {
      "fr": "Pes etmedik, bir tur daha.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_24_pc.mp3?v=857e47f3"
     },
     "fp": {
      "fr": "Pes etmeyeceğiz, bir tur daha.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_24_fp.mp3?v=ab433538"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_01",
@@ -4269,23 +5053,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "beslenmek = sich ernähren (beslemek = füttern, ernähren). dengeli = ausgewogen (denge = Gleichgewicht, aus Thema 6). bir de = und außerdem, und dann noch.",
    "audio": "audio/tr-de/wendungen/ye_01.mp3?v=a98f12e2",
    "gloss": "denge·li beslen·mek | Gleichgewicht·mit sich.ernähren·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Dengeli besleniyorum: simit, çay, bir de peynir.",
     "de": "Ich esse ausgewogen: Simit, Tee und dazu Käse.",
     "luecke": "Dengeli besleniyorum",
     "gloss": "Denge·li beslen·iyor·um: simit, çay, bir de peynir. | Gleichgewicht·mit sich.ernähren·PRÄS·1SG: Simit, Tee, ein auch Käse",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_01.mp3?v=8a40b0b9"
    },
    "zeit": {
     "pc": {
      "fr": "Dengeli beslendim: simit, çay, bir de peynir.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_01_pc.mp3?v=8a39d450"
     },
     "fp": {
      "fr": "Dengeli besleneceğim: simit, çay, bir de peynir.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_01_fp.mp3?v=4e62abff"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_02",
@@ -4297,23 +5087,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yatmak = sich hinlegen, ins Bett gehen (yatak = Bett). erken = früh, geç = spät. sınav = Prüfung, Klassenarbeit (sınav var = es gibt eine Prüfung).",
    "audio": "audio/tr-de/wendungen/ye_02.mp3?v=4593e0a2",
    "gloss": "erken yat·mak | früh sich.hinlegen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bu akşam erken yatıyorum, yarın sınav var.",
     "de": "Heute Abend gehe ich früh ins Bett, morgen ist Prüfung.",
     "luecke": "erken yatıyorum",
     "gloss": "Bu akşam erken yat·ıyor·um, yarın sınav var. | dies Abend früh sich.hinlegen·PRÄS·1SG, morgen Prüfung vorhanden",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_02.mp3?v=819c20c7"
    },
    "zeit": {
     "pc": {
      "fr": "Dün akşam erken yattım, sınav vardı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_02_pc.mp3?v=4b37f6ee"
     },
     "fp": {
      "fr": "Yarın akşam erken yatacağım, sınav olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_02_fp.mp3?v=bb4a45df"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_03",
@@ -4325,14 +5121,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kendine iyi bak = pass auf dich auf, die türkische Verabschiedung schlechthin. kaçmaz = läuft nicht weg (verneinter Aorist -maz). kendi = selbst: kendim, kendin, kendisi.",
    "audio": "audio/tr-de/wendungen/ye_03.mp3?v=3d9b85be",
    "gloss": "kendi·ne iyi bak·mak | selbst·DAT gut schauen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kendine iyi bak, dersler kaçmaz.",
     "de": "Pass gut auf dich auf, die Stunden laufen nicht weg.",
     "luecke": "Kendine iyi bak",
     "gloss": "Kendi·ne iyi bak, ders·ler kaç·maz. | selbst·DAT gut schau, Stunde·PL weglaufen·NEG.AOR",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_03.mp3?v=f607861e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_04",
@@ -4344,23 +5144,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "alışveriş = Einkauf (wörtlich: Nehmen-Geben, aus almak und vermek). pazar = Wochenmarkt und Sonntag. Preise: kilosu on lira = das Kilo (davon) zehn Lira.",
    "audio": "audio/tr-de/wendungen/ye_04.mp3?v=5772266a",
    "gloss": "alış·veriş yap·mak | Nehmen·Geben machen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Pazardan alışveriş yapıyorum, domates kilosu on lira.",
     "de": "Ich kaufe auf dem Markt ein, das Kilo Tomaten kostet zehn Lira.",
     "luecke": "alışveriş yapıyorum",
     "gloss": "Pazar·dan alış·veriş yap·ıyor·um, domates kilo·su on lira. | Markt·ABL Nehmen·Geben machen·PRÄS·1SG, Tomate Kilo·sein zehn Lira",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_04.mp3?v=629cfd6e"
    },
    "zeit": {
     "pc": {
      "fr": "Pazardan alışveriş yaptım, domates kilosu on liraydı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_04_pc.mp3?v=24eff20b"
     },
     "fp": {
      "fr": "Pazardan alışveriş yapacağım, domates kilosu on lira olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_04_fp.mp3?v=70334f03"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_05",
@@ -4372,23 +5178,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yemek = Essen und essen (Infinitiv!). pişirmek = garen, kochen (pişmek = gar werden). Wasser kochen = kaynatmak. mutfak = Küche.",
    "audio": "audio/tr-de/wendungen/ye_05.mp3?v=b5092e3b",
    "gloss": "yemek pişir·mek | Essen garen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Akşam yemek pişiriyorum, kedi mutfakta bekliyor.",
     "de": "Abends koche ich, die Katze wartet in der Küche.",
     "luecke": "yemek pişiriyorum",
     "gloss": "Akşam yemek pişir·iyor·um, kedi mutfak·ta bekl·iyor. | Abend Essen garen·PRÄS·1SG, Katze Küche·LOK warten·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_05.mp3?v=af9e62a1"
    },
    "zeit": {
     "pc": {
      "fr": "Akşam yemek pişirdim, kedi mutfakta bekledi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_05_pc.mp3?v=7db10fdb"
     },
     "fp": {
      "fr": "Akşam yemek pişireceğim, kedi mutfakta bekleyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_05_fp.mp3?v=373b2532"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_06",
@@ -4400,14 +5212,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tabak = Teller; yemek = Gericht. mercimek çorbası = Linsensuppe, das Nationalgericht im Lokanta, immer mit Zitrone. üstüne = darauf (üst = Oberseite).",
    "audio": "audio/tr-de/wendungen/ye_06.mp3?v=3287b922",
    "gloss": "bir tabak | ein Teller",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bir tabak mercimek çorbası, üstüne limon.",
     "de": "Ein Teller Linsensuppe, Zitrone obendrauf.",
     "luecke": "Bir tabak",
     "gloss": "Bir tabak mercimek çorba·sı, üst·ü·ne limon. | ein Teller Linse Suppe·sein, Oberseite·sein·DAT Zitrone",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_06.mp3?v=f9ff56ff"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_07",
@@ -4419,14 +5235,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "acıkmak = Hunger bekommen; Acıktım = ich habe Hunger (Vergangenheit für den Zustand, wie yoruldum). aç = hungrig, açlık = Hunger. teneffüs = Schulpause.",
    "audio": "audio/tr-de/wendungen/ye_07.mp3?v=2b2272c2",
    "gloss": "acık·mak | hungrig.werden·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Acıktım, teneffüste simit alıyorum.",
     "de": "Ich habe Hunger bekommen, in der Pause hole ich einen Simit.",
     "luecke": "Acıktım",
     "gloss": "Acık·tı·m, teneffüs·te simit al·ıyor·um. | hungrig.werden·VERG·1SG, Pause·LOK Simit kaufen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_07.mp3?v=ab6c0d2e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_08",
@@ -4438,14 +5258,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tıka basa = bis zum Anschlag (tıkmak = stopfen, basmak = drücken). kıpırdayamadı = konnte sich nicht rühren (-(y)a- + -ma- = nicht können). bayram = Fest, Feiertag.",
    "audio": "audio/tr-de/wendungen/ye_08.mp3?v=e86962f3",
    "gloss": "tıka basa ye·mek | stopf drück essen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bayramda tıka basa yedik, kimse kıpırdayamadı.",
     "de": "Am Feiertag haben wir uns den Bauch vollgeschlagen, niemand konnte sich rühren.",
     "luecke": "tıka basa yedik",
     "gloss": "Bayram·da tıka basa ye·di·k, kimse kıpırda·ya·ma·dı. | Fest·LOK stopf drück essen·VERG·1PL, niemand sich.rühren·KANN·NEG·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_08.mp3?v=3b897474"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_09",
@@ -4457,14 +5281,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "afiyet olsun = guten Appetit (wörtlich: Wohlbefinden sei es), auch nach dem Essen. Die Antwort an den Koch: elinize sağlık = Gesundheit Ihren Händen (eline sağlık beim Duzen).",
    "audio": "audio/tr-de/wendungen/ye_09.mp3?v=62296e64",
    "gloss": "afiyet ol·sun | Wohlbefinden sein·IMP3",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Afiyet olsun! – Elinize sağlık!",
     "de": "Guten Appetit! – Gesundheit Ihren Händen!",
     "luecke": "Afiyet olsun",
     "gloss": "Afiyet ol·sun! – El·iniz·e sağlık! | Wohlbefinden sein·IMP3! – Hand·Ihr·DAT Gesundheit!",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_09.mp3?v=19c9780b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_10",
@@ -4476,23 +5304,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "fırın = Ofen und Bäckerei (fırıncı = Bäcker). köşedeki = der an der Ecke (-de + -ki = der in/an …). ekmek = Brot, in der Türkei zu jeder Mahlzeit.",
    "audio": "audio/tr-de/wendungen/ye_10.mp3?v=d8e47b1c",
    "gloss": "fırın | Ofen",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Köşedeki fırın sabah beşte açılıyor, ekmek sıcak.",
     "de": "Die Bäckerei an der Ecke öffnet um fünf, das Brot ist warm.",
     "luecke": "fırın",
     "gloss": "Köşe·de·ki fırın sabah beş·te aç·ıl·ıyor, ekmek sıcak. | Ecke·LOK·DER Ofen Morgen fünf·LOK öffnen·PASS·PRÄS, Brot heiß",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_10.mp3?v=56b72f92"
    },
    "zeit": {
     "pc": {
      "fr": "Köşedeki fırın sabah beşte açıldı, ekmek sıcaktı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_10_pc.mp3?v=8398d124"
     },
     "fp": {
      "fr": "Köşedeki fırın sabah beşte açılacak, ekmek sıcak olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_10_fp.mp3?v=df7870bd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_11",
@@ -4504,23 +5338,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "içmek = trinken, auch: rauchen (sigara içmek) und Suppe essen (çorba içmek). günde = pro Tag (Lokativ). saymak = zählen, auch: als etwas gelten lassen.",
    "audio": "audio/tr-de/wendungen/ye_11.mp3?v=367f3a39",
    "gloss": "su iç·mek | Wasser trinken·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Günde iki litre su içiyorum, çay saymıyorum.",
     "de": "Ich trinke zwei Liter Wasser am Tag, Tee zähle ich nicht.",
     "luecke": "su içiyorum",
     "gloss": "Gün·de iki litre su iç·iyor·um, çay say·mı·yor·um. | Tag·LOK zwei Liter Wasser trinken·PRÄS·1SG, Tee zählen·NEG·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_11.mp3?v=7a52b6aa"
    },
    "zeit": {
     "pc": {
      "fr": "Dün iki litre su içtim, çay saymadım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_11_pc.mp3?v=a3bbf9ce"
     },
     "fp": {
      "fr": "Yarın iki litre su içeceğim, çay saymayacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_11_fp.mp3?v=37d7739f"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_12",
@@ -4532,23 +5372,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "atıştırmak = naschen, einen Happen essen; atıştırmalık = Snack. leblebi = geröstete Kichererbsen, der Klassiker; kuru üzüm = Rosinen (wörtlich: trockene Traube). arasında = zwischen.",
    "audio": "audio/tr-de/wendungen/ye_12.mp3?v=561ff9de",
    "gloss": "atıştır·mak | naschen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ders arasında atıştırıyorum: leblebi, kuru üzüm.",
     "de": "Zwischen den Stunden knabbere ich: Kichererbsen, Rosinen.",
     "luecke": "atıştırıyorum",
     "gloss": "Ders ara·sı·nda atıştır·ıyor·um: leblebi, kuru üzüm. | Stunde Zwischenraum·sein·LOK naschen·PRÄS·1SG: Röstkichererbse, trocken Traube",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_12.mp3?v=1a870837"
    },
    "zeit": {
     "pc": {
      "fr": "Ders arasında atıştırdım: leblebi, kuru üzüm.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_12_pc.mp3?v=a38d4240"
     },
     "fp": {
      "fr": "Ders arasında atıştıracağım: leblebi, kuru üzüm.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_12_fp.mp3?v=0adb3ad9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_13",
@@ -4560,23 +5406,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "hissetmek = fühlen (his = Gefühl + etmek; vor Vokal: hissediyorum). kendimi = mich selbst (Akkusativ des Reflexivpronomens). sebep → sebebi (p → b).",
    "audio": "audio/tr-de/wendungen/ye_13.mp3?v=faa38c8e",
    "gloss": "kendi·ni iyi hisset·mek | selbst·AKK gut fühlen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bugün kendimi iyi hissediyorum, sebebi yok.",
     "de": "Heute fühle ich mich wohl, ohne Grund.",
     "luecke": "kendimi iyi hissediyorum",
     "gloss": "Bugün kendi·m·i iyi hiss·ed·iyor·um, sebeb·i yok. | heute selbst·mein·AKK gut Gefühl·machen·PRÄS·1SG, Grund·sein nicht.da",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_13.mp3?v=f80825e1"
    },
    "zeit": {
     "pc": {
      "fr": "Dün kendimi iyi hissettim, sebebi yoktu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_13_pc.mp3?v=8a935fc6"
     },
     "fp": {
      "fr": "Yarın kendimi iyi hissedeceğim, sebebi olmayacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_13_fp.mp3?v=48d76cc3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_14",
@@ -4588,14 +5440,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "mola vermek = eine Pause einlegen. verelim = lasst uns geben (Optativ 1. Pl. -elim). demlenmek = ziehen (Tee), demlik = Teekanne; der Tee ist fertig, wenn er demlendi.",
    "audio": "audio/tr-de/wendungen/ye_14.mp3?v=0216bda7",
    "gloss": "mola ver·mek | Pause geben·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Hadi mola verelim, çay demlendi.",
     "de": "Komm, machen wir eine Pause, der Tee ist gezogen.",
     "luecke": "mola verelim",
     "gloss": "Hadi mola ver·elim, çay demlen·di. | los Pause geben·OPT.1PL, Tee ziehen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_14.mp3?v=6036487d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_15",
@@ -4607,14 +5463,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "deliksiz uyumak = durchschlafen (wörtlich: ohne Loch schlafen). -siz = ohne (-li = mit). bile = sogar, nicht einmal (nach dem Wort). duymak = hören, spüren.",
    "audio": "audio/tr-de/wendungen/ye_15.mp3?v=32dca79c",
    "gloss": "delik·siz uyu·mak | Loch·ohne schlafen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Cuma gecesi deliksiz uyudum, kedi bile sesimi duymadı.",
     "de": "Freitagnacht habe ich durchgeschlafen, nicht einmal die Katze hat mich gehört.",
     "luecke": "deliksiz uyudum",
     "gloss": "Cuma gece·si delik·siz uyu·du·m, kedi bile ses·im·i duy·ma·dı. | Freitag Nacht·sein Loch·ohne schlafen·VERG·1SG, Katze sogar Stimme·mein·AKK hören·NEG·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_15.mp3?v=ea5c1f32"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_16",
@@ -4626,23 +5486,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "turp gibi = wie ein Rettich = kerngesund, fit (im Deutschen: wie ein Fisch im Wasser). gibi = wie (nach dem Wort); gibiyim = ich bin wie. tatil = Ferien, Urlaub.",
    "audio": "audio/tr-de/wendungen/ye_16.mp3?v=560078b1",
    "gloss": "turp gibi ol·mak | Rettich wie sein·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bir hafta tatil, şimdi turp gibiyim.",
     "de": "Eine Woche Urlaub, jetzt bin ich kerngesund.",
     "luecke": "turp gibiyim",
     "gloss": "Bir hafta tatil, şimdi turp gibi·yim. | ein Woche Urlaub, jetzt Rettich wie·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_16.mp3?v=c0258b39"
    },
    "zeit": {
     "pc": {
      "fr": "Bir hafta tatil, turp gibiydim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_16_pc.mp3?v=426222f2"
     },
     "fp": {
      "fr": "Bir hafta tatil, turp gibi olacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_16_fp.mp3?v=80262906"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_17",
@@ -4654,14 +5520,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "hava = Luft und Wetter (hava nasıl? = wie ist das Wetter?). hava almak = Luft schnappen. alalım = lasst uns nehmen. fırın gibi = wie ein Backofen (fırın aus ye_10).",
    "audio": "audio/tr-de/wendungen/ye_17.mp3?v=b42371b7",
    "gloss": "hava al·mak | Luft nehmen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Biraz hava alalım, sınıf fırın gibi.",
     "de": "Lass uns etwas Luft schnappen, die Klasse ist wie ein Backofen.",
     "luecke": "hava alalım",
     "gloss": "Biraz hava al·alım, sınıf fırın gibi. | etwas Luft nehmen·OPT.1PL, Klasse Ofen wie",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_17.mp3?v=b3bc6a11"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_18",
@@ -4673,14 +5543,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tarif = Rezept, auch: Beschreibung, Wegbeschreibung (tarif etmek = beschreiben). Genitivkette: annem-in tarif-i = das Rezept meiner Mutter. Arztrezept = reçete.",
    "audio": "audio/tr-de/wendungen/ye_18.mp3?v=aa74bf24",
    "gloss": "tarif | Rezept",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Annemin tarifi: az tuz, çok sabır.",
     "de": "Das Rezept meiner Mutter: wenig Salz, viel Geduld.",
     "luecke": "tarifi",
     "gloss": "Anne·m·in tarif·i: az tuz, çok sabır. | Mutter·mein·GEN Rezept·sein: wenig Salz, viel Geduld",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_18.mp3?v=087cdd58"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_19",
@@ -4692,14 +5566,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tatmak = kosten, schmecken (tat = Geschmack, tatlı = süß). bakalım nach dem Imperativ = mal (schauen wir): gel bakalım = komm mal. eksik = fehlend, zu wenig.",
    "audio": "audio/tr-de/wendungen/ye_19.mp3?v=a08bad92",
    "gloss": "tat·mak | kosten·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tat bakalım, tuzu eksik mi?",
     "de": "Probier mal, fehlt Salz?",
     "luecke": "Tat bakalım",
     "gloss": "Tat bak·alım, tuz·u eksik mi? | koste schau·OPT.1PL, Salz·sein fehlend FRAGE",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_19.mp3?v=c3ab7ba2"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_20",
@@ -4711,23 +5589,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "nefis = köstlich, exquisit (arabisch; auch: nefis = Seele, Ego). Alternativen: lezzetli, enfes, çok güzel olmuş (= ist sehr gut geworden, das übliche Lob).",
    "audio": "audio/tr-de/wendungen/ye_20.mp3?v=f032e17f",
    "gloss": "nefis | köstlich",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bu baklava nefis, kim yaptı?",
     "de": "Dieses Baklava ist köstlich, wer hat es gemacht?",
     "luecke": "nefis",
     "gloss": "Bu baklava nefis, kim yap·tı? | dies Baklava köstlich, wer machen·VERG?",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_20.mp3?v=08ddf003"
    },
    "zeit": {
     "pc": {
      "fr": "Bu baklava nefisti, kim yaptı?",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_20_pc.mp3?v=8dc1e2b9"
     },
     "fp": {
      "fr": "Bu baklava nefis olacak, kim yapacak?",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_20_fp.mp3?v=b75817a6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_21",
@@ -4739,14 +5623,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "susamak = Durst bekommen (su = Wasser); Susadım = ich habe Durst, wie acıktım. Nicht verwechseln: susmak = schweigen (sustu in Thema 6). ayran = Joghurtgetränk.",
    "audio": "audio/tr-de/wendungen/ye_21.mp3?v=1cbd157f",
    "gloss": "susa·mak | durstig.werden·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Susadım, bir bardak ayran lütfen.",
     "de": "Ich habe Durst, ein Glas Ayran bitte.",
     "luecke": "Susadım",
     "gloss": "Susa·dı·m, bir bardak ayran lütfen. | durstig.werden·VERG·1SG, ein Glas Ayran bitte",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_21.mp3?v=e5e90196"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_22",
@@ -4758,14 +5646,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sağ ayakla kalkmak = guter Start in den Tag; Gegenteil: sol tarafından kalkmak = mit dem linken Fuß. daha = mehr (Komparativ): daha güzel = schöner. sağ = rechts und gesund.",
    "audio": "audio/tr-de/wendungen/ye_22.mp3?v=3babd750",
    "gloss": "sağ ayak·la kalk·mak | recht Fuß·MIT aufstehen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bugün sağ ayakla kalktım, çay bile daha güzel.",
     "de": "Heute bin ich mit dem rechten Fuß aufgestanden, sogar der Tee ist besser.",
     "luecke": "sağ ayakla kalktım",
     "gloss": "Bugün sağ ayak·la kalk·tı·m, çay bile daha güzel. | heute recht Fuß·MIT aufstehen·VERG·1SG, Tee sogar mehr schön",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_22.mp3?v=b838ce3c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "ye_23",
@@ -4777,23 +5669,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "canı çekmek = Lust auf etwas haben: meine Seele zieht Baklava. can = Seele, Leben (canım = mein Schatz als Anrede!). Possessiv wechselt: canım, canın, canı … çekiyor.",
    "audio": "audio/tr-de/wendungen/ye_23.mp3?v=7025dfc4",
    "gloss": "can·ı çek·mek | Seele·sein ziehen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Canım baklava çekiyor, ama akşam yedi.",
     "de": "Ich habe Lust auf Baklava, aber es ist sieben Uhr abends.",
     "luecke": "Canım baklava çekiyor",
     "gloss": "Can·ım baklava çek·iyor, ama akşam yedi. | Seele·mein Baklava ziehen·PRÄS, aber Abend sieben",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_23.mp3?v=2de2cde1"
    },
    "zeit": {
     "pc": {
      "fr": "Canım baklava çekti, ama akşam yediydi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_23_pc.mp3?v=7e4ddc49"
     },
     "fp": {
      "fr": "Canım baklava çekecek, ama akşam yedi olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_23_fp.mp3?v=028a466e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "ye_24",
@@ -4805,14 +5703,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Höfliche Bitte: -abilir miyim = kann ich? (Möglichkeit -abil + Aorist + Frage). Alternative: alabilir miyiz (wir). susamlı olsun = er sei mit Sesam (Wunsch mit -sun). Antwort: Tabii, buyurun.",
    "audio": "audio/tr-de/wendungen/ye_24.mp3?v=f9b88dcc",
    "gloss": "bir simit al·abil·ir mi·yim | ein Simit nehmen·KANN·AOR FRAGE·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bir simit alabilir miyim, susamlı olsun lütfen.",
     "de": "Kann ich einen Simit haben, mit Sesam bitte.",
     "luecke": "alabilir miyim",
     "gloss": "Bir simit al·abil·ir mi·yim, susam·lı ol·sun lütfen. | ein Simit nehmen·KANN·AOR FRAGE·1SG, Sesam·mit sein·IMP3 bitte",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/ye_24.mp3?v=c142f851"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_01",
@@ -4824,14 +5726,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "-e kadar = bis (mit Dativ): sabaha kadar = bis zum Morgen. X de Y de = sowohl X als auch Y. şaşkın = verblüfft, verwirrt (şaşırmak = sich wundern).",
    "audio": "audio/tr-de/wendungen/co_01.mp3?v=f46af159",
    "gloss": "sabah·a kadar uyu·mak | Morgen·DAT bis schlafen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bebek sabaha kadar uyudu, anne de babası da şaşkın.",
     "de": "Das Baby hat bis zum Morgen geschlafen, Mutter und Vater sind verblüfft.",
     "luecke": "sabaha kadar uyudu",
     "gloss": "Bebek sabah·a kadar uyu·du, anne de baba·sı da şaşkın. | Baby Morgen·DAT bis schlafen·VERG, Mutter auch Vater·sein auch verblüfft",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_01.mp3?v=5a0067f6"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_02",
@@ -4843,23 +5749,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "oyuncak = Spielzeug (oyun = Spiel); oyuncak ayı = Teddy; peluş = Plüschtier. yer = Boden, Platz, Ort. Ortsangabe ohne Verb: yatakta = ist im Bett.",
    "audio": "audio/tr-de/wendungen/co_02.mp3?v=21f6c9e8",
    "gloss": "oyuncak ayı | Spielzeug Bär",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Oyuncak ayı yatakta, çocuk yerde.",
     "de": "Der Teddybär liegt im Bett, das Kind auf dem Boden.",
     "luecke": "Oyuncak ayı",
     "gloss": "Oyuncak ayı yatak·ta, çocuk yer·de. | Spielzeug Bär Bett·LOK, Kind Boden·LOK",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_02.mp3?v=881d9785"
    },
    "zeit": {
     "pc": {
      "fr": "Oyuncak ayı yataktaydı, çocuk yerdeydi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_02_pc.mp3?v=c916821c"
     },
     "fp": {
      "fr": "Oyuncak ayı yatakta olacak, çocuk yerde olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_02_fp.mp3?v=e6c3d6c2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_03",
@@ -4871,23 +5783,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "yaramaz = frech, ungezogen (wörtlich: taugt nicht); yaramazlık = Unfug. -lık macht Abstrakta: güzel → güzellik. ortak = Partner, Komplize, gemeinsam.",
    "audio": "audio/tr-de/wendungen/co_03.mp3?v=d605cd53",
    "gloss": "yaramaz·lık yap·mak | frech·Abstr. machen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Küçük yaramazlık yaptı, kedi de ortak.",
     "de": "Der Kleine hat Unsinn angestellt, die Katze war Komplizin.",
     "luecke": "yaramazlık yaptı",
     "gloss": "Küçük yaramaz·lık yap·tı, kedi de ortak. | klein frech·Abstr. machen·VERG, Katze auch Partner",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_03.mp3?v=404403de"
    },
    "zeit": {
     "pc": {
      "fr": "Küçük yaramazlık yapmıştı, kedi de ortaktı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_03_pc.mp3?v=cc737149"
     },
     "fp": {
      "fr": "Küçük yaramazlık yapacak, kedi de ortak olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_03_fp.mp3?v=62017cf3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_04",
@@ -4899,14 +5817,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kucak = Schoß, Arme; kucağına almak = auf den Arm nehmen (k → ğ: kucak → kucağ-ı). -ınca/-ince = sobald, als: ağlayınca = als er weinte. hemen = sofort.",
    "audio": "audio/tr-de/wendungen/co_04.mp3?v=01e95a7a",
    "gloss": "kucağ·ı·na al·mak | Schoß·sein·DAT nehmen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ağlayınca kucağıma aldım, hemen sustu.",
     "de": "Als er weinte, nahm ich ihn auf den Arm, sofort war er still.",
     "luecke": "kucağıma aldım",
     "gloss": "Ağla·yınca kucağ·ım·a al·dı·m, hemen sus·tu. | weinen·SOBALD Schoß·mein·DAT nehmen·VERG·1SG, sofort schweigen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_04.mp3?v=ec215cb8"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_05",
@@ -4918,14 +5840,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "bebek = Baby, auch: Puppe. doğmak = geboren werden (doğum günü = Geburtstag). bakmaya gitmek = schauen gehen (Verbalnomen -ma + Dativ). apartman = Mehrfamilienhaus, nicht Wohnung (= daire).",
    "audio": "audio/tr-de/wendungen/co_05.mp3?v=0622c479",
    "gloss": "bebek | Baby",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Komşunun bebeği doğdu, bütün apartman bakmaya gitti.",
     "de": "Das Baby der Nachbarin ist geboren, das ganze Haus ging es ansehen.",
     "luecke": "bebeği",
     "gloss": "Komşu·nun bebeğ·i doğ·du, bütün apartman bak·ma·ya git·ti. | Nachbar·GEN Baby·sein geboren.werden·VERG, ganz Wohnhaus schauen·INF·DAT gehen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_05.mp3?v=b0ba1a77"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_06",
@@ -4937,14 +5863,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "gülmek = lachen, gülümsemek = lächeln (an + Dativ: bana gülümsedi). bana = mir (ben + Dativ, unregelmäßig). kurtulmak = gerettet werden, davonkommen.",
    "audio": "audio/tr-de/wendungen/co_06.mp3?v=ed3887c0",
    "gloss": "gülümse·mek | lächeln·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bebek bana gülümsedi, günüm kurtuldu.",
     "de": "Das Baby hat mich angelächelt, mein Tag ist gerettet.",
     "luecke": "gülümsedi",
     "gloss": "Bebek ban·a gülümse·di, gün·üm kurt·ul·du. | Baby ich·DAT lächeln·VERG, Tag·mein retten·PASS·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_06.mp3?v=ade77ef0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_07",
@@ -4956,23 +5886,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "büyümek = wachsen (büyük = groß); nicht büyü = Zauber (Thema 5)! çabuk = schnell (Alternative: hızlı). yetişmek = hinterherkommen, reichen, rechtzeitig ankommen.",
    "audio": "audio/tr-de/wendungen/co_07.mp3?v=8868e49d",
    "gloss": "büyü·mek | groß.werden·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Çocuklar çabuk büyüyor, pantolonlar yetişmiyor.",
     "de": "Kinder werden schnell groß, die Hosen kommen nicht hinterher.",
     "luecke": "büyüyor",
     "gloss": "Çocuk·lar çabuk büyü·yor, pantolon·lar yetiş·mi·yor. | Kind·PL schnell groß.werden·PRÄS, Hose·PL hinterherkommen·NEG·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_07.mp3?v=5794adab"
    },
    "zeit": {
     "pc": {
      "fr": "Çocuklar çabuk büyüdü, pantolonlar yetişmedi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_07_pc.mp3?v=594b513c"
     },
     "fp": {
      "fr": "Çocuklar çabuk büyüyecek, pantolonlar yetişmeyecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_07_fp.mp3?v=a0219dd5"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_08",
@@ -4984,23 +5920,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "zor = schwer, schwierig; als Adverb: zor uyuyor = schläft schwer ein. Gegenteil: kolay = leicht. Einschlafen = uykuya dalmak (wörtlich: in den Schlaf tauchen).",
    "audio": "audio/tr-de/wendungen/co_08.mp3?v=d77e8b08",
    "gloss": "zor uyu·mak | schwer schlafen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Küçük zor uyuyor, her gece üç masal.",
     "de": "Der Kleine schläft schlecht ein, jede Nacht drei Märchen.",
     "luecke": "zor uyuyor",
     "gloss": "Küçük zor uyu·yor, her gece üç masal. | klein schwer schlafen·PRÄS, jeder Nacht drei Märchen",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_08.mp3?v=b7908e0b"
    },
    "zeit": {
     "pc": {
      "fr": "Küçük zor uyudu, her gece üç masal.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_08_pc.mp3?v=eac5f0d6"
     },
     "fp": {
      "fr": "Küçük zor uyuyacak, her gece üç masal.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_08_fp.mp3?v=f9151547"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_09",
@@ -5012,14 +5954,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "bez = Windel, auch: Stofftuch (bebek bezi). değiştirmek = wechseln, ändern (değişmek = sich ändern). sonra nach Zeitangabe = später: iki dakika sonra.",
    "audio": "audio/tr-de/wendungen/co_09.mp3?v=717e6696",
    "gloss": "bez | Windel",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bez değiştirdim, iki dakika sonra yine.",
     "de": "Ich habe die Windel gewechselt, zwei Minuten später wieder.",
     "luecke": "Bez",
     "gloss": "Bez değiştir·di·m, iki dakika sonra yine. | Windel wechseln·VERG·1SG, zwei Minute später wieder",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_09.mp3?v=4ec88893"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_10",
@@ -5031,14 +5977,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "uslu = brav, artig; uslu durmak = sich benehmen (wörtlich: brav stehen). teyze = Tante mütterlicherseits (hala = väterlicherseits), auch Anrede für ältere Frauen.",
    "audio": "audio/tr-de/wendungen/co_10.mp3?v=53cbc8ad",
    "gloss": "uslu dur·mak | brav stehen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Uslu dur, teyzen geliyor.",
     "de": "Sei brav, deine Tante kommt.",
     "luecke": "Uslu dur",
     "gloss": "Uslu dur, teyze·n gel·iyor. | brav steh, Tante·dein kommen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_10.mp3?v=9fbb2277"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_11",
@@ -5050,14 +6000,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "saklambaç = Versteckspiel (saklanmak = sich verstecken). Beim Zählen: Önüm arkam sağım solum sobe! hep = immer (Alternative: her zaman). oynamak = spielen (Spiele).",
    "audio": "audio/tr-de/wendungen/co_11.mp3?v=38a89742",
    "gloss": "saklambaç oyna·mak | Verstecken spielen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Saklambaç oynadık, kedi hep kazandı.",
     "de": "Wir haben Verstecken gespielt, die Katze hat immer gewonnen.",
     "luecke": "Saklambaç oynadık",
     "gloss": "Saklambaç oyna·dı·k, kedi hep kazan·dı. | Verstecken spielen·VERG·1PL, Katze immer gewinnen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_11.mp3?v=214628b9"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_12",
@@ -5069,23 +6023,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "okumak = lesen, vorlesen, auch: studieren (üniversitede okuyorum). masal okumak = vorlesen, masal anlatmak = frei erzählen (Thema 5). ben betont das Subjekt.",
    "audio": "audio/tr-de/wendungen/co_12.mp3?v=b6eaf0bd",
    "gloss": "masal oku·mak | Märchen lesen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Her akşam masal okuyorum, ben önce uyuyorum.",
     "de": "Jeden Abend lese ich ein Märchen vor, ich schlafe zuerst ein.",
     "luecke": "masal okuyorum",
     "gloss": "Her akşam masal oku·yor·um, ben önce uyu·yor·um. | jeder Abend Märchen lesen·PRÄS·1SG, ich zuerst schlafen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_12.mp3?v=150a1f2c"
    },
    "zeit": {
     "pc": {
      "fr": "Her akşam masal okudum, ben önce uyudum.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_12_pc.mp3?v=92cd6551"
     },
     "fp": {
      "fr": "Her akşam masal okuyacağım, ben önce uyuyacağım.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_12_fp.mp3?v=d2d75779"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_13",
@@ -5097,14 +6057,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ağlamak = weinen; verneinter Imperativ: ağlama = wein nicht. dondurma = Speiseeis (donmak = gefrieren). buzdolabı = Kühlschrank (wörtlich: Eisschrank), mit Bindekonsonant: buzdolabı-n-da.",
    "audio": "audio/tr-de/wendungen/co_13.mp3?v=503fb33f",
    "gloss": "ağla·mak | weinen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Ağlama, dondurma bitmedi, buzdolabında var.",
     "de": "Wein nicht, das Eis ist nicht alle, im Kühlschrank ist noch welches.",
     "luecke": "Ağlama",
     "gloss": "Ağla·ma, dondurma bit·me·di, buzdolab·ı·nda var. | weinen·NEG.IMP, Eis enden·NEG·VERG, Kühlschrank·sein·LOK vorhanden",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_13.mp3?v=9c3633d3"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_14",
@@ -5116,23 +6080,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sarılmak + Dativ = jemanden umarmen (bana sarıldı); sarmak = einwickeln. kız = Mädchen und Tochter. yorgunluk = Müdigkeit (-luk). gitmek: git- → gid- vor Vokal.",
    "audio": "audio/tr-de/wendungen/co_14.mp3?v=acb8bb80",
    "gloss": "sarıl·mak | umarmen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Eve gelince kızım sarılıyor, yorgunluk gidiyor.",
     "de": "Wenn ich heimkomme, umarmt mich meine Tochter, die Müdigkeit geht weg.",
     "luecke": "sarılıyor",
     "gloss": "Ev·e gel·ince kız·ım sarıl·ıyor, yorgun·luk gid·iyor. | Haus·DAT kommen·SOBALD Tochter·mein umarmen·PRÄS, müde·Abstr. gehen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_14.mp3?v=59e372c7"
    },
    "zeit": {
     "pc": {
      "fr": "Eve gelince kızım sarıldı, yorgunluk gitti.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_14_pc.mp3?v=406e5bac"
     },
     "fp": {
      "fr": "Eve gelince kızım sarılacak, yorgunluk gidecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_14_fp.mp3?v=23b29abd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_15",
@@ -5144,14 +6114,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Verb als Objekt: yürüme-yi öğrenmek = das Gehen lernen (-me + Akkusativ). oğul → oğlum (Vokal fällt aus). artık = nunmehr, ab jetzt. güvende = in Sicherheit.",
    "audio": "audio/tr-de/wendungen/co_15.mp3?v=4acc4d59",
    "gloss": "yürü·me·yi öğren·mek | gehen·INF·AKK lernen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Oğlum yürümeyi öğrendi, artık hiçbir şey güvende değil.",
     "de": "Mein Sohn hat laufen gelernt, jetzt ist nichts mehr sicher.",
     "luecke": "yürümeyi öğrendi",
     "gloss": "Oğl·um yürü·me·yi öğren·di, artık hiçbir şey güven·de değil. | Sohn·mein gehen·INF·AKK lernen·VERG, nunmehr kein Ding Sicherheit·LOK nicht",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_15.mp3?v=1584b814"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_16",
@@ -5163,23 +6137,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "gurur duymak + -la = stolz sein auf (wörtlich: mit … Stolz empfinden). duymak = hören und empfinden. ilk kez = zum ersten Mal. binmek + Dativ = einsteigen, aufsteigen (bisiklete, otobüse).",
    "audio": "audio/tr-de/wendungen/co_16.mp3?v=fa72d976",
    "gloss": "gurur duy·mak | Stolz empfinden·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kızımla gurur duyuyorum, bugün ilk kez bisiklete bindi.",
     "de": "Ich bin stolz auf meine Tochter, heute ist sie zum ersten Mal Fahrrad gefahren.",
     "luecke": "gurur duyuyorum",
     "gloss": "Kız·ım·la gurur duy·uyor·um, bugün ilk kez bisiklet·e bin·di. | Tochter·mein·MIT Stolz empfinden·PRÄS·1SG, heute erst Mal Fahrrad·DAT aufsteigen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_16.mp3?v=48aaaae3"
    },
    "zeit": {
     "pc": {
      "fr": "Kızımla gurur duydum, bisiklete bindi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_16_pc.mp3?v=96e34796"
     },
     "fp": {
      "fr": "Kızımla gurur duyacağım, bisiklete binecek.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_16_fp.mp3?v=ba785bda"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_17",
@@ -5191,14 +6171,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kelime = Wort (arabisch), sözcük = Wort (türkisch). ilk = erst, erster. oldu = wurde, ist geworden: X değil, Y oldu = es wurde nicht X, sondern Y.",
    "audio": "audio/tr-de/wendungen/co_17.mp3?v=e487acd8",
    "gloss": "ilk kelime·ler | erst Wort·PL",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "İlk kelimesi « anne » değil, « kedi » oldu.",
     "de": "Sein erstes Wort war nicht « Mama », sondern « Katze ».",
     "luecke": "İlk kelimesi",
     "gloss": "İlk kelime·si « anne » değil, « kedi » ol·du. | erst Wort·sein « Mama » nicht, « Katze » werden·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_17.mp3?v=77716d7b"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_18",
@@ -5210,14 +6194,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sabırlı olmak = geduldig sein (sabır = Geduld, aus Thema 6). kendisi = er/sie selbst. bağlamak = binden, anbinden (das Instrument bağlama kommt daher).",
    "audio": "audio/tr-de/wendungen/co_18.mp3?v=7847fba1",
    "gloss": "sabır·lı ol·mak | Geduld·mit sein·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sabırlı ol, ayakkabıyı kendisi bağlayacak.",
     "de": "Hab Geduld, er wird den Schuh selbst binden.",
     "luecke": "Sabırlı ol",
     "gloss": "Sabır·lı ol, ayakkabı·yı kendi·si bağla·yacak. | Geduld·mit sei, Schuh·AKK selbst·sein binden·FUT",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_18.mp3?v=ff389f39"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_19",
@@ -5229,14 +6217,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "ikindi = Nachmittag (auch das Nachmittagsgebet), kahvaltı = Frühstück (wörtlich: unter dem Kaffee); ikindi kahvaltısı = Vesper. okul çıkışı = Schulschluss. poğaça = Hefeteigtasche.",
    "audio": "audio/tr-de/wendungen/co_19.mp3?v=25e49bbb",
    "gloss": "ikindi kahvaltı·sı | Nachmittag Frühstück·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Okul çıkışı ikindi kahvaltısı: poğaça ve süt.",
     "de": "Nach der Schule der Nachmittagssnack: Poğaça und Milch.",
     "luecke": "ikindi kahvaltısı",
     "gloss": "Okul çık·ış·ı ikindi kahvaltı·sı: poğaça ve süt. | Schule herauskommen·Abstr.·sein Nachmittag Frühstück·sein: Poğaça und Milch",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_19.mp3?v=1f072e0d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_20",
@@ -5248,14 +6240,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kahkaha = lautes Lachen (lautmalerisch); kahkaha atmak = laut loslachen (atmak = werfen, wie gol atmak). kutu = Kiste, Schachtel. Pluralsubjekt + Singularverb: çocuklar attı.",
    "audio": "audio/tr-de/wendungen/co_20.mp3?v=f29d2634",
    "gloss": "kahkaha at·mak | Gelächter werfen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kedi kutuya girdi, çocuklar kahkaha attı.",
     "de": "Die Katze ist in die Kiste gestiegen, die Kinder haben schallend gelacht.",
     "luecke": "kahkaha attı",
     "gloss": "Kedi kutu·ya gir·di, çocuk·lar kahkaha at·tı. | Katze Kiste·DAT hineingehen·VERG, Kind·PL Gelächter werfen·VERG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_20.mp3?v=953848f0"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_21",
@@ -5267,14 +6263,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "öğle uykusu = Mittagsschlaf (uyku = Schlaf, uyumak = schlafen). anaokulu = Kindergarten (wörtlich: Mutterschule), kreş = Kita. kutsal = heilig. da … da = sowohl … als auch.",
    "audio": "audio/tr-de/wendungen/co_21.mp3?v=63c3e6ba",
    "gloss": "öğle uyku·su | Mittag Schlaf·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Öğle uykusu kutsal, anaokulunda da, öğretmenler odasında da.",
     "de": "Der Mittagsschlaf ist heilig, im Kindergarten wie im Lehrerzimmer.",
     "luecke": "Öğle uykusu",
     "gloss": "Öğle uyku·su kutsal, anaokul·u·nda da, öğretmen·ler oda·sı·nda da. | Mittag Schlaf·sein heilig, Kindergarten·sein·LOK auch, Lehrer·PL Zimmer·sein·LOK auch",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_21.mp3?v=86dfaf87"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_22",
@@ -5286,23 +6286,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "korkmak + Ablativ = Angst haben vor: karanlıktan, köpekten. karanlık = Dunkelheit (kara = schwarz). yanmak = brennen, leuchten (Lampe), auch: verbrennen.",
    "audio": "audio/tr-de/wendungen/co_22.mp3?v=83285c27",
    "gloss": "karanlık·tan kork·mak | Dunkelheit·ABL fürchten·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Karanlıktan korkuyor, gece lambası yanıyor.",
     "de": "Er hat Angst im Dunkeln, das Nachtlicht brennt.",
     "luecke": "Karanlıktan korkuyor",
     "gloss": "Karanlık·tan kork·uyor, gece lamba·sı yan·ıyor. | Dunkelheit·ABL fürchten·PRÄS, Nacht Lampe·sein brennen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_22.mp3?v=d87d154a"
    },
    "zeit": {
     "pc": {
      "fr": "Karanlıktan korktu, gece lambası yandı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_22_pc.mp3?v=8240a6a3"
     },
     "fp": {
      "fr": "Karanlıktan korkacak, gece lambası yanacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_22_fp.mp3?v=d697af8d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_23",
@@ -5314,14 +6320,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "vakit = Zeit (arabisch), vakti mit Possessiv: vakit → vakt-i (Vokal fällt aus); zaman = Zeit allgemein. banyo = Bad und Badezimmer. kaçmak = fliehen, abhauen.",
    "audio": "audio/tr-de/wendungen/co_23.mp3?v=425c3a59",
    "gloss": "banyo vakt·i | Bad Zeit·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Banyo vakti geldi, kedi kaçtı, çocuk da.",
     "de": "Die Badezeit ist da, die Katze ist geflohen, das Kind auch.",
     "luecke": "Banyo vakti",
     "gloss": "Banyo vakt·i gel·di, kedi kaç·tı, çocuk da. | Bad Zeit·sein kommen·VERG, Katze fliehen·VERG, Kind auch",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_23.mp3?v=9d9890e4"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "co_24",
@@ -5333,14 +6343,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Alter: kaç yaşında = wie alt (wörtlich: in wievieltem Jahr); Antwort: beş yaşında. çocuğunuz = Ihr Kind (-unuz, k → ğ). sanmak = glauben, halten für: kendini on sanıyor.",
    "audio": "audio/tr-de/wendungen/co_24.mp3?v=21433518",
    "gloss": "çocuğ·unuz kaç yaş·ı·nda | Kind·Ihr wieviel Alter·sein·LOK",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Çocuğunuz kaç yaşında? – Beş, ama kendini on sanıyor.",
     "de": "Wie alt ist Ihr Kind? – Fünf, aber es hält sich für zehn.",
     "luecke": "kaç yaşında",
     "gloss": "Çocuğ·unuz kaç yaş·ı·nda? – Beş, ama kendi·ni on san·ıyor. | Kind·Ihr wieviel Alter·sein·LOK? – fünf, aber selbst·AKK zehn glauben·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/co_24.mp3?v=b48e3468"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_01",
@@ -5352,14 +6366,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "dolap = Schrank (buzdolabı = Kühlschrank). Falscher Freund: kazak = Pullover, nicht Kasache (das wäre Kazak mit Großbuchstabe, gleich geschrieben!). yere = auf den Boden (Dativ, Richtung).",
    "audio": "audio/tr-de/wendungen/sd_01.mp3?v=41509b9b",
    "gloss": "bir dolap | ein Schrank",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bu dolap dolu, kazaklar yere.",
     "de": "Dieser Schrank ist voll, die Pullover kommen auf den Boden.",
     "luecke": "dolap",
     "gloss": "Bu dolap dolu, kazak·lar yer·e. | dies Schrank voll, Pullover·PL Boden·DAT",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_01.mp3?v=ea220789"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_02",
@@ -5371,23 +6389,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sıcak = heiß, warm; soğuk = kalt; ılık = lauwarm. Türkisch unterscheidet nicht warm/heiß. dikkat etmek = aufpassen (dikkat! = Achtung!).",
    "audio": "audio/tr-de/wendungen/sd_02.mp3?v=cb3d1c1c",
    "gloss": "sıcak | heiß",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Çay sıcak, dikkat et.",
     "de": "Der Tee ist heiß, pass auf.",
     "luecke": "sıcak",
     "gloss": "Çay sıcak, dikkat et. | Tee heiß, Aufmerksamkeit mach",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_02.mp3?v=c9b1b0bd"
    },
    "zeit": {
     "pc": {
      "fr": "Çay sıcaktı, dikkat ettim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_02_pc.mp3?v=27bd6ccc"
     },
     "fp": {
      "fr": "Çay sıcak olacak, dikkat edeceğim.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_02_fp.mp3?v=f85de6c9"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sd_03",
@@ -5399,23 +6423,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tabak = Teller (aus Thema 7), nicht Tabak: das ist tütün (sigara = Zigarette). yasak = verboten, Verbot (sigara içmek yasaktır). boş = leer, auch: frei (boş ver = vergiss es).",
    "audio": "audio/tr-de/wendungen/sd_03.mp3?v=a8ee7478",
    "gloss": "tabak | Teller",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tabak boş, tütün yasak.",
     "de": "Der Teller ist leer, Tabak ist verboten.",
     "luecke": "Tabak",
     "gloss": "Tabak boş, tütün yasak. | Teller leer, Tabak verboten",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_03.mp3?v=4be75cdd"
    },
    "zeit": {
     "pc": {
      "fr": "Tabak boştu, tütün yasaktı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_03_pc.mp3?v=e31874de"
     },
     "fp": {
      "fr": "Tabak boş olacak, tütün yasak olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_03_fp.mp3?v=73d3143c"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sd_04",
@@ -5427,23 +6457,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "sempatik = sympathisch (wie im Deutschen; engl. sympathetic = mitfühlend). müdür = Direktor, Schulleiter (müdüre = Schulleiterin). hem de = und zugleich, und sogar.",
    "audio": "audio/tr-de/wendungen/sd_04.mp3?v=e14733a3",
    "gloss": "sempatik | sympathisch",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yeni müdür sempatik, hem de ciddi.",
     "de": "Der neue Direktor ist sympathisch und dabei ernst.",
     "luecke": "sempatik",
     "gloss": "Yeni müdür sempatik, hem de ciddi. | neu Direktor sympathisch, und zugleich ernst",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_04.mp3?v=f15c30a1"
    },
    "zeit": {
     "pc": {
      "fr": "Yeni müdür sempatikti, hem de ciddiydi.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_04_pc.mp3?v=0fc1c24d"
     },
     "fp": {
      "fr": "Yeni müdür sempatik olacak, hem de ciddi olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_04_fp.mp3?v=e58ea3fa"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sd_05",
@@ -5455,14 +6491,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kamera = Kamera, wie im Deutschen, anders als it. camera (Zimmer). var mı? / yok = gibt es? / nein, gibt es nicht. Zimmer = oda.",
    "audio": "audio/tr-de/wendungen/sd_05.mp3?v=580c96d4",
    "gloss": "kamera | Kamera",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sınıfta kamera var mı? – Yok, sadece kedi.",
     "de": "Ist eine Kamera im Klassenzimmer? – Nein, nur die Katze.",
     "luecke": "kamera",
     "gloss": "Sınıf·ta kamera var mı? – Yok, sadece kedi. | Klasse·LOK Kamera vorhanden FRAGE? – nicht.da, nur Katze",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_05.mp3?v=6c428a26"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_06",
@@ -5474,14 +6514,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "imza = Unterschrift (arabisch), imzalamak = unterschreiben. Firma = firma, şirket. veli = Erziehungsberechtigter, veli toplantısı = Elternabend.",
    "audio": "audio/tr-de/wendungen/sd_06.mp3?v=aefe3252",
    "gloss": "imza | Unterschrift",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Velinin imzası eksik, yine.",
     "de": "Die Unterschrift der Eltern fehlt, wieder.",
     "luecke": "imzası",
     "gloss": "Veli·nin imza·sı eksik, yine. | Erziehungsberechtigter·GEN Unterschrift·sein fehlend, wieder",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_06.mp3?v=0dd1f613"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_07",
@@ -5493,23 +6537,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "kantin = Schul- oder Unikiosk, nicht Betriebskantine (yemekhane). tost = gegrilltes Käsesandwich, nicht Toastbrot. sıra = Reihe, Schlange, auch: Schulbank und: an der Reihe (sıra sende).",
    "audio": "audio/tr-de/wendungen/sd_07.mp3?v=a68f8ca5",
    "gloss": "kantin | Cafeteria",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kantinde tost var, sıra uzun.",
     "de": "In der Cafeteria gibt es Toast, die Schlange ist lang.",
     "luecke": "Kantinde",
     "gloss": "Kantin·de tost var, sıra uzun. | Cafeteria·LOK Toast vorhanden, Reihe lang",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_07.mp3?v=245fcfad"
    },
    "zeit": {
     "pc": {
      "fr": "Kantinde tost vardı, sıra uzundu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_07_pc.mp3?v=c5c0b48d"
     },
     "fp": {
      "fr": "Kantinde tost olacak, sıra uzun olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_07_fp.mp3?v=6d94c203"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sd_08",
@@ -5521,14 +6571,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "çiftlik = Bauernhof (çift = Paar, Ochsengespann; çiftçi = Bauer). fabrika = Fabrik. hayvan = Tier (Plural nicht nötig nach var).",
    "audio": "audio/tr-de/wendungen/sd_08.mp3?v=29d4f86c",
    "gloss": "çift·lik | Paar·Abstr.",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Çiftlikte hayvan var, fabrikada makine.",
     "de": "Auf dem Bauernhof gibt es Tiere, in der Fabrik Maschinen.",
     "luecke": "Çiftlikte",
     "gloss": "Çift·lik·te hayvan var, fabrika·da makine. | Paar·Abstr.·LOK Tier vorhanden, Fabrik·LOK Maschine",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_08.mp3?v=c742ee43"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_09",
@@ -5540,14 +6594,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "terbiye = Erziehung, Manieren; terbiyeli = wohlerzogen, terbiyesiz = unverschämt (häufige Beschimpfung). Gebildet = eğitimli (eğitim = Bildung).",
    "audio": "audio/tr-de/wendungen/sd_09.mp3?v=0cde453f",
    "gloss": "terbiye·li | Erziehung·mit",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Terbiyeli çocuk, ama sınıfta değil.",
     "de": "Ein wohlerzogenes Kind, aber nicht im Klassenzimmer.",
     "luecke": "Terbiyeli",
     "gloss": "Terbiye·li çocuk, ama sınıf·ta değil. | Erziehung·mit Kind, aber Klasse·LOK nicht",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_09.mp3?v=b43a4e62"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_10",
@@ -5559,14 +6617,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "Deutsches eventuell = belki (vielleicht); ihtimal = Möglichkeit, Wahrscheinlichkeit; muhtemelen = wahrscheinlich. Vorsicht: tr. aktüel = aktuell, aber engl. actually = aslında (nächste Karte).",
    "audio": "audio/tr-de/wendungen/sd_10.mp3?v=047607d8",
    "gloss": "ihtimal | Möglichkeit",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "İhtimal var mı? – Belki. Her zaman ihtimal var.",
     "de": "Gibt es eine Möglichkeit? – Vielleicht. Es gibt immer eine Möglichkeit.",
     "luecke": "İhtimal",
     "gloss": "İhtimal var mı? – Belki. Her zaman ihtimal var. | Möglichkeit vorhanden FRAGE? – vielleicht. jeder Zeit Möglichkeit vorhanden",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_10.mp3?v=07eaf24c"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_11",
@@ -5578,14 +6640,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "aslında = eigentlich, in Wahrheit (asıl = Ursprung, echt). şu anda = im Moment (an = Augenblick). Prädikative Personalendung: yorgun-um, iyi-yim.",
    "audio": "audio/tr-de/wendungen/sd_11.mp3?v=bbf9f28a",
    "gloss": "asl·ı·nda | Ursprung·sein·LOK",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Aslında yorgunum, ama şu anda iyiyim.",
     "de": "Eigentlich bin ich müde, aber im Moment geht es mir gut.",
     "luecke": "Aslında",
     "gloss": "Asl·ı·nda yorgun·um, ama şu an·da iyi·yim. | Ursprung·sein·LOK müde·1SG, aber dies Moment·LOK gut·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_11.mp3?v=9032ab39"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_12",
@@ -5597,14 +6663,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "-çı macht Berufe und Läden: kitapçı = Buchhändler/Buchhandlung, simitçi, çaycı. kütüphane = Bibliothek (kütüp = Bücher, hane = Haus). orada = dort.",
    "audio": "audio/tr-de/wendungen/sd_12.mp3?v=ab99696a",
    "gloss": "kitap·çı | Buch·Täter",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kitapçıya gittim, kütüphaneye değil; parayı orada bıraktım.",
     "de": "Ich bin in die Buchhandlung gegangen, nicht in die Bibliothek; das Geld habe ich dort gelassen.",
     "luecke": "Kitapçıya",
     "gloss": "Kitap·çı·ya git·ti·m, kütüphane·ye değil; para·yı ora·da bırak·tı·m. | Buch·Täter·DAT gehen·VERG·1SG, Bibliothek·DAT nicht; Geld·AKK dort·LOK lassen·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_12.mp3?v=4329a9a3"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_13",
@@ -5616,14 +6686,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "katılmak + Dativ = teilnehmen, beitreten; auch: zustimmen (sana katılıyorum = ich stimme dir zu). yardım etmek + Dativ = helfen. toplantı = Sitzung, Konferenz.",
    "audio": "audio/tr-de/wendungen/sd_13.mp3?v=0ae133d0",
    "gloss": "katıl·mak | teilnehmen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Toplantıya katıldım, yardım etmedim.",
     "de": "Ich habe an der Sitzung teilgenommen, geholfen habe ich nicht.",
     "luecke": "katıldım",
     "gloss": "Toplantı·ya katıl·dı·m, yardım et·me·di·m. | Sitzung·DAT teilnehmen·VERG·1SG, Hilfe machen·NEG·VERG·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_13.mp3?v=230baf1e"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_14",
@@ -5635,14 +6709,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "iddia etmek = behaupten (iddia = Behauptung, Wette). numara yapmak = sich verstellen, vortäuschen (wörtlich: eine Nummer machen). hasta numarası = Krankspielen.",
    "audio": "audio/tr-de/wendungen/sd_14.mp3?v=f5e20446",
    "gloss": "iddia et·mek | Behauptung machen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Kedi hasta numarası yapıyor, ben iddia ediyorum.",
     "de": "Die Katze spielt krank, das behaupte ich.",
     "luecke": "iddia ediyorum",
     "gloss": "Kedi hasta numara·sı yap·ıyor, ben iddia ed·iyor·um. | Katze krank Nummer·sein machen·PRÄS, ich Behauptung machen·PRÄS·1SG",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_14.mp3?v=26e232c1"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_15",
@@ -5654,14 +6732,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "hassas = empfindlich, sensibel (auch Waagen und Themen: hassas konu). mantıklı = vernünftig, logisch (mantık = Logik). Wortstellung: çok hassas bir öğrenci = Adjektiv vor bir.",
    "audio": "audio/tr-de/wendungen/sd_15.mp3?v=5e4272d7",
    "gloss": "hassas | empfindlich",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Çok hassas bir öğrenci, ama mantıklı.",
     "de": "Ein sehr empfindsamer Schüler, aber vernünftig.",
     "luecke": "hassas",
     "gloss": "Çok hassas bir öğrenci, ama mantık·lı. | sehr empfindlich ein Schüler, aber Logik·mit",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_15.mp3?v=d898d19d"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_16",
@@ -5673,23 +6755,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "akraba = Verwandter (arabisch). Eltern = anne baba (wörtlich: Mutter Vater), ebeveyn (formell). Das Türkische hat Wörter für jeden Verwandtschaftsgrad: amca, dayı, hala, teyze.",
    "audio": "audio/tr-de/wendungen/sd_16.mp3?v=04b32e12",
    "gloss": "akraba·lar | Verwandter·PL",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bayramda akrabalar geliyor, anne babam kaçıyor.",
     "de": "Am Feiertag kommen die Verwandten, meine Eltern fliehen.",
     "luecke": "akrabalar",
     "gloss": "Bayram·da akraba·lar gel·iyor, anne baba·m kaç·ıyor. | Fest·LOK Verwandter·PL kommen·PRÄS, Mutter Vater·mein fliehen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_16.mp3?v=ddb1cc36"
    },
    "zeit": {
     "pc": {
      "fr": "Bayramda akrabalar geldi, anne babam kaçtı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_16_pc.mp3?v=2b85eaae"
     },
     "fp": {
      "fr": "Bayramda akrabalar gelecek, anne babam kaçacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_16_fp.mp3?v=ab05659e"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sd_17",
@@ -5701,23 +6789,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "gürültü = Lärm (lautmalerisch, gürültü yapmak = Lärm machen). söylenti = Gerücht (söylemek = sagen); dedikodu = Klatsch. koridor = Flur.",
    "audio": "audio/tr-de/wendungen/sd_17.mp3?v=9e1b4a9a",
    "gloss": "gürültü | Lärm",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Koridorda gürültü var, söylenti de.",
     "de": "Im Flur ist Lärm, Gerüchte gibt es auch.",
     "luecke": "gürültü",
     "gloss": "Koridor·da gürültü var, söylenti de. | Flur·LOK Lärm vorhanden, Gerücht auch",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_17.mp3?v=9332e59a"
    },
    "zeit": {
     "pc": {
      "fr": "Koridorda gürültü vardı, söylenti de.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_17_pc.mp3?v=6efca593"
     },
     "fp": {
      "fr": "Koridorda gürültü olacak, söylenti de.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_17_fp.mp3?v=58fec1d2"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sd_18",
@@ -5729,14 +6823,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "oda = Zimmer; öğretmenler odası = Lehrerzimmer. bakmak + Dativ = schauen auf, auch: ein Fenster geht auf … Das Gedicht-Stanza = kıta.",
    "audio": "audio/tr-de/wendungen/sd_18.mp3?v=4fe7f900",
    "gloss": "oda | Zimmer",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Odam küçük, penceresi Boğaz'a bakıyor.",
     "de": "Mein Zimmer ist klein, sein Fenster geht auf den Bosporus.",
     "luecke": "Odam",
     "gloss": "Oda·m küçük, pencere·si Boğaz·'a bak·ıyor. | Zimmer·mein klein, Fenster·sein Bosporus·DAT schauen·PRÄS",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_18.mp3?v=bb6c9817"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_19",
@@ -5748,14 +6846,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "karışık = gemischt, durcheinander (karışmak = sich mischen); karışıklık = Chaos. kumarhane = Spielcasino (kumar = Glücksspiel, hane = Haus). ama am Satzende = aber (umgangssprachlich).",
    "audio": "audio/tr-de/wendungen/sd_19.mp3?v=1b65c8d0",
    "gloss": "karış·ık·lık | mischen·ADJ·Abstr.",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Sınıfta karışıklık var, kumarhane değil ama.",
     "de": "In der Klasse herrscht Durcheinander, aber ein Casino ist es nicht.",
     "luecke": "karışıklık",
     "gloss": "Sınıf·ta karış·ık·lık var, kumarhane değil ama. | Klasse·LOK mischen·ADJ·Abstr. vorhanden, Spielhaus nicht aber",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_19.mp3?v=24f1fddd"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_20",
@@ -5767,23 +6869,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "tereyağı = Butter (yağ = Fett, Öl: zeytinyağı = Olivenöl). bitmek = zu Ende gehen, alle sein. Esel = eşek, auch als Schimpfwort beliebt.",
    "audio": "audio/tr-de/wendungen/sd_20.mp3?v=efe27858",
    "gloss": "tere·yağ·ı | Kresse·Fett·sein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Tereyağı bitti, ekmek kuru.",
     "de": "Die Butter ist alle, das Brot ist trocken.",
     "luecke": "Tereyağı",
     "gloss": "Tere·yağ·ı bit·ti, ekmek kuru. | Kresse·Fett·sein enden·VERG, Brot trocken",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_20.mp3?v=cd6bc5a0"
    },
    "zeit": {
     "pc": {
      "fr": "Tereyağı bitmişti, ekmek kuruydu.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_20_pc.mp3?v=15fc8736"
     },
     "fp": {
      "fr": "Tereyağı bitecek, ekmek kuru olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_20_fp.mp3?v=6922e946"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sd_21",
@@ -5795,14 +6903,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "çıkmak = hinausgehen, hinaufsteigen, herauskommen, erscheinen: das Allzweckverb. Treppe hinauf = merdivenden çıkmak (Ablativ!), hinunter = inmek. aşağıda = unten.",
    "audio": "audio/tr-de/wendungen/sd_21.mp3?v=cb67c93d",
    "gloss": "çık·mak | herauskommen·INF",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Merdivenden çıktım, nefesim kaldı aşağıda.",
     "de": "Ich bin die Treppe hinaufgestiegen, mein Atem ist unten geblieben.",
     "luecke": "çıktım",
     "gloss": "Merdiven·den çık·tı·m, nefes·im kal·dı aşağı·da. | Treppe·ABL herauskommen·VERG·1SG, Atem·mein bleiben·VERG unten·LOK",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_21.mp3?v=72c58d03"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_22",
@@ -5814,23 +6926,29 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "geniş = breit, weit, geräumig; dar = eng; büyük = groß. cadde = Hauptstraße, sokak = Gasse. Satz ohne Verb: Nomen + Adjektiv = ist.",
    "audio": "audio/tr-de/wendungen/sd_22.mp3?v=41f1afe3",
    "gloss": "geniş | breit",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Cadde geniş, sınıf dar.",
     "de": "Die Straße ist breit, das Klassenzimmer eng.",
     "luecke": "geniş",
     "gloss": "Cadde geniş, sınıf dar. | Straße breit, Klasse eng",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_22.mp3?v=30962b1e"
    },
    "zeit": {
     "pc": {
      "fr": "Cadde genişti, sınıf dardı.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_22_pc.mp3?v=0db7096e"
     },
     "fp": {
      "fr": "Cadde geniş olacak, sınıf dar olacak.",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_22_fp.mp3?v=59341c7a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "sd_23",
@@ -5842,14 +6960,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "bacak = Bein (bacağım: k → ğ), ayak = Fuß. ağrımak = schmerzen (ağrı = Schmerz, baş ağrısı = Kopfschmerz). karides = Garnele.",
    "audio": "audio/tr-de/wendungen/sd_23.mp3?v=29b3fa56",
    "gloss": "bacak | Bein",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Bacağım ağrıyor, karides değil.",
     "de": "Mein Bein tut weh, Garnele ist es keine.",
     "luecke": "Bacağım",
     "gloss": "Bacağ·ım ağrı·yor, karides değil. | Bein·mein schmerzen·PRÄS, Garnele nicht",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_23.mp3?v=e3835f56"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   },
   {
    "id": "sd_24",
@@ -5861,14 +6983,18 @@ window.SPRACHEN["tr-de"] = {
    "notiz": "affedersiniz = Entschuldigung (affetmek = verzeihen, Siz-Form); pardon geht auch. aramak = suchen, auch: anrufen (seni aradım = ich habe dich angerufen). Fragepartikel mı nach dem gefragten Wort.",
    "audio": "audio/tr-de/wendungen/sd_24.mp3?v=fa882022",
    "gloss": "affedersiniz, kütüphane·yi ar·ıyor·um | entschuldigen.Sie, Bibliothek·AKK suchen·PRÄS·1SG",
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Affedersiniz, kütüphaneyi arıyorum. – Kitapçı mı? – Hayır, kütüphane.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek.",
     "luecke": "Affedersiniz",
     "gloss": "Affedersiniz, kütüphane·yi ar·ıyor·um. – Kitapçı mı? – Hayır, kütüphane. | entschuldigen.Sie, Bibliothek·AKK suchen·PRÄS·1SG. – Buchhandlung FRAGE? – nein, Bibliothek",
+    "umschrift": null,
     "audio": "audio/tr-de/saetze/sd_24.mp3?v=f8266d02"
    },
-   "zeit": null
+   "zeit": null,
+   "syrisch": null
   }
  ],
  "dialoge": [
@@ -5882,6 +7008,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Selam Cem! Ne zamandır görüşmedik!",
      "de": "Hallo Cem! Lange nicht gesehen!",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_01.mp3?v=5e194873"
     },
     {
@@ -5889,6 +7016,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Selam Alex. Üç gün oldu. Ama evet, bir ömür.",
      "de": "Hallo Alex. Drei Tage. Aber ja, ein ganzes Leben.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_02.mp3?v=9a296240"
     },
     {
@@ -5896,6 +7024,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Ee, üçüncü sınıfla ders nasıl geçti?",
      "de": "Und, wie ist die Stunde mit der Dritten gelaufen?",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_03.mp3?v=26d766d4"
     },
     {
@@ -5903,6 +7032,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Harika. Uyudular. Ben de neredeyse.",
      "de": "Wunderbar. Sie sind eingeschlafen. Ich auch, fast.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_04.mp3?v=3d0541b8"
     },
     {
@@ -5910,6 +7040,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Cuma günleri onları susturmakta zorlanıyorum.",
      "de": "Freitags fällt es mir schwer, sie zum Schweigen zu bringen.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_05.mp3?v=80ec8c17"
     },
     {
@@ -5917,6 +7048,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Kolay. Dil bilgisi anlatıyorsun. Tam sessizlik.",
      "de": "Leicht. Du redest über Grammatik. Totale Stille.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_06.mp3?v=008fc88b"
     },
     {
@@ -5924,6 +7056,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Ya sen? Bitkin değil misin?",
      "de": "Und du? Bist du nicht fix und fertig?",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_07.mp3?v=e6a71d7a"
     },
     {
@@ -5931,6 +7064,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Evet. O yüzden bu akşam ödev okuyorum… film karşısında.",
      "de": "Ja. Deshalb korrigiere ich heute Abend Hausaufgaben… vor einem Film.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_08.mp3?v=2df41bc6"
     },
     {
@@ -5938,6 +7072,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Güzel bir film mi?",
      "de": "Ein guter Film?",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_09.mp3?v=d4ae475e"
     },
     {
@@ -5945,6 +7080,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Bilmiyorum. Ödevlere bakıyorum.",
      "de": "Weiß ich nicht. Ich schaue auf die Hausaufgaben.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d1_10.mp3?v=8253adf2"
     }
    ]
@@ -5959,6 +7095,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "İyi misin Alex? Suratın asık.",
      "de": "Alles in Ordnung, Alex? Du machst ein finsteres Gesicht.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_01.mp3?v=085b609f"
     },
     {
@@ -5966,6 +7103,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Moralim bozuk. Kedim artık bana bakmıyor.",
      "de": "Ich bin schlecht drauf. Meine Katze schaut mich nicht mehr an.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_02.mp3?v=8bed45ab"
     },
     {
@@ -5973,6 +7111,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Ne zamandan beri?",
      "de": "Seit wann?",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_03.mp3?v=cbe3bafc"
     },
     {
@@ -5980,6 +7119,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Türkçe şarkı söylediğimden beri.",
      "de": "Seit ich auf Türkisch gesungen habe.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_04.mp3?v=afcf0f5d"
     },
     {
@@ -5987,6 +7127,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Ah. Ne söyledin?",
      "de": "Ah. Was hast du gesungen?",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_05.mp3?v=bd4980f6"
     },
     {
@@ -5994,6 +7135,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "« Üsküdar'a gider iken ». Avazım çıktığı kadar. İki kere.",
      "de": "« Üsküdar'a gider iken ». Aus voller Kehle. Zweimal.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_06.mp3?v=c8120d68"
     },
     {
@@ -6001,6 +7143,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Alex… içim parçalanıyor ama kedin haklı.",
      "de": "Alex… es zerreißt mir das Herz, aber deine Katze hat recht.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_07.mp3?v=3f281918"
     },
     {
@@ -6008,6 +7151,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Ürkütücü mü buluyorsun?",
      "de": "Findest du das unheimlich?",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_08.mp3?v=dad5456e"
     },
     {
@@ -6015,6 +7159,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "B",
      "fr": "Hayır. Rahatlatıcı buluyorum. Kedi için bitti.",
      "de": "Nein. Ich finde es beruhigend. Für die Katze ist es vorbei.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_09.mp3?v=1995b0eb"
     },
     {
@@ -6022,6 +7167,7 @@ window.SPRACHEN["tr-de"] = {
      "rolle": "A",
      "fr": "Sağ ol Cem. Duygulandım. Galiba.",
      "de": "Danke, Cem. Das rührt mich. Glaube ich.",
+     "umschrift": null,
      "audio": "audio/tr-de/dialoge/d2_10.mp3?v=821dfaeb"
     }
    ]
@@ -6049,6 +7195,7 @@ window.SPRACHEN["tr-de"] = {
   "paare": [],
   "beide": []
  },
+ "aussprachen": [],
  "geschichte": [
   {
    "nr": 1,
@@ -6058,84 +7205,98 @@ window.SPRACHEN["tr-de"] = {
      "id": "k01_01",
      "fr": "Cem Yıldız İstanbul'da öğretmendi. Normal bir öğretmen. Yani, neredeyse.",
      "de": "Cem Yıldız war Lehrer in Istanbul. Ein normaler Lehrer. Na ja, fast.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_01.mp3?v=0c7d6a43"
     },
     {
      "id": "k01_02",
      "fr": "O cuma öğleden sonra, her cuma gibi, **ödev okuyordu**. **Bitkindi**. Dışarıda yağmur yağıyordu. İçeride kedisi, okunmuş ödevlerin üstünde **kestiriyordu**.",
      "de": "An jenem Freitagnachmittag korrigierte er Hausaufgaben, wie jeden Freitag. Er war fix und fertig. Draußen regnete es. Drinnen machte seine Katze ein Nickerchen auf den schon korrigierten Arbeiten.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_02.mp3?v=f0a0195c"
     },
     {
      "id": "k01_03",
      "fr": "On yedi numaralı ödev Deniz'indi: az yazan ama iyi yazan bir üçüncü sınıf öğrencisi.",
      "de": "Die siebzehnte Arbeit war die von Deniz, einem Schüler der Dritten, der wenig schrieb, aber gut.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_03.mp3?v=4c155229"
     },
     {
      "id": "k01_04",
      "fr": "İkinci sayfayla üçüncü sayfa arasında bir şey vardı. Bir bilet. Kadıköy vapuru için bir vapur bileti.",
      "de": "Zwischen Seite zwei und Seite drei lag etwas. Eine Fahrkarte. Eine Fährkarte für die Kadıköy-Fähre.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_04.mp3?v=9f8cc2e8"
     },
     {
      "id": "k01_05",
      "fr": "Cem tarihe baktı. Yarın. Cumartesi. Sabah on.",
      "de": "Cem schaute auf das Datum. Morgen. Samstag. Zehn Uhr morgens.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_05.mp3?v=f6071c79"
     },
     {
      "id": "k01_06",
      "fr": "Arkasına biri mavi harflerle yazmıştı: « Üst güverte, son sıra. Yalnız gelin. Ve korkmayın. »",
      "de": "Auf der Rückseite hatte jemand in blauen Buchstaben geschrieben: « Oberdeck, letzte Reihe. Kommen Sie allein. Und haben Sie keine Angst. »",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_06.mp3?v=86e7b0c4"
     },
     {
      "id": "k01_07",
      "fr": "Cem **korkmuyordu**. Henüz değil. Sadece anlamakta **zorlanıyordu**, hepsi bu.",
      "de": "Cem hatte keine Angst. Noch nicht. Er hatte nur Mühe zu verstehen, das war alles.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_07.mp3?v=57ee8e79"
     },
     {
      "id": "k01_08",
      "fr": "Deniz gizemli bir öğrenci değildi. Kenarlara kedi çizen bir öğrenciydi.",
      "de": "Deniz war kein geheimnisvoller Schüler. Er war ein Schüler, der Katzen an die Ränder zeichnete.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_08.mp3?v=87340eb0"
     },
     {
      "id": "k01_09",
      "fr": "Cem kedisine baktı. Kedi ona baktı. Bakışı şöyle diyordu: « Git. »",
      "de": "Cem schaute seine Katze an. Die Katze schaute ihn an. Ihr Blick sagte: « Geh. »",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_09.mp3?v=ae4d1d8e"
     },
     {
      "id": "k01_10",
      "fr": "« Şaka bu », dedi Cem yüksek sesle. Kedi bir şey demedi. Kediler hiçbir zaman bir şey demez. Güçleri budur.",
      "de": "« Das ist ein Scherz », sagte Cem laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_10.mp3?v=bdc4b111"
     },
     {
      "id": "k01_11",
      "fr": "O gece Cem **deliksiz uyumadı**. Sonu olmayan bir merdiven ve hiçbir haritada olmayan bir iskele gördü düşünde.",
      "de": "In jener Nacht schlief Cem nicht durch. Er träumte von einer Treppe ohne Ende und einem Anleger, der auf keiner Karte war.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_11.mp3?v=df159b9a"
     },
     {
      "id": "k01_12",
      "fr": "Yedide kalktı. **Sağ ayakla**. Her zamanki gibi.",
      "de": "Um sieben stand er auf. Mit dem rechten Fuß. Wie immer.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_12.mp3?v=d1fd4f3d"
     },
     {
      "id": "k01_13",
      "fr": "Cumartesi **alışverişini yaptı**. Sonra saate baktı. Dokuzu çeyrek geçiyor. İskele yürüyerek on dakikaydı, Boğaz boyunca.",
      "de": "Er machte seinen Samstagseinkauf. Dann schaute er auf die Uhr. Viertel nach neun. Der Anleger war zehn Minuten zu Fuß, am Bosporus entlang.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_13.mp3?v=005b0123"
     },
     {
      "id": "k01_14",
      "fr": "« Sadece bakmaya gidiyorum », dedi kediye. Kedi gözlerini kapadı. Bunun doğru olmadığını biliyordu.",
      "de": "« Ich gehe nur schauen », sagte er zur Katze. Die Katze schloss die Augen. Sie wusste, dass das nicht stimmte.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_14.mp3?v=b2f3fda2"
     }
    ]
@@ -6148,90 +7309,105 @@ window.SPRACHEN["tr-de"] = {
      "id": "k02_01",
      "fr": "Ona beş kala Cem Beşiktaş iskelesindeydi. İlk kez arkasında otuz öğrenci olmadan vapura biniyordu.",
      "de": "Um fünf vor zehn war Cem am Anleger von Beşiktaş. Zum ersten Mal stieg er ohne dreißig Schüler hinter sich auf die Fähre.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_01.mp3?v=1f0cb588"
     },
     {
      "id": "k02_02",
      "fr": "Bilet gerçekti. Gişedeki adam ona baktı, bilete baktı ve dedi ki: « Üst güverte, son sıra. Merdivenden çıkın, sonra arkaya. » Cem sormadan.",
      "de": "Die Karte war echt. Der Mann am Schalter schaute ihn an, schaute die Karte an und sagte: « Oberdeck, letzte Reihe. Die Treppe hinauf, dann nach hinten. » Ohne dass Cem gefragt hatte.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_02.mp3?v=80e7701c"
     },
     {
      "id": "k02_03",
      "fr": "**Ürkütücüydü**. Biraz. Cem bunun nezaket olduğuna karar verdi.",
      "de": "Das war unheimlich. Ein bisschen. Cem beschloss, dass es Freundlichkeit war.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_03.mp3?v=9d4dacfd"
     },
     {
      "id": "k02_04",
      "fr": "Vapur **sakindi**. Fazla sakin. Turist yok, simitçi yok, martı yok. Sadece camlarda yağmur ve çay kokusu.",
      "de": "Die Fähre war ruhig. Zu ruhig. Keine Touristen, keine Simit-Verkäufer, keine Möwen. Nur Regen an den Fenstern und Teegeruch.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_04.mp3?v=fa288caf"
     },
     {
      "id": "k02_05",
      "fr": "Ve bir kedi. Gri bir **sokak kedisi**, son sırada, sanki yeriymiş gibi oturuyordu.",
      "de": "Und eine Katze. Eine graue Straßenkatze, die in der letzten Reihe saß, als gehöre der Platz ihr.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_05.mp3?v=b1f052b9"
     },
     {
      "id": "k02_06",
      "fr": "Kedi ona baktı. Cem o bakışı tanıyordu. Kendi kedisinin bakışıydı. Tıpatıp aynı.",
      "de": "Die Katze schaute ihn an. Cem kannte diesen Blick. Es war der Blick seiner eigenen Katze. Haargenau derselbe.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_06.mp3?v=90aa4880"
     },
     {
      "id": "k02_07",
      "fr": "« İmkânsız », diye düşündü. « Benim kedim evde, bir üçüncü sınıf ödevinin üstünde uyuyor. »",
      "de": "« Unmöglich », dachte er. « Meine Katze ist zu Hause und schläft auf einer Arbeit der Dritten. »",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_07.mp3?v=722baee9"
     },
     {
      "id": "k02_08",
      "fr": "Gri kedi kalktı, bir direğe **sürtündü** ve ağır ağır vapurun kıç tarafına yürüdü. Sonra döndü. Bekliyordu.",
      "de": "Die graue Katze stand auf, rieb sich an einem Pfosten und ging langsam zum Heck der Fähre. Dann drehte sie sich um. Sie wartete.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_08.mp3?v=099e8548"
     },
     {
      "id": "k02_09",
      "fr": "Cem'in **içi daralıyordu**. Ama merakı da vardı. Bir öğretmende merak her zaman kazanır.",
      "de": "Cem war beklommen. Aber er war auch neugierig. Bei einem Lehrer gewinnt die Neugier immer.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_09.mp3?v=8a509609"
     },
     {
      "id": "k02_10",
      "fr": "Kediyi takip etti. Vapur kalktı. Boğaz'ın ortasında, Kız Kulesi'nin hizasında, kedi durdu.",
      "de": "Er folgte der Katze. Die Fähre legte ab. Mitten im Bosporus, auf Höhe des Leanderturms, blieb die Katze stehen.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_10.mp3?v=b2f50584"
     },
     {
      "id": "k02_11",
      "fr": "Orada, her zaman demir bir duvar olan yerde, bugün bir kapı vardı.",
      "de": "Dort, wo immer eine Eisenwand gewesen war, war heute eine Tür.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_11.mp3?v=25a12adf"
     },
     {
      "id": "k02_12",
      "fr": "Küçük, koyu ahşap, kolsuz. Cem bu vapura yirmi kez binmiş, kapıyı hiç görmemişti. Çünkü yoktu.",
      "de": "Klein, aus dunklem Holz, ohne Griff. Cem war zwanzigmal mit dieser Fähre gefahren und hatte die Tür nie gesehen. Weil sie nicht da war.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_12.mp3?v=6e1455d9"
     },
     {
      "id": "k02_13",
      "fr": "Kedi kapının önüne oturdu. Ve ilk kez **miyavladı**.",
      "de": "Die Katze setzte sich vor die Tür. Und zum ersten Mal miaute sie.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_13.mp3?v=e51c7f66"
     },
     {
      "id": "k02_14",
      "fr": "Cem saate baktı. Onu çeyrek geçiyor. « **Acele etme** », dedi kendine. Etti.",
      "de": "Cem schaute auf die Uhr. Viertel nach zehn. « Lass dir Zeit », sagte er sich. Er ließ sie sich nicht.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_14.mp3?v=a7cf8bc2"
     },
     {
      "id": "k02_15",
      "fr": "Kapıyı itti. Ses çıkmadan açıldı. **Birdenbire** martılar sustu.",
      "de": "Er stieß die Tür auf. Sie öffnete sich ohne ein Geräusch. Plötzlich verstummten die Möwen.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k02_15.mp3?v=e9e2e917"
     }
    ]
@@ -6244,90 +7420,105 @@ window.SPRACHEN["tr-de"] = {
      "id": "k03_01",
      "fr": "Kapının ortasında küçük bir çini vardı: beyaz zemin üstünde mavi bir kedi.",
      "de": "In der Mitte der Tür war eine kleine Kachel: eine blaue Katze auf weißem Grund.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_01.mp3?v=876c7297"
     },
     {
      "id": "k03_02",
      "fr": "Tabela yok. Numara yok. Yüz yıllık bir vapurda, tabelasız bir kapı zaten tuhaftı.",
      "de": "Kein Schild. Keine Nummer. Auf einer hundert Jahre alten Fähre war eine Tür ohne Schild schon seltsam.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_02.mp3?v=2d00b447"
     },
     {
      "id": "k03_03",
      "fr": "Arkasında küçük, yuvarlak bir oda vardı, duvarları çiniyle kaplı. Yüzlerce çini. Ve her birinde bir kedi.",
      "de": "Dahinter lag ein kleiner, runder Raum, die Wände mit Kacheln bedeckt. Hunderte Kacheln. Und auf jeder eine Katze.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_03.mp3?v=cdbca92d"
     },
     {
      "id": "k03_04",
      "fr": "Oturan kediler, uyuyan kediler, bakan kediler. Cem'in kedisiyle aynı yüze sahip İznik kedileri.",
      "de": "Sitzende Katzen, schlafende Katzen, schauende Katzen. İznik-Katzen mit demselben Gesicht wie die Katze von Cem.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_04.mp3?v=d12cfe6b"
     },
     {
      "id": "k03_05",
      "fr": "Odanın ortasında bir pencere. Camsız. Ve pencerenin üstünde farklı bir çini: daha büyük, daha eski, kimseye bakmayan bir kedi. Kapıya bakıyordu.",
      "de": "In der Mitte des Raums ein Fenster. Ohne Glas. Und über dem Fenster eine andere Kachel: größer, älter, mit einer Katze, die niemanden ansah. Sie schaute zur Tür.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_05.mp3?v=d3f01cdb"
     },
     {
      "id": "k03_06",
      "fr": "Cem yaklaştı. Çiniler soğuktu. Biri hariç.",
      "de": "Cem trat näher. Die Kacheln waren kalt. Alle bis auf eine.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_06.mp3?v=2124c483"
     },
     {
      "id": "k03_07",
      "fr": "Büyük çini ılıktı. Güneşteki bir kedi gibi.",
      "de": "Die große Kachel war lauwarm. Wie eine Katze in der Sonne.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_07.mp3?v=a311c491"
     },
     {
      "id": "k03_08",
      "fr": "Ve o zaman duydu. Yavaş. Düzenli. **Mırıltı**.",
      "de": "Und da hörte er es. Leise. Gleichmäßig. Das Schnurren.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_08.mp3?v=b0a5803c"
     },
     {
      "id": "k03_09",
      "fr": "Cem kıpırdamadı. Yanındaki gri kedi de. İkisi de aynı çiniyi dinliyordu.",
      "de": "Cem rührte sich nicht. Die graue Katze neben ihm auch nicht. Beide hörten derselben Kachel zu.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_09.mp3?v=fdf0bdfa"
     },
     {
      "id": "k03_10",
      "fr": "« Bu, planda yok », dedi Cem. Aklına gelen en mantıklı şey buydu.",
      "de": "« Das ist nicht auf dem Plan », sagte Cem. Es war das Vernünftigste, was ihm einfiel.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_10.mp3?v=e305b5df"
     },
     {
      "id": "k03_11",
      "fr": "Arkasından bir ses. Sakin, yaşlı, biraz kısık. « Hayır hocam. Bu oda hiçbir planda yok. O yüzden hâlâ burada. »",
      "de": "Hinter ihm eine Stimme. Ruhig, alt, ein wenig heiser. « Nein, Herr Lehrer. Dieser Raum ist auf keinem Plan. Deshalb ist er noch hier. »",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_11.mp3?v=31a36518"
     },
     {
      "id": "k03_12",
      "fr": "Cem **birden** döndü. Kapıda, başında yün bere, elinde tabak büyüklüğünde bir anahtar destesi olan bir adam duruyordu.",
      "de": "Cem fuhr herum. In der Tür stand ein Mann mit einer Wollmütze auf dem Kopf und einem Schlüsselbund, so groß wie ein Teller.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_12.mp3?v=ea0c847e"
     },
     {
      "id": "k03_13",
      "fr": "« Ben kaptanım », dedi. « 1934'ten beri bu vapurdayım. Ve siz geç kaldınız. Yirmi dakika. »",
      "de": "« Ich bin der Kapitän », sagte er. « Seit 1934 bin ich auf dieser Fähre. Und Sie sind zu spät. Zwanzig Minuten. »",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_13.mp3?v=61733fec"
     },
     {
      "id": "k03_14",
      "fr": "Cem hesap yaptı. 1934. Adam en fazla altmış yaşındaydı. **Mantıklı değildi**. Yine de Cem şöyle dedi: « Özür dilerim. » Öğretmenler böyle der.",
      "de": "Cem rechnete nach. 1934. Der Mann war höchstens sechzig. Das ergab keinen Sinn. Trotzdem sagte Cem: « Entschuldigung. » Das sagen Lehrer.",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_14.mp3?v=72be294c"
     },
     {
      "id": "k03_15",
      "fr": "Kaptan gülümsedi. « Çay var. Kedi **canı çekiyor**, sizinki de. Oturun hocam. Hikâye uzun. »",
      "de": "Der Kapitän lächelte. « Es gibt Tee. Die Katze hat Lust darauf, Ihre auch. Setzen Sie sich, Herr Lehrer. Die Geschichte ist lang. »",
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k03_15.mp3?v=cd25bef4"
     }
    ]
@@ -6351,6 +7542,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
      "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
      "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
      "hinweis": "oku + ıyor + um: u-Harmonie bis zum Ende."
     },
@@ -6358,6 +7550,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Öğretmenler odasında kahve yine bitiyor.",
      "de": "Im Lehrerzimmer ist der Kaffee schon wieder fast alle.",
      "gloss": "Öğretmen·ler oda·sı·nda kahve yine bit·iyor. | Lehrer·PL Zimmer·sein·LOK Kaffee wieder enden·PRÄS",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_05.mp3?v=cdca761d",
      "hinweis": "bit + iyor: nach i kommt i."
     },
@@ -6365,6 +7558,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bu akşam veli toplantısı var, geç yatıyoruz.",
      "de": "Heute Abend ist Elternabend, wir gehen spät schlafen.",
      "gloss": "Bu akşam veli toplantı·sı var, geç yat·ıyor·uz. | dies Abend Eltern Versammlung·sein vorhanden, spät schlafen.gehen·PRÄS·1PL",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_11.mp3?v=204bbcb4",
      "hinweis": "yat + ıyor + uz: wir, gerade heute Abend."
     },
@@ -6372,6 +7566,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Son saatte dersi kaynatıyorlar, ben de bırakıyorum.",
      "de": "In der letzten Stunde verbummeln sie die Stunde, und ich lasse es zu.",
      "gloss": "Son saat·te ders·i kaynat·ıyor·lar, ben de bırak·ıyor·um. | letzt Stunde·LOK Stunde·AKK kochen.lassen·PRÄS·3PL, ich auch lassen·PRÄS·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb",
      "hinweis": "kaynat-ıyor-lar, bırak-ıyor-um: die Personalendungen."
     },
@@ -6379,6 +7574,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Teneffüs beş dakika sürüyor, hissetmiyorum bile.",
      "de": "Die Pause dauert fünf Minuten, ich merke sie nicht einmal.",
      "gloss": "Teneffüs beş dakika sür·üyor, hisset·mi·yor·um bile. | Pause fünf Minute dauern·PRÄS, fühlen·NEG·PRÄS·1SG sogar",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_16.mp3?v=492dddda",
      "hinweis": "sür-üyor nach ü, hisset-mi-yor-um: Verneinung -mi- vor -yor."
     },
@@ -6386,6 +7582,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Hafta sonuna ödev vermiyorum, bayram ediyorlar.",
      "de": "Übers Wochenende gebe ich nichts auf, sie sind selig.",
      "gloss": "Hafta son·u·na ödev ver·mi·yor·um, bayram ed·iyor·lar. | Woche Ende·sein·DAT Aufgabe geben·NEG·PRÄS·1SG, Fest machen·PRÄS·3PL",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_08.mp3?v=950c9561",
      "hinweis": "ver-mi-yor-um, ed-iyor-lar: verneint und bejaht im selben Satz."
     }
@@ -6465,12 +7662,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
        "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
        "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892"
       },
       {
        "fr": "Kâğıtlardan sonra moralim bozuk.",
        "de": "Nach den Arbeiten bin ich niedergeschlagen.",
        "gloss": "Kâğıt·lar·dan sonra moral·im bozuk. | Blatt·PL·ABL nach Stimmung·mein kaputt",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/du_03.mp3?v=5260be74"
       }
      ],
@@ -6482,12 +7681,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Usta az konuşur, çok gösterir.",
        "de": "Der Meister spricht wenig, zeigt viel.",
        "gloss": "Usta az konuş·ur, çok göster·ir. | Meister wenig sprechen·AOR, viel zeigen·AOR",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sp_05.mp3?v=d6443ff5"
       },
       {
        "fr": "Öğretmenler odasında kahve yine bitiyor.",
        "de": "Im Lehrerzimmer ist der Kaffee schon wieder fast alle.",
        "gloss": "Öğretmen·ler oda·sı·nda kahve yine bit·iyor. | Lehrer·PL Zimmer·sein·LOK Kaffee wieder enden·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_05.mp3?v=cdca761d"
       }
      ],
@@ -6499,12 +7700,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Büyücü büyü yaptı, sınıf sessizleşti.",
        "de": "Der Zauberer zauberte, die Klasse wurde still.",
        "gloss": "Büyü·cü büyü yap·tı, sınıf sessiz·leş·ti. | Zauber·Täter Zauber machen·VERG, Klasse still·werden·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_05.mp3?v=1fab786e"
       },
       {
        "fr": "Bugün sözlü yapıyorum, herkes birden sessizleşiyor.",
        "de": "Heute frage ich mündlich ab, alle werden plötzlich still.",
        "gloss": "Bugün sözlü yap·ıyor·um, herkes birden sessiz·leş·iyor. | heute mündlich machen·PRÄS·1SG, jeder plötzlich still·werden·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_18.mp3?v=d581c190"
       }
      ],
@@ -6516,12 +7719,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Teneffüs beş dakika sürüyor, hissetmiyorum bile.",
        "de": "Die Pause dauert fünf Minuten, ich merke sie nicht einmal.",
        "gloss": "Teneffüs beş dakika sür·üyor, hisset·mi·yor·um bile. | Pause fünf Minute dauern·PRÄS, fühlen·NEG·PRÄS·1SG sogar",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_16.mp3?v=492dddda"
       },
       {
        "fr": "Aynı bahaneden bıktım.",
        "de": "Ich habe dieselbe Ausrede satt.",
        "gloss": "Aynı bahane·den bık·tı·m. | derselbe Ausrede·ABL satthaben·VERG·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/du_16.mp3?v=7d616161"
       }
      ],
@@ -6549,6 +7754,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Altı saat dersten sonra bitkinim.",
      "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
      "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92",
      "hinweis": "bitkin + im: ich bin erschöpft, kein Verb nötig."
     },
@@ -6556,6 +7762,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "İlk dersten önce hâlâ heyecanlıyım.",
      "de": "Vor der ersten Stunde bin ich immer noch aufgeregt.",
      "gloss": "İlk ders·ten önce hâlâ heyecan·lı·yım. | erst Stunde·ABL vor immer.noch Aufregung·mit·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_10.mp3?v=4ce5b771",
      "hinweis": "heyecanlı + y + ım: y nach Vokal."
     },
@@ -6563,6 +7770,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Veli toplantısından önce gerginim.",
      "de": "Vor dem Elternabend bin ich angespannt.",
      "gloss": "Veli toplantı·sı·ndan önce gergin·im. | Eltern Versammlung·sein·ABL vor angespannt·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_11.mp3?v=1640a516",
      "hinweis": "gergin + im: Adjektiv mit Personalendung."
     },
@@ -6570,6 +7778,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Kâğıtlardan sonra moralim bozuk.",
      "de": "Nach den Arbeiten bin ich niedergeschlagen.",
      "gloss": "Kâğıt·lar·dan sonra moral·im bozuk. | Blatt·PL·ABL nach Stimmung·mein kaputt",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_03.mp3?v=5260be74",
      "hinweis": "moral-im bozuk: dritte Person, keine Endung."
     },
@@ -6577,6 +7786,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bir hafta tatil, şimdi turp gibiyim.",
      "de": "Eine Woche Urlaub, jetzt bin ich kerngesund.",
      "gloss": "Bir hafta tatil, şimdi turp gibi·yim. | ein Woche Urlaub, jetzt Rettich wie·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_16.mp3?v=c0258b39",
      "hinweis": "gibi + yim: sogar « wie » bekommt die Endung."
     },
@@ -6584,6 +7794,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Aslında yorgunum, ama şu anda iyiyim.",
      "de": "Eigentlich bin ich müde, aber im Moment geht es mir gut.",
      "gloss": "Asl·ı·nda yorgun·um, ama şu an·da iyi·yim. | Ursprung·sein·LOK müde·1SG, aber dies Moment·LOK gut·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_11.mp3?v=9032ab39",
      "hinweis": "yorgun-um, iyi-yim: zwei Zustände, kein Verb."
     },
@@ -6591,6 +7802,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Sabah sekizde hâlâ uykum var.",
      "de": "Um acht Uhr morgens bin ich noch müde.",
      "gloss": "Sabah sekiz·de hâlâ uyku·m var. | Morgen acht·LOK immer.noch Schlaf·mein vorhanden",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_09.mp3?v=3b2e71e0",
      "hinweis": "uyku-m var: haben mit var."
     }
@@ -6675,12 +7887,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Altı saat dersten sonra bitkinim.",
        "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
        "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
       },
       {
        "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
        "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
        "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892"
       }
      ],
@@ -6692,12 +7906,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Teftiş bitti, rahatladım.",
        "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
        "gloss": "Teftiş bit·ti, rahatla·dı·m. | Inspektion enden·VERG, sich.entspannen·VERG·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/du_12.mp3?v=40b4cf5b"
       },
       {
        "fr": "Veli toplantısından önce gerginim.",
        "de": "Vor dem Elternabend bin ich angespannt.",
        "gloss": "Veli toplantı·sı·ndan önce gergin·im. | Eltern Versammlung·sein·ABL vor angespannt·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/du_11.mp3?v=1640a516"
       }
      ],
@@ -6709,12 +7925,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Aslında yorgunum, ama şu anda iyiyim.",
        "de": "Eigentlich bin ich müde, aber im Moment geht es mir gut.",
        "gloss": "Asl·ı·nda yorgun·um, ama şu an·da iyi·yim. | Ursprung·sein·LOK müde·1SG, aber dies Moment·LOK gut·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sd_11.mp3?v=9032ab39"
       },
       {
        "fr": "Aynı bahaneden bıktım.",
        "de": "Ich habe dieselbe Ausrede satt.",
        "gloss": "Aynı bahane·den bık·tı·m. | derselbe Ausrede·ABL satthaben·VERG·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/du_16.mp3?v=7d616161"
       }
      ],
@@ -6726,12 +7944,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Bir hafta tatil, şimdi turp gibiyim.",
        "de": "Eine Woche Urlaub, jetzt bin ich kerngesund.",
        "gloss": "Bir hafta tatil, şimdi turp gibi·yim. | ein Woche Urlaub, jetzt Rettich wie·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_16.mp3?v=c0258b39"
       },
       {
        "fr": "Cuma gecesi deliksiz uyudum, kedi bile sesimi duymadı.",
        "de": "Freitagnacht habe ich durchgeschlafen, nicht einmal die Katze hat mich gehört.",
        "gloss": "Cuma gece·si delik·siz uyu·du·m, kedi bile ses·im·i duy·ma·dı. | Freitag Nacht·sein Loch·ohne schlafen·VERG·1SG, Katze sogar Stimme·mein·AKK hören·NEG·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_15.mp3?v=ea5c1f32"
       }
      ],
@@ -6760,6 +7980,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Patisiyle kalemimi masadan düşürüyor.",
      "de": "Mit der Pfote schubst sie meinen Stift vom Tisch.",
      "gloss": "Pati·si·yle kalem·im·i masa·dan düşür·üyor. | Pfote·sein·MIT Stift·mein·AKK Tisch·ABL fallen.lassen·PRÄS",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_07.mp3?v=a3851baf",
      "hinweis": "MIT, AKK, ABL in einem Satz: mit der Pfote, meinen Stift, vom Tisch."
     },
@@ -6767,6 +7988,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "İstanbul'da her mahallenin kedisi var.",
      "de": "In Istanbul hat jedes Viertel seine Katze.",
      "gloss": "İstanbul·'da her mahalle·nin kedi·si var. | Istanbul·LOK jedes Viertel·GEN Katze·sein vorhanden",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_12.mp3?v=802c404b",
      "hinweis": "mahalle-nin kedi-si: Genitiv plus Possessiv."
     },
@@ -6774,6 +7996,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Kedi kumu bitti, markete gidiyorum.",
      "de": "Die Streu ist alle, ich gehe in den Laden.",
      "gloss": "Kedi kum·u bit·ti, market·e gid·iyor·um. | Katze Sand·sein enden·VERG, Laden·DAT gehen·PRÄS·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_05.mp3?v=25553dda",
      "hinweis": "market-e: Dativ als Richtung."
     },
@@ -6781,6 +8004,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Okulun kedisini öğrenciler sahiplendi.",
      "de": "Die Schulkatze haben die Schüler adoptiert.",
      "gloss": "Okul·un kedi·si·ni öğrenci·ler sahip·len·di. | Schule·GEN Katze·sein·AKK Schüler·PL Besitzer·werden·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_20.mp3?v=0a67dc6e",
      "hinweis": "okul-un kedi-si-ni: Kette plus Akkusativ mit n."
     },
@@ -6788,6 +8012,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Hikâyenin sonunu kedi biliyor, söylemiyor.",
      "de": "Das Ende der Geschichte kennt die Katze, sie sagt es nicht.",
      "gloss": "Hikâye·nin son·u·nu kedi bil·iyor, söyle·mi·yor. | Geschichte·GEN Ende·sein·AKK Katze wissen·PRÄS, sagen·NEG·PRÄS",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_21.mp3?v=c873381d",
      "hinweis": "hikâye-nin son-u-nu: dieselbe Kette."
     },
@@ -6795,6 +8020,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
      "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
      "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892",
      "hinweis": "sınıf-ın kâğıt-lar-ı-nı: Genitiv, Plural, Possessiv, Akkusativ."
     },
@@ -6802,6 +8028,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Sabah beşte kapıda miyavlıyor.",
      "de": "Um fünf Uhr morgens miaut sie an der Tür.",
      "gloss": "Sabah beş·te kapı·da miyavl·ıyor. | Morgen fünf·LOK Tür·LOK miauen·PRÄS",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ke_03.mp3?v=d4a84bc0",
      "hinweis": "kapı-da, beş-te: Lokativ für Ort und Uhrzeit."
     }
@@ -6886,12 +8113,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "İstanbul'da her mahallenin kedisi var.",
        "de": "In Istanbul hat jedes Viertel seine Katze.",
        "gloss": "İstanbul·'da her mahalle·nin kedi·si var. | Istanbul·LOK jedes Viertel·GEN Katze·sein vorhanden",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ke_12.mp3?v=802c404b"
       },
       {
        "fr": "Güneşte bütün gün uyukluyor.",
        "de": "In der Sonne döst sie den ganzen Tag.",
        "gloss": "Güneş·te bütün gün uyukl·uyor. | Sonne·LOK ganz Tag dösen·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ke_09.mp3?v=44b0f5cb"
       }
      ],
@@ -6903,12 +8132,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Okulun kedisini öğrenciler sahiplendi.",
        "de": "Die Schulkatze haben die Schüler adoptiert.",
        "gloss": "Okul·un kedi·si·ni öğrenci·ler sahip·len·di. | Schule·GEN Katze·sein·AKK Schüler·PL Besitzer·werden·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ke_20.mp3?v=0a67dc6e"
       },
       {
        "fr": "Koltuğu yine tırmaladı.",
        "de": "Sie hat wieder das Sofa zerkratzt.",
        "gloss": "Koltuğ·u yine tırmala·dı. | Sofa·AKK wieder kratzen·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ke_04.mp3?v=3c3ad8a0"
       }
      ],
@@ -6920,12 +8151,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Kalenin kapısı kapalı, anahtar kedide.",
        "de": "Das Burgtor ist zu, der Schlüssel ist bei der Katze.",
        "gloss": "Kale·nin kapı·sı kapalı, anahtar kedi·de. | Burg·GEN Tor·sein geschlossen, Schlüssel Katze·LOK",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_11.mp3?v=b0f7920b"
       },
       {
        "fr": "Tılsım bozuldu, prens yine kurbağa.",
        "de": "Der Bann ist gebrochen, der Prinz ist wieder ein Frosch.",
        "gloss": "Tılsım bozul·du, prens yine kurbağa. | Zauberbann kaputtgehen·VERG, Prinz wieder Frosch",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_14.mp3?v=a691da49"
       }
      ],
@@ -6937,12 +8170,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Sabah beşte kapıda miyavlıyor.",
        "de": "Um fünf Uhr morgens miaut sie an der Tür.",
        "gloss": "Sabah beş·te kapı·da miyavl·ıyor. | Morgen fünf·LOK Tür·LOK miauen·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ke_03.mp3?v=d4a84bc0"
       },
       {
        "fr": "Hikâyenin sonunu kedi biliyor, söylemiyor.",
        "de": "Das Ende der Geschichte kennt die Katze, sie sagt es nicht.",
        "gloss": "Hikâye·nin son·u·nu kedi bil·iyor, söyle·mi·yor. | Geschichte·GEN Ende·sein·AKK Katze wissen·PRÄS, sagen·NEG·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_21.mp3?v=c873381d"
       }
      ],
@@ -6968,6 +8203,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Sözleri ezberledim, melodiyi henüz değil.",
      "de": "Den Text habe ich auswendig, die Melodie noch nicht.",
      "gloss": "Söz·ler·i ezberle·di·m, melodi·yi henüz değil. | Wort·PL·AKK auswendig.lernen·VERG·1SG, Melodie·AKK noch nicht",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_04.mp3?v=e278a371",
      "hinweis": "ezberle-di-m: selbst erlebt, abgeschlossen."
     },
@@ -6975,6 +8211,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
      "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
      "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832",
      "hinweis": "konuş-acağ-ım, ver-di: Zukunft und Vergangenheit im selben Satz."
     },
@@ -6982,6 +8219,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Nakaratta detone oldum, kimse fark etmedi.",
      "de": "Im Refrain habe ich falsch gesungen, keiner hat es gemerkt.",
      "gloss": "Nakarat·ta detone ol·du·m, kimse fark et·me·di. | Refrain·LOK unrein sein·VERG·1SG, niemand Unterschied machen·NEG·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_12.mp3?v=c5a6d25e",
      "hinweis": "ol-du-m, et-me-di: verneinte Vergangenheit."
     },
@@ -6989,6 +8227,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bugün kazandık, yarın göreceğiz.",
      "de": "Heute haben wir gewonnen, morgen werden wir sehen.",
      "gloss": "Bugün kazan·dı·k, yarın gör·eceğ·iz. | heute gewinnen·VERG·1PL, morgen sehen·FUT·1PL",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_16.mp3?v=94e109df",
      "hinweis": "kazan-dı-k, gör-eceğ-iz: wir, gestern und morgen."
     },
@@ -6996,6 +8235,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Adını unuttum, çok utandım.",
      "de": "Ich habe seinen Namen vergessen, ich habe mich sehr geschämt.",
      "gloss": "Ad·ı·nı unut·tu·m, çok utan·dı·m. | Name·sein·AKK vergessen·VERG·1SG, sehr sich.schämen·VERG·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_18.mp3?v=b5c4da55",
      "hinweis": "unut-tu-m: d wird t nach t."
     },
@@ -7003,6 +8243,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Yedi cüce madene gitti, biri geç kaldı.",
      "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
      "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd",
      "hinweis": "git-ti, kal-dı: einmal t, einmal d."
     }
@@ -7087,12 +8328,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
        "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
        "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832"
       },
       {
        "fr": "Sözleri ezberledim, melodiyi henüz değil.",
        "de": "Den Text habe ich auswendig, die Melodie noch nicht.",
        "gloss": "Söz·ler·i ezberle·di·m, melodi·yi henüz değil. | Wort·PL·AKK auswendig.lernen·VERG·1SG, Melodie·AKK noch nicht",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/mu_04.mp3?v=e278a371"
       }
      ],
@@ -7104,12 +8347,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Bugün kazandık, yarın göreceğiz.",
        "de": "Heute haben wir gewonnen, morgen werden wir sehen.",
        "gloss": "Bugün kazan·dı·k, yarın gör·eceğ·iz. | heute gewinnen·VERG·1PL, morgen sehen·FUT·1PL",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sp_16.mp3?v=94e109df"
       },
       {
        "fr": "Kaybettik ama iyi oynadık.",
        "de": "Wir haben verloren, aber gut gespielt.",
        "gloss": "Kaybet·ti·k ama iyi oyna·dı·k. | verlieren·VERG·1PL aber gut spielen·VERG·1PL",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sp_17.mp3?v=64b153f3"
       }
      ],
@@ -7121,12 +8366,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Notları girdim, içim rahat.",
        "de": "Die Noten sind eingetragen, ich bin beruhigt.",
        "gloss": "Not·lar·ı gir·di·m, iç·im rahat. | Note·PL·AKK eintragen·VERG·1SG, Inneres·mein ruhig",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/du_05.mp3?v=6b812357"
       },
       {
        "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
        "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
        "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832"
       }
      ],
@@ -7138,12 +8385,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Sabırlı ol, ayakkabıyı kendisi bağlayacak.",
        "de": "Hab Geduld, er wird den Schuh selbst binden.",
        "gloss": "Sabır·lı ol, ayakkabı·yı kendi·si bağla·yacak. | Geduld·mit sei, Schuh·AKK selbst·sein binden·FUT",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/co_18.mp3?v=ff389f39"
       },
       {
        "fr": "Yedi cüce madene gitti, biri geç kaldı.",
        "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
        "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd"
       }
      ],
@@ -7170,6 +8419,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bir varmış bir yokmuş, Boğaz'da bir kedi varmış.",
      "de": "Es war einmal eine Katze am Bosporus.",
      "gloss": "Bir var·mış bir yok·muş, Boğaz·'da bir kedi var·mış. | ein vorhanden·ERZ ein nicht.da·ERZ, Bosporus·LOK ein Katze vorhanden·ERZ",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_01.mp3?v=a39a3b16",
      "hinweis": "var-mış, yok-muş: der Märchenanfang."
     },
@@ -7177,6 +8427,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Gökten üç elma düşmüş: biri anlatana, biri dinleyene, biri kediye.",
      "de": "Drei Äpfel fielen vom Himmel: einer für den Erzähler, einer für den Zuhörer, einer für die Katze.",
      "gloss": "Gök·ten üç elma düş·müş: biri anlat·an·a, biri dinle·yen·e, biri kedi·ye. | Himmel·ABL drei Apfel fallen·ERZ: einer erzählen·DER·DAT, einer hören·DER·DAT, einer Katze·DAT",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_22.mp3?v=bbf67462",
      "hinweis": "düş-müş, anlat-an-a, dinle-yen-e: Hörensagen und zwei Partizipien."
     },
@@ -7184,6 +8435,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Hepsi ödevi yapmış, şaşırdım.",
      "de": "Alle hatten die Hausaufgabe gemacht, ich war überrascht.",
      "gloss": "Hep·si ödev·i yap·mış, şaşır·dı·m. | all·davon Aufgabe·AKK machen·ERZ, sich.wundern·VERG·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/du_19.mp3?v=fffcdd76",
      "hinweis": "yap-mış: Überraschung, das habe ich nicht erwartet."
     },
@@ -7191,6 +8443,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
      "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
      "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af",
      "hinweis": "er-miş: die Schlussformel."
     },
@@ -7198,6 +8451,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Dün gece ejderhayla çay içtiğimi düş gördüm.",
      "de": "Letzte Nacht träumte ich, ich hätte mit dem Drachen Tee getrunken.",
      "gloss": "Dün gece ejderha·yla çay iç·tiğ·im·i düş gör·dü·m. | gestern Nacht Drache·MIT Tee trinken·DASS·mein·AKK Traum sehen·VERG·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_20.mp3?v=e890cd32",
      "hinweis": "iç-tiğ-im-i: dass ich trank, als Objekt."
     },
@@ -7205,6 +8459,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Nasreddin Hoca göle maya çaldı: ya tutarsa!",
      "de": "Nasreddin Hodscha gab Hefe in den See: Und wenn es klappt!",
      "gloss": "Nasreddin Hoca göl·e maya çal·dı: ya tut·ar·sa! | Nasreddin Lehrer See·DAT Hefe mischen·VERG: und.wenn halten·AOR·KOND",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/hi_17.mp3?v=c6a08a2b",
      "hinweis": "ya tut-ar-sa: Nasreddin Hoca, im Aorist mit -sa (wenn)."
     }
@@ -7289,12 +8544,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Bir varmış bir yokmuş, Boğaz'da bir kedi varmış.",
        "de": "Es war einmal eine Katze am Bosporus.",
        "gloss": "Bir var·mış bir yok·muş, Boğaz·'da bir kedi var·mış. | ein vorhanden·ERZ ein nicht.da·ERZ, Bosporus·LOK ein Katze vorhanden·ERZ",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_01.mp3?v=a39a3b16"
       },
       {
        "fr": "Ejderha uyuyor, hazine bekliyor.",
        "de": "Der Drache schläft, der Schatz wartet.",
        "gloss": "Ejderha uy·uyor, hazine bekl·iyor. | Drache schlafen·PRÄS, Schatz warten·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_03.mp3?v=1e7cb7f6"
       }
      ],
@@ -7306,12 +8563,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Hepsi ödevi yapmış, şaşırdım.",
        "de": "Alle hatten die Hausaufgabe gemacht, ich war überrascht.",
        "gloss": "Hep·si ödev·i yap·mış, şaşır·dı·m. | all·davon Aufgabe·AKK machen·ERZ, sich.wundern·VERG·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/du_19.mp3?v=fffcdd76"
       },
       {
        "fr": "Adını unuttum, çok utandım.",
        "de": "Ich habe seinen Namen vergessen, ich habe mich sehr geschämt.",
        "gloss": "Ad·ı·nı unut·tu·m, çok utan·dı·m. | Name·sein·AKK vergessen·VERG·1SG, sehr sich.schämen·VERG·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/du_18.mp3?v=b5c4da55"
       }
      ],
@@ -7323,12 +8582,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Yedi cüce madene gitti, biri geç kaldı.",
        "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
        "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd"
       },
       {
        "fr": "Gökten üç elma düşmüş: biri anlatana, biri dinleyene, biri kediye.",
        "de": "Drei Äpfel fielen vom Himmel: einer für den Erzähler, einer für den Zuhörer, einer für die Katze.",
        "gloss": "Gök·ten üç elma düş·müş: biri anlat·an·a, biri dinle·yen·e, biri kedi·ye. | Himmel·ABL drei Apfel fallen·ERZ: einer erzählen·DER·DAT, einer hören·DER·DAT, einer Katze·DAT",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_22.mp3?v=bbf67462"
       }
      ],
@@ -7340,12 +8601,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Keloğlan tembeldi ama kurnazdı, sonunda padişah oldu.",
        "de": "Keloğlan war faul, aber schlau, am Ende wurde er Padischah.",
        "gloss": "Kel·oğlan tembel·di ama kurnaz·dı, son·u·nda padişah ol·du. | kahl·Junge faul·VERG aber schlau·VERG, Ende·sein·LOK Padischah werden·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_16.mp3?v=03d164dc"
       },
       {
        "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
        "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
        "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af"
       }
      ],
@@ -7370,6 +8633,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Usta az konuşur, çok gösterir.",
      "de": "Der Meister spricht wenig, zeigt viel.",
      "gloss": "Usta az konuş·ur, çok göster·ir. | Meister wenig sprechen·AOR, viel zeigen·AOR",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_05.mp3?v=d6443ff5",
      "hinweis": "Charakter: so ist ein Meister."
     },
@@ -7377,6 +8641,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Öğrenci düşer, kalkar, yine düşer.",
      "de": "Der Schüler fällt, steht auf, fällt wieder.",
      "gloss": "Öğren·ci düş·er, kalk·ar, yine düş·er. | lernen·Täter fallen·AOR, aufstehen·AOR, wieder fallen·AOR",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_06.mp3?v=8ed6f308",
      "hinweis": "Sprichwort-Ton: fällt, steht auf, fällt."
     },
@@ -7384,6 +8649,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Yumruk omuzdan değil, kalçadan gelir.",
      "de": "Der Faustschlag kommt nicht aus der Schulter, sondern aus der Hüfte.",
      "gloss": "Yumruk omuz·dan değil, kalça·dan gel·ir. | Faust Schulter·ABL nicht, Hüfte·ABL kommen·AOR",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_08.mp3?v=89968656",
      "hinweis": "Regel: so kommt ein Faustschlag."
     },
@@ -7391,6 +8657,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Denge tek ayakta başlar, kafada biter.",
      "de": "Gleichgewicht beginnt auf einem Fuß und endet im Kopf.",
      "gloss": "Denge tek ayak·ta başl·ar, kafa·da bit·er. | Gleichgewicht einzig Fuß·LOK beginnen·AOR, Kopf·LOK enden·AOR",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_11.mp3?v=5d3886bf",
      "hinweis": "Allgemeine Wahrheit."
     },
@@ -7398,6 +8665,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Yağlı güreş Edirne'de, Kırkpınar'da yapılır.",
      "de": "Ölringen findet in Edirne statt, in Kırkpınar.",
      "gloss": "Yağ·lı güreş Edirne·'de, Kırkpınar·'da yap·ıl·ır. | Öl·mit Ringen Edirne·LOK, Kırkpınar·LOK machen·PASS·AOR",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_13.mp3?v=cff5fbf7",
      "hinweis": "Gewohnheit: jedes Jahr."
     },
@@ -7405,6 +8673,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Kendine iyi bak, dersler kaçmaz.",
      "de": "Pass gut auf dich auf, die Stunden laufen nicht weg.",
      "gloss": "Kendi·ne iyi bak, ders·ler kaç·maz. | selbst·DAT gut schau, Stunde·PL weglaufen·NEG.AOR",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_03.mp3?v=f607861e",
      "hinweis": "Verneinter Aorist -maz: läuft nicht weg."
     },
@@ -7412,6 +8681,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "« Şaka bu », dedi Cem yüksek sesle. Kedi bir şey demedi. Kediler hiçbir zaman bir şey demez. Güçleri budur.",
      "de": "« Das ist ein Scherz », sagte Cem laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
      "gloss": null,
+     "umschrift": null,
      "audio": "audio/tr-de/geschichte/k01_10.mp3?v=bdc4b111",
      "hinweis": "Aus der Geschichte: Katzen sagen nie etwas – demez."
     }
@@ -7491,12 +8761,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Her sabah spor yapıyorum, kedi izliyor.",
        "de": "Jeden Morgen treibe ich Sport, die Katze schaut zu.",
        "gloss": "Her sabah spor yap·ıyor·um, kedi izl·iyor. | jeder Morgen Sport machen·PRÄS·1SG, Katze zuschauen·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sp_01.mp3?v=2c1b57b4"
       },
       {
        "fr": "Usta az konuşur, çok gösterir.",
        "de": "Der Meister spricht wenig, zeigt viel.",
        "gloss": "Usta az konuş·ur, çok göster·ir. | Meister wenig sprechen·AOR, viel zeigen·AOR",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sp_05.mp3?v=d6443ff5"
       }
      ],
@@ -7508,12 +8780,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Kedi kutuya girdi, çocuklar kahkaha attı.",
        "de": "Die Katze ist in die Kiste gestiegen, die Kinder haben schallend gelacht.",
        "gloss": "Kedi kutu·ya gir·di, çocuk·lar kahkaha at·tı. | Katze Kiste·DAT hineingehen·VERG, Kind·PL Gelächter werfen·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/co_20.mp3?v=953848f0"
       },
       {
        "fr": "« Şaka bu », dedi Cem yüksek sesle. Kedi bir şey demedi. Kediler hiçbir zaman bir şey demez. Güçleri budur.",
        "de": "« Das ist ein Scherz », sagte Cem laut. Die Katze sagte nichts. Katzen sagen nie etwas. Das ist ihre Stärke.",
        "gloss": null,
+       "umschrift": null,
        "audio": "audio/tr-de/geschichte/k01_10.mp3?v=bdc4b111"
       }
      ],
@@ -7525,12 +8799,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Denge tek ayakta başlar, kafada biter.",
        "de": "Gleichgewicht beginnt auf einem Fuß und endet im Kopf.",
        "gloss": "Denge tek ayak·ta başl·ar, kafa·da bit·er. | Gleichgewicht einzig Fuß·LOK beginnen·AOR, Kopf·LOK enden·AOR",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sp_11.mp3?v=5d3886bf"
       },
       {
        "fr": "Son dakikada gol attık, mahalle bağırdı.",
        "de": "In der letzten Minute haben wir ein Tor geschossen, das Viertel hat geschrien.",
        "gloss": "Son dakika·da gol at·tı·k, mahalle bağır·dı. | letzt Minute·LOK Tor werfen·VERG·1PL, Viertel schreien·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sp_15.mp3?v=548567d5"
       }
      ],
@@ -7542,12 +8818,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Akşam yemek pişiriyorum, kedi mutfakta bekliyor.",
        "de": "Abends koche ich, die Katze wartet in der Küche.",
        "gloss": "Akşam yemek pişir·iyor·um, kedi mutfak·ta bekl·iyor. | Abend Essen garen·PRÄS·1SG, Katze Küche·LOK warten·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_05.mp3?v=af9e62a1"
       },
       {
        "fr": "Yumruk omuzdan değil, kalçadan gelir.",
        "de": "Der Faustschlag kommt nicht aus der Schulter, sondern aus der Hüfte.",
        "gloss": "Yumruk omuz·dan değil, kalça·dan gel·ir. | Faust Schulter·ABL nicht, Hüfte·ABL kommen·AOR",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sp_08.mp3?v=89968656"
       }
      ],
@@ -7575,6 +8853,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Hadi mola verelim, çay demlendi.",
      "de": "Komm, machen wir eine Pause, der Tee ist gezogen.",
      "gloss": "Hadi mola ver·elim, çay demlen·di. | los Pause geben·OPT.1PL, Tee ziehen·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_14.mp3?v=6036487d",
      "hinweis": "ver-elim: lasst uns eine Pause machen."
     },
@@ -7582,6 +8861,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Biraz hava alalım, sınıf fırın gibi.",
      "de": "Lass uns etwas Luft schnappen, die Klasse ist wie ein Backofen.",
      "gloss": "Biraz hava al·alım, sınıf fırın gibi. | etwas Luft nehmen·OPT.1PL, Klasse Ofen wie",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_17.mp3?v=b3bc6a11",
      "hinweis": "al-alım: lasst uns Luft schnappen."
     },
@@ -7589,6 +8869,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bir simit alabilir miyim, susamlı olsun lütfen.",
      "de": "Kann ich einen Simit haben, mit Sesam bitte.",
      "gloss": "Bir simit al·abil·ir mi·yim, susam·lı ol·sun lütfen. | ein Simit nehmen·KANN·AOR FRAGE·1SG, Sesam·mit sein·IMP3 bitte",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_24.mp3?v=c142f851",
      "hinweis": "al-abil-ir mi-yim: kann ich? Die höfliche Bitte."
     },
@@ -7596,6 +8877,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Ağlayınca kucağıma aldım, hemen sustu.",
      "de": "Als er weinte, nahm ich ihn auf den Arm, sofort war er still.",
      "gloss": "Ağla·yınca kucağ·ım·a al·dı·m, hemen sus·tu. | weinen·SOBALD Schoß·mein·DAT nehmen·VERG·1SG, sofort schweigen·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_04.mp3?v=ec215cb8",
      "hinweis": "ağla-y-ınca: als er weinte."
     },
@@ -7603,6 +8885,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Afiyet olsun! – Elinize sağlık!",
      "de": "Guten Appetit! – Gesundheit Ihren Händen!",
      "gloss": "Afiyet ol·sun! – El·iniz·e sağlık! | Wohlbefinden sein·IMP3! – Hand·Ihr·DAT Gesundheit!",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_09.mp3?v=19c9780b",
      "hinweis": "ol-sun: es sei, 3. Person."
     },
@@ -7610,6 +8893,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Kendine iyi bak, dersler kaçmaz.",
      "de": "Pass gut auf dich auf, die Stunden laufen nicht weg.",
      "gloss": "Kendi·ne iyi bak, ders·ler kaç·maz. | selbst·DAT gut schau, Stunde·PL weglaufen·NEG.AOR",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_03.mp3?v=f607861e",
      "hinweis": "bak, kaç-maz: Imperativ und Aorist."
     },
@@ -7617,6 +8901,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bayramda tıka basa yedik, kimse kıpırdayamadı.",
      "de": "Am Feiertag haben wir uns den Bauch vollgeschlagen, niemand konnte sich rühren.",
      "gloss": "Bayram·da tıka basa ye·di·k, kimse kıpırda·ya·ma·dı. | Fest·LOK stopf drück essen·VERG·1PL, niemand sich.rühren·KANN·NEG·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_08.mp3?v=3b897474",
      "hinweis": "kıpırda-ya-ma-dı: konnte sich nicht rühren."
     }
@@ -7701,12 +8986,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Hadi mola verelim, çay demlendi.",
        "de": "Komm, machen wir eine Pause, der Tee ist gezogen.",
        "gloss": "Hadi mola ver·elim, çay demlen·di. | los Pause geben·OPT.1PL, Tee ziehen·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_14.mp3?v=6036487d"
       },
       {
        "fr": "Cuma gecesi deliksiz uyudum, kedi bile sesimi duymadı.",
        "de": "Freitagnacht habe ich durchgeschlafen, nicht einmal die Katze hat mich gehört.",
        "gloss": "Cuma gece·si delik·siz uyu·du·m, kedi bile ses·im·i duy·ma·dı. | Freitag Nacht·sein Loch·ohne schlafen·VERG·1SG, Katze sogar Stimme·mein·AKK hören·NEG·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_15.mp3?v=ea5c1f32"
       }
      ],
@@ -7718,12 +9005,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Biraz hava alalım, sınıf fırın gibi.",
        "de": "Lass uns etwas Luft schnappen, die Klasse ist wie ein Backofen.",
        "gloss": "Biraz hava al·alım, sınıf fırın gibi. | etwas Luft nehmen·OPT.1PL, Klasse Ofen wie",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_17.mp3?v=b3bc6a11"
       },
       {
        "fr": "Annemin tarifi: az tuz, çok sabır.",
        "de": "Das Rezept meiner Mutter: wenig Salz, viel Geduld.",
        "gloss": "Anne·m·in tarif·i: az tuz, çok sabır. | Mutter·mein·GEN Rezept·sein: wenig Salz, viel Geduld",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_18.mp3?v=087cdd58"
       }
      ],
@@ -7735,12 +9024,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Üçüncü saatte boşluğum var, kahve içelim mi?",
        "de": "In der dritten Stunde habe ich frei, trinken wir einen Kaffee?",
        "gloss": "Üç·üncü saat·te boşluğ·um var, kahve iç·elim mi? | drei·ORD Stunde·LOK Lücke·mein vorhanden, Kaffee trinken·OPT.1PL FRAGE",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813"
       },
       {
        "fr": "Saat dörtte toplantı var, geliyor musun?",
        "de": "Um vier ist Konferenz, kommst du?",
        "gloss": "Saat dört·te toplantı var, gel·iyor mu·sun? | Uhr vier·LOK Versammlung vorhanden, kommen·PRÄS FRAGE·2SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
       }
      ],
@@ -7752,12 +9043,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Köşedeki fırın sabah beşte açılıyor, ekmek sıcak.",
        "de": "Die Bäckerei an der Ecke öffnet um fünf, das Brot ist warm.",
        "gloss": "Köşe·de·ki fırın sabah beş·te aç·ıl·ıyor, ekmek sıcak. | Ecke·LOK·DER Ofen Morgen fünf·LOK öffnen·PASS·PRÄS, Brot heiß",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_10.mp3?v=56b72f92"
       },
       {
        "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
        "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
        "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af"
       }
      ],
@@ -7782,6 +9075,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Oğlum yürümeyi öğrendi, artık hiçbir şey güvende değil.",
      "de": "Mein Sohn hat laufen gelernt, jetzt ist nichts mehr sicher.",
      "gloss": "Oğl·um yürü·me·yi öğren·di, artık hiçbir şey güven·de değil. | Sohn·mein gehen·INF·AKK lernen·VERG, nunmehr kein Ding Sicherheit·LOK nicht",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_15.mp3?v=1584b814",
      "hinweis": "yürü-me-yi öğren-di: das Gehen lernen."
     },
@@ -7789,6 +9083,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Komşunun bebeği doğdu, bütün apartman bakmaya gitti.",
      "de": "Das Baby der Nachbarin ist geboren, das ganze Haus ging es ansehen.",
      "gloss": "Komşu·nun bebeğ·i doğ·du, bütün apartman bak·ma·ya git·ti. | Nachbar·GEN Baby·sein geboren.werden·VERG, ganz Wohnhaus schauen·INF·DAT gehen·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_05.mp3?v=b0ba1a77",
      "hinweis": "bak-ma-ya git-ti: um zu schauen."
     },
@@ -7796,6 +9091,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Not vermek dersten daha zor.",
      "de": "Noten geben ist schwerer als unterrichten.",
      "gloss": "Not ver·mek ders·ten daha zor. | Note geben·INF Unterricht·ABL mehr schwer",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/oa_09.mp3?v=d167a753",
      "hinweis": "not ver-mek: Infinitiv als Subjekt."
     },
@@ -7803,6 +9099,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Dil öğrenmek müzik gibi, her gün biraz.",
      "de": "Sprachen lernen ist wie Musik, jeden Tag ein bisschen.",
      "gloss": "Dil öğren·mek müzik gibi, her gün biraz. | Sprache lernen·INF Musik wie, jeder Tag ein.bisschen",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_16.mp3?v=dbb1e947",
      "hinweis": "dil öğren-mek: lernen ist wie Musik."
     },
@@ -7810,6 +9107,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Bebek sabaha kadar uyudu, anne de babası da şaşkın.",
      "de": "Das Baby hat bis zum Morgen geschlafen, Mutter und Vater sind verblüfft.",
      "gloss": "Bebek sabah·a kadar uyu·du, anne de baba·sı da şaşkın. | Baby Morgen·DAT bis schlafen·VERG, Mutter auch Vater·sein auch verblüfft",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_01.mp3?v=5a0067f6",
      "hinweis": "sabah-a kadar: bis mit Dativ."
     },
@@ -7817,6 +9115,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Ağlayınca kucağıma aldım, hemen sustu.",
      "de": "Als er weinte, nahm ich ihn auf den Arm, sofort war er still.",
      "gloss": "Ağla·yınca kucağ·ım·a al·dı·m, hemen sus·tu. | weinen·SOBALD Schoß·mein·DAT nehmen·VERG·1SG, sofort schweigen·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_04.mp3?v=ec215cb8",
      "hinweis": "kucağ-ım-a: k wird ğ."
     },
@@ -7824,6 +9123,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Banyo vakti geldi, kedi kaçtı, çocuk da.",
      "de": "Die Badezeit ist da, die Katze ist geflohen, das Kind auch.",
      "gloss": "Banyo vakt·i gel·di, kedi kaç·tı, çocuk da. | Bad Zeit·sein kommen·VERG, Katze fliehen·VERG, Kind auch",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_23.mp3?v=9d9890e4",
      "hinweis": "vakt-i: der Vokal fällt aus (vakit)."
     }
@@ -7908,12 +9208,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Oğlum yürümeyi öğrendi, artık hiçbir şey güvende değil.",
        "de": "Mein Sohn hat laufen gelernt, jetzt ist nichts mehr sicher.",
        "gloss": "Oğl·um yürü·me·yi öğren·di, artık hiçbir şey güven·de değil. | Sohn·mein gehen·INF·AKK lernen·VERG, nunmehr kein Ding Sicherheit·LOK nicht",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/co_15.mp3?v=1584b814"
       },
       {
        "fr": "Ağlama, dondurma bitmedi, buzdolabında var.",
        "de": "Wein nicht, das Eis ist nicht alle, im Kühlschrank ist noch welches.",
        "gloss": "Ağla·ma, dondurma bit·me·di, buzdolab·ı·nda var. | weinen·NEG.IMP, Eis enden·NEG·VERG, Kühlschrank·sein·LOK vorhanden",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/co_13.mp3?v=9c3633d3"
       }
      ],
@@ -7925,12 +9227,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Not vermek dersten daha zor.",
        "de": "Noten geben ist schwerer als unterrichten.",
        "gloss": "Not ver·mek ders·ten daha zor. | Note geben·INF Unterricht·ABL mehr schwer",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_09.mp3?v=d167a753"
       },
       {
        "fr": "Bu yıl kimse sınıfta kalmıyor, umarım.",
        "de": "Dieses Jahr bleibt hoffentlich keiner sitzen.",
        "gloss": "Bu yıl kimse sınıf·ta kal·mı·yor, um·ar·ım. | dies Jahr niemand Klasse·LOK bleiben·NEG·PRÄS, hoffen·AOR·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_10.mp3?v=b9341cfe"
       }
      ],
@@ -7942,12 +9246,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Komşunun bebeği doğdu, bütün apartman bakmaya gitti.",
        "de": "Das Baby der Nachbarin ist geboren, das ganze Haus ging es ansehen.",
        "gloss": "Komşu·nun bebeğ·i doğ·du, bütün apartman bak·ma·ya git·ti. | Nachbar·GEN Baby·sein geboren.werden·VERG, ganz Wohnhaus schauen·INF·DAT gehen·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/co_05.mp3?v=b0ba1a77"
       },
       {
        "fr": "Bebek bana gülümsedi, günüm kurtuldu.",
        "de": "Das Baby hat mich angelächelt, mein Tag ist gerettet.",
        "gloss": "Bebek ban·a gülümse·di, gün·üm kurt·ul·du. | Baby ich·DAT lächeln·VERG, Tag·mein retten·PASS·VERG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/co_06.mp3?v=ade77ef0"
       }
      ],
@@ -7959,12 +9265,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Eve gelince kızım sarılıyor, yorgunluk gidiyor.",
        "de": "Wenn ich heimkomme, umarmt mich meine Tochter, die Müdigkeit geht weg.",
        "gloss": "Ev·e gel·ince kız·ım sarıl·ıyor, yorgun·luk gid·iyor. | Haus·DAT kommen·SOBALD Tochter·mein umarmen·PRÄS, müde·Abstr. gehen·PRÄS",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/co_14.mp3?v=59e372c7"
       },
       {
        "fr": "Dil öğrenmek müzik gibi, her gün biraz.",
        "de": "Sprachen lernen ist wie Musik, jeden Tag ein bisschen.",
        "gloss": "Dil öğren·mek müzik gibi, her gün biraz. | Sprache lernen·INF Musik wie, jeder Tag ein.bisschen",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/mu_16.mp3?v=dbb1e947"
       }
      ],
@@ -7993,6 +9301,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Kitapçıya gittim, kütüphaneye değil; parayı orada bıraktım.",
      "de": "Ich bin in die Buchhandlung gegangen, nicht in die Bibliothek; das Geld habe ich dort gelassen.",
      "gloss": "Kitap·çı·ya git·ti·m, kütüphane·ye değil; para·yı ora·da bırak·tı·m. | Buch·Täter·DAT gehen·VERG·1SG, Bibliothek·DAT nicht; Geld·AKK dort·LOK lassen·VERG·1SG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_12.mp3?v=4329a9a3",
      "hinweis": "kitap-çı: der Täter-Baustein."
     },
@@ -8000,6 +9309,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Küçük yaramazlık yaptı, kedi de ortak.",
      "de": "Der Kleine hat Unsinn angestellt, die Katze war Komplizin.",
      "gloss": "Küçük yaramaz·lık yap·tı, kedi de ortak. | klein frech·Abstr. machen·VERG, Katze auch Partner",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/co_03.mp3?v=404403de",
      "hinweis": "yaramaz-lık: das Abstraktum."
     },
@@ -8007,6 +9317,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Terbiyeli çocuk, ama sınıfta değil.",
      "de": "Ein wohlerzogenes Kind, aber nicht im Klassenzimmer.",
      "gloss": "Terbiye·li çocuk, ama sınıf·ta değil. | Erziehung·mit Kind, aber Klasse·LOK nicht",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_09.mp3?v=b43a4e62",
      "hinweis": "terbiye-li: mit."
     },
@@ -8014,6 +9325,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Cuma gecesi deliksiz uyudum, kedi bile sesimi duymadı.",
      "de": "Freitagnacht habe ich durchgeschlafen, nicht einmal die Katze hat mich gehört.",
      "gloss": "Cuma gece·si delik·siz uyu·du·m, kedi bile ses·im·i duy·ma·dı. | Freitag Nacht·sein Loch·ohne schlafen·VERG·1SG, Katze sogar Stimme·mein·AKK hören·NEG·VERG",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/ye_15.mp3?v=ea5c1f32",
      "hinweis": "delik-siz: ohne."
     },
@@ -8021,6 +9333,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Sınıfta kamera var mı? – Yok, sadece kedi.",
      "de": "Ist eine Kamera im Klassenzimmer? – Nein, nur die Katze.",
      "gloss": "Sınıf·ta kamera var mı? – Yok, sadece kedi. | Klasse·LOK Kamera vorhanden FRAGE? – nicht.da, nur Katze",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_05.mp3?v=6c428a26",
      "hinweis": "var mı: die Frage."
     },
@@ -8028,6 +9341,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Affedersiniz, kütüphaneyi arıyorum. – Kitapçı mı? – Hayır, kütüphane.",
      "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek.",
      "gloss": "Affedersiniz, kütüphane·yi ar·ıyor·um. – Kitapçı mı? – Hayır, kütüphane. | entschuldigen.Sie, Bibliothek·AKK suchen·PRÄS·1SG. – Buchhandlung FRAGE? – nein, Bibliothek",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sd_24.mp3?v=f8266d02",
      "hinweis": "Kitapçı mı: die Rückfrage."
     },
@@ -8035,6 +9349,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Öğrenci düşer, kalkar, yine düşer.",
      "de": "Der Schüler fällt, steht auf, fällt wieder.",
      "gloss": "Öğren·ci düş·er, kalk·ar, yine düş·er. | lernen·Täter fallen·AOR, aufstehen·AOR, wieder fallen·AOR",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/sp_06.mp3?v=8ed6f308",
      "hinweis": "öğren-ci: Täter aus einem Verb."
     },
@@ -8042,6 +9357,7 @@ window.SPRACHEN["tr-de"] = {
      "fr": "Kulak dolgunluğu var, kelimeler yavaş geliyor.",
      "de": "Das Ohr ist voll, die Wörter kommen langsam.",
      "gloss": "Kulak dolgun·luğ·u var, kelime·ler yavaş gel·iyor. | Ohr voll·Abstr.·sein vorhanden, Wort·PL langsam kommen·PRÄS",
+     "umschrift": null,
      "audio": "audio/tr-de/saetze/mu_15.mp3?v=f9926b82",
      "hinweis": "dolgun-luğ-u: Abstraktum mit Possessiv."
     }
@@ -8126,12 +9442,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Sınıfta kamera var mı? – Yok, sadece kedi.",
        "de": "Ist eine Kamera im Klassenzimmer? – Nein, nur die Katze.",
        "gloss": "Sınıf·ta kamera var mı? – Yok, sadece kedi. | Klasse·LOK Kamera vorhanden FRAGE? – nicht.da, nur Katze",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sd_05.mp3?v=6c428a26"
       },
       {
        "fr": "Velinin imzası eksik, yine.",
        "de": "Die Unterschrift der Eltern fehlt, wieder.",
        "gloss": "Veli·nin imza·sı eksik, yine. | Erziehungsberechtigter·GEN Unterschrift·sein fehlend, wieder",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sd_06.mp3?v=0dd1f613"
       }
      ],
@@ -8143,12 +9461,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Saat dörtte toplantı var, geliyor musun?",
        "de": "Um vier ist Konferenz, kommst du?",
        "gloss": "Saat dört·te toplantı var, gel·iyor mu·sun? | Uhr vier·LOK Versammlung vorhanden, kommen·PRÄS FRAGE·2SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
       },
       {
        "fr": "Altı saat dersten sonra bitkinim.",
        "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
        "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
       }
      ],
@@ -8160,12 +9480,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Tat bakalım, tuzu eksik mi?",
        "de": "Probier mal, fehlt Salz?",
        "gloss": "Tat bak·alım, tuz·u eksik mi? | koste schau·OPT.1PL, Salz·sein fehlend FRAGE",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_19.mp3?v=c3ab7ba2"
       },
       {
        "fr": "Annemin tarifi: az tuz, çok sabır.",
        "de": "Das Rezept meiner Mutter: wenig Salz, viel Geduld.",
        "gloss": "Anne·m·in tarif·i: az tuz, çok sabır. | Mutter·mein·GEN Rezept·sein: wenig Salz, viel Geduld",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/ye_18.mp3?v=087cdd58"
       }
      ],
@@ -8177,12 +9499,14 @@ window.SPRACHEN["tr-de"] = {
        "fr": "Kantinde tost var, sıra uzun.",
        "de": "In der Cafeteria gibt es Toast, die Schlange ist lang.",
        "gloss": "Kantin·de tost var, sıra uzun. | Cafeteria·LOK Toast vorhanden, Reihe lang",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sd_07.mp3?v=245fcfad"
       },
       {
        "fr": "Affedersiniz, kütüphaneyi arıyorum. – Kitapçı mı? – Hayır, kütüphane.",
        "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek.",
        "gloss": "Affedersiniz, kütüphane·yi ar·ıyor·um. – Kitapçı mı? – Hayır, kütüphane. | entschuldigen.Sie, Bibliothek·AKK suchen·PRÄS·1SG. – Buchhandlung FRAGE? – nein, Bibliothek",
+       "umschrift": null,
        "audio": "audio/tr-de/saetze/sd_24.mp3?v=f8266d02"
       }
      ],

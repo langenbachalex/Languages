@@ -305,23 +305,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "errand = Botengang, Auftrag. Nachgestelltes Adjektiv « an errand more urgent » statt « a more urgent errand »: hebt das Adjektiv. hither = hierher (archaisch, Gegenstück thither). Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_01.mp3?v=71d05a37",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Few have ever come hither through greater peril or on an errand more urgent.",
     "de": "Wenige sind je durch größere Gefahr hierhergekommen oder in dringenderem Auftrag.",
     "luecke": "on an errand more urgent",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_01.mp3?v=7dbfcf29"
    },
    "zeit": {
     "pc": {
      "fr": "Hardly anyone has ever come here in greater danger or with a more urgent errand.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_01_pc.mp3?v=e62e2097"
     },
     "fp": {
      "fr": "Nobody's ever turned up here in more danger, or in more of a hurry.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_01_fp.mp3?v=6711e6ce"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_02",
@@ -333,23 +339,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "naught = nothing (archaisch; daher « naughty »). « other than » = außer. Gespiegeltes Paar « with hope or without it » als Schluss. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_02.mp3?v=20452d80",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "There is naught that you can do, other than to resist, with hope or without it.",
     "de": "Es gibt nichts, was ihr tun könnt, außer zu widerstehen, mit Hoffnung oder ohne sie.",
     "luecke": "naught that you can do, other than",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_02.mp3?v=18acdd21"
    },
    "zeit": {
     "pc": {
      "fr": "There is nothing you can do except resist, with or without hope.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_02_pc.mp3?v=1092a85d"
     },
     "fp": {
      "fr": "There's nothing you can do but hold out, hope or no hope.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_02_fp.mp3?v=3de29795"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_03",
@@ -361,23 +373,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "doom = Urteil, Spruch, Schicksal (nicht nur Untergang; vgl. Doomsday = Tag des Gerichts). deem = erachten, hier: urteilen. Stabreim doom / deem. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_03.mp3?v=7412b9f6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "The Ring! What shall we do with the Ring, the least of rings, the trifle that Sauron fancies? That is the doom that we must deem.",
     "de": "Der Ring! Was sollen wir mit dem Ring tun, dem geringsten der Ringe, der Kleinigkeit, die Sauron begehrt? Das ist das Urteil, das wir fällen müssen.",
     "luecke": "That is the doom that we must deem",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_03.mp3?v=578c6b6e"
    },
    "zeit": {
     "pc": {
      "fr": "That is the decision we have to make.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_03_pc.mp3?v=117d6ae7"
     },
     "fp": {
      "fr": "That's the call we've got to make.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_03_fp.mp3?v=79122e7d"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_04",
@@ -389,23 +407,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Selbstkorrektur mit « I say »: ein Wort wird aufgegriffen und präzisiert. Sehr brauchbar im Vortrag: « Cheap, I say, though not free. » Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_04.mp3?v=d38590c9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "That is the purpose for which you are called hither. Called, I say, though I have not called you to me, strangers from distant lands.",
     "de": "Das ist der Zweck, zu dem ihr hierhergerufen seid. Gerufen, sage ich, obwohl ich euch nicht zu mir gerufen habe, Fremde aus fernen Ländern.",
     "luecke": "Called, I say, though",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_04.mp3?v=637b99e1"
    },
    "zeit": {
     "pc": {
      "fr": "Called, I say, although I did not actually summon you here.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_04_pc.mp3?v=157c92aa"
     },
     "fp": {
      "fr": "Called, so to speak, even though I never sent for you.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_04_fp.mp3?v=a367f661"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_05",
@@ -417,23 +441,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "« as it may seem » = wie es scheinen mag; « Yet it is not so » = knapper Widerspruch im eigenen Satz. « in the nick of time » = im letzten Augenblick (heute noch gebräuchlich). Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_05.mp3?v=d7368f93",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "You have come and are here met, in this very nick of time, by chance as it may seem. Yet it is not so.",
     "de": "Ihr seid gekommen und hier versammelt, in genau diesem entscheidenden Augenblick, zufällig, wie es scheinen mag. Doch so ist es nicht.",
     "luecke": "by chance as it may seem. Yet it is not so",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_05.mp3?v=8194d32b"
    },
    "zeit": {
     "pc": {
      "fr": "You have arrived at exactly the right moment, by chance as it might appear. But it is not chance.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_05_pc.mp3?v=26a05667"
     },
     "fp": {
      "fr": "You've all turned up right on time. Looks like luck. It isn't.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_05_fp.mp3?v=8e9ccb66"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_06",
@@ -445,23 +475,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "« so ordered » = so gefügt (von höherer Hand). « find counsel » = Rat finden. Einschub « and none others » verstärkt. « rather » = vielmehr. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_06.mp3?v=c907dfad",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.",
     "de": "Glaubt vielmehr, dass es so gefügt ist, dass wir, die hier sitzen, und keine anderen, nun Rat finden müssen für die Gefahr der Welt.",
     "luecke": "so ordered that we, who sit here, and none others",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_06.mp3?v=d7ddf533"
    },
    "zeit": {
     "pc": {
      "fr": "Believe instead that it was arranged that we, and no one else, must now find an answer to the danger.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_06_pc.mp3?v=60c6f235"
     },
     "fp": {
      "fr": "Better to think it was meant to be: it's us, nobody else, who have to sort this out.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_06_fp.mp3?v=4d91f273"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_07",
@@ -473,23 +509,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Voranstellung: « Small wonder it is that » statt « It is small wonder that ». Davor noch eine: « Only to the North did these tidings come » (Inversion nach only). Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_07.mp3?v=292dd22f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Only to the North did these tidings come, and only to a few. Small wonder it is that you have not heard them, Boromir.",
     "de": "Nur in den Norden kamen diese Nachrichten, und nur zu wenigen. Kein Wunder ist es, dass du nichts davon gehört hast, Boromir.",
     "luecke": "Small wonder it is that",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_07.mp3?v=88244e52"
    },
    "zeit": {
     "pc": {
      "fr": "It is no wonder that you have not heard of them.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_07_pc.mp3?v=ae892799"
     },
     "fp": {
      "fr": "No wonder you've never heard of it.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_07_fp.mp3?v=2f881ae6"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_08",
@@ -501,23 +543,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Inversion nach « never again »: shall there be. estranged = entfremdet; kindred = Geschlecht, Sippe; league = Bund. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_08.mp3?v=12e377a9",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Never again shall there be any such league of Elves and Men; for Men multiply and the Firstborn decrease, and the two kindreds are estranged.",
     "de": "Nie wieder wird es einen solchen Bund von Elben und Menschen geben; denn die Menschen mehren sich, und die Erstgeborenen nehmen ab, und die beiden Geschlechter sind einander entfremdet.",
     "luecke": "Never again shall there be",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_08.mp3?v=26821c2e"
    },
    "zeit": {
     "pc": {
      "fr": "There will never again be such an alliance of Elves and Men.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_08_pc.mp3?v=d5a44db1"
     },
     "fp": {
      "fr": "There'll never be a team-up like that again.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_08_fp.mp3?v=78f5cb08"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_09",
@@ -529,23 +577,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Knappe Zustimmung im Rat; « also » nachgestellt (heute meist « too »). Sprecher: Galdor.",
    "audio": "audio/en-de/wendungen/co_09.mp3?v=6cf082eb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Galdor of the Havens, who sat near by, overheard him. 'You speak for me also,' he cried.",
     "de": "Galdor von den Häfen, der nahebei saß, hörte ihn. „Du sprichst auch für mich“, rief er.",
     "luecke": "You speak for me also",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_09.mp3?v=5f6bfedc"
    },
    "zeit": {
     "pc": {
      "fr": "I was going to say the same.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_09_pc.mp3?v=b573d832"
     },
     "fp": {
      "fr": "Same here.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_09_fp.mp3?v=dfa40ae8"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_10",
@@ -557,23 +611,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Konzessive Inversion: « unlikely though that may seem » = « though that may seem unlikely ». Auch: « strange though it is », « hard as it may be ». trove = Fund (treasure trove). Sprecher: Galdor.",
    "audio": "audio/en-de/wendungen/co_10.mp3?v=a38742c6",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "The Wise may have good reason to believe that the halfling's trove is indeed the Great Ring of long debate, unlikely though that may seem to those who know less.",
     "de": "Die Weisen mögen guten Grund haben zu glauben, dass der Fund des Halblings wahrhaftig der Große Ring ist, über den so lange gestritten wurde, so unwahrscheinlich das denen scheinen mag, die weniger wissen.",
     "luecke": "unlikely though that may seem",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_10.mp3?v=dad8aba7"
    },
    "zeit": {
     "pc": {
      "fr": "The Wise may well have reason to believe this is the Great Ring, however unlikely that seems to the rest of us.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_10_pc.mp3?v=4c5af8bf"
     },
     "fp": {
      "fr": "The experts probably know it's the real thing, even if it sounds unlikely to us.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_10_fp.mp3?v=639b4dd4"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_11",
@@ -585,23 +645,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Höfliche Forderung als Frage mit « may we not ». proofs im Plural = Beweisstücke. « What of X? » = Was ist mit X? Sprecher: Galdor.",
    "audio": "audio/en-de/wendungen/co_11.mp3?v=87cce0a7",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "But may we not hear the proofs? And I would ask this also. What of Saruman?",
     "de": "Doch dürfen wir die Beweise nicht hören? Und dies würde ich auch fragen: Was ist mit Saruman?",
     "luecke": "But may we not hear the proofs",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_11.mp3?v=59fc7e26"
    },
    "zeit": {
     "pc": {
      "fr": "But could we not hear the evidence?",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_11_pc.mp3?v=92b4bb52"
     },
     "fp": {
      "fr": "But can't we see the proof?",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_11_fp.mp3?v=0f97b5e0"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_12",
@@ -613,23 +679,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "« the day of evil » / « the evil day » = der Tag, an dem es ernst wird. postpone = aufschieben; « put off » die Alltagsform. Sprecher: Glorfindel.",
    "audio": "audio/en-de/wendungen/co_12.mp3?v=d3c239fb",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "But in any case, to send the Ring to him would only postpone the day of evil.",
     "de": "Doch wie auch immer: Den Ring zu ihm zu schicken, würde den Tag des Übels nur aufschieben.",
     "luecke": "postpone the day of evil",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_12.mp3?v=db227b40"
    },
    "zeit": {
     "pc": {
      "fr": "In any case, sending the Ring to him would only delay the evil day.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_12_pc.mp3?v=ea8b66a5"
     },
     "fp": {
      "fr": "Anyway, sending him the Ring just puts the problem off.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_12_fp.mp3?v=d58e0147"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_13",
@@ -641,23 +713,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "« soon or late » = alte Form von « sooner or later ». « bend his power towards » = seine Macht darauf richten. Sprecher: Glorfindel.",
    "audio": "audio/en-de/wendungen/co_13.mp3?v=2a323b20",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "And even if we could, soon or late the Lord of the Rings would learn of its hiding place and would bend all his power towards it.",
     "de": "Und selbst wenn wir es könnten, früher oder später würde der Herr der Ringe von seinem Versteck erfahren und seine ganze Macht darauf richten.",
     "luecke": "soon or late",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_13.mp3?v=f0afe31d"
    },
    "zeit": {
     "pc": {
      "fr": "Even if we could, sooner or later the Enemy would find out where it is and turn all his power on it.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_13_pc.mp3?v=9b05b33a"
     },
     "fp": {
      "fr": "Even if we managed it, he'd find out eventually and come for it with everything he's got.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_13_fp.mp3?v=06c4dd81"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_14",
@@ -669,23 +747,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "oft = often (archaisch, poetisch). Objekt-Voranstellung « in lies truth is hidden ». Sprecher: Glorfindel.",
    "audio": "audio/en-de/wendungen/co_14.mp3?v=9eda1008",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yet oft in lies truth is hidden: in the Sea it would be safe.",
     "de": "Doch oft ist in Lügen Wahrheit verborgen: Im Meer wäre er sicher.",
     "luecke": "oft in lies truth is hidden",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_14.mp3?v=e1c5d0c4"
    },
    "zeit": {
     "pc": {
      "fr": "Yet there is often truth hidden in lies: in the Sea it would be safe.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_14_pc.mp3?v=5d326e18"
     },
     "fp": {
      "fr": "Still, there's often a bit of truth in a lie. It'd be safe in the sea.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_14_fp.mp3?v=20d08fc7"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_15",
@@ -697,23 +781,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "« fraught with » = behaftet mit, voller (heute auch allein: a fraught situation = angespannt). Konjunktiv « if … be thought ». Superlativ ohne Artikel « gravest peril ». Sprecher: Galdor.",
    "audio": "audio/en-de/wendungen/co_15.mp3?v=e977361e",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "If the return to Iarwain be thought too dangerous, then flight to the Sea is now fraught with gravest peril.",
     "de": "Wenn die Rückkehr zu Iarwain für zu gefährlich gehalten wird, dann ist die Flucht zum Meer jetzt mit schwerster Gefahr behaftet.",
     "luecke": "fraught with gravest peril",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_15.mp3?v=176ed1e8"
    },
    "zeit": {
     "pc": {
      "fr": "If going back to Iarwain is thought too dangerous, then fleeing to the Sea is now extremely perilous.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_15_pc.mp3?v=d89ae2e4"
     },
     "fp": {
      "fr": "If going back to Bombadil is too risky, then running for the coast is even worse.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_15_fp.mp3?v=3ee506e3"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_16",
@@ -725,23 +815,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "« read a riddle » = ein Rätsel deuten (altes read = deuten, raten; verwandt mit dt. Rat, Rede). Frage als Einladung an den Rat. Sprecher: Erestor.",
    "audio": "audio/en-de/wendungen/co_16.mp3?v=a7944b4c",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "But both are beyond our power. Who will read this riddle for us?",
     "de": "Doch beides übersteigt unsere Macht. Wer wird uns dieses Rätsel deuten?",
     "luecke": "read this riddle",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_16.mp3?v=32edf9cf"
    },
    "zeit": {
     "pc": {
      "fr": "Who can solve this riddle for us?",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_16_pc.mp3?v=8e4e88c4"
     },
     "fp": {
      "fr": "So who's going to work this one out?",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_16_fp.mp3?v=f79850fd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_17",
@@ -753,23 +849,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "« at fault » = schuld (auch heute: the driver at fault). « but for » = ohne, wenn nicht … gewesen wäre. « upon us » = über uns. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_17.mp3?v=7329d006",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "We were all at fault, and but for your vigilance the Darkness, maybe, would already be upon us.",
     "de": "Wir alle trugen Schuld, und ohne deine Wachsamkeit wäre die Finsternis vielleicht schon über uns.",
     "luecke": "We were all at fault",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_17.mp3?v=e4e536a7"
    },
    "zeit": {
     "pc": {
      "fr": "We were all to blame, and without your vigilance the Darkness might already be here.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_17_pc.mp3?v=db067736"
     },
     "fp": {
      "fr": "We all got it wrong, and if you hadn't kept watch, we'd be done for by now.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_17_fp.mp3?v=fe9fb315"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_18",
@@ -781,23 +883,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "shun = meiden (heute: to shun publicity). Drei kurze Sätze als Schlusskette; Passiv ohne Täter. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_18.mp3?v=09733f07",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "The westward road seems easiest. Therefore it must be shunned. It will be watched.",
     "de": "Der Weg nach Westen scheint der leichteste. Darum muss er gemieden werden. Er wird bewacht sein.",
     "luecke": "Therefore it must be shunned",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_18.mp3?v=9754dad4"
    },
    "zeit": {
     "pc": {
      "fr": "The road west looks easiest. That is precisely why it must be avoided.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_18_pc.mp3?v=572717d0"
     },
     "fp": {
      "fr": "Going west looks easy. That's exactly why we won't.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_18_fp.mp3?v=338cefaf"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_19",
@@ -809,23 +917,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "« if hope it be » = Konjunktiv mit vorangestelltem Nomen. « There lies » Inversion. « a road unforeseen » nachgestelltes Partizip. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_19.mp3?v=1b3e1b2f",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Now at this last we must take a hard road, a road unforeseen. There lies our hope, if hope it be.",
     "de": "Nun, zu guter Letzt, müssen wir einen harten Weg nehmen, einen unvorhergesehenen Weg. Dort liegt unsere Hoffnung, wenn es denn Hoffnung ist.",
     "luecke": "There lies our hope, if hope it be",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_19.mp3?v=f871cc3e"
    },
    "zeit": {
     "pc": {
      "fr": "That is where our hope lies, if it can be called hope.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_19_pc.mp3?v=bdb7484e"
     },
     "fp": {
      "fr": "That's our best shot, if you can call it that.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_19_fp.mp3?v=f6c17d3a"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_20",
@@ -837,23 +951,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Objekt-Voranstellung « That we now know ». « too well » = nur zu gut. « Alas, no » = sanfte Absage. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_20.mp3?v=4ce06c14",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Alas, no. We cannot use the Ruling Ring. That we now know too well.",
     "de": "Ach, nein. Wir können den Herrscherring nicht gebrauchen. Das wissen wir jetzt nur zu gut.",
     "luecke": "That we now know too well",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_20.mp3?v=e7856e1e"
    },
    "zeit": {
     "pc": {
      "fr": "We cannot use the Ring. We know that all too well now.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_20_pc.mp3?v=5885e691"
     },
     "fp": {
      "fr": "We can't use the Ring. We know that now, more's the pity.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_20_fp.mp3?v=d1024932"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_21",
@@ -865,23 +985,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Voranstellung « Of folly I would say ». Höflicher Widerspruch: die Kritik wird ausgesprochen und im selben Satz zurückgenommen. Gandalfs Antwort: « Despair, or folly? » Sprecher: Erestor.",
    "audio": "audio/en-de/wendungen/co_21.mp3?v=484638bf",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "That is the path of despair. Of folly I would say, if the long wisdom of Elrond did not forbid me.",
     "de": "Das ist der Weg der Verzweiflung. Der Torheit, würde ich sagen, wenn die lange Weisheit Elronds es mir nicht verböte.",
     "luecke": "Of folly I would say, if the long wisdom of Elrond did not forbid me",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_21.mp3?v=15916ba3"
    },
    "zeit": {
     "pc": {
      "fr": "That is the path of despair. Of folly, I would say, if Elrond's wisdom did not stop me.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_21_pc.mp3?v=8e0da42d"
     },
     "fp": {
      "fr": "That's a counsel of despair. Of madness, I'd say, if Elrond weren't so wise.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_21_fp.mp3?v=6ff34ddd"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_22",
@@ -893,23 +1019,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Passiv-Imperativ « be comforted ». « you know not » = Verneinung ohne do (archaisch). « For » satzeinleitend = denn. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_22.mp3?v=d8a9e208",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Then be comforted. For there are other powers and realms that you know not, and they are hidden from you.",
     "de": "Dann sei getrost. Denn es gibt andere Mächte und Reiche, die du nicht kennst, und sie sind vor dir verborgen.",
     "luecke": "Then be comforted",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_22.mp3?v=c8432f95"
    },
    "zeit": {
     "pc": {
      "fr": "Then take comfort. There are other powers and realms you do not know of.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_22_pc.mp3?v=e0ff251f"
     },
     "fp": {
      "fr": "Then don't worry. There's more out there than you know.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_22_fp.mp3?v=9159e12b"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_23",
@@ -921,23 +1053,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "aright = richtig, recht (archaisch; heute noch: to set things aright). « appointed for you » = dir bestimmt. Schärfung am Ende: « no one will ». Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_23.mp3?v=b4762ef4",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "If I understand aright all that I have heard, I think that this task is appointed for you, Frodo; and that if you do not find a way, no one will.",
     "de": "Wenn ich alles, was ich gehört habe, recht verstehe, so glaube ich, dass diese Aufgabe dir bestimmt ist, Frodo; und dass, wenn du keinen Weg findest, niemand ihn finden wird.",
     "luecke": "If I understand aright",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_23.mp3?v=2ec397ff"
    },
    "zeit": {
     "pc": {
      "fr": "If I have understood all this correctly, I think this task is meant for you, Frodo.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_23_pc.mp3?v=72b6042e"
     },
     "fp": {
      "fr": "If I've got this right, this job's yours, Frodo. And if you can't do it, nobody can.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_23_fp.mp3?v=81bda0fe"
     }
-   }
+   },
+   "syrisch": null
   },
   {
    "id": "co_24",
@@ -949,23 +1087,29 @@ window.SPRACHEN["en-de"] = {
    "notiz": "Spruchweisheit mit Kontrast small / great. « such is oft the course of » = so ist oft der Lauf. Der berühmteste Satz des Kapitels. Sprecher: Elrond.",
    "audio": "audio/en-de/wendungen/co_24.mp3?v=9a3b9358",
    "gloss": null,
+   "umschrift": null,
+   "wurzel": null,
    "satz": {
     "fr": "Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.",
     "de": "Doch so ist oft der Lauf der Taten, die die Räder der Welt bewegen: Kleine Hände tun sie, weil sie müssen, während die Augen der Großen anderswo sind.",
     "luecke": "small hands do them because they must",
     "gloss": null,
+    "umschrift": null,
     "audio": "audio/en-de/saetze/co_24.mp3?v=c743d8de"
    },
    "zeit": {
     "pc": {
      "fr": "That is often how the deeds that move the world are done: by small hands, because they must, while the great are looking elsewhere.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_24_pc.mp3?v=d9defa35"
     },
     "fp": {
      "fr": "That's usually how big things get done: ordinary people do them because they have to, while the important ones aren't looking.",
+     "umschrift": null,
      "audio": "audio/en-de/saetze/co_24_fp.mp3?v=5235f661"
     }
-   }
+   },
+   "syrisch": null
   }
  ],
  "dialoge": [
@@ -979,6 +1123,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "Well met, Ninuivor. Late is the hour, and yet you are not abed.",
      "de": "Sei gegrüßt, Ninuivor. Spät ist die Stunde, und doch bist du nicht zu Bett.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_01.mp3?v=4ecdb1b4"
     },
     {
@@ -986,6 +1131,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "Nor you, Barangollach. The house is full of strangers tonight, and strangers do not sleep easily under Elrond's roof.",
      "de": "Du auch nicht, Barangollach. Das Haus ist heute Nacht voller Fremder, und Fremde schlafen nicht leicht unter Elronds Dach.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_02.mp3?v=c2bd7330"
     },
     {
@@ -993,6 +1139,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "A man of the South came in the grey morning. He seeks for counsel, Elrond says, and carries a horn as if it were his name.",
      "de": "Ein Mann aus dem Süden kam im grauen Morgen. Er sucht Rat, sagt Elrond, und trägt ein Horn, als wäre es sein Name.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_03.mp3?v=bd8870e8"
     },
     {
@@ -1000,6 +1147,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "I saw him. Proud and stern of glance, and stained with long travel. Small wonder it is that he looks at us as at a dream.",
      "de": "Ich habe ihn gesehen. Stolz und streng im Blick, und von langer Reise gezeichnet. Kein Wunder ist es, dass er uns ansieht wie einen Traum.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_04.mp3?v=448619ea"
     },
     {
@@ -1007,6 +1155,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "And Glorfindel rode in three days ago with the halfling across his saddle, and the Nine behind him at the Ford.",
      "de": "Und Glorfindel ritt vor drei Tagen ein, den Halbling quer über dem Sattel, und die Neun hinter ihm an der Furt.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_05.mp3?v=2e8ee3d7"
     },
     {
@@ -1014,6 +1163,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "Of that I will say nothing until the Council has said it. But I deem the morning will be long.",
      "de": "Davon sage ich nichts, bis der Rat es gesagt hat. Doch ich schätze, der Morgen wird lang.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_06.mp3?v=4faceced"
     },
     {
@@ -1021,6 +1171,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "Longer than you think. Elrond means to tell the Tale of the Ring from the beginning, even to this present.",
      "de": "Länger, als du denkst. Elrond will die Geschichte des Ringes von Anfang an erzählen, bis in diese Gegenwart.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_07.mp3?v=0fdc2035"
     },
     {
@@ -1028,6 +1179,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "Then we shall hear of Eregion again, and of Celebrimbor, and of things we would rather had stayed forgotten.",
      "de": "Dann werden wir wieder von Eregion hören, und von Celebrimbor, und von Dingen, die lieber vergessen geblieben wären.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_08.mp3?v=43f7179e"
     },
     {
@@ -1035,6 +1187,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "Would you rather not hear them?",
      "de": "Hörst du sie lieber nicht?",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_09.mp3?v=edd3eeda"
     },
     {
@@ -1042,6 +1195,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "Nay. I would rather hear them in Elrond's voice than learn them from the Enemy. Go to bed, old friend. The bell rings early.",
      "de": "Nein. Lieber höre ich sie in Elronds Stimme, als dass der Feind sie mich lehrt. Geh zu Bett, alter Freund. Die Glocke läutet früh.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d1_10.mp3?v=e17e8348"
     }
    ]
@@ -1056,6 +1210,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "So it is decided. The halfling takes the Ring to the Fire, and he does not know the way.",
      "de": "So ist es entschieden. Der Halbling trägt den Ring zum Feuer, und er kennt den Weg nicht.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_01.mp3?v=8389794d"
     },
     {
@@ -1063,6 +1218,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "Nor does anyone. That we now know too well. Yet Elrond called his choice right, and I have not heard him call a choice right in a thousand years.",
      "de": "Niemand kennt ihn. Das wissen wir jetzt nur zu gut. Doch Elrond nannte seine Wahl richtig, und ich habe ihn seit tausend Jahren keine Wahl richtig nennen hören.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_02.mp3?v=08289658"
     },
     {
@@ -1070,6 +1226,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "You speak for me also. But Gollum has escaped, and Thranduil's folk let him climb trees.",
      "de": "Du sprichst auch für mich. Doch Gollum ist entkommen, und Thranduils Leute ließen ihn auf Bäume klettern.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_03.mp3?v=0394dc10"
     },
     {
@@ -1077,6 +1234,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "Over-kindliness, Legolas said. There are worse faults in these days. I would not have Mirkwood grow hard-hearted to be safe.",
      "de": "Zu viel Güte, sagte Legolas. Es gibt schlimmere Fehler in diesen Tagen. Ich möchte nicht, dass der Düsterwald hartherzig wird, um sicher zu sein.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_04.mp3?v=7d85a30f"
     },
     {
@@ -1084,6 +1242,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "Erestor called it the path of despair.",
      "de": "Erestor nannte es den Weg der Verzweiflung.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_05.mp3?v=d64e9ec9"
     },
     {
@@ -1091,6 +1250,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "Of folly, he would have said, had Elrond not been sitting there. And Mithrandir answered him well: despair is only for those who see the end beyond all doubt.",
      "de": "Der Torheit, hätte er gesagt, hätte Elrond nicht dort gesessen. Und Mithrandir antwortete ihm gut: Verzweiflung ist nur für die, die das Ende ohne jeden Zweifel sehen.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_06.mp3?v=3ee4855f"
     },
     {
@@ -1098,6 +1258,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "And do you see it?",
      "de": "Und siehst du es?",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_07.mp3?v=f379bbc0"
     },
     {
@@ -1105,6 +1266,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "I saw Gondolin fall, Barangollach, and I did not see that coming either. Nay, I see nothing. I only deem that the westward road would have been watched, and that this one will not be.",
      "de": "Ich sah Gondolin fallen, Barangollach, und auch das habe ich nicht kommen sehen. Nein, ich sehe nichts. Ich schätze nur, dass der Weg nach Westen bewacht gewesen wäre, und dass dieser es nicht sein wird.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_08.mp3?v=c2031569"
     },
     {
@@ -1112,6 +1274,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "A",
      "fr": "Then be comforted, as Elrond says.",
      "de": "Dann sei getrost, wie Elrond sagt.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_09.mp3?v=588f30e9"
     },
     {
@@ -1119,6 +1282,7 @@ window.SPRACHEN["en-de"] = {
      "rolle": "B",
      "fr": "I am comforted. Small hands, he said. Ours were never small, and look what we did with them. Come, the stars are out, and they at least are unchanged.",
      "de": "Ich bin getrost. Kleine Hände, sagte er. Unsere waren nie klein, und sieh, was wir damit getan haben. Komm, die Sterne sind heraus, und sie wenigstens sind unverändert.",
+     "umschrift": null,
      "audio": "audio/en-de/dialoge/d2_10.mp3?v=66be0952"
     }
    ]
@@ -1146,6 +1310,7 @@ window.SPRACHEN["en-de"] = {
   "paare": [],
   "beide": []
  },
+ "aussprachen": [],
  "geschichte": [
   {
    "nr": 1,
@@ -1155,60 +1320,70 @@ window.SPRACHEN["en-de"] = {
      "id": "k01_01",
      "fr": "Of the Noldolantë, the Fall of the Noldor, Maglor made a song, and the song is long and **grievous**. But I was there, and this is not his song. Barangollach I am named, a smith of Tirion, and of the following of Finarfin was I; and little is said of such as me in the histories.",
      "de": "Von der Noldolantë, dem Fall der Noldor, hat Maglor ein Lied gemacht, und das Lied ist lang und voller Gram. Doch ich war dabei, und dies ist nicht sein Lied. Barangollach werde ich genannt, ein Schmied aus Tirion, und zur Gefolgschaft Finarfins gehörte ich; und wenig wird von solchen wie mir in den Geschichtsbüchern gesagt.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_01.mp3?v=c486d179"
     },
     {
      "id": "k01_02",
      "fr": "Golden was the light of Laurelin in the hour I remember best, and silver the light of Telperion after it, and the two lights mingled on the stair of Tirion where I stood with my hammer still in my hand. Young was the world, and **unmarred**. We did not know it. None knows the light until the dark.",
      "de": "Golden war das Licht Laurelins in der Stunde, die ich am besten erinnere, und silbern das Licht Telperions danach, und die beiden Lichter mischten sich auf der Treppe von Tirion, wo ich stand, den Hammer noch in der Hand. Jung war die Welt, und unversehrt. Wir wussten es nicht. Niemand kennt das Licht vor der Dunkelheit.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_02.mp3?v=71349545"
     },
     {
      "id": "k01_03",
      "fr": "Then came the Unlight. Of Ungoliant the loremasters have written, and of Melkor, whom thereafter we named Morgoth; I will say only that the dark came not as night comes, but as a **drowning**. The Trees died, and the fountains fell silent, and in the silence we heard for the first time our own hearts.",
      "de": "Dann kam das Unlicht. Von Ungoliant haben die Lehrmeister geschrieben, und von Melkor, den wir seither Morgoth nennen; ich will nur sagen, dass die Dunkelheit nicht kam, wie die Nacht kommt, sondern wie ein Ertrinken. Die Bäume starben, und die Brunnen verstummten, und in der Stille hörten wir zum ersten Mal unsere eigenen Herzen.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_03.mp3?v=1696051d"
     },
     {
      "id": "k01_04",
      "fr": "Fëanor spoke in the great square beneath the Mindon, and fell and **fey** were his words, and fair. I was a smith, and his voice was the voice of the forge. Many wept, and many shouted, and I, Barangollach, shouted with them. Of this I am not proud. But I will not lie about it, for the loremasters lie enough.",
      "de": "Fëanor sprach auf dem großen Platz unter dem Mindon, und grimmig und todgeweiht waren seine Worte, und schön. Ich war ein Schmied, und seine Stimme war die Stimme der Esse. Viele weinten, und viele schrien, und ich, Barangollach, schrie mit ihnen. Darauf bin ich nicht stolz. Doch ich will nicht darüber lügen, denn die Lehrmeister lügen genug.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_04.mp3?v=3286dc55"
     },
     {
      "id": "k01_05",
      "fr": "Seven swore the Oath that night, and the Oath is not mine to repeat. Dreadful it was, and **irrevocable**, and the torches shook as they spoke it. Finarfin did not swear. He stood apart, and his face was grey, and when I looked at him I remembered that I had a house in Tirion, and a bench, and tools, and that I was leaving all of them.",
      "de": "Sieben schworen in jener Nacht den Eid, und der Eid steht mir nicht zu, ihn zu wiederholen. Furchtbar war er, und unwiderruflich, und die Fackeln zitterten, als sie ihn sprachen. Finarfin schwor nicht. Er stand abseits, und sein Gesicht war grau, und als ich ihn ansah, fiel mir ein, dass ich ein Haus in Tirion hatte, und eine Werkbank, und Werkzeug, und dass ich das alles verließ.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_05.mp3?v=4d123da1"
     },
     {
      "id": "k01_06",
      "fr": "Of Alqualondë I will say this and no more: there was blood on the quays, and it was not only the blood of the Teleri. I did not draw a sword. I held a torch, and by its light I saw what I saw. There are deeds that a **craftsman** cannot unmake, and that was the first I learned of them.",
      "de": "Von Alqualondë will ich dies sagen und nicht mehr: Es war Blut auf den Kais, und es war nicht nur das Blut der Teleri. Ich zog kein Schwert. Ich hielt eine Fackel, und in ihrem Licht sah ich, was ich sah. Es gibt Taten, die ein Handwerker nicht rückgängig machen kann, und das war die erste, von der ich es lernte.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_06.mp3?v=44e2b28b"
     },
     {
      "id": "k01_07",
      "fr": "Then came the Doom, spoken from the north; and the Doom of Mandos is written in the histories, word for word, and I will not set it here. Finarfin turned back. Many of his people turned back with him. I did not. **Stubborn** are the Noldor, and I was young, and my hammer was heavy, and I did not wish to carry it home again in shame.",
      "de": "Dann kam das Urteil, gesprochen aus dem Norden; und das Urteil des Mandos steht in den Geschichtsbüchern, Wort für Wort, und ich setze es hier nicht hin. Finarfin kehrte um. Viele seiner Leute kehrten mit ihm um. Ich nicht. Starrsinnig sind die Noldor, und ich war jung, und mein Hammer war schwer, und ich wollte ihn nicht in Schande wieder nach Hause tragen.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_07.mp3?v=f8d72355"
     },
     {
      "id": "k01_08",
      "fr": "Of the ships I will say that they burned, and that we on the far shore saw the light of them across the water, and understood. Cold was that understanding, and colder yet was the road that remained. Fingolfin led us. Northward he led us, to the Helcaraxë, the **Grinding** Ice.",
      "de": "Von den Schiffen will ich sagen, dass sie brannten, und dass wir am fernen Ufer ihr Licht über das Wasser sahen und verstanden. Kalt war dieses Verstehen, und kälter noch war der Weg, der blieb. Fingolfin führte uns. Nordwärts führte er uns, zur Helcaraxë, dem Mahlenden Eis.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_08.mp3?v=d225ced7"
     },
     {
      "id": "k01_09",
      "fr": "Of the Ice I cannot write. Those who crossed it do not speak of it, and those who did not cross it should not. I will say that Elenwë was lost there, and that I carried a child for three days who was not mine, and that when we came at last to the land of the Sun's first rising I set down the child and wept, and the child, who was of the Noldor, did not.",
      "de": "Vom Eis kann ich nicht schreiben. Die es überquerten, sprechen nicht davon, und die es nicht überquerten, sollten es nicht. Ich will sagen, dass Elenwë dort verloren ging, und dass ich drei Tage lang ein Kind trug, das nicht meines war, und dass ich, als wir endlich in das Land des ersten Sonnenaufgangs kamen, das Kind absetzte und weinte, und das Kind, das von den Noldor war, weinte nicht.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_09.mp3?v=51670c5e"
     },
     {
      "id": "k01_10",
      "fr": "So we came to Middle-earth, under the first Sun; and the Moon rose before us, and the hosts of Morgoth fled from the light. Hithlum lay before us, and the lake of Mithrim, and beyond them a land we did not yet know how to name. Beleriand it was. Long would be our road in it, and this chronicle is the tale of mine.",
      "de": "So kamen wir nach Mittelerde, unter der ersten Sonne; und der Mond ging vor uns auf, und die Heere Morgoths flohen vor dem Licht. Hithlum lag vor uns, und der See von Mithrim, und dahinter ein Land, das wir noch nicht zu benennen wussten. Beleriand war es. Lang würde unser Weg darin sein, und diese Chronik ist die Erzählung des meinen.",
+     "umschrift": null,
      "audio": "audio/en-de/geschichte/k01_10.mp3?v=03a74b8b"
     }
    ]
