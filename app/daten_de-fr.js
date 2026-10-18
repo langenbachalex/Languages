@@ -9188,6 +9188,8 @@ window.SPRACHEN["de-fr"] = {
   }
  ],
  "grammatik": [],
+ "anekdoten": [],
+ "anekdoten_info": {},
  "geschichte_info": {
   "titel": "Das Geheimnis der Völklinger Hütte",
   "unter": "Lena Becker, Lehrerin in Saarbrücken – eine Eintrittskarte, eine Tür, die es nicht gibt, eine Katze, die Bescheid weiß.",

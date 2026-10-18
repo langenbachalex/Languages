@@ -84,6 +84,16 @@ window.SPRACHEN["tr-de"] = {
   "falsch": "Hayır – tekrar dene.",
   "satz_n": "{n}. cümle",
   "kapitel_zahl": "{frei} / {alle} bölüm · her mükemmel haftada bir yenisi",
+  "anekdote": "Fıkra {n}",
+  "anekdoten_zahl": "{frei} / {alle} fıkra · her biten konuda bir yenisi",
+  "anekdote_naechste": [
+   "Sonraki fıkra, bir sonraki bitirdiğin konuyla açılır.",
+   "Die nächste Anekdote kommt mit deinem nächsten fertigen Thema."
+  ],
+  "anekdote_ende": [
+   "Hoca'nın fıkraları bitti – şimdilik.",
+   "Die Anekdoten des Hodschas sind zu Ende – vorerst."
+  ],
   "stand": [
    "Kutunda {n} ifade · {fest} iyice yerleşti · {orte} / {alle} yer gezildi",
    "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"
@@ -11385,6 +11395,629 @@ window.SPRACHEN["tr-de"] = {
    ]
   }
  ],
+ "anekdoten": [
+  {
+   "nr": 1,
+   "titel": "Ya tutarsa!",
+   "absaetze": [
+    {
+     "id": "a01_01",
+     "fr": "Bir gün Nasreddin Hoca göl kenarında oturuyormuş.",
+     "de": "Eines Tages saß Nasreddin Hodscha am Ufer des Sees.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a01_01.mp3?v=c7029cd3"
+    },
+    {
+     "id": "a01_02",
+     "fr": "Elinde bir kâse yoğurt mayası varmış.",
+     "de": "In der Hand hatte er eine Schale Joghurtferment.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a01_02.mp3?v=c4117381"
+    },
+    {
+     "id": "a01_03",
+     "fr": "Mayayı yavaş yavaş göle dökmeye başlamış.",
+     "de": "Er begann, das Ferment langsam in den See zu gießen.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a01_03.mp3?v=09d031c0"
+    },
+    {
+     "id": "a01_04",
+     "fr": "Komşusu bunu görünce sormuş: « Hocam, ne yapıyorsun? »",
+     "de": "Als sein Nachbar das sah, fragte er: « Hodscha, was machst du da? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a01_04.mp3?v=ff60837d"
+    },
+    {
+     "id": "a01_05",
+     "fr": "Hoca cevap vermiş: « Gölü mayalıyorum. »",
+     "de": "Der Hodscha antwortete: « Ich lasse den See zu Joghurt werden. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a01_05.mp3?v=1934ae34"
+    },
+    {
+     "id": "a01_06",
+     "fr": "« Hocam, hiç göl mayalanır mı? »",
+     "de": "« Hodscha, wird denn je ein See zu Joghurt? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a01_06.mp3?v=6b60b467"
+    },
+    {
+     "id": "a01_07",
+     "fr": "Hoca gülümsemiş: « Biliyorum, tutmaz. »",
+     "de": "Der Hodscha lächelte: « Ich weiß, es klappt nicht. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a01_07.mp3?v=ede5cc7d"
+    },
+    {
+     "id": "a01_08",
+     "fr": "« Ama ya tutarsa! »",
+     "de": "« Aber wenn es doch klappt! »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a01_08.mp3?v=d7feeb9f"
+    }
+   ]
+  },
+  {
+   "nr": 2,
+   "titel": "Kazan doğurdu",
+   "absaetze": [
+    {
+     "id": "a02_01",
+     "fr": "Hoca bir gün komşusundan büyük bir kazan ödünç almış.",
+     "de": "Der Hodscha lieh sich eines Tages vom Nachbarn einen großen Kessel.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_01.mp3?v=622570a5"
+    },
+    {
+     "id": "a02_02",
+     "fr": "Birkaç gün sonra kazanı geri götürmüş, içine küçük bir tencere koymuş.",
+     "de": "Ein paar Tage später brachte er den Kessel zurück, mit einem kleinen Topf darin.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_02.mp3?v=791af79c"
+    },
+    {
+     "id": "a02_03",
+     "fr": "Komşu sormuş: « Bu tencere ne? »",
+     "de": "Der Nachbar fragte: « Was soll der Topf? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_03.mp3?v=8ae0968b"
+    },
+    {
+     "id": "a02_04",
+     "fr": "Hoca demiş: « Kazanın doğurdu. Tencere senin hakkın. »",
+     "de": "Der Hodscha sagte: « Dein Kessel hat geboren. Der Topf gehört dir. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_04.mp3?v=8f5fcfeb"
+    },
+    {
+     "id": "a02_05",
+     "fr": "Komşu sevinmiş, tencereyi almış.",
+     "de": "Der Nachbar freute sich und nahm den Topf.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_05.mp3?v=fd609953"
+    },
+    {
+     "id": "a02_06",
+     "fr": "Bir hafta sonra Hoca kazanı yine istemiş. Komşu seve seve vermiş.",
+     "de": "Eine Woche später wollte der Hodscha den Kessel wieder. Der Nachbar gab ihn gern.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_06.mp3?v=7fa43911"
+    },
+    {
+     "id": "a02_07",
+     "fr": "Ama bu kez kazan geri gelmemiş. Komşu kapıya dayanmış: « Kazanım nerede? »",
+     "de": "Doch diesmal kam der Kessel nicht zurück. Der Nachbar stand vor der Tür: « Wo ist mein Kessel? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_07.mp3?v=86dd9fd8"
+    },
+    {
+     "id": "a02_08",
+     "fr": "Hoca üzgün üzgün demiş: « Başın sağ olsun, kazanın öldü. »",
+     "de": "Der Hodscha sagte traurig: « Mein Beileid, dein Kessel ist gestorben. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_08.mp3?v=11fd0dcc"
+    },
+    {
+     "id": "a02_09",
+     "fr": "« Hocam, hiç kazan ölür mü? » – « Doğurduğuna inandın, öldüğüne neden inanmıyorsun? »",
+     "de": "« Hodscha, stirbt denn je ein Kessel? » – « Dass er geboren hat, hast du geglaubt. Warum glaubst du nicht, dass er gestorben ist? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a02_09.mp3?v=707a8165"
+    }
+   ]
+  },
+  {
+   "nr": 3,
+   "titel": "Eşeğe ters binmek",
+   "absaetze": [
+    {
+     "id": "a03_01",
+     "fr": "Hoca bir gün eşeğine ters binmiş, yüzü arkaya dönük.",
+     "de": "Eines Tages saß der Hodscha verkehrt herum auf seinem Esel, mit dem Gesicht nach hinten.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a03_01.mp3?v=4d53d40b"
+    },
+    {
+     "id": "a03_02",
+     "fr": "Öğrencileri arkasından yürüyormuş.",
+     "de": "Seine Schüler gingen hinter ihm her.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a03_02.mp3?v=be0c0ede"
+    },
+    {
+     "id": "a03_03",
+     "fr": "Çocuklar gülmüş: « Hocam, neden ters biniyorsun? »",
+     "de": "Die Kinder lachten: « Hodscha, warum sitzt du verkehrt herum? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a03_03.mp3?v=c746eb88"
+    },
+    {
+     "id": "a03_04",
+     "fr": "Hoca ciddi ciddi cevap vermiş: « Ters binmiyorum. »",
+     "de": "Der Hodscha antwortete ernst: « Ich sitze nicht verkehrt herum. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a03_04.mp3?v=9a24d139"
+    },
+    {
+     "id": "a03_05",
+     "fr": "« Siz arkamda yürüyorsunuz. Ben size bakıyorum. »",
+     "de": "« Ihr geht hinter mir. Ich schaue euch an. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a03_05.mp3?v=c48e223c"
+    },
+    {
+     "id": "a03_06",
+     "fr": "« Düz binsem size sırtımı dönmüş olurum. Bu ayıp olur. »",
+     "de": "« Säße ich richtig, würde ich euch den Rücken zukehren. Das wäre unhöflich. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a03_06.mp3?v=3b9db497"
+    },
+    {
+     "id": "a03_07",
+     "fr": "« Ters bindim, hepinizi görüyorum. Kim geride kalıyor, kim kaçıyor. »",
+     "de": "« So sehe ich euch alle. Wer zurückbleibt, wer abhaut. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a03_07.mp3?v=19fad468"
+    },
+    {
+     "id": "a03_08",
+     "fr": "Öğrenciler o günden sonra geride kalmamış.",
+     "de": "Von dem Tag an blieb kein Schüler mehr zurück.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a03_08.mp3?v=1bc75396"
+    }
+   ]
+  },
+  {
+   "nr": 4,
+   "titel": "Parayı veren düdüğü çalar",
+   "absaetze": [
+    {
+     "id": "a04_01",
+     "fr": "Hoca pazara gidiyormuş. Mahallenin çocukları etrafını sarmış.",
+     "de": "Der Hodscha ging zum Markt. Die Kinder des Viertels umringten ihn.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a04_01.mp3?v=0dc423c7"
+    },
+    {
+     "id": "a04_02",
+     "fr": "« Hocam, bana düdük al! » – « Bana da! » – « Bana da! »",
+     "de": "« Hodscha, kauf mir eine Pfeife! » – « Mir auch! » – « Mir auch! »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a04_02.mp3?v=97825635"
+    },
+    {
+     "id": "a04_03",
+     "fr": "Sadece bir çocuk Hoca'ya para uzatmış: « Hocam, bu parayla bana bir düdük al. »",
+     "de": "Nur ein Kind gab dem Hodscha Geld: « Hodscha, kauf mir von diesem Geld eine Pfeife. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a04_03.mp3?v=f3493a36"
+    },
+    {
+     "id": "a04_04",
+     "fr": "Hoca pazardan dönmüş. Çocuklar koşmuş: « Düdüğümüz nerede? »",
+     "de": "Der Hodscha kam vom Markt zurück. Die Kinder rannten: « Wo sind unsere Pfeifen? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a04_04.mp3?v=545de099"
+    },
+    {
+     "id": "a04_05",
+     "fr": "Hoca cebinden tek bir düdük çıkarmış, para veren çocuğa uzatmış.",
+     "de": "Der Hodscha holte eine einzige Pfeife aus der Tasche und gab sie dem Kind, das bezahlt hatte.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a04_05.mp3?v=54b0d0b3"
+    },
+    {
+     "id": "a04_06",
+     "fr": "Diğer çocuklar bağırmış: « Ya bizimki? »",
+     "de": "Die anderen schrien: « Und unsere? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a04_06.mp3?v=3d69c0ae"
+    },
+    {
+     "id": "a04_07",
+     "fr": "Hoca omuz silkmiş: « Parayı veren düdüğü çalar. »",
+     "de": "Der Hodscha zuckte mit den Schultern: « Wer bezahlt, spielt die Pfeife. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a04_07.mp3?v=e8c96381"
+    },
+    {
+     "id": "a04_08",
+     "fr": "Bu söz bugün hâlâ kullanılır.",
+     "de": "Diesen Satz benutzt man heute noch.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a04_08.mp3?v=6738add0"
+    }
+   ]
+  },
+  {
+   "nr": 5,
+   "titel": "Ye kürküm ye",
+   "absaetze": [
+    {
+     "id": "a05_01",
+     "fr": "Hoca bir düğüne davet edilmiş. Eski elbiseleriyle gitmiş.",
+     "de": "Der Hodscha war zu einer Hochzeit eingeladen. Er ging in seinen alten Kleidern.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a05_01.mp3?v=60d3985c"
+    },
+    {
+     "id": "a05_02",
+     "fr": "Kimse ona yer göstermemiş, kimse yemek vermemiş.",
+     "de": "Niemand bot ihm einen Platz an, niemand gab ihm Essen.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a05_02.mp3?v=97ee1fdf"
+    },
+    {
+     "id": "a05_03",
+     "fr": "Hoca eve dönmüş, en güzel kürkünü giymiş, düğüne geri gelmiş.",
+     "de": "Der Hodscha ging heim, zog seinen schönsten Pelz an und kam zurück.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a05_03.mp3?v=20b47312"
+    },
+    {
+     "id": "a05_04",
+     "fr": "Bu kez herkes ayağa kalkmış: « Buyurun Hocam, baş köşeye! »",
+     "de": "Diesmal standen alle auf: « Bitte, Hodscha, auf den Ehrenplatz! »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a05_04.mp3?v=2806c02e"
+    },
+    {
+     "id": "a05_05",
+     "fr": "Önüne en güzel yemekleri koymuşlar.",
+     "de": "Man stellte ihm die besten Speisen hin.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a05_05.mp3?v=5def4a30"
+    },
+    {
+     "id": "a05_06",
+     "fr": "Hoca kürkünün kolunu çorbaya batırmış: « Ye kürküm ye! »",
+     "de": "Der Hodscha tauchte den Ärmel seines Pelzes in die Suppe: « Iss, mein Pelz, iss! »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a05_06.mp3?v=bf6da1fb"
+    },
+    {
+     "id": "a05_07",
+     "fr": "Herkes şaşırmış: « Hocam, ne yapıyorsun? »",
+     "de": "Alle staunten: « Hodscha, was tust du? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a05_07.mp3?v=1e1385a3"
+    },
+    {
+     "id": "a05_08",
+     "fr": "« Bu ikram bana değil, kürküme. Öyleyse kürküm yesin. »",
+     "de": "« Diese Bewirtung gilt nicht mir, sondern meinem Pelz. Also soll mein Pelz essen. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a05_08.mp3?v=64b583d1"
+    }
+   ]
+  },
+  {
+   "nr": 6,
+   "titel": "Dünyanın merkezi",
+   "absaetze": [
+    {
+     "id": "a06_01",
+     "fr": "Bir gün bilgiç bir adam Hoca'ya sormuş: « Dünyanın merkezi neresidir? »",
+     "de": "Eines Tages fragte ein Besserwisser den Hodscha: « Wo ist der Mittelpunkt der Welt? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a06_01.mp3?v=346a8451"
+    },
+    {
+     "id": "a06_02",
+     "fr": "Hoca hiç düşünmeden eşeğini göstermiş.",
+     "de": "Der Hodscha zeigte ohne nachzudenken auf seinen Esel.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a06_02.mp3?v=e267fca6"
+    },
+    {
+     "id": "a06_03",
+     "fr": "« Eşeğimin ön ayağının bastığı yer. »",
+     "de": "« Die Stelle, auf der der Vorderfuß meines Esels steht. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a06_03.mp3?v=f56e9e93"
+    },
+    {
+     "id": "a06_04",
+     "fr": "Adam itiraz etmiş: « Bunu nasıl ispat edersin? »",
+     "de": "Der Mann widersprach: « Wie willst du das beweisen? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a06_04.mp3?v=d5732af5"
+    },
+    {
+     "id": "a06_05",
+     "fr": "Hoca sakin sakin demiş: « İnanmıyorsan ölç. »",
+     "de": "Der Hodscha sagte ruhig: « Wenn du es nicht glaubst, miss nach. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a06_05.mp3?v=35ef819a"
+    },
+    {
+     "id": "a06_06",
+     "fr": "Adam susmuş. Ölçecek ipi yokmuş.",
+     "de": "Der Mann verstummte. Er hatte kein Seil zum Messen.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a06_06.mp3?v=3dd923bc"
+    },
+    {
+     "id": "a06_07",
+     "fr": "Hoca eklemiş: « Gökteki yıldızları da sayabilirim. Eşeğimin kılları kadar. »",
+     "de": "Der Hodscha fügte hinzu: « Die Sterne am Himmel kann ich auch zählen. So viele wie die Haare meines Esels. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a06_07.mp3?v=0f31ec2e"
+    },
+    {
+     "id": "a06_08",
+     "fr": "« İnanmıyorsan, say. »",
+     "de": "« Wenn du es nicht glaubst, zähl nach. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a06_08.mp3?v=f57df77b"
+    }
+   ]
+  },
+  {
+   "nr": 7,
+   "titel": "İpe un sermek",
+   "absaetze": [
+    {
+     "id": "a07_01",
+     "fr": "Komşusu Hoca'nın kapısını çalmış: « Hocam, çamaşır ipini verir misin? »",
+     "de": "Der Nachbar klopfte an die Tür des Hodschas: « Hodscha, leihst du mir deine Wäscheleine? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a07_01.mp3?v=de81087c"
+    },
+    {
+     "id": "a07_02",
+     "fr": "Hoca içeri girmiş, bir süre sonra dönmüş.",
+     "de": "Der Hodscha ging hinein und kam nach einer Weile zurück.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a07_02.mp3?v=7cb922ab"
+    },
+    {
+     "id": "a07_03",
+     "fr": "« Kusura bakma, ipe un serdik. »",
+     "de": "« Tut mir leid, wir haben Mehl auf der Leine ausgebreitet. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a07_03.mp3?v=1a6893a7"
+    },
+    {
+     "id": "a07_04",
+     "fr": "Komşu şaşırmış: « Hocam, ipe un serilir mi? »",
+     "de": "Der Nachbar staunte: « Hodscha, kann man denn Mehl auf einer Leine ausbreiten? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a07_04.mp3?v=3fb395e7"
+    },
+    {
+     "id": "a07_05",
+     "fr": "Hoca kapıyı yavaşça kapatırken demiş:",
+     "de": "Der Hodscha sagte, während er die Tür langsam schloss:",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a07_05.mp3?v=90451e3e"
+    },
+    {
+     "id": "a07_06",
+     "fr": "« Vermeye gönlüm olmayınca serilir. »",
+     "de": "« Wenn ich keine Lust habe, sie zu verleihen, dann ja. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a07_06.mp3?v=d31bafe8"
+    },
+    {
+     "id": "a07_07",
+     "fr": "Türkçede « ipe un sermek » bugün « bahane bulmak » demektir.",
+     "de": "Im Türkischen heißt « Mehl auf die Leine breiten » heute « Ausreden suchen ».",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a07_07.mp3?v=16cc0f0d"
+    }
+   ]
+  },
+  {
+   "nr": 8,
+   "titel": "Hırsızın hiç mi suçu yok?",
+   "absaetze": [
+    {
+     "id": "a08_01",
+     "fr": "Bir gece Hoca'nın evine hırsız girmiş.",
+     "de": "Eines Nachts brach ein Dieb in das Haus des Hodschas ein.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a08_01.mp3?v=0f2cbfb0"
+    },
+    {
+     "id": "a08_02",
+     "fr": "Sabah bütün komşular toplanmış, Hoca'ya akıl vermiş.",
+     "de": "Am Morgen versammelten sich alle Nachbarn und gaben dem Hodscha Ratschläge.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a08_02.mp3?v=6cff7afb"
+    },
+    {
+     "id": "a08_03",
+     "fr": "« Hocam, kapıyı neden kilitlemedin? »",
+     "de": "« Hodscha, warum hast du die Tür nicht abgeschlossen? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a08_03.mp3?v=221303bd"
+    },
+    {
+     "id": "a08_04",
+     "fr": "« Hocam, neden bu kadar derin uyudun? »",
+     "de": "« Hodscha, warum hast du so tief geschlafen? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a08_04.mp3?v=f3c591c7"
+    },
+    {
+     "id": "a08_05",
+     "fr": "« Hocam, altınları neden evde sakladın? »",
+     "de": "« Hodscha, warum hast du das Gold zu Hause versteckt? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a08_05.mp3?v=c248633c"
+    },
+    {
+     "id": "a08_06",
+     "fr": "Hoca sonunda dayanamamış:",
+     "de": "Der Hodscha hielt es schließlich nicht mehr aus:",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a08_06.mp3?v=bd04ffb2"
+    },
+    {
+     "id": "a08_07",
+     "fr": "« İyi de komşular, hırsızın hiç mi suçu yok? »",
+     "de": "« Schön und gut, Nachbarn, aber hat der Dieb gar keine Schuld? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a08_07.mp3?v=87314321"
+    }
+   ]
+  },
+  {
+   "nr": 9,
+   "titel": "Bindiği dalı kesmek",
+   "absaetze": [
+    {
+     "id": "a09_01",
+     "fr": "Hoca bir ağaca çıkmış, oturduğu dalı kesiyormuş.",
+     "de": "Der Hodscha war auf einen Baum geklettert und sägte an dem Ast, auf dem er saß.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a09_01.mp3?v=5894f548"
+    },
+    {
+     "id": "a09_02",
+     "fr": "Yoldan geçen biri seslenmiş: « Hocam, düşeceksin! »",
+     "de": "Ein Vorbeigehender rief: « Hodscha, du wirst fallen! »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a09_02.mp3?v=8bfb0244"
+    },
+    {
+     "id": "a09_03",
+     "fr": "Hoca aldırmamış: « Sen işine bak. »",
+     "de": "Der Hodscha kümmerte sich nicht darum: « Geh deiner Arbeit nach. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a09_03.mp3?v=37c0cbcd"
+    },
+    {
+     "id": "a09_04",
+     "fr": "Biraz sonra dal kırılmış, Hoca yere düşmüş.",
+     "de": "Kurz darauf brach der Ast, und der Hodscha fiel zu Boden.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a09_04.mp3?v=ea8308a2"
+    },
+    {
+     "id": "a09_05",
+     "fr": "Hemen adamın arkasından koşmuş: « Dur! Sen geleceği biliyorsun! »",
+     "de": "Sofort rannte er dem Mann hinterher: « Halt! Du kennst die Zukunft! »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a09_05.mp3?v=1866cb59"
+    },
+    {
+     "id": "a09_06",
+     "fr": "« Düşeceğimi bildin. Söyle, ne zaman öleceğim? »",
+     "de": "« Du wusstest, dass ich falle. Sag mir, wann werde ich sterben? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a09_06.mp3?v=d8c213b9"
+    },
+    {
+     "id": "a09_07",
+     "fr": "Adam kurtulmak için demiş: « Eşeğin üç kere anırınca. »",
+     "de": "Der Mann sagte, um ihn loszuwerden: « Wenn dein Esel dreimal schreit. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a09_07.mp3?v=5604448d"
+    },
+    {
+     "id": "a09_08",
+     "fr": "Eşek üç kere anırmış. Hoca yere yatmış: « Öldüm. » Bu başka bir fıkra.",
+     "de": "Der Esel schrie dreimal. Der Hodscha legte sich hin: « Ich bin tot. » Das ist eine andere Anekdote.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a09_08.mp3?v=cf38411a"
+    }
+   ]
+  },
+  {
+   "nr": 10,
+   "titel": "Göl, kedi ve ciğer",
+   "absaetze": [
+    {
+     "id": "a10_01",
+     "fr": "Hoca pazardan bir kilo ciğer almış, eve getirmiş.",
+     "de": "Der Hodscha kaufte auf dem Markt ein Kilo Leber und brachte sie heim.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a10_01.mp3?v=faa85085"
+    },
+    {
+     "id": "a10_02",
+     "fr": "Karısı ciğeri pişirmiş, ama komşularıyla yemiş.",
+     "de": "Seine Frau kochte die Leber, aß sie aber mit den Nachbarinnen.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a10_02.mp3?v=da9e616c"
+    },
+    {
+     "id": "a10_03",
+     "fr": "Akşam Hoca'ya demiş: « Ciğeri kedi yedi. »",
+     "de": "Am Abend sagte sie zum Hodscha: « Die Katze hat die Leber gefressen. »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a10_03.mp3?v=d742765b"
+    },
+    {
+     "id": "a10_04",
+     "fr": "Hoca kediyi yakalamış, teraziye koymuş: tam bir kilo.",
+     "de": "Der Hodscha fing die Katze und setzte sie auf die Waage: genau ein Kilo.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a10_04.mp3?v=fa8c25e9"
+    },
+    {
+     "id": "a10_05",
+     "fr": "Hoca düşünmüş, sonra sormuş:",
+     "de": "Der Hodscha überlegte und fragte dann:",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a10_05.mp3?v=ff7a4d4b"
+    },
+    {
+     "id": "a10_06",
+     "fr": "« Hanım, bu kediyse ciğer nerede? »",
+     "de": "« Frau, wenn das die Katze ist, wo ist die Leber? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a10_06.mp3?v=23170499"
+    },
+    {
+     "id": "a10_07",
+     "fr": "« Yok, bu ciğerse kedi nerede? »",
+     "de": "« Und wenn das die Leber ist, wo ist die Katze? »",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a10_07.mp3?v=0504f4c2"
+    },
+    {
+     "id": "a10_08",
+     "fr": "Kedi bir şey dememiş. Kediler hiçbir zaman bir şey demez.",
+     "de": "Die Katze sagte nichts. Katzen sagen nie etwas.",
+     "umschrift": null,
+     "audio": "audio/tr-de/anekdoten/a10_08.mp3?v=56735879"
+    }
+   ]
+  }
+ ],
+ "anekdoten_info": {
+  "titel": "Nasreddin Hoca fıkraları",
+  "unter": "On fıkra: eşek, kazan, göl ve dünyanın merkezi. Her biten konuda bir fıkra.",
+  "sammlung": [
+   "Her biten konu bir fıkra açar.",
+   "Jedes fertige Thema schaltet eine Anekdote frei."
+  ]
+ },
  "geschichte_info": {
   "titel": "Boğaz'ın sırrı",
   "unter": "İstanbul'da bir öğretmen, bir vapur bileti ve her şeyi bilen bir kedi.",
@@ -13243,6 +13876,85 @@ window.SPRACHEN["tr-de"] = {
   ]
  },
  "audio_liste": [
+  "audio/tr-de/anekdoten/a01_01.mp3?v=c7029cd3",
+  "audio/tr-de/anekdoten/a01_02.mp3?v=c4117381",
+  "audio/tr-de/anekdoten/a01_03.mp3?v=09d031c0",
+  "audio/tr-de/anekdoten/a01_04.mp3?v=ff60837d",
+  "audio/tr-de/anekdoten/a01_05.mp3?v=1934ae34",
+  "audio/tr-de/anekdoten/a01_06.mp3?v=6b60b467",
+  "audio/tr-de/anekdoten/a01_07.mp3?v=ede5cc7d",
+  "audio/tr-de/anekdoten/a01_08.mp3?v=d7feeb9f",
+  "audio/tr-de/anekdoten/a02_01.mp3?v=622570a5",
+  "audio/tr-de/anekdoten/a02_02.mp3?v=791af79c",
+  "audio/tr-de/anekdoten/a02_03.mp3?v=8ae0968b",
+  "audio/tr-de/anekdoten/a02_04.mp3?v=8f5fcfeb",
+  "audio/tr-de/anekdoten/a02_05.mp3?v=fd609953",
+  "audio/tr-de/anekdoten/a02_06.mp3?v=7fa43911",
+  "audio/tr-de/anekdoten/a02_07.mp3?v=86dd9fd8",
+  "audio/tr-de/anekdoten/a02_08.mp3?v=11fd0dcc",
+  "audio/tr-de/anekdoten/a02_09.mp3?v=707a8165",
+  "audio/tr-de/anekdoten/a03_01.mp3?v=4d53d40b",
+  "audio/tr-de/anekdoten/a03_02.mp3?v=be0c0ede",
+  "audio/tr-de/anekdoten/a03_03.mp3?v=c746eb88",
+  "audio/tr-de/anekdoten/a03_04.mp3?v=9a24d139",
+  "audio/tr-de/anekdoten/a03_05.mp3?v=c48e223c",
+  "audio/tr-de/anekdoten/a03_06.mp3?v=3b9db497",
+  "audio/tr-de/anekdoten/a03_07.mp3?v=19fad468",
+  "audio/tr-de/anekdoten/a03_08.mp3?v=1bc75396",
+  "audio/tr-de/anekdoten/a04_01.mp3?v=0dc423c7",
+  "audio/tr-de/anekdoten/a04_02.mp3?v=97825635",
+  "audio/tr-de/anekdoten/a04_03.mp3?v=f3493a36",
+  "audio/tr-de/anekdoten/a04_04.mp3?v=545de099",
+  "audio/tr-de/anekdoten/a04_05.mp3?v=54b0d0b3",
+  "audio/tr-de/anekdoten/a04_06.mp3?v=3d69c0ae",
+  "audio/tr-de/anekdoten/a04_07.mp3?v=e8c96381",
+  "audio/tr-de/anekdoten/a04_08.mp3?v=6738add0",
+  "audio/tr-de/anekdoten/a05_01.mp3?v=60d3985c",
+  "audio/tr-de/anekdoten/a05_02.mp3?v=97ee1fdf",
+  "audio/tr-de/anekdoten/a05_03.mp3?v=20b47312",
+  "audio/tr-de/anekdoten/a05_04.mp3?v=2806c02e",
+  "audio/tr-de/anekdoten/a05_05.mp3?v=5def4a30",
+  "audio/tr-de/anekdoten/a05_06.mp3?v=bf6da1fb",
+  "audio/tr-de/anekdoten/a05_07.mp3?v=1e1385a3",
+  "audio/tr-de/anekdoten/a05_08.mp3?v=64b583d1",
+  "audio/tr-de/anekdoten/a06_01.mp3?v=346a8451",
+  "audio/tr-de/anekdoten/a06_02.mp3?v=e267fca6",
+  "audio/tr-de/anekdoten/a06_03.mp3?v=f56e9e93",
+  "audio/tr-de/anekdoten/a06_04.mp3?v=d5732af5",
+  "audio/tr-de/anekdoten/a06_05.mp3?v=35ef819a",
+  "audio/tr-de/anekdoten/a06_06.mp3?v=3dd923bc",
+  "audio/tr-de/anekdoten/a06_07.mp3?v=0f31ec2e",
+  "audio/tr-de/anekdoten/a06_08.mp3?v=f57df77b",
+  "audio/tr-de/anekdoten/a07_01.mp3?v=de81087c",
+  "audio/tr-de/anekdoten/a07_02.mp3?v=7cb922ab",
+  "audio/tr-de/anekdoten/a07_03.mp3?v=1a6893a7",
+  "audio/tr-de/anekdoten/a07_04.mp3?v=3fb395e7",
+  "audio/tr-de/anekdoten/a07_05.mp3?v=90451e3e",
+  "audio/tr-de/anekdoten/a07_06.mp3?v=d31bafe8",
+  "audio/tr-de/anekdoten/a07_07.mp3?v=16cc0f0d",
+  "audio/tr-de/anekdoten/a08_01.mp3?v=0f2cbfb0",
+  "audio/tr-de/anekdoten/a08_02.mp3?v=6cff7afb",
+  "audio/tr-de/anekdoten/a08_03.mp3?v=221303bd",
+  "audio/tr-de/anekdoten/a08_04.mp3?v=f3c591c7",
+  "audio/tr-de/anekdoten/a08_05.mp3?v=c248633c",
+  "audio/tr-de/anekdoten/a08_06.mp3?v=bd04ffb2",
+  "audio/tr-de/anekdoten/a08_07.mp3?v=87314321",
+  "audio/tr-de/anekdoten/a09_01.mp3?v=5894f548",
+  "audio/tr-de/anekdoten/a09_02.mp3?v=8bfb0244",
+  "audio/tr-de/anekdoten/a09_03.mp3?v=37c0cbcd",
+  "audio/tr-de/anekdoten/a09_04.mp3?v=ea8308a2",
+  "audio/tr-de/anekdoten/a09_05.mp3?v=1866cb59",
+  "audio/tr-de/anekdoten/a09_06.mp3?v=d8c213b9",
+  "audio/tr-de/anekdoten/a09_07.mp3?v=5604448d",
+  "audio/tr-de/anekdoten/a09_08.mp3?v=cf38411a",
+  "audio/tr-de/anekdoten/a10_01.mp3?v=faa85085",
+  "audio/tr-de/anekdoten/a10_02.mp3?v=da9e616c",
+  "audio/tr-de/anekdoten/a10_03.mp3?v=d742765b",
+  "audio/tr-de/anekdoten/a10_04.mp3?v=fa8c25e9",
+  "audio/tr-de/anekdoten/a10_05.mp3?v=ff7a4d4b",
+  "audio/tr-de/anekdoten/a10_06.mp3?v=23170499",
+  "audio/tr-de/anekdoten/a10_07.mp3?v=0504f4c2",
+  "audio/tr-de/anekdoten/a10_08.mp3?v=56735879",
   "audio/tr-de/dialoge/d0a_01.mp3?v=339587fd",
   "audio/tr-de/dialoge/d0a_02.mp3?v=fd6ae590",
   "audio/tr-de/dialoge/d0a_03.mp3?v=157da90f",

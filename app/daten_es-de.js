@@ -8100,6 +8100,8 @@ window.SPRACHEN["es-de"] = {
   }
  ],
  "grammatik": [],
+ "anekdoten": [],
+ "anekdoten_info": {},
  "geschichte_info": {
   "titel": "El secreto del Alcázar",
   "unter": "Marta Ruiz, profesora en Sevilla – una entrada, una puerta que no existe, un gato que sabe.",

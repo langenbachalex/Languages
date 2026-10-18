@@ -361,6 +361,11 @@
           el("span", { class: "titel", lang: D.lang }, D.geschichte_info.titel),
           el("span", { class: "unter", lang: D.lang }, D.geschichte_info.unter),
           el("span", { class: "zahl" }, f(U.kapitel_zahl, { frei: kapitelFrei(), alle: D.geschichte.length }))) : null,
+        (D.anekdoten || []).length ? el("button", { class: "kachel", onclick: () => zeigeAnekdote(anekdotenFrei()), "aria-label": D.anekdoten_info.titel },
+          el("span", { class: "sym", "aria-hidden": "true" }, "🧓"),
+          el("span", { class: "titel", lang: D.lang }, D.anekdoten_info.titel),
+          el("span", { class: "unter", lang: D.lang }, D.anekdoten_info.unter),
+          el("span", { class: "zahl" }, f(U.anekdoten_zahl || "{frei} / {alle}", { frei: anekdotenFrei(), alle: D.anekdoten.length }))) : null,
         ...ausspracheModule().map((M) => el("button", { class: "kachel" + (ausspracheFertig(M) ? " erledigt" : ""), onclick: () => starteAussprache(M), "aria-label": M.titel },
           el("span", { class: "sym", "aria-hidden": "true" }, M.symbol),
           el("span", { class: "titel", lang: D.lang }, M.titel),
@@ -618,10 +623,19 @@
   const kapitelFrei = () => Math.min(D.geschichte.length, 1 + stand.serie.wochen.length);
   const fett = (text) => text.split(/(\*\*[^*]+\*\*)/).map((t) => (t.startsWith("**") ? el("strong", { class: "ziel" }, t.slice(2, -2)) : t));
   const tonAbsatz = (a) => a.audio || { text: a.fr.replace(/\*\*/g, "") };
-  function zeigeKapitel(nr) {
-    const k = D.geschichte[nr - 1];
-    lage = null; seance = null; ansicht = () => zeigeKapitel(nr);
-    if (!k || nr > kapitelFrei()) return sammlung();
+  // Anekdoten (Nasreddin Hoca, Dschuha): wie Kapitel, aber frei je fertigem Thema (Mr. Alex, 18.10.)
+  const themenFertig = () => D.themen.filter((t) => gruppenVon(t).every((_, i) => gruppeFertig(t.id, i))).length;
+  const anekdotenFrei = () => Math.min((D.anekdoten || []).length, 1 + themenFertig());
+  const GESCH = { liste: () => D.geschichte, frei: kapitelFrei, symbol: "📖", label: (n) => f(U.chapitre, { n }), zeigen: (n) => zeigeKapitel(n),
+    weiter: "kapitel_weiter", naechste: "kapitel_naechste", ende: "kapitel_ende", ansage: "kapitel_ansage" };
+  const ANEK = { liste: () => D.anekdoten || [], frei: anekdotenFrei, symbol: "🧓", label: (n) => f(U.anekdote || "{n}", { n }), zeigen: (n) => zeigeAnekdote(n),
+    weiter: "kapitel_weiter", naechste: "anekdote_naechste", ende: "anekdote_ende", ansage: "kapitel_ansage" };
+  function zeigeAnekdote(nr) { zeigeText(ANEK, nr); }
+  function zeigeKapitel(nr) { zeigeText(GESCH, nr); }
+  function zeigeText(Q, nr) {
+    const k = Q.liste()[nr - 1], frei = Q.frei(), alle = Q.liste().length;
+    lage = null; seance = null; ansicht = () => Q.zeigen(nr);
+    if (!k || nr > frei) return sammlung();
     const absaetze = k.absaetze.map((a) => {
       const de = el("p", { class: "absatz-de", lang: D.lang_hilfe, hidden: !stand.de }, a.de);
       return el("div", { class: "absatz", role: "button", tabindex: "0", onclick: () => { de.hidden = !de.hidden; },
@@ -636,19 +650,19 @@
       }
       absaetze.forEach((x) => x.classList.remove("spricht"));
     }
-    const kapitelLeiste = el("div", { class: "knopfreihe" }, D.geschichte.map((x) =>
-      el("button", { class: "sprung" + (x.nr === nr ? " jetzt" : "") + (x.nr <= kapitelFrei() ? "" : " zu"), disabled: x.nr > kapitelFrei(),
-        onclick: () => zeigeKapitel(x.nr), "aria-current": x.nr === nr ? "page" : false }, x.nr <= kapitelFrei() ? `${x.nr}` : `${x.nr} 🔒`)));
-    tasten(() => vorlesen(k.absaetze), nr < kapitelFrei() ? () => zeigeKapitel(nr + 1) : null);
+    const kapitelLeiste = el("div", { class: "knopfreihe" }, Q.liste().map((x) =>
+      el("button", { class: "sprung" + (x.nr === nr ? " jetzt" : "") + (x.nr <= frei ? "" : " zu"), disabled: x.nr > frei,
+        onclick: () => Q.zeigen(x.nr), "aria-current": x.nr === nr ? "page" : false }, x.nr <= frei ? `${x.nr}` : `${x.nr} 🔒`)));
+    tasten(() => vorlesen(k.absaetze), nr < frei ? () => Q.zeigen(nr + 1) : null);
     zeige(
-      el("header", { class: "kopf" }, knopf(U.zurueck_accueil, startseite, "leise"), el("h1", { lang: D.lang }, `📖 ${f(U.chapitre, { n: k.nr })} – ${k.titel}`), kapitelLeiste),
-      ansageU("kapitel_ansage"),
+      el("header", { class: "kopf" }, knopf(U.zurueck_accueil, startseite, "leise"), el("h1", { lang: D.lang }, `${Q.symbol} ${Q.label(k.nr)} – ${k.titel}`), kapitelLeiste),
+      ansageU(Q.ansage),
       el("section", { class: "satzkarte geschichte" },
         el("div", { class: "knopfreihe" }, knopf(U.kapitel_alles, () => vorlesen(k.absaetze), "haupt"), knopf(U.stop, stopp)),
         el("div", { class: "absaetze" }, absaetze),
         el("div", { class: "knopfreihe" },
-          nr < kapitelFrei() ? knopf(U.kapitel_weiter, () => zeigeKapitel(nr + 1), "haupt")
-            : el("p", { class: "klein" }, uf(nr < D.geschichte.length ? "kapitel_naechste" : "kapitel_ende")),
+          nr < frei ? knopf(U[Q.weiter], () => Q.zeigen(nr + 1), "haupt")
+            : el("p", { class: "klein" }, uf(nr < alle ? Q.naechste : Q.ende)),
           knopf(U.sammlung, sammlung))));
   }
 

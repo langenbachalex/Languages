@@ -8943,6 +8943,8 @@ window.SPRACHEN["fr-de"] = {
   }
  ],
  "grammatik": [],
+ "anekdoten": [],
+ "anekdoten_info": {},
  "geschichte_info": {
   "titel": "Le secret du Louvre",
   "unter": "Julien Lefèvre, professeur à Metz – un billet, une salle qui n'existe pas, un chat qui sait.",

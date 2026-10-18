@@ -1391,6 +1391,8 @@ window.SPRACHEN["en-de"] = {
   }
  ],
  "grammatik": [],
+ "anekdoten": [],
+ "anekdoten_info": {},
  "geschichte_info": {
   "titel": "The Chronicle of Barangollach",
   "unter": "One of the Noldor, a long memory, and a road through Beleriand that the histories never mention.",

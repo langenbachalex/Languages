@@ -131,6 +131,13 @@ def daten_fuer(P):
             geschichte.append({"nr": int(z["kapitel"]), "titel": z["titel"], "absaetze": []})
         aid = f"k{int(z['kapitel']):02d}_{int(z['nr']):02d}"
         geschichte[-1]["absaetze"].append({"id": aid, "fr": z["fr"], "de": z["de"], "umschrift": (z.get("umschrift") or "").strip() or None, "audio": audio(f"geschichte/{aid}.mp3")})
+    # Anekdoten (Nasreddin Hoca, Dschuha): kurze Texte wie Kapitel, frei je fertigem Thema
+    anekdoten, AN = [], getattr(P, "ANEKDOTEN", None)
+    for z in (tsv(inhalte, AN["datei"]) if AN else []):
+        if not anekdoten or anekdoten[-1]["nr"] != int(z["nr"]):
+            anekdoten.append({"nr": int(z["nr"]), "titel": z["titel"], "absaetze": []})
+        aid = f"a{int(z['nr']):02d}_{int(z['satz']):02d}"
+        anekdoten[-1]["absaetze"].append({"id": aid, "fr": z["fr"], "de": z["de"], "umschrift": (z.get("umschrift") or "").strip() or None, "audio": audio(f"anekdoten/{aid}.mp3")})
     # Grammatik-Lektionen (Türkisch): eine pro Thema, Beispiele sind bereits aufgenommene Sätze (Wendung, Dialogzeile oder Absatz der Geschichte)
     def quelle(qid):
         w = next((w for w in wendungen if w["id"] == qid), None)
@@ -140,7 +147,7 @@ def daten_fuer(P):
             for z in d["zeilen"]:
                 if z["id"] == qid:
                     return {"fr": z["fr"], "de": z["de"], "gloss": None, "umschrift": z["umschrift"], "audio": z["audio"]}
-        for k in geschichte:
+        for k in geschichte + anekdoten:
             for a in k["absaetze"]:
                 if a["id"] == qid:
                     return {"fr": a["fr"].replace("**", ""), "de": a["de"], "gloss": None, "umschrift": a["umschrift"], "audio": a["audio"]}
@@ -198,7 +205,8 @@ def daten_fuer(P):
     return {"paar": paar, "name": P.NAME, "kurz": P.KURZ, "hilfe_kurz": P.HILFE_KURZ, "flagge": P.FLAGGE, "lang": P.LANG, "lang_hilfe": P.LANG_HILFE,
             "sprachausgabe": P.SPRACHAUSGABE, "tempo": getattr(P, "TEMPO", None), "audio_speicher": f"{ausgabe_von(P)['praefix']}-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
             "ui": P.UI, "themen": themen, "wendungen": wendungen, "dialoge": dialoge, "rollen": P.ROLLEN, "dialoge_titel": P.DIALOGE_TITEL,
-            "aussprache": aussprache, "aussprachen": aussprachen, "schrift": schrift, "geschichte": geschichte, "grammatik": grammatik, "geschichte_info": P.GESCHICHTE, "lob": lob,
+            "aussprache": aussprache, "aussprachen": aussprachen, "schrift": schrift, "geschichte": geschichte, "grammatik": grammatik,
+            "anekdoten": anekdoten, "anekdoten_info": {k: v for k, v in (AN or {}).items() if k != "datei"}, "geschichte_info": P.GESCHICHTE, "lob": lob,
             "pensum": PENSUM, "intervalle": INTERVALLE, "spiel": spiel}
 
 

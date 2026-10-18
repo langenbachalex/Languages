@@ -56,6 +56,10 @@ SCHRIFT = {"datei": "huruf.tsv", "symbol": "✍️", "titel": "الحُرُوف"
            "gruppen": [("g1", "ا ب ت ث ن ي", "Alif und die Zahnbuchstaben"), ("g2", "ج ح خ", "Die Kehlgruppe"), ("g3", "د ذ ر ز و", "Die Nicht-Verbinder"),
                        ("g4", "س ش ص ض", "Sīn und die Emphatischen"), ("g5", "ط ظ ع غ", "Tiefe Laute"), ("g6", "ف ق ك ل م ه ء", "Der Rest und Hamza")]}
 
+# نوادر جحا: zehn Anekdoten, eine je fertigem Thema (Mr. Alex, 18.10.); Hocharabisch durchgehend
+ANEKDOTEN = {"datei": "nawadir.tsv", "titel": "نَوَادِرُ جُحَا", "unter": "عَشْرُ نَوَادِر: الحِمَار، القِدْر، المِسْمَار وَالمِفْتَاح. نَادِرَةٌ مَعَ كُلِّ مَوْضُوعٍ مُكْتَمِل.",
+             "sammlung": ["كُلُّ مَوْضُوعٍ مُكْتَمِلٍ يَفْتَحُ نَادِرَة.", "Jedes fertige Thema schaltet eine Anekdote frei."]}
+
 # Lautmodule (folgen): neue Konsonanten · Länge und Verdopplung · Hamza und Wortenden
 TRAEGERSATZ = "اِسْمَعْ جَيِّدًا: {wort}."
 AUSSPRACHE = [{
@@ -168,6 +172,9 @@ UI = {
     "hoer": ["اِسْمَعْ وَقَرِّر", "Hör und entscheide"], "richtig": "صَحِيح!", "falsch": "لا – حَاوِلْ مَرَّةً أُخْرَى.", "satz_n": "الجُمْلَة {n}",
     "syrisch": "سُورِي · Syrisch", "sham": "شَام", "wurzel_titel": "Wurzel",
     "kapitel_zahl": "{frei} / {alle} فَصْل · فَصْلٌ جَدِيدٌ كُلَّ أُسْبُوعٍ كَامِل",
+    "anekdote": "نَادِرَة {n}", "anekdoten_zahl": "{frei} / {alle} نَادِرَة · وَاحِدَةٌ مَعَ كُلِّ مَوْضُوعٍ مُكْتَمِل",
+    "anekdote_naechste": ["النَّادِرَةُ التَّالِيَةُ تُفْتَحُ مَعَ مَوْضُوعِكَ المُكْتَمِلِ القَادِم.", "Die nächste Anekdote kommt mit deinem nächsten fertigen Thema."],
+    "anekdote_ende": ["اِنْتَهَتْ نَوَادِرُ جُحَا – حَالِيًّا.", "Die Anekdoten von Dschuha sind zu Ende – vorerst."],
     "stand": ["{n} عِبَارَة فِي صُنْدُوقِك · {fest} رَاسِخَة · {orte} / {alle} مَكَان",
               "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"],
     "accueil": "الرَّئِيسِيَّة", "zurueck_accueil": "← الرَّئِيسِيَّة", "zurueck_thema": "← المَوْضُوع", "suivant": "التَّالِي ➜", "retour": "◀ رُجُوع",

@@ -49,6 +49,9 @@ def auftraege(P):
         liste.append((f"audio/{paar}/huruf/{z['id']}_w.mp3", s(z["beispiel"]), "w" + n))
     for z in bauen.tsv(inhalte, "geschichte.tsv"):
         liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), n))
+    AN = getattr(P, "ANEKDOTEN", None)
+    for z in (bauen.tsv(inhalte, AN["datei"]) if AN else []):
+        liste.append((f"audio/{paar}/anekdoten/a{int(z['nr']):02d}_{int(z['satz']):02d}.mp3", s(z["fr"].replace("**", "")), n))
     for z in bauen.tsv(inhalte, "orte.tsv"):
         liste.append((f"audio/{paar}/orte/{z['id']}.mp3", s(f"{z['name']}. {z['fakt_fr']}"), n))
     for z in bauen.tsv(inhalte, "lob.tsv"):

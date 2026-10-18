@@ -50,6 +50,10 @@ GESCHICHTE = {"titel": "Boğaz'ın sırrı",
               "sammlung": ["Her mükemmel hafta bir bölüm açar: İstanbul'da bir öğretmen ve Boğaz'ın sırrı.",
                            "Jede perfekte Woche schaltet ein Kapitel frei: ein Lehrer in Istanbul und das Geheimnis des Bosporus."]}
 
+# Nasreddin Hoca fıkraları: zehn Anekdoten, eine je fertigem Thema (Mr. Alex, 18.10.)
+ANEKDOTEN = {"datei": "fikralar.tsv", "titel": "Nasreddin Hoca fıkraları", "unter": "On fıkra: eşek, kazan, göl ve dünyanın merkezi. Her biten konuda bir fıkra.",
+             "sammlung": ["Her biten konu bir fıkra açar.", "Jedes fertige Thema schaltet eine Anekdote frei."]}
+
 # Aussprache-Modul: später (ı / i, ö / ü, weiches ğ, Betonung); Einzelwörter im Trägersatz
 TRAEGERSATZ = "İyi dinle: {wort}."
 AUSSPRACHE = {
@@ -109,6 +113,9 @@ UI = {
     "bilde": ["Şekli kur", "Bilde die Form"], "bilde_ansage": ["Formülü oku, doğru şekli seç.", "Lies die Formel, wähl die richtige Form."],
     "hoer": ["Dinle ve seç", "Hör und entscheide"], "richtig": "Doğru!", "falsch": "Hayır – tekrar dene.", "satz_n": "{n}. cümle",
     "kapitel_zahl": "{frei} / {alle} bölüm · her mükemmel haftada bir yenisi",
+    "anekdote": "Fıkra {n}", "anekdoten_zahl": "{frei} / {alle} fıkra · her biten konuda bir yenisi",
+    "anekdote_naechste": ["Sonraki fıkra, bir sonraki bitirdiğin konuyla açılır.", "Die nächste Anekdote kommt mit deinem nächsten fertigen Thema."],
+    "anekdote_ende": ["Hoca'nın fıkraları bitti – şimdilik.", "Die Anekdoten des Hodschas sind zu Ende – vorerst."],
     "stand": ["Kutunda {n} ifade · {fest} iyice yerleşti · {orte} / {alle} yer gezildi",
               "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"],
     "accueil": "Ana sayfa", "zurueck_accueil": "← Ana sayfa", "zurueck_thema": "← Konu", "suivant": "Sonraki ➜", "retour": "◀ Geri",

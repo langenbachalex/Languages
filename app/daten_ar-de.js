@@ -120,6 +120,16 @@ window.SPRACHEN["ar-de"] = {
   "sham": "شَام",
   "wurzel_titel": "Wurzel",
   "kapitel_zahl": "{frei} / {alle} فَصْل · فَصْلٌ جَدِيدٌ كُلَّ أُسْبُوعٍ كَامِل",
+  "anekdote": "نَادِرَة {n}",
+  "anekdoten_zahl": "{frei} / {alle} نَادِرَة · وَاحِدَةٌ مَعَ كُلِّ مَوْضُوعٍ مُكْتَمِل",
+  "anekdote_naechste": [
+   "النَّادِرَةُ التَّالِيَةُ تُفْتَحُ مَعَ مَوْضُوعِكَ المُكْتَمِلِ القَادِم.",
+   "Die nächste Anekdote kommt mit deinem nächsten fertigen Thema."
+  ],
+  "anekdote_ende": [
+   "اِنْتَهَتْ نَوَادِرُ جُحَا – حَالِيًّا.",
+   "Die Anekdoten von Dschuha sind zu Ende – vorerst."
+  ],
   "stand": [
    "{n} عِبَارَة فِي صُنْدُوقِك · {fest} رَاسِخَة · {orte} / {alle} مَكَان",
    "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"
@@ -9366,6 +9376,559 @@ window.SPRACHEN["ar-de"] = {
    ]
   }
  ],
+ "anekdoten": [
+  {
+   "nr": 1,
+   "titel": "جُحَا وَالحِمَارُ بِالمَقْلُوب",
+   "absaetze": [
+    {
+     "id": "a01_01",
+     "fr": "فِي يَوْمٍ مِنَ الأَيَّامِ رَكِبَ جُحَا حِمَارَهُ بِالمَقْلُوب.",
+     "de": "Eines Tages ritt Dschuha seinen Esel verkehrt herum.",
+     "umschrift": "fī yawm min al-ayyām rakiba Juḥā ḥimārahu bil-maqlūb.",
+     "audio": "audio/ar-de/anekdoten/a01_01.mp3?v=28243f13"
+    },
+    {
+     "id": "a01_02",
+     "fr": "كَانَ وَجْهُهُ إِلَى الخَلْف، وَتَلامِيذُهُ يَمْشُونَ وَرَاءَه.",
+     "de": "Sein Gesicht zeigte nach hinten, und seine Schüler gingen hinter ihm.",
+     "umschrift": "kāna wajhuhu ilā l-khalf, wa-talāmīdhuhu yamshūn warāʾah.",
+     "audio": "audio/ar-de/anekdoten/a01_02.mp3?v=c47c028b"
+    },
+    {
+     "id": "a01_03",
+     "fr": "ضَحِكَ الأَوْلاد: « يَا جُحَا، لِمَاذَا تَرْكَبُ بِالمَقْلُوب؟ »",
+     "de": "Die Jungen lachten: « Dschuha, warum reitest du verkehrt herum? »",
+     "umschrift": "ḍaḥika l-awlād: « yā Juḥā, limādhā tarkab bil-maqlūb? »",
+     "audio": "audio/ar-de/anekdoten/a01_03.mp3?v=ca0102eb"
+    },
+    {
+     "id": "a01_04",
+     "fr": "قَالَ جُحَا بِجِدِّيَّة: « أَنَا لا أَرْكَبُ بِالمَقْلُوب. »",
+     "de": "Dschuha sagte ernst: « Ich reite nicht verkehrt herum. »",
+     "umschrift": "qāla Juḥā bi-jiddiyya: « anā lā arkab bil-maqlūb. »",
+     "audio": "audio/ar-de/anekdoten/a01_04.mp3?v=7247916e"
+    },
+    {
+     "id": "a01_05",
+     "fr": "« أَنْتُمْ تَمْشُونَ وَرَائِي، وَأَنَا أَنْظُرُ إِلَيْكُم. »",
+     "de": "« Ihr geht hinter mir, und ich schaue euch an. »",
+     "umschrift": "« antum tamshūn warāʾī, wa-anā anẓur ilaykum. »",
+     "audio": "audio/ar-de/anekdoten/a01_05.mp3?v=eff5ed11"
+    },
+    {
+     "id": "a01_06",
+     "fr": "« لَوْ رَكِبْتُ كَالنَّاس، لأَدَرْتُ لَكُمْ ظَهْرِي. وَهَذَا عَيْب. »",
+     "de": "« Ritte ich wie die Leute, würde ich euch den Rücken zukehren. Und das ist unhöflich. »",
+     "umschrift": "« law rakibtu kan-nās, la-adartu lakum ẓahrī. wa-hādhā ʿayb. »",
+     "audio": "audio/ar-de/anekdoten/a01_06.mp3?v=9e819450"
+    },
+    {
+     "id": "a01_07",
+     "fr": "« هَكَذَا أَرَاكُمْ كُلَّكُم: مَنْ يَتَأَخَّر، وَمَنْ يَهْرُب. »",
+     "de": "« So sehe ich euch alle: wer zurückbleibt und wer abhaut. »",
+     "umschrift": "« hākadhā arākum kullakum: man yataʾakhkhar, wa-man yahrub. »",
+     "audio": "audio/ar-de/anekdoten/a01_07.mp3?v=25ea603a"
+    },
+    {
+     "id": "a01_08",
+     "fr": "وَمِنْ ذَلِكَ اليَوْمِ لَمْ يَتَأَخَّرْ أَحَد.",
+     "de": "Und von dem Tag an blieb niemand mehr zurück.",
+     "umschrift": "wa-min dhālika l-yawm lam yataʾakhkhar aḥad.",
+     "audio": "audio/ar-de/anekdoten/a01_08.mp3?v=6d96d815"
+    }
+   ]
+  },
+  {
+   "nr": 2,
+   "titel": "القِدْرُ وَلَدَت",
+   "absaetze": [
+    {
+     "id": "a02_01",
+     "fr": "اِسْتَعَارَ جُحَا قِدْرًا كَبِيرَةً مِنْ جَارِه.",
+     "de": "Dschuha lieh sich vom Nachbarn einen großen Topf.",
+     "umschrift": "istaʿāra Juḥā qidran kabīra min jārih.",
+     "audio": "audio/ar-de/anekdoten/a02_01.mp3?v=a795e9bb"
+    },
+    {
+     "id": "a02_02",
+     "fr": "بَعْدَ أَيَّامٍ أَعَادَهَا، وَفِيهَا قِدْرٌ صَغِيرَة.",
+     "de": "Nach einigen Tagen gab er ihn zurück, mit einem kleinen Topf darin.",
+     "umschrift": "baʿda ayyām aʿādahā, wa-fīhā qidr ṣaghīra.",
+     "audio": "audio/ar-de/anekdoten/a02_02.mp3?v=aa5a2046"
+    },
+    {
+     "id": "a02_03",
+     "fr": "سَأَلَ الجَار: « مَا هَذِه؟ » قَالَ جُحَا: « قِدْرُكَ وَلَدَت. الصَّغِيرَةُ لَك. »",
+     "de": "Der Nachbar fragte: « Was ist das? » Dschuha sagte: « Dein Topf hat geboren. Der kleine gehört dir. »",
+     "umschrift": "saʾala l-jār: « mā hādhih? » qāla Juḥā: « qidruk waladat. aṣ-ṣaghīra lak. »",
+     "audio": "audio/ar-de/anekdoten/a02_03.mp3?v=0c4dfb82"
+    },
+    {
+     "id": "a02_04",
+     "fr": "فَرِحَ الجَارُ وَأَخَذَ القِدْرَ الصَّغِيرَة.",
+     "de": "Der Nachbar freute sich und nahm den kleinen Topf.",
+     "umschrift": "fariḥa l-jār wa-akhadha l-qidr aṣ-ṣaghīra.",
+     "audio": "audio/ar-de/anekdoten/a02_04.mp3?v=624b6f1f"
+    },
+    {
+     "id": "a02_05",
+     "fr": "بَعْدَ أُسْبُوعٍ اسْتَعَارَ جُحَا القِدْرَ مَرَّةً أُخْرَى. وَلَكِنَّهَا لَمْ تَرْجِع.",
+     "de": "Nach einer Woche lieh sich Dschuha den Topf wieder. Doch er kam nicht zurück.",
+     "umschrift": "baʿda usbūʿ istaʿāra Juḥā l-qidr marratan ukhrā. wa-lākinnahā lam tarjiʿ.",
+     "audio": "audio/ar-de/anekdoten/a02_05.mp3?v=9c3b6e85"
+    },
+    {
+     "id": "a02_06",
+     "fr": "جَاءَ الجَارُ غَاضِبًا: « أَيْنَ قِدْرِي؟ »",
+     "de": "Der Nachbar kam wütend: « Wo ist mein Topf? »",
+     "umschrift": "jāʾa l-jār ghāḍiban: « ayna qidrī? »",
+     "audio": "audio/ar-de/anekdoten/a02_06.mp3?v=6fa59383"
+    },
+    {
+     "id": "a02_07",
+     "fr": "قَالَ جُحَا بِحُزْن: « البَقَاءُ لِلّه. قِدْرُكَ مَاتَت. »",
+     "de": "Dschuha sagte traurig: « Mein Beileid. Dein Topf ist gestorben. »",
+     "umschrift": "qāla Juḥā bi-ḥuzn: « al-baqāʾ lillāh. qidruk mātat. »",
+     "audio": "audio/ar-de/anekdoten/a02_07.mp3?v=8d1ae0e1"
+    },
+    {
+     "id": "a02_08",
+     "fr": "« وَهَلْ تَمُوتُ القِدْر؟ » – « صَدَّقْتَ أَنَّهَا وَلَدَت، فَلِمَاذَا لا تُصَدِّقُ أَنَّهَا مَاتَت؟ »",
+     "de": "« Stirbt denn ein Topf? » – « Dass er geboren hat, hast du geglaubt. Warum glaubst du nicht, dass er gestorben ist? »",
+     "umschrift": "« wa-hal tamūt al-qidr? » – « ṣaddaqta annahā waladat, fa-limādhā lā tuṣaddiq annahā mātat? »",
+     "audio": "audio/ar-de/anekdoten/a02_08.mp3?v=ab8c8b2d"
+    }
+   ]
+  },
+  {
+   "nr": 3,
+   "titel": "مِسْمَارُ جُحَا",
+   "absaetze": [
+    {
+     "id": "a03_01",
+     "fr": "بَاعَ جُحَا بَيْتَهُ بِثَمَنٍ رَخِيص.",
+     "de": "Dschuha verkaufte sein Haus zu einem billigen Preis.",
+     "umschrift": "bāʿa Juḥā baytahu bi-thaman rakhīṣ.",
+     "audio": "audio/ar-de/anekdoten/a03_01.mp3?v=b34c0187"
+    },
+    {
+     "id": "a03_02",
+     "fr": "وَلَكِنَّهُ وَضَعَ شَرْطًا وَاحِدًا: مِسْمَارٌ فِي الحَائِطِ يَبْقَى لَه.",
+     "de": "Doch er stellte eine Bedingung: Ein Nagel in der Wand bleibt ihm.",
+     "umschrift": "wa-lākinnahu waḍaʿa sharṭan wāḥidan: mismār fī l-ḥāʾiṭ yabqā lah.",
+     "audio": "audio/ar-de/anekdoten/a03_02.mp3?v=871d76af"
+    },
+    {
+     "id": "a03_03",
+     "fr": "ضَحِكَ المُشْتَرِي وَوَافَق. مَا قِيمَةُ مِسْمَار؟",
+     "de": "Der Käufer lachte und stimmte zu. Was ist schon ein Nagel wert?",
+     "umschrift": "ḍaḥika l-mushtarī wa-wāfaq. mā qīmat mismār?",
+     "audio": "audio/ar-de/anekdoten/a03_03.mp3?v=48a2c57a"
+    },
+    {
+     "id": "a03_04",
+     "fr": "فِي اليَوْمِ التَّالِي جَاءَ جُحَا لِيَزُورَ مِسْمَارَه.",
+     "de": "Am nächsten Tag kam Dschuha, um seinen Nagel zu besuchen.",
+     "umschrift": "fī l-yawm at-tālī jāʾa Juḥā li-yazūr mismārah.",
+     "audio": "audio/ar-de/anekdoten/a03_04.mp3?v=2164dc1f"
+    },
+    {
+     "id": "a03_05",
+     "fr": "وَفِي اليَوْمِ الَّذِي بَعْدَهُ عَلَّقَ عَلَيْهِ مِعْطَفَه، وَجَلَسَ وَشَرِبَ الشَّاي.",
+     "de": "Und am Tag danach hängte er seinen Mantel daran, setzte sich und trank Tee.",
+     "umschrift": "wa-fī l-yawm alladhī baʿdahu ʿallaqa ʿalayhi miʿṭafah, wa-jalasa wa-shariba sh-shāy.",
+     "audio": "audio/ar-de/anekdoten/a03_05.mp3?v=eff7c937"
+    },
+    {
+     "id": "a03_06",
+     "fr": "ثُمَّ جَاءَ فِي اللَّيْل، ثُمَّ جَاءَ مَعَ أَصْدِقَائِه.",
+     "de": "Dann kam er nachts, dann kam er mit seinen Freunden.",
+     "umschrift": "thumma jāʾa fī l-layl, thumma jāʾa maʿa aṣdiqāʾih.",
+     "audio": "audio/ar-de/anekdoten/a03_06.mp3?v=3d35669b"
+    },
+    {
+     "id": "a03_07",
+     "fr": "فِي النِّهَايَةِ هَرَبَ المُشْتَرِي مِنَ البَيْت، وَرَجَعَ البَيْتُ إِلَى جُحَا.",
+     "de": "Am Ende floh der Käufer aus dem Haus, und das Haus ging zurück an Dschuha.",
+     "umschrift": "fī n-nihāya haraba l-mushtarī min al-bayt, wa-rajaʿa l-bayt ilā Juḥā.",
+     "audio": "audio/ar-de/anekdoten/a03_07.mp3?v=9e2e4116"
+    },
+    {
+     "id": "a03_08",
+     "fr": "مُنْذُ ذَلِكَ اليَوْم، كُلُّ شَرْطٍ صَغِيرٍ يُفْسِدُ صَفْقَةً كَبِيرَةً اسْمُهُ « مِسْمَارُ جُحَا ».",
+     "de": "Seit jenem Tag heißt jede kleine Klausel, die ein großes Geschäft verdirbt, « Dschuhas Nagel ».",
+     "umschrift": "mundhu dhālika l-yawm, kull sharṭ ṣaghīr yufsid ṣafqa kabīra ismuhu « mismār Juḥā ».",
+     "audio": "audio/ar-de/anekdoten/a03_08.mp3?v=e140e805"
+    }
+   ]
+  },
+  {
+   "nr": 4,
+   "titel": "المِفْتَاحُ تَحْتَ الضَّوْء",
+   "absaetze": [
+    {
+     "id": "a04_01",
+     "fr": "فِي اللَّيْل، رَأَى الجِيرَانُ جُحَا يَبْحَثُ عَنْ شَيْءٍ تَحْتَ المِصْبَاح.",
+     "de": "Nachts sahen die Nachbarn Dschuha unter der Laterne etwas suchen.",
+     "umschrift": "fī l-layl, raʾā l-jīrān Juḥā yabḥath ʿan shayʾ taḥta l-miṣbāḥ.",
+     "audio": "audio/ar-de/anekdoten/a04_01.mp3?v=c5841b56"
+    },
+    {
+     "id": "a04_02",
+     "fr": "« مَاذَا تَبْحَثُ يَا جُحَا؟ » – « عَنْ مِفْتَاحِ بَيْتِي. »",
+     "de": "« Was suchst du, Dschuha? » – « Den Schlüssel meines Hauses. »",
+     "umschrift": "« mādhā tabḥath yā Juḥā? » – « ʿan miftāḥ baytī. »",
+     "audio": "audio/ar-de/anekdoten/a04_02.mp3?v=ecc55273"
+    },
+    {
+     "id": "a04_03",
+     "fr": "بَحَثَ الجِيرَانُ مَعَهُ سَاعَةً كَامِلَة. لا مِفْتَاح.",
+     "de": "Die Nachbarn suchten eine ganze Stunde mit ihm. Kein Schlüssel.",
+     "umschrift": "baḥatha l-jīrān maʿahu sāʿa kāmila. lā miftāḥ.",
+     "audio": "audio/ar-de/anekdoten/a04_03.mp3?v=b0dd7faa"
+    },
+    {
+     "id": "a04_04",
+     "fr": "سَأَلَ أَحَدُهُم: « أَيْنَ ضَاعَ المِفْتَاحُ بِالضَّبْط؟ »",
+     "de": "Einer fragte: « Wo genau ist der Schlüssel verloren gegangen? »",
+     "umschrift": "saʾala aḥaduhum: « ayna ḍāʿa l-miftāḥ biḍ-ḍabṭ? »",
+     "audio": "audio/ar-de/anekdoten/a04_04.mp3?v=976129d4"
+    },
+    {
+     "id": "a04_05",
+     "fr": "أَشَارَ جُحَا إِلَى بَيْتِهِ المُظْلِم: « هُنَاك، دَاخِلَ البَيْت. »",
+     "de": "Dschuha zeigte auf sein dunkles Haus: « Dort, im Haus. »",
+     "umschrift": "ashāra Juḥā ilā baytihi l-muẓlim: « hunāk, dākhil al-bayt. »",
+     "audio": "audio/ar-de/anekdoten/a04_05.mp3?v=2043579b"
+    },
+    {
+     "id": "a04_06",
+     "fr": "« فَلِمَاذَا تَبْحَثُ هُنَا؟! »",
+     "de": "« Warum suchst du dann hier?! »",
+     "umschrift": "« fa-limādhā tabḥath hunā?! »",
+     "audio": "audio/ar-de/anekdoten/a04_06.mp3?v=7a2fa64a"
+    },
+    {
+     "id": "a04_07",
+     "fr": "قَالَ جُحَا: « لأَنَّ الضَّوْءَ هُنَا. »",
+     "de": "Dschuha sagte: « Weil hier das Licht ist. »",
+     "umschrift": "qāla Juḥā: « li-anna ḍ-ḍawʾ hunā. »",
+     "audio": "audio/ar-de/anekdoten/a04_07.mp3?v=490935fd"
+    }
+   ]
+  },
+  {
+   "nr": 5,
+   "titel": "حَسَاءُ الحَسَاء",
+   "absaetze": [
+    {
+     "id": "a05_01",
+     "fr": "جَاءَ ضَيْفٌ إِلَى جُحَا بِأَرْنَب، فَطَبَخَ جُحَا حَسَاءً وَأَكَلا مَعًا.",
+     "de": "Ein Gast kam zu Dschuha mit einem Hasen, Dschuha kochte eine Suppe, und sie aßen zusammen.",
+     "umschrift": "jāʾa ḍayf ilā Juḥā bi-arnab, fa-ṭabakha Juḥā ḥasāʾan wa-akalā maʿan.",
+     "audio": "audio/ar-de/anekdoten/a05_01.mp3?v=3c25ae49"
+    },
+    {
+     "id": "a05_02",
+     "fr": "بَعْدَ أُسْبُوعٍ طَرَقَ رَجُلٌ البَاب: « أَنَا صَدِيقُ صَاحِبِ الأَرْنَب. »",
+     "de": "Nach einer Woche klopfte ein Mann: « Ich bin der Freund des Hasenbesitzers. »",
+     "umschrift": "baʿda usbūʿ ṭaraqa rajul al-bāb: « anā ṣadīq ṣāḥib al-arnab. »",
+     "audio": "audio/ar-de/anekdoten/a05_02.mp3?v=bc630a44"
+    },
+    {
+     "id": "a05_03",
+     "fr": "أَكْرَمَهُ جُحَا، وَأَعْطَاهُ حَسَاءً.",
+     "de": "Dschuha bewirtete ihn und gab ihm Suppe.",
+     "umschrift": "akramahu Juḥā, wa-aʿṭāhu ḥasāʾan.",
+     "audio": "audio/ar-de/anekdoten/a05_03.mp3?v=228fbdf5"
+    },
+    {
+     "id": "a05_04",
+     "fr": "بَعْدَ أُسْبُوعٍ آخَرَ جَاءَ رَجُلٌ ثَالِث: « أَنَا صَدِيقُ صَدِيقِ صَاحِبِ الأَرْنَب. »",
+     "de": "Nach einer weiteren Woche kam ein dritter Mann: « Ich bin der Freund des Freundes des Hasenbesitzers. »",
+     "umschrift": "baʿda usbūʿ ākhar jāʾa rajul thālith: « anā ṣadīq ṣadīq ṣāḥib al-arnab. »",
+     "audio": "audio/ar-de/anekdoten/a05_04.mp3?v=973c4358"
+    },
+    {
+     "id": "a05_05",
+     "fr": "وَضَعَ جُحَا أَمَامَهُ صَحْنًا فِيهِ مَاءٌ سَاخِن.",
+     "de": "Dschuha stellte ihm einen Teller mit heißem Wasser hin.",
+     "umschrift": "waḍaʿa Juḥā amāmahu ṣaḥnan fīhi māʾ sākhin.",
+     "audio": "audio/ar-de/anekdoten/a05_05.mp3?v=95a9b5c7"
+    },
+    {
+     "id": "a05_06",
+     "fr": "« مَا هَذَا يَا جُحَا؟ » – « هَذَا حَسَاءُ حَسَاءِ الأَرْنَب. »",
+     "de": "« Was ist das, Dschuha? » – « Das ist die Suppe der Suppe vom Hasen. »",
+     "umschrift": "« mā hādhā yā Juḥā? » – « hādhā ḥasāʾ ḥasāʾ al-arnab. »",
+     "audio": "audio/ar-de/anekdoten/a05_06.mp3?v=514af655"
+    }
+   ]
+  },
+  {
+   "nr": 6,
+   "titel": "الحِمَارُ يَنْهَق",
+   "absaetze": [
+    {
+     "id": "a06_01",
+     "fr": "جَاءَ جَارٌ يَطْلُبُ حِمَارَ جُحَا لِيَوْمٍ وَاحِد.",
+     "de": "Ein Nachbar kam und bat um Dschuhas Esel für einen Tag.",
+     "umschrift": "jāʾa jār yaṭlub ḥimār Juḥā li-yawm wāḥid.",
+     "audio": "audio/ar-de/anekdoten/a06_01.mp3?v=ea37b78a"
+    },
+    {
+     "id": "a06_02",
+     "fr": "قَالَ جُحَا: « آسِف، الحِمَارُ لَيْسَ هُنَا. أَخَذَهُ ابْنِي إِلَى السُّوق. »",
+     "de": "Dschuha sagte: « Tut mir leid, der Esel ist nicht da. Mein Sohn hat ihn zum Markt gebracht. »",
+     "umschrift": "qāla Juḥā: « āsif, al-ḥimār laysa hunā. akhadhahu bnī ilā s-sūq. »",
+     "audio": "audio/ar-de/anekdoten/a06_02.mp3?v=fad0e7a0"
+    },
+    {
+     "id": "a06_03",
+     "fr": "فِي تِلْكَ اللَّحْظَةِ نَهَقَ الحِمَارُ مِنْ دَاخِلِ البَيْت.",
+     "de": "In diesem Moment schrie der Esel aus dem Haus.",
+     "umschrift": "fī tilka l-laḥẓa nahaqa l-ḥimār min dākhil al-bayt.",
+     "audio": "audio/ar-de/anekdoten/a06_03.mp3?v=462e1cd9"
+    },
+    {
+     "id": "a06_04",
+     "fr": "قَالَ الجَار: « يَا جُحَا، الحِمَارُ فِي البَيْت، أَنَا أَسْمَعُه! »",
+     "de": "Der Nachbar sagte: « Dschuha, der Esel ist im Haus, ich höre ihn! »",
+     "umschrift": "qāla l-jār: « yā Juḥā, al-ḥimār fī l-bayt, anā asmaʿuh! »",
+     "audio": "audio/ar-de/anekdoten/a06_04.mp3?v=7151cc13"
+    },
+    {
+     "id": "a06_05",
+     "fr": "غَضِبَ جُحَا: « عَجِيب! »",
+     "de": "Dschuha wurde zornig: « Unglaublich! »",
+     "umschrift": "ghaḍiba Juḥā: « ʿajīb! »",
+     "audio": "audio/ar-de/anekdoten/a06_05.mp3?v=7dddfc31"
+    },
+    {
+     "id": "a06_06",
+     "fr": "« تُصَدِّقُ الحِمَار، وَلا تُصَدِّقُنِي أَنَا، الرَّجُلُ ذُو اللِّحْيَةِ البَيْضَاء؟ »",
+     "de": "« Du glaubst dem Esel, und mir nicht, dem Mann mit dem weißen Bart? »",
+     "umschrift": "« tuṣaddiq al-ḥimār, wa-lā tuṣaddiqunī anā, ar-rajul dhū l-liḥya l-bayḍāʾ? »",
+     "audio": "audio/ar-de/anekdoten/a06_06.mp3?v=9b37ba50"
+    }
+   ]
+  },
+  {
+   "nr": 7,
+   "titel": "هَلْ تَعْرِفُونَ مَا سَأَقُول؟",
+   "absaetze": [
+    {
+     "id": "a07_01",
+     "fr": "صَعِدَ جُحَا المِنْبَرَ لِيَخْطُب. سَأَلَ النَّاس: « هَلْ تَعْرِفُونَ مَا سَأَقُول؟ »",
+     "de": "Dschuha stieg auf die Kanzel, um zu predigen. Er fragte: « Wisst ihr, was ich sagen werde? »",
+     "umschrift": "ṣaʿida Juḥā l-minbar li-yakhṭub. saʾala n-nās: « hal taʿrifūn mā sa-aqūl? »",
+     "audio": "audio/ar-de/anekdoten/a07_01.mp3?v=62733930"
+    },
+    {
+     "id": "a07_02",
+     "fr": "قَالُوا: « لا. » قَالَ: « إِذَنْ لا فَائِدَةَ مِنَ الكَلامِ مَعَ مَنْ لا يَعْرِف. » وَنَزَل.",
+     "de": "Sie sagten: « Nein. » Er sagte: « Dann hat es keinen Sinn, mit Leuten zu reden, die nichts wissen. » Und stieg herab.",
+     "umschrift": "qālū: « lā. » qāla: « idhan lā fāʾida min al-kalām maʿa man lā yaʿrif. » wa-nazal.",
+     "audio": "audio/ar-de/anekdoten/a07_02.mp3?v=dea4db6a"
+    },
+    {
+     "id": "a07_03",
+     "fr": "فِي الأُسْبُوعِ التَّالِي سَأَلَ مَرَّةً أُخْرَى. قَالُوا: « نَعَم، نَعْرِف. »",
+     "de": "In der nächsten Woche fragte er wieder. Sie sagten: « Ja, wir wissen es. »",
+     "umschrift": "fī l-usbūʿ at-tālī saʾala marratan ukhrā. qālū: « naʿam, naʿrif. »",
+     "audio": "audio/ar-de/anekdoten/a07_03.mp3?v=6d8b10a8"
+    },
+    {
+     "id": "a07_04",
+     "fr": "قَالَ: « مَا دُمْتُمْ تَعْرِفُون، فَلِمَاذَا أَقُول؟ » وَنَزَل.",
+     "de": "Er sagte: « Wenn ihr es schon wisst, warum soll ich es sagen? » Und stieg herab.",
+     "umschrift": "qāla: « mā dumtum taʿrifūn, fa-limādhā aqūl? » wa-nazal.",
+     "audio": "audio/ar-de/anekdoten/a07_04.mp3?v=9925ab3c"
+    },
+    {
+     "id": "a07_05",
+     "fr": "فِي الأُسْبُوعِ الثَّالِثِ اتَّفَقَ النَّاس: نِصْفُهُمْ يَقُولُ نَعَم، وَنِصْفُهُمْ لا.",
+     "de": "In der dritten Woche verabredeten sich die Leute: Die Hälfte sagt ja, die Hälfte nein.",
+     "umschrift": "fī l-usbūʿ ath-thālith ittafaqa n-nās: niṣfuhum yaqūl naʿam, wa-niṣfuhum lā.",
+     "audio": "audio/ar-de/anekdoten/a07_05.mp3?v=2fda4c74"
+    },
+    {
+     "id": "a07_06",
+     "fr": "قَالَ جُحَا: « مُمْتَاز. الَّذِينَ يَعْرِفُونَ يُخْبِرُونَ الَّذِينَ لا يَعْرِفُون. » وَنَزَل.",
+     "de": "Dschuha sagte: « Ausgezeichnet. Die, die es wissen, sagen es denen, die es nicht wissen. » Und stieg herab.",
+     "umschrift": "qāla Juḥā: « mumtāz. alladhīna yaʿrifūn yukhbirūn alladhīna lā yaʿrifūn. » wa-nazal.",
+     "audio": "audio/ar-de/anekdoten/a07_06.mp3?v=8ca3cb93"
+    }
+   ]
+  },
+  {
+   "nr": 8,
+   "titel": "الدِّيكُ وَالفَجْر",
+   "absaetze": [
+    {
+     "id": "a08_01",
+     "fr": "كَانَ جُحَا يُعَلِّمُ الأَوْلادَ فِي المَدْرَسَة.",
+     "de": "Dschuha unterrichtete die Kinder in der Schule.",
+     "umschrift": "kāna Juḥā yuʿallim al-awlād fī l-madrasa.",
+     "audio": "audio/ar-de/anekdoten/a08_01.mp3?v=6d70e109"
+    },
+    {
+     "id": "a08_02",
+     "fr": "سَأَلَهُ وَلَد: « يَا أُسْتَاذ، لِمَاذَا يَصِيحُ الدِّيكُ عِنْدَ الفَجْر؟ »",
+     "de": "Ein Junge fragte ihn: « Herr Lehrer, warum kräht der Hahn bei Tagesanbruch? »",
+     "umschrift": "saʾalahu walad: « yā ustādh, limādhā yaṣīḥ ad-dīk ʿinda l-fajr? »",
+     "audio": "audio/ar-de/anekdoten/a08_02.mp3?v=b2711027"
+    },
+    {
+     "id": "a08_03",
+     "fr": "فَكَّرَ جُحَا طَوِيلاً.",
+     "de": "Dschuha dachte lange nach.",
+     "umschrift": "fakkara Juḥā ṭawīlan.",
+     "audio": "audio/ar-de/anekdoten/a08_03.mp3?v=c5c78b03"
+    },
+    {
+     "id": "a08_04",
+     "fr": "ثُمَّ قَالَ: « لأَنَّهُ لَوْ صَاحَ فِي الظُّهْر، لَمَا سَمِعَهُ أَحَد. »",
+     "de": "Dann sagte er: « Weil ihn niemand hören würde, wenn er mittags krähte. »",
+     "umschrift": "thumma qāla: « li-annahu law ṣāḥa fī ẓ-ẓuhr, la-mā samiʿahu aḥad. »",
+     "audio": "audio/ar-de/anekdoten/a08_04.mp3?v=c9cb7616"
+    },
+    {
+     "id": "a08_05",
+     "fr": "« فِي الظُّهْرِ الكُلُّ يَتَكَلَّم. »",
+     "de": "« Mittags reden alle. »",
+     "umschrift": "« fī ẓ-ẓuhr al-kull yatakallam. »",
+     "audio": "audio/ar-de/anekdoten/a08_05.mp3?v=bd4d46c5"
+    },
+    {
+     "id": "a08_06",
+     "fr": "كَتَبَ الوَلَدُ الجَوَابَ فِي دَفْتَرِه. وَمَا زَالَ يُصَدِّقُهُ حَتَّى اليَوْم.",
+     "de": "Der Junge schrieb die Antwort in sein Heft. Und glaubt sie bis heute.",
+     "umschrift": "kataba l-walad al-jawāb fī daftarih. wa-mā zāla yuṣaddiquhu ḥattā l-yawm.",
+     "audio": "audio/ar-de/anekdoten/a08_06.mp3?v=a43cd650"
+    }
+   ]
+  },
+  {
+   "nr": 9,
+   "titel": "القَمَرُ فِي البِئْر",
+   "absaetze": [
+    {
+     "id": "a09_01",
+     "fr": "فِي لَيْلَةٍ صَافِيَة، نَظَرَ جُحَا فِي البِئْرِ فَرَأَى القَمَر.",
+     "de": "In einer klaren Nacht schaute Dschuha in den Brunnen und sah den Mond.",
+     "umschrift": "fī layla ṣāfiya, naẓara Juḥā fī l-biʾr fa-raʾā l-qamar.",
+     "audio": "audio/ar-de/anekdoten/a09_01.mp3?v=9994d619"
+    },
+    {
+     "id": "a09_02",
+     "fr": "« يَا لَلْمُصِيبَة! القَمَرُ وَقَعَ فِي البِئْر! »",
+     "de": "« Welch ein Unglück! Der Mond ist in den Brunnen gefallen! »",
+     "umschrift": "« yā la-l-muṣība! al-qamar waqaʿa fī l-biʾr! »",
+     "audio": "audio/ar-de/anekdoten/a09_02.mp3?v=ef2fefe5"
+    },
+    {
+     "id": "a09_03",
+     "fr": "أَحْضَرَ حَبْلاً وَخُطَّافًا، وَرَمَاهُ فِي البِئْر.",
+     "de": "Er holte ein Seil und einen Haken und warf ihn in den Brunnen.",
+     "umschrift": "aḥḍara ḥablan wa-khuṭṭāfan, wa-ramāhu fī l-biʾr.",
+     "audio": "audio/ar-de/anekdoten/a09_03.mp3?v=d656a4e1"
+    },
+    {
+     "id": "a09_04",
+     "fr": "عَلِقَ الخُطَّافُ بِحَجَر. شَدَّ جُحَا بِكُلِّ قُوَّتِه.",
+     "de": "Der Haken verfing sich an einem Stein. Dschuha zog mit aller Kraft.",
+     "umschrift": "ʿaliqa l-khuṭṭāf bi-ḥajar. shadda Juḥā bi-kull quwwatih.",
+     "audio": "audio/ar-de/anekdoten/a09_04.mp3?v=1210a17f"
+    },
+    {
+     "id": "a09_05",
+     "fr": "اِنْقَطَعَ الحَبْل، وَوَقَعَ جُحَا عَلَى ظَهْرِه.",
+     "de": "Das Seil riss, und Dschuha fiel auf den Rücken.",
+     "umschrift": "inqaṭaʿa l-ḥabl, wa-waqaʿa Juḥā ʿalā ẓahrih.",
+     "audio": "audio/ar-de/anekdoten/a09_05.mp3?v=6ce7ce96"
+    },
+    {
+     "id": "a09_06",
+     "fr": "وَمِنْ مَكَانِهِ رَأَى القَمَرَ فِي السَّمَاء.",
+     "de": "Und von dort sah er den Mond am Himmel.",
+     "umschrift": "wa-min makānihi raʾā l-qamar fī s-samāʾ.",
+     "audio": "audio/ar-de/anekdoten/a09_06.mp3?v=61d0af39"
+    },
+    {
+     "id": "a09_07",
+     "fr": "« الحَمْدُ لِلّه! تَعِبْتُ، لَكِنِّي أَنْقَذْتُ القَمَر. »",
+     "de": "« Gott sei Dank! Ich bin müde, aber ich habe den Mond gerettet. »",
+     "umschrift": "« al-ḥamdu lillāh! taʿibtu, lākinnī anqadhtu l-qamar. »",
+     "audio": "audio/ar-de/anekdoten/a09_07.mp3?v=1ead1fbe"
+    }
+   ]
+  },
+  {
+   "nr": 10,
+   "titel": "الحِمَارُ وَالقِطّ",
+   "absaetze": [
+    {
+     "id": "a10_01",
+     "fr": "فَقَدَ جُحَا حِمَارَه. مَشَى فِي السُّوقِ يَشْكُرُ الله.",
+     "de": "Dschuha hatte seinen Esel verloren. Er ging durch den Markt und dankte Gott.",
+     "umschrift": "faqada Juḥā ḥimārah. mashā fī s-sūq yashkur Allāh.",
+     "audio": "audio/ar-de/anekdoten/a10_01.mp3?v=37d8b616"
+    },
+    {
+     "id": "a10_02",
+     "fr": "سَأَلَهُ النَّاس: « حِمَارُكَ ضَاع، فَلِمَاذَا تَشْكُر؟ »",
+     "de": "Die Leute fragten ihn: « Dein Esel ist weg, warum dankst du? »",
+     "umschrift": "saʾalahu n-nās: « ḥimāruk ḍāʿ, fa-limādhā tashkur? »",
+     "audio": "audio/ar-de/anekdoten/a10_02.mp3?v=bc7dfb9a"
+    },
+    {
+     "id": "a10_03",
+     "fr": "قَالَ: « أَشْكُرُ اللهَ أَنِّي لَمْ أَكُنْ عَلَيْه. وَإِلَّا لَضِعْتُ أَنَا أَيْضًا. »",
+     "de": "Er sagte: « Ich danke Gott, dass ich nicht auf ihm saß. Sonst wäre ich auch verloren. »",
+     "umschrift": "qāla: « ashkur Allāh annī lam akun ʿalayh. wa-illā la-ḍiʿtu anā ayḍan. »",
+     "audio": "audio/ar-de/anekdoten/a10_03.mp3?v=91eab0ce"
+    },
+    {
+     "id": "a10_04",
+     "fr": "فِي المَسَاءِ رَجَعَ إِلَى البَيْت. وَعَلَى بَابِ البَيْتِ جَلَسَ قِطّ.",
+     "de": "Am Abend kehrte er heim. Und vor der Haustür saß eine Katze.",
+     "umschrift": "fī l-masāʾ rajaʿa ilā l-bayt. wa-ʿalā bāb al-bayt jalasa qiṭṭ.",
+     "audio": "audio/ar-de/anekdoten/a10_04.mp3?v=ef83b393"
+    },
+    {
+     "id": "a10_05",
+     "fr": "قَالَ جُحَا: « ضَاعَ الحِمَار، وَجَاءَ القِطّ. هَذِهِ صَفْقَةٌ جَيِّدَة. »",
+     "de": "Dschuha sagte: « Der Esel ist weg, und die Katze ist gekommen. Das ist ein gutes Geschäft. »",
+     "umschrift": "qāla Juḥā: « ḍāʿa l-ḥimār, wa-jāʾa l-qiṭṭ. hādhihi ṣafqa jayyida. »",
+     "audio": "audio/ar-de/anekdoten/a10_05.mp3?v=c308c95b"
+    },
+    {
+     "id": "a10_06",
+     "fr": "« القِطُّ لا يَحْتَاجُ إِلَى سَرْج. »",
+     "de": "« Die Katze braucht keinen Sattel. »",
+     "umschrift": "« al-qiṭṭ lā yaḥtāj ilā sarj. »",
+     "audio": "audio/ar-de/anekdoten/a10_06.mp3?v=454c31f2"
+    },
+    {
+     "id": "a10_07",
+     "fr": "القِطُّ لَمْ يَقُلْ شَيْئًا. القِطَطُ لا تَقُولُ شَيْئًا أَبَدًا.",
+     "de": "Die Katze sagte nichts. Katzen sagen nie etwas.",
+     "umschrift": "al-qiṭṭ lam yaqul shayʾan. al-qiṭaṭ lā taqūl shayʾan abadan.",
+     "audio": "audio/ar-de/anekdoten/a10_07.mp3?v=141f736f"
+    }
+   ]
+  }
+ ],
+ "anekdoten_info": {
+  "titel": "نَوَادِرُ جُحَا",
+  "unter": "عَشْرُ نَوَادِر: الحِمَار، القِدْر، المِسْمَار وَالمِفْتَاح. نَادِرَةٌ مَعَ كُلِّ مَوْضُوعٍ مُكْتَمِل.",
+  "sammlung": [
+   "كُلُّ مَوْضُوعٍ مُكْتَمِلٍ يَفْتَحُ نَادِرَة.",
+   "Jedes fertige Thema schaltet eine Anekdote frei."
+  ]
+ },
  "geschichte_info": {
   "titel": "سِرُّ الجَامِعِ الأُمَوِيّ",
   "unter": "مُعَلِّمٌ فِي دِمَشْق، تَذْكِرَةٌ قَدِيمَة، وَقِطٌّ يَعْرِفُ كُلَّ شَيْء.",
@@ -10590,6 +11153,75 @@ window.SPRACHEN["ar-de"] = {
   ]
  },
  "audio_liste": [
+  "audio/ar-de/anekdoten/a01_01.mp3?v=28243f13",
+  "audio/ar-de/anekdoten/a01_02.mp3?v=c47c028b",
+  "audio/ar-de/anekdoten/a01_03.mp3?v=ca0102eb",
+  "audio/ar-de/anekdoten/a01_04.mp3?v=7247916e",
+  "audio/ar-de/anekdoten/a01_05.mp3?v=eff5ed11",
+  "audio/ar-de/anekdoten/a01_06.mp3?v=9e819450",
+  "audio/ar-de/anekdoten/a01_07.mp3?v=25ea603a",
+  "audio/ar-de/anekdoten/a01_08.mp3?v=6d96d815",
+  "audio/ar-de/anekdoten/a02_01.mp3?v=a795e9bb",
+  "audio/ar-de/anekdoten/a02_02.mp3?v=aa5a2046",
+  "audio/ar-de/anekdoten/a02_03.mp3?v=0c4dfb82",
+  "audio/ar-de/anekdoten/a02_04.mp3?v=624b6f1f",
+  "audio/ar-de/anekdoten/a02_05.mp3?v=9c3b6e85",
+  "audio/ar-de/anekdoten/a02_06.mp3?v=6fa59383",
+  "audio/ar-de/anekdoten/a02_07.mp3?v=8d1ae0e1",
+  "audio/ar-de/anekdoten/a02_08.mp3?v=ab8c8b2d",
+  "audio/ar-de/anekdoten/a03_01.mp3?v=b34c0187",
+  "audio/ar-de/anekdoten/a03_02.mp3?v=871d76af",
+  "audio/ar-de/anekdoten/a03_03.mp3?v=48a2c57a",
+  "audio/ar-de/anekdoten/a03_04.mp3?v=2164dc1f",
+  "audio/ar-de/anekdoten/a03_05.mp3?v=eff7c937",
+  "audio/ar-de/anekdoten/a03_06.mp3?v=3d35669b",
+  "audio/ar-de/anekdoten/a03_07.mp3?v=9e2e4116",
+  "audio/ar-de/anekdoten/a03_08.mp3?v=e140e805",
+  "audio/ar-de/anekdoten/a04_01.mp3?v=c5841b56",
+  "audio/ar-de/anekdoten/a04_02.mp3?v=ecc55273",
+  "audio/ar-de/anekdoten/a04_03.mp3?v=b0dd7faa",
+  "audio/ar-de/anekdoten/a04_04.mp3?v=976129d4",
+  "audio/ar-de/anekdoten/a04_05.mp3?v=2043579b",
+  "audio/ar-de/anekdoten/a04_06.mp3?v=7a2fa64a",
+  "audio/ar-de/anekdoten/a04_07.mp3?v=490935fd",
+  "audio/ar-de/anekdoten/a05_01.mp3?v=3c25ae49",
+  "audio/ar-de/anekdoten/a05_02.mp3?v=bc630a44",
+  "audio/ar-de/anekdoten/a05_03.mp3?v=228fbdf5",
+  "audio/ar-de/anekdoten/a05_04.mp3?v=973c4358",
+  "audio/ar-de/anekdoten/a05_05.mp3?v=95a9b5c7",
+  "audio/ar-de/anekdoten/a05_06.mp3?v=514af655",
+  "audio/ar-de/anekdoten/a06_01.mp3?v=ea37b78a",
+  "audio/ar-de/anekdoten/a06_02.mp3?v=fad0e7a0",
+  "audio/ar-de/anekdoten/a06_03.mp3?v=462e1cd9",
+  "audio/ar-de/anekdoten/a06_04.mp3?v=7151cc13",
+  "audio/ar-de/anekdoten/a06_05.mp3?v=7dddfc31",
+  "audio/ar-de/anekdoten/a06_06.mp3?v=9b37ba50",
+  "audio/ar-de/anekdoten/a07_01.mp3?v=62733930",
+  "audio/ar-de/anekdoten/a07_02.mp3?v=dea4db6a",
+  "audio/ar-de/anekdoten/a07_03.mp3?v=6d8b10a8",
+  "audio/ar-de/anekdoten/a07_04.mp3?v=9925ab3c",
+  "audio/ar-de/anekdoten/a07_05.mp3?v=2fda4c74",
+  "audio/ar-de/anekdoten/a07_06.mp3?v=8ca3cb93",
+  "audio/ar-de/anekdoten/a08_01.mp3?v=6d70e109",
+  "audio/ar-de/anekdoten/a08_02.mp3?v=b2711027",
+  "audio/ar-de/anekdoten/a08_03.mp3?v=c5c78b03",
+  "audio/ar-de/anekdoten/a08_04.mp3?v=c9cb7616",
+  "audio/ar-de/anekdoten/a08_05.mp3?v=bd4d46c5",
+  "audio/ar-de/anekdoten/a08_06.mp3?v=a43cd650",
+  "audio/ar-de/anekdoten/a09_01.mp3?v=9994d619",
+  "audio/ar-de/anekdoten/a09_02.mp3?v=ef2fefe5",
+  "audio/ar-de/anekdoten/a09_03.mp3?v=d656a4e1",
+  "audio/ar-de/anekdoten/a09_04.mp3?v=1210a17f",
+  "audio/ar-de/anekdoten/a09_05.mp3?v=6ce7ce96",
+  "audio/ar-de/anekdoten/a09_06.mp3?v=61d0af39",
+  "audio/ar-de/anekdoten/a09_07.mp3?v=1ead1fbe",
+  "audio/ar-de/anekdoten/a10_01.mp3?v=37d8b616",
+  "audio/ar-de/anekdoten/a10_02.mp3?v=bc7dfb9a",
+  "audio/ar-de/anekdoten/a10_03.mp3?v=91eab0ce",
+  "audio/ar-de/anekdoten/a10_04.mp3?v=ef83b393",
+  "audio/ar-de/anekdoten/a10_05.mp3?v=c308c95b",
+  "audio/ar-de/anekdoten/a10_06.mp3?v=454c31f2",
+  "audio/ar-de/anekdoten/a10_07.mp3?v=141f736f",
   "audio/ar-de/aswat1/ayn_01.mp3?v=72461988",
   "audio/ar-de/aswat1/ayn_02.mp3?v=79f84ebb",
   "audio/ar-de/aswat1/ayn_03.mp3?v=bd9cbf16",
