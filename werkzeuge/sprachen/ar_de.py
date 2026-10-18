@@ -27,6 +27,7 @@ THEMEN = [
     {"id": "hikayat", "name": "الحِكَايَاتُ وَالخَيَال", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "hikayat.tsv"},
     {"id": "riyada", "name": "الرِّيَاضَةُ وَالكُونْغ فُو", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "riyada.tsv"},
     {"id": "taam", "name": "الطَّعَامُ وَالعَافِيَة", "de": "Essen und Wohlbefinden", "symbol": "🥙", "datei": "taam.tsv"},
+    {"id": "atfal", "name": "الأَطْفَال", "de": "Kinder", "symbol": "👶", "datei": "atfal.tsv"},
 ]
 GRAMMATIK_DATEI = "qawaid.tsv"
 

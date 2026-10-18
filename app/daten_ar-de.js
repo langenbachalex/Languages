@@ -598,6 +598,38 @@ window.SPRACHEN["ar-de"] = {
     "ta2_23",
     "ta2_24"
    ]
+  },
+  {
+   "id": "atfal",
+   "name": "الأَطْفَال",
+   "de": "Kinder",
+   "symbol": "👶",
+   "wendungen": [
+    "at_01",
+    "at_02",
+    "at_03",
+    "at_04",
+    "at_05",
+    "at_06",
+    "at_07",
+    "at_08",
+    "at_09",
+    "at_10",
+    "at_11",
+    "at_12",
+    "at_13",
+    "at_14",
+    "at_15",
+    "at_16",
+    "at_17",
+    "at_18",
+    "at_19",
+    "at_20",
+    "at_21",
+    "at_22",
+    "at_23",
+    "at_24"
+   ]
   }
  ],
  "wendungen": [
@@ -6136,6 +6168,698 @@ window.SPRACHEN["ar-de"] = {
     "umschrift": "fīnī ākhod kaʿke? bis-simsem iza btrīd.",
     "audio": "audio/ar-de/syrisch/ta2_24.mp3?v=1962e15b"
    }
+  },
+  {
+   "id": "at_01",
+   "thema": "atfal",
+   "fr": "نَامَ حَتَّى الصَّبَاح",
+   "de": "er hat bis zum Morgen geschlafen",
+   "register": "tu",
+   "anker": "نام",
+   "notiz": "ṭifl = Kind, Baby (Plural aṭfāl, Muster afʿāl). ḥattā = bis. madhhūlūn = verblüfft (Partizip Passiv, Plural -ūn für Menschen). al-ahl = die Eltern, Familie.",
+   "audio": "audio/ar-de/wendungen/at_01.mp3?v=e16cb85f",
+   "gloss": "نَام·َ حَتَّى ال·صَبَاح | schlafen·3SG bis DEF·Morgen",
+   "umschrift": "nāma ḥattā ṣ-ṣabāḥ",
+   "wurzel": "ن-و-م",
+   "satz": {
+    "fr": "الطِّفْلُ نَامَ حَتَّى الصَّبَاح، وَالأَهْلُ مَذْهُولُون.",
+    "de": "Das Baby hat bis zum Morgen geschlafen, und die Eltern sind verblüfft.",
+    "luecke": "نَامَ حَتَّى الصَّبَاح",
+    "gloss": "ال·طِفْل نَام·َ حَتَّى ال·صَبَاح، وَ·ال·أَهْل مَذْهُول·ُون. | DEF·Kind schlafen·3SG bis DEF·Morgen, und·DEF·Eltern verblüfft·PL.",
+    "umschrift": "aṭ-ṭifl nāma ḥattā ṣ-ṣabāḥ, wal-ahl madhhūlūn.",
+    "audio": "audio/ar-de/saetze/at_01.mp3?v=d629bf6c"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الطِّفِل نام لَلصُّبْح، والأَهِل مَصْدومين.",
+    "umschrift": "iṭ-ṭifel nām la-ṣ-ṣubḥ, wil-ahel maṣdūmīn.",
+    "audio": "audio/ar-de/syrisch/at_01.mp3?v=2087d171"
+   }
+  },
+  {
+   "id": "at_02",
+   "thema": "atfal",
+   "fr": "الدُّبُّ فِي السَّرِير",
+   "de": "der Teddy liegt im Bett",
+   "register": "tu",
+   "anker": "دب",
+   "notiz": "dubb = Bär, Teddybär (dubb mudallal = Plüschbär; Schadda!). sarīr = Bett (Plural asirra). al-arḍ = der Boden, die Erde (Modul 1). Zwei Ortsangaben ohne Verb.",
+   "audio": "audio/ar-de/wendungen/at_02.mp3?v=de737d8b",
+   "gloss": "ال·دُبّ فِي ال·سَرِير | DEF·Bär in DEF·Bett",
+   "umschrift": "ad-dubb fī s-sarīr",
+   "wurzel": "د-ب-ب",
+   "satz": {
+    "fr": "الدُّبُّ فِي السَّرِير، وَالطِّفْلُ عَلَى الأَرْض.",
+    "de": "Der Teddy liegt im Bett, und das Kind auf dem Boden.",
+    "luecke": "الدُّبُّ فِي السَّرِير",
+    "gloss": "ال·دُبّ فِي ال·سَرِير، وَ·ال·طِفْل عَلَى ال·أَرْض. | DEF·Bär in DEF·Bett, und·DEF·Kind auf DEF·Boden.",
+    "umschrift": "ad-dubb fī s-sarīr, waṭ-ṭifl ʿalā l-arḍ.",
+    "audio": "audio/ar-de/saetze/at_02.mp3?v=0c83d6a4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الدِّبّ بِالتَّخْت، والطِّفِل عَالأَرْض.",
+    "umschrift": "id-dibb bit-takht, wiṭ-ṭifel ʿal-arḍ.",
+    "audio": "audio/ar-de/syrisch/at_02.mp3?v=d222af2c"
+   }
+  },
+  {
+   "id": "at_03",
+   "thema": "atfal",
+   "fr": "عَمِلَ شَقَاوَة",
+   "de": "er hat Unsinn angestellt",
+   "register": "tu",
+   "anker": "شقاوة",
+   "notiz": "shaqāwa = Unfug, Frechheit (shaqī = Lausbub; auch: elend). ʿamila = machen. sharīk = Partner, Komplize (Wurzel sh-r-k, teilhaben; sharika = Firma). aṣ-ṣaghīr = der Kleine.",
+   "audio": "audio/ar-de/wendungen/at_03.mp3?v=e2616bb2",
+   "gloss": "عَمِل·َ شَقَاوَة | machen·3SG Unfug",
+   "umschrift": "ʿamila shaqāwa",
+   "wurzel": "ش-ق-و",
+   "satz": {
+    "fr": "الصَّغِيرُ عَمِلَ شَقَاوَة، وَالقِطُّ شَرِيكُه.",
+    "de": "Der Kleine hat Unsinn angestellt, und die Katze war seine Komplizin.",
+    "luecke": "عَمِلَ شَقَاوَة",
+    "gloss": "ال·صَغِير عَمِل·َ شَقَاوَة، وَ·ال·قِطّ شَرِيك·ُه. | DEF·Kleine machen·3SG Unfug, und·DEF·Katze Partner·sein.",
+    "umschrift": "aṣ-ṣaghīr ʿamila shaqāwa, wal-qiṭṭ sharīkuh.",
+    "audio": "audio/ar-de/saetze/at_03.mp3?v=05a70651"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الزْغير عِمِل شَئاوِة، والبِسّ شَريكو.",
+    "umschrift": "iz-zghīr ʿimel shaʾāwe, wil-biss sharīko.",
+    "audio": "audio/ar-de/syrisch/at_03.mp3?v=6723f0fa"
+   }
+  },
+  {
+   "id": "at_04",
+   "thema": "atfal",
+   "fr": "حَمَلْتُهُ، فَسَكَتَ فَوْرًا",
+   "de": "ich nahm ihn hoch, und er war sofort still",
+   "register": "tu",
+   "anker": "حمل",
+   "notiz": "ḥīna = als, wenn (zeitlich; wie ʿindamā). bakā = weinen (schwach: bakā, yabkī). ḥamaltu-hu = ich trug ihn (ḥamala = tragen). sakata = still werden (Syrisch sakat). fawran = sofort.",
+   "audio": "audio/ar-de/wendungen/at_04.mp3?v=91127e5f",
+   "gloss": "حَمَل·ْتُ·هُ، فَ·سَكَت·َ فَوْرًا | tragen·1SG·ihn, da·still.werden·3SG sofort",
+   "umschrift": "ḥamaltuhu, fa-sakata fawran",
+   "wurzel": "ح-م-ل",
+   "satz": {
+    "fr": "حِينَ بَكَى حَمَلْتُهُ، فَسَكَتَ فَوْرًا.",
+    "de": "Als er weinte, nahm ich ihn hoch, und er war sofort still.",
+    "luecke": "حَمَلْتُهُ، فَسَكَتَ فَوْرًا",
+    "gloss": "حِينَ بَكَى حَمَل·ْتُ·هُ، فَ·سَكَت·َ فَوْرًا. | als weinte tragen·1SG·ihn, da·still.werden·3SG sofort.",
+    "umschrift": "ḥīna bakā ḥamaltuhu, fa-sakata fawran.",
+    "audio": "audio/ar-de/saetze/at_04.mp3?v=dcd7b705"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "لَمّا بِكي حَمَلْتو، وسَكَت دُغْري.",
+    "umschrift": "lamma bikī ḥamalto, w-sakat dughrī.",
+    "audio": "audio/ar-de/syrisch/at_04.mp3?v=42dc100f"
+   }
+  },
+  {
+   "id": "at_05",
+   "thema": "atfal",
+   "fr": "وُلِدَ طِفْلُ الجِيرَان",
+   "de": "das Baby der Nachbarn ist geboren",
+   "register": "tu",
+   "anker": "ولد",
+   "notiz": "wulida = wurde geboren (Passiv von walada; walad Junge, wālida Mutter, mawlid Geburtstag des Propheten). jīrān = Nachbarn (Plural von jār, Muster fiʿlān). bināya = Gebäude, Wohnhaus. dhahabat tarāh = ging, (um) es zu sehen: zwei Verben nacheinander.",
+   "audio": "audio/ar-de/wendungen/at_05.mp3?v=0a914754",
+   "gloss": "وُلِد·َ طِفْل·ُ ال·جِيرَان | geboren.werden·3SG Kind·GEN DEF·Nachbarn",
+   "umschrift": "wulida ṭifl al-jīrān",
+   "wurzel": "و-ل-د",
+   "satz": {
+    "fr": "وُلِدَ طِفْلُ الجِيرَان، وَالبِنَايَةُ كُلُّهَا ذَهَبَتْ تَرَاه.",
+    "de": "Das Baby der Nachbarn ist geboren, und das ganze Haus ging es ansehen.",
+    "luecke": "وُلِدَ طِفْلُ الجِيرَان",
+    "gloss": "وُلِد·َ طِفْل·ُ ال·جِيرَان، وَ·ال·بِنَايَة كُلّ·ُهَا ذَهَب·َتْ تَ·رَا·ه. | geboren.werden·3SG Kind·GEN DEF·Nachbarn, und·DEF·Gebäude ganz·es gehen·3SG.F 3SG.F·sehen·es.",
+    "umschrift": "wulida ṭifl al-jīrān, wal-bināya kulluhā dhahabat tarāh.",
+    "audio": "audio/ar-de/saetze/at_05.mp3?v=85eb5dca"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خِلِئ طِفِل الجيران، والبِنايِة كِلّا راحِت تْشوفو.",
+    "umschrift": "khiliʾ ṭifel ij-jīrān, wil-bināye killa rāḥet tshūfo.",
+    "audio": "audio/ar-de/syrisch/at_05.mp3?v=eba426fc"
+   }
+  },
+  {
+   "id": "at_06",
+   "thema": "atfal",
+   "fr": "اِبْتَسَمَ لِي الطِّفْل",
+   "de": "das Baby hat mich angelächelt",
+   "register": "tu",
+   "anker": "ابتسم",
+   "notiz": "ibtasama li- = anlächeln (Thema 4). najā = gerettet werden, davonkommen (Wurzel n-j-w; najāt = Rettung). yawm-ī = mein Tag. fa- = und so.",
+   "audio": "audio/ar-de/wendungen/at_06.mp3?v=01b25d00",
+   "gloss": "اِبْتَسَم·َ لِ·ي ال·طِفْل | lächeln·3SG für·mich DEF·Kind",
+   "umschrift": "ibtasama lī ṭ-ṭifl",
+   "wurzel": "ب-س-م",
+   "satz": {
+    "fr": "اِبْتَسَمَ لِي الطِّفْل، فَنَجَا يَوْمِي.",
+    "de": "Das Baby hat mich angelächelt, und mein Tag war gerettet.",
+    "luecke": "اِبْتَسَمَ لِي الطِّفْل",
+    "gloss": "اِبْتَسَم·َ لِ·ي ال·طِفْل، فَ·نَجَا يَوْم·ِي. | lächeln·3SG für·mich DEF·Kind, da·gerettet.werden Tag·mein.",
+    "umschrift": "ibtasama lī ṭ-ṭifl, fa-najā yawmī.",
+    "audio": "audio/ar-de/saetze/at_06.mp3?v=aae193cb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الطِّفِل بْتَسَم لي، ويومي نِجي.",
+    "umschrift": "iṭ-ṭifel btasam-lī, w-yōmī niji.",
+    "audio": "audio/ar-de/syrisch/at_06.mp3?v=48e2e272"
+   }
+  },
+  {
+   "id": "at_07",
+   "thema": "atfal",
+   "fr": "الأَطْفَالُ يَكْبَرُونَ بِسُرْعَة",
+   "de": "Kinder werden schnell groß",
+   "register": "tu",
+   "anker": "كبر",
+   "notiz": "aṭfāl = Kinder (Menschenplural: Verb mit -ūn: yakbarūn). banāṭīl = Hosen (Plural von banṭalūn, aus dem Italienischen). Sachplural: lā talḥaq (feminin Singular). laḥiqa = einholen, hinterherkommen.",
+   "audio": "audio/ar-de/wendungen/at_07.mp3?v=2a449678",
+   "gloss": "ال·أَطْفَال يَ·كْبَر·ُون بِ·سُرْعَة | DEF·Kinder 3·groß.werden·PL mit·Schnelligkeit",
+   "umschrift": "al-aṭfāl yakbarūn bi-surʿa",
+   "wurzel": "ك-ب-ر",
+   "satz": {
+    "fr": "الأَطْفَالُ يَكْبَرُونَ بِسُرْعَة، وَالبَنَاطِيلُ لا تَلْحَق.",
+    "de": "Kinder werden schnell groß, und die Hosen kommen nicht hinterher.",
+    "luecke": "الأَطْفَالُ يَكْبَرُونَ",
+    "gloss": "ال·أَطْفَال يَ·كْبَر·ُون بِ·سُرْعَة، وَ·ال·بَنَاطِيل لا تَ·لْحَق. | DEF·Kinder 3·groß.werden·PL mit·Schnelligkeit, und·DEF·Hosen nicht 3SG.F·hinterherkommen.",
+    "umschrift": "al-aṭfāl yakbarūn bi-surʿa, wal-banāṭīl lā talḥaq.",
+    "audio": "audio/ar-de/saetze/at_07.mp3?v=d94afc68"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "الأَطْفَالُ كَبِرُوا بِسُرْعَة، وَالبَنَاطِيلُ لَمْ تَلْحَق.",
+     "umschrift": "al-aṭfāl kabirū bi-surʿa, wal-banāṭīl lam talḥaq.",
+     "audio": "audio/ar-de/saetze/at_07_pc.mp3?v=5c6e87ce"
+    },
+    "fp": {
+     "fr": "الأَطْفَالُ سَيَكْبَرُونَ بِسُرْعَة، وَالبَنَاطِيلُ لَنْ تَلْحَق.",
+     "umschrift": "al-aṭfāl sa-yakbarūn bi-surʿa, wal-banāṭīl lan talḥaq.",
+     "audio": "audio/ar-de/saetze/at_07_fp.mp3?v=6e008fbb"
+    }
+   },
+   "syrisch": {
+    "fr": "الوْلاد بْيِكْبَرو بْسُرْعَة، والبَناطيل ما بْتِلْحَئ.",
+    "umschrift": "il-wlād byikbarū b-surʿa, wil-banāṭīl mā btilḥaʾ.",
+    "audio": "audio/ar-de/syrisch/at_07.mp3?v=2b42f16e"
+   }
+  },
+  {
+   "id": "at_08",
+   "thema": "atfal",
+   "fr": "يَنَامُ بِصُعُوبَة",
+   "de": "er schläft schlecht ein",
+   "register": "tu",
+   "anker": "صعب",
+   "notiz": "bi-ṣuʿūba = mit Schwierigkeit (ṣuʿūba von ṣaʿb, Thema 1: aṣʿab). thalāth ḥikāyāt: feminin, Zahl ohne -a (Lektion 7). kull layla = jede Nacht.",
+   "audio": "audio/ar-de/wendungen/at_08.mp3?v=6c196d44",
+   "gloss": "يَ·نَام بِ·صُعُوبَة | 3SG·schlafen mit·Schwierigkeit",
+   "umschrift": "yanām bi-ṣuʿūba",
+   "wurzel": "ص-ع-ب",
+   "satz": {
+    "fr": "الصَّغِيرُ يَنَامُ بِصُعُوبَة: ثَلاثُ حِكَايَاتٍ كُلَّ لَيْلَة.",
+    "de": "Der Kleine schläft schlecht ein: drei Märchen jede Nacht.",
+    "luecke": "يَنَامُ بِصُعُوبَة",
+    "gloss": "ال·صَغِير يَ·نَام بِ·صُعُوبَة: ثَلاث حِكَايَات كُلّ لَيْلَة. | DEF·Kleine 3SG·schlafen mit·Schwierigkeit: drei Märchen jede Nacht.",
+    "umschrift": "aṣ-ṣaghīr yanām bi-ṣuʿūba: thalāth ḥikāyāt kull layla.",
+    "audio": "audio/ar-de/saetze/at_08.mp3?v=069ce567"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "الصَّغِيرُ نَامَ بِصُعُوبَة: ثَلاثُ حِكَايَاتٍ كُلَّ لَيْلَة.",
+     "umschrift": "aṣ-ṣaghīr nāma bi-ṣuʿūba: thalāth ḥikāyāt kull layla.",
+     "audio": "audio/ar-de/saetze/at_08_pc.mp3?v=7aaeed0d"
+    },
+    "fp": {
+     "fr": "الصَّغِيرُ سَيَنَامُ بِصُعُوبَة: ثَلاثُ حِكَايَاتٍ كُلَّ لَيْلَة.",
+     "umschrift": "aṣ-ṣaghīr sa-yanām bi-ṣuʿūba: thalāth ḥikāyāt kull layla.",
+     "audio": "audio/ar-de/saetze/at_08_fp.mp3?v=18331800"
+    }
+   },
+   "syrisch": {
+    "fr": "الزْغير بْيِنام بْصُعوبِة: تْلات حْكايات كِلّ لِيلِة.",
+    "umschrift": "iz-zghīr byinām b-ṣuʿūbe: tlāt ḥkāyāt kill lēle.",
+    "audio": "audio/ar-de/syrisch/at_08.mp3?v=92fa19f4"
+   }
+  },
+  {
+   "id": "at_09",
+   "thema": "atfal",
+   "fr": "غَيَّرْتُ الحَفَّاظ",
+   "de": "ich habe die Windel gewechselt",
+   "register": "tu",
+   "anker": "غير",
+   "notiz": "ghayyara = wechseln, ändern (Stamm II von gh-y-r; taghayyara aus Thema 4). ḥaffāẓ = Windel (von ḥafiẓa, bewahren: der Bewahrer!). daqīqatayn = zwei Minuten (Dual einer feminin: -atayn).",
+   "audio": "audio/ar-de/wendungen/at_09.mp3?v=d7174428",
+   "gloss": "غَيَّر·ْتُ ال·حَفَّاظ | wechseln·1SG DEF·Windel",
+   "umschrift": "ghayyartu l-ḥaffāẓ",
+   "wurzel": "غ-ي-ر",
+   "satz": {
+    "fr": "غَيَّرْتُ الحَفَّاظ، وَبَعْدَ دَقِيقَتَيْنِ مِنْ جَدِيد.",
+    "de": "Ich habe die Windel gewechselt, und zwei Minuten später wieder.",
+    "luecke": "غَيَّرْتُ الحَفَّاظ",
+    "gloss": "غَيَّر·ْتُ ال·حَفَّاظ، وَ·بَعْدَ دَقِيقَت·َيْن مِنْ جَدِيد. | wechseln·1SG DEF·Windel, und·nach Minute·DUAL von neu.",
+    "umschrift": "ghayyartu l-ḥaffāẓ, wa-baʿda daqīqatayn min jadīd.",
+    "audio": "audio/ar-de/saetze/at_09.mp3?v=1ed34799"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "غَيَّرْت الحَفّاض، وبَعْد دَئيئْتين مِن جْديد.",
+    "umschrift": "ghayyart il-ḥaffāḍ, w-baʿd daʾīʾtēn min jdīd.",
+    "audio": "audio/ar-de/syrisch/at_09.mp3?v=e2e1e399"
+   }
+  },
+  {
+   "id": "at_10",
+   "thema": "atfal",
+   "fr": "كُنْ مُؤَدَّبًا",
+   "de": "sei brav",
+   "register": "tu",
+   "anker": "كان",
+   "notiz": "kun = sei (Imperativ von kāna, kurz: kun; kun muʾaddaban mit Akkusativ, Lektion 5). muʾaddab = wohlerzogen (Thema 1). khāla = Tante mütterlicherseits (ʿamma väterlicherseits). qādima = kommend, im Anmarsch.",
+   "audio": "audio/ar-de/wendungen/at_10.mp3?v=2b0bc258",
+   "gloss": "كُنْ مُؤَدَّب·ًا | sei höflich·AKK",
+   "umschrift": "kun muʾaddaban",
+   "wurzel": "أ-د-ب",
+   "satz": {
+    "fr": "كُنْ مُؤَدَّبًا، خَالَتُكَ قَادِمَة.",
+    "de": "Sei brav, deine Tante kommt.",
+    "luecke": "كُنْ مُؤَدَّبًا",
+    "gloss": "كُنْ مُؤَدَّب·ًا، خَالَت·ُكَ قَادِمَة. | sei höflich·AKK, Tante·dein kommend.F.",
+    "umschrift": "kun muʾaddaban, khālatuk qādima.",
+    "audio": "audio/ar-de/saetze/at_10.mp3?v=835554ff"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "كون مْأَدَّب، خالْتَك جايِة.",
+    "umschrift": "kūn mʾaddab, khāltak jāye.",
+    "audio": "audio/ar-de/syrisch/at_10.mp3?v=6528466b"
+   }
+  },
+  {
+   "id": "at_11",
+   "thema": "atfal",
+   "fr": "لَعِبْنَا الغُمَّيْضَة",
+   "de": "wir haben Verstecken gespielt",
+   "register": "tu",
+   "anker": "لعب",
+   "notiz": "ghummayḍa = Versteckspiel (von ghammaḍa, die Augen schließen: der Sucher macht die Augen zu). laʿiba = spielen (Thema 6). fāza = gewinnen (fāza / yafūz; fāza dāʾiman = gewann immer).",
+   "audio": "audio/ar-de/wendungen/at_11.mp3?v=92b80f93",
+   "gloss": "لَعِب·ْنَا ال·غُمَّيْضَة | spielen·1PL DEF·Verstecken",
+   "umschrift": "laʿibnā l-ghummayḍa",
+   "wurzel": "غ-م-ض",
+   "satz": {
+    "fr": "لَعِبْنَا الغُمَّيْضَة، وَالقِطُّ فَازَ دَائِمًا.",
+    "de": "Wir haben Verstecken gespielt, und die Katze hat immer gewonnen.",
+    "luecke": "لَعِبْنَا الغُمَّيْضَة",
+    "gloss": "لَعِب·ْنَا ال·غُمَّيْضَة، وَ·ال·قِطّ فَاز·َ دَائِمًا. | spielen·1PL DEF·Verstecken, und·DEF·Katze gewinnen·3SG immer.",
+    "umschrift": "laʿibnā l-ghummayḍa, wal-qiṭṭ fāza dāʾiman.",
+    "audio": "audio/ar-de/saetze/at_11.mp3?v=96476da6"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "لْعِبْنا غُمّيضَة، والبِسّ رِبِح دايْمًا.",
+    "umschrift": "lʿibnā ghummēḍa, wil-biss ribeḥ dāyman.",
+    "audio": "audio/ar-de/syrisch/at_11.mp3?v=296150be"
+   }
+  },
+  {
+   "id": "at_12",
+   "thema": "atfal",
+   "fr": "أَقْرَأُ حِكَايَة، وَأَنَامُ أَنَا أَوَّلاً",
+   "de": "ich lese ein Märchen vor und schlafe selbst zuerst ein",
+   "register": "tu",
+   "anker": "قرأ",
+   "notiz": "aqraʾ = ich lese (Thema 4). anām anā awwalan = ich schlafe, ich, zuerst: das nachgestellte anā betont (wie türkisch ben önce). Vorlesen = qaraʾa li-; erzählen = ḥakā.",
+   "audio": "audio/ar-de/wendungen/at_12.mp3?v=91d52b8c",
+   "gloss": "أَ·قْرَأ حِكَايَة، وَ·أَ·نَام أَنَا أَوَّلاً | 1SG·lesen Märchen, und·1SG·schlafen ich zuerst",
+   "umschrift": "aqraʾ ḥikāya, wa-anām anā awwalan",
+   "wurzel": "ق-ر-أ",
+   "satz": {
+    "fr": "كُلَّ مَسَاءٍ أَقْرَأُ حِكَايَة، وَأَنَامُ أَنَا أَوَّلاً.",
+    "de": "Jeden Abend lese ich ein Märchen vor, und ich schlafe selbst zuerst ein.",
+    "luecke": "أَقْرَأُ حِكَايَة",
+    "gloss": "كُلّ مَسَاء أَ·قْرَأ حِكَايَة، وَ·أَ·نَام أَنَا أَوَّلاً. | jeder Abend 1SG·lesen Märchen, und·1SG·schlafen ich zuerst.",
+    "umschrift": "kull masāʾ aqraʾ ḥikāya, wa-anām anā awwalan.",
+    "audio": "audio/ar-de/saetze/at_12.mp3?v=06394e89"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "كِلّ مَسا بِقْرا حْكايِة، وبْنام أَنا أَوَّل.",
+    "umschrift": "kill masa biʾra ḥkāye, w-bnām ana awwal.",
+    "audio": "audio/ar-de/syrisch/at_12.mp3?v=9d7e126e"
+   }
+  },
+  {
+   "id": "at_13",
+   "thema": "atfal",
+   "fr": "لا تَبْكِ",
+   "de": "wein nicht",
+   "register": "tu",
+   "anker": "بكى",
+   "notiz": "lā tabki = wein nicht (Verbot mit Jussiv; schwaches Verb verliert den Endvokal: tabkī → tabki). būẓa = Speiseeis (Levante; Saudi: āys krīm). thallāja = Kühlschrank (thalj = Eis, Schnee). minhā = davon.",
+   "audio": "audio/ar-de/wendungen/at_13.mp3?v=f8b8c74b",
+   "gloss": "لا تَ·بْكِ | nicht 2SG·weinen.JUSS",
+   "umschrift": "lā tabki",
+   "wurzel": "ب-ك-ي",
+   "satz": {
+    "fr": "لا تَبْكِ، البُوظَةُ لَمْ تَنْتَهِ، فِي الثَّلَّاجَةِ مِنْهَا.",
+    "de": "Wein nicht, das Eis ist nicht alle, im Kühlschrank ist noch welches.",
+    "luecke": "لا تَبْكِ",
+    "gloss": "لا تَ·بْكِ، ال·بُوظَة لَمْ تَ·نْتَهِ، فِي ال·ثَلَّاجَة مِنْ·هَا. | nicht 2SG·weinen.JUSS, DEF·Eis nicht.VERG 3SG.F·enden.JUSS, in DEF·Kühlschrank von·ihm.",
+    "umschrift": "lā tabki, al-būẓa lam tantahi, fī th-thallāja minhā.",
+    "audio": "audio/ar-de/saetze/at_13.mp3?v=f8a95fd3"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "لا تِبْكي، البوظَة ما خِلْصِت، في بِالبَرّاد.",
+    "umschrift": "lā tibkī, il-būẓa mā khilṣet, fī bil-barrād.",
+    "audio": "audio/ar-de/syrisch/at_13.mp3?v=4726052a"
+   }
+  },
+  {
+   "id": "at_14",
+   "thema": "atfal",
+   "fr": "تُعَانِقُنِي ابْنَتِي",
+   "de": "meine Tochter umarmt mich",
+   "register": "tu",
+   "anker": "عانق",
+   "notiz": "ʿānaqa = umarmen (Stamm III von ʿ-n-q, Hals: um den Hals fallen). tuʿāniqu-nī = sie umarmt mich. ibna = Tochter, ibnat-ī = meine Tochter (ibn = Sohn). ʿāda / yaʿūd = zurückkehren (ʿudtu, kurz). taʿab = Müdigkeit.",
+   "audio": "audio/ar-de/wendungen/at_14.mp3?v=dfe9c2fc",
+   "gloss": "تُ·عَانِق·ُنِي ابْنَت·ِي | 3SG.F·umarmen·mich Tochter·mein",
+   "umschrift": "tuʿāniqunī bnatī",
+   "wurzel": "ع-ن-ق",
+   "satz": {
+    "fr": "حِينَ أَعُودُ تُعَانِقُنِي ابْنَتِي، فَيَذْهَبُ التَّعَب.",
+    "de": "Wenn ich heimkomme, umarmt mich meine Tochter, und die Müdigkeit geht.",
+    "luecke": "تُعَانِقُنِي ابْنَتِي",
+    "gloss": "حِينَ أَ·عُود تُ·عَانِق·ُنِي ابْنَت·ِي، فَ·يَ·ذْهَب ال·تَعَب. | wenn 1SG·zurückkehren 3SG.F·umarmen·mich Tochter·mein, da·3SG·gehen DEF·Müdigkeit.",
+    "umschrift": "ḥīna aʿūd tuʿāniqunī bnatī, fa-yadhhab at-taʿab.",
+    "audio": "audio/ar-de/saetze/at_14.mp3?v=85a629f2"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "حِينَ عُدْتُ عَانَقَتْنِي ابْنَتِي، فَذَهَبَ التَّعَب.",
+     "umschrift": "ḥīna ʿudtu ʿānaqatnī bnatī, fa-dhahaba t-taʿab.",
+     "audio": "audio/ar-de/saetze/at_14_pc.mp3?v=c3dd3ad3"
+    },
+    "fp": {
+     "fr": "حِينَ أَعُودُ سَتُعَانِقُنِي ابْنَتِي، فَسَيَذْهَبُ التَّعَب.",
+     "umschrift": "ḥīna aʿūd sa-tuʿāniqunī bnatī, fa-sa-yadhhab at-taʿab.",
+     "audio": "audio/ar-de/saetze/at_14_fp.mp3?v=2fad3d02"
+    }
+   },
+   "syrisch": {
+    "fr": "لَمّا بِرْجَع بِتْعَبِّئْني بِنْتي، وبْيْروح التَّعَب.",
+    "umschrift": "lamma birjaʿ bitʿabbiʾnī bintī, w-byrūḥ it-taʿab.",
+    "audio": "audio/ar-de/syrisch/at_14.mp3?v=1c773b9b"
+   }
+  },
+  {
+   "id": "at_15",
+   "thema": "atfal",
+   "fr": "اِبْنِي تَعَلَّمَ المَشْي",
+   "de": "mein Sohn hat laufen gelernt",
+   "register": "tu",
+   "anker": "تعلم",
+   "notiz": "taʿallama = lernen (Thema 0: ataʿallam). al-mashy = das Gehen (maṣdar von mashā, Lektion 6: der Infinitiv als Objekt). lam yaʿud … = nicht mehr (lam + Jussiv von ʿāda: « kehrte nicht zurück, dass »). fī amān = in Sicherheit.",
+   "audio": "audio/ar-de/wendungen/at_15.mp3?v=6a183a86",
+   "gloss": "اِبْن·ِي تَعَلَّم·َ ال·مَشْي | Sohn·mein lernen·3SG DEF·Gehen",
+   "umschrift": "ibnī taʿallama l-mashy",
+   "wurzel": "ع-ل-م",
+   "satz": {
+    "fr": "اِبْنِي تَعَلَّمَ المَشْي، لَمْ يَعُدْ شَيْءٌ فِي أَمَان.",
+    "de": "Mein Sohn hat laufen gelernt, nichts ist mehr sicher.",
+    "luecke": "اِبْنِي تَعَلَّمَ المَشْي",
+    "gloss": "اِبْن·ِي تَعَلَّم·َ ال·مَشْي، لَمْ يَ·عُد·ْ شَيْء فِي أَمَان. | Sohn·mein lernen·3SG DEF·Gehen, nicht.VERG 3SG·zurückkehren·JUSS Ding in Sicherheit.",
+    "umschrift": "ibnī taʿallama l-mashy, lam yaʿud shayʾ fī amān.",
+    "audio": "audio/ar-de/saetze/at_15.mp3?v=d77d6571"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اِبْني تْعَلَّم المَشي، ما بَئى شي بْأَمان.",
+    "umschrift": "ibnī tʿallam il-mashī, mā baʾa shī b-amān.",
+    "audio": "audio/ar-de/syrisch/at_15.mp3?v=fe4dbe75"
+   }
+  },
+  {
+   "id": "at_16",
+   "thema": "atfal",
+   "fr": "أَفْتَخِرُ بِابْنَتِي",
+   "de": "ich bin stolz auf meine Tochter",
+   "register": "tu",
+   "anker": "افتخر",
+   "notiz": "aftakhir bi- = stolz sein auf (Thema 2). rakibat = sie fuhr (rakiba, Anekdote 1: reiten = fahren). darrāja = Fahrrad (von daraja, Stufe: das Trittrad; Syrisch bisklēt). li-awwal marra = zum ersten Mal.",
+   "audio": "audio/ar-de/wendungen/at_16.mp3?v=0edcd2d3",
+   "gloss": "أَ·فْتَخِر بِ·ابْنَت·ِي | 1SG·stolz.sein auf·Tochter·mein",
+   "umschrift": "aftakhir bi-bnatī",
+   "wurzel": "ف-خ-ر",
+   "satz": {
+    "fr": "أَفْتَخِرُ بِابْنَتِي: اليَوْمَ رَكِبَتِ الدَّرَّاجَةَ لأَوَّلِ مَرَّة.",
+    "de": "Ich bin stolz auf meine Tochter: Heute ist sie zum ersten Mal Rad gefahren.",
+    "luecke": "أَفْتَخِرُ بِابْنَتِي",
+    "gloss": "أَ·فْتَخِر بِ·ابْنَت·ِي: ال·يَوْم رَكِب·َتِ ال·دَرَّاجَة لِ·أَوَّل مَرَّة. | 1SG·stolz.sein auf·Tochter·mein: DEF·Tag fahren·3SG.F DEF·Fahrrad für·erstes Mal.",
+    "umschrift": "aftakhir bi-bnatī: al-yawm rakibat id-darrāja li-awwal marra.",
+    "audio": "audio/ar-de/saetze/at_16.mp3?v=7ac1509a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِفْتِخِر بْبِنْتي: اليوم رِكْبِت البِسْكْليت أَوَّل مَرَّة.",
+    "umschrift": "biftikhir b-bintī: il-yōm rikbet il-bisklēt awwal marra.",
+    "audio": "audio/ar-de/syrisch/at_16.mp3?v=6802e875"
+   }
+  },
+  {
+   "id": "at_17",
+   "thema": "atfal",
+   "fr": "كَلِمَتُهُ الأُولَى",
+   "de": "sein erstes Wort",
+   "register": "tu",
+   "anker": "كلمة",
+   "notiz": "kalimat-uhu l-ūlā = sein erstes Wort (Possessiv, dann das Adjektiv mit al-). lam takun = war nicht (lam + Jussiv von kāna, feminin). biss = Katze auf Syrisch (das Kinderwort, qiṭṭ im Standard).",
+   "audio": "audio/ar-de/wendungen/at_17.mp3?v=153a1259",
+   "gloss": "كَلِمَت·ُهُ ال·أُولَى | Wort·sein DEF·erste",
+   "umschrift": "kalimatuhu l-ūlā",
+   "wurzel": "ك-ل-م",
+   "satz": {
+    "fr": "كَلِمَتُهُ الأُولَى لَمْ تَكُنْ « مَامَا »، بَلْ « بِسّ ».",
+    "de": "Sein erstes Wort war nicht « Mama », sondern « biss » (Katze).",
+    "luecke": "كَلِمَتُهُ الأُولَى",
+    "gloss": "كَلِمَت·ُهُ ال·أُولَى لَمْ تَ·كُن·ْ « مَامَا »، بَلْ « بِسّ ». | Wort·sein DEF·erste nicht.VERG 3SG.F·sein·JUSS « Mama », sondern « Katze ».",
+    "umschrift": "kalimatuhu l-ūlā lam takun « māmā », bal « biss ».",
+    "audio": "audio/ar-de/saetze/at_17.mp3?v=ce3741ff"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَوَّل كِلْمِة إلو ما كانِت « ماما »، كانِت « بِسّ ».",
+    "umschrift": "awwal kilme ʾilo mā kānet « māmā », kānet « biss ».",
+    "audio": "audio/ar-de/syrisch/at_17.mp3?v=ebf07ba9"
+   }
+  },
+  {
+   "id": "at_18",
+   "thema": "atfal",
+   "fr": "اِصْبِر",
+   "de": "hab Geduld",
+   "register": "tu",
+   "anker": "صبر",
+   "notiz": "iṣbir = hab Geduld (Imperativ von ṣabara, Lektion 6). rabaṭa = binden (Wurzel r-b-ṭ; rābiṭa = Verbindung, Liga). ḥidhāʾ = Schuh (Hamza am Ende; Dual ḥidhāʾān). bi-nafsih = selbst.",
+   "audio": "audio/ar-de/wendungen/at_18.mp3?v=ff8a0e8d",
+   "gloss": "اِصْبِر | hab.Geduld",
+   "umschrift": "iṣbir",
+   "wurzel": "ص-ب-ر",
+   "satz": {
+    "fr": "اِصْبِر، سَيَرْبِطُ حِذَاءَهُ بِنَفْسِه.",
+    "de": "Hab Geduld, er wird den Schuh selbst binden.",
+    "luecke": "اِصْبِر",
+    "gloss": "اِصْبِر، سَ·يَ·رْبِط حِذَاء·َهُ بِ·نَفْس·ِه. | hab.Geduld, FUT·3SG·binden Schuh·sein mit·Selbst·sein.",
+    "umschrift": "iṣbir, sa-yarbiṭ ḥidhāʾahu bi-nafsih.",
+    "audio": "audio/ar-de/saetze/at_18.mp3?v=551c4d1d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اصْبُر، رَح يِرْبُط صُبّاطو لَحالو.",
+    "umschrift": "iṣbor, raḥ yirboṭ ṣubbāṭo la-ḥālo.",
+    "audio": "audio/ar-de/syrisch/at_18.mp3?v=20d4c975"
+   }
+  },
+  {
+   "id": "at_19",
+   "thema": "atfal",
+   "fr": "وَجْبَةُ العَصْر",
+   "de": "der Nachmittagssnack",
+   "register": "tu",
+   "anker": "وجبة",
+   "notiz": "wajba = Mahlzeit (von wajaba, Thema 1: die fällige). al-ʿaṣr = der Nachmittag (auch das Nachmittagsgebet, wie ikindi). manqūsha = das Fladenbrot mit Thymian oder Käse, die Levante-Pizza. ḥalīb = Milch (Modul 1).",
+   "audio": "audio/ar-de/wendungen/at_19.mp3?v=bac7fc14",
+   "gloss": "وَجْبَة·ُ ال·عَصْر | Mahlzeit·GEN DEF·Nachmittag",
+   "umschrift": "wajbat al-ʿaṣr",
+   "wurzel": "و-ج-ب",
+   "satz": {
+    "fr": "بَعْدَ المَدْرَسَةِ وَجْبَةُ العَصْر: مَنْقُوشَةٌ وَحَلِيب.",
+    "de": "Nach der Schule der Nachmittagssnack: Manousheh und Milch.",
+    "luecke": "وَجْبَةُ العَصْر",
+    "gloss": "بَعْدَ ال·مَدْرَسَة وَجْبَة·ُ ال·عَصْر: مَنْقُوشَة وَ·حَلِيب. | nach DEF·Schule Mahlzeit·GEN DEF·Nachmittag: Manousheh und·Milch.",
+    "umschrift": "baʿda l-madrasa wajbat al-ʿaṣr: manqūsha wa-ḥalīb.",
+    "audio": "audio/ar-de/saetze/at_19.mp3?v=a51755d2"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بَعْد المَدْرَسِة عَصْرونِيِّة: مَنْئوشِة وحَليب.",
+    "umschrift": "baʿd il-madrase ʿaṣrūniyye: manʾūshe w-ḥalīb.",
+    "audio": "audio/ar-de/syrisch/at_19.mp3?v=e62b7507"
+   }
+  },
+  {
+   "id": "at_20",
+   "thema": "atfal",
+   "fr": "ضَحِكَ الأَطْفَالُ بِصَوْتٍ عَالٍ",
+   "de": "die Kinder lachten laut",
+   "register": "tu",
+   "anker": "ضحك",
+   "notiz": "dakhala = hineingehen (Thema 5). ṣundūq = Kiste, Kasten (auch Ihr Lernkasten in der App: ṣundūqī!). ḍaḥika l-aṭfāl: Verb vor dem Subjekt steht im Singular, auch bei Plural. bi-ṣawt ʿālin = laut.",
+   "audio": "audio/ar-de/wendungen/at_20.mp3?v=7ebfbded",
+   "gloss": "ضَحِك·َ ال·أَطْفَال بِ·صَوْت عَالٍ | lachen·3SG DEF·Kinder mit·Stimme hoch",
+   "umschrift": "ḍaḥika l-aṭfāl bi-ṣawt ʿālin",
+   "wurzel": "ض-ح-ك",
+   "satz": {
+    "fr": "دَخَلَ القِطُّ الصُّنْدُوق، فَضَحِكَ الأَطْفَالُ بِصَوْتٍ عَالٍ.",
+    "de": "Die Katze stieg in die Kiste, und die Kinder lachten laut.",
+    "luecke": "ضَحِكَ الأَطْفَالُ بِصَوْتٍ عَالٍ",
+    "gloss": "دَخَل·َ ال·قِطّ ال·صُنْدُوق، فَ·ضَحِك·َ ال·أَطْفَال بِ·صَوْت عَالٍ. | hineingehen·3SG DEF·Katze DEF·Kiste, da·lachen·3SG DEF·Kinder mit·Stimme hoch.",
+    "umschrift": "dakhala l-qiṭṭ aṣ-ṣundūq, fa-ḍaḥika l-aṭfāl bi-ṣawt ʿālin.",
+    "audio": "audio/ar-de/saetze/at_20.mp3?v=a0f3f8a6"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "البِسّ فات بِالصَّنْدوئ، والوْلاد ضِحْكو بْصوت عالي.",
+    "umschrift": "il-biss fāt biṣ-ṣandūʾ, wil-wlād ḍiḥkū b-ṣōt ʿālī.",
+    "audio": "audio/ar-de/syrisch/at_20.mp3?v=eda717e8"
+   }
+  },
+  {
+   "id": "at_21",
+   "thema": "atfal",
+   "fr": "قَيْلُولَةُ الظُّهْرِ مُقَدَّسَة",
+   "de": "der Mittagsschlaf ist heilig",
+   "register": "tu",
+   "anker": "قيلولة",
+   "notiz": "qaylūla = Mittagsschlaf, Siesta (von qāla, mittags rasten, nicht sagen!). muqaddasa = heilig (Wurzel q-d-s; al-Quds = Jerusalem). rawḍa = Kindergarten (wörtlich: Garten; ar-Riyāḍ = die Gärten!).",
+   "audio": "audio/ar-de/wendungen/at_21.mp3?v=d04dd0b0",
+   "gloss": "قَيْلُولَة·ُ ال·ظُهْر مُقَدَّسَة | Mittagsschlaf·GEN DEF·Mittag heilig.F",
+   "umschrift": "qaylūlat aẓ-ẓuhr muqaddasa",
+   "wurzel": "ق-ي-ل",
+   "satz": {
+    "fr": "قَيْلُولَةُ الظُّهْرِ مُقَدَّسَة، فِي الرَّوْضَةِ وَفِي غُرْفَةِ المُعَلِّمِين.",
+    "de": "Der Mittagsschlaf ist heilig, im Kindergarten und im Lehrerzimmer.",
+    "luecke": "قَيْلُولَةُ الظُّهْرِ مُقَدَّسَة",
+    "gloss": "قَيْلُولَة·ُ ال·ظُهْر مُقَدَّسَة، فِي ال·رَوْضَة وَ·فِي غُرْفَة·ِ ال·مُعَلِّم·ِين. | Mittagsschlaf·GEN DEF·Mittag heilig.F, in DEF·Kindergarten und·in Zimmer·GEN DEF·Lehrer·PL.",
+    "umschrift": "qaylūlat aẓ-ẓuhr muqaddasa, fī r-rawḍa wa-fī ghurfat al-muʿallimīn.",
+    "audio": "audio/ar-de/saetze/at_21.mp3?v=b9279f7d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "ئَيْلولِة الضُّهْر مْئَدَّسِة، بِالرَّوْضَة وبْغُرْفِة المْعَلّْمين.",
+    "umschrift": "ʾaylūlet iḍ-ḍuhr mʾaddase, bir-rawḍa w-b-ghurfet il-mʿallmīn.",
+    "audio": "audio/ar-de/syrisch/at_21.mp3?v=c25c78c9"
+   }
+  },
+  {
+   "id": "at_22",
+   "thema": "atfal",
+   "fr": "يَخَافُ مِنَ الظَّلام",
+   "de": "er hat Angst im Dunkeln",
+   "register": "tu",
+   "anker": "خاف",
+   "notiz": "khāfa min = Angst haben vor (Wurzel kh-w-f; khāʾif aus Thema 5, khawf = Angst). ẓalām = Dunkelheit (Wurzel ẓ-l-m; ẓill = Schatten). ḍawʾ al-layl = das Licht der Nacht. muḍāʾ = angezündet, brennend.",
+   "audio": "audio/ar-de/wendungen/at_22.mp3?v=f8843571",
+   "gloss": "يَ·خَاف مِنَ ال·ظَلام | 3SG·fürchten von DEF·Dunkelheit",
+   "umschrift": "yakhāf min aẓ-ẓalām",
+   "wurzel": "خ-و-ف",
+   "satz": {
+    "fr": "يَخَافُ مِنَ الظَّلام، وَضَوْءُ اللَّيْلِ مُضَاء.",
+    "de": "Er hat Angst im Dunkeln, und das Nachtlicht brennt.",
+    "luecke": "يَخَافُ مِنَ الظَّلام",
+    "gloss": "يَ·خَاف مِنَ ال·ظَلام، وَ·ضَوْء·ُ ال·لَيْل مُضَاء. | 3SG·fürchten von DEF·Dunkelheit, und·Licht·GEN DEF·Nacht angezündet.",
+    "umschrift": "yakhāf min aẓ-ẓalām, wa-ḍawʾ al-layl muḍāʾ.",
+    "audio": "audio/ar-de/saetze/at_22.mp3?v=f3b8671c"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "خَافَ مِنَ الظَّلام، وَضَوْءُ اللَّيْلِ كَانَ مُضَاءً.",
+     "umschrift": "khāfa min aẓ-ẓalām, wa-ḍawʾ al-layl kāna muḍāʾan.",
+     "audio": "audio/ar-de/saetze/at_22_pc.mp3?v=5594527c"
+    },
+    "fp": {
+     "fr": "سَيَخَافُ مِنَ الظَّلام، وَضَوْءُ اللَّيْلِ سَيَكُونُ مُضَاءً.",
+     "umschrift": "sa-yakhāf min aẓ-ẓalām, wa-ḍawʾ al-layl sa-yakūn muḍāʾan.",
+     "audio": "audio/ar-de/saetze/at_22_fp.mp3?v=d675494a"
+    }
+   },
+   "syrisch": {
+    "fr": "بْيْخاف مِن العِتْمِة، وضَوّ اللّيل مْضَوّى.",
+    "umschrift": "bykhāf min il-ʿitme, w-ḍaww il-lēl mḍawwa.",
+    "audio": "audio/ar-de/syrisch/at_22.mp3?v=446eef68"
+   }
+  },
+  {
+   "id": "at_23",
+   "thema": "atfal",
+   "fr": "حَانَ وَقْتُ الحَمَّام",
+   "de": "es ist Badezeit",
+   "register": "tu",
+   "anker": "حان",
+   "notiz": "ḥāna waqt = die Zeit ist gekommen (ḥāna = fällig werden; ḥīna = als). ḥammām = Bad (Thema 4). haraba = fliehen (Anekdote 3). maʿan = zusammen.",
+   "audio": "audio/ar-de/wendungen/at_23.mp3?v=8a4638a0",
+   "gloss": "حَان·َ وَقْت·ُ ال·حَمَّام | kommen·3SG Zeit·GEN DEF·Bad",
+   "umschrift": "ḥāna waqt al-ḥammām",
+   "wurzel": "ح-ي-ن",
+   "satz": {
+    "fr": "حَانَ وَقْتُ الحَمَّام، فَهَرَبَ القِطُّ وَالطِّفْلُ مَعًا.",
+    "de": "Es ist Badezeit, da sind Katze und Kind zusammen geflohen.",
+    "luecke": "حَانَ وَقْتُ الحَمَّام",
+    "gloss": "حَان·َ وَقْت·ُ ال·حَمَّام، فَ·هَرَب·َ ال·قِطّ وَ·ال·طِفْل مَعًا. | kommen·3SG Zeit·GEN DEF·Bad, da·fliehen·3SG DEF·Katze und·DEF·Kind zusammen.",
+    "umschrift": "ḥāna waqt al-ḥammām, fa-haraba l-qiṭṭ waṭ-ṭifl maʿan.",
+    "audio": "audio/ar-de/saetze/at_23.mp3?v=33501ad9"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "إجا وَئْت الحَمّام، والبِسّ والطِّفِل هَرَبو سَوا.",
+    "umschrift": "ijā waʾt il-ḥammām, wil-biss wiṭ-ṭifel harabū sawa.",
+    "audio": "audio/ar-de/syrisch/at_23.mp3?v=7091bf9b"
+   }
+  },
+  {
+   "id": "at_24",
+   "thema": "atfal",
+   "fr": "كَمْ عُمْرُ ابْنِكُم؟",
+   "de": "Wie alt ist Ihr Kind? (höflich)",
+   "register": "vous",
+   "anker": "عمر",
+   "notiz": "kam ʿumr = wie viel (ist) das Alter (kam = wie viel, dann Singular). ibn-ikum = euer / Ihr Sohn (die Höflichkeit nimmt hier den Plural -kum). ẓanna = meinen, halten für; yaẓunn nafsahu ʿashran = er hält sich für zehn.",
+   "audio": "audio/ar-de/wendungen/at_24.mp3?v=261a3d94",
+   "gloss": "كَمْ عُمْر·ُ ابْن·ِكُم | wieviel Alter·GEN Sohn·Ihr",
+   "umschrift": "kam ʿumr ibnikum?",
+   "wurzel": "ع-م-ر",
+   "satz": {
+    "fr": "كَمْ عُمْرُ ابْنِكُم؟ – خَمْسٌ، لَكِنَّهُ يَظُنُّ نَفْسَهُ عَشْرًا.",
+    "de": "Wie alt ist Ihr Kind? – Fünf, aber es hält sich für zehn.",
+    "luecke": "كَمْ عُمْرُ ابْنِكُم",
+    "gloss": "كَمْ عُمْر·ُ ابْن·ِكُم؟ – خَمْس، لَكِنّ·َهُ يَ·ظُنّ نَفْس·َهُ عَشْر·ًا. | wieviel Alter·GEN Sohn·Ihr? – fünf, aber·er 3SG·meinen Selbst·sein zehn·AKK.",
+    "umschrift": "kam ʿumr ibnikum? – khams, lākinnahu yaẓunn nafsahu ʿashran.",
+    "audio": "audio/ar-de/saetze/at_24.mp3?v=419de2d7"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "ئَدّيش عُمْر اِبْنَك؟ – خَمْسِة، بَسّ فاكِر حالو عَشْرَة.",
+    "umschrift": "ʾaddēsh ʿimr ibnak? – khamse, bass fāker ḥālo ʿashra.",
+    "audio": "audio/ar-de/syrisch/at_24.mp3?v=98dacd1a"
+   }
   }
  ],
  "dialoge": [
@@ -11303,6 +12027,235 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 1
     }
    ]
+  },
+  {
+   "id": "g_atfal",
+   "thema": "atfal",
+   "titel": "الجُمُوعُ المُكَسَّرَة وَالإِعْرَابُ المَسْمُوع",
+   "de": "Gebrochene Plurale, und die Endungen, die man doch hört",
+   "regel": [
+    "Arabisch hat zwei Arten Plural. Der gesunde hängt an: -ūn/-īn für Männer (muʿallimūn, muʿallimīn), -āt für Frauen und viele Sachen (kalimāt, ḥikāyāt, sayyārāt). Der gebrochene ändert das Wort innen, nach Mustern: afʿāl (ṭifl → aṭfāl, walad → awlād, qalam → aqlām), fuʿūl (kaff → kufūf, bayt → buyūt, qalb → qulūb), fiʿāl (jabal → jibāl, kalb → kilāb), fuʿalāʾ (ṣadīq → aṣdiqāʾ), mafāʿil (madrasa → madāris, maṭbakh → maṭābikh), fawāʿil (shāriʿ → shawāriʿ). Jedes Nomen hat seinen Plural, man lernt ihn mit. Sachplurale gelten als feminin Singular (Lektion 2).",
+    "Wir sprechen Pausalformen, aber einige Endungen hört man immer: das -an der Adverbien (fawran sofort, dāʾiman immer, ayḍan auch, ṭabʿan natürlich), das -an des Wunsches (yawman saʿīdan, ṣaḥḥatan), der Akkusativ nach kāna, laysa, ṣāra (kāna khāʾifan, kun muʾaddaban), und die kurzen Vokale, die eine iḍāfa oder ein Suffix zusammenhalten (qiṭṭ-u-hā, waqt-u-l-ḥammām, madrasat-u-l-banāt). Ab elf hört man das -an auch beim Gezählten: ʿishrīn waraqatan in der Vollform, waraqa in der Pause."
+   ],
+   "morphem": [
+    "PL",
+    "AKK",
+    "WUNSCH"
+   ],
+   "beispiele": [
+    {
+     "fr": "الطِّفْلُ نَامَ حَتَّى الصَّبَاح، وَالأَهْلُ مَذْهُولُون.",
+     "de": "Das Baby hat bis zum Morgen geschlafen, und die Eltern sind verblüfft.",
+     "gloss": "ال·طِفْل نَام·َ حَتَّى ال·صَبَاح، وَ·ال·أَهْل مَذْهُول·ُون. | DEF·Kind schlafen·3SG bis DEF·Morgen, und·DEF·Eltern verblüfft·PL.",
+     "umschrift": "aṭ-ṭifl nāma ḥattā ṣ-ṣabāḥ, wal-ahl madhhūlūn.",
+     "audio": "audio/ar-de/saetze/at_01.mp3?v=d629bf6c",
+     "hinweis": "aṭfāl: Muster afʿāl; madhhūlūn: Menschenplural -ūn."
+    },
+    {
+     "fr": "الأَطْفَالُ يَكْبَرُونَ بِسُرْعَة، وَالبَنَاطِيلُ لا تَلْحَق.",
+     "de": "Kinder werden schnell groß, und die Hosen kommen nicht hinterher.",
+     "gloss": "ال·أَطْفَال يَ·كْبَر·ُون بِ·سُرْعَة، وَ·ال·بَنَاطِيل لا تَ·لْحَق. | DEF·Kinder 3·groß.werden·PL mit·Schnelligkeit, und·DEF·Hosen nicht 3SG.F·hinterherkommen.",
+     "umschrift": "al-aṭfāl yakbarūn bi-surʿa, wal-banāṭīl lā talḥaq.",
+     "audio": "audio/ar-de/saetze/at_07.mp3?v=d94afc68",
+     "hinweis": "banāṭīl: ein Fremdwort im gebrochenen Plural; lā talḥaq: Sachplural feminin."
+    },
+    {
+     "fr": "وُلِدَ طِفْلُ الجِيرَان، وَالبِنَايَةُ كُلُّهَا ذَهَبَتْ تَرَاه.",
+     "de": "Das Baby der Nachbarn ist geboren, und das ganze Haus ging es ansehen.",
+     "gloss": "وُلِد·َ طِفْل·ُ ال·جِيرَان، وَ·ال·بِنَايَة كُلّ·ُهَا ذَهَب·َتْ تَ·رَا·ه. | geboren.werden·3SG Kind·GEN DEF·Nachbarn, und·DEF·Gebäude ganz·es gehen·3SG.F 3SG.F·sehen·es.",
+     "umschrift": "wulida ṭifl al-jīrān, wal-bināya kulluhā dhahabat tarāh.",
+     "audio": "audio/ar-de/saetze/at_05.mp3?v=85eb5dca",
+     "hinweis": "jīrān: Muster fiʿlān."
+    },
+    {
+     "fr": "كُفُوفُهُ بَيْضَاءُ كَالثَّلْج.",
+     "de": "Seine Pfoten sind weiß wie Schnee.",
+     "gloss": "كُفُوف·ُهُ بَيْضَاء كَ·ال·ثَلْج. | Pfoten·sein weiß.F wie·DEF·Schnee.",
+     "umschrift": "kufūfuhu bayḍāʾ ka-th-thalj.",
+     "audio": "audio/ar-de/saetze/qi_17.mp3?v=9a16acfb",
+     "hinweis": "kufūf: Muster fuʿūl, dazu bayḍāʾ im Femininum."
+    },
+    {
+     "fr": "حِينَ بَكَى حَمَلْتُهُ، فَسَكَتَ فَوْرًا.",
+     "de": "Als er weinte, nahm ich ihn hoch, und er war sofort still.",
+     "gloss": "حِينَ بَكَى حَمَل·ْتُ·هُ، فَ·سَكَت·َ فَوْرًا. | als weinte tragen·1SG·ihn, da·still.werden·3SG sofort.",
+     "umschrift": "ḥīna bakā ḥamaltuhu, fa-sakata fawran.",
+     "audio": "audio/ar-de/saetze/at_04.mp3?v=dcd7b705",
+     "hinweis": "fawran: das -an des Adverbs, immer hörbar."
+    },
+    {
+     "fr": "كُنْ مُؤَدَّبًا، خَالَتُكَ قَادِمَة.",
+     "de": "Sei brav, deine Tante kommt.",
+     "gloss": "كُنْ مُؤَدَّب·ًا، خَالَت·ُكَ قَادِمَة. | sei höflich·AKK, Tante·dein kommend.F.",
+     "umschrift": "kun muʾaddaban, khālatuk qādima.",
+     "audio": "audio/ar-de/saetze/at_10.mp3?v=835554ff",
+     "hinweis": "kun muʾaddaban: Akkusativ nach kun."
+    },
+    {
+     "fr": "كَمْ عُمْرُ ابْنِكُم؟ – خَمْسٌ، لَكِنَّهُ يَظُنُّ نَفْسَهُ عَشْرًا.",
+     "de": "Wie alt ist Ihr Kind? – Fünf, aber es hält sich für zehn.",
+     "gloss": "كَمْ عُمْر·ُ ابْن·ِكُم؟ – خَمْس، لَكِنّ·َهُ يَ·ظُنّ نَفْس·َهُ عَشْر·ًا. | wieviel Alter·GEN Sohn·Ihr? – fünf, aber·er 3SG·meinen Selbst·sein zehn·AKK.",
+     "umschrift": "kam ʿumr ibnikum? – khams, lākinnahu yaẓunn nafsahu ʿashran.",
+     "audio": "audio/ar-de/saetze/at_24.mp3?v=419de2d7",
+     "hinweis": "ʿashran: Akkusativ als Prädikat von yaẓunn."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "ṭifl",
+     "b": "aṭfāl",
+     "text": "Kind – Kinder (afʿāl)"
+    },
+    {
+     "a": "bayt",
+     "b": "buyūt",
+     "text": "Haus – Häuser (fuʿūl)"
+    },
+    {
+     "a": "muʿallim",
+     "b": "muʿallimūn",
+     "text": "Lehrer – Lehrer (gesunder Plural -ūn)"
+    },
+    {
+     "a": "kalima",
+     "b": "kalimāt",
+     "text": "Wort – Wörter (gesunder Plural -āt)"
+    },
+    {
+     "a": "fawr",
+     "b": "fawran",
+     "text": "Eile – sofort (das -an macht das Adverb)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "walad + Plural",
+     "antworten": [
+      "awlād",
+      "waladāt",
+      "wulūd"
+     ]
+    },
+    {
+     "formel": "kaff + Plural",
+     "antworten": [
+      "kufūf",
+      "akfāf",
+      "kaffāt"
+     ]
+    },
+    {
+     "formel": "madrasa + Plural",
+     "antworten": [
+      "madāris",
+      "madrasāt",
+      "mudrus"
+     ]
+    },
+    {
+     "formel": "jār + Plural",
+     "antworten": [
+      "jīrān",
+      "jārāt",
+      "ajwār"
+     ]
+    },
+    {
+     "formel": "dāʾim + Adverb (immer)",
+     "antworten": [
+      "dāʾiman",
+      "dāʾimun",
+      "ad-dāʾim"
+     ]
+    },
+    {
+     "formel": "kun + muʾaddab",
+     "antworten": [
+      "kun muʾaddaban",
+      "kun muʾaddab",
+      "kun al-muʾaddab"
+     ]
+    }
+   ],
+   "hoeren_frage": "In welchem Satz steht ein gebrochener Plural (afʿāl, fuʿūl, …)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "الأَطْفَالُ يَكْبَرُونَ بِسُرْعَة، وَالبَنَاطِيلُ لا تَلْحَق.",
+       "de": "Kinder werden schnell groß, und die Hosen kommen nicht hinterher.",
+       "gloss": "ال·أَطْفَال يَ·كْبَر·ُون بِ·سُرْعَة، وَ·ال·بَنَاطِيل لا تَ·لْحَق. | DEF·Kinder 3·groß.werden·PL mit·Schnelligkeit, und·DEF·Hosen nicht 3SG.F·hinterherkommen.",
+       "umschrift": "al-aṭfāl yakbarūn bi-surʿa, wal-banāṭīl lā talḥaq.",
+       "audio": "audio/ar-de/saetze/at_07.mp3?v=d94afc68"
+      },
+      {
+       "fr": "الصَّغِيرُ يَنَامُ بِصُعُوبَة: ثَلاثُ حِكَايَاتٍ كُلَّ لَيْلَة.",
+       "de": "Der Kleine schläft schlecht ein: drei Märchen jede Nacht.",
+       "gloss": "ال·صَغِير يَ·نَام بِ·صُعُوبَة: ثَلاث حِكَايَات كُلّ لَيْلَة. | DEF·Kleine 3SG·schlafen mit·Schwierigkeit: drei Märchen jede Nacht.",
+       "umschrift": "aṣ-ṣaghīr yanām bi-ṣuʿūba: thalāth ḥikāyāt kull layla.",
+       "audio": "audio/ar-de/saetze/at_08.mp3?v=069ce567"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "كُفُوفُهُ بَيْضَاءُ كَالثَّلْج.",
+       "de": "Seine Pfoten sind weiß wie Schnee.",
+       "gloss": "كُفُوف·ُهُ بَيْضَاء كَ·ال·ثَلْج. | Pfoten·sein weiß.F wie·DEF·Schnee.",
+       "umschrift": "kufūfuhu bayḍāʾ ka-th-thalj.",
+       "audio": "audio/ar-de/saetze/qi_17.mp3?v=9a16acfb"
+      },
+      {
+       "fr": "شَوَارِبُهُ تَقِيسُ عَرْضَ البَاب.",
+       "de": "Seine Schnurrhaare messen die Breite der Tür.",
+       "gloss": "شَوَارِب·ُهُ تَ·قِيس عَرْض·َ ال·بَاب. | Schnurrhaare·sein 3SG.F·messen Breite·AKK DEF·Tür.",
+       "umschrift": "shawāribuhu taqīs ʿarḍ al-bāb.",
+       "audio": "audio/ar-de/saetze/qi_18.mp3?v=59b6538d"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "فِي الغَابَةِ المَسْحُورَةِ تَتَكَلَّمُ الأَشْجَار، وَلَكِنْ هَمْسًا.",
+       "de": "Im Zauberwald sprechen die Bäume, aber im Flüsterton.",
+       "gloss": "فِي ال·غَابَة ال·مَسْحُورَة تَ·تَكَلَّم ال·أَشْجَار، وَ·لَكِنْ هَمْسًا. | in DEF·Wald DEF·verzaubert.F 3SG.F·sprechen DEF·Bäume, und·aber flüsternd.",
+       "umschrift": "fī l-ghāba l-masḥūra tatakallam al-ashjār, wa-lākin hamsan.",
+       "audio": "audio/ar-de/saetze/hk_13.mp3?v=4ebdfedb"
+      },
+      {
+       "fr": "اِنْكَسَرَ الطِّلَّسْم، وَالأَمِيرُ ضِفْدَعٌ مِنْ جَدِيد.",
+       "de": "Der Bann ist gebrochen, und der Prinz ist wieder ein Frosch.",
+       "gloss": "اِنْكَسَر·َ ال·طِلَّسْم، وَ·ال·أَمِير ضِفْدَع مِنْ جَدِيد. | zerbrechen·3SG DEF·Bann, und·DEF·Prinz Frosch von neu.",
+       "umschrift": "inkasara ṭ-ṭillasm, wal-amīr ḍifdaʿ min jadīd.",
+       "audio": "audio/ar-de/saetze/hk_14.mp3?v=c6616e3f"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "الدُّبُّ فِي السَّرِير، وَالطِّفْلُ عَلَى الأَرْض.",
+       "de": "Der Teddy liegt im Bett, und das Kind auf dem Boden.",
+       "gloss": "ال·دُبّ فِي ال·سَرِير، وَ·ال·طِفْل عَلَى ال·أَرْض. | DEF·Bär in DEF·Bett, und·DEF·Kind auf DEF·Boden.",
+       "umschrift": "ad-dubb fī s-sarīr, waṭ-ṭifl ʿalā l-arḍ.",
+       "audio": "audio/ar-de/saetze/at_02.mp3?v=0c83d6a4"
+      },
+      {
+       "fr": "الطِّفْلُ نَامَ حَتَّى الصَّبَاح، وَالأَهْلُ مَذْهُولُون.",
+       "de": "Das Baby hat bis zum Morgen geschlafen, und die Eltern sind verblüfft.",
+       "gloss": "ال·طِفْل نَام·َ حَتَّى ال·صَبَاح، وَ·ال·أَهْل مَذْهُول·ُون. | DEF·Kind schlafen·3SG bis DEF·Morgen, und·DEF·Eltern verblüfft·PL.",
+       "umschrift": "aṭ-ṭifl nāma ḥattā ṣ-ṣabāḥ, wal-ahl madhhūlūn.",
+       "audio": "audio/ar-de/saetze/at_01.mp3?v=d629bf6c"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
   }
  ],
  "anekdoten": [
@@ -13539,6 +14492,38 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/orte/ugarit.mp3?v=31a50fdc",
   "audio/ar-de/orte/umawi.mp3?v=81993472",
   "audio/ar-de/orte/yanbu.mp3?v=11a88d59",
+  "audio/ar-de/saetze/at_01.mp3?v=d629bf6c",
+  "audio/ar-de/saetze/at_02.mp3?v=0c83d6a4",
+  "audio/ar-de/saetze/at_03.mp3?v=05a70651",
+  "audio/ar-de/saetze/at_04.mp3?v=dcd7b705",
+  "audio/ar-de/saetze/at_05.mp3?v=85eb5dca",
+  "audio/ar-de/saetze/at_06.mp3?v=aae193cb",
+  "audio/ar-de/saetze/at_07.mp3?v=d94afc68",
+  "audio/ar-de/saetze/at_07_fp.mp3?v=6e008fbb",
+  "audio/ar-de/saetze/at_07_pc.mp3?v=5c6e87ce",
+  "audio/ar-de/saetze/at_08.mp3?v=069ce567",
+  "audio/ar-de/saetze/at_08_fp.mp3?v=18331800",
+  "audio/ar-de/saetze/at_08_pc.mp3?v=7aaeed0d",
+  "audio/ar-de/saetze/at_09.mp3?v=1ed34799",
+  "audio/ar-de/saetze/at_10.mp3?v=835554ff",
+  "audio/ar-de/saetze/at_11.mp3?v=96476da6",
+  "audio/ar-de/saetze/at_12.mp3?v=06394e89",
+  "audio/ar-de/saetze/at_13.mp3?v=f8a95fd3",
+  "audio/ar-de/saetze/at_14.mp3?v=85a629f2",
+  "audio/ar-de/saetze/at_14_fp.mp3?v=2fad3d02",
+  "audio/ar-de/saetze/at_14_pc.mp3?v=c3dd3ad3",
+  "audio/ar-de/saetze/at_15.mp3?v=d77d6571",
+  "audio/ar-de/saetze/at_16.mp3?v=7ac1509a",
+  "audio/ar-de/saetze/at_17.mp3?v=ce3741ff",
+  "audio/ar-de/saetze/at_18.mp3?v=551c4d1d",
+  "audio/ar-de/saetze/at_19.mp3?v=a51755d2",
+  "audio/ar-de/saetze/at_20.mp3?v=a0f3f8a6",
+  "audio/ar-de/saetze/at_21.mp3?v=b9279f7d",
+  "audio/ar-de/saetze/at_22.mp3?v=f3b8671c",
+  "audio/ar-de/saetze/at_22_fp.mp3?v=d675494a",
+  "audio/ar-de/saetze/at_22_pc.mp3?v=5594527c",
+  "audio/ar-de/saetze/at_23.mp3?v=33501ad9",
+  "audio/ar-de/saetze/at_24.mp3?v=419de2d7",
   "audio/ar-de/saetze/hk_01.mp3?v=c2fa0fc4",
   "audio/ar-de/saetze/hk_02.mp3?v=a06704c2",
   "audio/ar-de/saetze/hk_02_fp.mp3?v=5680cccb",
@@ -13805,6 +14790,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/spiel/titel_5.mp3?v=c46d1836",
   "audio/ar-de/spiel/titel_6.mp3?v=2d3db4b0",
   "audio/ar-de/spiel/woche.mp3?v=72c5bf23",
+  "audio/ar-de/syrisch/at_01.mp3?v=2087d171",
+  "audio/ar-de/syrisch/at_02.mp3?v=d222af2c",
+  "audio/ar-de/syrisch/at_03.mp3?v=6723f0fa",
+  "audio/ar-de/syrisch/at_04.mp3?v=42dc100f",
+  "audio/ar-de/syrisch/at_05.mp3?v=eba426fc",
+  "audio/ar-de/syrisch/at_06.mp3?v=48e2e272",
+  "audio/ar-de/syrisch/at_07.mp3?v=2b42f16e",
+  "audio/ar-de/syrisch/at_08.mp3?v=92fa19f4",
+  "audio/ar-de/syrisch/at_09.mp3?v=e2e1e399",
+  "audio/ar-de/syrisch/at_10.mp3?v=6528466b",
+  "audio/ar-de/syrisch/at_11.mp3?v=296150be",
+  "audio/ar-de/syrisch/at_12.mp3?v=9d7e126e",
+  "audio/ar-de/syrisch/at_13.mp3?v=4726052a",
+  "audio/ar-de/syrisch/at_14.mp3?v=1c773b9b",
+  "audio/ar-de/syrisch/at_15.mp3?v=fe4dbe75",
+  "audio/ar-de/syrisch/at_16.mp3?v=6802e875",
+  "audio/ar-de/syrisch/at_17.mp3?v=ebf07ba9",
+  "audio/ar-de/syrisch/at_18.mp3?v=20d4c975",
+  "audio/ar-de/syrisch/at_19.mp3?v=e62b7507",
+  "audio/ar-de/syrisch/at_20.mp3?v=eda717e8",
+  "audio/ar-de/syrisch/at_21.mp3?v=c25c78c9",
+  "audio/ar-de/syrisch/at_22.mp3?v=446eef68",
+  "audio/ar-de/syrisch/at_23.mp3?v=7091bf9b",
+  "audio/ar-de/syrisch/at_24.mp3?v=98dacd1a",
   "audio/ar-de/syrisch/hk_01.mp3?v=5c6897c9",
   "audio/ar-de/syrisch/hk_02.mp3?v=8dffd214",
   "audio/ar-de/syrisch/hk_03.mp3?v=0788de4f",
@@ -13997,6 +15006,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/ta_22.mp3?v=9e25c115",
   "audio/ar-de/syrisch/ta_23.mp3?v=a728dec3",
   "audio/ar-de/syrisch/ta_24.mp3?v=039dec19",
+  "audio/ar-de/wendungen/at_01.mp3?v=e16cb85f",
+  "audio/ar-de/wendungen/at_02.mp3?v=de737d8b",
+  "audio/ar-de/wendungen/at_03.mp3?v=e2616bb2",
+  "audio/ar-de/wendungen/at_04.mp3?v=91127e5f",
+  "audio/ar-de/wendungen/at_05.mp3?v=0a914754",
+  "audio/ar-de/wendungen/at_06.mp3?v=01b25d00",
+  "audio/ar-de/wendungen/at_07.mp3?v=2a449678",
+  "audio/ar-de/wendungen/at_08.mp3?v=6c196d44",
+  "audio/ar-de/wendungen/at_09.mp3?v=d7174428",
+  "audio/ar-de/wendungen/at_10.mp3?v=2b0bc258",
+  "audio/ar-de/wendungen/at_11.mp3?v=92b80f93",
+  "audio/ar-de/wendungen/at_12.mp3?v=91d52b8c",
+  "audio/ar-de/wendungen/at_13.mp3?v=f8b8c74b",
+  "audio/ar-de/wendungen/at_14.mp3?v=dfe9c2fc",
+  "audio/ar-de/wendungen/at_15.mp3?v=6a183a86",
+  "audio/ar-de/wendungen/at_16.mp3?v=0edcd2d3",
+  "audio/ar-de/wendungen/at_17.mp3?v=153a1259",
+  "audio/ar-de/wendungen/at_18.mp3?v=ff8a0e8d",
+  "audio/ar-de/wendungen/at_19.mp3?v=bac7fc14",
+  "audio/ar-de/wendungen/at_20.mp3?v=7ebfbded",
+  "audio/ar-de/wendungen/at_21.mp3?v=d04dd0b0",
+  "audio/ar-de/wendungen/at_22.mp3?v=f8843571",
+  "audio/ar-de/wendungen/at_23.mp3?v=8a4638a0",
+  "audio/ar-de/wendungen/at_24.mp3?v=261a3d94",
   "audio/ar-de/wendungen/hk_01.mp3?v=1efc03ef",
   "audio/ar-de/wendungen/hk_02.mp3?v=39b0b384",
   "audio/ar-de/wendungen/hk_03.mp3?v=46597ac2",
