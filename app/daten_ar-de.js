@@ -534,6 +534,38 @@ window.SPRACHEN["ar-de"] = {
     "hk_23",
     "hk_24"
    ]
+  },
+  {
+   "id": "riyada",
+   "name": "الرِّيَاضَةُ وَالكُونْغ فُو",
+   "de": "Sport und Kung-Fu",
+   "symbol": "🥋",
+   "wendungen": [
+    "ri_01",
+    "ri_02",
+    "ri_03",
+    "ri_04",
+    "ri_05",
+    "ri_06",
+    "ri_07",
+    "ri_08",
+    "ri_09",
+    "ri_10",
+    "ri_11",
+    "ri_12",
+    "ri_13",
+    "ri_14",
+    "ri_15",
+    "ri_16",
+    "ri_17",
+    "ri_18",
+    "ri_19",
+    "ri_20",
+    "ri_21",
+    "ri_22",
+    "ri_23",
+    "ri_24"
+   ]
   }
  ],
  "wendungen": [
@@ -4643,6 +4675,709 @@ window.SPRACHEN["ar-de"] = {
     "fr": "وعاشو بْتَبات ونَبات، وخَلَّفو صُبْيان وبَنات.",
     "umschrift": "w-ʿāshū b-tabāt w-nabāt, w-khallafū ṣubyān w-banāt.",
     "audio": "audio/ar-de/syrisch/hk_24.mp3?v=a6fb5233"
+   }
+  },
+  {
+   "id": "ri_01",
+   "thema": "riyada",
+   "fr": "أُمَارِسُ الرِّيَاضَة",
+   "de": "ich treibe Sport",
+   "register": "tu",
+   "anker": "مارس",
+   "notiz": "mārasa = ausüben, praktizieren (Stamm III, Wurzel m-r-s). riyāḍa = Sport (Wurzel r-w-ḍ, wie Riad: die Gärten, und riyāḍiyyāt = Mathematik!). rāqaba = beobachten (Stamm III, r-q-b).",
+   "audio": "audio/ar-de/wendungen/ri_01.mp3?v=bfb6ecc8",
+   "gloss": "أُ·مَارِس ال·رِيَاضَة | 1SG·ausüben DEF·Sport",
+   "umschrift": "umāris ar-riyāḍa",
+   "wurzel": "م-ر-س",
+   "satz": {
+    "fr": "أُمَارِسُ الرِّيَاضَةَ كُلَّ صَبَاح، وَالقِطُّ يُرَاقِب.",
+    "de": "Jeden Morgen treibe ich Sport, und die Katze schaut zu.",
+    "luecke": "أُمَارِسُ الرِّيَاضَة",
+    "gloss": "أُ·مَارِس ال·رِيَاضَة كُلّ صَبَاح، وَ·ال·قِطّ يُ·رَاقِب. | 1SG·ausüben DEF·Sport jeder Morgen, und·DEF·Katze 3SG·beobachten.",
+    "umschrift": "umāris ar-riyāḍa kull ṣabāḥ, wal-qiṭṭ yurāqib.",
+    "audio": "audio/ar-de/saetze/ri_01.mp3?v=1df481e1"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ مَارَسْتُ الرِّيَاضَة، وَالقِطُّ رَاقَب.",
+     "umschrift": "amsi mārastu r-riyāḍa, wal-qiṭṭ rāqab.",
+     "audio": "audio/ar-de/saetze/ri_01_pc.mp3?v=ad36c7a3"
+    },
+    "fp": {
+     "fr": "غَدًا سَأُمَارِسُ الرِّيَاضَة، وَالقِطُّ سَيُرَاقِب.",
+     "umschrift": "ghadan sa-umāris ar-riyāḍa, wal-qiṭṭ sa-yurāqib.",
+     "audio": "audio/ar-de/saetze/ri_01_fp.mp3?v=233131d1"
+    }
+   },
+   "syrisch": {
+    "fr": "بَعْمِل رِياضَة كِلّ صُبْح، والبِسّ عَم يْراقِب.",
+    "umschrift": "baʿmel riyāḍa kill ṣubḥ, wil-biss ʿam yrāʾeb.",
+    "audio": "audio/ar-de/syrisch/ri_01.mp3?v=f8544a63"
+   }
+  },
+  {
+   "id": "ri_02",
+   "thema": "riyada",
+   "fr": "التَّدْرِيبُ يَبْدَأُ السَّاعَةَ السَّادِسَة",
+   "de": "das Training beginnt um sechs",
+   "register": "tu",
+   "anker": "بدأ",
+   "notiz": "tadrīb = Training (maṣdar Stamm II von d-r-b; mudarrib = Trainer, tadarraba = Thema 4). badaʾa / yabdaʾ = beginnen (Hamza am Ende; bidāya = Anfang). as-sāʿa s-sādisa = sechs Uhr.",
+   "audio": "audio/ar-de/wendungen/ri_02.mp3?v=4a408142",
+   "gloss": "ال·تَدْرِيب يَ·بْدَأ ال·سَاعَة ال·سَادِسَة | DEF·Training 3SG·beginnen DEF·Stunde DEF·sechste",
+   "umschrift": "at-tadrīb yabdaʾ as-sāʿa s-sādisa",
+   "wurzel": "د-ر-ب",
+   "satz": {
+    "fr": "التَّدْرِيبُ يَبْدَأُ السَّاعَةَ السَّادِسَة، وَلا أَحَدَ يَتَأَخَّر.",
+    "de": "Das Training beginnt um sechs, und niemand kommt zu spät.",
+    "luecke": "التَّدْرِيبُ يَبْدَأ",
+    "gloss": "ال·تَدْرِيب يَ·بْدَأ ال·سَاعَة ال·سَادِسَة، وَ·لا أَحَد يَ·تَأَخَّر. | DEF·Training 3SG·beginnen DEF·Stunde DEF·sechste, und·kein jemand 3SG·sich.verspäten.",
+    "umschrift": "at-tadrīb yabdaʾ as-sāʿa s-sādisa, wa-lā aḥad yataʾakhkhar.",
+    "audio": "audio/ar-de/saetze/ri_02.mp3?v=fdb9ece6"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "التَّدْرِيبُ بَدَأَ السَّاعَةَ السَّادِسَة، وَلا أَحَدَ تَأَخَّر.",
+     "umschrift": "at-tadrīb badaʾa s-sāʿa s-sādisa, wa-lā aḥad taʾakhkhar.",
+     "audio": "audio/ar-de/saetze/ri_02_pc.mp3?v=4181121a"
+    },
+    "fp": {
+     "fr": "التَّدْرِيبُ سَيَبْدَأُ السَّاعَةَ السَّادِسَة، وَلا أَحَدَ سَيَتَأَخَّر.",
+     "umschrift": "at-tadrīb sa-yabdaʾ as-sāʿa s-sādisa, wa-lā aḥad sa-yataʾakhkhar.",
+     "audio": "audio/ar-de/saetze/ri_02_fp.mp3?v=25a47cd5"
+    }
+   },
+   "syrisch": {
+    "fr": "التَّمْرين بْيِبَلِّش السّاعَة سِتِّة، وما حَدا بْيِتْأَخَّر.",
+    "umschrift": "it-tamrīn byballesh is-sāʿa sitte, w-mā ḥada byitʾakhkhar.",
+    "audio": "audio/ar-de/syrisch/ri_02.mp3?v=05c15759"
+   }
+  },
+  {
+   "id": "ri_03",
+   "thema": "riyada",
+   "fr": "نُسَخِّنُ أَوَّلاً، ثُمَّ نَضْرِب",
+   "de": "erst aufwärmen, dann schlagen",
+   "register": "tu",
+   "anker": "سخن",
+   "notiz": "sakhkhana = aufwärmen (Stamm II von s-kh-n; sākhin = heiß, aus der Anekdote mit dem heißen Wasser). ḍaraba / yaḍrib = schlagen (Wurzel ḍ-r-b: auch « ein Beispiel schlagen » = ḍaraba mathalan). awwalan … thumma = zuerst … dann.",
+   "audio": "audio/ar-de/wendungen/ri_03.mp3?v=f8341f9d",
+   "gloss": "نُ·سَخِّن أَوَّلاً، ثُمَّ نَ·ضْرِب | 1PL·aufwärmen zuerst, dann 1PL·schlagen",
+   "umschrift": "nusakhkhin awwalan, thumma naḍrib",
+   "wurzel": "س-خ-ن",
+   "satz": {
+    "fr": "نُسَخِّنُ أَوَّلاً، ثُمَّ نَضْرِب.",
+    "de": "Erst wärmen wir uns auf, dann schlagen wir.",
+    "luecke": "نُسَخِّنُ أَوَّلاً",
+    "gloss": "نُ·سَخِّن أَوَّلاً، ثُمَّ نَ·ضْرِب. | 1PL·aufwärmen zuerst, dann 1PL·schlagen.",
+    "umschrift": "nusakhkhin awwalan, thumma naḍrib.",
+    "audio": "audio/ar-de/saetze/ri_03.mp3?v=4127101a"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "سَخَّنَّا أَوَّلاً، ثُمَّ ضَرَبْنَا.",
+     "umschrift": "sakhkhannā awwalan, thumma ḍarabnā.",
+     "audio": "audio/ar-de/saetze/ri_03_pc.mp3?v=15fcd464"
+    },
+    "fp": {
+     "fr": "سَنُسَخِّنُ أَوَّلاً، ثُمَّ سَنَضْرِب.",
+     "umschrift": "sa-nusakhkhin awwalan, thumma sa-naḍrib.",
+     "audio": "audio/ar-de/saetze/ri_03_fp.mp3?v=e51382c3"
+    }
+   },
+   "syrisch": {
+    "fr": "مْنْسَخِّن أَوَّل، وبَعْدين مْنِضْرُب.",
+    "umschrift": "mnsakhkhen awwal, w-baʿdēn mniḍrob.",
+    "audio": "audio/ar-de/syrisch/ri_03.mp3?v=d821e639"
+   }
+  },
+  {
+   "id": "ri_04",
+   "thema": "riyada",
+   "fr": "الكُونْغ فُو لَيْسَ سَرِيعًا، بَلْ صَبُور",
+   "de": "Kung-Fu ist nicht schnell, sondern geduldig",
+   "register": "tu",
+   "anker": "ليس",
+   "notiz": "laysa sarīʿan = ist nicht schnell (laysa + Akkusativ, Lektion 5). bal = sondern (nach einer Verneinung). ṣabūr = geduldig (Muster faʿūl für Dauereigenschaften, von ṣabr). Kung-Fu wird in arabischer Schrift kūngh fū geschrieben.",
+   "audio": "audio/ar-de/wendungen/ri_04.mp3?v=9208af6b",
+   "gloss": "لَيْسَ سَرِيع·ًا، بَلْ صَبُور | ist.nicht schnell·AKK, sondern geduldig",
+   "umschrift": "laysa sarīʿan, bal ṣabūr",
+   "wurzel": "ص-ب-ر",
+   "satz": {
+    "fr": "الكُونْغ فُو لَيْسَ سَرِيعًا، بَلْ صَبُور.",
+    "de": "Kung-Fu ist nicht schnell, sondern geduldig.",
+    "luecke": "لَيْسَ سَرِيعًا، بَلْ صَبُور",
+    "gloss": "ال·كُونْغ فُو لَيْسَ سَرِيع·ًا، بَلْ صَبُور. | DEF·Kung Fu ist.nicht schnell·AKK, sondern geduldig.",
+    "umschrift": "al-kūngh fū laysa sarīʿan, bal ṣabūr.",
+    "audio": "audio/ar-de/saetze/ri_04.mp3?v=4660301a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الكونْغ فو مو سَريع، بَسّ صَبور.",
+    "umschrift": "il-kūng fū mū sarīʿ, bass ṣabūr.",
+    "audio": "audio/ar-de/syrisch/ri_04.mp3?v=a9db609a"
+   }
+  },
+  {
+   "id": "ri_05",
+   "thema": "riyada",
+   "fr": "المُعَلِّمُ يَتَكَلَّمُ قَلِيلاً وَيُرِي كَثِيرًا",
+   "de": "der Meister spricht wenig und zeigt viel",
+   "register": "tu",
+   "anker": "أرى",
+   "notiz": "Der Kung-Fu-Meister heißt auf Arabisch wie der Lehrer: muʿallim (oder ustādh). arā / yurī = zeigen (Stamm IV von r-ʾ-y, sehen lassen: das Verb mit dem kürzesten Präsens: yurī). qalīlan / kathīran = wenig / viel als Adverbien.",
+   "audio": "audio/ar-de/wendungen/ri_05.mp3?v=029ac2a2",
+   "gloss": "يَ·تَكَلَّم قَلِيلاً وَ·يُ·رِي كَثِيرًا | 3SG·sprechen wenig und·3SG·zeigen viel",
+   "umschrift": "yatakallam qalīlan wa-yurī kathīran",
+   "wurzel": "ر-أ-ي",
+   "satz": {
+    "fr": "المُعَلِّمُ يَتَكَلَّمُ قَلِيلاً وَيُرِي كَثِيرًا.",
+    "de": "Der Meister spricht wenig und zeigt viel.",
+    "luecke": "يَتَكَلَّمُ قَلِيلاً وَيُرِي كَثِيرًا",
+    "gloss": "ال·مُعَلِّم يَ·تَكَلَّم قَلِيلاً وَ·يُ·رِي كَثِيرًا. | DEF·Lehrer 3SG·sprechen wenig und·3SG·zeigen viel.",
+    "umschrift": "al-muʿallim yatakallam qalīlan wa-yurī kathīran.",
+    "audio": "audio/ar-de/saetze/ri_05.mp3?v=2db6028f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "المْعَلِّم بْيِحْكي شْوَيّ وبْيِفَرْجي كْتير.",
+    "umschrift": "il-mʿallem byiḥkī shwayy w-byfarjī ktīr.",
+    "audio": "audio/ar-de/syrisch/ri_05.mp3?v=7741e941"
+   }
+  },
+  {
+   "id": "ri_06",
+   "thema": "riyada",
+   "fr": "التِّلْمِيذُ يَقَع، يَقُوم، يَقَعُ مِنْ جَدِيد",
+   "de": "der Schüler fällt, steht auf, fällt wieder",
+   "register": "tu",
+   "anker": "وقع",
+   "notiz": "waqaʿa / yaqaʿ = fallen (Wurzel w-q-ʿ, das w fällt im Präsens weg: yaqaʿ; īqāʿ Rhythmus kommt von hier). qāma / yaqūm = aufstehen (q-w-m, wie maqām). min jadīd = wieder.",
+   "audio": "audio/ar-de/wendungen/ri_06.mp3?v=2f7e2ddc",
+   "gloss": "يَ·قَع، يَ·قُوم | 3SG·fallen, 3SG·aufstehen",
+   "umschrift": "yaqaʿ, yaqūm",
+   "wurzel": "و-ق-ع",
+   "satz": {
+    "fr": "التِّلْمِيذُ يَقَع، يَقُوم، يَقَعُ مِنْ جَدِيد.",
+    "de": "Der Schüler fällt, steht auf, fällt wieder.",
+    "luecke": "يَقَع، يَقُوم",
+    "gloss": "ال·تِلْمِيذ يَ·قَع، يَ·قُوم، يَ·قَع مِنْ جَدِيد. | DEF·Schüler 3SG·fallen, 3SG·aufstehen, 3SG·fallen von neu.",
+    "umschrift": "at-tilmīdh yaqaʿ, yaqūm, yaqaʿ min jadīd.",
+    "audio": "audio/ar-de/saetze/ri_06.mp3?v=17c5d000"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "التِّلْميذ بْيوقَع، بْيْقوم، بْيوقَع مِن جْديد.",
+    "umschrift": "it-tilmīz byūʾaʿ, byʾūm, byūʾaʿ min jdīd.",
+    "audio": "audio/ar-de/syrisch/ri_06.mp3?v=120a3bb7"
+   }
+  },
+  {
+   "id": "ri_07",
+   "thema": "riyada",
+   "fr": "وَقْفَتُكَ ثَابِتَة، يَدَاكَ مُتْعَبَتَان",
+   "de": "dein Stand ist fest, deine Hände sind müde",
+   "register": "tu",
+   "anker": "وقف",
+   "notiz": "waqfa = Stand, Haltung (von waqafa, stehen; waqf, Pausalform!). thābita = fest (feminin). yadāk = deine beiden Hände (Dual yadā + -k). mutʿabatān = müde im femininen Dual (-atān): zwei Hände, feminin, also doppelte Endung.",
+   "audio": "audio/ar-de/wendungen/ri_07.mp3?v=7c54853f",
+   "gloss": "وَقْفَت·ُكَ ثَابِتَة، يَد·َاكَ مُتْعَب·َتَان | Stand·dein fest.F, Hand·DUAL.dein müde·F.DUAL",
+   "umschrift": "waqfatuk thābita, yadāk mutʿabatān",
+   "wurzel": "و-ق-ف",
+   "satz": {
+    "fr": "وَقْفَتُكَ ثَابِتَة، وَيَدَاكَ مُتْعَبَتَان.",
+    "de": "Dein Stand ist fest, und deine Hände sind müde.",
+    "luecke": "وَقْفَتُكَ ثَابِتَة",
+    "gloss": "وَقْفَت·ُكَ ثَابِتَة، وَ·يَد·َاكَ مُتْعَب·َتَان. | Stand·dein fest.F, und·Hand·DUAL.dein müde·F.DUAL.",
+    "umschrift": "waqfatuk thābita, wa-yadāk mutʿabatān.",
+    "audio": "audio/ar-de/saetze/ri_07.mp3?v=554ca226"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "وَئْفْتَك تابْتِة، وإيدَيك تَعْبانين.",
+    "umschrift": "waʾftak tābte, w-īdēk taʿbānīn.",
+    "audio": "audio/ar-de/syrisch/ri_07.mp3?v=3770922a"
+   }
+  },
+  {
+   "id": "ri_08",
+   "thema": "riyada",
+   "fr": "اللَّكْمَةُ تَأْتِي مِنَ الوَرِك",
+   "de": "der Schlag kommt aus der Hüfte",
+   "register": "tu",
+   "anker": "لكم",
+   "notiz": "lakma = Faustschlag (lakama = boxen; mulākama = Boxen). warik = Hüfte, katif = Schulter (beide feminin!). taʾtī min = kommt aus. lā min = nicht aus.",
+   "audio": "audio/ar-de/wendungen/ri_08.mp3?v=1c795af7",
+   "gloss": "ال·لَكْمَة تَ·أْتِي مِنَ ال·وَرِك | DEF·Faustschlag 3SG.F·kommen aus DEF·Hüfte",
+   "umschrift": "al-lakma taʾtī min al-warik",
+   "wurzel": "ل-ك-م",
+   "satz": {
+    "fr": "اللَّكْمَةُ تَأْتِي مِنَ الوَرِك، لا مِنَ الكَتِف.",
+    "de": "Der Faustschlag kommt aus der Hüfte, nicht aus der Schulter.",
+    "luecke": "اللَّكْمَةُ تَأْتِي مِنَ الوَرِك",
+    "gloss": "ال·لَكْمَة تَ·أْتِي مِنَ ال·وَرِك، لا مِنَ ال·كَتِف. | DEF·Faustschlag 3SG.F·kommen aus DEF·Hüfte, nicht aus DEF·Schulter.",
+    "umschrift": "al-lakma taʾtī min al-warik, lā min al-katif.",
+    "audio": "audio/ar-de/saetze/ri_08.mp3?v=3b057d76"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اللَّكْمِة بْتِجي مِن الوِرِك، مو مِن الكِتِف.",
+    "umschrift": "il-lakme btijī min il-wirk, mū min il-kitf.",
+    "audio": "audio/ar-de/syrisch/ri_08.mp3?v=320423d8"
+   }
+  },
+  {
+   "id": "ri_09",
+   "thema": "riyada",
+   "fr": "الرَّكْلَةُ يَجِبُ أَنْ تَكُونَ صَحِيحَة",
+   "de": "der Tritt muss richtig sein",
+   "register": "tu",
+   "anker": "وجب",
+   "notiz": "rakla = Tritt (rakala = treten). yajib an = es ist nötig, dass = müssen (von wajaba, wie wājib Pflicht). an + Konjunktiv: an takūna. lā yajib = muss nicht.",
+   "audio": "audio/ar-de/wendungen/ri_09.mp3?v=2e9273d1",
+   "gloss": "يَ·جِب أَنْ تَ·كُون·َ | 3SG·nötig.sein dass 3SG.F·sein·KONJ",
+   "umschrift": "yajib an takūna",
+   "wurzel": "و-ج-ب",
+   "satz": {
+    "fr": "الرَّكْلَةُ لا يَجِبُ أَنْ تَكُونَ عَالِيَة، بَلْ صَحِيحَة.",
+    "de": "Der Tritt muss nicht hoch sein, sondern richtig.",
+    "luecke": "يَجِبُ أَنْ تَكُونَ",
+    "gloss": "ال·رَكْلَة لا يَ·جِب أَنْ تَ·كُون·َ عَالِيَة، بَلْ صَحِيحَة. | DEF·Tritt nicht 3SG·nötig.sein dass 3SG.F·sein·KONJ hoch.F, sondern richtig.F.",
+    "umschrift": "ar-rakla lā yajib an takūna ʿāliya, bal ṣaḥīḥa.",
+    "audio": "audio/ar-de/saetze/ri_09.mp3?v=984b6bd8"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الرَّكْلِة مو لازِم تْكون عالْيِة، لازِم تْكون صَحيحَة.",
+    "umschrift": "ir-rakle mū lāzem tkūn ʿālye, lāzem tkūn ṣaḥīḥa.",
+    "audio": "audio/ar-de/syrisch/ri_09.mp3?v=ddcebdd8"
+   }
+  },
+  {
+   "id": "ri_10",
+   "thema": "riyada",
+   "fr": "خُذْ نَفَسًا، أَخْرِجْهُ، ثُمَّ اضْرِب",
+   "de": "einatmen, ausatmen, dann schlagen",
+   "register": "tu",
+   "anker": "أخذ",
+   "notiz": "Drei Imperative: khudh = nimm (von akhadha, unregelmäßig kurz), akhrij = lass heraus (Stamm IV von kharaja), iḍrib = schlag (Jussiv + Hilfsvokal i-). nafas = Atem (Wurzel n-f-s, wie nafs Seele und tanaffasa atmen).",
+   "audio": "audio/ar-de/wendungen/ri_10.mp3?v=c53155cb",
+   "gloss": "خُذْ نَفَس·ًا، أَخْرِج·ْهُ، ثُمَّ اضْرِب | nimm Atem·AKK, lass.heraus·ihn, dann schlag",
+   "umschrift": "khudh nafasan, akhrijhu, thumma ḍrib",
+   "wurzel": "ن-ف-س",
+   "satz": {
+    "fr": "خُذْ نَفَسًا، أَخْرِجْهُ، ثُمَّ اضْرِب.",
+    "de": "Atme ein, atme aus, dann schlag.",
+    "luecke": "خُذْ نَفَسًا",
+    "gloss": "خُذْ نَفَس·ًا، أَخْرِج·ْهُ، ثُمَّ اضْرِب. | nimm Atem·AKK, lass.heraus·ihn, dann schlag.",
+    "umschrift": "khudh nafasan, akhrijhu, thumma ḍrib.",
+    "audio": "audio/ar-de/saetze/ri_10.mp3?v=0397b6ce"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خود نَفَس، طَلّْعو، وبَعْدين اضْرُب.",
+    "umschrift": "khōd nafas, ṭallʿo, w-baʿdēn iḍrob.",
+    "audio": "audio/ar-de/syrisch/ri_10.mp3?v=4a3e8dd4"
+   }
+  },
+  {
+   "id": "ri_11",
+   "thema": "riyada",
+   "fr": "التَّوَازُنُ يَبْدَأُ فِي القَدَم",
+   "de": "Gleichgewicht beginnt im Fuß",
+   "register": "tu",
+   "anker": "وزن",
+   "notiz": "tawāzun = Gleichgewicht (maṣdar Stamm VI von w-z-n, wiegen: wazn = Gewicht und das Muster aus Lektion 1, mīzān = Waage). qadam = Fuß (feminin). yantahī = endet.",
+   "audio": "audio/ar-de/wendungen/ri_11.mp3?v=cba08575",
+   "gloss": "ال·تَوَازُن يَ·بْدَأ فِي ال·قَدَم | DEF·Gleichgewicht 3SG·beginnen in DEF·Fuß",
+   "umschrift": "at-tawāzun yabdaʾ fī l-qadam",
+   "wurzel": "و-ز-ن",
+   "satz": {
+    "fr": "التَّوَازُنُ يَبْدَأُ فِي القَدَمِ وَيَنْتَهِي فِي الرَّأْس.",
+    "de": "Gleichgewicht beginnt im Fuß und endet im Kopf.",
+    "luecke": "التَّوَازُنُ يَبْدَأُ فِي القَدَم",
+    "gloss": "ال·تَوَازُن يَ·بْدَأ فِي ال·قَدَم وَ·يَ·نْتَهِي فِي ال·رَأْس. | DEF·Gleichgewicht 3SG·beginnen in DEF·Fuß und·3SG·enden in DEF·Kopf.",
+    "umschrift": "at-tawāzun yabdaʾ fī l-qadam wa-yantahī fī r-raʾs.",
+    "audio": "audio/ar-de/saetze/ri_11.mp3?v=104d206d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "التَّوازُن بْيِبَلِّش بِالإجِر وبْيِخْلَص بِالرّاس.",
+    "umschrift": "it-tawāzon byballesh bil-ijer w-byikhlaṣ bir-rās.",
+    "audio": "audio/ar-de/syrisch/ri_11.mp3?v=9b93b8e5"
+   }
+  },
+  {
+   "id": "ri_12",
+   "thema": "riyada",
+   "fr": "الحِزَامُ الأَسْوَدُ لَيْسَ النِّهَايَة، بَلِ البِدَايَة",
+   "de": "der schwarze Gürtel ist nicht das Ende, sondern der Anfang",
+   "register": "tu",
+   "anker": "حزام",
+   "notiz": "ḥizām = Gürtel (Wurzel ḥ-z-m, zusammenbinden). aswad = schwarz (feminin sawdāʾ, wie abyaḍ/bayḍāʾ in Thema 3). laysa an-nihāya, bal al-bidāya: laysa mit bestimmtem Nomen im Akkusativ (hörbar als -a).",
+   "audio": "audio/ar-de/wendungen/ri_12.mp3?v=aad55d91",
+   "gloss": "ال·حِزَام ال·أَسْوَد | DEF·Gürtel DEF·schwarz",
+   "umschrift": "al-ḥizām al-aswad",
+   "wurzel": "ح-ز-م",
+   "satz": {
+    "fr": "الحِزَامُ الأَسْوَدُ لَيْسَ النِّهَايَة، بَلِ البِدَايَة.",
+    "de": "Der schwarze Gürtel ist nicht das Ende, sondern der Anfang.",
+    "luecke": "الحِزَامُ الأَسْوَد",
+    "gloss": "ال·حِزَام ال·أَسْوَد لَيْسَ ال·نِهَايَة، بَلِ ال·بِدَايَة. | DEF·Gürtel DEF·schwarz ist.nicht DEF·Ende, sondern DEF·Anfang.",
+    "umschrift": "al-ḥizām al-aswad laysa n-nihāya, bal il-bidāya.",
+    "audio": "audio/ar-de/saetze/ri_12.mp3?v=5feb5d9f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الحْزام الأَسْوَد مو النّْهايِة، هُوِّ البْدايِة.",
+    "umschrift": "il-ḥzām il-aswad mū n-nhāye, huwwe l-bdāye.",
+    "audio": "audio/ar-de/syrisch/ri_12.mp3?v=34d23253"
+   }
+  },
+  {
+   "id": "ri_13",
+   "thema": "riyada",
+   "fr": "المُصَارَعَةُ رِيَاضَةُ الشَّامِ القَدِيمَة",
+   "de": "Ringen ist der alte Sport der Levante",
+   "register": "tu",
+   "anker": "صارع",
+   "notiz": "muṣāraʿa = Ringen (maṣdar Stamm III von ṣ-r-ʿ, niederwerfen; muṣāriʿ = Ringer). riyāḍat ash-Shām = der Sport der Levante (iḍāfa mit t). ash-Shām = Damaskus und die ganze Levante. kamā = wie.",
+   "audio": "audio/ar-de/wendungen/ri_13.mp3?v=7c1f5db2",
+   "gloss": "ال·مُصَارَعَة | DEF·Ringen",
+   "umschrift": "al-muṣāraʿa",
+   "wurzel": "ص-ر-ع",
+   "satz": {
+    "fr": "المُصَارَعَةُ رِيَاضَةُ الشَّامِ القَدِيمَة، كَمَا فِي تُرْكِيَا.",
+    "de": "Ringen ist der alte Sport der Levante, wie in der Türkei.",
+    "luecke": "المُصَارَعَة",
+    "gloss": "ال·مُصَارَعَة رِيَاضَة·ُ ال·شَام ال·قَدِيمَة، كَمَا فِي تُرْكِيَا. | DEF·Ringen Sport·GEN DEF·Levante DEF·alte, wie in Türkei.",
+    "umschrift": "al-muṣāraʿa riyāḍat ash-Shām al-qadīma, kamā fī Turkiyā.",
+    "audio": "audio/ar-de/saetze/ri_13.mp3?v=f4925f35"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "المْصارَعَة رِياضِة الشّام القَديمِة، مِتْل تُرْكيا.",
+    "umschrift": "il-mṣāraʿa riyāḍet ish-Shām il-ʾadīme, mitl Turkiya.",
+    "audio": "audio/ar-de/syrisch/ri_13.mp3?v=371a385c"
+   }
+  },
+  {
+   "id": "ri_14",
+   "thema": "riyada",
+   "fr": "المُبَارَاةُ السَّاعَةَ التَّاسِعَة",
+   "de": "das Spiel ist um neun",
+   "register": "tu",
+   "anker": "بارى",
+   "notiz": "mubārāt = Spiel, Wettkampf (Stamm III von b-r-y). Die großen Vereine: al-Hilāl, an-Naṣr, al-Ittiḥād in Saudi-Arabien; al-Karāma in Homs. jāhiz = fertig, bereit. masāʾan = abends.",
+   "audio": "audio/ar-de/wendungen/ri_14.mp3?v=ed519e27",
+   "gloss": "ال·مُبَارَاة ال·سَاعَة ال·تَاسِعَة | DEF·Spiel DEF·Stunde DEF·neunte",
+   "umschrift": "al-mubārāt as-sāʿa t-tāsiʿa",
+   "wurzel": "ب-ر-ي",
+   "satz": {
+    "fr": "المُبَارَاةُ السَّاعَةَ التَّاسِعَةَ مَسَاءً، وَالشَّايُ جَاهِز.",
+    "de": "Das Spiel ist um neun Uhr abends, und der Tee ist fertig.",
+    "luecke": "المُبَارَاةُ السَّاعَةَ التَّاسِعَة",
+    "gloss": "ال·مُبَارَاة ال·سَاعَة ال·تَاسِعَة مَسَاءً، وَ·ال·شَاي جَاهِز. | DEF·Spiel DEF·Stunde DEF·neunte abends, und·DEF·Tee fertig.",
+    "umschrift": "al-mubārāt as-sāʿa t-tāsiʿa masāʾan, wash-shāy jāhiz.",
+    "audio": "audio/ar-de/saetze/ri_14.mp3?v=c302faa0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "المْبارا السّاعَة تِسْعَة بِاللّيل، والشّاي جاهِز.",
+    "umschrift": "il-mbārā is-sāʿa tisʿa bil-lēl, wish-shāy jāhez.",
+    "audio": "audio/ar-de/syrisch/ri_14.mp3?v=a76d4d66"
+   }
+  },
+  {
+   "id": "ri_15",
+   "thema": "riyada",
+   "fr": "سَجَّلْنَا هَدَفًا فِي الدَّقِيقَةِ الأَخِيرَة",
+   "de": "wir haben in der letzten Minute ein Tor geschossen",
+   "register": "tu",
+   "anker": "سجل",
+   "notiz": "sajjala = ein Tor erzielen, eintragen (Stamm II von s-j-l; sijill = Register). hadaf = Tor, Ziel (Plural ahdāf). ṣarakhat = sie schrie (ḥāra feminin). Syrisch sagt man gōl.",
+   "audio": "audio/ar-de/wendungen/ri_15.mp3?v=19fd17ef",
+   "gloss": "سَجَّل·ْنَا هَدَف·ًا | erzielen·1PL Tor·AKK",
+   "umschrift": "sajjalnā hadafan",
+   "wurzel": "س-ج-ل",
+   "satz": {
+    "fr": "سَجَّلْنَا هَدَفًا فِي الدَّقِيقَةِ الأَخِيرَة، وَالحَارَةُ صَرَخَتْ.",
+    "de": "Wir haben in der letzten Minute ein Tor geschossen, und das Viertel hat geschrien.",
+    "luecke": "سَجَّلْنَا هَدَفًا",
+    "gloss": "سَجَّل·ْنَا هَدَف·ًا فِي ال·دَقِيقَة ال·أَخِيرَة، وَ·ال·حَارَة صَرَخ·َتْ. | erzielen·1PL Tor·AKK in DEF·Minute DEF·letzte, und·DEF·Viertel schreien·3SG.F.",
+    "umschrift": "sajjalnā hadafan fī d-daqīqa l-akhīra, wal-ḥāra ṣarakhat.",
+    "audio": "audio/ar-de/saetze/ri_15.mp3?v=c32057c4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "سَجَّلْنا غول بِالدَّقيقَة الأَخيرَة، والحارَة صَرَّخِت.",
+    "umschrift": "sajjalnā gōl bid-daʾīʾa l-akhīra, wil-ḥāra ṣarrakhet.",
+    "audio": "audio/ar-de/syrisch/ri_15.mp3?v=a21657fc"
+   }
+  },
+  {
+   "id": "ri_16",
+   "thema": "riyada",
+   "fr": "فُزْنَا اليَوْم، وَغَدًا نَرَى",
+   "de": "heute gewonnen, morgen sehen wir",
+   "register": "tu",
+   "anker": "فاز",
+   "notiz": "fāza / yafūz = gewinnen (hohles Verb: fuz-nā = wir gewannen, Lektion 4). fawz = Sieg. narā = wir sehen (raʾā). Die Floskel jedes Trainers.",
+   "audio": "audio/ar-de/wendungen/ri_16.mp3?v=88437d23",
+   "gloss": "فُز·ْنَا ال·يَوْم، وَ·غَدًا نَ·رَى | gewinnen·1PL DEF·Tag, und·morgen 1PL·sehen",
+   "umschrift": "fuznā l-yawm, wa-ghadan narā",
+   "wurzel": "ف-و-ز",
+   "satz": {
+    "fr": "فُزْنَا اليَوْم، وَغَدًا نَرَى.",
+    "de": "Heute haben wir gewonnen, und morgen sehen wir.",
+    "luecke": "فُزْنَا اليَوْم",
+    "gloss": "فُز·ْنَا ال·يَوْم، وَ·غَدًا نَ·رَى. | gewinnen·1PL DEF·Tag, und·morgen 1PL·sehen.",
+    "umschrift": "fuznā l-yawm, wa-ghadan narā.",
+    "audio": "audio/ar-de/saetze/ri_16.mp3?v=06fefdc1"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "رْبِحْنا اليوم، وبُكْرا مْنْشوف.",
+    "umschrift": "rbiḥnā l-yōm, w-bukra mnshūf.",
+    "audio": "audio/ar-de/syrisch/ri_16.mp3?v=6ad3a37b"
+   }
+  },
+  {
+   "id": "ri_17",
+   "thema": "riyada",
+   "fr": "خَسِرْنَا، لَكِنَّنَا لَعِبْنَا جَيِّدًا",
+   "de": "verloren, aber gut gespielt",
+   "register": "tu",
+   "anker": "خسر",
+   "notiz": "khasira = verlieren (Wurzel kh-s-r; khasāra = Verlust, auch: schade!). lākinna-nā = aber wir (lākinna + -nā). laʿiba = spielen (Wurzel l-ʿ-b; laʿba = Spiel, Spielzeug; malʿab = Spielfeld).",
+   "audio": "audio/ar-de/wendungen/ri_17.mp3?v=04b9c8f6",
+   "gloss": "خَسِر·ْنَا، لَكِنّ·َنَا لَعِب·ْنَا جَيِّدًا | verlieren·1PL, aber·wir spielen·1PL gut",
+   "umschrift": "khasirnā, lākinnanā laʿibnā jayyidan",
+   "wurzel": "خ-س-ر",
+   "satz": {
+    "fr": "خَسِرْنَا، لَكِنَّنَا لَعِبْنَا جَيِّدًا.",
+    "de": "Wir haben verloren, aber wir haben gut gespielt.",
+    "luecke": "خَسِرْنَا",
+    "gloss": "خَسِر·ْنَا، لَكِنّ·َنَا لَعِب·ْنَا جَيِّدًا. | verlieren·1PL, aber·wir spielen·1PL gut.",
+    "umschrift": "khasirnā, lākinnanā laʿibnā jayyidan.",
+    "audio": "audio/ar-de/saetze/ri_17.mp3?v=23a8bdfe"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خْسِرْنا، بَسّ لْعِبْنا مْنيح.",
+    "umschrift": "khsirnā, bass lʿibnā mnīḥ.",
+    "audio": "audio/ar-de/syrisch/ri_17.mp3?v=dc6127bf"
+   }
+  },
+  {
+   "id": "ri_18",
+   "thema": "riyada",
+   "fr": "أَرْكُضُ عَلَى جَبَلِ قَاسِيُون",
+   "de": "ich laufe am Berg Qasioun",
+   "register": "tu",
+   "anker": "ركض",
+   "notiz": "rakaḍa = laufen (Thema 3: yarkuḍ). jabal Qāsyūn = der Berg über Damaskus, der Ort auf der Karte. al-qiṭaṭ turāqibunī: Tierplural wie Sachplural, Verb feminin Singular, -nī = mich.",
+   "audio": "audio/ar-de/wendungen/ri_18.mp3?v=e6ebfcbe",
+   "gloss": "أَ·رْكُض عَلَى جَبَل·ِ قَاسِيُون | 1SG·laufen auf Berg·GEN Qasioun",
+   "umschrift": "arkuḍ ʿalā jabal Qāsyūn",
+   "wurzel": "ر-ك-ض",
+   "satz": {
+    "fr": "أَرْكُضُ عَلَى جَبَلِ قَاسِيُون، وَالقِطَطُ تُرَاقِبُنِي.",
+    "de": "Ich laufe am Berg Qasioun, und die Katzen beobachten mich.",
+    "luecke": "أَرْكُضُ عَلَى جَبَلِ قَاسِيُون",
+    "gloss": "أَ·رْكُض عَلَى جَبَل·ِ قَاسِيُون، وَ·ال·قِطَط تُ·رَاقِب·ُنِي. | 1SG·laufen auf Berg·GEN Qasioun, und·DEF·Katzen 3SG.F·beobachten·mich.",
+    "umschrift": "arkuḍ ʿalā jabal Qāsyūn, wal-qiṭaṭ turāqibunī.",
+    "audio": "audio/ar-de/saetze/ri_18.mp3?v=ae46087a"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ رَكَضْتُ عَلَى جَبَلِ قَاسِيُون، وَالقِطَطُ رَاقَبَتْنِي.",
+     "umschrift": "amsi rakaḍtu ʿalā jabal Qāsyūn, wal-qiṭaṭ rāqabatnī.",
+     "audio": "audio/ar-de/saetze/ri_18_pc.mp3?v=97d16694"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَرْكُضُ عَلَى جَبَلِ قَاسِيُون، وَالقِطَطُ سَتُرَاقِبُنِي.",
+     "umschrift": "ghadan sa-arkuḍ ʿalā jabal Qāsyūn, wal-qiṭaṭ sa-turāqibunī.",
+     "audio": "audio/ar-de/saetze/ri_18_fp.mp3?v=90bbc4e0"
+    }
+   },
+   "syrisch": {
+    "fr": "بِرْكُض عَجَبَل ئاسْيون، والبْساس عَم تْراقِبْني.",
+    "umschrift": "birkoḍ ʿa-jabal ʾāsyūn, wil-bsās ʿam trāʾebnī.",
+    "audio": "audio/ar-de/syrisch/ri_18.mp3?v=c1e5c80f"
+   }
+  },
+  {
+   "id": "ri_19",
+   "thema": "riyada",
+   "fr": "سَبَحْنَا فِي البَحْر",
+   "de": "wir sind im Meer geschwommen",
+   "register": "tu",
+   "anker": "سبح",
+   "notiz": "sabaḥa = schwimmen (Wurzel s-b-ḥ; sibāḥa = Schwimmen; subḥān Allāh kommt von derselben Wurzel: « dahingleiten »). kāna bāridan = war kalt (kāna + Akkusativ). baḥr = Meer (Modul 1).",
+   "audio": "audio/ar-de/wendungen/ri_19.mp3?v=dd54f16d",
+   "gloss": "سَبَح·ْنَا فِي ال·بَحْر | schwimmen·1PL in DEF·Meer",
+   "umschrift": "sabaḥnā fī l-baḥr",
+   "wurzel": "س-ب-ح",
+   "satz": {
+    "fr": "سَبَحْنَا فِي البَحْر، وَالمَاءُ كَانَ بَارِدًا.",
+    "de": "Wir sind im Meer geschwommen, und das Wasser war kalt.",
+    "luecke": "سَبَحْنَا فِي البَحْر",
+    "gloss": "سَبَح·ْنَا فِي ال·بَحْر، وَ·ال·مَاء كَان·َ بَارِد·ًا. | schwimmen·1PL in DEF·Meer, und·DEF·Wasser sein·3SG kalt·AKK.",
+    "umschrift": "sabaḥnā fī l-baḥr, wal-māʾ kāna bāridan.",
+    "audio": "audio/ar-de/saetze/ri_19.mp3?v=d6829e26"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "سْبَحْنا بِالبَحْر، والمَيّ كانِت بارْدِة.",
+    "umschrift": "sbaḥnā bil-baḥr, wil-mayy kānet bārde.",
+    "audio": "audio/ar-de/syrisch/ri_19.mp3?v=db80c45f"
+   }
+  },
+  {
+   "id": "ri_20",
+   "thema": "riyada",
+   "fr": "تَعِبْتُ، لَكِنِّي لا أَتَوَقَّف",
+   "de": "ich bin müde, aber ich höre nicht auf",
+   "register": "tu",
+   "anker": "توقف",
+   "notiz": "taʿiba = müde werden (taʿib-tu = ich bin müde geworden; mutʿab aus Thema 1). tawaqqafa = anhalten, aufhören (Stamm V von w-q-f, stehen: waqfa, waqf). lā atawaqqaf = ich höre nicht auf.",
+   "audio": "audio/ar-de/wendungen/ri_20.mp3?v=bb922ace",
+   "gloss": "تَعِب·ْتُ، لَكِنّ·ِي لا أَ·تَوَقَّف | müde.werden·1SG, aber·ich nicht 1SG·aufhören",
+   "umschrift": "taʿibtu, lākinnī lā atawaqqaf",
+   "wurzel": "و-ق-ف",
+   "satz": {
+    "fr": "تَعِبْتُ، لَكِنِّي لا أَتَوَقَّف.",
+    "de": "Ich bin müde, aber ich höre nicht auf.",
+    "luecke": "تَعِبْتُ، لَكِنِّي لا أَتَوَقَّف",
+    "gloss": "تَعِب·ْتُ، لَكِنّ·ِي لا أَ·تَوَقَّف. | müde.werden·1SG, aber·ich nicht 1SG·aufhören.",
+    "umschrift": "taʿibtu, lākinnī lā atawaqqaf.",
+    "audio": "audio/ar-de/saetze/ri_20.mp3?v=b9695bc7"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "تْعِبْت، بَسّ ما بْوَئِّف.",
+    "umschrift": "tʿibt, bass mā bwaʾʾef.",
+    "audio": "audio/ar-de/syrisch/ri_20.mp3?v=a47a8aeb"
+   }
+  },
+  {
+   "id": "ri_21",
+   "thema": "riyada",
+   "fr": "رُكْبَتِي مُصَابَة",
+   "de": "mein Knie ist verletzt",
+   "register": "tu",
+   "anker": "أصاب",
+   "notiz": "rukba = Knie (feminin, rukbat-ī mit t). muṣāba = verletzt (Partizip Passiv Stamm IV von ṣ-w-b; iṣāba = Verletzung, auch: Treffer). usbūʿ rāḥa = eine Woche Ruhe (rāḥa aus der Wurzel r-w-ḥ).",
+   "audio": "audio/ar-de/wendungen/ri_21.mp3?v=191075c6",
+   "gloss": "رُكْبَت·ِي مُصَابَة | Knie·mein verletzt.F",
+   "umschrift": "rukbatī muṣāba",
+   "wurzel": "ص-و-ب",
+   "satz": {
+    "fr": "رُكْبَتِي مُصَابَة، أُسْبُوعُ رَاحَة.",
+    "de": "Mein Knie ist verletzt, eine Woche Pause.",
+    "luecke": "رُكْبَتِي مُصَابَة",
+    "gloss": "رُكْبَت·ِي مُصَابَة، أُسْبُوع·ُ رَاحَة. | Knie·mein verletzt.F, Woche·GEN Ruhe.",
+    "umschrift": "rukbatī muṣāba, usbūʿ rāḥa.",
+    "audio": "audio/ar-de/saetze/ri_21.mp3?v=40cb19e8"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "رِكْبْتي مْصابِة، أُسْبوع راحَة.",
+    "umschrift": "rikebtī mṣābe, usbūʿ rāḥa.",
+    "audio": "audio/ar-de/syrisch/ri_21.mp3?v=0cd1cca4"
+   }
+  },
+  {
+   "id": "ri_22",
+   "thema": "riyada",
+   "fr": "فَرِيقُنَا صَغِير، وَقَلْبُهُ كَبِير",
+   "de": "unsere Mannschaft ist klein, ihr Herz groß",
+   "register": "tu",
+   "anker": "فريق",
+   "notiz": "farīq = Mannschaft, Team (Wurzel f-r-q, teilen: eine Abteilung). farīq-unā = unsere Mannschaft. qalb-uhu = sein Herz (farīq ist maskulin). Zwei Sätze ohne Verb, der Gegensatz trägt alles.",
+   "audio": "audio/ar-de/wendungen/ri_22.mp3?v=6ae06123",
+   "gloss": "فَرِيق·ُنَا صَغِير، وَ·قَلْب·ُهُ كَبِير | Mannschaft·unser klein, und·Herz·sein groß",
+   "umschrift": "farīqunā ṣaghīr, wa-qalbuhu kabīr",
+   "wurzel": "ف-ر-ق",
+   "satz": {
+    "fr": "فَرِيقُنَا صَغِير، وَقَلْبُهُ كَبِير.",
+    "de": "Unsere Mannschaft ist klein, und ihr Herz ist groß.",
+    "luecke": "فَرِيقُنَا صَغِير",
+    "gloss": "فَرِيق·ُنَا صَغِير، وَ·قَلْب·ُهُ كَبِير. | Mannschaft·unser klein, und·Herz·sein groß.",
+    "umschrift": "farīqunā ṣaghīr, wa-qalbuhu kabīr.",
+    "audio": "audio/ar-de/saetze/ri_22.mp3?v=648d99bb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "فَريئْنا زْغير، وئَلْبو كْبير.",
+    "umschrift": "farīʾna zghīr, w-ʾalbo kbīr.",
+    "audio": "audio/ar-de/syrisch/ri_22.mp3?v=1fb2b39c"
+   }
+  },
+  {
+   "id": "ri_23",
+   "thema": "riyada",
+   "fr": "الحَكَمُ صَفَّر، وَالجَمِيعُ صَمَت",
+   "de": "der Schiedsrichter pfiff, und alle schwiegen",
+   "register": "tu",
+   "anker": "حكم",
+   "notiz": "ḥakam = Schiedsrichter (Wurzel ḥ-k-m, urteilen: ḥukm = Urteil, ḥukūma = Regierung, ḥikma = Weisheit). ṣaffara = pfeifen (Stamm II von ṣ-f-r; ṣafir = Pfiff). al-jamīʿ ṣamat = alle schwiegen (Singularverb, Thema 1).",
+   "audio": "audio/ar-de/wendungen/ri_23.mp3?v=ae852fc6",
+   "gloss": "ال·حَكَم صَفَّر، وَ·ال·جَمِيع صَمَت | DEF·Schiedsrichter pfiff, und·DEF·alle schwieg",
+   "umschrift": "al-ḥakam ṣaffar, wal-jamīʿ ṣamat",
+   "wurzel": "ح-ك-م",
+   "satz": {
+    "fr": "الحَكَمُ صَفَّر، وَالجَمِيعُ صَمَت.",
+    "de": "Der Schiedsrichter pfiff, und alle schwiegen.",
+    "luecke": "الحَكَمُ صَفَّر",
+    "gloss": "ال·حَكَم صَفَّر، وَ·ال·جَمِيع صَمَت. | DEF·Schiedsrichter pfiff, und·DEF·alle schwieg.",
+    "umschrift": "al-ḥakam ṣaffar, wal-jamīʿ ṣamat.",
+    "audio": "audio/ar-de/saetze/ri_23.mp3?v=be0e39ef"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الحَكَم صَفَّر، والكِلّ سَكَتو.",
+    "umschrift": "il-ḥakam ṣaffar, wil-kill sakatū.",
+    "audio": "audio/ar-de/syrisch/ri_23.mp3?v=df970ef0"
+   }
+  },
+  {
+   "id": "ri_24",
+   "thema": "riyada",
+   "fr": "لا نَسْتَسْلِم، جَوْلَةٌ أُخْرَى",
+   "de": "wir geben nicht auf, noch eine Runde",
+   "register": "tu",
+   "anker": "استسلم",
+   "notiz": "istaslama = sich ergeben, aufgeben (Stamm X von s-l-m: salām, islām, istislām = Kapitulation, alles eine Wurzel). Die Zeitmaschine zeigt die drei Verneinungen: lā (Präsens), lam (Vergangenheit), lan (Zukunft). jawla = Runde (Wurzel j-w-l, umhergehen).",
+   "audio": "audio/ar-de/wendungen/ri_24.mp3?v=ee642a8c",
+   "gloss": "لا نَ·سْتَسْلِم، جَوْلَة أُخْرَى | nicht 1PL·aufgeben, Runde andere",
+   "umschrift": "lā nastaslim, jawla ukhrā",
+   "wurzel": "س-ل-م",
+   "satz": {
+    "fr": "لا نَسْتَسْلِم، جَوْلَةٌ أُخْرَى.",
+    "de": "Wir geben nicht auf, noch eine Runde.",
+    "luecke": "لا نَسْتَسْلِم",
+    "gloss": "لا نَ·سْتَسْلِم، جَوْلَة أُخْرَى. | nicht 1PL·aufgeben, Runde andere.",
+    "umschrift": "lā nastaslim, jawla ukhrā.",
+    "audio": "audio/ar-de/saetze/ri_24.mp3?v=27cd0a80"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "لَمْ نَسْتَسْلِم، جَوْلَةٌ أُخْرَى.",
+     "umschrift": "lam nastaslim, jawla ukhrā.",
+     "audio": "audio/ar-de/saetze/ri_24_pc.mp3?v=c20283c3"
+    },
+    "fp": {
+     "fr": "لَنْ نَسْتَسْلِم، جَوْلَةٌ أُخْرَى.",
+     "umschrift": "lan nastaslim, jawla ukhrā.",
+     "audio": "audio/ar-de/saetze/ri_24_fp.mp3?v=b17fc880"
+    }
+   },
+   "syrisch": {
+    "fr": "ما مْنِسْتَسْلِم، جَوْلِة تانْيِة.",
+    "umschrift": "mā mnistaslem, jawle tānye.",
+    "audio": "audio/ar-de/syrisch/ri_24.mp3?v=aed39154"
    }
   }
  ],
@@ -9374,6 +10109,236 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 0
     }
    ]
+  },
+  {
+   "id": "g_riyada",
+   "thema": "riyada",
+   "titel": "الأَمْرُ وَالنَّهْيُ وَالمَصْدَر",
+   "de": "Imperativ, Verbot und das Verbalnomen",
+   "regel": [
+    "Der Imperativ kommt aus dem Jussiv der 2. Person: ta-ḍrib (du schlägst) → ḍrib, und weil ein Wort nicht mit zwei Konsonanten beginnen kann, kommt ein Hilfsvokal davor: iḍrib. Dasselbe: ijlis setz dich, iʿmal mach, ismaʿ hör. Stämme mit Vokal nach dem ersten Konsonanten brauchen keinen: sakhkhin wärm auf, tafaḍḍal bitte. Stamm IV nimmt a-: akhrij lass heraus. Unregelmäßig kurz: khudh nimm, kul iss, qul sag, taʿāla komm. Zur Frau: -ī (ijlisī), zu mehreren: -ū (ijlisū).",
+    "Das Verbot ist lā + Jussiv: lā taḍrib schlag nicht, lā tahtamm kümmere dich nicht. Müssen: yajib an + Konjunktiv (yajib an takūna). Das Verbalnomen (maṣdar) ist der arabische Infinitiv und ein Nomen zugleich: tadrīb Training (Stamm II), muṣāraʿa Ringen (III), tawāzun Gleichgewicht (VI), intiẓār Warten (VIII), istislām Aufgeben (X). Beim Grundstamm ist es unregelmäßig: ṣabr, fawz, laʿib, ḍarb. Nach Präposition ersetzt es den Nebensatz: baʿda t-tadrīb nach dem Training."
+   ],
+   "morphem": [
+    "IMP",
+    "JUSS",
+    "KONJ",
+    "INF"
+   ],
+   "beispiele": [
+    {
+     "fr": "خُذْ نَفَسًا، أَخْرِجْهُ، ثُمَّ اضْرِب.",
+     "de": "Atme ein, atme aus, dann schlag.",
+     "gloss": "خُذْ نَفَس·ًا، أَخْرِج·ْهُ، ثُمَّ اضْرِب. | nimm Atem·AKK, lass.heraus·ihn, dann schlag.",
+     "umschrift": "khudh nafasan, akhrijhu, thumma ḍrib.",
+     "audio": "audio/ar-de/saetze/ri_10.mp3?v=0397b6ce",
+     "hinweis": "khudh, akhrij, iḍrib: drei Imperative, dreimal anders gebaut."
+    },
+    {
+     "fr": "نُسَخِّنُ أَوَّلاً، ثُمَّ نَضْرِب.",
+     "de": "Erst wärmen wir uns auf, dann schlagen wir.",
+     "gloss": "نُ·سَخِّن أَوَّلاً، ثُمَّ نَ·ضْرِب. | 1PL·aufwärmen zuerst, dann 1PL·schlagen.",
+     "umschrift": "nusakhkhin awwalan, thumma naḍrib.",
+     "audio": "audio/ar-de/saetze/ri_03.mp3?v=4127101a",
+     "hinweis": "nusakhkhin: das Präsens, aus dem der Imperativ sakhkhin kommt."
+    },
+    {
+     "fr": "الرَّكْلَةُ لا يَجِبُ أَنْ تَكُونَ عَالِيَة، بَلْ صَحِيحَة.",
+     "de": "Der Tritt muss nicht hoch sein, sondern richtig.",
+     "gloss": "ال·رَكْلَة لا يَ·جِب أَنْ تَ·كُون·َ عَالِيَة، بَلْ صَحِيحَة. | DEF·Tritt nicht 3SG·nötig.sein dass 3SG.F·sein·KONJ hoch.F, sondern richtig.F.",
+     "umschrift": "ar-rakla lā yajib an takūna ʿāliya, bal ṣaḥīḥa.",
+     "audio": "audio/ar-de/saetze/ri_09.mp3?v=984b6bd8",
+     "hinweis": "yajib an takūna: müssen mit Konjunktiv."
+    },
+    {
+     "fr": "لا نَسْتَسْلِم، جَوْلَةٌ أُخْرَى.",
+     "de": "Wir geben nicht auf, noch eine Runde.",
+     "gloss": "لا نَ·سْتَسْلِم، جَوْلَة أُخْرَى. | nicht 1PL·aufgeben, Runde andere.",
+     "umschrift": "lā nastaslim, jawla ukhrā.",
+     "audio": "audio/ar-de/saetze/ri_24.mp3?v=27cd0a80",
+     "hinweis": "lā nastaslim, in der Zeitmaschine lam und lan."
+    },
+    {
+     "fr": "التَّدْرِيبُ يَبْدَأُ السَّاعَةَ السَّادِسَة، وَلا أَحَدَ يَتَأَخَّر.",
+     "de": "Das Training beginnt um sechs, und niemand kommt zu spät.",
+     "gloss": "ال·تَدْرِيب يَ·بْدَأ ال·سَاعَة ال·سَادِسَة، وَ·لا أَحَد يَ·تَأَخَّر. | DEF·Training 3SG·beginnen DEF·Stunde DEF·sechste, und·kein jemand 3SG·sich.verspäten.",
+     "umschrift": "at-tadrīb yabdaʾ as-sāʿa s-sādisa, wa-lā aḥad yataʾakhkhar.",
+     "audio": "audio/ar-de/saetze/ri_02.mp3?v=fdb9ece6",
+     "hinweis": "tadrīb: der maṣdar als Subjekt."
+    },
+    {
+     "fr": "التَّوَازُنُ يَبْدَأُ فِي القَدَمِ وَيَنْتَهِي فِي الرَّأْس.",
+     "de": "Gleichgewicht beginnt im Fuß und endet im Kopf.",
+     "gloss": "ال·تَوَازُن يَ·بْدَأ فِي ال·قَدَم وَ·يَ·نْتَهِي فِي ال·رَأْس. | DEF·Gleichgewicht 3SG·beginnen in DEF·Fuß und·3SG·enden in DEF·Kopf.",
+     "umschrift": "at-tawāzun yabdaʾ fī l-qadam wa-yantahī fī r-raʾs.",
+     "audio": "audio/ar-de/saetze/ri_11.mp3?v=104d206d",
+     "hinweis": "tawāzun: maṣdar Stamm VI."
+    },
+    {
+     "fr": "المُصَارَعَةُ رِيَاضَةُ الشَّامِ القَدِيمَة، كَمَا فِي تُرْكِيَا.",
+     "de": "Ringen ist der alte Sport der Levante, wie in der Türkei.",
+     "gloss": "ال·مُصَارَعَة رِيَاضَة·ُ ال·شَام ال·قَدِيمَة، كَمَا فِي تُرْكِيَا. | DEF·Ringen Sport·GEN DEF·Levante DEF·alte, wie in Türkei.",
+     "umschrift": "al-muṣāraʿa riyāḍat ash-Shām al-qadīma, kamā fī Turkiyā.",
+     "audio": "audio/ar-de/saetze/ri_13.mp3?v=f4925f35",
+     "hinweis": "muṣāraʿa: maṣdar Stamm III."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "taḍrib",
+     "b": "iḍrib",
+     "text": "du schlägst – schlag (Jussiv ohne ta-, mit Hilfsvokal)"
+    },
+    {
+     "a": "iḍrib",
+     "b": "lā taḍrib",
+     "text": "schlag – schlag nicht"
+    },
+    {
+     "a": "ijlis",
+     "b": "ijlisī",
+     "text": "setz dich (Mann) – setz dich (Frau)"
+    },
+    {
+     "a": "darrasa",
+     "b": "tadrīs",
+     "text": "er lehrte – das Lehren (Verb – maṣdar)"
+    },
+    {
+     "a": "sabaḥa",
+     "b": "sibāḥa",
+     "text": "er schwamm – das Schwimmen"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "jalasa + Imperativ",
+     "antworten": [
+      "ijlis",
+      "jalis",
+      "tajlis"
+     ]
+    },
+    {
+     "formel": "sakhkhana + Imperativ",
+     "antworten": [
+      "sakhkhin",
+      "isakhkhin",
+      "tusakhkhin"
+     ]
+    },
+    {
+     "formel": "akhadha + Imperativ",
+     "antworten": [
+      "khudh",
+      "ukhudh",
+      "takhudh"
+     ]
+    },
+    {
+     "formel": "ḍaraba + Verbot",
+     "antworten": [
+      "lā taḍrib",
+      "lā iḍrib",
+      "mā taḍrib"
+     ]
+    },
+    {
+     "formel": "darraba (Stamm II) + maṣdar",
+     "antworten": [
+      "tadrīb",
+      "mudarrib",
+      "darrāb"
+     ]
+    },
+    {
+     "formel": "istaslama (Stamm X) + maṣdar",
+     "antworten": [
+      "istislām",
+      "mustaslim",
+      "salām"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz enthält einen Imperativ (Befehl)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "خُذْ نَفَسًا، أَخْرِجْهُ، ثُمَّ اضْرِب.",
+       "de": "Atme ein, atme aus, dann schlag.",
+       "gloss": "خُذْ نَفَس·ًا، أَخْرِج·ْهُ، ثُمَّ اضْرِب. | nimm Atem·AKK, lass.heraus·ihn, dann schlag.",
+       "umschrift": "khudh nafasan, akhrijhu, thumma ḍrib.",
+       "audio": "audio/ar-de/saetze/ri_10.mp3?v=0397b6ce"
+      },
+      {
+       "fr": "التَّوَازُنُ يَبْدَأُ فِي القَدَمِ وَيَنْتَهِي فِي الرَّأْس.",
+       "de": "Gleichgewicht beginnt im Fuß und endet im Kopf.",
+       "gloss": "ال·تَوَازُن يَ·بْدَأ فِي ال·قَدَم وَ·يَ·نْتَهِي فِي ال·رَأْس. | DEF·Gleichgewicht 3SG·beginnen in DEF·Fuß und·3SG·enden in DEF·Kopf.",
+       "umschrift": "at-tawāzun yabdaʾ fī l-qadam wa-yantahī fī r-raʾs.",
+       "audio": "audio/ar-de/saetze/ri_11.mp3?v=104d206d"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "تَفَضَّلِي، اِجْلِسِي. القَهْوَةُ قَادِمَة.",
+       "de": "Bitte, setzen Sie sich. Der Kaffee kommt.",
+       "gloss": "تَفَضَّل·ِي، اِجْلِس·ِي. ال·قَهْوَة قَادِمَة. | bitte·F, sitz·F. DEF·Kaffee kommend.F.",
+       "umschrift": "tafaḍḍalī, ijlisī. al-qahwa qādima.",
+       "audio": "audio/ar-de/saetze/ta_15.mp3?v=93b5be38"
+      },
+      {
+       "fr": "كَيْفَ حَالُ حَضْرَتِك؟ – بِخَيْر، شُكْرًا. وَأَنْت؟",
+       "de": "Wie geht es Ihnen? – Gut, danke. Und Ihnen?",
+       "gloss": "كَيْفَ حَال·ُ حَضْرَت·ِك؟ – بِ·خَيْر، شُكْرًا. وَ·أَنْت؟ | wie Zustand·GEN Gegenwart·Ihr? – in·Gutes, Dank. und·Sie?",
+       "umschrift": "kayfa ḥālu ḥaḍratik? – bi-khayr, shukran. wa-anta?",
+       "audio": "audio/ar-de/saetze/ta_14.mp3?v=a8794c53"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "العِبْرَةُ مِنَ الحِكَايَة: اِعْمَلِ الوَاجِبَ فِي وَقْتِه.",
+       "de": "Die Moral von der Geschichte: Mach die Hausaufgaben rechtzeitig.",
+       "gloss": "ال·عِبْرَة مِنَ ال·حِكَايَة: اِعْمَل ال·وَاجِب فِي وَقْت·ِه. | DEF·Lehre aus DEF·Geschichte: mach DEF·Pflicht in Zeit·ihr.",
+       "umschrift": "al-ʿibra min al-ḥikāya: iʿmal al-wājib fī waqtih.",
+       "audio": "audio/ar-de/saetze/hk_23.mp3?v=d774f4a6"
+      },
+      {
+       "fr": "نِهَايَةَ الحِكَايَةِ يَعْرِفُهَا القِطّ، وَلا يَقُول.",
+       "de": "Das Ende der Geschichte kennt die Katze, und sie sagt es nicht.",
+       "gloss": "نِهَايَة·َ ال·حِكَايَة يَ·عْرِف·ُهَا ال·قِطّ، وَ·لا يَ·قُول. | Ende·AKK DEF·Geschichte 3SG·kennen·es DEF·Katze, und·nicht 3SG·sagen.",
+       "umschrift": "nihāyat al-ḥikāya yaʿrifuhā l-qiṭṭ, wa-lā yaqūl.",
+       "audio": "audio/ar-de/saetze/hk_21.mp3?v=9ce77c5b"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "نُسَخِّنُ أَوَّلاً، ثُمَّ نَضْرِب.",
+       "de": "Erst wärmen wir uns auf, dann schlagen wir.",
+       "gloss": "نُ·سَخِّن أَوَّلاً، ثُمَّ نَ·ضْرِب. | 1PL·aufwärmen zuerst, dann 1PL·schlagen.",
+       "umschrift": "nusakhkhin awwalan, thumma naḍrib.",
+       "audio": "audio/ar-de/saetze/ri_03.mp3?v=4127101a"
+      },
+      {
+       "fr": "كَرِيم، تَعَالَ إِلَى السَّبُّورَة. – يَا رَبّ.",
+       "de": "Karīm, komm an die Tafel. – Oh Gott.",
+       "gloss": "كَرِيم، تَعَالَ إِلَى ال·سَبُّورَة. – يَا رَبّ. | Karīm, komm zu DEF·Tafel. – oh Herr.",
+       "umschrift": "Karīm, taʿāla ilā s-sabbūra. – yā rabb.",
+       "audio": "audio/ar-de/saetze/mu_20.mp3?v=4c5dcb6a"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
   }
  ],
  "anekdoten": [
@@ -11770,6 +12735,40 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/saetze/qi_23_fp.mp3?v=c5e1b193",
   "audio/ar-de/saetze/qi_23_pc.mp3?v=4a118861",
   "audio/ar-de/saetze/qi_24.mp3?v=5c634e2d",
+  "audio/ar-de/saetze/ri_01.mp3?v=1df481e1",
+  "audio/ar-de/saetze/ri_01_fp.mp3?v=233131d1",
+  "audio/ar-de/saetze/ri_01_pc.mp3?v=ad36c7a3",
+  "audio/ar-de/saetze/ri_02.mp3?v=fdb9ece6",
+  "audio/ar-de/saetze/ri_02_fp.mp3?v=25a47cd5",
+  "audio/ar-de/saetze/ri_02_pc.mp3?v=4181121a",
+  "audio/ar-de/saetze/ri_03.mp3?v=4127101a",
+  "audio/ar-de/saetze/ri_03_fp.mp3?v=e51382c3",
+  "audio/ar-de/saetze/ri_03_pc.mp3?v=15fcd464",
+  "audio/ar-de/saetze/ri_04.mp3?v=4660301a",
+  "audio/ar-de/saetze/ri_05.mp3?v=2db6028f",
+  "audio/ar-de/saetze/ri_06.mp3?v=17c5d000",
+  "audio/ar-de/saetze/ri_07.mp3?v=554ca226",
+  "audio/ar-de/saetze/ri_08.mp3?v=3b057d76",
+  "audio/ar-de/saetze/ri_09.mp3?v=984b6bd8",
+  "audio/ar-de/saetze/ri_10.mp3?v=0397b6ce",
+  "audio/ar-de/saetze/ri_11.mp3?v=104d206d",
+  "audio/ar-de/saetze/ri_12.mp3?v=5feb5d9f",
+  "audio/ar-de/saetze/ri_13.mp3?v=f4925f35",
+  "audio/ar-de/saetze/ri_14.mp3?v=c302faa0",
+  "audio/ar-de/saetze/ri_15.mp3?v=c32057c4",
+  "audio/ar-de/saetze/ri_16.mp3?v=06fefdc1",
+  "audio/ar-de/saetze/ri_17.mp3?v=23a8bdfe",
+  "audio/ar-de/saetze/ri_18.mp3?v=ae46087a",
+  "audio/ar-de/saetze/ri_18_fp.mp3?v=90bbc4e0",
+  "audio/ar-de/saetze/ri_18_pc.mp3?v=97d16694",
+  "audio/ar-de/saetze/ri_19.mp3?v=d6829e26",
+  "audio/ar-de/saetze/ri_20.mp3?v=b9695bc7",
+  "audio/ar-de/saetze/ri_21.mp3?v=40cb19e8",
+  "audio/ar-de/saetze/ri_22.mp3?v=648d99bb",
+  "audio/ar-de/saetze/ri_23.mp3?v=be0e39ef",
+  "audio/ar-de/saetze/ri_24.mp3?v=27cd0a80",
+  "audio/ar-de/saetze/ri_24_fp.mp3?v=b17fc880",
+  "audio/ar-de/saetze/ri_24_pc.mp3?v=c20283c3",
   "audio/ar-de/saetze/ta_01.mp3?v=6123a137",
   "audio/ar-de/saetze/ta_02.mp3?v=cf05178f",
   "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5",
@@ -11924,6 +12923,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/qi_22.mp3?v=01783940",
   "audio/ar-de/syrisch/qi_23.mp3?v=29156be5",
   "audio/ar-de/syrisch/qi_24.mp3?v=97ecd6f8",
+  "audio/ar-de/syrisch/ri_01.mp3?v=f8544a63",
+  "audio/ar-de/syrisch/ri_02.mp3?v=05c15759",
+  "audio/ar-de/syrisch/ri_03.mp3?v=d821e639",
+  "audio/ar-de/syrisch/ri_04.mp3?v=a9db609a",
+  "audio/ar-de/syrisch/ri_05.mp3?v=7741e941",
+  "audio/ar-de/syrisch/ri_06.mp3?v=120a3bb7",
+  "audio/ar-de/syrisch/ri_07.mp3?v=3770922a",
+  "audio/ar-de/syrisch/ri_08.mp3?v=320423d8",
+  "audio/ar-de/syrisch/ri_09.mp3?v=ddcebdd8",
+  "audio/ar-de/syrisch/ri_10.mp3?v=4a3e8dd4",
+  "audio/ar-de/syrisch/ri_11.mp3?v=9b93b8e5",
+  "audio/ar-de/syrisch/ri_12.mp3?v=34d23253",
+  "audio/ar-de/syrisch/ri_13.mp3?v=371a385c",
+  "audio/ar-de/syrisch/ri_14.mp3?v=a76d4d66",
+  "audio/ar-de/syrisch/ri_15.mp3?v=a21657fc",
+  "audio/ar-de/syrisch/ri_16.mp3?v=6ad3a37b",
+  "audio/ar-de/syrisch/ri_17.mp3?v=dc6127bf",
+  "audio/ar-de/syrisch/ri_18.mp3?v=c1e5c80f",
+  "audio/ar-de/syrisch/ri_19.mp3?v=db80c45f",
+  "audio/ar-de/syrisch/ri_20.mp3?v=a47a8aeb",
+  "audio/ar-de/syrisch/ri_21.mp3?v=0cd1cca4",
+  "audio/ar-de/syrisch/ri_22.mp3?v=1fb2b39c",
+  "audio/ar-de/syrisch/ri_23.mp3?v=df970ef0",
+  "audio/ar-de/syrisch/ri_24.mp3?v=aed39154",
   "audio/ar-de/syrisch/ta_01.mp3?v=299cc310",
   "audio/ar-de/syrisch/ta_02.mp3?v=1e22b30d",
   "audio/ar-de/syrisch/ta_03.mp3?v=c958cdf6",
@@ -12068,6 +13091,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/wendungen/qi_22.mp3?v=9bb539be",
   "audio/ar-de/wendungen/qi_23.mp3?v=390b5e43",
   "audio/ar-de/wendungen/qi_24.mp3?v=19b56013",
+  "audio/ar-de/wendungen/ri_01.mp3?v=bfb6ecc8",
+  "audio/ar-de/wendungen/ri_02.mp3?v=4a408142",
+  "audio/ar-de/wendungen/ri_03.mp3?v=f8341f9d",
+  "audio/ar-de/wendungen/ri_04.mp3?v=9208af6b",
+  "audio/ar-de/wendungen/ri_05.mp3?v=029ac2a2",
+  "audio/ar-de/wendungen/ri_06.mp3?v=2f7e2ddc",
+  "audio/ar-de/wendungen/ri_07.mp3?v=7c54853f",
+  "audio/ar-de/wendungen/ri_08.mp3?v=1c795af7",
+  "audio/ar-de/wendungen/ri_09.mp3?v=2e9273d1",
+  "audio/ar-de/wendungen/ri_10.mp3?v=c53155cb",
+  "audio/ar-de/wendungen/ri_11.mp3?v=cba08575",
+  "audio/ar-de/wendungen/ri_12.mp3?v=aad55d91",
+  "audio/ar-de/wendungen/ri_13.mp3?v=7c1f5db2",
+  "audio/ar-de/wendungen/ri_14.mp3?v=ed519e27",
+  "audio/ar-de/wendungen/ri_15.mp3?v=19fd17ef",
+  "audio/ar-de/wendungen/ri_16.mp3?v=88437d23",
+  "audio/ar-de/wendungen/ri_17.mp3?v=04b9c8f6",
+  "audio/ar-de/wendungen/ri_18.mp3?v=e6ebfcbe",
+  "audio/ar-de/wendungen/ri_19.mp3?v=dd54f16d",
+  "audio/ar-de/wendungen/ri_20.mp3?v=bb922ace",
+  "audio/ar-de/wendungen/ri_21.mp3?v=191075c6",
+  "audio/ar-de/wendungen/ri_22.mp3?v=6ae06123",
+  "audio/ar-de/wendungen/ri_23.mp3?v=ae852fc6",
+  "audio/ar-de/wendungen/ri_24.mp3?v=ee642a8c",
   "audio/ar-de/wendungen/ta_01.mp3?v=3f5e2ddc",
   "audio/ar-de/wendungen/ta_02.mp3?v=368d4d85",
   "audio/ar-de/wendungen/ta_03.mp3?v=20ca843b",
