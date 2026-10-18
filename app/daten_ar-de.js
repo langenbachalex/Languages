@@ -396,6 +396,38 @@ window.SPRACHEN["ar-de"] = {
     "mu_23",
     "mu_24"
    ]
+  },
+  {
+   "id": "mashair",
+   "name": "المَشَاعِرُ وَالأَحْوَال",
+   "de": "Gefühle und Stimmungen",
+   "symbol": "🎭",
+   "wendungen": [
+    "ms_01",
+    "ms_02",
+    "ms_03",
+    "ms_04",
+    "ms_05",
+    "ms_06",
+    "ms_07",
+    "ms_08",
+    "ms_09",
+    "ms_10",
+    "ms_11",
+    "ms_12",
+    "ms_13",
+    "ms_14",
+    "ms_15",
+    "ms_16",
+    "ms_17",
+    "ms_18",
+    "ms_19",
+    "ms_20",
+    "ms_21",
+    "ms_22",
+    "ms_23",
+    "ms_24"
+   ]
   }
  ],
  "wendungen": [
@@ -1748,6 +1780,698 @@ window.SPRACHEN["ar-de"] = {
     "fr": "أُسْتاذ، مَعَك دَقيقَة؟ عِنْدي مِشْكْلِة بِالعَلامات.",
     "umschrift": "ustāz, maʿak daʾīʾa? ʿindī mishkle bil-ʿalāmāt.",
     "audio": "audio/ar-de/syrisch/mu_24.mp3?v=36104cc2"
+   }
+  },
+  {
+   "id": "ms_01",
+   "thema": "mashair",
+   "fr": "مِزَاجِي جَيِّدٌ اليَوْم",
+   "de": "ich bin heute gut drauf",
+   "register": "tu",
+   "anker": "مزاج",
+   "notiz": "mizāj = Laune, Stimmung (Wurzel m-z-j, mischen: die Mischung der Säfte). mizājī jayyid = meine Laune ist gut, kein Verb. lā yufsid-hu aḥad = niemand soll sie verderben (lā + Jussiv).",
+   "audio": "audio/ar-de/wendungen/ms_01.mp3?v=b22b12c1",
+   "gloss": "مِزَاج·ِي جَيِّد ال·يَوْم | Laune·mein gut DEF·Tag",
+   "umschrift": "mizājī jayyid al-yawm",
+   "wurzel": "م-ز-ج",
+   "satz": {
+    "fr": "مِزَاجِي جَيِّدٌ اليَوْم، لا يُفْسِدْهُ أَحَد.",
+    "de": "Ich bin heute gut drauf, keiner soll es mir verderben.",
+    "luecke": "مِزَاجِي جَيِّدٌ اليَوْم",
+    "gloss": "مِزَاج·ِي جَيِّد ال·يَوْم، لا يُ·فْسِد·ْهُ أَحَد. | Laune·mein gut DEF·Tag, nicht 3SG·verderben·sie jemand.",
+    "umschrift": "mizājī jayyid al-yawm, lā yufsidhu aḥad.",
+    "audio": "audio/ar-de/saetze/ms_01.mp3?v=4444228f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "مَزاجي مْنيح اليوم، ما حَدا يْخَرْبو.",
+    "umschrift": "mazājī mnīḥ il-yōm, mā ḥada ykharbo.",
+    "audio": "audio/ar-de/syrisch/ms_01.mp3?v=9fce928f"
+   }
+  },
+  {
+   "id": "ms_02",
+   "thema": "mashair",
+   "fr": "أَشْعُرُ بِالمَلَل",
+   "de": "ich langweile mich",
+   "register": "tu",
+   "anker": "شعر",
+   "notiz": "shaʿara bi- = fühlen, spüren (Wurzel sh-ʿ-r; shiʿr = Gedicht, mashāʿir = Gefühle). malal = Langeweile. naẓara ilā = schauen auf (naẓar, Blick, aus dem Lautmodul).",
+   "audio": "audio/ar-de/wendungen/ms_02.mp3?v=872f9f13",
+   "gloss": "أَ·شْعُر بِ·ال·مَلَل | 1SG·fühlen mit·DEF·Langeweile",
+   "umschrift": "ashʿur bil-malal",
+   "wurzel": "ش-ع-ر",
+   "satz": {
+    "fr": "أَشْعُرُ بِالمَلَلِ فِي الاجْتِمَاع، أَنْظُرُ إِلَى السَّاعَة.",
+    "de": "Ich langweile mich in der Sitzung, ich schaue auf die Uhr.",
+    "luecke": "أَشْعُرُ بِالمَلَل",
+    "gloss": "أَ·شْعُر بِ·ال·مَلَل فِي ال·اجْتِمَاع، أَ·نْظُر إِلَى ال·سَاعَة. | 1SG·fühlen mit·DEF·Langeweile in DEF·Sitzung, 1SG·schauen zu DEF·Uhr.",
+    "umschrift": "ashʿur bil-malal fī l-ijtimāʿ, anẓur ilā s-sāʿa.",
+    "audio": "audio/ar-de/saetze/ms_02.mp3?v=25780d62"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ شَعَرْتُ بِالمَلَلِ فِي الاجْتِمَاع، نَظَرْتُ إِلَى السَّاعَة.",
+     "umschrift": "amsi shaʿartu bil-malal fī l-ijtimāʿ, naẓartu ilā s-sāʿa.",
+     "audio": "audio/ar-de/saetze/ms_02_pc.mp3?v=93e07c9d"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَشْعُرُ بِالمَلَلِ فِي الاجْتِمَاع، سَأَنْظُرُ إِلَى السَّاعَة.",
+     "umschrift": "ghadan sa-ashʿur bil-malal fī l-ijtimāʿ, sa-anẓur ilā s-sāʿa.",
+     "audio": "audio/ar-de/saetze/ms_02_fp.mp3?v=b2f9a316"
+    }
+   },
+   "syrisch": {
+    "fr": "عَم إزْهَق بِالاجْتِماع، عَم طَلِّع عَالسّاعَة.",
+    "umschrift": "ʿam izhaʾ bil-ijtimāʿ, ʿam ṭalliʿ ʿas-sāʿa.",
+    "audio": "audio/ar-de/syrisch/ms_02.mp3?v=b0e4a8f8"
+   }
+  },
+  {
+   "id": "ms_03",
+   "thema": "mashair",
+   "fr": "مِزَاجِي سَيِّئ",
+   "de": "schlechte Laune",
+   "register": "tu",
+   "anker": "سيئ",
+   "notiz": "sayyiʾ = schlecht (Wurzel s-w-ʾ; Gegenteil jayyid). Hamza am Ende, Modul 3. baʿda = nach (zeitlich), mit Genitiv: baʿda l-awrāq.",
+   "audio": "audio/ar-de/wendungen/ms_03.mp3?v=87f99414",
+   "gloss": "مِزَاج·ِي سَيِّئ | Laune·mein schlecht",
+   "umschrift": "mizājī sayyiʾ",
+   "wurzel": "س-و-أ",
+   "satz": {
+    "fr": "بَعْدَ الأَوْرَاقِ مِزَاجِي سَيِّئ.",
+    "de": "Nach den Arbeiten habe ich schlechte Laune.",
+    "luecke": "مِزَاجِي سَيِّئ",
+    "gloss": "بَعْدَ ال·أَوْرَاق مِزَاج·ِي سَيِّئ. | nach DEF·Blätter Laune·mein schlecht.",
+    "umschrift": "baʿda l-awrāq mizājī sayyiʾ.",
+    "audio": "audio/ar-de/saetze/ms_03.mp3?v=127ce772"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بَعْد الوْراق مَزاجي عَكِر.",
+    "umschrift": "baʿd il-wrāʾ mazājī ʿakir.",
+    "audio": "audio/ar-de/syrisch/ms_03.mp3?v=467ffa23"
+   }
+  },
+  {
+   "id": "ms_04",
+   "thema": "mashair",
+   "fr": "أَعْصَابِي تَالِفَة",
+   "de": "meine Nerven liegen blank",
+   "register": "tu",
+   "anker": "عصب",
+   "notiz": "aʿṣāb = Nerven (Plural von ʿaṣab, Wurzel ʿ-ṣ-b). tālifa = kaputt, verdorben (feminin, weil ein Plural von Sachen wie ein feminines Singular behandelt wird!). bi-sabab = wegen (sabab = Grund).",
+   "audio": "audio/ar-de/wendungen/ms_04.mp3?v=3a92530d",
+   "gloss": "أَعْصَاب·ِي تَالِفَة | Nerven·mein kaputt.F",
+   "umschrift": "aʿṣābī tālifa",
+   "wurzel": "ع-ص-ب",
+   "satz": {
+    "fr": "أَعْصَابِي تَالِفَةٌ بِسَبَبِ آلَةِ النَّسْخ.",
+    "de": "Meine Nerven liegen blank wegen des Kopierers.",
+    "luecke": "أَعْصَابِي تَالِفَة",
+    "gloss": "أَعْصَاب·ِي تَالِفَة بِ·سَبَب·ِ آلَة·ِ ال·نَسْخ. | Nerven·mein kaputt.F mit·Grund·GEN Maschine·GEN DEF·Kopieren.",
+    "umschrift": "aʿṣābī tālifa bi-sabab ālat an-naskh.",
+    "audio": "audio/ar-de/saetze/ms_04.mp3?v=67e055f7"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَعْصابي تِلْفِت بْسَبَب الفوتوكوبي.",
+    "umschrift": "aʿṣābī tilfet b-sabab il-fotokopi.",
+    "audio": "audio/ar-de/syrisch/ms_04.mp3?v=e1f8b811"
+   }
+  },
+  {
+   "id": "ms_05",
+   "thema": "mashair",
+   "fr": "وَضَعْتُ الدَّرَجَات، اِرْتَحْت",
+   "de": "die Noten sind drin, ich bin erleichtert",
+   "register": "tu",
+   "anker": "راح",
+   "notiz": "waḍaʿtu = ich habe gesetzt (waḍaʿa, Wurzel w-ḍ-ʿ, wie mawḍūʿ). irtaḥtu = ich habe mich erholt, bin erleichtert (Stamm VIII von r-w-ḥ, wie istirāḥa). Zwei Vergangenheiten nebeneinander: fertig, und dann das Gefühl.",
+   "audio": "audio/ar-de/wendungen/ms_05.mp3?v=029f155e",
+   "gloss": "وَضَع·ْتُ ال·دَرَجَات، اِرْتَح·ْت | setzen·1SG DEF·Noten, erleichtert.sein·1SG",
+   "umschrift": "waḍaʿtu d-darajāt, irtaḥt",
+   "wurzel": "ر-و-ح",
+   "satz": {
+    "fr": "وَضَعْتُ الدَّرَجَات، اِرْتَحْت.",
+    "de": "Ich habe die Noten eingetragen, ich bin erleichtert.",
+    "luecke": "اِرْتَحْت",
+    "gloss": "وَضَع·ْتُ ال·دَرَجَات، اِرْتَح·ْت. | setzen·1SG DEF·Noten, erleichtert.sein·1SG.",
+    "umschrift": "waḍaʿtu d-darajāt, irtaḥt.",
+    "audio": "audio/ar-de/saetze/ms_05.mp3?v=05f62df0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "حَطّيت العَلامات، ارْتَحْت.",
+    "umschrift": "ḥaṭṭēt il-ʿalāmāt, irtaḥt.",
+    "audio": "audio/ar-de/syrisch/ms_05.mp3?v=84ea4fea"
+   }
+  },
+  {
+   "id": "ms_06",
+   "thema": "mashair",
+   "fr": "لا أَسْتَطِيعُ الانْتِظَار",
+   "de": "ich kann es kaum erwarten",
+   "register": "tu",
+   "anker": "انتظار",
+   "notiz": "lā astaṭīʿ = ich kann nicht (istaṭāʿa, Stamm X). al-intiẓār = das Warten (Verbalnomen von intaẓara). ʿuṭla = freier Tag, Ferien. Die Vorfreude ist auf Arabisch ein Nicht-warten-Können.",
+   "audio": "audio/ar-de/wendungen/ms_06.mp3?v=8a85f6f6",
+   "gloss": "لا أَ·سْتَطِيع ال·انْتِظَار | nicht 1SG·können DEF·Warten",
+   "umschrift": "lā astaṭīʿ al-intiẓār",
+   "wurzel": "ن-ظ-ر",
+   "satz": {
+    "fr": "غَدًا عُطْلَة، لا أَسْتَطِيعُ الانْتِظَار.",
+    "de": "Morgen ist frei, ich kann es kaum erwarten.",
+    "luecke": "لا أَسْتَطِيعُ الانْتِظَار",
+    "gloss": "غَدًا عُطْلَة، لا أَ·سْتَطِيع ال·انْتِظَار. | morgen Ferien, nicht 1SG·können DEF·Warten.",
+    "umschrift": "ghadan ʿuṭla, lā astaṭīʿ al-intiẓār.",
+    "audio": "audio/ar-de/saetze/ms_06.mp3?v=28d820a4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بُكْرا عُطْلِة، ما فيني إسْتَنّى.",
+    "umschrift": "bukra ʿuṭle, mā fīnī istanna.",
+    "audio": "audio/ar-de/syrisch/ms_06.mp3?v=8d6f9472"
+   }
+  },
+  {
+   "id": "ms_07",
+   "thema": "mashair",
+   "fr": "ضَاعَ مِزَاجِي",
+   "de": "die Laune ist hin",
+   "register": "tu",
+   "anker": "ضاع",
+   "notiz": "ḍāʿa = verloren gehen (schon in Thema 1: al-ḥiṣṣa ḍāʿat). Hier maskulin, weil mizāj maskulin ist: ḍāʿa mizājī. Das Verb steht vor dem Subjekt, das ist die arabische Grundstellung.",
+   "audio": "audio/ar-de/wendungen/ms_07.mp3?v=0e3e7bfe",
+   "gloss": "ضَاع·َ مِزَاج·ِي | verloren.gehen·3SG Laune·mein",
+   "umschrift": "ḍāʿa mizājī",
+   "wurzel": "ض-ي-ع",
+   "satz": {
+    "fr": "بَعْدَ الحِصَّةِ الأَخِيرَةِ ضَاعَ مِزَاجِي.",
+    "de": "Nach der letzten Stunde war die Laune hin.",
+    "luecke": "ضَاعَ مِزَاجِي",
+    "gloss": "بَعْدَ ال·حِصَّة ال·أَخِيرَة ضَاع·َ مِزَاج·ِي. | nach DEF·Stunde DEF·letzte verloren.gehen·3SG Laune·mein.",
+    "umschrift": "baʿda l-ḥiṣṣa l-akhīra ḍāʿa mizājī.",
+    "audio": "audio/ar-de/saetze/ms_07.mp3?v=5fa0b6d9"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بَعْد الحِصَّة الأَخيرَة راح مَزاجي.",
+    "umschrift": "baʿd il-ḥiṣṣa l-akhīra rāḥ mazājī.",
+    "audio": "audio/ar-de/syrisch/ms_07.mp3?v=ef45e2cf"
+   }
+  },
+  {
+   "id": "ms_08",
+   "thema": "mashair",
+   "fr": "رَأْسِي يُؤْلِمُنِي",
+   "de": "ich habe Kopfschmerzen",
+   "register": "tu",
+   "anker": "ألم",
+   "notiz": "raʾs = Kopf (Hamza in der Mitte, Modul 3; Syrisch rās). yuʾlim-unī = er schmerzt mich (alama, Wurzel ʾ-l-m, alam = Schmerz). Der Kopf ist Subjekt, ich bin das Objekt: so sagt Arabisch « mir tut weh ».",
+   "audio": "audio/ar-de/wendungen/ms_08.mp3?v=4b3f8a01",
+   "gloss": "رَأْس·ِي يُ·ؤْلِم·ُنِي | Kopf·mein 3SG·schmerzen·mich",
+   "umschrift": "raʾsī yuʾlimunī",
+   "wurzel": "أ-ل-م",
+   "satz": {
+    "fr": "بَعْدَ سَبْعِ حِصَصٍ رَأْسِي يُؤْلِمُنِي.",
+    "de": "Nach sieben Stunden habe ich Kopfschmerzen.",
+    "luecke": "رَأْسِي يُؤْلِمُنِي",
+    "gloss": "بَعْدَ سَبْع حِصَص رَأْس·ِي يُ·ؤْلِم·ُنِي. | nach sieben Stunden Kopf·mein 3SG·schmerzen·mich.",
+    "umschrift": "baʿda sabʿ ḥiṣaṣ raʾsī yuʾlimunī.",
+    "audio": "audio/ar-de/saetze/ms_08.mp3?v=b2253cc5"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بَعْد سَبْع حِصَص راسي عَم يوجَعْني.",
+    "umschrift": "baʿd sabʿ ḥiṣaṣ rāsī ʿam yūjaʿnī.",
+    "audio": "audio/ar-de/syrisch/ms_08.mp3?v=402d1564"
+   }
+  },
+  {
+   "id": "ms_09",
+   "thema": "mashair",
+   "fr": "مَا زِلْتُ نَعْسَان",
+   "de": "ich bin noch verschlafen",
+   "register": "tu",
+   "anker": "زال",
+   "notiz": "mā zil-tu = ich bin noch immer (mā zāla + ich; in Thema 0: mā zālat). naʿsān = schläfrig (Muster faʿlān für Zustände: taʿbān müde, jawʿān hungrig, ʿaṭshān durstig). fī th-thāmina ṣabāḥan = um acht morgens.",
+   "audio": "audio/ar-de/wendungen/ms_09.mp3?v=cdcb8d4e",
+   "gloss": "مَا زِل·ْتُ نَعْسَان | nicht aufhören·1SG schläfrig",
+   "umschrift": "mā ziltu naʿsān",
+   "wurzel": "ن-ع-س",
+   "satz": {
+    "fr": "فِي الثَّامِنَةِ صَبَاحًا مَا زِلْتُ نَعْسَان.",
+    "de": "Um acht Uhr morgens bin ich noch verschlafen.",
+    "luecke": "مَا زِلْتُ نَعْسَان",
+    "gloss": "فِي ال·ثَامِنَة صَبَاحًا مَا زِل·ْتُ نَعْسَان. | in DEF·achten morgens nicht aufhören·1SG schläfrig.",
+    "umschrift": "fī th-thāmina ṣabāḥan mā ziltu naʿsān.",
+    "audio": "audio/ar-de/saetze/ms_09.mp3?v=53128656"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "السّاعَة تْمانِة الصُّبْح لِسّا نَعْسان.",
+    "umschrift": "is-sāʿa tmāne iṣ-ṣubḥ lissa naʿsān.",
+    "audio": "audio/ar-de/syrisch/ms_09.mp3?v=be71d357"
+   }
+  },
+  {
+   "id": "ms_10",
+   "thema": "mashair",
+   "fr": "مُتَوَتِّرٌ قَبْلَ الحِصَّةِ الأُولَى",
+   "de": "nervös vor der ersten Stunde",
+   "register": "tu",
+   "anker": "توتر",
+   "notiz": "mutawattir = angespannt, nervös (Partizip von tawattara, Wurzel w-t-r, Saite: gespannt wie eine Saite). al-ūlā = die erste (feminin von al-awwal). Nach mā ziltu steht das Adjektiv im Akkusativ: mutawattiran, in der Pause hörbar.",
+   "audio": "audio/ar-de/wendungen/ms_10.mp3?v=7d7b022e",
+   "gloss": "مُتَوَتِّر قَبْلَ ال·حِصَّة ال·أُولَى | angespannt vor DEF·Stunde DEF·erste",
+   "umschrift": "mutawattir qabla l-ḥiṣṣa l-ūlā",
+   "wurzel": "و-ت-ر",
+   "satz": {
+    "fr": "مَا زِلْتُ مُتَوَتِّرًا قَبْلَ الحِصَّةِ الأُولَى.",
+    "de": "Vor der ersten Stunde bin ich immer noch nervös.",
+    "luecke": "مُتَوَتِّرًا قَبْلَ الحِصَّةِ الأُولَى",
+    "gloss": "مَا زِل·ْتُ مُتَوَتِّر·ًا قَبْلَ ال·حِصَّة ال·أُولَى. | nicht aufhören·1SG angespannt·AKK vor DEF·Stunde DEF·erste.",
+    "umschrift": "mā ziltu mutawattiran qabla l-ḥiṣṣa l-ūlā.",
+    "audio": "audio/ar-de/saetze/ms_10.mp3?v=5834d4b0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "لِسّا مِتْوَتِّر قَبْل الحِصَّة الأولى.",
+    "umschrift": "lissa mitwattir ʾabl il-ḥiṣṣa l-ūla.",
+    "audio": "audio/ar-de/syrisch/ms_10.mp3?v=37752680"
+   }
+  },
+  {
+   "id": "ms_11",
+   "thema": "mashair",
+   "fr": "قَلِقٌ قَبْلَ اجْتِمَاعِ الأَهْل",
+   "de": "unruhig vor dem Elternabend",
+   "register": "tu",
+   "anker": "قلق",
+   "notiz": "qaliq = besorgt, unruhig (Wurzel q-l-q; qalaq = Sorge). Frau: qaliqa. Adjektive auf -iq/-il beschreiben Zustände: qaliq, ḥazin traurig, fariḥ froh.",
+   "audio": "audio/ar-de/wendungen/ms_11.mp3?v=c6068059",
+   "gloss": "قَلِق قَبْلَ اجْتِمَاع·ِ ال·أَهْل | besorgt vor Treffen·GEN DEF·Familie",
+   "umschrift": "qaliq qabla jtimāʿ al-ahl",
+   "wurzel": "ق-ل-ق",
+   "satz": {
+    "fr": "أَنَا قَلِقٌ قَبْلَ اجْتِمَاعِ الأَهْل.",
+    "de": "Vor dem Elternabend bin ich unruhig.",
+    "luecke": "قَلِقٌ",
+    "gloss": "أَنَا قَلِق قَبْلَ اجْتِمَاع·ِ ال·أَهْل. | ich besorgt vor Treffen·GEN DEF·Familie.",
+    "umschrift": "anā qaliq qabla jtimāʿ al-ahl.",
+    "audio": "audio/ar-de/saetze/ms_11.mp3?v=173ff8c0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَنا قَلْقان قَبْل اجْتِماع الأَهْل.",
+    "umschrift": "ana ʾalʾān ʾabl ijtimāʿ il-ahl.",
+    "audio": "audio/ar-de/syrisch/ms_11.mp3?v=03f3925a"
+   }
+  },
+  {
+   "id": "ms_12",
+   "thema": "mashair",
+   "fr": "اِنْتَهَى التَّفْتِيش، اِرْتَحْت",
+   "de": "die Inspektion ist vorbei, ich bin erleichtert",
+   "register": "tu",
+   "anker": "انتهى",
+   "notiz": "intahā = zu Ende gehen (Thema 1: al-qahwa ntahat); hier maskulin für taftīsh = Inspektion (Wurzel f-t-sh, suchen, durchsuchen). Wieder Verb vor Subjekt.",
+   "audio": "audio/ar-de/wendungen/ms_12.mp3?v=afa8087d",
+   "gloss": "اِنْتَهَى ال·تَفْتِيش، اِرْتَح·ْت | endete DEF·Inspektion, erleichtert.sein·1SG",
+   "umschrift": "intahā t-taftīsh, irtaḥt",
+   "wurzel": "ف-ت-ش",
+   "satz": {
+    "fr": "اِنْتَهَى التَّفْتِيش، اِرْتَحْت.",
+    "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
+    "luecke": "اِنْتَهَى التَّفْتِيش",
+    "gloss": "اِنْتَهَى ال·تَفْتِيش، اِرْتَح·ْت. | endete DEF·Inspektion, erleichtert.sein·1SG.",
+    "umschrift": "intahā t-taftīsh, irtaḥt.",
+    "audio": "audio/ar-de/saetze/ms_12.mp3?v=6dc14015"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خِلْصِت التَّفْتيش، ارْتَحْت.",
+    "umschrift": "khilṣet it-taftīsh, irtaḥt.",
+    "audio": "audio/ar-de/syrisch/ms_12.mp3?v=0e5b4354"
+   }
+  },
+  {
+   "id": "ms_13",
+   "thema": "mashair",
+   "fr": "نَفِدَ صَبْرِي",
+   "de": "mir reißt die Geduld",
+   "register": "tu",
+   "anker": "نفد",
+   "notiz": "nafida = ausgehen, zu Ende sein (Vorrat). ṣabr = Geduld (Wurzel ṣ-b-r; ṣabūr = geduldig). taḥdhīr = Warnung, Verweis (Wurzel ḥ-dh-r). ʿinda = bei (auch zeitlich).",
+   "audio": "audio/ar-de/wendungen/ms_13.mp3?v=bee12d40",
+   "gloss": "نَفِد·َ صَبْر·ِي | ausgehen·3SG Geduld·mein",
+   "umschrift": "nafida ṣabrī",
+   "wurzel": "ن-ف-د",
+   "satz": {
+    "fr": "عِنْدَ التَّحْذِيرِ الثَّالِثِ نَفِدَ صَبْرِي.",
+    "de": "Beim dritten Verweis ist mir die Geduld gerissen.",
+    "luecke": "نَفِدَ صَبْرِي",
+    "gloss": "عِنْدَ ال·تَحْذِير ال·ثَالِث نَفِد·َ صَبْر·ِي. | bei DEF·Warnung DEF·dritte ausgehen·3SG Geduld·mein.",
+    "umschrift": "ʿinda t-taḥdhīr ath-thālith nafida ṣabrī.",
+    "audio": "audio/ar-de/saetze/ms_13.mp3?v=9462c201"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "عَالتَّحْذير التّالِت خِلِص صَبْري.",
+    "umschrift": "ʿat-taḥzīr it-tālet khiliṣ ṣabrī.",
+    "audio": "audio/ar-de/syrisch/ms_13.mp3?v=9723952c"
+   }
+  },
+  {
+   "id": "ms_14",
+   "thema": "mashair",
+   "fr": "اِخْتَلَطَ عَلَيَّ الأَمْر",
+   "de": "ich bin durcheinander",
+   "register": "tu",
+   "anker": "اختلط",
+   "notiz": "ikhtalaṭa ʿalā = sich vermischen bei = jemanden verwirren (Wurzel kh-l-ṭ). ʿalayya = auf mich. al-amr = die Sache. jadwalayn = zwei Pläne: der Dual mit -ayn.",
+   "audio": "audio/ar-de/wendungen/ms_14.mp3?v=6aa1351d",
+   "gloss": "اِخْتَلَط·َ عَلَيَّ ال·أَمْر | sich.vermischen·3SG auf.mich DEF·Sache",
+   "umschrift": "ikhtalaṭa ʿalayya l-amr",
+   "wurzel": "خ-ل-ط",
+   "satz": {
+    "fr": "قَرَأْتُ جَدْوَلَيْن، فَاخْتَلَطَ عَلَيَّ الأَمْر.",
+    "de": "Ich habe zwei Stundenpläne gelesen, da bin ich durcheinander gekommen.",
+    "luecke": "عَلَيَّ الأَمْر",
+    "gloss": "قَرَأ·ْتُ جَدْوَل·َيْن، فَ·اخْتَلَط·َ عَلَيَّ ال·أَمْر. | lesen·1SG Plan·DUAL, da·sich.vermischen·3SG auf.mich DEF·Sache.",
+    "umschrift": "qaraʾtu jadwalayn, fa-khtalaṭa ʿalayya l-amr.",
+    "audio": "audio/ar-de/saetze/ms_14.mp3?v=34989fe1"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "قَرَيت بَرْنامَجين، اخْتَلَط عَلَيّ الأَمْر.",
+    "umschrift": "ʾarēt barnāmajēn, ikhtalaṭ ʿalayy il-amr.",
+    "audio": "audio/ar-de/syrisch/ms_14.mp3?v=9a9f485c"
+   }
+  },
+  {
+   "id": "ms_15",
+   "thema": "mashair",
+   "fr": "عَقْلِي فِي مَكَانٍ آخَر",
+   "de": "ich bin mit dem Kopf woanders",
+   "register": "tu",
+   "anker": "عقل",
+   "notiz": "ʿaql = Verstand (Wurzel ʿ-q-l, binden: der Verstand bindet). makān ākhar = ein anderer Ort (ākhar maskulin, ukhrā feminin: marratan ukhrā). ʿudhran = Entschuldigung (knapp).",
+   "audio": "audio/ar-de/wendungen/ms_15.mp3?v=0d804494",
+   "gloss": "عَقْل·ِي فِي مَكَان آخَر | Verstand·mein in Ort anderer",
+   "umschrift": "ʿaqlī fī makān ākhar",
+   "wurzel": "ع-ق-ل",
+   "satz": {
+    "fr": "عَقْلِي فِي مَكَانٍ آخَرَ اليَوْم، عُذْرًا.",
+    "de": "Ich bin heute mit dem Kopf woanders, Entschuldigung.",
+    "luecke": "عَقْلِي فِي مَكَانٍ آخَر",
+    "gloss": "عَقْل·ِي فِي مَكَان آخَر ال·يَوْم، عُذْرًا. | Verstand·mein in Ort anderer DEF·Tag, Entschuldigung.",
+    "umschrift": "ʿaqlī fī makān ākhar al-yawm, ʿudhran.",
+    "audio": "audio/ar-de/saetze/ms_15.mp3?v=5942abc1"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "عَقْلي بْمَكان تاني اليوم، عَفْوًا.",
+    "umschrift": "ʿaʾlī b-makān tānī il-yōm, ʿafwan.",
+    "audio": "audio/ar-de/syrisch/ms_15.mp3?v=4f3b8506"
+   }
+  },
+  {
+   "id": "ms_16",
+   "thema": "mashair",
+   "fr": "سَئِمْتُ مِنَ العُذْرِ نَفْسِه",
+   "de": "ich habe dieselbe Ausrede satt",
+   "register": "tu",
+   "anker": "سئم",
+   "notiz": "saʾima min = etwas satthaben (Wurzel s-ʾ-m; Hamza in der Mitte). ʿudhr = Entschuldigung, Ausrede (wie ʿudhran). nafsih = derselbe, nach Genitiv. daftar = Heft.",
+   "audio": "audio/ar-de/wendungen/ms_16.mp3?v=67d65719",
+   "gloss": "سَئِم·ْتُ مِنَ ال·عُذْر نَفْس·ِه | satthaben·1SG von DEF·Ausrede selbst·sein",
+   "umschrift": "saʾimtu min al-ʿudhr nafsih",
+   "wurzel": "س-أ-م",
+   "satz": {
+    "fr": "سَئِمْتُ مِنَ العُذْرِ نَفْسِه: « نَسِيتُ الدَّفْتَر ».",
+    "de": "Ich habe dieselbe Ausrede satt: « Ich habe das Heft vergessen ».",
+    "luecke": "سَئِمْتُ مِنَ العُذْرِ نَفْسِه",
+    "gloss": "سَئِم·ْتُ مِنَ ال·عُذْر نَفْس·ِه: « نَسِي·تُ ال·دَفْتَر ». | satthaben·1SG von DEF·Ausrede selbst·sein: « vergessen·1SG DEF·Heft ».",
+    "umschrift": "saʾimtu min al-ʿudhr nafsih: « nasītu d-daftar ».",
+    "audio": "audio/ar-de/saetze/ms_16.mp3?v=391e850f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "زْهِقْت مِن نَفْس العِذِر: « نْسيت الدَّفْتَر ».",
+    "umschrift": "zhiʾt min nafs il-ʿizr: « nsīt id-daftar ».",
+    "audio": "audio/ar-de/syrisch/ms_16.mp3?v=6e767fc4"
+   }
+  },
+  {
+   "id": "ms_17",
+   "thema": "mashair",
+   "fr": "أَشْتَاقُ إِلَى العُطْلَة",
+   "de": "ich vermisse die Ferien",
+   "register": "tu",
+   "anker": "اشتاق",
+   "notiz": "ishtāqa ilā = sich sehnen nach, vermissen (Stamm VIII von sh-w-q; shawq = Sehnsucht). Vergangenheit: ishtaq-tu (der lange Vokal wird kurz). min al-ān = ab jetzt, jetzt schon.",
+   "audio": "audio/ar-de/wendungen/ms_17.mp3?v=2798dd3d",
+   "gloss": "أَ·شْتَاق إِلَى ال·عُطْلَة | 1SG·sich.sehnen zu DEF·Ferien",
+   "umschrift": "ashtāq ilā l-ʿuṭla",
+   "wurzel": "ش-و-ق",
+   "satz": {
+    "fr": "أَشْتَاقُ إِلَى العُطْلَةِ مِنَ الآن.",
+    "de": "Ich vermisse die Ferien jetzt schon.",
+    "luecke": "أَشْتَاقُ إِلَى العُطْلَة",
+    "gloss": "أَ·شْتَاق إِلَى ال·عُطْلَة مِنَ ال·آن. | 1SG·sich.sehnen zu DEF·Ferien von DEF·jetzt.",
+    "umschrift": "ashtāq ilā l-ʿuṭla min al-ān.",
+    "audio": "audio/ar-de/saetze/ms_17.mp3?v=7c1aaf76"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ اشْتَقْتُ إِلَى العُطْلَة.",
+     "umschrift": "amsi shtaqtu ilā l-ʿuṭla.",
+     "audio": "audio/ar-de/saetze/ms_17_pc.mp3?v=789d414f"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَشْتَاقُ إِلَى العُطْلَة.",
+     "umschrift": "ghadan sa-ashtāq ilā l-ʿuṭla.",
+     "audio": "audio/ar-de/saetze/ms_17_fp.mp3?v=6900d937"
+    }
+   },
+   "syrisch": {
+    "fr": "عَم إشْتاق عَالعُطْلِة مِن هَلَّق.",
+    "umschrift": "ʿam ishtāʾ ʿal-ʿuṭle min hallaʾ.",
+    "audio": "audio/ar-de/syrisch/ms_17.mp3?v=f719bf4b"
+   }
+  },
+  {
+   "id": "ms_18",
+   "thema": "mashair",
+   "fr": "نَسِيتُ اسْمَه، يَا لَلْخَجَل",
+   "de": "ich habe seinen Namen vergessen, wie peinlich",
+   "register": "tu",
+   "anker": "نسي",
+   "notiz": "nasiya = vergessen; nasī-tu = ich vergaß. ism-ah = seinen Namen (-ah = sein nach Vokal… hier -ahu). yā la-l-khajal = oh, welche Scham! (yā la- + al- + Nomen: der Ausruf). amāma = vor (räumlich).",
+   "audio": "audio/ar-de/wendungen/ms_18.mp3?v=be5efd37",
+   "gloss": "يَا لَ·ال·خَجَل | oh für·DEF·Scham",
+   "umschrift": "yā la-l-khajal",
+   "wurzel": "خ-ج-ل",
+   "satz": {
+    "fr": "نَسِيتُ اسْمَهُ أَمَامَ الصَّفّ، يَا لَلْخَجَل.",
+    "de": "Ich habe seinen Namen vor der Klasse vergessen, wie peinlich.",
+    "luecke": "يَا لَلْخَجَل",
+    "gloss": "نَسِي·تُ اسْم·َهُ أَمَامَ ال·صَفّ، يَا لَ·ال·خَجَل. | vergessen·1SG Name·sein vor DEF·Klasse, oh für·DEF·Scham.",
+    "umschrift": "nasītu smahu amāma ṣ-ṣaff, yā la-l-khajal.",
+    "audio": "audio/ar-de/saetze/ms_18.mp3?v=67b12878"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "نْسيت اسْمو ئِدّام الصَّفّ، يا فْضيحَة.",
+    "umschrift": "nsīt ismo ʾiddām iṣ-ṣaff, yā fḍīḥa.",
+    "audio": "audio/ar-de/syrisch/ms_18.mp3?v=4cfc52b2"
+   }
+  },
+  {
+   "id": "ms_19",
+   "thema": "mashair",
+   "fr": "تَفَاجَأْت",
+   "de": "ich war überrascht",
+   "register": "tu",
+   "anker": "فاجأ",
+   "notiz": "tafājaʾa = überrascht sein (Stamm VI von f-j-ʾ; fajʾatan = plötzlich, Thema 1). al-kull = alle (Singularverb: ʿamila). ʿamila = machen, tun (Wurzel ʿ-m-l, wie ʿamal, Arbeit).",
+   "audio": "audio/ar-de/wendungen/ms_19.mp3?v=cc70491f",
+   "gloss": "تَفَاجَأ·ْت | überrascht.sein·1SG",
+   "umschrift": "tafājaʾt",
+   "wurzel": "ف-ج-أ",
+   "satz": {
+    "fr": "الكُلُّ عَمِلَ الوَاجِب، تَفَاجَأْت.",
+    "de": "Alle haben die Hausaufgabe gemacht, ich war überrascht.",
+    "luecke": "تَفَاجَأْت",
+    "gloss": "ال·كُلّ عَمِل·َ ال·وَاجِب، تَفَاجَأ·ْت. | DEF·alle machen·3SG DEF·Pflicht, überrascht.sein·1SG.",
+    "umschrift": "al-kull ʿamila l-wājib, tafājaʾt.",
+    "audio": "audio/ar-de/saetze/ms_19.mp3?v=70f00f83"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الكِلّ عِمْلو الوَظيفِة، تْفاجَأْت.",
+    "umschrift": "il-kill ʿimlū l-waẓīfe, tfājaʾt.",
+    "audio": "audio/ar-de/syrisch/ms_19.mp3?v=8c21df06"
+   }
+  },
+  {
+   "id": "ms_20",
+   "thema": "mashair",
+   "fr": "أَفْتَخِرُ بِصَفِّي",
+   "de": "ich bin stolz auf meine Klasse",
+   "register": "tu",
+   "anker": "افتخر",
+   "notiz": "iftakhara bi- = stolz sein auf (Stamm VIII von f-kh-r; fakhr = Stolz). ṣaff-ī = meine Klasse. takallamū = sie sprachen (Plural -ū). kull al-ḥiṣṣa = die ganze Stunde.",
+   "audio": "audio/ar-de/wendungen/ms_20.mp3?v=9db78c9a",
+   "gloss": "أَ·فْتَخِر بِ·صَفّ·ِي | 1SG·stolz.sein auf·Klasse·mein",
+   "umschrift": "aftakhir bi-ṣaffī",
+   "wurzel": "ف-خ-ر",
+   "satz": {
+    "fr": "أَفْتَخِرُ بِصَفِّي، تَكَلَّمُوا العَرَبِيَّةَ كُلَّ الحِصَّة.",
+    "de": "Ich bin stolz auf meine Klasse, sie haben die ganze Stunde Arabisch gesprochen.",
+    "luecke": "أَفْتَخِرُ بِصَفِّي",
+    "gloss": "أَ·فْتَخِر بِ·صَفّ·ِي، تَكَلَّم·ُوا ال·عَرَبِيَّة كُلّ ال·حِصَّة. | 1SG·stolz.sein auf·Klasse·mein, sprechen·3PL DEF·Arabisch ganz DEF·Stunde.",
+    "umschrift": "aftakhir bi-ṣaffī, takallamū l-ʿarabiyya kull al-ḥiṣṣa.",
+    "audio": "audio/ar-de/saetze/ms_20.mp3?v=8bf1aa60"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ افْتَخَرْتُ بِصَفِّي.",
+     "umschrift": "amsi ftakhartu bi-ṣaffī.",
+     "audio": "audio/ar-de/saetze/ms_20_pc.mp3?v=3bcba050"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَفْتَخِرُ بِصَفِّي.",
+     "umschrift": "ghadan sa-aftakhir bi-ṣaffī.",
+     "audio": "audio/ar-de/saetze/ms_20_fp.mp3?v=70e966ef"
+    }
+   },
+   "syrisch": {
+    "fr": "بِفْتِخِر بْصَفّي، حِكْيو عَرَبي كِلّ الحِصَّة.",
+    "umschrift": "biftikhir b-ṣaffī, ḥikyū ʿarabī kill il-ḥiṣṣa.",
+    "audio": "audio/ar-de/syrisch/ms_20.mp3?v=4a8dc861"
+   }
+  },
+  {
+   "id": "ms_21",
+   "thema": "mashair",
+   "fr": "أَحْسُدُه",
+   "de": "ich beneide ihn",
+   "register": "tu",
+   "anker": "حسد",
+   "notiz": "ḥasada = beneiden (Wurzel ḥ-s-d; ḥasad = Neid, der böse Blick: deshalb sagt man ma shāʾ Allāh, um ihn abzuwehren). ʿind-ah = er hat. jumʿa fārigha = ein leerer Freitag.",
+   "audio": "audio/ar-de/wendungen/ms_21.mp3?v=737c52c7",
+   "gloss": "أَ·حْسُد·ُه | 1SG·beneiden·ihn",
+   "umschrift": "aḥsuduh",
+   "wurzel": "ح-س-د",
+   "satz": {
+    "fr": "خَالِد عِنْدَهُ جُمْعَةٌ فَارِغَة، أَحْسُدُه.",
+    "de": "Khalid hat freitags frei, ich beneide ihn.",
+    "luecke": "أَحْسُدُه",
+    "gloss": "خَالِد عِنْد·َهُ جُمْعَة فَارِغَة، أَ·حْسُد·ُه. | Khalid bei·ihm Freitag leer.F, 1SG·beneiden·ihn.",
+    "umschrift": "Khālid ʿindahu jumʿa fārigha, aḥsuduh.",
+    "audio": "audio/ar-de/saetze/ms_21.mp3?v=4489659e"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خالِد عِنْدو جُمْعَة فاضْيِة، عَم إحْسْدو.",
+    "umschrift": "Khālid ʿindo jumʿa fāḍye, ʿam iḥsdo.",
+    "audio": "audio/ar-de/syrisch/ms_21.mp3?v=a305e8ed"
+   }
+  },
+  {
+   "id": "ms_22",
+   "thema": "mashair",
+   "fr": "أَسْتَرِيحُ فَقَط",
+   "de": "ich entspanne nur",
+   "register": "tu",
+   "anker": "استراح",
+   "notiz": "istarāḥa = sich ausruhen (Stamm X von r-w-ḥ: istirāḥa = Pause, irtāḥa = erleichtert sein, rūḥ = Seele, alles eine Wurzel). astarīḥ, istaraḥ-tu, sa-astarīḥ.",
+   "audio": "audio/ar-de/wendungen/ms_22.mp3?v=ba4df52d",
+   "gloss": "أَ·سْتَرِيح فَقَط | 1SG·sich.ausruhen nur",
+   "umschrift": "astarīḥ faqaṭ",
+   "wurzel": "ر-و-ح",
+   "satz": {
+    "fr": "فِي عُطْلَةِ الأُسْبُوعِ أَسْتَرِيحُ فَقَط.",
+    "de": "Am Wochenende entspanne ich nur.",
+    "luecke": "أَسْتَرِيحُ فَقَط",
+    "gloss": "فِي عُطْلَة·ِ ال·أُسْبُوع أَ·سْتَرِيح فَقَط. | in Pause·GEN DEF·Woche 1SG·sich.ausruhen nur.",
+    "umschrift": "fī ʿuṭlat al-usbūʿ astarīḥ faqaṭ.",
+    "audio": "audio/ar-de/saetze/ms_22.mp3?v=def9f1b5"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "فِي عُطْلَةِ الأُسْبُوعِ اسْتَرَحْتُ فَقَط.",
+     "umschrift": "fī ʿuṭlat al-usbūʿ istaraḥtu faqaṭ.",
+     "audio": "audio/ar-de/saetze/ms_22_pc.mp3?v=0359c185"
+    },
+    "fp": {
+     "fr": "فِي عُطْلَةِ الأُسْبُوعِ سَأَسْتَرِيحُ فَقَط.",
+     "umschrift": "fī ʿuṭlat al-usbūʿ sa-astarīḥ faqaṭ.",
+     "audio": "audio/ar-de/saetze/ms_22_fp.mp3?v=3be646a2"
+    }
+   },
+   "syrisch": {
+    "fr": "بِالوِيكِنْد بَسّ بِرْتاح.",
+    "umschrift": "bil-wīkend bass birtāḥ.",
+    "audio": "audio/ar-de/syrisch/ms_22.mp3?v=25030967"
+   }
+  },
+  {
+   "id": "ms_23",
+   "thema": "mashair",
+   "fr": "لا تَهْتَمّ، غَدًا يَوْمٌ جَدِيد",
+   "de": "mach dir nichts draus, morgen ist ein neuer Tag",
+   "register": "tu",
+   "anker": "اهتم",
+   "notiz": "lā tahtamm = kümmere dich nicht (verneinter Imperativ: lā + Jussiv; ihtamma bi- = sich kümmern um, Wurzel h-m-m). ghadan yawm jadīd = morgen (ist) ein neuer Tag: unbestimmt, kein Verb.",
+   "audio": "audio/ar-de/wendungen/ms_23.mp3?v=4f13c83e",
+   "gloss": "لا تَ·هْتَمّ، غَدًا يَوْم جَدِيد | nicht 2SG·sich.kümmern, morgen Tag neu",
+   "umschrift": "lā tahtamm, ghadan yawm jadīd",
+   "wurzel": "ه-م-م",
+   "satz": {
+    "fr": "لا تَهْتَمّ، غَدًا يَوْمٌ جَدِيد.",
+    "de": "Mach dir nichts draus, morgen ist ein neuer Tag.",
+    "luecke": "لا تَهْتَمّ",
+    "gloss": "لا تَ·هْتَمّ، غَدًا يَوْم جَدِيد. | nicht 2SG·sich.kümmern, morgen Tag neu.",
+    "umschrift": "lā tahtamm, ghadan yawm jadīd.",
+    "audio": "audio/ar-de/saetze/ms_23.mp3?v=e617cf9d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "ما تِهْتَمّ، بُكْرا يوم جْديد.",
+    "umschrift": "mā tihtamm, bukra yōm jdīd.",
+    "audio": "audio/ar-de/syrisch/ms_23.mp3?v=62768490"
+   }
+  },
+  {
+   "id": "ms_24",
+   "thema": "mashair",
+   "fr": "عَلَى كُلِّ حَال",
+   "de": "wie auch immer",
+   "register": "tu",
+   "anker": "حال",
+   "notiz": "ʿalā kull ḥāl = auf jeden Fall, wie auch immer (ḥāl = Zustand, wie in kayfa ḥāluk). mawjūd = vorhanden (Partizip von wajada, finden: « gefunden »), feminin mawjūda. So sagt Arabisch « es gibt ».",
+   "audio": "audio/ar-de/wendungen/ms_24.mp3?v=f9dc50b4",
+   "gloss": "عَلَى كُلّ حَال | auf jeder Zustand",
+   "umschrift": "ʿalā kull ḥāl",
+   "wurzel": "ح-و-ل",
+   "satz": {
+    "fr": "عَلَى كُلِّ حَال، القَهْوَةُ مَوْجُودَة.",
+    "de": "Wie auch immer, es gibt Kaffee.",
+    "luecke": "عَلَى كُلِّ حَال",
+    "gloss": "عَلَى كُلّ حَال، ال·قَهْوَة مَوْجُودَة. | auf jeder Zustand, DEF·Kaffee vorhanden.F.",
+    "umschrift": "ʿalā kull ḥāl, al-qahwa mawjūda.",
+    "audio": "audio/ar-de/saetze/ms_24.mp3?v=aa96aa1a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "عَلى كِلّ حال، في قَهْوِة.",
+    "umschrift": "ʿala kill ḥāl, fī ʾahwe.",
+    "audio": "audio/ar-de/syrisch/ms_24.mp3?v=633d931a"
    }
   }
  ],
@@ -5566,6 +6290,230 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 1
     }
    ]
+  },
+  {
+   "id": "g_mashair",
+   "thema": "mashair",
+   "titel": "الصِّفَةُ وَالتَّأْنِيث",
+   "de": "Adjektiv und Genus",
+   "regel": [
+    "Arabisch hat zwei Geschlechter. Weiblich ist, was auf tāʾ marbūṭa endet (madrasa, qahwa, ḥiṣṣa), dazu Frauen und einige Wörter ohne Endung (shams Sonne, yad Hand, ʿayn Auge). Das Adjektiv richtet sich nach dem Nomen und bekommt dasselbe -a: muʿallim mutʿab, muʿallima mutʿaba; ḥiṣṣa fārigha; al-ḥiṣṣa l-akhīra. Auch Verben und Partizipien im Satz ohne Verb folgen dem Genus: ḍāʿa mizājī (maskulin), ḍāʿat al-ḥiṣṣa (feminin).",
+    "Eine Besonderheit: der Plural von Sachen gilt als weibliches Singular. aʿṣābī tālifa (meine Nerven ist kaputt), ad-darajāt jayyida. Nur Menschen bekommen einen echten Plural: al-muʿallimūn mutʿabūn. Zustandswörter kommen in festen Mustern: faʿlān (naʿsān, taʿbān, jawʿān), faʿil (qaliq, fariḥ, ḥazin) und Partizipien mit mu- (mutawattir, mutʿab, mawjūd). Verneinung: lā vor dem Präsens (lā astaṭīʿ), mā vor der Vergangenheit (mā ziltu), lā vor dem Jussiv als Verbot (lā tahtamm)."
+   ],
+   "morphem": [
+    "F",
+    "3SG.F",
+    "2SG"
+   ],
+   "beispiele": [
+    {
+     "fr": "أَعْصَابِي تَالِفَةٌ بِسَبَبِ آلَةِ النَّسْخ.",
+     "de": "Meine Nerven liegen blank wegen des Kopierers.",
+     "gloss": "أَعْصَاب·ِي تَالِفَة بِ·سَبَب·ِ آلَة·ِ ال·نَسْخ. | Nerven·mein kaputt.F mit·Grund·GEN Maschine·GEN DEF·Kopieren.",
+     "umschrift": "aʿṣābī tālifa bi-sabab ālat an-naskh.",
+     "audio": "audio/ar-de/saetze/ms_04.mp3?v=67e055f7",
+     "hinweis": "tālifa: ein Plural von Sachen nimmt das weibliche Adjektiv."
+    },
+    {
+     "fr": "أَنَا قَلِقٌ قَبْلَ اجْتِمَاعِ الأَهْل.",
+     "de": "Vor dem Elternabend bin ich unruhig.",
+     "gloss": "أَنَا قَلِق قَبْلَ اجْتِمَاع·ِ ال·أَهْل. | ich besorgt vor Treffen·GEN DEF·Familie.",
+     "umschrift": "anā qaliq qabla jtimāʿ al-ahl.",
+     "audio": "audio/ar-de/saetze/ms_11.mp3?v=173ff8c0",
+     "hinweis": "qaliq, eine Frau sagt qaliqa."
+    },
+    {
+     "fr": "فِي الثَّامِنَةِ صَبَاحًا مَا زِلْتُ نَعْسَان.",
+     "de": "Um acht Uhr morgens bin ich noch verschlafen.",
+     "gloss": "فِي ال·ثَامِنَة صَبَاحًا مَا زِل·ْتُ نَعْسَان. | in DEF·achten morgens nicht aufhören·1SG schläfrig.",
+     "umschrift": "fī th-thāmina ṣabāḥan mā ziltu naʿsān.",
+     "audio": "audio/ar-de/saetze/ms_09.mp3?v=53128656",
+     "hinweis": "naʿsān: das Zustandsmuster faʿlān."
+    },
+    {
+     "fr": "بَعْدَ الحِصَّةِ الأَخِيرَةِ ضَاعَ مِزَاجِي.",
+     "de": "Nach der letzten Stunde war die Laune hin.",
+     "gloss": "بَعْدَ ال·حِصَّة ال·أَخِيرَة ضَاع·َ مِزَاج·ِي. | nach DEF·Stunde DEF·letzte verloren.gehen·3SG Laune·mein.",
+     "umschrift": "baʿda l-ḥiṣṣa l-akhīra ḍāʿa mizājī.",
+     "audio": "audio/ar-de/saetze/ms_07.mp3?v=5fa0b6d9",
+     "hinweis": "ḍāʿa mizājī: maskulin, Verb vor dem Subjekt."
+    },
+    {
+     "fr": "عَلَى كُلِّ حَال، القَهْوَةُ مَوْجُودَة.",
+     "de": "Wie auch immer, es gibt Kaffee.",
+     "gloss": "عَلَى كُلّ حَال، ال·قَهْوَة مَوْجُودَة. | auf jeder Zustand, DEF·Kaffee vorhanden.F.",
+     "umschrift": "ʿalā kull ḥāl, al-qahwa mawjūda.",
+     "audio": "audio/ar-de/saetze/ms_24.mp3?v=aa96aa1a",
+     "hinweis": "mawjūda: feminin, weil qahwa feminin ist."
+    },
+    {
+     "fr": "غَدًا عُطْلَة، لا أَسْتَطِيعُ الانْتِظَار.",
+     "de": "Morgen ist frei, ich kann es kaum erwarten.",
+     "gloss": "غَدًا عُطْلَة، لا أَ·سْتَطِيع ال·انْتِظَار. | morgen Ferien, nicht 1SG·können DEF·Warten.",
+     "umschrift": "ghadan ʿuṭla, lā astaṭīʿ al-intiẓār.",
+     "audio": "audio/ar-de/saetze/ms_06.mp3?v=28d820a4",
+     "hinweis": "lā astaṭīʿ: lā verneint das Präsens."
+    },
+    {
+     "fr": "لا تَهْتَمّ، غَدًا يَوْمٌ جَدِيد.",
+     "de": "Mach dir nichts draus, morgen ist ein neuer Tag.",
+     "gloss": "لا تَ·هْتَمّ، غَدًا يَوْم جَدِيد. | nicht 2SG·sich.kümmern, morgen Tag neu.",
+     "umschrift": "lā tahtamm, ghadan yawm jadīd.",
+     "audio": "audio/ar-de/saetze/ms_23.mp3?v=e617cf9d",
+     "hinweis": "lā tahtamm: lā mit Jussiv ist das Verbot."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "mutʿab",
+     "b": "mutʿaba",
+     "text": "müde (Mann) – müde (Frau)"
+    },
+    {
+     "a": "ḍāʿa mizājī",
+     "b": "ḍāʿat al-ḥiṣṣa",
+     "text": "die Laune ging verloren – die Stunde ging verloren (Verb im Femininum)"
+    },
+    {
+     "a": "al-muʿallimūn mutʿabūn",
+     "b": "al-awrāq kathīra",
+     "text": "die Lehrer sind müde (echter Plural) – die Blätter sind viele (Sachplural = feminin Singular)"
+    },
+    {
+     "a": "lā ashʿur",
+     "b": "mā shaʿartu",
+     "text": "ich fühle nicht – ich fühlte nicht"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "qaliq + Frau",
+     "antworten": [
+      "qaliqa",
+      "qaliqūn",
+      "qaliqat"
+     ]
+    },
+    {
+     "formel": "ḥiṣṣa + fārigh (leer)",
+     "antworten": [
+      "ḥiṣṣa fārigha",
+      "ḥiṣṣa fārigh",
+      "ḥiṣṣat fārigha"
+     ]
+    },
+    {
+     "formel": "aʿṣāb (Plural) + tālif",
+     "antworten": [
+      "aʿṣāb tālifa",
+      "aʿṣāb tālif",
+      "aʿṣāb tālifūn"
+     ]
+    },
+    {
+     "formel": "intahā + taftīsh (m.)",
+     "antworten": [
+      "intahā t-taftīsh",
+      "intahat it-taftīsh",
+      "intahū t-taftīsh"
+     ]
+    },
+    {
+     "formel": "Präsens astaṭīʿ + Verneinung",
+     "antworten": [
+      "lā astaṭīʿ",
+      "mā astaṭīʿ",
+      "lam astaṭīʿ"
+     ]
+    },
+    {
+     "formel": "Verbot: tahtamm (du kümmerst dich)",
+     "antworten": [
+      "lā tahtamm",
+      "mā tahtamm",
+      "lā ihtamma"
+     ]
+    }
+   ],
+   "hoeren_frage": "In welchem Satz steht ein weibliches Adjektiv oder Verb (-a / -at)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "أَعْصَابِي تَالِفَةٌ بِسَبَبِ آلَةِ النَّسْخ.",
+       "de": "Meine Nerven liegen blank wegen des Kopierers.",
+       "gloss": "أَعْصَاب·ِي تَالِفَة بِ·سَبَب·ِ آلَة·ِ ال·نَسْخ. | Nerven·mein kaputt.F mit·Grund·GEN Maschine·GEN DEF·Kopieren.",
+       "umschrift": "aʿṣābī tālifa bi-sabab ālat an-naskh.",
+       "audio": "audio/ar-de/saetze/ms_04.mp3?v=67e055f7"
+      },
+      {
+       "fr": "عَقْلِي فِي مَكَانٍ آخَرَ اليَوْم، عُذْرًا.",
+       "de": "Ich bin heute mit dem Kopf woanders, Entschuldigung.",
+       "gloss": "عَقْل·ِي فِي مَكَان آخَر ال·يَوْم، عُذْرًا. | Verstand·mein in Ort anderer DEF·Tag, Entschuldigung.",
+       "umschrift": "ʿaqlī fī makān ākhar al-yawm, ʿudhran.",
+       "audio": "audio/ar-de/saetze/ms_15.mp3?v=5942abc1"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "عَلَى كُلِّ حَال، القَهْوَةُ مَوْجُودَة.",
+       "de": "Wie auch immer, es gibt Kaffee.",
+       "gloss": "عَلَى كُلّ حَال، ال·قَهْوَة مَوْجُودَة. | auf jeder Zustand, DEF·Kaffee vorhanden.F.",
+       "umschrift": "ʿalā kull ḥāl, al-qahwa mawjūda.",
+       "audio": "audio/ar-de/saetze/ms_24.mp3?v=aa96aa1a"
+      },
+      {
+       "fr": "فِي عُطْلَةِ الأُسْبُوعِ أَسْتَرِيحُ فَقَط.",
+       "de": "Am Wochenende entspanne ich nur.",
+       "gloss": "فِي عُطْلَة·ِ ال·أُسْبُوع أَ·سْتَرِيح فَقَط. | in Pause·GEN DEF·Woche 1SG·sich.ausruhen nur.",
+       "umschrift": "fī ʿuṭlat al-usbūʿ astarīḥ faqaṭ.",
+       "audio": "audio/ar-de/saetze/ms_22.mp3?v=def9f1b5"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "وَضَعْتُ الدَّرَجَات، اِرْتَحْت.",
+       "de": "Ich habe die Noten eingetragen, ich bin erleichtert.",
+       "gloss": "وَضَع·ْتُ ال·دَرَجَات، اِرْتَح·ْت. | setzen·1SG DEF·Noten, erleichtert.sein·1SG.",
+       "umschrift": "waḍaʿtu d-darajāt, irtaḥt.",
+       "audio": "audio/ar-de/saetze/ms_05.mp3?v=05f62df0"
+      },
+      {
+       "fr": "اِنْتَهَى التَّفْتِيش، اِرْتَحْت.",
+       "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
+       "gloss": "اِنْتَهَى ال·تَفْتِيش، اِرْتَح·ْت. | endete DEF·Inspektion, erleichtert.sein·1SG.",
+       "umschrift": "intahā t-taftīsh, irtaḥt.",
+       "audio": "audio/ar-de/saetze/ms_12.mp3?v=6dc14015"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "أَنَا قَلِقٌ قَبْلَ اجْتِمَاعِ الأَهْل.",
+       "de": "Vor dem Elternabend bin ich unruhig.",
+       "gloss": "أَنَا قَلِق قَبْلَ اجْتِمَاع·ِ ال·أَهْل. | ich besorgt vor Treffen·GEN DEF·Familie.",
+       "umschrift": "anā qaliq qabla jtimāʿ al-ahl.",
+       "audio": "audio/ar-de/saetze/ms_11.mp3?v=173ff8c0"
+      },
+      {
+       "fr": "مَا زِلْتُ مُتَوَتِّرًا قَبْلَ الحِصَّةِ الأُولَى.",
+       "de": "Vor der ersten Stunde bin ich immer noch nervös.",
+       "gloss": "مَا زِل·ْتُ مُتَوَتِّر·ًا قَبْلَ ال·حِصَّة ال·أُولَى. | nicht aufhören·1SG angespannt·AKK vor DEF·Stunde DEF·erste.",
+       "umschrift": "mā ziltu mutawattiran qabla l-ḥiṣṣa l-ūlā.",
+       "audio": "audio/ar-de/saetze/ms_10.mp3?v=5834d4b0"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
   }
  ],
  "geschichte_info": {
@@ -7120,6 +8068,38 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/orte/ugarit.mp3?v=31a50fdc",
   "audio/ar-de/orte/umawi.mp3?v=81993472",
   "audio/ar-de/orte/yanbu.mp3?v=11a88d59",
+  "audio/ar-de/saetze/ms_01.mp3?v=4444228f",
+  "audio/ar-de/saetze/ms_02.mp3?v=25780d62",
+  "audio/ar-de/saetze/ms_02_fp.mp3?v=b2f9a316",
+  "audio/ar-de/saetze/ms_02_pc.mp3?v=93e07c9d",
+  "audio/ar-de/saetze/ms_03.mp3?v=127ce772",
+  "audio/ar-de/saetze/ms_04.mp3?v=67e055f7",
+  "audio/ar-de/saetze/ms_05.mp3?v=05f62df0",
+  "audio/ar-de/saetze/ms_06.mp3?v=28d820a4",
+  "audio/ar-de/saetze/ms_07.mp3?v=5fa0b6d9",
+  "audio/ar-de/saetze/ms_08.mp3?v=b2253cc5",
+  "audio/ar-de/saetze/ms_09.mp3?v=53128656",
+  "audio/ar-de/saetze/ms_10.mp3?v=5834d4b0",
+  "audio/ar-de/saetze/ms_11.mp3?v=173ff8c0",
+  "audio/ar-de/saetze/ms_12.mp3?v=6dc14015",
+  "audio/ar-de/saetze/ms_13.mp3?v=9462c201",
+  "audio/ar-de/saetze/ms_14.mp3?v=34989fe1",
+  "audio/ar-de/saetze/ms_15.mp3?v=5942abc1",
+  "audio/ar-de/saetze/ms_16.mp3?v=391e850f",
+  "audio/ar-de/saetze/ms_17.mp3?v=7c1aaf76",
+  "audio/ar-de/saetze/ms_17_fp.mp3?v=6900d937",
+  "audio/ar-de/saetze/ms_17_pc.mp3?v=789d414f",
+  "audio/ar-de/saetze/ms_18.mp3?v=67b12878",
+  "audio/ar-de/saetze/ms_19.mp3?v=70f00f83",
+  "audio/ar-de/saetze/ms_20.mp3?v=8bf1aa60",
+  "audio/ar-de/saetze/ms_20_fp.mp3?v=70e966ef",
+  "audio/ar-de/saetze/ms_20_pc.mp3?v=3bcba050",
+  "audio/ar-de/saetze/ms_21.mp3?v=4489659e",
+  "audio/ar-de/saetze/ms_22.mp3?v=def9f1b5",
+  "audio/ar-de/saetze/ms_22_fp.mp3?v=3be646a2",
+  "audio/ar-de/saetze/ms_22_pc.mp3?v=0359c185",
+  "audio/ar-de/saetze/ms_23.mp3?v=e617cf9d",
+  "audio/ar-de/saetze/ms_24.mp3?v=aa96aa1a",
   "audio/ar-de/saetze/mu_01.mp3?v=a12e4b69",
   "audio/ar-de/saetze/mu_01_fp.mp3?v=33a186db",
   "audio/ar-de/saetze/mu_01_pc.mp3?v=10e625c8",
@@ -7188,6 +8168,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/spiel/titel_5.mp3?v=c46d1836",
   "audio/ar-de/spiel/titel_6.mp3?v=2d3db4b0",
   "audio/ar-de/spiel/woche.mp3?v=72c5bf23",
+  "audio/ar-de/syrisch/ms_01.mp3?v=9fce928f",
+  "audio/ar-de/syrisch/ms_02.mp3?v=b0e4a8f8",
+  "audio/ar-de/syrisch/ms_03.mp3?v=467ffa23",
+  "audio/ar-de/syrisch/ms_04.mp3?v=e1f8b811",
+  "audio/ar-de/syrisch/ms_05.mp3?v=84ea4fea",
+  "audio/ar-de/syrisch/ms_06.mp3?v=8d6f9472",
+  "audio/ar-de/syrisch/ms_07.mp3?v=ef45e2cf",
+  "audio/ar-de/syrisch/ms_08.mp3?v=402d1564",
+  "audio/ar-de/syrisch/ms_09.mp3?v=be71d357",
+  "audio/ar-de/syrisch/ms_10.mp3?v=37752680",
+  "audio/ar-de/syrisch/ms_11.mp3?v=03f3925a",
+  "audio/ar-de/syrisch/ms_12.mp3?v=0e5b4354",
+  "audio/ar-de/syrisch/ms_13.mp3?v=9723952c",
+  "audio/ar-de/syrisch/ms_14.mp3?v=9a9f485c",
+  "audio/ar-de/syrisch/ms_15.mp3?v=4f3b8506",
+  "audio/ar-de/syrisch/ms_16.mp3?v=6e767fc4",
+  "audio/ar-de/syrisch/ms_17.mp3?v=f719bf4b",
+  "audio/ar-de/syrisch/ms_18.mp3?v=4cfc52b2",
+  "audio/ar-de/syrisch/ms_19.mp3?v=8c21df06",
+  "audio/ar-de/syrisch/ms_20.mp3?v=4a8dc861",
+  "audio/ar-de/syrisch/ms_21.mp3?v=a305e8ed",
+  "audio/ar-de/syrisch/ms_22.mp3?v=25030967",
+  "audio/ar-de/syrisch/ms_23.mp3?v=62768490",
+  "audio/ar-de/syrisch/ms_24.mp3?v=633d931a",
   "audio/ar-de/syrisch/mu_01.mp3?v=1b8bb78e",
   "audio/ar-de/syrisch/mu_02.mp3?v=ee25df2d",
   "audio/ar-de/syrisch/mu_03.mp3?v=a5049763",
@@ -7236,6 +8240,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/ta_22.mp3?v=9e25c115",
   "audio/ar-de/syrisch/ta_23.mp3?v=a728dec3",
   "audio/ar-de/syrisch/ta_24.mp3?v=039dec19",
+  "audio/ar-de/wendungen/ms_01.mp3?v=b22b12c1",
+  "audio/ar-de/wendungen/ms_02.mp3?v=872f9f13",
+  "audio/ar-de/wendungen/ms_03.mp3?v=87f99414",
+  "audio/ar-de/wendungen/ms_04.mp3?v=3a92530d",
+  "audio/ar-de/wendungen/ms_05.mp3?v=029f155e",
+  "audio/ar-de/wendungen/ms_06.mp3?v=8a85f6f6",
+  "audio/ar-de/wendungen/ms_07.mp3?v=0e3e7bfe",
+  "audio/ar-de/wendungen/ms_08.mp3?v=4b3f8a01",
+  "audio/ar-de/wendungen/ms_09.mp3?v=cdcb8d4e",
+  "audio/ar-de/wendungen/ms_10.mp3?v=7d7b022e",
+  "audio/ar-de/wendungen/ms_11.mp3?v=c6068059",
+  "audio/ar-de/wendungen/ms_12.mp3?v=afa8087d",
+  "audio/ar-de/wendungen/ms_13.mp3?v=bee12d40",
+  "audio/ar-de/wendungen/ms_14.mp3?v=6aa1351d",
+  "audio/ar-de/wendungen/ms_15.mp3?v=0d804494",
+  "audio/ar-de/wendungen/ms_16.mp3?v=67d65719",
+  "audio/ar-de/wendungen/ms_17.mp3?v=2798dd3d",
+  "audio/ar-de/wendungen/ms_18.mp3?v=be5efd37",
+  "audio/ar-de/wendungen/ms_19.mp3?v=cc70491f",
+  "audio/ar-de/wendungen/ms_20.mp3?v=9db78c9a",
+  "audio/ar-de/wendungen/ms_21.mp3?v=737c52c7",
+  "audio/ar-de/wendungen/ms_22.mp3?v=ba4df52d",
+  "audio/ar-de/wendungen/ms_23.mp3?v=4f13c83e",
+  "audio/ar-de/wendungen/ms_24.mp3?v=f9dc50b4",
   "audio/ar-de/wendungen/mu_01.mp3?v=947e6a1e",
   "audio/ar-de/wendungen/mu_02.mp3?v=fe5160d9",
   "audio/ar-de/wendungen/mu_03.mp3?v=8bdf92ec",
