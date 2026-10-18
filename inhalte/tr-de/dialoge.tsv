@@ -1,4 +1,24 @@
 id	dialog	titel	ort	rolle	fr	de
+d0a_01	d0a	Teneffüste	Koridorda	B	Merhaba hocam!	Hallo, Herr Lehrer!
+d0a_02	d0a			A	Merhaba Deniz, nasılsın?	Hallo Deniz, wie geht's dir?
+d0a_03	d0a			B	İyiyim, siz?	Gut, und Ihnen?
+d0a_04	d0a			A	Ben de iyiyim. Türkçem nasıl?	Mir auch. Wie ist mein Türkisch?
+d0a_05	d0a			B	Çok iyi! Türkçe konuşmayı seviyor musunuz?	Sehr gut! Sprechen Sie gern Türkisch?
+d0a_06	d0a			A	Evet, çok seviyorum. Ama yavaş.	Ja, sehr gern. Aber langsam.
+d0a_07	d0a			B	Sorun değil, ben de Almanca yavaş.	Kein Problem, ich bin auf Deutsch auch langsam.
+d0a_08	d0a			A	O zaman anlaştık. Görüşürüz!	Dann sind wir uns einig. Bis dann!
+d0a_09	d0a			B	Görüşürüz hocam!	Bis dann, Herr Lehrer!
+d0a_10	d0a			A	Hoşça kal, Deniz.	Mach's gut, Deniz.
+d0b_01	d0b	Veli görüşmesi	Sınıfta	A	Hoş geldiniz, buyurun oturun.	Willkommen, bitte setzen Sie sich.
+d0b_02	d0b			B	Hoş bulduk, teşekkür ederim.	Danke, schön hier zu sein.
+d0b_03	d0b			A	Ben Deniz'in Almanca öğretmeniyim.	Ich bin der Deutschlehrer von Deniz.
+d0b_04	d0b			B	Memnun oldum, ben de annesiyim.	Freut mich, und ich bin seine Mutter.
+d0b_05	d0b			A	Çay ister misiniz?	Möchten Sie Tee?
+d0b_06	d0b			B	Lütfen. Deniz nasıl?	Gern. Wie macht sich Deniz?
+d0b_07	d0b			A	Deniz çok çalışıyor, Almancası iyi.	Deniz arbeitet viel, sein Deutsch ist gut.
+d0b_08	d0b			B	Çok sevindim. Türkçeniz de güzel!	Das freut mich sehr. Ihr Türkisch ist auch schön!
+d0b_09	d0b			A	Teşekkür ederim, henüz az ama öğreniyorum.	Danke, noch wenig, aber ich lerne.
+d0b_10	d0b			B	Geldiğiniz için ben teşekkür ederim. İyi akşamlar!	Ich danke Ihnen, dass Sie da waren. Guten Abend!
 d1_01	d1	Cuma öğleden sonra	Öğretmenler odası	A	Selam Cem! Ne zamandır görüşmedik!	Hallo Cem! Lange nicht gesehen!
 d1_02	d1			B	Selam Alex. Üç gün oldu. Ama evet, bir ömür.	Hallo Alex. Drei Tage. Aber ja, ein ganzes Leben.
 d1_03	d1			A	Ee, üçüncü sınıfla ders nasıl geçti?	Und, wie ist die Stunde mit der Dritten gelaufen?

@@ -17,6 +17,7 @@ THEME = {"blau": "#1a6f7a", "rot": "#c8102e", "rot_text": "#ffffff", "dunkel": {
 
 # Themen in Lernreihenfolge – werden Thema für Thema ergänzt (jeweils nach Absegnung)
 THEMEN = [
+    {"id": "selamlasma", "name": "Selamlaşma", "de": "Begrüßung – sen und siz", "symbol": "👋", "datei": "selamlasma.tsv"},
     {"id": "ogretmenler", "name": "Öğretmenler arasında", "de": "Unter Lehrern – mit Cem", "symbol": "🧑‍🏫", "datei": "ogretmenler.tsv"},
     {"id": "duygular", "name": "Duygular ve haller", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "duygular.tsv"},
     {"id": "kediler", "name": "Kediler", "de": "Die Katzen", "symbol": "🐈", "datei": "kediler.tsv"},
