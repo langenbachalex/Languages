@@ -1,0 +1,47 @@
+id	teil	klang	wort	de	partner	umschrift	syrien
+hamzaa_01	klang	hamzaa	أَسَد	Löwe		asad	
+hamzaa_02	klang	hamzaa	أُمّ	Mutter		umm	
+hamzaa_03	klang	hamzaa	أَب	Vater		ab	
+hamzaa_04	klang	hamzaa	أُخْت	Schwester		ukht	
+hamzaa_05	klang	hamzaa	إِسْلام	Islam		islām	
+hamzaa_06	klang	hamzaa	أَخ	Bruder		akh	
+hamzam_01	klang	hamzam	سُؤَال	Frage		suʾāl	
+hamzam_02	klang	hamzam	رَئِيس	Chef, Präsident		raʾīs	Syrisch: rayyis.
+hamzam_03	klang	hamzam	بِئْر	Brunnen		biʾr	Syrisch: bīr.
+hamzam_04	klang	hamzam	مَاء	Wasser		māʾ	Syrisch: mayy.
+hamzam_05	klang	hamzam	شَيْء	Ding, etwas		shayʾ	Syrisch: shī.
+hamzam_06	klang	hamzam	سَمَاء	Himmel		samāʾ	Syrisch: sama.
+tm_01	klang	tm	مَدْرَسَة	Schule		madrasa	Syrisch: madrase.
+tm_02	klang	tm	قَهْوَة	Kaffee		qahwa	Syrisch: ʾahwe.
+tm_03	klang	tm	مَدِينَة	Stadt		madīna	Syrisch: madīne.
+tm_04	klang	tm	سَيَّارَة	Auto		sayyāra	
+tm_05	klang	tm	لُغَة	Sprache		lugha	Syrisch: lugha, Plural lughāt.
+tm_06	klang	tm	غُرْفَة	Zimmer		ghurfa	Syrisch: ʾūḍa.
+iraab_01	klang	iraab	كِتَابٌ	ein Buch (Schulbuchform)		kitābun	Syrisch: nie – kitāb / ktēb.
+iraab_02	klang	iraab	بَيْتٌ	ein Haus		baytun	Syrisch: bēt.
+iraab_03	klang	iraab	مُعَلِّمٌ	ein Lehrer		muʿallimun	
+iraab_04	klang	iraab	مَدْرَسَةٌ	eine Schule		madrasatun	
+iraab_05	klang	iraab	قَلَمٌ	ein Stift		qalamun	
+iraab_06	klang	iraab	وَلَدٌ	ein Junge		waladun	
+p1_01a	paar	hamzam	سَأَلَ	er fragte	p1_01b	saʾala	
+p1_01b	paar	ohne	سَالَ	es floss	p1_01a	sāla	
+p1_02a	paar	hamzam	رَأْس	Kopf	p1_02b	raʾs	
+p1_02b	paar	ohne	رَاس	Kopf (Syrisch)	p1_02a	rās	So sagt man es in Damaskus.
+p1_03a	paar	hamzam	بِئْر	Brunnen	p1_03b	biʾr	
+p1_03b	paar	ohne	بِير	Brunnen (Syrisch)	p1_03a	bīr	So sagt man es in Damaskus.
+p2_01a	paar	tm	مَدْرَسَة	Schule	p2_01b	madrasa	
+p2_01b	paar	t	مَدْرَسَةُ البَنَات	die Mädchenschule	p2_01a	madrasat al-banāt	
+p2_02a	paar	tm	قَهْوَة	Kaffee	p2_02b	qahwa	
+p2_02b	paar	t	قَهْوَةُ الصَّبَاح	der Morgenkaffee	p2_02a	qahwat aṣ-ṣabāḥ	
+p2_03a	paar	tm	لُغَة	Sprache	p2_03b	lugha	
+p2_03b	paar	t	لُغَةُ الأُمّ	die Muttersprache	p2_03a	lughat al-umm	
+p3_01a	paar	iraab	كِتَابٌ	ein Buch (mit Endung)	p3_01b	kitābun	
+p3_01b	paar	waqf	كِتَاب	ein Buch (Pausalform)	p3_01a	kitāb	
+p3_02a	paar	iraab	بَيْتٌ	ein Haus (mit Endung)	p3_02b	baytun	
+p3_02b	paar	waqf	بَيْت	ein Haus (Pausalform)	p3_02a	bayt	
+p3_03a	paar	iraab	مُعَلِّمٌ	ein Lehrer (mit Endung)	p3_03b	muʿallimun	
+p3_03b	paar	waqf	مُعَلِّم	ein Lehrer (Pausalform)	p3_03a	muʿallim	
+b_01	beide	hamzam,tm	مَسْ{hamzam|ؤُ}ولِيَّ{tm|ة}	Verantwortung		masʾūliyya	
+b_02	beide	hamzam,tm	مُ{hamzam|ؤَ}لِّفَ{tm|ة}	Autorin		muʾallifa	
+b_03	beide	hamzaa,tm	{hamzaa|إِ}جَابَ{tm|ة}	Antwort		ijāba	
+b_04	beide	hamzam,tm	طَ{hamzam|ائِ}رَ{tm|ة}	Flugzeug		ṭāʾira	

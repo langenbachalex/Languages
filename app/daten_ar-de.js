@@ -1959,6 +1959,1112 @@ window.SPRACHEN["ar-de"] = {
      ]
     }
    ]
+  },
+  {
+   "id": "aswat2",
+   "symbol": "📏",
+   "titel": "الطُّول وَالشَّدَّة",
+   "unter": "ا ي و · ّ · الشَّمْسِيَّة وَالقَمَرِيَّة – قَصِير أَمْ طَوِيل؟",
+   "info": {
+    "aa": [
+     "ā",
+     "ا",
+     "a طَوِيلَة",
+     "langes a, doppelt so lang wie kurzes a (wie in « bāb »)"
+    ],
+    "ii": [
+     "ī",
+     "ي",
+     "i طَوِيلَة",
+     "langes i (wie in « fīl »)"
+    ],
+    "uu": [
+     "ū",
+     "و",
+     "u طَوِيلَة",
+     "langes u (wie in « nūr »)"
+    ],
+    "shadda": [
+     "ّ",
+     "شَدَّة",
+     "حَرْف مُضَاعَف",
+     "verdoppelter Konsonant, wirklich gehalten (wie in « muʿallim »)"
+    ],
+    "kurz": [
+     "a",
+     "َ",
+     "a قَصِيرَة",
+     "kurzes a"
+    ],
+    "ein": [
+     "·",
+     "بِلا شَدَّة",
+     "حَرْف وَاحِد",
+     "einfacher Konsonant"
+    ],
+    "mond": [
+     "al-",
+     "ال",
+     "قَمَرِيّ",
+     "Mondbuchstabe: das l wird gesprochen"
+    ],
+    "sonne": [
+     "aC-",
+     "الـّ",
+     "شَمْسِيّ",
+     "Sonnenbuchstabe: das l verschmilzt mit dem Anlaut"
+    ]
+   },
+   "reihe": [
+    "aa",
+    "ii",
+    "uu",
+    "shadda"
+   ],
+   "paare_gruppen": [
+    [
+     "p1",
+     "قَصِير أَمْ طَوِيل؟"
+    ],
+    [
+     "p2",
+     "بِشَدَّة أَمْ بِدُونِهَا؟"
+    ],
+    [
+     "p3",
+     "قَمَرِيّ أَمْ شَمْسِيّ؟"
+    ]
+   ],
+   "beide_name": "👑 اِثْنَانِ مَعًا",
+   "texte": {
+    "beide": [
+     "صَوْتَانِ فِي كَلِمَة. اِسْمَعْ بِبُطْءٍ ثُمَّ بِسُرْعَةٍ عَادِيَّة – وَكَرِّرْ كُلَّ صَوْتٍ بِوُضُوح.",
+     "Zwei Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."
+    ],
+    "klang": [
+     "{laut} – {tipp}. اِسْمَعْ بِبُطْءٍ ثُمَّ عَادِيًّا. كَرِّر!",
+     "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"
+    ],
+    "paar": [
+     "اِسْمَعِ الكَلِمَة. أَيُّهُمَا هِيَ؟ اِلْمِسِ الصَّحِيحَة.",
+     "Hör das Wort. Welches ist es? Tipp auf das richtige."
+    ],
+    "hilfe": [
+     "أُسَاعِدُك: {a}. اِسْمَعْ مَرَّةً أُخْرَى!",
+     "Ich helfe dir: {a}. Hör noch mal!"
+    ],
+    "beide_hoeren": [
+     "أَسْهَل: اِسْمَعِ الاثْنَيْن",
+     "Noch einfacher: beide hören"
+    ]
+   },
+   "klaenge": {
+    "aa": [
+     {
+      "id": "aa_01",
+      "wort": "بَاب",
+      "de": "Tür",
+      "klang": "aa",
+      "umschrift": "bāb",
+      "syrien": "Syrisch: bēb (Imāla).",
+      "audio": "audio/ar-de/aswat2/aa_01.mp3?v=b9f5a10b"
+     },
+     {
+      "id": "aa_02",
+      "wort": "كِتَاب",
+      "de": "Buch",
+      "klang": "aa",
+      "umschrift": "kitāb",
+      "syrien": "Syrisch: ktēb.",
+      "audio": "audio/ar-de/aswat2/aa_02.mp3?v=da05b8f4"
+     },
+     {
+      "id": "aa_03",
+      "wort": "سَلام",
+      "de": "Frieden, Gruß",
+      "klang": "aa",
+      "umschrift": "salām",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/aa_03.mp3?v=8a2094d2"
+     },
+     {
+      "id": "aa_04",
+      "wort": "نَاس",
+      "de": "Leute",
+      "klang": "aa",
+      "umschrift": "nās",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/aa_04.mp3?v=534cef6d"
+     },
+     {
+      "id": "aa_05",
+      "wort": "مَاء",
+      "de": "Wasser",
+      "klang": "aa",
+      "umschrift": "māʾ",
+      "syrien": "Syrisch: mayy.",
+      "audio": "audio/ar-de/aswat2/aa_05.mp3?v=2a4a32ff"
+     },
+     {
+      "id": "aa_06",
+      "wort": "جَامِع",
+      "de": "Moschee",
+      "klang": "aa",
+      "umschrift": "jāmiʿ",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/aa_06.mp3?v=a6975ed7"
+     }
+    ],
+    "ii": [
+     {
+      "id": "ii_01",
+      "wort": "فِيل",
+      "de": "Elefant",
+      "klang": "ii",
+      "umschrift": "fīl",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/ii_01.mp3?v=d10f573e"
+     },
+     {
+      "id": "ii_02",
+      "wort": "كَبِير",
+      "de": "groß",
+      "klang": "ii",
+      "umschrift": "kabīr",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/ii_02.mp3?v=6f88a1f3"
+     },
+     {
+      "id": "ii_03",
+      "wort": "جَدِيد",
+      "de": "neu",
+      "klang": "ii",
+      "umschrift": "jadīd",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/ii_03.mp3?v=9fdeea96"
+     },
+     {
+      "id": "ii_04",
+      "wort": "طَبِيب",
+      "de": "Arzt",
+      "klang": "ii",
+      "umschrift": "ṭabīb",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/ii_04.mp3?v=dadddb98"
+     },
+     {
+      "id": "ii_05",
+      "wort": "حَلِيب",
+      "de": "Milch",
+      "klang": "ii",
+      "umschrift": "ḥalīb",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/ii_05.mp3?v=1b0e31a4"
+     },
+     {
+      "id": "ii_06",
+      "wort": "مَدِينَة",
+      "de": "Stadt",
+      "klang": "ii",
+      "umschrift": "madīna",
+      "syrien": "Syrisch: madīne.",
+      "audio": "audio/ar-de/aswat2/ii_06.mp3?v=2eba95b3"
+     }
+    ],
+    "uu": [
+     {
+      "id": "uu_01",
+      "wort": "نُور",
+      "de": "Licht",
+      "klang": "uu",
+      "umschrift": "nūr",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/uu_01.mp3?v=758d6bb9"
+     },
+     {
+      "id": "uu_02",
+      "wort": "سُوق",
+      "de": "Markt",
+      "klang": "uu",
+      "umschrift": "sūq",
+      "syrien": "Syrisch: sūʾ.",
+      "audio": "audio/ar-de/aswat2/uu_02.mp3?v=de188587"
+     },
+     {
+      "id": "uu_03",
+      "wort": "رُوح",
+      "de": "Seele",
+      "klang": "uu",
+      "umschrift": "rūḥ",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/uu_03.mp3?v=99845468"
+     },
+     {
+      "id": "uu_04",
+      "wort": "طُول",
+      "de": "Länge",
+      "klang": "uu",
+      "umschrift": "ṭūl",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/uu_04.mp3?v=68b804b1"
+     },
+     {
+      "id": "uu_05",
+      "wort": "فُول",
+      "de": "Bohnen (Frühstück!)",
+      "klang": "uu",
+      "umschrift": "fūl",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/uu_05.mp3?v=9a51682d"
+     },
+     {
+      "id": "uu_06",
+      "wort": "مَضْبُوط",
+      "de": "genau, richtig",
+      "klang": "uu",
+      "umschrift": "maḍbūṭ",
+      "syrien": "Syrisch sehr häufig: maẓbūṭ.",
+      "audio": "audio/ar-de/aswat2/uu_06.mp3?v=85e0e2e2"
+     }
+    ],
+    "shadda": [
+     {
+      "id": "shadda_01",
+      "wort": "مُعَلِّم",
+      "de": "Lehrer",
+      "klang": "shadda",
+      "umschrift": "muʿallim",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/shadda_01.mp3?v=ba5abf7a"
+     },
+     {
+      "id": "shadda_02",
+      "wort": "سَيَّارَة",
+      "de": "Auto",
+      "klang": "shadda",
+      "umschrift": "sayyāra",
+      "syrien": "Syrisch: sayyāra / siyyāra.",
+      "audio": "audio/ar-de/aswat2/shadda_02.mp3?v=423279fa"
+     },
+     {
+      "id": "shadda_03",
+      "wort": "حُبّ",
+      "de": "Liebe",
+      "klang": "shadda",
+      "umschrift": "ḥubb",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/shadda_03.mp3?v=ef542512"
+     },
+     {
+      "id": "shadda_04",
+      "wort": "جِدًّا",
+      "de": "sehr",
+      "klang": "shadda",
+      "umschrift": "jiddan",
+      "syrien": "Syrisch: ktīr.",
+      "audio": "audio/ar-de/aswat2/shadda_04.mp3?v=b576fc0e"
+     },
+     {
+      "id": "shadda_05",
+      "wort": "شُبَّاك",
+      "de": "Fenster",
+      "klang": "shadda",
+      "umschrift": "shubbāk",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/shadda_05.mp3?v=51e4b479"
+     },
+     {
+      "id": "shadda_06",
+      "wort": "كُلّ",
+      "de": "jeder, alle",
+      "klang": "shadda",
+      "umschrift": "kull",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/shadda_06.mp3?v=6d22f5c2"
+     }
+    ]
+   },
+   "paare": [
+    {
+     "id": "p1_01a",
+     "wort": "كَتَبَ",
+     "de": "er schrieb",
+     "klang": "kurz",
+     "umschrift": "kataba",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p1_01a.mp3?v=b26e25b9",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_01b",
+      "wort": "كَاتَبَ",
+      "de": "er schrieb (jemandem)",
+      "klang": "aa",
+      "umschrift": "kātaba",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p1_01b.mp3?v=77300f06"
+     }
+    },
+    {
+     "id": "p1_02a",
+     "wort": "جَمَل",
+     "de": "Kamel",
+     "klang": "kurz",
+     "umschrift": "jamal",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p1_02a.mp3?v=49957269",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_02b",
+      "wort": "جَمَال",
+      "de": "Schönheit",
+      "klang": "aa",
+      "umschrift": "jamāl",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p1_02b.mp3?v=006d4480"
+     }
+    },
+    {
+     "id": "p1_03a",
+     "wort": "مَلِك",
+     "de": "König",
+     "klang": "kurz",
+     "umschrift": "malik",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p1_03a.mp3?v=36a69bc8",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_03b",
+      "wort": "مَالِك",
+      "de": "Besitzer",
+      "klang": "aa",
+      "umschrift": "mālik",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p1_03b.mp3?v=a69aa9a4"
+     }
+    },
+    {
+     "id": "p2_01a",
+     "wort": "دَرَسَ",
+     "de": "er lernte",
+     "klang": "ein",
+     "umschrift": "darasa",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p2_01a.mp3?v=8b207d97",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_01b",
+      "wort": "دَرَّسَ",
+      "de": "er lehrte",
+      "klang": "shadda",
+      "umschrift": "darrasa",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p2_01b.mp3?v=b76aabf3"
+     }
+    },
+    {
+     "id": "p2_02a",
+     "wort": "عَلِمَ",
+     "de": "er wusste",
+     "klang": "ein",
+     "umschrift": "ʿalima",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p2_02a.mp3?v=75c99d7d",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_02b",
+      "wort": "عَلَّمَ",
+      "de": "er lehrte",
+      "klang": "shadda",
+      "umschrift": "ʿallama",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p2_02b.mp3?v=bd6cad64"
+     }
+    },
+    {
+     "id": "p2_03a",
+     "wort": "كَسَرَ",
+     "de": "er zerbrach",
+     "klang": "ein",
+     "umschrift": "kasara",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p2_03a.mp3?v=fb0f61f3",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_03b",
+      "wort": "كَسَّرَ",
+      "de": "er zerschlug",
+      "klang": "shadda",
+      "umschrift": "kassara",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p2_03b.mp3?v=43c06f79"
+     }
+    },
+    {
+     "id": "p3_01a",
+     "wort": "القَمَر",
+     "de": "der Mond",
+     "klang": "mond",
+     "umschrift": "al-qamar",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p3_01a.mp3?v=c25431f3",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_01b",
+      "wort": "الشَّمْس",
+      "de": "die Sonne",
+      "klang": "sonne",
+      "umschrift": "ash-shams",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p3_01b.mp3?v=54c32b1e"
+     }
+    },
+    {
+     "id": "p3_02a",
+     "wort": "البَاب",
+     "de": "die Tür",
+     "klang": "mond",
+     "umschrift": "al-bāb",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p3_02a.mp3?v=9a11b6e2",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_02b",
+      "wort": "الدَّرْس",
+      "de": "die Stunde",
+      "klang": "sonne",
+      "umschrift": "ad-dars",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p3_02b.mp3?v=dd95a8ce"
+     }
+    },
+    {
+     "id": "p3_03a",
+     "wort": "الكِتَاب",
+     "de": "das Buch",
+     "klang": "mond",
+     "umschrift": "al-kitāb",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/p3_03a.mp3?v=503c8b3a",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_03b",
+      "wort": "النُّور",
+      "de": "das Licht",
+      "klang": "sonne",
+      "umschrift": "an-nūr",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat2/p3_03b.mp3?v=339cdb96"
+     }
+    }
+   ],
+   "beide": [
+    {
+     "id": "b_01",
+     "wort": "مُعَلِّمُون",
+     "de": "Lehrer (Plural)",
+     "klang": "shadda,uu",
+     "umschrift": "muʿallimūn",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/b_01.mp3?v=8d27cf41",
+     "markup": "مُعَ{shadda|لِّ}م{uu|ُو}ن",
+     "klaenge": [
+      "shadda",
+      "uu"
+     ]
+    },
+    {
+     "id": "b_02",
+     "wort": "شُبَّاك",
+     "de": "Fenster",
+     "klang": "shadda,aa",
+     "umschrift": "shubbāk",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/b_02.mp3?v=b7eddeb7",
+     "markup": "شُ{shadda|بَّ}{aa|ا}ك",
+     "klaenge": [
+      "shadda",
+      "aa"
+     ]
+    },
+    {
+     "id": "b_03",
+     "wort": "سَيَّارَات",
+     "de": "Autos",
+     "klang": "shadda,aa",
+     "umschrift": "sayyārāt",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/b_03.mp3?v=8addeb55",
+     "markup": "سَ{shadda|يَّ}{aa|ا}ر{aa|َا}ت",
+     "klaenge": [
+      "shadda",
+      "aa"
+     ]
+    },
+    {
+     "id": "b_04",
+     "wort": "مُدَرِّسِين",
+     "de": "Lehrer (Plural, Akk.)",
+     "klang": "shadda,ii",
+     "umschrift": "mudarrisīn",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat2/b_04.mp3?v=7b717ee7",
+     "markup": "مُدَ{shadda|رِّ}س{ii|ِي}ن",
+     "klaenge": [
+      "shadda",
+      "ii"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aswat3",
+   "symbol": "ء",
+   "titel": "الهَمْزَة وَنِهَايَاتُ الكَلِمَات",
+   "unter": "أ ؤ ئ ء · ة · الوَقْف – مَا يُكْتَبُ وَمَا يُسْمَع",
+   "info": {
+    "hamzaa": [
+     "ʾ",
+     "أ إ",
+     "هَمْزَة فِي البِدَايَة",
+     "Stimmabsatz am Wortanfang, auf dem Alif (wie in « asad »)"
+    ],
+    "hamzam": [
+     "ʾ",
+     "ؤ ئ ء",
+     "هَمْزَة فِي الوَسَط أَوِ النِّهَايَة",
+     "Stimmabsatz mitten im Wort oder am Ende, auf و ي oder allein (wie in « suʾāl »)"
+    ],
+    "tm": [
+     "-a",
+     "ة",
+     "تَاء مَرْبُوطَة",
+     "weibliche Endung: in der Pause nur a, in der Verbindung t (wie in « madrasa »)"
+    ],
+    "iraab": [
+     "-un",
+     "ٌ",
+     "تَنْوِين",
+     "die Schulbuchendung -un, die wir sonst weglassen (wie in « kitābun »)"
+    ],
+    "ohne": [
+     "–",
+     "بِلا هَمْزَة",
+     "بِلا هَمْزَة",
+     "ohne Stimmabsatz, der Vokal wird lang"
+    ],
+    "t": [
+     "-at",
+     "ـةُ",
+     "تَاء مَنْطُوقَة",
+     "die Endung wird t: in der Verbindung (iḍāfa)"
+    ],
+    "waqf": [
+     "–",
+     "وَقْف",
+     "وَقْف",
+     "Pausalform: ohne Endung, so sprechen wir"
+    ]
+   },
+   "reihe": [
+    "hamzaa",
+    "hamzam",
+    "tm",
+    "iraab"
+   ],
+   "paare_gruppen": [
+    [
+     "p1",
+     "بِهَمْزَة أَمْ بِدُونِهَا؟"
+    ],
+    [
+     "p2",
+     "ة أَمْ ت؟"
+    ],
+    [
+     "p3",
+     "بِالتَّنْوِين أَمْ وَقْف؟"
+    ]
+   ],
+   "beide_name": "👑 اِثْنَانِ مَعًا",
+   "texte": {
+    "beide": [
+     "صَوْتَانِ فِي كَلِمَة. اِسْمَعْ بِبُطْءٍ ثُمَّ بِسُرْعَةٍ عَادِيَّة – وَكَرِّرْ كُلَّ صَوْتٍ بِوُضُوح.",
+     "Zwei Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."
+    ],
+    "klang": [
+     "{laut} – {tipp}. اِسْمَعْ بِبُطْءٍ ثُمَّ عَادِيًّا. كَرِّر!",
+     "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"
+    ],
+    "paar": [
+     "اِسْمَعِ الكَلِمَة. أَيُّهُمَا هِيَ؟ اِلْمِسِ الصَّحِيحَة.",
+     "Hör das Wort. Welches ist es? Tipp auf das richtige."
+    ],
+    "hilfe": [
+     "أُسَاعِدُك: {a}. اِسْمَعْ مَرَّةً أُخْرَى!",
+     "Ich helfe dir: {a}. Hör noch mal!"
+    ],
+    "beide_hoeren": [
+     "أَسْهَل: اِسْمَعِ الاثْنَيْن",
+     "Noch einfacher: beide hören"
+    ]
+   },
+   "klaenge": {
+    "hamzaa": [
+     {
+      "id": "hamzaa_01",
+      "wort": "أَسَد",
+      "de": "Löwe",
+      "klang": "hamzaa",
+      "umschrift": "asad",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/hamzaa_01.mp3?v=7b4a8a75"
+     },
+     {
+      "id": "hamzaa_02",
+      "wort": "أُمّ",
+      "de": "Mutter",
+      "klang": "hamzaa",
+      "umschrift": "umm",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/hamzaa_02.mp3?v=93c8b225"
+     },
+     {
+      "id": "hamzaa_03",
+      "wort": "أَب",
+      "de": "Vater",
+      "klang": "hamzaa",
+      "umschrift": "ab",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/hamzaa_03.mp3?v=a9157ec1"
+     },
+     {
+      "id": "hamzaa_04",
+      "wort": "أُخْت",
+      "de": "Schwester",
+      "klang": "hamzaa",
+      "umschrift": "ukht",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/hamzaa_04.mp3?v=12d2d2b0"
+     },
+     {
+      "id": "hamzaa_05",
+      "wort": "إِسْلام",
+      "de": "Islam",
+      "klang": "hamzaa",
+      "umschrift": "islām",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/hamzaa_05.mp3?v=a95d59fb"
+     },
+     {
+      "id": "hamzaa_06",
+      "wort": "أَخ",
+      "de": "Bruder",
+      "klang": "hamzaa",
+      "umschrift": "akh",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/hamzaa_06.mp3?v=27328b0c"
+     }
+    ],
+    "hamzam": [
+     {
+      "id": "hamzam_01",
+      "wort": "سُؤَال",
+      "de": "Frage",
+      "klang": "hamzam",
+      "umschrift": "suʾāl",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/hamzam_01.mp3?v=f45ac386"
+     },
+     {
+      "id": "hamzam_02",
+      "wort": "رَئِيس",
+      "de": "Chef, Präsident",
+      "klang": "hamzam",
+      "umschrift": "raʾīs",
+      "syrien": "Syrisch: rayyis.",
+      "audio": "audio/ar-de/aswat3/hamzam_02.mp3?v=2db08610"
+     },
+     {
+      "id": "hamzam_03",
+      "wort": "بِئْر",
+      "de": "Brunnen",
+      "klang": "hamzam",
+      "umschrift": "biʾr",
+      "syrien": "Syrisch: bīr.",
+      "audio": "audio/ar-de/aswat3/hamzam_03.mp3?v=e4c4924c"
+     },
+     {
+      "id": "hamzam_04",
+      "wort": "مَاء",
+      "de": "Wasser",
+      "klang": "hamzam",
+      "umschrift": "māʾ",
+      "syrien": "Syrisch: mayy.",
+      "audio": "audio/ar-de/aswat3/hamzam_04.mp3?v=b84c2920"
+     },
+     {
+      "id": "hamzam_05",
+      "wort": "شَيْء",
+      "de": "Ding, etwas",
+      "klang": "hamzam",
+      "umschrift": "shayʾ",
+      "syrien": "Syrisch: shī.",
+      "audio": "audio/ar-de/aswat3/hamzam_05.mp3?v=1d4aa32b"
+     },
+     {
+      "id": "hamzam_06",
+      "wort": "سَمَاء",
+      "de": "Himmel",
+      "klang": "hamzam",
+      "umschrift": "samāʾ",
+      "syrien": "Syrisch: sama.",
+      "audio": "audio/ar-de/aswat3/hamzam_06.mp3?v=22c0133a"
+     }
+    ],
+    "tm": [
+     {
+      "id": "tm_01",
+      "wort": "مَدْرَسَة",
+      "de": "Schule",
+      "klang": "tm",
+      "umschrift": "madrasa",
+      "syrien": "Syrisch: madrase.",
+      "audio": "audio/ar-de/aswat3/tm_01.mp3?v=477d67f6"
+     },
+     {
+      "id": "tm_02",
+      "wort": "قَهْوَة",
+      "de": "Kaffee",
+      "klang": "tm",
+      "umschrift": "qahwa",
+      "syrien": "Syrisch: ʾahwe.",
+      "audio": "audio/ar-de/aswat3/tm_02.mp3?v=dab4464a"
+     },
+     {
+      "id": "tm_03",
+      "wort": "مَدِينَة",
+      "de": "Stadt",
+      "klang": "tm",
+      "umschrift": "madīna",
+      "syrien": "Syrisch: madīne.",
+      "audio": "audio/ar-de/aswat3/tm_03.mp3?v=a15f736b"
+     },
+     {
+      "id": "tm_04",
+      "wort": "سَيَّارَة",
+      "de": "Auto",
+      "klang": "tm",
+      "umschrift": "sayyāra",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/tm_04.mp3?v=e2de7425"
+     },
+     {
+      "id": "tm_05",
+      "wort": "لُغَة",
+      "de": "Sprache",
+      "klang": "tm",
+      "umschrift": "lugha",
+      "syrien": "Syrisch: lugha, Plural lughāt.",
+      "audio": "audio/ar-de/aswat3/tm_05.mp3?v=5e47e359"
+     },
+     {
+      "id": "tm_06",
+      "wort": "غُرْفَة",
+      "de": "Zimmer",
+      "klang": "tm",
+      "umschrift": "ghurfa",
+      "syrien": "Syrisch: ʾūḍa.",
+      "audio": "audio/ar-de/aswat3/tm_06.mp3?v=85dc7d96"
+     }
+    ],
+    "iraab": [
+     {
+      "id": "iraab_01",
+      "wort": "كِتَابٌ",
+      "de": "ein Buch (Schulbuchform)",
+      "klang": "iraab",
+      "umschrift": "kitābun",
+      "syrien": "Syrisch: nie – kitāb / ktēb.",
+      "audio": "audio/ar-de/aswat3/iraab_01.mp3?v=3a821794"
+     },
+     {
+      "id": "iraab_02",
+      "wort": "بَيْتٌ",
+      "de": "ein Haus",
+      "klang": "iraab",
+      "umschrift": "baytun",
+      "syrien": "Syrisch: bēt.",
+      "audio": "audio/ar-de/aswat3/iraab_02.mp3?v=0529bd94"
+     },
+     {
+      "id": "iraab_03",
+      "wort": "مُعَلِّمٌ",
+      "de": "ein Lehrer",
+      "klang": "iraab",
+      "umschrift": "muʿallimun",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/iraab_03.mp3?v=583f735b"
+     },
+     {
+      "id": "iraab_04",
+      "wort": "مَدْرَسَةٌ",
+      "de": "eine Schule",
+      "klang": "iraab",
+      "umschrift": "madrasatun",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/iraab_04.mp3?v=625b91b7"
+     },
+     {
+      "id": "iraab_05",
+      "wort": "قَلَمٌ",
+      "de": "ein Stift",
+      "klang": "iraab",
+      "umschrift": "qalamun",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/iraab_05.mp3?v=9693b493"
+     },
+     {
+      "id": "iraab_06",
+      "wort": "وَلَدٌ",
+      "de": "ein Junge",
+      "klang": "iraab",
+      "umschrift": "waladun",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/iraab_06.mp3?v=52ff4f07"
+     }
+    ]
+   },
+   "paare": [
+    {
+     "id": "p1_01a",
+     "wort": "سَأَلَ",
+     "de": "er fragte",
+     "klang": "hamzam",
+     "umschrift": "saʾala",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p1_01a.mp3?v=0e11876b",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_01b",
+      "wort": "سَالَ",
+      "de": "es floss",
+      "klang": "ohne",
+      "umschrift": "sāla",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/p1_01b.mp3?v=81080bcd"
+     }
+    },
+    {
+     "id": "p1_02a",
+     "wort": "رَأْس",
+     "de": "Kopf",
+     "klang": "hamzam",
+     "umschrift": "raʾs",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p1_02a.mp3?v=b59a0c04",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_02b",
+      "wort": "رَاس",
+      "de": "Kopf (Syrisch)",
+      "klang": "ohne",
+      "umschrift": "rās",
+      "syrien": "So sagt man es in Damaskus.",
+      "audio": "audio/ar-de/aswat3/p1_02b.mp3?v=3e1c751a"
+     }
+    },
+    {
+     "id": "p1_03a",
+     "wort": "بِئْر",
+     "de": "Brunnen",
+     "klang": "hamzam",
+     "umschrift": "biʾr",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p1_03a.mp3?v=f96887d7",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_03b",
+      "wort": "بِير",
+      "de": "Brunnen (Syrisch)",
+      "klang": "ohne",
+      "umschrift": "bīr",
+      "syrien": "So sagt man es in Damaskus.",
+      "audio": "audio/ar-de/aswat3/p1_03b.mp3?v=98065b8b"
+     }
+    },
+    {
+     "id": "p2_01a",
+     "wort": "مَدْرَسَة",
+     "de": "Schule",
+     "klang": "tm",
+     "umschrift": "madrasa",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p2_01a.mp3?v=b04b0816",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_01b",
+      "wort": "مَدْرَسَةُ البَنَات",
+      "de": "die Mädchenschule",
+      "klang": "t",
+      "umschrift": "madrasat al-banāt",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/p2_01b.mp3?v=dbbb62c6"
+     }
+    },
+    {
+     "id": "p2_02a",
+     "wort": "قَهْوَة",
+     "de": "Kaffee",
+     "klang": "tm",
+     "umschrift": "qahwa",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p2_02a.mp3?v=5baead65",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_02b",
+      "wort": "قَهْوَةُ الصَّبَاح",
+      "de": "der Morgenkaffee",
+      "klang": "t",
+      "umschrift": "qahwat aṣ-ṣabāḥ",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/p2_02b.mp3?v=2ec9b987"
+     }
+    },
+    {
+     "id": "p2_03a",
+     "wort": "لُغَة",
+     "de": "Sprache",
+     "klang": "tm",
+     "umschrift": "lugha",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p2_03a.mp3?v=358a054d",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_03b",
+      "wort": "لُغَةُ الأُمّ",
+      "de": "die Muttersprache",
+      "klang": "t",
+      "umschrift": "lughat al-umm",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/p2_03b.mp3?v=4b117190"
+     }
+    },
+    {
+     "id": "p3_01a",
+     "wort": "كِتَابٌ",
+     "de": "ein Buch (mit Endung)",
+     "klang": "iraab",
+     "umschrift": "kitābun",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p3_01a.mp3?v=8f6eb834",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_01b",
+      "wort": "كِتَاب",
+      "de": "ein Buch (Pausalform)",
+      "klang": "waqf",
+      "umschrift": "kitāb",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/p3_01b.mp3?v=16568eb4"
+     }
+    },
+    {
+     "id": "p3_02a",
+     "wort": "بَيْتٌ",
+     "de": "ein Haus (mit Endung)",
+     "klang": "iraab",
+     "umschrift": "baytun",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p3_02a.mp3?v=370e59c0",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_02b",
+      "wort": "بَيْت",
+      "de": "ein Haus (Pausalform)",
+      "klang": "waqf",
+      "umschrift": "bayt",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/p3_02b.mp3?v=59c4be7e"
+     }
+    },
+    {
+     "id": "p3_03a",
+     "wort": "مُعَلِّمٌ",
+     "de": "ein Lehrer (mit Endung)",
+     "klang": "iraab",
+     "umschrift": "muʿallimun",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/p3_03a.mp3?v=4f2c2227",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_03b",
+      "wort": "مُعَلِّم",
+      "de": "ein Lehrer (Pausalform)",
+      "klang": "waqf",
+      "umschrift": "muʿallim",
+      "syrien": null,
+      "audio": "audio/ar-de/aswat3/p3_03b.mp3?v=ad0c5221"
+     }
+    }
+   ],
+   "beide": [
+    {
+     "id": "b_01",
+     "wort": "مَسْؤُولِيَّة",
+     "de": "Verantwortung",
+     "klang": "hamzam,tm",
+     "umschrift": "masʾūliyya",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/b_01.mp3?v=70b4e910",
+     "markup": "مَسْ{hamzam|ؤُ}ولِيَّ{tm|ة}",
+     "klaenge": [
+      "hamzam",
+      "tm"
+     ]
+    },
+    {
+     "id": "b_02",
+     "wort": "مُؤَلِّفَة",
+     "de": "Autorin",
+     "klang": "hamzam,tm",
+     "umschrift": "muʾallifa",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/b_02.mp3?v=d65998ec",
+     "markup": "مُ{hamzam|ؤَ}لِّفَ{tm|ة}",
+     "klaenge": [
+      "hamzam",
+      "tm"
+     ]
+    },
+    {
+     "id": "b_03",
+     "wort": "إِجَابَة",
+     "de": "Antwort",
+     "klang": "hamzaa,tm",
+     "umschrift": "ijāba",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/b_03.mp3?v=615c6e50",
+     "markup": "{hamzaa|إِ}جَابَ{tm|ة}",
+     "klaenge": [
+      "hamzaa",
+      "tm"
+     ]
+    },
+    {
+     "id": "b_04",
+     "wort": "طَائِرَة",
+     "de": "Flugzeug",
+     "klang": "hamzam,tm",
+     "umschrift": "ṭāʾira",
+     "syrien": null,
+     "audio": "audio/ar-de/aswat3/b_04.mp3?v=1e0e2885",
+     "markup": "طَ{hamzam|ائِ}رَ{tm|ة}",
+     "klaenge": [
+      "hamzam",
+      "tm"
+     ]
+    }
+   ]
   }
  ],
  "schrift": {
@@ -2959,6 +4065,98 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/aswat1/za_04.mp3?v=9fd89339",
   "audio/ar-de/aswat1/za_05.mp3?v=75288927",
   "audio/ar-de/aswat1/za_06.mp3?v=4e46b5b3",
+  "audio/ar-de/aswat2/aa_01.mp3?v=b9f5a10b",
+  "audio/ar-de/aswat2/aa_02.mp3?v=da05b8f4",
+  "audio/ar-de/aswat2/aa_03.mp3?v=8a2094d2",
+  "audio/ar-de/aswat2/aa_04.mp3?v=534cef6d",
+  "audio/ar-de/aswat2/aa_05.mp3?v=2a4a32ff",
+  "audio/ar-de/aswat2/aa_06.mp3?v=a6975ed7",
+  "audio/ar-de/aswat2/b_01.mp3?v=8d27cf41",
+  "audio/ar-de/aswat2/b_02.mp3?v=b7eddeb7",
+  "audio/ar-de/aswat2/b_03.mp3?v=8addeb55",
+  "audio/ar-de/aswat2/b_04.mp3?v=7b717ee7",
+  "audio/ar-de/aswat2/ii_01.mp3?v=d10f573e",
+  "audio/ar-de/aswat2/ii_02.mp3?v=6f88a1f3",
+  "audio/ar-de/aswat2/ii_03.mp3?v=9fdeea96",
+  "audio/ar-de/aswat2/ii_04.mp3?v=dadddb98",
+  "audio/ar-de/aswat2/ii_05.mp3?v=1b0e31a4",
+  "audio/ar-de/aswat2/ii_06.mp3?v=2eba95b3",
+  "audio/ar-de/aswat2/p1_01a.mp3?v=b26e25b9",
+  "audio/ar-de/aswat2/p1_01b.mp3?v=77300f06",
+  "audio/ar-de/aswat2/p1_02a.mp3?v=49957269",
+  "audio/ar-de/aswat2/p1_02b.mp3?v=006d4480",
+  "audio/ar-de/aswat2/p1_03a.mp3?v=36a69bc8",
+  "audio/ar-de/aswat2/p1_03b.mp3?v=a69aa9a4",
+  "audio/ar-de/aswat2/p2_01a.mp3?v=8b207d97",
+  "audio/ar-de/aswat2/p2_01b.mp3?v=b76aabf3",
+  "audio/ar-de/aswat2/p2_02a.mp3?v=75c99d7d",
+  "audio/ar-de/aswat2/p2_02b.mp3?v=bd6cad64",
+  "audio/ar-de/aswat2/p2_03a.mp3?v=fb0f61f3",
+  "audio/ar-de/aswat2/p2_03b.mp3?v=43c06f79",
+  "audio/ar-de/aswat2/p3_01a.mp3?v=c25431f3",
+  "audio/ar-de/aswat2/p3_01b.mp3?v=54c32b1e",
+  "audio/ar-de/aswat2/p3_02a.mp3?v=9a11b6e2",
+  "audio/ar-de/aswat2/p3_02b.mp3?v=dd95a8ce",
+  "audio/ar-de/aswat2/p3_03a.mp3?v=503c8b3a",
+  "audio/ar-de/aswat2/p3_03b.mp3?v=339cdb96",
+  "audio/ar-de/aswat2/shadda_01.mp3?v=ba5abf7a",
+  "audio/ar-de/aswat2/shadda_02.mp3?v=423279fa",
+  "audio/ar-de/aswat2/shadda_03.mp3?v=ef542512",
+  "audio/ar-de/aswat2/shadda_04.mp3?v=b576fc0e",
+  "audio/ar-de/aswat2/shadda_05.mp3?v=51e4b479",
+  "audio/ar-de/aswat2/shadda_06.mp3?v=6d22f5c2",
+  "audio/ar-de/aswat2/uu_01.mp3?v=758d6bb9",
+  "audio/ar-de/aswat2/uu_02.mp3?v=de188587",
+  "audio/ar-de/aswat2/uu_03.mp3?v=99845468",
+  "audio/ar-de/aswat2/uu_04.mp3?v=68b804b1",
+  "audio/ar-de/aswat2/uu_05.mp3?v=9a51682d",
+  "audio/ar-de/aswat2/uu_06.mp3?v=85e0e2e2",
+  "audio/ar-de/aswat3/b_01.mp3?v=70b4e910",
+  "audio/ar-de/aswat3/b_02.mp3?v=d65998ec",
+  "audio/ar-de/aswat3/b_03.mp3?v=615c6e50",
+  "audio/ar-de/aswat3/b_04.mp3?v=1e0e2885",
+  "audio/ar-de/aswat3/hamzaa_01.mp3?v=7b4a8a75",
+  "audio/ar-de/aswat3/hamzaa_02.mp3?v=93c8b225",
+  "audio/ar-de/aswat3/hamzaa_03.mp3?v=a9157ec1",
+  "audio/ar-de/aswat3/hamzaa_04.mp3?v=12d2d2b0",
+  "audio/ar-de/aswat3/hamzaa_05.mp3?v=a95d59fb",
+  "audio/ar-de/aswat3/hamzaa_06.mp3?v=27328b0c",
+  "audio/ar-de/aswat3/hamzam_01.mp3?v=f45ac386",
+  "audio/ar-de/aswat3/hamzam_02.mp3?v=2db08610",
+  "audio/ar-de/aswat3/hamzam_03.mp3?v=e4c4924c",
+  "audio/ar-de/aswat3/hamzam_04.mp3?v=b84c2920",
+  "audio/ar-de/aswat3/hamzam_05.mp3?v=1d4aa32b",
+  "audio/ar-de/aswat3/hamzam_06.mp3?v=22c0133a",
+  "audio/ar-de/aswat3/iraab_01.mp3?v=3a821794",
+  "audio/ar-de/aswat3/iraab_02.mp3?v=0529bd94",
+  "audio/ar-de/aswat3/iraab_03.mp3?v=583f735b",
+  "audio/ar-de/aswat3/iraab_04.mp3?v=625b91b7",
+  "audio/ar-de/aswat3/iraab_05.mp3?v=9693b493",
+  "audio/ar-de/aswat3/iraab_06.mp3?v=52ff4f07",
+  "audio/ar-de/aswat3/p1_01a.mp3?v=0e11876b",
+  "audio/ar-de/aswat3/p1_01b.mp3?v=81080bcd",
+  "audio/ar-de/aswat3/p1_02a.mp3?v=b59a0c04",
+  "audio/ar-de/aswat3/p1_02b.mp3?v=3e1c751a",
+  "audio/ar-de/aswat3/p1_03a.mp3?v=f96887d7",
+  "audio/ar-de/aswat3/p1_03b.mp3?v=98065b8b",
+  "audio/ar-de/aswat3/p2_01a.mp3?v=b04b0816",
+  "audio/ar-de/aswat3/p2_01b.mp3?v=dbbb62c6",
+  "audio/ar-de/aswat3/p2_02a.mp3?v=5baead65",
+  "audio/ar-de/aswat3/p2_02b.mp3?v=2ec9b987",
+  "audio/ar-de/aswat3/p2_03a.mp3?v=358a054d",
+  "audio/ar-de/aswat3/p2_03b.mp3?v=4b117190",
+  "audio/ar-de/aswat3/p3_01a.mp3?v=8f6eb834",
+  "audio/ar-de/aswat3/p3_01b.mp3?v=16568eb4",
+  "audio/ar-de/aswat3/p3_02a.mp3?v=370e59c0",
+  "audio/ar-de/aswat3/p3_02b.mp3?v=59c4be7e",
+  "audio/ar-de/aswat3/p3_03a.mp3?v=4f2c2227",
+  "audio/ar-de/aswat3/p3_03b.mp3?v=ad0c5221",
+  "audio/ar-de/aswat3/tm_01.mp3?v=477d67f6",
+  "audio/ar-de/aswat3/tm_02.mp3?v=dab4464a",
+  "audio/ar-de/aswat3/tm_03.mp3?v=a15f736b",
+  "audio/ar-de/aswat3/tm_04.mp3?v=e2de7425",
+  "audio/ar-de/aswat3/tm_05.mp3?v=5e47e359",
+  "audio/ar-de/aswat3/tm_06.mp3?v=85dc7d96",
   "audio/ar-de/huruf/alif.mp3?v=c3018b70",
   "audio/ar-de/huruf/alif_w.mp3?v=ea7bf650",
   "audio/ar-de/huruf/ayn.mp3?v=887ac00f",

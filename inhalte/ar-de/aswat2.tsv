@@ -1,0 +1,47 @@
+id	teil	klang	wort	de	partner	umschrift	syrien
+aa_01	klang	aa	بَاب	Tür		bāb	Syrisch: bēb (Imāla).
+aa_02	klang	aa	كِتَاب	Buch		kitāb	Syrisch: ktēb.
+aa_03	klang	aa	سَلام	Frieden, Gruß		salām	
+aa_04	klang	aa	نَاس	Leute		nās	
+aa_05	klang	aa	مَاء	Wasser		māʾ	Syrisch: mayy.
+aa_06	klang	aa	جَامِع	Moschee		jāmiʿ	
+ii_01	klang	ii	فِيل	Elefant		fīl	
+ii_02	klang	ii	كَبِير	groß		kabīr	
+ii_03	klang	ii	جَدِيد	neu		jadīd	
+ii_04	klang	ii	طَبِيب	Arzt		ṭabīb	
+ii_05	klang	ii	حَلِيب	Milch		ḥalīb	
+ii_06	klang	ii	مَدِينَة	Stadt		madīna	Syrisch: madīne.
+uu_01	klang	uu	نُور	Licht		nūr	
+uu_02	klang	uu	سُوق	Markt		sūq	Syrisch: sūʾ.
+uu_03	klang	uu	رُوح	Seele		rūḥ	
+uu_04	klang	uu	طُول	Länge		ṭūl	
+uu_05	klang	uu	فُول	Bohnen (Frühstück!)		fūl	
+uu_06	klang	uu	مَضْبُوط	genau, richtig		maḍbūṭ	Syrisch sehr häufig: maẓbūṭ.
+shadda_01	klang	shadda	مُعَلِّم	Lehrer		muʿallim	
+shadda_02	klang	shadda	سَيَّارَة	Auto		sayyāra	Syrisch: sayyāra / siyyāra.
+shadda_03	klang	shadda	حُبّ	Liebe		ḥubb	
+shadda_04	klang	shadda	جِدًّا	sehr		jiddan	Syrisch: ktīr.
+shadda_05	klang	shadda	شُبَّاك	Fenster		shubbāk	
+shadda_06	klang	shadda	كُلّ	jeder, alle		kull	
+p1_01a	paar	kurz	كَتَبَ	er schrieb	p1_01b	kataba	
+p1_01b	paar	aa	كَاتَبَ	er schrieb (jemandem)	p1_01a	kātaba	
+p1_02a	paar	kurz	جَمَل	Kamel	p1_02b	jamal	
+p1_02b	paar	aa	جَمَال	Schönheit	p1_02a	jamāl	
+p1_03a	paar	kurz	مَلِك	König	p1_03b	malik	
+p1_03b	paar	aa	مَالِك	Besitzer	p1_03a	mālik	
+p2_01a	paar	ein	دَرَسَ	er lernte	p2_01b	darasa	
+p2_01b	paar	shadda	دَرَّسَ	er lehrte	p2_01a	darrasa	
+p2_02a	paar	ein	عَلِمَ	er wusste	p2_02b	ʿalima	
+p2_02b	paar	shadda	عَلَّمَ	er lehrte	p2_02a	ʿallama	
+p2_03a	paar	ein	كَسَرَ	er zerbrach	p2_03b	kasara	
+p2_03b	paar	shadda	كَسَّرَ	er zerschlug	p2_03a	kassara	
+p3_01a	paar	mond	القَمَر	der Mond	p3_01b	al-qamar	
+p3_01b	paar	sonne	الشَّمْس	die Sonne	p3_01a	ash-shams	
+p3_02a	paar	mond	البَاب	die Tür	p3_02b	al-bāb	
+p3_02b	paar	sonne	الدَّرْس	die Stunde	p3_02a	ad-dars	
+p3_03a	paar	mond	الكِتَاب	das Buch	p3_03b	al-kitāb	
+p3_03b	paar	sonne	النُّور	das Licht	p3_03a	an-nūr	
+b_01	beide	shadda,uu	مُعَ{shadda|لِّ}م{uu|ُو}ن	Lehrer (Plural)		muʿallimūn	
+b_02	beide	shadda,aa	شُ{shadda|بَّ}{aa|ا}ك	Fenster		shubbāk	
+b_03	beide	shadda,aa	سَ{shadda|يَّ}{aa|ا}ر{aa|َا}ت	Autos		sayyārāt	
+b_04	beide	shadda,ii	مُدَ{shadda|رِّ}س{ii|ِي}ن	Lehrer (Plural, Akk.)		mudarrisīn	
