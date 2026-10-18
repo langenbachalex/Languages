@@ -641,7 +641,7 @@
       return el("div", { class: "absatz", role: "button", tabindex: "0", onclick: () => { de.hidden = !de.hidden; },
         onkeydown: (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); de.hidden = !de.hidden; } } },
         el("p", { class: "absatz-fr", lang: D.lang }, fett(a.fr),
-          el("button", { class: "knopf leise klein-knopf", "aria-label": U.hoeren, onclick: (e) => { e.stopPropagation(); vorlesen([a]); } }, "🔊")), umschrift(a, "umschrift klein"), de);
+          el("button", { class: "knopf leise klein-knopf", "aria-label": U.hoeren, onclick: (e) => { e.stopPropagation(); vorlesen([a]); } }, "🔊")), umschrift(a, "umschrift klein"), de, syrisch(a));
     });
     async function vorlesen(liste) {
       for (const a of liste) {

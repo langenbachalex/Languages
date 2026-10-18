@@ -9435,7 +9435,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "وَمِنْ ذَلِكَ اليَوْمِ لَمْ يَتَأَخَّرْ أَحَد.",
      "de": "Und von dem Tag an blieb niemand mehr zurück.",
      "umschrift": "wa-min dhālika l-yawm lam yataʾakhkhar aḥad.",
-     "audio": "audio/ar-de/anekdoten/a01_08.mp3?v=6d96d815"
+     "audio": "audio/ar-de/anekdoten/a01_08.mp3?v=6d96d815",
+     "syrisch": {
+      "fr": "ومِن هَداك اليوم ما حَدا تْأَخَّر.",
+      "umschrift": "w-min hadāk il-yōm mā ḥada tʾakhkhar.",
+      "audio": "audio/ar-de/anekdoten/a01_08_s.mp3?v=1d429061"
+     }
     }
    ]
   },
@@ -9497,7 +9502,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "« وَهَلْ تَمُوتُ القِدْر؟ » – « صَدَّقْتَ أَنَّهَا وَلَدَت، فَلِمَاذَا لا تُصَدِّقُ أَنَّهَا مَاتَت؟ »",
      "de": "« Stirbt denn ein Topf? » – « Dass er geboren hat, hast du geglaubt. Warum glaubst du nicht, dass er gestorben ist? »",
      "umschrift": "« wa-hal tamūt al-qidr? » – « ṣaddaqta annahā waladat, fa-limādhā lā tuṣaddiq annahā mātat? »",
-     "audio": "audio/ar-de/anekdoten/a02_08.mp3?v=ab8c8b2d"
+     "audio": "audio/ar-de/anekdoten/a02_08.mp3?v=ab8c8b2d",
+     "syrisch": {
+      "fr": "« وبْتْموت الطَّنْجَرَة؟ » – « صَدَّقْت إنّا خَلَّفِت، لِيش ما بْتْصَدِّق إنّا ماتِت؟ »",
+      "umschrift": "« w-btmūt iṭ-ṭanjara? » – « ṣaddaʾt inna khallafet, lēsh mā btṣaddiʾ inna mātet? »",
+      "audio": "audio/ar-de/anekdoten/a02_08_s.mp3?v=bcd7c0a1"
+     }
     }
    ]
   },
@@ -9559,7 +9569,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "مُنْذُ ذَلِكَ اليَوْم، كُلُّ شَرْطٍ صَغِيرٍ يُفْسِدُ صَفْقَةً كَبِيرَةً اسْمُهُ « مِسْمَارُ جُحَا ».",
      "de": "Seit jenem Tag heißt jede kleine Klausel, die ein großes Geschäft verdirbt, « Dschuhas Nagel ».",
      "umschrift": "mundhu dhālika l-yawm, kull sharṭ ṣaghīr yufsid ṣafqa kabīra ismuhu « mismār Juḥā ».",
-     "audio": "audio/ar-de/anekdoten/a03_08.mp3?v=e140e805"
+     "audio": "audio/ar-de/anekdoten/a03_08.mp3?v=e140e805",
+     "syrisch": {
+      "fr": "مِن هَداك اليوم، كِلّ شَرْط زْغير بْيِخَرِّب صَفْقَة كْبيرَة اسْمو « مِسْمار جْحا ».",
+      "umschrift": "min hadāk il-yōm, kill sharṭ zghīr bykharreb ṣafʾa kbīre ismo « mismār Jḥa ».",
+      "audio": "audio/ar-de/anekdoten/a03_08_s.mp3?v=5b8755e6"
+     }
     }
    ]
   },
@@ -9614,7 +9629,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "قَالَ جُحَا: « لأَنَّ الضَّوْءَ هُنَا. »",
      "de": "Dschuha sagte: « Weil hier das Licht ist. »",
      "umschrift": "qāla Juḥā: « li-anna ḍ-ḍawʾ hunā. »",
-     "audio": "audio/ar-de/anekdoten/a04_07.mp3?v=490935fd"
+     "audio": "audio/ar-de/anekdoten/a04_07.mp3?v=490935fd",
+     "syrisch": {
+      "fr": "قال جْحا: « لَأَنّو الضَّوّ هون. »",
+      "umschrift": "ʾāl Jḥa: « laʾanno ḍ-ḍaww hōn. »",
+      "audio": "audio/ar-de/anekdoten/a04_07_s.mp3?v=83221687"
+     }
     }
    ]
   },
@@ -9662,7 +9682,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "« مَا هَذَا يَا جُحَا؟ » – « هَذَا حَسَاءُ حَسَاءِ الأَرْنَب. »",
      "de": "« Was ist das, Dschuha? » – « Das ist die Suppe der Suppe vom Hasen. »",
      "umschrift": "« mā hādhā yā Juḥā? » – « hādhā ḥasāʾ ḥasāʾ al-arnab. »",
-     "audio": "audio/ar-de/anekdoten/a05_06.mp3?v=514af655"
+     "audio": "audio/ar-de/anekdoten/a05_06.mp3?v=514af655",
+     "syrisch": {
+      "fr": "« شو هاد يا جْحا؟ » – « هاد شورْبِة شورْبِة الأَرْنَب. »",
+      "umschrift": "« shū hād yā Jḥa? » – « hād shōrbet shōrbet il-arnab. »",
+      "audio": "audio/ar-de/anekdoten/a05_06_s.mp3?v=5376a577"
+     }
     }
    ]
   },
@@ -9710,7 +9735,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "« تُصَدِّقُ الحِمَار، وَلا تُصَدِّقُنِي أَنَا، الرَّجُلُ ذُو اللِّحْيَةِ البَيْضَاء؟ »",
      "de": "« Du glaubst dem Esel, und mir nicht, dem Mann mit dem weißen Bart? »",
      "umschrift": "« tuṣaddiq al-ḥimār, wa-lā tuṣaddiqunī anā, ar-rajul dhū l-liḥya l-bayḍāʾ? »",
-     "audio": "audio/ar-de/anekdoten/a06_06.mp3?v=9b37ba50"
+     "audio": "audio/ar-de/anekdoten/a06_06.mp3?v=9b37ba50",
+     "syrisch": {
+      "fr": "« بْتْصَدِّق الحْمار، وما بْتْصَدِّقْني أَنا، الزَّلَمِة أَبو الدَّئِن البيضا؟ »",
+      "umschrift": "« btṣaddiʾ il-ḥmār, w-mā btṣaddiʾnī ana, iz-zalame abu d-daʾen il-bēḍa? »",
+      "audio": "audio/ar-de/anekdoten/a06_06_s.mp3?v=52edc045"
+     }
     }
    ]
   },
@@ -9758,7 +9788,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "قَالَ جُحَا: « مُمْتَاز. الَّذِينَ يَعْرِفُونَ يُخْبِرُونَ الَّذِينَ لا يَعْرِفُون. » وَنَزَل.",
      "de": "Dschuha sagte: « Ausgezeichnet. Die, die es wissen, sagen es denen, die es nicht wissen. » Und stieg herab.",
      "umschrift": "qāla Juḥā: « mumtāz. alladhīna yaʿrifūn yukhbirūn alladhīna lā yaʿrifūn. » wa-nazal.",
-     "audio": "audio/ar-de/anekdoten/a07_06.mp3?v=8ca3cb93"
+     "audio": "audio/ar-de/anekdoten/a07_06.mp3?v=8ca3cb93",
+     "syrisch": {
+      "fr": "قال جْحا: « مُمْتاز. اللي بْيَعْرْفو بْيِخَبّْرو اللي ما بْيَعْرْفو. » ونِزِل.",
+      "umschrift": "ʾāl Jḥa: « mumtāz. illi byaʿrfū bykhabbrū illi mā byaʿrfū. » w-nizel.",
+      "audio": "audio/ar-de/anekdoten/a07_06_s.mp3?v=30bfde46"
+     }
     }
    ]
   },
@@ -9806,7 +9841,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "كَتَبَ الوَلَدُ الجَوَابَ فِي دَفْتَرِه. وَمَا زَالَ يُصَدِّقُهُ حَتَّى اليَوْم.",
      "de": "Der Junge schrieb die Antwort in sein Heft. Und glaubt sie bis heute.",
      "umschrift": "kataba l-walad al-jawāb fī daftarih. wa-mā zāla yuṣaddiquhu ḥattā l-yawm.",
-     "audio": "audio/ar-de/anekdoten/a08_06.mp3?v=a43cd650"
+     "audio": "audio/ar-de/anekdoten/a08_06.mp3?v=a43cd650",
+     "syrisch": {
+      "fr": "الوَلَد كَتَب الجَواب بْدَفْتَرو. ولِسّا مْصَدّْقو لَهَلَّق.",
+      "umschrift": "il-walad katab ij-jawāb b-daftaro. w-lissa mṣaddʾo la-hallaʾ.",
+      "audio": "audio/ar-de/anekdoten/a08_06_s.mp3?v=a3fb3329"
+     }
     }
    ]
   },
@@ -9861,7 +9901,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "« الحَمْدُ لِلّه! تَعِبْتُ، لَكِنِّي أَنْقَذْتُ القَمَر. »",
      "de": "« Gott sei Dank! Ich bin müde, aber ich habe den Mond gerettet. »",
      "umschrift": "« al-ḥamdu lillāh! taʿibtu, lākinnī anqadhtu l-qamar. »",
-     "audio": "audio/ar-de/anekdoten/a09_07.mp3?v=1ead1fbe"
+     "audio": "audio/ar-de/anekdoten/a09_07.mp3?v=1ead1fbe",
+     "syrisch": {
+      "fr": "« الحَمْدِلّا! تْعِبْت، بَسّ أَنْقَذْت القَمَر. »",
+      "umschrift": "« il-ḥamdilla! tʿibt, bass anʾazt il-ʾamar. »",
+      "audio": "audio/ar-de/anekdoten/a09_07_s.mp3?v=752571f5"
+     }
     }
    ]
   },
@@ -9916,7 +9961,12 @@ window.SPRACHEN["ar-de"] = {
      "fr": "القِطُّ لَمْ يَقُلْ شَيْئًا. القِطَطُ لا تَقُولُ شَيْئًا أَبَدًا.",
      "de": "Die Katze sagte nichts. Katzen sagen nie etwas.",
      "umschrift": "al-qiṭṭ lam yaqul shayʾan. al-qiṭaṭ lā taqūl shayʾan abadan.",
-     "audio": "audio/ar-de/anekdoten/a10_07.mp3?v=141f736f"
+     "audio": "audio/ar-de/anekdoten/a10_07.mp3?v=141f736f",
+     "syrisch": {
+      "fr": "البِسّ ما ئال شي. البْساس ما بْيِقولو شي أَبَدًا.",
+      "umschrift": "il-biss mā ʾāl shī. il-bsās mā byʾūlū shī abadan.",
+      "audio": "audio/ar-de/anekdoten/a10_07_s.mp3?v=3256c6cb"
+     }
     }
    ]
   }
@@ -11161,6 +11211,7 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/anekdoten/a01_06.mp3?v=9e819450",
   "audio/ar-de/anekdoten/a01_07.mp3?v=25ea603a",
   "audio/ar-de/anekdoten/a01_08.mp3?v=6d96d815",
+  "audio/ar-de/anekdoten/a01_08_s.mp3?v=1d429061",
   "audio/ar-de/anekdoten/a02_01.mp3?v=a795e9bb",
   "audio/ar-de/anekdoten/a02_02.mp3?v=aa5a2046",
   "audio/ar-de/anekdoten/a02_03.mp3?v=0c4dfb82",
@@ -11169,6 +11220,7 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/anekdoten/a02_06.mp3?v=6fa59383",
   "audio/ar-de/anekdoten/a02_07.mp3?v=8d1ae0e1",
   "audio/ar-de/anekdoten/a02_08.mp3?v=ab8c8b2d",
+  "audio/ar-de/anekdoten/a02_08_s.mp3?v=bcd7c0a1",
   "audio/ar-de/anekdoten/a03_01.mp3?v=b34c0187",
   "audio/ar-de/anekdoten/a03_02.mp3?v=871d76af",
   "audio/ar-de/anekdoten/a03_03.mp3?v=48a2c57a",
@@ -11177,6 +11229,7 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/anekdoten/a03_06.mp3?v=3d35669b",
   "audio/ar-de/anekdoten/a03_07.mp3?v=9e2e4116",
   "audio/ar-de/anekdoten/a03_08.mp3?v=e140e805",
+  "audio/ar-de/anekdoten/a03_08_s.mp3?v=5b8755e6",
   "audio/ar-de/anekdoten/a04_01.mp3?v=c5841b56",
   "audio/ar-de/anekdoten/a04_02.mp3?v=ecc55273",
   "audio/ar-de/anekdoten/a04_03.mp3?v=b0dd7faa",
@@ -11184,30 +11237,35 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/anekdoten/a04_05.mp3?v=2043579b",
   "audio/ar-de/anekdoten/a04_06.mp3?v=7a2fa64a",
   "audio/ar-de/anekdoten/a04_07.mp3?v=490935fd",
+  "audio/ar-de/anekdoten/a04_07_s.mp3?v=83221687",
   "audio/ar-de/anekdoten/a05_01.mp3?v=3c25ae49",
   "audio/ar-de/anekdoten/a05_02.mp3?v=bc630a44",
   "audio/ar-de/anekdoten/a05_03.mp3?v=228fbdf5",
   "audio/ar-de/anekdoten/a05_04.mp3?v=973c4358",
   "audio/ar-de/anekdoten/a05_05.mp3?v=95a9b5c7",
   "audio/ar-de/anekdoten/a05_06.mp3?v=514af655",
+  "audio/ar-de/anekdoten/a05_06_s.mp3?v=5376a577",
   "audio/ar-de/anekdoten/a06_01.mp3?v=ea37b78a",
   "audio/ar-de/anekdoten/a06_02.mp3?v=fad0e7a0",
   "audio/ar-de/anekdoten/a06_03.mp3?v=462e1cd9",
   "audio/ar-de/anekdoten/a06_04.mp3?v=7151cc13",
   "audio/ar-de/anekdoten/a06_05.mp3?v=7dddfc31",
   "audio/ar-de/anekdoten/a06_06.mp3?v=9b37ba50",
+  "audio/ar-de/anekdoten/a06_06_s.mp3?v=52edc045",
   "audio/ar-de/anekdoten/a07_01.mp3?v=62733930",
   "audio/ar-de/anekdoten/a07_02.mp3?v=dea4db6a",
   "audio/ar-de/anekdoten/a07_03.mp3?v=6d8b10a8",
   "audio/ar-de/anekdoten/a07_04.mp3?v=9925ab3c",
   "audio/ar-de/anekdoten/a07_05.mp3?v=2fda4c74",
   "audio/ar-de/anekdoten/a07_06.mp3?v=8ca3cb93",
+  "audio/ar-de/anekdoten/a07_06_s.mp3?v=30bfde46",
   "audio/ar-de/anekdoten/a08_01.mp3?v=6d70e109",
   "audio/ar-de/anekdoten/a08_02.mp3?v=b2711027",
   "audio/ar-de/anekdoten/a08_03.mp3?v=c5c78b03",
   "audio/ar-de/anekdoten/a08_04.mp3?v=c9cb7616",
   "audio/ar-de/anekdoten/a08_05.mp3?v=bd4d46c5",
   "audio/ar-de/anekdoten/a08_06.mp3?v=a43cd650",
+  "audio/ar-de/anekdoten/a08_06_s.mp3?v=a3fb3329",
   "audio/ar-de/anekdoten/a09_01.mp3?v=9994d619",
   "audio/ar-de/anekdoten/a09_02.mp3?v=ef2fefe5",
   "audio/ar-de/anekdoten/a09_03.mp3?v=d656a4e1",
@@ -11215,6 +11273,7 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/anekdoten/a09_05.mp3?v=6ce7ce96",
   "audio/ar-de/anekdoten/a09_06.mp3?v=61d0af39",
   "audio/ar-de/anekdoten/a09_07.mp3?v=1ead1fbe",
+  "audio/ar-de/anekdoten/a09_07_s.mp3?v=752571f5",
   "audio/ar-de/anekdoten/a10_01.mp3?v=37d8b616",
   "audio/ar-de/anekdoten/a10_02.mp3?v=bc7dfb9a",
   "audio/ar-de/anekdoten/a10_03.mp3?v=91eab0ce",
@@ -11222,6 +11281,7 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/anekdoten/a10_05.mp3?v=c308c95b",
   "audio/ar-de/anekdoten/a10_06.mp3?v=454c31f2",
   "audio/ar-de/anekdoten/a10_07.mp3?v=141f736f",
+  "audio/ar-de/anekdoten/a10_07_s.mp3?v=3256c6cb",
   "audio/ar-de/aswat1/ayn_01.mp3?v=72461988",
   "audio/ar-de/aswat1/ayn_02.mp3?v=79f84ebb",
   "audio/ar-de/aswat1/ayn_03.mp3?v=bd9cbf16",

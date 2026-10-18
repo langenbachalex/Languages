@@ -137,7 +137,10 @@ def daten_fuer(P):
         if not anekdoten or anekdoten[-1]["nr"] != int(z["nr"]):
             anekdoten.append({"nr": int(z["nr"]), "titel": z["titel"], "absaetze": []})
         aid = f"a{int(z['nr']):02d}_{int(z['satz']):02d}"
-        anekdoten[-1]["absaetze"].append({"id": aid, "fr": z["fr"], "de": z["de"], "umschrift": (z.get("umschrift") or "").strip() or None, "audio": audio(f"anekdoten/{aid}.mp3")})
+        absatz = {"id": aid, "fr": z["fr"], "de": z["de"], "umschrift": (z.get("umschrift") or "").strip() or None, "audio": audio(f"anekdoten/{aid}.mp3")}
+        if (z.get("syrisch") or "").strip():   # Pointe auf Syrisch (Knopf « Şām », Mr. Alex 18.10.)
+            absatz["syrisch"] = {"fr": z["syrisch"], "umschrift": (z.get("syrisch_u") or "").strip() or None, "audio": audio(f"anekdoten/{aid}_s.mp3")}
+        anekdoten[-1]["absaetze"].append(absatz)
     # Grammatik-Lektionen (Türkisch): eine pro Thema, Beispiele sind bereits aufgenommene Sätze (Wendung, Dialogzeile oder Absatz der Geschichte)
     def quelle(qid):
         w = next((w for w in wendungen if w["id"] == qid), None)
