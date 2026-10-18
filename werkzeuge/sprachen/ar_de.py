@@ -28,6 +28,7 @@ THEMEN = [
     {"id": "riyada", "name": "الرِّيَاضَةُ وَالكُونْغ فُو", "de": "Sport und Kung-Fu", "symbol": "🥋", "datei": "riyada.tsv"},
     {"id": "taam", "name": "الطَّعَامُ وَالعَافِيَة", "de": "Essen und Wohlbefinden", "symbol": "🥙", "datei": "taam.tsv"},
     {"id": "atfal", "name": "الأَطْفَال", "de": "Kinder", "symbol": "👶", "datei": "atfal.tsv"},
+    {"id": "kalimat", "name": "كَلِمَاتٌ عَرَبِيَّةٌ تَعْرِفُهَا", "de": "Arabische Wörter, die du schon kennst", "symbol": "🌍", "datei": "kalimat.tsv"},
 ]
 GRAMMATIK_DATEI = "qawaid.tsv"
 

@@ -630,6 +630,38 @@ window.SPRACHEN["ar-de"] = {
     "at_23",
     "at_24"
    ]
+  },
+  {
+   "id": "kalimat",
+   "name": "كَلِمَاتٌ عَرَبِيَّةٌ تَعْرِفُهَا",
+   "de": "Arabische Wörter, die du schon kennst",
+   "symbol": "🌍",
+   "wendungen": [
+    "ka_01",
+    "ka_02",
+    "ka_03",
+    "ka_04",
+    "ka_05",
+    "ka_06",
+    "ka_07",
+    "ka_08",
+    "ka_09",
+    "ka_10",
+    "ka_11",
+    "ka_12",
+    "ka_13",
+    "ka_14",
+    "ka_15",
+    "ka_16",
+    "ka_17",
+    "ka_18",
+    "ka_19",
+    "ka_20",
+    "ka_21",
+    "ka_22",
+    "ka_23",
+    "ka_24"
+   ]
   }
  ],
  "wendungen": [
@@ -6860,6 +6892,665 @@ window.SPRACHEN["ar-de"] = {
     "umschrift": "ʾaddēsh ʿimr ibnak? – khamse, bass fāker ḥālo ʿashra.",
     "audio": "audio/ar-de/syrisch/at_24.mp3?v=98dacd1a"
    }
+  },
+  {
+   "id": "ka_01",
+   "thema": "kalimat",
+   "fr": "سُكَّر",
+   "de": "Zucker",
+   "register": "tu",
+   "anker": "سكر",
+   "notiz": "sukkar → Zucker, azúcar, sugar, şeker: das Wort kam mit der Ware aus Indien über Persien und die Araber nach Europa. Schadda im Wort. ʿarabī = arabisch (als Herkunft: das Wort ist arabisch).",
+   "audio": "audio/ar-de/wendungen/ka_01.mp3?v=5005665c",
+   "gloss": "ال·سُكَّر عَرَبِيّ | DEF·Zucker arabisch",
+   "umschrift": "as-sukkar ʿarabī",
+   "wurzel": "س-ك-ر",
+   "satz": {
+    "fr": "السُّكَّرُ عَرَبِيّ، وَالقَهْوَةُ أَيْضًا.",
+    "de": "Der Zucker ist arabisch, und der Kaffee auch.",
+    "luecke": "السُّكَّرُ عَرَبِيّ",
+    "gloss": "ال·سُكَّر عَرَبِيّ، وَ·ال·قَهْوَة أَيْضًا. | DEF·Zucker arabisch, und·DEF·Kaffee auch.",
+    "umschrift": "as-sukkar ʿarabī, wal-qahwa ayḍan.",
+    "audio": "audio/ar-de/saetze/ka_01.mp3?v=6054d238"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "السِّكَّر عَرَبي، والقَهْوِة كَمان.",
+    "umschrift": "is-sikkar ʿarabī, wil-ʾahwe kamān.",
+    "audio": "audio/ar-de/syrisch/ka_01.mp3?v=a11b05b6"
+   }
+  },
+  {
+   "id": "ka_02",
+   "thema": "kalimat",
+   "fr": "قَهْوَة",
+   "de": "Kaffee",
+   "register": "tu",
+   "anker": "قهوة",
+   "notiz": "qahwa → kahve (Türkisch) → caffè, café, Kaffee: der Weg über Istanbul. qahwa hieß ursprünglich Wein, dann der Kaffee aus dem Jemen. thalāth lughāt taqūluhā = drei Sprachen sagen es (Sachplural, feminin Singular).",
+   "audio": "audio/ar-de/wendungen/ka_02.mp3?v=d2ceb938",
+   "gloss": "قَهْوَة وَاحِدَة | Kaffee ein.F",
+   "umschrift": "qahwa wāḥida",
+   "wurzel": "ق-ه-و",
+   "satz": {
+    "fr": "قَهْوَةٌ وَاحِدَة، وَثَلاثُ لُغَاتٍ تَقُولُهَا: Kaffee، café، kahve.",
+    "de": "Ein Kaffee, und drei Sprachen sagen es: Kaffee, café, kahve.",
+    "luecke": "قَهْوَةٌ وَاحِدَة",
+    "gloss": "قَهْوَة وَاحِدَة، وَ·ثَلاث لُغَات تَ·قُول·ُهَا: Kaffee، café، kahve. | Kaffee ein.F, und·drei Sprachen 3SG.F·sagen·es: Kaffee, café, kahve.",
+    "umschrift": "qahwa wāḥida, wa-thalāth lughāt taqūluhā: Kaffee, café, kahve.",
+    "audio": "audio/ar-de/saetze/ka_02.mp3?v=69e318bb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "ئَهْوِة وَحْدِة، وتْلات لُغات بْتْئولا.",
+    "umschrift": "ʾahwe waḥde, w-tlāt lughāt btʾūla.",
+    "audio": "audio/ar-de/syrisch/ka_02.mp3?v=ea65f7c5"
+   }
+  },
+  {
+   "id": "ka_03",
+   "thema": "kalimat",
+   "fr": "كُحُول",
+   "de": "Alkohol",
+   "register": "tu",
+   "anker": "كحل",
+   "notiz": "al-kuḥl = der Kajal, das feine Augenpuder; die Alchemisten nannten jede feine Essenz so, bis das Wort an der Spirituose hängen blieb. kuḥūl ist die heutige Form für Alkohol. fī l-aṣl = ursprünglich.",
+   "audio": "audio/ar-de/wendungen/ka_03.mp3?v=724bb40f",
+   "gloss": "ال·كُحُول فِي ال·أَصْل | DEF·Alkohol in DEF·Ursprung",
+   "umschrift": "al-kuḥūl fī l-aṣl",
+   "wurzel": "ك-ح-ل",
+   "satz": {
+    "fr": "الكُحُولُ فِي الأَصْلِ بُودْرَةٌ لِلْعُيُون.",
+    "de": "Alkohol war ursprünglich Puder für die Augen.",
+    "luecke": "الكُحُولُ فِي الأَصْل",
+    "gloss": "ال·كُحُول فِي ال·أَصْل بُودْرَة لِ·ال·عُيُون. | DEF·Alkohol in DEF·Ursprung Puder für·DEF·Augen.",
+    "umschrift": "al-kuḥūl fī l-aṣl būdra lil-ʿuyūn.",
+    "audio": "audio/ar-de/saetze/ka_03.mp3?v=2c4e528c"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الكُحول بِالأَصِل بودْرَة لَلعْيون.",
+    "umschrift": "il-kuḥūl bil-aṣel būdra lal-ʿyūn.",
+    "audio": "audio/ar-de/syrisch/ka_03.mp3?v=f6bc3518"
+   }
+  },
+  {
+   "id": "ka_04",
+   "thema": "kalimat",
+   "fr": "الجَبْر",
+   "de": "Algebra",
+   "register": "tu",
+   "anker": "جبر",
+   "notiz": "al-jabr = das Einrenken (von Knochen): al-Khwārizmīs Buchtitel « al-jabr wa-l-muqābala » gab der Algebra den Namen, und sein eigener Name dem Algorithmus. maʿnā-hu = seine Bedeutung. isʾal = frag (Imperativ). ṭullāb = Studenten (Plural von ṭālib).",
+   "audio": "audio/ar-de/wendungen/ka_04.mp3?v=c004a5a8",
+   "gloss": "ال·جَبْر مَعْنَا·هُ | DEF·Algebra Bedeutung·sein",
+   "umschrift": "al-jabr maʿnāhu",
+   "wurzel": "ج-ب-ر",
+   "satz": {
+    "fr": "الجَبْرُ مَعْنَاهُ « الإِصْلاح »، اِسْأَلْ طُلَّابِي.",
+    "de": "Algebra heißt « das Wiedereinrenken », frag meine Schüler.",
+    "luecke": "الجَبْرُ مَعْنَاهُ",
+    "gloss": "ال·جَبْر مَعْنَا·هُ « ال·إِصْلاح »، اِسْأَل·ْ طُلَّاب·ِي. | DEF·Algebra Bedeutung·sein « DEF·Reparatur », frag·IMP Studenten·mein.",
+    "umschrift": "al-jabr maʿnāhu « al-iṣlāḥ », isʾal ṭullābī.",
+    "audio": "audio/ar-de/saetze/ka_04.mp3?v=2489653a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الجَبِر مَعْناه « الإصْلاح »، اسْأَل طُلّابي.",
+    "umschrift": "ij-jaber maʿnāh « il-iṣlāḥ », isʾal ṭullābī.",
+    "audio": "audio/ar-de/syrisch/ka_04.mp3?v=4f652957"
+   }
+  },
+  {
+   "id": "ka_05",
+   "thema": "kalimat",
+   "fr": "صِفْر",
+   "de": "Ziffer, Zero",
+   "register": "tu",
+   "anker": "صفر",
+   "notiz": "ṣifr = leer, Null: wurde zu cifra, chiffre, Ziffer, und über das Italienische zefiro zu zero. Die Null kam aus Indien, das Wort ist arabisch. lā ḥisāb = keine Rechnung (lā + unbestimmt).",
+   "audio": "audio/ar-de/wendungen/ka_05.mp3?v=2726df9f",
+   "gloss": "ال·صِفْر عَرَبِيّ | DEF·Null arabisch",
+   "umschrift": "aṣ-ṣifr ʿarabī",
+   "wurzel": "ص-ف-ر",
+   "satz": {
+    "fr": "الصِّفْرُ عَرَبِيّ، وَبِدُونِهِ لا حِسَاب.",
+    "de": "Die Null ist arabisch, und ohne sie keine Rechnung.",
+    "luecke": "الصِّفْرُ عَرَبِيّ",
+    "gloss": "ال·صِفْر عَرَبِيّ، وَ·بِ·دُون·ِهِ لا حِسَاب. | DEF·Null arabisch, und·mit·ohne·ihm kein Rechnung.",
+    "umschrift": "aṣ-ṣifr ʿarabī, wa-bidūnihi lā ḥisāb.",
+    "audio": "audio/ar-de/saetze/ka_05.mp3?v=0c30c187"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الصِّفِر عَرَبي، وبَلاه ما في حْساب.",
+    "umschrift": "iṣ-ṣifer ʿarabī, w-balāh mā fī ḥsāb.",
+    "audio": "audio/ar-de/syrisch/ka_05.mp3?v=3682b021"
+   }
+  },
+  {
+   "id": "ka_06",
+   "thema": "kalimat",
+   "fr": "مَخْزَن",
+   "de": "Magazin",
+   "register": "tu",
+   "anker": "خزن",
+   "notiz": "makhzan = Lagerhaus (Ortsmuster von khazana, lagern; khizāna = Schrank, Schatzkammer). Über das Italienische magazzino wurde es zum Magazin, dem Lager und der Zeitschrift (ein « Lager » an Texten). ṣāra majallatan = wurde zu einer Zeitschrift (ṣāra + Akkusativ).",
+   "audio": "audio/ar-de/wendungen/ka_06.mp3?v=4b672c1c",
+   "gloss": "ال·مَخْزَن صَار·َ مَجَلَّة | DEF·Lager werden·3SG Zeitschrift",
+   "umschrift": "al-makhzan ṣāra majalla",
+   "wurzel": "خ-ز-ن",
+   "satz": {
+    "fr": "المَخْزَنُ صَارَ مَجَلَّةً فِي أُورُوبَّا.",
+    "de": "Das Lagerhaus wurde in Europa zur Zeitschrift.",
+    "luecke": "المَخْزَنُ صَارَ مَجَلَّة",
+    "gloss": "ال·مَخْزَن صَار·َ مَجَلَّة·ً فِي أُورُوبَّا. | DEF·Lager werden·3SG Zeitschrift·AKK in Europa.",
+    "umschrift": "al-makhzan ṣāra majallatan fī Ūrūbbā.",
+    "audio": "audio/ar-de/saetze/ka_06.mp3?v=1cb611f0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "المَخْزَن صار مَجَلِّة بْأوروبّا.",
+    "umschrift": "il-makhzan ṣār majalle b-Ōrōbba.",
+    "audio": "audio/ar-de/syrisch/ka_06.mp3?v=095de2bb"
+   }
+  },
+  {
+   "id": "ka_07",
+   "thema": "kalimat",
+   "fr": "مَطْرَح",
+   "de": "Matratze",
+   "register": "tu",
+   "anker": "طرح",
+   "notiz": "maṭraḥ = der Ort, wo man etwas hinwirft (ṭaraḥa = werfen): das Bodenkissen, daraus materasso, matelas, Matratze. Syrisch heißt maṭraḥ heute einfach « Ort » (b-kill maṭraḥ, Thema 3). lā anā = nicht ich.",
+   "audio": "audio/ar-de/wendungen/ka_07.mp3?v=d9edb19d",
+   "gloss": "عَلَى ال·مَطْرَح يَ·نَام ال·قِطّ | auf DEF·Matratze 3SG·schlafen DEF·Katze",
+   "umschrift": "ʿalā l-maṭraḥ yanām al-qiṭṭ",
+   "wurzel": "ط-ر-ح",
+   "satz": {
+    "fr": "عَلَى المَطْرَحِ يَنَامُ القِطّ، لا أَنَا.",
+    "de": "Auf der Matratze schläft die Katze, nicht ich.",
+    "luecke": "عَلَى المَطْرَحِ يَنَامُ القِطّ",
+    "gloss": "عَلَى ال·مَطْرَح يَ·نَام ال·قِطّ، لا أَنَا. | auf DEF·Matratze 3SG·schlafen DEF·Katze, nicht ich.",
+    "umschrift": "ʿalā l-maṭraḥ yanām al-qiṭṭ, lā anā.",
+    "audio": "audio/ar-de/saetze/ka_07.mp3?v=60f98b7f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "عَالفَرْشِة بْيِنام البِسّ، مو أَنا.",
+    "umschrift": "ʿal-farshe byinām il-biss, mū ana.",
+    "audio": "audio/ar-de/syrisch/ka_07.mp3?v=172bbe13"
+   }
+  },
+  {
+   "id": "ka_08",
+   "thema": "kalimat",
+   "fr": "لَيْمُون",
+   "de": "Limone",
+   "register": "tu",
+   "anker": "ليمون",
+   "notiz": "laymūn → limone, limón, Limone, limon (Türkisch): aus dem Persischen über das Arabische. Im Standard heißt laymūn Zitrone, in Syrien auch; die Limette ist laymūn akhḍar. fī kull shayʾ = in allem.",
+   "audio": "audio/ar-de/wendungen/ka_08.mp3?v=61fb08b6",
+   "gloss": "ال·لَيْمُون فِي ال·شُورْبَة | DEF·Zitrone in DEF·Suppe",
+   "umschrift": "al-laymūn fī sh-shūrba",
+   "wurzel": "ل-ي-م",
+   "satz": {
+    "fr": "اللَّيْمُونُ فِي الشُّورْبَة، فِي الشَّاي، فِي كُلِّ شَيْء.",
+    "de": "Die Zitrone in der Suppe, im Tee, in allem.",
+    "luecke": "اللَّيْمُونُ فِي الشُّورْبَة",
+    "gloss": "ال·لَيْمُون فِي ال·شُورْبَة، فِي ال·شَاي، فِي كُلّ شَيْء. | DEF·Zitrone in DEF·Suppe, in DEF·Tee, in jeder Ding.",
+    "umschrift": "al-laymūn fī sh-shūrba, fī sh-shāy, fī kull shayʾ.",
+    "audio": "audio/ar-de/saetze/ka_08.mp3?v=1660f8c8"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اللَّيْمون بِالشّورْبِة، بِالشّاي، بْكِلّ شي.",
+    "umschrift": "il-laymūn bish-shōrbe, bish-shāy, b-kill shī.",
+    "audio": "audio/ar-de/syrisch/ka_08.mp3?v=3a70f47e"
+   }
+  },
+  {
+   "id": "ka_09",
+   "thema": "kalimat",
+   "fr": "قُطْن",
+   "de": "Baumwolle, Cotton",
+   "register": "tu",
+   "anker": "قطن",
+   "notiz": "quṭn → cotone, coton, cotton, algodón (mit dem Artikel al- drin!). miṣr = Ägypten (auch: Kairo; miṣrī = ägyptisch). al-ʿarab = die Araber. Die deutsche Baumwolle übersetzt dagegen « Wolle vom Baum ».",
+   "audio": "audio/ar-de/wendungen/ka_09.mp3?v=370c4674",
+   "gloss": "ال·قُطْن مِنْ مِصْر | DEF·Baumwolle aus Ägypten",
+   "umschrift": "al-quṭn min Miṣr",
+   "wurzel": "ق-ط-ن",
+   "satz": {
+    "fr": "القُطْنُ مِنْ مِصْر، وَالكَلِمَةُ مِنَ العَرَب.",
+    "de": "Die Baumwolle kommt aus Ägypten, und das Wort von den Arabern.",
+    "luecke": "القُطْنُ مِنْ مِصْر",
+    "gloss": "ال·قُطْن مِنْ مِصْر، وَ·ال·كَلِمَة مِنَ ال·عَرَب. | DEF·Baumwolle aus Ägypten, und·DEF·Wort von DEF·Araber.",
+    "umschrift": "al-quṭn min Miṣr, wal-kalima min al-ʿarab.",
+    "audio": "audio/ar-de/saetze/ka_09.mp3?v=d513d52a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الئُطُن مِن مَصِر، والكِلْمِة مِن العَرَب.",
+    "umschrift": "il-ʾuṭon min Maṣer, wil-kilme min il-ʿarab.",
+    "audio": "audio/ar-de/syrisch/ka_09.mp3?v=0bcd400d"
+   }
+  },
+  {
+   "id": "ka_10",
+   "thema": "kalimat",
+   "fr": "تَعْرِيفَة",
+   "de": "Tarif",
+   "register": "tu",
+   "anker": "عرف",
+   "notiz": "taʿrīfa = Bekanntmachung, Preisliste (von ʿarrafa, bekannt machen; Wurzel ʿ-r-f wie maʿrifa) → tariffa, tarif, Tarif. ḥāfila = Bus (Standard; Syrisch bāṣ). irtafaʿa = steigen (Stamm VIII von r-f-ʿ, heben). kānat qad = hatte (Plusquamperfekt).",
+   "audio": "audio/ar-de/wendungen/ka_10.mp3?v=21c29e86",
+   "gloss": "تَعْرِيفَة·ُ ال·حَافِلَة | Tarif·GEN DEF·Bus",
+   "umschrift": "taʿrīfat al-ḥāfila",
+   "wurzel": "ع-ر-ف",
+   "satz": {
+    "fr": "تَعْرِيفَةُ الحَافِلَةِ ارْتَفَعَتْ مِنْ جَدِيد.",
+    "de": "Der Bustarif ist schon wieder gestiegen.",
+    "luecke": "تَعْرِيفَةُ الحَافِلَة",
+    "gloss": "تَعْرِيفَة·ُ ال·حَافِلَة اِرْتَفَع·َتْ مِنْ جَدِيد. | Tarif·GEN DEF·Bus steigen·3SG.F von neu.",
+    "umschrift": "taʿrīfat al-ḥāfila rtafaʿat min jadīd.",
+    "audio": "audio/ar-de/saetze/ka_10.mp3?v=9f03451d"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "تَعْرِيفَةُ الحَافِلَةِ كَانَتْ قَدِ ارْتَفَعَتْ.",
+     "umschrift": "taʿrīfat al-ḥāfila kānat qad irtafaʿat.",
+     "audio": "audio/ar-de/saetze/ka_10_pc.mp3?v=96df0a9b"
+    },
+    "fp": {
+     "fr": "تَعْرِيفَةُ الحَافِلَةِ سَتَرْتَفِعُ مِنْ جَدِيد.",
+     "umschrift": "taʿrīfat al-ḥāfila sa-tartafiʿ min jadīd.",
+     "audio": "audio/ar-de/saetze/ka_10_fp.mp3?v=5395bf50"
+    }
+   },
+   "syrisch": {
+    "fr": "تَعْريفِة الباص غِلْيِت مِن جْديد.",
+    "umschrift": "taʿrīfet il-bāṣ ghilyet min jdīd.",
+    "audio": "audio/ar-de/syrisch/ka_10.mp3?v=15b74b58"
+   }
+  },
+  {
+   "id": "ka_11",
+   "thema": "kalimat",
+   "fr": "أَمِير",
+   "de": "Emir, Admiral",
+   "register": "tu",
+   "anker": "أمر",
+   "notiz": "amīr = Befehlshaber, Prinz (Wurzel ʾ-m-r, befehlen; amr = Sache, Befehl, Thema 2). amīr al-baḥr = Befehlshaber des Meeres → amiral, Admiral; Europa hielt das al- für einen Teil des Titels. ṣāra amīrālan: Akkusativ.",
+   "audio": "audio/ar-de/wendungen/ka_11.mp3?v=20c289b1",
+   "gloss": "ال·أَمِير صَار·َ أَمِيرَال·اً | DEF·Emir werden·3SG Admiral·AKK",
+   "umschrift": "al-amīr ṣāra amīrālan",
+   "wurzel": "أ-م-ر",
+   "satz": {
+    "fr": "الأَمِيرُ صَارَ أَمِيرَالاً فِي البَحْر.",
+    "de": "Der Emir wurde zum Admiral auf See.",
+    "luecke": "الأَمِيرُ صَارَ أَمِيرَالاً",
+    "gloss": "ال·أَمِير صَار·َ أَمِيرَال·اً فِي ال·بَحْر. | DEF·Emir werden·3SG Admiral·AKK in DEF·Meer.",
+    "umschrift": "al-amīr ṣāra amīrālan fī l-baḥr.",
+    "audio": "audio/ar-de/saetze/ka_11.mp3?v=c0d153e2"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الأَمير صار أَميرال بِالبَحْر.",
+    "umschrift": "il-amīr ṣār amīrāl bil-baḥr.",
+    "audio": "audio/ar-de/syrisch/ka_11.mp3?v=5d752845"
+   }
+  },
+  {
+   "id": "ka_12",
+   "thema": "kalimat",
+   "fr": "مَسْجِد",
+   "de": "Moschee, Mezquita",
+   "register": "tu",
+   "anker": "سجد",
+   "notiz": "masjid = Ort des Niederwerfens (sajada = sich niederwerfen; Ortsmuster mafʿil) → mezquita, moschea, mosquée, Moschee. jāmiʿ = die große Freitagsmoschee (Sammelort); der Umayyaden-Bau heißt beides. fī qalb = im Herzen.",
+   "audio": "audio/ar-de/wendungen/ka_12.mp3?v=d3216cd3",
+   "gloss": "ال·مَسْجِد ال·أُمَوِيّ | DEF·Moschee DEF·umayyadisch",
+   "umschrift": "al-masjid al-umawī",
+   "wurzel": "س-ج-د",
+   "satz": {
+    "fr": "المَسْجِدُ الأُمَوِيُّ فِي قَلْبِ دِمَشْق.",
+    "de": "Die Umayyaden-Moschee liegt im Herzen von Damaskus.",
+    "luecke": "المَسْجِدُ الأُمَوِيُّ فِي قَلْبِ دِمَشْق",
+    "gloss": "ال·مَسْجِد ال·أُمَوِيّ فِي قَلْب·ِ دِمَشْق. | DEF·Moschee DEF·umayyadisch in Herz·GEN Damaskus.",
+    "umschrift": "al-masjid al-umawī fī qalb Dimashq.",
+    "audio": "audio/ar-de/saetze/ka_12.mp3?v=2740f75c"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الجامِع الأُمَوي بْئَلْب الشّام.",
+    "umschrift": "ij-jāmeʿ il-umawī b-ʾalb ish-Shām.",
+    "audio": "audio/ar-de/syrisch/ka_12.mp3?v=0d4aa504"
+   }
+  },
+  {
+   "id": "ka_13",
+   "thema": "kalimat",
+   "fr": "كِتَاب",
+   "de": "Buch, kitap",
+   "register": "tu",
+   "anker": "كتب",
+   "notiz": "kitāb → kitap: das Türkische hat Tausende arabischer Wörter, mit türkischer Lautung (b wird p am Ende, lange Vokale kurz). Wer Türkisch gelernt hat, kennt schon ein Zehntel des arabischen Wortschatzes. nafsuhu = dasselbe.",
+   "audio": "audio/ar-de/wendungen/ka_13.mp3?v=78b8c551",
+   "gloss": "ال·كِتَاب نَفْس·ُهُ | DEF·Buch selbst·sein",
+   "umschrift": "al-kitāb nafsuhu",
+   "wurzel": "ك-ت-ب",
+   "satz": {
+    "fr": "الكِتَابُ نَفْسُهُ فِي اسْطَنْبُولَ وَدِمَشْق: kitap.",
+    "de": "Dasselbe Wort für Buch in Istanbul und Damaskus: kitap.",
+    "luecke": "الكِتَابُ نَفْسُهُ",
+    "gloss": "ال·كِتَاب نَفْس·ُهُ فِي اسْطَنْبُول وَ·دِمَشْق: kitap. | DEF·Buch selbst·sein in Istanbul und·Damaskus: kitap.",
+    "umschrift": "al-kitāb nafsuhu fī Isṭanbūl wa-Dimashq: kitap.",
+    "audio": "audio/ar-de/saetze/ka_13.mp3?v=a4b6dfa2"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "نَفْس الكْتاب بْاسْطَنْبول والشّام: kitap.",
+    "umschrift": "nafs il-ktāb b-Isṭanbūl wish-Shām: kitap.",
+    "audio": "audio/ar-de/syrisch/ka_13.mp3?v=c3bef35d"
+   }
+  },
+  {
+   "id": "ka_14",
+   "thema": "kalimat",
+   "fr": "سَاعَة",
+   "de": "Stunde, Uhr, saat",
+   "register": "tu",
+   "anker": "سوع",
+   "notiz": "sāʿa = Stunde und Uhr → saat (Türkisch, mit dem langen ā, das dort als zwei a geschrieben wird: deshalb die Mühe mit « altı saat »). ṣabruk ʿalayhā = deine Geduld mit ihr. ṭawīl = lang.",
+   "audio": "audio/ar-de/wendungen/ka_14.mp3?v=3083a889",
+   "gloss": "ال·سَاعَة كَلِمَة تُرْكِيَّة أَيْضًا | DEF·Stunde Wort türkisch.F auch",
+   "umschrift": "as-sāʿa kalima turkiyya ayḍan",
+   "wurzel": "س-و-ع",
+   "satz": {
+    "fr": "السَّاعَةُ كَلِمَةٌ تُرْكِيَّةٌ أَيْضًا، وَصَبْرُكَ عَلَيْهَا طَوِيل.",
+    "de": "Saat ist auch ein türkisches Wort, und deine Geduld mit ihm ist lang.",
+    "luecke": "السَّاعَةُ كَلِمَةٌ تُرْكِيَّةٌ أَيْضًا",
+    "gloss": "ال·سَاعَة كَلِمَة تُرْكِيَّة أَيْضًا، وَ·صَبْر·ُكَ عَلَيْ·هَا طَوِيل. | DEF·Stunde Wort türkisch.F auch, und·Geduld·dein auf·ihr lang.",
+    "umschrift": "as-sāʿa kalima turkiyya ayḍan, wa-ṣabruk ʿalayhā ṭawīl.",
+    "audio": "audio/ar-de/saetze/ka_14.mp3?v=7bc026d1"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "السّاعَة كِلْمِة تُرْكِيِّة كَمان، وصَبْرَك عَلَيها طَويل.",
+    "umschrift": "is-sāʿa kilme turkiyye kamān, w-ṣabrak ʿalēha ṭawīl.",
+    "audio": "audio/ar-de/syrisch/ka_14.mp3?v=790f7d4b"
+   }
+  },
+  {
+   "id": "ka_15",
+   "thema": "kalimat",
+   "fr": "الصَّبْرُ مِفْتَاحُ الفَرَج",
+   "de": "Geduld ist der Schlüssel zur Erlösung",
+   "register": "tu",
+   "anker": "صبر",
+   "notiz": "Das Sprichwort der ganzen Region: aṣ-ṣabr miftāḥ al-faraj (faraj = Erleichterung, Ausweg). ṣabr → sabır (Türkisch). miftāḥ aus Thema 5. mathal = Sprichwort, Beispiel (ḍaraba mathalan).",
+   "audio": "audio/ar-de/wendungen/ka_15.mp3?v=8d5dbdc6",
+   "gloss": "ال·صَبْر مِفْتَاح·ُ ال·فَرَج | DEF·Geduld Schlüssel·GEN DEF·Erlösung",
+   "umschrift": "aṣ-ṣabr miftāḥ al-faraj",
+   "wurzel": "ص-ب-ر",
+   "satz": {
+    "fr": "الصَّبْرُ مِفْتَاحُ الفَرَج، يَقُولُ المَثَل.",
+    "de": "Geduld ist der Schlüssel zur Erlösung, sagt das Sprichwort.",
+    "luecke": "الصَّبْرُ مِفْتَاحُ الفَرَج",
+    "gloss": "ال·صَبْر مِفْتَاح·ُ ال·فَرَج، يَ·قُول ال·مَثَل. | DEF·Geduld Schlüssel·GEN DEF·Erlösung, 3SG·sagen DEF·Sprichwort.",
+    "umschrift": "aṣ-ṣabr miftāḥ al-faraj, yaqūl al-mathal.",
+    "audio": "audio/ar-de/saetze/ka_15.mp3?v=5235b33b"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الصَّبِر مِفْتاح الفَرَج، بْيِئول المَتَل.",
+    "umschrift": "iṣ-ṣaber miftāḥ il-faraj, byʾūl il-matal.",
+    "audio": "audio/ar-de/syrisch/ka_15.mp3?v=bc1c1e3a"
+   }
+  },
+  {
+   "id": "ka_16",
+   "thema": "kalimat",
+   "fr": "حِكَايَة",
+   "de": "Geschichte, hikâye",
+   "register": "tu",
+   "anker": "حكى",
+   "notiz": "ḥikāya → hikâye (Türkisch, mit dem Zirkumflex für das arabische lange ā). kiltayhimā = in beiden (kiltā = beide, feminin, mit Suffix). bit-turkiyya = auf Türkisch.",
+   "audio": "audio/ar-de/wendungen/ka_16.mp3?v=eb9013e9",
+   "gloss": "حِكَايَة بِ·ال·عَرَبِيَّة | Geschichte in·DEF·Arabisch",
+   "umschrift": "ḥikāya bil-ʿarabiyya",
+   "wurzel": "ح-ك-ي",
+   "satz": {
+    "fr": "حِكَايَةٌ بِالعَرَبِيَّة، hikâye بِالتُّرْكِيَّة، وَالقِطُّ فِي كِلْتَيْهِمَا.",
+    "de": "Ḥikāya auf Arabisch, hikâye auf Türkisch, und die Katze in beiden.",
+    "luecke": "حِكَايَةٌ بِالعَرَبِيَّة",
+    "gloss": "حِكَايَة بِ·ال·عَرَبِيَّة، hikâye بِ·ال·تُرْكِيَّة، وَ·ال·قِطّ فِي كِلْتَيْ·هِمَا. | Geschichte in·DEF·Arabisch, hikâye in·DEF·Türkisch, und·DEF·Katze in beide·ihnen.",
+    "umschrift": "ḥikāya bil-ʿarabiyya, hikâye bit-turkiyya, wal-qiṭṭ fī kiltayhimā.",
+    "audio": "audio/ar-de/saetze/ka_16.mp3?v=b705511b"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "حْكايِة بِالعَرَبي، hikâye بِالتُّرْكي، والبِسّ بِالتْنين.",
+    "umschrift": "ḥkāye bil-ʿarabī, hikâye bit-turkī, wil-biss bit-tnēn.",
+    "audio": "audio/ar-de/syrisch/ka_16.mp3?v=5d3c405c"
+   }
+  },
+  {
+   "id": "ka_17",
+   "thema": "kalimat",
+   "fr": "دُنْيَا",
+   "de": "Welt, dünya",
+   "register": "tu",
+   "anker": "دنو",
+   "notiz": "dunyā = die (diesseitige) Welt (wörtlich: die nähere, von danā, nahe sein) → dünya (Türkisch), dunya (Persisch, Urdu, Swahili). ʿālam = Welt im Sinne von Kosmos (Thema 4). sāfara = reisen (Stamm III von s-f-r; safar = Reise, Safari!).",
+   "audio": "audio/ar-de/wendungen/ka_17.mp3?v=271f0306",
+   "gloss": "ال·دُنْيَا صَغِيرَة | DEF·Welt klein.F",
+   "umschrift": "ad-dunyā ṣaghīra",
+   "wurzel": "د-ن-و",
+   "satz": {
+    "fr": "الدُّنْيَا صَغِيرَة، وَالكَلِمَاتُ تُسَافِر.",
+    "de": "Die Welt ist klein, und die Wörter reisen.",
+    "luecke": "الدُّنْيَا صَغِيرَة",
+    "gloss": "ال·دُنْيَا صَغِيرَة، وَ·ال·كَلِمَات تُ·سَافِر. | DEF·Welt klein.F, und·DEF·Wörter 3SG.F·reisen.",
+    "umschrift": "ad-dunyā ṣaghīra, wal-kalimāt tusāfir.",
+    "audio": "audio/ar-de/saetze/ka_17.mp3?v=49470c79"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الدِّنْيِة زْغيرِة، والكَلِمات بِتْسافِر.",
+    "umschrift": "id-dinye zghīre, wil-kalimāt bitsāfer.",
+    "audio": "audio/ar-de/syrisch/ka_17.mp3?v=500a4c30"
+   }
+  },
+  {
+   "id": "ka_18",
+   "thema": "kalimat",
+   "fr": "زَيْت",
+   "de": "Öl, aceite",
+   "register": "tu",
+   "anker": "زيت",
+   "notiz": "az-zayt → aceite (Spanisch, mit dem Artikel: a-ceite), zaytūn → aceituna. Spanisch hat über 4000 arabische Wörter, fast alle mit al- davor: almohada, alcalde, azúcar. zayt az-zaytūn = Öl der Oliven (Modul 1: zayt).",
+   "audio": "audio/ar-de/wendungen/ka_18.mp3?v=c24f0e2b",
+   "gloss": "زَيْت·ُ ال·زَيْتُون | Öl·GEN DEF·Oliven",
+   "umschrift": "zayt az-zaytūn",
+   "wurzel": "ز-ي-ت",
+   "satz": {
+    "fr": "زَيْتُ الزَّيْتُونِ مِنَ الشَّام، وَالكَلِمَةُ فِي إِسْبَانِيَا.",
+    "de": "Das Olivenöl kommt aus der Levante, und das Wort ist in Spanien.",
+    "luecke": "زَيْتُ الزَّيْتُون",
+    "gloss": "زَيْت·ُ ال·زَيْتُون مِنَ ال·شَام، وَ·ال·كَلِمَة فِي إِسْبَانِيَا. | Öl·GEN DEF·Oliven aus DEF·Levante, und·DEF·Wort in Spanien.",
+    "umschrift": "zayt az-zaytūn min ash-Shām, wal-kalima fī Isbāniyā.",
+    "audio": "audio/ar-de/saetze/ka_18.mp3?v=e615c2d2"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "زيت الزَّيْتون مِن الشّام، والكِلْمِة بْإسْبانْيا.",
+    "umschrift": "zēt iz-zaytūn min ish-Shām, wil-kilme b-Isbānya.",
+    "audio": "audio/ar-de/syrisch/ka_18.mp3?v=13e250f8"
+   }
+  },
+  {
+   "id": "ka_19",
+   "thema": "kalimat",
+   "fr": "وَادِي",
+   "de": "Tal, Guadalquivir",
+   "register": "tu",
+   "anker": "ودي",
+   "notiz": "wādī = Tal, Flussbett → Guada- in Dutzenden spanischen Flussnamen: Guadalquivir = al-wādī l-kabīr, Guadalajara = wādī l-ḥijāra (Tal der Steine). al-Andalus = das maurische Spanien, Andalusien.",
+   "audio": "audio/ar-de/wendungen/ka_19.mp3?v=fdd16b2f",
+   "gloss": "وَادِي ال·كَبِير | Tal DEF·große",
+   "umschrift": "wādī l-kabīr",
+   "wurzel": "و-د-ي",
+   "satz": {
+    "fr": "وَادِي الكَبِيرِ نَهْرٌ فِي الأَنْدَلُس: Guadalquivir.",
+    "de": "Der große Fluss in Andalusien: Guadalquivir.",
+    "luecke": "وَادِي الكَبِير",
+    "gloss": "وَادِي ال·كَبِير نَهْر فِي ال·أَنْدَلُس: Guadalquivir. | Tal DEF·große Fluss in DEF·Andalusien: Guadalquivir.",
+    "umschrift": "wādī l-kabīr nahr fī l-Andalus: Guadalquivir.",
+    "audio": "audio/ar-de/saetze/ka_19.mp3?v=0e8ac421"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الوادي الكْبير نَهِر بِالأَنْدَلُس: Guadalquivir.",
+    "umschrift": "il-wādī l-kbīr naher bil-Andalus: Guadalquivir.",
+    "audio": "audio/ar-de/syrisch/ka_19.mp3?v=a0314317"
+   }
+  },
+  {
+   "id": "ka_20",
+   "thema": "kalimat",
+   "fr": "إِنْ شَاءَ الله",
+   "de": "so Gott will, ojalá",
+   "register": "tu",
+   "anker": "شاء",
+   "notiz": "in shāʾa llāh = wenn Gott will (Thema 1) → ojalá: das spanische « hoffentlich » ist der arabische Satz, abgeschliffen. hiya = sie (ist), das Pronomen als Kopula zwischen zwei bestimmten Nomen. nafsuhā = dieselbe.",
+   "audio": "audio/ar-de/wendungen/ka_20.mp3?v=7b972777",
+   "gloss": "« إِنْ شَاءَ الله » نَفْس·ُهَا | « wenn wollte Gott » selbst·sie",
+   "umschrift": "« in shāʾa llāh » nafsuhā",
+   "wurzel": "ش-ي-أ",
+   "satz": {
+    "fr": "« ojalá » الإِسْبَانِيَّةُ هِيَ « إِنْ شَاءَ الله » نَفْسُهَا.",
+    "de": "Das spanische « ojalá » ist genau « in schā' Allāh ».",
+    "luecke": "« إِنْ شَاءَ الله » نَفْسُهَا",
+    "gloss": "« ojalá » ال·إِسْبَانِيَّة هِيَ « إِنْ شَاءَ الله » نَفْس·ُهَا. | « ojalá » DEF·spanisch.F sie « wenn wollte Gott » selbst·sie.",
+    "umschrift": "« ojalá » al-isbāniyya hiya « in shāʾa llāh » nafsuhā.",
+    "audio": "audio/ar-de/saetze/ka_20.mp3?v=9735608a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "« ojalá » الإسْبانِيِّة هِيِّ « إنْ شاء الله » نَفْسا.",
+    "umschrift": "« ojalá » il-isbāniyye hiyye « in shāʾ aḷḷāh » nafsa.",
+    "audio": "audio/ar-de/syrisch/ka_20.mp3?v=b91ffcc6"
+   }
+  },
+  {
+   "id": "ka_21",
+   "thema": "kalimat",
+   "fr": "جَمَل",
+   "de": "Kamel",
+   "register": "tu",
+   "anker": "جمل",
+   "notiz": "jamal → camelus, Kamel (schon in der Antike entlehnt). jamāl = Schönheit, jamīl = schön: dieselbe Wurzel, denn das Kamel war das Schönste, was ein Beduine besaß. jadhr wāḥid = eine Wurzel.",
+   "audio": "audio/ar-de/wendungen/ka_21.mp3?v=575b26ee",
+   "gloss": "ال·جَمَل وَ·ال·جَمَال | DEF·Kamel und·DEF·Schönheit",
+   "umschrift": "al-jamal wal-jamāl",
+   "wurzel": "ج-م-ل",
+   "satz": {
+    "fr": "الجَمَلُ وَالجَمَالُ مِنْ جَذْرٍ وَاحِد: ج م ل.",
+    "de": "Kamel und Schönheit kommen aus einer Wurzel: j-m-l.",
+    "luecke": "الجَمَلُ وَالجَمَال",
+    "gloss": "ال·جَمَل وَ·ال·جَمَال مِنْ جَذْر وَاحِد: ج م ل. | DEF·Kamel und·DEF·Schönheit aus Wurzel eine: j m l.",
+    "umschrift": "al-jamal wal-jamāl min jadhr wāḥid: j m l.",
+    "audio": "audio/ar-de/saetze/ka_21.mp3?v=2b3c4279"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الجَمَل والجَمال مِن جِذِر واحِد: ج م ل.",
+    "umschrift": "ij-jamal wij-jamāl min jizer wāḥed: j m l.",
+    "audio": "audio/ar-de/syrisch/ka_21.mp3?v=1923e7a2"
+   }
+  },
+  {
+   "id": "ka_22",
+   "thema": "kalimat",
+   "fr": "زَعْفَرَان",
+   "de": "Safran",
+   "register": "tu",
+   "anker": "زعفران",
+   "notiz": "zaʿfarān → zafferano, azafrán, safran, Safran (und der Farbname). aghlā min = teurer als (Elativ von ghālin). dhahab = Gold (Modul 1). bil-ghrām = pro Gramm.",
+   "audio": "audio/ar-de/wendungen/ka_22.mp3?v=49c845f7",
+   "gloss": "ال·زَعْفَرَان أَغْلَى مِنَ ال·ذَهَب | DEF·Safran teurer als DEF·Gold",
+   "umschrift": "az-zaʿfarān aghlā min adh-dhahab",
+   "wurzel": "ز-ع-ف-ر",
+   "satz": {
+    "fr": "الزَّعْفَرَانُ أَغْلَى مِنَ الذَّهَبِ بِالغَرَام.",
+    "de": "Safran ist pro Gramm teurer als Gold.",
+    "luecke": "الزَّعْفَرَانُ أَغْلَى مِنَ الذَّهَب",
+    "gloss": "ال·زَعْفَرَان أَغْلَى مِنَ ال·ذَهَب بِ·ال·غَرَام. | DEF·Safran teurer als DEF·Gold mit·DEF·Gramm.",
+    "umschrift": "az-zaʿfarān aghlā min adh-dhahab bil-ghrām.",
+    "audio": "audio/ar-de/saetze/ka_22.mp3?v=5dbc88ab"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الزَّعْفَران أَغْلى مِن الدَّهَب بِالغْرام.",
+    "umschrift": "iz-zaʿfarān aghla min id-dahab bil-ghrām.",
+    "audio": "audio/ar-de/syrisch/ka_22.mp3?v=aeed90a3"
+   }
+  },
+  {
+   "id": "ka_23",
+   "thema": "kalimat",
+   "fr": "قِيثَارَة",
+   "de": "Gitarre",
+   "register": "tu",
+   "anker": "قيثارة",
+   "notiz": "qīthāra ← kithara (Griechisch) → guitarra, guitare, Gitarre: ein Wort, das nach Arabien reiste und zurückkam. Die Oud (Thema 4) ging denselben Weg: al-ʿūd → laúd → Laute. marrat bi- = kam vorbei bei, ging über.",
+   "audio": "audio/ar-de/wendungen/ka_23.mp3?v=414b72bb",
+   "gloss": "ال·قِيثَارَة مِنَ ال·يُونَان | DEF·Gitarre aus DEF·Griechenland",
+   "umschrift": "al-qīthāra min al-Yūnān",
+   "wurzel": "ق-ث-ر",
+   "satz": {
+    "fr": "القِيثَارَةُ مِنَ اليُونَان، وَمَرَّتْ بِالعَرَبِ إِلَى إِسْبَانِيَا.",
+    "de": "Die Gitarre kommt aus Griechenland und ging über die Araber nach Spanien.",
+    "luecke": "القِيثَارَةُ مِنَ اليُونَان",
+    "gloss": "ال·قِيثَارَة مِنَ ال·يُونَان، وَ·مَرّ·َتْ بِ·ال·عَرَب إِلَى إِسْبَانِيَا. | DEF·Gitarre aus DEF·Griechenland, und·vorbeikommen·3SG.F bei·DEF·Araber nach Spanien.",
+    "umschrift": "al-qīthāra min al-Yūnān, wa-marrat bil-ʿarab ilā Isbāniyā.",
+    "audio": "audio/ar-de/saetze/ka_23.mp3?v=fd3c221b"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الجيتار مِن اليونان، ومَرِّت بِالعَرَب لَإسْبانْيا.",
+    "umschrift": "ij-jītār min il-Yūnān, w-marret bil-ʿarab la-Isbānya.",
+    "audio": "audio/ar-de/syrisch/ka_23.mp3?v=a14e87d7"
+   }
+  },
+  {
+   "id": "ka_24",
+   "thema": "kalimat",
+   "fr": "مَجْلِس",
+   "de": "Madschlis, meclis",
+   "register": "vous",
+   "anker": "جلس",
+   "notiz": "majlis = Sitzungsort, Rat, Parlament (von jalasa, sitzen; Ortsmuster) → meclis (Türkisch: das Parlament). Zwei Passive: yushrab = wird getrunken, yuttakhadh = wird gefasst (ittakhadha, Stamm VIII). lāḥiqan = später. ḥaḍratuk als höfliche Anrede am Ende.",
+   "audio": "audio/ar-de/wendungen/ka_24.mp3?v=4733703f",
+   "gloss": "فِي ال·مَجْلِس يُ·شْرَب ال·شَاي | in DEF·Rat PASS·trinken DEF·Tee",
+   "umschrift": "fī l-majlis yushrab ash-shāy",
+   "wurzel": "ج-ل-س",
+   "satz": {
+    "fr": "فِي المَجْلِسِ يُشْرَبُ الشَّاي، وَيُتَّخَذُ القَرَارُ لاحِقًا، حَضْرَتُك.",
+    "de": "Im Madschlis wird Tee getrunken, und die Entscheidung fällt später, mein Herr.",
+    "luecke": "فِي المَجْلِسِ يُشْرَبُ الشَّاي",
+    "gloss": "فِي ال·مَجْلِس يُ·شْرَب ال·شَاي، وَ·يُ·تَّخَذ ال·قَرَار لاحِقًا، حَضْرَت·ُك. | in DEF·Rat PASS·trinken DEF·Tee, und·PASS·fassen DEF·Entscheidung später, Gegenwart·Ihr.",
+    "umschrift": "fī l-majlis yushrab ash-shāy, wa-yuttakhadh al-qarār lāḥiqan, ḥaḍratuk.",
+    "audio": "audio/ar-de/saetze/ka_24.mp3?v=a0f6ba2f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِالمَجْلِس بْيِنْشَرَب الشّاي، والقَرار بْيِنْأَخَد بَعْدين، حَضِرْتَك.",
+    "umschrift": "bil-majlis byinsharab ish-shāy, wil-ʾarār byinʾakhad baʿdēn, ḥaḍirtak.",
+    "audio": "audio/ar-de/syrisch/ka_24.mp3?v=796b916a"
+   }
   }
  ],
  "dialoge": [
@@ -12256,6 +12947,231 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 1
     }
    ]
+  },
+  {
+   "id": "g_kalimat",
+   "thema": "kalimat",
+   "titel": "الجُمْلَةُ الفِعْلِيَّةُ وَالاسْمِيَّة",
+   "de": "Die zwei Satzarten, und die Landkarte der neun Lektionen",
+   "regel": [
+    "Arabisch hat zwei Satzarten. Der Verbalsatz beginnt mit dem Verb: ḍaḥika l-aṭfāl, zalla lisānī, inkasara ṭ-ṭillasm. Das Verb vorn steht immer im Singular, auch wenn ein Plural folgt (ḍaḥika l-aṭfāl, nicht ḍaḥikū), und richtet sich nur im Genus: ṣarakhat al-ḥāra. Der Nominalsatz beginnt mit dem Nomen: al-aṭfāl yakbarūn, al-qiṭṭ yantaẓir, mizājī jayyid. Hier richtet sich das Verb in allem nach dem Subjekt, auch im Plural (yakbarūn). Der Nominalsatz betont das Subjekt (was ist mit den Kindern?), der Verbalsatz das Geschehen (was ist passiert?). Der Zustandssatz hängt mit wa- an: yajlis ʿalā l-awrāq wa-anā uṣaḥḥiḥ.",
+    "Die Landkarte: Lektion 0 gab den Satz ohne Verb und die Suffixe, 1 die Wurzel und die zwei Zeiten, 2 das Genus, 3 die Besitzkette und den Dual, 4 die Konjugation ganz, 5 kāna und die Relativsätze, 6 Imperativ und maṣdar, 7 Zahlen und Uhrzeit, 8 die Plurale und die hörbaren Endungen. Mit diesen neun Stücken lässt sich jeder Satz der App zerlegen. Was fehlt, ist der Konjunktiv nach an und li- im Detail, das Passiv (yushrab, yuttakhadh, wulida) und die Stämme über X hinaus. Die hört man, die braucht man nicht zu bauen."
+   ],
+   "morphem": [
+    "3SG",
+    "3SG.F",
+    "PL",
+    "PASS"
+   ],
+   "beispiele": [
+    {
+     "fr": "دَخَلَ القِطُّ الصُّنْدُوق، فَضَحِكَ الأَطْفَالُ بِصَوْتٍ عَالٍ.",
+     "de": "Die Katze stieg in die Kiste, und die Kinder lachten laut.",
+     "gloss": "دَخَل·َ ال·قِطّ ال·صُنْدُوق، فَ·ضَحِك·َ ال·أَطْفَال بِ·صَوْت عَالٍ. | hineingehen·3SG DEF·Katze DEF·Kiste, da·lachen·3SG DEF·Kinder mit·Stimme hoch.",
+     "umschrift": "dakhala l-qiṭṭ aṣ-ṣundūq, fa-ḍaḥika l-aṭfāl bi-ṣawt ʿālin.",
+     "audio": "audio/ar-de/saetze/at_20.mp3?v=a0f3f8a6",
+     "hinweis": "ḍaḥika l-aṭfāl: Verbalsatz, das Verb vorn bleibt Singular."
+    },
+    {
+     "fr": "الأَطْفَالُ يَكْبَرُونَ بِسُرْعَة، وَالبَنَاطِيلُ لا تَلْحَق.",
+     "de": "Kinder werden schnell groß, und die Hosen kommen nicht hinterher.",
+     "gloss": "ال·أَطْفَال يَ·كْبَر·ُون بِ·سُرْعَة، وَ·ال·بَنَاطِيل لا تَ·لْحَق. | DEF·Kinder 3·groß.werden·PL mit·Schnelligkeit, und·DEF·Hosen nicht 3SG.F·hinterherkommen.",
+     "umschrift": "al-aṭfāl yakbarūn bi-surʿa, wal-banāṭīl lā talḥaq.",
+     "audio": "audio/ar-de/saetze/at_07.mp3?v=d94afc68",
+     "hinweis": "al-aṭfāl yakbarūn: Nominalsatz, das Verb folgt im Plural."
+    },
+    {
+     "fr": "سَجَّلْنَا هَدَفًا فِي الدَّقِيقَةِ الأَخِيرَة، وَالحَارَةُ صَرَخَتْ.",
+     "de": "Wir haben in der letzten Minute ein Tor geschossen, und das Viertel hat geschrien.",
+     "gloss": "سَجَّل·ْنَا هَدَف·ًا فِي ال·دَقِيقَة ال·أَخِيرَة، وَ·ال·حَارَة صَرَخ·َتْ. | erzielen·1PL Tor·AKK in DEF·Minute DEF·letzte, und·DEF·Viertel schreien·3SG.F.",
+     "umschrift": "sajjalnā hadafan fī d-daqīqa l-akhīra, wal-ḥāra ṣarakhat.",
+     "audio": "audio/ar-de/saetze/ri_15.mp3?v=c32057c4",
+     "hinweis": "ṣarakhat al-ḥāra: Verbalsatz, nur das Genus passt sich an."
+    },
+    {
+     "fr": "يَجْلِسُ عَلَى الأَوْرَاقِ وَأَنَا أُصَحِّح.",
+     "de": "Er sitzt auf den Arbeiten, während ich korrigiere.",
+     "gloss": "يَ·جْلِس عَلَى ال·أَوْرَاق وَ·أَنَا أُ·صَحِّح. | 3SG·sitzen auf DEF·Blätter und·ich 1SG·korrigieren.",
+     "umschrift": "yajlis ʿalā l-awrāq wa-anā uṣaḥḥiḥ.",
+     "audio": "audio/ar-de/saetze/qi_08.mp3?v=e78cae6e",
+     "hinweis": "wa-anā uṣaḥḥiḥ: der Zustandssatz mit wa-."
+    },
+    {
+     "fr": "فِي المَجْلِسِ يُشْرَبُ الشَّاي، وَيُتَّخَذُ القَرَارُ لاحِقًا، حَضْرَتُك.",
+     "de": "Im Madschlis wird Tee getrunken, und die Entscheidung fällt später, mein Herr.",
+     "gloss": "فِي ال·مَجْلِس يُ·شْرَب ال·شَاي، وَ·يُ·تَّخَذ ال·قَرَار لاحِقًا، حَضْرَت·ُك. | in DEF·Rat PASS·trinken DEF·Tee, und·PASS·fassen DEF·Entscheidung später, Gegenwart·Ihr.",
+     "umschrift": "fī l-majlis yushrab ash-shāy, wa-yuttakhadh al-qarār lāḥiqan, ḥaḍratuk.",
+     "audio": "audio/ar-de/saetze/ka_24.mp3?v=a0f6ba2f",
+     "hinweis": "yushrab, yuttakhadh: zwei Passive, am u-a-Muster erkennbar."
+    },
+    {
+     "fr": "وُلِدَ طِفْلُ الجِيرَان، وَالبِنَايَةُ كُلُّهَا ذَهَبَتْ تَرَاه.",
+     "de": "Das Baby der Nachbarn ist geboren, und das ganze Haus ging es ansehen.",
+     "gloss": "وُلِد·َ طِفْل·ُ ال·جِيرَان، وَ·ال·بِنَايَة كُلّ·ُهَا ذَهَب·َتْ تَ·رَا·ه. | geboren.werden·3SG Kind·GEN DEF·Nachbarn, und·DEF·Gebäude ganz·es gehen·3SG.F 3SG.F·sehen·es.",
+     "umschrift": "wulida ṭifl al-jīrān, wal-bināya kulluhā dhahabat tarāh.",
+     "audio": "audio/ar-de/saetze/at_05.mp3?v=85eb5dca",
+     "hinweis": "wulida: Passiv der Vergangenheit, u-i."
+    },
+    {
+     "fr": "« ojalá » الإِسْبَانِيَّةُ هِيَ « إِنْ شَاءَ الله » نَفْسُهَا.",
+     "de": "Das spanische « ojalá » ist genau « in schā' Allāh ».",
+     "gloss": "« ojalá » ال·إِسْبَانِيَّة هِيَ « إِنْ شَاءَ الله » نَفْس·ُهَا. | « ojalá » DEF·spanisch.F sie « wenn wollte Gott » selbst·sie.",
+     "umschrift": "« ojalá » al-isbāniyya hiya « in shāʾa llāh » nafsuhā.",
+     "audio": "audio/ar-de/saetze/ka_20.mp3?v=9735608a",
+     "hinweis": "hiya als Kopula zwischen zwei bestimmten Nomen."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "ḍaḥika l-aṭfāl",
+     "b": "al-aṭfāl ḍaḥikū",
+     "text": "die Kinder lachten (Verbalsatz, Singular) – die Kinder, sie lachten (Nominalsatz, Plural)"
+    },
+    {
+     "a": "dhahabat al-bināya",
+     "b": "al-bināya dhahabat",
+     "text": "das Haus ging (Verb vorn) – das Haus, es ging (Nomen vorn)"
+    },
+    {
+     "a": "shariba",
+     "b": "shuriba",
+     "text": "er trank – es wurde getrunken (Passiv u-i)"
+    },
+    {
+     "a": "yashrab",
+     "b": "yushrab",
+     "text": "er trinkt – es wird getrunken (Passiv u-a)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "Verb vorn + al-aṭfāl (lachen, Vergangenheit)",
+     "antworten": [
+      "ḍaḥika l-aṭfāl",
+      "ḍaḥikū l-aṭfāl",
+      "ḍaḥikat al-aṭfāl"
+     ]
+    },
+    {
+     "formel": "Nomen vorn + al-aṭfāl (wachsen)",
+     "antworten": [
+      "al-aṭfāl yakbarūn",
+      "al-aṭfāl yakbar",
+      "al-aṭfāl takbur"
+     ]
+    },
+    {
+     "formel": "Verb vorn + al-ḥāra (schreien)",
+     "antworten": [
+      "ṣarakhat al-ḥāra",
+      "ṣarakha l-ḥāra",
+      "ṣarakhū l-ḥāra"
+     ]
+    },
+    {
+     "formel": "shariba + Passiv (Präsens)",
+     "antworten": [
+      "yushrab",
+      "yashrab",
+      "shuriba"
+     ]
+    },
+    {
+     "formel": "walada + Passiv (Vergangenheit)",
+     "antworten": [
+      "wulida",
+      "walada",
+      "yūlad"
+     ]
+    },
+    {
+     "formel": "Zustandssatz: « und ich korrigiere »",
+     "antworten": [
+      "wa-anā uṣaḥḥiḥ",
+      "wa-uṣaḥḥiḥ anā",
+      "fa-anā uṣaḥḥiḥ"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz beginnt mit dem Verb (Verbalsatz)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "دَخَلَ القِطُّ الصُّنْدُوق، فَضَحِكَ الأَطْفَالُ بِصَوْتٍ عَالٍ.",
+       "de": "Die Katze stieg in die Kiste, und die Kinder lachten laut.",
+       "gloss": "دَخَل·َ ال·قِطّ ال·صُنْدُوق، فَ·ضَحِك·َ ال·أَطْفَال بِ·صَوْت عَالٍ. | hineingehen·3SG DEF·Katze DEF·Kiste, da·lachen·3SG DEF·Kinder mit·Stimme hoch.",
+       "umschrift": "dakhala l-qiṭṭ aṣ-ṣundūq, fa-ḍaḥika l-aṭfāl bi-ṣawt ʿālin.",
+       "audio": "audio/ar-de/saetze/at_20.mp3?v=a0f3f8a6"
+      },
+      {
+       "fr": "الأَطْفَالُ يَكْبَرُونَ بِسُرْعَة، وَالبَنَاطِيلُ لا تَلْحَق.",
+       "de": "Kinder werden schnell groß, und die Hosen kommen nicht hinterher.",
+       "gloss": "ال·أَطْفَال يَ·كْبَر·ُون بِ·سُرْعَة، وَ·ال·بَنَاطِيل لا تَ·لْحَق. | DEF·Kinder 3·groß.werden·PL mit·Schnelligkeit, und·DEF·Hosen nicht 3SG.F·hinterherkommen.",
+       "umschrift": "al-aṭfāl yakbarūn bi-surʿa, wal-banāṭīl lā talḥaq.",
+       "audio": "audio/ar-de/saetze/at_07.mp3?v=d94afc68"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "سَجَّلْنَا هَدَفًا فِي الدَّقِيقَةِ الأَخِيرَة، وَالحَارَةُ صَرَخَتْ.",
+       "de": "Wir haben in der letzten Minute ein Tor geschossen, und das Viertel hat geschrien.",
+       "gloss": "سَجَّل·ْنَا هَدَف·ًا فِي ال·دَقِيقَة ال·أَخِيرَة، وَ·ال·حَارَة صَرَخ·َتْ. | erzielen·1PL Tor·AKK in DEF·Minute DEF·letzte, und·DEF·Viertel schreien·3SG.F.",
+       "umschrift": "sajjalnā hadafan fī d-daqīqa l-akhīra, wal-ḥāra ṣarakhat.",
+       "audio": "audio/ar-de/saetze/ri_15.mp3?v=c32057c4"
+      },
+      {
+       "fr": "المُبَارَاةُ السَّاعَةَ التَّاسِعَةَ مَسَاءً، وَالشَّايُ جَاهِز.",
+       "de": "Das Spiel ist um neun Uhr abends, und der Tee ist fertig.",
+       "gloss": "ال·مُبَارَاة ال·سَاعَة ال·تَاسِعَة مَسَاءً، وَ·ال·شَاي جَاهِز. | DEF·Spiel DEF·Stunde DEF·neunte abends, und·DEF·Tee fertig.",
+       "umschrift": "al-mubārāt as-sāʿa t-tāsiʿa masāʾan, wash-shāy jāhiz.",
+       "audio": "audio/ar-de/saetze/ri_14.mp3?v=c302faa0"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "اِنْكَسَرَ الطِّلَّسْم، وَالأَمِيرُ ضِفْدَعٌ مِنْ جَدِيد.",
+       "de": "Der Bann ist gebrochen, und der Prinz ist wieder ein Frosch.",
+       "gloss": "اِنْكَسَر·َ ال·طِلَّسْم، وَ·ال·أَمِير ضِفْدَع مِنْ جَدِيد. | zerbrechen·3SG DEF·Bann, und·DEF·Prinz Frosch von neu.",
+       "umschrift": "inkasara ṭ-ṭillasm, wal-amīr ḍifdaʿ min jadīd.",
+       "audio": "audio/ar-de/saetze/hk_14.mp3?v=c6616e3f"
+      },
+      {
+       "fr": "فِي الغَابَةِ المَسْحُورَةِ تَتَكَلَّمُ الأَشْجَار، وَلَكِنْ هَمْسًا.",
+       "de": "Im Zauberwald sprechen die Bäume, aber im Flüsterton.",
+       "gloss": "فِي ال·غَابَة ال·مَسْحُورَة تَ·تَكَلَّم ال·أَشْجَار، وَ·لَكِنْ هَمْسًا. | in DEF·Wald DEF·verzaubert.F 3SG.F·sprechen DEF·Bäume, und·aber flüsternd.",
+       "umschrift": "fī l-ghāba l-masḥūra tatakallam al-ashjār, wa-lākin hamsan.",
+       "audio": "audio/ar-de/saetze/hk_13.mp3?v=4ebdfedb"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "زَلَّ لِسَانِي، ضَحِكَ الصَّفّ.",
+       "de": "Mir ist die Zunge ausgerutscht, die Klasse lachte.",
+       "gloss": "زَلّ·َ لِسَان·ِي، ضَحِك·َ ال·صَفّ. | ausrutschen·3SG Zunge·mein, lachen·3SG DEF·Klasse.",
+       "umschrift": "zalla lisānī, ḍaḥika ṣ-ṣaff.",
+       "audio": "audio/ar-de/saetze/mq_09.mp3?v=8d8c17d1"
+      },
+      {
+       "fr": "النَّبْرَةُ تَتَغَيَّرُ مَعَ المَقْطَع، لَيْسَ دَائِمًا فِي الآخِر.",
+       "de": "Die Betonung wechselt mit der Silbe, nicht immer am Ende.",
+       "gloss": "ال·نَبْرَة تَ·تَغَيَّر مَعَ ال·مَقْطَع، لَيْسَ دَائِمًا فِي ال·آخِر. | DEF·Betonung 3SG.F·sich.ändern mit DEF·Silbe, ist.nicht immer in DEF·Ende.",
+       "umschrift": "an-nabra tataghayyar maʿa l-maqṭaʿ, laysa dāʾiman fī l-ākhir.",
+       "audio": "audio/ar-de/saetze/mq_08.mp3?v=20d23dbb"
+      }
+     ],
+     "richtig": 0
+    }
+   ]
   }
  ],
  "anekdoten": [
@@ -14550,6 +15466,32 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/saetze/hk_22.mp3?v=937428da",
   "audio/ar-de/saetze/hk_23.mp3?v=d774f4a6",
   "audio/ar-de/saetze/hk_24.mp3?v=f8e61278",
+  "audio/ar-de/saetze/ka_01.mp3?v=6054d238",
+  "audio/ar-de/saetze/ka_02.mp3?v=69e318bb",
+  "audio/ar-de/saetze/ka_03.mp3?v=2c4e528c",
+  "audio/ar-de/saetze/ka_04.mp3?v=2489653a",
+  "audio/ar-de/saetze/ka_05.mp3?v=0c30c187",
+  "audio/ar-de/saetze/ka_06.mp3?v=1cb611f0",
+  "audio/ar-de/saetze/ka_07.mp3?v=60f98b7f",
+  "audio/ar-de/saetze/ka_08.mp3?v=1660f8c8",
+  "audio/ar-de/saetze/ka_09.mp3?v=d513d52a",
+  "audio/ar-de/saetze/ka_10.mp3?v=9f03451d",
+  "audio/ar-de/saetze/ka_10_fp.mp3?v=5395bf50",
+  "audio/ar-de/saetze/ka_10_pc.mp3?v=96df0a9b",
+  "audio/ar-de/saetze/ka_11.mp3?v=c0d153e2",
+  "audio/ar-de/saetze/ka_12.mp3?v=2740f75c",
+  "audio/ar-de/saetze/ka_13.mp3?v=a4b6dfa2",
+  "audio/ar-de/saetze/ka_14.mp3?v=7bc026d1",
+  "audio/ar-de/saetze/ka_15.mp3?v=5235b33b",
+  "audio/ar-de/saetze/ka_16.mp3?v=b705511b",
+  "audio/ar-de/saetze/ka_17.mp3?v=49470c79",
+  "audio/ar-de/saetze/ka_18.mp3?v=e615c2d2",
+  "audio/ar-de/saetze/ka_19.mp3?v=0e8ac421",
+  "audio/ar-de/saetze/ka_20.mp3?v=9735608a",
+  "audio/ar-de/saetze/ka_21.mp3?v=2b3c4279",
+  "audio/ar-de/saetze/ka_22.mp3?v=5dbc88ab",
+  "audio/ar-de/saetze/ka_23.mp3?v=fd3c221b",
+  "audio/ar-de/saetze/ka_24.mp3?v=a0f6ba2f",
   "audio/ar-de/saetze/mq_01.mp3?v=3432bc37",
   "audio/ar-de/saetze/mq_01_fp.mp3?v=58151480",
   "audio/ar-de/saetze/mq_01_pc.mp3?v=4af4c2bd",
@@ -14838,6 +15780,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/hk_22.mp3?v=eb4d465a",
   "audio/ar-de/syrisch/hk_23.mp3?v=875adb55",
   "audio/ar-de/syrisch/hk_24.mp3?v=a6fb5233",
+  "audio/ar-de/syrisch/ka_01.mp3?v=a11b05b6",
+  "audio/ar-de/syrisch/ka_02.mp3?v=ea65f7c5",
+  "audio/ar-de/syrisch/ka_03.mp3?v=f6bc3518",
+  "audio/ar-de/syrisch/ka_04.mp3?v=4f652957",
+  "audio/ar-de/syrisch/ka_05.mp3?v=3682b021",
+  "audio/ar-de/syrisch/ka_06.mp3?v=095de2bb",
+  "audio/ar-de/syrisch/ka_07.mp3?v=172bbe13",
+  "audio/ar-de/syrisch/ka_08.mp3?v=3a70f47e",
+  "audio/ar-de/syrisch/ka_09.mp3?v=0bcd400d",
+  "audio/ar-de/syrisch/ka_10.mp3?v=15b74b58",
+  "audio/ar-de/syrisch/ka_11.mp3?v=5d752845",
+  "audio/ar-de/syrisch/ka_12.mp3?v=0d4aa504",
+  "audio/ar-de/syrisch/ka_13.mp3?v=c3bef35d",
+  "audio/ar-de/syrisch/ka_14.mp3?v=790f7d4b",
+  "audio/ar-de/syrisch/ka_15.mp3?v=bc1c1e3a",
+  "audio/ar-de/syrisch/ka_16.mp3?v=5d3c405c",
+  "audio/ar-de/syrisch/ka_17.mp3?v=500a4c30",
+  "audio/ar-de/syrisch/ka_18.mp3?v=13e250f8",
+  "audio/ar-de/syrisch/ka_19.mp3?v=a0314317",
+  "audio/ar-de/syrisch/ka_20.mp3?v=b91ffcc6",
+  "audio/ar-de/syrisch/ka_21.mp3?v=1923e7a2",
+  "audio/ar-de/syrisch/ka_22.mp3?v=aeed90a3",
+  "audio/ar-de/syrisch/ka_23.mp3?v=a14e87d7",
+  "audio/ar-de/syrisch/ka_24.mp3?v=796b916a",
   "audio/ar-de/syrisch/mq_01.mp3?v=2703c33f",
   "audio/ar-de/syrisch/mq_02.mp3?v=63508fd1",
   "audio/ar-de/syrisch/mq_03.mp3?v=93901815",
@@ -15054,6 +16020,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/wendungen/hk_22.mp3?v=1d501a02",
   "audio/ar-de/wendungen/hk_23.mp3?v=b163a423",
   "audio/ar-de/wendungen/hk_24.mp3?v=ed6e2cac",
+  "audio/ar-de/wendungen/ka_01.mp3?v=5005665c",
+  "audio/ar-de/wendungen/ka_02.mp3?v=d2ceb938",
+  "audio/ar-de/wendungen/ka_03.mp3?v=724bb40f",
+  "audio/ar-de/wendungen/ka_04.mp3?v=c004a5a8",
+  "audio/ar-de/wendungen/ka_05.mp3?v=2726df9f",
+  "audio/ar-de/wendungen/ka_06.mp3?v=4b672c1c",
+  "audio/ar-de/wendungen/ka_07.mp3?v=d9edb19d",
+  "audio/ar-de/wendungen/ka_08.mp3?v=61fb08b6",
+  "audio/ar-de/wendungen/ka_09.mp3?v=370c4674",
+  "audio/ar-de/wendungen/ka_10.mp3?v=21c29e86",
+  "audio/ar-de/wendungen/ka_11.mp3?v=20c289b1",
+  "audio/ar-de/wendungen/ka_12.mp3?v=d3216cd3",
+  "audio/ar-de/wendungen/ka_13.mp3?v=78b8c551",
+  "audio/ar-de/wendungen/ka_14.mp3?v=3083a889",
+  "audio/ar-de/wendungen/ka_15.mp3?v=8d5dbdc6",
+  "audio/ar-de/wendungen/ka_16.mp3?v=eb9013e9",
+  "audio/ar-de/wendungen/ka_17.mp3?v=271f0306",
+  "audio/ar-de/wendungen/ka_18.mp3?v=c24f0e2b",
+  "audio/ar-de/wendungen/ka_19.mp3?v=fdd16b2f",
+  "audio/ar-de/wendungen/ka_20.mp3?v=7b972777",
+  "audio/ar-de/wendungen/ka_21.mp3?v=575b26ee",
+  "audio/ar-de/wendungen/ka_22.mp3?v=49c845f7",
+  "audio/ar-de/wendungen/ka_23.mp3?v=414b72bb",
+  "audio/ar-de/wendungen/ka_24.mp3?v=4733703f",
   "audio/ar-de/wendungen/mq_01.mp3?v=a40e38ab",
   "audio/ar-de/wendungen/mq_02.mp3?v=058cddb9",
   "audio/ar-de/wendungen/mq_03.mp3?v=7785dc21",
