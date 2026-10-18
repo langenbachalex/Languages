@@ -566,6 +566,38 @@ window.SPRACHEN["ar-de"] = {
     "ri_23",
     "ri_24"
    ]
+  },
+  {
+   "id": "taam",
+   "name": "الطَّعَامُ وَالعَافِيَة",
+   "de": "Essen und Wohlbefinden",
+   "symbol": "🥙",
+   "wendungen": [
+    "ta2_01",
+    "ta2_02",
+    "ta2_03",
+    "ta2_04",
+    "ta2_05",
+    "ta2_06",
+    "ta2_07",
+    "ta2_08",
+    "ta2_09",
+    "ta2_10",
+    "ta2_11",
+    "ta2_12",
+    "ta2_13",
+    "ta2_14",
+    "ta2_15",
+    "ta2_16",
+    "ta2_17",
+    "ta2_18",
+    "ta2_19",
+    "ta2_20",
+    "ta2_21",
+    "ta2_22",
+    "ta2_23",
+    "ta2_24"
+   ]
   }
  ],
  "wendungen": [
@@ -5378,6 +5410,731 @@ window.SPRACHEN["ar-de"] = {
     "fr": "ما مْنِسْتَسْلِم، جَوْلِة تانْيِة.",
     "umschrift": "mā mnistaslem, jawle tānye.",
     "audio": "audio/ar-de/syrisch/ri_24.mp3?v=aed39154"
+   }
+  },
+  {
+   "id": "ta2_01",
+   "thema": "taam",
+   "fr": "آكُلُ بِتَوَازُن",
+   "de": "ich esse ausgewogen",
+   "register": "tu",
+   "anker": "أكل",
+   "notiz": "akala / yaʾkul = essen; ākul = ich esse (Hamza + ā wie ākhudh). bi-tawāzun = mit Gleichgewicht (Thema 6). kaʿk = der Sesamring, das Simit von Damaskus. jubna = Käse.",
+   "audio": "audio/ar-de/wendungen/ta2_01.mp3?v=95b6852b",
+   "gloss": "آ·كُل بِ·تَوَازُن | 1SG·essen mit·Gleichgewicht",
+   "umschrift": "ākul bi-tawāzun",
+   "wurzel": "أ-ك-ل",
+   "satz": {
+    "fr": "آكُلُ بِتَوَازُن: كَعْك، شَاي، وَجُبْنَة.",
+    "de": "Ich esse ausgewogen: Kaak, Tee und Käse.",
+    "luecke": "آكُلُ بِتَوَازُن",
+    "gloss": "آ·كُل بِ·تَوَازُن: كَعْك، شَاي، وَ·جُبْنَة. | 1SG·essen mit·Gleichgewicht: Kaak, Tee, und·Käse.",
+    "umschrift": "ākul bi-tawāzun: kaʿk, shāy, wa-jubna.",
+    "audio": "audio/ar-de/saetze/ta2_01.mp3?v=7da2b0ae"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ أَكَلْتُ بِتَوَازُن: كَعْك، شَاي، وَجُبْنَة.",
+     "umschrift": "amsi akaltu bi-tawāzun: kaʿk, shāy, wa-jubna.",
+     "audio": "audio/ar-de/saetze/ta2_01_pc.mp3?v=c0a53525"
+    },
+    "fp": {
+     "fr": "غَدًا سَآكُلُ بِتَوَازُن: كَعْك، شَاي، وَجُبْنَة.",
+     "umschrift": "ghadan sa-ākul bi-tawāzun: kaʿk, shāy, wa-jubna.",
+     "audio": "audio/ar-de/saetze/ta2_01_fp.mp3?v=adc646ea"
+    }
+   },
+   "syrisch": {
+    "fr": "بآكُل بْتَوازُن: كَعْك، شاي، وجِبْنِة.",
+    "umschrift": "bākol b-tawāzon: kaʿk, shāy, w-jibne.",
+    "audio": "audio/ar-de/syrisch/ta2_01.mp3?v=8ff8e75a"
+   }
+  },
+  {
+   "id": "ta2_02",
+   "thema": "taam",
+   "fr": "أَنَامُ مُبَكِّرًا",
+   "de": "ich gehe früh schlafen",
+   "register": "tu",
+   "anker": "نام",
+   "notiz": "nāma / yanām = schlafen (Thema 3); nim-tu = ich schlief (hohles Verb wird kurz: i statt ā, Lektion 4). mubakkiran = früh (von bakkara; bukra = morgen, Syrisch). Gegenteil: mutaʾakhkhiran.",
+   "audio": "audio/ar-de/wendungen/ta2_02.mp3?v=3736096e",
+   "gloss": "أَ·نَام مُبَكِّر·ًا | 1SG·schlafen früh·AKK",
+   "umschrift": "anām mubakkiran",
+   "wurzel": "ن-و-م",
+   "satz": {
+    "fr": "اللَّيْلَةَ أَنَامُ مُبَكِّرًا، غَدًا امْتِحَان.",
+    "de": "Heute Abend gehe ich früh schlafen, morgen ist Prüfung.",
+    "luecke": "أَنَامُ مُبَكِّرًا",
+    "gloss": "ال·لَيْلَة أَ·نَام مُبَكِّر·ًا، غَدًا امْتِحَان. | DEF·Nacht 1SG·schlafen früh·AKK, morgen Prüfung.",
+    "umschrift": "al-layla anām mubakkiran, ghadan imtiḥān.",
+    "audio": "audio/ar-de/saetze/ta2_02.mp3?v=5fda33de"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ نِمْتُ مُبَكِّرًا، كَانَ هُنَاكَ امْتِحَان.",
+     "umschrift": "amsi nimtu mubakkiran, kāna hunāka mtiḥān.",
+     "audio": "audio/ar-de/saetze/ta2_02_pc.mp3?v=9c3ce150"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَنَامُ مُبَكِّرًا، بَعْدَهُ امْتِحَان.",
+     "umschrift": "ghadan sa-anām mubakkiran, baʿdahu mtiḥān.",
+     "audio": "audio/ar-de/saetze/ta2_02_fp.mp3?v=af8eee8d"
+    }
+   },
+   "syrisch": {
+    "fr": "اللِّيلِة بْنام بَكّير، بُكْرا امْتِحان.",
+    "umschrift": "il-lēle bnām bakkīr, bukra mtiḥān.",
+    "audio": "audio/ar-de/syrisch/ta2_02.mp3?v=b813d85f"
+   }
+  },
+  {
+   "id": "ta2_03",
+   "thema": "taam",
+   "fr": "اِنْتَبِهْ لِنَفْسِك",
+   "de": "pass auf dich auf",
+   "register": "tu",
+   "anker": "انتبه",
+   "notiz": "intabih = pass auf (Imperativ Stamm VIII von n-b-h; intabaha = merken, aus der Anekdote). li-nafsik = auf dich selbst (nafs = Selbst, Seele). lā tahrub = sie laufen nicht weg (Sachplural, feminin Singular).",
+   "audio": "audio/ar-de/wendungen/ta2_03.mp3?v=78eb7d4b",
+   "gloss": "اِنْتَبِه·ْ لِ·نَفْس·ِك | pass.auf·IMP für·Selbst·dein",
+   "umschrift": "intabih li-nafsik",
+   "wurzel": "ن-ب-ه",
+   "satz": {
+    "fr": "اِنْتَبِهْ لِنَفْسِك، الحِصَصُ لا تَهْرُب.",
+    "de": "Pass auf dich auf, die Stunden laufen nicht weg.",
+    "luecke": "اِنْتَبِهْ لِنَفْسِك",
+    "gloss": "اِنْتَبِه·ْ لِ·نَفْس·ِك، ال·حِصَص لا تَ·هْرُب. | pass.auf·IMP für·Selbst·dein, DEF·Stunden nicht 3SG.F·weglaufen.",
+    "umschrift": "intabih li-nafsik, al-ḥiṣaṣ lā tahrub.",
+    "audio": "audio/ar-de/saetze/ta2_03.mp3?v=c4c0995b"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "دير بالَك عَحالَك، الحِصَص ما بْتِهْرُب.",
+    "umschrift": "dīr bālak ʿa-ḥālak, il-ḥiṣaṣ mā btihrob.",
+    "audio": "audio/ar-de/syrisch/ta2_03.mp3?v=fac6cfca"
+   }
+  },
+  {
+   "id": "ta2_04",
+   "thema": "taam",
+   "fr": "أَتَسَوَّقُ مِنَ السُّوق",
+   "de": "ich kaufe auf dem Markt ein",
+   "register": "tu",
+   "anker": "تسوق",
+   "notiz": "tasawwaqa = einkaufen (Stamm V von s-w-q, sūq = Markt). banadūra = Tomate in der Levante (aus dem Italienischen pomodoro!), in Saudi-Arabien ṭamāṭim. bi-ʿashra = für zehn (bi- = Preis).",
+   "audio": "audio/ar-de/wendungen/ta2_04.mp3?v=cd1c237d",
+   "gloss": "أَ·تَسَوَّق مِنَ ال·سُوق | 1SG·einkaufen von DEF·Markt",
+   "umschrift": "atasawwaq min as-sūq",
+   "wurzel": "س-و-ق",
+   "satz": {
+    "fr": "أَتَسَوَّقُ مِنَ السُّوق، كِيلُو البَنَدُورَةِ بِعَشْرَة.",
+    "de": "Ich kaufe auf dem Markt ein, das Kilo Tomaten für zehn.",
+    "luecke": "أَتَسَوَّقُ مِنَ السُّوق",
+    "gloss": "أَ·تَسَوَّق مِنَ ال·سُوق، كِيلُو ال·بَنَدُورَة بِ·عَشْرَة. | 1SG·einkaufen von DEF·Markt, Kilo DEF·Tomate für·zehn.",
+    "umschrift": "atasawwaq min as-sūq, kīlū l-banadūra bi-ʿashra.",
+    "audio": "audio/ar-de/saetze/ta2_04.mp3?v=0b88765f"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ تَسَوَّقْتُ مِنَ السُّوق، كِيلُو البَنَدُورَةِ بِعَشْرَة.",
+     "umschrift": "amsi tasawwaqtu min as-sūq, kīlū l-banadūra bi-ʿashra.",
+     "audio": "audio/ar-de/saetze/ta2_04_pc.mp3?v=90461958"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَتَسَوَّقُ مِنَ السُّوق، كِيلُو البَنَدُورَةِ بِعَشْرَة.",
+     "umschrift": "ghadan sa-atasawwaq min as-sūq, kīlū l-banadūra bi-ʿashra.",
+     "audio": "audio/ar-de/saetze/ta2_04_fp.mp3?v=610f2d21"
+    }
+   },
+   "syrisch": {
+    "fr": "بِتْسَوَّق مِن السّوق، كيلو البَنَدورَة بْعَشْرَة.",
+    "umschrift": "bitsawwaʾ min is-sūʾ, kīlō l-banadōra b-ʿashra.",
+    "audio": "audio/ar-de/syrisch/ta2_04.mp3?v=d59b2df7"
+   }
+  },
+  {
+   "id": "ta2_05",
+   "thema": "taam",
+   "fr": "أَطْبُخُ فِي المَسَاء",
+   "de": "abends koche ich",
+   "register": "tu",
+   "anker": "طبخ",
+   "notiz": "ṭabakha / yaṭbukh = kochen (Wurzel ṭ-b-kh; ṭabkha = Gericht; maṭbakh = Küche, Ortsmuster mafʿal aus Lektion 1). Wasser kochen = ghalā. yantaẓir = wartet.",
+   "audio": "audio/ar-de/wendungen/ta2_05.mp3?v=503bca52",
+   "gloss": "أَ·طْبُخ فِي ال·مَسَاء | 1SG·kochen in DEF·Abend",
+   "umschrift": "aṭbukh fī l-masāʾ",
+   "wurzel": "ط-ب-خ",
+   "satz": {
+    "fr": "أَطْبُخُ فِي المَسَاء، وَالقِطُّ يَنْتَظِرُ فِي المَطْبَخ.",
+    "de": "Abends koche ich, und die Katze wartet in der Küche.",
+    "luecke": "أَطْبُخُ فِي المَسَاء",
+    "gloss": "أَ·طْبُخ فِي ال·مَسَاء، وَ·ال·قِطّ يَ·نْتَظِر فِي ال·مَطْبَخ. | 1SG·kochen in DEF·Abend, und·DEF·Katze 3SG·warten in DEF·Küche.",
+    "umschrift": "aṭbukh fī l-masāʾ, wal-qiṭṭ yantaẓir fī l-maṭbakh.",
+    "audio": "audio/ar-de/saetze/ta2_05.mp3?v=7fe42967"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ طَبَخْتُ فِي المَسَاء، وَالقِطُّ انْتَظَرَ فِي المَطْبَخ.",
+     "umschrift": "amsi ṭabakhtu fī l-masāʾ, wal-qiṭṭ intaẓara fī l-maṭbakh.",
+     "audio": "audio/ar-de/saetze/ta2_05_pc.mp3?v=dfad9110"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَطْبُخُ فِي المَسَاء، وَالقِطُّ سَيَنْتَظِرُ فِي المَطْبَخ.",
+     "umschrift": "ghadan sa-aṭbukh fī l-masāʾ, wal-qiṭṭ sa-yantaẓir fī l-maṭbakh.",
+     "audio": "audio/ar-de/saetze/ta2_05_fp.mp3?v=befd4eb7"
+    }
+   },
+   "syrisch": {
+    "fr": "بِطْبُخ بِالمَسا، والبِسّ عَم يِسْتَنّى بِالمَطْبَخ.",
+    "umschrift": "biṭbokh bil-masa, wil-biss ʿam yistanna bil-maṭbakh.",
+    "audio": "audio/ar-de/syrisch/ta2_05.mp3?v=723cffa4"
+   }
+  },
+  {
+   "id": "ta2_06",
+   "thema": "taam",
+   "fr": "صَحْنُ شُورْبَةِ عَدَس",
+   "de": "ein Teller Linsensuppe",
+   "register": "tu",
+   "anker": "صحن",
+   "notiz": "ṣaḥn = Teller (auch: Hof einer Moschee). shūrbat ʿadas = Linsensuppe, in der ganzen Levante das Gericht des Winters, immer mit Zitrone. Doppelte iḍāfa: ṣaḥn shūrbat ʿadas. ʿalayhi = darauf.",
+   "audio": "audio/ar-de/wendungen/ta2_06.mp3?v=21c82279",
+   "gloss": "صَحْن·ُ شُورْبَة·ِ عَدَس | Teller·GEN Suppe·GEN Linsen",
+   "umschrift": "ṣaḥn shūrbat ʿadas",
+   "wurzel": "ص-ح-ن",
+   "satz": {
+    "fr": "صَحْنُ شُورْبَةِ عَدَس، وَعَلَيْهِ لَيْمُون.",
+    "de": "Ein Teller Linsensuppe, und Zitrone obendrauf.",
+    "luecke": "صَحْنُ شُورْبَةِ عَدَس",
+    "gloss": "صَحْن·ُ شُورْبَة·ِ عَدَس، وَ·عَلَيْ·هِ لَيْمُون. | Teller·GEN Suppe·GEN Linsen, und·auf·ihm Zitrone.",
+    "umschrift": "ṣaḥn shūrbat ʿadas, wa-ʿalayhi laymūn.",
+    "audio": "audio/ar-de/saetze/ta2_06.mp3?v=a53a0eb5"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "صَحِن شورْبِة عَدَس، وعَلي لَيْمون.",
+    "umschrift": "ṣaḥen shōrbet ʿadas, w-ʿalē laymūn.",
+    "audio": "audio/ar-de/syrisch/ta2_06.mp3?v=6ea6c5d0"
+   }
+  },
+  {
+   "id": "ta2_07",
+   "thema": "taam",
+   "fr": "جُعْت",
+   "de": "ich habe Hunger",
+   "register": "tu",
+   "anker": "جاع",
+   "notiz": "jāʿa = hungrig werden; juʿ-tu = ich bin hungrig geworden = ich habe Hunger (hohles Verb, kurz: u). jawʿān = hungrig (Zustandsmuster, Lektion 2). ishtarā = kaufen (Stamm VIII von sh-r-y). kaʿka = ein Kaak (Einzelstück, mit ة).",
+   "audio": "audio/ar-de/wendungen/ta2_07.mp3?v=3bd180e1",
+   "gloss": "جُع·ْت | hungrig.werden·1SG",
+   "umschrift": "juʿt",
+   "wurzel": "ج-و-ع",
+   "satz": {
+    "fr": "جُعْت، فِي الاسْتِرَاحَةِ أَشْتَرِي كَعْكَة.",
+    "de": "Ich habe Hunger, in der Pause kaufe ich ein Kaak.",
+    "luecke": "جُعْت",
+    "gloss": "جُع·ْت، فِي ال·اسْتِرَاحَة أَ·شْتَرِي كَعْكَة. | hungrig.werden·1SG, in DEF·Pause 1SG·kaufen Kaak.",
+    "umschrift": "juʿt, fī l-istirāḥa ashtarī kaʿka.",
+    "audio": "audio/ar-de/saetze/ta2_07.mp3?v=943b5dc5"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "جِعْت، بِالاسْتِراحَة بِشْتِري كَعْكِة.",
+    "umschrift": "jiʿt, bil-istirāḥa bishtirī kaʿke.",
+    "audio": "audio/ar-de/syrisch/ta2_07.mp3?v=18917da4"
+   }
+  },
+  {
+   "id": "ta2_08",
+   "thema": "taam",
+   "fr": "أَكَلْنَا حَتَّى الشِّبَع",
+   "de": "wir haben uns vollgegessen",
+   "register": "tu",
+   "anker": "شبع",
+   "notiz": "ḥattā sh-shibaʿ = bis zur Sättigung (shabiʿa = satt sein; shabʿān = satt). al-ʿīd = das Fest (ʿīd al-fiṭr, ʿīd al-aḍḥā; ʿīd mubārak!). lam yataḥarrak aḥad = niemand bewegte sich (lam + Jussiv).",
+   "audio": "audio/ar-de/wendungen/ta2_08.mp3?v=e700a2ea",
+   "gloss": "أَكَل·ْنَا حَتَّى ال·شِبَع | essen·1PL bis DEF·Sättigung",
+   "umschrift": "akalnā ḥattā sh-shibaʿ",
+   "wurzel": "ش-ب-ع",
+   "satz": {
+    "fr": "فِي العِيدِ أَكَلْنَا حَتَّى الشِّبَع، وَلَمْ يَتَحَرَّكْ أَحَد.",
+    "de": "Am Fest haben wir bis zur Sättigung gegessen, und keiner konnte sich rühren.",
+    "luecke": "أَكَلْنَا حَتَّى الشِّبَع",
+    "gloss": "فِي ال·عِيد أَكَل·ْنَا حَتَّى ال·شِبَع، وَ·لَمْ يَ·تَحَرَّك·ْ أَحَد. | in DEF·Fest essen·1PL bis DEF·Sättigung, und·nicht.VERG 3SG·sich.bewegen·JUSS jemand.",
+    "umschrift": "fī l-ʿīd akalnā ḥattā sh-shibaʿ, wa-lam yataḥarrak aḥad.",
+    "audio": "audio/ar-de/saetze/ta2_08.mp3?v=53c72df7"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِالعيد أَكَلْنا لَشْبِعْنا، وما حَدا ئِدِر يِتْحَرَّك.",
+    "umschrift": "bil-ʿīd akalnā la-shbiʿnā, w-mā ḥada ʾider yitḥarrak.",
+    "audio": "audio/ar-de/syrisch/ta2_08.mp3?v=a6039d0c"
+   }
+  },
+  {
+   "id": "ta2_09",
+   "thema": "taam",
+   "fr": "صَحَّةً وَعَافِيَة",
+   "de": "guten Appetit",
+   "register": "tu",
+   "anker": "صحة",
+   "notiz": "ṣaḥḥatan wa-ʿāfiya = Gesundheit und Wohlbefinden: der Wunsch beim Essen, auch danach. Antwort: ʿalā qalbak (auf dein Herz). Die -an-Endung ist der Akkusativ des Wunsches (wie yawman saʿīdan).",
+   "audio": "audio/ar-de/wendungen/ta2_09.mp3?v=ae31c1c1",
+   "gloss": "صَحَّة·ً وَ·عَافِيَة | Gesundheit·WUNSCH und·Wohlbefinden",
+   "umschrift": "ṣaḥḥatan wa-ʿāfiya",
+   "wurzel": "ص-ح-ح",
+   "satz": {
+    "fr": "صَحَّةً وَعَافِيَة! – عَلَى قَلْبِك.",
+    "de": "Guten Appetit! – Auf dein Herz (danke).",
+    "luecke": "صَحَّةً وَعَافِيَة",
+    "gloss": "صَحَّة·ً وَ·عَافِيَة! – عَلَى قَلْب·ِك. | Gesundheit·WUNSCH und·Wohlbefinden! – auf Herz·dein.",
+    "umschrift": "ṣaḥḥatan wa-ʿāfiya! – ʿalā qalbak.",
+    "audio": "audio/ar-de/saetze/ta2_09.mp3?v=38031239"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "صَحَّة وعافْيِة! – عَئَلْبَك.",
+    "umschrift": "ṣaḥḥa w-ʿāfye! – ʿa-ʾalbak.",
+    "audio": "audio/ar-de/syrisch/ta2_09.mp3?v=097d7b29"
+   }
+  },
+  {
+   "id": "ta2_10",
+   "thema": "taam",
+   "fr": "الفُرْنُ عِنْدَ الزَّاوِيَة",
+   "de": "die Bäckerei an der Ecke",
+   "register": "tu",
+   "anker": "فتح",
+   "notiz": "furn = Ofen und Bäckerei (furn und fırın: dasselbe Wort). zāwiya = Ecke, Winkel. yaftaḥ = öffnet (fataḥa, wie miftāḥ). khubz = Brot (Modul 1), sākhin = heiß.",
+   "audio": "audio/ar-de/wendungen/ta2_10.mp3?v=e84438a7",
+   "gloss": "ال·فُرْن عِنْدَ ال·زَاوِيَة | DEF·Ofen bei DEF·Ecke",
+   "umschrift": "al-furn ʿinda z-zāwiya",
+   "wurzel": "ف-ر-ن",
+   "satz": {
+    "fr": "الفُرْنُ عِنْدَ الزَّاوِيَةِ يَفْتَحُ السَّاعَةَ الخَامِسَة، وَالخُبْزُ سَاخِن.",
+    "de": "Die Bäckerei an der Ecke öffnet um fünf, und das Brot ist warm.",
+    "luecke": "الفُرْنُ عِنْدَ الزَّاوِيَة",
+    "gloss": "ال·فُرْن عِنْدَ ال·زَاوِيَة يَ·فْتَح ال·سَاعَة ال·خَامِسَة، وَ·ال·خُبْز سَاخِن. | DEF·Ofen bei DEF·Ecke 3SG·öffnen DEF·Stunde DEF·fünfte, und·DEF·Brot heiß.",
+    "umschrift": "al-furn ʿinda z-zāwiya yaftaḥ as-sāʿa l-khāmisa, wal-khubz sākhin.",
+    "audio": "audio/ar-de/saetze/ta2_10.mp3?v=9f324847"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "الفُرْنُ عِنْدَ الزَّاوِيَةِ فَتَحَ السَّاعَةَ الخَامِسَة، وَالخُبْزُ كَانَ سَاخِنًا.",
+     "umschrift": "al-furn ʿinda z-zāwiya fataḥa s-sāʿa l-khāmisa, wal-khubz kāna sākhinan.",
+     "audio": "audio/ar-de/saetze/ta2_10_pc.mp3?v=f7a3175e"
+    },
+    "fp": {
+     "fr": "الفُرْنُ عِنْدَ الزَّاوِيَةِ سَيَفْتَحُ السَّاعَةَ الخَامِسَة، وَالخُبْزُ سَيَكُونُ سَاخِنًا.",
+     "umschrift": "al-furn ʿinda z-zāwiya sa-yaftaḥ as-sāʿa l-khāmisa, wal-khubz sa-yakūn sākhinan.",
+     "audio": "audio/ar-de/saetze/ta2_10_fp.mp3?v=00b08f73"
+    }
+   },
+   "syrisch": {
+    "fr": "الفُرْن عَالئُرْنِة بْيِفْتَح السّاعَة خَمْسِة، والخِبِز سُخْن.",
+    "umschrift": "il-furn ʿal-ʾurne byiftaḥ is-sāʿa khamse, wil-khibez sukhn.",
+    "audio": "audio/ar-de/syrisch/ta2_10.mp3?v=4b20775e"
+   }
+  },
+  {
+   "id": "ta2_11",
+   "thema": "taam",
+   "fr": "أَشْرَبُ لِتْرَيْنِ مِنَ المَاء",
+   "de": "ich trinke zwei Liter Wasser",
+   "register": "tu",
+   "anker": "شرب",
+   "notiz": "shariba / yashrab = trinken (Wurzel sh-r-b; sharāb = Getränk, Sirup!). litrayn = zwei Liter (Dual). yawmiyyan = täglich. lā yuḥsab = wird nicht gezählt (Passiv von ḥasaba; ḥisāb = Rechnung).",
+   "audio": "audio/ar-de/wendungen/ta2_11.mp3?v=10f6bafe",
+   "gloss": "أَ·شْرَب لِتْر·َيْن مِنَ ال·مَاء | 1SG·trinken Liter·DUAL von DEF·Wasser",
+   "umschrift": "ashrab litrayn min al-māʾ",
+   "wurzel": "ش-ر-ب",
+   "satz": {
+    "fr": "أَشْرَبُ لِتْرَيْنِ مِنَ المَاءِ يَوْمِيًّا، الشَّايُ لا يُحْسَب.",
+    "de": "Ich trinke täglich zwei Liter Wasser, der Tee zählt nicht.",
+    "luecke": "أَشْرَبُ لِتْرَيْنِ مِنَ المَاء",
+    "gloss": "أَ·شْرَب لِتْر·َيْن مِنَ ال·مَاء يَوْمِيًّا، ال·شَاي لا يُ·حْسَب. | 1SG·trinken Liter·DUAL von DEF·Wasser täglich, DEF·Tee nicht PASS·zählen.",
+    "umschrift": "ashrab litrayn min al-māʾ yawmiyyan, ash-shāy lā yuḥsab.",
+    "audio": "audio/ar-de/saetze/ta2_11.mp3?v=8e2f3435"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِشْرَب لِتْرين مَيّ بِاليوم، الشّاي ما بْيِنْحِسِب.",
+    "umschrift": "bishrab litrēn mayy bil-yōm, ish-shāy mā byinḥisib.",
+    "audio": "audio/ar-de/syrisch/ta2_11.mp3?v=e0fc86f4"
+   }
+  },
+  {
+   "id": "ta2_12",
+   "thema": "taam",
+   "fr": "أُقَرْمِشُ بَيْنَ الحِصَص",
+   "de": "ich knabbere zwischen den Stunden",
+   "register": "tu",
+   "anker": "قرمش",
+   "notiz": "qarmasha = knabbern (vierkonsonantig, lautmalerisch wie kharkhara). bizr = Kerne (Sonnenblumen, Kürbis), der Knabberklassiker der Levante. fustuq = Pistazie (fustuq ḥalabī = aus Aleppo, die beste).",
+   "audio": "audio/ar-de/wendungen/ta2_12.mp3?v=83bf8413",
+   "gloss": "أُ·قَرْمِش بَيْنَ ال·حِصَص | 1SG·knabbern zwischen DEF·Stunden",
+   "umschrift": "uqarmish bayna l-ḥiṣaṣ",
+   "wurzel": "ق-ر-م-ش",
+   "satz": {
+    "fr": "أُقَرْمِشُ بَيْنَ الحِصَص: بِزْر وَفُسْتُق.",
+    "de": "Zwischen den Stunden knabbere ich: Kerne und Pistazien.",
+    "luecke": "أُقَرْمِشُ بَيْنَ الحِصَص",
+    "gloss": "أُ·قَرْمِش بَيْنَ ال·حِصَص: بِزْر وَ·فُسْتُق. | 1SG·knabbern zwischen DEF·Stunden: Kerne und·Pistazie.",
+    "umschrift": "uqarmish bayna l-ḥiṣaṣ: bizr wa-fustuq.",
+    "audio": "audio/ar-de/saetze/ta2_12.mp3?v=b8ee88f1"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بْئَرْمِش بين الحِصَص: بِزِر وفُسْتُق.",
+    "umschrift": "bʾarmesh bēn il-ḥiṣaṣ: bizer w-fustoʾ.",
+    "audio": "audio/ar-de/syrisch/ta2_12.mp3?v=ef3fa20c"
+   }
+  },
+  {
+   "id": "ta2_13",
+   "thema": "taam",
+   "fr": "أَشْعُرُ بِالرَّاحَة",
+   "de": "ich fühle mich wohl",
+   "register": "tu",
+   "anker": "شعر",
+   "notiz": "shaʿara bi- = fühlen (Thema 2). rāḥa = Ruhe, Wohlbefinden (r-w-ḥ zum vierten Mal). bi-lā = ohne (bi- + lā; auch bidūn). sabab = Grund.",
+   "audio": "audio/ar-de/wendungen/ta2_13.mp3?v=de241e48",
+   "gloss": "أَ·شْعُر بِ·ال·رَاحَة | 1SG·fühlen mit·DEF·Wohlbefinden",
+   "umschrift": "ashʿur bir-rāḥa",
+   "wurzel": "ر-و-ح",
+   "satz": {
+    "fr": "أَشْعُرُ بِالرَّاحَةِ اليَوْم، بِلا سَبَب.",
+    "de": "Ich fühle mich heute wohl, ohne Grund.",
+    "luecke": "أَشْعُرُ بِالرَّاحَة",
+    "gloss": "أَ·شْعُر بِ·ال·رَاحَة ال·يَوْم، بِ·لا سَبَب. | 1SG·fühlen mit·DEF·Wohlbefinden DEF·Tag, mit·nicht Grund.",
+    "umschrift": "ashʿur bir-rāḥa l-yawm, bi-lā sabab.",
+    "audio": "audio/ar-de/saetze/ta2_13.mp3?v=2de36f3b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ شَعَرْتُ بِالرَّاحَة، بِلا سَبَب.",
+     "umschrift": "amsi shaʿartu bir-rāḥa, bi-lā sabab.",
+     "audio": "audio/ar-de/saetze/ta2_13_pc.mp3?v=654c0d3f"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَشْعُرُ بِالرَّاحَة، بِلا سَبَب.",
+     "umschrift": "ghadan sa-ashʿur bir-rāḥa, bi-lā sabab.",
+     "audio": "audio/ar-de/saetze/ta2_13_fp.mp3?v=5f1f6c95"
+    }
+   },
+   "syrisch": {
+    "fr": "حاسِس حالي مْنيح اليوم، بَلا سَبَب.",
+    "umschrift": "ḥāsis ḥālī mnīḥ il-yōm, bala sabab.",
+    "audio": "audio/ar-de/syrisch/ta2_13.mp3?v=dde464ed"
+   }
+  },
+  {
+   "id": "ta2_14",
+   "thema": "taam",
+   "fr": "لِنَأْخُذِ اسْتِرَاحَة",
+   "de": "machen wir eine Pause",
+   "register": "tu",
+   "anker": "أخذ",
+   "notiz": "li-naʾkhudh = lasst uns nehmen: li- + Jussiv 1. Plural ist das arabische « lasst uns » (wie türkisch -elim). li-nadhhab = gehen wir, li-nabdaʾ = fangen wir an. jāhiz = fertig.",
+   "audio": "audio/ar-de/wendungen/ta2_14.mp3?v=52761ea5",
+   "gloss": "لِ·نَ·أْخُذ·ِ اسْتِرَاحَة | OPT·1PL·nehmen·JUSS Pause",
+   "umschrift": "li-naʾkhudh istirāḥa",
+   "wurzel": "أ-خ-ذ",
+   "satz": {
+    "fr": "لِنَأْخُذِ اسْتِرَاحَة، الشَّايُ جَاهِز.",
+    "de": "Machen wir eine Pause, der Tee ist fertig.",
+    "luecke": "لِنَأْخُذِ اسْتِرَاحَة",
+    "gloss": "لِ·نَ·أْخُذ·ِ اسْتِرَاحَة، ال·شَاي جَاهِز. | OPT·1PL·nehmen·JUSS Pause, DEF·Tee fertig.",
+    "umschrift": "li-naʾkhudh istirāḥa, ash-shāy jāhiz.",
+    "audio": "audio/ar-de/saetze/ta2_14.mp3?v=9f1a22ef"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خَلّينا ناخُد اسْتِراحَة، الشّاي جاهِز.",
+    "umschrift": "khallīnā nākhod istirāḥa, ish-shāy jāhez.",
+    "audio": "audio/ar-de/syrisch/ta2_14.mp3?v=7c5a01c2"
+   }
+  },
+  {
+   "id": "ta2_15",
+   "thema": "taam",
+   "fr": "نِمْتُ كَالقَتِيل",
+   "de": "ich habe geschlafen wie ein Toter",
+   "register": "tu",
+   "anker": "نام",
+   "notiz": "nimtu ka-l-qatīl = ich schlief wie der Erschlagene (qatīl, von qatala): das arabische « wie ein Stein ». laylat al-jumʿa = die Nacht zum Freitag. ḥattā = sogar (hier: nicht einmal). lam yasmaʿ-nī = hörte mich nicht.",
+   "audio": "audio/ar-de/wendungen/ta2_15.mp3?v=8b3b3344",
+   "gloss": "نِم·ْتُ كَ·ال·قَتِيل | schlafen·1SG wie·DEF·Erschlagener",
+   "umschrift": "nimtu ka-l-qatīl",
+   "wurzel": "ق-ت-ل",
+   "satz": {
+    "fr": "لَيْلَةَ الجُمْعَةِ نِمْتُ كَالقَتِيل، حَتَّى القِطُّ لَمْ يَسْمَعْنِي.",
+    "de": "Freitagnacht habe ich geschlafen wie ein Toter, nicht einmal die Katze hat mich gehört.",
+    "luecke": "نِمْتُ كَالقَتِيل",
+    "gloss": "لَيْلَة·َ ال·جُمْعَة نِم·ْتُ كَ·ال·قَتِيل، حَتَّى ال·قِطّ لَمْ يَ·سْمَع·ْنِي. | Nacht·AKK DEF·Freitag schlafen·1SG wie·DEF·Erschlagener, sogar DEF·Katze nicht.VERG 3SG·hören·mich.",
+    "umschrift": "laylat al-jumʿa nimtu ka-l-qatīl, ḥattā l-qiṭṭ lam yasmaʿnī.",
+    "audio": "audio/ar-de/saetze/ta2_15.mp3?v=76ead8d4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "لِيلِة الجُمْعَة نِمْت مِتْل الئَتيل، حَتّى البِسّ ما سِمِعْني.",
+    "umschrift": "lēlet ij-jumʿa nimt mitl il-ʾatīl, ḥatta l-biss mā simiʿnī.",
+    "audio": "audio/ar-de/syrisch/ta2_15.mp3?v=a312a459"
+   }
+  },
+  {
+   "id": "ta2_16",
+   "thema": "taam",
+   "fr": "أَنَا كَالحِصَان",
+   "de": "ich bin fit wie ein Pferd",
+   "register": "tu",
+   "anker": "كان",
+   "notiz": "ka-l-ḥiṣān = wie das Pferd: kerngesund (Türkisch: turp gibi). ḥiṣān = Pferd (Wurzel ḥ-ṣ-n, stark sein, wie ḥiṣn = Festung, Krak des Chevaliers). Die Zeitmaschine zeigt kuntu / sa-akūn: kāna in der 1. Person.",
+   "audio": "audio/ar-de/wendungen/ta2_16.mp3?v=b913365f",
+   "gloss": "أَنَا كَ·ال·حِصَان | ich wie·DEF·Pferd",
+   "umschrift": "anā ka-l-ḥiṣān",
+   "wurzel": "ح-ص-ن",
+   "satz": {
+    "fr": "أُسْبُوعُ عُطْلَة، وَالآنَ أَنَا كَالحِصَان.",
+    "de": "Eine Woche Ferien, und jetzt bin ich fit wie ein Pferd.",
+    "luecke": "أَنَا كَالحِصَان",
+    "gloss": "أُسْبُوع·ُ عُطْلَة، وَ·ال·آن أَنَا كَ·ال·حِصَان. | Woche·GEN Ferien, und·DEF·jetzt ich wie·DEF·Pferd.",
+    "umschrift": "usbūʿ ʿuṭla, wal-ān anā ka-l-ḥiṣān.",
+    "audio": "audio/ar-de/saetze/ta2_16.mp3?v=1a0b887f"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "كَانَ أُسْبُوعُ عُطْلَة، وَكُنْتُ كَالحِصَان.",
+     "umschrift": "kāna usbūʿ ʿuṭla, wa-kuntu ka-l-ḥiṣān.",
+     "audio": "audio/ar-de/saetze/ta2_16_pc.mp3?v=e55e94f3"
+    },
+    "fp": {
+     "fr": "سَيَكُونُ أُسْبُوعُ عُطْلَة، وَسَأَكُونُ كَالحِصَان.",
+     "umschrift": "sa-yakūn usbūʿ ʿuṭla, wa-sa-akūn ka-l-ḥiṣān.",
+     "audio": "audio/ar-de/saetze/ta2_16_fp.mp3?v=bf60282d"
+    }
+   },
+   "syrisch": {
+    "fr": "أُسْبوع عُطْلِة، وهَلَّق أَنا مِتْل الحْصان.",
+    "umschrift": "usbūʿ ʿuṭle, w-hallaʾ ana mitl il-ḥṣān.",
+    "audio": "audio/ar-de/syrisch/ta2_16.mp3?v=0d02c7a7"
+   }
+  },
+  {
+   "id": "ta2_17",
+   "thema": "taam",
+   "fr": "لِنَأْخُذْ هَوَاءً",
+   "de": "holen wir Luft",
+   "register": "tu",
+   "anker": "هواء",
+   "notiz": "hawāʾ = Luft, auch Wetter und Liebe (hawā!). li-naʾkhudh hawāʾan = lasst uns Luft nehmen. ka-l-furn = wie der Ofen (furn aus ta2_10). Der Jussiv hat hier Sukūn, weil kein Vokal folgt.",
+   "audio": "audio/ar-de/wendungen/ta2_17.mp3?v=42d0f674",
+   "gloss": "لِ·نَ·أْخُذ·ْ هَوَاء·ً | OPT·1PL·nehmen·JUSS Luft·AKK",
+   "umschrift": "li-naʾkhudh hawāʾan",
+   "wurzel": "ه-و-ي",
+   "satz": {
+    "fr": "لِنَأْخُذْ هَوَاءً، الصَّفُّ كَالفُرْن.",
+    "de": "Holen wir Luft, die Klasse ist wie ein Backofen.",
+    "luecke": "لِنَأْخُذْ هَوَاءً",
+    "gloss": "لِ·نَ·أْخُذ·ْ هَوَاء·ً، ال·صَفّ كَ·ال·فُرْن. | OPT·1PL·nehmen·JUSS Luft·AKK, DEF·Klasse wie·DEF·Ofen.",
+    "umschrift": "li-naʾkhudh hawāʾan, aṣ-ṣaff ka-l-furn.",
+    "audio": "audio/ar-de/saetze/ta2_17.mp3?v=9515c932"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خَلّينا ناخُد هَوا، الصَّفّ مِتْل الفُرْن.",
+    "umschrift": "khallīnā nākhod hawa, iṣ-ṣaff mitl il-furn.",
+    "audio": "audio/ar-de/syrisch/ta2_17.mp3?v=bb44b091"
+   }
+  },
+  {
+   "id": "ta2_18",
+   "thema": "taam",
+   "fr": "وَصْفَةُ أُمِّي",
+   "de": "das Rezept meiner Mutter",
+   "register": "tu",
+   "anker": "وصف",
+   "notiz": "waṣfa = Rezept, auch das vom Arzt (waṣafa = beschreiben, verschreiben; waṣf = Beschreibung). umm-ī = meine Mutter. milḥ qalīl, ṣabr kathīr: Adjektiv nach dem Nomen, beide unbestimmt.",
+   "audio": "audio/ar-de/wendungen/ta2_18.mp3?v=83817e3c",
+   "gloss": "وَصْفَة·ُ أُمّ·ِي | Rezept·GEN Mutter·mein",
+   "umschrift": "waṣfat ummī",
+   "wurzel": "و-ص-ف",
+   "satz": {
+    "fr": "وَصْفَةُ أُمِّي: مِلْحٌ قَلِيل، صَبْرٌ كَثِير.",
+    "de": "Das Rezept meiner Mutter: wenig Salz, viel Geduld.",
+    "luecke": "وَصْفَةُ أُمِّي",
+    "gloss": "وَصْفَة·ُ أُمّ·ِي: مِلْح قَلِيل، صَبْر كَثِير. | Rezept·GEN Mutter·mein: Salz wenig, Geduld viel.",
+    "umschrift": "waṣfat ummī: milḥ qalīl, ṣabr kathīr.",
+    "audio": "audio/ar-de/saetze/ta2_18.mp3?v=36fe3cd9"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "وَصْفِة إمّي: مِلِح شْوَيّ، صَبِر كْتير.",
+    "umschrift": "waṣfet immī: meleḥ shwayy, ṣaber ktīr.",
+    "audio": "audio/ar-de/syrisch/ta2_18.mp3?v=a2b21b56"
+   }
+  },
+  {
+   "id": "ta2_19",
+   "thema": "taam",
+   "fr": "ذُقْ، هَلْ يَنْقُصُهُ مِلْح؟",
+   "de": "probier, fehlt Salz?",
+   "register": "tu",
+   "anker": "ذاق",
+   "notiz": "dhuq = koste (Imperativ von dhāqa, hohles Verb, kurz: dhuq; dhawq = Geschmack, auch der gute Geschmack). yanquṣ-uhu = es fehlt ihm (naqaṣa = fehlen, weniger sein; nāqiṣ = unvollständig).",
+   "audio": "audio/ar-de/wendungen/ta2_19.mp3?v=f262580f",
+   "gloss": "ذُقْ، هَلْ يَ·نْقُص·ُهُ مِلْح | koste, FRAGE 3SG·fehlen·ihm Salz",
+   "umschrift": "dhuq, hal yanquṣuhu milḥ?",
+   "wurzel": "ذ-و-ق",
+   "satz": {
+    "fr": "ذُقْ، هَلْ يَنْقُصُهُ مِلْح؟",
+    "de": "Probier, fehlt Salz?",
+    "luecke": "ذُقْ",
+    "gloss": "ذُقْ، هَلْ يَ·نْقُص·ُهُ مِلْح؟ | koste, FRAGE 3SG·fehlen·ihm Salz?",
+    "umschrift": "dhuq, hal yanquṣuhu milḥ?",
+    "audio": "audio/ar-de/saetze/ta2_19.mp3?v=537237ab"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "دوئ، ناقْصو مِلِح؟",
+    "umschrift": "dūʾ, nāʾṣo meleḥ?",
+    "audio": "audio/ar-de/syrisch/ta2_19.mp3?v=e47cedc6"
+   }
+  },
+  {
+   "id": "ta2_20",
+   "thema": "taam",
+   "fr": "هَذِهِ البَقْلاوَةُ لَذِيذَة",
+   "de": "dieses Baklava ist köstlich",
+   "register": "tu",
+   "anker": "لذيذ",
+   "notiz": "hādhihi = diese (feminin; hādhā maskulin). ladhīdh / ladhīdha = köstlich (ladhdha = Genuss). ṣanaʿa = herstellen, machen (ṣināʿa = Industrie; maṣnūʿ fī = made in). man ṣanaʿa-hā = wer machte es.",
+   "audio": "audio/ar-de/wendungen/ta2_20.mp3?v=c84bf9bf",
+   "gloss": "هَذِهِ ال·بَقْلاوَة لَذِيذَة | diese DEF·Baklava köstlich.F",
+   "umschrift": "hādhihi l-baqlāwa ladhīdha",
+   "wurzel": "ل-ذ-ذ",
+   "satz": {
+    "fr": "هَذِهِ البَقْلاوَةُ لَذِيذَة، مَنْ صَنَعَهَا؟",
+    "de": "Dieses Baklava ist köstlich, wer hat es gemacht?",
+    "luecke": "هَذِهِ البَقْلاوَةُ لَذِيذَة",
+    "gloss": "هَذِهِ ال·بَقْلاوَة لَذِيذَة، مَنْ صَنَع·َهَا؟ | diese DEF·Baklava köstlich.F, wer machen·es?",
+    "umschrift": "hādhihi l-baqlāwa ladhīdha, man ṣanaʿahā?",
+    "audio": "audio/ar-de/saetze/ta2_20.mp3?v=b12c9186"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "هالبَئْلاوِة طَيّْبِة، مين عِمِلا؟",
+    "umschrift": "hal-baʾlāwe ṭayybe, mīn ʿimla?",
+    "audio": "audio/ar-de/syrisch/ta2_20.mp3?v=de5223c2"
+   }
+  },
+  {
+   "id": "ta2_21",
+   "thema": "taam",
+   "fr": "عَطِشْت",
+   "de": "ich habe Durst",
+   "register": "tu",
+   "anker": "عطش",
+   "notiz": "ʿaṭisha = durstig werden; ʿaṭish-tu = ich habe Durst (wie juʿtu). ʿaṭshān = durstig. kaʾs = Glas, Becher (Hamza in der Mitte; auch der Pokal: kaʾs al-ʿālam = Weltpokal). ʿayrān = Ayran, auch in Syrien.",
+   "audio": "audio/ar-de/wendungen/ta2_21.mp3?v=453488e4",
+   "gloss": "عَطِش·ْت | durstig.werden·1SG",
+   "umschrift": "ʿaṭisht",
+   "wurzel": "ع-ط-ش",
+   "satz": {
+    "fr": "عَطِشْت، كَأْسُ عَيْرَانٍ مِنْ فَضْلِك.",
+    "de": "Ich habe Durst, ein Glas Ayran bitte.",
+    "luecke": "عَطِشْت",
+    "gloss": "عَطِش·ْت، كَأْس·ُ عَيْرَان مِنْ فَضْل·ِك. | durstig.werden·1SG, Glas·GEN Ayran aus Güte·dein.",
+    "umschrift": "ʿaṭisht, kaʾs ʿayrān min faḍlik.",
+    "audio": "audio/ar-de/saetze/ta2_21.mp3?v=b1994c83"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "عْطِشْت، كاسِة عَيْران إذا بْتْريد.",
+    "umschrift": "ʿṭisht, kāse ʿayrān iza btrīd.",
+    "audio": "audio/ar-de/syrisch/ta2_21.mp3?v=5a531e2e"
+   }
+  },
+  {
+   "id": "ta2_22",
+   "thema": "taam",
+   "fr": "اِسْتَيْقَظْتُ عَلَى الجَانِبِ الصَّحِيح",
+   "de": "ich bin auf der richtigen Seite aufgewacht",
+   "register": "tu",
+   "anker": "استيقظ",
+   "notiz": "istayqaẓtu = ich wachte auf (Thema 3). al-jānib aṣ-ṣaḥīḥ = die richtige Seite. aṭyab = besser, leckerer (Elativ von ṭayyib = gut, lecker, der Alltagsausdruck für gutes Essen).",
+   "audio": "audio/ar-de/wendungen/ta2_22.mp3?v=c2e87df7",
+   "gloss": "اِسْتَيْقَظ·ْتُ عَلَى ال·جَانِب ال·صَحِيح | aufwachen·1SG auf DEF·Seite DEF·richtig",
+   "umschrift": "istayqaẓtu ʿalā l-jānib aṣ-ṣaḥīḥ",
+   "wurzel": "ي-ق-ظ",
+   "satz": {
+    "fr": "اليَوْمَ اسْتَيْقَظْتُ عَلَى الجَانِبِ الصَّحِيح، حَتَّى الشَّايُ أَطْيَب.",
+    "de": "Heute bin ich auf der richtigen Seite aufgewacht, sogar der Tee ist besser.",
+    "luecke": "عَلَى الجَانِبِ الصَّحِيح",
+    "gloss": "ال·يَوْم اسْتَيْقَظ·ْتُ عَلَى ال·جَانِب ال·صَحِيح، حَتَّى ال·شَاي أَطْيَب. | DEF·Tag aufwachen·1SG auf DEF·Seite DEF·richtig, sogar DEF·Tee besser.",
+    "umschrift": "al-yawm istayqaẓtu ʿalā l-jānib aṣ-ṣaḥīḥ, ḥattā sh-shāy aṭyab.",
+    "audio": "audio/ar-de/saetze/ta2_22.mp3?v=d2d7a117"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اليوم فِئْت عَالجانِب الصَّحيح، حَتّى الشّاي أَطْيَب.",
+    "umschrift": "il-yōm fiʾt ʿaj-jāneb iṣ-ṣaḥīḥ, ḥatta sh-shāy aṭyab.",
+    "audio": "audio/ar-de/syrisch/ta2_22.mp3?v=bdcd2cc1"
+   }
+  },
+  {
+   "id": "ta2_23",
+   "thema": "taam",
+   "fr": "نَفْسِي فِي بَقْلاوَة",
+   "de": "ich habe Lust auf Baklava",
+   "register": "tu",
+   "anker": "نفس",
+   "notiz": "nafsī fī = meine Seele ist in = ich habe Lust auf (Türkisch: canım çekiyor, dieselbe Idee). lākinna-hā = aber sie (die Stunde, feminin). as-sābiʿa = die siebte, sieben Uhr.",
+   "audio": "audio/ar-de/wendungen/ta2_23.mp3?v=9038ca73",
+   "gloss": "نَفْس·ِي فِي بَقْلاوَة | Seele·mein in Baklava",
+   "umschrift": "nafsī fī baqlāwa",
+   "wurzel": "ن-ف-س",
+   "satz": {
+    "fr": "نَفْسِي فِي بَقْلاوَة، لَكِنَّهَا السَّابِعَةُ مَسَاءً.",
+    "de": "Ich habe Lust auf Baklava, aber es ist sieben Uhr abends.",
+    "luecke": "نَفْسِي فِي بَقْلاوَة",
+    "gloss": "نَفْس·ِي فِي بَقْلاوَة، لَكِنّ·َهَا ال·سَابِعَة مَسَاءً. | Seele·mein in Baklava, aber·sie DEF·siebte abends.",
+    "umschrift": "nafsī fī baqlāwa, lākinnahā s-sābiʿa masāʾan.",
+    "audio": "audio/ar-de/saetze/ta2_23.mp3?v=7c44ffe0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "نَفْسي بْبَئْلاوِة، بَسّ السّاعَة سَبْعَة بِاللّيل.",
+    "umschrift": "nafsī b-baʾlāwe, bass is-sāʿa sabʿa bil-lēl.",
+    "audio": "audio/ar-de/syrisch/ta2_23.mp3?v=d2291270"
+   }
+  },
+  {
+   "id": "ta2_24",
+   "thema": "taam",
+   "fr": "هَلْ يُمْكِنُنِي أَنْ آخُذَ كَعْكَة؟",
+   "de": "Kann ich ein Kaak haben? (höflich)",
+   "register": "vous",
+   "anker": "أمكن",
+   "notiz": "yumkinu-nī an = es ist mir möglich, dass = kann ich (amkana, Stamm IV von m-k-n; mumkin = möglich, das Alltagswort). an + Konjunktiv: an ākhudha. simsim = Sesam. Antwort: tafaḍḍal.",
+   "audio": "audio/ar-de/wendungen/ta2_24.mp3?v=5494387a",
+   "gloss": "هَلْ يُ·مْكِن·ُنِي أَنْ آ·خُذ·َ كَعْكَة | FRAGE 3SG·möglich.sein·mir dass 1SG·nehmen·KONJ Kaak",
+   "umschrift": "hal yumkinunī an ākhudha kaʿka?",
+   "wurzel": "م-ك-ن",
+   "satz": {
+    "fr": "هَلْ يُمْكِنُنِي أَنْ آخُذَ كَعْكَة؟ بِالسِّمْسِمِ مِنْ فَضْلِك.",
+    "de": "Kann ich ein Kaak haben? Mit Sesam bitte.",
+    "luecke": "هَلْ يُمْكِنُنِي أَنْ آخُذَ",
+    "gloss": "هَلْ يُ·مْكِن·ُنِي أَنْ آ·خُذ·َ كَعْكَة؟ بِ·ال·سِمْسِم مِنْ فَضْل·ِك. | FRAGE 3SG·möglich.sein·mir dass 1SG·nehmen·KONJ Kaak? mit·DEF·Sesam aus Güte·Ihr.",
+    "umschrift": "hal yumkinunī an ākhudha kaʿka? bis-simsim min faḍlik.",
+    "audio": "audio/ar-de/saetze/ta2_24.mp3?v=0e4ae08e"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "فيني آخُد كَعْكِة؟ بِالسِّمْسِم إذا بْتْريد.",
+    "umschrift": "fīnī ākhod kaʿke? bis-simsem iza btrīd.",
+    "audio": "audio/ar-de/syrisch/ta2_24.mp3?v=1962e15b"
    }
   }
  ],
@@ -10339,6 +11096,213 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 1
     }
    ]
+  },
+  {
+   "id": "g_taam",
+   "thema": "taam",
+   "titel": "الأَعْدَادُ وَالوَقْت",
+   "de": "Zahlen und Uhrzeit",
+   "regel": [
+    "Eins bis zehn: wāḥid, ithnān, thalātha, arbaʿa, khamsa, sitta, sabʿa, thamāniya, tisʿa, ʿashara. Von drei bis zehn gilt die umgekehrte Regel: vor einem maskulinen Nomen hat die Zahl die Endung -a, vor einem femininen nicht. sabʿat aqzām (Zwerg maskulin, Zahl mit -a), sabʿ ḥiṣaṣ (Stunde feminin, Zahl ohne), thalāth kalimāt, khams daqāʾiq. Das Gezählte steht im Plural. Eins und zwei folgen dem Nomen: qiṭṭ wāḥid, qiṭṭatān. Ab elf steht das Gezählte im Singular Akkusativ: iḥdā ʿashar sana, ʿishrūn waraqa, thalāthūn waraqa.",
+    "Die Uhrzeit braucht Ordnungszahlen: as-sāʿa l-wāḥida ein Uhr, as-sāʿa th-thāniya zwei Uhr, as-sāʿa l-khāmisa fünf Uhr, as-sāʿa t-tāsiʿa masāʾan neun Uhr abends. Halb: wa-niṣf, Viertel: wa-rubʿ, zehn nach: wa-ʿashr daqāʾiq. Die Tage heißen nach Zahlen: yawm al-aḥad Sonntag (der erste), al-ithnayn Montag (der zweite), ath-thulāthāʾ, al-arbiʿāʾ, al-khamīs, al-jumʿa (Versammlung), as-sabt (Sabbat). Preise mit bi-: bi-ʿashra für zehn, bi-kam? für wie viel?"
+   ],
+   "morphem": [
+    "DUAL",
+    "ORD"
+   ],
+   "beispiele": [
+    {
+     "fr": "أَتَسَوَّقُ مِنَ السُّوق، كِيلُو البَنَدُورَةِ بِعَشْرَة.",
+     "de": "Ich kaufe auf dem Markt ein, das Kilo Tomaten für zehn.",
+     "gloss": "أَ·تَسَوَّق مِنَ ال·سُوق، كِيلُو ال·بَنَدُورَة بِ·عَشْرَة. | 1SG·einkaufen von DEF·Markt, Kilo DEF·Tomate für·zehn.",
+     "umschrift": "atasawwaq min as-sūq, kīlū l-banadūra bi-ʿashra.",
+     "audio": "audio/ar-de/saetze/ta2_04.mp3?v=0b88765f",
+     "hinweis": "bi-ʿashra: der Preis mit bi-.;ta2_10=as-sāʿa l-khāmisa: die Uhrzeit mit Ordnungszahl.;ta2_11=litrayn: zwei als Dual, ohne Zahlwort."
+    },
+    {
+     "fr": "سَبْعَةُ أَقْزَامٍ ذَهَبُوا إِلَى المَنْجَم، وَوَاحِدٌ تَأَخَّر.",
+     "de": "Sieben Zwerge gingen ins Bergwerk, und einer kam zu spät.",
+     "gloss": "سَبْعَة أَقْزَام ذَهَب·ُوا إِلَى ال·مَنْجَم، وَ·وَاحِد تَأَخَّر. | sieben Zwerge gehen·3PL zu DEF·Bergwerk, und·einer verspätete.sich.",
+     "umschrift": "sabʿat aqzām dhahabū ilā l-manjam, wa-wāḥid taʾakhkhar.",
+     "audio": "audio/ar-de/saetze/hk_08.mp3?v=f7a3ed69",
+     "hinweis": "sabʿat aqzām: Zahl mit -a vor maskulinem Nomen."
+    },
+    {
+     "fr": "أَنَا مُتْعَبٌ بَعْدَ سِتِّ حِصَص.",
+     "de": "Ich bin müde nach sechs Stunden.",
+     "gloss": "أَنَا مُتْعَب بَعْدَ سِتّ حِصَص. | ich müde nach sechs Stunden.",
+     "umschrift": "anā mutʿab baʿda sitt ḥiṣaṣ.",
+     "audio": "audio/ar-de/saetze/mu_02.mp3?v=2a4a0ca8",
+     "hinweis": "sitt ḥiṣaṣ: Zahl ohne -a vor femininem Nomen."
+    },
+    {
+     "fr": "مُفْرَدَاتِي تَكْبُر، ثَلاثُ كَلِمَاتٍ فِي اليَوْم.",
+     "de": "Mein Wortschatz wächst, drei Wörter am Tag.",
+     "gloss": "مُفْرَدَات·ِي تَ·كْبُر، ثَلاث كَلِمَات فِي ال·يَوْم. | Wortschatz·mein 3SG.F·wachsen, drei Wörter in DEF·Tag.",
+     "umschrift": "mufradātī takbur, thalāth kalimāt fī l-yawm.",
+     "audio": "audio/ar-de/saetze/mq_18.mp3?v=741acd42",
+     "hinweis": "thalāth kalimāt: feminin, Zahl ohne -a."
+    },
+    {
+     "fr": "اللهُ يُعْطِيكَ العَافِيَة! – اللهُ يُعَافِيك، بَقِيَ ثَلاثُونَ وَرَقَة.",
+     "de": "Gott gebe dir Kraft! – Gott erhalte dich, es bleiben dreißig Arbeiten.",
+     "gloss": "الله يُ·عْطِي·كَ ال·عَافِيَة! – الله يُ·عَافِي·ك، بَقِيَ ثَلاثُون وَرَقَة. | Gott 3SG·geben·dir DEF·Wohlbefinden! – Gott 3SG·erhalten·dich, blieb dreißig Blatt.",
+     "umschrift": "Allāh yuʿṭīk al-ʿāfiya! – Allāh yuʿāfīk, baqiya thalāthūn waraqa.",
+     "audio": "audio/ar-de/saetze/mu_22.mp3?v=b27232db",
+     "hinweis": "thalāthūn waraqa: ab elf Singular."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "sabʿat aqzām",
+     "b": "sabʿ ḥiṣaṣ",
+     "text": "sieben Zwerge (m.: Zahl -a) – sieben Stunden (f.: Zahl ohne)"
+    },
+    {
+     "a": "thalātha",
+     "b": "ath-thālitha",
+     "text": "drei – die dritte (Uhrzeit: as-sāʿa th-thālitha)"
+    },
+    {
+     "a": "ʿashr daqāʾiq",
+     "b": "ʿishrūn daqīqa",
+     "text": "zehn Minuten (Plural) – zwanzig Minuten (Singular!)"
+    },
+    {
+     "a": "al-ithnayn",
+     "b": "ithnān",
+     "text": "Montag (der zweite Tag) – zwei"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "sieben + Zwerg (aqzām, m.)",
+     "antworten": [
+      "sabʿat aqzām",
+      "sabʿ aqzām",
+      "sabʿa qazam"
+     ]
+    },
+    {
+     "formel": "fünf + Minute (daqāʾiq, f.)",
+     "antworten": [
+      "khams daqāʾiq",
+      "khamsat daqāʾiq",
+      "khams daqīqa"
+     ]
+    },
+    {
+     "formel": "zwei + Liter",
+     "antworten": [
+      "litrayn",
+      "ithnān litr",
+      "litrāt"
+     ]
+    },
+    {
+     "formel": "as-sāʿa + neun Uhr",
+     "antworten": [
+      "as-sāʿa t-tāsiʿa",
+      "as-sāʿa tisʿa",
+      "tisʿ sāʿāt"
+     ]
+    },
+    {
+     "formel": "dreißig + Blatt (waraqa)",
+     "antworten": [
+      "thalāthūn waraqa",
+      "thalāthūn awrāq",
+      "thalāth waraqāt"
+     ]
+    },
+    {
+     "formel": "Freitag",
+     "antworten": [
+      "yawm al-jumʿa",
+      "yawm al-khamīs",
+      "yawm as-sabt"
+     ]
+    }
+   ],
+   "hoeren_frage": "In welchem Satz wird eine Uhrzeit genannt?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "الفُرْنُ عِنْدَ الزَّاوِيَةِ يَفْتَحُ السَّاعَةَ الخَامِسَة، وَالخُبْزُ سَاخِن.",
+       "de": "Die Bäckerei an der Ecke öffnet um fünf, und das Brot ist warm.",
+       "gloss": "ال·فُرْن عِنْدَ ال·زَاوِيَة يَ·فْتَح ال·سَاعَة ال·خَامِسَة، وَ·ال·خُبْز سَاخِن. | DEF·Ofen bei DEF·Ecke 3SG·öffnen DEF·Stunde DEF·fünfte, und·DEF·Brot heiß.",
+       "umschrift": "al-furn ʿinda z-zāwiya yaftaḥ as-sāʿa l-khāmisa, wal-khubz sākhin.",
+       "audio": "audio/ar-de/saetze/ta2_10.mp3?v=9f324847"
+      },
+      {
+       "fr": "أُقَرْمِشُ بَيْنَ الحِصَص: بِزْر وَفُسْتُق.",
+       "de": "Zwischen den Stunden knabbere ich: Kerne und Pistazien.",
+       "gloss": "أُ·قَرْمِش بَيْنَ ال·حِصَص: بِزْر وَ·فُسْتُق. | 1SG·knabbern zwischen DEF·Stunden: Kerne und·Pistazie.",
+       "umschrift": "uqarmish bayna l-ḥiṣaṣ: bizr wa-fustuq.",
+       "audio": "audio/ar-de/saetze/ta2_12.mp3?v=b8ee88f1"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "المُبَارَاةُ السَّاعَةَ التَّاسِعَةَ مَسَاءً، وَالشَّايُ جَاهِز.",
+       "de": "Das Spiel ist um neun Uhr abends, und der Tee ist fertig.",
+       "gloss": "ال·مُبَارَاة ال·سَاعَة ال·تَاسِعَة مَسَاءً، وَ·ال·شَاي جَاهِز. | DEF·Spiel DEF·Stunde DEF·neunte abends, und·DEF·Tee fertig.",
+       "umschrift": "al-mubārāt as-sāʿa t-tāsiʿa masāʾan, wash-shāy jāhiz.",
+       "audio": "audio/ar-de/saetze/ri_14.mp3?v=c302faa0"
+      },
+      {
+       "fr": "سَجَّلْنَا هَدَفًا فِي الدَّقِيقَةِ الأَخِيرَة، وَالحَارَةُ صَرَخَتْ.",
+       "de": "Wir haben in der letzten Minute ein Tor geschossen, und das Viertel hat geschrien.",
+       "gloss": "سَجَّل·ْنَا هَدَف·ًا فِي ال·دَقِيقَة ال·أَخِيرَة، وَ·ال·حَارَة صَرَخ·َتْ. | erzielen·1PL Tor·AKK in DEF·Minute DEF·letzte, und·DEF·Viertel schreien·3SG.F.",
+       "umschrift": "sajjalnā hadafan fī d-daqīqa l-akhīra, wal-ḥāra ṣarakhat.",
+       "audio": "audio/ar-de/saetze/ri_15.mp3?v=c32057c4"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "الاجْتِمَاعُ السَّاعَةَ الرَّابِعَة، هَلْ تَأْتِي؟",
+       "de": "Die Sitzung ist um vier, kommst du?",
+       "gloss": "ال·اجْتِمَاع ال·سَاعَة ال·رَابِعَة، هَلْ تَ·أْتِي؟ | DEF·Sitzung DEF·Stunde DEF·vierte, FRAGE 2SG·kommen?",
+       "umschrift": "al-ijtimāʿ as-sāʿa ar-rābiʿa, hal taʾtī?",
+       "audio": "audio/ar-de/saetze/mu_03.mp3?v=f01da193"
+      },
+      {
+       "fr": "عِنْدِي حِصَّةٌ فَارِغَة فِي الثَّالِثَة، نَشْرَبُ قَهْوَة؟",
+       "de": "Ich habe in der dritten eine Freistunde, trinken wir Kaffee?",
+       "gloss": "عِنْد·ِي حِصَّة فَارِغَة فِي ال·ثَالِثَة، نَ·شْرَب قَهْوَة؟ | bei·mir Stunde leer.F in DEF·dritten, 1PL·trinken Kaffee?",
+       "umschrift": "ʿindī ḥiṣṣa fārigha fī th-thālitha, nashrab qahwa?",
+       "audio": "audio/ar-de/saetze/mu_04.mp3?v=48a3f174"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "يَنَامُ فِي الشَّمْسِ طُولَ النَّهَار.",
+       "de": "Er schläft den ganzen Tag in der Sonne.",
+       "gloss": "يَ·نَام فِي ال·شَمْس طُولَ ال·نَهَار. | 3SG·schlafen in DEF·Sonne Länge DEF·Tag.",
+       "umschrift": "yanām fī sh-shams ṭūl an-nahār.",
+       "audio": "audio/ar-de/saetze/qi_09.mp3?v=a435b9b1"
+      },
+      {
+       "fr": "يَمُوءُ عِنْدَ البَابِ السَّاعَةَ الخَامِسَةَ صَبَاحًا.",
+       "de": "Er miaut um fünf Uhr morgens an der Tür.",
+       "gloss": "يَ·مُوء عِنْدَ ال·بَاب ال·سَاعَة ال·خَامِسَة صَبَاحًا. | 3SG·miauen bei DEF·Tür DEF·Stunde DEF·fünfte morgens.",
+       "umschrift": "yamūʾ ʿinda l-bāb as-sāʿa l-khāmisa ṣabāḥan.",
+       "audio": "audio/ar-de/saetze/qi_03.mp3?v=52216838"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
   }
  ],
  "anekdoten": [
@@ -12769,6 +13733,44 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/saetze/ri_24.mp3?v=27cd0a80",
   "audio/ar-de/saetze/ri_24_fp.mp3?v=b17fc880",
   "audio/ar-de/saetze/ri_24_pc.mp3?v=c20283c3",
+  "audio/ar-de/saetze/ta2_01.mp3?v=7da2b0ae",
+  "audio/ar-de/saetze/ta2_01_fp.mp3?v=adc646ea",
+  "audio/ar-de/saetze/ta2_01_pc.mp3?v=c0a53525",
+  "audio/ar-de/saetze/ta2_02.mp3?v=5fda33de",
+  "audio/ar-de/saetze/ta2_02_fp.mp3?v=af8eee8d",
+  "audio/ar-de/saetze/ta2_02_pc.mp3?v=9c3ce150",
+  "audio/ar-de/saetze/ta2_03.mp3?v=c4c0995b",
+  "audio/ar-de/saetze/ta2_04.mp3?v=0b88765f",
+  "audio/ar-de/saetze/ta2_04_fp.mp3?v=610f2d21",
+  "audio/ar-de/saetze/ta2_04_pc.mp3?v=90461958",
+  "audio/ar-de/saetze/ta2_05.mp3?v=7fe42967",
+  "audio/ar-de/saetze/ta2_05_fp.mp3?v=befd4eb7",
+  "audio/ar-de/saetze/ta2_05_pc.mp3?v=dfad9110",
+  "audio/ar-de/saetze/ta2_06.mp3?v=a53a0eb5",
+  "audio/ar-de/saetze/ta2_07.mp3?v=943b5dc5",
+  "audio/ar-de/saetze/ta2_08.mp3?v=53c72df7",
+  "audio/ar-de/saetze/ta2_09.mp3?v=38031239",
+  "audio/ar-de/saetze/ta2_10.mp3?v=9f324847",
+  "audio/ar-de/saetze/ta2_10_fp.mp3?v=00b08f73",
+  "audio/ar-de/saetze/ta2_10_pc.mp3?v=f7a3175e",
+  "audio/ar-de/saetze/ta2_11.mp3?v=8e2f3435",
+  "audio/ar-de/saetze/ta2_12.mp3?v=b8ee88f1",
+  "audio/ar-de/saetze/ta2_13.mp3?v=2de36f3b",
+  "audio/ar-de/saetze/ta2_13_fp.mp3?v=5f1f6c95",
+  "audio/ar-de/saetze/ta2_13_pc.mp3?v=654c0d3f",
+  "audio/ar-de/saetze/ta2_14.mp3?v=9f1a22ef",
+  "audio/ar-de/saetze/ta2_15.mp3?v=76ead8d4",
+  "audio/ar-de/saetze/ta2_16.mp3?v=1a0b887f",
+  "audio/ar-de/saetze/ta2_16_fp.mp3?v=bf60282d",
+  "audio/ar-de/saetze/ta2_16_pc.mp3?v=e55e94f3",
+  "audio/ar-de/saetze/ta2_17.mp3?v=9515c932",
+  "audio/ar-de/saetze/ta2_18.mp3?v=36fe3cd9",
+  "audio/ar-de/saetze/ta2_19.mp3?v=537237ab",
+  "audio/ar-de/saetze/ta2_20.mp3?v=b12c9186",
+  "audio/ar-de/saetze/ta2_21.mp3?v=b1994c83",
+  "audio/ar-de/saetze/ta2_22.mp3?v=d2d7a117",
+  "audio/ar-de/saetze/ta2_23.mp3?v=7c44ffe0",
+  "audio/ar-de/saetze/ta2_24.mp3?v=0e4ae08e",
   "audio/ar-de/saetze/ta_01.mp3?v=6123a137",
   "audio/ar-de/saetze/ta_02.mp3?v=cf05178f",
   "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5",
@@ -12947,6 +13949,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/ri_22.mp3?v=1fb2b39c",
   "audio/ar-de/syrisch/ri_23.mp3?v=df970ef0",
   "audio/ar-de/syrisch/ri_24.mp3?v=aed39154",
+  "audio/ar-de/syrisch/ta2_01.mp3?v=8ff8e75a",
+  "audio/ar-de/syrisch/ta2_02.mp3?v=b813d85f",
+  "audio/ar-de/syrisch/ta2_03.mp3?v=fac6cfca",
+  "audio/ar-de/syrisch/ta2_04.mp3?v=d59b2df7",
+  "audio/ar-de/syrisch/ta2_05.mp3?v=723cffa4",
+  "audio/ar-de/syrisch/ta2_06.mp3?v=6ea6c5d0",
+  "audio/ar-de/syrisch/ta2_07.mp3?v=18917da4",
+  "audio/ar-de/syrisch/ta2_08.mp3?v=a6039d0c",
+  "audio/ar-de/syrisch/ta2_09.mp3?v=097d7b29",
+  "audio/ar-de/syrisch/ta2_10.mp3?v=4b20775e",
+  "audio/ar-de/syrisch/ta2_11.mp3?v=e0fc86f4",
+  "audio/ar-de/syrisch/ta2_12.mp3?v=ef3fa20c",
+  "audio/ar-de/syrisch/ta2_13.mp3?v=dde464ed",
+  "audio/ar-de/syrisch/ta2_14.mp3?v=7c5a01c2",
+  "audio/ar-de/syrisch/ta2_15.mp3?v=a312a459",
+  "audio/ar-de/syrisch/ta2_16.mp3?v=0d02c7a7",
+  "audio/ar-de/syrisch/ta2_17.mp3?v=bb44b091",
+  "audio/ar-de/syrisch/ta2_18.mp3?v=a2b21b56",
+  "audio/ar-de/syrisch/ta2_19.mp3?v=e47cedc6",
+  "audio/ar-de/syrisch/ta2_20.mp3?v=de5223c2",
+  "audio/ar-de/syrisch/ta2_21.mp3?v=5a531e2e",
+  "audio/ar-de/syrisch/ta2_22.mp3?v=bdcd2cc1",
+  "audio/ar-de/syrisch/ta2_23.mp3?v=d2291270",
+  "audio/ar-de/syrisch/ta2_24.mp3?v=1962e15b",
   "audio/ar-de/syrisch/ta_01.mp3?v=299cc310",
   "audio/ar-de/syrisch/ta_02.mp3?v=1e22b30d",
   "audio/ar-de/syrisch/ta_03.mp3?v=c958cdf6",
@@ -13115,6 +14141,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/wendungen/ri_22.mp3?v=6ae06123",
   "audio/ar-de/wendungen/ri_23.mp3?v=ae852fc6",
   "audio/ar-de/wendungen/ri_24.mp3?v=ee642a8c",
+  "audio/ar-de/wendungen/ta2_01.mp3?v=95b6852b",
+  "audio/ar-de/wendungen/ta2_02.mp3?v=3736096e",
+  "audio/ar-de/wendungen/ta2_03.mp3?v=78eb7d4b",
+  "audio/ar-de/wendungen/ta2_04.mp3?v=cd1c237d",
+  "audio/ar-de/wendungen/ta2_05.mp3?v=503bca52",
+  "audio/ar-de/wendungen/ta2_06.mp3?v=21c82279",
+  "audio/ar-de/wendungen/ta2_07.mp3?v=3bd180e1",
+  "audio/ar-de/wendungen/ta2_08.mp3?v=e700a2ea",
+  "audio/ar-de/wendungen/ta2_09.mp3?v=ae31c1c1",
+  "audio/ar-de/wendungen/ta2_10.mp3?v=e84438a7",
+  "audio/ar-de/wendungen/ta2_11.mp3?v=10f6bafe",
+  "audio/ar-de/wendungen/ta2_12.mp3?v=83bf8413",
+  "audio/ar-de/wendungen/ta2_13.mp3?v=de241e48",
+  "audio/ar-de/wendungen/ta2_14.mp3?v=52761ea5",
+  "audio/ar-de/wendungen/ta2_15.mp3?v=8b3b3344",
+  "audio/ar-de/wendungen/ta2_16.mp3?v=b913365f",
+  "audio/ar-de/wendungen/ta2_17.mp3?v=42d0f674",
+  "audio/ar-de/wendungen/ta2_18.mp3?v=83817e3c",
+  "audio/ar-de/wendungen/ta2_19.mp3?v=f262580f",
+  "audio/ar-de/wendungen/ta2_20.mp3?v=c84bf9bf",
+  "audio/ar-de/wendungen/ta2_21.mp3?v=453488e4",
+  "audio/ar-de/wendungen/ta2_22.mp3?v=c2e87df7",
+  "audio/ar-de/wendungen/ta2_23.mp3?v=9038ca73",
+  "audio/ar-de/wendungen/ta2_24.mp3?v=5494387a",
   "audio/ar-de/wendungen/ta_01.mp3?v=3f5e2ddc",
   "audio/ar-de/wendungen/ta_02.mp3?v=368d4d85",
   "audio/ar-de/wendungen/ta_03.mp3?v=20ca843b",
