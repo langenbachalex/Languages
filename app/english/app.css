@@ -136,6 +136,7 @@
 :root[data-theme="dark"] { --k-an: #ff6b7a; --k-on: #8fb0ff; --k-in: #5fd394; --k-un: #c3a2ff; }
 .klang-an { color: var(--k-an); } .klang-on { color: var(--k-on); } .klang-in { color: var(--k-in); } .klang-un { color: var(--k-un); }
 .klang-rr { color: var(--k-an); } .klang-r { color: var(--k-on); }
+.klang-nasal { color: var(--k-an); } .klang-oral { color: var(--k-in); }
 /* Deutsch: h, ich, ach, ei, ie (+ kein, kurz, lang nur für Minimalpaare) */
 .klang-h { color: var(--k-an); } .klang-ich { color: var(--k-in); } .klang-ach { color: var(--k-un); } .klang-ei { color: var(--k-on); } .klang-ie { color: var(--k-in); }
 .klang-i, .klang-sad, .klang-ayn { color: var(--k-an); } .klang-oe, .klang-dad, .klang-hha { color: var(--k-on); } .klang-ue, .klang-ta, .klang-qaf { color: var(--k-in); } .klang-g, .klang-za, .klang-ghayn { color: var(--k-un); }

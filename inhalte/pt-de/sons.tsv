@@ -1,0 +1,41 @@
+id	teil	klang	wort	de	partner
+nas_01	klang	nasal	pão	Brot	
+nas_02	klang	nasal	mão	Hand	
+nas_03	klang	nasal	mãe	Mutter	
+nas_04	klang	nasal	irmã	Schwester	
+nas_05	klang	nasal	bom	gut	
+nas_06	klang	nasal	sim	ja	
+nas_07	klang	nasal	cão	Hund	
+nas_08	klang	nasal	limão	Zitrone	
+ora_01	klang	oral	pau	Stock	
+ora_02	klang	oral	mau	schlecht	
+ora_03	klang	oral	pai	Vater	
+ora_04	klang	oral	lá	dort	
+ora_05	klang	oral	avó	Großmutter	
+ora_06	klang	oral	vi	ich sah	
+ora_07	klang	oral	céu	Himmel	
+ora_08	klang	oral	café	Kaffee	
+p1_01a	paar	nasal	pão	Brot	p1_01b
+p1_01b	paar	oral	pau	Stock	p1_01a
+p1_02a	paar	nasal	mão	Hand	p1_02b
+p1_02b	paar	oral	mau	schlecht	p1_02a
+p1_03a	paar	nasal	lã	Wolle	p1_03b
+p1_03b	paar	oral	lá	dort	p1_03a
+p1_04a	paar	nasal	vim	ich kam	p1_04b
+p1_04b	paar	oral	vi	ich sah	p1_04a
+p1_05a	paar	nasal	som	Klang	p1_05b
+p1_05b	paar	oral	só	allein	p1_05a
+p1_06a	paar	nasal	mundo	Welt	p1_06b
+p1_06b	paar	oral	mudo	stumm	p1_06a
+p1_07a	paar	nasal	lindo	schön	p1_07b
+p1_07b	paar	oral	lido	gelesen	p1_07a
+p1_08a	paar	nasal	manta	Decke	p1_08b
+p1_08b	paar	oral	mata	Wald	p1_08a
+b_01	beide	nasal,oral	{oral|a}vi{nasal|ão}	Flugzeug	
+b_02	beide	nasal,oral	c{oral|o}r{oral|a}ç{nasal|ão}	Herz	
+b_03	beide	nasal,oral	{nasal|mãe} e {oral|pai}	Mutter und Vater	
+b_04	beide	nasal,oral	{oral|a}lem{nasal|ão}	deutsch, Deutscher	
+b_05	beide	nasal,oral	f{oral|ei}j{nasal|ão}	Bohne	
+b_06	beide	nasal,oral	b{oral|a}lc{nasal|ão}	Theke	
+b_07	beide	nasal,oral	s{oral|a}l{nasal|ão}	Saal, Salon	
+b_08	beide	nasal,oral	p{nasal|ão} e c{oral|a}f{oral|é}	Brot und Kaffee	
