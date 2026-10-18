@@ -43,6 +43,10 @@ def auftraege(P):
     for A in bauen.aussprache_module(P):
         for z in bauen.tsv(inhalte, A["datei"]):
             liste.append((f"audio/{paar}/{A['id']}/{z['id']}.mp3", s(bauen.rein(z["wort"])), "w" + n))
+    SCH = getattr(P, "SCHRIFT", None)
+    for z in (bauen.tsv(inhalte, SCH["datei"]) if SCH else []):   # Arabisch: Buchstabenname und Beispielwort, je im Trägersatz
+        liste.append((f"audio/{paar}/huruf/{z['id']}.mp3", s(z["name"]), "w" + n))
+        liste.append((f"audio/{paar}/huruf/{z['id']}_w.mp3", s(z["beispiel"]), "w" + n))
     for z in bauen.tsv(inhalte, "geschichte.tsv"):
         liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), n))
     for z in bauen.tsv(inhalte, "orte.tsv"):

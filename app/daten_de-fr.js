@@ -8858,6 +8858,7 @@ window.SPRACHEN["de-fr"] = {
    ]
   }
  ],
+ "schrift": null,
  "geschichte": [
   {
    "nr": 1,

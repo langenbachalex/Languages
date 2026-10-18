@@ -1311,6 +1311,7 @@ window.SPRACHEN["en-de"] = {
   "beide": []
  },
  "aussprachen": [],
+ "schrift": null,
  "geschichte": [
   {
    "nr": 1,

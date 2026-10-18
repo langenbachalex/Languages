@@ -11,7 +11,7 @@ BASIS = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 APP = os.path.join(BASIS, "app")
 SCHRIFT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
-PAKETE = ["fr_de", "es_de", "it_de", "de_fr", "tr_de"]   # Reihenfolge = Reihenfolge im Umschalter
+PAKETE = ["fr_de", "es_de", "it_de", "de_fr", "tr_de", "ar_de"]   # Reihenfolge = Reihenfolge im Umschalter
 # Ausgaben: je eine eigenständige Web-App (eigener Ordner, Speicher, Offline-Speicher). Englisch läuft getrennt unter app/english/,
 # teilt aber Code, Werkzeuge und Audio-Pipeline (Entscheidung Mr. Alex 16.10., docs/en/brainstorming.md).
 AUSGABEN = [
@@ -163,6 +163,18 @@ def daten_fuer(P):
         grammatik.append({"id": z["id"], "thema": z["thema"], "titel": z["titel"], "de": z["de"], "regel": z["regel"].split("||"),
                           "morphem": [m for m in z["morphem"].split(",") if m], "beispiele": beispiele, "kontrast": kontrast,
                           "chips": chips, "hoeren_frage": z["hoeren_frage"], "hoeren": hoeren})
+    # Schriftmodul (Arabisch): Buchstaben in Formgruppen, Name und Beispielwort aufgenommen
+    schrift = None
+    SCH = getattr(P, "SCHRIFT", None)
+    if SCH:
+        buchstaben = list(tsv(inhalte, SCH["datei"]))
+        schrift = {"symbol": SCH["symbol"], "titel": SCH["titel"], "de": SCH["de"], "gruppen": []}
+        for gid, name, de in SCH["gruppen"]:
+            schrift["gruppen"].append({"id": gid, "name": name, "de": de, "buchstaben": [
+                {"id": z["id"], "harf": z["harf"], "name": z["name"], "name_u": z["name_u"], "laut": z["laut"], "verbindet": z["verbindet"] == "1",
+                 "beispiel": z["beispiel"], "beispiel_u": z["beispiel_u"], "beispiel_de": z["beispiel_de"], "syrien": z["syrien"] or None,
+                 "audio": audio(f"huruf/{z['id']}.mp3"), "audio_wort": audio(f"huruf/{z['id']}_w.mp3")} for z in buchstaben if z["gruppe"] == gid]})
+        assert sum(len(g["buchstaben"]) for g in schrift["gruppen"]) == len(buchstaben), f"{paar}: Buchstaben ohne Gruppe"
     lob = {}
     for z in tsv(inhalte, "lob.tsv"):
         lob.setdefault(z["art"], []).append({"text": z["text"], "de": z.get("de", ""), "audio": audio(f"lob/{z['id']}.mp3"), "gruppe": [g for g in z["gruppe"].split(",") if g]})
@@ -183,7 +195,7 @@ def daten_fuer(P):
     return {"paar": paar, "name": P.NAME, "kurz": P.KURZ, "hilfe_kurz": P.HILFE_KURZ, "flagge": P.FLAGGE, "lang": P.LANG, "lang_hilfe": P.LANG_HILFE,
             "sprachausgabe": P.SPRACHAUSGABE, "tempo": getattr(P, "TEMPO", None), "audio_speicher": f"{ausgabe_von(P)['praefix']}-audio-{AUDIO_STAND}", "theme": {k: v for k, v in P.THEME.items() if not k.startswith("icon")},
             "ui": P.UI, "themen": themen, "wendungen": wendungen, "dialoge": dialoge, "rollen": P.ROLLEN, "dialoge_titel": P.DIALOGE_TITEL,
-            "aussprache": aussprache, "aussprachen": aussprachen, "geschichte": geschichte, "grammatik": grammatik, "geschichte_info": P.GESCHICHTE, "lob": lob,
+            "aussprache": aussprache, "aussprachen": aussprachen, "schrift": schrift, "geschichte": geschichte, "grammatik": grammatik, "geschichte_info": P.GESCHICHTE, "lob": lob,
             "pensum": PENSUM, "intervalle": INTERVALLE, "spiel": spiel}
 
 

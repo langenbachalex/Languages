@@ -7770,6 +7770,7 @@ window.SPRACHEN["es-de"] = {
    ]
   }
  ],
+ "schrift": null,
  "geschichte": [
   {
    "nr": 1,

@@ -7196,6 +7196,7 @@ window.SPRACHEN["tr-de"] = {
   "beide": []
  },
  "aussprachen": [],
+ "schrift": null,
  "geschichte": [
   {
    "nr": 1,

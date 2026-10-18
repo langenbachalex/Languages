@@ -328,6 +328,8 @@
           gesamt > 0 && el("span", { class: "gym-punkte", "aria-hidden": "true" }, punkte.map((p) =>
             el("span", { class: (p.wdh ? "wdh" : "") + (plan.fertig.includes(p.id) ? " ok" : "") })))),
         el("div", { class: "gym-knoepfe" }, knopf(plan.geschafft ? U.seance_fertig : U.seance, starteSeance, plan.geschafft ? "" : "haupt"))),
+      D.schrift && el("h2", {}, uf("schrift")),
+      D.schrift && el("nav", { class: "kacheln themen", "aria-label": U.schrift[0] }, D.schrift.gruppen.map(schriftKachel)),
       el("h2", {}, uf("themen")),
       el("nav", { class: "kacheln themen", "aria-label": U.themen[0] },
         D.themen.map((t) => {
@@ -734,6 +736,108 @@
     hoeren();
   }
 
+  /* ---------- Schriftmodul (Arabisch): Buchstaben in Formgruppen ----------
+     Je Gruppe: Buchstabenkarten (Gestalten, Name, Laut, Beispielwort) → hören und wählen (Name → Buchstabe) → den Buchstaben im Wort finden. */
+  const HARAKAT = /[\u064B-\u0652\u0670\u0640]/g;   // Vokalzeichen, Schadda, Sukūn, Tatwīl
+  const ZWJ = "\u200D";
+  const gestalten = (b) => (b.verbindet ? [b.harf, b.harf + ZWJ, ZWJ + b.harf + ZWJ, ZWJ + b.harf] : [b.harf, null, null, ZWJ + b.harf]);
+  function schriftTeile(g) {
+    return [{ art: "harf_karte", name: U.harf_karte, g, reihe: g.buchstaben },
+      { art: "harf_hoeren", name: U.harf_hoeren, g, reihe: g.buchstaben },
+      { art: "harf_finden", name: U.harf_finden, g, reihe: g.buchstaben }];
+  }
+  const schriftFertig = (g) => schriftTeile(g).every((_, i) => S.teile[`harf:${g.id}|0|${i}`]);
+  function schriftKachel(g) {
+    const ok = schriftFertig(g), n = schriftTeile(g).filter((_, i) => S.teile[`harf:${g.id}|0|${i}`]).length;
+    return el("button", { class: "kachel" + (ok ? " erledigt" : ""), onclick: () => starteSchrift(g.id), "aria-label": `${g.name} – ${g.de}${ok ? " ✓" : ""}` },
+      el("span", { class: "sym harf-sym", "aria-hidden": "true", lang: D.lang }, g.name),
+      el("span", { class: "titel", lang: D.lang_hilfe }, g.de),
+      el("span", { class: "zahl" }, `${g.buchstaben.length} ${U.harf_karte} · ${n} / ${schriftTeile(g).length} ${U.parties}`),
+      ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
+  }
+  function starteSchrift(gid) {
+    const g = D.schrift.gruppen.find((x) => x.id === gid);
+    lage = { thema: "harf:" + gid, gruppe: 0, schrift: g, titel: `${D.schrift.symbol} ${g.name}`, teile: schriftTeile(g), teil: 0, pos: 0, zurueckZu: startseite };
+    seance = null;
+    zeigeTeil();
+  }
+  const tonName = (b) => b.audio || { text: b.name };
+  const tonBeispiel = (b) => b.audio_wort || { text: b.beispiel };
+  function zeigeHarfKarte(teil) {
+    const b = teil.reihe[lage.pos];
+    const balken = jetztDu();
+    const weiter = sperre(weiterKnopf());
+    const abspielen = () => nachsprechen(balken, [tonName(b), tonBeispiel(b)]).then((sek) => { if (sek) gibFrei(weiter, sek); });
+    tasten(abspielen, wennFrei(weiter, naechstes));
+    const formen = gestalten(b).map((f, i) => el("div", { class: "harf-form" + (f ? "" : " leer") },
+      el("span", { class: "harf-gross", lang: D.lang }, f || "–"), el("span", { class: "harf-label", lang: D.lang_hilfe }, U.formen_de[i])));
+    zeige(kopf(),
+      ansageU("schrift_ansage"),
+      karte(f(U.harf_n, { n: lage.pos + 1, alle: teil.reihe.length }),
+        el("div", { class: "harf-kopf" },
+          el("span", { class: "harf-riese", lang: D.lang }, b.harf),
+          el("div", {}, el("p", { class: "wendung", lang: D.lang }, b.name), el("p", { class: "umschrift" }, b.name_u), el("p", { class: "wendung-de", lang: D.lang_hilfe }, b.laut))),
+        el("div", { class: "harf-formen" }, formen),
+        !b.verbindet && el("p", { class: "klein" }, U.nicht_verbinder),
+        el("div", { class: "harf-beispiel" },
+          el("span", { class: "sprache" }, U.exemple),
+          el("p", { class: "satz fr", lang: D.lang }, b.beispiel), el("p", { class: "umschrift" }, b.beispiel_u), el("p", { class: "satz de", lang: D.lang_hilfe }, b.beispiel_de)),
+        b.syrien && el("p", { class: "notiz", lang: D.lang_hilfe }, "🇸🇾 ", b.syrien),
+        balken,
+        el("div", { class: "knopfreihe" }, knopf(U.encore_hoeren, abspielen), weiter)));
+    abspielen();
+  }
+  function harfWahl(richtig, alle, nachher) {
+    const meldung = el("p", { class: "gram-meldung", "aria-live": "polite" });
+    const auswahl = mischen([richtig, ...mischen(alle.filter((x) => x !== richtig)).slice(0, 3)]);
+    const knoepfe = auswahl.map((b) => el("button", { class: "knopf chip harf-chip", lang: D.lang, onclick: (e) => {
+      if (b === richtig) { e.currentTarget.classList.add("richtig"); meldung.textContent = U.richtig; lob(false); knoepfe.forEach((k) => { k.disabled = true; }); nachher(); }
+      else { e.currentTarget.classList.add("falsch"); e.currentTarget.disabled = true; meldung.textContent = U.falsch; }
+    } }, b.harf));
+    return { knoepfe, meldung };
+  }
+  function zeigeHarfHoeren(teil) {
+    if (!lage.reihe) lage.reihe = mischen(teil.reihe);
+    const b = lage.reihe[lage.pos];
+    const weiter = sperre(weiterKnopf());
+    const alle = D.schrift.gruppen.flatMap((g) => g.buchstaben);
+    const loesung = el("div", { class: "harf-loesung", hidden: true }, el("p", { class: "wendung", lang: D.lang }, b.name), el("p", { class: "umschrift" }, `${b.name_u} · ${b.laut}`));
+    const { knoepfe, meldung } = harfWahl(b, teil.reihe.length >= 4 ? teil.reihe : alle, () => { loesung.hidden = false; gibFrei(weiter, 0.4); });
+    const hoeren = () => spiele([tonName(b)]);
+    tasten(hoeren, wennFrei(weiter, naechstes));
+    zeige(kopf(),
+      ansageU("harf_hoeren_ansage"),
+      karte(f(U.harf_n, { n: lage.pos + 1, alle: lage.reihe.length }),
+        el("div", { class: "knopfreihe" }, knopf(U.hoeren, hoeren, "haupt")),
+        el("div", { class: "knopfreihe chips" }, knoepfe), meldung, loesung,
+        el("div", { class: "knopfreihe" }, weiter)));
+    hoeren();
+  }
+  function zeigeHarfFinden(teil) {
+    if (!lage.reihe) lage.reihe = mischen(teil.reihe);
+    const b = lage.reihe[lage.pos];
+    const weiter = sperre(weiterKnopf());
+    const meldung = el("p", { class: "gram-meldung", "aria-live": "polite" });
+    const nackt = b.beispiel.replace(HARAKAT, "");
+    const varianten = { "أ": "ء", "إ": "ء", "ؤ": "ء", "ئ": "ء", "آ": "ء" };   // Hamza-Träger zählen als Hamza
+    const zeichen = [...new Set([...nackt])];
+    const trifft = (z) => z === b.harf || varianten[z] === b.harf;
+    const knoepfe = zeichen.map((z) => el("button", { class: "knopf chip harf-chip", lang: D.lang, onclick: (e) => {
+      if (trifft(z)) { e.currentTarget.classList.add("richtig"); meldung.textContent = U.richtig; lob(false); knoepfe.forEach((k) => { k.disabled = true; }); gibFrei(weiter, 0.4); }
+      else { e.currentTarget.classList.add("falsch"); e.currentTarget.disabled = true; meldung.textContent = U.falsch; }
+    } }, z));
+    const hoeren = () => spiele([tonBeispiel(b)]);
+    tasten(hoeren, wennFrei(weiter, naechstes));
+    zeige(kopf(),
+      ansageU("harf_finden_ansage", { laut: b.name_u }),
+      karte(f(U.harf_n, { n: lage.pos + 1, alle: lage.reihe.length }),
+        el("p", { class: "harf-wort", lang: D.lang }, b.beispiel), el("p", { class: "umschrift" }, `${b.beispiel_u} – ${b.beispiel_de}`),
+        el("div", { class: "knopfreihe" }, knopf(U.hoeren, hoeren)),
+        el("div", { class: "knopfreihe chips harf-reihe", dir: "rtl" }, knoepfe), meldung,
+        el("div", { class: "knopfreihe" }, weiter)));
+    hoeren();
+  }
+
   /* ---------- Dil bilgisi: eine Grammatik-Lektion pro Thema (Türkisch) ----------
      Regel + Beispiele (schon gehörte Sätze, Morphem in der Glosse hervorgehoben) → Form bilden (Formel, drei Antworten) → hören und entscheiden */
   const grammatikVon = (tid) => (D.grammatik || []).find((g) => g.thema === tid);
@@ -830,7 +934,7 @@
 
   function kopf() {
     return el("header", { class: "kopf" },
-      knopf(lage.dialog || lage.aussprache || lage.grammatik ? U.zurueck_accueil : U.zurueck_thema, lage.zurueckZu, "leise"),
+      knopf(lage.dialog || lage.aussprache || lage.grammatik || lage.schrift ? U.zurueck_accueil : U.zurueck_thema, lage.zurueckZu, "leise"),
       el("h1", { lang: D.lang }, lage.titel),
       sprungleiste());
   }
@@ -879,11 +983,13 @@
     const teil = lage.teile[lage.teil];
     ({ lr: zeigeSatz, zeit: zeigeZeitmaschine, abfrage: zeigeAbfrage, dialog: zeigeDialog,
        nasal_wort: zeigeNasalWort, nasal_beide: zeigeNasalWort, nasal_paar: zeigeNasalPaar,
-       gram_regel: zeigeGramRegel, gram_chips: zeigeGramChips, gram_hoeren: zeigeGramHoeren })[teil.art](teil);
+       gram_regel: zeigeGramRegel, gram_chips: zeigeGramChips, gram_hoeren: zeigeGramHoeren,
+       harf_karte: zeigeHarfKarte, harf_hoeren: zeigeHarfHoeren, harf_finden: zeigeHarfFinden })[teil.art](teil);
     navErgaenzen();
   }
   const laenge = (teil) => (teil.art === "abfrage" && lage.reihe ? lage.reihe.length : teil.art === "dialog" || teil.art === "gram_regel" ? 1 : (teil.saetze || teil.woerter || teil.paare || teil.ids || teil.reihe).length);
-  const SPRECH_MIN = { lr: 2, zeit: 3, nasal_wort: 1.5, nasal_beide: 2 }; // Sekunden pro Satz mindestens – schneller geht nicht ehrlich
+  // Hinweis: harf_hoeren / harf_finden mischen in lage.reihe, gleiche Länge wie teil.reihe
+  const SPRECH_MIN = { lr: 2, zeit: 3, nasal_wort: 1.5, nasal_beide: 2, harf_karte: 2 }; // Sekunden pro Satz mindestens – schneller geht nicht ehrlich
   const zuSchnell = (teil) => SPRECH_MIN[teil.art] && lage.start && (Date.now() - lage.start) / 1000 < laenge(teil) * SPRECH_MIN[teil.art];
   function naechstes() {
     const teil = lage.teile[lage.teil];

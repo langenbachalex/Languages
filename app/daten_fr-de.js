@@ -8613,6 +8613,7 @@ window.SPRACHEN["fr-de"] = {
    ]
   }
  ],
+ "schrift": null,
  "geschichte": [
   {
    "nr": 1,
