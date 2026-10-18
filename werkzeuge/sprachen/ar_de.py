@@ -22,6 +22,7 @@ THEMEN = [
     {"id": "tahiyyat", "name": "التَّحِيَّات", "de": "Begrüßung – anta und ḥaḍratuka", "symbol": "👋", "datei": "tahiyyat.tsv"},
     {"id": "muallimin", "name": "بَيْنَ المُعَلِّمِين", "de": "Unter Lehrern – mit Khalid", "symbol": "🧑‍🏫", "datei": "muallimin.tsv"},
     {"id": "mashair", "name": "المَشَاعِرُ وَالأَحْوَال", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "mashair.tsv"},
+    {"id": "qitat", "name": "القِطَط", "de": "Die Katzen", "symbol": "🐈", "datei": "qitat.tsv"},
 ]
 GRAMMATIK_DATEI = "qawaid.tsv"
 

@@ -428,6 +428,38 @@ window.SPRACHEN["ar-de"] = {
     "ms_23",
     "ms_24"
    ]
+  },
+  {
+   "id": "qitat",
+   "name": "القِطَط",
+   "de": "Die Katzen",
+   "symbol": "🐈",
+   "wendungen": [
+    "qi_01",
+    "qi_02",
+    "qi_03",
+    "qi_04",
+    "qi_05",
+    "qi_06",
+    "qi_07",
+    "qi_08",
+    "qi_09",
+    "qi_10",
+    "qi_11",
+    "qi_12",
+    "qi_13",
+    "qi_14",
+    "qi_15",
+    "qi_16",
+    "qi_17",
+    "qi_18",
+    "qi_19",
+    "qi_20",
+    "qi_21",
+    "qi_22",
+    "qi_23",
+    "qi_24"
+   ]
   }
  ],
  "wendungen": [
@@ -2472,6 +2504,709 @@ window.SPRACHEN["ar-de"] = {
     "fr": "عَلى كِلّ حال، في قَهْوِة.",
     "umschrift": "ʿala kill ḥāl, fī ʾahwe.",
     "audio": "audio/ar-de/syrisch/ms_24.mp3?v=633d931a"
+   }
+  },
+  {
+   "id": "qi_01",
+   "thema": "qitat",
+   "fr": "نُرَبِّي قِطَّيْن",
+   "de": "wir halten zwei Katzen",
+   "register": "tu",
+   "anker": "ربى",
+   "notiz": "rabbā = aufziehen, halten (Tiere, Kinder; Wurzel r-b-w). qiṭṭ-ayn = zwei Katzen: der Dual -ayn (Nominativ -ān). Zwei braucht kein Zahlwort. nu-rabbī = wir, rabbay-nā = wir (Vergangenheit).",
+   "audio": "audio/ar-de/wendungen/qi_01.mp3?v=4ac277aa",
+   "gloss": "نُ·رَبِّي قِطّ·َيْن | 1PL·halten Katze·DUAL",
+   "umschrift": "nurabbī qiṭṭayn",
+   "wurzel": "ر-ب-و",
+   "satz": {
+    "fr": "نُرَبِّي قِطَّيْنِ فِي البَيْت.",
+    "de": "Wir halten zwei Katzen zu Hause.",
+    "luecke": "نُرَبِّي قِطَّيْن",
+    "gloss": "نُ·رَبِّي قِطّ·َيْن فِي ال·بَيْت. | 1PL·halten Katze·DUAL in DEF·Haus.",
+    "umschrift": "nurabbī qiṭṭayn fī l-bayt.",
+    "audio": "audio/ar-de/saetze/qi_01.mp3?v=636d2d0e"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "رَبَّيْنَا قِطَّيْنِ فِي البَيْت.",
+     "umschrift": "rabbaynā qiṭṭayn fī l-bayt.",
+     "audio": "audio/ar-de/saetze/qi_01_pc.mp3?v=df1941a9"
+    },
+    "fp": {
+     "fr": "سَنُرَبِّي قِطَّيْنِ فِي البَيْت.",
+     "umschrift": "sa-nurabbī qiṭṭayn fī l-bayt.",
+     "audio": "audio/ar-de/saetze/qi_01_fp.mp3?v=5f2d77aa"
+    }
+   },
+   "syrisch": {
+    "fr": "عِنّا بِسّين بِالبيت.",
+    "umschrift": "ʿinna bissēn bil-bēt.",
+    "audio": "audio/ar-de/syrisch/qi_01.mp3?v=2ec4d1b8"
+   }
+  },
+  {
+   "id": "qi_02",
+   "thema": "qitat",
+   "fr": "يُخَرْخِرُ فِي حِجْرِي",
+   "de": "er schnurrt auf meinem Schoß",
+   "register": "tu",
+   "anker": "خرخر",
+   "notiz": "kharkhara = schnurren (lautmalerisch, vierkonsonantige Wurzel kh-r-kh-r). ʿindamā = wenn, als (zeitlich). ḥijr = Schoß; ḥijr-ī = mein Schoß. yajlis = er sitzt (jalasa, wie ijlis!).",
+   "audio": "audio/ar-de/wendungen/qi_02.mp3?v=127a1b40",
+   "gloss": "يُ·خَرْخِر فِي حِجْر·ِي | 3SG·schnurren in Schoß·mein",
+   "umschrift": "yukharkhir fī ḥijrī",
+   "wurzel": "خ-ر-خ-ر",
+   "satz": {
+    "fr": "يُخَرْخِرُ عِنْدَمَا يَجْلِسُ فِي حِجْرِي.",
+    "de": "Er schnurrt, wenn er auf meinem Schoß sitzt.",
+    "luecke": "يُخَرْخِرُ",
+    "gloss": "يُ·خَرْخِر عِنْدَمَا يَ·جْلِس فِي حِجْر·ِي. | 3SG·schnurren wenn 3SG·sitzen in Schoß·mein.",
+    "umschrift": "yukharkhir ʿindamā yajlis fī ḥijrī.",
+    "audio": "audio/ar-de/saetze/qi_02.mp3?v=a22127e7"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بْيِخَرْخِر لَمّا بْيِقْعُد بْحِضْني.",
+    "umschrift": "byikharkhir lamma byiʾʿod b-ḥiḍnī.",
+    "audio": "audio/ar-de/syrisch/qi_02.mp3?v=d1530434"
+   }
+  },
+  {
+   "id": "qi_03",
+   "thema": "qitat",
+   "fr": "يَمُوءُ عِنْدَ البَاب",
+   "de": "er miaut an der Tür",
+   "register": "tu",
+   "anker": "ماء",
+   "notiz": "māʾa / yamūʾ = miauen (Wurzel m-w-ʾ; muwāʾ = das Miauen). Nicht verwechseln mit māʾ = Wasser! ʿinda = bei. as-sāʿa l-khāmisa = fünf Uhr.",
+   "audio": "audio/ar-de/wendungen/qi_03.mp3?v=e8b8cd14",
+   "gloss": "يَ·مُوء عِنْدَ ال·بَاب | 3SG·miauen bei DEF·Tür",
+   "umschrift": "yamūʾ ʿinda l-bāb",
+   "wurzel": "م-و-أ",
+   "satz": {
+    "fr": "يَمُوءُ عِنْدَ البَابِ السَّاعَةَ الخَامِسَةَ صَبَاحًا.",
+    "de": "Er miaut um fünf Uhr morgens an der Tür.",
+    "luecke": "يَمُوءُ عِنْدَ البَاب",
+    "gloss": "يَ·مُوء عِنْدَ ال·بَاب ال·سَاعَة ال·خَامِسَة صَبَاحًا. | 3SG·miauen bei DEF·Tür DEF·Stunde DEF·fünfte morgens.",
+    "umschrift": "yamūʾ ʿinda l-bāb as-sāʿa l-khāmisa ṣabāḥan.",
+    "audio": "audio/ar-de/saetze/qi_03.mp3?v=52216838"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "مَاءَ عِنْدَ البَابِ السَّاعَةَ الخَامِسَةَ صَبَاحًا.",
+     "umschrift": "māʾa ʿinda l-bāb as-sāʿa l-khāmisa ṣabāḥan.",
+     "audio": "audio/ar-de/saetze/qi_03_pc.mp3?v=524683a1"
+    },
+    "fp": {
+     "fr": "سَيَمُوءُ عِنْدَ البَابِ السَّاعَةَ الخَامِسَةَ صَبَاحًا.",
+     "umschrift": "sa-yamūʾ ʿinda l-bāb as-sāʿa l-khāmisa ṣabāḥan.",
+     "audio": "audio/ar-de/saetze/qi_03_fp.mp3?v=96e38bd5"
+    }
+   },
+   "syrisch": {
+    "fr": "بْيِمْوي عَالباب السّاعَة خَمْسِة الصُّبْح.",
+    "umschrift": "byimwī ʿal-bāb is-sāʿa khamse iṣ-ṣubḥ.",
+    "audio": "audio/ar-de/syrisch/qi_03.mp3?v=d85a52de"
+   }
+  },
+  {
+   "id": "qi_04",
+   "thema": "qitat",
+   "fr": "خَدَشَ الأَرِيكَة",
+   "de": "er hat das Sofa zerkratzt",
+   "register": "tu",
+   "anker": "خدش",
+   "notiz": "khadasha = kratzen, zerkratzen (Wurzel kh-d-sh; khadsh = Kratzer). arīka = Sofa (feminin). marratan ukhrā = schon wieder, inzwischen ein Freund.",
+   "audio": "audio/ar-de/wendungen/qi_04.mp3?v=986acdc9",
+   "gloss": "خَدَش·َ ال·أَرِيكَة | kratzen·3SG DEF·Sofa",
+   "umschrift": "khadasha l-arīka",
+   "wurzel": "خ-د-ش",
+   "satz": {
+    "fr": "خَدَشَ الأَرِيكَةَ مَرَّةً أُخْرَى.",
+    "de": "Er hat das Sofa schon wieder zerkratzt.",
+    "luecke": "خَدَشَ الأَرِيكَة",
+    "gloss": "خَدَش·َ ال·أَرِيكَة مَرَّةً أُخْرَى. | kratzen·3SG DEF·Sofa Mal anderes.",
+    "umschrift": "khadasha l-arīka marratan ukhrā.",
+    "audio": "audio/ar-de/saetze/qi_04.mp3?v=6f05013c"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خَرْبَش الكَنَبايِة كَمان مَرَّة.",
+    "umschrift": "kharbash il-kanabāye kamān marra.",
+    "audio": "audio/ar-de/syrisch/qi_04.mp3?v=40304093"
+   }
+  },
+  {
+   "id": "qi_05",
+   "thema": "qitat",
+   "fr": "اِنْتَهَى رَمْلُ القِطّ",
+   "de": "der Katzensand ist alle",
+   "register": "tu",
+   "anker": "رمل",
+   "notiz": "raml al-qiṭṭ = der Sand der Katze (iḍāfa: Besitzkette, das erste Wort ohne al-, das zweite mit). intahā = ist zu Ende (maskulin, raml). adhhab ilā = ich gehe zu.",
+   "audio": "audio/ar-de/wendungen/qi_05.mp3?v=9816e8c3",
+   "gloss": "اِنْتَهَى رَمْل·ُ ال·قِطّ | endete Sand·GEN DEF·Katze",
+   "umschrift": "intahā raml al-qiṭṭ",
+   "wurzel": "ر-م-ل",
+   "satz": {
+    "fr": "اِنْتَهَى رَمْلُ القِطّ، أَذْهَبُ إِلَى السُّوق.",
+    "de": "Der Katzensand ist alle, ich gehe zum Markt.",
+    "luecke": "اِنْتَهَى رَمْلُ القِطّ",
+    "gloss": "اِنْتَهَى رَمْل·ُ ال·قِطّ، أَ·ذْهَب إِلَى ال·سُوق. | endete Sand·GEN DEF·Katze, 1SG·gehen zu DEF·Markt.",
+    "umschrift": "intahā raml al-qiṭṭ, adhhab ilā s-sūq.",
+    "audio": "audio/ar-de/saetze/qi_05.mp3?v=91953bf5"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خِلِص رَمْل البِسّ، رايِح عَالسّوق.",
+    "umschrift": "khiliṣ raml il-biss, rāyeḥ ʿas-sūʾ.",
+    "audio": "audio/ar-de/syrisch/qi_05.mp3?v=8c58a3e6"
+   }
+  },
+  {
+   "id": "qi_06",
+   "thema": "qitat",
+   "fr": "يَرْكُضُ عِنْدَمَا يَرَى الطَّعَام",
+   "de": "er rennt, wenn er das Futter sieht",
+   "register": "tu",
+   "anker": "ركض",
+   "notiz": "rakaḍa = rennen (Wurzel r-k-ḍ). raʾā / yarā = sehen (unregelmäßig: in der Gegenwart verschwindet die Hamza). ṭaʿām = Essen, Futter (Wurzel ṭ-ʿ-m, schmecken; maṭʿam = Restaurant).",
+   "audio": "audio/ar-de/wendungen/qi_06.mp3?v=f5c2922d",
+   "gloss": "يَ·رْكُض عِنْدَمَا يَ·رَى ال·طَعَام | 3SG·rennen wenn 3SG·sehen DEF·Essen",
+   "umschrift": "yarkuḍ ʿindamā yarā ṭ-ṭaʿām",
+   "wurzel": "ر-ك-ض",
+   "satz": {
+    "fr": "يَرْكُضُ عِنْدَمَا يَرَى الطَّعَام.",
+    "de": "Er rennt, wenn er das Futter sieht.",
+    "luecke": "يَرْكُضُ",
+    "gloss": "يَ·رْكُض عِنْدَمَا يَ·رَى ال·طَعَام. | 3SG·rennen wenn 3SG·sehen DEF·Essen.",
+    "umschrift": "yarkuḍ ʿindamā yarā ṭ-ṭaʿām.",
+    "audio": "audio/ar-de/saetze/qi_06.mp3?v=b1f5e8f9"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "رَكَضَ عِنْدَمَا رَأَى الطَّعَام.",
+     "umschrift": "rakaḍa ʿindamā raʾā ṭ-ṭaʿām.",
+     "audio": "audio/ar-de/saetze/qi_06_pc.mp3?v=9b115a61"
+    },
+    "fp": {
+     "fr": "سَيَرْكُضُ عِنْدَمَا يَرَى الطَّعَام.",
+     "umschrift": "sa-yarkuḍ ʿindamā yarā ṭ-ṭaʿām.",
+     "audio": "audio/ar-de/saetze/qi_06_fp.mp3?v=cebe29c0"
+    }
+   },
+   "syrisch": {
+    "fr": "بْيِرْكُض لَمّا بْيِشوف الأَكِل.",
+    "umschrift": "byirkoḍ lamma byshūf il-akil.",
+    "audio": "audio/ar-de/syrisch/qi_06.mp3?v=b1405add"
+   }
+  },
+  {
+   "id": "qi_07",
+   "thema": "qitat",
+   "fr": "يُسْقِطُ قَلَمِي بِكَفِّه",
+   "de": "er wirft meinen Stift mit der Pfote",
+   "register": "tu",
+   "anker": "أسقط",
+   "notiz": "asqaṭa = fallen lassen (Stamm IV von s-q-ṭ, fallen: saqaṭa; der vierte Stamm macht aus « fallen » « fallen lassen »). kaff = Handfläche, Pfote (Dual kaffayn). ṭāwila = Tisch.",
+   "audio": "audio/ar-de/wendungen/qi_07.mp3?v=f03a3467",
+   "gloss": "يُ·سْقِط قَلَم·ِي بِ·كَفّ·ِه | 3SG·fallen.lassen Stift·mein mit·Pfote·sein",
+   "umschrift": "yusqiṭ qalamī bi-kaffih",
+   "wurzel": "س-ق-ط",
+   "satz": {
+    "fr": "يُسْقِطُ قَلَمِي عَنِ الطَّاوِلَةِ بِكَفِّه.",
+    "de": "Er wirft meinen Stift mit der Pfote vom Tisch.",
+    "luecke": "يُسْقِطُ قَلَمِي",
+    "gloss": "يُ·سْقِط قَلَم·ِي عَنِ ال·طَاوِلَة بِ·كَفّ·ِه. | 3SG·fallen.lassen Stift·mein von DEF·Tisch mit·Pfote·sein.",
+    "umschrift": "yusqiṭ qalamī ʿan iṭ-ṭāwila bi-kaffih.",
+    "audio": "audio/ar-de/saetze/qi_07.mp3?v=fe403cd4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بْيوَقِّع ئَلَمي عَن الطّاوْلِة بْكَفّو.",
+    "umschrift": "bywaʾʾiʿ ʾalamī ʿan iṭ-ṭāwle b-kaffo.",
+    "audio": "audio/ar-de/syrisch/qi_07.mp3?v=63470d77"
+   }
+  },
+  {
+   "id": "qi_08",
+   "thema": "qitat",
+   "fr": "يَجْلِسُ عَلَى الأَوْرَاق",
+   "de": "er sitzt auf den Arbeiten",
+   "register": "tu",
+   "anker": "جلس",
+   "notiz": "jalasa = sitzen (Imperativ ijlis aus Thema 0). wa-anā uṣaḥḥiḥ = und ich korrigiere: das wāw al-ḥāl, ein « während »-Satz mit wa- + Pronomen + Präsens.",
+   "audio": "audio/ar-de/wendungen/qi_08.mp3?v=ca56cc8a",
+   "gloss": "يَ·جْلِس عَلَى ال·أَوْرَاق | 3SG·sitzen auf DEF·Blätter",
+   "umschrift": "yajlis ʿalā l-awrāq",
+   "wurzel": "ج-ل-س",
+   "satz": {
+    "fr": "يَجْلِسُ عَلَى الأَوْرَاقِ وَأَنَا أُصَحِّح.",
+    "de": "Er sitzt auf den Arbeiten, während ich korrigiere.",
+    "luecke": "يَجْلِسُ عَلَى الأَوْرَاق",
+    "gloss": "يَ·جْلِس عَلَى ال·أَوْرَاق وَ·أَنَا أُ·صَحِّح. | 3SG·sitzen auf DEF·Blätter und·ich 1SG·korrigieren.",
+    "umschrift": "yajlis ʿalā l-awrāq wa-anā uṣaḥḥiḥ.",
+    "audio": "audio/ar-de/saetze/qi_08.mp3?v=e78cae6e"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بْيِقْعُد عَالوْراق وأَنا عَم صَحِّح.",
+    "umschrift": "byiʾʿod ʿal-wrāʾ w-ana ʿam ṣaḥḥiḥ.",
+    "audio": "audio/ar-de/syrisch/qi_08.mp3?v=7a7e4c61"
+   }
+  },
+  {
+   "id": "qi_09",
+   "thema": "qitat",
+   "fr": "يَنَامُ فِي الشَّمْسِ طُولَ النَّهَار",
+   "de": "er schläft den ganzen Tag in der Sonne",
+   "register": "tu",
+   "anker": "نام",
+   "notiz": "nāma / yanām = schlafen (Wurzel n-w-m; nawm = Schlaf). ash-shams = die Sonne: Sonnenbuchstabe, das l verschmilzt (Modul 2). ṭūl an-nahār = die Länge des Tages = den ganzen Tag.",
+   "audio": "audio/ar-de/wendungen/qi_09.mp3?v=8c1252cc",
+   "gloss": "يَ·نَام فِي ال·شَمْس طُولَ ال·نَهَار | 3SG·schlafen in DEF·Sonne Länge DEF·Tag",
+   "umschrift": "yanām fī sh-shams ṭūl an-nahār",
+   "wurzel": "ن-و-م",
+   "satz": {
+    "fr": "يَنَامُ فِي الشَّمْسِ طُولَ النَّهَار.",
+    "de": "Er schläft den ganzen Tag in der Sonne.",
+    "luecke": "يَنَامُ فِي الشَّمْس",
+    "gloss": "يَ·نَام فِي ال·شَمْس طُولَ ال·نَهَار. | 3SG·schlafen in DEF·Sonne Länge DEF·Tag.",
+    "umschrift": "yanām fī sh-shams ṭūl an-nahār.",
+    "audio": "audio/ar-de/saetze/qi_09.mp3?v=a435b9b1"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "نَامَ فِي الشَّمْسِ طُولَ النَّهَار.",
+     "umschrift": "nāma fī sh-shams ṭūl an-nahār.",
+     "audio": "audio/ar-de/saetze/qi_09_pc.mp3?v=c72c4ab3"
+    },
+    "fp": {
+     "fr": "سَيَنَامُ فِي الشَّمْسِ طُولَ النَّهَار.",
+     "umschrift": "sa-yanām fī sh-shams ṭūl an-nahār.",
+     "audio": "audio/ar-de/saetze/qi_09_fp.mp3?v=3a321658"
+    }
+   },
+   "syrisch": {
+    "fr": "بْيِنام بِالشَّمْس طول النّْهار.",
+    "umschrift": "byinām bish-shams ṭūl in-nhār.",
+    "audio": "audio/ar-de/syrisch/qi_09.mp3?v=4b47dfbd"
+   }
+  },
+  {
+   "id": "qi_10",
+   "thema": "qitat",
+   "fr": "مِثْلُ القِطَط، لا يَسْمَعُ أَبَدًا",
+   "de": "wie Katzen, hört nie zu",
+   "register": "tu",
+   "anker": "مثل",
+   "notiz": "mithl = wie (Vergleich; Syrisch mitl). qiṭaṭ = Katzen (gebrochener Plural von qiṭṭ: das Wort ändert innen die Form). lā … abadan = nie (lā verneint, abadan verstärkt am Ende).",
+   "audio": "audio/ar-de/wendungen/qi_10.mp3?v=bbb81e9c",
+   "gloss": "مِثْل·ُ ال·قِطَط، لا يَ·سْمَع أَبَدًا | wie·GEN DEF·Katzen, nicht 3SG·hören jemals",
+   "umschrift": "mithl al-qiṭaṭ, lā yasmaʿ abadan",
+   "wurzel": "م-ث-ل",
+   "satz": {
+    "fr": "الصَّفُّ التَّاسِعُ مِثْلُ القِطَط، لا يَسْمَعُ أَبَدًا.",
+    "de": "Die Neunte ist wie Katzen, sie hört nie zu.",
+    "luecke": "مِثْلُ القِطَط",
+    "gloss": "ال·صَفّ ال·تَاسِع مِثْل·ُ ال·قِطَط، لا يَ·سْمَع أَبَدًا. | DEF·Klasse DEF·neunte wie·GEN DEF·Katzen, nicht 3SG·hören jemals.",
+    "umschrift": "aṣ-ṣaff at-tāsiʿ mithl al-qiṭaṭ, lā yasmaʿ abadan.",
+    "audio": "audio/ar-de/saetze/qi_10.mp3?v=6c2a244b"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الصَّفّ التّاسِع مِتْل البْساس، ما بْيِسْمَع أَبَدًا.",
+    "umschrift": "iṣ-ṣaff it-tāsiʿ mitl il-bsās, mā byismaʿ abadan.",
+    "audio": "audio/ar-de/syrisch/qi_10.mp3?v=8171b2ae"
+   }
+  },
+  {
+   "id": "qi_11",
+   "thema": "qitat",
+   "fr": "قِطُّ شَارِع، لَكِنَّهُ اخْتَارَنَا",
+   "de": "eine Straßenkatze, aber sie hat uns ausgesucht",
+   "register": "tu",
+   "anker": "اختار",
+   "notiz": "qiṭṭ shāriʿ = Katze einer Straße = Straßenkatze (iḍāfa ohne al-: unbestimmt). lākinna-hu = aber er (lākinna + Suffix). ikhtāra-nā = er wählte uns (-nā = uns am Verb; Stamm VIII von kh-y-r, wie khayr).",
+   "audio": "audio/ar-de/wendungen/qi_11.mp3?v=8c2f6b3b",
+   "gloss": "لَكِنّ·َهُ اخْتَار·َنَا | aber·er wählen·uns",
+   "umschrift": "lākinnahu khtāranā",
+   "wurzel": "خ-ي-ر",
+   "satz": {
+    "fr": "قِطُّ شَارِع، لَكِنَّهُ اخْتَارَنَا.",
+    "de": "Eine Straßenkatze, aber sie hat uns ausgesucht.",
+    "luecke": "اخْتَارَنَا",
+    "gloss": "قِطّ·ُ شَارِع، لَكِنّ·َهُ اخْتَار·َنَا. | Katze·GEN Straße, aber·er wählen·uns.",
+    "umschrift": "qiṭṭ shāriʿ, lākinnahu khtāranā.",
+    "audio": "audio/ar-de/saetze/qi_11.mp3?v=cbead59f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِسّ شارِع، بَسّ هُوِّ اخْتارْنا.",
+    "umschrift": "biss shāreʿ, bass huwwe ikhtarnā.",
+    "audio": "audio/ar-de/syrisch/qi_11.mp3?v=4eeeb291"
+   }
+  },
+  {
+   "id": "qi_12",
+   "thema": "qitat",
+   "fr": "لِكُلِّ حَارَةٍ قِطُّهَا",
+   "de": "jede Gasse hat ihre Katze",
+   "register": "tu",
+   "anker": "حارة",
+   "notiz": "li-kull ḥāra qiṭṭ-uhā = für jede Gasse (ist) ihre Katze: li- drückt Besitz aus (ich habe = lī). ḥāra = Gasse, Altstadtviertel (Damaskus hat Hunderte). -hā = ihr (feminin, Gasse).",
+   "audio": "audio/ar-de/wendungen/qi_12.mp3?v=0ea93c1e",
+   "gloss": "لِ·كُلّ حَارَة قِطّ·ُهَا | für·jede Gasse Katze·ihr",
+   "umschrift": "li-kull ḥāra qiṭṭuhā",
+   "wurzel": "ح-و-ر",
+   "satz": {
+    "fr": "فِي دِمَشْقَ لِكُلِّ حَارَةٍ قِطُّهَا.",
+    "de": "In Damaskus hat jede Gasse ihre Katze.",
+    "luecke": "لِكُلِّ حَارَةٍ قِطُّهَا",
+    "gloss": "فِي دِمَشْق لِ·كُلّ حَارَة قِطّ·ُهَا. | in Damaskus für·jede Gasse Katze·ihr.",
+    "umschrift": "fī Dimashq li-kull ḥāra qiṭṭuhā.",
+    "audio": "audio/ar-de/saetze/qi_12.mp3?v=a3642473"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِالشّام كِلّ حارَة إلا بِسّا.",
+    "umschrift": "bish-Shām kill ḥāra ʾilā bissa.",
+    "audio": "audio/ar-de/syrisch/qi_12.mp3?v=fb9dff67"
+   }
+  },
+  {
+   "id": "qi_13",
+   "thema": "qitat",
+   "fr": "شَعْرُهُ فِي كُلِّ مَكَان",
+   "de": "seine Haare sind überall",
+   "register": "tu",
+   "anker": "شعر",
+   "notiz": "shaʿr = Haar (Sammelwort, Singular im Arabischen; Wurzel sh-ʿ-r wie shaʿara fühlen, zwei Wörter, eine Wurzel). fī kull makān = an jedem Ort = überall. ar-rabīʿ = der Frühling.",
+   "audio": "audio/ar-de/wendungen/qi_13.mp3?v=68a9db87",
+   "gloss": "شَعْر·ُهُ فِي كُلّ مَكَان | Haar·sein in jeder Ort",
+   "umschrift": "shaʿruhu fī kull makān",
+   "wurzel": "ش-ع-ر",
+   "satz": {
+    "fr": "فِي الرَّبِيعِ شَعْرُهُ فِي كُلِّ مَكَان.",
+    "de": "Im Frühling sind seine Haare überall.",
+    "luecke": "شَعْرُهُ فِي كُلِّ مَكَان",
+    "gloss": "فِي ال·رَبِيع شَعْر·ُهُ فِي كُلّ مَكَان. | in DEF·Frühling Haar·sein in jeder Ort.",
+    "umschrift": "fī r-rabīʿ shaʿruhu fī kull makān.",
+    "audio": "audio/ar-de/saetze/qi_13.mp3?v=f559ffd4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِالرَّبيع شَعْرو بْكِلّ مَطْرَح.",
+    "umschrift": "bir-rabīʿ shaʿro b-kill maṭraḥ.",
+    "audio": "audio/ar-de/syrisch/qi_13.mp3?v=537207e5"
+   }
+  },
+  {
+   "id": "qi_14",
+   "thema": "qitat",
+   "fr": "تَقَيَّأَ عَلَى السَّجَّادَة",
+   "de": "er hat auf den Teppich gespuckt",
+   "register": "tu",
+   "anker": "تقيأ",
+   "notiz": "taqayyaʾa = sich übergeben (Stamm V, Wurzel q-y-ʾ, Hamza am Ende). sajjāda = Teppich (auch Gebetsteppich). ṭabʿan = natürlich (von ṭabʿ, Natur).",
+   "audio": "audio/ar-de/wendungen/qi_14.mp3?v=4d8449ba",
+   "gloss": "تَقَيَّأ·َ عَلَى ال·سَجَّادَة | sich.übergeben·3SG auf DEF·Teppich",
+   "umschrift": "taqayyaʾa ʿalā s-sajjāda",
+   "wurzel": "ق-ي-أ",
+   "satz": {
+    "fr": "تَقَيَّأَ عَلَى السَّجَّادَة، طَبْعًا عَلَى السَّجَّادَة.",
+    "de": "Er hat auf den Teppich gespuckt, natürlich auf den Teppich.",
+    "luecke": "تَقَيَّأَ عَلَى السَّجَّادَة",
+    "gloss": "تَقَيَّأ·َ عَلَى ال·سَجَّادَة، طَبْعًا عَلَى ال·سَجَّادَة. | sich.übergeben·3SG auf DEF·Teppich, natürlich auf DEF·Teppich.",
+    "umschrift": "taqayyaʾa ʿalā s-sajjāda, ṭabʿan ʿalā s-sajjāda.",
+    "audio": "audio/ar-de/saetze/qi_14.mp3?v=fc07ab6c"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "رَجَّع عَالسِّجّادِة، طَبْعًا عَالسِّجّادِة.",
+    "umschrift": "rajjaʿ ʿas-sijjāde, ṭabʿan ʿas-sijjāde.",
+    "audio": "audio/ar-de/syrisch/qi_14.mp3?v=0c4a175e"
+   }
+  },
+  {
+   "id": "qi_15",
+   "thema": "qitat",
+   "fr": "آخُذُهُ إِلَى الطَّبِيبِ البَيْطَرِيّ",
+   "de": "ich bringe ihn zum Tierarzt",
+   "register": "tu",
+   "anker": "أخذ",
+   "notiz": "ākhudh-uhu = ich nehme ihn (mit); ṭabīb bayṭarī = Tierarzt (bayṭarī = veterinär). taṭʿīm = Impfung (Wurzel ṭ-ʿ-m, dieselbe wie ṭaʿām: « einverleiben »). li- = für, zum.",
+   "audio": "audio/ar-de/wendungen/qi_15.mp3?v=b11ccb70",
+   "gloss": "آ·خُذ·ُهُ إِلَى ال·طَبِيب ال·بَيْطَرِيّ | 1SG·nehmen·ihn zu DEF·Arzt DEF·Tier-",
+   "umschrift": "ākhudhuhu ilā ṭ-ṭabīb al-bayṭarī",
+   "wurzel": "ب-ي-ط-ر",
+   "satz": {
+    "fr": "غَدًا آخُذُهُ إِلَى الطَّبِيبِ البَيْطَرِيِّ لِلتَّطْعِيم.",
+    "de": "Morgen bringe ich ihn zur Impfung zum Tierarzt.",
+    "luecke": "آخُذُهُ",
+    "gloss": "غَدًا آ·خُذ·ُهُ إِلَى ال·طَبِيب ال·بَيْطَرِيّ لِ·ال·تَطْعِيم. | morgen 1SG·nehmen·ihn zu DEF·Arzt DEF·Tier- für·DEF·Impfung.",
+    "umschrift": "ghadan ākhudhuhu ilā ṭ-ṭabīb al-bayṭarī lit-taṭʿīm.",
+    "audio": "audio/ar-de/saetze/qi_15.mp3?v=9d560177"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بُكْرا بآخْدو عَالبَيْطَري لَلتَّطْعيم.",
+    "umschrift": "bukra bākhdo ʿal-bayṭarī lat-taṭʿīm.",
+    "audio": "audio/ar-de/syrisch/qi_15.mp3?v=3e844fe9"
+   }
+  },
+  {
+   "id": "qi_16",
+   "thema": "qitat",
+   "fr": "البَلَدِيَّةُ تُعَقِّمُ قِطَطَ الشَّوَارِع",
+   "de": "die Stadt kastriert die Straßenkatzen",
+   "register": "tu",
+   "anker": "عقم",
+   "notiz": "baladiyya = Stadtverwaltung (balad = Land, Stadt; wie al-Balad in Jeddah). ʿaqqama = sterilisieren (Stamm II von ʿ-q-m). qiṭaṭ ash-shawāriʿ = die Katzen der Straßen (Plural + Plural in der iḍāfa).",
+   "audio": "audio/ar-de/wendungen/qi_16.mp3?v=00f30dd8",
+   "gloss": "ال·بَلَدِيَّة تُ·عَقِّم قِطَط·َ ال·شَوَارِع | DEF·Stadtverwaltung 3SG.F·sterilisieren Katzen·AKK DEF·Straßen",
+   "umschrift": "al-baladiyya tuʿaqqim qiṭaṭ ash-shawāriʿ",
+   "wurzel": "ع-ق-م",
+   "satz": {
+    "fr": "البَلَدِيَّةُ تُعَقِّمُ قِطَطَ الشَّوَارِع.",
+    "de": "Die Stadtverwaltung kastriert die Straßenkatzen.",
+    "luecke": "البَلَدِيَّةُ تُعَقِّمُ",
+    "gloss": "ال·بَلَدِيَّة تُ·عَقِّم قِطَط·َ ال·شَوَارِع. | DEF·Stadtverwaltung 3SG.F·sterilisieren Katzen·AKK DEF·Straßen.",
+    "umschrift": "al-baladiyya tuʿaqqim qiṭaṭ ash-shawāriʿ.",
+    "audio": "audio/ar-de/saetze/qi_16.mp3?v=a6cfe9f7"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "البَلَدِيِّة عَم تْعَقِّم بْساس الشَّوارِع.",
+    "umschrift": "il-baladiyye ʿam tʿaʾʾim bsās ish-shawāreʿ.",
+    "audio": "audio/ar-de/syrisch/qi_16.mp3?v=67c59136"
+   }
+  },
+  {
+   "id": "qi_17",
+   "thema": "qitat",
+   "fr": "كُفُوفُهُ بَيْضَاءُ كَالثَّلْج",
+   "de": "seine Pfoten sind weiß wie Schnee",
+   "register": "tu",
+   "anker": "أبيض",
+   "notiz": "kufūf = Pfoten, Plural von kaff. bayḍāʾ = weiß (feminin von abyaḍ; Farben haben eigene Formen: aḥmar/ḥamrāʾ, aswad/sawdāʾ). Ein Sachplural nimmt das Femininum: kufūf bayḍāʾ. ka- = wie (vorangestellt): ka-th-thalj.",
+   "audio": "audio/ar-de/wendungen/qi_17.mp3?v=fee0cfaf",
+   "gloss": "كُفُوف·ُهُ بَيْضَاء كَ·ال·ثَلْج | Pfoten·sein weiß.F wie·DEF·Schnee",
+   "umschrift": "kufūfuhu bayḍāʾ ka-th-thalj",
+   "wurzel": "ب-ي-ض",
+   "satz": {
+    "fr": "كُفُوفُهُ بَيْضَاءُ كَالثَّلْج.",
+    "de": "Seine Pfoten sind weiß wie Schnee.",
+    "luecke": "كُفُوفُهُ بَيْضَاءُ كَالثَّلْج",
+    "gloss": "كُفُوف·ُهُ بَيْضَاء كَ·ال·ثَلْج. | Pfoten·sein weiß.F wie·DEF·Schnee.",
+    "umschrift": "kufūfuhu bayḍāʾ ka-th-thalj.",
+    "audio": "audio/ar-de/saetze/qi_17.mp3?v=9a16acfb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "كْفوفو بيض مِتْل التَّلْج.",
+    "umschrift": "kfūfo bīḍ mitl it-talj.",
+    "audio": "audio/ar-de/syrisch/qi_17.mp3?v=37b11e86"
+   }
+  },
+  {
+   "id": "qi_18",
+   "thema": "qitat",
+   "fr": "شَوَارِبُهُ تَقِيسُ عَرْضَ البَاب",
+   "de": "seine Schnurrhaare messen die Türbreite",
+   "register": "tu",
+   "anker": "قاس",
+   "notiz": "shawārib = Schnurrbart, Schnurrhaare (Plural von shārib). qāsa / yaqīs = messen (Wurzel q-y-s; qiyās = Maß, Analogie). Sachplural + femininines Verb: taqīs. ʿarḍ al-bāb = die Breite der Tür.",
+   "audio": "audio/ar-de/wendungen/qi_18.mp3?v=e366d911",
+   "gloss": "شَوَارِب·ُهُ تَ·قِيس عَرْض·َ ال·بَاب | Schnurrhaare·sein 3SG.F·messen Breite·AKK DEF·Tür",
+   "umschrift": "shawāribuhu taqīs ʿarḍ al-bāb",
+   "wurzel": "ق-ي-س",
+   "satz": {
+    "fr": "شَوَارِبُهُ تَقِيسُ عَرْضَ البَاب.",
+    "de": "Seine Schnurrhaare messen die Breite der Tür.",
+    "luecke": "شَوَارِبُهُ تَقِيسُ",
+    "gloss": "شَوَارِب·ُهُ تَ·قِيس عَرْض·َ ال·بَاب. | Schnurrhaare·sein 3SG.F·messen Breite·AKK DEF·Tür.",
+    "umschrift": "shawāribuhu taqīs ʿarḍ al-bāb.",
+    "audio": "audio/ar-de/saetze/qi_18.mp3?v=59b6538d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "شْوارْبو بِتْقيس عَرْض الباب.",
+    "umschrift": "shwārbo bitʾīs ʿarḍ il-bāb.",
+    "audio": "audio/ar-de/syrisch/qi_18.mp3?v=c62b29b6"
+   }
+  },
+  {
+   "id": "qi_19",
+   "thema": "qitat",
+   "fr": "يَتَدَلَّلُ أَوَّلاً، ثُمَّ يَأْكُل",
+   "de": "erst ziert er sich, dann frisst er",
+   "register": "tu",
+   "anker": "دلل",
+   "notiz": "tadallala = sich zieren, verwöhnt tun (Stamm V von d-l-l; dalāl = Verwöhntheit, auch Koketterie). awwalan = zuerst, thumma = dann. akala / yaʾkul = essen (Hamza!).",
+   "audio": "audio/ar-de/wendungen/qi_19.mp3?v=9834b028",
+   "gloss": "يَ·تَدَلَّل أَوَّلاً، ثُمَّ يَ·أْكُل | 3SG·sich.zieren zuerst, dann 3SG·essen",
+   "umschrift": "yatadallal awwalan, thumma yaʾkul",
+   "wurzel": "د-ل-ل",
+   "satz": {
+    "fr": "يَتَدَلَّلُ أَوَّلاً، ثُمَّ يَأْكُل.",
+    "de": "Erst ziert er sich, dann frisst er.",
+    "luecke": "يَتَدَلَّلُ أَوَّلاً",
+    "gloss": "يَ·تَدَلَّل أَوَّلاً، ثُمَّ يَ·أْكُل. | 3SG·sich.zieren zuerst, dann 3SG·essen.",
+    "umschrift": "yatadallal awwalan, thumma yaʾkul.",
+    "audio": "audio/ar-de/saetze/qi_19.mp3?v=b5a4db0a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بْيِتْدَلَّل أَوَّل، وبَعْدين بْياكُل.",
+    "umschrift": "byitdallal awwal, w-baʿdēn byākol.",
+    "audio": "audio/ar-de/syrisch/qi_19.mp3?v=37d8248f"
+   }
+  },
+  {
+   "id": "qi_20",
+   "thema": "qitat",
+   "fr": "التَّلامِيذُ تَبَنَّوْا قِطَّ المَدْرَسَة",
+   "de": "die Schüler haben die Schulkatze adoptiert",
+   "register": "tu",
+   "anker": "تبنى",
+   "notiz": "tabannā = adoptieren (Stamm V von b-n-y, bauen / ibn, Sohn: « zum Sohn machen »). tabannaw = sie adoptierten (Plural -aw bei Verben auf -ā). qiṭṭ al-madrasa = die Katze der Schule.",
+   "audio": "audio/ar-de/wendungen/qi_20.mp3?v=3a912359",
+   "gloss": "تَبَنَّ·وْا قِطّ·َ ال·مَدْرَسَة | adoptieren·3PL Katze·AKK DEF·Schule",
+   "umschrift": "tabannaw qiṭṭ al-madrasa",
+   "wurzel": "ب-ن-ي",
+   "satz": {
+    "fr": "التَّلامِيذُ تَبَنَّوْا قِطَّ المَدْرَسَة.",
+    "de": "Die Schüler haben die Schulkatze adoptiert.",
+    "luecke": "تَبَنَّوْا قِطَّ المَدْرَسَة",
+    "gloss": "ال·تَلامِيذ تَبَنَّ·وْا قِطّ·َ ال·مَدْرَسَة. | DEF·Schüler.PL adoptieren·3PL Katze·AKK DEF·Schule.",
+    "umschrift": "at-talāmīdh tabannaw qiṭṭ al-madrasa.",
+    "audio": "audio/ar-de/saetze/qi_20.mp3?v=30293d23"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "التَّلاميذ تْبَنّو بِسّ المَدْرَسِة.",
+    "umschrift": "it-talāmīz tbannū biss il-madrase.",
+    "audio": "audio/ar-de/syrisch/qi_20.mp3?v=14b17e84"
+   }
+  },
+  {
+   "id": "qi_21",
+   "thema": "qitat",
+   "fr": "لَيْسَ لِلْقِطَط",
+   "de": "nicht für Katzen",
+   "register": "tu",
+   "anker": "ليس",
+   "notiz": "laysa = ist nicht: das einzige Verb, das einen Satz ohne Verb verneint (laysa, laysat, lastu ich bin nicht). lil-qiṭaṭ = für die Katzen. lisān al-qiṭṭ = Katzenzunge, auch auf Arabisch ein Keks.",
+   "audio": "audio/ar-de/wendungen/qi_21.mp3?v=f7a35cba",
+   "gloss": "لَيْسَ لِ·ال·قِطَط | ist.nicht für·DEF·Katzen",
+   "umschrift": "laysa lil-qiṭaṭ",
+   "wurzel": "ل-ي-س",
+   "satz": {
+    "fr": "بِسْكُوِيتُ لِسَانِ القِطِّ لَيْسَ لِلْقِطَط.",
+    "de": "Katzenzungen-Kekse sind nicht für Katzen.",
+    "luecke": "لَيْسَ لِلْقِطَط",
+    "gloss": "بِسْكُوِيت·ُ لِسَان·ِ ال·قِطّ لَيْسَ لِ·ال·قِطَط. | Keks·GEN Zunge·GEN DEF·Katze ist.nicht für·DEF·Katzen.",
+    "umschrift": "biskuwīt lisān al-qiṭṭ laysa lil-qiṭaṭ.",
+    "audio": "audio/ar-de/saetze/qi_21.mp3?v=d92fdbbd"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بَسْكوت لْسان البِسّ مو لَلبْساس.",
+    "umschrift": "baskōt lsān il-biss mū lal-bsās.",
+    "audio": "audio/ar-de/syrisch/qi_21.mp3?v=15f30b53"
+   }
+  },
+  {
+   "id": "qi_22",
+   "thema": "qitat",
+   "fr": "لِلْقِطَطِ سَبْعَةُ أَرْوَاح",
+   "de": "Katzen haben sieben Leben",
+   "register": "tu",
+   "anker": "روح",
+   "notiz": "In Arabien haben Katzen sieben Leben, nicht neun. arwāḥ = Plural von rūḥ (Seele). sabʿat arwāḥ: nach 3 bis 10 der Plural, und die Zahl hat das umgekehrte Genus (sabʿa mit -a vor einem maskulinen Nomen!). kamā yuqāl = wie gesagt wird (Passiv).",
+   "audio": "audio/ar-de/wendungen/qi_22.mp3?v=9bb539be",
+   "gloss": "لِ·ال·قِطَط سَبْعَة أَرْوَاح | für·DEF·Katzen sieben Seelen",
+   "umschrift": "lil-qiṭaṭ sabʿat arwāḥ",
+   "wurzel": "ر-و-ح",
+   "satz": {
+    "fr": "لِلْقِطَطِ سَبْعَةُ أَرْوَاح، كَمَا يُقَال.",
+    "de": "Katzen haben sieben Leben, wie man sagt.",
+    "luecke": "لِلْقِطَطِ سَبْعَةُ أَرْوَاح",
+    "gloss": "لِ·ال·قِطَط سَبْعَة أَرْوَاح، كَمَا يُ·قَال. | für·DEF·Katzen sieben Seelen, wie PASS·sagen.",
+    "umschrift": "lil-qiṭaṭ sabʿat arwāḥ, kamā yuqāl.",
+    "audio": "audio/ar-de/saetze/qi_22.mp3?v=886c73a3"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "البْساس إلُن سَبْع أَرْواح، مِتْل ما بْيِقولو.",
+    "umschrift": "il-bsās ʾilun sabʿ arwāḥ, mitl mā byʾūlū.",
+    "audio": "audio/ar-de/syrisch/qi_22.mp3?v=01783940"
+   }
+  },
+  {
+   "id": "qi_23",
+   "thema": "qitat",
+   "fr": "أَسْتَيْقِظُ وَرَأْسِي رَأْسُ قِطّ",
+   "de": "ich wache mit einem Katzenkopf auf",
+   "register": "tu",
+   "anker": "استيقظ",
+   "notiz": "istayqaẓa = aufwachen (Stamm X von y-q-ẓ; mustayqiẓ = wach, aus Thema 0). wa-raʾsī raʾs qiṭṭ = und mein Kopf (ist) ein Katzenkopf: wieder das wāw al-ḥāl für « während/wobei ».",
+   "audio": "audio/ar-de/wendungen/qi_23.mp3?v=390b5e43",
+   "gloss": "أَ·سْتَيْقِظ وَ·رَأْس·ِي رَأْس·ُ قِطّ | 1SG·aufwachen und·Kopf·mein Kopf·GEN Katze",
+   "umschrift": "astayqiẓ wa-raʾsī raʾs qiṭṭ",
+   "wurzel": "ي-ق-ظ",
+   "satz": {
+    "fr": "أَسْتَيْقِظُ صَبَاحًا وَرَأْسِي رَأْسُ قِطّ.",
+    "de": "Ich wache morgens mit einem Katzenkopf auf.",
+    "luecke": "أَسْتَيْقِظُ",
+    "gloss": "أَ·سْتَيْقِظ صَبَاحًا وَ·رَأْس·ِي رَأْس·ُ قِطّ. | 1SG·aufwachen morgens und·Kopf·mein Kopf·GEN Katze.",
+    "umschrift": "astayqiẓ ṣabāḥan wa-raʾsī raʾs qiṭṭ.",
+    "audio": "audio/ar-de/saetze/qi_23.mp3?v=7af60f79"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "اِسْتَيْقَظْتُ صَبَاحًا وَرَأْسِي رَأْسُ قِطّ.",
+     "umschrift": "istayqaẓtu ṣabāḥan wa-raʾsī raʾs qiṭṭ.",
+     "audio": "audio/ar-de/saetze/qi_23_pc.mp3?v=4a118861"
+    },
+    "fp": {
+     "fr": "سَأَسْتَيْقِظُ صَبَاحًا وَرَأْسِي رَأْسُ قِطّ.",
+     "umschrift": "sa-astayqiẓ ṣabāḥan wa-raʾsī raʾs qiṭṭ.",
+     "audio": "audio/ar-de/saetze/qi_23_fp.mp3?v=c5e1b193"
+    }
+   },
+   "syrisch": {
+    "fr": "بْفيق الصُّبْح وراسي راس بِسّ.",
+    "umschrift": "bfīʾ iṣ-ṣubḥ w-rāsī rās biss.",
+    "audio": "audio/ar-de/syrisch/qi_23.mp3?v=29156be5"
+   }
+  },
+  {
+   "id": "qi_24",
+   "thema": "qitat",
+   "fr": "قِطِّي لا يُحِبُّنِي، يُحِبُّ البَيْت",
+   "de": "meine Katze liebt nicht mich, sie liebt das Haus",
+   "register": "tu",
+   "anker": "حب",
+   "notiz": "qiṭṭ-ī = meine Katze. lā yuḥibb-unī = er liebt mich nicht (-nī = mich am Verb, mit -u- davor). yuḥibb al-bayt = er liebt das Haus. Dieselbe Wahrheit wie auf Türkisch: kedim beni değil, evi seviyor.",
+   "audio": "audio/ar-de/wendungen/qi_24.mp3?v=19b56013",
+   "gloss": "قِطّ·ِي لا يُ·حِبّ·ُنِي | Katze·mein nicht 3SG·lieben·mich",
+   "umschrift": "qiṭṭī lā yuḥibbunī",
+   "wurzel": "ح-ب-ب",
+   "satz": {
+    "fr": "قِطِّي لا يُحِبُّنِي، يُحِبُّ البَيْت.",
+    "de": "Meine Katze liebt nicht mich, sie liebt das Haus.",
+    "luecke": "قِطِّي لا يُحِبُّنِي",
+    "gloss": "قِطّ·ِي لا يُ·حِبّ·ُنِي، يُ·حِبّ ال·بَيْت. | Katze·mein nicht 3SG·lieben·mich, 3SG·lieben DEF·Haus.",
+    "umschrift": "qiṭṭī lā yuḥibbunī, yuḥibb al-bayt.",
+    "audio": "audio/ar-de/saetze/qi_24.mp3?v=5c634e2d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِسّي ما بْيِحِبّْني، بْيِحِبّ البيت.",
+    "umschrift": "bissī mā byḥibbnī, byḥibb il-bēt.",
+    "audio": "audio/ar-de/syrisch/qi_24.mp3?v=97ecd6f8"
    }
   }
  ],
@@ -6514,6 +7249,235 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 1
     }
    ]
+  },
+  {
+   "id": "g_qitat",
+   "thema": "qitat",
+   "titel": "الإِضَافَة وَالمُثَنَّى",
+   "de": "Die Besitzkette und der Dual",
+   "regel": [
+    "Die iḍāfa ist das arabische « X des Y »: zwei Nomen nebeneinander, das erste ohne al-, das zweite bestimmt. raml al-qiṭṭ der Sand der Katze, qiṭṭ al-madrasa die Katze der Schule, ʿarḍ al-bāb die Breite der Tür. Ist das zweite unbestimmt, ist die ganze Kette unbestimmt: qiṭṭ shāriʿ eine Straßenkatze. Ein Suffix ersetzt das zweite Glied: qiṭṭ-ī meine Katze, kufūf-uhu seine Pfoten. Weibliche Wörter zeigen in der Kette ihr t: madrasat al-banāt.",
+    "Der Dual: -ān im Nominativ, -ayn sonst, und im Gesprochenen fast immer -ayn: qiṭṭayn zwei Katzen, jadwalayn zwei Pläne, kaffayn zwei Pfoten. Kein Zahlwort nötig. Das Verb folgt im Dual: yartakibān. Pronomen hängen auch an Verben: ikhtāra-nā er wählte uns, yuḥibbu-nī er liebt mich, ākhudh-uhu ich nehme ihn, yuʾlimu-nī er schmerzt mich."
+   ],
+   "morphem": [
+    "GEN",
+    "DUAL",
+    "mein",
+    "sein",
+    "ihr",
+    "mich",
+    "uns",
+    "ihn"
+   ],
+   "beispiele": [
+    {
+     "fr": "اِنْتَهَى رَمْلُ القِطّ، أَذْهَبُ إِلَى السُّوق.",
+     "de": "Der Katzensand ist alle, ich gehe zum Markt.",
+     "gloss": "اِنْتَهَى رَمْل·ُ ال·قِطّ، أَ·ذْهَب إِلَى ال·سُوق. | endete Sand·GEN DEF·Katze, 1SG·gehen zu DEF·Markt.",
+     "umschrift": "intahā raml al-qiṭṭ, adhhab ilā s-sūq.",
+     "audio": "audio/ar-de/saetze/qi_05.mp3?v=91953bf5",
+     "hinweis": "raml al-qiṭṭ: der Sand der Katze."
+    },
+    {
+     "fr": "التَّلامِيذُ تَبَنَّوْا قِطَّ المَدْرَسَة.",
+     "de": "Die Schüler haben die Schulkatze adoptiert.",
+     "gloss": "ال·تَلامِيذ تَبَنَّ·وْا قِطّ·َ ال·مَدْرَسَة. | DEF·Schüler.PL adoptieren·3PL Katze·AKK DEF·Schule.",
+     "umschrift": "at-talāmīdh tabannaw qiṭṭ al-madrasa.",
+     "audio": "audio/ar-de/saetze/qi_20.mp3?v=30293d23",
+     "hinweis": "qiṭṭ al-madrasa, im Akkusativ hörbar: qiṭṭa."
+    },
+    {
+     "fr": "قِطُّ شَارِع، لَكِنَّهُ اخْتَارَنَا.",
+     "de": "Eine Straßenkatze, aber sie hat uns ausgesucht.",
+     "gloss": "قِطّ·ُ شَارِع، لَكِنّ·َهُ اخْتَار·َنَا. | Katze·GEN Straße, aber·er wählen·uns.",
+     "umschrift": "qiṭṭ shāriʿ, lākinnahu khtāranā.",
+     "audio": "audio/ar-de/saetze/qi_11.mp3?v=cbead59f",
+     "hinweis": "qiṭṭ shāriʿ: unbestimmte Kette, und ikhtāra-nā mit uns am Verb."
+    },
+    {
+     "fr": "نُرَبِّي قِطَّيْنِ فِي البَيْت.",
+     "de": "Wir halten zwei Katzen zu Hause.",
+     "gloss": "نُ·رَبِّي قِطّ·َيْن فِي ال·بَيْت. | 1PL·halten Katze·DUAL in DEF·Haus.",
+     "umschrift": "nurabbī qiṭṭayn fī l-bayt.",
+     "audio": "audio/ar-de/saetze/qi_01.mp3?v=636d2d0e",
+     "hinweis": "qiṭṭ-ayn: der Dual."
+    },
+    {
+     "fr": "فِي دِمَشْقَ لِكُلِّ حَارَةٍ قِطُّهَا.",
+     "de": "In Damaskus hat jede Gasse ihre Katze.",
+     "gloss": "فِي دِمَشْق لِ·كُلّ حَارَة قِطّ·ُهَا. | in Damaskus für·jede Gasse Katze·ihr.",
+     "umschrift": "fī Dimashq li-kull ḥāra qiṭṭuhā.",
+     "audio": "audio/ar-de/saetze/qi_12.mp3?v=a3642473",
+     "hinweis": "qiṭṭ-uhā: das Suffix ersetzt das zweite Glied."
+    },
+    {
+     "fr": "قِطِّي لا يُحِبُّنِي، يُحِبُّ البَيْت.",
+     "de": "Meine Katze liebt nicht mich, sie liebt das Haus.",
+     "gloss": "قِطّ·ِي لا يُ·حِبّ·ُنِي، يُ·حِبّ ال·بَيْت. | Katze·mein nicht 3SG·lieben·mich, 3SG·lieben DEF·Haus.",
+     "umschrift": "qiṭṭī lā yuḥibbunī, yuḥibb al-bayt.",
+     "audio": "audio/ar-de/saetze/qi_24.mp3?v=5c634e2d",
+     "hinweis": "yuḥibbu-nī: mich am Verb."
+    },
+    {
+     "fr": "غَدًا آخُذُهُ إِلَى الطَّبِيبِ البَيْطَرِيِّ لِلتَّطْعِيم.",
+     "de": "Morgen bringe ich ihn zur Impfung zum Tierarzt.",
+     "gloss": "غَدًا آ·خُذ·ُهُ إِلَى ال·طَبِيب ال·بَيْطَرِيّ لِ·ال·تَطْعِيم. | morgen 1SG·nehmen·ihn zu DEF·Arzt DEF·Tier- für·DEF·Impfung.",
+     "umschrift": "ghadan ākhudhuhu ilā ṭ-ṭabīb al-bayṭarī lit-taṭʿīm.",
+     "audio": "audio/ar-de/saetze/qi_15.mp3?v=9d560177",
+     "hinweis": "ākhudh-uhu: ihn am Verb."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "qiṭṭ al-madrasa",
+     "b": "al-qiṭṭ al-madrasī",
+     "text": "die Katze der Schule (Kette) – die schulische Katze (Adjektiv)"
+    },
+    {
+     "a": "qiṭṭ shāriʿ",
+     "b": "qiṭṭ ash-shāriʿ",
+     "text": "eine Straßenkatze – die Katze der Straße"
+    },
+    {
+     "a": "qiṭṭ",
+     "b": "qiṭṭayn",
+     "text": "eine Katze – zwei Katzen (ohne Zahlwort)"
+    },
+    {
+     "a": "qiṭaṭ",
+     "b": "qiṭṭayn",
+     "text": "Katzen (ab drei) – zwei Katzen"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "raml + al-qiṭṭ (Kette)",
+     "antworten": [
+      "raml al-qiṭṭ",
+      "ar-raml al-qiṭṭ",
+      "raml qiṭṭ"
+     ]
+    },
+    {
+     "formel": "madrasa + al-banāt (Kette)",
+     "antworten": [
+      "madrasat al-banāt",
+      "madrasa al-banāt",
+      "madrasah banāt"
+     ]
+    },
+    {
+     "formel": "kaff + Dual",
+     "antworten": [
+      "kaffayn",
+      "kaffāt",
+      "kufūf"
+     ]
+    },
+    {
+     "formel": "ikhtāra + uns",
+     "antworten": [
+      "ikhtāranā",
+      "ikhtāranī",
+      "ikhtāruh"
+     ]
+    },
+    {
+     "formel": "yuḥibb + mich",
+     "antworten": [
+      "yuḥibbunī",
+      "yuḥibbuhu",
+      "yuḥibbunā"
+     ]
+    },
+    {
+     "formel": "jadwal + Dual",
+     "antworten": [
+      "jadwalayn",
+      "jadāwil",
+      "jadwalāt"
+     ]
+    }
+   ],
+   "hoeren_frage": "In welchem Satz steht ein Dual (zwei, -ayn)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "نُرَبِّي قِطَّيْنِ فِي البَيْت.",
+       "de": "Wir halten zwei Katzen zu Hause.",
+       "gloss": "نُ·رَبِّي قِطّ·َيْن فِي ال·بَيْت. | 1PL·halten Katze·DUAL in DEF·Haus.",
+       "umschrift": "nurabbī qiṭṭayn fī l-bayt.",
+       "audio": "audio/ar-de/saetze/qi_01.mp3?v=636d2d0e"
+      },
+      {
+       "fr": "يَمُوءُ عِنْدَ البَابِ السَّاعَةَ الخَامِسَةَ صَبَاحًا.",
+       "de": "Er miaut um fünf Uhr morgens an der Tür.",
+       "gloss": "يَ·مُوء عِنْدَ ال·بَاب ال·سَاعَة ال·خَامِسَة صَبَاحًا. | 3SG·miauen bei DEF·Tür DEF·Stunde DEF·fünfte morgens.",
+       "umschrift": "yamūʾ ʿinda l-bāb as-sāʿa l-khāmisa ṣabāḥan.",
+       "audio": "audio/ar-de/saetze/qi_03.mp3?v=52216838"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "يَنَامُ فِي الشَّمْسِ طُولَ النَّهَار.",
+       "de": "Er schläft den ganzen Tag in der Sonne.",
+       "gloss": "يَ·نَام فِي ال·شَمْس طُولَ ال·نَهَار. | 3SG·schlafen in DEF·Sonne Länge DEF·Tag.",
+       "umschrift": "yanām fī sh-shams ṭūl an-nahār.",
+       "audio": "audio/ar-de/saetze/qi_09.mp3?v=a435b9b1"
+      },
+      {
+       "fr": "أَحَدُهُمْ يَغُشّ، وَاثْنَانِ يَرْتَكِبَانِ الخَطَأَ نَفْسَه.",
+       "de": "Einer schreibt ab, und zwei machen denselben Fehler.",
+       "gloss": "أَحَد·ُهُمْ يَ·غُشّ، وَ·اثْنَان يَ·رْتَكِب·َان ال·خَطَأ نَفْس·َه. | einer·ihr 3SG·schummeln, und·zwei 3·begehen·DUAL DEF·Fehler selbst·sein.",
+       "umschrift": "aḥaduhum yaghushsh, wa-thnān yartakibān al-khaṭaʾ nafsah.",
+       "audio": "audio/ar-de/saetze/mu_12.mp3?v=7c120849"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "لِلْقِطَطِ سَبْعَةُ أَرْوَاح، كَمَا يُقَال.",
+       "de": "Katzen haben sieben Leben, wie man sagt.",
+       "gloss": "لِ·ال·قِطَط سَبْعَة أَرْوَاح، كَمَا يُ·قَال. | für·DEF·Katzen sieben Seelen, wie PASS·sagen.",
+       "umschrift": "lil-qiṭaṭ sabʿat arwāḥ, kamā yuqāl.",
+       "audio": "audio/ar-de/saetze/qi_22.mp3?v=886c73a3"
+      },
+      {
+       "fr": "نُرَبِّي قِطَّيْنِ فِي البَيْت.",
+       "de": "Wir halten zwei Katzen zu Hause.",
+       "gloss": "نُ·رَبِّي قِطّ·َيْن فِي ال·بَيْت. | 1PL·halten Katze·DUAL in DEF·Haus.",
+       "umschrift": "nurabbī qiṭṭayn fī l-bayt.",
+       "audio": "audio/ar-de/saetze/qi_01.mp3?v=636d2d0e"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "لَيْلَى مَرِيضَة، أُعَوِّضُ عَنْهَا فِي الحِصَّةِ الثَّانِيَة.",
+       "de": "Laylā ist krank, ich vertrete sie in der zweiten Stunde.",
+       "gloss": "لَيْلَى مَرِيضَة، أُ·عَوِّض عَنْ·هَا فِي ال·حِصَّة ال·ثَانِيَة. | Laylā krank.F, 1SG·vertreten für·sie in DEF·Stunde DEF·zweite.",
+       "umschrift": "Laylā marīḍa, uʿawwiḍ ʿanhā fī l-ḥiṣṣa th-thāniya.",
+       "audio": "audio/ar-de/saetze/mu_14.mp3?v=5515c00c"
+      },
+      {
+       "fr": "أَحَدُهُمْ يَغُشّ، وَاثْنَانِ يَرْتَكِبَانِ الخَطَأَ نَفْسَه.",
+       "de": "Einer schreibt ab, und zwei machen denselben Fehler.",
+       "gloss": "أَحَد·ُهُمْ يَ·غُشّ، وَ·اثْنَان يَ·رْتَكِب·َان ال·خَطَأ نَفْس·َه. | einer·ihr 3SG·schummeln, und·zwei 3·begehen·DUAL DEF·Fehler selbst·sein.",
+       "umschrift": "aḥaduhum yaghushsh, wa-thnān yartakibān al-khaṭaʾ nafsah.",
+       "audio": "audio/ar-de/saetze/mu_12.mp3?v=7c120849"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
   }
  ],
  "geschichte_info": {
@@ -8134,6 +9098,40 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/saetze/mu_22.mp3?v=b27232db",
   "audio/ar-de/saetze/mu_23.mp3?v=65658a54",
   "audio/ar-de/saetze/mu_24.mp3?v=0d2ef7cf",
+  "audio/ar-de/saetze/qi_01.mp3?v=636d2d0e",
+  "audio/ar-de/saetze/qi_01_fp.mp3?v=5f2d77aa",
+  "audio/ar-de/saetze/qi_01_pc.mp3?v=df1941a9",
+  "audio/ar-de/saetze/qi_02.mp3?v=a22127e7",
+  "audio/ar-de/saetze/qi_03.mp3?v=52216838",
+  "audio/ar-de/saetze/qi_03_fp.mp3?v=96e38bd5",
+  "audio/ar-de/saetze/qi_03_pc.mp3?v=524683a1",
+  "audio/ar-de/saetze/qi_04.mp3?v=6f05013c",
+  "audio/ar-de/saetze/qi_05.mp3?v=91953bf5",
+  "audio/ar-de/saetze/qi_06.mp3?v=b1f5e8f9",
+  "audio/ar-de/saetze/qi_06_fp.mp3?v=cebe29c0",
+  "audio/ar-de/saetze/qi_06_pc.mp3?v=9b115a61",
+  "audio/ar-de/saetze/qi_07.mp3?v=fe403cd4",
+  "audio/ar-de/saetze/qi_08.mp3?v=e78cae6e",
+  "audio/ar-de/saetze/qi_09.mp3?v=a435b9b1",
+  "audio/ar-de/saetze/qi_09_fp.mp3?v=3a321658",
+  "audio/ar-de/saetze/qi_09_pc.mp3?v=c72c4ab3",
+  "audio/ar-de/saetze/qi_10.mp3?v=6c2a244b",
+  "audio/ar-de/saetze/qi_11.mp3?v=cbead59f",
+  "audio/ar-de/saetze/qi_12.mp3?v=a3642473",
+  "audio/ar-de/saetze/qi_13.mp3?v=f559ffd4",
+  "audio/ar-de/saetze/qi_14.mp3?v=fc07ab6c",
+  "audio/ar-de/saetze/qi_15.mp3?v=9d560177",
+  "audio/ar-de/saetze/qi_16.mp3?v=a6cfe9f7",
+  "audio/ar-de/saetze/qi_17.mp3?v=9a16acfb",
+  "audio/ar-de/saetze/qi_18.mp3?v=59b6538d",
+  "audio/ar-de/saetze/qi_19.mp3?v=b5a4db0a",
+  "audio/ar-de/saetze/qi_20.mp3?v=30293d23",
+  "audio/ar-de/saetze/qi_21.mp3?v=d92fdbbd",
+  "audio/ar-de/saetze/qi_22.mp3?v=886c73a3",
+  "audio/ar-de/saetze/qi_23.mp3?v=7af60f79",
+  "audio/ar-de/saetze/qi_23_fp.mp3?v=c5e1b193",
+  "audio/ar-de/saetze/qi_23_pc.mp3?v=4a118861",
+  "audio/ar-de/saetze/qi_24.mp3?v=5c634e2d",
   "audio/ar-de/saetze/ta_01.mp3?v=6123a137",
   "audio/ar-de/saetze/ta_02.mp3?v=cf05178f",
   "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5",
@@ -8216,6 +9214,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/mu_22.mp3?v=a7ca3207",
   "audio/ar-de/syrisch/mu_23.mp3?v=da629b1d",
   "audio/ar-de/syrisch/mu_24.mp3?v=36104cc2",
+  "audio/ar-de/syrisch/qi_01.mp3?v=2ec4d1b8",
+  "audio/ar-de/syrisch/qi_02.mp3?v=d1530434",
+  "audio/ar-de/syrisch/qi_03.mp3?v=d85a52de",
+  "audio/ar-de/syrisch/qi_04.mp3?v=40304093",
+  "audio/ar-de/syrisch/qi_05.mp3?v=8c58a3e6",
+  "audio/ar-de/syrisch/qi_06.mp3?v=b1405add",
+  "audio/ar-de/syrisch/qi_07.mp3?v=63470d77",
+  "audio/ar-de/syrisch/qi_08.mp3?v=7a7e4c61",
+  "audio/ar-de/syrisch/qi_09.mp3?v=4b47dfbd",
+  "audio/ar-de/syrisch/qi_10.mp3?v=8171b2ae",
+  "audio/ar-de/syrisch/qi_11.mp3?v=4eeeb291",
+  "audio/ar-de/syrisch/qi_12.mp3?v=fb9dff67",
+  "audio/ar-de/syrisch/qi_13.mp3?v=537207e5",
+  "audio/ar-de/syrisch/qi_14.mp3?v=0c4a175e",
+  "audio/ar-de/syrisch/qi_15.mp3?v=3e844fe9",
+  "audio/ar-de/syrisch/qi_16.mp3?v=67c59136",
+  "audio/ar-de/syrisch/qi_17.mp3?v=37b11e86",
+  "audio/ar-de/syrisch/qi_18.mp3?v=c62b29b6",
+  "audio/ar-de/syrisch/qi_19.mp3?v=37d8248f",
+  "audio/ar-de/syrisch/qi_20.mp3?v=14b17e84",
+  "audio/ar-de/syrisch/qi_21.mp3?v=15f30b53",
+  "audio/ar-de/syrisch/qi_22.mp3?v=01783940",
+  "audio/ar-de/syrisch/qi_23.mp3?v=29156be5",
+  "audio/ar-de/syrisch/qi_24.mp3?v=97ecd6f8",
   "audio/ar-de/syrisch/ta_01.mp3?v=299cc310",
   "audio/ar-de/syrisch/ta_02.mp3?v=1e22b30d",
   "audio/ar-de/syrisch/ta_03.mp3?v=c958cdf6",
@@ -8288,6 +9310,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/wendungen/mu_22.mp3?v=dc5a7ef9",
   "audio/ar-de/wendungen/mu_23.mp3?v=8dd5efaf",
   "audio/ar-de/wendungen/mu_24.mp3?v=a198afae",
+  "audio/ar-de/wendungen/qi_01.mp3?v=4ac277aa",
+  "audio/ar-de/wendungen/qi_02.mp3?v=127a1b40",
+  "audio/ar-de/wendungen/qi_03.mp3?v=e8b8cd14",
+  "audio/ar-de/wendungen/qi_04.mp3?v=986acdc9",
+  "audio/ar-de/wendungen/qi_05.mp3?v=9816e8c3",
+  "audio/ar-de/wendungen/qi_06.mp3?v=f5c2922d",
+  "audio/ar-de/wendungen/qi_07.mp3?v=f03a3467",
+  "audio/ar-de/wendungen/qi_08.mp3?v=ca56cc8a",
+  "audio/ar-de/wendungen/qi_09.mp3?v=8c1252cc",
+  "audio/ar-de/wendungen/qi_10.mp3?v=bbb81e9c",
+  "audio/ar-de/wendungen/qi_11.mp3?v=8c2f6b3b",
+  "audio/ar-de/wendungen/qi_12.mp3?v=0ea93c1e",
+  "audio/ar-de/wendungen/qi_13.mp3?v=68a9db87",
+  "audio/ar-de/wendungen/qi_14.mp3?v=4d8449ba",
+  "audio/ar-de/wendungen/qi_15.mp3?v=b11ccb70",
+  "audio/ar-de/wendungen/qi_16.mp3?v=00f30dd8",
+  "audio/ar-de/wendungen/qi_17.mp3?v=fee0cfaf",
+  "audio/ar-de/wendungen/qi_18.mp3?v=e366d911",
+  "audio/ar-de/wendungen/qi_19.mp3?v=9834b028",
+  "audio/ar-de/wendungen/qi_20.mp3?v=3a912359",
+  "audio/ar-de/wendungen/qi_21.mp3?v=f7a35cba",
+  "audio/ar-de/wendungen/qi_22.mp3?v=9bb539be",
+  "audio/ar-de/wendungen/qi_23.mp3?v=390b5e43",
+  "audio/ar-de/wendungen/qi_24.mp3?v=19b56013",
   "audio/ar-de/wendungen/ta_01.mp3?v=3f5e2ddc",
   "audio/ar-de/wendungen/ta_02.mp3?v=368d4d85",
   "audio/ar-de/wendungen/ta_03.mp3?v=20ca843b",
