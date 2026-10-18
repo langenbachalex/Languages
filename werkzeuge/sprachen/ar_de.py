@@ -23,6 +23,7 @@ THEMEN = [
     {"id": "muallimin", "name": "بَيْنَ المُعَلِّمِين", "de": "Unter Lehrern – mit Khalid", "symbol": "🧑‍🏫", "datei": "muallimin.tsv"},
     {"id": "mashair", "name": "المَشَاعِرُ وَالأَحْوَال", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "mashair.tsv"},
     {"id": "qitat", "name": "القِطَط", "de": "Die Katzen", "symbol": "🐈", "datei": "qitat.tsv"},
+    {"id": "musiqa", "name": "المُوسِيقَى وَاللُّغَة", "de": "Musik und Sprache", "symbol": "🎵", "datei": "musiqa.tsv"},
 ]
 GRAMMATIK_DATEI = "qawaid.tsv"
 

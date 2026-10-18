@@ -460,6 +460,38 @@ window.SPRACHEN["ar-de"] = {
     "qi_23",
     "qi_24"
    ]
+  },
+  {
+   "id": "musiqa",
+   "name": "المُوسِيقَى وَاللُّغَة",
+   "de": "Musik und Sprache",
+   "symbol": "🎵",
+   "wendungen": [
+    "mq_01",
+    "mq_02",
+    "mq_03",
+    "mq_04",
+    "mq_05",
+    "mq_06",
+    "mq_07",
+    "mq_08",
+    "mq_09",
+    "mq_10",
+    "mq_11",
+    "mq_12",
+    "mq_13",
+    "mq_14",
+    "mq_15",
+    "mq_16",
+    "mq_17",
+    "mq_18",
+    "mq_19",
+    "mq_20",
+    "mq_21",
+    "mq_22",
+    "mq_23",
+    "mq_24"
+   ]
   }
  ],
  "wendungen": [
@@ -3207,6 +3239,709 @@ window.SPRACHEN["ar-de"] = {
     "fr": "بِسّي ما بْيِحِبّْني، بْيِحِبّ البيت.",
     "umschrift": "bissī mā byḥibbnī, byḥibb il-bēt.",
     "audio": "audio/ar-de/syrisch/qi_24.mp3?v=97ecd6f8"
+   }
+  },
+  {
+   "id": "mq_01",
+   "thema": "musiqa",
+   "fr": "أُغَنِّي فِي الحَمَّام",
+   "de": "ich singe unter der Dusche",
+   "register": "tu",
+   "anker": "غنى",
+   "notiz": "ghannā / yughannī = singen (Stamm II von gh-n-y; ughniya = Lied, mughannī = Sänger). Schwaches Verb: in der Vergangenheit wird das ā zu ay: ghannay-tu. ḥammām = Bad (das arabische Wort hinter Hamam). jār = Nachbar.",
+   "audio": "audio/ar-de/wendungen/mq_01.mp3?v=a40e38ab",
+   "gloss": "أُ·غَنِّي فِي ال·حَمَّام | 1SG·singen in DEF·Bad",
+   "umschrift": "ughannī fī l-ḥammām",
+   "wurzel": "غ-ن-ي",
+   "satz": {
+    "fr": "أُغَنِّي فِي الحَمَّام، وَالجَارُ يَسْمَع.",
+    "de": "Ich singe unter der Dusche, und der Nachbar hört mit.",
+    "luecke": "أُغَنِّي",
+    "gloss": "أُ·غَنِّي فِي ال·حَمَّام، وَ·ال·جَار يَ·سْمَع. | 1SG·singen in DEF·Bad, und·DEF·Nachbar 3SG·hören.",
+    "umschrift": "ughannī fī l-ḥammām, wal-jār yasmaʿ.",
+    "audio": "audio/ar-de/saetze/mq_01.mp3?v=3432bc37"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ غَنَّيْتُ فِي الحَمَّام، وَالجَارُ سَمِع.",
+     "umschrift": "amsi ghannaytu fī l-ḥammām, wal-jār samiʿ.",
+     "audio": "audio/ar-de/saetze/mq_01_pc.mp3?v=4af4c2bd"
+    },
+    "fp": {
+     "fr": "غَدًا سَأُغَنِّي فِي الحَمَّام، وَالجَارُ سَيَسْمَع.",
+     "umschrift": "ghadan sa-ughannī fī l-ḥammām, wal-jār sa-yasmaʿ.",
+     "audio": "audio/ar-de/saetze/mq_01_fp.mp3?v=58151480"
+    }
+   },
+   "syrisch": {
+    "fr": "بْغَنّي بِالحَمّام، والجار عَم يِسْمَع.",
+    "umschrift": "bghannī bil-ḥammām, wij-jār ʿam yismaʿ.",
+    "audio": "audio/ar-de/syrisch/mq_01.mp3?v=2703c33f"
+   }
+  },
+  {
+   "id": "mq_02",
+   "thema": "musiqa",
+   "fr": "أَعْزِفُ العُود",
+   "de": "ich spiele Oud",
+   "register": "tu",
+   "anker": "عزف",
+   "notiz": "ʿazafa / yaʿzif = ein Instrument spielen (Wurzel ʿ-z-f; ʿāzif = Musiker, maʿzūfa = Stück). al-ʿūd = die Laute (wörtlich: das Holz; daher das Wort Laute: al-ʿūd → laúd). shadīd = stark, sehr.",
+   "audio": "audio/ar-de/wendungen/mq_02.mp3?v=058cddb9",
+   "gloss": "أَ·عْزِف ال·عُود | 1SG·spielen DEF·Oud",
+   "umschrift": "aʿzif al-ʿūd",
+   "wurzel": "ع-ز-ف",
+   "satz": {
+    "fr": "أَعْزِفُ العُود، بِبُطْءٍ شَدِيد.",
+    "de": "Ich spiele Oud, ganz langsam.",
+    "luecke": "أَعْزِفُ العُود",
+    "gloss": "أَ·عْزِف ال·عُود، بِ·بُطْء شَدِيد. | 1SG·spielen DEF·Oud, mit·Langsamkeit stark.",
+    "umschrift": "aʿzif al-ʿūd, bi-buṭʾ shadīd.",
+    "audio": "audio/ar-de/saetze/mq_02.mp3?v=8a433340"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ عَزَفْتُ العُود، بِبُطْءٍ شَدِيد.",
+     "umschrift": "amsi ʿazaftu l-ʿūd, bi-buṭʾ shadīd.",
+     "audio": "audio/ar-de/saetze/mq_02_pc.mp3?v=f7a116a6"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَعْزِفُ العُود، بِبُطْءٍ شَدِيد.",
+     "umschrift": "ghadan sa-aʿzif al-ʿūd, bi-buṭʾ shadīd.",
+     "audio": "audio/ar-de/saetze/mq_02_fp.mp3?v=5274a1df"
+    }
+   },
+   "syrisch": {
+    "fr": "بَعْزِف عود، شْوَيّ شْوَيّ.",
+    "umschrift": "baʿzif ʿūd, shwayy shwayy.",
+    "audio": "audio/ar-de/syrisch/mq_02.mp3?v=63508fd1"
+   }
+  },
+  {
+   "id": "mq_03",
+   "thema": "musiqa",
+   "fr": "أَعْزِفُ بِالأُذُن",
+   "de": "ich spiele nach Gehör",
+   "register": "tu",
+   "anker": "أذن",
+   "notiz": "udhun = Ohr (Dual udhunayn; feminin). bil-udhun = mit dem Ohr. ʿarafa = kennen, wissen (Wurzel ʿ-r-f, wie maʿrifa in Thema 0). nūta = Note (Lehnwort).",
+   "audio": "audio/ar-de/wendungen/mq_03.mp3?v=7785dc21",
+   "gloss": "أَ·عْزِف بِ·ال·أُذُن | 1SG·spielen mit·DEF·Ohr",
+   "umschrift": "aʿzif bil-udhun",
+   "wurzel": "أ-ذ-ن",
+   "satz": {
+    "fr": "أَعْزِفُ بِالأُذُن، لا أَعْرِفُ النُّوتَة.",
+    "de": "Ich spiele nach Gehör, die Noten kenne ich nicht.",
+    "luecke": "أَعْزِفُ بِالأُذُن",
+    "gloss": "أَ·عْزِف بِ·ال·أُذُن، لا أَ·عْرِف ال·نُوتَة. | 1SG·spielen mit·DEF·Ohr, nicht 1SG·kennen DEF·Note.",
+    "umschrift": "aʿzif bil-udhun, lā aʿrif an-nūta.",
+    "audio": "audio/ar-de/saetze/mq_03.mp3?v=e6bda67f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بَعْزِف بِالإدِن، ما بَعْرِف النّوتَة.",
+    "umschrift": "baʿzif bil-idn, mā baʿref in-nōta.",
+    "audio": "audio/ar-de/syrisch/mq_03.mp3?v=93901815"
+   }
+  },
+  {
+   "id": "mq_04",
+   "thema": "musiqa",
+   "fr": "حَفِظْتُ الكَلِمَات",
+   "de": "den Text kann ich auswendig",
+   "register": "tu",
+   "anker": "حفظ",
+   "notiz": "ḥafiẓa = auswendig lernen, bewahren (Wurzel ḥ-f-ẓ; ḥāfiẓ = wer den Koran auswendig kann). kalimāt = Wörter, Text (Plural von kalima). laḥn = Melodie. laysa baʿd = noch nicht.",
+   "audio": "audio/ar-de/wendungen/mq_04.mp3?v=cfcea4ae",
+   "gloss": "حَفِظ·ْتُ ال·كَلِمَات | auswendig.lernen·1SG DEF·Wörter",
+   "umschrift": "ḥafiẓtu l-kalimāt",
+   "wurzel": "ح-ف-ظ",
+   "satz": {
+    "fr": "حَفِظْتُ الكَلِمَات، اللَّحْنُ لَيْسَ بَعْد.",
+    "de": "Den Text kann ich auswendig, die Melodie noch nicht.",
+    "luecke": "حَفِظْتُ الكَلِمَات",
+    "gloss": "حَفِظ·ْتُ ال·كَلِمَات، ال·لَحْن لَيْسَ بَعْد. | auswendig.lernen·1SG DEF·Wörter, DEF·Melodie ist.nicht noch.",
+    "umschrift": "ḥafiẓtu l-kalimāt, al-laḥn laysa baʿd.",
+    "audio": "audio/ar-de/saetze/mq_04.mp3?v=32502b72"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "حْفِظْت الكَلِمات، اللَّحِن لِسّا.",
+    "umschrift": "ḥfiẓt il-kalimāt, il-laḥen lissa.",
+    "audio": "audio/ar-de/syrisch/mq_04.mp3?v=1f3e6179"
+   }
+  },
+  {
+   "id": "mq_05",
+   "thema": "musiqa",
+   "fr": "جَمِيلَةٌ فِي الأُذُن",
+   "de": "klingt gut im Ohr",
+   "register": "tu",
+   "anker": "جميل",
+   "notiz": "jamīl / jamīla = schön (Wurzel j-m-l, wie jamāl). bi-faḍl = dank (faḍl = Güte, Verdienst; wie tafaḍḍal). jadhr = Wurzel, das Wort aus Lektion 1.",
+   "audio": "audio/ar-de/wendungen/mq_05.mp3?v=a114d331",
+   "gloss": "جَمِيلَة فِي ال·أُذُن | schön.F in DEF·Ohr",
+   "umschrift": "jamīla fī l-udhun",
+   "wurzel": "ج-م-ل",
+   "satz": {
+    "fr": "العَرَبِيَّةُ جَمِيلَةٌ فِي الأُذُنِ بِفَضْلِ الجَذْر.",
+    "de": "Arabisch klingt gut im Ohr, dank der Wurzel.",
+    "luecke": "جَمِيلَةٌ فِي الأُذُن",
+    "gloss": "ال·عَرَبِيَّة جَمِيلَة فِي ال·أُذُن بِ·فَضْل·ِ ال·جَذْر. | DEF·Arabisch schön.F in DEF·Ohr mit·Verdienst·GEN DEF·Wurzel.",
+    "umschrift": "al-ʿarabiyya jamīla fī l-udhun bi-faḍl al-jadhr.",
+    "audio": "audio/ar-de/saetze/mq_05.mp3?v=fcab2e86"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "العَرَبي حِلْو بِالإدِن بْفَضْل الجِذِر.",
+    "umschrift": "il-ʿarabī ḥilu bil-idn b-faḍl ij-jizer.",
+    "audio": "audio/ar-de/syrisch/mq_05.mp3?v=ee45b5bc"
+   }
+  },
+  {
+   "id": "mq_06",
+   "thema": "musiqa",
+   "fr": "بِدُونِ الحُرُوفِ الحَلْقِيَّة",
+   "de": "ohne die Kehllaute",
+   "register": "tu",
+   "anker": "حلق",
+   "notiz": "ḥurūf ḥalqiyya = Kehlbuchstaben (ḥalq = Kehle; ع ح ه ء غ خ, die Laute aus Modul 1). lā ghināʾ = kein Gesang (lā + unbestimmtes Nomen: es gibt kein). bidūn = ohne.",
+   "audio": "audio/ar-de/wendungen/mq_06.mp3?v=7b4e59dc",
+   "gloss": "بِ·دُونِ ال·حُرُوف ال·حَلْقِيَّة | mit·ohne DEF·Buchstaben DEF·Kehl-",
+   "umschrift": "bidūn al-ḥurūf al-ḥalqiyya",
+   "wurzel": "ح-ل-ق",
+   "satz": {
+    "fr": "بِدُونِ الحُرُوفِ الحَلْقِيَّةِ لا غِنَاءَ عَرَبِيّ.",
+    "de": "Ohne die Kehllaute gibt es keinen arabischen Gesang.",
+    "luecke": "بِدُونِ الحُرُوفِ الحَلْقِيَّة",
+    "gloss": "بِ·دُونِ ال·حُرُوف ال·حَلْقِيَّة لا غِنَاء عَرَبِيّ. | mit·ohne DEF·Buchstaben DEF·Kehl- kein Gesang arabisch.",
+    "umschrift": "bidūn al-ḥurūf al-ḥalqiyya lā ghināʾ ʿarabī.",
+    "audio": "audio/ar-de/saetze/mq_06.mp3?v=01018615"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بَلا حْروف الحَلْق ما في غِنا عَرَبي.",
+    "umschrift": "bala ḥrūf il-ḥalʾ mā fī ghina ʿarabī.",
+    "audio": "audio/ar-de/syrisch/mq_06.mp3?v=91508da4"
+   }
+  },
+  {
+   "id": "mq_07",
+   "thema": "musiqa",
+   "fr": "نُطْقِي جَيِّد، يَقُولُون",
+   "de": "meine Aussprache sei gut, sagen sie",
+   "register": "tu",
+   "anker": "نطق",
+   "notiz": "nuṭq = Aussprache (Wurzel n-ṭ-q, sprechen; manṭiq = Logik!). yaqūlūn = sie sagen (qāla, hohles Verb mit ū). ṣaddaqa = glauben, für wahr halten (Stamm II von ṣ-d-q, wie ṣadīq, Freund = der Aufrichtige).",
+   "audio": "audio/ar-de/wendungen/mq_07.mp3?v=ac3f5d50",
+   "gloss": "نُطْق·ِي جَيِّد، يَ·قُول·ُون | Aussprache·mein gut, 3·sagen·PL",
+   "umschrift": "nuṭqī jayyid, yaqūlūn",
+   "wurzel": "ن-ط-ق",
+   "satz": {
+    "fr": "نُطْقِي جَيِّد، يَقُولُون؛ أَنَا لا أُصَدِّق.",
+    "de": "Meine Aussprache sei gut, sagen sie; ich glaube es nicht.",
+    "luecke": "نُطْقِي جَيِّد، يَقُولُون",
+    "gloss": "نُطْق·ِي جَيِّد، يَ·قُول·ُون؛ أَنَا لا أُ·صَدِّق. | Aussprache·mein gut, 3·sagen·PL; ich nicht 1SG·glauben.",
+    "umschrift": "nuṭqī jayyid, yaqūlūn; anā lā uṣaddiq.",
+    "audio": "audio/ar-de/saetze/mq_07.mp3?v=0066d888"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "نُطْقي مْنيح، بْيِقولو؛ أَنا ما بْصَدِّق.",
+    "umschrift": "nuṭʾī mnīḥ, byʾūlū; ana mā bṣaddiʾ.",
+    "audio": "audio/ar-de/syrisch/mq_07.mp3?v=f48901b2"
+   }
+  },
+  {
+   "id": "mq_08",
+   "thema": "musiqa",
+   "fr": "النَّبْرَةُ تَتَغَيَّرُ مَعَ المَقْطَع",
+   "de": "die Betonung wechselt mit der Silbe",
+   "register": "tu",
+   "anker": "غير",
+   "notiz": "nabra = Betonung, Tonfall. taghayyara = sich ändern (Stamm V von gh-y-r; ghayr = anders). maqṭaʿ = Silbe, Abschnitt (Wurzel q-ṭ-ʿ, schneiden). Arabisch betont die vorletzte Silbe, wenn sie lang ist, sonst die davor.",
+   "audio": "audio/ar-de/wendungen/mq_08.mp3?v=b568ad0c",
+   "gloss": "ال·نَبْرَة تَ·تَغَيَّر مَعَ ال·مَقْطَع | DEF·Betonung 3SG.F·sich.ändern mit DEF·Silbe",
+   "umschrift": "an-nabra tataghayyar maʿa l-maqṭaʿ",
+   "wurzel": "غ-ي-ر",
+   "satz": {
+    "fr": "النَّبْرَةُ تَتَغَيَّرُ مَعَ المَقْطَع، لَيْسَ دَائِمًا فِي الآخِر.",
+    "de": "Die Betonung wechselt mit der Silbe, nicht immer am Ende.",
+    "luecke": "النَّبْرَةُ تَتَغَيَّرُ",
+    "gloss": "ال·نَبْرَة تَ·تَغَيَّر مَعَ ال·مَقْطَع، لَيْسَ دَائِمًا فِي ال·آخِر. | DEF·Betonung 3SG.F·sich.ändern mit DEF·Silbe, ist.nicht immer in DEF·Ende.",
+    "umschrift": "an-nabra tataghayyar maʿa l-maqṭaʿ, laysa dāʾiman fī l-ākhir.",
+    "audio": "audio/ar-de/saetze/mq_08.mp3?v=20d23dbb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "النَّبْرَة بْتِتْغَيَّر مَع المَقْطَع، مو دايْمًا بِالآخِر.",
+    "umschrift": "in-nabra btitghayyar maʿ il-maʾṭaʿ, mū dāyman bil-ākher.",
+    "audio": "audio/ar-de/syrisch/mq_08.mp3?v=03c6298e"
+   }
+  },
+  {
+   "id": "mq_09",
+   "thema": "musiqa",
+   "fr": "زَلَّ لِسَانِي",
+   "de": "mir ist die Zunge ausgerutscht",
+   "register": "tu",
+   "anker": "زل",
+   "notiz": "zalla = ausrutschen (Wurzel z-l-l; zalla = Fehltritt). lisān = Zunge, Sprache (lisān al-qiṭṭ aus Thema 3). ḍaḥika = lachen (Wurzel ḍ-ḥ-k, ḍaḥik aus Modul 1). Wieder Verb vor Subjekt.",
+   "audio": "audio/ar-de/wendungen/mq_09.mp3?v=acb68ff0",
+   "gloss": "زَلّ·َ لِسَان·ِي | ausrutschen·3SG Zunge·mein",
+   "umschrift": "zalla lisānī",
+   "wurzel": "ز-ل-ل",
+   "satz": {
+    "fr": "زَلَّ لِسَانِي، ضَحِكَ الصَّفّ.",
+    "de": "Mir ist die Zunge ausgerutscht, die Klasse lachte.",
+    "luecke": "زَلَّ لِسَانِي",
+    "gloss": "زَلّ·َ لِسَان·ِي، ضَحِك·َ ال·صَفّ. | ausrutschen·3SG Zunge·mein, lachen·3SG DEF·Klasse.",
+    "umschrift": "zalla lisānī, ḍaḥika ṣ-ṣaff.",
+    "audio": "audio/ar-de/saetze/mq_09.mp3?v=8d8c17d1"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "زَلِّت لْساني، الصَّفّ ضِحِك.",
+    "umschrift": "zallet lsānī, iṣ-ṣaff ḍiḥek.",
+    "audio": "audio/ar-de/syrisch/mq_09.mp3?v=6048168d"
+   }
+  },
+  {
+   "id": "mq_10",
+   "thema": "musiqa",
+   "fr": "لَهْجَتِي أَلْمَانِيَّة",
+   "de": "mein Akzent ist deutsch",
+   "register": "tu",
+   "anker": "لهجة",
+   "notiz": "lahja = Dialekt, Akzent (Wurzel l-h-j). lahjat-ī = mein Akzent (ة → t). almāniyya = deutsch (feminin). akhfā = verstecken (Stamm IV von kh-f-y); yukhfī-hā = er versteckt ihn (-hā, weil lahja feminin).",
+   "audio": "audio/ar-de/wendungen/mq_10.mp3?v=0f59eee6",
+   "gloss": "لَهْجَت·ِي أَلْمَانِيَّة | Akzent·mein deutsch.F",
+   "umschrift": "lahjatī almāniyya",
+   "wurzel": "ل-ه-ج",
+   "satz": {
+    "fr": "لَهْجَتِي أَلْمَانِيَّة، لا أَحَدَ يُخْفِيهَا.",
+    "de": "Mein Akzent ist deutsch, den versteckt keiner.",
+    "luecke": "لَهْجَتِي أَلْمَانِيَّة",
+    "gloss": "لَهْجَت·ِي أَلْمَانِيَّة، لا أَحَد يُ·خْفِي·هَا. | Akzent·mein deutsch.F, kein jemand 3SG·verstecken·ihn.",
+    "umschrift": "lahjatī almāniyya, lā aḥad yukhfīhā.",
+    "audio": "audio/ar-de/saetze/mq_10.mp3?v=45663814"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "لَهْجْتي أَلْمانِيِّة، ما حَدا بْيِخَبّيها.",
+    "umschrift": "lahjtī almāniyye, mā ḥada bykhabbīha.",
+    "audio": "audio/ar-de/syrisch/mq_10.mp3?v=a3435f8c"
+   }
+  },
+  {
+   "id": "mq_11",
+   "thema": "musiqa",
+   "fr": "لا أُمْسِكُ الإِيقَاع",
+   "de": "ich halte den Takt nicht",
+   "register": "tu",
+   "anker": "مسك",
+   "notiz": "amsaka = festhalten (Stamm IV von m-s-k). īqāʿ = Rhythmus, Takt (Wurzel w-q-ʿ, fallen: wie die Schläge fallen). yadāya = meine beiden Hände (Dual yadān + -ya = mein: yadāya).",
+   "audio": "audio/ar-de/wendungen/mq_11.mp3?v=05764952",
+   "gloss": "لا أُ·مْسِك ال·إِيقَاع | nicht 1SG·festhalten DEF·Rhythmus",
+   "umschrift": "lā umsik al-īqāʿ",
+   "wurzel": "م-س-ك",
+   "satz": {
+    "fr": "لا أُمْسِكُ الإِيقَاع، يَدَايَ فِي عَالَمٍ آخَر.",
+    "de": "Ich halte den Takt nicht, meine Hände sind in einer anderen Welt.",
+    "luecke": "لا أُمْسِكُ الإِيقَاع",
+    "gloss": "لا أُ·مْسِك ال·إِيقَاع، يَد·َايَ فِي عَالَم آخَر. | nicht 1SG·festhalten DEF·Rhythmus, Hand·DUAL.mein in Welt anderer.",
+    "umschrift": "lā umsik al-īqāʿ, yadāya fī ʿālam ākhar.",
+    "audio": "audio/ar-de/saetze/mq_11.mp3?v=13251461"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "ما بِمْسِك الإيقاع، إيدَيّ بْعالَم تاني.",
+    "umschrift": "mā bimsik il-īʾāʿ, īdayy b-ʿālam tānī.",
+    "audio": "audio/ar-de/syrisch/mq_11.mp3?v=9ab1cce0"
+   }
+  },
+  {
+   "id": "mq_12",
+   "thema": "musiqa",
+   "fr": "نَشَزْتُ فِي اللَّازِمَة",
+   "de": "ich habe im Refrain schief gesungen",
+   "register": "tu",
+   "anker": "نشز",
+   "notiz": "nashaza = falsch singen, aus dem Ton fallen (Wurzel n-sh-z; nushūz = Dissonanz). lāzima = Refrain (wörtlich: das Notwendige, das wiederkehrt). lam yantabih aḥad = niemand merkte: lam + Jussiv ist die zweite Verneinung der Vergangenheit.",
+   "audio": "audio/ar-de/wendungen/mq_12.mp3?v=3e23396c",
+   "gloss": "نَشَز·ْتُ فِي ال·لَازِمَة | falsch.singen·1SG in DEF·Refrain",
+   "umschrift": "nashaztu fī l-lāzima",
+   "wurzel": "ن-ش-ز",
+   "satz": {
+    "fr": "نَشَزْتُ فِي اللَّازِمَة، لَمْ يَنْتَبِهْ أَحَد.",
+    "de": "Ich habe im Refrain schief gesungen, keiner hat es gemerkt.",
+    "luecke": "نَشَزْتُ فِي اللَّازِمَة",
+    "gloss": "نَشَز·ْتُ فِي ال·لَازِمَة، لَمْ يَ·نْتَبِه·ْ أَحَد. | falsch.singen·1SG in DEF·Refrain, nicht.VERG 3SG·merken·JUSS jemand.",
+    "umschrift": "nashaztu fī l-lāzima, lam yantabih aḥad.",
+    "audio": "audio/ar-de/saetze/mq_12.mp3?v=9e53783d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "نَشَزْت بِاللّازْمِة، ما حَدا انْتَبَه.",
+    "umschrift": "nashazt bil-lāzme, mā ḥada ntabah.",
+    "audio": "audio/ar-de/syrisch/mq_12.mp3?v=ea8a6ef2"
+   }
+  },
+  {
+   "id": "mq_13",
+   "thema": "musiqa",
+   "fr": "الكُلُّ يَعْرِفُ اللَّازِمَة",
+   "de": "den Refrain kennen alle",
+   "register": "tu",
+   "anker": "عرف",
+   "notiz": "al-kull yaʿrif = alle kennen (Singular!). abyāt = Verse, Strophen (Plural von bayt: das Haus ist auch der Vers, weil ein Vers zwei « Zeltwände » hat). Gegensatz: al-kull / lā aḥad.",
+   "audio": "audio/ar-de/wendungen/mq_13.mp3?v=63f20fe6",
+   "gloss": "ال·كُلّ يَ·عْرِف ال·لَازِمَة | DEF·alle 3SG·kennen DEF·Refrain",
+   "umschrift": "al-kull yaʿrif al-lāzima",
+   "wurzel": "ع-ر-ف",
+   "satz": {
+    "fr": "الكُلُّ يَعْرِفُ اللَّازِمَة، لا أَحَدَ يَعْرِفُ الأَبْيَات.",
+    "de": "Den Refrain kennen alle, die Strophen kennt keiner.",
+    "luecke": "الكُلُّ يَعْرِفُ اللَّازِمَة",
+    "gloss": "ال·كُلّ يَ·عْرِف ال·لَازِمَة، لا أَحَد يَ·عْرِف ال·أَبْيَات. | DEF·alle 3SG·kennen DEF·Refrain, kein jemand 3SG·kennen DEF·Verse.",
+    "umschrift": "al-kull yaʿrif al-lāzima, lā aḥad yaʿrif al-abyāt.",
+    "audio": "audio/ar-de/saetze/mq_13.mp3?v=490bd424"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الكِلّ بْيَعْرِف اللّازْمِة، ما حَدا بْيَعْرِف الأَبْيات.",
+    "umschrift": "il-kill byaʿref il-lāzme, mā ḥada byaʿref il-abyāt.",
+    "audio": "audio/ar-de/syrisch/mq_13.mp3?v=3dc2d3da"
+   }
+  },
+  {
+   "id": "mq_14",
+   "thema": "musiqa",
+   "fr": "المَوَاوِيلُ فِي المَسَاء",
+   "de": "die Mawwals am Abend",
+   "register": "tu",
+   "anker": "موال",
+   "notiz": "mawwāl, Plural mawāwīl = der frei gesungene Klagegesang, der Anfang jedes Konzerts von Umm Kulthum bis Fairuz. ajmal mā = am schönsten (Elativ + mā). tughannā = wird gesungen (Passiv, feminin für den Plural).",
+   "audio": "audio/ar-de/wendungen/mq_14.mp3?v=89c83307",
+   "gloss": "ال·مَوَاوِيل فِي ال·مَسَاء | DEF·Mawwals in DEF·Abend",
+   "umschrift": "al-mawāwīl fī l-masāʾ",
+   "wurzel": "م-و-ل",
+   "satz": {
+    "fr": "أَجْمَلُ مَا تُغَنَّى المَوَاوِيلُ فِي المَسَاء.",
+    "de": "Am schönsten klingen die Mawwals am Abend.",
+    "luecke": "المَوَاوِيلُ فِي المَسَاء",
+    "gloss": "أَجْمَل مَا تُ·غَنَّى ال·مَوَاوِيل فِي ال·مَسَاء. | schönster was PASS·singen.F DEF·Mawwals in DEF·Abend.",
+    "umschrift": "ajmal mā tughannā l-mawāwīl fī l-masāʾ.",
+    "audio": "audio/ar-de/saetze/mq_14.mp3?v=bed91e47"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَحْلى ما تِنْغَنّى المَواويل بِالمَسا.",
+    "umschrift": "aḥla mā tinghanna l-mawāwīl bil-masa.",
+    "audio": "audio/ar-de/syrisch/mq_14.mp3?v=2714bde0"
+   }
+  },
+  {
+   "id": "mq_15",
+   "thema": "musiqa",
+   "fr": "أُذُنِي مُمْتَلِئَة",
+   "de": "mein Ohr ist voll",
+   "register": "tu",
+   "anker": "ملأ",
+   "notiz": "mumtaliʾa = voll (Partizip Stamm VIII von m-l-ʾ, Hamza am Ende; feminin, weil udhun feminin ist). taʾtī = sie kommen (Sachplural kalimāt → feminin Singular). bi-buṭʾ = langsam.",
+   "audio": "audio/ar-de/wendungen/mq_15.mp3?v=b08c9694",
+   "gloss": "أُذُن·ِي مُمْتَلِئَة | Ohr·mein voll.F",
+   "umschrift": "udhunī mumtaliʾa",
+   "wurzel": "م-ل-أ",
+   "satz": {
+    "fr": "أُذُنِي مُمْتَلِئَة، الكَلِمَاتُ تَأْتِي بِبُطْء.",
+    "de": "Mein Ohr ist voll, die Wörter kommen langsam.",
+    "luecke": "أُذُنِي مُمْتَلِئَة",
+    "gloss": "أُذُن·ِي مُمْتَلِئَة، ال·كَلِمَات تَ·أْتِي بِ·بُطْء. | Ohr·mein voll.F, DEF·Wörter 3SG.F·kommen mit·Langsamkeit.",
+    "umschrift": "udhunī mumtaliʾa, al-kalimāt taʾtī bi-buṭʾ.",
+    "audio": "audio/ar-de/saetze/mq_15.mp3?v=ea2c0183"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "إدْني مَلْيانِة، الكَلِمات عَم تِجي شْوَيّ شْوَيّ.",
+    "umschrift": "idnī malyāne, il-kalimāt ʿam tijī shwayy shwayy.",
+    "audio": "audio/ar-de/syrisch/mq_15.mp3?v=210e6dfe"
+   }
+  },
+  {
+   "id": "mq_16",
+   "thema": "musiqa",
+   "fr": "تَعَلُّمُ اللُّغَةِ كَالمُوسِيقَى",
+   "de": "Sprache lernen ist wie Musik",
+   "register": "tu",
+   "anker": "تعلم",
+   "notiz": "taʿallum = das Lernen (Verbalnomen von taʿallama, Stamm V von ʿ-l-m: ʿilm, muʿallim, taʿallum, alles eine Wurzel). ka- = wie. kull yawm = jeden Tag. qalīlan = ein wenig.",
+   "audio": "audio/ar-de/wendungen/mq_16.mp3?v=d21f6fda",
+   "gloss": "تَعَلُّم·ُ ال·لُغَة كَ·ال·مُوسِيقَى | Lernen·GEN DEF·Sprache wie·DEF·Musik",
+   "umschrift": "taʿallum al-lugha kal-mūsīqā",
+   "wurzel": "ع-ل-م",
+   "satz": {
+    "fr": "تَعَلُّمُ اللُّغَةِ كَالمُوسِيقَى: كُلَّ يَوْمٍ قَلِيلاً.",
+    "de": "Sprache lernen ist wie Musik: jeden Tag ein bisschen.",
+    "luecke": "تَعَلُّمُ اللُّغَةِ كَالمُوسِيقَى",
+    "gloss": "تَعَلُّم·ُ ال·لُغَة كَ·ال·مُوسِيقَى: كُلّ يَوْم قَلِيلاً. | Lernen·GEN DEF·Sprache wie·DEF·Musik: jeder Tag wenig.",
+    "umschrift": "taʿallum al-lugha kal-mūsīqā: kull yawm qalīlan.",
+    "audio": "audio/ar-de/saetze/mq_16.mp3?v=8694b983"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "تَعَلُّم اللُّغَة مِتْل الموسيقا: كِلّ يوم شْوَيّ.",
+    "umschrift": "taʿallum il-lugha mitl il-mūsīqa: kill yōm shwayy.",
+    "audio": "audio/ar-de/syrisch/mq_16.mp3?v=cb26e996"
+   }
+  },
+  {
+   "id": "mq_17",
+   "thema": "musiqa",
+   "fr": "لُغَتِي الأُمُّ الأَلْمَانِيَّة",
+   "de": "meine Muttersprache ist Deutsch",
+   "register": "tu",
+   "anker": "لغة",
+   "notiz": "al-lugha al-umm = die Muttersprache (wörtlich: die Sprache die Mutter). lughat-ī = meine Sprache (ة → t). aḥlām = Träume (Plural von ḥulm, Wurzel ḥ-l-m; Sachplural, deshalb almāniyya im Femininum).",
+   "audio": "audio/ar-de/wendungen/mq_17.mp3?v=86bd08b7",
+   "gloss": "لُغَت·ِي ال·أُمّ ال·أَلْمَانِيَّة | Sprache·mein DEF·Mutter DEF·Deutsch",
+   "umschrift": "lughatī l-umm al-almāniyya",
+   "wurzel": "ل-غ-و",
+   "satz": {
+    "fr": "لُغَتِي الأُمُّ الأَلْمَانِيَّة، وَأَحْلامِي أَلْمَانِيَّةٌ أَيْضًا.",
+    "de": "Meine Muttersprache ist Deutsch, und meine Träume sind auch deutsch.",
+    "luecke": "لُغَتِي الأُمُّ الأَلْمَانِيَّة",
+    "gloss": "لُغَت·ِي ال·أُمّ ال·أَلْمَانِيَّة، وَ·أَحْلام·ِي أَلْمَانِيَّة أَيْضًا. | Sprache·mein DEF·Mutter DEF·Deutsch, und·Träume·mein deutsch.F auch.",
+    "umschrift": "lughatī l-umm al-almāniyya, wa-aḥlāmī almāniyya ayḍan.",
+    "audio": "audio/ar-de/saetze/mq_17.mp3?v=565ed7ed"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "لُغْتي الأُمّ الأَلْماني، وأَحْلامي أَلْماني كَمان.",
+    "umschrift": "lughtī l-umm il-almānī, w-aḥlāmī almānī kamān.",
+    "audio": "audio/ar-de/syrisch/mq_17.mp3?v=7ec80994"
+   }
+  },
+  {
+   "id": "mq_18",
+   "thema": "musiqa",
+   "fr": "مُفْرَدَاتِي تَكْبُر",
+   "de": "mein Wortschatz wächst",
+   "register": "tu",
+   "anker": "كبر",
+   "notiz": "mufradāt = Vokabular (Plural von mufrada, Einzelwort; Wurzel f-r-d, einzeln). kabura / yakbur = größer werden (Wurzel k-b-r, kabīr, akbar). Sachplural: takbur im Femininum. thalāth kalimāt: Zahl ohne -a vor dem femininen Nomen.",
+   "audio": "audio/ar-de/wendungen/mq_18.mp3?v=fe9a18f3",
+   "gloss": "مُفْرَدَات·ِي تَ·كْبُر | Wortschatz·mein 3SG.F·wachsen",
+   "umschrift": "mufradātī takbur",
+   "wurzel": "ك-ب-ر",
+   "satz": {
+    "fr": "مُفْرَدَاتِي تَكْبُر، ثَلاثُ كَلِمَاتٍ فِي اليَوْم.",
+    "de": "Mein Wortschatz wächst, drei Wörter am Tag.",
+    "luecke": "مُفْرَدَاتِي تَكْبُر",
+    "gloss": "مُفْرَدَات·ِي تَ·كْبُر، ثَلاث كَلِمَات فِي ال·يَوْم. | Wortschatz·mein 3SG.F·wachsen, drei Wörter in DEF·Tag.",
+    "umschrift": "mufradātī takbur, thalāth kalimāt fī l-yawm.",
+    "audio": "audio/ar-de/saetze/mq_18.mp3?v=741acd42"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "مُفْرَدَاتِي كَبُرَتْ، ثَلاثُ كَلِمَاتٍ فِي اليَوْم.",
+     "umschrift": "mufradātī kaburat, thalāth kalimāt fī l-yawm.",
+     "audio": "audio/ar-de/saetze/mq_18_pc.mp3?v=93afe32b"
+    },
+    "fp": {
+     "fr": "مُفْرَدَاتِي سَتَكْبُر، ثَلاثُ كَلِمَاتٍ فِي اليَوْم.",
+     "umschrift": "mufradātī sa-takbur, thalāth kalimāt fī l-yawm.",
+     "audio": "audio/ar-de/saetze/mq_18_fp.mp3?v=7c924002"
+    }
+   },
+   "syrisch": {
+    "fr": "مُفْرَداتي عَم تِكْبَر، تْلات كَلِمات بِاليوم.",
+    "umschrift": "mufradātī ʿam tikbar, tlāt kalimāt bil-yōm.",
+    "audio": "audio/ar-de/syrisch/mq_18.mp3?v=b6c2e344"
+   }
+  },
+  {
+   "id": "mq_19",
+   "thema": "musiqa",
+   "fr": "يَوْمًا مَا سَأَتَكَلَّمُ بِطَلاقَة",
+   "de": "eines Tages werde ich fließend sprechen",
+   "register": "tu",
+   "anker": "وعد",
+   "notiz": "yawman mā = eines Tages (mā nach dem Nomen = irgendein). sa-atakallam = ich werde sprechen. bi-ṭalāqa = mit Flüssigkeit, fließend (Wurzel ṭ-l-q, frei, losgelassen). waʿada-nī = er versprach mir (-nī).",
+   "audio": "audio/ar-de/wendungen/mq_19.mp3?v=b2c2d055",
+   "gloss": "سَ·أَ·تَكَلَّم بِ·طَلاقَة | FUT·1SG·sprechen mit·Flüssigkeit",
+   "umschrift": "sa-atakallam bi-ṭalāqa",
+   "wurzel": "ط-ل-ق",
+   "satz": {
+    "fr": "يَوْمًا مَا سَأَتَكَلَّمُ بِطَلاقَة، خَالِد وَعَدَنِي.",
+    "de": "Eines Tages werde ich fließend sprechen, Khalid hat es mir versprochen.",
+    "luecke": "سَأَتَكَلَّمُ بِطَلاقَة",
+    "gloss": "يَوْمًا مَا سَ·أَ·تَكَلَّم بِ·طَلاقَة، خَالِد وَعَد·َنِي. | Tag irgendein FUT·1SG·sprechen mit·Flüssigkeit, Khalid versprechen·mir.",
+    "umschrift": "yawman mā sa-atakallam bi-ṭalāqa, Khālid waʿadanī.",
+    "audio": "audio/ar-de/saetze/mq_19.mp3?v=393463cf"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "يوم مِن الإيّام رَح إحْكي بْطَلاقَة، خالِد وَعَدْني.",
+    "umschrift": "yōm min il-iyyām raḥ iḥkī b-ṭalāʾa, Khālid waʿadnī.",
+    "audio": "audio/ar-de/syrisch/mq_19.mp3?v=a792e0d8"
+   }
+  },
+  {
+   "id": "mq_20",
+   "thema": "musiqa",
+   "fr": "عَرَبِيَّتِي مُكَسَّرَة، لَكِنِّي أَبْتَسِم",
+   "de": "mein Arabisch ist gebrochen, aber ich lächle",
+   "register": "tu",
+   "anker": "ابتسم",
+   "notiz": "mukassara = zerbrochen (Partizip von kassara, Modul 2: kasara/kassara). Auch der gebrochene Plural heißt jamʿ mukassar. ibtasama = lächeln (Stamm VIII von b-s-m; ibtisāma = Lächeln).",
+   "audio": "audio/ar-de/wendungen/mq_20.mp3?v=6af86eb7",
+   "gloss": "عَرَبِيَّت·ِي مُكَسَّرَة، لَكِنّ·ِي أَ·بْتَسِم | Arabisch·mein zerbrochen.F, aber·ich 1SG·lächeln",
+   "umschrift": "ʿarabiyyatī mukassara, lākinnī abtasim",
+   "wurzel": "ب-س-م",
+   "satz": {
+    "fr": "عَرَبِيَّتِي مُكَسَّرَة، لَكِنِّي أَبْتَسِم.",
+    "de": "Mein Arabisch ist gebrochen, aber ich lächle.",
+    "luecke": "عَرَبِيَّتِي مُكَسَّرَة",
+    "gloss": "عَرَبِيَّت·ِي مُكَسَّرَة، لَكِنّ·ِي أَ·بْتَسِم. | Arabisch·mein zerbrochen.F, aber·ich 1SG·lächeln.",
+    "umschrift": "ʿarabiyyatī mukassara, lākinnī abtasim.",
+    "audio": "audio/ar-de/saetze/mq_20.mp3?v=1a83568e"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "عَرَبيتي مْكَسَّرَة، بَسّ بِبْتِسِم.",
+    "umschrift": "ʿarabītī mkassara, bass bibtisim.",
+    "audio": "audio/ar-de/syrisch/mq_20.mp3?v=ec712ebb"
+   }
+  },
+  {
+   "id": "mq_21",
+   "thema": "musiqa",
+   "fr": "أَقْرَأُ صَفْحَةً بِصَوْتٍ عَالٍ",
+   "de": "ich lese eine Seite laut",
+   "register": "tu",
+   "anker": "قرأ",
+   "notiz": "qaraʾa / yaqraʾ = lesen (Wurzel q-r-ʾ; al-Qurʾān = die Lesung). Hamza am Ende: aqraʾ, qaraʾ-tu. bi-ṣawt ʿālin = mit lauter Stimme (ʿālin = hoch, Pausalform ʿāl). ṣafḥa = Seite.",
+   "audio": "audio/ar-de/wendungen/mq_21.mp3?v=81bd83a8",
+   "gloss": "أَ·قْرَأ صَفْحَة بِ·صَوْت عَالٍ | 1SG·lesen Seite mit·Stimme hoch",
+   "umschrift": "aqraʾ ṣafḥa bi-ṣawt ʿālin",
+   "wurzel": "ق-ر-أ",
+   "satz": {
+    "fr": "كُلَّ مَسَاءٍ أَقْرَأُ صَفْحَةً بِصَوْتٍ عَالٍ.",
+    "de": "Jeden Abend lese ich eine Seite laut.",
+    "luecke": "أَقْرَأُ صَفْحَةً بِصَوْتٍ عَالٍ",
+    "gloss": "كُلّ مَسَاء أَ·قْرَأ صَفْحَة بِ·صَوْت عَالٍ. | jeder Abend 1SG·lesen Seite mit·Stimme hoch.",
+    "umschrift": "kull masāʾ aqraʾ ṣafḥa bi-ṣawt ʿālin.",
+    "audio": "audio/ar-de/saetze/mq_21.mp3?v=0945370f"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "كُلَّ مَسَاءٍ قَرَأْتُ صَفْحَةً بِصَوْتٍ عَالٍ.",
+     "umschrift": "kull masāʾ qaraʾtu ṣafḥa bi-ṣawt ʿālin.",
+     "audio": "audio/ar-de/saetze/mq_21_pc.mp3?v=88313fef"
+    },
+    "fp": {
+     "fr": "كُلَّ مَسَاءٍ سَأَقْرَأُ صَفْحَةً بِصَوْتٍ عَالٍ.",
+     "umschrift": "kull masāʾ sa-aqraʾ ṣafḥa bi-ṣawt ʿālin.",
+     "audio": "audio/ar-de/saetze/mq_21_fp.mp3?v=7b04cf6e"
+    }
+   },
+   "syrisch": {
+    "fr": "كِلّ مَسا بِقْرا صَفْحَة بْصوت عالي.",
+    "umschrift": "kill masa biʾra ṣafḥa b-ṣōt ʿālī.",
+    "audio": "audio/ar-de/syrisch/mq_21.mp3?v=a74e5ff1"
+   }
+  },
+  {
+   "id": "mq_22",
+   "thema": "musiqa",
+   "fr": "صَوْتُكَ نَاعِم",
+   "de": "deine Stimme ist weich",
+   "register": "tu",
+   "anker": "نعم",
+   "notiz": "ṣawt = Stimme, Laut (Modul 1). nāʿim = weich, sanft (Wurzel n-ʿ-m; niʿma = Wohltat, naʿam = ja). bin-nisba li- = im Verhältnis zu, für (die Standardfloskel für « was X betrifft »).",
+   "audio": "audio/ar-de/wendungen/mq_22.mp3?v=f1f9010f",
+   "gloss": "صَوْت·ُكَ نَاعِم | Stimme·dein weich",
+   "umschrift": "ṣawtuk nāʿim",
+   "wurzel": "ن-ع-م",
+   "satz": {
+    "fr": "صَوْتُكَ نَاعِم، بِالنِّسْبَةِ لِمُعَلِّمٍ أَلْمَانِيّ.",
+    "de": "Deine Stimme ist weich, für einen deutschen Lehrer.",
+    "luecke": "صَوْتُكَ نَاعِم",
+    "gloss": "صَوْت·ُكَ نَاعِم، بِ·ال·نِسْبَة لِ·مُعَلِّم أَلْمَانِيّ. | Stimme·dein weich, mit·DEF·Verhältnis für·Lehrer deutsch.",
+    "umschrift": "ṣawtuk nāʿim, bin-nisba li-muʿallim almānī.",
+    "audio": "audio/ar-de/saetze/mq_22.mp3?v=76bf6b7a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "صوتَك ناعِم، بِالنِّسْبِة لَمْعَلِّم أَلْماني.",
+    "umschrift": "ṣōtak nāʿem, bin-nisbe la-mʿallem almānī.",
+    "audio": "audio/ar-de/syrisch/mq_22.mp3?v=ee99b51a"
+   }
+  },
+  {
+   "id": "mq_23",
+   "thema": "musiqa",
+   "fr": "نَتَدَرَّبُ عَلَى الكَلام",
+   "de": "wir üben Sprechen",
+   "register": "tu",
+   "anker": "تدرب",
+   "notiz": "tadarraba ʿalā = üben, trainieren (Stamm V von d-r-b; tadrīb = Training). kalām = Sprechen, Rede (Wurzel k-l-m). istamaʿa = zuhören (Stamm VIII von s-m-ʿ: samiʿa hören, istamaʿa zuhören).",
+   "audio": "audio/ar-de/wendungen/mq_23.mp3?v=6a9a6ca0",
+   "gloss": "نَ·تَدَرَّب عَلَى ال·كَلام | 1PL·üben auf DEF·Sprechen",
+   "umschrift": "natadarrab ʿalā l-kalām",
+   "wurzel": "د-ر-ب",
+   "satz": {
+    "fr": "نَتَدَرَّبُ عَلَى الكَلام، وَالقِطُّ يَسْتَمِع.",
+    "de": "Wir üben Sprechen, und die Katze hört zu.",
+    "luecke": "نَتَدَرَّبُ عَلَى الكَلام",
+    "gloss": "نَ·تَدَرَّب عَلَى ال·كَلام، وَ·ال·قِطّ يَ·سْتَمِع. | 1PL·üben auf DEF·Sprechen, und·DEF·Katze 3SG·zuhören.",
+    "umschrift": "natadarrab ʿalā l-kalām, wal-qiṭṭ yastamiʿ.",
+    "audio": "audio/ar-de/saetze/mq_23.mp3?v=6f341f5b"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "تَدَرَّبْنَا عَلَى الكَلام، وَالقِطُّ اسْتَمَع.",
+     "umschrift": "tadarrabnā ʿalā l-kalām, wal-qiṭṭ istamaʿ.",
+     "audio": "audio/ar-de/saetze/mq_23_pc.mp3?v=3e058aa6"
+    },
+    "fp": {
+     "fr": "سَنَتَدَرَّبُ عَلَى الكَلام، وَالقِطُّ سَيَسْتَمِع.",
+     "umschrift": "sa-natadarrab ʿalā l-kalām, wal-qiṭṭ sa-yastamiʿ.",
+     "audio": "audio/ar-de/saetze/mq_23_fp.mp3?v=8c29a96b"
+    }
+   },
+   "syrisch": {
+    "fr": "عَم نِتْمَرَّن عَالحَكي، والبِسّ عَم يِسْمَع.",
+    "umschrift": "ʿam nitmarran ʿal-ḥakī, wil-biss ʿam yismaʿ.",
+    "audio": "audio/ar-de/syrisch/mq_23.mp3?v=fbbb892c"
+   }
+  },
+  {
+   "id": "mq_24",
+   "thema": "musiqa",
+   "fr": "اللَّحْنُ بَقِيَ فِي رَأْسِي، الكَلِمَاتُ طَارَتْ",
+   "de": "die Melodie blieb im Kopf, die Wörter sind weggeflogen",
+   "register": "tu",
+   "anker": "طار",
+   "notiz": "baqiya = bleiben (Thema 1: baqiya thalāthūn waraqa). ṭāra / yaṭīr = fliegen (Wurzel ṭ-y-r; ṭāʾira = Flugzeug, Modul 3); ṭārat feminin für den Sachplural kalimāt.",
+   "audio": "audio/ar-de/wendungen/mq_24.mp3?v=aaef791d",
+   "gloss": "ال·كَلِمَات طَار·َتْ | DEF·Wörter fliegen·3SG.F",
+   "umschrift": "al-kalimāt ṭārat",
+   "wurzel": "ط-ي-ر",
+   "satz": {
+    "fr": "اللَّحْنُ بَقِيَ فِي رَأْسِي، الكَلِمَاتُ طَارَتْ.",
+    "de": "Die Melodie blieb im Kopf, die Wörter sind weggeflogen.",
+    "luecke": "الكَلِمَاتُ طَارَتْ",
+    "gloss": "ال·لَحْن بَقِي·َ فِي رَأْس·ِي، ال·كَلِمَات طَار·َتْ. | DEF·Melodie bleiben·3SG in Kopf·mein, DEF·Wörter fliegen·3SG.F.",
+    "umschrift": "al-laḥn baqiya fī raʾsī, al-kalimāt ṭārat.",
+    "audio": "audio/ar-de/saetze/mq_24.mp3?v=8eb2f29b"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اللَّحِن بِقي بْراسي، الكَلِمات طارِت.",
+    "umschrift": "il-laḥen biʾī b-rāsī, il-kalimāt ṭāret.",
+    "audio": "audio/ar-de/syrisch/mq_24.mp3?v=e5642acd"
    }
   }
  ],
@@ -7478,6 +8213,241 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 1
     }
    ]
+  },
+  {
+   "id": "g_musiqa",
+   "thema": "musiqa",
+   "titel": "المَاضِي وَالمُضَارِعُ بِالتَّفْصِيل",
+   "de": "Vergangenheit und Präsens vollständig",
+   "regel": [
+    "Vergangenheit, die Person hinten: katab-tu ich, katab-ta du (Mann), katab-ti du (Frau), katab-a er, katab-at sie, katab-nā wir, katab-tum ihr, katab-ū sie. Präsens, die Person vorn und teils hinten: a-ktub ich, ta-ktub du (Mann), ta-ktub-īn du (Frau), ya-ktub er, ta-ktub sie, na-ktub wir, ta-ktub-ūn ihr, ya-ktub-ūn sie. Das gilt für alle Stämme: u-ghannī, tu-ghannī, yu-ghannī; a-takallam, ta-takallam, ya-takallam.",
+    "Schwache Verben verstecken einen Vokal: ghannā hat in der Vergangenheit ay (ghannay-tu), nasiya hat ī (nasī-tu), raʾā verliert im Präsens die Hamza (yarā). Hohle Verben mit ā in der Mitte werden kurz, wenn die Person hinten anhängt: qāla er sagte, qul-tu ich sagte; nāma, nim-tu. Zwei Verneinungen der Vergangenheit: mā + Vergangenheit (mā shaʿartu) und lam + Jussiv (lam yantabih), die zweite ist die gehobene. Zukunft: sa- (nah) oder sawfa (fern, feierlich) vor dem Präsens."
+   ],
+   "morphem": [
+    "1SG",
+    "2SG",
+    "3SG",
+    "3SG.F",
+    "1PL",
+    "3",
+    "PL",
+    "FUT",
+    "JUSS"
+   ],
+   "beispiele": [
+    {
+     "fr": "أُغَنِّي فِي الحَمَّام، وَالجَارُ يَسْمَع.",
+     "de": "Ich singe unter der Dusche, und der Nachbar hört mit.",
+     "gloss": "أُ·غَنِّي فِي ال·حَمَّام، وَ·ال·جَار يَ·سْمَع. | 1SG·singen in DEF·Bad, und·DEF·Nachbar 3SG·hören.",
+     "umschrift": "ughannī fī l-ḥammām, wal-jār yasmaʿ.",
+     "audio": "audio/ar-de/saetze/mq_01.mp3?v=3432bc37",
+     "hinweis": "u-ghannī: Präsens mit Person vorn, in der Zeitmaschine ghannay-tu."
+    },
+    {
+     "fr": "أَعْزِفُ العُود، بِبُطْءٍ شَدِيد.",
+     "de": "Ich spiele Oud, ganz langsam.",
+     "gloss": "أَ·عْزِف ال·عُود، بِ·بُطْء شَدِيد. | 1SG·spielen DEF·Oud, mit·Langsamkeit stark.",
+     "umschrift": "aʿzif al-ʿūd, bi-buṭʾ shadīd.",
+     "audio": "audio/ar-de/saetze/mq_02.mp3?v=8a433340",
+     "hinweis": "a-ʿzif / ʿazaf-tu / sa-a-ʿzif: das volle Dreieck."
+    },
+    {
+     "fr": "نُطْقِي جَيِّد، يَقُولُون؛ أَنَا لا أُصَدِّق.",
+     "de": "Meine Aussprache sei gut, sagen sie; ich glaube es nicht.",
+     "gloss": "نُطْق·ِي جَيِّد، يَ·قُول·ُون؛ أَنَا لا أُ·صَدِّق. | Aussprache·mein gut, 3·sagen·PL; ich nicht 1SG·glauben.",
+     "umschrift": "nuṭqī jayyid, yaqūlūn; anā lā uṣaddiq.",
+     "audio": "audio/ar-de/saetze/mq_07.mp3?v=0066d888",
+     "hinweis": "ya-qūl-ūn: sie sagen, Person vorn und hinten."
+    },
+    {
+     "fr": "نَشَزْتُ فِي اللَّازِمَة، لَمْ يَنْتَبِهْ أَحَد.",
+     "de": "Ich habe im Refrain schief gesungen, keiner hat es gemerkt.",
+     "gloss": "نَشَز·ْتُ فِي ال·لَازِمَة، لَمْ يَ·نْتَبِه·ْ أَحَد. | falsch.singen·1SG in DEF·Refrain, nicht.VERG 3SG·merken·JUSS jemand.",
+     "umschrift": "nashaztu fī l-lāzima, lam yantabih aḥad.",
+     "audio": "audio/ar-de/saetze/mq_12.mp3?v=9e53783d",
+     "hinweis": "lam yantabih: die zweite Verneinung der Vergangenheit."
+    },
+    {
+     "fr": "نَتَدَرَّبُ عَلَى الكَلام، وَالقِطُّ يَسْتَمِع.",
+     "de": "Wir üben Sprechen, und die Katze hört zu.",
+     "gloss": "نَ·تَدَرَّب عَلَى ال·كَلام، وَ·ال·قِطّ يَ·سْتَمِع. | 1PL·üben auf DEF·Sprechen, und·DEF·Katze 3SG·zuhören.",
+     "umschrift": "natadarrab ʿalā l-kalām, wal-qiṭṭ yastamiʿ.",
+     "audio": "audio/ar-de/saetze/mq_23.mp3?v=6f341f5b",
+     "hinweis": "na-tadarrab, ya-stamiʿ: wir und er in zwei Stämmen."
+    },
+    {
+     "fr": "مُفْرَدَاتِي تَكْبُر، ثَلاثُ كَلِمَاتٍ فِي اليَوْم.",
+     "de": "Mein Wortschatz wächst, drei Wörter am Tag.",
+     "gloss": "مُفْرَدَات·ِي تَ·كْبُر، ثَلاث كَلِمَات فِي ال·يَوْم. | Wortschatz·mein 3SG.F·wachsen, drei Wörter in DEF·Tag.",
+     "umschrift": "mufradātī takbur, thalāth kalimāt fī l-yawm.",
+     "audio": "audio/ar-de/saetze/mq_18.mp3?v=741acd42",
+     "hinweis": "takbur / kaburat: ein Sachplural nimmt sie."
+    },
+    {
+     "fr": "اللَّحْنُ بَقِيَ فِي رَأْسِي، الكَلِمَاتُ طَارَتْ.",
+     "de": "Die Melodie blieb im Kopf, die Wörter sind weggeflogen.",
+     "gloss": "ال·لَحْن بَقِي·َ فِي رَأْس·ِي، ال·كَلِمَات طَار·َتْ. | DEF·Melodie bleiben·3SG in Kopf·mein, DEF·Wörter fliegen·3SG.F.",
+     "umschrift": "al-laḥn baqiya fī raʾsī, al-kalimāt ṭārat.",
+     "audio": "audio/ar-de/saetze/mq_24.mp3?v=8eb2f29b",
+     "hinweis": "baqiya, ṭārat: zwei Vergangenheiten, maskulin und feminin."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "katabtu",
+     "b": "katabta",
+     "text": "ich schrieb – du schriebst (Mann)"
+    },
+    {
+     "a": "taktub",
+     "b": "taktubīn",
+     "text": "du schreibst (Mann) – du schreibst (Frau)"
+    },
+    {
+     "a": "mā samiʿa",
+     "b": "lam yasmaʿ",
+     "text": "er hörte nicht (mā + Vergangenheit) – er hörte nicht (lam + Jussiv, gehoben)"
+    },
+    {
+     "a": "sa-aktub",
+     "b": "sawfa aktub",
+     "text": "ich werde schreiben (bald) – ich werde schreiben (irgendwann, feierlich)"
+    },
+    {
+     "a": "qāla",
+     "b": "qultu",
+     "text": "er sagte – ich sagte (hohles Verb wird kurz)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "ʿazafa + wir (Vergangenheit)",
+     "antworten": [
+      "ʿazafnā",
+      "ʿazaftum",
+      "naʿzif"
+     ]
+    },
+    {
+     "formel": "ghannā + ich (Vergangenheit)",
+     "antworten": [
+      "ghannaytu",
+      "ghannātu",
+      "ughannī"
+     ]
+    },
+    {
+     "formel": "katab + sie (Plural, Präsens)",
+     "antworten": [
+      "yaktubūn",
+      "yaktub",
+      "katabū"
+     ]
+    },
+    {
+     "formel": "qāla + ich (Vergangenheit)",
+     "antworten": [
+      "qultu",
+      "qāltu",
+      "aqūl"
+     ]
+    },
+    {
+     "formel": "yantabih + lam",
+     "antworten": [
+      "lam yantabih",
+      "lam yantabihu",
+      "lam intabaha"
+     ]
+    },
+    {
+     "formel": "takallama + du (Frau, Präsens)",
+     "antworten": [
+      "tatakallamīn",
+      "tatakallam",
+      "yatakallam"
+     ]
+    }
+   ],
+   "hoeren_frage": "In welchem Satz steht ein Verb im Plural (-ūn oder -ū)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "نُطْقِي جَيِّد، يَقُولُون؛ أَنَا لا أُصَدِّق.",
+       "de": "Meine Aussprache sei gut, sagen sie; ich glaube es nicht.",
+       "gloss": "نُطْق·ِي جَيِّد، يَ·قُول·ُون؛ أَنَا لا أُ·صَدِّق. | Aussprache·mein gut, 3·sagen·PL; ich nicht 1SG·glauben.",
+       "umschrift": "nuṭqī jayyid, yaqūlūn; anā lā uṣaddiq.",
+       "audio": "audio/ar-de/saetze/mq_07.mp3?v=0066d888"
+      },
+      {
+       "fr": "زَلَّ لِسَانِي، ضَحِكَ الصَّفّ.",
+       "de": "Mir ist die Zunge ausgerutscht, die Klasse lachte.",
+       "gloss": "زَلّ·َ لِسَان·ِي، ضَحِك·َ ال·صَفّ. | ausrutschen·3SG Zunge·mein, lachen·3SG DEF·Klasse.",
+       "umschrift": "zalla lisānī, ḍaḥika ṣ-ṣaff.",
+       "audio": "audio/ar-de/saetze/mq_09.mp3?v=8d8c17d1"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "لا وَاجِبَ فِي عُطْلَةِ الأُسْبُوع، التَّلامِيذُ يَحْتَفِلُون.",
+       "de": "Keine Hausaufgaben übers Wochenende, die Schüler feiern.",
+       "gloss": "لا وَاجِب فِي عُطْلَة·ِ ال·أُسْبُوع، ال·تَلامِيذ يَ·حْتَفِل·ُون. | kein Pflicht in Pause·GEN DEF·Woche, DEF·Schüler.PL 3·feiern·PL.",
+       "umschrift": "lā wājib fī ʿuṭlat al-usbūʿ, at-talāmīdh yaḥtafilūn.",
+       "audio": "audio/ar-de/saetze/mu_08.mp3?v=91351fda"
+      },
+      {
+       "fr": "هَذَا المَسَاءَ أُصَحِّحُ أَوْرَاقَ الصَّفِّ التَّاسِع.",
+       "de": "Heute Abend korrigiere ich die Arbeiten der neunten Klasse.",
+       "gloss": "هَذَا ال·مَسَاء أُ·صَحِّح أَوْرَاق·َ ال·صَفّ ال·تَاسِع. | dies DEF·Abend 1SG·korrigieren Blätter·AKK DEF·Klasse DEF·neunte.",
+       "umschrift": "hādhā l-masāʾ uṣaḥḥiḥ awrāq aṣ-ṣaff at-tāsiʿ.",
+       "audio": "audio/ar-de/saetze/mu_01.mp3?v=a12e4b69"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "التَّلامِيذُ تَبَنَّوْا قِطَّ المَدْرَسَة.",
+       "de": "Die Schüler haben die Schulkatze adoptiert.",
+       "gloss": "ال·تَلامِيذ تَبَنَّ·وْا قِطّ·َ ال·مَدْرَسَة. | DEF·Schüler.PL adoptieren·3PL Katze·AKK DEF·Schule.",
+       "umschrift": "at-talāmīdh tabannaw qiṭṭ al-madrasa.",
+       "audio": "audio/ar-de/saetze/qi_20.mp3?v=30293d23"
+      },
+      {
+       "fr": "خَدَشَ الأَرِيكَةَ مَرَّةً أُخْرَى.",
+       "de": "Er hat das Sofa schon wieder zerkratzt.",
+       "gloss": "خَدَش·َ ال·أَرِيكَة مَرَّةً أُخْرَى. | kratzen·3SG DEF·Sofa Mal anderes.",
+       "umschrift": "khadasha l-arīka marratan ukhrā.",
+       "audio": "audio/ar-de/saetze/qi_04.mp3?v=6f05013c"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "الكُلُّ يَعْرِفُ اللَّازِمَة، لا أَحَدَ يَعْرِفُ الأَبْيَات.",
+       "de": "Den Refrain kennen alle, die Strophen kennt keiner.",
+       "gloss": "ال·كُلّ يَ·عْرِف ال·لَازِمَة، لا أَحَد يَ·عْرِف ال·أَبْيَات. | DEF·alle 3SG·kennen DEF·Refrain, kein jemand 3SG·kennen DEF·Verse.",
+       "umschrift": "al-kull yaʿrif al-lāzima, lā aḥad yaʿrif al-abyāt.",
+       "audio": "audio/ar-de/saetze/mq_13.mp3?v=490bd424"
+      },
+      {
+       "fr": "لا أُمْسِكُ الإِيقَاع، يَدَايَ فِي عَالَمٍ آخَر.",
+       "de": "Ich halte den Takt nicht, meine Hände sind in einer anderen Welt.",
+       "gloss": "لا أُ·مْسِك ال·إِيقَاع، يَد·َايَ فِي عَالَم آخَر. | nicht 1SG·festhalten DEF·Rhythmus, Hand·DUAL.mein in Welt anderer.",
+       "umschrift": "lā umsik al-īqāʿ, yadāya fī ʿālam ākhar.",
+       "audio": "audio/ar-de/saetze/mq_11.mp3?v=13251461"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
   }
  ],
  "geschichte_info": {
@@ -9032,6 +10002,40 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/orte/ugarit.mp3?v=31a50fdc",
   "audio/ar-de/orte/umawi.mp3?v=81993472",
   "audio/ar-de/orte/yanbu.mp3?v=11a88d59",
+  "audio/ar-de/saetze/mq_01.mp3?v=3432bc37",
+  "audio/ar-de/saetze/mq_01_fp.mp3?v=58151480",
+  "audio/ar-de/saetze/mq_01_pc.mp3?v=4af4c2bd",
+  "audio/ar-de/saetze/mq_02.mp3?v=8a433340",
+  "audio/ar-de/saetze/mq_02_fp.mp3?v=5274a1df",
+  "audio/ar-de/saetze/mq_02_pc.mp3?v=f7a116a6",
+  "audio/ar-de/saetze/mq_03.mp3?v=e6bda67f",
+  "audio/ar-de/saetze/mq_04.mp3?v=32502b72",
+  "audio/ar-de/saetze/mq_05.mp3?v=fcab2e86",
+  "audio/ar-de/saetze/mq_06.mp3?v=01018615",
+  "audio/ar-de/saetze/mq_07.mp3?v=0066d888",
+  "audio/ar-de/saetze/mq_08.mp3?v=20d23dbb",
+  "audio/ar-de/saetze/mq_09.mp3?v=8d8c17d1",
+  "audio/ar-de/saetze/mq_10.mp3?v=45663814",
+  "audio/ar-de/saetze/mq_11.mp3?v=13251461",
+  "audio/ar-de/saetze/mq_12.mp3?v=9e53783d",
+  "audio/ar-de/saetze/mq_13.mp3?v=490bd424",
+  "audio/ar-de/saetze/mq_14.mp3?v=bed91e47",
+  "audio/ar-de/saetze/mq_15.mp3?v=ea2c0183",
+  "audio/ar-de/saetze/mq_16.mp3?v=8694b983",
+  "audio/ar-de/saetze/mq_17.mp3?v=565ed7ed",
+  "audio/ar-de/saetze/mq_18.mp3?v=741acd42",
+  "audio/ar-de/saetze/mq_18_fp.mp3?v=7c924002",
+  "audio/ar-de/saetze/mq_18_pc.mp3?v=93afe32b",
+  "audio/ar-de/saetze/mq_19.mp3?v=393463cf",
+  "audio/ar-de/saetze/mq_20.mp3?v=1a83568e",
+  "audio/ar-de/saetze/mq_21.mp3?v=0945370f",
+  "audio/ar-de/saetze/mq_21_fp.mp3?v=7b04cf6e",
+  "audio/ar-de/saetze/mq_21_pc.mp3?v=88313fef",
+  "audio/ar-de/saetze/mq_22.mp3?v=76bf6b7a",
+  "audio/ar-de/saetze/mq_23.mp3?v=6f341f5b",
+  "audio/ar-de/saetze/mq_23_fp.mp3?v=8c29a96b",
+  "audio/ar-de/saetze/mq_23_pc.mp3?v=3e058aa6",
+  "audio/ar-de/saetze/mq_24.mp3?v=8eb2f29b",
   "audio/ar-de/saetze/ms_01.mp3?v=4444228f",
   "audio/ar-de/saetze/ms_02.mp3?v=25780d62",
   "audio/ar-de/saetze/ms_02_fp.mp3?v=b2f9a316",
@@ -9166,6 +10170,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/spiel/titel_5.mp3?v=c46d1836",
   "audio/ar-de/spiel/titel_6.mp3?v=2d3db4b0",
   "audio/ar-de/spiel/woche.mp3?v=72c5bf23",
+  "audio/ar-de/syrisch/mq_01.mp3?v=2703c33f",
+  "audio/ar-de/syrisch/mq_02.mp3?v=63508fd1",
+  "audio/ar-de/syrisch/mq_03.mp3?v=93901815",
+  "audio/ar-de/syrisch/mq_04.mp3?v=1f3e6179",
+  "audio/ar-de/syrisch/mq_05.mp3?v=ee45b5bc",
+  "audio/ar-de/syrisch/mq_06.mp3?v=91508da4",
+  "audio/ar-de/syrisch/mq_07.mp3?v=f48901b2",
+  "audio/ar-de/syrisch/mq_08.mp3?v=03c6298e",
+  "audio/ar-de/syrisch/mq_09.mp3?v=6048168d",
+  "audio/ar-de/syrisch/mq_10.mp3?v=a3435f8c",
+  "audio/ar-de/syrisch/mq_11.mp3?v=9ab1cce0",
+  "audio/ar-de/syrisch/mq_12.mp3?v=ea8a6ef2",
+  "audio/ar-de/syrisch/mq_13.mp3?v=3dc2d3da",
+  "audio/ar-de/syrisch/mq_14.mp3?v=2714bde0",
+  "audio/ar-de/syrisch/mq_15.mp3?v=210e6dfe",
+  "audio/ar-de/syrisch/mq_16.mp3?v=cb26e996",
+  "audio/ar-de/syrisch/mq_17.mp3?v=7ec80994",
+  "audio/ar-de/syrisch/mq_18.mp3?v=b6c2e344",
+  "audio/ar-de/syrisch/mq_19.mp3?v=a792e0d8",
+  "audio/ar-de/syrisch/mq_20.mp3?v=ec712ebb",
+  "audio/ar-de/syrisch/mq_21.mp3?v=a74e5ff1",
+  "audio/ar-de/syrisch/mq_22.mp3?v=ee99b51a",
+  "audio/ar-de/syrisch/mq_23.mp3?v=fbbb892c",
+  "audio/ar-de/syrisch/mq_24.mp3?v=e5642acd",
   "audio/ar-de/syrisch/ms_01.mp3?v=9fce928f",
   "audio/ar-de/syrisch/ms_02.mp3?v=b0e4a8f8",
   "audio/ar-de/syrisch/ms_03.mp3?v=467ffa23",
@@ -9262,6 +10290,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/ta_22.mp3?v=9e25c115",
   "audio/ar-de/syrisch/ta_23.mp3?v=a728dec3",
   "audio/ar-de/syrisch/ta_24.mp3?v=039dec19",
+  "audio/ar-de/wendungen/mq_01.mp3?v=a40e38ab",
+  "audio/ar-de/wendungen/mq_02.mp3?v=058cddb9",
+  "audio/ar-de/wendungen/mq_03.mp3?v=7785dc21",
+  "audio/ar-de/wendungen/mq_04.mp3?v=cfcea4ae",
+  "audio/ar-de/wendungen/mq_05.mp3?v=a114d331",
+  "audio/ar-de/wendungen/mq_06.mp3?v=7b4e59dc",
+  "audio/ar-de/wendungen/mq_07.mp3?v=ac3f5d50",
+  "audio/ar-de/wendungen/mq_08.mp3?v=b568ad0c",
+  "audio/ar-de/wendungen/mq_09.mp3?v=acb68ff0",
+  "audio/ar-de/wendungen/mq_10.mp3?v=0f59eee6",
+  "audio/ar-de/wendungen/mq_11.mp3?v=05764952",
+  "audio/ar-de/wendungen/mq_12.mp3?v=3e23396c",
+  "audio/ar-de/wendungen/mq_13.mp3?v=63f20fe6",
+  "audio/ar-de/wendungen/mq_14.mp3?v=89c83307",
+  "audio/ar-de/wendungen/mq_15.mp3?v=b08c9694",
+  "audio/ar-de/wendungen/mq_16.mp3?v=d21f6fda",
+  "audio/ar-de/wendungen/mq_17.mp3?v=86bd08b7",
+  "audio/ar-de/wendungen/mq_18.mp3?v=fe9a18f3",
+  "audio/ar-de/wendungen/mq_19.mp3?v=b2c2d055",
+  "audio/ar-de/wendungen/mq_20.mp3?v=6af86eb7",
+  "audio/ar-de/wendungen/mq_21.mp3?v=81bd83a8",
+  "audio/ar-de/wendungen/mq_22.mp3?v=f1f9010f",
+  "audio/ar-de/wendungen/mq_23.mp3?v=6a9a6ca0",
+  "audio/ar-de/wendungen/mq_24.mp3?v=aaef791d",
   "audio/ar-de/wendungen/ms_01.mp3?v=b22b12c1",
   "audio/ar-de/wendungen/ms_02.mp3?v=872f9f13",
   "audio/ar-de/wendungen/ms_03.mp3?v=87f99414",

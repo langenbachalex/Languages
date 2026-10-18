@@ -149,7 +149,9 @@ def daten_fuer(P):
     gdatei = getattr(P, "GRAMMATIK_DATEI", "dilbilgisi.tsv")
     for z in (tsv(inhalte, gdatei) if os.path.exists(os.path.join(inhalte, gdatei)) else []):
         assert any(t["id"] == z["thema"] for t in themen), f"{paar} Grammatik {z['id']}: Thema {z['thema']} fehlt"
-        beispiele = [dict(quelle(e.split("=", 1)[0]), hinweis=e.split("=", 1)[1]) for e in z["beispiele"].split(";") if e]
+        # Beispiele: « id=Hinweis;id=Hinweis » – ein Semikolon im Hinweis zählt nicht als Trenner, wenn danach keine id folgt
+        import re as _re
+        beispiele = [dict(quelle(e.split("=", 1)[0].strip()), hinweis=e.split("=", 1)[1].strip()) for e in _re.split(r";(?=\s*[a-z]+_\d+=|\s*k\d+_\d+=|\s*d\w+_\d+=)", z["beispiele"]) if e.strip()]
         kontrast = [dict(zip(["a", "b", "text"], k.split("|"))) for k in z["kontrast"].split(";") if k]
         chips = []
         for c in z["chips"].split(";"):
