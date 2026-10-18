@@ -20,6 +20,7 @@ THEME = {"blau": "#1b6b45", "rot": "#b8860b", "rot_text": "#ffffff", "dunkel": {
 # Themen folgen nach Schrift- und Lautmodulen (Thema 9 = « Arabische Wörter, die du schon kennst »)
 THEMEN = [
     {"id": "tahiyyat", "name": "التَّحِيَّات", "de": "Begrüßung – anta und ḥaḍratuka", "symbol": "👋", "datei": "tahiyyat.tsv"},
+    {"id": "muallimin", "name": "بَيْنَ المُعَلِّمِين", "de": "Unter Lehrern – mit Khalid", "symbol": "🧑‍🏫", "datei": "muallimin.tsv"},
 ]
 GRAMMATIK_DATEI = "qawaid.tsv"
 

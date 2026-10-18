@@ -364,6 +364,38 @@ window.SPRACHEN["ar-de"] = {
     "ta_23",
     "ta_24"
    ]
+  },
+  {
+   "id": "muallimin",
+   "name": "بَيْنَ المُعَلِّمِين",
+   "de": "Unter Lehrern – mit Khalid",
+   "symbol": "🧑‍🏫",
+   "wendungen": [
+    "mu_01",
+    "mu_02",
+    "mu_03",
+    "mu_04",
+    "mu_05",
+    "mu_06",
+    "mu_07",
+    "mu_08",
+    "mu_09",
+    "mu_10",
+    "mu_11",
+    "mu_12",
+    "mu_13",
+    "mu_14",
+    "mu_15",
+    "mu_16",
+    "mu_17",
+    "mu_18",
+    "mu_19",
+    "mu_20",
+    "mu_21",
+    "mu_22",
+    "mu_23",
+    "mu_24"
+   ]
   }
  ],
  "wendungen": [
@@ -1013,6 +1045,709 @@ window.SPRACHEN["ar-de"] = {
     "fr": "مَسا الخِير، مَع السَّلامِة. – مَع السَّلامِة يا أُسْتاذ.",
     "umschrift": "masa l-khēr, maʿ is-salāme. – maʿ is-salāme yā ustāz.",
     "audio": "audio/ar-de/syrisch/ta_24.mp3?v=039dec19"
+   }
+  },
+  {
+   "id": "mu_01",
+   "thema": "muallimin",
+   "fr": "أُصَحِّحُ الأَوْرَاق",
+   "de": "ich korrigiere die Arbeiten",
+   "register": "tu",
+   "anker": "صحح",
+   "notiz": "ṣaḥḥaḥa = korrigieren (Stamm II der Wurzel ṣ-ḥ-ḥ, richtig; ṣaḥīḥ = richtig aus dem Lautmodul). u-ṣaḥḥiḥ = ich korrigiere, ṣaḥḥaḥ-tu = ich korrigierte, sa- = Zukunft. awrāq = Blätter (Plural von waraqa).",
+   "audio": "audio/ar-de/wendungen/mu_01.mp3?v=947e6a1e",
+   "gloss": "أُ·صَحِّح ال·أَوْرَاق | 1SG·korrigieren DEF·Blätter",
+   "umschrift": "uṣaḥḥiḥ al-awrāq",
+   "wurzel": "ص-ح-ح",
+   "satz": {
+    "fr": "هَذَا المَسَاءَ أُصَحِّحُ أَوْرَاقَ الصَّفِّ التَّاسِع.",
+    "de": "Heute Abend korrigiere ich die Arbeiten der neunten Klasse.",
+    "luecke": "أُصَحِّحُ",
+    "gloss": "هَذَا ال·مَسَاء أُ·صَحِّح أَوْرَاق·َ ال·صَفّ ال·تَاسِع. | dies DEF·Abend 1SG·korrigieren Blätter·AKK DEF·Klasse DEF·neunte.",
+    "umschrift": "hādhā l-masāʾ uṣaḥḥiḥ awrāq aṣ-ṣaff at-tāsiʿ.",
+    "audio": "audio/ar-de/saetze/mu_01.mp3?v=a12e4b69"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ صَحَّحْتُ أَوْرَاقَ الصَّفِّ التَّاسِع.",
+     "umschrift": "amsi ṣaḥḥaḥtu awrāq aṣ-ṣaff at-tāsiʿ.",
+     "audio": "audio/ar-de/saetze/mu_01_pc.mp3?v=10e625c8"
+    },
+    "fp": {
+     "fr": "غَدًا سَأُصَحِّحُ أَوْرَاقَ الصَّفِّ التَّاسِع.",
+     "umschrift": "ghadan sa-uṣaḥḥiḥ awrāq aṣ-ṣaff at-tāsiʿ.",
+     "audio": "audio/ar-de/saetze/mu_01_fp.mp3?v=33a186db"
+    }
+   },
+   "syrisch": {
+    "fr": "اللِّيلِة عَم صَحِّح وْراق الصَّفّ التَّاسِع.",
+    "umschrift": "il-lēle ʿam ṣaḥḥiḥ wrāʾ iṣ-ṣaff it-tāsiʿ.",
+    "audio": "audio/ar-de/syrisch/mu_01.mp3?v=1b8bb78e"
+   }
+  },
+  {
+   "id": "mu_02",
+   "thema": "muallimin",
+   "fr": "مُتْعَبٌ بَعْدَ سِتِّ حِصَص",
+   "de": "müde nach sechs Stunden",
+   "register": "tu",
+   "anker": "تعب",
+   "notiz": "mutʿab = müde (Partizip von atʿaba, ermüden; Wurzel t-ʿ-b). Frau: mutʿaba. ḥiṣṣa = Unterrichtsstunde, Plural ḥiṣaṣ; nach 3 bis 10 steht der Plural im Genitiv: sitt ḥiṣaṣ. Kein Verb im Satz.",
+   "audio": "audio/ar-de/wendungen/mu_02.mp3?v=fe5160d9",
+   "gloss": "مُتْعَب بَعْدَ سِتّ حِصَص | müde nach sechs Stunden",
+   "umschrift": "mutʿab baʿda sitt ḥiṣaṣ",
+   "wurzel": "ت-ع-ب",
+   "satz": {
+    "fr": "أَنَا مُتْعَبٌ بَعْدَ سِتِّ حِصَص.",
+    "de": "Ich bin müde nach sechs Stunden.",
+    "luecke": "مُتْعَبٌ بَعْدَ سِتِّ حِصَص",
+    "gloss": "أَنَا مُتْعَب بَعْدَ سِتّ حِصَص. | ich müde nach sechs Stunden.",
+    "umschrift": "anā mutʿab baʿda sitt ḥiṣaṣ.",
+    "audio": "audio/ar-de/saetze/mu_02.mp3?v=2a4a0ca8"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَنا تَعْبان بَعْد سِتّ حِصَص.",
+    "umschrift": "ana taʿbān baʿd sitt ḥiṣaṣ.",
+    "audio": "audio/ar-de/syrisch/mu_02.mp3?v=ee25df2d"
+   }
+  },
+  {
+   "id": "mu_03",
+   "thema": "muallimin",
+   "fr": "الاجْتِمَاعُ السَّاعَةَ الرَّابِعَة",
+   "de": "die Sitzung ist um vier",
+   "register": "tu",
+   "anker": "اجتماع",
+   "notiz": "ijtimāʿ = Sitzung, Versammlung (Wurzel j-m-ʿ, sammeln; wie jāmiʿ, Moschee = Sammelort). as-sāʿa ar-rābiʿa = die vierte Stunde = vier Uhr (Ordnungszahl!). taʾtī = du kommst (von atā).",
+   "audio": "audio/ar-de/wendungen/mu_03.mp3?v=8bdf92ec",
+   "gloss": "ال·اجْتِمَاع ال·سَاعَة ال·رَابِعَة | DEF·Sitzung DEF·Stunde DEF·vierte",
+   "umschrift": "al-ijtimāʿ as-sāʿa ar-rābiʿa",
+   "wurzel": "ج-م-ع",
+   "satz": {
+    "fr": "الاجْتِمَاعُ السَّاعَةَ الرَّابِعَة، هَلْ تَأْتِي؟",
+    "de": "Die Sitzung ist um vier, kommst du?",
+    "luecke": "الاجْتِمَاعُ السَّاعَةَ الرَّابِعَة",
+    "gloss": "ال·اجْتِمَاع ال·سَاعَة ال·رَابِعَة، هَلْ تَ·أْتِي؟ | DEF·Sitzung DEF·Stunde DEF·vierte, FRAGE 2SG·kommen?",
+    "umschrift": "al-ijtimāʿ as-sāʿa ar-rābiʿa, hal taʾtī?",
+    "audio": "audio/ar-de/saetze/mu_03.mp3?v=f01da193"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الاجْتِماع السّاعَة أَرْبَعَة، بْتِجي؟",
+    "umschrift": "il-ijtimāʿ is-sāʿa arbaʿa, btijī?",
+    "audio": "audio/ar-de/syrisch/mu_03.mp3?v=a5049763"
+   }
+  },
+  {
+   "id": "mu_04",
+   "thema": "muallimin",
+   "fr": "عِنْدِي حِصَّةٌ فَارِغَة",
+   "de": "ich habe eine Freistunde",
+   "register": "tu",
+   "anker": "عند",
+   "notiz": "ʿind-ī = bei mir = ich habe (ʿinda + Suffix: ʿindak, ʿinduh). fārigha = leer (feminin wegen ḥiṣṣa). nashrab = wir trinken; als Frage mit steigender Stimme.",
+   "audio": "audio/ar-de/wendungen/mu_04.mp3?v=49509b68",
+   "gloss": "عِنْد·ِي حِصَّة فَارِغَة | bei·mir Stunde leer.F",
+   "umschrift": "ʿindī ḥiṣṣa fārigha",
+   "wurzel": "ع-ن-د",
+   "satz": {
+    "fr": "عِنْدِي حِصَّةٌ فَارِغَة فِي الثَّالِثَة، نَشْرَبُ قَهْوَة؟",
+    "de": "Ich habe in der dritten eine Freistunde, trinken wir Kaffee?",
+    "luecke": "عِنْدِي حِصَّةٌ فَارِغَة",
+    "gloss": "عِنْد·ِي حِصَّة فَارِغَة فِي ال·ثَالِثَة، نَ·شْرَب قَهْوَة؟ | bei·mir Stunde leer.F in DEF·dritten, 1PL·trinken Kaffee?",
+    "umschrift": "ʿindī ḥiṣṣa fārigha fī th-thālitha, nashrab qahwa?",
+    "audio": "audio/ar-de/saetze/mu_04.mp3?v=48a3f174"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "عِنْدي حِصَّة فاضْيِة بِالتّالْتِة، مْنِشْرَب قَهْوِة؟",
+    "umschrift": "ʿindī ḥiṣṣa fāḍye bit-tālte, mnishrab ʾahwe?",
+    "audio": "audio/ar-de/syrisch/mu_04.mp3?v=036d183a"
+   }
+  },
+  {
+   "id": "mu_05",
+   "thema": "muallimin",
+   "fr": "القَهْوَةُ انْتَهَتْ",
+   "de": "der Kaffee ist alle",
+   "register": "tu",
+   "anker": "انتهى",
+   "notiz": "intahā = zu Ende gehen (Stamm VIII, Wurzel n-h-y); intahat = feminin, weil qahwa feminin ist. ghurfat al-muʿallimīn = das Zimmer der Lehrer: ة wird t, muʿallimīn ist der Plural nach Präposition oder im Genitiv.",
+   "audio": "audio/ar-de/wendungen/mu_05.mp3?v=3e85dc62",
+   "gloss": "ال·قَهْوَة اِنْتَهَ·تْ | DEF·Kaffee enden·3SG.F",
+   "umschrift": "al-qahwa ntahat",
+   "wurzel": "ن-ه-ي",
+   "satz": {
+    "fr": "القَهْوَةُ انْتَهَتْ مَرَّةً أُخْرَى فِي غُرْفَةِ المُعَلِّمِين.",
+    "de": "Der Kaffee ist im Lehrerzimmer schon wieder alle.",
+    "luecke": "القَهْوَةُ انْتَهَتْ",
+    "gloss": "ال·قَهْوَة اِنْتَهَ·تْ مَرَّةً أُخْرَى فِي غُرْفَة·ِ ال·مُعَلِّم·ِين. | DEF·Kaffee enden·3SG.F Mal anderes in Zimmer·GEN DEF·Lehrer·PL.",
+    "umschrift": "al-qahwa ntahat marratan ukhrā fī ghurfat al-muʿallimīn.",
+    "audio": "audio/ar-de/saetze/mu_05.mp3?v=6141608f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "القَهْوِة خِلْصِت كَمان مَرَّة بْغُرْفِة المْعَلّْمين.",
+    "umschrift": "il-ʾahwe khilṣet kamān marra b-ghurfet il-mʿallmīn.",
+    "audio": "audio/ar-de/syrisch/mu_05.mp3?v=0d26dd02"
+   }
+  },
+  {
+   "id": "mu_06",
+   "thema": "muallimin",
+   "fr": "أَنَا مُنَاوِبٌ فِي الاسْتِرَاحَة",
+   "de": "ich habe Pausenaufsicht",
+   "register": "tu",
+   "anker": "ناوب",
+   "notiz": "munāwib = diensthabend (Partizip von nāwaba, abwechseln; Wurzel n-w-b). istirāḥa = Pause, Erholung (Wurzel r-w-ḥ, wie rūḥ). al-yawm = heute (wörtlich: der Tag).",
+   "audio": "audio/ar-de/wendungen/mu_06.mp3?v=2dc5225c",
+   "gloss": "مُنَاوِب فِي ال·اسْتِرَاحَة | diensthabend in DEF·Pause",
+   "umschrift": "munāwib fī l-istirāḥa",
+   "wurzel": "ن-و-ب",
+   "satz": {
+    "fr": "اليَوْمَ أَنَا مُنَاوِبٌ فِي الاسْتِرَاحَة.",
+    "de": "Heute habe ich Pausenaufsicht.",
+    "luecke": "مُنَاوِبٌ فِي الاسْتِرَاحَة",
+    "gloss": "ال·يَوْم أَنَا مُنَاوِب فِي ال·اسْتِرَاحَة. | DEF·Tag ich diensthabend in DEF·Pause.",
+    "umschrift": "al-yawm anā munāwib fī l-istirāḥa.",
+    "audio": "audio/ar-de/saetze/mu_06.mp3?v=a5c113ec"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اليوم أَنا مْناوِب بِالاسْتِراحَة.",
+    "umschrift": "il-yōm ana mnāwib bil-istirāḥa.",
+    "audio": "audio/ar-de/syrisch/mu_06.mp3?v=3f257f65"
+   }
+  },
+  {
+   "id": "mu_07",
+   "thema": "muallimin",
+   "fr": "الجَدْوَلُ الجَدِيد",
+   "de": "der neue Stundenplan",
+   "register": "tu",
+   "anker": "جدول",
+   "notiz": "jadwal = Tabelle, Stundenplan. Adjektiv folgt dem Nomen und nimmt al- mit: al-jadwal al-jadīd. yuʿṭī-nī = er gibt mir (-nī = mich/mir am Verb). yawm al-jumʿa = Freitag (Tag der Versammlung).",
+   "audio": "audio/ar-de/wendungen/mu_07.mp3?v=7ea604a6",
+   "gloss": "ال·جَدْوَل ال·جَدِيد | DEF·Plan DEF·neu",
+   "umschrift": "al-jadwal al-jadīd",
+   "wurzel": "ج-د-ل",
+   "satz": {
+    "fr": "الجَدْوَلُ الجَدِيدُ يُعْطِينِي سَبْعَ حِصَصٍ يَوْمَ الجُمْعَة.",
+    "de": "Der neue Stundenplan gibt mir freitags sieben Stunden.",
+    "luecke": "الجَدْوَلُ الجَدِيد",
+    "gloss": "ال·جَدْوَل ال·جَدِيد يُعْطِي·نِي سَبْع حِصَص يَوْمَ ال·جُمْعَة. | DEF·Plan DEF·neu gibt·mir sieben Stunden Tag DEF·Freitag.",
+    "umschrift": "al-jadwal al-jadīd yuʿṭīnī sabʿ ḥiṣaṣ yawm al-jumʿa.",
+    "audio": "audio/ar-de/saetze/mu_07.mp3?v=317ab76f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "البَرْنامَج الجْديد عَم يَعْطيني سَبْع حِصَص يوم الجُمْعَة.",
+    "umschrift": "il-barnāmaj ij-jdīd ʿam yaʿṭīnī sabʿ ḥiṣaṣ yōm ij-jumʿa.",
+    "audio": "audio/ar-de/syrisch/mu_07.mp3?v=1c87eda9"
+   }
+  },
+  {
+   "id": "mu_08",
+   "thema": "muallimin",
+   "fr": "لا وَاجِبَ فِي عُطْلَةِ الأُسْبُوع",
+   "de": "keine Hausaufgaben übers Wochenende",
+   "register": "tu",
+   "anker": "واجب",
+   "notiz": "lā + Nomen ohne al- = es gibt kein (lā wājib = keine Hausaufgabe; wājib = Pflicht). ʿuṭlat al-usbūʿ = die Pause der Woche = Wochenende. talāmīdh = Schüler (Plural von tilmīdh), yaḥtafilūn = sie feiern.",
+   "audio": "audio/ar-de/wendungen/mu_08.mp3?v=28174901",
+   "gloss": "لا وَاجِب فِي عُطْلَة·ِ ال·أُسْبُوع | kein Pflicht in Pause·GEN DEF·Woche",
+   "umschrift": "lā wājib fī ʿuṭlat al-usbūʿ",
+   "wurzel": "و-ج-ب",
+   "satz": {
+    "fr": "لا وَاجِبَ فِي عُطْلَةِ الأُسْبُوع، التَّلامِيذُ يَحْتَفِلُون.",
+    "de": "Keine Hausaufgaben übers Wochenende, die Schüler feiern.",
+    "luecke": "لا وَاجِبَ",
+    "gloss": "لا وَاجِب فِي عُطْلَة·ِ ال·أُسْبُوع، ال·تَلامِيذ يَ·حْتَفِل·ُون. | kein Pflicht in Pause·GEN DEF·Woche, DEF·Schüler.PL 3·feiern·PL.",
+    "umschrift": "lā wājib fī ʿuṭlat al-usbūʿ, at-talāmīdh yaḥtafilūn.",
+    "audio": "audio/ar-de/saetze/mu_08.mp3?v=91351fda"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "ما في وَظيفِة بِالوِيكِنْد، التَّلاميذ عَم يِحْتِفْلو.",
+    "umschrift": "mā fī waẓīfe bil-wīkend, it-talāmīz ʿam yiḥtiflū.",
+    "audio": "audio/ar-de/syrisch/mu_08.mp3?v=6470b8f5"
+   }
+  },
+  {
+   "id": "mu_09",
+   "thema": "muallimin",
+   "fr": "وَضْعُ الدَّرَجَاتِ أَصْعَبُ مِنَ التَّدْرِيس",
+   "de": "Noten geben ist schwerer als unterrichten",
+   "register": "tu",
+   "anker": "صعب",
+   "notiz": "Komparativ: aṣʿab min = schwerer als (Muster afʿal von ṣaʿb, schwer; akbar, aṣghar, ajmal ebenso). waḍʿ ad-darajāt = das Setzen der Noten (daraja = Stufe, Note). tadrīs = Unterrichten (Wurzel d-r-s, Stamm II).",
+   "audio": "audio/ar-de/wendungen/mu_09.mp3?v=7e75bece",
+   "gloss": "وَضْع ال·دَرَجَات أَصْعَب مِنَ ال·تَدْرِيس | Setzen DEF·Noten schwerer als DEF·Unterrichten",
+   "umschrift": "waḍʿ ad-darajāt aṣʿab min at-tadrīs",
+   "wurzel": "ص-ع-ب",
+   "satz": {
+    "fr": "وَضْعُ الدَّرَجَاتِ أَصْعَبُ مِنَ التَّدْرِيس.",
+    "de": "Noten geben ist schwerer als unterrichten.",
+    "luecke": "أَصْعَبُ مِنَ",
+    "gloss": "وَضْع·ُ ال·دَرَجَات أَصْعَب مِنَ ال·تَدْرِيس. | Setzen·GEN DEF·Noten schwerer als DEF·Unterrichten.",
+    "umschrift": "waḍʿ ad-darajāt aṣʿab min at-tadrīs.",
+    "audio": "audio/ar-de/saetze/mu_09.mp3?v=fd6be991"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "العَلامات أَصْعَب مِن التَّدْريس.",
+    "umschrift": "il-ʿalāmāt aṣʿab min it-tadrīs.",
+    "audio": "audio/ar-de/syrisch/mu_09.mp3?v=e1e258d2"
+   }
+  },
+  {
+   "id": "mu_10",
+   "thema": "muallimin",
+   "fr": "لا أَحَدَ يَرْسُب",
+   "de": "niemand bleibt sitzen",
+   "register": "tu",
+   "anker": "رسب",
+   "notiz": "lā aḥad = niemand (lā + aḥad, jemand). rasaba = durchfallen, sitzenbleiben (Wurzel r-s-b, sinken). in shāʾa llāh = wenn Gott will: bei allem, was in der Zukunft liegt, und oft ein höfliches « mal sehen ».",
+   "audio": "audio/ar-de/wendungen/mu_10.mp3?v=e1779c97",
+   "gloss": "لا أَحَد يَ·رْسُب | kein jemand 3SG·durchfallen",
+   "umschrift": "lā aḥad yarsub",
+   "wurzel": "ر-س-ب",
+   "satz": {
+    "fr": "لا أَحَدَ يَرْسُبُ هَذِهِ السَّنَة، إِنْ شَاءَ الله.",
+    "de": "Niemand bleibt dieses Jahr sitzen, so Gott will.",
+    "luecke": "لا أَحَدَ يَرْسُب",
+    "gloss": "لا أَحَد يَ·رْسُب هَذِهِ ال·سَنَة، إِنْ شَاءَ الله. | kein jemand 3SG·durchfallen diese DEF·Jahr, wenn wollte Gott.",
+    "umschrift": "lā aḥad yarsub hādhihi s-sana, in shāʾa llāh.",
+    "audio": "audio/ar-de/saetze/mu_10.mp3?v=099f8acb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "ما حَدا بْيِرْسُب هالسِّنِة، إنْ شاء الله.",
+    "umschrift": "mā ḥada byirsob has-sine, in shāʾ aḷḷāh.",
+    "audio": "audio/ar-de/syrisch/mu_10.mp3?v=5e3e14d4"
+   }
+  },
+  {
+   "id": "mu_11",
+   "thema": "muallimin",
+   "fr": "اِجْتِمَاعُ الأَهْلِ اللَّيْلَة",
+   "de": "Elternabend heute Abend",
+   "register": "tu",
+   "anker": "أهل",
+   "notiz": "ahl = Familie, Eltern (wie in ahlan: zur Familie!). al-layla = heute Nacht/Abend. sa-nanām = wir werden schlafen; mutaʾakhkhirīn = spät (Plural-Partizip von taʾakhkhara, sich verspäten).",
+   "audio": "audio/ar-de/wendungen/mu_11.mp3?v=1e67d260",
+   "gloss": "اِجْتِمَاع·ُ ال·أَهْل ال·لَيْلَة | Treffen·GEN DEF·Familie DEF·Nacht",
+   "umschrift": "ijtimāʿ al-ahl al-layla",
+   "wurzel": "أ-ه-ل",
+   "satz": {
+    "fr": "اِجْتِمَاعُ الأَهْلِ اللَّيْلَة، سَنَنَامُ مُتَأَخِّرِين.",
+    "de": "Heute Abend ist Elternabend, wir gehen spät ins Bett.",
+    "luecke": "اِجْتِمَاعُ الأَهْلِ اللَّيْلَة",
+    "gloss": "اِجْتِمَاع·ُ ال·أَهْل ال·لَيْلَة، سَ·نَ·نَام مُتَأَخِّر·ِين. | Treffen·GEN DEF·Familie DEF·Nacht, FUT·1PL·schlafen verspätet·PL.",
+    "umschrift": "ijtimāʿ al-ahl al-layla, sa-nanām mutaʾakhkhirīn.",
+    "audio": "audio/ar-de/saetze/mu_11.mp3?v=29e1e28d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اجْتِماع الأَهْل اللِّيلِة، رَح نْنام مِتْأَخّْرين.",
+    "umschrift": "ijtimāʿ il-ahl il-lēle, raḥ nnām mitʾakhkhrīn.",
+    "audio": "audio/ar-de/syrisch/mu_11.mp3?v=954cb38e"
+   }
+  },
+  {
+   "id": "mu_12",
+   "thema": "muallimin",
+   "fr": "أَحَدُهُمْ يَغُشّ",
+   "de": "einer schreibt ab",
+   "register": "tu",
+   "anker": "غش",
+   "notiz": "ghashsha = schummeln, betrügen (Wurzel gh-sh-sh, Schadda!). aḥad-uhum = einer von ihnen. ithnān = zwei, dann das Verb im Dual: yartakibān = sie beide begehen. nafsah = derselbe (nafs + sein).",
+   "audio": "audio/ar-de/wendungen/mu_12.mp3?v=f626c804",
+   "gloss": "أَحَد·ُهُمْ يَ·غُشّ | einer·ihr 3SG·schummeln",
+   "umschrift": "aḥaduhum yaghushsh",
+   "wurzel": "غ-ش-ش",
+   "satz": {
+    "fr": "أَحَدُهُمْ يَغُشّ، وَاثْنَانِ يَرْتَكِبَانِ الخَطَأَ نَفْسَه.",
+    "de": "Einer schreibt ab, und zwei machen denselben Fehler.",
+    "luecke": "أَحَدُهُمْ يَغُشّ",
+    "gloss": "أَحَد·ُهُمْ يَ·غُشّ، وَ·اثْنَان يَ·رْتَكِب·َان ال·خَطَأ نَفْس·َه. | einer·ihr 3SG·schummeln, und·zwei 3·begehen·DUAL DEF·Fehler selbst·sein.",
+    "umschrift": "aḥaduhum yaghushsh, wa-thnān yartakibān al-khaṭaʾ nafsah.",
+    "audio": "audio/ar-de/saetze/mu_12.mp3?v=7c120849"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَحَدُهُمْ غَشّ، وَاثْنَانِ ارْتَكَبَا الخَطَأَ نَفْسَه.",
+     "umschrift": "aḥaduhum ghashsh, wa-thnān irtakabā l-khaṭaʾ nafsah.",
+     "audio": "audio/ar-de/saetze/mu_12_pc.mp3?v=f5745829"
+    },
+    "fp": {
+     "fr": "أَحَدُهُمْ سَيَغُشّ، وَاثْنَانِ سَيَرْتَكِبَانِ الخَطَأَ نَفْسَه.",
+     "umschrift": "aḥaduhum sa-yaghushsh, wa-thnān sa-yartakibān al-khaṭaʾ nafsah.",
+     "audio": "audio/ar-de/saetze/mu_12_fp.mp3?v=1d16b9eb"
+    }
+   },
+   "syrisch": {
+    "fr": "واحِد عَم يْغِشّ، وتْنين عَم يَعْمْلو نَفْس الغَلَط.",
+    "umschrift": "wāḥed ʿam yghishsh, w-tnēn ʿam yaʿmlū nafs il-ghalaṭ.",
+    "audio": "audio/ar-de/syrisch/mu_12.mp3?v=38bf6770"
+   }
+  },
+  {
+   "id": "mu_13",
+   "thema": "muallimin",
+   "fr": "الحِصَّةُ الأَخِيرَةُ ضَاعَتْ",
+   "de": "die letzte Stunde ist geplatzt",
+   "register": "tu",
+   "anker": "ضاع",
+   "notiz": "ḍāʿa = verloren gehen (ḍāʿat feminin). taraktu-hum = ich ließ sie (-hum = sie, Plural). yadhhabūn = sie gehen; nach tarakа folgt das Verb direkt: ich ließ sie gehen.",
+   "audio": "audio/ar-de/wendungen/mu_13.mp3?v=8ae012a9",
+   "gloss": "ال·حِصَّة ال·أَخِيرَة ضَاع·َتْ | DEF·Stunde DEF·letzte verloren.gehen·3SG.F",
+   "umschrift": "al-ḥiṣṣa l-akhīra ḍāʿat",
+   "wurzel": "ض-ي-ع",
+   "satz": {
+    "fr": "الحِصَّةُ الأَخِيرَةُ ضَاعَتْ، وَأَنَا تَرَكْتُهُمْ يَذْهَبُون.",
+    "de": "Die letzte Stunde ist geplatzt, und ich habe sie gehen lassen.",
+    "luecke": "الحِصَّةُ الأَخِيرَةُ ضَاعَتْ",
+    "gloss": "ال·حِصَّة ال·أَخِيرَة ضَاع·َتْ، وَ·أَنَا تَرَك·ْتُ·هُمْ يَ·ذْهَب·ُون. | DEF·Stunde DEF·letzte verloren.gehen·3SG.F, und·ich lassen·1SG·sie 3·gehen·PL.",
+    "umschrift": "al-ḥiṣṣa l-akhīra ḍāʿat, wa-anā taraktuhum yadhhabūn.",
+    "audio": "audio/ar-de/saetze/mu_13.mp3?v=c28b7834"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الحِصَّة الأَخيرَة راحِت، وأَنا خَلّيتُن يْروحو.",
+    "umschrift": "il-ḥiṣṣa l-akhīra rāḥet, w-ana khallētun yrūḥū.",
+    "audio": "audio/ar-de/syrisch/mu_13.mp3?v=ffc378c8"
+   }
+  },
+  {
+   "id": "mu_14",
+   "thema": "muallimin",
+   "fr": "أُعَوِّضُ عَنْ زَمِيلَة",
+   "de": "ich vertrete eine Kollegin",
+   "register": "tu",
+   "anker": "عوض",
+   "notiz": "ʿawwaḍa ʿan = ersetzen, vertreten (Wurzel ʿ-w-ḍ). ʿan-hā = für sie (-hā = sie, feminin). zamīl = Kollege, zamīla = Kollegin. Vergangenheit von « ist krank »: kānat marīḍa (kāna = war).",
+   "audio": "audio/ar-de/wendungen/mu_14.mp3?v=10ad8cd6",
+   "gloss": "أُ·عَوِّض عَنْ زَمِيلَة | 1SG·vertreten für Kollegin",
+   "umschrift": "uʿawwiḍ ʿan zamīla",
+   "wurzel": "ع-و-ض",
+   "satz": {
+    "fr": "لَيْلَى مَرِيضَة، أُعَوِّضُ عَنْهَا فِي الحِصَّةِ الثَّانِيَة.",
+    "de": "Laylā ist krank, ich vertrete sie in der zweiten Stunde.",
+    "luecke": "أُعَوِّضُ عَنْهَا",
+    "gloss": "لَيْلَى مَرِيضَة، أُ·عَوِّض عَنْ·هَا فِي ال·حِصَّة ال·ثَانِيَة. | Laylā krank.F, 1SG·vertreten für·sie in DEF·Stunde DEF·zweite.",
+    "umschrift": "Laylā marīḍa, uʿawwiḍ ʿanhā fī l-ḥiṣṣa th-thāniya.",
+    "audio": "audio/ar-de/saetze/mu_14.mp3?v=5515c00c"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "لَيْلَى كَانَتْ مَرِيضَة، عَوَّضْتُ عَنْهَا فِي الحِصَّةِ الثَّانِيَة.",
+     "umschrift": "Laylā kānat marīḍa, ʿawwaḍtu ʿanhā fī l-ḥiṣṣa th-thāniya.",
+     "audio": "audio/ar-de/saetze/mu_14_pc.mp3?v=b703f1cd"
+    },
+    "fp": {
+     "fr": "لَيْلَى مَرِيضَة، سَأُعَوِّضُ عَنْهَا فِي الحِصَّةِ الثَّانِيَة.",
+     "umschrift": "Laylā marīḍa, sa-uʿawwiḍ ʿanhā fī l-ḥiṣṣa th-thāniya.",
+     "audio": "audio/ar-de/saetze/mu_14_fp.mp3?v=a2b0d129"
+    }
+   },
+   "syrisch": {
+    "fr": "لَيْلى مَريضَة، عَم عَوِّض عَنّا بِالحِصَّة التّانْيِة.",
+    "umschrift": "Laylā marīḍa, ʿam ʿawwiḍ ʿanna bil-ḥiṣṣa t-tānye.",
+    "audio": "audio/ar-de/syrisch/mu_14.mp3?v=21e602e5"
+   }
+  },
+  {
+   "id": "mu_15",
+   "thema": "muallimin",
+   "fr": "أَشْرَحُ لِلْمَرَّةِ الثَّالِثَة",
+   "de": "ich erkläre es zum dritten Mal",
+   "register": "tu",
+   "anker": "شرح",
+   "notiz": "sharaḥa = erklären (Wurzel sh-r-ḥ; sharḥ = Erklärung). a-shraḥ, sharaḥ-tu, sa-a-shraḥ. lil-marra ath-thālitha = zum dritten Mal (li- + al- → lil-). al-mawḍūʿ nafsah = dasselbe Thema.",
+   "audio": "audio/ar-de/wendungen/mu_15.mp3?v=2a152665",
+   "gloss": "أَ·شْرَح لِ·ال·مَرَّة ال·ثَالِثَة | 1SG·erklären für·DEF·Mal DEF·dritte",
+   "umschrift": "ashraḥ lil-marra th-thālitha",
+   "wurzel": "ش-ر-ح",
+   "satz": {
+    "fr": "أَشْرَحُ المَوْضُوعَ نَفْسَهُ لِلْمَرَّةِ الثَّالِثَة.",
+    "de": "Ich erkläre dasselbe Thema zum dritten Mal.",
+    "luecke": "أَشْرَحُ",
+    "gloss": "أَ·شْرَح ال·مَوْضُوع نَفْس·َهُ لِ·ال·مَرَّة ال·ثَالِثَة. | 1SG·erklären DEF·Thema selbst·sein für·DEF·Mal DEF·dritte.",
+    "umschrift": "ashraḥ al-mawḍūʿ nafsah lil-marra th-thālitha.",
+    "audio": "audio/ar-de/saetze/mu_15.mp3?v=62419837"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَمْسِ شَرَحْتُ المَوْضُوعَ نَفْسَهُ لِلْمَرَّةِ الثَّالِثَة.",
+     "umschrift": "amsi sharaḥtu l-mawḍūʿ nafsah lil-marra th-thālitha.",
+     "audio": "audio/ar-de/saetze/mu_15_pc.mp3?v=090aa781"
+    },
+    "fp": {
+     "fr": "غَدًا سَأَشْرَحُ المَوْضُوعَ نَفْسَهُ لِلْمَرَّةِ الثَّالِثَة.",
+     "umschrift": "ghadan sa-ashraḥ al-mawḍūʿ nafsah lil-marra th-thālitha.",
+     "audio": "audio/ar-de/saetze/mu_15_fp.mp3?v=c0def987"
+    }
+   },
+   "syrisch": {
+    "fr": "عَم إشْرَح نَفْس المَوْضوع تالِت مَرَّة.",
+    "umschrift": "ʿam ishraḥ nafs il-mawḍūʿ tālet marra.",
+    "audio": "audio/ar-de/syrisch/mu_15.mp3?v=091d7360"
+   }
+  },
+  {
+   "id": "mu_16",
+   "thema": "muallimin",
+   "fr": "الاسْتِرَاحَةُ خَمْسُ دَقَائِقَ فَقَط",
+   "de": "die Pause dauert nur fünf Minuten",
+   "register": "tu",
+   "anker": "دقيقة",
+   "notiz": "daqīqa = Minute (auch: fein, genau), Plural daqāʾiq, nach 3 bis 10: khams daqāʾiq. faqaṭ = nur, steht am Ende. lā ashʿur bi- = ich spüre nicht (lā verneint das Präsens).",
+   "audio": "audio/ar-de/wendungen/mu_16.mp3?v=9bd6765d",
+   "gloss": "ال·اسْتِرَاحَة خَمْس دَقَائِق فَقَط | DEF·Pause fünf Minuten nur",
+   "umschrift": "al-istirāḥa khams daqāʾiq faqaṭ",
+   "wurzel": "د-ق-ق",
+   "satz": {
+    "fr": "الاسْتِرَاحَةُ خَمْسُ دَقَائِقَ فَقَط، لا أَشْعُرُ بِهَا.",
+    "de": "Die Pause dauert nur fünf Minuten, ich spüre sie gar nicht.",
+    "luecke": "خَمْسُ دَقَائِقَ فَقَط",
+    "gloss": "ال·اسْتِرَاحَة خَمْس دَقَائِق فَقَط، لا أَ·شْعُر بِ·هَا. | DEF·Pause fünf Minuten nur, nicht 1SG·spüren mit·ihr.",
+    "umschrift": "al-istirāḥa khams daqāʾiq faqaṭ, lā ashʿur bihā.",
+    "audio": "audio/ar-de/saetze/mu_16.mp3?v=2dc2621e"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الاسْتِراحَة خَمْس دَقايِق بَسّ، ما بْحِسّ فيها.",
+    "umschrift": "il-istirāḥa khams daʾāyeʾ bass, mā bḥiss fīha.",
+    "audio": "audio/ar-de/syrisch/mu_16.mp3?v=594d21b9"
+   }
+  },
+  {
+   "id": "mu_17",
+   "thema": "muallimin",
+   "fr": "آلَةُ النَّسْخِ مُعَطَّلَة",
+   "de": "der Kopierer ist kaputt",
+   "register": "tu",
+   "anker": "نسخ",
+   "notiz": "ālat an-naskh = Maschine des Kopierens (naskh = Kopie, auch die Schriftart Naskh!). muʿaṭṭala = außer Betrieb (feminin). lā astaṭīʿ an = ich kann nicht (+ an + Präsens: an ansakh).",
+   "audio": "audio/ar-de/wendungen/mu_17.mp3?v=4a82694d",
+   "gloss": "آلَة·ُ ال·نَسْخ مُعَطَّلَة | Maschine·GEN DEF·Kopieren defekt.F",
+   "umschrift": "ālat an-naskh muʿaṭṭala",
+   "wurzel": "ن-س-خ",
+   "satz": {
+    "fr": "آلَةُ النَّسْخِ مُعَطَّلَةٌ مَرَّةً أُخْرَى، لا أَسْتَطِيعُ أَنْ أَنْسَخ.",
+    "de": "Der Kopierer ist schon wieder kaputt, ich kann nicht kopieren.",
+    "luecke": "آلَةُ النَّسْخِ مُعَطَّلَة",
+    "gloss": "آلَة·ُ ال·نَسْخ مُعَطَّلَة مَرَّةً أُخْرَى، لا أَ·سْتَطِيع أَنْ أَ·نْسَخ. | Maschine·GEN DEF·Kopieren defekt.F Mal anderes, nicht 1SG·können dass 1SG·kopieren.",
+    "umschrift": "ālat an-naskh muʿaṭṭala marratan ukhrā, lā astaṭīʿ an ansakh.",
+    "audio": "audio/ar-de/saetze/mu_17.mp3?v=14f8fa23"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الفوتوكوبي خَرْبانِة كَمان مَرَّة، ما فيني إنْسَخ.",
+    "umschrift": "il-fotokopi kharbāne kamān marra, mā fīnī insakh.",
+    "audio": "audio/ar-de/syrisch/mu_17.mp3?v=cb5c8a99"
+   }
+  },
+  {
+   "id": "mu_18",
+   "thema": "muallimin",
+   "fr": "اِمْتِحَانٌ شَفَوِيٌّ اليَوْم",
+   "de": "heute mündliche Prüfung",
+   "register": "tu",
+   "anker": "امتحان",
+   "notiz": "imtiḥān = Prüfung (Wurzel m-ḥ-n). shafawī = mündlich (von shafa, Lippe); schriftlich: kitābī. fajʾatan = plötzlich. ṣamata = schweigen; al-jamīʿ = alle (Singularverb).",
+   "audio": "audio/ar-de/wendungen/mu_18.mp3?v=b96a3f85",
+   "gloss": "اِمْتِحَان شَفَوِيّ ال·يَوْم | Prüfung mündlich DEF·Tag",
+   "umschrift": "imtiḥān shafawī al-yawm",
+   "wurzel": "م-ح-ن",
+   "satz": {
+    "fr": "اِمْتِحَانٌ شَفَوِيٌّ اليَوْم، وَفَجْأَةً صَمَتَ الجَمِيع.",
+    "de": "Heute mündliche Prüfung, und plötzlich schwiegen alle.",
+    "luecke": "اِمْتِحَانٌ شَفَوِيٌّ",
+    "gloss": "اِمْتِحَان شَفَوِيّ ال·يَوْم، وَ·فَجْأَةً صَمَت·َ ال·جَمِيع. | Prüfung mündlich DEF·Tag, und·plötzlich schweigen·3SG DEF·alle.",
+    "umschrift": "imtiḥān shafawī al-yawm, wa-fajʾatan ṣamat al-jamīʿ.",
+    "audio": "audio/ar-de/saetze/mu_18.mp3?v=0c099142"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "امْتِحان شَفَوي اليوم، وفَجْأَة الكِلّ سَكَتو.",
+    "umschrift": "imtiḥān shafawī il-yōm, w-fajʾa il-kill sakatū.",
+    "audio": "audio/ar-de/syrisch/mu_18.mp3?v=4c61b49e"
+   }
+  },
+  {
+   "id": "mu_19",
+   "thema": "muallimin",
+   "fr": "آخُذُ الغِيَاب",
+   "de": "ich mache die Anwesenheit",
+   "register": "tu",
+   "anker": "أخذ",
+   "notiz": "akhadha = nehmen; ākhudh = ich nehme (Hamza + ā am Anfang). ghiyāb = Abwesenheit (Wurzel gh-y-b), ghāʾib = abwesend, ghāʾibūn Plural. « die Abwesenheit nehmen » = die Anwesenheit prüfen.",
+   "audio": "audio/ar-de/wendungen/mu_19.mp3?v=6147740b",
+   "gloss": "آ·خُذ ال·غِيَاب | 1SG·nehmen DEF·Abwesenheit",
+   "umschrift": "ākhudh al-ghiyāb",
+   "wurzel": "غ-ي-ب",
+   "satz": {
+    "fr": "آخُذُ الغِيَاب، ثَلاثَةٌ غَائِبُونَ مَرَّةً أُخْرَى.",
+    "de": "Ich mache die Anwesenheit, drei fehlen schon wieder.",
+    "luecke": "آخُذُ الغِيَاب",
+    "gloss": "آ·خُذ ال·غِيَاب، ثَلاثَة غَائِب·ُون مَرَّةً أُخْرَى. | 1SG·nehmen DEF·Abwesenheit, drei abwesend·PL Mal anderes.",
+    "umschrift": "ākhudh al-ghiyāb, thalātha ghāʾibūn marratan ukhrā.",
+    "audio": "audio/ar-de/saetze/mu_19.mp3?v=4c19a492"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "أَخَذْتُ الغِيَاب، ثَلاثَةٌ كَانُوا غَائِبِين.",
+     "umschrift": "akhadhtu l-ghiyāb, thalātha kānū ghāʾibīn.",
+     "audio": "audio/ar-de/saetze/mu_19_pc.mp3?v=15464873"
+    },
+    "fp": {
+     "fr": "سَآخُذُ الغِيَاب، ثَلاثَةٌ سَيَكُونُونَ غَائِبِين.",
+     "umschrift": "sa-ākhudh al-ghiyāb, thalātha sa-yakūnūn ghāʾibīn.",
+     "audio": "audio/ar-de/saetze/mu_19_fp.mp3?v=20d3f99b"
+    }
+   },
+   "syrisch": {
+    "fr": "عَم آخُد الغِياب، تْلاتِة غايْبين كَمان مَرَّة.",
+    "umschrift": "ʿam ākhod il-ghiyāb, tlāte ghāybīn kamān marra.",
+    "audio": "audio/ar-de/syrisch/mu_19.mp3?v=4291a05a"
+   }
+  },
+  {
+   "id": "mu_20",
+   "thema": "muallimin",
+   "fr": "تَعَالَ إِلَى السَّبُّورَة",
+   "de": "komm an die Tafel",
+   "register": "tu",
+   "anker": "تعال",
+   "notiz": "taʿāla = komm (Imperativ, nur in dieser Form üblich; zu einer Frau taʿālay). sabbūra = Tafel (schwarze; Whiteboard: lawḥ). yā rabb = oh Herr, der Seufzer vor jeder Tafelrunde.",
+   "audio": "audio/ar-de/wendungen/mu_20.mp3?v=d073c165",
+   "gloss": "تَعَالَ إِلَى ال·سَبُّورَة | komm zu DEF·Tafel",
+   "umschrift": "taʿāla ilā s-sabbūra",
+   "wurzel": "ع-ل-و",
+   "satz": {
+    "fr": "كَرِيم، تَعَالَ إِلَى السَّبُّورَة. – يَا رَبّ.",
+    "de": "Karīm, komm an die Tafel. – Oh Gott.",
+    "luecke": "تَعَالَ إِلَى السَّبُّورَة",
+    "gloss": "كَرِيم، تَعَالَ إِلَى ال·سَبُّورَة. – يَا رَبّ. | Karīm, komm zu DEF·Tafel. – oh Herr.",
+    "umschrift": "Karīm, taʿāla ilā s-sabbūra. – yā rabb.",
+    "audio": "audio/ar-de/saetze/mu_20.mp3?v=4c5dcb6a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "كَريم، تَعا عَاللّوح. – يا رَبّ.",
+    "umschrift": "Karīm, taʿā ʿa-l-lōḥ. – yā rabb.",
+    "audio": "audio/ar-de/syrisch/mu_20.mp3?v=787268e1"
+   }
+  },
+  {
+   "id": "mu_21",
+   "thema": "muallimin",
+   "fr": "يَوْمُ الشَّهَادَات",
+   "de": "Zeugnistag",
+   "register": "tu",
+   "anker": "شهادة",
+   "notiz": "shahāda = Zeugnis, Bescheinigung (auch: das Glaubensbekenntnis; Wurzel sh-h-d, bezeugen). yuṣbiḥ = er wird (Wurzel ṣ-b-ḥ, wie ṣabāḥ: am Morgen werden). muʾaddabīn = wohlerzogen (Plural).",
+   "audio": "audio/ar-de/wendungen/mu_21.mp3?v=5f07d5dd",
+   "gloss": "يَوْم·ُ ال·شَهَادَات | Tag·GEN DEF·Zeugnisse",
+   "umschrift": "yawm ash-shahādāt",
+   "wurzel": "ش-ه-د",
+   "satz": {
+    "fr": "يَوْمَ الشَّهَادَاتِ يُصْبِحُ الجَمِيعُ مُؤَدَّبِينَ فَجْأَة.",
+    "de": "Am Zeugnistag werden plötzlich alle höflich.",
+    "luecke": "الشَّهَادَات",
+    "gloss": "يَوْمَ ال·شَهَادَات يُ·صْبِح ال·جَمِيع مُؤَدَّب·ِين فَجْأَة. | Tag.AKK DEF·Zeugnisse 3SG·werden DEF·alle höflich·PL plötzlich.",
+    "umschrift": "yawm ash-shahādāt yuṣbiḥ al-jamīʿ muʾaddabīn fajʾa.",
+    "audio": "audio/ar-de/saetze/mu_21.mp3?v=98ae8f33"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "يوم الجَلايات الكِلّ بْيِصيرو مْأَدَّبين فَجْأَة.",
+    "umschrift": "yōm ij-jalāyāt il-kill byṣīrū mʾaddabīn fajʾa.",
+    "audio": "audio/ar-de/syrisch/mu_21.mp3?v=ff19e384"
+   }
+  },
+  {
+   "id": "mu_22",
+   "thema": "muallimin",
+   "fr": "اللهُ يُعْطِيكَ العَافِيَة",
+   "de": "Gott gebe dir Kraft (Gruß an Arbeitende)",
+   "register": "tu",
+   "anker": "عافية",
+   "notiz": "Der Gruß an jemanden, der arbeitet: Gott gebe dir Gesundheit (ʿāfiya). Antwort: Allāh yuʿāfīk. Syrisch sagt man es dauernd, auch beim Betreten eines Ladens. baqiya = bleiben, übrig sein.",
+   "audio": "audio/ar-de/wendungen/mu_22.mp3?v=dc5a7ef9",
+   "gloss": "الله يُ·عْطِي·كَ ال·عَافِيَة | Gott 3SG·geben·dir DEF·Wohlbefinden",
+   "umschrift": "Allāh yuʿṭīk al-ʿāfiya",
+   "wurzel": "ع-ف-و",
+   "satz": {
+    "fr": "اللهُ يُعْطِيكَ العَافِيَة! – اللهُ يُعَافِيك، بَقِيَ ثَلاثُونَ وَرَقَة.",
+    "de": "Gott gebe dir Kraft! – Gott erhalte dich, es bleiben dreißig Arbeiten.",
+    "luecke": "اللهُ يُعْطِيكَ العَافِيَة",
+    "gloss": "الله يُ·عْطِي·كَ ال·عَافِيَة! – الله يُ·عَافِي·ك، بَقِيَ ثَلاثُون وَرَقَة. | Gott 3SG·geben·dir DEF·Wohlbefinden! – Gott 3SG·erhalten·dich, blieb dreißig Blatt.",
+    "umschrift": "Allāh yuʿṭīk al-ʿāfiya! – Allāh yuʿāfīk, baqiya thalāthūn waraqa.",
+    "audio": "audio/ar-de/saetze/mu_22.mp3?v=b27232db"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الله يَعْطيك العافْيِة! – الله يْعافيك، باقي تْلاتين وَرَقَة.",
+    "umschrift": "aḷḷa yaʿṭīk il-ʿāfye! – aḷḷa yʿāfīk, bāʾī tlātīn waraʾa.",
+    "audio": "audio/ar-de/syrisch/mu_22.mp3?v=a7ca3207"
+   }
+  },
+  {
+   "id": "mu_23",
+   "thema": "muallimin",
+   "fr": "سَلامَتَك",
+   "de": "gute Besserung",
+   "register": "tu",
+   "anker": "سلامة",
+   "notiz": "salāmatak = deine Unversehrtheit (als Wunsch: gute Besserung; Wurzel s-l-m). Antwort: Allāh yusallimak = Gott bewahre dich. mujarrad = bloß, nur ein. zukām = Erkältung.",
+   "audio": "audio/ar-de/wendungen/mu_23.mp3?v=8dd5efaf",
+   "gloss": "سَلامَت·َك | Unversehrtheit·dein",
+   "umschrift": "salāmatak",
+   "wurzel": "س-ل-م",
+   "satz": {
+    "fr": "سَلامَتَك! – اللهُ يُسَلِّمُك. مُجَرَّدُ زُكَام.",
+    "de": "Gute Besserung! – Danke. Nur eine Erkältung.",
+    "luecke": "سَلامَتَك",
+    "gloss": "سَلامَت·َك! – الله يُ·سَلِّم·ُك. مُجَرَّد زُكَام. | Unversehrtheit·dein! – Gott 3SG·bewahren·dich. bloß Erkältung.",
+    "umschrift": "salāmatak! – Allāh yusallimuk. mujarrad zukām.",
+    "audio": "audio/ar-de/saetze/mu_23.mp3?v=65658a54"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "سَلامْتَك! – الله يْسَلّْمَك. بَسّ رَشْح.",
+    "umschrift": "salāmtak! – aḷḷa ysallmak. bass rashḥ.",
+    "audio": "audio/ar-de/syrisch/mu_23.mp3?v=da629b1d"
+   }
+  },
+  {
+   "id": "mu_24",
+   "thema": "muallimin",
+   "fr": "يَا أُسْتَاذ، هَلْ عِنْدَكَ دَقِيقَة؟",
+   "de": "Herr Kollege, haben Sie eine Minute? (höflich)",
+   "register": "vous",
+   "anker": "أستاذ",
+   "notiz": "yā ustādh = Anrede für Lehrer und Kollegen (Frau: yā ustādha). hal ʿindak = hast du/haben Sie (ʿinda + -ak). mushkila = Problem (Plural mashākil). fī d-darajāt = bei den Noten.",
+   "audio": "audio/ar-de/wendungen/mu_24.mp3?v=a198afae",
+   "gloss": "يَا أُسْتَاذ، هَلْ عِنْد·َكَ دَقِيقَة | oh Lehrer, FRAGE bei·dir Minute",
+   "umschrift": "yā ustādh, hal ʿindak daqīqa?",
+   "wurzel": "أ-س-ت-ذ",
+   "satz": {
+    "fr": "يَا أُسْتَاذ، هَلْ عِنْدَكَ دَقِيقَة؟ عِنْدِي مُشْكِلَةٌ فِي الدَّرَجَات.",
+    "de": "Herr Kollege, haben Sie eine Minute? Ich habe ein Problem mit den Noten.",
+    "luecke": "هَلْ عِنْدَكَ دَقِيقَة",
+    "gloss": "يَا أُسْتَاذ، هَلْ عِنْد·َكَ دَقِيقَة؟ عِنْد·ِي مُشْكِلَة فِي ال·دَرَجَات. | oh Lehrer, FRAGE bei·dir Minute? bei·mir Problem in DEF·Noten.",
+    "umschrift": "yā ustādh, hal ʿindak daqīqa? ʿindī mushkila fī d-darajāt.",
+    "audio": "audio/ar-de/saetze/mu_24.mp3?v=0d2ef7cf"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أُسْتاذ، مَعَك دَقيقَة؟ عِنْدي مِشْكْلِة بِالعَلامات.",
+    "umschrift": "ustāz, maʿak daʾīʾa? ʿindī mishkle bil-ʿalāmāt.",
+    "audio": "audio/ar-de/syrisch/mu_24.mp3?v=36104cc2"
    }
   }
  ],
@@ -4605,6 +5340,232 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 0
     }
    ]
+  },
+  {
+   "id": "g_muallimin",
+   "thema": "muallimin",
+   "titel": "الجَذْرُ وَالوَزْن",
+   "de": "Wurzel und Muster",
+   "regel": [
+    "Fast jedes arabische Wort ist eine Wurzel aus drei Konsonanten, gegossen in ein Muster. Die Wurzel trägt die Bedeutung, das Muster die Rolle: k-t-b (schreiben) gibt kataba er schrieb, kātib Schreiber, maktūb geschrieben, kitāb Buch, maktab Büro, maktaba Bibliothek. Wer die Wurzel erkennt, errät das Wort. Deshalb steht sie als Chip neben jeder Wendung.",
+    "Die wichtigsten Muster in diesem Thema: fāʿil = der, der tut (kātib, ṭālib, munāwib mit mu-), mafʿūl = das Getane (maktūb, maḍbūṭ), tafʿīl = das Tun (tadrīs, taṣḥīḥ), maf ʿal = der Ort (maktab, madrasa, mawḍūʿ). Das Verb hat zwei Zeiten: die Vergangenheit hängt die Person hinten an (ṣaḥḥaḥ-tu ich, ṣaḥḥaḥ-ta du, ṣaḥḥaḥ er, ṣaḥḥaḥ-at sie), das Präsens setzt sie vorn (u-ṣaḥḥiḥ ich, tu-ṣaḥḥiḥ du, yu-ṣaḥḥiḥ er, tu-ṣaḥḥiḥ sie). Zukunft: sa- vor das Präsens."
+   ],
+   "morphem": [
+    "1SG",
+    "3SG",
+    "3SG.F",
+    "FUT",
+    "3"
+   ],
+   "beispiele": [
+    {
+     "fr": "هَذَا المَسَاءَ أُصَحِّحُ أَوْرَاقَ الصَّفِّ التَّاسِع.",
+     "de": "Heute Abend korrigiere ich die Arbeiten der neunten Klasse.",
+     "gloss": "هَذَا ال·مَسَاء أُ·صَحِّح أَوْرَاق·َ ال·صَفّ ال·تَاسِع. | dies DEF·Abend 1SG·korrigieren Blätter·AKK DEF·Klasse DEF·neunte.",
+     "umschrift": "hādhā l-masāʾ uṣaḥḥiḥ awrāq aṣ-ṣaff at-tāsiʿ.",
+     "audio": "audio/ar-de/saetze/mu_01.mp3?v=a12e4b69",
+     "hinweis": "Wurzel ṣ-ḥ-ḥ: u-ṣaḥḥiḥ, Präsens mit der Person vorn."
+    },
+    {
+     "fr": "أَشْرَحُ المَوْضُوعَ نَفْسَهُ لِلْمَرَّةِ الثَّالِثَة.",
+     "de": "Ich erkläre dasselbe Thema zum dritten Mal.",
+     "gloss": "أَ·شْرَح ال·مَوْضُوع نَفْس·َهُ لِ·ال·مَرَّة ال·ثَالِثَة. | 1SG·erklären DEF·Thema selbst·sein für·DEF·Mal DEF·dritte.",
+     "umschrift": "ashraḥ al-mawḍūʿ nafsah lil-marra th-thālitha.",
+     "audio": "audio/ar-de/saetze/mu_15.mp3?v=62419837",
+     "hinweis": "Wurzel sh-r-ḥ: a-shraḥ, in der Zeitmaschine sharaḥ-tu und sa-a-shraḥ."
+    },
+    {
+     "fr": "القَهْوَةُ انْتَهَتْ مَرَّةً أُخْرَى فِي غُرْفَةِ المُعَلِّمِين.",
+     "de": "Der Kaffee ist im Lehrerzimmer schon wieder alle.",
+     "gloss": "ال·قَهْوَة اِنْتَهَ·تْ مَرَّةً أُخْرَى فِي غُرْفَة·ِ ال·مُعَلِّم·ِين. | DEF·Kaffee enden·3SG.F Mal anderes in Zimmer·GEN DEF·Lehrer·PL.",
+     "umschrift": "al-qahwa ntahat marratan ukhrā fī ghurfat al-muʿallimīn.",
+     "audio": "audio/ar-de/saetze/mu_05.mp3?v=6141608f",
+     "hinweis": "intaha-t: Vergangenheit, Person hinten, -t = sie."
+    },
+    {
+     "fr": "آخُذُ الغِيَاب، ثَلاثَةٌ غَائِبُونَ مَرَّةً أُخْرَى.",
+     "de": "Ich mache die Anwesenheit, drei fehlen schon wieder.",
+     "gloss": "آ·خُذ ال·غِيَاب، ثَلاثَة غَائِب·ُون مَرَّةً أُخْرَى. | 1SG·nehmen DEF·Abwesenheit, drei abwesend·PL Mal anderes.",
+     "umschrift": "ākhudh al-ghiyāb, thalātha ghāʾibūn marratan ukhrā.",
+     "audio": "audio/ar-de/saetze/mu_19.mp3?v=4c19a492",
+     "hinweis": "ā-khudh: ich nehme, ghiyāb und ghāʾib aus derselben Wurzel gh-y-b."
+    },
+    {
+     "fr": "وَضْعُ الدَّرَجَاتِ أَصْعَبُ مِنَ التَّدْرِيس.",
+     "de": "Noten geben ist schwerer als unterrichten.",
+     "gloss": "وَضْع·ُ ال·دَرَجَات أَصْعَب مِنَ ال·تَدْرِيس. | Setzen·GEN DEF·Noten schwerer als DEF·Unterrichten.",
+     "umschrift": "waḍʿ ad-darajāt aṣʿab min at-tadrīs.",
+     "audio": "audio/ar-de/saetze/mu_09.mp3?v=fd6be991",
+     "hinweis": "tadrīs aus d-r-s, das Muster tafʿīl für das Tun."
+    },
+    {
+     "fr": "اليَوْمَ أَنَا مُنَاوِبٌ فِي الاسْتِرَاحَة.",
+     "de": "Heute habe ich Pausenaufsicht.",
+     "gloss": "ال·يَوْم أَنَا مُنَاوِب فِي ال·اسْتِرَاحَة. | DEF·Tag ich diensthabend in DEF·Pause.",
+     "umschrift": "al-yawm anā munāwib fī l-istirāḥa.",
+     "audio": "audio/ar-de/saetze/mu_06.mp3?v=a5c113ec",
+     "hinweis": "munāwib: das Tätermuster mit mu-, aus n-w-b."
+    },
+    {
+     "fr": "يَوْمَ الشَّهَادَاتِ يُصْبِحُ الجَمِيعُ مُؤَدَّبِينَ فَجْأَة.",
+     "de": "Am Zeugnistag werden plötzlich alle höflich.",
+     "gloss": "يَوْمَ ال·شَهَادَات يُ·صْبِح ال·جَمِيع مُؤَدَّب·ِين فَجْأَة. | Tag.AKK DEF·Zeugnisse 3SG·werden DEF·alle höflich·PL plötzlich.",
+     "umschrift": "yawm ash-shahādāt yuṣbiḥ al-jamīʿ muʾaddabīn fajʾa.",
+     "audio": "audio/ar-de/saetze/mu_21.mp3?v=98ae8f33",
+     "hinweis": "shahāda, shahādāt: Wurzel sh-h-d, bezeugen."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "kataba",
+     "b": "yaktub",
+     "text": "er schrieb (Person hinten) – er schreibt (Person vorn)"
+    },
+    {
+     "a": "kitāb",
+     "b": "kātib",
+     "text": "Buch – Schreiber: dieselbe Wurzel, anderes Muster"
+    },
+    {
+     "a": "darasa",
+     "b": "darrasa",
+     "text": "er lernte – er lehrte (Schadda macht den zweiten Stamm, Modul 2)"
+    },
+    {
+     "a": "ashraḥ",
+     "b": "sa-ashraḥ",
+     "text": "ich erkläre – ich werde erklären"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "k-t-b + Muster fāʿil",
+     "antworten": [
+      "kātib",
+      "kitāb",
+      "maktab"
+     ]
+    },
+    {
+     "formel": "d-r-s + Muster madrasa (Ort)",
+     "antworten": [
+      "madrasa",
+      "dars",
+      "mudarris"
+     ]
+    },
+    {
+     "formel": "sh-r-ḥ + 1SG Präsens",
+     "antworten": [
+      "ashraḥ",
+      "sharaḥtu",
+      "yashraḥ"
+     ]
+    },
+    {
+     "formel": "ṣ-ḥ-ḥ + sie (Vergangenheit)",
+     "antworten": [
+      "ṣaḥḥaḥat",
+      "ṣaḥḥaḥtu",
+      "tuṣaḥḥiḥ"
+     ]
+    },
+    {
+     "formel": "ʿ-l-m + Muster muʿallim (Täter)",
+     "antworten": [
+      "muʿallim",
+      "ʿilm",
+      "maʿlūm"
+     ]
+    },
+    {
+     "formel": "akhadha + Zukunft 1SG",
+     "antworten": [
+      "sa-ākhudh",
+      "akhadhtu",
+      "yaʾkhudh"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz steht in der Vergangenheit (Person am Ende des Verbs)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "القَهْوَةُ انْتَهَتْ مَرَّةً أُخْرَى فِي غُرْفَةِ المُعَلِّمِين.",
+       "de": "Der Kaffee ist im Lehrerzimmer schon wieder alle.",
+       "gloss": "ال·قَهْوَة اِنْتَهَ·تْ مَرَّةً أُخْرَى فِي غُرْفَة·ِ ال·مُعَلِّم·ِين. | DEF·Kaffee enden·3SG.F Mal anderes in Zimmer·GEN DEF·Lehrer·PL.",
+       "umschrift": "al-qahwa ntahat marratan ukhrā fī ghurfat al-muʿallimīn.",
+       "audio": "audio/ar-de/saetze/mu_05.mp3?v=6141608f"
+      },
+      {
+       "fr": "هَذَا المَسَاءَ أُصَحِّحُ أَوْرَاقَ الصَّفِّ التَّاسِع.",
+       "de": "Heute Abend korrigiere ich die Arbeiten der neunten Klasse.",
+       "gloss": "هَذَا ال·مَسَاء أُ·صَحِّح أَوْرَاق·َ ال·صَفّ ال·تَاسِع. | dies DEF·Abend 1SG·korrigieren Blätter·AKK DEF·Klasse DEF·neunte.",
+       "umschrift": "hādhā l-masāʾ uṣaḥḥiḥ awrāq aṣ-ṣaff at-tāsiʿ.",
+       "audio": "audio/ar-de/saetze/mu_01.mp3?v=a12e4b69"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "الحِصَّةُ الأَخِيرَةُ ضَاعَتْ، وَأَنَا تَرَكْتُهُمْ يَذْهَبُون.",
+       "de": "Die letzte Stunde ist geplatzt, und ich habe sie gehen lassen.",
+       "gloss": "ال·حِصَّة ال·أَخِيرَة ضَاع·َتْ، وَ·أَنَا تَرَك·ْتُ·هُمْ يَ·ذْهَب·ُون. | DEF·Stunde DEF·letzte verloren.gehen·3SG.F, und·ich lassen·1SG·sie 3·gehen·PL.",
+       "umschrift": "al-ḥiṣṣa l-akhīra ḍāʿat, wa-anā taraktuhum yadhhabūn.",
+       "audio": "audio/ar-de/saetze/mu_13.mp3?v=c28b7834"
+      },
+      {
+       "fr": "أَشْرَحُ المَوْضُوعَ نَفْسَهُ لِلْمَرَّةِ الثَّالِثَة.",
+       "de": "Ich erkläre dasselbe Thema zum dritten Mal.",
+       "gloss": "أَ·شْرَح ال·مَوْضُوع نَفْس·َهُ لِ·ال·مَرَّة ال·ثَالِثَة. | 1SG·erklären DEF·Thema selbst·sein für·DEF·Mal DEF·dritte.",
+       "umschrift": "ashraḥ al-mawḍūʿ nafsah lil-marra th-thālitha.",
+       "audio": "audio/ar-de/saetze/mu_15.mp3?v=62419837"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "آخُذُ الغِيَاب، ثَلاثَةٌ غَائِبُونَ مَرَّةً أُخْرَى.",
+       "de": "Ich mache die Anwesenheit, drei fehlen schon wieder.",
+       "gloss": "آ·خُذ ال·غِيَاب، ثَلاثَة غَائِب·ُون مَرَّةً أُخْرَى. | 1SG·nehmen DEF·Abwesenheit, drei abwesend·PL Mal anderes.",
+       "umschrift": "ākhudh al-ghiyāb, thalātha ghāʾibūn marratan ukhrā.",
+       "audio": "audio/ar-de/saetze/mu_19.mp3?v=4c19a492"
+      },
+      {
+       "fr": "اِمْتِحَانٌ شَفَوِيٌّ اليَوْم، وَفَجْأَةً صَمَتَ الجَمِيع.",
+       "de": "Heute mündliche Prüfung, und plötzlich schwiegen alle.",
+       "gloss": "اِمْتِحَان شَفَوِيّ ال·يَوْم، وَ·فَجْأَةً صَمَت·َ ال·جَمِيع. | Prüfung mündlich DEF·Tag, und·plötzlich schweigen·3SG DEF·alle.",
+       "umschrift": "imtiḥān shafawī al-yawm, wa-fajʾatan ṣamat al-jamīʿ.",
+       "audio": "audio/ar-de/saetze/mu_18.mp3?v=0c099142"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "الاجْتِمَاعُ السَّاعَةَ الرَّابِعَة، هَلْ تَأْتِي؟",
+       "de": "Die Sitzung ist um vier, kommst du?",
+       "gloss": "ال·اجْتِمَاع ال·سَاعَة ال·رَابِعَة، هَلْ تَ·أْتِي؟ | DEF·Sitzung DEF·Stunde DEF·vierte, FRAGE 2SG·kommen?",
+       "umschrift": "al-ijtimāʿ as-sāʿa ar-rābiʿa, hal taʾtī?",
+       "audio": "audio/ar-de/saetze/mu_03.mp3?v=f01da193"
+      },
+      {
+       "fr": "أَحَدُهُمْ يَغُشّ، وَاثْنَانِ يَرْتَكِبَانِ الخَطَأَ نَفْسَه.",
+       "de": "Einer schreibt ab, und zwei machen denselben Fehler.",
+       "gloss": "أَحَد·ُهُمْ يَ·غُشّ، وَ·اثْنَان يَ·رْتَكِب·َان ال·خَطَأ نَفْس·َه. | einer·ihr 3SG·schummeln, und·zwei 3·begehen·DUAL DEF·Fehler selbst·sein.",
+       "umschrift": "aḥaduhum yaghushsh, wa-thnān yartakibān al-khaṭaʾ nafsah.",
+       "audio": "audio/ar-de/saetze/mu_12.mp3?v=7c120849"
+      }
+     ],
+     "richtig": 1
+    }
+   ]
   }
  ],
  "geschichte_info": {
@@ -6159,6 +7120,40 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/orte/ugarit.mp3?v=31a50fdc",
   "audio/ar-de/orte/umawi.mp3?v=81993472",
   "audio/ar-de/orte/yanbu.mp3?v=11a88d59",
+  "audio/ar-de/saetze/mu_01.mp3?v=a12e4b69",
+  "audio/ar-de/saetze/mu_01_fp.mp3?v=33a186db",
+  "audio/ar-de/saetze/mu_01_pc.mp3?v=10e625c8",
+  "audio/ar-de/saetze/mu_02.mp3?v=2a4a0ca8",
+  "audio/ar-de/saetze/mu_03.mp3?v=f01da193",
+  "audio/ar-de/saetze/mu_04.mp3?v=48a3f174",
+  "audio/ar-de/saetze/mu_05.mp3?v=6141608f",
+  "audio/ar-de/saetze/mu_06.mp3?v=a5c113ec",
+  "audio/ar-de/saetze/mu_07.mp3?v=317ab76f",
+  "audio/ar-de/saetze/mu_08.mp3?v=91351fda",
+  "audio/ar-de/saetze/mu_09.mp3?v=fd6be991",
+  "audio/ar-de/saetze/mu_10.mp3?v=099f8acb",
+  "audio/ar-de/saetze/mu_11.mp3?v=29e1e28d",
+  "audio/ar-de/saetze/mu_12.mp3?v=7c120849",
+  "audio/ar-de/saetze/mu_12_fp.mp3?v=1d16b9eb",
+  "audio/ar-de/saetze/mu_12_pc.mp3?v=f5745829",
+  "audio/ar-de/saetze/mu_13.mp3?v=c28b7834",
+  "audio/ar-de/saetze/mu_14.mp3?v=5515c00c",
+  "audio/ar-de/saetze/mu_14_fp.mp3?v=a2b0d129",
+  "audio/ar-de/saetze/mu_14_pc.mp3?v=b703f1cd",
+  "audio/ar-de/saetze/mu_15.mp3?v=62419837",
+  "audio/ar-de/saetze/mu_15_fp.mp3?v=c0def987",
+  "audio/ar-de/saetze/mu_15_pc.mp3?v=090aa781",
+  "audio/ar-de/saetze/mu_16.mp3?v=2dc2621e",
+  "audio/ar-de/saetze/mu_17.mp3?v=14f8fa23",
+  "audio/ar-de/saetze/mu_18.mp3?v=0c099142",
+  "audio/ar-de/saetze/mu_19.mp3?v=4c19a492",
+  "audio/ar-de/saetze/mu_19_fp.mp3?v=20d3f99b",
+  "audio/ar-de/saetze/mu_19_pc.mp3?v=15464873",
+  "audio/ar-de/saetze/mu_20.mp3?v=4c5dcb6a",
+  "audio/ar-de/saetze/mu_21.mp3?v=98ae8f33",
+  "audio/ar-de/saetze/mu_22.mp3?v=b27232db",
+  "audio/ar-de/saetze/mu_23.mp3?v=65658a54",
+  "audio/ar-de/saetze/mu_24.mp3?v=0d2ef7cf",
   "audio/ar-de/saetze/ta_01.mp3?v=6123a137",
   "audio/ar-de/saetze/ta_02.mp3?v=cf05178f",
   "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5",
@@ -6193,6 +7188,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/spiel/titel_5.mp3?v=c46d1836",
   "audio/ar-de/spiel/titel_6.mp3?v=2d3db4b0",
   "audio/ar-de/spiel/woche.mp3?v=72c5bf23",
+  "audio/ar-de/syrisch/mu_01.mp3?v=1b8bb78e",
+  "audio/ar-de/syrisch/mu_02.mp3?v=ee25df2d",
+  "audio/ar-de/syrisch/mu_03.mp3?v=a5049763",
+  "audio/ar-de/syrisch/mu_04.mp3?v=036d183a",
+  "audio/ar-de/syrisch/mu_05.mp3?v=0d26dd02",
+  "audio/ar-de/syrisch/mu_06.mp3?v=3f257f65",
+  "audio/ar-de/syrisch/mu_07.mp3?v=1c87eda9",
+  "audio/ar-de/syrisch/mu_08.mp3?v=6470b8f5",
+  "audio/ar-de/syrisch/mu_09.mp3?v=e1e258d2",
+  "audio/ar-de/syrisch/mu_10.mp3?v=5e3e14d4",
+  "audio/ar-de/syrisch/mu_11.mp3?v=954cb38e",
+  "audio/ar-de/syrisch/mu_12.mp3?v=38bf6770",
+  "audio/ar-de/syrisch/mu_13.mp3?v=ffc378c8",
+  "audio/ar-de/syrisch/mu_14.mp3?v=21e602e5",
+  "audio/ar-de/syrisch/mu_15.mp3?v=091d7360",
+  "audio/ar-de/syrisch/mu_16.mp3?v=594d21b9",
+  "audio/ar-de/syrisch/mu_17.mp3?v=cb5c8a99",
+  "audio/ar-de/syrisch/mu_18.mp3?v=4c61b49e",
+  "audio/ar-de/syrisch/mu_19.mp3?v=4291a05a",
+  "audio/ar-de/syrisch/mu_20.mp3?v=787268e1",
+  "audio/ar-de/syrisch/mu_21.mp3?v=ff19e384",
+  "audio/ar-de/syrisch/mu_22.mp3?v=a7ca3207",
+  "audio/ar-de/syrisch/mu_23.mp3?v=da629b1d",
+  "audio/ar-de/syrisch/mu_24.mp3?v=36104cc2",
   "audio/ar-de/syrisch/ta_01.mp3?v=299cc310",
   "audio/ar-de/syrisch/ta_02.mp3?v=1e22b30d",
   "audio/ar-de/syrisch/ta_03.mp3?v=c958cdf6",
@@ -6217,6 +7236,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/ta_22.mp3?v=9e25c115",
   "audio/ar-de/syrisch/ta_23.mp3?v=a728dec3",
   "audio/ar-de/syrisch/ta_24.mp3?v=039dec19",
+  "audio/ar-de/wendungen/mu_01.mp3?v=947e6a1e",
+  "audio/ar-de/wendungen/mu_02.mp3?v=fe5160d9",
+  "audio/ar-de/wendungen/mu_03.mp3?v=8bdf92ec",
+  "audio/ar-de/wendungen/mu_04.mp3?v=49509b68",
+  "audio/ar-de/wendungen/mu_05.mp3?v=3e85dc62",
+  "audio/ar-de/wendungen/mu_06.mp3?v=2dc5225c",
+  "audio/ar-de/wendungen/mu_07.mp3?v=7ea604a6",
+  "audio/ar-de/wendungen/mu_08.mp3?v=28174901",
+  "audio/ar-de/wendungen/mu_09.mp3?v=7e75bece",
+  "audio/ar-de/wendungen/mu_10.mp3?v=e1779c97",
+  "audio/ar-de/wendungen/mu_11.mp3?v=1e67d260",
+  "audio/ar-de/wendungen/mu_12.mp3?v=f626c804",
+  "audio/ar-de/wendungen/mu_13.mp3?v=8ae012a9",
+  "audio/ar-de/wendungen/mu_14.mp3?v=10ad8cd6",
+  "audio/ar-de/wendungen/mu_15.mp3?v=2a152665",
+  "audio/ar-de/wendungen/mu_16.mp3?v=9bd6765d",
+  "audio/ar-de/wendungen/mu_17.mp3?v=4a82694d",
+  "audio/ar-de/wendungen/mu_18.mp3?v=b96a3f85",
+  "audio/ar-de/wendungen/mu_19.mp3?v=6147740b",
+  "audio/ar-de/wendungen/mu_20.mp3?v=d073c165",
+  "audio/ar-de/wendungen/mu_21.mp3?v=5f07d5dd",
+  "audio/ar-de/wendungen/mu_22.mp3?v=dc5a7ef9",
+  "audio/ar-de/wendungen/mu_23.mp3?v=8dd5efaf",
+  "audio/ar-de/wendungen/mu_24.mp3?v=a198afae",
   "audio/ar-de/wendungen/ta_01.mp3?v=3f5e2ddc",
   "audio/ar-de/wendungen/ta_02.mp3?v=368d4d85",
   "audio/ar-de/wendungen/ta_03.mp3?v=20ca843b",
