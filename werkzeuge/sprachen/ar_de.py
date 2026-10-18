@@ -18,7 +18,10 @@ TEMPO = 0.7
 THEME = {"blau": "#1b6b45", "rot": "#b8860b", "rot_text": "#ffffff", "dunkel": {"blau": "#7fd4a6", "blau_text": "#07180f", "rot": "#e6c15a", "rot_text": "#1a1200"}}
 
 # Themen folgen nach Schrift- und Lautmodulen (Thema 9 = « Arabische Wörter, die du schon kennst »)
-THEMEN = []
+THEMEN = [
+    {"id": "tahiyyat", "name": "التَّحِيَّات", "de": "Begrüßung – anta und ḥaḍratuka", "symbol": "👋", "datei": "tahiyyat.tsv"},
+]
+GRAMMATIK_DATEI = "qawaid.tsv"
 
 # Titel – von der Dattel bis zur Kunāfa
 TITEL = [(0, "تَمْر", "🌴"), (300, "قَهْوَة", "☕"), (900, "فَتُّوش", "🥗"), (1800, "شَاوَرْمَا", "🌯"),

@@ -1,1 +1,21 @@
 id	dialog	titel	ort	rolle	fr	de	umschrift
+d0a_01	d0a	فِي الاسْتِرَاحَة	فِي المَمَرّ	B	مَرْحَبًا يَا أُسْتَاذ!	Hallo, Herr Lehrer!	marḥaban yā ustādh!
+d0a_02	d0a			A	مَرْحَبًا سَامِي، كَيْفَ حَالُك؟	Hallo Sāmī, wie geht es dir?	marḥaban Sāmī, kayfa ḥāluk?
+d0a_03	d0a			B	بِخَيْر، وَأَنْت؟	Gut, und Ihnen?	bi-khayr, wa-anta?
+d0a_04	d0a			A	أَنَا بِخَيْر. كَيْفَ عَرَبِيَّتِي؟	Mir geht's gut. Wie ist mein Arabisch?	anā bi-khayr. kayfa ʿarabiyyatī?
+d0a_05	d0a			B	جَيِّدَةٌ جِدًّا! هَلْ تُحِبُّ العَرَبِيَّة؟	Sehr gut! Mögen Sie Arabisch?	jayyida jiddan! hal tuḥibbu l-ʿarabiyya?
+d0a_06	d0a			A	نَعَم، أُحِبُّ التَّحَدُّثَ بِالعَرَبِيَّة. لَكِنْ بِبُطْء.	Ja, ich spreche gern Arabisch. Aber langsam.	naʿam, uḥibbu t-taḥadduth bil-ʿarabiyya. lākin bi-buṭʾ.
+d0a_07	d0a			B	لا بَأْس، أَنَا أَيْضًا بَطِيءٌ فِي الأَلْمَانِيَّة.	Macht nichts, ich bin auf Deutsch auch langsam.	lā baʾs, anā ayḍan baṭīʾ fī l-almāniyya.
+d0a_08	d0a			A	اِتَّفَقْنَا إِذَنْ. إِلَى اللِّقَاء!	Dann sind wir uns einig. Bis dann!	ittafaqnā idhan. ilā l-liqāʾ!
+d0a_09	d0a			B	إِلَى اللِّقَاء يَا أُسْتَاذ!	Bis dann, Herr Lehrer!	ilā l-liqāʾ yā ustādh!
+d0a_10	d0a			A	مَعَ السَّلامَة يَا سَامِي.	Auf Wiedersehen, Sāmī.	maʿa s-salāma yā Sāmī.
+d0b_01	d0b	لِقَاءُ الأَهْل	فِي الصَّفّ	A	أَهْلاً وَسَهْلاً، تَفَضَّلِي اِجْلِسِي.	Willkommen, bitte setzen Sie sich.	ahlan wa-sahlan, tafaḍḍalī ijlisī.
+d0b_02	d0b			B	أَهْلاً بِك، شُكْرًا.	Danke, gern.	ahlan bik, shukran.
+d0b_03	d0b			A	أَنَا مُعَلِّمُ سَامِي لِلأَلْمَانِيَّة.	Ich bin der Deutschlehrer von Sāmī.	anā muʿallim Sāmī lil-almāniyya.
+d0b_04	d0b			B	تَشَرَّفْنَا، وَأَنَا وَالِدَتُه.	Freut mich, und ich bin seine Mutter.	tasharrafnā, wa-anā wālidatuh.
+d0b_05	d0b			A	هَلْ تُرِيدِينَ قَهْوَة؟	Möchten Sie Kaffee?	hal turīdīn qahwa?
+d0b_06	d0b			B	مِنْ فَضْلِك. كَيْفَ سَامِي؟	Gern. Wie macht sich Sāmī?	min faḍlik. kayfa Sāmī?
+d0b_07	d0b			A	سَامِي يَجْتَهِدُ كَثِيرًا، أَلْمَانِيَّتُهُ جَيِّدَة.	Sāmī strengt sich sehr an, sein Deutsch ist gut.	Sāmī yajtahid kathīran, almāniyyatuh jayyida.
+d0b_08	d0b			B	الحَمْدُ لِلّه. وَعَرَبِيَّتُكَ جَمِيلَة!	Gott sei Dank. Und Ihr Arabisch ist schön!	al-ḥamdu lillāh. wa-ʿarabiyyatuk jamīla!
+d0b_09	d0b			A	شُكْرًا، مَا زَالَتْ قَلِيلَة، لَكِنِّي أَتَعَلَّم.	Danke, noch wenig, aber ich lerne.	shukran, mā zālat qalīla, lākinnī ataʿallam.
+d0b_10	d0b			B	أَنَا أَشْكُرُكَ عَلَى وَقْتِك. مَسَاءَ الخَيْر!	Ich danke Ihnen für Ihre Zeit. Guten Abend!	anā ashkuruk ʿalā waqtik. masāʾ al-khayr!

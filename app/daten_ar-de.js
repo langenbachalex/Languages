@@ -332,9 +332,866 @@ window.SPRACHEN["ar-de"] = {
   "bald": "قَرِيبًا",
   "offline_laeuft": "جَارِي التَّحْمِيل… {n} / {alle}"
  },
- "themen": [],
- "wendungen": [],
- "dialoge": [],
+ "themen": [
+  {
+   "id": "tahiyyat",
+   "name": "التَّحِيَّات",
+   "de": "Begrüßung – anta und ḥaḍratuka",
+   "symbol": "👋",
+   "wendungen": [
+    "ta_01",
+    "ta_02",
+    "ta_03",
+    "ta_04",
+    "ta_05",
+    "ta_06",
+    "ta_07",
+    "ta_08",
+    "ta_09",
+    "ta_10",
+    "ta_11",
+    "ta_12",
+    "ta_13",
+    "ta_14",
+    "ta_15",
+    "ta_16",
+    "ta_17",
+    "ta_18",
+    "ta_19",
+    "ta_20",
+    "ta_21",
+    "ta_22",
+    "ta_23",
+    "ta_24"
+   ]
+  }
+ ],
+ "wendungen": [
+  {
+   "id": "ta_01",
+   "thema": "tahiyyat",
+   "fr": "مَرْحَبًا",
+   "de": "Hallo!",
+   "register": "tu",
+   "anker": "مرحبا",
+   "notiz": "marḥaban = hallo, zu jeder Tageszeit (Wurzel r-ḥ-b = weit sein: « Weite dir! »). Pausalform: marḥaba. Antwort: marḥaban bik oder ahlan.",
+   "audio": "audio/ar-de/wendungen/ta_01.mp3?v=3f5e2ddc",
+   "gloss": "مَرْحَبًا | hallo",
+   "umschrift": "marḥaban",
+   "wurzel": "ر-ح-ب",
+   "satz": {
+    "fr": "مَرْحَبًا سَامِي، كَيْفَ حَالُك؟",
+    "de": "Hallo Sāmī, wie geht es dir?",
+    "luecke": "مَرْحَبًا",
+    "gloss": "مَرْحَبًا سَامِي، كَيْفَ حَال·ُك؟ | hallo Sāmī, wie Zustand·dein?",
+    "umschrift": "marḥaban Sāmī, kayfa ḥāluk?",
+    "audio": "audio/ar-de/saetze/ta_01.mp3?v=6123a137"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "مَرْحَبا، كِيفَك؟",
+    "umschrift": "marḥaba, kīfak?",
+    "audio": "audio/ar-de/syrisch/ta_01.mp3?v=299cc310"
+   }
+  },
+  {
+   "id": "ta_02",
+   "thema": "tahiyyat",
+   "fr": "صَبَاحَ الخَيْر",
+   "de": "Guten Morgen",
+   "register": "tu",
+   "anker": "صباح",
+   "notiz": "ṣabāḥ al-khayr = Morgen des Guten. Antwort immer ṣabāḥ an-nūr (Morgen des Lichts). yā = Anrufpartikel vor Namen und Anreden. Wurzel ṣ-b-ḥ.",
+   "audio": "audio/ar-de/wendungen/ta_02.mp3?v=368d4d85",
+   "gloss": "صَبَاحَ ال·خَيْر | Morgen DEF·Gute",
+   "umschrift": "ṣabāḥ al-khayr",
+   "wurzel": "ص-ب-ح",
+   "satz": {
+    "fr": "صَبَاحَ الخَيْر يَا أَوْلاد، هَلْ أَنْتُمْ مُسْتَيْقِظُون؟",
+    "de": "Guten Morgen, Kinder, seid ihr wach?",
+    "luecke": "صَبَاحَ الخَيْر",
+    "gloss": "صَبَاحَ ال·خَيْر يَا أَوْلاد، هَلْ أَنْتُمْ مُسْتَيْقِظ·ُون؟ | Morgen DEF·Gute oh Kinder, FRAGE ihr wach·PL.M?",
+    "umschrift": "ṣabāḥ al-khayr yā awlād, hal antum mustayqiẓūn?",
+    "audio": "audio/ar-de/saetze/ta_02.mp3?v=cf05178f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "صَباح الخِير يا وْلاد، فايْقين؟",
+    "umschrift": "ṣabāḥ il-khēr yā wlād, fāyʾīn?",
+    "audio": "audio/ar-de/syrisch/ta_02.mp3?v=1e22b30d"
+   }
+  },
+  {
+   "id": "ta_03",
+   "thema": "tahiyyat",
+   "fr": "كَيْفَ حَالُك؟",
+   "de": "Wie geht es dir?",
+   "register": "tu",
+   "anker": "كيف",
+   "notiz": "kayfa = wie, ḥāl = Zustand, -uk = dein (zu einem Mann; -uki zu einer Frau). Kein Verb nötig. Antwort: bi-khayr (in Gutem), al-ḥamdu lillāh (Gott sei Dank, die häufigste).",
+   "audio": "audio/ar-de/wendungen/ta_03.mp3?v=20ca843b",
+   "gloss": "كَيْفَ حَال·ُك | wie Zustand·dein",
+   "umschrift": "kayfa ḥāluk?",
+   "wurzel": "ح-و-ل",
+   "satz": {
+    "fr": "كَيْفَ حَالُك؟ – بِخَيْر، وَأَنْت؟",
+    "de": "Wie geht es dir? – Gut, und dir?",
+    "luecke": "كَيْفَ حَالُك",
+    "gloss": "كَيْفَ حَال·ُك؟ – بِ·خَيْر، وَ·أَنْت؟ | wie Zustand·dein? – in·Gutes, und·du?",
+    "umschrift": "kayfa ḥāluk? – bi-khayr, wa-anta?",
+    "audio": "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "كِيفَك؟ – مْنيح، وِانْتَ؟",
+    "umschrift": "kīfak? – mnīḥ, w-inta?",
+    "audio": "audio/ar-de/syrisch/ta_03.mp3?v=c958cdf6"
+   }
+  },
+  {
+   "id": "ta_04",
+   "thema": "tahiyyat",
+   "fr": "أَنَا بِخَيْر، شُكْرًا",
+   "de": "Mir geht es gut, danke",
+   "register": "tu",
+   "anker": "خير",
+   "notiz": "bi-khayr = wörtlich « in Gutem ». shukran = danke (Wurzel sh-k-r). mutʿab = müde (ein Mann), mutʿaba (eine Frau). qalīlan = ein wenig.",
+   "audio": "audio/ar-de/wendungen/ta_04.mp3?v=62a137fc",
+   "gloss": "أَنَا بِ·خَيْر، شُكْرًا | ich in·Gutes, Dank",
+   "umschrift": "anā bi-khayr, shukran",
+   "wurzel": "خ-ي-ر",
+   "satz": {
+    "fr": "أَنَا بِخَيْر، شُكْرًا. مُتْعَبٌ قَلِيلاً.",
+    "de": "Mir geht es gut, danke. Ein bisschen müde.",
+    "luecke": "أَنَا بِخَيْر",
+    "gloss": "أَنَا بِ·خَيْر، شُكْرًا. مُتْعَب قَلِيلاً. | ich in·Gutes, Dank. müde wenig.",
+    "umschrift": "anā bi-khayr, shukran. mutʿab qalīlan.",
+    "audio": "audio/ar-de/saetze/ta_04.mp3?v=b0f3da62"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَنا مْنيح، شُكْرًا. تَعْبان شْوَيّ.",
+    "umschrift": "ana mnīḥ, shukran. taʿbān shwayy.",
+    "audio": "audio/ar-de/syrisch/ta_04.mp3?v=d87c1ec0"
+   }
+  },
+  {
+   "id": "ta_05",
+   "thema": "tahiyyat",
+   "fr": "أَهْلاً وَسَهْلاً",
+   "de": "Willkommen!",
+   "register": "tu",
+   "anker": "أهلا",
+   "notiz": "ahlan wa-sahlan = (du kommst zu) Familie und Ebene: willkommen. Antwort: ahlan bik (bei einem Mann), ahlan biki (Frau). ijlis = setz dich (Imperativ von jalasa).",
+   "audio": "audio/ar-de/wendungen/ta_05.mp3?v=d26d9a05",
+   "gloss": "أَهْلاً وَ·سَهْلاً | Familie und·Ebene",
+   "umschrift": "ahlan wa-sahlan",
+   "wurzel": "أ-ه-ل",
+   "satz": {
+    "fr": "أَهْلاً وَسَهْلاً، اِجْلِسْ. – أَهْلاً بِك.",
+    "de": "Willkommen, setz dich. – Danke (dir auch).",
+    "luecke": "أَهْلاً وَسَهْلاً",
+    "gloss": "أَهْلاً وَ·سَهْلاً، اِجْلِسْ. – أَهْلاً بِ·ك. | Familie und·Ebene, sitz. – Familie bei·dir.",
+    "umschrift": "ahlan wa-sahlan, ijlis. – ahlan bik.",
+    "audio": "audio/ar-de/saetze/ta_05.mp3?v=9b304244"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَهْلا وسَهْلا، اقْعُد. – أَهْلا فيك.",
+    "umschrift": "ahla w-sahla, ʾʿod. – ahla fīk.",
+    "audio": "audio/ar-de/syrisch/ta_05.mp3?v=ce175582"
+   }
+  },
+  {
+   "id": "ta_06",
+   "thema": "tahiyyat",
+   "fr": "أُحِبُّ التَّحَدُّثَ بِالعَرَبِيَّة",
+   "de": "Ich spreche gern Arabisch",
+   "register": "tu",
+   "anker": "حب",
+   "notiz": "uḥibbu = ich liebe (Wurzel ḥ-b-b, wie ḥubb). at-taḥadduth = das Sprechen (Verbalnomen). bil-ʿarabiyya = auf Arabisch (bi- + al- + ʿarabiyya). bi-buṭʾ = mit Langsamkeit.",
+   "audio": "audio/ar-de/wendungen/ta_06.mp3?v=74141d45",
+   "gloss": "أُحِبّ·ُ ال·تَحَدُّث بِ·ال·عَرَبِيَّة | lieben·1SG DEF·Sprechen in·DEF·Arabisch",
+   "umschrift": "uḥibbu t-taḥadduth bil-ʿarabiyya",
+   "wurzel": "ح-ب-ب",
+   "satz": {
+    "fr": "أُحِبُّ التَّحَدُّثَ بِالعَرَبِيَّة، لَكِنْ بِبُطْء.",
+    "de": "Ich spreche gern Arabisch, aber langsam.",
+    "luecke": "أُحِبُّ التَّحَدُّثَ بِالعَرَبِيَّة",
+    "gloss": "أُحِبّ·ُ ال·تَحَدُّث بِ·ال·عَرَبِيَّة، لَكِنْ بِ·بُطْء. | lieben·1SG DEF·Sprechen in·DEF·Arabisch, aber mit·Langsamkeit.",
+    "umschrift": "uḥibbu t-taḥadduth bil-ʿarabiyya, lākin bi-buṭʾ.",
+    "audio": "audio/ar-de/saetze/ta_06.mp3?v=46c6da3a"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بْحِبّ إحْكي عَرَبي، بَسّ شْوَيّ شْوَيّ.",
+    "umschrift": "bḥibb iḥkī ʿarabī, bass shwayy shwayy.",
+    "audio": "audio/ar-de/syrisch/ta_06.mp3?v=5df97092"
+   }
+  },
+  {
+   "id": "ta_07",
+   "thema": "tahiyyat",
+   "fr": "مَا اسْمُك؟",
+   "de": "Wie heißt du?",
+   "register": "tu",
+   "anker": "اسم",
+   "notiz": "mā = was (vor Nomen); ism = Name; -uk = dein. Kein Verb: « Was dein Name? » Zu einer Frau: mā smuki? Antwort: ismī … = mein Name (ist) …",
+   "audio": "audio/ar-de/wendungen/ta_07.mp3?v=f4d6befb",
+   "gloss": "مَا اسْم·ُك | was Name·dein",
+   "umschrift": "mā smuk?",
+   "wurzel": "س-م-و",
+   "satz": {
+    "fr": "مَا اسْمُك؟ – اِسْمِي سَامِي.",
+    "de": "Wie heißt du? – Ich heiße Sāmī.",
+    "luecke": "مَا اسْمُك",
+    "gloss": "مَا اسْم·ُك؟ – اِسْم·ِي سَامِي. | was Name·dein? – Name·mein Sāmī.",
+    "umschrift": "mā smuk? – ismī Sāmī.",
+    "audio": "audio/ar-de/saetze/ta_07.mp3?v=595e2dfc"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "شو اسْمَك؟ – اسْمي سامي.",
+    "umschrift": "shū ismak? – ismī Sāmī.",
+    "audio": "audio/ar-de/syrisch/ta_07.mp3?v=34921651"
+   }
+  },
+  {
+   "id": "ta_08",
+   "thema": "tahiyyat",
+   "fr": "اِسْمِي أَلِكْس",
+   "de": "Ich heiße Alex",
+   "register": "tu",
+   "anker": "معلم",
+   "notiz": "ismī = mein Name (-ī = mein). muʿallim al-almāniyya = Lehrer des Deutschen (iḍāfa: zwei Nomen, das zweite bestimmt). muʿallim aus der Wurzel ʿ-l-m (wissen), wie ʿilm.",
+   "audio": "audio/ar-de/wendungen/ta_08.mp3?v=2a19c833",
+   "gloss": "اِسْم·ِي أَلِكْس | Name·mein Alex",
+   "umschrift": "ismī Alex",
+   "wurzel": "ع-ل-م",
+   "satz": {
+    "fr": "اِسْمِي أَلِكْس، أَنَا مُعَلِّمُ الأَلْمَانِيَّة.",
+    "de": "Ich heiße Alex, ich bin der Deutschlehrer.",
+    "luecke": "اِسْمِي أَلِكْس",
+    "gloss": "اِسْم·ِي أَلِكْس، أَنَا مُعَلِّم ال·أَلْمَانِيَّة. | Name·mein Alex, ich Lehrer DEF·Deutsch.",
+    "umschrift": "ismī Alex, anā muʿallim al-almāniyya.",
+    "audio": "audio/ar-de/saetze/ta_08.mp3?v=132b6ceb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اسْمي أَلِكْس، أَنا أُسْتاذ الأَلْماني.",
+    "umschrift": "ismī Alex, ana istāz il-almānī.",
+    "audio": "audio/ar-de/syrisch/ta_08.mp3?v=a4de1c52"
+   }
+  },
+  {
+   "id": "ta_09",
+   "thema": "tahiyyat",
+   "fr": "تَشَرَّفْنَا",
+   "de": "Freut mich",
+   "register": "tu",
+   "anker": "شرف",
+   "notiz": "tasharrafnā = wir sind geehrt worden (Wurzel sh-r-f, Ehre), beim Kennenlernen. Antwort: wa-anā ayḍan = und ich auch, oder ash-sharaf lī = die Ehre ist mein.",
+   "audio": "audio/ar-de/wendungen/ta_09.mp3?v=052d976d",
+   "gloss": "تَشَرَّف·نَا | geehrt.werden·1PL",
+   "umschrift": "tasharrafnā",
+   "wurzel": "ش-ر-ف",
+   "satz": {
+    "fr": "تَشَرَّفْنَا يَا سَامِي. – وَأَنَا أَيْضًا.",
+    "de": "Freut mich, Sāmī. – Mich auch.",
+    "luecke": "تَشَرَّفْنَا",
+    "gloss": "تَشَرَّف·نَا يَا سَامِي. – وَ·أَنَا أَيْضًا. | geehrt.werden·1PL oh Sāmī. – und·ich auch.",
+    "umschrift": "tasharrafnā yā Sāmī. – wa-anā ayḍan.",
+    "audio": "audio/ar-de/saetze/ta_09.mp3?v=220476cb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "تْشَرَّفْنا يا سامي. – وأَنا كَمان.",
+    "umschrift": "tsharrafna yā Sāmī. – w-ana kamān.",
+    "audio": "audio/ar-de/syrisch/ta_09.mp3?v=0114886b"
+   }
+  },
+  {
+   "id": "ta_10",
+   "thema": "tahiyyat",
+   "fr": "إِلَى اللِّقَاء",
+   "de": "Bis dann!",
+   "register": "tu",
+   "anker": "لقاء",
+   "notiz": "ilā l-liqāʾ = bis zum Treffen (ilā = zu, bis; liqāʾ = Begegnung, Wurzel l-q-y). hunā = hier. marratan ukhrā = ein anderes Mal, wieder.",
+   "audio": "audio/ar-de/wendungen/ta_10.mp3?v=e11400f6",
+   "gloss": "إِلَى ال·لِقَاء | bis DEF·Treffen",
+   "umschrift": "ilā l-liqāʾ",
+   "wurzel": "ل-ق-ي",
+   "satz": {
+    "fr": "إِلَى اللِّقَاء، غَدًا أَنَا هُنَا مَرَّةً أُخْرَى.",
+    "de": "Bis dann, morgen bin ich wieder hier.",
+    "luecke": "إِلَى اللِّقَاء",
+    "gloss": "إِلَى ال·لِقَاء، غَدًا أَنَا هُنَا مَرَّةً أُخْرَى. | bis DEF·Treffen, morgen ich hier Mal anderes.",
+    "umschrift": "ilā l-liqāʾ, ghadan anā hunā marratan ukhrā.",
+    "audio": "audio/ar-de/saetze/ta_10.mp3?v=335171f1"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "مْنْشوفَك، بُكْرا أَنا هون كَمان مَرَّة.",
+    "umschrift": "mnshūfak, bukra ana hōn kamān marra.",
+    "audio": "audio/ar-de/syrisch/ta_10.mp3?v=bfbefcab"
+   }
+  },
+  {
+   "id": "ta_11",
+   "thema": "tahiyyat",
+   "fr": "يَوْمًا سَعِيدًا",
+   "de": "Schönen Tag!",
+   "register": "tu",
+   "anker": "يوم",
+   "notiz": "yawman saʿīdan = einen glücklichen Tag (Akkusativ des Wunsches, die Endung -an bleibt hörbar, das ist eine der wenigen Stellen). Antwort: wa-laka ayḍan (dir auch, Mann) / wa-laki (Frau).",
+   "audio": "audio/ar-de/wendungen/ta_11.mp3?v=ea7e6b8d",
+   "gloss": "يَوْم·ًا سَعِيد·ًا | Tag·WUNSCH glücklich·WUNSCH",
+   "umschrift": "yawman saʿīdan",
+   "wurzel": "ي-و-م",
+   "satz": {
+    "fr": "يَوْمًا سَعِيدًا! – وَلَكَ أَيْضًا.",
+    "de": "Schönen Tag! – Dir auch.",
+    "luecke": "يَوْمًا سَعِيدًا",
+    "gloss": "يَوْم·ًا سَعِيد·ًا! – وَ·لَ·كَ أَيْضًا. | Tag·WUNSCH glücklich·WUNSCH! – und·für·dich auch.",
+    "umschrift": "yawman saʿīdan! – wa-laka ayḍan.",
+    "audio": "audio/ar-de/saetze/ta_11.mp3?v=757a1b94"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "نْهارَك سَعيد! – نْهارَك أَسْعَد.",
+    "umschrift": "nhārak saʿīd! – nhārak asʿad.",
+    "audio": "audio/ar-de/syrisch/ta_11.mp3?v=b6752b0b"
+   }
+  },
+  {
+   "id": "ta_12",
+   "thema": "tahiyyat",
+   "fr": "مَعَ السَّلامَة",
+   "de": "Auf Wiedersehen",
+   "register": "tu",
+   "anker": "سلام",
+   "notiz": "maʿa s-salāma = mit der Unversehrtheit (Wurzel s-l-m, wie salām, islām). Sagt der Bleibende zum Gehenden; beide sagen es heute. yā ustādh = Anrede für Lehrer, wie hocam.",
+   "audio": "audio/ar-de/wendungen/ta_12.mp3?v=495f5ef4",
+   "gloss": "مَعَ ال·سَلامَة | mit DEF·Unversehrtheit",
+   "umschrift": "maʿa s-salāma",
+   "wurzel": "س-ل-م",
+   "satz": {
+    "fr": "مَعَ السَّلامَة يَا سَامِي! – مَعَ السَّلامَة يَا أُسْتَاذ!",
+    "de": "Auf Wiedersehen, Sāmī! – Auf Wiedersehen, Herr Lehrer!",
+    "luecke": "مَعَ السَّلامَة",
+    "gloss": "مَعَ ال·سَلامَة يَا سَامِي! – مَعَ ال·سَلامَة يَا أُسْتَاذ! | mit DEF·Unversehrtheit oh Sāmī! – mit DEF·Unversehrtheit oh Lehrer!",
+    "umschrift": "maʿa s-salāma yā Sāmī! – maʿa s-salāma yā ustādh!",
+    "audio": "audio/ar-de/saetze/ta_12.mp3?v=6c66f8b0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "مَع السَّلامِة يا سامي! – بْخاطْرَك يا أُسْتاذ!",
+    "umschrift": "maʿ is-salāme yā Sāmī! – bkhāṭrak yā ustāz!",
+    "audio": "audio/ar-de/syrisch/ta_12.mp3?v=10ad7f1a"
+   }
+  },
+  {
+   "id": "ta_13",
+   "thema": "tahiyyat",
+   "fr": "أَهْلاً وَسَهْلاً بِحَضْرَتِك",
+   "de": "Willkommen (höflich)",
+   "register": "vous",
+   "anker": "حضرة",
+   "notiz": "ḥaḍratuk = Ihre Gegenwart: die höfliche Anrede (wie Siz, aber mit Nomen). anti = du (Frau), anta = du (Mann). wālidat Sāmī = die Mutter Sāmīs (tāʾ marbūṭa wird t in der iḍāfa).",
+   "audio": "audio/ar-de/wendungen/ta_13.mp3?v=4bb8e167",
+   "gloss": "أَهْلاً وَ·سَهْلاً بِ·حَضْرَت·ِك | Familie und·Ebene bei·Gegenwart·Ihr",
+   "umschrift": "ahlan wa-sahlan bi-ḥaḍratik",
+   "wurzel": "ح-ض-ر",
+   "satz": {
+    "fr": "أَهْلاً وَسَهْلاً بِحَضْرَتِك، هَلْ أَنْتِ وَالِدَةُ سَامِي؟",
+    "de": "Willkommen, sind Sie die Mutter von Sāmī?",
+    "luecke": "أَهْلاً وَسَهْلاً بِحَضْرَتِك",
+    "gloss": "أَهْلاً وَ·سَهْلاً بِ·حَضْرَت·ِك، هَلْ أَنْتِ وَالِدَة·ُ سَامِي؟ | Familie und·Ebene bei·Gegenwart·Ihr, FRAGE du.F Mutter·GEN Sāmī?",
+    "umschrift": "ahlan wa-sahlan bi-ḥaḍratik, hal anti wālidat Sāmī?",
+    "audio": "audio/ar-de/saetze/ta_13.mp3?v=50d92a3d"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَهْلا وسَهْلا فيكي، إنْتي إمّ سامي؟",
+    "umschrift": "ahla w-sahla fīki, inti imm Sāmī?",
+    "audio": "audio/ar-de/syrisch/ta_13.mp3?v=21dd6e5b"
+   }
+  },
+  {
+   "id": "ta_14",
+   "thema": "tahiyyat",
+   "fr": "كَيْفَ حَالُ حَضْرَتِك؟",
+   "de": "Wie geht es Ihnen?",
+   "register": "vous",
+   "anker": "حال",
+   "notiz": "Höflich: ḥāl ḥaḍratik = der Zustand Ihrer Gegenwart (iḍāfa). Zu einem Mann ḥaḍratuk, zu einer Frau ḥaḍratuki; in der Pausalform beides ḥaḍratik.",
+   "audio": "audio/ar-de/wendungen/ta_14.mp3?v=f58bed18",
+   "gloss": "كَيْفَ حَال·ُ حَضْرَت·ِك | wie Zustand·GEN Gegenwart·Ihr",
+   "umschrift": "kayfa ḥālu ḥaḍratik?",
+   "wurzel": "ح-و-ل",
+   "satz": {
+    "fr": "كَيْفَ حَالُ حَضْرَتِك؟ – بِخَيْر، شُكْرًا. وَأَنْت؟",
+    "de": "Wie geht es Ihnen? – Gut, danke. Und Ihnen?",
+    "luecke": "كَيْفَ حَالُ حَضْرَتِك",
+    "gloss": "كَيْفَ حَال·ُ حَضْرَت·ِك؟ – بِ·خَيْر، شُكْرًا. وَ·أَنْت؟ | wie Zustand·GEN Gegenwart·Ihr? – in·Gutes, Dank. und·Sie?",
+    "umschrift": "kayfa ḥālu ḥaḍratik? – bi-khayr, shukran. wa-anta?",
+    "audio": "audio/ar-de/saetze/ta_14.mp3?v=a8794c53"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "كيف حَضِرْتَك؟ – مْنيح، شُكْرًا. وإنْتَ؟",
+    "umschrift": "kīf ḥaḍirtak? – mnīḥ, shukran. w-inta?",
+    "audio": "audio/ar-de/syrisch/ta_14.mp3?v=05352cfa"
+   }
+  },
+  {
+   "id": "ta_15",
+   "thema": "tahiyyat",
+   "fr": "تَفَضَّلْ، اِجْلِسْ",
+   "de": "Bitte, setzen Sie sich",
+   "register": "vous",
+   "anker": "تفضل",
+   "notiz": "tafaḍḍal = bitte (beim Anbieten, Hereinbitten, Vorlassen; Wurzel f-ḍ-l, Güte). Zu einer Frau: tafaḍḍalī, ijlisī (Imperativ -ī). Der Satz spricht die Mutter an.",
+   "audio": "audio/ar-de/wendungen/ta_15.mp3?v=01e9b354",
+   "gloss": "تَفَضَّل، اِجْلِس | bitte.M, sitz.M",
+   "umschrift": "tafaḍḍal, ijlis",
+   "wurzel": "ف-ض-ل",
+   "satz": {
+    "fr": "تَفَضَّلِي، اِجْلِسِي. القَهْوَةُ قَادِمَة.",
+    "de": "Bitte, setzen Sie sich. Der Kaffee kommt.",
+    "luecke": "تَفَضَّلِي، اِجْلِسِي",
+    "gloss": "تَفَضَّل·ِي، اِجْلِس·ِي. ال·قَهْوَة قَادِمَة. | bitte·F, sitz·F. DEF·Kaffee kommend.F.",
+    "umschrift": "tafaḍḍalī, ijlisī. al-qahwa qādima.",
+    "audio": "audio/ar-de/saetze/ta_15.mp3?v=93b5be38"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "تْفَضَّلي، اقْعُدي. القَهْوِة جايِة.",
+    "umschrift": "tfaḍḍalī, ʾʿodī. il-ʾahwe jāye.",
+    "audio": "audio/ar-de/syrisch/ta_15.mp3?v=3f59222b"
+   }
+  },
+  {
+   "id": "ta_16",
+   "thema": "tahiyyat",
+   "fr": "سَعِيدٌ بِمَعْرِفَتِك",
+   "de": "Freut mich, Sie kennenzulernen",
+   "register": "vous",
+   "anker": "معرفة",
+   "notiz": "saʿīd bi-maʿrifatik = glücklich über Ihre Bekanntschaft (maʿrifa = Kennen, Wurzel ʿ-r-f). Eine Frau sagt saʿīda. yatakallam ʿan = er spricht von (Wurzel k-l-m, wie kalima).",
+   "audio": "audio/ar-de/wendungen/ta_16.mp3?v=bca9334a",
+   "gloss": "سَعِيد بِ·مَعْرِفَت·ِك | glücklich über·Bekanntschaft·Ihr",
+   "umschrift": "saʿīd bi-maʿrifatik",
+   "wurzel": "ع-ر-ف",
+   "satz": {
+    "fr": "سَعِيدٌ بِمَعْرِفَتِك، سَامِي يَتَكَلَّمُ عَنْكِ كَثِيرًا.",
+    "de": "Freut mich, Sie kennenzulernen, Sāmī spricht viel von Ihnen.",
+    "luecke": "سَعِيدٌ بِمَعْرِفَتِك",
+    "gloss": "سَعِيد بِ·مَعْرِفَت·ِك، سَامِي يَتَكَلَّم عَن·كِ كَثِيرًا. | glücklich über·Bekanntschaft·Ihr, Sāmī spricht von·Ihnen.F viel.",
+    "umschrift": "saʿīd bi-maʿrifatik, Sāmī yatakallam ʿanki kathīran.",
+    "audio": "audio/ar-de/saetze/ta_16.mp3?v=a10be320"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "تْشَرَّفْنا فيكي، سامي بيِحْكي عَنِّك كْتير.",
+    "umschrift": "tsharrafna fīki, Sāmī byiḥkī ʿannik ktīr.",
+    "audio": "audio/ar-de/syrisch/ta_16.mp3?v=19d686ef"
+   }
+  },
+  {
+   "id": "ta_17",
+   "thema": "tahiyyat",
+   "fr": "أَنَا مُعَلِّمُ سَامِي",
+   "de": "Ich bin der Lehrer von Sāmī",
+   "register": "vous",
+   "anker": "معلم",
+   "notiz": "iḍāfa: muʿallim Sāmī = der Lehrer Sāmīs, ohne al- am ersten Wort. lil-almāniyya = für das Deutsche (li- + al-). Lehrerin: muʿallima.",
+   "audio": "audio/ar-de/wendungen/ta_17.mp3?v=5cc1aa89",
+   "gloss": "أَنَا مُعَلِّم·ُ سَامِي | ich Lehrer·GEN Sāmī",
+   "umschrift": "anā muʿallim Sāmī",
+   "wurzel": "ع-ل-م",
+   "satz": {
+    "fr": "أَنَا مُعَلِّمُ سَامِي لِلأَلْمَانِيَّة.",
+    "de": "Ich bin der Deutschlehrer von Sāmī.",
+    "luecke": "أَنَا مُعَلِّمُ سَامِي",
+    "gloss": "أَنَا مُعَلِّم·ُ سَامِي لِ·ال·أَلْمَانِيَّة. | ich Lehrer·GEN Sāmī für·DEF·Deutsch.",
+    "umschrift": "anā muʿallim Sāmī lil-almāniyya.",
+    "audio": "audio/ar-de/saetze/ta_17.mp3?v=d8e97886"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَنا أُسْتاذ سامي لَلأَلْماني.",
+    "umschrift": "ana istāz Sāmī la-l-almānī.",
+    "audio": "audio/ar-de/syrisch/ta_17.mp3?v=9a900bcf"
+   }
+  },
+  {
+   "id": "ta_18",
+   "thema": "tahiyyat",
+   "fr": "أَنَا وَالِدَةُ سَامِي",
+   "de": "Ich bin die Mutter von Sāmī",
+   "register": "vous",
+   "anker": "والد",
+   "notiz": "wālid = Vater, wālida = Mutter (Partizip von walada, gebären; wie walad = Junge). wāliduh = sein Vater (-uh = sein). fī l-ʿamal = in der Arbeit.",
+   "audio": "audio/ar-de/wendungen/ta_18.mp3?v=ed2bf672",
+   "gloss": "أَنَا وَالِدَة·ُ سَامِي | ich Mutter·GEN Sāmī",
+   "umschrift": "anā wālidat Sāmī",
+   "wurzel": "و-ل-د",
+   "satz": {
+    "fr": "أَنَا وَالِدَةُ سَامِي، وَالِدُهُ فِي العَمَل.",
+    "de": "Ich bin die Mutter von Sāmī, sein Vater ist bei der Arbeit.",
+    "luecke": "أَنَا وَالِدَةُ سَامِي",
+    "gloss": "أَنَا وَالِدَة·ُ سَامِي، وَالِد·ُهُ فِي ال·عَمَل. | ich Mutter·GEN Sāmī, Vater·sein in DEF·Arbeit.",
+    "umschrift": "anā wālidat Sāmī, wāliduh fī l-ʿamal.",
+    "audio": "audio/ar-de/saetze/ta_18.mp3?v=204a5bf0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "أَنا إمّ سامي، أَبوه بِالشِّغْل.",
+    "umschrift": "ana imm Sāmī, abūh bi-sh-shighl.",
+    "audio": "audio/ar-de/syrisch/ta_18.mp3?v=fe209cb7"
+   }
+  },
+  {
+   "id": "ta_19",
+   "thema": "tahiyyat",
+   "fr": "هَلْ تُرِيدُ قَهْوَة؟",
+   "de": "Möchten Sie Kaffee?",
+   "register": "vous",
+   "anker": "أراد",
+   "notiz": "hal = Fragepartikel am Satzanfang. turīd = du willst (Mann), turīdīn = du willst (Frau). min faḍlik = bitte (aus Ihrer Güte). bidūn sukkar = ohne Zucker.",
+   "audio": "audio/ar-de/wendungen/ta_19.mp3?v=efcd871d",
+   "gloss": "هَلْ تُرِيد قَهْوَة | FRAGE willst.2SG Kaffee",
+   "umschrift": "hal turīd qahwa?",
+   "wurzel": "ر-و-د",
+   "satz": {
+    "fr": "هَلْ تُرِيدِينَ قَهْوَة؟ – مِنْ فَضْلِك، بِدُونِ سُكَّر.",
+    "de": "Möchten Sie Kaffee? – Gern, ohne Zucker.",
+    "luecke": "هَلْ تُرِيدِينَ قَهْوَة",
+    "gloss": "هَلْ تُرِيد·ِينَ قَهْوَة؟ – مِنْ فَضْل·ِك، بِ·دُونِ سُكَّر. | FRAGE willst·2SG.F Kaffee? – aus Güte·Ihr, mit·ohne Zucker.",
+    "umschrift": "hal turīdīn qahwa? – min faḍlik, bidūn sukkar.",
+    "audio": "audio/ar-de/saetze/ta_19.mp3?v=40040901"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بْتِشْرَبي قَهْوِة؟ – إذا بْتْريد، بَلا سُكَّر.",
+    "umschrift": "btishrabī ʾahwe? – iza btrīd, bala sukkar.",
+    "audio": "audio/ar-de/syrisch/ta_19.mp3?v=45dcefe2"
+   }
+  },
+  {
+   "id": "ta_20",
+   "thema": "tahiyyat",
+   "fr": "سَامِي يَجْتَهِدُ كَثِيرًا",
+   "de": "Sāmī strengt sich sehr an",
+   "register": "vous",
+   "anker": "جهد",
+   "notiz": "yajtahid = er strengt sich an (Wurzel j-h-d, Anstrengung; dasselbe Muster wie ijtahada). kathīran = sehr, viel. almāniyyatuh = sein Deutsch (tāʾ marbūṭa wird t vor dem Suffix).",
+   "audio": "audio/ar-de/wendungen/ta_20.mp3?v=82371588",
+   "gloss": "سَامِي يَجْتَهِد كَثِيرًا | Sāmī strengt.sich.an viel",
+   "umschrift": "Sāmī yajtahid kathīran",
+   "wurzel": "ج-ه-د",
+   "satz": {
+    "fr": "سَامِي يَجْتَهِدُ كَثِيرًا، أَلْمَانِيَّتُهُ جَيِّدَة.",
+    "de": "Sāmī strengt sich sehr an, sein Deutsch ist gut.",
+    "luecke": "سَامِي يَجْتَهِدُ كَثِيرًا",
+    "gloss": "سَامِي يَجْتَهِد كَثِيرًا، أَلْمَانِيَّت·ُهُ جَيِّدَة. | Sāmī strengt.sich.an viel, Deutsch·sein gut.F.",
+    "umschrift": "Sāmī yajtahid kathīran, almāniyyatuh jayyida.",
+    "audio": "audio/ar-de/saetze/ta_20.mp3?v=14d2f977"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "سامي عَم يِشْتْغِل كْتير، أَلْمانيتو مْنيحا.",
+    "umschrift": "Sāmī ʿam yishtghil ktīr, almānīto mnīḥa.",
+    "audio": "audio/ar-de/syrisch/ta_20.mp3?v=ce5d466c"
+   }
+  },
+  {
+   "id": "ta_21",
+   "thema": "tahiyyat",
+   "fr": "عَرَبِيَّتِي مَا زَالَتْ قَلِيلَة",
+   "de": "Mein Arabisch ist noch wenig",
+   "register": "vous",
+   "anker": "زال",
+   "notiz": "mā zālat = sie hört nicht auf (zu sein) = noch immer; Verb mā zāla, hier feminin, weil ʿarabiyya feminin ist. lākinnī = aber ich (lākin + -nī). ataʿallam = ich lerne (Wurzel ʿ-l-m, Stamm V).",
+   "audio": "audio/ar-de/wendungen/ta_21.mp3?v=115e5c71",
+   "gloss": "عَرَبِيَّت·ِي مَا زَال·َتْ قَلِيلَة | Arabisch·mein nicht aufhören·3SG.F wenig.F",
+   "umschrift": "ʿarabiyyatī mā zālat qalīla",
+   "wurzel": "ز-ي-ل",
+   "satz": {
+    "fr": "عَرَبِيَّتِي مَا زَالَتْ قَلِيلَة، لَكِنِّي أَتَعَلَّم.",
+    "de": "Mein Arabisch ist noch wenig, aber ich lerne.",
+    "luecke": "عَرَبِيَّتِي مَا زَالَتْ قَلِيلَة",
+    "gloss": "عَرَبِيَّت·ِي مَا زَال·َتْ قَلِيلَة، لَكِنّ·ِي أَتَعَلَّم. | Arabisch·mein nicht aufhören·3SG.F wenig.F, aber·ich lerne.1SG.",
+    "umschrift": "ʿarabiyyatī mā zālat qalīla, lākinnī ataʿallam.",
+    "audio": "audio/ar-de/saetze/ta_21.mp3?v=b8a50a07"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "عَرَبيتي لِسّا شْوَيّ، بَسّ عَم إتْعَلَّم.",
+    "umschrift": "ʿarabītī lissa shwayy, bass ʿam itʿallam.",
+    "audio": "audio/ar-de/syrisch/ta_21.mp3?v=ffe8eb75"
+   }
+  },
+  {
+   "id": "ta_22",
+   "thema": "tahiyyat",
+   "fr": "فَهِمْت، شُكْرًا لَك",
+   "de": "Verstanden, ich danke Ihnen",
+   "register": "vous",
+   "anker": "فهم",
+   "notiz": "fahimt = ich habe verstanden (Vergangenheit, -t = ich). shukran lak / laki = danke dir/Ihnen (Mann / Frau). sa- vor dem Präsens = Zukunft: sa-atakallam = ich werde sprechen.",
+   "audio": "audio/ar-de/wendungen/ta_22.mp3?v=25f27a15",
+   "gloss": "فَهِم·ْت، شُكْرًا لَ·ك | verstehen·1SG, Dank für·Sie",
+   "umschrift": "fahimt, shukran lak",
+   "wurzel": "ف-ه-م",
+   "satz": {
+    "fr": "فَهِمْت، شُكْرًا لَكِ. سَأَتَكَلَّمُ مَعَ سَامِي.",
+    "de": "Verstanden, ich danke Ihnen. Ich werde mit Sāmī sprechen.",
+    "luecke": "فَهِمْت، شُكْرًا لَكِ",
+    "gloss": "فَهِم·ْت، شُكْرًا لَ·كِ. سَ·أَتَكَلَّم مَعَ سَامِي. | verstehen·1SG, Dank für·Sie.F. FUT·spreche.1SG mit Sāmī.",
+    "umschrift": "fahimt, shukran laki. sa-atakallam maʿa Sāmī.",
+    "audio": "audio/ar-de/saetze/ta_22.mp3?v=ad8e36bd"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "فْهِمْت، شُكْرًا إلِك. رَح إحْكي مَع سامي.",
+    "umschrift": "fhimt, shukran ilik. raḥ iḥkī maʿ Sāmī.",
+    "audio": "audio/ar-de/syrisch/ta_22.mp3?v=9e25c115"
+   }
+  },
+  {
+   "id": "ta_23",
+   "thema": "tahiyyat",
+   "fr": "شُكْرًا عَلَى حُضُورِك",
+   "de": "Danke für Ihr Kommen",
+   "register": "vous",
+   "anker": "حضور",
+   "notiz": "shukran ʿalā = danke für. ḥuḍūr = Anwesenheit, Kommen (Wurzel ḥ-ḍ-r, wie ḥaḍra). dāʾiman = immer. maftūḥ = geöffnet (Partizip von fataḥa).",
+   "audio": "audio/ar-de/wendungen/ta_23.mp3?v=939402d7",
+   "gloss": "شُكْرًا عَلَى حُضُور·ِك | Dank für Kommen·Ihr",
+   "umschrift": "shukran ʿalā ḥuḍūrik",
+   "wurzel": "ح-ض-ر",
+   "satz": {
+    "fr": "شُكْرًا عَلَى حُضُورِك، البَابُ دَائِمًا مَفْتُوح.",
+    "de": "Danke für Ihr Kommen, die Tür ist immer offen.",
+    "luecke": "شُكْرًا عَلَى حُضُورِك",
+    "gloss": "شُكْرًا عَلَى حُضُور·ِك، ال·بَاب دَائِمًا مَفْتُوح. | Dank für Kommen·Ihr, DEF·Tür immer offen.",
+    "umschrift": "shukran ʿalā ḥuḍūrik, al-bāb dāʾiman maftūḥ.",
+    "audio": "audio/ar-de/saetze/ta_23.mp3?v=3e394da0"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "شُكْرًا إنَّك جيتي، الباب دايْمًا مَفْتوح.",
+    "umschrift": "shukran innik jītī, il-bāb dāyman maftūḥ.",
+    "audio": "audio/ar-de/syrisch/ta_23.mp3?v=a728dec3"
+   }
+  },
+  {
+   "id": "ta_24",
+   "thema": "tahiyyat",
+   "fr": "مَسَاءَ الخَيْر، مَعَ السَّلامَة",
+   "de": "Guten Abend, auf Wiedersehen",
+   "register": "vous",
+   "anker": "مساء",
+   "notiz": "masāʾ al-khayr = Abend des Guten, Antwort masāʾ an-nūr. Ab dem Nachmittag. Die beiden Grußpaare ṣabāḥ/masāʾ + al-khayr/an-nūr decken den ganzen Tag ab.",
+   "audio": "audio/ar-de/wendungen/ta_24.mp3?v=707de6ef",
+   "gloss": "مَسَاءَ ال·خَيْر، مَعَ ال·سَلامَة | Abend DEF·Gute, mit DEF·Unversehrtheit",
+   "umschrift": "masāʾ al-khayr, maʿa s-salāma",
+   "wurzel": "م-س-و",
+   "satz": {
+    "fr": "مَسَاءَ الخَيْر، مَعَ السَّلامَة. – مَعَ السَّلامَة يَا أُسْتَاذ.",
+    "de": "Guten Abend, auf Wiedersehen. – Auf Wiedersehen, Herr Lehrer.",
+    "luecke": "مَسَاءَ الخَيْر، مَعَ السَّلامَة",
+    "gloss": "مَسَاءَ ال·خَيْر، مَعَ ال·سَلامَة. – مَعَ ال·سَلامَة يَا أُسْتَاذ. | Abend DEF·Gute, mit DEF·Unversehrtheit. – mit DEF·Unversehrtheit oh Lehrer.",
+    "umschrift": "masāʾ al-khayr, maʿa s-salāma. – maʿa s-salāma yā ustādh.",
+    "audio": "audio/ar-de/saetze/ta_24.mp3?v=f479ae4e"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "مَسا الخِير، مَع السَّلامِة. – مَع السَّلامِة يا أُسْتاذ.",
+    "umschrift": "masa l-khēr, maʿ is-salāme. – maʿ is-salāme yā ustāz.",
+    "audio": "audio/ar-de/syrisch/ta_24.mp3?v=039dec19"
+   }
+  }
+ ],
+ "dialoge": [
+  {
+   "id": "d0a",
+   "titel": "فِي الاسْتِرَاحَة",
+   "ort": "فِي المَمَرّ",
+   "zeilen": [
+    {
+     "id": "d0a_01",
+     "rolle": "B",
+     "fr": "مَرْحَبًا يَا أُسْتَاذ!",
+     "de": "Hallo, Herr Lehrer!",
+     "umschrift": "marḥaban yā ustādh!",
+     "audio": "audio/ar-de/dialoge/d0a_01.mp3?v=f0291add"
+    },
+    {
+     "id": "d0a_02",
+     "rolle": "A",
+     "fr": "مَرْحَبًا سَامِي، كَيْفَ حَالُك؟",
+     "de": "Hallo Sāmī, wie geht es dir?",
+     "umschrift": "marḥaban Sāmī, kayfa ḥāluk?",
+     "audio": "audio/ar-de/dialoge/d0a_02.mp3?v=6f730b3f"
+    },
+    {
+     "id": "d0a_03",
+     "rolle": "B",
+     "fr": "بِخَيْر، وَأَنْت؟",
+     "de": "Gut, und Ihnen?",
+     "umschrift": "bi-khayr, wa-anta?",
+     "audio": "audio/ar-de/dialoge/d0a_03.mp3?v=350629e7"
+    },
+    {
+     "id": "d0a_04",
+     "rolle": "A",
+     "fr": "أَنَا بِخَيْر. كَيْفَ عَرَبِيَّتِي؟",
+     "de": "Mir geht's gut. Wie ist mein Arabisch?",
+     "umschrift": "anā bi-khayr. kayfa ʿarabiyyatī?",
+     "audio": "audio/ar-de/dialoge/d0a_04.mp3?v=e60833a3"
+    },
+    {
+     "id": "d0a_05",
+     "rolle": "B",
+     "fr": "جَيِّدَةٌ جِدًّا! هَلْ تُحِبُّ العَرَبِيَّة؟",
+     "de": "Sehr gut! Mögen Sie Arabisch?",
+     "umschrift": "jayyida jiddan! hal tuḥibbu l-ʿarabiyya?",
+     "audio": "audio/ar-de/dialoge/d0a_05.mp3?v=48c3aeae"
+    },
+    {
+     "id": "d0a_06",
+     "rolle": "A",
+     "fr": "نَعَم، أُحِبُّ التَّحَدُّثَ بِالعَرَبِيَّة. لَكِنْ بِبُطْء.",
+     "de": "Ja, ich spreche gern Arabisch. Aber langsam.",
+     "umschrift": "naʿam, uḥibbu t-taḥadduth bil-ʿarabiyya. lākin bi-buṭʾ.",
+     "audio": "audio/ar-de/dialoge/d0a_06.mp3?v=0ff0bada"
+    },
+    {
+     "id": "d0a_07",
+     "rolle": "B",
+     "fr": "لا بَأْس، أَنَا أَيْضًا بَطِيءٌ فِي الأَلْمَانِيَّة.",
+     "de": "Macht nichts, ich bin auf Deutsch auch langsam.",
+     "umschrift": "lā baʾs, anā ayḍan baṭīʾ fī l-almāniyya.",
+     "audio": "audio/ar-de/dialoge/d0a_07.mp3?v=739ffc9c"
+    },
+    {
+     "id": "d0a_08",
+     "rolle": "A",
+     "fr": "اِتَّفَقْنَا إِذَنْ. إِلَى اللِّقَاء!",
+     "de": "Dann sind wir uns einig. Bis dann!",
+     "umschrift": "ittafaqnā idhan. ilā l-liqāʾ!",
+     "audio": "audio/ar-de/dialoge/d0a_08.mp3?v=bbf22ba6"
+    },
+    {
+     "id": "d0a_09",
+     "rolle": "B",
+     "fr": "إِلَى اللِّقَاء يَا أُسْتَاذ!",
+     "de": "Bis dann, Herr Lehrer!",
+     "umschrift": "ilā l-liqāʾ yā ustādh!",
+     "audio": "audio/ar-de/dialoge/d0a_09.mp3?v=79578e84"
+    },
+    {
+     "id": "d0a_10",
+     "rolle": "A",
+     "fr": "مَعَ السَّلامَة يَا سَامِي.",
+     "de": "Auf Wiedersehen, Sāmī.",
+     "umschrift": "maʿa s-salāma yā Sāmī.",
+     "audio": "audio/ar-de/dialoge/d0a_10.mp3?v=f9dcef1e"
+    }
+   ]
+  },
+  {
+   "id": "d0b",
+   "titel": "لِقَاءُ الأَهْل",
+   "ort": "فِي الصَّفّ",
+   "zeilen": [
+    {
+     "id": "d0b_01",
+     "rolle": "A",
+     "fr": "أَهْلاً وَسَهْلاً، تَفَضَّلِي اِجْلِسِي.",
+     "de": "Willkommen, bitte setzen Sie sich.",
+     "umschrift": "ahlan wa-sahlan, tafaḍḍalī ijlisī.",
+     "audio": "audio/ar-de/dialoge/d0b_01.mp3?v=b064cab0"
+    },
+    {
+     "id": "d0b_02",
+     "rolle": "B",
+     "fr": "أَهْلاً بِك، شُكْرًا.",
+     "de": "Danke, gern.",
+     "umschrift": "ahlan bik, shukran.",
+     "audio": "audio/ar-de/dialoge/d0b_02.mp3?v=447d1d9d"
+    },
+    {
+     "id": "d0b_03",
+     "rolle": "A",
+     "fr": "أَنَا مُعَلِّمُ سَامِي لِلأَلْمَانِيَّة.",
+     "de": "Ich bin der Deutschlehrer von Sāmī.",
+     "umschrift": "anā muʿallim Sāmī lil-almāniyya.",
+     "audio": "audio/ar-de/dialoge/d0b_03.mp3?v=924c554c"
+    },
+    {
+     "id": "d0b_04",
+     "rolle": "B",
+     "fr": "تَشَرَّفْنَا، وَأَنَا وَالِدَتُه.",
+     "de": "Freut mich, und ich bin seine Mutter.",
+     "umschrift": "tasharrafnā, wa-anā wālidatuh.",
+     "audio": "audio/ar-de/dialoge/d0b_04.mp3?v=b96fd583"
+    },
+    {
+     "id": "d0b_05",
+     "rolle": "A",
+     "fr": "هَلْ تُرِيدِينَ قَهْوَة؟",
+     "de": "Möchten Sie Kaffee?",
+     "umschrift": "hal turīdīn qahwa?",
+     "audio": "audio/ar-de/dialoge/d0b_05.mp3?v=d6de9c0c"
+    },
+    {
+     "id": "d0b_06",
+     "rolle": "B",
+     "fr": "مِنْ فَضْلِك. كَيْفَ سَامِي؟",
+     "de": "Gern. Wie macht sich Sāmī?",
+     "umschrift": "min faḍlik. kayfa Sāmī?",
+     "audio": "audio/ar-de/dialoge/d0b_06.mp3?v=282229b7"
+    },
+    {
+     "id": "d0b_07",
+     "rolle": "A",
+     "fr": "سَامِي يَجْتَهِدُ كَثِيرًا، أَلْمَانِيَّتُهُ جَيِّدَة.",
+     "de": "Sāmī strengt sich sehr an, sein Deutsch ist gut.",
+     "umschrift": "Sāmī yajtahid kathīran, almāniyyatuh jayyida.",
+     "audio": "audio/ar-de/dialoge/d0b_07.mp3?v=8f7444b2"
+    },
+    {
+     "id": "d0b_08",
+     "rolle": "B",
+     "fr": "الحَمْدُ لِلّه. وَعَرَبِيَّتُكَ جَمِيلَة!",
+     "de": "Gott sei Dank. Und Ihr Arabisch ist schön!",
+     "umschrift": "al-ḥamdu lillāh. wa-ʿarabiyyatuk jamīla!",
+     "audio": "audio/ar-de/dialoge/d0b_08.mp3?v=30118ba9"
+    },
+    {
+     "id": "d0b_09",
+     "rolle": "A",
+     "fr": "شُكْرًا، مَا زَالَتْ قَلِيلَة، لَكِنِّي أَتَعَلَّم.",
+     "de": "Danke, noch wenig, aber ich lerne.",
+     "umschrift": "shukran, mā zālat qalīla, lākinnī ataʿallam.",
+     "audio": "audio/ar-de/dialoge/d0b_09.mp3?v=976b1695"
+    },
+    {
+     "id": "d0b_10",
+     "rolle": "B",
+     "fr": "أَنَا أَشْكُرُكَ عَلَى وَقْتِك. مَسَاءَ الخَيْر!",
+     "de": "Ich danke Ihnen für Ihre Zeit. Guten Abend!",
+     "umschrift": "anā ashkuruk ʿalā waqtik. masāʾ al-khayr!",
+     "audio": "audio/ar-de/dialoge/d0b_10.mp3?v=58f9c431"
+    }
+   ]
+  }
+ ],
  "rollen": {
   "A": "Alex",
   "B": "خالد"
@@ -3523,7 +4380,233 @@ window.SPRACHEN["ar-de"] = {
   ]
  },
  "geschichte": [],
- "grammatik": [],
+ "grammatik": [
+  {
+   "id": "g_tahiyyat",
+   "thema": "tahiyyat",
+   "titel": "الجُمْلَةُ الاسْمِيَّة وَالضَّمَائِرُ المُتَّصِلَة",
+   "de": "Der Satz ohne Verb und die angehängten Pronomen",
+   "regel": [
+    "Arabisch braucht kein « sein » in der Gegenwart. Zwei Wörter nebeneinander sind ein Satz: anā muʿallim = ich (bin) Lehrer, al-bāb maftūḥ = die Tür (ist) offen, ʿarabiyyatī qalīla = mein Arabisch (ist) wenig. Das Subjekt ist bestimmt (al- oder ein Pronomen oder ein Name), die Aussage unbestimmt. Für « es gibt » reicht ein Ort: fī l-bayt qiṭṭ = im Haus (ist) eine Katze.",
+    "Besitz und Objekt hängen als Silbe am Wort: -ī mein (ismī), -uk dein zu einem Mann (ḥāluk), -uki dein zu einer Frau, -uh sein (wāliduh), -uhā ihr, -nā unser (tasharrafnā: uns). Vor dem Suffix wird die tāʾ marbūṭa zu t: ʿarabiyya → ʿarabiyyatī, wālida → wālidatuh. Dieselben Silben hängen an Präpositionen: lak dir, bik bei dir, ʿanki von dir (Frau)."
+   ],
+   "morphem": [
+    "mein",
+    "dein",
+    "sein",
+    "Ihr"
+   ],
+   "beispiele": [
+    {
+     "fr": "كَيْفَ حَالُك؟ – بِخَيْر، وَأَنْت؟",
+     "de": "Wie geht es dir? – Gut, und dir?",
+     "gloss": "كَيْفَ حَال·ُك؟ – بِ·خَيْر، وَ·أَنْت؟ | wie Zustand·dein? – in·Gutes, und·du?",
+     "umschrift": "kayfa ḥāluk? – bi-khayr, wa-anta?",
+     "audio": "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5",
+     "hinweis": "Kein Verb: wie Zustand dein? Und -uk = dein."
+    },
+    {
+     "fr": "مَا اسْمُك؟ – اِسْمِي سَامِي.",
+     "de": "Wie heißt du? – Ich heiße Sāmī.",
+     "gloss": "مَا اسْم·ُك؟ – اِسْم·ِي سَامِي. | was Name·dein? – Name·mein Sāmī.",
+     "umschrift": "mā smuk? – ismī Sāmī.",
+     "audio": "audio/ar-de/saetze/ta_07.mp3?v=595e2dfc",
+     "hinweis": "Was Name dein? – Name mein Sāmī."
+    },
+    {
+     "fr": "اِسْمِي أَلِكْس، أَنَا مُعَلِّمُ الأَلْمَانِيَّة.",
+     "de": "Ich heiße Alex, ich bin der Deutschlehrer.",
+     "gloss": "اِسْم·ِي أَلِكْس، أَنَا مُعَلِّم ال·أَلْمَانِيَّة. | Name·mein Alex, ich Lehrer DEF·Deutsch.",
+     "umschrift": "ismī Alex, anā muʿallim al-almāniyya.",
+     "audio": "audio/ar-de/saetze/ta_08.mp3?v=132b6ceb",
+     "hinweis": "ismī, dann die Besitzkette muʿallim al-almāniyya."
+    },
+    {
+     "fr": "أَنَا وَالِدَةُ سَامِي، وَالِدُهُ فِي العَمَل.",
+     "de": "Ich bin die Mutter von Sāmī, sein Vater ist bei der Arbeit.",
+     "gloss": "أَنَا وَالِدَة·ُ سَامِي، وَالِد·ُهُ فِي ال·عَمَل. | ich Mutter·GEN Sāmī, Vater·sein in DEF·Arbeit.",
+     "umschrift": "anā wālidat Sāmī, wāliduh fī l-ʿamal.",
+     "audio": "audio/ar-de/saetze/ta_18.mp3?v=204a5bf0",
+     "hinweis": "wālidatuh: ة wird t vor -uh."
+    },
+    {
+     "fr": "عَرَبِيَّتِي مَا زَالَتْ قَلِيلَة، لَكِنِّي أَتَعَلَّم.",
+     "de": "Mein Arabisch ist noch wenig, aber ich lerne.",
+     "gloss": "عَرَبِيَّت·ِي مَا زَال·َتْ قَلِيلَة، لَكِنّ·ِي أَتَعَلَّم. | Arabisch·mein nicht aufhören·3SG.F wenig.F, aber·ich lerne.1SG.",
+     "umschrift": "ʿarabiyyatī mā zālat qalīla, lākinnī ataʿallam.",
+     "audio": "audio/ar-de/saetze/ta_21.mp3?v=b8a50a07",
+     "hinweis": "ʿarabiyyatī: dasselbe mit -ī."
+    },
+    {
+     "fr": "شُكْرًا عَلَى حُضُورِك، البَابُ دَائِمًا مَفْتُوح.",
+     "de": "Danke für Ihr Kommen, die Tür ist immer offen.",
+     "gloss": "شُكْرًا عَلَى حُضُور·ِك، ال·بَاب دَائِمًا مَفْتُوح. | Dank für Kommen·Ihr, DEF·Tür immer offen.",
+     "umschrift": "shukran ʿalā ḥuḍūrik, al-bāb dāʾiman maftūḥ.",
+     "audio": "audio/ar-de/saetze/ta_23.mp3?v=3e394da0",
+     "hinweis": "ḥuḍūrik: Ihr Kommen, Pausalform -ik."
+    },
+    {
+     "fr": "أَهْلاً وَسَهْلاً، اِجْلِسْ. – أَهْلاً بِك.",
+     "de": "Willkommen, setz dich. – Danke (dir auch).",
+     "gloss": "أَهْلاً وَ·سَهْلاً، اِجْلِسْ. – أَهْلاً بِ·ك. | Familie und·Ebene, sitz. – Familie bei·dir.",
+     "umschrift": "ahlan wa-sahlan, ijlis. – ahlan bik.",
+     "audio": "audio/ar-de/saetze/ta_05.mp3?v=9b304244",
+     "hinweis": "ahlan bik: das Suffix an der Präposition."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "anā muʿallim",
+     "b": "anā al-muʿallim",
+     "text": "ich bin Lehrer (unbestimmt: Satz) – ich, der Lehrer (bestimmt: kein Satz, nur eine Anrede)"
+    },
+    {
+     "a": "ismī",
+     "b": "ismuk",
+     "text": "mein Name – dein Name"
+    },
+    {
+     "a": "ḥāluk",
+     "b": "ḥāluki",
+     "text": "dein Zustand (Mann) – dein Zustand (Frau)"
+    },
+    {
+     "a": "wālida",
+     "b": "wālidatuh",
+     "text": "eine Mutter – seine Mutter (ة wird t)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "ism + mein",
+     "antworten": [
+      "ismī",
+      "ismuk",
+      "ismuh"
+     ]
+    },
+    {
+     "formel": "ḥāl + dein (Mann)",
+     "antworten": [
+      "ḥāluk",
+      "ḥāluki",
+      "ḥālī"
+     ]
+    },
+    {
+     "formel": "wālid + sein",
+     "antworten": [
+      "wāliduh",
+      "wālidī",
+      "wālidat"
+     ]
+    },
+    {
+     "formel": "ʿarabiyya + mein",
+     "antworten": [
+      "ʿarabiyyatī",
+      "ʿarabiyyaī",
+      "ʿarabiyyuk"
+     ]
+    },
+    {
+     "formel": "bi + dir (Frau)",
+     "antworten": [
+      "biki",
+      "bik",
+      "bihā"
+     ]
+    },
+    {
+     "formel": "kitāb + unser",
+     "antworten": [
+      "kitābunā",
+      "kitābuk",
+      "kitābī"
+     ]
+    }
+   ],
+   "hoeren_frage": "Welcher Satz hat kein Verb, nur Nomen und Suffix?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "كَيْفَ حَالُك؟ – بِخَيْر، وَأَنْت؟",
+       "de": "Wie geht es dir? – Gut, und dir?",
+       "gloss": "كَيْفَ حَال·ُك؟ – بِ·خَيْر، وَ·أَنْت؟ | wie Zustand·dein? – in·Gutes, und·du?",
+       "umschrift": "kayfa ḥāluk? – bi-khayr, wa-anta?",
+       "audio": "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5"
+      },
+      {
+       "fr": "أُحِبُّ التَّحَدُّثَ بِالعَرَبِيَّة، لَكِنْ بِبُطْء.",
+       "de": "Ich spreche gern Arabisch, aber langsam.",
+       "gloss": "أُحِبّ·ُ ال·تَحَدُّث بِ·ال·عَرَبِيَّة، لَكِنْ بِ·بُطْء. | lieben·1SG DEF·Sprechen in·DEF·Arabisch, aber mit·Langsamkeit.",
+       "umschrift": "uḥibbu t-taḥadduth bil-ʿarabiyya, lākin bi-buṭʾ.",
+       "audio": "audio/ar-de/saetze/ta_06.mp3?v=46c6da3a"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "فَهِمْت، شُكْرًا لَكِ. سَأَتَكَلَّمُ مَعَ سَامِي.",
+       "de": "Verstanden, ich danke Ihnen. Ich werde mit Sāmī sprechen.",
+       "gloss": "فَهِم·ْت، شُكْرًا لَ·كِ. سَ·أَتَكَلَّم مَعَ سَامِي. | verstehen·1SG, Dank für·Sie.F. FUT·spreche.1SG mit Sāmī.",
+       "umschrift": "fahimt, shukran laki. sa-atakallam maʿa Sāmī.",
+       "audio": "audio/ar-de/saetze/ta_22.mp3?v=ad8e36bd"
+      },
+      {
+       "fr": "عَرَبِيَّتِي مَا زَالَتْ قَلِيلَة، لَكِنِّي أَتَعَلَّم.",
+       "de": "Mein Arabisch ist noch wenig, aber ich lerne.",
+       "gloss": "عَرَبِيَّت·ِي مَا زَال·َتْ قَلِيلَة، لَكِنّ·ِي أَتَعَلَّم. | Arabisch·mein nicht aufhören·3SG.F wenig.F, aber·ich lerne.1SG.",
+       "umschrift": "ʿarabiyyatī mā zālat qalīla, lākinnī ataʿallam.",
+       "audio": "audio/ar-de/saetze/ta_21.mp3?v=b8a50a07"
+      }
+     ],
+     "richtig": 1
+    },
+    {
+     "saetze": [
+      {
+       "fr": "أَنَا وَالِدَةُ سَامِي، وَالِدُهُ فِي العَمَل.",
+       "de": "Ich bin die Mutter von Sāmī, sein Vater ist bei der Arbeit.",
+       "gloss": "أَنَا وَالِدَة·ُ سَامِي، وَالِد·ُهُ فِي ال·عَمَل. | ich Mutter·GEN Sāmī, Vater·sein in DEF·Arbeit.",
+       "umschrift": "anā wālidat Sāmī, wāliduh fī l-ʿamal.",
+       "audio": "audio/ar-de/saetze/ta_18.mp3?v=204a5bf0"
+      },
+      {
+       "fr": "سَامِي يَجْتَهِدُ كَثِيرًا، أَلْمَانِيَّتُهُ جَيِّدَة.",
+       "de": "Sāmī strengt sich sehr an, sein Deutsch ist gut.",
+       "gloss": "سَامِي يَجْتَهِد كَثِيرًا، أَلْمَانِيَّت·ُهُ جَيِّدَة. | Sāmī strengt.sich.an viel, Deutsch·sein gut.F.",
+       "umschrift": "Sāmī yajtahid kathīran, almāniyyatuh jayyida.",
+       "audio": "audio/ar-de/saetze/ta_20.mp3?v=14d2f977"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "أَنَا مُعَلِّمُ سَامِي لِلأَلْمَانِيَّة.",
+       "de": "Ich bin der Deutschlehrer von Sāmī.",
+       "gloss": "أَنَا مُعَلِّم·ُ سَامِي لِ·ال·أَلْمَانِيَّة. | ich Lehrer·GEN Sāmī für·DEF·Deutsch.",
+       "umschrift": "anā muʿallim Sāmī lil-almāniyya.",
+       "audio": "audio/ar-de/saetze/ta_17.mp3?v=d8e97886"
+      },
+      {
+       "fr": "هَلْ تُرِيدِينَ قَهْوَة؟ – مِنْ فَضْلِك، بِدُونِ سُكَّر.",
+       "de": "Möchten Sie Kaffee? – Gern, ohne Zucker.",
+       "gloss": "هَلْ تُرِيد·ِينَ قَهْوَة؟ – مِنْ فَضْل·ِك، بِ·دُونِ سُكَّر. | FRAGE willst·2SG.F Kaffee? – aus Güte·Ihr, mit·ohne Zucker.",
+       "umschrift": "hal turīdīn qahwa? – min faḍlik, bidūn sukkar.",
+       "audio": "audio/ar-de/saetze/ta_19.mp3?v=40040901"
+      }
+     ],
+     "richtig": 0
+    }
+   ]
+  }
+ ],
  "geschichte_info": {
   "titel": "سِرُّ الجَامِعِ الأُمَوِيّ",
   "unter": "مُعَلِّمٌ فِي دِمَشْق، تَذْكِرَةٌ قَدِيمَة، وَقِطٌّ يَعْرِفُ كُلَّ شَيْء.",
@@ -4157,6 +5240,26 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/aswat3/tm_04.mp3?v=e2de7425",
   "audio/ar-de/aswat3/tm_05.mp3?v=5e47e359",
   "audio/ar-de/aswat3/tm_06.mp3?v=85dc7d96",
+  "audio/ar-de/dialoge/d0a_01.mp3?v=f0291add",
+  "audio/ar-de/dialoge/d0a_02.mp3?v=6f730b3f",
+  "audio/ar-de/dialoge/d0a_03.mp3?v=350629e7",
+  "audio/ar-de/dialoge/d0a_04.mp3?v=e60833a3",
+  "audio/ar-de/dialoge/d0a_05.mp3?v=48c3aeae",
+  "audio/ar-de/dialoge/d0a_06.mp3?v=0ff0bada",
+  "audio/ar-de/dialoge/d0a_07.mp3?v=739ffc9c",
+  "audio/ar-de/dialoge/d0a_08.mp3?v=bbf22ba6",
+  "audio/ar-de/dialoge/d0a_09.mp3?v=79578e84",
+  "audio/ar-de/dialoge/d0a_10.mp3?v=f9dcef1e",
+  "audio/ar-de/dialoge/d0b_01.mp3?v=b064cab0",
+  "audio/ar-de/dialoge/d0b_02.mp3?v=447d1d9d",
+  "audio/ar-de/dialoge/d0b_03.mp3?v=924c554c",
+  "audio/ar-de/dialoge/d0b_04.mp3?v=b96fd583",
+  "audio/ar-de/dialoge/d0b_05.mp3?v=d6de9c0c",
+  "audio/ar-de/dialoge/d0b_06.mp3?v=282229b7",
+  "audio/ar-de/dialoge/d0b_07.mp3?v=8f7444b2",
+  "audio/ar-de/dialoge/d0b_08.mp3?v=30118ba9",
+  "audio/ar-de/dialoge/d0b_09.mp3?v=976b1695",
+  "audio/ar-de/dialoge/d0b_10.mp3?v=58f9c431",
   "audio/ar-de/huruf/alif.mp3?v=c3018b70",
   "audio/ar-de/huruf/alif_w.mp3?v=ea7bf650",
   "audio/ar-de/huruf/ayn.mp3?v=887ac00f",
@@ -4253,6 +5356,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/lob/stark_muallim.mp3?v=e2813d9b",
   "audio/ar-de/lob/stark_qalb.mp3?v=570cc803",
   "audio/ar-de/lob/stark_silsila.mp3?v=b1c70c5f",
+  "audio/ar-de/saetze/ta_01.mp3?v=6123a137",
+  "audio/ar-de/saetze/ta_02.mp3?v=cf05178f",
+  "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5",
+  "audio/ar-de/saetze/ta_04.mp3?v=b0f3da62",
+  "audio/ar-de/saetze/ta_05.mp3?v=9b304244",
+  "audio/ar-de/saetze/ta_06.mp3?v=46c6da3a",
+  "audio/ar-de/saetze/ta_07.mp3?v=595e2dfc",
+  "audio/ar-de/saetze/ta_08.mp3?v=132b6ceb",
+  "audio/ar-de/saetze/ta_09.mp3?v=220476cb",
+  "audio/ar-de/saetze/ta_10.mp3?v=335171f1",
+  "audio/ar-de/saetze/ta_11.mp3?v=757a1b94",
+  "audio/ar-de/saetze/ta_12.mp3?v=6c66f8b0",
+  "audio/ar-de/saetze/ta_13.mp3?v=50d92a3d",
+  "audio/ar-de/saetze/ta_14.mp3?v=a8794c53",
+  "audio/ar-de/saetze/ta_15.mp3?v=93b5be38",
+  "audio/ar-de/saetze/ta_16.mp3?v=a10be320",
+  "audio/ar-de/saetze/ta_17.mp3?v=d8e97886",
+  "audio/ar-de/saetze/ta_18.mp3?v=204a5bf0",
+  "audio/ar-de/saetze/ta_19.mp3?v=40040901",
+  "audio/ar-de/saetze/ta_20.mp3?v=14d2f977",
+  "audio/ar-de/saetze/ta_21.mp3?v=b8a50a07",
+  "audio/ar-de/saetze/ta_22.mp3?v=ad8e36bd",
+  "audio/ar-de/saetze/ta_23.mp3?v=3e394da0",
+  "audio/ar-de/saetze/ta_24.mp3?v=f479ae4e",
   "audio/ar-de/spiel/feuer.mp3?v=4a005ce1",
   "audio/ar-de/spiel/fini.mp3?v=dcdf20d0",
   "audio/ar-de/spiel/monat.mp3?v=281d1a80",
@@ -4262,6 +5389,54 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/spiel/titel_4.mp3?v=531ae489",
   "audio/ar-de/spiel/titel_5.mp3?v=c46d1836",
   "audio/ar-de/spiel/titel_6.mp3?v=2d3db4b0",
-  "audio/ar-de/spiel/woche.mp3?v=72c5bf23"
+  "audio/ar-de/spiel/woche.mp3?v=72c5bf23",
+  "audio/ar-de/syrisch/ta_01.mp3?v=299cc310",
+  "audio/ar-de/syrisch/ta_02.mp3?v=1e22b30d",
+  "audio/ar-de/syrisch/ta_03.mp3?v=c958cdf6",
+  "audio/ar-de/syrisch/ta_04.mp3?v=d87c1ec0",
+  "audio/ar-de/syrisch/ta_05.mp3?v=ce175582",
+  "audio/ar-de/syrisch/ta_06.mp3?v=5df97092",
+  "audio/ar-de/syrisch/ta_07.mp3?v=34921651",
+  "audio/ar-de/syrisch/ta_08.mp3?v=a4de1c52",
+  "audio/ar-de/syrisch/ta_09.mp3?v=0114886b",
+  "audio/ar-de/syrisch/ta_10.mp3?v=bfbefcab",
+  "audio/ar-de/syrisch/ta_11.mp3?v=b6752b0b",
+  "audio/ar-de/syrisch/ta_12.mp3?v=10ad7f1a",
+  "audio/ar-de/syrisch/ta_13.mp3?v=21dd6e5b",
+  "audio/ar-de/syrisch/ta_14.mp3?v=05352cfa",
+  "audio/ar-de/syrisch/ta_15.mp3?v=3f59222b",
+  "audio/ar-de/syrisch/ta_16.mp3?v=19d686ef",
+  "audio/ar-de/syrisch/ta_17.mp3?v=9a900bcf",
+  "audio/ar-de/syrisch/ta_18.mp3?v=fe209cb7",
+  "audio/ar-de/syrisch/ta_19.mp3?v=45dcefe2",
+  "audio/ar-de/syrisch/ta_20.mp3?v=ce5d466c",
+  "audio/ar-de/syrisch/ta_21.mp3?v=ffe8eb75",
+  "audio/ar-de/syrisch/ta_22.mp3?v=9e25c115",
+  "audio/ar-de/syrisch/ta_23.mp3?v=a728dec3",
+  "audio/ar-de/syrisch/ta_24.mp3?v=039dec19",
+  "audio/ar-de/wendungen/ta_01.mp3?v=3f5e2ddc",
+  "audio/ar-de/wendungen/ta_02.mp3?v=368d4d85",
+  "audio/ar-de/wendungen/ta_03.mp3?v=20ca843b",
+  "audio/ar-de/wendungen/ta_04.mp3?v=62a137fc",
+  "audio/ar-de/wendungen/ta_05.mp3?v=d26d9a05",
+  "audio/ar-de/wendungen/ta_06.mp3?v=74141d45",
+  "audio/ar-de/wendungen/ta_07.mp3?v=f4d6befb",
+  "audio/ar-de/wendungen/ta_08.mp3?v=2a19c833",
+  "audio/ar-de/wendungen/ta_09.mp3?v=052d976d",
+  "audio/ar-de/wendungen/ta_10.mp3?v=e11400f6",
+  "audio/ar-de/wendungen/ta_11.mp3?v=ea7e6b8d",
+  "audio/ar-de/wendungen/ta_12.mp3?v=495f5ef4",
+  "audio/ar-de/wendungen/ta_13.mp3?v=4bb8e167",
+  "audio/ar-de/wendungen/ta_14.mp3?v=f58bed18",
+  "audio/ar-de/wendungen/ta_15.mp3?v=01e9b354",
+  "audio/ar-de/wendungen/ta_16.mp3?v=bca9334a",
+  "audio/ar-de/wendungen/ta_17.mp3?v=5cc1aa89",
+  "audio/ar-de/wendungen/ta_18.mp3?v=ed2bf672",
+  "audio/ar-de/wendungen/ta_19.mp3?v=efcd871d",
+  "audio/ar-de/wendungen/ta_20.mp3?v=82371588",
+  "audio/ar-de/wendungen/ta_21.mp3?v=115e5c71",
+  "audio/ar-de/wendungen/ta_22.mp3?v=25f27a15",
+  "audio/ar-de/wendungen/ta_23.mp3?v=939402d7",
+  "audio/ar-de/wendungen/ta_24.mp3?v=707de6ef"
  ]
 };

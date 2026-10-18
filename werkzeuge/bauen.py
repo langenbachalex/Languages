@@ -146,7 +146,8 @@ def daten_fuer(P):
                     return {"fr": a["fr"].replace("**", ""), "de": a["de"], "gloss": None, "umschrift": a["umschrift"], "audio": a["audio"]}
         raise KeyError(f"{paar} Grammatik: Satz {qid} unbekannt")
     grammatik = []
-    for z in (tsv(inhalte, "dilbilgisi.tsv") if os.path.exists(os.path.join(inhalte, "dilbilgisi.tsv")) else []):
+    gdatei = getattr(P, "GRAMMATIK_DATEI", "dilbilgisi.tsv")
+    for z in (tsv(inhalte, gdatei) if os.path.exists(os.path.join(inhalte, gdatei)) else []):
         assert any(t["id"] == z["thema"] for t in themen), f"{paar} Grammatik {z['id']}: Thema {z['thema']} fehlt"
         beispiele = [dict(quelle(e.split("=", 1)[0]), hinweis=e.split("=", 1)[1]) for e in z["beispiele"].split(";") if e]
         kontrast = [dict(zip(["a", "b", "text"], k.split("|"))) for k in z["kontrast"].split(";") if k]
