@@ -124,7 +124,7 @@ AUSSPRACHE = [{
 
 # Karte: Syrien und Saudi-Arabien (folgt), Start Damaskus, Einschub Damaskus-Altstadt
 KARTE = {"name": "سُورِيَا وَالسُّعُودِيَّة", "einheit": "مُحَافَظَة", "lieux": "مَكَان", "start": "دِمَشْق",
-         "quelle": "Karte: Natural Earth (gemeinfrei).",
+         "quelle": "الخَرِيطَة: Natural Earth (مِلْكٌ عَامّ)، 13 مُحَافَظَة سُورِيَّة وَ13 مِنْطَقَة سُعُودِيَّة.",
          "badge": "رِحْلَة الشَّام",
          "hinweis": ["كُلُّ جَلْسَةٍ وَكُلُّ جُزْءٍ يَفْتَحُ مَكَانًا، اِبْتِدَاءً مِنْ دِمَشْق. اِلْمِسْ مَكَانًا!",
                      "Jede fertige Sitzung und jeder fertige Teil schalten einen Ort frei, Start in Damaskus. Tipp auf einen Ort!"]}
