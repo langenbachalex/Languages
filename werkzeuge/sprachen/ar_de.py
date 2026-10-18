@@ -50,7 +50,32 @@ SCHRIFT = {"datei": "huruf.tsv", "symbol": "✍️", "titel": "الحُرُوف"
 
 # Lautmodule (folgen): neue Konsonanten · Länge und Verdopplung · Hamza und Wortenden
 TRAEGERSATZ = "اِسْمَعْ جَيِّدًا: {wort}."
-AUSSPRACHE = []
+AUSSPRACHE = [{
+    "id": "aswat1", "symbol": "🗣️", "titel": "الحُرُوف الجَدِيدَة",
+    "unter": "ص ض ط ظ · ع ح · ق غ – اِسْمَعْ، مَيِّزْ، اِثْنَانِ فِي كَلِمَة",
+    "datei": "aswat1.tsv",
+    "klaenge": {"sad": ["ص", "ṣ", "s مُفَخَّم", "dumpfes s: Zunge breit, Rachen eng, der Vokel daneben wird dunkel (wie in « ṣabāḥ »)"],
+                "dad": ["ض", "ḍ", "d مُفَخَّم", "dumpfes d, derselbe Rachen (wie in « ḍayf »)"],
+                "ta": ["ط", "ṭ", "t مُفَخَّم", "dumpfes t, ohne Hauch (wie in « ṭālib »)"],
+                "za": ["ظ", "ẓ", "ذ مُفَخَّم", "dumpfes stimmhaftes th (wie in « ẓuhr »)"],
+                "ayn": ["ع", "ʿ", "مِنَ الحَلْق", "Presslaut aus der Kehle, wie ein gepresstes a (wie in « ʿayn »)"],
+                "hha": ["ح", "ḥ", "مِنَ الحَلْق، بِلا صَوْت", "scharfes h tief aus der Kehle, wie beim Anhauchen einer Brille (wie in « ḥubb »)"],
+                "qaf": ["ق", "q", "مِنَ اللَّهَاة", "k ganz hinten am Zäpfchen (wie in « qalb »)"],
+                "ghayn": ["غ", "gh", "مِثْلَ r الفَرَنْسِيَّة", "Gaumen-r wie im Französischen « Paris » (wie in « ghurfa »)"],
+                "s": ["س", "s", "s عَادِي", "normales scharfes s"], "k": ["ك", "k", "k عَادِي", "normales k"],
+                "h": ["ه", "h", "h عَادِي", "normales h wie in « Haus »"], "hamza": ["ء", "ʾ", "هَمْزَة", "Stimmabsatz wie in « be-achten »"]},
+    "reihe": ["sad", "dad", "ta", "za", "ayn", "hha", "qaf", "ghayn"],
+    "paare": [["p1", "س أَمْ ص؟"], ["p2", "ك أَمْ ق؟"], ["p3", "ه، ح أَمْ ع؟"]],
+    "beide_name": "👑 اِثْنَانِ مَعًا",
+    "texte": {
+        "beide": ["صَوْتَانِ فِي كَلِمَة. اِسْمَعْ بِبُطْءٍ ثُمَّ بِسُرْعَةٍ عَادِيَّة – وَكَرِّرْ كُلَّ صَوْتٍ بِوُضُوح.",
+                  "Zwei Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."],
+        "klang": ["{laut} – {tipp}. اِسْمَعْ بِبُطْءٍ ثُمَّ عَادِيًّا. كَرِّر!", "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"],
+        "paar": ["اِسْمَعِ الكَلِمَة. أَيُّهُمَا هِيَ؟ اِلْمِسِ الصَّحِيحَة.", "Hör das Wort. Welches ist es? Tipp auf das richtige."],
+        "hilfe": ["أُسَاعِدُك: {a}. اِسْمَعْ مَرَّةً أُخْرَى!", "Ich helfe dir: {a}. Hör noch mal!"],
+        "beide_hoeren": ["أَسْهَل: اِسْمَعِ الاثْنَيْن", "Noch einfacher: beide hören"],
+    },
+}]
 
 # Karte: Syrien und Saudi-Arabien (folgt), Start Damaskus, Einschub Damaskus-Altstadt
 KARTE = {"name": "سُورِيَا وَالسُّعُودِيَّة", "einheit": "مُحَافَظَة", "lieux": "مَكَان", "start": "دِمَشْق",

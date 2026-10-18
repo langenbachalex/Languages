@@ -1,0 +1,71 @@
+id	teil	klang	wort	de	partner	umschrift	syrien
+sad_01	klang	sad	صَبَاح	Morgen		ṣabāḥ	
+sad_02	klang	sad	صَدِيق	Freund		ṣadīq	
+sad_03	klang	sad	صَفّ	Klasse, Reihe		ṣaff	
+sad_04	klang	sad	صَوْت	Stimme, Laut		ṣawt	
+sad_05	klang	sad	صَغِير	klein		ṣaghīr	Syrisch: zghīr.
+sad_06	klang	sad	صُورَة	Bild		ṣūra	
+dad_01	klang	dad	ضَيْف	Gast		ḍayf	
+dad_02	klang	dad	ضَوْء	Licht		ḍawʾ	
+dad_03	klang	dad	ضَحِك	Lachen		ḍaḥik	
+dad_04	klang	dad	أَرْض	Erde, Boden		arḍ	
+dad_05	klang	dad	بَيْض	Eier		bayḍ	
+dad_06	klang	dad	رِضَا	Zufriedenheit		riḍā	
+ta_01	klang	ta	طَالِب	Student, Schüler		ṭālib	
+ta_02	klang	ta	طَوِيل	lang, groß		ṭawīl	
+ta_03	klang	ta	طَبِيب	Arzt		ṭabīb	
+ta_04	klang	ta	مَطَر	Regen		maṭar	
+ta_05	klang	ta	بَطَل	Held		baṭal	
+ta_06	klang	ta	خَطّ	Schrift, Linie		khaṭṭ	
+za_01	klang	za	ظُهْر	Mittag		ẓuhr	Syrisch: ḍuhr.
+za_02	klang	za	ظِلّ	Schatten		ẓill	
+za_03	klang	za	نَظَر	Blick		naẓar	
+za_04	klang	za	عَظِيم	großartig		ʿaẓīm	Syrisch: ʿazīm.
+za_05	klang	za	حَظّ	Glück		ḥaẓẓ	
+za_06	klang	za	مَنْظَر	Aussicht		manẓar	
+ayn_01	klang	ayn	عَيْن	Auge, Quelle		ʿayn	
+ayn_02	klang	ayn	عِلْم	Wissen		ʿilm	
+ayn_03	klang	ayn	عَرَبِيّ	arabisch		ʿarabī	
+ayn_04	klang	ayn	مُعَلِّم	Lehrer		muʿallim	
+ayn_05	klang	ayn	سَعِيد	glücklich		saʿīd	
+ayn_06	klang	ayn	بَاعَ	er verkaufte		bāʿa	
+hha_01	klang	hha	حُبّ	Liebe		ḥubb	
+hha_02	klang	hha	حَال	Zustand (kīf al-ḥāl?)		ḥāl	
+hha_03	klang	hha	بَحْر	Meer		baḥr	
+hha_04	klang	hha	حَلِيب	Milch		ḥalīb	
+hha_05	klang	hha	حَرّ	Hitze		ḥarr	
+hha_06	klang	hha	رُوح	Seele		rūḥ	
+qaf_01	klang	qaf	قَلْب	Herz		qalb	Syrisch: ʾalb (Stimmabsatz statt q).
+qaf_02	klang	qaf	قَهْوَة	Kaffee		qahwa	Syrisch: ʾahwe.
+qaf_03	klang	qaf	قِطّ	Kater		qiṭṭ	Syrisch: biss / bisse.
+qaf_04	klang	qaf	سُوق	Markt		sūq	Syrisch: sūʾ.
+qaf_05	klang	qaf	وَقْت	Zeit		waqt	Syrisch: waʾt.
+qaf_06	klang	qaf	قَمَر	Mond		qamar	Syrisch: ʾamar.
+ghayn_01	klang	ghayn	غُرْفَة	Zimmer		ghurfa	Syrisch: ʾūḍa.
+ghayn_02	klang	ghayn	غَدًا	morgen		ghadan	Syrisch: bukra.
+ghayn_03	klang	ghayn	غَرْب	Westen		gharb	
+ghayn_04	klang	ghayn	لُغَة	Sprache		lugha	
+ghayn_05	klang	ghayn	بَغْدَاد	Bagdad		Baghdād	
+ghayn_06	klang	ghayn	مَغْرِب	Abend, Sonnenuntergang		maghrib	
+p1_01a	paar	s	سَيْف	Schwert	p1_01b	sayf	
+p1_01b	paar	sad	صَيْف	Sommer	p1_01a	ṣayf	
+p1_02a	paar	s	سَار	er ging	p1_02b	sāra	
+p1_02b	paar	sad	صَار	er wurde	p1_02a	ṣāra	
+p1_03a	paar	s	نَسْر	Adler	p1_03b	nasr	
+p1_03b	paar	sad	نَصْر	Sieg	p1_03a	naṣr	
+p2_01a	paar	k	كَلْب	Hund	p2_01b	kalb	
+p2_01b	paar	qaf	قَلْب	Herz	p2_01a	qalb	
+p2_02a	paar	k	كَدَر	Trübsal	p2_02b	kadar	
+p2_02b	paar	qaf	قَدَر	Schicksal	p2_02a	qadar	
+p2_03a	paar	k	شَكّ	Zweifel	p2_03b	shakk	
+p2_03b	paar	qaf	شَقّ	Riss	p2_03a	shaqq	
+p3_01a	paar	h	نَهْر	Fluss	p3_01b	nahr	
+p3_01b	paar	hha	نَحْر	Kehle	p3_01a	naḥr	
+p3_02a	paar	h	هَال	Kardamom	p3_02b	hāl	
+p3_02b	paar	hha	حَال	Zustand	p3_02a	ḥāl	
+p3_03a	paar	hamza	أَمَل	Hoffnung	p3_03b	amal	
+p3_03b	paar	ayn	عَمَل	Arbeit	p3_03a	ʿamal	
+b_01	beide	sad,hha	{sad|صَ}{hha|حِ}يح	richtig		ṣaḥīḥ	
+b_02	beide	hha,qaf	{hha|حَ}{qaf|قّ}	Recht, Wahrheit		ḥaqq	
+b_03	beide	ta,qaf	{ta|طَ}{qaf|قْ}س	Wetter		ṭaqs	
+b_04	beide	ayn,za	{ayn|عَ}{za|ظِ}يم	großartig		ʿaẓīm	

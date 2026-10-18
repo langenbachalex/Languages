@@ -52,7 +52,29 @@ GESCHICHTE = {"titel": "Boğaz'ın sırrı",
 
 # Aussprache-Modul: später (ı / i, ö / ü, weiches ğ, Betonung); Einzelwörter im Trägersatz
 TRAEGERSATZ = "İyi dinle: {wort}."
-AUSSPRACHE = None
+AUSSPRACHE = {
+    "id": "sesler", "symbol": "👄", "titel": "Sesler",
+    "unter": "ı · ö · ü · ğ – dinle, ayırt et, bir kelimede ikisi",
+    "datei": "sesler.tsv",
+    "klaenge": {"i": ["[ɯ]", "ı", "i gibi ama dil geride, dudaklar düz", "wie ein i, aber Zunge hinten, Lippen flach (wie in « kız »)"],
+                "oe": ["[ø]", "ö", "Almanca ö gibi", "wie deutsches ö (wie in « göz »)"],
+                "ue": ["[y]", "ü", "Almanca ü gibi", "wie deutsches ü (wie in « gül »)"],
+                "g": ["[ː]", "ğ", "sessiz: önceki ünlüyü uzatır", "stumm: dehnt den Vokal davor (wie in « dağ »)"],
+                "ii": ["[i]", "i", "Almanca i gibi", "wie deutsches i"],
+                "o": ["[o]", "o", "Almanca o gibi", "wie deutsches o"],
+                "u": ["[u]", "u", "Almanca u gibi", "wie deutsches u"]},
+    "reihe": ["i", "oe", "ue", "g"],
+    "paare": [["p1", "ı mı i mi?"], ["p2", "ö mü o mu?"], ["p3", "ü mü u mu?"]],
+    "beide_name": "👑 İkisi birden",
+    "texte": {
+        "beide": ["Bir kelimede iki ses. Önce yavaş, sonra normal dinle – ve her sesi temiz tekrarla.",
+                  "Zwei Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."],
+        "klang": ["{laut} – {tipp}. Önce yavaş, sonra normal dinle. Tekrarla!", "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"],
+        "paar": ["Kelimeyi dinle. Hangisi? Doğrusuna dokun.", "Hör das Wort. Welches ist es? Tipp auf das richtige."],
+        "hilfe": ["Yardım: {a}. Bir daha dinle!", "Ich helfe dir: {a}. Hör noch mal!"],
+        "beide_hoeren": ["Daha kolay: ikisini de dinle", "Noch einfacher: beide hören"],
+    },
+}
 
 # Karte: Türkei mit 81 İl (Natural Earth, gemeinfrei), Istanbul als mehrere Stationen, Start Istanbul
 KARTE = {"name": "Türkiye", "einheit": "il", "lieux": "yer", "start": "İstanbul",

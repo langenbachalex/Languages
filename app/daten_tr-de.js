@@ -7962,20 +7962,1109 @@ window.SPRACHEN["tr-de"] = {
   "Dialoge mit Cem"
  ],
  "aussprache": {
-  "id": "",
-  "symbol": "",
-  "titel": "",
-  "unter": "",
-  "info": {},
-  "reihe": [],
-  "paare_gruppen": [],
-  "beide_name": "",
-  "texte": {},
-  "klaenge": {},
-  "paare": [],
-  "beide": []
+  "id": "sesler",
+  "symbol": "👄",
+  "titel": "Sesler",
+  "unter": "ı · ö · ü · ğ – dinle, ayırt et, bir kelimede ikisi",
+  "info": {
+   "i": [
+    "[ɯ]",
+    "ı",
+    "i gibi ama dil geride, dudaklar düz",
+    "wie ein i, aber Zunge hinten, Lippen flach (wie in « kız »)"
+   ],
+   "oe": [
+    "[ø]",
+    "ö",
+    "Almanca ö gibi",
+    "wie deutsches ö (wie in « göz »)"
+   ],
+   "ue": [
+    "[y]",
+    "ü",
+    "Almanca ü gibi",
+    "wie deutsches ü (wie in « gül »)"
+   ],
+   "g": [
+    "[ː]",
+    "ğ",
+    "sessiz: önceki ünlüyü uzatır",
+    "stumm: dehnt den Vokal davor (wie in « dağ »)"
+   ],
+   "ii": [
+    "[i]",
+    "i",
+    "Almanca i gibi",
+    "wie deutsches i"
+   ],
+   "o": [
+    "[o]",
+    "o",
+    "Almanca o gibi",
+    "wie deutsches o"
+   ],
+   "u": [
+    "[u]",
+    "u",
+    "Almanca u gibi",
+    "wie deutsches u"
+   ]
+  },
+  "reihe": [
+   "i",
+   "oe",
+   "ue",
+   "g"
+  ],
+  "paare_gruppen": [
+   [
+    "p1",
+    "ı mı i mi?"
+   ],
+   [
+    "p2",
+    "ö mü o mu?"
+   ],
+   [
+    "p3",
+    "ü mü u mu?"
+   ]
+  ],
+  "beide_name": "👑 İkisi birden",
+  "texte": {
+   "beide": [
+    "Bir kelimede iki ses. Önce yavaş, sonra normal dinle – ve her sesi temiz tekrarla.",
+    "Zwei Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."
+   ],
+   "klang": [
+    "{laut} – {tipp}. Önce yavaş, sonra normal dinle. Tekrarla!",
+    "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"
+   ],
+   "paar": [
+    "Kelimeyi dinle. Hangisi? Doğrusuna dokun.",
+    "Hör das Wort. Welches ist es? Tipp auf das richtige."
+   ],
+   "hilfe": [
+    "Yardım: {a}. Bir daha dinle!",
+    "Ich helfe dir: {a}. Hör noch mal!"
+   ],
+   "beide_hoeren": [
+    "Daha kolay: ikisini de dinle",
+    "Noch einfacher: beide hören"
+   ]
+  },
+  "klaenge": {
+   "i": [
+    {
+     "id": "i_01",
+     "wort": "kız",
+     "de": "Mädchen",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/i_01.mp3?v=3dc6cf37"
+    },
+    {
+     "id": "i_02",
+     "wort": "kısa",
+     "de": "kurz",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/i_02.mp3?v=f54b01a4"
+    },
+    {
+     "id": "i_03",
+     "wort": "ılık",
+     "de": "lauwarm",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/i_03.mp3?v=9247b9fb"
+    },
+    {
+     "id": "i_04",
+     "wort": "sıcak",
+     "de": "heiß",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/i_04.mp3?v=4ef1f43d"
+    },
+    {
+     "id": "i_05",
+     "wort": "altı",
+     "de": "sechs",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/i_05.mp3?v=5c480fb4"
+    },
+    {
+     "id": "i_06",
+     "wort": "yıl",
+     "de": "Jahr",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/i_06.mp3?v=8cfc1823"
+    }
+   ],
+   "oe": [
+    {
+     "id": "oe_01",
+     "wort": "göz",
+     "de": "Auge",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/oe_01.mp3?v=4dca4f62"
+    },
+    {
+     "id": "oe_02",
+     "wort": "söz",
+     "de": "Wort",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/oe_02.mp3?v=bbe697b5"
+    },
+    {
+     "id": "oe_03",
+     "wort": "köy",
+     "de": "Dorf",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/oe_03.mp3?v=d0b0c5a0"
+    },
+    {
+     "id": "oe_04",
+     "wort": "dört",
+     "de": "vier",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/oe_04.mp3?v=6a9c96a1"
+    },
+    {
+     "id": "oe_05",
+     "wort": "ördek",
+     "de": "Ente",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/oe_05.mp3?v=081ee6af"
+    },
+    {
+     "id": "oe_06",
+     "wort": "böyle",
+     "de": "so",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/oe_06.mp3?v=2f188102"
+    }
+   ],
+   "ue": [
+    {
+     "id": "ue_01",
+     "wort": "gül",
+     "de": "Rose",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/ue_01.mp3?v=7e2a06a7"
+    },
+    {
+     "id": "ue_02",
+     "wort": "üç",
+     "de": "drei",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/ue_02.mp3?v=fc25733d"
+    },
+    {
+     "id": "ue_03",
+     "wort": "süt",
+     "de": "Milch",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/ue_03.mp3?v=2a92c55a"
+    },
+    {
+     "id": "ue_04",
+     "wort": "güneş",
+     "de": "Sonne",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/ue_04.mp3?v=2f3d4e39"
+    },
+    {
+     "id": "ue_05",
+     "wort": "yüz",
+     "de": "Gesicht",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/ue_05.mp3?v=f891736c"
+    },
+    {
+     "id": "ue_06",
+     "wort": "üzüm",
+     "de": "Traube",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/ue_06.mp3?v=986a4678"
+    }
+   ],
+   "g": [
+    {
+     "id": "g_01",
+     "wort": "dağ",
+     "de": "Berg",
+     "klang": "g",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/g_01.mp3?v=bc77c30c"
+    },
+    {
+     "id": "g_02",
+     "wort": "yağ",
+     "de": "Öl",
+     "klang": "g",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/g_02.mp3?v=2b8ffdd7"
+    },
+    {
+     "id": "g_03",
+     "wort": "ağaç",
+     "de": "Baum",
+     "klang": "g",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/g_03.mp3?v=48695278"
+    },
+    {
+     "id": "g_04",
+     "wort": "soğuk",
+     "de": "kalt",
+     "klang": "g",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/g_04.mp3?v=09bd5c03"
+    },
+    {
+     "id": "g_05",
+     "wort": "doğru",
+     "de": "richtig",
+     "klang": "g",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/g_05.mp3?v=2e38395b"
+    },
+    {
+     "id": "g_06",
+     "wort": "öğle",
+     "de": "Mittag",
+     "klang": "g",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/g_06.mp3?v=a47715fa"
+    }
+   ]
+  },
+  "paare": [
+   {
+    "id": "p1_01a",
+    "wort": "kıl",
+    "de": "Haar",
+    "klang": "i",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p1_01a.mp3?v=0cc374ae",
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_01b",
+     "wort": "kil",
+     "de": "Ton (Erde)",
+     "klang": "ii",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p1_01b.mp3?v=05c0b9d8"
+    }
+   },
+   {
+    "id": "p1_02a",
+    "wort": "kır",
+    "de": "Land, Flur",
+    "klang": "i",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p1_02a.mp3?v=91e78b69",
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_02b",
+     "wort": "kir",
+     "de": "Schmutz",
+     "klang": "ii",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p1_02b.mp3?v=7289d54f"
+    }
+   },
+   {
+    "id": "p1_03a",
+    "wort": "ılık",
+    "de": "lauwarm",
+    "klang": "i",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p1_03a.mp3?v=c045ed7a",
+    "gruppe": "p1",
+    "b": {
+     "id": "p1_03b",
+     "wort": "ilik",
+     "de": "Knochenmark",
+     "klang": "ii",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p1_03b.mp3?v=7a4c0d75"
+    }
+   },
+   {
+    "id": "p2_01a",
+    "wort": "kör",
+    "de": "blind",
+    "klang": "oe",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p2_01a.mp3?v=76ace4e9",
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_01b",
+     "wort": "kor",
+     "de": "Glut",
+     "klang": "o",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p2_01b.mp3?v=9e9385ef"
+    }
+   },
+   {
+    "id": "p2_02a",
+    "wort": "göl",
+    "de": "See",
+    "klang": "oe",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p2_02a.mp3?v=22210fdd",
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_02b",
+     "wort": "gol",
+     "de": "Tor (Fußball)",
+     "klang": "o",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p2_02b.mp3?v=09a22ba8"
+    }
+   },
+   {
+    "id": "p2_03a",
+    "wort": "ön",
+    "de": "vorne",
+    "klang": "oe",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p2_03a.mp3?v=34ea1ae4",
+    "gruppe": "p2",
+    "b": {
+     "id": "p2_03b",
+     "wort": "on",
+     "de": "zehn",
+     "klang": "o",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p2_03b.mp3?v=df790a28"
+    }
+   },
+   {
+    "id": "p3_01a",
+    "wort": "kül",
+    "de": "Asche",
+    "klang": "ue",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p3_01a.mp3?v=b32ff758",
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_01b",
+     "wort": "kul",
+     "de": "Diener",
+     "klang": "u",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p3_01b.mp3?v=2c2deafe"
+    }
+   },
+   {
+    "id": "p3_02a",
+    "wort": "düş",
+    "de": "Traum",
+    "klang": "ue",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p3_02a.mp3?v=d3541d0c",
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_02b",
+     "wort": "duş",
+     "de": "Dusche",
+     "klang": "u",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p3_02b.mp3?v=d3d7f570"
+    }
+   },
+   {
+    "id": "p3_03a",
+    "wort": "üç",
+    "de": "drei",
+    "klang": "ue",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/p3_03a.mp3?v=d8c6f5d8",
+    "gruppe": "p3",
+    "b": {
+     "id": "p3_03b",
+     "wort": "uç",
+     "de": "Spitze",
+     "klang": "u",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p3_03b.mp3?v=184e7376"
+    }
+   }
+  ],
+  "beide": [
+   {
+    "id": "b_01",
+    "wort": "öğrenci",
+    "de": "Schüler",
+    "klang": "oe,g",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/b_01.mp3?v=aad20f55",
+    "markup": "{oe|ö}{g|ğ}renci",
+    "klaenge": [
+     "oe",
+     "g"
+    ]
+   },
+   {
+    "id": "b_02",
+    "wort": "gülümsemek",
+    "de": "lächeln",
+    "klang": "ue,ue",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/b_02.mp3?v=737ec604",
+    "markup": "g{ue|ü}l{ue|ü}msemek",
+    "klaenge": [
+     "ue",
+     "ue"
+    ]
+   },
+   {
+    "id": "b_03",
+    "wort": "ılık",
+    "de": "lauwarm",
+    "klang": "i,i",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/b_03.mp3?v=1876361e",
+    "markup": "{i|ı}l{i|ı}k",
+    "klaenge": [
+     "i",
+     "i"
+    ]
+   },
+   {
+    "id": "b_04",
+    "wort": "öğretmen kütüphanede",
+    "de": "der Lehrer in der Bibliothek",
+    "klang": "oe,ue,g",
+    "umschrift": null,
+    "syrien": null,
+    "audio": "audio/tr-de/sesler/b_04.mp3?v=595f08d8",
+    "markup": "{oe|ö}{g|ğ}retmen k{ue|ü}t{ue|ü}phanede",
+    "klaenge": [
+     "oe",
+     "ue",
+     "g"
+    ]
+   }
+  ]
  },
- "aussprachen": [],
+ "aussprachen": [
+  {
+   "id": "sesler",
+   "symbol": "👄",
+   "titel": "Sesler",
+   "unter": "ı · ö · ü · ğ – dinle, ayırt et, bir kelimede ikisi",
+   "info": {
+    "i": [
+     "[ɯ]",
+     "ı",
+     "i gibi ama dil geride, dudaklar düz",
+     "wie ein i, aber Zunge hinten, Lippen flach (wie in « kız »)"
+    ],
+    "oe": [
+     "[ø]",
+     "ö",
+     "Almanca ö gibi",
+     "wie deutsches ö (wie in « göz »)"
+    ],
+    "ue": [
+     "[y]",
+     "ü",
+     "Almanca ü gibi",
+     "wie deutsches ü (wie in « gül »)"
+    ],
+    "g": [
+     "[ː]",
+     "ğ",
+     "sessiz: önceki ünlüyü uzatır",
+     "stumm: dehnt den Vokal davor (wie in « dağ »)"
+    ],
+    "ii": [
+     "[i]",
+     "i",
+     "Almanca i gibi",
+     "wie deutsches i"
+    ],
+    "o": [
+     "[o]",
+     "o",
+     "Almanca o gibi",
+     "wie deutsches o"
+    ],
+    "u": [
+     "[u]",
+     "u",
+     "Almanca u gibi",
+     "wie deutsches u"
+    ]
+   },
+   "reihe": [
+    "i",
+    "oe",
+    "ue",
+    "g"
+   ],
+   "paare_gruppen": [
+    [
+     "p1",
+     "ı mı i mi?"
+    ],
+    [
+     "p2",
+     "ö mü o mu?"
+    ],
+    [
+     "p3",
+     "ü mü u mu?"
+    ]
+   ],
+   "beide_name": "👑 İkisi birden",
+   "texte": {
+    "beide": [
+     "Bir kelimede iki ses. Önce yavaş, sonra normal dinle – ve her sesi temiz tekrarla.",
+     "Zwei Laute in einem Wort. Hör langsam, dann normal – und sprich jeden Laut sauber nach."
+    ],
+    "klang": [
+     "{laut} – {tipp}. Önce yavaş, sonra normal dinle. Tekrarla!",
+     "{laut} – {tipp}. Hör langsam, dann normal. Sprich nach!"
+    ],
+    "paar": [
+     "Kelimeyi dinle. Hangisi? Doğrusuna dokun.",
+     "Hör das Wort. Welches ist es? Tipp auf das richtige."
+    ],
+    "hilfe": [
+     "Yardım: {a}. Bir daha dinle!",
+     "Ich helfe dir: {a}. Hör noch mal!"
+    ],
+    "beide_hoeren": [
+     "Daha kolay: ikisini de dinle",
+     "Noch einfacher: beide hören"
+    ]
+   },
+   "klaenge": {
+    "i": [
+     {
+      "id": "i_01",
+      "wort": "kız",
+      "de": "Mädchen",
+      "klang": "i",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/i_01.mp3?v=3dc6cf37"
+     },
+     {
+      "id": "i_02",
+      "wort": "kısa",
+      "de": "kurz",
+      "klang": "i",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/i_02.mp3?v=f54b01a4"
+     },
+     {
+      "id": "i_03",
+      "wort": "ılık",
+      "de": "lauwarm",
+      "klang": "i",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/i_03.mp3?v=9247b9fb"
+     },
+     {
+      "id": "i_04",
+      "wort": "sıcak",
+      "de": "heiß",
+      "klang": "i",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/i_04.mp3?v=4ef1f43d"
+     },
+     {
+      "id": "i_05",
+      "wort": "altı",
+      "de": "sechs",
+      "klang": "i",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/i_05.mp3?v=5c480fb4"
+     },
+     {
+      "id": "i_06",
+      "wort": "yıl",
+      "de": "Jahr",
+      "klang": "i",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/i_06.mp3?v=8cfc1823"
+     }
+    ],
+    "oe": [
+     {
+      "id": "oe_01",
+      "wort": "göz",
+      "de": "Auge",
+      "klang": "oe",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/oe_01.mp3?v=4dca4f62"
+     },
+     {
+      "id": "oe_02",
+      "wort": "söz",
+      "de": "Wort",
+      "klang": "oe",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/oe_02.mp3?v=bbe697b5"
+     },
+     {
+      "id": "oe_03",
+      "wort": "köy",
+      "de": "Dorf",
+      "klang": "oe",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/oe_03.mp3?v=d0b0c5a0"
+     },
+     {
+      "id": "oe_04",
+      "wort": "dört",
+      "de": "vier",
+      "klang": "oe",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/oe_04.mp3?v=6a9c96a1"
+     },
+     {
+      "id": "oe_05",
+      "wort": "ördek",
+      "de": "Ente",
+      "klang": "oe",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/oe_05.mp3?v=081ee6af"
+     },
+     {
+      "id": "oe_06",
+      "wort": "böyle",
+      "de": "so",
+      "klang": "oe",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/oe_06.mp3?v=2f188102"
+     }
+    ],
+    "ue": [
+     {
+      "id": "ue_01",
+      "wort": "gül",
+      "de": "Rose",
+      "klang": "ue",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/ue_01.mp3?v=7e2a06a7"
+     },
+     {
+      "id": "ue_02",
+      "wort": "üç",
+      "de": "drei",
+      "klang": "ue",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/ue_02.mp3?v=fc25733d"
+     },
+     {
+      "id": "ue_03",
+      "wort": "süt",
+      "de": "Milch",
+      "klang": "ue",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/ue_03.mp3?v=2a92c55a"
+     },
+     {
+      "id": "ue_04",
+      "wort": "güneş",
+      "de": "Sonne",
+      "klang": "ue",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/ue_04.mp3?v=2f3d4e39"
+     },
+     {
+      "id": "ue_05",
+      "wort": "yüz",
+      "de": "Gesicht",
+      "klang": "ue",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/ue_05.mp3?v=f891736c"
+     },
+     {
+      "id": "ue_06",
+      "wort": "üzüm",
+      "de": "Traube",
+      "klang": "ue",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/ue_06.mp3?v=986a4678"
+     }
+    ],
+    "g": [
+     {
+      "id": "g_01",
+      "wort": "dağ",
+      "de": "Berg",
+      "klang": "g",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/g_01.mp3?v=bc77c30c"
+     },
+     {
+      "id": "g_02",
+      "wort": "yağ",
+      "de": "Öl",
+      "klang": "g",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/g_02.mp3?v=2b8ffdd7"
+     },
+     {
+      "id": "g_03",
+      "wort": "ağaç",
+      "de": "Baum",
+      "klang": "g",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/g_03.mp3?v=48695278"
+     },
+     {
+      "id": "g_04",
+      "wort": "soğuk",
+      "de": "kalt",
+      "klang": "g",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/g_04.mp3?v=09bd5c03"
+     },
+     {
+      "id": "g_05",
+      "wort": "doğru",
+      "de": "richtig",
+      "klang": "g",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/g_05.mp3?v=2e38395b"
+     },
+     {
+      "id": "g_06",
+      "wort": "öğle",
+      "de": "Mittag",
+      "klang": "g",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/g_06.mp3?v=a47715fa"
+     }
+    ]
+   },
+   "paare": [
+    {
+     "id": "p1_01a",
+     "wort": "kıl",
+     "de": "Haar",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p1_01a.mp3?v=0cc374ae",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_01b",
+      "wort": "kil",
+      "de": "Ton (Erde)",
+      "klang": "ii",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p1_01b.mp3?v=05c0b9d8"
+     }
+    },
+    {
+     "id": "p1_02a",
+     "wort": "kır",
+     "de": "Land, Flur",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p1_02a.mp3?v=91e78b69",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_02b",
+      "wort": "kir",
+      "de": "Schmutz",
+      "klang": "ii",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p1_02b.mp3?v=7289d54f"
+     }
+    },
+    {
+     "id": "p1_03a",
+     "wort": "ılık",
+     "de": "lauwarm",
+     "klang": "i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p1_03a.mp3?v=c045ed7a",
+     "gruppe": "p1",
+     "b": {
+      "id": "p1_03b",
+      "wort": "ilik",
+      "de": "Knochenmark",
+      "klang": "ii",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p1_03b.mp3?v=7a4c0d75"
+     }
+    },
+    {
+     "id": "p2_01a",
+     "wort": "kör",
+     "de": "blind",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p2_01a.mp3?v=76ace4e9",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_01b",
+      "wort": "kor",
+      "de": "Glut",
+      "klang": "o",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p2_01b.mp3?v=9e9385ef"
+     }
+    },
+    {
+     "id": "p2_02a",
+     "wort": "göl",
+     "de": "See",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p2_02a.mp3?v=22210fdd",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_02b",
+      "wort": "gol",
+      "de": "Tor (Fußball)",
+      "klang": "o",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p2_02b.mp3?v=09a22ba8"
+     }
+    },
+    {
+     "id": "p2_03a",
+     "wort": "ön",
+     "de": "vorne",
+     "klang": "oe",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p2_03a.mp3?v=34ea1ae4",
+     "gruppe": "p2",
+     "b": {
+      "id": "p2_03b",
+      "wort": "on",
+      "de": "zehn",
+      "klang": "o",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p2_03b.mp3?v=df790a28"
+     }
+    },
+    {
+     "id": "p3_01a",
+     "wort": "kül",
+     "de": "Asche",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p3_01a.mp3?v=b32ff758",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_01b",
+      "wort": "kul",
+      "de": "Diener",
+      "klang": "u",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p3_01b.mp3?v=2c2deafe"
+     }
+    },
+    {
+     "id": "p3_02a",
+     "wort": "düş",
+     "de": "Traum",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p3_02a.mp3?v=d3541d0c",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_02b",
+      "wort": "duş",
+      "de": "Dusche",
+      "klang": "u",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p3_02b.mp3?v=d3d7f570"
+     }
+    },
+    {
+     "id": "p3_03a",
+     "wort": "üç",
+     "de": "drei",
+     "klang": "ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/p3_03a.mp3?v=d8c6f5d8",
+     "gruppe": "p3",
+     "b": {
+      "id": "p3_03b",
+      "wort": "uç",
+      "de": "Spitze",
+      "klang": "u",
+      "umschrift": null,
+      "syrien": null,
+      "audio": "audio/tr-de/sesler/p3_03b.mp3?v=184e7376"
+     }
+    }
+   ],
+   "beide": [
+    {
+     "id": "b_01",
+     "wort": "öğrenci",
+     "de": "Schüler",
+     "klang": "oe,g",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/b_01.mp3?v=aad20f55",
+     "markup": "{oe|ö}{g|ğ}renci",
+     "klaenge": [
+      "oe",
+      "g"
+     ]
+    },
+    {
+     "id": "b_02",
+     "wort": "gülümsemek",
+     "de": "lächeln",
+     "klang": "ue,ue",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/b_02.mp3?v=737ec604",
+     "markup": "g{ue|ü}l{ue|ü}msemek",
+     "klaenge": [
+      "ue",
+      "ue"
+     ]
+    },
+    {
+     "id": "b_03",
+     "wort": "ılık",
+     "de": "lauwarm",
+     "klang": "i,i",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/b_03.mp3?v=1876361e",
+     "markup": "{i|ı}l{i|ı}k",
+     "klaenge": [
+      "i",
+      "i"
+     ]
+    },
+    {
+     "id": "b_04",
+     "wort": "öğretmen kütüphanede",
+     "de": "der Lehrer in der Bibliothek",
+     "klang": "oe,ue,g",
+     "umschrift": null,
+     "syrien": null,
+     "audio": "audio/tr-de/sesler/b_04.mp3?v=595f08d8",
+     "markup": "{oe|ö}{g|ğ}retmen k{ue|ü}t{ue|ü}phanede",
+     "klaenge": [
+      "oe",
+      "ue",
+      "g"
+     ]
+    }
+   ]
+  }
+ ],
  "schrift": null,
  "geschichte": [
   {
@@ -12877,6 +13966,52 @@ window.SPRACHEN["tr-de"] = {
   "audio/tr-de/saetze/ye_23_fp.mp3?v=028a466e",
   "audio/tr-de/saetze/ye_23_pc.mp3?v=7e4ddc49",
   "audio/tr-de/saetze/ye_24.mp3?v=c142f851",
+  "audio/tr-de/sesler/b_01.mp3?v=aad20f55",
+  "audio/tr-de/sesler/b_02.mp3?v=737ec604",
+  "audio/tr-de/sesler/b_03.mp3?v=1876361e",
+  "audio/tr-de/sesler/b_04.mp3?v=595f08d8",
+  "audio/tr-de/sesler/g_01.mp3?v=bc77c30c",
+  "audio/tr-de/sesler/g_02.mp3?v=2b8ffdd7",
+  "audio/tr-de/sesler/g_03.mp3?v=48695278",
+  "audio/tr-de/sesler/g_04.mp3?v=09bd5c03",
+  "audio/tr-de/sesler/g_05.mp3?v=2e38395b",
+  "audio/tr-de/sesler/g_06.mp3?v=a47715fa",
+  "audio/tr-de/sesler/i_01.mp3?v=3dc6cf37",
+  "audio/tr-de/sesler/i_02.mp3?v=f54b01a4",
+  "audio/tr-de/sesler/i_03.mp3?v=9247b9fb",
+  "audio/tr-de/sesler/i_04.mp3?v=4ef1f43d",
+  "audio/tr-de/sesler/i_05.mp3?v=5c480fb4",
+  "audio/tr-de/sesler/i_06.mp3?v=8cfc1823",
+  "audio/tr-de/sesler/oe_01.mp3?v=4dca4f62",
+  "audio/tr-de/sesler/oe_02.mp3?v=bbe697b5",
+  "audio/tr-de/sesler/oe_03.mp3?v=d0b0c5a0",
+  "audio/tr-de/sesler/oe_04.mp3?v=6a9c96a1",
+  "audio/tr-de/sesler/oe_05.mp3?v=081ee6af",
+  "audio/tr-de/sesler/oe_06.mp3?v=2f188102",
+  "audio/tr-de/sesler/p1_01a.mp3?v=0cc374ae",
+  "audio/tr-de/sesler/p1_01b.mp3?v=05c0b9d8",
+  "audio/tr-de/sesler/p1_02a.mp3?v=91e78b69",
+  "audio/tr-de/sesler/p1_02b.mp3?v=7289d54f",
+  "audio/tr-de/sesler/p1_03a.mp3?v=c045ed7a",
+  "audio/tr-de/sesler/p1_03b.mp3?v=7a4c0d75",
+  "audio/tr-de/sesler/p2_01a.mp3?v=76ace4e9",
+  "audio/tr-de/sesler/p2_01b.mp3?v=9e9385ef",
+  "audio/tr-de/sesler/p2_02a.mp3?v=22210fdd",
+  "audio/tr-de/sesler/p2_02b.mp3?v=09a22ba8",
+  "audio/tr-de/sesler/p2_03a.mp3?v=34ea1ae4",
+  "audio/tr-de/sesler/p2_03b.mp3?v=df790a28",
+  "audio/tr-de/sesler/p3_01a.mp3?v=b32ff758",
+  "audio/tr-de/sesler/p3_01b.mp3?v=2c2deafe",
+  "audio/tr-de/sesler/p3_02a.mp3?v=d3541d0c",
+  "audio/tr-de/sesler/p3_02b.mp3?v=d3d7f570",
+  "audio/tr-de/sesler/p3_03a.mp3?v=d8c6f5d8",
+  "audio/tr-de/sesler/p3_03b.mp3?v=184e7376",
+  "audio/tr-de/sesler/ue_01.mp3?v=7e2a06a7",
+  "audio/tr-de/sesler/ue_02.mp3?v=fc25733d",
+  "audio/tr-de/sesler/ue_03.mp3?v=2a92c55a",
+  "audio/tr-de/sesler/ue_04.mp3?v=2f3d4e39",
+  "audio/tr-de/sesler/ue_05.mp3?v=f891736c",
+  "audio/tr-de/sesler/ue_06.mp3?v=986a4678",
   "audio/tr-de/spiel/feuer.mp3?v=366b85be",
   "audio/tr-de/spiel/fini.mp3?v=980ba49d",
   "audio/tr-de/spiel/monat.mp3?v=17d9db24",

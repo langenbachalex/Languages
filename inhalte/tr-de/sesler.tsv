@@ -1,0 +1,47 @@
+id	teil	klang	wort	de	partner
+i_01	klang	i	kız	Mädchen	
+i_02	klang	i	kısa	kurz	
+i_03	klang	i	ılık	lauwarm	
+i_04	klang	i	sıcak	heiß	
+i_05	klang	i	altı	sechs	
+i_06	klang	i	yıl	Jahr	
+oe_01	klang	oe	göz	Auge	
+oe_02	klang	oe	söz	Wort	
+oe_03	klang	oe	köy	Dorf	
+oe_04	klang	oe	dört	vier	
+oe_05	klang	oe	ördek	Ente	
+oe_06	klang	oe	böyle	so	
+ue_01	klang	ue	gül	Rose	
+ue_02	klang	ue	üç	drei	
+ue_03	klang	ue	süt	Milch	
+ue_04	klang	ue	güneş	Sonne	
+ue_05	klang	ue	yüz	Gesicht	
+ue_06	klang	ue	üzüm	Traube	
+g_01	klang	g	dağ	Berg	
+g_02	klang	g	yağ	Öl	
+g_03	klang	g	ağaç	Baum	
+g_04	klang	g	soğuk	kalt	
+g_05	klang	g	doğru	richtig	
+g_06	klang	g	öğle	Mittag	
+p1_01a	paar	i	kıl	Haar	p1_01b
+p1_01b	paar	ii	kil	Ton (Erde)	p1_01a
+p1_02a	paar	i	kır	Land, Flur	p1_02b
+p1_02b	paar	ii	kir	Schmutz	p1_02a
+p1_03a	paar	i	ılık	lauwarm	p1_03b
+p1_03b	paar	ii	ilik	Knochenmark	p1_03a
+p2_01a	paar	oe	kör	blind	p2_01b
+p2_01b	paar	o	kor	Glut	p2_01a
+p2_02a	paar	oe	göl	See	p2_02b
+p2_02b	paar	o	gol	Tor (Fußball)	p2_02a
+p2_03a	paar	oe	ön	vorne	p2_03b
+p2_03b	paar	o	on	zehn	p2_03a
+p3_01a	paar	ue	kül	Asche	p3_01b
+p3_01b	paar	u	kul	Diener	p3_01a
+p3_02a	paar	ue	düş	Traum	p3_02b
+p3_02b	paar	u	duş	Dusche	p3_02a
+p3_03a	paar	ue	üç	drei	p3_03b
+p3_03b	paar	u	uç	Spitze	p3_03a
+b_01	beide	oe,g	{oe|ö}{g|ğ}renci	Schüler	
+b_02	beide	ue,ue	g{ue|ü}l{ue|ü}msemek	lächeln	
+b_03	beide	i,i	{i|ı}l{i|ı}k	lauwarm	
+b_04	beide	oe,ue,g	{oe|ö}{g|ğ}retmen k{ue|ü}t{ue|ü}phanede	der Lehrer in der Bibliothek	
