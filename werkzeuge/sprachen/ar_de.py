@@ -24,6 +24,7 @@ THEMEN = [
     {"id": "mashair", "name": "المَشَاعِرُ وَالأَحْوَال", "de": "Gefühle und Stimmungen", "symbol": "🎭", "datei": "mashair.tsv"},
     {"id": "qitat", "name": "القِطَط", "de": "Die Katzen", "symbol": "🐈", "datei": "qitat.tsv"},
     {"id": "musiqa", "name": "المُوسِيقَى وَاللُّغَة", "de": "Musik und Sprache", "symbol": "🎵", "datei": "musiqa.tsv"},
+    {"id": "hikayat", "name": "الحِكَايَاتُ وَالخَيَال", "de": "Geschichten und Fantasy", "symbol": "🐉", "datei": "hikayat.tsv"},
 ]
 GRAMMATIK_DATEI = "qawaid.tsv"
 

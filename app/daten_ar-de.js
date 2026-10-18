@@ -492,6 +492,38 @@ window.SPRACHEN["ar-de"] = {
     "mq_23",
     "mq_24"
    ]
+  },
+  {
+   "id": "hikayat",
+   "name": "الحِكَايَاتُ وَالخَيَال",
+   "de": "Geschichten und Fantasy",
+   "symbol": "🐉",
+   "wendungen": [
+    "hk_01",
+    "hk_02",
+    "hk_03",
+    "hk_04",
+    "hk_05",
+    "hk_06",
+    "hk_07",
+    "hk_08",
+    "hk_09",
+    "hk_10",
+    "hk_11",
+    "hk_12",
+    "hk_13",
+    "hk_14",
+    "hk_15",
+    "hk_16",
+    "hk_17",
+    "hk_18",
+    "hk_19",
+    "hk_20",
+    "hk_21",
+    "hk_22",
+    "hk_23",
+    "hk_24"
+   ]
   }
  ],
  "wendungen": [
@@ -3942,6 +3974,665 @@ window.SPRACHEN["ar-de"] = {
     "fr": "اللَّحِن بِقي بْراسي، الكَلِمات طارِت.",
     "umschrift": "il-laḥen biʾī b-rāsī, il-kalimāt ṭāret.",
     "audio": "audio/ar-de/syrisch/mq_24.mp3?v=e5642acd"
+   }
+  },
+  {
+   "id": "hk_01",
+   "thema": "hikayat",
+   "fr": "كَانَ يَا مَا كَان",
+   "de": "es war einmal",
+   "register": "tu",
+   "anker": "كان",
+   "notiz": "kāna yā mā kān = es war, oh was war: der Märchenanfang der ganzen arabischen Welt. fī qadīm az-zamān = in alter Zeit. kāna = war (hohles Verb, Wurzel k-w-n).",
+   "audio": "audio/ar-de/wendungen/hk_01.mp3?v=1efc03ef",
+   "gloss": "كَان·َ يَا مَا كَان | sein·3SG oh was war",
+   "umschrift": "kāna yā mā kān",
+   "wurzel": "ك-و-ن",
+   "satz": {
+    "fr": "كَانَ يَا مَا كَان، فِي قَدِيمِ الزَّمَان، قِطٌّ فِي دِمَشْق.",
+    "de": "Es war einmal, in alter Zeit, eine Katze in Damaskus.",
+    "luecke": "كَانَ يَا مَا كَان",
+    "gloss": "كَان·َ يَا مَا كَان، فِي قَدِيم·ِ ال·زَمَان، قِطّ فِي دِمَشْق. | sein·3SG oh was war, in Altes·GEN DEF·Zeit, Katze in Damaskus.",
+    "umschrift": "kāna yā mā kān, fī qadīm az-zamān, qiṭṭ fī Dimashq.",
+    "audio": "audio/ar-de/saetze/hk_01.mp3?v=c2fa0fc4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "كان يا ما كان، بْقَديم الزَّمان، بِسّ بِالشّام.",
+    "umschrift": "kān yā mā kān, b-ʾadīm iz-zamān, biss bish-Shām.",
+    "audio": "audio/ar-de/syrisch/hk_01.mp3?v=5c6897c9"
+   }
+  },
+  {
+   "id": "hk_02",
+   "thema": "hikayat",
+   "fr": "أَحْكِي حِكَايَةً لِلأَطْفَال",
+   "de": "ich erzähle den Kindern ein Märchen",
+   "register": "tu",
+   "anker": "حكى",
+   "notiz": "ḥakā / yaḥkī = erzählen (Wurzel ḥ-k-y; ḥikāya = Erzählung, Märchen; syrisch heißt ḥakā einfach « sprechen »). Schwach: ḥakay-tu. aṭfāl = Kinder (Plural von ṭifl). lil- = für die.",
+   "audio": "audio/ar-de/wendungen/hk_02.mp3?v=39b0b384",
+   "gloss": "أَ·حْكِي حِكَايَة لِ·ال·أَطْفَال | 1SG·erzählen Märchen für·DEF·Kinder",
+   "umschrift": "aḥkī ḥikāya lil-aṭfāl",
+   "wurzel": "ح-ك-ي",
+   "satz": {
+    "fr": "فِي المَسَاءِ أَحْكِي حِكَايَةً لِلأَطْفَال، وَالقِطُّ يَسْتَمِع.",
+    "de": "Abends erzähle ich den Kindern ein Märchen, und die Katze hört zu.",
+    "luecke": "أَحْكِي حِكَايَةً",
+    "gloss": "فِي ال·مَسَاء أَ·حْكِي حِكَايَة لِ·ال·أَطْفَال، وَ·ال·قِطّ يَ·سْتَمِع. | in DEF·Abend 1SG·erzählen Märchen für·DEF·Kinder, und·DEF·Katze 3SG·zuhören.",
+    "umschrift": "fī l-masāʾ aḥkī ḥikāya lil-aṭfāl, wal-qiṭṭ yastamiʿ.",
+    "audio": "audio/ar-de/saetze/hk_02.mp3?v=a06704c2"
+   },
+   "zeit": {
+    "pc": {
+     "fr": "فِي المَسَاءِ حَكَيْتُ حِكَايَةً لِلأَطْفَال، وَالقِطُّ اسْتَمَع.",
+     "umschrift": "fī l-masāʾ ḥakaytu ḥikāya lil-aṭfāl, wal-qiṭṭ istamaʿ.",
+     "audio": "audio/ar-de/saetze/hk_02_pc.mp3?v=818b23d9"
+    },
+    "fp": {
+     "fr": "فِي المَسَاءِ سَأَحْكِي حِكَايَةً لِلأَطْفَال، وَالقِطُّ سَيَسْتَمِع.",
+     "umschrift": "fī l-masāʾ sa-aḥkī ḥikāya lil-aṭfāl, wal-qiṭṭ sa-yastamiʿ.",
+     "audio": "audio/ar-de/saetze/hk_02_fp.mp3?v=5680cccb"
+    }
+   },
+   "syrisch": {
+    "fr": "بِالمَسا بِحْكي حْكايِة لَلوْلاد، والبِسّ عَم يِسْمَع.",
+    "umschrift": "bil-masa biḥkī ḥkāye lal-wlād, wil-biss ʿam yismaʿ.",
+    "audio": "audio/ar-de/syrisch/hk_02.mp3?v=8dffd214"
+   }
+  },
+  {
+   "id": "hk_03",
+   "thema": "hikayat",
+   "fr": "التِّنِّينُ نَائِم، الكَنْزُ يَنْتَظِر",
+   "de": "der Drache schläft, der Schatz wartet",
+   "register": "tu",
+   "anker": "تنين",
+   "notiz": "tinnīn = Drache (auch das Sternbild). nāʾim = schlafend (Partizip von nāma: der Zustand ohne Verb). kanz = Schatz (Wurzel k-n-z). intaẓara = warten (Thema 2: intiẓār).",
+   "audio": "audio/ar-de/wendungen/hk_03.mp3?v=46597ac2",
+   "gloss": "ال·تِنِّين نَائِم، ال·كَنْز يَ·نْتَظِر | DEF·Drache schlafend, DEF·Schatz 3SG·warten",
+   "umschrift": "at-tinnīn nāʾim, al-kanz yantaẓir",
+   "wurzel": "ت-ن-ن",
+   "satz": {
+    "fr": "التِّنِّينُ نَائِم، وَالكَنْزُ يَنْتَظِر.",
+    "de": "Der Drache schläft, und der Schatz wartet.",
+    "luecke": "التِّنِّينُ نَائِم",
+    "gloss": "ال·تِنِّين نَائِم، وَ·ال·كَنْز يَ·نْتَظِر. | DEF·Drache schlafend, und·DEF·Schatz 3SG·warten.",
+    "umschrift": "at-tinnīn nāʾim, wal-kanz yantaẓir.",
+    "audio": "audio/ar-de/saetze/hk_03.mp3?v=475b47c3"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "التِّنّين نايِم، والكَنْز عَم يِسْتَنّى.",
+    "umschrift": "it-tinnīn nāyem, wil-kanz ʿam yistanna.",
+    "audio": "audio/ar-de/syrisch/hk_03.mp3?v=0788de4f"
+   }
+  },
+  {
+   "id": "hk_04",
+   "thema": "hikayat",
+   "fr": "بَابٌ سِحْرِيّ",
+   "de": "eine Zaubertür",
+   "register": "tu",
+   "anker": "سحر",
+   "notiz": "siḥr = Zauber, siḥrī = magisch, sāḥir = Zauberer (Wurzel s-ḥ-r; saḥar = auch die Zeit vor der Morgendämmerung). kāna hunāka = es gab (es war dort). lā … illā = nur (nicht … außer). yuftaḥ = wird geöffnet (Passiv).",
+   "audio": "audio/ar-de/wendungen/hk_04.mp3?v=3b0be115",
+   "gloss": "بَاب سِحْرِيّ | Tür magisch",
+   "umschrift": "bāb siḥrī",
+   "wurzel": "س-ح-ر",
+   "satz": {
+    "fr": "كَانَ هُنَاكَ بَابٌ سِحْرِيّ لا يُفْتَحُ إِلَّا لَيْلاً.",
+    "de": "Es gab eine Zaubertür, die nur nachts aufging.",
+    "luecke": "بَابٌ سِحْرِيّ",
+    "gloss": "كَان·َ هُنَاكَ بَاب سِحْرِيّ لا يُ·فْتَح إِلَّا لَيْلاً. | sein·3SG dort Tür magisch nicht PASS·öffnen außer nachts.",
+    "umschrift": "kāna hunāka bāb siḥrī lā yuftaḥ illā laylan.",
+    "audio": "audio/ar-de/saetze/hk_04.mp3?v=cf26e99f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "كان في باب سِحْري ما بْيِنْفَتِح إلّا بِاللّيل.",
+    "umschrift": "kān fī bāb siḥrī mā byinfateḥ illa bil-lēl.",
+    "audio": "audio/ar-de/syrisch/hk_04.mp3?v=b9e80736"
+   }
+  },
+  {
+   "id": "hk_05",
+   "thema": "hikayat",
+   "fr": "السَّاحِرُ سَحَر، وَالصَّفُّ صَمَت",
+   "de": "der Zauberer zauberte, die Klasse schwieg",
+   "register": "tu",
+   "anker": "سحر",
+   "notiz": "sāḥir = Zauberer (Muster fāʿil), saḥara = zaubern: dieselbe Wurzel zweimal im Satz, das arabische Wortspiel schlechthin (al-jinās). ṣamata = schweigen (Thema 1).",
+   "audio": "audio/ar-de/wendungen/hk_05.mp3?v=6b756461",
+   "gloss": "ال·سَاحِر سَحَر، وَ·ال·صَفّ صَمَت | DEF·Zauberer zauberte, und·DEF·Klasse schwieg",
+   "umschrift": "as-sāḥir saḥar, waṣ-ṣaff ṣamat",
+   "wurzel": "س-ح-ر",
+   "satz": {
+    "fr": "السَّاحِرُ سَحَر، وَالصَّفُّ صَمَتَ فَجْأَة.",
+    "de": "Der Zauberer zauberte, und die Klasse schwieg plötzlich.",
+    "luecke": "السَّاحِرُ سَحَر",
+    "gloss": "ال·سَاحِر سَحَر، وَ·ال·صَفّ صَمَت فَجْأَة. | DEF·Zauberer zauberte, und·DEF·Klasse schwieg plötzlich.",
+    "umschrift": "as-sāḥir saḥar, waṣ-ṣaff ṣamat fajʾa.",
+    "audio": "audio/ar-de/saetze/hk_05.mp3?v=57b997a8"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "السّاحِر سَحَر، والصَّفّ سَكَت فَجْأَة.",
+    "umschrift": "is-sāḥer saḥar, wiṣ-ṣaff sakat fajʾa.",
+    "audio": "audio/ar-de/syrisch/hk_05.mp3?v=2c224c22"
+   }
+  },
+  {
+   "id": "hk_06",
+   "thema": "hikayat",
+   "fr": "الجِنِّيَّةُ أَعْطَتْ ثَلاثَ أُمْنِيَات",
+   "de": "die Fee gab drei Wünsche",
+   "register": "tu",
+   "anker": "أعطى",
+   "notiz": "jinniyya = Fee, weiblicher Dschinn (jinn = die Geister, von j-n-n = verborgen; auch majnūn = verrückt, von Dschinn besessen). aʿṭā = geben (Stamm IV, aʿṭa-t = sie gab). umniya = Wunsch, Plural umniyāt. ṭalaba = bitten, verlangen.",
+   "audio": "audio/ar-de/wendungen/hk_06.mp3?v=85f9999b",
+   "gloss": "ال·جِنِّيَّة أَعْطَ·تْ ثَلاث أُمْنِيَات | DEF·Fee geben·3SG.F drei Wünsche",
+   "umschrift": "al-jinniyya aʿṭat thalāth umniyāt",
+   "wurzel": "ع-ط-و",
+   "satz": {
+    "fr": "الجِنِّيَّةُ أَعْطَتْ ثَلاثَ أُمْنِيَات، وَأَنَا طَلَبْتُ الرَّابِعَة.",
+    "de": "Die Fee gab drei Wünsche, und ich bat um den vierten.",
+    "luecke": "الجِنِّيَّةُ أَعْطَتْ",
+    "gloss": "ال·جِنِّيَّة أَعْطَ·تْ ثَلاث أُمْنِيَات، وَ·أَنَا طَلَب·ْتُ ال·رَابِعَة. | DEF·Fee geben·3SG.F drei Wünsche, und·ich verlangen·1SG DEF·vierte.",
+    "umschrift": "al-jinniyya aʿṭat thalāth umniyāt, wa-anā ṭalabtu r-rābiʿa.",
+    "audio": "audio/ar-de/saetze/hk_06.mp3?v=d26c5493"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الجِنّيِّة عَطِت تْلات أُمْنِيات، وأَنا طَلَبْت الرّابْعَة.",
+    "umschrift": "ij-jinniyye ʿaṭet tlat amniyāt, w-ana ṭalabt ir-rābʿa.",
+    "audio": "audio/ar-de/syrisch/hk_06.mp3?v=13e916d2"
+   }
+  },
+  {
+   "id": "hk_07",
+   "thema": "hikayat",
+   "fr": "قَدَمُ العِمْلاق",
+   "de": "der Fuß des Riesen",
+   "register": "tu",
+   "anker": "عملاق",
+   "notiz": "ʿimlāq = Riese (auch als Adjektiv: mashrūʿ ʿimlāq, Riesenprojekt). qadam al-ʿimlāq: iḍāfa. akbar min = größer als (Lektion mit aṣʿab min). madrasat-nā = unsere Schule (ة → t vor -nā).",
+   "audio": "audio/ar-de/wendungen/hk_07.mp3?v=b6422aa7",
+   "gloss": "قَدَم·ُ ال·عِمْلاق | Fuß·GEN DEF·Riese",
+   "umschrift": "qadam al-ʿimlāq",
+   "wurzel": "ع-م-ل-ق",
+   "satz": {
+    "fr": "قَدَمُ العِمْلاقِ أَكْبَرُ مِنْ مَدْرَسَتِنَا.",
+    "de": "Der Fuß des Riesen ist größer als unsere Schule.",
+    "luecke": "قَدَمُ العِمْلاق",
+    "gloss": "قَدَم·ُ ال·عِمْلاق أَكْبَر مِنْ مَدْرَسَت·ِنَا. | Fuß·GEN DEF·Riese größer als Schule·unser.",
+    "umschrift": "qadam al-ʿimlāq akbar min madrasatinā.",
+    "audio": "audio/ar-de/saetze/hk_07.mp3?v=bc189887"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "إجِر العِمْلاق أَكْبَر مِن مَدْرَسِتْنا.",
+    "umschrift": "ijer il-ʿimlāʾ akbar min madrasetna.",
+    "audio": "audio/ar-de/syrisch/hk_07.mp3?v=fba5bb31"
+   }
+  },
+  {
+   "id": "hk_08",
+   "thema": "hikayat",
+   "fr": "سَبْعَةُ أَقْزَامٍ ذَهَبُوا إِلَى المَنْجَم",
+   "de": "sieben Zwerge gingen ins Bergwerk",
+   "register": "tu",
+   "anker": "ذهب",
+   "notiz": "aqzām = Zwerge (Plural von qazam). sabʿat aqzām: Zahl mit -a vor maskulinem Nomen (umgekehrtes Genus). dhahab-ū = sie gingen (Plural -ū). manjam = Bergwerk (Wurzel n-j-m, Stern: wo die Steine funkeln). taʾakhkhara = sich verspäten (Thema 1).",
+   "audio": "audio/ar-de/wendungen/hk_08.mp3?v=c3533677",
+   "gloss": "ذَهَب·ُوا إِلَى ال·مَنْجَم | gehen·3PL zu DEF·Bergwerk",
+   "umschrift": "dhahabū ilā l-manjam",
+   "wurzel": "ذ-ه-ب",
+   "satz": {
+    "fr": "سَبْعَةُ أَقْزَامٍ ذَهَبُوا إِلَى المَنْجَم، وَوَاحِدٌ تَأَخَّر.",
+    "de": "Sieben Zwerge gingen ins Bergwerk, und einer kam zu spät.",
+    "luecke": "ذَهَبُوا إِلَى المَنْجَم",
+    "gloss": "سَبْعَة أَقْزَام ذَهَب·ُوا إِلَى ال·مَنْجَم، وَ·وَاحِد تَأَخَّر. | sieben Zwerge gehen·3PL zu DEF·Bergwerk, und·einer verspätete.sich.",
+    "umschrift": "sabʿat aqzām dhahabū ilā l-manjam, wa-wāḥid taʾakhkhar.",
+    "audio": "audio/ar-de/saetze/hk_08.mp3?v=f7a3ed69"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "سَبْع أَقْزام راحو عَالمَنْجَم، وواحِد تْأَخَّر.",
+    "umschrift": "sabʿ aʾzām rāḥū ʿal-manjam, w-wāḥed tʾakhkhar.",
+    "audio": "audio/ar-de/syrisch/hk_08.mp3?v=cbcf2f31"
+   }
+  },
+  {
+   "id": "hk_09",
+   "thema": "hikayat",
+   "fr": "كَانَ خَائِفًا، وَذَهَبَ رَغْمَ ذَلِك",
+   "de": "er hatte Angst und ging trotzdem",
+   "register": "tu",
+   "anker": "كان",
+   "notiz": "kāna khāʾifan = er war ängstlich: kāna macht die Vergangenheit des Satzes ohne Verb, und sein Prädikat steht im Akkusativ (-an, hier hörbar). khāʾif = ängstlich (Partizip von khāfa). raghma dhālik = trotzdem.",
+   "audio": "audio/ar-de/wendungen/hk_09.mp3?v=7e2fbf70",
+   "gloss": "كَان·َ خَائِف·ًا، وَ·ذَهَب·َ رَغْمَ ذَلِك | sein·3SG ängstlich·AKK, und·gehen·3SG trotz jenes",
+   "umschrift": "kāna khāʾifan, wa-dhahaba raghma dhālik",
+   "wurzel": "خ-و-ف",
+   "satz": {
+    "fr": "البَطَلُ كَانَ خَائِفًا، وَذَهَبَ رَغْمَ ذَلِك.",
+    "de": "Der Held hatte Angst und ging trotzdem.",
+    "luecke": "كَانَ خَائِفًا",
+    "gloss": "ال·بَطَل كَان·َ خَائِف·ًا، وَ·ذَهَب·َ رَغْمَ ذَلِك. | DEF·Held sein·3SG ängstlich·AKK, und·gehen·3SG trotz jenes.",
+    "umschrift": "al-baṭal kāna khāʾifan, wa-dhahaba raghma dhālik.",
+    "audio": "audio/ar-de/saetze/hk_09.mp3?v=caa5cf16"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "البَطَل كان خايِف، وراح رَغْم هيك.",
+    "umschrift": "il-baṭal kān khāyef, w-rāḥ raghm hēk.",
+    "audio": "audio/ar-de/syrisch/hk_09.mp3?v=0e8c1577"
+   }
+  },
+  {
+   "id": "hk_10",
+   "thema": "hikayat",
+   "fr": "السَّيْفُ لَمْ يَخْرُجْ مِنَ الحَجَر",
+   "de": "das Schwert kam nicht aus dem Stein",
+   "register": "tu",
+   "anker": "خرج",
+   "notiz": "lam yakhruj = er kam nicht heraus (lam + Jussiv, Lektion 4). kharaja = herauskommen (Wurzel kh-r-j; khārij = draußen). ḥāwala = versuchen (Stamm III von ḥ-w-l, wie ḥāl). sayf = Schwert (Modul 1: sayf/ṣayf).",
+   "audio": "audio/ar-de/wendungen/hk_10.mp3?v=e5b5f1dd",
+   "gloss": "لَمْ يَ·خْرُج·ْ مِنَ ال·حَجَر | nicht.VERG 3SG·herauskommen·JUSS aus DEF·Stein",
+   "umschrift": "lam yakhruj min al-ḥajar",
+   "wurzel": "خ-ر-ج",
+   "satz": {
+    "fr": "السَّيْفُ لَمْ يَخْرُجْ مِنَ الحَجَر، وَالوَلَدُ حَاوَل.",
+    "de": "Das Schwert kam nicht aus dem Stein, und der Junge hat es versucht.",
+    "luecke": "لَمْ يَخْرُجْ مِنَ الحَجَر",
+    "gloss": "ال·سَيْف لَمْ يَ·خْرُج·ْ مِنَ ال·حَجَر، وَ·ال·وَلَد حَاوَل. | DEF·Schwert nicht.VERG 3SG·herauskommen·JUSS aus DEF·Stein, und·DEF·Junge versuchte.",
+    "umschrift": "as-sayf lam yakhruj min al-ḥajar, wal-walad ḥāwal.",
+    "audio": "audio/ar-de/saetze/hk_10.mp3?v=5e69468e"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "السّيف ما طِلِع مِن الحَجَر، والوَلَد جَرَّب.",
+    "umschrift": "is-sēf mā ṭileʿ min il-ḥajar, wil-walad jarrab.",
+    "audio": "audio/ar-de/syrisch/hk_10.mp3?v=fcb008d3"
+   }
+  },
+  {
+   "id": "hk_11",
+   "thema": "hikayat",
+   "fr": "المِفْتَاحُ عِنْدَ القِطّ",
+   "de": "der Schlüssel ist bei der Katze",
+   "register": "tu",
+   "anker": "فتح",
+   "notiz": "miftāḥ = Schlüssel (Muster mifʿāl = Werkzeug, von fataḥa öffnen; wie miṣbāḥ Lampe, mīzān Waage). mughlaq = geschlossen (Partizip von aghlaqa). qalʿa = Burg (Krak des Chevaliers = qalʿat al-ḥiṣn). ʿinda = bei.",
+   "audio": "audio/ar-de/wendungen/hk_11.mp3?v=ff41f2b4",
+   "gloss": "ال·مِفْتَاح عِنْدَ ال·قِطّ | DEF·Schlüssel bei DEF·Katze",
+   "umschrift": "al-miftāḥ ʿinda l-qiṭṭ",
+   "wurzel": "ف-ت-ح",
+   "satz": {
+    "fr": "بَابُ القَلْعَةِ مُغْلَق، وَالمِفْتَاحُ عِنْدَ القِطّ.",
+    "de": "Das Burgtor ist zu, und der Schlüssel ist bei der Katze.",
+    "luecke": "المِفْتَاحُ عِنْدَ القِطّ",
+    "gloss": "بَاب·ُ ال·قَلْعَة مُغْلَق، وَ·ال·مِفْتَاح عِنْدَ ال·قِطّ. | Tor·GEN DEF·Burg geschlossen, und·DEF·Schlüssel bei DEF·Katze.",
+    "umschrift": "bāb al-qalʿa mughlaq, wal-miftāḥ ʿinda l-qiṭṭ.",
+    "audio": "audio/ar-de/saetze/hk_11.mp3?v=c87272cc"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "باب القَلْعَة مْسَكَّر، والمِفْتاح عِنْد البِسّ.",
+    "umschrift": "bāb il-ʾalʿa msakkar, wil-miftāḥ ʿind il-biss.",
+    "audio": "audio/ar-de/syrisch/hk_11.mp3?v=dbdb3f49"
+   }
+  },
+  {
+   "id": "hk_12",
+   "thema": "hikayat",
+   "fr": "خَرِيطَةُ الكَنْزِ مُمَزَّقَة",
+   "de": "die Schatzkarte ist zerrissen",
+   "register": "tu",
+   "anker": "خريطة",
+   "notiz": "kharīṭa = Landkarte (das Wort hinter « Charta »). mumazzaqa = zerrissen (Partizip Stamm II von m-z-q). niṣf-uhā maʿī = ihre Hälfte ist mit mir = ich habe sie (maʿa + -ī = bei mir, die dritte Art, « haben » zu sagen, neben ʿindī und lī).",
+   "audio": "audio/ar-de/wendungen/hk_12.mp3?v=fbdd1314",
+   "gloss": "خَرِيطَة·ُ ال·كَنْز مُمَزَّقَة | Karte·GEN DEF·Schatz zerrissen.F",
+   "umschrift": "kharīṭat al-kanz mumazzaqa",
+   "wurzel": "م-ز-ق",
+   "satz": {
+    "fr": "خَرِيطَةُ الكَنْزِ مُمَزَّقَة، وَنِصْفُهَا مَعِي.",
+    "de": "Die Schatzkarte ist zerrissen, und die Hälfte habe ich.",
+    "luecke": "خَرِيطَةُ الكَنْزِ مُمَزَّقَة",
+    "gloss": "خَرِيطَة·ُ ال·كَنْز مُمَزَّقَة، وَ·نِصْف·ُهَا مَعِ·ي. | Karte·GEN DEF·Schatz zerrissen.F, und·Hälfte·ihr mit·mir.",
+    "umschrift": "kharīṭat al-kanz mumazzaqa, wa-niṣfuhā maʿī.",
+    "audio": "audio/ar-de/saetze/hk_12.mp3?v=9a3ac1df"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "خَريطِة الكَنْز مْمَزَّقَة، ونِصّا مَعي.",
+    "umschrift": "kharīṭet il-kanz mmazzaʾa, w-niṣṣa maʿī.",
+    "audio": "audio/ar-de/syrisch/hk_12.mp3?v=5559fa19"
+   }
+  },
+  {
+   "id": "hk_13",
+   "thema": "hikayat",
+   "fr": "فِي الغَابَةِ المَسْحُورَةِ تَتَكَلَّمُ الأَشْجَار",
+   "de": "im Zauberwald sprechen die Bäume",
+   "register": "tu",
+   "anker": "غابة",
+   "notiz": "ghāba = Wald. masḥūra = verzaubert (Partizip mafʿūl von saḥara, feminin). ashjār = Bäume (Plural von shajara, Sachplural → tatakallam feminin Singular). hamsan = flüsternd (hams = Flüstern).",
+   "audio": "audio/ar-de/wendungen/hk_13.mp3?v=96534903",
+   "gloss": "تَ·تَكَلَّم ال·أَشْجَار | 3SG.F·sprechen DEF·Bäume",
+   "umschrift": "tatakallam al-ashjār",
+   "wurzel": "ش-ج-ر",
+   "satz": {
+    "fr": "فِي الغَابَةِ المَسْحُورَةِ تَتَكَلَّمُ الأَشْجَار، وَلَكِنْ هَمْسًا.",
+    "de": "Im Zauberwald sprechen die Bäume, aber im Flüsterton.",
+    "luecke": "تَتَكَلَّمُ الأَشْجَار",
+    "gloss": "فِي ال·غَابَة ال·مَسْحُورَة تَ·تَكَلَّم ال·أَشْجَار، وَ·لَكِنْ هَمْسًا. | in DEF·Wald DEF·verzaubert.F 3SG.F·sprechen DEF·Bäume, und·aber flüsternd.",
+    "umschrift": "fī l-ghāba l-masḥūra tatakallam al-ashjār, wa-lākin hamsan.",
+    "audio": "audio/ar-de/saetze/hk_13.mp3?v=4ebdfedb"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "بِالغابِة المَسْحورَة الشَّجَر بْيِحْكي، بَسّ هَمْس.",
+    "umschrift": "bil-ghābe l-masḥūra ish-shajar byiḥkī, bass hams.",
+    "audio": "audio/ar-de/syrisch/hk_13.mp3?v=2ad6752b"
+   }
+  },
+  {
+   "id": "hk_14",
+   "thema": "hikayat",
+   "fr": "اِنْكَسَرَ الطِّلَّسْم",
+   "de": "der Bann ist gebrochen",
+   "register": "tu",
+   "anker": "انكسر",
+   "notiz": "ṭillasm = Talisman, Zauberbann (das Wort kam über das Arabische nach Europa). inkasara = zerbrechen (Stamm VII von k-s-r: kasara zerbrechen, inkasara zerbrochen werden; der siebte Stamm ist das Passiv des Alltags). amīr = Prinz, Emir. ḍifdaʿ = Frosch. min jadīd = von neuem.",
+   "audio": "audio/ar-de/wendungen/hk_14.mp3?v=d19c5a89",
+   "gloss": "اِنْكَسَر·َ ال·طِلَّسْم | zerbrechen·3SG DEF·Bann",
+   "umschrift": "inkasara ṭ-ṭillasm",
+   "wurzel": "ك-س-ر",
+   "satz": {
+    "fr": "اِنْكَسَرَ الطِّلَّسْم، وَالأَمِيرُ ضِفْدَعٌ مِنْ جَدِيد.",
+    "de": "Der Bann ist gebrochen, und der Prinz ist wieder ein Frosch.",
+    "luecke": "اِنْكَسَرَ الطِّلَّسْم",
+    "gloss": "اِنْكَسَر·َ ال·طِلَّسْم، وَ·ال·أَمِير ضِفْدَع مِنْ جَدِيد. | zerbrechen·3SG DEF·Bann, und·DEF·Prinz Frosch von neu.",
+    "umschrift": "inkasara ṭ-ṭillasm, wal-amīr ḍifdaʿ min jadīd.",
+    "audio": "audio/ar-de/saetze/hk_14.mp3?v=c6616e3f"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "انْكَسَر الطِّلِّسِم، والأَمير ضِفْدَع مِن جْديد.",
+    "umschrift": "inkasar iṭ-ṭillesem, wil-amīr ḍifdaʿ min jdīd.",
+    "audio": "audio/ar-de/syrisch/hk_14.mp3?v=a234dfa8"
+   }
+  },
+  {
+   "id": "hk_15",
+   "thema": "hikayat",
+   "fr": "لِلَّعْنَةِ شَرْطٌ وَاحِد",
+   "de": "der Fluch hat eine Bedingung",
+   "register": "tu",
+   "anker": "لعنة",
+   "notiz": "laʿna = Fluch (Wurzel l-ʿ-n; laʿana = verfluchen; Türkisch lanet). li-l-laʿna sharṭ = für den Fluch (ist) eine Bedingung = der Fluch hat (li- für Besitz). sharṭ = Bedingung (Türkisch şart). wāḥid = einer, betont.",
+   "audio": "audio/ar-de/wendungen/hk_15.mp3?v=30807af4",
+   "gloss": "لِ·ال·لَعْنَة شَرْط وَاحِد | für·DEF·Fluch Bedingung eine",
+   "umschrift": "lil-laʿna sharṭ wāḥid",
+   "wurzel": "ل-ع-ن",
+   "satz": {
+    "fr": "لِلَّعْنَةِ شَرْطٌ وَاحِد: سَبْعُ حِصَصٍ يَوْمَ الجُمْعَة.",
+    "de": "Der Fluch hat eine Bedingung: sieben Stunden am Freitag.",
+    "luecke": "لِلَّعْنَةِ شَرْطٌ وَاحِد",
+    "gloss": "لِ·ال·لَعْنَة شَرْط وَاحِد: سَبْع حِصَص يَوْمَ ال·جُمْعَة. | für·DEF·Fluch Bedingung eine: sieben Stunden Tag DEF·Freitag.",
+    "umschrift": "lil-laʿna sharṭ wāḥid: sabʿ ḥiṣaṣ yawm al-jumʿa.",
+    "audio": "audio/ar-de/saetze/hk_15.mp3?v=1590e06c"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "اللَّعْنِة إلا شَرْط واحِد: سَبْع حِصَص يوم الجُمْعَة.",
+    "umschrift": "il-laʿne ʾila sharṭ wāḥed: sabʿ ḥiṣaṣ yōm ij-jumʿa.",
+    "audio": "audio/ar-de/syrisch/hk_15.mp3?v=963185df"
+   }
+  },
+  {
+   "id": "hk_16",
+   "thema": "hikayat",
+   "fr": "جُحَا رَكِبَ الحِمَارَ بِالمَقْلُوب",
+   "de": "Dschuha ritt den Esel verkehrt herum",
+   "register": "tu",
+   "anker": "ركب",
+   "notiz": "Juḥā ist der Nasreddin der arabischen Welt, derselbe Narr-Weise mit demselben Esel; die Türken sagen Nasreddin Hoca, die Araber Juḥā. rakiba = reiten (Wurzel r-k-b; markab = Boot). bil-maqlūb = verkehrt herum (maqlūb = umgedreht, von qalaba). man = wer. tabiʿa = folgen.",
+   "audio": "audio/ar-de/wendungen/hk_16.mp3?v=1b966d4a",
+   "gloss": "جُحَا رَكِب·َ ال·حِمَار بِ·ال·مَقْلُوب | Dschuha reiten·3SG DEF·Esel mit·DEF·Umgedreht",
+   "umschrift": "Juḥā rakiba l-ḥimār bil-maqlūb",
+   "wurzel": "ر-ك-ب",
+   "satz": {
+    "fr": "جُحَا رَكِبَ الحِمَارَ بِالمَقْلُوب: « هَكَذَا أَرَى مَنْ يَتْبَعُنِي ».",
+    "de": "Dschuha ritt den Esel verkehrt herum: « So sehe ich, wer mir folgt ».",
+    "luecke": "جُحَا رَكِبَ الحِمَارَ",
+    "gloss": "جُحَا رَكِب·َ ال·حِمَار بِ·ال·مَقْلُوب: « هَكَذَا أَ·رَى مَنْ يَ·تْبَع·ُنِي ». | Dschuha reiten·3SG DEF·Esel mit·DEF·Umgedreht: « so 1SG·sehen wer 3SG·folgen·mir ».",
+    "umschrift": "Juḥā rakiba l-ḥimār bil-maqlūb: « hākadhā arā man yatbaʿunī ».",
+    "audio": "audio/ar-de/saetze/hk_16.mp3?v=643f56a4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "جْحا رِكِب الحْمار بِالمَقْلوب: « هيك بْشوف مين وَرايي ».",
+    "umschrift": "Jḥa rikeb il-ḥmār bil-maʾlūb: « hēk bshūf mīn warāyī ».",
+    "audio": "audio/ar-de/syrisch/hk_16.mp3?v=52a7c543"
+   }
+  },
+  {
+   "id": "hk_17",
+   "thema": "hikayat",
+   "fr": "الشَّاطِرُ حَسَن وَجَدَ طَرِيقَه",
+   "de": "der kluge Hasan fand seinen Weg",
+   "register": "tu",
+   "anker": "وجد",
+   "notiz": "ash-Shāṭir Ḥasan ist der Märchenheld des Orients, der arme, pfiffige Junge, der am Ende die Prinzessin bekommt: das Gegenstück zu Keloğlan. shāṭir = clever (Lob aus der Lobliste!). wajada = finden (Wurzel w-j-d, mawjūd). ṭarīq = Weg. akhīran = endlich.",
+   "audio": "audio/ar-de/wendungen/hk_17.mp3?v=65197795",
+   "gloss": "ال·شَاطِر حَسَن وَجَد·َ طَرِيق·َه | DEF·Clevere Hasan finden·3SG Weg·sein",
+   "umschrift": "ash-Shāṭir Ḥasan wajada ṭarīqah",
+   "wurzel": "و-ج-د",
+   "satz": {
+    "fr": "الشَّاطِرُ حَسَن وَجَدَ طَرِيقَهُ أَخِيرًا.",
+    "de": "Der kluge Hasan fand endlich seinen Weg.",
+    "luecke": "الشَّاطِرُ حَسَن وَجَدَ طَرِيقَه",
+    "gloss": "ال·شَاطِر حَسَن وَجَد·َ طَرِيق·َهُ أَخِيرًا. | DEF·Clevere Hasan finden·3SG Weg·sein endlich.",
+    "umschrift": "ash-Shāṭir Ḥasan wajada ṭarīqahu akhīran.",
+    "audio": "audio/ar-de/saetze/hk_17.mp3?v=ee852e2c"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "الشّاطِر حَسَن لَقى طَريقو أَخيرًا.",
+    "umschrift": "ish-shāṭer Ḥasan laʾa ṭarīʾo akhīran.",
+    "audio": "audio/ar-de/syrisch/hk_17.mp3?v=7ada089e"
+   }
+  },
+  {
+   "id": "hk_18",
+   "thema": "hikayat",
+   "fr": "ظِلِّي دَخَلَ البَيْتَ قَبْلِي",
+   "de": "mein Schatten ging vor mir ins Haus",
+   "register": "tu",
+   "anker": "دخل",
+   "notiz": "ẓill = Schatten (Modul 1: ẓuhr, ẓill). ẓill-ī = mein Schatten (Schadda bleibt). dakhala = eintreten (Wurzel d-kh-l; madkhal = Eingang). qabl-ī = vor mir (qabla + Suffix).",
+   "audio": "audio/ar-de/wendungen/hk_18.mp3?v=16f47063",
+   "gloss": "ظِلّ·ِي دَخَل·َ ال·بَيْت قَبْل·ِي | Schatten·mein eintreten·3SG DEF·Haus vor·mir",
+   "umschrift": "ẓillī dakhala l-bayt qablī",
+   "wurzel": "ظ-ل-ل",
+   "satz": {
+    "fr": "ظِلِّي دَخَلَ البَيْتَ قَبْلِي.",
+    "de": "Mein Schatten ging vor mir ins Haus.",
+    "luecke": "ظِلِّي دَخَلَ البَيْتَ",
+    "gloss": "ظِلّ·ِي دَخَل·َ ال·بَيْت قَبْل·ِي. | Schatten·mein eintreten·3SG DEF·Haus vor·mir.",
+    "umschrift": "ẓillī dakhala l-bayt qablī.",
+    "audio": "audio/ar-de/saetze/hk_18.mp3?v=e784c7c4"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "ضِلّي فات عَالبيت ئَبْلي.",
+    "umschrift": "ḍillī fāt ʿal-bēt ʾablī.",
+    "audio": "audio/ar-de/syrisch/hk_18.mp3?v=beaefc78"
+   }
+  },
+  {
+   "id": "hk_19",
+   "thema": "hikayat",
+   "fr": "لَبِسَ العَبَاءَةَ فَصَارَ خَفِيًّا",
+   "de": "er zog den Umhang an und wurde unsichtbar",
+   "register": "tu",
+   "anker": "صار",
+   "notiz": "labisa = anziehen (Wurzel l-b-s; malābis = Kleider). ʿabāʾa = Umhang, Abaya. fa- = und dann, da (Folge). ṣāra = werden (Schwester von kāna: ṣāra khafiyyan, wieder Akkusativ). khafī = verborgen, unsichtbar. ṣaffaqa = klatschen.",
+   "audio": "audio/ar-de/wendungen/hk_19.mp3?v=5af4bc44",
+   "gloss": "فَ·صَار·َ خَفِيّ·ًا | da·werden·3SG unsichtbar·AKK",
+   "umschrift": "fa-ṣāra khafiyyan",
+   "wurzel": "ص-ي-ر",
+   "satz": {
+    "fr": "لَبِسَ العَبَاءَةَ فَصَارَ خَفِيًّا، وَالصَّفُّ صَفَّقَ.",
+    "de": "Er zog den Umhang an und wurde unsichtbar, und die Klasse klatschte.",
+    "luecke": "فَصَارَ خَفِيًّا",
+    "gloss": "لَبِس·َ ال·عَبَاءَة فَ·صَار·َ خَفِيّ·ًا، وَ·ال·صَفّ صَفَّق. | anziehen·3SG DEF·Umhang da·werden·3SG unsichtbar·AKK, und·DEF·Klasse klatschte.",
+    "umschrift": "labisa l-ʿabāʾa fa-ṣāra khafiyyan, waṣ-ṣaff ṣaffaq.",
+    "audio": "audio/ar-de/saetze/hk_19.mp3?v=bbb53355"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "لِبِس العَبايِة وصار مَخْفي، والصَّفّ صَفَّق.",
+    "umschrift": "libes il-ʿabāye w-ṣār makhfī, wiṣ-ṣaff ṣaffaʾ.",
+    "audio": "audio/ar-de/syrisch/hk_19.mp3?v=7acfb905"
+   }
+  },
+  {
+   "id": "hk_20",
+   "thema": "hikayat",
+   "fr": "حَلِمْتُ أَنِّي أَشْرَبُ الشَّايَ مَعَ التِّنِّين",
+   "de": "ich träumte, ich tränke Tee mit dem Drachen",
+   "register": "tu",
+   "anker": "حلم",
+   "notiz": "ḥalima = träumen (ḥulm = Traum, aḥlām Träume, Thema 4). anna = dass; anna + -ī = annī = dass ich. Nach anna folgt ein ganzer Satz mit Präsens: annī ashrab. al-layla l-māḍiya = die vergangene Nacht.",
+   "audio": "audio/ar-de/wendungen/hk_20.mp3?v=f184fb21",
+   "gloss": "حَلِم·ْتُ أَنّ·ِي | träumen·1SG dass·ich",
+   "umschrift": "ḥalimtu annī",
+   "wurzel": "ح-ل-م",
+   "satz": {
+    "fr": "اللَّيْلَةَ المَاضِيَةَ حَلِمْتُ أَنِّي أَشْرَبُ الشَّايَ مَعَ التِّنِّين.",
+    "de": "Letzte Nacht träumte ich, ich tränke Tee mit dem Drachen.",
+    "luecke": "حَلِمْتُ أَنِّي",
+    "gloss": "ال·لَيْلَة ال·مَاضِيَة حَلِم·ْتُ أَنّ·ِي أَ·شْرَب ال·شَاي مَعَ ال·تِنِّين. | DEF·Nacht DEF·vergangene träumen·1SG dass·ich 1SG·trinken DEF·Tee mit DEF·Drache.",
+    "umschrift": "al-layla l-māḍiya ḥalimtu annī ashrab ash-shāy maʿa t-tinnīn.",
+    "audio": "audio/ar-de/saetze/hk_20.mp3?v=3a629038"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "مْبارِح بِاللّيل حْلِمْت إنّي عَم إشْرَب شاي مَع التِّنّين.",
+    "umschrift": "mbāreḥ bil-lēl ḥlimt innī ʿam ishrab shāy maʿ it-tinnīn.",
+    "audio": "audio/ar-de/syrisch/hk_20.mp3?v=c4f301a3"
+   }
+  },
+  {
+   "id": "hk_21",
+   "thema": "hikayat",
+   "fr": "نِهَايَةَ الحِكَايَةِ يَعْرِفُهَا القِطّ",
+   "de": "das Ende der Geschichte kennt die Katze",
+   "register": "tu",
+   "anker": "نهاية",
+   "notiz": "nihāya = Ende (Wurzel n-h-y, wie intahā). Das Objekt steht vorn, deshalb hängt am Verb ein -hā, das es wiederaufnimmt: nihāyat al-ḥikāya yaʿrif-uhā l-qiṭṭ. Das ist die Betonung durch Voranstellung.",
+   "audio": "audio/ar-de/wendungen/hk_21.mp3?v=3d8e60a6",
+   "gloss": "نِهَايَة·َ ال·حِكَايَة يَ·عْرِف·ُهَا ال·قِطّ | Ende·AKK DEF·Geschichte 3SG·kennen·es DEF·Katze",
+   "umschrift": "nihāyat al-ḥikāya yaʿrifuhā l-qiṭṭ",
+   "wurzel": "ن-ه-ي",
+   "satz": {
+    "fr": "نِهَايَةَ الحِكَايَةِ يَعْرِفُهَا القِطّ، وَلا يَقُول.",
+    "de": "Das Ende der Geschichte kennt die Katze, und sie sagt es nicht.",
+    "luecke": "نِهَايَةَ الحِكَايَةِ يَعْرِفُهَا القِطّ",
+    "gloss": "نِهَايَة·َ ال·حِكَايَة يَ·عْرِف·ُهَا ال·قِطّ، وَ·لا يَ·قُول. | Ende·AKK DEF·Geschichte 3SG·kennen·es DEF·Katze, und·nicht 3SG·sagen.",
+    "umschrift": "nihāyat al-ḥikāya yaʿrifuhā l-qiṭṭ, wa-lā yaqūl.",
+    "audio": "audio/ar-de/saetze/hk_21.mp3?v=9ce77c5b"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "نْهايِة الحْكايِة بْيَعْرِفا البِسّ، وما بْيِقول.",
+    "umschrift": "nhāyet il-ḥkāye byaʿrefa l-biss, w-mā byʾūl.",
+    "audio": "audio/ar-de/syrisch/hk_21.mp3?v=6368e7f1"
+   }
+  },
+  {
+   "id": "hk_22",
+   "thema": "hikayat",
+   "fr": "وَهَكَذَا انْتَهَتِ الحِكَايَة",
+   "de": "und so endete die Geschichte",
+   "register": "tu",
+   "anker": "انتهى",
+   "notiz": "hākadhā = so (hā + ka + dhā: siehe, wie das). intahat = endete (feminin). Der Reim tūta tūta khilṣit il-ḥaddūta ist der Märchenschluss der Levante und Ägyptens (ḥaddūta = Geschichte, Dialekt), so bekannt, dass er hier im Standardsatz zitiert wird.",
+   "audio": "audio/ar-de/wendungen/hk_22.mp3?v=1d501a02",
+   "gloss": "وَ·هَكَذَا اِنْتَهَ·تِ ال·حِكَايَة | und·so enden·3SG.F DEF·Geschichte",
+   "umschrift": "wa-hākadhā ntahat al-ḥikāya",
+   "wurzel": "ن-ه-ي",
+   "satz": {
+    "fr": "وَهَكَذَا انْتَهَتِ الحِكَايَة. – تُوتَة تُوتَة، خِلْصِت الحَدُّوتَة.",
+    "de": "Und so endete die Geschichte. – Tūta tūta, aus ist die Geschicht'.",
+    "luecke": "وَهَكَذَا انْتَهَتِ الحِكَايَة",
+    "gloss": "وَ·هَكَذَا اِنْتَهَ·تِ ال·حِكَايَة. – تُوتَة تُوتَة، خِلْصِت ال·حَدُّوتَة. | und·so enden·3SG.F DEF·Geschichte. – Tūta Tūta, endete DEF·Geschichtchen.",
+    "umschrift": "wa-hākadhā ntahat al-ḥikāya. – tūta tūta, khilṣit il-ḥaddūta.",
+    "audio": "audio/ar-de/saetze/hk_22.mp3?v=937428da"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "وهيك خِلْصِت الحْكايِة. – توتَة توتَة، خِلْصِت الحَدّوتَة.",
+    "umschrift": "w-hēk khilṣet il-ḥkāye. – tūta tūta, khilṣet il-ḥaddūte.",
+    "audio": "audio/ar-de/syrisch/hk_22.mp3?v=eb4d465a"
+   }
+  },
+  {
+   "id": "hk_23",
+   "thema": "hikayat",
+   "fr": "العِبْرَةُ مِنَ الحِكَايَة",
+   "de": "die Moral von der Geschichte",
+   "register": "tu",
+   "anker": "عبرة",
+   "notiz": "ʿibra = Lehre, Moral (Wurzel ʿ-b-r, hinübergehen: was man mitnimmt). iʿmal = mach (Imperativ von ʿamila; mit Hilfsvokal i-). fī waqtih = zu seiner Zeit = rechtzeitig (waqt aus Modul 1).",
+   "audio": "audio/ar-de/wendungen/hk_23.mp3?v=b163a423",
+   "gloss": "ال·عِبْرَة مِنَ ال·حِكَايَة | DEF·Lehre aus DEF·Geschichte",
+   "umschrift": "al-ʿibra min al-ḥikāya",
+   "wurzel": "ع-ب-ر",
+   "satz": {
+    "fr": "العِبْرَةُ مِنَ الحِكَايَة: اِعْمَلِ الوَاجِبَ فِي وَقْتِه.",
+    "de": "Die Moral von der Geschichte: Mach die Hausaufgaben rechtzeitig.",
+    "luecke": "العِبْرَةُ مِنَ الحِكَايَة",
+    "gloss": "ال·عِبْرَة مِنَ ال·حِكَايَة: اِعْمَل ال·وَاجِب فِي وَقْت·ِه. | DEF·Lehre aus DEF·Geschichte: mach DEF·Pflicht in Zeit·ihr.",
+    "umschrift": "al-ʿibra min al-ḥikāya: iʿmal al-wājib fī waqtih.",
+    "audio": "audio/ar-de/saetze/hk_23.mp3?v=d774f4a6"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "العِبْرَة مِن الحْكايِة: اعْمِل الوَظيفِة بْوَقْتا.",
+    "umschrift": "il-ʿibra min il-ḥkāye: iʿmel il-waẓīfe b-waʾta.",
+    "audio": "audio/ar-de/syrisch/hk_23.mp3?v=875adb55"
+   }
+  },
+  {
+   "id": "hk_24",
+   "thema": "hikayat",
+   "fr": "وَعَاشُوا فِي تَبَاتٍ وَنَبَات",
+   "de": "und sie lebten in Fülle",
+   "register": "tu",
+   "anker": "عاش",
+   "notiz": "Die klassische Schlussformel: sie lebten in Beständigkeit (tabāt) und Wachstum (nabāt) und hinterließen Jungen (ṣubyān) und Mädchen (banāt). Alles reimt auf -āt. ʿāsha = leben (hohles Verb; ʿāsh-ū = sie lebten). khallafa = hinterlassen, zeugen.",
+   "audio": "audio/ar-de/wendungen/hk_24.mp3?v=ed6e2cac",
+   "gloss": "وَ·عَاش·ُوا فِي تَبَات وَ·نَبَات | und·leben·3PL in Beständigkeit und·Wachstum",
+   "umschrift": "wa-ʿāshū fī tabāt wa-nabāt",
+   "wurzel": "ع-ي-ش",
+   "satz": {
+    "fr": "وَعَاشُوا فِي تَبَاتٍ وَنَبَات، وَخَلَّفُوا صُبْيَانًا وَبَنَات.",
+    "de": "Und sie lebten in Fülle und Gedeihen und bekamen Söhne und Töchter.",
+    "luecke": "وَعَاشُوا فِي تَبَاتٍ وَنَبَات",
+    "gloss": "وَ·عَاش·ُوا فِي تَبَات وَ·نَبَات، وَ·خَلَّف·ُوا صُبْيَان·ًا وَ·بَنَات. | und·leben·3PL in Beständigkeit und·Wachstum, und·hinterlassen·3PL Jungen·AKK und·Mädchen.",
+    "umschrift": "wa-ʿāshū fī tabāt wa-nabāt, wa-khallafū ṣubyānan wa-banāt.",
+    "audio": "audio/ar-de/saetze/hk_24.mp3?v=f8e61278"
+   },
+   "zeit": null,
+   "syrisch": {
+    "fr": "وعاشو بْتَبات ونَبات، وخَلَّفو صُبْيان وبَنات.",
+    "umschrift": "w-ʿāshū b-tabāt w-nabāt, w-khallafū ṣubyān w-banāt.",
+    "audio": "audio/ar-de/syrisch/hk_24.mp3?v=a6fb5233"
    }
   }
  ],
@@ -8448,6 +9139,231 @@ window.SPRACHEN["ar-de"] = {
      "richtig": 1
     }
    ]
+  },
+  {
+   "id": "g_hikayat",
+   "thema": "hikayat",
+   "titel": "كَانَ وَأَخَوَاتُهَا وَالَّذِي",
+   "de": "kāna und seine Schwestern, und das Relativpronomen",
+   "regel": [
+    "Der Satz ohne Verb hat keine Zeit. Soll er in die Vergangenheit, kommt kāna davor: al-baṭal khāʾif der Held ist ängstlich, al-baṭal kāna khāʾifan der Held war ängstlich. kāna zieht das Prädikat in den Akkusativ (-an, bei Adjektiven hörbar). Seine Schwestern tun dasselbe: ṣāra werden (ṣāra khafiyyan), laysa nicht sein (laysa lil-qiṭaṭ), mā zāla noch sein (mā zāla naʿsān), aṣbaḥa werden am Morgen (yuṣbiḥ al-jamīʿ muʾaddabīn). Für die Zukunft: sa-yakūn.",
+    "Das Relativpronomen heißt alladhī (maskulin), allatī (feminin), alladhīna (Plural Menschen), und nur nach bestimmten Wörtern: al-bāb alladhī lā yuftaḥ die Tür, die nicht aufgeht. Nach einem unbestimmten Wort fällt es weg: bāb siḥrī lā yuftaḥ eine Zaubertür, die nicht aufgeht. Dasselbe mit man (wer) und mā (was): arā man yatbaʿunī ich sehe, wer mir folgt. anna leitet einen Dass-Satz ein und nimmt Suffixe: annī dass ich, annahu dass er."
+   ],
+   "morphem": [
+    "AKK",
+    "3SG",
+    "3SG.F",
+    "JUSS"
+   ],
+   "beispiele": [
+    {
+     "fr": "البَطَلُ كَانَ خَائِفًا، وَذَهَبَ رَغْمَ ذَلِك.",
+     "de": "Der Held hatte Angst und ging trotzdem.",
+     "gloss": "ال·بَطَل كَان·َ خَائِف·ًا، وَ·ذَهَب·َ رَغْمَ ذَلِك. | DEF·Held sein·3SG ängstlich·AKK, und·gehen·3SG trotz jenes.",
+     "umschrift": "al-baṭal kāna khāʾifan, wa-dhahaba raghma dhālik.",
+     "audio": "audio/ar-de/saetze/hk_09.mp3?v=caa5cf16",
+     "hinweis": "kāna khāʾifan: die Vergangenheit des Satzes ohne Verb, mit Akkusativ."
+    },
+    {
+     "fr": "لَبِسَ العَبَاءَةَ فَصَارَ خَفِيًّا، وَالصَّفُّ صَفَّقَ.",
+     "de": "Er zog den Umhang an und wurde unsichtbar, und die Klasse klatschte.",
+     "gloss": "لَبِس·َ ال·عَبَاءَة فَ·صَار·َ خَفِيّ·ًا، وَ·ال·صَفّ صَفَّق. | anziehen·3SG DEF·Umhang da·werden·3SG unsichtbar·AKK, und·DEF·Klasse klatschte.",
+     "umschrift": "labisa l-ʿabāʾa fa-ṣāra khafiyyan, waṣ-ṣaff ṣaffaq.",
+     "audio": "audio/ar-de/saetze/hk_19.mp3?v=bbb53355",
+     "hinweis": "ṣāra khafiyyan: die Schwester ṣāra, wieder Akkusativ."
+    },
+    {
+     "fr": "كَانَ هُنَاكَ بَابٌ سِحْرِيّ لا يُفْتَحُ إِلَّا لَيْلاً.",
+     "de": "Es gab eine Zaubertür, die nur nachts aufging.",
+     "gloss": "كَان·َ هُنَاكَ بَاب سِحْرِيّ لا يُ·فْتَح إِلَّا لَيْلاً. | sein·3SG dort Tür magisch nicht PASS·öffnen außer nachts.",
+     "umschrift": "kāna hunāka bāb siḥrī lā yuftaḥ illā laylan.",
+     "audio": "audio/ar-de/saetze/hk_04.mp3?v=cf26e99f",
+     "hinweis": "bāb siḥrī lā yuftaḥ: Relativsatz ohne Pronomen nach unbestimmtem Wort."
+    },
+    {
+     "fr": "جُحَا رَكِبَ الحِمَارَ بِالمَقْلُوب: « هَكَذَا أَرَى مَنْ يَتْبَعُنِي ».",
+     "de": "Dschuha ritt den Esel verkehrt herum: « So sehe ich, wer mir folgt ».",
+     "gloss": "جُحَا رَكِب·َ ال·حِمَار بِ·ال·مَقْلُوب: « هَكَذَا أَ·رَى مَنْ يَ·تْبَع·ُنِي ». | Dschuha reiten·3SG DEF·Esel mit·DEF·Umgedreht: « so 1SG·sehen wer 3SG·folgen·mir ».",
+     "umschrift": "Juḥā rakiba l-ḥimār bil-maqlūb: « hākadhā arā man yatbaʿunī ».",
+     "audio": "audio/ar-de/saetze/hk_16.mp3?v=643f56a4",
+     "hinweis": "arā man yatbaʿunī: man als Relativ (wer)."
+    },
+    {
+     "fr": "اللَّيْلَةَ المَاضِيَةَ حَلِمْتُ أَنِّي أَشْرَبُ الشَّايَ مَعَ التِّنِّين.",
+     "de": "Letzte Nacht träumte ich, ich tränke Tee mit dem Drachen.",
+     "gloss": "ال·لَيْلَة ال·مَاضِيَة حَلِم·ْتُ أَنّ·ِي أَ·شْرَب ال·شَاي مَعَ ال·تِنِّين. | DEF·Nacht DEF·vergangene träumen·1SG dass·ich 1SG·trinken DEF·Tee mit DEF·Drache.",
+     "umschrift": "al-layla l-māḍiya ḥalimtu annī ashrab ash-shāy maʿa t-tinnīn.",
+     "audio": "audio/ar-de/saetze/hk_20.mp3?v=3a629038",
+     "hinweis": "ḥalimtu annī: anna mit Suffix, dann der Satz."
+    },
+    {
+     "fr": "كَانَ يَا مَا كَان، فِي قَدِيمِ الزَّمَان، قِطٌّ فِي دِمَشْق.",
+     "de": "Es war einmal, in alter Zeit, eine Katze in Damaskus.",
+     "gloss": "كَان·َ يَا مَا كَان، فِي قَدِيم·ِ ال·زَمَان، قِطّ فِي دِمَشْق. | sein·3SG oh was war, in Altes·GEN DEF·Zeit, Katze in Damaskus.",
+     "umschrift": "kāna yā mā kān, fī qadīm az-zamān, qiṭṭ fī Dimashq.",
+     "audio": "audio/ar-de/saetze/hk_01.mp3?v=c2fa0fc4",
+     "hinweis": "kāna yā mā kān: kāna ohne alles, das reine « es war »."
+    },
+    {
+     "fr": "التِّنِّينُ نَائِم، وَالكَنْزُ يَنْتَظِر.",
+     "de": "Der Drache schläft, und der Schatz wartet.",
+     "gloss": "ال·تِنِّين نَائِم، وَ·ال·كَنْز يَ·نْتَظِر. | DEF·Drache schlafend, und·DEF·Schatz 3SG·warten.",
+     "umschrift": "at-tinnīn nāʾim, wal-kanz yantaẓir.",
+     "audio": "audio/ar-de/saetze/hk_03.mp3?v=475b47c3",
+     "hinweis": "at-tinnīn nāʾim: ohne kāna ist es Gegenwart."
+    }
+   ],
+   "kontrast": [
+    {
+     "a": "al-baṭal khāʾif",
+     "b": "al-baṭal kāna khāʾifan",
+     "text": "der Held ist ängstlich – der Held war ängstlich"
+    },
+    {
+     "a": "mutʿab",
+     "b": "ṣirtu mutʿaban",
+     "text": "müde – ich bin müde geworden (ṣāra + Akkusativ)"
+    },
+    {
+     "a": "al-bāb alladhī lā yuftaḥ",
+     "b": "bāb lā yuftaḥ",
+     "text": "die Tür, die nicht aufgeht (bestimmt: alladhī) – eine Tür, die nicht aufgeht (unbestimmt: nichts)"
+    },
+    {
+     "a": "alladhī",
+     "b": "allatī",
+     "text": "der (maskulin) – die (feminin)"
+    }
+   ],
+   "chips": [
+    {
+     "formel": "kāna + khāʾif",
+     "antworten": [
+      "kāna khāʾifan",
+      "kāna khāʾif",
+      "kāna khāʾifun"
+     ]
+    },
+    {
+     "formel": "ṣāra + khafī",
+     "antworten": [
+      "ṣāra khafiyyan",
+      "ṣāra khafī",
+      "ṣāra l-khafī"
+     ]
+    },
+    {
+     "formel": "al-qiṭṭ + Relativ (m.)",
+     "antworten": [
+      "al-qiṭṭ alladhī",
+      "al-qiṭṭ allatī",
+      "al-qiṭṭ man"
+     ]
+    },
+    {
+     "formel": "al-ḥikāya + Relativ (f.)",
+     "antworten": [
+      "al-ḥikāya allatī",
+      "al-ḥikāya alladhī",
+      "al-ḥikāya mā"
+     ]
+    },
+    {
+     "formel": "anna + ich",
+     "antworten": [
+      "annī",
+      "annahu",
+      "annak"
+     ]
+    },
+    {
+     "formel": "sa- + yakūn (er wird sein)",
+     "antworten": [
+      "sa-yakūn",
+      "sa-kāna",
+      "yakūnu sa-"
+     ]
+    }
+   ],
+   "hoeren_frage": "In welchem Satz steht kāna oder eine seiner Schwestern (ṣāra, laysa, mā zāla)?",
+   "hoeren": [
+    {
+     "saetze": [
+      {
+       "fr": "البَطَلُ كَانَ خَائِفًا، وَذَهَبَ رَغْمَ ذَلِك.",
+       "de": "Der Held hatte Angst und ging trotzdem.",
+       "gloss": "ال·بَطَل كَان·َ خَائِف·ًا، وَ·ذَهَب·َ رَغْمَ ذَلِك. | DEF·Held sein·3SG ängstlich·AKK, und·gehen·3SG trotz jenes.",
+       "umschrift": "al-baṭal kāna khāʾifan, wa-dhahaba raghma dhālik.",
+       "audio": "audio/ar-de/saetze/hk_09.mp3?v=caa5cf16"
+      },
+      {
+       "fr": "التِّنِّينُ نَائِم، وَالكَنْزُ يَنْتَظِر.",
+       "de": "Der Drache schläft, und der Schatz wartet.",
+       "gloss": "ال·تِنِّين نَائِم، وَ·ال·كَنْز يَ·نْتَظِر. | DEF·Drache schlafend, und·DEF·Schatz 3SG·warten.",
+       "umschrift": "at-tinnīn nāʾim, wal-kanz yantaẓir.",
+       "audio": "audio/ar-de/saetze/hk_03.mp3?v=475b47c3"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "لَبِسَ العَبَاءَةَ فَصَارَ خَفِيًّا، وَالصَّفُّ صَفَّقَ.",
+       "de": "Er zog den Umhang an und wurde unsichtbar, und die Klasse klatschte.",
+       "gloss": "لَبِس·َ ال·عَبَاءَة فَ·صَار·َ خَفِيّ·ًا، وَ·ال·صَفّ صَفَّق. | anziehen·3SG DEF·Umhang da·werden·3SG unsichtbar·AKK, und·DEF·Klasse klatschte.",
+       "umschrift": "labisa l-ʿabāʾa fa-ṣāra khafiyyan, waṣ-ṣaff ṣaffaq.",
+       "audio": "audio/ar-de/saetze/hk_19.mp3?v=bbb53355"
+      },
+      {
+       "fr": "ظِلِّي دَخَلَ البَيْتَ قَبْلِي.",
+       "de": "Mein Schatten ging vor mir ins Haus.",
+       "gloss": "ظِلّ·ِي دَخَل·َ ال·بَيْت قَبْل·ِي. | Schatten·mein eintreten·3SG DEF·Haus vor·mir.",
+       "umschrift": "ẓillī dakhala l-bayt qablī.",
+       "audio": "audio/ar-de/saetze/hk_18.mp3?v=e784c7c4"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "فِي الثَّامِنَةِ صَبَاحًا مَا زِلْتُ نَعْسَان.",
+       "de": "Um acht Uhr morgens bin ich noch verschlafen.",
+       "gloss": "فِي ال·ثَامِنَة صَبَاحًا مَا زِل·ْتُ نَعْسَان. | in DEF·achten morgens nicht aufhören·1SG schläfrig.",
+       "umschrift": "fī th-thāmina ṣabāḥan mā ziltu naʿsān.",
+       "audio": "audio/ar-de/saetze/ms_09.mp3?v=53128656"
+      },
+      {
+       "fr": "بَعْدَ الحِصَّةِ الأَخِيرَةِ ضَاعَ مِزَاجِي.",
+       "de": "Nach der letzten Stunde war die Laune hin.",
+       "gloss": "بَعْدَ ال·حِصَّة ال·أَخِيرَة ضَاع·َ مِزَاج·ِي. | nach DEF·Stunde DEF·letzte verloren.gehen·3SG Laune·mein.",
+       "umschrift": "baʿda l-ḥiṣṣa l-akhīra ḍāʿa mizājī.",
+       "audio": "audio/ar-de/saetze/ms_07.mp3?v=5fa0b6d9"
+      }
+     ],
+     "richtig": 0
+    },
+    {
+     "saetze": [
+      {
+       "fr": "بِسْكُوِيتُ لِسَانِ القِطِّ لَيْسَ لِلْقِطَط.",
+       "de": "Katzenzungen-Kekse sind nicht für Katzen.",
+       "gloss": "بِسْكُوِيت·ُ لِسَان·ِ ال·قِطّ لَيْسَ لِ·ال·قِطَط. | Keks·GEN Zunge·GEN DEF·Katze ist.nicht für·DEF·Katzen.",
+       "umschrift": "biskuwīt lisān al-qiṭṭ laysa lil-qiṭaṭ.",
+       "audio": "audio/ar-de/saetze/qi_21.mp3?v=d92fdbbd"
+      },
+      {
+       "fr": "التَّلامِيذُ تَبَنَّوْا قِطَّ المَدْرَسَة.",
+       "de": "Die Schüler haben die Schulkatze adoptiert.",
+       "gloss": "ال·تَلامِيذ تَبَنَّ·وْا قِطّ·َ ال·مَدْرَسَة. | DEF·Schüler.PL adoptieren·3PL Katze·AKK DEF·Schule.",
+       "umschrift": "at-talāmīdh tabannaw qiṭṭ al-madrasa.",
+       "audio": "audio/ar-de/saetze/qi_20.mp3?v=30293d23"
+      }
+     ],
+     "richtig": 0
+    }
+   ]
   }
  ],
  "geschichte_info": {
@@ -10002,6 +10918,32 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/orte/ugarit.mp3?v=31a50fdc",
   "audio/ar-de/orte/umawi.mp3?v=81993472",
   "audio/ar-de/orte/yanbu.mp3?v=11a88d59",
+  "audio/ar-de/saetze/hk_01.mp3?v=c2fa0fc4",
+  "audio/ar-de/saetze/hk_02.mp3?v=a06704c2",
+  "audio/ar-de/saetze/hk_02_fp.mp3?v=5680cccb",
+  "audio/ar-de/saetze/hk_02_pc.mp3?v=818b23d9",
+  "audio/ar-de/saetze/hk_03.mp3?v=475b47c3",
+  "audio/ar-de/saetze/hk_04.mp3?v=cf26e99f",
+  "audio/ar-de/saetze/hk_05.mp3?v=57b997a8",
+  "audio/ar-de/saetze/hk_06.mp3?v=d26c5493",
+  "audio/ar-de/saetze/hk_07.mp3?v=bc189887",
+  "audio/ar-de/saetze/hk_08.mp3?v=f7a3ed69",
+  "audio/ar-de/saetze/hk_09.mp3?v=caa5cf16",
+  "audio/ar-de/saetze/hk_10.mp3?v=5e69468e",
+  "audio/ar-de/saetze/hk_11.mp3?v=c87272cc",
+  "audio/ar-de/saetze/hk_12.mp3?v=9a3ac1df",
+  "audio/ar-de/saetze/hk_13.mp3?v=4ebdfedb",
+  "audio/ar-de/saetze/hk_14.mp3?v=c6616e3f",
+  "audio/ar-de/saetze/hk_15.mp3?v=1590e06c",
+  "audio/ar-de/saetze/hk_16.mp3?v=643f56a4",
+  "audio/ar-de/saetze/hk_17.mp3?v=ee852e2c",
+  "audio/ar-de/saetze/hk_18.mp3?v=e784c7c4",
+  "audio/ar-de/saetze/hk_19.mp3?v=bbb53355",
+  "audio/ar-de/saetze/hk_20.mp3?v=3a629038",
+  "audio/ar-de/saetze/hk_21.mp3?v=9ce77c5b",
+  "audio/ar-de/saetze/hk_22.mp3?v=937428da",
+  "audio/ar-de/saetze/hk_23.mp3?v=d774f4a6",
+  "audio/ar-de/saetze/hk_24.mp3?v=f8e61278",
   "audio/ar-de/saetze/mq_01.mp3?v=3432bc37",
   "audio/ar-de/saetze/mq_01_fp.mp3?v=58151480",
   "audio/ar-de/saetze/mq_01_pc.mp3?v=4af4c2bd",
@@ -10170,6 +11112,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/spiel/titel_5.mp3?v=c46d1836",
   "audio/ar-de/spiel/titel_6.mp3?v=2d3db4b0",
   "audio/ar-de/spiel/woche.mp3?v=72c5bf23",
+  "audio/ar-de/syrisch/hk_01.mp3?v=5c6897c9",
+  "audio/ar-de/syrisch/hk_02.mp3?v=8dffd214",
+  "audio/ar-de/syrisch/hk_03.mp3?v=0788de4f",
+  "audio/ar-de/syrisch/hk_04.mp3?v=b9e80736",
+  "audio/ar-de/syrisch/hk_05.mp3?v=2c224c22",
+  "audio/ar-de/syrisch/hk_06.mp3?v=13e916d2",
+  "audio/ar-de/syrisch/hk_07.mp3?v=fba5bb31",
+  "audio/ar-de/syrisch/hk_08.mp3?v=cbcf2f31",
+  "audio/ar-de/syrisch/hk_09.mp3?v=0e8c1577",
+  "audio/ar-de/syrisch/hk_10.mp3?v=fcb008d3",
+  "audio/ar-de/syrisch/hk_11.mp3?v=dbdb3f49",
+  "audio/ar-de/syrisch/hk_12.mp3?v=5559fa19",
+  "audio/ar-de/syrisch/hk_13.mp3?v=2ad6752b",
+  "audio/ar-de/syrisch/hk_14.mp3?v=a234dfa8",
+  "audio/ar-de/syrisch/hk_15.mp3?v=963185df",
+  "audio/ar-de/syrisch/hk_16.mp3?v=52a7c543",
+  "audio/ar-de/syrisch/hk_17.mp3?v=7ada089e",
+  "audio/ar-de/syrisch/hk_18.mp3?v=beaefc78",
+  "audio/ar-de/syrisch/hk_19.mp3?v=7acfb905",
+  "audio/ar-de/syrisch/hk_20.mp3?v=c4f301a3",
+  "audio/ar-de/syrisch/hk_21.mp3?v=6368e7f1",
+  "audio/ar-de/syrisch/hk_22.mp3?v=eb4d465a",
+  "audio/ar-de/syrisch/hk_23.mp3?v=875adb55",
+  "audio/ar-de/syrisch/hk_24.mp3?v=a6fb5233",
   "audio/ar-de/syrisch/mq_01.mp3?v=2703c33f",
   "audio/ar-de/syrisch/mq_02.mp3?v=63508fd1",
   "audio/ar-de/syrisch/mq_03.mp3?v=93901815",
@@ -10290,6 +11256,30 @@ window.SPRACHEN["ar-de"] = {
   "audio/ar-de/syrisch/ta_22.mp3?v=9e25c115",
   "audio/ar-de/syrisch/ta_23.mp3?v=a728dec3",
   "audio/ar-de/syrisch/ta_24.mp3?v=039dec19",
+  "audio/ar-de/wendungen/hk_01.mp3?v=1efc03ef",
+  "audio/ar-de/wendungen/hk_02.mp3?v=39b0b384",
+  "audio/ar-de/wendungen/hk_03.mp3?v=46597ac2",
+  "audio/ar-de/wendungen/hk_04.mp3?v=3b0be115",
+  "audio/ar-de/wendungen/hk_05.mp3?v=6b756461",
+  "audio/ar-de/wendungen/hk_06.mp3?v=85f9999b",
+  "audio/ar-de/wendungen/hk_07.mp3?v=b6422aa7",
+  "audio/ar-de/wendungen/hk_08.mp3?v=c3533677",
+  "audio/ar-de/wendungen/hk_09.mp3?v=7e2fbf70",
+  "audio/ar-de/wendungen/hk_10.mp3?v=e5b5f1dd",
+  "audio/ar-de/wendungen/hk_11.mp3?v=ff41f2b4",
+  "audio/ar-de/wendungen/hk_12.mp3?v=fbdd1314",
+  "audio/ar-de/wendungen/hk_13.mp3?v=96534903",
+  "audio/ar-de/wendungen/hk_14.mp3?v=d19c5a89",
+  "audio/ar-de/wendungen/hk_15.mp3?v=30807af4",
+  "audio/ar-de/wendungen/hk_16.mp3?v=1b966d4a",
+  "audio/ar-de/wendungen/hk_17.mp3?v=65197795",
+  "audio/ar-de/wendungen/hk_18.mp3?v=16f47063",
+  "audio/ar-de/wendungen/hk_19.mp3?v=5af4bc44",
+  "audio/ar-de/wendungen/hk_20.mp3?v=f184fb21",
+  "audio/ar-de/wendungen/hk_21.mp3?v=3d8e60a6",
+  "audio/ar-de/wendungen/hk_22.mp3?v=1d501a02",
+  "audio/ar-de/wendungen/hk_23.mp3?v=b163a423",
+  "audio/ar-de/wendungen/hk_24.mp3?v=ed6e2cac",
   "audio/ar-de/wendungen/mq_01.mp3?v=a40e38ab",
   "audio/ar-de/wendungen/mq_02.mp3?v=058cddb9",
   "audio/ar-de/wendungen/mq_03.mp3?v=7785dc21",
