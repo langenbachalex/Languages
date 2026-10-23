@@ -122,22 +122,27 @@
     verlauf.push({ art, r }); if (verlauf.length > 40) verlauf.shift();
     return r;
   }
-  let vorLob = null, richtigSerie = 0, letzterRuf = null;
+  let vorLob = null, richtigSerie = 0, letzterRuf = null, lobEnde = Promise.resolve();
   const tonLob = (r) => r.audio || { text: r.text };
-  function ruf(art) {
+  // stumm: Lob nur als Text (die letzte Antwort eines Teils – der Abschluss lobt gleich danach, einmal und ganz)
+  function ruf(art, stumm) {
     const r = waehleRuf(art);
     letzterRuf = r || null;
+    lobEnde = Promise.resolve();
     if (!r) return "";
-    if (!leise) {
+    if (!leise && !stumm) {
       const t = tonLob(r);
       vorLob = t;
-      setTimeout(() => { if (vorLob === t) { vorLob = null; spiele([t]); } }, 0);
+      lobEnde = new Promise((ok) => setTimeout(() => { if (vorLob === t) { vorLob = null; spiele([t]).then(ok); } else ok(); }, 0));
     }
     return r.text;
   }
+  // Ist das gerade der letzte Schritt eines Teils oder die letzte Karte der Séance?
+  const letzterSchritt = () => (lage && lage.teile && lage.teile[lage.teil] ? lage.pos + 1 >= laenge(lage.teile[lage.teil])
+    : !!seance && seancePos + 1 >= seance.schlange.length);
   function lob(stark) {
     richtigSerie++;
-    return ruf((stark || richtigSerie % 5 === 0) && D.lob.stark ? "stark" : "lob");
+    return ruf((stark || richtigSerie % 5 === 0) && D.lob.stark ? "stark" : "lob", !stark && letzterSchritt());
   }
   // Lob als Text mit Übersetzung in der Hilfssprache (immer sichtbar, auch ohne „+ DE“)
   const lobDe = () => (letzterRuf && letzterRuf.de) || "";
@@ -504,7 +509,7 @@
       if (icon.heben) setTimeout(icon.heben, 400); };
     ansicht = zeichne; seance = null; tasten(null, null);
     zeichne();
-    setTimeout(() => spiele([r && tonLob(r), fini && (fini.audio || { text: fini.text })]), 300);
+    nachLob(new Promise((ok) => setTimeout(() => spiele([r && tonLob(r), fini && (fini.audio || { text: fini.text })]).then(ok), 300)));
   }
 
   /* ---------- Themen: Teile und Lage ---------- */
@@ -1025,6 +1030,7 @@
   }
   function zwischenstand() {
     const fertig = lage.teile[lage.teil], text = lob(true), textDe = lobDe();
+    nachLob(lobEnde);
     const weiter = () => { lage.teil++; lage.pos = 0; lage.reihe = null; lage.hilfe = false; zeigeTeil(); };
     const zeichne = () => {
       tasten(null, weiter);
@@ -1036,6 +1042,7 @@
   function fastGeschafft() {
     lage.ende = true; tasten(null, null);
     const text = lob(true), textDe = lobDe();
+    nachLob(lobEnde);
     const offen = lage.teile.map((t, i) => [t, i]).filter(([, i]) => !istFertig(i));
     const zeichne = () => zeige(kopf(), el("section", { class: "geschafft" },
       lobZeile(text, "h2", textDe), ansageU("presque"),
@@ -1050,6 +1057,7 @@
     const t = thema(tid), alle = !!t && gruppenVon(t).every((_, i) => gruppeFertig(tid, i));
     speichern();
     const text = lob(true), textDe = lobDe();
+    nachLob(lobEnde);
     lage = null; tasten(null, null);
     const zeichne = () => zeige(el("header", { class: "kopf" }, knopf(t ? U.zurueck_thema : U.zurueck_accueil, zurueckZu, "leise"), el("h1", { lang: D.lang }, titel)),
       el("section", { class: "geschafft" },
@@ -1307,12 +1315,27 @@
     setTimeout(() => box.classList.add("weg"), 2200);
     setTimeout(() => box.remove(), 2700);
   }
+  /* Belohnungen der Reihe nach (Mr. Alex, 23.10.: Lob, Stempel und Feier schnitten sich gegenseitig ab):
+     Punkte-Toasts sofort; Reisestempel und Feier erst, wenn das Lob des Abschlussbildschirms zu Ende ist, dann Stempel, dann Feier. */
+  let warteAufLob = false, lobRunde = 0, stempelBis = 0;
+  function nachLob(fertig) {
+    warteAufLob = true;
+    const start = Date.now(), n = ++lobRunde;
+    Promise.race([fertig, new Promise((ok) => setTimeout(ok, 15000))]).then(() => {
+      setTimeout(() => { if (n !== lobRunde) return; warteAufLob = false; zeigeEreignisse(); }, Math.max(150, 900 - (Date.now() - start)));
+    });
+  }
   function zeigeEreignisse() {
-    while (ereignisse.length && (ereignisse[0].art === "toast" || ereignisse[0].art === "ort")) {
-      const e = ereignisse.shift();
-      if (e.art === "ort") ortStempel(e.ort); else toast(e.text);
+    while (ereignisse.length && ereignisse[0].art === "toast") toast(ereignisse.shift().text);
+    if (warteAufLob || !ereignisse.length || feier.open) return;
+    const rest = stempelBis - Date.now();
+    if (rest > 0) { setTimeout(zeigeEreignisse, rest + 50); return; }
+    if (ereignisse[0].art === "ort") {
+      ortStempel(ereignisse.shift().ort);
+      stempelBis = Date.now() + 2300;
+      setTimeout(zeigeEreignisse, 2350);
+      return;
     }
-    if (!ereignisse.length || feier.open) return;
     const e = ereignisse.shift();
     const tonE = e.ton && (e.ton.audio || { text: e.ton.text });
     feier.replaceChildren(konfetti(),

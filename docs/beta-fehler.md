@@ -21,6 +21,7 @@ Status: ☐ offen · ◐ umgesetzt, noch nicht veröffentlicht · ☑ veröffent
 |---|---|---|---|
 | ☑ | alle Sprachen | Sprachfarbe (fr: dunkles Blau) zu dunkel; Hervorhebungen heben sich nicht ab. Analyse: app.js setzt die Sprachfarben fest, dadurch gelten im Dunkelmodus die hellen Farben weiter (Kontrast 1,3–2,8 : 1). Spanisch-Gold mit weißer Schrift auch im Hellmodus zu schwach (2,1 : 1). | Vorschlag mit Farbprobe am 15.10.; je Sprache eigene Hell- und Dunkelfarben, Schriftfarbe auf Gold dunkel. Umgesetzt und veröffentlicht 15.10. (Freigabe Mr. Alex). |
 | ☑ | alle Karten | freigeschaltete Gebiete nicht unterscheidbar (gleiche Farbe, schwacher Rand); gewählter Ort nicht erkennbar | weiße Trennlinien zwischen freigeschalteten Gebieten, gewähltes Gebiet mit rotem Rahmen und hellgelber Füllung, Punkt größer Veröffentlicht 15.10. |
+| ☑ | alle Sprachen | Ende eines Teils / der Séance: Lob der letzten Antwort, Lob des Abschlusses, Reisestempel mit Klang und Feier-Pop-up starten in derselben Sekunde und schneiden sich ab (gemeinsamer Player: jeder neue Ton stoppt den alten; Feier nach 0,9 s, Stempel nach 50 ms) | Belohnungen der Reihe nach: letzte Antwort eines Teils lobt nur als Text, Abschluss-Lob spielt ganz, danach Stempel, dann Feier mit Ton. Punkte-Toasts bleiben sofort. Im Browser mit Zeitprotokoll geprüft (Séance-Ende, Aussprache-Teil). Veröffentlicht 23.10. |
 
 ## Noch nicht zugeordnet
 
