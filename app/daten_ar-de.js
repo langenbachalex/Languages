@@ -36,6 +36,10 @@ window.SPRACHEN["ar-de"] = {
   "seance": "▶ هَيَّا نَبْدَأ · hayyā nabdaʾ",
   "seance_fertig": "✓ تَمَّ اليَوْم",
   "seance_stand": "{neu} جَدِيد · {wdh} مُرَاجَعَة · {fertig} / {gesamt} تَمّ",
+  "neu_pro_tag": [
+   "جَدِيدٌ كُلَّ يَوْم",
+   "Neue pro Tag"
+  ],
   "seance_leer": "لا مُرَاجَعَةَ اليَوْم – اِكْتَشِفِ المَوَاضِيع!",
   "themen": [
    "المَوَاضِيع",
@@ -14601,7 +14605,8 @@ window.SPRACHEN["ar-de"] = {
   ]
  },
  "pensum": {
-  "neu": 3,
+  "neu": 1,
+  "neu_max": 5,
   "wiederholung": 8
  },
  "intervalle": [

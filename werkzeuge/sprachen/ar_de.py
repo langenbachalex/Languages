@@ -161,6 +161,7 @@ UI = {
     "motto": ["عَشْرُ دَقَائِقَ فِي اليَوْم: الجَلْسَةُ أَوَّلاً، ثُمَّ مَا تَشَاء.", "Zehn Minuten am Tag: die Sitzung zuerst, danach was du willst."],
     "seance": "▶ هَيَّا نَبْدَأ · hayyā nabdaʾ", "seance_fertig": "✓ تَمَّ اليَوْم",
     "seance_stand": "{neu} جَدِيد · {wdh} مُرَاجَعَة · {fertig} / {gesamt} تَمّ",
+    "neu_pro_tag": ["جَدِيدٌ كُلَّ يَوْم", "Neue pro Tag"],
     "seance_leer": "لا مُرَاجَعَةَ اليَوْم – اِكْتَشِفِ المَوَاضِيع!",
     "themen": ["المَوَاضِيع", "Die Themen"], "expressions": "عِبَارَة", "parties": "جُزْء",
     "bonus": ["النُّطْق وَالقِصَّة", "Aussprache und Geschichte"],

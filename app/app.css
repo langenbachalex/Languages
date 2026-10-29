@@ -37,6 +37,11 @@
 .gym-punkte span.wdh { border-radius: 3px; }
 .gym-punkte span.ok { background: var(--blau); }
 .gym-knoepfe { display: flex; gap: 6px; align-items: center; }
+.neu-wahl { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 12px; padding-top: 8px; border-top: 1px solid var(--linie, rgba(127,127,127,.25)); }
+.neu-wahl-titel { font-weight: 700; }
+.neu-zahlen { display: flex; gap: 6px; }
+.neu-zahl { min-width: 40px; min-height: 40px; border-radius: 12px; border: 2px solid var(--blau); background: transparent; color: var(--text); font: 600 1.05rem var(--display); cursor: pointer; }
+.neu-zahl[aria-pressed="true"] { background: var(--blau); color: var(--blau-text, #fff); }
 .gym-titel { display: inline-flex; align-items: center; gap: 10px; }
 .gym-icon { display: block; overflow: visible; --figur: var(--blau); --kopf: var(--blau); --stange: var(--text); --b1: var(--rot); --b2: var(--gelb); --b3: var(--blau); --rand: var(--text); }
 .gym-icon .figur, .gym-icon .arme { fill: none; stroke: var(--figur); stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }

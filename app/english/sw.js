@@ -1,7 +1,7 @@
 // Automatisch erzeugt von werkzeuge/bauen.py – Offline-Speicher von English – Word Gym.
 // Kern (Code, Daten, Icons) wird bei jeder Version neu geladen; Audio bleibt im eigenen Speicher (en-audio-2), gefüllt beim Abspielen oder über „Hors-ligne“.
 // Wird AUDIO_STAND in bauen.py erhöht (nach Neuaufnahmen oder Lautstärke-Angleich), verwirft der Browser alle alten Audios.
-const VERSION = "en-kern-9c7779177e0e";
+const VERSION = "en-kern-c6ac5ce858f6";
 const AUDIO = "en-audio-2";
 const DATEIEN = ["./", "app.css", "app.js", "basis.css", "daten_en-de.js", "index.html", "manifest.webmanifest", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", (e) => {

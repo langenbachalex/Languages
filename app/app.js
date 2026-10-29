@@ -2,7 +2,7 @@
    Eine App, mehrere Sprachpaare (Ziel + Hilfe), Umschalter oben. Jedes Paar bringt seine Daten und Oberflächentexte mit
    (werkzeuge/sprachen/<paar>.py → daten_<paar>.js). Kein Konto; Fortschritt bleibt nur auf diesem Gerät (localStorage):
    pro Sprache Kartenstapel, Teile, Punkte und Titel – gemeinsam die Serie (Schultage, perfekte Wochen).
-   Kern: die tägliche Séance – 3 neue Wendungen + höchstens 8 Wiederholungen (Leitner) pro Sprache, danach ist Schluss.
+   Kern: die tägliche Séance – 1 bis 5 neue Wendungen (einstellbar, Voreinstellung 1) + höchstens 8 Wiederholungen (Leitner) pro Sprache, danach ist Schluss.
    Datenfelder heißen in allen Paaren gleich: fr = Zielsprache, de = Hilfssprache. */
 (function () {
   "use strict";
@@ -329,10 +329,15 @@
         gymIcon(plan.geschafft, false, 92),
         el("div", { class: "gym-text" },
           el("h2", { lang: D.lang }, U.seance_titel),
-          el("p", { class: "unter", lang: D.lang }, gesamt ? f(U.seance_stand, { neu: plan.neu.length, wdh: plan.wdh.length, fertig, gesamt }) : U.seance_leer),
+          el("p", { class: "unter", lang: D.lang }, gesamt ? f(plan.neu.length === 1 && U.seance_stand_1 ? U.seance_stand_1 : U.seance_stand, { neu: plan.neu.length, wdh: plan.wdh.length, fertig, gesamt }) : U.seance_leer),
           gesamt > 0 && el("span", { class: "gym-punkte", "aria-hidden": "true" }, punkte.map((p) =>
             el("span", { class: (p.wdh ? "wdh" : "") + (plan.fertig.includes(p.id) ? " ok" : "") })))),
-        el("div", { class: "gym-knoepfe" }, knopf(plan.geschafft ? U.seance_fertig : U.seance, starteSeance, plan.geschafft ? "" : "haupt"))),
+        el("div", { class: "gym-knoepfe" }, knopf(plan.geschafft ? U.seance_fertig : U.seance, starteSeance, plan.geschafft ? "" : "haupt")),
+        U.neu_pro_tag && el("div", { class: "neu-wahl", role: "group", "aria-label": U.neu_pro_tag[0] },
+          el("span", { class: "neu-wahl-titel" }, uf("neu_pro_tag")),
+          el("span", { class: "neu-zahlen" }, Array.from({ length: PENSUM.neu_max || 5 }, (_, i) => i + 1).map((n) =>
+            el("button", { type: "button", class: "neu-zahl", "aria-pressed": String(n === neuProTag()),
+              onclick: () => { S.neu_pro_tag = n; speichern(); tagesplan(); startseite(); } }, String(n)))))),
       D.schrift && el("h2", {}, uf("schrift")),
       D.schrift && el("nav", { class: "kacheln themen", "aria-label": U.schrift[0] }, D.schrift.gruppen.map(schriftKachel)),
       el("h2", {}, uf("themen")),
@@ -388,14 +393,23 @@
 
   /* ---------- Tagesplan (Leitner, sanft) ----------
      Fällige Karten nach Fälligkeit (älteste zuerst), höchstens PENSUM.wiederholung. Was darüber liegt, wartet still auf morgen.
-     Neue Wendungen in Themenreihenfolge, höchstens PENSUM.neu. Der Plan wird einmal am Tag gemacht und gespeichert. */
+     Neue Wendungen in Themenreihenfolge, so viele wie eingestellt (neuProTag). Der Plan wird einmal am Tag gemacht und gespeichert. */
+  // Neue Wendungen pro Tag: je Sprache einstellbar (S.neu_pro_tag), 1 bis PENSUM.neu_max, Voreinstellung PENSUM.neu
+  const neuProTag = () => Math.min(PENSUM.neu_max || 5, Math.max(1, S.neu_pro_tag || PENSUM.neu));
+  const neueFuerHeute = () => D.wendungen.map((w) => w.id).filter((id) => !S.karten[id]).slice(0, neuProTag());
   function tagesplan() {
     const t = iso(heute());
-    if (S.tag && S.tag.d === t) return S.tag;
+    if (S.tag && S.tag.d === t) {
+      // Séance noch nicht begonnen: neue Zahl gilt sofort; sonst ab morgen
+      const p = S.tag, offen = !p.geschafft && !p.fertig.length && !p.neu.some((id) => S.karten[id]);
+      const neu = offen ? neueFuerHeute() : p.neu;
+      if (neu.join() !== p.neu.join()) { p.neu = neu; speichern(); }
+      return p;
+    }
     const faellig = Object.entries(S.karten).filter(([, k]) => k.f <= t)
       .sort((a, b) => (a[1].f < b[1].f ? -1 : a[1].f > b[1].f ? 1 : REIHENFOLGE[a[0]] - REIHENFOLGE[b[0]]))
       .map(([id]) => id).slice(0, PENSUM.wiederholung);
-    const neu = D.wendungen.map((w) => w.id).filter((id) => !S.karten[id]).slice(0, PENSUM.neu);
+    const neu = neueFuerHeute();
     S.tag = { d: t, wdh: faellig, neu, fertig: [], geschafft: false };
     speichern();
     return S.tag;

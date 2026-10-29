@@ -36,6 +36,10 @@ window.SPRACHEN["en-de"] = {
   "seance": "▶ Let's go",
   "seance_fertig": "✓ Done for today",
   "seance_stand": "{neu} new · {wdh} to revise · {fertig} / {gesamt} done",
+  "neu_pro_tag": [
+   "New per day",
+   "Neue pro Tag"
+  ],
   "seance_leer": "Nothing to revise today – explore the themes!",
   "themen": [
    "Themes",
@@ -2168,7 +2172,8 @@ window.SPRACHEN["en-de"] = {
   ]
  },
  "pensum": {
-  "neu": 3,
+  "neu": 1,
+  "neu_max": 5,
   "wiederholung": 8
  },
  "intervalle": [

@@ -36,6 +36,11 @@ window.SPRACHEN["fr-de"] = {
   "seance": "▶ C'est parti !",
   "seance_fertig": "✓ Terminé pour aujourd'hui",
   "seance_stand": "{neu} nouvelles · {wdh} à réviser · {fertig} / {gesamt} faites",
+  "seance_stand_1": "{neu} nouvelle · {wdh} à réviser · {fertig} / {gesamt} faites",
+  "neu_pro_tag": [
+   "Nouvelles par jour",
+   "Neue pro Tag"
+  ],
   "seance_leer": "Rien à réviser aujourd'hui – explore les thèmes !",
   "themen": [
    "Les thèmes",
@@ -9632,7 +9637,8 @@ window.SPRACHEN["fr-de"] = {
   ]
  },
  "pensum": {
-  "neu": 3,
+  "neu": 1,
+  "neu_max": 5,
   "wiederholung": 8
  },
  "intervalle": [

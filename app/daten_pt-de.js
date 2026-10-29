@@ -36,6 +36,11 @@ window.SPRACHEN["pt-de"] = {
   "seance": "▶ Vamos!",
   "seance_fertig": "✓ Feito por hoje",
   "seance_stand": "{neu} novas · {wdh} para rever · {fertig} / {gesamt} feitas",
+  "seance_stand_1": "{neu} nova · {wdh} para rever · {fertig} / {gesamt} feitas",
+  "neu_pro_tag": [
+   "Novas por dia",
+   "Neue pro Tag"
+  ],
   "seance_leer": "Nada para rever hoje – explora os temas!",
   "themen": [
    "Os temas",
@@ -8910,7 +8915,8 @@ window.SPRACHEN["pt-de"] = {
   ]
  },
  "pensum": {
-  "neu": 3,
+  "neu": 1,
+  "neu_max": 5,
   "wiederholung": 8
  },
  "intervalle": [

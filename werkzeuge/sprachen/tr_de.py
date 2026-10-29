@@ -105,6 +105,7 @@ UI = {
     "motto": ["Günde on dakika: önce seans, sonra ne istersen.", "Zehn Minuten am Tag: die Seans, danach was du willst."],
     "seance": "▶ Hadi başlayalım!", "seance_fertig": "✓ Bugünlük tamam",
     "seance_stand": "{neu} yeni · {wdh} tekrar · {fertig} / {gesamt} bitti",
+    "neu_pro_tag": ["Günde yeni", "Neue pro Tag"],
     "seance_leer": "Bugün tekrar yok – konuları keşfet!",
     "themen": ["Konular", "Die Themen"], "expressions": "ifade", "parties": "bölüm",
     "bonus": ["Telaffuz ve hikâye", "Aussprache und Geschichte"],

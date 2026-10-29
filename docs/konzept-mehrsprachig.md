@@ -7,7 +7,7 @@ Grundsatz wie bisher: vor jedem Bauschritt fragen.
 
 - **Eine App, ein Umschalter** für die Sprachen; keine App pro Sprache. Neue Sprachen sollen sich bequem ergänzen lassen.
 - **Sprachen:** zuerst Umbau mit Französisch, dann **Spanisch**, dann **Italienisch**, außerdem **Deutsch umgedreht** (Ziel Deutsch, Hilfe Französisch) mit **eigenen deutschen Redewendungen**, nicht aus den französischen Daten gespiegelt.
-- **Pensum:** **3 neue + 8 alte pro Tag, pro Sprache** (bestätigt 13.10.).
+- **Pensum:** **8 alte pro Tag, neue einstellbar 1–5 pro Sprache, Voreinstellung 1** (Mr. Alex, 29.10.; vorher fest 3 neue, bestätigt 13.10.). Auswahl unter dem Séance-Knopf.
 - **Inhalte pro Sprache neu finden, nicht übersetzen:** gleiche Themen (Lebenswelt), aber in jeder Sprache die dort wirklich gebräuchlichen Redewendungen. Alles andere (Übungen, Séance, Leitner, Spiel) bleibt gleich.
 - **Name:** App „Language Learning“. Repository bleibt `Languages` → Adresse bleibt `https://langenbachalex.github.io/Languages/`.
 

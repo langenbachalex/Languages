@@ -93,6 +93,7 @@ UI = {
     "motto": ["Ten minutes a day: the Word Gym, then yours is the road.", "Zehn Minuten am Tag: das Word Gym, danach gehört der Weg dir."],
     "seance": "▶ Let's go", "seance_fertig": "✓ Done for today",
     "seance_stand": "{neu} new · {wdh} to revise · {fertig} / {gesamt} done",
+    "neu_pro_tag": ["New per day", "Neue pro Tag"],
     "seance_leer": "Nothing to revise today – explore the themes!",
     "themen": ["Themes", "Die Themen"], "expressions": "items", "parties": "parts",
     "bonus": ["Pronunciation and story", "Aussprache und Geschichte"],

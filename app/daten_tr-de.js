@@ -36,6 +36,10 @@ window.SPRACHEN["tr-de"] = {
   "seance": "▶ Hadi başlayalım!",
   "seance_fertig": "✓ Bugünlük tamam",
   "seance_stand": "{neu} yeni · {wdh} tekrar · {fertig} / {gesamt} bitti",
+  "neu_pro_tag": [
+   "Günde yeni",
+   "Neue pro Tag"
+  ],
   "seance_leer": "Bugün tekrar yok – konuları keşfet!",
   "themen": [
    "Konular",
@@ -12705,7 +12709,8 @@ window.SPRACHEN["tr-de"] = {
   ]
  },
  "pensum": {
-  "neu": 3,
+  "neu": 1,
+  "neu_max": 5,
   "wiederholung": 8
  },
  "intervalle": [

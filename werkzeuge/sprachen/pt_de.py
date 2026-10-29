@@ -89,6 +89,8 @@ UI = {
     "motto": ["Dez minutos por dia: a sessão, e depois o que quiseres.", "Zehn Minuten am Tag: die Sessão, danach was du willst."],
     "seance": "▶ Vamos!", "seance_fertig": "✓ Feito por hoje",
     "seance_stand": "{neu} novas · {wdh} para rever · {fertig} / {gesamt} feitas",
+    "seance_stand_1": "{neu} nova · {wdh} para rever · {fertig} / {gesamt} feitas",   # Einzahl bei einer neuen Wendung
+    "neu_pro_tag": ["Novas por dia", "Neue pro Tag"],
     "seance_leer": "Nada para rever hoje – explora os temas!",
     "themen": ["Os temas", "Die Themen"], "expressions": "expressões", "parties": "partes",
     "bonus": ["Pronúncia e história", "Aussprache und Geschichte"],

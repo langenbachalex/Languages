@@ -36,6 +36,11 @@ window.SPRACHEN["es-de"] = {
   "seance": "▶ ¡Vamos!",
   "seance_fertig": "✓ Hecho por hoy",
   "seance_stand": "{neu} nuevas · {wdh} para repasar · {fertig} / {gesamt} hechas",
+  "seance_stand_1": "{neu} nueva · {wdh} para repasar · {fertig} / {gesamt} hechas",
+  "neu_pro_tag": [
+   "Nuevas al día",
+   "Neue pro Tag"
+  ],
   "seance_leer": "Nada que repasar hoy – ¡explora los temas!",
   "themen": [
    "Los temas",
@@ -8789,7 +8794,8 @@ window.SPRACHEN["es-de"] = {
   ]
  },
  "pensum": {
-  "neu": 3,
+  "neu": 1,
+  "neu_max": 5,
   "wiederholung": 8
  },
  "intervalle": [

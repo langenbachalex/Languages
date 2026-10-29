@@ -21,8 +21,8 @@ AUSGABEN = [
      "praefix": "en", "lang": "en", "farbe": "#1f4e3d", "hintergrund": "#f4f6fb", "icon": ("EN", (31, 78, 61))},
 ]
 AUDIO_STAND = 2   # erhöhen, wenn vorhandene Audiodateien ersetzt wurden (Browser verwirft dann den Audio-Speicher)
-# Tagespensum (Mr. Alex, 13.10.): 3 neue Wendungen, höchstens 8 Wiederholungen – pro Sprache
-PENSUM = {"neu": 3, "wiederholung": 8}
+# Tagespensum: höchstens 8 Wiederholungen; neue Wendungen pro Sprache einstellbar 1–5, Voreinstellung 1 (Mr. Alex, 29.10.; vorher fest 3)
+PENSUM = {"neu": 1, "neu_max": 5, "wiederholung": 8}
 # Leitner-Stufen: nach so vielen Tagen kommt eine Wendung wieder (Stufe 0 = neu / vergessen)
 INTERVALLE = [1, 3, 7, 14, 30, 60, 120]
 

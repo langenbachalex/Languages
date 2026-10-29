@@ -36,6 +36,11 @@ window.SPRACHEN["it-de"] = {
   "seance": "▶ Si parte!",
   "seance_fertig": "✓ Fatto per oggi",
   "seance_stand": "{neu} nuove · {wdh} da ripassare · {fertig} / {gesamt} fatte",
+  "seance_stand_1": "{neu} nuova · {wdh} da ripassare · {fertig} / {gesamt} fatte",
+  "neu_pro_tag": [
+   "Nuove al giorno",
+   "Neue pro Tag"
+  ],
   "seance_leer": "Niente da ripassare oggi – esplora i temi!",
   "themen": [
    "I temi",
@@ -7824,7 +7829,8 @@ window.SPRACHEN["it-de"] = {
   ]
  },
  "pensum": {
-  "neu": 3,
+  "neu": 1,
+  "neu_max": 5,
   "wiederholung": 8
  },
  "intervalle": [

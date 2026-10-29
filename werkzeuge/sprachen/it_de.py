@@ -74,6 +74,8 @@ UI = {
     "motto": ["Dieci minuti al giorno: la sessione, e poi quello che vuoi.", "Zehn Minuten am Tag: die Sessione, danach was du willst."],
     "seance": "▶ Si parte!", "seance_fertig": "✓ Fatto per oggi",
     "seance_stand": "{neu} nuove · {wdh} da ripassare · {fertig} / {gesamt} fatte",
+    "seance_stand_1": "{neu} nuova · {wdh} da ripassare · {fertig} / {gesamt} fatte",   # Einzahl bei einer neuen Wendung
+    "neu_pro_tag": ["Nuove al giorno", "Neue pro Tag"],
     "seance_leer": "Niente da ripassare oggi – esplora i temi!",
     "themen": ["I temi", "Die Themen"], "expressions": "espressioni", "parties": "parti",
     "bonus": ["Pronuncia e storia", "Aussprache und Geschichte"],

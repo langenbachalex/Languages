@@ -98,6 +98,8 @@ UI = {
     "motto": ["Dix minutes par jour : la séance, puis ce que tu veux.", "Zehn Minuten am Tag: die Séance, danach was du willst."],
     "seance": "▶ C'est parti !", "seance_fertig": "✓ Terminé pour aujourd'hui",
     "seance_stand": "{neu} nouvelles · {wdh} à réviser · {fertig} / {gesamt} faites",
+    "seance_stand_1": "{neu} nouvelle · {wdh} à réviser · {fertig} / {gesamt} faites",   # Einzahl bei einer neuen Wendung
+    "neu_pro_tag": ["Nouvelles par jour", "Neue pro Tag"],
     "seance_leer": "Rien à réviser aujourd'hui – explore les thèmes !",
     "themen": ["Les thèmes", "Die Themen"], "expressions": "expressions", "parties": "parties",
     "bonus": ["Prononciation et histoire", "Aussprache und Geschichte"],
