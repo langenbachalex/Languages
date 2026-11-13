@@ -82,6 +82,8 @@ def karte_laden(inhalte):
 # Tiago: Wahl am 13.11. aus docs/pt-de/hoerprobe (Rui, Diogo, Lourenço, Afonso, Duarte), gleich mit eleven_v4. Bis dahin None = keine Aufnahme.
 STIMME = {"id": "AK2WYGe96RmMwFKM5KEz", "modell": "eleven_v4", "language_code": "pt", "einstellungen": {"stability": 0.5, "similarity_boost": 0.75}}
 STIMME_B = None
+# Vorlese-Schreibung (ganze Wörter): erst nach der ersten Hörprobe füllen
+AUSSPRACHE_KORREKTUR = {}
 
 UI = {
     "app": "Language Learning",
