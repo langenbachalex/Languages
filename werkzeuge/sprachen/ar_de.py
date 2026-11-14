@@ -176,6 +176,7 @@ UI = {
     "memory_fertig": ["كُلُّ الأَزْوَاجِ فِي {n} حَرَكَة! أَوَّلُ لُعْبَةٍ رَابِحَةٍ فِي اليَوْمِ: +10 ⭐.", "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."],
     "memory_nochmal": "مَرَّةً أُخْرَى",
     "neu_pro_tag": ["جَدِيدٌ كُلَّ يَوْم", "Neue pro Tag"],
+    "wdh_pro_tag": ["مُرَاجَعَةٌ كُلَّ يَوْم", "Wiederholungen pro Tag"],
     "seance_leer": "لا مُرَاجَعَةَ اليَوْم – اِكْتَشِفِ المَوَاضِيع!",
     "themen": ["المَوَاضِيع", "Die Themen"], "expressions": "عِبَارَة", "parties": "جُزْء",
     "bonus": ["النُّطْق وَالقِصَّة", "Aussprache und Geschichte"],

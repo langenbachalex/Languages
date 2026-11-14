@@ -120,6 +120,7 @@ UI = {
     "memory_fertig": ["{n} hamlede tüm eşler! Günün ilk kazanılan oyunu +10 ⭐ getirir.", "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."],
     "memory_nochmal": "Tekrar",
     "neu_pro_tag": ["Günde yeni", "Neue pro Tag"],
+    "wdh_pro_tag": ["Günde tekrar", "Wiederholungen pro Tag"],
     "seance_leer": "Bugün tekrar yok – konuları keşfet!",
     "themen": ["Konular", "Die Themen"], "expressions": "ifade", "parties": "bölüm",
     "bonus": ["Telaffuz ve hikâye", "Aussprache und Geschichte"],

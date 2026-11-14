@@ -339,7 +339,12 @@
           el("span", { class: "neu-wahl-titel" }, uf("neu_pro_tag")),
           el("span", { class: "neu-zahlen" }, Array.from({ length: PENSUM.neu_max || 5 }, (_, i) => i + 1).map((n) =>
             el("button", { type: "button", class: "neu-zahl", "aria-pressed": String(n === neuProTag()),
-              onclick: () => { S.neu_pro_tag = n; speichern(); tagesplan(); startseite(); } }, String(n)))))),
+              onclick: () => { S.neu_pro_tag = n; speichern(); tagesplan(); startseite(); } }, String(n))))),
+        U.wdh_pro_tag && el("div", { class: "neu-wahl wdh-wahl", role: "group", "aria-label": U.wdh_pro_tag[0] },
+          el("span", { class: "neu-wahl-titel" }, uf("wdh_pro_tag")),
+          el("span", { class: "neu-zahlen" }, wdhWahl().map((n) =>
+            el("button", { type: "button", class: "neu-zahl", "aria-pressed": String(n === wdhProTag()),
+              onclick: () => { S.wdh_pro_tag = n; speichern(); tagesplan(); startseite(); } }, String(n)))))),
       D.schrift && el("h2", {}, uf("schrift")),
       D.schrift && el("nav", { class: "kacheln themen", "aria-label": U.schrift[0] }, D.schrift.gruppen.map(schriftKachel)),
       el("h2", {}, uf("themen")),
@@ -426,18 +431,22 @@
     }
     speichern();
   }
+  // Wiederholungen pro Tag: je Sprache einstellbar (S.wdh_pro_tag), Auswahl PENSUM.wdh_wahl, Voreinstellung PENSUM.wiederholung
+  const wdhWahl = () => PENSUM.wdh_wahl || [PENSUM.wiederholung];
+  const wdhProTag = () => (wdhWahl().includes(S.wdh_pro_tag) ? S.wdh_pro_tag : PENSUM.wiederholung);
+  const faelligFuerHeute = (t) => Object.entries(S.karten).filter(([, k]) => k.f <= t)
+    .sort((a, b) => (istTricky(b[1]) - istTricky(a[1])) || (a[1].f < b[1].f ? -1 : a[1].f > b[1].f ? 1 : REIHENFOLGE[a[0]] - REIHENFOLGE[b[0]]))
+    .map(([id]) => id).slice(0, wdhProTag());
   function tagesplan() {
     const t = iso(heute());
     if (S.tag && S.tag.d === t) {
-      // Séance noch nicht begonnen: neue Zahl gilt sofort; sonst ab morgen
+      // Séance noch nicht begonnen: neue Zahlen gelten sofort; sonst ab morgen
       const p = S.tag, offen = !p.geschafft && !p.fertig.length && !p.neu.some((id) => S.karten[id]);
-      const neu = offen ? neueFuerHeute() : p.neu;
-      if (neu.join() !== p.neu.join()) { p.neu = neu; speichern(); }
+      const neu = offen ? neueFuerHeute() : p.neu, wdh = offen ? faelligFuerHeute(t) : p.wdh;
+      if (neu.join() !== p.neu.join() || wdh.join() !== p.wdh.join()) { p.neu = neu; p.wdh = wdh; speichern(); }
       return p;
     }
-    const faellig = Object.entries(S.karten).filter(([, k]) => k.f <= t)
-      .sort((a, b) => (istTricky(b[1]) - istTricky(a[1])) || (a[1].f < b[1].f ? -1 : a[1].f > b[1].f ? 1 : REIHENFOLGE[a[0]] - REIHENFOLGE[b[0]]))
-      .map(([id]) => id).slice(0, PENSUM.wiederholung);
+    const faellig = faelligFuerHeute(t);
     const neu = neueFuerHeute();
     S.tag = { d: t, wdh: faellig, neu, fertig: [], geschafft: false };
     speichern();

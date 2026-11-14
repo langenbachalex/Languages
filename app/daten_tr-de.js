@@ -87,6 +87,10 @@ window.SPRACHEN["tr-de"] = {
    "Günde yeni",
    "Neue pro Tag"
   ],
+  "wdh_pro_tag": [
+   "Günde tekrar",
+   "Wiederholungen pro Tag"
+  ],
   "seance_leer": "Bugün tekrar yok – konuları keşfet!",
   "themen": [
    "Konular",
@@ -12758,7 +12762,14 @@ window.SPRACHEN["tr-de"] = {
  "pensum": {
   "neu": 1,
   "neu_max": 5,
-  "wiederholung": 8
+  "wiederholung": 8,
+  "wdh_wahl": [
+   4,
+   6,
+   8,
+   10,
+   12
+  ]
  },
  "intervalle": [
   1,

@@ -90,6 +90,7 @@ UI = {
     "memory_fertig": ["Tutte le coppie in {n} mosse! La prima partita vinta del giorno vale +10 ⭐.", "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."],
     "memory_nochmal": "Ancora",
     "neu_pro_tag": ["Nuove al giorno", "Neue pro Tag"],
+    "wdh_pro_tag": ["Ripassi al giorno", "Wiederholungen pro Tag"],
     "seance_leer": "Niente da ripassare oggi – esplora i temi!",
     "themen": ["I temi", "Die Themen"], "expressions": "espressioni", "parties": "parti",
     "bonus": ["Pronuncia e storia", "Aussprache und Geschichte"],

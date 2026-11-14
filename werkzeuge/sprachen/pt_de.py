@@ -107,6 +107,7 @@ UI = {
     "memory_fertig": ["Todos os pares em {n} jogadas! O primeiro jogo ganho do dia vale +10 ⭐.", "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."],
     "memory_nochmal": "Outra vez",
     "neu_pro_tag": ["Novas por dia", "Neue pro Tag"],
+    "wdh_pro_tag": ["Revisões por dia", "Wiederholungen pro Tag"],
     "seance_leer": "Nada para rever hoje – explora os temas!",
     "themen": ["Os temas", "Die Themen"], "expressions": "expressões", "parties": "partes",
     "bonus": ["Pronúncia e história", "Aussprache und Geschichte"],

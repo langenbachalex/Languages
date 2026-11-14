@@ -108,6 +108,7 @@ UI = {
     "memory_fertig": ["All pairs in {n} moves! The first game you win each day gives +10 ⭐.", "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."],
     "memory_nochmal": "Play again",
     "neu_pro_tag": ["New per day", "Neue pro Tag"],
+    "wdh_pro_tag": ["Reviews per day", "Wiederholungen pro Tag"],
     "seance_leer": "Nothing to revise today – explore the themes!",
     "themen": ["Themes", "Die Themen"], "expressions": "items", "parties": "parts",
     "bonus": ["Pronunciation and story", "Aussprache und Geschichte"],

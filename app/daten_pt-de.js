@@ -88,6 +88,10 @@ window.SPRACHEN["pt-de"] = {
    "Novas por dia",
    "Neue pro Tag"
   ],
+  "wdh_pro_tag": [
+   "Revisões por dia",
+   "Wiederholungen pro Tag"
+  ],
   "seance_leer": "Nada para rever hoje – explora os temas!",
   "themen": [
    "Os temas",
@@ -8964,7 +8968,14 @@ window.SPRACHEN["pt-de"] = {
  "pensum": {
   "neu": 1,
   "neu_max": 5,
-  "wiederholung": 8
+  "wiederholung": 8,
+  "wdh_wahl": [
+   4,
+   6,
+   8,
+   10,
+   12
+  ]
  },
  "intervalle": [
   1,

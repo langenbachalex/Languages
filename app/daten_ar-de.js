@@ -87,6 +87,10 @@ window.SPRACHEN["ar-de"] = {
    "جَدِيدٌ كُلَّ يَوْم",
    "Neue pro Tag"
   ],
+  "wdh_pro_tag": [
+   "مُرَاجَعَةٌ كُلَّ يَوْم",
+   "Wiederholungen pro Tag"
+  ],
   "seance_leer": "لا مُرَاجَعَةَ اليَوْم – اِكْتَشِفِ المَوَاضِيع!",
   "themen": [
    "المَوَاضِيع",
@@ -14654,7 +14658,14 @@ window.SPRACHEN["ar-de"] = {
  "pensum": {
   "neu": 1,
   "neu_max": 5,
-  "wiederholung": 8
+  "wiederholung": 8,
+  "wdh_wahl": [
+   4,
+   6,
+   8,
+   10,
+   12
+  ]
  },
  "intervalle": [
   1,

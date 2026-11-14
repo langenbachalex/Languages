@@ -60,6 +60,7 @@
 .tricky-liste { margin: 8px 0 0; padding-left: 1.2em; display: grid; gap: 4px; }
 .tricky-liste .leise { color: var(--leise); }
 .neu-wahl { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 12px; padding-top: 8px; border-top: 1px solid var(--linie, rgba(127,127,127,.25)); }
+.wdh-wahl { border-top: 0; padding-top: 0; }
 .neu-wahl-titel { font-weight: 700; }
 .neu-zahlen { display: flex; gap: 6px; }
 .neu-zahl { min-width: 40px; min-height: 40px; border-radius: 12px; border: 2px solid var(--blau); background: transparent; color: var(--text); font: 600 1.05rem var(--display); cursor: pointer; }
