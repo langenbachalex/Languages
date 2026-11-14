@@ -49,6 +49,31 @@ window.SPRACHEN["fr-de"] = {
    "Trois ratés, et une expression atterrit ici : elle passe en premier dans la séance et montre sa phrase à trous. Au niveau 3, elle quitte la liste.",
    "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Séance zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
   ],
+  "abruf_wahl": [
+   "Comment dit-on ? Touche la bonne expression, puis dis-la à voix haute.",
+   "Wie sagt man das? Tipp auf die richtige Wendung, dann sag sie laut."
+  ],
+  "abruf_tippen": [
+   "Écris l'expression, puis dis-la à voix haute.",
+   "Schreib die Wendung, dann sag sie laut."
+  ],
+  "abruf_luecke": [
+   "Complète la phrase, puis dis-la à voix haute.",
+   "Ergänze den Satz, dann sag ihn laut."
+  ],
+  "abruf_fast": [
+   "Presque ! On l'écrit : {a}",
+   "Fast! So schreibt man es: {a}"
+  ],
+  "abruf_falsch": [
+   "La bonne réponse : {a}",
+   "Die richtige Antwort: {a}"
+  ],
+  "leichter": [
+   "Plus facile : choisir",
+   "Leichter: auswählen"
+  ],
+  "pruefen": "Vérifier",
   "neu_pro_tag": [
    "Nouvelles par jour",
    "Neue pro Tag"

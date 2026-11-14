@@ -49,6 +49,31 @@ window.SPRACHEN["es-de"] = {
    "Tres fallos, y una expresión acaba aquí: sale primero en la sesión y muestra su frase con hueco. Al nivel 3, sale de la lista.",
    "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Sesión zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
   ],
+  "abruf_wahl": [
+   "¿Cómo se dice? Toca la expresión correcta y luego dila en voz alta.",
+   "Wie sagt man das? Tipp auf die richtige Wendung, dann sag sie laut."
+  ],
+  "abruf_tippen": [
+   "Escribe la expresión y luego dila en voz alta.",
+   "Schreib die Wendung, dann sag sie laut."
+  ],
+  "abruf_luecke": [
+   "Completa la frase y luego dila en voz alta.",
+   "Ergänze den Satz, dann sag ihn laut."
+  ],
+  "abruf_fast": [
+   "¡Casi! Se escribe así: {a}",
+   "Fast! So schreibt man es: {a}"
+  ],
+  "abruf_falsch": [
+   "La respuesta correcta: {a}",
+   "Die richtige Antwort: {a}"
+  ],
+  "leichter": [
+   "Más fácil: elegir",
+   "Leichter: auswählen"
+  ],
+  "pruefen": "Comprobar",
   "neu_pro_tag": [
    "Nuevas al día",
    "Neue pro Tag"

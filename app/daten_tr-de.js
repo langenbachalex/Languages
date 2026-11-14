@@ -48,6 +48,31 @@ window.SPRACHEN["tr-de"] = {
    "Üç hatadan sonra bir ifade buraya gelir: antrenmanda önce o çıkar ve boşluklu cümlesini gösterir. 3. seviyede listeden çıkar.",
    "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
   ],
+  "abruf_wahl": [
+   "Nasıl denir? Doğru ifadeye dokun, sonra yüksek sesle söyle.",
+   "Wie sagt man das? Tipp auf die richtige Wendung, dann sag sie laut."
+  ],
+  "abruf_tippen": [
+   "İfadeyi yaz, sonra yüksek sesle söyle.",
+   "Schreib die Wendung, dann sag sie laut."
+  ],
+  "abruf_luecke": [
+   "Cümleyi tamamla, sonra yüksek sesle söyle.",
+   "Ergänze den Satz, dann sag ihn laut."
+  ],
+  "abruf_fast": [
+   "Neredeyse! Şöyle yazılır: {a}",
+   "Fast! So schreibt man es: {a}"
+  ],
+  "abruf_falsch": [
+   "Doğru cevap: {a}",
+   "Die richtige Antwort: {a}"
+  ],
+  "leichter": [
+   "Daha kolay: seç",
+   "Leichter: auswählen"
+  ],
+  "pruefen": "Kontrol et",
   "neu_pro_tag": [
    "Günde yeni",
    "Neue pro Tag"

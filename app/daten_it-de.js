@@ -49,6 +49,31 @@ window.SPRACHEN["it-de"] = {
    "Tre errori, e un'espressione finisce qui: viene per prima nella sessione e mostra la sua frase con lo spazio vuoto. Al livello 3 esce dalla lista.",
    "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Sessione zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
   ],
+  "abruf_wahl": [
+   "Come si dice? Tocca l'espressione giusta, poi dilla ad alta voce.",
+   "Wie sagt man das? Tipp auf die richtige Wendung, dann sag sie laut."
+  ],
+  "abruf_tippen": [
+   "Scrivi l'espressione, poi dilla ad alta voce.",
+   "Schreib die Wendung, dann sag sie laut."
+  ],
+  "abruf_luecke": [
+   "Completa la frase, poi dilla ad alta voce.",
+   "Ergänze den Satz, dann sag ihn laut."
+  ],
+  "abruf_fast": [
+   "Quasi! Si scrive così: {a}",
+   "Fast! So schreibt man es: {a}"
+  ],
+  "abruf_falsch": [
+   "La risposta giusta: {a}",
+   "Die richtige Antwort: {a}"
+  ],
+  "leichter": [
+   "Più facile: scegliere",
+   "Leichter: auswählen"
+  ],
+  "pruefen": "Controlla",
   "neu_pro_tag": [
    "Nuove al giorno",
    "Neue pro Tag"

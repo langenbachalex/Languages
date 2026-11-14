@@ -413,11 +413,12 @@
   const istTricky = (k) => !!k && (k.x || 0) >= 3 && k.s < 3;
   // Antwort zählt für den Kasten (Séance und « Trouve l'expression »): Fehler = zwei Stufen zurück, morgen fällig;
   // richtig hebt nur eine fällige Karte (im Thema wiederholt man sonst ohne Wirkung auf den Plan)
-  function kastenAntwort(id, richtig, immer) {
+  function kastenAntwort(id, richtig, immer, geprueft) {
     const k = S.karten[id];
     if (!k) return;
     if (richtig) {
       if (!immer && k.f > iso(heute())) return;
+      if (!geprueft && k.s >= 3) return;   // ab Stufe 3 hebt nur eine geprüfte Antwort (Auswahl, Tippen, Lücke)
       k.s = Math.min(k.s + 1, INTERVALLE.length); k.f = naechsteFaelligkeit(k.s);
     } else {
       k.s = Math.max(0, k.s - 2); k.f = naechsteFaelligkeit(0); k.x = (k.x || 0) + 1;
@@ -492,6 +493,8 @@
   }
   // Wiederholung: Hilfssprache sehen, Zielsprache sagen, Lösung hören, selbst einschätzen
   function wiederholKarte(w, zaehler) {
+    const form = abrufForm(w, S.karten[w.id]);
+    if (form !== "selbst") return abrufKarte(w, zaehler, form);
     const k = S.karten[w.id], tricky = istTricky(k);
     const balken = jetztDu();
     const frage = el("div", {}, el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de),
@@ -515,10 +518,115 @@
         el("div", { class: "vok" }, frage), antwort, balken,
         el("div", { class: "knopfreihe" }, loesung), bewerten));
   }
-  function bewerteKarte(w, gewusst) {
+  /* Abrufform wächst mit der Stufe (Mr. Alex, 14.11., Vorlage « Deine 5 Minuten »):
+     0–1 sagen und selbst einschätzen · 2–3 erkennen (Auswahl aus drei) · 4–5 die Wendung tippen · 6–7 den Satz ergänzen (Lücke tippen).
+     Arabisch und Wendungen mit « … » wählen statt tippen. Geprüfte Antworten: richtig = eine Stufe hoch, falsch = zwei zurück. */
+  const ohneTippen = () => D.lang === "ar";
+  function abrufForm(w, k) {
+    if (!k || k.s <= 1) return "selbst";
+    if (k.s <= 3) return "wahl";
+    if (k.s <= 5) return ohneTippen() || /…|\.\.\./.test(w.fr) ? "wahl" : "tippen";
+    return ohneTippen() ? "luecke_wahl" : "luecke";
+  }
+  function ablenker(w, n, feld) {
+    const wert = (x) => (feld === "luecke" ? x.satz.luecke : x.fr);
+    const t = D.themen.find((th) => th.wendungen.includes(w.id));
+    const gesehen = new Set([wert(w)]), aus = [];
+    for (const ids of [t ? t.wendungen : [], D.wendungen.map((x) => x.id)])
+      for (const x of mischen(ids.map((id) => WENDUNG[id]))) {
+        if (aus.length >= n) break;
+        if (!gesehen.has(wert(x))) { gesehen.add(wert(x)); aus.push(x); }
+      }
+    return aus;
+  }
+  // Tippen vergleichen: Groß/Klein und Satzzeichen egal; « / » = Varianten; « (e) » optional; nur Akzente falsch oder 1–2 Tippfehler = fast richtig
+  const normal = (x) => x.normalize("NFC").toLowerCase().replace(/[’`']/g, " ").replace(/[«»"“”„¡!¿?.,;:…()\[\]]/g, " ").replace(/\s+/g, " ").trim();
+  const ohneAkzent = (x) => x.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ı/g, "i");
+  function abstand(a, b) {
+    const d = Array.from({ length: b.length + 1 }, (_, j) => j);
+    for (let i = 1; i <= a.length; i++) {
+      let vor = d[0]; d[0] = i;
+      for (let j = 1; j <= b.length; j++) { const tmp = d[j]; d[j] = Math.min(d[j] + 1, d[j - 1] + 1, vor + (a[i - 1] === b[j - 1] ? 0 : 1)); vor = tmp; }
+    }
+    return d[b.length];
+  }
+  function varianten(ziel) {
+    const v = new Set();
+    const ohneKl = ziel.replace(/\((\w+)\)/g, ""), mitKl = ziel.replace(/\((\w+)\)/g, "$1");
+    for (const z of [ziel, ohneKl, mitKl]) {
+      v.add(z);
+      const m = z.match(/^(.*\s)(\S+) \/ (\S+)(.*)$/);
+      if (m) { v.add(m[1] + m[2] + m[4]); v.add(m[1] + m[3] + m[4]); }
+    }
+    return [...v].map(normal);
+  }
+  function vergleiche(eingabe, ziel) {
+    const e = normal(eingabe), vs = varianten(ziel);
+    if (vs.includes(e)) return "richtig";
+    if (vs.some((z) => ohneAkzent(z) === ohneAkzent(e))) return "fast";
+    if (vs.some((z) => abstand(ohneAkzent(e), ohneAkzent(z)) <= (z.length < 6 ? 0 : z.length < 14 ? 1 : 2))) return "fast";
+    return "falsch";
+  }
+  function abrufKarte(w, zaehler, form) {
+    const k = S.karten[w.id], tricky = istTricky(k), luecke = form.startsWith("luecke"), waehlen = form.endsWith("wahl");
+    const ziel = luecke ? w.satz.luecke : w.fr;
+    const balken = jetztDu();
+    let ergebnis = null;
+    const frage = el("div", {},
+      !luecke && el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de),
+      el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de),
+      (luecke || tricky) && el("p", { class: "satz fr" + (luecke ? "" : " tricky-hilfe"), lang: D.lang }, lueckenSatz(w.satz, "luecke")));
+    const box = el("div", { class: "rueckmeldung", hidden: true, role: "status" });
+    const loesung = el("div", { hidden: true },
+      el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w), wurzel(w)), umschrift(w), glosse(w.gloss, "gloss klein"),
+      el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), umschrift(w.satz), notiz(w));
+    const weiter = weiterKnopf(() => bewerteKarte(w, ergebnis !== "falsch", true));
+    weiter.hidden = true;
+    const ergebnisZeigen = (erg) => {
+      if (ergebnis) return;
+      ergebnis = erg;
+      box.hidden = false; loesung.hidden = false; weiter.hidden = false;
+      if (erg === "falsch") { box.className = "rueckmeldung hilfe"; box.replaceChildren(uf("abruf_falsch", { a: ziel })); }
+      else if (erg === "fast") { box.className = "rueckmeldung gut"; box.replaceChildren(uf("abruf_fast", { a: ziel })); }   // kein Lob wie « Sans faute ! » neben « Presque ! »
+      else { box.className = "rueckmeldung gut"; box.replaceChildren(lobZeile(lob())); }
+      const hoeren = () => nachsprechen(balken, [ton(w), ton(w.satz)]);
+      tasten(hoeren, () => weiter.click());
+      hoeren();
+      weiter.focus({ preventScroll: true });
+    };
+    let antwortTeil;
+    if (waehlen) {
+      const optionen = mischen([w, ...ablenker(w, 2, luecke ? "luecke" : "fr")]);
+      const knoepfe = optionen.map((o) => el("button", { class: "knopf wahl-knopf", lang: D.lang, onclick: (e) => {
+        if (ergebnis) return;
+        const r = o.id === w.id;
+        knoepfe.forEach((b) => { b.disabled = true; });
+        e.currentTarget.classList.add(r ? "richtig" : "falsch");
+        knoepfe[optionen.indexOf(w)].classList.add("richtig");
+        ergebnisZeigen(r ? "richtig" : "falsch");
+      } }, luecke ? o.satz.luecke : o.fr, !luecke && o.umschrift && el("small", { class: "umschrift" }, o.umschrift)));
+      antwortTeil = el("div", { class: "wahl abruf-wahl" }, knoepfe);
+      tasten(null, null);
+    } else {
+      const feld = el("input", { class: "tipp-feld", type: "text", lang: D.lang, autocomplete: "off", autocapitalize: "off", spellcheck: "false", enterkeyhint: "done", "aria-label": U[luecke ? "abruf_luecke" : "abruf_tippen"][0] });
+      const pruefe = () => { if (ergebnis || !feld.value.trim()) return; feld.disabled = true; pruefKnopf.hidden = true; leichter.hidden = true; ergebnisZeigen(vergleiche(feld.value, ziel)); };
+      feld.addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); pruefe(); } });
+      const pruefKnopf = knopf(U.pruefen, pruefe, "haupt");
+      const leichter = el("button", { class: "knopf leise tipp", onclick: () => abrufKarte(w, zaehler, luecke ? "luecke_wahl" : "wahl") }, "💡 " + U.leichter[0]);
+      antwortTeil = el("div", { class: "abruf-tippen" }, feld, el("div", { class: "knopfreihe" }, pruefKnopf, leichter));
+      tasten(null, null);
+      setTimeout(() => feld.focus(), 50);
+    }
+    zeige(seanceKopf(),
+      ansageU(waehlen ? (luecke ? "abruf_luecke" : "abruf_wahl") : (luecke ? "abruf_luecke" : "abruf_tippen")),
+      karte(`${zaehler} · ${f(U.revision, { s: k.s })}${tricky ? " · 🧩" : ""}`,
+        el("div", { class: "vok" }, frage), antwortTeil, box, loesung, balken,
+        el("div", { class: "knopfreihe" }, weiter)));
+  }
+  function bewerteKarte(w, gewusst, geprueft) {
     if (gewusst) {
-      if (!seance.wieder.has(w.id)) kastenAntwort(w.id, true, true);   // heute schon verfehlt: bleibt morgen fällig
-      merkeFertig(w.id); lobToast(lob()); speichern(); seanceWeiter();
+      if (!seance.wieder.has(w.id)) kastenAntwort(w.id, true, true, geprueft);   // heute schon verfehlt: bleibt morgen fällig
+      merkeFertig(w.id); if (!geprueft) lobToast(lob()); speichern(); seanceWeiter();
     } else {
       if (!seance.wieder.has(w.id)) kastenAntwort(w.id, false); else speichern();   // zweites « Encore » am selben Tag zählt nicht doppelt
       if (!seance.wieder.has(w.id)) { seance.wieder.add(w.id); seance.schlange.push(w.id); }

@@ -48,6 +48,31 @@ window.SPRACHEN["en-de"] = {
    "After three misses an item lands here: it comes first in the Word Gym and shows its sentence with a gap. At level 3 it leaves the list.",
    "Nach drei Fehlern landet eine Eintrag hier: Er kommt in der Word Gym zuerst dran und zeigt seinen Satz mit Lücke. Ab Stufe 3 verlässt er die Liste."
   ],
+  "abruf_wahl": [
+   "How do you say it? Tap the right item, then say it out loud.",
+   "Wie sagt man das? Tipp auf den richtigen Eintrag, dann sag ihn laut."
+  ],
+  "abruf_tippen": [
+   "Type the item, then say it out loud.",
+   "Schreib den Eintrag, dann sag ihn laut."
+  ],
+  "abruf_luecke": [
+   "Complete the sentence, then say it out loud.",
+   "Ergänze den Satz, dann sag ihn laut."
+  ],
+  "abruf_fast": [
+   "Almost! It's spelt: {a}",
+   "Fast! So schreibt man es: {a}"
+  ],
+  "abruf_falsch": [
+   "The right answer: {a}",
+   "Die richtige Antwort: {a}"
+  ],
+  "leichter": [
+   "Easier: choose",
+   "Leichter: auswählen"
+  ],
+  "pruefen": "Check",
   "neu_pro_tag": [
    "New per day",
    "Neue pro Tag"

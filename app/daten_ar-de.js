@@ -48,6 +48,31 @@ window.SPRACHEN["ar-de"] = {
    "بَعْدَ ثَلاثَةِ أَخْطَاء تَأْتِي العِبَارَةُ إِلَى هُنَا: تَظْهَرُ أَوَّلاً فِي التَّمْرِين، مَعَ جُمْلَتِهَا النَّاقِصَة. فِي المُسْتَوَى ٣ تَخْرُجُ مِنَ القَائِمَة.",
    "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
   ],
+  "abruf_wahl": [
+   "كَيْفَ نَقُول؟ اِلْمِسِ العِبَارَةَ الصَّحِيحَة، ثُمَّ قُلْهَا بِصَوْتٍ عَالٍ.",
+   "Wie sagt man das? Tipp auf die richtige Wendung, dann sag sie laut."
+  ],
+  "abruf_tippen": [
+   "اُكْتُبِ العِبَارَة، ثُمَّ قُلْهَا بِصَوْتٍ عَالٍ.",
+   "Schreib die Wendung, dann sag sie laut."
+  ],
+  "abruf_luecke": [
+   "أَكْمِلِ الجُمْلَة، ثُمَّ قُلْهَا بِصَوْتٍ عَالٍ.",
+   "Ergänze den Satz, dann sag ihn laut."
+  ],
+  "abruf_fast": [
+   "تَقْرِيبًا! تُكْتَبُ هَكَذَا: {a}",
+   "Fast! So schreibt man es: {a}"
+  ],
+  "abruf_falsch": [
+   "الجَوَابُ الصَّحِيح: {a}",
+   "Die richtige Antwort: {a}"
+  ],
+  "leichter": [
+   "أَسْهَل: اِخْتَر",
+   "Leichter: auswählen"
+  ],
+  "pruefen": "تَحَقَّقْ",
   "neu_pro_tag": [
    "جَدِيدٌ كُلَّ يَوْم",
    "Neue pro Tag"

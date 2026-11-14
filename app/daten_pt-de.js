@@ -49,6 +49,31 @@ window.SPRACHEN["pt-de"] = {
    "Três falhas, e uma expressão vem parar aqui: aparece primeiro na sessão e mostra a sua frase com espaço. No nível 3, sai da lista.",
    "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Sessão zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
   ],
+  "abruf_wahl": [
+   "Como se diz? Toca na expressão certa e depois diz em voz alta.",
+   "Wie sagt man das? Tipp auf die richtige Wendung, dann sag sie laut."
+  ],
+  "abruf_tippen": [
+   "Escreve a expressão e depois diz em voz alta.",
+   "Schreib die Wendung, dann sag sie laut."
+  ],
+  "abruf_luecke": [
+   "Completa a frase e depois diz em voz alta.",
+   "Ergänze den Satz, dann sag ihn laut."
+  ],
+  "abruf_fast": [
+   "Quase! Escreve-se assim: {a}",
+   "Fast! So schreibt man es: {a}"
+  ],
+  "abruf_falsch": [
+   "A resposta certa: {a}",
+   "Die richtige Antwort: {a}"
+  ],
+  "leichter": [
+   "Mais fácil: escolher",
+   "Leichter: auswählen"
+  ],
+  "pruefen": "Verificar",
   "neu_pro_tag": [
    "Novas por dia",
    "Neue pro Tag"
