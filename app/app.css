@@ -43,6 +43,18 @@
 .wahl-knopf.falsch { border-color: var(--rot); opacity: .8; }
 .abruf-tippen { display: grid; gap: 8px; margin: 10px 0; }
 .tipp-feld { font: 600 1.2rem var(--body); padding: 10px 12px; border: 2px solid var(--blau); border-radius: 12px; background: var(--karte); color: var(--text); width: 100%; box-sizing: border-box; }
+.combo-chip { margin-inline-start: auto; font: 600 1.05rem var(--display); padding: 2px 10px; border-radius: 99px; background: var(--gelb, #ffd23f); color: #2a2000; }
+.combo-chip.heiss { background: var(--rot); color: var(--rot-text, #fff); }
+.flitzer { position: fixed; top: 38%; left: 0; z-index: 50; font-size: 3rem; pointer-events: none; display: flex; align-items: center; animation: flitzen 1.5s cubic-bezier(.5, 0, .5, 1) forwards; }
+.flitzer.stufe2 { font-size: 4rem; }
+.flitzer .spur { font-size: .7em; opacity: .8; }
+@keyframes flitzen { from { transform: translateX(-20vw); } to { transform: translateX(115vw); } }
+.konfetti-voll { position: fixed !important; z-index: 49; }
+.memory-feld { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 12px 0; }
+.memory-karte { min-height: 84px; padding: 8px; border-radius: 14px; border: 2px solid var(--blau); background: var(--blau); color: var(--blau-text, #fff); font: 600 .95rem/1.25 var(--body); cursor: pointer; overflow-wrap: break-word; hyphens: auto; }
+.memory-karte.auf { background: var(--karte); color: var(--text); }
+.memory-karte.paar { border-color: var(--gruen); background: var(--gruen-hell); color: var(--text); }
+.memory-status { text-align: center; }
 .gym-hinweis { color: var(--rot); font-weight: 700; }
 .tricky-hilfe { opacity: .85; }
 .tricky-liste { margin: 8px 0 0; padding-left: 1.2em; display: grid; gap: 4px; }

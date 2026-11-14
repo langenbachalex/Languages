@@ -73,6 +73,16 @@ window.SPRACHEN["tr-de"] = {
    "Leichter: auswählen"
   ],
   "pruefen": "Kontrol et",
+  "memory_knopf": "🎲 Memory",
+  "memory_text": [
+   "Eşleri bul: ifade ve çevirisi. Açılan ifade seslendirilir.",
+   "Finde die Paare: Wendung und Übersetzung. Eine aufgedeckte Wendung wird vorgelesen."
+  ],
+  "memory_fertig": [
+   "{n} hamlede tüm eşler! Günün ilk kazanılan oyunu +10 ⭐ getirir.",
+   "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
+  ],
+  "memory_nochmal": "Tekrar",
   "neu_pro_tag": [
    "Günde yeni",
    "Neue pro Tag"

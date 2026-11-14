@@ -74,6 +74,16 @@ window.SPRACHEN["de-fr"] = {
    "Plus facile : choisir"
   ],
   "pruefen": "Prüfen",
+  "memory_knopf": "🎲 Memory",
+  "memory_text": [
+   "Finde die Paare: Wendung und Übersetzung. Eine aufgedeckte Wendung wird vorgelesen.",
+   "Trouve les paires : l'expression et sa traduction. Une expression retournée se fait entendre."
+  ],
+  "memory_fertig": [
+   "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐.",
+   "Toutes les paires en {n} coups ! La première partie gagnée du jour rapporte +10 ⭐."
+  ],
+  "memory_nochmal": "Noch einmal",
   "neu_pro_tag": [
    "Neue pro Tag",
    "Nouvelles par jour"

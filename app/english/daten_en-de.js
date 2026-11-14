@@ -73,6 +73,16 @@ window.SPRACHEN["en-de"] = {
    "Leichter: auswählen"
   ],
   "pruefen": "Check",
+  "memory_knopf": "🎲 Memory",
+  "memory_text": [
+   "Find the pairs: the item and its translation. A turned-over item is read out.",
+   "Finde die Paare: Eintrag und Übersetzung. Ein aufgedeckter Eintrag wird vorgelesen."
+  ],
+  "memory_fertig": [
+   "All pairs in {n} moves! The first game you win each day gives +10 ⭐.",
+   "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
+  ],
+  "memory_nochmal": "Play again",
   "neu_pro_tag": [
    "New per day",
    "Neue pro Tag"

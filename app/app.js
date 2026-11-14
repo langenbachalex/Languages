@@ -333,7 +333,8 @@
           !plan.neu.length && !plan.geschafft && nochUngelernt() && U.neu_gesperrt && el("p", { class: "klein gym-hinweis" }, uf("neu_gesperrt")),
           gesamt > 0 && el("span", { class: "gym-punkte", "aria-hidden": "true" }, punkte.map((p) =>
             el("span", { class: (p.wdh ? "wdh" : "") + (plan.fertig.includes(p.id) ? " ok" : "") })))),
-        el("div", { class: "gym-knoepfe" }, knopf(plan.geschafft ? U.seance_fertig : U.seance, starteSeance, plan.geschafft ? "" : "haupt")),
+        el("div", { class: "gym-knoepfe" }, knopf(plan.geschafft ? U.seance_fertig : U.seance, starteSeance, plan.geschafft ? "" : "haupt"),
+          plan.geschafft && memoryMoeglich() && knopf(U.memory_knopf, zeigeMemory, "haupt")),
         U.neu_pro_tag && el("div", { class: "neu-wahl", role: "group", "aria-label": U.neu_pro_tag[0] },
           el("span", { class: "neu-wahl-titel" }, uf("neu_pro_tag")),
           el("span", { class: "neu-zahlen" }, Array.from({ length: PENSUM.neu_max || 5 }, (_, i) => i + 1).map((n) =>
@@ -449,12 +450,38 @@
     const plan = tagesplan();
     lage = null;
     seance = { schlange: [...plan.wdh, ...plan.neu].filter((id) => !plan.fertig.includes(id)), wieder: new Set(), start: Date.now() };
-    seancePos = 0;
+    seancePos = 0; combo = 0;
     if (!seance.schlange.length) return seanceEnde(plan.geschafft);
     zeigeSeanceKarte();
   }
   function seanceKopf() {
-    return el("header", { class: "kopf" }, knopf(U.zurueck_accueil, startseite, "leise"), el("h1", { lang: D.lang, class: "gym-titel" }, gymIcon(false, false, 40), U.seance_titel));
+    return el("header", { class: "kopf" }, knopf(U.zurueck_accueil, startseite, "leise"), el("h1", { lang: D.lang, class: "gym-titel" }, gymIcon(false, false, 40), U.seance_titel),
+      combo >= 2 && el("span", { class: "combo-chip" + (combo >= 5 ? " heiss" : ""), "aria-label": `Combo ${combo}` }, `🔥 ${combo}`));
+  }
+  /* Combo (Vorlage School-App, Mini-Rewards): richtige Antworten in Folge; bei 3, 5 und 10 flitzt etwas über den Bildschirm
+     (Klang aus Web Audio, keine Aufnahme). Ein Fehler setzt zurück. */
+  let combo = 0;
+  function comboTreffer(richtig) {
+    if (!richtig) { combo = 0; return; }
+    combo++;
+    if (combo === 3) flitzer("🛴", 0);
+    else if (combo === 5) flitzer("🚗", 1);
+    else if (combo % 10 === 0) flitzer("🚀", 2);
+  }
+  function flitzer(symbol, stufe) {
+    if (leise || (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches)) return;
+    const f = el("div", { class: "flitzer stufe" + stufe, "aria-hidden": "true" }, stufe ? el("span", { class: "spur" }, "💨") : "", el("span", {}, symbol));
+    document.body.append(f);
+    if (stufe === 2) { const k = konfetti(); k.classList.add("konfetti-voll"); document.body.append(k); setTimeout(() => k.remove(), 2600); }
+    setTimeout(() => f.remove(), 1700);
+    try {
+      if (!klangCtx) klangCtx = new (window.AudioContext || window.webkitAudioContext)();
+      if (klangCtx.state === "suspended") klangCtx.resume();
+      const c = klangCtx, t = c.currentTime, o = c.createOscillator(), g = c.createGain();
+      o.type = "triangle"; o.frequency.setValueAtTime(320 + stufe * 120, t); o.frequency.exponentialRampToValueAtTime(900 + stufe * 300, t + 0.35);
+      g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(0.18 * KLANG_LAUT, t + 0.05); g.gain.exponentialRampToValueAtTime(0.0001, t + 0.45);
+      o.connect(g).connect(c.destination); o.start(t); o.stop(t + 0.5);
+    } catch { /* ohne Ton */ }
   }
   function seanceWeiter() {
     const plan = tagesplan();
@@ -623,7 +650,60 @@
         el("div", { class: "vok" }, frage), antwortTeil, box, loesung, balken,
         el("div", { class: "knopfreihe" }, weiter)));
   }
+  /* Memory nach der Séance (Vorlage School-App): 6 Paare Wendung ↔ Übersetzung, zuerst aus den Wendungen von heute,
+     aufgefüllt aus dem Kasten. Aufgedeckte Wendung wird vorgelesen. +10 Punkte für das erste gewonnene Spiel des Tages. */
+  const MEMORY_PAARE = 6;
+  const memDe = (de) => de.split(/[;,]/)[0].replace(/\s*\([^)]*\)/g, "").replace(/\s+/g, " ").trim();   // kurz: ohne Klammern und Zweitbedeutung
+  function memoryPaare() {
+    const plan = tagesplan(), kurz = (w) => w.fr.length <= 30 && memDe(w.de).length <= 30;
+    const vonHeute = [...plan.wdh, ...plan.neu].map((id) => WENDUNG[id]).filter(Boolean);
+    const kasten = mischen(Object.keys(S.karten).map((id) => WENDUNG[id]).filter(Boolean));
+    const aus = [], de = new Set();
+    for (const liste of [vonHeute.filter(kurz), kasten.filter(kurz), vonHeute, kasten])
+      for (const w of liste) if (aus.length < MEMORY_PAARE && !aus.includes(w) && !de.has(memDe(w.de))) { aus.push(w); de.add(memDe(w.de)); }
+    return aus;
+  }
+  const memoryMoeglich = () => U.memory_knopf && Object.keys(S.karten).length >= 3;
+  function zeigeMemory() {
+    lage = null; seance = null; ansicht = zeigeMemory; tasten(null, null);
+    const paare = memoryPaare(), karten = mischen(paare.flatMap((w) => [{ w, art: "fr" }, { w, art: "de" }]));
+    let offen = [], gefunden = 0, zuege = 0, wartet = false;
+    const status = el("p", { class: "klein memory-status" }, "");
+    const ende = el("div", { hidden: true });
+    const knoepfe = karten.map((k) => {
+      const b = el("button", { class: "memory-karte", lang: k.art === "fr" ? D.lang : D.lang_hilfe, "aria-label": "?", onclick: () => {
+        if (wartet || b.classList.contains("auf")) return;
+        b.classList.add("auf"); b.textContent = k.art === "fr" ? k.w.fr : memDe(k.w.de); b.removeAttribute("aria-label");
+        if (k.art === "fr") spiele([ton(k.w)]);
+        offen.push([k, b]);
+        if (offen.length < 2) return;
+        zuege++;
+        const [[k1, b1], [k2, b2]] = offen; offen = [];
+        if (k1.w === k2.w) {
+          b1.classList.add("paar"); b2.classList.add("paar"); gefunden++;
+          if (gefunden === paare.length) fertig();
+        } else {
+          wartet = true;
+          setTimeout(() => { [b1, b2].forEach((x) => { x.classList.remove("auf"); x.textContent = ""; x.setAttribute("aria-label", "?"); }); wartet = false; }, 1200);
+        }
+        status.textContent = `${gefunden} / ${paare.length}`;
+      } });
+      return b;
+    });
+    function fertig() {
+      const t = iso(heute()), erstesMal = S.memoryTag !== t;
+      ende.hidden = false;
+      ende.replaceChildren(el("section", { class: "geschafft" }, lobZeile(ruf("lob"), "h2"), ufp("memory_fertig", { n: zuege }),
+        el("div", { class: "knopfreihe" }, knopf(U.accueil, startseite, "haupt"), knopf(U.memory_nochmal, zeigeMemory))));
+      nachLob(lobEnde);
+      if (erstesMal) { S.memoryTag = t; punkteDazu(10); }
+    }
+    zeige(el("header", { class: "kopf" }, knopf(U.zurueck_accueil, startseite, "leise"), el("h1", { lang: D.lang }, U.memory_knopf)),
+      ansageU("memory_text"),
+      el("div", { class: "memory-feld" }, knoepfe), status, ende);
+  }
   function bewerteKarte(w, gewusst, geprueft) {
+    comboTreffer(gewusst);
     if (gewusst) {
       if (!seance.wieder.has(w.id)) kastenAntwort(w.id, true, true, geprueft);   // heute schon verfehlt: bleibt morgen fällig
       merkeFertig(w.id); if (!geprueft) lobToast(lob()); speichern(); seanceWeiter();
@@ -654,7 +734,7 @@
       el("h2", { lang: D.lang }, alles ? U.fini : U.pause),
       lobZeile(text, "p", textDe),
       ufp(alles ? "fini_text" : "pause_text"),
-      el("div", { class: "knopfreihe" }, knopf(U.accueil, startseite, "haupt"), knopf(U.sammlung, sammlung))));
+      el("div", { class: "knopfreihe" }, knopf(U.accueil, startseite, "haupt"), alles && memoryMoeglich() && knopf(U.memory_knopf, zeigeMemory, "haupt"), knopf(U.sammlung, sammlung))));
       if (icon.heben) setTimeout(icon.heben, 400); };
     ansicht = zeichne; seance = null; tasten(null, null);
     zeichne();

@@ -74,6 +74,16 @@ window.SPRACHEN["it-de"] = {
    "Leichter: auswählen"
   ],
   "pruefen": "Controlla",
+  "memory_knopf": "🎲 Memory",
+  "memory_text": [
+   "Trova le coppie: l'espressione e la traduzione. L'espressione scoperta si sente.",
+   "Finde die Paare: Wendung und Übersetzung. Eine aufgedeckte Wendung wird vorgelesen."
+  ],
+  "memory_fertig": [
+   "Tutte le coppie in {n} mosse! La prima partita vinta del giorno vale +10 ⭐.",
+   "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
+  ],
+  "memory_nochmal": "Ancora",
   "neu_pro_tag": [
    "Nuove al giorno",
    "Neue pro Tag"

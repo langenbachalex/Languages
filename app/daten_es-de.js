@@ -74,6 +74,16 @@ window.SPRACHEN["es-de"] = {
    "Leichter: auswählen"
   ],
   "pruefen": "Comprobar",
+  "memory_knopf": "🎲 Memory",
+  "memory_text": [
+   "Encuentra las parejas: la expresión y su traducción. La expresión destapada se oye.",
+   "Finde die Paare: Wendung und Übersetzung. Eine aufgedeckte Wendung wird vorgelesen."
+  ],
+  "memory_fertig": [
+   "¡Todas las parejas en {n} jugadas! La primera partida ganada del día da +10 ⭐.",
+   "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
+  ],
+  "memory_nochmal": "Otra vez",
   "neu_pro_tag": [
    "Nuevas al día",
    "Neue pro Tag"
