@@ -36,6 +36,18 @@ window.SPRACHEN["en-de"] = {
   "seance": "▶ Let's go",
   "seance_fertig": "✓ Done for today",
   "seance_stand": "{neu} new · {wdh} to revise · {fertig} / {gesamt} done",
+  "neu_gesperrt": [
+   "New items: first do step 1 of a part in the themes.",
+   "Neue Einträge: Mach zuerst Schritt 1 eines Teils in den Themen."
+  ],
+  "tricky_titel": [
+   "🧩 My tricky ones ({n})",
+   "🧩 Meine Stolpersteine ({n})"
+  ],
+  "tricky_text": [
+   "After three misses an item lands here: it comes first in the Word Gym and shows its sentence with a gap. At level 3 it leaves the list.",
+   "Nach drei Fehlern landet eine Eintrag hier: Er kommt in der Word Gym zuerst dran und zeigt seinen Satz mit Lücke. Ab Stufe 3 verlässt er die Liste."
+  ],
   "neu_pro_tag": [
    "New per day",
    "Neue pro Tag"

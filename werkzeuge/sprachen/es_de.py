@@ -93,6 +93,9 @@ UI = {
     "seance": "▶ ¡Vamos!", "seance_fertig": "✓ Hecho por hoy",
     "seance_stand": "{neu} nuevas · {wdh} para repasar · {fertig} / {gesamt} hechas",
     "seance_stand_1": "{neu} nueva · {wdh} para repasar · {fertig} / {gesamt} hechas",   # Einzahl bei einer neuen Wendung
+    "neu_gesperrt": ["Expresiones nuevas: haz primero el paso 1 de una parte en los temas.", "Neue Wendungen: Mach zuerst Schritt 1 eines Teils in den Themen."],
+    "tricky_titel": ["🧩 Mis trampas ({n})", "🧩 Meine Stolpersteine ({n})"],
+    "tricky_text": ["Tres fallos, y una expresión acaba aquí: sale primero en la sesión y muestra su frase con hueco. Al nivel 3, sale de la lista.", "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Sesión zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."],
     "neu_pro_tag": ["Nuevas al día", "Neue pro Tag"],
     "seance_leer": "Nada que repasar hoy – ¡explora los temas!",
     "themen": ["Los temas", "Die Themen"], "expressions": "expresiones", "parties": "partes",

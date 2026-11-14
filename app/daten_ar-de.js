@@ -36,6 +36,18 @@ window.SPRACHEN["ar-de"] = {
   "seance": "▶ هَيَّا نَبْدَأ · hayyā nabdaʾ",
   "seance_fertig": "✓ تَمَّ اليَوْم",
   "seance_stand": "{neu} جَدِيد · {wdh} مُرَاجَعَة · {fertig} / {gesamt} تَمّ",
+  "neu_gesperrt": [
+   "عِبَارَاتٌ جَدِيدَة: اِبْدَأْ بِالخُطْوَةِ ١ مِنْ جُزْءٍ فِي المَوَاضِيع.",
+   "Neue Wendungen: Mach zuerst Schritt 1 eines Teils in den Themen."
+  ],
+  "tricky_titel": [
+   "🧩 عَثَرَاتِي ({n})",
+   "🧩 Meine Stolpersteine ({n})"
+  ],
+  "tricky_text": [
+   "بَعْدَ ثَلاثَةِ أَخْطَاء تَأْتِي العِبَارَةُ إِلَى هُنَا: تَظْهَرُ أَوَّلاً فِي التَّمْرِين، مَعَ جُمْلَتِهَا النَّاقِصَة. فِي المُسْتَوَى ٣ تَخْرُجُ مِنَ القَائِمَة.",
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
+  ],
   "neu_pro_tag": [
    "جَدِيدٌ كُلَّ يَوْم",
    "Neue pro Tag"

@@ -330,6 +330,7 @@
         el("div", { class: "gym-text" },
           el("h2", { lang: D.lang }, U.seance_titel),
           el("p", { class: "unter", lang: D.lang }, gesamt ? f(plan.neu.length === 1 && U.seance_stand_1 ? U.seance_stand_1 : U.seance_stand, { neu: plan.neu.length, wdh: plan.wdh.length, fertig, gesamt }) : U.seance_leer),
+          !plan.neu.length && !plan.geschafft && nochUngelernt() && U.neu_gesperrt && el("p", { class: "klein gym-hinweis" }, uf("neu_gesperrt")),
           gesamt > 0 && el("span", { class: "gym-punkte", "aria-hidden": "true" }, punkte.map((p) =>
             el("span", { class: (p.wdh ? "wdh" : "") + (plan.fertig.includes(p.id) ? " ok" : "") })))),
         el("div", { class: "gym-knoepfe" }, knopf(plan.geschafft ? U.seance_fertig : U.seance, starteSeance, plan.geschafft ? "" : "haupt")),
@@ -396,7 +397,33 @@
      Neue Wendungen in Themenreihenfolge, so viele wie eingestellt (neuProTag). Der Plan wird einmal am Tag gemacht und gespeichert. */
   // Neue Wendungen pro Tag: je Sprache einstellbar (S.neu_pro_tag), 1 bis PENSUM.neu_max, Voreinstellung PENSUM.neu
   const neuProTag = () => Math.min(PENSUM.neu_max || 5, Math.max(1, S.neu_pro_tag || PENSUM.neu));
-  const neueFuerHeute = () => D.wendungen.map((w) => w.id).filter((id) => !S.karten[id]).slice(0, neuProTag());
+  /* Satz zuerst (Mr. Alex, 14.11.): eine Wendung kommt erst als neue Karte in die Séance, wenn ihr Satz im Thema
+     gehört und nachgesprochen wurde (Schritt 1 ihres Teils fertig). Sonst gibt es heute nur Wiederholungen. */
+  let schritt1Von = null;
+  function gesehen(id) {
+    if (!schritt1Von) {
+      schritt1Von = {};
+      D.themen.forEach((t) => gruppenVon(t).forEach((ids, g) => ids.forEach((w) => { schritt1Von[w] = `${t.id}|${g}|0`; })));
+    }
+    return !!S.teile[schritt1Von[id]];
+  }
+  const neueFuerHeute = () => D.wendungen.map((w) => w.id).filter((id) => !S.karten[id] && gesehen(id)).slice(0, neuProTag());
+  const nochUngelernt = () => D.wendungen.some((w) => !S.karten[w.id]);
+  // Stolpersteine (Tricky): dreimal verfehlt und noch unter Stufe 3 – kommen in der Séance zuerst und zeigen ihren Satz mit Lücke
+  const istTricky = (k) => !!k && (k.x || 0) >= 3 && k.s < 3;
+  // Antwort zählt für den Kasten (Séance und « Trouve l'expression »): Fehler = zwei Stufen zurück, morgen fällig;
+  // richtig hebt nur eine fällige Karte (im Thema wiederholt man sonst ohne Wirkung auf den Plan)
+  function kastenAntwort(id, richtig, immer) {
+    const k = S.karten[id];
+    if (!k) return;
+    if (richtig) {
+      if (!immer && k.f > iso(heute())) return;
+      k.s = Math.min(k.s + 1, INTERVALLE.length); k.f = naechsteFaelligkeit(k.s);
+    } else {
+      k.s = Math.max(0, k.s - 2); k.f = naechsteFaelligkeit(0); k.x = (k.x || 0) + 1;
+    }
+    speichern();
+  }
   function tagesplan() {
     const t = iso(heute());
     if (S.tag && S.tag.d === t) {
@@ -407,7 +434,7 @@
       return p;
     }
     const faellig = Object.entries(S.karten).filter(([, k]) => k.f <= t)
-      .sort((a, b) => (a[1].f < b[1].f ? -1 : a[1].f > b[1].f ? 1 : REIHENFOLGE[a[0]] - REIHENFOLGE[b[0]]))
+      .sort((a, b) => (istTricky(b[1]) - istTricky(a[1])) || (a[1].f < b[1].f ? -1 : a[1].f > b[1].f ? 1 : REIHENFOLGE[a[0]] - REIHENFOLGE[b[0]]))
       .map(([id]) => id).slice(0, PENSUM.wiederholung);
     const neu = neueFuerHeute();
     S.tag = { d: t, wdh: faellig, neu, fertig: [], geschafft: false };
@@ -465,9 +492,10 @@
   }
   // Wiederholung: Hilfssprache sehen, Zielsprache sagen, Lösung hören, selbst einschätzen
   function wiederholKarte(w, zaehler) {
-    const k = S.karten[w.id];
+    const k = S.karten[w.id], tricky = istTricky(k);
     const balken = jetztDu();
-    const frage = el("div", {}, el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de));
+    const frage = el("div", {}, el("p", { class: "wendung-de", lang: D.lang_hilfe }, w.de), el("p", { class: "satz de", lang: D.lang_hilfe }, w.satz.de),
+      tricky && el("p", { class: "satz fr tricky-hilfe", lang: D.lang }, lueckenSatz(w.satz, "luecke")));
     const antwort = el("div", { hidden: true },
       el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w), wurzel(w)), umschrift(w), glosse(w.gloss, "gloss klein"),
       el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), umschrift(w.satz), glosse(w.satz.gloss), notiz(w));
@@ -483,17 +511,16 @@
     tasten(null, wennFrei(loesung, () => loesung.click()));
     zeige(seanceKopf(),
       ansageU("wie_sagt_man"),
-      karte(`${zaehler} · ${f(U.revision, { s: k.s })}`,
+      karte(`${zaehler} · ${f(U.revision, { s: k.s })}${tricky ? " · 🧩" : ""}`,
         el("div", { class: "vok" }, frage), antwort, balken,
         el("div", { class: "knopfreihe" }, loesung), bewerten));
   }
   function bewerteKarte(w, gewusst) {
-    const k = S.karten[w.id];
     if (gewusst) {
-      k.s = Math.min(k.s + 1, INTERVALLE.length); k.f = naechsteFaelligkeit(k.s);
+      if (!seance.wieder.has(w.id)) kastenAntwort(w.id, true, true);   // heute schon verfehlt: bleibt morgen fällig
       merkeFertig(w.id); lobToast(lob()); speichern(); seanceWeiter();
     } else {
-      k.s = 0; k.f = naechsteFaelligkeit(0); speichern();
+      if (!seance.wieder.has(w.id)) kastenAntwort(w.id, false); else speichern();   // zweites « Encore » am selben Tag zählt nicht doppelt
       if (!seance.wieder.has(w.id)) { seance.wieder.add(w.id); seance.schlange.push(w.id); }
       else merkeFertig(w.id);
       toast(U.pas_grave);
@@ -1160,8 +1187,8 @@
     const antwort = el("div", { hidden: true }, el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w), wurzel(w)), umschrift(w), glosse(w.gloss, "gloss klein"),
       el("p", { class: "klein", lang: D.lang }, w.satz.fr), umschrift(w.satz, "umschrift klein"), glosse(w.satz.gloss), notiz(w));
     const bewerten = el("div", { class: "bewerten", hidden: true },
-      knopf(U.je_savais, naechstes, "haupt weiter"),
-      knopf(U.encore, () => { lage.reihe.push(w.id); naechstes(); }, "encore"));
+      knopf(U.je_savais, () => { kastenAntwort(w.id, true); naechstes(); }, "haupt weiter"),
+      knopf(U.encore, () => { if (!lage.reihe.slice(0, lage.pos).includes(w.id)) kastenAntwort(w.id, false); lage.reihe.push(w.id); naechstes(); }, "encore"));
     const loesung = sperre(knopf(U.solution, () => {
       loesung.hidden = true; antwort.hidden = false; bewerten.hidden = false;
       tasten(() => nachsprechen(balken, [ton(w), ton(w.satz)]), naechstes);
@@ -1417,6 +1444,15 @@
         el("h2", {}, f(U.boite, { n: karten.length })),
         el("p", { class: "klein" }, uf("boite_text")),
         el("ul", { class: "abzeichen" }, stufen.map((n, i) => el("li", { class: n ? "ok" : "" }, el("span", {}, `${i}`), el("span", {}, `${n} · ${INTERVALLE[i]} ${U.jours}`))))),
+      U.tricky_titel && (() => {
+        const liste = D.wendungen.filter((w) => istTricky(S.karten[w.id]));
+        return el("section", { class: "satzkarte" },
+          el("h2", {}, uf("tricky_titel", { n: liste.length })),
+          el("p", { class: "klein" }, uf("tricky_text")),
+          liste.length ? el("ul", { class: "tricky-liste" }, liste.map((w) => el("li", {},
+            el("strong", { lang: D.lang }, w.fr), " ", el("span", { lang: D.lang_hilfe, class: "leise" }, `– ${w.de}`), el("small", {}, ` · ${f(U.revision, { s: S.karten[w.id].s })} · ✗ ${S.karten[w.id].x}`))))
+            : el("p", { class: "klein" }, "✓"));
+      })(),
       D.geschichte.length && el("section", { class: "satzkarte" },
         el("h2", {}, `📖 ${D.geschichte_info.titel} (${kapitelFrei()} / ${D.geschichte.length})`),
         el("p", { class: "klein" }, frde(D.geschichte_info.sammlung[0], D.geschichte_info.sammlung[1])),

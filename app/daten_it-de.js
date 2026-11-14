@@ -37,6 +37,18 @@ window.SPRACHEN["it-de"] = {
   "seance_fertig": "✓ Fatto per oggi",
   "seance_stand": "{neu} nuove · {wdh} da ripassare · {fertig} / {gesamt} fatte",
   "seance_stand_1": "{neu} nuova · {wdh} da ripassare · {fertig} / {gesamt} fatte",
+  "neu_gesperrt": [
+   "Espressioni nuove: fai prima il passo 1 di una parte nei temi.",
+   "Neue Wendungen: Mach zuerst Schritt 1 eines Teils in den Themen."
+  ],
+  "tricky_titel": [
+   "🧩 Le mie trappole ({n})",
+   "🧩 Meine Stolpersteine ({n})"
+  ],
+  "tricky_text": [
+   "Tre errori, e un'espressione finisce qui: viene per prima nella sessione e mostra la sua frase con lo spazio vuoto. Al livello 3 esce dalla lista.",
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Sessione zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
+  ],
   "neu_pro_tag": [
    "Nuove al giorno",
    "Neue pro Tag"

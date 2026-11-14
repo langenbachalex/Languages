@@ -99,6 +99,9 @@ UI = {
     "seance": "▶ C'est parti !", "seance_fertig": "✓ Terminé pour aujourd'hui",
     "seance_stand": "{neu} nouvelles · {wdh} à réviser · {fertig} / {gesamt} faites",
     "seance_stand_1": "{neu} nouvelle · {wdh} à réviser · {fertig} / {gesamt} faites",   # Einzahl bei einer neuen Wendung
+    "neu_gesperrt": ["Nouvelles expressions : fais d'abord l'étape 1 d'une partie dans les thèmes.", "Neue Wendungen: Mach zuerst Schritt 1 eines Teils in den Themen."],
+    "tricky_titel": ["🧩 Mes pièges ({n})", "🧩 Meine Stolpersteine ({n})"],
+    "tricky_text": ["Trois ratés, et une expression atterrit ici : elle passe en premier dans la séance et montre sa phrase à trous. Au niveau 3, elle quitte la liste.", "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Séance zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."],
     "neu_pro_tag": ["Nouvelles par jour", "Neue pro Tag"],
     "seance_leer": "Rien à réviser aujourd'hui – explore les thèmes !",
     "themen": ["Les thèmes", "Die Themen"], "expressions": "expressions", "parties": "parties",

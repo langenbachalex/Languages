@@ -37,6 +37,18 @@ window.SPRACHEN["pt-de"] = {
   "seance_fertig": "✓ Feito por hoje",
   "seance_stand": "{neu} novas · {wdh} para rever · {fertig} / {gesamt} feitas",
   "seance_stand_1": "{neu} nova · {wdh} para rever · {fertig} / {gesamt} feitas",
+  "neu_gesperrt": [
+   "Expressões novas: faz primeiro o passo 1 de uma parte nos temas.",
+   "Neue Wendungen: Mach zuerst Schritt 1 eines Teils in den Themen."
+  ],
+  "tricky_titel": [
+   "🧩 As minhas armadilhas ({n})",
+   "🧩 Meine Stolpersteine ({n})"
+  ],
+  "tricky_text": [
+   "Três falhas, e uma expressão vem parar aqui: aparece primeiro na sessão e mostra a sua frase com espaço. No nível 3, sai da lista.",
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Sessão zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
+  ],
   "neu_pro_tag": [
    "Novas por dia",
    "Neue pro Tag"

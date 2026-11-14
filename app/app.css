@@ -37,6 +37,10 @@
 .gym-punkte span.wdh { border-radius: 3px; }
 .gym-punkte span.ok { background: var(--blau); }
 .gym-knoepfe { display: flex; gap: 6px; align-items: center; }
+.gym-hinweis { color: var(--rot); font-weight: 700; }
+.tricky-hilfe { opacity: .85; }
+.tricky-liste { margin: 8px 0 0; padding-left: 1.2em; display: grid; gap: 4px; }
+.tricky-liste .leise { color: var(--leise); }
 .neu-wahl { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 12px; padding-top: 8px; border-top: 1px solid var(--linie, rgba(127,127,127,.25)); }
 .neu-wahl-titel { font-weight: 700; }
 .neu-zahlen { display: flex; gap: 6px; }

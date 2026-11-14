@@ -36,6 +36,18 @@ window.SPRACHEN["tr-de"] = {
   "seance": "▶ Hadi başlayalım!",
   "seance_fertig": "✓ Bugünlük tamam",
   "seance_stand": "{neu} yeni · {wdh} tekrar · {fertig} / {gesamt} bitti",
+  "neu_gesperrt": [
+   "Yeni ifadeler: önce konulardan bir bölümün 1. adımını yap.",
+   "Neue Wendungen: Mach zuerst Schritt 1 eines Teils in den Themen."
+  ],
+  "tricky_titel": [
+   "🧩 Takıldıklarım ({n})",
+   "🧩 Meine Stolpersteine ({n})"
+  ],
+  "tricky_text": [
+   "Üç hatadan sonra bir ifade buraya gelir: antrenmanda önce o çıkar ve boşluklu cümlesini gösterir. 3. seviyede listeden çıkar.",
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
+  ],
   "neu_pro_tag": [
    "Günde yeni",
    "Neue pro Tag"
