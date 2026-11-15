@@ -10,5 +10,8 @@ Agent Skills nutzen (Plugin `agent-skills` von Addy Osmani, eingetragen in `.cla
 - **Fehler sammeln:** neue Fehler nur in `docs/beta-fehler.md` eintragen; ab 5 offenen behebbaren Einträgen fragen, ob sie gebündelt behoben werden.
 - **Antworten kurz**, Ergebnis zuerst; vor dem Pushen bauen (`python3 werkzeuge/bauen.py`) und die betroffenen Teile im Browser prüfen.
 
+## Systeme über alle Apps
+`docs/systeme.md` zeigt, welches System (Word Gym, Power Up, …) in welcher App steckt (EN6, EN9, FR in `langenbachalex/School`, LANG hier). Wer ein System baut oder ändert, trägt es dort ein. Die wöchentliche Aufgabe « Systeme School → Languages » liest neue School-Commits und fragt, was übernommen wird.
+
 ## Aufbau
 App in `app/` (wird von `werkzeuge/bauen.py` erzeugt), Sprachpakete in `werkzeuge/sprachen/<paar>.py`, Inhalte in `inhalte/<paar>/`, Konzepte in `docs/`.
