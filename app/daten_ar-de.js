@@ -45,8 +45,8 @@ window.SPRACHEN["ar-de"] = {
    "🧩 Meine Stolpersteine ({n})"
   ],
   "tricky_text": [
-   "بَعْدَ ثَلاثَةِ أَخْطَاء تَأْتِي العِبَارَةُ إِلَى هُنَا: تَظْهَرُ أَوَّلاً فِي التَّمْرِين، مَعَ جُمْلَتِهَا النَّاقِصَة. فِي المُسْتَوَى ٣ تَخْرُجُ مِنَ القَائِمَة.",
-   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
+   "بَعْدَ ثَلاثَةِ أَخْطَاء تَأْتِي العِبَارَةُ إِلَى هُنَا: تَظْهَرُ أَوَّلاً فِي التَّمْرِين، مَعَ جُمْلَتِهَا النَّاقِصَة. فِي المُسْتَوَى ٥ تَخْرُجُ مِنَ القَائِمَة.",
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 5 verlässt sie die Liste."
   ],
   "abruf_wahl": [
    "كَيْفَ نَقُول؟ اِلْمِسِ العِبَارَةَ الصَّحِيحَة، ثُمَّ قُلْهَا بِصَوْتٍ عَالٍ.",
@@ -83,6 +83,19 @@ window.SPRACHEN["ar-de"] = {
    "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
   ],
   "memory_nochmal": "مَرَّةً أُخْرَى",
+  "sicher": [
+   "💪 {n} ثَابِتَة",
+   "💪 {n} sicher"
+  ],
+  "powerup_zeile": [
+   "⚡ {n} أَجْزَاءٍ تَكَادُ تَفْرُغ – اِشْحَنْهَا!",
+   "⚡ {n} Teile fast leer – aufladen!"
+  ],
+  "powerup_eins": [
+   "⚡ جُزْءٌ وَاحِدٌ يَكَادُ يَفْرُغ – اِشْحَنْه!",
+   "⚡ 1 Teil fast leer – aufladen!"
+  ],
+  "powerup_ok": "⚡ تَمَّ الشَّحْن!",
   "neu_pro_tag": [
    "جَدِيدٌ كُلَّ يَوْم",
    "Neue pro Tag"

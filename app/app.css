@@ -55,6 +55,15 @@
 .memory-karte.auf { background: var(--karte); color: var(--text); }
 .memory-karte.paar { border-color: var(--gruen); background: var(--gruen-hell); color: var(--text); }
 .memory-status { text-align: center; }
+.gym-punkte span.satz { transform: rotate(45deg) scale(.85); border-radius: 2px; }
+.gym-punkte span.schluss { border-color: var(--gelb); }
+.gym-punkte span.schluss.ok { background: var(--gelb); }
+.gym-sicher { font-weight: 700; }
+.kachel.powerup { border-color: var(--gelb); background: color-mix(in srgb, var(--gelb) 22%, var(--karte)); }
+.powerup-schild { background: var(--gelb); color: var(--gelb-text); }
+.sprung.powerup { border-color: var(--gelb); background: color-mix(in srgb, var(--gelb) 35%, var(--karte)); }
+.powerup-zeile { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 12px; padding: 10px 14px; border-radius: 16px; border: 2px solid var(--gelb); background: color-mix(in srgb, var(--gelb) 18%, var(--karte)); }
+.powerup-zeile p { margin: 0; font-weight: 700; }
 .gym-hinweis { color: var(--rot); font-weight: 700; }
 .tricky-hilfe { opacity: .85; }
 .tricky-liste { margin: 8px 0 0; padding-left: 1.2em; display: grid; gap: 4px; }

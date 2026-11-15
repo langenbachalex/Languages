@@ -45,8 +45,8 @@ window.SPRACHEN["en-de"] = {
    "🧩 Meine Stolpersteine ({n})"
   ],
   "tricky_text": [
-   "After three misses an item lands here: it comes first in the Word Gym and shows its sentence with a gap. At level 3 it leaves the list.",
-   "Nach drei Fehlern landet eine Eintrag hier: Er kommt in der Word Gym zuerst dran und zeigt seinen Satz mit Lücke. Ab Stufe 3 verlässt er die Liste."
+   "After three misses an item lands here: it comes first in the Word Gym and shows its sentence with a gap. At level 5 it leaves the list.",
+   "Nach drei Fehlern landet eine Eintrag hier: Er kommt in der Word Gym zuerst dran und zeigt seinen Satz mit Lücke. Ab Stufe 5 verlässt er die Liste."
   ],
   "abruf_wahl": [
    "How do you say it? Tap the right item, then say it out loud.",
@@ -83,6 +83,19 @@ window.SPRACHEN["en-de"] = {
    "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
   ],
   "memory_nochmal": "Play again",
+  "sicher": [
+   "💪 {n} safe",
+   "💪 {n} sicher"
+  ],
+  "powerup_zeile": [
+   "⚡ {n} parts running low – power up!",
+   "⚡ {n} Teile fast leer – aufladen!"
+  ],
+  "powerup_eins": [
+   "⚡ 1 part running low – power up!",
+   "⚡ 1 Teil fast leer – aufladen!"
+  ],
+  "powerup_ok": "⚡ Powered up!",
   "neu_pro_tag": [
    "New per day",
    "Neue pro Tag"

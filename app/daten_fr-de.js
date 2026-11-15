@@ -46,8 +46,8 @@ window.SPRACHEN["fr-de"] = {
    "🧩 Meine Stolpersteine ({n})"
   ],
   "tricky_text": [
-   "Trois ratés, et une expression atterrit ici : elle passe en premier dans la séance et montre sa phrase à trous. Au niveau 3, elle quitte la liste.",
-   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Séance zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
+   "Trois ratés, et une expression atterrit ici : elle passe en premier dans la séance et montre sa phrase à trous. Au niveau 5, elle quitte la liste.",
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Séance zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 5 verlässt sie die Liste."
   ],
   "abruf_wahl": [
    "Comment dit-on ? Touche la bonne expression, puis dis-la à voix haute.",
@@ -84,6 +84,19 @@ window.SPRACHEN["fr-de"] = {
    "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
   ],
   "memory_nochmal": "Rejouer",
+  "sicher": [
+   "💪 {n} sûres",
+   "💪 {n} sicher"
+  ],
+  "powerup_zeile": [
+   "⚡ {n} parties presque vides – recharge-les !",
+   "⚡ {n} Teile fast leer – aufladen!"
+  ],
+  "powerup_eins": [
+   "⚡ 1 partie presque vide – recharge-la !",
+   "⚡ 1 Teil fast leer – aufladen!"
+  ],
+  "powerup_ok": "⚡ Rechargé !",
   "neu_pro_tag": [
    "Nouvelles par jour",
    "Neue pro Tag"

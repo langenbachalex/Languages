@@ -46,8 +46,8 @@ window.SPRACHEN["de-fr"] = {
    "🧩 Mes pièges ({n})"
   ],
   "tricky_text": [
-   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste.",
-   "Trois ratés, et une expression atterrit ici : elle passe en premier dans la séance et montre sa phrase à trous. Au niveau 3, elle quitte la liste."
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 5 verlässt sie die Liste.",
+   "Trois ratés, et une expression atterrit ici : elle passe en premier dans la séance et montre sa phrase à trous. Au niveau 5, elle quitte la liste."
   ],
   "abruf_wahl": [
    "Wie sagt man das? Tipp auf die richtige Wendung, dann sag sie laut.",
@@ -84,6 +84,19 @@ window.SPRACHEN["de-fr"] = {
    "Toutes les paires en {n} coups ! La première partie gagnée du jour rapporte +10 ⭐."
   ],
   "memory_nochmal": "Noch einmal",
+  "sicher": [
+   "💪 {n} sicher",
+   "💪 {n} sûres"
+  ],
+  "powerup_zeile": [
+   "⚡ {n} Teile fast leer – aufladen!",
+   "⚡ {n} parties presque vides – recharge-les !"
+  ],
+  "powerup_eins": [
+   "⚡ 1 Teil fast leer – aufladen!",
+   "⚡ 1 partie presque vide – recharge-la !"
+  ],
+  "powerup_ok": "⚡ Aufgeladen!",
   "neu_pro_tag": [
    "Neue pro Tag",
    "Nouvelles par jour"

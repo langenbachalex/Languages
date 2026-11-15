@@ -55,6 +55,7 @@
   const ufp = (key, v) => frde(f(U[key][0], v), f(U[key][1], v), "p");
   function setzeSprache(paar, start = true) {
     D = PAKETE[paar]; U = D.ui; SP = D.spiel; S = sprachStand(paar); A = (D.aussprachen || [D.aussprache])[0];
+    for (const k in S.teile) if (S.teile[k] === true) S.teile[k] = { am: iso(heute()), s: 0 };   // Power Up: alte Einträge gelten als heute erledigt
     PENSUM = D.pensum; INTERVALLE = D.intervalle;
     WENDUNG = Object.fromEntries(D.wendungen.map((w) => [w.id, w]));
     REIHENFOLGE = Object.fromEntries(D.wendungen.map((w, i) => [w.id, i]));
@@ -283,6 +284,7 @@
   }
   function gibFrei(k, sek, merken = true) {
     if (!k.disabled || k.dataset.frei) return;
+    if (lage && lage.tempo) sek *= lage.tempo;
     k.dataset.frei = "1";
     k.style.setProperty("--warte", sek.toFixed(1) + "s");
     k.classList.add("laeuft");
@@ -317,8 +319,8 @@
   function startseite() {
     lage = null; seance = null; ansicht = startseite;
     const plan = tagesplan();
-    const gesamt = plan.neu.length + plan.wdh.length, fertig = plan.fertig.length;
-    const punkte = [...plan.wdh.map((id) => ({ id, wdh: true })), ...plan.neu.map((id) => ({ id }))];
+    const reihe = planReihe(plan), gesamt = reihe.length, fertig = reihe.filter((id) => plan.fertig.includes(id)).length;
+    const punkte = reihe.map((id) => ({ id, wdh: !plan.neu.includes(id), satz: id.startsWith("s:"), schluss: id.startsWith("!") }));
     const karten = Object.values(S.karten);
     zeige(
       el("header", { class: "gruss" },
@@ -329,10 +331,11 @@
         gymIcon(plan.geschafft, false, 92),
         el("div", { class: "gym-text" },
           el("h2", { lang: D.lang }, U.seance_titel),
-          el("p", { class: "unter", lang: D.lang }, gesamt ? f(plan.neu.length === 1 && U.seance_stand_1 ? U.seance_stand_1 : U.seance_stand, { neu: plan.neu.length, wdh: plan.wdh.length, fertig, gesamt }) : U.seance_leer),
+          el("p", { class: "unter", lang: D.lang }, gesamt ? f(plan.neu.length === 1 && U.seance_stand_1 ? U.seance_stand_1 : U.seance_stand, { neu: plan.neu.length, wdh: gesamt - plan.neu.length, fertig, gesamt }) : U.seance_leer),
           !plan.neu.length && !plan.geschafft && nochUngelernt() && U.neu_gesperrt && el("p", { class: "klein gym-hinweis" }, uf("neu_gesperrt")),
+          U.sicher && Object.keys(S.karten).length > 0 && el("p", { class: "klein gym-sicher" }, uf("sicher", { n: anzahlSicher() })),
           gesamt > 0 && el("span", { class: "gym-punkte", "aria-hidden": "true" }, punkte.map((p) =>
-            el("span", { class: (p.wdh ? "wdh" : "") + (plan.fertig.includes(p.id) ? " ok" : "") })))),
+            el("span", { class: (p.wdh ? "wdh" : "") + (p.satz ? " satz" : "") + (p.schluss ? " schluss" : "") + (plan.fertig.includes(p.id) ? " ok" : "") })))),
         el("div", { class: "gym-knoepfe" }, knopf(plan.geschafft ? U.seance_fertig : U.seance, starteSeance, plan.geschafft ? "" : "haupt"),
           plan.geschafft && memoryMoeglich() && knopf(U.memory_knopf, zeigeMemory, "haupt")),
         U.neu_pro_tag && el("div", { class: "neu-wahl", role: "group", "aria-label": U.neu_pro_tag[0] },
@@ -347,27 +350,30 @@
               onclick: () => { S.wdh_pro_tag = n; speichern(); tagesplan(); startseite(); } }, String(n)))))),
       D.schrift && el("h2", {}, uf("schrift")),
       D.schrift && el("nav", { class: "kacheln themen", "aria-label": U.schrift[0] }, D.schrift.gruppen.map(schriftKachel)),
+      U.powerup_zeile && faelligeTeile().length > 0 && el("div", { class: "powerup-zeile" },
+        el("p", {}, uf(faelligeTeile().length === 1 ? "powerup_eins" : "powerup_zeile", { n: faelligeTeile().length })),
+        knopf("⚡ Power Up", () => oeffneTeil(faelligeTeile()[0]), "haupt")),
       el("h2", {}, uf("themen")),
       el("nav", { class: "kacheln themen", "aria-label": U.themen[0] },
         D.themen.map((t) => {
           const gruppen = gruppenVon(t), ok = gruppen.filter((g, i) => gruppeFertig(t.id, i)).length;
-          return el("button", { class: "kachel" + (ok === gruppen.length ? " erledigt" : ""), onclick: () => zeigeThema(t.id),
+          return el("button", { class: kachelKlasse(ok === gruppen.length, `${t.id}|`), onclick: () => zeigeThema(t.id),
             "aria-label": `${t.name} – ${t.de}` },
             el("span", { class: "sym", "aria-hidden": "true" }, t.symbol),
             el("span", { class: "titel", lang: D.lang }, t.name),
             el("span", { class: "unter", lang: D.lang_hilfe }, t.de),
             el("span", { class: "zahl" }, `${t.wendungen.length} ${U.expressions} · ${ok} / ${gruppen.length} ${U.parties}`),
-            ok === gruppen.length && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
+            kachelHaken(ok === gruppen.length, `${t.id}|`));
         })),
       D.dialoge.length && el("h2", {}, frde(D.dialoge_titel[0], D.dialoge_titel[1])),
       D.dialoge.length && el("nav", { class: "kacheln themen", "aria-label": D.dialoge_titel[0] }, D.dialoge.map((d, i) => {
         const ok = dialogFertig(d.id);
-        return el("button", { class: "kachel" + (ok ? " erledigt" : ""), onclick: () => starteDialog(d.id), "aria-label": `${d.titel}${ok ? " ✓" : ""}` },
+        return el("button", { class: kachelKlasse(ok, `dialog:${d.id}|`), onclick: () => starteDialog(d.id), "aria-label": `${d.titel}${ok ? " ✓" : ""}` },
           el("span", { class: "sym", "aria-hidden": "true" }, "💬"),
           el("span", { class: "titel", lang: D.lang }, `« ${d.titel} »`),
           el("span", { class: "unter", lang: D.lang }, d.ort),
           el("span", { class: "zahl" }, `${d.zeilen.length} ${U.repliques}`),
-          ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
+          kachelHaken(ok, `dialog:${d.id}|`));
       })),
       D.grammatik && D.grammatik.length && el("h2", {}, uf("grammatik")),
       D.grammatik && D.grammatik.length && el("nav", { class: "kacheln themen", "aria-label": U.grammatik[0] }, D.grammatik.map(grammatikKachel)),
@@ -383,12 +389,12 @@
           el("span", { class: "titel", lang: D.lang }, D.anekdoten_info.titel),
           el("span", { class: "unter", lang: D.lang }, D.anekdoten_info.unter),
           el("span", { class: "zahl" }, f(U.anekdoten_zahl || "{frei} / {alle}", { frei: anekdotenFrei(), alle: D.anekdoten.length }))) : null,
-        ...ausspracheModule().map((M) => el("button", { class: "kachel" + (ausspracheFertig(M) ? " erledigt" : ""), onclick: () => starteAussprache(M), "aria-label": M.titel },
+        ...ausspracheModule().map((M) => el("button", { class: kachelKlasse(ausspracheFertig(M), `${M.id}|`), onclick: () => starteAussprache(M), "aria-label": M.titel },
           el("span", { class: "sym", "aria-hidden": "true" }, M.symbol),
           el("span", { class: "titel", lang: D.lang }, M.titel),
           el("span", { class: "unter", lang: D.lang }, M.unter),
           el("span", { class: "zahl" }, `${ausspracheTeile(M).filter((_, i) => S.teile[`${M.id}|0|${i}`]).length} / ${ausspracheTeile(M).length} ${U.parties}`),
-          ausspracheFertig(M) && el("span", { class: "haken", "aria-hidden": "true" }, "✓"))),
+          kachelHaken(ausspracheFertig(M), `${M.id}|`))),
         !D.geschichte.length && !ausspracheModule().length ? el("div", { class: "kachel bald" }, el("span", { class: "titel", lang: D.lang }, "…"), el("span", { class: "bald-schild" }, U.bald)) : null),
       el("p", { class: "klein" }, uf("stand", { n: karten.length, fest: karten.filter((k) => k.s >= 3).length, orte: orteFrei(), alle: SP.orte.length })));
     app.querySelector(".gruss").append(statusleiste());
@@ -416,7 +422,9 @@
   const neueFuerHeute = () => D.wendungen.map((w) => w.id).filter((id) => !S.karten[id] && gesehen(id)).slice(0, neuProTag());
   const nochUngelernt = () => D.wendungen.some((w) => !S.karten[w.id]);
   // Stolpersteine (Tricky): dreimal verfehlt und noch unter Stufe 3 – kommen in der Séance zuerst und zeigen ihren Satz mit Lücke
-  const istTricky = (k) => !!k && (k.x || 0) >= 3 && k.s < 3;
+  const SICHER = 5;   // ab Stufe 5 gilt eine Wendung als sicher (Vorlage School)
+  const istTricky = (k) => !!k && (k.x || 0) >= 3 && k.s < SICHER;
+  const anzahlSicher = () => Object.entries(S.karten).filter(([id, k]) => WENDUNG[id] && k.s >= SICHER).length;
   // Antwort zählt für den Kasten (Séance und « Trouve l'expression »): Fehler = zwei Stufen zurück, morgen fällig;
   // richtig hebt nur eine fällige Karte (im Thema wiederholt man sonst ohne Wirkung auf den Plan)
   function kastenAntwort(id, richtig, immer, geprueft) {
@@ -431,24 +439,95 @@
     }
     speichern();
   }
+  /* Satz-Karten (Mr. Alex, 15.11., Vorlage School-App « Muscu des mots »): Sätze aus anderen Bereichen, in denen eine Wendung steckt –
+     Dialogzeilen, Geschichte (freie Kapitel), Anekdoten (freie), Beispiel- und Zeitmaschinen-Sätze anderer Wendungen. Lücke = die Wendung.
+     Eigener Kasten S.saetze { id: { s, f, x } }, gleiche Regeln wie Wendungen. Zwei pro Tag: fällige zuerst, dann neue –
+     neu nur, wenn die Wendung in der Lücke schon im Kasten ist oder der Bereich geübt ist (Dialog gemacht, Wendung im Thema gesehen). */
+  const SATZ_PRO_TAG = 2;
+  let satzPool = null, satzPoolVon = null;
+  function satzListe() {
+    if (satzPoolVon === D) return satzPool;
+    const kand = D.wendungen.flatMap((w) => [w.satz.luecke, w.fr].filter((x) => x && !/[…\/]/.test(x))
+      .map((x) => ({ w: w.id, t: x.replace(/[?!¿¡.。]/g, "").trim() }))).filter((k) => k.t.length >= 4);
+    const zeilen = [
+      ...D.dialoge.flatMap((d) => d.zeilen.map((z) => ({ id: "s:" + z.id, fr: z.fr, de: z.de, audio: z.audio, umschrift: z.umschrift, bereich: "dialog:" + d.id }))),
+      ...D.geschichte.flatMap((k) => k.absaetze.map((a) => ({ id: "s:" + a.id, fr: a.fr.replace(/\*\*/g, ""), de: a.de, audio: a.audio, umschrift: a.umschrift, kapitel: k.nr }))),
+      ...(D.anekdoten || []).flatMap((k) => k.absaetze.map((a) => ({ id: "s:" + a.id, fr: a.fr, de: a.de, audio: a.audio, umschrift: a.umschrift, anekdote: k.nr }))),
+      ...D.wendungen.flatMap((w) => [{ id: "s:w." + w.id, fr: w.satz.fr, de: w.satz.de, audio: w.satz.audio, umschrift: w.satz.umschrift, von: w.id },
+        ...(w.zeit ? ["pc", "fp"].map((z) => ({ id: `s:${z}.${w.id}`, fr: w.zeit[z].fr, de: null, audio: w.zeit[z].audio, umschrift: w.zeit[z].umschrift, von: w.id, zeitVon: z })) : [])]),
+    ];
+    satzPool = [];
+    for (const z of zeilen) {
+      const l = z.fr.toLowerCase();
+      let best = null;
+      for (const k of kand) {
+        if (k.w === z.von) continue;
+        const i = l.indexOf(k.t.toLowerCase());
+        if (i < 0 || /\p{L}/u.test(l[i - 1] || " ") || /\p{L}/u.test(l[i + k.t.length] || " ")) continue;
+        if (!best || k.t.length > best.t.length) best = { ...k, i };
+      }
+      if (!best) continue;
+      const de = z.de || (z.zeitVon ? `${WENDUNG[z.von].satz.de} (${U.zeiten[z.zeitVon][0]})` : "");
+      satzPool.push({ ...z, de, luecke: z.fr.slice(best.i, best.i + best.t.length), item: best.w });
+    }
+    satzPoolVon = D;
+    return satzPool;
+  }
+  const satzVonId = (id) => satzListe().find((x) => x.id === id);
+  function satzFrei(x) {
+    if (x.kapitel && x.kapitel > kapitelFrei()) return false;   // keine Kapitel vorwegnehmen
+    if (x.anekdote && x.anekdote > anekdotenFrei()) return false;
+    if (S.karten[x.item]) return true;
+    if (x.bereich) return Object.keys(S.teile).some((k) => k.startsWith(x.bereich + "|"));
+    return !!x.von && !!S.karten[x.von] && gesehen(x.item);
+  }
+  function saetzeFuerHeute(t) {
+    const kasten = S.saetze || {};
+    const faellig = Object.entries(kasten).filter(([id, k]) => k.f <= t && satzVonId(id)).sort((a, b) => (a[1].f < b[1].f ? -1 : 1)).map(([id]) => id);
+    const neu = satzListe().filter((x) => !kasten[x.id] && satzFrei(x)).map((x) => x.id);
+    return [...faellig, ...neu].slice(0, SATZ_PRO_TAG);
+  }
+  function satzAntwort(id, richtig, geprueft) {
+    S.saetze = S.saetze || {};
+    const k = S.saetze[id] || (S.saetze[id] = { s: 0, f: iso(heute()) });
+    if (richtig) {
+      if (k.f > iso(heute())) return speichern();
+      if (geprueft || k.s < 3) k.s = Math.min(k.s + 1, INTERVALLE.length);
+      k.f = naechsteFaelligkeit(k.s);
+    } else { k.s = Math.max(0, k.s - 2); k.f = naechsteFaelligkeit(0); k.x = (k.x || 0) + 1; }
+    speichern();
+  }
+  // Sicherer Treffer zum Schluss: eine gut gekonnte Wendung erkennen – jede Séance endet mit einem Erfolg
+  function schlussFuerHeute(wdh) {
+    const best = Object.entries(S.karten).filter(([id]) => WENDUNG[id] && !wdh.includes(id))
+      .sort((a, b) => b[1].s - a[1].s || (a[1].x || 0) - (b[1].x || 0))[0];
+    return best && best[1].s >= 1 ? "!" + best[0] : null;
+  }
+  const planReihe = (plan) => [...plan.wdh, ...(plan.saetze || []), ...plan.neu, ...(plan.schluss ? [plan.schluss] : [])];
   // Wiederholungen pro Tag: je Sprache einstellbar (S.wdh_pro_tag), Auswahl PENSUM.wdh_wahl, Voreinstellung PENSUM.wiederholung
   const wdhWahl = () => PENSUM.wdh_wahl || [PENSUM.wiederholung];
   const wdhProTag = () => (wdhWahl().includes(S.wdh_pro_tag) ? S.wdh_pro_tag : PENSUM.wiederholung);
-  const faelligFuerHeute = (t) => Object.entries(S.karten).filter(([, k]) => k.f <= t)
-    .sort((a, b) => (istTricky(b[1]) - istTricky(a[1])) || (a[1].f < b[1].f ? -1 : a[1].f > b[1].f ? 1 : REIHENFOLGE[a[0]] - REIHENFOLGE[b[0]]))
-    .map(([id]) => id).slice(0, wdhProTag());
+  // Fällige zuerst (Stolpersteine vorn), aufgefüllt mit den als Nächstes fälligen – so ist das Pensum jeden Tag da
+  const faelligFuerHeute = (t) => {
+    const reihe = (a, b) => (istTricky(b[1]) - istTricky(a[1])) || (a[1].f < b[1].f ? -1 : a[1].f > b[1].f ? 1 : REIHENFOLGE[a[0]] - REIHENFOLGE[b[0]]);
+    const alle = Object.entries(S.karten).filter(([id]) => WENDUNG[id]);
+    return [...alle.filter(([, k]) => k.f <= t).sort(reihe), ...alle.filter(([, k]) => k.f > t).sort(reihe)].map(([id]) => id).slice(0, wdhProTag());
+  };
   function tagesplan() {
     const t = iso(heute());
     if (S.tag && S.tag.d === t) {
       // Séance noch nicht begonnen: neue Zahlen gelten sofort; sonst ab morgen
       const p = S.tag, offen = !p.geschafft && !p.fertig.length && !p.neu.some((id) => S.karten[id]);
       const neu = offen ? neueFuerHeute() : p.neu, wdh = offen ? faelligFuerHeute(t) : p.wdh;
-      if (neu.join() !== p.neu.join() || wdh.join() !== p.wdh.join()) { p.neu = neu; p.wdh = wdh; speichern(); }
+      const saetze = offen || !p.saetze ? saetzeFuerHeute(t) : p.saetze, schluss = offen || p.schluss === undefined ? schlussFuerHeute(wdh) : p.schluss;
+      if (neu.join() !== p.neu.join() || wdh.join() !== p.wdh.join() || saetze.join() !== (p.saetze || []).join() || schluss !== p.schluss) {
+        Object.assign(p, { neu, wdh, saetze, schluss }); speichern();
+      }
       return p;
     }
     const faellig = faelligFuerHeute(t);
     const neu = neueFuerHeute();
-    S.tag = { d: t, wdh: faellig, neu, fertig: [], geschafft: false };
+    S.tag = { d: t, wdh: faellig, saetze: saetzeFuerHeute(t), neu, schluss: schlussFuerHeute(faellig), fertig: [], geschafft: false };
     speichern();
     return S.tag;
   }
@@ -458,7 +537,7 @@
   function starteSeance() {
     const plan = tagesplan();
     lage = null;
-    seance = { schlange: [...plan.wdh, ...plan.neu].filter((id) => !plan.fertig.includes(id)), wieder: new Set(), start: Date.now() };
+    seance = { schlange: planReihe(plan).filter((id) => !plan.fertig.includes(id)), wieder: new Set(), start: Date.now() };
     seancePos = 0; combo = 0;
     if (!seance.schlange.length) return seanceEnde(plan.geschafft);
     zeigeSeanceKarte();
@@ -502,6 +581,9 @@
     const plan = tagesplan();
     const id = seance.schlange[seancePos], w = WENDUNG[id];
     const zaehler = `${seancePos + 1} / ${seance.schlange.length}`;
+    if (id.startsWith("s:")) { const x = satzVonId(id); return x ? satzKarte(x, zaehler) : (merkeFertig(id), seanceWeiter()); }
+    if (id.startsWith("!")) { const sw = WENDUNG[id.slice(1)]; return sw ? abrufKarte(sw, zaehler, "wahl", id) : (merkeFertig(id), seanceWeiter()); }
+    if (!w) { merkeFertig(id); return seanceWeiter(); }
     if (plan.neu.includes(id) && !S.karten[id]) return neueKarte(w, zaehler);
     wiederholKarte(w, zaehler);
   }
@@ -603,7 +685,7 @@
     if (vs.some((z) => abstand(ohneAkzent(e), ohneAkzent(z)) <= (z.length < 6 ? 0 : z.length < 14 ? 1 : 2))) return "fast";
     return "falsch";
   }
-  function abrufKarte(w, zaehler, form) {
+  function abrufKarte(w, zaehler, form, planId) {
     const k = S.karten[w.id], tricky = istTricky(k), luecke = form.startsWith("luecke"), waehlen = form.endsWith("wahl");
     const ziel = luecke ? w.satz.luecke : w.fr;
     const balken = jetztDu();
@@ -616,7 +698,7 @@
     const loesung = el("div", { hidden: true },
       el("p", { class: "wendung", lang: D.lang }, w.fr, " ", registerSchild(w), wurzel(w)), umschrift(w), glosse(w.gloss, "gloss klein"),
       el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(w.satz, "voll")), umschrift(w.satz), notiz(w));
-    const weiter = weiterKnopf(() => bewerteKarte(w, ergebnis !== "falsch", true));
+    const weiter = weiterKnopf(() => seanceErgebnis(planId || w.id, ergebnis !== "falsch", true));
     weiter.hidden = true;
     const ergebnisZeigen = (erg) => {
       if (ergebnis) return;
@@ -648,7 +730,7 @@
       const pruefe = () => { if (ergebnis || !feld.value.trim()) return; feld.disabled = true; pruefKnopf.hidden = true; leichter.hidden = true; ergebnisZeigen(vergleiche(feld.value, ziel)); };
       feld.addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); pruefe(); } });
       const pruefKnopf = knopf(U.pruefen, pruefe, "haupt");
-      const leichter = el("button", { class: "knopf leise tipp", onclick: () => abrufKarte(w, zaehler, luecke ? "luecke_wahl" : "wahl") }, "💡 " + U.leichter[0]);
+      const leichter = el("button", { class: "knopf leise tipp", onclick: () => abrufKarte(w, zaehler, luecke ? "luecke_wahl" : "wahl", planId) }, "💡 " + U.leichter[0]);
       antwortTeil = el("div", { class: "abruf-tippen" }, feld, el("div", { class: "knopfreihe" }, pruefKnopf, leichter));
       tasten(null, null);
       setTimeout(() => feld.focus(), 50);
@@ -711,18 +793,82 @@
       ansageU("memory_text"),
       el("div", { class: "memory-feld" }, knoepfe), status, ende);
   }
-  function bewerteKarte(w, gewusst, geprueft) {
+  const bewerteKarte = (w, gewusst, geprueft) => seanceErgebnis(w.id, gewusst, geprueft);
+  // Ergebnis einer Karte der Séance (Wendung, Satz « s:… » oder Schluss-Treffer « !… »): nur fällige Karten steigen;
+  // falsch = zwei Stufen zurück und noch einmal heute – vor dem Schluss-Treffer (höchstens einmal)
+  function seanceErgebnis(id, gewusst, geprueft) {
     comboTreffer(gewusst);
+    const antwort = (r) => (id.startsWith("s:") ? satzAntwort(id, r, geprueft) : kastenAntwort(id.replace(/^!/, ""), r, false, geprueft));
     if (gewusst) {
-      if (!seance.wieder.has(w.id)) kastenAntwort(w.id, true, true, geprueft);   // heute schon verfehlt: bleibt morgen fällig
-      merkeFertig(w.id); if (!geprueft) lobToast(lob()); speichern(); seanceWeiter();
+      if (!seance.wieder.has(id)) antwort(true);   // heute schon verfehlt: bleibt morgen fällig
+      merkeFertig(id); if (!geprueft) lobToast(lob()); speichern(); seanceWeiter();
     } else {
-      if (!seance.wieder.has(w.id)) kastenAntwort(w.id, false); else speichern();   // zweites « Encore » am selben Tag zählt nicht doppelt
-      if (!seance.wieder.has(w.id)) { seance.wieder.add(w.id); seance.schlange.push(w.id); }
-      else merkeFertig(w.id);
+      if (!seance.wieder.has(id)) antwort(false); else speichern();   // zweites « Encore » am selben Tag zählt nicht doppelt
+      if (!seance.wieder.has(id)) {
+        seance.wieder.add(id);
+        const s = seance.schlange, schluss = s.length && s[s.length - 1].startsWith("!") && seancePos < s.length - 1;
+        s.splice(schluss ? s.length - 1 : s.length, 0, id);
+      } else merkeFertig(id);
       toast(U.pas_grave);
       seanceWeiter();
     }
+  }
+  // Satz-Karte: Übersetzung + Satz mit Lücke. Stufe 0–1 ganzen Satz sagen (selbst einschätzen) · 2–5 Lücke wählen · ab 6 Lücke tippen (Arabisch wählen)
+  function satzKarte(x, zaehler) {
+    const k = (S.saetze || {})[x.id], s = k ? k.s : 0, form = s <= 1 ? "selbst" : s <= 5 || ohneTippen() ? "wahl" : "tippen";
+    const balken = jetztDu();
+    let ergebnis = null;
+    const tonX = () => [x.audio || { text: x.fr.replace(/[–—]/g, ",") }];
+    const frage = el("div", {}, x.de && el("p", { class: "satz de", lang: D.lang_hilfe }, x.de),
+      el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(x, "luecke")));
+    const loesung = el("div", { hidden: true }, el("p", { class: "satz fr", lang: D.lang }, lueckenSatz(x, "voll")), umschrift(x));
+    const box = el("div", { class: "rueckmeldung", hidden: true, role: "status" });
+    const kopfZeile = `${zaehler} · 💬 ${f(U.revision, { s })}`;
+    if (form === "selbst") {
+      const bewerten = el("div", { class: "bewerten", hidden: true },
+        knopf(U.je_savais, () => seanceErgebnis(x.id, true), "haupt"), knopf(U.encore, () => seanceErgebnis(x.id, false), "encore"));
+      const zeigen = sperre(knopf(U.solution, () => {
+        zeigen.hidden = true; loesung.hidden = false; bewerten.hidden = false;
+        nachsprechen(balken, tonX()); tasten(() => nachsprechen(balken, tonX()), null);
+      }, "haupt"));
+      gibFrei(zeigen, denkzeit(x.fr), false);
+      tasten(null, wennFrei(zeigen, () => zeigen.click()));
+      return zeige(seanceKopf(), el("div", { class: "ansage" }, frde(U.stufen[1][0], U.stufen[1][1], "p")), karte(kopfZeile, el("div", { class: "vok" }, frage), loesung, balken, el("div", { class: "knopfreihe" }, zeigen), bewerten));
+    }
+    const weiter = weiterKnopf(() => seanceErgebnis(x.id, ergebnis !== "falsch", true));
+    weiter.hidden = true;
+    const zeigeErgebnis = (erg) => {
+      if (ergebnis) return;
+      ergebnis = erg; box.hidden = false; loesung.hidden = false; weiter.hidden = false;
+      if (erg === "falsch") { box.className = "rueckmeldung hilfe"; box.replaceChildren(uf("abruf_falsch", { a: x.luecke })); }
+      else if (erg === "fast") { box.className = "rueckmeldung gut"; box.replaceChildren(uf("abruf_fast", { a: x.luecke })); }
+      else { box.className = "rueckmeldung gut"; box.replaceChildren(lobZeile(lob())); }
+      const hoeren = () => nachsprechen(balken, tonX());
+      tasten(hoeren, () => weiter.click()); hoeren(); weiter.focus({ preventScroll: true });
+    };
+    let antwortTeil;
+    if (form === "wahl") {
+      const andere = mischen(satzListe().filter((y) => y.luecke.toLowerCase() !== x.luecke.toLowerCase()).map((y) => y.luecke))
+        .filter((t, i, a) => a.indexOf(t) === i).slice(0, 2);
+      const optionen = mischen([x.luecke, ...andere]);
+      const knoepfe = optionen.map((o) => el("button", { class: "knopf wahl-knopf", lang: D.lang, onclick: (e) => {
+        if (ergebnis) return;
+        knoepfe.forEach((b) => { b.disabled = true; });
+        e.currentTarget.classList.add(o === x.luecke ? "richtig" : "falsch");
+        knoepfe[optionen.indexOf(x.luecke)].classList.add("richtig");
+        zeigeErgebnis(o === x.luecke ? "richtig" : "falsch");
+      } }, o));
+      antwortTeil = el("div", { class: "wahl abruf-wahl" }, knoepfe);
+    } else {
+      const feld = el("input", { class: "tipp-feld", type: "text", lang: D.lang, autocomplete: "off", autocapitalize: "off", spellcheck: "false", enterkeyhint: "done", "aria-label": U.abruf_luecke[0] });
+      const pruefe = () => { if (ergebnis || !feld.value.trim()) return; feld.disabled = true; pk.hidden = true; zeigeErgebnis(vergleiche(feld.value, x.luecke)); };
+      feld.addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); pruefe(); } });
+      const pk = knopf(U.pruefen, pruefe, "haupt");
+      antwortTeil = el("div", { class: "abruf-tippen" }, feld, el("div", { class: "knopfreihe" }, pk));
+      setTimeout(() => feld.focus(), 50);
+    }
+    tasten(null, null);
+    zeige(seanceKopf(), ansageU("abruf_luecke"), karte(kopfZeile, el("div", { class: "vok" }, frage), antwortTeil, box, loesung, balken, el("div", { class: "knopfreihe" }, weiter)));
   }
   function merkeFertig(id) {
     const plan = tagesplan();
@@ -731,7 +877,7 @@
   }
   function seanceEnde() {
     const plan = tagesplan();
-    const alles = [...plan.wdh, ...plan.neu].every((id) => plan.fertig.includes(id));
+    const alles = planReihe(plan).every((id) => plan.fertig.includes(id));
     const erstesMal = alles && !plan.geschafft;
     if (erstesMal) { plan.geschafft = true; speichern(); belohne(true, true); }
     // Lob und „À demain“ hintereinander (nicht gleichzeitig, sonst schneidet das eine das andere ab)
@@ -767,7 +913,37 @@
   }
   const teilSchluessel = (i) => `${lage.thema}|${lage.gruppe}|${i}`;
   const istFertig = (i) => !!S.teile[teilSchluessel(i)];
-  function teilFertig(i) { S.teile[teilSchluessel(i)] = true; speichern(); }
+  /* ⚡ Power Up (Mr. Alex, 15.11., Vorlage School-App 29.10.): ein erledigter Teil speichert Datum und Stufe { am, s }.
+     Nach 30 / 60 / 120 Tagen (Stufe 0 / 1 / 2) wird er gelb mit ⚡ und will aufgeladen werden; ab Stufe 3 bleibt er grün.
+     Erneut durchmachen: Wiederholungspunkte, Stufe +1, wieder grün. Wer einen Teil schon kennt, hat kürzere Sperrzeiten (50 / 35 / 25 %). */
+  const POWER_TAGE = [30, 60, 120];
+  function teilFaellig(key) {
+    const e = S.teile[key];
+    if (!e || e === true || e.s >= POWER_TAGE.length) return false;
+    return iso(heute()) >= iso(plusTage(new Date(e.am + "T12:00:00"), POWER_TAGE[e.s]));
+  }
+  const faelligUnter = (prefix) => Object.keys(S.teile).some((k) => k.startsWith(prefix) && teilFaellig(k));
+  const faelligeTeile = () => Object.keys(S.teile).filter(teilFaellig);
+  function teilFertig(i) {
+    const key = teilSchluessel(i), e = S.teile[key];
+    if (!e) S.teile[key] = { am: iso(heute()), s: 0 };
+    else if (teilFaellig(key)) { S.teile[key] = { am: iso(heute()), s: e.s + 1 }; if (U.powerup_ok) toast(U.powerup_ok); }
+    speichern();
+  }
+  // Kachel: gelb mit ⚡, sobald darin ein Teil fällig ist; grün mit ✓ nur, wenn alles erledigt und nichts fällig ist
+  const kachelKlasse = (ok, prefix) => "kachel" + (faelligUnter(prefix) ? " powerup" : ok ? " erledigt" : "");
+  const kachelHaken = (ok, prefix) => (faelligUnter(prefix) ? el("span", { class: "haken powerup-schild", "aria-hidden": "true" }, "⚡")
+    : ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
+  function oeffneTeil(key) {
+    const [vorn, g] = key.split("|");
+    if (vorn.startsWith("dialog:")) return starteDialog(vorn.slice(7));
+    if (vorn.startsWith("harf:")) return starteSchrift(vorn.slice(5));
+    if (vorn.startsWith("gram:")) return starteGrammatik(vorn.slice(5));
+    const M = ausspracheModule().find((m) => m.id === vorn);
+    if (M) return starteAussprache(M);
+    if (thema(vorn)) return starteGruppe(vorn, +g || 0);
+    startseite();
+  }
   const gruppeFertig = (tid, g) => teileVon(gruppenVon(thema(tid))[g]).every((_, i) => S.teile[`${tid}|${g}|${i}`]);
   const alleTeileFertig = () => lage.teile.every((_, i) => istFertig(i));
 
@@ -780,11 +956,11 @@
       ansageU("thema_ansage"),
       el("nav", { class: "kacheln gruppen" }, gruppen.map((ids, i) => {
         const ok = gruppeFertig(tid, i), name = f(U.partie, { n: i + 1 });
-        return el("button", { class: "kachel" + (ok ? " erledigt" : ""), onclick: () => starteGruppe(tid, i), "aria-label": `${name}${ok ? " ✓" : ""}` },
+        return el("button", { class: kachelKlasse(ok, `${tid}|${i}|`), onclick: () => starteGruppe(tid, i), "aria-label": `${name}${ok ? " ✓" : ""}` },
           el("span", { class: "nr" }, name),
           el("span", { class: "titel", lang: D.lang }, ids.map((id) => WENDUNG[id].fr).slice(0, 3).join(" · ") + (ids.length > 3 ? " …" : "")),
           el("span", { class: "zahl" }, `${ids.length} ${U.expressions}`),
-          ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
+          kachelHaken(ok, `${tid}|${i}|`));
       })),
       grammatikVon(tid) && el("h2", {}, U.grammatik_thema),
       grammatikVon(tid) && el("nav", { class: "kacheln themen" }, grammatikKachel(grammatikVon(tid))));
@@ -1006,11 +1182,11 @@
   const schriftFertig = (g) => schriftTeile(g).every((_, i) => S.teile[`harf:${g.id}|0|${i}`]);
   function schriftKachel(g) {
     const ok = schriftFertig(g), n = schriftTeile(g).filter((_, i) => S.teile[`harf:${g.id}|0|${i}`]).length;
-    return el("button", { class: "kachel" + (ok ? " erledigt" : ""), onclick: () => starteSchrift(g.id), "aria-label": `${g.name} – ${g.de}${ok ? " ✓" : ""}` },
+    return el("button", { class: kachelKlasse(ok, `harf:${g.id}|`), onclick: () => starteSchrift(g.id), "aria-label": `${g.name} – ${g.de}${ok ? " ✓" : ""}` },
       el("span", { class: "sym harf-sym", "aria-hidden": "true", lang: D.lang }, g.name),
       el("span", { class: "titel", lang: D.lang_hilfe }, g.de),
       el("span", { class: "zahl" }, `${g.buchstaben.length} ${U.harf_karte} · ${n} / ${schriftTeile(g).length} ${U.parties}`),
-      ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
+      kachelHaken(ok, `harf:${g.id}|`));
   }
   function starteSchrift(gid) {
     const g = D.schrift.gruppen.find((x) => x.id === gid);
@@ -1104,12 +1280,12 @@
   const grammatikFertig = (g) => grammatikTeile(g).every((_, i) => S.teile[`gram:${g.id}|0|${i}`]);
   function grammatikKachel(g) {
     const t = thema(g.thema), ok = grammatikFertig(g), n = grammatikTeile(g).filter((_, i) => S.teile[`gram:${g.id}|0|${i}`]).length;
-    return el("button", { class: "kachel" + (ok ? " erledigt" : ""), onclick: () => starteGrammatik(g.id), "aria-label": `${g.titel} – ${g.de}${ok ? " ✓" : ""}` },
+    return el("button", { class: kachelKlasse(ok, `gram:${g.id}|`), onclick: () => starteGrammatik(g.id), "aria-label": `${g.titel} – ${g.de}${ok ? " ✓" : ""}` },
       el("span", { class: "sym", "aria-hidden": "true" }, "📐"),
       el("span", { class: "titel", lang: D.lang }, g.titel),
       el("span", { class: "unter", lang: D.lang_hilfe }, `${g.de} · ${t.symbol} ${t.name}`),
       el("span", { class: "zahl" }, `${n} / ${grammatikTeile(g).length} ${U.parties}`),
-      ok && el("span", { class: "haken", "aria-hidden": "true" }, "✓"));
+      kachelHaken(ok, `gram:${g.id}|`));
   }
   function starteGrammatik(id) {
     const g = D.grammatik.find((x) => x.id === id);
@@ -1200,7 +1376,8 @@
     const ZIFFERN = ["①", "②", "③"];
     const sprung = (i, text) => {
       const t = lage.teile[i], fertig = istFertig(i), jetzt = i === lage.teil && !lage.ende, start = nochNichts && i === 0;
-      return el("button", { class: "sprung" + (jetzt ? " jetzt" : "") + (fertig ? " fertig" : "") + (start ? " start" : ""),
+      const pu = teilFaellig(teilSchluessel(i));
+      return el("button", { class: "sprung" + (jetzt ? " jetzt" : "") + (pu ? " powerup" : fertig ? " fertig" : "") + (start ? " start" : ""),
         "aria-current": jetzt ? "step" : false, title: t.name, "aria-label": `${t.name}${fertig ? " ✓" : ""}`, onclick: () => springe(i) }, text);
     };
     const eintraege = [];
@@ -1236,7 +1413,11 @@
   function zeigeTeil() {
     ansicht = zeigeTeil;
     tasten(null, null);
-    if (lage.startTeil !== lage.teil) { lage.startTeil = lage.teil; lage.start = Date.now(); }
+    if (lage.startTeil !== lage.teil) {
+      lage.startTeil = lage.teil; lage.start = Date.now();
+      const e = S.teile[teilSchluessel(lage.teil)];
+      lage.tempo = e ? [0.5, 0.35, 0.25][Math.min(e === true ? 0 : e.s, 2)] : 1;
+    }
     const teil = lage.teile[lage.teil];
     ({ lr: zeigeSatz, zeit: zeigeZeitmaschine, abfrage: zeigeAbfrage, dialog: zeigeDialog,
        nasal_wort: zeigeNasalWort, nasal_beide: zeigeNasalWort, nasal_paar: zeigeNasalPaar,
@@ -1247,7 +1428,7 @@
   const laenge = (teil) => (teil.art === "abfrage" && lage.reihe ? lage.reihe.length : teil.art === "dialog" || teil.art === "gram_regel" ? 1 : (teil.saetze || teil.woerter || teil.paare || teil.ids || teil.reihe).length);
   // Hinweis: harf_hoeren / harf_finden mischen in lage.reihe, gleiche Länge wie teil.reihe
   const SPRECH_MIN = { lr: 2, zeit: 3, nasal_wort: 1.5, nasal_beide: 2, harf_karte: 2 }; // Sekunden pro Satz mindestens – schneller geht nicht ehrlich
-  const zuSchnell = (teil) => SPRECH_MIN[teil.art] && lage.start && (Date.now() - lage.start) / 1000 < laenge(teil) * SPRECH_MIN[teil.art];
+  const zuSchnell = (teil) => SPRECH_MIN[teil.art] && lage.start && (Date.now() - lage.start) / 1000 < laenge(teil) * SPRECH_MIN[teil.art] * (lage.tempo || 1);
   function naechstes() {
     const teil = lage.teile[lage.teil];
     if (lage.pos + 1 < laenge(teil)) { lage.pos++; return zeigeTeil(); }
@@ -1640,6 +1821,8 @@
       el("section", { class: "satzkarte" },
         el("h2", {}, f(U.boite, { n: karten.length })),
         el("p", { class: "klein" }, uf("boite_text")),
+        U.sicher && el("p", {}, uf("sicher", { n: anzahlSicher() })),
+        U.sicher && el("div", { class: "fortschritt" }, el("span", { style: `width:${Math.round(100 * anzahlSicher() / Math.max(1, D.wendungen.length))}%` })),
         el("ul", { class: "abzeichen" }, stufen.map((n, i) => el("li", { class: n ? "ok" : "" }, el("span", {}, `${i}`), el("span", {}, `${n} · ${INTERVALLE[i]} ${U.jours}`))))),
       U.tricky_titel && (() => {
         const liste = D.wendungen.filter((w) => istTricky(S.karten[w.id]));

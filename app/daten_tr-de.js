@@ -45,8 +45,8 @@ window.SPRACHEN["tr-de"] = {
    "🧩 Meine Stolpersteine ({n})"
   ],
   "tricky_text": [
-   "Üç hatadan sonra bir ifade buraya gelir: antrenmanda önce o çıkar ve boşluklu cümlesini gösterir. 3. seviyede listeden çıkar.",
-   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
+   "Üç hatadan sonra bir ifade buraya gelir: antrenmanda önce o çıkar ve boşluklu cümlesini gösterir. 5. seviyede listeden çıkar.",
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Übung des Tages zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 5 verlässt sie die Liste."
   ],
   "abruf_wahl": [
    "Nasıl denir? Doğru ifadeye dokun, sonra yüksek sesle söyle.",
@@ -83,6 +83,19 @@ window.SPRACHEN["tr-de"] = {
    "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
   ],
   "memory_nochmal": "Tekrar",
+  "sicher": [
+   "💪 {n} sağlam",
+   "💪 {n} sicher"
+  ],
+  "powerup_zeile": [
+   "⚡ {n} bölümün enerjisi bitiyor – şarj et!",
+   "⚡ {n} Teile fast leer – aufladen!"
+  ],
+  "powerup_eins": [
+   "⚡ 1 bölümün enerjisi bitiyor – şarj et!",
+   "⚡ 1 Teil fast leer – aufladen!"
+  ],
+  "powerup_ok": "⚡ Şarj oldu!",
   "neu_pro_tag": [
    "Günde yeni",
    "Neue pro Tag"

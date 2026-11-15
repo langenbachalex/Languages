@@ -46,8 +46,8 @@ window.SPRACHEN["pt-de"] = {
    "🧩 Meine Stolpersteine ({n})"
   ],
   "tricky_text": [
-   "Três falhas, e uma expressão vem parar aqui: aparece primeiro na sessão e mostra a sua frase com espaço. No nível 3, sai da lista.",
-   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Sessão zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 3 verlässt sie die Liste."
+   "Três falhas, e uma expressão vem parar aqui: aparece primeiro na sessão e mostra a sua frase com espaço. No nível 5, sai da lista.",
+   "Nach drei Fehlern landet eine Wendung hier: Sie kommt in der Sessão zuerst dran und zeigt ihren Satz mit Lücke. Ab Stufe 5 verlässt sie die Liste."
   ],
   "abruf_wahl": [
    "Como se diz? Toca na expressão certa e depois diz em voz alta.",
@@ -84,6 +84,19 @@ window.SPRACHEN["pt-de"] = {
    "Alle Paare in {n} Zügen! Das erste gewonnene Spiel des Tages bringt +10 ⭐."
   ],
   "memory_nochmal": "Outra vez",
+  "sicher": [
+   "💪 {n} seguras",
+   "💪 {n} sicher"
+  ],
+  "powerup_zeile": [
+   "⚡ {n} partes quase vazias – recarrega-as!",
+   "⚡ {n} Teile fast leer – aufladen!"
+  ],
+  "powerup_eins": [
+   "⚡ 1 parte quase vazia – recarrega-a!",
+   "⚡ 1 Teil fast leer – aufladen!"
+  ],
+  "powerup_ok": "⚡ Recarregado!",
   "neu_pro_tag": [
    "Novas por dia",
    "Neue pro Tag"
