@@ -223,7 +223,7 @@ def audio_dateien(obj, menge):
         menge.add(obj)
 
 
-GETEILT = ["app.js", "basis.css", "app.css"]   # gemeinsamer Code, wird in jede weitere Ausgabe kopiert
+GETEILT = ["lernkern.js", "app.js", "basis.css", "app.css"]   # gemeinsamer Code, wird in jede weitere Ausgabe kopiert
 
 
 def main():
@@ -281,7 +281,8 @@ def webapp(A, paare):
 </div>
 <main id="app" aria-live="polite"></main>
 <script>window.APP_KONFIG = {json.dumps(konfig, ensure_ascii=False)};</script>
-{"".join(f'<script src="daten_{p}.js"></script>' + chr(10) for p in paare)}<script src="app.js"></script>
+{"".join(f'<script src="daten_{p}.js"></script>' + chr(10) for p in paare)}<script src="lernkern.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
 """)

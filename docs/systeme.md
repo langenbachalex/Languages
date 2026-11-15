@@ -6,7 +6,8 @@ Stand: 15.11.2026 (angelegt mit Mr. Alex). Zweck: Was Mr. Alex in einer App syst
 - **Zeichen:** ✅ gebaut (Commit) · ◐ teilweise · ☐ offen, passt · — passt nicht · ? noch prüfen.
 - **Pflege:** Jeder Bau-Chat, der ein System baut oder ändert, trägt seine Zeile hier ein. Die wöchentliche Aufgabe « Systeme School → Languages » (freitags) liest die neuen School-Commits seit dem Stand unten, ergänzt die Tabelle und fragt Mr. Alex, was übernommen werden soll. Übernommen wird nur nach seinem OK.
 - **Stand School:** zuletzt gelesen bis Commit `b0d845a` (15.11.2026, Branch `claude/awesome-dijkstra-dy57ir`).
-- **Später (nach den GLN am 25.11.):** gemeinsamer Lernkern für Kasten, Prüfregeln, Tagesplan und Power-Up-Fristen, den die Bauskripte aller Apps kopieren (Stufe 2).
+- **Lernkern (Stufe 2, begonnen 15.11.):** `app/lernkern.js` in diesem Repository ist der Master (Version 1.0.0, 39 Tests in `werkzeuge/lernkern_test.js`). LANG nutzt ihn seit 15.11. Er enthält: Antwort-Regel (nur fällige steigen, « Gewusst » bis Stufe 3, falsch = zwei zurück), Stolperstein/sicher, Wiederholungen mit Auffüllen, Power Up (Fristen, Aufladen, Tempo), Tippen vergleichen. Tagesplan-Zusammenstellung und Aussehen bleiben in jeder App.
+- **Übernahme in School (nach den GLN, je App ein Bau-Chat: EN9, dann EN6, dann FR):** Datei aus `langenbachalex/Languages` (`main`, `app/lernkern.js`) nach `School/app/lernkern.js` kopieren, die Bauskripte kopieren sie wie die anderen gemeinsamen Dateien in `klasse9/` und `franz/`, Skript-Tag vor `app.js`. Die Spielstände passen schon: `stand.gym.karten[id] = { s, f, x }` und `stand.teile[key] = { am, s }` haben dasselbe Format. `merke(id, richtig, art)` wird zu `karten[id] = Lernkern.antwort(karten[id], { richtig, geprueft: art !== "s", heute })`; Power Up über `Lernkern.teilFaellig/teilErledigt/tempo`. Danach zeigt die Tabelle je App die Kern-Version; die wöchentliche Aufgabe meldet, wenn eine App eine ältere Version hat.
 
 | System | EN6 | EN9 | FR | LANG |
 |---|---|---|---|---|
@@ -28,3 +29,5 @@ Stand: 15.11.2026 (angelegt mit Mr. Alex). Zweck: Was Mr. Alex in einer App syst
 | Belohnungen der Reihe nach (Lob, Stempel, Pop-up schneiden sich nicht) | ✅ (24.10.) | ✅ (24.10.) | ? | ✅ f1c92da |
 | GLN-Kopplung (vor dem GLN wird alles fällig) | ✅ | ✅ | ? | — keine GLN |
 | Lehrer-Bereich: schwere Wörter, Sync Stufe A (QR) | ✅ | ✅ | ✅ | — Selbstlerner |
+| Lernkern `lernkern.js` (Version) | ☐ nach GLN | ☐ nach GLN | ☐ nach GLN | ✅ 1.0.0 |
+| Festes Testprogramm im Repo | ✅ `werkzeuge/testprogramm.js` (15.11.) | ✅ | ✅ | ✅ `werkzeuge/testprogramm.js` (15.11.) |

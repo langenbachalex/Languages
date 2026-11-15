@@ -422,21 +422,15 @@
   const neueFuerHeute = () => D.wendungen.map((w) => w.id).filter((id) => !S.karten[id] && gesehen(id)).slice(0, neuProTag());
   const nochUngelernt = () => D.wendungen.some((w) => !S.karten[w.id]);
   // Stolpersteine (Tricky): dreimal verfehlt und noch unter Stufe 3 – kommen in der Séance zuerst und zeigen ihren Satz mit Lücke
-  const SICHER = 5;   // ab Stufe 5 gilt eine Wendung als sicher (Vorlage School)
-  const istTricky = (k) => !!k && (k.x || 0) >= 3 && k.s < SICHER;
-  const anzahlSicher = () => Object.entries(S.karten).filter(([id, k]) => WENDUNG[id] && k.s >= SICHER).length;
+  // Regeln aus dem gemeinsamen Lernkern (app/lernkern.js, Master hier, Tests: node werkzeuge/lernkern_test.js)
+  const LK = window.Lernkern;
+  const istTricky = LK.istTricky;
+  const anzahlSicher = () => Object.entries(S.karten).filter(([id, k]) => WENDUNG[id] && LK.istSicher(k)).length;
   // Antwort zählt für den Kasten (Séance und « Trouve l'expression »): Fehler = zwei Stufen zurück, morgen fällig;
   // richtig hebt nur eine fällige Karte (im Thema wiederholt man sonst ohne Wirkung auf den Plan)
-  function kastenAntwort(id, richtig, immer, geprueft) {
-    const k = S.karten[id];
-    if (!k) return;
-    if (richtig) {
-      if (!immer && k.f > iso(heute())) return;
-      if (!geprueft && k.s >= 3) return;   // ab Stufe 3 hebt nur eine geprüfte Antwort (Auswahl, Tippen, Lücke)
-      k.s = Math.min(k.s + 1, INTERVALLE.length); k.f = naechsteFaelligkeit(k.s);
-    } else {
-      k.s = Math.max(0, k.s - 2); k.f = naechsteFaelligkeit(0); k.x = (k.x || 0) + 1;
-    }
+  function kastenAntwort(id, richtig, geprueft) {
+    if (!S.karten[id]) return;   // nur Wendungen, die schon im Kasten sind
+    S.karten[id] = LK.antwort(S.karten[id], { richtig, geprueft, heute: iso(heute()) });
     speichern();
   }
   /* Satz-Karten (Mr. Alex, 15.11., Vorlage School-App « Muscu des mots »): Sätze aus anderen Bereichen, in denen eine Wendung steckt –
@@ -489,12 +483,7 @@
   }
   function satzAntwort(id, richtig, geprueft) {
     S.saetze = S.saetze || {};
-    const k = S.saetze[id] || (S.saetze[id] = { s: 0, f: iso(heute()) });
-    if (richtig) {
-      if (k.f > iso(heute())) return speichern();
-      if (geprueft || k.s < 3) k.s = Math.min(k.s + 1, INTERVALLE.length);
-      k.f = naechsteFaelligkeit(k.s);
-    } else { k.s = Math.max(0, k.s - 2); k.f = naechsteFaelligkeit(0); k.x = (k.x || 0) + 1; }
+    S.saetze[id] = LK.antwort(S.saetze[id] || null, { richtig, geprueft, heute: iso(heute()) });
     speichern();
   }
   // Sicherer Treffer zum Schluss: eine gut gekonnte Wendung erkennen – jede Séance endet mit einem Erfolg
@@ -508,11 +497,7 @@
   const wdhWahl = () => PENSUM.wdh_wahl || [PENSUM.wiederholung];
   const wdhProTag = () => (wdhWahl().includes(S.wdh_pro_tag) ? S.wdh_pro_tag : PENSUM.wiederholung);
   // Fällige zuerst (Stolpersteine vorn), aufgefüllt mit den als Nächstes fälligen – so ist das Pensum jeden Tag da
-  const faelligFuerHeute = (t) => {
-    const reihe = (a, b) => (istTricky(b[1]) - istTricky(a[1])) || (a[1].f < b[1].f ? -1 : a[1].f > b[1].f ? 1 : REIHENFOLGE[a[0]] - REIHENFOLGE[b[0]]);
-    const alle = Object.entries(S.karten).filter(([id]) => WENDUNG[id]);
-    return [...alle.filter(([, k]) => k.f <= t).sort(reihe), ...alle.filter(([, k]) => k.f > t).sort(reihe)].map(([id]) => id).slice(0, wdhProTag());
-  };
+  const faelligFuerHeute = (t) => LK.wiederholungen(S.karten, { heute: t, anzahl: wdhProTag(), reihenfolge: (id) => REIHENFOLGE[id], nur: (id) => !!WENDUNG[id] });
   function tagesplan() {
     const t = iso(heute());
     if (S.tag && S.tag.d === t) {
@@ -531,7 +516,7 @@
     speichern();
     return S.tag;
   }
-  function naechsteFaelligkeit(stufe) { return iso(plusTage(heute(), INTERVALLE[Math.min(stufe, INTERVALLE.length - 1)])); }
+  const naechsteFaelligkeit = (stufe) => LK.faelligAb(stufe, iso(heute()));
 
   /* ---------- Séance ---------- */
   function starteSeance() {
@@ -657,34 +642,7 @@
       }
     return aus;
   }
-  // Tippen vergleichen: Groß/Klein und Satzzeichen egal; « / » = Varianten; « (e) » optional; nur Akzente falsch oder 1–2 Tippfehler = fast richtig
-  const normal = (x) => x.normalize("NFC").toLowerCase().replace(/[’`']/g, " ").replace(/[«»"“”„¡!¿?.,;:…()\[\]]/g, " ").replace(/\s+/g, " ").trim();
-  const ohneAkzent = (x) => x.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ı/g, "i");
-  function abstand(a, b) {
-    const d = Array.from({ length: b.length + 1 }, (_, j) => j);
-    for (let i = 1; i <= a.length; i++) {
-      let vor = d[0]; d[0] = i;
-      for (let j = 1; j <= b.length; j++) { const tmp = d[j]; d[j] = Math.min(d[j] + 1, d[j - 1] + 1, vor + (a[i - 1] === b[j - 1] ? 0 : 1)); vor = tmp; }
-    }
-    return d[b.length];
-  }
-  function varianten(ziel) {
-    const v = new Set();
-    const ohneKl = ziel.replace(/\((\w+)\)/g, ""), mitKl = ziel.replace(/\((\w+)\)/g, "$1");
-    for (const z of [ziel, ohneKl, mitKl]) {
-      v.add(z);
-      const m = z.match(/^(.*\s)(\S+) \/ (\S+)(.*)$/);
-      if (m) { v.add(m[1] + m[2] + m[4]); v.add(m[1] + m[3] + m[4]); }
-    }
-    return [...v].map(normal);
-  }
-  function vergleiche(eingabe, ziel) {
-    const e = normal(eingabe), vs = varianten(ziel);
-    if (vs.includes(e)) return "richtig";
-    if (vs.some((z) => ohneAkzent(z) === ohneAkzent(e))) return "fast";
-    if (vs.some((z) => abstand(ohneAkzent(e), ohneAkzent(z)) <= (z.length < 6 ? 0 : z.length < 14 ? 1 : 2))) return "fast";
-    return "falsch";
-  }
+  const vergleiche = LK.vergleiche;   // Tippen: Regeln im Lernkern
   function abrufKarte(w, zaehler, form, planId) {
     const k = S.karten[w.id], tricky = istTricky(k), luecke = form.startsWith("luecke"), waehlen = form.endsWith("wahl");
     const ziel = luecke ? w.satz.luecke : w.fr;
@@ -798,7 +756,7 @@
   // falsch = zwei Stufen zurück und noch einmal heute – vor dem Schluss-Treffer (höchstens einmal)
   function seanceErgebnis(id, gewusst, geprueft) {
     comboTreffer(gewusst);
-    const antwort = (r) => (id.startsWith("s:") ? satzAntwort(id, r, geprueft) : kastenAntwort(id.replace(/^!/, ""), r, false, geprueft));
+    const antwort = (r) => (id.startsWith("s:") ? satzAntwort(id, r, geprueft) : kastenAntwort(id.replace(/^!/, ""), r, geprueft));
     if (gewusst) {
       if (!seance.wieder.has(id)) antwort(true);   // heute schon verfehlt: bleibt morgen fällig
       merkeFertig(id); if (!geprueft) lobToast(lob()); speichern(); seanceWeiter();
@@ -916,18 +874,13 @@
   /* ⚡ Power Up (Mr. Alex, 15.11., Vorlage School-App 29.10.): ein erledigter Teil speichert Datum und Stufe { am, s }.
      Nach 30 / 60 / 120 Tagen (Stufe 0 / 1 / 2) wird er gelb mit ⚡ und will aufgeladen werden; ab Stufe 3 bleibt er grün.
      Erneut durchmachen: Wiederholungspunkte, Stufe +1, wieder grün. Wer einen Teil schon kennt, hat kürzere Sperrzeiten (50 / 35 / 25 %). */
-  const POWER_TAGE = [30, 60, 120];
-  function teilFaellig(key) {
-    const e = S.teile[key];
-    if (!e || e === true || e.s >= POWER_TAGE.length) return false;
-    return iso(heute()) >= iso(plusTage(new Date(e.am + "T12:00:00"), POWER_TAGE[e.s]));
-  }
+  const teilFaellig = (key) => LK.teilFaellig(S.teile[key], iso(heute()));
   const faelligUnter = (prefix) => Object.keys(S.teile).some((k) => k.startsWith(prefix) && teilFaellig(k));
   const faelligeTeile = () => Object.keys(S.teile).filter(teilFaellig);
   function teilFertig(i) {
-    const key = teilSchluessel(i), e = S.teile[key];
-    if (!e) S.teile[key] = { am: iso(heute()), s: 0 };
-    else if (teilFaellig(key)) { S.teile[key] = { am: iso(heute()), s: e.s + 1 }; if (U.powerup_ok) toast(U.powerup_ok); }
+    const key = teilSchluessel(i), r = LK.teilErledigt(S.teile[key], iso(heute()));
+    S.teile[key] = r.eintrag;
+    if (r.aufgeladen && U.powerup_ok) toast(U.powerup_ok);
     speichern();
   }
   // Kachel: gelb mit ⚡, sobald darin ein Teil fällig ist; grün mit ✓ nur, wenn alles erledigt und nichts fällig ist
@@ -1416,7 +1369,7 @@
     if (lage.startTeil !== lage.teil) {
       lage.startTeil = lage.teil; lage.start = Date.now();
       const e = S.teile[teilSchluessel(lage.teil)];
-      lage.tempo = e ? [0.5, 0.35, 0.25][Math.min(e === true ? 0 : e.s, 2)] : 1;
+      lage.tempo = LK.tempo(e);
     }
     const teil = lage.teile[lage.teil];
     ({ lr: zeigeSatz, zeit: zeigeZeitmaschine, abfrage: zeigeAbfrage, dialog: zeigeDialog,

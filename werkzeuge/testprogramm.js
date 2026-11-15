@@ -1,0 +1,117 @@
+// Festes Testprogramm für Language Learning (Mr. Alex, 15.11.2026). Vorher bauen: python3 werkzeuge/bauen.py
+// Aufruf:  node werkzeuge/testprogramm.js                 alles (Kern, alle Sprachen, Wege, drei Formate, Offline-Liste)
+//          node werkzeuge/testprogramm.js --nur=fr-de      nur eine Sprache (Kern und Offline-Liste immer)
+//          node werkzeuge/testprogramm.js --format=handy   nur ein Format (laptop 1366×768, handy 360×740, ipad 820×1180)
+//          node werkzeuge/testprogramm.js --schnell        nur Kern, Laden und Offline-Liste
+// Ausgabe: je Prüfung eine Zeile, am Ende „ALLES OK“ oder die Fehlerliste; Rückgabewert 1 bei Fehlern.
+// Grenzen: Chromium (auch für das iPad-Format, kein echtes Safari); Klang, Aussprache und Aussehen prüft kein Test.
+const { execFileSync } = require("child_process");
+const http = require("http"), fs = require("fs"), path = require("path");
+const BASIS = path.join(__dirname, ".."), APP = path.join(BASIS, "app");
+const arg = (n) => (process.argv.find((a) => a.startsWith(`--${n}=`)) || "").split("=")[1];
+const NUR = arg("nur"), FORMAT = arg("format"), SCHNELL = process.argv.includes("--schnell");
+const FORMATE = { laptop: [1366, 768], handy: [360, 740], ipad: [820, 1180] };
+const fehler = [];
+const ok = (name, bed, info = "") => { console.log(`${bed ? "✓" : "✗"} ${name}${info ? " – " + info : ""}`); if (!bed) fehler.push(name + (info ? " – " + info : "")); };
+
+// 1. Lernkern
+try { execFileSync("node", [path.join(__dirname, "lernkern_test.js")], { stdio: "pipe" }); ok("Lernkern-Tests", true); }
+catch (e) { ok("Lernkern-Tests", false, String(e.stdout).split("\n").filter((z) => z.startsWith("FEHLER")).join(" | ")); }
+
+// 2. Offline-Liste: jede Kern-Datei steht in sw.js (sonst kommt ein Update nicht aufs Gerät)
+for (const ordner of ["", "english"]) {
+  const sw = fs.readFileSync(path.join(APP, ordner, "sw.js"), "utf8");
+  const fehlt = fs.readdirSync(path.join(APP, ordner)).filter((n) => /\.(js|css|html|webmanifest)$/.test(n) && n !== "sw.js" && !sw.includes(`"${n}"`));
+  ok(`Offline-Liste ${ordner || "Wurzel"}`, fehlt.length === 0, fehlt.join(", "));
+}
+
+const srv = http.createServer((q, r) => {
+  let u = decodeURIComponent(q.url.split("?")[0]); if (u.endsWith("/")) u += "index.html";
+  const f = path.join(APP, u);
+  fs.readFile(f, (e, d) => {
+    if (e) { r.writeHead(404); r.end(); return; }
+    const typ = f.endsWith(".js") ? "text/javascript" : f.endsWith(".css") ? "text/css" : f.endsWith(".mp3") ? "audio/mpeg" : f.endsWith(".png") ? "image/png" : "text/html";
+    r.writeHead(200, { "Content-Type": typ }); r.end(d);
+  });
+}).listen(0);
+const URL = `http://localhost:${srv.address().port}/`;
+
+(async () => {
+  const { chromium } = require("/opt/node-tools/node_modules/playwright");
+  const b = await chromium.launch({ executablePath: "/opt/pw-browsers/chromium" });
+  const paare = Object.keys((() => { const w = { SPRACHEN: {} }; for (const f of fs.readdirSync(APP).filter((n) => /^daten_.*\.js$/.test(n))) new Function("window", fs.readFileSync(path.join(APP, f), "utf8"))(w); return w.SPRACHEN; })())
+    .filter((p) => !NUR || p === NUR);
+  const neueSeite = async (w, h) => {
+    const p = await b.newPage({ viewport: { width: w, height: h } });
+    p.setDefaultTimeout(5000);
+    p.fehlerListe = [];
+    p.on("pageerror", (e) => p.fehlerListe.push(e.message));
+    p.on("console", (m) => { if (m.type() === "error" && !/Failed to load resource/.test(m.text())) p.fehlerListe.push(m.text()); });
+    p.on("response", (r) => { if (r.status() === 404 && !/\.mp3/.test(r.url())) p.fehlerListe.push("404 " + r.url()); });
+    await p.addInitScript(() => { localStorage.setItem("ll-leise", "1"); });
+    return p;
+  };
+  const stand = (paar, sp) => ({ paar, de: false, serie: { tage: {}, wochen: [], feuer: [], wochenende: [], abzeichen: [] }, sprachen: { [paar]: sp } });
+  const breit = (p) => p.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1 ? `${document.documentElement.scrollWidth} > ${window.innerWidth}` : "");
+
+  // 3. Jede Sprache: lädt ohne Fehler, Hauptwege
+  for (const paar of paare) {
+    const p = await neueSeite(390, 860);
+    await p.goto(URL); await p.waitForTimeout(250);
+    const info = await p.evaluate((paar) => { const D = window.SPRACHEN[paar]; return { ws: D.wendungen.map((w) => w.id), th: D.themen[0].id, thName: D.themen[0].name, dlg: (D.dialoge[0] || {}).id }; }, paar);
+    const sp = { teile: { [`${info.th}|0|0`]: { am: "2020-01-01", s: 0 } }, karten: {}, tag: null, gruppen: {}, spiel: { punkte: 0, titel: 0, seances: 3 } };
+    info.ws.slice(0, 6).forEach((id, i) => { sp.karten[id] = { s: [0, 1, 2, 4, 6, 3][i], f: "2020-01-01" }; });
+    if (info.dlg) sp.teile[`dialog:${info.dlg}|0|0`] = { am: "2026-01-01", s: 3 };
+    await p.evaluate((st) => localStorage.setItem("languages-v1", JSON.stringify(st)), stand(paar, sp));
+    await p.reload(); await p.waitForTimeout(350);
+    const wege = [];
+    const weg = async (name, fn) => { try { await fn(); wege.push(name); } catch (e) { p.fehlerListe.push(`${name}: ${e.message.split("\n")[0]}`); } };
+    await weg("Start", async () => { await p.waitForSelector(".gym-karte", { timeout: 3000 }); });
+    await weg("Power Up", async () => { await p.waitForSelector(".powerup-zeile", { timeout: 2000 }); });
+    if (!SCHNELL) {
+      await weg("Séance", async () => {
+        await p.click(".gym-karte .knopf"); await p.waitForTimeout(250);
+        for (let i = 0; i < 25 && !(await p.$(".gym-ende")); i++) {
+          if (await p.$(".abruf-wahl")) { await p.click(".abruf-wahl .wahl-knopf >> nth=0"); await p.click("button.weiter"); }
+          else if (await p.$(".tipp-feld")) { await p.fill(".tipp-feld", "x"); await p.keyboard.press("Enter"); await p.click("button.weiter"); }
+          else if (await p.$(".bewerten")) { await p.$eval(".knopfreihe .knopf", (k) => { k.disabled = false; k.click(); }); await p.click(".bewerten .knopf.haupt"); }
+          else await p.$eval("button.weiter", (k) => { k.disabled = false; k.click(); });
+          await p.waitForTimeout(120);
+        }
+        await p.waitForSelector(".gym-ende", { timeout: 2000 });
+      });
+      await weg("Memory", async () => { await p.click('button:has-text("Memory")'); await p.waitForSelector(".memory-karte", { timeout: 2000 }); });
+      await weg("Thema-Teil", async () => { await p.goto(URL); await p.waitForTimeout(250); await p.click(`nav.themen .kachel:has-text("${info.thName}")`); await p.click("nav.gruppen .kachel >> nth=0"); await p.waitForSelector(".sprung", { timeout: 2000 }); });
+      if (info.dlg) await weg("Dialog", async () => { await p.goto(URL); await p.waitForTimeout(250); await p.click('.kachel:has(.sym:text("💬")) >> nth=0'); await p.waitForSelector("main .knopf", { timeout: 2000 }); });
+      await weg("Sammlung und Karte", async () => { await p.goto(URL); await p.waitForTimeout(250); await p.click(".statusleiste .knopf"); await p.waitForSelector(".f-dep", { timeout: 3000 }); });
+    }
+    ok(`${paar}: lädt ohne Fehler, Wege ${wege.join(", ")}`, p.fehlerListe.length === 0, p.fehlerListe.slice(0, 3).join(" | "));
+    await p.close();
+  }
+
+  // 4. Passt auf den Bildschirm (Startseite, Séance-Karte, Thema-Teil) in den drei Formaten
+  if (!SCHNELL) for (const [fname, [w, h]] of Object.entries(FORMATE).filter(([n]) => !FORMAT || n === FORMAT)) {
+    for (const paar of paare.filter((x) => ["fr-de", "ar-de"].includes(x) || NUR)) {
+      const p = await neueSeite(w, h);
+      await p.goto(URL); await p.waitForTimeout(200);
+      const [id, thName] = await p.evaluate((paar) => [window.SPRACHEN[paar].wendungen[0].id, window.SPRACHEN[paar].themen[0].name], paar);
+      await p.evaluate((st) => localStorage.setItem("languages-v1", JSON.stringify(st)), stand(paar, { teile: {}, karten: { [id]: { s: 4, f: "2020-01-01" } }, tag: null, gruppen: {}, spiel: { punkte: 0, titel: 0, seances: 0 } }));
+      await p.reload(); await p.waitForTimeout(300);
+      const zuBreit = [];
+      const pruefe = async (wo) => { const r = await breit(p); if (r) zuBreit.push(`${wo} ${r}`); };
+      await pruefe("Start");
+      await p.click(".gym-karte .knopf"); await p.waitForTimeout(250); await pruefe("Séance");
+      await p.goto(URL); await p.waitForTimeout(200); await p.click(`nav.themen .kachel:has-text("${thName}")`); await p.click("nav.gruppen .kachel >> nth=0"); await p.waitForTimeout(250); await pruefe("Thema");
+      ok(`${paar} ${fname} ${w}×${h}: passt auf den Bildschirm`, zuBreit.length === 0 && p.fehlerListe.length === 0, [...zuBreit, ...p.fehlerListe].slice(0, 3).join(" | "));
+      await p.close();
+    }
+  }
+
+  // 5. English-Ausgabe lädt
+  { const p = await neueSeite(390, 860); await p.goto(URL + "english/"); await p.waitForTimeout(400);
+    ok("English-Ausgabe lädt", p.fehlerListe.length === 0 && !!(await p.$(".gym-karte")), p.fehlerListe.slice(0, 2).join(" | ")); await p.close(); }
+
+  await b.close(); srv.close();
+  console.log(fehler.length ? `\n${fehler.length} FEHLER:\n- ${fehler.join("\n- ")}` : "\nALLES OK");
+  process.exit(fehler.length ? 1 : 0);
+})().catch((e) => { console.log("✗ Testprogramm abgebrochen – " + e.message); srv.close(); process.exit(1); });
