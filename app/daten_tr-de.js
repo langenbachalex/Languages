@@ -709,12 +709,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "merhaba | hallo",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Merhaba Deniz, nasılsın?",
     "de": "Hallo Deniz, wie geht's dir?",
     "luecke": "Merhaba",
     "gloss": "Merhaba Deniz, nasıl·sın? | hallo Deniz, wie·2SG?",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_01.mp3?v=f928116f"
    },
    "zeit": null,
@@ -732,12 +734,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gün·aydın | Tag·hell",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Günaydın çocuklar, uyandınız mı?",
     "de": "Guten Morgen, Kinder, seid ihr wach?",
     "luecke": "Günaydın",
     "gloss": "Gün·aydın çocuk·lar, uyan·dı·nız mı? | Tag·hell Kind·PL, aufwachen·VERG·2PL FRAGE?",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_02.mp3?v=ae81d35f"
    },
    "zeit": null,
@@ -755,12 +759,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "nasıl·sın | wie·2SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nasılsın? – İyiyim, sen?",
     "de": "Wie geht's dir? – Gut, und dir?",
     "luecke": "Nasılsın",
     "gloss": "Nasıl·sın? – İyi·yim, sen? | wie·2SG? – gut·1SG, du?",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_03.mp3?v=55c5eb2e"
    },
    "zeit": null,
@@ -778,12 +784,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "iyi·yim, teşekkür·ler | gut·1SG, Dank·PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "İyiyim, teşekkürler. Biraz yorgunum.",
     "de": "Mir geht's gut, danke. Ein bisschen müde.",
     "luecke": "İyiyim",
     "gloss": "İyi·yim, teşekkür·ler. Biraz yorgun·um. | gut·1SG, Dank·PL. ein.bisschen müde·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_04.mp3?v=a5858b98"
    },
    "zeit": null,
@@ -801,12 +809,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "hoş gel·din | angenehm kommen·VERG.2SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoş geldin, otur. – Hoş bulduk.",
     "de": "Willkommen, setz dich. – Danke, schön hier zu sein.",
     "luecke": "Hoş geldin",
     "gloss": "Hoş gel·din, otur. – Hoş bul·du·k. | angenehm kommen·VERG.2SG, setz.dich. – angenehm finden·VERG·1PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_05.mp3?v=1a8d3c3b"
    },
    "zeit": null,
@@ -824,12 +834,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "Türkçe konuş·ma·yı sev·iyor·um | Türkisch sprechen·INF·AKK lieben·PRÄS·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Türkçe konuşmayı seviyorum, ama yavaş konuşuyorum.",
     "de": "Ich spreche gern Türkisch, aber ich spreche langsam.",
     "luecke": "Türkçe konuşmayı seviyorum",
     "gloss": "Türkçe konuş·ma·yı sev·iyor·um, ama yavaş konuş·uyor·um. | Türkisch sprechen·INF·AKK lieben·PRÄS·1SG, aber langsam sprechen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_06.mp3?v=1e3d2950"
    },
    "zeit": {
@@ -858,12 +870,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ad·ın ne | Name·dein was",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Adın ne? – Adım Deniz.",
     "de": "Wie heißt du? – Ich heiße Deniz.",
     "luecke": "Adın ne",
     "gloss": "Ad·ın ne? – Ad·ım Deniz. | Name·dein was? – Name·mein Deniz",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_07.mp3?v=723a1074"
    },
    "zeit": null,
@@ -881,12 +895,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ben·im ad·ım Alex | ich·GEN Name·mein Alex",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Benim adım Alex, Almanca öğretmeniyim.",
     "de": "Ich heiße Alex, ich bin Deutschlehrer.",
     "luecke": "Benim adım Alex",
     "gloss": "Ben·im ad·ım Alex, Almanca öğretmen·i·yim. | ich·GEN Name·mein Alex, Deutsch Lehrer·sein·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_08.mp3?v=6ee0edbb"
    },
    "zeit": null,
@@ -904,12 +920,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "memnun ol·du·m | erfreut werden·VERG·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Memnun oldum Deniz. – Ben de.",
     "de": "Freut mich, Deniz. – Mich auch.",
     "luecke": "Memnun oldum",
     "gloss": "Memnun ol·du·m Deniz. – Ben de. | erfreut werden·VERG·1SG Deniz. – ich auch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_09.mp3?v=c5778ac2"
    },
    "zeit": null,
@@ -927,12 +945,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "görüş·ür·üz | sich.sehen·AOR·1PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Görüşürüz, yarın yine buradayım.",
     "de": "Bis dann, morgen bin ich wieder hier.",
     "luecke": "Görüşürüz",
     "gloss": "Görüş·ür·üz, yarın yine bura·da·yım. | sich.sehen·AOR·1PL, morgen wieder hier·LOK·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_10.mp3?v=e23af684"
    },
    "zeit": null,
@@ -950,12 +970,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "iyi gün·ler | gut Tag·PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "İyi günler! – Size de iyi günler.",
     "de": "Schönen Tag! – Ihnen auch.",
     "luecke": "İyi günler",
     "gloss": "İyi gün·ler! – Siz·e de iyi gün·ler. | gut Tag·PL! – Sie·DAT auch gut Tag·PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_11.mp3?v=b10d8e01"
    },
    "zeit": null,
@@ -973,12 +995,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "hoş·ça kal | angenehm·ADV bleib",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoşça kal! – Güle güle!",
     "de": "Mach's gut! – Tschüss!",
     "luecke": "Hoşça kal",
     "gloss": "Hoş·ça kal! – Güle güle! | angenehm·ADV bleib! – lachend lachend",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_12.mp3?v=0c58b0fd"
    },
    "zeit": null,
@@ -996,12 +1020,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "hoş gel·diniz | angenehm kommen·VERG.2PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoş geldiniz, Deniz'in annesi siz misiniz?",
     "de": "Willkommen, sind Sie die Mutter von Deniz?",
     "luecke": "Hoş geldiniz",
     "gloss": "Hoş gel·diniz, Deniz·'in anne·si siz mi·siniz? | angenehm kommen·VERG.2PL, Deniz·GEN Mutter·sein Sie FRAGE·2PL?",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_13.mp3?v=e71d49c9"
    },
    "zeit": null,
@@ -1019,12 +1045,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "nasıl·sınız | wie·2PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nasılsınız? – Teşekkür ederim, iyiyim. Siz?",
     "de": "Wie geht es Ihnen? – Danke, gut. Und Ihnen?",
     "luecke": "Nasılsınız",
     "gloss": "Nasıl·sınız? – Teşekkür ed·er·im, iyi·yim. Siz? | wie·2PL? – Dank machen·AOR·1SG, gut·1SG. Sie?",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_14.mp3?v=52e594d0"
    },
    "zeit": null,
@@ -1042,12 +1070,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "buyur·un, otur·un | bitte·IMP.2PL, sitzen·IMP.2PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Buyurun, oturun. Çay geliyor.",
     "de": "Bitte, setzen Sie sich. Der Tee kommt.",
     "luecke": "Buyurun, oturun",
     "gloss": "Buyur·un, otur·un. Çay gel·iyor. | bitte·IMP.2PL, sitzen·IMP.2PL. Tee kommen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_15.mp3?v=453e7f90"
    },
    "zeit": null,
@@ -1065,12 +1095,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tanış·tığ·ımız·a memnun ol·du·m | sich.kennenlernen·DASS·unser·DAT erfreut werden·VERG·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tanıştığımıza memnun oldum, Deniz sizden çok bahsediyor.",
     "de": "Freut mich, Sie kennenzulernen, Deniz erzählt viel von Ihnen.",
     "luecke": "Tanıştığımıza memnun oldum",
     "gloss": "Tanış·tığ·ımız·a memnun ol·du·m, Deniz siz·den çok bahsed·iyor. | sich.kennenlernen·DASS·unser·DAT erfreut werden·VERG·1SG, Deniz Sie·ABL viel erzählen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_16.mp3?v=6e3693db"
    },
    "zeit": null,
@@ -1088,12 +1120,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ben Deniz·'in öğretmen·i·yim | ich Deniz·GEN Lehrer·sein·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ben Deniz'in Almanca öğretmeniyim.",
     "de": "Ich bin der Deutschlehrer von Deniz.",
     "luecke": "öğretmeniyim",
     "gloss": "Ben Deniz·'in Almanca öğretmen·i·yim. | ich Deniz·GEN Deutsch Lehrer·sein·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_17.mp3?v=41b67e8a"
    },
    "zeit": null,
@@ -1111,12 +1145,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "Deniz·'in anne·si·yim | Deniz·GEN Mutter·sein·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Deniz'in annesiyim, babası işte.",
     "de": "Ich bin die Mutter von Deniz, sein Vater ist bei der Arbeit.",
     "luecke": "Deniz'in annesiyim",
     "gloss": "Deniz·'in anne·si·yim, baba·sı iş·te. | Deniz·GEN Mutter·sein·1SG, Vater·sein Arbeit·LOK",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_18.mp3?v=5d744ab8"
    },
    "zeit": null,
@@ -1134,12 +1170,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "çay ist·er mi·siniz | Tee wollen·AOR FRAGE·2PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Çay ister misiniz? – Lütfen, şekersiz.",
     "de": "Möchten Sie Tee? – Gern, ohne Zucker.",
     "luecke": "Çay ister misiniz",
     "gloss": "Çay ist·er mi·siniz? – Lütfen, şeker·siz. | Tee wollen·AOR FRAGE·2PL? – bitte, Zucker·ohne",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_19.mp3?v=8045eef5"
    },
    "zeit": null,
@@ -1157,12 +1195,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "çok çalış·ıyor | viel arbeiten·PRÄS",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Deniz çok çalışıyor, Almancası iyi.",
     "de": "Deniz arbeitet viel, sein Deutsch ist gut.",
     "luecke": "çok çalışıyor",
     "gloss": "Deniz çok çalış·ıyor, Almanca·sı iyi. | Deniz viel arbeiten·PRÄS, Deutsch·sein gut",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_20.mp3?v=ade2aac1"
    },
    "zeit": {
@@ -1191,12 +1231,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "Türkçe·m henüz az | Türkisch·mein noch wenig",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Türkçem henüz az, ama öğreniyorum.",
     "de": "Mein Türkisch ist noch wenig, aber ich lerne.",
     "luecke": "Türkçem henüz az",
     "gloss": "Türkçe·m henüz az, ama öğren·iyor·um. | Türkisch·mein noch wenig, aber lernen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_21.mp3?v=cd24f258"
    },
    "zeit": null,
@@ -1214,12 +1256,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "anla·dı·m, teşekkür ed·er·im | verstehen·VERG·1SG, Dank machen·AOR·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Anladım, teşekkür ederim. Deniz'le konuşurum.",
     "de": "Verstanden, ich danke Ihnen. Ich spreche mit Deniz.",
     "luecke": "Anladım",
     "gloss": "Anla·dı·m, teşekkür ed·er·im. Deniz·'le konuş·ur·um. | verstehen·VERG·1SG, Dank machen·AOR·1SG. Deniz·MIT sprechen·AOR·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_22.mp3?v=930bf237"
    },
    "zeit": null,
@@ -1237,12 +1281,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gel·diğ·iniz için teşekkür·ler | kommen·DASS·Ihr für Dank·PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Geldiğiniz için teşekkürler, kapı her zaman açık.",
     "de": "Danke, dass Sie gekommen sind, die Tür ist immer offen.",
     "luecke": "Geldiğiniz için teşekkürler",
     "gloss": "Gel·diğ·iniz için teşekkür·ler, kapı her·zaman açık. | kommen·DASS·Ihr für Dank·PL, Tür immer offen",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_23.mp3?v=16891817"
    },
    "zeit": null,
@@ -1260,12 +1306,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "iyi akşam·lar, hoş·ça kal·ın | gut Abend·PL, angenehm·ADV bleiben·IMP.2PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "İyi akşamlar, hoşça kalın. – Güle güle, hocam.",
     "de": "Guten Abend, auf Wiedersehen. – Auf Wiedersehen, Herr Lehrer.",
     "luecke": "hoşça kalın",
     "gloss": "İyi akşam·lar, hoş·ça kal·ın. – Güle güle, hoca·m. | gut Abend·PL, angenehm·ADV bleiben·IMP.2PL. – lachend lachend, Lehrer·mein",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/se_24.mp3?v=2780cd36"
    },
    "zeit": null,
@@ -1283,12 +1331,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sınav kâğıd·ı oku·mak | Prüfung Blatt·sein lesen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bu akşam dokuzuncu sınıfın kâğıtlarını okuyorum.",
     "de": "Heute Abend korrigiere ich die Arbeiten der Neunten.",
     "luecke": "kâğıtlarını okuyorum",
     "gloss": "Bu akşam dokuz·uncu sınıf·ın kâğıt·lar·ı·nı oku·yor·um. | dies Abend neun·ORD Klasse·GEN Blatt·PL·sein·AKK lesen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_01.mp3?v=73b45892"
    },
    "zeit": {
@@ -1317,12 +1367,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bitkin ol·mak | erschöpft sein·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Altı saat dersten sonra bitkinim.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "bitkinim",
     "gloss": "Altı saat ders·ten sonra bitkin·im. | sechs Stunde Unterricht·ABL nach erschöpft·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_02.mp3?v=dd4d0e92"
    },
    "zeit": {
@@ -1351,12 +1403,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "toplantı | Versammlung",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Saat dörtte toplantı var, geliyor musun?",
     "de": "Um vier ist Konferenz, kommst du?",
     "luecke": "toplantı",
     "gloss": "Saat dört·te toplantı var, gel·iyor mu·sun? | Uhr vier·LOK Versammlung vorhanden, kommen·PRÄS FRAGE·2SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_03.mp3?v=9b5be232"
    },
    "zeit": {
@@ -1385,12 +1439,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ders boşluğ·u | Unterricht Lücke·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Üçüncü saatte boşluğum var, kahve içelim mi?",
     "de": "In der dritten Stunde habe ich frei, trinken wir einen Kaffee?",
     "luecke": "boşluğum",
     "gloss": "Üç·üncü saat·te boşluğ·um var, kahve iç·elim mi? | drei·ORD Stunde·LOK Lücke·mein vorhanden, Kaffee trinken·OPT.1PL FRAGE",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_04.mp3?v=ae6ea813"
    },
    "zeit": {
@@ -1419,12 +1475,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "öğretmen·ler oda·sı | Lehrer·PL Zimmer·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Öğretmenler odasında kahve yine bitiyor.",
     "de": "Im Lehrerzimmer ist der Kaffee schon wieder fast alle.",
     "luecke": "Öğretmenler odasında",
     "gloss": "Öğretmen·ler oda·sı·nda kahve yine bit·iyor. | Lehrer·PL Zimmer·sein·LOK Kaffee wieder enden·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_05.mp3?v=cdca761d"
    },
    "zeit": {
@@ -1453,12 +1511,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "nöbet tut·mak | Wache halten·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bugün teneffüste nöbetçiyim.",
     "de": "Heute habe ich Pausenaufsicht.",
     "luecke": "nöbetçiyim",
     "gloss": "Bugün teneffüs·te nöbetçi·yim. | heute Pause·LOK Wache·Täter·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_06.mp3?v=481c25df"
    },
    "zeit": {
@@ -1487,12 +1547,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ders program·ı | Unterricht Programm·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yeni ders programı cuma günü yedi saat veriyor.",
     "de": "Der neue Stundenplan gibt freitags sieben Stunden.",
     "luecke": "ders programı",
     "gloss": "Yeni ders program·ı cuma gün·ü yedi saat ver·iyor. | neu Unterricht Programm·sein Freitag Tag·sein sieben Stunde geben·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_07.mp3?v=87586419"
    },
    "zeit": {
@@ -1521,12 +1583,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ödev ver·mek | Aufgabe geben·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hafta sonuna ödev vermiyorum, bayram ediyorlar.",
     "de": "Übers Wochenende gebe ich nichts auf, sie sind selig.",
     "luecke": "ödev vermiyorum",
     "gloss": "Hafta son·u·na ödev ver·mi·yor·um, bayram ed·iyor·lar. | Woche Ende·sein·DAT Aufgabe geben·NEG·PRÄS·1SG, Fest machen·PRÄS·3PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_08.mp3?v=950c9561"
    },
    "zeit": {
@@ -1555,12 +1619,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "not ver·mek | Note geben·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Not vermek dersten daha zor.",
     "de": "Noten geben ist schwerer als unterrichten.",
     "luecke": "Not vermek",
     "gloss": "Not ver·mek ders·ten daha zor. | Note geben·INF Unterricht·ABL mehr schwer",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_09.mp3?v=d167a753"
    },
    "zeit": null,
@@ -1578,12 +1644,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sınıf·ta kal·mak | Klasse·LOK bleiben·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bu yıl kimse sınıfta kalmıyor, umarım.",
     "de": "Dieses Jahr bleibt hoffentlich keiner sitzen.",
     "luecke": "sınıfta kalmıyor",
     "gloss": "Bu yıl kimse sınıf·ta kal·mı·yor, um·ar·ım. | dies Jahr niemand Klasse·LOK bleiben·NEG·PRÄS, hoffen·AOR·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_10.mp3?v=b9341cfe"
    },
    "zeit": {
@@ -1612,12 +1680,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "veli toplantı·sı | Eltern Versammlung·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bu akşam veli toplantısı var, geç yatıyoruz.",
     "de": "Heute Abend ist Elternabend, wir gehen spät schlafen.",
     "luecke": "veli toplantısı",
     "gloss": "Bu akşam veli toplantı·sı var, geç yat·ıyor·uz. | dies Abend Eltern Versammlung·sein vorhanden, spät schlafen.gehen·PRÄS·1PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_11.mp3?v=204bbcb4"
    },
    "zeit": {
@@ -1646,12 +1716,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kopya çek·mek | Kopie ziehen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Biri kopya çekiyor, ikisi aynı hatayı yapıyor.",
     "de": "Einer spickt, zwei machen denselben Fehler.",
     "luecke": "kopya çekiyor",
     "gloss": "Biri kopya çek·iyor, iki·si aynı hata·yı yap·ıyor. | einer Kopie ziehen·PRÄS, zwei·davon derselbe Fehler·AKK machen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_12.mp3?v=24275dd1"
    },
    "zeit": {
@@ -1680,12 +1752,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ders·i kaynat·mak | Stunde·AKK kochen.lassen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Son saatte dersi kaynatıyorlar, ben de bırakıyorum.",
     "de": "In der letzten Stunde verbummeln sie die Stunde, und ich lasse es zu.",
     "luecke": "dersi kaynatıyorlar",
     "gloss": "Son saat·te ders·i kaynat·ıyor·lar, ben de bırak·ıyor·um. | letzt Stunde·LOK Stunde·AKK kochen.lassen·PRÄS·3PL, ich auch lassen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_13.mp3?v=6cc7bfeb"
    },
    "zeit": {
@@ -1714,12 +1788,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "yer·i·ne gir·mek | Platz·sein·DAT eintreten·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ayşe hasta, onun yerine ikinci saate giriyorum.",
     "de": "Ayşe ist krank, ich vertrete sie in der zweiten Stunde.",
     "luecke": "yerine",
     "gloss": "Ayşe hasta, o·nun yer·i·ne ikinci saat·e gir·iyor·um. | Ayşe krank, sie·GEN Platz·sein·DAT zweit Stunde·DAT eintreten·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_14.mp3?v=37569581"
    },
    "zeit": {
@@ -1748,12 +1824,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ders anlat·mak | Unterricht erzählen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Aynı konuyu üçüncü kez anlatıyorum.",
     "de": "Ich erkläre dasselbe zum dritten Mal.",
     "luecke": "anlatıyorum",
     "gloss": "Aynı konu·yu üç·üncü kez anlat·ıyor·um. | derselbe Thema·AKK drei·ORD Mal erzählen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_15.mp3?v=bad32b06"
    },
    "zeit": {
@@ -1782,12 +1860,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "teneffüs | Pause",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Teneffüs beş dakika sürüyor, hissetmiyorum bile.",
     "de": "Die Pause dauert fünf Minuten, ich merke sie nicht einmal.",
     "luecke": "Teneffüs",
     "gloss": "Teneffüs beş dakika sür·üyor, hisset·mi·yor·um bile. | Pause fünf Minute dauern·PRÄS, fühlen·NEG·PRÄS·1SG sogar",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_16.mp3?v=492dddda"
    },
    "zeit": {
@@ -1816,12 +1896,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "fotokopi çek·tir·mek | Fotokopie ziehen·KAUS·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Makine yine bozuk, fotokopi çektiremiyorum.",
     "de": "Die Maschine ist wieder kaputt, ich kann nicht kopieren.",
     "luecke": "fotokopi çektiremiyorum",
     "gloss": "Makine yine bozuk, fotokopi çek·tir·e·mi·yor·um. | Maschine wieder kaputt, Fotokopie ziehen·KAUS·KANN·NEG·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_17.mp3?v=339ffaab"
    },
    "zeit": {
@@ -1850,12 +1932,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sözlü yap·mak | mündlich machen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bugün sözlü yapıyorum, herkes birden sessizleşiyor.",
     "de": "Heute frage ich mündlich ab, alle werden plötzlich still.",
     "luecke": "sözlü yapıyorum",
     "gloss": "Bugün sözlü yap·ıyor·um, herkes birden sessiz·leş·iyor. | heute mündlich machen·PRÄS·1SG, jeder plötzlich still·werden·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_18.mp3?v=d581c190"
    },
    "zeit": {
@@ -1884,12 +1968,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "yoklama al·mak | Anwesenheitsprüfung nehmen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yoklama alıyorum, üç kişi yine yok.",
     "de": "Ich prüfe die Anwesenheit, drei fehlen wieder.",
     "luecke": "Yoklama alıyorum",
     "gloss": "Yoklama al·ıyor·um, üç kişi yine yok. | Anwesenheitsprüfung nehmen·PRÄS·1SG, drei Person wieder nicht.da",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_19.mp3?v=e590e04b"
    },
    "zeit": {
@@ -1918,12 +2004,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tahta·ya kaldır·mak | Tafel·DAT aufheben·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kerem'i tahtaya kaldırıyorum, dua ediyor.",
     "de": "Ich hole Kerem an die Tafel, er betet.",
     "luecke": "tahtaya kaldırıyorum",
     "gloss": "Kerem·'i tahta·ya kaldır·ıyor·um, dua ed·iyor. | Kerem·AKK Tafel·DAT aufheben·PRÄS·1SG, Gebet machen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_20.mp3?v=622c5c00"
    },
    "zeit": {
@@ -1952,12 +2040,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "karne | Zeugnis",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Karne günü herkes birden çok kibar oluyor.",
     "de": "Am Zeugnistag werden alle plötzlich sehr höflich.",
     "luecke": "Karne",
     "gloss": "Karne gün·ü herkes birden çok kibar ol·uyor. | Zeugnis Tag·sein jeder plötzlich sehr höflich werden·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_21.mp3?v=9aadf991"
    },
    "zeit": {
@@ -1986,12 +2076,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kolay gel·sin | leicht kommen·IMP3",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kolay gelsin! – Sağ ol, otuz kâğıt daha var.",
     "de": "Gutes Gelingen! – Danke, noch dreißig Arbeiten.",
     "luecke": "Kolay gelsin",
     "gloss": "Kolay gel·sin! – Sağ ol, otuz kâğıt daha var. | leicht kommen·IMP3! – gesund sei, dreißig Blatt noch vorhanden",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_22.mp3?v=a8b54d9d"
    },
    "zeit": null,
@@ -2009,12 +2101,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "geç·miş ol·sun | vergehen·ERZ sein·IMP3",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Teftiş bitti mi? Geçmiş olsun!",
     "de": "Die Inspektion ist vorbei? Gut überstanden!",
     "luecke": "Geçmiş olsun",
     "gloss": "Teftiş bit·ti mi? Geç·miş ol·sun! | Inspektion enden·VERG FRAGE? vergehen·ERZ sein·IMP3!",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_23.mp3?v=943c5781"
    },
    "zeit": null,
@@ -2032,12 +2126,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "Hoca·m, bir dakika·nız var mı? | Lehrer·mein, ein Minute·Ihr vorhanden FRAGE?",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hocam, bir dakikanız var mı? Bir not sorunu var.",
     "de": "Herr Kollege, haben Sie eine Minute? Es geht um eine Note.",
     "luecke": "bir dakikanız var mı",
     "gloss": "Hoca·m, bir dakika·nız var mı? Bir not sorun·u var. | Lehrer·mein, ein Minute·Ihr vorhanden FRAGE? ein Note Problem·sein vorhanden",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/oa_24.mp3?v=f16b4fdc"
    },
    "zeit": null,
@@ -2055,12 +2151,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "keyf·im yer·i·nde | Laune·mein Platz·sein·LOK",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bugün keyfim yerinde, kimse bozmasın.",
     "de": "Heute bin ich gut drauf, keiner soll es mir verderben.",
     "luecke": "keyfim yerinde",
     "gloss": "Bugün keyf·im yer·i·nde, kimse boz·ma·sın. | heute Laune·mein Platz·sein·LOK, niemand verderben·NEG·IMP3",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_01.mp3?v=8f516a5d"
    },
    "zeit": {
@@ -2089,12 +2187,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "can·ım sıkıl·ıyor | Seele·mein eingeengt.werden·PRÄS",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Toplantıda canım sıkılıyor, saate bakıyorum.",
     "de": "In der Konferenz langweile ich mich, ich schaue auf die Uhr.",
     "luecke": "canım sıkılıyor",
     "gloss": "Toplantı·da can·ım sıkıl·ıyor, saat·e bak·ıyor·um. | Versammlung·LOK Seele·mein eingeengt.werden·PRÄS, Uhr·DAT schauen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_02.mp3?v=27ffbbce"
    },
    "zeit": {
@@ -2123,12 +2223,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "moral·im bozuk | Stimmung·mein kaputt",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kâğıtlardan sonra moralim bozuk.",
     "de": "Nach den Arbeiten bin ich niedergeschlagen.",
     "luecke": "moralim bozuk",
     "gloss": "Kâğıt·lar·dan sonra moral·im bozuk. | Blatt·PL·ABL nach Stimmung·mein kaputt",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_03.mp3?v=5260be74"
    },
    "zeit": {
@@ -2157,12 +2259,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sinir·ler·im bozul·du | Nerv·PL·mein kaputtgehen·VERG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kopya makinesi yüzünden sinirlerim bozuldu.",
     "de": "Wegen des Kopierers bin ich mit den Nerven fertig.",
     "luecke": "sinirlerim bozuldu",
     "gloss": "Kopya makine·si yüzünden sinir·ler·im bozul·du. | Kopie Maschine·sein wegen Nerv·PL·mein kaputtgehen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_04.mp3?v=b91521ba"
    },
    "zeit": {
@@ -2191,12 +2295,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "iç·im rahat | Inneres·mein ruhig",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Notları girdim, içim rahat.",
     "de": "Die Noten sind eingetragen, ich bin beruhigt.",
     "luecke": "içim rahat",
     "gloss": "Not·lar·ı gir·di·m, iç·im rahat. | Note·PL·AKK eintragen·VERG·1SG, Inneres·mein ruhig",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_05.mp3?v=6b812357"
    },
    "zeit": {
@@ -2225,12 +2331,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "iç·im iç·i·me sığ·mı·yor | Inneres·mein Inneres·mein·DAT passen·NEG·PRÄS",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yarın tatil, içim içime sığmıyor.",
     "de": "Morgen Ferien, ich platze vor Freude.",
     "luecke": "içim içime sığmıyor",
     "gloss": "Yarın tatil, iç·im iç·i·me sığ·mı·yor. | morgen Ferien, Inneres·mein Inneres·mein·DAT passen·NEG·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_06.mp3?v=eb2526e3"
    },
    "zeit": {
@@ -2259,12 +2367,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tad·ım kaç·tı | Geschmack·mein fliehen·VERG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Son dersten sonra tadım kaçtı.",
     "de": "Nach der letzten Stunde war meine Laune hin.",
     "luecke": "tadım kaçtı",
     "gloss": "Son ders·ten sonra tad·ım kaç·tı. | letzt Stunde·ABL nach Geschmack·mein fliehen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_07.mp3?v=206ec1f6"
    },
    "zeit": {
@@ -2293,12 +2403,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "baş·ım ağrı·yor | Kopf·mein schmerzen·PRÄS",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yedi saatten sonra başım ağrıyor.",
     "de": "Nach sieben Stunden habe ich Kopfschmerzen.",
     "luecke": "başım ağrıyor",
     "gloss": "Yedi saat·ten sonra baş·ım ağrı·yor. | sieben Stunde·ABL nach Kopf·mein schmerzen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_08.mp3?v=05a382b0"
    },
    "zeit": {
@@ -2327,12 +2439,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "uyku·m var | Schlaf·mein vorhanden",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sabah sekizde hâlâ uykum var.",
     "de": "Um acht Uhr morgens bin ich noch müde.",
     "luecke": "uykum var",
     "gloss": "Sabah sekiz·de hâlâ uyku·m var. | Morgen acht·LOK immer.noch Schlaf·mein vorhanden",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_09.mp3?v=3b2e71e0"
    },
    "zeit": {
@@ -2361,12 +2475,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "heyecan·lı·yım | Aufregung·mit·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "İlk dersten önce hâlâ heyecanlıyım.",
     "de": "Vor der ersten Stunde bin ich immer noch aufgeregt.",
     "luecke": "heyecanlıyım",
     "gloss": "İlk ders·ten önce hâlâ heyecan·lı·yım. | erst Stunde·ABL vor immer.noch Aufregung·mit·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_10.mp3?v=4ce5b771"
    },
    "zeit": {
@@ -2395,12 +2511,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gergin·im | angespannt·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Veli toplantısından önce gerginim.",
     "de": "Vor dem Elternabend bin ich angespannt.",
     "luecke": "gerginim",
     "gloss": "Veli toplantı·sı·ndan önce gergin·im. | Eltern Versammlung·sein·ABL vor angespannt·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_11.mp3?v=1640a516"
    },
    "zeit": {
@@ -2429,12 +2547,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "rahatla·dı·m | sich.entspannen·VERG·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Teftiş bitti, rahatladım.",
     "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
     "luecke": "rahatladım",
     "gloss": "Teftiş bit·ti, rahatla·dı·m. | Inspektion enden·VERG, sich.entspannen·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_12.mp3?v=40b4cf5b"
    },
    "zeit": {
@@ -2463,12 +2583,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sabr·ım taş·ıyor | Geduld·mein überlaufen·PRÄS",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Üçüncü uyarıda sabrım taşıyor.",
     "de": "Bei der dritten Ermahnung reißt mir die Geduld.",
     "luecke": "sabrım taşıyor",
     "gloss": "Üç·üncü uyarı·da sabr·ım taş·ıyor. | drei·ORD Ermahnung·LOK Geduld·mein überlaufen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_13.mp3?v=0cbaacd0"
    },
    "zeit": {
@@ -2497,12 +2619,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kafa·m karış·tı | Kopf·mein sich.mischen·VERG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "İki program okudum, kafam karıştı.",
     "de": "Ich habe zwei Stundenpläne gelesen, ich bin durcheinander.",
     "luecke": "kafam karıştı",
     "gloss": "İki program oku·du·m, kafa·m karış·tı. | zwei Programm lesen·VERG·1SG, Kopf·mein sich.mischen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_14.mp3?v=b0c185e5"
    },
    "zeit": {
@@ -2531,12 +2655,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "akl·ım başka yer·de | Verstand·mein anderer Ort·LOK",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bugün aklım başka yerde, kusura bakma.",
     "de": "Heute bin ich mit den Gedanken woanders, entschuldige.",
     "luecke": "aklım başka yerde",
     "gloss": "Bugün akl·ım başka yer·de, kusur·a bak·ma. | heute Verstand·mein anderer Ort·LOK, Fehler·DAT schauen·NEG.IMP",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_15.mp3?v=4a46adad"
    },
    "zeit": {
@@ -2565,12 +2691,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bık·tı·m | satthaben·VERG·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Aynı bahaneden bıktım.",
     "de": "Ich habe dieselbe Ausrede satt.",
     "luecke": "bıktım",
     "gloss": "Aynı bahane·den bık·tı·m. | derselbe Ausrede·ABL satthaben·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_16.mp3?v=7d616161"
    },
    "zeit": {
@@ -2599,12 +2727,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "özle·di·m | vermissen·VERG·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tatili şimdiden özledim.",
     "de": "Ich vermisse die Ferien jetzt schon.",
     "luecke": "özledim",
     "gloss": "Tatil·i şimdi·den özle·di·m. | Ferien·AKK jetzt·ABL vermissen·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_17.mp3?v=8793630b"
    },
    "zeit": {
@@ -2633,12 +2763,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "utan·dı·m | sich.schämen·VERG·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Adını unuttum, çok utandım.",
     "de": "Ich habe seinen Namen vergessen, ich habe mich sehr geschämt.",
     "luecke": "utandım",
     "gloss": "Ad·ı·nı unut·tu·m, çok utan·dı·m. | Name·sein·AKK vergessen·VERG·1SG, sehr sich.schämen·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_18.mp3?v=b5c4da55"
    },
    "zeit": {
@@ -2667,12 +2799,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "şaşır·dı·m | sich.wundern·VERG·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hepsi ödevi yapmış, şaşırdım.",
     "de": "Alle hatten die Hausaufgabe gemacht, ich war überrascht.",
     "luecke": "şaşırdım",
     "gloss": "Hep·si ödev·i yap·mış, şaşır·dı·m. | all·davon Aufgabe·AKK machen·ERZ, sich.wundern·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_19.mp3?v=fffcdd76"
    },
    "zeit": {
@@ -2701,12 +2835,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gurur duy·mak | Stolz fühlen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sınıfımla gurur duyuyorum.",
     "de": "Ich bin stolz auf meine Klasse.",
     "luecke": "gurur duyuyorum",
     "gloss": "Sınıf·ım·la gurur duy·uyor·um. | Klasse·mein·MIT Stolz fühlen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_20.mp3?v=08f704b9"
    },
    "zeit": {
@@ -2735,12 +2871,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kıskan·dı·m | beneiden·VERG·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cem'in boş cuması var, kıskandım.",
     "de": "Cem hat freitags frei, ich war neidisch.",
     "luecke": "kıskandım",
     "gloss": "Cem·'in boş cuma·sı var, kıskan·dı·m. | Cem·GEN leer Freitag·sein vorhanden, beneiden·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_21.mp3?v=61e459ea"
    },
    "zeit": {
@@ -2769,12 +2907,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "keyif yap·mak | Genuss machen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hafta sonu sadece keyif yapıyorum.",
     "de": "Am Wochenende lasse ich es mir nur gut gehen.",
     "luecke": "keyif yapıyorum",
     "gloss": "Hafta son·u sadece keyif yap·ıyor·um. | Woche Ende·sein nur Genuss machen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_22.mp3?v=afb33378"
    },
    "zeit": {
@@ -2803,12 +2943,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "boş ver | leer gib",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Boş ver, yarın yeni bir gün.",
     "de": "Mach dir nichts draus, morgen ist ein neuer Tag.",
     "luecke": "Boş ver",
     "gloss": "Boş ver, yarın yeni bir gün. | leer gib, morgen neu ein Tag",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_23.mp3?v=f0eb2695"
    },
    "zeit": null,
@@ -2826,12 +2968,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "neyse | was.auch.immer",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Neyse, kahve var ya.",
     "de": "Na ja, es gibt ja Kaffee.",
     "luecke": "Neyse",
     "gloss": "Neyse, kahve var ya. | was.auch.immer, Kaffee vorhanden doch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/du_24.mp3?v=994b7fd9"
    },
    "zeit": null,
@@ -2849,12 +2993,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kedi besle·mek | Katze füttern·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Evde iki kedi besliyoruz.",
     "de": "Zu Hause halten wir zwei Katzen.",
     "luecke": "kedi besliyoruz",
     "gloss": "Ev·de iki kedi besl·iyor·uz. | Haus·LOK zwei Katze füttern·PRÄS·1PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_01.mp3?v=9c4d2011"
    },
    "zeit": {
@@ -2883,12 +3029,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "mırıldan·mak | schnurren·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kucağıma çıkınca mırıldanıyor.",
     "de": "Sobald sie auf meinen Schoß steigt, schnurrt sie.",
     "luecke": "mırıldanıyor",
     "gloss": "Kucağ·ım·a çık·ınca mırıldan·ıyor. | Schoß·mein·DAT steigen·SOBALD schnurren·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_02.mp3?v=ffb59319"
    },
    "zeit": {
@@ -2917,12 +3065,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "miyavla·mak | miauen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sabah beşte kapıda miyavlıyor.",
     "de": "Um fünf Uhr morgens miaut sie an der Tür.",
     "luecke": "miyavlıyor",
     "gloss": "Sabah beş·te kapı·da miyavl·ıyor. | Morgen fünf·LOK Tür·LOK miauen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_03.mp3?v=d4a84bc0"
    },
    "zeit": {
@@ -2951,12 +3101,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tırmala·mak | kratzen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Koltuğu yine tırmaladı.",
     "de": "Sie hat wieder das Sofa zerkratzt.",
     "luecke": "tırmaladı",
     "gloss": "Koltuğ·u yine tırmala·dı. | Sofa·AKK wieder kratzen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_04.mp3?v=3c3ad8a0"
    },
    "zeit": {
@@ -2985,12 +3137,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kedi kum·u | Katze Sand·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kedi kumu bitti, markete gidiyorum.",
     "de": "Die Streu ist alle, ich gehe in den Laden.",
     "luecke": "Kedi kumu",
     "gloss": "Kedi kum·u bit·ti, market·e gid·iyor·um. | Katze Sand·sein enden·VERG, Laden·DAT gehen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_05.mp3?v=25553dda"
    },
    "zeit": {
@@ -3019,12 +3173,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "mama | Tierfutter",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mamayı görünce koşarak geliyor.",
     "de": "Wenn sie das Futter sieht, kommt sie angerannt.",
     "luecke": "Mamayı",
     "gloss": "Mama·yı gör·ünce koş·arak gel·iyor. | Futter·AKK sehen·SOBALD laufen·INDEM kommen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_06.mp3?v=7873d345"
    },
    "zeit": {
@@ -3053,12 +3209,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "pati·si·yle | Pfote·sein·MIT",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Patisiyle kalemimi masadan düşürüyor.",
     "de": "Mit der Pfote schubst sie meinen Stift vom Tisch.",
     "luecke": "Patisiyle",
     "gloss": "Pati·si·yle kalem·im·i masa·dan düşür·üyor. | Pfote·sein·MIT Stift·mein·AKK Tisch·ABL fallen.lassen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_07.mp3?v=a3851baf"
    },
    "zeit": {
@@ -3087,12 +3245,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kucağ·a çık·mak | Schoß·DAT steigen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kâğıt okurken kucağıma çıkıyor.",
     "de": "Beim Korrigieren kommt sie auf meinen Schoß.",
     "luecke": "kucağıma çıkıyor",
     "gloss": "Kâğıt oku·r·ken kucağ·ım·a çık·ıyor. | Blatt lesen·AOR·WÄHREND Schoß·mein·DAT steigen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_08.mp3?v=cf5d317b"
    },
    "zeit": {
@@ -3121,12 +3281,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "uyukla·mak | dösen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Güneşte bütün gün uyukluyor.",
     "de": "In der Sonne döst sie den ganzen Tag.",
     "luecke": "uyukluyor",
     "gloss": "Güneş·te bütün gün uyukl·uyor. | Sonne·LOK ganz Tag dösen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_09.mp3?v=44b0f5cb"
    },
    "zeit": {
@@ -3155,12 +3317,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kedi gibi | Katze wie",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dokuzlar kedi gibi, hiç dinlemiyor.",
     "de": "Die Neunten sind wie Katzen, sie hören nie.",
     "luecke": "kedi gibi",
     "gloss": "Dokuz·lar kedi gibi, hiç dinle·mi·yor. | neun·PL Katze wie, nie hören·NEG·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_10.mp3?v=3d112863"
    },
    "zeit": {
@@ -3189,12 +3353,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sokak kedi·si | Straße Katze·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sokak kedisi ama bizi seçti.",
     "de": "Eine Straßenkatze, aber sie hat uns gewählt.",
     "luecke": "Sokak kedisi",
     "gloss": "Sokak kedi·si ama biz·i seç·ti. | Straße Katze·sein aber wir·AKK wählen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_11.mp3?v=22654244"
    },
    "zeit": {
@@ -3223,12 +3389,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "mahalle kedi·si | Viertel Katze·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "İstanbul'da her mahallenin kedisi var.",
     "de": "In Istanbul hat jedes Viertel seine Katze.",
     "luecke": "mahallenin kedisi",
     "gloss": "İstanbul·'da her mahalle·nin kedi·si var. | Istanbul·LOK jedes Viertel·GEN Katze·sein vorhanden",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_12.mp3?v=802c404b"
    },
    "zeit": {
@@ -3257,12 +3425,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tüy dök·mek | Haar vergießen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Baharda her yer tüy, çok döküyor.",
     "de": "Im Frühling ist alles voller Haare, sie haart sehr.",
     "luecke": "döküyor",
     "gloss": "Bahar·da her yer tüy, çok dök·üyor. | Frühling·LOK jeder Ort Haar, sehr vergießen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_13.mp3?v=1446cace"
    },
    "zeit": {
@@ -3291,12 +3461,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kus·mak | sich.übergeben·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Halıya kustu, tabii ki halıya.",
     "de": "Auf den Teppich hat sie gespuckt, natürlich auf den Teppich.",
     "luecke": "kustu",
     "gloss": "Halı·ya kus·tu, tabii·ki halı·ya. | Teppich·DAT sich.übergeben·VERG, natürlich Teppich·DAT",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_14.mp3?v=eae37887"
    },
    "zeit": {
@@ -3325,12 +3497,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "veteriner·e götür·mek | Tierarzt·DAT hinbringen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yarın aşı için veterinere götürüyorum.",
     "de": "Morgen bringe ich sie zum Impfen zum Tierarzt.",
     "luecke": "veterinere götürüyorum",
     "gloss": "Yarın aşı için veteriner·e götür·üyor·um. | morgen Impfung für Tierarzt·DAT hinbringen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_15.mp3?v=d566a226"
    },
    "zeit": {
@@ -3359,12 +3533,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kısır·laş·tır·mak | unfruchtbar·werden·KAUS·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Belediye sokak kedilerini kısırlaştırıyor.",
     "de": "Die Stadt sterilisiert die Straßenkatzen.",
     "luecke": "kısırlaştırıyor",
     "gloss": "Belediye sokak kedi·ler·i·ni kısır·laş·tır·ıyor. | Stadtverwaltung Straße Katze·PL·sein·AKK unfruchtbar·werden·KAUS·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_16.mp3?v=1f6add90"
    },
    "zeit": {
@@ -3393,12 +3569,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "pati | Pfote",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Patileri kar gibi beyaz.",
     "de": "Ihre Pfoten sind schneeweiß.",
     "luecke": "Patileri",
     "gloss": "Pati·ler·i kar gibi beyaz. | Pfote·PL·sein Schnee wie weiß",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_17.mp3?v=e88af32f"
    },
    "zeit": {
@@ -3427,12 +3605,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bıyık | Schnurrbart",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bıyıkları kapı genişliğini ölçüyor.",
     "de": "Die Schnurrhaare messen die Türbreite.",
     "luecke": "Bıyıkları",
     "gloss": "Bıyık·lar·ı kapı genişliğ·i·ni ölç·üyor. | Schnurrbart·PL·sein Tür Breite·sein·AKK messen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_18.mp3?v=7e0370e9"
    },
    "zeit": {
@@ -3461,12 +3641,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "nazlan·mak | sich.zieren·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Önce nazlanıyor, sonra yiyor.",
     "de": "Erst ziert sie sich, dann frisst sie.",
     "luecke": "nazlanıyor",
     "gloss": "Önce nazlan·ıyor, sonra yi·yor. | zuerst sich.zieren·PRÄS, dann essen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_19.mp3?v=cb919817"
    },
    "zeit": {
@@ -3495,12 +3677,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sahip·len·mek | Besitzer·werden·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Okulun kedisini öğrenciler sahiplendi.",
     "de": "Die Schulkatze haben die Schüler adoptiert.",
     "luecke": "sahiplendi",
     "gloss": "Okul·un kedi·si·ni öğrenci·ler sahip·len·di. | Schule·GEN Katze·sein·AKK Schüler·PL Besitzer·werden·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_20.mp3?v=0a67dc6e"
    },
    "zeit": {
@@ -3529,12 +3713,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kedi dil·i | Katze Zunge·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kedi dili bisküvi kediye verilmez.",
     "de": "Katzenzungen-Kekse gibt man der Katze nicht.",
     "luecke": "Kedi dili",
     "gloss": "Kedi dil·i bisküvi kedi·ye ver·il·mez. | Katze Zunge·sein Keks Katze·DAT geben·PASS·NEG.AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_21.mp3?v=e18c7ad4"
    },
    "zeit": null,
@@ -3552,12 +3738,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "dokuz can·lı | neun Leben·mit",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kediler dokuz canlı, derler.",
     "de": "Katzen haben neun Leben, sagt man.",
     "luecke": "dokuz canlı",
     "gloss": "Kedi·ler dokuz can·lı, de·r·ler. | Katze·PL neun Leben·mit, sagen·AOR·3PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_22.mp3?v=d461347d"
    },
    "zeit": null,
@@ -3575,12 +3763,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kedi kafa·sı | Katze Kopf·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sabah kedi kafasıyla uyanıyorum.",
     "de": "Morgens werde ich mit einer Kopfnuss der Katze wach.",
     "luecke": "kedi kafasıyla",
     "gloss": "Sabah kedi kafa·sı·yla uyan·ıyor·um. | Morgen Katze Kopf·sein·MIT aufwachen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_23.mp3?v=2e0bb288"
    },
    "zeit": {
@@ -3609,12 +3799,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kedi·m | Katze·mein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kedim beni değil, evi seviyor.",
     "de": "Meine Katze liebt nicht mich, sondern das Haus.",
     "luecke": "Kedim",
     "gloss": "Kedi·m ben·i değil, ev·i sev·iyor. | Katze·mein ich·AKK nicht, Haus·AKK lieben·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ke_24.mp3?v=3d0bd801"
    },
    "zeit": {
@@ -3643,12 +3835,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "şarkı söyle·mek | Lied sagen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Duşta şarkı söylüyorum, komşu da dinliyor.",
     "de": "Unter der Dusche singe ich, der Nachbar hört mit.",
     "luecke": "şarkı söylüyorum",
     "gloss": "Duş·ta şarkı söyl·üyor·um, komşu da dinl·iyor. | Dusche·LOK Lied sagen·PRÄS·1SG, Nachbar auch hören·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_01.mp3?v=d16368e6"
    },
    "zeit": {
@@ -3677,12 +3871,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "enstrüman çal·mak | Instrument spielen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bağlama çalıyorum, yavaş yavaş.",
     "de": "Ich spiele Bağlama, ganz langsam.",
     "luecke": "çalıyorum",
     "gloss": "Bağlama çal·ıyor·um, yavaş yavaş. | Bağlama spielen·PRÄS·1SG, langsam langsam",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_02.mp3?v=da547408"
    },
    "zeit": {
@@ -3711,12 +3907,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kulak·tan çal·mak | Ohr·ABL spielen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Notayı bilmiyorum, kulaktan çalıyorum.",
     "de": "Ich kenne die Noten nicht, ich spiele nach Gehör.",
     "luecke": "kulaktan çalıyorum",
     "gloss": "Nota·yı bil·mi·yor·um, kulak·tan çal·ıyor·um. | Note·AKK wissen·NEG·PRÄS·1SG, Ohr·ABL spielen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_03.mp3?v=e607bda5"
    },
    "zeit": {
@@ -3745,12 +3943,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ezberle·mek | auswendig.lernen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sözleri ezberledim, melodiyi henüz değil.",
     "de": "Den Text habe ich auswendig, die Melodie noch nicht.",
     "luecke": "ezberledim",
     "gloss": "Söz·ler·i ezberle·di·m, melodi·yi henüz değil. | Wort·PL·AKK auswendig.lernen·VERG·1SG, Melodie·AKK noch nicht",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_04.mp3?v=e278a371"
    },
    "zeit": {
@@ -3779,12 +3979,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kulağ·a hoş gel·mek | Ohr·DAT angenehm kommen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Türkçe kulağa hoş geliyor, ünlü uyumu sayesinde.",
     "de": "Türkisch klingt angenehm, dank der Vokalharmonie.",
     "luecke": "kulağa hoş geliyor",
     "gloss": "Türkçe kulağ·a hoş gel·iyor, ünlü uyum·u sayesinde. | Türkisch Ohr·DAT angenehm kommen·PRÄS, Vokal Harmonie·sein dank",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_05.mp3?v=d71d704d"
    },
    "zeit": {
@@ -3813,12 +4015,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ünlü uyum·u | Vokal Harmonie·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ünlü uyumu olmadan Türkçe şarkı söylenmez.",
     "de": "Ohne Vokalharmonie kann man kein Türkisch singen.",
     "luecke": "Ünlü uyumu",
     "gloss": "Ünlü uyum·u ol·ma·dan Türkçe şarkı söyle·n·mez. | Vokal Harmonie·sein sein·NEG·ABL Türkisch Lied sagen·PASS·NEG.AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_06.mp3?v=0e0b395f"
    },
    "zeit": null,
@@ -3836,12 +4040,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "telaffuz | Aussprache",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Telaffuzum iyi, derler; ben inanmıyorum.",
     "de": "Meine Aussprache sei gut, sagt man; ich glaube es nicht.",
     "luecke": "Telaffuzum",
     "gloss": "Telaffuz·um iyi, de·r·ler; ben inan·mı·yor·um. | Aussprache·mein gut, sagen·AOR·3PL; ich glauben·NEG·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_07.mp3?v=fa9c0bc4"
    },
    "zeit": {
@@ -3870,12 +4076,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "vurgu | Betonung",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Vurgu son hecede, ama her zaman değil.",
     "de": "Die Betonung liegt auf der letzten Silbe, aber nicht immer.",
     "luecke": "Vurgu",
     "gloss": "Vurgu son hece·de, ama her·zaman değil. | Betonung letzt Silbe·LOK, aber immer nicht",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_08.mp3?v=efa81459"
    },
    "zeit": null,
@@ -3893,12 +4101,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "dil sürç·me·si | Zunge stolpern·INF·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dil sürçmesi oldu, sınıf güldü.",
     "de": "Ein Versprecher, die Klasse hat gelacht.",
     "luecke": "Dil sürçmesi",
     "gloss": "Dil sürç·me·si ol·du, sınıf gül·dü. | Zunge stolpern·INF·sein sein·VERG, Klasse lachen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_09.mp3?v=4426a38e"
    },
    "zeit": {
@@ -3927,12 +4137,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "aksan | Akzent",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Aksanım Alman, kimse saklayamaz.",
     "de": "Mein Akzent ist deutsch, keiner kann das verstecken.",
     "luecke": "Aksanım",
     "gloss": "Aksan·ım Alman, kimse sakla·ya·maz. | Akzent·mein deutsch, niemand verstecken·KANN·NEG.AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_10.mp3?v=ea825b20"
    },
    "zeit": {
@@ -3961,12 +4173,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ritim tut·mak | Rhythmus halten·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ritim tutamıyorum, ellerim ayrı dünyada.",
     "de": "Ich kann den Takt nicht halten, meine Hände leben in einer anderen Welt.",
     "luecke": "Ritim tutamıyorum",
     "gloss": "Ritim tut·a·mı·yor·um, el·ler·im ayrı dünya·da. | Rhythmus halten·KANN·NEG·PRÄS·1SG, Hand·PL·mein getrennt Welt·LOK",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_11.mp3?v=c7c375bf"
    },
    "zeit": {
@@ -3995,12 +4209,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "detone ol·mak | unrein sein·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nakaratta detone oldum, kimse fark etmedi.",
     "de": "Im Refrain habe ich falsch gesungen, keiner hat es gemerkt.",
     "luecke": "detone oldum",
     "gloss": "Nakarat·ta detone ol·du·m, kimse fark et·me·di. | Refrain·LOK unrein sein·VERG·1SG, niemand Unterschied machen·NEG·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_12.mp3?v=c5a6d25e"
    },
    "zeit": {
@@ -4029,12 +4245,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "nakarat | Refrain",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nakaratı herkes biliyor, kıtaları kimse.",
     "de": "Den Refrain kennt jeder, die Strophen keiner.",
     "luecke": "Nakaratı",
     "gloss": "Nakarat·ı herkes bil·iyor, kıta·lar·ı kimse. | Refrain·AKK jeder wissen·PRÄS, Strophe·PL·AKK niemand",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_13.mp3?v=77b488b8"
    },
    "zeit": {
@@ -4063,12 +4281,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "türkü | Volkslied",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Türküler en güzel akşam söylenir.",
     "de": "Volkslieder singt man am schönsten abends.",
     "luecke": "Türküler",
     "gloss": "Türkü·ler en güzel akşam söyle·n·ir. | Volkslied·PL am.meisten schön Abend sagen·PASS·AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_14.mp3?v=69812fd7"
    },
    "zeit": null,
@@ -4086,12 +4306,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kulak dolgun·luğ·u | Ohr voll·Abstr.·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kulak dolgunluğu var, kelimeler yavaş geliyor.",
     "de": "Das Ohr ist voll, die Wörter kommen langsam.",
     "luecke": "Kulak dolgunluğu",
     "gloss": "Kulak dolgun·luğ·u var, kelime·ler yavaş gel·iyor. | Ohr voll·Abstr.·sein vorhanden, Wort·PL langsam kommen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_15.mp3?v=f9926b82"
    },
    "zeit": {
@@ -4120,12 +4342,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "dil öğren·mek | Sprache lernen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dil öğrenmek müzik gibi, her gün biraz.",
     "de": "Sprachen lernen ist wie Musik, jeden Tag ein bisschen.",
     "luecke": "Dil öğrenmek",
     "gloss": "Dil öğren·mek müzik gibi, her gün biraz. | Sprache lernen·INF Musik wie, jeder Tag ein.bisschen",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_16.mp3?v=dbb1e947"
    },
    "zeit": null,
@@ -4143,12 +4367,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ana dil·i | Mutter Sprache·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ana dilim Almanca, rüyalarım hâlâ Almanca.",
     "de": "Meine Muttersprache ist Deutsch, meine Träume sind noch deutsch.",
     "luecke": "Ana dilim",
     "gloss": "Ana dil·im Almanca, rüya·lar·ım hâlâ Almanca. | Mutter Sprache·mein Deutsch, Traum·PL·mein immer.noch Deutsch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_17.mp3?v=ec55db99"
    },
    "zeit": {
@@ -4177,12 +4403,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sözcük dağarcığ·ı | Wort Speicher·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sözcük dağarcığım büyüyor, üç kelime bir gün.",
     "de": "Mein Wortschatz wächst, drei Wörter am Tag.",
     "luecke": "Sözcük dağarcığım",
     "gloss": "Sözcük dağarcığ·ım büy·üyor, üç kelime bir gün. | Wort Speicher·mein wachsen·PRÄS, drei Wort ein Tag",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_18.mp3?v=5e34ef8f"
    },
    "zeit": {
@@ -4211,12 +4439,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "akıcı konuş·mak | fließend sprechen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bir gün akıcı konuşacağım, Cem söz verdi.",
     "de": "Eines Tages spreche ich fließend, Cem hat es versprochen.",
     "luecke": "akıcı konuşacağım",
     "gloss": "Bir gün akıcı konuş·acağ·ım, Cem söz ver·di. | ein Tag fließend sprechen·FUT·1SG, Cem Wort geben·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_19.mp3?v=554e7832"
    },
    "zeit": {
@@ -4245,12 +4475,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "çat pat | holprig holprig",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Türkçem çat pat, ama gülümsüyorum.",
     "de": "Mein Türkisch ist holprig, aber ich lächle.",
     "luecke": "çat pat",
     "gloss": "Türkçe·m çat pat, ama gülüms·üyor·um. | Türkisch·mein holprig holprig, aber lächeln·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_20.mp3?v=4076414f"
    },
    "zeit": {
@@ -4279,12 +4511,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ses·li oku·mak | Stimme·mit lesen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Her akşam bir sayfa sesli okuyorum.",
     "de": "Jeden Abend lese ich eine Seite laut.",
     "luecke": "sesli okuyorum",
     "gloss": "Her akşam bir sayfa ses·li oku·yor·um. | jeder Abend ein Seite Stimme·mit lesen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_21.mp3?v=5fc791a3"
    },
    "zeit": {
@@ -4313,12 +4547,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ses ton·u | Stimme Ton·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ses tonun yumuşak, Alman öğretmene göre.",
     "de": "Dein Tonfall ist weich, für einen deutschen Lehrer.",
     "luecke": "Ses tonun",
     "gloss": "Ses ton·un yumuşak, Alman öğretmen·e göre. | Stimme Ton·dein weich, deutsch Lehrer·DAT gemäß",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_22.mp3?v=f034c935"
    },
    "zeit": {
@@ -4347,12 +4583,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "alıştırma yap·mak | Übung machen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Konuşma alıştırması yapıyoruz, kedi dinliyor.",
     "de": "Wir üben Sprechen, die Katze hört zu.",
     "luecke": "alıştırması yapıyoruz",
     "gloss": "Konuşma alıştırma·sı yap·ıyor·uz, kedi dinl·iyor. | Sprechen Übung·sein machen·PRÄS·1PL, Katze hören·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_23.mp3?v=7ef0e6de"
    },
    "zeit": {
@@ -4381,12 +4619,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ezgi | Melodie",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ezgi aklımda kaldı, sözler uçtu.",
     "de": "Die Melodie ist mir geblieben, der Text ist weg.",
     "luecke": "Ezgi",
     "gloss": "Ezgi akl·ım·da kal·dı, söz·ler uç·tu. | Melodie Verstand·mein·LOK bleiben·VERG, Wort·PL fliegen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/mu_24.mp3?v=a4df1335"
    },
    "zeit": {
@@ -4415,12 +4655,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bir var·mış bir yok·muş | ein vorhanden·ERZ ein nicht.da·ERZ",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bir varmış bir yokmuş, Boğaz'da bir kedi varmış.",
     "de": "Es war einmal eine Katze am Bosporus.",
     "luecke": "Bir varmış bir yokmuş",
     "gloss": "Bir var·mış bir yok·muş, Boğaz·'da bir kedi var·mış. | ein vorhanden·ERZ ein nicht.da·ERZ, Bosporus·LOK ein Katze vorhanden·ERZ",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_01.mp3?v=a39a3b16"
    },
    "zeit": null,
@@ -4438,12 +4680,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "masal anlat·mak | Märchen erzählen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Akşamları çocuklara masal anlatıyorum, kedi de dinliyor.",
     "de": "Abends erzähle ich den Kindern Märchen, die Katze hört zu.",
     "luecke": "masal anlatıyorum",
     "gloss": "Akşam·lar·ı çocuk·lar·a masal anlat·ıyor·um, kedi de dinl·iyor. | Abend·PL·AKK Kind·PL·DAT Märchen erzählen·PRÄS·1SG, Katze auch hören·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_02.mp3?v=35fde5a5"
    },
    "zeit": {
@@ -4472,12 +4716,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ejderha | Drache",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ejderha uyuyor, hazine bekliyor.",
     "de": "Der Drache schläft, der Schatz wartet.",
     "luecke": "Ejderha",
     "gloss": "Ejderha uy·uyor, hazine bekl·iyor. | Drache schlafen·PRÄS, Schatz warten·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_03.mp3?v=1e7cb7f6"
    },
    "zeit": {
@@ -4506,12 +4752,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sihir·li | Zauber·mit",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sihirli bir kapı vardı, sadece gece açılırdı.",
     "de": "Es gab eine magische Tür, sie öffnete sich nur nachts.",
     "luecke": "Sihirli",
     "gloss": "Sihir·li bir kapı var·dı, sadece gece aç·ıl·ır·dı. | Zauber·mit ein Tür vorhanden·VERG, nur Nacht öffnen·PASS·AOR·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_04.mp3?v=5f5bee68"
    },
    "zeit": null,
@@ -4529,12 +4777,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "büyü yap·mak | Zauber machen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Büyücü büyü yaptı, sınıf sessizleşti.",
     "de": "Der Zauberer zauberte, die Klasse wurde still.",
     "luecke": "büyü yaptı",
     "gloss": "Büyü·cü büyü yap·tı, sınıf sessiz·leş·ti. | Zauber·Täter Zauber machen·VERG, Klasse still·werden·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_05.mp3?v=1fab786e"
    },
    "zeit": {
@@ -4563,12 +4813,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "peri | Fee",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Peri üç dilek verdi, ben dördüncüyü istedim.",
     "de": "Die Fee gab drei Wünsche, ich wollte den vierten.",
     "luecke": "Peri",
     "gloss": "Peri üç dilek ver·di, ben dörd·üncü·yü iste·di·m. | Fee drei Wunsch geben·VERG, ich vier·ORD·AKK wollen·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_06.mp3?v=39c84e32"
    },
    "zeit": {
@@ -4597,12 +4849,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "dev | Riese",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Devin ayağı okulumuzdan büyüktü.",
     "de": "Der Fuß des Riesen war größer als unsere Schule.",
     "luecke": "Devin",
     "gloss": "Dev·in ayağ·ı okul·umuz·dan büyük·tü. | Riese·GEN Fuß·sein Schule·unser·ABL groß·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_07.mp3?v=d644e48b"
    },
    "zeit": null,
@@ -4620,12 +4874,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "cüce | Zwerg",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yedi cüce madene gitti, biri geç kaldı.",
     "de": "Sieben Zwerge gingen ins Bergwerk, einer kam zu spät.",
     "luecke": "cüce",
     "gloss": "Yedi cüce maden·e git·ti, biri geç kal·dı. | sieben Zwerg Bergwerk·DAT gehen·VERG, einer spät bleiben·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_08.mp3?v=61ee4afd"
    },
    "zeit": {
@@ -4654,12 +4910,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kahraman | Held",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kahraman korkuyordu, yine de gitti.",
     "de": "Der Held hatte Angst, er ging trotzdem.",
     "luecke": "Kahraman",
     "gloss": "Kahraman kork·uyor·du, yine·de git·ti. | Held fürchten·PRÄS·VERG, trotzdem gehen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_09.mp3?v=7c9d110d"
    },
    "zeit": null,
@@ -4677,12 +4935,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kılıç | Schwert",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kılıç taştan çıkmadı, çocuk denedi.",
     "de": "Das Schwert kam nicht aus dem Stein, das Kind hat es versucht.",
     "luecke": "Kılıç",
     "gloss": "Kılıç taş·tan çık·ma·dı, çocuk dene·di. | Schwert Stein·ABL herauskommen·NEG·VERG, Kind versuchen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_10.mp3?v=454d8a0e"
    },
    "zeit": null,
@@ -4700,12 +4960,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kale | Burg",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kalenin kapısı kapalı, anahtar kedide.",
     "de": "Das Burgtor ist zu, der Schlüssel ist bei der Katze.",
     "luecke": "Kalenin kapısı",
     "gloss": "Kale·nin kapı·sı kapalı, anahtar kedi·de. | Burg·GEN Tor·sein geschlossen, Schlüssel Katze·LOK",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_11.mp3?v=b0f7920b"
    },
    "zeit": {
@@ -4734,12 +4996,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "hazine | Schatz",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hazine haritası yırtık, yarısı bende.",
     "de": "Die Schatzkarte ist zerrissen, die Hälfte habe ich.",
     "luecke": "Hazine haritası",
     "gloss": "Hazine harita·sı yırtık, yarı·sı ben·de. | Schatz Karte·sein zerrissen, Hälfte·sein ich·LOK",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_12.mp3?v=8ca594d2"
    },
    "zeit": {
@@ -4768,12 +5032,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "büyü·lü orman | Zauber·mit Wald",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Büyülü ormanda ağaçlar konuşur, ama fısıltıyla.",
     "de": "Im Zauberwald sprechen die Bäume, aber im Flüsterton.",
     "luecke": "Büyülü ormanda",
     "gloss": "Büyü·lü orman·da ağaç·lar konuş·ur, ama fısıltı·yla. | Zauber·mit Wald·LOK Baum·PL sprechen·AOR, aber Flüstern·MIT",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_13.mp3?v=6538a782"
    },
    "zeit": null,
@@ -4791,12 +5057,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tılsım | Zauberbann",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tılsım bozuldu, prens yine kurbağa.",
     "de": "Der Bann ist gebrochen, der Prinz ist wieder ein Frosch.",
     "luecke": "Tılsım bozuldu",
     "gloss": "Tılsım bozul·du, prens yine kurbağa. | Zauberbann kaputtgehen·VERG, Prinz wieder Frosch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_14.mp3?v=a691da49"
    },
    "zeit": {
@@ -4825,12 +5093,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "lanet | Fluch",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Lanetin tek şartı var: cuma günü yedi saat ders.",
     "de": "Der Fluch hat eine Bedingung: freitags sieben Stunden Unterricht.",
     "luecke": "Lanetin",
     "gloss": "Lanet·in tek şart·ı var: cuma gün·ü yedi saat ders. | Fluch·GEN einzig Bedingung·sein vorhanden: Freitag Tag·sein sieben Stunde Unterricht",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_15.mp3?v=3cb46115"
    },
    "zeit": null,
@@ -4848,12 +5118,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "Kel·oğlan | kahl·Junge",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Keloğlan tembeldi ama kurnazdı, sonunda padişah oldu.",
     "de": "Keloğlan war faul, aber schlau, am Ende wurde er Padischah.",
     "luecke": "Keloğlan",
     "gloss": "Kel·oğlan tembel·di ama kurnaz·dı, son·u·nda padişah ol·du. | kahl·Junge faul·VERG aber schlau·VERG, Ende·sein·LOK Padischah werden·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_16.mp3?v=03d164dc"
    },
    "zeit": null,
@@ -4871,12 +5143,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "Nasreddin Hoca | Nasreddin Lehrer",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nasreddin Hoca göle maya çaldı: ya tutarsa!",
     "de": "Nasreddin Hodscha gab Hefe in den See: Und wenn es klappt!",
     "luecke": "Nasreddin Hoca",
     "gloss": "Nasreddin Hoca göl·e maya çal·dı: ya tut·ar·sa! | Nasreddin Lehrer See·DAT Hefe mischen·VERG: und.wenn halten·AOR·KOND",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_17.mp3?v=c6a08a2b"
    },
    "zeit": null,
@@ -4894,12 +5168,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gölge | Schatten",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Gölgem benden önce eve girdi.",
     "de": "Mein Schatten ging vor mir ins Haus.",
     "luecke": "Gölgem",
     "gloss": "Gölge·m ben·den önce ev·e gir·di. | Schatten·mein ich·ABL vor Haus·DAT hineingehen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_18.mp3?v=d8c1f9d2"
    },
    "zeit": {
@@ -4928,12 +5204,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "görün·mez ol·mak | erscheinen·NEG.AOR sein·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pelerini giyince görünmez oldu, sınıf buna bayıldı.",
     "de": "Mit dem Umhang wurde er unsichtbar, die Klasse war begeistert.",
     "luecke": "görünmez oldu",
     "gloss": "Pelerin·i giy·ince görün·mez ol·du, sınıf bu·na bayıl·dı. | Umhang·AKK anziehen·SOBALD erscheinen·NEG.AOR sein·VERG, Klasse dies·DAT begeistert.sein·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_19.mp3?v=9b222dd3"
    },
    "zeit": {
@@ -4962,12 +5240,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "düş gör·mek | Traum sehen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dün gece ejderhayla çay içtiğimi düş gördüm.",
     "de": "Letzte Nacht träumte ich, ich hätte mit dem Drachen Tee getrunken.",
     "luecke": "düş gördüm",
     "gloss": "Dün gece ejderha·yla çay iç·tiğ·im·i düş gör·dü·m. | gestern Nacht Drache·MIT Tee trinken·DASS·mein·AKK Traum sehen·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_20.mp3?v=e890cd32"
    },
    "zeit": null,
@@ -4985,12 +5265,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "hikâye·nin son·u | Geschichte·GEN Ende·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hikâyenin sonunu kedi biliyor, söylemiyor.",
     "de": "Das Ende der Geschichte kennt die Katze, sie sagt es nicht.",
     "luecke": "Hikâyenin sonunu",
     "gloss": "Hikâye·nin son·u·nu kedi bil·iyor, söyle·mi·yor. | Geschichte·GEN Ende·sein·AKK Katze wissen·PRÄS, sagen·NEG·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_21.mp3?v=c873381d"
    },
    "zeit": {
@@ -5019,12 +5301,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gök·ten üç elma düş·müş | Himmel·ABL drei Apfel fallen·ERZ",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Gökten üç elma düşmüş: biri anlatana, biri dinleyene, biri kediye.",
     "de": "Drei Äpfel fielen vom Himmel: einer für den Erzähler, einer für den Zuhörer, einer für die Katze.",
     "luecke": "Gökten üç elma düşmüş",
     "gloss": "Gök·ten üç elma düş·müş: biri anlat·an·a, biri dinle·yen·e, biri kedi·ye. | Himmel·ABL drei Apfel fallen·ERZ: einer erzählen·DER·DAT, einer hören·DER·DAT, einer Katze·DAT",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_22.mp3?v=bbf67462"
    },
    "zeit": null,
@@ -5042,12 +5326,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kıssa·dan hisse | Erzählung·ABL Anteil",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kıssadan hisse: ödevi zamanında yap.",
     "de": "Die Moral: Mach die Hausaufgaben rechtzeitig.",
     "luecke": "Kıssadan hisse",
     "gloss": "Kıssa·dan hisse: ödev·i zaman·ı·nda yap. | Erzählung·ABL Anteil: Aufgabe·AKK Zeit·sein·LOK mach",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_23.mp3?v=8fc662c8"
    },
    "zeit": null,
@@ -5065,12 +5351,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "onlar er·miş murad·ı·na | sie erreichen·ERZ Wunsch·sein·DAT",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Onlar ermiş muradına, biz çıkalım kerevetine.",
     "de": "Sie erreichten ihr Ziel, wir steigen auf ihre Bank.",
     "luecke": "Onlar ermiş muradına",
     "gloss": "Onlar er·miş murad·ı·na, biz çık·alım kerevet·i·ne. | sie erreichen·ERZ Wunsch·sein·DAT, wir steigen·OPT.1PL Bank·sein·DAT",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/hi_24.mp3?v=096458af"
    },
    "zeit": null,
@@ -5088,12 +5376,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "spor yap·mak | Sport machen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Her sabah spor yapıyorum, kedi izliyor.",
     "de": "Jeden Morgen treibe ich Sport, die Katze schaut zu.",
     "luecke": "spor yapıyorum",
     "gloss": "Her sabah spor yap·ıyor·um, kedi izl·iyor. | jeder Morgen Sport machen·PRÄS·1SG, Katze zuschauen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_01.mp3?v=2c1b57b4"
    },
    "zeit": {
@@ -5122,12 +5412,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "antrenman | Training",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Antrenman saat altıda başlıyor, kimse geç kalmıyor.",
     "de": "Das Training beginnt um sechs, niemand kommt zu spät.",
     "luecke": "Antrenman",
     "gloss": "Antrenman saat altı·da başl·ıyor, kimse geç kal·mı·yor. | Training Uhr sechs·LOK beginnen·PRÄS, niemand spät bleiben·NEG·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_02.mp3?v=0999fa81"
    },
    "zeit": {
@@ -5156,12 +5448,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ısın·mak | warm.werden·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Önce ısınıyoruz, sonra vuruyoruz.",
     "de": "Zuerst wärmen wir uns auf, dann schlagen wir.",
     "luecke": "ısınıyoruz",
     "gloss": "Önce ısın·ıyor·uz, sonra vur·uyor·uz. | zuerst warm.werden·PRÄS·1PL, dann schlagen·PRÄS·1PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_03.mp3?v=f6e03096"
    },
    "zeit": {
@@ -5190,12 +5484,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kung·fu | Kung-Fu",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kung fu hızlı değil, sabırlıdır.",
     "de": "Kung-Fu ist nicht schnell, es ist geduldig.",
     "luecke": "Kung fu",
     "gloss": "Kung·fu hızlı değil, sabır·lı·dır. | Kung-Fu schnell nicht, Geduld·mit·IST",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_04.mp3?v=7c2cd4a9"
    },
    "zeit": null,
@@ -5213,12 +5509,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "usta | Meister",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Usta az konuşur, çok gösterir.",
     "de": "Der Meister spricht wenig, zeigt viel.",
     "luecke": "Usta",
     "gloss": "Usta az konuş·ur, çok göster·ir. | Meister wenig sprechen·AOR, viel zeigen·AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_05.mp3?v=d6443ff5"
    },
    "zeit": null,
@@ -5236,12 +5534,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "öğren·ci | lernen·Täter",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Öğrenci düşer, kalkar, yine düşer.",
     "de": "Der Schüler fällt, steht auf, fällt wieder.",
     "luecke": "Öğrenci",
     "gloss": "Öğren·ci düş·er, kalk·ar, yine düş·er. | lernen·Täter fallen·AOR, aufstehen·AOR, wieder fallen·AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_06.mp3?v=8ed6f308"
    },
    "zeit": null,
@@ -5259,12 +5559,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "dur·uş | stehen·Abstr.",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Duruşun sağlam, ellerin yorgun.",
     "de": "Dein Stand ist fest, deine Hände sind müde.",
     "luecke": "Duruşun",
     "gloss": "Dur·uş·un sağlam, el·ler·in yorgun. | stehen·Abstr.·dein fest, Hand·PL·dein müde",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_07.mp3?v=075d3c45"
    },
    "zeit": {
@@ -5293,12 +5595,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "yumruk | Faust",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yumruk omuzdan değil, kalçadan gelir.",
     "de": "Der Faustschlag kommt nicht aus der Schulter, sondern aus der Hüfte.",
     "luecke": "Yumruk",
     "gloss": "Yumruk omuz·dan değil, kalça·dan gel·ir. | Faust Schulter·ABL nicht, Hüfte·ABL kommen·AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_08.mp3?v=89968656"
    },
    "zeit": null,
@@ -5316,12 +5620,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tekme | Tritt",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tekme yüksek değil, doğru olmalı.",
     "de": "Der Tritt muss nicht hoch sein, sondern richtig.",
     "luecke": "Tekme",
     "gloss": "Tekme yüksek değil, doğru ol·malı. | Tritt hoch nicht, richtig sein·MUSS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_09.mp3?v=c5ca724c"
    },
    "zeit": null,
@@ -5339,12 +5645,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "nefes al·mak | Atem nehmen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nefes al, nefes ver, sonra vur.",
     "de": "Atme ein, atme aus, dann schlag.",
     "luecke": "Nefes al",
     "gloss": "Nefes al, nefes ver, sonra vur. | Atem nimm, Atem gib, dann schlag",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_10.mp3?v=da4312ae"
    },
    "zeit": null,
@@ -5362,12 +5670,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "denge | Gleichgewicht",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Denge tek ayakta başlar, kafada biter.",
     "de": "Gleichgewicht beginnt auf einem Fuß und endet im Kopf.",
     "luecke": "Denge",
     "gloss": "Denge tek ayak·ta başl·ar, kafa·da bit·er. | Gleichgewicht einzig Fuß·LOK beginnen·AOR, Kopf·LOK enden·AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_11.mp3?v=5d3886bf"
    },
    "zeit": null,
@@ -5385,12 +5695,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kuşak | Gürtel",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Siyah kuşak son değil, başlangıçtır.",
     "de": "Der schwarze Gürtel ist nicht das Ende, er ist der Anfang.",
     "luecke": "Siyah kuşak",
     "gloss": "Siyah kuşak son değil, başlangıç·tır. | schwarz Gürtel Ende nicht, Anfang·IST",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_12.mp3?v=03085031"
    },
    "zeit": null,
@@ -5408,12 +5720,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "güreş | Ringen",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yağlı güreş Edirne'de, Kırkpınar'da yapılır.",
     "de": "Ölringen findet in Edirne statt, in Kırkpınar.",
     "luecke": "Yağlı güreş",
     "gloss": "Yağ·lı güreş Edirne·'de, Kırkpınar·'da yap·ıl·ır. | Öl·mit Ringen Edirne·LOK, Kırkpınar·LOK machen·PASS·AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_13.mp3?v=cff5fbf7"
    },
    "zeit": null,
@@ -5431,12 +5745,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "futbol maç·ı | Fußball Spiel·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Maç akşam dokuzda, çay hazır.",
     "de": "Das Spiel ist um neun Uhr abends, der Tee ist fertig.",
     "luecke": "Maç",
     "gloss": "Maç akşam dokuz·da, çay hazır. | Spiel Abend neun·LOK, Tee fertig",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_14.mp3?v=5c81f857"
    },
    "zeit": {
@@ -5465,12 +5781,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gol at·mak | Tor werfen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Son dakikada gol attık, mahalle bağırdı.",
     "de": "In der letzten Minute haben wir ein Tor geschossen, das Viertel hat geschrien.",
     "luecke": "gol attık",
     "gloss": "Son dakika·da gol at·tı·k, mahalle bağır·dı. | letzt Minute·LOK Tor werfen·VERG·1PL, Viertel schreien·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_15.mp3?v=548567d5"
    },
    "zeit": {
@@ -5499,12 +5817,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kazan·mak | gewinnen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bugün kazandık, yarın göreceğiz.",
     "de": "Heute haben wir gewonnen, morgen werden wir sehen.",
     "luecke": "kazandık",
     "gloss": "Bugün kazan·dı·k, yarın gör·eceğ·iz. | heute gewinnen·VERG·1PL, morgen sehen·FUT·1PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_16.mp3?v=94e109df"
    },
    "zeit": null,
@@ -5522,12 +5842,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kaybet·mek | verlieren·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kaybettik ama iyi oynadık.",
     "de": "Wir haben verloren, aber gut gespielt.",
     "luecke": "Kaybettik",
     "gloss": "Kaybet·ti·k ama iyi oyna·dı·k. | verlieren·VERG·1PL aber gut spielen·VERG·1PL",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_17.mp3?v=64b153f3"
    },
    "zeit": null,
@@ -5545,12 +5867,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "koş·mak | laufen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Boğaz'da koşuyorum, martılar takip ediyor.",
     "de": "Am Bosporus laufe ich, die Möwen folgen mir.",
     "luecke": "koşuyorum",
     "gloss": "Boğaz·'da koş·uyor·um, martı·lar takip ed·iyor. | Bosporus·LOK laufen·PRÄS·1SG, Möwe·PL Verfolgung machen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_18.mp3?v=33c9e0db"
    },
    "zeit": {
@@ -5579,12 +5903,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "yüz·mek | schwimmen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Adalar'da yüzdük, su soğuktu.",
     "de": "Auf den Inseln sind wir geschwommen, das Wasser war kalt.",
     "luecke": "yüzdük",
     "gloss": "Adalar·'da yüz·dü·k, su soğuk·tu. | Inseln·LOK schwimmen·VERG·1PL, Wasser kalt·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_19.mp3?v=f62bc024"
    },
    "zeit": null,
@@ -5602,12 +5928,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "yor·ul·mak | ermüden·PASS·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yoruldum ama bırakmıyorum.",
     "de": "Ich bin müde geworden, aber ich höre nicht auf.",
     "luecke": "Yoruldum",
     "gloss": "Yor·ul·du·m ama bırak·mı·yor·um. | ermüden·PASS·VERG·1SG aber lassen·NEG·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_20.mp3?v=7b11dc04"
    },
    "zeit": null,
@@ -5625,12 +5953,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sakat·lan·mak | verletzt·werden·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dizim sakatlandı, bir hafta mola.",
     "de": "Mein Knie ist verletzt, eine Woche Pause.",
     "luecke": "sakatlandı",
     "gloss": "Diz·im sakat·lan·dı, bir hafta mola. | Knie·mein verletzt·werden·VERG, ein Woche Pause",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_21.mp3?v=3cb05d37"
    },
    "zeit": null,
@@ -5648,12 +5978,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "takım | Mannschaft",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Takımımız küçük, kalbi büyük.",
     "de": "Unsere Mannschaft ist klein, ihr Herz ist groß.",
     "luecke": "Takımımız",
     "gloss": "Takım·ımız küçük, kalb·i büyük. | Mannschaft·unser klein, Herz·sein groß",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_22.mp3?v=cda099de"
    },
    "zeit": {
@@ -5682,12 +6014,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "hakem | Schiedsrichter",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hakem düdük çaldı, herkes sustu.",
     "de": "Der Schiedsrichter pfiff, alle verstummten.",
     "luecke": "Hakem",
     "gloss": "Hakem düdük çal·dı, herkes sus·tu. | Schiedsrichter Pfeife spielen·VERG, jeder schweigen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_23.mp3?v=a75c8a36"
    },
    "zeit": null,
@@ -5705,12 +6039,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "pes et·me·mek | aufgeben machen·NEG·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pes etmiyoruz, bir tur daha.",
     "de": "Wir geben nicht auf, eine Runde noch.",
     "luecke": "Pes etmiyoruz",
     "gloss": "Pes et·mi·yor·uz, bir tur daha. | aufgeben machen·NEG·PRÄS·1PL, ein Runde noch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sp_24.mp3?v=485335c1"
    },
    "zeit": {
@@ -5739,12 +6075,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "denge·li beslen·mek | Gleichgewicht·mit sich.ernähren·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dengeli besleniyorum: simit, çay, bir de peynir.",
     "de": "Ich esse ausgewogen: Simit, Tee und dazu Käse.",
     "luecke": "Dengeli besleniyorum",
     "gloss": "Denge·li beslen·iyor·um: simit, çay, bir de peynir. | Gleichgewicht·mit sich.ernähren·PRÄS·1SG: Simit, Tee, ein auch Käse",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_01.mp3?v=8a40b0b9"
    },
    "zeit": {
@@ -5773,12 +6111,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "erken yat·mak | früh sich.hinlegen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bu akşam erken yatıyorum, yarın sınav var.",
     "de": "Heute Abend gehe ich früh ins Bett, morgen ist Prüfung.",
     "luecke": "erken yatıyorum",
     "gloss": "Bu akşam erken yat·ıyor·um, yarın sınav var. | dies Abend früh sich.hinlegen·PRÄS·1SG, morgen Prüfung vorhanden",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_02.mp3?v=819c20c7"
    },
    "zeit": {
@@ -5807,12 +6147,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kendi·ne iyi bak·mak | selbst·DAT gut schauen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kendine iyi bak, dersler kaçmaz.",
     "de": "Pass gut auf dich auf, die Stunden laufen nicht weg.",
     "luecke": "Kendine iyi bak",
     "gloss": "Kendi·ne iyi bak, ders·ler kaç·maz. | selbst·DAT gut schau, Stunde·PL weglaufen·NEG.AOR",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_03.mp3?v=f607861e"
    },
    "zeit": null,
@@ -5830,12 +6172,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "alış·veriş yap·mak | Nehmen·Geben machen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pazardan alışveriş yapıyorum, domates kilosu on lira.",
     "de": "Ich kaufe auf dem Markt ein, das Kilo Tomaten kostet zehn Lira.",
     "luecke": "alışveriş yapıyorum",
     "gloss": "Pazar·dan alış·veriş yap·ıyor·um, domates kilo·su on lira. | Markt·ABL Nehmen·Geben machen·PRÄS·1SG, Tomate Kilo·sein zehn Lira",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_04.mp3?v=629cfd6e"
    },
    "zeit": {
@@ -5864,12 +6208,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "yemek pişir·mek | Essen garen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Akşam yemek pişiriyorum, kedi mutfakta bekliyor.",
     "de": "Abends koche ich, die Katze wartet in der Küche.",
     "luecke": "yemek pişiriyorum",
     "gloss": "Akşam yemek pişir·iyor·um, kedi mutfak·ta bekl·iyor. | Abend Essen garen·PRÄS·1SG, Katze Küche·LOK warten·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_05.mp3?v=af9e62a1"
    },
    "zeit": {
@@ -5898,12 +6244,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bir tabak | ein Teller",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bir tabak mercimek çorbası, üstüne limon.",
     "de": "Ein Teller Linsensuppe, Zitrone obendrauf.",
     "luecke": "Bir tabak",
     "gloss": "Bir tabak mercimek çorba·sı, üst·ü·ne limon. | ein Teller Linse Suppe·sein, Oberseite·sein·DAT Zitrone",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_06.mp3?v=f9ff56ff"
    },
    "zeit": null,
@@ -5921,12 +6269,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "acık·mak | hungrig.werden·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Acıktım, teneffüste simit alıyorum.",
     "de": "Ich habe Hunger bekommen, in der Pause hole ich einen Simit.",
     "luecke": "Acıktım",
     "gloss": "Acık·tı·m, teneffüs·te simit al·ıyor·um. | hungrig.werden·VERG·1SG, Pause·LOK Simit kaufen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_07.mp3?v=ab6c0d2e"
    },
    "zeit": null,
@@ -5944,12 +6294,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tıka basa ye·mek | stopf drück essen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bayramda tıka basa yedik, kimse kıpırdayamadı.",
     "de": "Am Feiertag haben wir uns den Bauch vollgeschlagen, niemand konnte sich rühren.",
     "luecke": "tıka basa yedik",
     "gloss": "Bayram·da tıka basa ye·di·k, kimse kıpırda·ya·ma·dı. | Fest·LOK stopf drück essen·VERG·1PL, niemand sich.rühren·KANN·NEG·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_08.mp3?v=3b897474"
    },
    "zeit": null,
@@ -5967,12 +6319,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "afiyet ol·sun | Wohlbefinden sein·IMP3",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Afiyet olsun! – Elinize sağlık!",
     "de": "Guten Appetit! – Gesundheit Ihren Händen!",
     "luecke": "Afiyet olsun",
     "gloss": "Afiyet ol·sun! – El·iniz·e sağlık! | Wohlbefinden sein·IMP3! – Hand·Ihr·DAT Gesundheit!",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_09.mp3?v=19c9780b"
    },
    "zeit": null,
@@ -5990,12 +6344,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "fırın | Ofen",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Köşedeki fırın sabah beşte açılıyor, ekmek sıcak.",
     "de": "Die Bäckerei an der Ecke öffnet um fünf, das Brot ist warm.",
     "luecke": "fırın",
     "gloss": "Köşe·de·ki fırın sabah beş·te aç·ıl·ıyor, ekmek sıcak. | Ecke·LOK·DER Ofen Morgen fünf·LOK öffnen·PASS·PRÄS, Brot heiß",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_10.mp3?v=56b72f92"
    },
    "zeit": {
@@ -6024,12 +6380,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "su iç·mek | Wasser trinken·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Günde iki litre su içiyorum, çay saymıyorum.",
     "de": "Ich trinke zwei Liter Wasser am Tag, Tee zähle ich nicht.",
     "luecke": "su içiyorum",
     "gloss": "Gün·de iki litre su iç·iyor·um, çay say·mı·yor·um. | Tag·LOK zwei Liter Wasser trinken·PRÄS·1SG, Tee zählen·NEG·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_11.mp3?v=7a52b6aa"
    },
    "zeit": {
@@ -6058,12 +6416,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "atıştır·mak | naschen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ders arasında atıştırıyorum: leblebi, kuru üzüm.",
     "de": "Zwischen den Stunden knabbere ich: Kichererbsen, Rosinen.",
     "luecke": "atıştırıyorum",
     "gloss": "Ders ara·sı·nda atıştır·ıyor·um: leblebi, kuru üzüm. | Stunde Zwischenraum·sein·LOK naschen·PRÄS·1SG: Röstkichererbse, trocken Traube",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_12.mp3?v=1a870837"
    },
    "zeit": {
@@ -6092,12 +6452,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kendi·ni iyi hisset·mek | selbst·AKK gut fühlen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bugün kendimi iyi hissediyorum, sebebi yok.",
     "de": "Heute fühle ich mich wohl, ohne Grund.",
     "luecke": "kendimi iyi hissediyorum",
     "gloss": "Bugün kendi·m·i iyi hiss·ed·iyor·um, sebeb·i yok. | heute selbst·mein·AKK gut Gefühl·machen·PRÄS·1SG, Grund·sein nicht.da",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_13.mp3?v=f80825e1"
    },
    "zeit": {
@@ -6126,12 +6488,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "mola ver·mek | Pause geben·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hadi mola verelim, çay demlendi.",
     "de": "Komm, machen wir eine Pause, der Tee ist gezogen.",
     "luecke": "mola verelim",
     "gloss": "Hadi mola ver·elim, çay demlen·di. | los Pause geben·OPT.1PL, Tee ziehen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_14.mp3?v=6036487d"
    },
    "zeit": null,
@@ -6149,12 +6513,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "delik·siz uyu·mak | Loch·ohne schlafen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuma gecesi deliksiz uyudum, kedi bile sesimi duymadı.",
     "de": "Freitagnacht habe ich durchgeschlafen, nicht einmal die Katze hat mich gehört.",
     "luecke": "deliksiz uyudum",
     "gloss": "Cuma gece·si delik·siz uyu·du·m, kedi bile ses·im·i duy·ma·dı. | Freitag Nacht·sein Loch·ohne schlafen·VERG·1SG, Katze sogar Stimme·mein·AKK hören·NEG·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_15.mp3?v=ea5c1f32"
    },
    "zeit": null,
@@ -6172,12 +6538,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "turp gibi ol·mak | Rettich wie sein·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bir hafta tatil, şimdi turp gibiyim.",
     "de": "Eine Woche Urlaub, jetzt bin ich kerngesund.",
     "luecke": "turp gibiyim",
     "gloss": "Bir hafta tatil, şimdi turp gibi·yim. | ein Woche Urlaub, jetzt Rettich wie·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_16.mp3?v=c0258b39"
    },
    "zeit": {
@@ -6206,12 +6574,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "hava al·mak | Luft nehmen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Biraz hava alalım, sınıf fırın gibi.",
     "de": "Lass uns etwas Luft schnappen, die Klasse ist wie ein Backofen.",
     "luecke": "hava alalım",
     "gloss": "Biraz hava al·alım, sınıf fırın gibi. | etwas Luft nehmen·OPT.1PL, Klasse Ofen wie",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_17.mp3?v=b3bc6a11"
    },
    "zeit": null,
@@ -6229,12 +6599,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tarif | Rezept",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Annemin tarifi: az tuz, çok sabır.",
     "de": "Das Rezept meiner Mutter: wenig Salz, viel Geduld.",
     "luecke": "tarifi",
     "gloss": "Anne·m·in tarif·i: az tuz, çok sabır. | Mutter·mein·GEN Rezept·sein: wenig Salz, viel Geduld",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_18.mp3?v=087cdd58"
    },
    "zeit": null,
@@ -6252,12 +6624,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tat·mak | kosten·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tat bakalım, tuzu eksik mi?",
     "de": "Probier mal, fehlt Salz?",
     "luecke": "Tat bakalım",
     "gloss": "Tat bak·alım, tuz·u eksik mi? | koste schau·OPT.1PL, Salz·sein fehlend FRAGE",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_19.mp3?v=c3ab7ba2"
    },
    "zeit": null,
@@ -6275,12 +6649,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "nefis | köstlich",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bu baklava nefis, kim yaptı?",
     "de": "Dieses Baklava ist köstlich, wer hat es gemacht?",
     "luecke": "nefis",
     "gloss": "Bu baklava nefis, kim yap·tı? | dies Baklava köstlich, wer machen·VERG?",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_20.mp3?v=08ddf003"
    },
    "zeit": {
@@ -6309,12 +6685,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "susa·mak | durstig.werden·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Susadım, bir bardak ayran lütfen.",
     "de": "Ich habe Durst, ein Glas Ayran bitte.",
     "luecke": "Susadım",
     "gloss": "Susa·dı·m, bir bardak ayran lütfen. | durstig.werden·VERG·1SG, ein Glas Ayran bitte",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_21.mp3?v=e5e90196"
    },
    "zeit": null,
@@ -6332,12 +6710,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sağ ayak·la kalk·mak | recht Fuß·MIT aufstehen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bugün sağ ayakla kalktım, çay bile daha güzel.",
     "de": "Heute bin ich mit dem rechten Fuß aufgestanden, sogar der Tee ist besser.",
     "luecke": "sağ ayakla kalktım",
     "gloss": "Bugün sağ ayak·la kalk·tı·m, çay bile daha güzel. | heute recht Fuß·MIT aufstehen·VERG·1SG, Tee sogar mehr schön",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_22.mp3?v=b838ce3c"
    },
    "zeit": null,
@@ -6355,12 +6735,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "can·ı çek·mek | Seele·sein ziehen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Canım baklava çekiyor, ama akşam yedi.",
     "de": "Ich habe Lust auf Baklava, aber es ist sieben Uhr abends.",
     "luecke": "Canım baklava çekiyor",
     "gloss": "Can·ım baklava çek·iyor, ama akşam yedi. | Seele·mein Baklava ziehen·PRÄS, aber Abend sieben",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_23.mp3?v=2de2cde1"
    },
    "zeit": {
@@ -6389,12 +6771,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bir simit al·abil·ir mi·yim | ein Simit nehmen·KANN·AOR FRAGE·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bir simit alabilir miyim, susamlı olsun lütfen.",
     "de": "Kann ich einen Simit haben, mit Sesam bitte.",
     "luecke": "alabilir miyim",
     "gloss": "Bir simit al·abil·ir mi·yim, susam·lı ol·sun lütfen. | ein Simit nehmen·KANN·AOR FRAGE·1SG, Sesam·mit sein·IMP3 bitte",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/ye_24.mp3?v=c142f851"
    },
    "zeit": null,
@@ -6412,12 +6796,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sabah·a kadar uyu·mak | Morgen·DAT bis schlafen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bebek sabaha kadar uyudu, anne de babası da şaşkın.",
     "de": "Das Baby hat bis zum Morgen geschlafen, Mutter und Vater sind verblüfft.",
     "luecke": "sabaha kadar uyudu",
     "gloss": "Bebek sabah·a kadar uyu·du, anne de baba·sı da şaşkın. | Baby Morgen·DAT bis schlafen·VERG, Mutter auch Vater·sein auch verblüfft",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_01.mp3?v=5a0067f6"
    },
    "zeit": null,
@@ -6435,12 +6821,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "oyuncak ayı | Spielzeug Bär",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Oyuncak ayı yatakta, çocuk yerde.",
     "de": "Der Teddybär liegt im Bett, das Kind auf dem Boden.",
     "luecke": "Oyuncak ayı",
     "gloss": "Oyuncak ayı yatak·ta, çocuk yer·de. | Spielzeug Bär Bett·LOK, Kind Boden·LOK",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_02.mp3?v=881d9785"
    },
    "zeit": {
@@ -6469,12 +6857,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "yaramaz·lık yap·mak | frech·Abstr. machen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Küçük yaramazlık yaptı, kedi de ortak.",
     "de": "Der Kleine hat Unsinn angestellt, die Katze war Komplizin.",
     "luecke": "yaramazlık yaptı",
     "gloss": "Küçük yaramaz·lık yap·tı, kedi de ortak. | klein frech·Abstr. machen·VERG, Katze auch Partner",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_03.mp3?v=404403de"
    },
    "zeit": {
@@ -6503,12 +6893,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kucağ·ı·na al·mak | Schoß·sein·DAT nehmen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ağlayınca kucağıma aldım, hemen sustu.",
     "de": "Als er weinte, nahm ich ihn auf den Arm, sofort war er still.",
     "luecke": "kucağıma aldım",
     "gloss": "Ağla·yınca kucağ·ım·a al·dı·m, hemen sus·tu. | weinen·SOBALD Schoß·mein·DAT nehmen·VERG·1SG, sofort schweigen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_04.mp3?v=ec215cb8"
    },
    "zeit": null,
@@ -6526,12 +6918,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bebek | Baby",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Komşunun bebeği doğdu, bütün apartman bakmaya gitti.",
     "de": "Das Baby der Nachbarin ist geboren, das ganze Haus ging es ansehen.",
     "luecke": "bebeği",
     "gloss": "Komşu·nun bebeğ·i doğ·du, bütün apartman bak·ma·ya git·ti. | Nachbar·GEN Baby·sein geboren.werden·VERG, ganz Wohnhaus schauen·INF·DAT gehen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_05.mp3?v=b0ba1a77"
    },
    "zeit": null,
@@ -6549,12 +6943,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gülümse·mek | lächeln·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bebek bana gülümsedi, günüm kurtuldu.",
     "de": "Das Baby hat mich angelächelt, mein Tag ist gerettet.",
     "luecke": "gülümsedi",
     "gloss": "Bebek ban·a gülümse·di, gün·üm kurt·ul·du. | Baby ich·DAT lächeln·VERG, Tag·mein retten·PASS·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_06.mp3?v=ade77ef0"
    },
    "zeit": null,
@@ -6572,12 +6968,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "büyü·mek | groß.werden·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Çocuklar çabuk büyüyor, pantolonlar yetişmiyor.",
     "de": "Kinder werden schnell groß, die Hosen kommen nicht hinterher.",
     "luecke": "büyüyor",
     "gloss": "Çocuk·lar çabuk büyü·yor, pantolon·lar yetiş·mi·yor. | Kind·PL schnell groß.werden·PRÄS, Hose·PL hinterherkommen·NEG·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_07.mp3?v=5794adab"
    },
    "zeit": {
@@ -6606,12 +7004,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "zor uyu·mak | schwer schlafen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Küçük zor uyuyor, her gece üç masal.",
     "de": "Der Kleine schläft schlecht ein, jede Nacht drei Märchen.",
     "luecke": "zor uyuyor",
     "gloss": "Küçük zor uyu·yor, her gece üç masal. | klein schwer schlafen·PRÄS, jeder Nacht drei Märchen",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_08.mp3?v=b7908e0b"
    },
    "zeit": {
@@ -6640,12 +7040,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bez | Windel",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bez değiştirdim, iki dakika sonra yine.",
     "de": "Ich habe die Windel gewechselt, zwei Minuten später wieder.",
     "luecke": "Bez",
     "gloss": "Bez değiştir·di·m, iki dakika sonra yine. | Windel wechseln·VERG·1SG, zwei Minute später wieder",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_09.mp3?v=4ec88893"
    },
    "zeit": null,
@@ -6663,12 +7065,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "uslu dur·mak | brav stehen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Uslu dur, teyzen geliyor.",
     "de": "Sei brav, deine Tante kommt.",
     "luecke": "Uslu dur",
     "gloss": "Uslu dur, teyze·n gel·iyor. | brav steh, Tante·dein kommen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_10.mp3?v=9fbb2277"
    },
    "zeit": null,
@@ -6686,12 +7090,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "saklambaç oyna·mak | Verstecken spielen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Saklambaç oynadık, kedi hep kazandı.",
     "de": "Wir haben Verstecken gespielt, die Katze hat immer gewonnen.",
     "luecke": "Saklambaç oynadık",
     "gloss": "Saklambaç oyna·dı·k, kedi hep kazan·dı. | Verstecken spielen·VERG·1PL, Katze immer gewinnen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_11.mp3?v=214628b9"
    },
    "zeit": null,
@@ -6709,12 +7115,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "masal oku·mak | Märchen lesen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Her akşam masal okuyorum, ben önce uyuyorum.",
     "de": "Jeden Abend lese ich ein Märchen vor, ich schlafe zuerst ein.",
     "luecke": "masal okuyorum",
     "gloss": "Her akşam masal oku·yor·um, ben önce uyu·yor·um. | jeder Abend Märchen lesen·PRÄS·1SG, ich zuerst schlafen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_12.mp3?v=150a1f2c"
    },
    "zeit": {
@@ -6743,12 +7151,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ağla·mak | weinen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ağlama, dondurma bitmedi, buzdolabında var.",
     "de": "Wein nicht, das Eis ist nicht alle, im Kühlschrank ist noch welches.",
     "luecke": "Ağlama",
     "gloss": "Ağla·ma, dondurma bit·me·di, buzdolab·ı·nda var. | weinen·NEG.IMP, Eis enden·NEG·VERG, Kühlschrank·sein·LOK vorhanden",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_13.mp3?v=9c3633d3"
    },
    "zeit": null,
@@ -6766,12 +7176,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sarıl·mak | umarmen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Eve gelince kızım sarılıyor, yorgunluk gidiyor.",
     "de": "Wenn ich heimkomme, umarmt mich meine Tochter, die Müdigkeit geht weg.",
     "luecke": "sarılıyor",
     "gloss": "Ev·e gel·ince kız·ım sarıl·ıyor, yorgun·luk gid·iyor. | Haus·DAT kommen·SOBALD Tochter·mein umarmen·PRÄS, müde·Abstr. gehen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_14.mp3?v=59e372c7"
    },
    "zeit": {
@@ -6800,12 +7212,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "yürü·me·yi öğren·mek | gehen·INF·AKK lernen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Oğlum yürümeyi öğrendi, artık hiçbir şey güvende değil.",
     "de": "Mein Sohn hat laufen gelernt, jetzt ist nichts mehr sicher.",
     "luecke": "yürümeyi öğrendi",
     "gloss": "Oğl·um yürü·me·yi öğren·di, artık hiçbir şey güven·de değil. | Sohn·mein gehen·INF·AKK lernen·VERG, nunmehr kein Ding Sicherheit·LOK nicht",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_15.mp3?v=1584b814"
    },
    "zeit": null,
@@ -6823,12 +7237,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gurur duy·mak | Stolz empfinden·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kızımla gurur duyuyorum, bugün ilk kez bisiklete bindi.",
     "de": "Ich bin stolz auf meine Tochter, heute ist sie zum ersten Mal Fahrrad gefahren.",
     "luecke": "gurur duyuyorum",
     "gloss": "Kız·ım·la gurur duy·uyor·um, bugün ilk kez bisiklet·e bin·di. | Tochter·mein·MIT Stolz empfinden·PRÄS·1SG, heute erst Mal Fahrrad·DAT aufsteigen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_16.mp3?v=48aaaae3"
    },
    "zeit": {
@@ -6857,12 +7273,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ilk kelime·ler | erst Wort·PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "İlk kelimesi « anne » değil, « kedi » oldu.",
     "de": "Sein erstes Wort war nicht « Mama », sondern « Katze ».",
     "luecke": "İlk kelimesi",
     "gloss": "İlk kelime·si « anne » değil, « kedi » ol·du. | erst Wort·sein « Mama » nicht, « Katze » werden·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_17.mp3?v=77716d7b"
    },
    "zeit": null,
@@ -6880,12 +7298,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sabır·lı ol·mak | Geduld·mit sein·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sabırlı ol, ayakkabıyı kendisi bağlayacak.",
     "de": "Hab Geduld, er wird den Schuh selbst binden.",
     "luecke": "Sabırlı ol",
     "gloss": "Sabır·lı ol, ayakkabı·yı kendi·si bağla·yacak. | Geduld·mit sei, Schuh·AKK selbst·sein binden·FUT",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_18.mp3?v=ff389f39"
    },
    "zeit": null,
@@ -6903,12 +7323,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ikindi kahvaltı·sı | Nachmittag Frühstück·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Okul çıkışı ikindi kahvaltısı: poğaça ve süt.",
     "de": "Nach der Schule der Nachmittagssnack: Poğaça und Milch.",
     "luecke": "ikindi kahvaltısı",
     "gloss": "Okul çık·ış·ı ikindi kahvaltı·sı: poğaça ve süt. | Schule herauskommen·Abstr.·sein Nachmittag Frühstück·sein: Poğaça und Milch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_19.mp3?v=1f072e0d"
    },
    "zeit": null,
@@ -6926,12 +7348,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kahkaha at·mak | Gelächter werfen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kedi kutuya girdi, çocuklar kahkaha attı.",
     "de": "Die Katze ist in die Kiste gestiegen, die Kinder haben schallend gelacht.",
     "luecke": "kahkaha attı",
     "gloss": "Kedi kutu·ya gir·di, çocuk·lar kahkaha at·tı. | Katze Kiste·DAT hineingehen·VERG, Kind·PL Gelächter werfen·VERG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_20.mp3?v=953848f0"
    },
    "zeit": null,
@@ -6949,12 +7373,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "öğle uyku·su | Mittag Schlaf·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Öğle uykusu kutsal, anaokulunda da, öğretmenler odasında da.",
     "de": "Der Mittagsschlaf ist heilig, im Kindergarten wie im Lehrerzimmer.",
     "luecke": "Öğle uykusu",
     "gloss": "Öğle uyku·su kutsal, anaokul·u·nda da, öğretmen·ler oda·sı·nda da. | Mittag Schlaf·sein heilig, Kindergarten·sein·LOK auch, Lehrer·PL Zimmer·sein·LOK auch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_21.mp3?v=86dfaf87"
    },
    "zeit": null,
@@ -6972,12 +7398,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "karanlık·tan kork·mak | Dunkelheit·ABL fürchten·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Karanlıktan korkuyor, gece lambası yanıyor.",
     "de": "Er hat Angst im Dunkeln, das Nachtlicht brennt.",
     "luecke": "Karanlıktan korkuyor",
     "gloss": "Karanlık·tan kork·uyor, gece lamba·sı yan·ıyor. | Dunkelheit·ABL fürchten·PRÄS, Nacht Lampe·sein brennen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_22.mp3?v=d87d154a"
    },
    "zeit": {
@@ -7006,12 +7434,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "banyo vakt·i | Bad Zeit·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Banyo vakti geldi, kedi kaçtı, çocuk da.",
     "de": "Die Badezeit ist da, die Katze ist geflohen, das Kind auch.",
     "luecke": "Banyo vakti",
     "gloss": "Banyo vakt·i gel·di, kedi kaç·tı, çocuk da. | Bad Zeit·sein kommen·VERG, Katze fliehen·VERG, Kind auch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_23.mp3?v=9d9890e4"
    },
    "zeit": null,
@@ -7029,12 +7459,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "çocuğ·unuz kaç yaş·ı·nda | Kind·Ihr wieviel Alter·sein·LOK",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Çocuğunuz kaç yaşında? – Beş, ama kendini on sanıyor.",
     "de": "Wie alt ist Ihr Kind? – Fünf, aber es hält sich für zehn.",
     "luecke": "kaç yaşında",
     "gloss": "Çocuğ·unuz kaç yaş·ı·nda? – Beş, ama kendi·ni on san·ıyor. | Kind·Ihr wieviel Alter·sein·LOK? – fünf, aber selbst·AKK zehn glauben·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/co_24.mp3?v=b48e3468"
    },
    "zeit": null,
@@ -7052,12 +7484,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bir dolap | ein Schrank",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bu dolap dolu, kazaklar yere.",
     "de": "Dieser Schrank ist voll, die Pullover kommen auf den Boden.",
     "luecke": "dolap",
     "gloss": "Bu dolap dolu, kazak·lar yer·e. | dies Schrank voll, Pullover·PL Boden·DAT",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_01.mp3?v=ea220789"
    },
    "zeit": null,
@@ -7075,12 +7509,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sıcak | heiß",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Çay sıcak, dikkat et.",
     "de": "Der Tee ist heiß, pass auf.",
     "luecke": "sıcak",
     "gloss": "Çay sıcak, dikkat et. | Tee heiß, Aufmerksamkeit mach",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_02.mp3?v=c9b1b0bd"
    },
    "zeit": {
@@ -7109,12 +7545,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tabak | Teller",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tabak boş, tütün yasak.",
     "de": "Der Teller ist leer, Tabak ist verboten.",
     "luecke": "Tabak",
     "gloss": "Tabak boş, tütün yasak. | Teller leer, Tabak verboten",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_03.mp3?v=4be75cdd"
    },
    "zeit": {
@@ -7143,12 +7581,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "sempatik | sympathisch",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yeni müdür sempatik, hem de ciddi.",
     "de": "Der neue Direktor ist sympathisch und dabei ernst.",
     "luecke": "sempatik",
     "gloss": "Yeni müdür sempatik, hem de ciddi. | neu Direktor sympathisch, und zugleich ernst",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_04.mp3?v=f15c30a1"
    },
    "zeit": {
@@ -7177,12 +7617,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kamera | Kamera",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sınıfta kamera var mı? – Yok, sadece kedi.",
     "de": "Ist eine Kamera im Klassenzimmer? – Nein, nur die Katze.",
     "luecke": "kamera",
     "gloss": "Sınıf·ta kamera var mı? – Yok, sadece kedi. | Klasse·LOK Kamera vorhanden FRAGE? – nicht.da, nur Katze",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_05.mp3?v=6c428a26"
    },
    "zeit": null,
@@ -7200,12 +7642,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "imza | Unterschrift",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Velinin imzası eksik, yine.",
     "de": "Die Unterschrift der Eltern fehlt, wieder.",
     "luecke": "imzası",
     "gloss": "Veli·nin imza·sı eksik, yine. | Erziehungsberechtigter·GEN Unterschrift·sein fehlend, wieder",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_06.mp3?v=0dd1f613"
    },
    "zeit": null,
@@ -7223,12 +7667,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kantin | Cafeteria",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kantinde tost var, sıra uzun.",
     "de": "In der Cafeteria gibt es Toast, die Schlange ist lang.",
     "luecke": "Kantinde",
     "gloss": "Kantin·de tost var, sıra uzun. | Cafeteria·LOK Toast vorhanden, Reihe lang",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_07.mp3?v=245fcfad"
    },
    "zeit": {
@@ -7257,12 +7703,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "çift·lik | Paar·Abstr.",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Çiftlikte hayvan var, fabrikada makine.",
     "de": "Auf dem Bauernhof gibt es Tiere, in der Fabrik Maschinen.",
     "luecke": "Çiftlikte",
     "gloss": "Çift·lik·te hayvan var, fabrika·da makine. | Paar·Abstr.·LOK Tier vorhanden, Fabrik·LOK Maschine",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_08.mp3?v=c742ee43"
    },
    "zeit": null,
@@ -7280,12 +7728,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "terbiye·li | Erziehung·mit",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Terbiyeli çocuk, ama sınıfta değil.",
     "de": "Ein wohlerzogenes Kind, aber nicht im Klassenzimmer.",
     "luecke": "Terbiyeli",
     "gloss": "Terbiye·li çocuk, ama sınıf·ta değil. | Erziehung·mit Kind, aber Klasse·LOK nicht",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_09.mp3?v=b43a4e62"
    },
    "zeit": null,
@@ -7303,12 +7753,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "ihtimal | Möglichkeit",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "İhtimal var mı? – Belki. Her zaman ihtimal var.",
     "de": "Gibt es eine Möglichkeit? – Vielleicht. Es gibt immer eine Möglichkeit.",
     "luecke": "İhtimal",
     "gloss": "İhtimal var mı? – Belki. Her zaman ihtimal var. | Möglichkeit vorhanden FRAGE? – vielleicht. jeder Zeit Möglichkeit vorhanden",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_10.mp3?v=07eaf24c"
    },
    "zeit": null,
@@ -7326,12 +7778,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "asl·ı·nda | Ursprung·sein·LOK",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Aslında yorgunum, ama şu anda iyiyim.",
     "de": "Eigentlich bin ich müde, aber im Moment geht es mir gut.",
     "luecke": "Aslında",
     "gloss": "Asl·ı·nda yorgun·um, ama şu an·da iyi·yim. | Ursprung·sein·LOK müde·1SG, aber dies Moment·LOK gut·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_11.mp3?v=9032ab39"
    },
    "zeit": null,
@@ -7349,12 +7803,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "kitap·çı | Buch·Täter",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kitapçıya gittim, kütüphaneye değil; parayı orada bıraktım.",
     "de": "Ich bin in die Buchhandlung gegangen, nicht in die Bibliothek; das Geld habe ich dort gelassen.",
     "luecke": "Kitapçıya",
     "gloss": "Kitap·çı·ya git·ti·m, kütüphane·ye değil; para·yı ora·da bırak·tı·m. | Buch·Täter·DAT gehen·VERG·1SG, Bibliothek·DAT nicht; Geld·AKK dort·LOK lassen·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_12.mp3?v=4329a9a3"
    },
    "zeit": null,
@@ -7372,12 +7828,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "katıl·mak | teilnehmen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Toplantıya katıldım, yardım etmedim.",
     "de": "Ich habe an der Sitzung teilgenommen, geholfen habe ich nicht.",
     "luecke": "katıldım",
     "gloss": "Toplantı·ya katıl·dı·m, yardım et·me·di·m. | Sitzung·DAT teilnehmen·VERG·1SG, Hilfe machen·NEG·VERG·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_13.mp3?v=230baf1e"
    },
    "zeit": null,
@@ -7395,12 +7853,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "iddia et·mek | Behauptung machen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Kedi hasta numarası yapıyor, ben iddia ediyorum.",
     "de": "Die Katze spielt krank, das behaupte ich.",
     "luecke": "iddia ediyorum",
     "gloss": "Kedi hasta numara·sı yap·ıyor, ben iddia ed·iyor·um. | Katze krank Nummer·sein machen·PRÄS, ich Behauptung machen·PRÄS·1SG",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_14.mp3?v=26e232c1"
    },
    "zeit": null,
@@ -7418,12 +7878,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "hassas | empfindlich",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Çok hassas bir öğrenci, ama mantıklı.",
     "de": "Ein sehr empfindsamer Schüler, aber vernünftig.",
     "luecke": "hassas",
     "gloss": "Çok hassas bir öğrenci, ama mantık·lı. | sehr empfindlich ein Schüler, aber Logik·mit",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_15.mp3?v=d898d19d"
    },
    "zeit": null,
@@ -7441,12 +7903,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "akraba·lar | Verwandter·PL",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bayramda akrabalar geliyor, anne babam kaçıyor.",
     "de": "Am Feiertag kommen die Verwandten, meine Eltern fliehen.",
     "luecke": "akrabalar",
     "gloss": "Bayram·da akraba·lar gel·iyor, anne baba·m kaç·ıyor. | Fest·LOK Verwandter·PL kommen·PRÄS, Mutter Vater·mein fliehen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_16.mp3?v=ddb1cc36"
    },
    "zeit": {
@@ -7475,12 +7939,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "gürültü | Lärm",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Koridorda gürültü var, söylenti de.",
     "de": "Im Flur ist Lärm, Gerüchte gibt es auch.",
     "luecke": "gürültü",
     "gloss": "Koridor·da gürültü var, söylenti de. | Flur·LOK Lärm vorhanden, Gerücht auch",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_17.mp3?v=9332e59a"
    },
    "zeit": {
@@ -7509,12 +7975,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "oda | Zimmer",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Odam küçük, penceresi Boğaz'a bakıyor.",
     "de": "Mein Zimmer ist klein, sein Fenster geht auf den Bosporus.",
     "luecke": "Odam",
     "gloss": "Oda·m küçük, pencere·si Boğaz·'a bak·ıyor. | Zimmer·mein klein, Fenster·sein Bosporus·DAT schauen·PRÄS",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_18.mp3?v=bb6c9817"
    },
    "zeit": null,
@@ -7532,12 +8000,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "karış·ık·lık | mischen·ADJ·Abstr.",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sınıfta karışıklık var, kumarhane değil ama.",
     "de": "In der Klasse herrscht Durcheinander, aber ein Casino ist es nicht.",
     "luecke": "karışıklık",
     "gloss": "Sınıf·ta karış·ık·lık var, kumarhane değil ama. | Klasse·LOK mischen·ADJ·Abstr. vorhanden, Spielhaus nicht aber",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_19.mp3?v=24f1fddd"
    },
    "zeit": null,
@@ -7555,12 +8025,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "tere·yağ·ı | Kresse·Fett·sein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tereyağı bitti, ekmek kuru.",
     "de": "Die Butter ist alle, das Brot ist trocken.",
     "luecke": "Tereyağı",
     "gloss": "Tere·yağ·ı bit·ti, ekmek kuru. | Kresse·Fett·sein enden·VERG, Brot trocken",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_20.mp3?v=cd6bc5a0"
    },
    "zeit": {
@@ -7589,12 +8061,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "çık·mak | herauskommen·INF",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Merdivenden çıktım, nefesim kaldı aşağıda.",
     "de": "Ich bin die Treppe hinaufgestiegen, mein Atem ist unten geblieben.",
     "luecke": "çıktım",
     "gloss": "Merdiven·den çık·tı·m, nefes·im kal·dı aşağı·da. | Treppe·ABL herauskommen·VERG·1SG, Atem·mein bleiben·VERG unten·LOK",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_21.mp3?v=72c58d03"
    },
    "zeit": null,
@@ -7612,12 +8086,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "geniş | breit",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cadde geniş, sınıf dar.",
     "de": "Die Straße ist breit, das Klassenzimmer eng.",
     "luecke": "geniş",
     "gloss": "Cadde geniş, sınıf dar. | Straße breit, Klasse eng",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_22.mp3?v=30962b1e"
    },
    "zeit": {
@@ -7646,12 +8122,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "bacak | Bein",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bacağım ağrıyor, karides değil.",
     "de": "Mein Bein tut weh, Garnele ist es keine.",
     "luecke": "Bacağım",
     "gloss": "Bacağ·ım ağrı·yor, karides değil. | Bein·mein schmerzen·PRÄS, Garnele nicht",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_23.mp3?v=e3835f56"
    },
    "zeit": null,
@@ -7669,12 +8147,14 @@ window.SPRACHEN["tr-de"] = {
    "gloss": "affedersiniz, kütüphane·yi ar·ıyor·um | entschuldigen.Sie, Bibliothek·AKK suchen·PRÄS·1SG",
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Affedersiniz, kütüphaneyi arıyorum. – Kitapçı mı? – Hayır, kütüphane.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek.",
     "luecke": "Affedersiniz",
     "gloss": "Affedersiniz, kütüphane·yi ar·ıyor·um. – Kitapçı mı? – Hayır, kütüphane. | entschuldigen.Sie, Bibliothek·AKK suchen·PRÄS·1SG. – Buchhandlung FRAGE? – nein, Bibliothek",
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/tr-de/saetze/sd_24.mp3?v=f8266d02"
    },
    "zeit": null,

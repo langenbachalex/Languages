@@ -632,12 +632,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta tarde corrijo testes do sétimo ano.",
     "de": "Heute Nachmittag korrigiere ich Arbeiten der Siebten.",
     "luecke": "corrijo testes",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -666,12 +668,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estou de rastos, e ainda é quarta-feira.",
     "de": "Ich bin fix und fertig, und es ist erst Mittwoch.",
     "luecke": "de rastos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -700,12 +704,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Então, como é que correu a aula com o nono ano?",
     "de": "Na, wie ist die Stunde mit der Neunten gelaufen?",
     "luecke": "como é que correu",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -723,12 +729,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dou aulas de alemão há doze anos.",
     "de": "Ich unterrichte seit zwölf Jahren Deutsch.",
     "luecke": "Dou aulas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -757,12 +765,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No intervalo bebo uma bica na sala dos professores.",
     "de": "In der Pause trinke ich einen Espresso im Lehrerzimmer.",
     "luecke": "No intervalo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -791,12 +801,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenho vontade de ir para casa. Já.",
     "de": "Ich habe Lust, nach Hause zu gehen. Sofort.",
     "luecke": "Tenho vontade de",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -825,12 +837,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estou farto de reuniões que podiam ser um e-mail.",
     "de": "Ich habe genug von Besprechungen, die eine E-Mail hätten sein können.",
     "luecke": "farto de",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -859,12 +873,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Custa-me acordar às seis e meia.",
     "de": "Es fällt mir schwer, um halb sieben aufzuwachen.",
     "luecke": "Custa-me",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -893,12 +909,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Olá, Tiago! Há quanto tempo!",
     "de": "Hallo Tiago! Lange nicht gesehen!",
     "luecke": "Há quanto tempo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -916,12 +934,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenho trinta testes, ou seja, o fim de semana acabou.",
     "de": "Ich habe dreißig Arbeiten, das heißt, das Wochenende ist vorbei.",
     "luecke": "ou seja",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -939,12 +959,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Afinal a reunião foi cancelada. Que pena!",
     "de": "Die Besprechung wurde am Ende doch abgesagt. Wie schade!",
     "luecke": "Afinal",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -962,12 +984,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "De qualquer forma, amanhã já é sexta.",
     "de": "Jedenfalls ist morgen schon Freitag.",
     "luecke": "De qualquer forma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -985,12 +1009,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Vale a pena explicar outra vez. Devagar.",
     "de": "Es lohnt sich, es noch mal zu erklären. Langsam.",
     "luecke": "Vale a pena",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1019,12 +1045,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Não há fotocopiadora? Eu desenrasco-me.",
     "de": "Es gibt keinen Kopierer? Ich behelfe mich irgendwie.",
     "luecke": "desenrasco-me",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1053,12 +1081,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoje estou a mil: cinco aulas seguidas.",
     "de": "Heute bin ich auf Hochtouren: fünf Stunden am Stück.",
     "luecke": "estou a mil",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1087,12 +1117,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Amanhã entrego os testes. Corrigidos, espero.",
     "de": "Morgen gebe ich die Arbeiten zurück. Korrigiert, hoffe ich.",
     "luecke": "entrego os testes",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1121,12 +1153,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Temos reunião às cinco. Outra vez.",
     "de": "Wir haben um fünf Konferenz. Schon wieder.",
     "luecke": "reunião",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1155,12 +1189,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esqueceste-te do livro? Não faz mal.",
     "de": "Du hast das Buch vergessen? Macht nichts.",
     "luecke": "Não faz mal",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1178,12 +1214,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tem calma, ainda temos dez minutos.",
     "de": "Immer mit der Ruhe, wir haben noch zehn Minuten.",
     "luecke": "Tem calma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1201,12 +1239,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Na sala dos professores há sempre café. E bolachas.",
     "de": "Im Lehrerzimmer gibt es immer Kaffee. Und Kekse.",
     "luecke": "sala dos professores",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1235,12 +1275,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Os meus alunos são simpáticos. Às vezes.",
     "de": "Meine Schüler sind nett. Manchmal.",
     "luecke": "Os meus alunos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1269,12 +1311,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estou atrasado para a aula! Outra vez!",
     "de": "Ich bin spät dran für die Stunde! Schon wieder!",
     "luecke": "atrasado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1303,12 +1347,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pronto, vamos lá começar.",
     "de": "Gut, dann fangen wir mal an.",
     "luecke": "Pronto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1326,12 +1372,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Desculpe, senhora diretora, podia repetir, por favor?",
     "de": "Entschuldigung, Frau Direktorin, könnten Sie das bitte wiederholen?",
     "luecke": "podia repetir",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1349,12 +1397,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta canção toca-me sempre que a ouço.",
     "de": "Dieses Lied berührt mich jedes Mal, wenn ich es höre.",
     "luecke": "toca-me",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1383,12 +1433,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoje estou em baixo. É do tempo.",
     "de": "Heute bin ich niedergeschlagen. Das liegt am Wetter.",
     "luecke": "em baixo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1417,12 +1469,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenho saudades do mar quando estou em Berlim.",
     "de": "Ich vermisse das Meer, wenn ich in Berlin bin.",
     "luecke": "Tenho saudades do mar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1451,12 +1505,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O quadro é sombrio, mas há uma luz no canto.",
     "de": "Das Bild ist düster, aber in der Ecke gibt es ein Licht.",
     "luecke": "sombrio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1474,12 +1530,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Os domingos à tarde são melancólicos.",
     "de": "Sonntagnachmittage sind melancholisch.",
     "luecke": "melancólicos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1497,12 +1555,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Parte-me o coração ver o gato à chuva.",
     "de": "Es bricht mir das Herz, die Katze im Regen zu sehen.",
     "luecke": "Parte-me o coração",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1531,12 +1591,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estou comovido. Os alunos lembraram-se do meu aniversário.",
     "de": "Ich bin gerührt. Die Schüler haben an meinen Geburtstag gedacht.",
     "luecke": "comovido",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1565,12 +1627,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O silêncio da turma é inquietante.",
     "de": "Die Stille der Klasse ist beunruhigend.",
     "luecke": "inquietante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1588,12 +1652,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O barulho das ondas é muito relaxante.",
     "de": "Das Rauschen der Wellen ist sehr entspannend.",
     "luecke": "relaxante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1611,12 +1677,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando ouço fado, vêm-me as lágrimas aos olhos.",
     "de": "Wenn ich Fado höre, kommen mir die Tränen.",
     "luecke": "vêm-me as lágrimas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1645,12 +1713,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Com esta música fico com pele de galinha.",
     "de": "Bei dieser Musik bekomme ich Gänsehaut.",
     "luecke": "pele de galinha",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1679,12 +1749,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu gato tem medo do aspirador.",
     "de": "Meine Katze hat Angst vor dem Staubsauger.",
     "luecke": "tem medo do",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1713,12 +1785,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoje o diretor está bem-disposto. Aproveita!",
     "de": "Heute ist der Direktor gut gelaunt. Nutz das aus!",
     "luecke": "bem-disposto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1747,12 +1821,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenho o coração apertado antes da reunião de pais.",
     "de": "Mir ist beklommen vor dem Elternabend.",
     "luecke": "coração apertado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1781,12 +1857,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O fim do filme é comovente.",
     "de": "Das Ende des Films ist bewegend.",
     "luecke": "comovente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1804,12 +1882,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sinto-me bem em Lisboa, mesmo com as colinas.",
     "de": "Ich fühle mich wohl in Lissabon, trotz der Hügel.",
     "luecke": "Sinto-me bem",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1838,12 +1918,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Fico contente quando um aluno percebe à primeira.",
     "de": "Ich freue mich, wenn ein Schüler es beim ersten Mal versteht.",
     "luecke": "Fico contente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1872,12 +1954,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O claro-escuro deste quadro é magnífico.",
     "de": "Das Helldunkel dieses Bildes ist großartig.",
     "luecke": "claro-escuro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1895,12 +1979,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A aldeia da minha avó é muito sossegada.",
     "de": "Das Dorf meiner Großmutter ist sehr ruhig.",
     "luecke": "sossegada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1918,12 +2004,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esperar pelos resultados é angustiante.",
     "de": "Auf die Ergebnisse zu warten ist beklemmend.",
     "luecke": "angustiante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1941,12 +2029,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenho pena do Tiago: tem trinta testes.",
     "de": "Tiago tut mir leid: Er hat dreißig Arbeiten.",
     "luecke": "Tenho pena do Tiago",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -1975,12 +2065,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Lamento, não posso ir ao jantar.",
     "de": "Es tut mir leid, ich kann nicht zum Abendessen kommen.",
     "luecke": "Lamento",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -1998,12 +2090,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O fado tem uma tristeza bonita.",
     "de": "Der Fado hat eine schöne Traurigkeit.",
     "luecke": "uma tristeza bonita",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2021,12 +2115,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Os meus sentimentos, senhora Fernanda.",
     "de": "Mein Beileid, Frau Fernanda.",
     "luecke": "Os meus sentimentos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2044,12 +2140,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu gato ronrona mal me sento.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "ronrona",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2078,12 +2176,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faço festas ao gato e ele fecha os olhos.",
     "de": "Ich streichle die Katze und sie schließt die Augen.",
     "luecke": "Faço festas ao gato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2112,12 +2212,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Às seis da manhã, o gato pede mimos. Com a pata.",
     "de": "Um sechs Uhr morgens will die Katze gestreichelt werden. Mit der Pfote.",
     "luecke": "pede mimos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2146,12 +2248,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato arranhou o sofá novo. Claro.",
     "de": "Die Katze hat das neue Sofa zerkratzt. Natürlich.",
     "luecke": "arranhou",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2180,12 +2284,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato lava-se depois de comer.",
     "de": "Die Katze putzt sich nach dem Fressen.",
     "luecke": "lava-se",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2214,12 +2320,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato mia à porta da cozinha.",
     "de": "Die Katze miaut an der Küchentür.",
     "luecke": "mia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2248,12 +2356,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu gato tem sempre fome. Sempre.",
     "de": "Meine Katze hat immer Hunger. Immer.",
     "luecke": "tem sempre fome",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2282,12 +2392,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato afia as unhas no tapete.",
     "de": "Die Katze wetzt die Krallen am Teppich.",
     "luecke": "afia as unhas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2316,12 +2428,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato é um pequeno felino com grandes ideias.",
     "de": "Die Katze ist eine kleine Raubkatze mit großen Ideen.",
     "luecke": "felino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2339,12 +2453,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Depois do almoço, o gato dorme a sesta. Eu também.",
     "de": "Nach dem Mittagessen hält die Katze Mittagsschlaf. Ich auch.",
     "luecke": "dorme a sesta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2373,12 +2489,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato roça-se nas minhas pernas quando chego.",
     "de": "Die Katze reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "roça-se nas minhas pernas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2407,12 +2525,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A ração está no armário de cima.",
     "de": "Das Trockenfutter steht im oberen Schrank.",
     "luecke": "A ração",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2430,12 +2550,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ele só come comida húmida. Tem gosto caro.",
     "de": "Er frisst nur Nassfutter. Er hat einen teuren Geschmack.",
     "luecke": "comida húmida",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2464,12 +2586,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato tem um olhar que diz tudo.",
     "de": "Die Katze hat einen Blick, der alles sagt.",
     "luecke": "tem um olhar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2487,12 +2611,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato salta para a mesa como se fosse dono dela.",
     "de": "Die Katze springt auf den Tisch, als ob er ihr gehörte.",
     "luecke": "salta para a mesa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2521,12 +2647,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando vem visita, o gato esconde-se debaixo da cama.",
     "de": "Wenn Besuch kommt, versteckt sich die Katze unter dem Bett.",
     "luecke": "esconde-se",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2555,12 +2683,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato faz-me companhia quando corrijo testes.",
     "de": "Die Katze leistet mir Gesellschaft, wenn ich Arbeiten korrigiere.",
     "luecke": "faz-me companhia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2589,12 +2719,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Em Lisboa há gatos vadios em cada escadinha.",
     "de": "In Lissabon gibt es Streunerkatzen auf jeder Treppengasse.",
     "luecke": "gatos vadios",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2612,12 +2744,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gatinho passa o dia a fazer asneiras.",
     "de": "Das Kätzchen treibt den ganzen Tag Unfug.",
     "luecke": "a fazer asneiras",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2646,12 +2780,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Amanhã o gato vai ao veterinário. Ainda não sabe.",
     "de": "Morgen geht die Katze zum Tierarzt. Sie weiß es noch nicht.",
     "luecke": "veterinário",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2680,12 +2816,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O gato está-se nas tintas para as minhas regras.",
     "de": "Die Katze schert sich nicht um meine Regeln.",
     "luecke": "está-se nas tintas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2714,12 +2852,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Os gatos são independentes, exceto à hora de comer.",
     "de": "Katzen sind unabhängig, außer zur Essenszeit.",
     "luecke": "independentes",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2737,12 +2877,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quem limpa a caixa de areia hoje?",
     "de": "Wer macht heute das Katzenklo sauber?",
     "luecke": "caixa de areia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2771,12 +2913,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A senhora tem gato? Parece-me ver pelos no casaco.",
     "de": "Haben Sie eine Katze? Ich glaube, Haare auf Ihrem Mantel zu sehen.",
     "luecke": "A senhora tem gato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2794,12 +2938,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu irmão canta afinado; eu canto com o coração.",
     "de": "Mein Bruder singt sauber; ich singe mit dem Herzen.",
     "luecke": "canta afinado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2828,12 +2974,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando canto no duche, desafino. O gato sai da casa de banho.",
     "de": "Wenn ich unter der Dusche singe, singe ich falsch. Die Katze verlässt das Bad.",
     "luecke": "desafino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2862,12 +3010,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Toda a turma canta o refrão. Ninguém sabe as estrofes.",
     "de": "Die ganze Klasse singt den Refrain. Niemand kennt die Strophen.",
     "luecke": "o refrão",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2896,12 +3046,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Não percebo a letra, mas adoro a canção.",
     "de": "Ich verstehe den Text nicht, aber ich liebe das Lied.",
     "luecke": "a letra",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -2930,12 +3082,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Diz outra vez: soa muito bem!",
     "de": "Sag es noch mal: Das klingt sehr gut!",
     "luecke": "soa muito bem",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2953,12 +3107,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A Rita tem ouvido: canta qualquer coisa depois de a ouvir uma vez.",
     "de": "Rita hat ein gutes Gehör: Sie singt alles nach, nachdem sie es einmal gehört hat.",
     "luecke": "tem ouvido",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2976,12 +3132,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenho sotaque alemão, mas os portugueses acham giro.",
     "de": "Ich habe einen deutschen Akzent, aber die Portugiesen finden das süß.",
     "luecke": "sotaque",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -2999,12 +3157,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Os portugueses engolem as vogais. Por isso parecem russos.",
     "de": "Die Portugiesen verschlucken die Vokale. Deshalb klingen sie wie Russen.",
     "luecke": "engolem as vogais",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3022,12 +3182,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Gosto da música da língua antes de perceber as palavras.",
     "de": "Ich mag die Melodie der Sprache, bevor ich die Wörter verstehe.",
     "luecke": "música da língua",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3045,12 +3207,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ele toca guitarra portuguesa numa casa de fados.",
     "de": "Er spielt portugiesische Gitarre in einem Fado-Lokal.",
     "luecke": "toca guitarra",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3079,12 +3243,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta semana oiço a mesma canção em repetição.",
     "de": "Diese Woche höre ich dasselbe Lied in Dauerschleife.",
     "luecke": "em repetição",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3113,12 +3279,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta canção não me sai da cabeça.",
     "de": "Dieses Lied geht mir nicht aus dem Kopf.",
     "luecke": "não me sai da cabeça",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3147,12 +3315,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cantarolo enquanto faço o jantar.",
     "de": "Ich summe vor mich hin, während ich das Abendessen mache.",
     "luecke": "Cantarolo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3181,12 +3351,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O ritmo do português é rápido. Mesmo muito rápido.",
     "de": "Der Rhythmus des Portugiesischen ist schnell. Wirklich sehr schnell.",
     "luecke": "O ritmo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3204,12 +3376,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Na pergunta, a entoação sobe no fim.",
     "de": "In der Frage steigt die Satzmelodie am Ende.",
     "luecke": "a entoação",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3227,12 +3401,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Como se pronuncia « pão »? Pelo nariz.",
     "de": "Wie spricht man „pão“ aus? Durch die Nase.",
     "luecke": "pronuncia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3250,12 +3426,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Toco uma peça de piano no concerto da escola.",
     "de": "Ich spiele ein Klavierstück beim Schulkonzert.",
     "luecke": "uma peça",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3284,12 +3462,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cantámos o hino a plenos pulmões.",
     "de": "Wir haben die Hymne aus voller Kehle gesungen.",
     "luecke": "a plenos pulmões",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3307,12 +3487,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O Tiago tem uma voz grave; ao telefone parece um locutor.",
     "de": "Tiago hat eine tiefe Stimme; am Telefon klingt er wie ein Radiosprecher.",
     "luecke": "uma voz grave",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3330,12 +3512,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sei a letra de cor, mas só no duche.",
     "de": "Ich kann den Text auswendig, aber nur unter der Dusche.",
     "luecke": "de cor",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3364,12 +3548,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando estou nervoso, troco as palavras.",
     "de": "Wenn ich nervös bin, verwechsle ich die Wörter.",
     "luecke": "troco as palavras",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3398,12 +3584,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cantar faz-me bem, mesmo desafinado.",
     "de": "Singen tut mir gut, auch wenn ich falsch singe.",
     "luecke": "faz-me bem",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3432,12 +3620,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O português do Brasil é uma língua cantada; o de Portugal é mais fechado.",
     "de": "Das brasilianische Portugiesisch ist eine melodische Sprache; das aus Portugal ist verschlossener.",
     "luecke": "língua cantada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3455,12 +3645,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Desculpe, podia falar mais devagar? Sou alemão.",
     "de": "Entschuldigung, könnten Sie langsamer sprechen? Ich bin Deutscher.",
     "luecke": "falar mais devagar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3478,12 +3670,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Era uma vez um professor que nunca corrigia testes. É um conto de fadas.",
     "de": "Es war einmal ein Lehrer, der nie Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "Era uma vez",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3501,12 +3695,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Antes de dormir, conto uma história à minha sobrinha.",
     "de": "Vor dem Schlafen erzähle ich meiner Nichte eine Geschichte.",
     "luecke": "conto uma história",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3535,12 +3731,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A demanda do Graal começa num mosteiro.",
     "de": "Die Gralssuche beginnt in einem Kloster.",
     "luecke": "A demanda",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3558,12 +3756,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No coração da floresta vive um lobo que fala.",
     "de": "Tief im Wald lebt ein Wolf, der spricht.",
     "luecke": "No coração da floresta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3592,12 +3792,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O dragão guarda o tesouro há mil anos.",
     "de": "Der Drache bewacht den Schatz seit tausend Jahren.",
     "luecke": "O dragão",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3626,12 +3828,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O herói tira a espada da pedra.",
     "de": "Der Held zieht das Schwert aus dem Stein.",
     "luecke": "a espada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3660,12 +3864,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A bruxa lança um feitiço sobre o castelo.",
     "de": "Die Hexe belegt das Schloss mit einem Zauber.",
     "luecke": "um feitiço",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3694,12 +3900,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "De repente, a porta abre-se sozinha.",
     "de": "Plötzlich öffnet sich die Tür von selbst.",
     "luecke": "De repente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3728,12 +3936,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sabes guardar um segredo? Eu não.",
     "de": "Kannst du ein Geheimnis bewahren? Ich nicht.",
     "luecke": "guardar um segredo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3751,12 +3961,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Era um reino pequeno, à beira do mar.",
     "de": "Es war ein kleines Königreich am Rand des Meeres.",
     "luecke": "um reino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3774,12 +3986,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A bruxa da história é simpática. Faz bolos.",
     "de": "Die Hexe in der Geschichte ist nett. Sie backt Kuchen.",
     "luecke": "A bruxa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3797,12 +4011,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "À meia-noite, o príncipe transforma-se em sapo.",
     "de": "Um Mitternacht verwandelt sich der Prinz in einen Frosch.",
     "luecke": "transforma-se em sapo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3831,12 +4047,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dizem que o rei voltará numa manhã de nevoeiro.",
     "de": "Man sagt, der König werde an einem nebligen Morgen zurückkehren.",
     "luecke": "numa manhã de nevoeiro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3854,12 +4072,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O herói tem medo, mas avança.",
     "de": "Der Held hat Angst, aber er geht weiter.",
     "luecke": "O herói",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3888,12 +4108,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O vilão é sempre o mais interessante.",
     "de": "Der Bösewicht ist immer der Interessanteste.",
     "luecke": "O vilão",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3911,12 +4133,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Encontrámos um mapa do tesouro no sótão.",
     "de": "Wir haben auf dem Dachboden eine Schatzkarte gefunden.",
     "luecke": "mapa do tesouro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -3934,12 +4158,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Diz-se que há um túnel debaixo do castelo.",
     "de": "Man sagt, es gibt einen Tunnel unter der Burg.",
     "luecke": "Diz-se que",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -3968,12 +4194,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O mapa desaparece todas as noites às três.",
     "de": "Die Karte verschwindet jede Nacht um drei.",
     "luecke": "desaparece",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4002,12 +4230,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando sai a continuação? Não aguento mais!",
     "de": "Wann kommt die Fortsetzung raus? Ich halte es nicht mehr aus!",
     "luecke": "a continuação",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4025,12 +4255,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Li o último capítulo com o coração nas mãos.",
     "de": "Ich habe das letzte Kapitel mit klopfendem Herzen gelesen.",
     "luecke": "com o coração nas mãos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4048,12 +4280,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Arrepio-me quando a porta range.",
     "de": "Ich erschauere, wenn die Tür knarrt.",
     "luecke": "Arrepio-me",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4082,12 +4316,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Há uma reviravolta no último capítulo. Não digo mais nada.",
     "de": "Es gibt eine Wendung im letzten Kapitel. Mehr sage ich nicht.",
     "luecke": "uma reviravolta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4116,12 +4352,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O desfecho surpreendeu toda a gente.",
     "de": "Das Ende hat alle überrascht.",
     "luecke": "O desfecho",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4139,12 +4377,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bom dia, podia recomendar-me um livro para a minha filha?",
     "de": "Guten Tag, könnten Sie mir ein Buch für meine Tochter empfehlen?",
     "luecke": "recomendar-me um livro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4162,12 +4402,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Treino três vezes por semana. Duas, para ser sincero.",
     "de": "Ich trainiere dreimal pro Woche. Zweimal, um ehrlich zu sein.",
     "luecke": "Treino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4196,12 +4438,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O mestre dá um pontapé à altura da cabeça. Com setenta anos.",
     "de": "Der Meister tritt auf Kopfhöhe. Mit siebzig Jahren.",
     "luecke": "um pontapé",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4230,12 +4474,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No kung fu, o murro começa nos pés.",
     "de": "Beim Kung-Fu beginnt der Faustschlag in den Füßen.",
     "luecke": "o murro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4253,12 +4499,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A flexibilidade vem com o tempo. Muito tempo.",
     "de": "Die Beweglichkeit kommt mit der Zeit. Viel Zeit.",
     "luecke": "A flexibilidade",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4276,12 +4524,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Na luta, o importante é manter a calma.",
     "de": "Im Kampf ist das Wichtigste, ruhig zu bleiben.",
     "luecke": "manter a calma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4310,12 +4560,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Antes de treinar, aquecemos dez minutos.",
     "de": "Vor dem Training wärmen wir uns zehn Minuten auf.",
     "luecke": "aquecemos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4344,12 +4596,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoje estou todo dorido. Até me doem as sobrancelhas.",
     "de": "Heute habe ich überall Muskelkater. Sogar die Augenbrauen tun mir weh.",
     "luecke": "todo dorido",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4378,12 +4632,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Desde que faço kung fu, estou em forma.",
     "de": "Seit ich Kung-Fu mache, bin ich in Form.",
     "luecke": "em forma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4412,12 +4668,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenho de aguentar a posição do cavalo dois minutos.",
     "de": "Ich muss die Pferdestellung zwei Minuten halten.",
     "luecke": "aguentar a posição",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4446,12 +4704,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tudo começa na respiração.",
     "de": "Alles beginnt mit der Atmung.",
     "luecke": "na respiração",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4469,12 +4729,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu mestre fala pouco e vê tudo.",
     "de": "Mein Meister spricht wenig und sieht alles.",
     "luecke": "O meu mestre",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4492,12 +4754,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta semana aprendo uma sequência nova.",
     "de": "Diese Woche lerne ich eine neue Form.",
     "luecke": "uma sequência",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4526,12 +4790,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Desvio-me do murro no último segundo.",
     "de": "Ich weiche dem Faustschlag in letzter Sekunde aus.",
     "luecke": "Desvio-me",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4560,12 +4826,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Suo como se estivesse na praia em agosto.",
     "de": "Ich schwitze, als wäre ich im August am Strand.",
     "luecke": "Suo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4594,12 +4862,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuidado com o joelho, não te lesiones!",
     "de": "Pass auf dein Knie auf, verletz dich nicht!",
     "luecke": "não te lesiones",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4628,12 +4898,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Depois do treino, alongamos devagar.",
     "de": "Nach dem Training dehnen wir uns langsam.",
     "luecke": "alongamos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4662,12 +4934,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Espera, tenho de recuperar o fôlego.",
     "de": "Warte, ich muss erst wieder zu Atem kommen.",
     "luecke": "recuperar o fôlego",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4685,12 +4959,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Numa só perna, não tenho equilíbrio nenhum.",
     "de": "Auf einem Bein habe ich überhaupt kein Gleichgewicht.",
     "luecke": "não tenho equilíbrio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4708,12 +4984,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ao domingo vou correr à beira-rio.",
     "de": "Sonntags gehe ich am Fluss laufen.",
     "luecke": "vou correr",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4742,12 +5020,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Passei para a faixa amarela!",
     "de": "Ich habe den gelben Gürtel geschafft!",
     "luecke": "a faixa amarela",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4765,12 +5045,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faço progressos lentos, mas faço.",
     "de": "Ich mache langsame Fortschritte, aber ich mache welche.",
     "luecke": "Faço progressos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4799,12 +5081,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No exame de faixa, superei-me.",
     "de": "Bei der Gürtelprüfung bin ich über mich hinausgewachsen.",
     "luecke": "superei-me",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4822,12 +5106,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O kung fu treina o corpo e a mente.",
     "de": "Kung-Fu trainiert Körper und Geist.",
     "luecke": "o corpo e a mente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4845,12 +5131,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Boa tarde, posso inscrever-me na aula de experiência?",
     "de": "Guten Tag, kann ich mich für die Probestunde anmelden?",
     "luecke": "inscrever-me",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4868,12 +5156,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tento comer de forma equilibrada. O pastel de nata não conta.",
     "de": "Ich versuche, ausgewogen zu essen. Das Pastel de nata zählt nicht.",
     "luecke": "comer de forma equilibrada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4902,12 +5192,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Durante a semana deito-me cedo. Às onze.",
     "de": "Unter der Woche gehe ich früh ins Bett. Um elf.",
     "luecke": "deito-me cedo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4936,12 +5228,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tens de te cuidar, andas muito cansado.",
     "de": "Du musst auf dich achten, du bist in letzter Zeit sehr müde.",
     "luecke": "te cuidar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -4959,12 +5253,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ao sábado faço as compras no mercado.",
     "de": "Samstags kaufe ich auf dem Markt ein.",
     "luecke": "faço as compras",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -4993,12 +5289,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu pai cozinha bacalhau de mil maneiras.",
     "de": "Mein Vater kocht Stockfisch auf tausend Arten.",
     "luecke": "cozinha",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5027,12 +5325,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O prato do dia é sopa e peixe grelhado.",
     "de": "Das Tagesgericht ist Suppe und gegrillter Fisch.",
     "luecke": "O prato do dia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5061,12 +5361,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Comi uma sandes para matar a fome.",
     "de": "Ich habe ein Sandwich gegessen, um den Hunger zu stillen.",
     "luecke": "matar a fome",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5084,12 +5386,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No Natal comemos à grande. Três dias.",
     "de": "An Weihnachten schlagen wir richtig zu. Drei Tage lang.",
     "luecke": "comemos à grande",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5118,12 +5422,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bom apetite! E não deixes nada no prato.",
     "de": "Guten Appetit! Und lass nichts auf dem Teller.",
     "luecke": "Bom apetite",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5141,12 +5447,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Na pastelaria da esquina conhecem-me pelo nome.",
     "de": "In der Konditorei an der Ecke kennen sie mich beim Namen.",
     "luecke": "Na pastelaria da esquina",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5164,12 +5472,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bebo dois litros de água por dia. Em teoria.",
     "de": "Ich trinke zwei Liter Wasser am Tag. Theoretisch.",
     "luecke": "Bebo dois litros de água",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5198,12 +5508,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "À tarde gosto de petiscar com os amigos.",
     "de": "Am Nachmittag esse ich gern Häppchen mit Freunden.",
     "luecke": "petiscar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5232,12 +5544,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Em casa da Ana, estou sempre à vontade.",
     "de": "Bei Ana zu Hause fühle ich mich immer wohl.",
     "luecke": "à vontade",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5266,12 +5580,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Vamos fazer uma pausa para um café?",
     "de": "Machen wir eine Kaffeepause?",
     "luecke": "fazer uma pausa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5289,12 +5605,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Depois da praia, durmo como uma pedra.",
     "de": "Nach dem Strand schlafe ich wie ein Stein.",
     "luecke": "durmo como uma pedra",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5323,12 +5641,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dormi nove horas: estou fresco como uma alface.",
     "de": "Ich habe neun Stunden geschlafen: Ich bin topfit.",
     "luecke": "fresco como uma alface",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5357,12 +5677,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Vou apanhar ar ao miradouro.",
     "de": "Ich gehe zum Aussichtspunkt, frische Luft schnappen.",
     "luecke": "apanhar ar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5391,12 +5713,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A receita da minha avó é segredo de Estado.",
     "de": "Das Rezept meiner Großmutter ist ein Staatsgeheimnis.",
     "luecke": "A receita",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5414,12 +5738,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Prova este queijo da Serra. Com cuidado: é forte.",
     "de": "Probier diesen Käse aus der Serra. Vorsicht: Er ist kräftig.",
     "luecke": "Prova este queijo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5448,12 +5774,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Este bolo está uma delícia. Mais uma fatia?",
     "de": "Dieser Kuchen ist köstlich. Noch ein Stück?",
     "luecke": "está uma delícia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5482,12 +5810,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Depois da subida para o castelo, tenho sede.",
     "de": "Nach dem Aufstieg zur Burg habe ich Durst.",
     "luecke": "tenho sede",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5516,12 +5846,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoje levantei-me com o pé direito.",
     "de": "Heute bin ich mit dem rechten Fuß aufgestanden.",
     "luecke": "com o pé direito",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5539,12 +5871,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ao fim do dia dou-me um mimo: um pastel de nata.",
     "de": "Am Ende des Tages gönne ich mir etwas: ein Pastel de nata.",
     "luecke": "dou-me um mimo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5573,12 +5907,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bom dia, queria um pastel de nata e uma bica, se faz favor.",
     "de": "Guten Morgen, ich hätte gern ein Pastel de nata und einen Espresso, bitte.",
     "luecke": "queria um pastel de nata",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5596,12 +5932,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O bebé da minha colega já dorme a noite toda. Ela ainda não.",
     "de": "Das Baby meiner Kollegin schläft schon durch. Sie noch nicht.",
     "luecke": "dorme a noite toda",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5630,12 +5968,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sem o peluche, ninguém dorme cá em casa.",
     "de": "Ohne das Kuscheltier schläft bei uns niemand.",
     "luecke": "o peluche",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5653,12 +5993,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu sobrinho faz uma birra no supermercado.",
     "de": "Mein Neffe bekommt im Supermarkt einen Trotzanfall.",
     "luecke": "faz uma birra",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5687,12 +6029,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pego no bebé ao colo e ele acalma-se.",
     "de": "Ich nehme das Baby auf den Arm, und es beruhigt sich.",
     "luecke": "ao colo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5721,12 +6065,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O bebé da vizinha tem três meses.",
     "de": "Das Baby der Nachbarin ist drei Monate alt.",
     "luecke": "O bebé",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5744,12 +6090,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O bebé sorri quando ouve a voz da mãe.",
     "de": "Das Baby lächelt, wenn es die Stimme der Mutter hört.",
     "luecke": "sorri",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5778,12 +6126,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Os miúdos crescem tão depressa!",
     "de": "Die Kinder wachsen so schnell!",
     "luecke": "crescem tão depressa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5812,12 +6162,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "À noite, custa-lhe adormecer sem a luz acesa.",
     "de": "Abends schläft er ohne Licht schwer ein.",
     "luecke": "custa-lhe adormecer",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5846,12 +6198,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quem muda a fralda desta vez?",
     "de": "Wer wechselt diesmal die Windel?",
     "luecke": "a fralda",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5880,12 +6234,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Se te portares bem, vamos ao parque.",
     "de": "Wenn du dich benimmst, gehen wir in den Park.",
     "luecke": "portares bem",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5903,12 +6259,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "As crianças jogam às escondidas no quintal.",
     "de": "Die Kinder spielen im Hof Verstecken.",
     "luecke": "jogam às escondidas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5937,12 +6295,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A minha mãe cantava-me uma canção de embalar.",
     "de": "Meine Mutter sang mir ein Wiegenlied.",
     "luecke": "uma canção de embalar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -5960,12 +6320,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O bebé chora sempre às três da manhã. Pontual.",
     "de": "Das Baby weint immer um drei Uhr nachts. Pünktlich.",
     "luecke": "chora",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -5994,12 +6356,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dá um beijinho à avó antes de ires.",
     "de": "Gib der Oma ein Küsschen, bevor du gehst.",
     "luecke": "um beijinho",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6017,12 +6381,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A minha sobrinha está a aprender a andar.",
     "de": "Meine Nichte lernt gerade laufen.",
     "luecke": "a aprender a andar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -6051,12 +6417,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estou orgulhoso de ti!",
     "de": "Ich bin stolz auf dich!",
     "luecke": "orgulhoso de ti",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6074,12 +6442,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "As primeiras palavras dele foram « gato » e « não ».",
     "de": "Seine ersten Worte waren „Katze“ und „nein“.",
     "luecke": "As primeiras palavras",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6097,12 +6467,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Com crianças pequenas, é preciso ter paciência.",
     "de": "Mit kleinen Kindern muss man Geduld haben.",
     "luecke": "ter paciência",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6120,12 +6492,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Às quatro e meia é a hora do lanche: pão com manteiga.",
     "de": "Um halb fünf ist Zeit für die Jause: Brot mit Butter.",
     "luecke": "hora do lanche",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -6154,12 +6528,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Com o tio Rui, os miúdos riem às gargalhadas.",
     "de": "Mit Onkel Rui lachen die Kinder schallend.",
     "luecke": "riem às gargalhadas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -6188,12 +6564,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Onde está a chucha? Sem chucha não há paz.",
     "de": "Wo ist der Schnuller? Ohne Schnuller gibt es keinen Frieden.",
     "luecke": "a chucha",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6211,12 +6589,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu filho tem medo do escuro, mas não dos dragões.",
     "de": "Mein Sohn hat Angst im Dunkeln, aber nicht vor Drachen.",
     "luecke": "tem medo do escuro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": {
@@ -6245,12 +6625,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Às sete é a hora do banho. Começa a negociação.",
     "de": "Um sieben ist Badezeit. Die Verhandlungen beginnen.",
     "luecke": "a hora do banho",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6268,12 +6650,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Desculpe, que idade tem o seu filho? Já fala tão bem!",
     "de": "Entschuldigung, wie alt ist Ihr Sohn? Er spricht schon so gut!",
     "luecke": "que idade tem o seu filho",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6291,12 +6675,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Este pastel tem um sabor esquisito. Não é elogio.",
     "de": "Dieses Gebäck schmeckt seltsam. Das ist kein Kompliment.",
     "luecke": "esquisito",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6314,12 +6700,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Na porta diz « Puxe ». Eu empurro. Sempre.",
     "de": "An der Tür steht „Ziehen“. Ich drücke. Immer.",
     "luecke": "Puxe",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6337,12 +6725,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estou constipado: nariz entupido e dor de cabeça.",
     "de": "Ich bin erkältet: verstopfte Nase und Kopfschmerzen.",
     "luecke": "constipado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6360,12 +6750,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Fiquei embaraçado quando me enganei no nome da diretora.",
     "de": "Ich war verlegen, als ich mich im Namen der Direktorin geirrt habe.",
     "luecke": "embaraçado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6383,12 +6775,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ao domingo, a minha sogra faz polvo à lagareiro.",
     "de": "Sonntags macht meine Schwiegermutter Krake nach Ölmüller-Art.",
     "luecke": "polvo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6406,12 +6800,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Empresta-me a borracha? Enganei-me outra vez.",
     "de": "Leihst du mir den Radiergummi? Ich habe mich schon wieder vertan.",
     "luecke": "a borracha",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6429,12 +6825,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A rua é larga, mas não é comprida.",
     "de": "Die Straße ist breit, aber nicht lang.",
     "luecke": "larga",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6452,12 +6850,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Este ano a propina da universidade subiu outra vez.",
     "de": "Dieses Jahr ist die Studiengebühr schon wieder gestiegen.",
     "luecke": "a propina",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6475,12 +6875,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenho os testes na pasta e a pasta de dentes na mala.",
     "de": "Ich habe die Arbeiten in der Mappe und die Zahnpasta im Koffer.",
     "luecke": "na pasta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6498,12 +6900,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu carro está na oficina há uma semana.",
     "de": "Mein Auto ist seit einer Woche in der Werkstatt.",
     "luecke": "na oficina",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6521,12 +6925,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O escritório do Tiago é uma mesa na sala de jantar.",
     "de": "Tiagos Büro ist ein Tisch im Esszimmer.",
     "luecke": "O escritório",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6544,12 +6950,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ontem assisti a um concerto de fado em Alfama.",
     "de": "Gestern habe ich ein Fado-Konzert in der Alfama besucht.",
     "luecke": "assisti a um concerto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6567,12 +6975,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pretendo aprender português até ao verão.",
     "de": "Ich habe vor, bis zum Sommer Portugiesisch zu lernen.",
     "luecke": "Pretendo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6590,12 +7000,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Atualmente dou aulas em duas escolas.",
     "de": "Zurzeit unterrichte ich an zwei Schulen.",
     "luecke": "Atualmente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6613,12 +7025,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A livraria mais antiga do mundo fica em Lisboa.",
     "de": "Die älteste Buchhandlung der Welt liegt in Lissabon.",
     "luecke": "A livraria",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6636,12 +7050,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu gato é esperto: abre o frigorífico.",
     "de": "Meine Katze ist schlau: Sie öffnet den Kühlschrank.",
     "luecke": "esperto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6659,12 +7075,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Leva uma camisola, à noite arrefece.",
     "de": "Nimm einen Pullover mit, abends wird es kühl.",
     "luecke": "uma camisola",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6682,12 +7100,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O jantar é às oito e meia. Ou às nove. Ou às dez.",
     "de": "Das Abendessen ist um halb neun. Oder um neun. Oder um zehn.",
     "luecke": "O jantar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6705,12 +7125,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ainda não comprei a prenda de anos da minha mãe.",
     "de": "Ich habe das Geburtstagsgeschenk für meine Mutter noch nicht gekauft.",
     "luecke": "a prenda",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6728,12 +7150,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Uma sandes de presunto e um copo de vinho, se faz favor.",
     "de": "Ein Rohschinken-Sandwich und ein Glas Wein, bitte.",
     "luecke": "presunto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6751,12 +7175,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "O meu avô trabalhou quarenta anos numa fábrica de conservas.",
     "de": "Mein Großvater hat vierzig Jahre in einer Konservenfabrik gearbeitet.",
     "luecke": "fábrica de conservas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6774,12 +7200,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bebo a bica ao balcão, em pé, como toda a gente.",
     "de": "Ich trinke den Espresso an der Theke, im Stehen, wie alle.",
     "luecke": "ao balcão",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6797,12 +7225,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A minha avó vê a novela todas as noites às nove.",
     "de": "Meine Großmutter schaut jeden Abend um neun die Seifenoper.",
     "luecke": "a novela",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,
@@ -6820,12 +7250,14 @@ window.SPRACHEN["pt-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Boa tarde, o que é que o senhor pretende?",
     "de": "Guten Tag, was wünschen Sie?",
     "luecke": "pretende",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": null
    },
    "zeit": null,

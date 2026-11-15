@@ -375,12 +375,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Few have ever come hither through greater peril or on an errand more urgent.",
     "de": "Wenige sind je durch größere Gefahr hierhergekommen oder in dringenderem Auftrag.",
     "luecke": "on an errand more urgent",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_01.mp3?v=7dbfcf29"
    },
    "zeit": {
@@ -409,12 +411,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "There is naught that you can do, other than to resist, with hope or without it.",
     "de": "Es gibt nichts, was ihr tun könnt, außer zu widerstehen, mit Hoffnung oder ohne sie.",
     "luecke": "naught that you can do, other than",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_02.mp3?v=18acdd21"
    },
    "zeit": {
@@ -443,12 +447,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "The Ring! What shall we do with the Ring, the least of rings, the trifle that Sauron fancies? That is the doom that we must deem.",
     "de": "Der Ring! Was sollen wir mit dem Ring tun, dem geringsten der Ringe, der Kleinigkeit, die Sauron begehrt? Das ist das Urteil, das wir fällen müssen.",
     "luecke": "That is the doom that we must deem",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_03.mp3?v=578c6b6e"
    },
    "zeit": {
@@ -477,12 +483,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "That is the purpose for which you are called hither. Called, I say, though I have not called you to me, strangers from distant lands.",
     "de": "Das ist der Zweck, zu dem ihr hierhergerufen seid. Gerufen, sage ich, obwohl ich euch nicht zu mir gerufen habe, Fremde aus fernen Ländern.",
     "luecke": "Called, I say, though",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_04.mp3?v=637b99e1"
    },
    "zeit": {
@@ -511,12 +519,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "You have come and are here met, in this very nick of time, by chance as it may seem. Yet it is not so.",
     "de": "Ihr seid gekommen und hier versammelt, in genau diesem entscheidenden Augenblick, zufällig, wie es scheinen mag. Doch so ist es nicht.",
     "luecke": "by chance as it may seem. Yet it is not so",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_05.mp3?v=8194d32b"
    },
    "zeit": {
@@ -545,12 +555,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.",
     "de": "Glaubt vielmehr, dass es so gefügt ist, dass wir, die hier sitzen, und keine anderen, nun Rat finden müssen für die Gefahr der Welt.",
     "luecke": "so ordered that we, who sit here, and none others",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_06.mp3?v=d7ddf533"
    },
    "zeit": {
@@ -579,12 +591,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Only to the North did these tidings come, and only to a few. Small wonder it is that you have not heard them, Boromir.",
     "de": "Nur in den Norden kamen diese Nachrichten, und nur zu wenigen. Kein Wunder ist es, dass du nichts davon gehört hast, Boromir.",
     "luecke": "Small wonder it is that",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_07.mp3?v=88244e52"
    },
    "zeit": {
@@ -613,12 +627,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Never again shall there be any such league of Elves and Men; for Men multiply and the Firstborn decrease, and the two kindreds are estranged.",
     "de": "Nie wieder wird es einen solchen Bund von Elben und Menschen geben; denn die Menschen mehren sich, und die Erstgeborenen nehmen ab, und die beiden Geschlechter sind einander entfremdet.",
     "luecke": "Never again shall there be",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_08.mp3?v=26821c2e"
    },
    "zeit": {
@@ -647,12 +663,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Galdor of the Havens, who sat near by, overheard him. 'You speak for me also,' he cried.",
     "de": "Galdor von den Häfen, der nahebei saß, hörte ihn. „Du sprichst auch für mich“, rief er.",
     "luecke": "You speak for me also",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_09.mp3?v=5f6bfedc"
    },
    "zeit": {
@@ -681,12 +699,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "The Wise may have good reason to believe that the halfling's trove is indeed the Great Ring of long debate, unlikely though that may seem to those who know less.",
     "de": "Die Weisen mögen guten Grund haben zu glauben, dass der Fund des Halblings wahrhaftig der Große Ring ist, über den so lange gestritten wurde, so unwahrscheinlich das denen scheinen mag, die weniger wissen.",
     "luecke": "unlikely though that may seem",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_10.mp3?v=dad8aba7"
    },
    "zeit": {
@@ -715,12 +735,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "But may we not hear the proofs? And I would ask this also. What of Saruman?",
     "de": "Doch dürfen wir die Beweise nicht hören? Und dies würde ich auch fragen: Was ist mit Saruman?",
     "luecke": "But may we not hear the proofs",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_11.mp3?v=59fc7e26"
    },
    "zeit": {
@@ -749,12 +771,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "But in any case, to send the Ring to him would only postpone the day of evil.",
     "de": "Doch wie auch immer: Den Ring zu ihm zu schicken, würde den Tag des Übels nur aufschieben.",
     "luecke": "postpone the day of evil",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_12.mp3?v=db227b40"
    },
    "zeit": {
@@ -783,12 +807,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "And even if we could, soon or late the Lord of the Rings would learn of its hiding place and would bend all his power towards it.",
     "de": "Und selbst wenn wir es könnten, früher oder später würde der Herr der Ringe von seinem Versteck erfahren und seine ganze Macht darauf richten.",
     "luecke": "soon or late",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_13.mp3?v=f0afe31d"
    },
    "zeit": {
@@ -817,12 +843,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yet oft in lies truth is hidden: in the Sea it would be safe.",
     "de": "Doch oft ist in Lügen Wahrheit verborgen: Im Meer wäre er sicher.",
     "luecke": "oft in lies truth is hidden",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_14.mp3?v=e1c5d0c4"
    },
    "zeit": {
@@ -851,12 +879,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "If the return to Iarwain be thought too dangerous, then flight to the Sea is now fraught with gravest peril.",
     "de": "Wenn die Rückkehr zu Iarwain für zu gefährlich gehalten wird, dann ist die Flucht zum Meer jetzt mit schwerster Gefahr behaftet.",
     "luecke": "fraught with gravest peril",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_15.mp3?v=176ed1e8"
    },
    "zeit": {
@@ -885,12 +915,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "But both are beyond our power. Who will read this riddle for us?",
     "de": "Doch beides übersteigt unsere Macht. Wer wird uns dieses Rätsel deuten?",
     "luecke": "read this riddle",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_16.mp3?v=32edf9cf"
    },
    "zeit": {
@@ -919,12 +951,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "We were all at fault, and but for your vigilance the Darkness, maybe, would already be upon us.",
     "de": "Wir alle trugen Schuld, und ohne deine Wachsamkeit wäre die Finsternis vielleicht schon über uns.",
     "luecke": "We were all at fault",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_17.mp3?v=e4e536a7"
    },
    "zeit": {
@@ -953,12 +987,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "The westward road seems easiest. Therefore it must be shunned. It will be watched.",
     "de": "Der Weg nach Westen scheint der leichteste. Darum muss er gemieden werden. Er wird bewacht sein.",
     "luecke": "Therefore it must be shunned",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_18.mp3?v=9754dad4"
    },
    "zeit": {
@@ -987,12 +1023,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Now at this last we must take a hard road, a road unforeseen. There lies our hope, if hope it be.",
     "de": "Nun, zu guter Letzt, müssen wir einen harten Weg nehmen, einen unvorhergesehenen Weg. Dort liegt unsere Hoffnung, wenn es denn Hoffnung ist.",
     "luecke": "There lies our hope, if hope it be",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_19.mp3?v=f871cc3e"
    },
    "zeit": {
@@ -1021,12 +1059,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Alas, no. We cannot use the Ruling Ring. That we now know too well.",
     "de": "Ach, nein. Wir können den Herrscherring nicht gebrauchen. Das wissen wir jetzt nur zu gut.",
     "luecke": "That we now know too well",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_20.mp3?v=e7856e1e"
    },
    "zeit": {
@@ -1055,12 +1095,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "That is the path of despair. Of folly I would say, if the long wisdom of Elrond did not forbid me.",
     "de": "Das ist der Weg der Verzweiflung. Der Torheit, würde ich sagen, wenn die lange Weisheit Elronds es mir nicht verböte.",
     "luecke": "Of folly I would say, if the long wisdom of Elrond did not forbid me",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_21.mp3?v=15916ba3"
    },
    "zeit": {
@@ -1089,12 +1131,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Then be comforted. For there are other powers and realms that you know not, and they are hidden from you.",
     "de": "Dann sei getrost. Denn es gibt andere Mächte und Reiche, die du nicht kennst, und sie sind vor dir verborgen.",
     "luecke": "Then be comforted",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_22.mp3?v=c8432f95"
    },
    "zeit": {
@@ -1123,12 +1167,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "If I understand aright all that I have heard, I think that this task is appointed for you, Frodo; and that if you do not find a way, no one will.",
     "de": "Wenn ich alles, was ich gehört habe, recht verstehe, so glaube ich, dass diese Aufgabe dir bestimmt ist, Frodo; und dass, wenn du keinen Weg findest, niemand ihn finden wird.",
     "luecke": "If I understand aright",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_23.mp3?v=2ec397ff"
    },
    "zeit": {
@@ -1157,12 +1203,14 @@ window.SPRACHEN["en-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.",
     "de": "Doch so ist oft der Lauf der Taten, die die Räder der Welt bewegen: Kleine Hände tun sie, weil sie müssen, während die Augen der Großen anderswo sind.",
     "luecke": "small hands do them because they must",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/en-de/saetze/co_24.mp3?v=c743d8de"
    },
    "zeit": {

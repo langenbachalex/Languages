@@ -87,7 +87,8 @@ def daten_fuer(P):
                  "anker": z["anker"], "notiz": leer("notiz"), "audio": audio(f"wendungen/{wid}.mp3"),
                  "gloss": leer("gloss_w"),   # Interlinear-Glosse der Wendung (Türkisch, Arabisch)
                  "umschrift": leer("umschrift_w"), "wurzel": leer("wurzel"),   # Arabisch: Umschrift und Wurzel (ك-ت-ب)
-                 "satz": {"fr": z["satz_fr"], "de": z["satz_de"], "luecke": z["luecke"], "gloss": leer("gloss"), "umschrift": leer("umschrift"), "audio": audio(f"saetze/{wid}.mp3")},
+                 "ipa": leer("ipa_w"),   # Französisch: Lautschrift der Wendung (zuschaltbar, Mr. Alex 15.11.)
+                 "satz": {"fr": z["satz_fr"], "de": z["satz_de"], "luecke": z["luecke"], "gloss": leer("gloss"), "umschrift": leer("umschrift"), "ipa": leer("ipa"), "audio": audio(f"saetze/{wid}.mp3")},
                  "zeit": None, "syrisch": None}
             if leer("syrisch"):   # Arabisch: die syrische Variante der Wendung (Knopf « Şām », syrische Stimme)
                 w["syrisch"] = {"fr": z["syrisch"], "umschrift": leer("syrisch_u"), "audio": audio(f"syrisch/{wid}.mp3")}

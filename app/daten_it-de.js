@@ -632,12 +632,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Stasera correggo i compiti della prima.",
     "de": "Heute Abend korrigiere ich die Arbeiten der Sechsten.",
     "luecke": "correggo i compiti",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_01.mp3?v=f9aa45f1"
    },
    "zeit": {
@@ -666,12 +668,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dopo sei ore di lezione sono distrutto.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "distrutto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_02.mp3?v=a45d69ae"
    },
    "zeit": {
@@ -700,12 +704,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Allora, la lezione con la terza, com'è andata?",
     "de": "Und, die Stunde mit der Dritten, wie ist es gelaufen?",
     "luecke": "com'è andata",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_03.mp3?v=d3e108ea"
    },
    "zeit": {
@@ -734,12 +740,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faccio lezione di inglese tutta la mattina.",
     "de": "Ich halte den ganzen Vormittag Englischunterricht.",
     "luecke": "Faccio lezione",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_04.mp3?v=e16dd575"
    },
    "zeit": {
@@ -768,12 +776,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ci vediamo in sala professori all'intervallo?",
     "de": "Sehen wir uns in der Pause im Lehrerzimmer?",
     "luecke": "intervallo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_05.mp3?v=66360348"
    },
    "zeit": null,
@@ -791,12 +801,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Non vedo l'ora di essere in vacanza.",
     "de": "Ich kann es kaum erwarten, Ferien zu haben.",
     "luecke": "Non vedo l'ora di",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_06.mp3?v=cec5cd10"
    },
    "zeit": {
@@ -825,12 +837,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Non ne posso più delle riunioni che non finiscono mai.",
     "de": "Ich habe die Nase voll von Besprechungen, die nie enden.",
     "luecke": "Non ne posso più",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_07.mp3?v=4be2482d"
    },
    "zeit": {
@@ -859,12 +873,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faccio fatica a farli stare zitti il venerdì pomeriggio.",
     "de": "Ich kriege sie freitagnachmittags kaum ruhig.",
     "luecke": "Faccio fatica a",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_08.mp3?v=3b141471"
    },
    "zeit": {
@@ -893,12 +909,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ciao Giovanni! Quanto tempo!",
     "de": "Hallo Giovanni! Lange nicht gesehen!",
     "luecke": "Quanto tempo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_09.mp3?v=6c87c5e3"
    },
    "zeit": null,
@@ -916,12 +934,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il prof di ginnastica è malato, quindi prendo io la sua classe.",
     "de": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "luecke": "quindi",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_10.mp3?v=5e824bc4"
    },
    "zeit": null,
@@ -939,12 +959,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In realtà i miei alunni di terza mi piacciono.",
     "de": "Eigentlich mag ich meine Schüler der Dritten.",
     "luecke": "In realtà",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_11.mp3?v=661b72c0"
    },
    "zeit": null,
@@ -962,12 +984,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "È faticoso, ma comunque adoro questo lavoro.",
     "de": "Es ist anstrengend, aber trotzdem liebe ich diesen Beruf.",
     "luecke": "comunque",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_12.mp3?v=020cfc9b"
    },
    "zeit": null,
@@ -985,12 +1009,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Preparare una bella lezione richiede tempo, ma ne vale la pena.",
     "de": "Eine gute Stunde vorzubereiten braucht Zeit, aber es lohnt sich.",
     "luecke": "ne vale la pena",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_13.mp3?v=c3183554"
    },
    "zeit": {
@@ -1019,12 +1045,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Gli alunni si arrangiano bene da soli.",
     "de": "Die Schüler kommen allein gut zurecht.",
     "luecke": "si arrangiano",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_14.mp3?v=ff9cfad7"
    },
    "zeit": {
@@ -1053,12 +1081,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Oggi quelli di prima hanno dato il massimo.",
     "de": "Heute waren die Sechstklässler voll dabei.",
     "luecke": "hanno dato il massimo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_15.mp3?v=4ecbe5d4"
    },
    "zeit": {
@@ -1087,12 +1117,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Riconsegno i compiti lunedì.",
     "de": "Ich gebe die Arbeiten am Montag zurück.",
     "luecke": "Riconsegno i compiti",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_16.mp3?v=bd222d76"
    },
    "zeit": {
@@ -1121,12 +1153,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Abbiamo una riunione alle sedici, vieni?",
     "de": "Wir haben um sechzehn Uhr eine Besprechung, kommst du?",
     "luecke": "riunione",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_17.mp3?v=fc0a1c57"
    },
    "zeit": null,
@@ -1144,12 +1178,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hai dimenticato il mio libro? Non fa niente.",
     "de": "Du hast mein Buch vergessen? Das macht nichts.",
     "luecke": "Non fa niente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_18.mp3?v=79394a05"
    },
    "zeit": null,
@@ -1167,12 +1203,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Prenditi il tuo tempo, abbiamo tutta la sera.",
     "de": "Lass dir Zeit, wir haben den ganzen Abend.",
     "luecke": "Prenditi il tuo tempo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_19.mp3?v=a3637470"
    },
    "zeit": null,
@@ -1190,12 +1228,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In sala professori c'è sempre qualcuno che corregge. E qualcuno che dorme.",
     "de": "Im Lehrerzimmer korrigiert immer jemand. Und jemand schläft.",
     "luecke": "sala professori",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_20.mp3?v=5624b097"
    },
    "zeit": null,
@@ -1213,12 +1253,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi dai una mano con le fotocopie? La macchina mi odia.",
     "de": "Hilfst du mir mit den Kopien? Die Maschine hasst mich.",
     "luecke": "dai una mano",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_21.mp3?v=6950bc22"
    },
    "zeit": {
@@ -1247,12 +1289,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faccio l'appello. « Rossi? » – « Presente! » – « Bianchi? » – Silenzio. Bianchi dorme.",
     "de": "Ich prüfe die Anwesenheit. „Rossi?“ – „Hier!“ – „Bianchi?“ – Stille. Bianchi schläft.",
     "luecke": "Faccio l'appello",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_22.mp3?v=6124fab4"
    },
    "zeit": {
@@ -1281,12 +1325,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Con due classi insieme mi incasino sempre con i nomi.",
     "de": "Mit zwei Klassen zusammen komme ich immer mit den Namen durcheinander.",
     "luecke": "mi incasino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_23.mp3?v=c781cee8"
    },
    "zeit": {
@@ -1315,12 +1361,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi scusi, potrebbe indicarmi la sala professori?",
     "de": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "luecke": "potrebbe indicarmi",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/tc_24.mp3?v=be979cd3"
    },
    "zeit": null,
@@ -1338,12 +1386,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Questa canzone mi tocca ogni volta che la sento.",
     "de": "Dieses Lied berührt mich jedes Mal, wenn ich es höre.",
     "luecke": "mi tocca",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_01.mp3?v=b5380250"
    },
    "zeit": {
@@ -1372,12 +1422,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La domenica sera sono spesso giù di morale.",
     "de": "Sonntagabends bin ich oft niedergeschlagen.",
     "luecke": "giù di morale",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_02.mp3?v=3ad6796c"
    },
    "zeit": {
@@ -1406,12 +1458,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi piacciono le storie cupe, con un bosco e un segreto.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "cupe",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_03.mp3?v=282e5073"
    },
    "zeit": null,
@@ -1429,12 +1483,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Questo pezzo per pianoforte è malinconico, ma così bello.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "malinconico",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_04.mp3?v=0c99552a"
    },
    "zeit": null,
@@ -1452,12 +1508,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Vedere un bambino piangere da solo mi spezza il cuore.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "mi spezza il cuore",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_05.mp3?v=6aeb0b40"
    },
    "zeit": {
@@ -1486,12 +1544,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Alla fine del concerto ero commosso fino alle lacrime.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "commosso",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_06.mp3?v=aead2ba7"
    },
    "zeit": null,
@@ -1509,12 +1569,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La casa era silenziosa. Era inquietante.",
     "de": "Das Haus war still. Es war unheimlich.",
     "luecke": "inquietante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_07.mp3?v=9a9d91c9"
    },
    "zeit": null,
@@ -1532,12 +1594,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Le fusa del mio gatto sono rilassanti.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "rilassanti",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_08.mp3?v=3d426b2d"
    },
    "zeit": null,
@@ -1555,12 +1619,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando sento quella voce, ho le lacrime agli occhi.",
     "de": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "luecke": "ho le lacrime agli occhi",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_09.mp3?v=62884f81"
    },
    "zeit": {
@@ -1589,12 +1655,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il ritornello mi fa venire la pelle d'oca.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "mi fa venire la pelle d'oca",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_10.mp3?v=4d578660"
    },
    "zeit": {
@@ -1623,12 +1691,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Non ho paura del buio, ma del silenzio.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "ho paura",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_11.mp3?v=e7f6efea"
    },
    "zeit": {
@@ -1657,12 +1727,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Stamattina sono di buon umore: c'è il sole.",
     "de": "Heute Morgen bin ich gut gelaunt: Die Sonne ist da.",
     "luecke": "di buon umore",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_12.mp3?v=b7a925ad"
    },
    "zeit": {
@@ -1691,12 +1763,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Non parlargli, è di cattivo umore.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "di cattivo umore",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_13.mp3?v=2cbdd713"
    },
    "zeit": null,
@@ -1714,12 +1788,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "I miei gatti mi mancano quando sono in viaggio.",
     "de": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
     "luecke": "mi mancano",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_14.mp3?v=64528650"
    },
    "zeit": {
@@ -1748,12 +1824,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dopo questa giornata ho un peso sul cuore.",
     "de": "Nach diesem Tag ist mir schwer ums Herz.",
     "luecke": "ho un peso sul cuore",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_15.mp3?v=77db6925"
    },
    "zeit": {
@@ -1782,12 +1860,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il finale del film è toccante.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "toccante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_16.mp3?v=189bc791"
    },
    "zeit": null,
@@ -1805,12 +1885,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dopo il kung fu mi sento bene, leggero.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "mi sento bene",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_17.mp3?v=bb9f8ba4"
    },
    "zeit": {
@@ -1839,12 +1921,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "È partita, e ho il magone.",
     "de": "Sie ist gegangen, und ich habe einen Kloß im Hals.",
     "luecke": "ho il magone",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_18.mp3?v=66cc6a2c"
    },
    "zeit": {
@@ -1873,12 +1957,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La pioggia su Bologna mi rende un po' triste.",
     "de": "Der Regen über Bologna macht mich ein bisschen traurig.",
     "luecke": "mi rende",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_19.mp3?v=6d232db3"
    },
    "zeit": {
@@ -1907,12 +1993,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Adoro il chiaroscuro nei quadri di Caravaggio.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden Caravaggios.",
     "luecke": "chiaroscuro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_20.mp3?v=8289ba1c"
    },
    "zeit": null,
@@ -1930,12 +2018,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Di sera il cortile è tranquillo.",
     "de": "Am Abend ist der Hof ruhig.",
     "luecke": "tranquillo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_21.mp3?v=fa536dff"
    },
    "zeit": null,
@@ -1953,12 +2043,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il corridoio vuoto del museo era angosciante.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angosciante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_22.mp3?v=74a15a3b"
    },
    "zeit": null,
@@ -1976,12 +2068,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ha il cuore a pezzi da quando è morto il suo gatto.",
     "de": "Er ist untröstlich, seit seine Katze gestorben ist.",
     "luecke": "Ha il cuore a pezzi",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_23.mp3?v=db8df0d3"
    },
    "zeit": {
@@ -2010,12 +2104,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi dispiace, signora, non volevo disturbarla.",
     "de": "Es tut mir leid, Signora, ich wollte Sie nicht stören.",
     "luecke": "Mi dispiace",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/se_24.mp3?v=0500edec"
    },
    "zeit": null,
@@ -2033,12 +2129,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il mio gatto fa le fusa appena mi siedo.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "fa le fusa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_01.mp3?v=1beea88d"
    },
    "zeit": {
@@ -2067,12 +2165,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La sera viene a farmi le coccole sul divano.",
     "de": "Abends kommt sie, um mit mir auf dem Sofa zu schmusen.",
     "luecke": "farmi le coccole",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_02.mp3?v=63c2746c"
    },
    "zeit": {
@@ -2101,12 +2201,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Attento, graffia se lo accarezzi troppo a lungo.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "graffia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_03.mp3?v=28b9cbb7"
    },
    "zeit": {
@@ -2135,12 +2237,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dopo il pasto si lava per dieci minuti.",
     "de": "Nach dem Fressen putzt er sich zehn Minuten lang.",
     "luecke": "si lava",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_04.mp3?v=1dbd40c6"
    },
    "zeit": {
@@ -2169,12 +2273,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Miagola davanti alla porta della cucina alle sei di mattina.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "Miagola",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_05.mp3?v=1256ebca"
    },
    "zeit": {
@@ -2203,12 +2309,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Secondo lui, ha sempre fame.",
     "de": "Ihm zufolge hat er immer Hunger.",
     "luecke": "ha sempre fame",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_06.mp3?v=a949bee6"
    },
    "zeit": {
@@ -2237,12 +2345,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Accarezzo la mia gatta dietro le orecchie, lo adora.",
     "de": "Ich streichle meine Katze hinter den Ohren, sie liebt das.",
     "luecke": "Accarezzo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_07.mp3?v=720e3445"
    },
    "zeit": {
@@ -2271,12 +2381,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Si fa le unghie sulla poltrona, mai sul tiragraffi.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "Si fa le unghie",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_08.mp3?v=36c2a08f"
    },
    "zeit": {
@@ -2305,12 +2417,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un gatto è un piccolo felino che ha deciso di vivere con noi.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "felino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_09.mp3?v=ac7e6df1"
    },
    "zeit": null,
@@ -2328,12 +2442,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il mio gatto fa un pisolino sedici ore al giorno. Che vita.",
     "de": "Meine Katze macht sechzehn Stunden am Tag ein Nickerchen. Was für ein Leben.",
     "luecke": "fa un pisolino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_10.mp3?v=5fef3a52"
    },
    "zeit": {
@@ -2362,12 +2478,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Si struscia contro le mie gambe quando torno a casa.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "Si struscia contro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_11.mp3?v=ac9471cf"
    },
    "zeit": {
@@ -2396,12 +2514,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Preferisce le crocchette del vicino alle sue.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seines.",
     "luecke": "crocchette",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_12.mp3?v=148d19f5"
    },
    "zeit": null,
@@ -2419,12 +2539,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A mezzogiorno c'è l'umido, e lui lo sa.",
     "de": "Mittags gibt es Nassfutter, und er weiß es.",
     "luecke": "umido",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_13.mp3?v=70484cae"
    },
    "zeit": null,
@@ -2442,12 +2564,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ha uno sguardo che dice: « Sei in ritardo. »",
     "de": "Sie hat einen Blick, der sagt: „Du bist zu spät.“",
     "luecke": "uno sguardo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_14.mp3?v=21f424eb"
    },
    "zeit": null,
@@ -2465,12 +2589,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Salta sulla scrivania mentre correggo i compiti.",
     "de": "Er springt auf den Schreibtisch, während ich Arbeiten korrigiere.",
     "luecke": "Salta sulla scrivania",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_15.mp3?v=f8a3a4e1"
    },
    "zeit": {
@@ -2499,12 +2625,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando esce l'aspirapolvere, si nasconde sotto il letto.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unter dem Bett.",
     "luecke": "si nasconde",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_16.mp3?v=440f2f23"
    },
    "zeit": {
@@ -2533,12 +2661,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "I miei gatti mi fanno compagnia quando preparo le lezioni.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich den Unterricht vorbereite.",
     "luecke": "mi fanno compagnia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_17.mp3?v=d681d97c"
    },
    "zeit": {
@@ -2567,12 +2697,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Non è un gatto di razza, è un gatto randagio, ed è perfetto.",
     "de": "Er ist keine Rassekatze, er ist eine Straßenkatze, und er ist perfekt.",
     "luecke": "gatto randagio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_18.mp3?v=9d1d3b8b"
    },
    "zeit": null,
@@ -2590,12 +2722,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando non ci sono, combinano guai.",
     "de": "Wenn ich nicht da bin, stellen sie Unsinn an.",
     "luecke": "combinano guai",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_19.mp3?v=5ad3798a"
    },
    "zeit": {
@@ -2624,12 +2758,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dal veterinario, il mio gatto diventa molto, molto calmo.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "veterinario",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_20.mp3?v=21e05123"
    },
    "zeit": null,
@@ -2647,12 +2783,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Canto stonato, ma non gli dà fastidio. Credo.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich.",
     "luecke": "non gli dà fastidio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_21.mp3?v=fed308c5"
    },
    "zeit": null,
@@ -2670,12 +2808,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un gatto è indipendente. Torna quando ha fame.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "indipendente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_22.mp3?v=e037639e"
    },
    "zeit": null,
@@ -2693,12 +2833,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Al sole fa le fusa di piacere, con gli occhi chiusi.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "fa le fusa di piacere",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_23.mp3?v=74a812af"
    },
    "zeit": {
@@ -2727,12 +2869,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi scusi, signora, ha un gatto, Lei? Ce n'è uno sul suo tetto.",
     "de": "Entschuldigung, Signora, haben Sie eine Katze? Da ist eine auf Ihrem Dach.",
     "luecke": "ha un gatto, Lei",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ga_24.mp3?v=b376ee29"
    },
    "zeit": null,
@@ -2750,12 +2894,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mio fratello canta intonato, io canto con il cuore.",
     "de": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
     "luecke": "canta intonato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_01.mp3?v=5b2f93fc"
    },
    "zeit": {
@@ -2784,12 +2930,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Stono, ma forte. Compensa.",
     "de": "Ich singe schief, aber laut. Das gleicht es aus.",
     "luecke": "Stono",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_02.mp3?v=cdddd9c8"
    },
    "zeit": {
@@ -2818,12 +2966,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Non conosco le parole, ma il ritornello sì.",
     "de": "Ich kenne den Text nicht, aber den Refrain.",
     "luecke": "ritornello",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_03.mp3?v=c57326de"
    },
    "zeit": null,
@@ -2841,12 +2991,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il testo di questa canzone mi fa venire la pelle d'oca.",
     "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
     "luecke": "testo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_04.mp3?v=71fe0c7a"
    },
    "zeit": null,
@@ -2864,12 +3016,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In italiano questa frase suona bene. In tedesco, meno.",
     "de": "Auf Italienisch klingt dieser Satz gut. Auf Deutsch weniger.",
     "luecke": "suona bene",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_05.mp3?v=5600bba8"
    },
    "zeit": null,
@@ -2887,12 +3041,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Giovanni ha orecchio: sente subito il mio accento tedesco.",
     "de": "Giovanni hat ein gutes Gehör: Er hört sofort meinen deutschen Akzent.",
     "luecke": "ha orecchio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_06.mp3?v=9d7bc549"
    },
    "zeit": null,
@@ -2910,12 +3066,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il mio accento è un misto di Saarland e buona volontà.",
     "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "luecke": "accento",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_07.mp3?v=83c88637"
    },
    "zeit": null,
@@ -2933,12 +3091,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quello che amo dell'italiano è la musica della lingua.",
     "de": "Was ich am Italienischen liebe, ist die Musik der Sprache.",
     "luecke": "la musica della lingua",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_08.mp3?v=a9cff195"
    },
    "zeit": null,
@@ -2956,12 +3116,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Suoni uno strumento? – Sì, la chitarra, male.",
     "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "luecke": "Suoni uno strumento",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_09.mp3?v=63655abc"
    },
    "zeit": {
@@ -2990,12 +3152,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ascolto questa canzone in loop da tre giorni.",
     "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "luecke": "in loop",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_10.mp3?v=99698b00"
    },
    "zeit": {
@@ -3024,12 +3188,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ho « Volare » in testa da stamattina. Grazie, Giovanni.",
     "de": "Ich habe seit heute Morgen „Volare“ im Kopf. Danke, Giovanni.",
     "luecke": "in testa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_11.mp3?v=b25d6a43"
    },
    "zeit": {
@@ -3058,12 +3224,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Canticchio mentre correggo i compiti. Gli alunni non lo sanno.",
     "de": "Ich summe beim Korrigieren. Die Schüler wissen es nicht.",
     "luecke": "Canticchio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_12.mp3?v=55fb79cd"
    },
    "zeit": {
@@ -3092,12 +3260,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "L'italiano ha un ritmo: l'accento cade sulla penultima sillaba.",
     "de": "Das Italienische hat einen Rhythmus: Der Akzent fällt auf die vorletzte Silbe.",
     "luecke": "ritmo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_13.mp3?v=a90b697f"
    },
    "zeit": null,
@@ -3115,12 +3285,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pala e palla, nono e nonno: le doppie sono la musica tra le lettere.",
     "de": "Pala und palla, nono und nonno: Die Doppelkonsonanten sind die Musik zwischen den Buchstaben.",
     "luecke": "le doppie",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_14.mp3?v=5aa82dd0"
    },
    "zeit": null,
@@ -3138,12 +3310,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Non riesco a pronunciare « gli ». Dico « li ». Giovanni sorride.",
     "de": "Ich schaffe es nicht, „gli“ auszusprechen. Ich sage „li“. Giovanni lächelt.",
     "luecke": "pronunciare",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_15.mp3?v=9340b4d7"
    },
    "zeit": {
@@ -3172,12 +3346,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Questo brano per pianoforte mi rende felice e triste allo stesso tempo.",
     "de": "Dieses Klavierstück macht mich gleichzeitig glücklich und traurig.",
     "luecke": "brano",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_16.mp3?v=01b8ec06"
    },
    "zeit": null,
@@ -3195,12 +3371,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In macchina canto a squarciagola. Da solo. Sempre da solo.",
     "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "luecke": "a squarciagola",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_17.mp3?v=ae1db476"
    },
    "zeit": null,
@@ -3218,12 +3396,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Lui ha una voce bassa, lei una voce acuta, e io ho una voce da prof.",
     "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "luecke": "voce bassa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_18.mp3?v=71d93ba7"
    },
    "zeit": null,
@@ -3241,12 +3421,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Questa canzone mi parla. Non capisco tutto, ma mi parla.",
     "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "luecke": "mi parla",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_19.mp3?v=d1efe597"
    },
    "zeit": null,
@@ -3264,12 +3446,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Imparo i testi a memoria, è il mio vocabolario preferito.",
     "de": "Ich lerne die Liedtexte auswendig, das ist mein Lieblingswortschatz.",
     "luecke": "Imparo i testi a memoria",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_20.mp3?v=af65df01"
    },
    "zeit": {
@@ -3298,12 +3482,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sbaglio spesso parola, ma la melodia è giusta.",
     "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
     "luecke": "Sbaglio spesso parola",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_21.mp3?v=71d6fe46"
    },
    "zeit": {
@@ -3332,12 +3518,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cantare la sera mi fa bene.",
     "de": "Abends singen tut mir gut.",
     "luecke": "mi fa bene",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_22.mp3?v=6e90f8a6"
    },
    "zeit": {
@@ -3366,12 +3554,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "L'italiano è una lingua cantata. Anche quando ci si lamenta.",
     "de": "Italienisch ist eine gesungene Sprache. Auch beim Jammern.",
     "luecke": "lingua cantata",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_23.mp3?v=4291f1c5"
    },
    "zeit": null,
@@ -3389,12 +3579,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Scusi, potrebbe ripetere più lentamente? Ascolto la musica, non le parole.",
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "potrebbe ripetere più lentamente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/mu_24.mp3?v=37154f6e"
    },
    "zeit": null,
@@ -3412,12 +3604,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "C'era una volta un professore che non correggeva mai i compiti. È una favola.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "C'era una volta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_01.mp3?v=88d2b836"
    },
    "zeit": null,
@@ -3435,12 +3629,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La sera racconto una storia al mio gatto. Si addormenta prima della fine.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "racconto una storia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_02.mp3?v=e64c88b7"
    },
    "zeit": {
@@ -3469,12 +3665,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ogni buon romanzo comincia con una ricerca. Anche se è solo cercare le chiavi.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur die Schlüsselsuche ist.",
     "luecke": "ricerca",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_03.mp3?v=5a419b91"
    },
    "zeit": null,
@@ -3492,12 +3690,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nel folto del bosco c'era una casa. E nella casa, una luce.",
     "de": "Tief im Wald stand ein Haus. Und in dem Haus ein Licht.",
     "luecke": "Nel folto del bosco",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_04.mp3?v=3da46d21"
    },
    "zeit": null,
@@ -3515,12 +3715,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il drago non sputava fuoco. Sputava compiti.",
     "de": "Der Drache spie kein Feuer. Er spie Hausaufgaben.",
     "luecke": "drago",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_05.mp3?v=fcb9eb66"
    },
    "zeit": null,
@@ -3538,12 +3740,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "L'eroe ha preso la sua spada. Era pesante, come un lunedì.",
     "de": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "luecke": "spada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_06.mp3?v=b6bf1403"
    },
    "zeit": null,
@@ -3561,12 +3765,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un incantesimo ha trasformato la classe in silenzio. È durato solo tre minuti.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es dauerte nur drei Minuten.",
     "luecke": "incantesimo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_07.mp3?v=86c40ead"
    },
    "zeit": null,
@@ -3584,12 +3790,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "All'improvviso la porta si è aperta. Nessuno. Solo il vento. Spero.",
     "de": "Plötzlich öffnete sich die Tür. Niemand. Nur der Wind. Hoffe ich.",
     "luecke": "All'improvviso",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_08.mp3?v=0518c94d"
    },
    "zeit": null,
@@ -3607,12 +3815,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In questa storia tutti hanno un segreto. Anche il gatto.",
     "de": "In dieser Geschichte hat jeder ein Geheimnis. Sogar die Katze.",
     "luecke": "hanno un segreto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_09.mp3?v=4f4c0ae8"
    },
    "zeit": null,
@@ -3630,12 +3840,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In quel regno i libri parlavano e la gente ascoltava.",
     "de": "In jenem Königreich sprachen die Bücher, und die Leute hörten zu.",
     "luecke": "regno",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_10.mp3?v=190ec0cc"
    },
    "zeit": null,
@@ -3653,12 +3865,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La strega non era cattiva. Era stanca. La capisco.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "strega",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_11.mp3?v=85aff0fb"
    },
    "zeit": null,
@@ -3676,12 +3890,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A mezzanotte il prof si trasforma in lettore. Fino alle due del mattino.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "si trasforma in",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_12.mp3?v=231f9731"
    },
    "zeit": {
@@ -3710,12 +3926,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A un tratto, silenzio. Poi una voce: « Prof, quand'è la pausa? »",
     "de": "Auf einmal Stille. Dann eine Stimme: „Herr Lehrer, wann ist Pause?“",
     "luecke": "A un tratto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_13.mp3?v=5d72cc3d"
    },
    "zeit": null,
@@ -3733,12 +3951,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "L'eroe del mio romanzo preferito ha paura di tutto. Per questo è coraggioso.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "eroe",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_14.mp3?v=ba08269a"
    },
    "zeit": null,
@@ -3756,12 +3976,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il cattivo della storia è la sveglia. Le sei. Ogni giorno.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "cattivo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_15.mp3?v=2c47b514"
    },
    "zeit": null,
@@ -3779,12 +4001,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ho trovato una mappa del tesoro in un quaderno. Era la piantina della mensa.",
     "de": "Ich habe in einem Heft eine Schatzkarte gefunden. Es war der Plan der Mensa.",
     "luecke": "mappa del tesoro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_16.mp3?v=3d5be3f4"
    },
    "zeit": null,
@@ -3802,12 +4026,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pare che l'aula 13 esista. Pare anche che il gatto ci dorma.",
     "de": "Es heißt, Raum 13 existiere. Es heißt auch, die Katze schlafe dort.",
     "luecke": "Pare che",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_17.mp3?v=01accb78"
    },
    "zeit": null,
@@ -3825,12 +4051,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In questo romanzo la gente sparisce. Nella mia classe, le penne.",
     "de": "In diesem Roman verschwinden die Leute. In meiner Klasse die Stifte.",
     "luecke": "sparisce",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_18.mp3?v=b841619e"
    },
    "zeit": {
@@ -3859,12 +4087,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Voglio leggere il seguito subito. Ma è mezzanotte. Leggo il seguito.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "seguito",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_19.mp3?v=9c998d7a"
    },
    "zeit": null,
@@ -3882,12 +4112,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Questo libro mi tiene con il fiato sospeso da tre notti.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "con il fiato sospeso",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_20.mp3?v=475a3d1f"
    },
    "zeit": null,
@@ -3905,12 +4137,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Rabbrividisco a ogni capitolo. E continuo. È questo, il fantasy.",
     "de": "Ich schaudere bei jedem Kapitel. Und mache weiter. Das ist Fantasy.",
     "luecke": "Rabbrividisco",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_21.mp3?v=89d322bf"
    },
    "zeit": {
@@ -3939,12 +4173,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un colpo di scena a pagina 200: il gatto era il re fin dall'inizio.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "colpo di scena",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_22.mp3?v=a9bdfc59"
    },
    "zeit": null,
@@ -3962,12 +4198,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La fine di questa storia? Non la racconto. Leggi il libro.",
     "de": "Das Ende dieser Geschichte? Ich erzähle es nicht. Lies das Buch.",
     "luecke": "fine",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_23.mp3?v=8c6d8407"
    },
    "zeit": null,
@@ -3985,12 +4223,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Buongiorno, mi potrebbe consigliare un libro? Un po' cupo, un po' magico.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "mi potrebbe consigliare un libro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/st_24.mp3?v=67124159"
    },
    "zeit": null,
@@ -4008,12 +4248,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi alleno tre volte a settimana. Due, se sono onesto.",
     "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "luecke": "Mi alleno",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_01.mp3?v=3d91dfc7"
    },
    "zeit": {
@@ -4042,12 +4284,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un buon calcio è prima di tutto una buona posizione.",
     "de": "Ein guter Tritt ist zuerst eine gute Position.",
     "luecke": "calcio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_02.mp3?v=bdeb6ca9"
    },
    "zeit": null,
@@ -4065,12 +4309,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nel kung fu il pugno parte dal fianco, non dal braccio.",
     "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
     "luecke": "pugno",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_03.mp3?v=b19874f6"
    },
    "zeit": null,
@@ -4088,12 +4334,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A quarant'anni la flessibilità si allena ogni giorno. Altrimenti se ne va.",
     "de": "Mit vierzig trainiert man die Beweglichkeit jeden Tag. Sonst geht sie.",
     "luecke": "flessibilità",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_04.mp3?v=fb5a3447"
    },
    "zeit": null,
@@ -4111,12 +4359,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In combattimento come in classe: mantenere la calma, respirare, aspettare.",
     "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, warten.",
     "luecke": "mantenere la calma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_05.mp3?v=1926e597"
    },
    "zeit": {
@@ -4145,12 +4395,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Prima di allenarmi mi riscaldo dieci minuti. La mia schiena ringrazia.",
     "de": "Bevor ich trainiere, wärme ich mich zehn Minuten auf. Mein Rücken dankt.",
     "luecke": "mi riscaldo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_06.mp3?v=1638ada3"
    },
    "zeit": {
@@ -4179,12 +4431,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il giorno dopo ho i muscoli indolenziti dappertutto. Anche nelle orecchie.",
     "de": "Am Tag danach habe ich überall Muskelkater. Sogar in den Ohren.",
     "luecke": "ho i muscoli indolenziti",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_07.mp3?v=375aa228"
    },
    "zeit": {
@@ -4213,12 +4467,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sono in forma la mattina. Il pomeriggio sono prof.",
     "de": "Ich bin morgens fit. Nachmittags bin ich Lehrer.",
     "luecke": "in forma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_08.mp3?v=e4928766"
    },
    "zeit": null,
@@ -4236,12 +4492,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenere la posizione del cavaliere per due minuti: semplice. Non facile.",
     "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
     "luecke": "Tenere la posizione",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_09.mp3?v=140c4010"
    },
    "zeit": {
@@ -4270,12 +4528,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nel kung fu tutto comincia con la respirazione. Anche in classe.",
     "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
     "luecke": "respirazione",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_10.mp3?v=2845dfc0"
    },
    "zeit": null,
@@ -4293,12 +4553,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il mio maestro dice: « Lentamente è veloce. » Non ho ancora capito.",
     "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
     "luecke": "maestro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_11.mp3?v=b27e22db"
    },
    "zeit": null,
@@ -4316,12 +4578,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Imparo una nuova sequenza. Dodici movimenti. Ne conosco quattro.",
     "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kenne ich.",
     "luecke": "sequenza",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_12.mp3?v=7bdc533a"
    },
    "zeit": null,
@@ -4339,12 +4603,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Schivare è meglio che bloccare. Funziona anche in riunione.",
     "de": "Ausweichen ist besser als blocken. Das klappt auch in der Sitzung.",
     "luecke": "Schivare",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_13.mp3?v=72f6be1d"
    },
    "zeit": {
@@ -4373,12 +4639,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dopo l'allenamento sudo come una fontana. Una fontana felice.",
     "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "luecke": "sudo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_14.mp3?v=5fc7070a"
    },
    "zeit": {
@@ -4407,12 +4675,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Non mi faccio mai male. Tranne aprendo una scatoletta di umido.",
     "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Nassfutter.",
     "luecke": "mi faccio mai male",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_15.mp3?v=7bfbc42f"
    },
    "zeit": {
@@ -4441,12 +4711,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faccio stretching la sera, davanti alla tivù. Il gatto mi guarda, perplesso.",
     "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut mich an, ratlos.",
     "luecke": "Faccio stretching",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_16.mp3?v=e767c5fc"
    },
    "zeit": {
@@ -4475,12 +4747,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tra due serie riprendo fiato. A lungo.",
     "de": "Zwischen zwei Serien komme ich wieder zu Atem. Lange.",
     "luecke": "riprendo fiato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_17.mp3?v=40077a8c"
    },
    "zeit": {
@@ -4509,12 +4783,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Su una gamba ho equilibrio. Su due, dipende dal giorno.",
     "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
     "luecke": "ho equilibrio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_18.mp3?v=e524b94e"
    },
    "zeit": null,
@@ -4532,12 +4808,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La domenica mattina vado a correre. La domenica sera me ne pento.",
     "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "luecke": "vado a correre",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_19.mp3?v=33780681"
    },
    "zeit": {
@@ -4566,12 +4844,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La cintura non fa il maestro. Ma tiene su i pantaloni.",
     "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "luecke": "cintura",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_20.mp3?v=9cd330fb"
    },
    "zeit": null,
@@ -4589,12 +4869,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faccio progressi. Lentamente. Come dice il mio maestro, è veloce.",
     "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt, ist das schnell.",
     "luecke": "Faccio progressi",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_21.mp3?v=2da5be37"
    },
    "zeit": {
@@ -4623,12 +4905,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Oggi mi sono superato: trenta flessioni. Ieri, ventinove.",
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "mi sono superato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_22.mp3?v=4dc5d5b2"
    },
    "zeit": {
@@ -4657,12 +4941,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il kung fu è corpo e mente. La mia discute spesso con il mio corpo.",
     "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "luecke": "corpo e mente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_23.mp3?v=3cc0b4c5"
    },
    "zeit": null,
@@ -4680,12 +4966,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Buongiorno, posso iscrivermi al corso del martedì sera?",
     "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "luecke": "posso iscrivermi",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/sp_24.mp3?v=82272708"
    },
    "zeit": null,
@@ -4703,12 +4991,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cerco di mangiare equilibrato. Il cornetto della mattina non conta.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "mangiare equilibrato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_01.mp3?v=b346d9c5"
    },
    "zeit": {
@@ -4737,12 +5027,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La domenica vado a letto presto. Il resto della settimana ci provo.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "vado a letto presto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_02.mp3?v=87a3643c"
    },
    "zeit": {
@@ -4771,12 +5063,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Prendersi cura di sé è anche dire di no. Perfino a un cannolo.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Cannolo.",
     "luecke": "Prendersi cura di sé",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_03.mp3?v=659c3ab4"
    },
    "zeit": null,
@@ -4794,12 +5088,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faccio la spesa il sabato, con una lista. Torno con altre cose.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "Faccio la spesa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_04.mp3?v=f7ab4967"
    },
    "zeit": {
@@ -4828,12 +5124,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La sera cucino ascoltando musica. Il gatto supervisiona.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cucino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_05.mp3?v=4c225cdc"
    },
    "zeit": {
@@ -4862,12 +5160,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il mio piatto preferito? Quello che ha preparato qualcun altro.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "piatto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_06.mp3?v=90213d9b"
    },
    "zeit": null,
@@ -4885,12 +5185,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Alle quattro ho un languorino. Alle quattro e cinque anche.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "ho un languorino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_07.mp3?v=10171b38"
    },
    "zeit": {
@@ -4919,12 +5221,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Da Giovanni facciamo una scorpacciata. Sua madre gli manda le ricette.",
     "de": "Bei Giovanni schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
     "luecke": "facciamo una scorpacciata",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_08.mp3?v=a6669cae"
    },
    "zeit": {
@@ -4953,12 +5257,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "« Buon appetito! » – « Grazie, altrettanto. » – « Io non mangio. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, gleichfalls.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Buon appetito",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_09.mp3?v=0cd4fe46"
    },
    "zeit": null,
@@ -4976,12 +5282,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "C'è una panetteria accanto alla scuola. È un problema. Un bel problema.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein schönes Problem.",
     "luecke": "panetteria",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_10.mp3?v=fe062396"
    },
    "zeit": null,
@@ -4999,12 +5307,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bevo acqua tutto il giorno. E un caffè. O due. L'acqua è in mezzo.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "Bevo acqua",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_11.mp3?v=7365a6a4"
    },
    "zeit": {
@@ -5033,12 +5343,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sgranocchio mentre correggo. Ogni errore, un quadretto di cioccolato.",
     "de": "Ich knabbere beim Korrigieren. Für jeden Fehler ein Stückchen Schokolade.",
     "luecke": "Sgranocchio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_12.mp3?v=62dd8af4"
    },
    "zeit": {
@@ -5067,12 +5379,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dopo lo sport sto bene nella mia pelle. Anche prima, ma meno.",
     "de": "Nach dem Sport fühle ich mich wohl in meiner Haut. Vorher auch, aber weniger.",
     "luecke": "sto bene nella mia pelle",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_13.mp3?v=1321569e"
    },
    "zeit": null,
@@ -5090,12 +5404,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Faccio una pausa ogni ora. A volte la pausa dura un'ora.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "Faccio una pausa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_14.mp3?v=7c68744b"
    },
    "zeit": {
@@ -5124,12 +5440,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dopo il kung fu dormo come un ghiro. Un ghiro che russa.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Murmeltier. Ein Murmeltier, das schnarcht.",
     "luecke": "dormo come un ghiro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_15.mp3?v=b3d370ae"
    },
    "zeit": {
@@ -5158,12 +5476,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Stamattina sono in forma smagliante. Sospetto. Sono le sei.",
     "de": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
     "luecke": "in forma smagliante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_16.mp3?v=5db483e6"
    },
    "zeit": null,
@@ -5181,12 +5501,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A mezzogiorno prendo una boccata d'aria dieci minuti. Senza telefono. Beh, quasi.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "prendo una boccata d'aria",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_17.mp3?v=78a63f62"
    },
    "zeit": {
@@ -5215,12 +5537,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ho una ricetta per le lasagne. Viene da Giovanni, che l'ha avuta da sua madre.",
     "de": "Ich habe ein Rezept für Lasagne. Es kommt von Giovanni, der es von seiner Mutter hat.",
     "luecke": "ricetta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_18.mp3?v=849db8a3"
    },
    "zeit": null,
@@ -5238,12 +5562,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Assaggia questo. No, davvero, assaggia. Poi puoi dire che non ti piace.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Assaggia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_19.mp3?v=33786300"
    },
    "zeit": {
@@ -5272,12 +5598,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "È squisito! Cos'è? – Meglio non saperlo.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "squisito",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_20.mp3?v=3b9be800"
    },
    "zeit": null,
@@ -5295,12 +5623,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dopo educazione fisica gli alunni hanno sete. Io ho sete di silenzio.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "hanno sete",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_21.mp3?v=981d3e19"
    },
    "zeit": {
@@ -5329,12 +5659,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Oggi mi sono alzato col piede giusto. Il sinistro. Come sempre.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "mi sono alzato col piede giusto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_22.mp3?v=fcd07299"
    },
    "zeit": null,
@@ -5352,12 +5684,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Uno sfizio al giorno. Oggi: una crostata. Domani: un'altra crostata.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Crostata. Morgen: eine andere Crostata.",
     "luecke": "sfizio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_23.mp3?v=8f2e0087"
    },
    "zeit": null,
@@ -5375,12 +5709,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Buongiorno, vorrei una rosetta, per favore. Non troppo cotta.",
     "de": "Guten Tag, ich hätte gern ein Brötchen, bitte. Nicht zu dunkel.",
     "luecke": "vorrei",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ma_24.mp3?v=cd4364ea"
    },
    "zeit": null,
@@ -5398,12 +5734,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il bambino della mia collega dorme tutta la notte. Lei, non ancora.",
     "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
     "luecke": "dorme tutta la notte",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_01.mp3?v=bed20b08"
    },
    "zeit": {
@@ -5432,12 +5770,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Senza il suo peluche, impossibile dormire. Parlo del bambino. Beh, soprattutto.",
     "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
     "luecke": "peluche",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_02.mp3?v=5eb11a45"
    },
    "zeit": null,
@@ -5455,12 +5795,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "I bambini combinano guai. È il loro mestiere. Il mio è sorridere.",
     "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "luecke": "combinano guai",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_03.mp3?v=d79c849c"
    },
    "zeit": {
@@ -5489,12 +5831,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quando un bambino piange, lo si prende in braccio. È l'unica regola.",
     "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "luecke": "prende in braccio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_04.mp3?v=158e5ec1"
    },
    "zeit": {
@@ -5523,12 +5867,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un neonato non parla, ma dice tutto.",
     "de": "Ein Baby spricht nicht, aber es sagt alles.",
     "luecke": "neonato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_05.mp3?v=074c4a3e"
    },
    "zeit": null,
@@ -5546,12 +5892,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il bambino mi ha fatto un sorriso. La giornata era salva.",
     "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "luecke": "mi ha fatto un sorriso",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_06.mp3?v=a9490fd6"
    },
    "zeit": {
@@ -5580,12 +5928,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "I bambini crescono troppo in fretta. I compiti, invece, restano.",
     "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
     "luecke": "crescono",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_07.mp3?v=03f6b34c"
    },
    "zeit": {
@@ -5614,12 +5964,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il piccolo fa fatica ad addormentarsi. Allora canto. Funziona. Piange più piano.",
     "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "luecke": "fa fatica ad addormentarsi",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_08.mp3?v=339838d8"
    },
    "zeit": {
@@ -5648,12 +6000,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cambiare un pannolino in tre minuti: questa sì che è una vera sequenza di kung fu.",
     "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "luecke": "pannolino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_09.mp3?v=11ec464e"
    },
    "zeit": null,
@@ -5671,12 +6025,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "« Fai il bravo! » – « Faccio il bravo. » – « E perché il gatto è nella lavatrice? »",
     "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
     "luecke": "Fai il bravo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_10.mp3?v=0dba6fbc"
    },
    "zeit": null,
@@ -5694,12 +6050,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Giochiamo a nascondino. Si nasconde sempre dietro la tenda. Con i piedi fuori.",
     "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "luecke": "Giochiamo a nascondino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_11.mp3?v=c9e5cb60"
    },
    "zeit": {
@@ -5728,12 +6086,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Racconto una favola per farlo addormentare. Dopo tre pagine, dormo io.",
     "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "luecke": "Racconto una favola",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_12.mp3?v=93dba7bd"
    },
    "zeit": {
@@ -5762,12 +6122,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il bambino piange. Poi ride. Poi piange. È un concerto.",
     "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "luecke": "piange",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_13.mp3?v=e86ea435"
    },
    "zeit": {
@@ -5796,12 +6158,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un abbraccio prima della scuola, e la giornata comincia bene. Per tutti e due.",
     "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "luecke": "abbraccio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_14.mp3?v=ca9fb67d"
    },
    "zeit": null,
@@ -5819,12 +6183,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Impara a camminare. Tre passi, una caduta, una risata. La vita in miniatura.",
     "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "luecke": "Impara a camminare",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_15.mp3?v=4e4ab75e"
    },
    "zeit": {
@@ -5853,12 +6219,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sono fiero dei miei alunni. Soprattutto quando non lo sanno.",
     "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "luecke": "fiero dei",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_16.mp3?v=19ed0690"
    },
    "zeit": null,
@@ -5876,12 +6244,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Le sue prime parole: « papà », « gatto », « no ». In quest'ordine.",
     "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
     "luecke": "prime parole",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_17.mp3?v=6c03817c"
    },
    "zeit": null,
@@ -5899,12 +6269,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Con i bambini bisogna avere pazienza. Ne ho. Finisce alle cinque.",
     "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
     "luecke": "avere pazienza",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_18.mp3?v=96b7ee99"
    },
    "zeit": {
@@ -5933,12 +6305,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Alle quattro c'è la merenda. Per i bambini. E per me, per solidarietà.",
     "de": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "luecke": "merenda",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_19.mp3?v=d74d36a7"
    },
    "zeit": null,
@@ -5956,12 +6330,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il bambino ride a crepapelle quando il gatto starnutisce. Anch'io, in effetti.",
     "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "luecke": "ride a crepapelle",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_20.mp3?v=dd857d5d"
    },
    "zeit": {
@@ -5990,12 +6366,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "I piccoli fanno il riposino. I grandi anche, in segreto.",
     "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "luecke": "fanno il riposino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_21.mp3?v=68ab89ce"
    },
    "zeit": {
@@ -6024,12 +6402,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ha paura del buio. Allora lasciamo la porta aperta. E il gatto di guardia.",
     "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
     "luecke": "Ha paura del buio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_22.mp3?v=8806fec8"
    },
    "zeit": null,
@@ -6047,12 +6427,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "È l'ora del bagnetto! Sono tutti bagnati. Anche quelli che non fanno il bagno.",
     "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "luecke": "l'ora del bagnetto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_23.mp3?v=5de9e9e0"
    },
    "zeit": null,
@@ -6070,12 +6452,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "È adorabile. Quanti anni ha suo figlio? – Quattordici mesi. E quattro denti.",
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Quanti anni ha suo figlio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/ba_24.mp3?v=6c0903b8"
    },
    "zeit": null,
@@ -6093,12 +6477,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il caffè è caldo. Caldo, non freddo. Il tedesco inganna.",
     "de": "Der Kaffee ist heiß. Heiß, nicht kalt. Das Deutsche täuscht.",
     "luecke": "caldo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_01.mp3?v=a0fed2e1"
    },
    "zeit": null,
@@ -6116,12 +6502,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ho una camera con vista. La macchina fotografica è nella camera.",
     "de": "Ich habe ein Zimmer mit Aussicht. Die Kamera ist im Zimmer.",
     "luecke": "camera",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_02.mp3?v=340d42ee"
    },
    "zeit": null,
@@ -6139,12 +6527,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi serve la sua firma. Non la sua azienda. Solo la firma.",
     "de": "Ich brauche Ihre Unterschrift. Nicht Ihre Firma. Nur die Unterschrift.",
     "luecke": "firma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_03.mp3?v=4feb072f"
    },
    "zeit": null,
@@ -6162,12 +6552,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Al matrimonio ci sono i confetti. Bianchi, di mandorla. I coriandoli sono di carta.",
     "de": "Bei der Hochzeit gibt es Zuckermandeln. Weiß, mit Mandel. Das Konfetti ist aus Papier.",
     "luecke": "confetti",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_04.mp3?v=397277b5"
    },
    "zeit": null,
@@ -6185,12 +6577,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il vino è in cantina. La mensa è al piano terra. Non confonderle.",
     "de": "Der Wein ist im Keller. Die Kantine ist im Erdgeschoss. Nicht verwechseln.",
     "luecke": "cantina",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_05.mp3?v=9707eb53"
    },
    "zeit": null,
@@ -6208,12 +6602,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Vivo in una fattoria. Con galline. Non in una fabbrica.",
     "de": "Ich lebe auf einem Bauernhof. Mit Hühnern. Nicht in einer Fabrik.",
     "luecke": "fattoria",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_06.mp3?v=f959ca49"
    },
    "zeit": null,
@@ -6231,12 +6627,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il mio gatto è educato. Non è istruito. Educato.",
     "de": "Meine Katze ist wohlerzogen. Nicht gebildet. Wohlerzogen.",
     "luecke": "educato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_07.mp3?v=1b9bfd24"
    },
    "zeit": null,
@@ -6254,12 +6652,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Eventualmente verrò. Alla fine sono venuto. Non è la stessa cosa.",
     "de": "Möglicherweise komme ich. Schließlich bin ich gekommen. Das ist nicht dasselbe.",
     "luecke": "Eventualmente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_08.mp3?v=1369494a"
    },
    "zeit": null,
@@ -6277,12 +6677,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Attualmente correggo compiti. In realtà guardo il gatto.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Attualmente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_09.mp3?v=02194b69"
    },
    "zeit": null,
@@ -6300,12 +6702,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In libreria si compra. In biblioteca si prende in prestito. E si restituisce. In teoria.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "libreria",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_10.mp3?v=eb5ff8e3"
    },
    "zeit": null,
@@ -6323,12 +6727,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Assisto a una riunione. Non aiuto nessuno. Sono solo lì.",
     "de": "Ich wohne einer Sitzung bei. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "Assisto a",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_11.mp3?v=d90a1425"
    },
    "zeit": {
@@ -6357,12 +6763,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pretende di passare senza studiare. E fa finta di studiare.",
     "de": "Er beansprucht, ohne Lernen zu bestehen. Und tut so, als lerne er.",
     "luecke": "Pretende",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_12.mp3?v=64d4026a"
    },
    "zeit": {
@@ -6391,12 +6799,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il mio gatto è molto sensibile. Non ragionevole. Sensibile.",
     "de": "Meine Katze ist sehr empfindsam. Nicht vernünftig. Empfindsam.",
     "luecke": "sensibile",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_13.mp3?v=a4b7dbbb"
    },
    "zeit": null,
@@ -6414,12 +6824,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Il divano è morbido. Il gatto anche. Niente di morboso.",
     "de": "Das Sofa ist weich. Die Katze auch. Nichts Krankhaftes.",
     "luecke": "morbido",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_14.mp3?v=502694a5"
    },
    "zeit": null,
@@ -6437,12 +6849,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A Natale vengono i parenti. Tutti. I genitori sono solo due.",
     "de": "Zu Weihnachten kommen die Verwandten. Alle. Eltern sind nur zwei.",
     "luecke": "parenti",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_15.mp3?v=e5a8b14e"
    },
    "zeit": null,
@@ -6460,12 +6874,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "« Senza preservativi » su una marmellata? No. Si dice « senza conservanti ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "preservativi",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_16.mp3?v=233c8655"
    },
    "zeit": null,
@@ -6483,12 +6899,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In classe c'è rumore. Non voci di corridoio. Rumore e basta.",
     "de": "In der Klasse ist Lärm. Keine Gerüchte. Nur Lärm.",
     "luecke": "rumore",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_17.mp3?v=3a35adea"
    },
    "zeit": null,
@@ -6506,12 +6924,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Una stanza tutta per me. Con una poesia alla parete. Di tre strofe.",
     "de": "Ein Zimmer ganz für mich. Mit einem Gedicht an der Wand. Mit drei Strophen.",
     "luecke": "stanza",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_18.mp3?v=628090af"
    },
    "zeit": null,
@@ -6529,12 +6949,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "In sala professori c'è un casino. Non si gioca. È solo disordine.",
     "de": "Im Lehrerzimmer ist ein Chaos. Es wird nicht gespielt. Es ist nur Unordnung.",
     "luecke": "casino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_19.mp3?v=811dd60a"
    },
    "zeit": null,
@@ -6552,12 +6974,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Chiedo il burro a Siviglia e Diego ride. In Spagna « burro » è un asino.",
     "de": "Ich verlange in Sevilla Butter, und Diego lacht. In Spanien ist „burro“ ein Esel.",
     "luecke": "burro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_20.mp3?v=c9cfb352"
    },
    "zeit": null,
@@ -6575,12 +6999,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Salgo sul treno. Non lo sporco. In francese « salir » è sporcare.",
     "de": "Ich steige in den Zug ein. Ich mache ihn nicht schmutzig. Auf Französisch heißt „salir“ beschmutzen.",
     "luecke": "Salgo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_21.mp3?v=5a0f2767"
    },
    "zeit": {
@@ -6609,12 +7035,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Una strada larga. Non lunga. Larga. Lo spagnolo dice il contrario.",
     "de": "Eine breite Straße. Nicht lang. Breit. Das Spanische sagt das Gegenteil.",
     "luecke": "larga",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_22.mp3?v=e26e3738"
    },
    "zeit": null,
@@ -6632,12 +7060,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi fa male la gamba. In Spagna mi porterebbero un gamberetto.",
     "de": "Mein Bein tut weh. In Spanien würde man mir eine Garnele bringen.",
     "luecke": "gamba",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_23.mp3?v=f45db543"
    },
    "zeit": null,
@@ -6655,12 +7085,14 @@ window.SPRACHEN["it-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Scusi, cerco la biblioteca. – La libreria? – No, la biblioteca. Quella con i libri gratis.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
     "luecke": "cerco la biblioteca",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/it-de/saetze/fa_24.mp3?v=45bd29be"
    },
    "zeit": null,

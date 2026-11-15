@@ -628,12 +628,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "koʁiʒe de kopi",
    "satz": {
     "fr": "Ce soir, je corrige des copies de sixième.",
     "de": "Heute Abend korrigiere ich Arbeiten der Sechsten.",
     "luecke": "corrige des copies",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sə swaʁ ʒə koʁiʒ de kopi də sizjɛm",
     "audio": "audio/fr-de/saetze/ep_01.mp3?v=aa5b5528"
    },
    "zeit": {
@@ -662,12 +664,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ kʁəve",
    "satz": {
     "fr": "Après six heures de cours, je suis crevé.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "crevé",
     "gloss": null,
     "umschrift": null,
+    "ipa": "apʁɛ siz œʁ də kuʁ ʒə sɥi kʁəve",
     "audio": "audio/fr-de/saetze/ep_02.mp3?v=982f6967"
    },
    "zeit": {
@@ -696,12 +700,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa sɛ bjɛ̃ pase",
    "satz": {
     "fr": "Alors, ton cours avec les troisièmes, ça s'est bien passé ?",
     "de": "Und, deine Stunde mit den Neunern, ist sie gut gelaufen?",
     "luecke": "ça s'est bien passé",
     "gloss": null,
     "umschrift": null,
+    "ipa": "alɔʁ tɔ̃ kuʁ avɛk le tʁwazjɛm sa sɛ bjɛ̃ pase",
     "audio": "audio/fr-de/saetze/ep_03.mp3?v=1ece6f26"
    },
    "zeit": null,
@@ -719,12 +725,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ kuʁ",
    "satz": {
     "fr": "Je fais cours en anglais toute la matinée.",
     "de": "Ich unterrichte den ganzen Vormittag Englisch.",
     "luecke": "fais cours",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə fɛ kuʁ ɑ̃n ɑ̃ɡlɛ tut la matine",
     "audio": "audio/fr-de/saetze/ep_04.mp3?v=2062dd67"
    },
    "zeit": {
@@ -753,12 +761,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la ʁekʁe",
    "satz": {
     "fr": "On se retrouve en salle des profs à la récré ?",
     "de": "Treffen wir uns in der Pause im Lehrerzimmer?",
     "luecke": "à la récré",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɔ̃ sə ʁətʁuv ɑ̃ sal de pʁɔf a la ʁekʁe",
     "audio": "audio/fr-de/saetze/ep_05.mp3?v=9137ea72"
    },
    "zeit": null,
@@ -776,12 +786,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ at də",
    "satz": {
     "fr": "J'ai hâte d'être en vacances.",
     "de": "Ich kann die Ferien kaum erwarten.",
     "luecke": "ai hâte d'",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒe at dɛtʁ ɑ̃ vakɑ̃s",
     "audio": "audio/fr-de/saetze/ep_06.mp3?v=dee423b3"
    },
    "zeit": {
@@ -810,12 +822,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɑ̃n avwaʁ maʁ",
    "satz": {
     "fr": "J'en ai marre des réunions qui n'en finissent pas.",
     "de": "Ich habe die Nase voll von Besprechungen, die kein Ende nehmen.",
     "luecke": "en ai marre",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒɑ̃n e maʁ de ʁeynjɔ̃ ki nɑ̃ finis pa",
     "audio": "audio/fr-de/saetze/ep_07.mp3?v=4813348e"
    },
    "zeit": null,
@@ -833,12 +847,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ dy mal a",
    "satz": {
     "fr": "J'ai du mal à les faire taire le vendredi après-midi.",
     "de": "Freitagnachmittags fällt es mir schwer, sie ruhig zu kriegen.",
     "luecke": "ai du mal à",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒe dy mal a le fɛʁ tɛʁ lə vɑ̃dʁədi apʁɛmidi",
     "audio": "audio/fr-de/saetze/ep_08.mp3?v=6e0f2e15"
    },
    "zeit": {
@@ -867,12 +883,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa fɛ lɔ̃tɑ̃",
    "satz": {
     "fr": "Salut Aurélien ! Ça fait longtemps !",
     "de": "Hallo Aurélien! Lange nicht gesehen!",
     "luecke": "Ça fait longtemps",
     "gloss": null,
     "umschrift": null,
+    "ipa": "saly oʁeljɛ̃ sa fɛ lɔ̃tɑ̃",
     "audio": "audio/fr-de/saetze/ep_09.mp3?v=a2e53fbc"
    },
    "zeit": null,
@@ -890,12 +908,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "dy ku",
    "satz": {
     "fr": "Le prof de sport est malade, du coup je prends sa classe.",
     "de": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "luecke": "du coup",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə pʁɔf də spɔʁ ɛ malad dy ku ʒə pʁɑ̃ sa klas",
     "audio": "audio/fr-de/saetze/ep_10.mp3?v=e53e1975"
    },
    "zeit": {
@@ -924,12 +944,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɑ̃ fɛ",
    "satz": {
     "fr": "En fait, j'aime bien mes élèves de neuvième.",
     "de": "Eigentlich mag ich meine Neuner sehr gern.",
     "luecke": "En fait",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɑ̃ fɛ ʒɛm bjɛ̃ mez elɛv də nøvjɛm",
     "audio": "audio/fr-de/saetze/ep_11.mp3?v=25891bb4"
    },
    "zeit": null,
@@ -947,12 +969,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "kɑ̃ mɛm",
    "satz": {
     "fr": "C'est fatigant, mais j'adore ce métier quand même.",
     "de": "Es ist anstrengend, aber ich liebe diesen Beruf trotzdem.",
     "luecke": "quand même",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sɛ fatiɡɑ̃ mɛ ʒadɔʁ sə metje kɑ̃ mɛm",
     "audio": "audio/fr-de/saetze/ep_12.mp3?v=6ccbc9a4"
    },
    "zeit": null,
@@ -970,12 +994,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa vo lə ku",
    "satz": {
     "fr": "Préparer un bon cours, ça prend du temps, mais ça vaut le coup.",
     "de": "Eine gute Stunde vorzubereiten dauert, aber es lohnt sich.",
     "luecke": "ça vaut le coup",
     "gloss": null,
     "umschrift": null,
+    "ipa": "pʁepaʁe œ̃ bɔ̃ kuʁ sa pʁɑ̃ dy tɑ̃ mɛ sa vo lə ku",
     "audio": "audio/fr-de/saetze/ep_13.mp3?v=c6c5001c"
    },
    "zeit": {
@@ -1004,12 +1030,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə debʁuje",
    "satz": {
     "fr": "Les élèves se débrouillent bien tout seuls.",
     "de": "Die Schüler kommen allein gut zurecht.",
     "luecke": "se débrouillent",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lez elɛv sə debʁuj bjɛ̃ tu sœl",
     "audio": "audio/fr-de/saetze/ep_14.mp3?v=50d44048"
    },
    "zeit": {
@@ -1038,12 +1066,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ a fɔ̃",
    "satz": {
     "fr": "Aujourd'hui, les sixièmes étaient à fond.",
     "de": "Heute waren die Sechser voll dabei.",
     "luecke": "à fond",
     "gloss": null,
     "umschrift": null,
+    "ipa": "oʒuʁdɥi le sizjɛm etɛt a fɔ̃",
     "audio": "audio/fr-de/saetze/ep_15.mp3?v=492bbd92"
    },
    "zeit": null,
@@ -1061,12 +1091,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʁɑ̃dʁ le kopi",
    "satz": {
     "fr": "Je rends les copies lundi.",
     "de": "Ich gebe die Arbeiten am Montag zurück.",
     "luecke": "rends les copies",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə ʁɑ̃ le kopi lœ̃di",
     "audio": "audio/fr-de/saetze/ep_16.mp3?v=e020d53b"
    },
    "zeit": {
@@ -1095,12 +1127,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn ʁeynjɔ̃",
    "satz": {
     "fr": "J'ai une réunion à seize heures, tu viens ?",
     "de": "Ich habe um 16 Uhr eine Konferenz, kommst du?",
     "luecke": "une réunion",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒe yn ʁeynjɔ̃ a sɛz œʁ ty vjɛ̃",
     "audio": "audio/fr-de/saetze/ep_17.mp3?v=42e13e3b"
    },
    "zeit": null,
@@ -1118,12 +1152,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa nə fɛ ʁjɛ̃",
    "satz": {
     "fr": "Tu as oublié mon livre ? Ça ne fait rien.",
     "de": "Du hast mein Buch vergessen? Macht nichts.",
     "luecke": "Ça ne fait rien",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ty a ublie mɔ̃ livʁ sa nə fɛ ʁjɛ̃",
     "audio": "audio/fr-de/saetze/ep_18.mp3?v=c5cb3058"
    },
    "zeit": null,
@@ -1141,12 +1177,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "pʁɑ̃dʁ sɔ̃ tɑ̃",
    "satz": {
     "fr": "Prends ton temps, on a toute la soirée.",
     "de": "Lass dir Zeit, wir haben den ganzen Abend.",
     "luecke": "Prends ton temps",
     "gloss": null,
     "umschrift": null,
+    "ipa": "pʁɑ̃ tɔ̃ tɑ̃ ɔ̃n a tut la swaʁe",
     "audio": "audio/fr-de/saetze/ep_19.mp3?v=0b303202"
    },
    "zeit": null,
@@ -1164,12 +1202,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "puʁje vu …",
    "satz": {
     "fr": "Excusez-moi, pourriez-vous m'indiquer la salle des profs ?",
     "de": "Entschuldigung, könnten Sie mir das Lehrerzimmer zeigen?",
     "luecke": "pourriez-vous",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛkskyzemwa puʁje vu mɛ̃dike la sal de pʁɔf",
     "audio": "audio/fr-de/saetze/ep_20.mp3?v=7c2f69d7"
    },
    "zeit": null,
@@ -1187,12 +1227,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa mə tuʃ",
    "satz": {
     "fr": "Cette chanson me touche à chaque fois.",
     "de": "Dieses Lied berührt mich jedes Mal.",
     "luecke": "me touche",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sɛt ʃɑ̃sɔ̃ mə tuʃ a ʃak fwa",
     "audio": "audio/fr-de/saetze/se_01.mp3?v=3ad4f986"
    },
    "zeit": {
@@ -1221,12 +1263,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ lə kafaʁ",
    "satz": {
     "fr": "Le dimanche soir, j'ai souvent le cafard.",
     "de": "Sonntagabends bin ich oft niedergeschlagen.",
     "luecke": "le cafard",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə dimɑ̃ʃ swaʁ ʒe suvɑ̃ lə kafaʁ",
     "audio": "audio/fr-de/saetze/se_02.mp3?v=ae0604a5"
    },
    "zeit": {
@@ -1255,12 +1299,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sɔ̃bʁ",
    "satz": {
     "fr": "J'aime les histoires sombres, avec une forêt et un secret.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "sombres",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒɛm lez istwaʁ sɔ̃bʁ avɛk yn foʁɛ e œ̃ səkʁɛ",
     "audio": "audio/fr-de/saetze/se_03.mp3?v=feea7b8b"
    },
    "zeit": null,
@@ -1278,12 +1324,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "melɑ̃kolik",
    "satz": {
     "fr": "Ce morceau de piano est mélancolique, mais tellement beau.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "mélancolique",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sə mɔʁso də pjano ɛ melɑ̃kolik mɛ tɛlmɑ̃ bo",
     "audio": "audio/fr-de/saetze/se_04.mp3?v=194aa8d8"
    },
    "zeit": null,
@@ -1301,12 +1349,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa mə fɑ̃ lə kœʁ",
    "satz": {
     "fr": "Voir un enfant pleurer tout seul, ça me fend le cœur.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "me fend le cœur",
     "gloss": null,
     "umschrift": null,
+    "ipa": "vwaʁ œ̃n ɑ̃fɑ̃ pløʁe tu sœl sa mə fɑ̃ lə kœʁ",
     "audio": "audio/fr-de/saetze/se_05.mp3?v=3381f9ac"
    },
    "zeit": {
@@ -1335,12 +1385,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ emy",
    "satz": {
     "fr": "À la fin du concert, j'étais ému aux larmes.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "ému",
     "gloss": null,
     "umschrift": null,
+    "ipa": "a la fɛ̃ dy kɔ̃sɛʁ ʒetɛz emy o laʁm",
     "audio": "audio/fr-de/saetze/se_06.mp3?v=7f650ad2"
    },
    "zeit": null,
@@ -1358,12 +1410,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛ̃kjetɑ̃",
    "satz": {
     "fr": "La maison était silencieuse, c'était inquiétant.",
     "de": "Das Haus war still, das war unheimlich.",
     "luecke": "inquiétant",
     "gloss": null,
     "umschrift": null,
+    "ipa": "la mɛzɔ̃ etɛ silɑ̃sjøz setɛt ɛ̃kjetɑ̃",
     "audio": "audio/fr-de/saetze/se_07.mp3?v=94f9eb5a"
    },
    "zeit": null,
@@ -1381,12 +1435,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "apɛzɑ̃",
    "satz": {
     "fr": "Le ronronnement de mon chat est apaisant.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "apaisant",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə ʁɔ̃ʁɔnmɑ̃ də mɔ̃ ʃa ɛt apɛzɑ̃",
     "audio": "audio/fr-de/saetze/se_08.mp3?v=1b5b9753"
    },
    "zeit": null,
@@ -1404,12 +1460,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ le laʁm oz jø",
    "satz": {
     "fr": "Quand j'écoute cette voix, j'ai les larmes aux yeux.",
     "de": "Wenn ich diese Stimme höre, habe ich Tränen in den Augen.",
     "luecke": "ai les larmes aux yeux",
     "gloss": null,
     "umschrift": null,
+    "ipa": "kɑ̃ ʒekut sɛt vwa ʒe le laʁm oz jø",
     "audio": "audio/fr-de/saetze/se_09.mp3?v=6a6e1a20"
    },
    "zeit": {
@@ -1438,12 +1496,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa mə dɔn de fʁisɔ̃",
    "satz": {
     "fr": "Le refrain me donne des frissons.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "me donne des frissons",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə ʁəfʁɛ̃ mə dɔn de fʁisɔ̃",
     "audio": "audio/fr-de/saetze/se_10.mp3?v=d4327331"
    },
    "zeit": {
@@ -1472,12 +1532,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ pœʁ də",
    "satz": {
     "fr": "Je n'ai pas peur du noir, mais du silence.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "ai pas peur",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə ne pa pœʁ dy nwaʁ mɛ dy silɑ̃s",
     "audio": "audio/fr-de/saetze/se_11.mp3?v=a3ffc077"
    },
    "zeit": {
@@ -1506,12 +1568,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ də bɔn ymœʁ",
    "satz": {
     "fr": "Ce matin, je suis de bonne humeur, le soleil est là.",
     "de": "Heute Morgen bin ich gut gelaunt, die Sonne ist da.",
     "luecke": "de bonne humeur",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sə matɛ̃ ʒə sɥi də bɔn ymœʁ lə solɛj ɛ la",
     "audio": "audio/fr-de/saetze/se_12.mp3?v=44118662"
    },
    "zeit": {
@@ -1540,12 +1604,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ də movɛz ymœʁ",
    "satz": {
     "fr": "Ne lui parle pas, il est de mauvaise humeur.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "de mauvaise humeur",
     "gloss": null,
     "umschrift": null,
+    "ipa": "nə lɥi paʁl pa il ɛ də movɛz ymœʁ",
     "audio": "audio/fr-de/saetze/se_13.mp3?v=a05e0837"
    },
    "zeit": null,
@@ -1563,12 +1629,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa mə mɑ̃k",
    "satz": {
     "fr": "Mes chats me manquent quand je suis en voyage.",
     "de": "Meine Katzen fehlen mir, wenn ich unterwegs bin.",
     "luecke": "me manquent",
     "gloss": null,
     "umschrift": null,
+    "ipa": "me ʃa mə mɑ̃k kɑ̃ ʒə sɥiz ɑ̃ vwajaʒ",
     "audio": "audio/fr-de/saetze/se_14.mp3?v=10ff272a"
    },
    "zeit": {
@@ -1597,12 +1665,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɑ̃n avwaʁ ɡʁo syʁ lə kœʁ",
    "satz": {
     "fr": "Après cette journée, j'en ai gros sur le cœur.",
     "de": "Nach diesem Tag ist mir schwer ums Herz.",
     "luecke": "en ai gros sur le cœur",
     "gloss": null,
     "umschrift": null,
+    "ipa": "apʁɛ sɛt ʒuʁne ʒɑ̃n e ɡʁo syʁ lə kœʁ",
     "audio": "audio/fr-de/saetze/se_15.mp3?v=536593a1"
    },
    "zeit": {
@@ -1631,12 +1701,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "bulvɛʁsɑ̃",
    "satz": {
     "fr": "La fin du film est bouleversante.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "bouleversante",
     "gloss": null,
     "umschrift": null,
+    "ipa": "la fɛ̃ dy film ɛ bulvɛʁsɑ̃t",
     "audio": "audio/fr-de/saetze/se_16.mp3?v=d5f6dc61"
    },
    "zeit": null,
@@ -1654,12 +1726,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə sɑ̃tiʁ bjɛ̃ / mal",
    "satz": {
     "fr": "Après le kung-fu, je me sens bien, léger.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "me sens bien",
     "gloss": null,
     "umschrift": null,
+    "ipa": "apʁɛ lə kuŋfu ʒə mə sɑ̃ bjɛ̃ leʒe",
     "audio": "audio/fr-de/saetze/se_17.mp3?v=0f68a13f"
    },
    "zeit": {
@@ -1688,12 +1762,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ lə kœʁ luʁ",
    "satz": {
     "fr": "Elle est partie, et j'ai le cœur lourd.",
     "de": "Sie ist gegangen, und mir ist schwer ums Herz.",
     "luecke": "ai le cœur lourd",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛl ɛ paʁti e ʒe lə kœʁ luʁ",
     "audio": "audio/fr-de/saetze/se_18.mp3?v=2247ffef"
    },
    "zeit": {
@@ -1722,12 +1798,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa mə ʁɑ̃ tʁist / øʁø",
    "satz": {
     "fr": "La pluie sur Paris me rend un peu triste.",
     "de": "Der Regen über Paris macht mich ein bisschen traurig.",
     "luecke": "me rend",
     "gloss": null,
     "umschrift": null,
+    "ipa": "la plyi syʁ paʁi mə ʁɑ̃t œ̃ pø tʁist",
     "audio": "audio/fr-de/saetze/se_19.mp3?v=db791dae"
    },
    "zeit": {
@@ -1756,12 +1834,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "lə klɛʁɔbskyʁ",
    "satz": {
     "fr": "J'adore le clair-obscur dans les tableaux du Louvre.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden im Louvre.",
     "luecke": "clair-obscur",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒadɔʁ lə klɛʁɔbskyʁ dɑ̃ le tablo dy luvʁ",
     "audio": "audio/fr-de/saetze/se_20.mp3?v=39ee3577"
    },
    "zeit": null,
@@ -1779,12 +1859,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "pɛzibl",
    "satz": {
     "fr": "Le soir, le jardin est paisible.",
     "de": "Abends ist der Garten friedlich.",
     "luecke": "paisible",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə swaʁ lə ʒaʁdɛ̃ ɛ pɛzibl",
     "audio": "audio/fr-de/saetze/se_21.mp3?v=68c94731"
    },
    "zeit": null,
@@ -1802,12 +1884,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɑ̃ɡwasɑ̃",
    "satz": {
     "fr": "Le couloir vide du musée était angoissant.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angoissant",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə kulwaʁ vid dy myze etɛt ɑ̃ɡwasɑ̃",
     "audio": "audio/fr-de/saetze/se_22.mp3?v=f2bfd0e6"
    },
    "zeit": null,
@@ -1825,12 +1909,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ dy ʃaɡʁɛ̃",
    "satz": {
     "fr": "Il a du chagrin depuis la mort de son chat.",
     "de": "Er hat Kummer, seit seine Katze gestorben ist.",
     "luecke": "a du chagrin",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il a dy ʃaɡʁɛ̃ dəpɥi la mɔʁ də sɔ̃ ʃa",
     "audio": "audio/fr-de/saetze/se_23.mp3?v=7a2ee755"
    },
    "zeit": {
@@ -1859,12 +1945,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʒə sɥi dezole",
    "satz": {
     "fr": "Je suis désolé, madame, je ne voulais pas vous déranger.",
     "de": "Es tut mir leid, Madame, ich wollte Sie nicht stören.",
     "luecke": "suis désolé",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə sɥi dezole madam ʒə nə vulɛ pa vu deʁɑ̃ʒe",
     "audio": "audio/fr-de/saetze/se_24.mp3?v=39f2a9c0"
    },
    "zeit": null,
@@ -1882,12 +1970,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʁɔ̃ʁɔne",
    "satz": {
     "fr": "Mon chat ronronne dès que je m'assieds.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "ronronne",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mɔ̃ ʃa ʁɔ̃ʁɔn dɛ kə ʒə masje",
     "audio": "audio/fr-de/saetze/ch_01.mp3?v=f6aefec6"
    },
    "zeit": {
@@ -1916,12 +2006,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ œ̃ kalɛ̃",
    "satz": {
     "fr": "Le soir, elle vient me faire un câlin sur le canapé.",
     "de": "Abends kommt sie auf dem Sofa zu mir zum Schmusen.",
     "luecke": "faire un câlin",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə swaʁ ɛl vjɛ̃ mə fɛʁ œ̃ kalɛ̃ syʁ lə kanape",
     "audio": "audio/fr-de/saetze/ch_02.mp3?v=e9764df9"
    },
    "zeit": {
@@ -1950,12 +2042,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɡʁife",
    "satz": {
     "fr": "Attention, il griffe quand on le caresse trop longtemps.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "griffe",
     "gloss": null,
     "umschrift": null,
+    "ipa": "atɑ̃sjɔ̃ il ɡʁif kɑ̃t ɔ̃ lə kaʁɛs tʁo lɔ̃tɑ̃",
     "audio": "audio/fr-de/saetze/ch_03.mp3?v=a9ebac54"
    },
    "zeit": {
@@ -1984,12 +2078,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ sa twalɛt",
    "satz": {
     "fr": "Après le repas, il fait sa toilette pendant dix minutes.",
     "de": "Nach dem Essen putzt er sich zehn Minuten lang.",
     "luecke": "fait sa toilette",
     "gloss": null,
     "umschrift": null,
+    "ipa": "apʁɛ lə ʁəpa il fɛ sa twalɛt pɑ̃dɑ̃ di minyt",
     "audio": "audio/fr-de/saetze/ch_04.mp3?v=9d4a3b25"
    },
    "zeit": {
@@ -2018,12 +2114,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "mjole",
    "satz": {
     "fr": "Elle miaule devant la porte de la cuisine à six heures du matin.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "miaule",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛl mjol dəvɑ̃ la pɔʁt də la kɥizin a siz œʁ dy matɛ̃",
     "audio": "audio/fr-de/saetze/ch_05.mp3?v=2777d6aa"
    },
    "zeit": {
@@ -2052,12 +2150,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ fɛ̃",
    "satz": {
     "fr": "D'après lui, il a toujours faim.",
     "de": "Wenn es nach ihm geht, hat er immer Hunger.",
     "luecke": "a toujours faim",
     "gloss": null,
     "umschrift": null,
+    "ipa": "dapʁɛ lɥi il a tuʒuʁ fɛ̃",
     "audio": "audio/fr-de/saetze/ch_06.mp3?v=d3c62755"
    },
    "zeit": {
@@ -2086,12 +2186,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "kaʁɛse",
    "satz": {
     "fr": "Je caresse ma chatte derrière les oreilles, elle adore ça.",
     "de": "Ich streichle meine Katze hinter den Ohren, das liebt sie.",
     "luecke": "caresse",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə kaʁɛs ma ʃat dɛʁjɛʁ lez oʁɛj ɛl adɔʁ sa",
     "audio": "audio/fr-de/saetze/ch_07.mp3?v=7fc512cb"
    },
    "zeit": {
@@ -2120,12 +2222,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ se ɡʁif",
    "satz": {
     "fr": "Il fait ses griffes sur le fauteuil, jamais sur le griffoir.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "fait ses griffes",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il fɛ se ɡʁif syʁ lə fotœj ʒamɛ syʁ lə ɡʁifwaʁ",
     "audio": "audio/fr-de/saetze/ch_08.mp3?v=4847119a"
    },
    "zeit": {
@@ -2154,12 +2258,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ felɛ̃",
    "satz": {
     "fr": "Un chat, c'est un petit félin qui a décidé de vivre avec nous.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "félin",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ ʃa sɛt œ̃ pəti felɛ̃ ki a deside də vivʁ avɛk nu",
     "audio": "audio/fr-de/saetze/ch_09.mp3?v=6970128c"
    },
    "zeit": null,
@@ -2177,12 +2283,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ la sjɛst",
    "satz": {
     "fr": "Mon chat fait la sieste seize heures par jour. Quelle vie.",
     "de": "Meine Katze macht sechzehn Stunden am Tag Nickerchen. Was für ein Leben.",
     "luecke": "fait la sieste",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mɔ̃ ʃa fɛ la sjɛst sɛz œʁ paʁ ʒuʁ kɛl vi",
     "audio": "audio/fr-de/saetze/ch_10.mp3?v=365c4761"
    },
    "zeit": {
@@ -2211,12 +2319,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə fʁɔte kɔ̃tʁ",
    "satz": {
     "fr": "Elle se frotte contre mes jambes quand je rentre.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "se frotte contre",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛl sə fʁɔt kɔ̃tʁ me ʒɑ̃b kɑ̃ ʒə ʁɑ̃tʁ",
     "audio": "audio/fr-de/saetze/ch_11.mp3?v=3772c26c"
    },
    "zeit": {
@@ -2245,12 +2355,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "le kʁokɛt",
    "satz": {
     "fr": "Il préfère les croquettes du voisin aux siennes.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seins.",
     "luecke": "croquettes",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il pʁefɛʁ le kʁokɛt dy vwazɛ̃ o sjɛn",
     "audio": "audio/fr-de/saetze/ch_12.mp3?v=bc494628"
    },
    "zeit": null,
@@ -2268,12 +2380,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la pate",
    "satz": {
     "fr": "À midi, c'est la pâtée, et il le sait.",
     "de": "Mittags gibt es Nassfutter, und das weiß er.",
     "luecke": "pâtée",
     "gloss": null,
     "umschrift": null,
+    "ipa": "a midi sɛ la pate e il lə sɛ",
     "audio": "audio/fr-de/saetze/ch_13.mp3?v=470b13f5"
    },
    "zeit": null,
@@ -2291,12 +2405,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ œ̃ ʁəɡaʁ",
    "satz": {
     "fr": "Elle a un regard qui dit : « Tu es en retard. »",
     "de": "Sie hat einen Blick, der sagt: „Du bist spät dran.“",
     "luecke": "a un regard",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛl a œ̃ ʁəɡaʁ ki di ty ɛz ɑ̃ ʁətaʁ",
     "audio": "audio/fr-de/saetze/ch_14.mp3?v=ce56a6be"
    },
    "zeit": null,
@@ -2314,12 +2430,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sote syʁ",
    "satz": {
     "fr": "Il saute sur le bureau pendant que je corrige des copies.",
     "de": "Er springt auf den Schreibtisch, während ich Arbeiten korrigiere.",
     "luecke": "saute sur",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il sot syʁ lə byʁo pɑ̃dɑ̃ kə ʒə koʁiʒ de kopi",
     "audio": "audio/fr-de/saetze/ch_15.mp3?v=04aaa7b0"
    },
    "zeit": {
@@ -2348,12 +2466,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə kaʃe",
    "satz": {
     "fr": "Quand l'aspirateur sort, elle se cache sous le lit.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unterm Bett.",
     "luecke": "se cache",
     "gloss": null,
     "umschrift": null,
+    "ipa": "kɑ̃ laspiʁatœʁ sɔʁ ɛl sə kaʃ su lə li",
     "audio": "audio/fr-de/saetze/ch_16.mp3?v=7b444cd1"
    },
    "zeit": {
@@ -2382,12 +2502,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "təniʁ kɔ̃pani",
    "satz": {
     "fr": "Mes chats me tiennent compagnie quand je prépare mes cours.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich Unterricht vorbereite.",
     "luecke": "tiennent compagnie",
     "gloss": null,
     "umschrift": null,
+    "ipa": "me ʃa mə tjɛn kɔ̃pani kɑ̃ ʒə pʁepaʁ me kuʁ",
     "audio": "audio/fr-de/saetze/ch_17.mp3?v=6491f6fe"
    },
    "zeit": {
@@ -2416,12 +2538,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ ʃa də ɡutjɛʁ",
    "satz": {
     "fr": "Ce n'est pas un chat de race, c'est un chat de gouttière, et il est parfait.",
     "de": "Es ist keine Rassekatze, es ist eine ganz normale Hauskatze, und er ist perfekt.",
     "luecke": "chat de gouttière",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sə nɛ paz œ̃ ʃa də ʁas sɛt œ̃ ʃa də ɡutjɛʁ e il ɛ paʁfɛ",
     "audio": "audio/fr-de/saetze/ch_18.mp3?v=0d87aba5"
    },
    "zeit": null,
@@ -2439,12 +2563,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ de bɛtiz",
    "satz": {
     "fr": "Quand je ne suis pas là, ils font des bêtises.",
     "de": "Wenn ich nicht da bin, machen sie Unsinn.",
     "luecke": "font des bêtises",
     "gloss": null,
     "umschrift": null,
+    "ipa": "kɑ̃ ʒə nə sɥi pa la il fɔ̃ de bɛtiz",
     "audio": "audio/fr-de/saetze/ch_19.mp3?v=fd809378"
    },
    "zeit": {
@@ -2473,12 +2599,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "lə veteʁinɛʁ",
    "satz": {
     "fr": "Chez le vétérinaire, mon chat devient très, très calme.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "vétérinaire",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʃe lə veteʁinɛʁ mɔ̃ ʃa dəvjɛ̃ tʁɛ tʁɛ kalm",
     "audio": "audio/fr-de/saetze/ch_20.mp3?v=b3ee0f05"
    },
    "zeit": null,
@@ -2496,12 +2624,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa nə lə deʁɑ̃ʒ pa",
    "satz": {
     "fr": "Je chante faux, mais ça ne le dérange pas. Enfin, je crois.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich zumindest.",
     "luecke": "ça ne le dérange pas",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə ʃɑ̃t fo mɛ sa nə lə deʁɑ̃ʒ pa ɑ̃fɛ̃ ʒə kʁwa",
     "audio": "audio/fr-de/saetze/ch_21.mp3?v=c7e648c5"
    },
    "zeit": null,
@@ -2519,12 +2649,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ ɛ̃depɑ̃dɑ̃",
    "satz": {
     "fr": "Un chat est indépendant. Il revient quand il a faim.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "indépendant",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ ʃa ɛt ɛ̃depɑ̃dɑ̃ il ʁəvjɛ̃ kɑ̃t il a fɛ̃",
     "audio": "audio/fr-de/saetze/ch_22.mp3?v=cb094e20"
    },
    "zeit": null,
@@ -2542,12 +2674,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʁɔ̃ʁɔne də plɛziʁ",
    "satz": {
     "fr": "Au soleil, elle ronronne de plaisir, les yeux fermés.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "ronronne de plaisir",
     "gloss": null,
     "umschrift": null,
+    "ipa": "o solɛj ɛl ʁɔ̃ʁɔn də plɛziʁ lez jø fɛʁme",
     "audio": "audio/fr-de/saetze/ch_23.mp3?v=2eca76fb"
    },
    "zeit": {
@@ -2576,12 +2710,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛs kə vuz ave œ̃ ʃa",
    "satz": {
     "fr": "Excusez-moi, madame, est-ce que vous avez un chat ? Il y en a un sur votre toit.",
     "de": "Entschuldigung, Madame, haben Sie eine Katze? Da sitzt eine auf Ihrem Dach.",
     "luecke": "est-ce que vous avez",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛkskyzemwa madam ɛs kə vuz ave œ̃ ʃa il i ɑ̃n a œ̃ syʁ votʁ twa",
     "audio": "audio/fr-de/saetze/ch_24.mp3?v=d0d60eb0"
    },
    "zeit": null,
@@ -2599,12 +2735,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʃɑ̃te ʒyst",
    "satz": {
     "fr": "Mon frère chante juste, moi je chante avec le cœur.",
     "de": "Mein Bruder singt sauber, ich singe mit dem Herzen.",
     "luecke": "chante juste",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mɔ̃ fʁɛʁ ʃɑ̃t ʒyst mwa ʒə ʃɑ̃t avɛk lə kœʁ",
     "audio": "audio/fr-de/saetze/mu_01.mp3?v=31f58035"
    },
    "zeit": {
@@ -2633,12 +2771,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʃɑ̃te fo",
    "satz": {
     "fr": "Je chante faux, mais fort. Ça compense.",
     "de": "Ich singe schief, aber laut. Das gleicht es aus.",
     "luecke": "chante faux",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə ʃɑ̃t fo mɛ fɔʁ sa kɔ̃pɑ̃s",
     "audio": "audio/fr-de/saetze/mu_02.mp3?v=4d4cb5bc"
    },
    "zeit": {
@@ -2667,12 +2807,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "lə ʁəfʁɛ̃",
    "satz": {
     "fr": "Je ne connais pas les paroles, mais le refrain, oui.",
     "de": "Ich kenne den Text nicht, aber den Refrain schon.",
     "luecke": "refrain",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə nə kɔnɛ pa le paʁol mɛ lə ʁəfʁɛ̃ wi",
     "audio": "audio/fr-de/saetze/mu_03.mp3?v=d6bb30a9"
    },
    "zeit": null,
@@ -2690,12 +2832,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "le paʁol",
    "satz": {
     "fr": "Les paroles de cette chanson me donnent des frissons.",
     "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
     "luecke": "paroles",
     "gloss": null,
     "umschrift": null,
+    "ipa": "le paʁol də sɛt ʃɑ̃sɔ̃ mə dɔn de fʁisɔ̃",
     "audio": "audio/fr-de/saetze/mu_04.mp3?v=2c9b5b29"
    },
    "zeit": null,
@@ -2713,12 +2857,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa sɔn bjɛ̃",
    "satz": {
     "fr": "En français, cette phrase sonne bien. En allemand, moins.",
     "de": "Auf Französisch klingt dieser Satz gut. Auf Deutsch weniger.",
     "luecke": "sonne bien",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɑ̃ fʁɑ̃sɛ sɛt fʁaz sɔn bjɛ̃ ɑ̃n almɑ̃ mwɛ̃",
     "audio": "audio/fr-de/saetze/mu_05.mp3?v=6c8170ac"
    },
    "zeit": {
@@ -2747,12 +2893,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ loʁɛj",
    "satz": {
     "fr": "Aurélien a l'oreille : il entend mon accent allemand tout de suite.",
     "de": "Aurélien hat ein gutes Gehör: Er hört meinen deutschen Akzent sofort.",
     "luecke": "a l'oreille",
     "gloss": null,
     "umschrift": null,
+    "ipa": "oʁeljɛ̃ a loʁɛj il ɑ̃tɑ̃ mɔ̃n aksɑ̃ almɑ̃ tu də sɥit",
     "audio": "audio/fr-de/saetze/mu_06.mp3?v=3fb438cb"
    },
    "zeit": null,
@@ -2770,12 +2918,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "laksɑ̃",
    "satz": {
     "fr": "Mon accent, c'est un mélange de Sarre et de bonne volonté.",
     "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "luecke": "accent",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mɔ̃n aksɑ̃ sɛt œ̃ melɑ̃ʒ də saʁ e də bɔn volɔ̃te",
     "audio": "audio/fr-de/saetze/mu_07.mp3?v=3f87a94f"
    },
    "zeit": null,
@@ -2793,12 +2943,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la myzik də la lɑ̃ɡ",
    "satz": {
     "fr": "Ce que j'aime en français, c'est la musique de la langue.",
     "de": "Was ich am Französischen liebe, ist die Musik der Sprache.",
     "luecke": "musique de la langue",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sə kə ʒɛm ɑ̃ fʁɑ̃sɛ sɛ la myzik də la lɑ̃ɡ",
     "audio": "audio/fr-de/saetze/mu_08.mp3?v=f40bdb45"
    },
    "zeit": null,
@@ -2816,12 +2968,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʒwe dœ̃n ɛ̃stʁymɑ̃",
    "satz": {
     "fr": "Tu joues d'un instrument ? – Oui, de la guitare, mal.",
     "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "luecke": "joues d'un instrument",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ty ʒu dœ̃n ɛ̃stʁymɑ̃ wi də la ɡitaʁ mal",
     "audio": "audio/fr-de/saetze/mu_09.mp3?v=59fad888"
    },
    "zeit": {
@@ -2850,12 +3004,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ekute ɑ̃ bukl",
    "satz": {
     "fr": "J'écoute cette chanson en boucle depuis trois jours.",
     "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "luecke": "en boucle",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒekut sɛt ʃɑ̃sɔ̃ ɑ̃ bukl dəpɥi tʁwa ʒuʁ",
     "audio": "audio/fr-de/saetze/mu_10.mp3?v=25952e07"
    },
    "zeit": {
@@ -2884,12 +3040,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ yn ʃɑ̃sɔ̃ dɑ̃ la tɛt",
    "satz": {
     "fr": "J'ai « Ne me quitte pas » dans la tête depuis ce matin. Merci, Aurélien.",
     "de": "Ich habe seit heute Morgen „Ne me quitte pas“ als Ohrwurm. Danke, Aurélien.",
     "luecke": "dans la tête",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒe nə mə kit pa dɑ̃ la tɛt dəpɥi sə matɛ̃ mɛʁsi oʁeljɛ̃",
     "audio": "audio/fr-de/saetze/mu_11.mp3?v=1c812ad0"
    },
    "zeit": null,
@@ -2907,12 +3065,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fʁədɔne",
    "satz": {
     "fr": "Je fredonne en corrigeant des copies. Les élèves ne le savent pas.",
     "de": "Ich summe beim Korrigieren. Die Schüler wissen das nicht.",
     "luecke": "fredonne",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə fʁədɔn ɑ̃ koʁiʒɑ̃ de kopi lez elɛv nə lə sav pa",
     "audio": "audio/fr-de/saetze/mu_12.mp3?v=ef5591eb"
    },
    "zeit": {
@@ -2941,12 +3101,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "lə ʁitm",
    "satz": {
     "fr": "Le français a un rythme : on accentue la fin des mots.",
     "de": "Das Französische hat einen Rhythmus: Man betont das Wortende.",
     "luecke": "rythme",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə fʁɑ̃sɛ a œ̃ ʁitm ɔ̃n aksɑ̃ty la fɛ̃ de mo",
     "audio": "audio/fr-de/saetze/mu_13.mp3?v=491ca84f"
    },
    "zeit": null,
@@ -2964,12 +3126,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la ljɛzɔ̃",
    "satz": {
     "fr": "Les‿enfants, les‿amis : la liaison, c'est la musique entre les mots.",
     "de": "Les‿enfants, les‿amis: Die Liaison ist die Musik zwischen den Wörtern.",
     "luecke": "liaison",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lez ɑ̃fɑ̃ lez ami la ljɛzɔ̃ sɛ la myzik ɑ̃tʁ le mo",
     "audio": "audio/fr-de/saetze/mu_14.mp3?v=f133a229"
    },
    "zeit": null,
@@ -2987,12 +3151,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "pʁonɔ̃se",
    "satz": {
     "fr": "Je n'arrive pas à prononcer « grenouille ». Je dis « grenade ».",
     "de": "Ich kann „grenouille“ nicht aussprechen. Ich sage „grenade“.",
     "luecke": "prononcer",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə naʁiv paz a pʁonɔ̃se ɡʁənuj ʒə di ɡʁənad",
     "audio": "audio/fr-de/saetze/mu_15.mp3?v=cf8a0f5f"
    },
    "zeit": {
@@ -3021,12 +3187,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ mɔʁso",
    "satz": {
     "fr": "Ce morceau de piano me rend heureux et triste en même temps.",
     "de": "Dieses Klavierstück macht mich gleichzeitig glücklich und traurig.",
     "luecke": "morceau",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sə mɔʁso də pjano mə ʁɑ̃ øʁø e tʁist ɑ̃ mɛm tɑ̃",
     "audio": "audio/fr-de/saetze/mu_16.mp3?v=d784d97a"
    },
    "zeit": null,
@@ -3044,12 +3212,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "a tytɛt",
    "satz": {
     "fr": "Dans la voiture, je chante à tue-tête. Seul. Toujours seul.",
     "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "luecke": "à tue-tête",
     "gloss": null,
     "umschrift": null,
+    "ipa": "dɑ̃ la vwatyʁ ʒə ʃɑ̃t a tytɛt sœl tuʒuʁ sœl",
     "audio": "audio/fr-de/saetze/mu_17.mp3?v=070f1c4f"
    },
    "zeit": null,
@@ -3067,12 +3237,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn vwa ɡʁav / ɛɡy",
    "satz": {
     "fr": "Il a une voix grave, elle a une voix aiguë, et moi j'ai une voix de prof.",
     "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "luecke": "voix grave",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il a yn vwa ɡʁav ɛl a yn vwa ɛɡy e mwa ʒe yn vwa də pʁɔf",
     "audio": "audio/fr-de/saetze/mu_18.mp3?v=491b8253"
    },
    "zeit": null,
@@ -3090,12 +3262,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa mə paʁl",
    "satz": {
     "fr": "Cette chanson me parle. Je ne comprends pas tout, mais elle me parle.",
     "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "luecke": "me parle",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sɛt ʃɑ̃sɔ̃ mə paʁl ʒə nə kɔ̃pʁɑ̃ pa tu mɛ ɛl mə paʁl",
     "audio": "audio/fr-de/saetze/mu_19.mp3?v=b07c4c9e"
    },
    "zeit": {
@@ -3124,12 +3298,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "apʁɑ̃dʁ paʁ kœʁ",
    "satz": {
     "fr": "J'apprends les paroles par cœur, c'est mon vocabulaire préféré.",
     "de": "Ich lerne die Liedtexte auswendig, das ist mein liebstes Vokabular.",
     "luecke": "par cœur",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒapʁɑ̃ le paʁol paʁ kœʁ sɛ mɔ̃ vokabylɛʁ pʁefeʁe",
     "audio": "audio/fr-de/saetze/mu_20.mp3?v=465b3a13"
    },
    "zeit": {
@@ -3158,12 +3334,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə tʁɔ̃pe də mo",
    "satz": {
     "fr": "Je me trompe souvent de mot, mais la mélodie est juste.",
     "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
     "luecke": "me trompe",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə mə tʁɔ̃p suvɑ̃ də mo mɛ la melodi ɛ ʒyst",
     "audio": "audio/fr-de/saetze/mu_21.mp3?v=36b0e4f6"
    },
    "zeit": {
@@ -3192,12 +3370,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sa mə fɛ dy bjɛ̃",
    "satz": {
     "fr": "Chanter le soir, ça me fait du bien.",
     "de": "Abends singen tut mir gut.",
     "luecke": "me fait du bien",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʃɑ̃te lə swaʁ sa mə fɛ dy bjɛ̃",
     "audio": "audio/fr-de/saetze/mu_22.mp3?v=e003e287"
    },
    "zeit": {
@@ -3226,12 +3406,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn lɑ̃ɡ ʃɑ̃tɑ̃t",
    "satz": {
     "fr": "Le français est une langue chantante. Même quand on râle.",
     "de": "Französisch ist eine singende Sprache. Sogar wenn man meckert.",
     "luecke": "chantante",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə fʁɑ̃sɛ ɛt yn lɑ̃ɡ ʃɑ̃tɑ̃t mɛm kɑ̃t ɔ̃ ʁal",
     "audio": "audio/fr-de/saetze/mu_23.mp3?v=964f8061"
    },
    "zeit": null,
@@ -3249,12 +3431,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "puʁje vu ʁepete ply lɑ̃tmɑ̃",
    "satz": {
     "fr": "Pardon, pourriez-vous répéter plus lentement ? J'écoute la musique, pas les mots.",
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "pourriez-vous répéter",
     "gloss": null,
     "umschrift": null,
+    "ipa": "paʁdɔ̃ puʁje vu ʁepete ply lɑ̃tmɑ̃ ʒekut la myzik pa le mo",
     "audio": "audio/fr-de/saetze/mu_24.mp3?v=fababc76"
    },
    "zeit": null,
@@ -3272,12 +3456,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "il etɛt yn fwa",
    "satz": {
     "fr": "Il était une fois un professeur qui ne corrigeait jamais ses copies. C'est un conte.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "Il était une fois",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il etɛt yn fwa œ̃ pʁofɛsœʁ ki nə koʁiʒɛ ʒamɛ se kopi sɛt œ̃ kɔ̃t",
     "audio": "audio/fr-de/saetze/hi_01.mp3?v=57920f9b"
    },
    "zeit": null,
@@ -3295,12 +3481,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʁakɔ̃te yn istwaʁ",
    "satz": {
     "fr": "Le soir, je raconte une histoire à mon chat. Il s'endort avant la fin.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "raconte une histoire",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə swaʁ ʒə ʁakɔ̃t yn istwaʁ a mɔ̃ ʃa il sɑ̃dɔʁ avɑ̃ la fɛ̃",
     "audio": "audio/fr-de/saetze/hi_02.mp3?v=47c46a12"
    },
    "zeit": {
@@ -3329,12 +3517,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la kɛt",
    "satz": {
     "fr": "Chaque bon roman commence par une quête. Même si c'est juste chercher ses clés.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur um die Schlüssel geht.",
     "luecke": "quête",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʃak bɔ̃ ʁomɑ̃ kɔmɑ̃s paʁ yn kɛt mɛm si sɛ ʒyst ʃɛʁʃe se kle",
     "audio": "audio/fr-de/saetze/hi_03.mp3?v=461c074b"
    },
    "zeit": null,
@@ -3352,12 +3542,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "o fɔ̃ də la foʁɛ",
    "satz": {
     "fr": "Au fond de la forêt, il y avait une maison. Et dans la maison, une lumière.",
     "de": "Tief im Wald stand ein Haus. Und im Haus brannte ein Licht.",
     "luecke": "Au fond de la forêt",
     "gloss": null,
     "umschrift": null,
+    "ipa": "o fɔ̃ də la foʁɛ il i avɛt yn mɛzɔ̃ e dɑ̃ la mɛzɔ̃ yn lymjɛʁ",
     "audio": "audio/fr-de/saetze/hi_04.mp3?v=c7da3f5e"
    },
    "zeit": null,
@@ -3375,12 +3567,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ dʁaɡɔ̃",
    "satz": {
     "fr": "Le dragon ne crachait pas de feu. Il crachait des devoirs.",
     "de": "Der Drache spuckte kein Feuer. Er spuckte Hausaufgaben.",
     "luecke": "dragon",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə dʁaɡɔ̃ nə kʁaʃɛ pa də fø il kʁaʃɛ de dəvwaʁ",
     "audio": "audio/fr-de/saetze/hi_05.mp3?v=31ae78f6"
    },
    "zeit": null,
@@ -3398,12 +3592,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn epe",
    "satz": {
     "fr": "Le héros a pris son épée. Elle était lourde, comme un lundi.",
     "de": "Der Held nahm sein Schwert. Es war schwer, wie ein Montag.",
     "luecke": "épée",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə eʁo a pʁi sɔ̃n epe ɛl etɛ luʁd kɔm œ̃ lœ̃di",
     "audio": "audio/fr-de/saetze/hi_06.mp3?v=001d49f1"
    },
    "zeit": null,
@@ -3421,12 +3617,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ sɔʁtilɛʒ",
    "satz": {
     "fr": "Un sortilège a transformé la classe en silence. Ça n'a duré que trois minutes.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es hielt nur drei Minuten.",
     "luecke": "sortilège",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ sɔʁtilɛʒ a tʁɑ̃sfɔʁme la klas ɑ̃ silɑ̃s sa na dyʁe kə tʁwa minyt",
     "audio": "audio/fr-de/saetze/hi_07.mp3?v=7e09ccc0"
    },
    "zeit": {
@@ -3455,12 +3653,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "dœ̃ ku",
    "satz": {
     "fr": "D'un coup, la porte s'est ouverte. Personne. Juste le vent. Enfin, j'espère.",
     "de": "Plötzlich ging die Tür auf. Niemand. Nur der Wind. Hoffe ich zumindest.",
     "luecke": "D'un coup",
     "gloss": null,
     "umschrift": null,
+    "ipa": "dœ̃ ku la pɔʁt sɛt uvɛʁt pɛʁsɔn ʒyst lə vɑ̃ ɑ̃fɛ̃ ʒɛspɛʁ",
     "audio": "audio/fr-de/saetze/hi_08.mp3?v=31b58ddc"
    },
    "zeit": null,
@@ -3478,12 +3678,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ œ̃ səkʁɛ",
    "satz": {
     "fr": "Tout le monde a un secret dans cette histoire. Même le chat.",
     "de": "Jeder in dieser Geschichte hat ein Geheimnis. Sogar die Katze.",
     "luecke": "a un secret",
     "gloss": null,
     "umschrift": null,
+    "ipa": "tulmɔ̃d a œ̃ səkʁɛ dɑ̃ sɛt istwaʁ mɛm lə ʃa",
     "audio": "audio/fr-de/saetze/hi_09.mp3?v=824b3061"
    },
    "zeit": null,
@@ -3501,12 +3703,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ ʁwajom",
    "satz": {
     "fr": "Dans ce royaume, les livres parlaient et les gens écoutaient.",
     "de": "In diesem Königreich sprachen die Bücher, und die Menschen hörten zu.",
     "luecke": "royaume",
     "gloss": null,
     "umschrift": null,
+    "ipa": "dɑ̃ sə ʁwajom le livʁ paʁlɛ e le ʒɑ̃ ekutɛ",
     "audio": "audio/fr-de/saetze/hi_10.mp3?v=4fcc4e0c"
    },
    "zeit": null,
@@ -3524,12 +3728,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ sɔʁsje / yn sɔʁsjɛʁ",
    "satz": {
     "fr": "La sorcière n'était pas méchante. Elle était fatiguée. Je la comprends.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "sorcière",
     "gloss": null,
     "umschrift": null,
+    "ipa": "la sɔʁsjɛʁ netɛ pa meʃɑ̃t ɛl etɛ fatiɡe ʒə la kɔ̃pʁɑ̃",
     "audio": "audio/fr-de/saetze/hi_11.mp3?v=3a3d198c"
    },
    "zeit": null,
@@ -3547,12 +3753,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə tʁɑ̃sfɔʁme ɑ̃",
    "satz": {
     "fr": "À minuit, le prof se transforme en lecteur. Jusqu'à deux heures du matin.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "se transforme en",
     "gloss": null,
     "umschrift": null,
+    "ipa": "a minɥi lə pʁɔf sə tʁɑ̃sfɔʁm ɑ̃ lɛktœʁ ʒyska døz œʁ dy matɛ̃",
     "audio": "audio/fr-de/saetze/hi_12.mp3?v=812cf6f0"
    },
    "zeit": {
@@ -3581,12 +3789,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "tut a ku",
    "satz": {
     "fr": "Tout à coup, le silence. Puis une voix : « Monsieur, c'est quand la pause ? »",
     "de": "Auf einmal Stille. Dann eine Stimme: „Monsieur, wann ist Pause?“",
     "luecke": "Tout à coup",
     "gloss": null,
     "umschrift": null,
+    "ipa": "tut a ku lə silɑ̃s pɥi yn vwa məsjø sɛ kɑ̃ la poz",
     "audio": "audio/fr-de/saetze/hi_13.mp3?v=cab970c4"
    },
    "zeit": null,
@@ -3604,12 +3814,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ eʁo / yn eʁɔin",
    "satz": {
     "fr": "Le héros de mon roman préféré a peur de tout. C'est pour ça qu'il est courageux.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "héros",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə eʁo də mɔ̃ ʁomɑ̃ pʁefeʁe a pœʁ də tu sɛ puʁ sa kil ɛ kuʁaʒø",
     "audio": "audio/fr-de/saetze/hi_14.mp3?v=2a6ab83a"
    },
    "zeit": null,
@@ -3627,12 +3839,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "lə meʃɑ̃",
    "satz": {
     "fr": "Le méchant de l'histoire, c'est le réveil. Six heures. Chaque jour.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "méchant",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə meʃɑ̃ də listwaʁ sɛ lə ʁevɛj siz œʁ ʃak ʒuʁ",
     "audio": "audio/fr-de/saetze/hi_15.mp3?v=92db62d0"
    },
    "zeit": null,
@@ -3650,12 +3864,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn kaʁt o tʁezɔʁ",
    "satz": {
     "fr": "J'ai trouvé une carte au trésor dans un cahier. C'était un plan de la cantine.",
     "de": "Ich habe eine Schatzkarte in einem Heft gefunden. Es war ein Plan der Mensa.",
     "luecke": "carte au trésor",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒe tʁuve yn kaʁt o tʁezɔʁ dɑ̃z œ̃ kaje setɛt œ̃ plɑ̃ də la kɑ̃tin",
     "audio": "audio/fr-de/saetze/hi_16.mp3?v=5833ff4d"
    },
    "zeit": {
@@ -3684,12 +3900,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "il paʁɛ kə",
    "satz": {
     "fr": "Il paraît que la salle 13 existe. Il paraît aussi que le chat y dort.",
     "de": "Es heißt, Saal 13 gibt es. Es heißt auch, die Katze schläft dort.",
     "luecke": "Il paraît que",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il paʁɛ kə la sal tʁɛz ɛɡzist il paʁɛt osi kə lə ʃa i dɔʁ",
     "audio": "audio/fr-de/saetze/hi_17.mp3?v=73a6b7cf"
    },
    "zeit": null,
@@ -3707,12 +3925,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "dispaʁɛtʁ",
    "satz": {
     "fr": "Dans ce roman, les gens disparaissent. Dans ma classe, ce sont les stylos.",
     "de": "In diesem Roman verschwinden Menschen. In meiner Klasse sind es die Stifte.",
     "luecke": "disparaissent",
     "gloss": null,
     "umschrift": null,
+    "ipa": "dɑ̃ sə ʁomɑ̃ le ʒɑ̃ dispaʁɛs dɑ̃ ma klas sə sɔ̃ le stilo",
     "audio": "audio/fr-de/saetze/hi_18.mp3?v=9fdae221"
    },
    "zeit": {
@@ -3741,12 +3961,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la sɥit",
    "satz": {
     "fr": "Je veux lire la suite tout de suite. Mais il est minuit. Je lis la suite.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "suite",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə vø liʁ la sɥit tu də sɥit mɛ il ɛ minɥi ʒə li la sɥit",
     "audio": "audio/fr-de/saetze/hi_19.mp3?v=9cfd5a6c"
    },
    "zeit": null,
@@ -3764,12 +3986,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɑ̃n alɛn",
    "satz": {
     "fr": "Ce livre me tient en haleine depuis trois nuits.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "en haleine",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sə livʁ mə tjɛ̃t ɑ̃n alɛn dəpɥi tʁwa nɥi",
     "audio": "audio/fr-de/saetze/hi_20.mp3?v=fe8210bd"
    },
    "zeit": {
@@ -3798,12 +4022,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fʁisɔne",
    "satz": {
     "fr": "Je frissonne à chaque chapitre. Et je continue. C'est ça, la fantasy.",
     "de": "Ich schaudere bei jedem Kapitel. Und lese weiter. Das ist Fantasy.",
     "luecke": "frissonne",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə fʁisɔn a ʃak ʃapitʁ e ʒə kɔ̃tiny sɛ sa la fɑ̃tazi",
     "audio": "audio/fr-de/saetze/hi_21.mp3?v=12040717"
    },
    "zeit": {
@@ -3832,12 +4058,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ ʁəbɔ̃dismɑ̃",
    "satz": {
     "fr": "Un rebondissement à la page 200 : le chat était le roi depuis le début.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "rebondissement",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ ʁəbɔ̃dismɑ̃ a la paʒ døsɑ̃ lə ʃa etɛ lə ʁwa dəpɥi lə deby",
     "audio": "audio/fr-de/saetze/hi_22.mp3?v=3aca99be"
    },
    "zeit": null,
@@ -3855,12 +4083,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la fɛ̃",
    "satz": {
     "fr": "La fin de cette histoire ? Je ne la raconte pas. Lis le livre.",
     "de": "Das Ende dieser Geschichte? Ich verrate es nicht. Lies das Buch.",
     "luecke": "fin",
     "gloss": null,
     "umschrift": null,
+    "ipa": "la fɛ̃ də sɛt istwaʁ ʒə nə la ʁakɔ̃t pa li lə livʁ",
     "audio": "audio/fr-de/saetze/hi_23.mp3?v=c67fac0c"
    },
    "zeit": null,
@@ -3878,12 +4108,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "puʁje vu mə kɔ̃sɛje œ̃ livʁ",
    "satz": {
     "fr": "Bonjour, pourriez-vous me conseiller un livre ? Un peu sombre, un peu magique.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "pourriez-vous me conseiller",
     "gloss": null,
     "umschrift": null,
+    "ipa": "bɔ̃ʒuʁ puʁje vu mə kɔ̃sɛje œ̃ livʁ œ̃ pø sɔ̃bʁ œ̃ pø maʒik",
     "audio": "audio/fr-de/saetze/hi_24.mp3?v=ce5c9112"
    },
    "zeit": null,
@@ -3901,12 +4133,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sɑ̃tʁɛne",
    "satz": {
     "fr": "Je m'entraîne trois fois par semaine. Deux, si je suis honnête.",
     "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "luecke": "m'entraîne",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə mɑ̃tʁɛn tʁwa fwa paʁ səmɛn dø si ʒə sɥiz ɔnɛt",
     "audio": "audio/fr-de/saetze/sp_01.mp3?v=6162c012"
    },
    "zeit": {
@@ -3935,12 +4169,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ ku də pje",
    "satz": {
     "fr": "Un bon coup de pied, c'est d'abord une bonne position.",
     "de": "Ein guter Tritt ist zuerst ein guter Stand.",
     "luecke": "coup de pied",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ bɔ̃ ku də pje sɛ dabɔʁ yn bɔn pozisjɔ̃",
     "audio": "audio/fr-de/saetze/sp_02.mp3?v=9d20b27f"
    },
    "zeit": null,
@@ -3958,12 +4194,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ ku də pwɛ̃",
    "satz": {
     "fr": "En kung-fu, le coup de poing part de la hanche, pas du bras.",
     "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
     "luecke": "coup de poing",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɑ̃ kuŋfu lə ku də pwɛ̃ paʁ də la ɑ̃ʃ pa dy bʁa",
     "audio": "audio/fr-de/saetze/sp_03.mp3?v=1346f491"
    },
    "zeit": null,
@@ -3981,12 +4219,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la suplɛs",
    "satz": {
     "fr": "À quarante ans, la souplesse se travaille tous les jours. Sinon, elle part.",
     "de": "Mit vierzig muss man die Beweglichkeit täglich üben. Sonst geht sie.",
     "luecke": "souplesse",
     "gloss": null,
     "umschrift": null,
+    "ipa": "a kaʁɑ̃t ɑ̃ la suplɛs sə tʁavaj tu le ʒuʁ sinɔ̃ ɛl paʁ",
     "audio": "audio/fr-de/saetze/sp_04.mp3?v=bc5e7078"
    },
    "zeit": null,
@@ -4004,12 +4244,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɡaʁde sɔ̃ kalm",
    "satz": {
     "fr": "En combat comme en classe : garder son calme, respirer, attendre.",
     "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, abwarten.",
     "luecke": "garder son calme",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɑ̃ kɔ̃ba kɔm ɑ̃ klas ɡaʁde sɔ̃ kalm ʁɛspiʁe atɑ̃dʁ",
     "audio": "audio/fr-de/saetze/sp_05.mp3?v=c1464945"
    },
    "zeit": {
@@ -4038,12 +4280,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "seʃofe",
    "satz": {
     "fr": "Avant de m'entraîner, je m'échauffe dix minutes. Mon dos me dit merci.",
     "de": "Vor dem Training wärme ich mich zehn Minuten auf. Mein Rücken dankt es mir.",
     "luecke": "m'échauffe",
     "gloss": null,
     "umschrift": null,
+    "ipa": "avɑ̃ də mɑ̃tʁɛne ʒə meʃof di minyt mɔ̃ do mə di mɛʁsi",
     "audio": "audio/fr-de/saetze/sp_06.mp3?v=e0abae8d"
    },
    "zeit": {
@@ -4072,12 +4316,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ de kuʁbatyʁ",
    "satz": {
     "fr": "Le lendemain, j'ai des courbatures partout. Même dans les oreilles.",
     "de": "Am nächsten Tag habe ich überall Muskelkater. Sogar in den Ohren.",
     "luecke": "ai des courbatures",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə lɑ̃dmɛ̃ ʒe de kuʁbatyʁ paʁtu mɛm dɑ̃ lez oʁɛj",
     "audio": "audio/fr-de/saetze/sp_07.mp3?v=6e01f378"
    },
    "zeit": {
@@ -4106,12 +4352,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ ɑ̃ fɔʁm",
    "satz": {
     "fr": "Je suis en forme le matin. L'après-midi, je suis prof.",
     "de": "Morgens bin ich fit. Nachmittags bin ich Lehrer.",
     "luecke": "en forme",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə sɥiz ɑ̃ fɔʁm lə matɛ̃ lapʁɛmidi ʒə sɥi pʁɔf",
     "audio": "audio/fr-de/saetze/sp_08.mp3?v=fd35bdbf"
    },
    "zeit": {
@@ -4140,12 +4388,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "təniʁ yn pozisjɔ̃",
    "satz": {
     "fr": "Tenir la position du cavalier pendant deux minutes : simple. Pas facile.",
     "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
     "luecke": "Tenir la position",
     "gloss": null,
     "umschrift": null,
+    "ipa": "təniʁ la pozisjɔ̃ dy kavalje pɑ̃dɑ̃ dø minyt sɛ̃pl pa fasil",
     "audio": "audio/fr-de/saetze/sp_09.mp3?v=1185af49"
    },
    "zeit": null,
@@ -4163,12 +4413,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la ʁɛspiʁasjɔ̃",
    "satz": {
     "fr": "En kung-fu, tout commence par la respiration. En classe aussi.",
     "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
     "luecke": "respiration",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɑ̃ kuŋfu tu kɔmɑ̃s paʁ la ʁɛspiʁasjɔ̃ ɑ̃ klas osi",
     "audio": "audio/fr-de/saetze/sp_10.mp3?v=fe48a346"
    },
    "zeit": null,
@@ -4186,12 +4438,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "lə mɛtʁ",
    "satz": {
     "fr": "Mon maître dit : « Lentement, c'est vite. » Je n'ai pas encore compris.",
     "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
     "luecke": "maître",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mɔ̃ mɛtʁ di lɑ̃tmɑ̃ sɛ vit ʒə ne paz ɑ̃kɔʁ kɔ̃pʁi",
     "audio": "audio/fr-de/saetze/sp_11.mp3?v=334530ca"
    },
    "zeit": null,
@@ -4209,12 +4463,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃n ɑ̃ʃɛnmɑ̃",
    "satz": {
     "fr": "J'apprends un nouvel enchaînement. Douze mouvements. J'en connais quatre.",
     "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kann ich.",
     "luecke": "enchaînement",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒapʁɑ̃z œ̃ nuvɛl ɑ̃ʃɛnmɑ̃ duz muvmɑ̃ ʒɑ̃ kɔnɛ katʁ",
     "audio": "audio/fr-de/saetze/sp_12.mp3?v=46862091"
    },
    "zeit": {
@@ -4243,12 +4499,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛskive",
    "satz": {
     "fr": "Esquiver, c'est mieux que bloquer. Ça marche aussi en réunion.",
     "de": "Ausweichen ist besser als blocken. Das funktioniert auch in Konferenzen.",
     "luecke": "Esquiver",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛskive sɛ mjø kə bloke sa maʁʃ osi ɑ̃ ʁeynjɔ̃",
     "audio": "audio/fr-de/saetze/sp_13.mp3?v=62bbdb76"
    },
    "zeit": null,
@@ -4266,12 +4524,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "tʁɑ̃spiʁe",
    "satz": {
     "fr": "Après l'entraînement, je transpire comme une fontaine. Une fontaine heureuse.",
     "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "luecke": "transpire",
     "gloss": null,
     "umschrift": null,
+    "ipa": "apʁɛ lɑ̃tʁɛnmɑ̃ ʒə tʁɑ̃spiʁ kɔm yn fɔ̃tɛn yn fɔ̃tɛn øʁøz",
     "audio": "audio/fr-de/saetze/sp_14.mp3?v=839af064"
    },
    "zeit": {
@@ -4300,12 +4560,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə blɛse",
    "satz": {
     "fr": "Je ne me blesse jamais. Sauf en ouvrant une boîte de pâtée.",
     "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Katzenfutter.",
     "luecke": "me blesse",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə nə mə blɛs ʒamɛ sof ɑ̃n uvʁɑ̃ yn bwat də pate",
     "audio": "audio/fr-de/saetze/sp_15.mp3?v=05797250"
    },
    "zeit": {
@@ -4334,12 +4596,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ dez etiʁmɑ̃",
    "satz": {
     "fr": "Je fais des étirements le soir, devant la télé. Le chat me regarde, perplexe.",
     "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut ratlos zu.",
     "luecke": "fais des étirements",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə fɛ dez etiʁmɑ̃ lə swaʁ dəvɑ̃ la tele lə ʃa mə ʁəɡaʁd pɛʁplɛks",
     "audio": "audio/fr-de/saetze/sp_16.mp3?v=aef34717"
    },
    "zeit": {
@@ -4368,12 +4632,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʁəpʁɑ̃dʁ sɔ̃ sufl",
    "satz": {
     "fr": "Entre deux séries, je reprends mon souffle. Longtemps.",
     "de": "Zwischen zwei Sätzen komme ich wieder zu Atem. Lange.",
     "luecke": "reprends mon souffle",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɑ̃tʁ dø seʁi ʒə ʁəpʁɑ̃ mɔ̃ sufl lɔ̃tɑ̃",
     "audio": "audio/fr-de/saetze/sp_17.mp3?v=7c8e68f4"
    },
    "zeit": {
@@ -4402,12 +4668,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ də lekilibʁ",
    "satz": {
     "fr": "Sur une jambe, j'ai de l'équilibre. Sur deux, ça dépend du jour.",
     "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
     "luecke": "ai de l'équilibre",
     "gloss": null,
     "umschrift": null,
+    "ipa": "syʁ yn ʒɑ̃b ʒe də lekilibʁ syʁ dø sa depɑ̃ dy ʒuʁ",
     "audio": "audio/fr-de/saetze/sp_18.mp3?v=9dddfa8e"
    },
    "zeit": null,
@@ -4425,12 +4693,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ale kuʁiʁ",
    "satz": {
     "fr": "Le dimanche matin, je vais courir. Le dimanche soir, je regrette.",
     "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "luecke": "vais courir",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə dimɑ̃ʃ matɛ̃ ʒə vɛ kuʁiʁ lə dimɑ̃ʃ swaʁ ʒə ʁəɡʁɛt",
     "audio": "audio/fr-de/saetze/sp_19.mp3?v=95f8c95b"
    },
    "zeit": {
@@ -4459,12 +4729,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la sɛ̃tyʁ",
    "satz": {
     "fr": "La ceinture ne fait pas le maître. Mais elle tient le pantalon.",
     "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "luecke": "ceinture",
     "gloss": null,
     "umschrift": null,
+    "ipa": "la sɛ̃tyʁ nə fɛ pa lə mɛtʁ mɛ ɛl tjɛ̃ lə pɑ̃talɔ̃",
     "audio": "audio/fr-de/saetze/sp_20.mp3?v=6bb6f06b"
    },
    "zeit": null,
@@ -4482,12 +4754,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ de pʁɔɡʁɛ",
    "satz": {
     "fr": "Je fais des progrès. Lentement. Comme dit mon maître, c'est vite.",
     "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt: Das ist schnell.",
     "luecke": "fais des progrès",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə fɛ de pʁɔɡʁɛ lɑ̃tmɑ̃ kɔm di mɔ̃ mɛtʁ sɛ vit",
     "audio": "audio/fr-de/saetze/sp_21.mp3?v=7fd543c8"
    },
    "zeit": {
@@ -4516,12 +4790,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə depase",
    "satz": {
     "fr": "Aujourd'hui, je me suis dépassé : trente pompes. Hier, vingt-neuf.",
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "me suis dépassé",
     "gloss": null,
     "umschrift": null,
+    "ipa": "oʒuʁdɥi ʒə mə sɥi depase tʁɑ̃t pɔ̃p jɛʁ vɛ̃tnœf",
     "audio": "audio/fr-de/saetze/sp_22.mp3?v=23c4cfd9"
    },
    "zeit": null,
@@ -4539,12 +4815,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "lə kɔʁ e lɛspʁi",
    "satz": {
     "fr": "Le kung-fu, c'est le corps et l'esprit. Le mien discute souvent avec mon corps.",
     "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "luecke": "le corps et l'esprit",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə kuŋfu sɛ lə kɔʁ e lɛspʁi lə mjɛ̃ diskyt suvɑ̃ avɛk mɔ̃ kɔʁ",
     "audio": "audio/fr-de/saetze/sp_23.mp3?v=5860a88f"
    },
    "zeit": null,
@@ -4562,12 +4840,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛs kə ʒə pø mɛ̃skʁiʁ",
    "satz": {
     "fr": "Bonjour, est-ce que je peux m'inscrire au cours du mardi soir ?",
     "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "luecke": "est-ce que je peux m'inscrire",
     "gloss": null,
     "umschrift": null,
+    "ipa": "bɔ̃ʒuʁ ɛs kə ʒə pø mɛ̃skʁiʁ o kuʁ dy maʁdi swaʁ",
     "audio": "audio/fr-de/saetze/sp_24.mp3?v=7bd70d85"
    },
    "zeit": null,
@@ -4585,12 +4865,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "mɑ̃ʒe ekilibʁe",
    "satz": {
     "fr": "J'essaie de manger équilibré. Le croissant du matin ne compte pas.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "manger équilibré",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒesɛ də mɑ̃ʒe ekilibʁe lə kʁwasɑ̃ dy matɛ̃ nə kɔ̃t pa",
     "audio": "audio/fr-de/saetze/ma_01.mp3?v=16839f9b"
    },
    "zeit": {
@@ -4619,12 +4901,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə kuʃe to",
    "satz": {
     "fr": "Je me couche tôt le dimanche. Le reste de la semaine, j'essaie.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "me couche tôt",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə mə kuʃ to lə dimɑ̃ʃ lə ʁɛst də la səmɛn ʒesɛ",
     "audio": "audio/fr-de/saetze/ma_02.mp3?v=9f3261c3"
    },
    "zeit": {
@@ -4653,12 +4937,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "pʁɑ̃dʁ swɛ̃ də swa",
    "satz": {
     "fr": "Prendre soin de soi, c'est aussi dire non. Même à un éclair.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Éclair.",
     "luecke": "Prendre soin de soi",
     "gloss": null,
     "umschrift": null,
+    "ipa": "pʁɑ̃dʁ swɛ̃ də swa sɛt osi diʁ nɔ̃ mɛm a œ̃n eklɛʁ",
     "audio": "audio/fr-de/saetze/ma_03.mp3?v=643f84f0"
    },
    "zeit": null,
@@ -4676,12 +4962,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ le kuʁs",
    "satz": {
     "fr": "Je fais les courses le samedi, avec une liste. Je rentre avec autre chose.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "fais les courses",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə fɛ le kuʁs lə samdi avɛk yn list ʒə ʁɑ̃tʁ avɛk otʁ ʃɔz",
     "audio": "audio/fr-de/saetze/ma_04.mp3?v=1d3c6d62"
    },
    "zeit": {
@@ -4710,12 +4998,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "kɥizine",
    "satz": {
     "fr": "Le soir, je cuisine en écoutant de la musique. Le chat supervise.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cuisine",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə swaʁ ʒə kɥizin ɑ̃n ekutɑ̃ də la myzik lə ʃa sypɛʁviz",
     "audio": "audio/fr-de/saetze/ma_05.mp3?v=eb8842a4"
    },
    "zeit": {
@@ -4744,12 +5034,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ pla",
    "satz": {
     "fr": "Mon plat préféré ? Celui que quelqu'un d'autre a préparé.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "plat",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mɔ̃ pla pʁefeʁe səlɥi kə kɛlkœ̃ dotʁ a pʁepaʁe",
     "audio": "audio/fr-de/saetze/ma_06.mp3?v=c012ad61"
    },
    "zeit": null,
@@ -4767,12 +5059,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ œ̃ pəti kʁø",
    "satz": {
     "fr": "À seize heures, j'ai un petit creux. À seize heures cinq aussi.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "ai un petit creux",
     "gloss": null,
     "umschrift": null,
+    "ipa": "a sɛz œʁ ʒe œ̃ pəti kʁø a sɛz œʁ sɛ̃k osi",
     "audio": "audio/fr-de/saetze/ma_07.mp3?v=14e142af"
    },
    "zeit": {
@@ -4801,12 +5095,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə ʁeɡale",
    "satz": {
     "fr": "Chez Aurélien, on se régale. Sa mère lui envoie des recettes.",
     "de": "Bei Aurélien lässt man es sich schmecken. Seine Mutter schickt ihm Rezepte.",
     "luecke": "se régale",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʃe oʁeljɛ̃ ɔ̃ sə ʁeɡal sa mɛʁ lɥi ɑ̃vwa de ʁəsɛt",
     "audio": "audio/fr-de/saetze/ma_08.mp3?v=d4054aba"
    },
    "zeit": {
@@ -4835,12 +5131,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "bɔ̃n apeti",
    "satz": {
     "fr": "« Bon appétit ! » – « Merci, toi aussi. » – « Moi, je ne mange pas. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, dir auch.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Bon appétit",
     "gloss": null,
     "umschrift": null,
+    "ipa": "bɔ̃n apeti mɛʁsi twa osi mwa ʒə nə mɑ̃ʒ pa a",
     "audio": "audio/fr-de/saetze/ma_09.mp3?v=0ebeeed1"
    },
    "zeit": null,
@@ -4858,12 +5156,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn bulɑ̃ʒʁi",
    "satz": {
     "fr": "Il y a une boulangerie à côté de l'école. C'est un problème. Un bon problème.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein gutes Problem.",
     "luecke": "boulangerie",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il i a yn bulɑ̃ʒʁi a kote də lekɔl sɛt œ̃ pʁɔblɛm œ̃ bɔ̃ pʁɔblɛm",
     "audio": "audio/fr-de/saetze/ma_10.mp3?v=d0ab2e85"
    },
    "zeit": null,
@@ -4881,12 +5181,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "bwaʁ də lo",
    "satz": {
     "fr": "Je bois de l'eau toute la journée. Et un café. Ou deux. L'eau, c'est entre.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "bois de l'eau",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə bwa də lo tut la ʒuʁne e œ̃ kafe u dø lo sɛt ɑ̃tʁ",
     "audio": "audio/fr-de/saetze/ma_11.mp3?v=ac432ad8"
    },
    "zeit": {
@@ -4915,12 +5217,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɡʁinjote",
    "satz": {
     "fr": "Je grignote devant les copies. Chaque faute, un carré de chocolat.",
     "de": "Ich nasche beim Korrigieren. Jeder Fehler, ein Stück Schokolade.",
     "luecke": "grignote",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə ɡʁinjɔt dəvɑ̃ le kopi ʃak fot œ̃ kaʁe də ʃokola",
     "audio": "audio/fr-de/saetze/ma_12.mp3?v=6a41bac2"
    },
    "zeit": {
@@ -4949,12 +5253,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ bjɛ̃ dɑ̃ sa po",
    "satz": {
     "fr": "Après le sport, je suis bien dans ma peau. Avant, aussi, mais moins.",
     "de": "Nach dem Sport fühle ich mich wohl in meiner Haut. Davor auch, aber weniger.",
     "luecke": "bien dans ma peau",
     "gloss": null,
     "umschrift": null,
+    "ipa": "apʁɛ lə spɔʁ ʒə sɥi bjɛ̃ dɑ̃ ma po avɑ̃ osi mɛ mwɛ̃",
     "audio": "audio/fr-de/saetze/ma_13.mp3?v=e7a30903"
    },
    "zeit": null,
@@ -4972,12 +5278,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ yn poz",
    "satz": {
     "fr": "Je fais une pause toutes les heures. Parfois, la pause dure une heure.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "fais une pause",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə fɛ yn poz tut lez œʁ paʁfwa la poz dyʁ yn œʁ",
     "audio": "audio/fr-de/saetze/ma_14.mp3?v=aaf4ffba"
    },
    "zeit": {
@@ -5006,12 +5314,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "dɔʁmiʁ kɔm œ̃ bebe",
    "satz": {
     "fr": "Après le kung-fu, je dors comme un bébé. Un bébé qui ronfle.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Baby. Ein Baby, das schnarcht.",
     "luecke": "dors comme un bébé",
     "gloss": null,
     "umschrift": null,
+    "ipa": "apʁɛ lə kuŋfu ʒə dɔʁ kɔm œ̃ bebe œ̃ bebe ki ʁɔ̃fl",
     "audio": "audio/fr-de/saetze/ma_15.mp3?v=3e64c1d0"
    },
    "zeit": {
@@ -5040,12 +5350,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ la pɛʃ",
    "satz": {
     "fr": "Ce matin, j'ai la pêche ! C'est suspect. Il est six heures.",
     "de": "Heute Morgen bin ich fit und munter! Verdächtig. Es ist sechs Uhr.",
     "luecke": "ai la pêche",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sə matɛ̃ ʒe la pɛʃ sɛ syspɛkt il ɛ siz œʁ",
     "audio": "audio/fr-de/saetze/ma_16.mp3?v=feebcedd"
    },
    "zeit": null,
@@ -5063,12 +5375,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "pʁɑ̃dʁ lɛʁ",
    "satz": {
     "fr": "À midi, je prends l'air dix minutes. Sans téléphone. Enfin, presque.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "prends l'air",
     "gloss": null,
     "umschrift": null,
+    "ipa": "a midi ʒə pʁɑ̃ lɛʁ di minyt sɑ̃ telefɔn ɑ̃fɛ̃ pʁɛskə",
     "audio": "audio/fr-de/saetze/ma_17.mp3?v=40b0233e"
    },
    "zeit": {
@@ -5097,12 +5411,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn ʁəsɛt",
    "satz": {
     "fr": "J'ai une recette de quiche. Elle vient d'Aurélien, qui la tient de sa mère.",
     "de": "Ich habe ein Rezept für Quiche. Es kommt von Aurélien, der es von seiner Mutter hat.",
     "luecke": "recette",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒe yn ʁəsɛt də kiʃ ɛl vjɛ̃ doʁeljɛ̃ ki la tjɛ̃ də sa mɛʁ",
     "audio": "audio/fr-de/saetze/ma_18.mp3?v=31e6ead6"
    },
    "zeit": null,
@@ -5120,12 +5436,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɡute",
    "satz": {
     "fr": "Goûte ça. Non, vraiment, goûte. Ensuite, tu peux dire que tu n'aimes pas.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Goûte",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɡut sa nɔ̃ vʁɛmɑ̃ ɡut ɑ̃sɥit ty pø diʁ kə ty nɛm pa",
     "audio": "audio/fr-de/saetze/ma_19.mp3?v=0752c3d5"
    },
    "zeit": {
@@ -5154,12 +5472,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sɛ delisjø",
    "satz": {
     "fr": "C'est délicieux ! Qu'est-ce que c'est ? – Il vaut mieux ne pas savoir.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "délicieux",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sɛ delisjø kɛskə sɛ il vo mjø nə pa savwaʁ",
     "audio": "audio/fr-de/saetze/ma_20.mp3?v=7439f29b"
    },
    "zeit": null,
@@ -5177,12 +5497,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ swaf",
    "satz": {
     "fr": "Après le cours de sport, les élèves ont soif. Moi, j'ai soif de silence.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "ont soif",
     "gloss": null,
     "umschrift": null,
+    "ipa": "apʁɛ lə kuʁ də spɔʁ lez elɛv ɔ̃ swaf mwa ʒe swaf də silɑ̃s",
     "audio": "audio/fr-de/saetze/ma_21.mp3?v=8854b444"
    },
    "zeit": {
@@ -5211,12 +5533,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sə ləve dy bɔ̃ pje",
    "satz": {
     "fr": "Aujourd'hui, je me suis levé du bon pied. Le gauche. Comme d'habitude.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "me suis levé du bon pied",
     "gloss": null,
     "umschrift": null,
+    "ipa": "oʒuʁdɥi ʒə mə sɥi ləve dy bɔ̃ pje lə ɡoʃ kɔm dabityd",
     "audio": "audio/fr-de/saetze/ma_22.mp3?v=3c9915c6"
    },
    "zeit": null,
@@ -5234,12 +5558,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ pəti plɛziʁ",
    "satz": {
     "fr": "Un petit plaisir par jour. Aujourd'hui : une tarte. Demain : une autre tarte.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Tarte. Morgen: eine andere Tarte.",
     "luecke": "petit plaisir",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ pəti plɛziʁ paʁ ʒuʁ oʒuʁdɥi yn taʁt dəmɛ̃ yn otʁ taʁt",
     "audio": "audio/fr-de/saetze/ma_23.mp3?v=5ad99d27"
    },
    "zeit": null,
@@ -5257,12 +5583,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʒə vudʁɛz yn baɡɛt sil vu plɛ",
    "satz": {
     "fr": "Bonjour, je voudrais une baguette, s'il vous plaît. Pas trop cuite.",
     "de": "Guten Tag, ich hätte gern ein Baguette, bitte. Nicht zu dunkel.",
     "luecke": "je voudrais",
     "gloss": null,
     "umschrift": null,
+    "ipa": "bɔ̃ʒuʁ ʒə vudʁɛz yn baɡɛt sil vu plɛ pa tʁo kɥit",
     "audio": "audio/fr-de/saetze/ma_24.mp3?v=ca0c85ff"
    },
    "zeit": null,
@@ -5280,12 +5608,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ se nɥi",
    "satz": {
     "fr": "Le bébé de ma collègue fait ses nuits. Elle, pas encore.",
     "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
     "luecke": "fait ses nuits",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə bebe də ma kɔlɛɡ fɛ se nɥi ɛl paz ɑ̃kɔʁ",
     "audio": "audio/fr-de/saetze/en_01.mp3?v=a2934498"
    },
    "zeit": {
@@ -5314,12 +5644,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ dudu",
    "satz": {
     "fr": "Sans son doudou, impossible de dormir. Je parle du bébé. Enfin, surtout.",
     "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
     "luecke": "doudou",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sɑ̃ sɔ̃ dudu ɛ̃pɔsibl də dɔʁmiʁ ʒə paʁl dy bebe ɑ̃fɛ̃ syʁtu",
     "audio": "audio/fr-de/saetze/en_02.mp3?v=a26f7ab6"
    },
    "zeit": null,
@@ -5337,12 +5669,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ de bɛtiz",
    "satz": {
     "fr": "Les enfants font des bêtises. C'est leur métier. Le mien, c'est de sourire.",
     "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "luecke": "font des bêtises",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lez ɑ̃fɑ̃ fɔ̃ de bɛtiz sɛ lœʁ metje lə mjɛ̃ sɛ də suʁiʁ",
     "audio": "audio/fr-de/saetze/en_03.mp3?v=2d6d5981"
    },
    "zeit": {
@@ -5371,12 +5705,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "pʁɑ̃dʁ dɑ̃ se bʁa",
    "satz": {
     "fr": "Quand un enfant pleure, on le prend dans ses bras. C'est la seule règle.",
     "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "luecke": "prend dans ses bras",
     "gloss": null,
     "umschrift": null,
+    "ipa": "kɑ̃t œ̃n ɑ̃fɑ̃ plœʁ ɔ̃ lə pʁɑ̃ dɑ̃ se bʁa sɛ la sœl ʁɛɡl",
     "audio": "audio/fr-de/saetze/en_04.mp3?v=6ae81a22"
    },
    "zeit": {
@@ -5405,12 +5741,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ bebe",
    "satz": {
     "fr": "Un bébé, ça ne parle pas, mais ça dit tout.",
     "de": "Ein Baby spricht nicht, aber es sagt alles.",
     "luecke": "bébé",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ bebe sa nə paʁl pa mɛ sa di tu",
     "audio": "audio/fr-de/saetze/en_05.mp3?v=9bc915bf"
    },
    "zeit": null,
@@ -5428,12 +5766,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ œ̃ suʁiʁ",
    "satz": {
     "fr": "Le bébé m'a fait un sourire. Ma journée était gagnée.",
     "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "luecke": "a fait un sourire",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə bebe ma fɛt œ̃ suʁiʁ ma ʒuʁne etɛ ɡanje",
     "audio": "audio/fr-de/saetze/en_06.mp3?v=2ec5175e"
    },
    "zeit": {
@@ -5462,12 +5802,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɡʁɑ̃diʁ",
    "satz": {
     "fr": "Les enfants grandissent trop vite. Les copies, elles, restent.",
     "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
     "luecke": "grandissent",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lez ɑ̃fɑ̃ ɡʁɑ̃dis tʁo vit le kopi ɛl ʁɛst",
     "audio": "audio/fr-de/saetze/en_07.mp3?v=d20edd2e"
    },
    "zeit": {
@@ -5496,12 +5838,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ dy mal a sɑ̃dɔʁmiʁ",
    "satz": {
     "fr": "Le petit a du mal à s'endormir. Alors je chante. Ça marche. Il pleure moins fort.",
     "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "luecke": "a du mal à s'endormir",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə pəti a dy mal a sɑ̃dɔʁmiʁ alɔʁ ʒə ʃɑ̃t sa maʁʃ il plœʁ mwɛ̃ fɔʁ",
     "audio": "audio/fr-de/saetze/en_08.mp3?v=2e6e6dc6"
    },
    "zeit": {
@@ -5530,12 +5874,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn kuʃ",
    "satz": {
     "fr": "Changer une couche en trois minutes : ça, c'est un vrai enchaînement de kung-fu.",
     "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "luecke": "couche",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʃɑ̃ʒe yn kuʃ ɑ̃ tʁwa minyt sa sɛt œ̃ vʁɛ ɑ̃ʃɛnmɑ̃ də kuŋfu",
     "audio": "audio/fr-de/saetze/en_09.mp3?v=8439cb91"
    },
    "zeit": null,
@@ -5553,12 +5899,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ saʒ",
    "satz": {
     "fr": "« Sois sage ! » – « Je suis sage. » – « Alors pourquoi le chat est-il dans le lave-linge ? »",
     "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
     "luecke": "sage",
     "gloss": null,
     "umschrift": null,
+    "ipa": "swa saʒ ʒə sɥi saʒ alɔʁ puʁkwa lə ʃa ɛtil dɑ̃ lə lavlɛ̃ʒ",
     "audio": "audio/fr-de/saetze/en_10.mp3?v=7cb5d81b"
    },
    "zeit": null,
@@ -5576,12 +5924,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʒwe a kaʃkaʃ",
    "satz": {
     "fr": "On joue à cache-cache. Il se cache toujours derrière le rideau. Avec ses pieds dehors.",
     "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "luecke": "joue à cache-cache",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɔ̃ ʒu a kaʃkaʃ il sə kaʃ tuʒuʁ dɛʁjɛʁ lə ʁido avɛk se pje dəɔʁ",
     "audio": "audio/fr-de/saetze/en_11.mp3?v=201ef1e5"
    },
    "zeit": {
@@ -5610,12 +5960,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʁakɔ̃te yn istwaʁ puʁ sɑ̃dɔʁmiʁ",
    "satz": {
     "fr": "Je raconte une histoire pour s'endormir. Au bout de trois pages, je dors.",
     "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "luecke": "raconte une histoire",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə ʁakɔ̃t yn istwaʁ puʁ sɑ̃dɔʁmiʁ o bu də tʁwa paʒ ʒə dɔʁ",
     "audio": "audio/fr-de/saetze/en_12.mp3?v=ec7864c4"
    },
    "zeit": {
@@ -5644,12 +5996,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "pløʁe",
    "satz": {
     "fr": "Le bébé pleure. Puis il rit. Puis il pleure. C'est un concert.",
     "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "luecke": "pleure",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə bebe plœʁ pɥi il ʁi pɥi il plœʁ sɛt œ̃ kɔ̃sɛʁ",
     "audio": "audio/fr-de/saetze/en_13.mp3?v=bdb1da89"
    },
    "zeit": {
@@ -5678,12 +6032,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ kalɛ̃",
    "satz": {
     "fr": "Un câlin avant l'école, et la journée commence bien. Pour les deux.",
     "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "luecke": "câlin",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ kalɛ̃ avɑ̃ lekɔl e la ʒuʁne kɔmɑ̃s bjɛ̃ puʁ le dø",
     "audio": "audio/fr-de/saetze/en_14.mp3?v=670202e2"
    },
    "zeit": null,
@@ -5701,12 +6057,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "apʁɑ̃dʁ a maʁʃe",
    "satz": {
     "fr": "Elle apprend à marcher. Trois pas, une chute, un rire. C'est la vie en miniature.",
     "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "luecke": "apprend à marcher",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛl apʁɑ̃t a maʁʃe tʁwa pa yn ʃyt œ̃ ʁiʁ sɛ la vi ɑ̃ minjatyʁ",
     "audio": "audio/fr-de/saetze/en_15.mp3?v=af26049c"
    },
    "zeit": {
@@ -5735,12 +6093,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛtʁ fjɛʁ də",
    "satz": {
     "fr": "Je suis fier de mes élèves. Surtout quand ils ne le savent pas.",
     "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "luecke": "fier de",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə sɥi fjɛʁ də mez elɛv syʁtu kɑ̃t il nə lə sav pa",
     "audio": "audio/fr-de/saetze/en_16.mp3?v=e0fd8910"
    },
    "zeit": null,
@@ -5758,12 +6118,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "le pʁəmje mo",
    "satz": {
     "fr": "Ses premiers mots : « papa », « chat », « non ». Dans cet ordre.",
     "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
     "luecke": "premiers mots",
     "gloss": null,
     "umschrift": null,
+    "ipa": "se pʁəmje mo papa ʃa nɔ̃ dɑ̃ sɛt ɔʁdʁ",
     "audio": "audio/fr-de/saetze/en_17.mp3?v=a22ea01a"
    },
    "zeit": null,
@@ -5781,12 +6143,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ də la pasjɑ̃s",
    "satz": {
     "fr": "Avec les enfants, il faut avoir de la patience. J'en ai. Elle finit à dix-sept heures.",
     "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
     "luecke": "avoir de la patience",
     "gloss": null,
     "umschrift": null,
+    "ipa": "avɛk lez ɑ̃fɑ̃ il fot avwaʁ də la pasjɑ̃s ʒɑ̃n e ɛl fini a disɛt œʁ",
     "audio": "audio/fr-de/saetze/en_18.mp3?v=493cb9ce"
    },
    "zeit": {
@@ -5815,12 +6179,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "lə ɡute",
    "satz": {
     "fr": "À seize heures, c'est le goûter. Pour les enfants. Et pour moi, par solidarité.",
     "de": "Um vier gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "luecke": "goûter",
     "gloss": null,
     "umschrift": null,
+    "ipa": "a sɛz œʁ sɛ lə ɡute puʁ lez ɑ̃fɑ̃ e puʁ mwa paʁ solidaʁite",
     "audio": "audio/fr-de/saetze/en_19.mp3?v=75aef9dc"
    },
    "zeit": null,
@@ -5838,12 +6204,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʁiʁ oz ekla",
    "satz": {
     "fr": "Le bébé rit aux éclats quand le chat éternue. Moi aussi, d'ailleurs.",
     "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "luecke": "rit aux éclats",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə bebe ʁi oz ekla kɑ̃ lə ʃa etɛʁny mwa osi dajœʁ",
     "audio": "audio/fr-de/saetze/en_20.mp3?v=09bc6447"
    },
    "zeit": {
@@ -5872,12 +6240,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "fɛʁ la sjɛst",
    "satz": {
     "fr": "Les petits font la sieste. Les grands aussi, en secret.",
     "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "luecke": "font la sieste",
     "gloss": null,
     "umschrift": null,
+    "ipa": "le pəti fɔ̃ la sjɛst le ɡʁɑ̃ osi ɑ̃ səkʁɛ",
     "audio": "audio/fr-de/saetze/en_21.mp3?v=a103e8b3"
    },
    "zeit": {
@@ -5906,12 +6276,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "avwaʁ pœʁ dy nwaʁ",
    "satz": {
     "fr": "Il a peur du noir. Alors on laisse la porte ouverte. Et le chat de garde.",
     "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
     "luecke": "a peur du noir",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il a pœʁ dy nwaʁ alɔʁ ɔ̃ lɛs la pɔʁt uvɛʁt e lə ʃa də ɡaʁd",
     "audio": "audio/fr-de/saetze/en_22.mp3?v=d0faa09b"
    },
    "zeit": null,
@@ -5929,12 +6301,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sɛ lœʁ dy bɛ̃",
    "satz": {
     "fr": "C'est l'heure du bain ! Tout le monde est mouillé. Même ceux qui ne se baignent pas.",
     "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "luecke": "l'heure du bain",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sɛ lœʁ dy bɛ̃ tulmɔ̃d ɛ muje mɛm sø ki nə sə bɛnj pa",
     "audio": "audio/fr-de/saetze/en_23.mp3?v=c7d94828"
    },
    "zeit": null,
@@ -5952,12 +6326,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "kɛl aʒ a votʁ ɑ̃fɑ̃",
    "satz": {
     "fr": "Il est adorable. Quel âge a votre enfant ? – Quatorze mois. Et quatre dents.",
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Quel âge a votre enfant",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il ɛt adoʁabl kɛl aʒ a votʁ ɑ̃fɑ̃ katɔʁz mwa e katʁ dɑ̃",
     "audio": "audio/fr-de/saetze/en_24.mp3?v=bb7c5dc4"
    },
    "zeit": null,
@@ -5975,12 +6351,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "aktɥɛlmɑ̃",
    "satz": {
     "fr": "Actuellement, je corrige des copies. En fait, je regarde le chat.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Actuellement",
     "gloss": null,
     "umschrift": null,
+    "ipa": "aktɥɛlmɑ̃ ʒə koʁiʒ de kopi ɑ̃ fɛ ʒə ʁəɡaʁd lə ʃa",
     "audio": "audio/fr-de/saetze/fa_01.mp3?v=7f629629"
    },
    "zeit": null,
@@ -5998,12 +6376,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn libʁɛʁi",
    "satz": {
     "fr": "À la librairie, on achète. À la bibliothèque, on emprunte. Et on rend. En théorie.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "librairie",
     "gloss": null,
     "umschrift": null,
+    "ipa": "a la libʁɛʁi ɔ̃n aʃɛt a la bibliotɛk ɔ̃n ɑ̃pʁœ̃t e ɔ̃ ʁɑ̃ ɑ̃ teoʁi",
     "audio": "audio/fr-de/saetze/fa_02.mp3?v=87694499"
    },
    "zeit": null,
@@ -6021,12 +6401,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "asiste a",
    "satz": {
     "fr": "J'assiste à une réunion. Je n'aide personne. Je suis juste là.",
     "de": "Ich nehme an einer Konferenz teil. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "assiste à",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒasist a yn ʁeynjɔ̃ ʒə nɛd pɛʁsɔn ʒə sɥi ʒyst la",
     "audio": "audio/fr-de/saetze/fa_03.mp3?v=8c5c3d3f"
    },
    "zeit": {
@@ -6055,12 +6437,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "atɑ̃dʁ",
    "satz": {
     "fr": "J'attends le bus. Le bus ne m'attend pas. C'est injuste.",
     "de": "Ich warte auf den Bus. Der Bus wartet nicht auf mich. Das ist ungerecht.",
     "luecke": "attends",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒatɑ̃ lə bys lə bys nə matɑ̃ pa sɛt ɛ̃ʒyst",
     "audio": "audio/fr-de/saetze/fa_04.mp3?v=9702c961"
    },
    "zeit": {
@@ -6089,12 +6473,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "blɛse",
    "satz": {
     "fr": "Attention : « blesser » n'est pas gentil. Mon chat le sait bien.",
     "de": "Vorsicht: „blesser“ ist nicht nett. Meine Katze weiß das genau.",
     "luecke": "blesser",
     "gloss": null,
     "umschrift": null,
+    "ipa": "atɑ̃sjɔ̃ blɛse nɛ pa ʒɑ̃ti mɔ̃ ʃa lə sɛ bjɛ̃",
     "audio": "audio/fr-de/saetze/fa_05.mp3?v=359f8181"
    },
    "zeit": {
@@ -6123,12 +6509,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "dəmɑ̃de",
    "satz": {
     "fr": "Je demande le silence. Je ne l'exige pas. Nuance de prof.",
     "de": "Ich bitte um Ruhe. Ich fordere sie nicht. Lehrer-Nuance.",
     "luecke": "demande",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə dəmɑ̃d lə silɑ̃s ʒə nə lɛɡziʒ pa nɥɑ̃s də pʁɔf",
     "audio": "audio/fr-de/saetze/fa_06.mp3?v=157b8c9a"
    },
    "zeit": {
@@ -6157,12 +6545,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ʁɛste",
    "satz": {
     "fr": "Je reste à la maison. Je ne me repose pas : j'ai des copies.",
     "de": "Ich bleibe zu Hause. Ich ruhe mich nicht aus: Ich habe Arbeiten.",
     "luecke": "reste",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒə ʁɛst a la mɛzɔ̃ ʒə nə mə ʁəpɔz pa ʒe de kopi",
     "audio": "audio/fr-de/saetze/fa_07.mp3?v=8d301e43"
    },
    "zeit": {
@@ -6191,12 +6581,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "sɑ̃sibl",
    "satz": {
     "fr": "Mon chat est sensible. Pas raisonnable. Sensible.",
     "de": "Meine Katze ist empfindlich. Nicht vernünftig. Empfindlich.",
     "luecke": "sensible",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mɔ̃ ʃa ɛ sɑ̃sibl pa ʁɛzɔnabl sɑ̃sibl",
     "audio": "audio/fr-de/saetze/fa_08.mp3?v=b646c4c6"
    },
    "zeit": null,
@@ -6214,12 +6606,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "evɑ̃tɥɛlmɑ̃",
    "satz": {
     "fr": "Éventuellement, je viendrai. Finalement, je suis venu. Ce n'est pas pareil.",
     "de": "Möglicherweise komme ich. Schließlich bin ich gekommen. Das ist nicht dasselbe.",
     "luecke": "Éventuellement",
     "gloss": null,
     "umschrift": null,
+    "ipa": "evɑ̃tɥɛlmɑ̃ ʒə vjɛ̃dʁe finalmɑ̃ ʒə sɥi vəny sə nɛ pa paʁɛj",
     "audio": "audio/fr-de/saetze/fa_09.mp3?v=1dc53f75"
    },
    "zeit": null,
@@ -6237,12 +6631,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ kwɛ̃",
    "satz": {
     "fr": "Le chat dort dans un coin. Pas sur une pièce. Dans un coin.",
     "de": "Die Katze schläft in einer Ecke. Nicht auf einer Münze. In einer Ecke.",
     "luecke": "coin",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə ʃa dɔʁ dɑ̃z œ̃ kwɛ̃ pa syʁ yn pjɛs dɑ̃z œ̃ kwɛ̃",
     "audio": "audio/fr-de/saetze/fa_10.mp3?v=f377ff01"
    },
    "zeit": null,
@@ -6260,12 +6656,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn ʒuʁne",
    "satz": {
     "fr": "Bonne journée ! Ce n'est pas un voyage. Juste un jour. Mais un bon.",
     "de": "Schönen Tag! Das ist keine Reise. Nur ein Tag. Aber ein guter.",
     "luecke": "journée",
     "gloss": null,
     "umschrift": null,
+    "ipa": "bɔn ʒuʁne sə nɛ paz œ̃ vwajaʒ ʒyst œ̃ ʒuʁ mɛ œ̃ bɔ̃",
     "audio": "audio/fr-de/saetze/fa_11.mp3?v=ee84eee7"
    },
    "zeit": null,
@@ -6283,12 +6681,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ pʁezɛʁvatif",
    "satz": {
     "fr": "« Sans préservatifs » sur une confiture ? Non. On dit « sans conservateurs ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "préservatif",
     "gloss": null,
     "umschrift": null,
+    "ipa": "sɑ̃ pʁezɛʁvatif syʁ yn kɔ̃fityʁ nɔ̃ ɔ̃ di sɑ̃ kɔ̃sɛʁvatœʁ",
     "audio": "audio/fr-de/saetze/fa_12.mp3?v=3dfe1eac"
    },
    "zeit": null,
@@ -6306,12 +6706,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ bʁa",
    "satz": {
     "fr": "Il a un bras cassé. Un bras. Faites attention au mot anglais.",
     "de": "Er hat einen gebrochenen Arm. Einen Arm. Vorsicht mit dem englischen Wort.",
     "luecke": "bras",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il a œ̃ bʁa kase œ̃ bʁa fɛt atɑ̃sjɔ̃ o mo ɑ̃ɡlɛ",
     "audio": "audio/fr-de/saetze/fa_13.mp3?v=f085ca1e"
    },
    "zeit": null,
@@ -6329,12 +6731,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la mɔnɛ",
    "satz": {
     "fr": "Vous avez la monnaie ? – Non, j'ai de l'argent, mais pas de monnaie.",
     "de": "Haben Sie Kleingeld? – Nein, ich habe Geld, aber kein Kleingeld.",
     "luecke": "monnaie",
     "gloss": null,
     "umschrift": null,
+    "ipa": "vuz ave la mɔnɛ nɔ̃ ʒe də laʁʒɑ̃ mɛ pa də mɔnɛ",
     "audio": "audio/fr-de/saetze/fa_14.mp3?v=92930858"
    },
    "zeit": null,
@@ -6352,12 +6756,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn desɛpsjɔ̃",
    "satz": {
     "fr": "La note ? Une déception. Pas une tromperie. Juste une déception.",
     "de": "Die Note? Eine Enttäuschung. Keine Täuschung. Nur eine Enttäuschung.",
     "luecke": "déception",
     "gloss": null,
     "umschrift": null,
+    "ipa": "la nɔt yn desɛpsjɔ̃ paz yn tʁɔ̃pʁi ʒyst yn desɛpsjɔ̃",
     "audio": "audio/fr-de/saetze/fa_15.mp3?v=2ad6a5ac"
    },
    "zeit": null,
@@ -6375,12 +6781,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃n abi",
    "satz": {
     "fr": "Mes habits du dimanche : un jogging. C'est aussi une habitude.",
     "de": "Meine Sonntagskleidung: eine Jogginghose. Das ist auch eine Gewohnheit.",
     "luecke": "habits",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mez abi dy dimɑ̃ʃ œ̃ dʒɔɡiŋ sɛt osi yn abityd",
     "audio": "audio/fr-de/saetze/fa_16.mp3?v=668f2790"
    },
    "zeit": null,
@@ -6398,12 +6806,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "injoʁe",
    "satz": {
     "fr": "J'ignore la réponse. Je ne l'ignore pas : je ne la connais pas.",
     "de": "Ich weiß die Antwort nicht. Ich ignoriere sie nicht: Ich kenne sie nicht.",
     "luecke": "ignore",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ʒinjɔʁ la ʁepɔ̃s ʒə nə linjɔʁ pa ʒə nə la kɔnɛ pa",
     "audio": "audio/fr-de/saetze/fa_17.mp3?v=c57e3a2f"
    },
    "zeit": {
@@ -6432,12 +6842,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ staʒ",
    "satz": {
     "fr": "Mon élève fait un stage. Pas sur une scène. Dans une boulangerie.",
     "de": "Mein Schüler macht ein Praktikum. Nicht auf einer Bühne. In einer Bäckerei.",
     "luecke": "stage",
     "gloss": null,
     "umschrift": null,
+    "ipa": "mɔ̃n elɛv fɛt œ̃ staʒ pa syʁ yn sɛn dɑ̃z yn bulɑ̃ʒʁi",
     "audio": "audio/fr-de/saetze/fa_18.mp3?v=9bcec733"
    },
    "zeit": {
@@ -6466,12 +6878,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "yn lɛktyʁ",
    "satz": {
     "fr": "Ma lecture du soir : un roman. Pas un cours. Un roman.",
     "de": "Meine Abendlektüre: ein Roman. Keine Vorlesung. Ein Roman.",
     "luecke": "lecture",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ma lɛktyʁ dy swaʁ œ̃ ʁomɑ̃ paz œ̃ kuʁ œ̃ ʁomɑ̃",
     "audio": "audio/fr-de/saetze/fa_19.mp3?v=b4865a5e"
    },
    "zeit": null,
@@ -6489,12 +6903,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ medəsɛ̃",
    "satz": {
     "fr": "Le médecin donne un médicament. Le médicament n'est pas le médecin.",
     "de": "Der Arzt gibt ein Medikament. Das Medikament ist nicht der Arzt.",
     "luecke": "médecin",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lə medəsɛ̃ dɔn œ̃ medikamɑ̃ lə medikamɑ̃ nɛ pa lə medəsɛ̃",
     "audio": "audio/fr-de/saetze/fa_20.mp3?v=094b1b88"
    },
    "zeit": null,
@@ -6512,12 +6928,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "pʁetɑ̃dʁ",
    "satz": {
     "fr": "Il prétend avoir fait ses devoirs. Il fait semblant de chercher son cahier.",
     "de": "Er behauptet, seine Hausaufgaben gemacht zu haben. Er tut so, als suche er sein Heft.",
     "luecke": "prétend",
     "gloss": null,
     "umschrift": null,
+    "ipa": "il pʁetɑ̃t avwaʁ fɛ se dəvwaʁ il fɛ sɑ̃blɑ̃ də ʃɛʁʃe sɔ̃ kaje",
     "audio": "audio/fr-de/saetze/fa_21.mp3?v=17ee7734"
    },
    "zeit": {
@@ -6546,12 +6964,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "la lokasjɔ̃",
    "satz": {
     "fr": "Location de vélos. Ce n'est pas un lieu. C'est un vélo qu'on loue.",
     "de": "Fahrradverleih. Das ist kein Ort. Das ist ein Fahrrad, das man mietet.",
     "luecke": "Location",
     "gloss": null,
     "umschrift": null,
+    "ipa": "lokasjɔ̃ də velo sə nɛ paz œ̃ ljø sɛt œ̃ velo kɔ̃ lu",
     "audio": "audio/fr-de/saetze/fa_22.mp3?v=61d13c1f"
    },
    "zeit": null,
@@ -6569,12 +6989,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "œ̃ ʁɛzɛ̃",
    "satz": {
     "fr": "Un raisin, c'est frais. Un raisin sec, c'est sec. Logique française.",
     "de": "Eine Traube ist frisch. Eine Rosine ist trocken. Französische Logik.",
     "luecke": "raisin",
     "gloss": null,
     "umschrift": null,
+    "ipa": "œ̃ ʁɛzɛ̃ sɛ fʁɛ œ̃ ʁɛzɛ̃ sɛk sɛ sɛk loʒik fʁɑ̃sɛz",
     "audio": "audio/fr-de/saetze/fa_23.mp3?v=32066e30"
    },
    "zeit": null,
@@ -6592,12 +7014,14 @@ window.SPRACHEN["fr-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": "ɛkskyzemwa ʒə ʃɛʁʃ la bibliotɛk",
    "satz": {
     "fr": "Excusez-moi, je cherche la bibliothèque. – La librairie ? – Non, la bibliothèque. Avec les livres gratuits.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Mit den kostenlosen Büchern.",
     "luecke": "je cherche la bibliothèque",
     "gloss": null,
     "umschrift": null,
+    "ipa": "ɛkskyzemwa ʒə ʃɛʁʃ la bibliotɛk la libʁɛʁi nɔ̃ la bibliotɛk avɛk le livʁ ɡʁatɥi",
     "audio": "audio/fr-de/saetze/fa_24.mp3?v=5c3dd42b"
    },
    "zeit": null,

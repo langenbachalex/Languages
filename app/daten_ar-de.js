@@ -745,12 +745,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مَرْحَبًا | hallo",
    "umschrift": "marḥaban",
    "wurzel": "ر-ح-ب",
+   "ipa": null,
    "satz": {
     "fr": "مَرْحَبًا سَامِي، كَيْفَ حَالُك؟",
     "de": "Hallo Sāmī, wie geht es dir?",
     "luecke": "مَرْحَبًا",
     "gloss": "مَرْحَبًا سَامِي، كَيْفَ حَال·ُك؟ | hallo Sāmī, wie Zustand·dein?",
     "umschrift": "marḥaban Sāmī, kayfa ḥāluk?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_01.mp3?v=6123a137"
    },
    "zeit": null,
@@ -772,12 +774,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "صَبَاحَ ال·خَيْر | Morgen DEF·Gute",
    "umschrift": "ṣabāḥ al-khayr",
    "wurzel": "ص-ب-ح",
+   "ipa": null,
    "satz": {
     "fr": "صَبَاحَ الخَيْر يَا أَوْلاد، هَلْ أَنْتُمْ مُسْتَيْقِظُون؟",
     "de": "Guten Morgen, Kinder, seid ihr wach?",
     "luecke": "صَبَاحَ الخَيْر",
     "gloss": "صَبَاحَ ال·خَيْر يَا أَوْلاد، هَلْ أَنْتُمْ مُسْتَيْقِظ·ُون؟ | Morgen DEF·Gute oh Kinder, FRAGE ihr wach·PL.M?",
     "umschrift": "ṣabāḥ al-khayr yā awlād, hal antum mustayqiẓūn?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_02.mp3?v=cf05178f"
    },
    "zeit": null,
@@ -799,12 +803,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "كَيْفَ حَال·ُك | wie Zustand·dein",
    "umschrift": "kayfa ḥāluk?",
    "wurzel": "ح-و-ل",
+   "ipa": null,
    "satz": {
     "fr": "كَيْفَ حَالُك؟ – بِخَيْر، وَأَنْت؟",
     "de": "Wie geht es dir? – Gut, und dir?",
     "luecke": "كَيْفَ حَالُك",
     "gloss": "كَيْفَ حَال·ُك؟ – بِ·خَيْر، وَ·أَنْت؟ | wie Zustand·dein? – in·Gutes, und·du?",
     "umschrift": "kayfa ḥāluk? – bi-khayr, wa-anta?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_03.mp3?v=eeddb7a5"
    },
    "zeit": null,
@@ -826,12 +832,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَنَا بِ·خَيْر، شُكْرًا | ich in·Gutes, Dank",
    "umschrift": "anā bi-khayr, shukran",
    "wurzel": "خ-ي-ر",
+   "ipa": null,
    "satz": {
     "fr": "أَنَا بِخَيْر، شُكْرًا. مُتْعَبٌ قَلِيلاً.",
     "de": "Mir geht es gut, danke. Ein bisschen müde.",
     "luecke": "أَنَا بِخَيْر",
     "gloss": "أَنَا بِ·خَيْر، شُكْرًا. مُتْعَب قَلِيلاً. | ich in·Gutes, Dank. müde wenig.",
     "umschrift": "anā bi-khayr, shukran. mutʿab qalīlan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_04.mp3?v=b0f3da62"
    },
    "zeit": null,
@@ -853,12 +861,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَهْلاً وَ·سَهْلاً | Familie und·Ebene",
    "umschrift": "ahlan wa-sahlan",
    "wurzel": "أ-ه-ل",
+   "ipa": null,
    "satz": {
     "fr": "أَهْلاً وَسَهْلاً، اِجْلِسْ. – أَهْلاً بِك.",
     "de": "Willkommen, setz dich. – Danke (dir auch).",
     "luecke": "أَهْلاً وَسَهْلاً",
     "gloss": "أَهْلاً وَ·سَهْلاً، اِجْلِسْ. – أَهْلاً بِ·ك. | Familie und·Ebene, sitz. – Familie bei·dir.",
     "umschrift": "ahlan wa-sahlan, ijlis. – ahlan bik.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_05.mp3?v=9b304244"
    },
    "zeit": null,
@@ -880,12 +890,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أُحِبّ·ُ ال·تَحَدُّث بِ·ال·عَرَبِيَّة | lieben·1SG DEF·Sprechen in·DEF·Arabisch",
    "umschrift": "uḥibbu t-taḥadduth bil-ʿarabiyya",
    "wurzel": "ح-ب-ب",
+   "ipa": null,
    "satz": {
     "fr": "أُحِبُّ التَّحَدُّثَ بِالعَرَبِيَّة، لَكِنْ بِبُطْء.",
     "de": "Ich spreche gern Arabisch, aber langsam.",
     "luecke": "أُحِبُّ التَّحَدُّثَ بِالعَرَبِيَّة",
     "gloss": "أُحِبّ·ُ ال·تَحَدُّث بِ·ال·عَرَبِيَّة، لَكِنْ بِ·بُطْء. | lieben·1SG DEF·Sprechen in·DEF·Arabisch, aber mit·Langsamkeit.",
     "umschrift": "uḥibbu t-taḥadduth bil-ʿarabiyya, lākin bi-buṭʾ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_06.mp3?v=46c6da3a"
    },
    "zeit": null,
@@ -907,12 +919,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مَا اسْم·ُك | was Name·dein",
    "umschrift": "mā smuk?",
    "wurzel": "س-م-و",
+   "ipa": null,
    "satz": {
     "fr": "مَا اسْمُك؟ – اِسْمِي سَامِي.",
     "de": "Wie heißt du? – Ich heiße Sāmī.",
     "luecke": "مَا اسْمُك",
     "gloss": "مَا اسْم·ُك؟ – اِسْم·ِي سَامِي. | was Name·dein? – Name·mein Sāmī.",
     "umschrift": "mā smuk? – ismī Sāmī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_07.mp3?v=595e2dfc"
    },
    "zeit": null,
@@ -934,12 +948,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِسْم·ِي أَلِكْس | Name·mein Alex",
    "umschrift": "ismī Alex",
    "wurzel": "ع-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "اِسْمِي أَلِكْس، أَنَا مُعَلِّمُ الأَلْمَانِيَّة.",
     "de": "Ich heiße Alex, ich bin der Deutschlehrer.",
     "luecke": "اِسْمِي أَلِكْس",
     "gloss": "اِسْم·ِي أَلِكْس، أَنَا مُعَلِّم ال·أَلْمَانِيَّة. | Name·mein Alex, ich Lehrer DEF·Deutsch.",
     "umschrift": "ismī Alex, anā muʿallim al-almāniyya.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_08.mp3?v=132b6ceb"
    },
    "zeit": null,
@@ -961,12 +977,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَشَرَّف·نَا | geehrt.werden·1PL",
    "umschrift": "tasharrafnā",
    "wurzel": "ش-ر-ف",
+   "ipa": null,
    "satz": {
     "fr": "تَشَرَّفْنَا يَا سَامِي. – وَأَنَا أَيْضًا.",
     "de": "Freut mich, Sāmī. – Mich auch.",
     "luecke": "تَشَرَّفْنَا",
     "gloss": "تَشَرَّف·نَا يَا سَامِي. – وَ·أَنَا أَيْضًا. | geehrt.werden·1PL oh Sāmī. – und·ich auch.",
     "umschrift": "tasharrafnā yā Sāmī. – wa-anā ayḍan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_09.mp3?v=220476cb"
    },
    "zeit": null,
@@ -988,12 +1006,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "إِلَى ال·لِقَاء | bis DEF·Treffen",
    "umschrift": "ilā l-liqāʾ",
    "wurzel": "ل-ق-ي",
+   "ipa": null,
    "satz": {
     "fr": "إِلَى اللِّقَاء، غَدًا أَنَا هُنَا مَرَّةً أُخْرَى.",
     "de": "Bis dann, morgen bin ich wieder hier.",
     "luecke": "إِلَى اللِّقَاء",
     "gloss": "إِلَى ال·لِقَاء، غَدًا أَنَا هُنَا مَرَّةً أُخْرَى. | bis DEF·Treffen, morgen ich hier Mal anderes.",
     "umschrift": "ilā l-liqāʾ, ghadan anā hunā marratan ukhrā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_10.mp3?v=335171f1"
    },
    "zeit": null,
@@ -1015,12 +1035,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَوْم·ًا سَعِيد·ًا | Tag·WUNSCH glücklich·WUNSCH",
    "umschrift": "yawman saʿīdan",
    "wurzel": "ي-و-م",
+   "ipa": null,
    "satz": {
     "fr": "يَوْمًا سَعِيدًا! – وَلَكَ أَيْضًا.",
     "de": "Schönen Tag! – Dir auch.",
     "luecke": "يَوْمًا سَعِيدًا",
     "gloss": "يَوْم·ًا سَعِيد·ًا! – وَ·لَ·كَ أَيْضًا. | Tag·WUNSCH glücklich·WUNSCH! – und·für·dich auch.",
     "umschrift": "yawman saʿīdan! – wa-laka ayḍan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_11.mp3?v=757a1b94"
    },
    "zeit": null,
@@ -1042,12 +1064,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مَعَ ال·سَلامَة | mit DEF·Unversehrtheit",
    "umschrift": "maʿa s-salāma",
    "wurzel": "س-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "مَعَ السَّلامَة يَا سَامِي! – مَعَ السَّلامَة يَا أُسْتَاذ!",
     "de": "Auf Wiedersehen, Sāmī! – Auf Wiedersehen, Herr Lehrer!",
     "luecke": "مَعَ السَّلامَة",
     "gloss": "مَعَ ال·سَلامَة يَا سَامِي! – مَعَ ال·سَلامَة يَا أُسْتَاذ! | mit DEF·Unversehrtheit oh Sāmī! – mit DEF·Unversehrtheit oh Lehrer!",
     "umschrift": "maʿa s-salāma yā Sāmī! – maʿa s-salāma yā ustādh!",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_12.mp3?v=6c66f8b0"
    },
    "zeit": null,
@@ -1069,12 +1093,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَهْلاً وَ·سَهْلاً بِ·حَضْرَت·ِك | Familie und·Ebene bei·Gegenwart·Ihr",
    "umschrift": "ahlan wa-sahlan bi-ḥaḍratik",
    "wurzel": "ح-ض-ر",
+   "ipa": null,
    "satz": {
     "fr": "أَهْلاً وَسَهْلاً بِحَضْرَتِك، هَلْ أَنْتِ وَالِدَةُ سَامِي؟",
     "de": "Willkommen, sind Sie die Mutter von Sāmī?",
     "luecke": "أَهْلاً وَسَهْلاً بِحَضْرَتِك",
     "gloss": "أَهْلاً وَ·سَهْلاً بِ·حَضْرَت·ِك، هَلْ أَنْتِ وَالِدَة·ُ سَامِي؟ | Familie und·Ebene bei·Gegenwart·Ihr, FRAGE du.F Mutter·GEN Sāmī?",
     "umschrift": "ahlan wa-sahlan bi-ḥaḍratik, hal anti wālidat Sāmī?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_13.mp3?v=50d92a3d"
    },
    "zeit": null,
@@ -1096,12 +1122,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "كَيْفَ حَال·ُ حَضْرَت·ِك | wie Zustand·GEN Gegenwart·Ihr",
    "umschrift": "kayfa ḥālu ḥaḍratik?",
    "wurzel": "ح-و-ل",
+   "ipa": null,
    "satz": {
     "fr": "كَيْفَ حَالُ حَضْرَتِك؟ – بِخَيْر، شُكْرًا. وَأَنْت؟",
     "de": "Wie geht es Ihnen? – Gut, danke. Und Ihnen?",
     "luecke": "كَيْفَ حَالُ حَضْرَتِك",
     "gloss": "كَيْفَ حَال·ُ حَضْرَت·ِك؟ – بِ·خَيْر، شُكْرًا. وَ·أَنْت؟ | wie Zustand·GEN Gegenwart·Ihr? – in·Gutes, Dank. und·Sie?",
     "umschrift": "kayfa ḥālu ḥaḍratik? – bi-khayr, shukran. wa-anta?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_14.mp3?v=a8794c53"
    },
    "zeit": null,
@@ -1123,12 +1151,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَفَضَّل، اِجْلِس | bitte.M, sitz.M",
    "umschrift": "tafaḍḍal, ijlis",
    "wurzel": "ف-ض-ل",
+   "ipa": null,
    "satz": {
     "fr": "تَفَضَّلِي، اِجْلِسِي. القَهْوَةُ قَادِمَة.",
     "de": "Bitte, setzen Sie sich. Der Kaffee kommt.",
     "luecke": "تَفَضَّلِي، اِجْلِسِي",
     "gloss": "تَفَضَّل·ِي، اِجْلِس·ِي. ال·قَهْوَة قَادِمَة. | bitte·F, sitz·F. DEF·Kaffee kommend.F.",
     "umschrift": "tafaḍḍalī, ijlisī. al-qahwa qādima.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_15.mp3?v=93b5be38"
    },
    "zeit": null,
@@ -1150,12 +1180,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "سَعِيد بِ·مَعْرِفَت·ِك | glücklich über·Bekanntschaft·Ihr",
    "umschrift": "saʿīd bi-maʿrifatik",
    "wurzel": "ع-ر-ف",
+   "ipa": null,
    "satz": {
     "fr": "سَعِيدٌ بِمَعْرِفَتِك، سَامِي يَتَكَلَّمُ عَنْكِ كَثِيرًا.",
     "de": "Freut mich, Sie kennenzulernen, Sāmī spricht viel von Ihnen.",
     "luecke": "سَعِيدٌ بِمَعْرِفَتِك",
     "gloss": "سَعِيد بِ·مَعْرِفَت·ِك، سَامِي يَتَكَلَّم عَن·كِ كَثِيرًا. | glücklich über·Bekanntschaft·Ihr, Sāmī spricht von·Ihnen.F viel.",
     "umschrift": "saʿīd bi-maʿrifatik, Sāmī yatakallam ʿanki kathīran.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_16.mp3?v=a10be320"
    },
    "zeit": null,
@@ -1177,12 +1209,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَنَا مُعَلِّم·ُ سَامِي | ich Lehrer·GEN Sāmī",
    "umschrift": "anā muʿallim Sāmī",
    "wurzel": "ع-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "أَنَا مُعَلِّمُ سَامِي لِلأَلْمَانِيَّة.",
     "de": "Ich bin der Deutschlehrer von Sāmī.",
     "luecke": "أَنَا مُعَلِّمُ سَامِي",
     "gloss": "أَنَا مُعَلِّم·ُ سَامِي لِ·ال·أَلْمَانِيَّة. | ich Lehrer·GEN Sāmī für·DEF·Deutsch.",
     "umschrift": "anā muʿallim Sāmī lil-almāniyya.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_17.mp3?v=d8e97886"
    },
    "zeit": null,
@@ -1204,12 +1238,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَنَا وَالِدَة·ُ سَامِي | ich Mutter·GEN Sāmī",
    "umschrift": "anā wālidat Sāmī",
    "wurzel": "و-ل-د",
+   "ipa": null,
    "satz": {
     "fr": "أَنَا وَالِدَةُ سَامِي، وَالِدُهُ فِي العَمَل.",
     "de": "Ich bin die Mutter von Sāmī, sein Vater ist bei der Arbeit.",
     "luecke": "أَنَا وَالِدَةُ سَامِي",
     "gloss": "أَنَا وَالِدَة·ُ سَامِي، وَالِد·ُهُ فِي ال·عَمَل. | ich Mutter·GEN Sāmī, Vater·sein in DEF·Arbeit.",
     "umschrift": "anā wālidat Sāmī, wāliduh fī l-ʿamal.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_18.mp3?v=204a5bf0"
    },
    "zeit": null,
@@ -1231,12 +1267,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "هَلْ تُرِيد قَهْوَة | FRAGE willst.2SG Kaffee",
    "umschrift": "hal turīd qahwa?",
    "wurzel": "ر-و-د",
+   "ipa": null,
    "satz": {
     "fr": "هَلْ تُرِيدِينَ قَهْوَة؟ – مِنْ فَضْلِك، بِدُونِ سُكَّر.",
     "de": "Möchten Sie Kaffee? – Gern, ohne Zucker.",
     "luecke": "هَلْ تُرِيدِينَ قَهْوَة",
     "gloss": "هَلْ تُرِيد·ِينَ قَهْوَة؟ – مِنْ فَضْل·ِك، بِ·دُونِ سُكَّر. | FRAGE willst·2SG.F Kaffee? – aus Güte·Ihr, mit·ohne Zucker.",
     "umschrift": "hal turīdīn qahwa? – min faḍlik, bidūn sukkar.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_19.mp3?v=40040901"
    },
    "zeit": null,
@@ -1258,12 +1296,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "سَامِي يَجْتَهِد كَثِيرًا | Sāmī strengt.sich.an viel",
    "umschrift": "Sāmī yajtahid kathīran",
    "wurzel": "ج-ه-د",
+   "ipa": null,
    "satz": {
     "fr": "سَامِي يَجْتَهِدُ كَثِيرًا، أَلْمَانِيَّتُهُ جَيِّدَة.",
     "de": "Sāmī strengt sich sehr an, sein Deutsch ist gut.",
     "luecke": "سَامِي يَجْتَهِدُ كَثِيرًا",
     "gloss": "سَامِي يَجْتَهِد كَثِيرًا، أَلْمَانِيَّت·ُهُ جَيِّدَة. | Sāmī strengt.sich.an viel, Deutsch·sein gut.F.",
     "umschrift": "Sāmī yajtahid kathīran, almāniyyatuh jayyida.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_20.mp3?v=14d2f977"
    },
    "zeit": null,
@@ -1285,12 +1325,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "عَرَبِيَّت·ِي مَا زَال·َتْ قَلِيلَة | Arabisch·mein nicht aufhören·3SG.F wenig.F",
    "umschrift": "ʿarabiyyatī mā zālat qalīla",
    "wurzel": "ز-ي-ل",
+   "ipa": null,
    "satz": {
     "fr": "عَرَبِيَّتِي مَا زَالَتْ قَلِيلَة، لَكِنِّي أَتَعَلَّم.",
     "de": "Mein Arabisch ist noch wenig, aber ich lerne.",
     "luecke": "عَرَبِيَّتِي مَا زَالَتْ قَلِيلَة",
     "gloss": "عَرَبِيَّت·ِي مَا زَال·َتْ قَلِيلَة، لَكِنّ·ِي أَتَعَلَّم. | Arabisch·mein nicht aufhören·3SG.F wenig.F, aber·ich lerne.1SG.",
     "umschrift": "ʿarabiyyatī mā zālat qalīla, lākinnī ataʿallam.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_21.mp3?v=b8a50a07"
    },
    "zeit": null,
@@ -1312,12 +1354,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "فَهِم·ْت، شُكْرًا لَ·ك | verstehen·1SG, Dank für·Sie",
    "umschrift": "fahimt, shukran lak",
    "wurzel": "ف-ه-م",
+   "ipa": null,
    "satz": {
     "fr": "فَهِمْت، شُكْرًا لَكِ. سَأَتَكَلَّمُ مَعَ سَامِي.",
     "de": "Verstanden, ich danke Ihnen. Ich werde mit Sāmī sprechen.",
     "luecke": "فَهِمْت، شُكْرًا لَكِ",
     "gloss": "فَهِم·ْت، شُكْرًا لَ·كِ. سَ·أَتَكَلَّم مَعَ سَامِي. | verstehen·1SG, Dank für·Sie.F. FUT·spreche.1SG mit Sāmī.",
     "umschrift": "fahimt, shukran laki. sa-atakallam maʿa Sāmī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_22.mp3?v=ad8e36bd"
    },
    "zeit": null,
@@ -1339,12 +1383,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "شُكْرًا عَلَى حُضُور·ِك | Dank für Kommen·Ihr",
    "umschrift": "shukran ʿalā ḥuḍūrik",
    "wurzel": "ح-ض-ر",
+   "ipa": null,
    "satz": {
     "fr": "شُكْرًا عَلَى حُضُورِك، البَابُ دَائِمًا مَفْتُوح.",
     "de": "Danke für Ihr Kommen, die Tür ist immer offen.",
     "luecke": "شُكْرًا عَلَى حُضُورِك",
     "gloss": "شُكْرًا عَلَى حُضُور·ِك، ال·بَاب دَائِمًا مَفْتُوح. | Dank für Kommen·Ihr, DEF·Tür immer offen.",
     "umschrift": "shukran ʿalā ḥuḍūrik, al-bāb dāʾiman maftūḥ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_23.mp3?v=3e394da0"
    },
    "zeit": null,
@@ -1366,12 +1412,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مَسَاءَ ال·خَيْر، مَعَ ال·سَلامَة | Abend DEF·Gute, mit DEF·Unversehrtheit",
    "umschrift": "masāʾ al-khayr, maʿa s-salāma",
    "wurzel": "م-س-و",
+   "ipa": null,
    "satz": {
     "fr": "مَسَاءَ الخَيْر، مَعَ السَّلامَة. – مَعَ السَّلامَة يَا أُسْتَاذ.",
     "de": "Guten Abend, auf Wiedersehen. – Auf Wiedersehen, Herr Lehrer.",
     "luecke": "مَسَاءَ الخَيْر، مَعَ السَّلامَة",
     "gloss": "مَسَاءَ ال·خَيْر، مَعَ ال·سَلامَة. – مَعَ ال·سَلامَة يَا أُسْتَاذ. | Abend DEF·Gute, mit DEF·Unversehrtheit. – mit DEF·Unversehrtheit oh Lehrer.",
     "umschrift": "masāʾ al-khayr, maʿa s-salāma. – maʿa s-salāma yā ustādh.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta_24.mp3?v=f479ae4e"
    },
    "zeit": null,
@@ -1393,12 +1441,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أُ·صَحِّح ال·أَوْرَاق | 1SG·korrigieren DEF·Blätter",
    "umschrift": "uṣaḥḥiḥ al-awrāq",
    "wurzel": "ص-ح-ح",
+   "ipa": null,
    "satz": {
     "fr": "هَذَا المَسَاءَ أُصَحِّحُ أَوْرَاقَ الصَّفِّ التَّاسِع.",
     "de": "Heute Abend korrigiere ich die Arbeiten der neunten Klasse.",
     "luecke": "أُصَحِّحُ",
     "gloss": "هَذَا ال·مَسَاء أُ·صَحِّح أَوْرَاق·َ ال·صَفّ ال·تَاسِع. | dies DEF·Abend 1SG·korrigieren Blätter·AKK DEF·Klasse DEF·neunte.",
     "umschrift": "hādhā l-masāʾ uṣaḥḥiḥ awrāq aṣ-ṣaff at-tāsiʿ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_01.mp3?v=a12e4b69"
    },
    "zeit": {
@@ -1431,12 +1481,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مُتْعَب بَعْدَ سِتّ حِصَص | müde nach sechs Stunden",
    "umschrift": "mutʿab baʿda sitt ḥiṣaṣ",
    "wurzel": "ت-ع-ب",
+   "ipa": null,
    "satz": {
     "fr": "أَنَا مُتْعَبٌ بَعْدَ سِتِّ حِصَص.",
     "de": "Ich bin müde nach sechs Stunden.",
     "luecke": "مُتْعَبٌ بَعْدَ سِتِّ حِصَص",
     "gloss": "أَنَا مُتْعَب بَعْدَ سِتّ حِصَص. | ich müde nach sechs Stunden.",
     "umschrift": "anā mutʿab baʿda sitt ḥiṣaṣ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_02.mp3?v=2a4a0ca8"
    },
    "zeit": null,
@@ -1458,12 +1510,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·اجْتِمَاع ال·سَاعَة ال·رَابِعَة | DEF·Sitzung DEF·Stunde DEF·vierte",
    "umschrift": "al-ijtimāʿ as-sāʿa ar-rābiʿa",
    "wurzel": "ج-م-ع",
+   "ipa": null,
    "satz": {
     "fr": "الاجْتِمَاعُ السَّاعَةَ الرَّابِعَة، هَلْ تَأْتِي؟",
     "de": "Die Sitzung ist um vier, kommst du?",
     "luecke": "الاجْتِمَاعُ السَّاعَةَ الرَّابِعَة",
     "gloss": "ال·اجْتِمَاع ال·سَاعَة ال·رَابِعَة، هَلْ تَ·أْتِي؟ | DEF·Sitzung DEF·Stunde DEF·vierte, FRAGE 2SG·kommen?",
     "umschrift": "al-ijtimāʿ as-sāʿa ar-rābiʿa, hal taʾtī?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_03.mp3?v=f01da193"
    },
    "zeit": null,
@@ -1485,12 +1539,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "عِنْد·ِي حِصَّة فَارِغَة | bei·mir Stunde leer.F",
    "umschrift": "ʿindī ḥiṣṣa fārigha",
    "wurzel": "ع-ن-د",
+   "ipa": null,
    "satz": {
     "fr": "عِنْدِي حِصَّةٌ فَارِغَة فِي الثَّالِثَة، نَشْرَبُ قَهْوَة؟",
     "de": "Ich habe in der dritten eine Freistunde, trinken wir Kaffee?",
     "luecke": "عِنْدِي حِصَّةٌ فَارِغَة",
     "gloss": "عِنْد·ِي حِصَّة فَارِغَة فِي ال·ثَالِثَة، نَ·شْرَب قَهْوَة؟ | bei·mir Stunde leer.F in DEF·dritten, 1PL·trinken Kaffee?",
     "umschrift": "ʿindī ḥiṣṣa fārigha fī th-thālitha, nashrab qahwa?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_04.mp3?v=48a3f174"
    },
    "zeit": null,
@@ -1512,12 +1568,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·قَهْوَة اِنْتَهَ·تْ | DEF·Kaffee enden·3SG.F",
    "umschrift": "al-qahwa ntahat",
    "wurzel": "ن-ه-ي",
+   "ipa": null,
    "satz": {
     "fr": "القَهْوَةُ انْتَهَتْ مَرَّةً أُخْرَى فِي غُرْفَةِ المُعَلِّمِين.",
     "de": "Der Kaffee ist im Lehrerzimmer schon wieder alle.",
     "luecke": "القَهْوَةُ انْتَهَتْ",
     "gloss": "ال·قَهْوَة اِنْتَهَ·تْ مَرَّةً أُخْرَى فِي غُرْفَة·ِ ال·مُعَلِّم·ِين. | DEF·Kaffee enden·3SG.F Mal anderes in Zimmer·GEN DEF·Lehrer·PL.",
     "umschrift": "al-qahwa ntahat marratan ukhrā fī ghurfat al-muʿallimīn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_05.mp3?v=6141608f"
    },
    "zeit": null,
@@ -1539,12 +1597,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مُنَاوِب فِي ال·اسْتِرَاحَة | diensthabend in DEF·Pause",
    "umschrift": "munāwib fī l-istirāḥa",
    "wurzel": "ن-و-ب",
+   "ipa": null,
    "satz": {
     "fr": "اليَوْمَ أَنَا مُنَاوِبٌ فِي الاسْتِرَاحَة.",
     "de": "Heute habe ich Pausenaufsicht.",
     "luecke": "مُنَاوِبٌ فِي الاسْتِرَاحَة",
     "gloss": "ال·يَوْم أَنَا مُنَاوِب فِي ال·اسْتِرَاحَة. | DEF·Tag ich diensthabend in DEF·Pause.",
     "umschrift": "al-yawm anā munāwib fī l-istirāḥa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_06.mp3?v=a5c113ec"
    },
    "zeit": null,
@@ -1566,12 +1626,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·جَدْوَل ال·جَدِيد | DEF·Plan DEF·neu",
    "umschrift": "al-jadwal al-jadīd",
    "wurzel": "ج-د-ل",
+   "ipa": null,
    "satz": {
     "fr": "الجَدْوَلُ الجَدِيدُ يُعْطِينِي سَبْعَ حِصَصٍ يَوْمَ الجُمْعَة.",
     "de": "Der neue Stundenplan gibt mir freitags sieben Stunden.",
     "luecke": "الجَدْوَلُ الجَدِيد",
     "gloss": "ال·جَدْوَل ال·جَدِيد يُعْطِي·نِي سَبْع حِصَص يَوْمَ ال·جُمْعَة. | DEF·Plan DEF·neu gibt·mir sieben Stunden Tag DEF·Freitag.",
     "umschrift": "al-jadwal al-jadīd yuʿṭīnī sabʿ ḥiṣaṣ yawm al-jumʿa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_07.mp3?v=317ab76f"
    },
    "zeit": null,
@@ -1593,12 +1655,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لا وَاجِب فِي عُطْلَة·ِ ال·أُسْبُوع | kein Pflicht in Pause·GEN DEF·Woche",
    "umschrift": "lā wājib fī ʿuṭlat al-usbūʿ",
    "wurzel": "و-ج-ب",
+   "ipa": null,
    "satz": {
     "fr": "لا وَاجِبَ فِي عُطْلَةِ الأُسْبُوع، التَّلامِيذُ يَحْتَفِلُون.",
     "de": "Keine Hausaufgaben übers Wochenende, die Schüler feiern.",
     "luecke": "لا وَاجِبَ",
     "gloss": "لا وَاجِب فِي عُطْلَة·ِ ال·أُسْبُوع، ال·تَلامِيذ يَ·حْتَفِل·ُون. | kein Pflicht in Pause·GEN DEF·Woche, DEF·Schüler.PL 3·feiern·PL.",
     "umschrift": "lā wājib fī ʿuṭlat al-usbūʿ, at-talāmīdh yaḥtafilūn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_08.mp3?v=91351fda"
    },
    "zeit": null,
@@ -1620,12 +1684,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وَضْع ال·دَرَجَات أَصْعَب مِنَ ال·تَدْرِيس | Setzen DEF·Noten schwerer als DEF·Unterrichten",
    "umschrift": "waḍʿ ad-darajāt aṣʿab min at-tadrīs",
    "wurzel": "ص-ع-ب",
+   "ipa": null,
    "satz": {
     "fr": "وَضْعُ الدَّرَجَاتِ أَصْعَبُ مِنَ التَّدْرِيس.",
     "de": "Noten geben ist schwerer als unterrichten.",
     "luecke": "أَصْعَبُ مِنَ",
     "gloss": "وَضْع·ُ ال·دَرَجَات أَصْعَب مِنَ ال·تَدْرِيس. | Setzen·GEN DEF·Noten schwerer als DEF·Unterrichten.",
     "umschrift": "waḍʿ ad-darajāt aṣʿab min at-tadrīs.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_09.mp3?v=fd6be991"
    },
    "zeit": null,
@@ -1647,12 +1713,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لا أَحَد يَ·رْسُب | kein jemand 3SG·durchfallen",
    "umschrift": "lā aḥad yarsub",
    "wurzel": "ر-س-ب",
+   "ipa": null,
    "satz": {
     "fr": "لا أَحَدَ يَرْسُبُ هَذِهِ السَّنَة، إِنْ شَاءَ الله.",
     "de": "Niemand bleibt dieses Jahr sitzen, so Gott will.",
     "luecke": "لا أَحَدَ يَرْسُب",
     "gloss": "لا أَحَد يَ·رْسُب هَذِهِ ال·سَنَة، إِنْ شَاءَ الله. | kein jemand 3SG·durchfallen diese DEF·Jahr, wenn wollte Gott.",
     "umschrift": "lā aḥad yarsub hādhihi s-sana, in shāʾa llāh.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_10.mp3?v=099f8acb"
    },
    "zeit": null,
@@ -1674,12 +1742,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِجْتِمَاع·ُ ال·أَهْل ال·لَيْلَة | Treffen·GEN DEF·Familie DEF·Nacht",
    "umschrift": "ijtimāʿ al-ahl al-layla",
    "wurzel": "أ-ه-ل",
+   "ipa": null,
    "satz": {
     "fr": "اِجْتِمَاعُ الأَهْلِ اللَّيْلَة، سَنَنَامُ مُتَأَخِّرِين.",
     "de": "Heute Abend ist Elternabend, wir gehen spät ins Bett.",
     "luecke": "اِجْتِمَاعُ الأَهْلِ اللَّيْلَة",
     "gloss": "اِجْتِمَاع·ُ ال·أَهْل ال·لَيْلَة، سَ·نَ·نَام مُتَأَخِّر·ِين. | Treffen·GEN DEF·Familie DEF·Nacht, FUT·1PL·schlafen verspätet·PL.",
     "umschrift": "ijtimāʿ al-ahl al-layla, sa-nanām mutaʾakhkhirīn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_11.mp3?v=29e1e28d"
    },
    "zeit": null,
@@ -1701,12 +1771,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَحَد·ُهُمْ يَ·غُشّ | einer·ihr 3SG·schummeln",
    "umschrift": "aḥaduhum yaghushsh",
    "wurzel": "غ-ش-ش",
+   "ipa": null,
    "satz": {
     "fr": "أَحَدُهُمْ يَغُشّ، وَاثْنَانِ يَرْتَكِبَانِ الخَطَأَ نَفْسَه.",
     "de": "Einer schreibt ab, und zwei machen denselben Fehler.",
     "luecke": "أَحَدُهُمْ يَغُشّ",
     "gloss": "أَحَد·ُهُمْ يَ·غُشّ، وَ·اثْنَان يَ·رْتَكِب·َان ال·خَطَأ نَفْس·َه. | einer·ihr 3SG·schummeln, und·zwei 3·begehen·DUAL DEF·Fehler selbst·sein.",
     "umschrift": "aḥaduhum yaghushsh, wa-thnān yartakibān al-khaṭaʾ nafsah.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_12.mp3?v=7c120849"
    },
    "zeit": {
@@ -1739,12 +1811,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·حِصَّة ال·أَخِيرَة ضَاع·َتْ | DEF·Stunde DEF·letzte verloren.gehen·3SG.F",
    "umschrift": "al-ḥiṣṣa l-akhīra ḍāʿat",
    "wurzel": "ض-ي-ع",
+   "ipa": null,
    "satz": {
     "fr": "الحِصَّةُ الأَخِيرَةُ ضَاعَتْ، وَأَنَا تَرَكْتُهُمْ يَذْهَبُون.",
     "de": "Die letzte Stunde ist geplatzt, und ich habe sie gehen lassen.",
     "luecke": "الحِصَّةُ الأَخِيرَةُ ضَاعَتْ",
     "gloss": "ال·حِصَّة ال·أَخِيرَة ضَاع·َتْ، وَ·أَنَا تَرَك·ْتُ·هُمْ يَ·ذْهَب·ُون. | DEF·Stunde DEF·letzte verloren.gehen·3SG.F, und·ich lassen·1SG·sie 3·gehen·PL.",
     "umschrift": "al-ḥiṣṣa l-akhīra ḍāʿat, wa-anā taraktuhum yadhhabūn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_13.mp3?v=c28b7834"
    },
    "zeit": null,
@@ -1766,12 +1840,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أُ·عَوِّض عَنْ زَمِيلَة | 1SG·vertreten für Kollegin",
    "umschrift": "uʿawwiḍ ʿan zamīla",
    "wurzel": "ع-و-ض",
+   "ipa": null,
    "satz": {
     "fr": "لَيْلَى مَرِيضَة، أُعَوِّضُ عَنْهَا فِي الحِصَّةِ الثَّانِيَة.",
     "de": "Laylā ist krank, ich vertrete sie in der zweiten Stunde.",
     "luecke": "أُعَوِّضُ عَنْهَا",
     "gloss": "لَيْلَى مَرِيضَة، أُ·عَوِّض عَنْ·هَا فِي ال·حِصَّة ال·ثَانِيَة. | Laylā krank.F, 1SG·vertreten für·sie in DEF·Stunde DEF·zweite.",
     "umschrift": "Laylā marīḍa, uʿawwiḍ ʿanhā fī l-ḥiṣṣa th-thāniya.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_14.mp3?v=5515c00c"
    },
    "zeit": {
@@ -1804,12 +1880,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·شْرَح لِ·ال·مَرَّة ال·ثَالِثَة | 1SG·erklären für·DEF·Mal DEF·dritte",
    "umschrift": "ashraḥ lil-marra th-thālitha",
    "wurzel": "ش-ر-ح",
+   "ipa": null,
    "satz": {
     "fr": "أَشْرَحُ المَوْضُوعَ نَفْسَهُ لِلْمَرَّةِ الثَّالِثَة.",
     "de": "Ich erkläre dasselbe Thema zum dritten Mal.",
     "luecke": "أَشْرَحُ",
     "gloss": "أَ·شْرَح ال·مَوْضُوع نَفْس·َهُ لِ·ال·مَرَّة ال·ثَالِثَة. | 1SG·erklären DEF·Thema selbst·sein für·DEF·Mal DEF·dritte.",
     "umschrift": "ashraḥ al-mawḍūʿ nafsah lil-marra th-thālitha.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_15.mp3?v=62419837"
    },
    "zeit": {
@@ -1842,12 +1920,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·اسْتِرَاحَة خَمْس دَقَائِق فَقَط | DEF·Pause fünf Minuten nur",
    "umschrift": "al-istirāḥa khams daqāʾiq faqaṭ",
    "wurzel": "د-ق-ق",
+   "ipa": null,
    "satz": {
     "fr": "الاسْتِرَاحَةُ خَمْسُ دَقَائِقَ فَقَط، لا أَشْعُرُ بِهَا.",
     "de": "Die Pause dauert nur fünf Minuten, ich spüre sie gar nicht.",
     "luecke": "خَمْسُ دَقَائِقَ فَقَط",
     "gloss": "ال·اسْتِرَاحَة خَمْس دَقَائِق فَقَط، لا أَ·شْعُر بِ·هَا. | DEF·Pause fünf Minuten nur, nicht 1SG·spüren mit·ihr.",
     "umschrift": "al-istirāḥa khams daqāʾiq faqaṭ, lā ashʿur bihā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_16.mp3?v=2dc2621e"
    },
    "zeit": null,
@@ -1869,12 +1949,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "آلَة·ُ ال·نَسْخ مُعَطَّلَة | Maschine·GEN DEF·Kopieren defekt.F",
    "umschrift": "ālat an-naskh muʿaṭṭala",
    "wurzel": "ن-س-خ",
+   "ipa": null,
    "satz": {
     "fr": "آلَةُ النَّسْخِ مُعَطَّلَةٌ مَرَّةً أُخْرَى، لا أَسْتَطِيعُ أَنْ أَنْسَخ.",
     "de": "Der Kopierer ist schon wieder kaputt, ich kann nicht kopieren.",
     "luecke": "آلَةُ النَّسْخِ مُعَطَّلَة",
     "gloss": "آلَة·ُ ال·نَسْخ مُعَطَّلَة مَرَّةً أُخْرَى، لا أَ·سْتَطِيع أَنْ أَ·نْسَخ. | Maschine·GEN DEF·Kopieren defekt.F Mal anderes, nicht 1SG·können dass 1SG·kopieren.",
     "umschrift": "ālat an-naskh muʿaṭṭala marratan ukhrā, lā astaṭīʿ an ansakh.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_17.mp3?v=14f8fa23"
    },
    "zeit": null,
@@ -1896,12 +1978,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِمْتِحَان شَفَوِيّ ال·يَوْم | Prüfung mündlich DEF·Tag",
    "umschrift": "imtiḥān shafawī al-yawm",
    "wurzel": "م-ح-ن",
+   "ipa": null,
    "satz": {
     "fr": "اِمْتِحَانٌ شَفَوِيٌّ اليَوْم، وَفَجْأَةً صَمَتَ الجَمِيع.",
     "de": "Heute mündliche Prüfung, und plötzlich schwiegen alle.",
     "luecke": "اِمْتِحَانٌ شَفَوِيٌّ",
     "gloss": "اِمْتِحَان شَفَوِيّ ال·يَوْم، وَ·فَجْأَةً صَمَت·َ ال·جَمِيع. | Prüfung mündlich DEF·Tag, und·plötzlich schweigen·3SG DEF·alle.",
     "umschrift": "imtiḥān shafawī al-yawm, wa-fajʾatan ṣamat al-jamīʿ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_18.mp3?v=0c099142"
    },
    "zeit": null,
@@ -1923,12 +2007,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "آ·خُذ ال·غِيَاب | 1SG·nehmen DEF·Abwesenheit",
    "umschrift": "ākhudh al-ghiyāb",
    "wurzel": "غ-ي-ب",
+   "ipa": null,
    "satz": {
     "fr": "آخُذُ الغِيَاب، ثَلاثَةٌ غَائِبُونَ مَرَّةً أُخْرَى.",
     "de": "Ich mache die Anwesenheit, drei fehlen schon wieder.",
     "luecke": "آخُذُ الغِيَاب",
     "gloss": "آ·خُذ ال·غِيَاب، ثَلاثَة غَائِب·ُون مَرَّةً أُخْرَى. | 1SG·nehmen DEF·Abwesenheit, drei abwesend·PL Mal anderes.",
     "umschrift": "ākhudh al-ghiyāb, thalātha ghāʾibūn marratan ukhrā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_19.mp3?v=4c19a492"
    },
    "zeit": {
@@ -1961,12 +2047,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَعَالَ إِلَى ال·سَبُّورَة | komm zu DEF·Tafel",
    "umschrift": "taʿāla ilā s-sabbūra",
    "wurzel": "ع-ل-و",
+   "ipa": null,
    "satz": {
     "fr": "كَرِيم، تَعَالَ إِلَى السَّبُّورَة. – يَا رَبّ.",
     "de": "Karīm, komm an die Tafel. – Oh Gott.",
     "luecke": "تَعَالَ إِلَى السَّبُّورَة",
     "gloss": "كَرِيم، تَعَالَ إِلَى ال·سَبُّورَة. – يَا رَبّ. | Karīm, komm zu DEF·Tafel. – oh Herr.",
     "umschrift": "Karīm, taʿāla ilā s-sabbūra. – yā rabb.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_20.mp3?v=4c5dcb6a"
    },
    "zeit": null,
@@ -1988,12 +2076,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَوْم·ُ ال·شَهَادَات | Tag·GEN DEF·Zeugnisse",
    "umschrift": "yawm ash-shahādāt",
    "wurzel": "ش-ه-د",
+   "ipa": null,
    "satz": {
     "fr": "يَوْمَ الشَّهَادَاتِ يُصْبِحُ الجَمِيعُ مُؤَدَّبِينَ فَجْأَة.",
     "de": "Am Zeugnistag werden plötzlich alle höflich.",
     "luecke": "الشَّهَادَات",
     "gloss": "يَوْمَ ال·شَهَادَات يُ·صْبِح ال·جَمِيع مُؤَدَّب·ِين فَجْأَة. | Tag.AKK DEF·Zeugnisse 3SG·werden DEF·alle höflich·PL plötzlich.",
     "umschrift": "yawm ash-shahādāt yuṣbiḥ al-jamīʿ muʾaddabīn fajʾa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_21.mp3?v=98ae8f33"
    },
    "zeit": null,
@@ -2015,12 +2105,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "الله يُ·عْطِي·كَ ال·عَافِيَة | Gott 3SG·geben·dir DEF·Wohlbefinden",
    "umschrift": "Allāh yuʿṭīk al-ʿāfiya",
    "wurzel": "ع-ف-و",
+   "ipa": null,
    "satz": {
     "fr": "اللهُ يُعْطِيكَ العَافِيَة! – اللهُ يُعَافِيك، بَقِيَ ثَلاثُونَ وَرَقَة.",
     "de": "Gott gebe dir Kraft! – Gott erhalte dich, es bleiben dreißig Arbeiten.",
     "luecke": "اللهُ يُعْطِيكَ العَافِيَة",
     "gloss": "الله يُ·عْطِي·كَ ال·عَافِيَة! – الله يُ·عَافِي·ك، بَقِيَ ثَلاثُون وَرَقَة. | Gott 3SG·geben·dir DEF·Wohlbefinden! – Gott 3SG·erhalten·dich, blieb dreißig Blatt.",
     "umschrift": "Allāh yuʿṭīk al-ʿāfiya! – Allāh yuʿāfīk, baqiya thalāthūn waraqa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_22.mp3?v=b27232db"
    },
    "zeit": null,
@@ -2042,12 +2134,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "سَلامَت·َك | Unversehrtheit·dein",
    "umschrift": "salāmatak",
    "wurzel": "س-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "سَلامَتَك! – اللهُ يُسَلِّمُك. مُجَرَّدُ زُكَام.",
     "de": "Gute Besserung! – Danke. Nur eine Erkältung.",
     "luecke": "سَلامَتَك",
     "gloss": "سَلامَت·َك! – الله يُ·سَلِّم·ُك. مُجَرَّد زُكَام. | Unversehrtheit·dein! – Gott 3SG·bewahren·dich. bloß Erkältung.",
     "umschrift": "salāmatak! – Allāh yusallimuk. mujarrad zukām.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_23.mp3?v=65658a54"
    },
    "zeit": null,
@@ -2069,12 +2163,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَا أُسْتَاذ، هَلْ عِنْد·َكَ دَقِيقَة | oh Lehrer, FRAGE bei·dir Minute",
    "umschrift": "yā ustādh, hal ʿindak daqīqa?",
    "wurzel": "أ-س-ت-ذ",
+   "ipa": null,
    "satz": {
     "fr": "يَا أُسْتَاذ، هَلْ عِنْدَكَ دَقِيقَة؟ عِنْدِي مُشْكِلَةٌ فِي الدَّرَجَات.",
     "de": "Herr Kollege, haben Sie eine Minute? Ich habe ein Problem mit den Noten.",
     "luecke": "هَلْ عِنْدَكَ دَقِيقَة",
     "gloss": "يَا أُسْتَاذ، هَلْ عِنْد·َكَ دَقِيقَة؟ عِنْد·ِي مُشْكِلَة فِي ال·دَرَجَات. | oh Lehrer, FRAGE bei·dir Minute? bei·mir Problem in DEF·Noten.",
     "umschrift": "yā ustādh, hal ʿindak daqīqa? ʿindī mushkila fī d-darajāt.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mu_24.mp3?v=0d2ef7cf"
    },
    "zeit": null,
@@ -2096,12 +2192,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مِزَاج·ِي جَيِّد ال·يَوْم | Laune·mein gut DEF·Tag",
    "umschrift": "mizājī jayyid al-yawm",
    "wurzel": "م-ز-ج",
+   "ipa": null,
    "satz": {
     "fr": "مِزَاجِي جَيِّدٌ اليَوْم، لا يُفْسِدْهُ أَحَد.",
     "de": "Ich bin heute gut drauf, keiner soll es mir verderben.",
     "luecke": "مِزَاجِي جَيِّدٌ اليَوْم",
     "gloss": "مِزَاج·ِي جَيِّد ال·يَوْم، لا يُ·فْسِد·ْهُ أَحَد. | Laune·mein gut DEF·Tag, nicht 3SG·verderben·sie jemand.",
     "umschrift": "mizājī jayyid al-yawm, lā yufsidhu aḥad.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_01.mp3?v=4444228f"
    },
    "zeit": null,
@@ -2123,12 +2221,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·شْعُر بِ·ال·مَلَل | 1SG·fühlen mit·DEF·Langeweile",
    "umschrift": "ashʿur bil-malal",
    "wurzel": "ش-ع-ر",
+   "ipa": null,
    "satz": {
     "fr": "أَشْعُرُ بِالمَلَلِ فِي الاجْتِمَاع، أَنْظُرُ إِلَى السَّاعَة.",
     "de": "Ich langweile mich in der Sitzung, ich schaue auf die Uhr.",
     "luecke": "أَشْعُرُ بِالمَلَل",
     "gloss": "أَ·شْعُر بِ·ال·مَلَل فِي ال·اجْتِمَاع، أَ·نْظُر إِلَى ال·سَاعَة. | 1SG·fühlen mit·DEF·Langeweile in DEF·Sitzung, 1SG·schauen zu DEF·Uhr.",
     "umschrift": "ashʿur bil-malal fī l-ijtimāʿ, anẓur ilā s-sāʿa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_02.mp3?v=25780d62"
    },
    "zeit": {
@@ -2161,12 +2261,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مِزَاج·ِي سَيِّئ | Laune·mein schlecht",
    "umschrift": "mizājī sayyiʾ",
    "wurzel": "س-و-أ",
+   "ipa": null,
    "satz": {
     "fr": "بَعْدَ الأَوْرَاقِ مِزَاجِي سَيِّئ.",
     "de": "Nach den Arbeiten habe ich schlechte Laune.",
     "luecke": "مِزَاجِي سَيِّئ",
     "gloss": "بَعْدَ ال·أَوْرَاق مِزَاج·ِي سَيِّئ. | nach DEF·Blätter Laune·mein schlecht.",
     "umschrift": "baʿda l-awrāq mizājī sayyiʾ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_03.mp3?v=127ce772"
    },
    "zeit": null,
@@ -2188,12 +2290,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَعْصَاب·ِي تَالِفَة | Nerven·mein kaputt.F",
    "umschrift": "aʿṣābī tālifa",
    "wurzel": "ع-ص-ب",
+   "ipa": null,
    "satz": {
     "fr": "أَعْصَابِي تَالِفَةٌ بِسَبَبِ آلَةِ النَّسْخ.",
     "de": "Meine Nerven liegen blank wegen des Kopierers.",
     "luecke": "أَعْصَابِي تَالِفَة",
     "gloss": "أَعْصَاب·ِي تَالِفَة بِ·سَبَب·ِ آلَة·ِ ال·نَسْخ. | Nerven·mein kaputt.F mit·Grund·GEN Maschine·GEN DEF·Kopieren.",
     "umschrift": "aʿṣābī tālifa bi-sabab ālat an-naskh.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_04.mp3?v=67e055f7"
    },
    "zeit": null,
@@ -2215,12 +2319,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وَضَع·ْتُ ال·دَرَجَات، اِرْتَح·ْت | setzen·1SG DEF·Noten, erleichtert.sein·1SG",
    "umschrift": "waḍaʿtu d-darajāt, irtaḥt",
    "wurzel": "ر-و-ح",
+   "ipa": null,
    "satz": {
     "fr": "وَضَعْتُ الدَّرَجَات، اِرْتَحْت.",
     "de": "Ich habe die Noten eingetragen, ich bin erleichtert.",
     "luecke": "اِرْتَحْت",
     "gloss": "وَضَع·ْتُ ال·دَرَجَات، اِرْتَح·ْت. | setzen·1SG DEF·Noten, erleichtert.sein·1SG.",
     "umschrift": "waḍaʿtu d-darajāt, irtaḥt.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_05.mp3?v=05f62df0"
    },
    "zeit": null,
@@ -2242,12 +2348,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لا أَ·سْتَطِيع ال·انْتِظَار | nicht 1SG·können DEF·Warten",
    "umschrift": "lā astaṭīʿ al-intiẓār",
    "wurzel": "ن-ظ-ر",
+   "ipa": null,
    "satz": {
     "fr": "غَدًا عُطْلَة، لا أَسْتَطِيعُ الانْتِظَار.",
     "de": "Morgen ist frei, ich kann es kaum erwarten.",
     "luecke": "لا أَسْتَطِيعُ الانْتِظَار",
     "gloss": "غَدًا عُطْلَة، لا أَ·سْتَطِيع ال·انْتِظَار. | morgen Ferien, nicht 1SG·können DEF·Warten.",
     "umschrift": "ghadan ʿuṭla, lā astaṭīʿ al-intiẓār.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_06.mp3?v=28d820a4"
    },
    "zeit": null,
@@ -2269,12 +2377,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ضَاع·َ مِزَاج·ِي | verloren.gehen·3SG Laune·mein",
    "umschrift": "ḍāʿa mizājī",
    "wurzel": "ض-ي-ع",
+   "ipa": null,
    "satz": {
     "fr": "بَعْدَ الحِصَّةِ الأَخِيرَةِ ضَاعَ مِزَاجِي.",
     "de": "Nach der letzten Stunde war die Laune hin.",
     "luecke": "ضَاعَ مِزَاجِي",
     "gloss": "بَعْدَ ال·حِصَّة ال·أَخِيرَة ضَاع·َ مِزَاج·ِي. | nach DEF·Stunde DEF·letzte verloren.gehen·3SG Laune·mein.",
     "umschrift": "baʿda l-ḥiṣṣa l-akhīra ḍāʿa mizājī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_07.mp3?v=5fa0b6d9"
    },
    "zeit": null,
@@ -2296,12 +2406,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "رَأْس·ِي يُ·ؤْلِم·ُنِي | Kopf·mein 3SG·schmerzen·mich",
    "umschrift": "raʾsī yuʾlimunī",
    "wurzel": "أ-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "بَعْدَ سَبْعِ حِصَصٍ رَأْسِي يُؤْلِمُنِي.",
     "de": "Nach sieben Stunden habe ich Kopfschmerzen.",
     "luecke": "رَأْسِي يُؤْلِمُنِي",
     "gloss": "بَعْدَ سَبْع حِصَص رَأْس·ِي يُ·ؤْلِم·ُنِي. | nach sieben Stunden Kopf·mein 3SG·schmerzen·mich.",
     "umschrift": "baʿda sabʿ ḥiṣaṣ raʾsī yuʾlimunī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_08.mp3?v=b2253cc5"
    },
    "zeit": null,
@@ -2323,12 +2435,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مَا زِل·ْتُ نَعْسَان | nicht aufhören·1SG schläfrig",
    "umschrift": "mā ziltu naʿsān",
    "wurzel": "ن-ع-س",
+   "ipa": null,
    "satz": {
     "fr": "فِي الثَّامِنَةِ صَبَاحًا مَا زِلْتُ نَعْسَان.",
     "de": "Um acht Uhr morgens bin ich noch verschlafen.",
     "luecke": "مَا زِلْتُ نَعْسَان",
     "gloss": "فِي ال·ثَامِنَة صَبَاحًا مَا زِل·ْتُ نَعْسَان. | in DEF·achten morgens nicht aufhören·1SG schläfrig.",
     "umschrift": "fī th-thāmina ṣabāḥan mā ziltu naʿsān.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_09.mp3?v=53128656"
    },
    "zeit": null,
@@ -2350,12 +2464,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مُتَوَتِّر قَبْلَ ال·حِصَّة ال·أُولَى | angespannt vor DEF·Stunde DEF·erste",
    "umschrift": "mutawattir qabla l-ḥiṣṣa l-ūlā",
    "wurzel": "و-ت-ر",
+   "ipa": null,
    "satz": {
     "fr": "مَا زِلْتُ مُتَوَتِّرًا قَبْلَ الحِصَّةِ الأُولَى.",
     "de": "Vor der ersten Stunde bin ich immer noch nervös.",
     "luecke": "مُتَوَتِّرًا قَبْلَ الحِصَّةِ الأُولَى",
     "gloss": "مَا زِل·ْتُ مُتَوَتِّر·ًا قَبْلَ ال·حِصَّة ال·أُولَى. | nicht aufhören·1SG angespannt·AKK vor DEF·Stunde DEF·erste.",
     "umschrift": "mā ziltu mutawattiran qabla l-ḥiṣṣa l-ūlā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_10.mp3?v=5834d4b0"
    },
    "zeit": null,
@@ -2377,12 +2493,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "قَلِق قَبْلَ اجْتِمَاع·ِ ال·أَهْل | besorgt vor Treffen·GEN DEF·Familie",
    "umschrift": "qaliq qabla jtimāʿ al-ahl",
    "wurzel": "ق-ل-ق",
+   "ipa": null,
    "satz": {
     "fr": "أَنَا قَلِقٌ قَبْلَ اجْتِمَاعِ الأَهْل.",
     "de": "Vor dem Elternabend bin ich unruhig.",
     "luecke": "قَلِقٌ",
     "gloss": "أَنَا قَلِق قَبْلَ اجْتِمَاع·ِ ال·أَهْل. | ich besorgt vor Treffen·GEN DEF·Familie.",
     "umschrift": "anā qaliq qabla jtimāʿ al-ahl.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_11.mp3?v=173ff8c0"
    },
    "zeit": null,
@@ -2404,12 +2522,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِنْتَهَى ال·تَفْتِيش، اِرْتَح·ْت | endete DEF·Inspektion, erleichtert.sein·1SG",
    "umschrift": "intahā t-taftīsh, irtaḥt",
    "wurzel": "ف-ت-ش",
+   "ipa": null,
    "satz": {
     "fr": "اِنْتَهَى التَّفْتِيش، اِرْتَحْت.",
     "de": "Die Inspektion ist vorbei, ich bin erleichtert.",
     "luecke": "اِنْتَهَى التَّفْتِيش",
     "gloss": "اِنْتَهَى ال·تَفْتِيش، اِرْتَح·ْت. | endete DEF·Inspektion, erleichtert.sein·1SG.",
     "umschrift": "intahā t-taftīsh, irtaḥt.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_12.mp3?v=6dc14015"
    },
    "zeit": null,
@@ -2431,12 +2551,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نَفِد·َ صَبْر·ِي | ausgehen·3SG Geduld·mein",
    "umschrift": "nafida ṣabrī",
    "wurzel": "ن-ف-د",
+   "ipa": null,
    "satz": {
     "fr": "عِنْدَ التَّحْذِيرِ الثَّالِثِ نَفِدَ صَبْرِي.",
     "de": "Beim dritten Verweis ist mir die Geduld gerissen.",
     "luecke": "نَفِدَ صَبْرِي",
     "gloss": "عِنْدَ ال·تَحْذِير ال·ثَالِث نَفِد·َ صَبْر·ِي. | bei DEF·Warnung DEF·dritte ausgehen·3SG Geduld·mein.",
     "umschrift": "ʿinda t-taḥdhīr ath-thālith nafida ṣabrī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_13.mp3?v=9462c201"
    },
    "zeit": null,
@@ -2458,12 +2580,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِخْتَلَط·َ عَلَيَّ ال·أَمْر | sich.vermischen·3SG auf.mich DEF·Sache",
    "umschrift": "ikhtalaṭa ʿalayya l-amr",
    "wurzel": "خ-ل-ط",
+   "ipa": null,
    "satz": {
     "fr": "قَرَأْتُ جَدْوَلَيْن، فَاخْتَلَطَ عَلَيَّ الأَمْر.",
     "de": "Ich habe zwei Stundenpläne gelesen, da bin ich durcheinander gekommen.",
     "luecke": "عَلَيَّ الأَمْر",
     "gloss": "قَرَأ·ْتُ جَدْوَل·َيْن، فَ·اخْتَلَط·َ عَلَيَّ ال·أَمْر. | lesen·1SG Plan·DUAL, da·sich.vermischen·3SG auf.mich DEF·Sache.",
     "umschrift": "qaraʾtu jadwalayn, fa-khtalaṭa ʿalayya l-amr.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_14.mp3?v=34989fe1"
    },
    "zeit": null,
@@ -2485,12 +2609,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "عَقْل·ِي فِي مَكَان آخَر | Verstand·mein in Ort anderer",
    "umschrift": "ʿaqlī fī makān ākhar",
    "wurzel": "ع-ق-ل",
+   "ipa": null,
    "satz": {
     "fr": "عَقْلِي فِي مَكَانٍ آخَرَ اليَوْم، عُذْرًا.",
     "de": "Ich bin heute mit dem Kopf woanders, Entschuldigung.",
     "luecke": "عَقْلِي فِي مَكَانٍ آخَر",
     "gloss": "عَقْل·ِي فِي مَكَان آخَر ال·يَوْم، عُذْرًا. | Verstand·mein in Ort anderer DEF·Tag, Entschuldigung.",
     "umschrift": "ʿaqlī fī makān ākhar al-yawm, ʿudhran.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_15.mp3?v=5942abc1"
    },
    "zeit": null,
@@ -2512,12 +2638,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "سَئِم·ْتُ مِنَ ال·عُذْر نَفْس·ِه | satthaben·1SG von DEF·Ausrede selbst·sein",
    "umschrift": "saʾimtu min al-ʿudhr nafsih",
    "wurzel": "س-أ-م",
+   "ipa": null,
    "satz": {
     "fr": "سَئِمْتُ مِنَ العُذْرِ نَفْسِه: « نَسِيتُ الدَّفْتَر ».",
     "de": "Ich habe dieselbe Ausrede satt: « Ich habe das Heft vergessen ».",
     "luecke": "سَئِمْتُ مِنَ العُذْرِ نَفْسِه",
     "gloss": "سَئِم·ْتُ مِنَ ال·عُذْر نَفْس·ِه: « نَسِي·تُ ال·دَفْتَر ». | satthaben·1SG von DEF·Ausrede selbst·sein: « vergessen·1SG DEF·Heft ».",
     "umschrift": "saʾimtu min al-ʿudhr nafsih: « nasītu d-daftar ».",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_16.mp3?v=391e850f"
    },
    "zeit": null,
@@ -2539,12 +2667,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·شْتَاق إِلَى ال·عُطْلَة | 1SG·sich.sehnen zu DEF·Ferien",
    "umschrift": "ashtāq ilā l-ʿuṭla",
    "wurzel": "ش-و-ق",
+   "ipa": null,
    "satz": {
     "fr": "أَشْتَاقُ إِلَى العُطْلَةِ مِنَ الآن.",
     "de": "Ich vermisse die Ferien jetzt schon.",
     "luecke": "أَشْتَاقُ إِلَى العُطْلَة",
     "gloss": "أَ·شْتَاق إِلَى ال·عُطْلَة مِنَ ال·آن. | 1SG·sich.sehnen zu DEF·Ferien von DEF·jetzt.",
     "umschrift": "ashtāq ilā l-ʿuṭla min al-ān.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_17.mp3?v=7c1aaf76"
    },
    "zeit": {
@@ -2577,12 +2707,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَا لَ·ال·خَجَل | oh für·DEF·Scham",
    "umschrift": "yā la-l-khajal",
    "wurzel": "خ-ج-ل",
+   "ipa": null,
    "satz": {
     "fr": "نَسِيتُ اسْمَهُ أَمَامَ الصَّفّ، يَا لَلْخَجَل.",
     "de": "Ich habe seinen Namen vor der Klasse vergessen, wie peinlich.",
     "luecke": "يَا لَلْخَجَل",
     "gloss": "نَسِي·تُ اسْم·َهُ أَمَامَ ال·صَفّ، يَا لَ·ال·خَجَل. | vergessen·1SG Name·sein vor DEF·Klasse, oh für·DEF·Scham.",
     "umschrift": "nasītu smahu amāma ṣ-ṣaff, yā la-l-khajal.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_18.mp3?v=67b12878"
    },
    "zeit": null,
@@ -2604,12 +2736,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَفَاجَأ·ْت | überrascht.sein·1SG",
    "umschrift": "tafājaʾt",
    "wurzel": "ف-ج-أ",
+   "ipa": null,
    "satz": {
     "fr": "الكُلُّ عَمِلَ الوَاجِب، تَفَاجَأْت.",
     "de": "Alle haben die Hausaufgabe gemacht, ich war überrascht.",
     "luecke": "تَفَاجَأْت",
     "gloss": "ال·كُلّ عَمِل·َ ال·وَاجِب، تَفَاجَأ·ْت. | DEF·alle machen·3SG DEF·Pflicht, überrascht.sein·1SG.",
     "umschrift": "al-kull ʿamila l-wājib, tafājaʾt.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_19.mp3?v=70f00f83"
    },
    "zeit": null,
@@ -2631,12 +2765,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·فْتَخِر بِ·صَفّ·ِي | 1SG·stolz.sein auf·Klasse·mein",
    "umschrift": "aftakhir bi-ṣaffī",
    "wurzel": "ف-خ-ر",
+   "ipa": null,
    "satz": {
     "fr": "أَفْتَخِرُ بِصَفِّي، تَكَلَّمُوا العَرَبِيَّةَ كُلَّ الحِصَّة.",
     "de": "Ich bin stolz auf meine Klasse, sie haben die ganze Stunde Arabisch gesprochen.",
     "luecke": "أَفْتَخِرُ بِصَفِّي",
     "gloss": "أَ·فْتَخِر بِ·صَفّ·ِي، تَكَلَّم·ُوا ال·عَرَبِيَّة كُلّ ال·حِصَّة. | 1SG·stolz.sein auf·Klasse·mein, sprechen·3PL DEF·Arabisch ganz DEF·Stunde.",
     "umschrift": "aftakhir bi-ṣaffī, takallamū l-ʿarabiyya kull al-ḥiṣṣa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_20.mp3?v=8bf1aa60"
    },
    "zeit": {
@@ -2669,12 +2805,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·حْسُد·ُه | 1SG·beneiden·ihn",
    "umschrift": "aḥsuduh",
    "wurzel": "ح-س-د",
+   "ipa": null,
    "satz": {
     "fr": "خَالِد عِنْدَهُ جُمْعَةٌ فَارِغَة، أَحْسُدُه.",
     "de": "Khalid hat freitags frei, ich beneide ihn.",
     "luecke": "أَحْسُدُه",
     "gloss": "خَالِد عِنْد·َهُ جُمْعَة فَارِغَة، أَ·حْسُد·ُه. | Khalid bei·ihm Freitag leer.F, 1SG·beneiden·ihn.",
     "umschrift": "Khālid ʿindahu jumʿa fārigha, aḥsuduh.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_21.mp3?v=4489659e"
    },
    "zeit": null,
@@ -2696,12 +2834,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·سْتَرِيح فَقَط | 1SG·sich.ausruhen nur",
    "umschrift": "astarīḥ faqaṭ",
    "wurzel": "ر-و-ح",
+   "ipa": null,
    "satz": {
     "fr": "فِي عُطْلَةِ الأُسْبُوعِ أَسْتَرِيحُ فَقَط.",
     "de": "Am Wochenende entspanne ich nur.",
     "luecke": "أَسْتَرِيحُ فَقَط",
     "gloss": "فِي عُطْلَة·ِ ال·أُسْبُوع أَ·سْتَرِيح فَقَط. | in Pause·GEN DEF·Woche 1SG·sich.ausruhen nur.",
     "umschrift": "fī ʿuṭlat al-usbūʿ astarīḥ faqaṭ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_22.mp3?v=def9f1b5"
    },
    "zeit": {
@@ -2734,12 +2874,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لا تَ·هْتَمّ، غَدًا يَوْم جَدِيد | nicht 2SG·sich.kümmern, morgen Tag neu",
    "umschrift": "lā tahtamm, ghadan yawm jadīd",
    "wurzel": "ه-م-م",
+   "ipa": null,
    "satz": {
     "fr": "لا تَهْتَمّ، غَدًا يَوْمٌ جَدِيد.",
     "de": "Mach dir nichts draus, morgen ist ein neuer Tag.",
     "luecke": "لا تَهْتَمّ",
     "gloss": "لا تَ·هْتَمّ، غَدًا يَوْم جَدِيد. | nicht 2SG·sich.kümmern, morgen Tag neu.",
     "umschrift": "lā tahtamm, ghadan yawm jadīd.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_23.mp3?v=e617cf9d"
    },
    "zeit": null,
@@ -2761,12 +2903,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "عَلَى كُلّ حَال | auf jeder Zustand",
    "umschrift": "ʿalā kull ḥāl",
    "wurzel": "ح-و-ل",
+   "ipa": null,
    "satz": {
     "fr": "عَلَى كُلِّ حَال، القَهْوَةُ مَوْجُودَة.",
     "de": "Wie auch immer, es gibt Kaffee.",
     "luecke": "عَلَى كُلِّ حَال",
     "gloss": "عَلَى كُلّ حَال، ال·قَهْوَة مَوْجُودَة. | auf jeder Zustand, DEF·Kaffee vorhanden.F.",
     "umschrift": "ʿalā kull ḥāl, al-qahwa mawjūda.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ms_24.mp3?v=aa96aa1a"
    },
    "zeit": null,
@@ -2788,12 +2932,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نُ·رَبِّي قِطّ·َيْن | 1PL·halten Katze·DUAL",
    "umschrift": "nurabbī qiṭṭayn",
    "wurzel": "ر-ب-و",
+   "ipa": null,
    "satz": {
     "fr": "نُرَبِّي قِطَّيْنِ فِي البَيْت.",
     "de": "Wir halten zwei Katzen zu Hause.",
     "luecke": "نُرَبِّي قِطَّيْن",
     "gloss": "نُ·رَبِّي قِطّ·َيْن فِي ال·بَيْت. | 1PL·halten Katze·DUAL in DEF·Haus.",
     "umschrift": "nurabbī qiṭṭayn fī l-bayt.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_01.mp3?v=636d2d0e"
    },
    "zeit": {
@@ -2826,12 +2972,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يُ·خَرْخِر فِي حِجْر·ِي | 3SG·schnurren in Schoß·mein",
    "umschrift": "yukharkhir fī ḥijrī",
    "wurzel": "خ-ر-خ-ر",
+   "ipa": null,
    "satz": {
     "fr": "يُخَرْخِرُ عِنْدَمَا يَجْلِسُ فِي حِجْرِي.",
     "de": "Er schnurrt, wenn er auf meinem Schoß sitzt.",
     "luecke": "يُخَرْخِرُ",
     "gloss": "يُ·خَرْخِر عِنْدَمَا يَ·جْلِس فِي حِجْر·ِي. | 3SG·schnurren wenn 3SG·sitzen in Schoß·mein.",
     "umschrift": "yukharkhir ʿindamā yajlis fī ḥijrī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_02.mp3?v=a22127e7"
    },
    "zeit": null,
@@ -2853,12 +3001,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·مُوء عِنْدَ ال·بَاب | 3SG·miauen bei DEF·Tür",
    "umschrift": "yamūʾ ʿinda l-bāb",
    "wurzel": "م-و-أ",
+   "ipa": null,
    "satz": {
     "fr": "يَمُوءُ عِنْدَ البَابِ السَّاعَةَ الخَامِسَةَ صَبَاحًا.",
     "de": "Er miaut um fünf Uhr morgens an der Tür.",
     "luecke": "يَمُوءُ عِنْدَ البَاب",
     "gloss": "يَ·مُوء عِنْدَ ال·بَاب ال·سَاعَة ال·خَامِسَة صَبَاحًا. | 3SG·miauen bei DEF·Tür DEF·Stunde DEF·fünfte morgens.",
     "umschrift": "yamūʾ ʿinda l-bāb as-sāʿa l-khāmisa ṣabāḥan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_03.mp3?v=52216838"
    },
    "zeit": {
@@ -2891,12 +3041,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "خَدَش·َ ال·أَرِيكَة | kratzen·3SG DEF·Sofa",
    "umschrift": "khadasha l-arīka",
    "wurzel": "خ-د-ش",
+   "ipa": null,
    "satz": {
     "fr": "خَدَشَ الأَرِيكَةَ مَرَّةً أُخْرَى.",
     "de": "Er hat das Sofa schon wieder zerkratzt.",
     "luecke": "خَدَشَ الأَرِيكَة",
     "gloss": "خَدَش·َ ال·أَرِيكَة مَرَّةً أُخْرَى. | kratzen·3SG DEF·Sofa Mal anderes.",
     "umschrift": "khadasha l-arīka marratan ukhrā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_04.mp3?v=6f05013c"
    },
    "zeit": null,
@@ -2918,12 +3070,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِنْتَهَى رَمْل·ُ ال·قِطّ | endete Sand·GEN DEF·Katze",
    "umschrift": "intahā raml al-qiṭṭ",
    "wurzel": "ر-م-ل",
+   "ipa": null,
    "satz": {
     "fr": "اِنْتَهَى رَمْلُ القِطّ، أَذْهَبُ إِلَى السُّوق.",
     "de": "Der Katzensand ist alle, ich gehe zum Markt.",
     "luecke": "اِنْتَهَى رَمْلُ القِطّ",
     "gloss": "اِنْتَهَى رَمْل·ُ ال·قِطّ، أَ·ذْهَب إِلَى ال·سُوق. | endete Sand·GEN DEF·Katze, 1SG·gehen zu DEF·Markt.",
     "umschrift": "intahā raml al-qiṭṭ, adhhab ilā s-sūq.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_05.mp3?v=91953bf5"
    },
    "zeit": null,
@@ -2945,12 +3099,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·رْكُض عِنْدَمَا يَ·رَى ال·طَعَام | 3SG·rennen wenn 3SG·sehen DEF·Essen",
    "umschrift": "yarkuḍ ʿindamā yarā ṭ-ṭaʿām",
    "wurzel": "ر-ك-ض",
+   "ipa": null,
    "satz": {
     "fr": "يَرْكُضُ عِنْدَمَا يَرَى الطَّعَام.",
     "de": "Er rennt, wenn er das Futter sieht.",
     "luecke": "يَرْكُضُ",
     "gloss": "يَ·رْكُض عِنْدَمَا يَ·رَى ال·طَعَام. | 3SG·rennen wenn 3SG·sehen DEF·Essen.",
     "umschrift": "yarkuḍ ʿindamā yarā ṭ-ṭaʿām.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_06.mp3?v=b1f5e8f9"
    },
    "zeit": {
@@ -2983,12 +3139,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يُ·سْقِط قَلَم·ِي بِ·كَفّ·ِه | 3SG·fallen.lassen Stift·mein mit·Pfote·sein",
    "umschrift": "yusqiṭ qalamī bi-kaffih",
    "wurzel": "س-ق-ط",
+   "ipa": null,
    "satz": {
     "fr": "يُسْقِطُ قَلَمِي عَنِ الطَّاوِلَةِ بِكَفِّه.",
     "de": "Er wirft meinen Stift mit der Pfote vom Tisch.",
     "luecke": "يُسْقِطُ قَلَمِي",
     "gloss": "يُ·سْقِط قَلَم·ِي عَنِ ال·طَاوِلَة بِ·كَفّ·ِه. | 3SG·fallen.lassen Stift·mein von DEF·Tisch mit·Pfote·sein.",
     "umschrift": "yusqiṭ qalamī ʿan iṭ-ṭāwila bi-kaffih.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_07.mp3?v=fe403cd4"
    },
    "zeit": null,
@@ -3010,12 +3168,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·جْلِس عَلَى ال·أَوْرَاق | 3SG·sitzen auf DEF·Blätter",
    "umschrift": "yajlis ʿalā l-awrāq",
    "wurzel": "ج-ل-س",
+   "ipa": null,
    "satz": {
     "fr": "يَجْلِسُ عَلَى الأَوْرَاقِ وَأَنَا أُصَحِّح.",
     "de": "Er sitzt auf den Arbeiten, während ich korrigiere.",
     "luecke": "يَجْلِسُ عَلَى الأَوْرَاق",
     "gloss": "يَ·جْلِس عَلَى ال·أَوْرَاق وَ·أَنَا أُ·صَحِّح. | 3SG·sitzen auf DEF·Blätter und·ich 1SG·korrigieren.",
     "umschrift": "yajlis ʿalā l-awrāq wa-anā uṣaḥḥiḥ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_08.mp3?v=e78cae6e"
    },
    "zeit": null,
@@ -3037,12 +3197,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·نَام فِي ال·شَمْس طُولَ ال·نَهَار | 3SG·schlafen in DEF·Sonne Länge DEF·Tag",
    "umschrift": "yanām fī sh-shams ṭūl an-nahār",
    "wurzel": "ن-و-م",
+   "ipa": null,
    "satz": {
     "fr": "يَنَامُ فِي الشَّمْسِ طُولَ النَّهَار.",
     "de": "Er schläft den ganzen Tag in der Sonne.",
     "luecke": "يَنَامُ فِي الشَّمْس",
     "gloss": "يَ·نَام فِي ال·شَمْس طُولَ ال·نَهَار. | 3SG·schlafen in DEF·Sonne Länge DEF·Tag.",
     "umschrift": "yanām fī sh-shams ṭūl an-nahār.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_09.mp3?v=a435b9b1"
    },
    "zeit": {
@@ -3075,12 +3237,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مِثْل·ُ ال·قِطَط، لا يَ·سْمَع أَبَدًا | wie·GEN DEF·Katzen, nicht 3SG·hören jemals",
    "umschrift": "mithl al-qiṭaṭ, lā yasmaʿ abadan",
    "wurzel": "م-ث-ل",
+   "ipa": null,
    "satz": {
     "fr": "الصَّفُّ التَّاسِعُ مِثْلُ القِطَط، لا يَسْمَعُ أَبَدًا.",
     "de": "Die Neunte ist wie Katzen, sie hört nie zu.",
     "luecke": "مِثْلُ القِطَط",
     "gloss": "ال·صَفّ ال·تَاسِع مِثْل·ُ ال·قِطَط، لا يَ·سْمَع أَبَدًا. | DEF·Klasse DEF·neunte wie·GEN DEF·Katzen, nicht 3SG·hören jemals.",
     "umschrift": "aṣ-ṣaff at-tāsiʿ mithl al-qiṭaṭ, lā yasmaʿ abadan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_10.mp3?v=6c2a244b"
    },
    "zeit": null,
@@ -3102,12 +3266,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لَكِنّ·َهُ اخْتَار·َنَا | aber·er wählen·uns",
    "umschrift": "lākinnahu khtāranā",
    "wurzel": "خ-ي-ر",
+   "ipa": null,
    "satz": {
     "fr": "قِطُّ شَارِع، لَكِنَّهُ اخْتَارَنَا.",
     "de": "Eine Straßenkatze, aber sie hat uns ausgesucht.",
     "luecke": "اخْتَارَنَا",
     "gloss": "قِطّ·ُ شَارِع، لَكِنّ·َهُ اخْتَار·َنَا. | Katze·GEN Straße, aber·er wählen·uns.",
     "umschrift": "qiṭṭ shāriʿ, lākinnahu khtāranā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_11.mp3?v=cbead59f"
    },
    "zeit": null,
@@ -3129,12 +3295,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لِ·كُلّ حَارَة قِطّ·ُهَا | für·jede Gasse Katze·ihr",
    "umschrift": "li-kull ḥāra qiṭṭuhā",
    "wurzel": "ح-و-ر",
+   "ipa": null,
    "satz": {
     "fr": "فِي دِمَشْقَ لِكُلِّ حَارَةٍ قِطُّهَا.",
     "de": "In Damaskus hat jede Gasse ihre Katze.",
     "luecke": "لِكُلِّ حَارَةٍ قِطُّهَا",
     "gloss": "فِي دِمَشْق لِ·كُلّ حَارَة قِطّ·ُهَا. | in Damaskus für·jede Gasse Katze·ihr.",
     "umschrift": "fī Dimashq li-kull ḥāra qiṭṭuhā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_12.mp3?v=a3642473"
    },
    "zeit": null,
@@ -3156,12 +3324,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "شَعْر·ُهُ فِي كُلّ مَكَان | Haar·sein in jeder Ort",
    "umschrift": "shaʿruhu fī kull makān",
    "wurzel": "ش-ع-ر",
+   "ipa": null,
    "satz": {
     "fr": "فِي الرَّبِيعِ شَعْرُهُ فِي كُلِّ مَكَان.",
     "de": "Im Frühling sind seine Haare überall.",
     "luecke": "شَعْرُهُ فِي كُلِّ مَكَان",
     "gloss": "فِي ال·رَبِيع شَعْر·ُهُ فِي كُلّ مَكَان. | in DEF·Frühling Haar·sein in jeder Ort.",
     "umschrift": "fī r-rabīʿ shaʿruhu fī kull makān.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_13.mp3?v=f559ffd4"
    },
    "zeit": null,
@@ -3183,12 +3353,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَقَيَّأ·َ عَلَى ال·سَجَّادَة | sich.übergeben·3SG auf DEF·Teppich",
    "umschrift": "taqayyaʾa ʿalā s-sajjāda",
    "wurzel": "ق-ي-أ",
+   "ipa": null,
    "satz": {
     "fr": "تَقَيَّأَ عَلَى السَّجَّادَة، طَبْعًا عَلَى السَّجَّادَة.",
     "de": "Er hat auf den Teppich gespuckt, natürlich auf den Teppich.",
     "luecke": "تَقَيَّأَ عَلَى السَّجَّادَة",
     "gloss": "تَقَيَّأ·َ عَلَى ال·سَجَّادَة، طَبْعًا عَلَى ال·سَجَّادَة. | sich.übergeben·3SG auf DEF·Teppich, natürlich auf DEF·Teppich.",
     "umschrift": "taqayyaʾa ʿalā s-sajjāda, ṭabʿan ʿalā s-sajjāda.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_14.mp3?v=fc07ab6c"
    },
    "zeit": null,
@@ -3210,12 +3382,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "آ·خُذ·ُهُ إِلَى ال·طَبِيب ال·بَيْطَرِيّ | 1SG·nehmen·ihn zu DEF·Arzt DEF·Tier-",
    "umschrift": "ākhudhuhu ilā ṭ-ṭabīb al-bayṭarī",
    "wurzel": "ب-ي-ط-ر",
+   "ipa": null,
    "satz": {
     "fr": "غَدًا آخُذُهُ إِلَى الطَّبِيبِ البَيْطَرِيِّ لِلتَّطْعِيم.",
     "de": "Morgen bringe ich ihn zur Impfung zum Tierarzt.",
     "luecke": "آخُذُهُ",
     "gloss": "غَدًا آ·خُذ·ُهُ إِلَى ال·طَبِيب ال·بَيْطَرِيّ لِ·ال·تَطْعِيم. | morgen 1SG·nehmen·ihn zu DEF·Arzt DEF·Tier- für·DEF·Impfung.",
     "umschrift": "ghadan ākhudhuhu ilā ṭ-ṭabīb al-bayṭarī lit-taṭʿīm.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_15.mp3?v=9d560177"
    },
    "zeit": null,
@@ -3237,12 +3411,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·بَلَدِيَّة تُ·عَقِّم قِطَط·َ ال·شَوَارِع | DEF·Stadtverwaltung 3SG.F·sterilisieren Katzen·AKK DEF·Straßen",
    "umschrift": "al-baladiyya tuʿaqqim qiṭaṭ ash-shawāriʿ",
    "wurzel": "ع-ق-م",
+   "ipa": null,
    "satz": {
     "fr": "البَلَدِيَّةُ تُعَقِّمُ قِطَطَ الشَّوَارِع.",
     "de": "Die Stadtverwaltung kastriert die Straßenkatzen.",
     "luecke": "البَلَدِيَّةُ تُعَقِّمُ",
     "gloss": "ال·بَلَدِيَّة تُ·عَقِّم قِطَط·َ ال·شَوَارِع. | DEF·Stadtverwaltung 3SG.F·sterilisieren Katzen·AKK DEF·Straßen.",
     "umschrift": "al-baladiyya tuʿaqqim qiṭaṭ ash-shawāriʿ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_16.mp3?v=a6cfe9f7"
    },
    "zeit": null,
@@ -3264,12 +3440,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "كُفُوف·ُهُ بَيْضَاء كَ·ال·ثَلْج | Pfoten·sein weiß.F wie·DEF·Schnee",
    "umschrift": "kufūfuhu bayḍāʾ ka-th-thalj",
    "wurzel": "ب-ي-ض",
+   "ipa": null,
    "satz": {
     "fr": "كُفُوفُهُ بَيْضَاءُ كَالثَّلْج.",
     "de": "Seine Pfoten sind weiß wie Schnee.",
     "luecke": "كُفُوفُهُ بَيْضَاءُ كَالثَّلْج",
     "gloss": "كُفُوف·ُهُ بَيْضَاء كَ·ال·ثَلْج. | Pfoten·sein weiß.F wie·DEF·Schnee.",
     "umschrift": "kufūfuhu bayḍāʾ ka-th-thalj.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_17.mp3?v=9a16acfb"
    },
    "zeit": null,
@@ -3291,12 +3469,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "شَوَارِب·ُهُ تَ·قِيس عَرْض·َ ال·بَاب | Schnurrhaare·sein 3SG.F·messen Breite·AKK DEF·Tür",
    "umschrift": "shawāribuhu taqīs ʿarḍ al-bāb",
    "wurzel": "ق-ي-س",
+   "ipa": null,
    "satz": {
     "fr": "شَوَارِبُهُ تَقِيسُ عَرْضَ البَاب.",
     "de": "Seine Schnurrhaare messen die Breite der Tür.",
     "luecke": "شَوَارِبُهُ تَقِيسُ",
     "gloss": "شَوَارِب·ُهُ تَ·قِيس عَرْض·َ ال·بَاب. | Schnurrhaare·sein 3SG.F·messen Breite·AKK DEF·Tür.",
     "umschrift": "shawāribuhu taqīs ʿarḍ al-bāb.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_18.mp3?v=59b6538d"
    },
    "zeit": null,
@@ -3318,12 +3498,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·تَدَلَّل أَوَّلاً، ثُمَّ يَ·أْكُل | 3SG·sich.zieren zuerst, dann 3SG·essen",
    "umschrift": "yatadallal awwalan, thumma yaʾkul",
    "wurzel": "د-ل-ل",
+   "ipa": null,
    "satz": {
     "fr": "يَتَدَلَّلُ أَوَّلاً، ثُمَّ يَأْكُل.",
     "de": "Erst ziert er sich, dann frisst er.",
     "luecke": "يَتَدَلَّلُ أَوَّلاً",
     "gloss": "يَ·تَدَلَّل أَوَّلاً، ثُمَّ يَ·أْكُل. | 3SG·sich.zieren zuerst, dann 3SG·essen.",
     "umschrift": "yatadallal awwalan, thumma yaʾkul.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_19.mp3?v=b5a4db0a"
    },
    "zeit": null,
@@ -3345,12 +3527,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَبَنَّ·وْا قِطّ·َ ال·مَدْرَسَة | adoptieren·3PL Katze·AKK DEF·Schule",
    "umschrift": "tabannaw qiṭṭ al-madrasa",
    "wurzel": "ب-ن-ي",
+   "ipa": null,
    "satz": {
     "fr": "التَّلامِيذُ تَبَنَّوْا قِطَّ المَدْرَسَة.",
     "de": "Die Schüler haben die Schulkatze adoptiert.",
     "luecke": "تَبَنَّوْا قِطَّ المَدْرَسَة",
     "gloss": "ال·تَلامِيذ تَبَنَّ·وْا قِطّ·َ ال·مَدْرَسَة. | DEF·Schüler.PL adoptieren·3PL Katze·AKK DEF·Schule.",
     "umschrift": "at-talāmīdh tabannaw qiṭṭ al-madrasa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_20.mp3?v=30293d23"
    },
    "zeit": null,
@@ -3372,12 +3556,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لَيْسَ لِ·ال·قِطَط | ist.nicht für·DEF·Katzen",
    "umschrift": "laysa lil-qiṭaṭ",
    "wurzel": "ل-ي-س",
+   "ipa": null,
    "satz": {
     "fr": "بِسْكُوِيتُ لِسَانِ القِطِّ لَيْسَ لِلْقِطَط.",
     "de": "Katzenzungen-Kekse sind nicht für Katzen.",
     "luecke": "لَيْسَ لِلْقِطَط",
     "gloss": "بِسْكُوِيت·ُ لِسَان·ِ ال·قِطّ لَيْسَ لِ·ال·قِطَط. | Keks·GEN Zunge·GEN DEF·Katze ist.nicht für·DEF·Katzen.",
     "umschrift": "biskuwīt lisān al-qiṭṭ laysa lil-qiṭaṭ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_21.mp3?v=d92fdbbd"
    },
    "zeit": null,
@@ -3399,12 +3585,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لِ·ال·قِطَط سَبْعَة أَرْوَاح | für·DEF·Katzen sieben Seelen",
    "umschrift": "lil-qiṭaṭ sabʿat arwāḥ",
    "wurzel": "ر-و-ح",
+   "ipa": null,
    "satz": {
     "fr": "لِلْقِطَطِ سَبْعَةُ أَرْوَاح، كَمَا يُقَال.",
     "de": "Katzen haben sieben Leben, wie man sagt.",
     "luecke": "لِلْقِطَطِ سَبْعَةُ أَرْوَاح",
     "gloss": "لِ·ال·قِطَط سَبْعَة أَرْوَاح، كَمَا يُ·قَال. | für·DEF·Katzen sieben Seelen, wie PASS·sagen.",
     "umschrift": "lil-qiṭaṭ sabʿat arwāḥ, kamā yuqāl.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_22.mp3?v=886c73a3"
    },
    "zeit": null,
@@ -3426,12 +3614,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·سْتَيْقِظ وَ·رَأْس·ِي رَأْس·ُ قِطّ | 1SG·aufwachen und·Kopf·mein Kopf·GEN Katze",
    "umschrift": "astayqiẓ wa-raʾsī raʾs qiṭṭ",
    "wurzel": "ي-ق-ظ",
+   "ipa": null,
    "satz": {
     "fr": "أَسْتَيْقِظُ صَبَاحًا وَرَأْسِي رَأْسُ قِطّ.",
     "de": "Ich wache morgens mit einem Katzenkopf auf.",
     "luecke": "أَسْتَيْقِظُ",
     "gloss": "أَ·سْتَيْقِظ صَبَاحًا وَ·رَأْس·ِي رَأْس·ُ قِطّ. | 1SG·aufwachen morgens und·Kopf·mein Kopf·GEN Katze.",
     "umschrift": "astayqiẓ ṣabāḥan wa-raʾsī raʾs qiṭṭ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_23.mp3?v=7af60f79"
    },
    "zeit": {
@@ -3464,12 +3654,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "قِطّ·ِي لا يُ·حِبّ·ُنِي | Katze·mein nicht 3SG·lieben·mich",
    "umschrift": "qiṭṭī lā yuḥibbunī",
    "wurzel": "ح-ب-ب",
+   "ipa": null,
    "satz": {
     "fr": "قِطِّي لا يُحِبُّنِي، يُحِبُّ البَيْت.",
     "de": "Meine Katze liebt nicht mich, sie liebt das Haus.",
     "luecke": "قِطِّي لا يُحِبُّنِي",
     "gloss": "قِطّ·ِي لا يُ·حِبّ·ُنِي، يُ·حِبّ ال·بَيْت. | Katze·mein nicht 3SG·lieben·mich, 3SG·lieben DEF·Haus.",
     "umschrift": "qiṭṭī lā yuḥibbunī, yuḥibb al-bayt.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/qi_24.mp3?v=5c634e2d"
    },
    "zeit": null,
@@ -3491,12 +3683,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أُ·غَنِّي فِي ال·حَمَّام | 1SG·singen in DEF·Bad",
    "umschrift": "ughannī fī l-ḥammām",
    "wurzel": "غ-ن-ي",
+   "ipa": null,
    "satz": {
     "fr": "أُغَنِّي فِي الحَمَّام، وَالجَارُ يَسْمَع.",
     "de": "Ich singe unter der Dusche, und der Nachbar hört mit.",
     "luecke": "أُغَنِّي",
     "gloss": "أُ·غَنِّي فِي ال·حَمَّام، وَ·ال·جَار يَ·سْمَع. | 1SG·singen in DEF·Bad, und·DEF·Nachbar 3SG·hören.",
     "umschrift": "ughannī fī l-ḥammām, wal-jār yasmaʿ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_01.mp3?v=3432bc37"
    },
    "zeit": {
@@ -3529,12 +3723,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·عْزِف ال·عُود | 1SG·spielen DEF·Oud",
    "umschrift": "aʿzif al-ʿūd",
    "wurzel": "ع-ز-ف",
+   "ipa": null,
    "satz": {
     "fr": "أَعْزِفُ العُود، بِبُطْءٍ شَدِيد.",
     "de": "Ich spiele Oud, ganz langsam.",
     "luecke": "أَعْزِفُ العُود",
     "gloss": "أَ·عْزِف ال·عُود، بِ·بُطْء شَدِيد. | 1SG·spielen DEF·Oud, mit·Langsamkeit stark.",
     "umschrift": "aʿzif al-ʿūd, bi-buṭʾ shadīd.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_02.mp3?v=8a433340"
    },
    "zeit": {
@@ -3567,12 +3763,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·عْزِف بِ·ال·أُذُن | 1SG·spielen mit·DEF·Ohr",
    "umschrift": "aʿzif bil-udhun",
    "wurzel": "أ-ذ-ن",
+   "ipa": null,
    "satz": {
     "fr": "أَعْزِفُ بِالأُذُن، لا أَعْرِفُ النُّوتَة.",
     "de": "Ich spiele nach Gehör, die Noten kenne ich nicht.",
     "luecke": "أَعْزِفُ بِالأُذُن",
     "gloss": "أَ·عْزِف بِ·ال·أُذُن، لا أَ·عْرِف ال·نُوتَة. | 1SG·spielen mit·DEF·Ohr, nicht 1SG·kennen DEF·Note.",
     "umschrift": "aʿzif bil-udhun, lā aʿrif an-nūta.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_03.mp3?v=e6bda67f"
    },
    "zeit": null,
@@ -3594,12 +3792,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "حَفِظ·ْتُ ال·كَلِمَات | auswendig.lernen·1SG DEF·Wörter",
    "umschrift": "ḥafiẓtu l-kalimāt",
    "wurzel": "ح-ف-ظ",
+   "ipa": null,
    "satz": {
     "fr": "حَفِظْتُ الكَلِمَات، اللَّحْنُ لَيْسَ بَعْد.",
     "de": "Den Text kann ich auswendig, die Melodie noch nicht.",
     "luecke": "حَفِظْتُ الكَلِمَات",
     "gloss": "حَفِظ·ْتُ ال·كَلِمَات، ال·لَحْن لَيْسَ بَعْد. | auswendig.lernen·1SG DEF·Wörter, DEF·Melodie ist.nicht noch.",
     "umschrift": "ḥafiẓtu l-kalimāt, al-laḥn laysa baʿd.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_04.mp3?v=32502b72"
    },
    "zeit": null,
@@ -3621,12 +3821,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "جَمِيلَة فِي ال·أُذُن | schön.F in DEF·Ohr",
    "umschrift": "jamīla fī l-udhun",
    "wurzel": "ج-م-ل",
+   "ipa": null,
    "satz": {
     "fr": "العَرَبِيَّةُ جَمِيلَةٌ فِي الأُذُنِ بِفَضْلِ الجَذْر.",
     "de": "Arabisch klingt gut im Ohr, dank der Wurzel.",
     "luecke": "جَمِيلَةٌ فِي الأُذُن",
     "gloss": "ال·عَرَبِيَّة جَمِيلَة فِي ال·أُذُن بِ·فَضْل·ِ ال·جَذْر. | DEF·Arabisch schön.F in DEF·Ohr mit·Verdienst·GEN DEF·Wurzel.",
     "umschrift": "al-ʿarabiyya jamīla fī l-udhun bi-faḍl al-jadhr.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_05.mp3?v=fcab2e86"
    },
    "zeit": null,
@@ -3648,12 +3850,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "بِ·دُونِ ال·حُرُوف ال·حَلْقِيَّة | mit·ohne DEF·Buchstaben DEF·Kehl-",
    "umschrift": "bidūn al-ḥurūf al-ḥalqiyya",
    "wurzel": "ح-ل-ق",
+   "ipa": null,
    "satz": {
     "fr": "بِدُونِ الحُرُوفِ الحَلْقِيَّةِ لا غِنَاءَ عَرَبِيّ.",
     "de": "Ohne die Kehllaute gibt es keinen arabischen Gesang.",
     "luecke": "بِدُونِ الحُرُوفِ الحَلْقِيَّة",
     "gloss": "بِ·دُونِ ال·حُرُوف ال·حَلْقِيَّة لا غِنَاء عَرَبِيّ. | mit·ohne DEF·Buchstaben DEF·Kehl- kein Gesang arabisch.",
     "umschrift": "bidūn al-ḥurūf al-ḥalqiyya lā ghināʾ ʿarabī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_06.mp3?v=01018615"
    },
    "zeit": null,
@@ -3675,12 +3879,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نُطْق·ِي جَيِّد، يَ·قُول·ُون | Aussprache·mein gut, 3·sagen·PL",
    "umschrift": "nuṭqī jayyid, yaqūlūn",
    "wurzel": "ن-ط-ق",
+   "ipa": null,
    "satz": {
     "fr": "نُطْقِي جَيِّد، يَقُولُون؛ أَنَا لا أُصَدِّق.",
     "de": "Meine Aussprache sei gut, sagen sie; ich glaube es nicht.",
     "luecke": "نُطْقِي جَيِّد، يَقُولُون",
     "gloss": "نُطْق·ِي جَيِّد، يَ·قُول·ُون؛ أَنَا لا أُ·صَدِّق. | Aussprache·mein gut, 3·sagen·PL; ich nicht 1SG·glauben.",
     "umschrift": "nuṭqī jayyid, yaqūlūn; anā lā uṣaddiq.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_07.mp3?v=0066d888"
    },
    "zeit": null,
@@ -3702,12 +3908,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·نَبْرَة تَ·تَغَيَّر مَعَ ال·مَقْطَع | DEF·Betonung 3SG.F·sich.ändern mit DEF·Silbe",
    "umschrift": "an-nabra tataghayyar maʿa l-maqṭaʿ",
    "wurzel": "غ-ي-ر",
+   "ipa": null,
    "satz": {
     "fr": "النَّبْرَةُ تَتَغَيَّرُ مَعَ المَقْطَع، لَيْسَ دَائِمًا فِي الآخِر.",
     "de": "Die Betonung wechselt mit der Silbe, nicht immer am Ende.",
     "luecke": "النَّبْرَةُ تَتَغَيَّرُ",
     "gloss": "ال·نَبْرَة تَ·تَغَيَّر مَعَ ال·مَقْطَع، لَيْسَ دَائِمًا فِي ال·آخِر. | DEF·Betonung 3SG.F·sich.ändern mit DEF·Silbe, ist.nicht immer in DEF·Ende.",
     "umschrift": "an-nabra tataghayyar maʿa l-maqṭaʿ, laysa dāʾiman fī l-ākhir.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_08.mp3?v=20d23dbb"
    },
    "zeit": null,
@@ -3729,12 +3937,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "زَلّ·َ لِسَان·ِي | ausrutschen·3SG Zunge·mein",
    "umschrift": "zalla lisānī",
    "wurzel": "ز-ل-ل",
+   "ipa": null,
    "satz": {
     "fr": "زَلَّ لِسَانِي، ضَحِكَ الصَّفّ.",
     "de": "Mir ist die Zunge ausgerutscht, die Klasse lachte.",
     "luecke": "زَلَّ لِسَانِي",
     "gloss": "زَلّ·َ لِسَان·ِي، ضَحِك·َ ال·صَفّ. | ausrutschen·3SG Zunge·mein, lachen·3SG DEF·Klasse.",
     "umschrift": "zalla lisānī, ḍaḥika ṣ-ṣaff.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_09.mp3?v=8d8c17d1"
    },
    "zeit": null,
@@ -3756,12 +3966,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لَهْجَت·ِي أَلْمَانِيَّة | Akzent·mein deutsch.F",
    "umschrift": "lahjatī almāniyya",
    "wurzel": "ل-ه-ج",
+   "ipa": null,
    "satz": {
     "fr": "لَهْجَتِي أَلْمَانِيَّة، لا أَحَدَ يُخْفِيهَا.",
     "de": "Mein Akzent ist deutsch, den versteckt keiner.",
     "luecke": "لَهْجَتِي أَلْمَانِيَّة",
     "gloss": "لَهْجَت·ِي أَلْمَانِيَّة، لا أَحَد يُ·خْفِي·هَا. | Akzent·mein deutsch.F, kein jemand 3SG·verstecken·ihn.",
     "umschrift": "lahjatī almāniyya, lā aḥad yukhfīhā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_10.mp3?v=45663814"
    },
    "zeit": null,
@@ -3783,12 +3995,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لا أُ·مْسِك ال·إِيقَاع | nicht 1SG·festhalten DEF·Rhythmus",
    "umschrift": "lā umsik al-īqāʿ",
    "wurzel": "م-س-ك",
+   "ipa": null,
    "satz": {
     "fr": "لا أُمْسِكُ الإِيقَاع، يَدَايَ فِي عَالَمٍ آخَر.",
     "de": "Ich halte den Takt nicht, meine Hände sind in einer anderen Welt.",
     "luecke": "لا أُمْسِكُ الإِيقَاع",
     "gloss": "لا أُ·مْسِك ال·إِيقَاع، يَد·َايَ فِي عَالَم آخَر. | nicht 1SG·festhalten DEF·Rhythmus, Hand·DUAL.mein in Welt anderer.",
     "umschrift": "lā umsik al-īqāʿ, yadāya fī ʿālam ākhar.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_11.mp3?v=13251461"
    },
    "zeit": null,
@@ -3810,12 +4024,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نَشَز·ْتُ فِي ال·لَازِمَة | falsch.singen·1SG in DEF·Refrain",
    "umschrift": "nashaztu fī l-lāzima",
    "wurzel": "ن-ش-ز",
+   "ipa": null,
    "satz": {
     "fr": "نَشَزْتُ فِي اللَّازِمَة، لَمْ يَنْتَبِهْ أَحَد.",
     "de": "Ich habe im Refrain schief gesungen, keiner hat es gemerkt.",
     "luecke": "نَشَزْتُ فِي اللَّازِمَة",
     "gloss": "نَشَز·ْتُ فِي ال·لَازِمَة، لَمْ يَ·نْتَبِه·ْ أَحَد. | falsch.singen·1SG in DEF·Refrain, nicht.VERG 3SG·merken·JUSS jemand.",
     "umschrift": "nashaztu fī l-lāzima, lam yantabih aḥad.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_12.mp3?v=9e53783d"
    },
    "zeit": null,
@@ -3837,12 +4053,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·كُلّ يَ·عْرِف ال·لَازِمَة | DEF·alle 3SG·kennen DEF·Refrain",
    "umschrift": "al-kull yaʿrif al-lāzima",
    "wurzel": "ع-ر-ف",
+   "ipa": null,
    "satz": {
     "fr": "الكُلُّ يَعْرِفُ اللَّازِمَة، لا أَحَدَ يَعْرِفُ الأَبْيَات.",
     "de": "Den Refrain kennen alle, die Strophen kennt keiner.",
     "luecke": "الكُلُّ يَعْرِفُ اللَّازِمَة",
     "gloss": "ال·كُلّ يَ·عْرِف ال·لَازِمَة، لا أَحَد يَ·عْرِف ال·أَبْيَات. | DEF·alle 3SG·kennen DEF·Refrain, kein jemand 3SG·kennen DEF·Verse.",
     "umschrift": "al-kull yaʿrif al-lāzima, lā aḥad yaʿrif al-abyāt.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_13.mp3?v=490bd424"
    },
    "zeit": null,
@@ -3864,12 +4082,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·مَوَاوِيل فِي ال·مَسَاء | DEF·Mawwals in DEF·Abend",
    "umschrift": "al-mawāwīl fī l-masāʾ",
    "wurzel": "م-و-ل",
+   "ipa": null,
    "satz": {
     "fr": "أَجْمَلُ مَا تُغَنَّى المَوَاوِيلُ فِي المَسَاء.",
     "de": "Am schönsten klingen die Mawwals am Abend.",
     "luecke": "المَوَاوِيلُ فِي المَسَاء",
     "gloss": "أَجْمَل مَا تُ·غَنَّى ال·مَوَاوِيل فِي ال·مَسَاء. | schönster was PASS·singen.F DEF·Mawwals in DEF·Abend.",
     "umschrift": "ajmal mā tughannā l-mawāwīl fī l-masāʾ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_14.mp3?v=bed91e47"
    },
    "zeit": null,
@@ -3891,12 +4111,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أُذُن·ِي مُمْتَلِئَة | Ohr·mein voll.F",
    "umschrift": "udhunī mumtaliʾa",
    "wurzel": "م-ل-أ",
+   "ipa": null,
    "satz": {
     "fr": "أُذُنِي مُمْتَلِئَة، الكَلِمَاتُ تَأْتِي بِبُطْء.",
     "de": "Mein Ohr ist voll, die Wörter kommen langsam.",
     "luecke": "أُذُنِي مُمْتَلِئَة",
     "gloss": "أُذُن·ِي مُمْتَلِئَة، ال·كَلِمَات تَ·أْتِي بِ·بُطْء. | Ohr·mein voll.F, DEF·Wörter 3SG.F·kommen mit·Langsamkeit.",
     "umschrift": "udhunī mumtaliʾa, al-kalimāt taʾtī bi-buṭʾ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_15.mp3?v=ea2c0183"
    },
    "zeit": null,
@@ -3918,12 +4140,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَعَلُّم·ُ ال·لُغَة كَ·ال·مُوسِيقَى | Lernen·GEN DEF·Sprache wie·DEF·Musik",
    "umschrift": "taʿallum al-lugha kal-mūsīqā",
    "wurzel": "ع-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "تَعَلُّمُ اللُّغَةِ كَالمُوسِيقَى: كُلَّ يَوْمٍ قَلِيلاً.",
     "de": "Sprache lernen ist wie Musik: jeden Tag ein bisschen.",
     "luecke": "تَعَلُّمُ اللُّغَةِ كَالمُوسِيقَى",
     "gloss": "تَعَلُّم·ُ ال·لُغَة كَ·ال·مُوسِيقَى: كُلّ يَوْم قَلِيلاً. | Lernen·GEN DEF·Sprache wie·DEF·Musik: jeder Tag wenig.",
     "umschrift": "taʿallum al-lugha kal-mūsīqā: kull yawm qalīlan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_16.mp3?v=8694b983"
    },
    "zeit": null,
@@ -3945,12 +4169,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لُغَت·ِي ال·أُمّ ال·أَلْمَانِيَّة | Sprache·mein DEF·Mutter DEF·Deutsch",
    "umschrift": "lughatī l-umm al-almāniyya",
    "wurzel": "ل-غ-و",
+   "ipa": null,
    "satz": {
     "fr": "لُغَتِي الأُمُّ الأَلْمَانِيَّة، وَأَحْلامِي أَلْمَانِيَّةٌ أَيْضًا.",
     "de": "Meine Muttersprache ist Deutsch, und meine Träume sind auch deutsch.",
     "luecke": "لُغَتِي الأُمُّ الأَلْمَانِيَّة",
     "gloss": "لُغَت·ِي ال·أُمّ ال·أَلْمَانِيَّة، وَ·أَحْلام·ِي أَلْمَانِيَّة أَيْضًا. | Sprache·mein DEF·Mutter DEF·Deutsch, und·Träume·mein deutsch.F auch.",
     "umschrift": "lughatī l-umm al-almāniyya, wa-aḥlāmī almāniyya ayḍan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_17.mp3?v=565ed7ed"
    },
    "zeit": null,
@@ -3972,12 +4198,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "مُفْرَدَات·ِي تَ·كْبُر | Wortschatz·mein 3SG.F·wachsen",
    "umschrift": "mufradātī takbur",
    "wurzel": "ك-ب-ر",
+   "ipa": null,
    "satz": {
     "fr": "مُفْرَدَاتِي تَكْبُر، ثَلاثُ كَلِمَاتٍ فِي اليَوْم.",
     "de": "Mein Wortschatz wächst, drei Wörter am Tag.",
     "luecke": "مُفْرَدَاتِي تَكْبُر",
     "gloss": "مُفْرَدَات·ِي تَ·كْبُر، ثَلاث كَلِمَات فِي ال·يَوْم. | Wortschatz·mein 3SG.F·wachsen, drei Wörter in DEF·Tag.",
     "umschrift": "mufradātī takbur, thalāth kalimāt fī l-yawm.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_18.mp3?v=741acd42"
    },
    "zeit": {
@@ -4010,12 +4238,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "سَ·أَ·تَكَلَّم بِ·طَلاقَة | FUT·1SG·sprechen mit·Flüssigkeit",
    "umschrift": "sa-atakallam bi-ṭalāqa",
    "wurzel": "ط-ل-ق",
+   "ipa": null,
    "satz": {
     "fr": "يَوْمًا مَا سَأَتَكَلَّمُ بِطَلاقَة، خَالِد وَعَدَنِي.",
     "de": "Eines Tages werde ich fließend sprechen, Khalid hat es mir versprochen.",
     "luecke": "سَأَتَكَلَّمُ بِطَلاقَة",
     "gloss": "يَوْمًا مَا سَ·أَ·تَكَلَّم بِ·طَلاقَة، خَالِد وَعَد·َنِي. | Tag irgendein FUT·1SG·sprechen mit·Flüssigkeit, Khalid versprechen·mir.",
     "umschrift": "yawman mā sa-atakallam bi-ṭalāqa, Khālid waʿadanī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_19.mp3?v=393463cf"
    },
    "zeit": null,
@@ -4037,12 +4267,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "عَرَبِيَّت·ِي مُكَسَّرَة، لَكِنّ·ِي أَ·بْتَسِم | Arabisch·mein zerbrochen.F, aber·ich 1SG·lächeln",
    "umschrift": "ʿarabiyyatī mukassara, lākinnī abtasim",
    "wurzel": "ب-س-م",
+   "ipa": null,
    "satz": {
     "fr": "عَرَبِيَّتِي مُكَسَّرَة، لَكِنِّي أَبْتَسِم.",
     "de": "Mein Arabisch ist gebrochen, aber ich lächle.",
     "luecke": "عَرَبِيَّتِي مُكَسَّرَة",
     "gloss": "عَرَبِيَّت·ِي مُكَسَّرَة، لَكِنّ·ِي أَ·بْتَسِم. | Arabisch·mein zerbrochen.F, aber·ich 1SG·lächeln.",
     "umschrift": "ʿarabiyyatī mukassara, lākinnī abtasim.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_20.mp3?v=1a83568e"
    },
    "zeit": null,
@@ -4064,12 +4296,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·قْرَأ صَفْحَة بِ·صَوْت عَالٍ | 1SG·lesen Seite mit·Stimme hoch",
    "umschrift": "aqraʾ ṣafḥa bi-ṣawt ʿālin",
    "wurzel": "ق-ر-أ",
+   "ipa": null,
    "satz": {
     "fr": "كُلَّ مَسَاءٍ أَقْرَأُ صَفْحَةً بِصَوْتٍ عَالٍ.",
     "de": "Jeden Abend lese ich eine Seite laut.",
     "luecke": "أَقْرَأُ صَفْحَةً بِصَوْتٍ عَالٍ",
     "gloss": "كُلّ مَسَاء أَ·قْرَأ صَفْحَة بِ·صَوْت عَالٍ. | jeder Abend 1SG·lesen Seite mit·Stimme hoch.",
     "umschrift": "kull masāʾ aqraʾ ṣafḥa bi-ṣawt ʿālin.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_21.mp3?v=0945370f"
    },
    "zeit": {
@@ -4102,12 +4336,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "صَوْت·ُكَ نَاعِم | Stimme·dein weich",
    "umschrift": "ṣawtuk nāʿim",
    "wurzel": "ن-ع-م",
+   "ipa": null,
    "satz": {
     "fr": "صَوْتُكَ نَاعِم، بِالنِّسْبَةِ لِمُعَلِّمٍ أَلْمَانِيّ.",
     "de": "Deine Stimme ist weich, für einen deutschen Lehrer.",
     "luecke": "صَوْتُكَ نَاعِم",
     "gloss": "صَوْت·ُكَ نَاعِم، بِ·ال·نِسْبَة لِ·مُعَلِّم أَلْمَانِيّ. | Stimme·dein weich, mit·DEF·Verhältnis für·Lehrer deutsch.",
     "umschrift": "ṣawtuk nāʿim, bin-nisba li-muʿallim almānī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_22.mp3?v=76bf6b7a"
    },
    "zeit": null,
@@ -4129,12 +4365,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نَ·تَدَرَّب عَلَى ال·كَلام | 1PL·üben auf DEF·Sprechen",
    "umschrift": "natadarrab ʿalā l-kalām",
    "wurzel": "د-ر-ب",
+   "ipa": null,
    "satz": {
     "fr": "نَتَدَرَّبُ عَلَى الكَلام، وَالقِطُّ يَسْتَمِع.",
     "de": "Wir üben Sprechen, und die Katze hört zu.",
     "luecke": "نَتَدَرَّبُ عَلَى الكَلام",
     "gloss": "نَ·تَدَرَّب عَلَى ال·كَلام، وَ·ال·قِطّ يَ·سْتَمِع. | 1PL·üben auf DEF·Sprechen, und·DEF·Katze 3SG·zuhören.",
     "umschrift": "natadarrab ʿalā l-kalām, wal-qiṭṭ yastamiʿ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_23.mp3?v=6f341f5b"
    },
    "zeit": {
@@ -4167,12 +4405,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·كَلِمَات طَار·َتْ | DEF·Wörter fliegen·3SG.F",
    "umschrift": "al-kalimāt ṭārat",
    "wurzel": "ط-ي-ر",
+   "ipa": null,
    "satz": {
     "fr": "اللَّحْنُ بَقِيَ فِي رَأْسِي، الكَلِمَاتُ طَارَتْ.",
     "de": "Die Melodie blieb im Kopf, die Wörter sind weggeflogen.",
     "luecke": "الكَلِمَاتُ طَارَتْ",
     "gloss": "ال·لَحْن بَقِي·َ فِي رَأْس·ِي، ال·كَلِمَات طَار·َتْ. | DEF·Melodie bleiben·3SG in Kopf·mein, DEF·Wörter fliegen·3SG.F.",
     "umschrift": "al-laḥn baqiya fī raʾsī, al-kalimāt ṭārat.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/mq_24.mp3?v=8eb2f29b"
    },
    "zeit": null,
@@ -4194,12 +4434,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "كَان·َ يَا مَا كَان | sein·3SG oh was war",
    "umschrift": "kāna yā mā kān",
    "wurzel": "ك-و-ن",
+   "ipa": null,
    "satz": {
     "fr": "كَانَ يَا مَا كَان، فِي قَدِيمِ الزَّمَان، قِطٌّ فِي دِمَشْق.",
     "de": "Es war einmal, in alter Zeit, eine Katze in Damaskus.",
     "luecke": "كَانَ يَا مَا كَان",
     "gloss": "كَان·َ يَا مَا كَان، فِي قَدِيم·ِ ال·زَمَان، قِطّ فِي دِمَشْق. | sein·3SG oh was war, in Altes·GEN DEF·Zeit, Katze in Damaskus.",
     "umschrift": "kāna yā mā kān, fī qadīm az-zamān, qiṭṭ fī Dimashq.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_01.mp3?v=c2fa0fc4"
    },
    "zeit": null,
@@ -4221,12 +4463,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·حْكِي حِكَايَة لِ·ال·أَطْفَال | 1SG·erzählen Märchen für·DEF·Kinder",
    "umschrift": "aḥkī ḥikāya lil-aṭfāl",
    "wurzel": "ح-ك-ي",
+   "ipa": null,
    "satz": {
     "fr": "فِي المَسَاءِ أَحْكِي حِكَايَةً لِلأَطْفَال، وَالقِطُّ يَسْتَمِع.",
     "de": "Abends erzähle ich den Kindern ein Märchen, und die Katze hört zu.",
     "luecke": "أَحْكِي حِكَايَةً",
     "gloss": "فِي ال·مَسَاء أَ·حْكِي حِكَايَة لِ·ال·أَطْفَال، وَ·ال·قِطّ يَ·سْتَمِع. | in DEF·Abend 1SG·erzählen Märchen für·DEF·Kinder, und·DEF·Katze 3SG·zuhören.",
     "umschrift": "fī l-masāʾ aḥkī ḥikāya lil-aṭfāl, wal-qiṭṭ yastamiʿ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_02.mp3?v=a06704c2"
    },
    "zeit": {
@@ -4259,12 +4503,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·تِنِّين نَائِم، ال·كَنْز يَ·نْتَظِر | DEF·Drache schlafend, DEF·Schatz 3SG·warten",
    "umschrift": "at-tinnīn nāʾim, al-kanz yantaẓir",
    "wurzel": "ت-ن-ن",
+   "ipa": null,
    "satz": {
     "fr": "التِّنِّينُ نَائِم، وَالكَنْزُ يَنْتَظِر.",
     "de": "Der Drache schläft, und der Schatz wartet.",
     "luecke": "التِّنِّينُ نَائِم",
     "gloss": "ال·تِنِّين نَائِم، وَ·ال·كَنْز يَ·نْتَظِر. | DEF·Drache schlafend, und·DEF·Schatz 3SG·warten.",
     "umschrift": "at-tinnīn nāʾim, wal-kanz yantaẓir.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_03.mp3?v=475b47c3"
    },
    "zeit": null,
@@ -4286,12 +4532,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "بَاب سِحْرِيّ | Tür magisch",
    "umschrift": "bāb siḥrī",
    "wurzel": "س-ح-ر",
+   "ipa": null,
    "satz": {
     "fr": "كَانَ هُنَاكَ بَابٌ سِحْرِيّ لا يُفْتَحُ إِلَّا لَيْلاً.",
     "de": "Es gab eine Zaubertür, die nur nachts aufging.",
     "luecke": "بَابٌ سِحْرِيّ",
     "gloss": "كَان·َ هُنَاكَ بَاب سِحْرِيّ لا يُ·فْتَح إِلَّا لَيْلاً. | sein·3SG dort Tür magisch nicht PASS·öffnen außer nachts.",
     "umschrift": "kāna hunāka bāb siḥrī lā yuftaḥ illā laylan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_04.mp3?v=cf26e99f"
    },
    "zeit": null,
@@ -4313,12 +4561,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·سَاحِر سَحَر، وَ·ال·صَفّ صَمَت | DEF·Zauberer zauberte, und·DEF·Klasse schwieg",
    "umschrift": "as-sāḥir saḥar, waṣ-ṣaff ṣamat",
    "wurzel": "س-ح-ر",
+   "ipa": null,
    "satz": {
     "fr": "السَّاحِرُ سَحَر، وَالصَّفُّ صَمَتَ فَجْأَة.",
     "de": "Der Zauberer zauberte, und die Klasse schwieg plötzlich.",
     "luecke": "السَّاحِرُ سَحَر",
     "gloss": "ال·سَاحِر سَحَر، وَ·ال·صَفّ صَمَت فَجْأَة. | DEF·Zauberer zauberte, und·DEF·Klasse schwieg plötzlich.",
     "umschrift": "as-sāḥir saḥar, waṣ-ṣaff ṣamat fajʾa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_05.mp3?v=57b997a8"
    },
    "zeit": null,
@@ -4340,12 +4590,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·جِنِّيَّة أَعْطَ·تْ ثَلاث أُمْنِيَات | DEF·Fee geben·3SG.F drei Wünsche",
    "umschrift": "al-jinniyya aʿṭat thalāth umniyāt",
    "wurzel": "ع-ط-و",
+   "ipa": null,
    "satz": {
     "fr": "الجِنِّيَّةُ أَعْطَتْ ثَلاثَ أُمْنِيَات، وَأَنَا طَلَبْتُ الرَّابِعَة.",
     "de": "Die Fee gab drei Wünsche, und ich bat um den vierten.",
     "luecke": "الجِنِّيَّةُ أَعْطَتْ",
     "gloss": "ال·جِنِّيَّة أَعْطَ·تْ ثَلاث أُمْنِيَات، وَ·أَنَا طَلَب·ْتُ ال·رَابِعَة. | DEF·Fee geben·3SG.F drei Wünsche, und·ich verlangen·1SG DEF·vierte.",
     "umschrift": "al-jinniyya aʿṭat thalāth umniyāt, wa-anā ṭalabtu r-rābiʿa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_06.mp3?v=d26c5493"
    },
    "zeit": null,
@@ -4367,12 +4619,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "قَدَم·ُ ال·عِمْلاق | Fuß·GEN DEF·Riese",
    "umschrift": "qadam al-ʿimlāq",
    "wurzel": "ع-م-ل-ق",
+   "ipa": null,
    "satz": {
     "fr": "قَدَمُ العِمْلاقِ أَكْبَرُ مِنْ مَدْرَسَتِنَا.",
     "de": "Der Fuß des Riesen ist größer als unsere Schule.",
     "luecke": "قَدَمُ العِمْلاق",
     "gloss": "قَدَم·ُ ال·عِمْلاق أَكْبَر مِنْ مَدْرَسَت·ِنَا. | Fuß·GEN DEF·Riese größer als Schule·unser.",
     "umschrift": "qadam al-ʿimlāq akbar min madrasatinā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_07.mp3?v=bc189887"
    },
    "zeit": null,
@@ -4394,12 +4648,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ذَهَب·ُوا إِلَى ال·مَنْجَم | gehen·3PL zu DEF·Bergwerk",
    "umschrift": "dhahabū ilā l-manjam",
    "wurzel": "ذ-ه-ب",
+   "ipa": null,
    "satz": {
     "fr": "سَبْعَةُ أَقْزَامٍ ذَهَبُوا إِلَى المَنْجَم، وَوَاحِدٌ تَأَخَّر.",
     "de": "Sieben Zwerge gingen ins Bergwerk, und einer kam zu spät.",
     "luecke": "ذَهَبُوا إِلَى المَنْجَم",
     "gloss": "سَبْعَة أَقْزَام ذَهَب·ُوا إِلَى ال·مَنْجَم، وَ·وَاحِد تَأَخَّر. | sieben Zwerge gehen·3PL zu DEF·Bergwerk, und·einer verspätete.sich.",
     "umschrift": "sabʿat aqzām dhahabū ilā l-manjam, wa-wāḥid taʾakhkhar.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_08.mp3?v=f7a3ed69"
    },
    "zeit": null,
@@ -4421,12 +4677,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "كَان·َ خَائِف·ًا، وَ·ذَهَب·َ رَغْمَ ذَلِك | sein·3SG ängstlich·AKK, und·gehen·3SG trotz jenes",
    "umschrift": "kāna khāʾifan, wa-dhahaba raghma dhālik",
    "wurzel": "خ-و-ف",
+   "ipa": null,
    "satz": {
     "fr": "البَطَلُ كَانَ خَائِفًا، وَذَهَبَ رَغْمَ ذَلِك.",
     "de": "Der Held hatte Angst und ging trotzdem.",
     "luecke": "كَانَ خَائِفًا",
     "gloss": "ال·بَطَل كَان·َ خَائِف·ًا، وَ·ذَهَب·َ رَغْمَ ذَلِك. | DEF·Held sein·3SG ängstlich·AKK, und·gehen·3SG trotz jenes.",
     "umschrift": "al-baṭal kāna khāʾifan, wa-dhahaba raghma dhālik.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_09.mp3?v=caa5cf16"
    },
    "zeit": null,
@@ -4448,12 +4706,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لَمْ يَ·خْرُج·ْ مِنَ ال·حَجَر | nicht.VERG 3SG·herauskommen·JUSS aus DEF·Stein",
    "umschrift": "lam yakhruj min al-ḥajar",
    "wurzel": "خ-ر-ج",
+   "ipa": null,
    "satz": {
     "fr": "السَّيْفُ لَمْ يَخْرُجْ مِنَ الحَجَر، وَالوَلَدُ حَاوَل.",
     "de": "Das Schwert kam nicht aus dem Stein, und der Junge hat es versucht.",
     "luecke": "لَمْ يَخْرُجْ مِنَ الحَجَر",
     "gloss": "ال·سَيْف لَمْ يَ·خْرُج·ْ مِنَ ال·حَجَر، وَ·ال·وَلَد حَاوَل. | DEF·Schwert nicht.VERG 3SG·herauskommen·JUSS aus DEF·Stein, und·DEF·Junge versuchte.",
     "umschrift": "as-sayf lam yakhruj min al-ḥajar, wal-walad ḥāwal.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_10.mp3?v=5e69468e"
    },
    "zeit": null,
@@ -4475,12 +4735,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·مِفْتَاح عِنْدَ ال·قِطّ | DEF·Schlüssel bei DEF·Katze",
    "umschrift": "al-miftāḥ ʿinda l-qiṭṭ",
    "wurzel": "ف-ت-ح",
+   "ipa": null,
    "satz": {
     "fr": "بَابُ القَلْعَةِ مُغْلَق، وَالمِفْتَاحُ عِنْدَ القِطّ.",
     "de": "Das Burgtor ist zu, und der Schlüssel ist bei der Katze.",
     "luecke": "المِفْتَاحُ عِنْدَ القِطّ",
     "gloss": "بَاب·ُ ال·قَلْعَة مُغْلَق، وَ·ال·مِفْتَاح عِنْدَ ال·قِطّ. | Tor·GEN DEF·Burg geschlossen, und·DEF·Schlüssel bei DEF·Katze.",
     "umschrift": "bāb al-qalʿa mughlaq, wal-miftāḥ ʿinda l-qiṭṭ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_11.mp3?v=c87272cc"
    },
    "zeit": null,
@@ -4502,12 +4764,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "خَرِيطَة·ُ ال·كَنْز مُمَزَّقَة | Karte·GEN DEF·Schatz zerrissen.F",
    "umschrift": "kharīṭat al-kanz mumazzaqa",
    "wurzel": "م-ز-ق",
+   "ipa": null,
    "satz": {
     "fr": "خَرِيطَةُ الكَنْزِ مُمَزَّقَة، وَنِصْفُهَا مَعِي.",
     "de": "Die Schatzkarte ist zerrissen, und die Hälfte habe ich.",
     "luecke": "خَرِيطَةُ الكَنْزِ مُمَزَّقَة",
     "gloss": "خَرِيطَة·ُ ال·كَنْز مُمَزَّقَة، وَ·نِصْف·ُهَا مَعِ·ي. | Karte·GEN DEF·Schatz zerrissen.F, und·Hälfte·ihr mit·mir.",
     "umschrift": "kharīṭat al-kanz mumazzaqa, wa-niṣfuhā maʿī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_12.mp3?v=9a3ac1df"
    },
    "zeit": null,
@@ -4529,12 +4793,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَ·تَكَلَّم ال·أَشْجَار | 3SG.F·sprechen DEF·Bäume",
    "umschrift": "tatakallam al-ashjār",
    "wurzel": "ش-ج-ر",
+   "ipa": null,
    "satz": {
     "fr": "فِي الغَابَةِ المَسْحُورَةِ تَتَكَلَّمُ الأَشْجَار، وَلَكِنْ هَمْسًا.",
     "de": "Im Zauberwald sprechen die Bäume, aber im Flüsterton.",
     "luecke": "تَتَكَلَّمُ الأَشْجَار",
     "gloss": "فِي ال·غَابَة ال·مَسْحُورَة تَ·تَكَلَّم ال·أَشْجَار، وَ·لَكِنْ هَمْسًا. | in DEF·Wald DEF·verzaubert.F 3SG.F·sprechen DEF·Bäume, und·aber flüsternd.",
     "umschrift": "fī l-ghāba l-masḥūra tatakallam al-ashjār, wa-lākin hamsan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_13.mp3?v=4ebdfedb"
    },
    "zeit": null,
@@ -4556,12 +4822,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِنْكَسَر·َ ال·طِلَّسْم | zerbrechen·3SG DEF·Bann",
    "umschrift": "inkasara ṭ-ṭillasm",
    "wurzel": "ك-س-ر",
+   "ipa": null,
    "satz": {
     "fr": "اِنْكَسَرَ الطِّلَّسْم، وَالأَمِيرُ ضِفْدَعٌ مِنْ جَدِيد.",
     "de": "Der Bann ist gebrochen, und der Prinz ist wieder ein Frosch.",
     "luecke": "اِنْكَسَرَ الطِّلَّسْم",
     "gloss": "اِنْكَسَر·َ ال·طِلَّسْم، وَ·ال·أَمِير ضِفْدَع مِنْ جَدِيد. | zerbrechen·3SG DEF·Bann, und·DEF·Prinz Frosch von neu.",
     "umschrift": "inkasara ṭ-ṭillasm, wal-amīr ḍifdaʿ min jadīd.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_14.mp3?v=c6616e3f"
    },
    "zeit": null,
@@ -4583,12 +4851,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لِ·ال·لَعْنَة شَرْط وَاحِد | für·DEF·Fluch Bedingung eine",
    "umschrift": "lil-laʿna sharṭ wāḥid",
    "wurzel": "ل-ع-ن",
+   "ipa": null,
    "satz": {
     "fr": "لِلَّعْنَةِ شَرْطٌ وَاحِد: سَبْعُ حِصَصٍ يَوْمَ الجُمْعَة.",
     "de": "Der Fluch hat eine Bedingung: sieben Stunden am Freitag.",
     "luecke": "لِلَّعْنَةِ شَرْطٌ وَاحِد",
     "gloss": "لِ·ال·لَعْنَة شَرْط وَاحِد: سَبْع حِصَص يَوْمَ ال·جُمْعَة. | für·DEF·Fluch Bedingung eine: sieben Stunden Tag DEF·Freitag.",
     "umschrift": "lil-laʿna sharṭ wāḥid: sabʿ ḥiṣaṣ yawm al-jumʿa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_15.mp3?v=1590e06c"
    },
    "zeit": null,
@@ -4610,12 +4880,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "جُحَا رَكِب·َ ال·حِمَار بِ·ال·مَقْلُوب | Dschuha reiten·3SG DEF·Esel mit·DEF·Umgedreht",
    "umschrift": "Juḥā rakiba l-ḥimār bil-maqlūb",
    "wurzel": "ر-ك-ب",
+   "ipa": null,
    "satz": {
     "fr": "جُحَا رَكِبَ الحِمَارَ بِالمَقْلُوب: « هَكَذَا أَرَى مَنْ يَتْبَعُنِي ».",
     "de": "Dschuha ritt den Esel verkehrt herum: « So sehe ich, wer mir folgt ».",
     "luecke": "جُحَا رَكِبَ الحِمَارَ",
     "gloss": "جُحَا رَكِب·َ ال·حِمَار بِ·ال·مَقْلُوب: « هَكَذَا أَ·رَى مَنْ يَ·تْبَع·ُنِي ». | Dschuha reiten·3SG DEF·Esel mit·DEF·Umgedreht: « so 1SG·sehen wer 3SG·folgen·mir ».",
     "umschrift": "Juḥā rakiba l-ḥimār bil-maqlūb: « hākadhā arā man yatbaʿunī ».",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_16.mp3?v=643f56a4"
    },
    "zeit": null,
@@ -4637,12 +4909,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·شَاطِر حَسَن وَجَد·َ طَرِيق·َه | DEF·Clevere Hasan finden·3SG Weg·sein",
    "umschrift": "ash-Shāṭir Ḥasan wajada ṭarīqah",
    "wurzel": "و-ج-د",
+   "ipa": null,
    "satz": {
     "fr": "الشَّاطِرُ حَسَن وَجَدَ طَرِيقَهُ أَخِيرًا.",
     "de": "Der kluge Hasan fand endlich seinen Weg.",
     "luecke": "الشَّاطِرُ حَسَن وَجَدَ طَرِيقَه",
     "gloss": "ال·شَاطِر حَسَن وَجَد·َ طَرِيق·َهُ أَخِيرًا. | DEF·Clevere Hasan finden·3SG Weg·sein endlich.",
     "umschrift": "ash-Shāṭir Ḥasan wajada ṭarīqahu akhīran.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_17.mp3?v=ee852e2c"
    },
    "zeit": null,
@@ -4664,12 +4938,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ظِلّ·ِي دَخَل·َ ال·بَيْت قَبْل·ِي | Schatten·mein eintreten·3SG DEF·Haus vor·mir",
    "umschrift": "ẓillī dakhala l-bayt qablī",
    "wurzel": "ظ-ل-ل",
+   "ipa": null,
    "satz": {
     "fr": "ظِلِّي دَخَلَ البَيْتَ قَبْلِي.",
     "de": "Mein Schatten ging vor mir ins Haus.",
     "luecke": "ظِلِّي دَخَلَ البَيْتَ",
     "gloss": "ظِلّ·ِي دَخَل·َ ال·بَيْت قَبْل·ِي. | Schatten·mein eintreten·3SG DEF·Haus vor·mir.",
     "umschrift": "ẓillī dakhala l-bayt qablī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_18.mp3?v=e784c7c4"
    },
    "zeit": null,
@@ -4691,12 +4967,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "فَ·صَار·َ خَفِيّ·ًا | da·werden·3SG unsichtbar·AKK",
    "umschrift": "fa-ṣāra khafiyyan",
    "wurzel": "ص-ي-ر",
+   "ipa": null,
    "satz": {
     "fr": "لَبِسَ العَبَاءَةَ فَصَارَ خَفِيًّا، وَالصَّفُّ صَفَّقَ.",
     "de": "Er zog den Umhang an und wurde unsichtbar, und die Klasse klatschte.",
     "luecke": "فَصَارَ خَفِيًّا",
     "gloss": "لَبِس·َ ال·عَبَاءَة فَ·صَار·َ خَفِيّ·ًا، وَ·ال·صَفّ صَفَّق. | anziehen·3SG DEF·Umhang da·werden·3SG unsichtbar·AKK, und·DEF·Klasse klatschte.",
     "umschrift": "labisa l-ʿabāʾa fa-ṣāra khafiyyan, waṣ-ṣaff ṣaffaq.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_19.mp3?v=bbb53355"
    },
    "zeit": null,
@@ -4718,12 +4996,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "حَلِم·ْتُ أَنّ·ِي | träumen·1SG dass·ich",
    "umschrift": "ḥalimtu annī",
    "wurzel": "ح-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "اللَّيْلَةَ المَاضِيَةَ حَلِمْتُ أَنِّي أَشْرَبُ الشَّايَ مَعَ التِّنِّين.",
     "de": "Letzte Nacht träumte ich, ich tränke Tee mit dem Drachen.",
     "luecke": "حَلِمْتُ أَنِّي",
     "gloss": "ال·لَيْلَة ال·مَاضِيَة حَلِم·ْتُ أَنّ·ِي أَ·شْرَب ال·شَاي مَعَ ال·تِنِّين. | DEF·Nacht DEF·vergangene träumen·1SG dass·ich 1SG·trinken DEF·Tee mit DEF·Drache.",
     "umschrift": "al-layla l-māḍiya ḥalimtu annī ashrab ash-shāy maʿa t-tinnīn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_20.mp3?v=3a629038"
    },
    "zeit": null,
@@ -4745,12 +5025,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نِهَايَة·َ ال·حِكَايَة يَ·عْرِف·ُهَا ال·قِطّ | Ende·AKK DEF·Geschichte 3SG·kennen·es DEF·Katze",
    "umschrift": "nihāyat al-ḥikāya yaʿrifuhā l-qiṭṭ",
    "wurzel": "ن-ه-ي",
+   "ipa": null,
    "satz": {
     "fr": "نِهَايَةَ الحِكَايَةِ يَعْرِفُهَا القِطّ، وَلا يَقُول.",
     "de": "Das Ende der Geschichte kennt die Katze, und sie sagt es nicht.",
     "luecke": "نِهَايَةَ الحِكَايَةِ يَعْرِفُهَا القِطّ",
     "gloss": "نِهَايَة·َ ال·حِكَايَة يَ·عْرِف·ُهَا ال·قِطّ، وَ·لا يَ·قُول. | Ende·AKK DEF·Geschichte 3SG·kennen·es DEF·Katze, und·nicht 3SG·sagen.",
     "umschrift": "nihāyat al-ḥikāya yaʿrifuhā l-qiṭṭ, wa-lā yaqūl.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_21.mp3?v=9ce77c5b"
    },
    "zeit": null,
@@ -4772,12 +5054,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وَ·هَكَذَا اِنْتَهَ·تِ ال·حِكَايَة | und·so enden·3SG.F DEF·Geschichte",
    "umschrift": "wa-hākadhā ntahat al-ḥikāya",
    "wurzel": "ن-ه-ي",
+   "ipa": null,
    "satz": {
     "fr": "وَهَكَذَا انْتَهَتِ الحِكَايَة. – تُوتَة تُوتَة، خِلْصِت الحَدُّوتَة.",
     "de": "Und so endete die Geschichte. – Tūta tūta, aus ist die Geschicht'.",
     "luecke": "وَهَكَذَا انْتَهَتِ الحِكَايَة",
     "gloss": "وَ·هَكَذَا اِنْتَهَ·تِ ال·حِكَايَة. – تُوتَة تُوتَة، خِلْصِت ال·حَدُّوتَة. | und·so enden·3SG.F DEF·Geschichte. – Tūta Tūta, endete DEF·Geschichtchen.",
     "umschrift": "wa-hākadhā ntahat al-ḥikāya. – tūta tūta, khilṣit il-ḥaddūta.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_22.mp3?v=937428da"
    },
    "zeit": null,
@@ -4799,12 +5083,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·عِبْرَة مِنَ ال·حِكَايَة | DEF·Lehre aus DEF·Geschichte",
    "umschrift": "al-ʿibra min al-ḥikāya",
    "wurzel": "ع-ب-ر",
+   "ipa": null,
    "satz": {
     "fr": "العِبْرَةُ مِنَ الحِكَايَة: اِعْمَلِ الوَاجِبَ فِي وَقْتِه.",
     "de": "Die Moral von der Geschichte: Mach die Hausaufgaben rechtzeitig.",
     "luecke": "العِبْرَةُ مِنَ الحِكَايَة",
     "gloss": "ال·عِبْرَة مِنَ ال·حِكَايَة: اِعْمَل ال·وَاجِب فِي وَقْت·ِه. | DEF·Lehre aus DEF·Geschichte: mach DEF·Pflicht in Zeit·ihr.",
     "umschrift": "al-ʿibra min al-ḥikāya: iʿmal al-wājib fī waqtih.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_23.mp3?v=d774f4a6"
    },
    "zeit": null,
@@ -4826,12 +5112,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وَ·عَاش·ُوا فِي تَبَات وَ·نَبَات | und·leben·3PL in Beständigkeit und·Wachstum",
    "umschrift": "wa-ʿāshū fī tabāt wa-nabāt",
    "wurzel": "ع-ي-ش",
+   "ipa": null,
    "satz": {
     "fr": "وَعَاشُوا فِي تَبَاتٍ وَنَبَات، وَخَلَّفُوا صُبْيَانًا وَبَنَات.",
     "de": "Und sie lebten in Fülle und Gedeihen und bekamen Söhne und Töchter.",
     "luecke": "وَعَاشُوا فِي تَبَاتٍ وَنَبَات",
     "gloss": "وَ·عَاش·ُوا فِي تَبَات وَ·نَبَات، وَ·خَلَّف·ُوا صُبْيَان·ًا وَ·بَنَات. | und·leben·3PL in Beständigkeit und·Wachstum, und·hinterlassen·3PL Jungen·AKK und·Mädchen.",
     "umschrift": "wa-ʿāshū fī tabāt wa-nabāt, wa-khallafū ṣubyānan wa-banāt.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/hk_24.mp3?v=f8e61278"
    },
    "zeit": null,
@@ -4853,12 +5141,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أُ·مَارِس ال·رِيَاضَة | 1SG·ausüben DEF·Sport",
    "umschrift": "umāris ar-riyāḍa",
    "wurzel": "م-ر-س",
+   "ipa": null,
    "satz": {
     "fr": "أُمَارِسُ الرِّيَاضَةَ كُلَّ صَبَاح، وَالقِطُّ يُرَاقِب.",
     "de": "Jeden Morgen treibe ich Sport, und die Katze schaut zu.",
     "luecke": "أُمَارِسُ الرِّيَاضَة",
     "gloss": "أُ·مَارِس ال·رِيَاضَة كُلّ صَبَاح، وَ·ال·قِطّ يُ·رَاقِب. | 1SG·ausüben DEF·Sport jeder Morgen, und·DEF·Katze 3SG·beobachten.",
     "umschrift": "umāris ar-riyāḍa kull ṣabāḥ, wal-qiṭṭ yurāqib.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_01.mp3?v=1df481e1"
    },
    "zeit": {
@@ -4891,12 +5181,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·تَدْرِيب يَ·بْدَأ ال·سَاعَة ال·سَادِسَة | DEF·Training 3SG·beginnen DEF·Stunde DEF·sechste",
    "umschrift": "at-tadrīb yabdaʾ as-sāʿa s-sādisa",
    "wurzel": "د-ر-ب",
+   "ipa": null,
    "satz": {
     "fr": "التَّدْرِيبُ يَبْدَأُ السَّاعَةَ السَّادِسَة، وَلا أَحَدَ يَتَأَخَّر.",
     "de": "Das Training beginnt um sechs, und niemand kommt zu spät.",
     "luecke": "التَّدْرِيبُ يَبْدَأ",
     "gloss": "ال·تَدْرِيب يَ·بْدَأ ال·سَاعَة ال·سَادِسَة، وَ·لا أَحَد يَ·تَأَخَّر. | DEF·Training 3SG·beginnen DEF·Stunde DEF·sechste, und·kein jemand 3SG·sich.verspäten.",
     "umschrift": "at-tadrīb yabdaʾ as-sāʿa s-sādisa, wa-lā aḥad yataʾakhkhar.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_02.mp3?v=fdb9ece6"
    },
    "zeit": {
@@ -4929,12 +5221,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نُ·سَخِّن أَوَّلاً، ثُمَّ نَ·ضْرِب | 1PL·aufwärmen zuerst, dann 1PL·schlagen",
    "umschrift": "nusakhkhin awwalan, thumma naḍrib",
    "wurzel": "س-خ-ن",
+   "ipa": null,
    "satz": {
     "fr": "نُسَخِّنُ أَوَّلاً، ثُمَّ نَضْرِب.",
     "de": "Erst wärmen wir uns auf, dann schlagen wir.",
     "luecke": "نُسَخِّنُ أَوَّلاً",
     "gloss": "نُ·سَخِّن أَوَّلاً، ثُمَّ نَ·ضْرِب. | 1PL·aufwärmen zuerst, dann 1PL·schlagen.",
     "umschrift": "nusakhkhin awwalan, thumma naḍrib.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_03.mp3?v=4127101a"
    },
    "zeit": {
@@ -4967,12 +5261,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لَيْسَ سَرِيع·ًا، بَلْ صَبُور | ist.nicht schnell·AKK, sondern geduldig",
    "umschrift": "laysa sarīʿan, bal ṣabūr",
    "wurzel": "ص-ب-ر",
+   "ipa": null,
    "satz": {
     "fr": "الكُونْغ فُو لَيْسَ سَرِيعًا، بَلْ صَبُور.",
     "de": "Kung-Fu ist nicht schnell, sondern geduldig.",
     "luecke": "لَيْسَ سَرِيعًا، بَلْ صَبُور",
     "gloss": "ال·كُونْغ فُو لَيْسَ سَرِيع·ًا، بَلْ صَبُور. | DEF·Kung Fu ist.nicht schnell·AKK, sondern geduldig.",
     "umschrift": "al-kūngh fū laysa sarīʿan, bal ṣabūr.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_04.mp3?v=4660301a"
    },
    "zeit": null,
@@ -4994,12 +5290,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·تَكَلَّم قَلِيلاً وَ·يُ·رِي كَثِيرًا | 3SG·sprechen wenig und·3SG·zeigen viel",
    "umschrift": "yatakallam qalīlan wa-yurī kathīran",
    "wurzel": "ر-أ-ي",
+   "ipa": null,
    "satz": {
     "fr": "المُعَلِّمُ يَتَكَلَّمُ قَلِيلاً وَيُرِي كَثِيرًا.",
     "de": "Der Meister spricht wenig und zeigt viel.",
     "luecke": "يَتَكَلَّمُ قَلِيلاً وَيُرِي كَثِيرًا",
     "gloss": "ال·مُعَلِّم يَ·تَكَلَّم قَلِيلاً وَ·يُ·رِي كَثِيرًا. | DEF·Lehrer 3SG·sprechen wenig und·3SG·zeigen viel.",
     "umschrift": "al-muʿallim yatakallam qalīlan wa-yurī kathīran.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_05.mp3?v=2db6028f"
    },
    "zeit": null,
@@ -5021,12 +5319,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·قَع، يَ·قُوم | 3SG·fallen, 3SG·aufstehen",
    "umschrift": "yaqaʿ, yaqūm",
    "wurzel": "و-ق-ع",
+   "ipa": null,
    "satz": {
     "fr": "التِّلْمِيذُ يَقَع، يَقُوم، يَقَعُ مِنْ جَدِيد.",
     "de": "Der Schüler fällt, steht auf, fällt wieder.",
     "luecke": "يَقَع، يَقُوم",
     "gloss": "ال·تِلْمِيذ يَ·قَع، يَ·قُوم، يَ·قَع مِنْ جَدِيد. | DEF·Schüler 3SG·fallen, 3SG·aufstehen, 3SG·fallen von neu.",
     "umschrift": "at-tilmīdh yaqaʿ, yaqūm, yaqaʿ min jadīd.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_06.mp3?v=17c5d000"
    },
    "zeit": null,
@@ -5048,12 +5348,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وَقْفَت·ُكَ ثَابِتَة، يَد·َاكَ مُتْعَب·َتَان | Stand·dein fest.F, Hand·DUAL.dein müde·F.DUAL",
    "umschrift": "waqfatuk thābita, yadāk mutʿabatān",
    "wurzel": "و-ق-ف",
+   "ipa": null,
    "satz": {
     "fr": "وَقْفَتُكَ ثَابِتَة، وَيَدَاكَ مُتْعَبَتَان.",
     "de": "Dein Stand ist fest, und deine Hände sind müde.",
     "luecke": "وَقْفَتُكَ ثَابِتَة",
     "gloss": "وَقْفَت·ُكَ ثَابِتَة، وَ·يَد·َاكَ مُتْعَب·َتَان. | Stand·dein fest.F, und·Hand·DUAL.dein müde·F.DUAL.",
     "umschrift": "waqfatuk thābita, wa-yadāk mutʿabatān.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_07.mp3?v=554ca226"
    },
    "zeit": null,
@@ -5075,12 +5377,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·لَكْمَة تَ·أْتِي مِنَ ال·وَرِك | DEF·Faustschlag 3SG.F·kommen aus DEF·Hüfte",
    "umschrift": "al-lakma taʾtī min al-warik",
    "wurzel": "ل-ك-م",
+   "ipa": null,
    "satz": {
     "fr": "اللَّكْمَةُ تَأْتِي مِنَ الوَرِك، لا مِنَ الكَتِف.",
     "de": "Der Faustschlag kommt aus der Hüfte, nicht aus der Schulter.",
     "luecke": "اللَّكْمَةُ تَأْتِي مِنَ الوَرِك",
     "gloss": "ال·لَكْمَة تَ·أْتِي مِنَ ال·وَرِك، لا مِنَ ال·كَتِف. | DEF·Faustschlag 3SG.F·kommen aus DEF·Hüfte, nicht aus DEF·Schulter.",
     "umschrift": "al-lakma taʾtī min al-warik, lā min al-katif.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_08.mp3?v=3b057d76"
    },
    "zeit": null,
@@ -5102,12 +5406,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·جِب أَنْ تَ·كُون·َ | 3SG·nötig.sein dass 3SG.F·sein·KONJ",
    "umschrift": "yajib an takūna",
    "wurzel": "و-ج-ب",
+   "ipa": null,
    "satz": {
     "fr": "الرَّكْلَةُ لا يَجِبُ أَنْ تَكُونَ عَالِيَة، بَلْ صَحِيحَة.",
     "de": "Der Tritt muss nicht hoch sein, sondern richtig.",
     "luecke": "يَجِبُ أَنْ تَكُونَ",
     "gloss": "ال·رَكْلَة لا يَ·جِب أَنْ تَ·كُون·َ عَالِيَة، بَلْ صَحِيحَة. | DEF·Tritt nicht 3SG·nötig.sein dass 3SG.F·sein·KONJ hoch.F, sondern richtig.F.",
     "umschrift": "ar-rakla lā yajib an takūna ʿāliya, bal ṣaḥīḥa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_09.mp3?v=984b6bd8"
    },
    "zeit": null,
@@ -5129,12 +5435,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "خُذْ نَفَس·ًا، أَخْرِج·ْهُ، ثُمَّ اضْرِب | nimm Atem·AKK, lass.heraus·ihn, dann schlag",
    "umschrift": "khudh nafasan, akhrijhu, thumma ḍrib",
    "wurzel": "ن-ف-س",
+   "ipa": null,
    "satz": {
     "fr": "خُذْ نَفَسًا، أَخْرِجْهُ، ثُمَّ اضْرِب.",
     "de": "Atme ein, atme aus, dann schlag.",
     "luecke": "خُذْ نَفَسًا",
     "gloss": "خُذْ نَفَس·ًا، أَخْرِج·ْهُ، ثُمَّ اضْرِب. | nimm Atem·AKK, lass.heraus·ihn, dann schlag.",
     "umschrift": "khudh nafasan, akhrijhu, thumma ḍrib.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_10.mp3?v=0397b6ce"
    },
    "zeit": null,
@@ -5156,12 +5464,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·تَوَازُن يَ·بْدَأ فِي ال·قَدَم | DEF·Gleichgewicht 3SG·beginnen in DEF·Fuß",
    "umschrift": "at-tawāzun yabdaʾ fī l-qadam",
    "wurzel": "و-ز-ن",
+   "ipa": null,
    "satz": {
     "fr": "التَّوَازُنُ يَبْدَأُ فِي القَدَمِ وَيَنْتَهِي فِي الرَّأْس.",
     "de": "Gleichgewicht beginnt im Fuß und endet im Kopf.",
     "luecke": "التَّوَازُنُ يَبْدَأُ فِي القَدَم",
     "gloss": "ال·تَوَازُن يَ·بْدَأ فِي ال·قَدَم وَ·يَ·نْتَهِي فِي ال·رَأْس. | DEF·Gleichgewicht 3SG·beginnen in DEF·Fuß und·3SG·enden in DEF·Kopf.",
     "umschrift": "at-tawāzun yabdaʾ fī l-qadam wa-yantahī fī r-raʾs.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_11.mp3?v=104d206d"
    },
    "zeit": null,
@@ -5183,12 +5493,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·حِزَام ال·أَسْوَد | DEF·Gürtel DEF·schwarz",
    "umschrift": "al-ḥizām al-aswad",
    "wurzel": "ح-ز-م",
+   "ipa": null,
    "satz": {
     "fr": "الحِزَامُ الأَسْوَدُ لَيْسَ النِّهَايَة، بَلِ البِدَايَة.",
     "de": "Der schwarze Gürtel ist nicht das Ende, sondern der Anfang.",
     "luecke": "الحِزَامُ الأَسْوَد",
     "gloss": "ال·حِزَام ال·أَسْوَد لَيْسَ ال·نِهَايَة، بَلِ ال·بِدَايَة. | DEF·Gürtel DEF·schwarz ist.nicht DEF·Ende, sondern DEF·Anfang.",
     "umschrift": "al-ḥizām al-aswad laysa n-nihāya, bal il-bidāya.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_12.mp3?v=5feb5d9f"
    },
    "zeit": null,
@@ -5210,12 +5522,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·مُصَارَعَة | DEF·Ringen",
    "umschrift": "al-muṣāraʿa",
    "wurzel": "ص-ر-ع",
+   "ipa": null,
    "satz": {
     "fr": "المُصَارَعَةُ رِيَاضَةُ الشَّامِ القَدِيمَة، كَمَا فِي تُرْكِيَا.",
     "de": "Ringen ist der alte Sport der Levante, wie in der Türkei.",
     "luecke": "المُصَارَعَة",
     "gloss": "ال·مُصَارَعَة رِيَاضَة·ُ ال·شَام ال·قَدِيمَة، كَمَا فِي تُرْكِيَا. | DEF·Ringen Sport·GEN DEF·Levante DEF·alte, wie in Türkei.",
     "umschrift": "al-muṣāraʿa riyāḍat ash-Shām al-qadīma, kamā fī Turkiyā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_13.mp3?v=f4925f35"
    },
    "zeit": null,
@@ -5237,12 +5551,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·مُبَارَاة ال·سَاعَة ال·تَاسِعَة | DEF·Spiel DEF·Stunde DEF·neunte",
    "umschrift": "al-mubārāt as-sāʿa t-tāsiʿa",
    "wurzel": "ب-ر-ي",
+   "ipa": null,
    "satz": {
     "fr": "المُبَارَاةُ السَّاعَةَ التَّاسِعَةَ مَسَاءً، وَالشَّايُ جَاهِز.",
     "de": "Das Spiel ist um neun Uhr abends, und der Tee ist fertig.",
     "luecke": "المُبَارَاةُ السَّاعَةَ التَّاسِعَة",
     "gloss": "ال·مُبَارَاة ال·سَاعَة ال·تَاسِعَة مَسَاءً، وَ·ال·شَاي جَاهِز. | DEF·Spiel DEF·Stunde DEF·neunte abends, und·DEF·Tee fertig.",
     "umschrift": "al-mubārāt as-sāʿa t-tāsiʿa masāʾan, wash-shāy jāhiz.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_14.mp3?v=c302faa0"
    },
    "zeit": null,
@@ -5264,12 +5580,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "سَجَّل·ْنَا هَدَف·ًا | erzielen·1PL Tor·AKK",
    "umschrift": "sajjalnā hadafan",
    "wurzel": "س-ج-ل",
+   "ipa": null,
    "satz": {
     "fr": "سَجَّلْنَا هَدَفًا فِي الدَّقِيقَةِ الأَخِيرَة، وَالحَارَةُ صَرَخَتْ.",
     "de": "Wir haben in der letzten Minute ein Tor geschossen, und das Viertel hat geschrien.",
     "luecke": "سَجَّلْنَا هَدَفًا",
     "gloss": "سَجَّل·ْنَا هَدَف·ًا فِي ال·دَقِيقَة ال·أَخِيرَة، وَ·ال·حَارَة صَرَخ·َتْ. | erzielen·1PL Tor·AKK in DEF·Minute DEF·letzte, und·DEF·Viertel schreien·3SG.F.",
     "umschrift": "sajjalnā hadafan fī d-daqīqa l-akhīra, wal-ḥāra ṣarakhat.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_15.mp3?v=c32057c4"
    },
    "zeit": null,
@@ -5291,12 +5609,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "فُز·ْنَا ال·يَوْم، وَ·غَدًا نَ·رَى | gewinnen·1PL DEF·Tag, und·morgen 1PL·sehen",
    "umschrift": "fuznā l-yawm, wa-ghadan narā",
    "wurzel": "ف-و-ز",
+   "ipa": null,
    "satz": {
     "fr": "فُزْنَا اليَوْم، وَغَدًا نَرَى.",
     "de": "Heute haben wir gewonnen, und morgen sehen wir.",
     "luecke": "فُزْنَا اليَوْم",
     "gloss": "فُز·ْنَا ال·يَوْم، وَ·غَدًا نَ·رَى. | gewinnen·1PL DEF·Tag, und·morgen 1PL·sehen.",
     "umschrift": "fuznā l-yawm, wa-ghadan narā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_16.mp3?v=06fefdc1"
    },
    "zeit": null,
@@ -5318,12 +5638,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "خَسِر·ْنَا، لَكِنّ·َنَا لَعِب·ْنَا جَيِّدًا | verlieren·1PL, aber·wir spielen·1PL gut",
    "umschrift": "khasirnā, lākinnanā laʿibnā jayyidan",
    "wurzel": "خ-س-ر",
+   "ipa": null,
    "satz": {
     "fr": "خَسِرْنَا، لَكِنَّنَا لَعِبْنَا جَيِّدًا.",
     "de": "Wir haben verloren, aber wir haben gut gespielt.",
     "luecke": "خَسِرْنَا",
     "gloss": "خَسِر·ْنَا، لَكِنّ·َنَا لَعِب·ْنَا جَيِّدًا. | verlieren·1PL, aber·wir spielen·1PL gut.",
     "umschrift": "khasirnā, lākinnanā laʿibnā jayyidan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_17.mp3?v=23a8bdfe"
    },
    "zeit": null,
@@ -5345,12 +5667,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·رْكُض عَلَى جَبَل·ِ قَاسِيُون | 1SG·laufen auf Berg·GEN Qasioun",
    "umschrift": "arkuḍ ʿalā jabal Qāsyūn",
    "wurzel": "ر-ك-ض",
+   "ipa": null,
    "satz": {
     "fr": "أَرْكُضُ عَلَى جَبَلِ قَاسِيُون، وَالقِطَطُ تُرَاقِبُنِي.",
     "de": "Ich laufe am Berg Qasioun, und die Katzen beobachten mich.",
     "luecke": "أَرْكُضُ عَلَى جَبَلِ قَاسِيُون",
     "gloss": "أَ·رْكُض عَلَى جَبَل·ِ قَاسِيُون، وَ·ال·قِطَط تُ·رَاقِب·ُنِي. | 1SG·laufen auf Berg·GEN Qasioun, und·DEF·Katzen 3SG.F·beobachten·mich.",
     "umschrift": "arkuḍ ʿalā jabal Qāsyūn, wal-qiṭaṭ turāqibunī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_18.mp3?v=ae46087a"
    },
    "zeit": {
@@ -5383,12 +5707,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "سَبَح·ْنَا فِي ال·بَحْر | schwimmen·1PL in DEF·Meer",
    "umschrift": "sabaḥnā fī l-baḥr",
    "wurzel": "س-ب-ح",
+   "ipa": null,
    "satz": {
     "fr": "سَبَحْنَا فِي البَحْر، وَالمَاءُ كَانَ بَارِدًا.",
     "de": "Wir sind im Meer geschwommen, und das Wasser war kalt.",
     "luecke": "سَبَحْنَا فِي البَحْر",
     "gloss": "سَبَح·ْنَا فِي ال·بَحْر، وَ·ال·مَاء كَان·َ بَارِد·ًا. | schwimmen·1PL in DEF·Meer, und·DEF·Wasser sein·3SG kalt·AKK.",
     "umschrift": "sabaḥnā fī l-baḥr, wal-māʾ kāna bāridan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_19.mp3?v=d6829e26"
    },
    "zeit": null,
@@ -5410,12 +5736,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَعِب·ْتُ، لَكِنّ·ِي لا أَ·تَوَقَّف | müde.werden·1SG, aber·ich nicht 1SG·aufhören",
    "umschrift": "taʿibtu, lākinnī lā atawaqqaf",
    "wurzel": "و-ق-ف",
+   "ipa": null,
    "satz": {
     "fr": "تَعِبْتُ، لَكِنِّي لا أَتَوَقَّف.",
     "de": "Ich bin müde, aber ich höre nicht auf.",
     "luecke": "تَعِبْتُ، لَكِنِّي لا أَتَوَقَّف",
     "gloss": "تَعِب·ْتُ، لَكِنّ·ِي لا أَ·تَوَقَّف. | müde.werden·1SG, aber·ich nicht 1SG·aufhören.",
     "umschrift": "taʿibtu, lākinnī lā atawaqqaf.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_20.mp3?v=b9695bc7"
    },
    "zeit": null,
@@ -5437,12 +5765,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "رُكْبَت·ِي مُصَابَة | Knie·mein verletzt.F",
    "umschrift": "rukbatī muṣāba",
    "wurzel": "ص-و-ب",
+   "ipa": null,
    "satz": {
     "fr": "رُكْبَتِي مُصَابَة، أُسْبُوعُ رَاحَة.",
     "de": "Mein Knie ist verletzt, eine Woche Pause.",
     "luecke": "رُكْبَتِي مُصَابَة",
     "gloss": "رُكْبَت·ِي مُصَابَة، أُسْبُوع·ُ رَاحَة. | Knie·mein verletzt.F, Woche·GEN Ruhe.",
     "umschrift": "rukbatī muṣāba, usbūʿ rāḥa.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_21.mp3?v=40cb19e8"
    },
    "zeit": null,
@@ -5464,12 +5794,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "فَرِيق·ُنَا صَغِير، وَ·قَلْب·ُهُ كَبِير | Mannschaft·unser klein, und·Herz·sein groß",
    "umschrift": "farīqunā ṣaghīr, wa-qalbuhu kabīr",
    "wurzel": "ف-ر-ق",
+   "ipa": null,
    "satz": {
     "fr": "فَرِيقُنَا صَغِير، وَقَلْبُهُ كَبِير.",
     "de": "Unsere Mannschaft ist klein, und ihr Herz ist groß.",
     "luecke": "فَرِيقُنَا صَغِير",
     "gloss": "فَرِيق·ُنَا صَغِير، وَ·قَلْب·ُهُ كَبِير. | Mannschaft·unser klein, und·Herz·sein groß.",
     "umschrift": "farīqunā ṣaghīr, wa-qalbuhu kabīr.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_22.mp3?v=648d99bb"
    },
    "zeit": null,
@@ -5491,12 +5823,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·حَكَم صَفَّر، وَ·ال·جَمِيع صَمَت | DEF·Schiedsrichter pfiff, und·DEF·alle schwieg",
    "umschrift": "al-ḥakam ṣaffar, wal-jamīʿ ṣamat",
    "wurzel": "ح-ك-م",
+   "ipa": null,
    "satz": {
     "fr": "الحَكَمُ صَفَّر، وَالجَمِيعُ صَمَت.",
     "de": "Der Schiedsrichter pfiff, und alle schwiegen.",
     "luecke": "الحَكَمُ صَفَّر",
     "gloss": "ال·حَكَم صَفَّر، وَ·ال·جَمِيع صَمَت. | DEF·Schiedsrichter pfiff, und·DEF·alle schwieg.",
     "umschrift": "al-ḥakam ṣaffar, wal-jamīʿ ṣamat.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_23.mp3?v=be0e39ef"
    },
    "zeit": null,
@@ -5518,12 +5852,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لا نَ·سْتَسْلِم، جَوْلَة أُخْرَى | nicht 1PL·aufgeben, Runde andere",
    "umschrift": "lā nastaslim, jawla ukhrā",
    "wurzel": "س-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "لا نَسْتَسْلِم، جَوْلَةٌ أُخْرَى.",
     "de": "Wir geben nicht auf, noch eine Runde.",
     "luecke": "لا نَسْتَسْلِم",
     "gloss": "لا نَ·سْتَسْلِم، جَوْلَة أُخْرَى. | nicht 1PL·aufgeben, Runde andere.",
     "umschrift": "lā nastaslim, jawla ukhrā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ri_24.mp3?v=27cd0a80"
    },
    "zeit": {
@@ -5556,12 +5892,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "آ·كُل بِ·تَوَازُن | 1SG·essen mit·Gleichgewicht",
    "umschrift": "ākul bi-tawāzun",
    "wurzel": "أ-ك-ل",
+   "ipa": null,
    "satz": {
     "fr": "آكُلُ بِتَوَازُن: كَعْك، شَاي، وَجُبْنَة.",
     "de": "Ich esse ausgewogen: Kaak, Tee und Käse.",
     "luecke": "آكُلُ بِتَوَازُن",
     "gloss": "آ·كُل بِ·تَوَازُن: كَعْك، شَاي، وَ·جُبْنَة. | 1SG·essen mit·Gleichgewicht: Kaak, Tee, und·Käse.",
     "umschrift": "ākul bi-tawāzun: kaʿk, shāy, wa-jubna.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_01.mp3?v=7da2b0ae"
    },
    "zeit": {
@@ -5594,12 +5932,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·نَام مُبَكِّر·ًا | 1SG·schlafen früh·AKK",
    "umschrift": "anām mubakkiran",
    "wurzel": "ن-و-م",
+   "ipa": null,
    "satz": {
     "fr": "اللَّيْلَةَ أَنَامُ مُبَكِّرًا، غَدًا امْتِحَان.",
     "de": "Heute Abend gehe ich früh schlafen, morgen ist Prüfung.",
     "luecke": "أَنَامُ مُبَكِّرًا",
     "gloss": "ال·لَيْلَة أَ·نَام مُبَكِّر·ًا، غَدًا امْتِحَان. | DEF·Nacht 1SG·schlafen früh·AKK, morgen Prüfung.",
     "umschrift": "al-layla anām mubakkiran, ghadan imtiḥān.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_02.mp3?v=5fda33de"
    },
    "zeit": {
@@ -5632,12 +5972,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِنْتَبِه·ْ لِ·نَفْس·ِك | pass.auf·IMP für·Selbst·dein",
    "umschrift": "intabih li-nafsik",
    "wurzel": "ن-ب-ه",
+   "ipa": null,
    "satz": {
     "fr": "اِنْتَبِهْ لِنَفْسِك، الحِصَصُ لا تَهْرُب.",
     "de": "Pass auf dich auf, die Stunden laufen nicht weg.",
     "luecke": "اِنْتَبِهْ لِنَفْسِك",
     "gloss": "اِنْتَبِه·ْ لِ·نَفْس·ِك، ال·حِصَص لا تَ·هْرُب. | pass.auf·IMP für·Selbst·dein, DEF·Stunden nicht 3SG.F·weglaufen.",
     "umschrift": "intabih li-nafsik, al-ḥiṣaṣ lā tahrub.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_03.mp3?v=c4c0995b"
    },
    "zeit": null,
@@ -5659,12 +6001,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·تَسَوَّق مِنَ ال·سُوق | 1SG·einkaufen von DEF·Markt",
    "umschrift": "atasawwaq min as-sūq",
    "wurzel": "س-و-ق",
+   "ipa": null,
    "satz": {
     "fr": "أَتَسَوَّقُ مِنَ السُّوق، كِيلُو البَنَدُورَةِ بِعَشْرَة.",
     "de": "Ich kaufe auf dem Markt ein, das Kilo Tomaten für zehn.",
     "luecke": "أَتَسَوَّقُ مِنَ السُّوق",
     "gloss": "أَ·تَسَوَّق مِنَ ال·سُوق، كِيلُو ال·بَنَدُورَة بِ·عَشْرَة. | 1SG·einkaufen von DEF·Markt, Kilo DEF·Tomate für·zehn.",
     "umschrift": "atasawwaq min as-sūq, kīlū l-banadūra bi-ʿashra.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_04.mp3?v=0b88765f"
    },
    "zeit": {
@@ -5697,12 +6041,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·طْبُخ فِي ال·مَسَاء | 1SG·kochen in DEF·Abend",
    "umschrift": "aṭbukh fī l-masāʾ",
    "wurzel": "ط-ب-خ",
+   "ipa": null,
    "satz": {
     "fr": "أَطْبُخُ فِي المَسَاء، وَالقِطُّ يَنْتَظِرُ فِي المَطْبَخ.",
     "de": "Abends koche ich, und die Katze wartet in der Küche.",
     "luecke": "أَطْبُخُ فِي المَسَاء",
     "gloss": "أَ·طْبُخ فِي ال·مَسَاء، وَ·ال·قِطّ يَ·نْتَظِر فِي ال·مَطْبَخ. | 1SG·kochen in DEF·Abend, und·DEF·Katze 3SG·warten in DEF·Küche.",
     "umschrift": "aṭbukh fī l-masāʾ, wal-qiṭṭ yantaẓir fī l-maṭbakh.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_05.mp3?v=7fe42967"
    },
    "zeit": {
@@ -5735,12 +6081,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "صَحْن·ُ شُورْبَة·ِ عَدَس | Teller·GEN Suppe·GEN Linsen",
    "umschrift": "ṣaḥn shūrbat ʿadas",
    "wurzel": "ص-ح-ن",
+   "ipa": null,
    "satz": {
     "fr": "صَحْنُ شُورْبَةِ عَدَس، وَعَلَيْهِ لَيْمُون.",
     "de": "Ein Teller Linsensuppe, und Zitrone obendrauf.",
     "luecke": "صَحْنُ شُورْبَةِ عَدَس",
     "gloss": "صَحْن·ُ شُورْبَة·ِ عَدَس، وَ·عَلَيْ·هِ لَيْمُون. | Teller·GEN Suppe·GEN Linsen, und·auf·ihm Zitrone.",
     "umschrift": "ṣaḥn shūrbat ʿadas, wa-ʿalayhi laymūn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_06.mp3?v=a53a0eb5"
    },
    "zeit": null,
@@ -5762,12 +6110,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "جُع·ْت | hungrig.werden·1SG",
    "umschrift": "juʿt",
    "wurzel": "ج-و-ع",
+   "ipa": null,
    "satz": {
     "fr": "جُعْت، فِي الاسْتِرَاحَةِ أَشْتَرِي كَعْكَة.",
     "de": "Ich habe Hunger, in der Pause kaufe ich ein Kaak.",
     "luecke": "جُعْت",
     "gloss": "جُع·ْت، فِي ال·اسْتِرَاحَة أَ·شْتَرِي كَعْكَة. | hungrig.werden·1SG, in DEF·Pause 1SG·kaufen Kaak.",
     "umschrift": "juʿt, fī l-istirāḥa ashtarī kaʿka.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_07.mp3?v=943b5dc5"
    },
    "zeit": null,
@@ -5789,12 +6139,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَكَل·ْنَا حَتَّى ال·شِبَع | essen·1PL bis DEF·Sättigung",
    "umschrift": "akalnā ḥattā sh-shibaʿ",
    "wurzel": "ش-ب-ع",
+   "ipa": null,
    "satz": {
     "fr": "فِي العِيدِ أَكَلْنَا حَتَّى الشِّبَع، وَلَمْ يَتَحَرَّكْ أَحَد.",
     "de": "Am Fest haben wir bis zur Sättigung gegessen, und keiner konnte sich rühren.",
     "luecke": "أَكَلْنَا حَتَّى الشِّبَع",
     "gloss": "فِي ال·عِيد أَكَل·ْنَا حَتَّى ال·شِبَع، وَ·لَمْ يَ·تَحَرَّك·ْ أَحَد. | in DEF·Fest essen·1PL bis DEF·Sättigung, und·nicht.VERG 3SG·sich.bewegen·JUSS jemand.",
     "umschrift": "fī l-ʿīd akalnā ḥattā sh-shibaʿ, wa-lam yataḥarrak aḥad.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_08.mp3?v=53c72df7"
    },
    "zeit": null,
@@ -5816,12 +6168,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "صَحَّة·ً وَ·عَافِيَة | Gesundheit·WUNSCH und·Wohlbefinden",
    "umschrift": "ṣaḥḥatan wa-ʿāfiya",
    "wurzel": "ص-ح-ح",
+   "ipa": null,
    "satz": {
     "fr": "صَحَّةً وَعَافِيَة! – عَلَى قَلْبِك.",
     "de": "Guten Appetit! – Auf dein Herz (danke).",
     "luecke": "صَحَّةً وَعَافِيَة",
     "gloss": "صَحَّة·ً وَ·عَافِيَة! – عَلَى قَلْب·ِك. | Gesundheit·WUNSCH und·Wohlbefinden! – auf Herz·dein.",
     "umschrift": "ṣaḥḥatan wa-ʿāfiya! – ʿalā qalbak.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_09.mp3?v=38031239"
    },
    "zeit": null,
@@ -5843,12 +6197,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·فُرْن عِنْدَ ال·زَاوِيَة | DEF·Ofen bei DEF·Ecke",
    "umschrift": "al-furn ʿinda z-zāwiya",
    "wurzel": "ف-ر-ن",
+   "ipa": null,
    "satz": {
     "fr": "الفُرْنُ عِنْدَ الزَّاوِيَةِ يَفْتَحُ السَّاعَةَ الخَامِسَة، وَالخُبْزُ سَاخِن.",
     "de": "Die Bäckerei an der Ecke öffnet um fünf, und das Brot ist warm.",
     "luecke": "الفُرْنُ عِنْدَ الزَّاوِيَة",
     "gloss": "ال·فُرْن عِنْدَ ال·زَاوِيَة يَ·فْتَح ال·سَاعَة ال·خَامِسَة، وَ·ال·خُبْز سَاخِن. | DEF·Ofen bei DEF·Ecke 3SG·öffnen DEF·Stunde DEF·fünfte, und·DEF·Brot heiß.",
     "umschrift": "al-furn ʿinda z-zāwiya yaftaḥ as-sāʿa l-khāmisa, wal-khubz sākhin.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_10.mp3?v=9f324847"
    },
    "zeit": {
@@ -5881,12 +6237,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·شْرَب لِتْر·َيْن مِنَ ال·مَاء | 1SG·trinken Liter·DUAL von DEF·Wasser",
    "umschrift": "ashrab litrayn min al-māʾ",
    "wurzel": "ش-ر-ب",
+   "ipa": null,
    "satz": {
     "fr": "أَشْرَبُ لِتْرَيْنِ مِنَ المَاءِ يَوْمِيًّا، الشَّايُ لا يُحْسَب.",
     "de": "Ich trinke täglich zwei Liter Wasser, der Tee zählt nicht.",
     "luecke": "أَشْرَبُ لِتْرَيْنِ مِنَ المَاء",
     "gloss": "أَ·شْرَب لِتْر·َيْن مِنَ ال·مَاء يَوْمِيًّا، ال·شَاي لا يُ·حْسَب. | 1SG·trinken Liter·DUAL von DEF·Wasser täglich, DEF·Tee nicht PASS·zählen.",
     "umschrift": "ashrab litrayn min al-māʾ yawmiyyan, ash-shāy lā yuḥsab.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_11.mp3?v=8e2f3435"
    },
    "zeit": null,
@@ -5908,12 +6266,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أُ·قَرْمِش بَيْنَ ال·حِصَص | 1SG·knabbern zwischen DEF·Stunden",
    "umschrift": "uqarmish bayna l-ḥiṣaṣ",
    "wurzel": "ق-ر-م-ش",
+   "ipa": null,
    "satz": {
     "fr": "أُقَرْمِشُ بَيْنَ الحِصَص: بِزْر وَفُسْتُق.",
     "de": "Zwischen den Stunden knabbere ich: Kerne und Pistazien.",
     "luecke": "أُقَرْمِشُ بَيْنَ الحِصَص",
     "gloss": "أُ·قَرْمِش بَيْنَ ال·حِصَص: بِزْر وَ·فُسْتُق. | 1SG·knabbern zwischen DEF·Stunden: Kerne und·Pistazie.",
     "umschrift": "uqarmish bayna l-ḥiṣaṣ: bizr wa-fustuq.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_12.mp3?v=b8ee88f1"
    },
    "zeit": null,
@@ -5935,12 +6295,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·شْعُر بِ·ال·رَاحَة | 1SG·fühlen mit·DEF·Wohlbefinden",
    "umschrift": "ashʿur bir-rāḥa",
    "wurzel": "ر-و-ح",
+   "ipa": null,
    "satz": {
     "fr": "أَشْعُرُ بِالرَّاحَةِ اليَوْم، بِلا سَبَب.",
     "de": "Ich fühle mich heute wohl, ohne Grund.",
     "luecke": "أَشْعُرُ بِالرَّاحَة",
     "gloss": "أَ·شْعُر بِ·ال·رَاحَة ال·يَوْم، بِ·لا سَبَب. | 1SG·fühlen mit·DEF·Wohlbefinden DEF·Tag, mit·nicht Grund.",
     "umschrift": "ashʿur bir-rāḥa l-yawm, bi-lā sabab.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_13.mp3?v=2de36f3b"
    },
    "zeit": {
@@ -5973,12 +6335,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لِ·نَ·أْخُذ·ِ اسْتِرَاحَة | OPT·1PL·nehmen·JUSS Pause",
    "umschrift": "li-naʾkhudh istirāḥa",
    "wurzel": "أ-خ-ذ",
+   "ipa": null,
    "satz": {
     "fr": "لِنَأْخُذِ اسْتِرَاحَة، الشَّايُ جَاهِز.",
     "de": "Machen wir eine Pause, der Tee ist fertig.",
     "luecke": "لِنَأْخُذِ اسْتِرَاحَة",
     "gloss": "لِ·نَ·أْخُذ·ِ اسْتِرَاحَة، ال·شَاي جَاهِز. | OPT·1PL·nehmen·JUSS Pause, DEF·Tee fertig.",
     "umschrift": "li-naʾkhudh istirāḥa, ash-shāy jāhiz.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_14.mp3?v=9f1a22ef"
    },
    "zeit": null,
@@ -6000,12 +6364,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نِم·ْتُ كَ·ال·قَتِيل | schlafen·1SG wie·DEF·Erschlagener",
    "umschrift": "nimtu ka-l-qatīl",
    "wurzel": "ق-ت-ل",
+   "ipa": null,
    "satz": {
     "fr": "لَيْلَةَ الجُمْعَةِ نِمْتُ كَالقَتِيل، حَتَّى القِطُّ لَمْ يَسْمَعْنِي.",
     "de": "Freitagnacht habe ich geschlafen wie ein Toter, nicht einmal die Katze hat mich gehört.",
     "luecke": "نِمْتُ كَالقَتِيل",
     "gloss": "لَيْلَة·َ ال·جُمْعَة نِم·ْتُ كَ·ال·قَتِيل، حَتَّى ال·قِطّ لَمْ يَ·سْمَع·ْنِي. | Nacht·AKK DEF·Freitag schlafen·1SG wie·DEF·Erschlagener, sogar DEF·Katze nicht.VERG 3SG·hören·mich.",
     "umschrift": "laylat al-jumʿa nimtu ka-l-qatīl, ḥattā l-qiṭṭ lam yasmaʿnī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_15.mp3?v=76ead8d4"
    },
    "zeit": null,
@@ -6027,12 +6393,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَنَا كَ·ال·حِصَان | ich wie·DEF·Pferd",
    "umschrift": "anā ka-l-ḥiṣān",
    "wurzel": "ح-ص-ن",
+   "ipa": null,
    "satz": {
     "fr": "أُسْبُوعُ عُطْلَة، وَالآنَ أَنَا كَالحِصَان.",
     "de": "Eine Woche Ferien, und jetzt bin ich fit wie ein Pferd.",
     "luecke": "أَنَا كَالحِصَان",
     "gloss": "أُسْبُوع·ُ عُطْلَة، وَ·ال·آن أَنَا كَ·ال·حِصَان. | Woche·GEN Ferien, und·DEF·jetzt ich wie·DEF·Pferd.",
     "umschrift": "usbūʿ ʿuṭla, wal-ān anā ka-l-ḥiṣān.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_16.mp3?v=1a0b887f"
    },
    "zeit": {
@@ -6065,12 +6433,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لِ·نَ·أْخُذ·ْ هَوَاء·ً | OPT·1PL·nehmen·JUSS Luft·AKK",
    "umschrift": "li-naʾkhudh hawāʾan",
    "wurzel": "ه-و-ي",
+   "ipa": null,
    "satz": {
     "fr": "لِنَأْخُذْ هَوَاءً، الصَّفُّ كَالفُرْن.",
     "de": "Holen wir Luft, die Klasse ist wie ein Backofen.",
     "luecke": "لِنَأْخُذْ هَوَاءً",
     "gloss": "لِ·نَ·أْخُذ·ْ هَوَاء·ً، ال·صَفّ كَ·ال·فُرْن. | OPT·1PL·nehmen·JUSS Luft·AKK, DEF·Klasse wie·DEF·Ofen.",
     "umschrift": "li-naʾkhudh hawāʾan, aṣ-ṣaff ka-l-furn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_17.mp3?v=9515c932"
    },
    "zeit": null,
@@ -6092,12 +6462,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وَصْفَة·ُ أُمّ·ِي | Rezept·GEN Mutter·mein",
    "umschrift": "waṣfat ummī",
    "wurzel": "و-ص-ف",
+   "ipa": null,
    "satz": {
     "fr": "وَصْفَةُ أُمِّي: مِلْحٌ قَلِيل، صَبْرٌ كَثِير.",
     "de": "Das Rezept meiner Mutter: wenig Salz, viel Geduld.",
     "luecke": "وَصْفَةُ أُمِّي",
     "gloss": "وَصْفَة·ُ أُمّ·ِي: مِلْح قَلِيل، صَبْر كَثِير. | Rezept·GEN Mutter·mein: Salz wenig, Geduld viel.",
     "umschrift": "waṣfat ummī: milḥ qalīl, ṣabr kathīr.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_18.mp3?v=36fe3cd9"
    },
    "zeit": null,
@@ -6119,12 +6491,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ذُقْ، هَلْ يَ·نْقُص·ُهُ مِلْح | koste, FRAGE 3SG·fehlen·ihm Salz",
    "umschrift": "dhuq, hal yanquṣuhu milḥ?",
    "wurzel": "ذ-و-ق",
+   "ipa": null,
    "satz": {
     "fr": "ذُقْ، هَلْ يَنْقُصُهُ مِلْح؟",
     "de": "Probier, fehlt Salz?",
     "luecke": "ذُقْ",
     "gloss": "ذُقْ، هَلْ يَ·نْقُص·ُهُ مِلْح؟ | koste, FRAGE 3SG·fehlen·ihm Salz?",
     "umschrift": "dhuq, hal yanquṣuhu milḥ?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_19.mp3?v=537237ab"
    },
    "zeit": null,
@@ -6146,12 +6520,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "هَذِهِ ال·بَقْلاوَة لَذِيذَة | diese DEF·Baklava köstlich.F",
    "umschrift": "hādhihi l-baqlāwa ladhīdha",
    "wurzel": "ل-ذ-ذ",
+   "ipa": null,
    "satz": {
     "fr": "هَذِهِ البَقْلاوَةُ لَذِيذَة، مَنْ صَنَعَهَا؟",
     "de": "Dieses Baklava ist köstlich, wer hat es gemacht?",
     "luecke": "هَذِهِ البَقْلاوَةُ لَذِيذَة",
     "gloss": "هَذِهِ ال·بَقْلاوَة لَذِيذَة، مَنْ صَنَع·َهَا؟ | diese DEF·Baklava köstlich.F, wer machen·es?",
     "umschrift": "hādhihi l-baqlāwa ladhīdha, man ṣanaʿahā?",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_20.mp3?v=b12c9186"
    },
    "zeit": null,
@@ -6173,12 +6549,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "عَطِش·ْت | durstig.werden·1SG",
    "umschrift": "ʿaṭisht",
    "wurzel": "ع-ط-ش",
+   "ipa": null,
    "satz": {
     "fr": "عَطِشْت، كَأْسُ عَيْرَانٍ مِنْ فَضْلِك.",
     "de": "Ich habe Durst, ein Glas Ayran bitte.",
     "luecke": "عَطِشْت",
     "gloss": "عَطِش·ْت، كَأْس·ُ عَيْرَان مِنْ فَضْل·ِك. | durstig.werden·1SG, Glas·GEN Ayran aus Güte·dein.",
     "umschrift": "ʿaṭisht, kaʾs ʿayrān min faḍlik.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_21.mp3?v=b1994c83"
    },
    "zeit": null,
@@ -6200,12 +6578,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِسْتَيْقَظ·ْتُ عَلَى ال·جَانِب ال·صَحِيح | aufwachen·1SG auf DEF·Seite DEF·richtig",
    "umschrift": "istayqaẓtu ʿalā l-jānib aṣ-ṣaḥīḥ",
    "wurzel": "ي-ق-ظ",
+   "ipa": null,
    "satz": {
     "fr": "اليَوْمَ اسْتَيْقَظْتُ عَلَى الجَانِبِ الصَّحِيح، حَتَّى الشَّايُ أَطْيَب.",
     "de": "Heute bin ich auf der richtigen Seite aufgewacht, sogar der Tee ist besser.",
     "luecke": "عَلَى الجَانِبِ الصَّحِيح",
     "gloss": "ال·يَوْم اسْتَيْقَظ·ْتُ عَلَى ال·جَانِب ال·صَحِيح، حَتَّى ال·شَاي أَطْيَب. | DEF·Tag aufwachen·1SG auf DEF·Seite DEF·richtig, sogar DEF·Tee besser.",
     "umschrift": "al-yawm istayqaẓtu ʿalā l-jānib aṣ-ṣaḥīḥ, ḥattā sh-shāy aṭyab.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_22.mp3?v=d2d7a117"
    },
    "zeit": null,
@@ -6227,12 +6607,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نَفْس·ِي فِي بَقْلاوَة | Seele·mein in Baklava",
    "umschrift": "nafsī fī baqlāwa",
    "wurzel": "ن-ف-س",
+   "ipa": null,
    "satz": {
     "fr": "نَفْسِي فِي بَقْلاوَة، لَكِنَّهَا السَّابِعَةُ مَسَاءً.",
     "de": "Ich habe Lust auf Baklava, aber es ist sieben Uhr abends.",
     "luecke": "نَفْسِي فِي بَقْلاوَة",
     "gloss": "نَفْس·ِي فِي بَقْلاوَة، لَكِنّ·َهَا ال·سَابِعَة مَسَاءً. | Seele·mein in Baklava, aber·sie DEF·siebte abends.",
     "umschrift": "nafsī fī baqlāwa, lākinnahā s-sābiʿa masāʾan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_23.mp3?v=7c44ffe0"
    },
    "zeit": null,
@@ -6254,12 +6636,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "هَلْ يُ·مْكِن·ُنِي أَنْ آ·خُذ·َ كَعْكَة | FRAGE 3SG·möglich.sein·mir dass 1SG·nehmen·KONJ Kaak",
    "umschrift": "hal yumkinunī an ākhudha kaʿka?",
    "wurzel": "م-ك-ن",
+   "ipa": null,
    "satz": {
     "fr": "هَلْ يُمْكِنُنِي أَنْ آخُذَ كَعْكَة؟ بِالسِّمْسِمِ مِنْ فَضْلِك.",
     "de": "Kann ich ein Kaak haben? Mit Sesam bitte.",
     "luecke": "هَلْ يُمْكِنُنِي أَنْ آخُذَ",
     "gloss": "هَلْ يُ·مْكِن·ُنِي أَنْ آ·خُذ·َ كَعْكَة؟ بِ·ال·سِمْسِم مِنْ فَضْل·ِك. | FRAGE 3SG·möglich.sein·mir dass 1SG·nehmen·KONJ Kaak? mit·DEF·Sesam aus Güte·Ihr.",
     "umschrift": "hal yumkinunī an ākhudha kaʿka? bis-simsim min faḍlik.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ta2_24.mp3?v=0e4ae08e"
    },
    "zeit": null,
@@ -6281,12 +6665,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "نَام·َ حَتَّى ال·صَبَاح | schlafen·3SG bis DEF·Morgen",
    "umschrift": "nāma ḥattā ṣ-ṣabāḥ",
    "wurzel": "ن-و-م",
+   "ipa": null,
    "satz": {
     "fr": "الطِّفْلُ نَامَ حَتَّى الصَّبَاح، وَالأَهْلُ مَذْهُولُون.",
     "de": "Das Baby hat bis zum Morgen geschlafen, und die Eltern sind verblüfft.",
     "luecke": "نَامَ حَتَّى الصَّبَاح",
     "gloss": "ال·طِفْل نَام·َ حَتَّى ال·صَبَاح، وَ·ال·أَهْل مَذْهُول·ُون. | DEF·Kind schlafen·3SG bis DEF·Morgen, und·DEF·Eltern verblüfft·PL.",
     "umschrift": "aṭ-ṭifl nāma ḥattā ṣ-ṣabāḥ, wal-ahl madhhūlūn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_01.mp3?v=d629bf6c"
    },
    "zeit": null,
@@ -6308,12 +6694,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·دُبّ فِي ال·سَرِير | DEF·Bär in DEF·Bett",
    "umschrift": "ad-dubb fī s-sarīr",
    "wurzel": "د-ب-ب",
+   "ipa": null,
    "satz": {
     "fr": "الدُّبُّ فِي السَّرِير، وَالطِّفْلُ عَلَى الأَرْض.",
     "de": "Der Teddy liegt im Bett, und das Kind auf dem Boden.",
     "luecke": "الدُّبُّ فِي السَّرِير",
     "gloss": "ال·دُبّ فِي ال·سَرِير، وَ·ال·طِفْل عَلَى ال·أَرْض. | DEF·Bär in DEF·Bett, und·DEF·Kind auf DEF·Boden.",
     "umschrift": "ad-dubb fī s-sarīr, waṭ-ṭifl ʿalā l-arḍ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_02.mp3?v=0c83d6a4"
    },
    "zeit": null,
@@ -6335,12 +6723,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "عَمِل·َ شَقَاوَة | machen·3SG Unfug",
    "umschrift": "ʿamila shaqāwa",
    "wurzel": "ش-ق-و",
+   "ipa": null,
    "satz": {
     "fr": "الصَّغِيرُ عَمِلَ شَقَاوَة، وَالقِطُّ شَرِيكُه.",
     "de": "Der Kleine hat Unsinn angestellt, und die Katze war seine Komplizin.",
     "luecke": "عَمِلَ شَقَاوَة",
     "gloss": "ال·صَغِير عَمِل·َ شَقَاوَة، وَ·ال·قِطّ شَرِيك·ُه. | DEF·Kleine machen·3SG Unfug, und·DEF·Katze Partner·sein.",
     "umschrift": "aṣ-ṣaghīr ʿamila shaqāwa, wal-qiṭṭ sharīkuh.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_03.mp3?v=05a70651"
    },
    "zeit": null,
@@ -6362,12 +6752,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "حَمَل·ْتُ·هُ، فَ·سَكَت·َ فَوْرًا | tragen·1SG·ihn, da·still.werden·3SG sofort",
    "umschrift": "ḥamaltuhu, fa-sakata fawran",
    "wurzel": "ح-م-ل",
+   "ipa": null,
    "satz": {
     "fr": "حِينَ بَكَى حَمَلْتُهُ، فَسَكَتَ فَوْرًا.",
     "de": "Als er weinte, nahm ich ihn hoch, und er war sofort still.",
     "luecke": "حَمَلْتُهُ، فَسَكَتَ فَوْرًا",
     "gloss": "حِينَ بَكَى حَمَل·ْتُ·هُ، فَ·سَكَت·َ فَوْرًا. | als weinte tragen·1SG·ihn, da·still.werden·3SG sofort.",
     "umschrift": "ḥīna bakā ḥamaltuhu, fa-sakata fawran.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_04.mp3?v=dcd7b705"
    },
    "zeit": null,
@@ -6389,12 +6781,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وُلِد·َ طِفْل·ُ ال·جِيرَان | geboren.werden·3SG Kind·GEN DEF·Nachbarn",
    "umschrift": "wulida ṭifl al-jīrān",
    "wurzel": "و-ل-د",
+   "ipa": null,
    "satz": {
     "fr": "وُلِدَ طِفْلُ الجِيرَان، وَالبِنَايَةُ كُلُّهَا ذَهَبَتْ تَرَاه.",
     "de": "Das Baby der Nachbarn ist geboren, und das ganze Haus ging es ansehen.",
     "luecke": "وُلِدَ طِفْلُ الجِيرَان",
     "gloss": "وُلِد·َ طِفْل·ُ ال·جِيرَان، وَ·ال·بِنَايَة كُلّ·ُهَا ذَهَب·َتْ تَ·رَا·ه. | geboren.werden·3SG Kind·GEN DEF·Nachbarn, und·DEF·Gebäude ganz·es gehen·3SG.F 3SG.F·sehen·es.",
     "umschrift": "wulida ṭifl al-jīrān, wal-bināya kulluhā dhahabat tarāh.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_05.mp3?v=85eb5dca"
    },
    "zeit": null,
@@ -6416,12 +6810,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِبْتَسَم·َ لِ·ي ال·طِفْل | lächeln·3SG für·mich DEF·Kind",
    "umschrift": "ibtasama lī ṭ-ṭifl",
    "wurzel": "ب-س-م",
+   "ipa": null,
    "satz": {
     "fr": "اِبْتَسَمَ لِي الطِّفْل، فَنَجَا يَوْمِي.",
     "de": "Das Baby hat mich angelächelt, und mein Tag war gerettet.",
     "luecke": "اِبْتَسَمَ لِي الطِّفْل",
     "gloss": "اِبْتَسَم·َ لِ·ي ال·طِفْل، فَ·نَجَا يَوْم·ِي. | lächeln·3SG für·mich DEF·Kind, da·gerettet.werden Tag·mein.",
     "umschrift": "ibtasama lī ṭ-ṭifl, fa-najā yawmī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_06.mp3?v=aae193cb"
    },
    "zeit": null,
@@ -6443,12 +6839,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·أَطْفَال يَ·كْبَر·ُون بِ·سُرْعَة | DEF·Kinder 3·groß.werden·PL mit·Schnelligkeit",
    "umschrift": "al-aṭfāl yakbarūn bi-surʿa",
    "wurzel": "ك-ب-ر",
+   "ipa": null,
    "satz": {
     "fr": "الأَطْفَالُ يَكْبَرُونَ بِسُرْعَة، وَالبَنَاطِيلُ لا تَلْحَق.",
     "de": "Kinder werden schnell groß, und die Hosen kommen nicht hinterher.",
     "luecke": "الأَطْفَالُ يَكْبَرُونَ",
     "gloss": "ال·أَطْفَال يَ·كْبَر·ُون بِ·سُرْعَة، وَ·ال·بَنَاطِيل لا تَ·لْحَق. | DEF·Kinder 3·groß.werden·PL mit·Schnelligkeit, und·DEF·Hosen nicht 3SG.F·hinterherkommen.",
     "umschrift": "al-aṭfāl yakbarūn bi-surʿa, wal-banāṭīl lā talḥaq.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_07.mp3?v=d94afc68"
    },
    "zeit": {
@@ -6481,12 +6879,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·نَام بِ·صُعُوبَة | 3SG·schlafen mit·Schwierigkeit",
    "umschrift": "yanām bi-ṣuʿūba",
    "wurzel": "ص-ع-ب",
+   "ipa": null,
    "satz": {
     "fr": "الصَّغِيرُ يَنَامُ بِصُعُوبَة: ثَلاثُ حِكَايَاتٍ كُلَّ لَيْلَة.",
     "de": "Der Kleine schläft schlecht ein: drei Märchen jede Nacht.",
     "luecke": "يَنَامُ بِصُعُوبَة",
     "gloss": "ال·صَغِير يَ·نَام بِ·صُعُوبَة: ثَلاث حِكَايَات كُلّ لَيْلَة. | DEF·Kleine 3SG·schlafen mit·Schwierigkeit: drei Märchen jede Nacht.",
     "umschrift": "aṣ-ṣaghīr yanām bi-ṣuʿūba: thalāth ḥikāyāt kull layla.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_08.mp3?v=069ce567"
    },
    "zeit": {
@@ -6519,12 +6919,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "غَيَّر·ْتُ ال·حَفَّاظ | wechseln·1SG DEF·Windel",
    "umschrift": "ghayyartu l-ḥaffāẓ",
    "wurzel": "غ-ي-ر",
+   "ipa": null,
    "satz": {
     "fr": "غَيَّرْتُ الحَفَّاظ، وَبَعْدَ دَقِيقَتَيْنِ مِنْ جَدِيد.",
     "de": "Ich habe die Windel gewechselt, und zwei Minuten später wieder.",
     "luecke": "غَيَّرْتُ الحَفَّاظ",
     "gloss": "غَيَّر·ْتُ ال·حَفَّاظ، وَ·بَعْدَ دَقِيقَت·َيْن مِنْ جَدِيد. | wechseln·1SG DEF·Windel, und·nach Minute·DUAL von neu.",
     "umschrift": "ghayyartu l-ḥaffāẓ, wa-baʿda daqīqatayn min jadīd.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_09.mp3?v=1ed34799"
    },
    "zeit": null,
@@ -6546,12 +6948,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "كُنْ مُؤَدَّب·ًا | sei höflich·AKK",
    "umschrift": "kun muʾaddaban",
    "wurzel": "أ-د-ب",
+   "ipa": null,
    "satz": {
     "fr": "كُنْ مُؤَدَّبًا، خَالَتُكَ قَادِمَة.",
     "de": "Sei brav, deine Tante kommt.",
     "luecke": "كُنْ مُؤَدَّبًا",
     "gloss": "كُنْ مُؤَدَّب·ًا، خَالَت·ُكَ قَادِمَة. | sei höflich·AKK, Tante·dein kommend.F.",
     "umschrift": "kun muʾaddaban, khālatuk qādima.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_10.mp3?v=835554ff"
    },
    "zeit": null,
@@ -6573,12 +6977,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لَعِب·ْنَا ال·غُمَّيْضَة | spielen·1PL DEF·Verstecken",
    "umschrift": "laʿibnā l-ghummayḍa",
    "wurzel": "غ-م-ض",
+   "ipa": null,
    "satz": {
     "fr": "لَعِبْنَا الغُمَّيْضَة، وَالقِطُّ فَازَ دَائِمًا.",
     "de": "Wir haben Verstecken gespielt, und die Katze hat immer gewonnen.",
     "luecke": "لَعِبْنَا الغُمَّيْضَة",
     "gloss": "لَعِب·ْنَا ال·غُمَّيْضَة، وَ·ال·قِطّ فَاز·َ دَائِمًا. | spielen·1PL DEF·Verstecken, und·DEF·Katze gewinnen·3SG immer.",
     "umschrift": "laʿibnā l-ghummayḍa, wal-qiṭṭ fāza dāʾiman.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_11.mp3?v=96476da6"
    },
    "zeit": null,
@@ -6600,12 +7006,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·قْرَأ حِكَايَة، وَ·أَ·نَام أَنَا أَوَّلاً | 1SG·lesen Märchen, und·1SG·schlafen ich zuerst",
    "umschrift": "aqraʾ ḥikāya, wa-anām anā awwalan",
    "wurzel": "ق-ر-أ",
+   "ipa": null,
    "satz": {
     "fr": "كُلَّ مَسَاءٍ أَقْرَأُ حِكَايَة، وَأَنَامُ أَنَا أَوَّلاً.",
     "de": "Jeden Abend lese ich ein Märchen vor, und ich schlafe selbst zuerst ein.",
     "luecke": "أَقْرَأُ حِكَايَة",
     "gloss": "كُلّ مَسَاء أَ·قْرَأ حِكَايَة، وَ·أَ·نَام أَنَا أَوَّلاً. | jeder Abend 1SG·lesen Märchen, und·1SG·schlafen ich zuerst.",
     "umschrift": "kull masāʾ aqraʾ ḥikāya, wa-anām anā awwalan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_12.mp3?v=06394e89"
    },
    "zeit": null,
@@ -6627,12 +7035,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "لا تَ·بْكِ | nicht 2SG·weinen.JUSS",
    "umschrift": "lā tabki",
    "wurzel": "ب-ك-ي",
+   "ipa": null,
    "satz": {
     "fr": "لا تَبْكِ، البُوظَةُ لَمْ تَنْتَهِ، فِي الثَّلَّاجَةِ مِنْهَا.",
     "de": "Wein nicht, das Eis ist nicht alle, im Kühlschrank ist noch welches.",
     "luecke": "لا تَبْكِ",
     "gloss": "لا تَ·بْكِ، ال·بُوظَة لَمْ تَ·نْتَهِ، فِي ال·ثَلَّاجَة مِنْ·هَا. | nicht 2SG·weinen.JUSS, DEF·Eis nicht.VERG 3SG.F·enden.JUSS, in DEF·Kühlschrank von·ihm.",
     "umschrift": "lā tabki, al-būẓa lam tantahi, fī th-thallāja minhā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_13.mp3?v=f8a95fd3"
    },
    "zeit": null,
@@ -6654,12 +7064,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تُ·عَانِق·ُنِي ابْنَت·ِي | 3SG.F·umarmen·mich Tochter·mein",
    "umschrift": "tuʿāniqunī bnatī",
    "wurzel": "ع-ن-ق",
+   "ipa": null,
    "satz": {
     "fr": "حِينَ أَعُودُ تُعَانِقُنِي ابْنَتِي، فَيَذْهَبُ التَّعَب.",
     "de": "Wenn ich heimkomme, umarmt mich meine Tochter, und die Müdigkeit geht.",
     "luecke": "تُعَانِقُنِي ابْنَتِي",
     "gloss": "حِينَ أَ·عُود تُ·عَانِق·ُنِي ابْنَت·ِي، فَ·يَ·ذْهَب ال·تَعَب. | wenn 1SG·zurückkehren 3SG.F·umarmen·mich Tochter·mein, da·3SG·gehen DEF·Müdigkeit.",
     "umschrift": "ḥīna aʿūd tuʿāniqunī bnatī, fa-yadhhab at-taʿab.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_14.mp3?v=85a629f2"
    },
    "zeit": {
@@ -6692,12 +7104,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِبْن·ِي تَعَلَّم·َ ال·مَشْي | Sohn·mein lernen·3SG DEF·Gehen",
    "umschrift": "ibnī taʿallama l-mashy",
    "wurzel": "ع-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "اِبْنِي تَعَلَّمَ المَشْي، لَمْ يَعُدْ شَيْءٌ فِي أَمَان.",
     "de": "Mein Sohn hat laufen gelernt, nichts ist mehr sicher.",
     "luecke": "اِبْنِي تَعَلَّمَ المَشْي",
     "gloss": "اِبْن·ِي تَعَلَّم·َ ال·مَشْي، لَمْ يَ·عُد·ْ شَيْء فِي أَمَان. | Sohn·mein lernen·3SG DEF·Gehen, nicht.VERG 3SG·zurückkehren·JUSS Ding in Sicherheit.",
     "umschrift": "ibnī taʿallama l-mashy, lam yaʿud shayʾ fī amān.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_15.mp3?v=d77d6571"
    },
    "zeit": null,
@@ -6719,12 +7133,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "أَ·فْتَخِر بِ·ابْنَت·ِي | 1SG·stolz.sein auf·Tochter·mein",
    "umschrift": "aftakhir bi-bnatī",
    "wurzel": "ف-خ-ر",
+   "ipa": null,
    "satz": {
     "fr": "أَفْتَخِرُ بِابْنَتِي: اليَوْمَ رَكِبَتِ الدَّرَّاجَةَ لأَوَّلِ مَرَّة.",
     "de": "Ich bin stolz auf meine Tochter: Heute ist sie zum ersten Mal Rad gefahren.",
     "luecke": "أَفْتَخِرُ بِابْنَتِي",
     "gloss": "أَ·فْتَخِر بِ·ابْنَت·ِي: ال·يَوْم رَكِب·َتِ ال·دَرَّاجَة لِ·أَوَّل مَرَّة. | 1SG·stolz.sein auf·Tochter·mein: DEF·Tag fahren·3SG.F DEF·Fahrrad für·erstes Mal.",
     "umschrift": "aftakhir bi-bnatī: al-yawm rakibat id-darrāja li-awwal marra.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_16.mp3?v=7ac1509a"
    },
    "zeit": null,
@@ -6746,12 +7162,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "كَلِمَت·ُهُ ال·أُولَى | Wort·sein DEF·erste",
    "umschrift": "kalimatuhu l-ūlā",
    "wurzel": "ك-ل-م",
+   "ipa": null,
    "satz": {
     "fr": "كَلِمَتُهُ الأُولَى لَمْ تَكُنْ « مَامَا »، بَلْ « بِسّ ».",
     "de": "Sein erstes Wort war nicht « Mama », sondern « biss » (Katze).",
     "luecke": "كَلِمَتُهُ الأُولَى",
     "gloss": "كَلِمَت·ُهُ ال·أُولَى لَمْ تَ·كُن·ْ « مَامَا »، بَلْ « بِسّ ». | Wort·sein DEF·erste nicht.VERG 3SG.F·sein·JUSS « Mama », sondern « Katze ».",
     "umschrift": "kalimatuhu l-ūlā lam takun « māmā », bal « biss ».",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_17.mp3?v=ce3741ff"
    },
    "zeit": null,
@@ -6773,12 +7191,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "اِصْبِر | hab.Geduld",
    "umschrift": "iṣbir",
    "wurzel": "ص-ب-ر",
+   "ipa": null,
    "satz": {
     "fr": "اِصْبِر، سَيَرْبِطُ حِذَاءَهُ بِنَفْسِه.",
     "de": "Hab Geduld, er wird den Schuh selbst binden.",
     "luecke": "اِصْبِر",
     "gloss": "اِصْبِر، سَ·يَ·رْبِط حِذَاء·َهُ بِ·نَفْس·ِه. | hab.Geduld, FUT·3SG·binden Schuh·sein mit·Selbst·sein.",
     "umschrift": "iṣbir, sa-yarbiṭ ḥidhāʾahu bi-nafsih.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_18.mp3?v=551c4d1d"
    },
    "zeit": null,
@@ -6800,12 +7220,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وَجْبَة·ُ ال·عَصْر | Mahlzeit·GEN DEF·Nachmittag",
    "umschrift": "wajbat al-ʿaṣr",
    "wurzel": "و-ج-ب",
+   "ipa": null,
    "satz": {
     "fr": "بَعْدَ المَدْرَسَةِ وَجْبَةُ العَصْر: مَنْقُوشَةٌ وَحَلِيب.",
     "de": "Nach der Schule der Nachmittagssnack: Manousheh und Milch.",
     "luecke": "وَجْبَةُ العَصْر",
     "gloss": "بَعْدَ ال·مَدْرَسَة وَجْبَة·ُ ال·عَصْر: مَنْقُوشَة وَ·حَلِيب. | nach DEF·Schule Mahlzeit·GEN DEF·Nachmittag: Manousheh und·Milch.",
     "umschrift": "baʿda l-madrasa wajbat al-ʿaṣr: manqūsha wa-ḥalīb.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_19.mp3?v=a51755d2"
    },
    "zeit": null,
@@ -6827,12 +7249,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ضَحِك·َ ال·أَطْفَال بِ·صَوْت عَالٍ | lachen·3SG DEF·Kinder mit·Stimme hoch",
    "umschrift": "ḍaḥika l-aṭfāl bi-ṣawt ʿālin",
    "wurzel": "ض-ح-ك",
+   "ipa": null,
    "satz": {
     "fr": "دَخَلَ القِطُّ الصُّنْدُوق، فَضَحِكَ الأَطْفَالُ بِصَوْتٍ عَالٍ.",
     "de": "Die Katze stieg in die Kiste, und die Kinder lachten laut.",
     "luecke": "ضَحِكَ الأَطْفَالُ بِصَوْتٍ عَالٍ",
     "gloss": "دَخَل·َ ال·قِطّ ال·صُنْدُوق، فَ·ضَحِك·َ ال·أَطْفَال بِ·صَوْت عَالٍ. | hineingehen·3SG DEF·Katze DEF·Kiste, da·lachen·3SG DEF·Kinder mit·Stimme hoch.",
     "umschrift": "dakhala l-qiṭṭ aṣ-ṣundūq, fa-ḍaḥika l-aṭfāl bi-ṣawt ʿālin.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_20.mp3?v=a0f3f8a6"
    },
    "zeit": null,
@@ -6854,12 +7278,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "قَيْلُولَة·ُ ال·ظُهْر مُقَدَّسَة | Mittagsschlaf·GEN DEF·Mittag heilig.F",
    "umschrift": "qaylūlat aẓ-ẓuhr muqaddasa",
    "wurzel": "ق-ي-ل",
+   "ipa": null,
    "satz": {
     "fr": "قَيْلُولَةُ الظُّهْرِ مُقَدَّسَة، فِي الرَّوْضَةِ وَفِي غُرْفَةِ المُعَلِّمِين.",
     "de": "Der Mittagsschlaf ist heilig, im Kindergarten und im Lehrerzimmer.",
     "luecke": "قَيْلُولَةُ الظُّهْرِ مُقَدَّسَة",
     "gloss": "قَيْلُولَة·ُ ال·ظُهْر مُقَدَّسَة، فِي ال·رَوْضَة وَ·فِي غُرْفَة·ِ ال·مُعَلِّم·ِين. | Mittagsschlaf·GEN DEF·Mittag heilig.F, in DEF·Kindergarten und·in Zimmer·GEN DEF·Lehrer·PL.",
     "umschrift": "qaylūlat aẓ-ẓuhr muqaddasa, fī r-rawḍa wa-fī ghurfat al-muʿallimīn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_21.mp3?v=b9279f7d"
    },
    "zeit": null,
@@ -6881,12 +7307,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "يَ·خَاف مِنَ ال·ظَلام | 3SG·fürchten von DEF·Dunkelheit",
    "umschrift": "yakhāf min aẓ-ẓalām",
    "wurzel": "خ-و-ف",
+   "ipa": null,
    "satz": {
     "fr": "يَخَافُ مِنَ الظَّلام، وَضَوْءُ اللَّيْلِ مُضَاء.",
     "de": "Er hat Angst im Dunkeln, und das Nachtlicht brennt.",
     "luecke": "يَخَافُ مِنَ الظَّلام",
     "gloss": "يَ·خَاف مِنَ ال·ظَلام، وَ·ضَوْء·ُ ال·لَيْل مُضَاء. | 3SG·fürchten von DEF·Dunkelheit, und·Licht·GEN DEF·Nacht angezündet.",
     "umschrift": "yakhāf min aẓ-ẓalām, wa-ḍawʾ al-layl muḍāʾ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_22.mp3?v=f3b8671c"
    },
    "zeit": {
@@ -6919,12 +7347,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "حَان·َ وَقْت·ُ ال·حَمَّام | kommen·3SG Zeit·GEN DEF·Bad",
    "umschrift": "ḥāna waqt al-ḥammām",
    "wurzel": "ح-ي-ن",
+   "ipa": null,
    "satz": {
     "fr": "حَانَ وَقْتُ الحَمَّام، فَهَرَبَ القِطُّ وَالطِّفْلُ مَعًا.",
     "de": "Es ist Badezeit, da sind Katze und Kind zusammen geflohen.",
     "luecke": "حَانَ وَقْتُ الحَمَّام",
     "gloss": "حَان·َ وَقْت·ُ ال·حَمَّام، فَ·هَرَب·َ ال·قِطّ وَ·ال·طِفْل مَعًا. | kommen·3SG Zeit·GEN DEF·Bad, da·fliehen·3SG DEF·Katze und·DEF·Kind zusammen.",
     "umschrift": "ḥāna waqt al-ḥammām, fa-haraba l-qiṭṭ waṭ-ṭifl maʿan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_23.mp3?v=33501ad9"
    },
    "zeit": null,
@@ -6946,12 +7376,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "كَمْ عُمْر·ُ ابْن·ِكُم | wieviel Alter·GEN Sohn·Ihr",
    "umschrift": "kam ʿumr ibnikum?",
    "wurzel": "ع-م-ر",
+   "ipa": null,
    "satz": {
     "fr": "كَمْ عُمْرُ ابْنِكُم؟ – خَمْسٌ، لَكِنَّهُ يَظُنُّ نَفْسَهُ عَشْرًا.",
     "de": "Wie alt ist Ihr Kind? – Fünf, aber es hält sich für zehn.",
     "luecke": "كَمْ عُمْرُ ابْنِكُم",
     "gloss": "كَمْ عُمْر·ُ ابْن·ِكُم؟ – خَمْس، لَكِنّ·َهُ يَ·ظُنّ نَفْس·َهُ عَشْر·ًا. | wieviel Alter·GEN Sohn·Ihr? – fünf, aber·er 3SG·meinen Selbst·sein zehn·AKK.",
     "umschrift": "kam ʿumr ibnikum? – khams, lākinnahu yaẓunn nafsahu ʿashran.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/at_24.mp3?v=419de2d7"
    },
    "zeit": null,
@@ -6973,12 +7405,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·سُكَّر عَرَبِيّ | DEF·Zucker arabisch",
    "umschrift": "as-sukkar ʿarabī",
    "wurzel": "س-ك-ر",
+   "ipa": null,
    "satz": {
     "fr": "السُّكَّرُ عَرَبِيّ، وَالقَهْوَةُ أَيْضًا.",
     "de": "Der Zucker ist arabisch, und der Kaffee auch.",
     "luecke": "السُّكَّرُ عَرَبِيّ",
     "gloss": "ال·سُكَّر عَرَبِيّ، وَ·ال·قَهْوَة أَيْضًا. | DEF·Zucker arabisch, und·DEF·Kaffee auch.",
     "umschrift": "as-sukkar ʿarabī, wal-qahwa ayḍan.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_01.mp3?v=6054d238"
    },
    "zeit": null,
@@ -7000,12 +7434,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "قَهْوَة وَاحِدَة | Kaffee ein.F",
    "umschrift": "qahwa wāḥida",
    "wurzel": "ق-ه-و",
+   "ipa": null,
    "satz": {
     "fr": "قَهْوَةٌ وَاحِدَة، وَثَلاثُ لُغَاتٍ تَقُولُهَا: Kaffee، café، kahve.",
     "de": "Ein Kaffee, und drei Sprachen sagen es: Kaffee, café, kahve.",
     "luecke": "قَهْوَةٌ وَاحِدَة",
     "gloss": "قَهْوَة وَاحِدَة، وَ·ثَلاث لُغَات تَ·قُول·ُهَا: Kaffee، café، kahve. | Kaffee ein.F, und·drei Sprachen 3SG.F·sagen·es: Kaffee, café, kahve.",
     "umschrift": "qahwa wāḥida, wa-thalāth lughāt taqūluhā: Kaffee, café, kahve.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_02.mp3?v=69e318bb"
    },
    "zeit": null,
@@ -7027,12 +7463,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·كُحُول فِي ال·أَصْل | DEF·Alkohol in DEF·Ursprung",
    "umschrift": "al-kuḥūl fī l-aṣl",
    "wurzel": "ك-ح-ل",
+   "ipa": null,
    "satz": {
     "fr": "الكُحُولُ فِي الأَصْلِ بُودْرَةٌ لِلْعُيُون.",
     "de": "Alkohol war ursprünglich Puder für die Augen.",
     "luecke": "الكُحُولُ فِي الأَصْل",
     "gloss": "ال·كُحُول فِي ال·أَصْل بُودْرَة لِ·ال·عُيُون. | DEF·Alkohol in DEF·Ursprung Puder für·DEF·Augen.",
     "umschrift": "al-kuḥūl fī l-aṣl būdra lil-ʿuyūn.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_03.mp3?v=2c4e528c"
    },
    "zeit": null,
@@ -7054,12 +7492,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·جَبْر مَعْنَا·هُ | DEF·Algebra Bedeutung·sein",
    "umschrift": "al-jabr maʿnāhu",
    "wurzel": "ج-ب-ر",
+   "ipa": null,
    "satz": {
     "fr": "الجَبْرُ مَعْنَاهُ « الإِصْلاح »، اِسْأَلْ طُلَّابِي.",
     "de": "Algebra heißt « das Wiedereinrenken », frag meine Schüler.",
     "luecke": "الجَبْرُ مَعْنَاهُ",
     "gloss": "ال·جَبْر مَعْنَا·هُ « ال·إِصْلاح »، اِسْأَل·ْ طُلَّاب·ِي. | DEF·Algebra Bedeutung·sein « DEF·Reparatur », frag·IMP Studenten·mein.",
     "umschrift": "al-jabr maʿnāhu « al-iṣlāḥ », isʾal ṭullābī.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_04.mp3?v=2489653a"
    },
    "zeit": null,
@@ -7081,12 +7521,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·صِفْر عَرَبِيّ | DEF·Null arabisch",
    "umschrift": "aṣ-ṣifr ʿarabī",
    "wurzel": "ص-ف-ر",
+   "ipa": null,
    "satz": {
     "fr": "الصِّفْرُ عَرَبِيّ، وَبِدُونِهِ لا حِسَاب.",
     "de": "Die Null ist arabisch, und ohne sie keine Rechnung.",
     "luecke": "الصِّفْرُ عَرَبِيّ",
     "gloss": "ال·صِفْر عَرَبِيّ، وَ·بِ·دُون·ِهِ لا حِسَاب. | DEF·Null arabisch, und·mit·ohne·ihm kein Rechnung.",
     "umschrift": "aṣ-ṣifr ʿarabī, wa-bidūnihi lā ḥisāb.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_05.mp3?v=0c30c187"
    },
    "zeit": null,
@@ -7108,12 +7550,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·مَخْزَن صَار·َ مَجَلَّة | DEF·Lager werden·3SG Zeitschrift",
    "umschrift": "al-makhzan ṣāra majalla",
    "wurzel": "خ-ز-ن",
+   "ipa": null,
    "satz": {
     "fr": "المَخْزَنُ صَارَ مَجَلَّةً فِي أُورُوبَّا.",
     "de": "Das Lagerhaus wurde in Europa zur Zeitschrift.",
     "luecke": "المَخْزَنُ صَارَ مَجَلَّة",
     "gloss": "ال·مَخْزَن صَار·َ مَجَلَّة·ً فِي أُورُوبَّا. | DEF·Lager werden·3SG Zeitschrift·AKK in Europa.",
     "umschrift": "al-makhzan ṣāra majallatan fī Ūrūbbā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_06.mp3?v=1cb611f0"
    },
    "zeit": null,
@@ -7135,12 +7579,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "عَلَى ال·مَطْرَح يَ·نَام ال·قِطّ | auf DEF·Matratze 3SG·schlafen DEF·Katze",
    "umschrift": "ʿalā l-maṭraḥ yanām al-qiṭṭ",
    "wurzel": "ط-ر-ح",
+   "ipa": null,
    "satz": {
     "fr": "عَلَى المَطْرَحِ يَنَامُ القِطّ، لا أَنَا.",
     "de": "Auf der Matratze schläft die Katze, nicht ich.",
     "luecke": "عَلَى المَطْرَحِ يَنَامُ القِطّ",
     "gloss": "عَلَى ال·مَطْرَح يَ·نَام ال·قِطّ، لا أَنَا. | auf DEF·Matratze 3SG·schlafen DEF·Katze, nicht ich.",
     "umschrift": "ʿalā l-maṭraḥ yanām al-qiṭṭ, lā anā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_07.mp3?v=60f98b7f"
    },
    "zeit": null,
@@ -7162,12 +7608,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·لَيْمُون فِي ال·شُورْبَة | DEF·Zitrone in DEF·Suppe",
    "umschrift": "al-laymūn fī sh-shūrba",
    "wurzel": "ل-ي-م",
+   "ipa": null,
    "satz": {
     "fr": "اللَّيْمُونُ فِي الشُّورْبَة، فِي الشَّاي، فِي كُلِّ شَيْء.",
     "de": "Die Zitrone in der Suppe, im Tee, in allem.",
     "luecke": "اللَّيْمُونُ فِي الشُّورْبَة",
     "gloss": "ال·لَيْمُون فِي ال·شُورْبَة، فِي ال·شَاي، فِي كُلّ شَيْء. | DEF·Zitrone in DEF·Suppe, in DEF·Tee, in jeder Ding.",
     "umschrift": "al-laymūn fī sh-shūrba, fī sh-shāy, fī kull shayʾ.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_08.mp3?v=1660f8c8"
    },
    "zeit": null,
@@ -7189,12 +7637,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·قُطْن مِنْ مِصْر | DEF·Baumwolle aus Ägypten",
    "umschrift": "al-quṭn min Miṣr",
    "wurzel": "ق-ط-ن",
+   "ipa": null,
    "satz": {
     "fr": "القُطْنُ مِنْ مِصْر، وَالكَلِمَةُ مِنَ العَرَب.",
     "de": "Die Baumwolle kommt aus Ägypten, und das Wort von den Arabern.",
     "luecke": "القُطْنُ مِنْ مِصْر",
     "gloss": "ال·قُطْن مِنْ مِصْر، وَ·ال·كَلِمَة مِنَ ال·عَرَب. | DEF·Baumwolle aus Ägypten, und·DEF·Wort von DEF·Araber.",
     "umschrift": "al-quṭn min Miṣr, wal-kalima min al-ʿarab.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_09.mp3?v=d513d52a"
    },
    "zeit": null,
@@ -7216,12 +7666,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "تَعْرِيفَة·ُ ال·حَافِلَة | Tarif·GEN DEF·Bus",
    "umschrift": "taʿrīfat al-ḥāfila",
    "wurzel": "ع-ر-ف",
+   "ipa": null,
    "satz": {
     "fr": "تَعْرِيفَةُ الحَافِلَةِ ارْتَفَعَتْ مِنْ جَدِيد.",
     "de": "Der Bustarif ist schon wieder gestiegen.",
     "luecke": "تَعْرِيفَةُ الحَافِلَة",
     "gloss": "تَعْرِيفَة·ُ ال·حَافِلَة اِرْتَفَع·َتْ مِنْ جَدِيد. | Tarif·GEN DEF·Bus steigen·3SG.F von neu.",
     "umschrift": "taʿrīfat al-ḥāfila rtafaʿat min jadīd.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_10.mp3?v=9f03451d"
    },
    "zeit": {
@@ -7254,12 +7706,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·أَمِير صَار·َ أَمِيرَال·اً | DEF·Emir werden·3SG Admiral·AKK",
    "umschrift": "al-amīr ṣāra amīrālan",
    "wurzel": "أ-م-ر",
+   "ipa": null,
    "satz": {
     "fr": "الأَمِيرُ صَارَ أَمِيرَالاً فِي البَحْر.",
     "de": "Der Emir wurde zum Admiral auf See.",
     "luecke": "الأَمِيرُ صَارَ أَمِيرَالاً",
     "gloss": "ال·أَمِير صَار·َ أَمِيرَال·اً فِي ال·بَحْر. | DEF·Emir werden·3SG Admiral·AKK in DEF·Meer.",
     "umschrift": "al-amīr ṣāra amīrālan fī l-baḥr.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_11.mp3?v=c0d153e2"
    },
    "zeit": null,
@@ -7281,12 +7735,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·مَسْجِد ال·أُمَوِيّ | DEF·Moschee DEF·umayyadisch",
    "umschrift": "al-masjid al-umawī",
    "wurzel": "س-ج-د",
+   "ipa": null,
    "satz": {
     "fr": "المَسْجِدُ الأُمَوِيُّ فِي قَلْبِ دِمَشْق.",
     "de": "Die Umayyaden-Moschee liegt im Herzen von Damaskus.",
     "luecke": "المَسْجِدُ الأُمَوِيُّ فِي قَلْبِ دِمَشْق",
     "gloss": "ال·مَسْجِد ال·أُمَوِيّ فِي قَلْب·ِ دِمَشْق. | DEF·Moschee DEF·umayyadisch in Herz·GEN Damaskus.",
     "umschrift": "al-masjid al-umawī fī qalb Dimashq.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_12.mp3?v=2740f75c"
    },
    "zeit": null,
@@ -7308,12 +7764,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·كِتَاب نَفْس·ُهُ | DEF·Buch selbst·sein",
    "umschrift": "al-kitāb nafsuhu",
    "wurzel": "ك-ت-ب",
+   "ipa": null,
    "satz": {
     "fr": "الكِتَابُ نَفْسُهُ فِي اسْطَنْبُولَ وَدِمَشْق: kitap.",
     "de": "Dasselbe Wort für Buch in Istanbul und Damaskus: kitap.",
     "luecke": "الكِتَابُ نَفْسُهُ",
     "gloss": "ال·كِتَاب نَفْس·ُهُ فِي اسْطَنْبُول وَ·دِمَشْق: kitap. | DEF·Buch selbst·sein in Istanbul und·Damaskus: kitap.",
     "umschrift": "al-kitāb nafsuhu fī Isṭanbūl wa-Dimashq: kitap.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_13.mp3?v=a4b6dfa2"
    },
    "zeit": null,
@@ -7335,12 +7793,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·سَاعَة كَلِمَة تُرْكِيَّة أَيْضًا | DEF·Stunde Wort türkisch.F auch",
    "umschrift": "as-sāʿa kalima turkiyya ayḍan",
    "wurzel": "س-و-ع",
+   "ipa": null,
    "satz": {
     "fr": "السَّاعَةُ كَلِمَةٌ تُرْكِيَّةٌ أَيْضًا، وَصَبْرُكَ عَلَيْهَا طَوِيل.",
     "de": "Saat ist auch ein türkisches Wort, und deine Geduld mit ihm ist lang.",
     "luecke": "السَّاعَةُ كَلِمَةٌ تُرْكِيَّةٌ أَيْضًا",
     "gloss": "ال·سَاعَة كَلِمَة تُرْكِيَّة أَيْضًا، وَ·صَبْر·ُكَ عَلَيْ·هَا طَوِيل. | DEF·Stunde Wort türkisch.F auch, und·Geduld·dein auf·ihr lang.",
     "umschrift": "as-sāʿa kalima turkiyya ayḍan, wa-ṣabruk ʿalayhā ṭawīl.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_14.mp3?v=7bc026d1"
    },
    "zeit": null,
@@ -7362,12 +7822,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·صَبْر مِفْتَاح·ُ ال·فَرَج | DEF·Geduld Schlüssel·GEN DEF·Erlösung",
    "umschrift": "aṣ-ṣabr miftāḥ al-faraj",
    "wurzel": "ص-ب-ر",
+   "ipa": null,
    "satz": {
     "fr": "الصَّبْرُ مِفْتَاحُ الفَرَج، يَقُولُ المَثَل.",
     "de": "Geduld ist der Schlüssel zur Erlösung, sagt das Sprichwort.",
     "luecke": "الصَّبْرُ مِفْتَاحُ الفَرَج",
     "gloss": "ال·صَبْر مِفْتَاح·ُ ال·فَرَج، يَ·قُول ال·مَثَل. | DEF·Geduld Schlüssel·GEN DEF·Erlösung, 3SG·sagen DEF·Sprichwort.",
     "umschrift": "aṣ-ṣabr miftāḥ al-faraj, yaqūl al-mathal.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_15.mp3?v=5235b33b"
    },
    "zeit": null,
@@ -7389,12 +7851,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "حِكَايَة بِ·ال·عَرَبِيَّة | Geschichte in·DEF·Arabisch",
    "umschrift": "ḥikāya bil-ʿarabiyya",
    "wurzel": "ح-ك-ي",
+   "ipa": null,
    "satz": {
     "fr": "حِكَايَةٌ بِالعَرَبِيَّة، hikâye بِالتُّرْكِيَّة، وَالقِطُّ فِي كِلْتَيْهِمَا.",
     "de": "Ḥikāya auf Arabisch, hikâye auf Türkisch, und die Katze in beiden.",
     "luecke": "حِكَايَةٌ بِالعَرَبِيَّة",
     "gloss": "حِكَايَة بِ·ال·عَرَبِيَّة، hikâye بِ·ال·تُرْكِيَّة، وَ·ال·قِطّ فِي كِلْتَيْ·هِمَا. | Geschichte in·DEF·Arabisch, hikâye in·DEF·Türkisch, und·DEF·Katze in beide·ihnen.",
     "umschrift": "ḥikāya bil-ʿarabiyya, hikâye bit-turkiyya, wal-qiṭṭ fī kiltayhimā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_16.mp3?v=b705511b"
    },
    "zeit": null,
@@ -7416,12 +7880,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·دُنْيَا صَغِيرَة | DEF·Welt klein.F",
    "umschrift": "ad-dunyā ṣaghīra",
    "wurzel": "د-ن-و",
+   "ipa": null,
    "satz": {
     "fr": "الدُّنْيَا صَغِيرَة، وَالكَلِمَاتُ تُسَافِر.",
     "de": "Die Welt ist klein, und die Wörter reisen.",
     "luecke": "الدُّنْيَا صَغِيرَة",
     "gloss": "ال·دُنْيَا صَغِيرَة، وَ·ال·كَلِمَات تُ·سَافِر. | DEF·Welt klein.F, und·DEF·Wörter 3SG.F·reisen.",
     "umschrift": "ad-dunyā ṣaghīra, wal-kalimāt tusāfir.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_17.mp3?v=49470c79"
    },
    "zeit": null,
@@ -7443,12 +7909,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "زَيْت·ُ ال·زَيْتُون | Öl·GEN DEF·Oliven",
    "umschrift": "zayt az-zaytūn",
    "wurzel": "ز-ي-ت",
+   "ipa": null,
    "satz": {
     "fr": "زَيْتُ الزَّيْتُونِ مِنَ الشَّام، وَالكَلِمَةُ فِي إِسْبَانِيَا.",
     "de": "Das Olivenöl kommt aus der Levante, und das Wort ist in Spanien.",
     "luecke": "زَيْتُ الزَّيْتُون",
     "gloss": "زَيْت·ُ ال·زَيْتُون مِنَ ال·شَام، وَ·ال·كَلِمَة فِي إِسْبَانِيَا. | Öl·GEN DEF·Oliven aus DEF·Levante, und·DEF·Wort in Spanien.",
     "umschrift": "zayt az-zaytūn min ash-Shām, wal-kalima fī Isbāniyā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_18.mp3?v=e615c2d2"
    },
    "zeit": null,
@@ -7470,12 +7938,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "وَادِي ال·كَبِير | Tal DEF·große",
    "umschrift": "wādī l-kabīr",
    "wurzel": "و-د-ي",
+   "ipa": null,
    "satz": {
     "fr": "وَادِي الكَبِيرِ نَهْرٌ فِي الأَنْدَلُس: Guadalquivir.",
     "de": "Der große Fluss in Andalusien: Guadalquivir.",
     "luecke": "وَادِي الكَبِير",
     "gloss": "وَادِي ال·كَبِير نَهْر فِي ال·أَنْدَلُس: Guadalquivir. | Tal DEF·große Fluss in DEF·Andalusien: Guadalquivir.",
     "umschrift": "wādī l-kabīr nahr fī l-Andalus: Guadalquivir.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_19.mp3?v=0e8ac421"
    },
    "zeit": null,
@@ -7497,12 +7967,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "« إِنْ شَاءَ الله » نَفْس·ُهَا | « wenn wollte Gott » selbst·sie",
    "umschrift": "« in shāʾa llāh » nafsuhā",
    "wurzel": "ش-ي-أ",
+   "ipa": null,
    "satz": {
     "fr": "« ojalá » الإِسْبَانِيَّةُ هِيَ « إِنْ شَاءَ الله » نَفْسُهَا.",
     "de": "Das spanische « ojalá » ist genau « in schā' Allāh ».",
     "luecke": "« إِنْ شَاءَ الله » نَفْسُهَا",
     "gloss": "« ojalá » ال·إِسْبَانِيَّة هِيَ « إِنْ شَاءَ الله » نَفْس·ُهَا. | « ojalá » DEF·spanisch.F sie « wenn wollte Gott » selbst·sie.",
     "umschrift": "« ojalá » al-isbāniyya hiya « in shāʾa llāh » nafsuhā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_20.mp3?v=9735608a"
    },
    "zeit": null,
@@ -7524,12 +7996,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·جَمَل وَ·ال·جَمَال | DEF·Kamel und·DEF·Schönheit",
    "umschrift": "al-jamal wal-jamāl",
    "wurzel": "ج-م-ل",
+   "ipa": null,
    "satz": {
     "fr": "الجَمَلُ وَالجَمَالُ مِنْ جَذْرٍ وَاحِد: ج م ل.",
     "de": "Kamel und Schönheit kommen aus einer Wurzel: j-m-l.",
     "luecke": "الجَمَلُ وَالجَمَال",
     "gloss": "ال·جَمَل وَ·ال·جَمَال مِنْ جَذْر وَاحِد: ج م ل. | DEF·Kamel und·DEF·Schönheit aus Wurzel eine: j m l.",
     "umschrift": "al-jamal wal-jamāl min jadhr wāḥid: j m l.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_21.mp3?v=2b3c4279"
    },
    "zeit": null,
@@ -7551,12 +8025,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·زَعْفَرَان أَغْلَى مِنَ ال·ذَهَب | DEF·Safran teurer als DEF·Gold",
    "umschrift": "az-zaʿfarān aghlā min adh-dhahab",
    "wurzel": "ز-ع-ف-ر",
+   "ipa": null,
    "satz": {
     "fr": "الزَّعْفَرَانُ أَغْلَى مِنَ الذَّهَبِ بِالغَرَام.",
     "de": "Safran ist pro Gramm teurer als Gold.",
     "luecke": "الزَّعْفَرَانُ أَغْلَى مِنَ الذَّهَب",
     "gloss": "ال·زَعْفَرَان أَغْلَى مِنَ ال·ذَهَب بِ·ال·غَرَام. | DEF·Safran teurer als DEF·Gold mit·DEF·Gramm.",
     "umschrift": "az-zaʿfarān aghlā min adh-dhahab bil-ghrām.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_22.mp3?v=5dbc88ab"
    },
    "zeit": null,
@@ -7578,12 +8054,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "ال·قِيثَارَة مِنَ ال·يُونَان | DEF·Gitarre aus DEF·Griechenland",
    "umschrift": "al-qīthāra min al-Yūnān",
    "wurzel": "ق-ث-ر",
+   "ipa": null,
    "satz": {
     "fr": "القِيثَارَةُ مِنَ اليُونَان، وَمَرَّتْ بِالعَرَبِ إِلَى إِسْبَانِيَا.",
     "de": "Die Gitarre kommt aus Griechenland und ging über die Araber nach Spanien.",
     "luecke": "القِيثَارَةُ مِنَ اليُونَان",
     "gloss": "ال·قِيثَارَة مِنَ ال·يُونَان، وَ·مَرّ·َتْ بِ·ال·عَرَب إِلَى إِسْبَانِيَا. | DEF·Gitarre aus DEF·Griechenland, und·vorbeikommen·3SG.F bei·DEF·Araber nach Spanien.",
     "umschrift": "al-qīthāra min al-Yūnān, wa-marrat bil-ʿarab ilā Isbāniyā.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_23.mp3?v=fd3c221b"
    },
    "zeit": null,
@@ -7605,12 +8083,14 @@ window.SPRACHEN["ar-de"] = {
    "gloss": "فِي ال·مَجْلِس يُ·شْرَب ال·شَاي | in DEF·Rat PASS·trinken DEF·Tee",
    "umschrift": "fī l-majlis yushrab ash-shāy",
    "wurzel": "ج-ل-س",
+   "ipa": null,
    "satz": {
     "fr": "فِي المَجْلِسِ يُشْرَبُ الشَّاي، وَيُتَّخَذُ القَرَارُ لاحِقًا، حَضْرَتُك.",
     "de": "Im Madschlis wird Tee getrunken, und die Entscheidung fällt später, mein Herr.",
     "luecke": "فِي المَجْلِسِ يُشْرَبُ الشَّاي",
     "gloss": "فِي ال·مَجْلِس يُ·شْرَب ال·شَاي، وَ·يُ·تَّخَذ ال·قَرَار لاحِقًا، حَضْرَت·ُك. | in DEF·Rat PASS·trinken DEF·Tee, und·PASS·fassen DEF·Entscheidung später, Gegenwart·Ihr.",
     "umschrift": "fī l-majlis yushrab ash-shāy, wa-yuttakhadh al-qarār lāḥiqan, ḥaḍratuk.",
+    "ipa": null,
     "audio": "audio/ar-de/saetze/ka_24.mp3?v=a0f6ba2f"
    },
    "zeit": null,

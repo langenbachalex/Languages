@@ -71,7 +71,7 @@
     document.title = `${U.app} · ${D.name}`;
     const n = document.querySelectorAll(".niveau button");
     n[0].textContent = D.kurz; n[1].textContent = `+ ${D.hilfe_kurz}`;   // kurz, damit zwei Sprachreihen und der Schalter auf ein Handy passen
-    tempoKnopf.hidden = !D.tempo; tempoAnzeige();
+    tempoKnopf.hidden = !D.tempo; tempoAnzeige(); ipaAnzeige();
     document.querySelectorAll(".sprachen button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.paar === paar)));
     if (start) { lage = null; seance = null; startseite(); }
   }
@@ -79,10 +79,14 @@
   const tempoAktuell = () => (D.tempo && !stand.tempo[stand.paar] ? D.tempo : 1);
   const tempoKnopf = el("button", { type: "button", class: "tempo", hidden: true, title: "Tempo", onclick: () => { stand.tempo[stand.paar] = !stand.tempo[stand.paar]; speichern(); tempoAnzeige(); } });
   function tempoAnzeige() { const t = tempoAktuell(); tempoKnopf.textContent = t < 1 ? `🐢 ${String(t).replace(".", ",")}×` : "🔊 1×"; tempoKnopf.setAttribute("aria-pressed", String(t < 1)); }
-  // rechte Spalte der Leiste: Hilfe-Schalter oben, Tempo darunter (passt zu den zwei Sprachreihen)
+  // Lautschrift-Schalter: nur in Sprachen mit IPA-Daten (Französisch), gilt für alle Seiten, wie der Hilfe-Schalter
+  const ipaKnopf = el("button", { type: "button", class: "tempo ipa-knopf", hidden: true, title: "IPA", "aria-pressed": "false",
+    onclick: () => { stand.ipa = !stand.ipa; speichern(); ipaAnzeige(); if (ansicht) { leise = true; try { ansicht(); } finally { leise = false; } } } }, "[IPA]");
+  const ipaAnzeige = () => { ipaKnopf.hidden = !D.wendungen.some((w) => w.ipa); ipaKnopf.setAttribute("aria-pressed", String(!!stand.ipa)); };
+  // rechte Spalte der Leiste: Hilfe-Schalter oben, Tempo bzw. IPA darunter (passt zu den zwei Sprachreihen)
   const rechts = el("div", { class: "rechts" });
   const niveauEl = document.querySelector(".niveau");
-  niveauEl.replaceWith(rechts); rechts.append(niveauEl, tempoKnopf);
+  niveauEl.replaceWith(rechts); rechts.append(niveauEl, tempoKnopf, ipaKnopf);
   const sprachLeiste = document.querySelector(".sprachen");
   PAARE.forEach((p) => sprachLeiste.append(el("button", { type: "button", "data-paar": p, "aria-pressed": "false", title: PAKETE[p].name,
     onclick: () => { if (p !== stand.paar) setzeSprache(p); } }, PAKETE[p].flagge + " " + PAKETE[p].kurz)));
@@ -246,7 +250,9 @@
   const registerSchild = (w) => w.register === "vous" && el("span", { class: "register", title: U.poli_titel }, U.poli);
   const notiz = (w) => [w.notiz && el("p", { class: "notiz", lang: D.lang_hilfe }, "💡 ", w.notiz), syrisch(w)];
   // Arabisch: Umschrift unter der Schrift, Wurzel neben der Wendung, syrische Variante mit Knopf « Şām »
-  const umschrift = (o, klasse = "umschrift") => (o && o.umschrift ? el("p", { class: klasse }, o.umschrift) : null);
+  // Umschrift (Arabisch) oder Lautschrift IPA (Französisch: Wendung und Beispielsatz, zuschaltbar mit « [IPA] », Mr. Alex 15.11.)
+  const umschrift = (o, klasse = "umschrift") => (o && o.umschrift ? el("p", { class: klasse }, o.umschrift)
+    : o && o.ipa && stand.ipa ? el("p", { class: "ipa" + (klasse.includes("klein") ? " klein" : ""), translate: "no" }, `[${o.ipa}]`) : null);
   const wurzel = (w) => w.wurzel && el("span", { class: "wurzel", lang: D.lang, title: U.wurzel_titel || "" }, w.wurzel);
   function syrisch(w) {
     const sy = w && w.syrisch;
@@ -447,7 +453,7 @@
       ...D.dialoge.flatMap((d) => d.zeilen.map((z) => ({ id: "s:" + z.id, fr: z.fr, de: z.de, audio: z.audio, umschrift: z.umschrift, bereich: "dialog:" + d.id }))),
       ...D.geschichte.flatMap((k) => k.absaetze.map((a) => ({ id: "s:" + a.id, fr: a.fr.replace(/\*\*/g, ""), de: a.de, audio: a.audio, umschrift: a.umschrift, kapitel: k.nr }))),
       ...(D.anekdoten || []).flatMap((k) => k.absaetze.map((a) => ({ id: "s:" + a.id, fr: a.fr, de: a.de, audio: a.audio, umschrift: a.umschrift, anekdote: k.nr }))),
-      ...D.wendungen.flatMap((w) => [{ id: "s:w." + w.id, fr: w.satz.fr, de: w.satz.de, audio: w.satz.audio, umschrift: w.satz.umschrift, von: w.id },
+      ...D.wendungen.flatMap((w) => [{ id: "s:w." + w.id, fr: w.satz.fr, de: w.satz.de, audio: w.satz.audio, umschrift: w.satz.umschrift, ipa: w.satz.ipa, von: w.id },
         ...(w.zeit ? ["pc", "fp"].map((z) => ({ id: `s:${z}.${w.id}`, fr: w.zeit[z].fr, de: null, audio: w.zeit[z].audio, umschrift: w.zeit[z].umschrift, von: w.id, zeitVon: z })) : [])]),
     ];
     satzPool = [];

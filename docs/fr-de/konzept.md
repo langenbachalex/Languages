@@ -101,3 +101,7 @@ Dialoge: Mr. Alex' Stimme spricht beide Rollen. **[OFFEN]** Aurélien fragen, ob
 3. Titel: Delikatessen-Reihe so in Ordnung, oder Tour de France?
 4. Reihenfolge (Mr. Alex, 13.10.): **1. Dialoge mit Aurélien (mit Humor) · 2. Frankreich-Karte · 3. Nasallaute.** Lob-Liste: `docs/francais/lob-vorschlag.md` (zum Absegnen).
 5. Früherer Vorschlag: Audios erzeugen (174 Dateien, ca. 5.100 Zeichen), Veröffentlichung unter `/franzoesisch/` (Option A, 13.10.: Französisch-Branch in den Hauptbranch `claude/awesome-dijkstra-dy57ir` mergen), dann Dialoge mit Aurélien und die Frankreich-Karte.
+
+
+## Lautschrift IPA (15.11.2026, Mr. Alex)
+Nur Wendungen und ihre Beispielsätze (Spalten `ipa_w` und `ipa` in den Themen-TSV), zuschaltbar mit « [IPA] » oben rechts (nur Französisch, gilt für alle Seiten, `stand.ipa`). In Schritt 2 und 3 verdeckt wie die Umschrift. Erzeugt mit espeak-ng, Betonungszeichen entfernt, [ɥ] ergänzt, von Claude durchgesehen: falsche Bindungen (fois‿un, héros‿a, mais‿elle …), Fremdwörter (kung-fu, rythme, fantasy, jogging), Varianten mit « / ». Für künftige Wendungen: gleiche Pipeline, dann durchsehen.

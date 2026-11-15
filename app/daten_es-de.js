@@ -632,12 +632,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta tarde corrijo exámenes de primero.",
     "de": "Heute Nachmittag korrigiere ich Arbeiten der Ersten.",
     "luecke": "corrijo exámenes",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_01.mp3?v=45ee522c"
    },
    "zeit": {
@@ -666,12 +668,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Después de seis horas de clase, estoy hecho polvo.",
     "de": "Nach sechs Stunden Unterricht bin ich fix und fertig.",
     "luecke": "hecho polvo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_02.mp3?v=bd947e30"
    },
    "zeit": {
@@ -700,12 +704,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bueno, ¿qué tal ha ido la clase con los de cuarto?",
     "de": "Und, wie ist die Stunde mit den Viertklässlern gelaufen?",
     "luecke": "qué tal ha ido",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_03.mp3?v=7c17cdce"
    },
    "zeit": null,
@@ -723,12 +729,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Doy clase de inglés toda la mañana.",
     "de": "Ich unterrichte den ganzen Vormittag Englisch.",
     "luecke": "Doy clase",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_04.mp3?v=59786107"
    },
    "zeit": {
@@ -757,12 +765,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿Nos vemos en la sala de profes en el recreo?",
     "de": "Sehen wir uns in der Pause im Lehrerzimmer?",
     "luecke": "el recreo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_05.mp3?v=a81d45fe"
    },
    "zeit": null,
@@ -780,12 +790,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tengo muchas ganas de que lleguen las vacaciones.",
     "de": "Ich kann die Ferien kaum erwarten.",
     "luecke": "Tengo muchas ganas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_06.mp3?v=14496e5a"
    },
    "zeit": {
@@ -814,12 +826,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estoy harto de reuniones que no terminan nunca.",
     "de": "Ich habe die Nase voll von Besprechungen, die nie enden.",
     "luecke": "Estoy harto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_07.mp3?v=5c962196"
    },
    "zeit": null,
@@ -837,12 +851,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Me cuesta hacerlos callar los viernes por la tarde.",
     "de": "Freitagnachmittags fällt es mir schwer, sie ruhig zu kriegen.",
     "luecke": "Me cuesta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_08.mp3?v=888e7d02"
    },
    "zeit": {
@@ -871,12 +887,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¡Hola Diego! ¡Cuánto tiempo!",
     "de": "Hallo Diego! Lange nicht gesehen!",
     "luecke": "Cuánto tiempo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_09.mp3?v=906ee9e7"
    },
    "zeit": null,
@@ -894,12 +912,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El profe de gimnasia está malo, o sea, me toca su clase a mí.",
     "de": "Der Sportlehrer ist krank, also übernehme ich seine Klasse.",
     "luecke": "o sea",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_10.mp3?v=86f58833"
    },
    "zeit": {
@@ -928,12 +948,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En realidad, mis alumnos de cuarto me caen muy bien.",
     "de": "Eigentlich mag ich meine Viertklässler sehr.",
     "luecke": "En realidad",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_11.mp3?v=55766ddf"
    },
    "zeit": null,
@@ -951,12 +973,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Es agotador, pero de todas formas me encanta este trabajo.",
     "de": "Es ist anstrengend, aber trotzdem liebe ich diesen Beruf.",
     "luecke": "de todas formas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_12.mp3?v=16af14e1"
    },
    "zeit": null,
@@ -974,12 +998,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Preparar una buena clase lleva tiempo, pero merece la pena.",
     "de": "Eine gute Stunde vorzubereiten dauert, aber es lohnt sich.",
     "luecke": "merece la pena",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_13.mp3?v=880970e1"
    },
    "zeit": {
@@ -1008,12 +1034,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Los alumnos se apañan bien solos.",
     "de": "Die Schüler kommen allein gut zurecht.",
     "luecke": "se apañan",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_14.mp3?v=1a1a3b09"
    },
    "zeit": {
@@ -1042,12 +1070,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoy los de primero iban a tope.",
     "de": "Heute waren die Erstklässler voll dabei.",
     "luecke": "a tope",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_15.mp3?v=43466325"
    },
    "zeit": null,
@@ -1065,12 +1095,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Entrego los exámenes el lunes.",
     "de": "Ich gebe die Arbeiten am Montag zurück.",
     "luecke": "Entrego los exámenes",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_16.mp3?v=b2685a5f"
    },
    "zeit": {
@@ -1099,12 +1131,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tenemos una reunión a las cuatro, ¿vienes?",
     "de": "Wir haben um vier eine Konferenz, kommst du?",
     "luecke": "una reunión",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_17.mp3?v=24c86046"
    },
    "zeit": null,
@@ -1122,12 +1156,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿Se te ha olvidado mi libro? No pasa nada.",
     "de": "Du hast mein Buch vergessen? Macht nichts.",
     "luecke": "No pasa nada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_18.mp3?v=8c9eecc4"
    },
    "zeit": null,
@@ -1145,12 +1181,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tómate tu tiempo, tenemos toda la tarde.",
     "de": "Lass dir Zeit, wir haben den ganzen Nachmittag.",
     "luecke": "Tómate tu tiempo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_19.mp3?v=53260814"
    },
    "zeit": null,
@@ -1168,12 +1206,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En la sala de profes siempre hay café. Y siempre está frío.",
     "de": "Im Lehrerzimmer gibt es immer Kaffee. Und er ist immer kalt.",
     "luecke": "sala de profes",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_20.mp3?v=15fa46a0"
    },
    "zeit": null,
@@ -1191,12 +1231,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿Me echas una mano con las fotocopias?",
     "de": "Hilfst du mir mit den Kopien?",
     "luecke": "echas una mano",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_21.mp3?v=ef959eea"
    },
    "zeit": {
@@ -1225,12 +1267,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Paso lista y faltan tres. Los tres de siempre.",
     "de": "Ich prüfe die Anwesenheit, und drei fehlen. Die üblichen drei.",
     "luecke": "Paso lista",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_22.mp3?v=f4acb754"
    },
    "zeit": {
@@ -1259,12 +1303,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Me lío con los nombres de los de primero. Son treinta.",
     "de": "Ich komme mit den Namen der Erstklässler durcheinander. Es sind dreißig.",
     "luecke": "Me lío",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_23.mp3?v=6126f02c"
    },
    "zeit": {
@@ -1293,12 +1339,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Perdone, ¿podría usted indicarme dónde está la sala de profes?",
     "de": "Entschuldigung, könnten Sie mir zeigen, wo das Lehrerzimmer ist?",
     "luecke": "podría usted indicarme",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/pr_24.mp3?v=0fcfafdc"
    },
    "zeit": null,
@@ -1316,12 +1364,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta canción me llega cada vez que la oigo.",
     "de": "Dieses Lied geht mir jedes Mal nahe, wenn ich es höre.",
     "luecke": "me llega",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_01.mp3?v=64a85527"
    },
    "zeit": {
@@ -1350,12 +1400,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Los domingos por la tarde suelo estar de bajón.",
     "de": "Sonntagnachmittags bin ich oft niedergeschlagen.",
     "luecke": "de bajón",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_02.mp3?v=d4f1c270"
    },
    "zeit": {
@@ -1384,12 +1436,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Me gustan las historias oscuras, con un bosque y un secreto.",
     "de": "Ich mag düstere Geschichten, mit einem Wald und einem Geheimnis.",
     "luecke": "oscuras",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_03.mp3?v=965d39ab"
    },
    "zeit": null,
@@ -1407,12 +1461,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta pieza de piano es melancólica, pero tan bonita.",
     "de": "Dieses Klavierstück ist melancholisch, aber so schön.",
     "luecke": "melancólica",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_04.mp3?v=aeae2acf"
    },
    "zeit": null,
@@ -1430,12 +1486,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Ver a un niño llorar solo me parte el alma.",
     "de": "Ein Kind ganz allein weinen zu sehen, bricht mir das Herz.",
     "luecke": "me parte el alma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_05.mp3?v=1b6078a1"
    },
    "zeit": {
@@ -1464,12 +1522,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Al final del concierto estaba emocionado hasta las lágrimas.",
     "de": "Am Ende des Konzerts war ich zu Tränen gerührt.",
     "luecke": "emocionado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_06.mp3?v=9b8b3ee7"
    },
    "zeit": null,
@@ -1487,12 +1547,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La casa estaba en silencio. Era inquietante.",
     "de": "Das Haus war still. Es war unheimlich.",
     "luecke": "inquietante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_07.mp3?v=64bb2313"
    },
    "zeit": null,
@@ -1510,12 +1572,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El ronroneo de mi gato es relajante.",
     "de": "Das Schnurren meiner Katze ist beruhigend.",
     "luecke": "relajante",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_08.mp3?v=bd55c5a9"
    },
    "zeit": null,
@@ -1533,12 +1597,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuando oigo esa voz, se me saltan las lágrimas.",
     "de": "Wenn ich diese Stimme höre, kommen mir die Tränen.",
     "luecke": "se me saltan las lágrimas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_09.mp3?v=828119db"
    },
    "zeit": {
@@ -1567,12 +1633,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El estribillo me pone la piel de gallina.",
     "de": "Der Refrain gibt mir Gänsehaut.",
     "luecke": "me pone la piel de gallina",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_10.mp3?v=df5a25ab"
    },
    "zeit": {
@@ -1601,12 +1669,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No tengo miedo de la oscuridad, sino del silencio.",
     "de": "Ich habe keine Angst vor der Dunkelheit, sondern vor der Stille.",
     "luecke": "tengo miedo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_11.mp3?v=0a5adb6a"
    },
    "zeit": {
@@ -1635,12 +1705,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta mañana estoy de buen humor: ha salido el sol.",
     "de": "Heute Morgen bin ich gut gelaunt: Die Sonne ist da.",
     "luecke": "de buen humor",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_12.mp3?v=bbad8226"
    },
    "zeit": {
@@ -1669,12 +1741,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No le hables, está de mal humor.",
     "de": "Sprich ihn nicht an, er ist schlecht gelaunt.",
     "luecke": "de mal humor",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_13.mp3?v=44e94de9"
    },
    "zeit": null,
@@ -1692,12 +1766,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Echo de menos a mis gatos cuando estoy de viaje.",
     "de": "Ich vermisse meine Katzen, wenn ich unterwegs bin.",
     "luecke": "Echo de menos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_14.mp3?v=d735d7c1"
    },
    "zeit": {
@@ -1726,12 +1802,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Después de ese día, tengo un nudo en la garganta.",
     "de": "Nach diesem Tag habe ich einen Kloß im Hals.",
     "luecke": "tengo un nudo en la garganta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_15.mp3?v=d461bf99"
    },
    "zeit": {
@@ -1760,12 +1838,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El final de la película es conmovedor.",
     "de": "Das Ende des Films ist zutiefst bewegend.",
     "luecke": "conmovedor",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_16.mp3?v=0e803527"
    },
    "zeit": null,
@@ -1783,12 +1863,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Después del kung-fu me siento bien, ligero.",
     "de": "Nach dem Kung-Fu fühle ich mich gut, leicht.",
     "luecke": "me siento bien",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_17.mp3?v=ba299587"
    },
    "zeit": {
@@ -1817,12 +1899,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Se ha ido, y tengo el corazón encogido.",
     "de": "Sie ist gegangen, und mir ist schwer ums Herz.",
     "luecke": "tengo el corazón encogido",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_18.mp3?v=cc24478e"
    },
    "zeit": {
@@ -1851,12 +1935,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La lluvia sobre Sevilla me pone un poco triste.",
     "de": "Der Regen über Sevilla macht mich ein bisschen traurig.",
     "luecke": "me pone",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_19.mp3?v=e59596c1"
    },
    "zeit": {
@@ -1885,12 +1971,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Me encanta el claroscuro en los cuadros del Prado.",
     "de": "Ich liebe das Hell-Dunkel in den Gemälden im Prado.",
     "luecke": "claroscuro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_20.mp3?v=24c3ad3d"
    },
    "zeit": null,
@@ -1908,12 +1996,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Por la tarde, el patio está tranquilo.",
     "de": "Am Nachmittag ist der Innenhof ruhig.",
     "luecke": "tranquilo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_21.mp3?v=dbdc40ca"
    },
    "zeit": null,
@@ -1931,12 +2021,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El pasillo vacío del museo era angustioso.",
     "de": "Der leere Gang im Museum war beklemmend.",
     "luecke": "angustioso",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_22.mp3?v=abf6e043"
    },
    "zeit": null,
@@ -1954,12 +2046,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tiene mucha pena desde que murió su gato.",
     "de": "Er ist sehr traurig, seit seine Katze gestorben ist.",
     "luecke": "Tiene mucha pena",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_23.mp3?v=80b2b414"
    },
    "zeit": {
@@ -1988,12 +2082,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Lo siento mucho, señora, no quería molestarla.",
     "de": "Es tut mir sehr leid, Señora, ich wollte Sie nicht stören.",
     "luecke": "Lo siento mucho",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/se_24.mp3?v=28373152"
    },
    "zeit": null,
@@ -2011,12 +2107,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi gato ronronea en cuanto me siento.",
     "de": "Meine Katze schnurrt, sobald ich mich hinsetze.",
     "luecke": "ronronea",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_01.mp3?v=b472247c"
    },
    "zeit": {
@@ -2045,12 +2143,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Por la noche viene a hacerme mimos en el sofá.",
     "de": "Abends kommt sie auf dem Sofa zu mir zum Schmusen.",
     "luecke": "hacerme mimos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_02.mp3?v=f3f5c0ad"
    },
    "zeit": {
@@ -2079,12 +2179,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuidado, araña si lo acaricias demasiado tiempo.",
     "de": "Vorsicht, er kratzt, wenn man ihn zu lange streichelt.",
     "luecke": "araña",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_03.mp3?v=a6151ad1"
    },
    "zeit": {
@@ -2113,12 +2215,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Después de comer, se asea durante diez minutos.",
     "de": "Nach dem Essen putzt er sich zehn Minuten lang.",
     "luecke": "se asea",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_04.mp3?v=7dced8ed"
    },
    "zeit": {
@@ -2147,12 +2251,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Maúlla delante de la puerta de la cocina a las seis de la mañana.",
     "de": "Sie miaut um sechs Uhr morgens vor der Küchentür.",
     "luecke": "Maúlla",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_05.mp3?v=fa233e9d"
    },
    "zeit": {
@@ -2181,12 +2287,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Según él, siempre tiene hambre.",
     "de": "Wenn es nach ihm geht, hat er immer Hunger.",
     "luecke": "tiene hambre",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_06.mp3?v=60360508"
    },
    "zeit": {
@@ -2215,12 +2323,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Acaricio a mi gata detrás de las orejas; le encanta.",
     "de": "Ich streichle meine Katze hinter den Ohren; das liebt sie.",
     "luecke": "Acaricio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_07.mp3?v=cf7f4f53"
    },
    "zeit": {
@@ -2249,12 +2359,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Se afila las uñas en el sillón, nunca en el rascador.",
     "de": "Er wetzt seine Krallen am Sessel, nie am Kratzbaum.",
     "luecke": "Se afila las uñas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_08.mp3?v=fbb27ec5"
    },
    "zeit": {
@@ -2283,12 +2395,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un gato es un pequeño felino que decidió vivir con nosotros.",
     "de": "Eine Katze ist eine kleine Raubkatze, die beschlossen hat, bei uns zu leben.",
     "luecke": "felino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_09.mp3?v=4fd6f747"
    },
    "zeit": null,
@@ -2306,12 +2420,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi gato echa la siesta dieciséis horas al día. Qué vida.",
     "de": "Meine Katze macht sechzehn Stunden am Tag Nickerchen. Was für ein Leben.",
     "luecke": "echa la siesta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_10.mp3?v=20425c88"
    },
    "zeit": {
@@ -2340,12 +2456,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Se restriega contra mis piernas cuando llego a casa.",
     "de": "Sie reibt sich an meinen Beinen, wenn ich nach Hause komme.",
     "luecke": "Se restriega contra",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_11.mp3?v=9e584310"
    },
    "zeit": {
@@ -2374,12 +2492,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Prefiere el pienso del vecino al suyo.",
     "de": "Er mag das Trockenfutter des Nachbarn lieber als seins.",
     "luecke": "pienso",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_12.mp3?v=13a35920"
    },
    "zeit": null,
@@ -2397,12 +2517,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A mediodía toca comida húmeda, y él lo sabe.",
     "de": "Mittags gibt es Nassfutter, und das weiß er.",
     "luecke": "comida húmeda",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_13.mp3?v=43b249b0"
    },
    "zeit": null,
@@ -2420,12 +2542,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tiene una mirada que dice: « Llegas tarde ».",
     "de": "Sie hat einen Blick, der sagt: „Du bist spät dran.“",
     "luecke": "Tiene una mirada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_14.mp3?v=a53f7ae5"
    },
    "zeit": null,
@@ -2443,12 +2567,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Salta a la mesa mientras corrijo exámenes.",
     "de": "Er springt auf den Tisch, während ich Arbeiten korrigiere.",
     "luecke": "Salta a",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_15.mp3?v=94efc7f6"
    },
    "zeit": {
@@ -2477,12 +2603,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuando sale la aspiradora, se esconde debajo de la cama.",
     "de": "Wenn der Staubsauger rauskommt, versteckt sie sich unterm Bett.",
     "luecke": "se esconde",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_16.mp3?v=2ca8ab85"
    },
    "zeit": {
@@ -2511,12 +2639,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mis gatos me hacen compañía cuando preparo las clases.",
     "de": "Meine Katzen leisten mir Gesellschaft, wenn ich Unterricht vorbereite.",
     "luecke": "me hacen compañía",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_17.mp3?v=f8b5fafd"
    },
    "zeit": {
@@ -2545,12 +2675,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No es un gato de raza, es un gato callejero, y es perfecto.",
     "de": "Es ist keine Rassekatze, es ist eine Straßenkatze, und er ist perfekt.",
     "luecke": "gato callejero",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_18.mp3?v=335fd35c"
    },
    "zeit": null,
@@ -2568,12 +2700,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuando no estoy, hacen travesuras.",
     "de": "Wenn ich nicht da bin, stellen sie Unsinn an.",
     "luecke": "hacen travesuras",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_19.mp3?v=e538e876"
    },
    "zeit": {
@@ -2602,12 +2736,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En el veterinario, mi gato se vuelve muy, muy tranquilo.",
     "de": "Beim Tierarzt wird meine Katze sehr, sehr ruhig.",
     "luecke": "veterinario",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_20.mp3?v=41a127a2"
    },
    "zeit": null,
@@ -2625,12 +2761,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Desafino, pero a él no le importa. Bueno, creo.",
     "de": "Ich singe schief, aber das stört ihn nicht. Glaube ich zumindest.",
     "luecke": "no le importa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_21.mp3?v=3d8fdb74"
    },
    "zeit": null,
@@ -2648,12 +2786,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un gato es independiente. Vuelve cuando tiene hambre.",
     "de": "Eine Katze ist unabhängig. Sie kommt zurück, wenn sie Hunger hat.",
     "luecke": "independiente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_22.mp3?v=90b5ac29"
    },
    "zeit": null,
@@ -2671,12 +2811,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Al sol, ronronea de gusto con los ojos cerrados.",
     "de": "In der Sonne schnurrt sie vor Wohlbehagen, mit geschlossenen Augen.",
     "luecke": "ronronea de gusto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_23.mp3?v=80b2335b"
    },
    "zeit": {
@@ -2705,12 +2847,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Perdone, señora, ¿tiene usted gato? Hay uno en su tejado.",
     "de": "Entschuldigung, Señora, haben Sie eine Katze? Da sitzt eine auf Ihrem Dach.",
     "luecke": "tiene usted gato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ga_24.mp3?v=213e2521"
    },
    "zeit": null,
@@ -2728,12 +2872,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi hermano canta afinado; yo canto con el corazón.",
     "de": "Mein Bruder singt sauber; ich singe mit dem Herzen.",
     "luecke": "canta afinado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_01.mp3?v=e0daba1d"
    },
    "zeit": {
@@ -2762,12 +2908,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Desafino, pero canto fuerte. Compensa.",
     "de": "Ich singe schief, aber laut. Das gleicht es aus.",
     "luecke": "Desafino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_02.mp3?v=9c949f8c"
    },
    "zeit": {
@@ -2796,12 +2944,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No me sé la letra, pero el estribillo sí.",
     "de": "Ich kenne den Text nicht, aber den Refrain schon.",
     "luecke": "estribillo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_03.mp3?v=5d9f1402"
    },
    "zeit": null,
@@ -2819,12 +2969,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La letra de esta canción me pone la piel de gallina.",
     "de": "Der Text dieses Liedes gibt mir Gänsehaut.",
     "luecke": "letra",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_04.mp3?v=df941fca"
    },
    "zeit": null,
@@ -2842,12 +2994,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En español, esta frase suena bien. En alemán, menos.",
     "de": "Auf Spanisch klingt dieser Satz gut. Auf Deutsch weniger.",
     "luecke": "suena bien",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_05.mp3?v=61c09b99"
    },
    "zeit": {
@@ -2876,12 +3030,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Diego tiene oído: nota mi acento alemán enseguida.",
     "de": "Diego hat ein gutes Gehör: Er merkt meinen deutschen Akzent sofort.",
     "luecke": "tiene oído",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_06.mp3?v=1648a922"
    },
    "zeit": null,
@@ -2899,12 +3055,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi acento es una mezcla de Sarre y buena voluntad.",
     "de": "Mein Akzent ist eine Mischung aus Saarland und gutem Willen.",
     "luecke": "acento",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_07.mp3?v=d0566da4"
    },
    "zeit": null,
@@ -2922,12 +3080,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Lo que me gusta del español es la música del idioma.",
     "de": "Was ich am Spanischen liebe, ist die Musik der Sprache.",
     "luecke": "música del idioma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_08.mp3?v=5b469e52"
    },
    "zeit": null,
@@ -2945,12 +3105,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿Tocas algún instrumento? – Sí, la guitarra, mal.",
     "de": "Spielst du ein Instrument? – Ja, Gitarre, schlecht.",
     "luecke": "Tocas algún instrumento",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_09.mp3?v=c96b284c"
    },
    "zeit": {
@@ -2979,12 +3141,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Llevo tres días escuchando esta canción en bucle.",
     "de": "Ich höre dieses Lied seit drei Tagen in Dauerschleife.",
     "luecke": "en bucle",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_10.mp3?v=778d1608"
    },
    "zeit": {
@@ -3013,12 +3177,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tengo « Ne me quitte pas » en la cabeza desde esta mañana. Gracias, Aurélien.",
     "de": "Ich habe seit heute Morgen „Ne me quitte pas“ als Ohrwurm. Danke, Aurélien.",
     "luecke": "en la cabeza",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_11.mp3?v=763cc48e"
    },
    "zeit": null,
@@ -3036,12 +3202,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tarareo mientras corrijo exámenes. Los alumnos no lo saben.",
     "de": "Ich summe beim Korrigieren. Die Schüler wissen das nicht.",
     "luecke": "Tarareo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_12.mp3?v=58403f45"
    },
    "zeit": {
@@ -3070,12 +3238,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El español tiene ritmo: todas las sílabas duran lo mismo.",
     "de": "Das Spanische hat Rhythmus: Alle Silben sind gleich lang.",
     "luecke": "ritmo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_13.mp3?v=60ee72f0"
    },
    "zeit": null,
@@ -3093,12 +3263,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿Lo ves? La pregunta sube. La entonación lo dice todo.",
     "de": "Siehst du? Die Frage steigt. Die Satzmelodie sagt alles.",
     "luecke": "entonación",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_14.mp3?v=2aa26816"
    },
    "zeit": null,
@@ -3116,12 +3288,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "No consigo pronunciar « ferrocarril ». Digo « ferocaril ».",
     "de": "Ich kann „ferrocarril“ nicht aussprechen. Ich sage „ferocaril“.",
     "luecke": "pronunciar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_15.mp3?v=a70aeff6"
    },
    "zeit": {
@@ -3150,12 +3324,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta pieza de piano me pone contento y triste a la vez.",
     "de": "Dieses Klavierstück macht mich gleichzeitig froh und traurig.",
     "luecke": "pieza",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_16.mp3?v=d147058d"
    },
    "zeit": null,
@@ -3173,12 +3349,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En el coche canto a grito pelado. Solo. Siempre solo.",
     "de": "Im Auto singe ich aus voller Kehle. Allein. Immer allein.",
     "luecke": "a grito pelado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_17.mp3?v=f8057485"
    },
    "zeit": null,
@@ -3196,12 +3374,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Él tiene una voz grave, ella una voz aguda, y yo una voz de profe.",
     "de": "Er hat eine tiefe Stimme, sie eine hohe, und ich habe eine Lehrerstimme.",
     "luecke": "voz grave",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_18.mp3?v=52f8b1ab"
    },
    "zeit": null,
@@ -3219,12 +3399,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta canción me llega. No lo entiendo todo, pero me llega.",
     "de": "Dieses Lied spricht mich an. Ich verstehe nicht alles, aber es spricht mich an.",
     "luecke": "me llega",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_19.mp3?v=99dc766d"
    },
    "zeit": {
@@ -3253,12 +3435,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Aprendo las letras de memoria; es mi vocabulario preferido.",
     "de": "Ich lerne die Liedtexte auswendig; das ist mein liebstes Vokabular.",
     "luecke": "Aprendo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_20.mp3?v=d56fc364"
    },
    "zeit": {
@@ -3287,12 +3471,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Me equivoco de palabra a menudo, pero la melodía es correcta.",
     "de": "Ich erwische oft das falsche Wort, aber die Melodie stimmt.",
     "luecke": "Me equivoco",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_21.mp3?v=667ed9fb"
    },
    "zeit": {
@@ -3321,12 +3507,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cantar por la noche me sienta bien.",
     "de": "Abends singen tut mir gut.",
     "luecke": "me sienta bien",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_22.mp3?v=826d72a7"
    },
    "zeit": {
@@ -3355,12 +3543,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El andaluz es un idioma cantarín. Incluso cuando se quejan.",
     "de": "Das Andalusische ist eine singende Sprache. Sogar wenn sie sich beschweren.",
     "luecke": "cantarín",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_23.mp3?v=928c0714"
    },
    "zeit": null,
@@ -3378,12 +3568,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Perdone, ¿podría repetir más despacio? Oigo la música, no las palabras.",
     "de": "Entschuldigung, könnten Sie das langsamer wiederholen? Ich höre die Musik, nicht die Wörter.",
     "luecke": "podría repetir",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/mu_24.mp3?v=b1e14dbd"
    },
    "zeit": null,
@@ -3401,12 +3593,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Érase una vez un profesor que nunca corregía exámenes. Es un cuento.",
     "de": "Es war einmal ein Lehrer, der nie seine Arbeiten korrigierte. Das ist ein Märchen.",
     "luecke": "Érase una vez",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_01.mp3?v=b69f3e43"
    },
    "zeit": null,
@@ -3424,12 +3618,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Por la noche le cuento una historia a mi gato. Se duerme antes del final.",
     "de": "Abends erzähle ich meiner Katze eine Geschichte. Sie schläft vor dem Ende ein.",
     "luecke": "cuento una historia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_02.mp3?v=4fdc1ab5"
    },
    "zeit": {
@@ -3458,12 +3654,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Toda buena novela empieza con una búsqueda. Aunque sea buscar las llaves.",
     "de": "Jeder gute Roman beginnt mit einer Suche. Auch wenn es nur um die Schlüssel geht.",
     "luecke": "búsqueda",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_03.mp3?v=8f4a4f07"
    },
    "zeit": null,
@@ -3481,12 +3679,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En lo más profundo del bosque había una casa. Y en la casa, una luz.",
     "de": "Tief im Wald stand ein Haus. Und im Haus brannte ein Licht.",
     "luecke": "En lo más profundo del bosque",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_04.mp3?v=e198dd29"
    },
    "zeit": null,
@@ -3504,12 +3704,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El dragón no escupía fuego. Escupía deberes.",
     "de": "Der Drache spuckte kein Feuer. Er spuckte Hausaufgaben.",
     "luecke": "dragón",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_05.mp3?v=0f3d5b4a"
    },
    "zeit": null,
@@ -3527,12 +3729,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El héroe cogió su espada. Pesaba como un lunes.",
     "de": "Der Held nahm sein Schwert. Es war schwer wie ein Montag.",
     "luecke": "espada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_06.mp3?v=fcbec36a"
    },
    "zeit": null,
@@ -3550,12 +3754,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un hechizo convirtió la clase en silencio. Duró solo tres minutos.",
     "de": "Ein Zauber verwandelte die Klasse in Stille. Es hielt nur drei Minuten.",
     "luecke": "hechizo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_07.mp3?v=587bcb91"
    },
    "zeit": {
@@ -3584,12 +3790,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "De repente, la puerta se abrió. Nadie. Solo el viento. Bueno, eso espero.",
     "de": "Plötzlich ging die Tür auf. Niemand. Nur der Wind. Hoffe ich zumindest.",
     "luecke": "De repente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_08.mp3?v=f76891f9"
    },
    "zeit": null,
@@ -3607,12 +3815,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Todos tienen un secreto en esta historia. Hasta el gato.",
     "de": "Jeder in dieser Geschichte hat ein Geheimnis. Sogar die Katze.",
     "luecke": "tienen un secreto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_09.mp3?v=ecde312e"
    },
    "zeit": null,
@@ -3630,12 +3840,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En aquel reino, los libros hablaban y la gente escuchaba.",
     "de": "In jenem Königreich sprachen die Bücher, und die Menschen hörten zu.",
     "luecke": "reino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_10.mp3?v=73499bbf"
    },
    "zeit": null,
@@ -3653,12 +3865,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "La bruja no era mala. Estaba cansada. La entiendo.",
     "de": "Die Hexe war nicht böse. Sie war müde. Ich verstehe sie.",
     "luecke": "bruja",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_11.mp3?v=b2b632d4"
    },
    "zeit": null,
@@ -3676,12 +3890,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A medianoche, el profe se convierte en lector. Hasta las dos de la mañana.",
     "de": "Um Mitternacht verwandelt sich der Lehrer in einen Leser. Bis zwei Uhr morgens.",
     "luecke": "se convierte en",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_12.mp3?v=206bc44d"
    },
    "zeit": {
@@ -3710,12 +3926,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "De pronto, silencio. Luego una voz: « Profe, ¿cuándo es el recreo? ».",
     "de": "Auf einmal Stille. Dann eine Stimme: „Lehrer, wann ist Pause?“",
     "luecke": "De pronto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_13.mp3?v=b095d871"
    },
    "zeit": null,
@@ -3733,12 +3951,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El héroe de mi novela favorita tiene miedo de todo. Por eso es valiente.",
     "de": "Der Held meines Lieblingsromans hat vor allem Angst. Deshalb ist er mutig.",
     "luecke": "héroe",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_14.mp3?v=ad58e061"
    },
    "zeit": null,
@@ -3756,12 +3976,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El malo de la historia es el despertador. Las seis. Cada día.",
     "de": "Der Bösewicht der Geschichte ist der Wecker. Sechs Uhr. Jeden Tag.",
     "luecke": "malo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_15.mp3?v=dc35dbe5"
    },
    "zeit": null,
@@ -3779,12 +4001,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Encontré un mapa del tesoro en un cuaderno. Era un plano del comedor.",
     "de": "Ich habe eine Schatzkarte in einem Heft gefunden. Es war ein Plan der Mensa.",
     "luecke": "mapa del tesoro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_16.mp3?v=7258df42"
    },
    "zeit": {
@@ -3813,12 +4037,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Dicen que la sala 13 existe. Dicen también que el gato duerme allí.",
     "de": "Es heißt, Saal 13 gibt es. Es heißt auch, die Katze schläft dort.",
     "luecke": "Dicen que",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_17.mp3?v=edd38fab"
    },
    "zeit": null,
@@ -3836,12 +4062,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En esta novela, la gente desaparece. En mi clase, los bolígrafos.",
     "de": "In diesem Roman verschwinden Menschen. In meiner Klasse sind es die Stifte.",
     "luecke": "desaparece",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_18.mp3?v=047c20f7"
    },
    "zeit": {
@@ -3870,12 +4098,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Quiero leer la continuación ahora mismo. Pero es medianoche. Leo la continuación.",
     "de": "Ich will sofort die Fortsetzung lesen. Aber es ist Mitternacht. Ich lese die Fortsetzung.",
     "luecke": "continuación",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_19.mp3?v=0628c307"
    },
    "zeit": null,
@@ -3893,12 +4123,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Este libro me tiene en vilo desde hace tres noches.",
     "de": "Dieses Buch hält mich seit drei Nächten in Atem.",
     "luecke": "me tiene en vilo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_20.mp3?v=033261cb"
    },
    "zeit": {
@@ -3927,12 +4159,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Me estremezco en cada capítulo. Y sigo. Eso es la fantasía.",
     "de": "Ich schaudere bei jedem Kapitel. Und lese weiter. Das ist Fantasy.",
     "luecke": "Me estremezco",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_21.mp3?v=8e527110"
    },
    "zeit": {
@@ -3961,12 +4195,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un giro en la página 200: el gato era el rey desde el principio.",
     "de": "Eine Wendung auf Seite 200: Die Katze war von Anfang an der König.",
     "luecke": "giro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_22.mp3?v=5a938695"
    },
    "zeit": null,
@@ -3984,12 +4220,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿El final de esta historia? No lo cuento. Lee el libro.",
     "de": "Das Ende dieser Geschichte? Ich verrate es nicht. Lies das Buch.",
     "luecke": "final",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_23.mp3?v=6ba0b21b"
    },
    "zeit": null,
@@ -4007,12 +4245,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Buenos días, ¿me podría recomendar un libro? Un poco oscuro, un poco mágico.",
     "de": "Guten Tag, könnten Sie mir ein Buch empfehlen? Ein bisschen düster, ein bisschen magisch.",
     "luecke": "me podría recomendar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/hi_24.mp3?v=25ffaab8"
    },
    "zeit": null,
@@ -4030,12 +4270,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Entreno tres veces por semana. Dos, si soy sincero.",
     "de": "Ich trainiere dreimal die Woche. Zweimal, wenn ich ehrlich bin.",
     "luecke": "Entreno",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_01.mp3?v=e8a8457f"
    },
    "zeit": {
@@ -4064,12 +4306,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Una buena patada es, ante todo, una buena posición.",
     "de": "Ein guter Tritt ist zuerst ein guter Stand.",
     "luecke": "patada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_02.mp3?v=d377646e"
    },
    "zeit": null,
@@ -4087,12 +4331,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En kung-fu, el puñetazo sale de la cadera, no del brazo.",
     "de": "Im Kung-Fu kommt der Fausthieb aus der Hüfte, nicht aus dem Arm.",
     "luecke": "puñetazo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_03.mp3?v=d718ddcf"
    },
    "zeit": null,
@@ -4110,12 +4356,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A los cuarenta, la flexibilidad se trabaja cada día. Si no, se va.",
     "de": "Mit vierzig muss man die Beweglichkeit täglich üben. Sonst geht sie.",
     "luecke": "flexibilidad",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_04.mp3?v=caf0de96"
    },
    "zeit": null,
@@ -4133,12 +4381,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En el combate como en clase: mantener la calma, respirar, esperar.",
     "de": "Im Kampf wie in der Klasse: ruhig bleiben, atmen, abwarten.",
     "luecke": "mantener la calma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_05.mp3?v=3131d2d9"
    },
    "zeit": {
@@ -4167,12 +4417,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Antes de entrenar, caliento diez minutos. Mi espalda me lo agradece.",
     "de": "Vor dem Training wärme ich mich zehn Minuten auf. Mein Rücken dankt es mir.",
     "luecke": "caliento",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_06.mp3?v=f352c668"
    },
    "zeit": {
@@ -4201,12 +4453,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Al día siguiente tengo agujetas por todas partes. Hasta en las orejas.",
     "de": "Am nächsten Tag habe ich überall Muskelkater. Sogar in den Ohren.",
     "luecke": "tengo agujetas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_07.mp3?v=2214cd4a"
    },
    "zeit": {
@@ -4235,12 +4489,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Por la mañana estoy en forma. Por la tarde soy profe.",
     "de": "Morgens bin ich fit. Nachmittags bin ich Lehrer.",
     "luecke": "en forma",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_08.mp3?v=c1624ac2"
    },
    "zeit": {
@@ -4269,12 +4525,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Aguantar la postura del jinete dos minutos: sencillo. No fácil.",
     "de": "Die Reiterstellung zwei Minuten halten: einfach. Nicht leicht.",
     "luecke": "Aguantar la postura",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_09.mp3?v=daa765c7"
    },
    "zeit": null,
@@ -4292,12 +4550,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En kung-fu, todo empieza por la respiración. En clase también.",
     "de": "Im Kung-Fu beginnt alles mit der Atmung. In der Klasse auch.",
     "luecke": "respiración",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_10.mp3?v=a5de0a63"
    },
    "zeit": null,
@@ -4315,12 +4575,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi maestro dice: « Despacio es rápido ». Todavía no lo he entendido.",
     "de": "Mein Meister sagt: „Langsam ist schnell.“ Ich habe es noch nicht verstanden.",
     "luecke": "maestro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_11.mp3?v=f04594b8"
    },
    "zeit": null,
@@ -4338,12 +4600,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Aprendo una secuencia nueva. Doce movimientos. Me sé cuatro.",
     "de": "Ich lerne eine neue Form. Zwölf Bewegungen. Vier kann ich.",
     "luecke": "secuencia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_12.mp3?v=b63edc34"
    },
    "zeit": {
@@ -4372,12 +4636,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esquivar es mejor que bloquear. También funciona en las reuniones.",
     "de": "Ausweichen ist besser als blocken. Das funktioniert auch in Konferenzen.",
     "luecke": "Esquivar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_13.mp3?v=99494883"
    },
    "zeit": null,
@@ -4395,12 +4661,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Después de entrenar, sudo como una fuente. Una fuente feliz.",
     "de": "Nach dem Training schwitze ich wie ein Brunnen. Ein glücklicher Brunnen.",
     "luecke": "sudo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_14.mp3?v=fe811578"
    },
    "zeit": {
@@ -4429,12 +4697,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Nunca me lesiono. Salvo abriendo una lata de comida para gatos.",
     "de": "Ich verletze mich nie. Außer beim Öffnen einer Dose Katzenfutter.",
     "luecke": "me lesiono",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_15.mp3?v=ed35cb79"
    },
    "zeit": {
@@ -4463,12 +4733,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estiro por la noche, delante de la tele. El gato me mira, perplejo.",
     "de": "Ich dehne mich abends vor dem Fernseher. Die Katze schaut ratlos zu.",
     "luecke": "Estiro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_16.mp3?v=05e5b747"
    },
    "zeit": {
@@ -4497,12 +4769,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Entre dos series, recupero el aliento. Durante un buen rato.",
     "de": "Zwischen zwei Sätzen komme ich wieder zu Atem. Lange.",
     "luecke": "recupero el aliento",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_17.mp3?v=c80e2d03"
    },
    "zeit": {
@@ -4531,12 +4805,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A la pata coja tengo equilibrio. Con dos pies, depende del día.",
     "de": "Auf einem Bein habe ich Gleichgewicht. Auf zweien hängt es vom Tag ab.",
     "luecke": "tengo equilibrio",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_18.mp3?v=5830f0d4"
    },
    "zeit": null,
@@ -4554,12 +4830,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El domingo por la mañana salgo a correr. El domingo por la tarde me arrepiento.",
     "de": "Sonntagmorgens gehe ich laufen. Sonntagabends bereue ich es.",
     "luecke": "salgo a correr",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_19.mp3?v=f4f10318"
    },
    "zeit": {
@@ -4588,12 +4866,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El cinturón no hace al maestro. Pero sujeta el pantalón.",
     "de": "Der Gürtel macht nicht den Meister. Aber er hält die Hose.",
     "luecke": "cinturón",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_20.mp3?v=b08cd3ea"
    },
    "zeit": null,
@@ -4611,12 +4891,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hago progresos. Despacio. Como dice mi maestro, eso es rápido.",
     "de": "Ich mache Fortschritte. Langsam. Wie mein Meister sagt: Das ist schnell.",
     "luecke": "Hago progresos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_21.mp3?v=3ca0fbda"
    },
    "zeit": {
@@ -4645,12 +4927,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoy me he superado: treinta flexiones. Ayer, veintinueve.",
     "de": "Heute bin ich über mich hinausgewachsen: dreißig Liegestütze. Gestern neunundzwanzig.",
     "luecke": "me he superado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_22.mp3?v=58b28bde"
    },
    "zeit": null,
@@ -4668,12 +4952,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El kung-fu es cuerpo y mente. La mía discute a menudo con mi cuerpo.",
     "de": "Kung-Fu ist Körper und Geist. Meiner diskutiert oft mit meinem Körper.",
     "luecke": "cuerpo y mente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_23.mp3?v=7eff4942"
    },
    "zeit": null,
@@ -4691,12 +4977,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Buenos días, ¿puedo apuntarme al curso del martes por la noche?",
     "de": "Guten Tag, kann ich mich für den Kurs am Dienstagabend anmelden?",
     "luecke": "puedo apuntarme",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/de_24.mp3?v=2fc8ad63"
    },
    "zeit": null,
@@ -4714,12 +5002,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Intento comer equilibrado. El cruasán de la mañana no cuenta.",
     "de": "Ich versuche, ausgewogen zu essen. Das Croissant am Morgen zählt nicht.",
     "luecke": "comer equilibrado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_01.mp3?v=dc212111"
    },
    "zeit": {
@@ -4748,12 +5038,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Los domingos me acuesto temprano. El resto de la semana lo intento.",
     "de": "Sonntags gehe ich früh ins Bett. Den Rest der Woche versuche ich es.",
     "luecke": "me acuesto temprano",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_02.mp3?v=f5203048"
    },
    "zeit": {
@@ -4782,12 +5074,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuidarse es también decir que no. Incluso a un pastel.",
     "de": "Auf sich zu achten heißt auch, Nein zu sagen. Sogar zu einem Kuchen.",
     "luecke": "Cuidarse",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_03.mp3?v=9a4e0d5f"
    },
    "zeit": null,
@@ -4805,12 +5099,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hago la compra los sábados, con una lista. Vuelvo con otras cosas.",
     "de": "Ich kaufe samstags ein, mit einer Liste. Ich komme mit etwas anderem nach Hause.",
     "luecke": "Hago la compra",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_04.mp3?v=7cceb3ec"
    },
    "zeit": {
@@ -4839,12 +5135,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Por la noche cocino escuchando música. El gato supervisa.",
     "de": "Abends koche ich mit Musik. Die Katze überwacht.",
     "luecke": "cocino",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_05.mp3?v=a895b87d"
    },
    "zeit": {
@@ -4873,12 +5171,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿Mi plato favorito? El que ha preparado otra persona.",
     "de": "Mein Lieblingsgericht? Das, das jemand anderes gekocht hat.",
     "luecke": "plato",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_06.mp3?v=c9317a48"
    },
    "zeit": null,
@@ -4896,12 +5196,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A las cuatro tengo el gusanillo. A las cuatro y cinco también.",
     "de": "Um vier habe ich ein bisschen Hunger. Um fünf nach vier auch.",
     "luecke": "tengo el gusanillo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_07.mp3?v=4ad012b2"
    },
    "zeit": {
@@ -4930,12 +5232,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En casa de Diego nos ponemos las botas. Su madre le manda recetas.",
     "de": "Bei Diego schlagen wir uns den Bauch voll. Seine Mutter schickt ihm Rezepte.",
     "luecke": "nos ponemos las botas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_08.mp3?v=dd8b38ba"
    },
    "zeit": {
@@ -4964,12 +5268,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "« ¡Que aproveche! » – « Gracias, igualmente. » – « Yo no como. » – « Ah. »",
     "de": "„Guten Appetit!“ – „Danke, gleichfalls.“ – „Ich esse nicht.“ – „Ah.“",
     "luecke": "Que aproveche",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_09.mp3?v=2e688714"
    },
    "zeit": null,
@@ -4987,12 +5293,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hay una panadería al lado del instituto. Es un problema. Un buen problema.",
     "de": "Neben der Schule ist eine Bäckerei. Das ist ein Problem. Ein gutes Problem.",
     "luecke": "panadería",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_10.mp3?v=4786771f"
    },
    "zeit": null,
@@ -5010,12 +5318,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Bebo agua todo el día. Y un café. O dos. El agua va entre medias.",
     "de": "Ich trinke den ganzen Tag Wasser. Und einen Kaffee. Oder zwei. Das Wasser ist dazwischen.",
     "luecke": "Bebo agua",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_11.mp3?v=bad61a78"
    },
    "zeit": {
@@ -5044,12 +5354,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pico mientras corrijo. Por cada fallo, una onza de chocolate.",
     "de": "Ich nasche beim Korrigieren. Für jeden Fehler ein Stück Schokolade.",
     "luecke": "Pico",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_12.mp3?v=3c7a22c4"
    },
    "zeit": {
@@ -5078,12 +5390,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Después del deporte estoy a gusto. Antes también, pero menos.",
     "de": "Nach dem Sport fühle ich mich wohl. Davor auch, aber weniger.",
     "luecke": "a gusto",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_13.mp3?v=5b5e390b"
    },
    "zeit": null,
@@ -5101,12 +5415,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hago una pausa cada hora. A veces la pausa dura una hora.",
     "de": "Ich mache jede Stunde eine Pause. Manchmal dauert die Pause eine Stunde.",
     "luecke": "Hago una pausa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_14.mp3?v=53e83279"
    },
    "zeit": {
@@ -5135,12 +5451,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Después del kung-fu duermo como un tronco. Un tronco que ronca.",
     "de": "Nach dem Kung-Fu schlafe ich wie ein Stein. Ein Stein, der schnarcht.",
     "luecke": "duermo como un tronco",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_15.mp3?v=fd558f5b"
    },
    "zeit": {
@@ -5169,12 +5487,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Esta mañana estoy como una rosa. Sospechoso. Son las seis.",
     "de": "Heute Morgen bin ich fit und munter. Verdächtig. Es ist sechs Uhr.",
     "luecke": "como una rosa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_16.mp3?v=3ed410ec"
    },
    "zeit": null,
@@ -5192,12 +5512,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A mediodía tomo el aire diez minutos. Sin móvil. Bueno, casi.",
     "de": "Mittags schnappe ich zehn Minuten frische Luft. Ohne Handy. Na ja, fast.",
     "luecke": "tomo el aire",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_17.mp3?v=4cc5d9be"
    },
    "zeit": {
@@ -5226,12 +5548,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tengo una receta de tortilla. Viene de Diego, que la tiene de su madre.",
     "de": "Ich habe ein Rezept für Tortilla. Es kommt von Diego, der es von seiner Mutter hat.",
     "luecke": "receta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_18.mp3?v=eafc7c7c"
    },
    "zeit": null,
@@ -5249,12 +5573,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Prueba esto. No, de verdad, prueba. Luego puedes decir que no te gusta.",
     "de": "Probier das. Nein, wirklich, probier. Danach darfst du sagen, dass du es nicht magst.",
     "luecke": "Prueba",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_19.mp3?v=295dd567"
    },
    "zeit": {
@@ -5283,12 +5609,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¡Está riquísimo! ¿Qué es? – Mejor no saberlo.",
     "de": "Das ist köstlich! Was ist das? – Besser, du weißt es nicht.",
     "luecke": "riquísimo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_20.mp3?v=ec919fec"
    },
    "zeit": null,
@@ -5306,12 +5634,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Después de educación física, los alumnos tienen sed. Yo tengo sed de silencio.",
     "de": "Nach dem Sportunterricht haben die Schüler Durst. Ich habe Durst nach Stille.",
     "luecke": "tienen sed",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_21.mp3?v=5f089f9a"
    },
    "zeit": {
@@ -5340,12 +5670,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Hoy me he levantado con el pie derecho. El izquierdo. Como siempre.",
     "de": "Heute bin ich mit dem richtigen Fuß aufgestanden. Dem linken. Wie immer.",
     "luecke": "me he levantado con el pie derecho",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_22.mp3?v=f77a6fae"
    },
    "zeit": null,
@@ -5363,12 +5695,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un capricho al día. Hoy: una tarta. Mañana: otra tarta.",
     "de": "Ein kleines Vergnügen am Tag. Heute: eine Torte. Morgen: eine andere Torte.",
     "luecke": "capricho",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_23.mp3?v=9fdfee17"
    },
    "zeit": null,
@@ -5386,12 +5720,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Buenos días, quisiera una barra de pan, por favor. No muy hecha.",
     "de": "Guten Tag, ich hätte gern ein Baguette, bitte. Nicht zu dunkel.",
     "luecke": "quisiera",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/co_24.mp3?v=5443409c"
    },
    "zeit": null,
@@ -5409,12 +5745,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El bebé de mi compañera duerme del tirón. Ella, todavía no.",
     "de": "Das Baby meiner Kollegin schläft durch. Sie noch nicht.",
     "luecke": "duerme del tirón",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_01.mp3?v=a71ff4f8"
    },
    "zeit": {
@@ -5443,12 +5781,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sin su peluche, imposible dormir. Hablo del bebé. Bueno, sobre todo.",
     "de": "Ohne sein Kuscheltier: unmöglich zu schlafen. Ich spreche vom Baby. Na ja, hauptsächlich.",
     "luecke": "peluche",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_02.mp3?v=70bdae02"
    },
    "zeit": null,
@@ -5466,12 +5806,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Los niños hacen travesuras. Es su trabajo. El mío es sonreír.",
     "de": "Kinder stellen Unsinn an. Das ist ihr Beruf. Meiner ist es, zu lächeln.",
     "luecke": "hacen travesuras",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_03.mp3?v=b5aefb23"
    },
    "zeit": {
@@ -5500,12 +5842,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuando un niño llora, se le coge en brazos. Es la única regla.",
     "de": "Wenn ein Kind weint, nimmt man es in den Arm. Das ist die einzige Regel.",
     "luecke": "coge en brazos",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_04.mp3?v=ce3161e0"
    },
    "zeit": {
@@ -5534,12 +5878,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un bebé no habla, pero lo dice todo.",
     "de": "Ein Baby spricht nicht, aber es sagt alles.",
     "luecke": "bebé",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_05.mp3?v=72ab83c2"
    },
    "zeit": null,
@@ -5557,12 +5903,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El bebé me ha sonreído. El día ya estaba ganado.",
     "de": "Das Baby hat mich angelächelt. Mein Tag war gerettet.",
     "luecke": "me ha sonreído",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_06.mp3?v=3b1e1d1b"
    },
    "zeit": {
@@ -5591,12 +5939,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Los niños crecen demasiado rápido. Los exámenes, en cambio, se quedan.",
     "de": "Kinder werden zu schnell groß. Die Arbeiten bleiben.",
     "luecke": "crecen",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_07.mp3?v=5165f87c"
    },
    "zeit": {
@@ -5625,12 +5975,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Al pequeño le cuesta dormirse. Entonces canto. Funciona. Llora más bajo.",
     "de": "Der Kleine schläft schlecht ein. Also singe ich. Es funktioniert. Er weint leiser.",
     "luecke": "le cuesta dormirse",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_08.mp3?v=fe3b4d8d"
    },
    "zeit": {
@@ -5659,12 +6011,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cambiar un pañal en tres minutos: eso sí es una secuencia de kung-fu.",
     "de": "Eine Windel in drei Minuten wechseln: Das ist eine echte Kung-Fu-Form.",
     "luecke": "pañal",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_09.mp3?v=fa1a17f7"
    },
    "zeit": null,
@@ -5682,12 +6036,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "« ¡Pórtate bien! » – « Me porto bien. » – « ¿Y por qué está el gato en la lavadora? »",
     "de": "„Sei brav!“ – „Ich bin brav.“ – „Und warum ist die Katze in der Waschmaschine?“",
     "luecke": "Pórtate bien",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_10.mp3?v=bd8b5035"
    },
    "zeit": null,
@@ -5705,12 +6061,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Jugamos al escondite. Siempre se esconde detrás de la cortina. Con los pies fuera.",
     "de": "Wir spielen Verstecken. Er versteckt sich immer hinter dem Vorhang. Mit den Füßen draußen.",
     "luecke": "Jugamos al escondite",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_11.mp3?v=0d05ea05"
    },
    "zeit": {
@@ -5739,12 +6097,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Cuento un cuento para dormir. A las tres páginas, el que duerme soy yo.",
     "de": "Ich erzähle eine Gute-Nacht-Geschichte. Nach drei Seiten schlafe ich.",
     "luecke": "Cuento un cuento",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_12.mp3?v=16bb986c"
    },
    "zeit": {
@@ -5773,12 +6133,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El bebé llora. Luego ríe. Luego llora. Es un concierto.",
     "de": "Das Baby weint. Dann lacht es. Dann weint es. Es ist ein Konzert.",
     "luecke": "llora",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_13.mp3?v=4b3bc27a"
    },
    "zeit": {
@@ -5807,12 +6169,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un abrazo antes del cole, y el día empieza bien. Para los dos.",
     "de": "Eine Umarmung vor der Schule, und der Tag beginnt gut. Für beide.",
     "luecke": "abrazo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_14.mp3?v=789ff1e2"
    },
    "zeit": null,
@@ -5830,12 +6194,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Aprende a andar. Tres pasos, una caída, una risa. La vida en miniatura.",
     "de": "Sie lernt laufen. Drei Schritte, ein Sturz, ein Lachen. Das Leben im Kleinen.",
     "luecke": "Aprende a andar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_15.mp3?v=f87545ec"
    },
    "zeit": {
@@ -5864,12 +6230,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estoy orgulloso de mis alumnos. Sobre todo cuando no lo saben.",
     "de": "Ich bin stolz auf meine Schüler. Vor allem, wenn sie es nicht wissen.",
     "luecke": "orgulloso de",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_16.mp3?v=5558106e"
    },
    "zeit": null,
@@ -5887,12 +6255,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Sus primeras palabras: « papá », « gato », « no ». En ese orden.",
     "de": "Seine ersten Wörter: „Papa“, „Katze“, „Nein“. In dieser Reihenfolge.",
     "luecke": "primeras palabras",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_17.mp3?v=3fa6cbac"
    },
    "zeit": null,
@@ -5910,12 +6280,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Con los niños hay que tener paciencia. Yo tengo. Se me acaba a las cinco.",
     "de": "Mit Kindern braucht man Geduld. Ich habe welche. Sie endet um fünf.",
     "luecke": "tener paciencia",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_18.mp3?v=843118f3"
    },
    "zeit": {
@@ -5944,12 +6316,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "A las cinco toca la merienda. Para los niños. Y para mí, por solidaridad.",
     "de": "Um fünf gibt es den Nachmittagssnack. Für die Kinder. Und für mich, aus Solidarität.",
     "luecke": "merienda",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_19.mp3?v=bc07fb33"
    },
    "zeit": null,
@@ -5967,12 +6341,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El bebé se ríe a carcajadas cuando el gato estornuda. Yo también, la verdad.",
     "de": "Das Baby lacht schallend, wenn die Katze niest. Ich übrigens auch.",
     "luecke": "se ríe a carcajadas",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_20.mp3?v=829cd93c"
    },
    "zeit": {
@@ -6001,12 +6377,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Los pequeños echan la siesta. Los mayores también, en secreto.",
     "de": "Die Kleinen halten Mittagsschlaf. Die Großen auch, heimlich.",
     "luecke": "echan la siesta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_21.mp3?v=5e087f06"
    },
    "zeit": {
@@ -6035,12 +6413,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tiene miedo a la oscuridad. Así que dejamos la puerta abierta. Y al gato de guardia.",
     "de": "Er hat Angst im Dunkeln. Also lassen wir die Tür offen. Und die Katze als Wache.",
     "luecke": "Tiene miedo a la oscuridad",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_22.mp3?v=b83ae2d7"
    },
    "zeit": null,
@@ -6058,12 +6438,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¡Es la hora del baño! Todo el mundo mojado. Incluso los que no se bañan.",
     "de": "Es ist Badezeit! Alle sind nass. Auch die, die nicht baden.",
     "luecke": "la hora del baño",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_23.mp3?v=aaa254a7"
    },
    "zeit": null,
@@ -6081,12 +6463,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Es adorable. ¿Qué edad tiene su hijo? – Catorce meses. Y cuatro dientes.",
     "de": "Er ist bezaubernd. Wie alt ist Ihr Kind? – Vierzehn Monate. Und vier Zähne.",
     "luecke": "Qué edad tiene su hijo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/ni_24.mp3?v=6f0f213f"
    },
    "zeit": null,
@@ -6104,12 +6488,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Estoy constipado. Resfriado, no lo otro. Lo otro se dice « estreñido ».",
     "de": "Ich bin erkältet. Schnupfen, nicht das andere. Das andere heißt „estreñido“.",
     "luecke": "constipado",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_01.mp3?v=d3a212af"
    },
    "zeit": null,
@@ -6127,12 +6513,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi compañera está embarazada. Y no, no le da vergüenza.",
     "de": "Meine Kollegin ist schwanger. Und nein, es ist ihr nicht peinlich.",
     "luecke": "embarazada",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_02.mp3?v=6a7ef955"
    },
    "zeit": null,
@@ -6150,12 +6538,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Actualmente corrijo exámenes. En realidad, miro al gato.",
     "de": "Zurzeit korrigiere ich Arbeiten. Eigentlich schaue ich die Katze an.",
     "luecke": "Actualmente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_03.mp3?v=0e357bd4"
    },
    "zeit": null,
@@ -6173,12 +6563,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En la librería se compra. En la biblioteca se toma prestado. Y se devuelve. En teoría.",
     "de": "In der Buchhandlung kauft man. In der Bibliothek leiht man. Und gibt zurück. Theoretisch.",
     "luecke": "librería",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_04.mp3?v=c15638f0"
    },
    "zeit": null,
@@ -6196,12 +6588,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Asisto a una reunión. No ayudo a nadie. Solo estoy.",
     "de": "Ich nehme an einer Konferenz teil. Ich helfe niemandem. Ich bin nur da.",
     "luecke": "Asisto a",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_05.mp3?v=3bfc85db"
    },
    "zeit": {
@@ -6230,12 +6624,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "En la tienda me atienden bien. No asisten a nada, me atienden.",
     "de": "Im Laden bedient man mich gut. Sie nehmen an nichts teil, sie bedienen mich.",
     "luecke": "me atienden",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_06.mp3?v=fe1e1869"
    },
    "zeit": {
@@ -6264,12 +6660,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pretende aprobar sin estudiar. Y finge que estudia.",
     "de": "Er hat vor, ohne Lernen zu bestehen. Und tut so, als lerne er.",
     "luecke": "Pretende",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_07.mp3?v=f749b04e"
    },
    "zeit": {
@@ -6298,12 +6696,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi gato es muy sensible. No sensato. Sensible.",
     "de": "Meine Katze ist sehr empfindsam. Nicht vernünftig. Empfindsam.",
     "luecke": "sensible",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_08.mp3?v=26fc623e"
    },
    "zeit": null,
@@ -6321,12 +6721,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Eventualmente iré. Finalmente fui. No es lo mismo.",
     "de": "Möglicherweise gehe ich hin. Schließlich bin ich hingegangen. Das ist nicht dasselbe.",
     "luecke": "Eventualmente",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_09.mp3?v=24d03ff9"
    },
    "zeit": null,
@@ -6344,12 +6746,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Tengo una carpeta por clase. En el suelo, una alfombra.",
     "de": "Ich habe eine Mappe pro Klasse. Auf dem Boden einen Teppich.",
     "luecke": "carpeta",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_10.mp3?v=0731445b"
    },
    "zeit": null,
@@ -6367,12 +6771,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "El examen fue un éxito. La salida está al fondo, a la derecha.",
     "de": "Die Arbeit war ein Erfolg. Der Ausgang ist hinten rechts.",
     "luecke": "éxito",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_11.mp3?v=1f077235"
    },
    "zeit": null,
@@ -6390,12 +6796,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi ropa de domingo: un chándal. La cuerda la dejo para el kung-fu.",
     "de": "Meine Sonntagskleidung: eine Jogginghose. Das Seil lasse ich für Kung-Fu.",
     "luecke": "ropa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_12.mp3?v=05d72783"
    },
    "zeit": null,
@@ -6413,12 +6821,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Un día largo. No ancho. Largo.",
     "de": "Ein langer Tag. Nicht breit. Lang.",
     "luecke": "largo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_13.mp3?v=d6b6ccc0"
    },
    "zeit": null,
@@ -6436,12 +6846,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Me duele el pie. No, no quiero tarta. Bueno, un poco.",
     "de": "Mein Fuß tut weh. Nein, ich will keinen Kuchen. Na ja, ein bisschen.",
     "luecke": "pie",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_14.mp3?v=c04f768e"
    },
    "zeit": null,
@@ -6459,12 +6871,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "De primero, sopa. El jabón está en el baño. Mejor no confundirlos.",
     "de": "Als Vorspeise Suppe. Die Seife ist im Bad. Besser, man verwechselt sie nicht.",
     "luecke": "sopa",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_15.mp3?v=17356bdc"
    },
    "zeit": null,
@@ -6482,12 +6896,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Los domingos salimos al campo. No acampamos. Paseamos.",
     "de": "Sonntags fahren wir aufs Land. Wir zelten nicht. Wir spazieren.",
     "luecke": "campo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_16.mp3?v=fc9a133f"
    },
    "zeit": null,
@@ -6505,12 +6921,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Realicé el examen. Luego me di cuenta de que era el equivocado.",
     "de": "Ich führte die Prüfung durch. Dann merkte ich, dass es die falsche war.",
     "luecke": "Realicé",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_17.mp3?v=fc0e7aa0"
    },
    "zeit": {
@@ -6539,12 +6957,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿La nota? Una decepción. No un engaño. Solo una decepción.",
     "de": "Die Note? Eine Enttäuschung. Keine Täuschung. Nur eine Enttäuschung.",
     "luecke": "decepción",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_18.mp3?v=d33f2c2d"
    },
    "zeit": null,
@@ -6562,12 +6982,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Mi lectura de la noche: una novela. No una conferencia. Una novela.",
     "de": "Meine Abendlektüre: ein Roman. Keine Vorlesung. Ein Roman.",
     "luecke": "lectura",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_19.mp3?v=2dcc1bf7"
    },
    "zeit": null,
@@ -6585,12 +7007,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Perdón por molestar. Molestar, nada más. Es un verbo inocente.",
     "de": "Entschuldigung fürs Stören. Stören, mehr nicht. Ein harmloses Verb.",
     "luecke": "molestar",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_20.mp3?v=90606faa"
    },
    "zeit": {
@@ -6619,12 +7043,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "¿« Sin preservativos » en una mermelada? No. Se dice « sin conservantes ».",
     "de": "„Ohne Kondome“ auf einer Marmelade? Nein. Man sagt „ohne Konservierungsstoffe“.",
     "luecke": "preservativo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_21.mp3?v=81042034"
    },
    "zeit": null,
@@ -6642,12 +7068,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Salgo con Diego esta noche. En francés, « salir » es ensuciar. Cuidado con las citas.",
     "de": "Ich gehe heute Abend mit Diego aus. Auf Französisch heißt „salir“ beschmutzen. Vorsicht bei Verabredungen.",
     "luecke": "Salgo",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_22.mp3?v=ad0e3ec0"
    },
    "zeit": {
@@ -6676,12 +7104,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Pido burro en Italia y me traen mantequilla. Pido mantequilla en España y me miran raro.",
     "de": "Ich bestelle „burro“ in Italien und bekomme Butter. Ich bestelle „mantequilla“ in Spanien, und man schaut mich komisch an.",
     "luecke": "burro",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_23.mp3?v=7f363cc5"
    },
    "zeit": null,
@@ -6699,12 +7129,14 @@ window.SPRACHEN["es-de"] = {
    "gloss": null,
    "umschrift": null,
    "wurzel": null,
+   "ipa": null,
    "satz": {
     "fr": "Disculpe, busco la biblioteca. – ¿La librería? – No, la biblioteca. La de los libros gratis.",
     "de": "Entschuldigung, ich suche die Bibliothek. – Die Buchhandlung? – Nein, die Bibliothek. Die mit den kostenlosen Büchern.",
     "luecke": "busco la biblioteca",
     "gloss": null,
     "umschrift": null,
+    "ipa": null,
     "audio": "audio/es-de/saetze/fa_24.mp3?v=6b8d534f"
    },
    "zeit": null,
