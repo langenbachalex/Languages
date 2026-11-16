@@ -134,7 +134,7 @@ const URL = `http://localhost:${srv.address().port}/`;
 
   // 5b. Geschichte (fr/es/it/pt, Mr. Alex 16.11.): Kapitel 1 offen, Kapitel n öffnet sich mit fertigem Thema n,
   //     Wendungen antippbar, « Chapitre lu » erst nach Mindestzeit, 20 Punkte beim ersten Mal, 5 bei Wiederholung (einmal am Tag), Power Up
-  for (const paar of ["fr-de"].filter((x) => !NUR || x === NUR)) {
+  for (const paar of ["fr-de", "es-de", "it-de", "pt-de"].filter((x) => !NUR || x === NUR)) {
     const p = await neueSeite(390, 860);
     const probleme = [];
     try {
