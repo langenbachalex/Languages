@@ -107,16 +107,17 @@ const URL = `http://localhost:${srv.address().port}/`;
     }
   }
 
-  // 5. IPA (Französisch): Schalter nur dort, zuerst aus; an = Lautschrift unter Wendung und Beispielsatz; in Schritt 2/3 verdeckt
-  if (!NUR || NUR === "fr-de") {
+  // 5. IPA (Französisch, Spanisch, Italienisch): Schalter nur dort, zuerst aus; an = Lautschrift unter Wendung und Beispielsatz;
+  //    in Schritt 2/3 verdeckt; in Sprachen ohne IPA (Deutsch) kein Schalter
+  for (const paar of ["fr-de", "es-de", "it-de"].filter((x) => !NUR || x === NUR)) {
     const p = await neueSeite(390, 860); p.setDefaultTimeout(5000);
     const probleme = [];
     try {
       await p.goto(URL); await p.waitForTimeout(200);
-      const th = await p.evaluate(() => window.SPRACHEN["fr-de"].themen[0].name);
-      await p.evaluate((st) => localStorage.setItem("languages-v1", JSON.stringify(st)), stand("fr-de", { teile: {}, karten: {}, tag: null, gruppen: {}, spiel: { punkte: 0, titel: 0, seances: 0 } }));
+      const th = await p.evaluate((paar) => window.SPRACHEN[paar].themen[0].name, paar);
+      await p.evaluate((st) => localStorage.setItem("languages-v1", JSON.stringify(st)), stand(paar, { teile: {}, karten: {}, tag: null, gruppen: {}, spiel: { punkte: 0, titel: 0, seances: 0 } }));
       await p.reload(); await p.waitForTimeout(300);
-      if (await p.$eval(".ipa-knopf", (k) => k.hidden)) probleme.push("Schalter fehlt in Französisch");
+      if (await p.$eval(".ipa-knopf", (k) => k.hidden)) probleme.push("Schalter fehlt");
       await p.click(`nav.themen .kachel:has-text("${th}")`); await p.click("nav.gruppen .kachel >> nth=0"); await p.waitForTimeout(250);
       if (await p.$(".ipa")) probleme.push("IPA sichtbar, obwohl aus");
       await p.click(".ipa-knopf"); await p.waitForTimeout(200);
@@ -124,10 +125,10 @@ const URL = `http://localhost:${srv.address().port}/`;
       if (!z.length || !z[0].startsWith("[")) probleme.push("IPA fehlt nach dem Einschalten");
       await p.click(".sprung >> nth=1"); await p.waitForTimeout(250);
       if ((await p.$$eval(".ipa", (x) => x.filter((e) => e.offsetParent).length)) > 0) probleme.push("IPA in Schritt 2 sichtbar (verrät die Lösung)");
-      await p.click('.sprachen button[data-paar="es-de"]'); await p.waitForTimeout(250);
-      if (!(await p.$eval(".ipa-knopf", (k) => k.hidden))) probleme.push("Schalter in Spanisch sichtbar");
+      await p.click('.sprachen button[data-paar="de-fr"]'); await p.waitForTimeout(250);
+      if (!(await p.$eval(".ipa-knopf", (k) => k.hidden))) probleme.push("Schalter in Deutsch sichtbar");
     } catch (e) { probleme.push(e.message.split("\n")[0]); }
-    ok("fr-de: IPA zuschaltbar (Schalter, an/aus, in Schritt 2 verdeckt)", probleme.length === 0 && p.fehlerListe.length === 0, [...probleme, ...p.fehlerListe].slice(0, 3).join(" | "));
+    ok(`${paar}: IPA zuschaltbar (Schalter, an/aus, in Schritt 2 verdeckt)`, probleme.length === 0 && p.fehlerListe.length === 0, [...probleme, ...p.fehlerListe].slice(0, 3).join(" | "));
     await p.close();
   }
 

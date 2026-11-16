@@ -24,3 +24,4 @@ Agent Skills nutzen (Plugin `agent-skills` von Addy Osmani, eingetragen in `.cla
 
 ## Aufbau
 App in `app/` (wird von `werkzeuge/bauen.py` erzeugt), Sprachpakete in `werkzeuge/sprachen/<paar>.py`, Inhalte in `inhalte/<paar>/`, Konzepte in `docs/`.
+Lautschrift (IPA, Französisch/Spanisch/Italienisch, zuschaltbar mit « [IPA] »): `python3 werkzeuge/ipa.py <paar>` füllt leere Spalten `ipa_w`/`ipa` (braucht `apt-get install espeak-ng`), Sprachregeln im Werkzeug, Einzelkorrekturen in `inhalte/<paar>/ipa_korrekturen.tsv`; neue Wendungen danach durchsehen.

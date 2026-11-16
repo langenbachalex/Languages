@@ -29,5 +29,6 @@ Stand: 15.11.2026 (angelegt mit Mr. Alex). Zweck: Was Mr. Alex in einer App syst
 | Belohnungen der Reihe nach (Lob, Stempel, Pop-up schneiden sich nicht) | ✅ (24.10.) | ✅ (24.10.) | ? | ✅ f1c92da |
 | GLN-Kopplung (vor dem GLN wird alles fällig) | ✅ | ✅ | ? | — keine GLN |
 | Lehrer-Bereich: schwere Wörter, Sync Stufe A (QR) | ✅ | ✅ | ✅ | — Selbstlerner |
+| Lautschrift IPA zuschaltbar (Wendung und Beispielsatz) | ? | ? | ? | ✅ FR 33cf71f, ES/IT 16.11. |
 | Lernkern `lernkern.js` (Version) | ☐ nach GLN | ☐ nach GLN | ☐ nach GLN | ✅ 1.0.0 |
 | Festes Testprogramm im Repo | ✅ `werkzeuge/testprogramm.js` (15.11.) | ✅ | ✅ | ✅ `werkzeuge/testprogramm.js` (15.11.) |
