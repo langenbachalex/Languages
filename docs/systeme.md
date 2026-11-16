@@ -30,6 +30,6 @@ Stand: 15.11.2026 (angelegt mit Mr. Alex). Zweck: Was Mr. Alex in einer App syst
 | GLN-Kopplung (vor dem GLN wird alles fällig) | ✅ | ✅ | ? | — keine GLN |
 | Lehrer-Bereich: schwere Wörter, Sync Stufe A (QR) | ✅ | ✅ | ✅ | — Selbstlerner |
 | Lautschrift IPA zuschaltbar (Wendung und Beispielsatz) | ? | ? | ? | ✅ FR 33cf71f, ES/IT 16.11. |
-| Geschichte: Kapitel je fertigem Thema, alle Wendungen des Themas antippbar, 20 Punkte erstes Lesen / 5 Wiederholung, Power Up | ? | ? | ? | ◐ FR 16.11., ES/IT/PT folgen |
+| Geschichte: Kapitel je fertigem Thema, alle Wendungen des Themas antippbar, 20 Punkte erstes Lesen / 5 Wiederholung, Power Up | ? | ? | ? | ✅ FR, ES, IT, PT 16.11. (PT ohne Audio) |
 | Lernkern `lernkern.js` (Version) | ☐ nach GLN | ☐ nach GLN | ☐ nach GLN | ✅ 1.0.0 |
 | Festes Testprogramm im Repo | ✅ `werkzeuge/testprogramm.js` (15.11.) | ✅ | ✅ | ✅ `werkzeuge/testprogramm.js` (15.11.) |

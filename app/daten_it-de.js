@@ -7325,28 +7325,28 @@ window.SPRACHEN["it-de"] = {
      "fr": "Quel venerdì aveva **fatto lezione|tc_04** dalle otto all'una e mezza. Sei ore di fila. Alle otto in punto aveva **fatto l'appello|tc_22**. Quelli di terza avevano **dato il massimo|tc_15**, quelli di prima un po' meno.",
      "de": "An jenem Freitag hatte sie von acht bis halb zwei unterrichtet. Sechs Stunden am Stück. Um Punkt acht hatte sie die Anwesenheit geprüft. Die Dritte war voll dabei gewesen, die Erste etwas weniger.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_15.mp3?v=764bfd0d"
     },
     {
      "id": "k01_16",
      "fr": "All'**intervallo|tc_05**, in **sala professori|tc_20**, Giovanni, il suo collega di Merano, le aveva portato un caffè. « Allora, la lezione con la terza, **com'è andata|tc_03**? » « Benissimo. **In realtà|tc_11**, troppo bene. Hanno capito tutto. È sospetto. »",
      "de": "In der Pause hatte ihr Giovanni, ihr Kollege aus Meran, im Lehrerzimmer einen Kaffee gebracht. „Und, die Stunde mit der Dritten, wie ist es gelaufen?“ „Sehr gut. Eigentlich zu gut. Sie haben alles verstanden. Das ist verdächtig.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_16.mp3?v=b5493d9f"
     },
     {
      "id": "k01_17",
      "fr": "In corridoio aveva incontrato una vecchia collega in pensione. « Chiara! **Quanto tempo|tc_09**! » Poi c'era stata **una riunione|tc_17**. Un'ora e mezza sul regolamento della mensa. Chiara **non ne poteva più|tc_07**. Aveva disegnato un gatto a margine dell'ordine del giorno.",
      "de": "Auf dem Flur hatte sie eine alte Kollegin getroffen, die schon in Rente war. „Chiara! Lange nicht gesehen!“ Danach war eine Konferenz gewesen. Anderthalb Stunden über die Mensaordnung. Chiara hatte die Nase voll. Sie hatte eine Katze an den Rand der Tagesordnung gezeichnet.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_17.mp3?v=5b10f65f"
     },
     {
      "id": "k01_18",
      "fr": "« **Riconsegno i compiti|tc_16** lunedì », aveva promesso alla terza. **Quindi|tc_10** doveva correggerli subito. « Se vuoi, ti **do una mano|tc_21** », aveva detto Giovanni. « No, grazie. Sono solo ventisei. » **Comunque|tc_12**, di venerdì…",
      "de": "„Ich gebe die Arbeiten am Montag zurück“, hatte sie der Dritten versprochen. Also musste sie sie sofort korrigieren. „Wenn du willst, helfe ich dir“, hatte Giovanni gesagt. „Nein, danke. Es sind nur sechsundzwanzig.“ Trotzdem, an einem Freitag …",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_18.mp3?v=9c9be76b"
     },
     {
      "id": "k01_02",
@@ -7395,14 +7395,14 @@ window.SPRACHEN["it-de"] = {
      "fr": "Ci ha pensato a lungo. « **Prenditi il tuo tempo|tc_19** », le diceva sempre sua nonna. « I misteri non scappano. »",
      "de": "Sie dachte lange nach. „Lass dir Zeit“, sagte ihre Großmutter immer. „Geheimnisse laufen nicht weg.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_19.mp3?v=a27e1373"
     },
     {
      "id": "k01_20",
      "fr": "Ha provato a fare un elenco: chi aveva messo il biglietto? Chi conosceva il suo indirizzo? Chi sapeva che amava la Torre? Dopo tre righe **si è incasinata|tc_23** e ha smesso.",
      "de": "Sie versuchte, eine Liste zu machen: Wer hatte die Karte hineingelegt? Wer kannte ihre Adresse? Wer wusste, dass sie den Turm liebte? Nach drei Zeilen kam sie durcheinander und hörte auf.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_20.mp3?v=77f8b531"
     },
     {
      "id": "k01_08",
@@ -7430,14 +7430,14 @@ window.SPRACHEN["it-de"] = {
      "fr": "« **Non fa niente|tc_18** », ha aggiunto. « Tanto non ci vado. »",
      "de": "„Macht nichts“, fügte sie hinzu. „Ich gehe sowieso nicht hin.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_21.mp3?v=b9093e1a"
     },
     {
      "id": "k01_22",
      "fr": "Poi ha pensato: un biglietto gratis per la Torre, **ne vale la pena|tc_13**. E una professoressa sa **arrangiarsi|tc_14** in una torre. È solo una classe più tranquilla.",
      "de": "Dann dachte sie: Eine kostenlose Karte für den Turm, das lohnt sich. Und eine Lehrerin weiß sich in einem Turm zu helfen. Das ist nur eine ruhigere Klasse.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_22.mp3?v=1906962d"
     },
     {
      "id": "k01_11",
@@ -7458,7 +7458,7 @@ window.SPRACHEN["it-de"] = {
      "fr": "Non saliva sulla Torre da un anno. In fondo, **non vedeva l'ora di|tc_06** tornarci.",
      "de": "Sie war seit einem Jahr nicht mehr auf den Turm gestiegen. Im Grunde konnte sie es kaum erwarten, wieder hinaufzugehen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_23.mp3?v=34aaa40d"
     },
     {
      "id": "k01_13",
@@ -7479,7 +7479,7 @@ window.SPRACHEN["it-de"] = {
      "fr": "Sul portone ha incontrato una signora con una cartina. « Scusi, **potrebbe indicarmi|tc_24** la Torre degli Asinelli? » « Ci vado anch'io », ha detto Chiara. Poi si è ricordata del biglietto. « Cioè… sempre dritto, sotto i portici. »",
      "de": "An der Haustür traf sie eine Dame mit einem Stadtplan. „Entschuldigung, könnten Sie mir den Asinelli-Turm zeigen?“ „Da gehe ich auch hin“, sagte Chiara. Dann fiel ihr die Karte ein. „Also … immer geradeaus, unter den Arkaden.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k01_24.mp3?v=fc0721d9"
     }
    ]
   },
@@ -7499,56 +7499,56 @@ window.SPRACHEN["it-de"] = {
      "fr": "Il cielo era **cupo|se_03**, la città rossa e grigia. Una Bologna **malinconica|se_04**, di sabato mattina. Eppure Chiara non **era giù di morale|se_02**. Anzi, **era di buon umore|se_12**. **Si sentiva bene|se_17**, e questo la stupiva un po'.",
      "de": "Der Himmel war düster, die Stadt rot und grau. Ein melancholisches Bologna, an einem Samstagmorgen. Und doch war Chiara nicht niedergeschlagen. Im Gegenteil, sie war gut gelaunt. Sie fühlte sich wohl, und das wunderte sie ein bisschen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_16.mp3?v=59f53dda"
     },
     {
      "id": "k02_17",
      "fr": "Prima, in un bar sotto i portici, aveva preso un cappuccino. Il barista **era di cattivo umore|se_13**, come tutti i baristi di sabato. Al bancone c'era solo un uomo anziano, con un giornale e un ombrello nero.",
      "de": "Vorher hatte sie in einer Bar unter den Arkaden einen Cappuccino getrunken. Der Barista war schlecht gelaunt, wie alle Baristas am Samstag. An der Theke stand nur ein älterer Mann, mit einer Zeitung und einem schwarzen Regenschirm.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_17.mp3?v=4d52c6cc"
     },
     {
      "id": "k02_18",
      "fr": "« Le piace la pittura? » le aveva chiesto l'uomo, senza alzare gli occhi. « Molto. Soprattutto **il chiaroscuro|se_20**. Come questi portici: la luce che esce dal buio. **Mi tocca|se_01**. »",
      "de": "„Mögen Sie Malerei?“, hatte der Mann sie gefragt, ohne aufzusehen. „Sehr. Vor allem das Helldunkel. Wie diese Arkaden: das Licht, das aus dem Dunkel kommt. Das berührt mich.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_18.mp3?v=1bb1da4d"
     },
     {
      "id": "k02_19",
      "fr": "« Anche a me », aveva detto l'uomo. « Nella Torre c'è una piastrella che **mi rende felice|se_19** e triste insieme. Un gatto che dorme. Nessuno la guarda. **Mi spezza il cuore|se_05**. »",
      "de": "„Mich auch“, hatte der Mann gesagt. „Im Turm gibt es eine Kachel, die mich glücklich und traurig zugleich macht. Eine Katze, die schläft. Niemand sieht sie an. Das bricht mir das Herz.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_19.mp3?v=62cb743b"
     },
     {
      "id": "k02_20",
      "fr": "L'uomo parlava della piastrella come di un amico. **Era commosso|se_06**, si vedeva. **Aveva le lacrime agli occhi|se_09**, quasi.",
      "de": "Der Mann sprach von der Kachel wie von einem Freund. Er war gerührt, das sah man. Er hatte fast Tränen in den Augen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_20.mp3?v=b055997b"
     },
     {
      "id": "k02_21",
      "fr": "« Lei **ha il cuore a pezzi|se_23**? » aveva chiesto Chiara. « Un po'. Il mio primo gatto è sparito tanto tempo fa. **Mi manca|se_14** ancora. »",
      "de": "„Haben Sie Kummer?“, hatte Chiara gefragt. „Ein wenig. Meine erste Katze ist vor langer Zeit verschwunden. Sie fehlt mir immer noch.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_21.mp3?v=2d69807a"
     },
     {
      "id": "k02_22",
      "fr": "« **Mi dispiace|se_24** », aveva detto Chiara. Ed era vero: la storia era **toccante|se_16**. Pensava al suo gatto, a casa, da solo con i compiti.",
      "de": "„Das tut mir leid“, hatte Chiara gesagt. Und das stimmte: Die Geschichte war bewegend. Sie dachte an ihre Katze zu Hause, ganz allein mit den Arbeiten.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_22.mp3?v=54b7f69e"
     },
     {
      "id": "k02_23",
      "fr": "« Un'ultima cosa, professoressa Rossi. » L'uomo conosceva il suo nome. « Lassù non canti. Lei stona. Me l'ha detto Luca. » Chiara non **aveva paura di|se_11** molto. Ma quella frase **le aveva fatto venire la pelle d'oca|se_10**. Quando si è girata, l'uomo non c'era più. Sul bancone c'era un pelo grigio.",
      "de": "„Eine letzte Sache, Professoressa Rossi.“ Der Mann kannte ihren Namen. „Singen Sie da oben nicht. Sie singen falsch. Luca hat es mir gesagt.“ Chiara hatte vor nicht viel Angst. Aber bei diesem Satz hatte sie Gänsehaut bekommen. Als sie sich umdrehte, war der Mann weg. Auf der Theke lag ein graues Haar.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_23.mp3?v=cfb3dd4d"
     },
     {
      "id": "k02_02",
@@ -7618,7 +7618,7 @@ window.SPRACHEN["it-de"] = {
      "fr": "All'inizio, da sola, con la pioggia sulle finestrelle, la salita era quasi **rilassante|se_08**.",
      "de": "Am Anfang, allein, mit dem Regen an den kleinen Fenstern, war der Aufstieg fast entspannend.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_24.mp3?v=6bb60755"
     },
     {
      "id": "k02_11",
@@ -7632,7 +7632,7 @@ window.SPRACHEN["it-de"] = {
      "fr": "Il buio, il legno che scricchiolava, il vento: era **angosciante|se_22**. Chiara **aveva un peso sul cuore|se_15** e non sapeva perché.",
      "de": "Die Dunkelheit, das knarrende Holz, der Wind: Es war beklemmend. Chiara war schwer ums Herz, und sie wusste nicht, warum.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k02_25.mp3?v=4c4093d3"
     },
     {
      "id": "k02_12",
@@ -7715,14 +7715,14 @@ window.SPRACHEN["it-de"] = {
      "fr": "Era **un gatto randagio|ga_18**, grigio, magro, con **uno sguardo|ga_14** da padrone di casa. Sembrava sul punto di **fare un pisolino|ga_10**, ma non si decideva.",
      "de": "Es war eine Straßenkatze, grau, mager, mit dem Blick einer Hausherrin. Sie sah aus, als wollte sie gleich ein Nickerchen machen, konnte sich aber nicht entschließen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_16.mp3?v=3c8eb3c8"
     },
     {
      "id": "k03_17",
      "fr": "Sotto la finestra, su uno sgabello, c'erano una ciotola di **crocchette|ga_12** e un piattino di **umido|ga_13**. Freschi. Qualcuno dava da mangiare al gatto di una piastrella. Che fosse assurdo **non gli dava fastidio|ga_21**, evidentemente.",
      "de": "Unter dem Fenster standen auf einem Hocker eine Schale Trockenfutter und ein Tellerchen Nassfutter. Frisch. Jemand fütterte die Katze auf einer Kachel. Dass das absurd war, störte ihn offenbar nicht.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_17.mp3?v=b33312f6"
     },
     {
      "id": "k03_07",
@@ -7750,7 +7750,7 @@ window.SPRACHEN["it-de"] = {
      "fr": "Non fusa piccole. Fusa vere. Il gatto della piastrella **faceva le fusa di piacere|ga_23**, come quando lo **si accarezza|ga_07** dietro le orecchie.",
      "de": "Kein leises Schnurren. Ein echtes. Die Katze auf der Kachel schnurrte vor Wohlbehagen, wie wenn man sie hinter den Ohren streichelt.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_18.mp3?v=2a9a7000"
     },
     {
      "id": "k03_10",
@@ -7764,35 +7764,35 @@ window.SPRACHEN["it-de"] = {
      "fr": "Poi, senza avvisare, il gatto grigio **è saltato sulla|ga_15** sua spalla. Chiara ha gridato. Un po'. Come una professoressa, cioè piano.",
      "de": "Dann sprang die graue Katze ohne Vorwarnung auf ihre Schulter. Chiara schrie. Ein bisschen. Wie eine Lehrerin, also leise.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_19.mp3?v=941383da"
     },
     {
      "id": "k03_20",
      "fr": "Il gatto **si strusciava contro|ga_11** il suo orecchio, poi ha cominciato a **lavarsi|ga_04**, con calma, sulla spalla di una sconosciuta. Un gatto davvero **indipendente|ga_22**.",
      "de": "Die Katze rieb sich an ihrem Ohr, dann fing sie an, sich in aller Ruhe zu putzen, auf der Schulter einer Fremden. Eine wirklich unabhängige Katze.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_20.mp3?v=246c0920"
     },
     {
      "id": "k03_21",
      "fr": "« Tu **hai fame|ga_06** », ha detto Chiara. Il gatto **ha miagolato|ga_05**. Una volta. Poi è saltato giù, ha mangiato tre crocchette e **si è nascosto|ga_16** dietro lo sgabello.",
      "de": "„Du hast Hunger“, sagte Chiara. Die Katze miaute. Einmal. Dann sprang sie hinunter, fraß drei Bröckchen und versteckte sich hinter dem Hocker.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_21.mp3?v=0bd4dfc8"
     },
     {
      "id": "k03_22",
      "fr": "Chiara si è inginocchiata. « Vieni. Non mi **graffiare|ga_03** », ha detto. Il gatto **si è fatto le unghie|ga_08** sul pavimento, per far vedere chi era **il felino|ga_09**, lì dentro.",
      "de": "Chiara kniete sich hin. „Komm. Kratz mich nicht“, sagte sie. Die Katze wetzte sich die Krallen am Boden, um zu zeigen, wer hier drinnen die Raubkatze war.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_22.mp3?v=ee37b5e0"
     },
     {
      "id": "k03_23",
      "fr": "Poi è tornato a **fare le coccole|ga_02**. È rimasto contro di lei, come per **farle compagnia|ga_17**. Nella piastrella, l'altro gatto aveva riaperto un occhio.",
      "de": "Dann kam sie zurück, um zu schmusen. Sie blieb an Chiara gekuschelt, als wollte sie ihr Gesellschaft leisten. Auf der Kachel hatte die andere Katze ein Auge wieder geöffnet.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_23.mp3?v=a4cb1dee"
     },
     {
      "id": "k03_11",
@@ -7834,14 +7834,14 @@ window.SPRACHEN["it-de"] = {
      "fr": "« Lei e quel gatto **combinate guai|ga_19** », ha detto il custode. « Il **veterinario|ga_20** mi sgriderà di nuovo. Troppe crocchette. »",
      "de": "„Sie und diese Katze stellen Unsinn an“, sagte der Wächter. „Der Tierarzt wird wieder mit mir schimpfen. Zu viel Trockenfutter.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_24.mp3?v=69ef63ce"
     },
     {
      "id": "k03_25",
      "fr": "Sul suo cartellino c'era scritto: « Amedeo. Custode. Dal 1934. » « **Ha un gatto, Lei|ga_24**? » ha chiesto Chiara, perché era l'unica domanda che le veniva in mente. « Due », ha detto Amedeo. « Uno sulla scala. Uno nella piastrella. »",
      "de": "Auf seinem Namensschild stand: „Amedeo. Wächter. Seit 1934.“ „Haben Sie eine Katze?“, fragte Chiara, weil ihr keine andere Frage einfiel. „Zwei“, sagte Amedeo. „Eine auf der Treppe. Eine in der Kachel.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k03_25.mp3?v=cb1178c2"
     }
    ]
   },
@@ -7854,126 +7854,126 @@ window.SPRACHEN["it-de"] = {
      "fr": "« Lei sa cantare? » ha chiesto Amedeo. « La piastrella non fa le fusa per tutti. Vuole una canzone. E vuole che si **canti intonato|mu_01**. »",
      "de": "„Können Sie singen?“, fragte Amedeo. „Die Kachel schnurrt nicht für jeden. Sie will ein Lied. Und sie will, dass man sauber singt.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_01.mp3?v=f8e71782"
     },
     {
      "id": "k04_02",
      "fr": "« Io **stono|mu_02** », ha confessato Chiara. « Lo dicono i miei alunni. Lo dice il mio gatto. E anche Luca, a quanto pare. »",
      "de": "„Ich singe schief“, gestand Chiara. „Das sagen meine Schüler. Das sagt meine Katze. Und Luca offenbar auch.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_02.mp3?v=1bed84d5"
     },
     {
      "id": "k04_03",
      "fr": "« All'inizio stonano tutti. Ma Lei **ha orecchio|mu_06**, professoressa. L'ho visto prima: ha sentito le fusa prima di me. »",
      "de": "„Am Anfang singen alle schief. Aber Sie haben ein gutes Gehör, Professoressa. Ich habe es vorhin gesehen: Sie haben das Schnurren vor mir gehört.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_03.mp3?v=c6e3f5f8"
     },
     {
      "id": "k04_04",
      "fr": "Ha tirato fuori dalla tasca un vecchio quaderno. Dentro, **il testo|mu_04** di una canzone, scritto a mano, in lettere blu. Le stesse lettere blu del biglietto.",
      "de": "Er zog ein altes Heft aus der Tasche. Darin der Text eines Liedes, mit der Hand geschrieben, in blauen Buchstaben. Dieselben blauen Buchstaben wie auf der Karte.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_04.mp3?v=76b358a8"
     },
     {
      "id": "k04_05",
      "fr": "« È una ninna nanna antica. Il gatto la ascoltava **in loop|mu_10**, come dicono i ragazzi, nella bottega del ceramista. Bisogna **imparare a memoria|mu_20** almeno **il ritornello|mu_03**. »",
      "de": "„Das ist ein altes Wiegenlied. Die Katze hat es in der Werkstatt des Keramikers in Dauerschleife gehört, wie die Jugendlichen sagen. Man muss mindestens den Refrain auswendig lernen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_05.mp3?v=997e9a60"
     },
     {
      "id": "k04_06",
      "fr": "Chiara ha letto il testo. Le parole erano semplici, ma **la musica della lingua|mu_08** era antica: vocali larghe, **doppie|mu_14** dappertutto, un **ritmo|mu_13** lento, come un'onda.",
      "de": "Chiara las den Text. Die Wörter waren einfach, aber die Musik der Sprache war alt: offene Vokale, überall Doppelkonsonanten, ein langsamer Rhythmus, wie eine Welle.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_06.mp3?v=c7fdd87a"
     },
     {
      "id": "k04_07",
      "fr": "« **Potrebbe ripetere più lentamente|mu_24**? » ha chiesto Chiara, quando Amedeo ha cantato il primo verso. Lui ha sorriso. Ha ripetuto. Tre volte.",
      "de": "„Könnten Sie das langsamer wiederholen?“, fragte Chiara, als Amedeo die erste Zeile gesungen hatte. Er lächelte. Er wiederholte. Dreimal.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_07.mp3?v=c8830e5d"
     },
     {
      "id": "k04_08",
      "fr": "Aveva **una voce bassa|mu_18**, un po' roca, e un **accento|mu_07** bolognese di una volta. « Sono nato in via del Pratello. Tanto tempo fa. Tantissimo. »",
      "de": "Er hatte eine tiefe Stimme, ein bisschen heiser, und einen Bologneser Akzent von früher. „Ich bin in der Via del Pratello geboren. Vor langer Zeit. Vor sehr langer Zeit.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_08.mp3?v=ddb58269"
     },
     {
      "id": "k04_09",
      "fr": "« Bisogna **pronunciare|mu_15** bene », ha detto. « Il gatto sente tutto. Se Lei **sbaglia parola|mu_21**, non si sveglia. Se canta **a squarciagola|mu_17**, si nasconde. »",
      "de": "„Man muss gut aussprechen“, sagte er. „Die Katze hört alles. Wenn Sie das falsche Wort erwischen, wacht sie nicht auf. Wenn Sie aus voller Kehle singen, versteckt sie sich.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_09.mp3?v=03b2e0f0"
     },
     {
      "id": "k04_10",
      "fr": "Chiara ha provato. Una volta. Due volte. Alla terza, qualcosa è cambiato: la frase **suonava bene|mu_05**. Non perfetta. Bene.",
      "de": "Chiara versuchte es. Einmal. Zweimal. Beim dritten Mal änderte sich etwas: Der Satz klang gut. Nicht perfekt. Gut.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_10.mp3?v=8709b263"
     },
     {
      "id": "k04_11",
      "fr": "« L'italiano è **una lingua cantata|mu_23** », ha detto Amedeo. « Anche quando litighiamo. Soprattutto quando litighiamo. Senta il mercato la mattina: è un'opera lirica. »",
      "de": "„Italienisch ist eine gesungene Sprache“, sagte Amedeo. „Auch wenn wir streiten. Vor allem, wenn wir streiten. Hören Sie sich morgens den Markt an: Das ist eine Oper.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_11.mp3?v=7c65963d"
     },
     {
      "id": "k04_12",
      "fr": "Nella piastrella, il gatto ha alzato un orecchio. Poi l'altro. Chiara ha continuato. Non sapeva **suonare uno strumento|mu_09**, ma la sua voce, quella mattina, lo era.",
      "de": "Auf der Kachel stellte die Katze ein Ohr auf. Dann das andere. Chiara sang weiter. Sie konnte kein Instrument spielen, aber ihre Stimme war an diesem Morgen eins.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_12.mp3?v=ddef01d5"
     },
     {
      "id": "k04_13",
      "fr": "Amedeo batteva il tempo con le chiavi. Il gatto grigio, per terra, faceva le fusa a ritmo. Era **un brano|mu_16** a tre voci: un custode, una professoressa, un gatto.",
      "de": "Amedeo schlug mit den Schlüsseln den Takt. Die graue Katze auf dem Boden schnurrte im Rhythmus. Es war ein Stück für drei Stimmen: ein Wächter, eine Lehrerin, eine Katze.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_13.mp3?v=1823aed5"
     },
     {
      "id": "k04_14",
      "fr": "« **Mi fa bene|mu_22** », ha detto Chiara alla fine, sorpresa. « Non canto mai. » « Dovrebbe », ha detto Amedeo. « Una canzone **ti parla|mu_19** quando le parole non bastano più. »",
      "de": "„Das tut mir gut“, sagte Chiara am Ende, überrascht. „Ich singe nie.“ „Das sollten Sie“, sagte Amedeo. „Ein Lied spricht einen an, wenn die Worte nicht mehr reichen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_14.mp3?v=7638f733"
     },
     {
      "id": "k04_15",
      "fr": "Il gatto della piastrella si è alzato. Si è stirato. Poi è uscito dalla piastrella, piano, come si esce da un bagno troppo caldo, ed è saltato sullo sgabello, accanto alle crocchette.",
      "de": "Die Katze auf der Kachel stand auf. Sie streckte sich. Dann stieg sie aus der Kachel, langsam, wie man aus einem zu heißen Bad steigt, und sprang auf den Hocker, neben das Trockenfutter.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_15.mp3?v=2e9d5f42"
     },
     {
      "id": "k04_16",
      "fr": "Chiara non ha detto niente. **Aveva una canzone in testa|mu_11**, un gatto di ceramica vivo davanti a sé e nessuna spiegazione ragionevole.",
      "de": "Chiara sagte nichts. Sie hatte einen Ohrwurm, eine lebendige Keramikkatze vor sich und keine vernünftige Erklärung.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_16.mp3?v=483209b9"
     },
     {
      "id": "k04_17",
      "fr": "Ha **canticchiato|mu_12** il ritornello, piano piano, per calmarsi. Questa volta il gatto non ha smesso di fare le fusa.",
      "de": "Sie summte den Refrain, ganz leise, um sich zu beruhigen. Diesmal hörte die Katze nicht auf zu schnurren.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_17.mp3?v=f4f4e778"
     },
     {
      "id": "k04_18",
      "fr": "« Bene », ha detto Amedeo. « Adesso posso raccontarLe la storia. Si sieda. È lunga. »",
      "de": "„Gut“, sagte Amedeo. „Jetzt kann ich Ihnen die Geschichte erzählen. Setzen Sie sich. Sie ist lang.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k04_18.mp3?v=ceb4bda5"
     }
    ]
   },
@@ -7986,126 +7986,126 @@ window.SPRACHEN["it-de"] = {
      "fr": "« **C'era una volta|st_01** un ceramista che viveva ai piedi della Torre, con un gatto », ha cominciato Amedeo. Chiara si è seduta per terra. Adorava quando qualcuno le **raccontava una storia|st_02**. Anche i suoi alunni, del resto.",
      "de": "„Es war einmal ein Keramiker, der am Fuß des Turms lebte, mit einer Katze“, begann Amedeo. Chiara setzte sich auf den Boden. Sie liebte es, wenn ihr jemand eine Geschichte erzählte. Ihre Schüler übrigens auch.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_01.mp3?v=42c731fc"
     },
     {
      "id": "k05_02",
      "fr": "« Era il Duecento. Il ceramista era povero, era bravo, e **aveva un segreto|st_09**: il suo gatto capiva l'italiano. Non tutto. Le canzoni. »",
      "de": "„Es war das dreizehnte Jahrhundert. Der Keramiker war arm, er war begabt, und er hatte ein Geheimnis: Seine Katze verstand Italienisch. Nicht alles. Die Lieder.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_02.mp3?v=ec83edef"
     },
     {
      "id": "k05_03",
      "fr": "« Ha fatto una piastrella per ogni pisolino del suo gatto. L'ultima, la più grande, l'ha messa sopra la finestra. Poi ha chiuso la porta. E la stanza è **sparita|st_18** da tutte le piante. »",
      "de": "„Er machte eine Kachel für jedes Nickerchen seiner Katze. Die letzte, die größte, setzte er über das Fenster. Dann schloss er die Tür. Und der Raum verschwand von allen Plänen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_03.mp3?v=3a0f3f4e"
     },
     {
      "id": "k05_04",
      "fr": "« Nel 1934, il mio primo giorno di lavoro, qualcuno ha trovato la porta. E la notte dopo la piastrella grande non c'era più. **Pare che|st_17** il ladro fosse **un mago|st_11**. Io credo che fosse soprattutto un collezionista. Ma con **un incantesimo|st_07** o con i soldi, il risultato è lo stesso. »",
      "de": "„1934, an meinem ersten Arbeitstag, hat jemand die Tür gefunden. Und in der Nacht darauf war die große Kachel weg. Es heißt, der Dieb sei ein Zauberer gewesen. Ich glaube, er war vor allem ein Sammler. Aber ob mit einem Zauber oder mit Geld, das Ergebnis ist dasselbe.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_04.mp3?v=3480dec6"
     },
     {
      "id": "k05_05",
      "fr": "« L'ho cercata per anni. Una vera **ricerca|st_03**. Sono arrivato **nel folto del bosco|st_04**, sull'Appennino, perché un mercante mi aveva venduto **una mappa del tesoro|st_16**. Falsa, naturalmente. »",
      "de": "„Ich habe sie jahrelang gesucht. Eine richtige Suche. Ich bin bis tief in den Wald gekommen, im Apennin, weil mir ein Händler eine Schatzkarte verkauft hatte. Eine falsche, natürlich.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_05.mp3?v=dada7d53"
     },
     {
      "id": "k05_06",
      "fr": "Chiara ascoltava **con il fiato sospeso|st_20**. Il gatto grigio si era addormentato sulle sue ginocchia. Il gatto della piastrella, sullo sgabello, faceva finta di non ascoltare.",
      "de": "Chiara hörte gespannt zu. Die graue Katze war auf ihrem Schoß eingeschlafen. Die Katze aus der Kachel tat auf dem Hocker so, als hörte sie nicht zu.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_06.mp3?v=44fcdec6"
     },
     {
      "id": "k05_07",
      "fr": "« E **il seguito|st_19**? » « Il seguito è strano. **A un tratto|st_13**, la piastrella è tornata. Qui. Nessuno l'ha portata. Una mattina di primavera era lì, sopra la finestra. Tiepida. »",
      "de": "„Und wie ging es weiter?“ „Die Fortsetzung ist seltsam. Auf einmal war die Kachel wieder da. Hier. Niemand hat sie gebracht. An einem Frühlingsmorgen war sie da, über dem Fenster. Lauwarm.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_07.mp3?v=6ba4f383"
     },
     {
      "id": "k05_08",
      "fr": "« Con il gatto dentro? » « Con il gatto dentro. Si era **trasformato in|st_12** ceramica per tornare a casa. Io credo così. Il parroco diceva che era un miracolo. »",
      "de": "„Mit der Katze darin?“ „Mit der Katze darin. Sie hatte sich in Keramik verwandelt, um nach Hause zu kommen. Das glaube ich. Der Pfarrer sagte, es sei ein Wunder.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_08.mp3?v=68bacb04"
     },
     {
      "id": "k05_09",
      "fr": "Chiara **ha rabbrividito|st_21**. Non di paura. Era l'effetto che le facevano le belle storie, e questa era bellissima.",
      "de": "Chiara schauderte. Nicht vor Angst. So wirkten gute Geschichten auf sie, und diese war wunderschön.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_09.mp3?v=c3394a6d"
     },
     {
      "id": "k05_10",
      "fr": "« Da allora custodisco questa stanza. Non sono **un eroe|st_14**. Sono un custode. Do da mangiare al gatto, canto il ritornello, chiudo la porta. Novantadue anni sono tanti, ma ci si abitua. »",
      "de": "„Seitdem bewache ich diesen Raum. Ich bin kein Held. Ich bin ein Wächter. Ich füttere die Katze, singe den Refrain, schließe die Tür. Zweiundneunzig Jahre sind lang, aber man gewöhnt sich daran.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_10.mp3?v=39e2d862"
     },
     {
      "id": "k05_11",
      "fr": "« Novantadue anni? » ha ripetuto Chiara. Amedeo ha alzato le spalle. « I gatti conservano. »",
      "de": "„Zweiundneunzig Jahre?“, wiederholte Chiara. Amedeo zuckte die Schultern. „Katzen halten jung.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_11.mp3?v=d8a43a96"
     },
     {
      "id": "k05_12",
      "fr": "« Ma c'è **un colpo di scena|st_22** », ha continuato. « Da un mese qualcuno torna. Di notte. Cerca la porta del gradino 249. **Il cattivo|st_15** della storia, forse. O suo nipote. »",
      "de": "„Aber es gibt eine Wendung“, fuhr er fort. „Seit einem Monat kommt jemand zurück. Nachts. Er sucht die Tür auf Stufe 249. Der Bösewicht der Geschichte vielleicht. Oder sein Enkel.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_12.mp3?v=6d1b083f"
     },
     {
      "id": "k05_13",
      "fr": "« E io? Perché io? » ha chiesto Chiara. « Perché un Suo alunno, Luca, ha trovato la porta in primavera, durante una gita. Ha visto il gatto. E ha detto: la mia prof saprà cosa fare. Stona, ma è paziente. »",
      "de": "„Und ich? Warum ich?“, fragte Chiara. „Weil einer Ihrer Schüler, Luca, die Tür im Frühling gefunden hat, bei einem Ausflug. Er hat die Katze gesehen. Und er hat gesagt: Meine Lehrerin wird wissen, was zu tun ist. Sie singt schief, aber sie ist geduldig.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_13.mp3?v=10a1249a"
     },
     {
      "id": "k05_14",
      "fr": "Chiara non sapeva se sentirsi lusingata. Ha deciso di sì.",
      "de": "Chiara wusste nicht, ob sie sich geschmeichelt fühlen sollte. Sie entschied sich dafür.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_14.mp3?v=2571b986"
     },
     {
      "id": "k05_15",
      "fr": "« Nelle storie antiche ci sono sempre **un drago|st_05** e **una spada|st_06** », ha detto Chiara. « Qui che cosa abbiamo? » « Un gatto, una canzone e una professoressa di Bologna », ha detto Amedeo. « È **un regno|st_10** modesto. »",
      "de": "„In alten Geschichten gibt es immer einen Drachen und ein Schwert“, sagte Chiara. „Was haben wir hier?“ „Eine Katze, ein Lied und eine Lehrerin aus Bologna“, sagte Amedeo. „Es ist ein bescheidenes Königreich.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_15.mp3?v=ff353b1c"
     },
     {
      "id": "k05_16",
      "fr": "**All'improvviso|st_08**, le luci della scala si sono spente. La Torre chiudeva. Da sotto, una voce ha gridato l'orario di chiusura in quattro lingue.",
      "de": "Plötzlich gingen die Lichter auf der Treppe aus. Der Turm schloss. Von unten rief eine Stimme die Schließzeit in vier Sprachen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_16.mp3?v=0a45bf91"
     },
     {
      "id": "k05_17",
      "fr": "« Resti », ha detto Amedeo. « Stanotte tornerà. E stanotte sapremo **la fine|st_23** della storia. »",
      "de": "„Bleiben Sie“, sagte Amedeo. „Heute Nacht kommt er wieder. Und heute Nacht erfahren wir das Ende der Geschichte.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_17.mp3?v=b5133440"
     },
     {
      "id": "k05_18",
      "fr": "Chiara ha guardato il gatto grigio, la piastrella vuota, il custode di centododici anni. Poi ha avuto un pensiero assurdo e molto professionale: « **Mi potrebbe consigliare un libro|st_24** sull'argomento? » « Non esiste ancora », ha detto Amedeo. « Lo scriverà Lei. »",
      "de": "Chiara sah die graue Katze an, die leere Kachel, den hundertzwölfjährigen Wächter. Dann hatte sie einen absurden und sehr professionellen Gedanken: „Könnten Sie mir ein Buch zu dem Thema empfehlen?“ „Das gibt es noch nicht“, sagte Amedeo. „Sie werden es schreiben.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k05_18.mp3?v=e8a7585e"
     }
    ]
   },
@@ -8118,126 +8118,126 @@ window.SPRACHEN["it-de"] = {
      "fr": "La Torre, di notte, è molto alta e molto silenziosa. Chiara ha deciso di **riscaldarsi|sp_06**. Quando è nervosa, fa kung fu. È meglio che mangiare tortellini.",
      "de": "Der Turm ist nachts sehr hoch und sehr still. Chiara beschloss, sich aufzuwärmen. Wenn sie nervös ist, macht sie Kung-Fu. Das ist besser, als Tortellini zu essen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_01.mp3?v=a66093f2"
     },
     {
      "id": "k06_02",
      "fr": "**Si allena|sp_01** due volte alla settimana in una palestra di via Saragozza, con un vecchio **maestro|sp_11** che parla poco. Ha **fatto stretching|sp_16** sul pianerottolo, poi ha provato a **tenere una posizione|sp_09**: la posizione del cavaliere, davanti al gradino 249. Il gradino non sembrava impressionato.",
      "de": "Sie trainiert zweimal pro Woche in einer Turnhalle in der Via Saragozza, bei einem alten Meister, der wenig spricht. Sie dehnte sich auf dem Treppenabsatz, dann versuchte sie, eine Stellung zu halten: die Reiterstellung, vor Stufe 249. Die Stufe wirkte nicht beeindruckt.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_02.mp3?v=2e2c2e4b"
     },
     {
      "id": "k06_03",
      "fr": "« Lei **è in forma|sp_08** », ha detto Amedeo. « Per una professoressa. » « Ho ancora **i muscoli indolenziti|sp_07** da martedì », ha confessato Chiara.",
      "de": "„Sie sind fit“, sagte Amedeo. „Für eine Lehrerin.“ „Ich habe noch Muskelkater von Dienstag“, gestand Chiara.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_03.mp3?v=adc0b327"
     },
     {
      "id": "k06_04",
      "fr": "A mezzanotte, un rumore. Passi, giù sulla scala. Chiara ha **mantenuto la calma|sp_05**. Cioè, ci ha provato. Si è concentrata sulla **respirazione|sp_10**, come le aveva insegnato il maestro.",
      "de": "Um Mitternacht ein Geräusch. Schritte, unten auf der Treppe. Chiara blieb ruhig. Das heißt, sie versuchte es. Sie konzentrierte sich auf die Atmung, wie es ihr der Meister beigebracht hatte.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_04.mp3?v=563ce876"
     },
     {
      "id": "k06_05",
      "fr": "Una figura vestita di nero è salita fino al gradino 249. Aveva uno zaino e una torcia. Cercava la porta. Ha trovato Chiara.",
      "de": "Eine schwarz gekleidete Gestalt stieg bis zur Stufe 249 hinauf. Sie hatte einen Rucksack und eine Taschenlampe. Sie suchte die Tür. Sie fand Chiara.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_05.mp3?v=ec5a1a35"
     },
     {
      "id": "k06_06",
      "fr": "La figura ha tirato **un calcio|sp_02** nel vuoto, piuttosto male. Chiara l'ha **schivato|sp_13** senza pensarci. **Corpo e mente|sp_23**, diceva il suo maestro: quando la mente va nel panico, il corpo lavora.",
      "de": "Die Gestalt trat ins Leere, ziemlich schlecht. Chiara wich aus, ohne nachzudenken. Körper und Geist, sagte ihr Meister: Wenn der Geist in Panik gerät, arbeitet der Körper.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_06.mp3?v=214a8a80"
     },
     {
      "id": "k06_07",
      "fr": "Poi è arrivato **un pugno|sp_03**, più veloce. Chiara ha fatto un passo indietro. Per fortuna **aveva equilibrio|sp_18**, perché i gradini di legno della Torre scivolano quando si **suda|sp_14**.",
      "de": "Dann kam ein Fausthieb, schneller. Chiara machte einen Schritt zurück. Zum Glück hatte sie ein gutes Gleichgewicht, denn die Holzstufen des Turms sind rutschig, wenn man schwitzt.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_07.mp3?v=9adcbc1e"
     },
     {
      "id": "k06_08",
      "fr": "La figura è scappata giù per la scala. Chiara l'ha inseguita. Non **andava a correre|sp_19** dall'estate. Quella notte ha recuperato: duecentoquarantanove gradini, nove secoli e una curva sbagliata.",
      "de": "Die Gestalt floh die Treppe hinunter. Chiara verfolgte sie. Sie war seit dem Sommer nicht mehr laufen gewesen. In dieser Nacht holte sie es nach: zweihundertneunundvierzig Stufen, neun Jahrhunderte und eine falsche Kurve.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_08.mp3?v=79dfe2bc"
     },
     {
      "id": "k06_09",
      "fr": "In piazza, ai piedi della Torre, si è fermata per **riprendere fiato|sp_17**. Anche la figura. Si sono guardate, senza fiato, come due alunni alla fine di una partita.",
      "de": "Auf der Piazza, am Fuß des Turms, blieb sie stehen, um wieder zu Atem zu kommen. Die Gestalt auch. Sie sahen sich an, außer Atem, wie zwei Schüler am Ende eines Spiels.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_09.mp3?v=5ec22516"
     },
     {
      "id": "k06_10",
      "fr": "« Lei **fa progressi|sp_21** », ha detto la figura. Una voce giovane. Molto giovane. « Ma la Sua **sequenza|sp_12** è troppo lenta, prof. »",
      "de": "„Sie machen Fortschritte“, sagte die Gestalt. Eine junge Stimme. Sehr jung. „Aber Ihre Abfolge ist zu langsam, Frau Lehrerin.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_10.mp3?v=ecc4b32f"
     },
     {
      "id": "k06_11",
      "fr": "Chiara conosceva quella voce. L'aveva sentita cento volte in classe, di solito per dire: « Per quando è? »",
      "de": "Chiara kannte diese Stimme. Sie hatte sie hundertmal in der Klasse gehört, meistens mit dem Satz: „Bis wann ist das?“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_11.mp3?v=d85c36c8"
     },
     {
      "id": "k06_12",
      "fr": "La figura si è tolta il cappuccio. Era Luca, con una **cintura|sp_20** nera di judo sopra la felpa e un sorriso imbarazzato.",
      "de": "Die Gestalt zog die Kapuze ab. Es war Luca, mit einem schwarzen Judogürtel über dem Sweatshirt und einem verlegenen Lächeln.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_12.mp3?v=9ef51dd6"
     },
     {
      "id": "k06_13",
      "fr": "« Luca? Potevi **farti male|sp_15**! E anch'io! » « Scusi, prof. Volevo metterLa alla prova. Doveva **superarsi|sp_22**. Il ladro, quello vero, è velocissimo. »",
      "de": "„Luca? Du hättest dich verletzen können! Und ich auch!“ „Entschuldigung, Frau Lehrerin. Ich wollte Sie auf die Probe stellen. Sie mussten über sich hinauswachsen. Der Dieb, der echte, ist sehr schnell.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_13.mp3?v=0034d5f1"
     },
     {
      "id": "k06_14",
      "fr": "« Il ladro non sei tu? » « No! Io proteggo il gatto. Con mio nonno. » Ha indicato Amedeo, che scendeva le scale come un ragazzo, con le chiavi in mano.",
      "de": "„Der Dieb bist nicht du?“ „Nein! Ich beschütze die Katze. Mit meinem Opa.“ Er zeigte auf Amedeo, der die Treppe hinunterkam wie ein junger Mann, die Schlüssel in der Hand.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_14.mp3?v=5ff9e0af"
     },
     {
      "id": "k06_15",
      "fr": "Chiara ha guardato Amedeo. Poi Luca. Ha capito da dove venivano la scrittura blu, la **flessibilità|sp_04** del ragazzo in palestra e la sua mania di disegnare gatti.",
      "de": "Chiara sah Amedeo an. Dann Luca. Sie verstand, woher die blaue Schrift kam, die Beweglichkeit des Jungen im Sportunterricht und seine Angewohnheit, Katzen zu zeichnen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_15.mp3?v=ed62cfdf"
     },
     {
      "id": "k06_16",
      "fr": "« Tuo nonno? » ha detto. « Trisnonno », ha corretto Amedeo. « È complicato. I gatti conservano. »",
      "de": "„Dein Opa?“, fragte sie. „Ururgroßvater“, verbesserte Amedeo. „Das ist kompliziert. Katzen halten jung.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_16.mp3?v=1f8be3c6"
     },
     {
      "id": "k06_17",
      "fr": "Chiara si è seduta su un gradino. Era sfinita, bagnata, felice. « Mi dica, Amedeo… **Posso iscrivermi|sp_24** ai Suoi corsi notturni? » Luca è scoppiato a ridere.",
      "de": "Chiara setzte sich auf eine Stufe. Sie war erschöpft, durchnässt, glücklich. „Sagen Sie, Amedeo … Kann ich mich für Ihre Nachtkurse anmelden?“ Luca brach in Lachen aus.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_17.mp3?v=f49f62fd"
     },
     {
      "id": "k06_18",
      "fr": "Sotto i portici, dall'altra parte della piazza, un'ombra li guardava. Un'ombra vera, questa volta.",
      "de": "Unter den Arkaden, auf der anderen Seite der Piazza, beobachtete sie ein Schatten. Ein echter, diesmal.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k06_18.mp3?v=8d467719"
     }
    ]
   },
@@ -8250,119 +8250,119 @@ window.SPRACHEN["it-de"] = {
      "fr": "La mattina dopo Chiara **aveva un languorino|ma_07**. Anzi, una fame da lupi. Non si insegue un finto ladro tutta la notte senza conseguenze.",
      "de": "Am nächsten Morgen hatte Chiara ein bisschen Hunger. Genauer gesagt einen Bärenhunger. Man verfolgt nicht die ganze Nacht einen falschen Dieb, ohne dass es Folgen hat.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_01.mp3?v=3b27738c"
     },
     {
      "id": "k07_02",
      "fr": "Amedeo li ha portati in **una panetteria|ma_10** di via Altabella, aperta dalle sei. « **Vorrei una rosetta, per favore|ma_24** », ha detto Chiara. « E tre brioche. E una fetta di ciambella. Per il gatto. »",
      "de": "Amedeo nahm sie mit in eine Bäckerei in der Via Altabella, die seit sechs Uhr offen hatte. „Ich hätte gern ein Brötchen, bitte“, sagte Chiara. „Und drei Brioches. Und ein Stück Ciambella. Für die Katze.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_02.mp3?v=eb0f6383"
     },
     {
      "id": "k07_03",
      "fr": "La fornaia non ha fatto domande. A Bologna si è visto di peggio.",
      "de": "Die Bäckerin stellte keine Fragen. In Bologna hat man schon Schlimmeres gesehen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_03.mp3?v=e815ca2e"
     },
     {
      "id": "k07_04",
      "fr": "Seduti a un tavolino, **hanno fatto una scorpacciata|ma_08**. Chiara **ha assaggiato|ma_19** la ciambella del gatto, per controllare. « **È squisita|ma_20** », ha concluso. Il gatto non ha avuto la ciambella.",
      "de": "An einem kleinen Tisch schlugen sie sich den Bauch voll. Chiara probierte die Ciambella der Katze, zur Kontrolle. „Sie ist köstlich“, stellte sie fest. Die Katze bekam keine Ciambella.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_04.mp3?v=61aa02bb"
     },
     {
      "id": "k07_05",
      "fr": "« **Buon appetito|ma_09** », ha detto Amedeo, e ha bevuto un caffè amaro. « Io **mangio equilibrato|ma_01**. Una fetta di pane, un frutto, e **bevo acqua|ma_11**. È questo il segreto, con i gatti. »",
      "de": "„Guten Appetit“, sagte Amedeo und trank einen Kaffee ohne Zucker. „Ich esse ausgewogen. Eine Scheibe Brot, ein Stück Obst, und ich trinke Wasser. Das ist das Geheimnis, mit den Katzen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_05.mp3?v=6481354b"
     },
     {
      "id": "k07_06",
      "fr": "Luca, invece, **sgranocchiava|ma_12** tutto quello che restava sul tavolo. « Ha fame, **ha sete|ma_21**, ha sonno, tutto insieme », ha sospirato Amedeo. « Cresce. »",
      "de": "Luca dagegen knabberte alles, was auf dem Tisch übrig war. „Er hat Hunger, er hat Durst, er ist müde, alles gleichzeitig“, seufzte Amedeo. „Er wächst.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_06.mp3?v=ce709cc1"
     },
     {
      "id": "k07_07",
      "fr": "Poi sono andati a **prendere una boccata d'aria|ma_17** ai Giardini Margherita. Faceva freddo, il cielo era chiaro, bello. Chiara **era in forma smagliante|ma_16**. Non aveva dormito, ed era in forma smagliante. Era una novità.",
      "de": "Dann gingen sie in den Giardini Margherita frische Luft schnappen. Es war kalt, der Himmel war klar, schön. Chiara war fit und munter. Sie hatte nicht geschlafen und war fit und munter. Das war neu.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_07.mp3?v=14ce573f"
     },
     {
      "id": "k07_08",
      "fr": "« Stasera Lei **va a letto presto|ma_02** », ha detto Amedeo. « E **dorme come un ghiro|ma_15**. Il ladro viene solo il lunedì notte. Domani. »",
      "de": "„Heute Abend gehen Sie früh ins Bett“, sagte Amedeo. „Und schlafen wie ein Murmeltier. Der Dieb kommt nur montagnachts. Morgen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_08.mp3?v=8b20ebd0"
     },
     {
      "id": "k07_09",
      "fr": "« E Lei, **si prende cura di sé|ma_03**? » ha chiesto Chiara. « Ho centododici anni », ha risposto lui. « Non faccio altro. »",
      "de": "„Und Sie, achten Sie auf sich?“, fragte Chiara. „Ich bin hundertzwölf“, antwortete er. „Ich tue nichts anderes.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_09.mp3?v=9b7bae44"
     },
     {
      "id": "k07_10",
      "fr": "Luca ha tirato fuori il telefono. Aveva fotografato una pagina del quaderno di Amedeo: **una ricetta|ma_18**. « L'umido del gatto del ceramista. Coniglio, carote, un po' di rosmarino. Il gatto della piastrella mangia solo quello. »",
      "de": "Luca zog sein Handy heraus. Er hatte eine Seite aus Amedeos Heft fotografiert: ein Rezept. „Das Nassfutter der Katze des Keramikers. Kaninchen, Karotten, ein bisschen Rosmarin. Die Katze aus der Kachel frisst nur das.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_10.mp3?v=7169e981"
     },
     {
      "id": "k07_11",
      "fr": "« E il ladro? » « Il ladro porta crocchette industriali », ha detto Luca con disprezzo. « Non capisce niente di gatti. »",
      "de": "„Und der Dieb?“ „Der Dieb bringt Fertigfutter mit“, sagte Luca verächtlich. „Er versteht nichts von Katzen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_11.mp3?v=90a710e2"
     },
     {
      "id": "k07_12",
      "fr": "Bisognava **cucinare|ma_05**. Sono andati a **fare la spesa|ma_04** al Mercato di Mezzo: un coniglio, carote, rosmarino. Chiara portava la borsa. **Stava bene nella sua pelle|ma_13**, per la prima volta da tanto tempo.",
      "de": "Man musste also kochen. Sie gingen im Mercato di Mezzo einkaufen: ein Kaninchen, Karotten, Rosmarin. Chiara trug die Tasche. Sie fühlte sich wohl in ihrer Haut, zum ersten Mal seit Langem.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_12.mp3?v=4fbe4774"
     },
     {
      "id": "k07_13",
      "fr": "Nella piccola cucina di Chiara, con il suo gatto che controllava tutto dal frigorifero, hanno preparato **il piatto|ma_06**. Profumava come a casa della nonna. A Chiara è venuto un po' di magone. Un magone buono.",
      "de": "In Chiaras kleiner Küche, während ihre Katze vom Kühlschrank aus alles überwachte, bereiteten sie das Gericht zu. Es duftete wie bei der Großmutter. Chiara bekam ein bisschen einen Kloß im Hals. Einen guten.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_13.mp3?v=deee8441"
     },
     {
      "id": "k07_14",
      "fr": "« **Facciamo una pausa|ma_14** », ha detto Amedeo quando l'umido era pronto. Ha tirato fuori una scatola di biscotti. « **Uno sfizio|ma_23** al giorno. È la mia regola. Oggi è il terzo. »",
      "de": "„Machen wir eine Pause“, sagte Amedeo, als das Nassfutter fertig war. Er holte eine Dose Kekse hervor. „Ein kleines Vergnügen pro Tag. Das ist meine Regel. Heute ist es das dritte.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_14.mp3?v=0643777d"
     },
     {
      "id": "k07_15",
      "fr": "Chiara ha riso. Si era **alzata col piede giusto|ma_22**, il sinistro, da un gradino di legno, dopo una notte senza sonno. Niente tornava. Andava tutto bene.",
      "de": "Chiara lachte. Sie war mit dem richtigen Fuß aufgestanden, dem linken, von einer Holzstufe, nach einer Nacht ohne Schlaf. Nichts passte zusammen. Alles war gut.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_15.mp3?v=ed41033a"
     },
     {
      "id": "k07_16",
      "fr": "La sera Luca è tornato dai suoi genitori. Amedeo è tornato alla Torre. Prima di dormire, Chiara ha chiamato Giovanni.",
      "de": "Am Abend ging Luca zu seinen Eltern zurück. Amedeo ging zurück zum Turm. Vor dem Schlafen rief Chiara Giovanni an.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_16.mp3?v=20707b8a"
     },
     {
      "id": "k07_17",
      "fr": "« Dove sei? » « Alla Torre. Cioè, a casa. Più o meno. » « Hai una voce strana. » « Sono strana. Vieni domani sera. Porta un thermos di caffè. E una torcia. »",
      "de": "„Wo bist du?“ „Am Turm. Also, zu Hause. Mehr oder weniger.“ „Du klingst komisch.“ „Ich bin komisch. Komm morgen Abend. Bring eine Thermoskanne Kaffee mit. Und eine Taschenlampe.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k07_17.mp3?v=52b51c8f"
     }
    ]
   },
@@ -8375,112 +8375,112 @@ window.SPRACHEN["it-de"] = {
      "fr": "Il lunedì, dopo la scuola, Luca è arrivato con un passeggino. Dentro dormiva sua sorella, poco più di **una neonata|ba_05**: dieci mesi e **un peluche|ba_02** a forma di gatto contro la guancia.",
      "de": "Am Montag, nach der Schule, kam Luca mit einem Kinderwagen. Darin schlief seine Schwester, kaum mehr als ein Neugeborenes: zehn Monate alt, ein Kuscheltier in Katzenform an der Wange.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_01.mp3?v=dfd4b165"
     },
     {
      "id": "k08_02",
      "fr": "« Mia sorella, Sofia. I miei lavorano fino a tardi. Di notte **dorme tutta la notte|ba_01**, di solito. Ma di pomeriggio **fa fatica ad addormentarsi|ba_08**. »",
      "de": "„Meine Schwester, Sofia. Meine Eltern arbeiten heute lange. Nachts schläft sie normalerweise durch. Aber nachmittags schläft sie schlecht ein.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_02.mp3?v=067e96f4"
     },
     {
      "id": "k08_03",
      "fr": "Ai piedi della Torre, una turista ha guardato Luca, poi Amedeo. « **Quanti anni ha Suo figlio|ba_24**? » « Novantanove meno di me », ha risposto Amedeo. La turista ha sorriso gentilmente e si è allontanata molto in fretta.",
      "de": "Am Fuß des Turms sah eine Touristin Luca an, dann Amedeo. „Wie alt ist Ihr Kind?“ „Neunundneunzig Jahre jünger als ich“, antwortete Amedeo. Die Touristin lächelte freundlich und entfernte sich sehr schnell.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_03.mp3?v=0f5e8f36"
     },
     {
      "id": "k08_04",
      "fr": "Amedeo **ha preso in braccio|ba_04** Sofia, come si prende una cosa preziosa che si conosce da sempre, e l'ha portata su per duecentoquarantanove gradini. Sofia ha aperto gli occhi, ha guardato il custode e gli **ha fatto un sorriso|ba_06**.",
      "de": "Amedeo nahm Sofia auf den Arm, wie man etwas Kostbares nimmt, das man schon immer kennt, und trug sie zweihundertneunundvierzig Stufen hinauf. Sofia öffnete die Augen, sah den Wächter an und lächelte ihn an.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_04.mp3?v=1c2467da"
     },
     {
      "id": "k08_05",
      "fr": "Nella stanza delle piastrelle, Sofia **ha riso a crepapelle|ba_20** vedendo il gatto grigio. Il gatto ha fatto un salto indietro. I bambini sono imprevedibili. Poi è tornato, curioso, e si è lasciato accarezzare un orecchio.",
      "de": "Im Kachelraum lachte Sofia schallend, als sie die graue Katze sah. Die Katze machte einen Satz zurück. Kinder sind unberechenbar. Dann kam sie zurück, neugierig, und ließ sich am Ohr streicheln.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_05.mp3?v=cacf50c4"
     },
     {
      "id": "k08_06",
      "fr": "« Sta **imparando a camminare|ba_15** », ha detto Luca. Sofia ha fatto tre passi, è caduta sul pavimento, non **ha pianto|ba_13** e ha ricominciato. Chiara ha pensato ai suoi alunni. Le sarebbe piaciuto che facessero lo stesso.",
      "de": "„Sie lernt gerade laufen“, sagte Luca. Sofia machte drei Schritte, fiel auf den Boden, weinte nicht und fing wieder an. Chiara dachte an ihre Schüler. Sie hätte sich gewünscht, dass die es genauso machen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_06.mp3?v=34bcb172"
     },
     {
      "id": "k08_07",
      "fr": "« E **le prime parole|ba_17**? » ha chiesto Chiara. « Papà, mamma e… micio », ha detto Luca. « Più o meno in quest'ordine. »",
      "de": "„Und die ersten Wörter?“, fragte Chiara. „Papa, Mama und … Mieze“, sagte Luca. „Ungefähr in dieser Reihenfolge.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_07.mp3?v=5e052345"
     },
     {
      "id": "k08_08",
      "fr": "Alle quattro era l'ora della **merenda|ba_19**: una mela grattugiata per Sofia, biscotti per gli altri. Luca e Chiara **hanno giocato a nascondino|ba_11** con lei dietro lo sgabello. Vinceva sempre. Imbrogliava.",
      "de": "Um vier gab es den Nachmittagssnack: einen geriebenen Apfel für Sofia, Kekse für die anderen. Luca und Chiara spielten mit ihr Verstecken hinter dem Hocker. Sie gewann immer. Sie schummelte.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_08.mp3?v=a86c18f9"
     },
     {
      "id": "k08_09",
      "fr": "Poi Sofia **ha fatto il riposino|ba_21** nel passeggino. Amedeo le ha canticchiato il ritornello antico. Il gatto della piastrella, sullo sgabello, ha chiuso gli occhi insieme a lei.",
      "de": "Dann hielt Sofia im Kinderwagen Mittagsschlaf. Amedeo summte ihr den alten Refrain vor. Die Katze aus der Kachel schloss auf dem Hocker zusammen mit ihr die Augen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_09.mp3?v=106b4f16"
     },
     {
      "id": "k08_10",
      "fr": "« Da piccolo **avevo paura del buio|ba_22** », ha detto Luca sottovoce. « Il nonno mi **raccontava una favola|ba_12** per farmi dormire: sempre quella del gatto del ceramista. Adesso la so a memoria. »",
      "de": "„Als ich klein war, hatte ich Angst im Dunkeln“, sagte Luca leise. „Opa hat mir zum Einschlafen eine Gute-Nacht-Geschichte erzählt: immer die von der Katze des Keramikers. Jetzt kann ich sie auswendig.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_10.mp3?v=c093d422"
     },
     {
      "id": "k08_11",
      "fr": "« E **facevi il bravo|ba_10**? » ha chiesto Chiara. « Mai », ha detto Amedeo. « **Combinava guai|ba_03** dappertutto. Come il gatto. Per questo vanno così d'accordo. »",
      "de": "„Und warst du brav?“, fragte Chiara. „Nie“, sagte Amedeo. „Er hat überall Unsinn angestellt. Wie die Katze. Deshalb verstehen sie sich so gut.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_11.mp3?v=98655ecd"
     },
     {
      "id": "k08_12",
      "fr": "Chiara guardava Luca occuparsi della sorella: cambiava **il pannolino|ba_09** senza fare smorfie, preparava il biberon, controllava la temperatura sul polso. **Era fiera di|ba_16** lui, e non sapeva come dirglielo.",
      "de": "Chiara sah zu, wie Luca sich um seine Schwester kümmerte: Er wechselte die Windel, ohne das Gesicht zu verziehen, machte das Fläschchen, prüfte die Temperatur am Handgelenk. Sie war stolz auf ihn und wusste nicht, wie sie es ihm sagen sollte.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_12.mp3?v=5339abf7"
     },
     {
      "id": "k08_13",
      "fr": "« È **cresciuto|ba_07**, eh? » ha detto Amedeo, che leggeva nel pensiero dei professori. « Con i ragazzi bisogna **avere pazienza|ba_18**. Alla fine ti sorprendono sempre. »",
      "de": "„Er ist groß geworden, was?“, sagte Amedeo, der die Gedanken von Lehrern lesen konnte. „Mit Kindern muss man Geduld haben. Am Ende überraschen sie einen immer.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_13.mp3?v=b1daa3fe"
     },
     {
      "id": "k08_14",
      "fr": "Alle sette il papà di Luca è venuto a prendere Sofia. « **È l'ora del bagnetto|ba_23** », ha detto alla figlia, che ha protestato in tre lingue inventate. Prima di andare, ha dato **un abbraccio|ba_14** al gatto grigio. Il gatto si è lasciato fare. Era un'impresa.",
      "de": "Um sieben holte Lucas Vater Sofia ab. „Es ist Badezeit“, sagte er zu seiner Tochter, die in drei erfundenen Sprachen protestierte. Bevor sie ging, umarmte sie die graue Katze. Die Katze ließ es sich gefallen. Das war eine Meisterleistung.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_14.mp3?v=bbc91a31"
     },
     {
      "id": "k08_15",
      "fr": "La Torre si è svuotata. Giovanni è arrivato alle otto, con un thermos, due torce e tante domande. Chiara gli ha riassunto la storia in due minuti. Giovanni ha bevuto il suo caffè. Non ha detto niente. Era un buon collega.",
      "de": "Der Turm leerte sich. Giovanni kam um acht, mit einer Thermoskanne, zwei Taschenlampen und vielen Fragen. Chiara fasste ihm die Geschichte in zwei Minuten zusammen. Giovanni trank seinen Kaffee. Er sagte nichts. Er war ein guter Kollege.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_15.mp3?v=4252bf2e"
     },
     {
      "id": "k08_16",
      "fr": "A mezzanotte, la porta del gradino 249 si è aperta. È entrato un uomo, con un sacchetto di crocchette in mano e un ombrello nero sotto il braccio. Chiara l'ha riconosciuto. Era l'uomo del bar.",
      "de": "Um Mitternacht öffnete sich die Tür auf Stufe 249. Ein Mann trat ein, eine Tüte Trockenfutter in der Hand und einen schwarzen Regenschirm unter dem Arm. Chiara erkannte ihn. Es war der Mann aus der Bar.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k08_16.mp3?v=fa7aa886"
     }
    ]
   },
@@ -8490,157 +8490,157 @@ window.SPRACHEN["it-de"] = {
    "absaetze": [
     {
      "id": "k09_01",
-     "fr": "« Fermo! » ha gridato Giovanni, puntando la torcia come un attore di una serie. L'uomo del bar ha posato il sacchetto per terra. « Non rubo niente », ha detto. « Vengo ad **assistere al|fa_11** pisolino del gatto. Tutti i lunedì. »",
-     "de": "„Keine Bewegung!“, rief Giovanni und richtete die Taschenlampe auf ihn wie ein Schauspieler in einer Serie. Der Mann aus der Bar stellte die Tüte auf den Boden. „Ich stehle nichts“, sagte er. „Ich komme, um beim Nickerchen der Katze dabei zu sein. Jeden Montag.“",
+     "fr": "« Fermo! » ha gridato Giovanni, puntando la torcia come un attore di una serie. L'uomo del bar ha posato il sacchetto per terra. « Non rubo niente », ha detto. « Vengo ad **assistere al|fa_11** pisolino del gatto. Tutti i lunedì, da un mese. »",
+     "de": "„Keine Bewegung!“, rief Giovanni und richtete die Taschenlampe auf ihn wie ein Schauspieler in einer Serie. Der Mann aus der Bar stellte die Tüte auf den Boden. „Ich stehle nichts“, sagte er. „Ich komme, um beim Nickerchen der Katze dabei zu sein. Jeden Montag, seit einem Monat.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_01.mp3?v=e4057a96"
     },
     {
      "id": "k09_02",
      "fr": "Si chiamava Ettore. Suo nonno era il collezionista del 1934. « Il ladro, se volete. Io chiedo scusa per lui da quarant'anni. A un gatto. »",
      "de": "Er hieß Ettore. Sein Großvater war der Sammler von 1934. „Der Dieb, wenn Sie so wollen. Ich bitte seit vierzig Jahren für ihn um Verzeihung. Bei einer Katze.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_02.mp3?v=10c6bd1d"
     },
     {
      "id": "k09_03",
      "fr": "Amedeo ha incrociato le braccia. « Mi ha fatto paura per un mese, signore. Con quel **rumore|fa_17** sulla scala, ogni notte. » « Non era mia intenzione. Sono una persona **sensibile|fa_13**. Non mi piacciono le liti. Lascio le crocchette e me ne vado. »",
      "de": "Amedeo verschränkte die Arme. „Sie haben mir einen Monat lang Angst gemacht, mein Herr. Mit diesem Lärm auf der Treppe, jede Nacht.“ „Das war nicht meine Absicht. Ich bin ein empfindsamer Mensch. Ich mag keinen Streit. Ich lasse das Trockenfutter da und gehe wieder.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_03.mp3?v=69bef631"
     },
     {
      "id": "k09_04",
      "fr": "« Che **caldo|fa_01**, qui dentro », ha detto Ettore, e si è tolto la sciarpa. « Kalt? » ha chiesto Giovanni, che a volte pensava ancora in tedesco. « Caldo, Giovanni. Caldo vuol dire warm », ha detto Chiara.",
      "de": "„Ist das warm hier drin“, sagte Ettore und nahm seinen Schal ab. „Kalt?“, fragte Giovanni, der manchmal noch auf Deutsch dachte. „Caldo, Giovanni. Caldo heißt warm“, sagte Chiara.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_04.mp3?v=8c281d90"
     },
     {
      "id": "k09_05",
      "fr": "« E il biglietto? » ha chiesto Chiara. « Sono stato io », ha detto Luca. « E l'uomo del bar? » « Sono stato io », ha detto Ettore. « Luca mi aveva parlato di Lei. **Attualmente|fa_09** è l'unica prof che rispetta. Dice che Lei sa aspettare. »",
      "de": "„Und die Karte?“, fragte Chiara. „Das war ich“, sagte Luca. „Und der Mann in der Bar?“ „Das war ich“, sagte Ettore. „Luca hatte mir von Ihnen erzählt. Zurzeit sind Sie die einzige Lehrerin, die er respektiert. Er sagt, Sie können warten.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_05.mp3?v=96dccaaa"
     },
     {
      "id": "k09_06",
      "fr": "« Aspettare? » « Aspettare che gli alunni capiscano. Senza gridare. **Eventualmente|fa_08** cantando stonato. »",
      "de": "„Warten?“ „Warten, bis die Schüler verstehen. Ohne zu schreien. Möglicherweise, indem Sie schief singen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_06.mp3?v=03ca191e"
     },
     {
      "id": "k09_07",
      "fr": "Ettore ha tirato fuori un foglio ingiallito, con una **firma|fa_03** in fondo: la ricevuta del 1934. « Mio nonno ha comprato la piastrella da un mercante. Non sapeva che era rubata. L'ha tenuta in **cantina|fa_05**, nella sua **fattoria|fa_06** vicino a Modena, per un anno. Poi la piastrella se n'è andata da sola. »",
      "de": "Ettore holte ein vergilbtes Blatt hervor, mit einer Unterschrift unten: die Quittung von 1934. „Mein Großvater hat die Kachel einem Händler abgekauft. Er wusste nicht, dass sie gestohlen war. Er hat sie ein Jahr lang im Keller aufbewahrt, auf seinem Bauernhof bei Modena. Dann ist die Kachel von allein gegangen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_07.mp3?v=2ee23610"
     },
     {
      "id": "k09_08",
      "fr": "« Non voleva fare del male a nessuno. Era un uomo **educato|fa_07**, e amava questo gatto. Anch'io. Vengo solo a trovarlo, come si va a trovare un vecchio amico. »",
      "de": "„Er wollte niemandem etwas Böses. Er war ein höflicher Mann, und er liebte diese Katze. Ich auch. Ich komme nur, um sie zu besuchen, wie man einen alten Freund besucht.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_08.mp3?v=6660bc97"
     },
     {
      "id": "k09_09",
      "fr": "Giovanni ha spento la torcia. « Quindi non c'è un cattivo? » « C'è una professoressa stanca, un custode molto vecchio, un ragazzo geniale e un uomo solo », ha detto Amedeo. « Basta per una storia. »",
      "de": "Giovanni schaltete die Taschenlampe aus. „Es gibt also keinen Bösewicht?“ „Es gibt eine müde Lehrerin, einen sehr alten Wächter, einen genialen Jungen und einen einsamen Mann“, sagte Amedeo. „Das reicht für eine Geschichte.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_09.mp3?v=d151fd16"
     },
     {
      "id": "k09_10",
      "fr": "Il gatto grigio si è strusciato contro la **gamba|fa_23** di Ettore. Il gatto della piastrella, sullo sgabello, l'ha guardato a lungo. Poi ha mangiato una crocchetta industriale. Per educazione.",
      "de": "Die graue Katze rieb sich an Ettores Bein. Die Katze aus der Kachel sah ihn auf dem Hocker lange an. Dann fraß sie ein Bröckchen Fertigfutter. Aus Höflichkeit.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_10.mp3?v=cc1ff0be"
     },
     {
      "id": "k09_11",
      "fr": "« La perdona », ha detto Amedeo. « Ma non **pretenda|fa_12** troppo: odia queste crocchette. Piene di conservanti. » « Di **preservativi|fa_16**? » ha chiesto Giovanni, che insegnava inglese e pensava in inglese. Luca ha pianto dal ridere.",
      "de": "„Sie verzeiht Ihnen“, sagte Amedeo. „Aber verlangen Sie nicht zu viel: Sie hasst dieses Futter. Voller Konservierungsstoffe.“ „Voller Kondome?“, fragte Giovanni, der Englisch unterrichtete und auf Englisch dachte. Luca weinte vor Lachen.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_11.mp3?v=d71564a0"
     },
     {
      "id": "k09_12",
      "fr": "Ettore ha sorriso per la prima volta. « Lavoro in **una libreria|fa_10**, in via Zamboni. Se un giorno scriverà questa storia, la venderò io. » « In una library? » ha chiesto Giovanni. « In una libreria. Lì i libri si comprano, Giovanni. »",
      "de": "Ettore lächelte zum ersten Mal. „Ich arbeite in einer Buchhandlung in der Via Zamboni. Wenn Sie diese Geschichte eines Tages schreiben, verkaufe ich sie.“ „In einer Library?“, fragte Giovanni. „In einer Buchhandlung. Da kauft man Bücher, Giovanni.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_12.mp3?v=166a9c70"
     },
     {
      "id": "k09_13",
      "fr": "Luca ha annunciato che avrebbe fatto lo stage in libreria. Ettore ha detto di sì. Amedeo ha detto che prima bisognava comunque passare l'esame di terza media. « Lo dico ai miei **parenti|fa_15** », ha detto Luca. « Cioè a tutti: il trisnonno, i genitori, Sofia e il gatto. »",
      "de": "Luca verkündete, er werde sein Praktikum in der Buchhandlung machen. Ettore sagte Ja. Amedeo sagte, vorher müsse er trotzdem die Abschlussprüfung der Mittelschule bestehen. „Ich sage es meinen Verwandten“, sagte Luca. „Also allen: dem Ururgroßvater, den Eltern, Sofia und der Katze.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_13.mp3?v=6f329c2e"
     },
     {
      "id": "k09_14",
      "fr": "Alle due di notte il gatto della piastrella è tornato nella piastrella. Si è sdraiato, ha chiuso gli occhi e ha fatto le fusa un'ultima volta. La **stanza|fa_18** è tornata silenziosa.",
      "de": "Um zwei Uhr nachts kehrte die Katze in die Kachel zurück. Sie legte sich hin, schloss die Augen und schnurrte ein letztes Mal. Das Zimmer wurde wieder still.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_14.mp3?v=3bbf6edc"
     },
     {
      "id": "k09_15",
      "fr": "Il martedì, a scuola, Chiara **ha riconsegnato i compiti|tc_16**. Con un giorno di ritardo: il lunedì li aveva lasciati a casa, sotto il gatto. Quello di Luca aveva un post scriptum: « Grazie, prof. Anche il gatto dice grazie. » Gli aveva messo sette. Ha aggiunto mezzo voto. Per il gatto.",
      "de": "Am Dienstag gab Chiara in der Schule die Arbeiten zurück. Mit einem Tag Verspätung: Am Montag hatte sie sie zu Hause gelassen, unter der Katze. Lucas Arbeit hatte ein Postskriptum: „Danke, Frau Lehrerin. Die Katze sagt auch danke.“ Sie hatte ihm eine Sieben gegeben. Sie legte einen halben Punkt drauf. Für die Katze.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_15.mp3?v=18a0fbdd"
     },
     {
      "id": "k09_16",
      "fr": "In sala professori Giovanni le ha portato un caffè. « Che **casino|fa_19**, questo weekend », ha detto Chiara. « Sei andata al casinò? » « No, Giovanni. Casino senza accento. Confusione. » Giovanni non ha fatto altre domande. Era davvero un buon collega.",
      "de": "Im Lehrerzimmer brachte ihr Giovanni einen Kaffee. „Was für ein Durcheinander, dieses Wochenende“, sagte Chiara. „Warst du im Casino?“ „Nein, Giovanni. Casino ohne Akzent. Durcheinander.“ Giovanni stellte keine weiteren Fragen. Er war wirklich ein guter Kollege.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_16.mp3?v=6b2f655d"
     },
     {
      "id": "k09_17",
      "fr": "La sera, quando è **salita|fa_21** in **camera|fa_02**, Chiara ha trovato un pacchetto sulla scrivania. Dentro: un disegno di Luca, un gatto grigio vestito da veterinario, e dei biscotti al **burro|fa_20** fatti da Amedeo.",
      "de": "Als Chiara am Abend in ihr Zimmer hinaufging, fand sie auf dem Schreibtisch ein Päckchen. Darin: eine Zeichnung von Luca, eine graue Katze als Tierärztin verkleidet, und Butterkekse, die Amedeo gebacken hatte.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_17.mp3?v=658650da"
     },
     {
      "id": "k09_18",
      "fr": "C'era anche una scatolina di **confetti|fa_04**, con un biglietto di Ettore: « Non sono per il carnevale. Si mangiano. Per la Sua prossima visita alla Torre: si prenda il Suo tempo. »",
      "de": "Es gab auch ein Schächtelchen Zuckermandeln, mit einer Karte von Ettore: „Die sind nicht für den Karneval. Man isst sie. Für Ihren nächsten Besuch im Turm: Lassen Sie sich Zeit.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_18.mp3?v=3557ef85"
     },
     {
      "id": "k09_19",
      "fr": "Chiara si è messa il suo maglione più **largo|fa_22**, quello con il buco, e ha ordinato una pizza. Poi si è seduta sul divano con il suo gatto e ha cominciato a scrivere: « Chiara Rossi era professoressa a Bologna… »",
      "de": "Chiara zog ihren weitesten Pullover an, den mit dem Loch, und bestellte eine Pizza. Dann setzte sie sich mit ihrer Katze aufs Sofa und fing an zu schreiben: „Chiara Rossi war Lehrerin in Bologna …“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_19.mp3?v=c1417013"
     },
     {
      "id": "k09_20",
      "fr": "Il suo gatto è rimasto accanto a lei tutta la sera, su un cuscino **morbido|fa_14**. Ogni tanto faceva le fusa. Chiara avrebbe giurato che erano intonate.",
      "de": "Ihre Katze blieb den ganzen Abend neben ihr, auf einem weichen Kissen. Ab und zu schnurrte sie. Chiara hätte schwören können, dass es sauber gesungen war.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_20.mp3?v=c61f525a"
     },
     {
      "id": "k09_21",
      "fr": "Qualche settimana dopo, un signore molto anziano con un berretto di lana è entrato in una libreria di via Zamboni. « **Scusi, cerco la biblioteca|fa_24** », ha detto. « Qui i libri si vendono, signore », ha sorriso Ettore. « Lo so », ha detto Amedeo. « Volevo solo vedere se Lei conosceva la differenza. »",
      "de": "Ein paar Wochen später betrat ein sehr alter Herr mit Wollmütze eine Buchhandlung in der Via Zamboni. „Entschuldigung, ich suche die Bibliothek“, sagte er. „Hier verkauft man Bücher, mein Herr“, lächelte Ettore. „Ich weiß“, sagte Amedeo. „Ich wollte nur sehen, ob Sie den Unterschied kennen.“",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_21.mp3?v=8ce7b0a8"
     },
     {
      "id": "k09_22",
      "fr": "Fine.",
      "de": "Ende.",
      "umschrift": null,
-     "audio": null
+     "audio": "audio/it-de/geschichte/k09_22.mp3?v=4e0d1d1f"
     }
    ]
   }
@@ -10686,6 +10686,16 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/geschichte/k01_12.mp3?v=9230ca5f",
   "audio/it-de/geschichte/k01_13.mp3?v=10045ff0",
   "audio/it-de/geschichte/k01_14.mp3?v=8889d6dc",
+  "audio/it-de/geschichte/k01_15.mp3?v=764bfd0d",
+  "audio/it-de/geschichte/k01_16.mp3?v=b5493d9f",
+  "audio/it-de/geschichte/k01_17.mp3?v=5b10f65f",
+  "audio/it-de/geschichte/k01_18.mp3?v=9c9be76b",
+  "audio/it-de/geschichte/k01_19.mp3?v=a27e1373",
+  "audio/it-de/geschichte/k01_20.mp3?v=77f8b531",
+  "audio/it-de/geschichte/k01_21.mp3?v=b9093e1a",
+  "audio/it-de/geschichte/k01_22.mp3?v=1906962d",
+  "audio/it-de/geschichte/k01_23.mp3?v=34aaa40d",
+  "audio/it-de/geschichte/k01_24.mp3?v=fc0721d9",
   "audio/it-de/geschichte/k02_01.mp3?v=0aaacf02",
   "audio/it-de/geschichte/k02_02.mp3?v=0a93df33",
   "audio/it-de/geschichte/k02_03.mp3?v=cf080967",
@@ -10701,6 +10711,16 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/geschichte/k02_13.mp3?v=e280bb23",
   "audio/it-de/geschichte/k02_14.mp3?v=9dd30f0b",
   "audio/it-de/geschichte/k02_15.mp3?v=58827ad3",
+  "audio/it-de/geschichte/k02_16.mp3?v=59f53dda",
+  "audio/it-de/geschichte/k02_17.mp3?v=4d52c6cc",
+  "audio/it-de/geschichte/k02_18.mp3?v=1bb1da4d",
+  "audio/it-de/geschichte/k02_19.mp3?v=62cb743b",
+  "audio/it-de/geschichte/k02_20.mp3?v=b055997b",
+  "audio/it-de/geschichte/k02_21.mp3?v=2d69807a",
+  "audio/it-de/geschichte/k02_22.mp3?v=54b7f69e",
+  "audio/it-de/geschichte/k02_23.mp3?v=cfb3dd4d",
+  "audio/it-de/geschichte/k02_24.mp3?v=6bb60755",
+  "audio/it-de/geschichte/k02_25.mp3?v=4c4093d3",
   "audio/it-de/geschichte/k03_01.mp3?v=871ba540",
   "audio/it-de/geschichte/k03_02.mp3?v=d0e3b32d",
   "audio/it-de/geschichte/k03_03.mp3?v=5c9029b7",
@@ -10716,6 +10736,125 @@ window.SPRACHEN["it-de"] = {
   "audio/it-de/geschichte/k03_13.mp3?v=f4e2ee19",
   "audio/it-de/geschichte/k03_14.mp3?v=fa887b10",
   "audio/it-de/geschichte/k03_15.mp3?v=d58f2b86",
+  "audio/it-de/geschichte/k03_16.mp3?v=3c8eb3c8",
+  "audio/it-de/geschichte/k03_17.mp3?v=b33312f6",
+  "audio/it-de/geschichte/k03_18.mp3?v=2a9a7000",
+  "audio/it-de/geschichte/k03_19.mp3?v=941383da",
+  "audio/it-de/geschichte/k03_20.mp3?v=246c0920",
+  "audio/it-de/geschichte/k03_21.mp3?v=0bd4dfc8",
+  "audio/it-de/geschichte/k03_22.mp3?v=ee37b5e0",
+  "audio/it-de/geschichte/k03_23.mp3?v=a4cb1dee",
+  "audio/it-de/geschichte/k03_24.mp3?v=69ef63ce",
+  "audio/it-de/geschichte/k03_25.mp3?v=cb1178c2",
+  "audio/it-de/geschichte/k04_01.mp3?v=f8e71782",
+  "audio/it-de/geschichte/k04_02.mp3?v=1bed84d5",
+  "audio/it-de/geschichte/k04_03.mp3?v=c6e3f5f8",
+  "audio/it-de/geschichte/k04_04.mp3?v=76b358a8",
+  "audio/it-de/geschichte/k04_05.mp3?v=997e9a60",
+  "audio/it-de/geschichte/k04_06.mp3?v=c7fdd87a",
+  "audio/it-de/geschichte/k04_07.mp3?v=c8830e5d",
+  "audio/it-de/geschichte/k04_08.mp3?v=ddb58269",
+  "audio/it-de/geschichte/k04_09.mp3?v=03b2e0f0",
+  "audio/it-de/geschichte/k04_10.mp3?v=8709b263",
+  "audio/it-de/geschichte/k04_11.mp3?v=7c65963d",
+  "audio/it-de/geschichte/k04_12.mp3?v=ddef01d5",
+  "audio/it-de/geschichte/k04_13.mp3?v=1823aed5",
+  "audio/it-de/geschichte/k04_14.mp3?v=7638f733",
+  "audio/it-de/geschichte/k04_15.mp3?v=2e9d5f42",
+  "audio/it-de/geschichte/k04_16.mp3?v=483209b9",
+  "audio/it-de/geschichte/k04_17.mp3?v=f4f4e778",
+  "audio/it-de/geschichte/k04_18.mp3?v=ceb4bda5",
+  "audio/it-de/geschichte/k05_01.mp3?v=42c731fc",
+  "audio/it-de/geschichte/k05_02.mp3?v=ec83edef",
+  "audio/it-de/geschichte/k05_03.mp3?v=3a0f3f4e",
+  "audio/it-de/geschichte/k05_04.mp3?v=3480dec6",
+  "audio/it-de/geschichte/k05_05.mp3?v=dada7d53",
+  "audio/it-de/geschichte/k05_06.mp3?v=44fcdec6",
+  "audio/it-de/geschichte/k05_07.mp3?v=6ba4f383",
+  "audio/it-de/geschichte/k05_08.mp3?v=68bacb04",
+  "audio/it-de/geschichte/k05_09.mp3?v=c3394a6d",
+  "audio/it-de/geschichte/k05_10.mp3?v=39e2d862",
+  "audio/it-de/geschichte/k05_11.mp3?v=d8a43a96",
+  "audio/it-de/geschichte/k05_12.mp3?v=6d1b083f",
+  "audio/it-de/geschichte/k05_13.mp3?v=10a1249a",
+  "audio/it-de/geschichte/k05_14.mp3?v=2571b986",
+  "audio/it-de/geschichte/k05_15.mp3?v=ff353b1c",
+  "audio/it-de/geschichte/k05_16.mp3?v=0a45bf91",
+  "audio/it-de/geschichte/k05_17.mp3?v=b5133440",
+  "audio/it-de/geschichte/k05_18.mp3?v=e8a7585e",
+  "audio/it-de/geschichte/k06_01.mp3?v=a66093f2",
+  "audio/it-de/geschichte/k06_02.mp3?v=2e2c2e4b",
+  "audio/it-de/geschichte/k06_03.mp3?v=adc0b327",
+  "audio/it-de/geschichte/k06_04.mp3?v=563ce876",
+  "audio/it-de/geschichte/k06_05.mp3?v=ec5a1a35",
+  "audio/it-de/geschichte/k06_06.mp3?v=214a8a80",
+  "audio/it-de/geschichte/k06_07.mp3?v=9adcbc1e",
+  "audio/it-de/geschichte/k06_08.mp3?v=79dfe2bc",
+  "audio/it-de/geschichte/k06_09.mp3?v=5ec22516",
+  "audio/it-de/geschichte/k06_10.mp3?v=ecc4b32f",
+  "audio/it-de/geschichte/k06_11.mp3?v=d85c36c8",
+  "audio/it-de/geschichte/k06_12.mp3?v=9ef51dd6",
+  "audio/it-de/geschichte/k06_13.mp3?v=0034d5f1",
+  "audio/it-de/geschichte/k06_14.mp3?v=5ff9e0af",
+  "audio/it-de/geschichte/k06_15.mp3?v=ed62cfdf",
+  "audio/it-de/geschichte/k06_16.mp3?v=1f8be3c6",
+  "audio/it-de/geschichte/k06_17.mp3?v=f49f62fd",
+  "audio/it-de/geschichte/k06_18.mp3?v=8d467719",
+  "audio/it-de/geschichte/k07_01.mp3?v=3b27738c",
+  "audio/it-de/geschichte/k07_02.mp3?v=eb0f6383",
+  "audio/it-de/geschichte/k07_03.mp3?v=e815ca2e",
+  "audio/it-de/geschichte/k07_04.mp3?v=61aa02bb",
+  "audio/it-de/geschichte/k07_05.mp3?v=6481354b",
+  "audio/it-de/geschichte/k07_06.mp3?v=ce709cc1",
+  "audio/it-de/geschichte/k07_07.mp3?v=14ce573f",
+  "audio/it-de/geschichte/k07_08.mp3?v=8b20ebd0",
+  "audio/it-de/geschichte/k07_09.mp3?v=9b7bae44",
+  "audio/it-de/geschichte/k07_10.mp3?v=7169e981",
+  "audio/it-de/geschichte/k07_11.mp3?v=90a710e2",
+  "audio/it-de/geschichte/k07_12.mp3?v=4fbe4774",
+  "audio/it-de/geschichte/k07_13.mp3?v=deee8441",
+  "audio/it-de/geschichte/k07_14.mp3?v=0643777d",
+  "audio/it-de/geschichte/k07_15.mp3?v=ed41033a",
+  "audio/it-de/geschichte/k07_16.mp3?v=20707b8a",
+  "audio/it-de/geschichte/k07_17.mp3?v=52b51c8f",
+  "audio/it-de/geschichte/k08_01.mp3?v=dfd4b165",
+  "audio/it-de/geschichte/k08_02.mp3?v=067e96f4",
+  "audio/it-de/geschichte/k08_03.mp3?v=0f5e8f36",
+  "audio/it-de/geschichte/k08_04.mp3?v=1c2467da",
+  "audio/it-de/geschichte/k08_05.mp3?v=cacf50c4",
+  "audio/it-de/geschichte/k08_06.mp3?v=34bcb172",
+  "audio/it-de/geschichte/k08_07.mp3?v=5e052345",
+  "audio/it-de/geschichte/k08_08.mp3?v=a86c18f9",
+  "audio/it-de/geschichte/k08_09.mp3?v=106b4f16",
+  "audio/it-de/geschichte/k08_10.mp3?v=c093d422",
+  "audio/it-de/geschichte/k08_11.mp3?v=98655ecd",
+  "audio/it-de/geschichte/k08_12.mp3?v=5339abf7",
+  "audio/it-de/geschichte/k08_13.mp3?v=b1daa3fe",
+  "audio/it-de/geschichte/k08_14.mp3?v=bbc91a31",
+  "audio/it-de/geschichte/k08_15.mp3?v=4252bf2e",
+  "audio/it-de/geschichte/k08_16.mp3?v=fa7aa886",
+  "audio/it-de/geschichte/k09_01.mp3?v=e4057a96",
+  "audio/it-de/geschichte/k09_02.mp3?v=10c6bd1d",
+  "audio/it-de/geschichte/k09_03.mp3?v=69bef631",
+  "audio/it-de/geschichte/k09_04.mp3?v=8c281d90",
+  "audio/it-de/geschichte/k09_05.mp3?v=96dccaaa",
+  "audio/it-de/geschichte/k09_06.mp3?v=03ca191e",
+  "audio/it-de/geschichte/k09_07.mp3?v=2ee23610",
+  "audio/it-de/geschichte/k09_08.mp3?v=6660bc97",
+  "audio/it-de/geschichte/k09_09.mp3?v=d151fd16",
+  "audio/it-de/geschichte/k09_10.mp3?v=cc1ff0be",
+  "audio/it-de/geschichte/k09_11.mp3?v=d71564a0",
+  "audio/it-de/geschichte/k09_12.mp3?v=166a9c70",
+  "audio/it-de/geschichte/k09_13.mp3?v=6f329c2e",
+  "audio/it-de/geschichte/k09_14.mp3?v=3bbf6edc",
+  "audio/it-de/geschichte/k09_15.mp3?v=18a0fbdd",
+  "audio/it-de/geschichte/k09_16.mp3?v=6b2f655d",
+  "audio/it-de/geschichte/k09_17.mp3?v=658650da",
+  "audio/it-de/geschichte/k09_18.mp3?v=3557ef85",
+  "audio/it-de/geschichte/k09_19.mp3?v=c1417013",
+  "audio/it-de/geschichte/k09_20.mp3?v=c61f525a",
+  "audio/it-de/geschichte/k09_21.mp3?v=8ce7b0a8",
+  "audio/it-de/geschichte/k09_22.mp3?v=4e0d1d1f",
   "audio/it-de/lob/doch_vedi.mp3?v=16770c04",
   "audio/it-de/lob/fehler_ahi.mp3?v=6bffc475",
   "audio/it-de/lob/fehler_hmm.mp3?v=05a58e26",
