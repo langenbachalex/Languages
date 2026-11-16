@@ -8294,8 +8294,43 @@ window.SPRACHEN["es-de"] = {
      "audio": "audio/es-de/geschichte/k01_01.mp3?v=32530d77"
     },
     {
+     "id": "k01_15",
+     "fr": "Aquel viernes había **dado clase|pr_04** de ocho a tres. Seis horas seguidas. Los de tercero **iban a tope|pr_15**; los de primero, un poco menos.",
+     "de": "An jenem Freitag hatte sie von acht bis drei unterrichtet. Sechs Stunden am Stück. Die Neuntklässler waren voll dabei, die Siebtklässler etwas weniger.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_15.mp3?v=2475a55a"
+    },
+    {
+     "id": "k01_16",
+     "fr": "En **el recreo|pr_05**, Javier, su compañero de Cádiz, le había llevado un café a **la sala de profes|pr_20**. « **¿Qué tal ha ido|pr_03**, con los de tercero? » « Muy bien. **En realidad|pr_11**, demasiado bien. Lo han entendido todo. Es sospechoso. »",
+     "de": "In der Pause hatte ihr Javier, ihr Kollege aus Cádiz, einen Kaffee ins Lehrerzimmer gebracht. „Wie ist es gelaufen, mit den Neuntklässlern?“ „Sehr gut. Eigentlich zu gut. Sie haben alles verstanden. Das ist verdächtig.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_16.mp3?v=492dc88d"
+    },
+    {
+     "id": "k01_17",
+     "fr": "Por la mañana, al **pasar lista|pr_22**, Marta **se había liado|pr_23** con los nombres: dos Lucías, tres Pablos y un Iker que nadie sabía de dónde había salido.",
+     "de": "Am Morgen, beim Namenaufrufen, hatte Marta sich bei den Namen verheddert: zwei Lucías, drei Pablos und ein Iker, von dem niemand wusste, wo er herkam.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_17.mp3?v=d1828353"
+    },
+    {
+     "id": "k01_18",
+     "fr": "Después hubo **una reunión|pr_17**. Hora y media sobre el reglamento del comedor. Marta **estaba harta|pr_07**. Dibujó un gato en el margen del orden del día. **O sea|pr_10**, lo de siempre.",
+     "de": "Danach gab es eine Konferenz. Anderthalb Stunden über die Kantinenordnung. Marta hatte die Nase voll. Sie zeichnete eine Katze an den Rand der Tagesordnung. Also das Übliche.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_18.mp3?v=14d67a76"
+    },
+    {
+     "id": "k01_19",
+     "fr": "« **Entrego los exámenes|pr_16** el lunes », les había prometido a los de tercero. Así que había que corregirlos esta noche. **De todas formas|pr_12**, un viernes por la noche…",
+     "de": "„Ich gebe die Arbeiten am Montag zurück“, hatte sie den Neuntklässlern versprochen. Also mussten sie heute Abend korrigiert werden. Trotzdem, an einem Freitagabend …",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_19.mp3?v=edc19f91"
+    },
+    {
      "id": "k01_02",
-     "fr": "Aquel viernes por la tarde **corregía exámenes**, como todos los viernes. **Estaba hecha polvo**. Fuera hacía calor. Dentro, su gato **echaba la siesta** sobre los exámenes ya corregidos.",
+     "fr": "Aquel viernes por la tarde **corregía exámenes|pr_01**, como todos los viernes. **Estaba hecha polvo|pr_02**. Fuera hacía calor. Dentro, su gato **echaba la siesta|ga_10** sobre los exámenes ya corregidos.",
      "de": "An jenem Freitagnachmittag korrigierte sie Arbeiten, wie jeden Freitag. Sie war fix und fertig. Draußen war es heiß. Drinnen hielt ihre Katze Siesta auf den schon korrigierten Arbeiten.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k01_02.mp3?v=05f9a891"
@@ -8330,10 +8365,17 @@ window.SPRACHEN["es-de"] = {
     },
     {
      "id": "k01_07",
-     "fr": "Marta **no tenía miedo**. Todavía no. **Le costaba** entenderlo, nada más.",
+     "fr": "Marta **no tenía miedo|se_11**. Todavía no. **Le costaba|pr_08** entenderlo, nada más.",
      "de": "Marta hatte keine Angst. Noch nicht. Es fiel ihr nur schwer, das zu verstehen, mehr nicht.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k01_07.mp3?v=f31a0327"
+    },
+    {
+     "id": "k01_20",
+     "fr": "Javier siempre decía: « Si necesitas que te **eche una mano|pr_21**, me llamas. » Marta pensó en llamarlo. Luego pensó: « **No pasa nada|pr_18**. Es solo una entrada. »",
+     "de": "Javier sagte immer: „Wenn du Hilfe brauchst, ruf mich an.“ Marta dachte daran, ihn anzurufen. Dann dachte sie: „Ist doch nichts dabei. Es ist nur eine Eintrittskarte.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_20.mp3?v=b70addb4"
     },
     {
      "id": "k01_08",
@@ -8344,10 +8386,17 @@ window.SPRACHEN["es-de"] = {
     },
     {
      "id": "k01_09",
-     "fr": "Marta miró a su gato. El gato la miró a ella. **Tenía una mirada** que decía: « Ve. »",
+     "fr": "Marta miró a su gato. El gato la miró a ella. **Tenía una mirada|ga_14** que decía: « Ve. »",
      "de": "Marta sah ihre Katze an. Die Katze sah sie an. Sie hatte einen Blick, der sagte: „Geh.“",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k01_09.mp3?v=406ef116"
+    },
+    {
+     "id": "k01_21",
+     "fr": "Marta pensó en el Alcázar. **¡Cuánto tiempo|pr_09**! Desde la excursión de junio no había vuelto. **Tenía ganas de|pr_06** volver, la verdad.",
+     "de": "Marta dachte an den Alcázar. Wie lange schon! Seit dem Ausflug im Juni war sie nicht mehr dort gewesen. Sie hatte Lust, wieder hinzugehen, ehrlich gesagt.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_21.mp3?v=f37b7007"
     },
     {
      "id": "k01_10",
@@ -8357,25 +8406,46 @@ window.SPRACHEN["es-de"] = {
      "audio": "audio/es-de/geschichte/k01_10.mp3?v=e84cc8a8"
     },
     {
+     "id": "k01_22",
+     "fr": "Luego pensó: una entrada gratis para el Alcázar **merece la pena|pr_13**. Y una profesora sabe **apañarse|pr_14** en un palacio. Es solo una clase más tranquila.",
+     "de": "Dann dachte sie: Eine kostenlose Karte für den Alcázar lohnt sich. Und eine Lehrerin weiß sich in einem Palast zu helfen. Das ist nur eine ruhigere Klasse.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_22.mp3?v=afb84289"
+    },
+    {
      "id": "k01_11",
-     "fr": "Aquella noche, Marta **no durmió del tirón**. Soñó con un patio lleno de fuentes y con una puerta que no estaba en ningún plano.",
+     "fr": "Aquella noche, Marta **no durmió del tirón|ni_01**. Soñó con un patio lleno de fuentes y con una puerta que no estaba en ningún plano.",
      "de": "In jener Nacht schlief Marta nicht durch. Sie träumte von einem Hof voller Brunnen und einer Tür, die auf keinem Plan war.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k01_11.mp3?v=bbffaa47"
     },
     {
      "id": "k01_12",
-     "fr": "A las siete se levantó. **Con el pie derecho**. El izquierdo. Como siempre.",
+     "fr": "A las siete se levantó. **Con el pie derecho|co_22**. El izquierdo. Como siempre.",
      "de": "Um sieben stand sie auf. Mit dem richtigen Fuß. Dem linken. Wie immer.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k01_12.mp3?v=cca524e6"
     },
     {
+     "id": "k01_23",
+     "fr": "« **Tómate tu tiempo|pr_19** », se dijo mientras desayunaba. El Alcázar abría a las nueve y media; la cita era a las diez.",
+     "de": "„Lass dir Zeit“, sagte sie sich beim Frühstück. Der Alcázar öffnete um halb zehn; das Treffen war um zehn.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_23.mp3?v=004f8a41"
+    },
+    {
      "id": "k01_13",
-     "fr": "**Hizo la compra** de todos los sábados. Luego miró el reloj. Nueve y cuarto. El Alcázar estaba a veinte minutos andando.",
+     "fr": "**Hizo la compra|co_04** de todos los sábados. Luego miró el reloj. Nueve y cuarto. El Alcázar estaba a veinte minutos andando.",
      "de": "Sie machte den Samstagseinkauf wie immer. Dann sah sie auf die Uhr. Viertel nach neun. Der Alcázar war zwanzig Minuten zu Fuß entfernt.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k01_13.mp3?v=051dd311"
+    },
+    {
+     "id": "k01_24",
+     "fr": "Al salir, una turista con un mapa la paró en la calle: « Perdone, **¿podría usted indicarme|pr_24** el camino al Alcázar? » « Sígame », dijo Marta. « Voy allí. » Le pareció una señal. No sabía de qué.",
+     "de": "Beim Hinausgehen hielt eine Touristin mit einem Stadtplan sie auf der Straße an: „Entschuldigung, könnten Sie mir den Weg zum Alcázar zeigen?“ „Kommen Sie mit“, sagte Marta. „Ich gehe dorthin.“ Es kam ihr vor wie ein Zeichen. Sie wusste nicht, wofür.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k01_24.mp3?v=f0da5fb8"
     },
     {
      "id": "k01_14",
@@ -8398,6 +8468,62 @@ window.SPRACHEN["es-de"] = {
      "audio": "audio/es-de/geschichte/k02_01.mp3?v=868cba36"
     },
     {
+     "id": "k02_16",
+     "fr": "Antes de entrar se sentó un momento en un banco de la plaza del Triunfo. El cielo estaba **oscuro|se_03**, raro para Sevilla. Un día **melancólico|se_04**, pero agradable. Marta **se sentía bien|se_17**, y eso la sorprendía un poco.",
+     "de": "Bevor sie hineinging, setzte sie sich kurz auf eine Bank an der Plaza del Triunfo. Der Himmel war düster, ungewöhnlich für Sevilla. Ein melancholischer Tag, aber angenehm. Marta fühlte sich wohl, und das überraschte sie ein wenig.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_16.mp3?v=b27270df"
+    },
+    {
+     "id": "k02_17",
+     "fr": "Había salido de casa **de buen humor|se_12**, solo un poco **de bajón|se_02**, como todos los sábados. No **tenía miedo de|se_11** casi nada. Pero una pregunta **le ponía la piel de gallina|se_10**: ¿quién sabía que a ella le encantaba el Alcázar?",
+     "de": "Sie war gut gelaunt aus dem Haus gegangen, nur ein bisschen niedergeschlagen, wie jeden Samstag. Sie hatte vor fast nichts Angst. Aber bei einer Frage bekam sie Gänsehaut: Wer wusste, dass sie den Alcázar liebte?",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_17.mp3?v=4feb2955"
+    },
+    {
+     "id": "k02_18",
+     "fr": "En el banco de al lado, un señor con un periódico le preguntó: « ¿Le gustan los azulejos? » « Mucho. Y la pintura. Sobre todo **el claroscuro|se_20**. Los cuadros donde la luz sale de la noche… **me llegan|se_01**. »",
+     "de": "Auf der Bank daneben fragte ein Herr mit einer Zeitung: „Mögen Sie Azulejos?“ „Sehr. Und Malerei. Vor allem das Helldunkel. Bilder, in denen das Licht aus der Nacht kommt … die berühren mich.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_18.mp3?v=b6cbab6e"
+    },
+    {
+     "id": "k02_19",
+     "fr": "« A mí también », dijo el señor. « Hay un azulejo, en el Alcázar, que **me pone contento|se_19** y triste a la vez. Un azulejo pequeño. Un gato que duerme. Nadie lo mira. **Me parte el alma|se_05**. »",
+     "de": "„Mich auch“, sagte der Herr. „Es gibt eine Kachel im Alcázar, die mich zugleich froh und traurig macht. Eine kleine Kachel. Eine Katze, die schläft. Niemand sieht sie an. Das bricht mir das Herz.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_19.mp3?v=2d0770fa"
+    },
+    {
+     "id": "k02_20",
+     "fr": "Marta no contestó. El señor hablaba de su azulejo como se habla de un amigo. **Estaba emocionado|se_06**, se le notaba. Casi **se le saltaban las lágrimas|se_09**.",
+     "de": "Marta antwortete nicht. Der Herr sprach von seiner Kachel, wie man von einem Freund spricht. Er war gerührt, man merkte es. Fast kamen ihm die Tränen.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_20.mp3?v=4eca60c6"
+    },
+    {
+     "id": "k02_21",
+     "fr": "« ¿**Tiene pena|se_23**? » preguntó Marta. « Un poco. Yo tenía un gato igualito. Desapareció hace mucho. Todavía lo **echo de menos|se_14**. »",
+     "de": "„Sind Sie traurig?“, fragte Marta. „Ein wenig. Ich hatte eine Katze, die genau so aussah. Sie ist vor langer Zeit verschwunden. Ich vermisse sie immer noch.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_21.mp3?v=ab79916d"
+    },
+    {
+     "id": "k02_22",
+     "fr": "« **Lo siento mucho|se_24** », dijo Marta. Y era verdad. Pensó en su propio gato, solo en casa con los exámenes. **Tenía el corazón encogido|se_18**, sin saber por qué.",
+     "de": "„Das tut mir sehr leid“, sagte Marta. Und das stimmte. Sie dachte an ihre eigene Katze, allein zu Hause mit den Arbeiten. Ihr war das Herz schwer, ohne dass sie wusste, warum.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_22.mp3?v=74c4776c"
+    },
+    {
+     "id": "k02_23",
+     "fr": "El señor se levantó, dobló el periódico y se fue sin despedirse. En el banco quedó una nota, con letras azules: « En el Alcázar, no cante. Usted desafina. » Era verdad. Lo sabía todo el instituto.",
+     "de": "Der Herr stand auf, faltete die Zeitung und ging, ohne sich zu verabschieden. Auf der Bank blieb ein Zettel zurück, in blauen Buchstaben: „Singen Sie im Alcázar nicht. Sie singen falsch.“ Das stimmte. Die ganze Schule wusste es.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_23.mp3?v=e9af77f3"
+    },
+    {
      "id": "k02_02",
      "fr": "La entrada era de verdad. El hombre de la taquilla la miró, miró la entrada, y dijo: « Patio de las Doncellas. Todo recto. » Sin que ella preguntara.",
      "de": "Die Karte war echt. Der Mann an der Kasse sah sie an, sah die Karte an und sagte: „Patio de las Doncellas. Immer geradeaus.“ Ohne dass sie gefragt hätte.",
@@ -8406,21 +8532,28 @@ window.SPRACHEN["es-de"] = {
     },
     {
      "id": "k02_03",
-     "fr": "**Era inquietante**. Un poco. Marta decidió que era amable.",
+     "fr": "**Era inquietante|se_07**. Un poco. Marta decidió que era amable.",
      "de": "Das war unheimlich. Ein bisschen. Marta beschloss, dass es freundlich war.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k02_03.mp3?v=e7ba1397"
     },
     {
      "id": "k02_04",
-     "fr": "El patio **estaba tranquilo**. Demasiado. Ni turistas, ni guías, ni niños. Solo el agua de la alberca y el sol en los azulejos.",
+     "fr": "El patio **estaba tranquilo|se_21**. Demasiado. Ni turistas, ni guías, ni niños. Solo el agua de la alberca y el sol en los azulejos.",
      "de": "Der Hof war ruhig. Zu ruhig. Keine Touristen, keine Führer, keine Kinder. Nur das Wasser des Beckens und die Sonne auf den Kacheln.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k02_04.mp3?v=2f8bb86b"
     },
     {
+     "id": "k02_24",
+     "fr": "El agua sonaba suave, **relajante|se_08**. Era una escena **conmovedora|se_16**: el patio vacío, la luz en los arcos, como en una postal antigua.",
+     "de": "Das Wasser plätscherte leise, entspannend. Es war ein bewegender Anblick: der leere Hof, das Licht in den Bögen, wie auf einer alten Postkarte.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_24.mp3?v=7b06efbe"
+    },
+    {
      "id": "k02_05",
-     "fr": "Y un gato. Un **gato callejero**, gris, sentado junto a la alberca como si fuera suya.",
+     "fr": "Y un gato. Un **gato callejero|ga_18**, gris, sentado junto a la alberca como si fuera suya.",
      "de": "Und eine Katze. Eine graue Straßenkatze, die neben dem Becken saß, als gehörte es ihr.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k02_05.mp3?v=d74c6dbf"
@@ -8448,7 +8581,7 @@ window.SPRACHEN["es-de"] = {
     },
     {
      "id": "k02_09",
-     "fr": "Marta **tenía un nudo en la garganta**. Pero también tenía curiosidad. La curiosidad, en una profesora, siempre gana.",
+     "fr": "Marta **tenía un nudo en la garganta|se_15**. Pero también tenía curiosidad. La curiosidad, en una profesora, siempre gana.",
      "de": "Marta hatte einen Kloß im Hals. Aber sie war auch neugierig. Die Neugier gewinnt bei einer Lehrerin immer.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k02_09.mp3?v=c435fecd"
@@ -8468,6 +8601,13 @@ window.SPRACHEN["es-de"] = {
      "audio": "audio/es-de/geschichte/k02_11.mp3?v=834ea34c"
     },
     {
+     "id": "k02_25",
+     "fr": "Abajo había poca luz. Después del sol del patio, era casi **angustioso|se_22**. Marta se puso **de mal humor|se_13** consigo misma: ¿qué hacía una profesora siguiendo a un gato?",
+     "de": "Unten war wenig Licht. Nach der Sonne im Hof war es fast beklemmend. Marta wurde schlecht gelaunt, über sich selbst: Was machte eine Lehrerin hier, hinter einer Katze her?",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k02_25.mp3?v=c7a2edaf"
+    },
+    {
      "id": "k02_12",
      "fr": "Era los Baños de Doña María de Padilla: una sala larga, con arcos, bajo los jardines. Marta la conocía. Había estado veinte veces con alumnos.",
      "de": "Es waren die Bäder der Doña María de Padilla: ein langer Saal mit Bögen, unter den Gärten. Marta kannte ihn. Sie war zwanzigmal mit Schülern dort gewesen.",
@@ -8483,14 +8623,14 @@ window.SPRACHEN["es-de"] = {
     },
     {
      "id": "k02_14",
-     "fr": "El gato se sentó delante de la puerta. Y, por primera vez, **maulló**.",
+     "fr": "El gato se sentó delante de la puerta. Y, por primera vez, **maulló|ga_05**.",
      "de": "Die Katze setzte sich vor die Tür. Und miaute, zum ersten Mal.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k02_14.mp3?v=9a006efa"
     },
     {
      "id": "k02_15",
-     "fr": "Marta miró el reloj. Las diez y cuarto. « **Tómate tu tiempo** », se dijo. No se lo tomó.",
+     "fr": "Marta miró el reloj. Las diez y cuarto. « **Tómate tu tiempo|pr_19** », se dijo. No se lo tomó.",
      "de": "Marta sah auf die Uhr. Viertel nach zehn. „Lass dir Zeit“, sagte sie sich. Sie ließ sich keine.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k02_15.mp3?v=33b7d600"
@@ -8517,7 +8657,7 @@ window.SPRACHEN["es-de"] = {
     },
     {
      "id": "k03_03",
-     "fr": "Marta empujó. La puerta se abrió sin ruido. **De repente**, el agua de los baños dejó de sonar.",
+     "fr": "Marta empujó. La puerta se abrió sin ruido. **De repente|hi_08**, el agua de los baños dejó de sonar.",
      "de": "Marta drückte. Die Tür öffnete sich lautlos. Plötzlich hörte das Wasser der Bäder auf zu rauschen.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k03_03.mp3?v=28e3b7f3"
@@ -8535,6 +8675,13 @@ window.SPRACHEN["es-de"] = {
      "de": "Sitzende Katzen, schlafende Katzen, Katzen, die schauten. Katzen aus dem vierzehnten Jahrhundert mit demselben Gesicht wie Martas Katze.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k03_05.mp3?v=234384dd"
+    },
+    {
+     "id": "k03_16",
+     "fr": "Gatos que jugaban, gatos que dormían en un tejado azul. Un **felino|ga_09** distinto en cada azulejo.",
+     "de": "Katzen, die spielten, Katzen, die auf einem blauen Dach schliefen. Eine andere Raubkatze auf jeder Kachel.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_16.mp3?v=c5bd307c"
     },
     {
      "id": "k03_06",
@@ -8558,11 +8705,32 @@ window.SPRACHEN["es-de"] = {
      "audio": "audio/es-de/geschichte/k03_08.mp3?v=1d39a8dd"
     },
     {
+     "id": "k03_17",
+     "fr": "El gato del azulejo era **un gato callejero|ga_18**, gris, flaco, y **tenía una mirada|ga_14** de propietario, aunque tuviera los ojos medio cerrados. **Echaba la siesta|ga_10** como solo saben los gatos: con todo el cuerpo.",
+     "de": "Die Katze auf der Kachel war eine Straßenkatze, grau, mager, und sie hatte den Blick einer Hausbesitzerin, obwohl sie die Augen halb geschlossen hatte. Sie hielt Mittagsschlaf, wie nur Katzen es können: mit dem ganzen Körper.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_17.mp3?v=8a2a50b8"
+    },
+    {
+     "id": "k03_18",
+     "fr": "Junto a la fuente había un taburete con un cuenco de **pienso|ga_12** y un plato de **comida húmeda|ga_13**. Fresca. Alguien daba de comer al gato de un azulejo. Que fuera absurdo, por lo visto, **no le importaba|ga_21**.",
+     "de": "Neben dem Brunnen stand ein Hocker mit einer Schale Trockenfutter und einem Teller Nassfutter. Frisch. Jemand fütterte die Katze auf einer Kachel. Dass das absurd war, störte diesen Jemand offenbar nicht.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_18.mp3?v=d92303cc"
+    },
+    {
      "id": "k03_09",
-     "fr": "Y entonces lo oyó. Bajito. Regular. Un **ronroneo**.",
+     "fr": "Y entonces lo oyó. Bajito. Regular. Un **ronroneo|ga_01**.",
      "de": "Und dann hörte sie es. Leise. Gleichmäßig. Ein Schnurren.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k03_09.mp3?v=71e2e98e"
+    },
+    {
+     "id": "k03_19",
+     "fr": "No era un ronroneo pequeño. Era de verdad. El gato del azulejo **ronroneaba de gusto|ga_23**, como cuando lo **acarician|ga_07** detrás de las orejas.",
+     "de": "Es war kein leises Schnurren. Es war echt. Die Katze auf der Kachel schnurrte vor Behagen, wie wenn man sie hinter den Ohren streichelt.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_19.mp3?v=6a6b7439"
     },
     {
      "id": "k03_10",
@@ -8579,11 +8747,53 @@ window.SPRACHEN["es-de"] = {
      "audio": "audio/es-de/geschichte/k03_11.mp3?v=5935a279"
     },
     {
+     "id": "k03_20",
+     "fr": "En el silencio, algo **saltó a|ga_15** su hombro. Marta gritó. Un poco. Como una profesora, o sea, no muy fuerte.",
+     "de": "In der Stille sprang etwas auf ihre Schulter. Marta schrie. Ein bisschen. Wie eine Lehrerin, also nicht sehr laut.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_20.mp3?v=44ee071f"
+    },
+    {
+     "id": "k03_21",
+     "fr": "Era el gato gris del patio. **Se restregaba contra|ga_11** su oreja; luego empezó a **asearse|ga_04**, tranquilamente, en el hombro de una desconocida. Un gato **independiente|ga_22**, desde luego.",
+     "de": "Es war der graue Kater aus dem Hof. Er rieb sich an ihrem Ohr; dann begann er, sich in aller Ruhe zu putzen, auf der Schulter einer Fremden. Ein unabhängiger Kater, ganz klar.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_21.mp3?v=f2354e6d"
+    },
+    {
+     "id": "k03_22",
+     "fr": "« Tú **tienes hambre|ga_06** », dijo Marta. El gato **maulló|ga_05**. Una vez. Luego saltó al suelo, se comió tres bolitas de pienso y **se escondió|ga_16** detrás del taburete.",
+     "de": "„Du hast Hunger“, sagte Marta. Der Kater miaute. Einmal. Dann sprang er auf den Boden, fraß drei Bröckchen Trockenfutter und versteckte sich hinter dem Hocker.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_22.mp3?v=0e8daea0"
+    },
+    {
+     "id": "k03_23",
+     "fr": "Marta se puso de rodillas. « Ven. No me **arañes|ga_03** », dijo. El gato **se afiló las uñas|ga_08** en la alfombra, para dejar claro quién era el felino allí.",
+     "de": "Marta kniete sich hin. „Komm. Kratz mich nicht“, sagte sie. Der Kater wetzte seine Krallen am Teppich, um klarzustellen, wer hier die Raubkatze war.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_23.mp3?v=a25d4d74"
+    },
+    {
+     "id": "k03_24",
+     "fr": "Luego volvió a **hacerle mimos|ga_02**. Se quedó pegado a ella, como para **hacerle compañía|ga_17**. En el azulejo, el otro gato había abierto un ojo.",
+     "de": "Dann kam er wieder zum Schmusen. Er blieb an sie geschmiegt, als wolle er ihr Gesellschaft leisten. Auf der Kachel hatte die andere Katze ein Auge geöffnet.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_24.mp3?v=7638846e"
+    },
+    {
      "id": "k03_12",
      "fr": "Detrás de ella, una voz. Tranquila, mayor, un poco ronca. « No, señora. Esta sala no está en ningún plano. Por eso sigue aquí. »",
      "de": "Hinter ihr eine Stimme. Ruhig, alt, ein bisschen heiser. „Nein, Señora. Dieser Raum steht auf keinem Plan. Deshalb ist er noch da.“",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k03_12.mp3?v=8a47427a"
+    },
+    {
+     "id": "k03_25",
+     "fr": "« Ustedes dos **hacen travesuras|ga_19** », añadió la voz. « Y luego **el veterinario|ga_20** me regaña a mí. »",
+     "de": "„Ihr zwei macht Unfug“, fügte die Stimme hinzu. „Und dann schimpft der Tierarzt mit mir.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_25.mp3?v=2e9514fe"
     },
     {
      "id": "k03_13",
@@ -8605,6 +8815,840 @@ window.SPRACHEN["es-de"] = {
      "de": "Marta rechnete nach. 1929. Der Mann war höchstens sechzig. Das ergab keinen Sinn. Und trotzdem sagte Marta: „Es tut mir leid.“ Das sagen Lehrer eben.",
      "umschrift": null,
      "audio": "audio/es-de/geschichte/k03_15.mp3?v=ceae0233"
+    },
+    {
+     "id": "k03_26",
+     "fr": "« ¿**Tiene usted gato|ga_24**? » preguntó Marta, porque era la única pregunta que se le ocurría. « Dos », dijo el jardinero. « Uno en la sala. Otro en el azulejo. »",
+     "de": "„Haben Sie eine Katze?“, fragte Marta, weil ihr keine andere Frage einfiel. „Zwei“, sagte der Gärtner. „Eine im Raum. Eine auf der Kachel.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k03_26.mp3?v=5179e4be"
+    }
+   ]
+  },
+  {
+   "nr": 4,
+   "titel": "El estribillo",
+   "absaetze": [
+    {
+     "id": "k04_01",
+     "fr": "« Usted ha tarareado », dijo el jardinero. « Al azulejo no le gusta. Prefiere que se cante. Y que se **cante afinado|mu_01**. »",
+     "de": "„Sie haben gesummt“, sagte der Gärtner. „Das mag die Kachel nicht. Sie will, dass man singt. Und zwar sauber.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_01.mp3?v=5f14587d"
+    },
+    {
+     "id": "k04_02",
+     "fr": "« Yo **desafino|mu_02** », confesó Marta. « Lo dicen mis alumnos. Lo dice mi gato. Y Lucía también, por lo visto. »",
+     "de": "„Ich singe falsch“, gestand Marta. „Das sagen meine Schüler. Das sagt meine Katze. Und Lucía offenbar auch.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_02.mp3?v=27942381"
+    },
+    {
+     "id": "k04_03",
+     "fr": "« Todo el mundo desafina al principio. Pero usted **tiene oído|mu_06**, señora Ruiz. Lo he visto antes: ha oído el ronroneo antes que yo. »",
+     "de": "„Am Anfang singt jeder falsch. Aber Sie haben ein gutes Gehör, Frau Ruiz. Ich habe es vorhin gesehen: Sie haben das Schnurren vor mir gehört.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_03.mp3?v=54e2b43a"
+    },
+    {
+     "id": "k04_04",
+     "fr": "Se presentó: se llamaba Manuel. Sacó del bolsillo un cuaderno viejo. Dentro, **la letra|mu_04** de una canción, escrita a mano con letras azules. Las mismas letras azules que en la entrada.",
+     "de": "Er stellte sich vor: Er hieß Manuel. Er zog ein altes Heft aus der Tasche. Darin der Text eines Liedes, von Hand geschrieben, in blauen Buchstaben. Dieselben blauen Buchstaben wie auf der Eintrittskarte.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_04.mp3?v=2e589294"
+    },
+    {
+     "id": "k04_05",
+     "fr": "« Es una copla de 1929. El gato la **escuchaba en bucle|mu_10**, en el taller del ceramista. Hay que **aprender de memoria|mu_20** por lo menos **el estribillo|mu_03**. »",
+     "de": "„Das ist ein Lied von 1929. Die Katze hat es in der Werkstatt des Keramikers in Dauerschleife gehört. Mindestens den Refrain muss man auswendig lernen.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_05.mp3?v=99b38b01"
+    },
+    {
+     "id": "k04_06",
+     "fr": "Marta leyó el texto. Las palabras eran sencillas, pero **la música del idioma|mu_08** era antigua: vocales largas, una **entonación|mu_14** que subía y bajaba, un **ritmo|mu_13** lento, como de nana.",
+     "de": "Marta las den Text. Die Wörter waren einfach, aber die Melodie der Sprache war alt: lange Vokale, eine Satzmelodie, die stieg und fiel, ein langsamer Rhythmus wie bei einem Wiegenlied.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_06.mp3?v=f212d874"
+    },
+    {
+     "id": "k04_07",
+     "fr": "« **¿Podría repetir más despacio|mu_24**? » preguntó Marta cuando Manuel cantó la primera línea. Él sonrió. Repitió. Tres veces.",
+     "de": "„Könnten Sie das langsamer wiederholen?“, fragte Marta, als Manuel die erste Zeile gesungen hatte. Er lächelte. Er wiederholte. Dreimal.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_07.mp3?v=b2122d73"
+    },
+    {
+     "id": "k04_08",
+     "fr": "Tenía **una voz grave|mu_18**, un poco rota, y un **acento|mu_07** de Triana de los de antes. « Nací al otro lado del río. Hace mucho. Muchísimo. »",
+     "de": "Er hatte eine tiefe Stimme, ein wenig brüchig, und einen Akzent aus Triana, wie man ihn früher sprach. „Ich bin auf der anderen Seite des Flusses geboren. Vor langer Zeit. Sehr langer Zeit.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_08.mp3?v=2125c861"
+    },
+    {
+     "id": "k04_09",
+     "fr": "« Hay que **pronunciar|mu_15** bien », dijo. « El gato lo oye todo. Si usted **se equivoca de palabra|mu_21**, no se despierta. Si canta **a grito pelado|mu_17**, se esconde. »",
+     "de": "„Man muss gut aussprechen“, sagte er. „Die Katze hört alles. Wenn Sie ein Wort verwechseln, wacht sie nicht auf. Wenn Sie aus vollem Hals singen, versteckt sie sich.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_09.mp3?v=07e6171e"
+    },
+    {
+     "id": "k04_10",
+     "fr": "Marta lo intentó. Una vez. Dos veces. A la tercera, algo cambió: la frase **sonaba bien|mu_05**. No perfecta. Bien.",
+     "de": "Marta versuchte es. Einmal. Zweimal. Beim dritten Mal veränderte sich etwas: Der Satz klang gut. Nicht perfekt. Gut.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_10.mp3?v=c2a2d043"
+    },
+    {
+     "id": "k04_11",
+     "fr": "« El andaluz es **un idioma cantarín|mu_23** », dijo Manuel. « Incluso cuando uno discute. Sobre todo cuando uno discute. »",
+     "de": "„Andalusisch ist eine singende Sprache“, sagte Manuel. „Sogar wenn man streitet. Vor allem, wenn man streitet.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_11.mp3?v=bdd93ac5"
+    },
+    {
+     "id": "k04_12",
+     "fr": "En el azulejo, el gato levantó una oreja. Luego la otra. Marta siguió. No sabía **tocar un instrumento|mu_09**, pero su voz, esa mañana, era uno.",
+     "de": "Auf der Kachel stellte die Katze ein Ohr auf. Dann das andere. Marta sang weiter. Sie konnte kein Instrument spielen, aber ihre Stimme war an diesem Morgen eins.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_12.mp3?v=49c8e58a"
+    },
+    {
+     "id": "k04_13",
+     "fr": "Manuel marcaba el compás con las tijeras de jardín. El gato gris, en el suelo, ronroneaba al ritmo. Era **una pieza|mu_16** para tres voces: un jardinero, una profesora y un gato.",
+     "de": "Manuel schlug mit der Gartenschere den Takt. Der graue Kater auf dem Boden schnurrte im Rhythmus. Es war ein Stück für drei Stimmen: ein Gärtner, eine Lehrerin und eine Katze.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_13.mp3?v=653582a7"
+    },
+    {
+     "id": "k04_14",
+     "fr": "« **Me sienta bien|mu_22** », dijo Marta al final, sorprendida. « Nunca canto. » « Pues debería », dijo Manuel. « Una canción **le llega|mu_19** a uno cuando las palabras ya no alcanzan. »",
+     "de": "„Das tut mir gut“, sagte Marta am Ende überrascht. „Ich singe nie.“ „Sollten Sie aber“, sagte Manuel. „Ein Lied berührt einen, wenn die Wörter nicht mehr reichen.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_14.mp3?v=57a01608"
+    },
+    {
+     "id": "k04_15",
+     "fr": "El gato del azulejo se levantó. Se estiró. Luego salió del azulejo, despacio, como quien sale de un baño demasiado caliente, y se sentó en el taburete, al lado del pienso.",
+     "de": "Die Katze auf der Kachel stand auf. Sie streckte sich. Dann stieg sie langsam aus der Kachel, wie jemand, der aus einem zu heißen Bad steigt, und setzte sich auf den Hocker neben das Trockenfutter.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_15.mp3?v=60770628"
+    },
+    {
+     "id": "k04_16",
+     "fr": "Marta no dijo nada. **Tenía una canción en la cabeza|mu_11**, un gato delante y ninguna explicación razonable.",
+     "de": "Marta sagte nichts. Sie hatte ein Lied im Kopf, eine Katze vor sich und keine vernünftige Erklärung mehr.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_16.mp3?v=00e164d4"
+    },
+    {
+     "id": "k04_17",
+     "fr": "**Tarareó|mu_12** el estribillo, muy bajito, para calmarse. Esta vez, el gato no dejó de ronronear.",
+     "de": "Sie summte den Refrain, ganz leise, um sich zu beruhigen. Diesmal hörte die Katze nicht auf zu schnurren.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_17.mp3?v=2c63c429"
+    },
+    {
+     "id": "k04_18",
+     "fr": "« Bien », dijo Manuel. « Ahora le puedo contar la historia. Siéntese. Es larga. »",
+     "de": "„Gut“, sagte Manuel. „Jetzt kann ich Ihnen die Geschichte erzählen. Setzen Sie sich. Sie ist lang.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_18.mp3?v=d14fde38"
+    },
+    {
+     "id": "k04_19",
+     "fr": "Continuará.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k04_19.mp3?v=f2f8da1e"
+    }
+   ]
+  },
+  {
+   "nr": 5,
+   "titel": "La leyenda",
+   "absaetze": [
+    {
+     "id": "k05_01",
+     "fr": "« **Érase una vez|hi_01** un ceramista de Triana que vivía con un gato », empezó Manuel. Marta se sentó en el suelo. Le encantaba que le **contaran una historia|hi_02**. A sus alumnos también, por cierto.",
+     "de": "„Es war einmal ein Keramiker aus Triana, der mit einer Katze lebte“, begann Manuel. Marta setzte sich auf den Boden. Sie liebte es, wenn man ihr eine Geschichte erzählte. Ihre Schüler übrigens auch.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_01.mp3?v=ec308106"
+    },
+    {
+     "id": "k05_02",
+     "fr": "« Se llamaba Rafael. Era pobre, tenía talento y **tenía un secreto|hi_09**: su gato entendía el español. No todo. Las coplas. »",
+     "de": "„Er hieß Rafael. Er war arm, er war begabt, und er hatte ein Geheimnis: Seine Katze verstand Spanisch. Nicht alles. Die Lieder.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_02.mp3?v=51ddd5db"
+    },
+    {
+     "id": "k05_03",
+     "fr": "« En 1929, Sevilla estaba llena de gente por la Exposición. Rafael hizo un azulejo con el retrato de su gato, para el Alcázar. Y una noche, el azulejo **desapareció|hi_18**. Robado. Ya conoce usted **la continuación|hi_19**: nadie lo encontró. »",
+     "de": "„1929 war Sevilla wegen der Ausstellung voller Menschen. Rafael machte eine Kachel mit dem Porträt seiner Katze, für den Alcázar. Und eines Nachts verschwand die Kachel. Gestohlen. Die Fortsetzung kennen Sie: Niemand hat sie gefunden.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_03.mp3?v=02baf5a0"
+    },
+    {
+     "id": "k05_04",
+     "fr": "« **Dicen que|hi_17** el ladrón era **un brujo|hi_11**. Yo creo que era más bien un coleccionista. Pero con un **hechizo|hi_07** o con dinero, el resultado es el mismo. »",
+     "de": "„Man sagt, der Dieb sei ein Hexenmeister gewesen. Ich glaube eher, er war ein Sammler. Aber ob mit einem Zauber oder mit Geld, das Ergebnis ist dasselbe.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_04.mp3?v=0e6fc033"
+    },
+    {
+     "id": "k05_05",
+     "fr": "« Rafael buscó su azulejo durante años. Una verdadera **búsqueda|hi_03**. Llegó hasta **lo más profundo del bosque|hi_04** de Doñana, porque un vendedor le había vendido **un mapa del tesoro|hi_16**. Falso, claro. »",
+     "de": "„Rafael hat jahrelang nach seiner Kachel gesucht. Eine richtige Suche. Er ist bis tief in den Wald von Doñana gegangen, weil ihm ein Händler eine Schatzkarte verkauft hatte. Eine falsche, natürlich.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_05.mp3?v=bc3c04d0"
+    },
+    {
+     "id": "k05_06",
+     "fr": "Marta escuchaba; la historia la **tenía en vilo|hi_20**. El gato gris se había dormido en sus rodillas. El gato del azulejo, en el taburete, fingía no escuchar.",
+     "de": "Marta hörte zu; die Geschichte hielt sie in Atem. Der graue Kater war auf ihrem Schoß eingeschlafen. Die Katze von der Kachel tat auf dem Hocker so, als höre sie nicht zu.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_06.mp3?v=18bd74cc"
+    },
+    {
+     "id": "k05_07",
+     "fr": "« Y entonces, **de pronto|hi_13**, el azulejo volvió. Aquí. A una sala que no existía. Nadie lo trajo. Estaba allí, sin más, en la pared. »",
+     "de": "„Und dann, ganz plötzlich, war die Kachel wieder da. Hier. In einem Raum, den es nicht gab. Niemand hat sie gebracht. Sie war einfach da, an der Wand.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_07.mp3?v=16f66b78"
+    },
+    {
+     "id": "k05_08",
+     "fr": "« ¿Con el gato dentro? » « Con el gato dentro. Se había **convertido en|hi_12** cerámica para volver a casa. Eso creo yo. Rafael creía en un milagro. »",
+     "de": "„Mit der Katze darin?“ „Mit der Katze darin. Sie hatte sich in Keramik verwandelt, um nach Hause zu kommen. Das glaube ich. Rafael glaubte an ein Wunder.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_08.mp3?v=83936f1a"
+    },
+    {
+     "id": "k05_09",
+     "fr": "Marta **se estremeció|hi_21**. No de miedo. Era el efecto que le hacían las buenas historias, y esta era excelente.",
+     "de": "Marta erschauerte. Nicht vor Angst. So wirkten gute Geschichten auf sie, und diese war ausgezeichnet.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_09.mp3?v=fbc65ca5"
+    },
+    {
+     "id": "k05_10",
+     "fr": "« Desde entonces cuido esta sala. No soy **un héroe|hi_14**. Soy jardinero. Le doy de comer al gato, canto el estribillo, cierro la puerta. Noventa y siete años son muchos, pero uno se acostumbra. »",
+     "de": "„Seitdem kümmere ich mich um diesen Raum. Ich bin kein Held. Ich bin Gärtner. Ich füttere die Katze, ich singe den Refrain, ich schließe die Tür. Siebenundneunzig Jahre sind lang, aber man gewöhnt sich daran.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_10.mp3?v=70290713"
+    },
+    {
+     "id": "k05_11",
+     "fr": "« ¿Noventa y siete años? » repitió Marta. Manuel se encogió de hombros. « Los gatos conservan. »",
+     "de": "„Siebenundneunzig Jahre?“, wiederholte Marta. Manuel zuckte mit den Schultern. „Katzen halten jung.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_11.mp3?v=a2344b3f"
+    },
+    {
+     "id": "k05_12",
+     "fr": "« Pero hay **un giro|hi_22** », siguió. « Desde hace un mes, alguien vuelve. De noche. Busca la sala. **El malo|hi_15** de la historia, quizá. O su nieto. »",
+     "de": "„Aber es gibt eine Wendung“, fuhr er fort. „Seit einem Monat kommt jemand wieder. Nachts. Er sucht den Raum. Vielleicht der Bösewicht der Geschichte. Oder sein Enkel.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_12.mp3?v=7b3e4b31"
+    },
+    {
+     "id": "k05_13",
+     "fr": "« ¿Y yo? ¿Por qué yo? » preguntó Marta. « Porque su alumna, Lucía, encontró la puerta en primavera, en una excursión. Vio al gato. Y dijo: mi profe sabrá qué hacer. Desafina, pero tiene paciencia. »",
+     "de": "„Und ich? Warum ich?“, fragte Marta. „Weil Ihre Schülerin Lucía die Tür im Frühjahr bei einem Ausflug gefunden hat. Sie hat die Katze gesehen. Und gesagt: Meine Lehrerin weiß, was zu tun ist. Sie singt falsch, aber sie ist geduldig.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_13.mp3?v=b363e4f5"
+    },
+    {
+     "id": "k05_14",
+     "fr": "Marta no sabía si debía sentirse halagada. Decidió que sí.",
+     "de": "Marta wusste nicht, ob sie sich geschmeichelt fühlen sollte. Sie entschied sich dafür.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_14.mp3?v=6c18d816"
+    },
+    {
+     "id": "k05_15",
+     "fr": "« En las historias antiguas siempre hay **un dragón|hi_05** y **una espada|hi_06** », dijo Marta. « Aquí, ¿qué tenemos? » « Un gato, una copla y una profesora de Sevilla », dijo Manuel. « Es **un reino|hi_10** modesto. »",
+     "de": "„In alten Geschichten gibt es immer einen Drachen und ein Schwert“, sagte Marta. „Was haben wir hier?“ „Eine Katze, ein Lied und eine Lehrerin aus Sevilla“, sagte Manuel. „Ein bescheidenes Königreich.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_15.mp3?v=583baf40"
+    },
+    {
+     "id": "k05_16",
+     "fr": "**De repente|hi_08**, se apagaron las luces de los baños. El Alcázar cerraba. Por un altavoz, una voz anunció el cierre en cuatro idiomas.",
+     "de": "Auf einmal gingen die Lichter in den Bädern aus. Der Alcázar schloss. Aus einem Lautsprecher kündigte eine Stimme die Schließung in vier Sprachen an.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_16.mp3?v=14112c26"
+    },
+    {
+     "id": "k05_17",
+     "fr": "« Quédese », dijo Manuel. « Esta noche volverá. Y esta noche conoceremos **el final|hi_23** de la historia. »",
+     "de": "„Bleiben Sie“, sagte Manuel. „Heute Nacht kommt er wieder. Und heute Nacht erfahren wir das Ende der Geschichte.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_17.mp3?v=683cf344"
+    },
+    {
+     "id": "k05_18",
+     "fr": "Marta miró al gato gris, el azulejo vacío, al jardinero de noventa y siete años. Luego tuvo una idea absurda y muy profesional: « **¿Me podría recomendar un libro|hi_24** sobre el tema? » « Todavía no existe », dijo Manuel. « Lo va a escribir usted. »",
+     "de": "Marta sah den grauen Kater an, die leere Kachel, den siebenundneunzigjährigen Gärtner. Dann hatte sie einen absurden und sehr berufstypischen Gedanken: „Könnten Sie mir ein Buch zu dem Thema empfehlen?“ „Das gibt es noch nicht“, sagte Manuel. „Sie werden es schreiben.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_18.mp3?v=af4e8b13"
+    },
+    {
+     "id": "k05_19",
+     "fr": "Continuará.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k05_19.mp3?v=4fa5b6f7"
+    }
+   ]
+  },
+  {
+   "nr": 6,
+   "titel": "La noche en el Alcázar",
+   "absaetze": [
+    {
+     "id": "k06_01",
+     "fr": "El Alcázar, de noche, es muy grande y muy silencioso. Marta decidió **calentar|de_06**. Cuando está nerviosa, hace kung-fu. Es mejor que comer torrijas.",
+     "de": "Nachts ist der Alcázar sehr groß und sehr still. Marta beschloss, sich aufzuwärmen. Wenn sie nervös ist, macht sie Kung-Fu. Das ist besser, als Torrijas zu essen.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_01.mp3?v=7a1dc8e8"
+    },
+    {
+     "id": "k06_02",
+     "fr": "**Entrena|de_01** dos veces por semana en Sevilla, con un viejo **maestro|de_11** que habla poco. Hizo unos **estiramientos|de_16**, y luego intentó **aguantar una postura|de_09**: la del jinete, delante de un retrato de Pedro I. El rey no parecía impresionado.",
+     "de": "Sie trainiert zweimal pro Woche in Sevilla, bei einem alten Meister, der wenig redet. Sie machte ein paar Dehnübungen und versuchte dann, eine Stellung zu halten: den Reitersitz, vor einem Porträt von Peter I. Der König wirkte nicht beeindruckt.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_02.mp3?v=6e2684ef"
+    },
+    {
+     "id": "k06_03",
+     "fr": "« Usted **está en forma|de_08** », dijo Manuel. « Para ser profesora. » « Todavía **tengo agujetas|de_07** del martes », confesó Marta.",
+     "de": "„Sie sind in Form“, sagte Manuel. „Für eine Lehrerin.“ „Ich habe noch Muskelkater von Dienstag“, gestand Marta.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_03.mp3?v=85a1a988"
+    },
+    {
+     "id": "k06_04",
+     "fr": "A medianoche, un ruido. Pasos, en el Salón de Embajadores. Marta **mantuvo la calma|de_05**. Bueno, lo intentó. Se concentró en **la respiración|de_10**, como le había enseñado su maestro.",
+     "de": "Um Mitternacht ein Geräusch. Schritte im Gesandtensaal. Marta blieb ruhig. Na ja, sie versuchte es. Sie konzentrierte sich auf die Atmung, wie ihr Meister es ihr beigebracht hatte.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_04.mp3?v=4ec212dd"
+    },
+    {
+     "id": "k06_05",
+     "fr": "Una silueta negra entró en los baños. Llevaba una mochila y una linterna. Buscaba la puerta. Encontró a Marta.",
+     "de": "Eine schwarze Gestalt betrat die Bäder. Sie trug einen Rucksack und eine Taschenlampe. Sie suchte die Tür. Sie fand Marta.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_05.mp3?v=84a22537"
+    },
+    {
+     "id": "k06_06",
+     "fr": "La silueta lanzó **una patada|de_02** al aire, bastante mal. Marta la **esquivó|de_13** sin pensar. **Cuerpo y mente|de_23**, decía su maestro: cuando la mente se asusta, el cuerpo trabaja.",
+     "de": "Die Gestalt trat in die Luft, ziemlich ungeschickt. Marta wich aus, ohne nachzudenken. Körper und Geist, sagte ihr Meister: Wenn der Geist erschrickt, arbeitet der Körper.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_06.mp3?v=cd5cc508"
+    },
+    {
+     "id": "k06_07",
+     "fr": "Luego vino **un puñetazo|de_03**, más rápido. Marta retrocedió. Por suerte **tenía equilibrio|de_18**, porque el suelo de los baños resbala cuando uno **suda|de_14**.",
+     "de": "Dann kam ein Faustschlag, schneller. Marta wich zurück. Zum Glück hatte sie ein gutes Gleichgewicht, denn der Boden in den Bädern ist rutschig, wenn man schwitzt.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_07.mp3?v=b5eebcd8"
+    },
+    {
+     "id": "k06_08",
+     "fr": "La silueta huyó. Marta la siguió. No **salía a correr|de_19** desde el verano. Esa noche recuperó el tiempo perdido: tres patios, dos jardines y una escalera.",
+     "de": "Die Gestalt floh. Marta folgte ihr. Seit dem Sommer war sie nicht mehr laufen gegangen. In dieser Nacht holte sie es nach: drei Höfe, zwei Gärten und eine Treppe.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_08.mp3?v=a11161aa"
+    },
+    {
+     "id": "k06_09",
+     "fr": "En el Jardín de las Damas se paró para **recuperar el aliento|de_17**. La silueta también. Se miraron, sin aire, como dos alumnos al final de un partido.",
+     "de": "Im Garten der Damen blieb sie stehen, um wieder zu Atem zu kommen. Die Gestalt auch. Sie sahen sich an, außer Atem, wie zwei Schüler am Ende eines Spiels.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_09.mp3?v=047c510f"
+    },
+    {
+     "id": "k06_10",
+     "fr": "« Está **haciendo progresos|de_21** », dijo la silueta. Una voz joven. Muy joven. « Pero su **secuencia|de_12** es demasiado lenta, profe. »",
+     "de": "„Sie machen Fortschritte“, sagte die Gestalt. Eine junge Stimme. Sehr jung. „Aber Ihre Abfolge ist zu langsam, Frau Lehrerin.“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_10.mp3?v=e63b72b7"
+    },
+    {
+     "id": "k06_11",
+     "fr": "Marta conocía esa voz. La había oído cien veces en clase, normalmente para decir: « ¿Esto entra en el examen? »",
+     "de": "Marta kannte diese Stimme. Sie hatte sie hundertmal im Unterricht gehört, meistens mit dem Satz: „Kommt das in der Arbeit dran?“",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_11.mp3?v=ccae953d"
+    },
+    {
+     "id": "k06_12",
+     "fr": "La silueta se quitó la capucha. Era Lucía, con un **cinturón|de_20** negro de judo sobre la sudadera y una sonrisa avergonzada.",
+     "de": "Die Gestalt nahm die Kapuze ab. Es war Lucía, mit einem schwarzen Judogürtel über dem Sweatshirt und einem verlegenen Lächeln.",
+     "umschrift": null,
+     "audio": "audio/es-de/geschichte/k06_12.mp3?v=03afd30c"
+    },
+    {
+     "id": "k06_13",
+     "fr": "« ¿Lucía? ¡Podrías haberte **lesionado|de_15**! ¡Y yo también! » « Lo siento, profe. Quería ponerla a prueba. Tenía que poder **superarse|de_22**. El ladrón sí que es rápido. »",
+     "de": "„Lucía? Du hättest dich verletzen können! Und ich mich auch!“ „Tut mir leid, Frau Lehrerin. Ich wollte Sie testen. Sie mussten über sich hinauswachsen können. Der Dieb ist nämlich wirklich schnell.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k06_14",
+     "fr": "« ¿El ladrón no eres tú? » « ¡No! Yo protejo al gato. Con mi abuelo. » Señaló a Manuel, que llegaba despacio, con las tijeras en la mano.",
+     "de": "„Der Dieb bist nicht du?“ „Nein! Ich beschütze die Katze. Mit meinem Großvater.“ Sie zeigte auf Manuel, der langsam herankam, die Schere in der Hand.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k06_15",
+     "fr": "Marta miró a Manuel. Luego a Lucía. Entendió de dónde venían las letras azules, la **flexibilidad|de_04** de la niña en Educación Física y su manía de dibujar gatos.",
+     "de": "Marta sah Manuel an. Dann Lucía. Sie verstand, woher die blauen Buchstaben kamen, die Beweglichkeit des Mädchens im Sportunterricht und ihre Angewohnheit, Katzen zu zeichnen.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k06_16",
+     "fr": "« ¿Abuelo? » dijo. « Tatarabuelo », corrigió Manuel. « Es complicado. Los gatos conservan. »",
+     "de": "„Großvater?“, sagte sie. „Ururgroßvater“, verbesserte Manuel. „Es ist kompliziert. Katzen halten jung.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k06_17",
+     "fr": "Marta se sentó en un escalón. Estaba agotada, empapada, feliz. « Dígame, Manuel… **¿Puedo apuntarme|de_24** a sus clases nocturnas? » Lucía soltó una carcajada.",
+     "de": "Marta setzte sich auf eine Stufe. Sie war erschöpft, durchnässt, glücklich. „Sagen Sie, Manuel … Kann ich mich für Ihre Nachtkurse anmelden?“ Lucía platzte vor Lachen.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k06_18",
+     "fr": "Fuera, en el patio, una sombra los miraba. Una de verdad, esta vez.",
+     "de": "Draußen im Hof beobachtete sie ein Schatten. Diesmal ein echter.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k06_19",
+     "fr": "Continuará.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": null
+    }
+   ]
+  },
+  {
+   "nr": 7,
+   "titel": "El desayuno",
+   "absaetze": [
+    {
+     "id": "k07_01",
+     "fr": "Por la mañana, Marta **tenía el gusanillo|co_07**. Un gusanillo enorme, en realidad. Nadie persigue a un falso ladrón toda la noche sin consecuencias.",
+     "de": "Am Morgen hatte Marta ein bisschen Hunger. Großen Hunger, ehrlich gesagt. Niemand verfolgt die ganze Nacht einen falschen Dieb, ohne dass es Folgen hat.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_02",
+     "fr": "Manuel los llevó a **una panadería|co_10** del barrio de Santa Cruz, abierta desde las seis. « **Quisiera una barra, por favor|co_24** », dijo Marta. « Y tres molletes. Y una magdalena. Para el gato. »",
+     "de": "Manuel nahm sie mit in eine Bäckerei im Viertel Santa Cruz, die seit sechs Uhr geöffnet hatte. „Ich hätte gern ein Baguette, bitte“, sagte Marta. „Und drei Mollete-Brötchen. Und eine Magdalena. Für die Katze.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_03",
+     "fr": "La panadera no hizo preguntas. En Sevilla se ha visto de todo.",
+     "de": "Die Bäckerin stellte keine Fragen. In Sevilla hat man schon alles gesehen.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_04",
+     "fr": "Sentados en una mesita, **se pusieron las botas|co_08**. Marta **probó|co_19** la magdalena del gato, para comprobar. « **Está riquísima|co_20** », concluyó. El gato se quedó sin magdalena.",
+     "de": "An einem kleinen Tisch schlugen sie sich den Bauch voll. Marta probierte die Magdalena der Katze, zur Kontrolle. „Köstlich“, stellte sie fest. Die Katze bekam keine Magdalena.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_05",
+     "fr": "« **¡Que aproveche!|co_09** », dijo Manuel, y se tomó un café solo sin azúcar. « Yo **como equilibrado|co_01**. Una tostada con aceite, una fruta, y **bebo agua|co_11**. Ese es el secreto, junto con los gatos. »",
+     "de": "„Guten Appetit!“, sagte Manuel und trank einen schwarzen Kaffee ohne Zucker. „Ich esse ausgewogen. Ein Toast mit Olivenöl, ein Stück Obst, und ich trinke Wasser. Das ist das Geheimnis, zusammen mit den Katzen.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_06",
+     "fr": "Lucía **picaba|co_12** todo lo que quedaba en la mesa. « Siempre **tiene sed|co_21** y siempre tiene hambre », suspiró Manuel. « Está creciendo. »",
+     "de": "Lucía naschte von allem, was auf dem Tisch übrig war. „Sie hat immer Durst und immer Hunger“, seufzte Manuel. „Sie wächst.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_07",
+     "fr": "Después fueron a **tomar el aire|co_17** al parque de María Luisa. Hacía fresco, el cielo estaba limpio. Marta **estaba como una rosa|co_16**. No había dormido, y estaba como una rosa. Era nuevo.",
+     "de": "Danach gingen sie im Parque de María Luisa an die frische Luft. Es war frisch, der Himmel war klar. Marta war frisch wie der junge Morgen. Sie hatte nicht geschlafen und war frisch wie der junge Morgen. Das war neu.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_08",
+     "fr": "« Esta noche se va a **acostar temprano|co_02** », dijo Manuel. « Y va a **dormir como un tronco|co_15**. El ladrón solo viene los domingos por la noche. Mañana. »",
+     "de": "„Heute Abend gehen Sie früh ins Bett“, sagte Manuel. „Und schlafen wie ein Murmeltier. Der Dieb kommt nur sonntagabends. Morgen.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_09",
+     "fr": "« ¿Y usted **se cuida|co_03**? » preguntó Marta. « Tengo ciento y pico años », contestó él. « No hago otra cosa. »",
+     "de": "„Und Sie, passen Sie auf sich auf?“, fragte Marta. „Ich bin über hundert“, antwortete er. „Ich tue nichts anderes.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_10",
+     "fr": "Lucía sacó el móvil. Había fotografiado una página del cuaderno de Manuel: **una receta|co_18**. « La comida del gato de Rafael. Conejo, zanahoria, un poco de tomillo. El gato del azulejo solo come eso. »",
+     "de": "Lucía zog ihr Handy heraus. Sie hatte eine Seite aus Manuels Heft fotografiert: ein Rezept. „Das Futter von Rafaels Katze. Kaninchen, Karotte, ein bisschen Thymian. Die Katze von der Kachel frisst nur das.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_11",
+     "fr": "« ¿Y el ladrón? » « El ladrón viene con pienso del supermercado », dijo Lucía con desprecio. « No sabe nada de gatos. »",
+     "de": "„Und der Dieb?“ „Der Dieb kommt mit Futter aus dem Supermarkt“, sagte Lucía verächtlich. „Er hat keine Ahnung von Katzen.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_12",
+     "fr": "Así que había que **cocinar|co_05**. Fueron a **hacer la compra|co_04** al mercado de Triana: un conejo, zanahorias, tomillo. Marta llevaba la cesta. **Estaba a gusto|co_13**, por primera vez en mucho tiempo.",
+     "de": "Also musste gekocht werden. Sie gingen auf dem Markt von Triana einkaufen: ein Kaninchen, Karotten, Thymian. Marta trug den Korb. Sie fühlte sich wohl, zum ersten Mal seit Langem.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_13",
+     "fr": "En la cocinita de la caseta del jardinero prepararon **el plato|co_06**. Olía como en casa de la abuela de Marta. Se puso un poco de bajón. Un bajón bueno.",
+     "de": "In der kleinen Küche des Gärtnerhäuschens bereiteten sie das Gericht zu. Es roch wie bei Martas Großmutter. Ihr wurde ein bisschen wehmütig. Auf eine gute Art.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_14",
+     "fr": "« **Hagamos una pausa|co_14** », dijo Manuel cuando la comida estuvo lista. Sacó tres sillas y una caja de polvorones. « **Un capricho|co_23** al día. Es mi regla. Hoy es el tercero. »",
+     "de": "„Machen wir eine Pause“, sagte Manuel, als das Futter fertig war. Er holte drei Stühle und eine Schachtel Polvorones. „Eine kleine Leckerei pro Tag. Das ist meine Regel. Heute ist es die dritte.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_15",
+     "fr": "Marta se rio. **Se había levantado con el pie derecho|co_22** en un palacio, después de una noche sin dormir. Nada encajaba. Todo iba bien.",
+     "de": "Marta lachte. Sie war in einem Palast mit dem rechten Fuß aufgestanden, nach einer schlaflosen Nacht. Nichts passte zusammen. Alles war gut.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_16",
+     "fr": "Por la tarde, Lucía volvió a casa de sus padres. Marta pasó por su piso a ver a su gato. Antes de dormir, llamó a Javier.",
+     "de": "Am Nachmittag ging Lucía nach Hause zu ihren Eltern. Marta schaute in ihrer Wohnung nach ihrer Katze. Vor dem Schlafen rief sie Javier an.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_17",
+     "fr": "« ¿Dónde estás? » « En el Alcázar. Bueno, al lado. » « Te noto rara. » « Estoy rara. Ven mañana. Trae un termo de café. Y una linterna. »",
+     "de": "„Wo bist du?“ „Im Alcázar. Na ja, daneben.“ „Du klingst komisch.“ „Ich bin komisch. Komm morgen. Bring eine Thermoskanne Kaffee mit. Und eine Taschenlampe.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k07_18",
+     "fr": "Continuará.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": null
+    }
+   ]
+  },
+  {
+   "nr": 8,
+   "titel": "Los pequeños",
+   "absaetze": [
+    {
+     "id": "k08_01",
+     "fr": "El domingo, Lucía llegó con un carrito. Dentro dormía **un bebé|ni_05** de diez meses, con **un peluche|ni_02** en forma de gato contra la mejilla.",
+     "de": "Am Sonntag kam Lucía mit einem Kinderwagen. Darin schlief ein zehn Monate altes Baby, ein Kuscheltier in Katzenform an der Wange.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_02",
+     "fr": "« Mi hermanito, Hugo. Mis padres están en una boda. Por la noche **duerme del tirón|ni_01**, normalmente. Pero por la tarde **le cuesta dormirse|ni_08**. »",
+     "de": "„Mein kleiner Bruder, Hugo. Meine Eltern sind auf einer Hochzeit. Nachts schläft er normalerweise durch. Aber nachmittags schläft er schwer ein.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_03",
+     "fr": "Manuel **cogió** a Hugo **en brazos|ni_04**, como quien coge algo valioso que conoce de toda la vida. Hugo abrió los ojos, miró al jardinero y **sonrió|ni_06**.",
+     "de": "Manuel nahm Hugo auf den Arm, wie man etwas Kostbares nimmt, das man schon ein Leben lang kennt. Hugo öffnete die Augen, sah den Gärtner an und lächelte.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_04",
+     "fr": "« **¿Qué edad tiene su hijo|ni_24**? » preguntó una turista, que creía que Manuel era el abuelo. « Unos cien años menos que yo », contestó Manuel. La turista sonrió con educación y se alejó muy deprisa.",
+     "de": "„Wie alt ist Ihr Kind?“, fragte eine Touristin, die Manuel für den Großvater hielt. „Ungefähr hundert Jahre jünger als ich“, antwortete Manuel. Die Touristin lächelte höflich und entfernte sich sehr schnell.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_05",
+     "fr": "En la sala de los azulejos, Hugo **se rio a carcajadas|ni_20** al ver al gato gris. El gato retrocedió. Los bebés son imprevisibles. Luego volvió, curioso, y se dejó tocar la oreja.",
+     "de": "Im Kachelraum lachte Hugo schallend, als er den grauen Kater sah. Der Kater wich zurück. Babys sind unberechenbar. Dann kam er neugierig zurück und ließ sich das Ohr anfassen.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_06",
+     "fr": "« Está **aprendiendo a andar|ni_15** », dijo Lucía. Hugo dio tres pasos, se cayó en la alfombra, no **lloró|ni_13** y volvió a empezar. Marta pensó en sus alumnos. Le habría gustado que hicieran lo mismo.",
+     "de": "„Er lernt gerade laufen“, sagte Lucía. Hugo machte drei Schritte, fiel auf den Teppich, weinte nicht und fing wieder von vorn an. Marta dachte an ihre Schüler. Sie hätte sich gewünscht, dass sie es genauso machen.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_07",
+     "fr": "« ¿Y sus **primeras palabras|ni_17**? » preguntó Marta. « Papá, mamá y… miau », dijo Lucía. « Más o menos en ese orden. »",
+     "de": "„Und seine ersten Worte?“, fragte Marta. „Papa, Mama und … miau“, sagte Lucía. „Ungefähr in dieser Reihenfolge.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_08",
+     "fr": "A las cinco tocaba **la merienda|ni_19**: un potito de fruta para Hugo, polvorones para los demás. Lucía y Marta **jugaron al escondite|ni_11** con él detrás del taburete. Siempre ganaba él. Hacía trampa.",
+     "de": "Um fünf gab es die Nachmittagsjause: ein Gläschen Obstbrei für Hugo, Polvorones für die anderen. Lucía und Marta spielten mit ihm hinter dem Hocker Verstecken. Er gewann immer. Er schummelte.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_09",
+     "fr": "Luego Hugo **echó la siesta|ni_21** en el carrito. Manuel le tarareó el estribillo de 1929. El gato del azulejo, en su taburete, cerró los ojos a la vez que él.",
+     "de": "Dann hielt Hugo im Kinderwagen Mittagsschlaf. Manuel summte ihm den Refrain von 1929 vor. Die Katze von der Kachel schloss auf ihrem Hocker gleichzeitig mit ihm die Augen.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_10",
+     "fr": "« De pequeña, **tenía miedo a la oscuridad|ni_22** », dijo Lucía en voz baja. « Mi tatarabuelo me **contaba un cuento|ni_12** para dormir: siempre el del gato de Rafael. Ahora me lo sé de memoria. »",
+     "de": "„Als ich klein war, hatte ich Angst im Dunkeln“, sagte Lucía leise. „Mein Ururgroßvater hat mir zum Einschlafen eine Geschichte erzählt: immer die von Rafaels Katze. Jetzt kann ich sie auswendig.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_11",
+     "fr": "« ¿Y **te portabas bien|ni_10**? » preguntó Marta. « Nunca », dijo Manuel. « **Hacía travesuras|ni_03** por todas partes. Como el gato. Por eso se llevan tan bien. »",
+     "de": "„Und warst du brav?“, fragte Marta. „Nie“, sagte Manuel. „Sie hat überall Unfug gemacht. Wie die Katze. Deshalb verstehen sie sich so gut.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_12",
+     "fr": "Marta miraba a Lucía cuidar de su hermano: cambiaba **un pañal|ni_09** sin poner caras, preparaba el biberón, comprobaba la temperatura en la muñeca. **Estaba orgullosa de|ni_16** ella, y no sabía cómo decírselo.",
+     "de": "Marta sah zu, wie Lucía sich um ihren Bruder kümmerte: Sie wechselte eine Windel, ohne das Gesicht zu verziehen, bereitete das Fläschchen vor, prüfte die Temperatur am Handgelenk. Marta war stolz auf sie und wusste nicht, wie sie es ihr sagen sollte.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_13",
+     "fr": "« Ha **crecido|ni_07**, ¿eh? » dijo Manuel, que leía el pensamiento de los profesores. « Con los niños hay que **tener paciencia|ni_18**. Al final, siempre te sorprenden. »",
+     "de": "„Sie ist groß geworden, was?“, sagte Manuel, der die Gedanken von Lehrern lesen konnte. „Mit Kindern braucht man Geduld. Am Ende überraschen sie einen immer.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_14",
+     "fr": "A las siete, el padre de Lucía vino a buscar a Hugo. « **Es la hora del baño|ni_23** », le dijo a su hijo, que protestó en tres idiomas inventados. Antes de irse, le dio **un abrazo|ni_14** al gato gris. El gato se dejó. Era una hazaña.",
+     "de": "Um sieben holte Lucías Vater Hugo ab. „Es ist Badezeit“, sagte er zu seinem Sohn, der in drei erfundenen Sprachen protestierte. Bevor er ging, umarmte er den grauen Kater. Der Kater ließ es sich gefallen. Das war eine Heldentat.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_15",
+     "fr": "El palacio se vació. Javier llegó a las ocho, con un termo, dos linternas y muchas preguntas. Marta le resumió la historia en dos minutos. Javier se tomó el café. No dijo nada. Era un buen compañero.",
+     "de": "Der Palast leerte sich. Javier kam um acht, mit einer Thermoskanne, zwei Taschenlampen und vielen Fragen. Marta fasste ihm die Geschichte in zwei Minuten zusammen. Javier trank seinen Kaffee. Er sagte nichts. Er war ein guter Kollege.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_16",
+     "fr": "A medianoche, la puerta de la sala se abrió. Entró un hombre con una bolsa de pienso en la mano. Marta reconoció el periódico bajo su brazo. Era el señor del banco.",
+     "de": "Um Mitternacht öffnete sich die Tür des Raums. Ein Mann trat ein, eine Tüte Trockenfutter in der Hand. Marta erkannte die Zeitung unter seinem Arm. Es war der Herr von der Bank.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k08_17",
+     "fr": "Continuará.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": null
+    }
+   ]
+  },
+  {
+   "nr": 9,
+   "titel": "Los falsos amigos",
+   "absaetze": [
+    {
+     "id": "k09_01",
+     "fr": "« ¡Quieto! » gritó Javier, apuntando con la linterna como un actor de serie. El señor dejó la bolsa en el suelo. « No robo nada », dijo. « Vengo a **asistir a|fa_05** la siesta del gato. Todos los domingos. »",
+     "de": "„Keine Bewegung!“, rief Javier und richtete die Taschenlampe auf ihn wie ein Serienschauspieler. Der Herr stellte die Tüte auf den Boden. „Ich stehle nichts“, sagte er. „Ich komme, um beim Mittagsschlaf der Katze dabei zu sein. Jeden Sonntag.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_02",
+     "fr": "Se llamaba Ramón. Su bisabuelo era el coleccionista de 1929. « El ladrón, si quieren. Yo llevo cuarenta años pidiendo perdón por él. A un gato. »",
+     "de": "Er hieß Ramón. Sein Urgroßvater war der Sammler von 1929. „Der Dieb, wenn Sie so wollen. Ich bitte seit vierzig Jahren für ihn um Verzeihung. Bei einer Katze.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_03",
+     "fr": "Manuel se cruzó de brazos. « Me ha tenido asustado todo el mes, señor. » « No era mi intención. Soy una persona **sensible|fa_08**. No me gustan las peleas. Dejo el pienso y me voy. »",
+     "de": "Manuel verschränkte die Arme. „Sie haben mir den ganzen Monat Angst gemacht, mein Herr.“ „Das war nicht meine Absicht. Ich bin ein empfindsamer Mensch. Ich mag keinen Streit. Ich lasse das Futter da und gehe wieder.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_04",
+     "fr": "« Pienso del supermercado », dijo Lucía. « Es **una decepción|fa_18**, señor. » Ramón bajó la cabeza. « Lo sé. De gatos no sé nada. He leído libros. No basta. »",
+     "de": "„Futter aus dem Supermarkt“, sagte Lucía. „Das ist eine Enttäuschung, mein Herr.“ Ramón senkte den Kopf. „Ich weiß. Von Katzen verstehe ich nichts. Ich habe Bücher gelesen. Das reicht nicht.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_05",
+     "fr": "Javier, que da clases de inglés, quiso ayudar: « Tranquilo. Estamos todos un poco… **embarazados|fa_02**. » Silencio. Lucía se tapó la boca. « Avergonzados, Javier », dijo Marta. « Avergonzados. Embarazada es otra cosa. »",
+     "de": "Javier, der Englisch unterrichtet, wollte helfen: „Ganz ruhig. Wir sind alle ein bisschen … schwanger.“ Stille. Lucía hielt sich den Mund zu. „Verlegen, Javier“, sagte Marta. „Verlegen. ‚Embarazada‘ heißt etwas anderes.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_06",
+     "fr": "« ¿Y la entrada? » preguntó Marta. « Fui yo », dijo Lucía. « ¿Y la nota del banco? » « Fui yo », dijo Ramón. « Lucía me había hablado de usted. **Actualmente|fa_03** es la única profesora a la que respeta. Dice que usted sabe **atender|fa_06** a los alumnos sin gritar. »",
+     "de": "„Und die Eintrittskarte?“, fragte Marta. „Das war ich“, sagte Lucía. „Und der Zettel auf der Bank?“ „Das war ich“, sagte Ramón. „Lucía hatte mir von Ihnen erzählt. Zurzeit sind Sie die einzige Lehrerin, die sie respektiert. Sie sagt, Sie können sich um die Schüler kümmern, ohne zu schreien.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_07",
+     "fr": "Ramón sacó del bolsillo una **carpeta|fa_10** vieja. Dentro, el recibo de 1929. « Mi bisabuelo compró el azulejo a un vendedor. No sabía que era robado. Lo tuvo veinte años en su casa de **campo|fa_16**. Luego el azulejo se fue solo. »",
+     "de": "Ramón zog eine alte Mappe aus der Tasche. Darin die Quittung von 1929. „Mein Urgroßvater hat die Kachel bei einem Händler gekauft. Er wusste nicht, dass sie gestohlen war. Er hatte sie zwanzig Jahre in seinem Landhaus. Dann ist die Kachel von allein gegangen.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_08",
+     "fr": "« Nunca quiso **molestar|fa_20** a nadie », dijo Ramón. « Quería a ese gato. Yo también. Solo vengo a verlo, como se visita a un viejo amigo. No **pretendo|fa_07** llevármelo. »",
+     "de": "„Er wollte nie jemanden stören“, sagte Ramón. „Er hat diese Katze geliebt. Ich auch. Ich komme nur, um sie zu sehen, wie man einen alten Freund besucht. Ich habe nicht vor, sie mitzunehmen.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_09",
+     "fr": "Javier apagó la linterna. « Entonces, ¿no hay malo? » « Hay una profesora cansada, un jardinero muy mayor, una alumna genial y un hombre solo », dijo Manuel. « Basta para una historia. »",
+     "de": "Javier schaltete die Taschenlampe aus. „Es gibt also keinen Bösewicht?“ „Es gibt eine müde Lehrerin, einen sehr alten Gärtner, eine geniale Schülerin und einen einsamen Mann“, sagte Manuel. „Das reicht für eine Geschichte.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_10",
+     "fr": "El gato gris se restregó contra la pierna de Ramón. El gato del azulejo, en el taburete, lo miró un buen rato. Luego se comió una bolita de pienso del supermercado. Por educación.",
+     "de": "Der graue Kater rieb sich an Ramóns Bein. Die Katze von der Kachel auf dem Hocker sah ihn eine ganze Weile an. Dann fraß sie ein Bröckchen Supermarktfutter. Aus Höflichkeit.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_11",
+     "fr": "« Le perdona », dijo Manuel. « Pero no diga lo contrario: odia ese pienso. Lleva conservantes. » « ¿**Preservativos|fa_21**? » preguntó Javier, que seguía pensando en inglés. Lucía lloró de risa.",
+     "de": "„Sie verzeiht Ihnen“, sagte Manuel. „Aber behaupten Sie nicht das Gegenteil: Sie hasst dieses Futter. Da sind Konservierungsstoffe drin.“ „Kondome?“, fragte Javier, der immer noch auf Englisch dachte. Lucía weinte vor Lachen.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_12",
+     "fr": "Ramón sonrió por primera vez. « Trabajo en **una librería|fa_04** de la calle Sierpes. Si algún día escribe esta historia, la venderé. » Marta pensó en la **lectura|fa_19** de la noche, en casa, con su gato en las rodillas. La idea le gustó.",
+     "de": "Ramón lächelte zum ersten Mal. „Ich arbeite in einer Buchhandlung in der Calle Sierpes. Wenn Sie diese Geschichte eines Tages aufschreiben, verkaufe ich sie.“ Marta dachte an die Abendlektüre zu Hause, mit ihrer Katze auf dem Schoß. Die Idee gefiel ihr.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_13",
+     "fr": "Lucía anunció que haría sus prácticas de cuarto en la librería. Ramón dijo que sí. Manuel dijo que **eventualmente|fa_09** también habría que aprobar los exámenes. Todos tenían algo que decir, y todos tenían razón.",
+     "de": "Lucía verkündete, sie werde ihr Praktikum der zehnten Klasse in der Buchhandlung machen. Ramón sagte ja. Manuel sagte, gegebenenfalls müsse sie auch die Prüfungen bestehen. Alle hatten etwas zu sagen, und alle hatten recht.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_14",
+     "fr": "A las dos de la madrugada, el gato volvió a su azulejo. Se tumbó, cerró los ojos y ronroneó una última vez. La aventura había sido **un éxito|fa_11**.",
+     "de": "Um zwei Uhr nachts kehrte die Katze auf ihre Kachel zurück. Sie legte sich hin, schloss die Augen und schnurrte ein letztes Mal. Das Abenteuer war ein Erfolg gewesen.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_15",
+     "fr": "El lunes, Marta **entregó los exámenes|pr_16**. El de Lucía tenía una posdata: « Gracias, profe. El gato también le da las gracias. » Le había puesto un siete. Le subió medio punto. Por el gato.",
+     "de": "Am Montag gab Marta die Arbeiten zurück. Lucías Arbeit hatte ein Postskriptum: „Danke, Frau Lehrerin. Die Katze sagt auch danke.“ Sie hatte ihr eine Sieben gegeben. Sie gab einen halben Punkt dazu. Für die Katze.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_16",
+     "fr": "En la sala de profes, Javier le dio un café. Estaba **constipado|fa_01** y estornudaba sin parar. « Te has dejado el **pie|fa_14** fuera de la manta toda la noche », le dijo Marta. « Fue una noche **larga|fa_13** », contestó él. Era verdad.",
+     "de": "Im Lehrerzimmer reichte Javier ihr einen Kaffee. Er war erkältet und nieste ununterbrochen. „Du hast die ganze Nacht den Fuß aus der Decke gestreckt“, sagte Marta. „Es war eine lange Nacht“, antwortete er. Das stimmte.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_17",
+     "fr": "Por la tarde, en su mesa, Marta encontró un paquete. Dentro: un dibujo de Lucía, un gato gris vestido de cocinero sirviendo una **sopa|fa_15**, y un **burro|fa_23** de mazapán, de parte de Manuel. « Para la profe más terca de Sevilla », decía la tarjeta.",
+     "de": "Am Nachmittag fand Marta auf ihrem Schreibtisch ein Paket. Darin: eine Zeichnung von Lucía, ein grauer Kater als Koch, der eine Suppe serviert, und ein Esel aus Marzipan, von Manuel. „Für die sturste Lehrerin von Sevilla“, stand auf der Karte.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_18",
+     "fr": "Esa noche, Marta se puso su **ropa|fa_12** más vieja, el jersey con agujeros, y no **salió|fa_22**. Se sentó con su gato y empezó a **realizar|fa_17** un sueño antiguo. Escribió: « Marta Ruiz era profesora en Sevilla… »",
+     "de": "An diesem Abend zog Marta ihre ältesten Kleider an, den Pullover mit Löchern, und ging nicht aus. Sie setzte sich mit ihrer Katze hin und begann, einen alten Traum zu verwirklichen. Sie schrieb: „Marta Ruiz war Lehrerin in Sevilla …“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_19",
+     "fr": "Su gato se quedó a su lado toda la noche. De vez en cuando ronroneaba. Marta habría jurado que era en tono mayor.",
+     "de": "Ihre Katze blieb den ganzen Abend neben ihr. Ab und zu schnurrte sie. Marta hätte schwören können, dass es in Dur war.",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_20",
+     "fr": "Unas semanas después, un anciano con sombrero de paja entró en una librería de la calle Sierpes. « **Disculpe, busco la biblioteca|fa_24** », dijo. « Aquí vendemos libros, señor », sonrió Ramón. « Ya lo sé », dijo Manuel. « Solo quería ver si usted conocía la diferencia. »",
+     "de": "Ein paar Wochen später betrat ein alter Mann mit Strohhut eine Buchhandlung in der Calle Sierpes. „Entschuldigung, ich suche die Bibliothek“, sagte er. „Hier verkaufen wir Bücher, mein Herr“, lächelte Ramón. „Das weiß ich“, sagte Manuel. „Ich wollte nur sehen, ob Sie den Unterschied kennen.“",
+     "umschrift": null,
+     "audio": null
+    },
+    {
+     "id": "k09_21",
+     "fr": "Fin.",
+     "de": "Ende.",
+     "umschrift": null,
+     "audio": null
     }
    ]
   }
@@ -10352,6 +11396,16 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/geschichte/k01_12.mp3?v=cca524e6",
   "audio/es-de/geschichte/k01_13.mp3?v=051dd311",
   "audio/es-de/geschichte/k01_14.mp3?v=6ae5c6a3",
+  "audio/es-de/geschichte/k01_15.mp3?v=2475a55a",
+  "audio/es-de/geschichte/k01_16.mp3?v=492dc88d",
+  "audio/es-de/geschichte/k01_17.mp3?v=d1828353",
+  "audio/es-de/geschichte/k01_18.mp3?v=14d67a76",
+  "audio/es-de/geschichte/k01_19.mp3?v=edc19f91",
+  "audio/es-de/geschichte/k01_20.mp3?v=b70addb4",
+  "audio/es-de/geschichte/k01_21.mp3?v=f37b7007",
+  "audio/es-de/geschichte/k01_22.mp3?v=afb84289",
+  "audio/es-de/geschichte/k01_23.mp3?v=004f8a41",
+  "audio/es-de/geschichte/k01_24.mp3?v=f0da5fb8",
   "audio/es-de/geschichte/k02_01.mp3?v=868cba36",
   "audio/es-de/geschichte/k02_02.mp3?v=be4ca498",
   "audio/es-de/geschichte/k02_03.mp3?v=e7ba1397",
@@ -10367,6 +11421,16 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/geschichte/k02_13.mp3?v=2096400b",
   "audio/es-de/geschichte/k02_14.mp3?v=9a006efa",
   "audio/es-de/geschichte/k02_15.mp3?v=33b7d600",
+  "audio/es-de/geschichte/k02_16.mp3?v=b27270df",
+  "audio/es-de/geschichte/k02_17.mp3?v=4feb2955",
+  "audio/es-de/geschichte/k02_18.mp3?v=b6cbab6e",
+  "audio/es-de/geschichte/k02_19.mp3?v=2d0770fa",
+  "audio/es-de/geschichte/k02_20.mp3?v=4eca60c6",
+  "audio/es-de/geschichte/k02_21.mp3?v=ab79916d",
+  "audio/es-de/geschichte/k02_22.mp3?v=74c4776c",
+  "audio/es-de/geschichte/k02_23.mp3?v=e9af77f3",
+  "audio/es-de/geschichte/k02_24.mp3?v=7b06efbe",
+  "audio/es-de/geschichte/k02_25.mp3?v=c7a2edaf",
   "audio/es-de/geschichte/k03_01.mp3?v=bab41c20",
   "audio/es-de/geschichte/k03_02.mp3?v=25961ef9",
   "audio/es-de/geschichte/k03_03.mp3?v=28e3b7f3",
@@ -10382,6 +11446,67 @@ window.SPRACHEN["es-de"] = {
   "audio/es-de/geschichte/k03_13.mp3?v=16191620",
   "audio/es-de/geschichte/k03_14.mp3?v=efefeabf",
   "audio/es-de/geschichte/k03_15.mp3?v=ceae0233",
+  "audio/es-de/geschichte/k03_16.mp3?v=c5bd307c",
+  "audio/es-de/geschichte/k03_17.mp3?v=8a2a50b8",
+  "audio/es-de/geschichte/k03_18.mp3?v=d92303cc",
+  "audio/es-de/geschichte/k03_19.mp3?v=6a6b7439",
+  "audio/es-de/geschichte/k03_20.mp3?v=44ee071f",
+  "audio/es-de/geschichte/k03_21.mp3?v=f2354e6d",
+  "audio/es-de/geschichte/k03_22.mp3?v=0e8daea0",
+  "audio/es-de/geschichte/k03_23.mp3?v=a25d4d74",
+  "audio/es-de/geschichte/k03_24.mp3?v=7638846e",
+  "audio/es-de/geschichte/k03_25.mp3?v=2e9514fe",
+  "audio/es-de/geschichte/k03_26.mp3?v=5179e4be",
+  "audio/es-de/geschichte/k04_01.mp3?v=5f14587d",
+  "audio/es-de/geschichte/k04_02.mp3?v=27942381",
+  "audio/es-de/geschichte/k04_03.mp3?v=54e2b43a",
+  "audio/es-de/geschichte/k04_04.mp3?v=2e589294",
+  "audio/es-de/geschichte/k04_05.mp3?v=99b38b01",
+  "audio/es-de/geschichte/k04_06.mp3?v=f212d874",
+  "audio/es-de/geschichte/k04_07.mp3?v=b2122d73",
+  "audio/es-de/geschichte/k04_08.mp3?v=2125c861",
+  "audio/es-de/geschichte/k04_09.mp3?v=07e6171e",
+  "audio/es-de/geschichte/k04_10.mp3?v=c2a2d043",
+  "audio/es-de/geschichte/k04_11.mp3?v=bdd93ac5",
+  "audio/es-de/geschichte/k04_12.mp3?v=49c8e58a",
+  "audio/es-de/geschichte/k04_13.mp3?v=653582a7",
+  "audio/es-de/geschichte/k04_14.mp3?v=57a01608",
+  "audio/es-de/geschichte/k04_15.mp3?v=60770628",
+  "audio/es-de/geschichte/k04_16.mp3?v=00e164d4",
+  "audio/es-de/geschichte/k04_17.mp3?v=2c63c429",
+  "audio/es-de/geschichte/k04_18.mp3?v=d14fde38",
+  "audio/es-de/geschichte/k04_19.mp3?v=f2f8da1e",
+  "audio/es-de/geschichte/k05_01.mp3?v=ec308106",
+  "audio/es-de/geschichte/k05_02.mp3?v=51ddd5db",
+  "audio/es-de/geschichte/k05_03.mp3?v=02baf5a0",
+  "audio/es-de/geschichte/k05_04.mp3?v=0e6fc033",
+  "audio/es-de/geschichte/k05_05.mp3?v=bc3c04d0",
+  "audio/es-de/geschichte/k05_06.mp3?v=18bd74cc",
+  "audio/es-de/geschichte/k05_07.mp3?v=16f66b78",
+  "audio/es-de/geschichte/k05_08.mp3?v=83936f1a",
+  "audio/es-de/geschichte/k05_09.mp3?v=fbc65ca5",
+  "audio/es-de/geschichte/k05_10.mp3?v=70290713",
+  "audio/es-de/geschichte/k05_11.mp3?v=a2344b3f",
+  "audio/es-de/geschichte/k05_12.mp3?v=7b3e4b31",
+  "audio/es-de/geschichte/k05_13.mp3?v=b363e4f5",
+  "audio/es-de/geschichte/k05_14.mp3?v=6c18d816",
+  "audio/es-de/geschichte/k05_15.mp3?v=583baf40",
+  "audio/es-de/geschichte/k05_16.mp3?v=14112c26",
+  "audio/es-de/geschichte/k05_17.mp3?v=683cf344",
+  "audio/es-de/geschichte/k05_18.mp3?v=af4e8b13",
+  "audio/es-de/geschichte/k05_19.mp3?v=4fa5b6f7",
+  "audio/es-de/geschichte/k06_01.mp3?v=7a1dc8e8",
+  "audio/es-de/geschichte/k06_02.mp3?v=6e2684ef",
+  "audio/es-de/geschichte/k06_03.mp3?v=85a1a988",
+  "audio/es-de/geschichte/k06_04.mp3?v=4ec212dd",
+  "audio/es-de/geschichte/k06_05.mp3?v=84a22537",
+  "audio/es-de/geschichte/k06_06.mp3?v=cd5cc508",
+  "audio/es-de/geschichte/k06_07.mp3?v=b5eebcd8",
+  "audio/es-de/geschichte/k06_08.mp3?v=a11161aa",
+  "audio/es-de/geschichte/k06_09.mp3?v=047c510f",
+  "audio/es-de/geschichte/k06_10.mp3?v=e63b72b7",
+  "audio/es-de/geschichte/k06_11.mp3?v=ccae953d",
+  "audio/es-de/geschichte/k06_12.mp3?v=03afd30c",
   "audio/es-de/lob/doch_lo_ves.mp3?v=a3b83c7d",
   "audio/es-de/lob/fehler_casi.mp3?v=c2747d6f",
   "audio/es-de/lob/fehler_casi_casi.mp3?v=b9b0093c",
