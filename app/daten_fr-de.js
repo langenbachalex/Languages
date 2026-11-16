@@ -97,6 +97,15 @@ window.SPRACHEN["fr-de"] = {
    "⚡ 1 Teil fast leer – aufladen!"
   ],
   "powerup_ok": "⚡ Rechargé !",
+  "kapitel_thema": [
+   "Le chapitre {n} s'ouvre quand tu as terminé le thème « {thema} ».",
+   "Kapitel {n} öffnet sich, wenn du das Thema „{thema}“ fertig hast."
+  ],
+  "kapitel_neu": [
+   "Un nouveau chapitre de l'histoire t'attend : « {titel} ».",
+   "Ein neues Kapitel der Geschichte wartet: „{titel}“."
+  ],
+  "kapitel_lu": "✓ Chapitre lu",
   "neu_pro_tag": [
    "Nouvelles par jour",
    "Neue pro Tag"
@@ -116,7 +125,7 @@ window.SPRACHEN["fr-de"] = {
    "Prononciation et histoire",
    "Aussprache und Geschichte"
   ],
-  "kapitel_zahl": "{frei} / {alle} chapitres · un nouveau par semaine parfaite",
+  "kapitel_zahl": "{frei} / {alle} chapitres · un nouveau par thème terminé",
   "stand": [
    "{n} expressions dans ta boîte · {fest} bien ancrées · {orte} / {alle} lieux visités",
    "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"
@@ -9120,8 +9129,36 @@ window.SPRACHEN["fr-de"] = {
      "audio": "audio/fr-de/geschichte/k01_01.mp3?v=aec3f015"
     },
     {
+     "id": "k01_15",
+     "fr": "Ce vendredi-là, il avait **fait cours|ep_04** de huit heures à seize heures. Six heures de suite. Les troisièmes **étaient à fond|ep_15**, les sixièmes un peu moins.",
+     "de": "An jenem Freitag hatte er von acht bis sechzehn Uhr unterrichtet. Sechs Stunden am Stück. Die Neuntklässler waren voll dabei, die Sechstklässler etwas weniger.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k01_15.mp3?v=62f1df86"
+    },
+    {
+     "id": "k01_16",
+     "fr": "À la **récré|ep_05**, Aurélien, son collègue de Strasbourg, lui avait apporté un café. « Alors, **ça s'est bien passé|ep_03**, ton cours avec les troisièmes ? » « Très bien. **En fait|ep_11**, trop bien. Ils ont tout compris. C'est suspect. »",
+     "de": "In der Pause hatte ihm Aurélien, sein Kollege aus Straßburg, einen Kaffee gebracht. „Und, ist es gut gelaufen, deine Stunde mit den Neuntklässlern?“ „Sehr gut. Eigentlich zu gut. Sie haben alles verstanden. Das ist verdächtig.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k01_16.mp3?v=cca52013"
+    },
+    {
+     "id": "k01_17",
+     "fr": "Ensuite, il y avait eu **une réunion|ep_17**. Une heure et demie sur le règlement de la cantine. Julien **en avait marre|ep_07**. Il avait dessiné un chat dans la marge de l'ordre du jour.",
+     "de": "Danach war eine Konferenz gewesen. Anderthalb Stunden über die Kantinenordnung. Julien hatte die Nase voll. Er hatte eine Katze an den Rand der Tagesordnung gezeichnet.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k01_17.mp3?v=231663c3"
+    },
+    {
+     "id": "k01_18",
+     "fr": "« Je **rends les copies|ep_16** lundi », avait-il promis aux troisièmes. Il fallait donc les corriger ce soir. **Quand même|ep_12**, un vendredi soir…",
+     "de": "„Ich gebe die Arbeiten am Montag zurück“, hatte er den Neuntklässlern versprochen. Also musste er sie heute Abend korrigieren. Trotzdem, an einem Freitagabend …",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k01_18.mp3?v=5768ad6b"
+    },
+    {
      "id": "k01_02",
-     "fr": "Ce vendredi soir, il **corrigeait des copies**, comme tous les vendredis. Il **était crevé**. Dehors, il pleuvait. Dedans, son chat **faisait la sieste** sur les copies déjà corrigées.",
+     "fr": "Ce vendredi soir, il **corrigeait des copies|ep_01**, comme tous les vendredis. Il **était crevé|ep_02**. Dehors, il pleuvait. Dedans, son chat **faisait la sieste|ch_10** sur les copies déjà corrigées.",
      "de": "An diesem Freitagabend korrigierte er Arbeiten, wie jeden Freitag. Er war fix und fertig. Draußen regnete es. Drinnen machte seine Katze ein Nickerchen auf den schon korrigierten Arbeiten.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_02.mp3?v=6c1faa4d"
@@ -9156,10 +9193,17 @@ window.SPRACHEN["fr-de"] = {
     },
     {
      "id": "k01_07",
-     "fr": "Julien n'**avait pas peur**. Pas encore. Il **avait du mal à** comprendre, c'est tout.",
+     "fr": "Julien n'**avait pas peur|se_11**. Pas encore. Il **avait du mal à|ep_08** comprendre, c'est tout.",
      "de": "Julien hatte keine Angst. Noch nicht. Er hatte nur Schwierigkeiten, das zu verstehen, das war alles.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_07.mp3?v=f4e136f8"
+    },
+    {
+     "id": "k01_19",
+     "fr": "Il a réfléchi longtemps. « **Prends ton temps|ep_19** », disait toujours sa grand-mère. « Les mystères ne courent pas. »",
+     "de": "Er dachte lange nach. „Lass dir Zeit“, sagte seine Großmutter immer. „Geheimnisse laufen nicht weg.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k01_19.mp3?v=8f0636ac"
     },
     {
      "id": "k01_08",
@@ -9170,28 +9214,42 @@ window.SPRACHEN["fr-de"] = {
     },
     {
      "id": "k01_09",
-     "fr": "Julien a regardé son chat. Le chat a ouvert un œil. Puis il **a ronronné**. Une seule fois. Comme un oui.",
+     "fr": "Julien a regardé son chat. Le chat a ouvert un œil. Puis il **a ronronné|ch_01**. Une seule fois. Comme un oui.",
      "de": "Julien sah seine Katze an. Die Katze öffnete ein Auge. Dann schnurrte sie. Ein einziges Mal. Wie ein Ja.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_09.mp3?v=73e44beb"
     },
     {
      "id": "k01_10",
-     "fr": "« **Ça ne fait rien** », a dit Julien à voix haute. « Je n'irai pas. »",
+     "fr": "« **Ça ne fait rien|ep_18** », a dit Julien à voix haute. « Je n'irai pas. »",
      "de": "„Macht nichts“, sagte Julien laut. „Ich gehe nicht hin.“",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_10.mp3?v=88d3c673"
     },
     {
+     "id": "k01_20",
+     "fr": "Puis il a pensé : un billet gratuit pour le Louvre, **ça vaut le coup|ep_13**. Et un professeur sait **se débrouiller|ep_14** dans un musée. Ce n'est qu'une classe plus calme.",
+     "de": "Dann dachte er: Eine kostenlose Karte für den Louvre, das lohnt sich. Und ein Lehrer weiß sich in einem Museum zu helfen. Das ist nur eine ruhigere Klasse.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k01_20.mp3?v=1825ec29"
+    },
+    {
      "id": "k01_11",
-     "fr": "Il a mis le billet dans sa poche. **Du coup**, à six heures du matin, il était dans le train pour Paris.",
+     "fr": "Il a mis le billet dans sa poche. **Du coup|ep_10**, à six heures du matin, il était dans le train pour Paris.",
      "de": "Er steckte die Karte in seine Tasche. Und so saß er um sechs Uhr morgens im Zug nach Paris.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_11.mp3?v=0a698deb"
     },
     {
+     "id": "k01_21",
+     "fr": "À la gare de Metz, il avait juste eu le temps de demander au guichet : « **Pourriez-vous|ep_20** me dire sur quel quai part le train pour Paris ? » « Quai trois, monsieur. Vous avez de la chance. » Julien n'était pas sûr que ce soit de la chance.",
+     "de": "Am Bahnhof in Metz hatte er gerade noch Zeit gehabt, am Schalter zu fragen: „Könnten Sie mir sagen, von welchem Gleis der Zug nach Paris fährt?“ „Gleis drei, Monsieur. Sie haben Glück.“ Julien war nicht sicher, ob das Glück war.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k01_21.mp3?v=6bb62e2a"
+    },
+    {
      "id": "k01_12",
-     "fr": "**Ça fait longtemps** qu'il n'avait pas vu le Louvre. Il **avait hâte**. Et, pour être honnête, un petit peu **le cafard**.",
+     "fr": "**Ça fait longtemps|ep_09** qu'il n'avait pas vu le Louvre. Il **avait hâte|ep_06**. Et, pour être honnête, un petit peu **le cafard|se_02**.",
      "de": "Es war lange her, dass er den Louvre gesehen hatte. Er konnte es kaum erwarten. Und, ehrlich gesagt, war ihm ein bisschen schwer ums Herz.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k01_12.mp3?v=c8477eba"
@@ -9224,15 +9282,29 @@ window.SPRACHEN["fr-de"] = {
      "audio": "audio/fr-de/geschichte/k02_01.mp3?v=953a972a"
     },
     {
+     "id": "k02_16",
+     "fr": "Dehors, la Lorraine défilait sous un ciel **sombre|se_03**. Des champs, des villages, un clocher. Un paysage **mélancolique|se_04**, mais **paisible|se_21**. Julien **se sentait bien|se_17**, ce qui l'étonnait un peu.",
+     "de": "Draußen zog Lothringen unter einem düsteren Himmel vorbei. Felder, Dörfer, ein Kirchturm. Eine melancholische Landschaft, aber friedlich. Julien fühlte sich wohl, was ihn ein wenig überraschte.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_16.mp3?v=6ea2dec7"
+    },
+    {
+     "id": "k02_17",
+     "fr": "Il était parti **de bonne humeur|se_12**, avec juste un petit **cafard|se_02** de samedi matin. Il n'**avait pas peur de|se_11** grand-chose. Pourtant, une question lui donnait **des frissons|se_10** : qui savait qu'il aimait le Louvre ?",
+     "de": "Er war gut gelaunt losgefahren, mit nur einem kleinen Samstagmorgen-Tief. Er hatte vor nicht viel Angst. Trotzdem bekam er bei einer Frage Gänsehaut: Wer wusste, dass er den Louvre liebte?",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_17.mp3?v=f04b90f2"
+    },
+    {
      "id": "k02_02",
-     "fr": "L'homme en face de lui lisait toujours le journal. Le chat gris, lui, ne lisait pas. Il regardait Julien. **Ça ne le dérangeait pas**, apparemment.",
+     "fr": "L'homme en face de lui lisait toujours le journal. Le chat gris, lui, ne lisait pas. Il regardait Julien. **Ça ne le dérangeait pas|ch_21**, apparemment.",
      "de": "Der Mann ihm gegenüber las immer noch Zeitung. Die graue Katze las nicht. Sie sah Julien an. Das störte sie offenbar nicht.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_02.mp3?v=bfbff8dc"
     },
     {
      "id": "k02_03",
-     "fr": "« Il est **indépendant** », a dit l'homme sans lever les yeux. « Il choisit les gens. »",
+     "fr": "« Il est **indépendant|ch_22** », a dit l'homme sans lever les yeux. « Il choisit les gens. »",
      "de": "„Er ist unabhängig“, sagte der Mann, ohne aufzusehen. „Er sucht sich die Leute aus.“",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_03.mp3?v=d13c12f4"
@@ -9259,6 +9331,41 @@ window.SPRACHEN["fr-de"] = {
      "audio": "audio/fr-de/geschichte/k02_06.mp3?v=e0d173bb"
     },
     {
+     "id": "k02_18",
+     "fr": "« Vous aimez la peinture ? » a demandé l'homme. « Beaucoup. Surtout **le clair-obscur|se_20**. Les tableaux où la lumière sort de la nuit, **ça me touche|se_01**. »",
+     "de": "„Mögen Sie Malerei?“, fragte der Mann. „Sehr. Vor allem das Helldunkel. Bilder, in denen das Licht aus der Nacht kommt, die berühren mich.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_18.mp3?v=c7163467"
+    },
+    {
+     "id": "k02_19",
+     "fr": "« Moi aussi », a dit l'homme. « Il y a un tableau, au Louvre, qui me **rend heureux|se_19** et triste en même temps. Un petit tableau. Un chat qui dort. Personne ne le regarde. **Ça me fend le cœur|se_05**. »",
+     "de": "„Mich auch“, sagte der Mann. „Es gibt ein Bild im Louvre, das mich glücklich und traurig zugleich macht. Ein kleines Bild. Eine Katze, die schläft. Niemand sieht es an. Das bricht mir das Herz.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_19.mp3?v=3985b8e3"
+    },
+    {
+     "id": "k02_20",
+     "fr": "Julien n'a rien répondu. L'homme parlait de son tableau comme on parle d'un ami. Il **était ému|se_06**, Julien le voyait bien. Il avait presque **les larmes aux yeux|se_09**.",
+     "de": "Julien antwortete nicht. Der Mann sprach von seinem Bild, wie man von einem Freund spricht. Er war gerührt, Julien sah es genau. Er hatte fast Tränen in den Augen.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_20.mp3?v=97955598"
+    },
+    {
+     "id": "k02_21",
+     "fr": "« Vous **avez du chagrin|se_23** ? » a demandé Julien. « Un peu. Mon premier chat a disparu il y a longtemps. Celui-ci est son petit-fils. Mais l'autre **me manque|se_14** quand même. »",
+     "de": "„Sind Sie traurig?“, fragte Julien. „Ein wenig. Meine erste Katze ist vor langer Zeit verschwunden. Diese hier ist ihr Enkel. Aber die andere fehlt mir trotzdem.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_21.mp3?v=4cc25220"
+    },
+    {
+     "id": "k02_22",
+     "fr": "« **Je suis désolé|se_24** », a dit Julien. Et il l'était. Il pensait à son propre chat, à Metz, tout seul avec les copies.",
+     "de": "„Das tut mir leid“, sagte Julien. Und so war es auch. Er dachte an seine eigene Katze in Metz, ganz allein mit den Arbeiten.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_22.mp3?v=a216ba13"
+    },
+    {
      "id": "k02_07",
      "fr": "Entre Châlons et Paris, l'homme a plié son journal. Il a posé sur la table une petite clé en laiton, très vieille, avec un numéro : 13.",
      "de": "Zwischen Châlons und Paris faltete der Mann seine Zeitung zusammen. Er legte einen kleinen, sehr alten Messingschlüssel auf den Tisch, mit einer Nummer: 13.",
@@ -9274,7 +9381,7 @@ window.SPRACHEN["fr-de"] = {
     },
     {
      "id": "k02_09",
-     "fr": "« Évidemment », a répété Julien. Il **avait du mal à** garder son sérieux. Et en même temps, il **avait le cœur lourd**, sans savoir pourquoi.",
+     "fr": "« Évidemment », a répété Julien. Il **avait du mal à|ep_08** garder son sérieux. Et en même temps, il **avait le cœur lourd|se_18**, sans savoir pourquoi.",
      "de": "„Natürlich“, wiederholte Julien. Er hatte Mühe, ernst zu bleiben. Und gleichzeitig war ihm schwer ums Herz, ohne zu wissen, warum.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_09.mp3?v=2e2cf711"
@@ -9287,11 +9394,32 @@ window.SPRACHEN["fr-de"] = {
      "audio": "audio/fr-de/geschichte/k02_10.mp3?v=1babe59d"
     },
     {
+     "id": "k02_23",
+     "fr": "« Pourquoi ? » « Parce que le tableau n'aime pas qu'on chante faux. Et vous chantez faux, monsieur Lefèvre. Mehdi me l'a dit. » C'était **inquiétant|se_07**. C'était surtout vrai.",
+     "de": "„Warum?“ „Weil das Bild es nicht mag, wenn man falsch singt. Und Sie singen falsch, Monsieur Lefèvre. Mehdi hat es mir gesagt.“ Das war beunruhigend. Vor allem war es wahr.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_23.mp3?v=88d27b60"
+    },
+    {
      "id": "k02_11",
      "fr": "Le train est entré en gare de l'Est. Quand Julien s'est retourné, l'homme n'était plus là. Le chat non plus.",
      "de": "Der Zug fuhr in den Gare de l'Est ein. Als Julien sich umdrehte, war der Mann nicht mehr da. Die Katze auch nicht.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_11.mp3?v=02086244"
+    },
+    {
+     "id": "k02_24",
+     "fr": "Sur le quai, il y avait du bruit, des gens pressés, des gens **de mauvaise humeur|se_13**. Après le calme du train, c'était presque **angoissant|se_22**.",
+     "de": "Auf dem Bahnsteig war es laut, die Leute hatten es eilig, manche waren schlecht gelaunt. Nach der Ruhe im Zug war das fast beklemmend.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_24.mp3?v=26d84e17"
+    },
+    {
+     "id": "k02_25",
+     "fr": "Julien **en avait gros sur le cœur|se_15**, sans savoir pourquoi. Puis il a respiré. Le café de la gare sentait bon, c'était **apaisant|se_08**. Il s'est dit qu'une journée au Louvre ne pouvait pas être **bouleversante|se_16**. Il se trompait.",
+     "de": "Julien war das Herz schwer, ohne dass er wusste, warum. Dann atmete er durch. Der Kaffee im Bahnhof roch gut, das war beruhigend. Er sagte sich, ein Tag im Louvre könne nicht erschütternd sein. Er irrte sich.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k02_25.mp3?v=d00fb983"
     },
     {
      "id": "k02_12",
@@ -9302,7 +9430,7 @@ window.SPRACHEN["fr-de"] = {
     },
     {
      "id": "k02_13",
-     "fr": "Julien a pris les deux. **Du coup**, il était maintenant un professeur de Metz avec une clé, un poil de chat et un rendez-vous dans une salle qui n'existait pas.",
+     "fr": "Julien a pris les deux. **Du coup|ep_10**, il était maintenant un professeur de Metz avec une clé, un poil de chat et un rendez-vous dans une salle qui n'existait pas.",
      "de": "Julien nahm beides. Und so war er jetzt ein Lehrer aus Metz mit einem Schlüssel, einem Katzenhaar und einer Verabredung in einem Saal, den es nicht gab.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k02_13.mp3?v=7d390268"
@@ -9350,7 +9478,7 @@ window.SPRACHEN["fr-de"] = {
     },
     {
      "id": "k03_04",
-     "fr": "Julien a regardé le mur pendant cinq minutes. Un gardien a regardé Julien pendant cinq minutes. Puis le gardien est parti. **Ça fait longtemps** qu'il travaillait ici ; il avait vu des choses plus étranges.",
+     "fr": "Julien a regardé le mur pendant cinq minutes. Un gardien a regardé Julien pendant cinq minutes. Puis le gardien est parti. **Ça fait longtemps|ep_09** qu'il travaillait ici ; il avait vu des choses plus étranges.",
      "de": "Julien sah die Wand fünf Minuten lang an. Ein Wärter sah Julien fünf Minuten lang an. Dann ging der Wärter. Er arbeitete schon lange hier; er hatte seltsamere Dinge gesehen.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_04.mp3?v=212c61ca"
@@ -9364,7 +9492,7 @@ window.SPRACHEN["fr-de"] = {
     },
     {
      "id": "k03_06",
-     "fr": "Julien a sorti la clé. Il a hésité. Il **avait un peu peur**, maintenant. Pas de la porte. De lui-même : il allait vraiment le faire.",
+     "fr": "Julien a sorti la clé. Il a hésité. Il **avait un peu peur|se_11**, maintenant. Pas de la porte. De lui-même : il allait vraiment le faire.",
      "de": "Julien holte den Schlüssel heraus. Er zögerte. Jetzt hatte er ein bisschen Angst. Nicht vor der Tür. Vor sich selbst: Er würde es wirklich tun.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_06.mp3?v=ec99f26f"
@@ -9378,7 +9506,7 @@ window.SPRACHEN["fr-de"] = {
     },
     {
      "id": "k03_08",
-     "fr": "La salle 13 était petite, **sombre** et **paisible**. Pas de visiteurs. Pas de guide. Un seul tableau, au fond, éclairé par une lampe.",
+     "fr": "La salle 13 était petite, **sombre|se_03** et **paisible|se_21**. Pas de visiteurs. Pas de guide. Un seul tableau, au fond, éclairé par une lampe.",
      "de": "Saal 13 war klein, düster und friedlich. Keine Besucher. Kein Führer. Ein einziges Gemälde, hinten, von einer Lampe beleuchtet.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_08.mp3?v=3a9ed624"
@@ -9391,6 +9519,20 @@ window.SPRACHEN["fr-de"] = {
      "audio": "audio/fr-de/geschichte/k03_09.mp3?v=9dce58c2"
     },
     {
+     "id": "k03_16",
+     "fr": "Le chat du tableau était **un chat de gouttière|ch_18**, gris, maigre, avec **un regard|ch_14** de propriétaire. Il dormait comme seuls les chats savent **faire la sieste|ch_10** : avec tout le corps.",
+     "de": "Die Katze auf dem Bild war eine Straßenkatze, grau, mager, mit dem Blick eines Hausbesitzers. Sie schlief, wie nur Katzen Mittagsschlaf halten können: mit dem ganzen Körper.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_16.mp3?v=8aa15ed9"
+    },
+    {
+     "id": "k03_17",
+     "fr": "À côté du tableau, sur un tabouret, il y avait un bol de **croquettes|ch_12** et une assiette de **pâtée|ch_13**. Fraîche. Quelqu'un nourrissait le chat d'un tableau. Que ce soit absurde, **ça ne le dérangeait pas|ch_21**, visiblement.",
+     "de": "Neben dem Bild stand auf einem Hocker eine Schale Trockenfutter und ein Teller Nassfutter. Frisch. Jemand fütterte die Katze auf einem Bild. Dass das absurd war, störte diesen Jemand offenbar nicht.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_17.mp3?v=4255fe6c"
+    },
+    {
      "id": "k03_10",
      "fr": "Julien s'est approché. Il a entendu quelque chose. Un bruit doux, régulier, impossible.",
      "de": "Julien trat näher. Er hörte etwas. Ein leises, gleichmäßiges, unmögliches Geräusch.",
@@ -9399,14 +9541,21 @@ window.SPRACHEN["fr-de"] = {
     },
     {
      "id": "k03_11",
-     "fr": "Le tableau **ronronnait**.",
+     "fr": "Le tableau **ronronnait|ch_01**.",
      "de": "Das Gemälde schnurrte.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_11.mp3?v=3dd37253"
     },
     {
+     "id": "k03_18",
+     "fr": "Pas un petit ronronnement. Un vrai. Le chat du tableau **ronronnait de plaisir|ch_23**, comme quand on le **caresse|ch_07** derrière les oreilles.",
+     "de": "Kein leises Schnurren. Ein echtes. Die Katze auf dem Bild schnurrte vor Vergnügen, wie wenn man sie hinter den Ohren streichelt.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_18.mp3?v=c258856a"
+    },
+    {
      "id": "k03_12",
-     "fr": "« **Ça, c'est inquiétant** », a dit Julien à voix haute. Puis, parce qu'il était nerveux, il a fait ce qu'il faisait toujours quand il était nerveux. Il a fredonné.",
+     "fr": "« **Ça, c'est inquiétant|se_07** », a dit Julien à voix haute. Puis, parce qu'il était nerveux, il a fait ce qu'il faisait toujours quand il était nerveux. Il a fredonné.",
      "de": "„Das ist beunruhigend“, sagte Julien laut. Dann tat er, weil er nervös war, was er immer tat, wenn er nervös war. Er summte.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_12.mp3?v=bd8d4fdb"
@@ -9426,11 +9575,894 @@ window.SPRACHEN["fr-de"] = {
      "audio": "audio/fr-de/geschichte/k03_14.mp3?v=757fb777"
     },
     {
+     "id": "k03_19",
+     "fr": "Dans le silence, quelque chose **a sauté sur|ch_15** l'épaule de Julien. Il a crié. Un peu. Comme un professeur, donc pas fort.",
+     "de": "In der Stille sprang etwas auf Juliens Schulter. Er schrie. Ein bisschen. Wie ein Lehrer, also nicht laut.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_19.mp3?v=780a9818"
+    },
+    {
+     "id": "k03_20",
+     "fr": "C'était le chat gris du train. Il **se frottait contre|ch_11** son oreille, puis il a commencé à **faire sa toilette|ch_04**, tranquillement, sur l'épaule d'un inconnu. Un chat **indépendant|ch_22**, vraiment.",
+     "de": "Es war der graue Kater aus dem Zug. Er rieb sich an seinem Ohr, dann begann er, sich in aller Ruhe zu putzen, auf der Schulter eines Fremden. Ein wirklich unabhängiger Kater.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_20.mp3?v=069e0c53"
+    },
+    {
+     "id": "k03_21",
+     "fr": "« Toi, tu **as faim|ch_06** », a dit Julien. Le chat a **miaulé|ch_05**. Une fois. Puis il a sauté par terre, a mangé trois croquettes et **s'est caché|ch_16** derrière le tabouret.",
+     "de": "„Du hast Hunger“, sagte Julien. Der Kater miaute. Einmal. Dann sprang er auf den Boden, fraß drei Bröckchen und versteckte sich hinter dem Hocker.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_21.mp3?v=2eba95a2"
+    },
+    {
+     "id": "k03_22",
+     "fr": "Julien s'est mis à genoux. « Viens. Ne me **griffe|ch_03** pas », a-t-il dit. Le chat a **fait ses griffes|ch_08** sur la moquette, pour montrer qui était le **félin|ch_09**, ici.",
+     "de": "Julien kniete sich hin. „Komm. Kratz mich nicht“, sagte er. Der Kater wetzte seine Krallen am Teppich, um zu zeigen, wer hier die Raubkatze war.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_22.mp3?v=3502915a"
+    },
+    {
+     "id": "k03_23",
+     "fr": "Puis il est revenu **faire un câlin|ch_02**. Il est resté contre Julien, comme pour lui **tenir compagnie|ch_17**. Dans le tableau, l'autre chat avait rouvert un œil.",
+     "de": "Dann kam er zum Kuscheln zurück. Er blieb an Julien gelehnt, als wolle er ihm Gesellschaft leisten. Im Bild hatte die andere Katze wieder ein Auge geöffnet.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_23.mp3?v=1f86b78a"
+    },
+    {
+     "id": "k03_24",
+     "fr": "« Vous **faites des bêtises|ch_19**, tous les deux », a dit une voix derrière lui. Une voix de femme, âgée, très calme. « Le **vétérinaire|ch_20** va encore me gronder. »",
+     "de": "„Ihr zwei macht Unsinn“, sagte eine Stimme hinter ihm. Die Stimme einer Frau, alt, sehr ruhig. „Der Tierarzt wird schon wieder mit mir schimpfen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_24.mp3?v=2a5643e6"
+    },
+    {
+     "id": "k03_25",
+     "fr": "Julien s'est retourné. Une gardienne en uniforme bleu le regardait. Sur son badge : « Odette. Depuis 1911. » « **Est-ce que vous avez un chat|ch_24** ? » a demandé Julien, parce que c'était la seule question qui lui venait. « J'en ai deux », a-t-elle dit. « Un dans la salle. Un dans le tableau. »",
+     "de": "Julien drehte sich um. Eine Wärterin in blauer Uniform sah ihn an. Auf ihrem Namensschild: „Odette. Seit 1911.“ „Haben Sie eine Katze?“, fragte Julien, weil ihm keine andere Frage einfiel. „Zwei“, sagte sie. „Eine im Saal. Eine im Bild.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k03_25.mp3?v=a6c24625"
+    },
+    {
      "id": "k03_15",
      "fr": "À suivre.",
      "de": "Fortsetzung folgt.",
      "umschrift": null,
      "audio": "audio/fr-de/geschichte/k03_15.mp3?v=777d016b"
+    }
+   ]
+  },
+  {
+   "nr": 4,
+   "titel": "Le refrain",
+   "absaetze": [
+    {
+     "id": "k04_01",
+     "fr": "« Vous avez fredonné », a dit Odette. « Le tableau n'aime pas ça. Il préfère qu'on chante. Et qu'on **chante juste|mu_01**. »",
+     "de": "„Sie haben gesummt“, sagte Odette. „Das mag das Bild nicht. Es will, dass man singt. Und zwar sauber.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_01.mp3?v=e307a4d1"
+    },
+    {
+     "id": "k04_02",
+     "fr": "« Je **chante faux|mu_02** », a avoué Julien. « Mes élèves le disent. Mon chat le dit. Mehdi aussi, apparemment. »",
+     "de": "„Ich singe falsch“, gab Julien zu. „Meine Schüler sagen das. Meine Katze sagt das. Mehdi offenbar auch.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_02.mp3?v=ff7f1d4b"
+    },
+    {
+     "id": "k04_03",
+     "fr": "« Tout le monde chante faux au début. Mais vous **avez l'oreille|mu_06**, monsieur Lefèvre. Je l'ai vu tout à l'heure : vous avez entendu le ronronnement avant moi. »",
+     "de": "„Am Anfang singt jeder falsch. Aber Sie haben ein gutes Ohr, Monsieur Lefèvre. Das habe ich vorhin gesehen: Sie haben das Schnurren vor mir gehört.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_03.mp3?v=06763aea"
+    },
+    {
+     "id": "k04_04",
+     "fr": "Elle a sorti de sa poche un vieux carnet. Dedans, **les paroles|mu_04** d'une chanson, écrites à la main, en lettres bleues. Les mêmes lettres bleues que sur le billet.",
+     "de": "Sie zog ein altes Notizheft aus der Tasche. Darin der Text eines Liedes, von Hand geschrieben, in blauen Buchstaben. Dieselben blauen Buchstaben wie auf der Karte.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_04.mp3?v=b10a0ba9"
+    },
+    {
+     "id": "k04_05",
+     "fr": "« C'est une chanson de 1911. Le chat l'écoutait **en boucle|mu_10**, dans l'atelier du peintre. Il faut **apprendre par cœur|mu_20** au moins **le refrain|mu_03**. »",
+     "de": "„Das ist ein Lied von 1911. Die Katze hat es im Atelier des Malers in Dauerschleife gehört. Mindestens den Refrain muss man auswendig lernen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_05.mp3?v=eb1edbc4"
+    },
+    {
+     "id": "k04_06",
+     "fr": "Julien a lu le texte. Les mots étaient simples, mais **la musique de la langue|mu_08** était ancienne : des « r » roulés, des **liaisons|mu_14** partout, un **rythme|mu_13** lent, comme une valse.",
+     "de": "Julien las den Text. Die Wörter waren einfach, aber die Melodie der Sprache war alt: gerollte „r“, überall Bindungen, ein langsamer Rhythmus wie ein Walzer.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_06.mp3?v=f7bb27fd"
+    },
+    {
+     "id": "k04_07",
+     "fr": "« **Pourriez-vous répéter plus lentement|mu_24** ? » a demandé Julien, quand Odette a chanté la première ligne. Elle a souri. Elle a répété. Trois fois.",
+     "de": "„Könnten Sie das langsamer wiederholen?“, fragte Julien, als Odette die erste Zeile gesungen hatte. Sie lächelte. Sie wiederholte. Dreimal.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_07.mp3?v=def20974"
+    },
+    {
+     "id": "k04_08",
+     "fr": "Elle avait **une voix grave|mu_18**, un peu cassée, et un **accent|mu_07** qu'il ne connaissait pas. « Je suis née à Montmartre. Il y a longtemps. Très longtemps. »",
+     "de": "Sie hatte eine tiefe Stimme, ein wenig brüchig, und einen Akzent, den er nicht kannte. „Ich bin in Montmartre geboren. Vor langer Zeit. Sehr langer Zeit.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_08.mp3?v=6a90fb13"
+    },
+    {
+     "id": "k04_09",
+     "fr": "« Il faut bien **prononcer|mu_15** », a-t-elle dit. « Le chat entend tout. Si vous **vous trompez de mot|mu_21**, il ne se réveille pas. Si vous chantez **à tue-tête|mu_17**, il se cache. »",
+     "de": "„Man muss gut aussprechen“, sagte sie. „Die Katze hört alles. Wenn Sie ein Wort verwechseln, wacht sie nicht auf. Wenn Sie aus vollem Hals singen, versteckt sie sich.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_09.mp3?v=19db6f95"
+    },
+    {
+     "id": "k04_10",
+     "fr": "Julien a essayé. Une fois. Deux fois. À la troisième, quelque chose a changé : la phrase **sonnait bien|mu_05**. Pas parfaitement. Bien.",
+     "de": "Julien versuchte es. Einmal. Zweimal. Beim dritten Mal veränderte sich etwas: Der Satz klang gut. Nicht perfekt. Gut.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_10.mp3?v=c3abcf56"
+    },
+    {
+     "id": "k04_11",
+     "fr": "« Le français est **une langue chantante|mu_23** », a dit Odette. « Même quand on se dispute. Surtout quand on se dispute. »",
+     "de": "„Französisch ist eine melodische Sprache“, sagte Odette. „Sogar wenn man streitet. Vor allem, wenn man streitet.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_11.mp3?v=a1fd5a41"
+    },
+    {
+     "id": "k04_12",
+     "fr": "Dans le tableau, le chat a dressé une oreille. Puis l'autre. Julien a continué. Il ne savait pas **jouer d'un instrument|mu_09**, mais sa voix, ce matin, en était un.",
+     "de": "Im Bild stellte die Katze ein Ohr auf. Dann das andere. Julien sang weiter. Er konnte kein Instrument spielen, aber seine Stimme war an diesem Morgen eins.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_12.mp3?v=c925596f"
+    },
+    {
+     "id": "k04_13",
+     "fr": "Odette tapait la mesure avec ses clés. Le chat gris, par terre, ronronnait en rythme. C'était **un morceau|mu_16** pour trois voix : une gardienne, un professeur, un chat.",
+     "de": "Odette schlug mit ihren Schlüsseln den Takt. Der graue Kater auf dem Boden schnurrte im Rhythmus. Es war ein Stück für drei Stimmen: eine Wärterin, ein Lehrer, eine Katze.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_13.mp3?v=ccc38029"
+    },
+    {
+     "id": "k04_14",
+     "fr": "« **Ça me fait du bien|mu_22** », a dit Julien à la fin, surpris. « Je ne chante jamais. » « Vous devriez », a dit Odette. « Une chanson, **ça vous parle|mu_19** quand les mots ne suffisent plus. »",
+     "de": "„Das tut mir gut“, sagte Julien am Ende überrascht. „Ich singe nie.“ „Das sollten Sie“, sagte Odette. „Ein Lied spricht zu einem, wenn die Wörter nicht mehr reichen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_14.mp3?v=0084466c"
+    },
+    {
+     "id": "k04_15",
+     "fr": "Le chat du tableau s'est levé. Il s'est étiré. Puis il est sorti du cadre, lentement, comme on sort d'un bain trop chaud, et il s'est assis sur le tabouret, à côté des croquettes.",
+     "de": "Die Katze im Bild stand auf. Sie streckte sich. Dann stieg sie langsam aus dem Rahmen, wie man aus einem zu heißen Bad steigt, und setzte sich auf den Hocker neben das Trockenfutter.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_15.mp3?v=49b079d6"
+    },
+    {
+     "id": "k04_16",
+     "fr": "Julien n'a rien dit. Il **avait une chanson dans la tête|mu_11**, un chat devant lui et plus aucune explication raisonnable.",
+     "de": "Julien sagte nichts. Er hatte ein Lied im Kopf, eine Katze vor sich und keine vernünftige Erklärung mehr.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_16.mp3?v=39f95888"
+    },
+    {
+     "id": "k04_17",
+     "fr": "Il a **fredonné|mu_12** le refrain, très bas, pour se calmer. Cette fois, le chat n'a pas arrêté de ronronner.",
+     "de": "Er summte den Refrain, ganz leise, um sich zu beruhigen. Diesmal hörte die Katze nicht auf zu schnurren.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_17.mp3?v=771dbe6b"
+    },
+    {
+     "id": "k04_18",
+     "fr": "« Bien », a dit Odette. « Maintenant, je peux vous raconter l'histoire. Asseyez-vous. Elle est longue. »",
+     "de": "„Gut“, sagte Odette. „Jetzt kann ich Ihnen die Geschichte erzählen. Setzen Sie sich. Sie ist lang.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_18.mp3?v=942c9f96"
+    },
+    {
+     "id": "k04_19",
+     "fr": "À suivre.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k04_19.mp3?v=a6590cd3"
+    }
+   ]
+  },
+  {
+   "nr": 5,
+   "titel": "La légende",
+   "absaetze": [
+    {
+     "id": "k05_01",
+     "fr": "« **Il était une fois|hi_01** un peintre qui vivait à Montmartre avec un chat », a commencé Odette. Julien s'est assis par terre. Il adorait qu'on lui **raconte une histoire|hi_02**. Ses élèves aussi, d'ailleurs.",
+     "de": "„Es war einmal ein Maler, der mit einer Katze in Montmartre lebte“, begann Odette. Julien setzte sich auf den Boden. Er liebte es, wenn man ihm eine Geschichte erzählte. Seine Schüler übrigens auch.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_01.mp3?v=91f78c28"
+    },
+    {
+     "id": "k05_02",
+     "fr": "« Le peintre s'appelait Léon. Il était pauvre, il était doué, et il **avait un secret|hi_09** : son chat comprenait le français. Pas tout. Les chansons. »",
+     "de": "„Der Maler hieß Léon. Er war arm, er war begabt, und er hatte ein Geheimnis: Seine Katze verstand Französisch. Nicht alles. Die Lieder.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_02.mp3?v=f33937e1"
+    },
+    {
+     "id": "k05_03",
+     "fr": "« En 1911, quelqu'un a volé la Joconde, ici, au Louvre. Vous connaissez **la suite|hi_19** : on l'a retrouvée deux ans plus tard. Ce que personne ne sait, c'est qu'un autre tableau a **disparu|hi_18** la même nuit. Le portrait du chat de Léon. »",
+     "de": "„1911 hat jemand die Mona Lisa gestohlen, hier im Louvre. Die Fortsetzung kennen Sie: Man hat sie zwei Jahre später wiedergefunden. Was niemand weiß: In derselben Nacht ist noch ein Bild verschwunden. Das Porträt von Léons Katze.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_03.mp3?v=d83ddb77"
+    },
+    {
+     "id": "k05_04",
+     "fr": "« **Il paraît que|hi_17** le voleur était **un sorcier|hi_11**. Moi, je crois que c'était surtout un collectionneur. Mais avec un **sortilège|hi_07** ou avec de l'argent, le résultat est le même. »",
+     "de": "„Es heißt, der Dieb sei ein Zauberer gewesen. Ich glaube eher, er war ein Sammler. Aber ob mit einem Zauber oder mit Geld, das Ergebnis ist dasselbe.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_04.mp3?v=8f0ffb6b"
+    },
+    {
+     "id": "k05_05",
+     "fr": "« Léon a cherché son tableau pendant des années. Une vraie **quête|hi_03**. Il est allé jusqu'**au fond de la forêt|hi_04** de Fontainebleau, parce qu'un marchand lui avait vendu **une carte au trésor|hi_16**. Fausse, évidemment. »",
+     "de": "„Léon hat jahrelang nach seinem Bild gesucht. Eine richtige Suche. Er ist bis tief in den Wald von Fontainebleau gegangen, weil ihm ein Händler eine Schatzkarte verkauft hatte. Eine falsche, natürlich.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_05.mp3?v=0db3b5d5"
+    },
+    {
+     "id": "k05_06",
+     "fr": "Julien écoutait, **en haleine|hi_20**. Le chat gris s'était endormi sur ses genoux. Le chat du tableau, sur le tabouret, faisait semblant de ne pas écouter.",
+     "de": "Julien hörte gebannt zu. Der graue Kater war auf seinem Schoß eingeschlafen. Die Katze aus dem Bild auf dem Hocker tat so, als höre sie nicht zu.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_06.mp3?v=5ebb78da"
+    },
+    {
+     "id": "k05_07",
+     "fr": "« Et puis, **tout à coup|hi_13**, le tableau est revenu. Ici. Dans une salle qui n'existait pas. Personne ne l'a apporté. Il était là, simplement, accroché au mur. »",
+     "de": "„Und dann, plötzlich, war das Bild wieder da. Hier. In einem Saal, den es nicht gab. Niemand hat es gebracht. Es war einfach da, an der Wand.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_07.mp3?v=76b92c29"
+    },
+    {
+     "id": "k05_08",
+     "fr": "« Le chat était dedans ? » « Le chat était dedans. Il s'était **transformé en|hi_12** peinture pour rentrer à la maison. C'est ce que je crois. Léon, lui, croyait à un miracle. »",
+     "de": "„Die Katze war darin?“ „Die Katze war darin. Sie hatte sich in Farbe verwandelt, um nach Hause zu kommen. Das glaube ich. Léon glaubte an ein Wunder.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_08.mp3?v=8c9aeeef"
+    },
+    {
+     "id": "k05_09",
+     "fr": "Julien a **frissonné|hi_21**. Pas de peur. C'était l'effet que lui faisaient les bonnes histoires, et celle-là était excellente.",
+     "de": "Julien erschauerte. Nicht vor Angst. So wirkten gute Geschichten auf ihn, und diese war ausgezeichnet.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_09.mp3?v=332cadc3"
+    },
+    {
+     "id": "k05_10",
+     "fr": "« Depuis, je garde la salle 13. Je ne suis pas **une héroïne|hi_14**. Je suis une gardienne. Je nourris le chat, je chante le refrain, je ferme la porte. Cent quinze ans, c'est long, mais on s'habitue. »",
+     "de": "„Seitdem bewache ich Saal 13. Ich bin keine Heldin. Ich bin eine Wärterin. Ich füttere die Katze, ich singe den Refrain, ich schließe die Tür. Hundertfünfzehn Jahre sind lang, aber man gewöhnt sich daran.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_10.mp3?v=a593de19"
+    },
+    {
+     "id": "k05_11",
+     "fr": "« Cent quinze ans ? » a répété Julien. Odette a haussé les épaules. « Les chats, ça conserve. »",
+     "de": "„Hundertfünfzehn Jahre?“, wiederholte Julien. Odette zuckte mit den Schultern. „Katzen halten jung.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_11.mp3?v=c247ec3c"
+    },
+    {
+     "id": "k05_12",
+     "fr": "« Mais il y a **un rebondissement|hi_22** », a-t-elle continué. « Depuis un mois, quelqu'un revient. La nuit. Il cherche la salle 13. **Le méchant|hi_15** de l'histoire, peut-être. Ou son petit-fils. »",
+     "de": "„Aber es gibt eine Wendung“, fuhr sie fort. „Seit einem Monat kommt jemand wieder. Nachts. Er sucht Saal 13. Vielleicht der Bösewicht der Geschichte. Oder sein Enkel.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_12.mp3?v=8285a02f"
+    },
+    {
+     "id": "k05_13",
+     "fr": "« Et moi ? Pourquoi moi ? » a demandé Julien. « Parce que votre élève, Mehdi, a trouvé la porte au printemps, pendant une sortie scolaire. Il a vu le chat. Et il a dit : mon prof saura quoi faire. Il chante faux, mais il est patient. »",
+     "de": "„Und ich? Warum ich?“, fragte Julien. „Weil Ihr Schüler Mehdi die Tür im Frühjahr bei einem Schulausflug gefunden hat. Er hat die Katze gesehen. Und er hat gesagt: Mein Lehrer weiß, was zu tun ist. Er singt falsch, aber er ist geduldig.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_13.mp3?v=f31a5b25"
+    },
+    {
+     "id": "k05_14",
+     "fr": "Julien ne savait pas s'il devait être flatté. Il a décidé que oui.",
+     "de": "Julien wusste nicht, ob er sich geschmeichelt fühlen sollte. Er entschied sich dafür.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_14.mp3?v=01234dc8"
+    },
+    {
+     "id": "k05_15",
+     "fr": "« Dans les vieilles histoires, il y a toujours **un dragon|hi_05** et **une épée|hi_06** », a dit Julien. « Ici, on a quoi ? » « Un chat, une chanson et un professeur de Metz », a dit Odette. « C'est **un royaume|hi_10** modeste. »",
+     "de": "„In alten Geschichten gibt es immer einen Drachen und ein Schwert“, sagte Julien. „Was haben wir hier?“ „Eine Katze, ein Lied und einen Lehrer aus Metz“, sagte Odette. „Ein bescheidenes Königreich.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_15.mp3?v=6a26be78"
+    },
+    {
+     "id": "k05_16",
+     "fr": "**D'un coup|hi_08**, les lumières du couloir se sont éteintes. Le musée fermait. Dans le haut-parleur, une voix a annoncé la fermeture en quatre langues.",
+     "de": "Auf einen Schlag gingen die Lichter im Flur aus. Das Museum schloss. Aus dem Lautsprecher kündigte eine Stimme die Schließung in vier Sprachen an.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_16.mp3?v=2fb18b82"
+    },
+    {
+     "id": "k05_17",
+     "fr": "« Restez », a dit Odette. « Cette nuit, il reviendra. Et cette nuit, on connaîtra **la fin|hi_23** de l'histoire. »",
+     "de": "„Bleiben Sie“, sagte Odette. „Heute Nacht kommt er wieder. Und heute Nacht erfahren wir das Ende der Geschichte.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_17.mp3?v=49874dc4"
+    },
+    {
+     "id": "k05_18",
+     "fr": "Julien a regardé le chat gris, le tableau vide, la gardienne de cent quinze ans. Puis il a eu une pensée absurde et très professionnelle : « **Pourriez-vous me conseiller un livre|hi_24** sur le sujet ? » « Il n'existe pas encore », a dit Odette. « C'est vous qui allez l'écrire. »",
+     "de": "Julien sah den grauen Kater an, das leere Bild, die hundertfünfzehnjährige Wärterin. Dann hatte er einen absurden und sehr berufstypischen Gedanken: „Könnten Sie mir ein Buch zu dem Thema empfehlen?“ „Das gibt es noch nicht“, sagte Odette. „Sie werden es schreiben.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_18.mp3?v=878262e0"
+    },
+    {
+     "id": "k05_19",
+     "fr": "À suivre.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k05_19.mp3?v=b63ada78"
+    }
+   ]
+  },
+  {
+   "nr": 6,
+   "titel": "La nuit au musée",
+   "absaetze": [
+    {
+     "id": "k06_01",
+     "fr": "Le Louvre, la nuit, c'est très grand et très silencieux. Julien a décidé de **s'échauffer|sp_06**. Quand il est nerveux, il fait du kung-fu. C'est mieux que de manger des croissants.",
+     "de": "Nachts ist der Louvre sehr groß und sehr still. Julien beschloss, sich aufzuwärmen. Wenn er nervös ist, macht er Kung-Fu. Das ist besser, als Croissants zu essen.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_01.mp3?v=29fe93a7"
+    },
+    {
+     "id": "k06_02",
+     "fr": "Il **s'entraîne|sp_01** deux fois par semaine à Metz, avec un vieux **maître|sp_11** qui parle peu. Il a fait quelques **étirements|sp_16**, puis il a essayé de **tenir une position|sp_09** : la position du cavalier, devant un tableau de Napoléon. Napoléon n'avait pas l'air impressionné.",
+     "de": "Er trainiert zweimal pro Woche in Metz, bei einem alten Meister, der wenig redet. Er machte ein paar Dehnübungen, dann versuchte er, eine Stellung zu halten: den Reitersitz, vor einem Bild von Napoleon. Napoleon wirkte nicht beeindruckt.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_02.mp3?v=61f078b0"
+    },
+    {
+     "id": "k06_03",
+     "fr": "« Vous êtes **en forme|sp_08** », a dit Odette. « Pour un professeur. » « J'ai encore **des courbatures|sp_07** de mardi », a avoué Julien.",
+     "de": "„Sie sind in Form“, sagte Odette. „Für einen Lehrer.“ „Ich habe noch Muskelkater von Dienstag“, gab Julien zu.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_03.mp3?v=0c683180"
+    },
+    {
+     "id": "k06_04",
+     "fr": "À minuit, un bruit. Des pas, dans la Grande Galerie. Julien a **gardé son calme|sp_05**. Enfin, il a essayé. Il s'est concentré sur **la respiration|sp_10**, comme son maître le lui avait appris.",
+     "de": "Um Mitternacht ein Geräusch. Schritte in der Großen Galerie. Julien blieb ruhig. Jedenfalls versuchte er es. Er konzentrierte sich auf die Atmung, wie sein Meister es ihm beigebracht hatte.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_04.mp3?v=07832056"
+    },
+    {
+     "id": "k06_05",
+     "fr": "Une silhouette en noir est entrée dans la salle 12. Elle portait un sac et une lampe de poche. Elle cherchait le mur. Elle a trouvé Julien.",
+     "de": "Eine schwarze Gestalt betrat Saal 12. Sie trug eine Tasche und eine Taschenlampe. Sie suchte die Wand. Sie fand Julien.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_05.mp3?v=a207d755"
+    },
+    {
+     "id": "k06_06",
+     "fr": "La silhouette a donné **un coup de pied|sp_02** dans le vide, plutôt mal. Julien a **esquivé|sp_13** sans même y penser. **Le corps et l'esprit|sp_23**, disait son maître : quand l'esprit panique, le corps travaille.",
+     "de": "Die Gestalt trat ins Leere, eher ungeschickt. Julien wich aus, ohne nachzudenken. Körper und Geist, sagte sein Meister: Wenn der Geist in Panik gerät, arbeitet der Körper.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_06.mp3?v=35069baa"
+    },
+    {
+     "id": "k06_07",
+     "fr": "Puis il y a eu **un coup de poing|sp_03**, plus rapide. Julien a reculé. Il **avait de l'équilibre|sp_18**, heureusement, parce que le parquet du Louvre glisse quand on **transpire|sp_14**.",
+     "de": "Dann kam ein Faustschlag, schneller. Julien wich zurück. Zum Glück hatte er ein gutes Gleichgewicht, denn das Parkett im Louvre ist rutschig, wenn man schwitzt.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_07.mp3?v=be7e3e44"
+    },
+    {
+     "id": "k06_08",
+     "fr": "La silhouette s'est enfuie. Julien l'a suivie. Il n'était plus **allé courir|sp_19** depuis l'été. Cette nuit, il a rattrapé le retard : trois salles, deux siècles et un escalier.",
+     "de": "Die Gestalt floh. Julien folgte ihr. Seit dem Sommer war er nicht mehr laufen gegangen. In dieser Nacht holte er es nach: drei Säle, zwei Jahrhunderte und eine Treppe.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_08.mp3?v=6f21bed3"
+    },
+    {
+     "id": "k06_09",
+     "fr": "Sous la pyramide, il s'est arrêté pour **reprendre son souffle|sp_17**. La silhouette aussi. Ils se sont regardés, essoufflés, comme deux élèves à la fin d'un match.",
+     "de": "Unter der Pyramide blieb er stehen, um wieder zu Atem zu kommen. Die Gestalt auch. Sie sahen sich an, außer Atem, wie zwei Schüler am Ende eines Spiels.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_09.mp3?v=28eb3eb5"
+    },
+    {
+     "id": "k06_10",
+     "fr": "« Vous **faites des progrès|sp_21** », a dit la silhouette. Une voix jeune. Très jeune. « Mais votre **enchaînement|sp_12** est trop lent, monsieur. »",
+     "de": "„Sie machen Fortschritte“, sagte die Gestalt. Eine junge Stimme. Sehr jung. „Aber Ihre Abfolge ist zu langsam, Monsieur.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_10.mp3?v=73b7c0a7"
+    },
+    {
+     "id": "k06_11",
+     "fr": "Julien connaissait cette voix. Il l'avait entendue cent fois en classe, en général pour dire : « C'est pour quand ? »",
+     "de": "Julien kannte diese Stimme. Er hatte sie hundertmal im Unterricht gehört, meistens mit dem Satz: „Bis wann ist das?“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_11.mp3?v=149be20c"
+    },
+    {
+     "id": "k06_12",
+     "fr": "La silhouette a enlevé sa capuche. C'était Mehdi, avec une **ceinture|sp_20** noire de judo autour de son sweat et un sourire gêné.",
+     "de": "Die Gestalt nahm die Kapuze ab. Es war Mehdi, mit einem schwarzen Judogürtel um sein Sweatshirt und einem verlegenen Lächeln.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_12.mp3?v=e802083b"
+    },
+    {
+     "id": "k06_13",
+     "fr": "« Mehdi ? Tu aurais pu **te blesser|sp_15** ! Et moi aussi ! » « Désolé, monsieur. Je voulais vous tester. Il fallait que vous puissiez **vous dépasser|sp_22**. Le voleur, lui, il est vraiment rapide. »",
+     "de": "„Mehdi? Du hättest dich verletzen können! Und ich mich auch!“ „Entschuldigung, Monsieur. Ich wollte Sie testen. Sie mussten über sich hinauswachsen können. Der Dieb ist nämlich wirklich schnell.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_13.mp3?v=1324602d"
+    },
+    {
+     "id": "k06_14",
+     "fr": "« Le voleur, ce n'est pas toi ? » « Non ! Moi, je protège le chat. Avec ma grand-mère. » Il a montré Odette, qui arrivait doucement, ses clés à la main.",
+     "de": "„Der Dieb bist nicht du?“ „Nein! Ich beschütze die Katze. Mit meiner Großmutter.“ Er zeigte auf Odette, die langsam herankam, die Schlüssel in der Hand.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_14.mp3?v=5d518805"
+    },
+    {
+     "id": "k06_15",
+     "fr": "Julien a regardé Odette. Puis Mehdi. Il a compris d'où venaient l'écriture bleue, la **souplesse|sp_04** du garçon en sport et sa manie de dessiner des chats.",
+     "de": "Julien sah Odette an. Dann Mehdi. Er verstand, woher die blaue Schrift kam, die Beweglichkeit des Jungen im Sport und seine Angewohnheit, Katzen zu zeichnen.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_15.mp3?v=b01576d7"
+    },
+    {
+     "id": "k06_16",
+     "fr": "« Grand-mère ? » a-t-il dit. « Arrière-arrière-grand-mère », a corrigé Odette. « C'est compliqué. Les chats, ça conserve. »",
+     "de": "„Großmutter?“, sagte er. „Ururgroßmutter“, verbesserte Odette. „Es ist kompliziert. Katzen halten jung.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_16.mp3?v=df8ba3a7"
+    },
+    {
+     "id": "k06_17",
+     "fr": "Julien s'est assis sur une marche. Il était épuisé, trempé, ravi. « Dites-moi, madame… **Est-ce que je peux m'inscrire|sp_24** à vos cours de nuit ? » Mehdi a éclaté de rire.",
+     "de": "Julien setzte sich auf eine Stufe. Er war erschöpft, durchnässt, glücklich. „Sagen Sie, Madame … Kann ich mich für Ihre Nachtkurse anmelden?“ Mehdi platzte vor Lachen.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_17.mp3?v=de9ac737"
+    },
+    {
+     "id": "k06_18",
+     "fr": "Dehors, dans la cour, une ombre les regardait. Une vraie, cette fois.",
+     "de": "Draußen im Hof beobachtete sie ein Schatten. Diesmal ein echter.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_18.mp3?v=b9be6af0"
+    },
+    {
+     "id": "k06_19",
+     "fr": "À suivre.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k06_19.mp3?v=5dcdecad"
+    }
+   ]
+  },
+  {
+   "nr": 7,
+   "titel": "Le petit-déjeuner",
+   "absaetze": [
+    {
+     "id": "k07_01",
+     "fr": "Au matin, Julien **avait un petit creux|ma_07**. Un grand creux, en fait. On ne poursuit pas un faux voleur toute la nuit sans conséquences.",
+     "de": "Am Morgen hatte Julien ein bisschen Hunger. Großen Hunger, ehrlich gesagt. Man verfolgt nicht die ganze Nacht einen falschen Dieb, ohne dass es Folgen hat.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_01.mp3?v=9e39aa0d"
+    },
+    {
+     "id": "k07_02",
+     "fr": "Odette les a emmenés dans **une boulangerie|ma_10** de la rue de Rivoli, ouverte depuis six heures. « **Je voudrais une baguette, s'il vous plaît|ma_24** », a dit Julien. « Et trois croissants. Et un pain au chocolat. Pour le chat. »",
+     "de": "Odette nahm sie mit in eine Bäckerei in der Rue de Rivoli, die seit sechs Uhr geöffnet hatte. „Ich hätte gern ein Baguette, bitte“, sagte Julien. „Und drei Croissants. Und ein Pain au chocolat. Für die Katze.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_02.mp3?v=102bc302"
+    },
+    {
+     "id": "k07_03",
+     "fr": "La boulangère n'a pas posé de question. À Paris, on a vu pire.",
+     "de": "Die Bäckerin stellte keine Fragen. In Paris hat man Schlimmeres gesehen.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_03.mp3?v=969fc5c2"
+    },
+    {
+     "id": "k07_04",
+     "fr": "Assis à une petite table, ils **se sont régalés|ma_08**. Julien **a goûté|ma_19** le pain au chocolat du chat, pour vérifier. « **C'est délicieux|ma_20** », a-t-il conclu. Le chat n'a pas eu de pain au chocolat.",
+     "de": "An einem kleinen Tisch ließen sie es sich schmecken. Julien probierte das Pain au chocolat der Katze, zur Kontrolle. „Köstlich“, stellte er fest. Die Katze bekam kein Pain au chocolat.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_04.mp3?v=cc95cb2b"
+    },
+    {
+     "id": "k07_05",
+     "fr": "« **Bon appétit|ma_09** », a dit Odette, et elle a bu un café noir sans sucre. « Moi, je **mange équilibré|ma_01**. Une tartine, un fruit, et je **bois de l'eau|ma_11**. C'est le secret, avec les chats. »",
+     "de": "„Guten Appetit“, sagte Odette und trank einen schwarzen Kaffee ohne Zucker. „Ich esse ausgewogen. Ein Butterbrot, ein Stück Obst, und ich trinke Wasser. Das ist das Geheimnis, zusammen mit den Katzen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_05.mp3?v=e4f98e81"
+    },
+    {
+     "id": "k07_06",
+     "fr": "Mehdi, lui, **grignotait|ma_12** tout ce qui restait sur la table. « Il **a toujours soif|ma_21** et toujours faim », a soupiré Odette. « Il grandit. »",
+     "de": "Mehdi knabberte an allem, was auf dem Tisch übrig war. „Er hat immer Durst und immer Hunger“, seufzte Odette. „Er wächst.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_06.mp3?v=c06852da"
+    },
+    {
+     "id": "k07_07",
+     "fr": "Ensuite, ils sont allés **prendre l'air|ma_17** dans le jardin des Tuileries. Il faisait froid, clair, beau. Julien **avait la pêche|ma_16**. Il n'avait pas dormi, et il avait la pêche. C'était nouveau.",
+     "de": "Danach gingen sie im Jardin des Tuileries an die frische Luft. Es war kalt, klar, schön. Julien war topfit. Er hatte nicht geschlafen und war topfit. Das war neu.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_07.mp3?v=e0765836"
+    },
+    {
+     "id": "k07_08",
+     "fr": "« Cette nuit, vous allez **vous coucher tôt|ma_02** », a dit Odette. « Et **dormir comme un bébé|ma_15**. Le voleur ne vient que le dimanche soir. Demain. »",
+     "de": "„Heute Abend gehen Sie früh ins Bett“, sagte Odette. „Und schlafen wie ein Baby. Der Dieb kommt nur sonntagabends. Morgen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_08.mp3?v=4071b767"
+    },
+    {
+     "id": "k07_09",
+     "fr": "« Vous **prenez soin de vous|ma_03**, vous ? » a demandé Julien. « J'ai cent quinze ans », a-t-elle répondu. « Je ne fais que ça. »",
+     "de": "„Und Sie, achten Sie auf sich?“, fragte Julien. „Ich bin hundertfünfzehn“, antwortete sie. „Ich tue nichts anderes.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_09.mp3?v=05859731"
+    },
+    {
+     "id": "k07_10",
+     "fr": "Mehdi a sorti son téléphone. Il avait photographié une page du carnet d'Odette : **une recette|ma_18**. « La pâtée du chat de Léon. Lapin, carottes, un peu de thym. Le chat du tableau ne mange que ça. »",
+     "de": "Mehdi zog sein Handy heraus. Er hatte eine Seite aus Odettes Notizheft fotografiert: ein Rezept. „Das Nassfutter von Léons Katze. Kaninchen, Karotten, ein bisschen Thymian. Die Katze aus dem Bild frisst nur das.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_10.mp3?v=4c0def23"
+    },
+    {
+     "id": "k07_11",
+     "fr": "« Et le voleur ? » « Le voleur, il vient avec des croquettes industrielles », a dit Mehdi avec mépris. « Il ne connaît rien aux chats. »",
+     "de": "„Und der Dieb?“ „Der Dieb kommt mit Fertigfutter“, sagte Mehdi verächtlich. „Er hat keine Ahnung von Katzen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_11.mp3?v=7e146d3c"
+    },
+    {
+     "id": "k07_12",
+     "fr": "Il fallait donc **cuisiner|ma_05**. Ils sont allés **faire les courses|ma_04** au marché : un lapin, des carottes, du thym. Julien portait le panier. Il **était bien dans sa peau|ma_13**, pour la première fois depuis longtemps.",
+     "de": "Also musste gekocht werden. Sie gingen auf dem Markt einkaufen: ein Kaninchen, Karotten, Thymian. Julien trug den Korb. Er fühlte sich wohl in seiner Haut, zum ersten Mal seit Langem.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_12.mp3?v=3cd7fa98"
+    },
+    {
+     "id": "k07_13",
+     "fr": "Dans la petite cuisine de la loge d'Odette, ils ont préparé **le plat|ma_06**. Ça sentait comme chez la grand-mère de Julien. Il a eu un peu le cafard. Un bon cafard.",
+     "de": "In der kleinen Küche von Odettes Pförtnerloge bereiteten sie das Gericht zu. Es roch wie bei Juliens Großmutter. Ihm wurde ein bisschen schwer ums Herz. Auf eine gute Art.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_13.mp3?v=249ef81a"
+    },
+    {
+     "id": "k07_14",
+     "fr": "« **Faisons une pause|ma_14** », a dit Odette quand la pâtée a été prête. Elle a sorti trois chaises et une boîte de madeleines. « **Un petit plaisir|ma_23** par jour. C'est ma règle. Aujourd'hui, c'est le troisième. »",
+     "de": "„Machen wir eine Pause“, sagte Odette, als das Nassfutter fertig war. Sie holte drei Stühle und eine Dose Madeleines. „Ein kleines Vergnügen pro Tag. Das ist meine Regel. Heute ist es das dritte.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_14.mp3?v=1ed66eaa"
+    },
+    {
+     "id": "k07_15",
+     "fr": "Julien a ri. Il s'était **levé du bon pied|ma_22** dans un musée, après une nuit sans sommeil. Rien ne collait. Tout allait bien.",
+     "de": "Julien lachte. Er war in einem Museum mit dem rechten Fuß aufgestanden, nach einer schlaflosen Nacht. Nichts passte zusammen. Alles war gut.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_15.mp3?v=e49c3726"
+    },
+    {
+     "id": "k07_16",
+     "fr": "Le soir, Mehdi est rentré chez ses parents. Julien a pris une chambre dans un petit hôtel. Avant de dormir, il a appelé Aurélien.",
+     "de": "Am Abend ging Mehdi nach Hause zu seinen Eltern. Julien nahm ein Zimmer in einem kleinen Hotel. Vor dem Schlafen rief er Aurélien an.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_16.mp3?v=a5a2ed33"
+    },
+    {
+     "id": "k07_17",
+     "fr": "« Tu es où ? » « Au Louvre. Enfin, à côté. » « Tu as l'air bizarre. » « Je suis bizarre. Viens demain. Apporte un thermos de café. Et une lampe de poche. »",
+     "de": "„Wo bist du?“ „Im Louvre. Na ja, daneben.“ „Du klingst komisch.“ „Ich bin komisch. Komm morgen. Bring eine Thermoskanne Kaffee mit. Und eine Taschenlampe.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_17.mp3?v=fe9b5ed0"
+    },
+    {
+     "id": "k07_18",
+     "fr": "À suivre.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k07_18.mp3?v=5ed94708"
+    }
+   ]
+  },
+  {
+   "nr": 8,
+   "titel": "Les petits",
+   "absaetze": [
+    {
+     "id": "k08_01",
+     "fr": "Le dimanche, Mehdi est arrivé avec une poussette. Dedans, **un bébé|en_05** de dix mois qui dormait, **un doudou|en_02** en forme de chat contre la joue.",
+     "de": "Am Sonntag kam Mehdi mit einem Kinderwagen. Darin schlief ein zehn Monate altes Baby, ein Kuscheltier in Katzenform an der Wange.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_01.mp3?v=0c7dc62a"
+    },
+    {
+     "id": "k08_02",
+     "fr": "« Ma petite sœur, Lina. Mes parents sont à un mariage. La nuit, elle **fait ses nuits|en_01**, normalement. Mais l'après-midi, elle **a du mal à s'endormir|en_08**. »",
+     "de": "„Meine kleine Schwester, Lina. Meine Eltern sind auf einer Hochzeit. Nachts schläft sie normalerweise durch. Aber nachmittags schläft sie schwer ein.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_02.mp3?v=966b4035"
+    },
+    {
+     "id": "k08_03",
+     "fr": "Odette **a pris** Lina **dans ses bras|en_04**, comme on prend un objet précieux qu'on connaît depuis toujours. Lina a ouvert les yeux, a regardé la gardienne et lui **a fait un sourire|en_06**.",
+     "de": "Odette nahm Lina auf den Arm, wie man einen kostbaren Gegenstand nimmt, den man schon immer kennt. Lina öffnete die Augen, sah die Wärterin an und schenkte ihr ein Lächeln.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_03.mp3?v=ec17f085"
+    },
+    {
+     "id": "k08_04",
+     "fr": "« **Quel âge a votre enfant|en_24** ? » a demandé une touriste, qui croyait qu'Odette était la mère. « Cent quinze ans de moins que moi », a répondu Odette. La touriste a souri poliment et s'est éloignée très vite.",
+     "de": "„Wie alt ist Ihr Kind?“, fragte eine Touristin, die Odette für die Mutter hielt. „Hundertfünfzehn Jahre jünger als ich“, antwortete Odette. Die Touristin lächelte höflich und entfernte sich sehr schnell.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_04.mp3?v=663d1302"
+    },
+    {
+     "id": "k08_05",
+     "fr": "Dans la salle 13, Lina **a ri aux éclats|en_20** en voyant le chat gris. Le chat a reculé. Les bébés, c'est imprévisible. Puis il est revenu, curieux, et s'est laissé caresser l'oreille.",
+     "de": "In Saal 13 lachte Lina schallend, als sie den grauen Kater sah. Der Kater wich zurück. Babys sind unberechenbar. Dann kam er neugierig zurück und ließ sich das Ohr streicheln.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_05.mp3?v=8de1bc2a"
+    },
+    {
+     "id": "k08_06",
+     "fr": "« Elle **apprend à marcher|en_15** », a dit Mehdi. Lina a fait trois pas, est tombée sur la moquette, n'a pas **pleuré|en_13** et a recommencé. Julien a pensé à ses élèves. Il aurait aimé qu'ils fassent pareil.",
+     "de": "„Sie lernt laufen“, sagte Mehdi. Lina machte drei Schritte, fiel auf den Teppich, weinte nicht und versuchte es noch einmal. Julien dachte an seine Schüler. Er hätte sich gewünscht, dass sie es genauso machen.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_06.mp3?v=a411c424"
+    },
+    {
+     "id": "k08_07",
+     "fr": "« Et ses **premiers mots|en_17** ? » a demandé Julien. « Papa, maman et… chat », a dit Mehdi. « Dans cet ordre-là, à peu près. »",
+     "de": "„Und ihre ersten Worte?“, fragte Julien. „Papa, Mama und … Katze“, sagte Mehdi. „Ungefähr in dieser Reihenfolge.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_07.mp3?v=b5cc7fe3"
+    },
+    {
+     "id": "k08_08",
+     "fr": "À quatre heures, c'était **le goûter|en_19** : une compote pour Lina, des madeleines pour les autres. Mehdi et Julien ont **joué à cache-cache|en_11** avec elle derrière le tabouret. Elle gagnait toujours. Elle trichait.",
+     "de": "Um vier gab es die Nachmittagsjause: Apfelmus für Lina, Madeleines für die anderen. Mehdi und Julien spielten mit ihr hinter dem Hocker Verstecken. Sie gewann immer. Sie schummelte.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_08.mp3?v=9d1d5da6"
+    },
+    {
+     "id": "k08_09",
+     "fr": "Puis Lina **a fait la sieste|en_21** dans la poussette. Odette lui a fredonné le refrain de 1911. Le chat du tableau, sur son tabouret, a fermé les yeux en même temps qu'elle.",
+     "de": "Dann hielt Lina im Kinderwagen Mittagsschlaf. Odette summte ihr den Refrain von 1911. Die Katze aus dem Bild auf ihrem Hocker schloss gleichzeitig mit ihr die Augen.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_09.mp3?v=e3aa53df"
+    },
+    {
+     "id": "k08_10",
+     "fr": "« Petit, j'**avais peur du noir|en_22** », a dit Mehdi à voix basse. « Grand-mère me **racontait une histoire pour m'endormir|en_12** : toujours celle du chat de Léon. Maintenant, je la connais par cœur. »",
+     "de": "„Als ich klein war, hatte ich Angst im Dunkeln“, sagte Mehdi leise. „Großmutter hat mir zum Einschlafen eine Geschichte erzählt: immer die von Léons Katze. Jetzt kann ich sie auswendig.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_10.mp3?v=62c68125"
+    },
+    {
+     "id": "k08_11",
+     "fr": "« Et tu **étais sage|en_10** ? » a demandé Julien. « Jamais », a dit Odette. « Il **faisait des bêtises|en_03** partout. Comme le chat. C'est pour ça qu'ils s'entendent si bien. »",
+     "de": "„Und warst du brav?“, fragte Julien. „Nie“, sagte Odette. „Er hat überall Unsinn gemacht. Wie die Katze. Deshalb verstehen sie sich so gut.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_11.mp3?v=8b804f38"
+    },
+    {
+     "id": "k08_12",
+     "fr": "Julien regardait Mehdi s'occuper de sa sœur : il changeait **une couche|en_09** sans grimacer, préparait le biberon, vérifiait la température sur son poignet. Il **était fier de|en_16** lui, et il ne savait pas comment le dire.",
+     "de": "Julien sah zu, wie Mehdi sich um seine Schwester kümmerte: Er wechselte eine Windel, ohne das Gesicht zu verziehen, bereitete das Fläschchen vor, prüfte die Temperatur am Handgelenk. Julien war stolz auf ihn und wusste nicht, wie er es sagen sollte.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_12.mp3?v=a45e1463"
+    },
+    {
+     "id": "k08_13",
+     "fr": "« Il **a grandi|en_07**, hein ? » a dit Odette, qui lisait dans les pensées des professeurs. « Il faut **avoir de la patience|en_18** avec les enfants. Ils finissent toujours par vous surprendre. »",
+     "de": "„Er ist groß geworden, was?“, sagte Odette, die die Gedanken von Lehrern lesen konnte. „Mit Kindern braucht man Geduld. Am Ende überraschen sie einen immer.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_13.mp3?v=e4871d11"
+    },
+    {
+     "id": "k08_14",
+     "fr": "À sept heures, le père de Mehdi est venu chercher Lina. « **C'est l'heure du bain|en_23** », a-t-il dit à sa fille, qui a protesté dans trois langues inventées. Avant de partir, elle a fait **un câlin|en_14** au chat gris. Le chat s'est laissé faire. C'était un exploit.",
+     "de": "Um sieben holte Mehdis Vater Lina ab. „Es ist Badezeit“, sagte er zu seiner Tochter, die in drei erfundenen Sprachen protestierte. Bevor sie ging, drückte sie den grauen Kater. Der Kater ließ es sich gefallen. Das war eine Heldentat.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_14.mp3?v=37735524"
+    },
+    {
+     "id": "k08_15",
+     "fr": "Le musée s'est vidé. Aurélien est arrivé à huit heures, avec un thermos, deux lampes de poche et beaucoup de questions. Julien lui a résumé l'histoire en deux minutes. Aurélien a bu son café. Il n'a rien dit. C'était un bon collègue.",
+     "de": "Das Museum leerte sich. Aurélien kam um acht, mit einer Thermoskanne, zwei Taschenlampen und vielen Fragen. Julien fasste ihm die Geschichte in zwei Minuten zusammen. Aurélien trank seinen Kaffee. Er sagte nichts. Er war ein guter Kollege.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_15.mp3?v=b4b55ee2"
+    },
+    {
+     "id": "k08_16",
+     "fr": "À minuit, la porte de la salle 13 s'est ouverte. Un homme est entré, un sac de croquettes à la main. Julien a reconnu le journal sous son bras. C'était l'homme du train.",
+     "de": "Um Mitternacht öffnete sich die Tür von Saal 13. Ein Mann trat ein, eine Tüte Trockenfutter in der Hand. Julien erkannte die Zeitung unter seinem Arm. Es war der Mann aus dem Zug.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_16.mp3?v=aad081b3"
+    },
+    {
+     "id": "k08_17",
+     "fr": "À suivre.",
+     "de": "Fortsetzung folgt.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k08_17.mp3?v=be2f9cf7"
+    }
+   ]
+  },
+  {
+   "nr": 9,
+   "titel": "Les faux amis",
+   "absaetze": [
+    {
+     "id": "k09_01",
+     "fr": "« Ne bougez pas ! » a crié Aurélien, en braquant sa lampe de poche comme un acteur de série. L'homme du train a posé son sac par terre. « Je ne vole rien », a-t-il dit. « Je viens **assister à|fa_03** la sieste du chat. Tous les dimanches. »",
+     "de": "„Keine Bewegung!“, rief Aurélien und richtete seine Taschenlampe auf ihn wie ein Serienschauspieler. Der Mann aus dem Zug stellte seine Tüte auf den Boden. „Ich stehle nichts“, sagte er. „Ich komme, um beim Mittagsschlaf der Katze dabei zu sein. Jeden Sonntag.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_01.mp3?v=cad9f956"
+    },
+    {
+     "id": "k09_02",
+     "fr": "Il s'appelait Victor. Son arrière-grand-père était le collectionneur de 1911. « Le voleur, si vous voulez. Moi, je **demande|fa_06** pardon pour lui depuis quarante ans. À un chat. »",
+     "de": "Er hieß Victor. Sein Urgroßvater war der Sammler von 1911. „Der Dieb, wenn Sie so wollen. Ich bitte seit vierzig Jahren für ihn um Verzeihung. Bei einer Katze.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_02.mp3?v=d01c2322"
+    },
+    {
+     "id": "k09_03",
+     "fr": "Odette a croisé les bras. « Vous m'avez fait peur tout le mois, monsieur. » « Ce n'était pas mon intention. Je suis quelqu'un de **sensible|fa_08**. Je n'aime pas les disputes. Je laisse des croquettes et je repars. »",
+     "de": "Odette verschränkte die Arme. „Sie haben mir den ganzen Monat Angst gemacht, Monsieur.“ „Das war nicht meine Absicht. Ich bin ein empfindsamer Mensch. Ich mag keinen Streit. Ich lasse Futter da und gehe wieder.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_03.mp3?v=f86aa721"
+    },
+    {
+     "id": "k09_04",
+     "fr": "« Des croquettes industrielles », a dit Mehdi. « C'est **une déception|fa_15**, monsieur. » Victor a baissé la tête. « Je sais. J'**ignore|fa_17** tout des chats. J'ai lu des livres. Ça ne suffit pas. »",
+     "de": "„Fertigfutter“, sagte Mehdi. „Das ist eine Enttäuschung, Monsieur.“ Victor senkte den Kopf. „Ich weiß. Ich weiß nichts über Katzen. Ich habe Bücher gelesen. Das reicht nicht.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_04.mp3?v=2b94eecd"
+    },
+    {
+     "id": "k09_05",
+     "fr": "« Et le billet ? » a demandé Julien. « C'est moi », a dit Mehdi. « Et le message dans le train ? » « C'est moi », a dit Victor. « Mehdi m'avait parlé de vous. **Actuellement|fa_01**, vous êtes le seul professeur qu'il respecte. Il dit que vous savez **attendre|fa_04**. »",
+     "de": "„Und die Eintrittskarte?“, fragte Julien. „Das war ich“, sagte Mehdi. „Und die Botschaft im Zug?“ „Das war ich“, sagte Victor. „Mehdi hatte mir von Ihnen erzählt. Zurzeit sind Sie der einzige Lehrer, den er respektiert. Er sagt, Sie können warten.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_05.mp3?v=d710d257"
+    },
+    {
+     "id": "k09_06",
+     "fr": "« Attendre ? » « Attendre que les élèves comprennent. Sans crier. **Éventuellement|fa_09** en chantant faux. »",
+     "de": "„Warten?“ „Warten, bis die Schüler verstehen. Ohne zu schreien. Gegebenenfalls, indem Sie falsch singen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_06.mp3?v=61a921b7"
+    },
+    {
+     "id": "k09_07",
+     "fr": "Victor a sorti de sa poche un papier jauni : le reçu de 1911. « Mon arrière-grand-père a acheté le tableau à un marchand. Il ne savait pas qu'il était volé. Il l'a gardé dans **un coin|fa_10** de son salon pendant vingt ans. Puis le tableau est parti tout seul. »",
+     "de": "Victor zog ein vergilbtes Papier aus der Tasche: die Quittung von 1911. „Mein Urgroßvater hat das Bild bei einem Händler gekauft. Er wusste nicht, dass es gestohlen war. Er hat es zwanzig Jahre lang in einer Ecke seines Wohnzimmers behalten. Dann ist das Bild von allein gegangen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_07.mp3?v=fc92e09c"
+    },
+    {
+     "id": "k09_08",
+     "fr": "« Il n'a jamais voulu **blesser|fa_05** personne », a dit Victor. « Il aimait ce chat. Moi aussi. Je viens seulement le voir, comme on rend visite à un vieil ami. »",
+     "de": "„Er wollte nie jemanden verletzen“, sagte Victor. „Er hat diese Katze geliebt. Ich auch. Ich komme nur, um sie zu sehen, wie man einen alten Freund besucht.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_08.mp3?v=21af5ede"
+    },
+    {
+     "id": "k09_09",
+     "fr": "Aurélien a éteint sa lampe. « Donc, il n'y a pas de méchant ? » « Il y a un professeur fatigué, une gardienne très âgée, un élève génial et un homme seul », a dit Odette. « C'est assez pour une histoire. »",
+     "de": "Aurélien schaltete seine Lampe aus. „Es gibt also keinen Bösewicht?“ „Es gibt einen müden Lehrer, eine sehr alte Wärterin, einen genialen Schüler und einen einsamen Mann“, sagte Odette. „Das reicht für eine Geschichte.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_09.mp3?v=42ac5e49"
+    },
+    {
+     "id": "k09_10",
+     "fr": "Le chat gris s'est frotté contre la jambe de Victor. Le chat du tableau, sur le tabouret, l'a regardé longtemps. Puis il a mangé une croquette industrielle. Par politesse.",
+     "de": "Der graue Kater rieb sich an Victors Bein. Die Katze aus dem Bild auf dem Hocker sah ihn lange an. Dann fraß sie ein Bröckchen Fertigfutter. Aus Höflichkeit.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_10.mp3?v=c8cd425f"
+    },
+    {
+     "id": "k09_11",
+     "fr": "« Il vous pardonne », a dit Odette. « Ne **prétendez|fa_21** pas le contraire : il déteste ces croquettes. Pleines de conservateurs. » « De **préservatifs|fa_12** ? » a demandé Aurélien, qui pensait en anglais. Mehdi a pleuré de rire.",
+     "de": "„Sie verzeiht Ihnen“, sagte Odette. „Behaupten Sie nicht das Gegenteil: Sie hasst dieses Futter. Voller Konservierungsstoffe.“ „Voller Kondome?“, fragte Aurélien, der auf Englisch dachte. Mehdi weinte vor Lachen.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_11.mp3?v=258be6d4"
+    },
+    {
+     "id": "k09_12",
+     "fr": "Victor a souri pour la première fois. « Je travaille dans **une librairie|fa_02**, rue de Seine. Si un jour vous écrivez cette histoire, je la vendrai. » Julien a pensé à la **lecture|fa_19** du soir, à Metz, avec son chat sur les genoux. L'idée lui plaisait.",
+     "de": "Victor lächelte zum ersten Mal. „Ich arbeite in einer Buchhandlung in der Rue de Seine. Wenn Sie diese Geschichte eines Tages aufschreiben, verkaufe ich sie.“ Julien dachte an die Abendlektüre in Metz, mit seiner Katze auf dem Schoß. Die Idee gefiel ihm.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_12.mp3?v=4eb814b1"
+    },
+    {
+     "id": "k09_13",
+     "fr": "Mehdi a annoncé qu'il ferait son **stage|fa_18** de troisième à la librairie. Victor a dit oui. Odette a dit qu'il faudrait quand même passer le brevet. Tout le monde avait quelque chose à dire, et tout le monde avait raison.",
+     "de": "Mehdi verkündete, er werde sein Schülerpraktikum der neunten Klasse in der Buchhandlung machen. Victor sagte ja. Odette sagte, er müsse trotzdem die Abschlussprüfung bestehen. Jeder hatte etwas zu sagen, und jeder hatte recht.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_13.mp3?v=d9b031f4"
+    },
+    {
+     "id": "k09_14",
+     "fr": "À deux heures du matin, le chat du tableau est retourné dans le cadre. Il s'est couché, a fermé les yeux et a ronronné une dernière fois. La **journée|fa_11** était finie.",
+     "de": "Um zwei Uhr morgens kehrte die Katze in den Rahmen zurück. Sie legte sich hin, schloss die Augen und schnurrte ein letztes Mal. Der Tag war vorbei.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_14.mp3?v=0c8fc421"
+    },
+    {
+     "id": "k09_15",
+     "fr": "Le lundi, à Metz, Julien a **rendu les copies|ep_16**. Celle de Mehdi avait un post-scriptum : « Merci, monsieur. Le chat aussi dit merci. » Il avait mis treize sur vingt. Il a ajouté un point. Pour le chat.",
+     "de": "Am Montag gab Julien in Metz die Arbeiten zurück. Mehdis Arbeit hatte ein Postskriptum: „Danke, Monsieur. Die Katze sagt auch danke.“ Er hatte dreizehn von zwanzig gegeben. Er gab einen Punkt dazu. Für die Katze.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_15.mp3?v=1c51c3ed"
+    },
+    {
+     "id": "k09_16",
+     "fr": "En salle des profs, Aurélien lui a tendu un café. « Tu tiens ton **bras|fa_13** bizarrement. » « Des courbatures. Le kung-fu de nuit. » Aurélien n'a pas posé d'autre question. C'était vraiment un bon collègue.",
+     "de": "Im Lehrerzimmer reichte ihm Aurélien einen Kaffee. „Du hältst deinen Arm komisch.“ „Muskelkater. Kung-Fu bei Nacht.“ Aurélien stellte keine weitere Frage. Er war wirklich ein guter Kollege.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_16.mp3?v=049f75fe"
+    },
+    {
+     "id": "k09_17",
+     "fr": "Le soir, sur son bureau, Julien a trouvé un petit paquet. Dedans : un dessin de Mehdi, un chat gris déguisé en **médecin|fa_20** (« pour le vétérinaire », disait la légende), et une grappe de **raisin|fa_23** en pâte d'amandes, de la part d'Odette.",
+     "de": "Am Abend fand Julien auf seinem Schreibtisch ein kleines Paket. Darin: eine Zeichnung von Mehdi, ein grauer Kater als Arzt verkleidet („für den Tierarzt“, stand darunter), und eine Weintraube aus Marzipan, von Odette.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_17.mp3?v=faaac1d7"
+    },
+    {
+     "id": "k09_18",
+     "fr": "Il y avait aussi un billet. Pas pour le Louvre : un bon de **location|fa_22** de vélo, au nom de Victor, avec un message. « Pour votre prochaine visite. Prenez votre temps. »",
+     "de": "Es gab auch eine Karte. Nicht für den Louvre: einen Gutschein für einen Leihfahrrad, auf Victors Namen, mit einer Nachricht. „Für Ihren nächsten Besuch. Lassen Sie sich Zeit.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_18.mp3?v=b8799948"
+    },
+    {
+     "id": "k09_19",
+     "fr": "Julien a mis ses plus vieux **habits|fa_16**, son pull troué, et il a commandé une pizza. Il a laissé la **monnaie|fa_14** au livreur. Puis il s'est assis avec son chat et a commencé à écrire : « Julien Lefèvre était professeur à Metz… »",
+     "de": "Julien zog seine ältesten Kleider an, seinen Pullover mit Loch, und bestellte eine Pizza. Das Wechselgeld ließ er dem Lieferboten. Dann setzte er sich mit seiner Katze hin und begann zu schreiben: „Julien Lefèvre war Lehrer in Metz …“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_19.mp3?v=88b8e4d9"
+    },
+    {
+     "id": "k09_20",
+     "fr": "Son chat **est resté|fa_07** à côté de lui toute la soirée. De temps en temps, il ronronnait. Julien aurait juré que c'était en majeur.",
+     "de": "Seine Katze blieb den ganzen Abend neben ihm. Ab und zu schnurrte sie. Julien hätte schwören können, dass es in Dur war.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_20.mp3?v=97a29f5c"
+    },
+    {
+     "id": "k09_21",
+     "fr": "Quelques semaines plus tard, à Paris, une dame âgée est entrée dans une librairie de la rue de Seine. « **Excusez-moi, je cherche la bibliothèque|fa_24** », a-t-elle dit. « Ici, on vend les livres, madame », a souri Victor. « Je sais », a dit Odette. « Je voulais juste voir si vous connaissiez la différence. »",
+     "de": "Ein paar Wochen später betrat in Paris eine ältere Dame eine Buchhandlung in der Rue de Seine. „Entschuldigung, ich suche die Bibliothek“, sagte sie. „Hier verkauft man Bücher, Madame“, lächelte Victor. „Ich weiß“, sagte Odette. „Ich wollte nur sehen, ob Sie den Unterschied kennen.“",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_21.mp3?v=a19f448c"
+    },
+    {
+     "id": "k09_22",
+     "fr": "Fin.",
+     "de": "Ende.",
+     "umschrift": null,
+     "audio": "audio/fr-de/geschichte/k09_22.mp3?v=1c189300"
     }
    ]
   }
@@ -9442,9 +10474,10 @@ window.SPRACHEN["fr-de"] = {
   "titel": "Le secret du Louvre",
   "unter": "Julien Lefèvre, professeur à Metz – un billet, une salle qui n'existe pas, un chat qui sait.",
   "sammlung": [
-   "Chaque semaine parfaite débloque un chapitre : Julien Lefèvre, professeur à Metz, et le mystère du Louvre.",
-   "Jede perfekte Woche schaltet ein Kapitel frei: Julien Lefèvre, Lehrer aus Metz, und das Geheimnis des Louvre."
-  ]
+   "Chaque thème terminé débloque son chapitre : Julien Lefèvre, professeur à Metz, et le mystère du Louvre. Toutes les expressions du thème y sont.",
+   "Jedes fertige Thema schaltet sein Kapitel frei: Julien Lefèvre, Lehrer aus Metz, und das Geheimnis des Louvre. Alle Wendungen des Themas kommen darin vor."
+  ],
+  "themen": true
  },
  "lob": {
   "lob": [
@@ -11397,6 +12430,13 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/geschichte/k01_12.mp3?v=c8477eba",
   "audio/fr-de/geschichte/k01_13.mp3?v=14c03e36",
   "audio/fr-de/geschichte/k01_14.mp3?v=f13a9833",
+  "audio/fr-de/geschichte/k01_15.mp3?v=62f1df86",
+  "audio/fr-de/geschichte/k01_16.mp3?v=cca52013",
+  "audio/fr-de/geschichte/k01_17.mp3?v=231663c3",
+  "audio/fr-de/geschichte/k01_18.mp3?v=5768ad6b",
+  "audio/fr-de/geschichte/k01_19.mp3?v=8f0636ac",
+  "audio/fr-de/geschichte/k01_20.mp3?v=1825ec29",
+  "audio/fr-de/geschichte/k01_21.mp3?v=6bb62e2a",
   "audio/fr-de/geschichte/k02_01.mp3?v=953a972a",
   "audio/fr-de/geschichte/k02_02.mp3?v=bfbff8dc",
   "audio/fr-de/geschichte/k02_03.mp3?v=d13c12f4",
@@ -11412,6 +12452,16 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/geschichte/k02_13.mp3?v=7d390268",
   "audio/fr-de/geschichte/k02_14.mp3?v=27edd115",
   "audio/fr-de/geschichte/k02_15.mp3?v=090d78d9",
+  "audio/fr-de/geschichte/k02_16.mp3?v=6ea2dec7",
+  "audio/fr-de/geschichte/k02_17.mp3?v=f04b90f2",
+  "audio/fr-de/geschichte/k02_18.mp3?v=c7163467",
+  "audio/fr-de/geschichte/k02_19.mp3?v=3985b8e3",
+  "audio/fr-de/geschichte/k02_20.mp3?v=97955598",
+  "audio/fr-de/geschichte/k02_21.mp3?v=4cc25220",
+  "audio/fr-de/geschichte/k02_22.mp3?v=a216ba13",
+  "audio/fr-de/geschichte/k02_23.mp3?v=88d27b60",
+  "audio/fr-de/geschichte/k02_24.mp3?v=26d84e17",
+  "audio/fr-de/geschichte/k02_25.mp3?v=d00fb983",
   "audio/fr-de/geschichte/k03_01.mp3?v=cb597600",
   "audio/fr-de/geschichte/k03_02.mp3?v=adfbc938",
   "audio/fr-de/geschichte/k03_03.mp3?v=43a7bd70",
@@ -11427,6 +12477,130 @@ window.SPRACHEN["fr-de"] = {
   "audio/fr-de/geschichte/k03_13.mp3?v=77ba2a1d",
   "audio/fr-de/geschichte/k03_14.mp3?v=757fb777",
   "audio/fr-de/geschichte/k03_15.mp3?v=777d016b",
+  "audio/fr-de/geschichte/k03_16.mp3?v=8aa15ed9",
+  "audio/fr-de/geschichte/k03_17.mp3?v=4255fe6c",
+  "audio/fr-de/geschichte/k03_18.mp3?v=c258856a",
+  "audio/fr-de/geschichte/k03_19.mp3?v=780a9818",
+  "audio/fr-de/geschichte/k03_20.mp3?v=069e0c53",
+  "audio/fr-de/geschichte/k03_21.mp3?v=2eba95a2",
+  "audio/fr-de/geschichte/k03_22.mp3?v=3502915a",
+  "audio/fr-de/geschichte/k03_23.mp3?v=1f86b78a",
+  "audio/fr-de/geschichte/k03_24.mp3?v=2a5643e6",
+  "audio/fr-de/geschichte/k03_25.mp3?v=a6c24625",
+  "audio/fr-de/geschichte/k04_01.mp3?v=e307a4d1",
+  "audio/fr-de/geschichte/k04_02.mp3?v=ff7f1d4b",
+  "audio/fr-de/geschichte/k04_03.mp3?v=06763aea",
+  "audio/fr-de/geschichte/k04_04.mp3?v=b10a0ba9",
+  "audio/fr-de/geschichte/k04_05.mp3?v=eb1edbc4",
+  "audio/fr-de/geschichte/k04_06.mp3?v=f7bb27fd",
+  "audio/fr-de/geschichte/k04_07.mp3?v=def20974",
+  "audio/fr-de/geschichte/k04_08.mp3?v=6a90fb13",
+  "audio/fr-de/geschichte/k04_09.mp3?v=19db6f95",
+  "audio/fr-de/geschichte/k04_10.mp3?v=c3abcf56",
+  "audio/fr-de/geschichte/k04_11.mp3?v=a1fd5a41",
+  "audio/fr-de/geschichte/k04_12.mp3?v=c925596f",
+  "audio/fr-de/geschichte/k04_13.mp3?v=ccc38029",
+  "audio/fr-de/geschichte/k04_14.mp3?v=0084466c",
+  "audio/fr-de/geschichte/k04_15.mp3?v=49b079d6",
+  "audio/fr-de/geschichte/k04_16.mp3?v=39f95888",
+  "audio/fr-de/geschichte/k04_17.mp3?v=771dbe6b",
+  "audio/fr-de/geschichte/k04_18.mp3?v=942c9f96",
+  "audio/fr-de/geschichte/k04_19.mp3?v=a6590cd3",
+  "audio/fr-de/geschichte/k05_01.mp3?v=91f78c28",
+  "audio/fr-de/geschichte/k05_02.mp3?v=f33937e1",
+  "audio/fr-de/geschichte/k05_03.mp3?v=d83ddb77",
+  "audio/fr-de/geschichte/k05_04.mp3?v=8f0ffb6b",
+  "audio/fr-de/geschichte/k05_05.mp3?v=0db3b5d5",
+  "audio/fr-de/geschichte/k05_06.mp3?v=5ebb78da",
+  "audio/fr-de/geschichte/k05_07.mp3?v=76b92c29",
+  "audio/fr-de/geschichte/k05_08.mp3?v=8c9aeeef",
+  "audio/fr-de/geschichte/k05_09.mp3?v=332cadc3",
+  "audio/fr-de/geschichte/k05_10.mp3?v=a593de19",
+  "audio/fr-de/geschichte/k05_11.mp3?v=c247ec3c",
+  "audio/fr-de/geschichte/k05_12.mp3?v=8285a02f",
+  "audio/fr-de/geschichte/k05_13.mp3?v=f31a5b25",
+  "audio/fr-de/geschichte/k05_14.mp3?v=01234dc8",
+  "audio/fr-de/geschichte/k05_15.mp3?v=6a26be78",
+  "audio/fr-de/geschichte/k05_16.mp3?v=2fb18b82",
+  "audio/fr-de/geschichte/k05_17.mp3?v=49874dc4",
+  "audio/fr-de/geschichte/k05_18.mp3?v=878262e0",
+  "audio/fr-de/geschichte/k05_19.mp3?v=b63ada78",
+  "audio/fr-de/geschichte/k06_01.mp3?v=29fe93a7",
+  "audio/fr-de/geschichte/k06_02.mp3?v=61f078b0",
+  "audio/fr-de/geschichte/k06_03.mp3?v=0c683180",
+  "audio/fr-de/geschichte/k06_04.mp3?v=07832056",
+  "audio/fr-de/geschichte/k06_05.mp3?v=a207d755",
+  "audio/fr-de/geschichte/k06_06.mp3?v=35069baa",
+  "audio/fr-de/geschichte/k06_07.mp3?v=be7e3e44",
+  "audio/fr-de/geschichte/k06_08.mp3?v=6f21bed3",
+  "audio/fr-de/geschichte/k06_09.mp3?v=28eb3eb5",
+  "audio/fr-de/geschichte/k06_10.mp3?v=73b7c0a7",
+  "audio/fr-de/geschichte/k06_11.mp3?v=149be20c",
+  "audio/fr-de/geschichte/k06_12.mp3?v=e802083b",
+  "audio/fr-de/geschichte/k06_13.mp3?v=1324602d",
+  "audio/fr-de/geschichte/k06_14.mp3?v=5d518805",
+  "audio/fr-de/geschichte/k06_15.mp3?v=b01576d7",
+  "audio/fr-de/geschichte/k06_16.mp3?v=df8ba3a7",
+  "audio/fr-de/geschichte/k06_17.mp3?v=de9ac737",
+  "audio/fr-de/geschichte/k06_18.mp3?v=b9be6af0",
+  "audio/fr-de/geschichte/k06_19.mp3?v=5dcdecad",
+  "audio/fr-de/geschichte/k07_01.mp3?v=9e39aa0d",
+  "audio/fr-de/geschichte/k07_02.mp3?v=102bc302",
+  "audio/fr-de/geschichte/k07_03.mp3?v=969fc5c2",
+  "audio/fr-de/geschichte/k07_04.mp3?v=cc95cb2b",
+  "audio/fr-de/geschichte/k07_05.mp3?v=e4f98e81",
+  "audio/fr-de/geschichte/k07_06.mp3?v=c06852da",
+  "audio/fr-de/geschichte/k07_07.mp3?v=e0765836",
+  "audio/fr-de/geschichte/k07_08.mp3?v=4071b767",
+  "audio/fr-de/geschichte/k07_09.mp3?v=05859731",
+  "audio/fr-de/geschichte/k07_10.mp3?v=4c0def23",
+  "audio/fr-de/geschichte/k07_11.mp3?v=7e146d3c",
+  "audio/fr-de/geschichte/k07_12.mp3?v=3cd7fa98",
+  "audio/fr-de/geschichte/k07_13.mp3?v=249ef81a",
+  "audio/fr-de/geschichte/k07_14.mp3?v=1ed66eaa",
+  "audio/fr-de/geschichte/k07_15.mp3?v=e49c3726",
+  "audio/fr-de/geschichte/k07_16.mp3?v=a5a2ed33",
+  "audio/fr-de/geschichte/k07_17.mp3?v=fe9b5ed0",
+  "audio/fr-de/geschichte/k07_18.mp3?v=5ed94708",
+  "audio/fr-de/geschichte/k08_01.mp3?v=0c7dc62a",
+  "audio/fr-de/geschichte/k08_02.mp3?v=966b4035",
+  "audio/fr-de/geschichte/k08_03.mp3?v=ec17f085",
+  "audio/fr-de/geschichte/k08_04.mp3?v=663d1302",
+  "audio/fr-de/geschichte/k08_05.mp3?v=8de1bc2a",
+  "audio/fr-de/geschichte/k08_06.mp3?v=a411c424",
+  "audio/fr-de/geschichte/k08_07.mp3?v=b5cc7fe3",
+  "audio/fr-de/geschichte/k08_08.mp3?v=9d1d5da6",
+  "audio/fr-de/geschichte/k08_09.mp3?v=e3aa53df",
+  "audio/fr-de/geschichte/k08_10.mp3?v=62c68125",
+  "audio/fr-de/geschichte/k08_11.mp3?v=8b804f38",
+  "audio/fr-de/geschichte/k08_12.mp3?v=a45e1463",
+  "audio/fr-de/geschichte/k08_13.mp3?v=e4871d11",
+  "audio/fr-de/geschichte/k08_14.mp3?v=37735524",
+  "audio/fr-de/geschichte/k08_15.mp3?v=b4b55ee2",
+  "audio/fr-de/geschichte/k08_16.mp3?v=aad081b3",
+  "audio/fr-de/geschichte/k08_17.mp3?v=be2f9cf7",
+  "audio/fr-de/geschichte/k09_01.mp3?v=cad9f956",
+  "audio/fr-de/geschichte/k09_02.mp3?v=d01c2322",
+  "audio/fr-de/geschichte/k09_03.mp3?v=f86aa721",
+  "audio/fr-de/geschichte/k09_04.mp3?v=2b94eecd",
+  "audio/fr-de/geschichte/k09_05.mp3?v=d710d257",
+  "audio/fr-de/geschichte/k09_06.mp3?v=61a921b7",
+  "audio/fr-de/geschichte/k09_07.mp3?v=fc92e09c",
+  "audio/fr-de/geschichte/k09_08.mp3?v=21af5ede",
+  "audio/fr-de/geschichte/k09_09.mp3?v=42ac5e49",
+  "audio/fr-de/geschichte/k09_10.mp3?v=c8cd425f",
+  "audio/fr-de/geschichte/k09_11.mp3?v=258be6d4",
+  "audio/fr-de/geschichte/k09_12.mp3?v=4eb814b1",
+  "audio/fr-de/geschichte/k09_13.mp3?v=d9b031f4",
+  "audio/fr-de/geschichte/k09_14.mp3?v=0c8fc421",
+  "audio/fr-de/geschichte/k09_15.mp3?v=1c51c3ed",
+  "audio/fr-de/geschichte/k09_16.mp3?v=049f75fe",
+  "audio/fr-de/geschichte/k09_17.mp3?v=faaac1d7",
+  "audio/fr-de/geschichte/k09_18.mp3?v=b8799948",
+  "audio/fr-de/geschichte/k09_19.mp3?v=88b8e4d9",
+  "audio/fr-de/geschichte/k09_20.mp3?v=97a29f5c",
+  "audio/fr-de/geschichte/k09_21.mp3?v=a19f448c",
+  "audio/fr-de/geschichte/k09_22.mp3?v=1c189300",
   "audio/fr-de/lob/doch_tu_vois.mp3?v=6c48ce06",
   "audio/fr-de/lob/fehler_encore.mp3?v=d5b70038",
   "audio/fr-de/lob/fehler_hmm.mp3?v=68f0cc3e",

@@ -123,6 +123,7 @@ UI = {
     "powerup_zeile": ["⚡ {n} bölümün enerjisi bitiyor – şarj et!", "⚡ {n} Teile fast leer – aufladen!"],
     "powerup_eins": ["⚡ 1 bölümün enerjisi bitiyor – şarj et!", "⚡ 1 Teil fast leer – aufladen!"],
     "powerup_ok": "⚡ Şarj oldu!",
+    "kapitel_lu": "✓ Bölüm okundu",
     "neu_pro_tag": ["Günde yeni", "Neue pro Tag"],
     "wdh_pro_tag": ["Günde tekrar", "Wiederholungen pro Tag"],
     "seance_leer": "Bugün tekrar yok – konuları keşfet!",

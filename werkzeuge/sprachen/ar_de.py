@@ -179,6 +179,7 @@ UI = {
     "powerup_zeile": ["⚡ {n} أَجْزَاءٍ تَكَادُ تَفْرُغ – اِشْحَنْهَا!", "⚡ {n} Teile fast leer – aufladen!"],
     "powerup_eins": ["⚡ جُزْءٌ وَاحِدٌ يَكَادُ يَفْرُغ – اِشْحَنْه!", "⚡ 1 Teil fast leer – aufladen!"],
     "powerup_ok": "⚡ تَمَّ الشَّحْن!",
+    "kapitel_lu": "✓ قَرَأْتُ الفَصْل",
     "neu_pro_tag": ["جَدِيدٌ كُلَّ يَوْم", "Neue pro Tag"],
     "wdh_pro_tag": ["مُرَاجَعَةٌ كُلَّ يَوْم", "Wiederholungen pro Tag"],
     "seance_leer": "لا مُرَاجَعَةَ اليَوْم – اِكْتَشِفِ المَوَاضِيع!",

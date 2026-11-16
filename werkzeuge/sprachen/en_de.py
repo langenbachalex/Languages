@@ -111,6 +111,7 @@ UI = {
     "powerup_zeile": ["⚡ {n} parts running low – power up!", "⚡ {n} Teile fast leer – aufladen!"],
     "powerup_eins": ["⚡ 1 part running low – power up!", "⚡ 1 Teil fast leer – aufladen!"],
     "powerup_ok": "⚡ Powered up!",
+    "kapitel_lu": "✓ Chapter read",
     "neu_pro_tag": ["New per day", "Neue pro Tag"],
     "wdh_pro_tag": ["Reviews per day", "Wiederholungen pro Tag"],
     "seance_leer": "Nothing to revise today – explore the themes!",

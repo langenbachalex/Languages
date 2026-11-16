@@ -97,6 +97,7 @@ window.SPRACHEN["de-fr"] = {
    "⚡ 1 partie presque vide – recharge-la !"
   ],
   "powerup_ok": "⚡ Aufgeladen!",
+  "kapitel_lu": "✓ Kapitel gelesen",
   "neu_pro_tag": [
    "Neue pro Tag",
    "Nouvelles par jour"

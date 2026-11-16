@@ -96,6 +96,7 @@ window.SPRACHEN["ar-de"] = {
    "⚡ 1 Teil fast leer – aufladen!"
   ],
   "powerup_ok": "⚡ تَمَّ الشَّحْن!",
+  "kapitel_lu": "✓ قَرَأْتُ الفَصْل",
   "neu_pro_tag": [
    "جَدِيدٌ كُلَّ يَوْم",
    "Neue pro Tag"

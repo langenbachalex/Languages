@@ -43,8 +43,9 @@ DIALOGE_TITEL = ["Diálogos com o Tiago", "Dialoge mit Tiago"]
 
 GESCHICHTE = {"titel": "O segredo da Regaleira",
               "unter": "Rita Carvalho, professora em Lisboa – um bilhete, uma porta que não existe, um gato que sabe.",
-              "sammlung": ["Cada semana perfeita desbloqueia um capítulo: Rita Carvalho, professora em Lisboa, e o mistério da Regaleira.",
-                           "Jede perfekte Woche schaltet ein Kapitel frei: Rita Carvalho, Lehrerin in Lissabon, und das Geheimnis der Regaleira."]}
+              "sammlung": ["Cada tema terminado desbloqueia o seu capítulo: Rita Carvalho, professora em Lisboa, e o mistério da Regaleira. Todas as expressões do tema estão lá.",
+                           "Jedes fertige Thema schaltet sein Kapitel frei: Rita Carvalho, Lehrerin in Lissabon, und das Geheimnis der Regaleira. Alle Wendungen des Themas kommen darin vor."],
+              "themen": True}   # Kapitel n gehört zu Thema n (Mr. Alex, 16.11.)
 
 # Aussprache « Os sons nasais »: nasal gegen oral – das hörbare Herz des europäischen Portugiesisch
 TRAEGERSATZ = "Ouve bem… {wort}."   # Einzelwörter im Trägersatz, die Pause dient dem Schnitt (audio.py)
@@ -110,12 +111,15 @@ UI = {
     "powerup_zeile": ["⚡ {n} partes quase vazias – recarrega-as!", "⚡ {n} Teile fast leer – aufladen!"],
     "powerup_eins": ["⚡ 1 parte quase vazia – recarrega-a!", "⚡ 1 Teil fast leer – aufladen!"],
     "powerup_ok": "⚡ Recarregado!",
+    "kapitel_lu": "✓ Capítulo lido",
     "neu_pro_tag": ["Novas por dia", "Neue pro Tag"],
     "wdh_pro_tag": ["Revisões por dia", "Wiederholungen pro Tag"],
     "seance_leer": "Nada para rever hoje – explora os temas!",
     "themen": ["Os temas", "Die Themen"], "expressions": "expressões", "parties": "partes",
     "bonus": ["Pronúncia e história", "Aussprache und Geschichte"],
-    "kapitel_zahl": "{frei} / {alle} capítulos · um novo por semana perfeita",
+    "kapitel_zahl": "{frei} / {alle} capítulos · um novo por cada tema terminado",
+    "kapitel_thema": ["O capítulo {n} abre quando terminares o tema « {thema} ».", "Kapitel {n} öffnet sich, wenn du das Thema „{thema}“ fertig hast."],
+    "kapitel_neu": ["Um novo capítulo da história espera por ti: « {titel} ».", "Ein neues Kapitel der Geschichte wartet: „{titel}“."],
     "stand": ["{n} expressões na tua caixa · {fest} bem assentes · {orte} / {alle} lugares visitados",
               "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"],
     "accueil": "Início", "zurueck_accueil": "← Início", "zurueck_thema": "← Tema", "suivant": "Seguinte ➜", "retour": "◀ Voltar",

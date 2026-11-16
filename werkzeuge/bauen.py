@@ -154,7 +154,7 @@ def daten_fuer(P):
         for k in geschichte + anekdoten:
             for a in k["absaetze"]:
                 if a["id"] == qid:
-                    return {"fr": a["fr"].replace("**", ""), "de": a["de"], "gloss": None, "umschrift": a["umschrift"], "audio": a["audio"]}
+                    return {"fr": re.sub(r"\*\*([^*|]+)(?:\|[^*]+)?\*\*", r"\1", a["fr"]), "de": a["de"], "gloss": None, "umschrift": a["umschrift"], "audio": a["audio"]}
         raise KeyError(f"{paar} Grammatik: Satz {qid} unbekannt")
     grammatik = []
     gdatei = getattr(P, "GRAMMATIK_DATEI", "dilbilgisi.tsv")

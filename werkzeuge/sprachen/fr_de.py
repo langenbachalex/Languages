@@ -45,8 +45,9 @@ DIALOGE_TITEL = ["Dialogues avec Aurélien", "Dialoge mit Aurélien"]
 # Geschichte « Le secret du Louvre »
 GESCHICHTE = {"titel": "Le secret du Louvre",
               "unter": "Julien Lefèvre, professeur à Metz – un billet, une salle qui n'existe pas, un chat qui sait.",
-              "sammlung": ["Chaque semaine parfaite débloque un chapitre : Julien Lefèvre, professeur à Metz, et le mystère du Louvre.",
-                           "Jede perfekte Woche schaltet ein Kapitel frei: Julien Lefèvre, Lehrer aus Metz, und das Geheimnis des Louvre."]}
+              "sammlung": ["Chaque thème terminé débloque son chapitre : Julien Lefèvre, professeur à Metz, et le mystère du Louvre. Toutes les expressions du thème y sont.",
+                           "Jedes fertige Thema schaltet sein Kapitel frei: Julien Lefèvre, Lehrer aus Metz, und das Geheimnis des Louvre. Alle Wendungen des Themas kommen darin vor."],
+              "themen": True}   # Kapitel n gehört zu Thema n (Mr. Alex, 16.11.)
 
 # Aussprache: les nasales – Laute (Schild, Schreibweisen, Tipp Ziel, Tipp Hilfe), Minimalpaar-Gruppen
 # Einzelwörter des Aussprache-Moduls werden in diesem Satz gesprochen und danach geschnitten (audio.py)
@@ -117,12 +118,15 @@ UI = {
     "powerup_zeile": ["⚡ {n} parties presque vides – recharge-les !", "⚡ {n} Teile fast leer – aufladen!"],
     "powerup_eins": ["⚡ 1 partie presque vide – recharge-la !", "⚡ 1 Teil fast leer – aufladen!"],
     "powerup_ok": "⚡ Rechargé !",
+    "kapitel_thema": ["Le chapitre {n} s'ouvre quand tu as terminé le thème « {thema} ».", "Kapitel {n} öffnet sich, wenn du das Thema „{thema}“ fertig hast."],
+    "kapitel_neu": ["Un nouveau chapitre de l'histoire t'attend : « {titel} ».", "Ein neues Kapitel der Geschichte wartet: „{titel}“."],
+    "kapitel_lu": "✓ Chapitre lu",
     "neu_pro_tag": ["Nouvelles par jour", "Neue pro Tag"],
     "wdh_pro_tag": ["Révisions par jour", "Wiederholungen pro Tag"],
     "seance_leer": "Rien à réviser aujourd'hui – explore les thèmes !",
     "themen": ["Les thèmes", "Die Themen"], "expressions": "expressions", "parties": "parties",
     "bonus": ["Prononciation et histoire", "Aussprache und Geschichte"],
-    "kapitel_zahl": "{frei} / {alle} chapitres · un nouveau par semaine parfaite",
+    "kapitel_zahl": "{frei} / {alle} chapitres · un nouveau par thème terminé",
     "stand": ["{n} expressions dans ta boîte · {fest} bien ancrées · {orte} / {alle} lieux visités",
               "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"],
     "accueil": "Accueil", "zurueck_accueil": "← Accueil", "zurueck_thema": "← Thème", "suivant": "Suivant ➜", "retour": "◀ Retour",

@@ -42,8 +42,9 @@ DIALOGE_TITEL = ["Diálogos con Diego", "Dialoge mit Diego"]
 
 GESCHICHTE = {"titel": "El secreto del Alcázar",
               "unter": "Marta Ruiz, profesora en Sevilla – una entrada, una puerta que no existe, un gato que sabe.",
-              "sammlung": ["Cada semana perfecta desbloquea un capítulo: Marta Ruiz, profesora en Sevilla, y el misterio del Alcázar.",
-                           "Jede perfekte Woche schaltet ein Kapitel frei: Marta Ruiz, Lehrerin in Sevilla, und das Geheimnis des Alcázar."]}
+              "sammlung": ["Cada tema terminado desbloquea su capítulo: Marta Ruiz, profesora en Sevilla, y el misterio del Alcázar. Todas las expresiones del tema aparecen en él.",
+                           "Jedes fertige Thema schaltet sein Kapitel frei: Marta Ruiz, Lehrerin in Sevilla, und das Geheimnis des Alcázar. Alle Wendungen des Themas kommen darin vor."],
+              "themen": True}   # Kapitel n gehört zu Thema n (Mr. Alex, 16.11.)
 
 # Aussprache « Los sonidos difíciles » – Daten kommen später (sonidos.tsv vorerst leer)
 # Einzelwörter des Aussprache-Moduls werden in diesem Satz gesprochen und danach geschnitten (audio.py)
@@ -111,12 +112,15 @@ UI = {
     "powerup_zeile": ["⚡ {n} partes casi vacías – ¡recárgalas!", "⚡ {n} Teile fast leer – aufladen!"],
     "powerup_eins": ["⚡ 1 parte casi vacía – ¡recárgala!", "⚡ 1 Teil fast leer – aufladen!"],
     "powerup_ok": "⚡ ¡Recargado!",
+    "kapitel_lu": "✓ Capítulo leído",
     "neu_pro_tag": ["Nuevas al día", "Neue pro Tag"],
     "wdh_pro_tag": ["Repasos al día", "Wiederholungen pro Tag"],
     "seance_leer": "Nada que repasar hoy – ¡explora los temas!",
     "themen": ["Los temas", "Die Themen"], "expressions": "expresiones", "parties": "partes",
     "bonus": ["Pronunciación e historia", "Aussprache und Geschichte"],
-    "kapitel_zahl": "{frei} / {alle} capítulos · uno nuevo por semana perfecta",
+    "kapitel_zahl": "{frei} / {alle} capítulos · uno nuevo por cada tema terminado",
+    "kapitel_thema": ["El capítulo {n} se abre cuando terminas el tema « {thema} ».", "Kapitel {n} öffnet sich, wenn du das Thema „{thema}“ fertig hast."],
+    "kapitel_neu": ["Un nuevo capítulo de la historia te espera: « {titel} ».", "Ein neues Kapitel der Geschichte wartet: „{titel}“."],
     "stand": ["{n} expresiones en tu caja · {fest} bien asentadas · {orte} / {alle} lugares visitados",
               "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"],
     "accueil": "Inicio", "zurueck_accueil": "← Inicio", "zurueck_thema": "← Tema", "suivant": "Siguiente ➜", "retour": "◀ Atrás",

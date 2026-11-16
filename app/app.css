@@ -66,6 +66,7 @@
 .powerup-zeile p { margin: 0; font-weight: 700; }
 .ipa { margin: 2px 0 0; font: 400 1rem/1.4 "Charis SIL", "Doulos SIL", "Gentium Plus", "Noto Sans", "DejaVu Sans", sans-serif; color: var(--leise); letter-spacing: .01em; }
 .ipa.klein { font-size: .9rem; }
+.wendung-link { cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px; }
 .gym-hinweis { color: var(--rot); font-weight: 700; }
 .tricky-hilfe { opacity: .85; }
 .tricky-liste { margin: 8px 0 0; padding-left: 1.2em; display: grid; gap: 4px; }

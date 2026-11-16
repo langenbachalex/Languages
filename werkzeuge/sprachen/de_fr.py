@@ -118,6 +118,7 @@ UI = {
     "powerup_zeile": ["⚡ {n} Teile fast leer – aufladen!", "⚡ {n} parties presque vides – recharge-les !"],
     "powerup_eins": ["⚡ 1 Teil fast leer – aufladen!", "⚡ 1 partie presque vide – recharge-la !"],
     "powerup_ok": "⚡ Aufgeladen!",
+    "kapitel_lu": "✓ Kapitel gelesen",
     "neu_pro_tag": ["Neue pro Tag", "Nouvelles par jour"],
     "wdh_pro_tag": ["Wiederholungen pro Tag", "Révisions par jour"],
     "seance_leer": "Rien à réviser aujourd'hui – explore les thèmes !",

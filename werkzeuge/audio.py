@@ -3,7 +3,7 @@ Vorhandene Dateien bleiben erhalten (eigene Aufnahmen auch).
 Aufruf:  python3 werkzeuge/audio.py --zaehlen          (nur Zeichen zählen, keine Credits)
          python3 werkzeuge/audio.py [paar]             (erzeugen, danach bauen.py)
 """
-import json, os, sys, urllib.request, urllib.error
+import json, os, re, sys, urllib.request, urllib.error
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bauen
@@ -48,10 +48,10 @@ def auftraege(P):
         liste.append((f"audio/{paar}/huruf/{z['id']}.mp3", s(z["name"]), "w" + n))
         liste.append((f"audio/{paar}/huruf/{z['id']}_w.mp3", s(z["beispiel"]), "w" + n))
     for z in bauen.tsv(inhalte, "geschichte.tsv"):
-        liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(z["fr"].replace("**", "")), n))
+        liste.append((f"audio/{paar}/geschichte/k{int(z['kapitel']):02d}_{int(z['nr']):02d}.mp3", s(re.sub(r"\*\*([^*|]+)(?:\|[^*]+)?\*\*", r"\1", z["fr"])), n))
     AN = getattr(P, "ANEKDOTEN", None)
     for z in (bauen.tsv(inhalte, AN["datei"]) if AN else []):
-        liste.append((f"audio/{paar}/anekdoten/a{int(z['nr']):02d}_{int(z['satz']):02d}.mp3", s(z["fr"].replace("**", "")), n))
+        liste.append((f"audio/{paar}/anekdoten/a{int(z['nr']):02d}_{int(z['satz']):02d}.mp3", s(re.sub(r"\*\*([^*|]+)(?:\|[^*]+)?\*\*", r"\1", z["fr"])), n))
         if (z.get("syrisch") or "").strip():
             liste.append((f"audio/{paar}/anekdoten/a{int(z['nr']):02d}_{int(z['satz']):02d}_s.mp3", z["syrisch"], "s"))
     for z in bauen.tsv(inhalte, "orte.tsv"):

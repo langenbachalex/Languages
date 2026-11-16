@@ -96,6 +96,7 @@ window.SPRACHEN["tr-de"] = {
    "⚡ 1 Teil fast leer – aufladen!"
   ],
   "powerup_ok": "⚡ Şarj oldu!",
+  "kapitel_lu": "✓ Bölüm okundu",
   "neu_pro_tag": [
    "Günde yeni",
    "Neue pro Tag"

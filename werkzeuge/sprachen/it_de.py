@@ -42,8 +42,9 @@ DIALOGE_TITEL = ["Dialoghi con Giovanni", "Dialoge mit Giovanni"]
 
 GESCHICHTE = {"titel": "Il segreto della Torre",
               "unter": "Chiara Rossi, professoressa a Bologna – un biglietto, una porta che non esiste, un gatto che sa.",
-              "sammlung": ["Ogni settimana perfetta sblocca un capitolo: Chiara Rossi, professoressa a Bologna, e il mistero della Torre.",
-                           "Jede perfekte Woche schaltet ein Kapitel frei: Chiara Rossi, Lehrerin in Bologna, und das Geheimnis des Turms."]}
+              "sammlung": ["Ogni tema finito sblocca il suo capitolo: Chiara Rossi, professoressa a Bologna, e il mistero della Torre. Tutte le espressioni del tema ci sono dentro.",
+                           "Jedes fertige Thema schaltet sein Kapitel frei: Chiara Rossi, Lehrerin in Bologna, und das Geheimnis des Turms. Alle Wendungen des Themas kommen darin vor."],
+              "themen": True}   # Kapitel n gehört zu Thema n (Mr. Alex, 16.11.)
 
 TRAEGERSATZ = "Ascolta bene… {wort}."   # Einzelwörter/Wendungen im Trägersatz, Auslassungspunkte erzeugen die Pause für den Schnitt
 AUSSPRACHE = None   # später, optional: « Le doppie »
@@ -93,12 +94,15 @@ UI = {
     "powerup_zeile": ["⚡ {n} parti quasi scariche – ricaricale!", "⚡ {n} Teile fast leer – aufladen!"],
     "powerup_eins": ["⚡ 1 parte quasi scarica – ricaricala!", "⚡ 1 Teil fast leer – aufladen!"],
     "powerup_ok": "⚡ Ricaricato!",
+    "kapitel_lu": "✓ Capitolo letto",
     "neu_pro_tag": ["Nuove al giorno", "Neue pro Tag"],
     "wdh_pro_tag": ["Ripassi al giorno", "Wiederholungen pro Tag"],
     "seance_leer": "Niente da ripassare oggi – esplora i temi!",
     "themen": ["I temi", "Die Themen"], "expressions": "espressioni", "parties": "parti",
     "bonus": ["Pronuncia e storia", "Aussprache und Geschichte"],
-    "kapitel_zahl": "{frei} / {alle} capitoli · uno nuovo per ogni settimana perfetta",
+    "kapitel_zahl": "{frei} / {alle} capitoli · uno nuovo per ogni tema finito",
+    "kapitel_thema": ["Il capitolo {n} si apre quando finisci il tema « {thema} ».", "Kapitel {n} öffnet sich, wenn du das Thema „{thema}“ fertig hast."],
+    "kapitel_neu": ["Un nuovo capitolo della storia ti aspetta: « {titel} ».", "Ein neues Kapitel der Geschichte wartet: „{titel}“."],
     "stand": ["{n} espressioni nella tua scatola · {fest} ben radicate · {orte} / {alle} luoghi visitati",
               "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"],
     "accueil": "Home", "zurueck_accueil": "← Home", "zurueck_thema": "← Tema", "suivant": "Avanti ➜", "retour": "◀ Indietro",

@@ -97,6 +97,7 @@ window.SPRACHEN["es-de"] = {
    "⚡ 1 Teil fast leer – aufladen!"
   ],
   "powerup_ok": "⚡ ¡Recargado!",
+  "kapitel_lu": "✓ Capítulo leído",
   "neu_pro_tag": [
    "Nuevas al día",
    "Neue pro Tag"
@@ -116,7 +117,15 @@ window.SPRACHEN["es-de"] = {
    "Pronunciación e historia",
    "Aussprache und Geschichte"
   ],
-  "kapitel_zahl": "{frei} / {alle} capítulos · uno nuevo por semana perfecta",
+  "kapitel_zahl": "{frei} / {alle} capítulos · uno nuevo por cada tema terminado",
+  "kapitel_thema": [
+   "El capítulo {n} se abre cuando terminas el tema « {thema} ».",
+   "Kapitel {n} öffnet sich, wenn du das Thema „{thema}“ fertig hast."
+  ],
+  "kapitel_neu": [
+   "Un nuevo capítulo de la historia te espera: « {titel} ».",
+   "Ein neues Kapitel der Geschichte wartet: „{titel}“."
+  ],
   "stand": [
    "{n} expresiones en tu caja · {fest} bien asentadas · {orte} / {alle} lugares visitados",
    "{n} Wendungen in deinem Kasten · {fest} fest verankert (ab Stufe 3) · {orte} / {alle} Orte besucht"
@@ -8607,9 +8616,10 @@ window.SPRACHEN["es-de"] = {
   "titel": "El secreto del Alcázar",
   "unter": "Marta Ruiz, profesora en Sevilla – una entrada, una puerta que no existe, un gato que sabe.",
   "sammlung": [
-   "Cada semana perfecta desbloquea un capítulo: Marta Ruiz, profesora en Sevilla, y el misterio del Alcázar.",
-   "Jede perfekte Woche schaltet ein Kapitel frei: Marta Ruiz, Lehrerin in Sevilla, und das Geheimnis des Alcázar."
-  ]
+   "Cada tema terminado desbloquea su capítulo: Marta Ruiz, profesora en Sevilla, y el misterio del Alcázar. Todas las expresiones del tema aparecen en él.",
+   "Jedes fertige Thema schaltet sein Kapitel frei: Marta Ruiz, Lehrerin in Sevilla, und das Geheimnis des Alcázar. Alle Wendungen des Themas kommen darin vor."
+  ],
+  "themen": true
  },
  "lob": {
   "lob": [

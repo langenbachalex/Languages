@@ -385,7 +385,7 @@
       D.grammatik && D.grammatik.length && el("nav", { class: "kacheln themen", "aria-label": U.grammatik[0] }, D.grammatik.map(grammatikKachel)),
       el("h2", {}, uf("bonus")),
       el("nav", { class: "kacheln themen", "aria-label": U.bonus[0] },
-        D.geschichte.length ? el("button", { class: "kachel", onclick: () => zeigeKapitel(kapitelFrei()), "aria-label": D.geschichte_info.titel },
+        D.geschichte.length ? el("button", { class: kachelKlasse(false, "kapitel:"), onclick: () => zeigeKapitel(letztesKapitel()), "aria-label": D.geschichte_info.titel },
           el("span", { class: "sym", "aria-hidden": "true" }, "📖"),
           el("span", { class: "titel", lang: D.lang }, D.geschichte_info.titel),
           el("span", { class: "unter", lang: D.lang }, D.geschichte_info.unter),
@@ -451,7 +451,7 @@
       .map((x) => ({ w: w.id, t: x.replace(/[?!¿¡.。]/g, "").trim() }))).filter((k) => k.t.length >= 4);
     const zeilen = [
       ...D.dialoge.flatMap((d) => d.zeilen.map((z) => ({ id: "s:" + z.id, fr: z.fr, de: z.de, audio: z.audio, umschrift: z.umschrift, bereich: "dialog:" + d.id }))),
-      ...D.geschichte.flatMap((k) => k.absaetze.map((a) => ({ id: "s:" + a.id, fr: a.fr.replace(/\*\*/g, ""), de: a.de, audio: a.audio, umschrift: a.umschrift, kapitel: k.nr }))),
+      ...D.geschichte.flatMap((k) => k.absaetze.map((a) => ({ id: "s:" + a.id, fr: ohneMarken(a.fr), de: a.de, audio: a.audio, umschrift: a.umschrift, kapitel: k.nr }))),
       ...(D.anekdoten || []).flatMap((k) => k.absaetze.map((a) => ({ id: "s:" + a.id, fr: a.fr, de: a.de, audio: a.audio, umschrift: a.umschrift, anekdote: k.nr }))),
       ...D.wendungen.flatMap((w) => [{ id: "s:w." + w.id, fr: w.satz.fr, de: w.satz.de, audio: w.satz.audio, umschrift: w.satz.umschrift, ipa: w.satz.ipa, von: w.id },
         ...(w.zeit ? ["pc", "fp"].map((z) => ({ id: `s:${z}.${w.id}`, fr: w.zeit[z].fr, de: null, audio: w.zeit[z].audio, umschrift: w.zeit[z].umschrift, von: w.id, zeitVon: z })) : [])]),
@@ -475,7 +475,7 @@
   }
   const satzVonId = (id) => satzListe().find((x) => x.id === id);
   function satzFrei(x) {
-    if (x.kapitel && x.kapitel > kapitelFrei()) return false;   // keine Kapitel vorwegnehmen
+    if (x.kapitel && !kapitelOffen(x.kapitel)) return false;   // keine Kapitel vorwegnehmen
     if (x.anekdote && x.anekdote > anekdotenFrei()) return false;
     if (S.karten[x.item]) return true;
     if (x.bereich) return Object.keys(S.teile).some((k) => k.startsWith(x.bereich + "|"));
@@ -896,6 +896,7 @@
   function oeffneTeil(key) {
     const [vorn, g] = key.split("|");
     if (vorn.startsWith("dialog:")) return starteDialog(vorn.slice(7));
+    if (vorn.startsWith("kapitel:")) return zeigeKapitel(+vorn.slice(8));
     if (vorn.startsWith("harf:")) return starteSchrift(vorn.slice(5));
     if (vorn.startsWith("gram:")) return starteGrammatik(vorn.slice(5));
     const M = ausspracheModule().find((m) => m.id === vorn);
@@ -998,13 +999,33 @@
 
   /* ---------- Geschichte ----------
      Kapitel 1 ist frei, jede perfekte Woche schaltet das nächste frei. Absätze hören (alle oder einzeln), antippen = Hilfssprache. */
-  const kapitelFrei = () => Math.min(D.geschichte.length, 1 + stand.serie.wochen.length);
-  const fett = (text) => text.split(/(\*\*[^*]+\*\*)/).map((t) => (t.startsWith("**") ? el("strong", { class: "ziel" }, t.slice(2, -2)) : t));
-  const tonAbsatz = (a) => a.audio || { text: a.fr.replace(/\*\*/g, "") };
+  /* Kapitel der Geschichte (Mr. Alex, 16.11.): mit GESCHICHTE["themen"] gehört Kapitel n zu Thema n und öffnet sich, sobald das Thema fertig ist;
+     was vorher (je perfekte Woche) schon offen war, bleibt offen (S.kapitel_alt). Ohne „themen“: wie bisher eine perfekte Woche je Kapitel. */
+  const kapitelNachThema = () => !!(D.geschichte_info && D.geschichte_info.themen);
+  const themaZuKapitel = (nr) => D.themen[nr - 1];
+  const themaFertig = (t) => !!t && gruppenVon(t).every((_, i) => gruppeFertig(t.id, i));
+  function kapitelOffen(nr) {
+    if (nr < 1 || nr > D.geschichte.length) return false;
+    if (!kapitelNachThema()) return nr <= 1 + stand.serie.wochen.length;
+    if (S.kapitel_alt === undefined) { S.kapitel_alt = Math.min(D.geschichte.length, 1 + stand.serie.wochen.length); speichern(); }
+    return nr <= S.kapitel_alt || themaFertig(themaZuKapitel(nr));
+  }
+  const kapitelFrei = () => D.geschichte.filter((k) => kapitelOffen(k.nr)).length;
+  const letztesKapitel = () => (D.geschichte.filter((k) => kapitelOffen(k.nr)).pop() || D.geschichte[0] || {}).nr || 1;
+  // Wendungen im Text: **Text** fett, **Text|ep_01** fett und antippbar (zeigt die Wendung mit Übersetzung)
+  const ohneMarken = (t) => t.replace(/\*\*([^*|]+)(?:\|[^*]+)?\*\*/g, "$1");
+  const fett = (text) => text.split(/(\*\*[^*]+\*\*)/).map((t) => {
+    if (!t.startsWith("**")) return t;
+    const [wort, id] = t.slice(2, -2).split("|"), w = id && WENDUNG[id];
+    return w ? el("strong", { class: "ziel wendung-link", role: "button", tabindex: "0", title: `${w.fr} – ${w.de}`,
+      onclick: (e) => { e.stopPropagation(); toast(el("span", {}, el("strong", { lang: D.lang }, w.fr), " – ", el("span", { lang: D.lang_hilfe }, w.de)), 3500); spiele([ton(w)]); } }, wort)
+      : el("strong", { class: "ziel" }, wort);
+  });
+  const tonAbsatz = (a) => a.audio || { text: ohneMarken(a.fr) };
   // Anekdoten (Nasreddin Hoca, Dschuha): wie Kapitel, aber frei je fertigem Thema (Mr. Alex, 18.10.)
   const themenFertig = () => D.themen.filter((t) => gruppenVon(t).every((_, i) => gruppeFertig(t.id, i))).length;
   const anekdotenFrei = () => Math.min((D.anekdoten || []).length, 1 + themenFertig());
-  const GESCH = { liste: () => D.geschichte, frei: kapitelFrei, symbol: "📖", label: (n) => f(U.chapitre, { n }), zeigen: (n) => zeigeKapitel(n),
+  const GESCH = { liste: () => D.geschichte, frei: kapitelFrei, offen: kapitelOffen, symbol: "📖", label: (n) => f(U.chapitre, { n }), zeigen: (n) => zeigeKapitel(n), punkte: true,
     weiter: "kapitel_weiter", naechste: "kapitel_naechste", ende: "kapitel_ende", ansage: "kapitel_ansage" };
   const ANEK = { liste: () => D.anekdoten || [], frei: anekdotenFrei, symbol: "🧓", label: (n) => f(U.anekdote || "{n}", { n }), zeigen: (n) => zeigeAnekdote(n),
     weiter: "kapitel_weiter", naechste: "anekdote_naechste", ende: "anekdote_ende", ansage: "kapitel_ansage" };
@@ -1012,8 +1033,9 @@
   function zeigeKapitel(nr) { zeigeText(GESCH, nr); }
   function zeigeText(Q, nr) {
     const k = Q.liste()[nr - 1], frei = Q.frei(), alle = Q.liste().length;
+    const offen = Q.offen || ((n) => n <= frei);
     lage = null; seance = null; ansicht = () => Q.zeigen(nr);
-    if (!k || nr > frei) return sammlung();
+    if (!k || !offen(nr)) return sammlung();
     const absaetze = k.absaetze.map((a) => {
       const de = el("p", { class: "absatz-de", lang: D.lang_hilfe, hidden: !stand.de }, a.de);
       return el("div", { class: "absatz", role: "button", tabindex: "0", onclick: () => { de.hidden = !de.hidden; },
@@ -1029,18 +1051,39 @@
       absaetze.forEach((x) => x.classList.remove("spricht"));
     }
     const kapitelLeiste = el("div", { class: "knopfreihe" }, Q.liste().map((x) =>
-      el("button", { class: "sprung" + (x.nr === nr ? " jetzt" : "") + (x.nr <= frei ? "" : " zu"), disabled: x.nr > frei,
-        onclick: () => Q.zeigen(x.nr), "aria-current": x.nr === nr ? "page" : false }, x.nr <= frei ? `${x.nr}` : `${x.nr} 🔒`)));
-    tasten(() => vorlesen(k.absaetze), nr < frei ? () => Q.zeigen(nr + 1) : null);
+      el("button", { class: "sprung" + (x.nr === nr ? " jetzt" : "") + (offen(x.nr) ? "" : " zu") + (Q.punkte && teilFaellig(`kapitel:${x.nr}|0|0`) ? " powerup" : Q.punkte && S.teile[`kapitel:${x.nr}|0|0`] ? " fertig" : ""),
+        disabled: !offen(x.nr), onclick: () => Q.zeigen(x.nr), "aria-current": x.nr === nr ? "page" : false }, offen(x.nr) ? `${x.nr}` : `${x.nr} 🔒`)));
+    const naechstes = Q.liste().find((x) => x.nr > nr && offen(x.nr));
+    tasten(() => vorlesen(k.absaetze), naechstes ? () => Q.zeigen(naechstes.nr) : null);
+    // Kapitel gelesen: Punkte (20 beim ersten Mal, 5 bei Wiederholung, einmal am Tag je Kapitel), Übungstag, Power Up; erst nach einer Mindestzeit
+    let gelesen = null;
+    if (Q.punkte && U.kapitel_lu) {
+      const key = `kapitel:${nr}|0|0`, woerter = k.absaetze.reduce((n, a) => n + ohneMarken(a.fr).split(/\s+/).length, 0);
+      const heuteIso = iso(heute()), schonHeute = (S.kapitel_tag || {})[nr] === heuteIso;
+      gelesen = sperre(knopf(schonHeute ? U.kapitel_lu + " ✓" : U.kapitel_lu, () => {
+        const erstesMal = !S.teile[key];
+        const r = LK.teilErledigt(S.teile[key], heuteIso);
+        S.teile[key] = r.eintrag;
+        if (r.aufgeladen && U.powerup_ok) toast(U.powerup_ok);
+        if (!schonHeute || erstesMal) {
+          S.kapitel_tag = S.kapitel_tag || {}; S.kapitel_tag[nr] = heuteIso;
+          belohne(erstesMal, false, erstesMal ? 20 : 5);
+        }
+        speichern(); zeigeText(Q, nr);
+      }, "haupt"));
+      if (!schonHeute) gibFrei(gelesen, Math.max(20, woerter * 0.2) * LK.tempo(S.teile[key]), false); else gelesen.disabled = true;
+    }
     zeige(
       el("header", { class: "kopf" }, knopf(U.zurueck_accueil, startseite, "leise"), el("h1", { lang: D.lang }, `${Q.symbol} ${Q.label(k.nr)} – ${k.titel}`), kapitelLeiste),
       ansageU(Q.ansage),
       el("section", { class: "satzkarte geschichte" },
         el("div", { class: "knopfreihe" }, knopf(U.kapitel_alles, () => vorlesen(k.absaetze), "haupt"), knopf(U.stop, stopp)),
         el("div", { class: "absaetze" }, absaetze),
+        gelesen && el("div", { class: "knopfreihe" }, gelesen),
         el("div", { class: "knopfreihe" },
-          nr < frei ? knopf(U[Q.weiter], () => Q.zeigen(nr + 1), "haupt")
-            : el("p", { class: "klein" }, uf(nr < alle ? Q.naechste : Q.ende)),
+          naechstes ? knopf(U[Q.weiter], () => Q.zeigen(naechstes.nr), "haupt")
+            : el("p", { class: "klein" }, Q.punkte && kapitelNachThema() && nr < alle && U.kapitel_thema
+              ? uf("kapitel_thema", { n: nr + 1, thema: (themaZuKapitel(nr + 1) || {}).name || "" }) : uf(nr < alle ? Q.naechste : Q.ende)),
           knopf(U.sammlung, sammlung))));
   }
 
@@ -1433,6 +1476,13 @@
     const schluessel = `${tid}|${g}`;
     if (!S.gruppen[schluessel]) { S.gruppen[schluessel] = true; punkteDazu(PUNKTE.einheit); }
     const t = thema(tid), alle = !!t && gruppenVon(t).every((_, i) => gruppeFertig(tid, i));
+    if (alle && kapitelNachThema() && U.kapitel_neu) {
+      const nr = D.themen.indexOf(t) + 1, k = D.geschichte[nr - 1];
+      if (k && !(S.kapitel_gefeiert || []).includes(nr) && !(nr <= (S.kapitel_alt || 0))) {
+        S.kapitel_gefeiert = [...(S.kapitel_gefeiert || []), nr];
+        ereignisse.push({ art: "feier", symbol: "📖", titel: `${f(U.chapitre, { n: nr })} – ${k.titel}`, text: f(U.kapitel_neu[0], { titel: k.titel }) });
+      }
+    }
     speichern();
     const text = lob(true), textDe = lobDe();
     nachLob(lobEnde);
@@ -1574,12 +1624,12 @@
     return n;
   }
   const ereignisse = [];
-  function belohne(erstesMal, istSeance) {
+  function belohne(erstesMal, istSeance, punkteEigen) {
     const sr = stand.serie, d = heute(), tag = iso(d);
     const vorher = orteBei(neueTeile() + S.spiel.seances - (istSeance ? 0 : erstesMal ? 1 : 0));
     if (istSeance) S.spiel.seances++;
     if (orteFrei() > vorher) ereignisse.push({ art: "ort", ort: SP.orte[orteFrei() - 1] });
-    let plus = istSeance ? PUNKTE.seance : erstesMal ? PUNKTE.teil : PUNKTE.wiederholung;
+    let plus = punkteEigen != null ? punkteEigen : istSeance ? PUNKTE.seance : erstesMal ? PUNKTE.teil : PUNKTE.wiederholung;
     const ersterDesTages = !sr.tage[tag];
     sr.tage[tag] = (sr.tage[tag] || 0) + 1;
     if (ersterDesTages) {
@@ -1596,7 +1646,7 @@
           sr.wochen.push(iso(mo)); plus += PUNKTE.woche;
           const kap = D.geschichte[Math.min(D.geschichte.length, 1 + sr.wochen.length) - 1];
           ereignisse.push({ art: "feier", symbol: "⭐", titel: U.semaine_parfaite_titel,
-            text: f(U.semaine_parfaite_text, { p: PUNKTE.woche }) + (kap && sr.wochen.length < D.geschichte.length ? f(U.nouveau_chapitre, { titel: kap.titel }) : U.suite_bientot), ton: SP.texte.woche });
+            text: f(U.semaine_parfaite_text, { p: PUNKTE.woche }) + (kap && !kapitelNachThema() && sr.wochen.length < D.geschichte.length ? f(U.nouveau_chapitre, { titel: kap.titel }) : U.suite_bientot), ton: SP.texte.woche });
           const ws = wochenSerie(mo);
           if (ws >= 4 && ws % 4 === 0) {
             plus += PUNKTE.monat; if (!sr.abzeichen.includes("monat")) sr.abzeichen.push("monat");
@@ -1795,7 +1845,7 @@
       D.geschichte.length && el("section", { class: "satzkarte" },
         el("h2", {}, `📖 ${D.geschichte_info.titel} (${kapitelFrei()} / ${D.geschichte.length})`),
         el("p", { class: "klein" }, frde(D.geschichte_info.sammlung[0], D.geschichte_info.sammlung[1])),
-        el("div", { class: "heldenraster" }, D.geschichte.map((k) => k.nr <= kapitelFrei()
+        el("div", { class: "heldenraster" }, D.geschichte.map((k) => kapitelOffen(k.nr)
           ? el("button", { class: "kapitel-karte", onclick: () => zeigeKapitel(k.nr) }, el("span", { class: "kapitel-nr" }, f(U.chapitre, { n: k.nr })), el("strong", { lang: D.lang }, k.titel))
           : el("div", { class: "held-zu", "aria-label": U.pas_debloque }, el("span", {}, "?"), el("small", {}, U.semaine_parfaite))))),
       SP.orte.length && el("section", { class: "satzkarte" },

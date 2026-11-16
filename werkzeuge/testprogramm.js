@@ -132,6 +132,49 @@ const URL = `http://localhost:${srv.address().port}/`;
     await p.close();
   }
 
+  // 5b. Geschichte (fr/es/it/pt, Mr. Alex 16.11.): Kapitel 1 offen, Kapitel n öffnet sich mit fertigem Thema n,
+  //     Wendungen antippbar, « Chapitre lu » erst nach Mindestzeit, 20 Punkte beim ersten Mal, 5 bei Wiederholung (einmal am Tag), Power Up
+  for (const paar of ["fr-de"].filter((x) => !NUR || x === NUR)) {
+    const p = await neueSeite(390, 860);
+    const probleme = [];
+    try {
+      await p.goto(URL); await p.waitForTimeout(200);
+      const th2 = await p.evaluate((x) => window.SPRACHEN[x].themen[1].id, paar);
+      await p.evaluate((st) => localStorage.setItem("languages-v1", JSON.stringify(st)), stand(paar, { teile: {}, karten: {}, tag: null, gruppen: {}, spiel: { punkte: 0, titel: 0, seances: 0 } }));
+      await p.reload(); await p.waitForTimeout(300);
+      const lies = () => p.evaluate((x) => JSON.parse(localStorage.getItem("languages-v1")).sprachen[x], paar);
+      await p.click(`.kachel[aria-label="${await p.evaluate((x) => window.SPRACHEN[x].geschichte_info.titel, paar)}"]`); await p.waitForTimeout(250);
+      if (!(await p.$(".kopf .sprung.jetzt"))) probleme.push("Kapitel 1 öffnet nicht");
+      if (!(await p.$eval(".kopf .sprung >> nth=1", (k) => k.disabled))) probleme.push("Kapitel 2 offen ohne Thema 2");
+      const links = await p.$$eval(".wendung-link", (x) => x.length);
+      if (links < 20) probleme.push(`nur ${links} antippbare Wendungen`);
+      await p.click(".wendung-link >> nth=0"); await p.waitForTimeout(150);
+      if (!(await p.$(".toast"))) probleme.push("Antippen zeigt keine Wendung");
+      const lu = `button:has-text("${(await p.evaluate((x) => window.SPRACHEN[x].ui.kapitel_lu, paar)).replace("✓ ", "")}")`;
+      if (!(await p.$eval(lu, (k) => k.disabled))) probleme.push("« Chapitre lu » sofort frei");
+      await p.$eval(lu, (k) => { k.disabled = false; k.click(); }); await p.waitForTimeout(300);
+      let s = await lies();
+      if (s.spiel.punkte !== 20) probleme.push(`erstes Lesen ${s.spiel.punkte} Punkte statt 20`);
+      if (!s.teile["kapitel:1|0|0"]) probleme.push("Kapitel nicht als Power-Up-Teil gespeichert");
+      if (!(await p.$eval(lu, (k) => k.disabled))) probleme.push("zweimal am Tag möglich");
+      // Wiederholung an einem anderen Tag: 5 Punkte
+      await p.evaluate((x) => { const st = JSON.parse(localStorage.getItem("languages-v1")); st.sprachen[x].kapitel_tag = { 1: "2020-01-01" }; localStorage.setItem("languages-v1", JSON.stringify(st)); }, paar);
+      await p.reload(); await p.waitForTimeout(300);
+      await p.click(`.kachel[aria-label="${await p.evaluate((x) => window.SPRACHEN[x].geschichte_info.titel, paar)}"]`); await p.waitForTimeout(250);
+      await p.$eval(lu, (k) => { k.disabled = false; k.click(); }); await p.waitForTimeout(300);
+      s = await lies();
+      if (s.spiel.punkte !== 25) probleme.push(`Wiederholung ergibt ${s.spiel.punkte - 20} statt 5 Punkte`);
+      // Thema 2 fertig → Kapitel 2 offen
+      await p.evaluate(([x, tid]) => { const st = JSON.parse(localStorage.getItem("languages-v1")); for (let g = 0; g < 8; g++) for (let i = 0; i < 12; i++) st.sprachen[x].teile[`${tid}|${g}|${i}`] = { am: "2026-01-01", s: 0 }; localStorage.setItem("languages-v1", JSON.stringify(st)); }, [paar, th2]);
+      await p.reload(); await p.waitForTimeout(300);
+      await p.click(`.kachel[aria-label="${await p.evaluate((x) => window.SPRACHEN[x].geschichte_info.titel, paar)}"]`); await p.waitForTimeout(250);
+      if (!(await p.$(".kopf .sprung.jetzt:has-text('2')"))) probleme.push("Kapitel 2 nach fertigem Thema 2 nicht offen");
+      if (await p.$eval(".kopf .sprung >> nth=2", (k) => !k.disabled)) probleme.push("Kapitel 3 offen ohne Thema 3");
+    } catch (e) { probleme.push(e.message.split("\n")[0]); }
+    ok(`${paar}: Geschichte (Kapitel je Thema, Wendungen antippbar, 20/5 Punkte, Power Up)`, probleme.length === 0 && p.fehlerListe.length === 0, [...probleme, ...p.fehlerListe].slice(0, 3).join(" | "));
+    await p.close();
+  }
+
   // 6. English-Ausgabe lädt
   { const p = await neueSeite(390, 860); await p.goto(URL + "english/"); await p.waitForTimeout(400);
     ok("English-Ausgabe lädt", p.fehlerListe.length === 0 && !!(await p.$(".gym-karte")), p.fehlerListe.slice(0, 2).join(" | ")); await p.close(); }

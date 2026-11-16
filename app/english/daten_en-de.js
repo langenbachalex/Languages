@@ -96,6 +96,7 @@ window.SPRACHEN["en-de"] = {
    "⚡ 1 Teil fast leer – aufladen!"
   ],
   "powerup_ok": "⚡ Powered up!",
+  "kapitel_lu": "✓ Chapter read",
   "neu_pro_tag": [
    "New per day",
    "Neue pro Tag"
